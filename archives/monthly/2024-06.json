@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717338856338,
+  "endTime": 1717341510879,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -323,12 +323,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1033663,
+      "num": 1033663,
+      "word": "婚后与公婆同住小两口7天吵5架离婚",
+      "onboard_time": 1717339040,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1017885,
+      "num": 1017885,
+      "word": "李沁一字告别庆余年",
+      "onboard_time": 1717336459,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 968702,
       "num": 298277,
       "word": "冰红茶直播",
       "onboard_time": 1717230738,
       "rank": 17,
       "category": "美食"
+    },
+    {
+      "raw_hot": 966780,
+      "num": 630471,
+      "word": "退票",
+      "onboard_time": 1717336941,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 955590,
@@ -483,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 803517,
-      "num": 549077,
-      "word": "李沁一字告别庆余年",
-      "onboard_time": 1717336459,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 794848,
       "num": 794848,
       "word": "逆水寒 剑网三",
@@ -635,6 +651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 706171,
+      "num": 706171,
+      "word": "演得有点不顾观众死活了",
+      "onboard_time": 1717339460,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 679701,
       "num": 371059,
       "word": "孙卓妈妈感谢学校保护孩子隐私",
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 663803,
-      "num": 208503,
+      "num": 231498,
       "word": "杭州女子一年内确诊三种癌",
       "onboard_time": 1717335019,
       "rank": 32,
@@ -761,14 +785,6 @@
       "onboard_time": 1717296978,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 607767,
-      "num": 464018,
-      "word": "退票",
-      "onboard_time": 1717336941,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 604879,
@@ -907,12 +923,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 527778,
+      "num": 527778,
+      "word": "墨雨云间",
+      "onboard_time": 1717212917,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526564,
       "num": 209902,
       "word": "顾客在奶茶里喝出整只壁虎",
       "onboard_time": 1717223119,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 525103,
+      "num": 500874,
+      "word": "吴宣仪忘了放杨超越的照片",
+      "onboard_time": 1717340301,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 520876,
@@ -944,6 +976,14 @@
       "word": "肖战张婧仪杀青照",
       "onboard_time": 1717298718,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 503579,
+      "num": 469971,
+      "word": "林若甫 一声爹例外触动天下人",
+      "onboard_time": 1717338980,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -1217,6 +1257,14 @@
       "onboard_time": 1717329979,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430336,
+      "num": 220783,
+      "word": "李一桐回复金晨",
+      "onboard_time": 1717339699,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 428754,
@@ -1812,7 +1860,7 @@
     },
     {
       "raw_hot": 329860,
-      "num": 205620,
+      "num": 209327,
       "word": "刘端端告别二皇子",
       "onboard_time": 1717337960,
       "rank": 22,
@@ -1857,6 +1905,14 @@
       "onboard_time": 1717167864,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324734,
+      "num": 210106,
+      "word": "李小冉下部戏还是演反派",
+      "onboard_time": 1717340120,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 322415,
@@ -2123,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286134,
+      "num": 286134,
+      "word": "杨舒予太牛了",
+      "onboard_time": 1717336759,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284408,
       "num": 284408,
       "word": "C罗赛后痛哭",
@@ -2137,14 +2201,6 @@
       "onboard_time": 1717228876,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 283128,
-      "num": 283128,
-      "word": "杨舒予太牛了",
-      "onboard_time": 1717336759,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 280191,
@@ -2299,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258354,
+      "num": 202717,
+      "word": "张若昀庆余年2最后一场戏",
+      "onboard_time": 1717338561,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258157,
       "num": 258157,
       "word": "白玉兰男女主角提报规则",
@@ -2435,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237510,
+      "num": 184794,
+      "word": "墨雨云间原著",
+      "onboard_time": 1717340840,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237268,
       "num": 237268,
       "word": "赵冬苓说属于王一博的荣耀在前面等着",
@@ -2536,6 +2608,14 @@
       "word": "离婚是升咖的开始",
       "onboard_time": 1717319058,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228871,
+      "num": 177487,
+      "word": "陈道明演技",
+      "onboard_time": 1717338620,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -3155,6 +3235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190142,
+      "num": 190142,
+      "word": "XYG夺冠",
+      "onboard_time": 1717340240,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189584,
       "num": 189584,
       "word": "TES战胜RA",
@@ -3243,28 +3331,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 186261,
-      "num": 124253,
-      "word": "张若昀庆余年2最后一场戏",
-      "onboard_time": 1717338561,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185924,
       "num": 185924,
       "word": "UP对战iG",
       "onboard_time": 1717236557,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185511,
-      "num": 124195,
-      "word": "陈道明演技",
-      "onboard_time": 1717338620,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 185158,
@@ -3915,6 +3987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154447,
+      "num": 177551,
+      "word": "牛肉价格大跌",
+      "onboard_time": 1717340900,
+      "rank": 34,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 153893,
       "num": 299149,
       "word": "王曼昱VS伊藤美诚",
@@ -4025,6 +4105,14 @@
       "onboard_time": 1717219818,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148880,
+      "num": 173005,
+      "word": "中国女排排名降至亚洲第二",
+      "onboard_time": 1717341140,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 148835,
@@ -4651,14 +4739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124462,
-      "num": 124462,
-      "word": "墨雨云间",
-      "onboard_time": 1717212917,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123529,
       "num": 278097,
       "word": "你最想对小时候的自己说什么",
@@ -4785,6 +4865,14 @@
       "onboard_time": 1717305498,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116593,
+      "num": 116593,
+      "word": "剑网3手绘",
+      "onboard_time": 1717340779,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 116267,
@@ -5745,6 +5833,14 @@
       "onboard_time": 1717246398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53794,
+      "num": 565454,
+      "word": "高考前不尝试新运动项目",
+      "onboard_time": 1717340301,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 53600,
