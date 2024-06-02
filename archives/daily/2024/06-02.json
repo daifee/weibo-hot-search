@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717305474926,
+  "endTime": 1717306454089,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 672083,
+      "num": 209190,
+      "word": "恋爱两年不到男朋友给我花了十万",
+      "onboard_time": 1717303098,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 668525,
       "num": 668525,
       "word": "8岁女孩脑死亡过最后一个六一",
@@ -147,14 +155,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 572337,
-      "num": 209190,
-      "word": "恋爱两年不到男朋友给我花了十万",
-      "onboard_time": 1717303098,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 572042,
       "num": 572042,
       "word": "樊振东vs张本智和",
@@ -184,6 +184,14 @@
       "word": "肖战张婧仪杀青照",
       "onboard_time": 1717298718,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 495402,
+      "num": 495402,
+      "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
+      "onboard_time": 1717301777,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -283,14 +291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 420312,
-      "num": 363533,
-      "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
-      "onboard_time": 1717301777,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 413331,
       "num": 256583,
       "word": "局长为谋求副厅被骗300万元",
@@ -321,6 +321,14 @@
       "onboard_time": 1717292535,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388253,
+      "num": 262206,
+      "word": "袁泉夏雨 低调相守的爱情",
+      "onboard_time": 1717304238,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 385848,
@@ -403,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312513,
+      "num": 164559,
+      "word": "男子假扮道士性侵留守儿童致其怀孕",
+      "onboard_time": 1717305978,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 302891,
       "num": 302891,
       "word": "为什么有的人一天只睡4小时也很精神",
@@ -459,20 +475,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286077,
+      "num": 229025,
+      "word": "杨超越古装",
+      "onboard_time": 1717305378,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268711,
       "num": 268711,
       "word": "不法人员在充电宝内安装窃听定位",
       "onboard_time": 1717289717,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262206,
-      "num": 262206,
-      "word": "袁泉夏雨 低调相守的爱情",
-      "onboard_time": 1717304238,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 262095,
@@ -497,6 +513,14 @@
       "onboard_time": 1717302017,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252496,
+      "num": 168328,
+      "word": "以闪亮之名",
+      "onboard_time": 1717305797,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 246402,
@@ -545,6 +569,14 @@
       "onboard_time": 1717298718,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232844,
+      "num": 168233,
+      "word": "以闪亮之名 游轮",
+      "onboard_time": 1717306278,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 232577,
@@ -763,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168908,
+      "num": 168908,
+      "word": "因取名离谱注册公司被婉拒",
+      "onboard_time": 1717305918,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168623,
       "num": 168623,
       "word": "许嵩曾被妈妈抓包偷玩电脑",
@@ -883,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146274,
+      "num": 192484,
+      "word": "月背挖土像穿袜子",
+      "onboard_time": 1717305378,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146263,
       "num": 150031,
       "word": "高考倒计时5天",
@@ -931,6 +979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142124,
+      "num": 142124,
+      "word": "惠英红 不要一直提醒自己很苦",
+      "onboard_time": 1717305857,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141450,
       "num": 141450,
       "word": "薛之谦演唱会背过身吸氧",
@@ -961,6 +1017,14 @@
       "onboard_time": 1717288696,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131580,
+      "num": 301789,
+      "word": "帆布包的性价比有多高",
+      "onboard_time": 1717304118,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131475,
@@ -1019,28 +1083,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119321,
-      "num": 118039,
-      "word": "杨超越古装",
-      "onboard_time": 1717305378,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 117908,
-      "num": 117908,
-      "word": "月背挖土像穿袜子",
-      "onboard_time": 1717305378,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "二建市政",
       "onboard_time": 1717303638,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117092,
+      "num": 117092,
+      "word": "UFC",
+      "onboard_time": 1717305498,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 116267,
@@ -1201,14 +1257,6 @@
       "onboard_time": 1717295958,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97656,
-      "num": 301789,
-      "word": "帆布包的性价比有多高",
-      "onboard_time": 1717304118,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96916,
@@ -1411,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50780,
+      "num": 177675,
+      "word": "港风少女提了第十万台smart",
+      "onboard_time": 1717304838,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45209,
       "num": 45209,
       "word": "克罗斯皇马生涯结束",
@@ -1473,14 +1529,6 @@
       "onboard_time": 1717246398,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37714,
-      "num": 118230,
-      "word": "港风少女提了第十万台smart",
-      "onboard_time": 1717304838,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 35871,

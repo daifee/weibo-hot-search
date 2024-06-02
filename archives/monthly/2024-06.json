@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717305474926,
+  "endTime": 1717306454089,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 672083,
+      "num": 209190,
+      "word": "恋爱两年不到男朋友给我花了十万",
+      "onboard_time": 1717303098,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 668525,
       "num": 668525,
       "word": "8岁女孩脑死亡过最后一个六一",
@@ -563,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 572337,
-      "num": 209190,
-      "word": "恋爱两年不到男朋友给我花了十万",
-      "onboard_time": 1717303098,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 572042,
       "num": 572042,
       "word": "樊振东vs张本智和",
@@ -673,6 +673,14 @@
       "onboard_time": 1717214357,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495402,
+      "num": 495402,
+      "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
+      "onboard_time": 1717301777,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 494636,
@@ -875,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420312,
-      "num": 363533,
-      "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
-      "onboard_time": 1717301777,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 417816,
       "num": 303929,
       "word": "艾森豪威尔号航母",
@@ -977,6 +977,14 @@
       "onboard_time": 1717230858,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 388253,
+      "num": 262206,
+      "word": "袁泉夏雨 低调相守的爱情",
+      "onboard_time": 1717304238,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 388184,
@@ -1347,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312513,
+      "num": 164559,
+      "word": "男子假扮道士性侵留守儿童致其怀孕",
+      "onboard_time": 1717305978,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 310109,
       "num": 241779,
       "word": "明家好疯",
@@ -1459,6 +1475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286077,
+      "num": 229025,
+      "word": "杨超越古装",
+      "onboard_time": 1717305378,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284408,
       "num": 284408,
       "word": "C罗赛后痛哭",
@@ -1555,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262206,
-      "num": 262206,
-      "word": "袁泉夏雨 低调相守的爱情",
-      "onboard_time": 1717304238,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 262198,
       "num": 262198,
       "word": "光与夜之恋",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1717208177,
       "rank": 31,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 252496,
+      "num": 168328,
+      "word": "以闪亮之名",
+      "onboard_time": 1717305797,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 252469,
@@ -1721,6 +1745,14 @@
       "onboard_time": 1717298718,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232844,
+      "num": 168233,
+      "word": "以闪亮之名 游轮",
+      "onboard_time": 1717306278,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 231828,
@@ -2435,6 +2467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168908,
+      "num": 168908,
+      "word": "因取名离谱注册公司被婉拒",
+      "onboard_time": 1717305918,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168623,
       "num": 168623,
       "word": "许嵩曾被妈妈抓包偷玩电脑",
@@ -2859,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146274,
+      "num": 192484,
+      "word": "月背挖土像穿袜子",
+      "onboard_time": 1717305378,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 146263,
       "num": 150031,
       "word": "高考倒计时5天",
@@ -2953,6 +3001,14 @@
       "onboard_time": 1717230738,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142124,
+      "num": 142124,
+      "word": "惠英红 不要一直提醒自己很苦",
+      "onboard_time": 1717305857,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 141450,
@@ -3131,6 +3187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131580,
+      "num": 301789,
+      "word": "帆布包的性价比有多高",
+      "onboard_time": 1717304118,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131475,
       "num": 205439,
       "word": "梦想的肌肉线条长在了6岁小孩姐身上",
@@ -3283,14 +3347,6 @@
       "category": "军事,社会新闻"
     },
     {
-      "raw_hot": 119321,
-      "num": 118039,
-      "word": "杨超越古装",
-      "onboard_time": 1717305378,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 119129,
       "num": 253764,
       "word": "华为发布会",
@@ -3315,14 +3371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117908,
-      "num": 117908,
-      "word": "月背挖土像穿袜子",
-      "onboard_time": 1717305378,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "二建市政",
@@ -3345,6 +3393,14 @@
       "onboard_time": 1717206376,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117092,
+      "num": 117092,
+      "word": "UFC",
+      "onboard_time": 1717305498,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 116267,
@@ -3697,14 +3753,6 @@
       "onboard_time": 1717295958,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97656,
-      "num": 301789,
-      "word": "帆布包的性价比有多高",
-      "onboard_time": 1717304118,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96916,
@@ -4163,6 +4211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 50780,
+      "num": 177675,
+      "word": "港风少女提了第十万台smart",
+      "onboard_time": 1717304838,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 50078,
       "num": 1419718,
       "word": "万千气象看广东",
@@ -4289,14 +4345,6 @@
       "onboard_time": 1717162287,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37714,
-      "num": 118230,
-      "word": "港风少女提了第十万台smart",
-      "onboard_time": 1717304838,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 36150,
