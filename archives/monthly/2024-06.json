@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717370378733,
+  "endTime": 1717371261934,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -851,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 574638,
+      "num": 574638,
+      "word": "洪竹要说再见了",
+      "onboard_time": 1717344378,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 572042,
       "num": 572042,
       "word": "樊振东vs张本智和",
@@ -865,14 +873,6 @@
       "onboard_time": 1717166422,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 566489,
-      "num": 566489,
-      "word": "洪竹要说再见了",
-      "onboard_time": 1717344378,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 566024,
@@ -1947,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321285,
+      "num": 242302,
+      "word": "邓超抱的竟然是鹿晗",
+      "onboard_time": 1717349773,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320897,
       "num": 320897,
       "word": "中国女排0比1意大利女排",
@@ -2171,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290145,
+      "num": 192990,
+      "word": "迪丽热巴",
+      "onboard_time": 1717371016,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289469,
       "num": 289469,
       "word": "闪耀暖暖",
@@ -2201,14 +2217,6 @@
       "onboard_time": 1717336759,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285479,
-      "num": 188997,
-      "word": "邓超抱的竟然是鹿晗",
-      "onboard_time": 1717349773,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 284408,
@@ -2657,6 +2665,14 @@
       "onboard_time": 1717338620,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228105,
+      "num": 228105,
+      "word": "G2夺冠",
+      "onboard_time": 1717370715,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 227344,
@@ -3587,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172767,
+      "num": 172767,
+      "word": "李盈莹答朱婷为何没上场",
+      "onboard_time": 1717368853,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172484,
       "num": 160058,
       "word": "刘晓庆不知道李维嘉有洁癖",
@@ -3744,6 +3768,14 @@
       "word": "2024新加坡羽毛球公开赛",
       "onboard_time": 1717330757,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166415,
+      "num": 166415,
+      "word": "惠若琪说女排得分手段损失掉了",
+      "onboard_time": 1717347614,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3947,6 +3979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159536,
+      "num": 159536,
+      "word": "一心堂门店比肯德基还多",
+      "onboard_time": 1717365491,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 159399,
       "num": 159399,
       "word": "河北一地现白菜房6万能买两室一厅",
@@ -4049,14 +4089,6 @@
       "onboard_time": 1717215977,
       "rank": 41,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 152981,
-      "num": 131578,
-      "word": "惠若琪说女排得分手段损失掉了",
-      "onboard_time": 1717347614,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 152659,
@@ -4225,6 +4257,14 @@
       "onboard_time": 1717323678,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146638,
+      "num": 146638,
+      "word": "日本地震",
+      "onboard_time": 1717370594,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146263,
@@ -4579,6 +4619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133448,
+      "num": 133448,
+      "word": "张若昀说等我回来",
+      "onboard_time": 1717370475,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132561,
       "num": 132561,
       "word": "杨洋i人e狗",
@@ -4617,14 +4665,6 @@
       "onboard_time": 1717313177,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 130485,
-      "num": 130485,
-      "word": "李盈莹答朱婷为何没上场",
-      "onboard_time": 1717368853,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 130483,
@@ -5075,20 +5115,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111329,
+      "num": 111329,
+      "word": "女子骗走男友891万获刑13年6个月",
+      "onboard_time": 1717348873,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111095,
       "num": 111095,
       "word": "国乒包揽重庆赛男女单冠亚军",
       "onboard_time": 1717339580,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110168,
-      "num": 110168,
-      "word": "一心堂门店比肯德基还多",
-      "onboard_time": 1717365491,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 109841,
@@ -5347,6 +5387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102661,
+      "num": 102661,
+      "word": "高圆圆好懂35岁女性的困境",
+      "onboard_time": 1717360450,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102636,
       "num": 102636,
       "word": "刘维无声的悲痛震耳欲聋",
@@ -5475,12 +5523,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 91856,
-      "num": 91856,
-      "word": "高圆圆好懂35岁女性的困境",
-      "onboard_time": 1717360450,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 92006,
+      "num": 83604,
+      "word": "汶珊官宣退网",
+      "onboard_time": 1717370896,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 91523,
@@ -5505,14 +5553,6 @@
       "onboard_time": 1717230917,
       "rank": 49,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 87949,
-      "num": 87949,
-      "word": "女子骗走男友891万获刑13年6个月",
-      "onboard_time": 1717348873,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87914,
@@ -5699,6 +5739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79106,
+      "num": 79106,
+      "word": "减肥主食分为3个黄金等级",
+      "onboard_time": 1717362851,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 78929,
       "num": 54703,
       "word": "卡瓦哈尔破门",
@@ -5763,14 +5811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 73480,
-      "num": 73480,
-      "word": "减肥主食分为3个黄金等级",
-      "onboard_time": 1717362851,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 73184,
       "num": 366584,
       "word": "第一次在大熊猫脸上看到震惊",
@@ -5817,6 +5857,14 @@
       "onboard_time": 1717313356,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 67757,
+      "num": 67757,
+      "word": "焦虑症不治疗后果有多严重",
+      "onboard_time": 1717354572,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67416,
@@ -5875,20 +5923,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62072,
-      "num": 62072,
-      "word": "焦虑症不治疗后果有多严重",
-      "onboard_time": 1717354572,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 61928,
       "num": 201100,
       "word": "西湖荷花在巴黎开了",
       "onboard_time": 1717214118,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 61196,
+      "num": 61196,
+      "word": "李小冉适合当种田文女主",
+      "onboard_time": 1717358412,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 60907,
@@ -5971,14 +6019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53025,
-      "num": 53025,
-      "word": "李小冉适合当种田文女主",
-      "onboard_time": 1717358412,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 52690,
       "num": 52690,
       "word": "薛之谦天外来物巡回演唱会",
@@ -6033,6 +6073,14 @@
       "onboard_time": 1717209377,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49801,
+      "num": 49801,
+      "word": "Mark问Uzi去不去WE",
+      "onboard_time": 1717371137,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 49155,
@@ -6347,6 +6395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26481,
+      "num": 196980,
+      "word": "被稳稳托住的感觉真好",
+      "onboard_time": 1717370236,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25346,
       "num": 38179,
       "word": "乘风2024",
@@ -6537,14 +6593,6 @@
       "onboard_time": 1717247238,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8988,
-      "num": 95595,
-      "word": "被稳稳托住的感觉真好",
-      "onboard_time": 1717370236,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 6424,
