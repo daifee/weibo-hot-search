@@ -1,0 +1,410 @@
+{
+  "runTime": 1717320873706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651644,
+        "num": 1651644,
+        "word": "明教",
+        "onboard_time": 1717318278,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1185671,
+        "num": 1185671,
+        "word": "董璇女儿出道",
+        "onboard_time": 1717317618,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56060,
+        "num": 966672,
+        "word": "文脉华章",
+        "onboard_time": 1717313836,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908307,
+        "num": 908307,
+        "word": "丁真 大家都欲望太强了",
+        "onboard_time": 1717311978,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314407,
+        "num": 314407,
+        "word": "霸刀",
+        "onboard_time": 1717312637,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232336,
+        "num": 296596,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1717317498,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481074,
+        "num": 293763,
+        "word": "贾玲1个月喜提2代言",
+        "onboard_time": 1717315758,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330742,
+        "num": 291343,
+        "word": "邓超录五哈不忘给孙俪买礼物",
+        "onboard_time": 1717319118,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288261,
+        "num": 288261,
+        "word": "董宇辉成了618局外人",
+        "onboard_time": 1717314137,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37905,
+        "num": 269488,
+        "word": "父女雨天摔倒路人帮忙细节拉满",
+        "onboard_time": 1717313778,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778004,
+        "num": 268926,
+        "word": "向佐查了李胜利所有外网账号",
+        "onboard_time": 1717307777,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317421,
+        "num": 268806,
+        "word": "张杰谢娜关系不一般",
+        "onboard_time": 1717310897,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261308,
+        "num": 261308,
+        "word": "阿沁控诉詹雯婷抄袭",
+        "onboard_time": 1717312457,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235016,
+        "num": 235016,
+        "word": "中国防长沉着应对外方打断",
+        "onboard_time": 1717317738,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229580,
+        "num": 229580,
+        "word": "金莎回应孙丞潇开会离席",
+        "onboard_time": 1717318398,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222350,
+        "num": 222350,
+        "word": "网友偶遇2024高考试卷押运车队",
+        "onboard_time": 1717313657,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120776,
+        "num": 207083,
+        "word": "霸刀山庄 大门",
+        "onboard_time": 1717311917,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200961,
+        "num": 200961,
+        "word": "新疆沙漠出现一片野生睡莲花海",
+        "onboard_time": 1717317498,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 190668,
+        "num": 190668,
+        "word": "端午真争气生在了周一",
+        "onboard_time": 1717284254,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135214,
+        "num": 190540,
+        "word": "孙颖莎3比0早田希娜",
+        "onboard_time": 1717318698,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343978,
+        "num": 189621,
+        "word": "身上的气味可能会影响异性对你好感",
+        "onboard_time": 1717316118,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219785,
+        "num": 188723,
+        "word": "钟楚曦十八宫格泳池照",
+        "onboard_time": 1717320557,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217081,
+        "num": 188017,
+        "word": "王俊凯发和周杰伦合照",
+        "onboard_time": 1717312517,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212083,
+        "num": 187115,
+        "word": "第一素颜女神自曝做脸",
+        "onboard_time": 1717318818,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209584,
+        "num": 186940,
+        "word": "谁家早饭花50晚饭花2000",
+        "onboard_time": 1717309037,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207837,
+        "num": 186183,
+        "word": "离婚是升咖的开始",
+        "onboard_time": 1717319058,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194567,
+        "num": 185441,
+        "word": "时代少年团看镜头",
+        "onboard_time": 1717320198,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184963,
+        "num": 184963,
+        "word": "恋爱两年不到男朋友给我花了十万",
+        "onboard_time": 1717303098,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162351,
+        "num": 162351,
+        "word": "张若昀自己争取的范闲",
+        "onboard_time": 1717312997,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125525,
+        "num": 161892,
+        "word": "羡慕成都的毕业生",
+        "onboard_time": 1717318938,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33207,
+        "num": 161057,
+        "word": "魏大勋版汽车语音播报",
+        "onboard_time": 1717318398,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215585,
+        "num": 159562,
+        "word": "特朗普入驻TikTok",
+        "onboard_time": 1717320379,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172154,
+        "num": 157948,
+        "word": "我们家INFJ怎么没有工作啊",
+        "onboard_time": 1717320257,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157780,
+        "num": 157780,
+        "word": "范玮琪正式复出",
+        "onboard_time": 1717320557,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156001,
+        "num": 156001,
+        "word": "杨超越墨雨云间下线镜头",
+        "onboard_time": 1717317678,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148361,
+        "num": 148361,
+        "word": "万妮达偏偏你最争气",
+        "onboard_time": 1717319898,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144345,
+        "num": 144345,
+        "word": "宁艺卓ending镜头",
+        "onboard_time": 1717319539,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139776,
+        "num": 139776,
+        "word": "不亚于图书馆30秒的外卖评价",
+        "onboard_time": 1717317738,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139216,
+        "num": 139216,
+        "word": "阿Sa模仿汪小姐",
+        "onboard_time": 1717320138,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105403,
+        "num": 138542,
+        "word": "也门胡塞武装称袭击美军航母",
+        "onboard_time": 1717317078,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138542,
+        "num": 138541,
+        "word": "家里拆迁后妈给了我100万拆迁款",
+        "onboard_time": 1717299377,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131056,
+        "num": 131056,
+        "word": "删了吧有个研究生破防了",
+        "onboard_time": 1717320857,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123242,
+        "num": 123242,
+        "word": "爸爸去哪儿董力上岛创业",
+        "onboard_time": 1717313058,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116998,
+        "num": 116998,
+        "word": "剑网3喊话逆水寒删天赏",
+        "onboard_time": 1717311857,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31697,
+        "num": 116799,
+        "word": "问界新M7Ultra上市即交付",
+        "onboard_time": 1717315698,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 116757,
+        "num": 116757,
+        "word": "虞书欣CHA了YG新女团的歌",
+        "onboard_time": 1717308978,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115005,
+        "num": 115005,
+        "word": "沈载伦 短发回归",
+        "onboard_time": 1717318698,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109514,
+        "num": 109514,
+        "word": "肖战藏海眼神戏",
+        "onboard_time": 1717316538,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98888,
+        "num": 98888,
+        "word": "国乒包揽重庆赛女单4强",
+        "onboard_time": 1717318998,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95396,
+        "num": 95396,
+        "word": "逆水寒美工",
+        "onboard_time": 1717314557,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设文化强国建设中华民族现代文明#"
+    }
+  }
+}
