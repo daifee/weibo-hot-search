@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717327013673,
+  "endTime": 1717328055931,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -131,20 +131,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 859935,
+      "num": 859935,
+      "word": "删了吧有个研究生破防了",
+      "onboard_time": 1717320857,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 795579,
+      "num": 265035,
+      "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
+      "onboard_time": 1717326018,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 794848,
       "num": 794848,
       "word": "逆水寒 剑网三",
       "onboard_time": 1717323678,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 783002,
-      "num": 783002,
-      "word": "删了吧有个研究生破防了",
-      "onboard_time": 1717320857,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 770516,
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 731619,
-      "num": 265035,
-      "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
-      "onboard_time": 1717326018,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 672083,
       "num": 209190,
       "word": "恋爱两年不到男朋友给我花了十万",
@@ -209,6 +209,14 @@
       "onboard_time": 1717258877,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662816,
+      "num": 587940,
+      "word": "肖战重庆",
+      "onboard_time": 1717325297,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 661064,
@@ -267,14 +275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 587940,
-      "num": 587940,
-      "word": "肖战重庆",
-      "onboard_time": 1717325297,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 572042,
       "num": 572042,
       "word": "樊振东vs张本智和",
@@ -289,6 +289,14 @@
       "onboard_time": 1717245679,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 551944,
+      "num": 551944,
+      "word": "张若昀蛀牙",
+      "onboard_time": 1717323977,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 549083,
@@ -337,14 +345,6 @@
       "onboard_time": 1717311857,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 492924,
-      "num": 492924,
-      "word": "张若昀蛀牙",
-      "onboard_time": 1717323977,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 485240,
@@ -739,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298994,
+      "num": 298994,
+      "word": "张雪峰2026年志愿填报服务已售罄",
+      "onboard_time": 1717324098,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 297678,
       "num": 297678,
       "word": "刘亦菲草地牵狗",
@@ -803,20 +811,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281493,
-      "num": 281493,
-      "word": "张雪峰2026年志愿填报服务已售罄",
-      "onboard_time": 1717324098,
-      "rank": 19,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 278663,
       "num": 278663,
       "word": "钟楚曦十八宫格泳池照",
       "onboard_time": 1717320557,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 275306,
+      "num": 257425,
+      "word": "老公要用我的彩礼来装修房子",
+      "onboard_time": 1717324399,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 271490,
@@ -873,14 +881,6 @@
       "onboard_time": 1717301958,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 257425,
-      "num": 257425,
-      "word": "老公要用我的彩礼来装修房子",
-      "onboard_time": 1717324399,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 255018,
@@ -1099,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217580,
+      "num": 217580,
+      "word": "新加坡赛石宇奇男单冠军",
+      "onboard_time": 1717327697,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209763,
       "num": 209763,
       "word": "闪耀暖暖星云转转裙",
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 204507,
-      "num": 155533,
+      "num": 163792,
       "word": "张若昀说范闲仍未习惯这世界",
       "onboard_time": 1717326679,
       "rank": 31,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1717301719,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194392,
+      "num": 194392,
+      "word": "王曼昱4比0王艺迪",
+      "onboard_time": 1717327697,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 193786,
@@ -1347,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174780,
+      "num": 174780,
+      "word": "河南警方通报男子持刀刺死女子",
+      "onboard_time": 1717327397,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 173393,
       "num": 173393,
       "word": "王俊凯小时候的梦我知道",
@@ -1376,6 +1400,14 @@
       "word": "克罗斯 退役",
       "onboard_time": 1717286654,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171926,
+      "num": 171926,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1717327338,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1635,6 +1667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142269,
+      "num": 142269,
+      "word": "小米SU7大定锁单犹豫期缩至3天",
+      "onboard_time": 1717326437,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142124,
       "num": 142124,
       "word": "惠英红 不要一直提醒自己很苦",
@@ -1795,6 +1835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126403,
+      "num": 126403,
+      "word": "吉克隽逸在刘欢家过六一",
+      "onboard_time": 1717325779,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125680,
       "num": 125680,
       "word": "李健演唱会",
@@ -1849,14 +1897,6 @@
       "onboard_time": 1717311017,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121773,
-      "num": 121773,
-      "word": "吉克隽逸在刘欢家过六一",
-      "onboard_time": 1717325779,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 121046,
@@ -2107,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100946,
+      "num": 110716,
+      "word": "陈赫回应邓超",
+      "onboard_time": 1717325720,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98487,
       "num": 98487,
       "word": "刘宪华上半身身材",
@@ -2179,28 +2227,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93625,
-      "num": 110716,
-      "word": "陈赫回应邓超",
-      "onboard_time": 1717325720,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "安切洛蒂水平",
       "onboard_time": 1717290796,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90844,
-      "num": 110581,
-      "word": "小米SU7大定锁单犹豫期缩至3天",
-      "onboard_time": 1717326437,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 90202,
@@ -2360,6 +2392,14 @@
       "word": "这些地方的龙舟赛氛围拉满了",
       "onboard_time": 1717308197,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61342,
+      "num": 312795,
+      "word": "20元的面他付了200元还坚持不让退",
+      "onboard_time": 1717326858,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -2608,14 +2648,6 @@
       "word": "文化遗址里的中国故事",
       "onboard_time": 1717298238,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13528,
-      "num": 268272,
-      "word": "20元的面他付了200元还坚持不让退",
-      "onboard_time": 1717326858,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
