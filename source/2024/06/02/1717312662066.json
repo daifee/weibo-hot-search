@@ -1,0 +1,410 @@
+{
+  "runTime": 1717312662066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657102,
+        "num": 657102,
+        "word": "贾玲Prada",
+        "onboard_time": 1717292896,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493231,
+        "num": 493231,
+        "word": "剑网3喊话逆水寒删天赏",
+        "onboard_time": 1717311857,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13855,
+        "num": 453166,
+        "word": "嫦娥六号落月实况",
+        "onboard_time": 1717298477,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584163,
+        "num": 450778,
+        "word": "谁家早饭花50晚饭花2000",
+        "onboard_time": 1717309037,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436936,
+        "num": 436936,
+        "word": "端午真争气生在了周一",
+        "onboard_time": 1717284254,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233564,
+        "num": 406832,
+        "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
+        "onboard_time": 1717292896,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 473983,
+        "num": 404178,
+        "word": "孙丞潇上节目不满离席",
+        "onboard_time": 1717308318,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470891,
+        "num": 403126,
+        "word": "张杰谢娜关系不一般",
+        "onboard_time": 1717310897,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 397846,
+        "num": 397846,
+        "word": "原来你们漫画党吃这么好",
+        "onboard_time": 1717310897,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 148932,
+        "num": 388822,
+        "word": "国防部奉劝台独丢掉幻想",
+        "onboard_time": 1717310837,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1594170,
+        "num": 388617,
+        "word": "向佐查了李胜利所有外网账号",
+        "onboard_time": 1717307777,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 978459,
+        "num": 388045,
+        "word": "男子假扮道士性侵留守儿童致其怀孕",
+        "onboard_time": 1717305978,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 387149,
+        "num": 387149,
+        "word": "虞书欣CHA了YG新女团的歌",
+        "onboard_time": 1717308978,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334313,
+        "num": 334313,
+        "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
+        "onboard_time": 1717308617,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271490,
+        "num": 271490,
+        "word": "Rookie为患癌粉丝戴蓝丝带",
+        "onboard_time": 1717308138,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 249137,
+        "num": 249137,
+        "word": "终于体会到家可以常回但不能久待",
+        "onboard_time": 1717308497,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234863,
+        "num": 234863,
+        "word": "杨超越古装",
+        "onboard_time": 1717305378,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203882,
+        "num": 203882,
+        "word": "冰淇淋重回5元时代",
+        "onboard_time": 1717296676,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165215,
+        "num": 165215,
+        "word": "霸刀山庄 大门",
+        "onboard_time": 1717311917,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164003,
+        "num": 164003,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1717301418,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390009,
+        "num": 163686,
+        "word": "丁真 大家都欲望太强了",
+        "onboard_time": 1717311978,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341907,
+        "num": 163191,
+        "word": "恋爱两年不到男朋友给我花了十万",
+        "onboard_time": 1717303098,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290686,
+        "num": 162930,
+        "word": "家里拆迁后妈给了我100万拆迁款",
+        "onboard_time": 1717299377,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143681,
+        "num": 162484,
+        "word": "菲非法坐滩仁爱礁军舰人员枪指中国海警",
+        "onboard_time": 1717301058,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223501,
+        "num": 161837,
+        "word": "肖战张婧仪杀青照",
+        "onboard_time": 1717298718,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206355,
+        "num": 161657,
+        "word": "迪丽热巴抓大鹅能手",
+        "onboard_time": 1717311257,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187575,
+        "num": 161106,
+        "word": "外滩偶遇李秀满",
+        "onboard_time": 1717311558,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173681,
+        "num": 160495,
+        "word": "阿沁控诉詹雯婷抄袭",
+        "onboard_time": 1717312457,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172484,
+        "num": 160058,
+        "word": "刘晓庆不知道李维嘉有洁癖",
+        "onboard_time": 1717310718,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122625,
+        "num": 159518,
+        "word": "梁靖崑2比3雨果",
+        "onboard_time": 1717311017,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159425,
+        "num": 159425,
+        "word": "王俊凯发和周杰伦合照",
+        "onboard_time": 1717312517,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149071,
+        "num": 149071,
+        "word": "陈梦vs张本美和",
+        "onboard_time": 1717312517,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145936,
+        "num": 145936,
+        "word": "吴谨言新剧摇人摇来了浪姐团",
+        "onboard_time": 1717308138,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139837,
+        "num": 139837,
+        "word": "宠物离开前真的会满含泪水",
+        "onboard_time": 1717310897,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132218,
+        "num": 132218,
+        "word": "李雪琴哭了",
+        "onboard_time": 1717308737,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130843,
+        "num": 130843,
+        "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
+        "onboard_time": 1717301777,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126649,
+        "num": 126649,
+        "word": "袁泉夏雨 低调相守的爱情",
+        "onboard_time": 1717304238,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116277,
+        "num": 125768,
+        "word": "帆布包的性价比有多高",
+        "onboard_time": 1717304118,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50571,
+        "num": 125739,
+        "word": "嫦娥六号准备月背挖宝",
+        "onboard_time": 1717296617,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125737,
+        "num": 125737,
+        "word": "一栗小莎子官宣生子",
+        "onboard_time": 1717295297,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124965,
+        "num": 124965,
+        "word": "片方报奖白玉兰不会按番位选",
+        "onboard_time": 1717300278,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124601,
+        "num": 124601,
+        "word": "电影人鱼想看人数破5万",
+        "onboard_time": 1717310178,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119580,
+        "num": 119580,
+        "word": "穿Prada的票房女王",
+        "onboard_time": 1717308377,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116757,
+        "num": 116757,
+        "word": "林更新录综艺点到了赵丽颖",
+        "onboard_time": 1717307238,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115973,
+        "num": 115973,
+        "word": "分析师称高价雪糕存过度炒作现象",
+        "onboard_time": 1717312218,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115106,
+        "num": 115106,
+        "word": "藏海传全阵容官宣",
+        "onboard_time": 1717294457,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112255,
+        "num": 112255,
+        "word": "4个方法教你有效护眼",
+        "onboard_time": 1717311739,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110990,
+        "num": 110990,
+        "word": "霸刀",
+        "onboard_time": 1717312637,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108210,
+        "num": 108210,
+        "word": "梁靖崑止步男单8强",
+        "onboard_time": 1717310178,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107860,
+        "num": 107860,
+        "word": "月背挖土像穿袜子",
+        "onboard_time": 1717305378,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设文化强国建设中华民族现代文明#"
+    }
+  }
+}

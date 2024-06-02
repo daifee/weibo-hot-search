@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717310272093,
+  "endTime": 1717312662066,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1682036,
-      "num": 238722,
+      "num": 388617,
       "word": "向佐查了李胜利所有外网账号",
       "onboard_time": 1717307777,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1220726,
-      "num": 232855,
+      "num": 388045,
       "word": "男子假扮道士性侵留守儿童致其怀孕",
       "onboard_time": 1717305978,
       "rank": 31,
@@ -171,6 +171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 584163,
+      "num": 450778,
+      "word": "谁家早饭花50晚饭花2000",
+      "onboard_time": 1717309037,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 572042,
       "num": 572042,
       "word": "樊振东vs张本智和",
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 500176,
-      "num": 228734,
+      "num": 387149,
       "word": "虞书欣CHA了YG新女团的歌",
       "onboard_time": 1717308978,
       "rank": 12,
@@ -217,6 +225,14 @@
       "onboard_time": 1717301777,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493231,
+      "num": 493231,
+      "word": "剑网3喊话逆水寒删天赏",
+      "onboard_time": 1717311857,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 485240,
@@ -249,6 +265,22 @@
       "onboard_time": 1717285635,
       "rank": 4,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 473983,
+      "num": 425455,
+      "word": "孙丞潇上节目不满离席",
+      "onboard_time": 1717308318,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 470891,
+      "num": 403126,
+      "word": "张杰谢娜关系不一般",
+      "onboard_time": 1717310897,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 461723,
@@ -315,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 425455,
-      "num": 425455,
-      "word": "孙丞潇上节目不满离席",
-      "onboard_time": 1717308318,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 413331,
       "num": 256583,
       "word": "局长为谋求副厅被骗300万元",
@@ -337,6 +361,14 @@
       "onboard_time": 1717289895,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 397846,
+      "num": 397846,
+      "word": "原来你们漫画党吃这么好",
+      "onboard_time": 1717310897,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 396120,
@@ -361,6 +393,14 @@
       "onboard_time": 1717292535,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 390009,
+      "num": 163686,
+      "word": "丁真 大家都欲望太强了",
+      "onboard_time": 1717311978,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 388253,
@@ -435,14 +475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 347322,
-      "num": 226204,
-      "word": "谁家早饭花50晚饭花2000",
-      "onboard_time": 1717309037,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 346876,
       "num": 346876,
       "word": "巴勒斯坦儿童",
@@ -457,6 +489,14 @@
       "onboard_time": 1717295177,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334313,
+      "num": 334313,
+      "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
+      "onboard_time": 1717308617,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 333559,
@@ -523,6 +563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 271490,
+      "num": 271490,
+      "word": "Rookie为患癌粉丝戴蓝丝带",
+      "onboard_time": 1717308138,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 268711,
       "num": 268711,
       "word": "不法人员在充电宝内安装窃听定位",
@@ -561,6 +609,14 @@
       "onboard_time": 1717305797,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 249137,
+      "num": 249137,
+      "word": "终于体会到家可以常回但不能久待",
+      "onboard_time": 1717308497,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 246402,
@@ -635,14 +691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229775,
-      "num": 193328,
-      "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
-      "onboard_time": 1717308617,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 226584,
       "num": 440456,
       "word": "已读乱回到底有什么魅力",
@@ -707,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 210571,
-      "num": 210571,
-      "word": "Rookie为患癌粉丝戴蓝丝带",
-      "onboard_time": 1717308138,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 209763,
       "num": 209763,
       "word": "闪耀暖暖星云转转裙",
@@ -744,6 +784,14 @@
       "word": "李雪琴哭了",
       "onboard_time": 1717308737,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206355,
+      "num": 161657,
+      "word": "迪丽热巴抓大鹅能手",
+      "onboard_time": 1717311257,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -827,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187575,
+      "num": 161106,
+      "word": "外滩偶遇李秀满",
+      "onboard_time": 1717311558,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186311,
       "num": 192484,
       "word": "月背挖土像穿袜子",
@@ -875,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173681,
+      "num": 160495,
+      "word": "阿沁控诉詹雯婷抄袭",
+      "onboard_time": 1717312457,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173393,
       "num": 173393,
       "word": "王俊凯小时候的梦我知道",
@@ -889,6 +953,14 @@
       "onboard_time": 1717256238,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172484,
+      "num": 160058,
+      "word": "刘晓庆不知道李维嘉有洁癖",
+      "onboard_time": 1717310718,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 172405,
@@ -939,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165215,
+      "num": 165215,
+      "word": "霸刀山庄 大门",
+      "onboard_time": 1717311917,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164389,
       "num": 164389,
       "word": "原来腰突了还可以回去",
@@ -979,20 +1059,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159425,
+      "num": 159425,
+      "word": "王俊凯发和周杰伦合照",
+      "onboard_time": 1717312517,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159399,
       "num": 159399,
       "word": "河北一地现白菜房6万能买两室一厅",
       "onboard_time": 1717297757,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159009,
-      "num": 159009,
-      "word": "终于体会到家可以常回但不能久待",
-      "onboard_time": 1717308497,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 156833,
@@ -1033,6 +1113,22 @@
       "onboard_time": 1717248738,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149071,
+      "num": 149071,
+      "word": "陈梦vs张本美和",
+      "onboard_time": 1717312517,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148932,
+      "num": 388822,
+      "word": "国防部奉劝台独丢掉幻想",
+      "onboard_time": 1717310837,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148835,
@@ -1123,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139837,
+      "num": 139837,
+      "word": "宠物离开前真的会满含泪水",
+      "onboard_time": 1717310897,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139791,
       "num": 139791,
       "word": "张志磊 维尔德",
@@ -1195,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124601,
+      "num": 124601,
+      "word": "电影人鱼想看人数破5万",
+      "onboard_time": 1717310178,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124165,
       "num": 124165,
       "word": "李惠仁天生爱豆圣体",
@@ -1209,6 +1321,14 @@
       "onboard_time": 1717241417,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122625,
+      "num": 159518,
+      "word": "梁靖崑2比3雨果",
+      "onboard_time": 1717311017,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 121046,
@@ -1243,6 +1363,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 115973,
+      "num": 115973,
+      "word": "分析师称高价雪糕存过度炒作现象",
+      "onboard_time": 1717312218,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114464,
       "num": 114464,
       "word": "许嵩呼吸之野演唱会",
@@ -1259,12 +1387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112255,
+      "num": 112255,
+      "word": "4个方法教你有效护眼",
+      "onboard_time": 1717311739,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112126,
       "num": 343255,
       "word": "摄影师5年筹措百台相机进牧区",
       "onboard_time": 1717292957,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110990,
+      "num": 110990,
+      "word": "霸刀",
+      "onboard_time": 1717312637,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 109926,
@@ -1313,6 +1457,14 @@
       "onboard_time": 1717285154,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 108210,
+      "num": 108210,
+      "word": "梁靖崑止步男单8强",
+      "onboard_time": 1717310178,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 106583,
@@ -1371,14 +1523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100130,
-      "num": 100130,
-      "word": "梁靖崑止步男单8强",
-      "onboard_time": 1717310178,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98487,
       "num": 98487,
       "word": "刘宪华上半身身材",
@@ -1433,14 +1577,6 @@
       "onboard_time": 1717296497,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93292,
-      "num": 93292,
-      "word": "电影人鱼想看人数破5万",
-      "onboard_time": 1717310178,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 91523,
