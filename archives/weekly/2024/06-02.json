@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717341510879,
+  "endTime": 1717342463250,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -131,6 +131,14 @@
       "category": "互联网,情感"
     },
     {
+      "raw_hot": 1179445,
+      "num": 1179445,
+      "word": "婚后与公婆同住小两口7天吵5架离婚",
+      "onboard_time": 1717339040,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1156129,
       "num": 1156129,
       "word": "不要觉得谈了五六年分手可惜",
@@ -145,6 +153,14 @@
       "onboard_time": 1717333399,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1137745,
+      "num": 1137745,
+      "word": "退票",
+      "onboard_time": 1717336941,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 1124395,
@@ -163,28 +179,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1033663,
-      "num": 1033663,
-      "word": "婚后与公婆同住小两口7天吵5架离婚",
-      "onboard_time": 1717339040,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1017885,
+      "raw_hot": 1046042,
       "num": 1017885,
       "word": "李沁一字告别庆余年",
       "onboard_time": 1717336459,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 966780,
-      "num": 630471,
-      "word": "退票",
-      "onboard_time": 1717336941,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 943059,
@@ -251,12 +251,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 787125,
+      "num": 583454,
+      "word": "吴宣仪忘了放杨超越的照片",
+      "onboard_time": 1717340301,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 779407,
       "num": 762526,
       "word": "张若昀蛀牙",
       "onboard_time": 1717323977,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 776982,
+      "num": 776982,
+      "word": "演得有点不顾观众死活了",
+      "onboard_time": 1717339460,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 770516,
@@ -315,12 +331,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 706171,
-      "num": 706171,
-      "word": "演得有点不顾观众死活了",
-      "onboard_time": 1717339460,
-      "rank": 4,
-      "category": "幽默"
+      "raw_hot": 679030,
+      "num": 527778,
+      "word": "墨雨云间",
+      "onboard_time": 1717340660,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 672083,
@@ -464,22 +480,6 @@
       "word": "赵露思陈伟霆 许你耀眼",
       "onboard_time": 1717335799,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 527778,
-      "num": 527778,
-      "word": "墨雨云间",
-      "onboard_time": 1717340660,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 525103,
-      "num": 500874,
-      "word": "吴宣仪忘了放杨超越的照片",
-      "onboard_time": 1717340301,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1036,7 +1036,7 @@
     },
     {
       "raw_hot": 329860,
-      "num": 209327,
+      "num": 212100,
       "word": "刘端端告别二皇子",
       "onboard_time": 1717337960,
       "rank": 22,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 324734,
-      "num": 210106,
+      "num": 212894,
       "word": "李小冉下部戏还是演反派",
       "onboard_time": 1717340120,
       "rank": 25,
@@ -1251,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265166,
+      "num": 212982,
+      "word": "墨雨云间原著",
+      "onboard_time": 1717340840,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -1260,7 +1268,7 @@
     },
     {
       "raw_hot": 258354,
-      "num": 202717,
+      "num": 212291,
       "word": "张若昀庆余年2最后一场戏",
       "onboard_time": 1717338561,
       "rank": 41,
@@ -1339,14 +1347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 237510,
-      "num": 184794,
-      "word": "墨雨云间原著",
-      "onboard_time": 1717340840,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237268,
       "num": 237268,
       "word": "赵冬苓说属于王一博的荣耀在前面等着",
@@ -1377,6 +1377,14 @@
       "onboard_time": 1717317738,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 234855,
+      "num": 212430,
+      "word": "牛肉价格大跌",
+      "onboard_time": 1717340900,
+      "rank": 34,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 234434,
@@ -1428,11 +1436,19 @@
     },
     {
       "raw_hot": 228871,
-      "num": 177487,
+      "num": 185737,
       "word": "陈道明演技",
       "onboard_time": 1717338620,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228555,
+      "num": 228555,
+      "word": "中国女排排名降至亚洲第二",
+      "onboard_time": 1717341140,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 227344,
@@ -2139,14 +2155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154447,
-      "num": 177551,
-      "word": "牛肉价格大跌",
-      "onboard_time": 1717340900,
-      "rank": 34,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 149326,
       "num": 149326,
       "word": "小米SU7大定锁单犹豫期缩至3天",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1717248738,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148880,
-      "num": 173005,
-      "word": "中国女排排名降至亚洲第二",
-      "onboard_time": 1717341140,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 148835,
@@ -2555,6 +2555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118638,
+      "num": 118638,
+      "word": "广州夜晚的灯光照亮了云雾",
+      "onboard_time": 1717342218,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "二建市政",
@@ -2651,6 +2659,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 111095,
+      "num": 111095,
+      "word": "国乒包揽重庆赛男女单冠亚军",
+      "onboard_time": 1717339580,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109926,
       "num": 109926,
       "word": "以色列",
@@ -2721,6 +2737,14 @@
       "onboard_time": 1717321339,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107080,
+      "num": 107080,
+      "word": "陈泽看马思唯演唱会",
+      "onboard_time": 1717341679,
+      "rank": 49,
+      "category": "游戏,演出"
     },
     {
       "raw_hot": 106583,
@@ -3083,6 +3107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60907,
+      "num": 565454,
+      "word": "高考前不尝试新运动项目",
+      "onboard_time": 1717340301,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 59415,
       "num": 297591,
       "word": "老师上课给学生发漫画",
@@ -3107,14 +3139,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 53794,
-      "num": 565454,
-      "word": "高考前不尝试新运动项目",
-      "onboard_time": 1717340301,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 52690,
       "num": 52690,
       "word": "薛之谦天外来物巡回演唱会",
@@ -3137,6 +3161,14 @@
       "onboard_time": 1717300397,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48382,
+      "num": 572559,
+      "word": "班主任带亲手种向日葵拍高三毕业照",
+      "onboard_time": 1717337239,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 45209,
@@ -3225,14 +3257,6 @@
       "onboard_time": 1717330578,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35874,
-      "num": 572559,
-      "word": "班主任带亲手种向日葵拍高三毕业照",
-      "onboard_time": 1717337239,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 35871,
