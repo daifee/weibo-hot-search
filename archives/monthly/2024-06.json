@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717323589108,
+  "endTime": 1717324543002,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1682036,
-      "num": 388617,
+      "num": 401307,
       "word": "向佐查了李胜利所有外网账号",
       "onboard_time": 1717307777,
       "rank": 10,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 794848,
+      "num": 794848,
+      "word": "逆水寒 剑网三",
+      "onboard_time": 1717323678,
+      "rank": 1,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 788220,
       "num": 788220,
       "word": "中国女排3比0泰国女排",
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 744403,
-      "num": 191000,
+      "num": 401570,
       "word": "特朗普入驻TikTok",
       "onboard_time": 1717320379,
       "rank": 31,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 724930,
-      "num": 190225,
+      "num": 661851,
       "word": "删了吧有个研究生破防了",
       "onboard_time": 1717320857,
       "rank": 41,
@@ -923,12 +931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460606,
+      "num": 239506,
+      "word": "范玮琪正式复出",
+      "onboard_time": 1717320557,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 458474,
       "num": 458474,
       "word": "皇马",
       "onboard_time": 1717276451,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 456644,
+      "num": 456644,
+      "word": "张若昀收官长文",
+      "onboard_time": 1717322479,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 455801,
@@ -1019,20 +1043,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 416895,
-      "num": 225388,
-      "word": "范玮琪正式复出",
-      "onboard_time": 1717320557,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 416421,
       "num": 523966,
       "word": "中国女排vs泰国女排",
       "onboard_time": 1717239076,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416126,
+      "num": 416126,
+      "word": "庆余年2曲未终人聚三",
+      "onboard_time": 1717321339,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 416061,
@@ -1052,7 +1076,7 @@
     },
     {
       "raw_hot": 414953,
-      "num": 291343,
+      "num": 361482,
       "word": "邓超录五哈不忘给孙俪买礼物",
       "onboard_time": 1717319118,
       "rank": 12,
@@ -1084,7 +1108,7 @@
     },
     {
       "raw_hot": 403373,
-      "num": 190900,
+      "num": 400821,
       "word": "田曦薇绿色吊带",
       "onboard_time": 1717321758,
       "rank": 12,
@@ -1225,14 +1249,6 @@
       "onboard_time": 1717311917,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 378193,
-      "num": 190814,
-      "word": "庆余年2曲未终人聚三",
-      "onboard_time": 1717321339,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 377189,
@@ -1387,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351288,
-      "num": 190740,
-      "word": "张若昀收官长文",
-      "onboard_time": 1717322479,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 350023,
       "num": 200875,
       "word": "梦中的那片海未公开剧照",
@@ -1436,7 +1444,7 @@
     },
     {
       "raw_hot": 345096,
-      "num": 190586,
+      "num": 326774,
       "word": "我们家INFJ怎么没有工作啊",
       "onboard_time": 1717320257,
       "rank": 32,
@@ -1755,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278663,
+      "num": 278663,
+      "word": "钟楚曦十八宫格泳池照",
+      "onboard_time": 1717320557,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278621,
       "num": 278621,
       "word": "孙楠第二",
@@ -1867,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260242,
+      "num": 237922,
+      "word": "水果要便宜了",
+      "onboard_time": 1717320918,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 258157,
       "num": 258157,
       "word": "白玉兰男女主角提报规则",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1717211718,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256814,
+      "num": 256814,
+      "word": "RNG教练",
+      "onboard_time": 1717322599,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 255018,
@@ -1947,14 +1979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249191,
-      "num": 190131,
-      "word": "水果要便宜了",
-      "onboard_time": 1717320918,
-      "rank": 21,
-      "category": "美食"
-    },
-    {
       "raw_hot": 249162,
       "num": 229580,
       "word": "金莎回应孙丞潇开会离席",
@@ -1977,14 +2001,6 @@
       "onboard_time": 1717304477,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246367,
-      "num": 190103,
-      "word": "钟楚曦十八宫格泳池照",
-      "onboard_time": 1717320557,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 243833,
@@ -2067,6 +2083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233493,
+      "num": 233493,
+      "word": "张若昀蛀牙",
+      "onboard_time": 1717323977,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233173,
       "num": 197445,
       "word": "藏海传好多人啊",
@@ -2091,12 +2115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231220,
-      "num": 175478,
-      "word": "RNG教练",
-      "onboard_time": 1717322599,
-      "rank": 30,
-      "category": "电竞"
+      "raw_hot": 231070,
+      "num": 231070,
+      "word": "逆水寒周年福利",
+      "onboard_time": 1717324218,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 230610,
@@ -2257,6 +2281,14 @@
       "onboard_time": 1717241778,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217300,
+      "num": 499321,
+      "word": "福宝吃完竹子直接开溜",
+      "onboard_time": 1717323077,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216713,
@@ -3427,6 +3459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146737,
+      "num": 146737,
+      "word": "你是五条误啊",
+      "onboard_time": 1717323678,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146263,
       "num": 150031,
       "word": "高考倒计时5天",
@@ -3465,6 +3505,14 @@
       "onboard_time": 1717284554,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145126,
+      "num": 246276,
+      "word": "张雪峰2026年志愿填报服务已售罄",
+      "onboard_time": 1717324098,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 144918,
@@ -3881,6 +3929,14 @@
       "onboard_time": 1717284494,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126646,
+      "num": 126646,
+      "word": "老公要用我的彩礼来装修房子",
+      "onboard_time": 1717324399,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 126504,
@@ -4411,6 +4467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102734,
+      "num": 119062,
+      "word": "爸爸带儿子幼儿园炸裂表演猴棍",
+      "onboard_time": 1717323258,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102636,
       "num": 102636,
       "word": "刘维无声的悲痛震耳欲聋",
@@ -4432,14 +4496,6 @@
       "word": "你还是那个闪闪发光的小孩",
       "onboard_time": 1717240458,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 99450,
-      "num": 176279,
-      "word": "福宝吃完竹子直接开溜",
-      "onboard_time": 1717323077,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -4507,6 +4563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95076,
+      "num": 141059,
+      "word": "新加坡赛陈雨菲女单亚军",
+      "onboard_time": 1717322837,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94635,
       "num": 259363,
       "word": "爱蹲的人运气不会差",
@@ -4521,14 +4585,6 @@
       "onboard_time": 1717296497,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 92080,
-      "num": 141059,
-      "word": "新加坡赛陈雨菲女单亚军",
-      "onboard_time": 1717322837,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 91523,
@@ -5284,7 +5340,7 @@
     },
     {
       "raw_hot": 23064,
-      "num": 191071,
+      "num": 402161,
       "word": "小朋友给执勤交警送儿童节礼物",
       "onboard_time": 1717321037,
       "rank": 9,
