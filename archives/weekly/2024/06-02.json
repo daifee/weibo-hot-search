@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717348635063,
+  "endTime": 1717349649110,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -2963,6 +2963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87591,
+      "num": 84063,
+      "word": "惠若琪说女排得分手段损失掉了",
+      "onboard_time": 1717347614,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87423,
       "num": 110098,
       "word": "种地吧",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1717257258,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85687,
-      "num": 84063,
-      "word": "惠若琪说女排得分手段损失掉了",
-      "onboard_time": 1717347614,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 85354,
@@ -3171,6 +3171,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 53263,
+      "num": 53263,
+      "word": "女子骗走男友891万获刑13年6个月",
+      "onboard_time": 1717348873,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52690,
       "num": 52690,
       "word": "薛之谦天外来物巡回演唱会",
@@ -3193,6 +3201,14 @@
       "onboard_time": 1717300397,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51349,
+      "num": 51349,
+      "word": "刘些宁首演恶女",
+      "onboard_time": 1717348335,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 48382,
