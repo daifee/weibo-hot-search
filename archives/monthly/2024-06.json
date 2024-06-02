@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717346230751,
+  "endTime": 1717348635063,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -2315,6 +2315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269429,
+      "num": 190398,
+      "word": "打开了关闭三年的朋友圈",
+      "onboard_time": 1717343718,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 268711,
       "num": 268711,
       "word": "不法人员在充电宝内安装窃听定位",
@@ -2891,14 +2899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 207201,
-      "num": 190398,
-      "word": "打开了关闭三年的朋友圈",
-      "onboard_time": 1717343718,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 206963,
       "num": 206963,
       "word": "追风者",
@@ -3273,6 +3273,14 @@
       "onboard_time": 1717340240,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189860,
+      "num": 189860,
+      "word": "南宁一教官多次将男孩头按进水里",
+      "onboard_time": 1717345097,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189584,
@@ -5387,14 +5395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96747,
-      "num": 153051,
-      "word": "南宁一教官多次将男孩头按进水里",
-      "onboard_time": 1717345097,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95929,
       "num": 110813,
       "word": "WE对战RNG",
@@ -5505,6 +5505,14 @@
       "onboard_time": 1717257258,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 85687,
+      "num": 84063,
+      "word": "惠若琪说女排得分手段损失掉了",
+      "onboard_time": 1717347614,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 85027,
