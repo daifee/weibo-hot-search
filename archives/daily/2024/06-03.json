@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717352672957,
+  "endTime": 1717353389699,
   "band_list": [
     {
       "raw_hot": 938535,
@@ -427,20 +427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30670,
+      "num": 30670,
+      "word": "方便面为什么越卖越贵",
+      "onboard_time": 1717351993,
+      "rank": 47,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 26874,
       "num": 28171,
       "word": "耳帝发文力挺Athree",
       "onboard_time": 1717351333,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26231,
-      "num": 28165,
-      "word": "方便面为什么越卖越贵",
-      "onboard_time": 1717351993,
-      "rank": 47,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 25984,

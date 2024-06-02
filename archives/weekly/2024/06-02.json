@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717352672957,
+  "endTime": 1717353389699,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -3355,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30670,
+      "num": 30670,
+      "word": "方便面为什么越卖越贵",
+      "onboard_time": 1717351993,
+      "rank": 47,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 28946,
       "num": 1325960,
       "word": "不管几岁快乐万岁",
@@ -3377,14 +3385,6 @@
       "onboard_time": 1717351333,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26231,
-      "num": 28165,
-      "word": "方便面为什么越卖越贵",
-      "onboard_time": 1717351993,
-      "rank": 47,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 22894,

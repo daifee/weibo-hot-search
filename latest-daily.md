@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/03 00:22:12 ~ 2024/06/03 02:24:32
+本榜单时间：2024/06/03 00:22:12 ~ 2024/06/03 02:36:29
 </p>
 </blockquote>
 <p>
@@ -333,14 +333,14 @@ XYG夺冠（热度：135454）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BAAthree%23" target="weibo">
-耳帝发文力挺Athree（热度：26874）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E4%BE%BF%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%23" target="weibo">
+方便面为什么越卖越贵（热度：30670）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E4%BE%BF%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%23" target="weibo">
-方便面为什么越卖越贵（热度：26231）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BAAthree%23" target="weibo">
+耳帝发文力挺Athree（热度：26874）
 </a>
 </li>
 
