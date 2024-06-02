@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717312662066,
+  "endTime": 1717313668491,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 746005,
+      "num": 444038,
+      "word": "张杰谢娜关系不一般",
+      "onboard_time": 1717310897,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 745417,
       "num": 745417,
       "word": "建议把干发帽换成运动毛巾",
@@ -473,6 +481,14 @@
       "onboard_time": 1717151598,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672169,
+      "num": 194974,
+      "word": "丁真 大家都欲望太强了",
+      "onboard_time": 1717311978,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 672083,
@@ -563,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 596764,
+      "num": 450778,
+      "word": "谁家早饭花50晚饭花2000",
+      "onboard_time": 1717309037,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 595101,
       "num": 284084,
       "word": "你好星期六全员晒童年照",
@@ -577,14 +601,6 @@
       "onboard_time": 1717234336,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 584163,
-      "num": 450778,
-      "word": "谁家早饭花50晚饭花2000",
-      "onboard_time": 1717309037,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 577501,
@@ -625,6 +641,14 @@
       "onboard_time": 1717210938,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 547268,
+      "num": 304589,
+      "word": "阿沁控诉詹雯婷抄袭",
+      "onboard_time": 1717312457,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 545926,
@@ -811,19 +835,19 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 475854,
+      "num": 284237,
+      "word": "王俊凯发和周杰伦合照",
+      "onboard_time": 1717312517,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473983,
       "num": 425455,
       "word": "孙丞潇上节目不满离席",
       "onboard_time": 1717308318,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 470891,
-      "num": 403126,
-      "word": "张杰谢娜关系不一般",
-      "onboard_time": 1717310897,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -987,6 +1011,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 404844,
+      "num": 269333,
+      "word": "陈梦vs张本美和",
+      "onboard_time": 1717312517,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402984,
       "num": 402984,
       "word": "滕丛丛 不是长得漂亮就叫演员",
@@ -1012,7 +1044,7 @@
     },
     {
       "raw_hot": 397846,
-      "num": 397846,
+      "num": 458875,
       "word": "原来你们漫画党吃这么好",
       "onboard_time": 1717310897,
       "rank": 8,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1717230858,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 390009,
-      "num": 163686,
-      "word": "丁真 大家都欲望太强了",
-      "onboard_time": 1717311978,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 388253,
@@ -1483,6 +1507,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 300870,
+      "num": 300870,
+      "word": "霸刀",
+      "onboard_time": 1717312637,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299356,
       "num": 274650,
       "word": "杨丞琳唱的搁浅",
@@ -1651,6 +1683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268077,
+      "num": 388822,
+      "word": "国防部奉劝台独丢掉幻想",
+      "onboard_time": 1717310837,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 267659,
       "num": 267659,
       "word": "第五人格",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1717211718,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255590,
+      "num": 255590,
+      "word": "霸刀山庄 大门",
+      "onboard_time": 1717311917,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 255018,
@@ -1931,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221755,
+      "num": 192163,
+      "word": "爸爸去哪儿董力上岛创业",
+      "onboard_time": 1717313058,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221679,
       "num": 194080,
       "word": "我把我的工资做成了表情包",
@@ -2100,7 +2156,7 @@
     },
     {
       "raw_hot": 206355,
-      "num": 161657,
+      "num": 191710,
       "word": "迪丽热巴抓大鹅能手",
       "onboard_time": 1717311257,
       "rank": 25,
@@ -2547,12 +2603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173681,
-      "num": 160495,
-      "word": "阿沁控诉詹雯婷抄袭",
-      "onboard_time": 1717312457,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 174538,
+      "num": 174538,
+      "word": "张若昀自己争取的范闲",
+      "onboard_time": 1717312997,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 173393,
@@ -2723,14 +2779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165215,
-      "num": 165215,
-      "word": "霸刀山庄 大门",
-      "onboard_time": 1717311917,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 165131,
       "num": 165131,
       "word": "周深首场体育场演唱会",
@@ -2827,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161300,
+      "num": 161300,
+      "word": "香缇莫MOMO变emo",
+      "onboard_time": 1717312697,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160713,
       "num": 215439,
       "word": "Fine乐团 呼吸决定",
@@ -2873,14 +2929,6 @@
       "onboard_time": 1717211657,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159425,
-      "num": 159425,
-      "word": "王俊凯发和周杰伦合照",
-      "onboard_time": 1717312517,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 159399,
@@ -3051,22 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 149071,
-      "num": 149071,
-      "word": "陈梦vs张本美和",
-      "onboard_time": 1717312517,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148932,
-      "num": 388822,
-      "word": "国防部奉劝台独丢掉幻想",
-      "onboard_time": 1717310837,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 148918,
       "num": 180938,
       "word": "时空中的绘旅人",
@@ -3137,6 +3169,14 @@
       "onboard_time": 1717213458,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145383,
+      "num": 145383,
+      "word": "给狗子无痛喂药的方法找到了",
+      "onboard_time": 1717313298,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 145307,
@@ -3427,6 +3467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130575,
+      "num": 130575,
+      "word": "部分轻奢品牌正被抛弃",
+      "onboard_time": 1717313177,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 130483,
       "num": 130483,
       "word": "郑恺 原来我离真相这么近",
@@ -3668,7 +3716,7 @@
     },
     {
       "raw_hot": 115973,
-      "num": 115973,
+      "num": 124983,
       "word": "分析师称高价雪糕存过度炒作现象",
       "onboard_time": 1717312218,
       "rank": 44,
@@ -3777,14 +3825,6 @@
       "onboard_time": 1717236197,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110990,
-      "num": 110990,
-      "word": "霸刀",
-      "onboard_time": 1717312637,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 109403,
@@ -4097,6 +4137,14 @@
       "onboard_time": 1717274711,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89925,
+      "num": 96184,
+      "word": "网友偶遇2024高考试卷押运车队",
+      "onboard_time": 1717313657,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88530,
@@ -4452,7 +4500,7 @@
     },
     {
       "raw_hot": 56702,
-      "num": 215837,
+      "num": 296819,
       "word": "村民偶遇熊猫激动切换拍摄模式",
       "onboard_time": 1717310058,
       "rank": 15,
@@ -4601,6 +4649,14 @@
       "onboard_time": 1717279632,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40190,
+      "num": 352193,
+      "word": "此次月球挖土有啥不一样",
+      "onboard_time": 1717313356,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39943,
@@ -4867,6 +4923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 15325,
+      "num": 1064058,
+      "word": "文化遗址里的中国故事",
+      "onboard_time": 1717298238,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14613,
       "num": 215328,
       "word": "学校六一演出全场被孤勇者硬控",
@@ -4880,14 +4944,6 @@
       "word": "为1342万高考学子加油",
       "onboard_time": 1717186091,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12867,
-      "num": 1064058,
-      "word": "文化遗址里的中国故事",
-      "onboard_time": 1717298238,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -4963,6 +5019,9 @@
     },
     {
       "word": "#建设文化强国建设中华民族现代文明#"
+    },
+    {
+      "word": "#总书记的文化足迹遍及大江南北#"
     }
   ]
 }

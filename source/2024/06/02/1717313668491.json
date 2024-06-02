@@ -1,0 +1,410 @@
+{
+  "runTime": 1717313668491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 382007,
+        "num": 458875,
+        "word": "原来你们漫画党吃这么好",
+        "onboard_time": 1717310897,
+        "rank": 0,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 746005,
+        "num": 444038,
+        "word": "张杰谢娜关系不一般",
+        "onboard_time": 1717310897,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40190,
+        "num": 352193,
+        "word": "此次月球挖土有啥不一样",
+        "onboard_time": 1717313356,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596764,
+        "num": 351721,
+        "word": "谁家早饭花50晚饭花2000",
+        "onboard_time": 1717309037,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346457,
+        "num": 346457,
+        "word": "端午真争气生在了周一",
+        "onboard_time": 1717284254,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268077,
+        "num": 305533,
+        "word": "国防部奉劝台独丢掉幻想",
+        "onboard_time": 1717310837,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 547268,
+        "num": 304589,
+        "word": "阿沁控诉詹雯婷抄袭",
+        "onboard_time": 1717312457,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544386,
+        "num": 304551,
+        "word": "贾玲Prada",
+        "onboard_time": 1717292896,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300870,
+        "num": 300870,
+        "word": "霸刀",
+        "onboard_time": 1717312637,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 51930,
+        "num": 296819,
+        "word": "村民偶遇熊猫激动切换拍摄模式",
+        "onboard_time": 1717310058,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1475900,
+        "num": 290783,
+        "word": "向佐查了李胜利所有外网账号",
+        "onboard_time": 1717307777,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475854,
+        "num": 284237,
+        "word": "王俊凯发和周杰伦合照",
+        "onboard_time": 1717312517,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444009,
+        "num": 280684,
+        "word": "孙丞潇上节目不满离席",
+        "onboard_time": 1717308318,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404844,
+        "num": 269333,
+        "word": "陈梦vs张本美和",
+        "onboard_time": 1717312517,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381925,
+        "num": 262211,
+        "word": "剑网3喊话逆水寒删天赏",
+        "onboard_time": 1717311857,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306827,
+        "num": 259316,
+        "word": "虞书欣CHA了YG新女团的歌",
+        "onboard_time": 1717308978,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255590,
+        "num": 255590,
+        "word": "霸刀山庄 大门",
+        "onboard_time": 1717311917,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222532,
+        "num": 222532,
+        "word": "Rookie为患癌粉丝戴蓝丝带",
+        "onboard_time": 1717308138,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221533,
+        "num": 221533,
+        "word": "终于体会到家可以常回但不能久待",
+        "onboard_time": 1717308497,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195238,
+        "num": 195238,
+        "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
+        "onboard_time": 1717292896,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 672169,
+        "num": 194974,
+        "word": "丁真 大家都欲望太强了",
+        "onboard_time": 1717311978,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307343,
+        "num": 194376,
+        "word": "恋爱两年不到男朋友给我花了十万",
+        "onboard_time": 1717303098,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 299277,
+        "num": 193854,
+        "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
+        "onboard_time": 1717308617,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254736,
+        "num": 193139,
+        "word": "家里拆迁后妈给了我100万拆迁款",
+        "onboard_time": 1717299377,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221755,
+        "num": 192163,
+        "word": "爸爸去哪儿董力上岛创业",
+        "onboard_time": 1717313058,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191998,
+        "num": 191998,
+        "word": "杨超越古装",
+        "onboard_time": 1717305378,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191710,
+        "num": 191710,
+        "word": "迪丽热巴抓大鹅能手",
+        "onboard_time": 1717311257,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179996,
+        "num": 179996,
+        "word": "肖战张婧仪杀青照",
+        "onboard_time": 1717298718,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131481,
+        "num": 176999,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1717301418,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116255,
+        "num": 175722,
+        "word": "菲非法坐滩仁爱礁军舰人员枪指中国海警",
+        "onboard_time": 1717301058,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174538,
+        "num": 174538,
+        "word": "张若昀自己争取的范闲",
+        "onboard_time": 1717312997,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161300,
+        "num": 161300,
+        "word": "香缇莫MOMO变emo",
+        "onboard_time": 1717312697,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158368,
+        "num": 158368,
+        "word": "刘晓庆不知道李维嘉有洁癖",
+        "onboard_time": 1717310718,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150097,
+        "num": 150097,
+        "word": "冰淇淋重回5元时代",
+        "onboard_time": 1717296676,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145383,
+        "num": 145383,
+        "word": "给狗子无痛喂药的方法找到了",
+        "onboard_time": 1717313298,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144178,
+        "num": 144178,
+        "word": "外滩偶遇李秀满",
+        "onboard_time": 1717311558,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143761,
+        "num": 143761,
+        "word": "吴谨言新剧摇人摇来了浪姐团",
+        "onboard_time": 1717308138,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15325,
+        "num": 131288,
+        "word": "文化遗址里的中国故事",
+        "onboard_time": 1717298238,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130575,
+        "num": 130575,
+        "word": "部分轻奢品牌正被抛弃",
+        "onboard_time": 1717313177,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 113042,
+        "num": 124983,
+        "word": "分析师称高价雪糕存过度炒作现象",
+        "onboard_time": 1717312218,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124363,
+        "num": 124363,
+        "word": "宠物离开前真的会满含泪水",
+        "onboard_time": 1717310897,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114854,
+        "num": 114854,
+        "word": "片方报奖白玉兰不会按番位选",
+        "onboard_time": 1717300278,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110662,
+        "num": 110662,
+        "word": "藏海传全阵容官宣",
+        "onboard_time": 1717294457,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109122,
+        "num": 109122,
+        "word": "电影人鱼想看人数破5万",
+        "onboard_time": 1717310178,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106426,
+        "num": 106426,
+        "word": "李雪琴哭了",
+        "onboard_time": 1717308737,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106228,
+        "num": 106228,
+        "word": "4个方法教你有效护眼",
+        "onboard_time": 1717311739,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102831,
+        "num": 102831,
+        "word": "一栗小莎子官宣生子",
+        "onboard_time": 1717295297,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101767,
+        "num": 101767,
+        "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
+        "onboard_time": 1717301777,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96329,
+        "num": 96329,
+        "word": "帆布包的性价比有多高",
+        "onboard_time": 1717304118,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89925,
+        "num": 96184,
+        "word": "网友偶遇2024高考试卷押运车队",
+        "onboard_time": 1717313657,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的文化足迹遍及大江南北#"
+    }
+  }
+}

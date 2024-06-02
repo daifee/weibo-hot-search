@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717312662066,
+  "endTime": 1717313668491,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -115,12 +115,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 746005,
+      "num": 444038,
+      "word": "张杰谢娜关系不一般",
+      "onboard_time": 1717310897,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733496,
       "num": 366060,
       "word": "米卡 忘了我是外国人",
       "onboard_time": 1717293377,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 672169,
+      "num": 194974,
+      "word": "丁真 大家都欲望太强了",
+      "onboard_time": 1717311978,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 672083,
@@ -171,7 +187,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 584163,
+      "raw_hot": 596764,
       "num": 450778,
       "word": "谁家早饭花50晚饭花2000",
       "onboard_time": 1717309037,
@@ -201,6 +217,14 @@
       "onboard_time": 1717251079,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 547268,
+      "num": 304589,
+      "word": "阿沁控诉詹雯婷抄袭",
+      "onboard_time": 1717312457,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 511978,
@@ -267,19 +291,19 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 475854,
+      "num": 284237,
+      "word": "王俊凯发和周杰伦合照",
+      "onboard_time": 1717312517,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 473983,
       "num": 425455,
       "word": "孙丞潇上节目不满离席",
       "onboard_time": 1717308318,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 470891,
-      "num": 403126,
-      "word": "张杰谢娜关系不一般",
-      "onboard_time": 1717310897,
-      "rank": 7,
       "category": "综艺"
     },
     {
@@ -355,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 404844,
+      "num": 269333,
+      "word": "陈梦vs张本美和",
+      "onboard_time": 1717312517,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402984,
       "num": 402984,
       "word": "滕丛丛 不是长得漂亮就叫演员",
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 397846,
-      "num": 397846,
+      "num": 458875,
       "word": "原来你们漫画党吃这么好",
       "onboard_time": 1717310897,
       "rank": 8,
@@ -393,14 +425,6 @@
       "onboard_time": 1717292535,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 390009,
-      "num": 163686,
-      "word": "丁真 大家都欲望太强了",
-      "onboard_time": 1717311978,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 388253,
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300870,
+      "num": 300870,
+      "word": "霸刀",
+      "onboard_time": 1717312637,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 297678,
       "num": 297678,
       "word": "刘亦菲草地牵狗",
@@ -579,6 +611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268077,
+      "num": 388822,
+      "word": "国防部奉劝台独丢掉幻想",
+      "onboard_time": 1717310837,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -593,6 +633,14 @@
       "onboard_time": 1717301958,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255590,
+      "num": 255590,
+      "word": "霸刀山庄 大门",
+      "onboard_time": 1717311917,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 255018,
@@ -715,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221755,
+      "num": 192163,
+      "word": "爸爸去哪儿董力上岛创业",
+      "onboard_time": 1717313058,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221679,
       "num": 194080,
       "word": "我把我的工资做成了表情包",
@@ -788,7 +844,7 @@
     },
     {
       "raw_hot": 206355,
-      "num": 161657,
+      "num": 191710,
       "word": "迪丽热巴抓大鹅能手",
       "onboard_time": 1717311257,
       "rank": 25,
@@ -931,12 +987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173681,
-      "num": 160495,
-      "word": "阿沁控诉詹雯婷抄袭",
-      "onboard_time": 1717312457,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 174538,
+      "num": 174538,
+      "word": "张若昀自己争取的范闲",
+      "onboard_time": 1717312997,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 173393,
@@ -1011,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165215,
-      "num": 165215,
-      "word": "霸刀山庄 大门",
-      "onboard_time": 1717311917,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 164389,
       "num": 164389,
       "word": "原来腰突了还可以回去",
@@ -1051,20 +1099,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161300,
+      "num": 161300,
+      "word": "香缇莫MOMO变emo",
+      "onboard_time": 1717312697,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160325,
       "num": 160325,
       "word": "王曼昱3比2陈幸同",
       "onboard_time": 1717302017,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159425,
-      "num": 159425,
-      "word": "王俊凯发和周杰伦合照",
-      "onboard_time": 1717312517,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 159399,
@@ -1115,22 +1163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149071,
-      "num": 149071,
-      "word": "陈梦vs张本美和",
-      "onboard_time": 1717312517,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 148932,
-      "num": 388822,
-      "word": "国防部奉劝台独丢掉幻想",
-      "onboard_time": 1717310837,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 148835,
       "num": 148835,
       "word": "黄子弘凡说刘宪华和郎朗在商场表演",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1717300878,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145383,
+      "num": 145383,
+      "word": "给狗子无痛喂药的方法找到了",
+      "onboard_time": 1717313298,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 145251,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1717295417,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 130575,
+      "num": 130575,
+      "word": "部分轻奢品牌正被抛弃",
+      "onboard_time": 1717313177,
+      "rank": 38,
+      "category": "时尚"
     },
     {
       "raw_hot": 127317,
@@ -1364,7 +1412,7 @@
     },
     {
       "raw_hot": 115973,
-      "num": 115973,
+      "num": 124983,
       "word": "分析师称高价雪糕存过度炒作现象",
       "onboard_time": 1717312218,
       "rank": 44,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1717292957,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110990,
-      "num": 110990,
-      "word": "霸刀",
-      "onboard_time": 1717312637,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 109926,
@@ -1595,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89925,
+      "num": 96184,
+      "word": "网友偶遇2024高考试卷押运车队",
+      "onboard_time": 1717313657,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87063,
       "num": 334597,
       "word": "萌兰在树上蛄蛹成毛毛虫",
@@ -1740,7 +1788,7 @@
     },
     {
       "raw_hot": 56702,
-      "num": 215837,
+      "num": 296819,
       "word": "村民偶遇熊猫激动切换拍摄模式",
       "onboard_time": 1717310058,
       "rank": 15,
@@ -1825,6 +1873,14 @@
       "onboard_time": 1717279632,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40190,
+      "num": 352193,
+      "word": "此次月球挖土有啥不一样",
+      "onboard_time": 1717313356,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38843,
@@ -1923,7 +1979,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12867,
+      "raw_hot": 15325,
       "num": 1064058,
       "word": "文化遗址里的中国故事",
       "onboard_time": 1717298238,
@@ -1962,6 +2018,9 @@
     },
     {
       "word": "#建设文化强国建设中华民族现代文明#"
+    },
+    {
+      "word": "#总书记的文化足迹遍及大江南北#"
     }
   ]
 }
