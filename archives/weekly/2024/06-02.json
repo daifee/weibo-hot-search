@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717302153280,
+  "endTime": 1717302987043,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -59,19 +59,27 @@
       "category": "互联网,情感"
     },
     {
+      "raw_hot": 1156129,
+      "num": 1156129,
+      "word": "不要觉得谈了五六年分手可惜",
+      "onboard_time": 1717297338,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 859961,
-      "num": 435481,
+      "num": 450259,
       "word": "一栗小莎子官宣生子",
       "onboard_time": 1717295297,
       "rank": 20,
       "category": "网红"
     },
     {
-      "raw_hot": 815385,
-      "num": 815385,
-      "word": "不要觉得谈了五六年分手可惜",
-      "onboard_time": 1717297338,
-      "rank": 21,
+      "raw_hot": 770516,
+      "num": 291314,
+      "word": "家里拆迁后妈给了我100万拆迁款",
+      "onboard_time": 1717299377,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 703476,
-      "num": 291314,
-      "word": "家里拆迁后妈给了我100万拆迁款",
-      "onboard_time": 1717299377,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 668525,
       "num": 668525,
       "word": "8岁女孩脑死亡过最后一个六一",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 620512,
-      "num": 420063,
+      "num": 446530,
       "word": "片方报奖白玉兰不会按番位选",
       "onboard_time": 1717300278,
       "rank": 12,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 614545,
-      "num": 409385,
+      "num": 446245,
       "word": "贾玲深V黑裙",
       "onboard_time": 1717296978,
       "rank": 12,
@@ -161,6 +161,14 @@
       "onboard_time": 1717251079,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 541021,
+      "num": 541021,
+      "word": "樊振东vs张本智和",
+      "onboard_time": 1717301418,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 511978,
@@ -363,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337153,
-      "num": 337153,
-      "word": "樊振东vs张本智和",
-      "onboard_time": 1717301418,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 333559,
       "num": 333559,
       "word": "表弟暗示我妈给他买电脑",
@@ -435,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275547,
+      "num": 275547,
+      "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
+      "onboard_time": 1717301777,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268711,
       "num": 268711,
       "word": "不法人员在充电宝内安装窃听定位",
@@ -451,12 +459,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258157,
+      "num": 258157,
+      "word": "白玉兰男女主角提报规则",
+      "onboard_time": 1717301958,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 255018,
+      "num": 255018,
+      "word": "吴刚回应陈萍萍独得年轻人宠爱",
+      "onboard_time": 1717302017,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
       "onboard_time": 1717254199,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243740,
+      "num": 243740,
+      "word": "人生大事恭喜朱一龙获奖",
+      "onboard_time": 1717301418,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 237268,
@@ -491,12 +523,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 225658,
+      "num": 225658,
+      "word": "沈星回卡套",
+      "onboard_time": 1717301537,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223262,
       "num": 223262,
       "word": "张志磊KO维尔德",
       "onboard_time": 1717290136,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222669,
+      "num": 222669,
+      "word": "菲非法坐滩仁爱礁军舰人员枪指中国海警",
+      "onboard_time": 1717301058,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221679,
@@ -515,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219864,
+      "num": 219864,
+      "word": "严浩翔长在烤肉摊上了",
+      "onboard_time": 1717302078,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218628,
       "num": 218628,
       "word": "书桌上这个凹槽到底是干嘛的",
@@ -523,12 +579,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 211602,
-      "num": 211602,
-      "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
-      "onboard_time": 1717301777,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 209763,
+      "num": 209763,
+      "word": "闪耀暖暖星云转转裙",
+      "onboard_time": 1717302017,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 209234,
@@ -539,27 +595,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207923,
-      "num": 202575,
-      "word": "沈星回卡套",
-      "onboard_time": 1717301537,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206963,
       "num": 206963,
       "word": "追风者",
       "onboard_time": 1717285755,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205633,
-      "num": 205633,
-      "word": "白玉兰男女主角提报规则",
-      "onboard_time": 1717301958,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -585,14 +625,6 @@
       "onboard_time": 1717245918,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 195610,
-      "num": 195610,
-      "word": "人生大事恭喜朱一龙获奖",
-      "onboard_time": 1717301418,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 194418,
@@ -643,20 +675,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 178696,
-      "num": 178696,
-      "word": "菲非法坐滩仁爱礁军舰人员枪指中国海警",
-      "onboard_time": 1717301058,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 177044,
-      "num": 177044,
-      "word": "闪耀暖暖星云转转裙",
-      "onboard_time": 1717302017,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 178806,
+      "num": 178806,
+      "word": "张进为贾玲化的妆",
+      "onboard_time": 1717301958,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 176923,
@@ -723,6 +747,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 162888,
+      "num": 162888,
+      "word": "热恋症",
+      "onboard_time": 1717299917,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162773,
       "num": 162773,
       "word": "周洁琼跳了Supernova",
@@ -739,11 +771,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160325,
+      "num": 160325,
+      "word": "王曼昱3比2陈幸同",
+      "onboard_time": 1717302017,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159399,
       "num": 159399,
       "word": "河北一地现白菜房6万能买两室一厅",
       "onboard_time": 1717297757,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157219,
+      "num": 440456,
+      "word": "已读乱回到底有什么魅力",
+      "onboard_time": 1717300817,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -771,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152106,
-      "num": 152106,
-      "word": "吴刚回应陈萍萍独得年轻人宠爱",
-      "onboard_time": 1717302017,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149231,
       "num": 149231,
       "word": "周杰伦王俊凯合唱",
@@ -787,36 +827,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149094,
-      "num": 149094,
-      "word": "严浩翔长在烤肉摊上了",
-      "onboard_time": 1717302078,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 148333,
-      "num": 148333,
-      "word": "张进为贾玲化的妆",
-      "onboard_time": 1717301958,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 147894,
-      "num": 147894,
-      "word": "王曼昱3比2陈幸同",
-      "onboard_time": 1717302017,
+      "raw_hot": 147423,
+      "num": 147423,
+      "word": "为什么感觉去旅游的人越来越多了",
+      "onboard_time": 1717300337,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 147552,
-      "num": 147552,
-      "word": "热恋症",
-      "onboard_time": 1717299917,
-      "rank": 47,
-      "category": "情感"
+      "category": "旅游"
     },
     {
       "raw_hot": 146263,
@@ -873,6 +889,14 @@
       "onboard_time": 1717295177,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140829,
+      "num": 291632,
+      "word": "月球表面最大最深最古老的盆地",
+      "onboard_time": 1717298120,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 139791,
@@ -945,14 +969,6 @@
       "onboard_time": 1717251679,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117660,
-      "num": 291632,
-      "word": "月球表面最大最深最古老的盆地",
-      "onboard_time": 1717298120,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116267,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1717256238,
       "rank": 43,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 105661,
-      "num": 440456,
-      "word": "已读乱回到底有什么魅力",
-      "onboard_time": 1717300817,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105414,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 82877,
-      "num": 441901,
+      "num": 457629,
       "word": "嫦娥六号准备月背挖宝",
       "onboard_time": 1717296617,
       "rank": 8,
@@ -1283,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55099,
+      "num": 259363,
+      "word": "爱蹲的人运气不会差",
+      "onboard_time": 1717301058,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54514,
       "num": 54514,
       "word": "巴勒斯坦",
@@ -1307,11 +1323,11 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 48342,
-      "num": 230654,
-      "word": "爱蹲的人运气不会差",
-      "onboard_time": 1717301058,
-      "rank": 24,
+      "raw_hot": 51697,
+      "num": 220632,
+      "word": "花1万网购一个家",
+      "onboard_time": 1717300397,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1329,6 +1345,14 @@
       "onboard_time": 1717283414,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 42425,
+      "num": 454804,
+      "word": "拍照时所有人都在笑只有她想哭",
+      "onboard_time": 1717300397,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40933,
@@ -1377,14 +1401,6 @@
       "onboard_time": 1717235598,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35159,
-      "num": 202862,
-      "word": "花1万网购一个家",
-      "onboard_time": 1717300397,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33104,
@@ -1487,6 +1503,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#建设文化强国建设中华民族现代文明#"
     }
   ]
 }
