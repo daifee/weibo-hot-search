@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717313668491,
+  "endTime": 1717316508702,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1263674,
+      "num": 1263674,
+      "word": "丁真 大家都欲望太强了",
+      "onboard_time": 1717311978,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1220726,
       "num": 388045,
       "word": "男子假扮道士性侵留守儿童致其怀孕",
@@ -81,6 +89,22 @@
       "onboard_time": 1717297338,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 943059,
+      "num": 943059,
+      "word": "霸刀",
+      "onboard_time": 1717312637,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 901446,
+      "num": 444038,
+      "word": "张杰谢娜关系不一般",
+      "onboard_time": 1717310897,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 859961,
@@ -115,28 +139,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 746005,
-      "num": 444038,
-      "word": "张杰谢娜关系不一般",
-      "onboard_time": 1717310897,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 733496,
       "num": 366060,
       "word": "米卡 忘了我是外国人",
       "onboard_time": 1717293377,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 672169,
-      "num": 194974,
-      "word": "丁真 大家都欲望太强了",
-      "onboard_time": 1717311978,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 672083,
@@ -195,6 +203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 593599,
+      "num": 593599,
+      "word": "阿沁控诉詹雯婷抄袭",
+      "onboard_time": 1717312457,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572042,
       "num": 572042,
       "word": "樊振东vs张本智和",
@@ -217,14 +233,6 @@
       "onboard_time": 1717251079,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 547268,
-      "num": 304589,
-      "word": "阿沁控诉詹雯婷抄袭",
-      "onboard_time": 1717312457,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 511978,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 475854,
-      "num": 284237,
+      "num": 288884,
       "word": "王俊凯发和周杰伦合照",
       "onboard_time": 1717312517,
       "rank": 30,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 404844,
-      "num": 269333,
+      "num": 367237,
       "word": "陈梦vs张本美和",
       "onboard_time": 1717312517,
       "rank": 31,
@@ -443,6 +451,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 379006,
+      "num": 379006,
+      "word": "霸刀山庄 大门",
+      "onboard_time": 1717311917,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 377144,
       "num": 377144,
       "word": "砍60岁网红迎客松涉事人已找到",
@@ -473,6 +489,14 @@
       "onboard_time": 1717276451,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364450,
+      "num": 364450,
+      "word": "董宇辉成了618局外人",
+      "onboard_time": 1717314137,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 361575,
@@ -531,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320486,
+      "num": 283410,
+      "word": "爸爸去哪儿董力上岛创业",
+      "onboard_time": 1717313058,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302891,
       "num": 302891,
       "word": "为什么有的人一天只睡4小时也很精神",
@@ -545,14 +577,6 @@
       "onboard_time": 1717245079,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300870,
-      "num": 300870,
-      "word": "霸刀",
-      "onboard_time": 1717312637,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 297678,
@@ -619,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 267471,
+      "num": 187433,
+      "word": "贾玲1个月喜提2代言",
+      "onboard_time": 1717315758,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -635,20 +667,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 255590,
-      "num": 255590,
-      "word": "霸刀山庄 大门",
-      "onboard_time": 1717311917,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 255018,
       "num": 255018,
       "word": "吴刚回应陈萍萍独得年轻人宠爱",
       "onboard_time": 1717302017,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253078,
+      "num": 253078,
+      "word": "王楚钦vs林高远",
+      "onboard_time": 1717314797,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 252496,
@@ -755,20 +787,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223940,
+      "num": 181152,
+      "word": "张若昀自己争取的范闲",
+      "onboard_time": 1717312997,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223262,
       "num": 223262,
       "word": "张志磊KO维尔德",
       "onboard_time": 1717290136,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221755,
-      "num": 192163,
-      "word": "爸爸去哪儿董力上岛创业",
-      "onboard_time": 1717313058,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 221679,
@@ -809,6 +841,14 @@
       "onboard_time": 1717299917,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215919,
+      "num": 215919,
+      "word": "网友偶遇2024高考试卷押运车队",
+      "onboard_time": 1717313657,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209763,
@@ -987,20 +1027,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174538,
-      "num": 174538,
-      "word": "张若昀自己争取的范闲",
-      "onboard_time": 1717312997,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173393,
       "num": 173393,
       "word": "王俊凯小时候的梦我知道",
       "onboard_time": 1717290676,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173387,
+      "num": 173387,
+      "word": "身上的气味可能会影响异性对你好感",
+      "onboard_time": 1717316118,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 172908,
@@ -1024,6 +1064,14 @@
       "word": "克罗斯 退役",
       "onboard_time": 1717286654,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171517,
+      "num": 189834,
+      "word": "王楚钦重庆赛进4强",
+      "onboard_time": 1717316418,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1155,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149948,
+      "num": 149948,
+      "word": "王楚钦3比1林高远",
+      "onboard_time": 1717316418,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149231,
       "num": 149231,
       "word": "周杰伦王俊凯合唱",
@@ -1169,6 +1225,14 @@
       "onboard_time": 1717305017,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148078,
+      "num": 148078,
+      "word": "王俊凯嘴角比AK还难压",
+      "onboard_time": 1717313899,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 147038,
@@ -1243,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141461,
+      "num": 141461,
+      "word": "孙俪吐槽邓超穿搭",
+      "onboard_time": 1717314617,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141450,
       "num": 141450,
       "word": "薛之谦演唱会背过身吸氧",
@@ -1259,6 +1331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140300,
+      "num": 140300,
+      "word": "香港人的特种兵旅游正在挤爆深圳",
+      "onboard_time": 1717314257,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139837,
       "num": 139837,
       "word": "宠物离开前真的会满含泪水",
@@ -1273,6 +1353,14 @@
       "onboard_time": 1717286295,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138462,
+      "num": 138462,
+      "word": "逆水寒美工",
+      "onboard_time": 1717314557,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 133691,
@@ -1459,6 +1547,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 109841,
+      "num": 109841,
+      "word": "陈梦3比1张本美和",
+      "onboard_time": 1717315577,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108968,
       "num": 108968,
       "word": "文俊辉limbo",
@@ -1563,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102636,
+      "num": 102636,
+      "word": "刘维无声的悲痛震耳欲聋",
+      "onboard_time": 1717314978,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98487,
       "num": 98487,
       "word": "刘宪华上半身身材",
@@ -1635,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 89925,
-      "num": 96184,
-      "word": "网友偶遇2024高考试卷押运车队",
-      "onboard_time": 1717313657,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87063,
       "num": 334597,
       "word": "萌兰在树上蛄蛹成毛毛虫",
@@ -1665,6 +1761,14 @@
       "onboard_time": 1717264334,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84918,
+      "num": 679379,
+      "word": "文脉华章",
+      "onboard_time": 1717313836,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84841,
@@ -1883,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39368,
+      "num": 169782,
+      "word": "问界新M7Ultra上市即交付",
+      "onboard_time": 1717315698,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38843,
       "num": 38843,
       "word": "山东宁阳发生透水事故8人被困",
@@ -1975,6 +2087,14 @@
       "num": 259988,
       "word": "校长六一表演唱跳连劈两个叉",
       "onboard_time": 1717260976,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18076,
+      "num": 309325,
+      "word": "一颗穿越4000年的稻米独白",
+      "onboard_time": 1717315637,
       "rank": 9,
       "category": "社会新闻"
     },
