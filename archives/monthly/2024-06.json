@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717295759678,
+  "endTime": 1717296335227,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2119199,
+      "num": 2119199,
+      "word": "贾玲Prada",
+      "onboard_time": 1717292896,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2029348,
       "num": 2029348,
       "word": "微信聊天最惹人反感的4种行为",
       "onboard_time": 1717247719,
       "rank": 36,
       "category": "互联网,情感"
-    },
-    {
-      "raw_hot": 1939640,
-      "num": 1939640,
-      "word": "贾玲Prada",
-      "onboard_time": 1717292896,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1929584,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1433682,
+      "num": 1433682,
+      "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
+      "onboard_time": 1717292896,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1427896,
       "num": 1427896,
       "word": "王俊凯又幸福了",
@@ -131,6 +139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1319857,
+      "num": 1319857,
+      "word": "藏海传全阵容官宣",
+      "onboard_time": 1717294457,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1292541,
       "num": 1292541,
       "word": "汪苏泷 好听",
@@ -153,14 +169,6 @@
       "onboard_time": 1717216277,
       "rank": 42,
       "category": "健康医疗,母婴育儿"
-    },
-    {
-      "raw_hot": 1255136,
-      "num": 1255136,
-      "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
-      "onboard_time": 1717292896,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1223229,
@@ -193,14 +201,6 @@
       "onboard_time": 1717163726,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1100640,
-      "num": 1100640,
-      "word": "藏海传全阵容官宣",
-      "onboard_time": 1717294457,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1079559,
@@ -403,6 +403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 733496,
+      "num": 343225,
+      "word": "米卡 忘了我是外国人",
+      "onboard_time": 1717293377,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 715835,
       "num": 575936,
       "word": "解放军绝不允许台湾从中国分裂出去",
@@ -481,14 +489,6 @@
       "onboard_time": 1717231817,
       "rank": 4,
       "category": "情感"
-    },
-    {
-      "raw_hot": 621545,
-      "num": 317437,
-      "word": "米卡 忘了我是外国人",
-      "onboard_time": 1717293377,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 604879,
@@ -593,6 +593,14 @@
       "onboard_time": 1717240338,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 513070,
+      "num": 343191,
+      "word": "一栗小莎子官宣生子",
+      "onboard_time": 1717295297,
+      "rank": 20,
+      "category": "网红"
     },
     {
       "raw_hot": 500014,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391815,
+      "num": 366814,
+      "word": "张若昀李沁再拍部剧吧",
+      "onboard_time": 1717292535,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390692,
       "num": 390692,
       "word": "王俊凯周杰伦演唱会彩排",
@@ -987,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 366814,
-      "num": 366814,
-      "word": "张若昀李沁再拍部剧吧",
-      "onboard_time": 1717292535,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 366467,
       "num": 366467,
       "word": "女排教练",
@@ -1067,11 +1075,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 346876,
+      "num": 346876,
+      "word": "巴勒斯坦儿童",
+      "onboard_time": 1717291276,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 345277,
       "num": 328832,
       "word": "范闲海棠朵朵抠书式对戏",
       "onboard_time": 1717207157,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 343069,
+      "num": 343069,
+      "word": "藏海传",
+      "onboard_time": 1717295177,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -1227,14 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 309947,
-      "num": 309947,
-      "word": "巴勒斯坦儿童",
-      "onboard_time": 1717291276,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 308083,
       "num": 280447,
       "word": "歌手直播",
@@ -1249,6 +1265,14 @@
       "onboard_time": 1717244958,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 302891,
+      "num": 302891,
+      "word": "为什么有的人一天只睡4小时也很精神",
+      "onboard_time": 1717289656,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 299356,
@@ -1371,14 +1395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271280,
-      "num": 271280,
-      "word": "为什么有的人一天只睡4小时也很精神",
-      "onboard_time": 1717289656,
-      "rank": 28,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 270308,
       "num": 270308,
       "word": "齐思钧主持",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1717218497,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 265644,
-      "num": 265644,
-      "word": "藏海传",
-      "onboard_time": 1717295177,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 265532,
@@ -1481,14 +1489,6 @@
       "onboard_time": 1717218797,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 244230,
-      "num": 201989,
-      "word": "一栗小莎子官宣生子",
-      "onboard_time": 1717295297,
-      "rank": 20,
-      "category": "网红"
     },
     {
       "raw_hot": 243833,
@@ -2019,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177994,
+      "num": 177994,
+      "word": "我梦到高考语文题目了",
+      "onboard_time": 1717294937,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176952,
       "num": 176952,
       "word": "易烊千玺提名2022年导协年度男演员",
@@ -2108,7 +2116,7 @@
     },
     {
       "raw_hot": 171517,
-      "num": 1161509,
+      "num": 1325960,
       "word": "不管几岁快乐万岁",
       "onboard_time": 1717212076,
       "rank": 45,
@@ -2539,6 +2547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144789,
+      "num": 144789,
+      "word": "魏大勋同人 神作",
+      "onboard_time": 1717295537,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144632,
       "num": 144632,
       "word": "by2童年照曝光",
@@ -2571,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142493,
+      "num": 142493,
+      "word": "周深一切都是最好的安排",
+      "onboard_time": 1717295058,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142252,
       "num": 142252,
       "word": "导协年度荣誉提名名单",
@@ -2579,12 +2603,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 142018,
-      "num": 142018,
-      "word": "我梦到高考语文题目了",
-      "onboard_time": 1717294937,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 141450,
+      "num": 141450,
+      "word": "薛之谦演唱会背过身吸氧",
+      "onboard_time": 1717295177,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 140712,
@@ -2731,14 +2755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132911,
-      "num": 132911,
-      "word": "周深一切都是最好的安排",
-      "onboard_time": 1717295058,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 132561,
       "num": 132561,
       "word": "杨洋i人e狗",
@@ -2859,12 +2875,12 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 123196,
-      "num": 123196,
-      "word": "薛之谦演唱会背过身吸氧",
-      "onboard_time": 1717295177,
-      "rank": 34,
-      "category": "演出"
+      "raw_hot": 122448,
+      "num": 122448,
+      "word": "梦想的肌肉线条长在了6岁小孩姐身上",
+      "onboard_time": 1717295417,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 122355,
@@ -3020,7 +3036,7 @@
     },
     {
       "raw_hot": 112126,
-      "num": 318266,
+      "num": 343255,
       "word": "摄影师5年筹措百台相机进牧区",
       "onboard_time": 1717292957,
       "rank": 9,
@@ -3105,14 +3121,6 @@
       "onboard_time": 1717226058,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108508,
-      "num": 108508,
-      "word": "魏大勋同人 神作",
-      "onboard_time": 1717295537,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 108336,
@@ -3219,12 +3227,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105272,
-      "num": 105272,
-      "word": "梦想的肌肉线条长在了6岁小孩姐身上",
-      "onboard_time": 1717295417,
-      "rank": 40,
-      "category": "运动健身"
+      "raw_hot": 104404,
+      "num": 121433,
+      "word": "培训贷盯上求职年轻人",
+      "onboard_time": 1717293737,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104121,
@@ -3297,6 +3305,14 @@
       "onboard_time": 1717230017,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97931,
+      "num": 97931,
+      "word": "悲情王子罗伊斯",
+      "onboard_time": 1717295958,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 96786,
@@ -3409,14 +3425,6 @@
       "onboard_time": 1717182851,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 83850,
-      "num": 121433,
-      "word": "培训贷盯上求职年轻人",
-      "onboard_time": 1717293737,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82181,
@@ -3563,6 +3571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70239,
+      "num": 226585,
+      "word": "麦门的风还是吹到了时尚圈",
+      "onboard_time": 1717295118,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 69196,
       "num": 101915,
       "word": "美国小伙飞杭州动漫展求婚女友",
@@ -3617,14 +3633,6 @@
       "onboard_time": 1717225217,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63767,
-      "num": 144141,
-      "word": "麦门的风还是吹到了时尚圈",
-      "onboard_time": 1717295118,
-      "rank": 27,
-      "category": "时尚"
     },
     {
       "raw_hot": 61928,
