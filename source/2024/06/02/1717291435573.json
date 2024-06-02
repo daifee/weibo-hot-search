@@ -1,0 +1,410 @@
+{
+  "runTime": 1717291435573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520474,
+        "num": 1520474,
+        "word": "端午真争气生在了周一",
+        "onboard_time": 1717284254,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 661064,
+        "num": 661064,
+        "word": "女生将没吃的菜低价推销给隔壁桌",
+        "onboard_time": 1717283293,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22892,
+        "num": 526117,
+        "word": "不管几岁快乐万岁",
+        "onboard_time": 1717212076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499416,
+        "num": 499416,
+        "word": "为什么大脑删除了3岁前的记忆",
+        "onboard_time": 1717251079,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 478711,
+        "num": 478711,
+        "word": "健身一年花了两万多",
+        "onboard_time": 1717285635,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 387782,
+        "num": 387782,
+        "word": "印度大选至少19名官员被热死",
+        "onboard_time": 1717253120,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 321167,
+        "num": 321167,
+        "word": "滕丛丛 不是长得漂亮就叫演员",
+        "onboard_time": 1717289895,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295586,
+        "num": 295586,
+        "word": "姆巴佩 皇马",
+        "onboard_time": 1717287314,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288642,
+        "num": 288642,
+        "word": "8岁女孩脑死亡过最后一个六一",
+        "onboard_time": 1717258877,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59415,
+        "num": 280326,
+        "word": "老师上课给学生发漫画",
+        "onboard_time": 1717291035,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278596,
+        "num": 278596,
+        "word": "表弟暗示我妈给他买电脑",
+        "onboard_time": 1717283353,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244032,
+        "num": 244032,
+        "word": "王一博探险回来了",
+        "onboard_time": 1717290917,
+        "rank": 11,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 243833,
+        "num": 243833,
+        "word": "范思辙名字",
+        "onboard_time": 1717254199,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240399,
+        "num": 240399,
+        "word": "微信聊天最惹人反感的4种行为",
+        "onboard_time": 1717247719,
+        "rank": 13,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 228169,
+        "num": 228169,
+        "word": "砍60岁网红迎客松涉事人已找到",
+        "onboard_time": 1717253239,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225480,
+        "num": 225480,
+        "word": "王阳说没有待播的戏后面就没饭吃",
+        "onboard_time": 1717247419,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223262,
+        "num": 223262,
+        "word": "张志磊KO维尔德",
+        "onboard_time": 1717290136,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209807,
+        "num": 209807,
+        "word": "背着善宰跑导演吐槽金惠允外貌",
+        "onboard_time": 1717254799,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206963,
+        "num": 206963,
+        "word": "追风者",
+        "onboard_time": 1717285755,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201469,
+        "num": 201469,
+        "word": "皇马夺得欧冠冠军",
+        "onboard_time": 1717276451,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 662637,
+        "num": 200830,
+        "word": "为什么年轻人宁愿工资低点也要过得舒服",
+        "onboard_time": 1717287856,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221679,
+        "num": 194080,
+        "word": "我把我的工资做成了表情包",
+        "onboard_time": 1717286115,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178801,
+        "num": 178801,
+        "word": "不法人员在充电宝内安装窃听定位",
+        "onboard_time": 1717289717,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172405,
+        "num": 172405,
+        "word": "克罗斯 退役",
+        "onboard_time": 1717286654,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166649,
+        "num": 166649,
+        "word": "原生家庭差的年轻人觉醒的第一步",
+        "onboard_time": 1717289536,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157303,
+        "num": 157303,
+        "word": "周洁琼跳了Supernova",
+        "onboard_time": 1717290376,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156109,
+        "num": 156109,
+        "word": "董明珠称打工人想要休闲可以辞职",
+        "onboard_time": 1717245079,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148189,
+        "num": 148189,
+        "word": "庆余年看不了",
+        "onboard_time": 1717242616,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145678,
+        "num": 145678,
+        "word": "为什么有的人一天只睡4小时也很精神",
+        "onboard_time": 1717289656,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145251,
+        "num": 145251,
+        "word": "11岁女孩从车流中一把拽回走失女童",
+        "onboard_time": 1717284554,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140220,
+        "num": 140220,
+        "word": "王俊凯小时候的梦我知道",
+        "onboard_time": 1717290676,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139791,
+        "num": 139791,
+        "word": "张志磊 维尔德",
+        "onboard_time": 1717286295,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129548,
+        "num": 129548,
+        "word": "原来真的有人一上班就会吐",
+        "onboard_time": 1717288696,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126721,
+        "num": 126721,
+        "word": "向佐被问来看周杰伦的反应",
+        "onboard_time": 1717284494,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114871,
+        "num": 114871,
+        "word": "原来角度决定颜值是有一定道理的",
+        "onboard_time": 1717291157,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132186,
+        "num": 114562,
+        "word": "王俊凯又幸福了",
+        "onboard_time": 1717245679,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113707,
+        "num": 113707,
+        "word": "局长为谋求副厅被骗300万元",
+        "onboard_time": 1717258578,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113296,
+        "num": 113296,
+        "word": "向佐路过陈丽君应援区",
+        "onboard_time": 1717284915,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108968,
+        "num": 108968,
+        "word": "文俊辉limbo",
+        "onboard_time": 1717290557,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108329,
+        "num": 108329,
+        "word": "世卫大会给予巴勒斯坦准成员国权利",
+        "onboard_time": 1717285154,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106416,
+        "num": 106416,
+        "word": "周迅一口气拿了两个导协年度女演员",
+        "onboard_time": 1717254139,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105414,
+        "num": 105414,
+        "word": "小猫咪也很讨厌下雨",
+        "onboard_time": 1717289357,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103521,
+        "num": 103521,
+        "word": "女生婚礼前1天被告知酒店停业",
+        "onboard_time": 1717248498,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69196,
+        "num": 101915,
+        "word": "美国小伙飞杭州动漫展求婚女友",
+        "onboard_time": 1717286415,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101072,
+        "num": 101072,
+        "word": "巴勒斯坦儿童",
+        "onboard_time": 1717291276,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 98487,
+        "num": 98487,
+        "word": "刘宪华上半身身材",
+        "onboard_time": 1717285154,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92020,
+        "num": 92020,
+        "word": "李健演唱会",
+        "onboard_time": 1717291335,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91523,
+        "num": 91523,
+        "word": "安切洛蒂水平",
+        "onboard_time": 1717290796,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89993,
+        "num": 91409,
+        "word": "周杰伦王俊凯合唱",
+        "onboard_time": 1717248738,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91375,
+        "num": 91375,
+        "word": "逆水寒手游回应剑网3",
+        "onboard_time": 1717253718,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记和小朋友们的温暖瞬间#"
+    }
+  }
+}

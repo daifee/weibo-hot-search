@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717284865868,
+  "endTime": 1717291435573,
   "band_list": [
     {
       "raw_hot": 1651343,
@@ -9,6 +9,14 @@
       "onboard_time": 1717244958,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1520474,
+      "num": 1520474,
+      "word": "端午真争气生在了周一",
+      "onboard_time": 1717284254,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 1197918,
@@ -43,6 +51,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 662637,
+      "num": 200830,
+      "word": "为什么年轻人宁愿工资低点也要过得舒服",
+      "onboard_time": 1717287856,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 661064,
+      "num": 661064,
+      "word": "女生将没吃的菜低价推销给隔壁桌",
+      "onboard_time": 1717283293,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 644721,
       "num": 155763,
       "word": "王阳 王一博",
@@ -60,19 +84,11 @@
     },
     {
       "raw_hot": 549083,
-      "num": 428946,
+      "num": 499416,
       "word": "为什么大脑删除了3岁前的记忆",
       "onboard_time": 1717251079,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 543520,
-      "num": 175566,
-      "word": "女生将没吃的菜低价推销给隔壁桌",
-      "onboard_time": 1717283293,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479775,
@@ -81,6 +97,14 @@
       "onboard_time": 1717247419,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478711,
+      "num": 478711,
+      "word": "健身一年花了两万多",
+      "onboard_time": 1717285635,
+      "rank": 4,
+      "category": "运动健身"
     },
     {
       "raw_hot": 461723,
@@ -179,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321167,
+      "num": 321167,
+      "word": "滕丛丛 不是长得漂亮就叫演员",
+      "onboard_time": 1717289895,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 302147,
       "num": 302147,
       "word": "董明珠称打工人想要休闲可以辞职",
@@ -195,6 +227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295586,
+      "num": 295586,
+      "word": "姆巴佩 皇马",
+      "onboard_time": 1717287314,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 278596,
+      "num": 278596,
+      "word": "表弟暗示我妈给他买电脑",
+      "onboard_time": 1717283353,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -203,12 +251,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 244032,
+      "num": 244032,
+      "word": "王一博探险回来了",
+      "onboard_time": 1717290917,
+      "rank": 11,
+      "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 243833,
+      "num": 243833,
+      "word": "范思辙名字",
+      "onboard_time": 1717254199,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232577,
       "num": 232577,
       "word": "暗星拍的王俊凯",
       "onboard_time": 1717253838,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223262,
+      "num": 223262,
+      "word": "张志磊KO维尔德",
+      "onboard_time": 1717290136,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221679,
+      "num": 194080,
+      "word": "我把我的工资做成了表情包",
+      "onboard_time": 1717286115,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 220849,
@@ -227,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206342,
-      "num": 194966,
-      "word": "范思辙名字",
-      "onboard_time": 1717254199,
-      "rank": 22,
+      "raw_hot": 206963,
+      "num": 206963,
+      "word": "追风者",
+      "onboard_time": 1717285755,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -267,12 +347,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 173598,
-      "num": 173598,
-      "word": "端午真争气生在了周一",
-      "onboard_time": 1717284254,
-      "rank": 12,
-      "category": "情感"
+      "raw_hot": 178801,
+      "num": 178801,
+      "word": "不法人员在充电宝内安装窃听定位",
+      "onboard_time": 1717289717,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172908,
@@ -283,6 +363,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172405,
+      "num": 172405,
+      "word": "克罗斯 退役",
+      "onboard_time": 1717286654,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166649,
+      "num": 166649,
+      "word": "原生家庭差的年轻人觉醒的第一步",
+      "onboard_time": 1717289536,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164389,
       "num": 164389,
       "word": "原来腰突了还可以回去",
@@ -291,12 +387,12 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 162418,
-      "num": 94244,
-      "word": "表弟暗示我妈给他买电脑",
-      "onboard_time": 1717283353,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 157303,
+      "num": 157303,
+      "word": "周洁琼跳了Supernova",
+      "onboard_time": 1717290376,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 156833,
@@ -331,6 +427,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145678,
+      "num": 145678,
+      "word": "为什么有的人一天只睡4小时也很精神",
+      "onboard_time": 1717289656,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 145251,
+      "num": 175755,
+      "word": "11岁女孩从车流中一把拽回走失女童",
+      "onboard_time": 1717284554,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144918,
       "num": 144918,
       "word": "薛之谦很豹歉",
@@ -347,12 +459,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140220,
+      "num": 140220,
+      "word": "王俊凯小时候的梦我知道",
+      "onboard_time": 1717290676,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139791,
+      "num": 139791,
+      "word": "张志磊 维尔德",
+      "onboard_time": 1717286295,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129548,
+      "num": 129548,
+      "word": "原来真的有人一上班就会吐",
+      "onboard_time": 1717288696,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127301,
       "num": 127301,
       "word": "何洁戚薇陈昊宇蔡文静新综艺",
       "onboard_time": 1717254858,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126721,
+      "num": 126721,
+      "word": "向佐被问来看周杰伦的反应",
+      "onboard_time": 1717284494,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 124165,
@@ -387,6 +531,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 114871,
+      "num": 114871,
+      "word": "原来角度决定颜值是有一定道理的",
+      "onboard_time": 1717291157,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114464,
       "num": 114464,
       "word": "许嵩呼吸之野演唱会",
@@ -395,12 +547,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113296,
+      "num": 113296,
+      "word": "向佐路过陈丽君应援区",
+      "onboard_time": 1717284915,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109926,
       "num": 109926,
       "word": "以色列",
       "onboard_time": 1717235477,
       "rank": 39,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 108968,
+      "num": 108968,
+      "word": "文俊辉limbo",
+      "onboard_time": 1717290557,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 108783,
@@ -417,6 +585,14 @@
       "onboard_time": 1717237158,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108329,
+      "num": 108329,
+      "word": "世卫大会给予巴勒斯坦准成员国权利",
+      "onboard_time": 1717285154,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 106583,
@@ -443,12 +619,52 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 105414,
+      "num": 105414,
+      "word": "小猫咪也很讨厌下雨",
+      "onboard_time": 1717289357,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101072,
+      "num": 101072,
+      "word": "巴勒斯坦儿童",
+      "onboard_time": 1717291276,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 98487,
+      "num": 98487,
+      "word": "刘宪华上半身身材",
+      "onboard_time": 1717285154,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94850,
       "num": 102703,
       "word": "官方通报怀孕学生被当肾病医治后身亡",
       "onboard_time": 1717222397,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92020,
+      "num": 92020,
+      "word": "李健演唱会",
+      "onboard_time": 1717291335,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 91523,
+      "num": 91523,
+      "word": "安切洛蒂水平",
+      "onboard_time": 1717290796,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90202,
@@ -531,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69196,
+      "num": 101915,
+      "word": "美国小伙飞杭州动漫展求婚女友",
+      "onboard_time": 1717286415,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67531,
       "num": 67531,
       "word": "张杰演唱会儿童节撒糖",
@@ -545,6 +769,14 @@
       "onboard_time": 1717283353,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59415,
+      "num": 280326,
+      "word": "老师上课给学生发漫画",
+      "onboard_time": 1717291035,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54514,
@@ -577,14 +809,6 @@
       "onboard_time": 1717283353,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43440,
-      "num": 42319,
-      "word": "向佐被问来看周杰伦的反应",
-      "onboard_time": 1717284494,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 43020,
@@ -651,14 +875,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 28733,
-      "num": 175755,
-      "word": "11岁女孩从车流中一把拽回走失女童",
-      "onboard_time": 1717284554,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26948,
       "num": 26948,
       "word": "我发现自己对恋爱祛魅了",
@@ -673,6 +889,14 @@
       "onboard_time": 1717271651,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 22892,
+      "num": 526117,
+      "word": "不管几岁快乐万岁",
+      "onboard_time": 1717212076,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21723,
@@ -704,14 +928,6 @@
       "word": "校长六一表演唱跳连劈两个叉",
       "onboard_time": 1717260976,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14447,
-      "num": 499264,
-      "word": "不管几岁快乐万岁",
-      "onboard_time": 1717212076,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
