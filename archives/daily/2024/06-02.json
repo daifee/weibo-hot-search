@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717291435573,
+  "endTime": 1717292660107,
   "band_list": [
     {
       "raw_hot": 1651343,
@@ -27,6 +27,14 @@
       "category": "互联网,情感"
     },
     {
+      "raw_hot": 1004042,
+      "num": 1004042,
+      "word": "为什么年轻人宁愿工资低点也要过得舒服",
+      "onboard_time": 1717287856,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 759002,
       "num": 759002,
       "word": "背着善宰跑导演吐槽金惠允外貌",
@@ -49,14 +57,6 @@
       "onboard_time": 1717258877,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662637,
-      "num": 200830,
-      "word": "为什么年轻人宁愿工资低点也要过得舒服",
-      "onboard_time": 1717287856,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 661064,
@@ -163,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 402984,
+      "num": 402984,
+      "word": "滕丛丛 不是长得漂亮就叫演员",
+      "onboard_time": 1717289895,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 394461,
       "num": 394461,
       "word": "女生婚礼前1天被告知酒店停业",
       "onboard_time": 1717248498,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385848,
+      "num": 297163,
+      "word": "王一博探险回来了",
+      "onboard_time": 1717290917,
+      "rank": 11,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 377144,
@@ -203,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 321167,
-      "num": 321167,
-      "word": "滕丛丛 不是长得漂亮就叫演员",
-      "onboard_time": 1717289895,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 333559,
+      "num": 333559,
+      "word": "表弟暗示我妈给他买电脑",
+      "onboard_time": 1717283353,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 302147,
@@ -235,14 +251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278596,
-      "num": 278596,
-      "word": "表弟暗示我妈给他买电脑",
-      "onboard_time": 1717283353,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -251,20 +259,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 244032,
-      "num": 244032,
-      "word": "王一博探险回来了",
-      "onboard_time": 1717290917,
-      "rank": 11,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
       "onboard_time": 1717254199,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241801,
+      "num": 241801,
+      "word": "不法人员在充电宝内安装窃听定位",
+      "onboard_time": 1717289717,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232577,
@@ -339,20 +347,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187429,
+      "num": 187429,
+      "word": "巴勒斯坦儿童",
+      "onboard_time": 1717291276,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 183933,
+      "num": 183933,
+      "word": "原生家庭差的年轻人觉醒的第一步",
+      "onboard_time": 1717289536,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179455,
       "num": 179455,
       "word": "逆水寒",
       "onboard_time": 1717245197,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 178801,
-      "num": 178801,
-      "word": "不法人员在充电宝内安装窃听定位",
-      "onboard_time": 1717289717,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172908,
@@ -371,12 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166649,
-      "num": 166649,
-      "word": "原生家庭差的年轻人觉醒的第一步",
-      "onboard_time": 1717289536,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 170127,
+      "num": 170127,
+      "word": "为什么有的人一天只睡4小时也很精神",
+      "onboard_time": 1717289656,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 166059,
+      "num": 166059,
+      "word": "原来角度决定颜值是有一定道理的",
+      "onboard_time": 1717291157,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 164389,
@@ -387,11 +411,27 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 157303,
-      "num": 157303,
+      "raw_hot": 162832,
+      "num": 162832,
+      "word": "王俊凯小时候的梦我知道",
+      "onboard_time": 1717290676,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 162773,
+      "num": 162773,
       "word": "周洁琼跳了Supernova",
       "onboard_time": 1717290376,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161537,
+      "num": 161537,
+      "word": "拥抱金硕珍",
+      "onboard_time": 1717291576,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -427,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145678,
-      "num": 145678,
-      "word": "为什么有的人一天只睡4小时也很精神",
-      "onboard_time": 1717289656,
-      "rank": 28,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 145251,
       "num": 175755,
       "word": "11岁女孩从车流中一把拽回走失女童",
@@ -459,14 +491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140220,
-      "num": 140220,
-      "word": "王俊凯小时候的梦我知道",
-      "onboard_time": 1717290676,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 139791,
       "num": 139791,
       "word": "张志磊 维尔德",
@@ -475,8 +499,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129548,
-      "num": 129548,
+      "raw_hot": 133691,
+      "num": 133691,
       "word": "原来真的有人一上班就会吐",
       "onboard_time": 1717288696,
       "rank": 32,
@@ -497,6 +521,14 @@
       "onboard_time": 1717284494,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125680,
+      "num": 125680,
+      "word": "李健演唱会",
+      "onboard_time": 1717291335,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 124165,
@@ -529,14 +561,6 @@
       "onboard_time": 1717256538,
       "rank": 38,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 114871,
-      "num": 114871,
-      "word": "原来角度决定颜值是有一定道理的",
-      "onboard_time": 1717291157,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 114464,
@@ -579,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108753,
+      "num": 108753,
+      "word": "德约科维奇vs穆塞蒂",
+      "onboard_time": 1717292057,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108683,
       "num": 108683,
       "word": "郑钦文遭误判",
@@ -601,6 +633,22 @@
       "onboard_time": 1717276451,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106369,
+      "num": 106369,
+      "word": "网友爬山偶遇跨物种的旅游搭子",
+      "onboard_time": 1717292418,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 106252,
+      "num": 106252,
+      "word": "嫦娥六号成功着陆",
+      "onboard_time": 1717288936,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106247,
@@ -627,14 +675,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101072,
-      "num": 101072,
-      "word": "巴勒斯坦儿童",
-      "onboard_time": 1717291276,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 98487,
       "num": 98487,
       "word": "刘宪华上半身身材",
@@ -643,20 +683,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96943,
+      "num": 96943,
+      "word": "张若昀李沁再拍部剧吧",
+      "onboard_time": 1717292535,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94850,
       "num": 102703,
       "word": "官方通报怀孕学生被当肾病医治后身亡",
       "onboard_time": 1717222397,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92020,
-      "num": 92020,
-      "word": "李健演唱会",
-      "onboard_time": 1717291335,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 91523,
@@ -772,7 +812,7 @@
     },
     {
       "raw_hot": 59415,
-      "num": 280326,
+      "num": 297591,
       "word": "老师上课给学生发漫画",
       "onboard_time": 1717291035,
       "rank": 9,
@@ -875,6 +915,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 28946,
+      "num": 684667,
+      "word": "不管几岁快乐万岁",
+      "onboard_time": 1717212076,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26948,
       "num": 26948,
       "word": "我发现自己对恋爱祛魅了",
@@ -889,14 +937,6 @@
       "onboard_time": 1717271651,
       "rank": 32,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 22892,
-      "num": 526117,
-      "word": "不管几岁快乐万岁",
-      "onboard_time": 1717212076,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21723,

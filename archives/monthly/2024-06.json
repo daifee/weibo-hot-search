@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717291435573,
+  "endTime": 1717292660107,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -185,6 +185,14 @@
       "onboard_time": 1717166422,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1004042,
+      "num": 1004042,
+      "word": "为什么年轻人宁愿工资低点也要过得舒服",
+      "onboard_time": 1717287856,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 968702,
@@ -401,14 +409,6 @@
       "onboard_time": 1717258877,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662637,
-      "num": 200830,
-      "word": "为什么年轻人宁愿工资低点也要过得舒服",
-      "onboard_time": 1717287856,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 661554,
@@ -795,6 +795,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 402984,
+      "num": 402984,
+      "word": "滕丛丛 不是长得漂亮就叫演员",
+      "onboard_time": 1717289895,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 401225,
       "num": 354698,
       "word": "磨铁已全面停止对京东发货",
@@ -841,6 +849,14 @@
       "onboard_time": 1717229477,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385848,
+      "num": 297163,
+      "word": "王一博探险回来了",
+      "onboard_time": 1717290917,
+      "rank": 11,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 384912,
@@ -1027,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 333559,
+      "num": 333559,
+      "word": "表弟暗示我妈给他买电脑",
+      "onboard_time": 1717283353,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 329533,
       "num": 329533,
       "word": "六一儿童节",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1717197854,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321167,
-      "num": 321167,
-      "word": "滕丛丛 不是长得漂亮就叫演员",
-      "onboard_time": 1717289895,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 320860,
@@ -1267,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278596,
-      "num": 278596,
-      "word": "表弟暗示我妈给他买电脑",
-      "onboard_time": 1717283353,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 274866,
       "num": 240291,
       "word": "刘诗诗拍的新疆风景",
@@ -1395,20 +1403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244032,
-      "num": 244032,
-      "word": "王一博探险回来了",
-      "onboard_time": 1717290917,
-      "rank": 11,
-      "category": "艺人,综艺"
-    },
-    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
       "onboard_time": 1717254199,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241801,
+      "num": 241801,
+      "word": "不法人员在充电宝内安装窃听定位",
+      "onboard_time": 1717289717,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238320,
@@ -1859,6 +1867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187429,
+      "num": 187429,
+      "word": "巴勒斯坦儿童",
+      "onboard_time": 1717291276,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 185924,
       "num": 185924,
       "word": "UP对战iG",
@@ -1873,6 +1889,14 @@
       "onboard_time": 1717201455,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183933,
+      "num": 183933,
+      "word": "原生家庭差的年轻人觉醒的第一步",
+      "onboard_time": 1717289536,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 183850,
@@ -1921,14 +1945,6 @@
       "onboard_time": 1717253178,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178801,
-      "num": 178801,
-      "word": "不法人员在充电宝内安装窃听定位",
-      "onboard_time": 1717289717,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176952,
@@ -2027,6 +2043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170127,
+      "num": 170127,
+      "word": "为什么有的人一天只睡4小时也很精神",
+      "onboard_time": 1717289656,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 168954,
       "num": 168954,
       "word": "古天乐谈20岁进教管所",
@@ -2067,20 +2091,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166649,
-      "num": 166649,
-      "word": "原生家庭差的年轻人觉醒的第一步",
-      "onboard_time": 1717289536,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166608,
       "num": 166608,
       "word": "余承东李斌预测十年后中国车企",
       "onboard_time": 1717229536,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 166059,
+      "num": 166059,
+      "word": "原来角度决定颜值是有一定道理的",
+      "onboard_time": 1717291157,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 165596,
@@ -2139,6 +2163,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162832,
+      "num": 162832,
+      "word": "王俊凯小时候的梦我知道",
+      "onboard_time": 1717290676,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 162773,
+      "num": 162773,
+      "word": "周洁琼跳了Supernova",
+      "onboard_time": 1717290376,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162451,
       "num": 162451,
       "word": "李昀锐面部平整度",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1717216879,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161537,
+      "num": 161537,
+      "word": "拥抱金硕珍",
+      "onboard_time": 1717291576,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 160713,
@@ -2240,14 +2288,6 @@
       "word": "丁程鑫做儿童节帽子",
       "onboard_time": 1717223056,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157303,
-      "num": 157303,
-      "word": "周洁琼跳了Supernova",
-      "onboard_time": 1717290376,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2411,14 +2451,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 145678,
-      "num": 145678,
-      "word": "为什么有的人一天只睡4小时也很精神",
-      "onboard_time": 1717289656,
-      "rank": 28,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 145307,
       "num": 145307,
       "word": "没想到鸡也可以当宠物",
@@ -2505,14 +2537,6 @@
       "onboard_time": 1717249879,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 140220,
-      "num": 140220,
-      "word": "王俊凯小时候的梦我知道",
-      "onboard_time": 1717290676,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 139791,
@@ -2627,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133691,
+      "num": 133691,
+      "word": "原来真的有人一上班就会吐",
+      "onboard_time": 1717288696,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132561,
       "num": 132561,
       "word": "杨洋i人e狗",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1717168881,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129548,
-      "num": 129548,
-      "word": "原来真的有人一上班就会吐",
-      "onboard_time": 1717288696,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 129086,
@@ -2713,6 +2737,14 @@
       "onboard_time": 1717226298,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125680,
+      "num": 125680,
+      "word": "李健演唱会",
+      "onboard_time": 1717291335,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 124615,
@@ -2851,14 +2883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114871,
-      "num": 114871,
-      "word": "原来角度决定颜值是有一定道理的",
-      "onboard_time": 1717291157,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 114568,
       "num": 114568,
       "word": "古希腊掌管创意的神",
@@ -2971,6 +2995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108753,
+      "num": 108753,
+      "word": "德约科维奇vs穆塞蒂",
+      "onboard_time": 1717292057,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108713,
       "num": 108713,
       "word": "奔跑吧下期泥潭大战回归",
@@ -3043,6 +3075,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 106369,
+      "num": 106369,
+      "word": "网友爬山偶遇跨物种的旅游搭子",
+      "onboard_time": 1717292418,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 106252,
+      "num": 106252,
+      "word": "嫦娥六号成功着陆",
+      "onboard_time": 1717288936,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106141,
       "num": 106141,
       "word": "剑网3否认对某手游IVE事件推波助澜",
@@ -3107,14 +3155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101072,
-      "num": 101072,
-      "word": "巴勒斯坦儿童",
-      "onboard_time": 1717291276,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 98646,
       "num": 98646,
       "word": "石宇奇连救7个局点",
@@ -3139,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96943,
+      "num": 96943,
+      "word": "张若昀李沁再拍部剧吧",
+      "onboard_time": 1717292535,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96786,
       "num": 96786,
       "word": "狗子偷吃折耳根哐哐一顿炫",
@@ -3153,14 +3201,6 @@
       "onboard_time": 1717173616,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 92020,
-      "num": 92020,
-      "word": "李健演唱会",
-      "onboard_time": 1717291335,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 91523,
@@ -3476,7 +3516,7 @@
     },
     {
       "raw_hot": 59415,
-      "num": 280326,
+      "num": 297591,
       "word": "老师上课给学生发漫画",
       "onboard_time": 1717291035,
       "rank": 9,
