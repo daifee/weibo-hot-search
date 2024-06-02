@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717334359580,
+  "endTime": 1717335253458,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -171,6 +171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1347627,
+      "num": 1347627,
+      "word": "庆余年第三季",
+      "onboard_time": 1717333279,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1319857,
       "num": 1319857,
       "word": "藏海传全阵容官宣",
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 1283480,
-      "num": 963040,
+      "num": 1164892,
       "word": "杨迪说现在圈内疯子很多",
       "onboard_time": 1717330578,
       "rank": 8,
@@ -257,6 +265,14 @@
       "onboard_time": 1717297338,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1152390,
+      "num": 1152390,
+      "word": "蔡斌",
+      "onboard_time": 1717333399,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1143390,
@@ -339,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 931913,
-      "num": 931913,
-      "word": "庆余年第三季",
-      "onboard_time": 1717333279,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 922632,
       "num": 499416,
       "word": "为什么大脑删除了3岁前的记忆",
@@ -419,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 839721,
+      "num": 839721,
+      "word": "合影杀手李小冉",
+      "onboard_time": 1717331597,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 839545,
       "num": 839545,
       "word": "田小娟暂停活动",
@@ -473,14 +489,6 @@
       "onboard_time": 1717323977,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 778909,
-      "num": 644411,
-      "word": "合影杀手李小冉",
-      "onboard_time": 1717331597,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 770516,
@@ -617,14 +625,6 @@
       "onboard_time": 1717303098,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 671542,
-      "num": 671542,
-      "word": "蔡斌",
-      "onboard_time": 1717333399,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 668525,
@@ -779,6 +779,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 566024,
+      "num": 566024,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1717333038,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 564399,
       "num": 289982,
       "word": "耳帝评歌手第四期",
@@ -849,6 +857,14 @@
       "onboard_time": 1717240338,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 514973,
+      "num": 514973,
+      "word": "杨超越演技",
+      "onboard_time": 1717330458,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 511978,
@@ -929,14 +945,6 @@
       "onboard_time": 1717197674,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 488285,
-      "num": 431661,
-      "word": "杨超越演技",
-      "onboard_time": 1717330458,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 485825,
@@ -1100,7 +1108,7 @@
     },
     {
       "raw_hot": 438887,
-      "num": 251883,
+      "num": 430456,
       "word": "佟梦实说会为庆余年3好好保养",
       "onboard_time": 1717332319,
       "rank": 27,
@@ -1315,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393843,
+      "num": 393843,
+      "word": "日本垃圾桶",
+      "onboard_time": 1717334360,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391815,
       "num": 366814,
       "word": "张若昀李沁再拍部剧吧",
@@ -1328,14 +1344,6 @@
       "word": "樊振东vs雨果",
       "onboard_time": 1717330158,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 391453,
-      "num": 391453,
-      "word": "孙颖莎vs陈梦",
-      "onboard_time": 1717333038,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -1675,12 +1683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335601,
+      "num": 232664,
+      "word": "付辛博告别大皇子",
+      "onboard_time": 1717334779,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334313,
       "num": 334313,
       "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
       "onboard_time": 1717308617,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334109,
+      "num": 334109,
+      "word": "孙颖莎4比2陈梦",
+      "onboard_time": 1717334660,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 333559,
@@ -1859,8 +1883,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 301867,
-      "num": 301867,
+      "raw_hot": 301903,
+      "num": 301903,
       "word": "剑网三",
       "onboard_time": 1717333699,
       "rank": 17,
@@ -2363,6 +2387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 229096,
+      "num": 229096,
+      "word": "中国女排澳门站2胜2负",
+      "onboard_time": 1717334360,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229043,
       "num": 186183,
       "word": "离婚是升咖的开始",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1717300817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226311,
+      "num": 226311,
+      "word": "王勉 易建联",
+      "onboard_time": 1717333100,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 225658,
@@ -2457,14 +2497,6 @@
       "onboard_time": 1717286115,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 220856,
-      "num": 220856,
-      "word": "王勉 易建联",
-      "onboard_time": 1717333100,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 220849,
@@ -2603,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208503,
+      "num": 208503,
+      "word": "杭州女子一年内确诊三种癌",
+      "onboard_time": 1717335019,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207471,
       "num": 192708,
       "word": "六一是成年人的gapday",
@@ -2739,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201472,
+      "num": 201472,
+      "word": "背锅的爸偷情的老公破碎的她",
+      "onboard_time": 1717332980,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201106,
       "num": 171650,
       "word": "苗苗说终于选了女团舞",
@@ -2819,12 +2867,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196764,
-      "num": 196764,
-      "word": "背锅的爸偷情的老公破碎的她",
-      "onboard_time": 1717332980,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 196840,
+      "num": 222037,
+      "word": "太阳连续爆发三次耀斑",
+      "onboard_time": 1717330518,
+      "rank": 35,
+      "category": "自然"
     },
     {
       "raw_hot": 196489,
@@ -2849,6 +2897,14 @@
       "onboard_time": 1717304118,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195008,
+      "num": 195008,
+      "word": "猫眼回应王源演唱会抢票卡顿",
+      "onboard_time": 1717335079,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 194720,
@@ -3195,12 +3251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174311,
-      "num": 215262,
-      "word": "太阳连续爆发三次耀斑",
-      "onboard_time": 1717330518,
-      "rank": 35,
-      "category": "自然"
+      "raw_hot": 175519,
+      "num": 175519,
+      "word": "五哈节目组",
+      "onboard_time": 1717331719,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 173393,
@@ -3267,14 +3323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171536,
-      "num": 171536,
-      "word": "五哈节目组",
-      "onboard_time": 1717331719,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171517,
       "num": 1325960,
       "word": "不管几岁快乐万岁",
@@ -3289,6 +3337,14 @@
       "onboard_time": 1717199115,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169369,
+      "num": 169369,
+      "word": "田雨写给王启年的番外",
+      "onboard_time": 1717334779,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 168954,
@@ -3321,6 +3377,14 @@
       "onboard_time": 1717296797,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168461,
+      "num": 168461,
+      "word": "鹿晗泼水节欧豪欧豪的喊",
+      "onboard_time": 1717334480,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 167961,
@@ -3515,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161013,
+      "num": 161013,
+      "word": "他朝我扔泥巴泥巴里开莲花",
+      "onboard_time": 1717333879,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160713,
       "num": 215439,
       "word": "Fine乐团 呼吸决定",
@@ -3617,6 +3689,14 @@
       "onboard_time": 1717223056,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155990,
+      "num": 155990,
+      "word": "月红篇从你的全世界路过",
+      "onboard_time": 1717333820,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 155250,
@@ -3723,14 +3803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149728,
-      "num": 149728,
-      "word": "他朝我扔泥巴泥巴里开莲花",
-      "onboard_time": 1717333879,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149569,
       "num": 149569,
       "word": "imp说线下换Uzi去",
@@ -3833,14 +3905,6 @@
       "onboard_time": 1717323678,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146566,
-      "num": 146566,
-      "word": "月红篇从你的全世界路过",
-      "onboard_time": 1717333820,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 146263,
@@ -4211,6 +4275,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 131248,
+      "num": 131248,
+      "word": "抽血可以查出癌吗",
+      "onboard_time": 1717334779,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130789,
       "num": 123159,
       "word": "汪苏泷歌手最新vlog",
@@ -4284,7 +4356,7 @@
     },
     {
       "raw_hot": 127157,
-      "num": 312795,
+      "num": 516991,
       "word": "20元的面他付了200元还坚持不让退",
       "onboard_time": 1717326858,
       "rank": 20,
@@ -5364,7 +5436,7 @@
     },
     {
       "raw_hot": 66594,
-      "num": 1091728,
+      "num": 1172819,
       "word": "月背再次迎来中国的航天器",
       "onboard_time": 1717331539,
       "rank": 2,

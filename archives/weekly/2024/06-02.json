@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717334359580,
+  "endTime": 1717335253458,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1347627,
+      "num": 1347627,
+      "word": "庆余年第三季",
+      "onboard_time": 1717333279,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1319857,
       "num": 1319857,
       "word": "藏海传全阵容官宣",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1283480,
-      "num": 963040,
+      "num": 1164892,
       "word": "杨迪说现在圈内疯子很多",
       "onboard_time": 1717330578,
       "rank": 8,
@@ -131,6 +139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1152390,
+      "num": 1152390,
+      "word": "蔡斌",
+      "onboard_time": 1717333399,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1124395,
       "num": 1124395,
       "word": "水泥猫",
@@ -153,14 +169,6 @@
       "onboard_time": 1717312637,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 931913,
-      "num": 931913,
-      "word": "庆余年第三季",
-      "onboard_time": 1717333279,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 901446,
@@ -187,6 +195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 839721,
+      "num": 839721,
+      "word": "合影杀手李小冉",
+      "onboard_time": 1717331597,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 794848,
       "num": 794848,
       "word": "逆水寒 剑网三",
@@ -201,14 +217,6 @@
       "onboard_time": 1717323977,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 778909,
-      "num": 644411,
-      "word": "合影杀手李小冉",
-      "onboard_time": 1717331597,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 770516,
@@ -265,14 +273,6 @@
       "onboard_time": 1717303098,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 671542,
-      "num": 671542,
-      "word": "蔡斌",
-      "onboard_time": 1717333399,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 668525,
@@ -355,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566024,
+      "num": 566024,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1717333038,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 556183,
       "num": 556183,
       "word": "王俊凯又幸福了",
@@ -377,6 +385,14 @@
       "onboard_time": 1717315758,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514973,
+      "num": 514973,
+      "word": "杨超越演技",
+      "onboard_time": 1717330458,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 511978,
@@ -409,14 +425,6 @@
       "onboard_time": 1717311857,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 488285,
-      "num": 431661,
-      "word": "杨超越演技",
-      "onboard_time": 1717330458,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 485240,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 438887,
-      "num": 251883,
+      "num": 430456,
       "word": "佟梦实说会为庆余年3好好保养",
       "onboard_time": 1717332319,
       "rank": 27,
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393843,
+      "num": 393843,
+      "word": "日本垃圾桶",
+      "onboard_time": 1717334360,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391815,
       "num": 366814,
       "word": "张若昀李沁再拍部剧吧",
@@ -680,14 +696,6 @@
       "word": "樊振东vs雨果",
       "onboard_time": 1717330158,
       "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 391453,
-      "num": 391453,
-      "word": "孙颖莎vs陈梦",
-      "onboard_time": 1717333038,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -851,12 +859,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335601,
+      "num": 232664,
+      "word": "付辛博告别大皇子",
+      "onboard_time": 1717334779,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334313,
       "num": 334313,
       "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
       "onboard_time": 1717308617,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334109,
+      "num": 334109,
+      "word": "孙颖莎4比2陈梦",
+      "onboard_time": 1717334660,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 333559,
@@ -899,8 +923,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 301867,
-      "num": 301867,
+      "raw_hot": 301903,
+      "num": 301903,
       "word": "剑网三",
       "onboard_time": 1717333699,
       "rank": 17,
@@ -1179,6 +1203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229096,
+      "num": 229096,
+      "word": "中国女排澳门站2胜2负",
+      "onboard_time": 1717334360,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229043,
       "num": 186183,
       "word": "离婚是升咖的开始",
@@ -1201,6 +1233,14 @@
       "onboard_time": 1717300817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226311,
+      "num": 226311,
+      "word": "王勉 易建联",
+      "onboard_time": 1717333100,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 225658,
@@ -1241,14 +1281,6 @@
       "onboard_time": 1717286115,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 220856,
-      "num": 220856,
-      "word": "王勉 易建联",
-      "onboard_time": 1717333100,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 220849,
@@ -1307,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208503,
+      "num": 208503,
+      "word": "杭州女子一年内确诊三种癌",
+      "onboard_time": 1717335019,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206963,
       "num": 206963,
       "word": "追风者",
@@ -1363,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201472,
+      "num": 201472,
+      "word": "背锅的爸偷情的老公破碎的她",
+      "onboard_time": 1717332980,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200799,
       "num": 200799,
       "word": "恋与深空黎深",
@@ -1379,12 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196764,
-      "num": 196764,
-      "word": "背锅的爸偷情的老公破碎的她",
-      "onboard_time": 1717332980,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 196840,
+      "num": 222037,
+      "word": "太阳连续爆发三次耀斑",
+      "onboard_time": 1717330518,
+      "rank": 35,
+      "category": "自然"
     },
     {
       "raw_hot": 196489,
@@ -1409,6 +1457,14 @@
       "onboard_time": 1717304118,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195008,
+      "num": 195008,
+      "word": "猫眼回应王源演唱会抢票卡顿",
+      "onboard_time": 1717335079,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 194567,
@@ -1579,12 +1635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174311,
-      "num": 215262,
-      "word": "太阳连续爆发三次耀斑",
-      "onboard_time": 1717330518,
-      "rank": 35,
-      "category": "自然"
+      "raw_hot": 175519,
+      "num": 175519,
+      "word": "五哈节目组",
+      "onboard_time": 1717331719,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 173393,
@@ -1627,12 +1683,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171536,
-      "num": 171536,
-      "word": "五哈节目组",
-      "onboard_time": 1717331719,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 169369,
+      "num": 169369,
+      "word": "田雨写给王启年的番外",
+      "onboard_time": 1717334779,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 168908,
@@ -1649,6 +1705,14 @@
       "onboard_time": 1717296797,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168461,
+      "num": 168461,
+      "word": "鹿晗泼水节欧豪欧豪的喊",
+      "onboard_time": 1717334480,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 167961,
@@ -1739,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161013,
+      "num": 161013,
+      "word": "他朝我扔泥巴泥巴里开莲花",
+      "onboard_time": 1717333879,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160325,
       "num": 160325,
       "word": "王曼昱3比2陈幸同",
@@ -1771,6 +1843,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 155990,
+      "num": 155990,
+      "word": "月红篇从你的全世界路过",
+      "onboard_time": 1717333820,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154988,
       "num": 154988,
       "word": "肖战藏海传杀青发文",
@@ -1793,14 +1873,6 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149728,
-      "num": 149728,
-      "word": "他朝我扔泥巴泥巴里开莲花",
-      "onboard_time": 1717333879,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 149326,
@@ -1857,14 +1929,6 @@
       "onboard_time": 1717323678,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146566,
-      "num": 146566,
-      "word": "月红篇从你的全世界路过",
-      "onboard_time": 1717333820,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 146263,
@@ -2043,6 +2107,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 131248,
+      "num": 131248,
+      "word": "抽血可以查出癌吗",
+      "onboard_time": 1717334779,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130575,
       "num": 130575,
       "word": "部分轻奢品牌正被抛弃",
@@ -2076,7 +2148,7 @@
     },
     {
       "raw_hot": 127157,
-      "num": 312795,
+      "num": 516991,
       "word": "20元的面他付了200元还坚持不让退",
       "onboard_time": 1717326858,
       "rank": 20,
@@ -2708,7 +2780,7 @@
     },
     {
       "raw_hot": 66594,
-      "num": 1091728,
+      "num": 1172819,
       "word": "月背再次迎来中国的航天器",
       "onboard_time": 1717331539,
       "rank": 2,
