@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717306454089,
+  "endTime": 1717309549553,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -8,6 +8,14 @@
       "word": "贾玲Prada",
       "onboard_time": 1717292896,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1682036,
+      "num": 222040,
+      "word": "向佐查了李胜利所有外网账号",
+      "onboard_time": 1717307777,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1717294457,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1220726,
+      "num": 218850,
+      "word": "男子假扮道士性侵留守儿童致其怀孕",
+      "onboard_time": 1717305978,
+      "rank": 31,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1210210,
@@ -307,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 396120,
+      "num": 396120,
+      "word": "杨超越古装",
+      "onboard_time": 1717305378,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394461,
       "num": 394461,
       "word": "女生婚礼前1天被告知酒店停业",
@@ -347,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365177,
+      "num": 204192,
+      "word": "向佐问网友有李胜利电话吗",
+      "onboard_time": 1717306757,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 364948,
       "num": 364948,
       "word": "国家医保局约谈一心堂",
@@ -369,6 +401,14 @@
       "onboard_time": 1717301058,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 359174,
+      "num": 234499,
+      "word": "孙丞潇上节目不满离席",
+      "onboard_time": 1717308318,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 356937,
@@ -411,12 +451,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 312513,
-      "num": 164559,
-      "word": "男子假扮道士性侵留守儿童致其怀孕",
-      "onboard_time": 1717305978,
-      "rank": 31,
-      "category": "社会负面"
+      "raw_hot": 325825,
+      "num": 216289,
+      "word": "虞书欣CHA了YG新女团的歌",
+      "onboard_time": 1717308978,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 302891,
@@ -473,14 +513,6 @@
       "onboard_time": 1717300637,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 286077,
-      "num": 229025,
-      "word": "杨超越古装",
-      "onboard_time": 1717305378,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 268711,
@@ -555,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236410,
+      "num": 185863,
+      "word": "吴谨言新剧摇人摇来了浪姐团",
+      "onboard_time": 1717308138,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234434,
       "num": 234434,
       "word": "我梦到高考语文题目了",
@@ -585,6 +625,14 @@
       "onboard_time": 1717253838,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229775,
+      "num": 185701,
+      "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
+      "onboard_time": 1717308617,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 226584,
@@ -675,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206516,
+      "num": 185563,
+      "word": "李雪琴哭了",
+      "onboard_time": 1717308737,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204349,
       "num": 331371,
       "word": "把牛奶当水喝能长高吗",
@@ -715,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193786,
+      "num": 185505,
+      "word": "穿Prada的票房女王",
+      "onboard_time": 1717308377,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193007,
       "num": 167668,
       "word": "那英和肖战告夏之光的状",
@@ -723,12 +787,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190301,
+      "num": 301789,
+      "word": "帆布包的性价比有多高",
+      "onboard_time": 1717304118,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189217,
       "num": 184030,
       "word": "你可能不是e人也不是i人而是A人",
       "onboard_time": 1717256658,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188558,
+      "num": 185407,
+      "word": "贾玲女性力量",
+      "onboard_time": 1717308258,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186311,
+      "num": 192484,
+      "word": "月背挖土像穿袜子",
+      "onboard_time": 1717305378,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 185411,
+      "num": 185411,
+      "word": "Rookie为患癌粉丝戴蓝丝带",
+      "onboard_time": 1717308138,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 183933,
@@ -745,6 +841,14 @@
       "onboard_time": 1717297142,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182191,
+      "num": 182191,
+      "word": "谁家早饭花50晚饭花2000",
+      "onboard_time": 1717309037,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 179455,
@@ -899,6 +1003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151422,
+      "num": 151422,
+      "word": "终于体会到家可以常回但不能久待",
+      "onboard_time": 1717308497,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149231,
       "num": 149231,
       "word": "周杰伦王俊凯合唱",
@@ -921,14 +1033,6 @@
       "onboard_time": 1717303458,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 146274,
-      "num": 192484,
-      "word": "月背挖土像穿袜子",
-      "onboard_time": 1717305378,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 146263,
@@ -969,6 +1073,22 @@
       "onboard_time": 1717255819,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144493,
+      "num": 144493,
+      "word": "57岁考王梁实直播复习",
+      "onboard_time": 1717308978,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 143326,
+      "num": 143326,
+      "word": "肖战藏海传杀青发文",
+      "onboard_time": 1717309398,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 142493,
@@ -1019,20 +1139,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131580,
-      "num": 301789,
-      "word": "帆布包的性价比有多高",
-      "onboard_time": 1717304118,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131475,
       "num": 205439,
       "word": "梦想的肌肉线条长在了6岁小孩姐身上",
       "onboard_time": 1717295417,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 127317,
+      "num": 127317,
+      "word": "留子们的文化输出",
+      "onboard_time": 1717306757,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 127301,
@@ -1049,6 +1169,14 @@
       "onboard_time": 1717284494,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126047,
+      "num": 126047,
+      "word": "林更新录综艺点到了赵丽颖",
+      "onboard_time": 1717307238,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 125680,
@@ -1112,6 +1240,14 @@
       "word": "许嵩呼吸之野演唱会",
       "onboard_time": 1717254320,
       "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 114205,
+      "num": 114205,
+      "word": "周深演唱会官宣武汉南京",
+      "onboard_time": 1717306518,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -1347,6 +1483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83060,
+      "num": 108843,
+      "word": "王艺迪战胜申裕斌",
+      "onboard_time": 1717307777,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82877,
       "num": 457629,
       "word": "嫦娥六号准备月背挖宝",
@@ -1361,6 +1505,14 @@
       "onboard_time": 1717261695,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79660,
+      "num": 211438,
+      "word": "港风少女提了第十万台smart",
+      "onboard_time": 1717304838,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 78929,
@@ -1459,12 +1611,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50780,
-      "num": 177675,
-      "word": "港风少女提了第十万台smart",
-      "onboard_time": 1717304838,
-      "rank": 39,
-      "category": "汽车"
+      "raw_hot": 45555,
+      "num": 224385,
+      "word": "这些地方的龙舟赛氛围拉满了",
+      "onboard_time": 1717308197,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45209,
@@ -1569,6 +1721,14 @@
       "onboard_time": 1717271651,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 22178,
+      "num": 186168,
+      "word": "我们仨绿豆汤南北之争",
+      "onboard_time": 1717308077,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 21723,
