@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717328055931,
+  "endTime": 1717331554621,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1682036,
-      "num": 401307,
+      "num": 527928,
       "word": "向佐查了李胜利所有外网账号",
       "onboard_time": 1717307777,
       "rank": 10,
@@ -89,6 +89,14 @@
       "onboard_time": 1717242616,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1613663,
+      "num": 1613663,
+      "word": "王源演唱会抢票",
+      "onboard_time": 1717328779,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 1520474,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1124395,
+      "num": 1124395,
+      "word": "水泥猫",
+      "onboard_time": 1717328418,
+      "rank": 1,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 1110130,
       "num": 1110130,
       "word": "中方确认不参加乌克兰问题和平峰会",
@@ -256,6 +272,14 @@
       "word": "董明珠称打工人想要休闲可以辞职",
       "onboard_time": 1717245079,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070167,
+      "num": 1070167,
+      "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
+      "onboard_time": 1717326018,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -403,14 +427,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 795579,
-      "num": 265035,
-      "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
-      "onboard_time": 1717326018,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 794848,
       "num": 794848,
       "word": "逆水寒 剑网三",
@@ -465,6 +481,14 @@
       "onboard_time": 1717247779,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 762526,
+      "num": 762526,
+      "word": "张若昀蛀牙",
+      "onboard_time": 1717323977,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 761396,
@@ -619,6 +643,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 637378,
+      "num": 637378,
+      "word": "杨天真",
+      "onboard_time": 1717328358,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 626963,
       "num": 626963,
       "word": "提涨薪1000元都被拒该不该走",
@@ -675,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 585848,
+      "num": 585848,
+      "word": "杨迪说现在圈内疯子很多",
+      "onboard_time": 1717330578,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 584322,
       "num": 584322,
       "word": "我永远是张若昀的观众朋友",
@@ -713,14 +753,6 @@
       "onboard_time": 1717169360,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 551944,
-      "num": 551944,
-      "word": "张若昀蛀牙",
-      "onboard_time": 1717323977,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 548762,
@@ -1123,12 +1155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413545,
+      "num": 413545,
+      "word": "朱婷无缘首发",
+      "onboard_time": 1717328118,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 413331,
       "num": 256583,
       "word": "局长为谋求副厅被骗300万元",
       "onboard_time": 1717258578,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410195,
+      "num": 410195,
+      "word": "中国女排vs意大利女排",
+      "onboard_time": 1717328298,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 406025,
@@ -1203,12 +1251,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393871,
+      "num": 393871,
+      "word": "河南警方通报男子持刀刺死女子",
+      "onboard_time": 1717327397,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 391815,
       "num": 366814,
       "word": "张若昀李沁再拍部剧吧",
       "onboard_time": 1717292535,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391798,
+      "num": 391798,
+      "word": "樊振东vs雨果",
+      "onboard_time": 1717330158,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 390692,
@@ -1267,12 +1331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384836,
+      "num": 384836,
+      "word": "姆巴佩加盟皇马",
+      "onboard_time": 1717328240,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380817,
       "num": 380817,
       "word": "愿与愁",
       "onboard_time": 1717221317,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380745,
+      "num": 360208,
+      "word": "老公要用我的彩礼来装修房子",
+      "onboard_time": 1717324399,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 379319,
@@ -1419,6 +1499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360334,
+      "num": 360334,
+      "word": "吴刚说会陪陈萍萍走到终点",
+      "onboard_time": 1717329979,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359134,
       "num": 359134,
       "word": "宁艺卓因病缺席KWAVE舞台",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1717283353,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330475,
+      "num": 330475,
+      "word": "张若昀回应有蛀牙",
+      "onboard_time": 1717330397,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 329960,
@@ -1699,6 +1795,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 300559,
+      "num": 300559,
+      "word": "中国女排0比1意大利女排",
+      "onboard_time": 1717331179,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 299356,
       "num": 274650,
       "word": "杨丞琳唱的搁浅",
@@ -1849,14 +1953,6 @@
       "onboard_time": 1717164626,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 275306,
-      "num": 257425,
-      "word": "老公要用我的彩礼来装修房子",
-      "onboard_time": 1717324399,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 274866,
@@ -2049,6 +2145,14 @@
       "onboard_time": 1717218797,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250505,
+      "num": 250505,
+      "word": "杨超越演技",
+      "onboard_time": 1717330458,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 249162,
@@ -2611,6 +2715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198980,
+      "num": 198980,
+      "word": "王鹤棣晒桃花坞合照",
+      "onboard_time": 1717330818,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198979,
       "num": 167639,
       "word": "张馨予红毯前勒腰",
@@ -2747,6 +2859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190769,
+      "num": 190769,
+      "word": "张柏芝工作室声明",
+      "onboard_time": 1717331358,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189456,
       "num": 189456,
       "word": "文淇 注意一下你女明星的形象",
@@ -2825,6 +2945,14 @@
       "onboard_time": 1717236557,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185503,
+      "num": 185503,
+      "word": "7个信号说明你可能真的老了",
+      "onboard_time": 1717330218,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 185158,
@@ -2979,14 +3107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174780,
-      "num": 174780,
-      "word": "河南警方通报男子持刀刺死女子",
-      "onboard_time": 1717327397,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 173393,
       "num": 173393,
       "word": "王俊凯小时候的梦我知道",
@@ -3139,6 +3259,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 166569,
+      "num": 166569,
+      "word": "2024新加坡羽毛球公开赛",
+      "onboard_time": 1717330757,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166059,
       "num": 166059,
       "word": "原来角度决定颜值是有一定道理的",
@@ -3161,6 +3289,14 @@
       "onboard_time": 1717217057,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165227,
+      "num": 165227,
+      "word": "别给我一种清华很好考上的感觉",
+      "onboard_time": 1717329859,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 165131,
@@ -3355,6 +3491,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157820,
+      "num": 157820,
+      "word": "太阳连续爆发三次耀斑",
+      "onboard_time": 1717330518,
+      "rank": 35,
+      "category": "自然"
+    },
+    {
       "raw_hot": 157762,
       "num": 129125,
       "word": "丁程鑫做儿童节帽子",
@@ -3481,6 +3625,14 @@
       "onboard_time": 1717230077,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149326,
+      "num": 149326,
+      "word": "小米SU7大定锁单犹豫期缩至3天",
+      "onboard_time": 1717326437,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 148918,
@@ -3681,14 +3833,6 @@
       "onboard_time": 1717295058,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 142269,
-      "num": 142269,
-      "word": "小米SU7大定锁单犹豫期缩至3天",
-      "onboard_time": 1717326437,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 142252,
@@ -4243,6 +4387,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 116124,
+      "num": 312795,
+      "word": "20元的面他付了200元还坚持不让退",
+      "onboard_time": 1717326858,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115973,
       "num": 124983,
       "word": "分析师称高价雪糕存过度炒作现象",
@@ -4345,6 +4497,14 @@
       "onboard_time": 1717240818,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111990,
+      "num": 111990,
+      "word": "此生要去的100个地方",
+      "onboard_time": 1717331179,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 111484,
@@ -4947,6 +5107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77926,
+      "num": 603033,
+      "word": "千里江山图藏着人间烟火",
+      "onboard_time": 1717328719,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76893,
       "num": 286194,
       "word": "张真源画的头盔是宋雨琦假发",
@@ -5027,6 +5195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67800,
+      "num": 352193,
+      "word": "此次月球挖土有啥不一样",
+      "onboard_time": 1717313356,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67416,
       "num": 52184,
       "word": "皇马2比0多特蒙德",
@@ -5089,14 +5265,6 @@
       "onboard_time": 1717214118,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 61342,
-      "num": 312795,
-      "word": "20元的面他付了200元还坚持不让退",
-      "onboard_time": 1717326858,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59903,
@@ -5283,14 +5451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 40190,
-      "num": 352193,
-      "word": "此次月球挖土有啥不一样",
-      "onboard_time": 1717313356,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39943,
       "num": 201650,
       "word": "不被定义的穿搭是我的盔甲",
@@ -5351,6 +5511,14 @@
       "num": 286173,
       "word": "父女雨天摔倒路人帮忙细节拉满",
       "onboard_time": 1717313778,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36563,
+      "num": 531140,
+      "word": "你飞奔救人的样子太帅了",
+      "onboard_time": 1717330578,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -5609,6 +5777,22 @@
       "onboard_time": 1717186091,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14306,
+      "num": 1091728,
+      "word": "月背再次迎来中国的航天器",
+      "onboard_time": 1717331539,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13862,
+      "num": 410261,
+      "word": "方昊从看台到球场",
+      "onboard_time": 1717329618,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 11543,

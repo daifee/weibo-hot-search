@@ -1,0 +1,410 @@
+{
+  "runTime": 1717331554621,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1613663,
+        "num": 1613663,
+        "word": "王源演唱会抢票",
+        "onboard_time": 1717328779,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1124395,
+        "num": 1124395,
+        "word": "水泥猫",
+        "onboard_time": 1717328418,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14306,
+        "num": 1091728,
+        "word": "月背再次迎来中国的航天器",
+        "onboard_time": 1717331539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070167,
+        "num": 1070167,
+        "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
+        "onboard_time": 1717326018,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762526,
+        "num": 762526,
+        "word": "张若昀蛀牙",
+        "onboard_time": 1717323977,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648950,
+        "num": 648950,
+        "word": "删了吧有个研究生破防了",
+        "onboard_time": 1717320857,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 637378,
+        "num": 637378,
+        "word": "杨天真",
+        "onboard_time": 1717328358,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77926,
+        "num": 603033,
+        "word": "千里江山图藏着人间烟火",
+        "onboard_time": 1717328719,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585848,
+        "num": 585848,
+        "word": "杨迪说现在圈内疯子很多",
+        "onboard_time": 1717330578,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36563,
+        "num": 531140,
+        "word": "你飞奔救人的样子太帅了",
+        "onboard_time": 1717330578,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603454,
+        "num": 527928,
+        "word": "向佐查了李胜利所有外网账号",
+        "onboard_time": 1717307777,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513152,
+        "num": 513152,
+        "word": "肖战重庆",
+        "onboard_time": 1717325297,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413545,
+        "num": 413545,
+        "word": "朱婷无缘首发",
+        "onboard_time": 1717328118,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410368,
+        "num": 410368,
+        "word": "庆余年2曲未终人聚三",
+        "onboard_time": 1717321339,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13862,
+        "num": 410261,
+        "word": "方昊从看台到球场",
+        "onboard_time": 1717329618,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410195,
+        "num": 410195,
+        "word": "中国女排vs意大利女排",
+        "onboard_time": 1717328298,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393871,
+        "num": 393871,
+        "word": "河南警方通报男子持刀刺死女子",
+        "onboard_time": 1717327397,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 391798,
+        "num": 391798,
+        "word": "樊振东vs雨果",
+        "onboard_time": 1717330158,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384836,
+        "num": 384836,
+        "word": "姆巴佩加盟皇马",
+        "onboard_time": 1717328240,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360334,
+        "num": 360334,
+        "word": "吴刚说会陪陈萍萍走到终点",
+        "onboard_time": 1717329979,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380745,
+        "num": 360208,
+        "word": "老公要用我的彩礼来装修房子",
+        "onboard_time": 1717324399,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 358497,
+        "num": 358497,
+        "word": "明教",
+        "onboard_time": 1717318278,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340736,
+        "num": 340736,
+        "word": "逆水寒 剑网三",
+        "onboard_time": 1717323678,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 330475,
+        "num": 330475,
+        "word": "张若昀回应有蛀牙",
+        "onboard_time": 1717330397,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300559,
+        "num": 300559,
+        "word": "中国女排0比1意大利女排",
+        "onboard_time": 1717331179,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279374,
+        "num": 279374,
+        "word": "田曦薇绿色吊带",
+        "onboard_time": 1717321758,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267152,
+        "num": 267152,
+        "word": "特朗普入驻TikTok",
+        "onboard_time": 1717320379,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 250505,
+        "num": 250505,
+        "word": "杨超越演技",
+        "onboard_time": 1717330458,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219453,
+        "num": 219453,
+        "word": "范玮琪正式复出",
+        "onboard_time": 1717320557,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157284,
+        "num": 208157,
+        "word": "福宝吃完竹子直接开溜",
+        "onboard_time": 1717323077,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198980,
+        "num": 198980,
+        "word": "王鹤棣晒桃花坞合照",
+        "onboard_time": 1717330818,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190769,
+        "num": 190769,
+        "word": "张柏芝工作室声明",
+        "onboard_time": 1717331358,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185503,
+        "num": 185503,
+        "word": "7个信号说明你可能真的老了",
+        "onboard_time": 1717330218,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166569,
+        "num": 166569,
+        "word": "2024新加坡羽毛球公开赛",
+        "onboard_time": 1717330757,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165227,
+        "num": 165227,
+        "word": "别给我一种清华很好考上的感觉",
+        "onboard_time": 1717329859,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157820,
+        "num": 157820,
+        "word": "太阳连续爆发三次耀斑",
+        "onboard_time": 1717330518,
+        "rank": 35,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 154927,
+        "num": 154927,
+        "word": "丁真 大家都欲望太强了",
+        "onboard_time": 1717311978,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149326,
+        "num": 149326,
+        "word": "小米SU7大定锁单犹豫期缩至3天",
+        "onboard_time": 1717326437,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149083,
+        "num": 149083,
+        "word": "逆水寒周年福利",
+        "onboard_time": 1717324218,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146802,
+        "num": 146802,
+        "word": "宁艺卓因病缺席KWAVE舞台",
+        "onboard_time": 1717325177,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142413,
+        "num": 142413,
+        "word": "张若昀说范闲仍未习惯这世界",
+        "onboard_time": 1717326679,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136260,
+        "num": 136260,
+        "word": "邓超录五哈不忘给孙俪买礼物",
+        "onboard_time": 1717319118,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126048,
+        "num": 126048,
+        "word": "王曼昱4比0王艺迪",
+        "onboard_time": 1717327697,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125673,
+        "num": 125673,
+        "word": "水果要便宜了",
+        "onboard_time": 1717320918,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116700,
+        "num": 116700,
+        "word": "RNG教练",
+        "onboard_time": 1717322599,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116600,
+        "num": 116600,
+        "word": "幼年姜梨",
+        "onboard_time": 1717317618,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116124,
+        "num": 116124,
+        "word": "20元的面他付了200元还坚持不让退",
+        "onboard_time": 1717326858,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114901,
+        "num": 114901,
+        "word": "贾玲1个月喜提2代言",
+        "onboard_time": 1717315758,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67800,
+        "num": 112763,
+        "word": "此次月球挖土有啥不一样",
+        "onboard_time": 1717313356,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111990,
+        "num": 111990,
+        "word": "此生要去的100个地方",
+        "onboard_time": 1717331179,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的文化足迹遍及大江南北#"
+    }
+  }
+}
