@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717317323203,
+  "endTime": 1717319978364,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1204808,
+      "num": 1204808,
+      "word": "董璇女儿出道",
+      "onboard_time": 1717317618,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1156129,
       "num": 1156129,
       "word": "不要觉得谈了五六年分手可惜",
@@ -233,6 +241,14 @@
       "onboard_time": 1717163726,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1083903,
+      "num": 1083903,
+      "word": "明教",
+      "onboard_time": 1717318278,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1079559,
@@ -667,6 +683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 543232,
+      "num": 388851,
+      "word": "贾玲1个月喜提2代言",
+      "onboard_time": 1717315758,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541510,
       "num": 541510,
       "word": "Citywalk后年轻人又爱上了Wildeat",
@@ -1067,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 394890,
-      "num": 336344,
-      "word": "贾玲1个月喜提2代言",
-      "onboard_time": 1717315758,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 394481,
       "num": 394481,
       "word": "易烊千玺做引体向上",
@@ -1297,6 +1313,14 @@
       "onboard_time": 1717313058,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358974,
+      "num": 183214,
+      "word": "身上的气味可能会影响异性对你好感",
+      "onboard_time": 1717316118,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 354066,
@@ -1627,6 +1651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286505,
+      "num": 403625,
+      "word": "孙颖莎vs早田希娜",
+      "onboard_time": 1717317498,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 284408,
       "num": 284408,
       "word": "C罗赛后痛哭",
@@ -1699,6 +1731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270617,
+      "num": 270617,
+      "word": "邓超录五哈不忘给孙俪买礼物",
+      "onboard_time": 1717319118,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270308,
       "num": 270308,
       "word": "齐思钧主持",
@@ -1729,6 +1769,14 @@
       "onboard_time": 1717218497,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 266750,
+      "num": 266750,
+      "word": "网友偶遇2024高考试卷押运车队",
+      "onboard_time": 1717313657,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265532,
@@ -1779,14 +1827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254410,
-      "num": 177232,
-      "word": "身上的气味可能会影响异性对你好感",
-      "onboard_time": 1717316118,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 254277,
       "num": 307194,
       "word": "农村婚礼真的很挑摄影师",
@@ -1801,14 +1841,6 @@
       "onboard_time": 1717154837,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 253533,
-      "num": 253533,
-      "word": "网友偶遇2024高考试卷押运车队",
-      "onboard_time": 1717313657,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 253078,
@@ -1848,6 +1880,14 @@
       "word": "武艺十七岁还坐在爸爸肩上",
       "onboard_time": 1717218797,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249162,
+      "num": 183178,
+      "word": "金莎回应孙丞潇开会离席",
+      "onboard_time": 1717318398,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1971,6 +2011,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 229043,
+      "num": 183167,
+      "word": "离婚是升咖的开始",
+      "onboard_time": 1717319058,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 227344,
+      "num": 183136,
+      "word": "第一素颜女神自曝做脸",
+      "onboard_time": 1717318818,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226584,
       "num": 440456,
       "word": "已读乱回到底有什么魅力",
@@ -2073,6 +2129,14 @@
       "onboard_time": 1717302078,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219521,
+      "num": 219521,
+      "word": "中国防长沉着应对外方打断",
+      "onboard_time": 1717317738,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 218628,
@@ -2281,6 +2345,14 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201816,
+      "num": 183071,
+      "word": "杨超越墨雨云间下线镜头",
+      "onboard_time": 1717317678,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 201666,
@@ -2523,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187987,
+      "num": 187987,
+      "word": "孙颖莎3比0早田希娜",
+      "onboard_time": 1717318698,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187575,
       "num": 161106,
       "word": "外滩偶遇李秀满",
@@ -2625,6 +2705,14 @@
       "onboard_time": 1717301958,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177444,
+      "num": 177444,
+      "word": "沈载伦 短发回归",
+      "onboard_time": 1717318698,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 176952,
@@ -3083,6 +3171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152747,
+      "num": 152747,
+      "word": "新疆沙漠出现一片野生睡莲花海",
+      "onboard_time": 1717317498,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 152659,
       "num": 152659,
       "word": "陶昕然说红毯不是我的战场",
@@ -3323,6 +3419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143074,
+      "num": 143074,
+      "word": "宁艺卓ending镜头",
+      "onboard_time": 1717319539,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143017,
       "num": 143017,
       "word": "迪丽热巴玩泡泡仙女棒",
@@ -3539,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132437,
+      "num": 132437,
+      "word": "不亚于图书馆30秒的外卖评价",
+      "onboard_time": 1717317738,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132278,
       "num": 132278,
       "word": "我做一天小朋友",
@@ -3601,6 +3713,14 @@
       "onboard_time": 1717212617,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127969,
+      "num": 127969,
+      "word": "薛之谦海拔2280体育场个唱第一人",
+      "onboard_time": 1717317557,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 127808,
@@ -3731,6 +3851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121783,
+      "num": 159777,
+      "word": "羡慕成都的毕业生",
+      "onboard_time": 1717318938,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121488,
       "num": 121488,
       "word": "歌手",
@@ -3761,6 +3889,14 @@
       "onboard_time": 1717169182,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 119064,
+      "num": 119064,
+      "word": "也门胡塞武装称袭击美军航母",
+      "onboard_time": 1717317078,
+      "rank": 43,
+      "category": "国外时政"
     },
     {
       "raw_hot": 118619,
@@ -4019,14 +4155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107983,
-      "num": 107983,
-      "word": "也门胡塞武装称袭击美军航母",
-      "onboard_time": 1717317078,
-      "rank": 43,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 107674,
       "num": 107674,
       "word": "WTT",
@@ -4041,6 +4169,14 @@
       "onboard_time": 1717195871,
       "rank": 28,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 107526,
+      "num": 107526,
+      "word": "万妮达偏偏你最争气",
+      "onboard_time": 1717319898,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 107293,
@@ -4097,6 +4233,14 @@
       "onboard_time": 1717256238,
       "rank": 43,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 106111,
+      "num": 106111,
+      "word": "国乒包揽重庆赛女单4强",
+      "onboard_time": 1717318998,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 105414,
@@ -4292,7 +4436,7 @@
     },
     {
       "raw_hot": 87679,
-      "num": 679379,
+      "num": 1082620,
       "word": "文脉华章",
       "onboard_time": 1717313836,
       "rank": 2,
@@ -4779,6 +4923,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40643,
+      "num": 194550,
+      "word": "问界新M7Ultra上市即交付",
+      "onboard_time": 1717315698,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40268,
       "num": 40268,
       "word": "当一辈子的沃尔玛推车工可以吗",
@@ -4809,14 +4961,6 @@
       "onboard_time": 1717247959,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39428,
-      "num": 190248,
-      "word": "问界新M7Ultra上市即交付",
-      "onboard_time": 1717315698,
-      "rank": 26,
-      "category": "汽车"
     },
     {
       "raw_hot": 38843,
@@ -4931,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31067,
+      "num": 286173,
+      "word": "父女雨天摔倒路人帮忙细节拉满",
+      "onboard_time": 1717313778,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30961,
       "num": 30368,
       "word": "胡歌这是被贴脸开大了吗",
@@ -4945,6 +5097,14 @@
       "onboard_time": 1717215977,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27702,
+      "num": 157961,
+      "word": "魏大勋版汽车语音播报",
+      "onboard_time": 1717318398,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 27362,
