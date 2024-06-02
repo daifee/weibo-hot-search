@@ -1,0 +1,410 @@
+{
+  "runTime": 1717327013673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 783002,
+        "num": 783002,
+        "word": "删了吧有个研究生破防了",
+        "onboard_time": 1717320857,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 649635,
+        "num": 649635,
+        "word": "逆水寒 剑网三",
+        "onboard_time": 1717323678,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 33861,
+        "num": 603735,
+        "word": "文脉华章",
+        "onboard_time": 1717313836,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587940,
+        "num": 587940,
+        "word": "肖战重庆",
+        "onboard_time": 1717325297,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492924,
+        "num": 492924,
+        "word": "张若昀蛀牙",
+        "onboard_time": 1717323977,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424512,
+        "num": 424512,
+        "word": "福宝吃完竹子直接开溜",
+        "onboard_time": 1717323077,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426778,
+        "num": 420369,
+        "word": "幼年姜梨",
+        "onboard_time": 1717317618,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404834,
+        "num": 404834,
+        "word": "庆余年2曲未终人聚三",
+        "onboard_time": 1717321339,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200271,
+        "num": 403228,
+        "word": "新疆沙漠出现一片野生睡莲花海",
+        "onboard_time": 1717317498,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 125132,
+        "num": 390864,
+        "word": "网友偶遇2024高考试卷押运车队",
+        "onboard_time": 1717313657,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076756,
+        "num": 385039,
+        "word": "明教",
+        "onboard_time": 1717318278,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 508241,
+        "num": 374760,
+        "word": "向佐查了李胜利所有外网账号",
+        "onboard_time": 1717307777,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412220,
+        "num": 359895,
+        "word": "特朗普入驻TikTok",
+        "onboard_time": 1717320379,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 359134,
+        "num": 359134,
+        "word": "宁艺卓因病缺席KWAVE舞台",
+        "onboard_time": 1717325177,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348965,
+        "num": 348965,
+        "word": "田曦薇绿色吊带",
+        "onboard_time": 1717321758,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331929,
+        "num": 331929,
+        "word": "丁真 大家都欲望太强了",
+        "onboard_time": 1717311978,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329960,
+        "num": 329960,
+        "word": "RNG教练",
+        "onboard_time": 1717322599,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281493,
+        "num": 281493,
+        "word": "张雪峰2026年志愿填报服务已售罄",
+        "onboard_time": 1717324098,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 270845,
+        "num": 270845,
+        "word": "逆水寒周年福利",
+        "onboard_time": 1717324218,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107992,
+        "num": 269240,
+        "word": "孙颖莎陈梦会师女单半决赛",
+        "onboard_time": 1717321339,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13528,
+        "num": 268272,
+        "word": "20元的面他付了200元还坚持不让退",
+        "onboard_time": 1717326858,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 731619,
+        "num": 265035,
+        "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
+        "onboard_time": 1717326018,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654717,
+        "num": 263372,
+        "word": "范玮琪正式复出",
+        "onboard_time": 1717320557,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34655,
+        "num": 259903,
+        "word": "小朋友给执勤交警送儿童节礼物",
+        "onboard_time": 1717321037,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294590,
+        "num": 258468,
+        "word": "水果要便宜了",
+        "onboard_time": 1717320918,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 257425,
+        "num": 257425,
+        "word": "老公要用我的彩礼来装修房子",
+        "onboard_time": 1717324399,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254737,
+        "num": 254737,
+        "word": "张若昀收官长文",
+        "onboard_time": 1717322479,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207903,
+        "num": 207903,
+        "word": "邓超录五哈不忘给孙俪买礼物",
+        "onboard_time": 1717319118,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183964,
+        "num": 183964,
+        "word": "钟楚曦十八宫格泳池照",
+        "onboard_time": 1717320557,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181456,
+        "num": 181456,
+        "word": "没有男生能拒绝一根笔直的木棍",
+        "onboard_time": 1717324998,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166308,
+        "num": 166308,
+        "word": "我们家INFJ怎么没有工作啊",
+        "onboard_time": 1717320257,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204507,
+        "num": 155533,
+        "word": "张若昀说范闲仍未习惯这世界",
+        "onboard_time": 1717326679,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137686,
+        "num": 137686,
+        "word": "俞飞鸿曾说无法接受当众求婚",
+        "onboard_time": 1717326318,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126535,
+        "num": 126535,
+        "word": "TMEA阵容",
+        "onboard_time": 1717324637,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98851,
+        "num": 126016,
+        "word": "爸爸带儿子幼儿园炸裂表演猴棍",
+        "onboard_time": 1717323258,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125538,
+        "num": 125538,
+        "word": "贾玲1个月喜提2代言",
+        "onboard_time": 1717315758,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124125,
+        "num": 124125,
+        "word": "肖战藏海传关门镜头",
+        "onboard_time": 1717323138,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121773,
+        "num": 121773,
+        "word": "吉克隽逸在刘欢家过六一",
+        "onboard_time": 1717325779,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118982,
+        "num": 118982,
+        "word": "王俊凯发和周杰伦合照",
+        "onboard_time": 1717312517,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85672,
+        "num": 117560,
+        "word": "中国防长沉着应对外方打断",
+        "onboard_time": 1717317738,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116999,
+        "num": 116999,
+        "word": "你是五条误啊",
+        "onboard_time": 1717323678,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116047,
+        "num": 116047,
+        "word": "阿沁控诉詹雯婷抄袭",
+        "onboard_time": 1717312457,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114482,
+        "num": 114482,
+        "word": "杨幂红衣合集",
+        "onboard_time": 1717325538,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111184,
+        "num": 111184,
+        "word": "离婚是升咖的开始",
+        "onboard_time": 1717319058,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98464,
+        "num": 111069,
+        "word": "董宇辉成了618局外人",
+        "onboard_time": 1717314137,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95929,
+        "num": 110813,
+        "word": "WE对战RNG",
+        "onboard_time": 1717325657,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93625,
+        "num": 110716,
+        "word": "陈赫回应邓超",
+        "onboard_time": 1717325720,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90844,
+        "num": 110581,
+        "word": "小米SU7大定锁单犹豫期缩至3天",
+        "onboard_time": 1717326437,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 57245,
+        "num": 110290,
+        "word": "霸刀山庄 大门",
+        "onboard_time": 1717311917,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87423,
+        "num": 110098,
+        "word": "种地吧",
+        "onboard_time": 1717324877,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设文化强国建设中华民族现代文明#"
+    }
+  }
+}
