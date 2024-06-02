@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717337767771,
+  "endTime": 1717338856338,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927403,
+      "num": 899790,
+      "word": "日本垃圾桶",
+      "onboard_time": 1717334360,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 922632,
       "num": 499416,
       "word": "为什么大脑删除了3岁前的记忆",
@@ -377,14 +385,6 @@
       "onboard_time": 1717310897,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 899790,
-      "num": 899790,
-      "word": "日本垃圾桶",
-      "onboard_time": 1717334360,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 882405,
@@ -467,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 832113,
+      "num": 570800,
+      "word": "Angelababy原相机营业自拍",
+      "onboard_time": 1717335499,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 806323,
       "num": 806323,
       "word": "900万网红大V被禁言",
       "onboard_time": 1717218377,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803517,
+      "num": 549077,
+      "word": "李沁一字告别庆余年",
+      "onboard_time": 1717336459,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 794848,
@@ -579,6 +595,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 743622,
+      "num": 647694,
+      "word": "猫眼 退票",
+      "onboard_time": 1717336099,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 739761,
       "num": 256029,
       "word": "月经期为什么会肚子不舒服",
@@ -595,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 725009,
-      "num": 647694,
-      "word": "猫眼 退票",
-      "onboard_time": 1717336099,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 718868,
       "num": 637378,
       "word": "杨天真",
@@ -617,14 +633,6 @@
       "onboard_time": 1717234636,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 709437,
-      "num": 563251,
-      "word": "Angelababy原相机营业自拍",
-      "onboard_time": 1717335499,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 679701,
@@ -656,6 +664,14 @@
       "word": "8岁女孩脑死亡过最后一个六一",
       "onboard_time": 1717258877,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663803,
+      "num": 208503,
+      "word": "杭州女子一年内确诊三种癌",
+      "onboard_time": 1717335019,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -747,12 +763,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 608112,
-      "num": 208503,
-      "word": "杭州女子一年内确诊三种癌",
-      "onboard_time": 1717335019,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 607767,
+      "num": 464018,
+      "word": "退票",
+      "onboard_time": 1717336941,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 604879,
@@ -817,14 +833,6 @@
       "onboard_time": 1717166422,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 566300,
-      "num": 201272,
-      "word": "李沁一字告别庆余年",
-      "onboard_time": 1717336459,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 566024,
@@ -1113,6 +1121,14 @@
       "onboard_time": 1717276451,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 458616,
+      "num": 458616,
+      "word": "赵露思陈伟霆 许我耀眼",
+      "onboard_time": 1717335799,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 458474,
@@ -1795,6 +1811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 329860,
+      "num": 205620,
+      "word": "刘端端告别二皇子",
+      "onboard_time": 1717337960,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329533,
       "num": 329533,
       "word": "六一儿童节",
@@ -1849,14 +1873,6 @@
       "onboard_time": 1717197854,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321181,
-      "num": 191275,
-      "word": "退票",
-      "onboard_time": 1717336941,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 320897,
@@ -2123,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283128,
+      "num": 283128,
+      "word": "杨舒予太牛了",
+      "onboard_time": 1717336759,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280191,
       "num": 280191,
       "word": "郑钦文遭误判",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1717164626,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 275870,
+      "num": 275870,
+      "word": "朱婷就发了个球",
+      "onboard_time": 1717336280,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 274866,
@@ -2193,6 +2225,14 @@
       "onboard_time": 1717324218,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 270753,
+      "num": 204637,
+      "word": "胡歌清唱六月的雨",
+      "onboard_time": 1717337481,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 270308,
@@ -2481,14 +2521,6 @@
       "onboard_time": 1717171879,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 230097,
-      "num": 230097,
-      "word": "朱婷就发了个球",
-      "onboard_time": 1717336280,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 229096,
@@ -3211,12 +3243,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 186261,
+      "num": 124253,
+      "word": "张若昀庆余年2最后一场戏",
+      "onboard_time": 1717338561,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185924,
       "num": 185924,
       "word": "UP对战iG",
       "onboard_time": 1717236557,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185511,
+      "num": 124195,
+      "word": "陈道明演技",
+      "onboard_time": 1717338620,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 185158,
@@ -3257,14 +3305,6 @@
       "onboard_time": 1717254858,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182799,
-      "num": 162614,
-      "word": "胡歌清唱六月的雨",
-      "onboard_time": 1717337481,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 181811,
@@ -3467,20 +3507,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170524,
-      "num": 170524,
-      "word": "杨舒予太牛了",
-      "onboard_time": 1717336759,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170409,
       "num": 170409,
       "word": "六月狗屎运最旺的星座",
       "onboard_time": 1717199115,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 169628,
+      "num": 173598,
+      "word": "孙颖莎王曼昱会师决赛",
+      "onboard_time": 1717337599,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 169369,
@@ -3537,6 +3577,14 @@
       "onboard_time": 1717308978,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167277,
+      "num": 123822,
+      "word": "王源演唱会抢票猫眼崩了",
+      "onboard_time": 1717338500,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 166992,
@@ -4449,14 +4497,6 @@
       "onboard_time": 1717168881,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129851,
-      "num": 173598,
-      "word": "孙颖莎王曼昱会师决赛",
-      "onboard_time": 1717337599,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 129086,
@@ -5907,20 +5947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35874,
+      "num": 572559,
+      "word": "班主任带亲手种向日葵拍高三毕业照",
+      "onboard_time": 1717337239,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 35839,
       "num": 289166,
       "word": "社恐妈妈带上蔡文姬宝宝勇闯动漫节",
       "onboard_time": 1717196953,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35689,
-      "num": 572559,
-      "word": "班主任带亲手种向日葵拍高三毕业照",
-      "onboard_time": 1717337239,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 35547,

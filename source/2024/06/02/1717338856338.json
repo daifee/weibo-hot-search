@@ -1,0 +1,410 @@
+{
+  "runTime": 1717338856338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1893331,
+        "num": 1893331,
+        "word": "庆余年第三季",
+        "onboard_time": 1717333279,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572428,
+        "num": 572428,
+        "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
+        "onboard_time": 1717326018,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68938,
+        "num": 572070,
+        "word": "月背再次迎来中国的航天器",
+        "onboard_time": 1717331539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959314,
+        "num": 571747,
+        "word": "杨迪说现在圈内疯子很多",
+        "onboard_time": 1717330578,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 927403,
+        "num": 571563,
+        "word": "日本垃圾桶",
+        "onboard_time": 1717334360,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 985029,
+        "num": 571064,
+        "word": "蔡斌",
+        "onboard_time": 1717333399,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 832113,
+        "num": 570800,
+        "word": "Angelababy原相机营业自拍",
+        "onboard_time": 1717335499,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570586,
+        "num": 570586,
+        "word": "王楚钦vs邱党",
+        "onboard_time": 1717336401,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 803517,
+        "num": 549077,
+        "word": "李沁一字告别庆余年",
+        "onboard_time": 1717336459,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35874,
+        "num": 526952,
+        "word": "班主任带亲手种向日葵拍高三毕业照",
+        "onboard_time": 1717337239,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 761339,
+        "num": 509095,
+        "word": "合影杀手李小冉",
+        "onboard_time": 1717331597,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 743622,
+        "num": 481987,
+        "word": "猫眼 退票",
+        "onboard_time": 1717336099,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 607767,
+        "num": 464018,
+        "word": "退票",
+        "onboard_time": 1717336941,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 458616,
+        "num": 458616,
+        "word": "赵露思陈伟霆 许我耀眼",
+        "onboard_time": 1717335799,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 397899,
+        "num": 397899,
+        "word": "中国女排积分被日本反超",
+        "onboard_time": 1717335860,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384543,
+        "num": 384543,
+        "word": "中国女排0比3意大利女排",
+        "onboard_time": 1717332919,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355084,
+        "num": 355084,
+        "word": "删了吧有个研究生破防了",
+        "onboard_time": 1717320857,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283128,
+        "num": 283128,
+        "word": "杨舒予太牛了",
+        "onboard_time": 1717336759,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275870,
+        "num": 275870,
+        "word": "朱婷就发了个球",
+        "onboard_time": 1717336280,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205969,
+        "num": 205969,
+        "word": "逆水寒 剑网三",
+        "onboard_time": 1717323678,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 663803,
+        "num": 205873,
+        "word": "杭州女子一年内确诊三种癌",
+        "onboard_time": 1717335019,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375921,
+        "num": 205670,
+        "word": "猫眼回应王源演唱会抢票卡顿",
+        "onboard_time": 1717335079,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329860,
+        "num": 205620,
+        "word": "刘端端告别二皇子",
+        "onboard_time": 1717337960,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324924,
+        "num": 205334,
+        "word": "佟梦实说会为庆余年3好好保养",
+        "onboard_time": 1717332319,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317840,
+        "num": 205136,
+        "word": "付辛博告别大皇子",
+        "onboard_time": 1717334779,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307757,
+        "num": 205003,
+        "word": "杨超越演技",
+        "onboard_time": 1717330458,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278360,
+        "num": 204895,
+        "word": "肖战重庆",
+        "onboard_time": 1717325297,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270753,
+        "num": 204637,
+        "word": "胡歌清唱六月的雨",
+        "onboard_time": 1717337481,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204632,
+        "num": 204632,
+        "word": "7个信号说明你可能真的老了",
+        "onboard_time": 1717330218,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 169628,
+        "num": 169628,
+        "word": "孙颖莎王曼昱会师决赛",
+        "onboard_time": 1717337599,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236895,
+        "num": 163903,
+        "word": "张若昀蛀牙",
+        "onboard_time": 1717323977,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229104,
+        "num": 160850,
+        "word": "张杰Angel改张杰",
+        "onboard_time": 1717337000,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224829,
+        "num": 159506,
+        "word": "向佐查了李胜利所有外网账号",
+        "onboard_time": 1717307777,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154141,
+        "num": 154141,
+        "word": "孙颖莎vs陈梦",
+        "onboard_time": 1717333038,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151479,
+        "num": 151479,
+        "word": "惠若琪解说",
+        "onboard_time": 1717335499,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214374,
+        "num": 151439,
+        "word": "吴刚说会陪陈萍萍走到终点",
+        "onboard_time": 1717329979,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198152,
+        "num": 150875,
+        "word": "迪丽热巴新EP跳舞",
+        "onboard_time": 1717337719,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149947,
+        "num": 149947,
+        "word": "老公要用我的彩礼来装修房子",
+        "onboard_time": 1717324399,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130132,
+        "num": 130132,
+        "word": "水泥猫",
+        "onboard_time": 1717328418,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 124718,
+        "num": 124718,
+        "word": "姆巴佩加盟皇马",
+        "onboard_time": 1717328240,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187681,
+        "num": 124546,
+        "word": "张杰问谁家的醋坛子打翻了",
+        "onboard_time": 1717337180,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186261,
+        "num": 124253,
+        "word": "张若昀庆余年2最后一场戏",
+        "onboard_time": 1717338561,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185511,
+        "num": 124195,
+        "word": "陈道明演技",
+        "onboard_time": 1717338620,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167277,
+        "num": 123822,
+        "word": "王源演唱会抢票猫眼崩了",
+        "onboard_time": 1717338500,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153926,
+        "num": 123597,
+        "word": "背锅的爸偷情的老公破碎的她",
+        "onboard_time": 1717332980,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128854,
+        "num": 123463,
+        "word": "鹿晗泼水节欧豪欧豪的喊",
+        "onboard_time": 1717334480,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123284,
+        "num": 123284,
+        "word": "抽血可以查出癌吗",
+        "onboard_time": 1717334779,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119492,
+        "num": 119492,
+        "word": "孙颖莎4比2陈梦",
+        "onboard_time": 1717334660,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117750,
+        "num": 117750,
+        "word": "特朗普入驻TikTok",
+        "onboard_time": 1717320379,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113055,
+        "num": 113055,
+        "word": "剑网三",
+        "onboard_time": 1717333699,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞过的非遗#"
+    }
+  }
+}
