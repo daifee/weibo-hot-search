@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717363081559,
+  "endTime": 1717364058533,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -6267,6 +6267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 26927,
+      "num": 22320,
+      "word": "高圆圆好懂35岁女性的困境",
+      "onboard_time": 1717360450,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26874,
       "num": 28171,
       "word": "耳帝发文力挺Athree",
@@ -6313,14 +6321,6 @@
       "onboard_time": 1717189270,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22398,
-      "num": 21518,
-      "word": "高圆圆好懂35岁女性的困境",
-      "onboard_time": 1717360450,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 21896,
@@ -6371,20 +6371,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19634,
+      "num": 17742,
+      "word": "李小冉适合当种田文女主",
+      "onboard_time": 1717358412,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19608,
       "num": 231388,
       "word": "大熊猫反手从背后采了1根笋笋",
       "onboard_time": 1717174517,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19237,
-      "num": 17041,
-      "word": "李小冉适合当种田文女主",
-      "onboard_time": 1717358412,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 18886,
@@ -6403,12 +6403,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17412,
-      "num": 17412,
+      "raw_hot": 17947,
+      "num": 17947,
       "word": "从一个猫的身上看到了气质",
       "onboard_time": 1717361291,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17682,
+      "num": 17682,
+      "word": "减肥主食分为3个黄金等级",
+      "onboard_time": 1717362851,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 17308,
@@ -6419,20 +6427,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 16778,
+      "num": 20254,
+      "word": "芹菜叶子到底要不要吃",
+      "onboard_time": 1717353972,
+      "rank": 49,
+      "category": "科学科普,美食"
+    },
+    {
       "raw_hot": 16511,
       "num": 410261,
       "word": "方昊从看台到球场",
       "onboard_time": 1717329618,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16391,
-      "num": 20254,
-      "word": "芹菜叶子到底要不要吃",
-      "onboard_time": 1717353972,
-      "rank": 49,
-      "category": "科学科普,美食"
     },
     {
       "raw_hot": 15325,
@@ -6465,14 +6473,6 @@
       "onboard_time": 1717359490,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12424,
-      "num": 13892,
-      "word": "减肥主食分为3个黄金等级",
-      "onboard_time": 1717362851,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 11543,
