@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717367691280,
+  "endTime": 1717370378733,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -867,6 +867,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 566489,
+      "num": 566489,
+      "word": "洪竹要说再见了",
+      "onboard_time": 1717344378,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566024,
       "num": 566024,
       "word": "孙颖莎vs陈梦",
@@ -1057,14 +1065,6 @@
       "onboard_time": 1717229837,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 489750,
-      "num": 216418,
-      "word": "洪竹要说再见了",
-      "onboard_time": 1717344378,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 489087,
@@ -2201,6 +2201,14 @@
       "onboard_time": 1717336759,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285479,
+      "num": 188997,
+      "word": "邓超抱的竟然是鹿晗",
+      "onboard_time": 1717349773,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 284408,
@@ -4043,6 +4051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152981,
+      "num": 131578,
+      "word": "惠若琪说女排得分手段损失掉了",
+      "onboard_time": 1717347614,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152659,
       "num": 152659,
       "word": "陶昕然说红毯不是我的战场",
@@ -4603,6 +4619,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 130485,
+      "num": 130485,
+      "word": "李盈莹答朱婷为何没上场",
+      "onboard_time": 1717368853,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130483,
       "num": 130483,
       "word": "郑恺 原来我离真相这么近",
@@ -4633,14 +4657,6 @@
       "onboard_time": 1717212617,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128368,
-      "num": 128368,
-      "word": "邓超抱的竟然是鹿晗",
-      "onboard_time": 1717349773,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 127969,
@@ -5067,6 +5083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110168,
+      "num": 110168,
+      "word": "一心堂门店比肯德基还多",
+      "onboard_time": 1717365491,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109841,
       "num": 109841,
       "word": "陈梦3比1张本美和",
@@ -5299,6 +5323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102914,
+      "num": 102914,
+      "word": "贾乃亮回复郭晓婷",
+      "onboard_time": 1717368492,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102892,
       "num": 102892,
       "word": "六月请对我好一点",
@@ -5443,6 +5475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91856,
+      "num": 91856,
+      "word": "高圆圆好懂35岁女性的困境",
+      "onboard_time": 1717360450,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "安切洛蒂水平",
@@ -5467,6 +5507,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 87949,
+      "num": 87949,
+      "word": "女子骗走男友891万获刑13年6个月",
+      "onboard_time": 1717348873,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87914,
       "num": 207146,
       "word": "今天的快乐是京东618五折给的",
@@ -5481,14 +5529,6 @@
       "onboard_time": 1717313836,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87591,
-      "num": 84063,
-      "word": "惠若琪说女排得分手段损失掉了",
-      "onboard_time": 1717347614,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 87584,
@@ -5723,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73480,
+      "num": 73480,
+      "word": "减肥主食分为3个黄金等级",
+      "onboard_time": 1717362851,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 73184,
       "num": 366584,
       "word": "第一次在大熊猫脸上看到震惊",
@@ -5768,14 +5816,6 @@
       "word": "此次月球挖土有啥不一样",
       "onboard_time": 1717313356,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67583,
-      "num": 53263,
-      "word": "女子骗走男友891万获刑13年6个月",
-      "onboard_time": 1717348873,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5833,6 +5873,14 @@
       "onboard_time": 1717308197,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62072,
+      "num": 62072,
+      "word": "焦虑症不治疗后果有多严重",
+      "onboard_time": 1717354572,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 61928,
@@ -5923,12 +5971,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53025,
+      "num": 53025,
+      "word": "李小冉适合当种田文女主",
+      "onboard_time": 1717358412,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52690,
       "num": 52690,
       "word": "薛之谦天外来物巡回演唱会",
       "onboard_time": 1717263554,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52427,
+      "num": 52427,
+      "word": "从一个猫的身上看到了气质",
+      "onboard_time": 1717361291,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 51808,
@@ -5971,12 +6035,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49610,
-      "num": 49610,
-      "word": "高圆圆好懂35岁女性的困境",
-      "onboard_time": 1717360450,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 49155,
+      "num": 49155,
+      "word": "泫雅把音乐节玩成泼水节",
+      "onboard_time": 1717355352,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 49098,
@@ -6035,6 +6099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41408,
+      "num": 41408,
+      "word": "芹菜叶子到底要不要吃",
+      "onboard_time": 1717353972,
+      "rank": 49,
+      "category": "科学科普,美食"
+    },
+    {
       "raw_hot": 41246,
       "num": 269743,
       "word": "遇事不决选大众",
@@ -6073,14 +6145,6 @@
       "onboard_time": 1717247959,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39662,
-      "num": 39662,
-      "word": "焦虑症不治疗后果有多严重",
-      "onboard_time": 1717354572,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 38843,
@@ -6161,14 +6225,6 @@
       "onboard_time": 1717196953,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 35712,
-      "num": 35712,
-      "word": "从一个猫的身上看到了气质",
-      "onboard_time": 1717361291,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 35547,
@@ -6267,22 +6323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29741,
-      "num": 29741,
-      "word": "减肥主食分为3个黄金等级",
-      "onboard_time": 1717362851,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 28713,
-      "num": 28713,
-      "word": "一心堂门店比肯德基还多",
-      "onboard_time": 1717365491,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 27362,
       "num": 452541,
       "word": "癌症宝宝的六一愿望是快快好起来",
@@ -6307,14 +6347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26570,
-      "num": 26570,
-      "word": "李小冉适合当种田文女主",
-      "onboard_time": 1717358412,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 25346,
       "num": 38179,
       "word": "乘风2024",
@@ -6337,22 +6369,6 @@
       "onboard_time": 1717164024,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24309,
-      "num": 24309,
-      "word": "泫雅把音乐节玩成泼水节",
-      "onboard_time": 1717355352,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 24053,
-      "num": 24053,
-      "word": "芹菜叶子到底要不要吃",
-      "onboard_time": 1717353972,
-      "rank": 49,
-      "category": "科学科普,美食"
     },
     {
       "raw_hot": 22894,
@@ -6521,6 +6537,14 @@
       "onboard_time": 1717247238,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8988,
+      "num": 95595,
+      "word": "被稳稳托住的感觉真好",
+      "onboard_time": 1717370236,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 6424,

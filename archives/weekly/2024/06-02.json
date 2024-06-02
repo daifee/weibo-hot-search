@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717367691280,
+  "endTime": 1717370378733,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -443,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 566489,
+      "num": 566489,
+      "word": "洪竹要说再见了",
+      "onboard_time": 1717344378,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 566024,
       "num": 566024,
       "word": "孙颖莎vs陈梦",
@@ -545,14 +553,6 @@
       "onboard_time": 1717311857,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 489750,
-      "num": 216418,
-      "word": "洪竹要说再见了",
-      "onboard_time": 1717344378,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 485240,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1717336759,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285479,
+      "num": 188997,
+      "word": "邓超抱的竟然是鹿晗",
+      "onboard_time": 1717349773,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 278663,
@@ -2179,6 +2187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152981,
+      "num": 131578,
+      "word": "惠若琪说女排得分手段损失掉了",
+      "onboard_time": 1717347614,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149326,
       "num": 149326,
       "word": "小米SU7大定锁单犹豫期缩至3天",
@@ -2427,12 +2443,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 128368,
-      "num": 128368,
-      "word": "邓超抱的竟然是鹿晗",
-      "onboard_time": 1717349773,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 130485,
+      "num": 130485,
+      "word": "李盈莹答朱婷为何没上场",
+      "onboard_time": 1717368853,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 127969,
@@ -2699,6 +2715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110168,
+      "num": 110168,
+      "word": "一心堂门店比肯德基还多",
+      "onboard_time": 1717365491,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109926,
       "num": 109926,
       "word": "以色列",
@@ -2851,6 +2875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102914,
+      "num": 102914,
+      "word": "贾乃亮回复郭晓婷",
+      "onboard_time": 1717368492,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102734,
       "num": 126016,
       "word": "爸爸带儿子幼儿园炸裂表演猴棍",
@@ -2947,6 +2979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91856,
+      "num": 91856,
+      "word": "高圆圆好懂35岁女性的困境",
+      "onboard_time": 1717360450,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "安切洛蒂水平",
@@ -2963,20 +3003,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87949,
+      "num": 87949,
+      "word": "女子骗走男友891万获刑13年6个月",
+      "onboard_time": 1717348873,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87679,
       "num": 1082620,
       "word": "文脉华章",
       "onboard_time": 1717313836,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87591,
-      "num": 84063,
-      "word": "惠若琪说女排得分手段损失掉了",
-      "onboard_time": 1717347614,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 87423,
@@ -3091,6 +3131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73480,
+      "num": 73480,
+      "word": "减肥主食分为3个黄金等级",
+      "onboard_time": 1717362851,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 71530,
       "num": 425015,
       "word": "阿勒泰四季每一张都是壁纸",
@@ -3123,14 +3171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67583,
-      "num": 53263,
-      "word": "女子骗走男友891万获刑13年6个月",
-      "onboard_time": 1717348873,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 67531,
       "num": 67531,
       "word": "张杰演唱会儿童节撒糖",
@@ -3153,6 +3193,14 @@
       "onboard_time": 1717308197,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62072,
+      "num": 62072,
+      "word": "焦虑症不治疗后果有多严重",
+      "onboard_time": 1717354572,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60907,
@@ -3187,12 +3235,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 53025,
+      "num": 53025,
+      "word": "李小冉适合当种田文女主",
+      "onboard_time": 1717358412,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52690,
       "num": 52690,
       "word": "薛之谦天外来物巡回演唱会",
       "onboard_time": 1717263554,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52427,
+      "num": 52427,
+      "word": "从一个猫的身上看到了气质",
+      "onboard_time": 1717361291,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 51808,
@@ -3219,12 +3283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 49610,
-      "num": 49610,
-      "word": "高圆圆好懂35岁女性的困境",
-      "onboard_time": 1717360450,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 49155,
+      "num": 49155,
+      "word": "泫雅把音乐节玩成泼水节",
+      "onboard_time": 1717355352,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 48382,
@@ -3259,6 +3323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41408,
+      "num": 41408,
+      "word": "芹菜叶子到底要不要吃",
+      "onboard_time": 1717353972,
+      "rank": 49,
+      "category": "科学科普,美食"
+    },
+    {
       "raw_hot": 40933,
       "num": 40933,
       "word": "林俊杰南昌",
@@ -3289,14 +3361,6 @@
       "onboard_time": 1717279632,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39662,
-      "num": 39662,
-      "word": "焦虑症不治疗后果有多严重",
-      "onboard_time": 1717354572,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 38843,
@@ -3347,14 +3411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35712,
-      "num": 35712,
-      "word": "从一个猫的身上看到了气质",
-      "onboard_time": 1717361291,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 34655,
       "num": 402161,
       "word": "小朋友给执勤交警送儿童节礼物",
@@ -3395,28 +3451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29741,
-      "num": 29741,
-      "word": "减肥主食分为3个黄金等级",
-      "onboard_time": 1717362851,
-      "rank": 49,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 28946,
       "num": 1325960,
       "word": "不管几岁快乐万岁",
       "onboard_time": 1717212076,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28713,
-      "num": 28713,
-      "word": "一心堂门店比肯德基还多",
-      "onboard_time": 1717365491,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 26948,
@@ -3433,30 +3473,6 @@
       "onboard_time": 1717351333,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26570,
-      "num": 26570,
-      "word": "李小冉适合当种田文女主",
-      "onboard_time": 1717358412,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 24309,
-      "num": 24309,
-      "word": "泫雅把音乐节玩成泼水节",
-      "onboard_time": 1717355352,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 24053,
-      "num": 24053,
-      "word": "芹菜叶子到底要不要吃",
-      "onboard_time": 1717353972,
-      "rank": 49,
-      "category": "科学科普,美食"
     },
     {
       "raw_hot": 22894,
@@ -3553,6 +3569,14 @@
       "onboard_time": 1717264694,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8988,
+      "num": 95595,
+      "word": "被稳稳托住的感觉真好",
+      "onboard_time": 1717370236,
+      "rank": 21,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
