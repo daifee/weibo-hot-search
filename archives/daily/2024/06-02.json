@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717331554621,
+  "endTime": 1717332435823,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 947955,
+      "num": 947955,
+      "word": "杨迪说现在圈内疯子很多",
+      "onboard_time": 1717330578,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 943059,
       "num": 943059,
       "word": "霸刀",
@@ -171,20 +179,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 779407,
+      "num": 762526,
+      "word": "张若昀蛀牙",
+      "onboard_time": 1717323977,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 770516,
       "num": 291314,
       "word": "家里拆迁后妈给了我100万拆迁款",
       "onboard_time": 1717299377,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 762526,
-      "num": 762526,
-      "word": "张若昀蛀牙",
-      "onboard_time": 1717323977,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 759002,
@@ -217,6 +225,14 @@
       "onboard_time": 1717293377,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 718868,
+      "num": 637378,
+      "word": "杨天真",
+      "onboard_time": 1717328358,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 672083,
@@ -267,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 637378,
-      "num": 637378,
-      "word": "杨天真",
-      "onboard_time": 1717328358,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 620512,
       "num": 446530,
       "word": "片方报奖白玉兰不会按番位选",
@@ -305,14 +313,6 @@
       "onboard_time": 1717312457,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 585848,
-      "num": 585848,
-      "word": "杨迪说现在圈内疯子很多",
-      "onboard_time": 1717330578,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 572042,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471409,
+      "num": 471409,
+      "word": "中国女排vs意大利女排",
+      "onboard_time": 1717328298,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461723,
       "num": 461723,
       "word": "halamadrid",
@@ -491,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432009,
+      "num": 432009,
+      "word": "吴刚说会陪陈萍萍走到终点",
+      "onboard_time": 1717329979,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427683,
       "num": 427683,
       "word": "再也不敢用酒店的一次性用品了",
@@ -547,14 +563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 410195,
-      "num": 410195,
-      "word": "中国女排vs意大利女排",
-      "onboard_time": 1717328298,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 404844,
       "num": 367237,
       "word": "陈梦vs张本美和",
@@ -577,6 +585,14 @@
       "onboard_time": 1717289895,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 402650,
+      "num": 402650,
+      "word": "河南警方通报男子持刀刺死女子",
+      "onboard_time": 1717327397,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 397846,
@@ -603,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393871,
-      "num": 393871,
-      "word": "河南警方通报男子持刀刺死女子",
-      "onboard_time": 1717327397,
-      "rank": 26,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 391815,
       "num": 366814,
       "word": "张若昀李沁再拍部剧吧",
@@ -625,6 +633,14 @@
       "onboard_time": 1717330158,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390382,
+      "num": 360208,
+      "word": "老公要用我的彩礼来装修房子",
+      "onboard_time": 1717324399,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 388253,
@@ -659,12 +675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 380745,
-      "num": 360208,
-      "word": "老公要用我的彩礼来装修房子",
-      "onboard_time": 1717324399,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 383839,
+      "num": 330475,
+      "word": "张若昀回应有蛀牙",
+      "onboard_time": 1717330397,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 379006,
@@ -681,6 +697,14 @@
       "onboard_time": 1717253239,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 370178,
+      "num": 293711,
+      "word": "杨超越演技",
+      "onboard_time": 1717330458,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 365177,
@@ -721,14 +745,6 @@
       "onboard_time": 1717313058,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 360334,
-      "num": 360334,
-      "word": "吴刚说会陪陈萍萍走到终点",
-      "onboard_time": 1717329979,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 359134,
@@ -803,20 +819,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 330475,
-      "num": 330475,
-      "word": "张若昀回应有蛀牙",
-      "onboard_time": 1717330397,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 329960,
       "num": 329960,
       "word": "RNG教练",
       "onboard_time": 1717322599,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 320897,
+      "num": 320897,
+      "word": "中国女排0比1意大利女排",
+      "onboard_time": 1717331179,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 302891,
@@ -833,14 +849,6 @@
       "onboard_time": 1717245079,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 300559,
-      "num": 300559,
-      "word": "中国女排0比1意大利女排",
-      "onboard_time": 1717331179,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 298994,
@@ -891,6 +899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 291306,
+      "num": 291306,
+      "word": "中国女排0比2意大利女排",
+      "onboard_time": 1717331779,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289469,
       "num": 289469,
       "word": "闪耀暖暖",
@@ -913,6 +929,14 @@
       "onboard_time": 1717317498,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282383,
+      "num": 282383,
+      "word": "合影杀手李小冉",
+      "onboard_time": 1717331597,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 278663,
@@ -1003,14 +1027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 250505,
-      "num": 250505,
-      "word": "杨超越演技",
-      "onboard_time": 1717330458,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249162,
       "num": 229580,
       "word": "金莎回应孙丞潇开会离席",
@@ -1064,6 +1080,14 @@
       "word": "吴谨言新剧摇人摇来了浪姐团",
       "onboard_time": 1717308138,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 235295,
+      "num": 235295,
+      "word": "佟梦实说会为庆余年3好好保养",
+      "onboard_time": 1717332319,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1355,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193764,
+      "num": 193764,
+      "word": "7个信号说明你可能真的老了",
+      "onboard_time": 1717330218,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 193007,
       "num": 167668,
       "word": "那英和肖战告夏之光的状",
@@ -1417,14 +1449,6 @@
       "onboard_time": 1717305378,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 185503,
-      "num": 185503,
-      "word": "7个信号说明你可能真的老了",
-      "onboard_time": 1717330218,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 183933,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1717327338,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171093,
+      "num": 171093,
+      "word": "五哈节目组",
+      "onboard_time": 1717331719,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 168908,
@@ -1644,7 +1676,7 @@
     },
     {
       "raw_hot": 157820,
-      "num": 157820,
+      "num": 215262,
       "word": "太阳连续爆发三次耀斑",
       "onboard_time": 1717330518,
       "rank": 35,
@@ -1963,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126805,
+      "num": 312795,
+      "word": "20元的面他付了200元还坚持不让退",
+      "onboard_time": 1717326858,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126721,
       "num": 126721,
       "word": "向佐被问来看周杰伦的反应",
@@ -2083,20 +2123,20 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 116124,
-      "num": 312795,
-      "word": "20元的面他付了200元还坚持不让退",
-      "onboard_time": 1717326858,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115973,
       "num": 124983,
       "word": "分析师称高价雪糕存过度炒作现象",
       "onboard_time": 1717312218,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114585,
+      "num": 603033,
+      "word": "千里江山图藏着人间烟火",
+      "onboard_time": 1717328719,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114482,
@@ -2307,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102335,
+      "num": 111226,
+      "word": "coser漫展模仿科比遇难场景引争议",
+      "onboard_time": 1717332198,
+      "rank": 49,
+      "category": "动漫,体育"
+    },
+    {
       "raw_hot": 100946,
       "num": 110716,
       "word": "陈赫回应邓超",
@@ -2507,14 +2555,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 77926,
-      "num": 603033,
-      "word": "千里江山图藏着人间烟火",
-      "onboard_time": 1717328719,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74389,
       "num": 74389,
       "word": "上班和上学到底哪个更累",
@@ -2584,6 +2624,14 @@
       "word": "村民偶遇熊猫激动切换拍摄模式",
       "onboard_time": 1717310058,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54789,
+      "num": 1091728,
+      "word": "月背再次迎来中国的航天器",
+      "onboard_time": 1717331539,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2811,28 +2859,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16511,
+      "num": 410261,
+      "word": "方昊从看台到球场",
+      "onboard_time": 1717329618,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15325,
       "num": 1064058,
       "word": "文化遗址里的中国故事",
       "onboard_time": 1717298238,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14306,
-      "num": 1091728,
-      "word": "月背再次迎来中国的航天器",
-      "onboard_time": 1717331539,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13862,
-      "num": 410261,
-      "word": "方昊从看台到球场",
-      "onboard_time": 1717329618,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 11543,
@@ -2869,6 +2909,9 @@
     },
     {
       "word": "#总书记的文化足迹遍及大江南北#"
+    },
+    {
+      "word": "#总书记点赞过的非遗#"
     }
   ]
 }
