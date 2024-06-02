@@ -1,0 +1,410 @@
+{
+  "runTime": 1717305474926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1283104,
+        "num": 1283104,
+        "word": "贾玲Prada",
+        "onboard_time": 1717292896,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572042,
+        "num": 572042,
+        "word": "樊振东vs张本智和",
+        "onboard_time": 1717301418,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50659,
+        "num": 499293,
+        "word": "嫦娥六号落月实况",
+        "onboard_time": 1717298477,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489343,
+        "num": 489343,
+        "word": "端午真争气生在了周一",
+        "onboard_time": 1717284254,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424761,
+        "num": 424761,
+        "word": "肖战张婧仪杀青照",
+        "onboard_time": 1717298718,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416863,
+        "num": 416863,
+        "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
+        "onboard_time": 1717292896,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420312,
+        "num": 363533,
+        "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
+        "onboard_time": 1717301777,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306494,
+        "num": 306494,
+        "word": "藏海传全阵容官宣",
+        "onboard_time": 1717294457,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70155,
+        "num": 305036,
+        "word": "嫦娥六号准备月背挖宝",
+        "onboard_time": 1717296617,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97656,
+        "num": 301789,
+        "word": "帆布包的性价比有多高",
+        "onboard_time": 1717304118,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500498,
+        "num": 298440,
+        "word": "一栗小莎子官宣生子",
+        "onboard_time": 1717295297,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 454767,
+        "num": 294555,
+        "word": "片方报奖白玉兰不会按番位选",
+        "onboard_time": 1717300278,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361575,
+        "num": 289390,
+        "word": "菲非法坐滩仁爱礁军舰人员枪指中国海警",
+        "onboard_time": 1717301058,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 288948,
+        "num": 288948,
+        "word": "冰淇淋重回5元时代",
+        "onboard_time": 1717296676,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 269859,
+        "num": 269859,
+        "word": "贾玲深V黑裙",
+        "onboard_time": 1717296978,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 262206,
+        "num": 262206,
+        "word": "袁泉夏雨 低调相守的爱情",
+        "onboard_time": 1717304238,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94635,
+        "num": 242046,
+        "word": "爱蹲的人运气不会差",
+        "onboard_time": 1717301058,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226584,
+        "num": 226584,
+        "word": "已读乱回到底有什么魅力",
+        "onboard_time": 1717300817,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217780,
+        "num": 217780,
+        "word": "热恋症",
+        "onboard_time": 1717299917,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169082,
+        "num": 216062,
+        "word": "王曼昱 陈幸同",
+        "onboard_time": 1717300696,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 601984,
+        "num": 213334,
+        "word": "家里拆迁后妈给了我100万拆迁款",
+        "onboard_time": 1717299377,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 572337,
+        "num": 209190,
+        "word": "恋爱两年不到男朋友给我花了十万",
+        "onboard_time": 1717303098,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246402,
+        "num": 204742,
+        "word": "樊振东3比1张本智和",
+        "onboard_time": 1717304477,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231073,
+        "num": 203646,
+        "word": "吴刚回应陈萍萍独得年轻人宠爱",
+        "onboard_time": 1717302017,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224101,
+        "num": 199020,
+        "word": "米卡 忘了我是外国人",
+        "onboard_time": 1717293377,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197371,
+        "num": 197371,
+        "word": "书桌上这个凹槽到底是干嘛的",
+        "onboard_time": 1717298477,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 196153,
+        "num": 196153,
+        "word": "Twins宣传吴谨言新剧",
+        "onboard_time": 1717304118,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184896,
+        "num": 184896,
+        "word": "白玉兰男女主角提报规则",
+        "onboard_time": 1717301958,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173215,
+        "num": 173215,
+        "word": "人生大事恭喜朱一龙获奖",
+        "onboard_time": 1717301418,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164085,
+        "num": 164085,
+        "word": "赵冬苓说属于王一博的荣耀在前面等着",
+        "onboard_time": 1717301597,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162493,
+        "num": 162493,
+        "word": "为什么感觉去旅游的人越来越多了",
+        "onboard_time": 1717300337,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 148835,
+        "num": 148835,
+        "word": "黄子弘凡说刘宪华和郎朗在商场表演",
+        "onboard_time": 1717305017,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147038,
+        "num": 147038,
+        "word": "薛之谦我喜欢许嵩",
+        "onboard_time": 1717303458,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139547,
+        "num": 139547,
+        "word": "沈星回卡套",
+        "onboard_time": 1717301537,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136590,
+        "num": 136590,
+        "word": "严浩翔长在烤肉摊上了",
+        "onboard_time": 1717302078,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135049,
+        "num": 135049,
+        "word": "Prada选对人了",
+        "onboard_time": 1717293317,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134629,
+        "num": 134629,
+        "word": "张进为贾玲化的妆",
+        "onboard_time": 1717301958,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125985,
+        "num": 125985,
+        "word": "黎深九黎司命",
+        "onboard_time": 1717300637,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118747,
+        "num": 118747,
+        "word": "把牛奶当水喝能长高吗",
+        "onboard_time": 1717297217,
+        "rank": 38,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 37714,
+        "num": 118230,
+        "word": "港风少女提了第十万台smart",
+        "onboard_time": 1717304838,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 131132,
+        "num": 118160,
+        "word": "严浩翔说大张伟流量就20MB了",
+        "onboard_time": 1717301719,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119321,
+        "num": 118039,
+        "word": "杨超越古装",
+        "onboard_time": 1717305378,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117908,
+        "num": 117908,
+        "word": "月背挖土像穿袜子",
+        "onboard_time": 1717305378,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117555,
+        "num": 117555,
+        "word": "二建市政",
+        "onboard_time": 1717303638,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116964,
+        "num": 116964,
+        "word": "上班太久会让人失去人性",
+        "onboard_time": 1717297142,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112462,
+        "num": 112462,
+        "word": "月球表面最大最深最古老的盆地",
+        "onboard_time": 1717298120,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109717,
+        "num": 109717,
+        "word": "河北一地现白菜房6万能买两室一厅",
+        "onboard_time": 1717297757,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109122,
+        "num": 109122,
+        "word": "健身一年花了两万多",
+        "onboard_time": 1717285635,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107288,
+        "num": 107288,
+        "word": "女生将没吃的菜低价推销给隔壁桌",
+        "onboard_time": 1717283293,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95113,
+        "num": 107138,
+        "word": "王一博探险回来了",
+        "onboard_time": 1717290917,
+        "rank": 49,
+        "category": "艺人,综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设文化强国建设中华民族现代文明#"
+    }
+  }
+}
