@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717332435823,
+  "endTime": 1717334359580,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -51,6 +51,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1476124,
+      "num": 1476124,
+      "word": "中国女排0比3意大利女排",
+      "onboard_time": 1717332919,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1433682,
       "num": 1433682,
       "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
@@ -72,6 +80,14 @@
       "word": "丁真 大家都欲望太强了",
       "onboard_time": 1717311978,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1283480,
+      "num": 963040,
+      "word": "杨迪说现在圈内疯子很多",
+      "onboard_time": 1717330578,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -123,20 +139,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 1070167,
-      "num": 1070167,
+      "raw_hot": 1075650,
+      "num": 1075650,
       "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
       "onboard_time": 1717326018,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 947955,
-      "num": 947955,
-      "word": "杨迪说现在圈内疯子很多",
-      "onboard_time": 1717330578,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 943059,
@@ -145,6 +153,14 @@
       "onboard_time": 1717312637,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 931913,
+      "num": 931913,
+      "word": "庆余年第三季",
+      "onboard_time": 1717333279,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 901446,
@@ -185,6 +201,14 @@
       "onboard_time": 1717323977,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 778909,
+      "num": 644411,
+      "word": "合影杀手李小冉",
+      "onboard_time": 1717331597,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 770516,
@@ -241,6 +265,14 @@
       "onboard_time": 1717303098,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 671542,
+      "num": 671542,
+      "word": "蔡斌",
+      "onboard_time": 1717333399,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 668525,
@@ -379,6 +411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 488285,
+      "num": 431661,
+      "word": "杨超越演技",
+      "onboard_time": 1717330458,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485240,
       "num": 308724,
       "word": "编剧赵冬苓发声",
@@ -489,6 +529,14 @@
       "onboard_time": 1717296676,
       "rank": 16,
       "category": "美食"
+    },
+    {
+      "raw_hot": 438887,
+      "num": 251883,
+      "word": "佟梦实说会为庆余年3好好保养",
+      "onboard_time": 1717332319,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 433050,
@@ -635,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391453,
+      "num": 391453,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1717333038,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390382,
       "num": 360208,
       "word": "老公要用我的彩礼来装修房子",
@@ -697,14 +753,6 @@
       "onboard_time": 1717253239,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 370178,
-      "num": 293711,
-      "word": "杨超越演技",
-      "onboard_time": 1717330458,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 365177,
@@ -851,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301867,
+      "num": 301867,
+      "word": "剑网三",
+      "onboard_time": 1717333699,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 298994,
       "num": 298994,
       "word": "张雪峰2026年志愿填报服务已售罄",
@@ -929,14 +985,6 @@
       "onboard_time": 1717317498,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282383,
-      "num": 282383,
-      "word": "合影杀手李小冉",
-      "onboard_time": 1717331597,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 278663,
@@ -1083,12 +1131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235295,
-      "num": 235295,
-      "word": "佟梦实说会为庆余年3好好保养",
-      "onboard_time": 1717332319,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 236075,
+      "num": 236075,
+      "word": "7个信号说明你可能真的老了",
+      "onboard_time": 1717330218,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 235016,
@@ -1193,6 +1241,14 @@
       "onboard_time": 1717286115,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220856,
+      "num": 220856,
+      "word": "王勉 易建联",
+      "onboard_time": 1717333100,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 220849,
@@ -1323,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196764,
+      "num": 196764,
+      "word": "背锅的爸偷情的老公破碎的她",
+      "onboard_time": 1717332980,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196489,
       "num": 301789,
       "word": "帆布包的性价比有多高",
@@ -1379,14 +1443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193764,
-      "num": 193764,
-      "word": "7个信号说明你可能真的老了",
-      "onboard_time": 1717330218,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 193007,
       "num": 167668,
       "word": "那英和肖战告夏之光的状",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1717331358,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189584,
+      "num": 189584,
+      "word": "TES战胜RA",
+      "onboard_time": 1717333339,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 189217,
@@ -1515,6 +1579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174311,
+      "num": 215262,
+      "word": "太阳连续爆发三次耀斑",
+      "onboard_time": 1717330518,
+      "rank": 35,
+      "category": "自然"
+    },
+    {
       "raw_hot": 173393,
       "num": 173393,
       "word": "王俊凯小时候的梦我知道",
@@ -1555,8 +1627,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171093,
-      "num": 171093,
+      "raw_hot": 171536,
+      "num": 171536,
       "word": "五哈节目组",
       "onboard_time": 1717331719,
       "rank": 34,
@@ -1619,6 +1691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 164509,
+      "num": 161218,
+      "word": "李小冉说庆余年3见",
+      "onboard_time": 1717332559,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164389,
       "num": 164389,
       "word": "原来腰突了还可以回去",
@@ -1675,12 +1755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157820,
-      "num": 215262,
-      "word": "太阳连续爆发三次耀斑",
-      "onboard_time": 1717330518,
-      "rank": 35,
-      "category": "自然"
+      "raw_hot": 158524,
+      "num": 158524,
+      "word": "coser漫展模仿科比遇难场景引争议",
+      "onboard_time": 1717332198,
+      "rank": 49,
+      "category": "动漫,体育"
     },
     {
       "raw_hot": 156833,
@@ -1713,6 +1793,14 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149728,
+      "num": 149728,
+      "word": "他朝我扔泥巴泥巴里开莲花",
+      "onboard_time": 1717333879,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 149326,
@@ -1769,6 +1857,14 @@
       "onboard_time": 1717323678,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146566,
+      "num": 146566,
+      "word": "月红篇从你的全世界路过",
+      "onboard_time": 1717333820,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 146263,
@@ -1979,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127157,
+      "num": 312795,
+      "word": "20元的面他付了200元还坚持不让退",
+      "onboard_time": 1717326858,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127004,
       "num": 127004,
       "word": "林更新录综艺点到了赵丽颖",
@@ -1993,14 +2097,6 @@
       "onboard_time": 1717306518,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126805,
-      "num": 312795,
-      "word": "20元的面他付了200元还坚持不让退",
-      "onboard_time": 1717326858,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 126721,
@@ -2097,6 +2193,14 @@
       "onboard_time": 1717317078,
       "rank": 43,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 118914,
+      "num": 118914,
+      "word": "EXO或将参加TMEA音乐节",
+      "onboard_time": 1717334120,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 117555,
@@ -2347,14 +2451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102335,
-      "num": 111226,
-      "word": "coser漫展模仿科比遇难场景引争议",
-      "onboard_time": 1717332198,
-      "rank": 49,
-      "category": "动漫,体育"
-    },
-    {
       "raw_hot": 100946,
       "num": 110716,
       "word": "陈赫回应邓超",
@@ -2563,6 +2659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71530,
+      "num": 425015,
+      "word": "阿勒泰四季每一张都是壁纸",
+      "onboard_time": 1717332440,
+      "rank": 13,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 70824,
       "num": 70824,
       "word": "郑钦文无缘法网16强",
@@ -2603,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66594,
+      "num": 1091728,
+      "word": "月背再次迎来中国的航天器",
+      "onboard_time": 1717331539,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62090,
       "num": 224385,
       "word": "这些地方的龙舟赛氛围拉满了",
@@ -2624,14 +2736,6 @@
       "word": "村民偶遇熊猫激动切换拍摄模式",
       "onboard_time": 1717310058,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 54789,
-      "num": 1091728,
-      "word": "月背再次迎来中国的航天器",
-      "onboard_time": 1717331539,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
