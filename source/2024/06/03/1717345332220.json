@@ -1,0 +1,410 @@
+{
+  "runTime": 1717345332220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 938535,
+        "num": 938535,
+        "word": "庆余年第三季",
+        "onboard_time": 1717333279,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523800,
+        "num": 523800,
+        "word": "中国女排排名降至亚洲第二",
+        "onboard_time": 1717341140,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37181,
+        "num": 506882,
+        "word": "月背再次迎来中国的航天器",
+        "onboard_time": 1717331539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777310,
+        "num": 506161,
+        "word": "演得有点不顾观众死活了",
+        "onboard_time": 1717339460,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 719619,
+        "num": 505891,
+        "word": "退票",
+        "onboard_time": 1717336941,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 505125,
+        "num": 505125,
+        "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
+        "onboard_time": 1717326018,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591804,
+        "num": 403094,
+        "word": "吴宣仪忘了放杨超越的照片",
+        "onboard_time": 1717340301,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553053,
+        "num": 398637,
+        "word": "李沁一字告别庆余年",
+        "onboard_time": 1717336459,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232436,
+        "num": 232436,
+        "word": "日本垃圾桶",
+        "onboard_time": 1717334360,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197736,
+        "num": 197736,
+        "word": "删了吧有个研究生破防了",
+        "onboard_time": 1717320857,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368522,
+        "num": 197579,
+        "word": "墨雨云间",
+        "onboard_time": 1717340660,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338302,
+        "num": 197043,
+        "word": "李一桐回复金晨",
+        "onboard_time": 1717339699,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323130,
+        "num": 196284,
+        "word": "洪竹要说再见了",
+        "onboard_time": 1717344378,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264632,
+        "num": 195761,
+        "word": "杨迪说现在圈内疯子很多",
+        "onboard_time": 1717330578,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153534,
+        "num": 195159,
+        "word": "逆水寒 剑网三",
+        "onboard_time": 1717323678,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135454,
+        "num": 194869,
+        "word": "XYG夺冠",
+        "onboard_time": 1717340240,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128812,
+        "num": 194468,
+        "word": "蔡斌",
+        "onboard_time": 1717333399,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104008,
+        "num": 193838,
+        "word": "杨舒予太牛了",
+        "onboard_time": 1717336759,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99175,
+        "num": 193274,
+        "word": "朱婷就发了个球",
+        "onboard_time": 1717336280,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25984,
+        "num": 192322,
+        "word": "阿勒泰四季每一张都是壁纸",
+        "onboard_time": 1717332440,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 261001,
+        "num": 192207,
+        "word": "林若甫 一声爹例外触动天下人",
+        "onboard_time": 1717338980,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250530,
+        "num": 191699,
+        "word": "杭州女子一年内确诊三种癌",
+        "onboard_time": 1717335019,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215552,
+        "num": 190715,
+        "word": "合影杀手李小冉",
+        "onboard_time": 1717331597,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203514,
+        "num": 190398,
+        "word": "打开了关闭三年的朋友圈",
+        "onboard_time": 1717343718,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190115,
+        "num": 190115,
+        "word": "墨雨云间原著",
+        "onboard_time": 1717340840,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15659,
+        "num": 183104,
+        "word": "千里江山图藏着人间烟火",
+        "onboard_time": 1717328719,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182913,
+        "num": 182913,
+        "word": "牛肉价格大跌",
+        "onboard_time": 1717340900,
+        "rank": 26,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 179557,
+        "num": 179557,
+        "word": "李小冉下部戏还是演反派",
+        "onboard_time": 1717340120,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169924,
+        "num": 169924,
+        "word": "Angelababy原相机营业自拍",
+        "onboard_time": 1717335499,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160480,
+        "num": 160480,
+        "word": "张若昀庆余年2最后一场戏",
+        "onboard_time": 1717338561,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153815,
+        "num": 153815,
+        "word": "迪丽热巴新EP跳舞",
+        "onboard_time": 1717337719,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143776,
+        "num": 143776,
+        "word": "赵露思陈伟霆 许我耀眼",
+        "onboard_time": 1717335799,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134565,
+        "num": 134565,
+        "word": "肖战重庆",
+        "onboard_time": 1717325297,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132663,
+        "num": 132663,
+        "word": "猫眼 退票",
+        "onboard_time": 1717336099,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129012,
+        "num": 129012,
+        "word": "7个信号说明你可能真的老了",
+        "onboard_time": 1717330218,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 132219,
+        "num": 128961,
+        "word": "刘端端告别二皇子",
+        "onboard_time": 1717337960,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123404,
+        "num": 123404,
+        "word": "杨超越演技",
+        "onboard_time": 1717330458,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94135,
+        "num": 118660,
+        "word": "水泥猫",
+        "onboard_time": 1717328418,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 81837,
+        "num": 118487,
+        "word": "姆巴佩加盟皇马",
+        "onboard_time": 1717328240,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75450,
+        "num": 118484,
+        "word": "老公要用我的彩礼来装修房子",
+        "onboard_time": 1717324399,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118483,
+        "num": 118483,
+        "word": "陈道明演技",
+        "onboard_time": 1717338620,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118186,
+        "num": 118186,
+        "word": "向佐查了李胜利所有外网账号",
+        "onboard_time": 1717307777,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114119,
+        "num": 114119,
+        "word": "张杰Angel改张杰",
+        "onboard_time": 1717337000,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108853,
+        "num": 114108,
+        "word": "付辛博告别大皇子",
+        "onboard_time": 1717334779,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99597,
+        "num": 114096,
+        "word": "吴刚说会陪陈萍萍走到终点",
+        "onboard_time": 1717329979,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73875,
+        "num": 114076,
+        "word": "王楚钦vs邱党",
+        "onboard_time": 1717336401,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65974,
+        "num": 114061,
+        "word": "剑网三",
+        "onboard_time": 1717333699,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65077,
+        "num": 114061,
+        "word": "广州夜晚的灯光照亮了云雾",
+        "onboard_time": 1717342218,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 61536,
+        "num": 114038,
+        "word": "南宁一教官多次将男孩头按进水里",
+        "onboard_time": 1717345097,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61508,
+        "num": 114017,
+        "word": "中国女排0比3意大利女排",
+        "onboard_time": 1717332919,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的文化足迹遍及大江南北#"
+    }
+  }
+}
