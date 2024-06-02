@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717366612552,
+  "endTime": 1717367691280,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 489750,
-      "num": 196284,
+      "num": 216418,
       "word": "洪竹要说再见了",
       "onboard_time": 1717344378,
       "rank": 12,
@@ -2427,6 +2427,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 128368,
+      "num": 128368,
+      "word": "邓超抱的竟然是鹿晗",
+      "onboard_time": 1717349773,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127969,
       "num": 127969,
       "word": "薛之谦海拔2280体育场个唱第一人",
@@ -2689,14 +2697,6 @@
       "onboard_time": 1717339580,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111076,
-      "num": 105322,
-      "word": "邓超抱的竟然是鹿晗",
-      "onboard_time": 1717349773,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 109926,
@@ -3219,20 +3219,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49610,
+      "num": 49610,
+      "word": "高圆圆好懂35岁女性的困境",
+      "onboard_time": 1717360450,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48382,
       "num": 572559,
       "word": "班主任带亲手种向日葵拍高三毕业照",
       "onboard_time": 1717337239,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 48008,
-      "num": 35268,
-      "word": "高圆圆好懂35岁女性的困境",
-      "onboard_time": 1717360450,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 45209,
@@ -3291,6 +3291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 39662,
+      "num": 39662,
+      "word": "焦虑症不治疗后果有多严重",
+      "onboard_time": 1717354572,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 38843,
       "num": 38843,
       "word": "山东宁阳发生透水事故8人被困",
@@ -3339,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35712,
+      "num": 35712,
+      "word": "从一个猫的身上看到了气质",
+      "onboard_time": 1717361291,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 34655,
       "num": 402161,
       "word": "小朋友给执勤交警送儿童节礼物",
@@ -3379,12 +3395,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29535,
-      "num": 29263,
-      "word": "焦虑症不治疗后果有多严重",
-      "onboard_time": 1717354572,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 29741,
+      "num": 29741,
+      "word": "减肥主食分为3个黄金等级",
+      "onboard_time": 1717362851,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 28946,
@@ -3395,12 +3411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28604,
-      "num": 28604,
-      "word": "从一个猫的身上看到了气质",
-      "onboard_time": 1717361291,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 28713,
+      "num": 28713,
+      "word": "一心堂门店比肯德基还多",
+      "onboard_time": 1717365491,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 26948,
@@ -3419,12 +3435,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26197,
-      "num": 26197,
-      "word": "减肥主食分为3个黄金等级",
-      "onboard_time": 1717362851,
+      "raw_hot": 26570,
+      "num": 26570,
+      "word": "李小冉适合当种田文女主",
+      "onboard_time": 1717358412,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24309,
+      "num": 24309,
+      "word": "泫雅把音乐节玩成泼水节",
+      "onboard_time": 1717355352,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 24053,
+      "num": 24053,
+      "word": "芹菜叶子到底要不要吃",
+      "onboard_time": 1717353972,
       "rank": 49,
-      "category": "运动健身"
+      "category": "科学科普,美食"
     },
     {
       "raw_hot": 22894,
@@ -3441,38 +3473,6 @@
       "onboard_time": 1717259117,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21566,
-      "num": 21566,
-      "word": "李小冉适合当种田文女主",
-      "onboard_time": 1717358412,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20935,
-      "num": 20935,
-      "word": "泫雅把音乐节玩成泼水节",
-      "onboard_time": 1717355352,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 20866,
-      "num": 20866,
-      "word": "芹菜叶子到底要不要吃",
-      "onboard_time": 1717353972,
-      "rank": 49,
-      "category": "科学科普,美食"
-    },
-    {
-      "raw_hot": 20734,
-      "num": 20734,
-      "word": "一心堂门店比肯德基还多",
-      "onboard_time": 1717365491,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 20352,
