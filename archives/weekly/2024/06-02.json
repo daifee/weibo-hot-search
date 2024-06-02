@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717296335227,
+  "endTime": 1717298487362,
   "band_list": [
     {
       "raw_hot": 2119199,
@@ -59,6 +59,14 @@
       "category": "互联网,情感"
     },
     {
+      "raw_hot": 826843,
+      "num": 343191,
+      "word": "一栗小莎子官宣生子",
+      "onboard_time": 1717295297,
+      "rank": 20,
+      "category": "网红"
+    },
+    {
       "raw_hot": 759002,
       "num": 759002,
       "word": "背着善宰跑导演吐槽金惠允外貌",
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628509,
+      "num": 234683,
+      "word": "不要觉得谈了五六年分手可惜",
+      "onboard_time": 1717297338,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556183,
       "num": 556183,
       "word": "王俊凯又幸福了",
@@ -123,12 +139,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 513070,
-      "num": 343191,
-      "word": "一栗小莎子官宣生子",
-      "onboard_time": 1717295297,
-      "rank": 20,
-      "category": "网红"
+      "raw_hot": 523683,
+      "num": 323772,
+      "word": "贾玲深V黑裙",
+      "onboard_time": 1717296978,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 485100,
@@ -275,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349310,
+      "num": 349310,
+      "word": "国家医保局约谈一心堂",
+      "onboard_time": 1717296857,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346876,
       "num": 346876,
       "word": "巴勒斯坦儿童",
@@ -347,12 +371,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 261292,
+      "num": 261292,
+      "word": "冰淇淋重回5元时代",
+      "onboard_time": 1717296676,
+      "rank": 16,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 247300,
+      "num": 247300,
+      "word": "编剧赵冬苓发声",
+      "onboard_time": 1717298057,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
       "onboard_time": 1717254199,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234434,
+      "num": 234434,
+      "word": "我梦到高考语文题目了",
+      "onboard_time": 1717294937,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 232577,
@@ -443,12 +491,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 177994,
-      "num": 177994,
-      "word": "我梦到高考语文题目了",
-      "onboard_time": 1717294937,
-      "rank": 29,
-      "category": "幽默"
+      "raw_hot": 176923,
+      "num": 169896,
+      "word": "肖战藏海传杀青海报",
+      "onboard_time": 1717296918,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174902,
+      "num": 174902,
+      "word": "上班太久会让人失去人性",
+      "onboard_time": 1717297142,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 173393,
@@ -531,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151112,
+      "num": 151112,
+      "word": "许嵩曾被妈妈抓包偷玩电脑",
+      "onboard_time": 1717296797,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149231,
       "num": 149231,
       "word": "周杰伦王俊凯合唱",
@@ -595,12 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137252,
+      "num": 137252,
+      "word": "河北一地现白菜房6万能买两室一厅",
+      "onboard_time": 1717297757,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133691,
       "num": 133691,
       "word": "原来真的有人一上班就会吐",
       "onboard_time": 1717288696,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131475,
+      "num": 131475,
+      "word": "梦想的肌肉线条长在了6岁小孩姐身上",
+      "onboard_time": 1717295417,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 127301,
@@ -641,14 +721,6 @@
       "onboard_time": 1717241417,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122448,
-      "num": 122448,
-      "word": "梦想的肌肉线条长在了6岁小孩姐身上",
-      "onboard_time": 1717295417,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 121046,
@@ -827,6 +899,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93699,
+      "num": 93699,
+      "word": "张艺兴LAUV出演首尔Jazz音乐节",
+      "onboard_time": 1717296497,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 92396,
+      "num": 234863,
+      "word": "麦门的风还是吹到了时尚圈",
+      "onboard_time": 1717295118,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 91747,
+      "num": 331371,
+      "word": "把牛奶当水喝能长高吗",
+      "onboard_time": 1717297217,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "安切洛蒂水平",
@@ -899,6 +995,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 77201,
+      "num": 236358,
+      "word": "月球表面最大最深最古老的盆地",
+      "onboard_time": 1717298120,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74389,
       "num": 74389,
       "word": "上班和上学到底哪个更累",
@@ -907,20 +1011,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71745,
+      "num": 333001,
+      "word": "嫦娥六号准备月背挖宝",
+      "onboard_time": 1717296617,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70824,
       "num": 70824,
       "word": "郑钦文无缘法网16强",
       "onboard_time": 1717264934,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70239,
-      "num": 226585,
-      "word": "麦门的风还是吹到了时尚圈",
-      "onboard_time": 1717295118,
-      "rank": 27,
-      "category": "时尚"
     },
     {
       "raw_hot": 69196,
@@ -1104,6 +1208,14 @@
       "word": "校长六一表演唱跳连劈两个叉",
       "onboard_time": 1717260976,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12867,
+      "num": 1064058,
+      "word": "文化遗址里的中国故事",
+      "onboard_time": 1717298238,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

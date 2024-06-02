@@ -1,0 +1,410 @@
+{
+  "runTime": 1717298487362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1950474,
+        "num": 1950474,
+        "word": "贾玲Prada",
+        "onboard_time": 1717292896,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1120257,
+        "num": 1120257,
+        "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
+        "onboard_time": 1717292896,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12867,
+        "num": 1064058,
+        "word": "文化遗址里的中国故事",
+        "onboard_time": 1717298238,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012905,
+        "num": 1012905,
+        "word": "藏海传全阵容官宣",
+        "onboard_time": 1717294457,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 653943,
+        "num": 653943,
+        "word": "端午真争气生在了周一",
+        "onboard_time": 1717284254,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349310,
+        "num": 349310,
+        "word": "国家医保局约谈一心堂",
+        "onboard_time": 1717296857,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337774,
+        "num": 337774,
+        "word": "女生将没吃的菜低价推销给隔壁桌",
+        "onboard_time": 1717283293,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334202,
+        "num": 334202,
+        "word": "Prada选对人了",
+        "onboard_time": 1717293317,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71745,
+        "num": 333001,
+        "word": "嫦娥六号准备月背挖宝",
+        "onboard_time": 1717296617,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91747,
+        "num": 331371,
+        "word": "把牛奶当水喝能长高吗",
+        "onboard_time": 1717297217,
+        "rank": 9,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 826843,
+        "num": 328272,
+        "word": "一栗小莎子官宣生子",
+        "onboard_time": 1717295297,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 607407,
+        "num": 325762,
+        "word": "米卡 忘了我是外国人",
+        "onboard_time": 1717293377,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523683,
+        "num": 323772,
+        "word": "贾玲深V黑裙",
+        "onboard_time": 1717296978,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 323130,
+        "num": 323130,
+        "word": "为什么大脑删除了3岁前的记忆",
+        "onboard_time": 1717251079,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 295797,
+        "num": 295797,
+        "word": "健身一年花了两万多",
+        "onboard_time": 1717285635,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 269171,
+        "num": 269171,
+        "word": "张若昀李沁再拍部剧吧",
+        "onboard_time": 1717292535,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261292,
+        "num": 261292,
+        "word": "冰淇淋重回5元时代",
+        "onboard_time": 1717296676,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 250287,
+        "num": 250287,
+        "word": "为什么有的人一天只睡4小时也很精神",
+        "onboard_time": 1717289656,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 247300,
+        "num": 247300,
+        "word": "编剧赵冬苓发声",
+        "onboard_time": 1717298057,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77201,
+        "num": 236358,
+        "word": "月球表面最大最深最古老的盆地",
+        "onboard_time": 1717298120,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92396,
+        "num": 234863,
+        "word": "麦门的风还是吹到了时尚圈",
+        "onboard_time": 1717295118,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 628509,
+        "num": 234683,
+        "word": "不要觉得谈了五六年分手可惜",
+        "onboard_time": 1717297338,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234434,
+        "num": 234434,
+        "word": "我梦到高考语文题目了",
+        "onboard_time": 1717294937,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221891,
+        "num": 221891,
+        "word": "巴勒斯坦儿童",
+        "onboard_time": 1717291276,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 210110,
+        "num": 210110,
+        "word": "藏海传",
+        "onboard_time": 1717295177,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174902,
+        "num": 174902,
+        "word": "上班太久会让人失去人性",
+        "onboard_time": 1717297142,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21995,
+        "num": 170370,
+        "word": "不管几岁快乐万岁",
+        "onboard_time": 1717212076,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176923,
+        "num": 169896,
+        "word": "肖战藏海传杀青海报",
+        "onboard_time": 1717296918,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167790,
+        "num": 167790,
+        "word": "王一博探险回来了",
+        "onboard_time": 1717290917,
+        "rank": 28,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 164126,
+        "num": 164126,
+        "word": "表弟暗示我妈给他买电脑",
+        "onboard_time": 1717283353,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152574,
+        "num": 152574,
+        "word": "我把我的工资做成了表情包",
+        "onboard_time": 1717286115,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151112,
+        "num": 151112,
+        "word": "许嵩曾被妈妈抓包偷玩电脑",
+        "onboard_time": 1717296797,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140969,
+        "num": 140969,
+        "word": "印度大选至少19名官员被热死",
+        "onboard_time": 1717253120,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137252,
+        "num": 137252,
+        "word": "河北一地现白菜房6万能买两室一厅",
+        "onboard_time": 1717297757,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134010,
+        "num": 134010,
+        "word": "魏大勋同人 神作",
+        "onboard_time": 1717295537,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131475,
+        "num": 131475,
+        "word": "梦想的肌肉线条长在了6岁小孩姐身上",
+        "onboard_time": 1717295417,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128798,
+        "num": 128798,
+        "word": "滕丛丛 不是长得漂亮就叫演员",
+        "onboard_time": 1717289895,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121847,
+        "num": 121847,
+        "word": "薛之谦演唱会背过身吸氧",
+        "onboard_time": 1717295177,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121590,
+        "num": 121590,
+        "word": "姆巴佩 皇马",
+        "onboard_time": 1717287314,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120276,
+        "num": 120276,
+        "word": "原生家庭差的年轻人觉醒的第一步",
+        "onboard_time": 1717289536,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112379,
+        "num": 112379,
+        "word": "王俊凯小时候的梦我知道",
+        "onboard_time": 1717290676,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110599,
+        "num": 110599,
+        "word": "不法人员在充电宝内安装窃听定位",
+        "onboard_time": 1717289717,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105011,
+        "num": 105011,
+        "word": "周深一切都是最好的安排",
+        "onboard_time": 1717295058,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104512,
+        "num": 104512,
+        "word": "皇马夺得欧冠冠军",
+        "onboard_time": 1717276451,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94585,
+        "num": 94585,
+        "word": "11岁女孩从车流中一把拽回走失女童",
+        "onboard_time": 1717284554,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93699,
+        "num": 93699,
+        "word": "张艺兴LAUV出演首尔Jazz音乐节",
+        "onboard_time": 1717296497,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92868,
+        "num": 92868,
+        "word": "背着善宰跑导演吐槽金惠允外貌",
+        "onboard_time": 1717254799,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92668,
+        "num": 92668,
+        "word": "拥抱金硕珍",
+        "onboard_time": 1717291576,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88464,
+        "num": 88464,
+        "word": "张志磊KO维尔德",
+        "onboard_time": 1717290136,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88135,
+        "num": 88135,
+        "word": "微信聊天最惹人反感的4种行为",
+        "onboard_time": 1717247719,
+        "rank": 49,
+        "category": "互联网,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
