@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717345332220,
+  "endTime": 1717346230751,
   "band_list": [
     {
       "raw_hot": 938535,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 591804,
-      "num": 403094,
+      "num": 432888,
       "word": "吴宣仪忘了放杨超越的照片",
       "onboard_time": 1717340301,
       "rank": 6,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 553053,
-      "num": 398637,
+      "num": 431783,
       "word": "李沁一字告别庆余年",
       "onboard_time": 1717336459,
       "rank": 7,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489750,
+      "num": 196284,
+      "word": "洪竹要说再见了",
+      "onboard_time": 1717344378,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368522,
       "num": 197579,
       "word": "墨雨云间",
@@ -73,14 +81,6 @@
       "onboard_time": 1717339699,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 323130,
-      "num": 196284,
-      "word": "洪竹要说再见了",
-      "onboard_time": 1717344378,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 264632,
@@ -123,7 +123,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203514,
+      "raw_hot": 207201,
       "num": 190398,
       "word": "打开了关闭三年的朋友圈",
       "onboard_time": 1717343718,
@@ -179,20 +179,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154208,
+      "num": 195159,
+      "word": "逆水寒 剑网三",
+      "onboard_time": 1717323678,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153815,
       "num": 153815,
       "word": "迪丽热巴新EP跳舞",
       "onboard_time": 1717337719,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153534,
-      "num": 195159,
-      "word": "逆水寒 剑网三",
-      "onboard_time": 1717323678,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 143776,
@@ -299,7 +299,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99597,
+      "raw_hot": 99716,
       "num": 114096,
       "word": "吴刚说会陪陈萍萍走到终点",
       "onboard_time": 1717329979,
@@ -313,6 +313,14 @@
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96747,
+      "num": 153051,
+      "word": "南宁一教官多次将男孩头按进水里",
+      "onboard_time": 1717345097,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94135,
@@ -347,7 +355,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65974,
+      "raw_hot": 66298,
       "num": 114061,
       "word": "剑网三",
       "onboard_time": 1717333699,
@@ -363,18 +371,18 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 61536,
-      "num": 114038,
-      "word": "南宁一教官多次将男孩头按进水里",
-      "onboard_time": 1717345097,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61508,
       "num": 114017,
       "word": "中国女排0比3意大利女排",
       "onboard_time": 1717332919,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49434,
+      "num": 98146,
+      "word": "孙颖莎4比2陈梦",
+      "onboard_time": 1717334660,
       "rank": 49,
       "category": "体育"
     },
@@ -395,8 +403,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 15659,
-      "num": 183104,
+      "raw_hot": 22094,
+      "num": 189970,
+      "word": "高考前不尝试新运动项目",
+      "onboard_time": 1717340301,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 17855,
+      "num": 457572,
       "word": "千里江山图藏着人间烟火",
       "onboard_time": 1717328719,
       "rank": 25,

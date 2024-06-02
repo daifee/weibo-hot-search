@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717345332220,
+  "endTime": 1717346230751,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -1059,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 489750,
+      "num": 196284,
+      "word": "洪竹要说再见了",
+      "onboard_time": 1717344378,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 489087,
       "num": 489087,
       "word": "苗苗对郑恺一见钟情",
@@ -1920,14 +1928,6 @@
       "word": "李小冉下部戏还是演反派",
       "onboard_time": 1717340120,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 323130,
-      "num": 196284,
-      "word": "洪竹要说再见了",
-      "onboard_time": 1717344378,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -2891,6 +2891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207201,
+      "num": 190398,
+      "word": "打开了关闭三年的朋友圈",
+      "onboard_time": 1717343718,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206963,
       "num": 206963,
       "word": "追风者",
@@ -2977,14 +2985,6 @@
       "onboard_time": 1717224978,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 203514,
-      "num": 190398,
-      "word": "打开了关闭三年的朋友圈",
-      "onboard_time": 1717343718,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 203290,
@@ -5387,6 +5387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96747,
+      "num": 153051,
+      "word": "南宁一教官多次将男孩头按进水里",
+      "onboard_time": 1717345097,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95929,
       "num": 110813,
       "word": "WE对战RNG",
@@ -5809,14 +5817,6 @@
       "onboard_time": 1717214118,
       "rank": 22,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 61536,
-      "num": 114038,
-      "word": "南宁一教官多次将男孩头按进水里",
-      "onboard_time": 1717345097,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60907,
