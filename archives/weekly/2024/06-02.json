@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717425351339,
+  "endTime": 1717428053580,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -233,6 +233,22 @@
       "onboard_time": 1717339040,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1172683,
+      "num": 853436,
+      "word": "朋友圈全开的是什么样的人",
+      "onboard_time": 1717424959,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1171298,
+      "num": 1171298,
+      "word": "数只美股疑似出现行情异常",
+      "onboard_time": 1717426759,
+      "rank": 0,
+      "category": "财经"
     },
     {
       "raw_hot": 1156129,
@@ -481,6 +497,14 @@
       "onboard_time": 1717335499,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 798906,
+      "num": 798906,
+      "word": "巴菲特",
+      "onboard_time": 1717425738,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 794848,
@@ -1195,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465271,
+      "num": 465271,
+      "word": "王星越好帅",
+      "onboard_time": 1717425858,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461737,
       "num": 295120,
       "word": "王亚飞为迪丽热巴化的生日妆",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1717415598,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 449813,
+      "num": 449813,
+      "word": "莎头",
+      "onboard_time": 1717426160,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 447816,
@@ -1843,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 330138,
+      "num": 330138,
+      "word": "战至巅峰",
+      "onboard_time": 1717424420,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 329960,
       "num": 329960,
       "word": "RNG教练",
@@ -1865,6 +1913,14 @@
       "onboard_time": 1717401439,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 325523,
+      "num": 325523,
+      "word": "伯克希尔哈撒韦",
+      "onboard_time": 1717425499,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 324734,
@@ -2089,6 +2145,14 @@
       "onboard_time": 1717300637,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287590,
+      "num": 287590,
+      "word": "孙颖莎赛后发文",
+      "onboard_time": 1717426759,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 286942,
@@ -2355,14 +2419,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 249205,
-      "num": 249205,
-      "word": "战至巅峰",
-      "onboard_time": 1717424420,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 249162,
       "num": 229580,
       "word": "金莎回应孙丞潇开会离席",
@@ -2385,6 +2441,14 @@
       "onboard_time": 1717304477,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245917,
+      "num": 245917,
+      "word": "美股",
+      "onboard_time": 1717426219,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 245545,
@@ -2713,6 +2777,14 @@
       "onboard_time": 1717327697,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216414,
+      "num": 216414,
+      "word": "袁娅维 双截棍",
+      "onboard_time": 1717427599,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 215694,
@@ -3451,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177317,
+      "num": 177317,
+      "word": "以为爸妈只给妹妹买了新玩具车",
+      "onboard_time": 1717425198,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176946,
       "num": 176946,
       "word": "魏姐 爽文女主",
@@ -3699,6 +3779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 166887,
+      "num": 166887,
+      "word": "为什么收拾房间有助于攒钱",
+      "onboard_time": 1717424959,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166569,
       "num": 166569,
       "word": "2024新加坡羽毛球公开赛",
@@ -3819,14 +3907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162265,
-      "num": 162265,
-      "word": "朋友圈全开的是什么样的人",
-      "onboard_time": 1717424959,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161598,
       "num": 161598,
       "word": "庆余年不是张若昀第一次生孩子",
@@ -3931,6 +4011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157788,
+      "num": 157788,
+      "word": "原来风油精还可以这样用",
+      "onboard_time": 1717425499,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 156833,
       "num": 156833,
       "word": "闵塔鲨晒迪丽热巴新高定",
@@ -4011,20 +4099,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154166,
-      "num": 154166,
-      "word": "以为爸妈只给妹妹买了新玩具车",
-      "onboard_time": 1717425198,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152581,
       "num": 180728,
       "word": "WBG对战IG",
       "onboard_time": 1717419018,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151874,
+      "num": 151874,
+      "word": "庆余年剧组群演夸赞张若昀",
+      "onboard_time": 1717426699,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151024,
+      "num": 151024,
+      "word": "三家日本车企高管开记者会道歉",
+      "onboard_time": 1717425379,
+      "rank": 38,
+      "category": "汽车"
     },
     {
       "raw_hot": 149815,
@@ -4283,6 +4379,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 139970,
+      "num": 139970,
+      "word": "樊振东孙颖莎冠军合影",
+      "onboard_time": 1717425738,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139837,
       "num": 139837,
       "word": "宠物离开前真的会满含泪水",
@@ -4379,6 +4483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135915,
+      "num": 135915,
+      "word": "这届实习生显然已经nextlevel了",
+      "onboard_time": 1717427058,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133691,
       "num": 133691,
       "word": "原来真的有人一上班就会吐",
@@ -4393,6 +4505,14 @@
       "onboard_time": 1717370475,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133153,
+      "num": 133153,
+      "word": "印度高温 恒河洗澡",
+      "onboard_time": 1717427719,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132820,
@@ -4521,6 +4641,14 @@
       "onboard_time": 1717326858,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127129,
+      "num": 127129,
+      "word": "胖莎",
+      "onboard_time": 1717427959,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127119,
@@ -4681,6 +4809,14 @@
       "onboard_time": 1717252879,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123846,
+      "num": 123846,
+      "word": "早睡真能解决生活中大部分的问题",
+      "onboard_time": 1717427599,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 123803,
@@ -4963,14 +5099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111997,
-      "num": 111997,
-      "word": "为什么收拾房间有助于攒钱",
-      "onboard_time": 1717424959,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111990,
       "num": 111990,
       "word": "此生要去的100个地方",
@@ -5193,6 +5321,14 @@
       "onboard_time": 1717317197,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104154,
+      "num": 202873,
+      "word": "向为金色麦田上分的他们道一声辛苦",
+      "onboard_time": 1717425979,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102914,
@@ -5899,6 +6035,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 33072,
+      "num": 881944,
+      "word": "航拍视角看三北工程",
+      "onboard_time": 1717427120,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32650,
       "num": 29127,
       "word": "张若昀为每个角色活过",
@@ -5976,6 +6120,14 @@
       "word": "田雨余皑磊直播",
       "onboard_time": 1717423219,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20900,
+      "num": 152128,
+      "word": "田雨说范闲和王启年的心更近了",
+      "onboard_time": 1717426400,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -6091,6 +6243,9 @@
     },
     {
       "word": "#总书记关心的重大文化工程#"
+    },
+    {
+      "word": "#发挥国家战略科技力量作用#"
     }
   ]
 }
