@@ -1,7 +1,15 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717431864899,
+  "endTime": 1717432717207,
   "band_list": [
+    {
+      "raw_hot": 1089979,
+      "num": 1089979,
+      "word": "伊利",
+      "onboard_time": 1717430477,
+      "rank": 0,
+      "category": "财经"
+    },
     {
       "raw_hot": 858506,
       "num": 541284,
@@ -17,14 +25,6 @@
       "onboard_time": 1717427599,
       "rank": 4,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 724089,
-      "num": 724089,
-      "word": "伊利",
-      "onboard_time": 1717430477,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 602368,
@@ -347,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81116,
+      "num": 81116,
+      "word": "浙江两驴友被溪流冲走当地商户发声",
+      "onboard_time": 1717432216,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80587,
       "num": 80587,
       "word": "向为金色麦田上分的他们道一声辛苦",
@@ -379,7 +387,15 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 35551,
+      "raw_hot": 68818,
+      "num": 68818,
+      "word": "乘风之夜组队选曲征集",
+      "onboard_time": 1717432515,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 64985,
       "num": 255871,
       "word": "国乒又双叒包揽冠亚军了",
       "onboard_time": 1717429938,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 25029,
-      "num": 105640,
+      "num": 295640,
       "word": "中国人把浪漫星空定格在了瓷器上",
       "onboard_time": 1717431796,
       "rank": 29,
