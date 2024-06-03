@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717403840395,
+  "endTime": 1717406450082,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -155,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1273121,
+      "num": 401906,
+      "word": "弟弟离高考只有三天手筋断了一根",
+      "onboard_time": 1717403958,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1220726,
       "num": 388045,
       "word": "男子假扮道士性侵留守儿童致其怀孕",
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963797,
+      "num": 963797,
+      "word": "女科学家把3cm鱼骨切了500多片",
+      "onboard_time": 1717403419,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 943059,
       "num": 943059,
       "word": "霸刀",
@@ -329,6 +345,14 @@
       "onboard_time": 1717377438,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 865090,
+      "num": 865090,
+      "word": "张继科被前合作品牌方起诉",
+      "onboard_time": 1717402639,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 861267,
@@ -619,14 +643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 622491,
-      "num": 318787,
-      "word": "张继科被前合作品牌方起诉",
-      "onboard_time": 1717402639,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 620512,
       "num": 446530,
       "word": "片方报奖白玉兰不会按番位选",
@@ -899,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 487925,
+      "num": 487925,
+      "word": "全球男性HPV感染率高于女性",
+      "onboard_time": 1717404138,
+      "rank": 5,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 485240,
       "num": 308724,
       "word": "编剧赵冬苓发声",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1717242616,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453126,
+      "num": 453126,
+      "word": "高圆圆 我gap比上班多",
+      "onboard_time": 1717405219,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 447816,
@@ -1323,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384506,
+      "num": 384506,
+      "word": "原来衣服220g说的不是重量",
+      "onboard_time": 1717403839,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 383839,
       "num": 330475,
       "word": "张若昀回应有蛀牙",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1717335739,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336571,
+      "num": 185419,
+      "word": "同事说领导是大专生干不成事情正常",
+      "onboard_time": 1717405219,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 335624,
@@ -1819,12 +1867,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 277618,
+      "num": 226865,
+      "word": "女子偷偷自己攒钱买房后被父母阴阳",
+      "onboard_time": 1717405158,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277125,
+      "num": 277125,
+      "word": "易烊千玺压腿旧照",
+      "onboard_time": 1717404558,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275870,
       "num": 275870,
       "word": "朱婷就发了个球",
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273844,
+      "num": 273844,
+      "word": "陈丽君 投票",
+      "onboard_time": 1717405699,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 272492,
@@ -1939,12 +2011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253741,
-      "num": 211671,
-      "word": "女科学家把3cm鱼骨切了500多片",
-      "onboard_time": 1717403419,
+      "raw_hot": 254742,
+      "num": 254742,
+      "word": "墨雨云间 嫡嫁千金",
+      "onboard_time": 1717400419,
       "rank": 22,
-      "category": "科学科普"
+      "category": "剧集"
     },
     {
       "raw_hot": 253078,
@@ -1969,14 +2041,6 @@
       "onboard_time": 1717373059,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250545,
-      "num": 246083,
-      "word": "墨雨云间 嫡嫁千金",
-      "onboard_time": 1717400419,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 250267,
@@ -2395,6 +2459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207302,
+      "num": 192360,
+      "word": "迪丽热巴全新EP造型",
+      "onboard_time": 1717406358,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206963,
       "num": 206963,
       "word": "追风者",
@@ -2449,6 +2521,14 @@
       "onboard_time": 1717297217,
       "rank": 9,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 201968,
+      "num": 201968,
+      "word": "蔡徐坤转场变装",
+      "onboard_time": 1717405459,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 201816,
@@ -2579,6 +2659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 196215,
+      "num": 196215,
+      "word": "阮经天 人光是活着就很努力了",
+      "onboard_time": 1717405339,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196153,
       "num": 196153,
       "word": "Twins宣传吴谨言新剧",
@@ -2697,6 +2785,14 @@
       "onboard_time": 1717331358,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190686,
+      "num": 183938,
+      "word": "JDG官宣早点",
+      "onboard_time": 1717403718,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 190142,
@@ -2921,6 +3017,14 @@
       "onboard_time": 1717403180,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173453,
+      "num": 173453,
+      "word": "防水猫洗了半天还是干的",
+      "onboard_time": 1717403839,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 173431,
@@ -3411,6 +3515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146915,
+      "num": 146915,
+      "word": "祝绪丹白发公主切",
+      "onboard_time": 1717403599,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146737,
       "num": 146737,
       "word": "你是五条误啊",
@@ -3537,6 +3649,14 @@
       "onboard_time": 1717298120,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140294,
+      "num": 212221,
+      "word": "2000多年前治风湿的药方今天还能用",
+      "onboard_time": 1717403658,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 139837,
@@ -3787,14 +3907,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 125977,
-      "num": 125977,
-      "word": "JDG官宣早点",
-      "onboard_time": 1717403718,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 125680,
       "num": 125680,
       "word": "李健演唱会",
@@ -3808,6 +3920,14 @@
       "word": "羡慕成都的毕业生",
       "onboard_time": 1717318938,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125207,
+      "num": 125207,
+      "word": "奶爸把福宝内舍打扫得一尘不染",
+      "onboard_time": 1717405579,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -3833,6 +3953,14 @@
       "onboard_time": 1717310178,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124574,
+      "num": 124574,
+      "word": "印度现近50度高温连蚊子都消失",
+      "onboard_time": 1717406358,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124459,
@@ -3883,14 +4011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123305,
-      "num": 123305,
-      "word": "祝绪丹白发公主切",
-      "onboard_time": 1717403599,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122707,
       "num": 122707,
       "word": "民警身中15刀仍紧追歹徒不放",
@@ -3913,6 +4033,14 @@
       "onboard_time": 1717251679,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119760,
+      "num": 119760,
+      "word": "全球现象级小说作者为中国大熊猫写书",
+      "onboard_time": 1717406420,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 119613,
@@ -4619,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58969,
+      "num": 402436,
+      "word": "53岁阿姨开网约车16小时在路上",
+      "onboard_time": 1717405939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56702,
       "num": 296819,
       "word": "村民偶遇熊猫激动切换拍摄模式",
@@ -4627,8 +4763,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53277,
-      "num": 733730,
+      "raw_hot": 54201,
+      "num": 886364,
       "word": "升格视频诠释嫦娥奔月之美",
       "onboard_time": 1717402099,
       "rank": 2,
@@ -4707,20 +4843,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 47600,
+      "num": 226906,
+      "word": "余承东称智界S7女性用户占比近四成",
+      "onboard_time": 1717403899,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45209,
       "num": 45209,
       "word": "克罗斯皇马生涯结束",
       "onboard_time": 1717283353,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43661,
-      "num": 212221,
-      "word": "2000多年前治风湿的药方今天还能用",
-      "onboard_time": 1717403658,
-      "rank": 21,
-      "category": "科学科普"
     },
     {
       "raw_hot": 43020,
