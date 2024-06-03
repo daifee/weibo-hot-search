@@ -1,0 +1,410 @@
+{
+  "runTime": 1717439201600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 143853,
+        "num": 143853,
+        "word": "巴菲特",
+        "onboard_time": 1717425738,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117866,
+        "num": 117866,
+        "word": "吴谨言演技",
+        "onboard_time": 1717418238,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10504,
+        "num": 100702,
+        "word": "航拍视角看三北工程",
+        "onboard_time": 1717427120,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248840,
+        "num": 100486,
+        "word": "早睡真能解决生活中大部分的问题",
+        "onboard_time": 1717427599,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 98842,
+        "num": 98842,
+        "word": "秦岚觉得结了婚就不要离婚",
+        "onboard_time": 1717420338,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76355,
+        "num": 76355,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73075,
+        "num": 73075,
+        "word": "王星越好帅",
+        "onboard_time": 1717425858,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58216,
+        "num": 58216,
+        "word": "叶轻眉 大女主",
+        "onboard_time": 1717414938,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58109,
+        "num": 58109,
+        "word": "才知道微信可以锁屏录音",
+        "onboard_time": 1717411697,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 6537,
+        "num": 58086,
+        "word": "这份菜谱满满都是对高考生的爱",
+        "onboard_time": 1717437373,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187384,
+        "num": 57681,
+        "word": "丁真自曝刚上岛跟不上节奏",
+        "onboard_time": 1717437193,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137390,
+        "num": 57036,
+        "word": "姆巴佩未入选奥运名单",
+        "onboard_time": 1717435872,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99877,
+        "num": 57006,
+        "word": "浙江两驴友被溪流冲走当地商户发声",
+        "onboard_time": 1717432216,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56674,
+        "num": 56674,
+        "word": "海清曝温峥嵘把大学宿舍烧了",
+        "onboard_time": 1717437552,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54460,
+        "num": 54460,
+        "word": "樊振东男单冠军",
+        "onboard_time": 1717422559,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54095,
+        "num": 54095,
+        "word": "毒液3直到死亡将他们分开",
+        "onboard_time": 1717424301,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49411,
+        "num": 49411,
+        "word": "袁娅维 双截棍",
+        "onboard_time": 1717427599,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45973,
+        "num": 45973,
+        "word": "樊振东4比3战胜王楚钦",
+        "onboard_time": 1717422500,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42280,
+        "num": 42280,
+        "word": "数只美股疑似出现行情异常",
+        "onboard_time": 1717426759,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38897,
+        "num": 38897,
+        "word": "孙颖莎赛后发文",
+        "onboard_time": 1717426759,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39874,
+        "num": 38317,
+        "word": "18岁长女高考后妈生3胎弟弟",
+        "onboard_time": 1717436353,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39186,
+        "num": 37737,
+        "word": "迪丽热巴 TopGirl",
+        "onboard_time": 1717435453,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35986,
+        "num": 35986,
+        "word": "知道为什么洪世贤认不出品如了",
+        "onboard_time": 1717413857,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35696,
+        "num": 35696,
+        "word": "婚房装成这样结婚更难了",
+        "onboard_time": 1717420578,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34992,
+        "num": 34992,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1717414337,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32343,
+        "num": 32343,
+        "word": "王楚钦 脚踝",
+        "onboard_time": 1717423699,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30858,
+        "num": 30858,
+        "word": "陈泽直播",
+        "onboard_time": 1717434074,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 30766,
+        "num": 30766,
+        "word": "印度高温 恒河洗澡",
+        "onboard_time": 1717427719,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30633,
+        "num": 30633,
+        "word": "为什么收拾房间有助于攒钱",
+        "onboard_time": 1717424959,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29005,
+        "num": 29005,
+        "word": "孙颖莎女单夺冠",
+        "onboard_time": 1717416618,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84413,
+        "num": 28979,
+        "word": "夏天手上长巨痒小水泡怎么办",
+        "onboard_time": 1717429877,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49679,
+        "num": 28842,
+        "word": "陈泽抽奖",
+        "onboard_time": 1717433415,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 31894,
+        "num": 28838,
+        "word": "这个家没有王栎鑫得散",
+        "onboard_time": 1717433055,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28649,
+        "num": 28649,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1717417338,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27991,
+        "num": 27991,
+        "word": "于正 选角",
+        "onboard_time": 1717411697,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26258,
+        "num": 26258,
+        "word": "蔡徐坤染了银发梦回偶练",
+        "onboard_time": 1717408220,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26103,
+        "num": 26103,
+        "word": "千金府直播",
+        "onboard_time": 1717437852,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 25938,
+        "num": 25938,
+        "word": "乘风之夜组队选曲征集",
+        "onboard_time": 1717432515,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25363,
+        "num": 25363,
+        "word": "首饰金价重回5字头",
+        "onboard_time": 1717418478,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25281,
+        "num": 25281,
+        "word": "戚薇录乘风十天没理李承铉",
+        "onboard_time": 1717413318,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23744,
+        "num": 25280,
+        "word": "鞠婧祎背沟好深",
+        "onboard_time": 1717412538,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22218,
+        "num": 25279,
+        "word": "以为爸妈只给妹妹买了新玩具车",
+        "onboard_time": 1717425198,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21397,
+        "num": 25278,
+        "word": "周深A起来了",
+        "onboard_time": 1717428079,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20870,
+        "num": 25277,
+        "word": "战至巅峰",
+        "onboard_time": 1717424420,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20801,
+        "num": 25277,
+        "word": "樊振东说更在意王楚钦伤势",
+        "onboard_time": 1717424239,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20789,
+        "num": 25276,
+        "word": "三家日本车企高管开记者会道歉",
+        "onboard_time": 1717425379,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18405,
+        "num": 25274,
+        "word": "胖莎",
+        "onboard_time": 1717427959,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18386,
+        "num": 25274,
+        "word": "孙颖莎说和王曼昱都是胜利者",
+        "onboard_time": 1717423820,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18141,
+        "num": 25273,
+        "word": "伯克希尔哈撒韦",
+        "onboard_time": 1717425499,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17547,
+        "num": 25272,
+        "word": "迪丽热巴叼花镜头",
+        "onboard_time": 1717418658,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国工程院建院30周年#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717436074648,
+  "endTime": 1717439201600,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -3387,6 +3387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187384,
+      "num": 57681,
+      "word": "丁真自曝刚上岛跟不上节奏",
+      "onboard_time": 1717437193,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187295,
       "num": 187295,
       "word": "内娱有自己的全在俊",
@@ -4521,6 +4529,14 @@
       "onboard_time": 1717326318,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137390,
+      "num": 57036,
+      "word": "姆巴佩未入选奥运名单",
+      "onboard_time": 1717435872,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 137006,
@@ -5875,6 +5891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56674,
+      "num": 56674,
+      "word": "海清曝温峥嵘把大学宿舍烧了",
+      "onboard_time": 1717437552,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56334,
       "num": 448372,
       "word": "145天救助后鲸鱼海棠重回大海",
@@ -5995,14 +6019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43965,
-      "num": 43965,
-      "word": "姆巴佩未入选奥运名单",
-      "onboard_time": 1717435872,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 43639,
       "num": 459777,
       "word": "男生把夏日色彩拼成一只孔雀",
@@ -6072,6 +6088,14 @@
       "word": "当一辈子的沃尔玛推车工可以吗",
       "onboard_time": 1717279632,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 39874,
+      "num": 38317,
+      "word": "18岁长女高考后妈生3胎弟弟",
+      "onboard_time": 1717436353,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -6227,6 +6251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26103,
+      "num": 26103,
+      "word": "千金府直播",
+      "onboard_time": 1717437852,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 25029,
       "num": 295640,
       "word": "中国人把浪漫星空定格在了瓷器上",
@@ -6369,6 +6401,14 @@
       "onboard_time": 1717264694,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6537,
+      "num": 58086,
+      "word": "这份菜谱满满都是对高考生的爱",
+      "onboard_time": 1717437373,
+      "rank": 9,
+      "category": "教育"
     }
   ],
   "hotgov_list": [
