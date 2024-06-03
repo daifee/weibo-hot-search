@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717419091153,
+  "endTime": 1717420926155,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -83,6 +83,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1134080,
+      "num": 1134080,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1717414337,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1077396,
       "num": 500010,
       "word": "以色列",
@@ -121,14 +129,6 @@
       "onboard_time": 1717403419,
       "rank": 22,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 941598,
-      "num": 941598,
-      "word": "王楚钦vs樊振东",
-      "onboard_time": 1717414337,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 938535,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 857700,
+      "num": 857700,
+      "word": "身中15刀牺牲民警的女儿即将高考",
+      "onboard_time": 1717417757,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852396,
       "num": 852396,
       "word": "泰国人爱上中国的榴莲直播",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752759,
+      "num": 752759,
+      "word": "吴谨言演技",
+      "onboard_time": 1717418238,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 749909,
       "num": 325776,
       "word": "为什么茉酸奶这么贵还不干净",
@@ -259,6 +275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 741905,
+      "num": 741905,
+      "word": "叶轻眉 大女主",
+      "onboard_time": 1717414938,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 736115,
       "num": 736115,
       "word": "天王的爸天后的妈 破碎的家顶流的他",
@@ -273,14 +297,6 @@
       "onboard_time": 1717387880,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 731362,
-      "num": 731362,
-      "word": "叶轻眉 大女主",
-      "onboard_time": 1717414938,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 719619,
@@ -425,6 +441,14 @@
       "onboard_time": 1717404138,
       "rank": 5,
       "category": "健康医疗,社会新闻"
+    },
+    {
+      "raw_hot": 557680,
+      "num": 557680,
+      "word": "首饰金价重回5字头",
+      "onboard_time": 1717418478,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 555388,
@@ -587,20 +611,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 448015,
-      "num": 448015,
-      "word": "吴谨言演技",
-      "onboard_time": 1717418238,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 442245,
-      "num": 442245,
-      "word": "身中15刀牺牲民警的女儿即将高考",
-      "onboard_time": 1717417757,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 451270,
+      "num": 451270,
+      "word": "缺牙齿会惩罚每一个嘴硬的人",
+      "onboard_time": 1717415598,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 439393,
@@ -763,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341303,
+      "num": 341303,
+      "word": "迪丽热巴叼花镜头",
+      "onboard_time": 1717418658,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 338302,
       "num": 197043,
       "word": "李一桐回复金晨",
@@ -851,12 +875,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 295539,
-      "num": 295539,
-      "word": "迪丽热巴叼花镜头",
-      "onboard_time": 1717418658,
-      "rank": 17,
-      "category": "音乐"
+      "raw_hot": 291147,
+      "num": 291147,
+      "word": "王楚钦状态",
+      "onboard_time": 1717420217,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 290950,
@@ -939,6 +963,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 278920,
+      "num": 278920,
+      "word": "93岁默多克迎娶67岁俄裔科学家",
+      "onboard_time": 1717418420,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278175,
       "num": 278175,
       "word": "mbti新题",
@@ -977,6 +1009,14 @@
       "onboard_time": 1717330578,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262745,
+      "num": 262745,
+      "word": "秦岚觉得结了婚就不要离婚",
+      "onboard_time": 1717420338,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 261001,
@@ -1147,14 +1187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220092,
-      "num": 220092,
-      "word": "缺牙齿会惩罚每一个嘴硬的人",
-      "onboard_time": 1717415598,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 218374,
       "num": 218374,
       "word": "JDG教练吕成林",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1717385658,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203197,
+      "num": 203197,
+      "word": "迪丽热巴白色羽毛上衣",
+      "onboard_time": 1717419738,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201968,
@@ -1483,6 +1523,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187094,
+      "num": 145773,
+      "word": "迪丽热巴再跳女团舞",
+      "onboard_time": 1717419499,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 186170,
+      "num": 141055,
+      "word": "婚房装成这样结婚更难了",
+      "onboard_time": 1717420578,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184070,
       "num": 184070,
       "word": "高考时间",
@@ -1497,14 +1553,6 @@
       "onboard_time": 1717406781,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 183508,
-      "num": 183508,
-      "word": "首饰金价重回5字头",
-      "onboard_time": 1717418478,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 182913,
@@ -1803,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158658,
+      "num": 158658,
+      "word": "微博换图标为高考加油",
+      "onboard_time": 1717420518,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 158553,
       "num": 158553,
       "word": "金猪玉叶",
@@ -1867,14 +1923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 152802,
-      "num": 152802,
-      "word": "93岁默多克迎娶67岁俄裔科学家",
-      "onboard_time": 1717418420,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152581,
       "num": 180728,
       "word": "WBG对战IG",
@@ -1921,6 +1969,14 @@
       "onboard_time": 1717409058,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145301,
+      "num": 145301,
+      "word": "鹏鹏百兽重逢WE",
+      "onboard_time": 1717420578,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 143776,
@@ -2057,6 +2113,14 @@
       "onboard_time": 1717337960,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132002,
+      "num": 132002,
+      "word": "Cat回归LPL解说席",
+      "onboard_time": 1717419258,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 130399,
@@ -2235,6 +2299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123245,
+      "num": 123245,
+      "word": "范丞丞当着郑恺的面cue苗苗",
+      "onboard_time": 1717420518,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122707,
       "num": 122707,
       "word": "民警身中15刀仍紧追歹徒不放",
@@ -2363,20 +2435,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111845,
+      "num": 111845,
+      "word": "佘诗曼曾买股票亏了20多万",
+      "onboard_time": 1717417457,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111792,
       "num": 111792,
       "word": "林孝埈做客体坛周报",
       "onboard_time": 1717407559,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111081,
-      "num": 111081,
-      "word": "佘诗曼曾买股票亏了20多万",
-      "onboard_time": 1717417457,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 108853,
@@ -2457,6 +2529,14 @@
       "onboard_time": 1717328418,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 91633,
+      "num": 91633,
+      "word": "小夜退役",
+      "onboard_time": 1717420879,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 83883,
@@ -2667,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49161,
+      "num": 457228,
+      "word": "共享单车儿童座椅有多危险",
+      "onboard_time": 1717419619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49155,
       "num": 49155,
       "word": "泫雅把音乐节玩成泼水节",
@@ -2732,7 +2820,7 @@
     },
     {
       "raw_hot": 30473,
-      "num": 800503,
+      "num": 861247,
       "word": "中国首个重载铁路加氢站",
       "onboard_time": 1717401620,
       "rank": 2,

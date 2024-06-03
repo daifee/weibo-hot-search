@@ -1,0 +1,410 @@
+{
+  "runTime": 1717420926155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1146795,
+        "num": 1146795,
+        "word": "才知道微信可以锁屏录音",
+        "onboard_time": 1717411697,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1134080,
+        "num": 1134080,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1717414337,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26245,
+        "num": 861247,
+        "word": "中国首个重载铁路加氢站",
+        "onboard_time": 1717401620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857700,
+        "num": 857700,
+        "word": "身中15刀牺牲民警的女儿即将高考",
+        "onboard_time": 1717417757,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752759,
+        "num": 752759,
+        "word": "吴谨言演技",
+        "onboard_time": 1717418238,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 741905,
+        "num": 741905,
+        "word": "叶轻眉 大女主",
+        "onboard_time": 1717414938,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590492,
+        "num": 590492,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557680,
+        "num": 557680,
+        "word": "首饰金价重回5字头",
+        "onboard_time": 1717418478,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 463688,
+        "num": 463688,
+        "word": "外交部回应靖国神社石柱被涂鸦",
+        "onboard_time": 1717411817,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 49161,
+        "num": 457228,
+        "word": "共享单车儿童座椅有多危险",
+        "onboard_time": 1717419619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451270,
+        "num": 451270,
+        "word": "缺牙齿会惩罚每一个嘴硬的人",
+        "onboard_time": 1717415598,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 424884,
+        "num": 424884,
+        "word": "戚薇录乘风十天没理李承铉",
+        "onboard_time": 1717413318,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341303,
+        "num": 341303,
+        "word": "迪丽热巴叼花镜头",
+        "onboard_time": 1717418658,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 310260,
+        "num": 310260,
+        "word": "孙颖莎女单夺冠",
+        "onboard_time": 1717416618,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297319,
+        "num": 297319,
+        "word": "知道为什么洪世贤认不出品如了",
+        "onboard_time": 1717413857,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291147,
+        "num": 291147,
+        "word": "王楚钦状态",
+        "onboard_time": 1717420217,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278920,
+        "num": 278920,
+        "word": "93岁默多克迎娶67岁俄裔科学家",
+        "onboard_time": 1717418420,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273001,
+        "num": 273001,
+        "word": "蔡徐坤染了银发梦回偶练",
+        "onboard_time": 1717408220,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 262745,
+        "num": 262745,
+        "word": "秦岚觉得结了婚就不要离婚",
+        "onboard_time": 1717420338,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222674,
+        "num": 222674,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1717417338,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293436,
+        "num": 216584,
+        "word": "鞠婧祎背沟好深",
+        "onboard_time": 1717412538,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203197,
+        "num": 203197,
+        "word": "迪丽热巴白色羽毛上衣",
+        "onboard_time": 1717419738,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171569,
+        "num": 171569,
+        "word": "于正 选角",
+        "onboard_time": 1717411697,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158658,
+        "num": 158658,
+        "word": "微博换图标为高考加油",
+        "onboard_time": 1717420518,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 149649,
+        "num": 149649,
+        "word": "女科学家把3cm鱼骨切了500多片",
+        "onboard_time": 1717403419,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 145990,
+        "num": 145990,
+        "word": "张小斐 蜕变",
+        "onboard_time": 1717416979,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187094,
+        "num": 145773,
+        "word": "迪丽热巴再跳女团舞",
+        "onboard_time": 1717419499,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145301,
+        "num": 145301,
+        "word": "鹏鹏百兽重逢WE",
+        "onboard_time": 1717420578,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144812,
+        "num": 144812,
+        "word": "印度现近50度高温连蚊子都消失",
+        "onboard_time": 1717406358,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142766,
+        "num": 142766,
+        "word": "孙颖莎 正手",
+        "onboard_time": 1717416679,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186170,
+        "num": 141055,
+        "word": "婚房装成这样结婚更难了",
+        "onboard_time": 1717420578,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137484,
+        "num": 137484,
+        "word": "原神艾梅莉埃",
+        "onboard_time": 1717411639,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133552,
+        "num": 133552,
+        "word": "原来衣服220g说的不是重量",
+        "onboard_time": 1717403839,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132002,
+        "num": 132002,
+        "word": "Cat回归LPL解说席",
+        "onboard_time": 1717419258,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128270,
+        "num": 128270,
+        "word": "秦岚素颜好顶",
+        "onboard_time": 1717408158,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125744,
+        "num": 125744,
+        "word": "舒淇 原生家庭",
+        "onboard_time": 1717415478,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124918,
+        "num": 124918,
+        "word": "河南漯河一轿车与火车相撞",
+        "onboard_time": 1717415598,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 123245,
+        "num": 123245,
+        "word": "范丞丞当着郑恺的面cue苗苗",
+        "onboard_time": 1717420518,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121431,
+        "num": 121431,
+        "word": "WTT",
+        "onboard_time": 1717418776,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114536,
+        "num": 114536,
+        "word": "陈丽君 投票",
+        "onboard_time": 1717405699,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23446,
+        "num": 112440,
+        "word": "深蓝汽车找网友借流量宠粉",
+        "onboard_time": 1717415658,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111845,
+        "num": 111845,
+        "word": "佘诗曼曾买股票亏了20多万",
+        "onboard_time": 1717417457,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106566,
+        "num": 106566,
+        "word": "商户卖假牛肉被揭穿后摔相机",
+        "onboard_time": 1717412419,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103630,
+        "num": 103630,
+        "word": "嫦娥六号在月球发了第一条微博",
+        "onboard_time": 1717415299,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102977,
+        "num": 102977,
+        "word": "田雨的减肥秘籍是远离张若昀",
+        "onboard_time": 1717414697,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102331,
+        "num": 102331,
+        "word": "母女都装软妹只有活爹受罪",
+        "onboard_time": 1717412419,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101400,
+        "num": 101400,
+        "word": "王源广州抢票",
+        "onboard_time": 1717416198,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99305,
+        "num": 99305,
+        "word": "墨雨云间 嫡嫁千金",
+        "onboard_time": 1717400419,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94249,
+        "num": 94249,
+        "word": "全世界的人都在用一生治愈童年",
+        "onboard_time": 1717418478,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91633,
+        "num": 91633,
+        "word": "小夜退役",
+        "onboard_time": 1717420879,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}
