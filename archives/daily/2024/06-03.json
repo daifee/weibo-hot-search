@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717392955427,
+  "endTime": 1717395999586,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -41,6 +41,14 @@
       "onboard_time": 1717375998,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1521548,
+      "num": 1521548,
+      "word": "我国取消无偿赠送大熊猫已40多年",
+      "onboard_time": 1717395378,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1375159,
@@ -147,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 766313,
+      "num": 766313,
+      "word": "浙江2名游客横渡溪流被冲走",
+      "onboard_time": 1717389982,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 749909,
       "num": 325776,
       "word": "为什么茉酸奶这么贵还不干净",
@@ -156,11 +172,19 @@
     },
     {
       "raw_hot": 735032,
-      "num": 426230,
+      "num": 525841,
       "word": "最后的椰子鞋上市已无消费者排队等待",
       "onboard_time": 1717387880,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 720129,
+      "num": 720129,
+      "word": "天王的爸天后的妈 破碎的家顶流的他",
+      "onboard_time": 1717391840,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 719619,
@@ -219,14 +243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 576410,
-      "num": 576410,
-      "word": "浙江2名游客横渡溪流被冲走",
-      "onboard_time": 1717389982,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 575186,
       "num": 455829,
       "word": "长期化妆产生的粉尘会导致肺结节吗",
@@ -265,6 +281,14 @@
       "onboard_time": 1717389202,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 544736,
+      "num": 544736,
+      "word": "张凌赫对迪丽热巴的印象反差",
+      "onboard_time": 1717394598,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 537019,
@@ -315,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495342,
+      "num": 495342,
+      "word": "周星驰短剧上线一小时播放量破百万",
+      "onboard_time": 1717393638,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461737,
       "num": 295120,
       "word": "王亚飞为迪丽热巴化的生日妆",
@@ -331,6 +363,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 437342,
+      "num": 307218,
+      "word": "高考为什么会在六月的七八号",
+      "onboard_time": 1717389802,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 434783,
       "num": 298161,
       "word": "刘诗诗 BobbiBrown",
@@ -339,12 +379,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426917,
+      "num": 426917,
+      "word": "李蠕蠕 听说我上歌手了",
+      "onboard_time": 1717392558,
+      "rank": 32,
+      "category": "网红,作品衍生"
+    },
+    {
       "raw_hot": 417978,
       "num": 417978,
       "word": "张婧仪 古早TVB味儿",
       "onboard_time": 1717373838,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394396,
+      "num": 394396,
+      "word": "韩国将停止919军事协议的效力",
+      "onboard_time": 1717395018,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 386015,
@@ -371,28 +427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368155,
-      "num": 368155,
-      "word": "天王的爸天后的妈 破碎的家顶流的他",
-      "onboard_time": 1717391840,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 351659,
       "num": 248090,
       "word": "女子千元快递放门口被当垃圾丢了",
       "onboard_time": 1717378638,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347110,
-      "num": 307218,
-      "word": "高考为什么会在六月的七八号",
-      "onboard_time": 1717389802,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 338302,
@@ -427,6 +467,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 312567,
+      "num": 204236,
+      "word": "丁程鑫刘耀文日本路透",
+      "onboard_time": 1717395438,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 310794,
+      "num": 203826,
+      "word": "JOY表达对SM不满",
+      "onboard_time": 1717393939,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 305623,
+      "num": 203194,
+      "word": "年轻人结婚要仪式感也要性价比",
+      "onboard_time": 1717395018,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304041,
       "num": 304041,
       "word": "原神",
@@ -441,6 +505,14 @@
       "onboard_time": 1717381638,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290950,
+      "num": 202857,
+      "word": "赵丽颖看剧本照",
+      "onboard_time": 1717393758,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 290800,
@@ -507,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255072,
+      "num": 202682,
+      "word": "何浩楠 十个勤天监事一职被保留",
+      "onboard_time": 1717394058,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251464,
       "num": 251464,
       "word": "南昌警方通报金店抢劫案",
@@ -521,6 +601,14 @@
       "onboard_time": 1717335019,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250267,
+      "num": 250267,
+      "word": "魔卡少女樱 小樱初设形象",
+      "onboard_time": 1717392139,
+      "rank": 26,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 249624,
@@ -577,14 +665,6 @@
       "onboard_time": 1717334360,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 231979,
-      "num": 231979,
-      "word": "魔卡少女樱 小樱初设形象",
-      "onboard_time": 1717392139,
-      "rank": 26,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 228841,
@@ -659,6 +739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201642,
+      "num": 201642,
+      "word": "乘风2024",
+      "onboard_time": 1717393098,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201424,
       "num": 201424,
       "word": "张杰超大声的我爱你",
@@ -673,6 +761,14 @@
       "onboard_time": 1717389202,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198474,
+      "num": 198474,
+      "word": "奔跑吧录制现场直击",
+      "onboard_time": 1717393460,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 197842,
@@ -707,12 +803,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196409,
-      "num": 196409,
-      "word": "李蠕蠕 听说我上歌手了",
-      "onboard_time": 1717392558,
-      "rank": 32,
-      "category": "网红,作品衍生"
+      "raw_hot": 194508,
+      "num": 194508,
+      "word": "看手就知道身体虚不虚",
+      "onboard_time": 1717395438,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193680,
@@ -747,6 +843,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187295,
+      "num": 187295,
+      "word": "内娱有自己的全在俊",
+      "onboard_time": 1717393278,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187028,
+      "num": 187028,
+      "word": "傅首尔 带资都没能进组",
+      "onboard_time": 1717394837,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184070,
       "num": 184070,
       "word": "高考时间",
@@ -777,6 +889,14 @@
       "onboard_time": 1717389921,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175675,
+      "num": 175675,
+      "word": "龚俊说不要舞到正主面前",
+      "onboard_time": 1717395558,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 174712,
@@ -841,6 +961,14 @@
       "onboard_time": 1717389140,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168230,
+      "num": 168230,
+      "word": "黄子弘凡肚子 看啥呢",
+      "onboard_time": 1717393697,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 167968,
@@ -923,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158553,
+      "num": 158553,
+      "word": "金猪玉叶",
+      "onboard_time": 1717394537,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158453,
       "num": 158453,
       "word": "小猫真的很洁癖",
@@ -1001,6 +1137,14 @@
       "onboard_time": 1717391360,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141191,
+      "num": 141191,
+      "word": "蔡徐坤单曲预告",
+      "onboard_time": 1717395979,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 139218,
@@ -1083,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129559,
+      "num": 129559,
+      "word": "墨雨云间破优酷首日记录",
+      "onboard_time": 1717394898,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129012,
       "num": 129012,
       "word": "7个信号说明你可能真的老了",
@@ -1139,6 +1291,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124459,
+      "num": 124459,
+      "word": "台州石人峡户外事故都犯了哪些错",
+      "onboard_time": 1717395318,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124245,
+      "num": 124245,
+      "word": "白鹿跑男学院风连衣裙",
+      "onboard_time": 1717393758,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123803,
       "num": 123803,
       "word": "减肥主食分为3个黄金等级",
@@ -1160,6 +1328,14 @@
       "word": "民警身中15刀仍紧追歹徒不放",
       "onboard_time": 1717375818,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121928,
+      "num": 121928,
+      "word": "男子用私密视频威胁前女友被刑拘",
+      "onboard_time": 1717395979,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1379,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57843,
+      "num": 1002525,
+      "word": "月面软着陆背后的发动机奥秘",
+      "onboard_time": 1717391420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56777,
       "num": 56777,
       "word": "背锅的爸偷情的老公破碎的她",
@@ -1435,6 +1619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42588,
+      "num": 432735,
+      "word": "张桂梅生日",
+      "onboard_time": 1717394598,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41408,
       "num": 41408,
       "word": "芹菜叶子到底要不要吃",
@@ -1464,14 +1656,6 @@
       "word": "三夏时节农田里的动画片",
       "onboard_time": 1717390401,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33793,
-      "num": 615533,
-      "word": "月面软着陆背后的发动机奥秘",
-      "onboard_time": 1717391420,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
