@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717399095322,
+  "endTime": 1717400078848,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -435,6 +435,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 993812,
+      "num": 743574,
+      "word": "男子用私密视频威胁前女友被刑拘",
+      "onboard_time": 1717395979,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 968702,
       "num": 298277,
       "word": "冰红茶直播",
@@ -449,14 +457,6 @@
       "onboard_time": 1717204217,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 948195,
-      "num": 743574,
-      "word": "男子用私密视频威胁前女友被刑拘",
-      "onboard_time": 1717395979,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 943059,
@@ -753,6 +753,14 @@
       "onboard_time": 1717386800,
       "rank": 20,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 747629,
+      "num": 405387,
+      "word": "科学家确认熬夜损伤大脑",
+      "onboard_time": 1717396397,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 745417,
@@ -1227,6 +1235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 524987,
+      "num": 408726,
+      "word": "艾米才16岁",
+      "onboard_time": 1717397658,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523800,
       "num": 523800,
       "word": "中国女排排名降至亚洲第二",
@@ -1331,14 +1347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 494790,
-      "num": 408726,
-      "word": "艾米才16岁",
-      "onboard_time": 1717397658,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 494636,
       "num": 401947,
       "word": "宁艺卓在综艺上唱heya",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1717293317,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482226,
-      "num": 405387,
-      "word": "科学家确认熬夜损伤大脑",
-      "onboard_time": 1717396397,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 481524,
@@ -1539,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455055,
+      "num": 221765,
+      "word": "朱一龙连续十年给杨蓉庆生",
+      "onboard_time": 1717396518,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447816,
       "num": 447816,
       "word": "多特蒙德vs皇马",
@@ -1585,14 +1593,6 @@
       "onboard_time": 1717375039,
       "rank": 12,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 438847,
-      "num": 221765,
-      "word": "朱一龙连续十年给杨蓉庆生",
-      "onboard_time": 1717396518,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 437342,
@@ -1689,6 +1689,14 @@
       "onboard_time": 1717251679,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420461,
+      "num": 420461,
+      "word": "央视曝光二手空调翻新造假",
+      "onboard_time": 1717396459,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417978,
@@ -2115,6 +2123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 361095,
+      "num": 361095,
+      "word": "戚薇李承铉去了周杰伦演唱会",
+      "onboard_time": 1717398920,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 360971,
       "num": 283410,
       "word": "爸爸去哪儿董力上岛创业",
@@ -2185,14 +2201,6 @@
       "onboard_time": 1717226418,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 347598,
-      "num": 347598,
-      "word": "央视曝光二手空调翻新造假",
-      "onboard_time": 1717396459,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 346876,
@@ -2468,7 +2476,7 @@
     },
     {
       "raw_hot": 310794,
-      "num": 214287,
+      "num": 214450,
       "word": "JOY表达对SM不满",
       "onboard_time": 1717393939,
       "rank": 23,
@@ -2683,6 +2691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286942,
+      "num": 216454,
+      "word": "人们为何逃离健身房转向在家健身",
+      "onboard_time": 1717398019,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 286505,
       "num": 403625,
       "word": "孙颖莎vs早田希娜",
@@ -2889,14 +2905,6 @@
       "onboard_time": 1717340840,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262703,
-      "num": 211305,
-      "word": "人们为何逃离健身房转向在家健身",
-      "onboard_time": 1717398019,
-      "rank": 26,
-      "category": "运动健身"
     },
     {
       "raw_hot": 262198,
@@ -3188,7 +3196,7 @@
     },
     {
       "raw_hot": 234871,
-      "num": 211076,
+      "num": 215395,
       "word": "胡歌分水",
       "onboard_time": 1717396397,
       "rank": 40,
@@ -4003,6 +4011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193304,
+      "num": 193304,
+      "word": "种地星球恢复直播",
+      "onboard_time": 1717398979,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192904,
       "num": 192904,
       "word": "王楚钦3比1林高远",
@@ -4675,6 +4691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165959,
+      "num": 165959,
+      "word": "王者荣耀皮影戏联动",
+      "onboard_time": 1717399399,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165596,
       "num": 165596,
       "word": "张本智和3比1林昀儒",
@@ -4971,14 +4995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158031,
-      "num": 158031,
-      "word": "戚薇李承铉去了周杰伦演唱会",
-      "onboard_time": 1717398920,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 157762,
       "num": 129125,
       "word": "丁程鑫做儿童节帽子",
@@ -5033,6 +5049,14 @@
       "onboard_time": 1717309398,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154757,
+      "num": 154757,
+      "word": "李雅凛涉嫌虐待子女",
+      "onboard_time": 1717399878,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 154571,
@@ -5659,14 +5683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131810,
-      "num": 131810,
-      "word": "种地星球恢复直播",
-      "onboard_time": 1717398979,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131475,
       "num": 205439,
       "word": "梦想的肌肉线条长在了6岁小孩姐身上",
@@ -5937,6 +5953,14 @@
       "onboard_time": 1717228817,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 123307,
+      "num": 123307,
+      "word": "mbti新题",
+      "onboard_time": 1717399818,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 122707,
@@ -7152,6 +7176,14 @@
       "word": "村民偶遇熊猫激动切换拍摄模式",
       "onboard_time": 1717310058,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56481,
+      "num": 416642,
+      "word": "高铁穿过麦田历史纵深感拉满",
+      "onboard_time": 1717399158,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
