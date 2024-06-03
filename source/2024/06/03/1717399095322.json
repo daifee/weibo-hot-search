@@ -1,0 +1,410 @@
+{
+  "runTime": 1717399095322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2599837,
+        "num": 2599837,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933005,
+        "num": 933005,
+        "word": "韩国市长请求中国赠送一对大熊猫",
+        "onboard_time": 1717377378,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 54963,
+        "num": 746544,
+        "word": "月面软着陆背后的发动机奥秘",
+        "onboard_time": 1717391420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 948195,
+        "num": 743574,
+        "word": "男子用私密视频威胁前女友被刑拘",
+        "onboard_time": 1717395979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657349,
+        "num": 657349,
+        "word": "俞敏洪称东方甄选做的乱七八糟",
+        "onboard_time": 1717396579,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 638995,
+        "num": 638995,
+        "word": "那英去摇龚琳娜了",
+        "onboard_time": 1717396338,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 570637,
+        "num": 570637,
+        "word": "天王的爸天后的妈 破碎的家顶流的他",
+        "onboard_time": 1717391840,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 471551,
+        "num": 471551,
+        "word": "韩国将停止919军事协议的效力",
+        "onboard_time": 1717395018,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 416992,
+        "num": 416992,
+        "word": "张凌赫对迪丽热巴的印象反差",
+        "onboard_time": 1717394598,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75899,
+        "num": 413979,
+        "word": "11岁女孩从车流中一把拽回走失女童",
+        "onboard_time": 1717397299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699416,
+        "num": 411623,
+        "word": "杜海涛又又又瘦了",
+        "onboard_time": 1717388359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494790,
+        "num": 408726,
+        "word": "艾米才16岁",
+        "onboard_time": 1717397658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482226,
+        "num": 405387,
+        "word": "科学家确认熬夜损伤大脑",
+        "onboard_time": 1717396397,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404547,
+        "num": 404547,
+        "word": "杨幂叫迪丽热巴BB",
+        "onboard_time": 1717390340,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390369,
+        "num": 390369,
+        "word": "曹格说很需要一个女朋友",
+        "onboard_time": 1717389560,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 367415,
+        "num": 367415,
+        "word": "丁程鑫刘耀文日本路透",
+        "onboard_time": 1717395438,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347598,
+        "num": 347598,
+        "word": "央视曝光二手空调翻新造假",
+        "onboard_time": 1717396459,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260508,
+        "num": 260508,
+        "word": "最后的椰子鞋上市已无消费者排队等待",
+        "onboard_time": 1717387880,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 232809,
+        "num": 232809,
+        "word": "浙江2名游客横渡溪流被冲走",
+        "onboard_time": 1717389982,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223595,
+        "num": 223595,
+        "word": "乌克兰承认巴勒斯坦是一个国家",
+        "onboard_time": 1717376059,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 400114,
+        "num": 221943,
+        "word": "周星驰短剧上线一小时播放量破百万",
+        "onboard_time": 1717393638,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438847,
+        "num": 221765,
+        "word": "朱一龙连续十年给杨蓉庆生",
+        "onboard_time": 1717396518,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335624,
+        "num": 218433,
+        "word": "汪苏泷加场",
+        "onboard_time": 1717397058,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 303689,
+        "num": 217270,
+        "word": "迪丽热巴新歌首发",
+        "onboard_time": 1717381458,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282659,
+        "num": 215068,
+        "word": "年轻人结婚要仪式感也要性价比",
+        "onboard_time": 1717395018,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276469,
+        "num": 214287,
+        "word": "JOY表达对SM不满",
+        "onboard_time": 1717393939,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262703,
+        "num": 211305,
+        "word": "人们为何逃离健身房转向在家健身",
+        "onboard_time": 1717398019,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 234871,
+        "num": 211076,
+        "word": "胡歌分水",
+        "onboard_time": 1717396397,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209538,
+        "num": 209538,
+        "word": "龚俊说不要舞到正主面前",
+        "onboard_time": 1717395558,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205270,
+        "num": 205270,
+        "word": "李蠕蠕 听说我上歌手了",
+        "onboard_time": 1717392558,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195931,
+        "num": 195931,
+        "word": "万妮达 选曲投票",
+        "onboard_time": 1717398319,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192689,
+        "num": 192689,
+        "word": "长期化妆产生的粉尘会导致肺结节吗",
+        "onboard_time": 1717387699,
+        "rank": 31,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 192117,
+        "num": 192117,
+        "word": "高考为什么会在六月的七八号",
+        "onboard_time": 1717389802,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188065,
+        "num": 188065,
+        "word": "杨蓉43岁状态",
+        "onboard_time": 1717398798,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173575,
+        "num": 173575,
+        "word": "为什么茉酸奶这么贵还不干净",
+        "onboard_time": 1717386800,
+        "rank": 34,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 172493,
+        "num": 172493,
+        "word": "何浩楠 十个勤天监事一职被保留",
+        "onboard_time": 1717394058,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171579,
+        "num": 171579,
+        "word": "看手就知道身体虚不虚",
+        "onboard_time": 1717395438,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161064,
+        "num": 161064,
+        "word": "胡歌高圆圆衣服上是自愿上班",
+        "onboard_time": 1717396160,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158031,
+        "num": 158031,
+        "word": "戚薇李承铉去了周杰伦演唱会",
+        "onboard_time": 1717398920,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148578,
+        "num": 148578,
+        "word": "魔卡少女樱 小樱初设形象",
+        "onboard_time": 1717392139,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 156082,
+        "num": 141693,
+        "word": "奔跑吧录制现场直击",
+        "onboard_time": 1717393460,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153912,
+        "num": 138216,
+        "word": "赵丽颖看剧本照",
+        "onboard_time": 1717393758,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134671,
+        "num": 134671,
+        "word": "黄子弘凡肚子 看啥呢",
+        "onboard_time": 1717393697,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132774,
+        "num": 132774,
+        "word": "邱建军遗体告别式女儿哭喊爸爸",
+        "onboard_time": 1717392198,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131810,
+        "num": 131810,
+        "word": "种地星球恢复直播",
+        "onboard_time": 1717398979,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128783,
+        "num": 128783,
+        "word": "群演口中的张若昀",
+        "onboard_time": 1717397357,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121984,
+        "num": 121984,
+        "word": "乘风2024",
+        "onboard_time": 1717393098,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118462,
+        "num": 118462,
+        "word": "武汉民警壮烈牺牲鲜血浸透警服",
+        "onboard_time": 1717384579,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118418,
+        "num": 118418,
+        "word": "JDG官宣无畏",
+        "onboard_time": 1717389501,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116964,
+        "num": 116964,
+        "word": "嗓音或影响女性择偶标准",
+        "onboard_time": 1717396279,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}

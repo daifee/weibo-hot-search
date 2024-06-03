@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717396746234,
+  "endTime": 1717399095322,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -11,8 +11,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 2596113,
-      "num": 2596113,
+      "raw_hot": 2599837,
+      "num": 2599837,
       "word": "我国取消无偿赠送大熊猫已40多年",
       "onboard_time": 1717395378,
       "rank": 1,
@@ -89,6 +89,14 @@
       "onboard_time": 1717372037,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 948195,
+      "num": 743574,
+      "word": "男子用私密视频威胁前女友被刑拘",
+      "onboard_time": 1717395979,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 938535,
@@ -203,12 +211,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 657349,
+      "num": 657349,
+      "word": "俞敏洪称东方甄选做的乱七八糟",
+      "onboard_time": 1717396579,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 653575,
       "num": 653575,
       "word": "全国多地要求文娱场所中高考期间停业",
       "onboard_time": 1717385359,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 638995,
+      "num": 638995,
+      "word": "那英去摇龚琳娜了",
+      "onboard_time": 1717396338,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 600148,
@@ -355,8 +379,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494790,
+      "num": 408726,
+      "word": "艾米才16岁",
+      "onboard_time": 1717397658,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 482226,
+      "num": 405387,
+      "word": "科学家确认熬夜损伤大脑",
+      "onboard_time": 1717396397,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 470364,
-      "num": 340097,
+      "num": 367415,
       "word": "丁程鑫刘耀文日本路透",
       "onboard_time": 1717395438,
       "rank": 22,
@@ -377,6 +417,14 @@
       "onboard_time": 1717375039,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 438847,
+      "num": 221765,
+      "word": "朱一龙连续十年给杨蓉庆生",
+      "onboard_time": 1717396518,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 437342,
@@ -443,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347598,
+      "num": 347598,
+      "word": "央视曝光二手空调翻新造假",
+      "onboard_time": 1717396459,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338302,
       "num": 197043,
       "word": "李一桐回复金晨",
       "onboard_time": 1717339699,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335624,
+      "num": 218433,
+      "word": "汪苏泷加场",
+      "onboard_time": 1717397058,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 323624,
@@ -476,7 +540,7 @@
     },
     {
       "raw_hot": 310794,
-      "num": 210367,
+      "num": 214287,
       "word": "JOY表达对SM不满",
       "onboard_time": 1717393939,
       "rank": 23,
@@ -484,7 +548,7 @@
     },
     {
       "raw_hot": 305623,
-      "num": 210372,
+      "num": 215068,
       "word": "年轻人结婚要仪式感也要性价比",
       "onboard_time": 1717395018,
       "rank": 24,
@@ -569,6 +633,14 @@
       "onboard_time": 1717330578,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 262703,
+      "num": 211305,
+      "word": "人们为何逃离健身房转向在家健身",
+      "onboard_time": 1717398019,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 261001,
@@ -667,6 +739,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 234871,
+      "num": 211076,
+      "word": "胡歌分水",
+      "onboard_time": 1717396397,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232436,
       "num": 232436,
       "word": "日本垃圾桶",
@@ -683,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225798,
-      "num": 225798,
-      "word": "俞敏洪称东方甄选做的乱七八糟",
-      "onboard_time": 1717396579,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 224324,
       "num": 224324,
       "word": "奔跑吧",
@@ -705,22 +777,6 @@
       "onboard_time": 1717387159,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 217853,
-      "num": 210342,
-      "word": "男子用私密视频威胁前女友被刑拘",
-      "onboard_time": 1717395979,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217525,
-      "num": 210346,
-      "word": "那英去摇龚琳娜了",
-      "onboard_time": 1717396338,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 215694,
@@ -763,12 +819,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209724,
-      "num": 209724,
-      "word": "朱一龙连续十年给杨蓉庆生",
-      "onboard_time": 1717396518,
+      "raw_hot": 209538,
+      "num": 209538,
+      "word": "龚俊说不要舞到正主面前",
+      "onboard_time": 1717395558,
       "rank": 34,
-      "category": "艺人"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209031,
@@ -827,14 +883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199109,
-      "num": 199109,
-      "word": "龚俊说不要舞到正主面前",
-      "onboard_time": 1717395558,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197842,
       "num": 197842,
       "word": "财政部下达2024年汽车以旧换新补贴",
@@ -865,6 +913,14 @@
       "onboard_time": 1717392198,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195931,
+      "num": 195931,
+      "word": "万妮达 选曲投票",
+      "onboard_time": 1717398319,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 194508,
@@ -915,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188065,
+      "num": 188065,
+      "word": "杨蓉43岁状态",
+      "onboard_time": 1717398798,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187295,
       "num": 187295,
       "word": "内娱有自己的全在俊",
@@ -945,14 +1009,6 @@
       "onboard_time": 1717340120,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179247,
-      "num": 179247,
-      "word": "胡歌分水",
-      "onboard_time": 1717396397,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 177949,
@@ -1131,6 +1187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158031,
+      "num": 158031,
+      "word": "戚薇李承铉去了周杰伦演唱会",
+      "onboard_time": 1717398920,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156447,
       "num": 156447,
       "word": "TF三代九月前或将出道",
@@ -1283,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131810,
+      "num": 131810,
+      "word": "种地星球恢复直播",
+      "onboard_time": 1717398979,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129559,
       "num": 129559,
       "word": "墨雨云间破优酷首日记录",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1717333399,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128783,
+      "num": 128783,
+      "word": "群演口中的张若昀",
+      "onboard_time": 1717397357,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 128282,
@@ -1535,6 +1615,14 @@
       "num": 541433,
       "word": "河南麦田全是科技没有狠活",
       "onboard_time": 1717389019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75899,
+      "num": 413979,
+      "word": "11岁女孩从车流中一把拽回走失女童",
+      "onboard_time": 1717397299,
       "rank": 9,
       "category": "社会新闻"
     },
