@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717456782581,
+  "endTime": 1717457680544,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -1243,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470058,
+      "num": 470058,
+      "word": "北京8兄妹因搬迁争夺宅基地",
+      "onboard_time": 1717448892,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465271,
       "num": 465271,
       "word": "王星越好帅",
@@ -1523,11 +1531,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 405688,
-      "num": 160530,
-      "word": "北京8兄妹因搬迁争夺宅基地",
-      "onboard_time": 1717448892,
-      "rank": 22,
+      "raw_hot": 409671,
+      "num": 409671,
+      "word": "丁真自曝刚上岛跟不上节奏",
+      "onboard_time": 1717437193,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -1585,6 +1593,14 @@
       "onboard_time": 1717413857,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 394664,
+      "num": 394664,
+      "word": "印度高温 恒河洗澡",
+      "onboard_time": 1717427719,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 394461,
@@ -2051,6 +2067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303749,
+      "num": 200007,
+      "word": "浙江两驴友被溪流冲走当地商户发声",
+      "onboard_time": 1717432216,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302902,
       "num": 302902,
       "word": "最适合i人的职业出现了",
@@ -2283,28 +2307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275968,
-      "num": 158287,
-      "word": "浙江两驴友被溪流冲走当地商户发声",
-      "onboard_time": 1717432216,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275870,
       "num": 275870,
       "word": "朱婷就发了个球",
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274925,
-      "num": 274925,
-      "word": "丁真自曝刚上岛跟不上节奏",
-      "onboard_time": 1717437193,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 272492,
@@ -2369,6 +2377,14 @@
       "onboard_time": 1717340840,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265016,
+      "num": 265016,
+      "word": "海清曝温峥嵘把大学宿舍烧了",
+      "onboard_time": 1717437552,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 263639,
@@ -2441,6 +2457,14 @@
       "onboard_time": 1717400419,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254699,
+      "num": 87481,
+      "word": "女子11次高空扔烟蒂引发火灾",
+      "onboard_time": 1717457415,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253078,
@@ -2649,6 +2673,14 @@
       "onboard_time": 1717294937,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233665,
+      "num": 198992,
+      "word": "张雪峰称多占用员工1天都双倍奉还",
+      "onboard_time": 1717454773,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 233173,
@@ -2867,14 +2899,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 210350,
-      "num": 210350,
-      "word": "印度高温 恒河洗澡",
-      "onboard_time": 1717427719,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210330,
       "num": 210330,
       "word": "奔跑吧录制现场直击",
@@ -2939,14 +2963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208108,
-      "num": 156148,
-      "word": "海清曝温峥嵘把大学宿舍烧了",
-      "onboard_time": 1717437552,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 207859,
       "num": 207859,
       "word": "不上班如何实现财富自由",
@@ -2972,7 +2988,7 @@
     },
     {
       "raw_hot": 206529,
-      "num": 168496,
+      "num": 200435,
       "word": "夏天手上长巨痒小水泡怎么办",
       "onboard_time": 1717429877,
       "rank": 30,
@@ -3123,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198798,
+      "num": 198798,
+      "word": "姆巴佩说梦想成真",
+      "onboard_time": 1717456636,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198779,
       "num": 170618,
       "word": "迪丽热巴新EP跳舞",
@@ -3256,6 +3280,14 @@
       "word": "穿Prada的票房女王",
       "onboard_time": 1717308377,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193752,
+      "num": 193752,
+      "word": "爱奇艺给杨幂开了专栏",
+      "onboard_time": 1717448411,
+      "rank": 3,
       "category": "艺人"
     },
     {
@@ -3643,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174734,
+      "num": 127121,
+      "word": "45岁独生子决定带着妈妈上班",
+      "onboard_time": 1717456696,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174712,
       "num": 174712,
       "word": "我少将喊话泽连斯基到底在为何而战",
@@ -3769,6 +3809,14 @@
       "onboard_time": 1717406420,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 170662,
+      "num": 170662,
+      "word": "乘风",
+      "onboard_time": 1717456995,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 170319,
@@ -4163,6 +4211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155052,
+      "num": 155052,
+      "word": "东方甄选主号掉粉",
+      "onboard_time": 1717452071,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 154988,
       "num": 154988,
       "word": "肖战藏海传杀青发文",
@@ -4209,14 +4265,6 @@
       "onboard_time": 1717425379,
       "rank": 38,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 150078,
-      "num": 150078,
-      "word": "姆巴佩说梦想成真",
-      "onboard_time": 1717456636,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 149815,
@@ -4321,14 +4369,6 @@
       "onboard_time": 1717300878,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 145736,
-      "num": 145736,
-      "word": "张雪峰称多占用员工1天都双倍奉还",
-      "onboard_time": 1717454773,
-      "rank": 15,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 145505,
@@ -4555,14 +4595,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 138745,
-      "num": 166837,
-      "word": "爱奇艺给杨幂开了专栏",
-      "onboard_time": 1717448411,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138462,
       "num": 138462,
       "word": "逆水寒美工",
@@ -4609,14 +4641,6 @@
       "onboard_time": 1717334779,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 136210,
-      "num": 136210,
-      "word": "东方甄选主号掉粉",
-      "onboard_time": 1717452071,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 136164,
@@ -4689,6 +4713,14 @@
       "onboard_time": 1717394898,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128803,
+      "num": 86395,
+      "word": "樊振东说向皇马学习",
+      "onboard_time": 1717456636,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 128783,
@@ -4809,6 +4841,14 @@
       "onboard_time": 1717324637,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126467,
+      "num": 126467,
+      "word": "这个家没有王栎鑫得散",
+      "onboard_time": 1717433055,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 126403,
@@ -5091,6 +5131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117508,
+      "num": 117508,
+      "word": "伯克希尔哈撒韦暴跌99.97%",
+      "onboard_time": 1717442350,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117323,
       "num": 117323,
       "word": "高圆圆好懂35岁女性的困境",
@@ -5225,6 +5273,14 @@
       "onboard_time": 1717292957,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112061,
+      "num": 112061,
+      "word": "王星越评价夺人妻新赛道",
+      "onboard_time": 1717456276,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 111990,
@@ -5475,14 +5531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102070,
-      "num": 102070,
-      "word": "这个家没有王栎鑫得散",
-      "onboard_time": 1717433055,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 101453,
       "num": 101453,
       "word": "人民海军版我有一个帽衫又萌又猛",
@@ -5536,6 +5584,14 @@
       "word": "悲情王子罗伊斯",
       "onboard_time": 1717295958,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96969,
+      "num": 96969,
+      "word": "德约科维奇大满贯第370胜",
+      "onboard_time": 1717456636,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -5611,14 +5667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88410,
-      "num": 70888,
-      "word": "樊振东说向皇马学习",
-      "onboard_time": 1717456636,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87679,
       "num": 1082620,
       "word": "文脉华章",
@@ -5689,14 +5737,6 @@
       "onboard_time": 1717433415,
       "rank": 32,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 83943,
-      "num": 83943,
-      "word": "伯克希尔哈撒韦暴跌99.97%",
-      "onboard_time": 1717442350,
-      "rank": 41,
-      "category": "财经"
     },
     {
       "raw_hot": 83883,
@@ -5779,6 +5819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76573,
+      "num": 76573,
+      "word": "宝宝眼球被蜇进1根刺1个月才发现",
+      "onboard_time": 1717446191,
+      "rank": 42,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 76470,
       "num": 234618,
       "word": "更适合普通人的高效护肤",
@@ -5795,6 +5843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75356,
+      "num": 75356,
+      "word": "孙颖莎说咱们巴黎见",
+      "onboard_time": 1717457115,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74389,
       "num": 74389,
       "word": "上班和上学到底哪个更累",
@@ -5809,22 +5865,6 @@
       "onboard_time": 1717416018,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72245,
-      "num": 72245,
-      "word": "王星越评价夺人妻新赛道",
-      "onboard_time": 1717456276,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 71790,
-      "num": 71790,
-      "word": "宝宝眼球被蜇进1根刺1个月才发现",
-      "onboard_time": 1717446191,
-      "rank": 42,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 71657,
@@ -5939,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63484,
+      "num": 63484,
+      "word": "迪丽热巴你是我的荣耀新VCR",
+      "onboard_time": 1717457055,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62090,
       "num": 224385,
       "word": "这些地方的龙舟赛氛围拉满了",
@@ -5963,12 +6011,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 59999,
-      "num": 59999,
-      "word": "德约科维奇大满贯第370胜",
-      "onboard_time": 1717456636,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 59595,
+      "num": 59595,
+      "word": "鞠婧祎抹胸牛仔上衣",
+      "onboard_time": 1717455794,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 59415,
@@ -5979,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59266,
+      "num": 59266,
+      "word": "高考前看到妈妈的手机破防了",
+      "onboard_time": 1717447090,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59150,
       "num": 432735,
       "word": "张桂梅生日",
@@ -5987,12 +6043,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56835,
-      "num": 56835,
-      "word": "45岁独生子决定带着妈妈上班",
-      "onboard_time": 1717456696,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 58131,
+      "num": 58131,
+      "word": "18岁长女高考后妈生3胎弟弟",
+      "onboard_time": 1717436353,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 57610,
+      "num": 57610,
+      "word": "姆巴佩将身穿皇马9号",
+      "onboard_time": 1717457595,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 56702,
@@ -6107,14 +6171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 49155,
-      "num": 49155,
-      "word": "鞠婧祎抹胸牛仔上衣",
-      "onboard_time": 1717455794,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48382,
       "num": 572559,
       "word": "班主任带亲手种向日葵拍高三毕业照",
@@ -6129,22 +6185,6 @@
       "onboard_time": 1717435453,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47961,
-      "num": 47961,
-      "word": "高考前看到妈妈的手机破防了",
-      "onboard_time": 1717447090,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 47573,
-      "num": 47573,
-      "word": "18岁长女高考后妈生3胎弟弟",
-      "onboard_time": 1717436353,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 45588,
@@ -6243,6 +6283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40068,
+      "num": 200124,
+      "word": "大葱成社交时尚单品让人没了偷感",
+      "onboard_time": 1717457115,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38843,
       "num": 38843,
       "word": "山东宁阳发生透水事故8人被困",
@@ -6272,6 +6320,14 @@
       "word": "父女雨天摔倒路人帮忙细节拉满",
       "onboard_time": 1717313778,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37707,
+      "num": 439596,
+      "word": "中国探月工程不断刷新月球探测纪录",
+      "onboard_time": 1717426759,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -6345,14 +6401,6 @@
       "onboard_time": 1717354271,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31922,
-      "num": 278696,
-      "word": "中国探月工程不断刷新月球探测纪录",
-      "onboard_time": 1717426759,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31415,
