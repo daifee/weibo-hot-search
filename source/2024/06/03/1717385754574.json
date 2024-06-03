@@ -1,0 +1,410 @@
+{
+  "runTime": 1717385754574,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3143449,
+        "num": 3143449,
+        "word": "韩国市长请求中国赠送一对大熊猫",
+        "onboard_time": 1717377378,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 940804,
+        "num": 940804,
+        "word": "迪丽热巴新歌首发",
+        "onboard_time": 1717381458,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12260,
+        "num": 903791,
+        "word": "千里江山图藏着人间烟火",
+        "onboard_time": 1717328719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885997,
+        "num": 885997,
+        "word": "乌克兰承认巴勒斯坦是一个国家",
+        "onboard_time": 1717376059,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 744111,
+        "num": 744111,
+        "word": "张雪峰连麦490多分农村女孩",
+        "onboard_time": 1717377438,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521841,
+        "num": 521841,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717375998,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 500954,
+        "num": 500954,
+        "word": "JDG无畏来了",
+        "onboard_time": 1717381518,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 461743,
+        "num": 461743,
+        "word": "马尔代夫决定禁止以色列公民入境",
+        "onboard_time": 1717374562,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 446133,
+        "num": 446133,
+        "word": "93岁默多克第5次结婚",
+        "onboard_time": 1717379717,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375141,
+        "num": 375141,
+        "word": "泰国人爱上中国的榴莲直播",
+        "onboard_time": 1717385056,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 833225,
+        "num": 374855,
+        "word": "迪丽热巴32岁生日造型",
+        "onboard_time": 1717381938,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556031,
+        "num": 374103,
+        "word": "韩国人为何偏爱超大号食品",
+        "onboard_time": 1717383258,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 357728,
+        "num": 357728,
+        "word": "范闲扛起巴雷特",
+        "onboard_time": 1717377858,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339010,
+        "num": 339010,
+        "word": "JDG进军KPL",
+        "onboard_time": 1717381638,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 302902,
+        "num": 302902,
+        "word": "最适合i人的职业出现了",
+        "onboard_time": 1717381638,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9546,
+        "num": 284333,
+        "word": "被稳稳托住的感觉真好",
+        "onboard_time": 1717370236,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 368628,
+        "num": 280971,
+        "word": "王亚飞为迪丽热巴化的生日妆",
+        "onboard_time": 1717382899,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273695,
+        "num": 273695,
+        "word": "国安机关破获一起英国MI6重大间谍案",
+        "onboard_time": 1717377378,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269255,
+        "num": 269255,
+        "word": "以色列",
+        "onboard_time": 1717376239,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 262587,
+        "num": 262587,
+        "word": "武汉民警壮烈牺牲鲜血浸透警服",
+        "onboard_time": 1717384579,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285738,
+        "num": 258026,
+        "word": "突然发现毕业是场巨大的戒断",
+        "onboard_time": 1717382537,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249624,
+        "num": 249624,
+        "word": "A股",
+        "onboard_time": 1717381458,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 226316,
+        "num": 226316,
+        "word": "香港顶流姜涛跳晚安大小姐",
+        "onboard_time": 1717372037,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38541,
+        "num": 218506,
+        "word": "库迪9块9还能卷一夏",
+        "onboard_time": 1717384638,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211333,
+        "num": 211333,
+        "word": "檀健次第二张个人专辑",
+        "onboard_time": 1717385297,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205395,
+        "num": 205395,
+        "word": "Hero无畏断开连接",
+        "onboard_time": 1717385658,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203866,
+        "num": 203866,
+        "word": "长公主收官小作文 2字",
+        "onboard_time": 1717380379,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201424,
+        "num": 201424,
+        "word": "张杰超大声的我爱你",
+        "onboard_time": 1717384938,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200042,
+        "num": 200042,
+        "word": "三甲医生教你正确吃零食",
+        "onboard_time": 1717380076,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13466,
+        "num": 198841,
+        "word": "盲人越剧演员舟山海岛公益送戏18年",
+        "onboard_time": 1717385717,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203608,
+        "num": 198808,
+        "word": "我国历史上的熊猫外交",
+        "onboard_time": 1717385359,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197842,
+        "num": 197842,
+        "word": "财政部下达2024年汽车以旧换新补贴",
+        "onboard_time": 1717384218,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191914,
+        "num": 191914,
+        "word": "女子千元快递放门口被当垃圾丢了",
+        "onboard_time": 1717378638,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173431,
+        "num": 173431,
+        "word": "外交部回应菲总统涉南海问题表态",
+        "onboard_time": 1717384877,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170118,
+        "num": 170118,
+        "word": "惠若琪说香港站就能看出名单了",
+        "onboard_time": 1717383018,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167363,
+        "num": 167363,
+        "word": "董明珠说错了什么",
+        "onboard_time": 1717383678,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163199,
+        "num": 163199,
+        "word": "打开了关闭三年的朋友圈",
+        "onboard_time": 1717343718,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156108,
+        "num": 156108,
+        "word": "李沁一字告别庆余年",
+        "onboard_time": 1717336459,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152971,
+        "num": 152971,
+        "word": "黄曦彦 跑男",
+        "onboard_time": 1717383739,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150135,
+        "num": 150135,
+        "word": "吴宣仪忘了放杨超越的照片",
+        "onboard_time": 1717340301,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145771,
+        "num": 145771,
+        "word": "朝鲜将暂停向韩国投放垃圾",
+        "onboard_time": 1717371616,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 144314,
+        "num": 144314,
+        "word": "全国多地要求文娱场所中高考期间停业",
+        "onboard_time": 1717385359,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142987,
+        "num": 142987,
+        "word": "王俊凯工作室 多发爱看",
+        "onboard_time": 1717374497,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138775,
+        "num": 138775,
+        "word": "哪些人不适合骑行锻炼",
+        "onboard_time": 1717385538,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 125869,
+        "num": 125869,
+        "word": "演得有点不顾观众死活了",
+        "onboard_time": 1717339460,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123375,
+        "num": 123375,
+        "word": "墨雨云间",
+        "onboard_time": 1717340660,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120430,
+        "num": 120430,
+        "word": "庆余年第三季",
+        "onboard_time": 1717333279,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120024,
+        "num": 120024,
+        "word": "逆水寒",
+        "onboard_time": 1717372519,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116085,
+        "num": 116085,
+        "word": "葡萄牙航空展两飞机相撞致1死1伤",
+        "onboard_time": 1717384758,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110474,
+        "num": 110474,
+        "word": "孩子出了社会发现全是好人",
+        "onboard_time": 1717377498,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的文化足迹遍及大江南北#"
+    }
+  }
+}

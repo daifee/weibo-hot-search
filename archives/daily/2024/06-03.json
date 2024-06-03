@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717384939982,
+  "endTime": 1717385754574,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -83,7 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 825616,
+      "raw_hot": 833225,
       "num": 523242,
       "word": "迪丽热巴32岁生日造型",
       "onboard_time": 1717381938,
@@ -145,6 +145,14 @@
       "onboard_time": 1717344378,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 556031,
+      "num": 382399,
+      "word": "韩国人为何偏爱超大号食品",
+      "onboard_time": 1717383258,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 555388,
@@ -235,11 +243,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 382399,
-      "num": 382399,
-      "word": "韩国人为何偏爱超大号食品",
-      "onboard_time": 1717383258,
-      "rank": 13,
+      "raw_hot": 375141,
+      "num": 375141,
+      "word": "泰国人爱上中国的榴莲直播",
+      "onboard_time": 1717385056,
+      "rank": 9,
       "category": "美食"
     },
     {
@@ -275,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302902,
+      "num": 302902,
+      "word": "最适合i人的职业出现了",
+      "onboard_time": 1717381638,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 290800,
       "num": 247426,
       "word": "孩子出了社会发现全是好人",
@@ -291,11 +307,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 287090,
-      "num": 287090,
-      "word": "最适合i人的职业出现了",
-      "onboard_time": 1717381638,
-      "rank": 30,
+      "raw_hot": 285738,
+      "num": 262041,
+      "word": "突然发现毕业是场巨大的戒断",
+      "onboard_time": 1717382537,
+      "rank": 47,
       "category": "情感"
     },
     {
@@ -323,12 +339,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 262041,
-      "num": 262041,
-      "word": "突然发现毕业是场巨大的戒断",
-      "onboard_time": 1717382537,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 262587,
+      "num": 386892,
+      "word": "武汉民警壮烈牺牲鲜血浸透警服",
+      "onboard_time": 1717384579,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261001,
@@ -353,6 +369,14 @@
       "onboard_time": 1717335019,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 249624,
+      "num": 249624,
+      "word": "A股",
+      "onboard_time": 1717381458,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 245545,
@@ -419,12 +443,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214630,
-      "num": 214630,
-      "word": "A股",
-      "onboard_time": 1717381458,
-      "rank": 34,
-      "category": "财经"
+      "raw_hot": 211333,
+      "num": 211333,
+      "word": "檀健次第二张个人专辑",
+      "onboard_time": 1717385297,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 207859,
@@ -433,6 +457,38 @@
       "onboard_time": 1717376119,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205395,
+      "num": 205395,
+      "word": "Hero无畏断开连接",
+      "onboard_time": 1717385658,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 203608,
+      "num": 198808,
+      "word": "我国历史上的熊猫外交",
+      "onboard_time": 1717385359,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 201424,
+      "num": 201424,
+      "word": "张杰超大声的我爱你",
+      "onboard_time": 1717384938,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197842,
+      "num": 197842,
+      "word": "财政部下达2024年汽车以旧换新补贴",
+      "onboard_time": 1717384218,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 197783,
@@ -452,7 +508,7 @@
     },
     {
       "raw_hot": 190969,
-      "num": 162639,
+      "num": 170118,
       "word": "惠若琪说香港站就能看出名单了",
       "onboard_time": 1717383018,
       "rank": 30,
@@ -475,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185637,
-      "num": 185637,
-      "word": "财政部下达2024年汽车以旧换新补贴",
-      "onboard_time": 1717384218,
-      "rank": 26,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 184070,
       "num": 184070,
       "word": "高考时间",
@@ -499,20 +547,20 @@
       "category": "美食,财经"
     },
     {
-      "raw_hot": 182167,
-      "num": 386892,
-      "word": "武汉民警壮烈牺牲鲜血浸透警服",
-      "onboard_time": 1717384579,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179557,
       "num": 179557,
       "word": "李小冉下部戏还是演反派",
       "onboard_time": 1717340120,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173431,
+      "num": 173431,
+      "word": "外交部回应菲总统涉南海问题表态",
+      "onboard_time": 1717384877,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 172767,
@@ -537,6 +585,14 @@
       "onboard_time": 1717375639,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167363,
+      "num": 167363,
+      "word": "董明珠说错了什么",
+      "onboard_time": 1717383678,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 166415,
@@ -627,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144314,
+      "num": 144314,
+      "word": "全国多地要求文娱场所中高考期间停业",
+      "onboard_time": 1717385359,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143776,
       "num": 143776,
       "word": "赵露思陈伟霆 许我耀眼",
@@ -635,20 +699,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140632,
-      "num": 140632,
-      "word": "董明珠说错了什么",
-      "onboard_time": 1717383678,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 139218,
       "num": 139218,
       "word": "汶珊官宣退网",
       "onboard_time": 1717370896,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138775,
+      "num": 138775,
+      "word": "哪些人不适合骑行锻炼",
+      "onboard_time": 1717385538,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 135884,
@@ -803,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116085,
+      "num": 116085,
+      "word": "葡萄牙航空展两飞机相撞致1死1伤",
+      "onboard_time": 1717384758,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115903,
       "num": 115903,
       "word": "守护甜心续作漫画定档",
@@ -827,14 +899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109640,
-      "num": 109640,
-      "word": "外交部回应菲总统涉南海问题表态",
-      "onboard_time": 1717384877,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 108853,
       "num": 114108,
       "word": "付辛博告别大皇子",
@@ -857,14 +921,6 @@
       "onboard_time": 1717368492,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102651,
-      "num": 106340,
-      "word": "葡萄牙航空展两飞机相撞致1死1伤",
-      "onboard_time": 1717384758,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99716,
@@ -1020,7 +1076,7 @@
     },
     {
       "raw_hot": 42120,
-      "num": 111222,
+      "num": 218506,
       "word": "库迪9块9还能卷一夏",
       "onboard_time": 1717384638,
       "rank": 45,
@@ -1097,6 +1153,14 @@
       "onboard_time": 1717337599,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13466,
+      "num": 198841,
+      "word": "盲人越剧演员舟山海岛公益送戏18年",
+      "onboard_time": 1717385717,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12799,
