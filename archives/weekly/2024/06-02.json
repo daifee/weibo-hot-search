@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717454141806,
+  "endTime": 1717456782581,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -696,6 +696,14 @@
       "word": "孙颖莎4比3王曼昱",
       "onboard_time": 1717417338,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 694866,
+      "num": 694866,
+      "word": "姆巴佩",
+      "onboard_time": 1717442591,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -1515,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405688,
+      "num": 160530,
+      "word": "北京8兄妹因搬迁争夺宅基地",
+      "onboard_time": 1717448892,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404844,
       "num": 367237,
       "word": "陈梦vs张本美和",
@@ -2107,14 +2123,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294766,
-      "num": 294766,
-      "word": "姆巴佩",
-      "onboard_time": 1717442591,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294590,
       "num": 258468,
       "word": "水果要便宜了",
@@ -2275,12 +2283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275968,
+      "num": 158287,
+      "word": "浙江两驴友被溪流冲走当地商户发声",
+      "onboard_time": 1717432216,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275870,
       "num": 275870,
       "word": "朱婷就发了个球",
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274925,
+      "num": 274925,
+      "word": "丁真自曝刚上岛跟不上节奏",
+      "onboard_time": 1717437193,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 272492,
@@ -2843,6 +2867,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210350,
+      "num": 210350,
+      "word": "印度高温 恒河洗澡",
+      "onboard_time": 1717427719,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210330,
       "num": 210330,
       "word": "奔跑吧录制现场直击",
@@ -2907,6 +2939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208108,
+      "num": 156148,
+      "word": "海清曝温峥嵘把大学宿舍烧了",
+      "onboard_time": 1717437552,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207859,
       "num": 207859,
       "word": "不上班如何实现财富自由",
@@ -2932,7 +2972,7 @@
     },
     {
       "raw_hot": 206529,
-      "num": 105571,
+      "num": 168496,
       "word": "夏天手上长巨痒小水泡怎么办",
       "onboard_time": 1717429877,
       "rank": 30,
@@ -2993,14 +3033,6 @@
       "onboard_time": 1717419738,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 202015,
-      "num": 57681,
-      "word": "丁真自曝刚上岛跟不上节奏",
-      "onboard_time": 1717437193,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 201968,
@@ -3081,14 +3113,6 @@
       "onboard_time": 1717400478,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199064,
-      "num": 199064,
-      "word": "印度高温 恒河洗澡",
-      "onboard_time": 1717427719,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198980,
@@ -3219,14 +3243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194357,
-      "num": 53732,
-      "word": "北京8兄妹因搬迁争夺宅基地",
-      "onboard_time": 1717448892,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193984,
       "num": 193984,
       "word": "蔡徐坤单曲预告",
@@ -3273,14 +3289,6 @@
       "onboard_time": 1717316418,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192047,
-      "num": 146267,
-      "word": "浙江两驴友被溪流冲走当地商户发声",
-      "onboard_time": 1717432216,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191951,
@@ -4203,6 +4211,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 150078,
+      "num": 150078,
+      "word": "姆巴佩说梦想成真",
+      "onboard_time": 1717456636,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149815,
       "num": 149815,
       "word": "圈地榜",
@@ -4305,6 +4321,14 @@
       "onboard_time": 1717300878,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145736,
+      "num": 145736,
+      "word": "张雪峰称多占用员工1天都双倍奉还",
+      "onboard_time": 1717454773,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 145505,
@@ -4531,6 +4555,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 138745,
+      "num": 166837,
+      "word": "爱奇艺给杨幂开了专栏",
+      "onboard_time": 1717448411,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138462,
       "num": 138462,
       "word": "逆水寒美工",
@@ -4577,6 +4609,14 @@
       "onboard_time": 1717334779,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136210,
+      "num": 136210,
+      "word": "东方甄选主号掉粉",
+      "onboard_time": 1717452071,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 136164,
@@ -5435,6 +5475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102070,
+      "num": 102070,
+      "word": "这个家没有王栎鑫得散",
+      "onboard_time": 1717433055,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101453,
       "num": 101453,
       "word": "人民海军版我有一个帽衫又萌又猛",
@@ -5563,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88410,
+      "num": 70888,
+      "word": "樊振东说向皇马学习",
+      "onboard_time": 1717456636,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87679,
       "num": 1082620,
       "word": "文脉华章",
@@ -5633,6 +5689,14 @@
       "onboard_time": 1717433415,
       "rank": 32,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 83943,
+      "num": 83943,
+      "word": "伯克希尔哈撒韦暴跌99.97%",
+      "onboard_time": 1717442350,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 83883,
@@ -5707,14 +5771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 76633,
-      "num": 56674,
-      "word": "海清曝温峥嵘把大学宿舍烧了",
-      "onboard_time": 1717437552,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 76600,
       "num": 337151,
       "word": "327家国家一级博物馆名单",
@@ -5753,6 +5809,22 @@
       "onboard_time": 1717416018,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72245,
+      "num": 72245,
+      "word": "王星越评价夺人妻新赛道",
+      "onboard_time": 1717456276,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71790,
+      "num": 71790,
+      "word": "宝宝眼球被蜇进1根刺1个月才发现",
+      "onboard_time": 1717446191,
+      "rank": 42,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 71657,
@@ -5811,12 +5883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68665,
-      "num": 84249,
-      "word": "这个家没有王栎鑫得散",
-      "onboard_time": 1717433055,
+      "raw_hot": 67918,
+      "num": 67918,
+      "word": "小狗一辈子都在做平板支撑",
+      "onboard_time": 1717456636,
       "rank": 31,
-      "category": "综艺"
+      "category": "幽默"
     },
     {
       "raw_hot": 67800,
@@ -5891,6 +5963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 59999,
+      "num": 59999,
+      "word": "德约科维奇大满贯第370胜",
+      "onboard_time": 1717456636,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59415,
       "num": 297591,
       "word": "老师上课给学生发漫画",
@@ -5904,6 +5984,14 @@
       "word": "张桂梅生日",
       "onboard_time": 1717394598,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56835,
+      "num": 56835,
+      "word": "45岁独生子决定带着妈妈上班",
+      "onboard_time": 1717456696,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -5921,6 +6009,14 @@
       "onboard_time": 1717418776,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55316,
+      "num": 55316,
+      "word": "半夜被手麻醒怎么回事",
+      "onboard_time": 1717451351,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 54201,
@@ -5971,14 +6067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51413,
-      "num": 51413,
-      "word": "爱奇艺给杨幂开了专栏",
-      "onboard_time": 1717448411,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51349,
       "num": 51349,
       "word": "刘些宁首演恶女",
@@ -6019,6 +6107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49155,
+      "num": 49155,
+      "word": "鞠婧祎抹胸牛仔上衣",
+      "onboard_time": 1717455794,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48382,
       "num": 572559,
       "word": "班主任带亲手种向日葵拍高三毕业照",
@@ -6035,12 +6131,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46591,
-      "num": 46591,
-      "word": "东方甄选主号掉粉",
-      "onboard_time": 1717452071,
-      "rank": 28,
-      "category": "互联网"
+      "raw_hot": 47961,
+      "num": 47961,
+      "word": "高考前看到妈妈的手机破防了",
+      "onboard_time": 1717447090,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 47573,
+      "num": 47573,
+      "word": "18岁长女高考后妈生3胎弟弟",
+      "onboard_time": 1717436353,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 45588,
+      "num": 45588,
+      "word": "记忆里的明星批量翻红",
+      "onboard_time": 1717447331,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 45209,
@@ -6073,6 +6185,14 @@
       "onboard_time": 1717300397,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41535,
+      "num": 45569,
+      "word": "猫 忘了我也会",
+      "onboard_time": 1717440371,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 41408,
@@ -6123,14 +6243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 39874,
-      "num": 38317,
-      "word": "18岁长女高考后妈生3胎弟弟",
-      "onboard_time": 1717436353,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 38843,
       "num": 38843,
       "word": "山东宁阳发生透水事故8人被困",
@@ -6161,14 +6273,6 @@
       "onboard_time": 1717313778,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36829,
-      "num": 32017,
-      "word": "宝宝眼球被蜇进1根刺1个月才发现",
-      "onboard_time": 1717446191,
-      "rank": 42,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 36563,
@@ -6219,14 +6323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33698,
-      "num": 33698,
-      "word": "伯克希尔哈撒韦暴跌99.97%",
-      "onboard_time": 1717442350,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 33207,
       "num": 161057,
       "word": "魏大勋版汽车语音播报",
@@ -6249,6 +6345,14 @@
       "onboard_time": 1717354271,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 31922,
+      "num": 278696,
+      "word": "中国探月工程不断刷新月球探测纪录",
+      "onboard_time": 1717426759,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31415,
@@ -6283,22 +6387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28402,
-      "num": 28402,
-      "word": "记忆里的明星批量翻红",
-      "onboard_time": 1717447331,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28127,
-      "num": 28127,
-      "word": "高考前看到妈妈的手机破防了",
-      "onboard_time": 1717447090,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 26948,
       "num": 26948,
       "word": "我发现自己对恋爱祛魅了",
@@ -6323,28 +6411,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 25935,
-      "num": 28127,
-      "word": "半夜被手麻醒怎么回事",
-      "onboard_time": 1717451351,
-      "rank": 40,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 25029,
       "num": 295640,
       "word": "中国人把浪漫星空定格在了瓷器上",
       "onboard_time": 1717431796,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24108,
-      "num": 28126,
-      "word": "猫 忘了我也会",
-      "onboard_time": 1717440371,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 22894,
@@ -6443,11 +6515,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14070,
-      "num": 97462,
-      "word": "中国探月工程不断刷新月球探测纪录",
-      "onboard_time": 1717426759,
-      "rank": 2,
+      "raw_hot": 15092,
+      "num": 164324,
+      "word": "义乌老奶奶闲不下来在家做手工活",
+      "onboard_time": 1717439231,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6519,14 +6591,6 @@
       "num": 151227,
       "word": "原来有种职业专门逗笑小朋友",
       "onboard_time": 1717264694,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8296,
-      "num": 54943,
-      "word": "义乌老奶奶闲不下来在家做手工活",
-      "onboard_time": 1717439231,
       "rank": 9,
       "category": "社会新闻"
     },
