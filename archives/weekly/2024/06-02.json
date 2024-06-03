@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717406450082,
+  "endTime": 1717407264156,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -147,20 +147,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1293666,
+      "num": 401906,
+      "word": "弟弟离高考只有三天手筋断了一根",
+      "onboard_time": 1717403958,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1283480,
       "num": 1164892,
       "word": "杨迪说现在圈内疯子很多",
       "onboard_time": 1717330578,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1273121,
-      "num": 401906,
-      "word": "弟弟离高考只有三天手筋断了一根",
-      "onboard_time": 1717403958,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1220726,
@@ -747,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 558529,
+      "num": 558529,
+      "word": "全球男性HPV感染率高于女性",
+      "onboard_time": 1717404138,
+      "rank": 5,
+      "category": "健康医疗,社会新闻"
+    },
+    {
       "raw_hot": 556183,
       "num": 556183,
       "word": "王俊凯又幸福了",
@@ -769,6 +777,14 @@
       "onboard_time": 1717251079,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 548314,
+      "num": 548314,
+      "word": "高圆圆 我gap比上班多",
+      "onboard_time": 1717405219,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 546821,
@@ -859,6 +875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 515244,
+      "num": 515244,
+      "word": "陈丽君 投票",
+      "onboard_time": 1717405699,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514973,
       "num": 514973,
       "word": "杨超越演技",
@@ -913,14 +937,6 @@
       "onboard_time": 1717311857,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 487925,
-      "num": 487925,
-      "word": "全球男性HPV感染率高于女性",
-      "onboard_time": 1717404138,
-      "rank": 5,
-      "category": "健康医疗,社会新闻"
     },
     {
       "raw_hot": 485240,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1717242616,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 453126,
-      "num": 453126,
-      "word": "高圆圆 我gap比上班多",
-      "onboard_time": 1717405219,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 447816,
@@ -1291,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393097,
+      "num": 228377,
+      "word": "同事说领导是大专生干不成事情正常",
+      "onboard_time": 1717405219,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 391815,
       "num": 366814,
       "word": "张若昀李沁再拍部剧吧",
@@ -1347,20 +1363,20 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 385507,
+      "num": 385507,
+      "word": "原来衣服220g说的不是重量",
+      "onboard_time": 1717403839,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 384836,
       "num": 384836,
       "word": "姆巴佩加盟皇马",
       "onboard_time": 1717328240,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384506,
-      "num": 384506,
-      "word": "原来衣服220g说的不是重量",
-      "onboard_time": 1717403839,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 383839,
@@ -1513,14 +1529,6 @@
       "onboard_time": 1717335739,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 336571,
-      "num": 185419,
-      "word": "同事说领导是大专生干不成事情正常",
-      "onboard_time": 1717405219,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 335624,
@@ -1868,7 +1876,7 @@
     },
     {
       "raw_hot": 277618,
-      "num": 226865,
+      "num": 227475,
       "word": "女子偷偷自己攒钱买房后被父母阴阳",
       "onboard_time": 1717405158,
       "rank": 21,
@@ -1889,14 +1897,6 @@
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 273844,
-      "num": 273844,
-      "word": "陈丽君 投票",
-      "onboard_time": 1717405699,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 272492,
@@ -2272,6 +2272,14 @@
       "word": "已读乱回到底有什么魅力",
       "onboard_time": 1717300817,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226419,
+      "num": 226419,
+      "word": "印度现近50度高温连蚊子都消失",
+      "onboard_time": 1717406358,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -3099,12 +3107,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171000,
+      "num": 171000,
+      "word": "全球现象级小说作者为中国大熊猫写书",
+      "onboard_time": 1717406420,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 170319,
       "num": 170319,
       "word": "薄荷健康",
       "onboard_time": 1717390340,
       "rank": 34,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 169715,
+      "num": 169715,
+      "word": "女子带90只吸血鬼蟹入境被拦截",
+      "onboard_time": 1717406839,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169699,
@@ -3843,6 +3867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127119,
+      "num": 127119,
+      "word": "云合",
+      "onboard_time": 1717407019,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127004,
       "num": 127004,
       "word": "林更新录综艺点到了赵丽颖",
@@ -3955,14 +3987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124574,
-      "num": 124574,
-      "word": "印度现近50度高温连蚊子都消失",
-      "onboard_time": 1717406358,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124459,
       "num": 124459,
       "word": "台州石人峡户外事故都犯了哪些错",
@@ -4027,20 +4051,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121758,
+      "num": 121758,
+      "word": "猫 我会为了你尽力的",
+      "onboard_time": 1717406781,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121046,
       "num": 121046,
       "word": "你好星期六下期有胡歌高圆圆",
       "onboard_time": 1717251679,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119760,
-      "num": 119760,
-      "word": "全球现象级小说作者为中国大熊猫写书",
-      "onboard_time": 1717406420,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 119613,
@@ -4611,6 +4635,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 77301,
+      "num": 402436,
+      "word": "53岁阿姨开网约车16小时在路上",
+      "onboard_time": 1717405939,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76926,
       "num": 416642,
       "word": "高铁穿过麦田历史纵深感拉满",
@@ -4747,14 +4779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58969,
-      "num": 402436,
-      "word": "53岁阿姨开网约车16小时在路上",
-      "onboard_time": 1717405939,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56702,
       "num": 296819,
       "word": "村民偶遇熊猫激动切换拍摄模式",
@@ -4785,6 +4809,14 @@
       "onboard_time": 1717361291,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 51873,
+      "num": 229794,
+      "word": "余承东称智界S7女性用户占比近四成",
+      "onboard_time": 1717403899,
+      "rank": 20,
+      "category": "汽车"
     },
     {
       "raw_hot": 51808,
@@ -4841,14 +4873,6 @@
       "onboard_time": 1717337239,
       "rank": 9,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 47600,
-      "num": 226906,
-      "word": "余承东称智界S7女性用户占比近四成",
-      "onboard_time": 1717403899,
-      "rank": 20,
-      "category": "汽车"
     },
     {
       "raw_hot": 45209,

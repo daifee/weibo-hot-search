@@ -1,0 +1,410 @@
+{
+  "runTime": 1717407264156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1382640,
+        "num": 1382640,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 927496,
+        "num": 927496,
+        "word": "女科学家把3cm鱼骨切了500多片",
+        "onboard_time": 1717403419,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 54069,
+        "num": 783680,
+        "word": "升格视频诠释嫦娥奔月之美",
+        "onboard_time": 1717402099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735093,
+        "num": 735093,
+        "word": "张继科被前合作品牌方起诉",
+        "onboard_time": 1717402639,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558529,
+        "num": 558529,
+        "word": "全球男性HPV感染率高于女性",
+        "onboard_time": 1717404138,
+        "rank": 4,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 548314,
+        "num": 548314,
+        "word": "高圆圆 我gap比上班多",
+        "onboard_time": 1717405219,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 515244,
+        "num": 515244,
+        "word": "陈丽君 投票",
+        "onboard_time": 1717405699,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417824,
+        "num": 417824,
+        "word": "2只旅韩大熊猫幼崽最快2025年将回国",
+        "onboard_time": 1717400238,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405742,
+        "num": 405742,
+        "word": "男子用私密视频威胁前女友被刑拘",
+        "onboard_time": 1717395979,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77301,
+        "num": 391916,
+        "word": "53岁阿姨开网约车16小时在路上",
+        "onboard_time": 1717405939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1293666,
+        "num": 390303,
+        "word": "弟弟离高考只有三天手筋断了一根",
+        "onboard_time": 1717403958,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 385507,
+        "num": 385507,
+        "word": "原来衣服220g说的不是重量",
+        "onboard_time": 1717403839,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 373927,
+        "num": 373927,
+        "word": "杜海涛又又又瘦了",
+        "onboard_time": 1717388359,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329310,
+        "num": 329310,
+        "word": "科学家确认熬夜损伤大脑",
+        "onboard_time": 1717396397,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305291,
+        "num": 305291,
+        "word": "天王的爸天后的妈 破碎的家顶流的他",
+        "onboard_time": 1717391840,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 254476,
+        "num": 254476,
+        "word": "易烊千玺压腿旧照",
+        "onboard_time": 1717404558,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247549,
+        "num": 247549,
+        "word": "相思令已过审",
+        "onboard_time": 1717400478,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235162,
+        "num": 235162,
+        "word": "韩国市长请求中国赠送一对大熊猫",
+        "onboard_time": 1717377378,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235065,
+        "num": 235065,
+        "word": "墨雨云间 嫡嫁千金",
+        "onboard_time": 1717400419,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51873,
+        "num": 229794,
+        "word": "余承东称智界S7女性用户占比近四成",
+        "onboard_time": 1717403899,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 393097,
+        "num": 228377,
+        "word": "同事说领导是大专生干不成事情正常",
+        "onboard_time": 1717405219,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273400,
+        "num": 227475,
+        "word": "女子偷偷自己攒钱买房后被父母阴阳",
+        "onboard_time": 1717405158,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226419,
+        "num": 226419,
+        "word": "印度现近50度高温连蚊子都消失",
+        "onboard_time": 1717406358,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194719,
+        "num": 194719,
+        "word": "杨幂叫迪丽热巴BB",
+        "onboard_time": 1717390340,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186173,
+        "num": 186173,
+        "word": "美国仅7%用户每天使用ChatGPT",
+        "onboard_time": 1717401800,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 183119,
+        "num": 183119,
+        "word": "曹格说很需要一个女朋友",
+        "onboard_time": 1717389560,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180090,
+        "num": 180090,
+        "word": "阮经天 人光是活着就很努力了",
+        "onboard_time": 1717405339,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174408,
+        "num": 174408,
+        "word": "林俊杰怎么比陶喆还抽象",
+        "onboard_time": 1717401439,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191942,
+        "num": 174124,
+        "word": "迪丽热巴全新EP造型",
+        "onboard_time": 1717406358,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 163943,
+        "num": 171356,
+        "word": "防水猫洗了半天还是干的",
+        "onboard_time": 1717403839,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181230,
+        "num": 171323,
+        "word": "JDG官宣早点",
+        "onboard_time": 1717403718,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171000,
+        "num": 171000,
+        "word": "全球现象级小说作者为中国大熊猫写书",
+        "onboard_time": 1717406420,
+        "rank": 31,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 169715,
+        "num": 169715,
+        "word": "女子带90只吸血鬼蟹入境被拦截",
+        "onboard_time": 1717406839,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190664,
+        "num": 167671,
+        "word": "迪丽热巴新歌首发",
+        "onboard_time": 1717381458,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156994,
+        "num": 156994,
+        "word": "戚薇李承铉去了周杰伦演唱会",
+        "onboard_time": 1717398920,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146803,
+        "num": 146803,
+        "word": "张若昀范闲5月角色热度榜冠军",
+        "onboard_time": 1717403180,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145937,
+        "num": 145937,
+        "word": "这英去摇龚琳娜了",
+        "onboard_time": 1717396338,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144155,
+        "num": 144155,
+        "word": "艾米才16岁",
+        "onboard_time": 1717397658,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141528,
+        "num": 141528,
+        "word": "乌克兰承认巴勒斯坦是一个国家",
+        "onboard_time": 1717376059,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 140198,
+        "num": 140198,
+        "word": "祝绪丹白发公主切",
+        "onboard_time": 1717403599,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131173,
+        "num": 131173,
+        "word": "千山茶客",
+        "onboard_time": 1717402278,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 128937,
+        "num": 128937,
+        "word": "丁程鑫刘耀文日本路透",
+        "onboard_time": 1717395438,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127119,
+        "num": 127119,
+        "word": "云合",
+        "onboard_time": 1717407019,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121758,
+        "num": 121758,
+        "word": "猫 我会为了你尽力的",
+        "onboard_time": 1717406781,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 288806,
+        "num": 121745,
+        "word": "俞敏洪称东方甄选做的乱七八糟",
+        "onboard_time": 1717396579,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121705,
+        "num": 121705,
+        "word": "小狗去宠物店洗澡被误以为很脏",
+        "onboard_time": 1717401379,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121164,
+        "num": 121164,
+        "word": "加菲猫 杀我别用小猫刀",
+        "onboard_time": 1717402818,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118641,
+        "num": 118641,
+        "word": "mbti新题",
+        "onboard_time": 1717399818,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105412,
+        "num": 105412,
+        "word": "奶爸把福宝内舍打扫得一尘不染",
+        "onboard_time": 1717405579,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103172,
+        "num": 103172,
+        "word": "蔡徐坤转场变装",
+        "onboard_time": 1717405459,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}
