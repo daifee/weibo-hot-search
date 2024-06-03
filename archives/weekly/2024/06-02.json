@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717403090397,
+  "endTime": 1717403840395,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 861267,
+      "num": 861267,
+      "word": "2只旅韩大熊猫幼崽最快2025年将回国",
+      "onboard_time": 1717400238,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 859961,
       "num": 450259,
       "word": "一栗小莎子官宣生子",
@@ -491,14 +499,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 736072,
-      "num": 736072,
-      "word": "2只旅韩大熊猫幼崽最快2025年将回国",
-      "onboard_time": 1717400238,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 735032,
       "num": 525841,
       "word": "最后的椰子鞋上市已无消费者排队等待",
@@ -617,6 +617,14 @@
       "onboard_time": 1717396338,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 622491,
+      "num": 318787,
+      "word": "张继科被前合作品牌方起诉",
+      "onboard_time": 1717402639,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 620512,
@@ -1411,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356701,
+      "num": 356701,
+      "word": "相思令已过审",
+      "onboard_time": 1717400478,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354066,
       "num": 354066,
       "word": "欧冠决赛",
@@ -1459,14 +1475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 336527,
-      "num": 336527,
-      "word": "相思令已过审",
-      "onboard_time": 1717400478,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 335624,
       "num": 218433,
       "word": "汪苏泷加场",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1717337960,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 326286,
+      "num": 326286,
+      "word": "林俊杰怎么比陶喆还抽象",
+      "onboard_time": 1717401439,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 324734,
@@ -1627,14 +1643,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301671,
-      "num": 301671,
-      "word": "林俊杰怎么比陶喆还抽象",
-      "onboard_time": 1717401439,
-      "rank": 9,
-      "category": "演出"
-    },
-    {
       "raw_hot": 298994,
       "num": 298994,
       "word": "张雪峰2026年志愿填报服务已售罄",
@@ -1713,6 +1721,14 @@
       "onboard_time": 1717371016,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289790,
+      "num": 223299,
+      "word": "美国仅7%用户每天使用ChatGPT",
+      "onboard_time": 1717401800,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 289469,
@@ -1795,6 +1811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278175,
+      "num": 278175,
+      "word": "mbti新题",
+      "onboard_time": 1717399818,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275870,
       "num": 275870,
       "word": "朱婷就发了个球",
@@ -1867,28 +1891,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263174,
-      "num": 223299,
-      "word": "美国仅7%用户每天使用ChatGPT",
-      "onboard_time": 1717401800,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 262095,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
       "onboard_time": 1717254139,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 259221,
-      "num": 259221,
-      "word": "张继科被前合作品牌方起诉",
-      "onboard_time": 1717402639,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 259104,
@@ -1931,6 +1939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253741,
+      "num": 211671,
+      "word": "女科学家把3cm鱼骨切了500多片",
+      "onboard_time": 1717403419,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 253078,
       "num": 343095,
       "word": "王楚钦vs林高远",
@@ -1956,7 +1972,7 @@
     },
     {
       "raw_hot": 250545,
-      "num": 222746,
+      "num": 246083,
       "word": "墨雨云间 嫡嫁千金",
       "onboard_time": 1717400419,
       "rank": 22,
@@ -2241,14 +2257,6 @@
       "onboard_time": 1717290136,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222041,
-      "num": 222041,
-      "word": "mbti新题",
-      "onboard_time": 1717399818,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 221679,
@@ -2843,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178560,
+      "num": 178560,
+      "word": "加菲猫 杀我别用小猫刀",
+      "onboard_time": 1717402818,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177949,
       "num": 177949,
       "word": "重庆狼队妖刀断开连接",
@@ -2899,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174358,
+      "num": 174358,
+      "word": "张若昀范闲5月角色热度榜冠军",
+      "onboard_time": 1717403180,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173431,
       "num": 173431,
       "word": "外交部回应菲总统涉南海问题表态",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1717290676,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173277,
+      "num": 173277,
+      "word": "千山茶客",
+      "onboard_time": 1717402278,
+      "rank": 33,
+      "category": "读书作家"
     },
     {
       "raw_hot": 173225,
@@ -3547,14 +3579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139169,
-      "num": 139169,
-      "word": "千山茶客",
-      "onboard_time": 1717402278,
-      "rank": 33,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 138775,
       "num": 138775,
       "word": "哪些人不适合骑行锻炼",
@@ -3691,14 +3715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127237,
-      "num": 127237,
-      "word": "加菲猫 杀我别用小猫刀",
-      "onboard_time": 1717402818,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 127157,
       "num": 516991,
       "word": "20元的面他付了200元还坚持不让退",
@@ -3769,6 +3785,14 @@
       "onboard_time": 1717402218,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125977,
+      "num": 125977,
+      "word": "JDG官宣早点",
+      "onboard_time": 1717403718,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 125680,
@@ -3856,6 +3880,14 @@
       "word": "陶喆毕业后两年没有工作",
       "onboard_time": 1717400180,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123305,
+      "num": 123305,
+      "word": "祝绪丹白发公主切",
+      "onboard_time": 1717403599,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -4595,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53277,
+      "num": 733730,
+      "word": "升格视频诠释嫦娥奔月之美",
+      "onboard_time": 1717402099,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52690,
       "num": 52690,
       "word": "薛之谦天外来物巡回演唱会",
@@ -4624,14 +4664,6 @@
       "word": "花1万网购一个家",
       "onboard_time": 1717300397,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51493,
-      "num": 733730,
-      "word": "升格视频诠释嫦娥奔月之美",
-      "onboard_time": 1717402099,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -4681,6 +4713,14 @@
       "onboard_time": 1717283353,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43661,
+      "num": 212221,
+      "word": "2000多年前治风湿的药方今天还能用",
+      "onboard_time": 1717403658,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 43020,
