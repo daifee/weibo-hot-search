@@ -1,0 +1,410 @@
+{
+  "runTime": 1717382080633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4295015,
+        "num": 4295015,
+        "word": "韩国市长请求中国赠送一对大熊猫",
+        "onboard_time": 1717377378,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1411724,
+        "num": 1411724,
+        "word": "迪丽热巴新歌首发",
+        "onboard_time": 1717381458,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16219,
+        "num": 1229722,
+        "word": "千里江山图藏着人间烟火",
+        "onboard_time": 1717328719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1188039,
+        "num": 1188039,
+        "word": "乌克兰承认巴勒斯坦是一个国家",
+        "onboard_time": 1717376059,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 824457,
+        "num": 824457,
+        "word": "马尔代夫决定禁止以色列公民入境",
+        "onboard_time": 1717374562,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 793721,
+        "num": 793721,
+        "word": "张雪峰连麦490多分农村女孩",
+        "onboard_time": 1717377438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 783135,
+        "num": 783135,
+        "word": "JDG无畏来了",
+        "onboard_time": 1717381518,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 689414,
+        "num": 689414,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717375998,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 513683,
+        "num": 513683,
+        "word": "范闲扛起巴雷特",
+        "onboard_time": 1717377858,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15267,
+        "num": 510605,
+        "word": "被稳稳托住的感觉真好",
+        "onboard_time": 1717370236,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 509437,
+        "num": 509437,
+        "word": "香港顶流姜涛跳晚安大小姐",
+        "onboard_time": 1717372037,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 506949,
+        "num": 506949,
+        "word": "JDG进军KPL",
+        "onboard_time": 1717381638,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 500010,
+        "num": 500010,
+        "word": "以色列",
+        "onboard_time": 1717376239,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 457997,
+        "num": 457997,
+        "word": "国安机关破获一起英国MI6重大间谍案",
+        "onboard_time": 1717377378,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 457215,
+        "num": 457215,
+        "word": "93岁默多克第5次结婚",
+        "onboard_time": 1717379717,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413456,
+        "num": 413456,
+        "word": "迪丽热巴32岁生日造型",
+        "onboard_time": 1717381938,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363579,
+        "num": 363579,
+        "word": "演得有点不顾观众死活了",
+        "onboard_time": 1717339460,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300715,
+        "num": 300715,
+        "word": "朝鲜将暂停向韩国投放垃圾",
+        "onboard_time": 1717371616,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 280258,
+        "num": 280258,
+        "word": "李沁一字告别庆余年",
+        "onboard_time": 1717336459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240966,
+        "num": 240966,
+        "word": "长公主收官小作文 2字",
+        "onboard_time": 1717380379,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351659,
+        "num": 236250,
+        "word": "女子千元快递放门口被当垃圾丢了",
+        "onboard_time": 1717378638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228824,
+        "num": 228824,
+        "word": "印度大选已有33名工作人员被热死",
+        "onboard_time": 1717375039,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 220605,
+        "num": 220605,
+        "word": "上市药店卖彩票一年销售7698万",
+        "onboard_time": 1717373418,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209958,
+        "num": 209958,
+        "word": "吴宣仪忘了放杨超越的照片",
+        "onboard_time": 1717340301,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209441,
+        "num": 209441,
+        "word": "孩子出了社会发现全是好人",
+        "onboard_time": 1717377498,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205893,
+        "num": 205893,
+        "word": "王俊凯工作室 多发爱看",
+        "onboard_time": 1717374497,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199112,
+        "num": 199112,
+        "word": "庆余年第三季",
+        "onboard_time": 1717333279,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197783,
+        "num": 197783,
+        "word": "闵塔鲨卡点发迪丽热巴",
+        "onboard_time": 1717378999,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186737,
+        "num": 186737,
+        "word": "三甲医生教你正确吃零食",
+        "onboard_time": 1717380076,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185444,
+        "num": 185444,
+        "word": "张婧仪 古早TVB味儿",
+        "onboard_time": 1717373838,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179089,
+        "num": 179089,
+        "word": "最适合i人的职业出现了",
+        "onboard_time": 1717381638,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174373,
+        "num": 174373,
+        "word": "打开了关闭三年的朋友圈",
+        "onboard_time": 1717343718,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163793,
+        "num": 163793,
+        "word": "奔跑吧",
+        "onboard_time": 1717377558,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156447,
+        "num": 156447,
+        "word": "TF三代九月前或将出道",
+        "onboard_time": 1717379959,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151028,
+        "num": 151028,
+        "word": "A股",
+        "onboard_time": 1717381458,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143641,
+        "num": 143641,
+        "word": "洪竹要说再见了",
+        "onboard_time": 1717344378,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139929,
+        "num": 139929,
+        "word": "墨雨云间",
+        "onboard_time": 1717340660,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134821,
+        "num": 134821,
+        "word": "高考时间",
+        "onboard_time": 1717375818,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133418,
+        "num": 133418,
+        "word": "日本地震",
+        "onboard_time": 1717370594,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133249,
+        "num": 133249,
+        "word": "不上班如何实现财富自由",
+        "onboard_time": 1717376119,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123455,
+        "num": 123455,
+        "word": "小猫真的很洁癖",
+        "onboard_time": 1717378638,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120165,
+        "num": 120165,
+        "word": "邓超抱的竟然是鹿晗",
+        "onboard_time": 1717349773,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119613,
+        "num": 119613,
+        "word": "短视频有自己的横店",
+        "onboard_time": 1717381697,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116011,
+        "num": 116011,
+        "word": "G2夺冠",
+        "onboard_time": 1717370715,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114585,
+        "num": 114585,
+        "word": "蔡赟 你们一输球我就挨骂",
+        "onboard_time": 1717374018,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114127,
+        "num": 114127,
+        "word": "何尊和太阳神鸟登上纪念币",
+        "onboard_time": 1717381638,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109037,
+        "num": 109037,
+        "word": "艾薇儿否认上歌手",
+        "onboard_time": 1717371978,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106776,
+        "num": 106776,
+        "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
+        "onboard_time": 1717326018,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103798,
+        "num": 103798,
+        "word": "守护甜心续作漫画定档",
+        "onboard_time": 1717378578,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103505,
+        "num": 103505,
+        "word": "真的会越说越老",
+        "onboard_time": 1717374979,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的文化足迹遍及大江南北#"
+    }
+  }
+}

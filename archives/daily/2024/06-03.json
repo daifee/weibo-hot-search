@@ -1,10 +1,10 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717378944374,
+  "endTime": 1717382080633,
   "band_list": [
     {
-      "raw_hot": 3421890,
-      "num": 3421890,
+      "raw_hot": 4295015,
+      "num": 4295015,
       "word": "韩国市长请求中国赠送一对大熊猫",
       "onboard_time": 1717377378,
       "rank": 22,
@@ -35,6 +35,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1411724,
+      "num": 1411724,
+      "word": "迪丽热巴新歌首发",
+      "onboard_time": 1717381458,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1140654,
       "num": 1140654,
       "word": "朝鲜将暂停向韩国投放垃圾",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1077396,
-      "num": 413011,
+      "num": 500010,
       "word": "以色列",
       "onboard_time": 1717376239,
       "rank": 10,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 998937,
-      "num": 394966,
+      "num": 509437,
       "word": "香港顶流姜涛跳晚安大小姐",
       "onboard_time": 1717372037,
       "rank": 11,
@@ -68,11 +76,19 @@
     },
     {
       "raw_hot": 858523,
-      "num": 409056,
+      "num": 793721,
       "word": "张雪峰连麦490多分农村女孩",
       "onboard_time": 1717377438,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 783135,
+      "num": 783135,
+      "word": "JDG无畏来了",
+      "onboard_time": 1717381518,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 777310,
@@ -147,11 +163,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513683,
+      "num": 513683,
+      "word": "范闲扛起巴雷特",
+      "onboard_time": 1717377858,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 506949,
+      "num": 506949,
+      "word": "JDG进军KPL",
+      "onboard_time": 1717381638,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 505125,
       "num": 505125,
       "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
       "onboard_time": 1717326018,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 457215,
+      "num": 457215,
+      "word": "93岁默多克第5次结婚",
+      "onboard_time": 1717379717,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -171,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413456,
+      "num": 413456,
+      "word": "迪丽热巴32岁生日造型",
+      "onboard_time": 1717381938,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386015,
       "num": 386015,
       "word": "王俊凯工作室 多发爱看",
@@ -187,12 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 339578,
-      "num": 339578,
-      "word": "范闲扛起巴雷特",
-      "onboard_time": 1717377858,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 351659,
+      "num": 236250,
+      "word": "女子千元快递放门口被当垃圾丢了",
+      "onboard_time": 1717378638,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338302,
@@ -275,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 240966,
+      "num": 240966,
+      "word": "长公主收官小作文 2字",
+      "onboard_time": 1717380379,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239932,
       "num": 239932,
       "word": "G2夺冠",
@@ -331,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 197783,
+      "num": 197783,
+      "word": "闵塔鲨卡点发迪丽热巴",
+      "onboard_time": 1717378999,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197736,
       "num": 197736,
       "word": "删了吧有个研究生破防了",
@@ -353,6 +417,14 @@
       "onboard_time": 1717345097,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186737,
+      "num": 186737,
+      "word": "三甲医生教你正确吃零食",
+      "onboard_time": 1717380076,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 184070,
@@ -379,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179089,
+      "num": 179089,
+      "word": "最适合i人的职业出现了",
+      "onboard_time": 1717381638,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172767,
       "num": 172767,
       "word": "李盈莹答朱婷为何没上场",
@@ -393,14 +473,6 @@
       "onboard_time": 1717335499,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168901,
-      "num": 168901,
-      "word": "女子千元快递放门口被当垃圾丢了",
-      "onboard_time": 1717378638,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167968,
@@ -459,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156447,
+      "num": 156447,
+      "word": "TF三代九月前或将出道",
+      "onboard_time": 1717379959,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154208,
       "num": 195159,
       "word": "逆水寒 剑网三",
@@ -473,6 +553,14 @@
       "onboard_time": 1717337719,
       "rank": 30,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151028,
+      "num": 151028,
+      "word": "A股",
+      "onboard_time": 1717381458,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 148360,
@@ -595,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119613,
+      "num": 119613,
+      "word": "短视频有自己的横店",
+      "onboard_time": 1717381697,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119057,
       "num": 119057,
       "word": "逆水寒",
@@ -635,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114127,
+      "num": 114127,
+      "word": "何尊和太阳神鸟登上纪念币",
+      "onboard_time": 1717381638,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114119,
       "num": 114119,
       "word": "张杰Angel改张杰",
@@ -659,20 +763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103798,
+      "num": 103798,
+      "word": "守护甜心续作漫画定档",
+      "onboard_time": 1717378578,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102914,
       "num": 102914,
       "word": "贾乃亮回复郭晓婷",
       "onboard_time": 1717368492,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101008,
-      "num": 101008,
-      "word": "守护甜心续作漫画定档",
-      "onboard_time": 1717378578,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 99716,
@@ -796,7 +900,7 @@
     },
     {
       "raw_hot": 49724,
-      "num": 448069,
+      "num": 510605,
       "word": "被稳稳托住的感觉真好",
       "onboard_time": 1717370236,
       "rank": 21,
