@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717439201600,
+  "endTime": 1717439945334,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -4331,6 +4331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202015,
+      "num": 57681,
+      "word": "丁真自曝刚上岛跟不上节奏",
+      "onboard_time": 1717437193,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201968,
       "num": 201968,
       "word": "蔡徐坤转场变装",
@@ -4889,14 +4897,6 @@
       "onboard_time": 1717311558,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187384,
-      "num": 57681,
-      "word": "丁真自曝刚上岛跟不上节奏",
-      "onboard_time": 1717437193,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 187295,
@@ -8451,6 +8451,14 @@
       "category": "情感,母婴育儿"
     },
     {
+      "raw_hot": 66426,
+      "num": 56674,
+      "word": "海清曝温峥嵘把大学宿舍烧了",
+      "onboard_time": 1717437552,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 65360,
       "num": 375190,
       "word": "为什么免疫力差要多喝鲜奶",
@@ -8569,14 +8577,6 @@
       "onboard_time": 1717310058,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56674,
-      "num": 56674,
-      "word": "海清曝温峥嵘把大学宿舍烧了",
-      "onboard_time": 1717437552,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 56334,
@@ -9345,6 +9345,14 @@
       "onboard_time": 1717247238,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 8201,
+      "num": 53683,
+      "word": "义乌老奶奶闲不下来在家做手工活",
+      "onboard_time": 1717439231,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6537,

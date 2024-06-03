@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717439201600,
+  "endTime": 1717439945334,
   "band_list": [
     {
       "raw_hot": 1089979,
@@ -155,6 +155,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 202015,
+      "num": 57681,
+      "word": "丁真自曝刚上岛跟不上节奏",
+      "onboard_time": 1717437193,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197445,
       "num": 197445,
       "word": "樊振东男单冠军",
@@ -169,14 +177,6 @@
       "onboard_time": 1717432216,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187384,
-      "num": 57681,
-      "word": "丁真自曝刚上岛跟不上节奏",
-      "onboard_time": 1717437193,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 167995,
@@ -427,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66426,
+      "num": 56674,
+      "word": "海清曝温峥嵘把大学宿舍烧了",
+      "onboard_time": 1717437552,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64985,
       "num": 255871,
       "word": "国乒又双叒包揽冠亚军了",
       "onboard_time": 1717429938,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56674,
-      "num": 56674,
-      "word": "海清曝温峥嵘把大学宿舍烧了",
-      "onboard_time": 1717437552,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 49466,
@@ -499,7 +499,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18141,
+      "raw_hot": 18510,
       "num": 25273,
       "word": "伯克希尔哈撒韦",
       "onboard_time": 1717425499,
@@ -519,6 +519,14 @@
       "num": 149269,
       "word": "护士救人一命却悄悄自责",
       "onboard_time": 1717433654,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8201,
+      "num": 53683,
+      "word": "义乌老奶奶闲不下来在家做手工活",
+      "onboard_time": 1717439231,
       "rank": 9,
       "category": "社会新闻"
     },
