@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717392009745,
+  "endTime": 1717392955427,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -155,6 +155,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 735032,
+      "num": 426230,
+      "word": "最后的椰子鞋上市已无消费者排队等待",
+      "onboard_time": 1717387880,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 719619,
       "num": 505891,
       "word": "退票",
@@ -211,6 +219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 576410,
+      "num": 576410,
+      "word": "浙江2名游客横渡溪流被冲走",
+      "onboard_time": 1717389982,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 575186,
       "num": 455829,
       "word": "长期化妆产生的粉尘会导致肺结节吗",
@@ -225,14 +241,6 @@
       "onboard_time": 1717344378,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 567730,
-      "num": 426230,
-      "word": "最后的椰子鞋上市已无消费者排队等待",
-      "onboard_time": 1717387880,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 555388,
@@ -323,14 +331,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 437644,
-      "num": 437644,
-      "word": "浙江2名游客横渡溪流被冲走",
-      "onboard_time": 1717389982,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 434783,
       "num": 298161,
       "word": "刘诗诗 BobbiBrown",
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 368155,
+      "num": 368155,
+      "word": "天王的爸天后的妈 破碎的家顶流的他",
+      "onboard_time": 1717391840,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 351659,
       "num": 248090,
       "word": "女子千元快递放门口被当垃圾丢了",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 347110,
-      "num": 305718,
+      "num": 307218,
       "word": "高考为什么会在六月的七八号",
       "onboard_time": 1717389802,
       "rank": 21,
@@ -393,6 +401,14 @@
       "onboard_time": 1717339699,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323624,
+      "num": 323624,
+      "word": "JDG官宣无畏",
+      "onboard_time": 1717389501,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 321285,
@@ -409,14 +425,6 @@
       "onboard_time": 1717389259,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 314210,
-      "num": 314210,
-      "word": "JDG官宣无畏",
-      "onboard_time": 1717389501,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 304041,
@@ -475,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272492,
+      "num": 272492,
+      "word": "景甜AI建模身材",
+      "onboard_time": 1717389802,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264632,
       "num": 195761,
       "word": "杨迪说现在圈内疯子很多",
@@ -489,14 +505,6 @@
       "onboard_time": 1717338980,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260228,
-      "num": 260228,
-      "word": "景甜AI建模身材",
-      "onboard_time": 1717389802,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 251464,
@@ -547,6 +555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238069,
+      "num": 238069,
+      "word": "夏天适合上班的5大理由",
+      "onboard_time": 1717391659,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 235926,
       "num": 235926,
       "word": "三甲医生教你正确吃零食",
@@ -561,6 +577,14 @@
       "onboard_time": 1717334360,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 231979,
+      "num": 231979,
+      "word": "魔卡少女樱 小樱初设形象",
+      "onboard_time": 1717392139,
+      "rank": 26,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 228841,
@@ -603,20 +627,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212305,
-      "num": 186597,
-      "word": "夏天适合上班的5大理由",
-      "onboard_time": 1717391659,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211333,
       "num": 211333,
       "word": "檀健次第二张个人专辑",
       "onboard_time": 1717385297,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210132,
+      "num": 210132,
+      "word": "王星越开辟新赛道",
+      "onboard_time": 1717392018,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 207859,
@@ -673,6 +697,22 @@
       "onboard_time": 1717320857,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197526,
+      "num": 197526,
+      "word": "邱建军遗体告别式女儿哭喊爸爸",
+      "onboard_time": 1717392198,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196409,
+      "num": 196409,
+      "word": "李蠕蠕 听说我上歌手了",
+      "onboard_time": 1717392558,
+      "rank": 32,
+      "category": "网红,作品衍生"
     },
     {
       "raw_hot": 193680,
@@ -745,6 +785,14 @@
       "onboard_time": 1717388540,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 174711,
+      "num": 174711,
+      "word": "快乐老友记厚米团云陪看",
+      "onboard_time": 1717392678,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 173431,
@@ -875,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158772,
-      "num": 158772,
-      "word": "天王的爸天后的妈 破碎的家顶流的他",
-      "onboard_time": 1717391840,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158453,
       "num": 158453,
       "word": "小猫真的很洁癖",
@@ -931,6 +971,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 149815,
+      "num": 149815,
+      "word": "圈地榜",
+      "onboard_time": 1717392381,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148360,
       "num": 148360,
       "word": "张杰 感冒",
@@ -945,6 +993,14 @@
       "onboard_time": 1717335799,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142524,
+      "num": 354950,
+      "word": "青春是一首永不老去的歌",
+      "onboard_time": 1717391360,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 139218,
@@ -969,14 +1025,6 @@
       "onboard_time": 1717387459,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136183,
-      "num": 136183,
-      "word": "青春是一首永不老去的歌",
-      "onboard_time": 1717391360,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 135884,
@@ -1195,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108573,
+      "num": 436699,
+      "word": "一体育老师用28年照顾276个孩子",
+      "onboard_time": 1717389921,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104008,
       "num": 193838,
       "word": "杨舒予太牛了",
@@ -1279,14 +1335,6 @@
       "num": 513940,
       "word": "大熊猫天宝的生日窝头好可爱",
       "onboard_time": 1717387159,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70480,
-      "num": 436699,
-      "word": "一体育老师用28年照顾276个孩子",
-      "onboard_time": 1717389921,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1419,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33793,
+      "num": 615533,
+      "word": "月面软着陆背后的发动机奥秘",
+      "onboard_time": 1717391420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32650,
       "num": 29127,
       "word": "张若昀为每个角色活过",
@@ -1456,14 +1512,6 @@
       "word": "千里江山图藏着人间烟火",
       "onboard_time": 1717328719,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17466,
-      "num": 615533,
-      "word": "月面软着陆背后的发动机奥秘",
-      "onboard_time": 1717391420,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
