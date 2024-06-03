@@ -1,0 +1,410 @@
+{
+  "runTime": 1717425351339,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1455249,
+        "num": 1455249,
+        "word": "樊振东男单冠军",
+        "onboard_time": 1717422559,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1215577,
+        "num": 1215577,
+        "word": "秦岚觉得结了婚就不要离婚",
+        "onboard_time": 1717420338,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22828,
+        "num": 952301,
+        "word": "中国首个重载铁路加氢站",
+        "onboard_time": 1717401620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862983,
+        "num": 862983,
+        "word": "婚房装成这样结婚更难了",
+        "onboard_time": 1717420578,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 758606,
+        "num": 758606,
+        "word": "才知道微信可以锁屏录音",
+        "onboard_time": 1717411697,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 658568,
+        "num": 658568,
+        "word": "毒液3直到死亡将他们分开",
+        "onboard_time": 1717424301,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 639056,
+        "num": 639056,
+        "word": "王楚钦 脚踝",
+        "onboard_time": 1717423699,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 635932,
+        "num": 635932,
+        "word": "樊振东4比3战胜王楚钦",
+        "onboard_time": 1717422500,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603560,
+        "num": 603560,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594703,
+        "num": 594703,
+        "word": "吴谨言演技",
+        "onboard_time": 1717418238,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413996,
+        "num": 413996,
+        "word": "身中15刀牺牲民警的女儿即将高考",
+        "onboard_time": 1717417757,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410047,
+        "num": 410047,
+        "word": "樊振东说更在意王楚钦伤势",
+        "onboard_time": 1717424239,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402570,
+        "num": 402570,
+        "word": "叶轻眉 大女主",
+        "onboard_time": 1717414938,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393899,
+        "num": 393899,
+        "word": "首饰金价重回5字头",
+        "onboard_time": 1717418478,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343225,
+        "num": 343225,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1717414337,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76600,
+        "num": 337151,
+        "word": "327家国家一级博物馆名单",
+        "onboard_time": 1717422500,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334089,
+        "num": 334089,
+        "word": "王楚钦状态",
+        "onboard_time": 1717420217,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321685,
+        "num": 321685,
+        "word": "外交部回应靖国神社石柱被涂鸦",
+        "onboard_time": 1717411817,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320842,
+        "num": 320842,
+        "word": "93岁默多克迎娶67岁俄裔科学家",
+        "onboard_time": 1717418420,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292134,
+        "num": 292134,
+        "word": "孙颖莎女单夺冠",
+        "onboard_time": 1717416618,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379737,
+        "num": 281029,
+        "word": "鞠婧祎背沟好深",
+        "onboard_time": 1717412538,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252534,
+        "num": 252534,
+        "word": "蔡徐坤染了银发梦回偶练",
+        "onboard_time": 1717408220,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249205,
+        "num": 249205,
+        "word": "战至巅峰",
+        "onboard_time": 1717424420,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229084,
+        "num": 229084,
+        "word": "孙颖莎说和王曼昱都是胜利者",
+        "onboard_time": 1717423820,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198152,
+        "num": 198152,
+        "word": "知道为什么洪世贤认不出品如了",
+        "onboard_time": 1717413857,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184228,
+        "num": 184228,
+        "word": "宋雨琦章昊Ricky国内同框",
+        "onboard_time": 1717423400,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176631,
+        "num": 176631,
+        "word": "戚薇录乘风十天没理李承铉",
+        "onboard_time": 1717413318,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175458,
+        "num": 175458,
+        "word": "迪丽热巴叼花镜头",
+        "onboard_time": 1717418658,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172148,
+        "num": 172148,
+        "word": "孙颖莎王曼昱地表最强攻防战",
+        "onboard_time": 1717421059,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162507,
+        "num": 162507,
+        "word": "秦岚辛芷蕾是懂互相伤害的",
+        "onboard_time": 1717423579,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162395,
+        "num": 162395,
+        "word": "菲律宾一火山喷发灰柱高达5000米",
+        "onboard_time": 1717423820,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162265,
+        "num": 162265,
+        "word": "朋友圈全开的是什么样的人",
+        "onboard_time": 1717424959,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160527,
+        "num": 160527,
+        "word": "于正 选角",
+        "onboard_time": 1717411697,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160202,
+        "num": 160202,
+        "word": "缺牙齿会惩罚每一个嘴硬的人",
+        "onboard_time": 1717415598,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100011,
+        "num": 155415,
+        "word": "层出不穷的老年人养生骗局",
+        "onboard_time": 1717423219,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154166,
+        "num": 154166,
+        "word": "以为爸妈只给妹妹买了新玩具车",
+        "onboard_time": 1717425198,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138620,
+        "num": 138620,
+        "word": "大象主动翘jiojio做美甲",
+        "onboard_time": 1717422799,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134745,
+        "num": 134745,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1717417338,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124503,
+        "num": 124503,
+        "word": "迪丽热巴白色羽毛上衣",
+        "onboard_time": 1717419738,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123713,
+        "num": 123713,
+        "word": "便利贴正确使用方法",
+        "onboard_time": 1717423938,
+        "rank": 39,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 122850,
+        "num": 122850,
+        "word": "范丞丞当着郑恺的面cue苗苗",
+        "onboard_time": 1717420518,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113451,
+        "num": 113451,
+        "word": "秦岚素颜好顶",
+        "onboard_time": 1717408158,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111997,
+        "num": 111997,
+        "word": "为什么收拾房间有助于攒钱",
+        "onboard_time": 1717424959,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110742,
+        "num": 110742,
+        "word": "原神艾梅莉埃",
+        "onboard_time": 1717411639,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107513,
+        "num": 107513,
+        "word": "Cat回归LPL解说席",
+        "onboard_time": 1717419258,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104596,
+        "num": 104596,
+        "word": "tbz票价",
+        "onboard_time": 1717422380,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104457,
+        "num": 104457,
+        "word": "当外卖小哥遇上了当保安的发小",
+        "onboard_time": 1717424900,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104452,
+        "num": 104452,
+        "word": "WBG战胜iG",
+        "onboard_time": 1717425259,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102463,
+        "num": 102463,
+        "word": "陈丽君 投票",
+        "onboard_time": 1717405699,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101708,
+        "num": 101708,
+        "word": "迪丽热巴再跳女团舞",
+        "onboard_time": 1717419499,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
