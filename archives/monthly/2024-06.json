@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717385754574,
+  "endTime": 1717388679349,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 877287,
+      "num": 877287,
+      "word": "武汉民警壮烈牺牲鲜血浸透警服",
+      "onboard_time": 1717384579,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 871614,
       "num": 871614,
       "word": "张雪峰连麦490多分农村女孩",
@@ -515,6 +523,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 852396,
+      "num": 852396,
+      "word": "泰国人爱上中国的榴莲直播",
+      "onboard_time": 1717385056,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 849600,
+      "num": 523242,
+      "word": "迪丽热巴32岁生日造型",
+      "onboard_time": 1717381938,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 848721,
       "num": 797203,
       "word": "孙楠出场歌手破1",
@@ -545,14 +569,6 @@
       "onboard_time": 1717222937,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 833225,
-      "num": 523242,
-      "word": "迪丽热巴32岁生日造型",
-      "onboard_time": 1717381938,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 832199,
@@ -739,6 +755,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 713713,
+      "num": 298857,
+      "word": "为什么茉酸奶这么贵还不干净",
+      "onboard_time": 1717386800,
+      "rank": 20,
+      "category": "财经,美食"
+    },
+    {
+      "raw_hot": 713569,
+      "num": 513781,
+      "word": "韩国人为何偏爱超大号食品",
+      "onboard_time": 1717383258,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 679701,
       "num": 371059,
       "word": "孙卓妈妈感谢学校保护孩子隐私",
@@ -883,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 600148,
+      "num": 512133,
+      "word": "我国历史上的熊猫外交",
+      "onboard_time": 1717385359,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 599804,
       "num": 599804,
       "word": "上市药店卖彩票一年销售7698万",
@@ -977,14 +1017,6 @@
       "onboard_time": 1717169360,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 556031,
-      "num": 382399,
-      "word": "韩国人为何偏爱超大号食品",
-      "onboard_time": 1717383258,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 555388,
@@ -1115,12 +1147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514587,
+      "num": 514587,
+      "word": "刘宇宁李一桐吻戏路透",
+      "onboard_time": 1717386981,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511978,
       "num": 474255,
       "word": "肖战张婧仪杀青照",
       "onboard_time": 1717298718,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511572,
+      "num": 511572,
+      "word": "杜海涛又又又瘦了",
+      "onboard_time": 1717388359,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 503579,
@@ -1275,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472873,
+      "num": 472873,
+      "word": "全国多地要求文娱场所中高考期间停业",
+      "onboard_time": 1717385359,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471409,
       "num": 471409,
       "word": "中国女排vs意大利女排",
@@ -1300,7 +1356,7 @@
     },
     {
       "raw_hot": 461737,
-      "num": 293960,
+      "num": 295120,
       "word": "王亚飞为迪丽热巴化的生日妆",
       "onboard_time": 1717382899,
       "rank": 15,
@@ -1400,6 +1456,14 @@
       "word": "TFBOYS六一物料",
       "onboard_time": 1717218437,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 434783,
+      "num": 298161,
+      "word": "刘诗诗 BobbiBrown",
+      "onboard_time": 1717386319,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -1779,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375141,
-      "num": 375141,
-      "word": "泰国人爱上中国的榴莲直播",
-      "onboard_time": 1717385056,
-      "rank": 9,
-      "category": "美食"
-    },
-    {
       "raw_hot": 374342,
       "num": 374342,
       "word": "孙楠 牛油果",
@@ -1969,6 +2025,14 @@
       "onboard_time": 1717291276,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 345290,
+      "num": 210320,
+      "word": "最后的椰子鞋上市已无消费者排队等待",
+      "onboard_time": 1717387880,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 345277,
@@ -2211,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311438,
+      "num": 311438,
+      "word": "长期化妆产生的粉尘会导致肺结节吗",
+      "onboard_time": 1717387699,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 310109,
       "num": 241779,
       "word": "明家好疯",
@@ -2265,6 +2337,14 @@
       "onboard_time": 1717333699,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300145,
+      "num": 300145,
+      "word": "快乐老友记",
+      "onboard_time": 1717387940,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 299356,
@@ -2593,14 +2673,6 @@
       "onboard_time": 1717340840,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262587,
-      "num": 386892,
-      "word": "武汉民警壮烈牺牲鲜血浸透警服",
-      "onboard_time": 1717384579,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262198,
@@ -3067,6 +3139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 218374,
+      "num": 218374,
+      "word": "JDG教练吕成林",
+      "onboard_time": 1717387159,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217781,
       "num": 217781,
       "word": "哪部动画片属于你的童年",
@@ -3297,14 +3377,6 @@
       "onboard_time": 1717297217,
       "rank": 9,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 203608,
-      "num": 198808,
-      "word": "我国历史上的熊猫外交",
-      "onboard_time": 1717385359,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 203543,
@@ -4203,6 +4275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163884,
+      "num": 163884,
+      "word": "许嵩成都抢票",
+      "onboard_time": 1717386558,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 163679,
       "num": 293812,
       "word": "儿童节的快乐是济公爷爷给的",
@@ -4273,6 +4353,14 @@
       "onboard_time": 1717207516,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161598,
+      "num": 161598,
+      "word": "庆余年不是张若昀第一次生孩子",
+      "onboard_time": 1717385959,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 161584,
@@ -4451,12 +4539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156413,
+      "num": 156413,
+      "word": "猪油到底有没有营养",
+      "onboard_time": 1717388239,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155990,
       "num": 155990,
       "word": "月红篇从你的全世界路过",
       "onboard_time": 1717333820,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155832,
+      "num": 155832,
+      "word": "台州石人峡",
+      "onboard_time": 1717385779,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155250,
@@ -4755,14 +4859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144314,
-      "num": 144314,
-      "word": "全国多地要求文娱场所中高考期间停业",
-      "onboard_time": 1717385359,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144045,
       "num": 144045,
       "word": "香港人的特种兵旅游正在挤爆深圳",
@@ -4955,6 +5051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136902,
+      "num": 136902,
+      "word": "JDG誓约",
+      "onboard_time": 1717387459,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136897,
       "num": 136897,
       "word": "法网",
@@ -5033,6 +5137,14 @@
       "onboard_time": 1717252039,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134739,
+      "num": 134739,
+      "word": "我少将喊话泽连斯基到底在为何而战",
+      "onboard_time": 1717388540,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134380,
@@ -5361,6 +5473,14 @@
       "onboard_time": 1717381697,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119189,
+      "num": 475007,
+      "word": "库迪9块9还能卷一夏",
+      "onboard_time": 1717384638,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 119129,
@@ -6627,6 +6747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43842,
+      "num": 513940,
+      "word": "大熊猫天宝的生日窝头好可爱",
+      "onboard_time": 1717387159,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43020,
       "num": 43020,
       "word": "头一次见有人cos风扇的",
@@ -6641,14 +6769,6 @@
       "onboard_time": 1717300397,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42120,
-      "num": 218506,
-      "word": "库迪9块9还能卷一夏",
-      "onboard_time": 1717384638,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 41920,
