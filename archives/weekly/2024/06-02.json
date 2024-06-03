@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717414476051,
+  "endTime": 1717418181519,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -315,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 941598,
+      "num": 941598,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1717414337,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 936212,
       "num": 936212,
       "word": "蔡徐坤染了银发梦回偶练",
@@ -441,6 +449,14 @@
       "onboard_time": 1717323678,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 792518,
+      "num": 792518,
+      "word": "外交部回应靖国神社石柱被涂鸦",
+      "onboard_time": 1717411817,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 787125,
@@ -571,14 +587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 716159,
-      "num": 716159,
-      "word": "外交部回应靖国神社石柱被涂鸦",
-      "onboard_time": 1717411817,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 713569,
       "num": 537484,
       "word": "韩国人为何偏爱超大号食品",
@@ -587,12 +595,36 @@
       "category": "美食"
     },
     {
+      "raw_hot": 713008,
+      "num": 713008,
+      "word": "孙颖莎4比3王曼昱",
+      "onboard_time": 1717417338,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 679093,
+      "num": 679093,
+      "word": "孙颖莎女单夺冠",
+      "onboard_time": 1717416618,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 679030,
       "num": 527778,
       "word": "墨雨云间",
       "onboard_time": 1717340660,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 677710,
+      "num": 677710,
+      "word": "戚薇录乘风十天没理李承铉",
+      "onboard_time": 1717413318,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 672083,
@@ -641,6 +673,14 @@
       "onboard_time": 1717408158,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 658577,
+      "num": 658577,
+      "word": "叶轻眉 大女主",
+      "onboard_time": 1717414938,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 657349,
@@ -740,7 +780,7 @@
     },
     {
       "raw_hot": 593439,
-      "num": 234323,
+      "num": 237057,
       "word": "鞠婧祎背沟好深",
       "onboard_time": 1717412538,
       "rank": 20,
@@ -875,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530889,
+      "num": 530889,
+      "word": "孙颖莎 正手",
+      "onboard_time": 1717416679,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530650,
       "num": 530650,
       "word": "93岁默多克第5次结婚",
@@ -947,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 512230,
+      "num": 512230,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1717412838,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511978,
       "num": 474255,
       "word": "肖战张婧仪杀青照",
@@ -969,14 +1025,6 @@
       "onboard_time": 1717308978,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 497875,
-      "num": 497875,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1717412838,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 495402,
@@ -1363,20 +1411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395028,
+      "num": 512913,
+      "word": "知道为什么洪世贤认不出品如了",
+      "onboard_time": 1717413857,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 394461,
       "num": 394461,
       "word": "女生婚礼前1天被告知酒店停业",
       "onboard_time": 1717248498,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 393846,
-      "num": 393846,
-      "word": "戚薇录乘风十天没理李承铉",
-      "onboard_time": 1717413318,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 393362,
@@ -1827,14 +1875,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 298099,
-      "num": 298099,
-      "word": "知道为什么洪世贤认不出品如了",
-      "onboard_time": 1717413857,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 297678,
       "num": 297678,
       "word": "刘亦菲草地牵狗",
@@ -2121,6 +2161,14 @@
       "onboard_time": 1717338561,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258272,
+      "num": 258272,
+      "word": "王源广州抢票",
+      "onboard_time": 1717416198,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 258157,
@@ -2537,6 +2585,14 @@
       "onboard_time": 1717374018,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214474,
+      "num": 214474,
+      "word": "张小斐 蜕变",
+      "onboard_time": 1717416979,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 211333,
@@ -2963,6 +3019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190356,
+      "num": 190356,
+      "word": "女单 精彩",
+      "onboard_time": 1717417279,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190142,
       "num": 194869,
       "word": "XYG夺冠",
@@ -2995,12 +3059,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189374,
+      "num": 189374,
+      "word": "身中15刀牺牲民警的女儿即将高考",
+      "onboard_time": 1717417757,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189217,
       "num": 184030,
       "word": "你可能不是e人也不是i人而是A人",
       "onboard_time": 1717256658,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189100,
+      "num": 189100,
+      "word": "河南漯河一轿车与火车相撞",
+      "onboard_time": 1717415598,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 189092,
@@ -3099,6 +3179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181991,
+      "num": 325784,
+      "word": "商户卖假牛肉被揭穿后摔相机",
+      "onboard_time": 1717412419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181899,
+      "num": 181899,
+      "word": "缺牙齿会惩罚每一个嘴硬的人",
+      "onboard_time": 1717415598,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181811,
       "num": 181811,
       "word": "惠若琪解说",
@@ -3113,6 +3209,14 @@
       "onboard_time": 1717324998,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179865,
+      "num": 179865,
+      "word": "嫦娥六号在月球发了第一条微博",
+      "onboard_time": 1717415299,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 179455,
@@ -3169,6 +3273,14 @@
       "onboard_time": 1717318698,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 177439,
+      "num": 177439,
+      "word": "舒淇 原生家庭",
+      "onboard_time": 1717415478,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 176946,
@@ -3699,14 +3811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154242,
-      "num": 154242,
-      "word": "王楚钦vs樊振东",
-      "onboard_time": 1717414337,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149815,
       "num": 149815,
       "word": "圈地榜",
@@ -3899,6 +4003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141603,
+      "num": 141603,
+      "word": "田雨的减肥秘籍是远离张若昀",
+      "onboard_time": 1717414697,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141450,
       "num": 141450,
       "word": "薛之谦演唱会背过身吸氧",
@@ -4067,6 +4179,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 130266,
+      "num": 319536,
+      "word": "88VIP大额券你用了吗",
+      "onboard_time": 1717416018,
+      "rank": 14,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 129559,
       "num": 129559,
       "word": "墨雨云间破优酷首日记录",
@@ -4075,20 +4195,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128946,
-      "num": 325784,
-      "word": "商户卖假牛肉被揭穿后摔相机",
-      "onboard_time": 1717412419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 128783,
       "num": 128783,
       "word": "群演口中的张若昀",
       "onboard_time": 1717397357,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128409,
+      "num": 128409,
+      "word": "嫦娥六号",
+      "onboard_time": 1717416679,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128282,
@@ -4105,6 +4225,14 @@
       "onboard_time": 1717317557,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127398,
+      "num": 127398,
+      "word": "黎深 共赴巫山神女祭祀",
+      "onboard_time": 1717415952,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 127393,
@@ -4331,12 +4459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121419,
+      "num": 551350,
+      "word": "嫦娥六号微博报到",
+      "onboard_time": 1717414938,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121046,
       "num": 121046,
       "word": "你好星期六下期有胡歌高圆圆",
       "onboard_time": 1717251679,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119858,
+      "num": 119858,
+      "word": "石宇奇登顶世界第一",
+      "onboard_time": 1717414760,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 119613,
@@ -4385,6 +4529,14 @@
       "onboard_time": 1717342218,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 118442,
+      "num": 118442,
+      "word": "孙颖莎太全面了",
+      "onboard_time": 1717417938,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 118407,
@@ -4723,6 +4875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102046,
+      "num": 102046,
+      "word": "佘诗曼曾买股票亏了20多万",
+      "onboard_time": 1717417457,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100946,
       "num": 110716,
       "word": "陈赫回应邓超",
@@ -4795,12 +4955,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94679,
+      "num": 94679,
+      "word": "私藏发型小技巧",
+      "onboard_time": 1717417037,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 94635,
       "num": 259363,
       "word": "爱蹲的人运气不会差",
       "onboard_time": 1717301058,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94008,
+      "num": 94008,
+      "word": "人民海军版我有一个帽衫又萌又猛",
+      "onboard_time": 1717416318,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 93774,
@@ -4977,6 +5153,14 @@
       "onboard_time": 1717274412,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73574,
+      "num": 127822,
+      "word": "研究称未来日本40%城镇街村将消失",
+      "onboard_time": 1717416018,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71657,
@@ -5363,6 +5547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31173,
+      "num": 255972,
+      "word": "深蓝汽车找网友借流量宠粉",
+      "onboard_time": 1717415658,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28946,
       "num": 1325960,
       "word": "不管几岁快乐万岁",
@@ -5393,6 +5585,14 @@
       "onboard_time": 1717271651,
       "rank": 32,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 22554,
+      "num": 800503,
+      "word": "中国首个重载铁路加氢站",
+      "onboard_time": 1717401620,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21723,
