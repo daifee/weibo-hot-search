@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717389462688,
+  "endTime": 1717392009745,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -115,7 +115,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1353051,
+      "raw_hot": 1375159,
       "num": 540580,
       "word": "杜海涛又又又瘦了",
       "onboard_time": 1717388359,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1070120,
+      "num": 434200,
+      "word": "杨幂叫迪丽热巴BB",
+      "onboard_time": 1717390340,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1046042,
       "num": 1017885,
       "word": "李沁一字告别庆余年",
@@ -281,6 +289,14 @@
       "onboard_time": 1717334360,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 912365,
+      "num": 432240,
+      "word": "曹格说很需要一个女朋友",
+      "onboard_time": 1717389560,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 901446,
@@ -595,6 +611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 575186,
+      "num": 455829,
+      "word": "长期化妆产生的粉尘会导致肺结节吗",
+      "onboard_time": 1717387699,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 574638,
       "num": 574638,
       "word": "洪竹要说再见了",
@@ -609,6 +633,14 @@
       "onboard_time": 1717301418,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 567730,
+      "num": 426230,
+      "word": "最后的椰子鞋上市已无消费者排队等待",
+      "onboard_time": 1717387880,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 566024,
@@ -641,6 +673,14 @@
       "onboard_time": 1717251079,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 546821,
+      "num": 546821,
+      "word": "李飞入股时代峰峻",
+      "onboard_time": 1717389202,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 543232,
@@ -787,14 +827,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 477647,
-      "num": 210320,
-      "word": "最后的椰子鞋上市已无消费者排队等待",
-      "onboard_time": 1717387880,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 475854,
       "num": 288884,
       "word": "王俊凯发和周杰伦合照",
@@ -859,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 455829,
-      "num": 455829,
-      "word": "长期化妆产生的粉尘会导致肺结节吗",
-      "onboard_time": 1717387699,
-      "rank": 18,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 453191,
       "num": 401337,
       "word": "庆余年看不了",
@@ -913,6 +937,14 @@
       "onboard_time": 1717375039,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 437644,
+      "num": 437644,
+      "word": "浙江2名游客横渡溪流被冲走",
+      "onboard_time": 1717389982,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434783,
@@ -1171,14 +1203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 375216,
-      "num": 375216,
-      "word": "李飞入股时代峰峻",
-      "onboard_time": 1717389202,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 370844,
       "num": 370844,
       "word": "快乐老友记",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1717378638,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347110,
+      "num": 305718,
+      "word": "高考为什么会在六月的七八号",
+      "onboard_time": 1717389802,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 346876,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1717389259,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 314210,
+      "num": 314210,
+      "word": "JDG官宣无畏",
+      "onboard_time": 1717389501,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 314000,
@@ -1635,6 +1675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 260228,
+      "num": 260228,
+      "word": "景甜AI建模身材",
+      "onboard_time": 1717389802,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258354,
       "num": 212291,
       "word": "张若昀庆余年2最后一场戏",
@@ -1721,6 +1769,14 @@
       "onboard_time": 1717374979,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 244659,
+      "num": 244659,
+      "word": "周杰伦演唱会开场以后的王俊凯",
+      "onboard_time": 1717389081,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 243833,
@@ -1987,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212305,
+      "num": 186597,
+      "word": "夏天适合上班的5大理由",
+      "onboard_time": 1717391659,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211333,
       "num": 211333,
       "word": "檀健次第二张个人专辑",
@@ -2219,6 +2283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193680,
+      "num": 193680,
+      "word": "无畏 一个崭新的开始",
+      "onboard_time": 1717390761,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193007,
       "num": 167668,
       "word": "那英和肖战告夏之光的状",
@@ -2355,14 +2427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182604,
-      "num": 182604,
-      "word": "周杰伦演唱会开场以后的王俊凯",
-      "onboard_time": 1717389081,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181811,
       "num": 181811,
       "word": "惠若琪解说",
@@ -2393,6 +2457,14 @@
       "onboard_time": 1717301958,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177949,
+      "num": 177949,
+      "word": "重庆狼队妖刀断开连接",
+      "onboard_time": 1717389921,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 177462,
@@ -2451,6 +2523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173225,
+      "num": 173225,
+      "word": "陈立农三专",
+      "onboard_time": 1717390880,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 172908,
       "num": 159450,
       "word": "邓紫棋演唱会",
@@ -2489,6 +2569,14 @@
       "onboard_time": 1717327338,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170319,
+      "num": 170319,
+      "word": "薄荷健康",
+      "onboard_time": 1717390340,
+      "rank": 34,
+      "category": "健康医疗,互联网"
     },
     {
       "raw_hot": 169699,
@@ -2729,6 +2817,14 @@
       "onboard_time": 1717383739,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158772,
+      "num": 158772,
+      "word": "天王的爸天后的妈 破碎的家顶流的他",
+      "onboard_time": 1717391840,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 158524,
@@ -3067,6 +3163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136183,
+      "num": 136183,
+      "word": "青春是一首永不老去的歌",
+      "onboard_time": 1717391360,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133691,
       "num": 133691,
       "word": "原来真的有人一上班就会吐",
@@ -3080,6 +3184,14 @@
       "word": "张若昀说等我回来",
       "onboard_time": 1717370475,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132820,
+      "num": 132820,
+      "word": "庆余年2CP投票",
+      "onboard_time": 1717391181,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -3193,6 +3305,14 @@
       "onboard_time": 1717383199,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126368,
+      "num": 126368,
+      "word": "无法想象在宋朝聚会有多开朗",
+      "onboard_time": 1717386919,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 125680,
@@ -3883,6 +4003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70480,
+      "num": 436699,
+      "word": "一体育老师用28年照顾276个孩子",
+      "onboard_time": 1717389921,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69196,
       "num": 101915,
       "word": "美国小伙飞杭州动漫展求婚女友",
@@ -4147,6 +4275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34706,
+      "num": 117619,
+      "word": "三夏时节农田里的动画片",
+      "onboard_time": 1717390401,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34655,
       "num": 402161,
       "word": "小朋友给执勤交警送儿童节礼物",
@@ -4256,6 +4392,14 @@
       "word": "校长六一表演唱跳连劈两个叉",
       "onboard_time": 1717260976,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17466,
+      "num": 615533,
+      "word": "月面软着陆背后的发动机奥秘",
+      "onboard_time": 1717391420,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

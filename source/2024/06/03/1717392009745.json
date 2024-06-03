@@ -1,0 +1,410 @@
+{
+  "runTime": 1717392009745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2271855,
+        "num": 2271855,
+        "word": "韩国市长请求中国赠送一对大熊猫",
+        "onboard_time": 1717377378,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 631124,
+        "num": 631124,
+        "word": "武汉民警壮烈牺牲鲜血浸透警服",
+        "onboard_time": 1717384579,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17466,
+        "num": 615533,
+        "word": "月面软着陆背后的发动机奥秘",
+        "onboard_time": 1717391420,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607051,
+        "num": 607051,
+        "word": "迪丽热巴新歌首发",
+        "onboard_time": 1717381458,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 546821,
+        "num": 546821,
+        "word": "李飞入股时代峰峻",
+        "onboard_time": 1717389202,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535229,
+        "num": 535229,
+        "word": "全国多地要求文娱场所中高考期间停业",
+        "onboard_time": 1717385359,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515184,
+        "num": 515184,
+        "word": "乌克兰承认巴勒斯坦是一个国家",
+        "onboard_time": 1717376059,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 468389,
+        "num": 468389,
+        "word": "张雪峰连麦490多分农村女孩",
+        "onboard_time": 1717377438,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437644,
+        "num": 437644,
+        "word": "浙江2名游客横渡溪流被冲走",
+        "onboard_time": 1717389982,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70480,
+        "num": 436699,
+        "word": "一体育老师用28年照顾276个孩子",
+        "onboard_time": 1717389921,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1375159,
+        "num": 435328,
+        "word": "杜海涛又又又瘦了",
+        "onboard_time": 1717388359,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1070120,
+        "num": 434200,
+        "word": "杨幂叫迪丽热巴BB",
+        "onboard_time": 1717390340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 912365,
+        "num": 432240,
+        "word": "曹格说很需要一个女朋友",
+        "onboard_time": 1717389560,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 431334,
+        "num": 431334,
+        "word": "泰国人爱上中国的榴莲直播",
+        "onboard_time": 1717385056,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 575186,
+        "num": 429273,
+        "word": "长期化妆产生的粉尘会导致肺结节吗",
+        "onboard_time": 1717387699,
+        "rank": 14,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 567730,
+        "num": 426230,
+        "word": "最后的椰子鞋上市已无消费者排队等待",
+        "onboard_time": 1717387880,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 579235,
+        "num": 425766,
+        "word": "迪丽热巴32岁生日造型",
+        "onboard_time": 1717381938,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420404,
+        "num": 420404,
+        "word": "刘宇宁李一桐吻戏路透",
+        "onboard_time": 1717386981,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355763,
+        "num": 355763,
+        "word": "快乐老友记",
+        "onboard_time": 1717387940,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314210,
+        "num": 314210,
+        "word": "JDG官宣无畏",
+        "onboard_time": 1717389501,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 584080,
+        "num": 306185,
+        "word": "为什么茉酸奶这么贵还不干净",
+        "onboard_time": 1717386800,
+        "rank": 20,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 347110,
+        "num": 305718,
+        "word": "高考为什么会在六月的七八号",
+        "onboard_time": 1717389802,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279390,
+        "num": 279390,
+        "word": "我国历史上的熊猫外交",
+        "onboard_time": 1717385359,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267800,
+        "num": 267800,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717375998,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 260228,
+        "num": 260228,
+        "word": "景甜AI建模身材",
+        "onboard_time": 1717389802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244659,
+        "num": 244659,
+        "word": "周杰伦演唱会开场以后的王俊凯",
+        "onboard_time": 1717389081,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239646,
+        "num": 239646,
+        "word": "马尔代夫决定禁止以色列公民入境",
+        "onboard_time": 1717374562,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 232800,
+        "num": 232800,
+        "word": "JDG无畏来了",
+        "onboard_time": 1717381518,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213268,
+        "num": 213268,
+        "word": "韩国人为何偏爱超大号食品",
+        "onboard_time": 1717383258,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193680,
+        "num": 193680,
+        "word": "无畏 一个崭新的开始",
+        "onboard_time": 1717390761,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 212305,
+        "num": 186597,
+        "word": "夏天适合上班的5大理由",
+        "onboard_time": 1717391659,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178083,
+        "num": 178083,
+        "word": "原神",
+        "onboard_time": 1717388721,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177949,
+        "num": 177949,
+        "word": "重庆狼队妖刀断开连接",
+        "onboard_time": 1717389921,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173225,
+        "num": 173225,
+        "word": "陈立农三专",
+        "onboard_time": 1717390880,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170319,
+        "num": 170319,
+        "word": "薄荷健康",
+        "onboard_time": 1717390340,
+        "rank": 34,
+        "category": "健康医疗,互联网"
+      },
+      {
+        "raw_hot": 169381,
+        "num": 169381,
+        "word": "网友偶遇欧阳娜娜CU",
+        "onboard_time": 1717389140,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166892,
+        "num": 166892,
+        "word": "最适合i人的职业出现了",
+        "onboard_time": 1717381638,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161132,
+        "num": 161132,
+        "word": "张凌赫黑天鹅芭莎封面",
+        "onboard_time": 1717389202,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158772,
+        "num": 158772,
+        "word": "天王的爸天后的妈 破碎的家顶流的他",
+        "onboard_time": 1717391840,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155959,
+        "num": 155959,
+        "word": "以色列",
+        "onboard_time": 1717376239,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 153789,
+        "num": 153789,
+        "word": "我少将喊话泽连斯基到底在为何而战",
+        "onboard_time": 1717388540,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 147490,
+        "num": 147490,
+        "word": "奔跑吧",
+        "onboard_time": 1717377558,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146948,
+        "num": 146948,
+        "word": "93岁默多克第5次结婚",
+        "onboard_time": 1717379717,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145628,
+        "num": 145628,
+        "word": "香港顶流姜涛跳晚安大小姐",
+        "onboard_time": 1717372037,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136183,
+        "num": 136183,
+        "word": "青春是一首永不老去的歌",
+        "onboard_time": 1717391360,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132820,
+        "num": 132820,
+        "word": "庆余年2CP投票",
+        "onboard_time": 1717391181,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127829,
+        "num": 127829,
+        "word": "范闲扛起巴雷特",
+        "onboard_time": 1717377858,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126368,
+        "num": 126368,
+        "word": "无法想象在宋朝聚会有多开朗",
+        "onboard_time": 1717386919,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120666,
+        "num": 120666,
+        "word": "国安机关破获一起英国MI6重大间谍案",
+        "onboard_time": 1717377378,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34706,
+        "num": 117619,
+        "word": "三夏时节农田里的动画片",
+        "onboard_time": 1717390401,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的文化足迹遍及大江南北#"
+    }
+  }
+}
