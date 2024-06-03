@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717371261934,
+  "endTime": 1717377616110,
   "band_list": [
     {
       "raw_hot": 4046722,
@@ -33,6 +33,14 @@
       "onboard_time": 1717247719,
       "rank": 36,
       "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 2002287,
+      "num": 2002287,
+      "word": "马尔代夫决定禁止以色列公民入境",
+      "onboard_time": 1717374562,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1991402,
@@ -99,12 +107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1652227,
+      "num": 1652227,
+      "word": "乌克兰承认巴勒斯坦是一个国家",
+      "onboard_time": 1717376059,
+      "rank": 1,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1613663,
       "num": 1613663,
       "word": "王源演唱会抢票",
       "onboard_time": 1717328779,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1596646,
+      "num": 1596646,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717163007,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1520474,
@@ -291,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1140654,
+      "num": 1140654,
+      "word": "朝鲜将暂停向韩国投放垃圾",
+      "onboard_time": 1717371616,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1137745,
       "num": 1137745,
       "word": "退票",
@@ -323,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1077396,
+      "num": 845729,
+      "word": "以色列",
+      "onboard_time": 1717235477,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1075650,
       "num": 1075650,
       "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
@@ -345,6 +385,14 @@
       "onboard_time": 1717166422,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 998937,
+      "num": 394966,
+      "word": "香港顶流姜涛跳晚安大小姐",
+      "onboard_time": 1717372037,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 968702,
@@ -449,14 +497,6 @@
       "onboard_time": 1717170739,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 845729,
-      "num": 845729,
-      "word": "以色列",
-      "onboard_time": 1717235477,
-      "rank": 5,
-      "category": "国外时政"
     },
     {
       "raw_hot": 839721,
@@ -593,14 +633,6 @@
       "onboard_time": 1717219158,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 759995,
-      "num": 759995,
-      "word": "巴勒斯坦",
-      "onboard_time": 1717163007,
-      "rank": 44,
-      "category": "国外时政"
     },
     {
       "raw_hot": 759002,
@@ -811,6 +843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 599804,
+      "num": 599804,
+      "word": "上市药店卖彩票一年销售7698万",
+      "onboard_time": 1717373418,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596764,
       "num": 450778,
       "word": "谁家早饭花50晚饭花2000",
@@ -969,6 +1009,14 @@
       "onboard_time": 1717240338,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 520096,
+      "num": 520096,
+      "word": "日本地震",
+      "onboard_time": 1717370594,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519408,
@@ -1251,6 +1299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 439393,
+      "num": 387398,
+      "word": "印度大选已有33名工作人员被热死",
+      "onboard_time": 1717375039,
+      "rank": 12,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 437302,
       "num": 437302,
       "word": "TFBOYS六一物料",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1717251679,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417978,
+      "num": 417978,
+      "word": "张婧仪 古早TVB味儿",
+      "onboard_time": 1717373838,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 417816,
@@ -1545,6 +1609,14 @@
       "onboard_time": 1717314137,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 386015,
+      "num": 386015,
+      "word": "王俊凯工作室 多发爱看",
+      "onboard_time": 1717374497,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 385848,
@@ -1948,7 +2020,7 @@
     },
     {
       "raw_hot": 321285,
-      "num": 242302,
+      "num": 279469,
       "word": "邓超抱的竟然是鹿晗",
       "onboard_time": 1717349773,
       "rank": 7,
@@ -2043,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310034,
+      "num": 310034,
+      "word": "国安机关破获一起英国MI6重大间谍案",
+      "onboard_time": 1717377378,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 308083,
       "num": 280447,
       "word": "歌手直播",
@@ -2065,6 +2145,14 @@
       "onboard_time": 1717244958,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 303494,
+      "num": 181591,
+      "word": "张雪峰连麦490多分农村女孩",
+      "onboard_time": 1717377438,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302891,
@@ -2235,6 +2323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 283061,
+      "num": 283061,
+      "word": "打开了关闭三年的朋友圈",
+      "onboard_time": 1717343718,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280191,
       "num": 280191,
       "word": "郑钦文遭误判",
@@ -2273,6 +2369,14 @@
       "onboard_time": 1717217177,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274809,
+      "num": 274809,
+      "word": "韩国市长请求中国赠送一对大熊猫",
+      "onboard_time": 1717377378,
+      "rank": 22,
+      "category": "国外时政"
     },
     {
       "raw_hot": 273761,
@@ -2329,14 +2433,6 @@
       "onboard_time": 1717164388,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 269429,
-      "num": 190398,
-      "word": "打开了关闭三年的朋友圈",
-      "onboard_time": 1717343718,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 268711,
@@ -2483,6 +2579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251464,
+      "num": 251464,
+      "word": "南昌警方通报金店抢劫案",
+      "onboard_time": 1717373059,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 250890,
       "num": 227481,
       "word": "武艺十七岁还坐在爸爸肩上",
@@ -2515,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245545,
+      "num": 245545,
+      "word": "真的会越说越老",
+      "onboard_time": 1717374979,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
@@ -2529,6 +2641,14 @@
       "onboard_time": 1717301418,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 239932,
+      "num": 239932,
+      "word": "G2夺冠",
+      "onboard_time": 1717370715,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 238320,
@@ -2667,12 +2787,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228105,
-      "num": 228105,
-      "word": "G2夺冠",
-      "onboard_time": 1717370715,
-      "rank": 8,
-      "category": "电竞"
+      "raw_hot": 228841,
+      "num": 228841,
+      "word": "艾薇儿否认上歌手",
+      "onboard_time": 1717371978,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 227344,
@@ -2851,6 +2971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215694,
+      "num": 215694,
+      "word": "蔡赟 你们一输球我就挨骂",
+      "onboard_time": 1717374018,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215046,
       "num": 215046,
       "word": "郑恺陈赫让王阳承认是叔圈天菜",
@@ -2913,6 +3041,14 @@
       "onboard_time": 1717245679,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207859,
+      "num": 207859,
+      "word": "不上班如何实现财富自由",
+      "onboard_time": 1717376119,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 207471,
@@ -3379,6 +3515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186743,
+      "num": 180561,
+      "word": "孩子出了社会发现全是好人",
+      "onboard_time": 1717377498,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186501,
       "num": 164129,
       "word": "肖战藏海反差感",
@@ -3409,6 +3553,14 @@
       "onboard_time": 1717201455,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184070,
+      "num": 184070,
+      "word": "高考时间",
+      "onboard_time": 1717375818,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 183933,
@@ -3875,6 +4027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162538,
+      "num": 162538,
+      "word": "诡异的滴滴滴可能来自哪里",
+      "onboard_time": 1717375818,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162493,
       "num": 162493,
       "word": "为什么感觉去旅游的人越来越多了",
@@ -3929,6 +4089,14 @@
       "onboard_time": 1717333879,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160964,
+      "num": 160964,
+      "word": "100秒看懂印度何以暴热",
+      "onboard_time": 1717374139,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160713,
@@ -4009,6 +4177,14 @@
       "onboard_time": 1717210757,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159222,
+      "num": 159222,
+      "word": "没人告诉孙夏铃要脱鞋吗",
+      "onboard_time": 1717375639,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 159165,
@@ -4211,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148360,
+      "num": 148360,
+      "word": "张杰 感冒",
+      "onboard_time": 1717372758,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148078,
       "num": 148078,
       "word": "王俊凯嘴角比AK还难压",
@@ -4257,14 +4441,6 @@
       "onboard_time": 1717323678,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146638,
-      "num": 146638,
-      "word": "日本地震",
-      "onboard_time": 1717370594,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146263,
@@ -4483,6 +4659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139218,
+      "num": 139218,
+      "word": "汶珊官宣退网",
+      "onboard_time": 1717370896,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139216,
       "num": 139216,
       "word": "阿Sa模仿汪小姐",
@@ -4699,6 +4883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128282,
+      "num": 128282,
+      "word": "女子骗走男友891万获刑13年6个月",
+      "onboard_time": 1717348873,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127969,
       "num": 127969,
       "word": "薛之谦海拔2280体育场个唱第一人",
@@ -4713,6 +4905,14 @@
       "onboard_time": 1717205717,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127393,
+      "num": 127393,
+      "word": "我在茶卡盐湖漫步云端",
+      "onboard_time": 1717372519,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 127317,
@@ -4827,12 +5027,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123803,
+      "num": 123803,
+      "word": "减肥主食分为3个黄金等级",
+      "onboard_time": 1717362851,
+      "rank": 49,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 123529,
       "num": 278097,
       "word": "你最想对小时候的自己说什么",
       "onboard_time": 1717228817,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 122707,
+      "num": 122707,
+      "word": "民警身中15刀仍紧追歹徒不放",
+      "onboard_time": 1717375818,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122625,
@@ -4883,6 +5099,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 119262,
+      "num": 119262,
+      "word": "奔跑吧",
+      "onboard_time": 1717377558,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119129,
       "num": 253764,
       "word": "华为发布会",
@@ -4931,6 +5155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118407,
+      "num": 118407,
+      "word": "白桃星座",
+      "onboard_time": 1717373117,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "二建市政",
@@ -4945,6 +5177,14 @@
       "onboard_time": 1717244118,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117323,
+      "num": 117323,
+      "word": "高圆圆好懂35岁女性的困境",
+      "onboard_time": 1717360450,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 117096,
@@ -5004,7 +5244,7 @@
     },
     {
       "raw_hot": 114585,
-      "num": 603033,
+      "num": 1615435,
       "word": "千里江山图藏着人间烟火",
       "onboard_time": 1717328719,
       "rank": 7,
@@ -5113,14 +5353,6 @@
       "onboard_time": 1717236197,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111329,
-      "num": 111329,
-      "word": "女子骗走男友891万获刑13年6个月",
-      "onboard_time": 1717348873,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 111095,
@@ -5387,14 +5619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102661,
-      "num": 102661,
-      "word": "高圆圆好懂35岁女性的困境",
-      "onboard_time": 1717360450,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 102636,
       "num": 102636,
       "word": "刘维无声的悲痛震耳欲聋",
@@ -5521,14 +5745,6 @@
       "onboard_time": 1717296497,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 92006,
-      "num": 83604,
-      "word": "汶珊官宣退网",
-      "onboard_time": 1717370896,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 91523,
@@ -5737,14 +5953,6 @@
       "onboard_time": 1717304838,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 79106,
-      "num": 79106,
-      "word": "减肥主食分为3个黄金等级",
-      "onboard_time": 1717362851,
-      "rank": 49,
-      "category": "运动健身"
     },
     {
       "raw_hot": 78929,
@@ -6083,6 +6291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49724,
+      "num": 413448,
+      "word": "被稳稳托住的感觉真好",
+      "onboard_time": 1717370236,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 49155,
       "num": 49155,
       "word": "泫雅把音乐节玩成泼水节",
@@ -6393,14 +6609,6 @@
       "onboard_time": 1717351333,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26481,
-      "num": 196980,
-      "word": "被稳稳托住的感觉真好",
-      "onboard_time": 1717370236,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 25346,
