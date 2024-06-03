@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717395999586,
+  "endTime": 1717396746234,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -9,6 +9,14 @@
       "onboard_time": 1717377378,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2596113,
+      "num": 2596113,
+      "word": "我国取消无偿赠送大熊猫已40多年",
+      "onboard_time": 1717395378,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2002287,
@@ -41,14 +49,6 @@
       "onboard_time": 1717375998,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1521548,
-      "num": 1521548,
-      "word": "我国取消无偿赠送大熊猫已40多年",
-      "onboard_time": 1717395378,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1375159,
@@ -171,20 +171,20 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 736115,
+      "num": 736115,
+      "word": "天王的爸天后的妈 破碎的家顶流的他",
+      "onboard_time": 1717391840,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 735032,
       "num": 525841,
       "word": "最后的椰子鞋上市已无消费者排队等待",
       "onboard_time": 1717387880,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 720129,
-      "num": 720129,
-      "word": "天王的爸天后的妈 破碎的家顶流的他",
-      "onboard_time": 1717391840,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 719619,
@@ -241,6 +241,14 @@
       "onboard_time": 1717377378,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 578223,
+      "num": 578223,
+      "word": "韩国将停止919军事协议的效力",
+      "onboard_time": 1717395018,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 575186,
@@ -347,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 470364,
+      "num": 340097,
+      "word": "丁程鑫刘耀文日本路透",
+      "onboard_time": 1717395438,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461737,
       "num": 295120,
       "word": "王亚飞为迪丽热巴化的生日妆",
@@ -393,14 +409,6 @@
       "onboard_time": 1717373838,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394396,
-      "num": 394396,
-      "word": "韩国将停止919军事协议的效力",
-      "onboard_time": 1717395018,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 386015,
@@ -467,16 +475,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 312567,
-      "num": 204236,
-      "word": "丁程鑫刘耀文日本路透",
-      "onboard_time": 1717395438,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 310794,
-      "num": 203826,
+      "num": 210367,
       "word": "JOY表达对SM不满",
       "onboard_time": 1717393939,
       "rank": 23,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 305623,
-      "num": 203194,
+      "num": 210372,
       "word": "年轻人结婚要仪式感也要性价比",
       "onboard_time": 1717395018,
       "rank": 24,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 290950,
-      "num": 202857,
+      "num": 210349,
       "word": "赵丽颖看剧本照",
       "onboard_time": 1717393758,
       "rank": 25,
@@ -579,8 +579,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259104,
+      "num": 210366,
+      "word": "嗓音或影响女性择偶标准",
+      "onboard_time": 1717396279,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255072,
-      "num": 202682,
+      "num": 210358,
       "word": "何浩楠 十个勤天监事一职被保留",
       "onboard_time": 1717394058,
       "rank": 26,
@@ -675,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225798,
+      "num": 225798,
+      "word": "俞敏洪称东方甄选做的乱七八糟",
+      "onboard_time": 1717396579,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 224324,
       "num": 224324,
       "word": "奔跑吧",
@@ -689,6 +705,22 @@
       "onboard_time": 1717387159,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217853,
+      "num": 210342,
+      "word": "男子用私密视频威胁前女友被刑拘",
+      "onboard_time": 1717395979,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217525,
+      "num": 210346,
+      "word": "那英去摇龚琳娜了",
+      "onboard_time": 1717396338,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 215694,
@@ -715,12 +747,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 210330,
+      "num": 210330,
+      "word": "奔跑吧录制现场直击",
+      "onboard_time": 1717393460,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210132,
       "num": 210132,
       "word": "王星越开辟新赛道",
       "onboard_time": 1717392018,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209724,
+      "num": 209724,
+      "word": "朱一龙连续十年给杨蓉庆生",
+      "onboard_time": 1717396518,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209031,
+      "num": 209031,
+      "word": "胡歌高圆圆衣服上是自愿上班",
+      "onboard_time": 1717396160,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 207859,
@@ -763,12 +819,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 198474,
-      "num": 198474,
-      "word": "奔跑吧录制现场直击",
-      "onboard_time": 1717393460,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 199618,
+      "num": 198152,
+      "word": "傅首尔 带资都没能进组",
+      "onboard_time": 1717394837,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199109,
+      "num": 199109,
+      "word": "龚俊说不要舞到正主面前",
+      "onboard_time": 1717395558,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197842,
@@ -811,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 193984,
+      "num": 193984,
+      "word": "蔡徐坤单曲预告",
+      "onboard_time": 1717395979,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193680,
       "num": 193680,
       "word": "无畏 一个崭新的开始",
@@ -851,14 +923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187028,
-      "num": 187028,
-      "word": "傅首尔 带资都没能进组",
-      "onboard_time": 1717394837,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 184070,
       "num": 184070,
       "word": "高考时间",
@@ -883,20 +947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179247,
+      "num": 179247,
+      "word": "胡歌分水",
+      "onboard_time": 1717396397,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177949,
       "num": 177949,
       "word": "重庆狼队妖刀断开连接",
       "onboard_time": 1717389921,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175675,
-      "num": 175675,
-      "word": "龚俊说不要舞到正主面前",
-      "onboard_time": 1717395558,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 174712,
@@ -1139,14 +1203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141191,
-      "num": 141191,
-      "word": "蔡徐坤单曲预告",
-      "onboard_time": 1717395979,
-      "rank": 40,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 139218,
       "num": 139218,
       "word": "汶珊官宣退网",
@@ -1328,14 +1384,6 @@
       "word": "民警身中15刀仍紧追歹徒不放",
       "onboard_time": 1717375818,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121928,
-      "num": 121928,
-      "word": "男子用私密视频威胁前女友被刑拘",
-      "onboard_time": 1717395979,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1539,6 +1587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 63577,
+      "num": 1026740,
+      "word": "月面软着陆背后的发动机奥秘",
+      "onboard_time": 1717391420,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61508,
       "num": 114017,
       "word": "中国女排0比3意大利女排",
@@ -1555,11 +1611,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57843,
-      "num": 1002525,
-      "word": "月面软着陆背后的发动机奥秘",
-      "onboard_time": 1717391420,
-      "rank": 2,
+      "raw_hot": 59150,
+      "num": 432735,
+      "word": "张桂梅生日",
+      "onboard_time": 1717394598,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1619,14 +1675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42588,
-      "num": 432735,
-      "word": "张桂梅生日",
-      "onboard_time": 1717394598,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41408,
       "num": 41408,
       "word": "芹菜叶子到底要不要吃",
@@ -1652,7 +1700,7 @@
     },
     {
       "raw_hot": 34706,
-      "num": 117619,
+      "num": 344871,
       "word": "三夏时节农田里的动画片",
       "onboard_time": 1717390401,
       "rank": 49,
@@ -1745,6 +1793,9 @@
     },
     {
       "word": "#总书记点赞过的非遗#"
+    },
+    {
+      "word": "#总书记关心的重大文化工程#"
     }
   ]
 }
