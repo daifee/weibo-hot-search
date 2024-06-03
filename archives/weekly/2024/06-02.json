@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717413388032,
+  "endTime": 1717414476051,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -105,6 +105,14 @@
       "onboard_time": 1717284254,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1511416,
+      "num": 1511416,
+      "word": "才知道微信可以锁屏录音",
+      "onboard_time": 1717411697,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 1476124,
@@ -273,14 +281,6 @@
       "onboard_time": 1717336459,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1038394,
-      "num": 1038394,
-      "word": "才知道微信可以锁屏录音",
-      "onboard_time": 1717411697,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 998937,
@@ -571,6 +571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 716159,
+      "num": 716159,
+      "word": "外交部回应靖国神社石柱被涂鸦",
+      "onboard_time": 1717411817,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 713569,
       "num": 537484,
       "word": "韩国人为何偏爱超大号食品",
@@ -667,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 642280,
-      "num": 318988,
-      "word": "外交部回应靖国神社石柱被涂鸦",
-      "onboard_time": 1717411817,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 638995,
       "num": 638995,
       "word": "那英去摇龚琳娜了",
@@ -736,6 +736,14 @@
       "word": "阿沁控诉詹雯婷抄袭",
       "onboard_time": 1717312457,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 593439,
+      "num": 234323,
+      "word": "鞠婧祎背沟好深",
+      "onboard_time": 1717412538,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -963,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 497875,
+      "num": 497875,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1717412838,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495402,
       "num": 495402,
       "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
@@ -985,14 +1001,6 @@
       "onboard_time": 1717311857,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 490017,
-      "num": 234323,
-      "word": "鞠婧祎背沟好深",
-      "onboard_time": 1717412538,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 485240,
@@ -1204,7 +1212,7 @@
     },
     {
       "raw_hot": 429887,
-      "num": 234139,
+      "num": 370205,
       "word": "原神艾梅莉埃",
       "onboard_time": 1717411639,
       "rank": 21,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1717248498,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393846,
+      "num": 393846,
+      "word": "戚薇录乘风十天没理李承铉",
+      "onboard_time": 1717413318,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 393362,
@@ -1635,6 +1651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 335552,
+      "num": 335552,
+      "word": "母女都装软妹只有活爹受罪",
+      "onboard_time": 1717412419,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334313,
       "num": 334313,
       "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
@@ -1731,14 +1755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 312420,
-      "num": 312420,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1717412838,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 310794,
       "num": 214450,
       "word": "JOY表达对SM不满",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1717324098,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 298099,
+      "num": 298099,
+      "word": "知道为什么洪世贤认不出品如了",
+      "onboard_time": 1717413857,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 297678,
@@ -2323,14 +2347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233537,
-      "num": 233537,
-      "word": "母女都装软妹只有活爹受罪",
-      "onboard_time": 1717412419,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233173,
       "num": 197445,
       "word": "藏海传好多人啊",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1717312997,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223541,
-      "num": 223541,
-      "word": "戚薇录乘风十天没理李承铉",
-      "onboard_time": 1717413318,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 223262,
@@ -3163,6 +3171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176946,
+      "num": 176946,
+      "word": "魏姐 爽文女主",
+      "onboard_time": 1717412117,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176923,
       "num": 169896,
       "word": "肖战藏海传杀青海报",
@@ -3339,6 +3355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168838,
+      "num": 168838,
+      "word": "00后穷游式环球会开心吗",
+      "onboard_time": 1717414399,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168623,
       "num": 168623,
       "word": "许嵩曾被妈妈抓包偷玩电脑",
@@ -3353,14 +3377,6 @@
       "onboard_time": 1717334480,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168297,
-      "num": 168297,
-      "word": "魏姐 爽文女主",
-      "onboard_time": 1717412117,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 168230,
@@ -3481,6 +3497,14 @@
       "onboard_time": 1717386558,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163559,
+      "num": 149789,
+      "word": "当打工人遇到校园式恋爱",
+      "onboard_time": 1717414157,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 162773,
@@ -3673,6 +3697,14 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154242,
+      "num": 154242,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1717414337,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 149815,
@@ -3891,6 +3923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140547,
+      "num": 140547,
+      "word": "LNG战胜OMG",
+      "onboard_time": 1717413737,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140294,
       "num": 212221,
       "word": "2000多年前治风湿的药方今天还能用",
@@ -4020,7 +4060,7 @@
     },
     {
       "raw_hot": 130399,
-      "num": 130399,
+      "num": 343336,
       "word": "高三学霸女生笔记工整似印刷",
       "onboard_time": 1717411279,
       "rank": 41,
@@ -4033,6 +4073,14 @@
       "onboard_time": 1717394898,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128946,
+      "num": 325784,
+      "word": "商户卖假牛肉被揭穿后摔相机",
+      "onboard_time": 1717412419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128783,
@@ -4305,6 +4353,14 @@
       "onboard_time": 1717410138,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119321,
+      "num": 119321,
+      "word": "调香师立绘",
+      "onboard_time": 1717414038,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 119064,
@@ -4899,6 +4955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76470,
+      "num": 234618,
+      "word": "更适合普通人的高效护肤",
+      "onboard_time": 1717409658,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 76321,
       "num": 541433,
       "word": "河南麦田全是科技没有狠活",
@@ -4913,14 +4977,6 @@
       "onboard_time": 1717274412,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72546,
-      "num": 325784,
-      "word": "商户卖假牛肉被揭穿后摔相机",
-      "onboard_time": 1717412419,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71657,
@@ -5129,14 +5185,6 @@
       "onboard_time": 1717355352,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 48975,
-      "num": 234618,
-      "word": "更适合普通人的高效护肤",
-      "onboard_time": 1717409658,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 48382,

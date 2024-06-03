@@ -1,0 +1,410 @@
+{
+  "runTime": 1717414476051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1511416,
+        "num": 1511416,
+        "word": "才知道微信可以锁屏录音",
+        "onboard_time": 1717411697,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 863443,
+        "num": 863443,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43713,
+        "num": 754428,
+        "word": "升格视频诠释嫦娥奔月之美",
+        "onboard_time": 1717402099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917683,
+        "num": 752232,
+        "word": "蔡徐坤染了银发梦回偶练",
+        "onboard_time": 1717408220,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 716159,
+        "num": 716159,
+        "word": "外交部回应靖国神社石柱被涂鸦",
+        "onboard_time": 1717411817,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 557690,
+        "num": 557690,
+        "word": "秦岚素颜好顶",
+        "onboard_time": 1717408158,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497875,
+        "num": 497875,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1717412838,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479184,
+        "num": 479184,
+        "word": "印度现近50度高温连蚊子都消失",
+        "onboard_time": 1717406358,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393846,
+        "num": 393846,
+        "word": "戚薇录乘风十天没理李承铉",
+        "onboard_time": 1717413318,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370205,
+        "num": 370205,
+        "word": "原神艾梅莉埃",
+        "onboard_time": 1717411639,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 595252,
+        "num": 369229,
+        "word": "弟弟离高考只有三天手筋断了一根",
+        "onboard_time": 1717403958,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 355405,
+        "num": 355405,
+        "word": "女科学家把3cm鱼骨切了500多片",
+        "onboard_time": 1717403419,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 108175,
+        "num": 343336,
+        "word": "高三学霸女生笔记工整似印刷",
+        "onboard_time": 1717411279,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 342702,
+        "num": 342702,
+        "word": "于正 选角",
+        "onboard_time": 1717411697,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335552,
+        "num": 335552,
+        "word": "母女都装软妹只有活爹受罪",
+        "onboard_time": 1717412419,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298099,
+        "num": 298099,
+        "word": "知道为什么洪世贤认不出品如了",
+        "onboard_time": 1717413857,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283371,
+        "num": 283371,
+        "word": "偏偏二喜的人最争气",
+        "onboard_time": 1717407679,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246543,
+        "num": 246543,
+        "word": "峰峻文化就艺人被偷拍发律师声明",
+        "onboard_time": 1717408579,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240145,
+        "num": 240145,
+        "word": "张继科被前合作品牌方起诉",
+        "onboard_time": 1717402639,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224416,
+        "num": 224416,
+        "word": "全球男性HPV感染率高于女性",
+        "onboard_time": 1717404138,
+        "rank": 19,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 593439,
+        "num": 214785,
+        "word": "鞠婧祎背沟好深",
+        "onboard_time": 1717412538,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201467,
+        "num": 201467,
+        "word": "秦岚发文给迪丽热巴庆生",
+        "onboard_time": 1717408158,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176946,
+        "num": 176946,
+        "word": "魏姐 爽文女主",
+        "onboard_time": 1717412117,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174919,
+        "num": 174919,
+        "word": "高圆圆 我gap比上班多",
+        "onboard_time": 1717405219,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172372,
+        "num": 172372,
+        "word": "原来衣服220g说的不是重量",
+        "onboard_time": 1717403839,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168838,
+        "num": 168838,
+        "word": "00后穷游式环球会开心吗",
+        "onboard_time": 1717414399,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170974,
+        "num": 167855,
+        "word": "迪丽热巴第十幕MV",
+        "onboard_time": 1717410618,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165276,
+        "num": 165276,
+        "word": "庆余年看完了好空虚",
+        "onboard_time": 1717410319,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164090,
+        "num": 164090,
+        "word": "科学家确认熬夜损伤大脑",
+        "onboard_time": 1717396397,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154242,
+        "num": 154242,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1717414337,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76470,
+        "num": 149800,
+        "word": "更适合普通人的高效护肤",
+        "onboard_time": 1717409658,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163559,
+        "num": 149789,
+        "word": "当打工人遇到校园式恋爱",
+        "onboard_time": 1717414157,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149075,
+        "num": 149075,
+        "word": "张雪峰要给员工放20天暑假",
+        "onboard_time": 1717409718,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146051,
+        "num": 146051,
+        "word": "杜海涛又又又瘦了",
+        "onboard_time": 1717388359,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145140,
+        "num": 145140,
+        "word": "陈丽君 投票",
+        "onboard_time": 1717405699,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142873,
+        "num": 142873,
+        "word": "迪丽热巴冷艳玫瑰妆",
+        "onboard_time": 1717411939,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128946,
+        "num": 140697,
+        "word": "商户卖假牛肉被揭穿后摔相机",
+        "onboard_time": 1717412419,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140547,
+        "num": 140547,
+        "word": "LNG战胜OMG",
+        "onboard_time": 1717413737,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139019,
+        "num": 139019,
+        "word": "同事说领导是大专生干不成事情正常",
+        "onboard_time": 1717405219,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138350,
+        "num": 138350,
+        "word": "墨雨云间 嫡嫁千金",
+        "onboard_time": 1717400419,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133291,
+        "num": 133291,
+        "word": "张真源章昊奔跑吧同框",
+        "onboard_time": 1717412719,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131784,
+        "num": 131784,
+        "word": "孙颖莎王曼昱角逐女单冠军",
+        "onboard_time": 1717412297,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130963,
+        "num": 130963,
+        "word": "女子带90只吸血鬼蟹入境被拦截",
+        "onboard_time": 1717406839,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122350,
+        "num": 122350,
+        "word": "女子偷偷自己攒钱买房后被父母阴阳",
+        "onboard_time": 1717405158,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121639,
+        "num": 121639,
+        "word": "2只旅韩大熊猫幼崽最快2025年将回国",
+        "onboard_time": 1717400238,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119321,
+        "num": 119321,
+        "word": "调香师立绘",
+        "onboard_time": 1717414038,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117150,
+        "num": 117150,
+        "word": "美国仅7%用户每天使用ChatGPT",
+        "onboard_time": 1717401800,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110102,
+        "num": 110102,
+        "word": "kep1erMV",
+        "onboard_time": 1717411878,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105773,
+        "num": 105773,
+        "word": "男子用私密视频威胁前女友被刑拘",
+        "onboard_time": 1717395979,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102016,
+        "num": 102016,
+        "word": "猫 我会为了你尽力的",
+        "onboard_time": 1717406781,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}
