@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717428053580,
+  "endTime": 1717428874044,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1366267,
+      "num": 853436,
+      "word": "朋友圈全开的是什么样的人",
+      "onboard_time": 1717424959,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1293666,
       "num": 447270,
       "word": "弟弟离高考只有三天手筋断了一根",
@@ -99,16 +107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1172683,
-      "num": 853436,
-      "word": "朋友圈全开的是什么样的人",
-      "onboard_time": 1717424959,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1171298,
-      "num": 1171298,
+      "raw_hot": 1183714,
+      "num": 1183714,
       "word": "数只美股疑似出现行情异常",
       "onboard_time": 1717426759,
       "rank": 0,
@@ -859,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370708,
+      "num": 370708,
+      "word": "孙颖莎赛后发文",
+      "onboard_time": 1717426759,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368522,
       "num": 197579,
       "word": "墨雨云间",
@@ -979,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309097,
+      "num": 309097,
+      "word": "袁娅维 双截棍",
+      "onboard_time": 1717427599,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 305623,
       "num": 215068,
       "word": "年轻人结婚要仪式感也要性价比",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1717396338,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 287590,
-      "num": 287590,
-      "word": "孙颖莎赛后发文",
-      "onboard_time": 1717426759,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 286942,
@@ -1227,6 +1235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240458,
+      "num": 240458,
+      "word": "胖莎",
+      "onboard_time": 1717427959,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239932,
       "num": 239932,
       "word": "G2夺冠",
@@ -1283,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 232592,
+      "num": 232592,
+      "word": "早睡真能解决生活中大部分的问题",
+      "onboard_time": 1717427599,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 232436,
       "num": 232436,
       "word": "日本垃圾桶",
@@ -1329,14 +1353,6 @@
       "onboard_time": 1717387159,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 216414,
-      "num": 216414,
-      "word": "袁娅维 双截棍",
-      "onboard_time": 1717427599,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 215694,
@@ -1497,6 +1513,14 @@
       "onboard_time": 1717400478,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199064,
+      "num": 199064,
+      "word": "印度高温 恒河洗澡",
+      "onboard_time": 1717427719,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198369,
@@ -1673,6 +1697,14 @@
       "onboard_time": 1717419499,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186905,
+      "num": 186905,
+      "word": "为什么收拾房间有助于攒钱",
+      "onboard_time": 1717424959,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 184228,
@@ -1859,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 173028,
+      "num": 173028,
+      "word": "这届实习生显然已经nextlevel了",
+      "onboard_time": 1717427058,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172767,
       "num": 172767,
       "word": "李盈莹答朱婷为何没上场",
@@ -1929,14 +1969,6 @@
       "onboard_time": 1717383678,
       "rank": 32,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 166887,
-      "num": 166887,
-      "word": "为什么收拾房间有助于攒钱",
-      "onboard_time": 1717424959,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 166415,
@@ -2163,6 +2195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147124,
+      "num": 147124,
+      "word": "周深A起来了",
+      "onboard_time": 1717428079,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146915,
       "num": 146915,
       "word": "祝绪丹白发公主切",
@@ -2299,12 +2339,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135915,
-      "num": 135915,
-      "word": "这届实习生显然已经nextlevel了",
-      "onboard_time": 1717427058,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 136164,
+      "num": 136164,
+      "word": "白鹿范丞丞沈泉锐奔跑吧同框",
+      "onboard_time": 1717428738,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 135884,
@@ -2337,14 +2377,6 @@
       "onboard_time": 1717370475,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133153,
-      "num": 133153,
-      "word": "印度高温 恒河洗澡",
-      "onboard_time": 1717427719,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 132820,
@@ -2459,14 +2491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 127129,
-      "num": 127129,
-      "word": "胖莎",
-      "onboard_time": 1717427959,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127119,
       "num": 127119,
       "word": "云合",
@@ -2547,14 +2571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123846,
-      "num": 123846,
-      "word": "早睡真能解决生活中大部分的问题",
-      "onboard_time": 1717427599,
-      "rank": 46,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 123803,
       "num": 123803,
       "word": "减肥主食分为3个黄金等级",
@@ -2595,6 +2611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122483,
+      "num": 122483,
+      "word": "纽交所出技术故障",
+      "onboard_time": 1717428439,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 121419,
       "num": 551350,
       "word": "嫦娥六号微博报到",
@@ -2617,6 +2641,14 @@
       "onboard_time": 1717414760,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119705,
+      "num": 202873,
+      "word": "向为金色麦田上分的他们道一声辛苦",
+      "onboard_time": 1717425979,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119613,
@@ -2801,14 +2833,6 @@
       "onboard_time": 1717425259,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104154,
-      "num": 202873,
-      "word": "向为金色麦田上分的他们道一声辛苦",
-      "onboard_time": 1717425979,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104008,
@@ -3115,6 +3139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43639,
+      "num": 459777,
+      "word": "男生把夏日色彩拼成一只孔雀",
+      "onboard_time": 1717428079,
+      "rank": 9,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 41408,
       "num": 41408,
       "word": "芹菜叶子到底要不要吃",
@@ -3147,19 +3179,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35590,
+      "num": 881944,
+      "word": "航拍视角看三北工程",
+      "onboard_time": 1717427120,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34706,
       "num": 344871,
       "word": "三夏时节农田里的动画片",
       "onboard_time": 1717390401,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33072,
-      "num": 881944,
-      "word": "航拍视角看三北工程",
-      "onboard_time": 1717427120,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3203,6 +3235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 22532,
+      "num": 157790,
+      "word": "田雨说范闲和王启年的心更近了",
+      "onboard_time": 1717426400,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22094,
       "num": 189970,
       "word": "高考前不尝试新运动项目",
@@ -3224,14 +3264,6 @@
       "word": "田雨余皑磊直播",
       "onboard_time": 1717423219,
       "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20900,
-      "num": 152128,
-      "word": "田雨说范闲和王启年的心更近了",
-      "onboard_time": 1717426400,
-      "rank": 36,
       "category": "剧集"
     },
     {
