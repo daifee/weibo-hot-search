@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717388679349,
+  "endTime": 1717389462688,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -43,6 +43,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1353051,
+      "num": 540580,
+      "word": "杜海涛又又又瘦了",
+      "onboard_time": 1717388359,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1140654,
       "num": 1140654,
       "word": "朝鲜将暂停向韩国投放垃圾",
@@ -75,8 +83,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 877287,
-      "num": 877287,
+      "raw_hot": 931086,
+      "num": 931086,
       "word": "武汉民警壮烈牺牲鲜血浸透警服",
       "onboard_time": 1717384579,
       "rank": 11,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 849600,
-      "num": 523242,
+      "num": 539295,
       "word": "迪丽热巴32岁生日造型",
       "onboard_time": 1717381938,
       "rank": 15,
@@ -123,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 749909,
+      "num": 325776,
+      "word": "为什么茉酸奶这么贵还不干净",
+      "onboard_time": 1717386800,
+      "rank": 20,
+      "category": "财经,美食"
+    },
+    {
       "raw_hot": 719619,
       "num": 505891,
       "word": "退票",
@@ -131,24 +147,24 @@
       "category": "演出"
     },
     {
-      "raw_hot": 713713,
-      "num": 298857,
-      "word": "为什么茉酸奶这么贵还不干净",
-      "onboard_time": 1717386800,
-      "rank": 20,
-      "category": "财经,美食"
-    },
-    {
       "raw_hot": 713569,
-      "num": 513781,
+      "num": 537484,
       "word": "韩国人为何偏爱超大号食品",
       "onboard_time": 1717383258,
       "rank": 13,
       "category": "美食"
     },
     {
+      "raw_hot": 653575,
+      "num": 653575,
+      "word": "全国多地要求文娱场所中高考期间停业",
+      "onboard_time": 1717385359,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 600148,
-      "num": 512133,
+      "num": 538518,
       "word": "我国历史上的熊猫外交",
       "onboard_time": 1717385359,
       "rank": 30,
@@ -203,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537019,
+      "num": 537019,
+      "word": "刘宇宁李一桐吻戏路透",
+      "onboard_time": 1717386981,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 530650,
       "num": 530650,
       "word": "93岁默多克第5次结婚",
@@ -235,22 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 514587,
-      "num": 514587,
-      "word": "刘宇宁李一桐吻戏路透",
-      "onboard_time": 1717386981,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 511572,
-      "num": 511572,
-      "word": "杜海涛又又又瘦了",
-      "onboard_time": 1717388359,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 505125,
       "num": 505125,
       "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
@@ -259,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 472873,
-      "num": 472873,
-      "word": "全国多地要求文娱场所中高考期间停业",
-      "onboard_time": 1717385359,
-      "rank": 41,
-      "category": "社会新闻"
+      "raw_hot": 477647,
+      "num": 210320,
+      "word": "最后的椰子鞋上市已无消费者排队等待",
+      "onboard_time": 1717387880,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 461737,
@@ -273,6 +281,14 @@
       "onboard_time": 1717382899,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 455829,
+      "num": 455829,
+      "word": "长期化妆产生的粉尘会导致肺结节吗",
+      "onboard_time": 1717387699,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 439393,
@@ -307,6 +323,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375216,
+      "num": 375216,
+      "word": "李飞入股时代峰峻",
+      "onboard_time": 1717389202,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 370844,
+      "num": 370844,
+      "word": "快乐老友记",
+      "onboard_time": 1717387940,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 368522,
       "num": 197579,
       "word": "墨雨云间",
@@ -321,14 +353,6 @@
       "onboard_time": 1717378638,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345290,
-      "num": 210320,
-      "word": "最后的椰子鞋上市已无消费者排队等待",
-      "onboard_time": 1717387880,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 338302,
@@ -347,12 +371,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 311438,
-      "num": 311438,
-      "word": "长期化妆产生的粉尘会导致肺结节吗",
-      "onboard_time": 1717387699,
-      "rank": 18,
-      "category": "健康医疗"
+      "raw_hot": 315067,
+      "num": 315067,
+      "word": "迪丽热巴MV",
+      "onboard_time": 1717389259,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 304041,
+      "num": 304041,
+      "word": "原神",
+      "onboard_time": 1717388721,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 302902,
@@ -361,14 +393,6 @@
       "onboard_time": 1717381638,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 300145,
-      "num": 300145,
-      "word": "快乐老友记",
-      "onboard_time": 1717387940,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 290800,
@@ -555,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200024,
+      "num": 200024,
+      "word": "张凌赫黑天鹅芭莎封面",
+      "onboard_time": 1717389202,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197842,
       "num": 197842,
       "word": "财政部下达2024年汽车以旧换新补贴",
@@ -619,12 +651,28 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 182604,
+      "num": 182604,
+      "word": "周杰伦演唱会开场以后的王俊凯",
+      "onboard_time": 1717389081,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179557,
       "num": 179557,
       "word": "李小冉下部戏还是演反派",
       "onboard_time": 1717340120,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174712,
+      "num": 174712,
+      "word": "我少将喊话泽连斯基到底在为何而战",
+      "onboard_time": 1717388540,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173431,
@@ -648,6 +696,14 @@
       "word": "Angelababy原相机营业自拍",
       "onboard_time": 1717335499,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 169699,
+      "num": 169699,
+      "word": "网友偶遇欧阳娜娜CU",
+      "onboard_time": 1717389140,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -835,14 +891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 134739,
-      "num": 134739,
-      "word": "我少将喊话泽连斯基到底在为何而战",
-      "onboard_time": 1717388540,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 134565,
       "num": 134565,
       "word": "肖战重庆",
@@ -915,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124788,
+      "num": 475007,
+      "word": "库迪9块9还能卷一夏",
+      "onboard_time": 1717384638,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123803,
       "num": 123803,
       "word": "减肥主食分为3个黄金等级",
@@ -945,14 +1001,6 @@
       "onboard_time": 1717381697,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119189,
-      "num": 475007,
-      "word": "库迪9块9还能卷一夏",
-      "onboard_time": 1717384638,
-      "rank": 45,
-      "category": "美食"
     },
     {
       "raw_hot": 118483,
@@ -1083,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76321,
+      "num": 541433,
+      "word": "河南麦田全是科技没有狠活",
+      "onboard_time": 1717389019,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75450,
       "num": 118484,
       "word": "老公要用我的彩礼来装修房子",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1717336401,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71657,
+      "num": 513940,
+      "word": "大熊猫天宝的生日窝头好可爱",
+      "onboard_time": 1717387159,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67757,
@@ -1193,14 +1257,6 @@
       "onboard_time": 1717355352,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43842,
-      "num": 513940,
-      "word": "大熊猫天宝的生日窝头好可爱",
-      "onboard_time": 1717387159,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41408,
