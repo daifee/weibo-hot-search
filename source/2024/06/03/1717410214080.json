@@ -1,0 +1,410 @@
+{
+  "runTime": 1717410214080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260499,
+        "num": 1260499,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861934,
+        "num": 861934,
+        "word": "印度现近50度高温连蚊子都消失",
+        "onboard_time": 1717406358,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38826,
+        "num": 706693,
+        "word": "升格视频诠释嫦娥奔月之美",
+        "onboard_time": 1717402099,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593470,
+        "num": 593470,
+        "word": "女科学家把3cm鱼骨切了500多片",
+        "onboard_time": 1717403419,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 532628,
+        "num": 532628,
+        "word": "蔡徐坤染了银发梦回偶练",
+        "onboard_time": 1717408220,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 513378,
+        "num": 513378,
+        "word": "高圆圆 我gap比上班多",
+        "onboard_time": 1717405219,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 511450,
+        "num": 511450,
+        "word": "偏偏二喜的人最争气",
+        "onboard_time": 1717407679,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470116,
+        "num": 470116,
+        "word": "全球男性HPV感染率高于女性",
+        "onboard_time": 1717404138,
+        "rank": 7,
+        "category": "健康医疗,社会新闻"
+      },
+      {
+        "raw_hot": 455139,
+        "num": 455139,
+        "word": "秦岚素颜好顶",
+        "onboard_time": 1717408158,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40932,
+        "num": 447472,
+        "word": "书包塑化剂超标或干扰内分泌系统",
+        "onboard_time": 1717408819,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004679,
+        "num": 447270,
+        "word": "弟弟离高考只有三天手筋断了一根",
+        "onboard_time": 1717403958,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 446759,
+        "num": 446759,
+        "word": "张继科被前合作品牌方起诉",
+        "onboard_time": 1717402639,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411679,
+        "num": 411679,
+        "word": "陈丽君 投票",
+        "onboard_time": 1717405699,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377518,
+        "num": 377518,
+        "word": "峰峻文化就艺人被偷拍发律师声明",
+        "onboard_time": 1717408579,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371498,
+        "num": 371498,
+        "word": "秦岚发文给迪丽热巴庆生",
+        "onboard_time": 1717408158,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348512,
+        "num": 348512,
+        "word": "秦海璐花少团一呼百应",
+        "onboard_time": 1717407499,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343858,
+        "num": 343858,
+        "word": "原来衣服220g说的不是重量",
+        "onboard_time": 1717403839,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314930,
+        "num": 314930,
+        "word": "科学家确认熬夜损伤大脑",
+        "onboard_time": 1717396397,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248575,
+        "num": 248575,
+        "word": "2只旅韩大熊猫幼崽最快2025年将回国",
+        "onboard_time": 1717400238,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218073,
+        "num": 218073,
+        "word": "男子用私密视频威胁前女友被刑拘",
+        "onboard_time": 1717395979,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438643,
+        "num": 218044,
+        "word": "同事说领导是大专生干不成事情正常",
+        "onboard_time": 1717405219,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 318916,
+        "num": 218017,
+        "word": "杜海涛又又又瘦了",
+        "onboard_time": 1717388359,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275194,
+        "num": 218004,
+        "word": "迪丽热巴新歌首发",
+        "onboard_time": 1717381458,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222775,
+        "num": 217940,
+        "word": "女子偷偷自己攒钱买房后被父母阴阳",
+        "onboard_time": 1717405158,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217936,
+        "num": 217936,
+        "word": "女子带90只吸血鬼蟹入境被拦截",
+        "onboard_time": 1717406839,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215124,
+        "num": 215124,
+        "word": "天王的爸天后的妈 破碎的家顶流的他",
+        "onboard_time": 1717391840,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184005,
+        "num": 184005,
+        "word": "猫 我会为了你尽力的",
+        "onboard_time": 1717406781,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180536,
+        "num": 180536,
+        "word": "墨雨云间 嫡嫁千金",
+        "onboard_time": 1717400419,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173914,
+        "num": 173914,
+        "word": "北京WB许诺",
+        "onboard_time": 1717408939,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40025,
+        "num": 171095,
+        "word": "第一次给别人化妆用力过猛",
+        "onboard_time": 1717408939,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 169809,
+        "num": 169809,
+        "word": "易烊千玺压腿旧照",
+        "onboard_time": 1717404558,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166925,
+        "num": 166925,
+        "word": "张雪峰要给员工放20天暑假",
+        "onboard_time": 1717409718,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165307,
+        "num": 165307,
+        "word": "威神V回归",
+        "onboard_time": 1717409298,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11579,
+        "num": 162395,
+        "word": "更适合普通人的高效护肤",
+        "onboard_time": 1717409658,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162207,
+        "num": 162207,
+        "word": "韩国市长请求中国赠送一对大熊猫",
+        "onboard_time": 1717377378,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 161379,
+        "num": 161379,
+        "word": "曹格说很需要一个女朋友",
+        "onboard_time": 1717389560,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160198,
+        "num": 160198,
+        "word": "阮经天 人光是活着就很努力了",
+        "onboard_time": 1717405339,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156417,
+        "num": 156417,
+        "word": "杨幂叫迪丽热巴BB",
+        "onboard_time": 1717390340,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148264,
+        "num": 148264,
+        "word": "53岁阿姨开网约车16小时在路上",
+        "onboard_time": 1717405939,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145505,
+        "num": 145505,
+        "word": "女频爽剧常看长爽的原因",
+        "onboard_time": 1717409058,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137210,
+        "num": 137210,
+        "word": "全球现象级小说作者为中国大熊猫写书",
+        "onboard_time": 1717406420,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 133130,
+        "num": 133130,
+        "word": "乌克兰承认巴勒斯坦是一个国家",
+        "onboard_time": 1717376059,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 133060,
+        "num": 133060,
+        "word": "JDG官宣早点",
+        "onboard_time": 1717403718,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129270,
+        "num": 129270,
+        "word": "美国仅7%用户每天使用ChatGPT",
+        "onboard_time": 1717401800,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 126272,
+        "num": 126272,
+        "word": "相思令已过审",
+        "onboard_time": 1717400478,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119326,
+        "num": 119326,
+        "word": "蔡徐坤水星系造型",
+        "onboard_time": 1717410138,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118144,
+        "num": 118144,
+        "word": "防水猫洗了半天还是干的",
+        "onboard_time": 1717403839,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111603,
+        "num": 111603,
+        "word": "丁程鑫刘耀文日本路透",
+        "onboard_time": 1717395438,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109905,
+        "num": 109905,
+        "word": "戚薇李承铉去了周杰伦演唱会",
+        "onboard_time": 1717398920,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108303,
+        "num": 108303,
+        "word": "艾米才16岁",
+        "onboard_time": 1717397658,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记点赞过的非遗#"
+    }
+  }
+}
