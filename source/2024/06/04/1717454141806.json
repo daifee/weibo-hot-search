@@ -1,0 +1,410 @@
+{
+  "runTime": 1717454141806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 294766,
+        "num": 294766,
+        "word": "姆巴佩",
+        "onboard_time": 1717442591,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169637,
+        "num": 169637,
+        "word": "婚房装成这样结婚更难了",
+        "onboard_time": 1717420578,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14070,
+        "num": 97462,
+        "word": "中国探月工程不断刷新月球探测纪录",
+        "onboard_time": 1717426759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92857,
+        "num": 92857,
+        "word": "吴谨言演技",
+        "onboard_time": 1717418238,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80764,
+        "num": 80764,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79340,
+        "num": 79340,
+        "word": "数只美股疑似出现行情异常",
+        "onboard_time": 1717426759,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 63871,
+        "num": 63871,
+        "word": "巴菲特",
+        "onboard_time": 1717425738,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59969,
+        "num": 59969,
+        "word": "王楚钦 脚踝",
+        "onboard_time": 1717423699,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56625,
+        "num": 56625,
+        "word": "秦岚觉得结了婚就不要离婚",
+        "onboard_time": 1717420338,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 5716,
+        "num": 54943,
+        "word": "义乌老奶奶闲不下来在家做手工活",
+        "onboard_time": 1717439231,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194357,
+        "num": 53732,
+        "word": "北京8兄妹因搬迁争夺宅基地",
+        "onboard_time": 1717448892,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151624,
+        "num": 50489,
+        "word": "浙江两驴友被溪流冲走当地商户发声",
+        "onboard_time": 1717432216,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125791,
+        "num": 49872,
+        "word": "丁真自曝刚上岛跟不上节奏",
+        "onboard_time": 1717437193,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47912,
+        "num": 47912,
+        "word": "爱奇艺给杨幂开了专栏",
+        "onboard_time": 1717448411,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76633,
+        "num": 47483,
+        "word": "海清曝温峥嵘把大学宿舍烧了",
+        "onboard_time": 1717437552,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46736,
+        "num": 46736,
+        "word": "印度高温 恒河洗澡",
+        "onboard_time": 1717427719,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46674,
+        "num": 46674,
+        "word": "王星越好帅",
+        "onboard_time": 1717425858,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46591,
+        "num": 46591,
+        "word": "东方甄选主号掉粉",
+        "onboard_time": 1717452071,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 44653,
+        "num": 44653,
+        "word": "才知道微信可以锁屏录音",
+        "onboard_time": 1717411697,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 43160,
+        "num": 43160,
+        "word": "早睡真能解决生活中大部分的问题",
+        "onboard_time": 1717427599,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 41143,
+        "num": 41143,
+        "word": "首饰金价重回5字头",
+        "onboard_time": 1717418478,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 38615,
+        "num": 38615,
+        "word": "袁娅维 双截棍",
+        "onboard_time": 1717427599,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36623,
+        "num": 36623,
+        "word": "樊振东男单冠军",
+        "onboard_time": 1717422559,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35613,
+        "num": 35613,
+        "word": "为什么收拾房间有助于攒钱",
+        "onboard_time": 1717424959,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35546,
+        "num": 35546,
+        "word": "叶轻眉 大女主",
+        "onboard_time": 1717414938,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33785,
+        "num": 33785,
+        "word": "以为爸妈只给妹妹买了新玩具车",
+        "onboard_time": 1717425198,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33698,
+        "num": 33698,
+        "word": "伯克希尔哈撒韦暴跌99.97%",
+        "onboard_time": 1717442350,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33448,
+        "num": 33448,
+        "word": "三家日本车企高管开记者会道歉",
+        "onboard_time": 1717425379,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 33331,
+        "num": 33331,
+        "word": "毒液3直到死亡将他们分开",
+        "onboard_time": 1717424301,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32044,
+        "num": 32044,
+        "word": "孙颖莎赛后发文",
+        "onboard_time": 1717426759,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67041,
+        "num": 32030,
+        "word": "夏天手上长巨痒小水泡怎么办",
+        "onboard_time": 1717429877,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 36915,
+        "num": 32017,
+        "word": "这个家没有王栎鑫得散",
+        "onboard_time": 1717433055,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36829,
+        "num": 32017,
+        "word": "宝宝眼球被蜇进1根刺1个月才发现",
+        "onboard_time": 1717446191,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 31992,
+        "num": 31992,
+        "word": "戚薇录乘风十天没理李承铉",
+        "onboard_time": 1717413318,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29615,
+        "num": 29615,
+        "word": "18岁长女高考后妈生3胎弟弟",
+        "onboard_time": 1717436353,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28682,
+        "num": 28682,
+        "word": "知道为什么洪世贤认不出品如了",
+        "onboard_time": 1717413857,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28359,
+        "num": 28359,
+        "word": "姆巴佩未入选奥运名单",
+        "onboard_time": 1717435872,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28188,
+        "num": 28188,
+        "word": "樊振东4比3战胜王楚钦",
+        "onboard_time": 1717422500,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28127,
+        "num": 28127,
+        "word": "高考前看到妈妈的手机破防了",
+        "onboard_time": 1717447090,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26393,
+        "num": 28127,
+        "word": "樊振东说更在意王楚钦伤势",
+        "onboard_time": 1717424239,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26053,
+        "num": 28127,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1717417338,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25935,
+        "num": 28127,
+        "word": "半夜被手麻醒怎么回事",
+        "onboard_time": 1717451351,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 25531,
+        "num": 28127,
+        "word": "记忆里的明星批量翻红",
+        "onboard_time": 1717447331,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6141,
+        "num": 28126,
+        "word": "国乒又双叒包揽冠亚军了",
+        "onboard_time": 1717429938,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24985,
+        "num": 28126,
+        "word": "孙颖莎女单夺冠",
+        "onboard_time": 1717416618,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24238,
+        "num": 28126,
+        "word": "胖莎",
+        "onboard_time": 1717427959,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21794,
+        "num": 28126,
+        "word": "猫 忘了我也会",
+        "onboard_time": 1717440371,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21617,
+        "num": 28126,
+        "word": "乘风之夜组队选曲征集",
+        "onboard_time": 1717432515,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19448,
+        "num": 28126,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1717414337,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17756,
+        "num": 28126,
+        "word": "伯克希尔哈撒韦",
+        "onboard_time": 1717425499,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺中国工程院建院30周年#"
+    }
+  }
+}
