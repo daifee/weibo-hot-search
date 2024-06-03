@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717418181519,
+  "endTime": 1717419091153,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -891,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 731362,
+      "num": 731362,
+      "word": "叶轻眉 大女主",
+      "onboard_time": 1717414938,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 718868,
       "num": 637378,
       "word": "杨天真",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1717408158,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 658577,
-      "num": 658577,
-      "word": "叶轻眉 大女主",
-      "onboard_time": 1717414938,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 657934,
@@ -1715,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448015,
+      "num": 448015,
+      "word": "吴谨言演技",
+      "onboard_time": 1717418238,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447816,
       "num": 447816,
       "word": "多特蒙德vs皇马",
@@ -1737,6 +1745,14 @@
       "onboard_time": 1717170320,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 442245,
+      "num": 442245,
+      "word": "身中15刀牺牲民警的女儿即将高考",
+      "onboard_time": 1717417757,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 441028,
@@ -2043,7 +2059,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395028,
+      "raw_hot": 395945,
       "num": 512913,
       "word": "知道为什么洪世贤认不出品如了",
       "onboard_time": 1717413857,
@@ -2865,6 +2881,14 @@
       "onboard_time": 1717287314,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295539,
+      "num": 295539,
+      "word": "迪丽热巴叼花镜头",
+      "onboard_time": 1717418658,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 295074,
@@ -3739,6 +3763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220092,
+      "num": 220092,
+      "word": "缺牙齿会惩罚每一个嘴硬的人",
+      "onboard_time": 1717415598,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220080,
       "num": 220080,
       "word": "白玉兰",
@@ -4259,6 +4291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198369,
+      "num": 198369,
+      "word": "WTT",
+      "onboard_time": 1717220237,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197842,
       "num": 197842,
       "word": "财政部下达2024年汽车以旧换新补贴",
@@ -4539,14 +4579,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189374,
-      "num": 189374,
-      "word": "身中15刀牺牲民警的女儿即将高考",
-      "onboard_time": 1717417757,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189217,
       "num": 184030,
       "word": "你可能不是e人也不是i人而是A人",
@@ -4707,6 +4739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183508,
+      "num": 183508,
+      "word": "首饰金价重回5字头",
+      "onboard_time": 1717418478,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 183145,
       "num": 183145,
       "word": "何洁戚薇陈昊宇蔡文静新综艺",
@@ -4721,14 +4761,6 @@
       "onboard_time": 1717412419,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181899,
-      "num": 181899,
-      "word": "缺牙齿会惩罚每一个嘴硬的人",
-      "onboard_time": 1717415598,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 181811,
@@ -5659,12 +5691,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152802,
+      "num": 152802,
+      "word": "93岁默多克迎娶67岁俄裔科学家",
+      "onboard_time": 1717418420,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152659,
       "num": 152659,
       "word": "陶昕然说红毯不是我的战场",
       "onboard_time": 1717209916,
       "rank": 44,
       "category": "综艺,作品衍生"
+    },
+    {
+      "raw_hot": 152581,
+      "num": 180728,
+      "word": "WBG对战IG",
+      "onboard_time": 1717419018,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 152346,
@@ -6171,6 +6219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137006,
+      "num": 353706,
+      "word": "88VIP大额券你用了吗",
+      "onboard_time": 1717416018,
+      "rank": 14,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 136902,
       "num": 136902,
       "word": "JDG誓约",
@@ -6345,14 +6401,6 @@
       "onboard_time": 1717411279,
       "rank": 41,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 130266,
-      "num": 319536,
-      "word": "88VIP大额券你用了吗",
-      "onboard_time": 1717416018,
-      "rank": 14,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 129559,
@@ -6563,6 +6611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125512,
+      "num": 125512,
+      "word": "孙颖莎太全面了",
+      "onboard_time": 1717417938,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125207,
       "num": 323542,
       "word": "奶爸把福宝内舍打扫得一尘不染",
@@ -6707,6 +6763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120755,
+      "num": 120755,
+      "word": "全世界的人都在用一生治愈童年",
+      "onboard_time": 1717418478,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120594,
       "num": 402202,
       "word": "当中国军人说起战火中的儿童",
@@ -6793,14 +6857,6 @@
       "onboard_time": 1717242677,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118442,
-      "num": 118442,
-      "word": "孙颖莎太全面了",
-      "onboard_time": 1717417938,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 118407,
@@ -7051,6 +7107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111081,
+      "num": 111081,
+      "word": "佘诗曼曾买股票亏了20多万",
+      "onboard_time": 1717417457,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109841,
       "num": 109841,
       "word": "陈梦3比1张本美和",
@@ -7152,14 +7216,6 @@
       "word": "孙颖莎陈梦会师女单半决赛",
       "onboard_time": 1717321339,
       "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 107674,
-      "num": 107674,
-      "word": "WTT",
-      "onboard_time": 1717220237,
-      "rank": 45,
       "category": "体育"
     },
     {
@@ -7331,20 +7387,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102046,
-      "num": 102046,
-      "word": "佘诗曼曾买股票亏了20多万",
-      "onboard_time": 1717417457,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101865,
       "num": 383429,
       "word": "你还是那个闪闪发光的小孩",
       "onboard_time": 1717240458,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101453,
+      "num": 101453,
+      "word": "人民海军版我有一个帽衫又萌又猛",
+      "onboard_time": 1717416318,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 100946,
@@ -7457,14 +7513,6 @@
       "onboard_time": 1717301058,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94008,
-      "num": 94008,
-      "word": "人民海军版我有一个帽衫又萌又猛",
-      "onboard_time": 1717416318,
-      "rank": 49,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 93774,
@@ -7987,6 +8035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56334,
+      "num": 448372,
+      "word": "145天救助后鲸鱼海棠重回大海",
+      "onboard_time": 1717418776,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54946,
       "num": 397307,
       "word": "辅警将礼物晒在警车上炫耀",
@@ -8404,7 +8460,7 @@
     },
     {
       "raw_hot": 31173,
-      "num": 255972,
+      "num": 298110,
       "word": "深蓝汽车找网友借流量宠粉",
       "onboard_time": 1717415658,
       "rank": 17,
@@ -8425,6 +8481,14 @@
       "onboard_time": 1717215977,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 30473,
+      "num": 800503,
+      "word": "中国首个重载铁路加氢站",
+      "onboard_time": 1717401620,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27362,
@@ -8481,14 +8545,6 @@
       "onboard_time": 1717189270,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22554,
-      "num": 800503,
-      "word": "中国首个重载铁路加氢站",
-      "onboard_time": 1717401620,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21896,

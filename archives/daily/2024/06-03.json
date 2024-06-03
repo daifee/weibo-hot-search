@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717418181519,
+  "endTime": 1717419091153,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -275,6 +275,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 731362,
+      "num": 731362,
+      "word": "叶轻眉 大女主",
+      "onboard_time": 1717414938,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 719619,
       "num": 505891,
       "word": "退票",
@@ -321,14 +329,6 @@
       "onboard_time": 1717408158,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 658577,
-      "num": 658577,
-      "word": "叶轻眉 大女主",
-      "onboard_time": 1717414938,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 657349,
@@ -587,6 +587,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 448015,
+      "num": 448015,
+      "word": "吴谨言演技",
+      "onboard_time": 1717418238,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 442245,
+      "num": 442245,
+      "word": "身中15刀牺牲民警的女儿即将高考",
+      "onboard_time": 1717417757,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439393,
       "num": 387398,
       "word": "印度大选已有33名工作人员被热死",
@@ -659,7 +675,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 395028,
+      "raw_hot": 395945,
       "num": 512913,
       "word": "知道为什么洪世贤认不出品如了",
       "onboard_time": 1717413857,
@@ -833,6 +849,14 @@
       "onboard_time": 1717381638,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 295539,
+      "num": 295539,
+      "word": "迪丽热巴叼花镜头",
+      "onboard_time": 1717418658,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 290950,
@@ -1123,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220092,
+      "num": 220092,
+      "word": "缺牙齿会惩罚每一个嘴硬的人",
+      "onboard_time": 1717415598,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218374,
       "num": 218374,
       "word": "JDG教练吕成林",
@@ -1283,6 +1315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198369,
+      "num": 198369,
+      "word": "WTT",
+      "onboard_time": 1717418776,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197842,
       "num": 197842,
       "word": "财政部下达2024年汽车以旧换新补贴",
@@ -1411,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189374,
-      "num": 189374,
-      "word": "身中15刀牺牲民警的女儿即将高考",
-      "onboard_time": 1717417757,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189100,
       "num": 189100,
       "word": "河南漯河一轿车与火车相撞",
@@ -1467,6 +1499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183508,
+      "num": 183508,
+      "word": "首饰金价重回5字头",
+      "onboard_time": 1717418478,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 182913,
       "num": 182913,
       "word": "牛肉价格大跌",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1717412419,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181899,
-      "num": 181899,
-      "word": "缺牙齿会惩罚每一个嘴硬的人",
-      "onboard_time": 1717415598,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 179865,
@@ -1835,6 +1867,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152802,
+      "num": 152802,
+      "word": "93岁默多克迎娶67岁俄裔科学家",
+      "onboard_time": 1717418420,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152581,
+      "num": 180728,
+      "word": "WBG对战IG",
+      "onboard_time": 1717419018,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149815,
       "num": 149815,
       "word": "圈地榜",
@@ -1939,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137006,
+      "num": 353706,
+      "word": "88VIP大额券你用了吗",
+      "onboard_time": 1717416018,
+      "rank": 14,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 136902,
       "num": 136902,
       "word": "JDG誓约",
@@ -2009,14 +2065,6 @@
       "onboard_time": 1717411279,
       "rank": 41,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 130266,
-      "num": 319536,
-      "word": "88VIP大额券你用了吗",
-      "onboard_time": 1717416018,
-      "rank": 14,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 129559,
@@ -2123,6 +2171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125512,
+      "num": 125512,
+      "word": "孙颖莎太全面了",
+      "onboard_time": 1717417938,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125207,
       "num": 323542,
       "word": "奶爸把福宝内舍打扫得一尘不染",
@@ -2195,6 +2251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 120755,
+      "num": 120755,
+      "word": "全世界的人都在用一生治愈童年",
+      "onboard_time": 1717418478,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119858,
       "num": 119858,
       "word": "石宇奇登顶世界第一",
@@ -2233,14 +2297,6 @@
       "onboard_time": 1717338620,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118442,
-      "num": 118442,
-      "word": "孙颖莎太全面了",
-      "onboard_time": 1717417938,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 118407,
@@ -2315,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111081,
+      "num": 111081,
+      "word": "佘诗曼曾买股票亏了20多万",
+      "onboard_time": 1717417457,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108853,
       "num": 114108,
       "word": "付辛博告别大皇子",
@@ -2347,12 +2411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102046,
-      "num": 102046,
-      "word": "佘诗曼曾买股票亏了20多万",
-      "onboard_time": 1717417457,
-      "rank": 45,
-      "category": "艺人"
+      "raw_hot": 101453,
+      "num": 101453,
+      "word": "人民海军版我有一个帽衫又萌又猛",
+      "onboard_time": 1717416318,
+      "rank": 49,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 99716,
@@ -2393,14 +2457,6 @@
       "onboard_time": 1717328418,
       "rank": 37,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 94008,
-      "num": 94008,
-      "word": "人民海军版我有一个帽衫又萌又猛",
-      "onboard_time": 1717416318,
-      "rank": 49,
-      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 83883,
@@ -2547,6 +2603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56334,
+      "num": 448372,
+      "word": "145天救助后鲸鱼海棠重回大海",
+      "onboard_time": 1717418776,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54201,
       "num": 947005,
       "word": "升格视频诠释嫦娥奔月之美",
@@ -2660,11 +2724,19 @@
     },
     {
       "raw_hot": 31173,
-      "num": 255972,
+      "num": 298110,
       "word": "深蓝汽车找网友借流量宠粉",
       "onboard_time": 1717415658,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 30473,
+      "num": 800503,
+      "word": "中国首个重载铁路加氢站",
+      "onboard_time": 1717401620,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26874,
@@ -2681,14 +2753,6 @@
       "onboard_time": 1717332440,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 22554,
-      "num": 800503,
-      "word": "中国首个重载铁路加氢站",
-      "onboard_time": 1717401620,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22094,
