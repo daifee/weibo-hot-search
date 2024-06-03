@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717443343627,
+  "endTime": 1717445988157,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -6755,6 +6755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131998,
+      "num": 131998,
+      "word": "姆巴佩",
+      "onboard_time": 1717442591,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131475,
       "num": 205439,
       "word": "梦想的肌肉线条长在了6岁小孩姐身上",
@@ -6809,14 +6817,6 @@
       "onboard_time": 1717200376,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128844,
-      "num": 128844,
-      "word": "姆巴佩",
-      "onboard_time": 1717442591,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 128783,
@@ -9267,7 +9267,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15548,
+      "raw_hot": 15949,
+      "num": 15949,
+      "word": "全世界最催眠的视频找到了",
+      "onboard_time": 1717443671,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15869,
       "num": 18166,
       "word": "伯克希尔哈撒韦暴跌99.97%",
       "onboard_time": 1717442350,
@@ -9299,12 +9307,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13928,
+      "num": 41280,
+      "word": "榴莲价格为何一路走低",
+      "onboard_time": 1717441091,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 13466,
       "num": 198841,
       "word": "盲人越剧演员舟山海岛公益送戏18年",
       "onboard_time": 1717385717,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13023,
+      "num": 15846,
+      "word": "爱喝含糖饮料的女性肝癌风险更高",
+      "onboard_time": 1717444990,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 12799,
@@ -9323,6 +9347,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 11979,
+      "num": 15836,
+      "word": "嫦娥六号帮我带个ID",
+      "onboard_time": 1717445589,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11543,
       "num": 220991,
       "word": "爸爸带娃打针紧张到全程闭眼",
@@ -9337,14 +9369,6 @@
       "onboard_time": 1717358231,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11134,
-      "num": 41280,
-      "word": "榴莲价格为何一路走低",
-      "onboard_time": 1717441091,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 11130,
@@ -9371,7 +9395,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9526,
+      "raw_hot": 9705,
       "num": 62942,
       "word": "中国探月工程不断刷新月球探测纪录",
       "onboard_time": 1717426759,
