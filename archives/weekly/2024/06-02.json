@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717382673580,
+  "endTime": 1717384939982,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 825616,
+      "num": 523242,
+      "word": "迪丽热巴32岁生日造型",
+      "onboard_time": 1717381938,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794848,
       "num": 794848,
       "word": "逆水寒 剑网三",
@@ -377,14 +385,6 @@
       "onboard_time": 1717253120,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 746769,
-      "num": 523242,
-      "word": "迪丽热巴32岁生日造型",
-      "onboard_time": 1717381938,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 744403,
@@ -603,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530650,
+      "num": 530650,
+      "word": "93岁默多克第5次结婚",
+      "onboard_time": 1717379717,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 523800,
       "num": 523800,
       "word": "中国女排排名降至亚洲第二",
@@ -699,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 483763,
-      "num": 483763,
-      "word": "93岁默多克第5次结婚",
-      "onboard_time": 1717379717,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 479775,
       "num": 299156,
       "word": "王阳说没有待播的戏后面就没饭吃",
@@ -745,6 +745,14 @@
       "onboard_time": 1717328298,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 461737,
+      "num": 293960,
+      "word": "王亚飞为迪丽热巴化的生日妆",
+      "onboard_time": 1717382899,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 461723,
@@ -1057,6 +1065,14 @@
       "onboard_time": 1717330397,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382399,
+      "num": 382399,
+      "word": "韩国人为何偏爱超大号食品",
+      "onboard_time": 1717383258,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 379006,
@@ -1379,6 +1395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287090,
+      "num": 287090,
+      "word": "最适合i人的职业出现了",
+      "onboard_time": 1717381638,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 286505,
       "num": 403625,
       "word": "孙颖莎vs早田希娜",
@@ -1489,6 +1513,14 @@
       "onboard_time": 1717254139,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 262041,
+      "num": 262041,
+      "word": "突然发现毕业是场巨大的戒断",
+      "onboard_time": 1717382537,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 258354,
@@ -1617,6 +1649,14 @@
       "onboard_time": 1717330218,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 235926,
+      "num": 235926,
+      "word": "三甲医生教你正确吃零食",
+      "onboard_time": 1717380076,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 235016,
@@ -1835,14 +1875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 209929,
-      "num": 209929,
-      "word": "最适合i人的职业出现了",
-      "onboard_time": 1717381638,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 209763,
       "num": 209763,
       "word": "闪耀暖暖星云转转裙",
@@ -2019,14 +2051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194145,
-      "num": 194145,
-      "word": "三甲医生教你正确吃零食",
-      "onboard_time": 1717380076,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 193786,
       "num": 188498,
       "word": "穿Prada的票房女王",
@@ -2057,6 +2081,14 @@
       "onboard_time": 1717337000,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190969,
+      "num": 162639,
+      "word": "惠若琪说香港站就能看出名单了",
+      "onboard_time": 1717383018,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 190769,
@@ -2139,6 +2171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 185637,
+      "num": 185637,
+      "word": "财政部下达2024年汽车以旧换新补贴",
+      "onboard_time": 1717384218,
+      "rank": 26,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 184070,
       "num": 184070,
       "word": "高考时间",
@@ -2161,6 +2201,14 @@
       "onboard_time": 1717297142,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182167,
+      "num": 386892,
+      "word": "武汉民警壮烈牺牲鲜血浸透警服",
+      "onboard_time": 1717384579,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181811,
@@ -2475,6 +2523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158889,
+      "num": 158889,
+      "word": "黄曦彦 跑男",
+      "onboard_time": 1717383739,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158524,
       "num": 158524,
       "word": "coser漫展模仿科比遇难场景引争议",
@@ -2715,6 +2771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140632,
+      "num": 140632,
+      "word": "董明珠说错了什么",
+      "onboard_time": 1717383678,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 139837,
       "num": 139837,
       "word": "宠物离开前真的会满含泪水",
@@ -2897,6 +2961,14 @@
       "onboard_time": 1717325779,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126368,
+      "num": 126368,
+      "word": "张雪峰高考前直播 4条建议",
+      "onboard_time": 1717383199,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125680,
@@ -3155,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109640,
+      "num": 109640,
+      "word": "外交部回应菲总统涉南海问题表态",
+      "onboard_time": 1717384877,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108968,
       "num": 108968,
       "word": "文俊辉limbo",
@@ -3307,20 +3387,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102651,
+      "num": 106340,
+      "word": "葡萄牙航空展两飞机相撞致1死1伤",
+      "onboard_time": 1717384758,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102636,
       "num": 102636,
       "word": "刘维无声的悲痛震耳欲聋",
       "onboard_time": 1717314978,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101772,
-      "num": 101772,
-      "word": "突然发现毕业是场巨大的戒断",
-      "onboard_time": 1717382537,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 100946,
@@ -3737,6 +3817,14 @@
       "onboard_time": 1717300397,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42120,
+      "num": 111222,
+      "word": "库迪9块9还能卷一夏",
+      "onboard_time": 1717384638,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 41408,
