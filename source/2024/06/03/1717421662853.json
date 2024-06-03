@@ -1,0 +1,410 @@
+{
+  "runTime": 1717421662853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449875,
+        "num": 1449875,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1717414337,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1081091,
+        "num": 1081091,
+        "word": "才知道微信可以锁屏录音",
+        "onboard_time": 1717411697,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25515,
+        "num": 931891,
+        "word": "中国首个重载铁路加氢站",
+        "onboard_time": 1717401620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 868933,
+        "num": 868933,
+        "word": "身中15刀牺牲民警的女儿即将高考",
+        "onboard_time": 1717417757,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 775393,
+        "num": 775393,
+        "word": "吴谨言演技",
+        "onboard_time": 1717418238,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682920,
+        "num": 682920,
+        "word": "叶轻眉 大女主",
+        "onboard_time": 1717414938,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 578192,
+        "num": 578192,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550844,
+        "num": 550844,
+        "word": "首饰金价重回5字头",
+        "onboard_time": 1717418478,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 476347,
+        "num": 476347,
+        "word": "王楚钦状态",
+        "onboard_time": 1717420217,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423359,
+        "num": 423359,
+        "word": "缺牙齿会惩罚每一个嘴硬的人",
+        "onboard_time": 1717415598,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 600150,
+        "num": 420435,
+        "word": "秦岚觉得结了婚就不要离婚",
+        "onboard_time": 1717420338,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402509,
+        "num": 402509,
+        "word": "外交部回应靖国神社石柱被涂鸦",
+        "onboard_time": 1717411817,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 376635,
+        "num": 376635,
+        "word": "93岁默多克迎娶67岁俄裔科学家",
+        "onboard_time": 1717418420,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342129,
+        "num": 342129,
+        "word": "戚薇录乘风十天没理李承铉",
+        "onboard_time": 1717413318,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300535,
+        "num": 300535,
+        "word": "孙颖莎女单夺冠",
+        "onboard_time": 1717416618,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298322,
+        "num": 298322,
+        "word": "婚房装成这样结婚更难了",
+        "onboard_time": 1717420578,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285369,
+        "num": 285369,
+        "word": "知道为什么洪世贤认不出品如了",
+        "onboard_time": 1717413857,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54099,
+        "num": 282241,
+        "word": "145天救助后鲸鱼海棠重回大海",
+        "onboard_time": 1717418776,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281243,
+        "num": 281243,
+        "word": "迪丽热巴叼花镜头",
+        "onboard_time": 1717418658,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 240200,
+        "num": 240200,
+        "word": "蔡徐坤染了银发梦回偶练",
+        "onboard_time": 1717408220,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265726,
+        "num": 230689,
+        "word": "鞠婧祎背沟好深",
+        "onboard_time": 1717412538,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192853,
+        "num": 192853,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1717417338,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177933,
+        "num": 177933,
+        "word": "微博换图标为高考加油",
+        "onboard_time": 1717420518,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 187077,
+        "num": 175556,
+        "word": "迪丽热巴白色羽毛上衣",
+        "onboard_time": 1717419738,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172413,
+        "num": 172413,
+        "word": "于正 选角",
+        "onboard_time": 1717411697,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162208,
+        "num": 162208,
+        "word": "孙颖莎王曼昱地表最强攻防战",
+        "onboard_time": 1717421059,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158944,
+        "num": 158944,
+        "word": "印度现近50度高温连蚊子都消失",
+        "onboard_time": 1717406358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139145,
+        "num": 139145,
+        "word": "鹏鹏百兽重逢WE",
+        "onboard_time": 1717420578,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70343,
+        "num": 139125,
+        "word": "共享单车儿童座椅有多危险",
+        "onboard_time": 1717419619,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174338,
+        "num": 139125,
+        "word": "迪丽热巴再跳女团舞",
+        "onboard_time": 1717419499,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139125,
+        "num": 139124,
+        "word": "张小斐 蜕变",
+        "onboard_time": 1717416979,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137193,
+        "num": 137193,
+        "word": "范丞丞当着郑恺的面cue苗苗",
+        "onboard_time": 1717420518,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132938,
+        "num": 132938,
+        "word": "原来衣服220g说的不是重量",
+        "onboard_time": 1717403839,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127008,
+        "num": 127008,
+        "word": "Cat回归LPL解说席",
+        "onboard_time": 1717419258,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123037,
+        "num": 123037,
+        "word": "秦岚素颜好顶",
+        "onboard_time": 1717408158,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117562,
+        "num": 117562,
+        "word": "原神艾梅莉埃",
+        "onboard_time": 1717411639,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115984,
+        "num": 115984,
+        "word": "河南漯河一轿车与火车相撞",
+        "onboard_time": 1717415598,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 109702,
+        "num": 109702,
+        "word": "全世界的人都在用一生治愈童年",
+        "onboard_time": 1717418478,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108695,
+        "num": 108695,
+        "word": "庆余年",
+        "onboard_time": 1717421180,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107999,
+        "num": 107999,
+        "word": "陈丽君 投票",
+        "onboard_time": 1717405699,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106890,
+        "num": 106890,
+        "word": "商户卖假牛肉被揭穿后摔相机",
+        "onboard_time": 1717412419,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106682,
+        "num": 106682,
+        "word": "小夜退役",
+        "onboard_time": 1717420879,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104173,
+        "num": 104173,
+        "word": "女科学家把3cm鱼骨切了500多片",
+        "onboard_time": 1717403419,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 103297,
+        "num": 103297,
+        "word": "孙颖莎 正手",
+        "onboard_time": 1717416679,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103228,
+        "num": 103228,
+        "word": "舒淇 原生家庭",
+        "onboard_time": 1717415478,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99361,
+        "num": 99361,
+        "word": "什么样的原生家庭能培养出ENFJ",
+        "onboard_time": 1717420160,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96534,
+        "num": 96534,
+        "word": "WTT",
+        "onboard_time": 1717418776,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92570,
+        "num": 92570,
+        "word": "田雨的减肥秘籍是远离张若昀",
+        "onboard_time": 1717414697,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90515,
+        "num": 90515,
+        "word": "嫦娥六号在月球发了第一条微博",
+        "onboard_time": 1717415299,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89950,
+        "num": 89950,
+        "word": "WBG对战IG",
+        "onboard_time": 1717419018,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717420926155,
+  "endTime": 1717421662853,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -123,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1449875,
+      "num": 1449875,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1717414337,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1433682,
       "num": 1433682,
       "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
@@ -241,14 +249,6 @@
       "onboard_time": 1717336941,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1134080,
-      "num": 1134080,
-      "word": "王楚钦vs樊振东",
-      "onboard_time": 1717414337,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 1124395,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 868933,
+      "num": 868933,
+      "word": "身中15刀牺牲民警的女儿即将高考",
+      "onboard_time": 1717417757,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 865090,
       "num": 865090,
       "word": "张继科被前合作品牌方起诉",
@@ -409,14 +417,6 @@
       "onboard_time": 1717320857,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 857700,
-      "num": 857700,
-      "word": "身中15刀牺牲民警的女儿即将高考",
-      "onboard_time": 1717417757,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 852396,
@@ -499,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 775393,
+      "num": 775393,
+      "word": "吴谨言演技",
+      "onboard_time": 1717418238,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 770516,
       "num": 291314,
       "word": "家里拆迁后妈给了我100万拆迁款",
@@ -520,14 +528,6 @@
       "word": "背着善宰跑导演吐槽金惠允外貌",
       "onboard_time": 1717254799,
       "rank": 1,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 752759,
-      "num": 752759,
-      "word": "吴谨言演技",
-      "onboard_time": 1717418238,
-      "rank": 10,
       "category": "剧集"
     },
     {
@@ -761,6 +761,14 @@
       "onboard_time": 1717296978,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 600150,
+      "num": 420435,
+      "word": "秦岚觉得结了婚就不要离婚",
+      "onboard_time": 1717420338,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 600148,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1717285635,
       "rank": 4,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 476347,
+      "num": 476347,
+      "word": "王楚钦状态",
+      "onboard_time": 1717420217,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 475854,
@@ -1571,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376635,
+      "num": 376635,
+      "word": "93岁默多克迎娶67岁俄裔科学家",
+      "onboard_time": 1717418420,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373741,
       "num": 373741,
       "word": "于正 选角",
@@ -1915,6 +1939,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 298322,
+      "num": 298322,
+      "word": "婚房装成这样结婚更难了",
+      "onboard_time": 1717420578,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297678,
       "num": 297678,
       "word": "刘亦菲草地牵狗",
@@ -1960,14 +1992,6 @@
       "word": "中国女排0比2意大利女排",
       "onboard_time": 1717331779,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 291147,
-      "num": 291147,
-      "word": "王楚钦状态",
-      "onboard_time": 1717420217,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -2083,14 +2107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 278920,
-      "num": 278920,
-      "word": "93岁默多克迎娶67岁俄裔科学家",
-      "onboard_time": 1717418420,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278663,
       "num": 278663,
       "word": "钟楚曦十八宫格泳池照",
@@ -2192,14 +2208,6 @@
       "word": "墨雨云间原著",
       "onboard_time": 1717340840,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 262745,
-      "num": 262745,
-      "word": "秦岚觉得结了婚就不要离婚",
-      "onboard_time": 1717420338,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -3227,14 +3235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 186170,
-      "num": 141055,
-      "word": "婚房装成这样结婚更难了",
-      "onboard_time": 1717420578,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184070,
       "num": 184070,
       "word": "高考时间",
@@ -3337,6 +3337,14 @@
       "onboard_time": 1717389921,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177933,
+      "num": 177933,
+      "word": "微博换图标为高考加油",
+      "onboard_time": 1717420518,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 177462,
@@ -3723,6 +3731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 162208,
+      "num": 162208,
+      "word": "孙颖莎王曼昱地表最强攻防战",
+      "onboard_time": 1717421059,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161598,
       "num": 161598,
       "word": "庆余年不是张若昀第一次生孩子",
@@ -3793,14 +3809,6 @@
       "onboard_time": 1717383739,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158658,
-      "num": 158658,
-      "word": "微博换图标为高考加油",
-      "onboard_time": 1717420518,
-      "rank": 23,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 158553,
@@ -4219,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137193,
+      "num": 137193,
+      "word": "范丞丞当着郑恺的面cue苗苗",
+      "onboard_time": 1717420518,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137006,
       "num": 353706,
       "word": "88VIP大额券你用了吗",
@@ -4563,14 +4579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123245,
-      "num": 123245,
-      "word": "范丞丞当着郑恺的面cue苗苗",
-      "onboard_time": 1717420518,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122707,
       "num": 122707,
       "word": "民警身中15刀仍紧追歹徒不放",
@@ -4867,6 +4875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108695,
+      "num": 108695,
+      "word": "庆余年",
+      "onboard_time": 1717421180,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108683,
       "num": 108683,
       "word": "郑钦文遭误判",
@@ -4913,6 +4929,14 @@
       "onboard_time": 1717341679,
       "rank": 49,
       "category": "游戏,演出"
+    },
+    {
+      "raw_hot": 106682,
+      "num": 106682,
+      "word": "小夜退役",
+      "onboard_time": 1717420879,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 106583,
@@ -5027,6 +5051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99361,
+      "num": 99361,
+      "word": "什么样的原生家庭能培养出ENFJ",
+      "onboard_time": 1717420160,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98565,
       "num": 98565,
       "word": "你从什么时候民族自豪感直线上升",
@@ -5113,14 +5145,6 @@
       "onboard_time": 1717296497,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 91633,
-      "num": 91633,
-      "word": "小夜退役",
-      "onboard_time": 1717420879,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 91523,
@@ -5331,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70343,
+      "num": 457228,
+      "word": "共享单车儿童座椅有多危险",
+      "onboard_time": 1717419619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69196,
       "num": 101915,
       "word": "美国小伙飞杭州动漫展求婚女友",
@@ -5505,14 +5537,6 @@
       "onboard_time": 1717370236,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 49161,
-      "num": 457228,
-      "word": "共享单车儿童座椅有多危险",
-      "onboard_time": 1717419619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49155,
@@ -5708,7 +5732,7 @@
     },
     {
       "raw_hot": 30473,
-      "num": 861247,
+      "num": 931891,
       "word": "中国首个重载铁路加氢站",
       "onboard_time": 1717401620,
       "rank": 2,
