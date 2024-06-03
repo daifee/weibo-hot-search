@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717432717207,
+  "endTime": 1717435077957,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -3587,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176800,
+      "num": 105571,
+      "word": "夏天手上长巨痒小水泡怎么办",
+      "onboard_time": 1717429877,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 175519,
       "num": 175519,
       "word": "五哈节目组",
@@ -4003,6 +4011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160154,
+      "num": 146267,
+      "word": "浙江两驴友被溪流冲走当地商户发声",
+      "onboard_time": 1717432216,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159536,
       "num": 159536,
       "word": "一心堂门店比肯德基还多",
@@ -4145,14 +4161,6 @@
       "onboard_time": 1717419018,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151902,
-      "num": 105571,
-      "word": "夏天手上长巨痒小水泡怎么办",
-      "onboard_time": 1717429877,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 151874,
@@ -5611,14 +5619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 81116,
-      "num": 81116,
-      "word": "浙江两驴友被溪流冲走当地商户发声",
-      "onboard_time": 1717432216,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80499,
       "num": 80499,
       "word": "迪丽热巴微博生日惊喜",
@@ -5756,11 +5756,27 @@
     },
     {
       "raw_hot": 68818,
-      "num": 68818,
+      "num": 84247,
       "word": "乘风之夜组队选曲征集",
       "onboard_time": 1717432515,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68665,
+      "num": 84249,
+      "word": "这个家没有王栎鑫得散",
+      "onboard_time": 1717433055,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68136,
+      "num": 84248,
+      "word": "陈泽抽奖",
+      "onboard_time": 1717433415,
+      "rank": 32,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 67800,
@@ -5953,6 +5969,14 @@
       "onboard_time": 1717337239,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 45829,
+      "num": 84246,
+      "word": "陈泽直播",
+      "onboard_time": 1717434074,
+      "rank": 34,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 45209,
@@ -6297,6 +6321,14 @@
       "onboard_time": 1717358231,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11130,
+      "num": 149269,
+      "word": "护士救人一命却悄悄自责",
+      "onboard_time": 1717433654,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10077,
