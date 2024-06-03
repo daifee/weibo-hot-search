@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717435077957,
+  "endTime": 1717436074648,
   "band_list": [
     {
       "raw_hot": 1089979,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206529,
+      "num": 105571,
+      "word": "夏天手上长巨痒小水泡怎么办",
+      "onboard_time": 1717429877,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 197445,
       "num": 197445,
       "word": "樊振东男单冠军",
@@ -155,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176800,
-      "num": 105571,
-      "word": "夏天手上长巨痒小水泡怎么办",
-      "onboard_time": 1717429877,
-      "rank": 30,
-      "category": "科学科普"
+      "raw_hot": 192047,
+      "num": 146267,
+      "word": "浙江两驴友被溪流冲走当地商户发声",
+      "onboard_time": 1717432216,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167995,
@@ -168,14 +176,6 @@
       "word": "印度高温 恒河洗澡",
       "onboard_time": 1717427719,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160154,
-      "num": 146267,
-      "word": "浙江两驴友被溪流冲走当地商户发声",
-      "onboard_time": 1717432216,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84308,
+      "num": 84248,
+      "word": "陈泽抽奖",
+      "onboard_time": 1717433415,
+      "rank": 32,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 83314,
       "num": 84245,
       "word": "周深A起来了",
@@ -403,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68136,
-      "num": 84248,
-      "word": "陈泽抽奖",
-      "onboard_time": 1717433415,
-      "rank": 32,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 64985,
       "num": 255871,
       "word": "国乒又双叒包揽冠亚军了",
@@ -419,12 +419,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45829,
+      "raw_hot": 49466,
       "num": 84246,
       "word": "陈泽直播",
       "onboard_time": 1717434074,
       "rank": 34,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 48095,
+      "num": 48095,
+      "word": "迪丽热巴 TopGirl",
+      "onboard_time": 1717435453,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43965,
+      "num": 43965,
+      "word": "姆巴佩未入选奥运名单",
+      "onboard_time": 1717435872,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 35814,
+      "num": 38309,
+      "word": "蒲熠星直拍",
+      "onboard_time": 1717435213,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 31094,
@@ -443,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12634,
+      "num": 114748,
+      "word": "想去若尔盖的心情达到了顶峰",
+      "onboard_time": 1717435513,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 11130,
       "num": 149269,
       "word": "护士救人一命却悄悄自责",
@@ -454,6 +486,9 @@
   "hotgov_list": [
     {
       "word": "#习近平致信祝贺中国工程院建院30周年#"
+    },
+    {
+      "word": "#发挥国家战略科技力量作用#"
     }
   ]
 }

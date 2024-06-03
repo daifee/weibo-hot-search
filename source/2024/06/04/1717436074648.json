@@ -1,0 +1,410 @@
+{
+  "runTime": 1717436074648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 243445,
+        "num": 243445,
+        "word": "巴菲特",
+        "onboard_time": 1717425738,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205877,
+        "num": 205877,
+        "word": "秦岚觉得结了婚就不要离婚",
+        "onboard_time": 1717420338,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 12613,
+        "num": 179598,
+        "word": "航拍视角看三北工程",
+        "onboard_time": 1717427120,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554618,
+        "num": 178933,
+        "word": "早睡真能解决生活中大部分的问题",
+        "onboard_time": 1717427599,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 176385,
+        "num": 176385,
+        "word": "吴谨言演技",
+        "onboard_time": 1717418238,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174067,
+        "num": 174067,
+        "word": "婚房装成这样结婚更难了",
+        "onboard_time": 1717420578,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145110,
+        "num": 145110,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140582,
+        "num": 140582,
+        "word": "才知道微信可以锁屏录音",
+        "onboard_time": 1717411697,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118637,
+        "num": 118637,
+        "word": "毒液3直到死亡将他们分开",
+        "onboard_time": 1717424301,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12634,
+        "num": 114748,
+        "word": "想去若尔盖的心情达到了顶峰",
+        "onboard_time": 1717435513,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 192047,
+        "num": 114325,
+        "word": "浙江两驴友被溪流冲走当地商户发声",
+        "onboard_time": 1717432216,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111232,
+        "num": 111232,
+        "word": "王星越好帅",
+        "onboard_time": 1717425858,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109713,
+        "num": 109713,
+        "word": "叶轻眉 大女主",
+        "onboard_time": 1717414938,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88994,
+        "num": 88994,
+        "word": "数只美股疑似出现行情异常",
+        "onboard_time": 1717426759,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87495,
+        "num": 87495,
+        "word": "樊振东男单冠军",
+        "onboard_time": 1717422559,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81522,
+        "num": 81522,
+        "word": "袁娅维 双截棍",
+        "onboard_time": 1717427599,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73603,
+        "num": 73603,
+        "word": "印度高温 恒河洗澡",
+        "onboard_time": 1717427719,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64136,
+        "num": 64136,
+        "word": "孙颖莎赛后发文",
+        "onboard_time": 1717426759,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64129,
+        "num": 64129,
+        "word": "樊振东4比3战胜王楚钦",
+        "onboard_time": 1717422500,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54759,
+        "num": 54759,
+        "word": "孙颖莎女单夺冠",
+        "onboard_time": 1717416618,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51655,
+        "num": 51655,
+        "word": "蔡徐坤染了银发梦回偶练",
+        "onboard_time": 1717408220,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49877,
+        "num": 49877,
+        "word": "首饰金价重回5字头",
+        "onboard_time": 1717418478,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49466,
+        "num": 49466,
+        "word": "陈泽直播",
+        "onboard_time": 1717434074,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 48095,
+        "num": 48095,
+        "word": "迪丽热巴 TopGirl",
+        "onboard_time": 1717435453,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47680,
+        "num": 47680,
+        "word": "乘风之夜组队选曲征集",
+        "onboard_time": 1717432515,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47487,
+        "num": 47487,
+        "word": "于正 选角",
+        "onboard_time": 1717411697,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46921,
+        "num": 46921,
+        "word": "为什么收拾房间有助于攒钱",
+        "onboard_time": 1717424959,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46577,
+        "num": 46577,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1717414337,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43965,
+        "num": 43965,
+        "word": "姆巴佩未入选奥运名单",
+        "onboard_time": 1717435872,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43196,
+        "num": 43196,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1717417338,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206529,
+        "num": 42624,
+        "word": "夏天手上长巨痒小水泡怎么办",
+        "onboard_time": 1717429877,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 84308,
+        "num": 42509,
+        "word": "陈泽抽奖",
+        "onboard_time": 1717433415,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 59789,
+        "num": 41719,
+        "word": "这个家没有王栎鑫得散",
+        "onboard_time": 1717433055,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39718,
+        "num": 39718,
+        "word": "王楚钦 脚踝",
+        "onboard_time": 1717423699,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38896,
+        "num": 38896,
+        "word": "胖莎",
+        "onboard_time": 1717427959,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38790,
+        "num": 38790,
+        "word": "周深A起来了",
+        "onboard_time": 1717428079,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38468,
+        "num": 38468,
+        "word": "戚薇录乘风十天没理李承铉",
+        "onboard_time": 1717413318,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38316,
+        "num": 38316,
+        "word": "以为爸妈只给妹妹买了新玩具车",
+        "onboard_time": 1717425198,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35814,
+        "num": 38309,
+        "word": "蒲熠星直拍",
+        "onboard_time": 1717435213,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35640,
+        "num": 38306,
+        "word": "樊振东说更在意王楚钦伤势",
+        "onboard_time": 1717424239,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35229,
+        "num": 38293,
+        "word": "战至巅峰",
+        "onboard_time": 1717424420,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30470,
+        "num": 38278,
+        "word": "鞠婧祎背沟好深",
+        "onboard_time": 1717412538,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30251,
+        "num": 38270,
+        "word": "宋雨琦章昊Ricky国内同框",
+        "onboard_time": 1717423400,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29457,
+        "num": 38260,
+        "word": "三家日本车企高管开记者会道歉",
+        "onboard_time": 1717425379,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29358,
+        "num": 38254,
+        "word": "迪丽热巴叼花镜头",
+        "onboard_time": 1717418658,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 28935,
+        "num": 38246,
+        "word": "原来风油精还可以这样用",
+        "onboard_time": 1717425499,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28744,
+        "num": 38229,
+        "word": "孙颖莎说和王曼昱都是胜利者",
+        "onboard_time": 1717423820,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27492,
+        "num": 38222,
+        "word": "白鹿范丞丞沈泉锐奔跑吧同框",
+        "onboard_time": 1717428738,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27432,
+        "num": 38215,
+        "word": "知道为什么洪世贤认不出品如了",
+        "onboard_time": 1717413857,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23972,
+        "num": 38202,
+        "word": "国乒又双叒包揽冠亚军了",
+        "onboard_time": 1717429938,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥国家战略科技力量作用#"
+    }
+  }
+}
