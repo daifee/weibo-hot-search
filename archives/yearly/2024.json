@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717377616110,
+  "endTime": 1717378944374,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1859,6 +1859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 3421890,
+      "num": 3421890,
+      "word": "韩国市长请求中国赠送一对大熊猫",
+      "onboard_time": 1717377378,
+      "rank": 22,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 3421549,
       "num": 3421549,
       "word": "梅菜扣肉 槽头肉",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1708846292,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3073690,
-      "num": 3073690,
-      "word": "一顿火锅撤档",
-      "onboard_time": 1714882879,
-      "rank": 34,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

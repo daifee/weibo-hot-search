@@ -1,0 +1,410 @@
+{
+  "runTime": 1717378944374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3421890,
+        "num": 3421890,
+        "word": "韩国市长请求中国赠送一对大熊猫",
+        "onboard_time": 1717377378,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1813346,
+        "num": 1813346,
+        "word": "马尔代夫决定禁止以色列公民入境",
+        "onboard_time": 1717374562,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 17946,
+        "num": 1703193,
+        "word": "千里江山图藏着人间烟火",
+        "onboard_time": 1717328719,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1628711,
+        "num": 1628711,
+        "word": "乌克兰承认巴勒斯坦是一个国家",
+        "onboard_time": 1717376059,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1421332,
+        "num": 1421332,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717375998,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 771608,
+        "num": 771608,
+        "word": "朝鲜将暂停向韩国投放垃圾",
+        "onboard_time": 1717371616,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 581378,
+        "num": 581378,
+        "word": "国安机关破获一起英国MI6重大间谍案",
+        "onboard_time": 1717377378,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521887,
+        "num": 521887,
+        "word": "演得有点不顾观众死活了",
+        "onboard_time": 1717339460,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452265,
+        "num": 452265,
+        "word": "上市药店卖彩票一年销售7698万",
+        "onboard_time": 1717373418,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36339,
+        "num": 448069,
+        "word": "被稳稳托住的感觉真好",
+        "onboard_time": 1717370236,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 864353,
+        "num": 413011,
+        "word": "以色列",
+        "onboard_time": 1717376239,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 858523,
+        "num": 409056,
+        "word": "张雪峰连麦490多分农村女孩",
+        "onboard_time": 1717377438,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773099,
+        "num": 387533,
+        "word": "香港顶流姜涛跳晚安大小姐",
+        "onboard_time": 1717372037,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 372346,
+        "num": 372346,
+        "word": "印度大选已有33名工作人员被热死",
+        "onboard_time": 1717375039,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364101,
+        "num": 364101,
+        "word": "张婧仪 古早TVB味儿",
+        "onboard_time": 1717373838,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339578,
+        "num": 339578,
+        "word": "范闲扛起巴雷特",
+        "onboard_time": 1717377858,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316386,
+        "num": 316386,
+        "word": "王俊凯工作室 多发爱看",
+        "onboard_time": 1717374497,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 310125,
+        "num": 310125,
+        "word": "日本地震",
+        "onboard_time": 1717370594,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310112,
+        "num": 310112,
+        "word": "李沁一字告别庆余年",
+        "onboard_time": 1717336459,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247926,
+        "num": 247926,
+        "word": "女子穿7cm厚洞洞鞋崴脚粉碎性骨折",
+        "onboard_time": 1717326018,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290800,
+        "num": 247426,
+        "word": "孩子出了社会发现全是好人",
+        "onboard_time": 1717377498,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279098,
+        "num": 246552,
+        "word": "庆余年第三季",
+        "onboard_time": 1717333279,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245600,
+        "num": 245600,
+        "word": "吴宣仪忘了放杨超越的照片",
+        "onboard_time": 1717340301,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225472,
+        "num": 225472,
+        "word": "打开了关闭三年的朋友圈",
+        "onboard_time": 1717343718,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224324,
+        "num": 224324,
+        "word": "奔跑吧",
+        "onboard_time": 1717377558,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218969,
+        "num": 218969,
+        "word": "洪竹要说再见了",
+        "onboard_time": 1717344378,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209125,
+        "num": 209125,
+        "word": "真的会越说越老",
+        "onboard_time": 1717374979,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187678,
+        "num": 187678,
+        "word": "邓超抱的竟然是鹿晗",
+        "onboard_time": 1717349773,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176452,
+        "num": 176452,
+        "word": "不上班如何实现财富自由",
+        "onboard_time": 1717376119,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172926,
+        "num": 172926,
+        "word": "蔡赟 你们一输球我就挨骂",
+        "onboard_time": 1717374018,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168901,
+        "num": 168901,
+        "word": "女子千元快递放门口被当垃圾丢了",
+        "onboard_time": 1717378638,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167968,
+        "num": 167968,
+        "word": "没人告诉孙夏铃要脱鞋吗",
+        "onboard_time": 1717375639,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166441,
+        "num": 166441,
+        "word": "G2夺冠",
+        "onboard_time": 1717370715,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165174,
+        "num": 165174,
+        "word": "艾薇儿否认上歌手",
+        "onboard_time": 1717371978,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160696,
+        "num": 160696,
+        "word": "高考时间",
+        "onboard_time": 1717375818,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158453,
+        "num": 158453,
+        "word": "小猫真的很洁癖",
+        "onboard_time": 1717378638,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149265,
+        "num": 149265,
+        "word": "南昌警方通报金店抢劫案",
+        "onboard_time": 1717373059,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144613,
+        "num": 144613,
+        "word": "林若甫 一声爹例外触动天下人",
+        "onboard_time": 1717338980,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140792,
+        "num": 140792,
+        "word": "墨雨云间",
+        "onboard_time": 1717340660,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138746,
+        "num": 138746,
+        "word": "诡异的滴滴滴可能来自哪里",
+        "onboard_time": 1717375818,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118832,
+        "num": 118832,
+        "word": "100秒看懂印度何以暴热",
+        "onboard_time": 1717374139,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112961,
+        "num": 112961,
+        "word": "杭州女子一年内确诊三种癌",
+        "onboard_time": 1717335019,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107907,
+        "num": 107907,
+        "word": "减肥主食分为3个黄金等级",
+        "onboard_time": 1717362851,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107207,
+        "num": 107207,
+        "word": "中国女排排名降至亚洲第二",
+        "onboard_time": 1717341140,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106002,
+        "num": 106002,
+        "word": "女子骗走男友891万获刑13年6个月",
+        "onboard_time": 1717348873,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104466,
+        "num": 104466,
+        "word": "汶珊官宣退网",
+        "onboard_time": 1717370896,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103363,
+        "num": 103363,
+        "word": "白桃星座",
+        "onboard_time": 1717373117,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101897,
+        "num": 101897,
+        "word": "退票",
+        "onboard_time": 1717336941,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101008,
+        "num": 101008,
+        "word": "守护甜心续作漫画定档",
+        "onboard_time": 1717378578,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 98003,
+        "num": 98003,
+        "word": "张杰 感冒",
+        "onboard_time": 1717372758,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的文化足迹遍及大江南北#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717377616110,
+  "endTime": 1717378944374,
   "band_list": [
+    {
+      "raw_hot": 3421890,
+      "num": 3421890,
+      "word": "韩国市长请求中国赠送一对大熊猫",
+      "onboard_time": 1717377378,
+      "rank": 22,
+      "category": "国外时政"
+    },
     {
       "raw_hot": 2119199,
       "num": 2119199,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 1077396,
-      "num": 404930,
+      "num": 413011,
       "word": "以色列",
       "onboard_time": 1717235477,
       "rank": 39,
@@ -273,6 +281,14 @@
       "onboard_time": 1717320857,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 858523,
+      "num": 409056,
+      "word": "张雪峰连麦490多分农村女孩",
+      "onboard_time": 1717377438,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 839721,
@@ -489,6 +505,14 @@
       "onboard_time": 1717312457,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581378,
+      "num": 581378,
+      "word": "国安机关破获一起英国MI6重大间谍案",
+      "onboard_time": 1717377378,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 574638,
@@ -1107,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 339578,
+      "num": 339578,
+      "word": "范闲扛起巴雷特",
+      "onboard_time": 1717377858,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334313,
       "num": 334313,
       "word": "唐毅说给章子怡戛纳化妆只花了20分钟",
@@ -1179,28 +1211,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 310034,
-      "num": 310034,
-      "word": "国安机关破获一起英国MI6重大间谍案",
-      "onboard_time": 1717377378,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 304578,
       "num": 175671,
       "word": "猫眼",
       "onboard_time": 1717335739,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 303494,
-      "num": 181591,
-      "word": "张雪峰连麦490多分农村女孩",
-      "onboard_time": 1717377438,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302891,
@@ -1283,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290800,
+      "num": 247426,
+      "word": "孩子出了社会发现全是好人",
+      "onboard_time": 1717377498,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 290145,
       "num": 192990,
       "word": "迪丽热巴",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274809,
-      "num": 274809,
-      "word": "韩国市长请求中国赠送一对大熊猫",
-      "onboard_time": 1717377378,
-      "rank": 22,
-      "category": "国外时政"
     },
     {
       "raw_hot": 271490,
@@ -1665,6 +1681,14 @@
       "onboard_time": 1717316538,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224324,
+      "num": 224324,
+      "word": "奔跑吧",
+      "onboard_time": 1717377558,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 223940,
@@ -2011,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186743,
-      "num": 180561,
-      "word": "孩子出了社会发现全是好人",
-      "onboard_time": 1717377498,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186501,
       "num": 164129,
       "word": "肖战藏海反差感",
@@ -2195,6 +2211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168901,
+      "num": 168901,
+      "word": "女子千元快递放门口被当垃圾丢了",
+      "onboard_time": 1717378638,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168623,
       "num": 168623,
       "word": "许嵩曾被妈妈抓包偷玩电脑",
@@ -2208,6 +2232,14 @@
       "word": "鹿晗泼水节欧豪欧豪的喊",
       "onboard_time": 1717334480,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167968,
+      "num": 167968,
+      "word": "没人告诉孙夏铃要脱鞋吗",
+      "onboard_time": 1717375639,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -2363,20 +2395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159222,
-      "num": 159222,
-      "word": "没人告诉孙夏铃要脱鞋吗",
-      "onboard_time": 1717375639,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158524,
       "num": 158524,
       "word": "coser漫展模仿科比遇难场景引争议",
       "onboard_time": 1717332198,
       "rank": 49,
       "category": "动漫,体育"
+    },
+    {
+      "raw_hot": 158453,
+      "num": 158453,
+      "word": "小猫真的很洁癖",
+      "onboard_time": 1717378638,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 156833,
@@ -2859,14 +2891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119262,
-      "num": 119262,
-      "word": "奔跑吧",
-      "onboard_time": 1717377558,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119064,
       "num": 175499,
       "word": "也门胡塞武装称袭击美军航母",
@@ -2948,7 +2972,7 @@
     },
     {
       "raw_hot": 114585,
-      "num": 1615435,
+      "num": 1703193,
       "word": "千里江山图藏着人间烟火",
       "onboard_time": 1717328719,
       "rank": 7,
@@ -3177,6 +3201,14 @@
       "onboard_time": 1717314978,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101008,
+      "num": 101008,
+      "word": "守护甜心续作漫画定档",
+      "onboard_time": 1717378578,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 100946,
@@ -3540,7 +3572,7 @@
     },
     {
       "raw_hot": 49724,
-      "num": 413448,
+      "num": 448069,
       "word": "被稳稳托住的感觉真好",
       "onboard_time": 1717370236,
       "rank": 21,
