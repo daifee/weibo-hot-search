@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717421662853,
+  "endTime": 1717424339362,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -81,6 +81,14 @@
       "onboard_time": 1717210576,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1873253,
+      "num": 1873253,
+      "word": "樊振东男单冠军",
+      "onboard_time": 1717422559,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1784738,
@@ -307,6 +315,14 @@
       "category": "健康医疗,母婴育儿"
     },
     {
+      "raw_hot": 1227744,
+      "num": 1227744,
+      "word": "秦岚觉得结了婚就不要离婚",
+      "onboard_time": 1717420338,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1223229,
       "num": 1223229,
       "word": "汪苏泷排名越来越安全了",
@@ -481,6 +497,14 @@
       "onboard_time": 1717403419,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 959395,
+      "num": 959395,
+      "word": "樊振东4比3战胜王楚钦",
+      "onboard_time": 1717422500,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 955590,
@@ -915,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 725090,
+      "num": 725090,
+      "word": "婚房装成这样结婚更难了",
+      "onboard_time": 1717420578,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 718868,
       "num": 637378,
       "word": "杨天真",
@@ -1139,14 +1171,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 600150,
-      "num": 420435,
-      "word": "秦岚觉得结了婚就不要离婚",
-      "onboard_time": 1717420338,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 600148,
       "num": 538518,
       "word": "我国历史上的熊猫外交",
@@ -1188,7 +1212,7 @@
     },
     {
       "raw_hot": 593439,
-      "num": 237057,
+      "num": 252141,
       "word": "鞠婧祎背沟好深",
       "onboard_time": 1717412538,
       "rank": 20,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1717234336,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 582379,
+      "num": 582379,
+      "word": "王楚钦状态",
+      "onboard_time": 1717420217,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 581378,
@@ -1641,14 +1673,6 @@
       "onboard_time": 1717285635,
       "rank": 4,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 476347,
-      "num": 476347,
-      "word": "王楚钦状态",
-      "onboard_time": 1717420217,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 475854,
@@ -2691,6 +2715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 321900,
+      "num": 321900,
+      "word": "王楚钦 脚踝",
+      "onboard_time": 1717423699,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321524,
       "num": 321524,
       "word": "台湾地震",
@@ -2889,14 +2921,6 @@
       "onboard_time": 1717324098,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 298322,
-      "num": 298322,
-      "word": "婚房装成这样结婚更难了",
-      "onboard_time": 1717420578,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 297678,
@@ -3539,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237465,
+      "num": 237465,
+      "word": "孙颖莎王曼昱地表最强攻防战",
+      "onboard_time": 1717421059,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237268,
       "num": 237268,
       "word": "赵冬苓说属于王一博的荣耀在前面等着",
@@ -3649,6 +3681,14 @@
       "onboard_time": 1717214898,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230861,
+      "num": 230861,
+      "word": "樊振东说更在意王楚钦伤势",
+      "onboard_time": 1717424239,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 230610,
@@ -4219,6 +4259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201296,
+      "num": 201296,
+      "word": "毒液3直到死亡将他们分开",
+      "onboard_time": 1717424301,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201106,
       "num": 171650,
       "word": "苗苗说终于选了女团舞",
@@ -4716,7 +4764,7 @@
     },
     {
       "raw_hot": 187094,
-      "num": 145773,
+      "num": 148576,
       "word": "迪丽热巴再跳女团舞",
       "onboard_time": 1717419499,
       "rank": 26,
@@ -4889,6 +4937,14 @@
       "onboard_time": 1717402818,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178251,
+      "num": 160341,
+      "word": "秦岚辛芷蕾是懂互相伤害的",
+      "onboard_time": 1717423579,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 177949,
@@ -5161,6 +5217,14 @@
       "onboard_time": 1717390340,
       "rank": 34,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 170157,
+      "num": 170157,
+      "word": "宋雨琦章昊Ricky国内同框",
+      "onboard_time": 1717423400,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 169699,
@@ -5483,14 +5547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 162208,
-      "num": 162208,
-      "word": "孙颖莎王曼昱地表最强攻防战",
-      "onboard_time": 1717421059,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161598,
       "num": 161598,
       "word": "庆余年不是张若昀第一次生孩子",
@@ -5520,6 +5576,14 @@
       "word": "香缇莫MOMO变emo",
       "onboard_time": 1717312697,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 161138,
+      "num": 161138,
+      "word": "范丞丞当着郑恺的面cue苗苗",
+      "onboard_time": 1717420518,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -5704,6 +5768,14 @@
       "word": "台州石人峡",
       "onboard_time": 1717385779,
       "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155512,
+      "num": 155512,
+      "word": "大象主动翘jiojio做美甲",
+      "onboard_time": 1717422799,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -6019,6 +6091,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145250,
+      "num": 145250,
+      "word": "孙颖莎说和王曼昱都是胜利者",
+      "onboard_time": 1717423820,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145140,
+      "num": 145140,
+      "word": "国乒再次包揽冠亚军",
+      "onboard_time": 1717423820,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144918,
       "num": 144918,
       "word": "薛之谦很豹歉",
@@ -6219,6 +6307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139702,
+      "num": 139702,
+      "word": "便利贴正确使用方法",
+      "onboard_time": 1717423938,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 139583,
       "num": 139583,
       "word": "电影野孩子儿童节海报",
@@ -6273,14 +6369,6 @@
       "onboard_time": 1717221017,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 137193,
-      "num": 137193,
-      "word": "范丞丞当着郑恺的面cue苗苗",
-      "onboard_time": 1717420518,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 137041,
@@ -6435,6 +6523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132145,
+      "num": 132145,
+      "word": "菲律宾一火山喷发灰柱高达5000米",
+      "onboard_time": 1717423820,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132002,
       "num": 132002,
       "word": "Cat回归LPL解说席",
@@ -6577,6 +6673,14 @@
       "onboard_time": 1717306757,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127241,
+      "num": 127241,
+      "word": "什么样的原生家庭能培养出ENFJ",
+      "onboard_time": 1717420160,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 127157,
@@ -6785,6 +6889,14 @@
       "onboard_time": 1717400180,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122848,
+      "num": 122848,
+      "word": "tbz票价",
+      "onboard_time": 1717422380,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 122707,
@@ -7043,6 +7155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115241,
+      "num": 115241,
+      "word": "周深跳撕张真源",
+      "onboard_time": 1717421900,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114993,
       "num": 114993,
       "word": "六月你好",
@@ -7121,6 +7241,14 @@
       "onboard_time": 1717284915,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112748,
+      "num": 112748,
+      "word": "王曼昱超绝救球",
+      "onboard_time": 1717423279,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 112255,
@@ -7233,6 +7361,14 @@
       "onboard_time": 1717220117,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109035,
+      "num": 109035,
+      "word": "脚总感觉冰凉或是甲状腺功能减退",
+      "onboard_time": 1717423098,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 108968,
@@ -7505,14 +7641,6 @@
       "onboard_time": 1717325720,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99361,
-      "num": 99361,
-      "word": "什么样的原生家庭能培养出ENFJ",
-      "onboard_time": 1717420160,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 98646,
@@ -8315,6 +8443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 46921,
+      "num": 571744,
+      "word": "层出不穷的老年人养生骗局",
+      "onboard_time": 1717423219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45209,
       "num": 45209,
       "word": "克罗斯皇马生涯结束",
@@ -8596,7 +8732,7 @@
     },
     {
       "raw_hot": 30473,
-      "num": 931891,
+      "num": 1008245,
       "word": "中国首个重载铁路加氢站",
       "onboard_time": 1717401620,
       "rank": 2,
@@ -8673,6 +8809,14 @@
       "onboard_time": 1717259117,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21152,
+      "num": 134676,
+      "word": "田雨余皑磊直播",
+      "onboard_time": 1717423219,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 20390,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717424339362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1873253,
+        "num": 1873253,
+        "word": "樊振东男单冠军",
+        "onboard_time": 1717422559,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1227744,
+        "num": 1227744,
+        "word": "秦岚觉得结了婚就不要离婚",
+        "onboard_time": 1717420338,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25360,
+        "num": 1008245,
+        "word": "中国首个重载铁路加氢站",
+        "onboard_time": 1717401620,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959395,
+        "num": 959395,
+        "word": "樊振东4比3战胜王楚钦",
+        "onboard_time": 1717422500,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 865459,
+        "num": 865459,
+        "word": "才知道微信可以锁屏录音",
+        "onboard_time": 1717411697,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 725090,
+        "num": 725090,
+        "word": "婚房装成这样结婚更难了",
+        "onboard_time": 1717420578,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 689868,
+        "num": 689868,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1717414337,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638848,
+        "num": 638848,
+        "word": "吴谨言演技",
+        "onboard_time": 1717418238,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582379,
+        "num": 582379,
+        "word": "王楚钦状态",
+        "onboard_time": 1717420217,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46921,
+        "num": 571744,
+        "word": "层出不穷的老年人养生骗局",
+        "onboard_time": 1717423219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566601,
+        "num": 566601,
+        "word": "我国取消无偿赠送大熊猫已40多年",
+        "onboard_time": 1717395378,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499049,
+        "num": 499049,
+        "word": "身中15刀牺牲民警的女儿即将高考",
+        "onboard_time": 1717417757,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448400,
+        "num": 448400,
+        "word": "首饰金价重回5字头",
+        "onboard_time": 1717418478,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 443559,
+        "num": 443559,
+        "word": "叶轻眉 大女主",
+        "onboard_time": 1717414938,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370706,
+        "num": 370706,
+        "word": "93岁默多克迎娶67岁俄裔科学家",
+        "onboard_time": 1717418420,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349715,
+        "num": 349715,
+        "word": "外交部回应靖国神社石柱被涂鸦",
+        "onboard_time": 1717411817,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 325834,
+        "num": 325834,
+        "word": "孙颖莎女单夺冠",
+        "onboard_time": 1717416618,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321900,
+        "num": 321900,
+        "word": "王楚钦 脚踝",
+        "onboard_time": 1717423699,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270377,
+        "num": 270377,
+        "word": "蔡徐坤染了银发梦回偶练",
+        "onboard_time": 1717408220,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253506,
+        "num": 253506,
+        "word": "知道为什么洪世贤认不出品如了",
+        "onboard_time": 1717413857,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334312,
+        "num": 252141,
+        "word": "鞠婧祎背沟好深",
+        "onboard_time": 1717412538,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249537,
+        "num": 249537,
+        "word": "缺牙齿会惩罚每一个嘴硬的人",
+        "onboard_time": 1717415598,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237465,
+        "num": 237465,
+        "word": "孙颖莎王曼昱地表最强攻防战",
+        "onboard_time": 1717421059,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230861,
+        "num": 230861,
+        "word": "樊振东说更在意王楚钦伤势",
+        "onboard_time": 1717424239,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210480,
+        "num": 210480,
+        "word": "戚薇录乘风十天没理李承铉",
+        "onboard_time": 1717413318,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202639,
+        "num": 202639,
+        "word": "迪丽热巴叼花镜头",
+        "onboard_time": 1717418658,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201296,
+        "num": 201296,
+        "word": "毒液3直到死亡将他们分开",
+        "onboard_time": 1717424301,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170157,
+        "num": 170157,
+        "word": "宋雨琦章昊Ricky国内同框",
+        "onboard_time": 1717423400,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167341,
+        "num": 167341,
+        "word": "于正 选角",
+        "onboard_time": 1717411697,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161138,
+        "num": 161138,
+        "word": "范丞丞当着郑恺的面cue苗苗",
+        "onboard_time": 1717420518,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178251,
+        "num": 160341,
+        "word": "秦岚辛芷蕾是懂互相伤害的",
+        "onboard_time": 1717423579,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155512,
+        "num": 155512,
+        "word": "大象主动翘jiojio做美甲",
+        "onboard_time": 1717422799,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149921,
+        "num": 149921,
+        "word": "孙颖莎4比3王曼昱",
+        "onboard_time": 1717417338,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148576,
+        "num": 148576,
+        "word": "迪丽热巴再跳女团舞",
+        "onboard_time": 1717419499,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 145250,
+        "word": "孙颖莎说和王曼昱都是胜利者",
+        "onboard_time": 1717423820,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145140,
+        "num": 145140,
+        "word": "国乒再次包揽冠亚军",
+        "onboard_time": 1717423820,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139702,
+        "num": 139702,
+        "word": "便利贴正确使用方法",
+        "onboard_time": 1717423938,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 21152,
+        "num": 134676,
+        "word": "田雨余皑磊直播",
+        "onboard_time": 1717423219,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132145,
+        "num": 132145,
+        "word": "菲律宾一火山喷发灰柱高达5000米",
+        "onboard_time": 1717423820,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130918,
+        "num": 130918,
+        "word": "迪丽热巴白色羽毛上衣",
+        "onboard_time": 1717419738,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127241,
+        "num": 127241,
+        "word": "什么样的原生家庭能培养出ENFJ",
+        "onboard_time": 1717420160,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122848,
+        "num": 122848,
+        "word": "tbz票价",
+        "onboard_time": 1717422380,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118871,
+        "num": 118871,
+        "word": "Cat回归LPL解说席",
+        "onboard_time": 1717419258,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118325,
+        "num": 118325,
+        "word": "秦岚素颜好顶",
+        "onboard_time": 1717408158,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115241,
+        "num": 115241,
+        "word": "周深跳撕张真源",
+        "onboard_time": 1717421900,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112748,
+        "num": 112748,
+        "word": "王曼昱超绝救球",
+        "onboard_time": 1717423279,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111541,
+        "num": 111541,
+        "word": "原神艾梅莉埃",
+        "onboard_time": 1717411639,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109929,
+        "num": 109929,
+        "word": "陈丽君 投票",
+        "onboard_time": 1717405699,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109499,
+        "num": 109499,
+        "word": "印度现近50度高温连蚊子都消失",
+        "onboard_time": 1717406358,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109035,
+        "num": 109035,
+        "word": "脚总感觉冰凉或是甲状腺功能减退",
+        "onboard_time": 1717423098,
+        "rank": 49,
+        "category": "健康医疗,科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
