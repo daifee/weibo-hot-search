@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717382080633,
+  "endTime": 1717382673580,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -19,6 +19,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1784738,
+      "num": 1784738,
+      "word": "迪丽热巴新歌首发",
+      "onboard_time": 1717381458,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1652227,
       "num": 1652227,
       "word": "乌克兰承认巴勒斯坦是一个国家",
@@ -33,14 +41,6 @@
       "onboard_time": 1717375998,
       "rank": 3,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1411724,
-      "num": 1411724,
-      "word": "迪丽热巴新歌首发",
-      "onboard_time": 1717381458,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1140654,
@@ -75,8 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 858523,
-      "num": 793721,
+      "raw_hot": 871614,
+      "num": 871614,
       "word": "张雪峰连麦490多分农村女孩",
       "onboard_time": 1717377438,
       "rank": 30,
@@ -97,6 +97,14 @@
       "onboard_time": 1717339460,
       "rank": 3,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 746769,
+      "num": 523242,
+      "word": "迪丽热巴32岁生日造型",
+      "onboard_time": 1717381938,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 719619,
@@ -139,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 555388,
+      "num": 555388,
+      "word": "JDG进军KPL",
+      "onboard_time": 1717381638,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 553053,
       "num": 431783,
       "word": "李沁一字告别庆余年",
@@ -155,28 +171,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 520096,
-      "num": 520096,
-      "word": "日本地震",
-      "onboard_time": 1717370594,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 513683,
-      "num": 513683,
+      "raw_hot": 521342,
+      "num": 521342,
       "word": "范闲扛起巴雷特",
       "onboard_time": 1717377858,
       "rank": 15,
       "category": "剧集"
     },
     {
-      "raw_hot": 506949,
-      "num": 506949,
-      "word": "JDG进军KPL",
-      "onboard_time": 1717381638,
-      "rank": 11,
-      "category": "电竞"
+      "raw_hot": 520096,
+      "num": 520096,
+      "word": "日本地震",
+      "onboard_time": 1717370594,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 505125,
@@ -187,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 457215,
-      "num": 457215,
+      "raw_hot": 483763,
+      "num": 483763,
       "word": "93岁默多克第5次结婚",
       "onboard_time": 1717379717,
       "rank": 14,
@@ -211,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413456,
-      "num": 413456,
-      "word": "迪丽热巴32岁生日造型",
-      "onboard_time": 1717381938,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 386015,
       "num": 386015,
       "word": "王俊凯工作室 多发爱看",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 351659,
-      "num": 236250,
+      "num": 248090,
       "word": "女子千元快递放门口被当垃圾丢了",
       "onboard_time": 1717378638,
       "rank": 30,
@@ -283,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282769,
+      "num": 282769,
+      "word": "长公主收官小作文 2字",
+      "onboard_time": 1717380379,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264632,
       "num": 195761,
       "word": "杨迪说现在圈内疯子很多",
@@ -321,14 +329,6 @@
       "onboard_time": 1717374979,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 240966,
-      "num": 240966,
-      "word": "长公主收官小作文 2字",
-      "onboard_time": 1717380379,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 239932,
@@ -379,6 +379,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214630,
+      "num": 214630,
+      "word": "A股",
+      "onboard_time": 1717381458,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 209929,
+      "num": 209929,
+      "word": "最适合i人的职业出现了",
+      "onboard_time": 1717381638,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207859,
       "num": 207859,
       "word": "不上班如何实现财富自由",
@@ -403,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194145,
+      "num": 194145,
+      "word": "三甲医生教你正确吃零食",
+      "onboard_time": 1717380076,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190115,
       "num": 190115,
       "word": "墨雨云间原著",
@@ -417,14 +441,6 @@
       "onboard_time": 1717345097,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 186737,
-      "num": 186737,
-      "word": "三甲医生教你正确吃零食",
-      "onboard_time": 1717380076,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184070,
@@ -449,14 +465,6 @@
       "onboard_time": 1717340120,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179089,
-      "num": 179089,
-      "word": "最适合i人的职业出现了",
-      "onboard_time": 1717381638,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 172767,
@@ -553,14 +561,6 @@
       "onboard_time": 1717337719,
       "rank": 30,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 151028,
-      "num": 151028,
-      "word": "A股",
-      "onboard_time": 1717381458,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 148360,
@@ -731,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115903,
+      "num": 115903,
+      "word": "守护甜心续作漫画定档",
+      "onboard_time": 1717378578,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 114127,
       "num": 114127,
       "word": "何尊和太阳神鸟登上纪念币",
@@ -763,20 +771,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103798,
-      "num": 103798,
-      "word": "守护甜心续作漫画定档",
-      "onboard_time": 1717378578,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 102914,
       "num": 102914,
       "word": "贾乃亮回复郭晓婷",
       "onboard_time": 1717368492,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101772,
+      "num": 101772,
+      "word": "突然发现毕业是场巨大的戒断",
+      "onboard_time": 1717382537,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 99716,
@@ -793,6 +801,14 @@
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98565,
+      "num": 98565,
+      "word": "你从什么时候民族自豪感直线上升",
+      "onboard_time": 1717378938,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 94135,
@@ -900,7 +916,7 @@
     },
     {
       "raw_hot": 49724,
-      "num": 510605,
+      "num": 524603,
       "word": "被稳稳托住的感觉真好",
       "onboard_time": 1717370236,
       "rank": 21,

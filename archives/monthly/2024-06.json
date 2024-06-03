@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717382080633,
+  "endTime": 1717382673580,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -73,6 +73,14 @@
       "onboard_time": 1717210576,
       "rank": 10,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1784738,
+      "num": 1784738,
+      "word": "迪丽热巴新歌首发",
+      "onboard_time": 1717381458,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1756676,
@@ -193,14 +201,6 @@
       "onboard_time": 1717162527,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1411724,
-      "num": 1411724,
-      "word": "迪丽热巴新歌首发",
-      "onboard_time": 1717381458,
-      "rank": 1,
-      "category": "音乐"
     },
     {
       "raw_hot": 1406730,
@@ -483,6 +483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 871614,
+      "num": 871614,
+      "word": "张雪峰连麦490多分农村女孩",
+      "onboard_time": 1717377438,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 869342,
       "num": 869342,
       "word": "印度大选至少19名官员被热死",
@@ -505,14 +513,6 @@
       "onboard_time": 1717320857,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 858523,
-      "num": 793721,
-      "word": "张雪峰连麦490多分农村女孩",
-      "onboard_time": 1717377438,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 848721,
@@ -673,6 +673,14 @@
       "onboard_time": 1717254799,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 746769,
+      "num": 523242,
+      "word": "迪丽热巴32岁生日造型",
+      "onboard_time": 1717381938,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 745417,
@@ -971,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 555388,
+      "num": 555388,
+      "word": "JDG进军KPL",
+      "onboard_time": 1717381638,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 548762,
       "num": 548762,
       "word": "发条微博祝自己六一快乐",
@@ -1043,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 521342,
+      "num": 521342,
+      "word": "范闲扛起巴雷特",
+      "onboard_time": 1717377858,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 520876,
       "num": 520876,
       "word": "杨紫 女性一定要有自己的事业",
@@ -1075,28 +1099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 513683,
-      "num": 513683,
-      "word": "范闲扛起巴雷特",
-      "onboard_time": 1717377858,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 511978,
       "num": 474255,
       "word": "肖战张婧仪杀青照",
       "onboard_time": 1717298718,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 506949,
-      "num": 506949,
-      "word": "JDG进军KPL",
-      "onboard_time": 1717381638,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 503579,
@@ -1211,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483763,
+      "num": 483763,
+      "word": "93岁默多克第5次结婚",
+      "onboard_time": 1717379717,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481524,
       "num": 247099,
       "word": "张若昀下部戏是完美证据",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1717276451,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 457215,
-      "num": 457215,
-      "word": "93岁默多克第5次结婚",
-      "onboard_time": 1717379717,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 456644,
@@ -1505,14 +1513,6 @@
       "onboard_time": 1717328118,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 413456,
-      "num": 413456,
-      "word": "迪丽热巴32岁生日造型",
-      "onboard_time": 1717381938,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 413331,
@@ -1908,7 +1908,7 @@
     },
     {
       "raw_hot": 351659,
-      "num": 236250,
+      "num": 248090,
       "word": "女子千元快递放门口被当垃圾丢了",
       "onboard_time": 1717378638,
       "rank": 30,
@@ -2403,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282769,
+      "num": 282769,
+      "word": "长公主收官小作文 2字",
+      "onboard_time": 1717380379,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280191,
       "num": 280191,
       "word": "郑钦文遭误判",
@@ -2705,14 +2713,6 @@
       "onboard_time": 1717301418,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 240966,
-      "num": 240966,
-      "word": "长公主收官小作文 2字",
-      "onboard_time": 1717380379,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 239932,
@@ -3067,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214630,
+      "num": 214630,
+      "word": "A股",
+      "onboard_time": 1717381458,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 212942,
       "num": 252772,
       "word": "今年六一恰逢周六",
@@ -3105,6 +3113,14 @@
       "onboard_time": 1717337180,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209929,
+      "num": 209929,
+      "word": "最适合i人的职业出现了",
+      "onboard_time": 1717381638,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 209763,
@@ -3443,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194145,
+      "num": 194145,
+      "word": "三甲医生教你正确吃零食",
+      "onboard_time": 1717380076,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 193786,
       "num": 188498,
       "word": "穿Prada的票房女王",
@@ -3603,14 +3627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186737,
-      "num": 186737,
-      "word": "三甲医生教你正确吃零食",
-      "onboard_time": 1717380076,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 186501,
       "num": 164129,
       "word": "肖战藏海反差感",
@@ -3729,14 +3745,6 @@
       "onboard_time": 1717253178,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179089,
-      "num": 179089,
-      "word": "最适合i人的职业出现了",
-      "onboard_time": 1717381638,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 178806,
@@ -4433,14 +4441,6 @@
       "onboard_time": 1717239678,
       "rank": 30,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 151028,
-      "num": 151028,
-      "word": "A股",
-      "onboard_time": 1717381458,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 150406,
@@ -5347,6 +5347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115903,
+      "num": 115903,
+      "word": "守护甜心续作漫画定档",
+      "onboard_time": 1717378578,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115815,
       "num": 115815,
       "word": "虞书欣夏日海边水手服",
@@ -5715,14 +5723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103798,
-      "num": 103798,
-      "word": "守护甜心续作漫画定档",
-      "onboard_time": 1717378578,
-      "rank": 48,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 103131,
       "num": 103131,
       "word": "53岁大叔用AI备考研究生成功",
@@ -5779,6 +5779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101772,
+      "num": 101772,
+      "word": "突然发现毕业是场巨大的戒断",
+      "onboard_time": 1717382537,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100946,
       "num": 110716,
       "word": "陈赫回应邓超",
@@ -5793,6 +5801,14 @@
       "onboard_time": 1717238777,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98565,
+      "num": 98565,
+      "word": "你从什么时候民族自豪感直线上升",
+      "onboard_time": 1717378938,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 98487,
@@ -6428,7 +6444,7 @@
     },
     {
       "raw_hot": 49724,
-      "num": 510605,
+      "num": 524603,
       "word": "被稳稳托住的感觉真好",
       "onboard_time": 1717370236,
       "rank": 21,
