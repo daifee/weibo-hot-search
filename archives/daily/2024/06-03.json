@@ -1,6 +1,6 @@
 {
   "startTime": 1717345332220,
-  "endTime": 1717411148578,
+  "endTime": 1717413388032,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1038394,
+      "num": 1038394,
+      "word": "才知道微信可以锁屏录音",
+      "onboard_time": 1717411697,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 998937,
       "num": 509437,
       "word": "香港顶流姜涛跳晚安大小姐",
@@ -121,6 +129,14 @@
       "onboard_time": 1717333279,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 936212,
+      "num": 936212,
+      "word": "蔡徐坤染了银发梦回偶练",
+      "onboard_time": 1717408220,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 933532,
@@ -203,14 +219,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 766478,
-      "num": 766478,
-      "word": "蔡徐坤染了银发梦回偶练",
-      "onboard_time": 1717408220,
-      "rank": 4,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 766313,
       "num": 766313,
       "word": "浙江2名游客横渡溪流被冲走",
@@ -267,6 +275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 660239,
+      "num": 660239,
+      "word": "秦岚素颜好顶",
+      "onboard_time": 1717408158,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 657349,
       "num": 657349,
       "word": "俞敏洪称东方甄选做的乱七八糟",
@@ -283,20 +299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 642280,
+      "num": 318988,
+      "word": "外交部回应靖国神社石柱被涂鸦",
+      "onboard_time": 1717411817,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 638995,
       "num": 638995,
       "word": "那英去摇龚琳娜了",
       "onboard_time": 1717396338,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 617484,
-      "num": 617484,
-      "word": "秦岚素颜好顶",
-      "onboard_time": 1717408158,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 600148,
@@ -483,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490017,
+      "num": 234323,
+      "word": "鞠婧祎背沟好深",
+      "onboard_time": 1717412538,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470364,
       "num": 367415,
       "word": "丁程鑫刘耀文日本路透",
@@ -539,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429887,
+      "num": 234139,
+      "word": "原神艾梅莉埃",
+      "onboard_time": 1717411639,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 426917,
       "num": 426917,
       "word": "李蠕蠕 听说我上歌手了",
@@ -593,6 +625,14 @@
       "onboard_time": 1717408579,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 373741,
+      "num": 373741,
+      "word": "于正 选角",
+      "onboard_time": 1717411697,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 371498,
@@ -689,6 +729,14 @@
       "onboard_time": 1717389259,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 312420,
+      "num": 312420,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1717412838,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 310794,
@@ -796,7 +844,7 @@
     },
     {
       "raw_hot": 282470,
-      "num": 185580,
+      "num": 233858,
       "word": "迪丽热巴第十幕MV",
       "onboard_time": 1717410618,
       "rank": 22,
@@ -971,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233537,
+      "num": 233537,
+      "word": "母女都装软妹只有活爹受罪",
+      "onboard_time": 1717412419,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232436,
       "num": 232436,
       "word": "日本垃圾桶",
@@ -1000,6 +1056,14 @@
       "word": "奔跑吧",
       "onboard_time": 1717377558,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223541,
+      "num": 223541,
+      "word": "戚薇录乘风十天没理李承铉",
+      "onboard_time": 1717413318,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -1059,6 +1123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 209335,
+      "num": 209335,
+      "word": "prx淘汰",
+      "onboard_time": 1717412658,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209031,
       "num": 209031,
       "word": "胡歌高圆圆衣服上是自愿上班",
@@ -1113,6 +1185,14 @@
       "onboard_time": 1717384938,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201029,
+      "num": 201029,
+      "word": "迪丽热巴冷艳玫瑰妆",
+      "onboard_time": 1717411939,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 200024,
@@ -1259,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189092,
+      "num": 189092,
+      "word": "张真源章昊奔跑吧同框",
+      "onboard_time": 1717412719,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188065,
       "num": 188065,
       "word": "杨蓉43岁状态",
@@ -1304,6 +1392,14 @@
       "word": "李小冉下部戏还是演反派",
       "onboard_time": 1717340120,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178657,
+      "num": 178657,
+      "word": "庆余年看完了好空虚",
+      "onboard_time": 1717410319,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1427,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168297,
+      "num": 168297,
+      "word": "魏姐 爽文女主",
+      "onboard_time": 1717412117,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168230,
       "num": 168230,
       "word": "黄子弘凡肚子 看啥呢",
@@ -1505,14 +1609,6 @@
       "onboard_time": 1717374139,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160837,
-      "num": 160837,
-      "word": "庆余年看完了好空虚",
-      "onboard_time": 1717410319,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 160480,
@@ -1625,6 +1721,14 @@
       "onboard_time": 1717403599,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146765,
+      "num": 146765,
+      "word": "孙颖莎王曼昱角逐女单冠军",
+      "onboard_time": 1717412297,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 145505,
@@ -1747,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130399,
+      "num": 130399,
+      "word": "高三学霸女生笔记工整似印刷",
+      "onboard_time": 1717411279,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 129559,
       "num": 129559,
       "word": "墨雨云间破优酷首日记录",
@@ -1817,6 +1929,14 @@
       "onboard_time": 1717386919,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126337,
+      "num": 126337,
+      "word": "kep1erMV",
+      "onboard_time": 1717411878,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 126231,
@@ -1939,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116393,
+      "num": 116393,
+      "word": "新手包粽子极简攻略",
+      "onboard_time": 1717413258,
+      "rank": 46,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 116085,
       "num": 116085,
       "word": "葡萄牙航空展两飞机相撞致1死1伤",
@@ -2043,6 +2171,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 83883,
+      "num": 181291,
+      "word": "第一次给别人化妆用力过猛",
+      "onboard_time": 1717408939,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 81837,
       "num": 118487,
       "word": "姆巴佩加盟皇马",
@@ -2081,6 +2217,14 @@
       "onboard_time": 1717336401,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72546,
+      "num": 325784,
+      "word": "商户卖假牛肉被揭穿后摔相机",
+      "onboard_time": 1717412419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71657,
@@ -2155,14 +2299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56985,
-      "num": 181291,
-      "word": "第一次给别人化妆用力过猛",
-      "onboard_time": 1717408939,
-      "rank": 29,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 56777,
       "num": 56777,
       "word": "背锅的爸偷情的老公破碎的她",
@@ -2172,7 +2308,7 @@
     },
     {
       "raw_hot": 54201,
-      "num": 886364,
+      "num": 947005,
       "word": "升格视频诠释嫦娥奔月之美",
       "onboard_time": 1717402099,
       "rank": 2,
@@ -2233,6 +2369,14 @@
       "onboard_time": 1717355352,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 48975,
+      "num": 234618,
+      "word": "更适合普通人的高效护肤",
+      "onboard_time": 1717409658,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 41408,
@@ -2297,14 +2441,6 @@
       "onboard_time": 1717332440,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 23918,
-      "num": 187928,
-      "word": "更适合普通人的高效护肤",
-      "onboard_time": 1717409658,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 22094,
