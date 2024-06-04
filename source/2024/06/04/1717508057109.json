@@ -1,0 +1,410 @@
+{
+  "runTime": 1717508057109,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1563930,
+        "num": 1563930,
+        "word": "董璇 天天有人哭错坟",
+        "onboard_time": 1717506617,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1323421,
+        "num": 1323421,
+        "word": "汪文斌候任驻柬埔寨大使",
+        "onboard_time": 1717502357,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41217,
+        "num": 743047,
+        "word": "我国一批重大工程进度条刷新",
+        "onboard_time": 1717491679,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633962,
+        "num": 633962,
+        "word": "为什么患上尿毒症的年轻人越来越多",
+        "onboard_time": 1717501818,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 632242,
+        "num": 632242,
+        "word": "电商的仅退款政策真的合理吗",
+        "onboard_time": 1717499718,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574562,
+        "num": 574562,
+        "word": "胡先煦喝醉后满世界找WiFi",
+        "onboard_time": 1717498579,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526935,
+        "num": 526935,
+        "word": "变形计高占喜订婚了",
+        "onboard_time": 1717500138,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 461631,
+        "num": 461631,
+        "word": "英伟达一夜涨了一个英特尔",
+        "onboard_time": 1717502597,
+        "rank": 7,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 441996,
+        "num": 441996,
+        "word": "密逃6首期录制没有杨幂",
+        "onboard_time": 1717506917,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40345,
+        "num": 414644,
+        "word": "2024高考天气预报",
+        "onboard_time": 1717506978,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 736814,
+        "num": 413923,
+        "word": "韩国将很快人口自然减少",
+        "onboard_time": 1717499237,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 488160,
+        "num": 413760,
+        "word": "于正 王一栩",
+        "onboard_time": 1717504277,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409081,
+        "num": 409081,
+        "word": "医生建议1天最多吃3个粽子",
+        "onboard_time": 1717486817,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 358754,
+        "num": 358754,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717506557,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 356916,
+        "num": 356916,
+        "word": "网传歌手歌单",
+        "onboard_time": 1717501757,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333952,
+        "num": 333952,
+        "word": "当藏海传豫见河南",
+        "onboard_time": 1717506739,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 332647,
+        "num": 332647,
+        "word": "吴谨言观众缘",
+        "onboard_time": 1717491557,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270593,
+        "num": 270593,
+        "word": "2299元儿童手表绑架家长了吗",
+        "onboard_time": 1717491617,
+        "rank": 17,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 233626,
+        "num": 233626,
+        "word": "没想到榴莲也住上单间了",
+        "onboard_time": 1717495638,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212644,
+        "num": 212644,
+        "word": "2024年高考第一个丢准考证的同学",
+        "onboard_time": 1717484957,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 525251,
+        "num": 210346,
+        "word": "幽门螺杆菌不仅致癌还伤大脑",
+        "onboard_time": 1717506018,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 427969,
+        "num": 209550,
+        "word": "女子把隐翅虫当蚊子拍死差点毁容",
+        "onboard_time": 1717506376,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197278,
+        "num": 197278,
+        "word": "陈乔恩墨雨云间妆造",
+        "onboard_time": 1717501396,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183380,
+        "num": 183380,
+        "word": "节食减肥的尽头可能是内分泌科",
+        "onboard_time": 1717507519,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172009,
+        "num": 172009,
+        "word": "夏天对减肥人最善良的水果",
+        "onboard_time": 1717486877,
+        "rank": 24,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 169078,
+        "num": 169078,
+        "word": "女子带榴莲过不了安检机场狂炫",
+        "onboard_time": 1717498516,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167301,
+        "num": 167301,
+        "word": "还没办个税汇算的抓紧了",
+        "onboard_time": 1717503257,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160712,
+        "num": 160712,
+        "word": "马来西亚父母揭露托儿所恶行",
+        "onboard_time": 1717505057,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150488,
+        "num": 150488,
+        "word": "小范大人的衣柜",
+        "onboard_time": 1717503917,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149898,
+        "num": 149898,
+        "word": "东北十元的自助餐",
+        "onboard_time": 1717505898,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147766,
+        "num": 147766,
+        "word": "墨雨云间追剧日历",
+        "onboard_time": 1717505656,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144019,
+        "num": 144019,
+        "word": "赵露思状态",
+        "onboard_time": 1717480758,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122990,
+        "num": 122990,
+        "word": "2幼童玩滑梯一人被踹倒坠落骨折",
+        "onboard_time": 1717497797,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121577,
+        "num": 121577,
+        "word": "怎么夸到孩子心坎里",
+        "onboard_time": 1717507038,
+        "rank": 33,
+        "category": "母婴育儿,教育"
+      },
+      {
+        "raw_hot": 119956,
+        "num": 119956,
+        "word": "男子拍商铺被误入镜头女子诬陷偷拍",
+        "onboard_time": 1717497497,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117167,
+        "num": 117167,
+        "word": "女装上衣像童装裤子却越做越长",
+        "onboard_time": 1717500677,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116661,
+        "num": 116661,
+        "word": "行李箱没地寄存就混在假人堆里",
+        "onboard_time": 1717501877,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114117,
+        "num": 114117,
+        "word": "韩素希新木优子合照",
+        "onboard_time": 1717505296,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113919,
+        "num": 113919,
+        "word": "上海一号线",
+        "onboard_time": 1717500078,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109470,
+        "num": 109470,
+        "word": "处女座的感情在预设中消耗了",
+        "onboard_time": 1717500797,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109281,
+        "num": 109281,
+        "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
+        "onboard_time": 1717483277,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103789,
+        "num": 103789,
+        "word": "辛芷蕾的松弛感绝了",
+        "onboard_time": 1717507519,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103196,
+        "num": 103196,
+        "word": "户外过河警惕死亡V字",
+        "onboard_time": 1717501578,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 102719,
+        "num": 102719,
+        "word": "40小时工作制真的不适合人类",
+        "onboard_time": 1717507758,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100909,
+        "num": 100909,
+        "word": "为什么ChatGPT不火了",
+        "onboard_time": 1717493537,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100654,
+        "num": 100654,
+        "word": "旅行朋友圈",
+        "onboard_time": 1717505117,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83902,
+        "num": 83902,
+        "word": "曝TF三代8月24日成团出道",
+        "onboard_time": 1717490239,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78574,
+        "num": 78574,
+        "word": "于正 大女主剧",
+        "onboard_time": 1717497616,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77984,
+        "num": 77984,
+        "word": "阮经天芭莎写真",
+        "onboard_time": 1717504638,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76995,
+        "num": 76995,
+        "word": "英伟达市值再逼近苹果",
+        "onboard_time": 1717503438,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥国家战略科技力量作用#"
+    }
+  }
+}

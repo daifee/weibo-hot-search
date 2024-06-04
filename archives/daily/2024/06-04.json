@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717507308363,
+  "endTime": 1717508057109,
   "band_list": [
     {
       "raw_hot": 1815800,
@@ -33,6 +33,14 @@
       "onboard_time": 1717464917,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1563930,
+      "num": 1563930,
+      "word": "董璇 天天有人哭错坟",
+      "onboard_time": 1717506617,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1547441,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1085924,
-      "num": 350164,
+      "num": 413923,
       "word": "韩国将很快人口自然减少",
       "onboard_time": 1717499237,
       "rank": 30,
@@ -195,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 801006,
-      "num": 320324,
-      "word": "董璇 天天有人哭错坟",
-      "onboard_time": 1717506617,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 786297,
       "num": 245130,
       "word": "吃一个粽子要消化多久",
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 759030,
-      "num": 190268,
+      "num": 633962,
       "word": "为什么患上尿毒症的年轻人越来越多",
       "onboard_time": 1717501818,
       "rank": 20,
@@ -451,8 +451,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 525251,
+      "num": 210346,
+      "word": "幽门螺杆菌不仅致癌还伤大脑",
+      "onboard_time": 1717506018,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 522413,
-      "num": 327392,
+      "num": 413760,
       "word": "于正 王一栩",
       "onboard_time": 1717504277,
       "rank": 33,
@@ -539,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441996,
+      "num": 441996,
+      "word": "密逃6首期录制没有杨幂",
+      "onboard_time": 1717506917,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441531,
       "num": 441531,
       "word": "爹和祖母都不爱姜梨",
@@ -576,6 +592,14 @@
       "word": "官方回应幼儿园老师退儿童节演出服",
       "onboard_time": 1717478119,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 427969,
+      "num": 209550,
+      "word": "女子把隐翅虫当蚊子拍死差点毁容",
+      "onboard_time": 1717506376,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -651,12 +675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367149,
-      "num": 188072,
-      "word": "幽门螺杆菌不仅致癌还伤大脑",
-      "onboard_time": 1717506018,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 358754,
+      "num": 358754,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717506557,
+      "rank": 27,
+      "category": "国外时政"
     },
     {
       "raw_hot": 358523,
@@ -713,6 +737,14 @@
       "onboard_time": 1717465577,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 333952,
+      "num": 333952,
+      "word": "当藏海传豫见河南",
+      "onboard_time": 1717506739,
+      "rank": 18,
+      "category": "旅游"
     },
     {
       "raw_hot": 331567,
@@ -1035,14 +1067,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 238924,
-      "num": 187681,
-      "word": "女子把隐翅虫当蚊子拍死差点毁容",
-      "onboard_time": 1717506376,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238375,
       "num": 201192,
       "word": "爱奇艺给杨幂开了专栏",
@@ -1307,28 +1331,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195083,
-      "num": 195083,
-      "word": "当藏海传豫见河南",
-      "onboard_time": 1717506739,
-      "rank": 18,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 191665,
       "num": 191665,
       "word": "女子带榴莲过不了安检机场狂炫",
       "onboard_time": 1717498516,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185730,
-      "num": 185730,
-      "word": "密逃6首期录制没有杨幂",
-      "onboard_time": 1717506917,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 185624,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1717476320,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183380,
+      "num": 183380,
+      "word": "节食减肥的尽头可能是内分泌科",
+      "onboard_time": 1717507519,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 180507,
@@ -1441,14 +1457,6 @@
       "onboard_time": 1717467616,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161620,
-      "num": 161620,
-      "word": "巴勒斯坦",
-      "onboard_time": 1717506557,
-      "rank": 27,
-      "category": "国外时政"
     },
     {
       "raw_hot": 159760,
@@ -1547,20 +1555,20 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 147766,
+      "num": 147766,
+      "word": "墨雨云间追剧日历",
+      "onboard_time": 1717505656,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146813,
       "num": 146813,
       "word": "中国企业回应被斯坦福大学抄袭",
       "onboard_time": 1717476860,
       "rank": 41,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 145993,
-      "num": 145993,
-      "word": "墨雨云间追剧日历",
-      "onboard_time": 1717505656,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 145283,
@@ -1867,6 +1875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121577,
+      "num": 121577,
+      "word": "怎么夸到孩子心坎里",
+      "onboard_time": 1717507038,
+      "rank": 42,
+      "category": "母婴育儿,教育"
+    },
+    {
       "raw_hot": 120992,
       "num": 120992,
       "word": "重新定义疆浙沪包邮",
@@ -2091,6 +2107,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103789,
+      "num": 103789,
+      "word": "辛芷蕾的松弛感绝了",
+      "onboard_time": 1717507519,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102719,
+      "num": 102719,
+      "word": "40小时工作制真的不适合人类",
+      "onboard_time": 1717507758,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100654,
+      "num": 100654,
+      "word": "旅行朋友圈",
+      "onboard_time": 1717505117,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100052,
       "num": 100052,
       "word": "孙颖莎女单夺冠",
@@ -2145,14 +2185,6 @@
       "onboard_time": 1717456636,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94823,
-      "num": 94823,
-      "word": "怎么夸到孩子心坎里",
-      "onboard_time": 1717507038,
-      "rank": 42,
-      "category": "母婴育儿,教育"
     },
     {
       "raw_hot": 93270,
@@ -2217,14 +2249,6 @@
       "onboard_time": 1717413857,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87710,
-      "num": 87710,
-      "word": "旅行朋友圈",
-      "onboard_time": 1717505117,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 86224,
@@ -2347,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76995,
+      "num": 327921,
+      "word": "英伟达市值再逼近苹果",
+      "onboard_time": 1717503438,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 76573,
       "num": 76573,
       "word": "宝宝眼球被蜇进1根刺1个月才发现",
@@ -2388,7 +2420,7 @@
     },
     {
       "raw_hot": 71298,
-      "num": 739035,
+      "num": 743047,
       "word": "我国一批重大工程进度条刷新",
       "onboard_time": 1717491679,
       "rank": 2,
@@ -2515,16 +2547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56521,
-      "num": 327921,
-      "word": "英伟达市值再逼近苹果",
-      "onboard_time": 1717503438,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 55694,
-      "num": 353873,
+      "num": 414644,
       "word": "2024高考天气预报",
       "onboard_time": 1717506978,
       "rank": 9,
