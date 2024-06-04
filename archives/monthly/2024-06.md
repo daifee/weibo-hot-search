@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/04 23:34:15
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/05 00:24:46
 </p>
 </blockquote>
 <p>
@@ -575,6 +575,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9E%83%E5%9C%BE%E6%A1%B6%23" target="weibo">
 日本垃圾桶（热度：927403）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E6%B4%97%E6%BE%A1%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%BC%80%E9%97%A8%E9%97%AF%E5%85%A5%23" target="weibo">
+女子酒店洗澡被陌生男开门闯入（热度：924063）
 </a>
 </li>
 
@@ -2375,12 +2381,6 @@ TF三代杭州录制出道战（热度：376582）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%88%96%E5%87%BA%E5%B8%AD%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 易烊千玺或出席米兰时装周（热度：368582）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%BA%97%E6%B4%97%E6%BE%A1%E8%A2%AB%E9%99%8C%E7%94%9F%E7%94%B7%E5%BC%80%E9%97%A8%E9%97%AF%E5%85%A5%23" target="weibo">
-女子酒店洗澡被陌生男开门闯入（热度：367269）
 </a>
 </li>
 
@@ -6113,6 +6113,12 @@ kwave（热度：141136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E5%86%B0%E5%B2%9B%E5%BD%93%E9%80%89%E6%80%BB%E7%BB%9F%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
 #习近平向冰岛当选总统致贺电#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%BD%93%E9%80%89%E6%80%BB%E7%BB%9F%E8%87%B4%E8%B4%BA%E7%94%B5%23%23" target="weibo">
+#习近平向墨西哥当选总统致贺电#
 </a>
 </li>
 
