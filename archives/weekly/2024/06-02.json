@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717468439247,
+  "endTime": 1717469045630,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -107,6 +107,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1567508,
+      "num": 975685,
+      "word": "做了将近七个小时的饭",
+      "onboard_time": 1717464917,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1520474,
       "num": 1520474,
       "word": "端午真争气生在了周一",
@@ -137,14 +145,6 @@
       "onboard_time": 1717414337,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1435409,
-      "num": 932234,
-      "word": "做了将近七个小时的饭",
-      "onboard_time": 1717464917,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 1433682,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1162861,
+      "num": 1162861,
+      "word": "施工坍塌事故实习生或被追刑责",
+      "onboard_time": 1717464559,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1156129,
       "num": 1156129,
       "word": "不要觉得谈了五六年分手可惜",
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1035472,
-      "num": 1035472,
-      "word": "施工坍塌事故实习生或被追刑责",
-      "onboard_time": 1717464559,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 998937,
       "num": 509437,
       "word": "香港顶流姜涛跳晚安大小姐",
@@ -409,6 +409,14 @@
       "onboard_time": 1717422500,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 943726,
+      "num": 943726,
+      "word": "曝iPhone16Pro拥有行业最窄边框",
+      "onboard_time": 1717464917,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 943059,
@@ -457,14 +465,6 @@
       "onboard_time": 1717389560,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 908856,
-      "num": 908856,
-      "word": "曝iPhone16Pro拥有行业最窄边框",
-      "onboard_time": 1717464917,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 901446,
@@ -1155,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530138,
+      "num": 338703,
+      "word": "董力为花2000元吃饭道歉",
+      "onboard_time": 1717464438,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 524987,
       "num": 408726,
       "word": "艾米才16岁",
@@ -1251,14 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 498096,
-      "num": 314375,
-      "word": "董力为花2000元吃饭道歉",
-      "onboard_time": 1717464438,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 498049,
       "num": 498049,
       "word": "丁真自曝刚上岛跟不上节奏",
@@ -1331,6 +1331,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 477155,
+      "num": 256234,
+      "word": "长期睡眠不足可能会抑郁",
+      "onboard_time": 1717463298,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 475854,
       "num": 288884,
       "word": "王俊凯发和周杰伦合照",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1717276451,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 460486,
-      "num": 256234,
-      "word": "长期睡眠不足可能会抑郁",
-      "onboard_time": 1717463298,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 458616,
@@ -1635,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 414387,
+      "num": 230270,
+      "word": "秦岚腰臀比",
+      "onboard_time": 1717465816,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 413545,
       "num": 413545,
       "word": "朱婷无缘首发",
@@ -1761,14 +1769,6 @@
       "onboard_time": 1717330158,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 390994,
-      "num": 191786,
-      "word": "秦岚腰臀比",
-      "onboard_time": 1717465816,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 390846,
@@ -1995,6 +1995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349486,
+      "num": 337546,
+      "word": "月球背面有了一个中国字",
+      "onboard_time": 1717467977,
+      "rank": 19,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 348512,
       "num": 348512,
       "word": "秦海璐花少团一呼百应",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1717320257,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343811,
+      "num": 343811,
+      "word": "追星女带ID的一生",
+      "onboard_time": 1717466897,
+      "rank": 15,
+      "category": "幽默,科学科普"
     },
     {
       "raw_hot": 343069,
@@ -2145,6 +2161,14 @@
       "onboard_time": 1717389501,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 322010,
+      "num": 322010,
+      "word": "嫦娥六号着陆器上升器合影",
+      "onboard_time": 1717468277,
+      "rank": 27,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 321285,
@@ -2547,14 +2571,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 267995,
-      "num": 267995,
-      "word": "追星女带ID的一生",
-      "onboard_time": 1717466897,
-      "rank": 15,
-      "category": "幽默,科学科普"
-    },
-    {
       "raw_hot": 266750,
       "num": 390864,
       "word": "网友偶遇2024高考试卷押运车队",
@@ -2755,6 +2771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240593,
+      "num": 240593,
+      "word": "高考倒计时",
+      "onboard_time": 1717468516,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 239932,
       "num": 239932,
       "word": "G2夺冠",
@@ -2827,12 +2851,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 235418,
+      "num": 229095,
+      "word": "打工人在711吃午饭丢人吗",
+      "onboard_time": 1717466356,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235016,
       "num": 235016,
       "word": "中国防长沉着应对外方打断",
       "onboard_time": 1717317738,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 234902,
+      "num": 227820,
+      "word": "阿Sa张韶涵还原公主小妹名场面",
+      "onboard_time": 1717468038,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 234874,
@@ -2897,14 +2937,6 @@
       "onboard_time": 1717253838,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 231436,
-      "num": 191386,
-      "word": "打工人在711吃午饭丢人吗",
-      "onboard_time": 1717466356,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 229096,
@@ -3347,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199558,
+      "num": 199558,
+      "word": "婴儿被指满脸不屑表情撞脸Loopy",
+      "onboard_time": 1717465697,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198980,
       "num": 198980,
       "word": "王鹤棣晒桃花坞合照",
@@ -3385,14 +3425,6 @@
       "onboard_time": 1717463778,
       "rank": 30,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 198163,
-      "num": 191217,
-      "word": "婴儿被指满脸不屑表情撞脸Loopy",
-      "onboard_time": 1717465697,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197842,
@@ -3553,22 +3585,6 @@
       "onboard_time": 1717337000,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 191892,
-      "num": 191892,
-      "word": "月球背面有了一个中国字",
-      "onboard_time": 1717467977,
-      "rank": 19,
-      "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 191151,
-      "num": 191151,
-      "word": "嫦娥六号着陆器上升器合影",
-      "onboard_time": 1717468277,
-      "rank": 27,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 190969,
@@ -4259,14 +4275,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 163945,
-      "num": 163945,
-      "word": "阿Sa张韶涵还原公主小妹名场面",
-      "onboard_time": 1717468038,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163884,
       "num": 163884,
       "word": "许嵩成都抢票",
@@ -4312,6 +4320,14 @@
       "word": "菲律宾一火山喷发灰柱高达5000米",
       "onboard_time": 1717423820,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161995,
+      "num": 161995,
+      "word": "官方回应施工坍塌实习生或被追刑责",
+      "onboard_time": 1717467616,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -4459,6 +4475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155935,
+      "num": 155935,
+      "word": "嫦娥六号发微博说我看中",
+      "onboard_time": 1717468277,
+      "rank": 47,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 155832,
       "num": 155832,
       "word": "台州石人峡",
@@ -4505,14 +4529,6 @@
       "onboard_time": 1717252939,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 154866,
-      "num": 154866,
-      "word": "官方回应施工坍塌实习生或被追刑责",
-      "onboard_time": 1717467616,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154623,
@@ -4675,6 +4691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 145610,
+      "num": 145610,
+      "word": "广汽丰田致歉",
+      "onboard_time": 1717468156,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 145505,
       "num": 145505,
       "word": "女频爽剧常看长爽的原因",
@@ -4761,6 +4785,14 @@
       "onboard_time": 1717314617,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143226,
+      "num": 143226,
+      "word": "装修一口价22万开工后却又加8万",
+      "onboard_time": 1717468456,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142524,
@@ -5475,6 +5507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118326,
+      "num": 179678,
+      "word": "中国人用玄武岩织出国旗",
+      "onboard_time": 1717466417,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "二建市政",
@@ -5595,14 +5635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114234,
-      "num": 114234,
-      "word": "广汽丰田致歉",
-      "onboard_time": 1717468156,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 114127,
       "num": 114127,
       "word": "何尊和太阳神鸟登上纪念币",
@@ -5705,6 +5737,14 @@
       "onboard_time": 1717460660,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110212,
+      "num": 110212,
+      "word": "发现孩子早恋家长可以这样做",
+      "onboard_time": 1717465397,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 109841,
@@ -5859,14 +5899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105699,
-      "num": 105699,
-      "word": "嫦娥六号发微博说我看中",
-      "onboard_time": 1717468277,
-      "rank": 47,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 105414,
       "num": 105414,
       "word": "小猫咪也很讨厌下雨",
@@ -5953,14 +5985,6 @@
       "onboard_time": 1717423219,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98868,
-      "num": 98868,
-      "word": "发现孩子早恋家长可以这样做",
-      "onboard_time": 1717465397,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 98565,
@@ -6073,14 +6097,6 @@
       "onboard_time": 1717274711,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87908,
-      "num": 179678,
-      "word": "中国人用玄武岩织出国旗",
-      "onboard_time": 1717466417,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87679,
@@ -6331,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69726,
+      "num": 339327,
+      "word": "今年端午你家粽子是买还是包",
+      "onboard_time": 1717468218,
+      "rank": 9,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 69196,
       "num": 101915,
       "word": "美国小伙飞杭州动漫展求婚女友",
@@ -6436,7 +6460,7 @@
     },
     {
       "raw_hot": 60899,
-      "num": 947229,
+      "num": 999018,
       "word": "中国探月工程不断刷新月球探测纪录",
       "onboard_time": 1717426759,
       "rank": 2,
@@ -6825,14 +6849,6 @@
       "onboard_time": 1717354271,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 31666,
-      "num": 332216,
-      "word": "今年端午你家粽子是买还是包",
-      "onboard_time": 1717468218,
-      "rank": 9,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 31415,

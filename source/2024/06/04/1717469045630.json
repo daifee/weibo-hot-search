@@ -1,0 +1,410 @@
+{
+  "runTime": 1717469045630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1162861,
+        "num": 1162861,
+        "word": "施工坍塌事故实习生或被追刑责",
+        "onboard_time": 1717464559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056770,
+        "num": 1056770,
+        "word": "人民文娱评墨雨云间",
+        "onboard_time": 1717463057,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52893,
+        "num": 999018,
+        "word": "中国探月工程不断刷新月球探测纪录",
+        "onboard_time": 1717426759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1567508,
+        "num": 975685,
+        "word": "做了将近七个小时的饭",
+        "onboard_time": 1717464917,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 943726,
+        "num": 943726,
+        "word": "曝iPhone16Pro拥有行业最窄边框",
+        "onboard_time": 1717464917,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 458448,
+        "num": 458448,
+        "word": "早睡真能解决生活中大部分的问题",
+        "onboard_time": 1717427599,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 375016,
+        "num": 375016,
+        "word": "秦岚听到辛芷蕾入围白玉兰反应",
+        "onboard_time": 1717458197,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343811,
+        "num": 343811,
+        "word": "追星女带ID的一生",
+        "onboard_time": 1717466897,
+        "rank": 7,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 339339,
+        "num": 339339,
+        "word": "以色列已接受拜登三步走停火方案",
+        "onboard_time": 1717459038,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 69726,
+        "num": 339327,
+        "word": "今年端午你家粽子是买还是包",
+        "onboard_time": 1717468218,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 530138,
+        "num": 338703,
+        "word": "董力为花2000元吃饭道歉",
+        "onboard_time": 1717464438,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478459,
+        "num": 337944,
+        "word": "清华博士送水泥戒指求婚被嘲笑",
+        "onboard_time": 1717458677,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349486,
+        "num": 337546,
+        "word": "月球背面有了一个中国字",
+        "onboard_time": 1717467977,
+        "rank": 12,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 337306,
+        "num": 337306,
+        "word": "墨雨云间",
+        "onboard_time": 1717465577,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322010,
+        "num": 322010,
+        "word": "嫦娥六号着陆器上升器合影",
+        "onboard_time": 1717468277,
+        "rank": 14,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 298682,
+        "num": 298682,
+        "word": "范丞丞受伤",
+        "onboard_time": 1717458917,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1102210,
+        "num": 285468,
+        "word": "张雪峰说最难的考试其实是中考",
+        "onboard_time": 1717462339,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265105,
+        "num": 265105,
+        "word": "丁真自曝刚上岛跟不上节奏",
+        "onboard_time": 1717437193,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240593,
+        "num": 240593,
+        "word": "高考倒计时",
+        "onboard_time": 1717468516,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231937,
+        "num": 231937,
+        "word": "巴黎将扣姆巴佩3个月工资",
+        "onboard_time": 1717460598,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 477155,
+        "num": 231088,
+        "word": "长期睡眠不足可能会抑郁",
+        "onboard_time": 1717463298,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 414387,
+        "num": 230270,
+        "word": "秦岚腰臀比",
+        "onboard_time": 1717465816,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301819,
+        "num": 229811,
+        "word": "原来减肥的尽头是提高代谢",
+        "onboard_time": 1717458617,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 235418,
+        "num": 229095,
+        "word": "打工人在711吃午饭丢人吗",
+        "onboard_time": 1717466356,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234902,
+        "num": 227820,
+        "word": "阿Sa张韶涵还原公主小妹名场面",
+        "onboard_time": 1717468038,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227426,
+        "num": 227426,
+        "word": "三十岁是真正意义上的十八岁",
+        "onboard_time": 1717460598,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199558,
+        "num": 199558,
+        "word": "婴儿被指满脸不屑表情撞脸Loopy",
+        "onboard_time": 1717465697,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190506,
+        "num": 190506,
+        "word": "印度高温 恒河洗澡",
+        "onboard_time": 1717427719,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183897,
+        "num": 183897,
+        "word": "金俊勉公开为加沙捐款",
+        "onboard_time": 1717460358,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168929,
+        "num": 168929,
+        "word": "夏天提升幸福感的9件小事",
+        "onboard_time": 1717458497,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167682,
+        "num": 167682,
+        "word": "迪丽热巴新歌DanceVideo",
+        "onboard_time": 1717462939,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161995,
+        "num": 161995,
+        "word": "官方回应施工坍塌实习生或被追刑责",
+        "onboard_time": 1717467616,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159605,
+        "num": 159605,
+        "word": "鸭嘴钳背后看不见的女性之痛",
+        "onboard_time": 1717466537,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159262,
+        "num": 159262,
+        "word": "嫦娥六号挖到月球土特产了",
+        "onboard_time": 1717460118,
+        "rank": 33,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 158217,
+        "num": 158217,
+        "word": "爹和祖母都不爱姜梨",
+        "onboard_time": 1717458738,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155935,
+        "num": 155935,
+        "word": "嫦娥六号发微博说我看中",
+        "onboard_time": 1717468277,
+        "rank": 35,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 145610,
+        "num": 145610,
+        "word": "广汽丰田致歉",
+        "onboard_time": 1717468156,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143226,
+        "num": 143226,
+        "word": "装修一口价22万开工后却又加8万",
+        "onboard_time": 1717468456,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134282,
+        "num": 134282,
+        "word": "孙颖莎发布会现场把奖杯丢了",
+        "onboard_time": 1717463959,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129530,
+        "num": 129530,
+        "word": "王楚钦 脚踝",
+        "onboard_time": 1717423699,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127869,
+        "num": 127869,
+        "word": "Bobby今日入伍",
+        "onboard_time": 1717465697,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127489,
+        "num": 127489,
+        "word": "低价买入巴菲特公司股票交易无效",
+        "onboard_time": 1717460598,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 123452,
+        "num": 123452,
+        "word": "广州网红天池再有1人野泳溺亡",
+        "onboard_time": 1717459097,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120506,
+        "num": 120506,
+        "word": "坚持早睡后的身体变化",
+        "onboard_time": 1717464858,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 119848,
+        "num": 119848,
+        "word": "女子11次高空扔烟蒂引发火灾",
+        "onboard_time": 1717457415,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118326,
+        "num": 118326,
+        "word": "中国人用玄武岩织出国旗",
+        "onboard_time": 1717466417,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114529,
+        "num": 114529,
+        "word": "为何大家丧失了原倍速看剧的能力",
+        "onboard_time": 1717458858,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110748,
+        "num": 110748,
+        "word": "于正新剧",
+        "onboard_time": 1717461857,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110212,
+        "num": 110212,
+        "word": "发现孩子早恋家长可以这样做",
+        "onboard_time": 1717465397,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107582,
+        "num": 107582,
+        "word": "联合国专家呼吁承认巴勒斯坦国",
+        "onboard_time": 1717466417,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
