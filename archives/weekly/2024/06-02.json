@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717497452998,
+  "endTime": 1717499847496,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -433,6 +433,14 @@
       "onboard_time": 1717372037,
       "rank": 11,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 994758,
+      "num": 994758,
+      "word": "没想到榴莲也住上单间了",
+      "onboard_time": 1717495638,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 993812,
@@ -883,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699821,
+      "num": 119816,
+      "word": "韩国将很快人口自然减少",
+      "onboard_time": 1717499237,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 694866,
       "num": 694866,
       "word": "姆巴佩",
@@ -1140,7 +1156,7 @@
     },
     {
       "raw_hot": 603770,
-      "num": 171590,
+      "num": 179389,
       "word": "为什么ChatGPT不火了",
       "onboard_time": 1717493537,
       "rank": 42,
@@ -1449,14 +1465,6 @@
       "onboard_time": 1717407679,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 515444,
-      "num": 280107,
-      "word": "没想到榴莲也住上单间了",
-      "onboard_time": 1717495638,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 515244,
@@ -2691,6 +2699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301119,
+      "num": 301119,
+      "word": "孙夏铃 我不想再被安排了",
+      "onboard_time": 1717497077,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298994,
       "num": 298994,
       "word": "张雪峰2026年志愿填报服务已售罄",
@@ -2803,6 +2819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 288853,
+      "num": 288853,
+      "word": "张雪峰说没有专业适合所有考生",
+      "onboard_time": 1717496537,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 288301,
       "num": 288301,
       "word": "这英去摇龚琳娜了",
@@ -2897,6 +2921,14 @@
       "onboard_time": 1717410618,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 282100,
+      "num": 282100,
+      "word": "胡先煦喝醉后满世界找WiFi",
+      "onboard_time": 1717498579,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 278663,
@@ -3075,6 +3107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261340,
+      "num": 261340,
+      "word": "男子拍商铺被误入镜头女子诬陷偷拍",
+      "onboard_time": 1717497497,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259104,
       "num": 210366,
       "word": "嗓音或影响女性择偶标准",
@@ -3249,6 +3289,14 @@
       "onboard_time": 1717301418,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 243536,
+      "num": 288981,
+      "word": "于正 大女主剧",
+      "onboard_time": 1717497616,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 243160,
@@ -3561,6 +3609,14 @@
       "onboard_time": 1717290136,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222042,
+      "num": 222042,
+      "word": "2幼童玩滑梯一人被踹倒坠落骨折",
+      "onboard_time": 1717497797,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221750,
@@ -4291,6 +4347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189171,
+      "num": 189171,
+      "word": "57岁高考钉子户直播备考引质疑",
+      "onboard_time": 1717498397,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 189100,
       "num": 189100,
       "word": "河南漯河一轿车与火车相撞",
@@ -4603,14 +4667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 176781,
-      "num": 168752,
-      "word": "孙夏铃 我不想再被安排了",
-      "onboard_time": 1717497077,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176290,
       "num": 176290,
       "word": "迪丽热巴比耶撞脸表情包",
@@ -4825,6 +4881,14 @@
       "onboard_time": 1717296797,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168591,
+      "num": 168591,
+      "word": "女子带榴莲过不了安检机场狂炫",
+      "onboard_time": 1717498516,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168461,
@@ -5153,6 +5217,14 @@
       "onboard_time": 1717388239,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156391,
+      "num": 156391,
+      "word": "金发动漫角色排名",
+      "onboard_time": 1717496838,
+      "rank": 32,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 156145,
@@ -6235,14 +6307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123156,
-      "num": 123156,
-      "word": "张雪峰说没有专业适合所有考生",
-      "onboard_time": 1717496537,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 122848,
       "num": 122848,
       "word": "tbz票价",
@@ -6419,14 +6483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117577,
-      "num": 117577,
-      "word": "金发动漫角色排名",
-      "onboard_time": 1717496838,
-      "rank": 32,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "二建市政",
@@ -6515,6 +6571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 115903,
+      "num": 115903,
+      "word": "金裕贞出演亲爱的X",
+      "onboard_time": 1717497438,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115728,
       "num": 115728,
       "word": "肖战藏海传饭制伪预告",
@@ -6593,6 +6657,14 @@
       "onboard_time": 1717311739,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112135,
+      "num": 112135,
+      "word": "涂山红红爱与不爱很明显",
+      "onboard_time": 1717497377,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 112126,
@@ -6987,6 +7059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98337,
+      "num": 98337,
+      "word": "看得出秦岚好宠赵昭仪",
+      "onboard_time": 1717498937,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97931,
       "num": 97931,
       "word": "悲情王子罗伊斯",
@@ -7065,6 +7145,14 @@
       "onboard_time": 1717492098,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91779,
+      "num": 91779,
+      "word": "猫妈妈好像给自己生了个玩具玩",
+      "onboard_time": 1717497857,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 91643,
@@ -7163,14 +7251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84520,
-      "num": 84520,
-      "word": "涂山红红爱与不爱很明显",
-      "onboard_time": 1717497377,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84514,
       "num": 84514,
       "word": "薛之谦西宁",
@@ -7219,14 +7299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82424,
-      "num": 82424,
-      "word": "金裕贞出演亲爱的X",
-      "onboard_time": 1717497438,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 82041,
       "num": 82041,
       "word": "美国野火蔓延超过14000英亩",
@@ -7273,6 +7345,14 @@
       "onboard_time": 1717249879,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 78174,
+      "num": 78174,
+      "word": "电商的仅退款政策真的合理吗",
+      "onboard_time": 1717499718,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77248,
@@ -7520,6 +7600,14 @@
       "word": "中国探月工程不断刷新月球探测纪录",
       "onboard_time": 1717426759,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60092,
+      "num": 102668,
+      "word": "高三男孩右手献血左手复习",
+      "onboard_time": 1717497616,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -7881,6 +7969,14 @@
       "onboard_time": 1717435213,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35698,
+      "num": 288875,
+      "word": "蜂猴饿了也知道往火锅店跑",
+      "onboard_time": 1717499477,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35590,
