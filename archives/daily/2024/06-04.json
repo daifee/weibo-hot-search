@@ -1,7 +1,15 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717472140595,
+  "endTime": 1717474931596,
   "band_list": [
+    {
+      "raw_hot": 1815800,
+      "num": 863336,
+      "word": "补习花了近70万发现老师无初中教资证",
+      "onboard_time": 1717470917,
+      "rank": 14,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1567508,
       "num": 975685,
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1054821,
+      "num": 1054821,
+      "word": "斯坦福抄袭中国大模型",
+      "onboard_time": 1717473078,
+      "rank": 1,
+      "category": "互联网,科学科普"
+    },
+    {
       "raw_hot": 943726,
       "num": 943726,
       "word": "曝iPhone16Pro拥有行业最窄边框",
@@ -75,20 +91,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 863336,
-      "num": 863336,
-      "word": "补习花了近70万发现老师无初中教资证",
-      "onboard_time": 1717470917,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 858506,
       "num": 541284,
       "word": "朋友圈全开的是什么样的人",
       "onboard_time": 1717424959,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 825478,
+      "num": 825478,
+      "word": "庆余年2或成上半年剧王",
+      "onboard_time": 1717472720,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 767733,
@@ -131,12 +147,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 653615,
+      "num": 303903,
+      "word": "男性感染HPV后大部分可能无症状",
+      "onboard_time": 1717470978,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 634821,
+      "num": 634821,
+      "word": "韩雪 选曲投票",
+      "onboard_time": 1717471757,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 613592,
       "num": 613592,
       "word": "追星女带ID的一生",
       "onboard_time": 1717466897,
       "rank": 15,
       "category": "幽默,科学科普"
+    },
+    {
+      "raw_hot": 609465,
+      "num": 509235,
+      "word": "住房公积金从季取变月取",
+      "onboard_time": 1717474760,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 602368,
@@ -235,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455214,
+      "num": 455214,
+      "word": "高二男生一米九坐课桌椅弯腿驼背",
+      "onboard_time": 1717473498,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441531,
       "num": 441531,
       "word": "爹和祖母都不爱姜梨",
@@ -249,6 +297,14 @@
       "onboard_time": 1717460598,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 422916,
+      "num": 422916,
+      "word": "官方通报两名驴友意外落水溺亡",
+      "onboard_time": 1717473859,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420592,
@@ -284,7 +340,7 @@
     },
     {
       "raw_hot": 406309,
-      "num": 276117,
+      "num": 298195,
       "word": "打工人在711吃午饭丢人吗",
       "onboard_time": 1717466356,
       "rank": 24,
@@ -299,20 +355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 342513,
+      "num": 342513,
+      "word": "为什么听自己的声音回放觉得难听",
+      "onboard_time": 1717471997,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 337306,
       "num": 337306,
       "word": "墨雨云间",
       "onboard_time": 1717465577,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 330800,
-      "num": 233248,
-      "word": "男性感染HPV后大部分可能无症状",
-      "onboard_time": 1717470978,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 330050,
@@ -353,6 +409,14 @@
       "onboard_time": 1717460598,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 308882,
+      "num": 308882,
+      "word": "田曦薇上下班反差",
+      "onboard_time": 1717471517,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 303749,
@@ -443,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247879,
+      "num": 247879,
+      "word": "以为王安宇去变形记了",
+      "onboard_time": 1717474338,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240593,
       "num": 240593,
       "word": "高考倒计时",
@@ -451,12 +523,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 238836,
-      "num": 238836,
-      "word": "田曦薇上下班反差",
-      "onboard_time": 1717471517,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 239505,
+      "num": 239505,
+      "word": "墨雨云间的狂徒",
+      "onboard_time": 1717473679,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 238375,
@@ -473,6 +545,14 @@
       "onboard_time": 1717426160,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236725,
+      "num": 236725,
+      "word": "苹果降价国产手机提价",
+      "onboard_time": 1717471517,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 235252,
@@ -515,12 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221404,
-      "num": 221404,
-      "word": "韩雪 选曲投票",
-      "onboard_time": 1717471757,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 218623,
+      "num": 218623,
+      "word": "浙江两失联驴友被找到已无生命体征",
+      "onboard_time": 1717474760,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212147,
@@ -539,12 +619,28 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 210589,
+      "num": 210589,
+      "word": "张予曦妈妈想看张予曦唱月亮之上",
+      "onboard_time": 1717472537,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206529,
       "num": 200435,
       "word": "夏天手上长巨痒小水泡怎么办",
       "onboard_time": 1717429877,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 204685,
+      "num": 204685,
+      "word": "嫦娥六号成功着陆月背南极",
+      "onboard_time": 1717474579,
+      "rank": 32,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 200269,
@@ -595,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193487,
+      "num": 939242,
+      "word": "五星红旗在月球背面成功展开",
+      "onboard_time": 1717473798,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185624,
       "num": 185624,
       "word": "陈乔恩吴谨言脸颊比心",
@@ -619,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178494,
+      "num": 178494,
+      "word": "陈乔恩上次演反派是东方不败",
+      "onboard_time": 1717474279,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173802,
       "num": 149017,
       "word": "孙颖莎发布会现场把奖杯丢了",
@@ -633,22 +745,6 @@
       "onboard_time": 1717456995,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167613,
-      "num": 167613,
-      "word": "苹果降价国产手机提价",
-      "onboard_time": 1717471517,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 163677,
-      "num": 163677,
-      "word": "为什么听自己的声音回放觉得难听",
-      "onboard_time": 1717471997,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 161995,
@@ -673,6 +769,14 @@
       "onboard_time": 1717468277,
       "rank": 47,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 155401,
+      "num": 155401,
+      "word": "infp都是睡觉型选手",
+      "onboard_time": 1717469237,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 155052,
@@ -705,14 +809,6 @@
       "onboard_time": 1717460298,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 151014,
-      "num": 151014,
-      "word": "infp都是睡觉型选手",
-      "onboard_time": 1717469237,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 145283,
@@ -771,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133579,
+      "num": 133579,
+      "word": "和女儿终于有家了",
+      "onboard_time": 1717470857,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132224,
       "num": 132224,
       "word": "战至巅峰",
@@ -811,6 +915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127691,
+      "num": 127691,
+      "word": "想联系你的人怎样都有办法",
+      "onboard_time": 1717473138,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127440,
       "num": 127440,
       "word": "沈小婷新闻图",
@@ -825,14 +937,6 @@
       "onboard_time": 1717460598,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 126923,
-      "num": 126923,
-      "word": "和女儿终于有家了",
-      "onboard_time": 1717470857,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 126502,
@@ -1195,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62113,
+      "num": 512191,
+      "word": "未成年人打赏都能追回吗",
+      "onboard_time": 1717473622,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 60899,
       "num": 999018,
       "word": "中国探月工程不断刷新月球探测纪录",
@@ -1396,6 +1508,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#推动不同文明交流对话和谐共生#"
     }
   ]
 }

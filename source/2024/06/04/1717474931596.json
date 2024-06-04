@@ -1,0 +1,410 @@
+{
+  "runTime": 1717474931596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1137936,
+        "num": 1137936,
+        "word": "月球背面有了一个中国字",
+        "onboard_time": 1717467977,
+        "rank": 0,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 1054821,
+        "num": 1054821,
+        "word": "斯坦福抄袭中国大模型",
+        "onboard_time": 1717473078,
+        "rank": 1,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 193487,
+        "num": 939242,
+        "word": "五星红旗在月球背面成功展开",
+        "onboard_time": 1717473798,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825478,
+        "num": 825478,
+        "word": "庆余年2或成上半年剧王",
+        "onboard_time": 1717472720,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 768597,
+        "num": 768597,
+        "word": "人民文娱评墨雨云间",
+        "onboard_time": 1717463057,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1815800,
+        "num": 767414,
+        "word": "补习花了近70万发现老师无初中教资证",
+        "onboard_time": 1717470917,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759525,
+        "num": 759525,
+        "word": "做了将近七个小时的饭",
+        "onboard_time": 1717464917,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 634821,
+        "num": 634821,
+        "word": "韩雪 选曲投票",
+        "onboard_time": 1717471757,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582934,
+        "num": 582934,
+        "word": "施工坍塌事故实习生或被追刑责",
+        "onboard_time": 1717464559,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62113,
+        "num": 512191,
+        "word": "未成年人打赏都能追回吗",
+        "onboard_time": 1717473622,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 609465,
+        "num": 509235,
+        "word": "住房公积金从季取变月取",
+        "onboard_time": 1717474760,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472610,
+        "num": 472610,
+        "word": "曝iPhone16Pro拥有行业最窄边框",
+        "onboard_time": 1717464917,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 455214,
+        "num": 455214,
+        "word": "高二男生一米九坐课桌椅弯腿驼背",
+        "onboard_time": 1717473498,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426213,
+        "num": 426213,
+        "word": "追星女带ID的一生",
+        "onboard_time": 1717466897,
+        "rank": 13,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 422916,
+        "num": 422916,
+        "word": "官方通报两名驴友意外落水溺亡",
+        "onboard_time": 1717473859,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394913,
+        "num": 394913,
+        "word": "清华博士送水泥戒指求婚被嘲笑",
+        "onboard_time": 1717458677,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 342513,
+        "num": 342513,
+        "word": "为什么听自己的声音回放觉得难听",
+        "onboard_time": 1717471997,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 322892,
+        "num": 322892,
+        "word": "董力为花2000元吃饭道歉",
+        "onboard_time": 1717464438,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308882,
+        "num": 308882,
+        "word": "田曦薇上下班反差",
+        "onboard_time": 1717471517,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307954,
+        "num": 307954,
+        "word": "阿Sa张韶涵还原公主小妹名场面",
+        "onboard_time": 1717468038,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 653615,
+        "num": 303903,
+        "word": "男性感染HPV后大部分可能无症状",
+        "onboard_time": 1717470978,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 298195,
+        "num": 298195,
+        "word": "打工人在711吃午饭丢人吗",
+        "onboard_time": 1717466356,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278636,
+        "num": 278636,
+        "word": "孙颖莎世排第一7700分",
+        "onboard_time": 1717469057,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276110,
+        "num": 276110,
+        "word": "Uzi直播红温",
+        "onboard_time": 1717469237,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253792,
+        "num": 253792,
+        "word": "墨雨云间",
+        "onboard_time": 1717465577,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252656,
+        "num": 252656,
+        "word": "装修一口价22万开工后却又加8万",
+        "onboard_time": 1717468456,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247879,
+        "num": 247879,
+        "word": "以为王安宇去变形记了",
+        "onboard_time": 1717474338,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243606,
+        "num": 243606,
+        "word": "早睡真能解决生活中大部分的问题",
+        "onboard_time": 1717427599,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 239505,
+        "num": 239505,
+        "word": "墨雨云间的狂徒",
+        "onboard_time": 1717473679,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236725,
+        "num": 236725,
+        "word": "苹果降价国产手机提价",
+        "onboard_time": 1717471517,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218623,
+        "num": 218623,
+        "word": "浙江两失联驴友被找到已无生命体征",
+        "onboard_time": 1717474760,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210589,
+        "num": 210589,
+        "word": "张予曦妈妈想看张予曦唱月亮之上",
+        "onboard_time": 1717472537,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204685,
+        "num": 204685,
+        "word": "嫦娥六号成功着陆月背南极",
+        "onboard_time": 1717474579,
+        "rank": 32,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 180986,
+        "num": 180986,
+        "word": "以色列已接受拜登三步走停火方案",
+        "onboard_time": 1717459038,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 178494,
+        "num": 178494,
+        "word": "陈乔恩上次演反派是东方不败",
+        "onboard_time": 1717474279,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175424,
+        "num": 175424,
+        "word": "今年端午你家粽子是买还是包",
+        "onboard_time": 1717468218,
+        "rank": 35,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 170356,
+        "num": 170356,
+        "word": "三十岁是真正意义上的十八岁",
+        "onboard_time": 1717460598,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170157,
+        "num": 170157,
+        "word": "原来减肥的尽头是提高代谢",
+        "onboard_time": 1717458617,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 167776,
+        "num": 167776,
+        "word": "范丞丞受伤",
+        "onboard_time": 1717458917,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165168,
+        "num": 165168,
+        "word": "长期睡眠不足可能会抑郁",
+        "onboard_time": 1717463298,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161773,
+        "num": 161773,
+        "word": "王楚钦世排第一7725分",
+        "onboard_time": 1717469717,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155401,
+        "num": 155401,
+        "word": "infp都是睡觉型选手",
+        "onboard_time": 1717469237,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143166,
+        "num": 143166,
+        "word": "秦岚听到辛芷蕾入围白玉兰反应",
+        "onboard_time": 1717458197,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137834,
+        "num": 137834,
+        "word": "嫦娥六号着陆器上升器合影",
+        "onboard_time": 1717468277,
+        "rank": 43,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 133579,
+        "num": 133579,
+        "word": "和女儿终于有家了",
+        "onboard_time": 1717470857,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133383,
+        "num": 133383,
+        "word": "爹和祖母都不爱姜梨",
+        "onboard_time": 1717458738,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127691,
+        "num": 127691,
+        "word": "想联系你的人怎样都有办法",
+        "onboard_time": 1717473138,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116090,
+        "num": 116090,
+        "word": "广汽丰田致歉",
+        "onboard_time": 1717468156,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114755,
+        "num": 114755,
+        "word": "Ning谈Tarzan表现",
+        "onboard_time": 1717471158,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114708,
+        "num": 114708,
+        "word": "浙江大厂一天怎么做7万人次的三餐",
+        "onboard_time": 1717469958,
+        "rank": 49,
+        "category": "美食,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动不同文明交流对话和谐共生#"
+    }
+  }
+}
