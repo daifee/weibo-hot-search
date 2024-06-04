@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717508057109,
+  "endTime": 1717510686947,
   "band_list": [
     {
       "raw_hot": 1815800,
@@ -9,6 +9,14 @@
       "onboard_time": 1717470917,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1715214,
+      "num": 1563930,
+      "word": "董璇 天天有人哭错坟",
+      "onboard_time": 1717506617,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1613577,
@@ -33,14 +41,6 @@
       "onboard_time": 1717464917,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1563930,
-      "num": 1563930,
-      "word": "董璇 天天有人哭错坟",
-      "onboard_time": 1717506617,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1547441,
@@ -187,12 +187,28 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 893378,
+      "num": 893378,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717506557,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 858506,
       "num": 541284,
       "word": "朋友圈全开的是什么样的人",
       "onboard_time": 1717424959,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 833167,
+      "num": 644107,
+      "word": "女子把隐翅虫当蚊子拍死差点毁容",
+      "onboard_time": 1717506376,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 826399,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 759030,
-      "num": 633962,
+      "num": 704101,
       "word": "为什么患上尿毒症的年轻人越来越多",
       "onboard_time": 1717501818,
       "rank": 20,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614170,
+      "num": 614170,
+      "word": "密逃6首期录制没有杨幂",
+      "onboard_time": 1717506917,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 613592,
       "num": 613592,
       "word": "追星女带ID的一生",
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 525251,
-      "num": 210346,
+      "num": 260241,
       "word": "幽门螺杆菌不仅致癌还伤大脑",
       "onboard_time": 1717506018,
       "rank": 21,
@@ -507,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 478337,
+      "num": 245797,
+      "word": "节食减肥的尽头可能是内分泌科",
+      "onboard_time": 1717507519,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 477155,
       "num": 275953,
       "word": "长期睡眠不足可能会抑郁",
@@ -547,12 +579,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 441996,
-      "num": 441996,
-      "word": "密逃6首期录制没有杨幂",
-      "onboard_time": 1717506917,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 450892,
+      "num": 426773,
+      "word": "婚纱照发朋友圈被人说不好看",
+      "onboard_time": 1717510218,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 448618,
+      "num": 448618,
+      "word": "40小时工作制真的不适合人类",
+      "onboard_time": 1717507758,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 441531,
@@ -587,19 +627,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 433540,
+      "num": 433540,
+      "word": "李梦长公主好疯",
+      "onboard_time": 1717508118,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429569,
       "num": 429569,
       "word": "官方回应幼儿园老师退儿童节演出服",
       "onboard_time": 1717478119,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 427969,
-      "num": 209550,
-      "word": "女子把隐翅虫当蚊子拍死差点毁容",
-      "onboard_time": 1717506376,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -675,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 358754,
-      "num": 358754,
-      "word": "巴勒斯坦",
-      "onboard_time": 1717506557,
-      "rank": 27,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 358523,
       "num": 358523,
       "word": "墨雨云间的狂徒",
@@ -729,6 +761,14 @@
       "onboard_time": 1717471997,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 337666,
+      "num": 337666,
+      "word": "女子跑50公里没能归还怒砸充电宝",
+      "onboard_time": 1717508358,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337306,
@@ -817,6 +857,14 @@
       "onboard_time": 1717471517,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308420,
+      "num": 308420,
+      "word": "追风者 剪辑",
+      "onboard_time": 1717508538,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 303749,
@@ -1211,6 +1259,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 210991,
+      "num": 210991,
+      "word": "宁静版vs杨幂版涂山我罩的",
+      "onboard_time": 1717509319,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210799,
       "num": 210798,
       "word": "小小年纪就有了总裁相",
@@ -1371,20 +1427,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183380,
-      "num": 183380,
-      "word": "节食减肥的尽头可能是内分泌科",
-      "onboard_time": 1717507519,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 180507,
       "num": 412272,
       "word": "夏天提升幸福感的9件小事",
       "onboard_time": 1717458497,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180360,
+      "num": 163171,
+      "word": "父子被电梯硬控一小时",
+      "onboard_time": 1717509979,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 179489,
@@ -1449,6 +1505,14 @@
       "onboard_time": 1717477697,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164809,
+      "num": 164809,
+      "word": "墨雨云间追剧日历",
+      "onboard_time": 1717505656,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 161995,
@@ -1555,12 +1619,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 147766,
-      "num": 147766,
-      "word": "墨雨云间追剧日历",
-      "onboard_time": 1717505656,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 147481,
+      "num": 147481,
+      "word": "辛芷蕾的松弛感绝了",
+      "onboard_time": 1717507519,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 146813,
@@ -1955,6 +2019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115895,
+      "num": 115895,
+      "word": "菲非法坐滩军舰人员偷渔网",
+      "onboard_time": 1717509798,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115728,
       "num": 115728,
       "word": "肖战藏海传饭制伪预告",
@@ -2107,22 +2179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103789,
-      "num": 103789,
-      "word": "辛芷蕾的松弛感绝了",
-      "onboard_time": 1717507519,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 102719,
-      "num": 102719,
-      "word": "40小时工作制真的不适合人类",
-      "onboard_time": 1717507758,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 100654,
       "num": 100654,
       "word": "旅行朋友圈",
@@ -2171,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98264,
+      "num": 98264,
+      "word": "汽场全开",
+      "onboard_time": 1717509918,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 98147,
       "num": 98147,
       "word": "鞠婧祎背沟好深",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1717456636,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95989,
+      "num": 95989,
+      "word": "印度空军一军机坠毁",
+      "onboard_time": 1717509680,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 93270,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1717436353,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57833,
+      "num": 426881,
+      "word": "月季绽放美到了心尖尖上",
+      "onboard_time": 1717509319,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 57610,

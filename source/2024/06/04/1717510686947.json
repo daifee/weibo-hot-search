@@ -1,0 +1,410 @@
+{
+  "runTime": 1717510686947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 893378,
+        "num": 893378,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717506557,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 704101,
+        "num": 704101,
+        "word": "为什么患上尿毒症的年轻人越来越多",
+        "onboard_time": 1717501818,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 42592,
+        "num": 684121,
+        "word": "我国一批重大工程进度条刷新",
+        "onboard_time": 1717491679,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1715214,
+        "num": 672323,
+        "word": "董璇 天天有人哭错坟",
+        "onboard_time": 1717506617,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 833167,
+        "num": 644107,
+        "word": "女子把隐翅虫当蚊子拍死差点毁容",
+        "onboard_time": 1717506376,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712726,
+        "num": 625299,
+        "word": "汪文斌候任驻柬埔寨大使",
+        "onboard_time": 1717502357,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614170,
+        "num": 614170,
+        "word": "密逃6首期录制没有杨幂",
+        "onboard_time": 1717506917,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448618,
+        "num": 448618,
+        "word": "40小时工作制真的不适合人类",
+        "onboard_time": 1717507758,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 433540,
+        "num": 433540,
+        "word": "李梦长公主好疯",
+        "onboard_time": 1717508118,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57833,
+        "num": 426881,
+        "word": "月季绽放美到了心尖尖上",
+        "onboard_time": 1717509319,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 450892,
+        "num": 426773,
+        "word": "婚纱照发朋友圈被人说不好看",
+        "onboard_time": 1717510218,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426279,
+        "num": 426279,
+        "word": "胡先煦喝醉后满世界找WiFi",
+        "onboard_time": 1717498579,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374525,
+        "num": 374525,
+        "word": "电商的仅退款政策真的合理吗",
+        "onboard_time": 1717499718,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351347,
+        "num": 351347,
+        "word": "医生建议1天最多吃3个粽子",
+        "onboard_time": 1717486817,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 337666,
+        "num": 337666,
+        "word": "女子跑50公里没能归还怒砸充电宝",
+        "onboard_time": 1717508358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308420,
+        "num": 308420,
+        "word": "追风者 剪辑",
+        "onboard_time": 1717508538,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297877,
+        "num": 297877,
+        "word": "于正 王一栩",
+        "onboard_time": 1717504277,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290000,
+        "num": 290000,
+        "word": "吴谨言观众缘",
+        "onboard_time": 1717491557,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288503,
+        "num": 288503,
+        "word": "韩国将很快人口自然减少",
+        "onboard_time": 1717499237,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 283977,
+        "num": 283977,
+        "word": "变形计高占喜订婚了",
+        "onboard_time": 1717500138,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 515615,
+        "num": 260241,
+        "word": "幽门螺杆菌不仅致癌还伤大脑",
+        "onboard_time": 1717506018,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 478337,
+        "num": 245797,
+        "word": "节食减肥的尽头可能是内分泌科",
+        "onboard_time": 1717507519,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218714,
+        "num": 218714,
+        "word": "英伟达一夜涨了一个英特尔",
+        "onboard_time": 1717502597,
+        "rank": 22,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 210991,
+        "num": 210991,
+        "word": "宁静版vs杨幂版涂山我罩的",
+        "onboard_time": 1717509319,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190104,
+        "num": 190104,
+        "word": "当藏海传豫见河南",
+        "onboard_time": 1717506739,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 178592,
+        "num": 178592,
+        "word": "网传歌手歌单",
+        "onboard_time": 1717501757,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169831,
+        "num": 169831,
+        "word": "2299元儿童手表绑架家长了吗",
+        "onboard_time": 1717491617,
+        "rank": 26,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 168242,
+        "num": 168242,
+        "word": "没想到榴莲也住上单间了",
+        "onboard_time": 1717495638,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164809,
+        "num": 164809,
+        "word": "墨雨云间追剧日历",
+        "onboard_time": 1717505656,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143585,
+        "num": 163184,
+        "word": "还没办个税汇算的抓紧了",
+        "onboard_time": 1717503257,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180360,
+        "num": 163171,
+        "word": "父子被电梯硬控一小时",
+        "onboard_time": 1717509979,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163139,
+        "num": 163139,
+        "word": "陈乔恩墨雨云间妆造",
+        "onboard_time": 1717501396,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152304,
+        "num": 152304,
+        "word": "夏天对减肥人最善良的水果",
+        "onboard_time": 1717486877,
+        "rank": 32,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 150979,
+        "num": 150979,
+        "word": "东北十元的自助餐",
+        "onboard_time": 1717505898,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147481,
+        "num": 147481,
+        "word": "辛芷蕾的松弛感绝了",
+        "onboard_time": 1717507519,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138538,
+        "num": 138538,
+        "word": "2024年高考第一个丢准考证的同学",
+        "onboard_time": 1717484957,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 134350,
+        "num": 134350,
+        "word": "赵露思状态",
+        "onboard_time": 1717480758,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115895,
+        "num": 115895,
+        "word": "菲非法坐滩军舰人员偷渔网",
+        "onboard_time": 1717509798,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115846,
+        "num": 115846,
+        "word": "怎么夸到孩子心坎里",
+        "onboard_time": 1717507038,
+        "rank": 38,
+        "category": "母婴育儿,教育"
+      },
+      {
+        "raw_hot": 112632,
+        "num": 112632,
+        "word": "马来西亚父母揭露托儿所恶行",
+        "onboard_time": 1717505057,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111760,
+        "num": 111760,
+        "word": "韩素希新木优子合照",
+        "onboard_time": 1717505296,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110458,
+        "num": 110458,
+        "word": "女装上衣像童装裤子却越做越长",
+        "onboard_time": 1717500677,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106063,
+        "num": 106063,
+        "word": "2幼童玩滑梯一人被踹倒坠落骨折",
+        "onboard_time": 1717497797,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101170,
+        "num": 101170,
+        "word": "小范大人的衣柜",
+        "onboard_time": 1717503917,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100410,
+        "num": 100410,
+        "word": "为什么ChatGPT不火了",
+        "onboard_time": 1717493537,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 98452,
+        "num": 98452,
+        "word": "女子带榴莲过不了安检机场狂炫",
+        "onboard_time": 1717498516,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98264,
+        "num": 98264,
+        "word": "汽场全开",
+        "onboard_time": 1717509918,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 95989,
+        "num": 95989,
+        "word": "印度空军一军机坠毁",
+        "onboard_time": 1717509680,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 94443,
+        "num": 94443,
+        "word": "处女座的感情在预设中消耗了",
+        "onboard_time": 1717500797,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85588,
+        "num": 85588,
+        "word": "男子拍商铺被误入镜头女子诬陷偷拍",
+        "onboard_time": 1717497497,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
