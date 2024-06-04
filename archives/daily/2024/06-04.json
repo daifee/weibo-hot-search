@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717499847496,
+  "endTime": 1717500880743,
   "band_list": [
     {
       "raw_hot": 1815800,
@@ -107,8 +107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 994758,
-      "num": 994758,
+      "raw_hot": 1021664,
+      "num": 1021664,
       "word": "没想到榴莲也住上单间了",
       "onboard_time": 1717495638,
       "rank": 30,
@@ -137,6 +137,14 @@
       "onboard_time": 1717464917,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 921120,
+      "num": 267661,
+      "word": "韩国将很快人口自然减少",
+      "onboard_time": 1717499237,
+      "rank": 30,
+      "category": "国外时政"
     },
     {
       "raw_hot": 910619,
@@ -217,14 +225,6 @@
       "onboard_time": 1717486516,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 699821,
-      "num": 119816,
-      "word": "韩国将很快人口自然减少",
-      "onboard_time": 1717499237,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 694866,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 603770,
-      "num": 179389,
+      "num": 185598,
       "word": "为什么ChatGPT不火了",
       "onboard_time": 1717493537,
       "rank": 42,
@@ -345,6 +345,14 @@
       "onboard_time": 1717426759,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 600654,
+      "num": 555652,
+      "word": "胡先煦喝醉后满世界找WiFi",
+      "onboard_time": 1717498579,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 588064,
@@ -747,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 289335,
+      "num": 267521,
+      "word": "变形计高占喜订婚了",
+      "onboard_time": 1717500138,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 288853,
       "num": 288853,
       "word": "张雪峰说没有专业适合所有考生",
@@ -779,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 282100,
-      "num": 282100,
-      "word": "胡先煦喝醉后满世界找WiFi",
-      "onboard_time": 1717498579,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277436,
       "num": 277436,
       "word": "广州网红天池再有1人野泳溺亡",
@@ -801,6 +809,14 @@
       "onboard_time": 1717456696,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276187,
+      "num": 276187,
+      "word": "57岁高考钉子户直播备考引质疑",
+      "onboard_time": 1717498397,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 269097,
@@ -827,12 +843,28 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 267239,
+      "num": 267239,
+      "word": "2幼童玩滑梯一人被踹倒坠落骨折",
+      "onboard_time": 1717497797,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266784,
       "num": 266784,
       "word": "考试出现暂时性遗忘怎么办",
       "onboard_time": 1717490658,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 265065,
+      "num": 265065,
+      "word": "男子拍商铺被误入镜头女子诬陷偷拍",
+      "onboard_time": 1717497497,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265016,
@@ -865,14 +897,6 @@
       "onboard_time": 1717492878,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261340,
-      "num": 261340,
-      "word": "男子拍商铺被误入镜头女子诬陷偷拍",
-      "onboard_time": 1717497497,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256353,
@@ -913,6 +937,14 @@
       "onboard_time": 1717477819,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242618,
+      "num": 115078,
+      "word": "女装上衣像童装裤子却越做越长",
+      "onboard_time": 1717500677,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240593,
@@ -1001,14 +1033,6 @@
       "onboard_time": 1717458858,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222042,
-      "num": 222042,
-      "word": "2幼童玩滑梯一人被踹倒坠落骨折",
-      "onboard_time": 1717497797,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221750,
@@ -1195,12 +1219,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189171,
-      "num": 189171,
-      "word": "57岁高考钉子户直播备考引质疑",
-      "onboard_time": 1717498397,
-      "rank": 17,
-      "category": "教育"
+      "raw_hot": 191015,
+      "num": 191015,
+      "word": "上海一号线",
+      "onboard_time": 1717500078,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185624,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1717476320,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182923,
+      "num": 182923,
+      "word": "女子带榴莲过不了安检机场狂炫",
+      "onboard_time": 1717498516,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180507,
@@ -1259,6 +1291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174419,
+      "num": 174419,
+      "word": "电商的仅退款政策真的合理吗",
+      "onboard_time": 1717499718,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173802,
       "num": 149017,
       "word": "孙颖莎发布会现场把奖杯丢了",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1717456995,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168591,
-      "num": 168591,
-      "word": "女子带榴莲过不了安检机场狂炫",
-      "onboard_time": 1717498516,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167110,
@@ -1715,6 +1747,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116689,
+      "num": 116689,
+      "word": "涂山红红爱与不爱很明显",
+      "onboard_time": 1717497377,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116304,
       "num": 116304,
       "word": "winter灵巧的腰",
@@ -1744,14 +1784,6 @@
       "word": "王星越评价夺人妻新赛道",
       "onboard_time": 1717456276,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 112135,
-      "num": 112135,
-      "word": "涂山红红爱与不爱很明显",
-      "onboard_time": 1717497377,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -1811,6 +1843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107034,
+      "num": 107034,
+      "word": "Ning说Able去当陪玩了",
+      "onboard_time": 1717500378,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107027,
       "num": 107027,
       "word": "少年夫妻纯爱变质",
@@ -1867,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99994,
+      "num": 97839,
+      "word": "猫妈妈好像给自己生了个玩具玩",
+      "onboard_time": 1717497857,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99873,
       "num": 99873,
       "word": "樊振东说更在意王楚钦伤势",
@@ -1915,20 +1963,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92880,
+      "num": 92880,
+      "word": "墨雨云间妆造",
+      "onboard_time": 1717499957,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92183,
       "num": 92183,
       "word": "白鹿范丞丞沈泉锐奔跑吧同框",
       "onboard_time": 1717428738,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91779,
-      "num": 91779,
-      "word": "猫妈妈好像给自己生了个玩具玩",
-      "onboard_time": 1717497857,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 91643,
@@ -2067,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78174,
-      "num": 78174,
-      "word": "电商的仅退款政策真的合理吗",
-      "onboard_time": 1717499718,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 77248,
       "num": 205628,
       "word": "男子意外落水后抱头漂浮",
@@ -2105,6 +2145,14 @@
       "onboard_time": 1717457115,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74575,
+      "num": 74575,
+      "word": "处女座的感情在预设中消耗了",
+      "onboard_time": 1717500797,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72281,
@@ -2299,20 +2347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36493,
+      "num": 288875,
+      "word": "蜂猴饿了也知道往火锅店跑",
+      "onboard_time": 1717499477,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35814,
       "num": 38309,
       "word": "蒲熠星直拍",
       "onboard_time": 1717435213,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35698,
-      "num": 288875,
-      "word": "蜂猴饿了也知道往火锅店跑",
-      "onboard_time": 1717499477,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31094,
