@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717492923932,
+  "endTime": 1717493665237,
   "band_list": [
     {
       "raw_hot": 1815800,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 756830,
+      "num": 756830,
+      "word": "高薪的聘任制公务员为何招聘遇冷",
+      "onboard_time": 1717490297,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 725661,
       "num": 244102,
       "word": "高考建议不要穿这4种衣服",
@@ -259,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 633836,
-      "num": 633836,
-      "word": "高薪的聘任制公务员为何招聘遇冷",
-      "onboard_time": 1717490297,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 613592,
       "num": 613592,
       "word": "追星女带ID的一生",
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 568373,
+      "num": 568373,
+      "word": "吴谨言观众缘",
+      "onboard_time": 1717491557,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 556485,
       "num": 480360,
       "word": "高二男生一米九坐课桌椅弯腿驼背",
@@ -337,6 +345,14 @@
       "onboard_time": 1717474338,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 536835,
+      "num": 430411,
+      "word": "高铁新增优选一等座",
+      "onboard_time": 1717486516,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 530138,
@@ -411,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 458106,
-      "num": 430411,
-      "word": "高铁新增优选一等座",
-      "onboard_time": 1717486516,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 441531,
       "num": 441531,
       "word": "爹和祖母都不爱姜梨",
@@ -483,18 +491,18 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413194,
-      "num": 413194,
-      "word": "吴谨言观众缘",
-      "onboard_time": 1717491557,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 408847,
       "num": 408847,
       "word": "墨雨云间热度值破10000",
       "onboard_time": 1717489819,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 408188,
+      "num": 408188,
+      "word": "德塔文认证杨幂懂学出圈",
+      "onboard_time": 1717492158,
       "rank": 14,
       "category": "剧集"
     },
@@ -667,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292447,
+      "num": 153760,
+      "word": "荔枝十元3斤要来了",
+      "onboard_time": 1717491078,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 292380,
       "num": 339327,
       "word": "今年端午你家粽子是买还是包",
@@ -697,22 +713,6 @@
       "onboard_time": 1717483578,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 284351,
-      "num": 153760,
-      "word": "荔枝十元3斤要来了",
-      "onboard_time": 1717491078,
-      "rank": 23,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 283306,
-      "num": 283306,
-      "word": "德塔文认证杨幂懂学出圈",
-      "onboard_time": 1717492158,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 282492,
@@ -947,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211982,
+      "num": 410653,
+      "word": "玄武岩织成的国旗只有11.3克",
+      "onboard_time": 1717488078,
+      "rank": 28,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 211609,
       "num": 211609,
       "word": "五星红旗在月背升起",
@@ -1083,20 +1091,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184327,
+      "num": 142851,
+      "word": "狐妖一脉全部带蓝牙",
+      "onboard_time": 1717492878,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183980,
       "num": 183980,
       "word": "韩国人在广西实现水果自由",
       "onboard_time": 1717476320,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182988,
-      "num": 410653,
-      "word": "玄武岩织成的国旗只有11.3克",
-      "onboard_time": 1717488078,
-      "rank": 28,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 180507,
@@ -1171,6 +1179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 157445,
+      "num": 157445,
+      "word": "TheShy发博感谢粉丝",
+      "onboard_time": 1717492698,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155935,
       "num": 155935,
       "word": "嫦娥六号发微博说我看中",
@@ -1219,6 +1235,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 151409,
+      "num": 151409,
+      "word": "考试出现暂时性遗忘怎么办",
+      "onboard_time": 1717490658,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 151240,
       "num": 151240,
       "word": "每天最佳坐站睡动时间比例出炉",
@@ -1243,20 +1267,20 @@
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 145322,
-      "num": 145322,
-      "word": "考试出现暂时性遗忘怎么办",
-      "onboard_time": 1717490658,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 145283,
       "num": 145283,
       "word": "嫦娥六号与国旗自拍合影",
       "onboard_time": 1717469237,
       "rank": 38,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 143535,
+      "num": 409600,
+      "word": "2299元儿童手表绑架家长了吗",
+      "onboard_time": 1717491617,
+      "rank": 9,
+      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 142312,
@@ -1475,6 +1499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124304,
+      "num": 124304,
+      "word": "遇上公司挖人要注意什么",
+      "onboard_time": 1717493057,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 123964,
+      "num": 123964,
+      "word": "章昊直拍",
+      "onboard_time": 1717493238,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122930,
       "num": 122930,
       "word": "这届实习生显然已经nextlevel了",
@@ -1489,6 +1529,14 @@
       "onboard_time": 1717486217,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120992,
+      "num": 120992,
+      "word": "重新定义疆浙沪包邮",
+      "onboard_time": 1717492999,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 120465,
@@ -1563,14 +1611,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 111313,
-      "num": 409600,
-      "word": "2299元儿童手表绑架家长了吗",
-      "onboard_time": 1717491617,
-      "rank": 9,
-      "category": "社会新闻,数码"
-    },
-    {
       "raw_hot": 111172,
       "num": 457822,
       "word": "电蚊拍和杀虫剂一起用会着火",
@@ -1635,20 +1675,20 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 106317,
+      "num": 106317,
+      "word": "为什么ChatGPT不火了",
+      "onboard_time": 1717493537,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106216,
       "num": 106216,
       "word": "蔡徐坤染了银发梦回偶练",
       "onboard_time": 1717408220,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105947,
-      "num": 105947,
-      "word": "TheShy发博感谢粉丝",
-      "onboard_time": 1717492698,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 105403,
@@ -1747,14 +1787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88474,
-      "num": 88474,
-      "word": "狐妖一脉全部带蓝牙",
-      "onboard_time": 1717492878,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88395,
       "num": 88395,
       "word": "于正 选角",
@@ -1772,7 +1804,7 @@
     },
     {
       "raw_hot": 86224,
-      "num": 86224,
+      "num": 149776,
       "word": "林孝埈因观众为他加油感到自豪",
       "onboard_time": 1717490239,
       "rank": 49,
@@ -1899,6 +1931,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 69923,
+      "num": 653286,
+      "word": "我国一批重大工程进度条刷新",
+      "onboard_time": 1717491679,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68818,
       "num": 84247,
       "word": "乘风之夜组队选曲征集",
@@ -1937,14 +1977,6 @@
       "onboard_time": 1717457055,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62921,
-      "num": 653286,
-      "word": "我国一批重大工程进度条刷新",
-      "onboard_time": 1717491679,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60899,
@@ -2167,6 +2199,9 @@
     },
     {
       "word": "#推动不同文明交流对话和谐共生#"
+    },
+    {
+      "word": "#守护好中华文明金种子#"
     }
   ]
 }

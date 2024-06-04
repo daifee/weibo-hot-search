@@ -1,0 +1,410 @@
+{
+  "runTime": 1717493665237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1040466,
+        "num": 1040466,
+        "word": "医生建议1天最多吃3个粽子",
+        "onboard_time": 1717486817,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 756830,
+        "num": 756830,
+        "word": "高薪的聘任制公务员为何招聘遇冷",
+        "onboard_time": 1717490297,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69923,
+        "num": 643303,
+        "word": "我国一批重大工程进度条刷新",
+        "onboard_time": 1717491679,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629195,
+        "num": 629195,
+        "word": "2024年高考第一个丢准考证的同学",
+        "onboard_time": 1717484957,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 568373,
+        "num": 568373,
+        "word": "吴谨言观众缘",
+        "onboard_time": 1717491557,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 553499,
+        "num": 553499,
+        "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
+        "onboard_time": 1717483277,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 478882,
+        "num": 478882,
+        "word": "揭榜歌手疑似曾一鸣",
+        "onboard_time": 1717487597,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408188,
+        "num": 408188,
+        "word": "德塔文认证杨幂懂学出圈",
+        "onboard_time": 1717492158,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211982,
+        "num": 211982,
+        "word": "玄武岩织成的国旗只有11.3克",
+        "onboard_time": 1717488078,
+        "rank": 8,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 203092,
+        "num": 203092,
+        "word": "斯坦福抄袭中国大模型",
+        "onboard_time": 1717473078,
+        "rank": 9,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 536835,
+        "num": 202922,
+        "word": "高铁新增优选一等座",
+        "onboard_time": 1717486516,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376039,
+        "num": 201652,
+        "word": "曝TF三代8月24日成团出道",
+        "onboard_time": 1717490239,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309912,
+        "num": 201188,
+        "word": "墨雨云间热度值破10000",
+        "onboard_time": 1717489819,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243195,
+        "num": 199991,
+        "word": "赵露思状态",
+        "onboard_time": 1717480758,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199839,
+        "num": 199839,
+        "word": "印度股市狂跌",
+        "onboard_time": 1717487898,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 221758,
+        "num": 198702,
+        "word": "浙江两失联驴友被找到已无生命体征",
+        "onboard_time": 1717474760,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237195,
+        "num": 196248,
+        "word": "TF三代杭州录制出道战",
+        "onboard_time": 1717489338,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157445,
+        "num": 157445,
+        "word": "TheShy发博感谢粉丝",
+        "onboard_time": 1717492698,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151647,
+        "num": 151647,
+        "word": "住房公积金的这些用途你get了吗",
+        "onboard_time": 1717482919,
+        "rank": 18,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 151409,
+        "num": 151409,
+        "word": "考试出现暂时性遗忘怎么办",
+        "onboard_time": 1717490658,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75336,
+        "num": 149776,
+        "word": "林孝埈因观众为他加油感到自豪",
+        "onboard_time": 1717490239,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446385,
+        "num": 148065,
+        "word": "夏天对减肥人最善良的水果",
+        "onboard_time": 1717486877,
+        "rank": 21,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 335993,
+        "num": 147398,
+        "word": "高考建议不要穿这4种衣服",
+        "onboard_time": 1717475239,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292447,
+        "num": 144320,
+        "word": "荔枝十元3斤要来了",
+        "onboard_time": 1717491078,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143535,
+        "num": 143535,
+        "word": "2299元儿童手表绑架家长了吗",
+        "onboard_time": 1717491617,
+        "rank": 24,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 184327,
+        "num": 142851,
+        "word": "狐妖一脉全部带蓝牙",
+        "onboard_time": 1717492878,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175858,
+        "num": 142646,
+        "word": "龚俊给曾舜晞周雨彤发红包",
+        "onboard_time": 1717488438,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164380,
+        "num": 141209,
+        "word": "补习花了近70万发现老师无初中教资证",
+        "onboard_time": 1717470917,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150492,
+        "num": 140601,
+        "word": "BABYMONSTER将出演下周MCD",
+        "onboard_time": 1717491857,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140200,
+        "num": 140200,
+        "word": "墨雨云间里的孔雪儿",
+        "onboard_time": 1717484538,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128472,
+        "num": 128472,
+        "word": "林俊杰 这歌是这样唱的吗",
+        "onboard_time": 1717487058,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136099,
+        "num": 127702,
+        "word": "墨雨云间男演员 脸盲",
+        "onboard_time": 1717488797,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124304,
+        "num": 124304,
+        "word": "遇上公司挖人要注意什么",
+        "onboard_time": 1717493057,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124013,
+        "num": 124013,
+        "word": "用95元吃了10个菜一碗面",
+        "onboard_time": 1717480877,
+        "rank": 33,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 104191,
+        "num": 123970,
+        "word": "庆余年2或成上半年剧王",
+        "onboard_time": 1717472720,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123964,
+        "num": 123964,
+        "word": "章昊直拍",
+        "onboard_time": 1717493238,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120992,
+        "num": 120992,
+        "word": "重新定义疆浙沪包邮",
+        "onboard_time": 1717492999,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118868,
+        "num": 118868,
+        "word": "货物列车刮碰施工作业人员致6死",
+        "onboard_time": 1717489398,
+        "rank": 37,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 117537,
+        "num": 117537,
+        "word": "王珞丹妈妈说可以不结婚",
+        "onboard_time": 1717489338,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115082,
+        "num": 115082,
+        "word": "吃一个粽子要消化多久",
+        "onboard_time": 1717475180,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108882,
+        "num": 108882,
+        "word": "斯坦福团队道歉",
+        "onboard_time": 1717475959,
+        "rank": 40,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 107573,
+        "num": 107573,
+        "word": "刘昊然 就是硬帅",
+        "onboard_time": 1717481959,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106317,
+        "num": 106317,
+        "word": "为什么ChatGPT不火了",
+        "onboard_time": 1717493537,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104202,
+        "num": 104202,
+        "word": "Steam代安装",
+        "onboard_time": 1717481539,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101771,
+        "num": 101771,
+        "word": "原来动画片都是真的",
+        "onboard_time": 1717487958,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 101298,
+        "word": "四川地震",
+        "onboard_time": 1717475660,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101297,
+        "num": 101297,
+        "word": "陈丽君投票",
+        "onboard_time": 1717483517,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100594,
+        "num": 100594,
+        "word": "高考选择药物推迟经期有用吗",
+        "onboard_time": 1717484418,
+        "rank": 47,
+        "category": "教育,健康医疗"
+      },
+      {
+        "raw_hot": 89855,
+        "num": 89855,
+        "word": "印度遭股债汇三杀",
+        "onboard_time": 1717492098,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87780,
+        "num": 87780,
+        "word": "皇马球迷喊话樊振东巴黎加油",
+        "onboard_time": 1717479319,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#守护好中华文明金种子#"
+    }
+  }
+}
