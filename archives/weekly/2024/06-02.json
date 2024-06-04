@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717535872227,
+  "endTime": 1717536874838,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -8771,20 +8771,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22445,
+      "num": 21233,
+      "word": "牛奶加热后的奶皮吃了有好处吗",
+      "onboard_time": 1717531930,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21723,
       "num": 333780,
       "word": "机车女孩教会600多个听障孩子叫妈妈",
       "onboard_time": 1717259117,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21233,
-      "num": 21233,
-      "word": "牛奶加热后的奶皮吃了有好处吗",
-      "onboard_time": 1717531930,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 21152,
@@ -8915,7 +8915,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 13892,
+      "raw_hot": 13894,
       "num": 14103,
       "word": "粽子卖爆了",
       "onboard_time": 1717531271,
@@ -8963,8 +8963,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 12391,
-      "num": 13508,
+      "raw_hot": 12587,
+      "num": 13749,
       "word": "被纪念币上的国家宝藏硬控了",
       "onboard_time": 1717533430,
       "rank": 48,
