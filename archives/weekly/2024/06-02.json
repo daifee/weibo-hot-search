@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717482368639,
+  "endTime": 1717483114997,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -499,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 907796,
+      "num": 907796,
+      "word": "宝马腰斩式大降价",
+      "onboard_time": 1717477159,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 901446,
       "num": 444038,
       "word": "张杰谢娜关系不一般",
@@ -609,14 +617,6 @@
       "onboard_time": 1717472720,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 804711,
-      "num": 804711,
-      "word": "宝马腰斩式大降价",
-      "onboard_time": 1717477159,
-      "rank": 24,
-      "category": "汽车"
     },
     {
       "raw_hot": 798906,
@@ -801,6 +801,14 @@
       "onboard_time": 1717475239,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 724564,
+      "num": 608885,
+      "word": "赵露思状态",
+      "onboard_time": 1717480758,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 718868,
@@ -1049,14 +1057,6 @@
       "onboard_time": 1717466897,
       "rank": 15,
       "category": "幽默,科学科普"
-    },
-    {
-      "raw_hot": 608885,
-      "num": 608885,
-      "word": "赵露思状态",
-      "onboard_time": 1717480758,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 603811,
@@ -1731,6 +1731,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 429569,
+      "num": 429569,
+      "word": "官方回应幼儿园老师退儿童节演出服",
+      "onboard_time": 1717478119,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428755,
+      "num": 313280,
+      "word": "用95元吃了10个菜一碗面",
+      "onboard_time": 1717480877,
+      "rank": 12,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 427683,
       "num": 427683,
       "word": "再也不敢用酒店的一次性用品了",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1717330397,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 379138,
-      "num": 354575,
-      "word": "官方回应幼儿园老师退儿童节演出服",
-      "onboard_time": 1717478119,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 379006,
@@ -2419,14 +2427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 313280,
-      "num": 313280,
-      "word": "用95元吃了10个菜一碗面",
-      "onboard_time": 1717480877,
-      "rank": 12,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 310794,
       "num": 214450,
       "word": "JOY表达对SM不满",
@@ -2449,6 +2449,14 @@
       "onboard_time": 1717471517,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308497,
+      "num": 308497,
+      "word": "刘昊然 就是硬帅",
+      "onboard_time": 1717481959,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 305623,
@@ -3739,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198597,
+      "num": 198597,
+      "word": "Steam代安装",
+      "onboard_time": 1717481539,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198369,
       "num": 198369,
       "word": "WTT",
@@ -4027,14 +4043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188072,
-      "num": 168204,
-      "word": "Steam代安装",
-      "onboard_time": 1717481539,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 188065,
       "num": 188065,
       "word": "杨蓉43岁状态",
@@ -4235,6 +4243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178522,
+      "num": 178522,
+      "word": "王星越在我首页叼了一天玉佩",
+      "onboard_time": 1717481658,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178251,
       "num": 162507,
       "word": "秦岚辛芷蕾是懂互相伤害的",
@@ -4427,6 +4443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172563,
+      "num": 172563,
+      "word": "住房公积金的这些用途你get了吗",
+      "onboard_time": 1717482919,
+      "rank": 31,
+      "category": "财经,科学科普"
+    },
+    {
       "raw_hot": 172484,
       "num": 160058,
       "word": "刘晓庆不知道李维嘉有洁癖",
@@ -4489,14 +4513,6 @@
       "onboard_time": 1717337599,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 169395,
-      "num": 169395,
-      "word": "刘昊然 就是硬帅",
-      "onboard_time": 1717481959,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 169369,
@@ -4731,6 +4747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161360,
+      "num": 161360,
+      "word": "加州大火",
+      "onboard_time": 1717482377,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161300,
       "num": 161300,
       "word": "香缇莫MOMO变emo",
@@ -4937,14 +4961,6 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 154608,
-      "num": 154608,
-      "word": "王星越在我首页叼了一天玉佩",
-      "onboard_time": 1717481658,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 152646,
@@ -5451,6 +5467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133272,
+      "num": 354643,
+      "word": "无陪护病房是否应该全国推广",
+      "onboard_time": 1717480817,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 132820,
       "num": 132820,
       "word": "庆余年2CP投票",
@@ -5464,6 +5488,22 @@
       "word": "想喝杯加了珍珠的奶茶有多难",
       "onboard_time": 1717479619,
       "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 132354,
+      "num": 132354,
+      "word": "陈梦打卡重庆",
+      "onboard_time": 1717482678,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132314,
+      "num": 132314,
+      "word": "粽子是蒸好还是煮好",
+      "onboard_time": 1717482678,
+      "rank": 39,
       "category": "美食"
     },
     {
@@ -6347,6 +6387,22 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 107027,
+      "num": 107027,
+      "word": "少年夫妻纯爱变质",
+      "onboard_time": 1717483038,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106717,
+      "num": 106717,
+      "word": "航天员拍下绿色正慢慢覆盖三北沙漠",
+      "onboard_time": 1717482197,
+      "rank": 45,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 106682,
       "num": 106682,
       "word": "小夜退役",
@@ -6587,14 +6643,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93291,
-      "num": 93291,
-      "word": "航天员拍下绿色正慢慢覆盖三北沙漠",
-      "onboard_time": 1717482197,
-      "rank": 45,
-      "category": "国内时政,科学科普"
-    },
-    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "安切洛蒂水平",
@@ -6689,14 +6737,6 @@
       "onboard_time": 1717433415,
       "rank": 32,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 84114,
-      "num": 354643,
-      "word": "无陪护病房是否应该全国推广",
-      "onboard_time": 1717480817,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 83883,
@@ -6835,6 +6875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72281,
+      "num": 250282,
+      "word": "学校组织近千名高三生考前抓鱼减压",
+      "onboard_time": 1717479378,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 71657,
       "num": 513940,
       "word": "大熊猫天宝的生日窝头好可爱",
@@ -6937,14 +6985,6 @@
       "onboard_time": 1717429938,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64536,
-      "num": 210977,
-      "word": "学校组织近千名高三生考前抓鱼减压",
-      "onboard_time": 1717479378,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 64432,
@@ -7416,6 +7456,14 @@
       "word": "不管几岁快乐万岁",
       "onboard_time": 1717212076,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28264,
+      "num": 177498,
+      "word": "一人一句夸夸咱河南老乡",
+      "onboard_time": 1717483097,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

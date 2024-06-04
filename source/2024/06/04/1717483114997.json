@@ -1,0 +1,410 @@
+{
+  "runTime": 1717483114997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 964640,
+        "num": 964640,
+        "word": "住房公积金从季取变月取",
+        "onboard_time": 1717474760,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907796,
+        "num": 907796,
+        "word": "宝马腰斩式大降价",
+        "onboard_time": 1717477159,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121102,
+        "num": 738174,
+        "word": "五星红旗在月球背面成功展开",
+        "onboard_time": 1717473798,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606943,
+        "num": 606943,
+        "word": "斯坦福抄袭中国大模型",
+        "onboard_time": 1717473078,
+        "rank": 3,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 459692,
+        "num": 459692,
+        "word": "浙江两失联驴友被找到已无生命体征",
+        "onboard_time": 1717474760,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429569,
+        "num": 429569,
+        "word": "官方回应幼儿园老师退儿童节演出服",
+        "onboard_time": 1717478119,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421863,
+        "num": 421863,
+        "word": "斯坦福团队道歉",
+        "onboard_time": 1717475959,
+        "rank": 6,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 355850,
+        "num": 355850,
+        "word": "月球背面有了一个中国字",
+        "onboard_time": 1717467977,
+        "rank": 7,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 315444,
+        "num": 315444,
+        "word": "四川地震",
+        "onboard_time": 1717475660,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724564,
+        "num": 314093,
+        "word": "赵露思状态",
+        "onboard_time": 1717480758,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428755,
+        "num": 311666,
+        "word": "用95元吃了10个菜一碗面",
+        "onboard_time": 1717480877,
+        "rank": 10,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 308497,
+        "num": 308497,
+        "word": "刘昊然 就是硬帅",
+        "onboard_time": 1717481959,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256284,
+        "num": 256284,
+        "word": "庆余年2或成上半年剧王",
+        "onboard_time": 1717472720,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256005,
+        "num": 256005,
+        "word": "墨雨云间的狂徒",
+        "onboard_time": 1717473679,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72281,
+        "num": 250282,
+        "word": "学校组织近千名高三生考前抓鱼减压",
+        "onboard_time": 1717479378,
+        "rank": 14,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 247670,
+        "num": 247670,
+        "word": "以为王安宇去变形记了",
+        "onboard_time": 1717474338,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246903,
+        "num": 246903,
+        "word": "AI换脸帮我骗过了姥姥",
+        "onboard_time": 1717479258,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234325,
+        "num": 234325,
+        "word": "张凌赫新郎造型",
+        "onboard_time": 1717478178,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229318,
+        "num": 229318,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1717477819,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227064,
+        "num": 227064,
+        "word": "做了将近七个小时的饭",
+        "onboard_time": 1717464917,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 525374,
+        "num": 225836,
+        "word": "高考建议不要穿这4种衣服",
+        "onboard_time": 1717475239,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 446523,
+        "num": 224653,
+        "word": "补习花了近70万发现老师无初中教资证",
+        "onboard_time": 1717470917,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386084,
+        "num": 221748,
+        "word": "吃一个粽子要消化多久",
+        "onboard_time": 1717475180,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 331027,
+        "num": 219747,
+        "word": "男性感染HPV后大部分可能无症状",
+        "onboard_time": 1717470978,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217847,
+        "num": 217847,
+        "word": "曝iPhone16Pro拥有行业最窄边框",
+        "onboard_time": 1717464917,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198597,
+        "num": 198597,
+        "word": "Steam代安装",
+        "onboard_time": 1717481539,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198260,
+        "num": 198260,
+        "word": "辛芷蕾脚底板也黑了",
+        "onboard_time": 1717481359,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178806,
+        "num": 178806,
+        "word": "皇马球迷喊话樊振东巴黎加油",
+        "onboard_time": 1717479319,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178522,
+        "num": 178522,
+        "word": "王星越在我首页叼了一天玉佩",
+        "onboard_time": 1717481658,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28264,
+        "num": 177498,
+        "word": "一人一句夸夸咱河南老乡",
+        "onboard_time": 1717483097,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177497,
+        "num": 177497,
+        "word": "高二男生一米九坐课桌椅弯腿驼背",
+        "onboard_time": 1717473498,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172563,
+        "num": 172563,
+        "word": "住房公积金的这些用途你get了吗",
+        "onboard_time": 1717482919,
+        "rank": 31,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 167073,
+        "num": 167073,
+        "word": "董宇辉称高考不决定人生",
+        "onboard_time": 1717475300,
+        "rank": 32,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 161360,
+        "num": 161360,
+        "word": "加州大火",
+        "onboard_time": 1717482377,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154560,
+        "num": 154560,
+        "word": "上海出发睡一觉到香港",
+        "onboard_time": 1717477580,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153585,
+        "num": 153585,
+        "word": "清华博士送水泥戒指求婚被嘲笑",
+        "onboard_time": 1717458677,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140128,
+        "num": 140128,
+        "word": "韩雪 选曲投票",
+        "onboard_time": 1717471757,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133272,
+        "num": 133272,
+        "word": "无陪护病房是否应该全国推广",
+        "onboard_time": 1717480817,
+        "rank": 37,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 132354,
+        "num": 132354,
+        "word": "陈梦打卡重庆",
+        "onboard_time": 1717482678,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132314,
+        "num": 132314,
+        "word": "粽子是蒸好还是煮好",
+        "onboard_time": 1717482678,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128474,
+        "num": 128474,
+        "word": "GQ工作人员夸赞时代少年团",
+        "onboard_time": 1717477697,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126769,
+        "num": 126769,
+        "word": "想喝杯加了珍珠的奶茶有多难",
+        "onboard_time": 1717479619,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123901,
+        "num": 123901,
+        "word": "韩国人在广西实现水果自由",
+        "onboard_time": 1717476320,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120321,
+        "num": 120321,
+        "word": "墨雨云间 上头",
+        "onboard_time": 1717476499,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118429,
+        "num": 118429,
+        "word": "网传战至巅峰3阵容",
+        "onboard_time": 1717479019,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111970,
+        "num": 111970,
+        "word": "张予曦说我喜欢累",
+        "onboard_time": 1717481238,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107027,
+        "num": 107027,
+        "word": "少年夫妻纯爱变质",
+        "onboard_time": 1717483038,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106717,
+        "num": 106717,
+        "word": "航天员拍下绿色正慢慢覆盖三北沙漠",
+        "onboard_time": 1717482197,
+        "rank": 47,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 105549,
+        "num": 105549,
+        "word": "Uzi直播红温",
+        "onboard_time": 1717469237,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104938,
+        "num": 104938,
+        "word": "陈乔恩上次演反派是东方不败",
+        "onboard_time": 1717474279,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

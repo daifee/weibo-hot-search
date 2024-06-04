@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717482368639,
+  "endTime": 1717483114997,
   "band_list": [
     {
       "raw_hot": 1815800,
@@ -99,6 +99,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 907796,
+      "num": 907796,
+      "word": "宝马腰斩式大降价",
+      "onboard_time": 1717477159,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 900676,
       "num": 900676,
       "word": "斯坦福团队道歉",
@@ -123,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 804711,
-      "num": 804711,
-      "word": "宝马腰斩式大降价",
-      "onboard_time": 1717477159,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 786297,
       "num": 245130,
       "word": "吃一个粽子要消化多久",
@@ -153,6 +153,14 @@
       "onboard_time": 1717475239,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 724564,
+      "num": 608885,
+      "word": "赵露思状态",
+      "onboard_time": 1717480758,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 694866,
@@ -225,14 +233,6 @@
       "onboard_time": 1717466897,
       "rank": 15,
       "category": "幽默,科学科普"
-    },
-    {
-      "raw_hot": 608885,
-      "num": 608885,
-      "word": "赵露思状态",
-      "onboard_time": 1717480758,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 603811,
@@ -371,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429569,
+      "num": 429569,
+      "word": "官方回应幼儿园老师退儿童节演出服",
+      "onboard_time": 1717478119,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428755,
+      "num": 313280,
+      "word": "用95元吃了10个菜一碗面",
+      "onboard_time": 1717480877,
+      "rank": 12,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 420592,
       "num": 420592,
       "word": "Uzi直播红温",
@@ -416,14 +432,6 @@
       "word": "女子11次高空扔烟蒂引发火灾",
       "onboard_time": 1717457415,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379138,
-      "num": 354575,
-      "word": "官方回应幼儿园老师退儿童节演出服",
-      "onboard_time": 1717478119,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -507,20 +515,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 313280,
-      "num": 313280,
-      "word": "用95元吃了10个菜一碗面",
-      "onboard_time": 1717480877,
-      "rank": 12,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 308882,
       "num": 308882,
       "word": "田曦薇上下班反差",
       "onboard_time": 1717471517,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308497,
+      "num": 308497,
+      "word": "刘昊然 就是硬帅",
+      "onboard_time": 1717481959,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303749,
@@ -819,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198597,
+      "num": 198597,
+      "word": "Steam代安装",
+      "onboard_time": 1717481539,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 198193,
       "num": 185375,
       "word": "嫦娥六号 等我的消息",
@@ -849,14 +865,6 @@
       "onboard_time": 1717471158,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 188072,
-      "num": 168204,
-      "word": "Steam代安装",
-      "onboard_time": 1717481539,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 185624,
@@ -891,6 +899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178522,
+      "num": 178522,
+      "word": "王星越在我首页叼了一天玉佩",
+      "onboard_time": 1717481658,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176290,
       "num": 176290,
       "word": "迪丽热巴比耶撞脸表情包",
@@ -907,20 +923,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172563,
+      "num": 172563,
+      "word": "住房公积金的这些用途你get了吗",
+      "onboard_time": 1717482919,
+      "rank": 31,
+      "category": "财经,科学科普"
+    },
+    {
       "raw_hot": 170662,
       "num": 170662,
       "word": "乘风",
       "onboard_time": 1717456995,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169395,
-      "num": 169395,
-      "word": "刘昊然 就是硬帅",
-      "onboard_time": 1717481959,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 167110,
@@ -936,6 +952,14 @@
       "word": "官方回应施工坍塌实习生或被追刑责",
       "onboard_time": 1717467616,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161360,
+      "num": 161360,
+      "word": "加州大火",
+      "onboard_time": 1717482377,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -969,14 +993,6 @@
       "onboard_time": 1717452071,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 154608,
-      "num": 154608,
-      "word": "王星越在我首页叼了一天玉佩",
-      "onboard_time": 1717481658,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 152646,
@@ -1075,11 +1091,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 133272,
+      "num": 354643,
+      "word": "无陪护病房是否应该全国推广",
+      "onboard_time": 1717480817,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 132415,
       "num": 132415,
       "word": "想喝杯加了珍珠的奶茶有多难",
       "onboard_time": 1717479619,
       "rank": 36,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 132354,
+      "num": 132354,
+      "word": "陈梦打卡重庆",
+      "onboard_time": 1717482678,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132314,
+      "num": 132314,
+      "word": "粽子是蒸好还是煮好",
+      "onboard_time": 1717482678,
+      "rank": 39,
       "category": "美食"
     },
     {
@@ -1307,6 +1347,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107027,
+      "num": 107027,
+      "word": "少年夫妻纯爱变质",
+      "onboard_time": 1717483038,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106717,
+      "num": 106717,
+      "word": "航天员拍下绿色正慢慢覆盖三北沙漠",
+      "onboard_time": 1717482197,
+      "rank": 45,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 106216,
       "num": 106216,
       "word": "蔡徐坤染了银发梦回偶练",
@@ -1353,14 +1409,6 @@
       "onboard_time": 1717456636,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93291,
-      "num": 93291,
-      "word": "航天员拍下绿色正慢慢覆盖三北沙漠",
-      "onboard_time": 1717482197,
-      "rank": 45,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 92183,
@@ -1435,14 +1483,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 84114,
-      "num": 354643,
-      "word": "无陪护病房是否应该全国推广",
-      "onboard_time": 1717480817,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 83314,
       "num": 84245,
       "word": "周深A起来了",
@@ -1515,6 +1555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72281,
+      "num": 250282,
+      "word": "学校组织近千名高三生考前抓鱼减压",
+      "onboard_time": 1717479378,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 71636,
       "num": 84238,
       "word": "原来风油精还可以这样用",
@@ -1553,14 +1601,6 @@
       "onboard_time": 1717429938,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64536,
-      "num": 210977,
-      "word": "学校组织近千名高三生考前抓鱼减压",
-      "onboard_time": 1717479378,
-      "rank": 25,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 64432,
@@ -1680,6 +1720,14 @@
       "word": "航拍视角看三北工程",
       "onboard_time": 1717427120,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28264,
+      "num": 177498,
+      "word": "一人一句夸夸咱河南老乡",
+      "onboard_time": 1717483097,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
