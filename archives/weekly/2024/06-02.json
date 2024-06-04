@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717471330152,
+  "endTime": 1717472140595,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -179,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1363680,
+      "num": 1363680,
+      "word": "月球背面有了一个中国字",
+      "onboard_time": 1717467977,
+      "rank": 19,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 1319857,
       "num": 1319857,
       "word": "藏海传全阵容官宣",
@@ -329,14 +337,6 @@
       "onboard_time": 1717328418,
       "rank": 1,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1103861,
-      "num": 1103861,
-      "word": "月球背面有了一个中国字",
-      "onboard_time": 1717467977,
-      "rank": 19,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 1089979,
@@ -505,6 +505,14 @@
       "onboard_time": 1717402639,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 863336,
+      "num": 863336,
+      "word": "补习花了近70万发现老师无初中教资证",
+      "onboard_time": 1717470917,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 862983,
@@ -1363,6 +1371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 476513,
+      "num": 434600,
+      "word": "装修一口价22万开工后却又加8万",
+      "onboard_time": 1717468456,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475854,
       "num": 288884,
       "word": "王俊凯发和周杰伦合照",
@@ -1563,14 +1579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 434600,
-      "num": 434600,
-      "word": "装修一口价22万开工后却又加8万",
-      "onboard_time": 1717468456,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433050,
       "num": 334530,
       "word": "王俊凯和刘畊宏一家合照",
@@ -1651,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 418701,
+      "num": 418701,
+      "word": "孙颖莎世排第一7700分",
+      "onboard_time": 1717469057,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 417978,
       "num": 417978,
       "word": "张婧仪 古早TVB味儿",
@@ -1723,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 406309,
+      "num": 276117,
+      "word": "打工人在711吃午饭丢人吗",
+      "onboard_time": 1717466356,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404844,
       "num": 367237,
       "word": "陈梦vs张本美和",
@@ -1747,14 +1771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 402674,
-      "num": 402674,
-      "word": "孙颖莎世排第一7700分",
-      "onboard_time": 1717469057,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 402650,
       "num": 402650,
       "word": "河南警方通报男子持刀刺死女子",
@@ -1769,14 +1785,6 @@
       "onboard_time": 1717310897,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 396242,
-      "num": 396242,
-      "word": "补习花了近70万发现老师无初中教资证",
-      "onboard_time": 1717470917,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396120,
@@ -1963,14 +1971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370570,
-      "num": 276117,
-      "word": "打工人在711吃午饭丢人吗",
-      "onboard_time": 1717466356,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365177,
       "num": 214270,
       "word": "向佐问网友有李胜利电话吗",
@@ -2147,6 +2147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 330800,
+      "num": 233248,
+      "word": "男性感染HPV后大部分可能无症状",
+      "onboard_time": 1717470978,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 330138,
       "num": 330138,
       "word": "战至巅峰",
@@ -2212,7 +2220,7 @@
     },
     {
       "raw_hot": 322010,
-      "num": 322010,
+      "num": 416614,
       "word": "嫦娥六号着陆器上升器合影",
       "onboard_time": 1717468277,
       "rank": 27,
@@ -2843,6 +2851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 238836,
+      "num": 238836,
+      "word": "田曦薇上下班反差",
+      "onboard_time": 1717471517,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238375,
       "num": 201192,
       "word": "爱奇艺给杨幂开了专栏",
@@ -2979,6 +2995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229971,
+      "num": 229971,
+      "word": "王楚钦世排第一7725分",
+      "onboard_time": 1717469717,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229096,
       "num": 229096,
       "word": "中国女排澳门站2胜2负",
@@ -3107,6 +3131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221404,
+      "num": 221404,
+      "word": "韩雪 选曲投票",
+      "onboard_time": 1717471757,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220849,
       "num": 220849,
       "word": "朱一龙 我会少说多做",
@@ -3152,14 +3184,6 @@
       "word": "新加坡赛石宇奇男单冠军",
       "onboard_time": 1717327697,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 216297,
-      "num": 216297,
-      "word": "王楚钦世排第一7725分",
-      "onboard_time": 1717469717,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -3403,6 +3427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200269,
+      "num": 200269,
+      "word": "嫦娥六号",
+      "onboard_time": 1717416679,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 200024,
       "num": 200024,
       "word": "张凌赫黑天鹅芭莎封面",
@@ -3545,6 +3577,14 @@
       "onboard_time": 1717398319,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195366,
+      "num": 195366,
+      "word": "Ning谈Tarzan表现",
+      "onboard_time": 1717471158,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 194567,
@@ -4187,14 +4227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 168862,
-      "num": 167702,
-      "word": "男性感染HPV后大部分可能无症状",
-      "onboard_time": 1717470978,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168838,
       "num": 168838,
       "word": "00后穷游式环球会开心吗",
@@ -4241,6 +4273,14 @@
       "onboard_time": 1717308978,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167613,
+      "num": 167613,
+      "word": "苹果降价国产手机提价",
+      "onboard_time": 1717471517,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 167363,
@@ -4337,6 +4377,14 @@
       "onboard_time": 1717386558,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163677,
+      "num": 163677,
+      "word": "为什么听自己的声音回放觉得难听",
+      "onboard_time": 1717471997,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 163559,
@@ -4651,6 +4699,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151014,
+      "num": 151014,
+      "word": "infp都是睡觉型选手",
+      "onboard_time": 1717469237,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149815,
       "num": 149815,
       "word": "圈地榜",
@@ -4705,14 +4761,6 @@
       "onboard_time": 1717313899,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147504,
-      "num": 147504,
-      "word": "infp都是睡觉型选手",
-      "onboard_time": 1717469237,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 147124,
@@ -5107,14 +5155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132736,
-      "num": 132736,
-      "word": "Ning谈Tarzan表现",
-      "onboard_time": 1717471158,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 132002,
       "num": 132002,
       "word": "Cat回归LPL解说席",
@@ -5163,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129354,
+      "num": 129354,
+      "word": "江疏影去看了辛芷蕾话剧初步举证",
+      "onboard_time": 1717470317,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128803,
       "num": 86395,
       "word": "樊振东说向皇马学习",
@@ -5177,14 +5225,6 @@
       "onboard_time": 1717397357,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128409,
-      "num": 128409,
-      "word": "嫦娥六号",
-      "onboard_time": 1717416679,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128282,
@@ -5283,20 +5323,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126923,
+      "num": 126923,
+      "word": "和女儿终于有家了",
+      "onboard_time": 1717470857,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126894,
       "num": 126894,
       "word": "周深演唱会官宣武汉南京",
       "onboard_time": 1717306518,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126792,
-      "num": 126792,
-      "word": "和女儿终于有家了",
-      "onboard_time": 1717470857,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 126721,
@@ -5312,14 +5352,6 @@
       "word": "TMEA阵容",
       "onboard_time": 1717324637,
       "rank": 33,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 126506,
-      "num": 126506,
-      "word": "江疏影去看了辛芷蕾话剧初步举证",
-      "onboard_time": 1717470317,
-      "rank": 42,
       "category": "演出"
     },
     {
@@ -5833,6 +5865,14 @@
       "onboard_time": 1717466417,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 111172,
+      "num": 457822,
+      "word": "电蚊拍和杀虫剂一起用会着火",
+      "onboard_time": 1717470017,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 111095,
@@ -6521,14 +6561,6 @@
       "onboard_time": 1717283353,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66740,
-      "num": 457822,
-      "word": "电蚊拍和杀虫剂一起用会着火",
-      "onboard_time": 1717470017,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 64985,
