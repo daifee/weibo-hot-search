@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717463987164,
+  "endTime": 1717465244569,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -201,6 +201,14 @@
       "onboard_time": 1717330578,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1279475,
+      "num": 1279475,
+      "word": "张雪峰说最难的考试其实是中考",
+      "onboard_time": 1717462339,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1227744,
@@ -523,14 +531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 817347,
-      "num": 817347,
-      "word": "张雪峰说最难的考试其实是中考",
-      "onboard_time": 1717462339,
-      "rank": 1,
-      "category": "教育"
-    },
-    {
       "raw_hot": 798906,
       "num": 798906,
       "word": "巴菲特",
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 662608,
-      "num": 209285,
+      "num": 256653,
       "word": "原来减肥的尽头是提高代谢",
       "onboard_time": 1717458617,
       "rank": 21,
@@ -947,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 587117,
+      "num": 587117,
+      "word": "秦岚听到辛芷蕾入围白玉兰反应",
+      "onboard_time": 1717458197,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582379,
       "num": 582379,
       "word": "王楚钦状态",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1717333038,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 559772,
+      "num": 559772,
+      "word": "人民文娱评墨雨云间",
+      "onboard_time": 1717463057,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 558529,
@@ -1243,6 +1259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 488835,
+      "num": 256609,
+      "word": "三十岁是真正意义上的十八岁",
+      "onboard_time": 1717460598,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 485240,
       "num": 308724,
       "word": "编剧赵冬苓发声",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1717448892,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467932,
-      "num": 207504,
-      "word": "三十岁是真正意义上的十八岁",
-      "onboard_time": 1717460598,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 465271,
@@ -1443,6 +1459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 439534,
+      "num": 409954,
+      "word": "巴黎将扣姆巴佩3个月工资",
+      "onboard_time": 1717460598,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439393,
       "num": 387398,
       "word": "印度大选已有33名工作人员被热死",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1717329979,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431319,
-      "num": 431319,
-      "word": "秦岚听到辛芷蕾入围白玉兰反应",
-      "onboard_time": 1717458197,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 430336,
@@ -1651,14 +1667,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 398651,
-      "num": 398651,
-      "word": "巴黎将扣姆巴佩3个月工资",
-      "onboard_time": 1717460598,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 397846,
       "num": 458875,
       "word": "原来你们漫画党吃这么好",
@@ -1729,6 +1737,14 @@
       "onboard_time": 1717324399,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 388454,
+      "num": 150382,
+      "word": "做了将近七个小时的饭",
+      "onboard_time": 1717464917,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 388253,
@@ -2035,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 330050,
+      "num": 330050,
+      "word": "金俊勉公开为加沙捐款",
+      "onboard_time": 1717460358,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329960,
       "num": 329960,
       "word": "RNG教练",
@@ -2057,14 +2081,6 @@
       "onboard_time": 1717401439,
       "rank": 9,
       "category": "演出"
-    },
-    {
-      "raw_hot": 326116,
-      "num": 326116,
-      "word": "金俊勉公开为加沙捐款",
-      "onboard_time": 1717460358,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 325523,
@@ -2107,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315491,
+      "num": 315491,
+      "word": "低价买入巴菲特公司股票交易无效",
+      "onboard_time": 1717460598,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 315067,
       "num": 315067,
       "word": "迪丽热巴MV",
@@ -2139,12 +2163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308618,
-      "num": 308618,
-      "word": "人民文娱评墨雨云间",
-      "onboard_time": 1717463057,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 307716,
+      "num": 256234,
+      "word": "长期睡眠不足可能会抑郁",
+      "onboard_time": 1717463298,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 305623,
@@ -2531,14 +2555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 259290,
-      "num": 259290,
-      "word": "低价买入巴菲特公司股票交易无效",
-      "onboard_time": 1717460598,
-      "rank": 18,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 259104,
       "num": 210366,
       "word": "嗓音或影响女性择偶标准",
@@ -2569,6 +2585,14 @@
       "onboard_time": 1717301958,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255736,
+      "num": 255736,
+      "word": "董力为花2000元吃饭道歉",
+      "onboard_time": 1717464438,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 255072,
@@ -3017,6 +3041,14 @@
       "onboard_time": 1717327697,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217496,
+      "num": 217496,
+      "word": "施工坍塌事故实习生或被追刑责",
+      "onboard_time": 1717464559,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215694,
@@ -3867,6 +3899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173802,
+      "num": 149017,
+      "word": "孙颖莎发布会现场把奖杯丢了",
+      "onboard_time": 1717463959,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173453,
       "num": 173453,
       "word": "防水猫洗了半天还是干的",
@@ -3945,14 +3985,6 @@
       "onboard_time": 1717286654,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171996,
-      "num": 171996,
-      "word": "长期睡眠不足可能会抑郁",
-      "onboard_time": 1717463298,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 171926,
@@ -4427,6 +4459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151863,
+      "num": 151863,
+      "word": "坚持早睡后的身体变化",
+      "onboard_time": 1717464858,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 151240,
       "num": 151240,
       "word": "每天最佳坐站睡动时间比例出炉",
@@ -4660,7 +4700,7 @@
     },
     {
       "raw_hot": 142253,
-      "num": 210813,
+      "num": 412272,
       "word": "夏天提升幸福感的9件小事",
       "onboard_time": 1717458497,
       "rank": 20,
@@ -4761,6 +4801,14 @@
       "onboard_time": 1717423938,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 139627,
+      "num": 139627,
+      "word": "陈乔恩回应怼脸镜头",
+      "onboard_time": 1717464377,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 139218,
@@ -4913,6 +4961,14 @@
       "onboard_time": 1717394898,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129341,
+      "num": 129341,
+      "word": "曝iPhone16Pro拥有行业最窄边框",
+      "onboard_time": 1717464917,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 128803,
@@ -5833,14 +5889,6 @@
       "onboard_time": 1717295118,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 96849,
-      "num": 96849,
-      "word": "孙颖莎发布会现场把奖杯丢了",
-      "onboard_time": 1717463959,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 95929,
