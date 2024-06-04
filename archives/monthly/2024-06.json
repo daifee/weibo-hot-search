@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717533323579,
+  "endTime": 1717535872227,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -11659,6 +11659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21233,
+      "num": 21233,
+      "word": "牛奶加热后的奶皮吃了有好处吗",
+      "onboard_time": 1717531930,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21152,
       "num": 134676,
       "word": "田雨余皑磊直播",
@@ -11705,14 +11713,6 @@
       "onboard_time": 1717315637,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18751,
-      "num": 16276,
-      "word": "牛奶加热后的奶皮吃了有好处吗",
-      "onboard_time": 1717531930,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 18257,
@@ -11835,6 +11835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 13892,
+      "num": 14103,
+      "word": "粽子卖爆了",
+      "onboard_time": 1717531271,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 13510,
       "num": 14105,
       "word": "妖尾最强阵容角色预告",
@@ -11849,14 +11857,6 @@
       "onboard_time": 1717385717,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13199,
-      "num": 14103,
-      "word": "粽子卖爆了",
-      "onboard_time": 1717531271,
-      "rank": 43,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 12873,
@@ -11881,6 +11881,14 @@
       "onboard_time": 1717435513,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 12391,
+      "num": 13508,
+      "word": "被纪念币上的国家宝藏硬控了",
+      "onboard_time": 1717533430,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11543,
