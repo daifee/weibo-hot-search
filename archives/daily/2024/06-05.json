@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717539600935,
+  "endTime": 1717540594415,
   "band_list": [
     {
       "raw_hot": 924063,
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140494,
+      "num": 115667,
+      "word": "云台山回应瀑布源头是水管",
+      "onboard_time": 1717515977,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140385,
       "num": 140385,
       "word": "女子跑50公里没能归还怒砸充电宝",
@@ -163,20 +171,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132116,
+      "num": 64384,
+      "word": "吴尊在法网喊到沙哑了",
+      "onboard_time": 1717537090,
+      "rank": 12,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 127935,
       "num": 127935,
       "word": "节食减肥的尽头可能是内分泌科",
       "onboard_time": 1717507519,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 115667,
-      "num": 115667,
-      "word": "云台山回应瀑布源头是水管",
-      "onboard_time": 1717515977,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114530,
@@ -289,14 +297,6 @@
       "onboard_time": 1717499237,
       "rank": 35,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 73733,
-      "num": 49909,
-      "word": "吴尊在法网喊到沙哑了",
-      "onboard_time": 1717537090,
-      "rank": 12,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 73670,
@@ -419,8 +419,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 50031,
-      "num": 26498,
+      "raw_hot": 51574,
+      "num": 30543,
       "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
       "onboard_time": 1717524611,
       "rank": 35,
@@ -435,8 +435,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34124,
-      "num": 37044,
+      "raw_hot": 38750,
+      "num": 38750,
       "word": "辛芷蕾的松弛感绝了",
       "onboard_time": 1717507519,
       "rank": 45,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27309,
+      "num": 115823,
+      "word": "五星红旗在月亮之上",
+      "onboard_time": 1717510699,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23169,
       "num": 35358,
       "word": "墨雨云间 复仇爽剧",
@@ -467,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21865,
-      "num": 86604,
-      "word": "五星红旗在月亮之上",
-      "onboard_time": 1717510699,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 16920,
+      "num": 25741,
+      "word": "嫦娥六号月背挖宝瞬间",
+      "onboard_time": 1717527670,
+      "rank": 34,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 16712,
@@ -481,14 +489,6 @@
       "onboard_time": 1717517956,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16635,
-      "num": 20468,
-      "word": "嫦娥六号月背挖宝瞬间",
-      "onboard_time": 1717527670,
-      "rank": 34,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 16561,
