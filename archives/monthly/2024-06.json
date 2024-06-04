@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717496441484,
+  "endTime": 1717497452998,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -731,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 910619,
+      "num": 910619,
+      "word": "吴谨言观众缘",
+      "onboard_time": 1717491557,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 901446,
       "num": 444038,
       "word": "张杰谢娜关系不一般",
@@ -745,14 +753,6 @@
       "onboard_time": 1717475959,
       "rank": 3,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 898271,
-      "num": 898271,
-      "word": "吴谨言观众缘",
-      "onboard_time": 1717491557,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 882405,
@@ -1307,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 663280,
+      "num": 663280,
+      "word": "歌手",
+      "onboard_time": 1717200436,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 662816,
       "num": 587940,
       "word": "肖战重庆",
@@ -1507,6 +1515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603770,
+      "num": 171590,
+      "word": "为什么ChatGPT不火了",
+      "onboard_time": 1717493537,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 600148,
       "num": 538518,
       "word": "我国历史上的熊猫外交",
@@ -1585,14 +1601,6 @@
       "onboard_time": 1717420217,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 582209,
-      "num": 582209,
-      "word": "歌手",
-      "onboard_time": 1717200436,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 581378,
@@ -1899,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515444,
+      "num": 280107,
+      "word": "没想到榴莲也住上单间了",
+      "onboard_time": 1717495638,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 515244,
       "num": 515244,
       "word": "陈丽君 投票",
@@ -2073,14 +2089,6 @@
       "onboard_time": 1717293317,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 483466,
-      "num": 129956,
-      "word": "为什么ChatGPT不火了",
-      "onboard_time": 1717493537,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 481524,
@@ -3716,7 +3724,7 @@
     },
     {
       "raw_hot": 292447,
-      "num": 153760,
+      "num": 170543,
       "word": "荔枝十元3斤要来了",
       "onboard_time": 1717491078,
       "rank": 23,
@@ -3777,14 +3785,6 @@
       "onboard_time": 1717300817,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289373,
-      "num": 106908,
-      "word": "没想到榴莲也住上单间了",
-      "onboard_time": 1717495638,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 288301,
@@ -4139,6 +4139,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 262076,
+      "num": 262076,
+      "word": "狐妖一脉全部带蓝牙",
+      "onboard_time": 1717492878,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260885,
       "num": 260885,
       "word": "孙颖莎3比0田志希",
@@ -4249,14 +4257,6 @@
       "onboard_time": 1717314797,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252752,
-      "num": 252752,
-      "word": "狐妖一脉全部带蓝牙",
-      "onboard_time": 1717492878,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 252722,
@@ -4777,6 +4777,14 @@
       "onboard_time": 1717286115,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 221188,
+      "num": 221188,
+      "word": "杜海涛晒周杰伦演唱会plog",
+      "onboard_time": 1717494197,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 220849,
@@ -6163,20 +6171,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176781,
+      "num": 168752,
+      "word": "孙夏铃 我不想再被安排了",
+      "onboard_time": 1717497077,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176716,
       "num": 252325,
       "word": "尚雯婕回应去隔壁歌手吧",
       "onboard_time": 1717172418,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 176349,
-      "num": 126808,
-      "word": "杜海涛晒周杰伦演唱会plog",
-      "onboard_time": 1717494197,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 176290,
@@ -6980,7 +6988,7 @@
     },
     {
       "raw_hot": 156145,
-      "num": 125095,
+      "num": 146753,
       "word": "时团战至巅峰总决赛嘉宾",
       "onboard_time": 1717494558,
       "rank": 27,
@@ -7811,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136012,
+      "num": 136012,
+      "word": "肥胖会导致脑子变小",
+      "onboard_time": 1717495398,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 135719,
       "num": 135719,
       "word": "中国电影导演之夜",
@@ -8427,6 +8443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123156,
+      "num": 123156,
+      "word": "张雪峰说没有专业适合所有考生",
+      "onboard_time": 1717496537,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122848,
       "num": 122848,
       "word": "tbz票价",
@@ -8481,6 +8505,14 @@
       "onboard_time": 1717201697,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121865,
+      "num": 121865,
+      "word": "夏天常做但伤身的行为",
+      "onboard_time": 1717497318,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121419,
@@ -8641,6 +8673,14 @@
       "onboard_time": 1717466417,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117577,
+      "num": 117577,
+      "word": "金发动漫角色排名",
+      "onboard_time": 1717496838,
+      "rank": 32,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 117555,
@@ -9043,14 +9083,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 108787,
-      "num": 106829,
-      "word": "肥胖会导致脑子变小",
-      "onboard_time": 1717495398,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 108753,
       "num": 108753,
       "word": "德约科维奇vs穆塞蒂",
@@ -9233,6 +9265,14 @@
       "onboard_time": 1717227857,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105228,
+      "num": 105228,
+      "word": "这个派出所成了最安全的晚托班",
+      "onboard_time": 1717495577,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104555,
@@ -9579,14 +9619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 87033,
-      "num": 87033,
-      "word": "这个派出所成了最安全的晚托班",
-      "onboard_time": 1717495577,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86224,
       "num": 149776,
       "word": "林孝埈因观众为他加油感到自豪",
@@ -9633,6 +9665,14 @@
       "onboard_time": 1717197315,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 84520,
+      "num": 84520,
+      "word": "涂山红红爱与不爱很明显",
+      "onboard_time": 1717497377,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 84514,
@@ -9689,6 +9729,14 @@
       "onboard_time": 1717296617,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82424,
+      "num": 82424,
+      "word": "金裕贞出演亲爱的X",
+      "onboard_time": 1717497438,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 82181,
@@ -10419,6 +10467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45158,
+      "num": 295301,
+      "word": "派出所松弛感拉满还帮拍游客照",
+      "onboard_time": 1717492938,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 43639,
       "num": 459777,
       "word": "男生把夏日色彩拼成一只孔雀",
@@ -10433,6 +10489,14 @@
       "onboard_time": 1717283414,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 42758,
+      "num": 299921,
+      "word": "这些国宝被印上了纪念币",
+      "onboard_time": 1717495218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42425,
@@ -10736,14 +10800,6 @@
       "word": "中国首个重载铁路加氢站",
       "onboard_time": 1717401620,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30094,
-      "num": 299921,
-      "word": "这些国宝被印上了纪念币",
-      "onboard_time": 1717495218,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
