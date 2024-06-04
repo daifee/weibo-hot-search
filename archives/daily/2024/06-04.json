@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717483114997,
+  "endTime": 1717485514641,
   "band_list": [
     {
       "raw_hot": 1815800,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 973329,
+      "num": 907796,
+      "word": "宝马腰斩式大降价",
+      "onboard_time": 1717477159,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 943726,
       "num": 943726,
       "word": "曝iPhone16Pro拥有行业最窄边框",
@@ -99,20 +107,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 907796,
-      "num": 907796,
-      "word": "宝马腰斩式大降价",
-      "onboard_time": 1717477159,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 900676,
       "num": 900676,
       "word": "斯坦福团队道歉",
       "onboard_time": 1717475959,
       "rank": 3,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 876628,
+      "num": 392166,
+      "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
+      "onboard_time": 1717483277,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 858506,
@@ -147,20 +155,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 757625,
+      "num": 608885,
+      "word": "赵露思状态",
+      "onboard_time": 1717480758,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 725661,
       "num": 244102,
       "word": "高考建议不要穿这4种衣服",
       "onboard_time": 1717475239,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 724564,
-      "num": 608885,
-      "word": "赵露思状态",
-      "onboard_time": 1717480758,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 694866,
@@ -225,6 +233,14 @@
       "onboard_time": 1717471757,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 616953,
+      "num": 380637,
+      "word": "用95元吃了10个菜一碗面",
+      "onboard_time": 1717480877,
+      "rank": 12,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 613592,
@@ -379,12 +395,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428755,
-      "num": 313280,
-      "word": "用95元吃了10个菜一碗面",
-      "onboard_time": 1717480877,
-      "rank": 12,
-      "category": "幽默,美食"
+      "raw_hot": 425529,
+      "num": 308497,
+      "word": "刘昊然 就是硬帅",
+      "onboard_time": 1717481959,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 420592,
@@ -507,6 +523,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 321356,
+      "num": 321356,
+      "word": "Steam代安装",
+      "onboard_time": 1717481539,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 315491,
       "num": 315491,
       "word": "低价买入巴菲特公司股票交易无效",
@@ -521,14 +545,6 @@
       "onboard_time": 1717471517,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308497,
-      "num": 308497,
-      "word": "刘昊然 就是硬帅",
-      "onboard_time": 1717481959,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 303749,
@@ -553,6 +569,30 @@
       "onboard_time": 1717411697,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 285422,
+      "num": 285422,
+      "word": "文淇 可以看一下你的脸吗",
+      "onboard_time": 1717483578,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282492,
+      "num": 282492,
+      "word": "陈丽君投票",
+      "onboard_time": 1717483517,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 280990,
+      "num": 280990,
+      "word": "墨雨云间里的孔雪儿",
+      "onboard_time": 1717484538,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 277436,
@@ -585,6 +625,14 @@
       "onboard_time": 1717425858,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267562,
+      "num": 267562,
+      "word": "华天崎给陈昊宇改眼妆",
+      "onboard_time": 1717483398,
+      "rank": 15,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 265016,
@@ -627,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245922,
+      "num": 245922,
+      "word": "加州大火",
+      "onboard_time": 1717482377,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243160,
       "num": 243160,
       "word": "花儿与少年好友记",
@@ -657,6 +713,14 @@
       "onboard_time": 1717426160,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237297,
+      "num": 237297,
+      "word": "花少新加坡站",
+      "onboard_time": 1717484418,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 236725,
@@ -713,6 +777,14 @@
       "onboard_time": 1717458858,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224271,
+      "num": 224271,
+      "word": "住房公积金的这些用途你get了吗",
+      "onboard_time": 1717482919,
+      "rank": 31,
+      "category": "财经,科学科普"
     },
     {
       "raw_hot": 221750,
@@ -827,14 +899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198597,
-      "num": 198597,
-      "word": "Steam代安装",
-      "onboard_time": 1717481539,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198193,
       "num": 185375,
       "word": "嫦娥六号 等我的消息",
@@ -865,6 +929,14 @@
       "onboard_time": 1717471158,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188340,
+      "num": 188340,
+      "word": "2024年高考第一个丢准考证的同学",
+      "onboard_time": 1717484957,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 185624,
@@ -923,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172563,
-      "num": 172563,
-      "word": "住房公积金的这些用途你get了吗",
-      "onboard_time": 1717482919,
-      "rank": 31,
-      "category": "财经,科学科普"
-    },
-    {
       "raw_hot": 170662,
       "num": 170662,
       "word": "乘风",
@@ -952,14 +1016,6 @@
       "word": "官方回应施工坍塌实习生或被追刑责",
       "onboard_time": 1717467616,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161360,
-      "num": 161360,
-      "word": "加州大火",
-      "onboard_time": 1717482377,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -993,6 +1049,14 @@
       "onboard_time": 1717452071,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 154560,
+      "num": 154560,
+      "word": "粽子是蒸好还是煮好",
+      "onboard_time": 1717482678,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 152646,
@@ -1115,14 +1179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132314,
-      "num": 132314,
-      "word": "粽子是蒸好还是煮好",
-      "onboard_time": 1717482678,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 132224,
       "num": 132224,
       "word": "战至巅峰",
@@ -1233,6 +1289,14 @@
       "onboard_time": 1717427058,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119462,
+      "num": 119462,
+      "word": "云台山瀑布的源头竟是几根水管",
+      "onboard_time": 1717485257,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 119062,
@@ -1363,6 +1427,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 106405,
+      "num": 297586,
+      "word": "高考选择药物推迟经期有用吗",
+      "onboard_time": 1717484418,
+      "rank": 9,
+      "category": "教育,健康医疗"
+    },
+    {
       "raw_hot": 106216,
       "num": 106216,
       "word": "蔡徐坤染了银发梦回偶练",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1717414337,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104555,
+      "num": 104555,
+      "word": "2024LCK夏季赛媒体日",
+      "onboard_time": 1717485076,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 100052,
@@ -1409,6 +1489,14 @@
       "onboard_time": 1717456636,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95108,
+      "num": 100546,
+      "word": "T1预测HLE夺冠",
+      "onboard_time": 1717485438,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 92183,

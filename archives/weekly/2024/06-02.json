@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717483114997,
+  "endTime": 1717485514641,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973329,
+      "num": 907796,
+      "word": "宝马腰斩式大降价",
+      "onboard_time": 1717477159,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 963797,
       "num": 963797,
       "word": "女科学家把3cm鱼骨切了500多片",
@@ -499,14 +507,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 907796,
-      "num": 907796,
-      "word": "宝马腰斩式大降价",
-      "onboard_time": 1717477159,
-      "rank": 24,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 901446,
       "num": 444038,
       "word": "张杰谢娜关系不一般",
@@ -521,6 +521,14 @@
       "onboard_time": 1717475959,
       "rank": 3,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 876628,
+      "num": 392166,
+      "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
+      "onboard_time": 1717483277,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 871614,
@@ -723,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 757625,
+      "num": 608885,
+      "word": "赵露思状态",
+      "onboard_time": 1717480758,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 749909,
       "num": 325776,
       "word": "为什么茉酸奶这么贵还不干净",
@@ -801,14 +817,6 @@
       "onboard_time": 1717475239,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 724564,
-      "num": 608885,
-      "word": "赵露思状态",
-      "onboard_time": 1717480758,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 718868,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1717336401,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 616953,
+      "num": 380637,
+      "word": "用95元吃了10个菜一碗面",
+      "onboard_time": 1717480877,
+      "rank": 12,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 614545,
@@ -1739,14 +1755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428755,
-      "num": 313280,
-      "word": "用95元吃了10个菜一碗面",
-      "onboard_time": 1717480877,
-      "rank": 12,
-      "category": "幽默,美食"
-    },
-    {
       "raw_hot": 427683,
       "num": 427683,
       "word": "再也不敢用酒店的一次性用品了",
@@ -1769,6 +1777,14 @@
       "onboard_time": 1717317618,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425529,
+      "num": 308497,
+      "word": "刘昊然 就是硬帅",
+      "onboard_time": 1717481959,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 424512,
@@ -2387,6 +2403,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 321356,
+      "num": 321356,
+      "word": "Steam代安装",
+      "onboard_time": 1717481539,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 321285,
       "num": 279469,
       "word": "邓超抱的竟然是鹿晗",
@@ -2449,14 +2473,6 @@
       "onboard_time": 1717471517,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 308497,
-      "num": 308497,
-      "word": "刘昊然 就是硬帅",
-      "onboard_time": 1717481959,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 305623,
@@ -2675,6 +2691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285422,
+      "num": 285422,
+      "word": "文淇 可以看一下你的脸吗",
+      "onboard_time": 1717483578,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283061,
       "num": 283061,
       "word": "打开了关闭三年的朋友圈",
@@ -2691,12 +2715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282492,
+      "num": 282492,
+      "word": "陈丽君投票",
+      "onboard_time": 1717483517,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282470,
       "num": 233858,
       "word": "迪丽热巴第十幕MV",
       "onboard_time": 1717410618,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 280990,
+      "num": 280990,
+      "word": "墨雨云间里的孔雪儿",
+      "onboard_time": 1717484538,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 278663,
@@ -2809,6 +2849,14 @@
       "onboard_time": 1717310837,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 267562,
+      "num": 267562,
+      "word": "华天崎给陈昊宇改眼妆",
+      "onboard_time": 1717483398,
+      "rank": 15,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 266750,
@@ -2979,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245922,
+      "num": 245922,
+      "word": "加州大火",
+      "onboard_time": 1717482377,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245917,
       "num": 245917,
       "word": "美股",
@@ -3073,6 +3129,14 @@
       "onboard_time": 1717421059,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237297,
+      "num": 237297,
+      "word": "花少新加坡站",
+      "onboard_time": 1717484418,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 237268,
@@ -3305,6 +3369,14 @@
       "onboard_time": 1717377558,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 224271,
+      "num": 224271,
+      "word": "住房公积金的这些用途你get了吗",
+      "onboard_time": 1717482919,
+      "rank": 31,
+      "category": "财经,科学科普"
     },
     {
       "raw_hot": 223940,
@@ -3747,14 +3819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198597,
-      "num": 198597,
-      "word": "Steam代安装",
-      "onboard_time": 1717481539,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198369,
       "num": 198369,
       "word": "WTT",
@@ -4041,6 +4105,14 @@
       "onboard_time": 1717308258,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188340,
+      "num": 188340,
+      "word": "2024年高考第一个丢准考证的同学",
+      "onboard_time": 1717484957,
+      "rank": 26,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 188065,
@@ -4443,14 +4515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172563,
-      "num": 172563,
-      "word": "住房公积金的这些用途你get了吗",
-      "onboard_time": 1717482919,
-      "rank": 31,
-      "category": "财经,科学科普"
-    },
-    {
       "raw_hot": 172484,
       "num": 160058,
       "word": "刘晓庆不知道李维嘉有洁癖",
@@ -4747,14 +4811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161360,
-      "num": 161360,
-      "word": "加州大火",
-      "onboard_time": 1717482377,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161300,
       "num": 161300,
       "word": "香缇莫MOMO变emo",
@@ -4961,6 +5017,14 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154560,
+      "num": 154560,
+      "word": "粽子是蒸好还是煮好",
+      "onboard_time": 1717482678,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 152646,
@@ -5499,14 +5563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132314,
-      "num": 132314,
-      "word": "粽子是蒸好还是煮好",
-      "onboard_time": 1717482678,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 132002,
       "num": 132002,
       "word": "Cat回归LPL解说席",
@@ -5971,6 +6027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119462,
+      "num": 119462,
+      "word": "云台山瀑布的源头竟是几根水管",
+      "onboard_time": 1717485257,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 119326,
       "num": 119326,
       "word": "蔡徐坤水星系造型",
@@ -6419,6 +6483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106405,
+      "num": 297586,
+      "word": "高考选择药物推迟经期有用吗",
+      "onboard_time": 1717484418,
+      "rank": 9,
+      "category": "教育,健康医疗"
+    },
+    {
       "raw_hot": 106369,
       "num": 106369,
       "word": "网友爬山偶遇跨物种的旅游搭子",
@@ -6465,6 +6537,14 @@
       "onboard_time": 1717289357,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104555,
+      "num": 104555,
+      "word": "2024LCK夏季赛媒体日",
+      "onboard_time": 1717485076,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 104457,
@@ -6600,6 +6680,14 @@
       "word": "WE对战RNG",
       "onboard_time": 1717325657,
       "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 95108,
+      "num": 100546,
+      "word": "T1预测HLE夺冠",
+      "onboard_time": 1717485438,
+      "rank": 49,
       "category": "电竞"
     },
     {
