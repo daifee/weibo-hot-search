@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717474931596,
+  "endTime": 1717475755069,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -107,6 +107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1613577,
+      "num": 1613577,
+      "word": "斯坦福抄袭中国大模型",
+      "onboard_time": 1717473078,
+      "rank": 1,
+      "category": "互联网,科学科普"
+    },
+    {
       "raw_hot": 1596646,
       "num": 1596646,
       "word": "巴勒斯坦",
@@ -193,6 +201,14 @@
       "onboard_time": 1717467977,
       "rank": 19,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 1351134,
+      "num": 509235,
+      "word": "住房公积金从季取变月取",
+      "onboard_time": 1717474760,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1319857,
@@ -387,14 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1054821,
-      "num": 1054821,
-      "word": "斯坦福抄袭中国大模型",
-      "onboard_time": 1717473078,
-      "rank": 1,
-      "category": "互联网,科学科普"
-    },
-    {
       "raw_hot": 1046042,
       "num": 1017885,
       "word": "李沁一字告别庆余年",
@@ -587,8 +595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 825478,
-      "num": 825478,
+      "raw_hot": 826399,
+      "num": 826399,
       "word": "庆余年2或成上半年剧王",
       "onboard_time": 1717472720,
       "rank": 3,
@@ -995,11 +1003,11 @@
       "category": "幽默,科学科普"
     },
     {
-      "raw_hot": 609465,
-      "num": 509235,
-      "word": "住房公积金从季取变月取",
-      "onboard_time": 1717474760,
-      "rank": 10,
+      "raw_hot": 603811,
+      "num": 603811,
+      "word": "官方通报两名驴友意外落水溺亡",
+      "onboard_time": 1717473859,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1129,6 +1137,14 @@
       "onboard_time": 1717418478,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 556485,
+      "num": 455214,
+      "word": "高二男生一米九坐课桌椅弯腿驼背",
+      "onboard_time": 1717473498,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 556183,
@@ -1331,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499196,
+      "num": 499196,
+      "word": "以为王安宇去变形记了",
+      "onboard_time": 1717474338,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498049,
       "num": 498049,
       "word": "丁真自曝刚上岛跟不上节奏",
@@ -1505,14 +1529,6 @@
       "onboard_time": 1717322479,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 455214,
-      "num": 455214,
-      "word": "高二男生一米九坐课桌椅弯腿驼背",
-      "onboard_time": 1717473498,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 455055,
@@ -1691,14 +1707,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422916,
-      "num": 422916,
-      "word": "官方通报两名驴友意外落水溺亡",
-      "onboard_time": 1717473859,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 420592,
       "num": 420592,
       "word": "Uzi直播红温",
@@ -1793,6 +1801,14 @@
       "onboard_time": 1717424239,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 406888,
+      "num": 406888,
+      "word": "浙江两失联驴友被找到已无生命体征",
+      "onboard_time": 1717474760,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 406309,
@@ -2123,12 +2139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348070,
+      "num": 348070,
+      "word": "墨雨云间的狂徒",
+      "onboard_time": 1717473679,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346876,
       "num": 346876,
       "word": "巴勒斯坦儿童",
       "onboard_time": 1717291276,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 346188,
+      "num": 346188,
+      "word": "为什么听自己的声音回放觉得难听",
+      "onboard_time": 1717471997,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 345096,
@@ -2145,14 +2177,6 @@
       "onboard_time": 1717295177,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342513,
-      "num": 342513,
-      "word": "为什么听自己的声音回放觉得难听",
-      "onboard_time": 1717471997,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 341306,
@@ -2297,6 +2321,14 @@
       "onboard_time": 1717331179,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316046,
+      "num": 316046,
+      "word": "董宇辉称高考不决定人生",
+      "onboard_time": 1717475300,
+      "rank": 18,
+      "category": "网红,教育"
     },
     {
       "raw_hot": 315491,
@@ -2851,14 +2883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 247879,
-      "num": 247879,
-      "word": "以为王安宇去变形记了",
-      "onboard_time": 1717474338,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 246402,
       "num": 204742,
       "word": "樊振东3比1张本智和",
@@ -2907,6 +2931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242471,
+      "num": 242471,
+      "word": "吃一个粽子要消化多久",
+      "onboard_time": 1717475180,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 240593,
       "num": 240593,
       "word": "高考倒计时",
@@ -2921,14 +2953,6 @@
       "onboard_time": 1717370715,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 239505,
-      "num": 239505,
-      "word": "墨雨云间的狂徒",
-      "onboard_time": 1717473679,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 238375,
@@ -2977,6 +3001,14 @@
       "onboard_time": 1717471517,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 236592,
+      "num": 939242,
+      "word": "五星红旗在月球背面成功展开",
+      "onboard_time": 1717473798,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236410,
@@ -3235,14 +3267,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 218623,
-      "num": 218623,
-      "word": "浙江两失联驴友被找到已无生命体征",
-      "onboard_time": 1717474760,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 218374,
       "num": 218374,
       "word": "JDG教练吕成林",
@@ -3265,6 +3289,14 @@
       "onboard_time": 1717327697,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216271,
+      "num": 210799,
+      "word": "陈乔恩上次演反派是东方不败",
+      "onboard_time": 1717474279,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 215694,
@@ -3297,6 +3329,14 @@
       "onboard_time": 1717385297,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210799,
+      "num": 210798,
+      "word": "小小年纪就有了总裁相",
+      "onboard_time": 1717475060,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 210589,
@@ -3457,6 +3497,14 @@
       "onboard_time": 1717297217,
       "rank": 9,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 203585,
+      "num": 203585,
+      "word": "高考建议不要穿这4种衣服",
+      "onboard_time": 1717475239,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 203197,
@@ -3627,6 +3675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197319,
+      "num": 197319,
+      "word": "广东人吃辣已经是nextlevel",
+      "onboard_time": 1717475000,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 196840,
       "num": 222037,
       "word": "太阳连续爆发三次耀斑",
@@ -3737,14 +3793,6 @@
       "onboard_time": 1717390761,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193487,
-      "num": 939242,
-      "word": "五星红旗在月球背面成功展开",
-      "onboard_time": 1717473798,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193304,
@@ -4065,14 +4113,6 @@
       "onboard_time": 1717402818,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 178494,
-      "num": 178494,
-      "word": "陈乔恩上次演反派是东方不败",
-      "onboard_time": 1717474279,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 178251,
@@ -4753,6 +4793,14 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154147,
+      "num": 154147,
+      "word": "四川地震",
+      "onboard_time": 1717475660,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152646,
@@ -6363,6 +6411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89787,
+      "num": 512191,
+      "word": "未成年人打赏都能追回吗",
+      "onboard_time": 1717473622,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 87679,
       "num": 1082620,
       "word": "文脉华章",
@@ -6675,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64432,
+      "num": 270637,
+      "word": "平均年龄超50岁的女子龙舟队",
+      "onboard_time": 1717475660,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63577,
       "num": 1026740,
       "word": "月面软着陆背后的发动机奥秘",
@@ -6689,14 +6753,6 @@
       "onboard_time": 1717457055,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62113,
-      "num": 512191,
-      "word": "未成年人打赏都能追回吗",
-      "onboard_time": 1717473622,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 62090,
