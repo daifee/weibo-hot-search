@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717457680544,
+  "endTime": 1717463987164,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1375639,
+      "num": 430924,
+      "word": "清华博士送水泥戒指求婚被嘲笑",
+      "onboard_time": 1717458677,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1375159,
       "num": 540580,
       "word": "杜海涛又又又瘦了",
@@ -361,6 +369,14 @@
       "onboard_time": 1717317618,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1184332,
+      "num": 1184332,
+      "word": "以色列已接受拜登三步走停火方案",
+      "onboard_time": 1717459038,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1183714,
@@ -755,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 817347,
+      "num": 817347,
+      "word": "张雪峰说最难的考试其实是中考",
+      "onboard_time": 1717462339,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 806323,
       "num": 806323,
       "word": "900万网红大V被禁言",
@@ -849,6 +873,14 @@
       "onboard_time": 1717228158,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 767733,
+      "num": 767733,
+      "word": "早睡真能解决生活中大部分的问题",
+      "onboard_time": 1717427599,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 766919,
@@ -955,14 +987,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 737385,
-      "num": 535078,
-      "word": "早睡真能解决生活中大部分的问题",
-      "onboard_time": 1717427599,
-      "rank": 46,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 736115,
       "num": 736115,
       "word": "天王的爸天后的妈 破碎的家顶流的他",
@@ -1059,12 +1083,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 676837,
+      "num": 676837,
+      "word": "范丞丞受伤",
+      "onboard_time": 1717458917,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 675861,
       "num": 294770,
       "word": "怀孕女大学生发胖被误诊为肾病医治身亡",
       "onboard_time": 1717151598,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 675520,
+      "num": 675520,
+      "word": "嫦娥六号挖到月球土特产了",
+      "onboard_time": 1717460118,
+      "rank": 5,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 672083,
@@ -1097,6 +1137,14 @@
       "onboard_time": 1717325297,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 662608,
+      "num": 209285,
+      "word": "原来减肥的尽头是提高代谢",
+      "onboard_time": 1717458617,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 661554,
@@ -1305,6 +1353,14 @@
       "onboard_time": 1717377378,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 580437,
+      "num": 580437,
+      "word": "印度高温 恒河洗澡",
+      "onboard_time": 1717427719,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 578223,
@@ -1619,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498049,
+      "num": 498049,
+      "word": "丁真自曝刚上岛跟不上节奏",
+      "onboard_time": 1717437193,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496160,
       "num": 330840,
       "word": "那英好奇孙楠的双眼皮",
@@ -1779,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467932,
+      "num": 207504,
+      "word": "三十岁是真正意义上的十八岁",
+      "onboard_time": 1717460598,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 465271,
       "num": 465271,
       "word": "王星越好帅",
@@ -1899,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441531,
+      "num": 441531,
+      "word": "爹和祖母都不爱姜梨",
+      "onboard_time": 1717458738,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 441028,
       "num": 441028,
       "word": "佟梦实说会为庆余年3好好保养",
@@ -1969,6 +2049,14 @@
       "onboard_time": 1717329979,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431319,
+      "num": 431319,
+      "word": "秦岚听到辛芷蕾入围白玉兰反应",
+      "onboard_time": 1717458197,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 430336,
@@ -2139,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 409671,
-      "num": 409671,
-      "word": "丁真自曝刚上岛跟不上节奏",
-      "onboard_time": 1717437193,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 406025,
       "num": 242875,
       "word": "1个月怎么瘦了15斤",
@@ -2203,6 +2283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 398651,
+      "num": 398651,
+      "word": "巴黎将扣姆巴佩3个月工资",
+      "onboard_time": 1717460598,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397846,
       "num": 458875,
       "word": "原来你们漫画党吃这么好",
@@ -2225,14 +2313,6 @@
       "onboard_time": 1717413857,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394664,
-      "num": 394664,
-      "word": "印度高温 恒河洗澡",
-      "onboard_time": 1717427719,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394481,
@@ -2265,6 +2345,14 @@
       "onboard_time": 1717330158,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390846,
+      "num": 390846,
+      "word": "女子11次高空扔烟蒂引发火灾",
+      "onboard_time": 1717457415,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 390692,
@@ -2803,6 +2891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 326116,
+      "num": 326116,
+      "word": "金俊勉公开为加沙捐款",
+      "onboard_time": 1717460358,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326115,
       "num": 293897,
       "word": "导演希望张馨予继续瘦",
@@ -2977,6 +3073,14 @@
       "onboard_time": 1717427599,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 308618,
+      "num": 308618,
+      "word": "人民文娱评墨雨云间",
+      "onboard_time": 1717463057,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 308083,
@@ -3315,12 +3419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 277436,
+      "num": 277436,
+      "word": "广州网红天池再有1人野泳溺亡",
+      "onboard_time": 1717459097,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277125,
       "num": 277125,
       "word": "易烊千玺压腿旧照",
       "onboard_time": 1717404558,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276769,
+      "num": 202675,
+      "word": "45岁独生子决定带着妈妈上班",
+      "onboard_time": 1717456696,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275870,
@@ -3403,6 +3523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269097,
+      "num": 269097,
+      "word": "迪丽热巴新歌DanceVideo",
+      "onboard_time": 1717462939,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 268711,
       "num": 268711,
       "word": "不法人员在充电宝内安装窃听定位",
@@ -3483,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259290,
+      "num": 259290,
+      "word": "低价买入巴菲特公司股票交易无效",
+      "onboard_time": 1717460598,
+      "rank": 18,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 259104,
       "num": 210366,
       "word": "嗓音或影响女性择偶标准",
@@ -3545,14 +3681,6 @@
       "onboard_time": 1717400419,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 254699,
-      "num": 87481,
-      "word": "女子11次高空扔烟蒂引发火灾",
-      "onboard_time": 1717457415,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 254277,
@@ -3705,6 +3833,14 @@
       "onboard_time": 1717370715,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 238375,
+      "num": 201192,
+      "word": "爱奇艺给杨幂开了专栏",
+      "onboard_time": 1717448411,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 238320,
@@ -3913,6 +4049,14 @@
       "onboard_time": 1717371978,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228713,
+      "num": 199892,
+      "word": "为何大家丧失了原倍速看剧的能力",
+      "onboard_time": 1717458858,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 227344,
@@ -4153,6 +4297,14 @@
       "onboard_time": 1717220837,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 211609,
+      "num": 211609,
+      "word": "五星红旗在月背升起",
+      "onboard_time": 1717460118,
+      "rank": 19,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 211333,
@@ -4587,6 +4739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198193,
+      "num": 185375,
+      "word": "嫦娥六号 等我的消息",
+      "onboard_time": 1717463778,
+      "rank": 30,
+      "category": "国内时政,科学科普"
+    },
+    {
       "raw_hot": 197842,
       "num": 197842,
       "word": "财政部下达2024年汽车以旧换新补贴",
@@ -4720,14 +4880,6 @@
       "word": "穿Prada的票房女王",
       "onboard_time": 1717308377,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 193752,
-      "num": 193752,
-      "word": "爱奇艺给杨幂开了专栏",
-      "onboard_time": 1717448411,
-      "rank": 3,
       "category": "艺人"
     },
     {
@@ -5003,6 +5155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185624,
+      "num": 185624,
+      "word": "陈乔恩吴谨言脸颊比心",
+      "onboard_time": 1717462099,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185158,
       "num": 185158,
       "word": "孙楠感谢每一位观众",
@@ -5275,14 +5435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174734,
-      "num": 127121,
-      "word": "45岁独生子决定带着妈妈上班",
-      "onboard_time": 1717456696,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174712,
       "num": 174712,
       "word": "我少将喊话泽连斯基到底在为何而战",
@@ -5417,6 +5569,14 @@
       "onboard_time": 1717286654,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171996,
+      "num": 171996,
+      "word": "长期睡眠不足可能会抑郁",
+      "onboard_time": 1717463298,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171926,
@@ -6099,6 +6259,14 @@
       "category": "综艺,作品衍生"
     },
     {
+      "raw_hot": 152646,
+      "num": 152646,
+      "word": "于正新剧",
+      "onboard_time": 1717461857,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152581,
       "num": 180728,
       "word": "WBG对战IG",
@@ -6153,6 +6321,14 @@
       "onboard_time": 1717219937,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151240,
+      "num": 151240,
+      "word": "每天最佳坐站睡动时间比例出炉",
+      "onboard_time": 1717460298,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151206,
@@ -6473,6 +6649,22 @@
       "onboard_time": 1717295058,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142312,
+      "num": 142312,
+      "word": "姆巴佩正式加盟皇马",
+      "onboard_time": 1717458317,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142253,
+      "num": 210813,
+      "word": "夏天提升幸福感的9件小事",
+      "onboard_time": 1717458497,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 142252,
@@ -6875,6 +7067,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 129574,
+      "num": 129574,
+      "word": "现在我只在乎三件事",
+      "onboard_time": 1717463178,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129559,
       "num": 129559,
       "word": "墨雨云间破优酷首日记录",
@@ -6955,6 +7155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127440,
+      "num": 127440,
+      "word": "沈小婷新闻图",
+      "onboard_time": 1717461497,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127398,
       "num": 127398,
       "word": "黎深 共赴巫山神女祭祀",
@@ -7009,6 +7217,14 @@
       "onboard_time": 1717307238,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126970,
+      "num": 126970,
+      "word": "美股所有错误交易被视为无效",
+      "onboard_time": 1717460598,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 126894,
@@ -7491,6 +7707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 115728,
+      "num": 115728,
+      "word": "肖战藏海传饭制伪预告",
+      "onboard_time": 1717458738,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115241,
       "num": 115241,
       "word": "周深跳撕张真源",
@@ -7587,6 +7811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112327,
+      "num": 112327,
+      "word": "王星越评价夺人妻新赛道",
+      "onboard_time": 1717456276,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112255,
       "num": 112255,
       "word": "4个方法教你有效护眼",
@@ -7609,14 +7841,6 @@
       "onboard_time": 1717240818,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 112061,
-      "num": 112061,
-      "word": "王星越评价夺人妻新赛道",
-      "onboard_time": 1717456276,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 111990,
@@ -7665,6 +7889,14 @@
       "onboard_time": 1717339580,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110225,
+      "num": 110225,
+      "word": "赵露思的出片秘密",
+      "onboard_time": 1717460660,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 109841,
@@ -8067,6 +8299,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 96849,
+      "num": 96849,
+      "word": "孙颖莎发布会现场把奖杯丢了",
+      "onboard_time": 1717463959,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96786,
       "num": 96786,
       "word": "狗子偷吃折耳根哐哐一顿炫",
@@ -8368,6 +8608,14 @@
       "word": "月背再次迎来中国的航天器",
       "onboard_time": 1717331539,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77248,
+      "num": 205628,
+      "word": "男子意外落水后抱头漂浮",
+      "onboard_time": 1717462698,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -8673,6 +8921,14 @@
       "onboard_time": 1717340301,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 60899,
+      "num": 786458,
+      "word": "中国探月工程不断刷新月球探测纪录",
+      "onboard_time": 1717426759,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59903,
@@ -9112,14 +9368,6 @@
       "word": "父女雨天摔倒路人帮忙细节拉满",
       "onboard_time": 1717313778,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37707,
-      "num": 439596,
-      "word": "中国探月工程不断刷新月球探测纪录",
-      "onboard_time": 1717426759,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
