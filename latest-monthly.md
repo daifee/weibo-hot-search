@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/05 00:24:46
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/05 00:40:27
 </p>
 </blockquote>
 <p>
@@ -5043,6 +5043,12 @@ BABYMONSTER将出演下周MCD（热度：184385）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E6%9B%9D%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E6%B0%B4%E6%9E%9C%E6%8D%9E%E9%AC%BC%E7%A7%A4%23" target="weibo">
+B太曝长沙夜市水果捞鬼秤（热度：172447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%85%88%E7%A7%A6%E6%B7%91%E5%A5%B3%E6%AD%A5%23" target="weibo">
 邓超先秦淑女步（热度：172428）
 </a>
@@ -6005,12 +6011,6 @@ by2童年照曝光（热度：144632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23kwave%23" target="weibo">
 kwave（热度：141136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%90%83%E8%A1%A8%E9%9D%A2%E6%9C%80%E5%A4%A7%E6%9C%80%E6%B7%B1%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E7%9B%86%E5%9C%B0%23" target="weibo">
-月球表面最大最深最古老的盆地（热度：140829）
 </a>
 </li>
 

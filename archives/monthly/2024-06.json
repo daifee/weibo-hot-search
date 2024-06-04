@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717518286638,
+  "endTime": 1717519227693,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -6707,6 +6707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172447,
+      "num": 71376,
+      "word": "B太曝长沙夜市水果捞鬼秤",
+      "onboard_time": 1717518255,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172428,
       "num": 172428,
       "word": "邓超先秦淑女步",
@@ -10875,6 +10883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58488,
+      "num": 62379,
+      "word": "删了吧火象星座汗流浃背了",
+      "onboard_time": 1717518916,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 58131,
       "num": 58131,
       "word": "18岁长女高考后妈生3胎弟弟",
@@ -10937,6 +10953,14 @@
       "onboard_time": 1717451351,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 55208,
+      "num": 62361,
+      "word": "杨幂青丘涂山的狐狸都演过",
+      "onboard_time": 1717518854,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 54946,
@@ -11057,14 +11081,6 @@
       "onboard_time": 1717348335,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50229,
-      "num": 67759,
-      "word": "B太曝长沙夜市水果捞鬼秤",
-      "onboard_time": 1717518255,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50078,

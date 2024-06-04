@@ -1,0 +1,410 @@
+{
+  "runTime": 1717519227693,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532026,
+        "num": 532026,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717506557,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 324782,
+        "num": 399253,
+        "word": "为什么患上尿毒症的年轻人越来越多",
+        "onboard_time": 1717501818,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52956,
+        "num": 388272,
+        "word": "高铁穿过麦田氛围感拉满",
+        "onboard_time": 1717510939,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386518,
+        "num": 386518,
+        "word": "婚纱照发朋友圈被人说不好看",
+        "onboard_time": 1717510218,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334625,
+        "num": 334625,
+        "word": "董璇 天天有人哭错坟",
+        "onboard_time": 1717506617,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259144,
+        "num": 259144,
+        "word": "女子把隐翅虫当蚊子拍死差点毁容",
+        "onboard_time": 1717506376,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237126,
+        "num": 237126,
+        "word": "王星越说的姜二是姜雪宁还是姜梨",
+        "onboard_time": 1717513519,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209921,
+        "num": 209921,
+        "word": "GAI输给王鹤棣后每天苦练篮球",
+        "onboard_time": 1717513280,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200654,
+        "num": 200654,
+        "word": "40小时工作制真的不适合人类",
+        "onboard_time": 1717507758,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13876,
+        "num": 196675,
+        "word": "福宝回家2个多月体重稳定",
+        "onboard_time": 1717517956,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772153,
+        "num": 196254,
+        "word": "女子酒店洗澡被陌生男开门闯入",
+        "onboard_time": 1717514358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195749,
+        "num": 195749,
+        "word": "李赫宰曾是TFBOYS演唱会总导演",
+        "onboard_time": 1717513338,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186894,
+        "num": 186894,
+        "word": "密逃6首期录制没有杨幂",
+        "onboard_time": 1717506917,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164374,
+        "num": 164374,
+        "word": "李梦长公主好疯",
+        "onboard_time": 1717508118,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142672,
+        "num": 142672,
+        "word": "电商的仅退款政策真的合理吗",
+        "onboard_time": 1717499718,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124353,
+        "num": 124353,
+        "word": "汪文斌候任驻柬埔寨大使",
+        "onboard_time": 1717502357,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112024,
+        "num": 112024,
+        "word": "医生建议1天最多吃3个粽子",
+        "onboard_time": 1717486817,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109614,
+        "num": 109614,
+        "word": "女子跑50公里没能归还怒砸充电宝",
+        "onboard_time": 1717508358,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106372,
+        "num": 106372,
+        "word": "节食减肥的尽头可能是内分泌科",
+        "onboard_time": 1717507519,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105358,
+        "num": 105358,
+        "word": "易烊千玺或出席米兰时装周",
+        "onboard_time": 1717511299,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151929,
+        "num": 104365,
+        "word": "60块买的土狗越来越洋气了",
+        "onboard_time": 1717511660,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92588,
+        "num": 92588,
+        "word": "云台山回应瀑布源头是水管",
+        "onboard_time": 1717515977,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92385,
+        "num": 92385,
+        "word": "孙楠或唱毛不易的歌",
+        "onboard_time": 1717514838,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88179,
+        "num": 88179,
+        "word": "吴镇宇和陈楚生唱了两遍友情岁月",
+        "onboard_time": 1717514718,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85590,
+        "num": 85590,
+        "word": "于正 王一栩",
+        "onboard_time": 1717504277,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84735,
+        "num": 84735,
+        "word": "幽门螺杆菌不仅致癌还伤大脑",
+        "onboard_time": 1717506018,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82116,
+        "num": 82116,
+        "word": "张杰 雪龙吟",
+        "onboard_time": 1717513698,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76981,
+        "num": 76981,
+        "word": "宁静版vs杨幂版涂山我罩的",
+        "onboard_time": 1717509319,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71767,
+        "num": 71767,
+        "word": "两个猫猫吵架人类帮忙劝架",
+        "onboard_time": 1717511119,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71376,
+        "num": 71376,
+        "word": "墨雨云间追剧日历",
+        "onboard_time": 1717505656,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172447,
+        "num": 71376,
+        "word": "B太曝长沙夜市水果捞鬼秤",
+        "onboard_time": 1717518255,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118566,
+        "num": 70232,
+        "word": "理想汽车召回部分被裁员工",
+        "onboard_time": 1717512319,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68047,
+        "num": 68047,
+        "word": "英伟达一夜涨了一个英特尔",
+        "onboard_time": 1717502597,
+        "rank": 32,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 67476,
+        "num": 67476,
+        "word": "网传歌手歌单",
+        "onboard_time": 1717501757,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64635,
+        "num": 64635,
+        "word": "追风者 剪辑",
+        "onboard_time": 1717508538,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64322,
+        "num": 64322,
+        "word": "突然意识到同频的重要性",
+        "onboard_time": 1717512440,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63441,
+        "num": 63441,
+        "word": "陈乔恩墨雨云间妆造",
+        "onboard_time": 1717501396,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63437,
+        "num": 63437,
+        "word": "纽约地铁 永远猜不到会发生什么",
+        "onboard_time": 1717513160,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63067,
+        "num": 63067,
+        "word": "韩国将很快人口自然减少",
+        "onboard_time": 1717499237,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 62388,
+        "num": 62388,
+        "word": "吴谨言观众缘",
+        "onboard_time": 1717491557,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58488,
+        "num": 62379,
+        "word": "删了吧火象星座汗流浃背了",
+        "onboard_time": 1717518916,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 55636,
+        "num": 62367,
+        "word": "到了这个岁数肾脏可能会断崖式衰老",
+        "onboard_time": 1717513640,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55208,
+        "num": 62361,
+        "word": "杨幂青丘涂山的狐狸都演过",
+        "onboard_time": 1717518854,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51787,
+        "num": 62350,
+        "word": "女装上衣像童装裤子却越做越长",
+        "onboard_time": 1717500677,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50523,
+        "num": 62335,
+        "word": "当藏海传豫见河南",
+        "onboard_time": 1717506739,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 50182,
+        "num": 62320,
+        "word": "父子被电梯硬控一小时",
+        "onboard_time": 1717509979,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49640,
+        "num": 62309,
+        "word": "变形计高占喜订婚了",
+        "onboard_time": 1717500138,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 47310,
+        "num": 62299,
+        "word": "赵露思状态",
+        "onboard_time": 1717480758,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46486,
+        "num": 62291,
+        "word": "山东煤矿突水事故剩余7人全部找到",
+        "onboard_time": 1717511480,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44820,
+        "num": 62279,
+        "word": "蓝眼狸猫",
+        "onboard_time": 1717511239,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向冰岛当选总统致贺电#"
+    }
+  }
+}
