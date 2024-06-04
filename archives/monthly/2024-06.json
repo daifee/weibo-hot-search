@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717485514641,
+  "endTime": 1717486472709,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -627,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 950419,
+      "num": 452098,
+      "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
+      "onboard_time": 1717483277,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 943726,
       "num": 943726,
       "word": "曝iPhone16Pro拥有行业最窄边框",
@@ -728,14 +736,6 @@
       "word": "鞠婧祎绿发",
       "onboard_time": 1717222397,
       "rank": 21,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 876628,
-      "num": 392166,
-      "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
-      "onboard_time": 1717483277,
-      "rank": 3,
       "category": "作品衍生"
     },
     {
@@ -1363,6 +1363,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 650034,
+      "num": 450451,
+      "word": "用95元吃了10个菜一碗面",
+      "onboard_time": 1717480877,
+      "rank": 12,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 639056,
       "num": 639056,
       "word": "王楚钦 脚踝",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1717336401,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 616953,
-      "num": 380637,
-      "word": "用95元吃了10个菜一碗面",
-      "onboard_time": 1717480877,
-      "rank": 12,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 614545,
@@ -2179,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448158,
+      "num": 448158,
+      "word": "2024年高考第一个丢准考证的同学",
+      "onboard_time": 1717484957,
+      "rank": 26,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 447816,
       "num": 447816,
       "word": "多特蒙德vs皇马",
@@ -2348,7 +2356,7 @@
     },
     {
       "raw_hot": 425529,
-      "num": 308497,
+      "num": 337406,
       "word": "刘昊然 就是硬帅",
       "onboard_time": 1717481959,
       "rank": 29,
@@ -2971,6 +2979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 354201,
+      "num": 354201,
+      "word": "Steam代安装",
+      "onboard_time": 1717481539,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 354066,
       "num": 354066,
       "word": "欧冠决赛",
@@ -3139,6 +3155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331567,
+      "num": 331567,
+      "word": "墨雨云间里的孔雪儿",
+      "onboard_time": 1717484538,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330138,
       "num": 330138,
       "word": "战至巅峰",
@@ -3185,6 +3209,14 @@
       "onboard_time": 1717245197,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 328627,
+      "num": 328627,
+      "word": "花少新加坡站",
+      "onboard_time": 1717484418,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 326335,
@@ -3235,6 +3267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324131,
+      "num": 324131,
+      "word": "住房公积金的这些用途你get了吗",
+      "onboard_time": 1717482919,
+      "rank": 31,
+      "category": "财经,科学科普"
+    },
+    {
       "raw_hot": 323624,
       "num": 323624,
       "word": "JDG官宣无畏",
@@ -3265,14 +3305,6 @@
       "onboard_time": 1717197854,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321356,
-      "num": 321356,
-      "word": "Steam代安装",
-      "onboard_time": 1717481539,
-      "rank": 30,
-      "category": "游戏"
     },
     {
       "raw_hot": 321285,
@@ -3651,6 +3683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 286932,
+      "num": 286932,
+      "word": "加州大火",
+      "onboard_time": 1717482377,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286505,
       "num": 403625,
       "word": "孙颖莎vs早田希娜",
@@ -3729,14 +3769,6 @@
       "onboard_time": 1717410618,
       "rank": 22,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 280990,
-      "num": 280990,
-      "word": "墨雨云间里的孔雪儿",
-      "onboard_time": 1717484538,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 280191,
@@ -4155,14 +4187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245922,
-      "num": 245922,
-      "word": "加州大火",
-      "onboard_time": 1717482377,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 245917,
       "num": 245917,
       "word": "美股",
@@ -4273,14 +4297,6 @@
       "onboard_time": 1717421059,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237297,
-      "num": 237297,
-      "word": "花少新加坡站",
-      "onboard_time": 1717484418,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 237268,
@@ -4561,14 +4577,6 @@
       "onboard_time": 1717377558,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 224271,
-      "num": 224271,
-      "word": "住房公积金的这些用途你get了吗",
-      "onboard_time": 1717482919,
-      "rank": 31,
-      "category": "财经,科学科普"
     },
     {
       "raw_hot": 223940,
@@ -5603,14 +5611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188340,
-      "num": 188340,
-      "word": "2024年高考第一个丢准考证的同学",
-      "onboard_time": 1717484957,
-      "rank": 26,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 188335,
       "num": 188335,
       "word": "五哈",
@@ -6369,6 +6369,14 @@
       "onboard_time": 1717347614,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166118,
+      "num": 297586,
+      "word": "高考选择药物推迟经期有用吗",
+      "onboard_time": 1717484418,
+      "rank": 9,
+      "category": "教育,健康医疗"
     },
     {
       "raw_hot": 166059,
@@ -7779,6 +7787,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 129873,
+      "num": 129873,
+      "word": "云台山瀑布的源头竟是几根水管",
+      "onboard_time": 1717485257,
+      "rank": 38,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 129574,
       "num": 129574,
       "word": "现在我只在乎三件事",
@@ -8243,6 +8259,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 120465,
+      "num": 120465,
+      "word": "T1预测HLE夺冠",
+      "onboard_time": 1717485438,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119858,
       "num": 119858,
       "word": "石宇奇登顶世界第一",
@@ -8265,14 +8289,6 @@
       "onboard_time": 1717381697,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119462,
-      "num": 119462,
-      "word": "云台山瀑布的源头竟是几根水管",
-      "onboard_time": 1717485257,
-      "rank": 38,
-      "category": "旅游"
     },
     {
       "raw_hot": 119326,
@@ -8899,14 +8915,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 106405,
-      "num": 297586,
-      "word": "高考选择药物推迟经期有用吗",
-      "onboard_time": 1717484418,
-      "rank": 9,
-      "category": "教育,健康医疗"
-    },
-    {
       "raw_hot": 106369,
       "num": 106369,
       "word": "网友爬山偶遇跨物种的旅游搭子",
@@ -9163,14 +9171,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95108,
-      "num": 100546,
-      "word": "T1预测HLE夺冠",
-      "onboard_time": 1717485438,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 95076,
       "num": 141059,
       "word": "新加坡赛陈雨菲女单亚军",
@@ -9193,6 +9193,14 @@
       "onboard_time": 1717301058,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94186,
+      "num": 94186,
+      "word": "Natty身材",
+      "onboard_time": 1717486217,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93774,
@@ -9800,6 +9808,14 @@
       "word": "奶凶的幼儿园小朋友滑最猛的龙舟",
       "onboard_time": 1717172418,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59868,
+      "num": 234119,
+      "word": "小女孩气球飞走路人叠罗汉捉回",
+      "onboard_time": 1717483157,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
