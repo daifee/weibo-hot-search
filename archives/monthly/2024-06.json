@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717490220502,
+  "endTime": 1717492923932,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -507,6 +507,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1123291,
+      "num": 1123291,
+      "word": "医生建议1天最多吃3个粽子",
+      "onboard_time": 1717486817,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1110130,
       "num": 1110130,
       "word": "中方确认不参加乌克兰问题和平峰会",
@@ -608,14 +616,6 @@
       "word": "冰红茶直播",
       "onboard_time": 1717230738,
       "rank": 17,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 967138,
-      "num": 967138,
-      "word": "医生建议1天最多吃3个粽子",
-      "onboard_time": 1717486817,
-      "rank": 1,
       "category": "美食"
     },
     {
@@ -1419,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 633836,
+      "num": 633836,
+      "word": "高薪的聘任制公务员为何招聘遇冷",
+      "onboard_time": 1717490297,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626963,
       "num": 626963,
       "word": "提涨薪1000元都被拒该不该走",
@@ -1603,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572322,
+      "num": 572322,
+      "word": "揭榜歌手疑似曾一鸣",
+      "onboard_time": 1717487597,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 572042,
       "num": 572042,
       "word": "樊振东vs张本智和",
@@ -1617,14 +1633,6 @@
       "onboard_time": 1717166422,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 566132,
-      "num": 566132,
-      "word": "揭榜歌手疑似曾一鸣",
-      "onboard_time": 1717487597,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 566024,
@@ -2171,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458106,
+      "num": 430411,
+      "word": "高铁新增优选一等座",
+      "onboard_time": 1717486516,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456644,
       "num": 456644,
       "word": "张若昀收官长文",
@@ -2259,6 +2275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 439696,
+      "num": 439696,
+      "word": "曝TF三代8月24日成团出道",
+      "onboard_time": 1717490239,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 439534,
       "num": 409954,
       "word": "巴黎将扣姆巴佩3个月工资",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1717329979,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 430411,
-      "num": 430411,
-      "word": "高铁新增优选一等座",
-      "onboard_time": 1717486516,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430336,
@@ -2515,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413194,
+      "num": 413194,
+      "word": "吴谨言观众缘",
+      "onboard_time": 1717491557,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412962,
       "num": 412962,
       "word": "中国女排积分被日本反超",
@@ -2537,6 +2561,14 @@
       "onboard_time": 1717424239,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 408847,
+      "num": 408847,
+      "word": "墨雨云间热度值破10000",
+      "onboard_time": 1717489819,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 406309,
@@ -3779,12 +3811,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284351,
+      "num": 153760,
+      "word": "荔枝十元3斤要来了",
+      "onboard_time": 1717491078,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 283755,
       "num": 283755,
       "word": "文韬上海",
       "onboard_time": 1717228876,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283306,
+      "num": 283306,
+      "word": "德塔文认证杨幂懂学出圈",
+      "onboard_time": 1717492158,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 283061,
@@ -4427,14 +4475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 235005,
-      "num": 235005,
-      "word": "墨雨云间热度值破10000",
-      "onboard_time": 1717489819,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234874,
       "num": 183779,
       "word": "张雪峰要给员工放20天暑假",
@@ -4771,6 +4811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 216699,
+      "num": 208196,
+      "word": "龚俊给曾舜晞周雨彤发红包",
+      "onboard_time": 1717488438,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216578,
       "num": 210416,
       "word": "辛芷蕾脚底板也黑了",
@@ -4947,14 +4995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208196,
-      "num": 208196,
-      "word": "龚俊给曾舜晞周雨彤发红包",
-      "onboard_time": 1717488438,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207859,
       "num": 207859,
       "word": "不上班如何实现财富自由",
@@ -5001,6 +5041,14 @@
       "onboard_time": 1717218078,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206751,
+      "num": 206751,
+      "word": "印度股市狂跌",
+      "onboard_time": 1717487898,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 206529,
@@ -5787,6 +5835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184385,
+      "num": 152321,
+      "word": "BABYMONSTER将出演下周MCD",
+      "onboard_time": 1717491857,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184228,
       "num": 184228,
       "word": "宋雨琦章昊Ricky国内同框",
@@ -5849,6 +5905,14 @@
       "onboard_time": 1717254858,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182988,
+      "num": 410653,
+      "word": "玄武岩织成的国旗只有11.3克",
+      "onboard_time": 1717488078,
+      "rank": 28,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 181991,
@@ -5929,14 +5993,6 @@
       "onboard_time": 1717253178,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179075,
-      "num": 179075,
-      "word": "玄武岩织成的国旗只有11.3克",
-      "onboard_time": 1717488078,
-      "rank": 28,
-      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 178806,
@@ -6097,14 +6153,6 @@
       "onboard_time": 1717331719,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174962,
-      "num": 174962,
-      "word": "印度股市狂跌",
-      "onboard_time": 1717487898,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 174712,
@@ -7275,6 +7323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145322,
+      "num": 145322,
+      "word": "考试出现暂时性遗忘怎么办",
+      "onboard_time": 1717490658,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145307,
       "num": 145307,
       "word": "没想到鸡也可以当宠物",
@@ -7419,6 +7475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142165,
+      "num": 142165,
+      "word": "墨雨云间男演员 脸盲",
+      "onboard_time": 1717488797,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142124,
       "num": 142124,
       "word": "惠英红 不要一直提醒自己很苦",
@@ -7441,14 +7505,6 @@
       "onboard_time": 1717295177,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141381,
-      "num": 141381,
-      "word": "墨雨云间男演员 脸盲",
-      "onboard_time": 1717488797,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 141136,
@@ -7985,6 +8041,14 @@
       "onboard_time": 1717317557,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127934,
+      "num": 127934,
+      "word": "王珞丹妈妈说可以不结婚",
+      "onboard_time": 1717489338,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 127808,
@@ -8635,14 +8699,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114960,
-      "num": 114960,
-      "word": "王珞丹妈妈说可以不结婚",
-      "onboard_time": 1717489338,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114585,
       "num": 1703193,
       "word": "千里江山图藏着人间烟火",
@@ -8801,6 +8857,14 @@
       "onboard_time": 1717236197,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111313,
+      "num": 409600,
+      "word": "2299元儿童手表绑架家长了吗",
+      "onboard_time": 1717491617,
+      "rank": 9,
+      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 111172,
@@ -9075,6 +9139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105947,
+      "num": 105947,
+      "word": "TheShy发博感谢粉丝",
+      "onboard_time": 1717492698,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105414,
       "num": 105414,
       "word": "小猫咪也很讨厌下雨",
@@ -9339,6 +9411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93270,
+      "num": 93270,
+      "word": "印度遭股债汇三杀",
+      "onboard_time": 1717492098,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "安切洛蒂水平",
@@ -9369,6 +9449,14 @@
       "onboard_time": 1717230917,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 88474,
+      "num": 88474,
+      "word": "狐妖一脉全部带蓝牙",
+      "onboard_time": 1717492878,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 87914,
@@ -9417,6 +9505,14 @@
       "onboard_time": 1717257258,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86224,
+      "num": 86224,
+      "word": "林孝埈因观众为他加油感到自豪",
+      "onboard_time": 1717490239,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85027,
@@ -9889,6 +9985,14 @@
       "onboard_time": 1717457055,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62921,
+      "num": 653286,
+      "word": "我国一批重大工程进度条刷新",
+      "onboard_time": 1717491679,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62090,
