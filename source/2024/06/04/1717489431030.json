@@ -1,0 +1,410 @@
+{
+  "runTime": 1717489431030,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1218017,
+        "num": 1218017,
+        "word": "2024年高考第一个丢准考证的同学",
+        "onboard_time": 1717484957,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 920218,
+        "num": 920218,
+        "word": "医生建议1天最多吃3个粽子",
+        "onboard_time": 1717486817,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110410,
+        "num": 883636,
+        "word": "五星红旗在月球背面成功展开",
+        "onboard_time": 1717473798,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 852897,
+        "num": 852897,
+        "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
+        "onboard_time": 1717483277,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 555264,
+        "num": 555264,
+        "word": "揭榜歌手疑似曾一鸣",
+        "onboard_time": 1717487597,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412767,
+        "num": 412767,
+        "word": "高铁新增优选一等座",
+        "onboard_time": 1717486516,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371890,
+        "num": 371890,
+        "word": "斯坦福抄袭中国大模型",
+        "onboard_time": 1717473078,
+        "rank": 6,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 352543,
+        "num": 352543,
+        "word": "住房公积金的这些用途你get了吗",
+        "onboard_time": 1717482919,
+        "rank": 7,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 329660,
+        "num": 329660,
+        "word": "河北住房公积金从季取变月取",
+        "onboard_time": 1717474760,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64823,
+        "num": 322510,
+        "word": "小儿青少年也会有妇科病",
+        "onboard_time": 1717488018,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 321992,
+        "num": 321992,
+        "word": "用95元吃了10个菜一碗面",
+        "onboard_time": 1717480877,
+        "rank": 10,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 310077,
+        "num": 310077,
+        "word": "墨雨云间里的孔雪儿",
+        "onboard_time": 1717484538,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304849,
+        "num": 304849,
+        "word": "浙江两失联驴友被找到已无生命体征",
+        "onboard_time": 1717474760,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297922,
+        "num": 297922,
+        "word": "赵露思状态",
+        "onboard_time": 1717480758,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256353,
+        "num": 256353,
+        "word": "高考选择药物推迟经期有用吗",
+        "onboard_time": 1717484418,
+        "rank": 14,
+        "category": "教育,健康医疗"
+      },
+      {
+        "raw_hot": 236899,
+        "num": 236899,
+        "word": "TF三代杭州录制出道战",
+        "onboard_time": 1717489338,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230823,
+        "num": 230823,
+        "word": "林俊杰 这歌是这样唱的吗",
+        "onboard_time": 1717487058,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223737,
+        "num": 223737,
+        "word": "花少新加坡站",
+        "onboard_time": 1717484418,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211947,
+        "num": 211947,
+        "word": "Steam代安装",
+        "onboard_time": 1717481539,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189166,
+        "num": 210853,
+        "word": "陈丽君投票",
+        "onboard_time": 1717483517,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550520,
+        "num": 208749,
+        "word": "夏天对减肥人最善良的水果",
+        "onboard_time": 1717486877,
+        "rank": 20,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 426472,
+        "num": 205109,
+        "word": "高考建议不要穿这4种衣服",
+        "onboard_time": 1717475239,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225525,
+        "num": 201348,
+        "word": "补习花了近70万发现老师无初中教资证",
+        "onboard_time": 1717470917,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200936,
+        "num": 200936,
+        "word": "吃一个粽子要消化多久",
+        "onboard_time": 1717475180,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193636,
+        "num": 193636,
+        "word": "男性感染HPV后大部分可能无症状",
+        "onboard_time": 1717470978,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183990,
+        "num": 183990,
+        "word": "刘昊然 就是硬帅",
+        "onboard_time": 1717481959,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179152,
+        "num": 179152,
+        "word": "龚俊给曾舜晞周雨彤发红包",
+        "onboard_time": 1717488438,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174962,
+        "num": 174962,
+        "word": "印度股市狂跌",
+        "onboard_time": 1717487898,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163337,
+        "num": 163337,
+        "word": "玄武岩织成的国旗只有11.3克",
+        "onboard_time": 1717488078,
+        "rank": 28,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 162682,
+        "num": 162682,
+        "word": "华天崎给陈昊宇改眼妆",
+        "onboard_time": 1717483398,
+        "rank": 29,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 154135,
+        "num": 154135,
+        "word": "官方回应幼儿园老师退儿童节演出服",
+        "onboard_time": 1717478119,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147170,
+        "num": 147170,
+        "word": "加州大火",
+        "onboard_time": 1717482377,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146619,
+        "num": 146619,
+        "word": "文淇 可以看一下你的脸吗",
+        "onboard_time": 1717483578,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142772,
+        "num": 142772,
+        "word": "墨雨云间的狂徒",
+        "onboard_time": 1717473679,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141359,
+        "num": 141359,
+        "word": "斯坦福团队道歉",
+        "onboard_time": 1717475959,
+        "rank": 34,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 138496,
+        "num": 138496,
+        "word": "庆余年2或成上半年剧王",
+        "onboard_time": 1717472720,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136412,
+        "num": 136412,
+        "word": "原来动画片都是真的",
+        "onboard_time": 1717487958,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134282,
+        "num": 134282,
+        "word": "月球背面有了一个中国字",
+        "onboard_time": 1717467977,
+        "rank": 37,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 133792,
+        "num": 133792,
+        "word": "以为王安宇去变形记了",
+        "onboard_time": 1717474338,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128639,
+        "num": 128639,
+        "word": "墨雨云间男演员 脸盲",
+        "onboard_time": 1717488797,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128362,
+        "num": 128362,
+        "word": "四川地震",
+        "onboard_time": 1717475660,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122676,
+        "num": 122676,
+        "word": "Natty身材",
+        "onboard_time": 1717486217,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106526,
+        "num": 106526,
+        "word": "高二男生一米九坐课桌椅弯腿驼背",
+        "onboard_time": 1717473498,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100635,
+        "num": 100635,
+        "word": "张凌赫新郎造型",
+        "onboard_time": 1717478178,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98548,
+        "num": 98548,
+        "word": "辛芷蕾脚底板也黑了",
+        "onboard_time": 1717481359,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97689,
+        "num": 97689,
+        "word": "曝iPhone16Pro拥有行业最窄边框",
+        "onboard_time": 1717464917,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 97542,
+        "num": 97542,
+        "word": "皇马球迷喊话樊振东巴黎加油",
+        "onboard_time": 1717479319,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96459,
+        "num": 96459,
+        "word": "云台山瀑布的源头竟是几根水管",
+        "onboard_time": 1717485257,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 95787,
+        "num": 95787,
+        "word": "王珞丹妈妈说可以不结婚",
+        "onboard_time": 1717489338,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94806,
+        "num": 94806,
+        "word": "货物列车刮碰施工作业人员致6死",
+        "onboard_time": 1717489398,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥国家战略科技力量作用#"
+    }
+  }
+}
