@@ -1,0 +1,410 @@
+{
+  "runTime": 1717511737254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1289650,
+        "num": 1289650,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717506557,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 637655,
+        "num": 1127612,
+        "word": "为什么患上尿毒症的年轻人越来越多",
+        "onboard_time": 1717501818,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95206,
+        "num": 1048975,
+        "word": "高铁穿过麦田氛围感拉满",
+        "onboard_time": 1717510939,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1584816,
+        "num": 1033769,
+        "word": "董璇 天天有人哭错坟",
+        "onboard_time": 1717506617,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1005052,
+        "num": 1005052,
+        "word": "婚纱照发朋友圈被人说不好看",
+        "onboard_time": 1717510218,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 794697,
+        "num": 794697,
+        "word": "女子把隐翅虫当蚊子拍死差点毁容",
+        "onboard_time": 1717506376,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575567,
+        "num": 575567,
+        "word": "汪文斌候任驻柬埔寨大使",
+        "onboard_time": 1717502357,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 569839,
+        "num": 569839,
+        "word": "密逃6首期录制没有杨幂",
+        "onboard_time": 1717506917,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532835,
+        "num": 532835,
+        "word": "40小时工作制真的不适合人类",
+        "onboard_time": 1717507758,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 53336,
+        "num": 486010,
+        "word": "南京地铁的高考仪式感",
+        "onboard_time": 1717508659,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 441747,
+        "num": 441747,
+        "word": "李梦长公主好疯",
+        "onboard_time": 1717508118,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399073,
+        "num": 399073,
+        "word": "医生建议1天最多吃3个粽子",
+        "onboard_time": 1717486817,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 378379,
+        "num": 378379,
+        "word": "女子跑50公里没能归还怒砸充电宝",
+        "onboard_time": 1717508358,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351412,
+        "num": 351412,
+        "word": "电商的仅退款政策真的合理吗",
+        "onboard_time": 1717499718,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310588,
+        "num": 310588,
+        "word": "胡先煦喝醉后满世界找WiFi",
+        "onboard_time": 1717498579,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287811,
+        "num": 287811,
+        "word": "吴谨言观众缘",
+        "onboard_time": 1717491557,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261254,
+        "num": 261254,
+        "word": "易烊千玺或出席米兰时装周",
+        "onboard_time": 1717511299,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253710,
+        "num": 253710,
+        "word": "于正 王一栩",
+        "onboard_time": 1717504277,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248607,
+        "num": 248607,
+        "word": "追风者 剪辑",
+        "onboard_time": 1717508538,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231375,
+        "num": 231375,
+        "word": "韩国将很快人口自然减少",
+        "onboard_time": 1717499237,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 512155,
+        "num": 229825,
+        "word": "节食减肥的尽头可能是内分泌科",
+        "onboard_time": 1717507519,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404631,
+        "num": 229540,
+        "word": "幽门螺杆菌不仅致癌还伤大脑",
+        "onboard_time": 1717506018,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236700,
+        "num": 229419,
+        "word": "变形计高占喜订婚了",
+        "onboard_time": 1717500138,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227688,
+        "num": 227688,
+        "word": "宁静版vs杨幂版涂山我罩的",
+        "onboard_time": 1717509319,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171207,
+        "num": 171207,
+        "word": "当藏海传豫见河南",
+        "onboard_time": 1717506739,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 166684,
+        "num": 166684,
+        "word": "英伟达一夜涨了一个英特尔",
+        "onboard_time": 1717502597,
+        "rank": 25,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 162940,
+        "num": 162940,
+        "word": "陈乔恩墨雨云间妆造",
+        "onboard_time": 1717501396,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147544,
+        "num": 147544,
+        "word": "没想到榴莲也住上单间了",
+        "onboard_time": 1717495638,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157794,
+        "num": 147433,
+        "word": "墨雨云间追剧日历",
+        "onboard_time": 1717505656,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123136,
+        "num": 146483,
+        "word": "还没办个税汇算的抓紧了",
+        "onboard_time": 1717503257,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192585,
+        "num": 145291,
+        "word": "父子被电梯硬控一小时",
+        "onboard_time": 1717509979,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191154,
+        "num": 144074,
+        "word": "两个猫猫吵架人类帮忙劝架",
+        "onboard_time": 1717511119,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143994,
+        "num": 143994,
+        "word": "网传歌手歌单",
+        "onboard_time": 1717501757,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141565,
+        "num": 141565,
+        "word": "2299元儿童手表绑架家长了吗",
+        "onboard_time": 1717491617,
+        "rank": 33,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 140590,
+        "num": 140590,
+        "word": "夏天对减肥人最善良的水果",
+        "onboard_time": 1717486877,
+        "rank": 34,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 137622,
+        "num": 137622,
+        "word": "辛芷蕾的松弛感绝了",
+        "onboard_time": 1717507519,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136492,
+        "num": 136492,
+        "word": "制片人吴明正替王一博发声",
+        "onboard_time": 1717511539,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132013,
+        "num": 132013,
+        "word": "2024年高考第一个丢准考证的同学",
+        "onboard_time": 1717484957,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 124861,
+        "num": 124861,
+        "word": "东北十元的自助餐",
+        "onboard_time": 1717505898,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124367,
+        "num": 124367,
+        "word": "赵露思状态",
+        "onboard_time": 1717480758,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114702,
+        "num": 114702,
+        "word": "山东煤矿突水事故剩余7人全部找到",
+        "onboard_time": 1717511480,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111768,
+        "num": 111768,
+        "word": "女装上衣像童装裤子却越做越长",
+        "onboard_time": 1717500677,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111514,
+        "num": 111514,
+        "word": "怎么夸到孩子心坎里",
+        "onboard_time": 1717507038,
+        "rank": 42,
+        "category": "母婴育儿,教育"
+      },
+      {
+        "raw_hot": 110913,
+        "num": 110913,
+        "word": "60块买的土狗越来越洋气了",
+        "onboard_time": 1717511660,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101187,
+        "num": 101187,
+        "word": "蓝眼狸猫",
+        "onboard_time": 1717511239,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101072,
+        "num": 101072,
+        "word": "2幼童玩滑梯一人被踹倒坠落骨折",
+        "onboard_time": 1717497797,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100931,
+        "num": 100931,
+        "word": "印度空军一军机坠毁",
+        "onboard_time": 1717509680,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 99723,
+        "num": 99723,
+        "word": "为什么ChatGPT不火了",
+        "onboard_time": 1717493537,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99066,
+        "num": 99066,
+        "word": "菲非法坐滩军舰人员偷渔网",
+        "onboard_time": 1717509798,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93337,
+        "num": 93337,
+        "word": "处女座的感情在预设中消耗了",
+        "onboard_time": 1717500797,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向冰岛当选总统致贺电#"
+    }
+  }
+}
