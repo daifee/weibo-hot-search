@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717500880743,
+  "endTime": 1717504528748,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -113,6 +113,14 @@
       "onboard_time": 1717473078,
       "rank": 1,
       "category": "互联网,科学科普"
+    },
+    {
+      "raw_hot": 1606792,
+      "num": 1606792,
+      "word": "汪文斌候任驻柬埔寨大使",
+      "onboard_time": 1717502357,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1596646,
@@ -387,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1085924,
+      "num": 326937,
+      "word": "韩国将很快人口自然减少",
+      "onboard_time": 1717499237,
+      "rank": 30,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1077396,
       "num": 500010,
       "word": "以色列",
@@ -417,6 +433,14 @@
       "onboard_time": 1717390340,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1061915,
+      "num": 1061915,
+      "word": "电商的仅退款政策真的合理吗",
+      "onboard_time": 1717499718,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1046042,
@@ -529,14 +553,6 @@
       "onboard_time": 1717334360,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 921120,
-      "num": 267661,
-      "word": "韩国将很快人口自然减少",
-      "onboard_time": 1717499237,
-      "rank": 30,
-      "category": "国外时政"
     },
     {
       "raw_hot": 912365,
@@ -907,6 +923,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 694546,
+      "num": 694546,
+      "word": "变形计高占喜订婚了",
+      "onboard_time": 1717500138,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 681546,
+      "num": 681546,
+      "word": "胡先煦喝醉后满世界找WiFi",
+      "onboard_time": 1717498579,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 679093,
       "num": 679093,
       "word": "孙颖莎女单夺冠",
@@ -1163,14 +1195,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 600654,
-      "num": 555652,
-      "word": "胡先煦喝醉后满世界找WiFi",
-      "onboard_time": 1717498579,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 600148,
       "num": 538518,
       "word": "我国历史上的熊猫外交",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1717245679,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 556004,
+      "num": 155998,
+      "word": "为什么患上尿毒症的年轻人越来越多",
+      "onboard_time": 1717501818,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 555388,
@@ -1721,6 +1753,14 @@
       "onboard_time": 1717242616,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451688,
+      "num": 451688,
+      "word": "网传歌手歌单",
+      "onboard_time": 1717501757,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 451270,
@@ -2715,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299382,
+      "num": 299382,
+      "word": "上海一号线",
+      "onboard_time": 1717500078,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298994,
       "num": 298994,
       "word": "张雪峰2026年志愿填报服务已售罄",
@@ -2825,14 +2873,6 @@
       "onboard_time": 1717300817,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 289335,
-      "num": 267521,
-      "word": "变形计高占喜订婚了",
-      "onboard_time": 1717500138,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 288853,
@@ -3171,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257414,
+      "num": 257414,
+      "word": "陈乔恩墨雨云间妆造",
+      "onboard_time": 1717501396,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256353,
       "num": 297586,
       "word": "高考选择药物推迟经期有用吗",
@@ -3332,7 +3380,7 @@
     },
     {
       "raw_hot": 242618,
-      "num": 115078,
+      "num": 148906,
       "word": "女装上衣像童装裤子却越做越长",
       "onboard_time": 1717500677,
       "rank": 30,
@@ -4299,14 +4347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191015,
-      "num": 191015,
-      "word": "上海一号线",
-      "onboard_time": 1717500078,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190969,
       "num": 170118,
       "word": "惠若琪说香港站就能看出名单了",
@@ -4729,14 +4769,6 @@
       "onboard_time": 1717392678,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174419,
-      "num": 174419,
-      "word": "电商的仅退款政策真的合理吗",
-      "onboard_time": 1717499718,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174358,
@@ -5265,6 +5297,14 @@
       "onboard_time": 1717494558,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156005,
+      "num": 156005,
+      "word": "英伟达一夜涨了一个英特尔",
+      "onboard_time": 1717502597,
+      "rank": 19,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 155990,
@@ -6115,6 +6155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127015,
+      "num": 127015,
+      "word": "小范大人的衣柜",
+      "onboard_time": 1717503917,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127004,
       "num": 127004,
       "word": "林更新录综艺点到了赵丽颖",
@@ -6249,6 +6297,14 @@
       "onboard_time": 1717405579,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125058,
+      "num": 125058,
+      "word": "行李箱没地寄存就混在假人堆里",
+      "onboard_time": 1717501877,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 125030,
@@ -6419,6 +6475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120494,
+      "num": 120494,
+      "word": "墨雨云间妆造",
+      "onboard_time": 1717499957,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120465,
       "num": 120465,
       "word": "T1预测HLE夺冠",
@@ -6571,6 +6635,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 116393,
+      "num": 116393,
+      "word": "户外过河警惕死亡V字",
+      "onboard_time": 1717501578,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 116304,
       "num": 116304,
       "word": "winter灵巧的腰",
@@ -6665,6 +6737,14 @@
       "onboard_time": 1717381638,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113705,
+      "num": 113705,
+      "word": "Ning说Able去当陪玩了",
+      "onboard_time": 1717500378,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 113296,
@@ -6763,6 +6843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110878,
+      "num": 110878,
+      "word": "张小斐仿妆",
+      "onboard_time": 1717502597,
+      "rank": 32,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 110225,
       "num": 110225,
       "word": "赵露思的出片秘密",
@@ -6801,6 +6889,14 @@
       "onboard_time": 1717290557,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 108961,
+      "num": 108961,
+      "word": "于正 王一栩",
+      "onboard_time": 1717504277,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 108822,
@@ -6881,14 +6977,6 @@
       "onboard_time": 1717341679,
       "rank": 49,
       "category": "游戏,演出"
-    },
-    {
-      "raw_hot": 107034,
-      "num": 107034,
-      "word": "Ning说Able去当陪玩了",
-      "onboard_time": 1717500378,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 107027,
@@ -7195,14 +7283,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 92880,
-      "num": 92880,
-      "word": "墨雨云间妆造",
-      "onboard_time": 1717499957,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91643,
       "num": 91643,
       "word": "吃了多少爱情的苦才写出这歌",
@@ -7233,6 +7313,14 @@
       "onboard_time": 1717473622,
       "rank": 9,
       "category": "社会新闻,社会议题"
+    },
+    {
+      "raw_hot": 87863,
+      "num": 87863,
+      "word": "处女座的感情在预设中消耗了",
+      "onboard_time": 1717500797,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 87679,
@@ -7355,6 +7443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80864,
+      "num": 341275,
+      "word": "还没办个税汇算的抓紧了",
+      "onboard_time": 1717503257,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80499,
       "num": 80499,
       "word": "迪丽热巴微博生日惊喜",
@@ -7451,20 +7547,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74575,
-      "num": 74575,
-      "word": "处女座的感情在预设中消耗了",
-      "onboard_time": 1717500797,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 74389,
       "num": 74389,
       "word": "上班和上学到底哪个更累",
       "onboard_time": 1717274412,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74150,
+      "num": 74150,
+      "word": "徐明浩上身LV24早秋系列",
+      "onboard_time": 1717501037,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 73574,
@@ -7508,7 +7604,7 @@
     },
     {
       "raw_hot": 71298,
-      "num": 684771,
+      "num": 739035,
       "word": "我国一批重大工程进度条刷新",
       "onboard_time": 1717491679,
       "rank": 2,
@@ -7587,12 +7683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67196,
+      "num": 67196,
+      "word": "与凶犯搏斗勇气来自二次元",
+      "onboard_time": 1717503138,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64985,
       "num": 255871,
       "word": "国乒又双叒包揽冠亚军了",
       "onboard_time": 1717429938,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64893,
+      "num": 64893,
+      "word": "物理老师用半堂课鼓励考生别紧张",
+      "onboard_time": 1717504217,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 64432,
