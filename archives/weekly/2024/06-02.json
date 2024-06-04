@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717493665237,
+  "endTime": 1717496441484,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -547,6 +547,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 898271,
+      "num": 898271,
+      "word": "吴谨言观众缘",
+      "onboard_time": 1717491557,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 871614,
       "num": 871614,
       "word": "张雪峰连麦490多分农村女孩",
@@ -867,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 709969,
+      "num": 430411,
+      "word": "高铁新增优选一等座",
+      "onboard_time": 1717486516,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694866,
       "num": 694866,
       "word": "姆巴佩",
@@ -905,6 +921,14 @@
       "onboard_time": 1717474760,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677354,
+      "num": 677354,
+      "word": "2299元儿童手表绑架家长了吗",
+      "onboard_time": 1717491617,
+      "rank": 9,
+      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 676837,
@@ -1171,6 +1195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582209,
+      "num": 582209,
+      "word": "歌手",
+      "onboard_time": 1717494797,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 581378,
       "num": 581378,
       "word": "国安机关破获一起英国MI6重大间谍案",
@@ -1225,14 +1257,6 @@
       "onboard_time": 1717301418,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 568373,
-      "num": 568373,
-      "word": "吴谨言观众缘",
-      "onboard_time": 1717491557,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 566024,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1717386981,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 536835,
-      "num": 430411,
-      "word": "高铁新增优选一等座",
-      "onboard_time": 1717486516,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530889,
@@ -1539,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483466,
+      "num": 129956,
+      "word": "为什么ChatGPT不火了",
+      "onboard_time": 1717493537,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 479775,
       "num": 299156,
       "word": "王阳说没有待播的戏后面就没饭吃",
@@ -1720,6 +1744,14 @@
       "word": "佟梦实说会为庆余年3好好保养",
       "onboard_time": 1717332319,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 440373,
+      "num": 440373,
+      "word": "德塔文认证杨幂懂学出圈",
+      "onboard_time": 1717492158,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -1959,14 +1991,6 @@
       "num": 408847,
       "word": "墨雨云间热度值破10000",
       "onboard_time": 1717489819,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 408188,
-      "num": 408188,
-      "word": "德塔文认证杨幂懂学出圈",
-      "onboard_time": 1717492158,
       "rank": 14,
       "category": "剧集"
     },
@@ -2771,6 +2795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289373,
+      "num": 106908,
+      "word": "没想到榴莲也住上单间了",
+      "onboard_time": 1717495638,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 288301,
       "num": 288301,
       "word": "这英去摇龚琳娜了",
@@ -2987,6 +3019,14 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 266784,
+      "num": 266784,
+      "word": "考试出现暂时性遗忘怎么办",
+      "onboard_time": 1717490658,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266750,
       "num": 390864,
       "word": "网友偶遇2024高考试卷押运车队",
@@ -3105,6 +3145,14 @@
       "onboard_time": 1717314797,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252752,
+      "num": 252752,
+      "word": "狐妖一脉全部带蓝牙",
+      "onboard_time": 1717492878,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 252496,
@@ -3835,6 +3883,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 203122,
+      "num": 203122,
+      "word": "TheShy发博感谢粉丝",
+      "onboard_time": 1717492698,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201968,
       "num": 201968,
       "word": "蔡徐坤转场变装",
@@ -4331,14 +4387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184327,
-      "num": 142851,
-      "word": "狐妖一脉全部带蓝牙",
-      "onboard_time": 1717492878,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 184228,
       "num": 184228,
       "word": "宋雨琦章昊Ricky国内同框",
@@ -4545,6 +4593,14 @@
       "onboard_time": 1717296918,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176349,
+      "num": 126808,
+      "word": "杜海涛晒周杰伦演唱会plog",
+      "onboard_time": 1717494197,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 176290,
@@ -5067,14 +5123,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 157445,
-      "num": 157445,
-      "word": "TheShy发博感谢粉丝",
-      "onboard_time": 1717492698,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 156833,
       "num": 156833,
       "word": "闵塔鲨晒迪丽热巴新高定",
@@ -5097,6 +5145,14 @@
       "onboard_time": 1717388239,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156145,
+      "num": 125095,
+      "word": "时团战至巅峰总决赛嘉宾",
+      "onboard_time": 1717494558,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 155990,
@@ -5217,14 +5273,6 @@
       "onboard_time": 1717464858,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 151409,
-      "num": 151409,
-      "word": "考试出现暂时性遗忘怎么办",
-      "onboard_time": 1717490658,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 151240,
@@ -5449,14 +5497,6 @@
       "onboard_time": 1717314257,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143535,
-      "num": 409600,
-      "word": "2299元儿童手表绑架家长了吗",
-      "onboard_time": 1717491617,
-      "rank": 9,
-      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 143325,
@@ -6627,6 +6667,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 108787,
+      "num": 106829,
+      "word": "肥胖会导致脑子变小",
+      "onboard_time": 1717495398,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108783,
       "num": 108783,
       "word": "明家好疯",
@@ -6737,14 +6785,6 @@
       "onboard_time": 1717292418,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106317,
-      "num": 106317,
-      "word": "为什么ChatGPT不火了",
-      "onboard_time": 1717493537,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 106252,
@@ -6987,6 +7027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91643,
+      "num": 91643,
+      "word": "吃了多少爱情的苦才写出这歌",
+      "onboard_time": 1717495638,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 91523,
       "num": 91523,
       "word": "安切洛蒂水平",
@@ -7035,6 +7083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87033,
+      "num": 87033,
+      "word": "这个派出所成了最安全的晚托班",
+      "onboard_time": 1717495577,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86224,
       "num": 149776,
       "word": "林孝埈因观众为他加油感到自豪",
@@ -7048,6 +7104,14 @@
       "word": "建议把干发帽换成运动毛巾",
       "onboard_time": 1717240998,
       "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 85264,
+      "num": 85264,
+      "word": "微波炉怎么不转圈了",
+      "onboard_time": 1717495458,
+      "rank": 45,
       "category": "科学科普"
     },
     {
@@ -7113,6 +7177,14 @@
       "onboard_time": 1717296617,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82041,
+      "num": 82041,
+      "word": "美国野火蔓延超过14000英亩",
+      "onboard_time": 1717493897,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80499,
@@ -7259,6 +7331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71298,
+      "num": 684771,
+      "word": "我国一批重大工程进度条刷新",
+      "onboard_time": 1717491679,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70824,
       "num": 70824,
       "word": "郑钦文无缘法网16强",
@@ -7272,14 +7352,6 @@
       "word": "共享单车儿童座椅有多危险",
       "onboard_time": 1717419619,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69923,
-      "num": 653286,
-      "word": "我国一批重大工程进度条刷新",
-      "onboard_time": 1717491679,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -7816,6 +7888,14 @@
       "word": "中国首个重载铁路加氢站",
       "onboard_time": 1717401620,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30094,
+      "num": 299921,
+      "word": "这些国宝被印上了纪念币",
+      "onboard_time": 1717495218,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

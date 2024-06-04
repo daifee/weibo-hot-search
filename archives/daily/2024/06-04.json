@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717493665237,
+  "endTime": 1717496441484,
   "band_list": [
     {
       "raw_hot": 1815800,
@@ -139,6 +139,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 898271,
+      "num": 898271,
+      "word": "吴谨言观众缘",
+      "onboard_time": 1717491557,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 858506,
       "num": 541284,
       "word": "朋友圈全开的是什么样的人",
@@ -195,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 709969,
+      "num": 430411,
+      "word": "高铁新增优选一等座",
+      "onboard_time": 1717486516,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694866,
       "num": 694866,
       "word": "姆巴佩",
@@ -209,6 +225,14 @@
       "onboard_time": 1717474760,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677354,
+      "num": 677354,
+      "word": "2299元儿童手表绑架家长了吗",
+      "onboard_time": 1717491617,
+      "rank": 9,
+      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 676837,
@@ -307,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 582209,
+      "num": 582209,
+      "word": "歌手",
+      "onboard_time": 1717494797,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 580437,
       "num": 580437,
       "word": "印度高温 恒河洗澡",
@@ -323,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 568373,
-      "num": 568373,
-      "word": "吴谨言观众缘",
-      "onboard_time": 1717491557,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 556485,
       "num": 480360,
       "word": "高二男生一米九坐课桌椅弯腿驼背",
@@ -345,14 +369,6 @@
       "onboard_time": 1717474338,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 536835,
-      "num": 430411,
-      "word": "高铁新增优选一等座",
-      "onboard_time": 1717486516,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 530138,
@@ -403,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 483466,
+      "num": 129956,
+      "word": "为什么ChatGPT不火了",
+      "onboard_time": 1717493537,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 477155,
       "num": 275953,
       "word": "长期睡眠不足可能会抑郁",
@@ -432,6 +456,14 @@
       "word": "爹和祖母都不爱姜梨",
       "onboard_time": 1717458738,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 440373,
+      "num": 440373,
+      "word": "德塔文认证杨幂懂学出圈",
+      "onboard_time": 1717492158,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -495,14 +527,6 @@
       "num": 408847,
       "word": "墨雨云间热度值破10000",
       "onboard_time": 1717489819,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 408188,
-      "num": 408188,
-      "word": "德塔文认证杨幂懂学出圈",
-      "onboard_time": 1717492158,
       "rank": 14,
       "category": "剧集"
     },
@@ -699,6 +723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 289373,
+      "num": 106908,
+      "word": "没想到榴莲也住上单间了",
+      "onboard_time": 1717495638,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286932,
       "num": 286932,
       "word": "加州大火",
@@ -763,6 +795,14 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 266784,
+      "num": 266784,
+      "word": "考试出现暂时性遗忘怎么办",
+      "onboard_time": 1717490658,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 265016,
       "num": 265016,
       "word": "海清曝温峥嵘把大学宿舍烧了",
@@ -801,6 +841,14 @@
       "onboard_time": 1717478178,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252752,
+      "num": 252752,
+      "word": "狐妖一脉全部带蓝牙",
+      "onboard_time": 1717492878,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 251684,
@@ -1011,6 +1059,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 203122,
+      "num": 203122,
+      "word": "TheShy发博感谢粉丝",
+      "onboard_time": 1717492698,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200269,
       "num": 200269,
       "word": "嫦娥六号",
@@ -1091,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184327,
-      "num": 142851,
-      "word": "狐妖一脉全部带蓝牙",
-      "onboard_time": 1717492878,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183980,
       "num": 183980,
       "word": "韩国人在广西实现水果自由",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1717481658,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176349,
+      "num": 126808,
+      "word": "杜海涛晒周杰伦演唱会plog",
+      "onboard_time": 1717494197,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 176290,
@@ -1179,12 +1235,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 157445,
-      "num": 157445,
-      "word": "TheShy发博感谢粉丝",
-      "onboard_time": 1717492698,
-      "rank": 41,
-      "category": "电竞"
+      "raw_hot": 156145,
+      "num": 125095,
+      "word": "时团战至巅峰总决赛嘉宾",
+      "onboard_time": 1717494558,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 155935,
@@ -1235,14 +1291,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 151409,
-      "num": 151409,
-      "word": "考试出现暂时性遗忘怎么办",
-      "onboard_time": 1717490658,
-      "rank": 28,
-      "category": "教育"
-    },
-    {
       "raw_hot": 151240,
       "num": 151240,
       "word": "每天最佳坐站睡动时间比例出炉",
@@ -1273,14 +1321,6 @@
       "onboard_time": 1717469237,
       "rank": 38,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 143535,
-      "num": 409600,
-      "word": "2299元儿童手表绑架家长了吗",
-      "onboard_time": 1717491617,
-      "rank": 9,
-      "category": "社会新闻,数码"
     },
     {
       "raw_hot": 142312,
@@ -1651,6 +1691,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 108787,
+      "num": 106829,
+      "word": "肥胖会导致脑子变小",
+      "onboard_time": 1717495398,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107137,
       "num": 107137,
       "word": "以为爸妈只给妹妹买了新玩具车",
@@ -1673,14 +1721,6 @@
       "onboard_time": 1717482197,
       "rank": 45,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 106317,
-      "num": 106317,
-      "word": "为什么ChatGPT不火了",
-      "onboard_time": 1717493537,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 106216,
@@ -1763,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91643,
+      "num": 91643,
+      "word": "吃了多少爱情的苦才写出这歌",
+      "onboard_time": 1717495638,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 91265,
       "num": 91265,
       "word": "美股",
@@ -1803,12 +1851,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87033,
+      "num": 87033,
+      "word": "这个派出所成了最安全的晚托班",
+      "onboard_time": 1717495577,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86224,
       "num": 149776,
       "word": "林孝埈因观众为他加油感到自豪",
       "onboard_time": 1717490239,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85264,
+      "num": 85264,
+      "word": "微波炉怎么不转圈了",
+      "onboard_time": 1717495458,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 84998,
@@ -1867,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82041,
+      "num": 82041,
+      "word": "美国野火蔓延超过14000英亩",
+      "onboard_time": 1717493897,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80587,
       "num": 84234,
       "word": "向为金色麦田上分的他们道一声辛苦",
@@ -1923,20 +1995,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 71298,
+      "num": 684771,
+      "word": "我国一批重大工程进度条刷新",
+      "onboard_time": 1717491679,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70104,
       "num": 84240,
       "word": "迪丽热巴叼花镜头",
       "onboard_time": 1717418658,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 69923,
-      "num": 653286,
-      "word": "我国一批重大工程进度条刷新",
-      "onboard_time": 1717491679,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68818,
@@ -2088,6 +2160,14 @@
       "word": "航拍视角看三北工程",
       "onboard_time": 1717427120,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30094,
+      "num": 299921,
+      "word": "这些国宝被印上了纪念币",
+      "onboard_time": 1717495218,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717496441484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 898271,
+        "num": 898271,
+        "word": "吴谨言观众缘",
+        "onboard_time": 1717491557,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 894005,
+        "num": 894005,
+        "word": "医生建议1天最多吃3个粽子",
+        "onboard_time": 1717486817,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71298,
+        "num": 684771,
+        "word": "我国一批重大工程进度条刷新",
+        "onboard_time": 1717491679,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677354,
+        "num": 677354,
+        "word": "2299元儿童手表绑架家长了吗",
+        "onboard_time": 1717491617,
+        "rank": 3,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 582209,
+        "num": 582209,
+        "word": "歌手",
+        "onboard_time": 1717494797,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495346,
+        "num": 495346,
+        "word": "2024年高考第一个丢准考证的同学",
+        "onboard_time": 1717484957,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 468360,
+        "num": 468360,
+        "word": "高薪的聘任制公务员为何招聘遇冷",
+        "onboard_time": 1717490297,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440373,
+        "num": 440373,
+        "word": "德塔文认证杨幂懂学出圈",
+        "onboard_time": 1717492158,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423207,
+        "num": 423207,
+        "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
+        "onboard_time": 1717483277,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30094,
+        "num": 299921,
+        "word": "这些国宝被印上了纪念币",
+        "onboard_time": 1717495218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709969,
+        "num": 298929,
+        "word": "高铁新增优选一等座",
+        "onboard_time": 1717486516,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297095,
+        "num": 297095,
+        "word": "曝TF三代8月24日成团出道",
+        "onboard_time": 1717490239,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266784,
+        "num": 266784,
+        "word": "考试出现暂时性遗忘怎么办",
+        "onboard_time": 1717490658,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252752,
+        "num": 252752,
+        "word": "狐妖一脉全部带蓝牙",
+        "onboard_time": 1717492878,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218014,
+        "num": 218014,
+        "word": "赵露思状态",
+        "onboard_time": 1717480758,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203122,
+        "num": 203122,
+        "word": "TheShy发博感谢粉丝",
+        "onboard_time": 1717492698,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187529,
+        "num": 187529,
+        "word": "揭榜歌手疑似曾一鸣",
+        "onboard_time": 1717487597,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169008,
+        "num": 169008,
+        "word": "斯坦福抄袭中国大模型",
+        "onboard_time": 1717473078,
+        "rank": 17,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 152285,
+        "num": 152285,
+        "word": "玄武岩织成的国旗只有11.3克",
+        "onboard_time": 1717488078,
+        "rank": 18,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 130048,
+        "num": 130048,
+        "word": "印度股市狂跌",
+        "onboard_time": 1717487898,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 483466,
+        "num": 129956,
+        "word": "为什么ChatGPT不火了",
+        "onboard_time": 1717493537,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 335903,
+        "num": 129056,
+        "word": "夏天对减肥人最善良的水果",
+        "onboard_time": 1717486877,
+        "rank": 21,
+        "category": "美食,运动健身"
+      },
+      {
+        "raw_hot": 287499,
+        "num": 127947,
+        "word": "荔枝十元3斤要来了",
+        "onboard_time": 1717491078,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247001,
+        "num": 127676,
+        "word": "高考建议不要穿这4种衣服",
+        "onboard_time": 1717475239,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 176349,
+        "num": 126808,
+        "word": "杜海涛晒周杰伦演唱会plog",
+        "onboard_time": 1717494197,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175169,
+        "num": 126234,
+        "word": "补习花了近70万发现老师无初中教资证",
+        "onboard_time": 1717470917,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163910,
+        "num": 125460,
+        "word": "墨雨云间热度值破10000",
+        "onboard_time": 1717489819,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156145,
+        "num": 125095,
+        "word": "时团战至巅峰总决赛嘉宾",
+        "onboard_time": 1717494558,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124435,
+        "num": 124435,
+        "word": "浙江两失联驴友被找到已无生命体征",
+        "onboard_time": 1717474760,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107245,
+        "num": 107245,
+        "word": "BABYMONSTER将出演下周MCD",
+        "onboard_time": 1717491857,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289373,
+        "num": 106908,
+        "word": "没想到榴莲也住上单间了",
+        "onboard_time": 1717495638,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108787,
+        "num": 106829,
+        "word": "肥胖会导致脑子变小",
+        "onboard_time": 1717495398,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105792,
+        "num": 105792,
+        "word": "TF三代杭州录制出道战",
+        "onboard_time": 1717489338,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98489,
+        "num": 98489,
+        "word": "林俊杰 这歌是这样唱的吗",
+        "onboard_time": 1717487058,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98374,
+        "num": 98374,
+        "word": "墨雨云间男演员 脸盲",
+        "onboard_time": 1717488797,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98010,
+        "num": 98010,
+        "word": "住房公积金的这些用途你get了吗",
+        "onboard_time": 1717482919,
+        "rank": 35,
+        "category": "财经,科学科普"
+      },
+      {
+        "raw_hot": 96115,
+        "num": 96115,
+        "word": "墨雨云间里的孔雪儿",
+        "onboard_time": 1717484538,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95861,
+        "num": 95861,
+        "word": "刘昊然 就是硬帅",
+        "onboard_time": 1717481959,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95791,
+        "num": 95791,
+        "word": "陈丽君投票",
+        "onboard_time": 1717483517,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94931,
+        "num": 94931,
+        "word": "吃一个粽子要消化多久",
+        "onboard_time": 1717475180,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91643,
+        "num": 91643,
+        "word": "吃了多少爱情的苦才写出这歌",
+        "onboard_time": 1717495638,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 89332,
+        "num": 89332,
+        "word": "章昊直拍",
+        "onboard_time": 1717493238,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87033,
+        "num": 87033,
+        "word": "这个派出所成了最安全的晚托班",
+        "onboard_time": 1717495577,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86492,
+        "num": 86492,
+        "word": "斯坦福团队道歉",
+        "onboard_time": 1717475959,
+        "rank": 43,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 86436,
+        "num": 86436,
+        "word": "王珞丹妈妈说可以不结婚",
+        "onboard_time": 1717489338,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85264,
+        "num": 85264,
+        "word": "微波炉怎么不转圈了",
+        "onboard_time": 1717495458,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 84987,
+        "num": 84987,
+        "word": "重新定义疆浙沪包邮",
+        "onboard_time": 1717492999,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84719,
+        "num": 84719,
+        "word": "龚俊给曾舜晞周雨彤发红包",
+        "onboard_time": 1717488438,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83076,
+        "num": 83076,
+        "word": "皇马球迷喊话樊振东巴黎加油",
+        "onboard_time": 1717479319,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82041,
+        "num": 82041,
+        "word": "美国野火蔓延超过14000英亩",
+        "onboard_time": 1717493897,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
