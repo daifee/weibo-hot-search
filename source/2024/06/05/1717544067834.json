@@ -1,0 +1,410 @@
+{
+  "runTime": 1717544067834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 612767,
+        "num": 612767,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717506557,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 369503,
+        "num": 369503,
+        "word": "2025QS世界大学排名",
+        "onboard_time": 1717542675,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63154,
+        "num": 364832,
+        "word": "五星红旗在月亮之上",
+        "onboard_time": 1717510699,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360339,
+        "num": 360339,
+        "word": "婚纱照发朋友圈被人说不好看",
+        "onboard_time": 1717510218,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335663,
+        "num": 335663,
+        "word": "为什么患上尿毒症的年轻人越来越多",
+        "onboard_time": 1717501818,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 333233,
+        "num": 333233,
+        "word": "董璇 天天有人哭错坟",
+        "onboard_time": 1717506617,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283346,
+        "num": 283346,
+        "word": "芒种",
+        "onboard_time": 1717542614,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265273,
+        "num": 265273,
+        "word": "节食减肥的尽头可能是内分泌科",
+        "onboard_time": 1717507519,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240046,
+        "num": 240046,
+        "word": "云台山回应瀑布源头是水管",
+        "onboard_time": 1717515977,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29432,
+        "num": 208421,
+        "word": "母女俩下水救溺水男孩获见义勇为奖",
+        "onboard_time": 1717542253,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 562220,
+        "num": 207480,
+        "word": "女子酒店洗澡被陌生男开门闯入",
+        "onboard_time": 1717514358,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204930,
+        "num": 204930,
+        "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
+        "onboard_time": 1717524611,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204121,
+        "num": 204121,
+        "word": "B太曝长沙夜市水果捞鬼秤",
+        "onboard_time": 1717518255,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176241,
+        "num": 176241,
+        "word": "女子把隐翅虫当蚊子拍死差点毁容",
+        "onboard_time": 1717506376,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155975,
+        "num": 155975,
+        "word": "40小时工作制真的不适合人类",
+        "onboard_time": 1717507758,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151926,
+        "num": 151926,
+        "word": "端午之后七八月份一个假都没有",
+        "onboard_time": 1717543636,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137612,
+        "num": 137612,
+        "word": "女子跑50公里没能归还怒砸充电宝",
+        "onboard_time": 1717508358,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115006,
+        "num": 115006,
+        "word": "陈乔恩墨雨云间妆造",
+        "onboard_time": 1717501396,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113778,
+        "num": 113778,
+        "word": "王星越说的姜二是姜雪宁还是姜梨",
+        "onboard_time": 1717513519,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110801,
+        "num": 110801,
+        "word": "汪文斌候任驻柬埔寨大使",
+        "onboard_time": 1717502357,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153093,
+        "num": 110767,
+        "word": "60块买的土狗越来越洋气了",
+        "onboard_time": 1717511660,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110106,
+        "num": 110106,
+        "word": "大大方方结束一段不真诚的关系",
+        "onboard_time": 1717543275,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105505,
+        "num": 105505,
+        "word": "电商的仅退款政策真的合理吗",
+        "onboard_time": 1717499718,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102508,
+        "num": 102508,
+        "word": "吴尊在法网喊到沙哑了",
+        "onboard_time": 1717537090,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 93452,
+        "num": 93452,
+        "word": "一条微博记录芒种",
+        "onboard_time": 1717543636,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88052,
+        "num": 88052,
+        "word": "幽门螺杆菌不仅致癌还伤大脑",
+        "onboard_time": 1717506018,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86219,
+        "num": 86219,
+        "word": "女装上衣像童装裤子却越做越长",
+        "onboard_time": 1717500677,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83199,
+        "num": 83199,
+        "word": "英伟达一夜涨了一个英特尔",
+        "onboard_time": 1717502597,
+        "rank": 27,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 76150,
+        "num": 76150,
+        "word": "见过熬鹰的但没见熬婴的",
+        "onboard_time": 1717543275,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74154,
+        "num": 74154,
+        "word": "李梦长公主好疯",
+        "onboard_time": 1717508118,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123417,
+        "num": 73859,
+        "word": "张艺兴发视频感谢工作人员",
+        "onboard_time": 1717543936,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86772,
+        "num": 72737,
+        "word": "理想汽车召回部分被裁员工",
+        "onboard_time": 1717512319,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 79058,
+        "num": 71826,
+        "word": "东方甄选半年股价几近腰斩",
+        "onboard_time": 1717543636,
+        "rank": 32,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 55996,
+        "num": 71155,
+        "word": "山东煤矿突水事故剩余7人全部找到",
+        "onboard_time": 1717511480,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70572,
+        "num": 70572,
+        "word": "芒有所获种有所得",
+        "onboard_time": 1717543095,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69907,
+        "num": 69907,
+        "word": "韩国将很快人口自然减少",
+        "onboard_time": 1717499237,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 69348,
+        "num": 69348,
+        "word": "父子被电梯硬控一小时",
+        "onboard_time": 1717509979,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67040,
+        "num": 67040,
+        "word": "医生建议1天最多吃3个粽子",
+        "onboard_time": 1717486817,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 64286,
+        "num": 64286,
+        "word": "密逃6首期录制没有杨幂",
+        "onboard_time": 1717506917,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63335,
+        "num": 63335,
+        "word": "五哈 搞笑",
+        "onboard_time": 1717541832,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57855,
+        "num": 57855,
+        "word": "芒种意味着什么",
+        "onboard_time": 1717544056,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56923,
+        "num": 56923,
+        "word": "李赫宰曾是TFBOYS演唱会总导演",
+        "onboard_time": 1717513338,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53456,
+        "num": 53456,
+        "word": "到了这个岁数肾脏可能会断崖式衰老",
+        "onboard_time": 1717513640,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62988,
+        "num": 53385,
+        "word": "宁静版vs杨幂版涂山我罩的",
+        "onboard_time": 1717509319,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53283,
+        "num": 53283,
+        "word": "变形计高占喜订婚了",
+        "onboard_time": 1717500138,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 50592,
+        "num": 50592,
+        "word": "当藏海传豫见河南",
+        "onboard_time": 1717506739,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 50383,
+        "num": 50383,
+        "word": "牛奶加热后的奶皮吃了有好处吗",
+        "onboard_time": 1717531930,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49949,
+        "num": 49949,
+        "word": "GAI输给王鹤棣后每天苦练篮球",
+        "onboard_time": 1717513280,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49211,
+        "num": 49211,
+        "word": "我的阿勒泰央八黄金档开播",
+        "onboard_time": 1717520473,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48193,
+        "num": 48193,
+        "word": "德约因伤退赛",
+        "onboard_time": 1717542194,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

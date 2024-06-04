@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717543212713,
+  "endTime": 1717544067834,
   "band_list": [
     {
       "raw_hot": 924063,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 612767,
+      "num": 612767,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717506557,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 533115,
       "num": 386518,
       "word": "婚纱照发朋友圈被人说不好看",
@@ -19,16 +27,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 532026,
-      "num": 532026,
-      "word": "巴勒斯坦",
-      "onboard_time": 1717506557,
-      "rank": 0,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 506652,
-      "num": 183832,
+      "num": 204121,
       "word": "B太曝长沙夜市水果捞鬼秤",
       "onboard_time": 1717518255,
       "rank": 49,
@@ -51,6 +51,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 369503,
+      "num": 369503,
+      "word": "2025QS世界大学排名",
+      "onboard_time": 1717542675,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 314501,
       "num": 314501,
       "word": "女子把隐翅虫当蚊子拍死差点毁容",
@@ -67,12 +75,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283346,
+      "num": 283346,
+      "word": "芒种",
+      "onboard_time": 1717542614,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269630,
       "num": 269630,
       "word": "GAI输给王鹤棣后每天苦练篮球",
       "onboard_time": 1717513280,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265273,
+      "num": 265273,
+      "word": "节食减肥的尽头可能是内分泌科",
+      "onboard_time": 1717507519,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 258670,
@@ -99,14 +123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 245152,
-      "num": 245152,
-      "word": "芒种",
-      "onboard_time": 1717542614,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240294,
       "num": 240294,
       "word": "李赫宰曾是TFBOYS演唱会总导演",
@@ -115,12 +131,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 240069,
-      "num": 240069,
-      "word": "节食减肥的尽头可能是内分泌科",
-      "onboard_time": 1717507519,
-      "rank": 19,
-      "category": "健康医疗"
+      "raw_hot": 204930,
+      "num": 204930,
+      "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
+      "onboard_time": 1717524611,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202614,
@@ -155,14 +171,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 171772,
-      "num": 171772,
-      "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
-      "onboard_time": 1717524611,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 167488,
       "num": 167488,
       "word": "医生建议1天最多吃3个粽子",
@@ -177,6 +185,14 @@
       "onboard_time": 1717502357,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151926,
+      "num": 151926,
+      "word": "端午之后七八月份一个假都没有",
+      "onboard_time": 1717543636,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 145791,
@@ -204,19 +220,19 @@
     },
     {
       "raw_hot": 132116,
-      "num": 78397,
+      "num": 102508,
       "word": "吴尊在法网喊到沙哑了",
       "onboard_time": 1717537090,
       "rank": 12,
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 122449,
-      "num": 122449,
-      "word": "2025QS世界大学排名",
-      "onboard_time": 1717542675,
-      "rank": 16,
-      "category": "教育"
+      "raw_hot": 123417,
+      "num": 73859,
+      "word": "张艺兴发视频感谢工作人员",
+      "onboard_time": 1717543936,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 114530,
@@ -241,6 +257,14 @@
       "onboard_time": 1717506018,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110106,
+      "num": 110106,
+      "word": "大大方方结束一段不真诚的关系",
+      "onboard_time": 1717543275,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 105740,
@@ -283,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93452,
+      "num": 93452,
+      "word": "一条微博记录芒种",
+      "onboard_time": 1717543636,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91466,
       "num": 91466,
       "word": "纽约地铁 永远猜不到会发生什么",
@@ -297,6 +329,14 @@
       "onboard_time": 1717512440,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86219,
+      "num": 86219,
+      "word": "女装上衣像童装裤子却越做越长",
+      "onboard_time": 1717500677,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85722,
@@ -331,20 +371,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 79058,
+      "num": 71826,
+      "word": "东方甄选半年股价几近腰斩",
+      "onboard_time": 1717543636,
+      "rank": 32,
+      "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 76150,
+      "num": 76150,
+      "word": "见过熬鹰的但没见熬婴的",
+      "onboard_time": 1717543275,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72947,
       "num": 72947,
       "word": "追风者 剪辑",
       "onboard_time": 1717508538,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72942,
-      "num": 72942,
-      "word": "女装上衣像童装裤子却越做越长",
-      "onboard_time": 1717500677,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72645,
@@ -371,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70572,
+      "num": 70572,
+      "word": "芒有所获种有所得",
+      "onboard_time": 1717543095,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67882,
       "num": 67882,
       "word": "到了这个岁数肾脏可能会断崖式衰老",
@@ -393,6 +449,22 @@
       "onboard_time": 1717510939,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63335,
+      "num": 63335,
+      "word": "五哈 搞笑",
+      "onboard_time": 1717541832,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63154,
+      "num": 364832,
+      "word": "五星红旗在月亮之上",
+      "onboard_time": 1717510699,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62869,
@@ -419,20 +491,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57855,
+      "num": 57855,
+      "word": "芒种意味着什么",
+      "onboard_time": 1717544056,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56920,
       "num": 67811,
       "word": "赵露思状态",
       "onboard_time": 1717480758,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 56632,
-      "num": 293182,
-      "word": "五星红旗在月亮之上",
-      "onboard_time": 1717510699,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 56573,
@@ -451,19 +523,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50383,
+      "num": 50383,
+      "word": "牛奶加热后的奶皮吃了有好处吗",
+      "onboard_time": 1717531930,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 48193,
+      "num": 48193,
+      "word": "德约因伤退赛",
+      "onboard_time": 1717542194,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47303,
       "num": 46313,
       "word": "辛芷蕾的松弛感绝了",
       "onboard_time": 1717507519,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 47119,
-      "num": 47119,
-      "word": "五哈 搞笑",
-      "onboard_time": 1717541832,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -475,24 +555,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44274,
-      "num": 44274,
-      "word": "牛奶加热后的奶皮吃了有好处吗",
-      "onboard_time": 1717531930,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 41481,
-      "num": 41481,
-      "word": "芒有所获种有所得",
-      "onboard_time": 1717543095,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32917,
-      "num": 187082,
+      "num": 208421,
       "word": "母女俩下水救溺水男孩获见义勇为奖",
       "onboard_time": 1717542253,
       "rank": 9,
