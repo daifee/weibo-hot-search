@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717504528748,
+  "endTime": 1717505442548,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -531,6 +531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1099410,
+      "num": 1099410,
+      "word": "电商的仅退款政策真的合理吗",
+      "onboard_time": 1717499718,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1089979,
       "num": 1089979,
       "word": "伊利",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 1085924,
-      "num": 326937,
+      "num": 327797,
       "word": "韩国将很快人口自然减少",
       "onboard_time": 1717499237,
       "rank": 30,
@@ -585,14 +593,6 @@
       "onboard_time": 1717390340,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1061915,
-      "num": 1061915,
-      "word": "电商的仅退款政策真的合理吗",
-      "onboard_time": 1717499718,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1046042,
@@ -1395,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 660891,
+      "num": 165164,
+      "word": "为什么患上尿毒症的年轻人越来越多",
+      "onboard_time": 1717501818,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 660239,
       "num": 660239,
       "word": "秦岚素颜好顶",
@@ -1761,14 +1769,6 @@
       "onboard_time": 1717473498,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 556004,
-      "num": 155998,
-      "word": "为什么患上尿毒症的年轻人越来越多",
-      "onboard_time": 1717501818,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 555388,
@@ -2219,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466227,
+      "num": 451688,
+      "word": "网传歌手歌单",
+      "onboard_time": 1717501757,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465271,
       "num": 465271,
       "word": "王星越好帅",
@@ -2297,14 +2305,6 @@
       "onboard_time": 1717396518,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 451688,
-      "num": 451688,
-      "word": "网传歌手歌单",
-      "onboard_time": 1717501757,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 451270,
@@ -3403,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327392,
+      "num": 327392,
+      "word": "于正 王一栩",
+      "onboard_time": 1717504277,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326335,
       "num": 203302,
       "word": "官方回应11.6元车费被收12元",
@@ -4227,6 +4235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264541,
+      "num": 264541,
+      "word": "英伟达一夜涨了一个英特尔",
+      "onboard_time": 1717502597,
+      "rank": 19,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 263639,
       "num": 263639,
       "word": "胖莎",
@@ -4508,7 +4524,7 @@
     },
     {
       "raw_hot": 242618,
-      "num": 148906,
+      "num": 165029,
       "word": "女装上衣像童装裤子却越做越长",
       "onboard_time": 1717500677,
       "rank": 30,
@@ -7099,6 +7115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156576,
+      "num": 156576,
+      "word": "小范大人的衣柜",
+      "onboard_time": 1717503917,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156447,
       "num": 156447,
       "word": "TF三代九月前或将出道",
@@ -7129,14 +7153,6 @@
       "onboard_time": 1717494558,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156005,
-      "num": 156005,
-      "word": "英伟达一夜涨了一个英特尔",
-      "onboard_time": 1717502597,
-      "rank": 19,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 155990,
@@ -7859,6 +7875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138903,
+      "num": 138903,
+      "word": "行李箱没地寄存就混在假人堆里",
+      "onboard_time": 1717501877,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138775,
       "num": 138775,
       "word": "哪些人不适合骑行锻炼",
@@ -7985,6 +8009,14 @@
       "onboard_time": 1717215677,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 135496,
+      "num": 135496,
+      "word": "户外过河警惕死亡V字",
+      "onboard_time": 1717501578,
+      "rank": 30,
+      "category": "科学科普"
     },
     {
       "raw_hot": 135426,
@@ -8323,6 +8355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127248,
+      "num": 127248,
+      "word": "墨雨云间妆造",
+      "onboard_time": 1717499957,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127241,
       "num": 127241,
       "word": "什么样的原生家庭能培养出ENFJ",
@@ -8344,14 +8384,6 @@
       "word": "云合",
       "onboard_time": 1717407019,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 127015,
-      "num": 127015,
-      "word": "小范大人的衣柜",
-      "onboard_time": 1717503917,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -8497,14 +8529,6 @@
       "onboard_time": 1717405579,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125058,
-      "num": 125058,
-      "word": "行李箱没地寄存就混在假人堆里",
-      "onboard_time": 1717501877,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 125030,
@@ -8675,6 +8699,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121310,
+      "num": 341275,
+      "word": "还没办个税汇算的抓紧了",
+      "onboard_time": 1717503257,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121088,
+      "num": 121088,
+      "word": "韩素希新木优子合照",
+      "onboard_time": 1717505296,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120992,
       "num": 120992,
       "word": "重新定义疆浙沪包邮",
@@ -8705,14 +8745,6 @@
       "onboard_time": 1717244236,
       "rank": 9,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 120494,
-      "num": 120494,
-      "word": "墨雨云间妆造",
-      "onboard_time": 1717499957,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 120465,
@@ -8867,6 +8899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117225,
+      "num": 117225,
+      "word": "马来西亚父母揭露托儿所恶行",
+      "onboard_time": 1717505057,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117096,
       "num": 117096,
       "word": "搁浅",
@@ -8905,14 +8945,6 @@
       "onboard_time": 1717413258,
       "rank": 46,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 116393,
-      "num": 116393,
-      "word": "户外过河警惕死亡V字",
-      "onboard_time": 1717501578,
-      "rank": 30,
-      "category": "科学科普"
     },
     {
       "raw_hot": 116304,
@@ -9267,14 +9299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 108961,
-      "num": 108961,
-      "word": "于正 王一栩",
-      "onboard_time": 1717504277,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108822,
       "num": 498620,
       "word": "近期樱桃会被击穿价格吗",
@@ -9465,6 +9489,22 @@
       "onboard_time": 1717227857,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105388,
+      "num": 105388,
+      "word": "处女座的感情在预设中消耗了",
+      "onboard_time": 1717500797,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 105239,
+      "num": 105239,
+      "word": "阮经天芭莎写真",
+      "onboard_time": 1717504638,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 105228,
@@ -9795,12 +9835,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 87863,
-      "num": 87863,
-      "word": "处女座的感情在预设中消耗了",
-      "onboard_time": 1717500797,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 87710,
+      "num": 87710,
+      "word": "旅行朋友圈",
+      "onboard_time": 1717505117,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 87679,
@@ -9947,6 +9987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 82567,
+      "num": 82567,
+      "word": "徐明浩上身LV24早秋系列",
+      "onboard_time": 1717501037,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 82181,
       "num": 82181,
       "word": "四川古墓出土的小破勺洗澡后成了宝",
@@ -9987,14 +10035,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 80864,
-      "num": 341275,
-      "word": "还没办个税汇算的抓紧了",
-      "onboard_time": 1717503257,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80499,
       "num": 80499,
       "word": "迪丽热巴微博生日惊喜",
@@ -10009,6 +10049,14 @@
       "onboard_time": 1717239076,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80089,
+      "num": 80089,
+      "word": "高中三年的青春杀青了",
+      "onboard_time": 1717504818,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 80078,
@@ -10048,6 +10096,14 @@
       "word": "月背再次迎来中国的航天器",
       "onboard_time": 1717331539,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77687,
+      "num": 77687,
+      "word": "山东华丰煤矿事故4人升井送医",
+      "onboard_time": 1717504757,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -10145,14 +10201,6 @@
       "onboard_time": 1717158141,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74150,
-      "num": 74150,
-      "word": "徐明浩上身LV24早秋系列",
-      "onboard_time": 1717501037,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 73574,
@@ -10505,6 +10553,14 @@
       "onboard_time": 1717310058,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56521,
+      "num": 327921,
+      "word": "英伟达市值再逼近苹果",
+      "onboard_time": 1717503438,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 56334,
