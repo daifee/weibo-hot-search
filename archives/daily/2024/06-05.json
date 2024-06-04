@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717525508327,
+  "endTime": 1717526267902,
   "band_list": [
     {
       "raw_hot": 924063,
@@ -427,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32346,
+      "num": 26316,
+      "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
+      "onboard_time": 1717524611,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29186,
       "num": 27236,
       "word": "胖人有个致命的缺点叫怕浪费",
       "onboard_time": 1717522632,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 26316,
-      "num": 26316,
-      "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
-      "onboard_time": 1717524611,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23169,
@@ -475,8 +475,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12292,
-      "num": 77842,
+      "raw_hot": 14752,
+      "num": 86604,
       "word": "五星红旗在月亮之上",
       "onboard_time": 1717510699,
       "rank": 2,
