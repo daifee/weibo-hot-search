@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717475755069,
+  "endTime": 1717478563164,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -131,6 +131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1547441,
+      "num": 1547441,
+      "word": "住房公积金从季取变月取",
+      "onboard_time": 1717474760,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1520474,
       "num": 1520474,
       "word": "端午真争气生在了周一",
@@ -201,14 +209,6 @@
       "onboard_time": 1717467977,
       "rank": 19,
       "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 1351134,
-      "num": 509235,
-      "word": "住房公积金从季取变月取",
-      "onboard_time": 1717474760,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1319857,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 900676,
+      "num": 900676,
+      "word": "斯坦福团队道歉",
+      "onboard_time": 1717475959,
+      "rank": 3,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 871614,
       "num": 871614,
       "word": "张雪峰连麦490多分农村女孩",
@@ -633,6 +641,14 @@
       "onboard_time": 1717340301,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 786297,
+      "num": 245130,
+      "word": "吃一个粽子要消化多久",
+      "onboard_time": 1717475180,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 783135,
@@ -769,6 +785,14 @@
       "onboard_time": 1717293377,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 725661,
+      "num": 244102,
+      "word": "高考建议不要穿这4种衣服",
+      "onboard_time": 1717475239,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 718868,
@@ -939,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649631,
+      "num": 649631,
+      "word": "浙江两失联驴友被找到已无生命体征",
+      "onboard_time": 1717474760,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 644721,
       "num": 155763,
       "word": "王阳 王一博",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1717466897,
       "rank": 15,
       "category": "幽默,科学科普"
+    },
+    {
+      "raw_hot": 605310,
+      "num": 605310,
+      "word": "四川地震",
+      "onboard_time": 1717475660,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 603811,
@@ -1140,7 +1180,7 @@
     },
     {
       "raw_hot": 556485,
-      "num": 455214,
+      "num": 480360,
       "word": "高二男生一米九坐课桌椅弯腿驼背",
       "onboard_time": 1717473498,
       "rank": 12,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1717335799,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 540015,
+      "num": 540015,
+      "word": "以为王安宇去变形记了",
+      "onboard_time": 1717474338,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 537019,
@@ -1345,14 +1393,6 @@
       "onboard_time": 1717308978,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 499196,
-      "num": 499196,
-      "word": "以为王安宇去变形记了",
-      "onboard_time": 1717474338,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 498049,
@@ -1803,14 +1843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 406888,
-      "num": 406888,
-      "word": "浙江两失联驴友被找到已无生命体征",
-      "onboard_time": 1717474760,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406309,
       "num": 298195,
       "word": "打工人在711吃午饭丢人吗",
@@ -2099,6 +2131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 358523,
+      "num": 358523,
+      "word": "墨雨云间的狂徒",
+      "onboard_time": 1717473679,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356937,
       "num": 356937,
       "word": "逆水寒手游回应剑网3",
@@ -2139,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 348070,
-      "num": 348070,
-      "word": "墨雨云间的狂徒",
-      "onboard_time": 1717473679,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 346876,
       "num": 346876,
       "word": "巴勒斯坦儿童",
@@ -2169,6 +2201,22 @@
       "onboard_time": 1717320257,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 343407,
+      "num": 228192,
+      "word": "宝马腰斩式大降价",
+      "onboard_time": 1717477159,
+      "rank": 24,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 343192,
+      "num": 343192,
+      "word": "董宇辉称高考不决定人生",
+      "onboard_time": 1717475300,
+      "rank": 18,
+      "category": "网红,教育"
     },
     {
       "raw_hot": 343069,
@@ -2321,14 +2369,6 @@
       "onboard_time": 1717331179,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316046,
-      "num": 316046,
-      "word": "董宇辉称高考不决定人生",
-      "onboard_time": 1717475300,
-      "rank": 18,
-      "category": "网红,教育"
     },
     {
       "raw_hot": 315491,
@@ -2931,14 +2971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 242471,
-      "num": 242471,
-      "word": "吃一个粽子要消化多久",
-      "onboard_time": 1717475180,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 240593,
       "num": 240593,
       "word": "高考倒计时",
@@ -3004,7 +3036,7 @@
     },
     {
       "raw_hot": 236592,
-      "num": 939242,
+      "num": 1030001,
       "word": "五星红旗在月球背面成功展开",
       "onboard_time": 1717473798,
       "rank": 2,
@@ -3235,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221750,
+      "num": 221750,
+      "word": "墨雨云间 上头",
+      "onboard_time": 1717476499,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221679,
       "num": 194080,
       "word": "我把我的工资做成了表情包",
@@ -3313,6 +3353,14 @@
       "onboard_time": 1717416979,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214133,
+      "num": 214133,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1717477819,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 211609,
@@ -3497,14 +3545,6 @@
       "onboard_time": 1717297217,
       "rank": 9,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 203585,
-      "num": 203585,
-      "word": "高考建议不要穿这4种衣服",
-      "onboard_time": 1717475239,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 203197,
@@ -4019,6 +4059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183947,
+      "num": 183947,
+      "word": "上海出发睡一觉到香港",
+      "onboard_time": 1717477580,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183933,
       "num": 183933,
       "word": "原生家庭差的年轻人觉醒的第一步",
@@ -4185,6 +4233,14 @@
       "onboard_time": 1717296918,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176290,
+      "num": 176290,
+      "word": "迪丽热巴比耶撞脸表情包",
+      "onboard_time": 1717475841,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175519,
@@ -4443,6 +4499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167110,
+      "num": 167110,
+      "word": "GQ工作人员夸赞时代少年团",
+      "onboard_time": 1717477697,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166569,
       "num": 166569,
       "word": "2024新加坡羽毛球公开赛",
@@ -4561,6 +4625,14 @@
       "onboard_time": 1717423820,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162248,
+      "num": 162248,
+      "word": "韩国人在广西实现水果自由",
+      "onboard_time": 1717476320,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 161995,
@@ -4715,6 +4787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156404,
+      "num": 156404,
+      "word": "张凌赫新郎造型",
+      "onboard_time": 1717478178,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155990,
       "num": 155990,
       "word": "月红篇从你的全世界路过",
@@ -4795,14 +4875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154147,
-      "num": 154147,
-      "word": "四川地震",
-      "onboard_time": 1717475660,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152646,
       "num": 152646,
       "word": "于正新剧",
@@ -4849,6 +4921,14 @@
       "onboard_time": 1717425379,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 150046,
+      "num": 150046,
+      "word": "官方回应幼儿园老师退儿童节演出服",
+      "onboard_time": 1717478119,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149815,
@@ -4929,6 +5009,14 @@
       "onboard_time": 1717403599,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146813,
+      "num": 146813,
+      "word": "中国企业回应被斯坦福大学抄袭",
+      "onboard_time": 1717476860,
+      "rank": 41,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 146765,
@@ -5321,6 +5409,14 @@
       "onboard_time": 1717295417,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 130744,
+      "num": 130744,
+      "word": "为啥绿豆汤有红有绿",
+      "onboard_time": 1717478298,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 130575,
@@ -6681,6 +6777,14 @@
       "onboard_time": 1717432515,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68799,
+      "num": 498620,
+      "word": "近期樱桃会被击穿价格吗",
+      "onboard_time": 1717477219,
+      "rank": 9,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 67918,
