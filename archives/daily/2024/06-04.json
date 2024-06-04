@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717469045630,
+  "endTime": 1717471330152,
   "band_list": [
     {
       "raw_hot": 1567508,
@@ -27,6 +27,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1266678,
+      "num": 1266678,
+      "word": "施工坍塌事故实习生或被追刑责",
+      "onboard_time": 1717464559,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1184332,
       "num": 1184332,
       "word": "以色列已接受拜登三步走停火方案",
@@ -35,12 +43,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1162861,
-      "num": 1162861,
-      "word": "施工坍塌事故实习生或被追刑责",
-      "onboard_time": 1717464559,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 1103861,
+      "num": 1103861,
+      "word": "月球背面有了一个中国字",
+      "onboard_time": 1717467977,
+      "rank": 19,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 1089979,
@@ -115,6 +123,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 613592,
+      "num": 613592,
+      "word": "追星女带ID的一生",
+      "onboard_time": 1717466897,
+      "rank": 15,
+      "category": "幽默,科学科普"
+    },
+    {
       "raw_hot": 602368,
       "num": 602368,
       "word": "数只美股疑似出现行情异常",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 530138,
-      "num": 338703,
+      "num": 457210,
       "word": "董力为花2000元吃饭道歉",
       "onboard_time": 1717464438,
       "rank": 23,
@@ -153,6 +169,14 @@
       "onboard_time": 1717420338,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 512014,
+      "num": 512014,
+      "word": "阿Sa张韶涵还原公主小妹名场面",
+      "onboard_time": 1717468038,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 506381,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 477155,
-      "num": 256234,
+      "num": 275953,
       "word": "长期睡眠不足可能会抑郁",
       "onboard_time": 1717463298,
       "rank": 32,
@@ -211,6 +235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434600,
+      "num": 434600,
+      "word": "装修一口价22万开工后却又加8万",
+      "onboard_time": 1717468456,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 420592,
+      "num": 420592,
+      "word": "Uzi直播红温",
+      "onboard_time": 1717469237,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 414387,
       "num": 230270,
       "word": "秦岚腰臀比",
@@ -227,6 +267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 402674,
+      "num": 402674,
+      "word": "孙颖莎世排第一7700分",
+      "onboard_time": 1717469057,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 396242,
+      "num": 396242,
+      "word": "补习花了近70万发现老师无初中教资证",
+      "onboard_time": 1717470917,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390846,
       "num": 390846,
       "word": "女子11次高空扔烟蒂引发火灾",
@@ -235,20 +291,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349486,
-      "num": 337546,
-      "word": "月球背面有了一个中国字",
-      "onboard_time": 1717467977,
-      "rank": 19,
-      "category": "国内时政,科学科普"
-    },
-    {
-      "raw_hot": 343811,
-      "num": 343811,
-      "word": "追星女带ID的一生",
-      "onboard_time": 1717466897,
-      "rank": 15,
-      "category": "幽默,科学科普"
+      "raw_hot": 370570,
+      "num": 276117,
+      "word": "打工人在711吃午饭丢人吗",
+      "onboard_time": 1717466356,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337306,
@@ -305,6 +353,14 @@
       "onboard_time": 1717432216,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292380,
+      "num": 339327,
+      "word": "今年端午你家粽子是买还是包",
+      "onboard_time": 1717468218,
+      "rank": 9,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 289704,
@@ -403,28 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235418,
-      "num": 229095,
-      "word": "打工人在711吃午饭丢人吗",
-      "onboard_time": 1717466356,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235252,
       "num": 235252,
       "word": "孙颖莎赛后发文",
       "onboard_time": 1717426759,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234902,
-      "num": 227820,
-      "word": "阿Sa张韶涵还原公主小妹名场面",
-      "onboard_time": 1717468038,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 234527,
@@ -449,6 +489,14 @@
       "onboard_time": 1717458858,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216297,
+      "num": 216297,
+      "word": "王楚钦世排第一7725分",
+      "onboard_time": 1717469717,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 212147,
@@ -547,12 +595,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168862,
+      "num": 167702,
+      "word": "男性感染HPV后大部分可能无症状",
+      "onboard_time": 1717470978,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161995,
       "num": 161995,
       "word": "官方回应施工坍塌实习生或被追刑责",
       "onboard_time": 1717467616,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159760,
+      "num": 159760,
+      "word": "广汽丰田致歉",
+      "onboard_time": 1717468156,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 155935,
@@ -595,20 +659,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 145610,
-      "num": 145610,
-      "word": "广汽丰田致歉",
-      "onboard_time": 1717468156,
-      "rank": 43,
-      "category": "汽车"
+      "raw_hot": 147504,
+      "num": 147504,
+      "word": "infp都是睡觉型选手",
+      "onboard_time": 1717469237,
+      "rank": 37,
+      "category": "情感"
     },
     {
-      "raw_hot": 143226,
-      "num": 143226,
-      "word": "装修一口价22万开工后却又加8万",
-      "onboard_time": 1717468456,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 145283,
+      "num": 145283,
+      "word": "嫦娥六号与国旗自拍合影",
+      "onboard_time": 1717469237,
+      "rank": 38,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 142312,
@@ -643,12 +707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137389,
+      "num": 137389,
+      "word": "浙江大厂一天怎么做7万人次的三餐",
+      "onboard_time": 1717469958,
+      "rank": 39,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 134860,
       "num": 134860,
       "word": "Bobby今日入伍",
       "onboard_time": 1717465697,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132736,
+      "num": 132736,
+      "word": "Ning谈Tarzan表现",
+      "onboard_time": 1717471158,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 132224,
@@ -699,6 +779,30 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126792,
+      "num": 126792,
+      "word": "和女儿终于有家了",
+      "onboard_time": 1717470857,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 126506,
+      "num": 126506,
+      "word": "江疏影去看了辛芷蕾话剧初步举证",
+      "onboard_time": 1717470317,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 126502,
+      "num": 126502,
+      "word": "你一般花多长时间做饭",
+      "onboard_time": 1717471038,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 126467,
       "num": 126467,
       "word": "这个家没有王栎鑫得散",
@@ -713,6 +817,14 @@
       "onboard_time": 1717427058,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119062,
+      "num": 119062,
+      "word": "闪耀月背的中国红",
+      "onboard_time": 1717471277,
+      "rank": 45,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 118326,
@@ -737,6 +849,14 @@
       "onboard_time": 1717418478,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 116304,
+      "num": 116304,
+      "word": "winter灵巧的腰",
+      "onboard_time": 1717469057,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 115728,
@@ -995,14 +1115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 69726,
-      "num": 339327,
-      "word": "今年端午你家粽子是买还是包",
-      "onboard_time": 1717468218,
-      "rank": 9,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 68818,
       "num": 84247,
       "word": "乘风之夜组队选曲征集",
@@ -1017,6 +1129,14 @@
       "onboard_time": 1717456636,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 66740,
+      "num": 457822,
+      "word": "电蚊拍和杀虫剂一起用会着火",
+      "onboard_time": 1717470017,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 64985,

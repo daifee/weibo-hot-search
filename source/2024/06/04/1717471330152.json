@@ -1,0 +1,410 @@
+{
+  "runTime": 1717471330152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1266678,
+        "num": 1266678,
+        "word": "施工坍塌事故实习生或被追刑责",
+        "onboard_time": 1717464559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1103861,
+        "num": 1103861,
+        "word": "月球背面有了一个中国字",
+        "onboard_time": 1717467977,
+        "rank": 1,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 48442,
+        "num": 806489,
+        "word": "中国探月工程不断刷新月球探测纪录",
+        "onboard_time": 1717426759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1371867,
+        "num": 800128,
+        "word": "做了将近七个小时的饭",
+        "onboard_time": 1717464917,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 785893,
+        "num": 785893,
+        "word": "人民文娱评墨雨云间",
+        "onboard_time": 1717463057,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 779425,
+        "num": 779425,
+        "word": "曝iPhone16Pro拥有行业最窄边框",
+        "onboard_time": 1717464917,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 613592,
+        "num": 613592,
+        "word": "追星女带ID的一生",
+        "onboard_time": 1717466897,
+        "rank": 6,
+        "category": "幽默,科学科普"
+      },
+      {
+        "raw_hot": 512014,
+        "num": 512014,
+        "word": "阿Sa张韶涵还原公主小妹名场面",
+        "onboard_time": 1717468038,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 464505,
+        "num": 464505,
+        "word": "早睡真能解决生活中大部分的问题",
+        "onboard_time": 1717427599,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 66740,
+        "num": 457822,
+        "word": "电蚊拍和杀虫剂一起用会着火",
+        "onboard_time": 1717470017,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 457210,
+        "num": 457210,
+        "word": "董力为花2000元吃饭道歉",
+        "onboard_time": 1717464438,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434600,
+        "num": 434600,
+        "word": "装修一口价22万开工后却又加8万",
+        "onboard_time": 1717468456,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420592,
+        "num": 420592,
+        "word": "Uzi直播红温",
+        "onboard_time": 1717469237,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 402674,
+        "num": 402674,
+        "word": "孙颖莎世排第一7700分",
+        "onboard_time": 1717469057,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 396242,
+        "num": 396242,
+        "word": "补习花了近70万发现老师无初中教资证",
+        "onboard_time": 1717470917,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373659,
+        "num": 373659,
+        "word": "清华博士送水泥戒指求婚被嘲笑",
+        "onboard_time": 1717458677,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294675,
+        "num": 294675,
+        "word": "墨雨云间",
+        "onboard_time": 1717465577,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292502,
+        "num": 292502,
+        "word": "以色列已接受拜登三步走停火方案",
+        "onboard_time": 1717459038,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 292380,
+        "num": 292380,
+        "word": "今年端午你家粽子是买还是包",
+        "onboard_time": 1717468218,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 276187,
+        "num": 276187,
+        "word": "嫦娥六号着陆器上升器合影",
+        "onboard_time": 1717468277,
+        "rank": 19,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 370570,
+        "num": 276117,
+        "word": "打工人在711吃午饭丢人吗",
+        "onboard_time": 1717466356,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306897,
+        "num": 275953,
+        "word": "长期睡眠不足可能会抑郁",
+        "onboard_time": 1717463298,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275630,
+        "num": 275630,
+        "word": "秦岚听到辛芷蕾入围白玉兰反应",
+        "onboard_time": 1717458197,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217197,
+        "num": 217197,
+        "word": "原来减肥的尽头是提高代谢",
+        "onboard_time": 1717458617,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 216297,
+        "num": 216297,
+        "word": "王楚钦世排第一7725分",
+        "onboard_time": 1717469717,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214448,
+        "num": 214448,
+        "word": "范丞丞受伤",
+        "onboard_time": 1717458917,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180852,
+        "num": 180852,
+        "word": "丁真自曝刚上岛跟不上节奏",
+        "onboard_time": 1717437193,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190170,
+        "num": 178890,
+        "word": "秦岚腰臀比",
+        "onboard_time": 1717465816,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171552,
+        "num": 171552,
+        "word": "三十岁是真正意义上的十八岁",
+        "onboard_time": 1717460598,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168232,
+        "num": 168232,
+        "word": "金俊勉公开为加沙捐款",
+        "onboard_time": 1717460358,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168862,
+        "num": 167702,
+        "word": "男性感染HPV后大部分可能无症状",
+        "onboard_time": 1717470978,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165481,
+        "num": 165481,
+        "word": "婴儿被指满脸不屑表情撞脸Loopy",
+        "onboard_time": 1717465697,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159760,
+        "num": 159760,
+        "word": "广汽丰田致歉",
+        "onboard_time": 1717468156,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154110,
+        "num": 154110,
+        "word": "高考倒计时",
+        "onboard_time": 1717468516,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152369,
+        "num": 152369,
+        "word": "爹和祖母都不爱姜梨",
+        "onboard_time": 1717458738,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151394,
+        "num": 151394,
+        "word": "巴黎将扣姆巴佩3个月工资",
+        "onboard_time": 1717460598,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148153,
+        "num": 148153,
+        "word": "夏天提升幸福感的9件小事",
+        "onboard_time": 1717458497,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147504,
+        "num": 147504,
+        "word": "infp都是睡觉型选手",
+        "onboard_time": 1717469237,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145283,
+        "num": 145283,
+        "word": "嫦娥六号与国旗自拍合影",
+        "onboard_time": 1717469237,
+        "rank": 38,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 137389,
+        "num": 137389,
+        "word": "浙江大厂一天怎么做7万人次的三餐",
+        "onboard_time": 1717469958,
+        "rank": 39,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 132736,
+        "num": 132736,
+        "word": "Ning谈Tarzan表现",
+        "onboard_time": 1717471158,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126792,
+        "num": 126792,
+        "word": "和女儿终于有家了",
+        "onboard_time": 1717470857,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126506,
+        "num": 126506,
+        "word": "江疏影去看了辛芷蕾话剧初步举证",
+        "onboard_time": 1717470317,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126502,
+        "num": 126502,
+        "word": "你一般花多长时间做饭",
+        "onboard_time": 1717471038,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122714,
+        "num": 122714,
+        "word": "迪丽热巴新歌DanceVideo",
+        "onboard_time": 1717462939,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119062,
+        "num": 119062,
+        "word": "闪耀月背的中国红",
+        "onboard_time": 1717471277,
+        "rank": 45,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 116304,
+        "num": 116304,
+        "word": "winter灵巧的腰",
+        "onboard_time": 1717469057,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114431,
+        "num": 114431,
+        "word": "嫦娥六号发微博说我看中",
+        "onboard_time": 1717468277,
+        "rank": 47,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 113414,
+        "num": 113414,
+        "word": "Bobby今日入伍",
+        "onboard_time": 1717465697,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113028,
+        "num": 113028,
+        "word": "印度高温 恒河洗澡",
+        "onboard_time": 1717427719,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#发挥国家战略科技力量作用#"
+    }
+  }
+}
