@@ -1,6 +1,6 @@
 {
   "startTime": 1717431864899,
-  "endTime": 1717505442548,
+  "endTime": 1717507308363,
   "band_list": [
     {
       "raw_hot": 1815800,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1085924,
-      "num": 327797,
+      "num": 350164,
       "word": "韩国将很快人口自然减少",
       "onboard_time": 1717499237,
       "rank": 30,
@@ -195,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 801006,
+      "num": 320324,
+      "word": "董璇 天天有人哭错坟",
+      "onboard_time": 1717506617,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 786297,
       "num": 245130,
       "word": "吃一个粽子要消化多久",
@@ -209,6 +217,14 @@
       "onboard_time": 1717427599,
       "rank": 4,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 759030,
+      "num": 190268,
+      "word": "为什么患上尿毒症的年轻人越来越多",
+      "onboard_time": 1717501818,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 757625,
@@ -313,14 +329,6 @@
       "onboard_time": 1717458617,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 660891,
-      "num": 165164,
-      "word": "为什么患上尿毒症的年轻人越来越多",
-      "onboard_time": 1717501818,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 653615,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522413,
+      "num": 327392,
+      "word": "于正 王一栩",
+      "onboard_time": 1717504277,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 520461,
       "num": 520461,
       "word": "秦岚觉得结了婚就不要离婚",
@@ -507,8 +523,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469271,
+      "num": 469271,
+      "word": "英伟达一夜涨了一个英特尔",
+      "onboard_time": 1717502597,
+      "rank": 19,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 466227,
-      "num": 451688,
+      "num": 455016,
       "word": "网传歌手歌单",
       "onboard_time": 1717501757,
       "rank": 6,
@@ -627,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367149,
+      "num": 188072,
+      "word": "幽门螺杆菌不仅致癌还伤大脑",
+      "onboard_time": 1717506018,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 358523,
       "num": 358523,
       "word": "墨雨云间的狂徒",
@@ -721,14 +753,6 @@
       "onboard_time": 1717484418,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327392,
-      "num": 327392,
-      "word": "于正 王一栩",
-      "onboard_time": 1717504277,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 323303,
@@ -923,14 +947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264541,
-      "num": 264541,
-      "word": "英伟达一夜涨了一个英特尔",
-      "onboard_time": 1717502597,
-      "rank": 19,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 263639,
       "num": 263639,
       "word": "胖莎",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1717468516,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 238924,
+      "num": 187681,
+      "word": "女子把隐翅虫当蚊子拍死差点毁容",
+      "onboard_time": 1717506376,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238375,
@@ -1283,12 +1307,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195083,
+      "num": 195083,
+      "word": "当藏海传豫见河南",
+      "onboard_time": 1717506739,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 191665,
+      "num": 191665,
+      "word": "女子带榴莲过不了安检机场狂炫",
+      "onboard_time": 1717498516,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185730,
+      "num": 185730,
+      "word": "密逃6首期录制没有杨幂",
+      "onboard_time": 1717506917,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185624,
       "num": 185624,
       "word": "陈乔恩吴谨言脸颊比心",
       "onboard_time": 1717462099,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185395,
+      "num": 341275,
+      "word": "还没办个税汇算的抓紧了",
+      "onboard_time": 1717503257,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184385,
@@ -1307,14 +1363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182923,
-      "num": 182923,
-      "word": "女子带榴莲过不了安检机场狂炫",
-      "onboard_time": 1717498516,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180507,
       "num": 412272,
       "word": "夏天提升幸福感的9件小事",
@@ -1329,6 +1377,14 @@
       "onboard_time": 1717466537,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179485,
+      "num": 179485,
+      "word": "马来西亚父母揭露托儿所恶行",
+      "onboard_time": 1717505057,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178522,
@@ -1355,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173159,
+      "num": 173159,
+      "word": "小范大人的衣柜",
+      "onboard_time": 1717503917,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170662,
       "num": 170662,
       "word": "乘风",
@@ -1379,20 +1443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161620,
+      "num": 161620,
+      "word": "巴勒斯坦",
+      "onboard_time": 1717506557,
+      "rank": 27,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 159760,
       "num": 159760,
       "word": "广汽丰田致歉",
       "onboard_time": 1717468156,
       "rank": 43,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 156576,
-      "num": 156576,
-      "word": "小范大人的衣柜",
-      "onboard_time": 1717503917,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 156391,
@@ -1451,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152206,
+      "num": 152206,
+      "word": "东北十元的自助餐",
+      "onboard_time": 1717505898,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151863,
       "num": 151863,
       "word": "坚持早睡后的身体变化",
@@ -1481,6 +1553,14 @@
       "onboard_time": 1717476860,
       "rank": 41,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 145993,
+      "num": 145993,
+      "word": "墨雨云间追剧日历",
+      "onboard_time": 1717505656,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 145283,
@@ -1715,6 +1795,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126723,
+      "num": 126723,
+      "word": "韩素希新木优子合照",
+      "onboard_time": 1717505296,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126685,
       "num": 126685,
       "word": "网传战至巅峰3阵容",
@@ -1779,22 +1867,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 121310,
-      "num": 341275,
-      "word": "还没办个税汇算的抓紧了",
-      "onboard_time": 1717503257,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121088,
-      "num": 121088,
-      "word": "韩素希新木优子合照",
-      "onboard_time": 1717505296,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120992,
       "num": 120992,
       "word": "重新定义疆浙沪包邮",
@@ -1841,14 +1913,6 @@
       "onboard_time": 1717418478,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117225,
-      "num": 117225,
-      "word": "马来西亚父母揭露托儿所恶行",
-      "onboard_time": 1717505057,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116689,
@@ -1905,6 +1969,14 @@
       "onboard_time": 1717466417,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 111588,
+      "num": 111588,
+      "word": "处女座的感情在预设中消耗了",
+      "onboard_time": 1717500797,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 111172,
@@ -1995,14 +2067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105388,
-      "num": 105388,
-      "word": "处女座的感情在预设中消耗了",
-      "onboard_time": 1717500797,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105239,
       "num": 105239,
       "word": "阮经天芭莎写真",
@@ -2081,6 +2145,14 @@
       "onboard_time": 1717456636,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94823,
+      "num": 94823,
+      "word": "怎么夸到孩子心坎里",
+      "onboard_time": 1717507038,
+      "rank": 42,
+      "category": "母婴育儿,教育"
     },
     {
       "raw_hot": 93270,
@@ -2449,6 +2521,14 @@
       "onboard_time": 1717503438,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 55694,
+      "num": 353873,
+      "word": "2024高考天气预报",
+      "onboard_time": 1717506978,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 55316,

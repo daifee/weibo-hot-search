@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717505442548,
+  "endTime": 1717507308363,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 1085924,
-      "num": 327797,
+      "num": 350164,
       "word": "韩国将很快人口自然减少",
       "onboard_time": 1717499237,
       "rank": 30,
@@ -939,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 801006,
+      "num": 320324,
+      "word": "董璇 天天有人哭错坟",
+      "onboard_time": 1717506617,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 798906,
       "num": 798906,
       "word": "巴菲特",
@@ -1081,6 +1089,14 @@
       "onboard_time": 1717219158,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 759030,
+      "num": 190268,
+      "word": "为什么患上尿毒症的年轻人越来越多",
+      "onboard_time": 1717501818,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 759002,
@@ -1393,14 +1409,6 @@
       "onboard_time": 1717283293,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 660891,
-      "num": 165164,
-      "word": "为什么患上尿毒症的年轻人越来越多",
-      "onboard_time": 1717501818,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 660239,
@@ -1923,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 522413,
+      "num": 327392,
+      "word": "于正 王一栩",
+      "onboard_time": 1717504277,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 521342,
       "num": 521342,
       "word": "范闲扛起巴雷特",
@@ -2219,8 +2235,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469271,
+      "num": 469271,
+      "word": "英伟达一夜涨了一个英特尔",
+      "onboard_time": 1717502597,
+      "rank": 19,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 466227,
-      "num": 451688,
+      "num": 455016,
       "word": "网传歌手歌单",
       "onboard_time": 1717501757,
       "rank": 6,
@@ -3027,6 +3051,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 367149,
+      "num": 188072,
+      "word": "幽门螺杆菌不仅致癌还伤大脑",
+      "onboard_time": 1717506018,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 367144,
       "num": 281983,
       "word": "王一博王阳都报名了",
@@ -3401,14 +3433,6 @@
       "onboard_time": 1717484418,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327392,
-      "num": 327392,
-      "word": "于正 王一栩",
-      "onboard_time": 1717504277,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 326335,
@@ -4235,14 +4259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 264541,
-      "num": 264541,
-      "word": "英伟达一夜涨了一个英特尔",
-      "onboard_time": 1717502597,
-      "rank": 19,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 263639,
       "num": 263639,
       "word": "胖莎",
@@ -4545,6 +4561,14 @@
       "onboard_time": 1717370715,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 238924,
+      "num": 187681,
+      "word": "女子把隐翅虫当蚊子拍死差点毁容",
+      "onboard_time": 1717506376,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238375,
@@ -5699,6 +5723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195083,
+      "num": 195083,
+      "word": "当藏海传豫见河南",
+      "onboard_time": 1717506739,
+      "rank": 18,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 194720,
       "num": 194720,
       "word": "WTT重庆冠军赛2024",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1717254320,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191665,
+      "num": 191665,
+      "word": "女子带榴莲过不了安检机场狂炫",
+      "onboard_time": 1717498516,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190969,
@@ -6035,12 +6075,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185730,
+      "num": 185730,
+      "word": "密逃6首期录制没有杨幂",
+      "onboard_time": 1717506917,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185624,
       "num": 185624,
       "word": "陈乔恩吴谨言脸颊比心",
       "onboard_time": 1717462099,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185395,
+      "num": 341275,
+      "word": "还没办个税汇算的抓紧了",
+      "onboard_time": 1717503257,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185158,
@@ -6123,14 +6179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182923,
-      "num": 182923,
-      "word": "女子带榴莲过不了安检机场狂炫",
-      "onboard_time": 1717498516,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181991,
       "num": 325784,
       "word": "商户卖假牛肉被揭穿后摔相机",
@@ -6201,6 +6249,14 @@
       "onboard_time": 1717466537,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 179485,
+      "num": 179485,
+      "word": "马来西亚父母揭露托儿所恶行",
+      "onboard_time": 1717505057,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179190,
@@ -6457,6 +6513,14 @@
       "onboard_time": 1717390880,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 173159,
+      "num": 173159,
+      "word": "小范大人的衣柜",
+      "onboard_time": 1717503917,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 173028,
@@ -7115,14 +7179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156576,
-      "num": 156576,
-      "word": "小范大人的衣柜",
-      "onboard_time": 1717503917,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156447,
       "num": 156447,
       "word": "TF三代九月前或将出道",
@@ -7289,6 +7345,14 @@
       "onboard_time": 1717237037,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152206,
+      "num": 152206,
+      "word": "东北十元的自助餐",
+      "onboard_time": 1717505898,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 151981,
@@ -7545,6 +7609,14 @@
       "onboard_time": 1717213458,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 145993,
+      "num": 145993,
+      "word": "墨雨云间追剧日历",
+      "onboard_time": 1717505656,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 145505,
@@ -8411,6 +8483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126723,
+      "num": 126723,
+      "word": "韩素希新木优子合照",
+      "onboard_time": 1717505296,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126721,
       "num": 126721,
       "word": "向佐被问来看周杰伦的反应",
@@ -8699,22 +8779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121310,
-      "num": 341275,
-      "word": "还没办个税汇算的抓紧了",
-      "onboard_time": 1717503257,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121088,
-      "num": 121088,
-      "word": "韩素希新木优子合照",
-      "onboard_time": 1717505296,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120992,
       "num": 120992,
       "word": "重新定义疆浙沪包邮",
@@ -8897,14 +8961,6 @@
       "onboard_time": 1717360450,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117225,
-      "num": 117225,
-      "word": "马来西亚父母揭露托儿所恶行",
-      "onboard_time": 1717505057,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 117096,
@@ -9177,6 +9233,14 @@
       "onboard_time": 1717466417,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 111588,
+      "num": 111588,
+      "word": "处女座的感情在预设中消耗了",
+      "onboard_time": 1717500797,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 111484,
@@ -9491,14 +9555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105388,
-      "num": 105388,
-      "word": "处女座的感情在预设中消耗了",
-      "onboard_time": 1717500797,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 105239,
       "num": 105239,
       "word": "阮经天芭莎写真",
@@ -9753,6 +9809,14 @@
       "onboard_time": 1717322837,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94823,
+      "num": 94823,
+      "word": "怎么夸到孩子心坎里",
+      "onboard_time": 1717507038,
+      "rank": 42,
+      "category": "母婴育儿,教育"
     },
     {
       "raw_hot": 94679,
@@ -10569,6 +10633,14 @@
       "onboard_time": 1717418776,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55694,
+      "num": 353873,
+      "word": "2024高考天气预报",
+      "onboard_time": 1717506978,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 55316,
