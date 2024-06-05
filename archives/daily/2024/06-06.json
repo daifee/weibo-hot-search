@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717612639703,
+  "endTime": 1717614955822,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -459,6 +459,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 25774,
+      "num": 24904,
+      "word": "终于知道饭店为什么要加葱香菜",
+      "onboard_time": 1717612211,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 24991,
+      "num": 24991,
+      "word": "张雪峰一门课卖近两万元",
+      "onboard_time": 1717613472,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 23282,
       "num": 24912,
       "word": "人间失格音乐剧",
@@ -475,12 +491,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 20696,
-      "num": 24904,
-      "word": "终于知道饭店为什么要加葱香菜",
-      "onboard_time": 1717612211,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 20843,
+      "num": 68221,
+      "word": "考王梁实称或是最后一次参加高考",
+      "onboard_time": 1717610712,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 19623,
@@ -489,14 +505,6 @@
       "onboard_time": 1717592058,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15557,
-      "num": 68221,
-      "word": "考王梁实称或是最后一次参加高考",
-      "onboard_time": 1717610712,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 13119,
@@ -521,6 +529,14 @@
       "onboard_time": 1717606995,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9560,
+      "num": 43048,
+      "word": "延时摄影看海菜花茈碧花绽放",
+      "onboard_time": 1717614430,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 4790,
