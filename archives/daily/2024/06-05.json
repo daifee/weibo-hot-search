@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717594455760,
+  "endTime": 1717597183651,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 926147,
+      "num": 252014,
+      "word": "亲姐姐总暗示我给外甥买东西",
+      "onboard_time": 1717593438,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 924063,
       "num": 322760,
       "word": "女子酒店洗澡被陌生男开门闯入",
@@ -169,6 +177,14 @@
       "onboard_time": 1717566078,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 880844,
+      "num": 674377,
+      "word": "蒋依依 远景",
+      "onboard_time": 1717593320,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 868516,
@@ -283,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 674377,
-      "num": 674377,
-      "word": "蒋依依 远景",
-      "onboard_time": 1717593320,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 671063,
       "num": 355527,
       "word": "端午之后七八月份一个假都没有",
@@ -369,6 +377,14 @@
       "onboard_time": 1717555277,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600060,
+      "num": 600060,
+      "word": "99年高三老师哭的比学生还伤心",
+      "onboard_time": 1717591339,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 591065,
@@ -595,12 +611,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 406644,
-      "num": 406644,
-      "word": "99年高三老师哭的比学生还伤心",
-      "onboard_time": 1717591339,
-      "rank": 36,
-      "category": "教育"
+      "raw_hot": 414755,
+      "num": 414755,
+      "word": "林孝埈希望熊猫头盔能让冰迷开心",
+      "onboard_time": 1717593619,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 402505,
@@ -635,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389218,
+      "num": 309628,
+      "word": "5岁女童练舞站下腰摔倒致高位截瘫",
+      "onboard_time": 1717594519,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 373098,
       "num": 373098,
       "word": "距离2024高考还有2天",
       "onboard_time": 1717546098,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 372177,
+      "num": 311559,
+      "word": "重庆文旅发了肖战",
+      "onboard_time": 1717593619,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 364628,
@@ -752,14 +784,6 @@
       "word": "邓为翻牌",
       "onboard_time": 1717588578,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 311559,
-      "num": 311559,
-      "word": "重庆文旅发了肖战",
-      "onboard_time": 1717593619,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1003,6 +1027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 245812,
+      "num": 245812,
+      "word": "建议高考可以用大学作为考场",
+      "onboard_time": 1717593558,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 240452,
       "num": 192235,
       "word": "为什么夏天不敢穿黄色衣服出门",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1717554017,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233069,
+      "num": 233069,
+      "word": "汪苏泷晒其他歌手送的礼物",
+      "onboard_time": 1717596501,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 230514,
@@ -1129,14 +1169,6 @@
       "onboard_time": 1717563919,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219233,
-      "num": 219233,
-      "word": "亲姐姐总暗示我给外甥买东西",
-      "onboard_time": 1717593438,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 219025,
@@ -1291,6 +1323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200341,
+      "num": 200341,
+      "word": "刘诗诗丝绒红裙",
+      "onboard_time": 1717593078,
+      "rank": 32,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 200258,
       "num": 200258,
       "word": "因为加菲猫 领养了猫",
@@ -1337,14 +1377,6 @@
       "onboard_time": 1717571178,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196128,
-      "num": 196128,
-      "word": "林孝埈希望熊猫头盔能让冰迷开心",
-      "onboard_time": 1717593619,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 195787,
@@ -1395,6 +1427,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189790,
+      "num": 189790,
+      "word": "蔡依林喊大家吃西湖醋鱼",
+      "onboard_time": 1717593918,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189373,
+      "num": 189373,
+      "word": "墨雨云间 咬虎口",
+      "onboard_time": 1717591158,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188818,
       "num": 170993,
       "word": "阿娇阿Sa揽腰嘟嘴照",
@@ -1411,20 +1459,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 187208,
+      "num": 187208,
+      "word": "3类癌症不致命无需过度治疗",
+      "onboard_time": 1717596560,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186927,
       "num": 186927,
       "word": "幽门螺杆菌的根除方案",
       "onboard_time": 1717564218,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 186409,
-      "num": 186409,
-      "word": "刘诗诗丝绒红裙",
-      "onboard_time": 1717593078,
-      "rank": 32,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 186401,
@@ -1531,6 +1579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178989,
+      "num": 178989,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1717595718,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178868,
       "num": 178868,
       "word": "张子枫素颜逛公园",
@@ -1561,14 +1617,6 @@
       "onboard_time": 1717558459,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175328,
-      "num": 175328,
-      "word": "蔡依林喊大家吃西湖醋鱼",
-      "onboard_time": 1717593918,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 175028,
@@ -1611,20 +1659,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168650,
+      "num": 168650,
+      "word": "皮肤变好带给我的变化有多大",
+      "onboard_time": 1717594938,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 167488,
       "num": 167488,
       "word": "医生建议1天最多吃3个粽子",
       "onboard_time": 1717486817,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 167115,
-      "num": 167115,
-      "word": "墨雨云间 咬虎口",
-      "onboard_time": 1717591158,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 164788,
@@ -1667,6 +1715,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160885,
+      "num": 160885,
+      "word": "斗鱼退缴主播非法收益超1亿",
+      "onboard_time": 1717596859,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 160675,
+      "num": 160675,
+      "word": "黄子弘凡 下次不准再演了",
+      "onboard_time": 1717596560,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158253,
       "num": 158253,
       "word": "汪文斌候任驻柬埔寨大使",
@@ -1681,6 +1745,14 @@
       "onboard_time": 1717553718,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156706,
+      "num": 156706,
+      "word": "官方回应B太长沙夜市打假",
+      "onboard_time": 1717596379,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156359,
@@ -1737,6 +1809,14 @@
       "onboard_time": 1717560798,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151083,
+      "num": 151083,
+      "word": "yes24网站",
+      "onboard_time": 1717596797,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 150045,
@@ -1889,14 +1969,6 @@
       "onboard_time": 1717590258,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138833,
-      "num": 138833,
-      "word": "建议高考可以用大学作为考场",
-      "onboard_time": 1717593558,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 138664,
@@ -2057,6 +2129,14 @@
       "onboard_time": 1717576939,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122770,
+      "num": 122770,
+      "word": "新疆你无需宣传 有钱我自会出发",
+      "onboard_time": 1717596618,
+      "rank": 42,
+      "category": "旅游"
     },
     {
       "raw_hot": 122436,
@@ -2241,6 +2321,14 @@
       "onboard_time": 1717506018,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110629,
+      "num": 110629,
+      "word": "东方甄选主播回应",
+      "onboard_time": 1717595300,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 109682,
@@ -2593,6 +2681,14 @@
       "onboard_time": 1717592958,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73885,
+      "num": 349623,
+      "word": "福宝吃现砍竹笋嘎嘎香",
+      "onboard_time": 1717596258,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 72947,
