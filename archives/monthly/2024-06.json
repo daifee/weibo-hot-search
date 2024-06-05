@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717622395256,
+  "endTime": 1717623304316,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -13955,6 +13955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39255,
+      "num": 39255,
+      "word": "TF三代出道战禁止线下应援",
+      "onboard_time": 1717621811,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 38843,
       "num": 38843,
       "word": "山东宁阳发生透水事故8人被困",
@@ -14155,14 +14163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32062,
-      "num": 32062,
-      "word": "TF三代出道战禁止线下应援",
-      "onboard_time": 1717621811,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 31931,
       "num": 332043,
       "word": "没有比和妈妈见面更好的儿童节礼物",
@@ -14283,6 +14283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27490,
+      "num": 24834,
+      "word": "周大福有员工称收到N+3赔偿",
+      "onboard_time": 1717618631,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27362,
       "num": 452541,
       "word": "癌症宝宝的六一愿望是快快好起来",
@@ -14371,6 +14379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22939,
+      "num": 22939,
+      "word": "为啥天天刷牙还有口臭",
+      "onboard_time": 1717616711,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 22894,
       "num": 29236,
       "word": "加沙的孩子没有儿童节",
@@ -14393,14 +14409,6 @@
       "onboard_time": 1717426400,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22442,
-      "num": 19658,
-      "word": "为啥天天刷牙还有口臭",
-      "onboard_time": 1717616711,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 21896,
@@ -14475,19 +14483,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 19645,
+      "num": 19645,
+      "word": "情绪稳定的本质",
+      "onboard_time": 1717616890,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19608,
       "num": 231388,
       "word": "大熊猫反手从背后采了1根笋笋",
       "onboard_time": 1717174517,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19313,
-      "num": 19313,
-      "word": "周大福有员工称收到N+3赔偿",
-      "onboard_time": 1717618631,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -14505,14 +14513,6 @@
       "onboard_time": 1717260976,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17974,
-      "num": 17974,
-      "word": "情绪稳定的本质",
-      "onboard_time": 1717616890,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 17308,
@@ -14563,20 +14563,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15985,
+      "num": 15985,
+      "word": "更好发挥住房公积金保障作用",
+      "onboard_time": 1717618631,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 15949,
       "num": 15949,
       "word": "全世界最催眠的视频找到了",
       "onboard_time": 1717443671,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15791,
-      "num": 15791,
-      "word": "更好发挥住房公积金保障作用",
-      "onboard_time": 1717618631,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 15774,
@@ -14667,8 +14667,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13223,
-      "num": 14359,
+      "raw_hot": 13278,
+      "num": 14410,
       "word": "蹦极时的仪式感 割绳子",
       "onboard_time": 1717619711,
       "rank": 47,

@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717622395256,
+  "endTime": 1717623304316,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -459,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39255,
+      "num": 39255,
+      "word": "TF三代出道战禁止线下应援",
+      "onboard_time": 1717621811,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33483,
       "num": 120632,
       "word": "老师开车灯为高三学子照亮前行的路",
@@ -467,20 +475,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 32062,
-      "num": 32062,
-      "word": "TF三代出道战禁止线下应援",
-      "onboard_time": 1717621811,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 30648,
       "num": 24067,
       "word": "你的高考幸运签已送达",
       "onboard_time": 1717619230,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 27490,
+      "num": 24834,
+      "word": "周大福有员工称收到N+3赔偿",
+      "onboard_time": 1717618631,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25774,
@@ -499,8 +507,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22442,
-      "num": 19658,
+      "raw_hot": 22939,
+      "num": 22939,
       "word": "为啥天天刷牙还有口臭",
       "onboard_time": 1717616711,
       "rank": 23,
@@ -523,28 +531,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 19645,
+      "num": 19645,
+      "word": "情绪稳定的本质",
+      "onboard_time": 1717616890,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19623,
       "num": 551863,
       "word": "增绿就是增优势植树就是植未来",
       "onboard_time": 1717592058,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19313,
-      "num": 19313,
-      "word": "周大福有员工称收到N+3赔偿",
-      "onboard_time": 1717618631,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17974,
-      "num": 17974,
-      "word": "情绪稳定的本质",
-      "onboard_time": 1717616890,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 16739,
@@ -555,8 +555,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 15791,
-      "num": 15791,
+      "raw_hot": 15985,
+      "num": 15985,
       "word": "更好发挥住房公积金保障作用",
       "onboard_time": 1717618631,
       "rank": 49,
@@ -571,8 +571,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13223,
-      "num": 14359,
+      "raw_hot": 13278,
+      "num": 14410,
       "word": "蹦极时的仪式感 割绳子",
       "onboard_time": 1717619711,
       "rank": 47,
