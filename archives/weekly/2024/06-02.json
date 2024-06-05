@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717593726946,
+  "endTime": 1717594455760,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -515,6 +515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1111380,
+      "num": 1111380,
+      "word": "高考很大可能是考得最好的一次",
+      "onboard_time": 1717587737,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1099410,
       "num": 1099410,
       "word": "电商的仅退款政策真的合理吗",
@@ -529,14 +537,6 @@
       "onboard_time": 1717430477,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1087038,
-      "num": 1087038,
-      "word": "高考很大可能是考得最好的一次",
-      "onboard_time": 1717587737,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1085924,
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 749515,
-      "num": 260710,
+      "num": 311207,
       "word": "月经变少是卵巢衰老的信号吗",
       "onboard_time": 1717583418,
       "rank": 27,
@@ -1124,7 +1124,7 @@
     },
     {
       "raw_hot": 737769,
-      "num": 259965,
+      "num": 308544,
       "word": "建议最近不要轻易离职",
       "onboard_time": 1717586058,
       "rank": 22,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1717460118,
       "rank": 5,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 674377,
+      "num": 674377,
+      "word": "蒋依依 远景",
+      "onboard_time": 1717593320,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 672083,
@@ -1492,7 +1500,7 @@
     },
     {
       "raw_hot": 621976,
-      "num": 259349,
+      "num": 285509,
       "word": "游客吐槽阿勒泰旅游太贵了",
       "onboard_time": 1717583059,
       "rank": 25,
@@ -1875,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 530736,
+      "num": 530736,
+      "word": "印度总理莫迪提交辞呈",
+      "onboard_time": 1717590318,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 530650,
       "num": 530650,
       "word": "93岁默多克第5次结婚",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1717506018,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 525015,
+      "num": 525015,
+      "word": "看小说时莫名其妙的生理反应",
+      "onboard_time": 1717587377,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 524987,
@@ -1937,14 +1961,6 @@
       "onboard_time": 1717377858,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521215,
-      "num": 521215,
-      "word": "印度总理莫迪提交辞呈",
-      "onboard_time": 1717590318,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 520096,
@@ -2107,12 +2123,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491297,
-      "num": 491297,
+      "raw_hot": 492726,
+      "num": 492726,
       "word": "歌手2024揭榜串讲人",
       "onboard_time": 1717589779,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490343,
+      "num": 490343,
+      "word": "王星越好帅",
+      "onboard_time": 1717425858,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 488835,
@@ -2251,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 465271,
-      "num": 465271,
-      "word": "王星越好帅",
-      "onboard_time": 1717425858,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 461737,
       "num": 295120,
       "word": "王亚飞为迪丽热巴化的生日妆",
@@ -2297,14 +2313,6 @@
       "onboard_time": 1717276451,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456873,
-      "num": 456873,
-      "word": "看小说时莫名其妙的生理反应",
-      "onboard_time": 1717587377,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 456644,
@@ -2705,6 +2713,14 @@
       "onboard_time": 1717489819,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 406644,
+      "num": 406644,
+      "word": "99年高三老师哭的比学生还伤心",
+      "onboard_time": 1717591339,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 406309,
@@ -3483,6 +3499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 311559,
+      "num": 311559,
+      "word": "重庆文旅发了肖战",
+      "onboard_time": 1717593619,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310794,
       "num": 214450,
       "word": "JOY表达对SM不满",
@@ -3665,14 +3689,6 @@
       "onboard_time": 1717258458,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297619,
-      "num": 297619,
-      "word": "99年高三老师哭的比学生还伤心",
-      "onboard_time": 1717591339,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 297147,
@@ -4115,6 +4131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266672,
+      "num": 266672,
+      "word": "戚薇回应bangbang模仿大赛",
+      "onboard_time": 1717592539,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265166,
       "num": 212982,
       "word": "墨雨云间原著",
@@ -4216,14 +4240,6 @@
       "word": "墨雨云间时长",
       "onboard_time": 1717554557,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258004,
-      "num": 258004,
-      "word": "蒋依依 远景",
-      "onboard_time": 1717593320,
-      "rank": 25,
       "category": "剧集"
     },
     {
@@ -4353,14 +4369,6 @@
       "onboard_time": 1717576397,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 248209,
-      "num": 248209,
-      "word": "戚薇回应bangbang模仿大赛",
-      "onboard_time": 1717592539,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 246402,
@@ -4899,6 +4907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219233,
+      "num": 219233,
+      "word": "亲姐姐总暗示我给外甥买东西",
+      "onboard_time": 1717593438,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219025,
       "num": 207501,
       "word": "你在不在",
@@ -4929,14 +4945,6 @@
       "onboard_time": 1717387159,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 217974,
-      "num": 217974,
-      "word": "重庆文旅发了肖战",
-      "onboard_time": 1717593619,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 217780,
@@ -5603,6 +5611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196128,
+      "num": 196128,
+      "word": "林孝埈希望熊猫头盔能让冰迷开心",
+      "onboard_time": 1717593619,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195931,
       "num": 195931,
       "word": "万妮达 选曲投票",
@@ -6179,6 +6195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 179217,
+      "num": 179217,
+      "word": "JDG战胜EDG",
+      "onboard_time": 1717594099,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179181,
       "num": 179181,
       "word": "张碧晨为汪苏泷打歌",
@@ -6337,6 +6361,14 @@
       "onboard_time": 1717331719,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175328,
+      "num": 175328,
+      "word": "蔡依林喊大家吃西湖醋鱼",
+      "onboard_time": 1717593918,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 175028,
@@ -7595,28 +7627,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141836,
-      "num": 141836,
-      "word": "亲姐姐总暗示我给外甥买东西",
-      "onboard_time": 1717593438,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141603,
       "num": 141603,
       "word": "田雨的减肥秘籍是远离张若昀",
       "onboard_time": 1717414697,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141587,
-      "num": 141587,
-      "word": "林孝埈希望熊猫头盔能让冰迷开心",
-      "onboard_time": 1717593619,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 141450,
@@ -7769,6 +7785,14 @@
       "onboard_time": 1717501877,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138833,
+      "num": 138833,
+      "word": "建议高考可以用大学作为考场",
+      "onboard_time": 1717593558,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 138775,
@@ -8499,14 +8523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 123476,
-      "num": 123476,
-      "word": "建议高考可以用大学作为考场",
-      "onboard_time": 1717593558,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 123417,
       "num": 73859,
       "word": "张艺兴发视频感谢工作人员",
@@ -8849,6 +8865,14 @@
       "onboard_time": 1717305498,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117086,
+      "num": 117086,
+      "word": "可以叫我开车但不能叫我停车",
+      "onboard_time": 1717594279,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 116992,
@@ -9564,7 +9588,7 @@
     },
     {
       "raw_hot": 102382,
-      "num": 297696,
+      "num": 321491,
       "word": "谷爱凌一路牛到巴黎",
       "onboard_time": 1717589538,
       "rank": 17,
@@ -10179,6 +10203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73978,
+      "num": 482481,
+      "word": "Uzi帮你清空购物车",
+      "onboard_time": 1717592958,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73574,
       "num": 127822,
       "word": "研究称未来日本40%城镇街村将消失",
@@ -10233,14 +10265,6 @@
       "onboard_time": 1717491679,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71156,
-      "num": 260984,
-      "word": "Uzi帮你清空购物车",
-      "onboard_time": 1717592958,
-      "rank": 20,
-      "category": "电竞"
     },
     {
       "raw_hot": 70824,
@@ -10771,6 +10795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 43884,
+      "num": 484983,
+      "word": "警察听到小学生呼唤飞奔过马路接应",
+      "onboard_time": 1717593979,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43639,
       "num": 459777,
       "word": "男生把夏日色彩拼成一只孔雀",
@@ -11059,6 +11091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29418,
+      "num": 189842,
+      "word": "田雨在线催更庆余年3",
+      "onboard_time": 1717589898,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29186,
       "num": 27236,
       "word": "胖人有个致命的缺点叫怕浪费",
@@ -11073,14 +11113,6 @@
       "onboard_time": 1717212076,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28830,
-      "num": 189842,
-      "word": "田雨在线催更庆余年3",
-      "onboard_time": 1717589898,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 28264,
@@ -11385,6 +11417,14 @@
       "onboard_time": 1717519814,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8144,
+      "num": 116731,
+      "word": "樊振东终究把自己穿成了代言人",
+      "onboard_time": 1717594399,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 7478,
