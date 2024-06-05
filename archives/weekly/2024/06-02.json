@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717572885479,
+  "endTime": 1717575812736,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -419,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1163623,
+      "num": 1163623,
+      "word": "吴谨言眼睛",
+      "onboard_time": 1717571837,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1156129,
       "num": 1156129,
       "word": "不要觉得谈了五六年分手可惜",
@@ -691,6 +699,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 899183,
+      "num": 899183,
+      "word": "毛坦厂中学万人冒雨送考为孩子加油",
+      "onboard_time": 1717570937,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 886775,
       "num": 886775,
       "word": "王鹤棣 无袖",
@@ -699,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 877726,
-      "num": 877726,
-      "word": "毛坦厂中学万人冒雨送考为孩子加油",
-      "onboard_time": 1717570937,
-      "rank": 11,
-      "category": "教育,社会新闻"
+      "raw_hot": 878672,
+      "num": 878672,
+      "word": "韩国小学生连扇副校长5个耳光",
+      "onboard_time": 1717574298,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871614,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1717486516,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 694912,
+      "num": 176439,
+      "word": "茅台冰淇淋买一送一没人吃",
+      "onboard_time": 1717572737,
+      "rank": 30,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 694866,
@@ -1747,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 528049,
+      "num": 175642,
+      "word": "医生建议给皮肤轻断食",
+      "onboard_time": 1717572437,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 525251,
       "num": 260241,
       "word": "幽门螺杆菌不仅致癌还伤大脑",
@@ -1872,14 +1904,6 @@
       "word": "林若甫 一声爹例外触动天下人",
       "onboard_time": 1717338980,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 501729,
-      "num": 390871,
-      "word": "吴谨言眼睛",
-      "onboard_time": 1717571837,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2035,6 +2059,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 467716,
+      "num": 467716,
+      "word": "福宝吃的竹子是现砍的",
+      "onboard_time": 1717573218,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 466227,
       "num": 455016,
       "word": "网传歌手歌单",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1717415598,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 450635,
+      "num": 450635,
+      "word": "你要这么虐前夫哥我就不困了",
+      "onboard_time": 1717571476,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 449813,
@@ -2249,6 +2289,14 @@
       "onboard_time": 1717389802,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 435307,
+      "num": 435307,
+      "word": "山西一公职人员在小区遇刺身亡",
+      "onboard_time": 1717574778,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434783,
@@ -3003,14 +3051,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 336154,
-      "num": 193646,
-      "word": "你要这么虐前夫哥我就不困了",
-      "onboard_time": 1717571476,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 335624,
       "num": 218433,
       "word": "汪苏泷加场",
@@ -3265,6 +3305,14 @@
       "onboard_time": 1717508538,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 306033,
+      "num": 306033,
+      "word": "徐艺洋运动就会恶心",
+      "onboard_time": 1717575498,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 305776,
@@ -3683,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274357,
+      "num": 274357,
+      "word": "墨西哥女子试图与火车自拍被撞身亡",
+      "onboard_time": 1717573276,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274036,
       "num": 207648,
       "word": "没了董宇辉东方甄选只能乱七八糟吗",
@@ -3867,6 +3923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258984,
+      "num": 173748,
+      "word": "快抱抱王安宇吧他又碎了",
+      "onboard_time": 1717572917,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258354,
       "num": 212291,
       "word": "张若昀庆余年2最后一场戏",
@@ -3955,6 +4019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254394,
+      "num": 172842,
+      "word": "优酷客服回应墨雨云间时长被疑违规",
+      "onboard_time": 1717574117,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254122,
       "num": 254122,
       "word": "张凌赫新郎造型",
@@ -4025,6 +4097,14 @@
       "onboard_time": 1717426219,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 245811,
+      "num": 172064,
+      "word": "胡歌谈游本昌放弃白玉兰奖",
+      "onboard_time": 1717574898,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 245545,
@@ -4883,6 +4963,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 204218,
+      "num": 171846,
+      "word": "范湉湉演技",
+      "onboard_time": 1717572498,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204047,
       "num": 204047,
       "word": "五月天深圳演唱会",
@@ -5097,14 +5185,6 @@
       "onboard_time": 1717418776,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198259,
-      "num": 163702,
-      "word": "范湉湉演技",
-      "onboard_time": 1717572498,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 198245,
@@ -5625,14 +5705,6 @@
       "onboard_time": 1717297142,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 183508,
-      "num": 163577,
-      "word": "医生建议给皮肤轻断食",
-      "onboard_time": 1717572437,
-      "rank": 26,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 181991,
@@ -6331,6 +6403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161593,
+      "num": 161593,
+      "word": "1亿元天价保单被保人0岁",
+      "onboard_time": 1717575318,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161537,
       "num": 161537,
       "word": "拥抱金硕珍",
@@ -6377,14 +6457,6 @@
       "onboard_time": 1717302017,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160100,
-      "num": 160100,
-      "word": "茅台冰淇淋买一送一没人吃",
-      "onboard_time": 1717572737,
-      "rank": 30,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 159760,
@@ -7043,6 +7115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141595,
+      "num": 141595,
+      "word": "刘亦菲女团舞",
+      "onboard_time": 1717575498,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141450,
       "num": 141450,
       "word": "薛之谦演唱会背过身吸氧",
@@ -7057,6 +7137,14 @@
       "onboard_time": 1717323197,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140899,
+      "num": 140899,
+      "word": "明日方舟",
+      "onboard_time": 1717575437,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 140829,
@@ -7289,6 +7377,14 @@
       "onboard_time": 1717465697,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134669,
+      "num": 134669,
+      "word": "imp说Letme不约训练赛",
+      "onboard_time": 1717574358,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 134569,
@@ -7875,6 +7971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123398,
+      "num": 123398,
+      "word": "拼车拼到一只小狗乘客",
+      "onboard_time": 1717574956,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123355,
       "num": 123355,
       "word": "陶喆毕业后两年没有工作",
@@ -8113,6 +8217,14 @@
       "onboard_time": 1717466417,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118204,
+      "num": 118204,
+      "word": "狗狗被剃毛后不认识自己了",
+      "onboard_time": 1717573038,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 117555,
@@ -8643,6 +8755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106238,
+      "num": 106238,
+      "word": "猫妈带着独生子出门啦",
+      "onboard_time": 1717575437,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106141,
       "num": 106141,
       "word": "剑网3否认对某手游IVE事件推波助澜",
@@ -8835,6 +8955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99840,
+      "num": 99840,
+      "word": "高考是高高兴兴去考试",
+      "onboard_time": 1717573878,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99643,
       "num": 322510,
       "word": "小儿青少年也会有妇科病",
@@ -9001,6 +9129,14 @@
       "onboard_time": 1717290796,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91110,
+      "num": 91110,
+      "word": "玫瑰的故事OST歌单阵容",
+      "onboard_time": 1717573517,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 90202,
@@ -9193,6 +9329,14 @@
       "onboard_time": 1717559118,
       "rank": 11,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 78237,
+      "num": 445341,
+      "word": "公积金房贷利率下调有何影响",
+      "onboard_time": 1717574417,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78226,
@@ -9619,6 +9763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57375,
+      "num": 882604,
+      "word": "我在五千年前等你",
+      "onboard_time": 1717559118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56761,
       "num": 153235,
       "word": "中石化回应八大油田上架淘宝",
@@ -9953,6 +10105,14 @@
       "onboard_time": 1717246398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37957,
+      "num": 170496,
+      "word": "海钓会惩罚每个不做防晒的人",
+      "onboard_time": 1717573218,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 37905,
