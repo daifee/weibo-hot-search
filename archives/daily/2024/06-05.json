@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717558627454,
+  "endTime": 1717561514596,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2400189,
-      "num": 741686,
+      "num": 1262063,
       "word": "出差疑被老板强奸隔壁房客录下证据",
       "onboard_time": 1717548799,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2330224,
-      "num": 736656,
+      "num": 1198597,
       "word": "追风者声明",
       "onboard_time": 1717549639,
       "rank": 3,
@@ -35,6 +35,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1620995,
+      "num": 1620995,
+      "word": "歌手发布歌单",
+      "onboard_time": 1717558938,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1409099,
+      "num": 1409099,
+      "word": "周大福深圳工厂停工停产",
+      "onboard_time": 1717556717,
+      "rank": 12,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1371095,
       "num": 1531487,
       "word": "苹果截图 诈骗骗局",
@@ -43,12 +59,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 999347,
-      "num": 999347,
-      "word": "周大福深圳工厂停工停产",
-      "onboard_time": 1717556717,
+      "raw_hot": 1142567,
+      "num": 1142567,
+      "word": "清华毕业生35岁再考清华",
+      "onboard_time": 1717558398,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1068332,
+      "num": 456679,
+      "word": "国企造假",
+      "onboard_time": 1717559957,
       "rank": 12,
-      "category": "财经,社会新闻"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924063,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 774000,
-      "num": 211117,
+      "num": 290316,
       "word": "女子将15只大虫藏女童身后过关",
       "onboard_time": 1717549877,
       "rank": 30,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 724958,
-      "num": 208074,
+      "num": 291339,
       "word": "网约车迟到8分钟致误机女子索赔",
       "onboard_time": 1717551318,
       "rank": 30,
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 719095,
-      "num": 208169,
+      "num": 289734,
       "word": "巨婴式婚姻",
       "onboard_time": 1717553957,
       "rank": 30,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 688500,
-      "num": 208057,
+      "num": 290704,
       "word": "突然发现九月是调休大月",
       "onboard_time": 1717550119,
       "rank": 31,
@@ -121,6 +145,14 @@
       "onboard_time": 1717547419,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 633861,
+      "num": 633861,
+      "word": "墨雨云间只有中戏四个人没配音",
+      "onboard_time": 1717559179,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 612767,
@@ -147,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 538278,
+      "num": 431769,
+      "word": "意大利滑雪名将和女友坠崖身亡",
+      "onboard_time": 1717559719,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 533115,
       "num": 418362,
       "word": "婚纱照发朋友圈被人说不好看",
@@ -161,6 +201,14 @@
       "onboard_time": 1717518255,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486836,
+      "num": 486836,
+      "word": "张颂文荣梓杉双男主",
+      "onboard_time": 1717559418,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 460102,
@@ -243,6 +291,30 @@
       "category": "教育"
     },
     {
+      "raw_hot": 364628,
+      "num": 364628,
+      "word": "陈丽君说永远不会离开越剧舞台",
+      "onboard_time": 1717556838,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 353840,
+      "num": 353840,
+      "word": "rita回应整容谣言",
+      "onboard_time": 1717559298,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 353416,
+      "num": 353416,
+      "word": "王者荣耀",
+      "onboard_time": 1717558158,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 348413,
       "num": 348413,
       "word": "三星堆博物馆游客抡凳子打架",
@@ -283,14 +355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 313766,
-      "num": 334900,
-      "word": "陈丽君说永远不会离开越剧舞台",
-      "onboard_time": 1717556838,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305776,
       "num": 305776,
       "word": "以为是更年期结果是怀孕了",
@@ -313,6 +377,22 @@
       "onboard_time": 1717513519,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292451,
+      "num": 292451,
+      "word": "周大福",
+      "onboard_time": 1717559598,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 287450,
+      "num": 276367,
+      "word": "刘亦菲花裙大波浪",
+      "onboard_time": 1717560619,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 284015,
@@ -411,6 +491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254857,
+      "num": 254857,
+      "word": "李昊音乐会抢票",
+      "onboard_time": 1717561039,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 240520,
+      "num": 240520,
+      "word": "和马里奥谈恋爱有点费命",
+      "onboard_time": 1717561100,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240452,
       "num": 192235,
       "word": "为什么夏天不敢穿黄色衣服出门",
@@ -459,12 +555,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 227355,
-      "num": 227355,
-      "word": "王者荣耀",
-      "onboard_time": 1717558158,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 228898,
+      "num": 228898,
+      "word": "权志龙担任KAIST教授",
+      "onboard_time": 1717558878,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 227523,
+      "num": 227523,
+      "word": "奔跑吧",
+      "onboard_time": 1717559899,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 226817,
@@ -515,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206325,
+      "num": 206325,
+      "word": "刘亦菲ins预热玫瑰的故事",
+      "onboard_time": 1717561459,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204930,
       "num": 204930,
       "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
@@ -523,12 +635,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203732,
+      "num": 202242,
+      "word": "玫瑰的故事卷首语",
+      "onboard_time": 1717560379,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202614,
       "num": 202614,
       "word": "密逃6首期录制没有杨幂",
       "onboard_time": 1717506917,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202381,
+      "num": 202381,
+      "word": "王一博皮衣潮男",
+      "onboard_time": 1717559598,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 202231,
@@ -547,6 +675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200258,
+      "num": 200258,
+      "word": "因为加菲猫 领养了猫",
+      "onboard_time": 1717559359,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195231,
       "num": 195231,
       "word": "欧文签约父亲",
@@ -561,14 +697,6 @@
       "onboard_time": 1717554979,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 185977,
-      "num": 185977,
-      "word": "清华毕业生35岁再考清华",
-      "onboard_time": 1717558398,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 181244,
@@ -627,6 +755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165998,
+      "num": 165998,
+      "word": "为什么说跑步是一项治愈运动",
+      "onboard_time": 1717560439,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 163276,
       "num": 163276,
       "word": "初恋一响青春登场",
@@ -673,6 +809,14 @@
       "onboard_time": 1717544356,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151130,
+      "num": 151130,
+      "word": "人生允许有多次重新选择",
+      "onboard_time": 1717560798,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 150045,
@@ -737,6 +881,14 @@
       "onboard_time": 1717551138,
       "rank": 38,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 137078,
+      "num": 149160,
+      "word": "TheShy说Tarzan豹女玩的不好",
+      "onboard_time": 1717560559,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 134569,
@@ -811,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116653,
+      "num": 292160,
+      "word": "刘诗诗冷女妆",
+      "onboard_time": 1717558878,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116405,
       "num": 116405,
       "word": "王珞丹27年前做的裙子妈妈还留着",
@@ -825,6 +985,14 @@
       "onboard_time": 1717556238,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114955,
+      "num": 1267328,
+      "word": "芒种遇到周三有多忙",
+      "onboard_time": 1717559359,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114530,
@@ -1035,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73455,
+      "num": 481374,
+      "word": "极端天气是不是变多了",
+      "onboard_time": 1717560019,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 72947,
       "num": 72947,
       "word": "追风者 剪辑",
@@ -1081,6 +1257,14 @@
       "onboard_time": 1717513640,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 65115,
+      "num": 462676,
+      "word": "刘亦菲代言魔力宝贝复兴手游",
+      "onboard_time": 1717559118,
+      "rank": 11,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 64833,

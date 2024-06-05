@@ -1,0 +1,410 @@
+{
+  "runTime": 1717561514596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1620995,
+        "num": 1620995,
+        "word": "歌手发布歌单",
+        "onboard_time": 1717558938,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1409099,
+        "num": 1409099,
+        "word": "周大福深圳工厂停工停产",
+        "onboard_time": 1717556717,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 114955,
+        "num": 1267328,
+        "word": "芒种遇到周三有多忙",
+        "onboard_time": 1717559359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1765911,
+        "num": 1262063,
+        "word": "出差疑被老板强奸隔壁房客录下证据",
+        "onboard_time": 1717548799,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1198597,
+        "num": 1198597,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1142567,
+        "num": 1142567,
+        "word": "清华毕业生35岁再考清华",
+        "onboard_time": 1717558398,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 659857,
+        "num": 659857,
+        "word": "苹果截图 诈骗骗局",
+        "onboard_time": 1717552577,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 633861,
+        "num": 633861,
+        "word": "墨雨云间只有中戏四个人没配音",
+        "onboard_time": 1717559179,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486836,
+        "num": 486836,
+        "word": "张颂文荣梓杉双男主",
+        "onboard_time": 1717559418,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73455,
+        "num": 481374,
+        "word": "极端天气是不是变多了",
+        "onboard_time": 1717560019,
+        "rank": 9,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 3499140,
+        "num": 474439,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65115,
+        "num": 462676,
+        "word": "刘亦菲代言魔力宝贝复兴手游",
+        "onboard_time": 1717559118,
+        "rank": 11,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 1068332,
+        "num": 456679,
+        "word": "国企造假",
+        "onboard_time": 1717559957,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 817069,
+        "num": 439237,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538278,
+        "num": 431769,
+        "word": "意大利滑雪名将和女友坠崖身亡",
+        "onboard_time": 1717559719,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429014,
+        "num": 429014,
+        "word": "医院回应剧组让患者家属小声点哭",
+        "onboard_time": 1717555277,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364628,
+        "num": 364628,
+        "word": "陈丽君说永远不会离开越剧舞台",
+        "onboard_time": 1717556838,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353840,
+        "num": 353840,
+        "word": "rita回应整容谣言",
+        "onboard_time": 1717559298,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 353416,
+        "num": 353416,
+        "word": "王者荣耀",
+        "onboard_time": 1717558158,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 292451,
+        "num": 292451,
+        "word": "周大福",
+        "onboard_time": 1717559598,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116653,
+        "num": 292160,
+        "word": "刘诗诗冷女妆",
+        "onboard_time": 1717558878,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 521120,
+        "num": 291339,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480297,
+        "num": 290704,
+        "word": "突然发现九月是调休大月",
+        "onboard_time": 1717550119,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405742,
+        "num": 290316,
+        "word": "女子将15只大虫藏女童身后过关",
+        "onboard_time": 1717549877,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348420,
+        "num": 289734,
+        "word": "巨婴式婚姻",
+        "onboard_time": 1717553957,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346713,
+        "num": 289070,
+        "word": "张艺兴娜扎打戏",
+        "onboard_time": 1717556598,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292754,
+        "num": 288523,
+        "word": "种地吧",
+        "onboard_time": 1717554437,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288152,
+        "num": 288152,
+        "word": "玫瑰的故事主题曲",
+        "onboard_time": 1717556658,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278986,
+        "num": 278986,
+        "word": "以为是更年期结果是怀孕了",
+        "onboard_time": 1717558098,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287450,
+        "num": 276367,
+        "word": "刘亦菲花裙大波浪",
+        "onboard_time": 1717560619,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254857,
+        "num": 254857,
+        "word": "李昊音乐会抢票",
+        "onboard_time": 1717561039,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 240520,
+        "num": 240520,
+        "word": "和马里奥谈恋爱有点费命",
+        "onboard_time": 1717561100,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228898,
+        "num": 228898,
+        "word": "权志龙担任KAIST教授",
+        "onboard_time": 1717558878,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227523,
+        "num": 227523,
+        "word": "奔跑吧",
+        "onboard_time": 1717559899,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206325,
+        "num": 206325,
+        "word": "刘亦菲ins预热玫瑰的故事",
+        "onboard_time": 1717561459,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202381,
+        "num": 202381,
+        "word": "王一博皮衣潮男",
+        "onboard_time": 1717559598,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203732,
+        "num": 202242,
+        "word": "玫瑰的故事卷首语",
+        "onboard_time": 1717560379,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200258,
+        "num": 200258,
+        "word": "因为加菲猫 领养了猫",
+        "onboard_time": 1717559359,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197541,
+        "num": 197541,
+        "word": "墨雨云间",
+        "onboard_time": 1717557857,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189264,
+        "num": 189264,
+        "word": "终于见到小说里的蛋糕了",
+        "onboard_time": 1717554918,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187874,
+        "num": 187874,
+        "word": "墨雨云间里的纪凌尘",
+        "onboard_time": 1717548498,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183452,
+        "num": 183452,
+        "word": "女装尺码越来越小了",
+        "onboard_time": 1717552637,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 176522,
+        "num": 176522,
+        "word": "距离2024高考还有2天",
+        "onboard_time": 1717546098,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173978,
+        "num": 173978,
+        "word": "没了董宇辉东方甄选只能乱七八糟吗",
+        "onboard_time": 1717555098,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172329,
+        "num": 172329,
+        "word": "剧组ICU拍剧竟让患者家属哭小声点",
+        "onboard_time": 1717551676,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165998,
+        "num": 165998,
+        "word": "为什么说跑步是一项治愈运动",
+        "onboard_time": 1717560439,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 172183,
+        "num": 158923,
+        "word": "刘诗诗明艳红唇",
+        "onboard_time": 1717558219,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151130,
+        "num": 151130,
+        "word": "人生允许有多次重新选择",
+        "onboard_time": 1717560798,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149681,
+        "num": 149681,
+        "word": "欧文签约父亲",
+        "onboard_time": 1717558038,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137078,
+        "num": 149160,
+        "word": "TheShy说Tarzan豹女玩的不好",
+        "onboard_time": 1717560559,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向墨西哥当选总统致贺电#"
+    }
+  }
+}

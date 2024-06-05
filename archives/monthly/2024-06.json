@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717558627454,
+  "endTime": 1717561514596,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2400189,
-      "num": 741686,
+      "num": 1262063,
       "word": "出差疑被老板强奸隔壁房客录下证据",
       "onboard_time": 1717548799,
       "rank": 10,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2330224,
-      "num": 736656,
+      "num": 1198597,
       "word": "追风者声明",
       "onboard_time": 1717549639,
       "rank": 3,
@@ -195,6 +195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1620995,
+      "num": 1620995,
+      "word": "歌手发布歌单",
+      "onboard_time": 1717558938,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1613663,
       "num": 1613663,
       "word": "王源演唱会抢票",
@@ -313,6 +321,14 @@
       "onboard_time": 1717162527,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1409099,
+      "num": 1409099,
+      "word": "周大福深圳工厂停工停产",
+      "onboard_time": 1717556717,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1406730,
@@ -539,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1142567,
+      "num": 1142567,
+      "word": "清华毕业生35岁再考清华",
+      "onboard_time": 1717558398,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1140654,
       "num": 1140654,
       "word": "朝鲜将暂停向韩国投放垃圾",
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1068332,
+      "num": 456679,
+      "word": "国企造假",
+      "onboard_time": 1717559957,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1046042,
       "num": 1017885,
       "word": "李沁一字告别庆余年",
@@ -673,14 +705,6 @@
       "onboard_time": 1717510218,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 999347,
-      "num": 999347,
-      "word": "周大福深圳工厂停工停产",
-      "onboard_time": 1717556717,
-      "rank": 12,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 998937,
@@ -1108,7 +1132,7 @@
     },
     {
       "raw_hot": 774000,
-      "num": 211117,
+      "num": 290316,
       "word": "女子将15只大虫藏女童身后过关",
       "onboard_time": 1717549877,
       "rank": 30,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 724958,
-      "num": 208074,
+      "num": 291339,
       "word": "网约车迟到8分钟致误机女子索赔",
       "onboard_time": 1717551318,
       "rank": 30,
@@ -1316,7 +1340,7 @@
     },
     {
       "raw_hot": 719095,
-      "num": 208169,
+      "num": 289734,
       "word": "巨婴式婚姻",
       "onboard_time": 1717553957,
       "rank": 30,
@@ -1380,7 +1404,7 @@
     },
     {
       "raw_hot": 688500,
-      "num": 208057,
+      "num": 290704,
       "word": "突然发现九月是调休大月",
       "onboard_time": 1717550119,
       "rank": 31,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1717471757,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 633861,
+      "num": 633861,
+      "word": "墨雨云间只有中戏四个人没配音",
+      "onboard_time": 1717559179,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 626963,
@@ -2035,6 +2067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 538278,
+      "num": 431769,
+      "word": "意大利滑雪名将和女友坠崖身亡",
+      "onboard_time": 1717559719,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 537019,
       "num": 537019,
       "word": "刘宇宁李一桐吻戏路透",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1717460598,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 486836,
+      "num": 486836,
+      "word": "张颂文荣梓杉双男主",
+      "onboard_time": 1717559418,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 485825,
@@ -3403,6 +3451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364628,
+      "num": 364628,
+      "word": "陈丽君说永远不会离开越剧舞台",
+      "onboard_time": 1717556838,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364613,
       "num": 364613,
       "word": "易烊千玺六一营业",
@@ -3497,6 +3553,22 @@
       "onboard_time": 1717254680,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 353840,
+      "num": 353840,
+      "word": "rita回应整容谣言",
+      "onboard_time": 1717559298,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 353416,
+      "num": 353416,
+      "word": "王者荣耀",
+      "onboard_time": 1717558158,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 352543,
@@ -3955,14 +4027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 313766,
-      "num": 334900,
-      "word": "陈丽君说永远不会离开越剧舞台",
-      "onboard_time": 1717556838,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 312808,
       "num": 312808,
       "word": "何洁 尚雯婕",
@@ -4211,6 +4275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 292451,
+      "num": 292451,
+      "word": "周大福",
+      "onboard_time": 1717559598,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 292447,
       "num": 170543,
       "word": "荔枝十元3斤要来了",
@@ -4305,6 +4377,14 @@
       "onboard_time": 1717300637,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287450,
+      "num": 276367,
+      "word": "刘亦菲花裙大波浪",
+      "onboard_time": 1717560619,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 286942,
@@ -4811,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254857,
+      "num": 254857,
+      "word": "李昊音乐会抢票",
+      "onboard_time": 1717561039,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254742,
       "num": 254742,
       "word": "墨雨云间 嫡嫁千金",
@@ -5001,6 +5089,14 @@
       "onboard_time": 1717468516,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 240520,
+      "num": 240520,
+      "word": "和马里奥谈恋爱有点费命",
+      "onboard_time": 1717561100,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 240452,
@@ -5283,6 +5379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228898,
+      "num": 228898,
+      "word": "权志龙担任KAIST教授",
+      "onboard_time": 1717558878,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228871,
       "num": 185737,
       "word": "陈道明演技",
@@ -5315,12 +5419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227355,
-      "num": 227355,
-      "word": "王者荣耀",
-      "onboard_time": 1717558158,
-      "rank": 18,
-      "category": "电竞"
+      "raw_hot": 227523,
+      "num": 227523,
+      "word": "奔跑吧",
+      "onboard_time": 1717377558,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 227344,
@@ -5401,14 +5505,6 @@
       "onboard_time": 1717244778,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224324,
-      "num": 224324,
-      "word": "奔跑吧",
-      "onboard_time": 1717377558,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 223940,
@@ -5851,6 +5947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206325,
+      "num": 206325,
+      "word": "刘亦菲ins预热玫瑰的故事",
+      "onboard_time": 1717561459,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206190,
       "num": 254047,
       "word": "汪苏泷看到热搜了",
@@ -5923,6 +6027,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 203732,
+      "num": 202242,
+      "word": "玫瑰的故事卷首语",
+      "onboard_time": 1717560379,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203543,
       "num": 192555,
       "word": "李一桐田曦薇挽手",
@@ -5961,6 +6073,14 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202381,
+      "num": 202381,
+      "word": "王一博皮衣潮男",
+      "onboard_time": 1717559598,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201968,
@@ -6065,6 +6185,14 @@
       "onboard_time": 1717416679,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 200258,
+      "num": 200258,
+      "word": "因为加菲猫 领养了猫",
+      "onboard_time": 1717559359,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 200117,
@@ -6649,14 +6777,6 @@
       "onboard_time": 1717305378,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 185977,
-      "num": 185977,
-      "word": "清华毕业生35岁再考清华",
-      "onboard_time": 1717558398,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 185924,
@@ -7435,6 +7555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165998,
+      "num": 165998,
+      "word": "为什么说跑步是一项治愈运动",
+      "onboard_time": 1717560439,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 165959,
       "num": 165959,
       "word": "王者荣耀皮影戏联动",
@@ -8099,6 +8227,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 151130,
+      "num": 151130,
+      "word": "人生允许有多次重新选择",
+      "onboard_time": 1717560798,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151024,
       "num": 151024,
       "word": "三家日本车企高管开记者会道歉",
@@ -8737,6 +8873,14 @@
       "onboard_time": 1717221017,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 137078,
+      "num": 149160,
+      "word": "TheShy说Tarzan豹女玩的不好",
+      "onboard_time": 1717560559,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 137041,
@@ -9843,6 +9987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116653,
+      "num": 292160,
+      "word": "刘诗诗冷女妆",
+      "onboard_time": 1717558878,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 116593,
       "num": 116593,
       "word": "剑网3手绘",
@@ -9969,6 +10121,14 @@
       "onboard_time": 1717225997,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114955,
+      "num": 1267328,
+      "word": "芒种遇到周三有多忙",
+      "onboard_time": 1717559359,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114585,
@@ -11291,6 +11451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73455,
+      "num": 481374,
+      "word": "极端天气是不是变多了",
+      "onboard_time": 1717560019,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 73184,
       "num": 366584,
       "word": "第一次在大熊猫脸上看到震惊",
@@ -11457,6 +11625,14 @@
       "onboard_time": 1717252159,
       "rank": 40,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 65115,
+      "num": 462676,
+      "word": "刘亦菲代言魔力宝贝复兴手游",
+      "onboard_time": 1717559118,
+      "rank": 11,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 64985,
