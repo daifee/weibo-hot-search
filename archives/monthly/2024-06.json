@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717544067834,
+  "endTime": 1717550358465,
   "band_list": [
     {
       "raw_hot": 4295015,
@@ -25,6 +25,14 @@
       "onboard_time": 1717395378,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2383451,
+      "num": 366005,
+      "word": "出差疑被老板强奸隔壁房客录下证据",
+      "onboard_time": 1717548799,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2314679,
@@ -64,6 +72,14 @@
       "word": "庆余年第三季",
       "onboard_time": 1717333279,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1943930,
+      "num": 517897,
+      "word": "追风者声明",
+      "onboard_time": 1717549639,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -361,6 +377,14 @@
       "onboard_time": 1717160063,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1285190,
+      "num": 516279,
+      "word": "王一博 魏若来不仅是一个人的成长",
+      "onboard_time": 1717549819,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1283480,
@@ -1115,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760650,
+      "num": 760650,
+      "word": "12306回应高铁新添优选一等座",
+      "onboard_time": 1717545017,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759030,
       "num": 1127612,
       "word": "为什么患上尿毒症的年轻人越来越多",
@@ -1379,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 671063,
+      "num": 355527,
+      "word": "端午之后七八月份一个假都没有",
+      "onboard_time": 1717543636,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 668525,
       "num": 668525,
       "word": "8岁女孩脑死亡过最后一个六一",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1717480877,
       "rank": 12,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 644289,
+      "num": 644289,
+      "word": "斯洛文尼亚宣布承认巴勒斯坦国",
+      "onboard_time": 1717547419,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 639056,
@@ -2084,7 +2132,7 @@
     },
     {
       "raw_hot": 506652,
-      "num": 204121,
+      "num": 306753,
       "word": "B太曝长沙夜市水果捞鬼秤",
       "onboard_time": 1717518255,
       "rank": 49,
@@ -2363,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460102,
+      "num": 460102,
+      "word": "父亲称孩子因多看两眼遭陌生人掐脖",
+      "onboard_time": 1717545017,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458616,
       "num": 458616,
       "word": "赵露思陈伟霆 许我耀眼",
@@ -2385,6 +2441,14 @@
       "onboard_time": 1717322479,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 456113,
+      "num": 369503,
+      "word": "2025QS世界大学排名",
+      "onboard_time": 1717542675,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 455801,
@@ -2545,6 +2609,14 @@
       "onboard_time": 1717386319,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433318,
+      "num": 353077,
+      "word": "长期护肤和不护肤的区别有多大",
+      "onboard_time": 1717547839,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 433050,
@@ -3107,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373098,
+      "num": 373098,
+      "word": "距离2024高考还有2天",
+      "onboard_time": 1717546098,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 372670,
       "num": 282561,
       "word": "魏大勋急眼了",
@@ -3153,14 +3233,6 @@
       "onboard_time": 1717219577,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 369503,
-      "num": 369503,
-      "word": "2025QS世界大学排名",
-      "onboard_time": 1717542675,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 369396,
@@ -3371,6 +3443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348413,
+      "num": 348413,
+      "word": "三星堆博物馆游客抡凳子打架",
+      "onboard_time": 1717545737,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346876,
       "num": 346876,
       "word": "巴勒斯坦儿童",
@@ -3401,6 +3481,14 @@
       "onboard_time": 1717320257,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 344478,
+      "num": 344478,
+      "word": "墨雨云间里的纪凌尘",
+      "onboard_time": 1717548498,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 343069,
@@ -3489,6 +3577,14 @@
       "onboard_time": 1717283353,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333073,
+      "num": 333073,
+      "word": "阿沁公开飞儿乐团创作录音",
+      "onboard_time": 1717548438,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 331567,
@@ -4259,6 +4355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273857,
+      "num": 273857,
+      "word": "姜若瑶人设",
+      "onboard_time": 1717548738,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273761,
       "num": 273761,
       "word": "东方甄选直播间画风变了",
@@ -4361,6 +4465,14 @@
       "onboard_time": 1717483398,
       "rank": 15,
       "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 267390,
+      "num": 203532,
+      "word": "女子将15只大虫藏女童身后过关",
+      "onboard_time": 1717549877,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267239,
@@ -4875,6 +4987,14 @@
       "category": "美食,财经"
     },
     {
+      "raw_hot": 234450,
+      "num": 234450,
+      "word": "女子去朋友家做客被浙江农村惊到了",
+      "onboard_time": 1717548318,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234434,
       "num": 234434,
       "word": "我梦到高考语文题目了",
@@ -4929,6 +5049,14 @@
       "onboard_time": 1717171879,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 230514,
+      "num": 230514,
+      "word": "坚持护肤一个月后脸部的变化",
+      "onboard_time": 1717545857,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 229971,
@@ -5001,6 +5129,14 @@
       "onboard_time": 1717318818,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 226817,
+      "num": 226817,
+      "word": "为什么身上会有鸡皮肤",
+      "onboard_time": 1717548618,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 226584,
@@ -5131,6 +5267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220757,
+      "num": 220757,
+      "word": "大大方方结束一段不真诚的关系",
+      "onboard_time": 1717543275,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220080,
       "num": 220080,
       "word": "白玉兰",
@@ -5145,6 +5289,14 @@
       "onboard_time": 1717302078,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218662,
+      "num": 218662,
+      "word": "石人峡意外落水遇难领队系资深驴友",
+      "onboard_time": 1717548618,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218628,
@@ -5249,6 +5401,14 @@
       "onboard_time": 1717243158,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214703,
+      "num": 214703,
+      "word": "王星越壁纸",
+      "onboard_time": 1717546040,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 214474,
@@ -5881,6 +6041,14 @@
       "onboard_time": 1717304118,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196108,
+      "num": 196108,
+      "word": "突然发现九月是调休大月",
+      "onboard_time": 1717550119,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 195931,
@@ -7467,6 +7635,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 154997,
+      "num": 154997,
+      "word": "张凌赫徐若晗吻戏路透",
+      "onboard_time": 1717545076,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154988,
       "num": 154988,
       "word": "肖战藏海传杀青发文",
@@ -7505,6 +7681,14 @@
       "onboard_time": 1717215977,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153276,
+      "num": 153276,
+      "word": "向佐被罚做20个俯卧撑",
+      "onboard_time": 1717544356,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 152902,
@@ -7561,14 +7745,6 @@
       "onboard_time": 1717246638,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151926,
-      "num": 151926,
-      "word": "端午之后七八月份一个假都没有",
-      "onboard_time": 1717543636,
-      "rank": 15,
-      "category": "情感"
     },
     {
       "raw_hot": 151874,
@@ -7665,6 +7841,14 @@
       "onboard_time": 1717199175,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149892,
+      "num": 371068,
+      "word": "骑手小哥头戴开字送高考祝福",
+      "onboard_time": 1717549699,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 149815,
@@ -7987,6 +8171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 142426,
+      "num": 520284,
+      "word": "五星红旗在月亮之上",
+      "onboard_time": 1717510699,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142312,
       "num": 142312,
       "word": "姆巴佩正式加盟皇马",
@@ -8089,6 +8281,14 @@
       "onboard_time": 1717403658,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 140243,
+      "num": 140243,
+      "word": "芒种一过就要高考了",
+      "onboard_time": 1717545857,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 139970,
@@ -8411,6 +8611,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 132884,
+      "num": 132884,
+      "word": "结婚了就得有一份责任了",
+      "onboard_time": 1717545497,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132820,
       "num": 132820,
       "word": "庆余年2CP投票",
@@ -8521,6 +8729,14 @@
       "onboard_time": 1717411279,
       "rank": 41,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 130213,
+      "num": 130213,
+      "word": "涂山红红九尾法相",
+      "onboard_time": 1717546458,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 129873,
@@ -9019,6 +9235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122436,
+      "num": 122436,
+      "word": "苹果市值逼近3万亿",
+      "onboard_time": 1717547419,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 122355,
       "num": 122355,
       "word": "EDG大师赛对阵PRX",
@@ -9475,6 +9699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112631,
+      "num": 112631,
+      "word": "长期饮酒等于花钱买病",
+      "onboard_time": 1717549579,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112327,
       "num": 112327,
       "word": "王星越评价夺人妻新赛道",
@@ -9619,14 +9851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110106,
-      "num": 110106,
-      "word": "大大方方结束一段不真诚的关系",
-      "onboard_time": 1717543275,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 109841,
       "num": 109841,
       "word": "陈梦3比1张本美和",
@@ -9753,6 +9977,14 @@
       "onboard_time": 1717321339,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107956,
+      "num": 107956,
+      "word": "愿每位考生的辛苦耕耘都能收获满满",
+      "onboard_time": 1717548618,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 107662,
@@ -9947,6 +10179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103110,
+      "num": 103110,
+      "word": "算命 适合中国宝宝的心理咨询",
+      "onboard_time": 1717547059,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102914,
       "num": 102914,
       "word": "贾乃亮回复郭晓婷",
@@ -10065,6 +10305,14 @@
       "onboard_time": 1717238777,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98576,
+      "num": 98576,
+      "word": "雷军建议考生放松心情",
+      "onboard_time": 1717548618,
+      "rank": 48,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 98565,
@@ -10897,14 +11145,6 @@
       "onboard_time": 1717541832,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63154,
-      "num": 364832,
-      "word": "五星红旗在月亮之上",
-      "onboard_time": 1717510699,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62090,

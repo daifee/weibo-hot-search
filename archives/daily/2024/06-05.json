@@ -1,14 +1,62 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717544067834,
+  "endTime": 1717550358465,
   "band_list": [
     {
+      "raw_hot": 2383451,
+      "num": 366005,
+      "word": "出差疑被老板强奸隔壁房客录下证据",
+      "onboard_time": 1717548799,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 1943930,
+      "num": 517897,
+      "word": "追风者声明",
+      "onboard_time": 1717549639,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1285190,
+      "num": 516279,
+      "word": "王一博 魏若来不仅是一个人的成长",
+      "onboard_time": 1717549819,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 924063,
-      "num": 208014,
+      "num": 322760,
       "word": "女子酒店洗澡被陌生男开门闯入",
       "onboard_time": 1717514358,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 760650,
+      "num": 760650,
+      "word": "12306回应高铁新添优选一等座",
+      "onboard_time": 1717545017,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671063,
+      "num": 355527,
+      "word": "端午之后七八月份一个假都没有",
+      "onboard_time": 1717543636,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 644289,
+      "num": 644289,
+      "word": "斯洛文尼亚宣布承认巴勒斯坦国",
+      "onboard_time": 1717547419,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 612767,
@@ -20,7 +68,7 @@
     },
     {
       "raw_hot": 533115,
-      "num": 386518,
+      "num": 418362,
       "word": "婚纱照发朋友圈被人说不好看",
       "onboard_time": 1717510218,
       "rank": 3,
@@ -28,11 +76,35 @@
     },
     {
       "raw_hot": 506652,
-      "num": 204121,
+      "num": 306753,
       "word": "B太曝长沙夜市水果捞鬼秤",
       "onboard_time": 1717518255,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 460102,
+      "num": 460102,
+      "word": "父亲称孩子因多看两眼遭陌生人掐脖",
+      "onboard_time": 1717545017,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456113,
+      "num": 369503,
+      "word": "2025QS世界大学排名",
+      "onboard_time": 1717542675,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 433318,
+      "num": 353077,
+      "word": "长期护肤和不护肤的区别有多大",
+      "onboard_time": 1717547839,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 424479,
@@ -51,12 +123,36 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 369503,
-      "num": 369503,
-      "word": "2025QS世界大学排名",
-      "onboard_time": 1717542675,
-      "rank": 16,
+      "raw_hot": 373098,
+      "num": 373098,
+      "word": "距离2024高考还有2天",
+      "onboard_time": 1717546098,
+      "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 348413,
+      "num": 348413,
+      "word": "三星堆博物馆游客抡凳子打架",
+      "onboard_time": 1717545737,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344478,
+      "num": 344478,
+      "word": "墨雨云间里的纪凌尘",
+      "onboard_time": 1717548498,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 333073,
+      "num": 333073,
+      "word": "阿沁公开飞儿乐团创作录音",
+      "onboard_time": 1717548438,
+      "rank": 15,
+      "category": "音乐"
     },
     {
       "raw_hot": 314501,
@@ -83,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273857,
+      "num": 273857,
+      "word": "姜若瑶人设",
+      "onboard_time": 1717548738,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269630,
       "num": 269630,
       "word": "GAI输给王鹤棣后每天苦练篮球",
@@ -91,12 +195,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 267390,
+      "num": 203532,
+      "word": "女子将15只大虫藏女童身后过关",
+      "onboard_time": 1717549877,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265273,
       "num": 265273,
       "word": "节食减肥的尽头可能是内分泌科",
       "onboard_time": 1717507519,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 262201,
+      "num": 262201,
+      "word": "60块买的土狗越来越洋气了",
+      "onboard_time": 1717511660,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 258670,
@@ -115,20 +235,60 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254775,
-      "num": 124093,
-      "word": "60块买的土狗越来越洋气了",
-      "onboard_time": 1717511660,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 240294,
       "num": 240294,
       "word": "李赫宰曾是TFBOYS演唱会总导演",
       "onboard_time": 1717513338,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234450,
+      "num": 234450,
+      "word": "女子去朋友家做客被浙江农村惊到了",
+      "onboard_time": 1717548318,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230514,
+      "num": 230514,
+      "word": "坚持护肤一个月后脸部的变化",
+      "onboard_time": 1717545857,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 226817,
+      "num": 226817,
+      "word": "为什么身上会有鸡皮肤",
+      "onboard_time": 1717548618,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 220757,
+      "num": 220757,
+      "word": "大大方方结束一段不真诚的关系",
+      "onboard_time": 1717543275,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 218662,
+      "num": 218662,
+      "word": "石人峡意外落水遇难领队系资深驴友",
+      "onboard_time": 1717548618,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214703,
+      "num": 214703,
+      "word": "王星越壁纸",
+      "onboard_time": 1717546040,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 204930,
@@ -155,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196108,
+      "num": 196108,
+      "word": "突然发现九月是调休大月",
+      "onboard_time": 1717550119,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180925,
       "num": 180925,
       "word": "电商的仅退款政策真的合理吗",
@@ -164,7 +332,7 @@
     },
     {
       "raw_hot": 180018,
-      "num": 90450,
+      "num": 112688,
       "word": "理想汽车召回部分被裁员工",
       "onboard_time": 1717512319,
       "rank": 30,
@@ -187,12 +355,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 151926,
-      "num": 151926,
-      "word": "端午之后七八月份一个假都没有",
-      "onboard_time": 1717543636,
-      "rank": 15,
-      "category": "情感"
+      "raw_hot": 154997,
+      "num": 154997,
+      "word": "张凌赫徐若晗吻戏路透",
+      "onboard_time": 1717545076,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 153276,
+      "num": 153276,
+      "word": "向佐被罚做20个俯卧撑",
+      "onboard_time": 1717544356,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149892,
+      "num": 371068,
+      "word": "骑手小哥头戴开字送高考祝福",
+      "onboard_time": 1717549699,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 145791,
@@ -203,12 +387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142426,
+      "num": 520284,
+      "word": "五星红旗在月亮之上",
+      "onboard_time": 1717510699,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140385,
       "num": 140385,
       "word": "女子跑50公里没能归还怒砸充电宝",
       "onboard_time": 1717508358,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140243,
+      "num": 140243,
+      "word": "芒种一过就要高考了",
+      "onboard_time": 1717545857,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 138664,
@@ -219,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 132884,
+      "num": 132884,
+      "word": "结婚了就得有一份责任了",
+      "onboard_time": 1717545497,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132116,
       "num": 102508,
       "word": "吴尊在法网喊到沙哑了",
@@ -227,12 +435,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 130213,
+      "num": 130213,
+      "word": "涂山红红九尾法相",
+      "onboard_time": 1717546458,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123417,
       "num": 73859,
       "word": "张艺兴发视频感谢工作人员",
       "onboard_time": 1717543936,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122436,
+      "num": 122436,
+      "word": "苹果市值逼近3万亿",
+      "onboard_time": 1717547419,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 114530,
@@ -251,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112631,
+      "num": 112631,
+      "word": "长期饮酒等于花钱买病",
+      "onboard_time": 1717549579,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110668,
       "num": 110668,
       "word": "幽门螺杆菌不仅致癌还伤大脑",
@@ -259,12 +491,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 110106,
-      "num": 110106,
-      "word": "大大方方结束一段不真诚的关系",
-      "onboard_time": 1717543275,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 107956,
+      "num": 107956,
+      "word": "愿每位考生的辛苦耕耘都能收获满满",
+      "onboard_time": 1717548618,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 105740,
@@ -275,12 +507,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103110,
+      "num": 103110,
+      "word": "算命 适合中国宝宝的心理咨询",
+      "onboard_time": 1717547059,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102694,
       "num": 102694,
       "word": "两个猫猫吵架人类帮忙劝架",
       "onboard_time": 1717511119,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98576,
+      "num": 98576,
+      "word": "雷军建议考生放松心情",
+      "onboard_time": 1717548618,
+      "rank": 48,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 97631,
@@ -457,14 +705,6 @@
       "onboard_time": 1717541832,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63154,
-      "num": 364832,
-      "word": "五星红旗在月亮之上",
-      "onboard_time": 1717510699,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62869,
