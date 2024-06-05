@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717576603519,
+  "endTime": 1717579407110,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1205638,
+      "num": 1205638,
+      "word": "徐艺洋运动就会恶心",
+      "onboard_time": 1717575498,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1163623,
       "num": 1163623,
       "word": "吴谨言眼睛",
@@ -91,11 +99,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1101141,
-      "num": 1101141,
+      "raw_hot": 1126585,
+      "num": 1126585,
       "word": "韩国小学生连扇副校长5个耳光",
       "onboard_time": 1717574298,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1071040,
+      "num": 1071040,
+      "word": "1亿元天价保单被保人0岁",
+      "onboard_time": 1717575318,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -139,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 792483,
+      "num": 792483,
+      "word": "山西一公职人员在小区遇刺身亡",
+      "onboard_time": 1717574778,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 774000,
       "num": 329447,
       "word": "女子将15只大虫藏女童身后过关",
@@ -152,14 +176,6 @@
       "word": "12306回应高铁新添优选一等座",
       "onboard_time": 1717545017,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 755922,
-      "num": 435307,
-      "word": "山西一公职人员在小区遇刺身亡",
-      "onboard_time": 1717574778,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 694912,
-      "num": 187196,
+      "num": 241278,
       "word": "茅台冰淇淋买一送一没人吃",
       "onboard_time": 1717572737,
       "rank": 30,
@@ -299,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 527682,
+      "num": 527682,
+      "word": "高海宁 没有男人不行吗",
+      "onboard_time": 1717577600,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506652,
       "num": 306753,
       "word": "B太曝长沙夜市水果捞鬼秤",
@@ -323,20 +347,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 462558,
-      "num": 312983,
-      "word": "徐艺洋运动就会恶心",
-      "onboard_time": 1717575498,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 460102,
       "num": 460102,
       "word": "父亲称孩子因多看两眼遭陌生人掐脖",
       "onboard_time": 1717545017,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456153,
+      "num": 456153,
+      "word": "胡歌谈游本昌放弃白玉兰奖",
+      "onboard_time": 1717574898,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 456113,
@@ -369,6 +393,14 @@
       "onboard_time": 1717547839,
       "rank": 12,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 427007,
+      "num": 427007,
+      "word": "优酷客服回应墨雨云间时长被疑违规",
+      "onboard_time": 1717574117,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 424479,
@@ -419,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 396547,
+      "num": 396547,
+      "word": "周也睡到孟子义家去了",
+      "onboard_time": 1717578137,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373098,
       "num": 373098,
       "word": "距离2024高考还有2天",
@@ -449,14 +489,6 @@
       "onboard_time": 1717559298,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 350137,
-      "num": 350137,
-      "word": "1亿元天价保单被保人0岁",
-      "onboard_time": 1717575318,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348413,
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 308346,
+      "num": 445341,
+      "word": "公积金房贷利率下调有何影响",
+      "onboard_time": 1717574417,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305776,
       "num": 305776,
       "word": "以为是更年期结果是怀孕了",
@@ -593,14 +633,6 @@
       "onboard_time": 1717542614,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280607,
-      "num": 280607,
-      "word": "胡歌谈游本昌放弃白玉兰奖",
-      "onboard_time": 1717574898,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 274357,
@@ -699,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257953,
-      "num": 181029,
-      "word": "优酷客服回应墨雨云间时长被疑违规",
-      "onboard_time": 1717574117,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 257464,
       "num": 257464,
       "word": "东方甄选回应嚎叫式直播",
@@ -721,6 +745,22 @@
       "onboard_time": 1717515977,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248415,
+      "num": 248415,
+      "word": "Uzi 剑网三",
+      "onboard_time": 1717576397,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 241684,
+      "num": 241684,
+      "word": "6月进口网络游戏版号审批公布",
+      "onboard_time": 1717577719,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 240452,
@@ -748,7 +788,7 @@
     },
     {
       "raw_hot": 238021,
-      "num": 175725,
+      "num": 196280,
       "word": "刘亦菲女团舞",
       "onboard_time": 1717575498,
       "rank": 33,
@@ -1043,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192873,
+      "num": 190417,
+      "word": "玫瑰的故事",
+      "onboard_time": 1717578197,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191971,
       "num": 191971,
       "word": "蒲熠星魔方连续两次第一",
@@ -1067,6 +1115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 185349,
+      "num": 185349,
+      "word": "火树积分又垫底了",
+      "onboard_time": 1717578137,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185223,
       "num": 185223,
       "word": "调查显示3成癌症患者不到40岁",
@@ -1080,6 +1136,14 @@
       "word": "浙江奶奶每天骑电驴10分钟到上海上班",
       "onboard_time": 1717567458,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182987,
+      "num": 182987,
+      "word": "医院开展男性根浴服务被处罚",
+      "onboard_time": 1717579099,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1145,6 +1209,14 @@
       "onboard_time": 1717569978,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172087,
+      "num": 172087,
+      "word": "拼车拼到一只小狗乘客",
+      "onboard_time": 1717574956,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 170142,
@@ -1331,6 +1403,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142265,
+      "num": 142265,
+      "word": "王星越哭出小孩窝囊样",
+      "onboard_time": 1717576579,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141897,
+      "num": 141897,
+      "word": "乌尔比安 难抽",
+      "onboard_time": 1717577658,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140899,
       "num": 140899,
       "word": "明日方舟",
@@ -1353,6 +1441,14 @@
       "onboard_time": 1717572317,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139146,
+      "num": 139146,
+      "word": "终于知道拜托那可是刘亦菲出处了",
+      "onboard_time": 1717578498,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138664,
@@ -1443,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126891,
-      "num": 126891,
-      "word": "拼车拼到一只小狗乘客",
-      "onboard_time": 1717574956,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125430,
       "num": 125430,
       "word": "Doinb说老头杯我一定最抢手",
@@ -1499,6 +1587,30 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 120982,
+      "num": 120982,
+      "word": "没想到熊猫也有人教版",
+      "onboard_time": 1717576939,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 120505,
+      "num": 120505,
+      "word": "吴谨言演累了让我演两集",
+      "onboard_time": 1717576638,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120480,
+      "num": 120480,
+      "word": "猫嫔愚蠢却实在美丽",
+      "onboard_time": 1717578018,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118756,
       "num": 118756,
       "word": "致高考考生和家长的温馨提示",
@@ -1539,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116992,
+      "num": 116992,
+      "word": "黑色沙漠过审",
+      "onboard_time": 1717577957,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116405,
       "num": 116405,
       "word": "王珞丹27年前做的裙子妈妈还留着",
@@ -1553,14 +1673,6 @@
       "onboard_time": 1717556238,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 115222,
-      "num": 445341,
-      "word": "公积金房贷利率下调有何影响",
-      "onboard_time": 1717574417,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114530,
@@ -1611,28 +1723,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 110577,
-      "num": 110577,
-      "word": "王星越哭出小孩窝囊样",
-      "onboard_time": 1717576579,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 107956,
       "num": 217732,
       "word": "愿每位考生的辛苦耕耘都能收获满满",
       "onboard_time": 1717548618,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 107069,
-      "num": 107069,
-      "word": "Uzi 剑网三",
-      "onboard_time": 1717576397,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 106286,
@@ -1697,6 +1793,14 @@
       "onboard_time": 1717573878,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101183,
+      "num": 101183,
+      "word": "黄冠亨 公司的规矩就是规矩",
+      "onboard_time": 1717579338,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 98576,
@@ -1764,7 +1868,7 @@
     },
     {
       "raw_hot": 86484,
-      "num": 108122,
+      "num": 529192,
       "word": "谷爱凌解锁奥运火炬手身份",
       "onboard_time": 1717576337,
       "rank": 43,
@@ -1836,7 +1940,7 @@
     },
     {
       "raw_hot": 74366,
-      "num": 885563,
+      "num": 1078961,
       "word": "我在五千年前等你",
       "onboard_time": 1717559118,
       "rank": 2,
@@ -1961,6 +2065,14 @@
       "onboard_time": 1717480758,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 56808,
+      "num": 531170,
+      "word": "聪明药真的能提高成绩吗",
+      "onboard_time": 1717578018,
+      "rank": 8,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 56761,
@@ -2088,6 +2200,14 @@
       "word": "墨雨云间 复仇爽剧",
       "onboard_time": 1717522394,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17068,
+      "num": 157950,
+      "word": "田雨冲浪比王启年轻功还快",
+      "onboard_time": 1717578318,
+      "rank": 31,
       "category": "剧集"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717579407110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1205638,
+        "num": 1205638,
+        "word": "徐艺洋运动就会恶心",
+        "onboard_time": 1717575498,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1126585,
+        "num": 1126585,
+        "word": "韩国小学生连扇副校长5个耳光",
+        "onboard_time": 1717574298,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73667,
+        "num": 1078961,
+        "word": "我在五千年前等你",
+        "onboard_time": 1717559118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071040,
+        "num": 1071040,
+        "word": "1亿元天价保单被保人0岁",
+        "onboard_time": 1717575318,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 792483,
+        "num": 792483,
+        "word": "山西一公职人员在小区遇刺身亡",
+        "onboard_time": 1717574778,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 688384,
+        "num": 688384,
+        "word": "吴谨言眼睛",
+        "onboard_time": 1717571837,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670420,
+        "num": 670420,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 571670,
+        "num": 571670,
+        "word": "医生建议给皮肤轻断食",
+        "onboard_time": 1717572437,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56808,
+        "num": 531170,
+        "word": "聪明药真的能提高成绩吗",
+        "onboard_time": 1717578018,
+        "rank": 8,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 63506,
+        "num": 529192,
+        "word": "谷爱凌解锁奥运火炬手身份",
+        "onboard_time": 1717576337,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 965235,
+        "num": 528969,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527682,
+        "num": 527682,
+        "word": "高海宁 没有男人不行吗",
+        "onboard_time": 1717577600,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456153,
+        "num": 456153,
+        "word": "胡歌谈游本昌放弃白玉兰奖",
+        "onboard_time": 1717574898,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 427007,
+        "num": 427007,
+        "word": "优酷客服回应墨雨云间时长被疑违规",
+        "onboard_time": 1717574117,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396547,
+        "num": 396547,
+        "word": "周也睡到孟子义家去了",
+        "onboard_time": 1717578137,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 326188,
+        "num": 326188,
+        "word": "毛坦厂中学万人冒雨送考为孩子加油",
+        "onboard_time": 1717570937,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 308346,
+        "num": 308346,
+        "word": "公积金房贷利率下调有何影响",
+        "onboard_time": 1717574417,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299982,
+        "num": 299982,
+        "word": "福宝吃的竹子是现砍的",
+        "onboard_time": 1717573218,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248415,
+        "num": 248415,
+        "word": "Uzi 剑网三",
+        "onboard_time": 1717576397,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241684,
+        "num": 241684,
+        "word": "6月进口网络游戏版号审批公布",
+        "onboard_time": 1717577719,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342311,
+        "num": 241278,
+        "word": "茅台冰淇淋买一送一没人吃",
+        "onboard_time": 1717572737,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 240440,
+        "num": 240440,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210545,
+        "num": 210545,
+        "word": "你要这么虐前夫哥我就不困了",
+        "onboard_time": 1717571476,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196280,
+        "num": 196280,
+        "word": "刘亦菲女团舞",
+        "onboard_time": 1717575498,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191578,
+        "num": 191578,
+        "word": "周大福深圳工厂停工停产",
+        "onboard_time": 1717556717,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 192873,
+        "num": 190417,
+        "word": "玫瑰的故事",
+        "onboard_time": 1717578197,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189032,
+        "num": 189032,
+        "word": "歌手发布歌单",
+        "onboard_time": 1717558938,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185349,
+        "num": 185349,
+        "word": "火树积分又垫底了",
+        "onboard_time": 1717578137,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182987,
+        "num": 182987,
+        "word": "医院开展男性根浴服务被处罚",
+        "onboard_time": 1717579099,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177153,
+        "num": 177153,
+        "word": "墨雨云间只有中戏四个人没配音",
+        "onboard_time": 1717559179,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172087,
+        "num": 172087,
+        "word": "拼车拼到一只小狗乘客",
+        "onboard_time": 1717574956,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17068,
+        "num": 157950,
+        "word": "田雨冲浪比王启年轻功还快",
+        "onboard_time": 1717578318,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153126,
+        "num": 153126,
+        "word": "快抱抱王安宇吧他又碎了",
+        "onboard_time": 1717572917,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152390,
+        "num": 152390,
+        "word": "王鹤棣 无袖",
+        "onboard_time": 1717566078,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150675,
+        "num": 150675,
+        "word": "奔跑吧应援声明",
+        "onboard_time": 1717564519,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150319,
+        "num": 150319,
+        "word": "福猪猪最新体重206斤",
+        "onboard_time": 1717569556,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149230,
+        "num": 149230,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147425,
+        "num": 147425,
+        "word": "刘亦菲彭冠英吻戏",
+        "onboard_time": 1717563799,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146826,
+        "num": 146826,
+        "word": "出差疑被老板强奸隔壁房客录下证据",
+        "onboard_time": 1717548799,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 144494,
+        "num": 144494,
+        "word": "墨西哥女子试图与火车自拍被撞身亡",
+        "onboard_time": 1717573276,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142265,
+        "num": 142265,
+        "word": "王星越哭出小孩窝囊样",
+        "onboard_time": 1717576579,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141897,
+        "num": 141897,
+        "word": "乌尔比安 难抽",
+        "onboard_time": 1717577658,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139146,
+        "num": 139146,
+        "word": "终于知道拜托那可是刘亦菲出处了",
+        "onboard_time": 1717578498,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132402,
+        "num": 132402,
+        "word": "清华毕业生35岁再考清华",
+        "onboard_time": 1717558398,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120982,
+        "num": 120982,
+        "word": "没想到熊猫也有人教版",
+        "onboard_time": 1717576939,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120505,
+        "num": 120505,
+        "word": "吴谨言演累了让我演两集",
+        "onboard_time": 1717576638,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120480,
+        "num": 120480,
+        "word": "猫嫔愚蠢却实在美丽",
+        "onboard_time": 1717578018,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116992,
+        "num": 116992,
+        "word": "黑色沙漠过审",
+        "onboard_time": 1717577957,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106444,
+        "num": 106444,
+        "word": "imp说Letme不约训练赛",
+        "onboard_time": 1717574358,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101183,
+        "num": 101183,
+        "word": "黄冠亨 公司的规矩就是规矩",
+        "onboard_time": 1717579338,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
+    }
+  }
+}
