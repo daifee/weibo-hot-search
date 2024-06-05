@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717562304164,
+  "endTime": 1717564749647,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1783712,
-      "num": 516279,
+      "num": 584653,
       "word": "王一博 魏若来不仅是一个人的成长",
       "onboard_time": 1717549819,
       "rank": 4,
@@ -211,6 +211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1476785,
+      "num": 587973,
+      "word": "国企造假",
+      "onboard_time": 1717559957,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1476124,
       "num": 1476124,
       "word": "中国女排0比3意大利女排",
@@ -283,14 +291,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 1352885,
-      "num": 456679,
-      "word": "国企造假",
-      "onboard_time": 1717559957,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1319857,
       "num": 1319857,
       "word": "藏海传全阵容官宣",
@@ -337,6 +337,14 @@
       "onboard_time": 1717464559,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1248870,
+      "num": 1248870,
+      "word": "刘亦菲彭冠英吻戏",
+      "onboard_time": 1717563799,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1227744,
@@ -793,6 +801,14 @@
       "onboard_time": 1717551676,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 803272,
+      "num": 803272,
+      "word": "樊振东 安踏",
+      "onboard_time": 1717561760,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 798906,
@@ -1372,7 +1388,7 @@
     },
     {
       "raw_hot": 605887,
-      "num": 431769,
+      "num": 580615,
       "word": "意大利滑雪名将和女友坠崖身亡",
       "onboard_time": 1717559719,
       "rank": 14,
@@ -1393,6 +1409,14 @@
       "onboard_time": 1717493537,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 603542,
+      "num": 603542,
+      "word": "周大福",
+      "onboard_time": 1717559598,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 602305,
@@ -1481,6 +1505,14 @@
       "onboard_time": 1717427719,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579471,
+      "num": 579471,
+      "word": "刘亦菲花裙大波浪",
+      "onboard_time": 1717560619,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 578223,
@@ -2179,14 +2211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 433735,
-      "num": 382760,
-      "word": "刘亦菲花裙大波浪",
-      "onboard_time": 1717560619,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 433318,
       "num": 399995,
       "word": "长期护肤和不护肤的区别有多大",
@@ -2553,14 +2577,6 @@
       "onboard_time": 1717314137,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 386663,
-      "num": 386663,
-      "word": "周大福",
-      "onboard_time": 1717559598,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 386015,
@@ -3035,14 +3051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329043,
-      "num": 329043,
-      "word": "樊振东 安踏",
-      "onboard_time": 1717561760,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 328627,
       "num": 328627,
       "word": "花少新加坡站",
@@ -3151,6 +3159,14 @@
       "num": 214450,
       "word": "JOY表达对SM不满",
       "onboard_time": 1717393939,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309110,
+      "num": 212904,
+      "word": "欢瑞世纪官宣00后小花李康",
+      "onboard_time": 1717564100,
       "rank": 23,
       "category": "艺人"
     },
@@ -4371,6 +4387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 220957,
+      "num": 210429,
+      "word": "减肥的顶级天赋是没有味觉",
+      "onboard_time": 1717563080,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 220849,
       "num": 220849,
       "word": "朱一龙 我会少说多做",
@@ -4425,6 +4449,14 @@
       "onboard_time": 1717387159,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218238,
+      "num": 210055,
+      "word": "周深大学期间做过最疯狂的事",
+      "onboard_time": 1717563919,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 217780,
@@ -4675,6 +4707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205694,
+      "num": 205694,
+      "word": "灿烂的你",
+      "onboard_time": 1717563681,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205395,
       "num": 205395,
       "word": "Hero无畏断开连接",
@@ -4721,6 +4761,14 @@
       "onboard_time": 1717297217,
       "rank": 9,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 204047,
+      "num": 204047,
+      "word": "五月天深圳演唱会",
+      "onboard_time": 1717563740,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 203732,
@@ -5435,6 +5483,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 179500,
+      "num": 179500,
+      "word": "狗狗护主结果把主人咬了",
+      "onboard_time": 1717563740,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179489,
       "num": 179489,
       "word": "鸭嘴钳背后看不见的女性之痛",
@@ -5585,6 +5641,22 @@
       "onboard_time": 1717475841,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 175822,
+      "num": 175822,
+      "word": "星穹铁道云璃",
+      "onboard_time": 1717564698,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 175814,
+      "num": 175814,
+      "word": "幽门螺杆菌的根除方案",
+      "onboard_time": 1717564218,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 175519,
@@ -6299,12 +6371,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154226,
+      "num": 154226,
+      "word": "刘亦菲奇迹玫瑰",
+      "onboard_time": 1717563321,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153276,
       "num": 153276,
       "word": "向佐被罚做20个俯卧撑",
       "onboard_time": 1717544356,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153020,
+      "num": 153020,
+      "word": "清华毕业生100天备考清华目标700分",
+      "onboard_time": 1717564578,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 152902,
@@ -6635,12 +6723,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 144297,
+      "num": 144297,
+      "word": "奔跑吧应援声明",
+      "onboard_time": 1717564519,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144045,
       "num": 144045,
       "word": "香港人的特种兵旅游正在挤爆深圳",
       "onboard_time": 1717314257,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143535,
+      "num": 143535,
+      "word": "喜欢你我也是",
+      "onboard_time": 1717564519,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 143325,
@@ -8649,6 +8753,14 @@
       "onboard_time": 1717490239,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85507,
+      "num": 596697,
+      "word": "办培训学校不到3个月收200余万学费",
+      "onboard_time": 1717563620,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 85354,
