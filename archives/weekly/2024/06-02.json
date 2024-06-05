@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717587329488,
+  "endTime": 1717590937204,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 928939,
-      "num": 259209,
+      "num": 367630,
       "word": "老人被发现与小38岁保姆结婚后续",
       "onboard_time": 1717582878,
       "rank": 30,
@@ -777,6 +777,14 @@
       "onboard_time": 1717417757,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 868516,
+      "num": 513563,
+      "word": "B太 水果礼盒触碰了商家的逆鳞",
+      "onboard_time": 1717586778,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 865090,
@@ -1052,7 +1060,7 @@
     },
     {
       "raw_hot": 749515,
-      "num": 231459,
+      "num": 242072,
       "word": "月经变少是卵巢衰老的信号吗",
       "onboard_time": 1717583418,
       "rank": 27,
@@ -1097,6 +1105,14 @@
       "onboard_time": 1717414938,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 737769,
+      "num": 245709,
+      "word": "建议最近不要轻易离职",
+      "onboard_time": 1717586058,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 736115,
@@ -1179,12 +1195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 706179,
-      "num": 227068,
-      "word": "建议最近不要轻易离职",
-      "onboard_time": 1717586058,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 706204,
+      "num": 706204,
+      "word": "公办中小学招聘不进编教师引关注",
+      "onboard_time": 1717587257,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 694912,
@@ -1468,7 +1484,7 @@
     },
     {
       "raw_hot": 621976,
-      "num": 229329,
+      "num": 242032,
       "word": "游客吐槽阿勒泰旅游太贵了",
       "onboard_time": 1717583059,
       "rank": 25,
@@ -1995,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 510374,
+      "num": 510374,
+      "word": "高考很大可能是考得最好的一次",
+      "onboard_time": 1717587737,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 506652,
       "num": 306753,
       "word": "B太曝长沙夜市水果捞鬼秤",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1717338980,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503497,
+      "num": 503497,
+      "word": "王者貂蝉秒杀皮肤",
+      "onboard_time": 1717587979,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 500176,
@@ -2081,6 +2113,14 @@
       "onboard_time": 1717293317,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484146,
+      "num": 484146,
+      "word": "王鹤棣继西瓜皮后又有神图",
+      "onboard_time": 1717588278,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 479775,
@@ -3139,6 +3179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343329,
+      "num": 343329,
+      "word": "歌手2024揭榜串讲人",
+      "onboard_time": 1717589779,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343231,
       "num": 224217,
       "word": "lmf音乐节 取不取消",
@@ -3403,6 +3451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311587,
+      "num": 311587,
+      "word": "邓为翻牌",
+      "onboard_time": 1717588578,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310794,
       "num": 214450,
       "word": "JOY表达对SM不满",
@@ -3497,6 +3553,14 @@
       "onboard_time": 1717432216,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303627,
+      "num": 303627,
+      "word": "印度总理莫迪提交辞呈",
+      "onboard_time": 1717590318,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 302902,
@@ -3883,14 +3947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274497,
-      "num": 139827,
-      "word": "B太 水果礼盒触碰了商家的逆鳞",
-      "onboard_time": 1717586778,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 274357,
       "num": 274357,
       "word": "墨西哥女子试图与火车自拍被撞身亡",
@@ -4009,6 +4065,14 @@
       "onboard_time": 1717490658,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 266776,
+      "num": 464291,
+      "word": "外交部驳斥拜登涉台言论",
+      "onboard_time": 1717587137,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 266750,
@@ -4201,6 +4265,14 @@
       "onboard_time": 1717305797,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 252494,
+      "num": 252494,
+      "word": "35岁再考清华当事人发声",
+      "onboard_time": 1717581077,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 251464,
@@ -5131,6 +5203,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 204303,
+      "num": 204303,
+      "word": "EDG对战JDG",
+      "onboard_time": 1717589538,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204218,
       "num": 171846,
       "word": "范湉湉演技",
@@ -5347,6 +5427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198406,
+      "num": 198406,
+      "word": "看小说时莫名其妙的生理反应",
+      "onboard_time": 1717587377,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198369,
       "num": 198369,
       "word": "WTT",
@@ -5481,6 +5569,14 @@
       "onboard_time": 1717566318,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195583,
+      "num": 195583,
+      "word": "EDG 熟悉的味道",
+      "onboard_time": 1717589837,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 195366,
@@ -5795,14 +5891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186508,
-      "num": 186508,
-      "word": "外交部驳斥拜登涉台言论",
-      "onboard_time": 1717587137,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 186501,
       "num": 164129,
       "word": "肖战藏海反差感",
@@ -5881,6 +5969,14 @@
       "onboard_time": 1717423400,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184122,
+      "num": 184122,
+      "word": "货车寻亲父亲找回失去23年的女儿",
+      "onboard_time": 1717588218,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184070,
@@ -6931,6 +7027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153512,
+      "num": 153512,
+      "word": "王鹤棣 煤球",
+      "onboard_time": 1717588397,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153276,
       "num": 153276,
       "word": "向佐被罚做20个俯卧撑",
@@ -7025,14 +7129,6 @@
       "onboard_time": 1717489398,
       "rank": 49,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 150814,
-      "num": 150814,
-      "word": "35岁再考清华当事人发声",
-      "onboard_time": 1717581077,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 150681,
@@ -7553,6 +7649,14 @@
       "onboard_time": 1717487958,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138909,
+      "num": 138909,
+      "word": "沙溢左手范丞丞右手张真源",
+      "onboard_time": 1717590258,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 138903,
@@ -8411,6 +8515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120935,
+      "num": 120935,
+      "word": "马嘉祺说岛上太舒服了",
+      "onboard_time": 1717588278,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120755,
       "num": 120755,
       "word": "全世界的人都在用一生治愈童年",
@@ -8441,6 +8553,14 @@
       "onboard_time": 1717485438,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120233,
+      "num": 120233,
+      "word": "王者杨戬新皮肤",
+      "onboard_time": 1717588999,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 119858,
@@ -8747,6 +8867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114803,
+      "num": 114803,
+      "word": "高叶 代拍来换个相机啊",
+      "onboard_time": 1717587257,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114585,
       "num": 1703193,
       "word": "千里江山图藏着人间烟火",
@@ -8969,6 +9097,14 @@
       "onboard_time": 1717579338,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109445,
+      "num": 109445,
+      "word": "魏大勋烤串",
+      "onboard_time": 1717587499,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 109072,
@@ -9267,6 +9403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104178,
+      "num": 104178,
+      "word": "庄达菲身边的陈昊宇 撒娇妈咪",
+      "onboard_time": 1717589418,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103110,
       "num": 103110,
       "word": "算命 适合中国宝宝的心理咨询",
@@ -9299,6 +9443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102382,
+      "num": 272018,
+      "word": "谷爱凌一路牛到巴黎",
+      "onboard_time": 1717589538,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102147,
       "num": 102147,
       "word": "德约科维奇重伤无缘温网",
@@ -9307,20 +9459,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101493,
+      "num": 101493,
+      "word": "黎深 身材很好的师尊",
+      "onboard_time": 1717590617,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 101453,
       "num": 101453,
       "word": "人民海军版我有一个帽衫又萌又猛",
       "onboard_time": 1717416318,
       "rank": 49,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 101358,
-      "num": 101358,
-      "word": "公办中小学招聘不进编教师引关注",
-      "onboard_time": 1717587257,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 101275,
@@ -9377,14 +9529,6 @@
       "onboard_time": 1717423219,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 100007,
-      "num": 100007,
-      "word": "高叶 代拍来换个相机啊",
-      "onboard_time": 1717587257,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 99994,
@@ -10627,6 +10771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37116,
+      "num": 195696,
+      "word": "端午里的山东中医药文旅周",
+      "onboard_time": 1717589898,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 36563,
       "num": 531140,
       "word": "你飞奔救人的样子太帅了",
@@ -10913,6 +11065,14 @@
       "onboard_time": 1717260976,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17033,
+      "num": 186050,
+      "word": "田雨在线催更庆余年3",
+      "onboard_time": 1717589898,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 16920,
