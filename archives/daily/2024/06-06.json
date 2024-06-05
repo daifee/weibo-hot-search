@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717616072017,
+  "endTime": 1717618843018,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -499,6 +499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 19936,
+      "num": 18316,
+      "word": "为啥天天刷牙还有口臭",
+      "onboard_time": 1717616711,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 19623,
       "num": 551863,
       "word": "增绿就是增优势植树就是植未来",
@@ -507,10 +515,26 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15728,
+      "raw_hot": 16739,
       "num": 17868,
       "word": "你身上的狗味比我的还重",
       "onboard_time": 1717615391,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 15126,
+      "num": 15126,
+      "word": "情绪稳定的本质",
+      "onboard_time": 1717616890,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 14164,
+      "num": 15123,
+      "word": "一不小心又被爸妈幽默到了",
+      "onboard_time": 1717616170,
       "rank": 40,
       "category": "幽默"
     },
@@ -529,6 +553,22 @@
       "onboard_time": 1717612572,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12095,
+      "num": 15117,
+      "word": "周大福有员工称收到N+3赔偿",
+      "onboard_time": 1717618631,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12085,
+      "num": 15116,
+      "word": "更好发挥住房公积金保障作用",
+      "onboard_time": 1717618631,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 11384,
