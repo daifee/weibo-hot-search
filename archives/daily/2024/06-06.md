@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/06 00:24:26 ~ 2024/06/06 06:35:09
+本榜单时间：2024/06/06 00:24:26 ~ 2024/06/06 07:20:20
 </p>
 </blockquote>
 <p>
@@ -33,6 +33,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94B%E5%A4%AA%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E6%89%93%E5%81%87%23" target="weibo">
+官方回应B太长沙夜市打假（热度：495233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E5%92%8C%E9%99%88%E6%98%8A%E5%AE%87%E5%8D%81%E5%B9%B4%E5%89%8D%E5%B0%B1%E8%AE%A4%E8%AF%86%E4%BA%86%23" target="weibo">
 刘恋和陈昊宇十年前就认识了（热度：465544）
 </a>
@@ -51,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%B8%8E%E5%B0%8F38%E5%B2%81%E4%BF%9D%E5%A7%86%E7%BB%93%E5%A9%9A%E5%90%8E%E7%BB%AD%23" target="weibo">
+老人被发现与小38岁保姆结婚后续（热度：433851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%A7%90%E5%A7%90%E6%80%BB%E6%9A%97%E7%A4%BA%E6%88%91%E7%BB%99%E5%A4%96%E7%94%A5%E4%B9%B0%E4%B8%9C%E8%A5%BF%23" target="weibo">
 亲姐姐总暗示我给外甥买东西（热度：433012）
 </a>
@@ -59,6 +71,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E5%8F%91%E6%96%87%23" target="weibo">
 王阳发文（热度：396358）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E6%94%B6%E5%88%B0N%2B3%E8%B5%94%E5%81%BF%23" target="weibo">
+周大福有员工称收到N+3赔偿（热度：385323）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%8B%9B%E8%81%98%E4%B8%8D%E8%BF%9B%E7%BC%96%E6%95%99%E5%B8%88%E5%BC%95%E5%85%B3%E6%B3%A8%23" target="weibo">
+公办中小学招聘不进编教师引关注（热度：356922）
 </a>
 </li>
 
@@ -93,6 +117,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%BB%83%E8%88%9E%E7%AB%99%E4%B8%8B%E8%85%B0%E6%91%94%E5%80%92%E8%87%B4%E9%AB%98%E4%BD%8D%E6%88%AA%E7%98%AB%23" target="weibo">
+5岁女童练舞站下腰摔倒致高位截瘫（热度：255137）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E9%AB%98%E8%80%83%23" target="weibo">
+2024高考（热度：241981）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%97%E9%B1%BC%E4%B8%80%E5%AD%A3%E5%BA%A6%E4%BA%8F%E6%8D%9F8800%E4%B8%87%E5%85%83%23" target="weibo">
 斗鱼一季度亏损8800万元（热度：233258）
 </a>
@@ -111,18 +147,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94B%E5%A4%AA%E9%95%BF%E6%B2%99%E5%A4%9C%E5%B8%82%E6%89%93%E5%81%87%23" target="weibo">
-官方回应B太长沙夜市打假（热度：207577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%B8%8E%E5%B0%8F38%E5%B2%81%E4%BF%9D%E5%A7%86%E7%BB%93%E5%A9%9A%E5%90%8E%E7%BB%AD%23" target="weibo">
-老人被发现与小38岁保姆结婚后续（热度：207468）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E5%8F%98%E5%B0%91%E6%98%AF%E5%8D%B5%E5%B7%A2%E8%A1%B0%E8%80%81%E7%9A%84%E4%BF%A1%E5%8F%B7%E5%90%97%23" target="weibo">
 月经变少是卵巢衰老的信号吗（热度：199592）
 </a>
@@ -135,32 +159,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%8B%9B%E8%81%98%E4%B8%8D%E8%BF%9B%E7%BC%96%E6%95%99%E5%B8%88%E5%BC%95%E5%85%B3%E6%B3%A8%23" target="weibo">
-公办中小学招聘不进编教师引关注（热度：177679）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23yes24%E7%BD%91%E7%AB%99%23" target="weibo">
 yes24网站（热度：177281）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E6%94%B6%E5%88%B0N%2B3%E8%B5%94%E5%81%BF%23" target="weibo">
-周大福有员工称收到N+3赔偿（热度：172932）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232024%E9%AB%98%E8%80%83%23" target="weibo">
-2024高考（热度：169775）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%BB%83%E8%88%9E%E7%AB%99%E4%B8%8B%E8%85%B0%E6%91%94%E5%80%92%E8%87%B4%E9%AB%98%E4%BD%8D%E6%88%AA%E7%98%AB%23" target="weibo">
-5岁女童练舞站下腰摔倒致高位截瘫（热度：161415）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA%E6%8F%90%E4%BA%A4%E8%BE%9E%E5%91%88%23" target="weibo">
+印度总理莫迪提交辞呈（热度：158712）
 </a>
 </li>
 
@@ -173,6 +179,12 @@ yes24网站（热度：177281）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%B2%82%E8%9D%89%E7%A7%92%E6%9D%80%E7%9A%AE%E8%82%A4%23" target="weibo">
 王者貂蝉秒杀皮肤（热度：149953）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TF%E4%B8%89%E4%BB%A3%E5%87%BA%E9%81%93%E6%88%98%E7%A6%81%E6%AD%A2%E7%BA%BF%E4%B8%8B%E5%BA%94%E6%8F%B4%23" target="weibo">
+TF三代出道战禁止线下应援（热度：149270）
 </a>
 </li>
 
@@ -196,7 +208,7 @@ B太 水果礼盒触碰了商家的逆鳞（热度：133722）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E9%98%BF%E5%8B%92%E6%B3%B0%E6%97%85%E6%B8%B8%E5%A4%AA%E8%B4%B5%E4%BA%86%23" target="weibo">
-游客吐槽阿勒泰旅游太贵了（热度：106858）
+游客吐槽阿勒泰旅游太贵了（热度：111642）
 </a>
 </li>
 
@@ -221,12 +233,6 @@ B太 水果礼盒触碰了商家的逆鳞（热度：133722）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2399%E5%B9%B4%E9%AB%98%E4%B8%89%E8%80%81%E5%B8%88%E5%93%AD%E7%9A%84%E6%AF%94%E5%AD%A6%E7%94%9F%E8%BF%98%E4%BC%A4%E5%BF%83%23" target="weibo">
 99年高三老师哭的比学生还伤心（热度：103920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA%E6%8F%90%E4%BA%A4%E8%BE%9E%E5%91%88%23" target="weibo">
-印度总理莫迪提交辞呈（热度：103101）
 </a>
 </li>
 
@@ -273,12 +279,6 @@ B太 水果礼盒触碰了商家的逆鳞（热度：133722）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23TF%E4%B8%89%E4%BB%A3%E5%87%BA%E9%81%93%E6%88%98%E7%A6%81%E6%AD%A2%E7%BA%BF%E4%B8%8B%E5%BA%94%E6%8F%B4%23" target="weibo">
-TF三代出道战禁止线下应援（热度：77060）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%92%8C%E6%88%90%E5%91%98%E6%9C%8B%E5%8F%8B%E8%A7%81%E9%9D%A2%E5%BF%85%E9%A1%BB%E9%80%9A%E8%BF%87%E5%85%81%E8%AE%B8%23" target="weibo">
 EXO和成员朋友见面必须通过允许（热度：76809）
 </a>
@@ -293,6 +293,12 @@ EXO和成员朋友见面必须通过允许（热度：76809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B219%E5%B2%81%E6%97%B6%E7%9A%84%E9%87%87%E8%AE%BF%23" target="weibo">
 刘亦菲19岁时的采访（热度：75194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A4%A9%E5%A4%A9%E5%88%B7%E7%89%99%E8%BF%98%E6%9C%89%E5%8F%A3%E8%87%AD%23" target="weibo">
+为啥天天刷牙还有口臭（热度：75062）
 </a>
 </li>
 
@@ -327,6 +333,18 @@ EXO和成员朋友见面必须通过允许（热度：76809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%A5%AD%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0%E8%91%B1%E9%A6%99%E8%8F%9C%23" target="weibo">
+终于知道饭店为什么要加葱香菜（热度：60998）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%8E%B0%E5%9C%A8%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E9%80%89%E5%89%A7%E6%9C%AC%E4%BA%86%23" target="weibo">
+孟子义现在终于可以选剧本了（热度：60771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%BD%AE%E9%A1%B6%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E7%8E%A9%23" target="weibo">
 没想到朋友圈置顶还能这么玩（热度：60159）
 </a>
@@ -351,8 +369,20 @@ EXO和成员朋友见面必须通过允许（热度：76809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%8C%BB%E9%99%A2%E6%8E%A8%E5%87%BA%E5%85%BB%E5%8F%91%E7%94%9F%E5%8F%91%E9%A5%AE%23" target="weibo">
+南京中医院推出养发生发饮（热度：49701）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%BD%E6%B1%9F%E5%A0%B0%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%90%E8%A1%8C2280%E5%B9%B4%23" target="weibo">
 都江堰已持续运行2280年（热度：49188）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E4%BD%86%E6%98%AF%E4%BA%BA%23" target="weibo">
+不要把自己变成一个但是人（热度：43079）
 </a>
 </li>
 
@@ -363,14 +393,26 @@ EXO和成员朋友见面必须通过允许（热度：76809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E6%9C%AC%E8%B4%A8%23" target="weibo">
+情绪稳定的本质（热度：42604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23leave%E9%97%AA%E7%8E%B0%E6%8E%A5%E7%AE%AD%23" target="weibo">
 leave闪现接箭（热度：40303）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A4%A9%E5%A4%A9%E5%88%B7%E7%89%99%E8%BF%98%E6%9C%89%E5%8F%A3%E8%87%AD%23" target="weibo">
-为啥天天刷牙还有口臭（热度：36834）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BB%99%E9%AB%98%E8%80%83%E7%94%9F%E9%80%81%E7%A5%9D%E7%A6%8F%23" target="weibo">
+一人一句给高考生送祝福（热度：37797）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%BB%E4%BA%BA%E5%BF%98%E7%BB%99%E7%8C%AB%E5%92%AA%E5%96%82%E9%A5%AD%23" target="weibo">
+当主人忘给猫咪喂饭（热度：36229）
 </a>
 </li>
 
@@ -381,20 +423,8 @@ leave闪现接箭（热度：40303）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%A5%AD%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0%E8%91%B1%E9%A6%99%E8%8F%9C%23" target="weibo">
-终于知道饭店为什么要加葱香菜（热度：32645）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E9%AB%98%E8%80%83%E5%B9%B8%E8%BF%90%E7%AD%BE%E5%B7%B2%E9%80%81%E8%BE%BE%23" target="weibo">
 你的高考幸运签已送达（热度：30648）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E6%9C%AC%E8%B4%A8%23" target="weibo">
-情绪稳定的本质（热度：25019）
 </a>
 </li>
 
@@ -407,6 +437,12 @@ leave闪现接箭（热度：40303）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC%E9%9F%B3%E4%B9%90%E5%89%A7%23" target="weibo">
 人间失格音乐剧（热度：23282）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E6%A0%A1%E9%95%BF%E6%89%AE%E9%9D%92%E8%9B%99%E7%BB%99%E5%AD%A6%E7%94%9F%E4%BB%AC%E5%8F%91%E7%A4%BC%E7%89%A9%23" target="weibo">
+高考前校长扮青蛙给学生们发礼物（热度：21846）
 </a>
 </li>
 
@@ -425,6 +461,12 @@ leave闪现接箭（热度：40303）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%9E%E7%BB%BF%E5%B0%B1%E6%98%AF%E5%A2%9E%E4%BC%98%E5%8A%BF%E6%A4%8D%E6%A0%91%E5%B0%B1%E6%98%AF%E6%A4%8D%E6%9C%AA%E6%9D%A5%23" target="weibo">
 增绿就是增优势植树就是植未来（热度：19623）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA1342%E4%B8%87%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%E5%8A%A0%E6%B2%B9%23" target="weibo">
+为1342万高考学子加油（热度：19449）
 </a>
 </li>
 
@@ -478,7 +520,7 @@ leave闪现接箭（热度：40303）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E4%BA%94%E5%8D%83%E5%B9%B4%E5%89%8D%E7%AD%89%E4%BD%A0%23" target="weibo">
-我在五千年前等你（热度：4790）
+我在五千年前等你（热度：8165）
 </a>
 </li>
 
