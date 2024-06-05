@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717575812736,
+  "endTime": 1717576603519,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -91,6 +91,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1101141,
+      "num": 1101141,
+      "word": "韩国小学生连扇副校长5个耳光",
+      "onboard_time": 1717574298,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 924063,
       "num": 322760,
       "word": "女子酒店洗澡被陌生男开门闯入",
@@ -113,14 +121,6 @@
       "onboard_time": 1717566078,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 878672,
-      "num": 878672,
-      "word": "韩国小学生连扇副校长5个耳光",
-      "onboard_time": 1717574298,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 806319,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755922,
+      "num": 435307,
+      "word": "山西一公职人员在小区遇刺身亡",
+      "onboard_time": 1717574778,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751275,
       "num": 751275,
       "word": "福猪猪最新体重206斤",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 694912,
-      "num": 176439,
+      "num": 187196,
       "word": "茅台冰淇淋买一送一没人吃",
       "onboard_time": 1717572737,
       "rank": 30,
@@ -201,6 +209,14 @@
       "onboard_time": 1717543636,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 665554,
+      "num": 665554,
+      "word": "医生建议给皮肤轻断食",
+      "onboard_time": 1717572437,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 644289,
@@ -283,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 528049,
-      "num": 175642,
-      "word": "医生建议给皮肤轻断食",
-      "onboard_time": 1717572437,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 506652,
       "num": 306753,
       "word": "B太曝长沙夜市水果捞鬼秤",
@@ -313,6 +321,14 @@
       "onboard_time": 1717573218,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462558,
+      "num": 312983,
+      "word": "徐艺洋运动就会恶心",
+      "onboard_time": 1717575498,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 460102,
@@ -345,14 +361,6 @@
       "onboard_time": 1717571476,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 435307,
-      "num": 435307,
-      "word": "山西一公职人员在小区遇刺身亡",
-      "onboard_time": 1717574778,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433318,
@@ -443,6 +451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 350137,
+      "num": 350137,
+      "word": "1亿元天价保单被保人0岁",
+      "onboard_time": 1717575318,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348413,
       "num": 348413,
       "word": "三星堆博物馆游客抡凳子打架",
@@ -523,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306033,
-      "num": 306033,
-      "word": "徐艺洋运动就会恶心",
-      "onboard_time": 1717575498,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305776,
       "num": 305776,
       "word": "以为是更年期结果是怀孕了",
@@ -585,6 +593,14 @@
       "onboard_time": 1717542614,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280607,
+      "num": 280607,
+      "word": "胡歌谈游本昌放弃白玉兰奖",
+      "onboard_time": 1717574898,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 274357,
@@ -651,20 +667,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 262076,
+      "num": 182980,
+      "word": "快抱抱王安宇吧他又碎了",
+      "onboard_time": 1717572917,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260042,
       "num": 207678,
       "word": "张艺兴24岁时街头运动风妆造",
       "onboard_time": 1717554498,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258984,
-      "num": 173748,
-      "word": "快抱抱王安宇吧他又碎了",
-      "onboard_time": 1717572917,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 258670,
@@ -683,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257953,
+      "num": 181029,
+      "word": "优酷客服回应墨雨云间时长被疑违规",
+      "onboard_time": 1717574117,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257464,
       "num": 257464,
       "word": "东方甄选回应嚎叫式直播",
@@ -697,22 +721,6 @@
       "onboard_time": 1717515977,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254394,
-      "num": 172842,
-      "word": "优酷客服回应墨雨云间时长被疑违规",
-      "onboard_time": 1717574117,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 245811,
-      "num": 172064,
-      "word": "胡歌谈游本昌放弃白玉兰奖",
-      "onboard_time": 1717574898,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 240452,
@@ -737,6 +745,14 @@
       "onboard_time": 1717554918,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238021,
+      "num": 175725,
+      "word": "刘亦菲女团舞",
+      "onboard_time": 1717575498,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 234450,
@@ -1187,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161593,
-      "num": 161593,
-      "word": "1亿元天价保单被保人0岁",
-      "onboard_time": 1717575318,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 158253,
       "num": 158253,
       "word": "汪文斌候任驻柬埔寨大使",
@@ -1323,14 +1331,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141595,
-      "num": 141595,
-      "word": "刘亦菲女团舞",
-      "onboard_time": 1717575498,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140899,
       "num": 140899,
       "word": "明日方舟",
@@ -1443,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126891,
+      "num": 126891,
+      "word": "拼车拼到一只小狗乘客",
+      "onboard_time": 1717574956,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125430,
       "num": 125430,
       "word": "Doinb说老头杯我一定最抢手",
@@ -1473,14 +1481,6 @@
       "onboard_time": 1717543936,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123398,
-      "num": 123398,
-      "word": "拼车拼到一只小狗乘客",
-      "onboard_time": 1717574956,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 122436,
@@ -1515,6 +1515,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 118670,
+      "num": 118670,
+      "word": "猫妈带着独生子出门啦",
+      "onboard_time": 1717575437,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118204,
       "num": 118204,
       "word": "狗狗被剃毛后不认识自己了",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1717556238,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 115222,
+      "num": 445341,
+      "word": "公积金房贷利率下调有何影响",
+      "onboard_time": 1717574417,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114530,
@@ -1579,12 +1595,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110822,
+      "num": 110822,
+      "word": "钓鱼佬才是吸猫体质",
+      "onboard_time": 1717576397,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110668,
       "num": 110668,
       "word": "幽门螺杆菌不仅致癌还伤大脑",
       "onboard_time": 1717506018,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110577,
+      "num": 110577,
+      "word": "王星越哭出小孩窝囊样",
+      "onboard_time": 1717576579,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 107956,
@@ -1595,20 +1627,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 107069,
+      "num": 107069,
+      "word": "Uzi 剑网三",
+      "onboard_time": 1717576397,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106286,
       "num": 106286,
       "word": "原神克洛琳德",
       "onboard_time": 1717555997,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 106238,
-      "num": 106238,
-      "word": "猫妈带着独生子出门啦",
-      "onboard_time": 1717575437,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 106022,
@@ -1659,8 +1691,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99840,
-      "num": 99840,
+      "raw_hot": 101275,
+      "num": 101275,
       "word": "高考是高高兴兴去考试",
       "onboard_time": 1717573878,
       "rank": 46,
@@ -1731,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86484,
+      "num": 108122,
+      "word": "谷爱凌解锁奥运火炬手身份",
+      "onboard_time": 1717576337,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86219,
       "num": 86219,
       "word": "女装上衣像童装裤子却越做越长",
@@ -1787,20 +1827,20 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 78237,
-      "num": 445341,
-      "word": "公积金房贷利率下调有何影响",
-      "onboard_time": 1717574417,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 76150,
       "num": 76150,
       "word": "见过熬鹰的但没见熬婴的",
       "onboard_time": 1717543275,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74366,
+      "num": 885563,
+      "word": "我在五千年前等你",
+      "onboard_time": 1717559118,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72947,
@@ -1915,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57375,
-      "num": 882604,
-      "word": "我在五千年前等你",
-      "onboard_time": 1717559118,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 56920,
       "num": 67811,
       "word": "赵露思状态",
@@ -1971,6 +2003,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 48931,
+      "num": 170496,
+      "word": "海钓会惩罚每个不做防晒的人",
+      "onboard_time": 1717573218,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48193,
       "num": 48193,
       "word": "德约因伤退赛",
@@ -1993,14 +2033,6 @@
       "onboard_time": 1717521553,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37957,
-      "num": 170496,
-      "word": "海钓会惩罚每个不做防晒的人",
-      "onboard_time": 1717573218,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 33377,

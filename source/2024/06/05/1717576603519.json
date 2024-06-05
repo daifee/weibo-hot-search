@@ -1,0 +1,410 @@
+{
+  "runTime": 1717576603519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1139436,
+        "num": 1139436,
+        "word": "吴谨言眼睛",
+        "onboard_time": 1717571837,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1101141,
+        "num": 1101141,
+        "word": "韩国小学生连扇副校长5个耳光",
+        "onboard_time": 1717574298,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74366,
+        "num": 885563,
+        "word": "我在五千年前等你",
+        "onboard_time": 1717559118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701178,
+        "num": 701178,
+        "word": "毛坦厂中学万人冒雨送考为孩子加油",
+        "onboard_time": 1717570937,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 681533,
+        "num": 681533,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665554,
+        "num": 665554,
+        "word": "医生建议给皮肤轻断食",
+        "onboard_time": 1717572437,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 463311,
+        "num": 463311,
+        "word": "福宝吃的竹子是现砍的",
+        "onboard_time": 1717573218,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394539,
+        "num": 394539,
+        "word": "福猪猪最新体重206斤",
+        "onboard_time": 1717569556,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392164,
+        "num": 392164,
+        "word": "你要这么虐前夫哥我就不困了",
+        "onboard_time": 1717571476,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350137,
+        "num": 350137,
+        "word": "1亿元天价保单被保人0岁",
+        "onboard_time": 1717575318,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039601,
+        "num": 338981,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 755922,
+        "num": 323862,
+        "word": "山西一公职人员在小区遇刺身亡",
+        "onboard_time": 1717574778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462558,
+        "num": 312983,
+        "word": "徐艺洋运动就会恶心",
+        "onboard_time": 1717575498,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 393312,
+        "num": 303026,
+        "word": "周大福深圳工厂停工停产",
+        "onboard_time": 1717556717,
+        "rank": 13,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 293940,
+        "num": 293940,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280607,
+        "num": 280607,
+        "word": "胡歌谈游本昌放弃白玉兰奖",
+        "onboard_time": 1717574898,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278169,
+        "num": 278169,
+        "word": "墨雨云间只有中戏四个人没配音",
+        "onboard_time": 1717559179,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270204,
+        "num": 270204,
+        "word": "墨西哥女子试图与火车自拍被撞身亡",
+        "onboard_time": 1717573276,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191010,
+        "num": 191010,
+        "word": "意大利滑雪名将和女友坠崖身亡",
+        "onboard_time": 1717559719,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155442,
+        "num": 189809,
+        "word": "清华毕业生35岁再考清华",
+        "onboard_time": 1717558398,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 666271,
+        "num": 187196,
+        "word": "茅台冰淇淋买一送一没人吃",
+        "onboard_time": 1717572737,
+        "rank": 20,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 329925,
+        "num": 185096,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262076,
+        "num": 182980,
+        "word": "快抱抱王安宇吧他又碎了",
+        "onboard_time": 1717572917,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257953,
+        "num": 181029,
+        "word": "优酷客服回应墨雨云间时长被疑违规",
+        "onboard_time": 1717574117,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247324,
+        "num": 177997,
+        "word": "歌手发布歌单",
+        "onboard_time": 1717558938,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238021,
+        "num": 175725,
+        "word": "刘亦菲女团舞",
+        "onboard_time": 1717575498,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206234,
+        "num": 174326,
+        "word": "王鹤棣 无袖",
+        "onboard_time": 1717566078,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173308,
+        "num": 173308,
+        "word": "奔跑吧应援声明",
+        "onboard_time": 1717564519,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115222,
+        "num": 171266,
+        "word": "公积金房贷利率下调有何影响",
+        "onboard_time": 1717574417,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48931,
+        "num": 170024,
+        "word": "海钓会惩罚每个不做防晒的人",
+        "onboard_time": 1717573218,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 232607,
+        "num": 169928,
+        "word": "刘亦菲彭冠英吻戏",
+        "onboard_time": 1717563799,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169771,
+        "num": 169771,
+        "word": "范湉湉演技",
+        "onboard_time": 1717572498,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145649,
+        "num": 145649,
+        "word": "A股",
+        "onboard_time": 1717567937,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135920,
+        "num": 135920,
+        "word": "明日方舟",
+        "onboard_time": 1717575437,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130543,
+        "num": 130543,
+        "word": "imp说Letme不约训练赛",
+        "onboard_time": 1717574358,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126891,
+        "num": 126891,
+        "word": "拼车拼到一只小狗乘客",
+        "onboard_time": 1717574956,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123545,
+        "num": 123545,
+        "word": "BW2024官宣定档",
+        "onboard_time": 1717569257,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123142,
+        "num": 123142,
+        "word": "刘亦菲花裙大波浪",
+        "onboard_time": 1717560619,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119049,
+        "num": 119049,
+        "word": "庆余年2024微博第三部爆款剧集",
+        "onboard_time": 1717571058,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118670,
+        "num": 118670,
+        "word": "猫妈带着独生子出门啦",
+        "onboard_time": 1717575437,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117984,
+        "num": 117984,
+        "word": "出差疑被老板强奸隔壁房客录下证据",
+        "onboard_time": 1717548799,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 110822,
+        "num": 110822,
+        "word": "钓鱼佬才是吸猫体质",
+        "onboard_time": 1717576397,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110577,
+        "num": 110577,
+        "word": "王星越哭出小孩窝囊样",
+        "onboard_time": 1717576579,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86484,
+        "num": 108122,
+        "word": "谷爱凌解锁奥运火炬手身份",
+        "onboard_time": 1717576337,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107876,
+        "num": 107876,
+        "word": "肖战重庆机场",
+        "onboard_time": 1717566617,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107069,
+        "num": 107069,
+        "word": "Uzi 剑网三",
+        "onboard_time": 1717576397,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104250,
+        "num": 104250,
+        "word": "狗狗被剃毛后不认识自己了",
+        "onboard_time": 1717573038,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101275,
+        "num": 101275,
+        "word": "高考是高高兴兴去考试",
+        "onboard_time": 1717573878,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98808,
+        "num": 98808,
+        "word": "蒲熠星魔方连续两次第一",
+        "onboard_time": 1717570337,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88722,
+        "num": 88722,
+        "word": "周大福",
+        "onboard_time": 1717559598,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向冰岛当选总统致贺电#"
+    }
+  }
+}
