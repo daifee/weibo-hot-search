@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717561514596,
+  "endTime": 1717562304164,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -387,6 +387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1352885,
+      "num": 456679,
+      "word": "国企造假",
+      "onboard_time": 1717559957,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319857,
       "num": 1319857,
       "word": "藏海传全阵容官宣",
@@ -547,20 +555,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1150480,
+      "num": 1150480,
+      "word": "清华毕业生35岁再考清华",
+      "onboard_time": 1717558398,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1143390,
       "num": 1108158,
       "word": "孙楠得知自己排名前二的表情",
       "onboard_time": 1717207216,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1142567,
-      "num": 1142567,
-      "word": "清华毕业生35岁再考清华",
-      "onboard_time": 1717558398,
-      "rank": 33,
-      "category": "教育"
     },
     {
       "raw_hot": 1140654,
@@ -665,14 +673,6 @@
       "onboard_time": 1717390340,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1068332,
-      "num": 456679,
-      "word": "国企造假",
-      "onboard_time": 1717559957,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1046042,
@@ -1132,7 +1132,7 @@
     },
     {
       "raw_hot": 774000,
-      "num": 290316,
+      "num": 329447,
       "word": "女子将15只大虫藏女童身后过关",
       "onboard_time": 1717549877,
       "rank": 30,
@@ -1332,7 +1332,7 @@
     },
     {
       "raw_hot": 724958,
-      "num": 291339,
+      "num": 330221,
       "word": "网约车迟到8分钟致误机女子索赔",
       "onboard_time": 1717551318,
       "rank": 30,
@@ -1340,7 +1340,7 @@
     },
     {
       "raw_hot": 719095,
-      "num": 289734,
+      "num": 314795,
       "word": "巨婴式婚姻",
       "onboard_time": 1717553957,
       "rank": 30,
@@ -1404,7 +1404,7 @@
     },
     {
       "raw_hot": 688500,
-      "num": 290704,
+      "num": 329729,
       "word": "突然发现九月是调休大月",
       "onboard_time": 1717550119,
       "rank": 31,
@@ -1651,6 +1651,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 640580,
+      "num": 640580,
+      "word": "墨雨云间只有中戏四个人没配音",
+      "onboard_time": 1717559179,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 639056,
       "num": 639056,
       "word": "王楚钦 脚踝",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1717471757,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 633861,
-      "num": 633861,
-      "word": "墨雨云间只有中戏四个人没配音",
-      "onboard_time": 1717559179,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 626963,
@@ -1737,6 +1737,14 @@
       "onboard_time": 1717466897,
       "rank": 15,
       "category": "幽默,科学科普"
+    },
+    {
+      "raw_hot": 605887,
+      "num": 431769,
+      "word": "意大利滑雪名将和女友坠崖身亡",
+      "onboard_time": 1717559719,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 604879,
@@ -2065,14 +2073,6 @@
       "onboard_time": 1717236678,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 538278,
-      "num": 431769,
-      "word": "意大利滑雪名将和女友坠崖身亡",
-      "onboard_time": 1717559719,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 537019,
@@ -2739,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433735,
+      "num": 382760,
+      "word": "刘亦菲花裙大波浪",
+      "onboard_time": 1717560619,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 433318,
       "num": 399995,
       "word": "长期护肤和不护肤的区别有多大",
@@ -3203,6 +3211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 386663,
+      "num": 386663,
+      "word": "周大福",
+      "onboard_time": 1717559598,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 386015,
       "num": 386015,
       "word": "王俊凯工作室 多发爱看",
@@ -3555,19 +3571,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353901,
+      "num": 353901,
+      "word": "王者荣耀",
+      "onboard_time": 1717558158,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 353840,
       "num": 353840,
       "word": "rita回应整容谣言",
       "onboard_time": 1717559298,
       "rank": 17,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 353416,
-      "num": 353416,
-      "word": "王者荣耀",
-      "onboard_time": 1717558158,
-      "rank": 18,
       "category": "电竞"
     },
     {
@@ -3771,6 +3787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332876,
+      "num": 329301,
+      "word": "和马里奥谈恋爱有点费命",
+      "onboard_time": 1717561100,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331567,
       "num": 331567,
       "word": "墨雨云间里的孔雪儿",
@@ -3833,6 +3857,14 @@
       "onboard_time": 1717245197,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 329043,
+      "num": 329043,
+      "word": "樊振东 安踏",
+      "onboard_time": 1717561760,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 328627,
@@ -3929,6 +3961,14 @@
       "onboard_time": 1717349773,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321209,
+      "num": 321209,
+      "word": "李昊音乐会抢票",
+      "onboard_time": 1717561039,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 320897,
@@ -4171,6 +4211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300003,
+      "num": 300003,
+      "word": "刘亦菲ins预热玫瑰的故事",
+      "onboard_time": 1717561459,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299382,
       "num": 299382,
       "word": "上海一号线",
@@ -4275,14 +4323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 292451,
-      "num": 292451,
-      "word": "周大福",
-      "onboard_time": 1717559598,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 292447,
       "num": 170543,
       "word": "荔枝十元3斤要来了",
@@ -4377,14 +4417,6 @@
       "onboard_time": 1717300637,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 287450,
-      "num": 276367,
-      "word": "刘亦菲花裙大波浪",
-      "onboard_time": 1717560619,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 286942,
@@ -4891,14 +4923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 254857,
-      "num": 254857,
-      "word": "李昊音乐会抢票",
-      "onboard_time": 1717561039,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 254742,
       "num": 254742,
       "word": "墨雨云间 嫡嫁千金",
@@ -5089,14 +5113,6 @@
       "onboard_time": 1717468516,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 240520,
-      "num": 240520,
-      "word": "和马里奥谈恋爱有点费命",
-      "onboard_time": 1717561100,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 240452,
@@ -5899,6 +5915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207222,
+      "num": 207222,
+      "word": "2024KPL夏季赛大名单",
+      "onboard_time": 1717561880,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206963,
       "num": 206963,
       "word": "追风者",
@@ -5945,14 +5969,6 @@
       "onboard_time": 1717311257,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 206325,
-      "num": 206325,
-      "word": "刘亦菲ins预热玫瑰的故事",
-      "onboard_time": 1717561459,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 206190,
@@ -6313,6 +6329,14 @@
       "onboard_time": 1717220237,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198245,
+      "num": 198245,
+      "word": "文俊辉 赤脚的人",
+      "onboard_time": 1717561880,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 198193,
@@ -6803,6 +6827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185223,
+      "num": 185223,
+      "word": "调查显示3成癌症患者不到40岁",
+      "onboard_time": 1717561638,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 185158,
       "num": 185158,
       "word": "孙楠感谢每一位观众",
@@ -7081,6 +7113,14 @@
       "onboard_time": 1717239257,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176948,
+      "num": 176948,
+      "word": "为什么说跑步是一项治愈运动",
+      "onboard_time": 1717560439,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 176946,
@@ -7553,14 +7593,6 @@
       "onboard_time": 1717298537,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165998,
-      "num": 165998,
-      "word": "为什么说跑步是一项治愈运动",
-      "onboard_time": 1717560439,
-      "rank": 45,
-      "category": "运动健身"
     },
     {
       "raw_hot": 165959,
@@ -8553,6 +8585,14 @@
       "onboard_time": 1717255819,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144495,
+      "num": 1267328,
+      "word": "芒种遇到周三有多忙",
+      "onboard_time": 1717559359,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144345,
@@ -9555,6 +9595,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124665,
+      "num": 481374,
+      "word": "极端天气是不是变多了",
+      "onboard_time": 1717560019,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 124615,
       "num": 124615,
       "word": "猫咪和主人撞脸",
@@ -9585,6 +9633,14 @@
       "onboard_time": 1717395318,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 124413,
+      "num": 330517,
+      "word": "刘诗诗冷女妆",
+      "onboard_time": 1717558878,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124304,
@@ -9987,14 +10043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116653,
-      "num": 292160,
-      "word": "刘诗诗冷女妆",
-      "onboard_time": 1717558878,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 116593,
       "num": 116593,
       "word": "剑网3手绘",
@@ -10044,7 +10092,7 @@
     },
     {
       "raw_hot": 116071,
-      "num": 116071,
+      "num": 403910,
       "word": "嫦娥六号真的给玉兔捎话了",
       "onboard_time": 1717556238,
       "rank": 43,
@@ -10121,14 +10169,6 @@
       "onboard_time": 1717225997,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 114955,
-      "num": 1267328,
-      "word": "芒种遇到周三有多忙",
-      "onboard_time": 1717559359,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114585,
@@ -11315,6 +11355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78736,
+      "num": 462676,
+      "word": "刘亦菲代言魔力宝贝复兴手游",
+      "onboard_time": 1717559118,
+      "rank": 11,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 77687,
       "num": 77687,
       "word": "山东华丰煤矿事故4人升井送医",
@@ -11449,14 +11497,6 @@
       "onboard_time": 1717229777,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73455,
-      "num": 481374,
-      "word": "极端天气是不是变多了",
-      "onboard_time": 1717560019,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 73184,
@@ -11625,14 +11665,6 @@
       "onboard_time": 1717252159,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 65115,
-      "num": 462676,
-      "word": "刘亦菲代言魔力宝贝复兴手游",
-      "onboard_time": 1717559118,
-      "rank": 11,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 64985,
