@@ -1,0 +1,410 @@
+{
+  "runTime": 1717619664241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 103483,
+        "num": 103483,
+        "word": "养了6年的巨骨舌鱼把自己摔死了",
+        "onboard_time": 1717602196,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58651,
+        "num": 58651,
+        "word": "爱奇艺 线下免费线上收费",
+        "onboard_time": 1717582219,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2330,
+        "num": 53616,
+        "word": "我在五千年前等你",
+        "onboard_time": 1717559118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52265,
+        "num": 52265,
+        "word": "官方回应B太长沙夜市打假",
+        "onboard_time": 1717596379,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49899,
+        "num": 49899,
+        "word": "李宇春 小宇",
+        "onboard_time": 1717602378,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41949,
+        "num": 41949,
+        "word": "高考很大可能是考得最好的一次",
+        "onboard_time": 1717587737,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31913,
+        "num": 31913,
+        "word": "斗鱼退缴主播非法收益超1亿",
+        "onboard_time": 1717596859,
+        "rank": 6,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 30211,
+        "num": 30211,
+        "word": "王星越好帅",
+        "onboard_time": 1717592598,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24154,
+        "num": 24154,
+        "word": "2024高考",
+        "onboard_time": 1717606635,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 5680,
+        "num": 24151,
+        "word": "都江堰已持续运行2280年",
+        "onboard_time": 1717599559,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56347,
+        "num": 24133,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46479,
+        "num": 24117,
+        "word": "医院开展男性根浴服务被处罚",
+        "onboard_time": 1717579099,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34628,
+        "num": 24098,
+        "word": "朋友圈背景图",
+        "onboard_time": 1717598600,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30648,
+        "num": 24067,
+        "word": "你的高考幸运签已送达",
+        "onboard_time": 1717619230,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25262,
+        "num": 24054,
+        "word": "蒋依依 远景",
+        "onboard_time": 1717593320,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24047,
+        "num": 24047,
+        "word": "老人被发现与小38岁保姆结婚后续",
+        "onboard_time": 1717582878,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22360,
+        "num": 22360,
+        "word": "刘恋和陈昊宇十年前就认识了",
+        "onboard_time": 1717598420,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22096,
+        "num": 22096,
+        "word": "5岁女童练舞站下腰摔倒致高位截瘫",
+        "onboard_time": 1717594519,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21758,
+        "num": 21758,
+        "word": "印度总理莫迪提交辞呈",
+        "onboard_time": 1717590318,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 20208,
+        "num": 20208,
+        "word": "王鹤棣继西瓜皮后又有神图",
+        "onboard_time": 1717588278,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33461,
+        "num": 20166,
+        "word": "亲姐姐总暗示我给外甥买东西",
+        "onboard_time": 1717593438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31231,
+        "num": 19470,
+        "word": "没想到朋友圈置顶还能这么玩",
+        "onboard_time": 1717608672,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27029,
+        "num": 19240,
+        "word": "建议最近不要轻易离职",
+        "onboard_time": 1717586058,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21453,
+        "num": 18693,
+        "word": "为啥天天刷牙还有口臭",
+        "onboard_time": 1717616711,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18524,
+        "num": 18524,
+        "word": "恢复一代",
+        "onboard_time": 1717608014,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17814,
+        "num": 17814,
+        "word": "建议高考可以用大学作为考场",
+        "onboard_time": 1717593558,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17504,
+        "num": 17504,
+        "word": "3类癌症不致命无需过度治疗",
+        "onboard_time": 1717596560,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17208,
+        "num": 17208,
+        "word": "情绪稳定的本质",
+        "onboard_time": 1717616890,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17175,
+        "num": 17175,
+        "word": "B太 水果礼盒触碰了商家的逆鳞",
+        "onboard_time": 1717586778,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17076,
+        "num": 17076,
+        "word": "终于知道饭店为什么要加葱香菜",
+        "onboard_time": 1717612211,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 16862,
+        "num": 16862,
+        "word": "考王梁实称或是最后一次参加高考",
+        "onboard_time": 1717610712,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 16524,
+        "num": 16524,
+        "word": "你身上的狗味比我的还重",
+        "onboard_time": 1717615391,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16308,
+        "num": 16308,
+        "word": "公办中小学招聘不进编教师引关注",
+        "onboard_time": 1717587257,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15887,
+        "num": 15887,
+        "word": "重庆文旅发了肖战",
+        "onboard_time": 1717593619,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15813,
+        "num": 15813,
+        "word": "皮肤变好带给我的变化有多大",
+        "onboard_time": 1717594938,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 15763,
+        "num": 15763,
+        "word": "游客吐槽阿勒泰旅游太贵了",
+        "onboard_time": 1717583059,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15483,
+        "num": 15483,
+        "word": "斗鱼一季度亏损8800万元",
+        "onboard_time": 1717599139,
+        "rank": 36,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 15372,
+        "num": 15372,
+        "word": "王者貂蝉秒杀皮肤",
+        "onboard_time": 1717587979,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15228,
+        "num": 15372,
+        "word": "摄影师拍陶昕然母女穿帮了",
+        "onboard_time": 1717601539,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15162,
+        "num": 15371,
+        "word": "读研后对研究生祛魅了",
+        "onboard_time": 1717603638,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14537,
+        "num": 15371,
+        "word": "一不小心又被爸妈幽默到了",
+        "onboard_time": 1717616170,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14246,
+        "num": 15371,
+        "word": "月经变少是卵巢衰老的信号吗",
+        "onboard_time": 1717583418,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 13457,
+        "num": 15371,
+        "word": "邓为翻牌",
+        "onboard_time": 1717588578,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13121,
+        "num": 15370,
+        "word": "周大福有员工称收到N+3赔偿",
+        "onboard_time": 1717618631,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12885,
+        "num": 15370,
+        "word": "yes24网站",
+        "onboard_time": 1717596797,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12764,
+        "num": 15370,
+        "word": "歌手2024揭榜串讲人",
+        "onboard_time": 1717589779,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12699,
+        "num": 15370,
+        "word": "更好发挥住房公积金保障作用",
+        "onboard_time": 1717618631,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 12645,
+        "num": 15369,
+        "word": "99年高三老师哭的比学生还伤心",
+        "onboard_time": 1717591339,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12636,
+        "num": 15369,
+        "word": "刘亦菲19岁时的采访",
+        "onboard_time": 1717605615,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11928,
+        "num": 15369,
+        "word": "老师们送出的高考祝福又理性又浪漫",
+        "onboard_time": 1717619650,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
+    }
+  }
+}
