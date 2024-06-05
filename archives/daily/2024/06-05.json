@@ -1,10 +1,10 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717551718613,
+  "endTime": 1717554846054,
   "band_list": [
     {
-      "raw_hot": 3283857,
-      "num": 433673,
+      "raw_hot": 5921224,
+      "num": 640766,
       "word": "王阳发文",
       "onboard_time": 1717550719,
       "rank": 3,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2400189,
-      "num": 419127,
+      "num": 599072,
       "word": "出差疑被老板强奸隔壁房客录下证据",
       "onboard_time": 1717548799,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2330224,
-      "num": 517897,
+      "num": 521222,
       "word": "追风者声明",
       "onboard_time": 1717549639,
       "rank": 3,
@@ -33,6 +33,14 @@
       "onboard_time": 1717549819,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 949061,
+      "num": 1531487,
+      "word": "苹果截图 诈骗骗局",
+      "onboard_time": 1717552577,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 924063,
@@ -59,7 +67,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 671784,
+      "raw_hot": 725193,
+      "num": 725193,
+      "word": "剧组ICU拍剧竟让患者家属哭小声点",
+      "onboard_time": 1717551676,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 701151,
+      "num": 167002,
+      "word": "网约车迟到8分钟致误机女子索赔",
+      "onboard_time": 1717551318,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 688500,
       "num": 205232,
       "word": "突然发现九月是调休大月",
       "onboard_time": 1717550119,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 433318,
-      "num": 353077,
+      "num": 399995,
       "word": "长期护肤和不护肤的区别有多大",
       "onboard_time": 1717547839,
       "rank": 12,
@@ -137,6 +161,14 @@
       "onboard_time": 1717506617,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417911,
+      "num": 417911,
+      "word": "墨雨云间里的纪凌尘",
+      "onboard_time": 1717548498,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 416952,
@@ -153,14 +185,6 @@
       "onboard_time": 1717546098,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 371097,
-      "num": 371097,
-      "word": "墨雨云间里的纪凌尘",
-      "onboard_time": 1717548498,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 348413,
@@ -193,6 +217,22 @@
       "onboard_time": 1717506376,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304510,
+      "num": 165938,
+      "word": "她女扮男装43年终于火了",
+      "onboard_time": 1717552819,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303123,
+      "num": 404403,
+      "word": "女装尺码越来越小了",
+      "onboard_time": 1717552637,
+      "rank": 8,
+      "category": "时尚"
     },
     {
       "raw_hot": 293534,
@@ -259,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240452,
+      "num": 192235,
+      "word": "为什么夏天不敢穿黄色衣服出门",
+      "onboard_time": 1717550838,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 240294,
       "num": 240294,
       "word": "李赫宰曾是TFBOYS演唱会总导演",
@@ -275,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 232016,
-      "num": 192235,
-      "word": "为什么夏天不敢穿黄色衣服出门",
-      "onboard_time": 1717550838,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 230514,
       "num": 230514,
       "word": "坚持护肤一个月后脸部的变化",
@@ -297,6 +337,22 @@
       "onboard_time": 1717548618,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 226455,
+      "num": 157923,
+      "word": "詹姆斯生气不再和欧文搭档",
+      "onboard_time": 1717554017,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223421,
+      "num": 223421,
+      "word": "东方甄选回应嚎叫式直播",
+      "onboard_time": 1717552038,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 220757,
@@ -347,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182610,
+      "num": 182610,
+      "word": "原神开门",
+      "onboard_time": 1717554318,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180925,
       "num": 180925,
       "word": "电商的仅退款政策真的合理吗",
@@ -371,12 +435,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 167002,
-      "num": 167002,
-      "word": "网约车迟到8分钟致误机女子索赔",
-      "onboard_time": 1717551318,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 166452,
+      "num": 166452,
+      "word": "墨雨云间时长",
+      "onboard_time": 1717554557,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 158253,
@@ -385,6 +449,14 @@
       "onboard_time": 1717502357,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156530,
+      "num": 143905,
+      "word": "巨婴式婚姻",
+      "onboard_time": 1717553957,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 156359,
@@ -411,12 +483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150045,
+      "num": 150045,
+      "word": "杜海涛上岛了",
+      "onboard_time": 1717553179,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149892,
       "num": 371068,
       "word": "骑手小哥头戴开字送高考祝福",
       "onboard_time": 1717549699,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 149803,
+      "num": 142882,
+      "word": "关晓彤给蔡国庆化妆",
+      "onboard_time": 1717553718,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 145791,
@@ -428,7 +516,7 @@
     },
     {
       "raw_hot": 142426,
-      "num": 520284,
+      "num": 678400,
       "word": "五星红旗在月亮之上",
       "onboard_time": 1717510699,
       "rank": 2,
@@ -441,6 +529,14 @@
       "onboard_time": 1717508358,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138905,
+      "num": 138905,
+      "word": "张艺兴24岁时街头运动风妆造",
+      "onboard_time": 1717554498,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138664,
@@ -499,8 +595,24 @@
       "category": "数码"
     },
     {
-      "raw_hot": 117787,
-      "num": 117787,
+      "raw_hot": 120061,
+      "num": 120061,
+      "word": "控制饮食和坚持运动哪个更有效",
+      "onboard_time": 1717553538,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 118756,
+      "num": 118756,
+      "word": "致高考考生和家长的温馨提示",
+      "onboard_time": 1717552339,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 118722,
+      "num": 118722,
       "word": "于东来称大多数企业家不懂得生命意义",
       "onboard_time": 1717551439,
       "rank": 40,
@@ -513,6 +625,14 @@
       "onboard_time": 1717551259,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116405,
+      "num": 116405,
+      "word": "王珞丹27年前做的裙子妈妈还留着",
+      "onboard_time": 1717552217,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 114530,
@@ -528,6 +648,14 @@
       "word": "孙楠或唱毛不易的歌",
       "onboard_time": 1717514838,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113968,
+      "num": 113968,
+      "word": "辛芷蕾新作蛄蛹者",
+      "onboard_time": 1717553119,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -571,20 +699,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102991,
-      "num": 102991,
-      "word": "剧组ICU拍剧竟让患者家属哭小声点",
-      "onboard_time": 1717551676,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102694,
       "num": 102694,
       "word": "两个猫猫吵架人类帮忙劝架",
       "onboard_time": 1717511119,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102242,
+      "num": 102242,
+      "word": "种地吧",
+      "onboard_time": 1717554437,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 98576,
@@ -865,6 +993,14 @@
       "onboard_time": 1717542253,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 30189,
+      "num": 401220,
+      "word": "回家的路是我们最想走的路",
+      "onboard_time": 1717554198,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29186,

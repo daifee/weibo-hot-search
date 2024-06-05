@@ -1,7 +1,15 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717551718613,
+  "endTime": 1717554846054,
   "band_list": [
+    {
+      "raw_hot": 5921224,
+      "num": 640766,
+      "word": "王阳发文",
+      "onboard_time": 1717550719,
+      "rank": 3,
+      "category": "剧集"
+    },
     {
       "raw_hot": 4295015,
       "num": 4295015,
@@ -9,14 +17,6 @@
       "onboard_time": 1717377378,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 3283857,
-      "num": 433673,
-      "word": "王阳发文",
-      "onboard_time": 1717550719,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 2599837,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2400189,
-      "num": 419127,
+      "num": 599072,
       "word": "出差疑被老板强奸隔壁房客录下证据",
       "onboard_time": 1717548799,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2330224,
-      "num": 517897,
+      "num": 521222,
       "word": "追风者声明",
       "onboard_time": 1717549639,
       "rank": 3,
@@ -555,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 949061,
+      "num": 1531487,
+      "word": "苹果截图 诈骗骗局",
+      "onboard_time": 1717552577,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 943726,
       "num": 943726,
       "word": "曝iPhone16Pro拥有行业最窄边框",
@@ -971,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 725193,
+      "num": 725193,
+      "word": "剧组ICU拍剧竟让患者家属哭小声点",
+      "onboard_time": 1717551676,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 718868,
       "num": 637378,
       "word": "杨天真",
@@ -1003,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701151,
+      "num": 167002,
+      "word": "网约车迟到8分钟致误机女子索赔",
+      "onboard_time": 1717551318,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 694866,
       "num": 694866,
       "word": "姆巴佩",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1717500138,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 688500,
+      "num": 205232,
+      "word": "突然发现九月是调休大月",
+      "onboard_time": 1717550119,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 681546,
@@ -1088,14 +1120,6 @@
       "word": "恋爱两年不到男朋友给我花了十万",
       "onboard_time": 1717303098,
       "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 671784,
-      "num": 205232,
-      "word": "突然发现九月是调休大月",
-      "onboard_time": 1717550119,
-      "rank": 31,
       "category": "情感"
     },
     {
@@ -2076,7 +2100,7 @@
     },
     {
       "raw_hot": 433318,
-      "num": 353077,
+      "num": 399995,
       "word": "长期护肤和不护肤的区别有多大",
       "onboard_time": 1717547839,
       "rank": 12,
@@ -2192,6 +2216,14 @@
       "word": "张婧仪 古早TVB味儿",
       "onboard_time": 1717373838,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 417911,
+      "num": 417911,
+      "word": "墨雨云间里的纪凌尘",
+      "onboard_time": 1717548498,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -2521,14 +2553,6 @@
       "onboard_time": 1717408158,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371097,
-      "num": 371097,
-      "word": "墨雨云间里的纪凌尘",
-      "onboard_time": 1717548498,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 370844,
@@ -2995,6 +3019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 304510,
+      "num": 165938,
+      "word": "她女扮男装43年终于火了",
+      "onboard_time": 1717552819,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304041,
       "num": 304041,
       "word": "原神",
@@ -3009,6 +3041,14 @@
       "onboard_time": 1717432216,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 303123,
+      "num": 404403,
+      "word": "女装尺码越来越小了",
+      "onboard_time": 1717552637,
+      "rank": 8,
+      "category": "时尚"
     },
     {
       "raw_hot": 302902,
@@ -3731,6 +3771,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 240452,
+      "num": 192235,
+      "word": "为什么夏天不敢穿黄色衣服出门",
+      "onboard_time": 1717550838,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 239932,
       "num": 239932,
       "word": "G2夺冠",
@@ -3899,14 +3947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 232016,
-      "num": 192235,
-      "word": "为什么夏天不敢穿黄色衣服出门",
-      "onboard_time": 1717550838,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 230823,
       "num": 230823,
       "word": "林俊杰 这歌是这样唱的吗",
@@ -4011,6 +4051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226455,
+      "num": 157923,
+      "word": "詹姆斯生气不再和欧文搭档",
+      "onboard_time": 1717554017,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226311,
       "num": 226311,
       "word": "王勉 易建联",
@@ -4057,6 +4105,14 @@
       "onboard_time": 1717312997,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223421,
+      "num": 223421,
+      "word": "东方甄选回应嚎叫式直播",
+      "onboard_time": 1717552038,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 223262,
@@ -5011,6 +5067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182610,
+      "num": 182610,
+      "word": "原神开门",
+      "onboard_time": 1717554318,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181991,
       "num": 325784,
       "word": "商户卖假牛肉被揭穿后摔相机",
@@ -5467,20 +5531,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167002,
-      "num": 167002,
-      "word": "网约车迟到8分钟致误机女子索赔",
-      "onboard_time": 1717551318,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166569,
       "num": 166569,
       "word": "2024新加坡羽毛球公开赛",
       "onboard_time": 1717330757,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166452,
+      "num": 166452,
+      "word": "墨雨云间时长",
+      "onboard_time": 1717554557,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 166415,
@@ -5739,6 +5803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 156530,
+      "num": 143905,
+      "word": "巨婴式婚姻",
+      "onboard_time": 1717553957,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 156447,
       "num": 156447,
       "word": "TF三代九月前或将出道",
@@ -5971,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150045,
+      "num": 150045,
+      "word": "杜海涛上岛了",
+      "onboard_time": 1717553179,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149892,
       "num": 371068,
       "word": "骑手小哥头戴开字送高考祝福",
@@ -5985,6 +6065,14 @@
       "onboard_time": 1717392381,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149803,
+      "num": 142882,
+      "word": "关晓彤给蔡国庆化妆",
+      "onboard_time": 1717553718,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 149326,
@@ -6212,7 +6300,7 @@
     },
     {
       "raw_hot": 142426,
-      "num": 520284,
+      "num": 678400,
       "word": "五星红旗在月亮之上",
       "onboard_time": 1717510699,
       "rank": 2,
@@ -6361,6 +6449,14 @@
       "onboard_time": 1717487958,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138905,
+      "num": 138905,
+      "word": "张艺兴24岁时街头运动风妆造",
+      "onboard_time": 1717554498,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138903,
@@ -7131,6 +7227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120061,
+      "num": 120061,
+      "word": "控制饮食和坚持运动哪个更有效",
+      "onboard_time": 1717553538,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 119858,
       "num": 119858,
       "word": "石宇奇登顶世界第一",
@@ -7203,6 +7307,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118756,
+      "num": 118756,
+      "word": "致高考考生和家长的温馨提示",
+      "onboard_time": 1717552339,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 118722,
+      "num": 118722,
+      "word": "于东来称大多数企业家不懂得生命意义",
+      "onboard_time": 1717551439,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 118638,
       "num": 118638,
       "word": "广州夜晚的灯光照亮了云雾",
@@ -7225,14 +7345,6 @@
       "onboard_time": 1717466417,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117787,
-      "num": 117787,
-      "word": "于东来称大多数企业家不懂得生命意义",
-      "onboard_time": 1717551439,
-      "rank": 40,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 117555,
@@ -7289,6 +7401,14 @@
       "onboard_time": 1717340779,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116405,
+      "num": 116405,
+      "word": "王珞丹27年前做的裙子妈妈还留着",
+      "onboard_time": 1717552217,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 116393,
@@ -7409,6 +7529,14 @@
       "onboard_time": 1717381638,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113968,
+      "num": 113968,
+      "word": "辛芷蕾新作蛄蛹者",
+      "onboard_time": 1717553119,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 113705,
@@ -7827,14 +7955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102991,
-      "num": 102991,
-      "word": "剧组ICU拍剧竟让患者家属哭小声点",
-      "onboard_time": 1717551676,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102914,
       "num": 102914,
       "word": "贾乃亮回复郭晓婷",
@@ -7856,6 +7976,14 @@
       "word": "刘维无声的悲痛震耳欲聋",
       "onboard_time": 1717314978,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102242,
+      "num": 110098,
+      "word": "种地吧",
+      "onboard_time": 1717324877,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -8097,14 +8225,6 @@
       "onboard_time": 1717313836,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87423,
-      "num": 110098,
-      "word": "种地吧",
-      "onboard_time": 1717324877,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 87063,
@@ -9120,6 +9240,14 @@
       "word": "中国首个重载铁路加氢站",
       "onboard_time": 1717401620,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30189,
+      "num": 401220,
+      "word": "回家的路是我们最想走的路",
+      "onboard_time": 1717554198,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
