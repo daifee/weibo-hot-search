@@ -1,17 +1,25 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717550358465,
+  "endTime": 1717551718613,
   "band_list": [
     {
-      "raw_hot": 2383451,
-      "num": 366005,
+      "raw_hot": 3283857,
+      "num": 433673,
+      "word": "王阳发文",
+      "onboard_time": 1717550719,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 2400189,
+      "num": 419127,
       "word": "出差疑被老板强奸隔壁房客录下证据",
       "onboard_time": 1717548799,
       "rank": 10,
       "category": "社会负面"
     },
     {
-      "raw_hot": 1943930,
+      "raw_hot": 2330224,
       "num": 517897,
       "word": "追风者声明",
       "onboard_time": 1717549639,
@@ -19,7 +27,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1285190,
+      "raw_hot": 1783712,
       "num": 516279,
       "word": "王一博 魏若来不仅是一个人的成长",
       "onboard_time": 1717549819,
@@ -35,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774000,
+      "num": 211117,
+      "word": "女子将15只大虫藏女童身后过关",
+      "onboard_time": 1717549877,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 760650,
-      "num": 760650,
+      "num": 1431576,
       "word": "12306回应高铁新添优选一等座",
       "onboard_time": 1717545017,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671784,
+      "num": 205232,
+      "word": "突然发现九月是调休大月",
+      "onboard_time": 1717550119,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 671063,
@@ -131,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 371097,
+      "num": 371097,
+      "word": "墨雨云间里的纪凌尘",
+      "onboard_time": 1717548498,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348413,
       "num": 348413,
       "word": "三星堆博物馆游客抡凳子打架",
@@ -139,20 +171,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344478,
-      "num": 344478,
-      "word": "墨雨云间里的纪凌尘",
-      "onboard_time": 1717548498,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 333073,
+      "raw_hot": 336928,
       "num": 333073,
       "word": "阿沁公开飞儿乐团创作录音",
       "onboard_time": 1717548438,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 317950,
+      "num": 317950,
+      "word": "今天芒种应该吃点啥",
+      "onboard_time": 1717550418,
+      "rank": 8,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 314501,
@@ -193,14 +225,6 @@
       "onboard_time": 1717513280,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 267390,
-      "num": 203532,
-      "word": "女子将15只大虫藏女童身后过关",
-      "onboard_time": 1717549877,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 265273,
@@ -249,6 +273,14 @@
       "onboard_time": 1717548318,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232016,
+      "num": 192235,
+      "word": "为什么夏天不敢穿黄色衣服出门",
+      "onboard_time": 1717550838,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 230514,
@@ -315,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196108,
-      "num": 196108,
-      "word": "突然发现九月是调休大月",
-      "onboard_time": 1717550119,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180925,
       "num": 180925,
       "word": "电商的仅退款政策真的合理吗",
@@ -347,12 +371,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 167002,
+      "num": 167002,
+      "word": "网约车迟到8分钟致误机女子索赔",
+      "onboard_time": 1717551318,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158253,
       "num": 158253,
       "word": "汪文斌候任驻柬埔寨大使",
       "onboard_time": 1717502357,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156359,
+      "num": 156359,
+      "word": "芒种一过就要高考了",
+      "onboard_time": 1717545857,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 154997,
@@ -403,20 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140243,
-      "num": 140243,
-      "word": "芒种一过就要高考了",
-      "onboard_time": 1717545857,
-      "rank": 38,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 138664,
       "num": 138664,
       "word": "易烊千玺或出席米兰时装周",
       "onboard_time": 1717511299,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 138327,
+      "num": 138327,
+      "word": "海拔3000米的万亩杜鹃",
+      "onboard_time": 1717551138,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 132884,
@@ -459,6 +499,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 117787,
+      "num": 117787,
+      "word": "于东来称大多数企业家不懂得生命意义",
+      "onboard_time": 1717551439,
+      "rank": 40,
+      "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 117179,
+      "num": 117179,
+      "word": "原来大自然藏着这么多表情包",
+      "onboard_time": 1717551259,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114530,
       "num": 114530,
       "word": "张杰 雪龙吟",
@@ -492,7 +548,7 @@
     },
     {
       "raw_hot": 107956,
-      "num": 107956,
+      "num": 217732,
       "word": "愿每位考生的辛苦耕耘都能收获满满",
       "onboard_time": 1717548618,
       "rank": 45,
@@ -513,6 +569,14 @@
       "onboard_time": 1717547059,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102991,
+      "num": 102991,
+      "word": "剧组ICU拍剧竟让患者家属哭小声点",
+      "onboard_time": 1717551676,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102694,

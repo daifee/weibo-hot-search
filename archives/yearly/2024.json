@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717550358465,
+  "endTime": 1717551718613,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -2051,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3283857,
+      "num": 433673,
+      "word": "王阳发文",
+      "onboard_time": 1717550719,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 3276531,
       "num": 3276531,
       "word": "胡歌杨幂唐嫣开场同台",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1716556164,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3097561,
-      "num": 3097561,
-      "word": "比亚迪为劝架车主奖励20万",
-      "onboard_time": 1708846292,
-      "rank": 31,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

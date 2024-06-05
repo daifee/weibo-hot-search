@@ -1,0 +1,410 @@
+{
+  "runTime": 1717551718613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 563638,
+        "num": 1431576,
+        "word": "12306回应高铁新添优选一等座",
+        "onboard_time": 1717545017,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453852,
+        "num": 453852,
+        "word": "斯洛文尼亚宣布承认巴勒斯坦国",
+        "onboard_time": 1717547419,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112318,
+        "num": 445431,
+        "word": "五星红旗在月亮之上",
+        "onboard_time": 1717510699,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3283857,
+        "num": 433673,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2400189,
+        "num": 419127,
+        "word": "出差疑被老板强奸隔壁房客录下证据",
+        "onboard_time": 1717548799,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 2330224,
+        "num": 392859,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1783712,
+        "num": 373271,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371097,
+        "num": 371097,
+        "word": "墨雨云间里的纪凌尘",
+        "onboard_time": 1717548498,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317950,
+        "num": 317950,
+        "word": "今天芒种应该吃点啥",
+        "onboard_time": 1717550418,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 312965,
+        "num": 312965,
+        "word": "父亲称孩子因多看两眼遭陌生人掐脖",
+        "onboard_time": 1717545017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466560,
+        "num": 306328,
+        "word": "端午之后七八月份一个假都没有",
+        "onboard_time": 1717543636,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418988,
+        "num": 304361,
+        "word": "长期护肤和不护肤的区别有多大",
+        "onboard_time": 1717547839,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 336928,
+        "num": 303328,
+        "word": "阿沁公开飞儿乐团创作录音",
+        "onboard_time": 1717548438,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 298140,
+        "num": 298140,
+        "word": "距离2024高考还有2天",
+        "onboard_time": 1717546098,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 276772,
+        "num": 276772,
+        "word": "婚纱照发朋友圈被人说不好看",
+        "onboard_time": 1717510218,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 258887,
+        "num": 258887,
+        "word": "巴勒斯坦",
+        "onboard_time": 1717506557,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 221094,
+        "num": 221094,
+        "word": "董璇 天天有人哭错坟",
+        "onboard_time": 1717506617,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220955,
+        "num": 220955,
+        "word": "女子酒店洗澡被陌生男开门闯入",
+        "onboard_time": 1717514358,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218435,
+        "num": 218435,
+        "word": "三星堆博物馆游客抡凳子打架",
+        "onboard_time": 1717545737,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95380,
+        "num": 217732,
+        "word": "愿每位考生的辛苦耕耘都能收获满满",
+        "onboard_time": 1717548618,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 774000,
+        "num": 211117,
+        "word": "女子将15只大虫藏女童身后过关",
+        "onboard_time": 1717549877,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671784,
+        "num": 205232,
+        "word": "突然发现九月是调休大月",
+        "onboard_time": 1717550119,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296509,
+        "num": 202772,
+        "word": "2025QS世界大学排名",
+        "onboard_time": 1717542675,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94904,
+        "num": 199150,
+        "word": "骑手小哥头戴开字送高考祝福",
+        "onboard_time": 1717549699,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 232016,
+        "num": 192235,
+        "word": "为什么夏天不敢穿黄色衣服出门",
+        "onboard_time": 1717550838,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 190072,
+        "num": 190072,
+        "word": "女子去朋友家做客被浙江农村惊到了",
+        "onboard_time": 1717548318,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189130,
+        "num": 189130,
+        "word": "60块买的土狗越来越洋气了",
+        "onboard_time": 1717511660,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186790,
+        "num": 186790,
+        "word": "B太曝长沙夜市水果捞鬼秤",
+        "onboard_time": 1717518255,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182208,
+        "num": 182208,
+        "word": "芒种",
+        "onboard_time": 1717542614,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177474,
+        "num": 177474,
+        "word": "姜若瑶人设",
+        "onboard_time": 1717548738,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167002,
+        "num": 167002,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169343,
+        "num": 166816,
+        "word": "王星越壁纸",
+        "onboard_time": 1717546040,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166400,
+        "num": 166400,
+        "word": "为什么身上会有鸡皮肤",
+        "onboard_time": 1717548618,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 156359,
+        "num": 156359,
+        "word": "芒种一过就要高考了",
+        "onboard_time": 1717545857,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 153980,
+        "num": 153980,
+        "word": "节食减肥的尽头可能是内分泌科",
+        "onboard_time": 1717507519,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148592,
+        "num": 148592,
+        "word": "石人峡意外落水遇难领队系资深驴友",
+        "onboard_time": 1717548618,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139029,
+        "num": 139029,
+        "word": "大大方方结束一段不真诚的关系",
+        "onboard_time": 1717543275,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138808,
+        "num": 138808,
+        "word": "坚持护肤一个月后脸部的变化",
+        "onboard_time": 1717545857,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138327,
+        "num": 138327,
+        "word": "海拔3000米的万亩杜鹃",
+        "onboard_time": 1717551138,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 129409,
+        "num": 129409,
+        "word": "女子把隐翅虫当蚊子拍死差点毁容",
+        "onboard_time": 1717506376,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117787,
+        "num": 117787,
+        "word": "于东来称大多数企业家不懂得生命意义",
+        "onboard_time": 1717551439,
+        "rank": 40,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 117305,
+        "num": 117305,
+        "word": "40小时工作制真的不适合人类",
+        "onboard_time": 1717507758,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117184,
+        "num": 117184,
+        "word": "涂山红红九尾法相",
+        "onboard_time": 1717546458,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117179,
+        "num": 117179,
+        "word": "原来大自然藏着这么多表情包",
+        "onboard_time": 1717551259,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112518,
+        "num": 112518,
+        "word": "张凌赫徐若晗吻戏路透",
+        "onboard_time": 1717545076,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112492,
+        "num": 112492,
+        "word": "王星越说的姜二是姜雪宁还是姜梨",
+        "onboard_time": 1717513519,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107456,
+        "num": 107456,
+        "word": "结婚了就得有一份责任了",
+        "onboard_time": 1717545497,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102991,
+        "num": 102991,
+        "word": "剧组ICU拍剧竟让患者家属哭小声点",
+        "onboard_time": 1717551676,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101127,
+        "num": 101127,
+        "word": "长期饮酒等于花钱买病",
+        "onboard_time": 1717549579,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99974,
+        "num": 99974,
+        "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
+        "onboard_time": 1717524611,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向冰岛当选总统致贺电#"
+    }
+  }
+}
