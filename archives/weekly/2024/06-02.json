@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717565750445,
+  "endTime": 1717568783814,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -1443,6 +1443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598133,
+      "num": 422318,
+      "word": "王鹤棣 无袖",
+      "onboard_time": 1717566078,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 596764,
       "num": 450778,
       "word": "谁家早饭花50晚饭花2000",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1717333038,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 563569,
+      "num": 359877,
+      "word": "奔跑吧应援声明",
+      "onboard_time": 1717564519,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 558529,
@@ -3195,14 +3211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 306816,
-      "num": 306816,
-      "word": "奔跑吧应援声明",
-      "onboard_time": 1717564519,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305776,
       "num": 305776,
       "word": "以为是更年期结果是怀孕了",
@@ -3555,6 +3563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 281478,
+      "num": 281478,
+      "word": "我偏要发剑网3",
+      "onboard_time": 1717565298,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278663,
       "num": 278663,
       "word": "钟楚曦十八宫格泳池照",
@@ -3649,6 +3665,22 @@
       "onboard_time": 1717308138,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 271020,
+      "num": 225061,
+      "word": "白鹿粉丝带编发",
+      "onboard_time": 1717566018,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270883,
+      "num": 223554,
+      "word": "肖战重庆机场",
+      "onboard_time": 1717566617,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 270845,
@@ -4547,14 +4579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214439,
-      "num": 214439,
-      "word": "我偏要发剑网3",
-      "onboard_time": 1717565298,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 211982,
       "num": 410653,
       "word": "玄武岩织成的国旗只有11.3克",
@@ -4891,6 +4915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200650,
+      "num": 195308,
+      "word": "6岁的侄女昨天在公园报警",
+      "onboard_time": 1717565419,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200396,
       "num": 200396,
       "word": "原神开门",
@@ -4913,6 +4945,14 @@
       "onboard_time": 1717559359,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200240,
+      "num": 200240,
+      "word": "你在不在",
+      "onboard_time": 1717568118,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 200024,
@@ -5035,6 +5075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197355,
+      "num": 596697,
+      "word": "办培训学校不到3个月收200余万学费",
+      "onboard_time": 1717563620,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 197319,
       "num": 197319,
       "word": "广东人吃辣已经是nextlevel",
@@ -5088,6 +5136,14 @@
       "word": "万妮达 选曲投票",
       "onboard_time": 1717398319,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195787,
+      "num": 195787,
+      "word": "歌手有Adele的hello",
+      "onboard_time": 1717566318,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -5411,6 +5467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 184863,
+      "num": 184863,
+      "word": "浙江奶奶每天骑电驴10分钟到上海上班",
+      "onboard_time": 1717567458,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184385,
       "num": 152321,
       "word": "BABYMONSTER将出演下周MCD",
@@ -5643,6 +5707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177254,
+      "num": 177254,
+      "word": "幽门螺杆菌的根除方案",
+      "onboard_time": 1717564218,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176948,
       "num": 176948,
       "word": "为什么说跑步是一项治愈运动",
@@ -5681,14 +5753,6 @@
       "onboard_time": 1717475841,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175814,
-      "num": 175814,
-      "word": "幽门螺杆菌的根除方案",
-      "onboard_time": 1717564218,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 175519,
@@ -5817,14 +5881,6 @@
       "onboard_time": 1717368853,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172590,
-      "num": 172590,
-      "word": "6岁的侄女昨天在公园报警",
-      "onboard_time": 1717565419,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 172484,
@@ -6139,6 +6195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161853,
+      "num": 161853,
+      "word": "庆余年中的三大坊在杭州哪里",
+      "onboard_time": 1717568537,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161598,
       "num": 161598,
       "word": "庆余年不是张若昀第一次生孩子",
@@ -6411,6 +6475,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154306,
+      "num": 154306,
+      "word": "悬疑剧又有判头了",
+      "onboard_time": 1717568357,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154226,
       "num": 154226,
       "word": "刘亦菲奇迹玫瑰",
@@ -6473,14 +6545,6 @@
       "onboard_time": 1717464858,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 151328,
-      "num": 596697,
-      "word": "办培训学校不到3个月收200余万学费",
-      "onboard_time": 1717563620,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 151240,
@@ -7195,6 +7259,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 130830,
+      "num": 130830,
+      "word": "谷雨推近千元爽肤水被指割韭菜",
+      "onboard_time": 1717568118,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 130744,
       "num": 130744,
       "word": "为啥绿豆汤有红有绿",
@@ -7369,6 +7441,14 @@
       "onboard_time": 1717326858,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127120,
+      "num": 127120,
+      "word": "尚雯婕清唱bangbang",
+      "onboard_time": 1717568477,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 127119,
@@ -9379,6 +9459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56556,
+      "num": 226984,
+      "word": "求问颐莲品牌市场部",
+      "onboard_time": 1717565419,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 56334,
       "num": 448372,
       "word": "145天救助后鲸鱼海棠重回大海",
@@ -9441,6 +9529,14 @@
       "onboard_time": 1717361291,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52139,
+      "num": 374749,
+      "word": "起底职称代评的生意链",
+      "onboard_time": 1717567218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51873,
@@ -9921,14 +10017,6 @@
       "onboard_time": 1717259117,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21180,
-      "num": 170132,
-      "word": "求问颐莲品牌市场部",
-      "onboard_time": 1717565419,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 21152,

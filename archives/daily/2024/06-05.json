@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717565750445,
+  "endTime": 1717568783814,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -203,12 +203,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598133,
+      "num": 422318,
+      "word": "王鹤棣 无袖",
+      "onboard_time": 1717566078,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579471,
       "num": 579471,
       "word": "刘亦菲花裙大波浪",
       "onboard_time": 1717560619,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 563569,
+      "num": 359877,
+      "word": "奔跑吧应援声明",
+      "onboard_time": 1717564519,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 557599,
@@ -411,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306816,
-      "num": 306816,
-      "word": "奔跑吧应援声明",
-      "onboard_time": 1717564519,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 305776,
       "num": 305776,
       "word": "以为是更年期结果是怀孕了",
@@ -475,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281478,
+      "num": 281478,
+      "word": "我偏要发剑网3",
+      "onboard_time": 1717565298,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274036,
       "num": 207648,
       "word": "没了董宇辉东方甄选只能乱七八糟吗",
@@ -489,6 +505,22 @@
       "onboard_time": 1717548738,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271020,
+      "num": 225061,
+      "word": "白鹿粉丝带编发",
+      "onboard_time": 1717566018,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270883,
+      "num": 223554,
+      "word": "肖战重庆机场",
+      "onboard_time": 1717566617,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 269630,
@@ -627,6 +659,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 221206,
+      "num": 221206,
+      "word": "A股",
+      "onboard_time": 1717567937,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 220957,
       "num": 210429,
       "word": "减肥的顶级天赋是没有味觉",
@@ -681,14 +721,6 @@
       "onboard_time": 1717546040,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214439,
-      "num": 214439,
-      "word": "我偏要发剑网3",
-      "onboard_time": 1717565298,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 207440,
@@ -763,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200650,
+      "num": 195308,
+      "word": "6岁的侄女昨天在公园报警",
+      "onboard_time": 1717565419,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200396,
       "num": 200396,
       "word": "原神开门",
@@ -779,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200240,
+      "num": 200240,
+      "word": "你在不在",
+      "onboard_time": 1717568118,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "张云龙丞磊合跳晚安大小姐",
@@ -793,6 +841,22 @@
       "onboard_time": 1717561880,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197355,
+      "num": 596697,
+      "word": "办培训学校不到3个月收200余万学费",
+      "onboard_time": 1717563620,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 195787,
+      "num": 195787,
+      "word": "歌手有Adele的hello",
+      "onboard_time": 1717566318,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 195231,
@@ -817,6 +881,14 @@
       "onboard_time": 1717561638,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 184863,
+      "num": 184863,
+      "word": "浙江奶奶每天骑电驴10分钟到上海上班",
+      "onboard_time": 1717567458,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181244,
@@ -859,6 +931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177254,
+      "num": 177254,
+      "word": "幽门螺杆菌的根除方案",
+      "onboard_time": 1717564218,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176948,
       "num": 176948,
       "word": "为什么说跑步是一项治愈运动",
@@ -873,22 +953,6 @@
       "onboard_time": 1717558459,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175814,
-      "num": 175814,
-      "word": "幽门螺杆菌的根除方案",
-      "onboard_time": 1717564218,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 172590,
-      "num": 172590,
-      "word": "6岁的侄女昨天在公园报警",
-      "onboard_time": 1717565419,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 168666,
@@ -923,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161853,
+      "num": 161853,
+      "word": "庆余年中的三大坊在杭州哪里",
+      "onboard_time": 1717568537,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158253,
       "num": 158253,
       "word": "汪文斌候任驻柬埔寨大使",
@@ -955,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154306,
+      "num": 154306,
+      "word": "悬疑剧又有判头了",
+      "onboard_time": 1717568357,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154226,
       "num": 154226,
       "word": "刘亦菲奇迹玫瑰",
@@ -969,14 +1049,6 @@
       "onboard_time": 1717544356,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151328,
-      "num": 596697,
-      "word": "办培训学校不到3个月收200余万学费",
-      "onboard_time": 1717563620,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 151130,
@@ -1107,12 +1179,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 130830,
+      "num": 130830,
+      "word": "谷雨推近千元爽肤水被指割韭菜",
+      "onboard_time": 1717568118,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 130213,
       "num": 130213,
       "word": "涂山红红九尾法相",
       "onboard_time": 1717546458,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127120,
+      "num": 127120,
+      "word": "尚雯婕清唱bangbang",
+      "onboard_time": 1717568477,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 124665,
@@ -1531,12 +1619,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 56556,
+      "num": 226984,
+      "word": "求问颐莲品牌市场部",
+      "onboard_time": 1717565419,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 54805,
       "num": 67763,
       "word": "蓝眼狸猫",
       "onboard_time": 1717511239,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52139,
+      "num": 374749,
+      "word": "起底职称代评的生意链",
+      "onboard_time": 1717567218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50383,
@@ -1617,14 +1721,6 @@
       "onboard_time": 1717522394,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21180,
-      "num": 170132,
-      "word": "求问颐莲品牌市场部",
-      "onboard_time": 1717565419,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 16920,
