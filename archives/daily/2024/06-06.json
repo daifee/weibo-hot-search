@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717607836401,
+  "endTime": 1717608870164,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73371,
+      "num": 73371,
+      "word": "恢复一代",
+      "onboard_time": 1717608014,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71611,
       "num": 76074,
       "word": "墨雨云间 咬虎口",
@@ -395,20 +403,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53977,
+      "num": 53977,
+      "word": "墨雨云间 双强cp",
+      "onboard_time": 1717606995,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "徐艺洋运动就会恶心",
       "onboard_time": 1717575498,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 52343,
-      "num": 52343,
-      "word": "墨雨云间 双强cp",
-      "onboard_time": 1717606995,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 49188,
@@ -419,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42812,
+      "num": 42812,
+      "word": "吴谨言杨超越合照",
+      "onboard_time": 1717608254,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40303,
       "num": 43514,
       "word": "leave闪现接箭",
       "onboard_time": 1717592779,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 38996,
+      "num": 38996,
+      "word": "没想到朋友圈置顶还能这么玩",
+      "onboard_time": 1717608672,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 33483,
@@ -451,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13119,
+      "num": 53995,
+      "word": "藏在高考数学模拟卷里的浪漫",
+      "onboard_time": 1717608852,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 11384,
       "num": 124202,
       "word": "师娘带全班学生激情宣誓助力高考",
@@ -459,7 +491,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 4344,
+      "raw_hot": 4790,
       "num": 412015,
       "word": "我在五千年前等你",
       "onboard_time": 1717559118,

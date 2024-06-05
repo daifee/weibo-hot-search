@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717607836401,
+  "endTime": 1717608870164,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -10451,6 +10451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73371,
+      "num": 73371,
+      "word": "恢复一代",
+      "onboard_time": 1717608014,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72645,
       "num": 72645,
       "word": "我的阿勒泰央八黄金档开播",
@@ -10875,6 +10883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53977,
+      "num": 53977,
+      "word": "墨雨云间 双强cp",
+      "onboard_time": 1717606995,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53336,
       "num": 486010,
       "word": "南京地铁的高考仪式感",
@@ -10913,14 +10929,6 @@
       "onboard_time": 1717361291,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52343,
-      "num": 52343,
-      "word": "墨雨云间 双强cp",
-      "onboard_time": 1717606995,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 51873,
@@ -11099,6 +11107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42812,
+      "num": 42812,
+      "word": "吴谨言杨超越合照",
+      "onboard_time": 1717608254,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42758,
       "num": 299921,
       "word": "这些国宝被印上了纪念币",
@@ -11177,6 +11193,14 @@
       "onboard_time": 1717457115,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38996,
+      "num": 38996,
+      "word": "没想到朋友圈置顶还能这么玩",
+      "onboard_time": 1717608672,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 38843,
@@ -11641,6 +11665,14 @@
       "onboard_time": 1717385717,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13119,
+      "num": 53995,
+      "word": "藏在高考数学模拟卷里的浪漫",
+      "onboard_time": 1717608852,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 12873,

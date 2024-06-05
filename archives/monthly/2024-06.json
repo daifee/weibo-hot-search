@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717607836401,
+  "endTime": 1717608870164,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -13035,6 +13035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73371,
+      "num": 73371,
+      "word": "恢复一代",
+      "onboard_time": 1717608014,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73184,
       "num": 366584,
       "word": "第一次在大熊猫脸上看到震惊",
@@ -13555,6 +13563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53977,
+      "num": 53977,
+      "word": "墨雨云间 双强cp",
+      "onboard_time": 1717606995,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53884,
       "num": 1057176,
       "word": "假如与中华5000年文明对话",
@@ -13609,14 +13625,6 @@
       "onboard_time": 1717361291,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52343,
-      "num": 52343,
-      "word": "墨雨云间 双强cp",
-      "onboard_time": 1717606995,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 51873,
@@ -13827,6 +13835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42812,
+      "num": 42812,
+      "word": "吴谨言杨超越合照",
+      "onboard_time": 1717608254,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42758,
       "num": 299921,
       "word": "这些国宝被印上了纪念币",
@@ -13921,6 +13937,14 @@
       "onboard_time": 1717247959,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38996,
+      "num": 38996,
+      "word": "没想到朋友圈置顶还能这么玩",
+      "onboard_time": 1717608672,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 38843,
@@ -14545,6 +14569,14 @@
       "onboard_time": 1717385717,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13119,
+      "num": 53995,
+      "word": "藏在高考数学模拟卷里的浪漫",
+      "onboard_time": 1717608852,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 12873,
