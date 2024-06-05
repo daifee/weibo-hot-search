@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717555477484,
+  "endTime": 1717557794164,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2400189,
-      "num": 599072,
+      "num": 604008,
       "word": "出差疑被老板强奸隔壁房客录下证据",
       "onboard_time": 1717548799,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2330224,
-      "num": 521222,
+      "num": 601716,
       "word": "追风者声明",
       "onboard_time": 1717549639,
       "rank": 3,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1371095,
+      "num": 1531487,
+      "word": "苹果截图 诈骗骗局",
+      "onboard_time": 1717552577,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1366267,
       "num": 853436,
       "word": "朋友圈全开的是什么样的人",
@@ -409,14 +417,6 @@
       "onboard_time": 1717336941,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1129813,
-      "num": 1531487,
-      "word": "苹果截图 诈骗骗局",
-      "onboard_time": 1717552577,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1124395,
@@ -1363,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 593976,
+      "num": 593976,
+      "word": "医院回应剧组让患者家属小声点哭",
+      "onboard_time": 1717555277,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593599,
       "num": 593599,
       "word": "阿沁控诉詹雯婷抄袭",
@@ -1515,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 549273,
+      "num": 181616,
+      "word": "巨婴式婚姻",
+      "onboard_time": 1717553957,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 549083,
       "num": 499416,
       "word": "为什么大脑删除了3岁前的记忆",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1717341140,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 523274,
+      "num": 325193,
+      "word": "周大福深圳工厂停工停产",
+      "onboard_time": 1717556717,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 522413,
@@ -2355,6 +2379,22 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 402505,
+      "num": 404403,
+      "word": "女装尺码越来越小了",
+      "onboard_time": 1717552637,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 398139,
+      "num": 398139,
+      "word": "重庆防空警报",
+      "onboard_time": 1717555938,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 397846,
       "num": 458875,
       "word": "原来你们漫画党吃这么好",
@@ -2755,6 +2795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342563,
+      "num": 320535,
+      "word": "张艺兴娜扎打戏",
+      "onboard_time": 1717556598,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 341306,
       "num": 193477,
       "word": "猫眼崩了",
@@ -2771,20 +2819,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 337081,
-      "num": 404403,
-      "word": "女装尺码越来越小了",
-      "onboard_time": 1717552637,
-      "rank": 8,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 336928,
       "num": 333073,
       "word": "阿沁公开飞儿乐团创作录音",
       "onboard_time": 1717548438,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 336802,
+      "num": 336802,
+      "word": "玫瑰的故事主题曲",
+      "onboard_time": 1717556658,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 335624,
@@ -2955,6 +3003,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 317863,
+      "num": 317863,
+      "word": "种地吧",
+      "onboard_time": 1717324877,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315491,
       "num": 315491,
       "word": "低价买入巴菲特公司股票交易无效",
@@ -3065,14 +3121,6 @@
       "onboard_time": 1717289656,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 302779,
-      "num": 181616,
-      "word": "巨婴式婚姻",
-      "onboard_time": 1717553957,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 302147,
@@ -3411,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274036,
+      "num": 185983,
+      "word": "没了董宇辉东方甄选只能乱七八糟吗",
+      "onboard_time": 1717555098,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 273857,
       "num": 273857,
       "word": "姜若瑶人设",
@@ -3555,6 +3611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260042,
+      "num": 177297,
+      "word": "张艺兴24岁时街头运动风妆造",
+      "onboard_time": 1717554498,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 259104,
       "num": 210366,
       "word": "嗓音或影响女性择偶标准",
@@ -3585,6 +3649,22 @@
       "onboard_time": 1717301958,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258064,
+      "num": 201269,
+      "word": "墨雨云间时长",
+      "onboard_time": 1717554557,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 257464,
+      "num": 257464,
+      "word": "东方甄选回应嚎叫式直播",
+      "onboard_time": 1717552038,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 257414,
@@ -3771,6 +3851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242325,
+      "num": 334900,
+      "word": "陈丽君说永远不会离开越剧舞台",
+      "onboard_time": 1717556838,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240593,
       "num": 240593,
       "word": "高考倒计时",
@@ -3793,6 +3881,14 @@
       "onboard_time": 1717370715,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239665,
+      "num": 175636,
+      "word": "终于见到小说里的蛋糕了",
+      "onboard_time": 1717554918,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 238375,
@@ -4075,14 +4171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226113,
-      "num": 226113,
-      "word": "东方甄选回应嚎叫式直播",
-      "onboard_time": 1717552038,
-      "rank": 12,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 225658,
       "num": 225658,
       "word": "沈星回卡套",
@@ -4169,6 +4257,14 @@
       "onboard_time": 1717543275,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220394,
+      "num": 173587,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1717556177,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 219864,
@@ -4539,14 +4635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201269,
-      "num": 201269,
-      "word": "墨雨云间时长",
-      "onboard_time": 1717554557,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201029,
       "num": 201029,
       "word": "迪丽热巴冷艳玫瑰妆",
@@ -4641,14 +4729,6 @@
       "onboard_time": 1717479319,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198583,
-      "num": 198583,
-      "word": "种地吧",
-      "onboard_time": 1717324877,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 198369,
@@ -4955,6 +5035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188818,
+      "num": 170993,
+      "word": "阿娇阿Sa揽腰嘟嘴照",
+      "onboard_time": 1717554979,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188558,
       "num": 185407,
       "word": "贾玲女性力量",
@@ -5025,14 +5113,6 @@
       "onboard_time": 1717305378,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 185983,
-      "num": 185983,
-      "word": "没了董宇辉东方甄选只能乱七八糟吗",
-      "onboard_time": 1717555098,
-      "rank": 18,
-      "category": "网红"
     },
     {
       "raw_hot": 185624,
@@ -5107,14 +5187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183417,
-      "num": 183417,
-      "word": "医院回应剧组让患者家属小声点哭",
-      "onboard_time": 1717555277,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181991,
       "num": 325784,
       "word": "商户卖假牛肉被揭穿后摔相机",
@@ -5137,6 +5209,14 @@
       "onboard_time": 1717324998,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181244,
+      "num": 181244,
+      "word": "理想L9出事故司机质疑LCC",
+      "onboard_time": 1717556417,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 180507,
@@ -5297,14 +5377,6 @@
       "onboard_time": 1717475841,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 175636,
-      "num": 175636,
-      "word": "终于见到小说里的蛋糕了",
-      "onboard_time": 1717554918,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 175519,
@@ -5523,6 +5595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168666,
+      "num": 168666,
+      "word": "电影白蛇浮生首支长预告",
+      "onboard_time": 1717555817,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168623,
       "num": 168623,
       "word": "许嵩曾被妈妈抓包偷玩电脑",
@@ -5537,14 +5617,6 @@
       "onboard_time": 1717334480,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168432,
-      "num": 168432,
-      "word": "张艺兴24岁时街头运动风妆造",
-      "onboard_time": 1717554498,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 168230,
@@ -5691,12 +5763,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163342,
-      "num": 163342,
-      "word": "阿娇阿Sa揽腰嘟嘴照",
-      "onboard_time": 1717554979,
-      "rank": 33,
-      "category": "作品衍生"
+      "raw_hot": 163276,
+      "num": 163276,
+      "word": "初恋一响青春登场",
+      "onboard_time": 1717556958,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 162773,
@@ -6291,6 +6363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145103,
+      "num": 145103,
+      "word": "控制饮食和坚持运动哪个更有效",
+      "onboard_time": 1717553538,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 144918,
       "num": 144918,
       "word": "薛之谦很豹歉",
@@ -6617,6 +6697,14 @@
       "onboard_time": 1717465697,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134569,
+      "num": 134569,
+      "word": "怎么会有人这么不适合打唇钉",
+      "onboard_time": 1717556478,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 133863,
@@ -7099,14 +7187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124286,
-      "num": 124286,
-      "word": "控制饮食和坚持运动哪个更有效",
-      "onboard_time": 1717553538,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 124245,
       "num": 124245,
       "word": "白鹿跑男学院风连衣裙",
@@ -7489,6 +7569,14 @@
       "onboard_time": 1717384758,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116071,
+      "num": 116071,
+      "word": "嫦娥六号真的给玉兔捎话了",
+      "onboard_time": 1717556238,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115973,
@@ -7891,6 +7979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106286,
+      "num": 106286,
+      "word": "原神克洛琳德",
+      "onboard_time": 1717555997,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106252,
       "num": 106252,
       "word": "嫦娥六号成功着陆",
@@ -7921,6 +8017,22 @@
       "onboard_time": 1717318998,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106022,
+      "num": 106022,
+      "word": "姆巴佩训练笑容满面",
+      "onboard_time": 1717556417,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105916,
+      "num": 105916,
+      "word": "牧羊犬没羊的时候就牧猫",
+      "onboard_time": 1717555997,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 105740,
@@ -9121,6 +9233,14 @@
       "onboard_time": 1717315698,
       "rank": 26,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 40638,
+      "num": 124199,
+      "word": "中石化回应八大油田上架淘宝",
+      "onboard_time": 1717556417,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40268,

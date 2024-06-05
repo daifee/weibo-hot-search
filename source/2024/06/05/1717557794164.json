@@ -1,0 +1,410 @@
+{
+  "runTime": 1717557794164,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1371095,
+        "num": 1371095,
+        "word": "苹果截图 诈骗骗局",
+        "onboard_time": 1717552577,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 643996,
+        "num": 643996,
+        "word": "剧组ICU拍剧竟让患者家属哭小声点",
+        "onboard_time": 1717551676,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76797,
+        "num": 604647,
+        "word": "五星红旗在月亮之上",
+        "onboard_time": 1717510699,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1473037,
+        "num": 604008,
+        "word": "出差疑被老板强奸隔壁房客录下证据",
+        "onboard_time": 1717548799,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1419089,
+        "num": 601716,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593976,
+        "num": 593976,
+        "word": "医院回应剧组让患者家属小声点哭",
+        "onboard_time": 1717555277,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402505,
+        "num": 402505,
+        "word": "女装尺码越来越小了",
+        "onboard_time": 1717552637,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 398139,
+        "num": 398139,
+        "word": "重庆防空警报",
+        "onboard_time": 1717555938,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336802,
+        "num": 336802,
+        "word": "玫瑰的故事主题曲",
+        "onboard_time": 1717556658,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242325,
+        "num": 334900,
+        "word": "陈丽君说永远不会离开越剧舞台",
+        "onboard_time": 1717556838,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5038843,
+        "num": 329761,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1130965,
+        "num": 328831,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 523274,
+        "num": 325193,
+        "word": "周大福深圳工厂停工停产",
+        "onboard_time": 1717556717,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 342563,
+        "num": 320535,
+        "word": "张艺兴娜扎打戏",
+        "onboard_time": 1717556598,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318271,
+        "num": 318271,
+        "word": "墨雨云间里的纪凌尘",
+        "onboard_time": 1717548498,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317863,
+        "num": 317863,
+        "word": "种地吧",
+        "onboard_time": 1717554437,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257464,
+        "num": 257464,
+        "word": "东方甄选回应嚎叫式直播",
+        "onboard_time": 1717552038,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 232409,
+        "num": 232409,
+        "word": "长期护肤和不护肤的区别有多大",
+        "onboard_time": 1717547839,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 191622,
+        "num": 191622,
+        "word": "距离2024高考还有2天",
+        "onboard_time": 1717546098,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181244,
+        "num": 181244,
+        "word": "理想L9出事故司机质疑LCC",
+        "onboard_time": 1717556417,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 580729,
+        "num": 181231,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549273,
+        "num": 180834,
+        "word": "巨婴式婚姻",
+        "onboard_time": 1717553957,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 487700,
+        "num": 180366,
+        "word": "突然发现九月是调休大月",
+        "onboard_time": 1717550119,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421646,
+        "num": 180179,
+        "word": "女子将15只大虫藏女童身后过关",
+        "onboard_time": 1717549877,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180058,
+        "num": 180058,
+        "word": "12306回应高铁新添优选一等座",
+        "onboard_time": 1717545017,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274036,
+        "num": 179361,
+        "word": "没了董宇辉东方甄选只能乱七八糟吗",
+        "onboard_time": 1717555098,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260042,
+        "num": 177297,
+        "word": "张艺兴24岁时街头运动风妆造",
+        "onboard_time": 1717554498,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258064,
+        "num": 176411,
+        "word": "墨雨云间时长",
+        "onboard_time": 1717554557,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239665,
+        "num": 175636,
+        "word": "终于见到小说里的蛋糕了",
+        "onboard_time": 1717554918,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220394,
+        "num": 173587,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1717556177,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208514,
+        "num": 172022,
+        "word": "詹姆斯生气不再和欧文搭档",
+        "onboard_time": 1717554017,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188818,
+        "num": 170993,
+        "word": "阿娇阿Sa揽腰嘟嘴照",
+        "onboard_time": 1717554979,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185220,
+        "num": 169701,
+        "word": "她女扮男装43年终于火了",
+        "onboard_time": 1717552819,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168666,
+        "num": 168666,
+        "word": "电影白蛇浮生首支长预告",
+        "onboard_time": 1717555817,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168301,
+        "num": 168301,
+        "word": "2025QS世界大学排名",
+        "onboard_time": 1717542675,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165458,
+        "num": 165458,
+        "word": "原神开门",
+        "onboard_time": 1717554318,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163276,
+        "num": 163276,
+        "word": "初恋一响青春登场",
+        "onboard_time": 1717556958,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145103,
+        "num": 145103,
+        "word": "控制饮食和坚持运动哪个更有效",
+        "onboard_time": 1717553538,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134569,
+        "num": 134569,
+        "word": "怎么会有人这么不适合打唇钉",
+        "onboard_time": 1717556478,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 40638,
+        "num": 124199,
+        "word": "中石化回应八大油田上架淘宝",
+        "onboard_time": 1717556417,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120461,
+        "num": 120461,
+        "word": "今天芒种应该吃点啥",
+        "onboard_time": 1717550418,
+        "rank": 40,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 117139,
+        "num": 117139,
+        "word": "端午之后七八月份一个假都没有",
+        "onboard_time": 1717543636,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117606,
+        "num": 116622,
+        "word": "芒种一过就要高考了",
+        "onboard_time": 1717545857,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 116071,
+        "num": 116071,
+        "word": "嫦娥六号真的给玉兔捎话了",
+        "onboard_time": 1717556238,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115376,
+        "num": 115376,
+        "word": "斯洛文尼亚宣布承认巴勒斯坦国",
+        "onboard_time": 1717547419,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110877,
+        "num": 110877,
+        "word": "为什么夏天不敢穿黄色衣服出门",
+        "onboard_time": 1717550838,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 106286,
+        "num": 106286,
+        "word": "原神克洛琳德",
+        "onboard_time": 1717555997,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106022,
+        "num": 106022,
+        "word": "姆巴佩训练笑容满面",
+        "onboard_time": 1717556417,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105916,
+        "num": 105916,
+        "word": "牧羊犬没羊的时候就牧猫",
+        "onboard_time": 1717555997,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97101,
+        "num": 97101,
+        "word": "阿沁公开飞儿乐团创作录音",
+        "onboard_time": 1717548438,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向冰岛当选总统致贺电#"
+    }
+  }
+}
