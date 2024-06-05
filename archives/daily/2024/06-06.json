@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717608870164,
+  "endTime": 1717611888406,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -235,6 +235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 106460,
+      "num": 106460,
+      "word": "恢复一代",
+      "onboard_time": 1717608014,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104419,
       "num": 104419,
       "word": "黄子弘凡 下次不准再演了",
@@ -363,14 +371,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73371,
-      "num": 73371,
-      "word": "恢复一代",
-      "onboard_time": 1717608014,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 71611,
       "num": 76074,
       "word": "墨雨云间 咬虎口",
@@ -401,6 +401,14 @@
       "onboard_time": 1717605316,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60159,
+      "num": 39933,
+      "word": "没想到朋友圈置顶还能这么玩",
+      "onboard_time": 1717608672,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 53977,
@@ -443,20 +451,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 38996,
-      "num": 38996,
-      "word": "没想到朋友圈置顶还能这么玩",
-      "onboard_time": 1717608672,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 33483,
       "num": 120632,
       "word": "老师开车灯为高三学子照亮前行的路",
       "onboard_time": 1717603278,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 23282,
+      "num": 23282,
+      "word": "人间失格音乐剧",
+      "onboard_time": 1717609753,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 20958,
@@ -480,6 +488,14 @@
       "word": "藏在高考数学模拟卷里的浪漫",
       "onboard_time": 1717608852,
       "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 12461,
+      "num": 68221,
+      "word": "考王梁实称或是最后一次参加高考",
+      "onboard_time": 1717610712,
+      "rank": 9,
       "category": "教育"
     },
     {
