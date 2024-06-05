@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717601680275,
+  "endTime": 1717604666488,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -888,6 +888,14 @@
       "word": "武汉民警壮烈牺牲鲜血浸透警服",
       "onboard_time": 1717384579,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 931039,
+      "num": 931039,
+      "word": "养了6年的巨骨舌鱼把自己摔死了",
+      "onboard_time": 1717602196,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1899,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 619825,
+      "num": 374336,
+      "word": "朋友圈背景图",
+      "onboard_time": 1717598600,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 616954,
       "num": 616954,
       "word": "王楚钦vs邱党",
@@ -2169,14 +2185,6 @@
       "onboard_time": 1717511539,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 568384,
-      "num": 374336,
-      "word": "朋友圈背景图",
-      "onboard_time": 1717598600,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 566024,
@@ -4313,6 +4321,14 @@
       "onboard_time": 1717425499,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 325199,
+      "num": 227280,
+      "word": "李宇春 小宇",
+      "onboard_time": 1717602378,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 324734,
@@ -9123,6 +9139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153772,
+      "num": 112860,
+      "word": "读研后对研究生祛魅了",
+      "onboard_time": 1717603638,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153687,
       "num": 153687,
       "word": "营养师称适量咖啡因对身体有好处",
@@ -12251,6 +12275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100141,
+      "num": 100141,
+      "word": "摄影师拍陶昕然母女穿帮了",
+      "onboard_time": 1717601539,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100011,
       "num": 571744,
       "word": "层出不穷的老年人养生骗局",
@@ -12265,14 +12297,6 @@
       "onboard_time": 1717497857,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99692,
-      "num": 99692,
-      "word": "摄影师拍陶昕然母女穿帮了",
-      "onboard_time": 1717601539,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 99643,
@@ -14019,6 +14043,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 33483,
+      "num": 119447,
+      "word": "老师开车灯为高三学子照亮前行的路",
+      "onboard_time": 1717603278,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 33377,
       "num": 362198,
       "word": "今日芒种为高考加油",
@@ -14345,6 +14377,14 @@
       "onboard_time": 1717260976,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17309,
+      "num": 108635,
+      "word": "老师写逢考必过霸气一笔收尾引欢呼",
+      "onboard_time": 1717603937,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 17308,
