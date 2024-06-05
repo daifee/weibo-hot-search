@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717557794164,
+  "endTime": 1717558627454,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2400189,
-      "num": 604008,
+      "num": 741686,
       "word": "出差疑被老板强奸隔壁房客录下证据",
       "onboard_time": 1717548799,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2330224,
-      "num": 601716,
+      "num": 736656,
       "word": "追风者声明",
       "onboard_time": 1717549639,
       "rank": 3,
@@ -41,6 +41,14 @@
       "onboard_time": 1717552577,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 999347,
+      "num": 999347,
+      "word": "周大福深圳工厂停工停产",
+      "onboard_time": 1717556717,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 924063,
@@ -76,15 +84,23 @@
     },
     {
       "raw_hot": 724958,
-      "num": 183415,
+      "num": 208074,
       "word": "网约车迟到8分钟致误机女子索赔",
       "onboard_time": 1717551318,
       "rank": 30,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719095,
+      "num": 208169,
+      "word": "巨婴式婚姻",
+      "onboard_time": 1717553957,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 688500,
-      "num": 205232,
+      "num": 208057,
       "word": "突然发现九月是调休大月",
       "onboard_time": 1717550119,
       "rank": 31,
@@ -115,20 +131,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 593976,
-      "num": 593976,
+      "raw_hot": 602305,
+      "num": 602305,
       "word": "医院回应剧组让患者家属小声点哭",
       "onboard_time": 1717555277,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549273,
-      "num": 181616,
-      "word": "巨婴式婚姻",
-      "onboard_time": 1717553957,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 557599,
+      "num": 557599,
+      "word": "张艺兴娜扎打戏",
+      "onboard_time": 1717556598,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 533115,
@@ -137,14 +153,6 @@
       "onboard_time": 1717510218,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 523274,
-      "num": 325193,
-      "word": "周大福深圳工厂停工停产",
-      "onboard_time": 1717556717,
-      "rank": 12,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 506652,
@@ -185,6 +193,14 @@
       "onboard_time": 1717506617,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 419519,
+      "num": 419519,
+      "word": "玫瑰的故事主题曲",
+      "onboard_time": 1717556658,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 417911,
@@ -235,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 342563,
-      "num": 320535,
-      "word": "张艺兴娜扎打戏",
-      "onboard_time": 1717556598,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 345018,
+      "num": 345018,
+      "word": "种地吧",
+      "onboard_time": 1717554437,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 336928,
@@ -251,14 +267,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 336802,
-      "num": 336802,
-      "word": "玫瑰的故事主题曲",
-      "onboard_time": 1717556658,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 317950,
       "num": 317950,
       "word": "今天芒种应该吃点啥",
@@ -267,20 +275,28 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 317863,
-      "num": 317863,
-      "word": "种地吧",
-      "onboard_time": 1717554437,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 314501,
       "num": 314501,
       "word": "女子把隐翅虫当蚊子拍死差点毁容",
       "onboard_time": 1717506376,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313766,
+      "num": 334900,
+      "word": "陈丽君说永远不会离开越剧舞台",
+      "onboard_time": 1717556838,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 305776,
+      "num": 305776,
+      "word": "以为是更年期结果是怀孕了",
+      "onboard_time": 1717558098,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 304510,
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284015,
+      "num": 207904,
+      "word": "墨雨云间",
+      "onboard_time": 1717557857,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283346,
       "num": 283346,
       "word": "芒种",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 274036,
-      "num": 185983,
+      "num": 207648,
       "word": "没了董宇辉东方甄选只能乱七八糟吗",
       "onboard_time": 1717555098,
       "rank": 18,
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 260042,
-      "num": 177297,
+      "num": 207678,
       "word": "张艺兴24岁时街头运动风妆造",
       "onboard_time": 1717554498,
       "rank": 33,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 258064,
-      "num": 201269,
+      "num": 207452,
       "word": "墨雨云间时长",
       "onboard_time": 1717554557,
       "rank": 19,
@@ -387,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242325,
-      "num": 334900,
-      "word": "陈丽君说永远不会离开越剧舞台",
-      "onboard_time": 1717556838,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240452,
       "num": 192235,
       "word": "为什么夏天不敢穿黄色衣服出门",
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 239665,
-      "num": 175636,
+      "num": 207544,
       "word": "终于见到小说里的蛋糕了",
       "onboard_time": 1717554918,
       "rank": 31,
@@ -443,6 +459,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 227355,
+      "num": 227355,
+      "word": "王者荣耀",
+      "onboard_time": 1717558158,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 226817,
       "num": 226817,
       "word": "为什么身上会有鸡皮肤",
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 220394,
-      "num": 173587,
+      "num": 200464,
       "word": "嘘国王在冬眠",
       "onboard_time": 1717556177,
       "rank": 29,
@@ -480,6 +504,14 @@
       "word": "王星越壁纸",
       "onboard_time": 1717546040,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207440,
+      "num": 207440,
+      "word": "刘诗诗明艳红唇",
+      "onboard_time": 1717558219,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -515,12 +547,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 195231,
+      "num": 195231,
+      "word": "欧文签约父亲",
+      "onboard_time": 1717558038,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188818,
       "num": 170993,
       "word": "阿娇阿Sa揽腰嘟嘴照",
       "onboard_time": 1717554979,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185977,
+      "num": 185977,
+      "word": "清华毕业生35岁再考清华",
+      "onboard_time": 1717558398,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 181244,
@@ -553,6 +601,14 @@
       "onboard_time": 1717555098,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 176470,
+      "num": 176470,
+      "word": "王者荣耀联动华县皮影戏",
+      "onboard_time": 1717558459,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 168666,
@@ -652,7 +708,7 @@
     },
     {
       "raw_hot": 142426,
-      "num": 724568,
+      "num": 791734,
       "word": "五星红旗在月亮之上",
       "onboard_time": 1717510699,
       "rank": 2,
@@ -1091,6 +1147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56761,
+      "num": 153235,
+      "word": "中石化回应八大油田上架淘宝",
+      "onboard_time": 1717556417,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56573,
       "num": 67791,
       "word": "当藏海传豫见河南",
@@ -1139,12 +1203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 40638,
-      "num": 124199,
-      "word": "中石化回应八大油田上架淘宝",
-      "onboard_time": 1717556417,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 33377,
+      "num": 362198,
+      "word": "今日芒种为高考加油",
+      "onboard_time": 1717558219,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 32917,
