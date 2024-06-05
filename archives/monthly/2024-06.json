@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717571919051,
+  "endTime": 1717572885479,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -907,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 877726,
+      "num": 877726,
+      "word": "毛坦厂中学万人冒雨送考为孩子加油",
+      "onboard_time": 1717570937,
+      "rank": 11,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 871614,
       "num": 871614,
       "word": "张雪峰连麦490多分农村女孩",
@@ -1264,6 +1272,14 @@
       "word": "高薪的聘任制公务员为何招聘遇冷",
       "onboard_time": 1717490297,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 751275,
+      "num": 751275,
+      "word": "福猪猪最新体重206斤",
+      "onboard_time": 1717569556,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1827,14 +1843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597572,
-      "num": 597572,
-      "word": "福猪猪最新体重206斤",
-      "onboard_time": 1717569556,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 596764,
       "num": 450778,
       "word": "谁家早饭花50晚饭花2000",
@@ -2320,6 +2328,14 @@
       "word": "林若甫 一声爹例外触动天下人",
       "onboard_time": 1717338980,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 501729,
+      "num": 390871,
+      "word": "吴谨言眼睛",
+      "onboard_time": 1717571837,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2865,14 +2881,6 @@
       "onboard_time": 1717225397,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 428534,
-      "num": 406497,
-      "word": "毛坦厂中学万人冒雨送考为孩子加油",
-      "onboard_time": 1717570937,
-      "rank": 11,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 426917,
@@ -3801,6 +3809,14 @@
       "onboard_time": 1717229477,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336154,
+      "num": 193646,
+      "word": "你要这么虐前夫哥我就不困了",
+      "onboard_time": 1717571476,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 335624,
@@ -6507,6 +6523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198259,
+      "num": 163702,
+      "word": "范湉湉演技",
+      "onboard_time": 1717572498,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198245,
       "num": 198245,
       "word": "文俊辉 赤脚的人",
@@ -6561,6 +6585,14 @@
       "onboard_time": 1717475000,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 197271,
+      "num": 188741,
+      "word": "墨雨云间和太子妃一个导演",
+      "onboard_time": 1717571178,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 196840,
@@ -6713,14 +6745,6 @@
       "onboard_time": 1717390761,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 193646,
-      "num": 193646,
-      "word": "你要这么虐前夫哥我就不困了",
-      "onboard_time": 1717571476,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 193304,
@@ -6931,14 +6955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188741,
-      "num": 188741,
-      "word": "墨雨云间和太子妃一个导演",
-      "onboard_time": 1717571178,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188558,
       "num": 185407,
       "word": "贾玲女性力量",
@@ -7137,6 +7153,14 @@
       "onboard_time": 1717162645,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183508,
+      "num": 163577,
+      "word": "医生建议给皮肤轻断食",
+      "onboard_time": 1717572437,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183145,
@@ -7907,6 +7931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164179,
+      "num": 163488,
+      "word": "那英唱哪首",
+      "onboard_time": 1717571718,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164026,
       "num": 164026,
       "word": "周深演唱会",
@@ -8113,6 +8145,14 @@
       "onboard_time": 1717302017,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160100,
+      "num": 160100,
+      "word": "茅台冰淇淋买一送一没人吃",
+      "onboard_time": 1717572737,
+      "rank": 30,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 160077,
@@ -8875,6 +8915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144467,
+      "num": 144467,
+      "word": "庆余年2024微博第三部爆款剧集",
+      "onboard_time": 1717571058,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144345,
       "num": 144345,
       "word": "宁艺卓ending镜头",
@@ -9112,6 +9160,14 @@
       "word": "电影野孩子儿童节海报",
       "onboard_time": 1717227077,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 139449,
+      "num": 139449,
+      "word": "谢霆锋张学友新片最新预告",
+      "onboard_time": 1717572317,
+      "rank": 43,
       "category": "电影"
     },
     {
@@ -9371,14 +9427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134142,
-      "num": 134142,
-      "word": "吴谨言眼睛",
-      "onboard_time": 1717571837,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133863,
       "num": 133863,
       "word": "孙楠或唱毛不易的歌",
@@ -9481,14 +9529,6 @@
       "onboard_time": 1717419258,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131888,
-      "num": 131888,
-      "word": "庆余年2024微博第三部爆款剧集",
-      "onboard_time": 1717571058,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 131621,
@@ -9625,6 +9665,14 @@
       "onboard_time": 1717231577,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128533,
+      "num": 413204,
+      "word": "大个子学生窝不进小课桌",
+      "onboard_time": 1717570818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128422,
@@ -9913,14 +9961,6 @@
       "onboard_time": 1717316957,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 124878,
-      "num": 124878,
-      "word": "那英唱哪首",
-      "onboard_time": 1717571718,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 124788,
@@ -11067,6 +11107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105168,
+      "num": 365220,
+      "word": "全球跑步日",
+      "onboard_time": 1717563500,
+      "rank": 11,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 104555,
       "num": 104555,
       "word": "2024LCK夏季赛媒体日",
@@ -11471,14 +11519,6 @@
       "num": 334597,
       "word": "萌兰在树上蛄蛹成毛毛虫",
       "onboard_time": 1717257258,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 87021,
-      "num": 413204,
-      "word": "大个子学生窝不进小课桌",
-      "onboard_time": 1717570818,
       "rank": 9,
       "category": "社会新闻"
     },
