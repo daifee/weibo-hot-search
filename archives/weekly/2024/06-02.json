@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717598201766,
+  "endTime": 1717600819751,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -1283,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 678740,
+      "num": 490245,
+      "word": "刘恋和陈昊宇十年前就认识了",
+      "onboard_time": 1717598420,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 677710,
       "num": 677710,
       "word": "戚薇录乘风十天没理李承铉",
@@ -2187,6 +2195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483787,
+      "num": 483787,
+      "word": "斗鱼退缴主播非法收益超1亿",
+      "onboard_time": 1717596859,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 479775,
       "num": 299156,
       "word": "王阳说没有待播的戏后面就没饭吃",
@@ -2731,6 +2747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 411360,
+      "num": 287154,
+      "word": "汪苏泷晒其他歌手送的礼物",
+      "onboard_time": 1717596501,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410047,
       "num": 410047,
       "word": "樊振东说更在意王楚钦伤势",
@@ -3003,6 +3027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374336,
+      "num": 374336,
+      "word": "朋友圈背景图",
+      "onboard_time": 1717598600,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 373741,
       "num": 373741,
       "word": "于正 选角",
@@ -3105,14 +3137,6 @@
       "onboard_time": 1717313058,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 359589,
-      "num": 359589,
-      "word": "斗鱼退缴主播非法收益超1亿",
-      "onboard_time": 1717596859,
-      "rank": 35,
-      "category": "游戏"
     },
     {
       "raw_hot": 359134,
@@ -3859,14 +3883,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 287154,
-      "num": 287154,
-      "word": "汪苏泷晒其他歌手送的礼物",
-      "onboard_time": 1717596501,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 286942,
       "num": 216454,
       "word": "人们为何逃离健身房转向在家健身",
@@ -3971,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278236,
+      "num": 235299,
+      "word": "3类癌症不致命无需过度治疗",
+      "onboard_time": 1717596560,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 278175,
       "num": 278175,
       "word": "mbti新题",
@@ -4057,6 +4081,14 @@
       "onboard_time": 1717548738,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272741,
+      "num": 272741,
+      "word": "斗鱼一季度亏损8800万元",
+      "onboard_time": 1717599139,
+      "rank": 8,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 272492,
@@ -4619,6 +4651,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 235486,
+      "num": 235486,
+      "word": "王楚钦祝高考生金榜题名",
+      "onboard_time": 1717597398,
+      "rank": 19,
+      "category": "体育,教育"
+    },
+    {
+      "raw_hot": 235263,
+      "num": 235263,
+      "word": "yes24网站",
+      "onboard_time": 1717596797,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235016,
       "num": 235016,
       "word": "中国防长沉着应对外方打断",
@@ -4707,14 +4755,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 232498,
-      "num": 232498,
-      "word": "王楚钦祝高考生金榜题名",
-      "onboard_time": 1717597398,
-      "rank": 19,
-      "category": "体育,教育"
-    },
-    {
       "raw_hot": 230823,
       "num": 230823,
       "word": "林俊杰 这歌是这样唱的吗",
@@ -4793,6 +4833,14 @@
       "onboard_time": 1717458858,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228283,
+      "num": 228283,
+      "word": "黄子弘凡 下次不准再演了",
+      "onboard_time": 1717596560,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 227688,
@@ -4995,14 +5043,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 218442,
-      "num": 218442,
-      "word": "3类癌症不致命无需过度治疗",
-      "onboard_time": 1717596560,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 218374,
       "num": 218374,
       "word": "JDG教练吕成林",
@@ -5121,6 +5161,14 @@
       "onboard_time": 1717472537,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210477,
+      "num": 210477,
+      "word": "刑事侦缉档案剧组重聚",
+      "onboard_time": 1717599619,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 210330,
@@ -5377,14 +5425,6 @@
       "onboard_time": 1717492698,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202685,
-      "num": 202685,
-      "word": "yes24网站",
-      "onboard_time": 1717596797,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 202381,
@@ -6195,6 +6235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183090,
+      "num": 183090,
+      "word": "官方回应B太长沙夜市打假",
+      "onboard_time": 1717596379,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181991,
       "num": 325784,
       "word": "商户卖假牛肉被揭穿后摔相机",
@@ -6211,14 +6259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181659,
-      "num": 181659,
-      "word": "黄子弘凡 下次不准再演了",
-      "onboard_time": 1717596560,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181456,
       "num": 181456,
       "word": "没有男生能拒绝一根笔直的木棍",
@@ -6233,6 +6273,14 @@
       "onboard_time": 1717556417,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 180872,
+      "num": 180872,
+      "word": "96版一帘幽梦女主近照",
+      "onboard_time": 1717600039,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 180507,
@@ -6465,14 +6513,6 @@
       "onboard_time": 1717331719,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175212,
-      "num": 175212,
-      "word": "官方回应B太长沙夜市打假",
-      "onboard_time": 1717596379,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175028,
@@ -6785,6 +6825,14 @@
       "onboard_time": 1717477697,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166909,
+      "num": 166909,
+      "word": "冯潇霆宣布退役",
+      "onboard_time": 1717599080,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 166569,
@@ -7883,6 +7931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138855,
+      "num": 138855,
+      "word": "新疆你无需宣传 有钱我自会出发",
+      "onboard_time": 1717596618,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 138775,
       "num": 138775,
       "word": "哪些人不适合骑行锻炼",
@@ -7945,14 +8001,6 @@
       "onboard_time": 1717416018,
       "rank": 14,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 136992,
-      "num": 136992,
-      "word": "新疆你无需宣传 有钱我自会出发",
-      "onboard_time": 1717596618,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 136902,
@@ -9883,6 +9931,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 96497,
+      "num": 96497,
+      "word": "法网",
+      "onboard_time": 1717599260,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96002,
       "num": 96002,
       "word": "大部分公司只想要平庸的员工",
@@ -9953,6 +10009,14 @@
       "onboard_time": 1717492098,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93128,
+      "num": 93128,
+      "word": "姜梨白月光",
+      "onboard_time": 1717600700,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 91643,
@@ -10427,6 +10491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68439,
+      "num": 236038,
+      "word": "东阿阿胶是中医药文化的瑰宝",
+      "onboard_time": 1717598719,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67918,
       "num": 67918,
       "word": "小狗一辈子都在做平板支撑",
@@ -10873,6 +10945,14 @@
       "onboard_time": 1717435453,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47768,
+      "num": 271403,
+      "word": "都江堰已持续运行2280年",
+      "onboard_time": 1717599559,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47010,
