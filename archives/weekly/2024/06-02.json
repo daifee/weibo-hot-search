@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717605574262,
+  "endTime": 1717607836401,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -4355,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257121,
+      "num": 119132,
+      "word": "读研后对研究生祛魅了",
+      "onboard_time": 1717603638,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 256623,
       "num": 256623,
       "word": "云台山回应瀑布源头是水管",
@@ -6259,14 +6267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183646,
-      "num": 119132,
-      "word": "读研后对研究生祛魅了",
-      "onboard_time": 1717603638,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 183090,
       "num": 183090,
       "word": "官方回应B太长沙夜市打假",
@@ -6737,6 +6737,14 @@
       "onboard_time": 1717568477,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169775,
+      "num": 169775,
+      "word": "2024高考",
+      "onboard_time": 1717606635,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 169699,
@@ -10395,6 +10403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75194,
+      "num": 75194,
+      "word": "刘亦菲19岁时的采访",
+      "onboard_time": 1717605615,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74389,
       "num": 74389,
       "word": "上班和上学到底哪个更累",
@@ -10897,6 +10913,14 @@
       "onboard_time": 1717361291,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52343,
+      "num": 52343,
+      "word": "墨雨云间 双强cp",
+      "onboard_time": 1717606995,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 51873,
@@ -11665,6 +11689,14 @@
       "onboard_time": 1717358231,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11384,
+      "num": 124202,
+      "word": "师娘带全班学生激情宣誓助力高考",
+      "onboard_time": 1717606995,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 11130,

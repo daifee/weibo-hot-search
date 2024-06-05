@@ -1,0 +1,410 @@
+{
+  "runTime": 1717607836401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 730595,
+        "num": 730595,
+        "word": "养了6年的巨骨舌鱼把自己摔死了",
+        "onboard_time": 1717602196,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464498,
+        "num": 464498,
+        "word": "爱奇艺 线下免费线上收费",
+        "onboard_time": 1717582219,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4344,
+        "num": 412015,
+        "word": "我在五千年前等你",
+        "onboard_time": 1717559118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365632,
+        "num": 365632,
+        "word": "李宇春 小宇",
+        "onboard_time": 1717602378,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177343,
+        "num": 177343,
+        "word": "高考很大可能是考得最好的一次",
+        "onboard_time": 1717587737,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169775,
+        "num": 169775,
+        "word": "2024高考",
+        "onboard_time": 1717606635,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245833,
+        "num": 155944,
+        "word": "刘恋和陈昊宇十年前就认识了",
+        "onboard_time": 1717598420,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170775,
+        "num": 141375,
+        "word": "王鹤棣继西瓜皮后又有神图",
+        "onboard_time": 1717588278,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125596,
+        "num": 125596,
+        "word": "斗鱼退缴主播非法收益超1亿",
+        "onboard_time": 1717596859,
+        "rank": 8,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 11384,
+        "num": 124202,
+        "word": "师娘带全班学生激情宣誓助力高考",
+        "onboard_time": 1717606995,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 296767,
+        "num": 122829,
+        "word": "朋友圈背景图",
+        "onboard_time": 1717598600,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260113,
+        "num": 119963,
+        "word": "医院开展男性根浴服务被处罚",
+        "onboard_time": 1717579099,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243320,
+        "num": 117061,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161666,
+        "num": 115684,
+        "word": "蒋依依 远景",
+        "onboard_time": 1717593320,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114340,
+        "num": 114340,
+        "word": "yes24网站",
+        "onboard_time": 1717596797,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125541,
+        "num": 112788,
+        "word": "王星越好帅",
+        "onboard_time": 1717592598,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98448,
+        "num": 98448,
+        "word": "官方回应B太长沙夜市打假",
+        "onboard_time": 1717596379,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97375,
+        "num": 97375,
+        "word": "斗鱼一季度亏损8800万元",
+        "onboard_time": 1717599139,
+        "rank": 17,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 93917,
+        "num": 93917,
+        "word": "王者貂蝉秒杀皮肤",
+        "onboard_time": 1717587979,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83635,
+        "num": 83635,
+        "word": "5岁女童练舞站下腰摔倒致高位截瘫",
+        "onboard_time": 1717594519,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257121,
+        "num": 83463,
+        "word": "读研后对研究生祛魅了",
+        "onboard_time": 1717603638,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174852,
+        "num": 82478,
+        "word": "亲姐姐总暗示我给外甥买东西",
+        "onboard_time": 1717593438,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161648,
+        "num": 82071,
+        "word": "建议最近不要轻易离职",
+        "onboard_time": 1717586058,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80878,
+        "num": 80878,
+        "word": "月经变少是卵巢衰老的信号吗",
+        "onboard_time": 1717583418,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 79670,
+        "num": 79670,
+        "word": "建议高考可以用大学作为考场",
+        "onboard_time": 1717593558,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 75194,
+        "num": 75194,
+        "word": "刘亦菲19岁时的采访",
+        "onboard_time": 1717605615,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73251,
+        "num": 73251,
+        "word": "公办中小学招聘不进编教师引关注",
+        "onboard_time": 1717587257,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 69888,
+        "num": 69888,
+        "word": "B太 水果礼盒触碰了商家的逆鳞",
+        "onboard_time": 1717586778,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67057,
+        "num": 67057,
+        "word": "96版一帘幽梦女主近照",
+        "onboard_time": 1717600039,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28106,
+        "num": 66379,
+        "word": "都江堰已持续运行2280年",
+        "onboard_time": 1717599559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66204,
+        "num": 66204,
+        "word": "3类癌症不致命无需过度治疗",
+        "onboard_time": 1717596560,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 61710,
+        "num": 61710,
+        "word": "老人被发现与小38岁保姆结婚后续",
+        "onboard_time": 1717582878,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56076,
+        "num": 56076,
+        "word": "游客吐槽阿勒泰旅游太贵了",
+        "onboard_time": 1717583059,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 54075,
+        "num": 54075,
+        "word": "黄子弘凡 下次不准再演了",
+        "onboard_time": 1717596560,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53747,
+        "num": 53747,
+        "word": "印度总理莫迪提交辞呈",
+        "onboard_time": 1717590318,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52673,
+        "num": 52673,
+        "word": "徐艺洋运动就会恶心",
+        "onboard_time": 1717575498,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52343,
+        "num": 52343,
+        "word": "墨雨云间 双强cp",
+        "onboard_time": 1717606995,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51872,
+        "num": 51872,
+        "word": "邓为翻牌",
+        "onboard_time": 1717588578,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51304,
+        "num": 51304,
+        "word": "汪苏泷晒其他歌手送的礼物",
+        "onboard_time": 1717596501,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50261,
+        "num": 50261,
+        "word": "超新星5名单",
+        "onboard_time": 1717605316,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50023,
+        "num": 50023,
+        "word": "皮肤变好带给我的变化有多大",
+        "onboard_time": 1717594938,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 49046,
+        "num": 49046,
+        "word": "EXO和成员朋友见面必须通过允许",
+        "onboard_time": 1717584259,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47458,
+        "num": 47458,
+        "word": "歌手2024揭榜串讲人",
+        "onboard_time": 1717589779,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44912,
+        "num": 44912,
+        "word": "重庆文旅发了肖战",
+        "onboard_time": 1717593619,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43965,
+        "num": 43965,
+        "word": "摄影师拍陶昕然母女穿帮了",
+        "onboard_time": 1717601539,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43515,
+        "num": 43515,
+        "word": "刑事侦缉档案剧组重聚",
+        "onboard_time": 1717599619,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40303,
+        "num": 43514,
+        "word": "leave闪现接箭",
+        "onboard_time": 1717592779,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38297,
+        "num": 43513,
+        "word": "新疆你无需宣传 有钱我自会出发",
+        "onboard_time": 1717596618,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 38147,
+        "num": 43512,
+        "word": "99年高三老师哭的比学生还伤心",
+        "onboard_time": 1717591339,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36986,
+        "num": 43511,
+        "word": "猫咪模仿小宝宝坐进了婴儿椅",
+        "onboard_time": 1717597640,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717605574262,
+  "endTime": 1717607836401,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257121,
+      "num": 119132,
+      "word": "读研后对研究生祛魅了",
+      "onboard_time": 1717603638,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233258,
       "num": 233258,
       "word": "斗鱼一季度亏损8800万元",
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183646,
-      "num": 119132,
-      "word": "读研后对研究生祛魅了",
-      "onboard_time": 1717603638,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177679,
       "num": 177679,
       "word": "公办中小学招聘不进编教师引关注",
@@ -161,6 +161,14 @@
       "onboard_time": 1717596797,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169775,
+      "num": 169775,
+      "word": "2024高考",
+      "onboard_time": 1717606635,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 161415,
@@ -339,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75194,
+      "num": 75194,
+      "word": "刘亦菲19岁时的采访",
+      "onboard_time": 1717605615,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74302,
       "num": 76188,
       "word": "猫咪模仿小宝宝坐进了婴儿椅",
@@ -379,12 +395,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52673,
+      "num": 52673,
+      "word": "徐艺洋运动就会恶心",
+      "onboard_time": 1717575498,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 52343,
+      "num": 52343,
+      "word": "墨雨云间 双强cp",
+      "onboard_time": 1717606995,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49188,
       "num": 113857,
       "word": "都江堰已持续运行2280年",
       "onboard_time": 1717599559,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40303,
+      "num": 43514,
+      "word": "leave闪现接箭",
+      "onboard_time": 1717592779,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 33483,
@@ -407,6 +447,22 @@
       "num": 551863,
       "word": "增绿就是增优势植树就是植未来",
       "onboard_time": 1717592058,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11384,
+      "num": 124202,
+      "word": "师娘带全班学生激情宣誓助力高考",
+      "onboard_time": 1717606995,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 4344,
+      "num": 412015,
+      "word": "我在五千年前等你",
+      "onboard_time": 1717559118,
       "rank": 2,
       "category": "社会新闻"
     }
