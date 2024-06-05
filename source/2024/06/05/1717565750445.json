@@ -1,0 +1,410 @@
+{
+  "runTime": 1717565750445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097720,
+        "num": 1097720,
+        "word": "刘亦菲彭冠英吻戏",
+        "onboard_time": 1717563799,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 816736,
+        "num": 816736,
+        "word": "周大福深圳工厂停工停产",
+        "onboard_time": 1717556717,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 123519,
+        "num": 728256,
+        "word": "芒种遇到周三有多忙",
+        "onboard_time": 1717559359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 923002,
+        "num": 715096,
+        "word": "歌手发布歌单",
+        "onboard_time": 1717558938,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 669793,
+        "num": 669793,
+        "word": "清华毕业生35岁再考清华",
+        "onboard_time": 1717558398,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 667104,
+        "num": 667104,
+        "word": "樊振东 安踏",
+        "onboard_time": 1717561760,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 922500,
+        "num": 660588,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569290,
+        "num": 569290,
+        "word": "周大福",
+        "onboard_time": 1717559598,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 552481,
+        "num": 552481,
+        "word": "刘亦菲花裙大波浪",
+        "onboard_time": 1717560619,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 441497,
+        "num": 441497,
+        "word": "墨雨云间只有中戏四个人没配音",
+        "onboard_time": 1717559179,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 2199240,
+        "num": 437886,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30203,
+        "num": 419973,
+        "word": "乡村校长带学生把校园变成童话世界",
+        "onboard_time": 1717562900,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1286054,
+        "num": 417403,
+        "word": "国企造假",
+        "onboard_time": 1717559957,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1254938,
+        "num": 406808,
+        "word": "出差疑被老板强奸隔壁房客录下证据",
+        "onboard_time": 1717548799,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 579233,
+        "num": 393658,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386928,
+        "num": 386928,
+        "word": "苹果截图 诈骗骗局",
+        "onboard_time": 1717552577,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 506452,
+        "num": 351428,
+        "word": "意大利滑雪名将和女友坠崖身亡",
+        "onboard_time": 1717559719,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306816,
+        "num": 306816,
+        "word": "奔跑吧应援声明",
+        "onboard_time": 1717564519,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291898,
+        "num": 291898,
+        "word": "星穹铁道云璃",
+        "onboard_time": 1717564698,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262383,
+        "num": 262383,
+        "word": "医院回应剧组让患者家属小声点哭",
+        "onboard_time": 1717555277,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443684,
+        "num": 257224,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338099,
+        "num": 252856,
+        "word": "突然发现九月是调休大月",
+        "onboard_time": 1717550119,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318249,
+        "num": 246933,
+        "word": "女子将15只大虫藏女童身后过关",
+        "onboard_time": 1717549877,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304241,
+        "num": 237531,
+        "word": "张颂文荣梓杉双男主",
+        "onboard_time": 1717559418,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265597,
+        "num": 232091,
+        "word": "欢瑞世纪官宣00后小花李康",
+        "onboard_time": 1717564100,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224622,
+        "num": 224622,
+        "word": "巨婴式婚姻",
+        "onboard_time": 1717553957,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219583,
+        "num": 219583,
+        "word": "周深大学期间做过最疯狂的事",
+        "onboard_time": 1717563919,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214439,
+        "num": 214439,
+        "word": "我偏要发剑网3",
+        "onboard_time": 1717565298,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208257,
+        "num": 208257,
+        "word": "减肥的顶级天赋是没有味觉",
+        "onboard_time": 1717563080,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199988,
+        "num": 199988,
+        "word": "张云龙丞磊合跳晚安大小姐",
+        "onboard_time": 1717565239,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217127,
+        "num": 199440,
+        "word": "清华毕业生100天备考清华目标700分",
+        "onboard_time": 1717564578,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186176,
+        "num": 186176,
+        "word": "和马里奥谈恋爱有点费命",
+        "onboard_time": 1717561100,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172590,
+        "num": 172590,
+        "word": "6岁的侄女昨天在公园报警",
+        "onboard_time": 1717565419,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21180,
+        "num": 170132,
+        "word": "求问颐莲品牌市场部",
+        "onboard_time": 1717565419,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170018,
+        "num": 170018,
+        "word": "幽门螺杆菌的根除方案",
+        "onboard_time": 1717564218,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151328,
+        "num": 169836,
+        "word": "办培训学校不到3个月收200余万学费",
+        "onboard_time": 1717563620,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 169692,
+        "num": 169692,
+        "word": "以为是更年期结果是怀孕了",
+        "onboard_time": 1717558098,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169615,
+        "num": 169615,
+        "word": "墨雨云间",
+        "onboard_time": 1717557857,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163159,
+        "num": 163159,
+        "word": "权志龙担任KAIST教授",
+        "onboard_time": 1717558878,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162019,
+        "num": 162019,
+        "word": "张艺兴娜扎打戏",
+        "onboard_time": 1717556598,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160324,
+        "num": 160324,
+        "word": "rita回应整容谣言",
+        "onboard_time": 1717559298,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158152,
+        "num": 158152,
+        "word": "狗狗护主结果把主人咬了",
+        "onboard_time": 1717563740,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154516,
+        "num": 154516,
+        "word": "种地吧",
+        "onboard_time": 1717554437,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154462,
+        "num": 154462,
+        "word": "调查显示3成癌症患者不到40岁",
+        "onboard_time": 1717561638,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154213,
+        "num": 154213,
+        "word": "刘亦菲ins预热玫瑰的故事",
+        "onboard_time": 1717561459,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154041,
+        "num": 154041,
+        "word": "王者荣耀",
+        "onboard_time": 1717558158,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144738,
+        "num": 144738,
+        "word": "喜欢你我也是",
+        "onboard_time": 1717564519,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142122,
+        "num": 142122,
+        "word": "五月天深圳演唱会",
+        "onboard_time": 1717563740,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135896,
+        "num": 135896,
+        "word": "周大福员工回应深圳工厂停工停产",
+        "onboard_time": 1717563860,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135198,
+        "num": 135198,
+        "word": "陈丽君说永远不会离开越剧舞台",
+        "onboard_time": 1717556838,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

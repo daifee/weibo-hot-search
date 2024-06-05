@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717564749647,
+  "endTime": 1717565750445,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -4100,7 +4100,7 @@
     },
     {
       "raw_hot": 309110,
-      "num": 212904,
+      "num": 232091,
       "word": "欢瑞世纪官宣00后小花李康",
       "onboard_time": 1717564100,
       "rank": 23,
@@ -4136,6 +4136,14 @@
       "word": "歌手直播",
       "onboard_time": 1717155737,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 306816,
+      "num": 306816,
+      "word": "奔跑吧应援声明",
+      "onboard_time": 1717564519,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -4353,6 +4361,14 @@
       "onboard_time": 1717468218,
       "rank": 9,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 291898,
+      "num": 291898,
+      "word": "星穹铁道云璃",
+      "onboard_time": 1717564698,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 291306,
@@ -5635,6 +5651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219583,
+      "num": 219583,
+      "word": "周深大学期间做过最疯狂的事",
+      "onboard_time": 1717563919,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218662,
       "num": 218662,
       "word": "石人峡意外落水遇难领队系资深驴友",
@@ -5657,14 +5681,6 @@
       "onboard_time": 1717387159,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 218238,
-      "num": 210055,
-      "word": "周深大学期间做过最疯狂的事",
-      "onboard_time": 1717563919,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 217781,
@@ -5697,6 +5713,14 @@
       "onboard_time": 1717241778,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217127,
+      "num": 199440,
+      "word": "清华毕业生100天备考清华目标700分",
+      "onboard_time": 1717564578,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 216713,
@@ -5769,6 +5793,14 @@
       "onboard_time": 1717416979,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214439,
+      "num": 214439,
+      "word": "我偏要发剑网3",
+      "onboard_time": 1717565298,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 212942,
@@ -6289,6 +6321,14 @@
       "onboard_time": 1717215977,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199988,
+      "num": 199988,
+      "word": "张云龙丞磊合跳晚安大小姐",
+      "onboard_time": 1717565239,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 199618,
@@ -7243,14 +7283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175822,
-      "num": 175822,
-      "word": "星穹铁道云璃",
-      "onboard_time": 1717564698,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175814,
       "num": 175814,
       "word": "幽门螺杆菌的根除方案",
@@ -7401,6 +7433,14 @@
       "onboard_time": 1717368853,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172590,
+      "num": 172590,
+      "word": "6岁的侄女昨天在公园报警",
+      "onboard_time": 1717565419,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 172484,
@@ -8227,14 +8267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153020,
-      "num": 153020,
-      "word": "清华毕业生100天备考清华目标700分",
-      "onboard_time": 1717564578,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 152902,
       "num": 152902,
       "word": "纽约地铁 永远猜不到会发生什么",
@@ -8321,6 +8353,14 @@
       "onboard_time": 1717203196,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151328,
+      "num": 596697,
+      "word": "办培训学校不到3个月收200余万学费",
+      "onboard_time": 1717563620,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 151303,
@@ -8667,6 +8707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144738,
+      "num": 144738,
+      "word": "喜欢你我也是",
+      "onboard_time": 1717564519,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144632,
       "num": 144632,
       "word": "by2童年照曝光",
@@ -8699,14 +8747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144297,
-      "num": 144297,
-      "word": "奔跑吧应援声明",
-      "onboard_time": 1717564519,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144045,
       "num": 144045,
       "word": "香港人的特种兵旅游正在挤爆深圳",
@@ -8720,14 +8760,6 @@
       "word": "戚薇bangbang",
       "onboard_time": 1717240158,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143535,
-      "num": 143535,
-      "word": "喜欢你我也是",
-      "onboard_time": 1717564519,
-      "rank": 48,
       "category": "综艺"
     },
     {
@@ -9089,6 +9121,14 @@
       "onboard_time": 1717495398,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135896,
+      "num": 135896,
+      "word": "周大福员工回应深圳工厂停工停产",
+      "onboard_time": 1717563860,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135719,
@@ -11243,14 +11283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85507,
-      "num": 596697,
-      "word": "办培训学校不到3个月收200余万学费",
-      "onboard_time": 1717563620,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 85264,
       "num": 85264,
       "word": "微波炉怎么不转圈了",
@@ -12627,6 +12659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30203,
+      "num": 419973,
+      "word": "乡村校长带学生把校园变成童话世界",
+      "onboard_time": 1717562900,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30189,
       "num": 401220,
       "word": "回家的路是我们最想走的路",
@@ -12753,6 +12793,14 @@
       "onboard_time": 1717259117,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21180,
+      "num": 170132,
+      "word": "求问颐莲品牌市场部",
+      "onboard_time": 1717565419,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 21152,
