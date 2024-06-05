@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717569541349,
+  "endTime": 1717571919051,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -689,6 +689,14 @@
       "onboard_time": 1717475959,
       "rank": 3,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 886775,
+      "num": 886775,
+      "word": "王鹤棣 无袖",
+      "onboard_time": 1717566078,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 871614,
@@ -1427,14 +1435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601312,
-      "num": 422318,
-      "word": "王鹤棣 无袖",
-      "onboard_time": 1717566078,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 600148,
       "num": 538518,
       "word": "我国历史上的熊猫外交",
@@ -1448,6 +1448,14 @@
       "word": "上市药店卖彩票一年销售7698万",
       "onboard_time": 1717373418,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 597572,
+      "num": 597572,
+      "word": "福猪猪最新体重206斤",
+      "onboard_time": 1717569556,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1580,7 +1588,7 @@
     },
     {
       "raw_hot": 563569,
-      "num": 359877,
+      "num": 451305,
       "word": "奔跑吧应援声明",
       "onboard_time": 1717564519,
       "rank": 46,
@@ -2099,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451570,
+      "num": 451570,
+      "word": "A股",
+      "onboard_time": 1717381458,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 451270,
       "num": 451270,
       "word": "缺牙齿会惩罚每一个嘴硬的人",
@@ -2273,6 +2289,14 @@
       "onboard_time": 1717478119,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428534,
+      "num": 406497,
+      "word": "毛坦厂中学万人冒雨送考为孩子加油",
+      "onboard_time": 1717570937,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 427683,
@@ -2955,6 +2979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 338414,
+      "num": 338414,
+      "word": "BW2024官宣定档",
+      "onboard_time": 1717569257,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 336928,
       "num": 333073,
       "word": "阿沁公开飞儿乐团创作录音",
@@ -3073,14 +3105,6 @@
       "onboard_time": 1717484418,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326618,
-      "num": 326618,
-      "word": "A股",
-      "onboard_time": 1717381458,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 326286,
@@ -4723,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207372,
+      "num": 194606,
+      "word": "家长为了高考博好彩头有多拼",
+      "onboard_time": 1717571297,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207302,
       "num": 192360,
       "word": "迪丽热巴全新EP造型",
@@ -4873,6 +4905,14 @@
       "onboard_time": 1717559598,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202010,
+      "num": 173359,
+      "word": "森林雪山在云海间若隐若现",
+      "onboard_time": 1717571596,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 201968,
@@ -5227,6 +5267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193646,
+      "num": 193646,
+      "word": "你要这么虐前夫哥我就不困了",
+      "onboard_time": 1717571476,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193304,
       "num": 193304,
       "word": "种地星球恢复直播",
@@ -5257,6 +5305,14 @@
       "onboard_time": 1717509979,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 191971,
+      "num": 191971,
+      "word": "蒲熠星魔方连续两次第一",
+      "onboard_time": 1717570337,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191951,
@@ -5377,6 +5433,14 @@
       "onboard_time": 1717554979,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188741,
+      "num": 188741,
+      "word": "墨雨云间和太子妃一个导演",
+      "onboard_time": 1717571178,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 188558,
@@ -5691,14 +5755,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 177606,
-      "num": 177606,
-      "word": "BW2024官宣定档",
-      "onboard_time": 1717569257,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "肖战藏海传关门镜头",
@@ -5793,6 +5849,14 @@
       "onboard_time": 1717392678,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174676,
+      "num": 174676,
+      "word": "杨幂吃播日常",
+      "onboard_time": 1717569978,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 174358,
@@ -6867,6 +6931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142754,
+      "num": 142754,
+      "word": "王星越原声",
+      "onboard_time": 1717570398,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142524,
       "num": 354950,
       "word": "青春是一首永不老去的歌",
@@ -7171,6 +7243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134142,
+      "num": 134142,
+      "word": "吴谨言眼睛",
+      "onboard_time": 1717571837,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133863,
       "num": 133863,
       "word": "孙楠或唱毛不易的歌",
@@ -7257,6 +7337,14 @@
       "onboard_time": 1717419258,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131888,
+      "num": 131888,
+      "word": "庆余年2024微博第三部爆款剧集",
+      "onboard_time": 1717571058,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 131621,
@@ -7611,6 +7699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125430,
+      "num": 125430,
+      "word": "Doinb说老头杯我一定最抢手",
+      "onboard_time": 1717570217,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125207,
       "num": 323542,
       "word": "奶爸把福宝内舍打扫得一尘不染",
@@ -7625,6 +7721,14 @@
       "onboard_time": 1717316957,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124878,
+      "num": 124878,
+      "word": "那英唱哪首",
+      "onboard_time": 1717571718,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 124788,
@@ -7825,6 +7929,14 @@
       "onboard_time": 1717251679,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121013,
+      "num": 121013,
+      "word": "以防你没见过长颈羚吞东西",
+      "onboard_time": 1717571476,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 120992,
@@ -8871,6 +8983,14 @@
       "num": 334597,
       "word": "萌兰在树上蛄蛹成毛毛虫",
       "onboard_time": 1717257258,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87021,
+      "num": 413204,
+      "word": "大个子学生窝不进小课桌",
+      "onboard_time": 1717570818,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -10309,6 +10429,9 @@
     },
     {
       "word": "#习近平向墨西哥当选总统致贺电#"
+    },
+    {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
     }
   ]
 }

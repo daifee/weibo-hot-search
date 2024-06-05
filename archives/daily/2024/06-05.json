@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717569541349,
+  "endTime": 1717571919051,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -89,6 +89,14 @@
       "onboard_time": 1717514358,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886775,
+      "num": 886775,
+      "word": "王鹤棣 无袖",
+      "onboard_time": 1717566078,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 806319,
@@ -203,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601312,
-      "num": 422318,
-      "word": "王鹤棣 无袖",
-      "onboard_time": 1717566078,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 597572,
+      "num": 597572,
+      "word": "福猪猪最新体重206斤",
+      "onboard_time": 1717569556,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 579471,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 563569,
-      "num": 359877,
+      "num": 451305,
       "word": "奔跑吧应援声明",
       "onboard_time": 1717564519,
       "rank": 46,
@@ -275,12 +283,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 451570,
+      "num": 451570,
+      "word": "A股",
+      "onboard_time": 1717567937,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 433318,
       "num": 399995,
       "word": "长期护肤和不护肤的区别有多大",
       "onboard_time": 1717547839,
       "rank": 12,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 428534,
+      "num": 406497,
+      "word": "毛坦厂中学万人冒雨送考为孩子加油",
+      "onboard_time": 1717570937,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 424479,
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338414,
+      "num": 338414,
+      "word": "BW2024官宣定档",
+      "onboard_time": 1717569257,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 336928,
       "num": 333073,
       "word": "阿沁公开飞儿乐团创作录音",
@@ -393,14 +425,6 @@
       "onboard_time": 1717561100,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 326618,
-      "num": 326618,
-      "word": "A股",
-      "onboard_time": 1717567937,
-      "rank": 25,
-      "category": "财经"
     },
     {
       "raw_hot": 321209,
@@ -747,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207372,
+      "num": 194606,
+      "word": "家长为了高考博好彩头有多拼",
+      "onboard_time": 1717571297,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207222,
       "num": 207222,
       "word": "2024KPL夏季赛大名单",
@@ -809,6 +841,14 @@
       "onboard_time": 1717508118,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202010,
+      "num": 173359,
+      "word": "森林雪山在云海间若隐若现",
+      "onboard_time": 1717571596,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 200650,
@@ -875,12 +915,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193646,
+      "num": 193646,
+      "word": "你要这么虐前夫哥我就不困了",
+      "onboard_time": 1717571476,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191971,
+      "num": 191971,
+      "word": "蒲熠星魔方连续两次第一",
+      "onboard_time": 1717570337,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188818,
       "num": 170993,
       "word": "阿娇阿Sa揽腰嘟嘴照",
       "onboard_time": 1717554979,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 188741,
+      "num": 188741,
+      "word": "墨雨云间和太子妃一个导演",
+      "onboard_time": 1717571178,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 186927,
@@ -947,14 +1011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177606,
-      "num": 177606,
-      "word": "BW2024官宣定档",
-      "onboard_time": 1717569257,
-      "rank": 29,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 176948,
       "num": 176948,
       "word": "为什么说跑步是一项治愈运动",
@@ -969,6 +1025,14 @@
       "onboard_time": 1717558459,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174676,
+      "num": 174676,
+      "word": "杨幂吃播日常",
+      "onboard_time": 1717569978,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 170142,
@@ -1123,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142754,
+      "num": 142754,
+      "word": "王星越原声",
+      "onboard_time": 1717570398,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142426,
       "num": 791734,
       "word": "五星红旗在月亮之上",
@@ -1179,6 +1251,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 134142,
+      "num": 134142,
+      "word": "吴谨言眼睛",
+      "onboard_time": 1717571837,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132884,
       "num": 132884,
       "word": "结婚了就得有一份责任了",
@@ -1195,6 +1275,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 131888,
+      "num": 131888,
+      "word": "庆余年2024微博第三部爆款剧集",
+      "onboard_time": 1717571058,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130830,
       "num": 130830,
       "word": "谷雨推近千元爽肤水被指割韭菜",
@@ -1209,6 +1297,22 @@
       "onboard_time": 1717546458,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125430,
+      "num": 125430,
+      "word": "Doinb说老头杯我一定最抢手",
+      "onboard_time": 1717570217,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 124878,
+      "num": 124878,
+      "word": "那英唱哪首",
+      "onboard_time": 1717571718,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 124665,
@@ -1241,6 +1345,14 @@
       "onboard_time": 1717547419,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 121013,
+      "num": 121013,
+      "word": "以防你没见过长颈羚吞东西",
+      "onboard_time": 1717571476,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 118756,
@@ -1433,6 +1545,14 @@
       "onboard_time": 1717512440,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87021,
+      "num": 413204,
+      "word": "大个子学生窝不进小课桌",
+      "onboard_time": 1717570818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86219,
@@ -1820,6 +1940,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717571919051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 886775,
+        "num": 886775,
+        "word": "王鹤棣 无袖",
+        "onboard_time": 1717566078,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635004,
+        "num": 635004,
+        "word": "周大福深圳工厂停工停产",
+        "onboard_time": 1717556717,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 105620,
+        "num": 614558,
+        "word": "芒种遇到周三有多忙",
+        "onboard_time": 1717559359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904407,
+        "num": 611733,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597572,
+        "num": 597572,
+        "word": "福猪猪最新体重206斤",
+        "onboard_time": 1717569556,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451570,
+        "num": 451570,
+        "word": "A股",
+        "onboard_time": 1717567937,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 475248,
+        "num": 451305,
+        "word": "奔跑吧应援声明",
+        "onboard_time": 1717564519,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450735,
+        "num": 450735,
+        "word": "歌手发布歌单",
+        "onboard_time": 1717558938,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413444,
+        "num": 413444,
+        "word": "意大利滑雪名将和女友坠崖身亡",
+        "onboard_time": 1717559719,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87021,
+        "num": 413204,
+        "word": "大个子学生窝不进小课桌",
+        "onboard_time": 1717570818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1422478,
+        "num": 408506,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428534,
+        "num": 406497,
+        "word": "毛坦厂中学万人冒雨送考为孩子加油",
+        "onboard_time": 1717570937,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 421589,
+        "num": 403578,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403406,
+        "num": 403406,
+        "word": "墨雨云间只有中戏四个人没配音",
+        "onboard_time": 1717559179,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340969,
+        "num": 340969,
+        "word": "清华毕业生35岁再考清华",
+        "onboard_time": 1717558398,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 338414,
+        "num": 338414,
+        "word": "BW2024官宣定档",
+        "onboard_time": 1717569257,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 327761,
+        "num": 327761,
+        "word": "刘亦菲彭冠英吻戏",
+        "onboard_time": 1717563799,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277542,
+        "num": 277542,
+        "word": "周大福",
+        "onboard_time": 1717559598,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238257,
+        "num": 238257,
+        "word": "医院回应剧组让患者家属小声点哭",
+        "onboard_time": 1717555277,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195472,
+        "num": 195472,
+        "word": "我偏要发剑网3",
+        "onboard_time": 1717565298,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 624654,
+        "num": 195023,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207372,
+        "num": 194606,
+        "word": "家长为了高考博好彩头有多拼",
+        "onboard_time": 1717571297,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200981,
+        "num": 194442,
+        "word": "女子将15只大虫藏女童身后过关",
+        "onboard_time": 1717549877,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199564,
+        "num": 193713,
+        "word": "悬疑剧又有判头了",
+        "onboard_time": 1717568357,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193646,
+        "num": 193646,
+        "word": "你要这么虐前夫哥我就不困了",
+        "onboard_time": 1717571476,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193203,
+        "num": 193203,
+        "word": "白鹿粉丝带编发",
+        "onboard_time": 1717566018,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191971,
+        "num": 191971,
+        "word": "蒲熠星魔方连续两次第一",
+        "onboard_time": 1717570337,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188741,
+        "num": 188741,
+        "word": "墨雨云间和太子妃一个导演",
+        "onboard_time": 1717571178,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174676,
+        "num": 174676,
+        "word": "杨幂吃播日常",
+        "onboard_time": 1717569978,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133726,
+        "num": 173361,
+        "word": "办培训学校不到3个月收200余万学费",
+        "onboard_time": 1717563620,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202010,
+        "num": 173359,
+        "word": "森林雪山在云海间若隐若现",
+        "onboard_time": 1717571596,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "出差疑被老板强奸隔壁房客录下证据",
+        "onboard_time": 1717548799,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 171470,
+        "num": 171470,
+        "word": "你在不在",
+        "onboard_time": 1717568118,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171337,
+        "num": 171337,
+        "word": "肖战重庆机场",
+        "onboard_time": 1717566617,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160092,
+        "num": 160092,
+        "word": "苹果截图 诈骗骗局",
+        "onboard_time": 1717552577,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159080,
+        "num": 159080,
+        "word": "浙江奶奶每天骑电驴10分钟到上海上班",
+        "onboard_time": 1717567458,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155823,
+        "num": 155823,
+        "word": "樊振东 安踏",
+        "onboard_time": 1717561760,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146739,
+        "num": 146739,
+        "word": "巨婴式婚姻",
+        "onboard_time": 1717553957,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142754,
+        "num": 142754,
+        "word": "王星越原声",
+        "onboard_time": 1717570398,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138398,
+        "num": 138398,
+        "word": "6岁的侄女昨天在公园报警",
+        "onboard_time": 1717565419,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134664,
+        "num": 134664,
+        "word": "刘亦菲花裙大波浪",
+        "onboard_time": 1717560619,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134142,
+        "num": 134142,
+        "word": "吴谨言眼睛",
+        "onboard_time": 1717571837,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131888,
+        "num": 131888,
+        "word": "庆余年2024微博第三部爆款剧集",
+        "onboard_time": 1717571058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130138,
+        "num": 130138,
+        "word": "庆余年中的三大坊在杭州哪里",
+        "onboard_time": 1717568537,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125430,
+        "num": 125430,
+        "word": "Doinb说老头杯我一定最抢手",
+        "onboard_time": 1717570217,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124878,
+        "num": 124878,
+        "word": "那英唱哪首",
+        "onboard_time": 1717571718,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124870,
+        "num": 124870,
+        "word": "歌手有Adele的hello",
+        "onboard_time": 1717566318,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121591,
+        "num": 121591,
+        "word": "尚雯婕清唱bangbang",
+        "onboard_time": 1717568477,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121013,
+        "num": 121013,
+        "word": "以防你没见过长颈羚吞东西",
+        "onboard_time": 1717571476,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 116177,
+        "num": 116177,
+        "word": "墨雨云间",
+        "onboard_time": 1717557857,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
+    }
+  }
+}
