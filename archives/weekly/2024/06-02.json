@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717600819751,
+  "endTime": 1717601680275,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -1251,6 +1251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 689700,
+      "num": 490245,
+      "word": "刘恋和陈昊宇十年前就认识了",
+      "onboard_time": 1717598420,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 688500,
       "num": 329729,
       "word": "突然发现九月是调休大月",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1717340660,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 678740,
-      "num": 490245,
-      "word": "刘恋和陈昊宇十年前就认识了",
-      "onboard_time": 1717598420,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 677710,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1717511539,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 568384,
+      "num": 374336,
+      "word": "朋友圈背景图",
+      "onboard_time": 1717598600,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 566024,
@@ -3027,14 +3035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374336,
-      "num": 374336,
-      "word": "朋友圈背景图",
-      "onboard_time": 1717598600,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 373741,
       "num": 373741,
       "word": "于正 选角",
@@ -3515,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319871,
+      "num": 235299,
+      "word": "3类癌症不致命无需过度治疗",
+      "onboard_time": 1717596560,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 318901,
       "num": 318901,
       "word": "我偏要发剑网3",
@@ -3593,6 +3601,14 @@
       "onboard_time": 1717471517,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 308781,
+      "num": 308781,
+      "word": "斗鱼一季度亏损8800万元",
+      "onboard_time": 1717599139,
+      "rank": 8,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 308420,
@@ -3987,14 +4003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278236,
-      "num": 235299,
-      "word": "3类癌症不致命无需过度治疗",
-      "onboard_time": 1717596560,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 278175,
       "num": 278175,
       "word": "mbti新题",
@@ -4081,14 +4089,6 @@
       "onboard_time": 1717548738,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272741,
-      "num": 272741,
-      "word": "斗鱼一季度亏损8800万元",
-      "onboard_time": 1717599139,
-      "rank": 8,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 272492,
@@ -6235,6 +6235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183790,
+      "num": 183790,
+      "word": "96版一帘幽梦女主近照",
+      "onboard_time": 1717600039,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183090,
       "num": 183090,
       "word": "官方回应B太长沙夜市打假",
@@ -6273,14 +6281,6 @@
       "onboard_time": 1717556417,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 180872,
-      "num": 180872,
-      "word": "96版一帘幽梦女主近照",
-      "onboard_time": 1717600039,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 180507,
@@ -7531,6 +7531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146895,
+      "num": 146895,
+      "word": "新疆你无需宣传 有钱我自会出发",
+      "onboard_time": 1717596618,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 146813,
       "num": 146813,
       "word": "中国企业回应被斯坦福大学抄袭",
@@ -7875,6 +7883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139487,
+      "num": 139487,
+      "word": "姜梨白月光",
+      "onboard_time": 1717600700,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139449,
       "num": 139449,
       "word": "谢霆锋张学友新片最新预告",
@@ -7929,14 +7945,6 @@
       "onboard_time": 1717501877,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138855,
-      "num": 138855,
-      "word": "新疆你无需宣传 有钱我自会出发",
-      "onboard_time": 1717596618,
-      "rank": 42,
-      "category": "旅游"
     },
     {
       "raw_hot": 138775,
@@ -9827,6 +9835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99692,
+      "num": 99692,
+      "word": "摄影师拍陶昕然母女穿帮了",
+      "onboard_time": 1717601539,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99643,
       "num": 322510,
       "word": "小儿青少年也会有妇科病",
@@ -10011,14 +10027,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 93128,
-      "num": 93128,
-      "word": "姜梨白月光",
-      "onboard_time": 1717600700,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91643,
       "num": 91643,
       "word": "吃了多少爱情的苦才写出这歌",
@@ -10041,6 +10049,14 @@
       "onboard_time": 1717573517,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90955,
+      "num": 99644,
+      "word": "莱巴金娜状态",
+      "onboard_time": 1717601059,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 90202,
@@ -10587,6 +10603,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 64121,
+      "num": 271403,
+      "word": "都江堰已持续运行2280年",
+      "onboard_time": 1717599559,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63577,
       "num": 1026740,
       "word": "月面软着陆背后的发动机奥秘",
@@ -10867,6 +10891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51639,
+      "num": 208021,
+      "word": "各科老师花式送高考祝福燃爆全场",
+      "onboard_time": 1717601418,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 51349,
       "num": 51349,
       "word": "刘些宁首演恶女",
@@ -10945,14 +10977,6 @@
       "onboard_time": 1717435453,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47768,
-      "num": 271403,
-      "word": "都江堰已持续运行2280年",
-      "onboard_time": 1717599559,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47010,
