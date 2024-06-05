@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717597183651,
+  "endTime": 1717598201766,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1116584,
+      "num": 252014,
+      "word": "亲姐姐总暗示我给外甥买东西",
+      "onboard_time": 1717593438,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1111380,
       "num": 1111380,
       "word": "高考很大可能是考得最好的一次",
@@ -145,14 +153,6 @@
       "onboard_time": 1717582878,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 926147,
-      "num": 252014,
-      "word": "亲姐姐总暗示我给外甥买东西",
-      "onboard_time": 1717593438,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 924063,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447359,
+      "num": 334727,
+      "word": "5岁女童练舞站下腰摔倒致高位截瘫",
+      "onboard_time": 1717594519,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 441657,
       "num": 441657,
       "word": "优酷客服回应墨雨云间时长被疑违规",
@@ -651,14 +659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 389218,
-      "num": 309628,
-      "word": "5岁女童练舞站下腰摔倒致高位截瘫",
-      "onboard_time": 1717594519,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373098,
       "num": 373098,
       "word": "距离2024高考还有2天",
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 372177,
-      "num": 311559,
+      "num": 327225,
       "word": "重庆文旅发了肖战",
       "onboard_time": 1717593619,
       "rank": 27,
@@ -681,6 +681,14 @@
       "onboard_time": 1717556838,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359589,
+      "num": 359589,
+      "word": "斗鱼退缴主播非法收益超1亿",
+      "onboard_time": 1717596859,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 353901,
@@ -851,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287154,
+      "num": 287154,
+      "word": "汪苏泷晒其他歌手送的礼物",
+      "onboard_time": 1717596501,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284015,
       "num": 207904,
       "word": "墨雨云间",
@@ -971,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261884,
+      "num": 245812,
+      "word": "建议高考可以用大学作为考场",
+      "onboard_time": 1717593558,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 260042,
       "num": 207678,
       "word": "张艺兴24岁时街头运动风妆造",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1717576397,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 245812,
-      "num": 245812,
-      "word": "建议高考可以用大学作为考场",
-      "onboard_time": 1717593558,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 240452,
@@ -1091,12 +1107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 233069,
-      "num": 233069,
-      "word": "汪苏泷晒其他歌手送的礼物",
-      "onboard_time": 1717596501,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 232498,
+      "num": 232498,
+      "word": "王楚钦祝高考生金榜题名",
+      "onboard_time": 1717597398,
+      "rank": 19,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 230514,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1717559899,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226835,
+      "num": 226835,
+      "word": "皮肤变好带给我的变化有多大",
+      "onboard_time": 1717594938,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 226817,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1717548618,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218442,
+      "num": 218442,
+      "word": "3类癌症不致命无需过度治疗",
+      "onboard_time": 1717596560,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 217127,
@@ -1275,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202685,
+      "num": 202685,
+      "word": "yes24网站",
+      "onboard_time": 1717596797,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202614,
       "num": 202614,
       "word": "密逃6首期录制没有杨幂",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1717582097,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197365,
+      "num": 197365,
+      "word": "猫咪模仿小宝宝坐进了婴儿椅",
+      "onboard_time": 1717597640,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 197355,
@@ -1459,14 +1507,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 187208,
-      "num": 187208,
-      "word": "3类癌症不致命无需过度治疗",
-      "onboard_time": 1717596560,
-      "rank": 29,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 186927,
       "num": 186927,
       "word": "幽门螺杆菌的根除方案",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1717588218,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181659,
+      "num": 181659,
+      "word": "黄子弘凡 下次不准再演了",
+      "onboard_time": 1717596560,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 181244,
@@ -1619,6 +1667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 175212,
+      "num": 175212,
+      "word": "官方回应B太长沙夜市打假",
+      "onboard_time": 1717596379,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175028,
       "num": 175028,
       "word": "2024LPL夏季赛",
@@ -1657,14 +1713,6 @@
       "onboard_time": 1717555817,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168650,
-      "num": 168650,
-      "word": "皮肤变好带给我的变化有多大",
-      "onboard_time": 1717594938,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 167488,
@@ -1715,22 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160885,
-      "num": 160885,
-      "word": "斗鱼退缴主播非法收益超1亿",
-      "onboard_time": 1717596859,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 160675,
-      "num": 160675,
-      "word": "黄子弘凡 下次不准再演了",
-      "onboard_time": 1717596560,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158253,
       "num": 158253,
       "word": "汪文斌候任驻柬埔寨大使",
@@ -1745,14 +1777,6 @@
       "onboard_time": 1717553718,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156706,
-      "num": 156706,
-      "word": "官方回应B太长沙夜市打假",
-      "onboard_time": 1717596379,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156359,
@@ -1809,14 +1833,6 @@
       "onboard_time": 1717560798,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 151083,
-      "num": 151083,
-      "word": "yes24网站",
-      "onboard_time": 1717596797,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 150045,
@@ -1995,6 +2011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136992,
+      "num": 136992,
+      "word": "新疆你无需宣传 有钱我自会出发",
+      "onboard_time": 1717596618,
+      "rank": 42,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 135896,
       "num": 135896,
       "word": "周大福员工回应深圳工厂停工停产",
@@ -2131,14 +2155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122770,
-      "num": 122770,
-      "word": "新疆你无需宣传 有钱我自会出发",
-      "onboard_time": 1717596618,
-      "rank": 42,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 122436,
       "num": 122436,
       "word": "苹果市值逼近3万亿",
@@ -2211,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118269,
+      "num": 118269,
+      "word": "可以叫我开车但不能叫我停车",
+      "onboard_time": 1717594279,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118204,
       "num": 118204,
       "word": "狗狗被剃毛后不认识自己了",
@@ -2225,14 +2249,6 @@
       "onboard_time": 1717551259,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117086,
-      "num": 117086,
-      "word": "可以叫我开车但不能叫我停车",
-      "onboard_time": 1717594279,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 116992,
@@ -2801,6 +2817,14 @@
       "onboard_time": 1717512679,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 61547,
+      "num": 204766,
+      "word": "老师12年高考前宿舍内彻夜守护学生",
+      "onboard_time": 1717595839,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 58563,
