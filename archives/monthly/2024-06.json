@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717586193333,
+  "endTime": 1717587329488,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -1355,6 +1355,14 @@
       "category": "财经,美食"
     },
     {
+      "raw_hot": 749515,
+      "num": 231459,
+      "word": "月经变少是卵巢衰老的信号吗",
+      "onboard_time": 1717583418,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 747629,
       "num": 405387,
       "word": "科学家确认熬夜损伤大脑",
@@ -1491,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706179,
+      "num": 227068,
+      "word": "建议最近不要轻易离职",
+      "onboard_time": 1717586058,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 694912,
       "num": 273284,
       "word": "茅台冰淇淋买一送一没人吃",
@@ -1609,14 +1625,6 @@
       "onboard_time": 1717303098,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 671672,
-      "num": 231459,
-      "word": "月经变少是卵巢衰老的信号吗",
-      "onboard_time": 1717583418,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 671063,
@@ -1825,6 +1833,14 @@
       "onboard_time": 1717231817,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 621976,
+      "num": 229329,
+      "word": "游客吐槽阿勒泰旅游太贵了",
+      "onboard_time": 1717583059,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 620512,
@@ -2633,14 +2649,6 @@
       "onboard_time": 1717312517,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 474566,
-      "num": 229329,
-      "word": "游客吐槽阿勒泰旅游太贵了",
-      "onboard_time": 1717583059,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 473983,
@@ -3923,6 +3931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343231,
+      "num": 224217,
+      "word": "lmf音乐节 取不取消",
+      "onboard_time": 1717585097,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 343069,
       "num": 343069,
       "word": "藏海传",
@@ -4515,14 +4531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 297741,
-      "num": 227068,
-      "word": "建议最近不要轻易离职",
-      "onboard_time": 1717586058,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 297678,
       "num": 297678,
       "word": "刘亦菲草地牵狗",
@@ -4899,6 +4907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274497,
+      "num": 139827,
+      "word": "B太 水果礼盒触碰了商家的逆鳞",
+      "onboard_time": 1717586778,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 274357,
       "num": 274357,
       "word": "墨西哥女子试图与火车自拍被撞身亡",
@@ -4961,14 +4977,6 @@
       "onboard_time": 1717308138,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 271436,
-      "num": 224217,
-      "word": "lmf音乐节 取不取消",
-      "onboard_time": 1717585097,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 271020,
@@ -7291,11 +7299,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186508,
+      "num": 186508,
+      "word": "外交部驳斥拜登涉台言论",
+      "onboard_time": 1717587137,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186501,
       "num": 164129,
       "word": "肖战藏海反差感",
       "onboard_time": 1717336459,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186401,
+      "num": 165283,
+      "word": "墨雨云间赵晴状态",
+      "onboard_time": 1717584978,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -8451,14 +8475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160141,
-      "num": 160141,
-      "word": "墨雨云间赵晴状态",
-      "onboard_time": 1717584978,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 160077,
       "num": 253035,
       "word": "尚雯婕去隔壁歌手吧",
@@ -8961,6 +8977,14 @@
       "onboard_time": 1717392381,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149800,
+      "num": 149800,
+      "word": "面张力",
+      "onboard_time": 1717585699,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 149569,
@@ -11187,6 +11211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111483,
+      "num": 174224,
+      "word": "被资助女生谈高考一定要证明自己",
+      "onboard_time": 1717586838,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111331,
       "num": 111331,
       "word": "谁给suni孙夏铃做的妆造",
@@ -11225,14 +11257,6 @@
       "onboard_time": 1717467498,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110953,
-      "num": 110953,
-      "word": "面张力",
-      "onboard_time": 1717585699,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 110878,
@@ -11305,6 +11329,14 @@
       "onboard_time": 1717228277,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109072,
+      "num": 109072,
+      "word": "福宝睫毛又长又翘",
+      "onboard_time": 1717586958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 109045,
@@ -11715,6 +11747,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 101358,
+      "num": 101358,
+      "word": "公办中小学招聘不进编教师引关注",
+      "onboard_time": 1717587257,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 101275,
       "num": 101275,
       "word": "高考是高高兴兴去考试",
@@ -11769,6 +11809,14 @@
       "onboard_time": 1717423219,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100007,
+      "num": 100007,
+      "word": "高叶 代拍来换个相机啊",
+      "onboard_time": 1717587257,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 99994,
@@ -11827,6 +11875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98435,
+      "num": 98435,
+      "word": "美力618",
+      "onboard_time": 1717586118,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 98426,
       "num": 98426,
       "word": "杨丞琳演唱会",
@@ -11865,14 +11921,6 @@
       "onboard_time": 1717295958,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97552,
-      "num": 97552,
-      "word": "美力618",
-      "onboard_time": 1717586118,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 97164,
@@ -12099,6 +12147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84998,
+      "num": 264029,
+      "word": "看房后换中介购房算跳单吗",
+      "onboard_time": 1717585218,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 84841,
       "num": 874122,
       "word": "嫦娥六号落月实况",
@@ -12308,7 +12364,7 @@
     },
     {
       "raw_hot": 77979,
-      "num": 106938,
+      "num": 126872,
       "word": "为高考加油的赛道好挤啊",
       "onboard_time": 1717583118,
       "rank": 46,
@@ -13107,14 +13163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48626,
-      "num": 264029,
-      "word": "看房后换中介购房算跳单吗",
-      "onboard_time": 1717585218,
-      "rank": 9,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 48382,
       "num": 572559,
       "word": "班主任带亲手种向日葵拍高三毕业照",
@@ -13635,6 +13683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24523,
+      "num": 164893,
+      "word": "田雨晒范闲王启年花絮照",
+      "onboard_time": 1717583476,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23169,
       "num": 35358,
       "word": "墨雨云间 复仇爽剧",
@@ -13737,14 +13793,6 @@
       "onboard_time": 1717315637,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18753,
-      "num": 164893,
-      "word": "田雨晒范闲王启年花絮照",
-      "onboard_time": 1717583476,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 18257,

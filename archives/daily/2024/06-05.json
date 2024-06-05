@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717586193333,
+  "endTime": 1717587329488,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 749515,
+      "num": 231459,
+      "word": "月经变少是卵巢衰老的信号吗",
+      "onboard_time": 1717583418,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 724958,
       "num": 330221,
       "word": "网约车迟到8分钟致误机女子索赔",
@@ -224,6 +232,14 @@
       "word": "巨婴式婚姻",
       "onboard_time": 1717553957,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 706179,
+      "num": 227068,
+      "word": "建议最近不要轻易离职",
+      "onboard_time": 1717586058,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -241,14 +257,6 @@
       "onboard_time": 1717550119,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 671672,
-      "num": 231459,
-      "word": "月经变少是卵巢衰老的信号吗",
-      "onboard_time": 1717583418,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 671063,
@@ -281,6 +289,14 @@
       "onboard_time": 1717559179,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 621976,
+      "num": 229329,
+      "word": "游客吐槽阿勒泰旅游太贵了",
+      "onboard_time": 1717583059,
+      "rank": 25,
+      "category": "旅游"
     },
     {
       "raw_hot": 612767,
@@ -393,14 +409,6 @@
       "onboard_time": 1717559418,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 474566,
-      "num": 229329,
-      "word": "游客吐槽阿勒泰旅游太贵了",
-      "onboard_time": 1717583059,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 467716,
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343231,
+      "num": 224217,
+      "word": "lmf音乐节 取不取消",
+      "onboard_time": 1717585097,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 338414,
       "num": 338414,
       "word": "BW2024官宣定档",
@@ -683,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297741,
-      "num": 227068,
-      "word": "建议最近不要轻易离职",
-      "onboard_time": 1717586058,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 293534,
       "num": 293534,
       "word": "王星越说的姜二是姜雪宁还是姜梨",
@@ -731,6 +739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 274497,
+      "num": 139827,
+      "word": "B太 水果礼盒触碰了商家的逆鳞",
+      "onboard_time": 1717586778,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 274357,
       "num": 274357,
       "word": "墨西哥女子试图与火车自拍被撞身亡",
@@ -753,14 +769,6 @@
       "onboard_time": 1717548738,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271436,
-      "num": 224217,
-      "word": "lmf音乐节 取不取消",
-      "onboard_time": 1717585097,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 271020,
@@ -1235,6 +1243,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 186508,
+      "num": 186508,
+      "word": "外交部驳斥拜登涉台言论",
+      "onboard_time": 1717587137,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 186401,
+      "num": 165283,
+      "word": "墨雨云间赵晴状态",
+      "onboard_time": 1717584978,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185349,
       "num": 185349,
       "word": "火树积分又垫底了",
@@ -1419,14 +1443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160141,
-      "num": 160141,
-      "word": "墨雨云间赵晴状态",
-      "onboard_time": 1717584978,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158253,
       "num": 158253,
       "word": "汪文斌候任驻柬埔寨大使",
@@ -1513,6 +1529,14 @@
       "onboard_time": 1717549699,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 149800,
+      "num": 149800,
+      "word": "面张力",
+      "onboard_time": 1717585699,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 149205,
@@ -1723,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130090,
+      "num": 130090,
+      "word": "歌手",
+      "onboard_time": 1717585939,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128533,
       "num": 413204,
       "word": "大个子学生窝不进小课桌",
@@ -1875,14 +1907,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 115665,
-      "num": 115665,
-      "word": "歌手",
-      "onboard_time": 1717585939,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115391,
       "num": 115391,
       "word": "灵儿九尾黑白天使大片",
@@ -1923,12 +1947,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 110953,
-      "num": 110953,
-      "word": "面张力",
-      "onboard_time": 1717585699,
-      "rank": 39,
-      "category": "美食"
+      "raw_hot": 111483,
+      "num": 174224,
+      "word": "被资助女生谈高考一定要证明自己",
+      "onboard_time": 1717586838,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 110822,
@@ -1953,6 +1977,14 @@
       "onboard_time": 1717579338,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 109072,
+      "num": 109072,
+      "word": "福宝睫毛又长又翘",
+      "onboard_time": 1717586958,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 107956,
@@ -2035,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101358,
+      "num": 101358,
+      "word": "公办中小学招聘不进编教师引关注",
+      "onboard_time": 1717587257,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 101275,
       "num": 101275,
       "word": "高考是高高兴兴去考试",
@@ -2059,6 +2099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100007,
+      "num": 100007,
+      "word": "高叶 代拍来换个相机啊",
+      "onboard_time": 1717587257,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98576,
       "num": 98576,
       "word": "雷军建议考生放松心情",
@@ -2067,20 +2115,20 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 98435,
+      "num": 98435,
+      "word": "美力618",
+      "onboard_time": 1717586118,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 97631,
       "num": 97631,
       "word": "吴镇宇和陈楚生唱了两遍友情岁月",
       "onboard_time": 1717514718,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97552,
-      "num": 97552,
-      "word": "美力618",
-      "onboard_time": 1717586118,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 97164,
@@ -2179,6 +2227,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 84998,
+      "num": 264029,
+      "word": "看房后换中介购房算跳单吗",
+      "onboard_time": 1717585218,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 81626,
       "num": 81626,
       "word": "墨雨云间追剧日历",
@@ -2212,7 +2268,7 @@
     },
     {
       "raw_hot": 77979,
-      "num": 106938,
+      "num": 126872,
       "word": "为高考加油的赛道好挤啊",
       "onboard_time": 1717583118,
       "rank": 46,
@@ -2427,14 +2483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 48626,
-      "num": 264029,
-      "word": "看房后换中介购房算跳单吗",
-      "onboard_time": 1717585218,
-      "rank": 9,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 48193,
       "num": 48193,
       "word": "德约因伤退赛",
@@ -2515,6 +2563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 24523,
+      "num": 164893,
+      "word": "田雨晒范闲王启年花絮照",
+      "onboard_time": 1717583476,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23169,
       "num": 35358,
       "word": "墨雨云间 复仇爽剧",
@@ -2528,14 +2584,6 @@
       "word": "田雨冲浪比王启年轻功还快",
       "onboard_time": 1717578318,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 18753,
-      "num": 164893,
-      "word": "田雨晒范闲王启年花絮照",
-      "onboard_time": 1717583476,
-      "rank": 39,
       "category": "剧集"
     },
     {
