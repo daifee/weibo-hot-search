@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717629620128,
+  "endTime": 1717630539482,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -1579,6 +1579,14 @@
       "category": "幽默,科学科普"
     },
     {
+      "raw_hot": 610212,
+      "num": 610212,
+      "word": "官方回应B太长沙夜市打假",
+      "onboard_time": 1717596379,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 609361,
       "num": 527682,
       "word": "高海宁 没有男人不行吗",
@@ -2147,14 +2155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 495233,
-      "num": 495233,
-      "word": "官方回应B太长沙夜市打假",
-      "onboard_time": 1717596379,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 493231,
       "num": 493231,
       "word": "剑网3喊话逆水寒删天赏",
@@ -2425,6 +2425,14 @@
       "onboard_time": 1717571476,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 449922,
+      "num": 130392,
+      "word": "周大福有员工称收到N+3赔偿",
+      "onboard_time": 1717618631,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449813,
@@ -2995,14 +3003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 385323,
-      "num": 106260,
-      "word": "周大福有员工称收到N+3赔偿",
-      "onboard_time": 1717618631,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 384836,
       "num": 384836,
       "word": "姆巴佩加盟皇马",
@@ -3113,6 +3113,14 @@
       "onboard_time": 1717426759,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369069,
+      "num": 369069,
+      "word": "2024高考",
+      "onboard_time": 1717606635,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 368582,
@@ -4561,14 +4569,6 @@
       "onboard_time": 1717500677,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241981,
-      "num": 241981,
-      "word": "2024高考",
-      "onboard_time": 1717606635,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 240593,
@@ -6307,6 +6307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181625,
+      "num": 181625,
+      "word": "TF三代出道战禁止线下应援",
+      "onboard_time": 1717621811,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 181456,
       "num": 181456,
       "word": "没有男生能拒绝一根笔直的木棍",
@@ -6625,6 +6633,14 @@
       "onboard_time": 1717512440,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173622,
+      "num": 173622,
+      "word": "高考倒计时1天",
+      "onboard_time": 1717629855,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 173453,
@@ -7491,14 +7507,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 149270,
-      "num": 149270,
-      "word": "TF三代出道战禁止线下应援",
-      "onboard_time": 1717621811,
-      "rank": 7,
-      "category": "演出"
-    },
-    {
       "raw_hot": 149231,
       "num": 149231,
       "word": "周杰伦王俊凯合唱",
@@ -8283,6 +8291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130069,
+      "num": 130069,
+      "word": "官方回应种地吧音乐会线上收费",
+      "onboard_time": 1717630095,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129873,
       "num": 129873,
       "word": "云台山瀑布的源头竟是几根水管",
@@ -8313,6 +8329,14 @@
       "onboard_time": 1717470317,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129315,
+      "num": 129315,
+      "word": "一人一句给高考生送祝福",
+      "onboard_time": 1717629555,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 128803,
@@ -10139,12 +10163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87238,
+      "num": 87238,
+      "word": "为啥天天刷牙还有口臭",
+      "onboard_time": 1717616711,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 87063,
       "num": 334597,
       "word": "萌兰在树上蛄蛹成毛毛虫",
       "onboard_time": 1717257258,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 86994,
+      "num": 86994,
+      "word": "不要把自己变成一个但是人",
+      "onboard_time": 1717629375,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 86484,
@@ -10225,6 +10265,14 @@
       "onboard_time": 1717433415,
       "rank": 32,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 84207,
+      "num": 84207,
+      "word": "孟子义现在终于可以选剧本了",
+      "onboard_time": 1717627214,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 83883,
@@ -10435,14 +10483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75062,
-      "num": 75062,
-      "word": "为啥天天刷牙还有口臭",
-      "onboard_time": 1717616711,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 74389,
       "num": 74389,
       "word": "上班和上学到底哪个更累",
@@ -10571,6 +10611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68942,
+      "num": 68942,
+      "word": "发现外婆家的小狗在努力讨好我",
+      "onboard_time": 1717630516,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68818,
       "num": 84247,
       "word": "乘风之夜组队选曲征集",
@@ -10633,6 +10681,14 @@
       "onboard_time": 1717503138,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66112,
+      "num": 66112,
+      "word": "没想到朋友圈置顶还能这么玩",
+      "onboard_time": 1717608672,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 64985,
@@ -10739,6 +10795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 61335,
+      "num": 61335,
+      "word": "当主人忘给猫咪喂饭",
+      "onboard_time": 1717629555,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61196,
       "num": 61196,
       "word": "李小冉适合当种田文女主",
@@ -10769,22 +10833,6 @@
       "onboard_time": 1717426759,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60771,
-      "num": 60771,
-      "word": "孟子义现在终于可以选剧本了",
-      "onboard_time": 1717627214,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 60159,
-      "num": 49482,
-      "word": "没想到朋友圈置顶还能这么玩",
-      "onboard_time": 1717608672,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 60092,
@@ -10947,6 +10995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53562,
+      "num": 53562,
+      "word": "南京中医院推出养发生发饮",
+      "onboard_time": 1717628294,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 53336,
       "num": 486010,
       "word": "南京地铁的高考仪式感",
@@ -11051,14 +11107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49701,
-      "num": 49701,
-      "word": "南京中医院推出养发生发饮",
-      "onboard_time": 1717628294,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 49466,
       "num": 84246,
       "word": "陈泽直播",
@@ -11161,14 +11209,6 @@
       "onboard_time": 1717428079,
       "rank": 9,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 43079,
-      "num": 43079,
-      "word": "不要把自己变成一个但是人",
-      "onboard_time": 1717629375,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 43020,
@@ -11307,14 +11347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37797,
-      "num": 42593,
-      "word": "一人一句给高考生送祝福",
-      "onboard_time": 1717629555,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 37116,
       "num": 195696,
       "word": "端午里的山东中医药文旅周",
@@ -11337,14 +11369,6 @@
       "onboard_time": 1717499477,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36229,
-      "num": 42581,
-      "word": "当主人忘给猫咪喂饭",
-      "onboard_time": 1717629555,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 35871,
@@ -11612,7 +11636,7 @@
     },
     {
       "raw_hot": 21846,
-      "num": 126088,
+      "num": 180978,
       "word": "高考前校长扮青蛙给学生们发礼物",
       "onboard_time": 1717629255,
       "rank": 12,

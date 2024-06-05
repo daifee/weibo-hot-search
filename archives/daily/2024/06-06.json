@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717629620128,
+  "endTime": 1717630539482,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -27,11 +27,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 495233,
-      "num": 495233,
+      "raw_hot": 610212,
+      "num": 610212,
       "word": "官方回应B太长沙夜市打假",
       "onboard_time": 1717596379,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482116,
+      "num": 179823,
+      "word": "老人被发现与小38岁保姆结婚后续",
+      "onboard_time": 1717582878,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -43,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449922,
+      "num": 130392,
+      "word": "周大福有员工称收到N+3赔偿",
+      "onboard_time": 1717618631,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447946,
       "num": 447946,
       "word": "李宇春 小宇",
@@ -52,27 +68,27 @@
     },
     {
       "raw_hot": 444827,
-      "num": 172610,
+      "num": 177420,
       "word": "医院开展男性根浴服务被处罚",
       "onboard_time": 1717579099,
       "rank": 11,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 433851,
-      "num": 133031,
-      "word": "老人被发现与小38岁保姆结婚后续",
-      "onboard_time": 1717582878,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 433012,
-      "num": 121339,
+      "num": 130350,
       "word": "亲姐姐总暗示我给外甥买东西",
       "onboard_time": 1717593438,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 397533,
+      "num": 397533,
+      "word": "公办中小学招聘不进编教师引关注",
+      "onboard_time": 1717587257,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 396358,
@@ -83,19 +99,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 385323,
-      "num": 106260,
-      "word": "周大福有员工称收到N+3赔偿",
-      "onboard_time": 1717618631,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356922,
-      "num": 356922,
-      "word": "公办中小学招聘不进编教师引关注",
-      "onboard_time": 1717587257,
-      "rank": 9,
+      "raw_hot": 369069,
+      "num": 369069,
+      "word": "2024高考",
+      "onboard_time": 1717606635,
+      "rank": 5,
       "category": "教育"
     },
     {
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 295212,
-      "num": 119882,
+      "num": 130212,
       "word": "建议最近不要轻易离职",
       "onboard_time": 1717586058,
       "rank": 21,
@@ -131,28 +139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257121,
-      "num": 119132,
-      "word": "读研后对研究生祛魅了",
-      "onboard_time": 1717603638,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 255137,
-      "num": 161415,
+      "raw_hot": 277714,
+      "num": 176356,
       "word": "5岁女童练舞站下腰摔倒致高位截瘫",
       "onboard_time": 1717594519,
       "rank": 16,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241981,
-      "num": 241981,
-      "word": "2024高考",
-      "onboard_time": 1717606635,
-      "rank": 5,
-      "category": "教育"
+      "raw_hot": 257121,
+      "num": 119132,
+      "word": "读研后对研究生祛魅了",
+      "onboard_time": 1717603638,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 233258,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181625,
+      "num": 181625,
+      "word": "TF三代出道战禁止线下应援",
+      "onboard_time": 1717621811,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177281,
       "num": 117898,
       "word": "yes24网站",
@@ -203,8 +211,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 158712,
-      "num": 116899,
+      "raw_hot": 173622,
+      "num": 173622,
+      "word": "高考倒计时1天",
+      "onboard_time": 1717629855,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 169561,
+      "num": 169561,
       "word": "印度总理莫迪提交辞呈",
       "onboard_time": 1717590318,
       "rank": 40,
@@ -219,20 +235,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153079,
+      "num": 153079,
+      "word": "游客吐槽阿勒泰旅游太贵了",
+      "onboard_time": 1717583059,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 149953,
       "num": 149953,
       "word": "王者貂蝉秒杀皮肤",
       "onboard_time": 1717587979,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 149270,
-      "num": 149270,
-      "word": "TF三代出道战禁止线下应援",
-      "onboard_time": 1717621811,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 145482,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 141882,
-      "num": 116937,
+      "num": 130080,
       "word": "建议高考可以用大学作为考场",
       "onboard_time": 1717593558,
       "rank": 28,
@@ -252,19 +268,27 @@
     },
     {
       "raw_hot": 133722,
-      "num": 113696,
+      "num": 133519,
       "word": "B太 水果礼盒触碰了商家的逆鳞",
       "onboard_time": 1717586778,
       "rank": 31,
       "category": "网红"
     },
     {
-      "raw_hot": 111642,
-      "num": 111642,
-      "word": "游客吐槽阿勒泰旅游太贵了",
-      "onboard_time": 1717583059,
-      "rank": 32,
-      "category": "旅游"
+      "raw_hot": 130069,
+      "num": 130069,
+      "word": "官方回应种地吧音乐会线上收费",
+      "onboard_time": 1717630095,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129315,
+      "num": 129315,
+      "word": "一人一句给高考生送祝福",
+      "onboard_time": 1717629555,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 106460,
@@ -339,12 +363,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87238,
+      "num": 87238,
+      "word": "为啥天天刷牙还有口臭",
+      "onboard_time": 1717616711,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86994,
+      "num": 86994,
+      "word": "不要把自己变成一个但是人",
+      "onboard_time": 1717629375,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84990,
       "num": 77537,
       "word": "姜梨白月光",
       "onboard_time": 1717600700,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84207,
+      "num": 84207,
+      "word": "孟子义现在终于可以选剧本了",
+      "onboard_time": 1717627214,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 77735,
@@ -379,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75062,
-      "num": 75062,
-      "word": "为啥天天刷牙还有口臭",
-      "onboard_time": 1717616711,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 74302,
       "num": 76188,
       "word": "猫咪模仿小宝宝坐进了婴儿椅",
@@ -403,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68942,
+      "num": 68942,
+      "word": "发现外婆家的小狗在努力讨好我",
+      "onboard_time": 1717630516,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67111,
       "num": 76099,
       "word": "歌手2024揭榜串讲人",
       "onboard_time": 1717589779,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66112,
+      "num": 66112,
+      "word": "没想到朋友圈置顶还能这么玩",
+      "onboard_time": 1717608672,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 66042,
@@ -427,28 +483,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61335,
+      "num": 61335,
+      "word": "当主人忘给猫咪喂饭",
+      "onboard_time": 1717629555,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60998,
       "num": 60998,
       "word": "终于知道饭店为什么要加葱香菜",
       "onboard_time": 1717612211,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 60771,
-      "num": 60771,
-      "word": "孟子义现在终于可以选剧本了",
-      "onboard_time": 1717627214,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 60159,
-      "num": 49482,
-      "word": "没想到朋友圈置顶还能这么玩",
-      "onboard_time": 1717608672,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 54388,
@@ -467,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53562,
+      "num": 53562,
+      "word": "南京中医院推出养发生发饮",
+      "onboard_time": 1717628294,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 52673,
       "num": 52673,
       "word": "徐艺洋运动就会恶心",
@@ -475,28 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49701,
-      "num": 49701,
-      "word": "南京中医院推出养发生发饮",
-      "onboard_time": 1717628294,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 49188,
       "num": 113857,
       "word": "都江堰已持续运行2280年",
       "onboard_time": 1717599559,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43079,
-      "num": 43079,
-      "word": "不要把自己变成一个但是人",
-      "onboard_time": 1717629375,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 42812,
@@ -521,22 +561,6 @@
       "onboard_time": 1717592779,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 37797,
-      "num": 42593,
-      "word": "一人一句给高考生送祝福",
-      "onboard_time": 1717629555,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 36229,
-      "num": 42581,
-      "word": "当主人忘给猫咪喂饭",
-      "onboard_time": 1717629555,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 33483,
@@ -572,7 +596,7 @@
     },
     {
       "raw_hot": 21846,
-      "num": 126088,
+      "num": 180978,
       "word": "高考前校长扮青蛙给学生们发礼物",
       "onboard_time": 1717629255,
       "rank": 12,
@@ -667,20 +691,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 9587,
+      "num": 467493,
+      "word": "我在五千年前等你",
+      "onboard_time": 1717559118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9560,
       "num": 43048,
       "word": "延时摄影看海菜花茈碧花绽放",
       "onboard_time": 1717614430,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 8165,
-      "num": 412015,
-      "word": "我在五千年前等你",
-      "onboard_time": 1717559118,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

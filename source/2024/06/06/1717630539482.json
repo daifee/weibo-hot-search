@@ -1,0 +1,410 @@
+{
+  "runTime": 1717630539482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1016464,
+        "num": 1016464,
+        "word": "养了6年的巨骨舌鱼把自己摔死了",
+        "onboard_time": 1717602196,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610212,
+        "num": 610212,
+        "word": "官方回应B太长沙夜市打假",
+        "onboard_time": 1717596379,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9587,
+        "num": 467493,
+        "word": "我在五千年前等你",
+        "onboard_time": 1717559118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397533,
+        "num": 397533,
+        "word": "公办中小学招聘不进编教师引关注",
+        "onboard_time": 1717587257,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 369069,
+        "num": 369069,
+        "word": "2024高考",
+        "onboard_time": 1717606635,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 340177,
+        "num": 340177,
+        "word": "爱奇艺 线下免费线上收费",
+        "onboard_time": 1717582219,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308279,
+        "num": 308279,
+        "word": "李宇春 小宇",
+        "onboard_time": 1717602378,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256941,
+        "num": 256941,
+        "word": "高考很大可能是考得最好的一次",
+        "onboard_time": 1717587737,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181625,
+        "num": 181625,
+        "word": "TF三代出道战禁止线下应援",
+        "onboard_time": 1717621811,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20421,
+        "num": 180978,
+        "word": "高考前校长扮青蛙给学生们发礼物",
+        "onboard_time": 1717629255,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482116,
+        "num": 179823,
+        "word": "老人被发现与小38岁保姆结婚后续",
+        "onboard_time": 1717582878,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307883,
+        "num": 177420,
+        "word": "医院开展男性根浴服务被处罚",
+        "onboard_time": 1717579099,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277714,
+        "num": 176356,
+        "word": "5岁女童练舞站下腰摔倒致高位截瘫",
+        "onboard_time": 1717594519,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259264,
+        "num": 173904,
+        "word": "朋友圈背景图",
+        "onboard_time": 1717598600,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173622,
+        "num": 173622,
+        "word": "高考倒计时1天",
+        "onboard_time": 1717629855,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169561,
+        "num": 169561,
+        "word": "印度总理莫迪提交辞呈",
+        "onboard_time": 1717590318,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 159181,
+        "num": 159181,
+        "word": "蒋依依 远景",
+        "onboard_time": 1717593320,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153079,
+        "num": 153079,
+        "word": "游客吐槽阿勒泰旅游太贵了",
+        "onboard_time": 1717583059,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 133519,
+        "num": 133519,
+        "word": "B太 水果礼盒触碰了商家的逆鳞",
+        "onboard_time": 1717586778,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 130482,
+        "num": 130482,
+        "word": "斗鱼退缴主播非法收益超1亿",
+        "onboard_time": 1717596859,
+        "rank": 19,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 449922,
+        "num": 130392,
+        "word": "周大福有员工称收到N+3赔偿",
+        "onboard_time": 1717618631,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304221,
+        "num": 130350,
+        "word": "亲姐姐总暗示我给外甥买东西",
+        "onboard_time": 1717593438,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201355,
+        "num": 130212,
+        "word": "建议最近不要轻易离职",
+        "onboard_time": 1717586058,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131454,
+        "num": 130080,
+        "word": "建议高考可以用大学作为考场",
+        "onboard_time": 1717593558,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130069,
+        "num": 130069,
+        "word": "官方回应种地吧音乐会线上收费",
+        "onboard_time": 1717630095,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129315,
+        "num": 129315,
+        "word": "一人一句给高考生送祝福",
+        "onboard_time": 1717629555,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116461,
+        "num": 116461,
+        "word": "刘恋和陈昊宇十年前就认识了",
+        "onboard_time": 1717598420,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111465,
+        "num": 111465,
+        "word": "王鹤棣继西瓜皮后又有神图",
+        "onboard_time": 1717588278,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99127,
+        "num": 99127,
+        "word": "皮肤变好带给我的变化有多大",
+        "onboard_time": 1717594938,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 91854,
+        "num": 91854,
+        "word": "王星越好帅",
+        "onboard_time": 1717592598,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90351,
+        "num": 90351,
+        "word": "3类癌症不致命无需过度治疗",
+        "onboard_time": 1717596560,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88214,
+        "num": 88214,
+        "word": "摄影师拍陶昕然母女穿帮了",
+        "onboard_time": 1717601539,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87238,
+        "num": 87238,
+        "word": "为啥天天刷牙还有口臭",
+        "onboard_time": 1717616711,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86994,
+        "num": 86994,
+        "word": "不要把自己变成一个但是人",
+        "onboard_time": 1717629375,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86706,
+        "num": 86706,
+        "word": "重庆文旅发了肖战",
+        "onboard_time": 1717593619,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84207,
+        "num": 84207,
+        "word": "孟子义现在终于可以选剧本了",
+        "onboard_time": 1717627214,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77409,
+        "num": 77409,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68942,
+        "num": 68942,
+        "word": "发现外婆家的小狗在努力讨好我",
+        "onboard_time": 1717630516,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67215,
+        "num": 67215,
+        "word": "刘亦菲19岁时的采访",
+        "onboard_time": 1717605615,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66112,
+        "num": 66112,
+        "word": "没想到朋友圈置顶还能这么玩",
+        "onboard_time": 1717608672,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63461,
+        "num": 63461,
+        "word": "月经变少是卵巢衰老的信号吗",
+        "onboard_time": 1717583418,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 63077,
+        "num": 63077,
+        "word": "96版一帘幽梦女主近照",
+        "onboard_time": 1717600039,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61335,
+        "num": 61335,
+        "word": "当主人忘给猫咪喂饭",
+        "onboard_time": 1717629555,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60381,
+        "num": 60381,
+        "word": "歌手2024揭榜串讲人",
+        "onboard_time": 1717589779,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57541,
+        "num": 57541,
+        "word": "邓为翻牌",
+        "onboard_time": 1717588578,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57418,
+        "num": 57418,
+        "word": "斗鱼一季度亏损8800万元",
+        "onboard_time": 1717599139,
+        "rank": 45,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 55694,
+        "num": 55694,
+        "word": "终于知道饭店为什么要加葱香菜",
+        "onboard_time": 1717612211,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 53711,
+        "num": 53711,
+        "word": "王者貂蝉秒杀皮肤",
+        "onboard_time": 1717587979,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 53562,
+        "num": 53562,
+        "word": "南京中医院推出养发生发饮",
+        "onboard_time": 1717628294,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50285,
+        "num": 50285,
+        "word": "99年高三老师哭的比学生还伤心",
+        "onboard_time": 1717591339,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
+    }
+  }
+}
