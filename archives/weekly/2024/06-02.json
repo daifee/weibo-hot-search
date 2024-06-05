@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717579407110,
+  "endTime": 1717580128703,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -1148,7 +1148,7 @@
     },
     {
       "raw_hot": 694912,
-      "num": 241278,
+      "num": 251914,
       "word": "茅台冰淇淋买一送一没人吃",
       "onboard_time": 1717572737,
       "rank": 30,
@@ -1643,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567821,
+      "num": 496267,
+      "word": "周也睡到孟子义家去了",
+      "onboard_time": 1717578137,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 566024,
       "num": 566024,
       "word": "孙颖莎vs陈梦",
@@ -1891,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 514803,
+      "num": 514803,
+      "word": "胡歌谈游本昌放弃白玉兰奖",
+      "onboard_time": 1717574898,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 512230,
       "num": 512230,
       "word": "孙颖莎vs王曼昱",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1717311857,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 491569,
+      "num": 491569,
+      "word": "医院开展男性根浴服务被处罚",
+      "onboard_time": 1717579099,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 488835,
@@ -2163,14 +2187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 456153,
-      "num": 456153,
-      "word": "胡歌谈游本昌放弃白玉兰奖",
-      "onboard_time": 1717574898,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 456113,
       "num": 369503,
       "word": "2025QS世界大学排名",
@@ -2248,6 +2264,14 @@
       "word": "李梦长公主好疯",
       "onboard_time": 1717508118,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 441657,
+      "num": 441657,
+      "word": "优酷客服回应墨雨云间时长被疑违规",
+      "onboard_time": 1717574117,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -2393,14 +2417,6 @@
       "onboard_time": 1717233377,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 427007,
-      "num": 427007,
-      "word": "优酷客服回应墨雨云间时长被疑违规",
-      "onboard_time": 1717574117,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 426917,
@@ -2633,14 +2649,6 @@
       "onboard_time": 1717310897,
       "rank": 8,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 396547,
-      "num": 396547,
-      "word": "周也睡到孟子义家去了",
-      "onboard_time": 1717578137,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 396120,
@@ -3027,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347649,
+      "num": 445341,
+      "word": "公积金房贷利率下调有何影响",
+      "onboard_time": 1717574417,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346876,
       "num": 346876,
       "word": "巴勒斯坦儿童",
@@ -3353,14 +3369,6 @@
       "onboard_time": 1717508538,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308346,
-      "num": 445341,
-      "word": "公积金房贷利率下调有何影响",
-      "onboard_time": 1717574417,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305776,
@@ -3761,6 +3769,14 @@
       "onboard_time": 1717456696,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276408,
+      "num": 276408,
+      "word": "6月进口网络游戏版号审批公布",
+      "onboard_time": 1717577719,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 276187,
@@ -4201,14 +4217,6 @@
       "onboard_time": 1717500677,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241684,
-      "num": 241684,
-      "word": "6月进口网络游戏版号审批公布",
-      "onboard_time": 1717577719,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 240593,
@@ -5779,14 +5787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 182987,
-      "num": 182987,
-      "word": "医院开展男性根浴服务被处罚",
-      "onboard_time": 1717579099,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 181991,
       "num": 325784,
       "word": "商户卖假牛肉被揭穿后摔相机",
@@ -6051,6 +6051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 173901,
+      "num": 173901,
+      "word": "拼车拼到一只小狗乘客",
+      "onboard_time": 1717574956,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173802,
       "num": 149017,
       "word": "孙颖莎发布会现场把奖杯丢了",
@@ -6153,14 +6161,6 @@
       "onboard_time": 1717286654,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172087,
-      "num": 172087,
-      "word": "拼车拼到一只小狗乘客",
-      "onboard_time": 1717574956,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 171926,
@@ -7057,6 +7057,14 @@
       "onboard_time": 1717553538,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 145074,
+      "num": 145074,
+      "word": "蔡徐坤地广有新的打开方式",
+      "onboard_time": 1717579639,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 144918,
@@ -8075,6 +8083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123173,
+      "num": 123173,
+      "word": "没想到熊猫也有人教版",
+      "onboard_time": 1717576939,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122848,
       "num": 122848,
       "word": "tbz票价",
@@ -8176,14 +8192,6 @@
       "word": "重新定义疆浙沪包邮",
       "onboard_time": 1717492999,
       "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 120982,
-      "num": 120982,
-      "word": "没想到熊猫也有人教版",
-      "onboard_time": 1717576939,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -8723,6 +8731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109682,
+      "num": 109682,
+      "word": "黄冠亨 公司的规矩就是规矩",
+      "onboard_time": 1717579338,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 109035,
       "num": 109035,
       "word": "脚总感觉冰凉或是甲状腺功能减退",
@@ -9051,12 +9067,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 101183,
-      "num": 101183,
-      "word": "黄冠亨 公司的规矩就是规矩",
-      "onboard_time": 1717579338,
-      "rank": 49,
-      "category": "音乐"
+      "raw_hot": 101049,
+      "num": 531170,
+      "word": "聪明药真的能提高成绩吗",
+      "onboard_time": 1717578018,
+      "rank": 8,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 100946,
@@ -9907,14 +9923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56808,
-      "num": 531170,
-      "word": "聪明药真的能提高成绩吗",
-      "onboard_time": 1717578018,
-      "rank": 8,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 56761,
       "num": 153235,
       "word": "中石化回应八大油田上架淘宝",
@@ -9993,6 +10001,14 @@
       "onboard_time": 1717263554,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 52492,
+      "num": 464311,
+      "word": "子弟兵守护的南海明珠太美了",
+      "onboard_time": 1717577778,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52427,
@@ -10499,6 +10515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21466,
+      "num": 157950,
+      "word": "田雨冲浪比王启年轻功还快",
+      "onboard_time": 1717578318,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21152,
       "num": 134676,
       "word": "田雨余皑磊直播",
@@ -10537,14 +10561,6 @@
       "onboard_time": 1717260976,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17068,
-      "num": 157950,
-      "word": "田雨冲浪比王启年轻功还快",
-      "onboard_time": 1717578318,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 16920,
