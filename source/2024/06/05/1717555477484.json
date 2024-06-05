@@ -1,0 +1,410 @@
+{
+  "runTime": 1717555477484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1129813,
+        "num": 1414362,
+        "word": "苹果截图 诈骗骗局",
+        "onboard_time": 1717552577,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 806319,
+        "num": 806319,
+        "word": "剧组ICU拍剧竟让患者家属哭小声点",
+        "onboard_time": 1717551676,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80266,
+        "num": 724568,
+        "word": "五星红旗在月亮之上",
+        "onboard_time": 1717510699,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5736513,
+        "num": 681565,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1670182,
+        "num": 595288,
+        "word": "出差疑被老板强奸隔壁房客录下证据",
+        "onboard_time": 1717548799,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1376333,
+        "num": 411798,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398243,
+        "num": 398243,
+        "word": "墨雨云间里的纪凌尘",
+        "onboard_time": 1717548498,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337081,
+        "num": 337081,
+        "word": "女装尺码越来越小了",
+        "onboard_time": 1717552637,
+        "rank": 7,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 226113,
+        "num": 226113,
+        "word": "东方甄选回应嚎叫式直播",
+        "onboard_time": 1717552038,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 25482,
+        "num": 225049,
+        "word": "回家的路是我们最想走的路",
+        "onboard_time": 1717554198,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1109710,
+        "num": 218905,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325354,
+        "num": 208970,
+        "word": "长期护肤和不护肤的区别有多大",
+        "onboard_time": 1717547839,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 285067,
+        "num": 203676,
+        "word": "12306回应高铁新添优选一等座",
+        "onboard_time": 1717545017,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201269,
+        "num": 201269,
+        "word": "墨雨云间时长",
+        "onboard_time": 1717554557,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200396,
+        "num": 200396,
+        "word": "原神开门",
+        "onboard_time": 1717554318,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198583,
+        "num": 198583,
+        "word": "种地吧",
+        "onboard_time": 1717554437,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190171,
+        "num": 190171,
+        "word": "距离2024高考还有2天",
+        "onboard_time": 1717546098,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189722,
+        "num": 189722,
+        "word": "今天芒种应该吃点啥",
+        "onboard_time": 1717550418,
+        "rank": 17,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 185983,
+        "num": 185983,
+        "word": "没了董宇辉东方甄选只能乱七八糟吗",
+        "onboard_time": 1717555098,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 183417,
+        "num": 183417,
+        "word": "医院回应剧组让患者家属小声点哭",
+        "onboard_time": 1717555277,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724958,
+        "num": 183415,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629084,
+        "num": 182918,
+        "word": "突然发现九月是调休大月",
+        "onboard_time": 1717550119,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 548013,
+        "num": 182493,
+        "word": "女子将15只大虫藏女童身后过关",
+        "onboard_time": 1717549877,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167685,
+        "num": 182280,
+        "word": "阿沁公开飞儿乐团创作录音",
+        "onboard_time": 1717548438,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 302779,
+        "num": 181616,
+        "word": "巨婴式婚姻",
+        "onboard_time": 1717553957,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301419,
+        "num": 181476,
+        "word": "她女扮男装43年终于火了",
+        "onboard_time": 1717552819,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233671,
+        "num": 181068,
+        "word": "詹姆斯生气不再和欧文搭档",
+        "onboard_time": 1717554017,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202678,
+        "num": 180748,
+        "word": "为什么夏天不敢穿黄色衣服出门",
+        "onboard_time": 1717550838,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 189125,
+        "num": 180243,
+        "word": "2025QS世界大学排名",
+        "onboard_time": 1717542675,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165704,
+        "num": 179853,
+        "word": "斯洛文尼亚宣布承认巴勒斯坦国",
+        "onboard_time": 1717547419,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179806,
+        "num": 179806,
+        "word": "世界跑步日",
+        "onboard_time": 1717555098,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175636,
+        "num": 175636,
+        "word": "终于见到小说里的蛋糕了",
+        "onboard_time": 1717554918,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168432,
+        "num": 168432,
+        "word": "张艺兴24岁时街头运动风妆造",
+        "onboard_time": 1717554498,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163342,
+        "num": 163342,
+        "word": "阿娇阿Sa揽腰嘟嘴照",
+        "onboard_time": 1717554979,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159081,
+        "num": 159081,
+        "word": "端午之后七八月份一个假都没有",
+        "onboard_time": 1717543636,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157498,
+        "num": 157498,
+        "word": "关晓彤给蔡国庆化妆",
+        "onboard_time": 1717553718,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142836,
+        "num": 142836,
+        "word": "父亲称孩子因多看两眼遭陌生人掐脖",
+        "onboard_time": 1717545017,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133842,
+        "num": 133842,
+        "word": "芒种一过就要高考了",
+        "onboard_time": 1717545857,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 127466,
+        "num": 127466,
+        "word": "杜海涛上岛了",
+        "onboard_time": 1717553179,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124286,
+        "num": 124286,
+        "word": "控制饮食和坚持运动哪个更有效",
+        "onboard_time": 1717553538,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115757,
+        "num": 115757,
+        "word": "董璇 天天有人哭错坟",
+        "onboard_time": 1717506617,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115504,
+        "num": 115504,
+        "word": "于东来称大多数企业家不懂得生命意义",
+        "onboard_time": 1717551439,
+        "rank": 41,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 114018,
+        "num": 114018,
+        "word": "芒种",
+        "onboard_time": 1717542614,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113930,
+        "num": 113930,
+        "word": "婚纱照发朋友圈被人说不好看",
+        "onboard_time": 1717510218,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113662,
+        "num": 113662,
+        "word": "王星越壁纸",
+        "onboard_time": 1717546040,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109202,
+        "num": 109202,
+        "word": "致高考考生和家长的温馨提示",
+        "onboard_time": 1717552339,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108682,
+        "num": 108682,
+        "word": "女子酒店洗澡被陌生男开门闯入",
+        "onboard_time": 1717514358,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104886,
+        "num": 104886,
+        "word": "王珞丹27年前做的裙子妈妈还留着",
+        "onboard_time": 1717552217,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101311,
+        "num": 101311,
+        "word": "结婚了就得有一份责任了",
+        "onboard_time": 1717545497,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99481,
+        "num": 99481,
+        "word": "辛芷蕾新作蛄蛹者",
+        "onboard_time": 1717553119,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向墨西哥当选总统致贺电#"
+    }
+  }
+}

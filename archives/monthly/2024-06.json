@@ -1,10 +1,10 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717554846054,
+  "endTime": 1717555477484,
   "band_list": [
     {
       "raw_hot": 5921224,
-      "num": 640766,
+      "num": 681565,
       "word": "王阳发文",
       "onboard_time": 1717550719,
       "rank": 3,
@@ -547,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1129813,
+      "num": 1531487,
+      "word": "苹果截图 诈骗骗局",
+      "onboard_time": 1717552577,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1124395,
       "num": 1124395,
       "word": "水泥猫",
@@ -729,14 +737,6 @@
       "onboard_time": 1717483277,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 949061,
-      "num": 1531487,
-      "word": "苹果截图 诈骗骗局",
-      "onboard_time": 1717552577,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 943726,
@@ -1008,6 +1008,14 @@
       "word": "900万网红大V被禁言",
       "onboard_time": 1717218377,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 806319,
+      "num": 806319,
+      "word": "剧组ICU拍剧竟让患者家属哭小声点",
+      "onboard_time": 1717551676,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1291,11 +1299,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 725193,
-      "num": 725193,
-      "word": "剧组ICU拍剧竟让患者家属哭小声点",
-      "onboard_time": 1717551676,
-      "rank": 47,
+      "raw_hot": 724958,
+      "num": 183415,
+      "word": "网约车迟到8分钟致误机女子索赔",
+      "onboard_time": 1717551318,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1336,14 +1344,6 @@
       "word": "高铁新增优选一等座",
       "onboard_time": 1717486516,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 701151,
-      "num": 167002,
-      "word": "网约车迟到8分钟致误机女子索赔",
-      "onboard_time": 1717551318,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3571,6 +3571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337081,
+      "num": 404403,
+      "word": "女装尺码越来越小了",
+      "onboard_time": 1717552637,
+      "rank": 8,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 336928,
       "num": 333073,
       "word": "阿沁公开飞儿乐团创作录音",
@@ -3964,7 +3972,7 @@
     },
     {
       "raw_hot": 304510,
-      "num": 165938,
+      "num": 181476,
       "word": "她女扮男装43年终于火了",
       "onboard_time": 1717552819,
       "rank": 23,
@@ -3995,14 +4003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303123,
-      "num": 404403,
-      "word": "女装尺码越来越小了",
-      "onboard_time": 1717552637,
-      "rank": 8,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 302902,
       "num": 302902,
       "word": "最适合i人的职业出现了",
@@ -4017,6 +4017,14 @@
       "onboard_time": 1717289656,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 302779,
+      "num": 181616,
+      "word": "巨婴式婚姻",
+      "onboard_time": 1717553957,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 301903,
@@ -5075,6 +5083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233671,
+      "num": 181068,
+      "word": "詹姆斯生气不再和欧文搭档",
+      "onboard_time": 1717554017,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233665,
       "num": 198992,
       "word": "张雪峰称多占用员工1天都双倍奉还",
@@ -5219,20 +5235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226455,
-      "num": 157923,
-      "word": "詹姆斯生气不再和欧文搭档",
-      "onboard_time": 1717554017,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226311,
       "num": 226311,
       "word": "王勉 易建联",
       "onboard_time": 1717333100,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226113,
+      "num": 226113,
+      "word": "东方甄选回应嚎叫式直播",
+      "onboard_time": 1717552038,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 225658,
@@ -5297,14 +5313,6 @@
       "onboard_time": 1717312997,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223421,
-      "num": 223421,
-      "word": "东方甄选回应嚎叫式直播",
-      "onboard_time": 1717552038,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 223262,
@@ -5891,6 +5899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201269,
+      "num": 201269,
+      "word": "墨雨云间时长",
+      "onboard_time": 1717554557,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201106,
       "num": 171650,
       "word": "苗苗说终于选了女团舞",
@@ -5921,6 +5937,14 @@
       "onboard_time": 1717250598,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200396,
+      "num": 200396,
+      "word": "原神开门",
+      "onboard_time": 1717554318,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 200269,
@@ -6041,6 +6065,14 @@
       "onboard_time": 1717170560,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198583,
+      "num": 198583,
+      "word": "种地吧",
+      "onboard_time": 1717324877,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 198369,
@@ -6499,6 +6531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 185983,
+      "num": 185983,
+      "word": "没了董宇辉东方甄选只能乱七八糟吗",
+      "onboard_time": 1717555098,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 185924,
       "num": 185924,
       "word": "UP对战iG",
@@ -6595,20 +6635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183417,
+      "num": 183417,
+      "word": "医院回应剧组让患者家属小声点哭",
+      "onboard_time": 1717555277,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183145,
       "num": 183145,
       "word": "何洁戚薇陈昊宇蔡文静新综艺",
       "onboard_time": 1717254858,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182610,
-      "num": 182610,
-      "word": "原神开门",
-      "onboard_time": 1717554318,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 181991,
@@ -6665,6 +6705,14 @@
       "onboard_time": 1717415299,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179806,
+      "num": 179806,
+      "word": "世界跑步日",
+      "onboard_time": 1717555098,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 179522,
@@ -6849,6 +6897,14 @@
       "onboard_time": 1717246638,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175636,
+      "num": 175636,
+      "word": "终于见到小说里的蛋糕了",
+      "onboard_time": 1717554918,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 175519,
@@ -7139,6 +7195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168432,
+      "num": 168432,
+      "word": "张艺兴24岁时街头运动风妆造",
+      "onboard_time": 1717554498,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168230,
       "num": 168230,
       "word": "黄子弘凡肚子 看啥呢",
@@ -7225,14 +7289,6 @@
       "onboard_time": 1717330757,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166452,
-      "num": 166452,
-      "word": "墨雨云间时长",
-      "onboard_time": 1717554557,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 166415,
@@ -7345,6 +7401,14 @@
       "onboard_time": 1717414157,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163342,
+      "num": 163342,
+      "word": "阿娇阿Sa揽腰嘟嘴照",
+      "onboard_time": 1717554979,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163099,
@@ -7635,12 +7699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156530,
-      "num": 143905,
-      "word": "巨婴式婚姻",
-      "onboard_time": 1717553957,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 157498,
+      "num": 157498,
+      "word": "关晓彤给蔡国庆化妆",
+      "onboard_time": 1717553718,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 156447,
@@ -7979,14 +8043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149803,
-      "num": 142882,
-      "word": "关晓彤给蔡国庆化妆",
-      "onboard_time": 1717553718,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149569,
       "num": 149569,
       "word": "imp说线下换Uzi去",
@@ -8300,7 +8356,7 @@
     },
     {
       "raw_hot": 142426,
-      "num": 678400,
+      "num": 724568,
       "word": "五星红旗在月亮之上",
       "onboard_time": 1717510699,
       "rank": 2,
@@ -8489,14 +8545,6 @@
       "onboard_time": 1717487958,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138905,
-      "num": 138905,
-      "word": "张艺兴24岁时街头运动风妆造",
-      "onboard_time": 1717554498,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 138903,
@@ -9267,6 +9315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124286,
+      "num": 124286,
+      "word": "控制饮食和坚持运动哪个更有效",
+      "onboard_time": 1717553538,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 124245,
       "num": 124245,
       "word": "白鹿跑男学院风连衣裙",
@@ -9457,14 +9513,6 @@
       "onboard_time": 1717485438,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 120061,
-      "num": 120061,
-      "word": "控制饮食和坚持运动哪个更有效",
-      "onboard_time": 1717553538,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 119858,
@@ -10409,14 +10457,6 @@
       "onboard_time": 1717207397,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102242,
-      "num": 110098,
-      "word": "种地吧",
-      "onboard_time": 1717324877,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 101865,
