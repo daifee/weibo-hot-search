@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717614955822,
+  "endTime": 1717616072017,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -411,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 54388,
+      "num": 54388,
+      "word": "张雪峰一门课卖近两万元",
+      "onboard_time": 1717613472,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53977,
       "num": 53977,
       "word": "墨雨云间 双强cp",
@@ -467,14 +475,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 24991,
-      "num": 24991,
-      "word": "张雪峰一门课卖近两万元",
-      "onboard_time": 1717613472,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 23282,
       "num": 24912,
       "word": "人间失格音乐剧",
@@ -505,6 +505,14 @@
       "onboard_time": 1717592058,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15728,
+      "num": 17868,
+      "word": "你身上的狗味比我的还重",
+      "onboard_time": 1717615391,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 13119,
