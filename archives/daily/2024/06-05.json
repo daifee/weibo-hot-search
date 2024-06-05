@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717583827596,
+  "endTime": 1717586193333,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -9,6 +9,14 @@
       "onboard_time": 1717550719,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2659994,
+      "num": 2659994,
+      "word": "爱奇艺 线下免费线上收费",
+      "onboard_time": 1717582219,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 2400189,
@@ -41,14 +49,6 @@
       "onboard_time": 1717558938,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1498210,
-      "num": 1498210,
-      "word": "爱奇艺 线下免费线上收费",
-      "onboard_time": 1717582219,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 1476785,
@@ -128,6 +128,14 @@
       "word": "1亿元天价保单被保人0岁",
       "onboard_time": 1717575318,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928939,
+      "num": 259209,
+      "word": "老人被发现与小38岁保姆结婚后续",
+      "onboard_time": 1717582878,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -233,6 +241,14 @@
       "onboard_time": 1717550119,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 671672,
+      "num": 231459,
+      "word": "月经变少是卵巢衰老的信号吗",
+      "onboard_time": 1717583418,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 671063,
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 514366,
+      "num": 514366,
+      "word": "Uzi 抗韩",
+      "onboard_time": 1717582158,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 506652,
       "num": 306753,
       "word": "B太曝长沙夜市水果捞鬼秤",
@@ -371,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474566,
+      "num": 229329,
+      "word": "游客吐槽阿勒泰旅游太贵了",
+      "onboard_time": 1717583059,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 467716,
       "num": 467716,
       "word": "福宝吃的竹子是现砍的",
       "onboard_time": 1717573218,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 465676,
+      "num": 248688,
+      "word": "EXO和成员朋友见面必须通过允许",
+      "onboard_time": 1717584259,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 460102,
@@ -409,14 +449,6 @@
       "onboard_time": 1717571476,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 441705,
-      "num": 441705,
-      "word": "Uzi 抗韩",
-      "onboard_time": 1717582158,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 441657,
@@ -483,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 396647,
+      "num": 270883,
+      "word": "以前很火的电视剧都被做成辣条了",
+      "onboard_time": 1717581499,
+      "rank": 23,
+      "category": "作品衍生,美食"
+    },
+    {
       "raw_hot": 394494,
       "num": 445341,
       "word": "公积金房贷利率下调有何影响",
@@ -528,14 +568,6 @@
       "word": "三星堆博物馆游客抡凳子打架",
       "onboard_time": 1717545737,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348352,
-      "num": 155370,
-      "word": "老人被发现与小38岁保姆结婚后续",
-      "onboard_time": 1717582878,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -651,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297741,
+      "num": 227068,
+      "word": "建议最近不要轻易离职",
+      "onboard_time": 1717586058,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 293534,
       "num": 293534,
       "word": "王星越说的姜二是姜雪宁还是姜梨",
@@ -713,6 +753,14 @@
       "onboard_time": 1717548738,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271436,
+      "num": 224217,
+      "word": "lmf音乐节 取不取消",
+      "onboard_time": 1717585097,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 271020,
@@ -801,14 +849,6 @@
       "onboard_time": 1717515977,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256580,
-      "num": 256580,
-      "word": "以前很火的电视剧都被做成辣条了",
-      "onboard_time": 1717581499,
-      "rank": 23,
-      "category": "作品衍生,美食"
     },
     {
       "raw_hot": 248415,
@@ -1267,12 +1307,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 177144,
-      "num": 177144,
-      "word": "游客吐槽阿勒泰旅游太贵了",
-      "onboard_time": 1717583059,
-      "rank": 25,
-      "category": "旅游"
+      "raw_hot": 178868,
+      "num": 178868,
+      "word": "张子枫素颜逛公园",
+      "onboard_time": 1717583299,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177782,
+      "num": 165259,
+      "word": "九尾说假发还是有点吃力",
+      "onboard_time": 1717584438,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 176948,
@@ -1331,6 +1379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 164788,
+      "num": 164788,
+      "word": "猫咪误把小白鞋当成妈妈了",
+      "onboard_time": 1717585158,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164179,
       "num": 163488,
       "word": "那英唱哪首",
@@ -1363,12 +1419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158929,
-      "num": 158929,
-      "word": "月经变少是卵巢衰老的信号吗",
-      "onboard_time": 1717583418,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 160141,
+      "num": 160141,
+      "word": "墨雨云间赵晴状态",
+      "onboard_time": 1717584978,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 158253,
@@ -1419,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152791,
+      "num": 152791,
+      "word": "原来只是去食堂也是一件奢侈的事",
+      "onboard_time": 1717582816,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151130,
       "num": 151130,
       "word": "人生允许有多次重新选择",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1717549699,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 149205,
+      "num": 166235,
+      "word": "国足",
+      "onboard_time": 1717584259,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 145791,
@@ -1553,14 +1625,6 @@
       "onboard_time": 1717572317,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139203,
-      "num": 139203,
-      "word": "张子枫素颜逛公园",
-      "onboard_time": 1717583299,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 139146,
@@ -1675,6 +1739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125398,
+      "num": 125398,
+      "word": "张杰穿堂风",
+      "onboard_time": 1717584558,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 124665,
       "num": 481374,
       "word": "极端天气是不是变多了",
@@ -1689,14 +1761,6 @@
       "onboard_time": 1717558878,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 123869,
-      "num": 123869,
-      "word": "原来只是去食堂也是一件奢侈的事",
-      "onboard_time": 1717582816,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 123417,
@@ -1811,6 +1875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115665,
+      "num": 115665,
+      "word": "歌手",
+      "onboard_time": 1717585939,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115391,
       "num": 115391,
       "word": "灵儿九尾黑白天使大片",
@@ -1849,6 +1921,14 @@
       "onboard_time": 1717549579,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110953,
+      "num": 110953,
+      "word": "面张力",
+      "onboard_time": 1717585699,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 110822,
@@ -1899,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105990,
+      "num": 105990,
+      "word": "WE战胜LGD",
+      "onboard_time": 1717585877,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105916,
       "num": 105916,
       "word": "牧羊犬没羊的时候就牧猫",
@@ -1939,6 +2027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102147,
+      "num": 102147,
+      "word": "德约科维奇重伤无缘温网",
+      "onboard_time": 1717585757,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101275,
       "num": 101275,
       "word": "高考是高高兴兴去考试",
@@ -1955,6 +2051,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 100584,
+      "num": 100584,
+      "word": "毛坦厂妈妈们穿旗袍雨中送考",
+      "onboard_time": 1717585638,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98576,
       "num": 98576,
       "word": "雷军建议考生放松心情",
@@ -1969,6 +2073,22 @@
       "onboard_time": 1717514718,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97552,
+      "num": 97552,
+      "word": "美力618",
+      "onboard_time": 1717586118,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 97164,
+      "num": 97164,
+      "word": "迪丽热巴MV直拍",
+      "onboard_time": 1717584736,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 96323,
@@ -2307,6 +2427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48626,
+      "num": 264029,
+      "word": "看房后换中介购房算跳单吗",
+      "onboard_time": 1717585218,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 48193,
       "num": 48193,
       "word": "德约因伤退赛",
@@ -2321,6 +2449,14 @@
       "onboard_time": 1717507519,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47010,
+      "num": 278061,
+      "word": "没什么是买买买不能治愈的",
+      "onboard_time": 1717581977,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 45274,
@@ -2345,14 +2481,6 @@
       "onboard_time": 1717542253,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 32446,
-      "num": 278061,
-      "word": "没什么是买买买不能治愈的",
-      "onboard_time": 1717581977,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 30549,
@@ -2400,6 +2528,14 @@
       "word": "田雨冲浪比王启年轻功还快",
       "onboard_time": 1717578318,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18753,
+      "num": 164893,
+      "word": "田雨晒范闲王启年花絮照",
+      "onboard_time": 1717583476,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -2457,14 +2593,6 @@
       "onboard_time": 1717533430,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10420,
-      "num": 124322,
-      "word": "田雨晒范闲王启年花絮照",
-      "onboard_time": 1717583476,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 8952,

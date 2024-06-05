@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717583827596,
+  "endTime": 1717586193333,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -17,6 +17,14 @@
       "onboard_time": 1717377378,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2659994,
+      "num": 2659994,
+      "word": "爱奇艺 线下免费线上收费",
+      "onboard_time": 1717582219,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 2599837,
@@ -209,14 +217,6 @@
       "onboard_time": 1717411697,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1498210,
-      "num": 1498210,
-      "word": "爱奇艺 线下免费线上收费",
-      "onboard_time": 1717582219,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 1476785,
@@ -688,6 +688,14 @@
       "word": "武汉民警壮烈牺牲鲜血浸透警服",
       "onboard_time": 1717384579,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928939,
+      "num": 259209,
+      "word": "老人被发现与小38岁保姆结婚后续",
+      "onboard_time": 1717582878,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1265,6 +1273,14 @@
       "onboard_time": 1717303098,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 671672,
+      "num": 231459,
+      "word": "月经变少是卵巢衰老的信号吗",
+      "onboard_time": 1717583418,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 671063,
@@ -1923,6 +1939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 514366,
+      "num": 514366,
+      "word": "Uzi 抗韩",
+      "onboard_time": 1717582158,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 512230,
       "num": 512230,
       "word": "孙颖莎vs王曼昱",
@@ -2083,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474566,
+      "num": 229329,
+      "word": "游客吐槽阿勒泰旅游太贵了",
+      "onboard_time": 1717583059,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 473983,
       "num": 425455,
       "word": "孙丞潇上节目不满离席",
@@ -2137,6 +2169,14 @@
       "onboard_time": 1717501757,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465676,
+      "num": 248688,
+      "word": "EXO和成员朋友见面必须通过允许",
+      "onboard_time": 1717584259,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 465271,
@@ -2273,14 +2313,6 @@
       "onboard_time": 1717508118,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 441705,
-      "num": 441705,
-      "word": "Uzi 抗韩",
-      "onboard_time": 1717582158,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 441657,
@@ -2665,6 +2697,14 @@
       "onboard_time": 1717310897,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 396647,
+      "num": 270883,
+      "word": "以前很火的电视剧都被做成辣条了",
+      "onboard_time": 1717581499,
+      "rank": 23,
+      "category": "作品衍生,美食"
     },
     {
       "raw_hot": 396120,
@@ -3056,14 +3096,6 @@
       "word": "三星堆博物馆游客抡凳子打架",
       "onboard_time": 1717545737,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 348352,
-      "num": 155370,
-      "word": "老人被发现与小38岁保姆结婚后续",
-      "onboard_time": 1717582878,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3531,6 +3563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297741,
+      "num": 227068,
+      "word": "建议最近不要轻易离职",
+      "onboard_time": 1717586058,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 297678,
       "num": 297678,
       "word": "刘亦菲草地牵狗",
@@ -3875,6 +3915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271436,
+      "num": 224217,
+      "word": "lmf音乐节 取不取消",
+      "onboard_time": 1717585097,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 271020,
       "num": 225061,
       "word": "白鹿粉丝带编发",
@@ -4089,14 +4137,6 @@
       "onboard_time": 1717515977,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256580,
-      "num": 256580,
-      "word": "以前很火的电视剧都被做成辣条了",
-      "onboard_time": 1717581499,
-      "rank": 23,
-      "category": "作品衍生,美食"
     },
     {
       "raw_hot": 256353,
@@ -5955,6 +5995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 178868,
+      "num": 178868,
+      "word": "张子枫素颜逛公园",
+      "onboard_time": 1717583299,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178806,
       "num": 178806,
       "word": "张进为贾玲化的妆",
@@ -6011,6 +6059,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 177782,
+      "num": 165259,
+      "word": "九尾说假发还是有点吃力",
+      "onboard_time": 1717584438,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "肖战藏海传关门镜头",
@@ -6041,14 +6097,6 @@
       "onboard_time": 1717425198,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177144,
-      "num": 177144,
-      "word": "游客吐槽阿勒泰旅游太贵了",
-      "onboard_time": 1717583059,
-      "rank": 25,
-      "category": "旅游"
     },
     {
       "raw_hot": 176948,
@@ -6467,6 +6515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164788,
+      "num": 164788,
+      "word": "猫咪误把小白鞋当成妈妈了",
+      "onboard_time": 1717585158,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164509,
       "num": 161218,
       "word": "李小冉说庆余年3见",
@@ -6627,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160141,
+      "num": 160141,
+      "word": "墨雨云间赵晴状态",
+      "onboard_time": 1717584978,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159760,
       "num": 159760,
       "word": "广汽丰田致歉",
@@ -6649,14 +6713,6 @@
       "onboard_time": 1717297757,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158929,
-      "num": 158929,
-      "word": "月经变少是卵巢衰老的信号吗",
-      "onboard_time": 1717583418,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 158889,
@@ -6875,6 +6931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152791,
+      "num": 152791,
+      "word": "原来只是去食堂也是一件奢侈的事",
+      "onboard_time": 1717582816,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152646,
       "num": 152646,
       "word": "于正新剧",
@@ -7009,6 +7073,14 @@
       "onboard_time": 1717248738,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149205,
+      "num": 166235,
+      "word": "国足",
+      "onboard_time": 1717584259,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 148835,
@@ -7441,14 +7513,6 @@
       "onboard_time": 1717320138,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139203,
-      "num": 139203,
-      "word": "张子枫素颜逛公园",
-      "onboard_time": 1717583299,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 139146,
@@ -8075,6 +8139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125398,
+      "num": 125398,
+      "word": "张杰穿堂风",
+      "onboard_time": 1717584558,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125207,
       "num": 323542,
       "word": "奶爸把福宝内舍打扫得一尘不染",
@@ -8161,14 +8233,6 @@
       "onboard_time": 1717493238,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 123869,
-      "num": 123869,
-      "word": "原来只是去食堂也是一件奢侈的事",
-      "onboard_time": 1717582816,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 123803,
@@ -8827,6 +8891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110953,
+      "num": 110953,
+      "word": "面张力",
+      "onboard_time": 1717585699,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110878,
       "num": 110878,
       "word": "张小斐仿妆",
@@ -9067,6 +9139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105990,
+      "num": 105990,
+      "word": "WE战胜LGD",
+      "onboard_time": 1717585877,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105916,
       "num": 105916,
       "word": "牧羊犬没羊的时候就牧猫",
@@ -9187,6 +9267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102147,
+      "num": 102147,
+      "word": "德约科维奇重伤无缘温网",
+      "onboard_time": 1717585757,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101453,
       "num": 101453,
       "word": "人民海军版我有一个帽衫又萌又猛",
@@ -9233,6 +9321,14 @@
       "onboard_time": 1717505117,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100584,
+      "num": 100584,
+      "word": "毛坦厂妈妈们穿旗袍雨中送考",
+      "onboard_time": 1717585638,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 100011,
@@ -9321,6 +9417,22 @@
       "onboard_time": 1717295958,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97552,
+      "num": 97552,
+      "word": "美力618",
+      "onboard_time": 1717586118,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 97164,
+      "num": 97164,
+      "word": "迪丽热巴MV直拍",
+      "onboard_time": 1717584736,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 96969,
@@ -10267,6 +10379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48626,
+      "num": 264029,
+      "word": "看房后换中介购房算跳单吗",
+      "onboard_time": 1717585218,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 48382,
       "num": 572559,
       "word": "班主任带亲手种向日葵拍高三毕业照",
@@ -10289,6 +10409,14 @@
       "onboard_time": 1717435453,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47010,
+      "num": 278061,
+      "word": "没什么是买买买不能治愈的",
+      "onboard_time": 1717581977,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 45588,
@@ -10547,14 +10675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32446,
-      "num": 278061,
-      "word": "没什么是买买买不能治愈的",
-      "onboard_time": 1717581977,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 31415,
       "num": 195486,
       "word": "我们仨绿豆汤南北之争",
@@ -10731,6 +10851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18753,
+      "num": 164893,
+      "word": "田雨晒范闲王启年花絮照",
+      "onboard_time": 1717583476,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18257,
       "num": 259988,
       "word": "校长六一表演唱跳连劈两个叉",
@@ -10897,14 +11025,6 @@
       "onboard_time": 1717433654,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10420,
-      "num": 124322,
-      "word": "田雨晒范闲王启年花絮照",
-      "onboard_time": 1717583476,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 10077,

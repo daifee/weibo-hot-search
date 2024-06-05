@@ -1,0 +1,410 @@
+{
+  "runTime": 1717586193333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2659994,
+        "num": 2659994,
+        "word": "爱奇艺 线下免费线上收费",
+        "onboard_time": 1717582219,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514366,
+        "num": 514366,
+        "word": "Uzi 抗韩",
+        "onboard_time": 1717582158,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52769,
+        "num": 399609,
+        "word": "我在五千年前等你",
+        "onboard_time": 1717559118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530611,
+        "num": 384427,
+        "word": "徐艺洋运动就会恶心",
+        "onboard_time": 1717575498,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 368998,
+        "num": 368998,
+        "word": "1亿元天价保单被保人0岁",
+        "onboard_time": 1717575318,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274192,
+        "num": 274192,
+        "word": "国足若输泰国将基本无缘世界杯",
+        "onboard_time": 1717580417,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 527639,
+        "num": 271999,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396647,
+        "num": 270883,
+        "word": "以前很火的电视剧都被做成辣条了",
+        "onboard_time": 1717581499,
+        "rank": 7,
+        "category": "作品衍生,美食"
+      },
+      {
+        "raw_hot": 221920,
+        "num": 264970,
+        "word": "公积金房贷利率下调有何影响",
+        "onboard_time": 1717574417,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48626,
+        "num": 264029,
+        "word": "看房后换中介购房算跳单吗",
+        "onboard_time": 1717585218,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 928939,
+        "num": 259209,
+        "word": "老人被发现与小38岁保姆结婚后续",
+        "onboard_time": 1717582878,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773857,
+        "num": 255141,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 771520,
+        "num": 254820,
+        "word": "医院开展男性根浴服务被处罚",
+        "onboard_time": 1717579099,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541215,
+        "num": 250787,
+        "word": "韩国小学生连扇副校长5个耳光",
+        "onboard_time": 1717574298,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465676,
+        "num": 248688,
+        "word": "EXO和成员朋友见面必须通过允许",
+        "onboard_time": 1717584259,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364867,
+        "num": 244453,
+        "word": "山西一公职人员在小区遇刺身亡",
+        "onboard_time": 1717574778,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358909,
+        "num": 240213,
+        "word": "高海宁 没有男人不行吗",
+        "onboard_time": 1717577600,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284358,
+        "num": 239105,
+        "word": "周也睡到孟子义家去了",
+        "onboard_time": 1717578137,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47010,
+        "num": 235275,
+        "word": "没什么是买买买不能治愈的",
+        "onboard_time": 1717581977,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232851,
+        "num": 232851,
+        "word": "茅台冰淇淋买一送一没人吃",
+        "onboard_time": 1717572737,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 671672,
+        "num": 231459,
+        "word": "月经变少是卵巢衰老的信号吗",
+        "onboard_time": 1717583418,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 474566,
+        "num": 229329,
+        "word": "游客吐槽阿勒泰旅游太贵了",
+        "onboard_time": 1717583059,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 297741,
+        "num": 227068,
+        "word": "建议最近不要轻易离职",
+        "onboard_time": 1717586058,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271436,
+        "num": 224217,
+        "word": "lmf音乐节 取不取消",
+        "onboard_time": 1717585097,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222874,
+        "num": 222874,
+        "word": "吴谨言眼睛",
+        "onboard_time": 1717571837,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217728,
+        "num": 217728,
+        "word": "医生建议给皮肤轻断食",
+        "onboard_time": 1717572437,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178868,
+        "num": 178868,
+        "word": "张子枫素颜逛公园",
+        "onboard_time": 1717583299,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166523,
+        "num": 166523,
+        "word": "加拿大至少9人疑因神秘脑部疾病死亡",
+        "onboard_time": 1717582097,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149205,
+        "num": 166235,
+        "word": "国足",
+        "onboard_time": 1717584259,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147961,
+        "num": 165954,
+        "word": "普京任命绍伊古新职",
+        "onboard_time": 1717581918,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177782,
+        "num": 165259,
+        "word": "九尾说假发还是有点吃力",
+        "onboard_time": 1717584438,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18753,
+        "num": 164893,
+        "word": "田雨晒范闲王启年花絮照",
+        "onboard_time": 1717583476,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164788,
+        "num": 164788,
+        "word": "猫咪误把小白鞋当成妈妈了",
+        "onboard_time": 1717585158,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160141,
+        "num": 160141,
+        "word": "墨雨云间赵晴状态",
+        "onboard_time": 1717584978,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159613,
+        "num": 159613,
+        "word": "胡歌谈游本昌放弃白玉兰奖",
+        "onboard_time": 1717574898,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152791,
+        "num": 152791,
+        "word": "原来只是去食堂也是一件奢侈的事",
+        "onboard_time": 1717582816,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148611,
+        "num": 148611,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125398,
+        "num": 125398,
+        "word": "张杰穿堂风",
+        "onboard_time": 1717584558,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115665,
+        "num": 115665,
+        "word": "歌手",
+        "onboard_time": 1717585939,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110953,
+        "num": 110953,
+        "word": "面张力",
+        "onboard_time": 1717585699,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107880,
+        "num": 107880,
+        "word": "福宝吃的竹子是现砍的",
+        "onboard_time": 1717573218,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105990,
+        "num": 105990,
+        "word": "WE战胜LGD",
+        "onboard_time": 1717585877,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103276,
+        "num": 103276,
+        "word": "火树积分又垫底了",
+        "onboard_time": 1717578137,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102147,
+        "num": 102147,
+        "word": "德约科维奇重伤无缘温网",
+        "onboard_time": 1717585757,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100584,
+        "num": 100584,
+        "word": "毛坦厂妈妈们穿旗袍雨中送考",
+        "onboard_time": 1717585638,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 100436,
+        "num": 100436,
+        "word": "刘亦菲女团舞",
+        "onboard_time": 1717575498,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97552,
+        "num": 97552,
+        "word": "美力618",
+        "onboard_time": 1717586118,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 97164,
+        "num": 97164,
+        "word": "迪丽热巴MV直拍",
+        "onboard_time": 1717584736,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 94075,
+        "num": 94075,
+        "word": "王鹤棣 无袖",
+        "onboard_time": 1717566078,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94047,
+        "num": 94047,
+        "word": "歌手发布歌单",
+        "onboard_time": 1717558938,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
+    }
+  }
+}
