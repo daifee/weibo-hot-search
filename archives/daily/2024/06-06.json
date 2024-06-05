@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717619664241,
+  "endTime": 1717622395256,
   "band_list": [
     {
       "raw_hot": 1016862,
@@ -467,6 +467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 32062,
+      "num": 32062,
+      "word": "TF三代出道战禁止线下应援",
+      "onboard_time": 1717621811,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 30648,
       "num": 24067,
       "word": "你的高考幸运签已送达",
@@ -491,8 +499,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21453,
-      "num": 18693,
+      "raw_hot": 22442,
+      "num": 19658,
       "word": "为啥天天刷牙还有口臭",
       "onboard_time": 1717616711,
       "rank": 23,
@@ -523,8 +531,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17208,
-      "num": 17208,
+      "raw_hot": 19313,
+      "num": 19313,
+      "word": "周大福有员工称收到N+3赔偿",
+      "onboard_time": 1717618631,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17974,
+      "num": 17974,
       "word": "情绪稳定的本质",
       "onboard_time": 1717616890,
       "rank": 36,
@@ -539,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15791,
+      "num": 15791,
+      "word": "更好发挥住房公积金保障作用",
+      "onboard_time": 1717618631,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 14537,
       "num": 15371,
       "word": "一不小心又被爸妈幽默到了",
@@ -547,12 +571,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13121,
-      "num": 15370,
-      "word": "周大福有员工称收到N+3赔偿",
-      "onboard_time": 1717618631,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 13223,
+      "num": 14359,
+      "word": "蹦极时的仪式感 割绳子",
+      "onboard_time": 1717619711,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 13119,
@@ -561,14 +585,6 @@
       "onboard_time": 1717608852,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 12699,
-      "num": 15370,
-      "word": "更好发挥住房公积金保障作用",
-      "onboard_time": 1717618631,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 12648,
