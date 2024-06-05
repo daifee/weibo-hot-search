@@ -1,0 +1,410 @@
+{
+  "runTime": 1717583827596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1498210,
+        "num": 1498210,
+        "word": "爱奇艺 线下免费线上收费",
+        "onboard_time": 1717582219,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 592908,
+        "num": 592908,
+        "word": "韩国小学生连扇副校长5个耳光",
+        "onboard_time": 1717574298,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44805,
+        "num": 507427,
+        "word": "我在五千年前等你",
+        "onboard_time": 1717559118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727190,
+        "num": 481935,
+        "word": "徐艺洋运动就会恶心",
+        "onboard_time": 1717575498,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 441705,
+        "num": 441705,
+        "word": "Uzi 抗韩",
+        "onboard_time": 1717582158,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 413706,
+        "num": 413706,
+        "word": "1亿元天价保单被保人0岁",
+        "onboard_time": 1717575318,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 621355,
+        "num": 398791,
+        "word": "追风者声明",
+        "onboard_time": 1717549639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375547,
+        "num": 375547,
+        "word": "公积金房贷利率下调有何影响",
+        "onboard_time": 1717574417,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 331384,
+        "num": 331384,
+        "word": "医生建议给皮肤轻断食",
+        "onboard_time": 1717572437,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77421,
+        "num": 327960,
+        "word": "老忘重要约会可能是成人多动症",
+        "onboard_time": 1717581857,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1251200,
+        "num": 326340,
+        "word": "医院开展男性根浴服务被处罚",
+        "onboard_time": 1717579099,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 845929,
+        "num": 320324,
+        "word": "王阳发文",
+        "onboard_time": 1717550719,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586388,
+        "num": 317361,
+        "word": "山西一公职人员在小区遇刺身亡",
+        "onboard_time": 1717574778,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525924,
+        "num": 312012,
+        "word": "高海宁 没有男人不行吗",
+        "onboard_time": 1717577600,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481334,
+        "num": 310238,
+        "word": "周也睡到孟子义家去了",
+        "onboard_time": 1717578137,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 306537,
+        "num": 306537,
+        "word": "国足若输泰国将基本无缘世界杯",
+        "onboard_time": 1717580417,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285988,
+        "num": 285988,
+        "word": "吴谨言眼睛",
+        "onboard_time": 1717571837,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284228,
+        "num": 284228,
+        "word": "胡歌谈游本昌放弃白玉兰奖",
+        "onboard_time": 1717574898,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32446,
+        "num": 278061,
+        "word": "没什么是买买买不能治愈的",
+        "onboard_time": 1717581977,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273284,
+        "num": 273284,
+        "word": "茅台冰淇淋买一送一没人吃",
+        "onboard_time": 1717572737,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 256580,
+        "num": 256580,
+        "word": "以前很火的电视剧都被做成辣条了",
+        "onboard_time": 1717581499,
+        "rank": 20,
+        "category": "作品衍生,美食"
+      },
+      {
+        "raw_hot": 239010,
+        "num": 239010,
+        "word": "普京任命绍伊古新职",
+        "onboard_time": 1717581918,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 233174,
+        "num": 233174,
+        "word": "郭晓婷灰色吊带",
+        "onboard_time": 1717580838,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197557,
+        "num": 197557,
+        "word": "加拿大至少9人疑因神秘脑部疾病死亡",
+        "onboard_time": 1717582097,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188675,
+        "num": 188675,
+        "word": "考生请上岸",
+        "onboard_time": 1717583059,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177144,
+        "num": 177144,
+        "word": "游客吐槽阿勒泰旅游太贵了",
+        "onboard_time": 1717583059,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 168736,
+        "num": 168736,
+        "word": "王一博 魏若来不仅是一个人的成长",
+        "onboard_time": 1717549819,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158929,
+        "num": 158929,
+        "word": "月经变少是卵巢衰老的信号吗",
+        "onboard_time": 1717583418,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156927,
+        "num": 156927,
+        "word": "福宝吃的竹子是现砍的",
+        "onboard_time": 1717573218,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155958,
+        "num": 155958,
+        "word": "张碧晨为汪苏泷打歌",
+        "onboard_time": 1717581798,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 348352,
+        "num": 155370,
+        "word": "老人被发现与小38岁保姆结婚后续",
+        "onboard_time": 1717582878,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64809,
+        "num": 154331,
+        "word": "蒙牛代言人谷爱凌火炬传递",
+        "onboard_time": 1717580478,
+        "rank": 31,
+        "category": "体育,美食"
+      },
+      {
+        "raw_hot": 154193,
+        "num": 154193,
+        "word": "Uzi 剑网三",
+        "onboard_time": 1717576397,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139203,
+        "num": 139203,
+        "word": "张子枫素颜逛公园",
+        "onboard_time": 1717583299,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138746,
+        "num": 138746,
+        "word": "歌手发布歌单",
+        "onboard_time": 1717558938,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133315,
+        "num": 133315,
+        "word": "火树积分又垫底了",
+        "onboard_time": 1717578137,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132134,
+        "num": 132134,
+        "word": "赵丽娜羡慕吴艳妮的个性",
+        "onboard_time": 1717582517,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127395,
+        "num": 127395,
+        "word": "毛坦厂中学万人冒雨送考为孩子加油",
+        "onboard_time": 1717570937,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 124898,
+        "num": 124898,
+        "word": "刘亦菲女团舞",
+        "onboard_time": 1717575498,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10420,
+        "num": 124322,
+        "word": "田雨晒范闲王启年花絮照",
+        "onboard_time": 1717583476,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123869,
+        "num": 123869,
+        "word": "原来只是去食堂也是一件奢侈的事",
+        "onboard_time": 1717582816,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123294,
+        "num": 123294,
+        "word": "奔跑吧应援声明",
+        "onboard_time": 1717564519,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123175,
+        "num": 123175,
+        "word": "35岁再考清华当事人发声",
+        "onboard_time": 1717581077,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116627,
+        "num": 116627,
+        "word": "拼车拼到一只小狗乘客",
+        "onboard_time": 1717574956,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110168,
+        "num": 110168,
+        "word": "你要这么虐前夫哥我就不困了",
+        "onboard_time": 1717571476,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110048,
+        "num": 110048,
+        "word": "王鹤棣 无袖",
+        "onboard_time": 1717566078,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77979,
+        "num": 106938,
+        "word": "为高考加油的赛道好挤啊",
+        "onboard_time": 1717583118,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106298,
+        "num": 106298,
+        "word": "蔡徐坤地广有新的打开方式",
+        "onboard_time": 1717579639,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105506,
+        "num": 105506,
+        "word": "网约车迟到8分钟致误机女子索赔",
+        "onboard_time": 1717551318,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104733,
+        "num": 104733,
+        "word": "灵儿九尾黑白天使大片",
+        "onboard_time": 1717580178,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
+    }
+  }
+}
