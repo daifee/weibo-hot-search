@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717568783814,
+  "endTime": 1717569541349,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -1427,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601312,
+      "num": 422318,
+      "word": "王鹤棣 无袖",
+      "onboard_time": 1717566078,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 600148,
       "num": 538518,
       "word": "我国历史上的熊猫外交",
@@ -1441,14 +1449,6 @@
       "onboard_time": 1717373418,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 598133,
-      "num": 422318,
-      "word": "王鹤棣 无袖",
-      "onboard_time": 1717566078,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 596764,
@@ -3075,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 326618,
+      "num": 326618,
+      "word": "A股",
+      "onboard_time": 1717381458,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 326286,
       "num": 326286,
       "word": "林俊杰怎么比陶喆还抽象",
@@ -3137,6 +3145,14 @@
       "onboard_time": 1717331179,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318901,
+      "num": 318901,
+      "word": "我偏要发剑网3",
+      "onboard_time": 1717565298,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 317950,
@@ -3563,14 +3579,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 281478,
-      "num": 281478,
-      "word": "我偏要发剑网3",
-      "onboard_time": 1717565298,
-      "rank": 27,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 278663,
       "num": 278663,
       "word": "钟楚曦十八宫格泳池照",
@@ -3945,14 +3953,6 @@
       "onboard_time": 1717392139,
       "rank": 26,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 249624,
-      "num": 249624,
-      "word": "A股",
-      "onboard_time": 1717381458,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 249162,
@@ -4411,6 +4411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222027,
+      "num": 209053,
+      "word": "悬疑剧又有判头了",
+      "onboard_time": 1717568357,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221750,
       "num": 221750,
       "word": "墨雨云间 上头",
@@ -4479,6 +4487,14 @@
       "num": 219583,
       "word": "周深大学期间做过最疯狂的事",
       "onboard_time": 1717563919,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219025,
+      "num": 207501,
+      "word": "你在不在",
+      "onboard_time": 1717568118,
       "rank": 27,
       "category": "综艺"
     },
@@ -4947,14 +4963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200240,
-      "num": 200240,
-      "word": "你在不在",
-      "onboard_time": 1717568118,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200024,
       "num": 200024,
       "word": "张凌赫黑天鹅芭莎封面",
@@ -5419,6 +5427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186927,
+      "num": 186927,
+      "word": "幽门螺杆菌的根除方案",
+      "onboard_time": 1717564218,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 186905,
       "num": 186905,
       "word": "为什么收拾房间有助于攒钱",
@@ -5675,6 +5691,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 177606,
+      "num": 177606,
+      "word": "BW2024官宣定档",
+      "onboard_time": 1717569257,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 177462,
       "num": 177462,
       "word": "肖战藏海传关门镜头",
@@ -5705,14 +5729,6 @@
       "onboard_time": 1717425198,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177254,
-      "num": 177254,
-      "word": "幽门螺杆菌的根除方案",
-      "onboard_time": 1717564218,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 176948,
@@ -5929,6 +5945,14 @@
       "onboard_time": 1717390340,
       "rank": 34,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 170142,
+      "num": 170142,
+      "word": "尚雯婕清唱bangbang",
+      "onboard_time": 1717568477,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 169699,
@@ -6473,14 +6497,6 @@
       "onboard_time": 1717482678,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 154306,
-      "num": 154306,
-      "word": "悬疑剧又有判头了",
-      "onboard_time": 1717568357,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 154226,
@@ -7441,14 +7457,6 @@
       "onboard_time": 1717326858,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127120,
-      "num": 127120,
-      "word": "尚雯婕清唱bangbang",
-      "onboard_time": 1717568477,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 127119,
@@ -9203,6 +9211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70028,
+      "num": 374749,
+      "word": "起底职称代评的生意链",
+      "onboard_time": 1717567218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69196,
       "num": 101915,
       "word": "美国小伙飞杭州动漫展求婚女友",
@@ -9529,14 +9545,6 @@
       "onboard_time": 1717361291,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52139,
-      "num": 374749,
-      "word": "起底职称代评的生意链",
-      "onboard_time": 1717567218,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51873,
@@ -9905,6 +9913,14 @@
       "onboard_time": 1717415658,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 30549,
+      "num": 327126,
+      "word": "摔倒坚持比赛小男孩拿金奖送给妈妈",
+      "onboard_time": 1717565959,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30473,

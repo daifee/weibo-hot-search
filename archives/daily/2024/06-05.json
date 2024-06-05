@@ -1,6 +1,6 @@
 {
   "startTime": 1717518286638,
-  "endTime": 1717568783814,
+  "endTime": 1717569541349,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -203,7 +203,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 598133,
+      "raw_hot": 601312,
       "num": 422318,
       "word": "王鹤棣 无袖",
       "onboard_time": 1717566078,
@@ -395,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326618,
+      "num": 326618,
+      "word": "A股",
+      "onboard_time": 1717567937,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 321209,
       "num": 321209,
       "word": "李昊音乐会抢票",
       "onboard_time": 1717561039,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 318901,
+      "num": 318901,
+      "word": "我偏要发剑网3",
+      "onboard_time": 1717565298,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 317950,
@@ -481,14 +497,6 @@
       "onboard_time": 1717542614,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281478,
-      "num": 281478,
-      "word": "我偏要发剑网3",
-      "onboard_time": 1717565298,
-      "rank": 27,
-      "category": "游戏"
     },
     {
       "raw_hot": 274036,
@@ -659,12 +667,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 221206,
-      "num": 221206,
-      "word": "A股",
-      "onboard_time": 1717567937,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 222027,
+      "num": 209053,
+      "word": "悬疑剧又有判头了",
+      "onboard_time": 1717568357,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 220957,
@@ -695,6 +703,14 @@
       "num": 219583,
       "word": "周深大学期间做过最疯狂的事",
       "onboard_time": 1717563919,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219025,
+      "num": 207501,
+      "word": "你在不在",
+      "onboard_time": 1717568118,
       "rank": 27,
       "category": "综艺"
     },
@@ -819,14 +835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200240,
-      "num": 200240,
-      "word": "你在不在",
-      "onboard_time": 1717568118,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199988,
       "num": 199988,
       "word": "张云龙丞磊合跳晚安大小姐",
@@ -873,6 +881,14 @@
       "onboard_time": 1717554979,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186927,
+      "num": 186927,
+      "word": "幽门螺杆菌的根除方案",
+      "onboard_time": 1717564218,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185223,
@@ -931,12 +947,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177254,
-      "num": 177254,
-      "word": "幽门螺杆菌的根除方案",
-      "onboard_time": 1717564218,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 177606,
+      "num": 177606,
+      "word": "BW2024官宣定档",
+      "onboard_time": 1717569257,
+      "rank": 29,
+      "category": "动漫"
     },
     {
       "raw_hot": 176948,
@@ -953,6 +969,14 @@
       "onboard_time": 1717558459,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 170142,
+      "num": 170142,
+      "word": "尚雯婕清唱bangbang",
+      "onboard_time": 1717568477,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 168666,
@@ -1024,14 +1048,6 @@
       "word": "张凌赫徐若晗吻戏路透",
       "onboard_time": 1717545076,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 154306,
-      "num": 154306,
-      "word": "悬疑剧又有判头了",
-      "onboard_time": 1717568357,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1193,14 +1209,6 @@
       "onboard_time": 1717546458,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127120,
-      "num": 127120,
-      "word": "尚雯婕清唱bangbang",
-      "onboard_time": 1717568477,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 124665,
@@ -1531,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70028,
+      "num": 374749,
+      "word": "起底职称代评的生意链",
+      "onboard_time": 1717567218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67882,
       "num": 67882,
       "word": "到了这个岁数肾脏可能会断崖式衰老",
@@ -1635,14 +1651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 52139,
-      "num": 374749,
-      "word": "起底职称代评的生意链",
-      "onboard_time": 1717567218,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 50383,
       "num": 50383,
       "word": "牛奶加热后的奶皮吃了有好处吗",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1717542253,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 30549,
+      "num": 327126,
+      "word": "摔倒坚持比赛小男孩拿金奖送给妈妈",
+      "onboard_time": 1717565959,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30203,
