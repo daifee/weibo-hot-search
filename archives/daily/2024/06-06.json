@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717641216360,
+  "endTime": 1717641839492,
   "band_list": [
     {
       "raw_hot": 1893436,
@@ -33,6 +33,14 @@
       "onboard_time": 1717632858,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1066448,
+      "num": 1066448,
+      "word": "微信体积11年膨胀575倍",
+      "onboard_time": 1717639577,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 1016862,
@@ -91,12 +99,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 700674,
-      "num": 700674,
-      "word": "微信体积11年膨胀575倍",
-      "onboard_time": 1717639577,
-      "rank": 6,
-      "category": "互联网"
+      "raw_hot": 677332,
+      "num": 677332,
+      "word": "以军轰炸加沙一学校致至少30死",
+      "onboard_time": 1717638738,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 619825,
@@ -115,14 +123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 614655,
-      "num": 614655,
-      "word": "以军轰炸加沙一学校致至少30死",
-      "onboard_time": 1717638738,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 610212,
       "num": 610212,
       "word": "官方回应B太长沙夜市打假",
@@ -131,8 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 581339,
-      "num": 581339,
+      "raw_hot": 603765,
+      "num": 603765,
       "word": "一人一句给高考生送祝福",
       "onboard_time": 1717629555,
       "rank": 48,
@@ -145,6 +145,22 @@
       "onboard_time": 1717635438,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 554510,
+      "num": 554510,
+      "word": "女童掉入医院开水桶遭特重度烧伤",
+      "onboard_time": 1717639937,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 548444,
+      "num": 548444,
+      "word": "谢霆锋参加特步二公主婚礼",
+      "onboard_time": 1717639637,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 518115,
@@ -177,14 +193,6 @@
       "onboard_time": 1717635678,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 467655,
-      "num": 467655,
-      "word": "谢霆锋参加特步二公主婚礼",
-      "onboard_time": 1717639637,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 465544,
@@ -251,14 +259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 404298,
-      "num": 404298,
-      "word": "女童掉入医院开水桶遭特重度烧伤",
-      "onboard_time": 1717639937,
-      "rank": 15,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 397533,
       "num": 397533,
       "word": "公办中小学招聘不进编教师引关注",
@@ -291,8 +291,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 315529,
-      "num": 315529,
+      "raw_hot": 322693,
+      "num": 322693,
       "word": "吃白人饭一年的变化",
       "onboard_time": 1717638738,
       "rank": 21,
@@ -345,6 +345,14 @@
       "onboard_time": 1717594519,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264378,
+      "num": 264378,
+      "word": "热巴 天生爱豆圣体",
+      "onboard_time": 1717641077,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 257121,
@@ -411,6 +419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209867,
+      "num": 209867,
+      "word": "黄奕每段感情都轰轰烈烈的",
+      "onboard_time": 1717641257,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205480,
       "num": 205480,
       "word": "大熊猫下班到点自己关门谢客",
@@ -443,20 +459,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 196803,
+      "num": 196803,
+      "word": "KPL夏日运动会",
+      "onboard_time": 1717641197,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192335,
       "num": 192335,
       "word": "教育部发布3点考前提示",
       "onboard_time": 1717640057,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 187155,
-      "num": 187155,
-      "word": "KPL夏日运动会",
-      "onboard_time": 1717641197,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 186964,
@@ -499,19 +515,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174242,
+      "num": 174242,
+      "word": "高考是你多少年前的回忆杀了",
+      "onboard_time": 1717640838,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173622,
       "num": 173622,
       "word": "高考倒计时1天",
       "onboard_time": 1717629855,
       "rank": 14,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 172792,
-      "num": 172792,
-      "word": "高考是你多少年前的回忆杀了",
-      "onboard_time": 1717640838,
-      "rank": 35,
       "category": "教育"
     },
     {
@@ -521,6 +537,14 @@
       "onboard_time": 1717590318,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 168287,
+      "num": 168287,
+      "word": "易烊千玺米兰时装周行程",
+      "onboard_time": 1717641557,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167482,
@@ -619,20 +643,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146654,
-      "num": 146654,
-      "word": "热巴 天生爱豆圣体",
-      "onboard_time": 1717641077,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145482,
       "num": 113338,
       "word": "96版一帘幽梦女主近照",
       "onboard_time": 1717600039,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143770,
+      "num": 143770,
+      "word": "于正奖励自己精修写真",
+      "onboard_time": 1717641437,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 141882,
@@ -697,6 +721,14 @@
       "onboard_time": 1717637479,
       "rank": 41,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 116493,
+      "num": 116493,
+      "word": "1342万人明天高考",
+      "onboard_time": 1717638497,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 116030,
@@ -793,6 +825,14 @@
       "onboard_time": 1717591339,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 102206,
+      "num": 102206,
+      "word": "王一博新杂志预告",
+      "onboard_time": 1717639097,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 100141,
@@ -1108,7 +1148,7 @@
     },
     {
       "raw_hot": 16899,
-      "num": 1071012,
+      "num": 1087745,
       "word": "我在五千年前等你",
       "onboard_time": 1717559118,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717641216360,
+  "endTime": 1717641839492,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -625,6 +625,14 @@
       "onboard_time": 1717390340,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1066448,
+      "num": 1066448,
+      "word": "微信体积11年膨胀575倍",
+      "onboard_time": 1717639577,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 1046042,
@@ -1307,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 700674,
-      "num": 700674,
-      "word": "微信体积11年膨胀575倍",
-      "onboard_time": 1717639577,
-      "rank": 6,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 694912,
       "num": 273284,
       "word": "茅台冰淇淋买一送一没人吃",
@@ -1401,6 +1401,14 @@
       "onboard_time": 1717491617,
       "rank": 9,
       "category": "社会新闻,数码"
+    },
+    {
+      "raw_hot": 677332,
+      "num": 677332,
+      "word": "以军轰炸加沙一学校致至少30死",
+      "onboard_time": 1717638738,
+      "rank": 8,
+      "category": "国外时政"
     },
     {
       "raw_hot": 676837,
@@ -1643,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 614655,
-      "num": 614655,
-      "word": "以军轰炸加沙一学校致至少30死",
-      "onboard_time": 1717638738,
-      "rank": 8,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 614545,
       "num": 446245,
       "word": "贾玲深V黑裙",
@@ -1713,6 +1713,14 @@
       "onboard_time": 1717493537,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 603765,
+      "num": 603765,
+      "word": "一人一句给高考生送祝福",
+      "onboard_time": 1717629555,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 603542,
@@ -1817,14 +1825,6 @@
       "onboard_time": 1717377378,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 581339,
-      "num": 581339,
-      "word": "一人一句给高考生送祝福",
-      "onboard_time": 1717629555,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 580437,
@@ -1963,12 +1963,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 554510,
+      "num": 554510,
+      "word": "女童掉入医院开水桶遭特重度烧伤",
+      "onboard_time": 1717639937,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 549083,
       "num": 499416,
       "word": "为什么大脑删除了3岁前的记忆",
       "onboard_time": 1717251079,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 548444,
+      "num": 548444,
+      "word": "谢霆锋参加特步二公主婚礼",
+      "onboard_time": 1717639637,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 548314,
@@ -2449,14 +2465,6 @@
       "onboard_time": 1717573218,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467655,
-      "num": 467655,
-      "word": "谢霆锋参加特步二公主婚礼",
-      "onboard_time": 1717639637,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 466227,
@@ -2985,14 +2993,6 @@
       "onboard_time": 1717312517,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 404298,
-      "num": 404298,
-      "word": "女童掉入医院开水桶遭特重度烧伤",
-      "onboard_time": 1717639937,
-      "rank": 15,
-      "category": "社会负面"
     },
     {
       "raw_hot": 403517,
@@ -3691,6 +3691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 322693,
+      "num": 322693,
+      "word": "吃白人饭一年的变化",
+      "onboard_time": 1717638738,
+      "rank": 21,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 322010,
       "num": 416614,
       "word": "嫦娥六号着陆器上升器合影",
@@ -3745,14 +3753,6 @@
       "onboard_time": 1717550418,
       "rank": 8,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 315529,
-      "num": 315529,
-      "word": "吃白人饭一年的变化",
-      "onboard_time": 1717638738,
-      "rank": 21,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 315491,
@@ -4465,6 +4465,14 @@
       "onboard_time": 1717437552,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264378,
+      "num": 264378,
+      "word": "热巴 天生爱豆圣体",
+      "onboard_time": 1717641077,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 263639,
@@ -5467,6 +5475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 209867,
+      "num": 209867,
+      "word": "黄奕每段感情都轰轰烈烈的",
+      "onboard_time": 1717641257,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209763,
       "num": 209763,
       "word": "闪耀暖暖星云转转裙",
@@ -6003,6 +6019,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 196803,
+      "num": 196803,
+      "word": "KPL夏日运动会",
+      "onboard_time": 1717641197,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196489,
       "num": 301789,
       "word": "帆布包的性价比有多高",
@@ -6377,14 +6401,6 @@
       "onboard_time": 1717393278,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187155,
-      "num": 187155,
-      "word": "KPL夏日运动会",
-      "onboard_time": 1717641197,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 187094,
@@ -6883,6 +6899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174242,
+      "num": 174242,
+      "word": "高考是你多少年前的回忆杀了",
+      "onboard_time": 1717640838,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173914,
       "num": 173914,
       "word": "北京WB许诺",
@@ -6985,14 +7009,6 @@
       "onboard_time": 1717256238,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172792,
-      "num": 172792,
-      "word": "高考是你多少年前的回忆杀了",
-      "onboard_time": 1717640838,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 172767,
@@ -7121,6 +7137,14 @@
       "onboard_time": 1717334480,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168287,
+      "num": 168287,
+      "word": "易烊千玺米兰时装周行程",
+      "onboard_time": 1717641557,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168230,
@@ -7979,14 +8003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146654,
-      "num": 146654,
-      "word": "热巴 天生爱豆圣体",
-      "onboard_time": 1717641077,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146263,
       "num": 150031,
       "word": "高考倒计时5天",
@@ -8121,6 +8137,14 @@
       "onboard_time": 1717314257,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143770,
+      "num": 143770,
+      "word": "于正奖励自己精修写真",
+      "onboard_time": 1717641437,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 143325,
@@ -9523,6 +9547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116493,
+      "num": 116493,
+      "word": "1342万人明天高考",
+      "onboard_time": 1717638497,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116405,
       "num": 116405,
       "word": "王珞丹27年前做的裙子妈妈还留着",
@@ -10299,6 +10331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102206,
+      "num": 102206,
+      "word": "王一博新杂志预告",
+      "onboard_time": 1717639097,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 102147,
       "num": 102147,
       "word": "德约科维奇重伤无缘温网",
@@ -10956,7 +10996,7 @@
     },
     {
       "raw_hot": 74366,
-      "num": 1078961,
+      "num": 1087745,
       "word": "我在五千年前等你",
       "onboard_time": 1717559118,
       "rank": 2,
