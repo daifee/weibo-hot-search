@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717658334342,
+  "endTime": 1717659291127,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -139,20 +139,20 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 1890222,
+      "num": 1890222,
+      "word": "人体最先衰老的器官是什么",
+      "onboard_time": 1717653799,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1873253,
       "num": 1873253,
       "word": "樊振东男单冠军",
       "onboard_time": 1717422559,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1822877,
-      "num": 1822877,
-      "word": "人体最先衰老的器官是什么",
-      "onboard_time": 1717653799,
-      "rank": 13,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1815800,
@@ -2787,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521859,
+      "num": 521859,
+      "word": "吴谨言演过老炮儿",
+      "onboard_time": 1717655718,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 521342,
       "num": 521342,
       "word": "范闲扛起巴雷特",
@@ -2928,6 +2936,14 @@
       "word": "林若甫 一声爹例外触动天下人",
       "onboard_time": 1717338980,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 502972,
+      "num": 502972,
+      "word": "TypeC嘴",
+      "onboard_time": 1717657878,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -3113,14 +3129,6 @@
       "onboard_time": 1717596859,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 482496,
-      "num": 482496,
-      "word": "吴谨言演过老炮儿",
-      "onboard_time": 1717655718,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 481524,
@@ -3937,6 +3945,14 @@
       "onboard_time": 1717210816,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 400890,
+      "num": 306946,
+      "word": "付辛博颖儿车窗吻",
+      "onboard_time": 1717657278,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 400862,
@@ -4955,6 +4971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316687,
+      "num": 304882,
+      "word": "刘亦菲杨幂早期互相撑伞照",
+      "onboard_time": 1717658118,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315929,
       "num": 225081,
       "word": "长大后发现妈见打零食更好吃了",
@@ -5323,6 +5347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293847,
+      "num": 293847,
+      "word": "孙俪妹妹北电毕业照",
+      "onboard_time": 1717658840,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292447,
       "num": 170543,
       "word": "荔枝十元3斤要来了",
@@ -5529,14 +5561,6 @@
       "onboard_time": 1717542614,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283104,
-      "num": 283104,
-      "word": "付辛博颖儿车窗吻",
-      "onboard_time": 1717657278,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 283061,
@@ -5889,6 +5913,14 @@
       "onboard_time": 1717248139,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265205,
+      "num": 265205,
+      "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
+      "onboard_time": 1717657999,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 265166,
@@ -6803,14 +6835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224662,
-      "num": 224662,
-      "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
-      "onboard_time": 1717657999,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224611,
       "num": 224611,
       "word": "狐妖月红篇落跑甜心",
@@ -6889,14 +6913,6 @@
       "onboard_time": 1717286115,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 221406,
-      "num": 221406,
-      "word": "TypeC嘴",
-      "onboard_time": 1717657878,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 221188,
@@ -9267,6 +9283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172907,
+      "num": 172907,
+      "word": "拉勾和上吊有什么关系",
+      "onboard_time": 1717658358,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 172879,
       "num": 172879,
       "word": "梁靖崑3比2A勒布伦",
@@ -9504,14 +9528,6 @@
       "word": "GQ工作人员夸赞时代少年团",
       "onboard_time": 1717477697,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167103,
-      "num": 167103,
-      "word": "刘亦菲杨幂早期互相撑伞照",
-      "onboard_time": 1717658118,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -9809,6 +9825,14 @@
       "onboard_time": 1717568537,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161840,
+      "num": 161840,
+      "word": "徐明浩活动",
+      "onboard_time": 1717659077,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 161805,
@@ -10427,6 +10451,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151021,
+      "num": 151021,
+      "word": "前夫哥沈玉容又渣又苦",
+      "onboard_time": 1717658958,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 150894,
+      "num": 150894,
+      "word": "张桂梅寄语2024高考生",
+      "onboard_time": 1717659018,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150847,
       "num": 150847,
       "word": "货物列车刮碰施工作业人员致6死",
@@ -11017,6 +11057,14 @@
       "onboard_time": 1717295177,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141253,
+      "num": 633078,
+      "word": "连发五年年终奖突然停发合法吗",
+      "onboard_time": 1717657217,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 141136,
@@ -11724,7 +11772,7 @@
     },
     {
       "raw_hot": 129814,
-      "num": 129814,
+      "num": 444302,
       "word": "嫦娥六号祝福考生高中",
       "onboard_time": 1717656857,
       "rank": 45,
@@ -14139,14 +14187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 84397,
-      "num": 633078,
-      "word": "连发五年年终奖突然停发合法吗",
-      "onboard_time": 1717657217,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
-    },
-    {
       "raw_hot": 84373,
       "num": 84373,
       "word": "发现领导偷偷用我的信息点外卖",
@@ -15316,7 +15356,7 @@
     },
     {
       "raw_hot": 47207,
-      "num": 1338232,
+      "num": 1507633,
       "word": "一人一句祝福高考生",
       "onboard_time": 1717644739,
       "rank": 2,
@@ -15433,6 +15473,14 @@
       "onboard_time": 1717255399,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41895,
+      "num": 289131,
+      "word": "300元拿下家庭健身房",
+      "onboard_time": 1717657338,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 41535,
@@ -15560,6 +15608,14 @@
       "word": "父女雨天摔倒路人帮忙细节拉满",
       "onboard_time": 1717313778,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37371,
+      "num": 237353,
+      "word": "印度空姐直肠藏金牵出走私黄金大案",
+      "onboard_time": 1717658840,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -15811,14 +15867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29729,
-      "num": 253835,
-      "word": "300元拿下家庭健身房",
-      "onboard_time": 1717657338,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 29418,
       "num": 189842,
       "word": "田雨在线催更庆余年3",
@@ -15921,6 +15969,14 @@
       "onboard_time": 1717583476,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24078,
+      "num": 229597,
+      "word": "小鬼对毛不易连环问",
+      "onboard_time": 1717657518,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 23816,
@@ -16145,14 +16201,6 @@
       "onboard_time": 1717444990,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15475,
-      "num": 201035,
-      "word": "小鬼对毛不易连环问",
-      "onboard_time": 1717657518,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 15325,

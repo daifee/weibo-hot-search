@@ -1,0 +1,410 @@
+{
+  "runTime": 1717659291127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1890222,
+        "num": 1890222,
+        "word": "人体最先衰老的器官是什么",
+        "onboard_time": 1717653799,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1741391,
+        "num": 1741391,
+        "word": "2008年故意考0分考生重上考场",
+        "onboard_time": 1717651698,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29647,
+        "num": 1507633,
+        "word": "一人一句祝福高考生",
+        "onboard_time": 1717644739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465766,
+        "num": 1465766,
+        "word": "大学生全款拿下28平小公寓",
+        "onboard_time": 1717652299,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 791879,
+        "num": 791879,
+        "word": "警方通报男子将妻子伤害致死后跳楼",
+        "onboard_time": 1717653558,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 689518,
+        "num": 689518,
+        "word": "孙楠pk揭榜歌手在线投票",
+        "onboard_time": 1717656017,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26657,
+        "num": 677229,
+        "word": "文化中国行感受生态智慧",
+        "onboard_time": 1717644977,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676374,
+        "num": 676374,
+        "word": "海底捞给顾客喝二手饮品",
+        "onboard_time": 1717645877,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607289,
+        "num": 607289,
+        "word": "檀健次吐烟",
+        "onboard_time": 1717651098,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 536349,
+        "num": 536349,
+        "word": "种地吧直播",
+        "onboard_time": 1717656258,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521859,
+        "num": 521859,
+        "word": "吴谨言演过老炮儿",
+        "onboard_time": 1717655718,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 521013,
+        "num": 521013,
+        "word": "周杰伦不敢参加周杰伦接歌大赛",
+        "onboard_time": 1717652539,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 502972,
+        "num": 502972,
+        "word": "TypeC嘴",
+        "onboard_time": 1717657878,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28133,
+        "num": 466871,
+        "word": "赵长江早高峰亲测腾势城市领航",
+        "onboard_time": 1717655238,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 460922,
+        "num": 460922,
+        "word": "证监会原主席易会满履新职",
+        "onboard_time": 1717656078,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101268,
+        "num": 444302,
+        "word": "嫦娥六号祝福考生高中",
+        "onboard_time": 1717656857,
+        "rank": 15,
+        "category": "科学科普,教育"
+      },
+      {
+        "raw_hot": 440881,
+        "num": 440881,
+        "word": "十个勤天",
+        "onboard_time": 1717652181,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355051,
+        "num": 355051,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1717647079,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 334010,
+        "num": 334010,
+        "word": "发现男性友谊很少提供情绪价值",
+        "onboard_time": 1717645997,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310397,
+        "num": 310397,
+        "word": "高考 卖花",
+        "onboard_time": 1717649539,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400890,
+        "num": 306946,
+        "word": "付辛博颖儿车窗吻",
+        "onboard_time": 1717657278,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316687,
+        "num": 304882,
+        "word": "刘亦菲杨幂早期互相撑伞照",
+        "onboard_time": 1717658118,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293847,
+        "num": 293847,
+        "word": "孙俪妹妹北电毕业照",
+        "onboard_time": 1717658840,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41895,
+        "num": 289131,
+        "word": "300元拿下家庭健身房",
+        "onboard_time": 1717657338,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 288211,
+        "num": 288211,
+        "word": "墨雨云间 平替",
+        "onboard_time": 1717649780,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286267,
+        "num": 286267,
+        "word": "高考加油",
+        "onboard_time": 1717641918,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141253,
+        "num": 269441,
+        "word": "连发五年年终奖突然停发合法吗",
+        "onboard_time": 1717657217,
+        "rank": 26,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 265205,
+        "num": 265205,
+        "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
+        "onboard_time": 1717657999,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254405,
+        "num": 254405,
+        "word": "刘若英否认袒护亲姐姐",
+        "onboard_time": 1717655599,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37371,
+        "num": 237353,
+        "word": "印度空姐直肠藏金牵出走私黄金大案",
+        "onboard_time": 1717658840,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24078,
+        "num": 229597,
+        "word": "小鬼对毛不易连环问",
+        "onboard_time": 1717657518,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226268,
+        "num": 226268,
+        "word": "祝福高考",
+        "onboard_time": 1717635438,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202410,
+        "num": 202410,
+        "word": "肖战藏海背后的画",
+        "onboard_time": 1717658118,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188379,
+        "num": 188379,
+        "word": "黑莲花漫画吻戏",
+        "onboard_time": 1717657099,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 178987,
+        "num": 178987,
+        "word": "徐艺洋曾一个月瘦20斤",
+        "onboard_time": 1717646899,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172907,
+        "num": 172907,
+        "word": "拉勾和上吊有什么关系",
+        "onboard_time": 1717658358,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 172858,
+        "num": 172858,
+        "word": "关系不够硬不要让父母帮你找工作",
+        "onboard_time": 1717654698,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167068,
+        "num": 167068,
+        "word": "刘亦菲古装挑染",
+        "onboard_time": 1717657398,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161840,
+        "num": 161840,
+        "word": "徐明浩活动",
+        "onboard_time": 1717659077,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151021,
+        "num": 151021,
+        "word": "前夫哥沈玉容又渣又苦",
+        "onboard_time": 1717658958,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150894,
+        "num": 150894,
+        "word": "张桂梅寄语2024高考生",
+        "onboard_time": 1717659018,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147305,
+        "num": 147305,
+        "word": "王一博宫廷王子风",
+        "onboard_time": 1717646719,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138493,
+        "num": 138493,
+        "word": "肖战重庆暴走",
+        "onboard_time": 1717643477,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137072,
+        "num": 137072,
+        "word": "梦到高考了",
+        "onboard_time": 1717654818,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134510,
+        "num": 134510,
+        "word": "一人一句给高考生送祝福",
+        "onboard_time": 1717629555,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129686,
+        "num": 129686,
+        "word": "十斤的橘猫 九斤半的心眼子",
+        "onboard_time": 1717648879,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126760,
+        "num": 126760,
+        "word": "墨雨云间",
+        "onboard_time": 1717652479,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123525,
+        "num": 123525,
+        "word": "法媒公布美军诺曼底登陆后暴行",
+        "onboard_time": 1717654759,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 125677,
+        "num": 122727,
+        "word": "于正曾说王星越跟吴谨言搭配很扯",
+        "onboard_time": 1717653438,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117150,
+        "num": 117150,
+        "word": "赵丽颖祝大家高考顺利",
+        "onboard_time": 1717656017,
+        "rank": 49,
+        "category": "艺人,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记嘱托加油干#"
+    }
+  }
+}
