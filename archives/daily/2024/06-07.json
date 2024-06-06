@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717712260010,
+  "endTime": 1717713316407,
   "band_list": [
     {
       "raw_hot": 826494,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 238820,
+      "num": 80016,
+      "word": "中方回应是否考虑恢复日本海产品进口",
+      "onboard_time": 1717698192,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 208363,
       "num": 208363,
       "word": "大胖媳妇爆改亚当",
@@ -163,14 +171,6 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 178925,
-      "num": 62396,
-      "word": "中方回应是否考虑恢复日本海产品进口",
-      "onboard_time": 1717698192,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 162207,
       "num": 162207,
       "word": "浙江38岁教师去世用身体上最后一课",
@@ -180,11 +180,27 @@
     },
     {
       "raw_hot": 156410,
-      "num": 38237,
+      "num": 42828,
       "word": "建议大家不要在床上乱蹦",
       "onboard_time": 1717695972,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151227,
+      "num": 43606,
+      "word": "为什么端午节高速不免费",
+      "onboard_time": 1717706111,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 147571,
+      "num": 79520,
+      "word": "歌手总导演回应做直播",
+      "onboard_time": 1717699152,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 145355,
@@ -201,14 +217,6 @@
       "onboard_time": 1717684820,
       "rank": 23,
       "category": "时尚,社会新闻"
-    },
-    {
-      "raw_hot": 142250,
-      "num": 37549,
-      "word": "为什么端午节高速不免费",
-      "onboard_time": 1717706111,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 140699,
@@ -249,6 +257,14 @@
       "onboard_time": 1717684039,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118179,
+      "num": 77905,
+      "word": "00后女孩勇闯非洲2年攒50万",
+      "onboard_time": 1717694953,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115058,
@@ -323,16 +339,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 92972,
-      "num": 62098,
-      "word": "歌手总导演回应做直播",
-      "onboard_time": 1717699152,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 88632,
-      "num": 88632,
+      "raw_hot": 89071,
+      "num": 89071,
       "word": "一眨眼就高考了",
       "onboard_time": 1717689317,
       "rank": 36,
@@ -353,14 +361,6 @@
       "onboard_time": 1717664239,
       "rank": 38,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 84954,
-      "num": 60835,
-      "word": "00后女孩勇闯非洲2年攒50万",
-      "onboard_time": 1717694953,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84474,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 52363,
-      "num": 37508,
+      "num": 38335,
       "word": "原来高铁还有低人一等座",
       "onboard_time": 1717701730,
       "rank": 27,
@@ -489,6 +489,30 @@
       "onboard_time": 1717691596,
       "rank": 48,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 49683,
+      "num": 43158,
+      "word": "张若昀怕不是从耳朵红到脖子了",
+      "onboard_time": 1717702751,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42418,
+      "num": 42418,
+      "word": "没想到我高考竟在自己位置上",
+      "onboard_time": 1717712533,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 39959,
+      "num": 39959,
+      "word": "这才是一次性手套该有的样子",
+      "onboard_time": 1717696572,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 38351,
@@ -515,14 +539,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 37259,
-      "num": 37259,
-      "word": "张若昀怕不是从耳朵红到脖子了",
-      "onboard_time": 1717702751,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 33855,
       "num": 33855,
       "word": "孙千露背挂脖上衣",
@@ -531,44 +547,36 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 30301,
-      "num": 30301,
-      "word": "这才是一次性手套该有的样子",
-      "onboard_time": 1717696572,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 23618,
-      "num": 24292,
+      "raw_hot": 32077,
+      "num": 31440,
       "word": "彭冠英新剧演刘亦菲初恋",
       "onboard_time": 1717709771,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 23344,
-      "num": 24289,
+      "raw_hot": 31441,
+      "num": 31441,
       "word": "1342万名高考生的幸运值已加满",
       "onboard_time": 1717707250,
       "rank": 45,
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 21235,
-      "num": 24289,
-      "word": "苦情树 糟糕的原生家庭",
-      "onboard_time": 1717704012,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20004,
-      "num": 24284,
+      "raw_hot": 24805,
+      "num": 31350,
       "word": "高考加油图片",
       "onboard_time": 1717711752,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 24568,
+      "num": 31330,
+      "word": "苦情树 糟糕的原生家庭",
+      "onboard_time": 1717704012,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 19533,
