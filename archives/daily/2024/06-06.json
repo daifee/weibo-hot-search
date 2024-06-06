@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717636762453,
+  "endTime": 1717638012695,
   "band_list": [
     {
       "raw_hot": 1893436,
@@ -19,8 +19,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1045180,
-      "num": 1045180,
+      "raw_hot": 1097807,
+      "num": 1097807,
       "word": "黄晓明曾跳瀑布救刘亦菲",
       "onboard_time": 1717632858,
       "rank": 3,
@@ -59,6 +59,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740657,
+      "num": 740657,
+      "word": "结婚离婚都是为了幸福",
+      "onboard_time": 1717635320,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 732575,
+      "num": 732575,
+      "word": "为什么打球要穿网球裙",
+      "onboard_time": 1717632317,
+      "rank": 10,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 619825,
       "num": 175995,
       "word": "朋友圈背景图",
@@ -91,20 +107,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 527653,
-      "num": 527653,
-      "word": "为什么打球要穿网球裙",
-      "onboard_time": 1717632317,
-      "rank": 10,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 524323,
-      "num": 524323,
-      "word": "结婚离婚都是为了幸福",
-      "onboard_time": 1717635320,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 518115,
+      "num": 518115,
+      "word": "李庚希大喊庄达菲我爱你",
+      "onboard_time": 1717634479,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 482116,
@@ -121,14 +129,6 @@
       "onboard_time": 1717634179,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 470680,
-      "num": 470680,
-      "word": "李庚希大喊庄达菲我爱你",
-      "onboard_time": 1717634479,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 465544,
@@ -211,6 +211,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 337494,
+      "num": 337494,
+      "word": "暴雪回归",
+      "onboard_time": 1717636638,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 315315,
+      "num": 315315,
+      "word": "庆余年2",
+      "onboard_time": 1717636638,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301306,
       "num": 226729,
       "word": "王鹤棣继西瓜皮后又有神图",
@@ -267,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 246500,
+      "num": 246500,
+      "word": "东方甄选知识带货变喊麦带货",
+      "onboard_time": 1717635678,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 244648,
       "num": 244648,
       "word": "高考监考都用上AI了",
@@ -307,12 +331,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 200404,
-      "num": 200404,
-      "word": "东方甄选知识带货变喊麦带货",
-      "onboard_time": 1717635678,
+      "raw_hot": 204179,
+      "num": 204179,
+      "word": "高考前的独家记忆看泪目了",
+      "onboard_time": 1717631958,
       "rank": 25,
-      "category": "互联网"
+      "category": "教育"
+    },
+    {
+      "raw_hot": 204147,
+      "num": 204147,
+      "word": "中国科学院院士寄语高考学子",
+      "onboard_time": 1717636936,
+      "rank": 26,
+      "category": "科学科普,教育"
     },
     {
       "raw_hot": 199592,
@@ -323,12 +355,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 195085,
+      "num": 195085,
+      "word": "魔兽世界",
+      "onboard_time": 1717635858,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185588,
       "num": 164131,
       "word": "汪苏泷晒其他歌手送的礼物",
       "onboard_time": 1717596501,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178930,
+      "num": 528581,
+      "word": "一人一句给高考生送祝福",
+      "onboard_time": 1717629555,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 177281,
@@ -353,14 +401,6 @@
       "onboard_time": 1717590318,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 165664,
-      "num": 165664,
-      "word": "魔兽世界",
-      "onboard_time": 1717635858,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 164602,
@@ -443,6 +483,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 136926,
+      "num": 136926,
+      "word": "英伟达市值反超苹果",
+      "onboard_time": 1717636879,
+      "rank": 35,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 136920,
       "num": 136920,
       "word": "香菜泡面",
@@ -459,12 +507,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 129315,
-      "num": 129315,
-      "word": "一人一句给高考生送祝福",
-      "onboard_time": 1717629555,
-      "rank": 48,
-      "category": "教育"
+      "raw_hot": 130524,
+      "num": 130524,
+      "word": "原来眼睛也需要防晒",
+      "onboard_time": 1717636699,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 127053,
@@ -475,12 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125193,
-      "num": 125193,
-      "word": "庆余年2",
-      "onboard_time": 1717636638,
+      "raw_hot": 117419,
+      "num": 117419,
+      "word": "孔子李白给高考打call了",
+      "onboard_time": 1717637479,
       "rank": 41,
-      "category": "剧集"
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 116030,
@@ -497,14 +545,6 @@
       "onboard_time": 1717636098,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 114996,
-      "num": 114996,
-      "word": "暴雪回归",
-      "onboard_time": 1717636638,
-      "rank": 44,
-      "category": "游戏"
     },
     {
       "raw_hot": 112569,
@@ -563,14 +603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 100968,
-      "num": 100968,
-      "word": "原来眼睛也需要防晒",
-      "onboard_time": 1717636699,
-      "rank": 49,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 100141,
       "num": 100141,
       "word": "摄影师拍陶昕然母女穿帮了",
@@ -585,6 +617,14 @@
       "onboard_time": 1717594938,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 99296,
+      "num": 539675,
+      "word": "学弟学妹合唱海阔天空为高考生加油",
+      "onboard_time": 1717633039,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 96367,
@@ -627,20 +667,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77811,
+      "num": 254890,
+      "word": "到东阿过端午",
+      "onboard_time": 1717636158,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77735,
       "num": 77735,
       "word": "新疆你无需宣传 有钱我自会出发",
       "onboard_time": 1717596618,
       "rank": 42,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 77200,
-      "num": 145095,
-      "word": "到东阿过端午",
-      "onboard_time": 1717636158,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 76809,
@@ -729,14 +769,6 @@
       "onboard_time": 1717612211,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 60221,
-      "num": 539675,
-      "word": "学弟学妹合唱海阔天空为高考生加油",
-      "onboard_time": 1717633039,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 54388,
@@ -883,7 +915,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 16818,
+      "raw_hot": 16899,
       "num": 1071012,
       "word": "我在五千年前等你",
       "onboard_time": 1717559118,

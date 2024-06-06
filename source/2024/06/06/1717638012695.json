@@ -1,0 +1,410 @@
+{
+  "runTime": 1717638012695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555718,
+        "num": 1555718,
+        "word": "别养臭水了可能会得肺炎",
+        "onboard_time": 1717632558,
+        "rank": 0,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 1097807,
+        "num": 1097807,
+        "word": "黄晓明曾跳瀑布救刘亦菲",
+        "onboard_time": 1717632858,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16899,
+        "num": 976846,
+        "word": "我在五千年前等你",
+        "onboard_time": 1717559118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 940895,
+        "num": 940895,
+        "word": "2024高考",
+        "onboard_time": 1717606635,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 864720,
+        "num": 864720,
+        "word": "大润发放弃小润发",
+        "onboard_time": 1717634118,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 740657,
+        "num": 740657,
+        "word": "结婚离婚都是为了幸福",
+        "onboard_time": 1717635320,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732575,
+        "num": 732575,
+        "word": "为什么打球要穿网球裙",
+        "onboard_time": 1717632317,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 672439,
+        "num": 672439,
+        "word": "小学生在瑞金医院发现上亿年前化石",
+        "onboard_time": 1717633639,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560851,
+        "num": 560851,
+        "word": "祝福高考",
+        "onboard_time": 1717635438,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178930,
+        "num": 528581,
+        "word": "一人一句给高考生送祝福",
+        "onboard_time": 1717629555,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 522705,
+        "num": 522705,
+        "word": "养了6年的巨骨舌鱼把自己摔死了",
+        "onboard_time": 1717602196,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518115,
+        "num": 518115,
+        "word": "李庚希大喊庄达菲我爱你",
+        "onboard_time": 1717634479,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 497182,
+        "num": 497182,
+        "word": "墨雨云间口碑逆跌",
+        "onboard_time": 1717631116,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469175,
+        "num": 469175,
+        "word": "王力宏 那晚的万人山谷都在说爱你",
+        "onboard_time": 1717634179,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386329,
+        "num": 386329,
+        "word": "官方回应种地吧音乐会线上收费",
+        "onboard_time": 1717630095,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337494,
+        "num": 337494,
+        "word": "暴雪回归",
+        "onboard_time": 1717636638,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332933,
+        "num": 332933,
+        "word": "57岁梁实第28次高考目标仍是川大",
+        "onboard_time": 1717631958,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 315315,
+        "num": 315315,
+        "word": "庆余年2",
+        "onboard_time": 1717636638,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266341,
+        "num": 266341,
+        "word": "爱奇艺 线下免费线上收费",
+        "onboard_time": 1717582219,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77811,
+        "num": 254890,
+        "word": "到东阿过端午",
+        "onboard_time": 1717636158,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 334893,
+        "num": 251628,
+        "word": "亲姐姐总暗示我给外甥买东西",
+        "onboard_time": 1717593438,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246500,
+        "num": 246500,
+        "word": "东方甄选知识带货变喊麦带货",
+        "onboard_time": 1717635678,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239415,
+        "num": 239415,
+        "word": "高考监考都用上AI了",
+        "onboard_time": 1717632136,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222907,
+        "num": 222907,
+        "word": "官方回应B太长沙夜市打假",
+        "onboard_time": 1717596379,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204187,
+        "num": 204187,
+        "word": "高考很大可能是考得最好的一次",
+        "onboard_time": 1717587737,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204179,
+        "num": 204179,
+        "word": "高考前的独家记忆看泪目了",
+        "onboard_time": 1717631958,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204147,
+        "num": 204147,
+        "word": "中国科学院院士寄语高考学子",
+        "onboard_time": 1717636936,
+        "rank": 26,
+        "category": "科学科普,教育"
+      },
+      {
+        "raw_hot": 195085,
+        "num": 195085,
+        "word": "魔兽世界",
+        "onboard_time": 1717635858,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191747,
+        "num": 191747,
+        "word": "TF三代出道战禁止线下应援",
+        "onboard_time": 1717621811,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188167,
+        "num": 188167,
+        "word": "不要把自己变成一个但是人",
+        "onboard_time": 1717629375,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164380,
+        "num": 164380,
+        "word": "周大福有员工称收到N+3赔偿",
+        "onboard_time": 1717618631,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153634,
+        "num": 153634,
+        "word": "大熊猫下班到点自己关门谢客",
+        "onboard_time": 1717631116,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152310,
+        "num": 152310,
+        "word": "哈工大的毕业车票上满是细节",
+        "onboard_time": 1717631176,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140672,
+        "num": 140672,
+        "word": "建议最近不要轻易离职",
+        "onboard_time": 1717586058,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140633,
+        "num": 140633,
+        "word": "中乌外交部磋商",
+        "onboard_time": 1717634838,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136926,
+        "num": 136926,
+        "word": "英伟达市值反超苹果",
+        "onboard_time": 1717636879,
+        "rank": 35,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 132200,
+        "num": 132200,
+        "word": "王星越早该上桌了",
+        "onboard_time": 1717631417,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132117,
+        "num": 132117,
+        "word": "李宇春 小宇",
+        "onboard_time": 1717602378,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "原来眼睛也需要防晒",
+        "onboard_time": 1717636699,
+        "rank": 38,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 126029,
+        "num": 126029,
+        "word": "朋友圈背景图",
+        "onboard_time": 1717598600,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119209,
+        "num": 119209,
+        "word": "蒋依依 远景",
+        "onboard_time": 1717593320,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117419,
+        "num": 117419,
+        "word": "孔子李白给高考打call了",
+        "onboard_time": 1717637479,
+        "rank": 41,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 116582,
+        "num": 116582,
+        "word": "为啥天天刷牙还有口臭",
+        "onboard_time": 1717616711,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111385,
+        "num": 111385,
+        "word": "香菜泡面",
+        "onboard_time": 1717632678,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110725,
+        "num": 110725,
+        "word": "如何延长眼睛的续航力",
+        "onboard_time": 1717635138,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 108590,
+        "num": 108590,
+        "word": "上海街头brunch",
+        "onboard_time": 1717636098,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 106879,
+        "num": 106879,
+        "word": "RNG更换首发中单",
+        "onboard_time": 1717631297,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102356,
+        "num": 102356,
+        "word": "NBA",
+        "onboard_time": 1717631958,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99296,
+        "num": 99296,
+        "word": "学弟学妹合唱海阔天空为高考生加油",
+        "onboard_time": 1717633039,
+        "rank": 48,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 89080,
+        "num": 89080,
+        "word": "发现外婆家的小狗在努力讨好我",
+        "onboard_time": 1717630516,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢固树立和践行绿水青山就是金山银山理念#"
+    }
+  }
+}
