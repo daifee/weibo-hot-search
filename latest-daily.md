@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 05:19:29
+本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 05:35:50
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AB%AF%E5%8D%88%E8%8A%82%E9%AB%98%E9%80%9F%E4%B8%8D%E5%85%8D%E8%B4%B9%23" target="weibo">
+为什么端午节高速不免费（热度：62237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E7%93%B6%E5%BA%A7%E8%81%8A%E5%A4%A9%E9%83%BD%E6%98%AF%E9%80%89%E6%8B%A9%E6%80%A7%E5%9B%9E%E5%A4%8D%23" target="weibo">
 水瓶座聊天都是选择性回复（热度：60976）
 </a>
@@ -387,12 +393,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AB%AF%E5%8D%88%E8%8A%82%E9%AB%98%E9%80%9F%E4%B8%8D%E5%85%8D%E8%B4%B9%23" target="weibo">
-为什么端午节高速不免费（热度：37483）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E8%BF%98%E6%9C%89%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E5%BA%A7%23" target="weibo">
 原来高铁还有低人一等座（热度：36371）
 </a>
@@ -406,7 +406,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%80%95%E4%B8%8D%E6%98%AF%E4%BB%8E%E8%80%B3%E6%9C%B5%E7%BA%A2%E5%88%B0%E8%84%96%E5%AD%90%E4%BA%86%23" target="weibo">
-张若昀怕不是从耳朵红到脖子了（热度：23811）
+张若昀怕不是从耳朵红到脖子了（热度：23815）
 </a>
 </li>
 
@@ -418,25 +418,25 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%9D%A1%E5%BE%AE%E5%8D%9A%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E7%94%9F%23" target="weibo">
-发条微博祝福高考生（热度：17685）
+发条微博祝福高考生（热度：19533）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%A6%E6%83%85%E6%A0%91%20%E7%B3%9F%E7%B3%95%E7%9A%84%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23" target="weibo">
-苦情树 糟糕的原生家庭（热度：16735）
+苦情树 糟糕的原生家庭（热度：17138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231342%E4%B8%87%E5%90%8D%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E5%B9%B8%E8%BF%90%E5%80%BC%E5%B7%B2%E5%8A%A0%E6%BB%A1%23" target="weibo">
+1342万名高考生的幸运值已加满（热度：16977）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E4%B8%BA%E5%9B%BD%E8%B6%B3%E5%8A%A0%E6%B2%B9%23" target="weibo">
 一起为国足加油（热度：16044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231342%E4%B8%87%E5%90%8D%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E5%B9%B8%E8%BF%90%E5%80%BC%E5%B7%B2%E5%8A%A0%E6%BB%A1%23" target="weibo">
-1342万名高考生的幸运值已加满（热度：14360）
 </a>
 </li>
 
