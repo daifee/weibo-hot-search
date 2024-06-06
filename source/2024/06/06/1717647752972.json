@@ -1,0 +1,410 @@
+{
+  "runTime": 1717647752972,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1557053,
+        "num": 1557053,
+        "word": "今年第一批丢准考证的人已经出现了",
+        "onboard_time": 1717642757,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1152233,
+        "num": 1152233,
+        "word": "女童掉入医院开水桶遭特重度烧伤",
+        "onboard_time": 1717639937,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 28632,
+        "num": 965132,
+        "word": "文化中国行感受生态智慧",
+        "onboard_time": 1717644977,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1224199,
+        "num": 964403,
+        "word": "肖战重庆暴走",
+        "onboard_time": 1717643477,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 962991,
+        "num": 962991,
+        "word": "微信体积11年膨胀575倍",
+        "onboard_time": 1717639577,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 624429,
+        "num": 624429,
+        "word": "王一博宫廷王子风",
+        "onboard_time": 1717646719,
+        "rank": 5,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 575578,
+        "num": 575578,
+        "word": "一人一句给高考生送祝福",
+        "onboard_time": 1717629555,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 569021,
+        "num": 569021,
+        "word": "别养臭水了可能会得肺炎",
+        "onboard_time": 1717632558,
+        "rank": 7,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 538727,
+        "num": 538727,
+        "word": "再也不敢买开口榴莲了",
+        "onboard_time": 1717644798,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132159,
+        "num": 523508,
+        "word": "出现这两种情况就该去查查干眼症了",
+        "onboard_time": 1717646419,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 513223,
+        "num": 513223,
+        "word": "2024高考",
+        "onboard_time": 1717606635,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 496531,
+        "num": 496531,
+        "word": "惠英红是刘亦菲一级铁粉",
+        "onboard_time": 1717644678,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423693,
+        "num": 423693,
+        "word": "徐艺洋曾一个月瘦20斤",
+        "onboard_time": 1717646899,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79059,
+        "num": 413425,
+        "word": "鸣潮吟霖上线",
+        "onboard_time": 1717645458,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407747,
+        "num": 407747,
+        "word": "赴山海开机",
+        "onboard_time": 1717644317,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406215,
+        "num": 406215,
+        "word": "结婚离婚都是为了幸福",
+        "onboard_time": 1717635320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396886,
+        "num": 396886,
+        "word": "张雪峰为所有考生打一场铁花",
+        "onboard_time": 1717642938,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 352355,
+        "num": 352355,
+        "word": "高考加油",
+        "onboard_time": 1717641918,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 340115,
+        "num": 340115,
+        "word": "咒术回战",
+        "onboard_time": 1717643719,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 336099,
+        "num": 336099,
+        "word": "吃白人饭一年的变化",
+        "onboard_time": 1717638738,
+        "rank": 19,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 788036,
+        "num": 335605,
+        "word": "海底捞给顾客喝二手饮品",
+        "onboard_time": 1717645877,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678995,
+        "num": 335305,
+        "word": "霉霉 任何女性都无需解释",
+        "onboard_time": 1717645038,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393865,
+        "num": 334840,
+        "word": "发现男性友谊很少提供情绪价值",
+        "onboard_time": 1717645997,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 366750,
+        "num": 333787,
+        "word": "NBA将签下760亿的转播协议",
+        "onboard_time": 1717643776,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333678,
+        "num": 333678,
+        "word": "祝福高考",
+        "onboard_time": 1717635438,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292860,
+        "num": 292860,
+        "word": "热巴 天生爱豆圣体",
+        "onboard_time": 1717641077,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288220,
+        "num": 288220,
+        "word": "李蠕蠕模仿老师高考前最后一课",
+        "onboard_time": 1717646179,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 270900,
+        "num": 270900,
+        "word": "重庆偶遇肖战吃路边摊",
+        "onboard_time": 1717644317,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256469,
+        "num": 256469,
+        "word": "网易 暴雪",
+        "onboard_time": 1717647438,
+        "rank": 28,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 98414,
+        "num": 242709,
+        "word": "札幌情人酒店割头案",
+        "onboard_time": 1717647260,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238342,
+        "num": 238342,
+        "word": "以军轰炸加沙一学校致至少30死",
+        "onboard_time": 1717638738,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 44734,
+        "num": 230399,
+        "word": "戚薇我的浪姐人脉",
+        "onboard_time": 1717646719,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230191,
+        "num": 230191,
+        "word": "高考前后别晒这些东西",
+        "onboard_time": 1717647198,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 227745,
+        "num": 227745,
+        "word": "墨雨云间口碑逆跌",
+        "onboard_time": 1717631116,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225247,
+        "num": 225247,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1717647079,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218615,
+        "num": 218615,
+        "word": "眼睛是人体最脆弱的器官之一",
+        "onboard_time": 1717643178,
+        "rank": 35,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 217304,
+        "num": 217304,
+        "word": "Red火箭少女Name合照",
+        "onboard_time": 1717645277,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216446,
+        "num": 216446,
+        "word": "教育局回应猥亵学生教师升任副校长",
+        "onboard_time": 1717643118,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215966,
+        "num": 215966,
+        "word": "暴雪回归",
+        "onboard_time": 1717636638,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 208926,
+        "num": 208926,
+        "word": "高考是你多少年前的回忆杀了",
+        "onboard_time": 1717640838,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204302,
+        "num": 204302,
+        "word": "张雪峰旗袍照",
+        "onboard_time": 1717645338,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 198506,
+        "num": 198506,
+        "word": "专八成绩",
+        "onboard_time": 1717642998,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 192686,
+        "num": 192686,
+        "word": "贵州省通报女企业家讨工程款事件",
+        "onboard_time": 1717647079,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192348,
+        "num": 192348,
+        "word": "黄晓明曾跳瀑布救刘亦菲",
+        "onboard_time": 1717632858,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189222,
+        "num": 189222,
+        "word": "成毅赴山海状态",
+        "onboard_time": 1717646899,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185493,
+        "num": 185493,
+        "word": "高考加油时刻",
+        "onboard_time": 1717647560,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185256,
+        "num": 185256,
+        "word": "为什么打球要穿网球裙",
+        "onboard_time": 1717632317,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 180496,
+        "num": 180496,
+        "word": "想魂穿坚果",
+        "onboard_time": 1717646360,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153353,
+        "num": 153353,
+        "word": "冰箱贴比冰箱还贵",
+        "onboard_time": 1717643958,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150304,
+        "num": 150304,
+        "word": "月球打工人正在忙着送快递",
+        "onboard_time": 1717647019,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#着力赓续中华文脉#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717644932074,
+  "endTime": 1717647752972,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -265,6 +265,14 @@
       "onboard_time": 1717464917,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1557053,
+      "num": 1557053,
+      "word": "今年第一批丢准考证的人已经出现了",
+      "onboard_time": 1717642757,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 1547441,
@@ -1291,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 788036,
+      "num": 335605,
+      "word": "海底捞给顾客喝二手饮品",
+      "onboard_time": 1717645877,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787125,
       "num": 583454,
       "word": "吴宣仪忘了放杨超越的照片",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1717240998,
       "rank": 30,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 744568,
-      "num": 744568,
-      "word": "今年第一批丢准考证的人已经出现了",
-      "onboard_time": 1717642757,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 744403,
@@ -1729,6 +1737,14 @@
       "onboard_time": 1717212917,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678995,
+      "num": 335305,
+      "word": "霉霉 任何女性都无需解释",
+      "onboard_time": 1717645038,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 677710,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1717231817,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 624429,
+      "num": 624429,
+      "word": "王一博宫廷王子风",
+      "onboard_time": 1717646719,
+      "rank": 5,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 623799,
@@ -2491,6 +2515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 538727,
+      "num": 538727,
+      "word": "再也不敢买开口榴莲了",
+      "onboard_time": 1717644798,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 537019,
       "num": 537019,
       "word": "刘宇宁李一桐吻戏路透",
@@ -2771,6 +2803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496531,
+      "num": 496531,
+      "word": "惠英红是刘亦菲一级铁粉",
+      "onboard_time": 1717644678,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 496160,
       "num": 330840,
       "word": "那英好奇孙楠的双眼皮",
@@ -3020,7 +3060,7 @@
     },
     {
       "raw_hot": 467844,
-      "num": 319717,
+      "num": 333787,
       "word": "NBA将签下760亿的转播协议",
       "onboard_time": 1717643776,
       "rank": 20,
@@ -3459,6 +3499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423693,
+      "num": 423693,
+      "word": "徐艺洋曾一个月瘦20斤",
+      "onboard_time": 1717646899,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420592,
       "num": 420592,
       "word": "Uzi直播红温",
@@ -3635,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407747,
+      "num": 407747,
+      "word": "赴山海开机",
+      "onboard_time": 1717644317,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406309,
       "num": 298195,
       "word": "打工人在711吃午饭丢人吗",
@@ -3769,6 +3825,14 @@
       "onboard_time": 1717221557,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393865,
+      "num": 334840,
+      "word": "发现男性友谊很少提供情绪价值",
+      "onboard_time": 1717645997,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 393362,
@@ -3977,14 +4041,6 @@
       "onboard_time": 1717205536,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 374157,
-      "num": 374157,
-      "word": "赴山海开机",
-      "onboard_time": 1717644317,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 373741,
@@ -4385,6 +4441,14 @@
       "onboard_time": 1717418658,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 340115,
+      "num": 340115,
+      "word": "咒术回战",
+      "onboard_time": 1717643719,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 338414,
@@ -4851,14 +4915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307759,
-      "num": 307759,
-      "word": "咒术回战",
-      "onboard_time": 1717643719,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 307477,
       "num": 307477,
       "word": "国足若输泰国将基本无缘世界杯",
@@ -5177,6 +5233,14 @@
       "onboard_time": 1717396338,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 288220,
+      "num": 288220,
+      "word": "李蠕蠕模仿老师高考前最后一课",
+      "onboard_time": 1717646179,
+      "rank": 26,
+      "category": "网红"
     },
     {
       "raw_hot": 287912,
@@ -5779,6 +5843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256469,
+      "num": 256469,
+      "word": "网易 暴雪",
+      "onboard_time": 1717647438,
+      "rank": 28,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 256353,
       "num": 297586,
       "word": "高考选择药物推迟经期有用吗",
@@ -6315,6 +6387,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 230191,
+      "num": 230191,
+      "word": "高考前后别晒这些东西",
+      "onboard_time": 1717647198,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 229971,
       "num": 229971,
       "word": "王楚钦世排第一7725分",
@@ -6473,6 +6553,14 @@
       "onboard_time": 1717406839,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225247,
+      "num": 225247,
+      "word": "布洛芬 能给卑职一个明示吗",
+      "onboard_time": 1717647079,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 225095,
@@ -6673,6 +6761,14 @@
       "onboard_time": 1717241778,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217304,
+      "num": 217304,
+      "word": "Red火箭少女Name合照",
+      "onboard_time": 1717645277,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 217127,
@@ -6899,6 +6995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208926,
+      "num": 309473,
+      "word": "高考是你多少年前的回忆杀了",
+      "onboard_time": 1717640838,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208857,
       "num": 208857,
       "word": "王曼昱女单八强",
@@ -7105,6 +7209,14 @@
       "onboard_time": 1717589538,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204302,
+      "num": 204302,
+      "word": "张雪峰旗袍照",
+      "onboard_time": 1717645338,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 204218,
@@ -7747,6 +7859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192686,
+      "num": 192686,
+      "word": "贵州省通报女企业家讨工程款事件",
+      "onboard_time": 1717647079,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192585,
       "num": 221082,
       "word": "父子被电梯硬控一小时",
@@ -7923,6 +8043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189222,
+      "num": 189222,
+      "word": "成毅赴山海状态",
+      "onboard_time": 1717646899,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189217,
       "num": 184030,
       "word": "你可能不是e人也不是i人而是A人",
@@ -8035,14 +8163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187213,
-      "num": 187213,
-      "word": "惠英红是刘亦菲一级铁粉",
-      "onboard_time": 1717644678,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187094,
       "num": 148576,
       "word": "迪丽热巴再跳女团舞",
@@ -8121,6 +8241,14 @@
       "onboard_time": 1717641557,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185493,
+      "num": 185493,
+      "word": "高考加油时刻",
+      "onboard_time": 1717647560,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 185426,
@@ -8313,6 +8441,14 @@
       "onboard_time": 1717458497,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180496,
+      "num": 180496,
+      "word": "想魂穿坚果",
+      "onboard_time": 1717646360,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 180224,
@@ -8649,14 +8785,6 @@
       "onboard_time": 1717403180,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174242,
-      "num": 309473,
-      "word": "高考是你多少年前的回忆杀了",
-      "onboard_time": 1717640838,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 173914,
@@ -9659,14 +9787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154993,
-      "num": 154993,
-      "word": "再也不敢买开口榴莲了",
-      "onboard_time": 1717644798,
-      "rank": 42,
-      "category": "美食"
-    },
-    {
       "raw_hot": 154988,
       "num": 154988,
       "word": "肖战藏海传杀青发文",
@@ -9913,6 +10033,14 @@
       "onboard_time": 1717199175,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150304,
+      "num": 150304,
+      "word": "月球打工人正在忙着送快递",
+      "onboard_time": 1717647019,
+      "rank": 49,
+      "category": "军事"
     },
     {
       "raw_hot": 150045,
@@ -10993,6 +11121,14 @@
       "onboard_time": 1717203376,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132159,
+      "num": 523508,
+      "word": "出现这两种情况就该去查查干眼症了",
+      "onboard_time": 1717646419,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 132134,
@@ -13147,6 +13283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98414,
+      "num": 242709,
+      "word": "札幌情人酒店割头案",
+      "onboard_time": 1717647260,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98337,
       "num": 98337,
       "word": "看得出秦岚好宠赵昭仪",
@@ -13601,6 +13745,14 @@
       "onboard_time": 1717304838,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 79059,
+      "num": 413425,
+      "word": "鸣潮吟霖上线",
+      "onboard_time": 1717645458,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 79058,
@@ -14643,6 +14795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 44734,
+      "num": 230399,
+      "word": "戚薇我的浪姐人脉",
+      "onboard_time": 1717646719,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43884,
       "num": 484983,
       "word": "警察听到小学生呼唤飞奔过马路接应",
@@ -15089,6 +15249,14 @@
       "onboard_time": 1717522632,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 28632,
+      "num": 965132,
+      "word": "文化中国行感受生态智慧",
+      "onboard_time": 1717644977,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28264,
