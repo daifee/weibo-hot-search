@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717669205484,
+  "endTime": 1717670222573,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -1835,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 695719,
+      "num": 695719,
+      "word": "我和专八离婚了",
+      "onboard_time": 1717665018,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 694912,
       "num": 273284,
       "word": "茅台冰淇淋买一送一没人吃",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1717480877,
       "rank": 12,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 648082,
-      "num": 648082,
-      "word": "我和专八离婚了",
-      "onboard_time": 1717665018,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 644289,
@@ -4236,7 +4236,7 @@
     },
     {
       "raw_hot": 385146,
-      "num": 359155,
+      "num": 360358,
       "word": "肖战晒老家日常",
       "onboard_time": 1717665139,
       "rank": 22,
@@ -4571,6 +4571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355699,
+      "num": 355699,
+      "word": "亚马逊部落通网后沉迷色情",
+      "onboard_time": 1717666759,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354295,
       "num": 354295,
       "word": "AI换脸帮我骗过了姥姥",
@@ -4729,6 +4737,14 @@
       "onboard_time": 1717295177,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342830,
+      "num": 368968,
+      "word": "2024祝福高考学子",
+      "onboard_time": 1717668980,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 341372,
@@ -5163,6 +5179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312342,
+      "num": 312342,
+      "word": "马来西亚学生超万人弃考",
+      "onboard_time": 1717667418,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311587,
       "num": 311587,
       "word": "邓为翻牌",
@@ -5289,14 +5313,6 @@
       "onboard_time": 1717244958,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304281,
-      "num": 304281,
-      "word": "亚马逊部落通网后沉迷色情",
-      "onboard_time": 1717666759,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304041,
@@ -5569,6 +5585,14 @@
       "onboard_time": 1717401800,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 289510,
+      "num": 268934,
+      "word": "周杰伦 当年我也是歌火人不火",
+      "onboard_time": 1717665799,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 289469,
@@ -6059,6 +6083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265587,
+      "num": 265587,
+      "word": "十个勤天结算画面",
+      "onboard_time": 1717668078,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265532,
       "num": 265532,
       "word": "朱婷 风范",
@@ -6259,6 +6291,14 @@
       "category": "教育,健康医疗"
     },
     {
+      "raw_hot": 256349,
+      "num": 256349,
+      "word": "周柯宇躺在迪丽热巴床上",
+      "onboard_time": 1717669938,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255072,
       "num": 210358,
       "word": "何浩楠 十个勤天监事一职被保留",
@@ -6371,14 +6411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251032,
-      "num": 251032,
-      "word": "十个勤天结算画面",
-      "onboard_time": 1717668078,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250890,
       "num": 227481,
       "word": "武艺十七岁还坐在爸爸肩上",
@@ -6425,6 +6457,14 @@
       "onboard_time": 1717576397,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 247926,
+      "num": 272697,
+      "word": "福宝到邻居家串门了",
+      "onboard_time": 1717667959,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247226,
@@ -6521,14 +6561,6 @@
       "onboard_time": 1717500677,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241154,
-      "num": 241154,
-      "word": "周杰伦 当年我也是歌火人不火",
-      "onboard_time": 1717665799,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 240593,
@@ -7003,14 +7035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225105,
-      "num": 251280,
-      "word": "马来西亚学生超万人弃考",
-      "onboard_time": 1717667418,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225095,
       "num": 225095,
       "word": "小朋友真的会把情绪价值拉满",
@@ -7433,6 +7457,14 @@
       "onboard_time": 1717657099,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 210491,
+      "num": 201959,
+      "word": "赵一博现场",
+      "onboard_time": 1717669339,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 210483,
@@ -8099,6 +8131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199401,
+      "num": 199401,
+      "word": "欢迎来到我身边定档",
+      "onboard_time": 1717668980,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198980,
       "num": 198980,
       "word": "王鹤棣晒桃花坞合照",
@@ -8193,6 +8233,14 @@
       "onboard_time": 1717646360,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197871,
+      "num": 197871,
+      "word": "何浩楠清唱",
+      "onboard_time": 1717669279,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 197842,
@@ -8425,6 +8473,14 @@
       "onboard_time": 1717395438,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 194453,
+      "num": 194453,
+      "word": "刘亦菲出道22年24个角色",
+      "onboard_time": 1717669459,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 194418,
@@ -8819,6 +8875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186932,
+      "num": 186932,
+      "word": "国足赛前直播",
+      "onboard_time": 1717669877,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186927,
       "num": 186927,
       "word": "幽门螺杆菌的根除方案",
@@ -9115,6 +9179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180214,
+      "num": 180214,
+      "word": "餐厅倒闭老板留下6只企鹅跑路",
+      "onboard_time": 1717669339,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180137,
       "num": 180137,
       "word": "巴黎世家 小时代照进现实",
@@ -9217,14 +9289,6 @@
       "onboard_time": 1717301958,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178806,
-      "num": 178806,
-      "word": "2024祝福高考学子",
-      "onboard_time": 1717668980,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 178703,
@@ -9681,14 +9745,6 @@
       "onboard_time": 1717568477,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169908,
-      "num": 169908,
-      "word": "福宝到邻居家串门了",
-      "onboard_time": 1717667959,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169699,
@@ -10947,6 +11003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148999,
+      "num": 148999,
+      "word": "挂柯南逢考必过",
+      "onboard_time": 1717669578,
+      "rank": 40,
+      "category": "教育,动漫"
+    },
+    {
       "raw_hot": 148918,
       "num": 180938,
       "word": "时空中的绘旅人",
@@ -11433,14 +11497,6 @@
       "onboard_time": 1717295177,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 141192,
-      "num": 141192,
-      "word": "欢迎来到我身边定档",
-      "onboard_time": 1717668980,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 141136,
@@ -12083,6 +12139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131597,
+      "num": 396517,
+      "word": "下班后的菜市场有多治愈",
+      "onboard_time": 1717667239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131475,
       "num": 205439,
       "word": "梦想的肌肉线条长在了6岁小孩姐身上",
@@ -12121,6 +12185,14 @@
       "onboard_time": 1717478298,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130665,
+      "num": 130665,
+      "word": "撒贝宁何炅李健 吉祥三保",
+      "onboard_time": 1717670118,
+      "rank": 49,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 130655,
@@ -14955,14 +15027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75342,
-      "num": 396517,
-      "word": "下班后的菜市场有多治愈",
-      "onboard_time": 1717667239,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75194,
       "num": 75194,
       "word": "刘亦菲19岁时的采访",
@@ -16403,6 +16467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29070,
+      "num": 198070,
+      "word": "马来西亚王室保镖殴打司机",
+      "onboard_time": 1717669818,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28264,
       "num": 284459,
       "word": "一人一句夸夸咱河南老乡",
@@ -16451,6 +16523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26602,
+      "num": 205545,
+      "word": "李云飞回应余承东用户受益才是价值",
+      "onboard_time": 1717666700,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26103,
       "num": 26103,
       "word": "千金府直播",
@@ -16497,14 +16577,6 @@
       "onboard_time": 1717657518,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23967,
-      "num": 205545,
-      "word": "李云飞回应余承东用户受益才是价值",
-      "onboard_time": 1717666700,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 23816,

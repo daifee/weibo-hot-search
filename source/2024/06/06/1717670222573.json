@@ -1,0 +1,410 @@
+{
+  "runTime": 1717670222573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793025,
+        "num": 793025,
+        "word": "楚乔传2没有赵丽颖林更新",
+        "onboard_time": 1717664839,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 695719,
+        "num": 695719,
+        "word": "我和专八离婚了",
+        "onboard_time": 1717665018,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 43190,
+        "num": 597408,
+        "word": "中国有约",
+        "onboard_time": 1717663579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1449111,
+        "num": 566803,
+        "word": "于东来自曝已是胃癌前期",
+        "onboard_time": 1717665497,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525690,
+        "num": 525690,
+        "word": "徐娇五分钟两次五杀",
+        "onboard_time": 1717664239,
+        "rank": 4,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 404622,
+        "num": 404622,
+        "word": "人体最先衰老的器官是什么",
+        "onboard_time": 1717653799,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 379799,
+        "num": 379799,
+        "word": "刘亦菲说喜欢黄亦玫的不同色彩",
+        "onboard_time": 1717665560,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379016,
+        "num": 379016,
+        "word": "张若昀 留档期",
+        "onboard_time": 1717662678,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209767,
+        "num": 371691,
+        "word": "连发五年年终奖突然停发合法吗",
+        "onboard_time": 1717657217,
+        "rank": 8,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 342830,
+        "num": 368968,
+        "word": "2024祝福高考学子",
+        "onboard_time": 1717668980,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 862182,
+        "num": 368644,
+        "word": "2008年故意考0分考生重上考场",
+        "onboard_time": 1717651698,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 368301,
+        "num": 368301,
+        "word": "种地吧直播 破防",
+        "onboard_time": 1717661178,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360358,
+        "num": 360358,
+        "word": "肖战晒老家日常",
+        "onboard_time": 1717665139,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355699,
+        "num": 355699,
+        "word": "亚马逊部落通网后沉迷色情",
+        "onboard_time": 1717666759,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329236,
+        "num": 329236,
+        "word": "王妈复更",
+        "onboard_time": 1717666999,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320730,
+        "num": 320730,
+        "word": "孟子义已经退出华语乐坛三个月",
+        "onboard_time": 1717660638,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318400,
+        "num": 318400,
+        "word": "大学生全款拿下28平小公寓",
+        "onboard_time": 1717652299,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 312342,
+        "num": 312342,
+        "word": "马来西亚学生超万人弃考",
+        "onboard_time": 1717667418,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282993,
+        "num": 282993,
+        "word": "海底捞给顾客喝二手饮品",
+        "onboard_time": 1717645877,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247926,
+        "num": 272697,
+        "word": "福宝到邻居家串门了",
+        "onboard_time": 1717667959,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1290354,
+        "num": 270097,
+        "word": "孟美岐榜字写错",
+        "onboard_time": 1717664959,
+        "rank": 20,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 289510,
+        "num": 268934,
+        "word": "周杰伦 当年我也是歌火人不火",
+        "onboard_time": 1717665799,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265587,
+        "num": 265587,
+        "word": "十个勤天结算画面",
+        "onboard_time": 1717668078,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256349,
+        "num": 256349,
+        "word": "周柯宇躺在迪丽热巴床上",
+        "onboard_time": 1717669938,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202101,
+        "num": 202101,
+        "word": "李白去年怎么没来",
+        "onboard_time": 1717665858,
+        "rank": 24,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 210491,
+        "num": 201959,
+        "word": "赵一博现场",
+        "onboard_time": 1717669339,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26602,
+        "num": 199882,
+        "word": "李云飞回应余承东用户受益才是价值",
+        "onboard_time": 1717666700,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 199401,
+        "num": 199401,
+        "word": "欢迎来到我身边定档",
+        "onboard_time": 1717668980,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69634,
+        "num": 198389,
+        "word": "淘宝将为中国公主清空购物车",
+        "onboard_time": 1717664417,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29070,
+        "num": 198070,
+        "word": "马来西亚王室保镖殴打司机",
+        "onboard_time": 1717669818,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197871,
+        "num": 197871,
+        "word": "何浩楠清唱",
+        "onboard_time": 1717669279,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194453,
+        "num": 194453,
+        "word": "刘亦菲出道22年24个角色",
+        "onboard_time": 1717669459,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193905,
+        "num": 193905,
+        "word": "A股下跌个股近4800只",
+        "onboard_time": 1717663699,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186932,
+        "num": 186932,
+        "word": "国足赛前直播",
+        "onboard_time": 1717669877,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180214,
+        "num": 180214,
+        "word": "餐厅倒闭老板留下6只企鹅跑路",
+        "onboard_time": 1717669339,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171092,
+        "num": 171092,
+        "word": "谁拿到了张杰亲手包的糖",
+        "onboard_time": 1717663039,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170557,
+        "num": 170557,
+        "word": "高考加油",
+        "onboard_time": 1717641918,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163129,
+        "num": 163129,
+        "word": "种地吧直播",
+        "onboard_time": 1717656258,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161573,
+        "num": 161573,
+        "word": "刘亦菲万茜生图",
+        "onboard_time": 1717666518,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153668,
+        "num": 153668,
+        "word": "外交部回应印度总理莫迪涉台言论",
+        "onboard_time": 1717665919,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 148999,
+        "num": 148999,
+        "word": "挂柯南逢考必过",
+        "onboard_time": 1717669578,
+        "rank": 40,
+        "category": "教育,动漫"
+      },
+      {
+        "raw_hot": 148315,
+        "num": 148315,
+        "word": "麦田音乐节",
+        "onboard_time": 1717666278,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140664,
+        "num": 140664,
+        "word": "皇马球迷涉嫌种族歧视",
+        "onboard_time": 1717667538,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138590,
+        "num": 138590,
+        "word": "成毅赴山海绿衣造型",
+        "onboard_time": 1717667179,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131597,
+        "num": 137235,
+        "word": "下班后的菜市场有多治愈",
+        "onboard_time": 1717667239,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137046,
+        "num": 137046,
+        "word": "夏梦好漂亮",
+        "onboard_time": 1717662917,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134119,
+        "num": 134119,
+        "word": "警方通报男子将妻子伤害致死后跳楼",
+        "onboard_time": 1717653558,
+        "rank": 46,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 133414,
+        "num": 133414,
+        "word": "听到以后没有寒暑假都不笑了",
+        "onboard_time": 1717659677,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131221,
+        "num": 131221,
+        "word": "网易云音乐虚假宣传线下打卡活动",
+        "onboard_time": 1717665078,
+        "rank": 48,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 130665,
+        "num": 130665,
+        "word": "撒贝宁何炅李健 吉祥三保",
+        "onboard_time": 1717670118,
+        "rank": 49,
+        "category": "教育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国肯恩大学校长雷波列特#"
+    }
+  }
+}

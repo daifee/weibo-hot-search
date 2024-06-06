@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717669205484,
+  "endTime": 1717670222573,
   "band_list": [
     {
       "raw_hot": 2049838,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 695719,
+      "num": 695719,
+      "word": "我和专八离婚了",
+      "onboard_time": 1717665018,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 681384,
       "num": 659463,
       "word": "徐艺洋曾一个月瘦20斤",
@@ -329,14 +337,6 @@
       "onboard_time": 1717664239,
       "rank": 12,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 648082,
-      "num": 648082,
-      "word": "我和专八离婚了",
-      "onboard_time": 1717665018,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 640505,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 385146,
-      "num": 359155,
+      "num": 360358,
       "word": "肖战晒老家日常",
       "onboard_time": 1717665139,
       "rank": 22,
@@ -705,6 +705,22 @@
       "onboard_time": 1717631958,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 355699,
+      "num": 355699,
+      "word": "亚马逊部落通网后沉迷色情",
+      "onboard_time": 1717666759,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342830,
+      "num": 368968,
+      "word": "2024祝福高考学子",
+      "onboard_time": 1717668980,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 341372,
@@ -755,20 +771,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312342,
+      "num": 312342,
+      "word": "马来西亚学生超万人弃考",
+      "onboard_time": 1717667418,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308661,
       "num": 308661,
       "word": "十斤的橘猫 九斤半的心眼子",
       "onboard_time": 1717648879,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 304281,
-      "num": 304281,
-      "word": "亚马逊部落通网后沉迷色情",
-      "onboard_time": 1717666759,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 301306,
@@ -825,6 +841,14 @@
       "onboard_time": 1717649659,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289510,
+      "num": 268934,
+      "word": "周杰伦 当年我也是歌火人不火",
+      "onboard_time": 1717665799,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 288220,
@@ -899,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265587,
+      "num": 265587,
+      "word": "十个勤天结算画面",
+      "onboard_time": 1717668078,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265508,
       "num": 264439,
       "word": "爱奇艺",
@@ -931,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256349,
+      "num": 256349,
+      "word": "周柯宇躺在迪丽热巴床上",
+      "onboard_time": 1717669938,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252068,
       "num": 252068,
       "word": "TF三代出道战禁止线下应援",
@@ -947,20 +987,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251032,
-      "num": 251032,
-      "word": "十个勤天结算画面",
-      "onboard_time": 1717668078,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250710,
       "num": 250710,
       "word": "杨幂大波浪梦回夏晚晴",
       "onboard_time": 1717650498,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247926,
+      "num": 272697,
+      "word": "福宝到邻居家串门了",
+      "onboard_time": 1717667959,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247226,
@@ -985,14 +1025,6 @@
       "onboard_time": 1717632136,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 241154,
-      "num": 241154,
-      "word": "周杰伦 当年我也是歌火人不火",
-      "onboard_time": 1717665799,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 233258,
@@ -1025,14 +1057,6 @@
       "onboard_time": 1717654698,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 225105,
-      "num": 251280,
-      "word": "马来西亚学生超万人弃考",
-      "onboard_time": 1717667418,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225039,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1717657099,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 210491,
+      "num": 201959,
+      "word": "赵一博现场",
+      "onboard_time": 1717669339,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 210483,
@@ -1259,6 +1291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 199401,
+      "num": 199401,
+      "word": "欢迎来到我身边定档",
+      "onboard_time": 1717668980,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198959,
       "num": 198959,
       "word": "刘亦菲古装挑染",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1717646360,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197871,
+      "num": 197871,
+      "word": "何浩楠清唱",
+      "onboard_time": 1717669279,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 197765,
@@ -1339,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194453,
+      "num": 194453,
+      "word": "刘亦菲出道22年24个角色",
+      "onboard_time": 1717669459,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192335,
       "num": 192335,
       "word": "教育部发布3点考前提示",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1717638077,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186932,
+      "num": 186932,
+      "word": "国足赛前直播",
+      "onboard_time": 1717669877,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 186432,
@@ -1443,12 +1507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178806,
-      "num": 178806,
-      "word": "2024祝福高考学子",
-      "onboard_time": 1717668980,
-      "rank": 32,
-      "category": "教育"
+      "raw_hot": 180214,
+      "num": 180214,
+      "word": "餐厅倒闭老板留下6只企鹅跑路",
+      "onboard_time": 1717669339,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178703,
@@ -1505,14 +1569,6 @@
       "onboard_time": 1717664539,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169908,
-      "num": 169908,
-      "word": "福宝到邻居家串门了",
-      "onboard_time": 1717667959,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169561,
@@ -1787,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148999,
+      "num": 148999,
+      "word": "挂柯南逢考必过",
+      "onboard_time": 1717669578,
+      "rank": 40,
+      "category": "教育,动漫"
+    },
+    {
       "raw_hot": 148126,
       "num": 148126,
       "word": "林孝埈夺冠感谢教练和队友",
@@ -1873,14 +1937,6 @@
       "onboard_time": 1717667179,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141192,
-      "num": 141192,
-      "word": "欢迎来到我身边定档",
-      "onboard_time": 1717668980,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 140382,
@@ -1995,12 +2051,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131597,
+      "num": 396517,
+      "word": "下班后的菜市场有多治愈",
+      "onboard_time": 1717667239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131091,
       "num": 131091,
       "word": "嫦娥六号上演月上之吻",
       "onboard_time": 1717666400,
       "rank": 42,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 130665,
+      "num": 130665,
+      "word": "撒贝宁何炅李健 吉祥三保",
+      "onboard_time": 1717670118,
+      "rank": 49,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 130655,
@@ -2379,14 +2451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75342,
-      "num": 396517,
-      "word": "下班后的菜市场有多治愈",
-      "onboard_time": 1717667239,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75194,
       "num": 75194,
       "word": "刘亦菲19岁时的采访",
@@ -2643,6 +2707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 29070,
+      "num": 198070,
+      "word": "马来西亚王室保镖殴打司机",
+      "onboard_time": 1717669818,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26722,
       "num": 530686,
       "word": "白内障到什么程度需要手术",
@@ -2659,20 +2731,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26602,
+      "num": 205545,
+      "word": "李云飞回应余承东用户受益才是价值",
+      "onboard_time": 1717666700,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 24078,
       "num": 229597,
       "word": "小鬼对毛不易连环问",
       "onboard_time": 1717657518,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23967,
-      "num": 205545,
-      "word": "李云飞回应余承东用户受益才是价值",
-      "onboard_time": 1717666700,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 23816,
