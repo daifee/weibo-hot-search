@@ -1,0 +1,410 @@
+{
+  "runTime": 1717663031428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072365,
+        "num": 1072365,
+        "word": "人体最先衰老的器官是什么",
+        "onboard_time": 1717653799,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 862526,
+        "num": 862526,
+        "word": "2008年故意考0分考生重上考场",
+        "onboard_time": 1717651698,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 59667,
+        "num": 818678,
+        "word": "一人一句祝福高考生",
+        "onboard_time": 1717644739,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 795603,
+        "num": 795603,
+        "word": "孟子义已经退出华语乐坛三个月",
+        "onboard_time": 1717660638,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 786114,
+        "num": 786114,
+        "word": "大学生全款拿下28平小公寓",
+        "onboard_time": 1717652299,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 729490,
+        "num": 729490,
+        "word": "种地吧直播 破防",
+        "onboard_time": 1717661178,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585188,
+        "num": 585188,
+        "word": "TypeC嘴",
+        "onboard_time": 1717657878,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514581,
+        "num": 514581,
+        "word": "种地吧直播",
+        "onboard_time": 1717656258,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513083,
+        "num": 513083,
+        "word": "海底捞给顾客喝二手饮品",
+        "onboard_time": 1717645877,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424072,
+        "num": 424072,
+        "word": "警方通报男子将妻子伤害致死后跳楼",
+        "onboard_time": 1717653558,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 513041,
+        "num": 423970,
+        "word": "刘亦菲杨幂早期互相撑伞照",
+        "onboard_time": 1717658118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512144,
+        "num": 405400,
+        "word": "孙俪妹妹北电毕业照",
+        "onboard_time": 1717658840,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95723,
+        "num": 383242,
+        "word": "致高考也致青春",
+        "onboard_time": 1717662739,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 41371,
+        "num": 368443,
+        "word": "车圈高考极氪请战科目二",
+        "onboard_time": 1717659797,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 39774,
+        "num": 349444,
+        "word": "辛纳官宣出战2024中网",
+        "onboard_time": 1717660819,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344777,
+        "num": 344777,
+        "word": "檀健次吐烟",
+        "onboard_time": 1717651098,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318784,
+        "num": 318784,
+        "word": "赵丽颖渔夫帽自拍",
+        "onboard_time": 1717662019,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291644,
+        "num": 291644,
+        "word": "发现男性友谊很少提供情绪价值",
+        "onboard_time": 1717645997,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280887,
+        "num": 280887,
+        "word": "听到以后没有寒暑假都不笑了",
+        "onboard_time": 1717659677,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264309,
+        "num": 264309,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1717647079,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364199,
+        "num": 263285,
+        "word": "付辛博颖儿车窗吻",
+        "onboard_time": 1717657278,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308159,
+        "num": 262300,
+        "word": "吴谨言演过老炮儿",
+        "onboard_time": 1717655718,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 295647,
+        "num": 260936,
+        "word": "孙楠pk揭榜歌手在线投票",
+        "onboard_time": 1717656017,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277209,
+        "num": 260729,
+        "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
+        "onboard_time": 1717657999,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273195,
+        "num": 259543,
+        "word": "周杰伦不敢参加周杰伦接歌大赛",
+        "onboard_time": 1717652539,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265508,
+        "num": 257356,
+        "word": "爱奇艺",
+        "onboard_time": 1717660998,
+        "rank": 25,
+        "category": "演出,互联网"
+      },
+      {
+        "raw_hot": 257235,
+        "num": 257235,
+        "word": "刘亦菲荡领短裙",
+        "onboard_time": 1717659797,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247116,
+        "num": 247116,
+        "word": "高考加油",
+        "onboard_time": 1717641918,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240087,
+        "num": 240087,
+        "word": "证监会原主席易会满履新职",
+        "onboard_time": 1717656078,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205530,
+        "num": 230996,
+        "word": "连发五年年终奖突然停发合法吗",
+        "onboard_time": 1717657217,
+        "rank": 29,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 37238,
+        "num": 227227,
+        "word": "郭麒麟小鬼迷失在魏大勋的粤语里",
+        "onboard_time": 1717661058,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250503,
+        "num": 226385,
+        "word": "十个勤天",
+        "onboard_time": 1717652181,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223969,
+        "num": 223969,
+        "word": "印度空姐直肠藏金牵出走私黄金大案",
+        "onboard_time": 1717658840,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209572,
+        "num": 209572,
+        "word": "985硕士农民说高考并非人生全部",
+        "onboard_time": 1717660277,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205172,
+        "num": 205172,
+        "word": "张若昀 留档期",
+        "onboard_time": 1717662678,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201126,
+        "num": 201126,
+        "word": "有多少男艺人喜欢过孙俪",
+        "onboard_time": 1717659497,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184493,
+        "num": 184493,
+        "word": "祝福高考",
+        "onboard_time": 1717635438,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115810,
+        "num": 171389,
+        "word": "陷入互联网信贷产品的年轻人",
+        "onboard_time": 1717660819,
+        "rank": 37,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 170809,
+        "num": 170809,
+        "word": "墨雨云间 平替",
+        "onboard_time": 1717649780,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169094,
+        "num": 169094,
+        "word": "十个勤天音乐节演出",
+        "onboard_time": 1717662319,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162763,
+        "num": 162763,
+        "word": "我国第二次月球轨道交会对接",
+        "onboard_time": 1717661418,
+        "rank": 40,
+        "category": "国内时政,科学科普"
+      },
+      {
+        "raw_hot": 160183,
+        "num": 160183,
+        "word": "戚薇 每一科都bangbang",
+        "onboard_time": 1717660038,
+        "rank": 41,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 155858,
+        "num": 155858,
+        "word": "中国女排香港站15人名单",
+        "onboard_time": 1717660758,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143581,
+        "num": 143581,
+        "word": "夏梦好漂亮",
+        "onboard_time": 1717662917,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140109,
+        "num": 140109,
+        "word": "拉勾和上吊有什么关系",
+        "onboard_time": 1717658358,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 135744,
+        "num": 135744,
+        "word": "王一博宫廷王子风",
+        "onboard_time": 1717646719,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133771,
+        "num": 133771,
+        "word": "Selina谈到男友哭了",
+        "onboard_time": 1717650498,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130549,
+        "num": 130549,
+        "word": "剑网3十年之约",
+        "onboard_time": 1717662978,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129277,
+        "num": 129277,
+        "word": "高考 卖花",
+        "onboard_time": 1717649539,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8555,
+        "num": 128575,
+        "word": "能给我挖一勺面霜吗",
+        "onboard_time": 1717662619,
+        "rank": 49,
+        "category": "美妆,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国肯恩大学校长雷波列特#"
+    }
+  }
+}

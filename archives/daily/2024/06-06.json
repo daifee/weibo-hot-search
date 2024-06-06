@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717662254914,
+  "endTime": 1717663031428,
   "band_list": [
     {
       "raw_hot": 2049838,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 795603,
+      "num": 795603,
+      "word": "孟子义已经退出华语乐坛三个月",
+      "onboard_time": 1717660638,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 784705,
       "num": 784705,
       "word": "种地吧直播",
@@ -233,6 +241,14 @@
       "onboard_time": 1717632317,
       "rank": 10,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 729490,
+      "num": 729490,
+      "word": "种地吧直播 破防",
+      "onboard_time": 1717661178,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 697166,
@@ -345,14 +361,6 @@
       "onboard_time": 1717644798,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 588614,
-      "num": 588614,
-      "word": "孟子义已经退出华语乐坛三个月",
-      "onboard_time": 1717660638,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 583761,
@@ -515,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 445427,
-      "num": 445427,
-      "word": "种地吧直播 破防",
-      "onboard_time": 1717661178,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 444827,
       "num": 177420,
       "word": "医院开展男性根浴服务被处罚",
@@ -643,6 +643,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 318784,
+      "num": 318784,
+      "word": "赵丽颖渔夫帽自拍",
+      "onboard_time": 1717662019,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 315315,
       "num": 315315,
       "word": "庆余年2",
@@ -739,6 +747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280887,
+      "num": 295512,
+      "word": "听到以后没有寒暑假都不笑了",
+      "onboard_time": 1717659677,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 278932,
       "num": 278932,
       "word": "重庆偶遇肖战吃路边摊",
@@ -771,12 +787,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264439,
+      "raw_hot": 265508,
       "num": 264439,
       "word": "爱奇艺",
       "onboard_time": 1717660998,
       "rank": 26,
       "category": "演出,互联网"
+    },
+    {
+      "raw_hot": 257235,
+      "num": 257235,
+      "word": "刘亦菲荡领短裙",
+      "onboard_time": 1717659797,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 257121,
@@ -785,14 +809,6 @@
       "onboard_time": 1717603638,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 253542,
-      "num": 295512,
-      "word": "听到以后没有寒暑假都不笑了",
-      "onboard_time": 1717659677,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 252068,
@@ -816,14 +832,6 @@
       "word": "杨幂大波浪梦回夏晚晴",
       "onboard_time": 1717650498,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 250608,
-      "num": 250608,
-      "word": "刘亦菲荡领短裙",
-      "onboard_time": 1717659797,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -907,6 +915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223969,
+      "num": 237353,
+      "word": "印度空姐直肠藏金牵出走私黄金大案",
+      "onboard_time": 1717658840,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 223919,
       "num": 223919,
       "word": "肖战工作室什么时候放饭",
@@ -961,14 +977,6 @@
       "onboard_time": 1717596859,
       "rank": 8,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 215854,
-      "num": 215854,
-      "word": "赵丽颖渔夫帽自拍",
-      "onboard_time": 1717662019,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 210518,
@@ -1043,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205172,
+      "num": 205172,
+      "word": "张若昀 留档期",
+      "onboard_time": 1717662678,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204831,
       "num": 204831,
       "word": "我国第二次月球轨道交会对接",
@@ -1075,6 +1091,14 @@
       "category": "科学科普,教育"
     },
     {
+      "raw_hot": 201126,
+      "num": 201126,
+      "word": "有多少男艺人喜欢过孙俪",
+      "onboard_time": 1717659497,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 200913,
       "num": 200913,
       "word": "刘亦菲手里拿的是玉米",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1717657398,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 198465,
-      "num": 198465,
-      "word": "有多少男艺人喜欢过孙俪",
-      "onboard_time": 1717659497,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198189,
@@ -1161,14 +1177,6 @@
       "onboard_time": 1717644378,
       "rank": 33,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 196241,
-      "num": 237353,
-      "word": "印度空姐直肠藏金牵出走私黄金大案",
-      "onboard_time": 1717658840,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196015,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1717590318,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 169094,
+      "num": 169094,
+      "word": "十个勤天音乐节演出",
+      "onboard_time": 1717662319,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 167482,
@@ -1595,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143581,
+      "num": 143581,
+      "word": "夏梦好漂亮",
+      "onboard_time": 1717662917,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143147,
       "num": 143147,
       "word": "微博电影之夜",
@@ -1731,6 +1755,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 130549,
+      "num": 130549,
+      "word": "剑网3十年之约",
+      "onboard_time": 1717662978,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130524,
       "num": 130524,
       "word": "原来眼睛也需要防晒",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1717630516,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 115810,
+      "num": 499311,
+      "word": "陷入互联网信贷产品的年轻人",
+      "onboard_time": 1717660819,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 115592,
@@ -1979,6 +2019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95723,
+      "num": 383242,
+      "word": "致高考也致青春",
+      "onboard_time": 1717662739,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 91210,
       "num": 493565,
       "word": "国家队陪你一起上考场",
@@ -2099,14 +2147,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 66076,
-      "num": 499311,
-      "word": "陷入互联网信贷产品的年轻人",
-      "onboard_time": 1717660819,
-      "rank": 9,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 66042,
       "num": 75982,
       "word": "王楚钦祝高考生金榜题名",
@@ -2147,7 +2187,7 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 57826,
+      "raw_hot": 59667,
       "num": 1507633,
       "word": "一人一句祝福高考生",
       "onboard_time": 1717644739,
@@ -2227,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41371,
+      "num": 423005,
+      "word": "车圈高考极氪请战科目二",
+      "onboard_time": 1717659797,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40303,
       "num": 43514,
       "word": "leave闪现接箭",
@@ -2235,7 +2283,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39105,
+      "raw_hot": 39774,
       "num": 411201,
       "word": "辛纳官宣出战2024中网",
       "onboard_time": 1717660819,
@@ -2243,16 +2291,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36776,
-      "num": 423005,
-      "word": "车圈高考极氪请战科目二",
-      "onboard_time": 1717659797,
-      "rank": 13,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 35486,
-      "num": 221996,
+      "raw_hot": 37238,
+      "num": 227227,
       "word": "郭麒麟小鬼迷失在魏大勋的粤语里",
       "onboard_time": 1717661058,
       "rank": 30,
@@ -2433,6 +2473,14 @@
       "onboard_time": 1717614430,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 8555,
+      "num": 128575,
+      "word": "能给我挖一勺面霜吗",
+      "onboard_time": 1717662619,
+      "rank": 49,
+      "category": "美妆,情感"
     }
   ],
   "hotgov_list": [
@@ -2444,6 +2492,9 @@
     },
     {
       "word": "#牢记嘱托加油干#"
+    },
+    {
+      "word": "#习近平复信美国肯恩大学校长雷波列特#"
     }
   ]
 }
