@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 04:34:49
+本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 05:19:29
 </p>
 </blockquote>
 <p>
@@ -387,8 +387,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AB%AF%E5%8D%88%E8%8A%82%E9%AB%98%E9%80%9F%E4%B8%8D%E5%85%8D%E8%B4%B9%23" target="weibo">
+为什么端午节高速不免费（热度：37483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E9%93%81%E8%BF%98%E6%9C%89%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E5%BA%A7%23" target="weibo">
-原来高铁还有低人一等座（热度：36014）
+原来高铁还有低人一等座（热度：36371）
 </a>
 </li>
 
@@ -411,8 +417,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%9D%A1%E5%BE%AE%E5%8D%9A%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E7%94%9F%23" target="weibo">
+发条微博祝福高考生（热度：17685）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%A6%E6%83%85%E6%A0%91%20%E7%B3%9F%E7%B3%95%E7%9A%84%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23" target="weibo">
-苦情树 糟糕的原生家庭（热度：16402）
+苦情树 糟糕的原生家庭（热度：16735）
 </a>
 </li>
 
@@ -423,20 +435,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%9D%A1%E5%BE%AE%E5%8D%9A%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E7%94%9F%23" target="weibo">
-发条微博祝福高考生（热度：14055）
+<a href="https://s.weibo.com/weibo?q=%231342%E4%B8%87%E5%90%8D%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E5%B9%B8%E8%BF%90%E5%80%BC%E5%B7%B2%E5%8A%A0%E6%BB%A1%23" target="weibo">
+1342万名高考生的幸运值已加满（热度：14360）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E5%90%A7%E6%88%91%E4%BB%AC%E5%9C%A8%E5%86%9B%E6%A0%A1%E7%AD%89%E4%BD%A0%23" target="weibo">
+高考加油吧我们在军校等你（热度：13869）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E5%B0%BD%E7%AE%A1%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E5%90%8E%E6%96%B9%E6%9C%89%E6%88%91%E4%BB%AC%E4%BF%9D%E9%A9%BE%E6%8A%A4%E8%88%AA%23" target="weibo">
 你们尽管全力以赴后方有我们保驾护航（热度：13530）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E5%90%A7%E6%88%91%E4%BB%AC%E5%9C%A8%E5%86%9B%E6%A0%A1%E7%AD%89%E4%BD%A0%23" target="weibo">
-高考加油吧我们在军校等你（热度：13509）
 </a>
 </li>
 
