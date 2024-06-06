@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717663031428,
+  "endTime": 1717665695873,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -425,6 +425,14 @@
       "onboard_time": 1717464559,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1264807,
+      "num": 1264807,
+      "word": "楚乔传2没有赵丽颖林更新",
+      "onboard_time": 1717664839,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1248870,
@@ -1059,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 821729,
+      "num": 795603,
+      "word": "孟子义已经退出华语乐坛三个月",
+      "onboard_time": 1717660638,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 806319,
       "num": 806319,
       "word": "剧组ICU拍剧竟让患者家属哭小声点",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1717425738,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 795603,
-      "num": 795603,
-      "word": "孟子义已经退出华语乐坛三个月",
-      "onboard_time": 1717660638,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 794848,
@@ -1465,6 +1473,14 @@
       "onboard_time": 1717486516,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700116,
+      "num": 508363,
+      "word": "张若昀 留档期",
+      "onboard_time": 1717662678,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 697166,
@@ -2035,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 586909,
+      "num": 497856,
+      "word": "夏梦好漂亮",
+      "onboard_time": 1717662917,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 583761,
       "num": 583761,
       "word": "孙俪妹妹北电毕业照",
@@ -2547,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496196,
+      "num": 496196,
+      "word": "谁拿到了张杰亲手包的糖",
+      "onboard_time": 1717663039,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 495402,
       "num": 495402,
       "word": "蒋勤勤曾想在甄嬛传中客串纯元皇后",
@@ -2777,6 +2809,14 @@
       "onboard_time": 1717584259,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464713,
+      "num": 464713,
+      "word": "徐娇五分钟两次五杀",
+      "onboard_time": 1717664239,
+      "rank": 12,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 461737,
@@ -3227,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 414445,
+      "num": 414445,
+      "word": "听到以后没有寒暑假都不笑了",
+      "onboard_time": 1717659677,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 414387,
       "num": 230270,
       "word": "秦岚腰臀比",
@@ -3369,6 +3417,14 @@
       "onboard_time": 1717555938,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 398054,
+      "num": 398054,
+      "word": "孟美岐榜字写错",
+      "onboard_time": 1717664959,
+      "rank": 16,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 397846,
@@ -3803,6 +3859,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 346204,
+      "num": 346204,
+      "word": "我和专八离婚了",
+      "onboard_time": 1717665018,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 346188,
       "num": 346188,
       "word": "为什么听自己的声音回放觉得难听",
@@ -3873,6 +3937,14 @@
       "onboard_time": 1717643719,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 338823,
+      "num": 263909,
+      "word": "肖战晒老家日常",
+      "onboard_time": 1717665139,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 338414,
@@ -4627,14 +4699,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 280887,
-      "num": 295512,
-      "word": "听到以后没有寒暑假都不笑了",
-      "onboard_time": 1717659677,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 280197,
       "num": 280197,
       "word": "娜扎江疏影cue张若昀",
@@ -4689,6 +4753,14 @@
       "onboard_time": 1717404558,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277076,
+      "num": 225553,
+      "word": "有多少男艺人喜欢过孙俪",
+      "onboard_time": 1717659497,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 276769,
@@ -4809,6 +4881,14 @@
       "onboard_time": 1717643118,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270452,
+      "num": 270452,
+      "word": "A股下跌个股近4800只",
+      "onboard_time": 1717663699,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 269097,
@@ -5041,6 +5121,14 @@
       "onboard_time": 1717515977,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256588,
+      "num": 256588,
+      "word": "林一成功追星刘亦菲",
+      "onboard_time": 1717663938,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 256353,
@@ -5355,6 +5443,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 236682,
+      "num": 236682,
+      "word": "于东来自曝已是胃癌前期",
+      "onboard_time": 1717665497,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236592,
       "num": 1030001,
       "word": "五星红旗在月球背面成功展开",
@@ -5475,6 +5571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233096,
+      "num": 633078,
+      "word": "连发五年年终奖突然停发合法吗",
+      "onboard_time": 1717657217,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 232844,
       "num": 168233,
       "word": "以闪亮之名 游轮",
@@ -5489,14 +5593,6 @@
       "onboard_time": 1717253838,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232413,
-      "num": 633078,
-      "word": "连发五年年终奖突然停发合法吗",
-      "onboard_time": 1717657217,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 230823,
@@ -5704,6 +5800,14 @@
       "word": "刘亦菲万茜演的闺蜜",
       "onboard_time": 1717648580,
       "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 224710,
+      "num": 166096,
+      "word": "刘亦菲说喜欢黄亦玫的不同色彩",
+      "onboard_time": 1717665560,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -6043,6 +6147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210202,
+      "num": 190445,
+      "word": "小丰收",
+      "onboard_time": 1717665139,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210132,
       "num": 210132,
       "word": "王星越开辟新赛道",
@@ -6251,14 +6363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 205172,
-      "num": 205172,
-      "word": "张若昀 留档期",
-      "onboard_time": 1717662678,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204930,
       "num": 204930,
       "word": "爸爸突发心脏病倒地7岁女儿冷静急救",
@@ -6433,14 +6537,6 @@
       "onboard_time": 1717384938,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201126,
-      "num": 201126,
-      "word": "有多少男艺人喜欢过孙俪",
-      "onboard_time": 1717659497,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201029,
@@ -6697,6 +6793,14 @@
       "onboard_time": 1717571178,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197167,
+      "num": 197167,
+      "word": "网易云音乐虚假宣传线下打卡活动",
+      "onboard_time": 1717665078,
+      "rank": 29,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 197058,
@@ -7851,6 +7955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170371,
+      "num": 159093,
+      "word": "张碧晨上海 抢票",
+      "onboard_time": 1717664539,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170319,
       "num": 170319,
       "word": "薄荷健康",
@@ -8675,6 +8787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 151298,
+      "num": 151298,
+      "word": "20岁才有机会过自己想要的人生",
+      "onboard_time": 1717665200,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151240,
       "num": 151240,
       "word": "每天最佳坐站睡动时间比例出炉",
@@ -9080,14 +9200,6 @@
       "word": "于正奖励自己精修写真",
       "onboard_time": 1717641437,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 143581,
-      "num": 143581,
-      "word": "夏梦好漂亮",
-      "onboard_time": 1717662917,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -9683,6 +9795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131999,
+      "num": 131999,
+      "word": "剑网3十年之约",
+      "onboard_time": 1717662978,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131621,
       "num": 131621,
       "word": "张予曦说我喜欢累",
@@ -9729,14 +9849,6 @@
       "onboard_time": 1717313177,
       "rank": 38,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 130549,
-      "num": 130549,
-      "word": "剑网3十年之约",
-      "onboard_time": 1717662978,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 130524,
@@ -10481,6 +10593,14 @@
       "onboard_time": 1717471277,
       "rank": 45,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 118935,
+      "num": 118935,
+      "word": "高考生顶粽子用力过猛撞到门框",
+      "onboard_time": 1717663278,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 118914,
@@ -11337,6 +11457,14 @@
       "onboard_time": 1717495577,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105226,
+      "num": 115252,
+      "word": "九尾清清羽毛球切磋",
+      "onboard_time": 1717664839,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 105168,
@@ -12795,6 +12923,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 49158,
+      "num": 416642,
+      "word": "淘宝将为中国公主清空购物车",
+      "onboard_time": 1717664417,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 49155,
       "num": 49155,
       "word": "泫雅把音乐节玩成泼水节",
@@ -12841,6 +12977,14 @@
       "onboard_time": 1717581977,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46537,
+      "num": 666494,
+      "word": "中国有约",
+      "onboard_time": 1717663579,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45588,
@@ -12905,6 +13049,14 @@
       "onboard_time": 1717283414,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 42975,
+      "num": 501291,
+      "word": "如何防止遭鬼秤宰客",
+      "onboard_time": 1717664417,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 42812,
@@ -13019,6 +13171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39632,
+      "num": 227227,
+      "word": "郭麒麟小鬼迷失在魏大勋的粤语里",
+      "onboard_time": 1717661058,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38843,
       "num": 38843,
       "word": "山东宁阳发生透水事故8人被困",
@@ -13049,14 +13209,6 @@
       "onboard_time": 1717313778,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37238,
-      "num": 227227,
-      "word": "郭麒麟小鬼迷失在魏大勋的粤语里",
-      "onboard_time": 1717661058,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 37116,
@@ -13449,6 +13601,14 @@
       "onboard_time": 1717629375,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 18995,
+      "num": 269805,
+      "word": "美妆博主出差都带什么",
+      "onboard_time": 1717664180,
+      "rank": 20,
+      "category": "美妆"
     },
     {
       "raw_hot": 18886,
