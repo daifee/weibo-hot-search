@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717695323123,
+  "endTime": 1717698292843,
   "band_list": [
     {
       "raw_hot": 826494,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118629,
+      "num": 38237,
+      "word": "建议大家不要在床上乱蹦",
+      "onboard_time": 1717695972,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115058,
       "num": 115058,
       "word": "种地吧第二届感恩音乐会",
@@ -329,6 +337,14 @@
       "onboard_time": 1717665139,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83152,
+      "num": 58504,
+      "word": "00后女孩勇闯非洲2年攒50万",
+      "onboard_time": 1717694953,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82905,
@@ -443,6 +459,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 38351,
+      "num": 48117,
+      "word": "咒术回战作者生病",
+      "onboard_time": 1717695073,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 38325,
       "num": 290206,
       "word": "女生为当兵努力减重80斤",
@@ -459,20 +483,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 34540,
-      "num": 48125,
-      "word": "00后女孩勇闯非洲2年攒50万",
-      "onboard_time": 1717694953,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 33855,
+      "num": 33855,
+      "word": "孙千露背挂脖上衣",
+      "onboard_time": 1717695493,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 31587,
-      "num": 48117,
-      "word": "咒术回战作者生病",
-      "onboard_time": 1717695073,
-      "rank": 48,
-      "category": "动漫"
+      "raw_hot": 18617,
+      "num": 26325,
+      "word": "中方回应是否考虑恢复日本海产品进口",
+      "onboard_time": 1717698192,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16044,
@@ -497,6 +521,14 @@
       "onboard_time": 1717656857,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6964,
+      "num": 59000,
+      "word": "万千学子撑得起这豪迈诗句",
+      "onboard_time": 1717697291,
+      "rank": 9,
+      "category": "教育,社会新闻"
     }
   ],
   "hotgov_list": [
