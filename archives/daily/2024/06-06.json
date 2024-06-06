@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717647752972,
+  "endTime": 1717648595821,
   "band_list": [
     {
       "raw_hot": 1893436,
@@ -35,6 +35,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1300961,
+      "num": 1300961,
+      "word": "海底捞给顾客喝二手饮品",
+      "onboard_time": 1717645877,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1285089,
       "num": 1285089,
       "word": "肖战重庆暴走",
@@ -57,6 +65,14 @@
       "onboard_time": 1717606635,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1108846,
+      "num": 1108846,
+      "word": "爱奇艺被吐槽吃相难看",
+      "onboard_time": 1717648519,
+      "rank": 3,
+      "category": "互联网"
     },
     {
       "raw_hot": 1097807,
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 788036,
-      "num": 335605,
-      "word": "海底捞给顾客喝二手饮品",
-      "onboard_time": 1717645877,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 751314,
       "num": 585642,
       "word": "魔兽世界技术测试定档",
@@ -131,12 +139,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 678995,
-      "num": 335305,
+      "raw_hot": 696718,
+      "num": 340394,
       "word": "霉霉 任何女性都无需解释",
       "onboard_time": 1717645038,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 681384,
+      "num": 570244,
+      "word": "徐艺洋曾一个月瘦20斤",
+      "onboard_time": 1717646899,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 677332,
@@ -155,12 +171,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 624429,
-      "num": 624429,
+      "raw_hot": 626435,
+      "num": 626435,
       "word": "王一博宫廷王子风",
       "onboard_time": 1717646719,
       "rank": 5,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 626113,
+      "num": 340394,
+      "word": "发现男性友谊很少提供情绪价值",
+      "onboard_time": 1717645997,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 623799,
@@ -195,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 589199,
+      "num": 589199,
+      "word": "再也不敢买开口榴莲了",
+      "onboard_time": 1717644798,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 571171,
       "num": 571171,
       "word": "祝福高考",
@@ -209,14 +241,6 @@
       "onboard_time": 1717639637,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 538727,
-      "num": 538727,
-      "word": "再也不敢买开口榴莲了",
-      "onboard_time": 1717644798,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 523360,
@@ -347,12 +371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 423693,
-      "num": 423693,
-      "word": "徐艺洋曾一个月瘦20斤",
-      "onboard_time": 1717646899,
-      "rank": 12,
-      "category": "综艺"
+      "raw_hot": 418061,
+      "num": 418061,
+      "word": "高考加油",
+      "onboard_time": 1717641918,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 407747,
@@ -379,20 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 393865,
-      "num": 334840,
-      "word": "发现男性友谊很少提供情绪价值",
-      "onboard_time": 1717645997,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 360116,
-      "num": 360116,
-      "word": "高考加油",
-      "onboard_time": 1717641918,
-      "rank": 16,
-      "category": "教育"
+      "raw_hot": 370241,
+      "num": 370241,
+      "word": "网易 暴雪",
+      "onboard_time": 1717647438,
+      "rank": 28,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 356834,
@@ -401,6 +417,14 @@
       "onboard_time": 1717631958,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 346630,
+      "num": 340287,
+      "word": "布洛芬 能给卑职一个明示吗",
+      "onboard_time": 1717647079,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 340115,
@@ -483,6 +507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283527,
+      "num": 283527,
+      "word": "贵州省通报女企业家讨工程款事件",
+      "onboard_time": 1717647079,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278932,
       "num": 278932,
       "word": "重庆偶遇肖战吃路边摊",
@@ -523,12 +555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 256469,
-      "num": 256469,
-      "word": "网易 暴雪",
-      "onboard_time": 1717647438,
-      "rank": 28,
-      "category": "游戏,互联网"
+      "raw_hot": 256450,
+      "num": 256450,
+      "word": "周杰伦 这里是不是冠军不能参加吗",
+      "onboard_time": 1717648339,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 252068,
@@ -579,12 +611,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 225247,
-      "num": 225247,
-      "word": "布洛芬 能给卑职一个明示吗",
-      "onboard_time": 1717647079,
+      "raw_hot": 224456,
+      "num": 224456,
+      "word": "微博电影之夜阵容",
+      "onboard_time": 1717648040,
       "rank": 34,
-      "category": "情感"
+      "category": "电影"
     },
     {
       "raw_hot": 221701,
@@ -627,12 +659,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209849,
+      "num": 209849,
+      "word": "如果第一个出考场被采访的话",
+      "onboard_time": 1717647800,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 208926,
       "num": 309473,
       "word": "高考是你多少年前的回忆杀了",
       "onboard_time": 1717640838,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 207001,
+      "num": 523508,
+      "word": "出现这两种情况就该去查查干眼症了",
+      "onboard_time": 1717646419,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 205545,
+      "num": 205545,
+      "word": "刘亦菲玫瑰的故事怼脸海报",
+      "onboard_time": 1717648280,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 205480,
@@ -675,6 +731,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198126,
+      "num": 198126,
+      "word": "想魂穿坚果",
+      "onboard_time": 1717646360,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197765,
+      "num": 197765,
+      "word": "赴山海黑白光影热血先导片",
+      "onboard_time": 1717648280,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197058,
       "num": 197058,
       "word": "刘亦菲玫瑰的故事",
@@ -699,20 +771,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192686,
-      "num": 192686,
-      "word": "贵州省通报女企业家讨工程款事件",
-      "onboard_time": 1717647079,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192335,
       "num": 192335,
       "word": "教育部发布3点考前提示",
       "onboard_time": 1717640057,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 189487,
+      "num": 189487,
+      "word": "刘亦菲万茜演的闺蜜",
+      "onboard_time": 1717648580,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 189222,
@@ -779,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180496,
-      "num": 180496,
-      "word": "想魂穿坚果",
-      "onboard_time": 1717646360,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177281,
       "num": 117898,
       "word": "yes24网站",
@@ -801,6 +865,14 @@
       "onboard_time": 1717638077,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174916,
+      "num": 174916,
+      "word": "孙海洋一家为孙卓高考加油",
+      "onboard_time": 1717648519,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 173622,
@@ -1051,14 +1123,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 132159,
-      "num": 523508,
-      "word": "出现这两种情况就该去查查干眼症了",
-      "onboard_time": 1717646419,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 130524,
       "num": 130524,
       "word": "原来眼睛也需要防晒",
@@ -1243,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89419,
+      "num": 448678,
+      "word": "鸣潮吟霖上线",
+      "onboard_time": 1717645458,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 88627,
       "num": 88627,
       "word": "吴谨言眼睛",
@@ -1265,14 +1337,6 @@
       "onboard_time": 1717627214,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79059,
-      "num": 413425,
-      "word": "鸣潮吟霖上线",
-      "onboard_time": 1717645458,
-      "rank": 13,
-      "category": "游戏"
     },
     {
       "raw_hot": 77811,
@@ -1331,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70264,
+      "num": 201633,
+      "word": "这届年轻人露营有多野",
+      "onboard_time": 1717648101,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 67111,
       "num": 76099,
       "word": "歌手2024揭榜串讲人",
@@ -1387,6 +1459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 54045,
+      "num": 272714,
+      "word": "戚薇我的浪姐人脉",
+      "onboard_time": 1717646719,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53977,
       "num": 53977,
       "word": "墨雨云间 双强cp",
@@ -1425,14 +1505,6 @@
       "onboard_time": 1717644739,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44734,
-      "num": 230399,
-      "word": "戚薇我的浪姐人脉",
-      "onboard_time": 1717646719,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 42812,
@@ -1476,7 +1548,7 @@
     },
     {
       "raw_hot": 28632,
-      "num": 965132,
+      "num": 1179622,
       "word": "文化中国行感受生态智慧",
       "onboard_time": 1717644977,
       "rank": 2,
