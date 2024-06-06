@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717672613808,
+  "endTime": 1717673750909,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -2003,6 +2003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601480,
+      "num": 359662,
+      "word": "故意考0分考生承认想当网红",
+      "onboard_time": 1717672217,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 600148,
       "num": 538518,
       "word": "我国历史上的熊猫外交",
@@ -2067,6 +2075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 588928,
+      "num": 588928,
+      "word": "撒贝宁何炅李健 吉祥三保",
+      "onboard_time": 1717670118,
+      "rank": 49,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 588064,
       "num": 208749,
       "word": "夏天对减肥人最善良的水果",
@@ -2121,14 +2137,6 @@
       "onboard_time": 1717427719,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 580413,
-      "num": 580413,
-      "word": "撒贝宁何炅李健 吉祥三保",
-      "onboard_time": 1717670118,
-      "rank": 49,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 579471,
@@ -4403,6 +4411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303240,
+      "num": 303240,
+      "word": "赵一博现场",
+      "onboard_time": 1717669339,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 302902,
       "num": 302902,
       "word": "最适合i人的职业出现了",
@@ -4481,14 +4497,6 @@
       "onboard_time": 1717513280,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 297880,
-      "num": 297880,
-      "word": "赵一博现场",
-      "onboard_time": 1717669339,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 297678,
@@ -5780,7 +5788,7 @@
     },
     {
       "raw_hot": 228681,
-      "num": 209402,
+      "num": 224481,
       "word": "孟美岐自罚一百遍金榜题名",
       "onboard_time": 1717671858,
       "rank": 25,
@@ -6177,6 +6185,14 @@
       "onboard_time": 1717416979,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212897,
+      "num": 361502,
+      "word": "医生建议1天最多吃250克樱桃",
+      "onboard_time": 1717671018,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 211982,
@@ -6593,6 +6609,14 @@
       "onboard_time": 1717492698,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202699,
+      "num": 202699,
+      "word": "他只是做错题 又没有做错人",
+      "onboard_time": 1717670657,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 202381,
@@ -7027,14 +7051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195669,
-      "num": 195669,
-      "word": "故意考0分考生承认想当网红",
-      "onboard_time": 1717672217,
-      "rank": 27,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 195583,
       "num": 195583,
       "word": "EDG 熟悉的味道",
@@ -7057,6 +7073,14 @@
       "onboard_time": 1717558038,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194990,
+      "num": 194990,
+      "word": "张绍刚主持",
+      "onboard_time": 1717673297,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 194567,
@@ -7739,14 +7763,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179093,
-      "num": 179093,
-      "word": "他只是做错题 又没有做错人",
-      "onboard_time": 1717670657,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 178989,
       "num": 178989,
       "word": "中国女篮vs日本女篮",
@@ -7953,14 +7969,6 @@
       "onboard_time": 1717569978,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174403,
-      "num": 191183,
-      "word": "医生建议1天最多吃250克樱桃",
-      "onboard_time": 1717671018,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 174358,
@@ -8233,6 +8241,14 @@
       "onboard_time": 1717393697,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168073,
+      "num": 168073,
+      "word": "Faker新皮肤国服售价最高达3999元",
+      "onboard_time": 1717672458,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 167968,
@@ -8867,6 +8883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 154555,
+      "num": 154555,
+      "word": "A股全市仅500余只个股上涨",
+      "onboard_time": 1717670838,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154226,
       "num": 154226,
       "word": "刘亦菲奇迹玫瑰",
@@ -8985,14 +9009,6 @@
       "onboard_time": 1717464858,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 151615,
-      "num": 151615,
-      "word": "A股全市仅500余只个股上涨",
-      "onboard_time": 1717670838,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 151352,
@@ -10131,6 +10147,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 130480,
+      "num": 130480,
+      "word": "肖战为玉骨遥在霓虹宣传的口播",
+      "onboard_time": 1717672697,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130399,
       "num": 343336,
       "word": "高三学霸女生笔记工整似印刷",
@@ -11011,14 +11035,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 116815,
-      "num": 116815,
-      "word": "Faker新皮肤国服售价最高达3999元",
-      "onboard_time": 1717672458,
-      "rank": 46,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 116689,
       "num": 116689,
       "word": "涂山红红爱与不爱很明显",
@@ -11241,6 +11257,14 @@
       "onboard_time": 1717500378,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113480,
+      "num": 113480,
+      "word": "C罗克罗斯莫德里奇欧洲杯最后一届了",
+      "onboard_time": 1717672998,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 113296,
@@ -12827,6 +12851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64321,
+      "num": 367638,
+      "word": "多地放宽人才补贴政策释放啥信号",
+      "onboard_time": 1717671619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64279,
       "num": 336890,
       "word": "成都粽子一条街又火起来了",
@@ -13411,6 +13443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 41457,
+      "num": 365054,
+      "word": "张艺兴扇风舞",
+      "onboard_time": 1717670417,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 41408,
       "num": 41408,
       "word": "芹菜叶子到底要不要吃",
@@ -13529,14 +13569,6 @@
       "onboard_time": 1717589898,
       "rank": 29,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 37084,
-      "num": 367638,
-      "word": "多地放宽人才补贴政策释放啥信号",
-      "onboard_time": 1717671619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36563,
@@ -13745,14 +13777,6 @@
       "onboard_time": 1717212076,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28411,
-      "num": 365054,
-      "word": "张艺兴扇风舞",
-      "onboard_time": 1717670417,
-      "rank": 11,
-      "category": "音乐"
     },
     {
       "raw_hot": 28264,
