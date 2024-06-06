@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717678262335,
+  "endTime": 1717680111347,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -57,6 +57,14 @@
       "onboard_time": 1717292896,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2117477,
+      "num": 2117477,
+      "word": "国足vs泰国",
+      "onboard_time": 1717673778,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2049838,
@@ -403,14 +411,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 1352109,
-      "num": 1352109,
-      "word": "国足vs泰国",
-      "onboard_time": 1717673778,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1320483,
       "num": 615651,
       "word": "孟美岐榜字写错",
@@ -739,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1072659,
+      "num": 1072659,
+      "word": "我们十个人的关系要你评价",
+      "onboard_time": 1717678279,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1072066,
       "num": 1072066,
       "word": "人民文娱评墨雨云间",
@@ -777,6 +785,14 @@
       "onboard_time": 1717336459,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1026503,
+      "num": 607363,
+      "word": "大胖媳妇爆改亚当",
+      "onboard_time": 1717677618,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 1021664,
@@ -1851,6 +1867,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 640230,
+      "num": 640230,
+      "word": "国足落后泰国",
+      "onboard_time": 1717677678,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 639056,
       "num": 639056,
       "word": "王楚钦 脚踝",
@@ -2371,6 +2395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 539121,
+      "num": 539121,
+      "word": "李玟遗作将公开",
+      "onboard_time": 1717675938,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 538646,
       "num": 538646,
       "word": "周杰伦不敢参加周杰伦接歌大赛",
@@ -2825,14 +2857,6 @@
       "onboard_time": 1717312517,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 475197,
-      "num": 475197,
-      "word": "李玟遗作将公开",
-      "onboard_time": 1717675938,
-      "rank": 14,
-      "category": "音乐"
     },
     {
       "raw_hot": 474496,
@@ -3305,6 +3329,14 @@
       "onboard_time": 1717323077,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421622,
+      "num": 421622,
+      "word": "国足首发",
+      "onboard_time": 1717670238,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 420592,
@@ -3843,14 +3875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364723,
-      "num": 364723,
-      "word": "国足首发",
-      "onboard_time": 1717670238,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 364628,
       "num": 364628,
       "word": "陈丽君说永远不会离开越剧舞台",
@@ -3987,6 +4011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 352724,
+      "num": 448910,
+      "word": "高考前一夜你想对考生说什么",
+      "onboard_time": 1717674139,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 352543,
       "num": 352543,
       "word": "住房公积金的这些用途你get了吗",
@@ -4113,14 +4145,6 @@
       "onboard_time": 1717548438,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 335770,
-      "num": 335770,
-      "word": "大胖媳妇爆改亚当",
-      "onboard_time": 1717677618,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 335624,
@@ -4315,6 +4339,14 @@
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 319101,
+      "num": 319101,
+      "word": "韦世豪任意球",
+      "onboard_time": 1717678038,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318901,
       "num": 318901,
       "word": "我偏要发剑网3",
@@ -4441,6 +4473,14 @@
       "onboard_time": 1717580417,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306278,
+      "num": 306278,
+      "word": "温州发现一例比熊猫血更稀有的恐龙血",
+      "onboard_time": 1717679239,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305776,
@@ -5411,6 +5451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250735,
+      "num": 250735,
+      "word": "马斯克星舰第4次试飞",
+      "onboard_time": 1717678880,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 250710,
       "num": 250710,
       "word": "杨幂大波浪梦回夏晚晴",
@@ -5449,6 +5497,14 @@
       "onboard_time": 1717576397,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 247521,
+      "num": 247521,
+      "word": "90后盲人宝妈教万名视障女孩化妆",
+      "onboard_time": 1717679059,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 247226,
@@ -6443,14 +6499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 208141,
-      "num": 208141,
-      "word": "国足落后泰国",
-      "onboard_time": 1717677678,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207859,
       "num": 207859,
       "word": "不上班如何实现财富自由",
@@ -6689,6 +6737,14 @@
       "onboard_time": 1717560379,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203459,
+      "num": 203459,
+      "word": "世界杯",
+      "onboard_time": 1717679179,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 203197,
@@ -7211,6 +7267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194190,
+      "num": 194190,
+      "word": "墨雨云间 好有张力的拉扯",
+      "onboard_time": 1717679179,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193984,
       "num": 193984,
       "word": "蔡徐坤单曲预告",
@@ -7563,6 +7627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186496,
+      "num": 186496,
+      "word": "女生路上被中年男吐痰",
+      "onboard_time": 1717674498,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186432,
       "num": 191276,
       "word": "汪苏泷成都站抢票",
@@ -7697,6 +7769,14 @@
       "onboard_time": 1717588218,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184082,
+      "num": 184082,
+      "word": "能和初恋结婚是多么幸福的事",
+      "onboard_time": 1717679419,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 184070,
@@ -8043,14 +8123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175030,
-      "num": 175030,
-      "word": "女生路上被中年男吐痰",
-      "onboard_time": 1717674498,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175028,
       "num": 175028,
       "word": "2024LPL夏季赛",
@@ -8089,6 +8161,14 @@
       "onboard_time": 1717403180,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174304,
+      "num": 174304,
+      "word": "武磊停赛",
+      "onboard_time": 1717678519,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 173914,
@@ -8163,6 +8243,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 173233,
+      "num": 173233,
+      "word": "卓沅直拍",
+      "onboard_time": 1717678759,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173225,
       "num": 173225,
       "word": "陈立农三专",
@@ -8227,14 +8315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172387,
-      "num": 172387,
-      "word": "韦世豪任意球",
-      "onboard_time": 1717678038,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171926,
       "num": 171926,
       "word": "王曼昱vs王艺迪",
@@ -8249,6 +8329,14 @@
       "onboard_time": 1717406420,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 170911,
+      "num": 170911,
+      "word": "林一看刘亦菲的眼神",
+      "onboard_time": 1717679659,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 170662,
@@ -8681,6 +8769,14 @@
       "onboard_time": 1717291576,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161359,
+      "num": 161359,
+      "word": "严浩翔说墨镜是自己最后的尊严",
+      "onboard_time": 1717679538,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 161300,
@@ -9443,6 +9539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146222,
+      "num": 146222,
+      "word": "国足 中场",
+      "onboard_time": 1717678639,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145505,
       "num": 145505,
       "word": "女频爽剧常看长爽的原因",
@@ -10019,6 +10123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136059,
+      "num": 136059,
+      "word": "王大雷怒吼",
+      "onboard_time": 1717679719,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136012,
       "num": 136012,
       "word": "肥胖会导致脑子变小",
@@ -10332,7 +10444,7 @@
     },
     {
       "raw_hot": 129814,
-      "num": 444302,
+      "num": 1074557,
       "word": "嫦娥六号祝福考生高中",
       "onboard_time": 1717656857,
       "rank": 45,
@@ -10488,6 +10600,14 @@
       "word": "20元的面他付了200元还坚持不让退",
       "onboard_time": 1717326858,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127141,
+      "num": 127141,
+      "word": "明天成都人请提前1小时出门",
+      "onboard_time": 1717677858,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -10771,6 +10891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123875,
+      "num": 123875,
+      "word": "梦之队有点团魂但不多",
+      "onboard_time": 1717679119,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123803,
       "num": 123803,
       "word": "减肥主食分为3个黄金等级",
@@ -11019,6 +11147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119293,
+      "num": 119293,
+      "word": "周鸿祎称流量分给国产AI创业者",
+      "onboard_time": 1717678639,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 119125,
       "num": 119125,
       "word": "国足vs泰国23人名单",
@@ -11065,14 +11201,6 @@
       "onboard_time": 1717334120,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118799,
-      "num": 118799,
-      "word": "明天成都人请提前1小时出门",
-      "onboard_time": 1717677858,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 118756,
@@ -11771,14 +11899,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 107126,
-      "num": 448910,
-      "word": "高考前一夜你想对考生说什么",
-      "onboard_time": 1717674139,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 107112,
       "num": 107112,
       "word": "第29个爱眼日",
@@ -12387,6 +12507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92806,
+      "num": 312579,
+      "word": "9毛9的羊毛不香吗",
+      "onboard_time": 1717676898,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91643,
       "num": 91643,
       "word": "吃了多少爱情的苦才写出这歌",
@@ -12792,14 +12920,6 @@
       "word": "我在五千年前等你",
       "onboard_time": 1717559118,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 73997,
-      "num": 203983,
-      "word": "9毛9的羊毛不香吗",
-      "onboard_time": 1717676898,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -13313,6 +13433,14 @@
       "onboard_time": 1717565419,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 56451,
+      "num": 423558,
+      "word": "高考前一晚失眠该怎么办",
+      "onboard_time": 1717678817,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 56334,
@@ -13991,6 +14119,14 @@
       "num": 284459,
       "word": "一人一句夸夸咱河南老乡",
       "onboard_time": 1717483097,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27028,
+      "num": 196255,
+      "word": "美国马里兰州龙卷风",
+      "onboard_time": 1717679538,
       "rank": 29,
       "category": "社会新闻"
     },
