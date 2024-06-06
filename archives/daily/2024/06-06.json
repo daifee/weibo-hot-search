@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717655171789,
+  "endTime": 1717655929729,
   "band_list": [
     {
       "raw_hot": 1932046,
@@ -17,6 +17,14 @@
       "onboard_time": 1717632558,
       "rank": 0,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1717597,
+      "num": 1717597,
+      "word": "大学生全款拿下28平小公寓",
+      "onboard_time": 1717652299,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1634361,
@@ -43,12 +51,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 1295969,
-      "num": 1295969,
-      "word": "大学生全款拿下28平小公寓",
-      "onboard_time": 1717652299,
-      "rank": 1,
-      "category": "情感"
+      "raw_hot": 1414530,
+      "num": 1414530,
+      "word": "2008年故意考0分考生重上考场",
+      "onboard_time": 1717651698,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1285089,
@@ -99,8 +107,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1079181,
-      "num": 1079181,
+      "raw_hot": 1086816,
+      "num": 1086816,
       "word": "檀健次吐烟",
       "onboard_time": 1717651098,
       "rank": 42,
@@ -113,14 +121,6 @@
       "onboard_time": 1717651999,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1051232,
-      "num": 1051232,
-      "word": "2008年故意考0分考生重上考场",
-      "onboard_time": 1717651698,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1016862,
@@ -139,11 +139,35 @@
       "category": "财经"
     },
     {
+      "raw_hot": 910736,
+      "num": 910736,
+      "word": "警方通报男子将妻子伤害致死后跳楼",
+      "onboard_time": 1717653558,
+      "rank": 11,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 897638,
+      "num": 897638,
+      "word": "人体最先衰老的器官是什么",
+      "onboard_time": 1717653799,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 849458,
       "num": 849458,
       "word": "爱奇艺 线下免费线上收费",
       "onboard_time": 1717582219,
       "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 828605,
+      "num": 828605,
+      "word": "十个勤天",
+      "onboard_time": 1717652181,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -185,14 +209,6 @@
       "onboard_time": 1717635320,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 735686,
-      "num": 735686,
-      "word": "十个勤天",
-      "onboard_time": 1717652181,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 732575,
@@ -241,14 +257,6 @@
       "onboard_time": 1717647079,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 663732,
-      "num": 528124,
-      "word": "警方通报男子将妻子伤害致死后跳楼",
-      "onboard_time": 1717653558,
-      "rank": 11,
-      "category": "社会负面"
     },
     {
       "raw_hot": 640505,
@@ -347,14 +355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 507512,
-      "num": 507512,
-      "word": "人体最先衰老的器官是什么",
-      "onboard_time": 1717653799,
-      "rank": 13,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 496531,
       "num": 496531,
       "word": "惠英红是刘亦菲一级铁粉",
@@ -369,6 +369,14 @@
       "onboard_time": 1717647438,
       "rank": 28,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 482988,
+      "num": 482988,
+      "word": "周杰伦不敢参加周杰伦接歌大赛",
+      "onboard_time": 1717652539,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 482116,
@@ -489,14 +497,6 @@
       "onboard_time": 1717641918,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 413984,
-      "num": 358277,
-      "word": "周杰伦不敢参加周杰伦接歌大赛",
-      "onboard_time": 1717652539,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 407747,
@@ -745,6 +745,14 @@
       "onboard_time": 1717654818,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 228367,
+      "num": 228367,
+      "word": "关系不够硬不要让父母帮你找工作",
+      "onboard_time": 1717654698,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 225039,
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 186432,
-      "num": 186432,
+      "num": 191276,
       "word": "汪苏泷成都站抢票",
       "onboard_time": 1717654938,
       "rank": 31,
@@ -1067,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177011,
+      "num": 177011,
+      "word": "刘若英否认袒护亲姐姐",
+      "onboard_time": 1717655599,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175778,
       "num": 175778,
       "word": "闪耀暖暖",
@@ -1091,12 +1107,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 173460,
-      "num": 173460,
-      "word": "关系不够硬不要让父母帮你找工作",
-      "onboard_time": 1717654698,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 171356,
+      "num": 171356,
+      "word": "吴谨言演过老炮儿",
+      "onboard_time": 1717655718,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 169561,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1717650139,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165416,
+      "num": 165416,
+      "word": "法媒公布美军诺曼底登陆后暴行",
+      "onboard_time": 1717654759,
+      "rank": 44,
+      "category": "国外时政"
     },
     {
       "raw_hot": 164602,
@@ -1251,14 +1275,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 151114,
-      "num": 151114,
-      "word": "法媒公布美军诺曼底登陆后暴行",
-      "onboard_time": 1717654759,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 150304,
       "num": 150304,
       "word": "月球打工人正在忙着送快递",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1717587979,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 149620,
+      "num": 149620,
+      "word": "毕业歌会嘉宾阵容",
+      "onboard_time": 1717655900,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 148126,
@@ -1395,6 +1419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135158,
+      "num": 135158,
+      "word": "墨雨云间好神金的特效",
+      "onboard_time": 1717655057,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133733,
       "num": 133733,
       "word": "大润发回应放弃小润发",
@@ -1435,6 +1467,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 128011,
+      "num": 128011,
+      "word": "手机少看不了一点那如何护眼",
+      "onboard_time": 1717655837,
+      "rank": 46,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 127053,
       "num": 127053,
       "word": "NBA",
@@ -1449,6 +1489,14 @@
       "onboard_time": 1717651219,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119125,
+      "num": 119125,
+      "word": "国足vs泰国23人名单",
+      "onboard_time": 1717655837,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 117419,
@@ -1481,14 +1529,6 @@
       "onboard_time": 1717636098,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 115251,
-      "num": 115251,
-      "word": "墨雨云间好神金的特效",
-      "onboard_time": 1717655057,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 114166,
@@ -1593,6 +1633,14 @@
       "onboard_time": 1717601539,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100111,
+      "num": 596373,
+      "word": "最后一节课老师黑板默写全班同学名字",
+      "onboard_time": 1717653860,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 99802,
@@ -1723,6 +1771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71825,
+      "num": 464467,
+      "word": "益生菌是肠道救星吗",
+      "onboard_time": 1717653619,
+      "rank": 14,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 71611,
       "num": 76074,
       "word": "墨雨云间 咬虎口",
@@ -1827,14 +1883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52657,
-      "num": 464467,
-      "word": "益生菌是肠道救星吗",
-      "onboard_time": 1717653619,
-      "rank": 14,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 49188,
       "num": 113857,
       "word": "都江堰已持续运行2280年",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1717644739,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43443,
+      "num": 198851,
+      "word": "赵长江早高峰亲测腾势城市领航",
+      "onboard_time": 1717655238,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 42812,
@@ -1883,20 +1939,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 30717,
+      "num": 1246963,
+      "word": "文化中国行感受生态智慧",
+      "onboard_time": 1717644977,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30648,
       "num": 24067,
       "word": "你的高考幸运签已送达",
       "onboard_time": 1717619230,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 29575,
-      "num": 1179622,
-      "word": "文化中国行感受生态智慧",
-      "onboard_time": 1717644977,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26722,
