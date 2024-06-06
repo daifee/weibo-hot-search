@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717659291127,
+  "endTime": 1717662254914,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -2219,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 614816,
+      "num": 614816,
+      "word": "TypeC嘴",
+      "onboard_time": 1717657878,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 614545,
       "num": 446245,
       "word": "贾玲深V黑裙",
@@ -2379,6 +2387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 588614,
+      "num": 588614,
+      "word": "孟子义已经退出华语乐坛三个月",
+      "onboard_time": 1717660638,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588064,
       "num": 208749,
       "word": "夏天对减肥人最善良的水果",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1717234336,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 583761,
+      "num": 583761,
+      "word": "孙俪妹妹北电毕业照",
+      "onboard_time": 1717658840,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 582379,
@@ -2448,6 +2472,14 @@
       "word": "一颗花心的萝卜",
       "onboard_time": 1717168282,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 576285,
+      "num": 576285,
+      "word": "刘亦菲杨幂早期互相撑伞照",
+      "onboard_time": 1717658118,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -2936,14 +2968,6 @@
       "word": "林若甫 一声爹例外触动天下人",
       "onboard_time": 1717338980,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 502972,
-      "num": 502972,
-      "word": "TypeC嘴",
-      "onboard_time": 1717657878,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -3443,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445427,
+      "num": 445427,
+      "word": "种地吧直播 破防",
+      "onboard_time": 1717661178,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442580,
       "num": 284244,
       "word": "张钰琪十年圆梦上歌手",
@@ -3835,6 +3867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412637,
+      "num": 306946,
+      "word": "付辛博颖儿车窗吻",
+      "onboard_time": 1717657278,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 411981,
       "num": 411981,
       "word": "戚薇李承铉去了周杰伦演唱会",
@@ -3945,14 +3985,6 @@
       "onboard_time": 1717210816,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 400890,
-      "num": 306946,
-      "word": "付辛博颖儿车窗吻",
-      "onboard_time": 1717657278,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 400862,
@@ -4971,14 +5003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 316687,
-      "num": 304882,
-      "word": "刘亦菲杨幂早期互相撑伞照",
-      "onboard_time": 1717658118,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315929,
       "num": 225081,
       "word": "长大后发现妈见打零食更好吃了",
@@ -5347,12 +5371,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293847,
-      "num": 293847,
-      "word": "孙俪妹妹北电毕业照",
-      "onboard_time": 1717658840,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 293707,
+      "num": 293707,
+      "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
+      "onboard_time": 1717657999,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 292447,
@@ -5915,14 +5939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265205,
-      "num": 265205,
-      "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
-      "onboard_time": 1717657999,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265166,
       "num": 212982,
       "word": "墨雨云间原著",
@@ -5945,6 +5961,14 @@
       "onboard_time": 1717437552,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264439,
+      "num": 264439,
+      "word": "爱奇艺",
+      "onboard_time": 1717660998,
+      "rank": 26,
+      "category": "演出,互联网"
     },
     {
       "raw_hot": 263639,
@@ -6139,6 +6163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253542,
+      "num": 295512,
+      "word": "听到以后没有寒暑假都不笑了",
+      "onboard_time": 1717659677,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 253078,
       "num": 343095,
       "word": "王楚钦vs林高远",
@@ -6216,6 +6248,14 @@
       "word": "杨幂大波浪梦回夏晚晴",
       "onboard_time": 1717650498,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250608,
+      "num": 250608,
+      "word": "刘亦菲荡领短裙",
+      "onboard_time": 1717659797,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -6595,6 +6635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232413,
+      "num": 633078,
+      "word": "连发五年年终奖突然停发合法吗",
+      "onboard_time": 1717657217,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 231828,
       "num": 200078,
       "word": "陈赫录节目爆改光头强",
@@ -6915,6 +6963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221340,
+      "num": 221340,
+      "word": "嗨放派3路透",
+      "onboard_time": 1717661297,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221188,
       "num": 221188,
       "word": "杜海涛晒周杰伦演唱会plog",
@@ -6985,6 +7041,14 @@
       "onboard_time": 1717568118,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218800,
+      "num": 218800,
+      "word": "985硕士农民说高考并非人生全部",
+      "onboard_time": 1717660277,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 218662,
@@ -7097,6 +7161,14 @@
       "onboard_time": 1717200076,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 215854,
+      "num": 215854,
+      "word": "赵丽颖渔夫帽自拍",
+      "onboard_time": 1717662019,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 215694,
@@ -7497,6 +7569,14 @@
       "onboard_time": 1717203797,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 204831,
+      "num": 204831,
+      "word": "我国第二次月球轨道交会对接",
+      "onboard_time": 1717661418,
+      "rank": 34,
+      "category": "国内时政,科学科普"
     },
     {
       "raw_hot": 204685,
@@ -7907,6 +7987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198465,
+      "num": 198465,
+      "word": "有多少男艺人喜欢过孙俪",
+      "onboard_time": 1717659497,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198369,
       "num": 198369,
       "word": "WTT",
@@ -8073,6 +8161,14 @@
       "onboard_time": 1717644378,
       "rank": 33,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 196241,
+      "num": 237353,
+      "word": "印度空姐直肠藏金牵出走私黄金大案",
+      "onboard_time": 1717658840,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196215,
@@ -8795,6 +8891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182856,
+      "num": 182856,
+      "word": "中国女排香港站15人名单",
+      "onboard_time": 1717660758,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181991,
       "num": 325784,
       "word": "商户卖假牛肉被揭穿后摔相机",
@@ -8945,6 +9049,14 @@
       "onboard_time": 1717301958,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178703,
+      "num": 178703,
+      "word": "戚薇 每一科都bangbang",
+      "onboard_time": 1717660038,
+      "rank": 40,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 178657,
@@ -9891,6 +10003,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 161020,
+      "num": 161020,
+      "word": "剑网三 职业",
+      "onboard_time": 1717660099,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 161013,
       "num": 161013,
       "word": "他朝我扔泥巴泥巴里开莲花",
@@ -10345,6 +10465,14 @@
       "onboard_time": 1717237037,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152211,
+      "num": 152211,
+      "word": "无畏游泳连排名都是七",
+      "onboard_time": 1717660698,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 152206,
@@ -11059,14 +11187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141253,
-      "num": 633078,
-      "word": "连发五年年终奖突然停发合法吗",
-      "onboard_time": 1717657217,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
-    },
-    {
       "raw_hot": 141136,
       "num": 141136,
       "word": "kwave",
@@ -11353,6 +11473,14 @@
       "onboard_time": 1717198334,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137019,
+      "num": 137019,
+      "word": "迪丽热巴古灵精怪小表情",
+      "onboard_time": 1717661900,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 137006,
@@ -12873,6 +13001,14 @@
       "onboard_time": 1717225997,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114923,
+      "num": 114923,
+      "word": "成毅执笔仗剑",
+      "onboard_time": 1717661477,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 114585,
@@ -14755,6 +14891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 66076,
+      "num": 499311,
+      "word": "陷入互联网信贷产品的年轻人",
+      "onboard_time": 1717660819,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 65360,
       "num": 375190,
       "word": "为什么免疫力差要多喝鲜奶",
@@ -14939,6 +15083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 60770,
+      "num": 289131,
+      "word": "300元拿下家庭健身房",
+      "onboard_time": 1717657338,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 60092,
       "num": 102668,
       "word": "高三男孩右手献血左手复习",
@@ -15025,6 +15177,14 @@
       "onboard_time": 1717509319,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 57826,
+      "num": 1507633,
+      "word": "一人一句祝福高考生",
+      "onboard_time": 1717644739,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57610,
@@ -15355,14 +15515,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 47207,
-      "num": 1507633,
-      "word": "一人一句祝福高考生",
-      "onboard_time": 1717644739,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47010,
       "num": 278061,
       "word": "没什么是买买买不能治愈的",
@@ -15475,14 +15627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41895,
-      "num": 289131,
-      "word": "300元拿下家庭健身房",
-      "onboard_time": 1717657338,
-      "rank": 24,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 41535,
       "num": 45569,
       "word": "猫 忘了我也会",
@@ -15555,6 +15699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39105,
+      "num": 411201,
+      "word": "辛纳官宣出战2024中网",
+      "onboard_time": 1717660819,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38843,
       "num": 38843,
       "word": "山东宁阳发生透水事故8人被困",
@@ -15611,20 +15763,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37371,
-      "num": 237353,
-      "word": "印度空姐直肠藏金牵出走私黄金大案",
-      "onboard_time": 1717658840,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 37116,
       "num": 195696,
       "word": "端午里的山东中医药文旅周",
       "onboard_time": 1717589898,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 36776,
+      "num": 423005,
+      "word": "车圈高考极氪请战科目二",
+      "onboard_time": 1717659797,
+      "rank": 13,
+      "category": "汽车"
     },
     {
       "raw_hot": 36563,
@@ -15680,6 +15832,14 @@
       "word": "Paparazzi",
       "onboard_time": 1717180092,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 35486,
+      "num": 221996,
+      "word": "郭麒麟小鬼迷失在魏大勋的粤语里",
+      "onboard_time": 1717661058,
+      "rank": 30,
       "category": "综艺"
     },
     {
