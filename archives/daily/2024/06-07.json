@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717691871224,
+  "endTime": 1717694350220,
   "band_list": [
     {
       "raw_hot": 826494,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 271602,
+      "num": 144972,
+      "word": "尾号6666666手机号拍卖估值160多万元",
+      "onboard_time": 1717688359,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256226,
       "num": 256226,
       "word": "韩国7比0新加坡",
@@ -123,12 +131,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192320,
-      "num": 144972,
-      "word": "尾号6666666手机号拍卖估值160多万元",
-      "onboard_time": 1717688359,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 190423,
+      "num": 80749,
+      "word": "离职后把同事微信全删了",
+      "onboard_time": 1717691415,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 189761,
@@ -283,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95487,
+      "num": 68546,
+      "word": "徐璐下衣失踪",
+      "onboard_time": 1717692074,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 88632,
       "num": 88632,
       "word": "一眨眼就高考了",
@@ -339,14 +355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76400,
-      "num": 80749,
-      "word": "离职后把同事微信全删了",
-      "onboard_time": 1717691415,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 75907,
       "num": 81397,
       "word": "想想JieJie会怎么做",
@@ -395,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57617,
+      "num": 57617,
+      "word": "水瓶座聊天都是选择性回复",
+      "onboard_time": 1717692915,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 56286,
       "num": 81342,
       "word": "5句话送给高考的你",
       "onboard_time": 1717689979,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 55772,
+      "num": 55772,
+      "word": "李昀锐 这不是我原本实力",
+      "onboard_time": 1717693274,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 51937,
@@ -411,12 +435,36 @@
       "category": "教育,互联网"
     },
     {
-      "raw_hot": 33390,
+      "raw_hot": 38325,
       "num": 290206,
       "word": "女生为当兵努力减重80斤",
       "onboard_time": 1717690038,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38182,
+      "num": 54537,
+      "word": "光遇",
+      "onboard_time": 1717692795,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 16044,
+      "num": 87374,
+      "word": "一起为国足加油",
+      "onboard_time": 1717684279,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11845,
+      "num": 63776,
+      "word": "张雪峰寄语苏州高考学子",
+      "onboard_time": 1717692435,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 7523,

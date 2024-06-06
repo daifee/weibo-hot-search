@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/07 00:37:51
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/07 01:19:10
 </p>
 </blockquote>
 <p>
@@ -4719,6 +4719,12 @@ A股下跌个股近4800只（热度：273922）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BE%E5%8F%B76666666%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%8B%8D%E5%8D%96%E4%BC%B0%E5%80%BC160%E5%A4%9A%E4%B8%87%E5%85%83%23" target="weibo">
+尾号6666666手机号拍卖估值160多万元（热度：271602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Rookie%E4%B8%BA%E6%82%A3%E7%99%8C%E7%B2%89%E4%B8%9D%E6%88%B4%E8%93%9D%E4%B8%9D%E5%B8%A6%23" target="weibo">
 Rookie为患癌粉丝戴蓝丝带（热度：271490）
 </a>
@@ -6005,12 +6011,6 @@ prx淘汰（热度：209335）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%B8%8A%E7%8F%AD%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E8%B4%A2%E5%AF%8C%E8%87%AA%E7%94%B1%23" target="weibo">
 不上班如何实现财富自由（热度：207859）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E4%B8%80%E6%98%AF%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84gapday%23" target="weibo">
-六一是成年人的gapday（热度：207471）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717691871224,
+  "endTime": 1717694350220,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -5227,6 +5227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 271602,
+      "num": 144972,
+      "word": "尾号6666666手机号拍卖估值160多万元",
+      "onboard_time": 1717688359,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271490,
       "num": 271490,
       "word": "Rookie为患癌粉丝戴蓝丝带",
@@ -7579,14 +7587,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 192320,
-      "num": 144972,
-      "word": "尾号6666666手机号拍卖估值160多万元",
-      "onboard_time": 1717688359,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 192314,
       "num": 186899,
       "word": "赵小童披风",
@@ -7665,6 +7665,14 @@
       "onboard_time": 1717403718,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190423,
+      "num": 80749,
+      "word": "离职后把同事微信全删了",
+      "onboard_time": 1717691415,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 190356,
@@ -12827,6 +12835,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 95487,
+      "num": 68546,
+      "word": "徐璐下衣失踪",
+      "onboard_time": 1717692074,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 95076,
       "num": 141059,
       "word": "新加坡赛陈雨菲女单亚军",
@@ -13249,14 +13265,6 @@
       "onboard_time": 1717409658,
       "rank": 33,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 76400,
-      "num": 80749,
-      "word": "离职后把同事微信全删了",
-      "onboard_time": 1717691415,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 76321,
@@ -13787,6 +13795,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 57617,
+      "num": 57617,
+      "word": "水瓶座聊天都是选择性回复",
+      "onboard_time": 1717692915,
+      "rank": 32,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 57610,
       "num": 57610,
       "word": "姆巴佩将身穿皇马9号",
@@ -13841,6 +13857,14 @@
       "onboard_time": 1717689979,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 55772,
+      "num": 55772,
+      "word": "李昀锐 这不是我原本实力",
+      "onboard_time": 1717693274,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 55694,
@@ -14283,12 +14307,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 38325,
+      "num": 290206,
+      "word": "女生为当兵努力减重80斤",
+      "onboard_time": 1717690038,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38207,
       "num": 751573,
       "word": "假如与中华5000年文明对话",
       "onboard_time": 1717246398,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38182,
+      "num": 54537,
+      "word": "光遇",
+      "onboard_time": 1717692795,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 37905,
@@ -14385,14 +14425,6 @@
       "onboard_time": 1717603278,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 33390,
-      "num": 290206,
-      "word": "女生为当兵努力减重80斤",
-      "onboard_time": 1717690038,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33377,
@@ -14969,6 +15001,14 @@
       "onboard_time": 1717619650,
       "rank": 49,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 11845,
+      "num": 63776,
+      "word": "张雪峰寄语苏州高考学子",
+      "onboard_time": 1717692435,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 11543,
