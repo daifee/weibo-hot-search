@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717699056104,
+  "endTime": 1717701470409,
   "band_list": [
     {
       "raw_hot": 826494,
@@ -299,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95923,
+      "num": 38697,
+      "word": "中方回应是否考虑恢复日本海产品进口",
+      "onboard_time": 1717698192,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95487,
       "num": 68546,
       "word": "徐璐下衣失踪",
@@ -361,6 +369,14 @@
       "onboard_time": 1717675938,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79837,
+      "num": 38305,
+      "word": "歌手总导演回应做直播",
+      "onboard_time": 1717699152,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 79429,
@@ -491,14 +507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 31613,
-      "num": 31613,
-      "word": "中方回应是否考虑恢复日本海产品进口",
-      "onboard_time": 1717698192,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19482,
       "num": 23218,
       "word": "这才是一次性手套该有的样子",
@@ -521,6 +529,14 @@
       "onboard_time": 1717692435,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10776,
+      "num": 21760,
+      "word": "汪顺送出高考祝福",
+      "onboard_time": 1717701011,
+      "rank": 36,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 7523,
