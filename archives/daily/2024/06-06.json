@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717651161364,
+  "endTime": 1717652127431,
   "band_list": [
     {
       "raw_hot": 1932046,
@@ -75,12 +75,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1105512,
+      "num": 1105512,
+      "word": "高考 卖花",
+      "onboard_time": 1717649539,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1097807,
       "num": 1097807,
       "word": "黄晓明曾跳瀑布救刘亦菲",
       "onboard_time": 1717632858,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1061912,
+      "num": 499799,
+      "word": "人类精液中发现致癌微塑料",
+      "onboard_time": 1717651999,
+      "rank": 10,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1016862,
@@ -105,14 +121,6 @@
       "onboard_time": 1717582219,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 814758,
-      "num": 814758,
-      "word": "高考 卖花",
-      "onboard_time": 1717649539,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 802742,
@@ -185,6 +193,22 @@
       "onboard_time": 1717638738,
       "rank": 8,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 670913,
+      "num": 670913,
+      "word": "檀健次吐烟",
+      "onboard_time": 1717651098,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 667659,
+      "num": 667659,
+      "word": "布洛芬 能给卑职一个明示吗",
+      "onboard_time": 1717647079,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 640505,
@@ -283,14 +307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 516331,
-      "num": 516331,
-      "word": "布洛芬 能给卑职一个明示吗",
-      "onboard_time": 1717647079,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 510603,
       "num": 510603,
       "word": "Selina谈到男友哭了",
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 479151,
+      "num": 479151,
+      "word": "墨雨云间 平替",
+      "onboard_time": 1717649780,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476887,
       "num": 476887,
       "word": "王力宏 那晚的万人山谷都在说爱你",
@@ -353,14 +377,6 @@
       "onboard_time": 1717598420,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 460514,
-      "num": 460514,
-      "word": "墨雨云间 平替",
-      "onboard_time": 1717649780,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 449922,
@@ -465,6 +481,14 @@
       "onboard_time": 1717631958,
       "rank": 15,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 341372,
+      "num": 341372,
+      "word": "25年前故意考0分考生重新高考",
+      "onboard_time": 1717651698,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 340115,
@@ -627,6 +651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 250710,
+      "num": 250710,
+      "word": "杨幂大波浪梦回夏晚晴",
+      "onboard_time": 1717650498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247226,
       "num": 247226,
       "word": "黄奕每段感情都轰轰烈烈的",
@@ -641,14 +673,6 @@
       "onboard_time": 1717632136,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233592,
-      "num": 233592,
-      "word": "杨幂大波浪梦回夏晚晴",
-      "onboard_time": 1717650498,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 233258,
@@ -803,6 +827,14 @@
       "category": "科学科普,教育"
     },
     {
+      "raw_hot": 200913,
+      "num": 200913,
+      "word": "刘亦菲手里拿的是玉米",
+      "onboard_time": 1717650918,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199592,
       "num": 118800,
       "word": "月经变少是卵巢衰老的信号吗",
@@ -851,6 +883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196382,
+      "num": 196382,
+      "word": "陈昊宇加盟微博电影之夜",
+      "onboard_time": 1717650859,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 196252,
       "num": 196252,
       "word": "微信占了你手机多大内存",
@@ -891,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186157,
+      "num": 186157,
+      "word": "微博旅行家",
+      "onboard_time": 1717651459,
+      "rank": 39,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185624,
       "num": 185624,
       "word": "易烊千玺米兰时装周行程",
@@ -913,14 +961,6 @@
       "onboard_time": 1717647560,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185130,
-      "num": 185130,
-      "word": "陈昊宇加盟微博电影之夜",
-      "onboard_time": 1717650859,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 185013,
@@ -979,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167466,
+      "num": 167466,
+      "word": "男女关系中的弃猫效应",
+      "onboard_time": 1717650139,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164602,
       "num": 164602,
       "word": "如何延长眼睛的续航力",
@@ -1027,22 +1075,6 @@
       "category": "数码,财经"
     },
     {
-      "raw_hot": 156741,
-      "num": 156741,
-      "word": "刘亦菲手里拿的是玉米",
-      "onboard_time": 1717650918,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 156357,
-      "num": 156357,
-      "word": "檀健次吐烟",
-      "onboard_time": 1717651098,
-      "rank": 42,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 155628,
       "num": 155628,
       "word": "中乌外交部磋商",
@@ -1075,12 +1107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152683,
-      "num": 152683,
-      "word": "男女关系中的弃猫效应",
-      "onboard_time": 1717650139,
-      "rank": 44,
-      "category": "情感"
+      "raw_hot": 152111,
+      "num": 152111,
+      "word": "无畏运动会直播",
+      "onboard_time": 1717651819,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 151352,
@@ -1179,6 +1211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 141812,
+      "num": 141812,
+      "word": "马嘉祺打水漂大宗师段位",
+      "onboard_time": 1717651278,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140382,
       "num": 140382,
       "word": "这条高考祝福来自月球",
@@ -1257,6 +1297,14 @@
       "onboard_time": 1717631958,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126938,
+      "num": 126938,
+      "word": "高考撞端午全上985",
+      "onboard_time": 1717651219,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 117419,
@@ -1411,6 +1459,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 98560,
+      "num": 515326,
+      "word": "包薪制是变相压榨吗",
+      "onboard_time": 1717650021,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 98414,
       "num": 242709,
       "word": "札幌情人酒店割头案",
@@ -1433,6 +1489,14 @@
       "onboard_time": 1717588578,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91210,
+      "num": 493565,
+      "word": "国家队陪你一起上考场",
+      "onboard_time": 1717649602,
+      "rank": 11,
+      "category": "体育,教育"
     },
     {
       "raw_hot": 88627,
@@ -1521,14 +1585,6 @@
       "onboard_time": 1717648101,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 69343,
-      "num": 515326,
-      "word": "包薪制是变相压榨吗",
-      "onboard_time": 1717650021,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 67111,
@@ -1684,7 +1740,7 @@
     },
     {
       "raw_hot": 26670,
-      "num": 224343,
+      "num": 253127,
       "word": "张若昀疯狂演绎真五折",
       "onboard_time": 1717650441,
       "rank": 29,
