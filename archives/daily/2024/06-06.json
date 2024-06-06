@@ -1,13 +1,21 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717680881211,
+  "endTime": 1717683520852,
   "band_list": [
     {
-      "raw_hot": 2117477,
-      "num": 2117477,
+      "raw_hot": 2328994,
+      "num": 2328994,
       "word": "国足vs泰国",
       "onboard_time": 1717673778,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2257292,
+      "num": 2257292,
+      "word": "国足1比1泰国",
+      "onboard_time": 1717682901,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1717653799,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1838639,
+      "num": 1838639,
+      "word": "国足扳平泰国",
+      "onboard_time": 1717681700,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1777360,
@@ -80,6 +96,14 @@
       "word": "于东来自曝已是胃癌前期",
       "onboard_time": 1717665497,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1592772,
+      "num": 1592772,
+      "word": "温州发现一例比熊猫血更稀有的恐龙血",
+      "onboard_time": 1717679239,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -163,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1100836,
+      "num": 1100836,
+      "word": "大胖媳妇爆改亚当",
+      "onboard_time": 1717677618,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1097807,
       "num": 1097807,
       "word": "黄晓明曾跳瀑布救刘亦菲",
@@ -179,12 +211,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1074210,
-      "num": 1074210,
-      "word": "大胖媳妇爆改亚当",
-      "onboard_time": 1717677618,
-      "rank": 15,
-      "category": "网红"
+      "raw_hot": 1078895,
+      "num": 1078895,
+      "word": "国足 点球不进",
+      "onboard_time": 1717680499,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 1061912,
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 592642,
+      "num": 592642,
+      "word": "胖东来回应于东来患胃癌",
+      "onboard_time": 1717681445,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 589199,
       "num": 589199,
       "word": "再也不敢买开口榴莲了",
@@ -513,6 +553,14 @@
       "onboard_time": 1717635438,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 564417,
+      "num": 564417,
+      "word": "孙继海急了",
+      "onboard_time": 1717681098,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 548444,
@@ -587,14 +635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 501089,
-      "num": 306278,
-      "word": "温州发现一例比熊猫血更稀有的恐龙血",
-      "onboard_time": 1717679239,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 496531,
       "num": 496531,
       "word": "惠英红是刘亦菲一级铁粉",
@@ -649,6 +689,14 @@
       "onboard_time": 1717635678,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 470430,
+      "num": 470430,
+      "word": "墨雨云间 好有张力的拉扯",
+      "onboard_time": 1717679179,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 467844,
@@ -779,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 417684,
+      "num": 417684,
+      "word": "2024祝福高考学子",
+      "onboard_time": 1717668980,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 414445,
       "num": 414445,
       "word": "听到以后没有寒暑假都不笑了",
@@ -843,20 +899,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 376419,
-      "num": 376419,
-      "word": "国足 点球不进",
-      "onboard_time": 1717680499,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 376312,
+      "num": 376312,
+      "word": "赵丽颖不考虑开个演唱会吗",
+      "onboard_time": 1717681460,
+      "rank": 16,
+      "category": "演出"
     },
     {
-      "raw_hot": 364387,
-      "num": 368968,
-      "word": "2024祝福高考学子",
-      "onboard_time": 1717668980,
-      "rank": 32,
-      "category": "教育"
+      "raw_hot": 374349,
+      "num": 374349,
+      "word": "马斯克星舰第4次试飞",
+      "onboard_time": 1717678880,
+      "rank": 23,
+      "category": "科学科普"
     },
     {
       "raw_hot": 356834,
@@ -907,6 +963,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 325183,
+      "num": 325183,
+      "word": "SpaceX",
+      "onboard_time": 1717680738,
+      "rank": 38,
+      "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 320369,
+      "num": 320369,
+      "word": "高考生别看国足",
+      "onboard_time": 1717682842,
+      "rank": 19,
+      "category": "教育,体育"
+    },
+    {
       "raw_hot": 319212,
       "num": 319212,
       "word": "眼睛是人体最脆弱的器官之一",
@@ -955,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301996,
+      "num": 301996,
+      "word": "夫妻辞教职在英国摆摊年挣180万",
+      "onboard_time": 1717682599,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301306,
       "num": 226729,
       "word": "王鹤棣继西瓜皮后又有神图",
@@ -969,14 +1049,6 @@
       "onboard_time": 1717655599,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296470,
-      "num": 296470,
-      "word": "墨雨云间 好有张力的拉扯",
-      "onboard_time": 1717679179,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 295212,
@@ -1171,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255987,
+      "num": 255987,
+      "word": "十个勤天做大做强",
+      "onboard_time": 1717680979,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252068,
       "num": 252068,
       "word": "TF三代出道战禁止线下应援",
@@ -1185,14 +1265,6 @@
       "onboard_time": 1717643958,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250735,
-      "num": 250735,
-      "word": "马斯克星舰第4次试飞",
-      "onboard_time": 1717678880,
-      "rank": 23,
-      "category": "科学科普"
     },
     {
       "raw_hot": 250710,
@@ -1371,6 +1443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 217324,
+      "num": 217324,
+      "word": "拜合拉木凌空破门",
+      "onboard_time": 1717682343,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217304,
       "num": 217304,
       "word": "Red火箭少女Name合照",
@@ -1459,6 +1539,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 206308,
+      "num": 206308,
+      "word": "惠英红 我还是不祸害乐坛了",
+      "onboard_time": 1717681098,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "迪丽热巴公主唱山歌",
@@ -1481,6 +1569,14 @@
       "onboard_time": 1717631116,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 204833,
+      "num": 204833,
+      "word": "中泰战主裁曾吹过2场国足输球比赛",
+      "onboard_time": 1717676778,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 204831,
@@ -1787,6 +1883,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 178323,
+      "num": 178323,
+      "word": "陈哲远猪瘾犯了",
+      "onboard_time": 1717682721,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177281,
       "num": 117898,
       "word": "yes24网站",
@@ -1859,14 +1963,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 171123,
-      "num": 171123,
-      "word": "SpaceX",
-      "onboard_time": 1717680738,
-      "rank": 38,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 170911,
       "num": 170911,
       "word": "林一看刘亦菲的眼神",
@@ -1937,6 +2033,14 @@
       "onboard_time": 1717654759,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 164756,
+      "num": 164756,
+      "word": "RNG对战BLG",
+      "onboard_time": 1717682120,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 164602,
@@ -2017,6 +2121,14 @@
       "onboard_time": 1717653799,
       "rank": 39,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 159709,
+      "num": 159709,
+      "word": "墨雨云间前夫哥 人山人海",
+      "onboard_time": 1717683261,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 159499,
@@ -2443,14 +2555,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 132501,
-      "num": 132501,
-      "word": "中泰战主裁曾吹过2场国足输球比赛",
-      "onboard_time": 1717676778,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131999,
       "num": 131999,
       "word": "剑网3十年之约",
@@ -2508,7 +2612,7 @@
     },
     {
       "raw_hot": 129814,
-      "num": 1103744,
+      "num": 1893253,
       "word": "嫦娥六号祝福考生高中",
       "onboard_time": 1717656857,
       "rank": 45,
@@ -2521,6 +2625,14 @@
       "onboard_time": 1717655837,
       "rank": 46,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 127202,
+      "num": 127202,
+      "word": "留给国足的时间不多了",
+      "onboard_time": 1717682000,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 127053,
@@ -2545,6 +2657,14 @@
       "onboard_time": 1717679119,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120593,
+      "num": 120593,
+      "word": "国足下场平韩国就能出线",
+      "onboard_time": 1717683499,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 119601,
@@ -2577,6 +2697,14 @@
       "onboard_time": 1717637479,
       "rank": 41,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 116661,
+      "num": 116661,
+      "word": "凯格尔运动竟然out了",
+      "onboard_time": 1717683439,
+      "rank": 48,
+      "category": "运动健身"
     },
     {
       "raw_hot": 116493,
@@ -2881,6 +3009,14 @@
       "onboard_time": 1717627214,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81149,
+      "num": 569923,
+      "word": "电影院最赚钱的是爆米花",
+      "onboard_time": 1717682421,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 79869,
