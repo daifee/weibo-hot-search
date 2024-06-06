@@ -1,7 +1,31 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717630539482,
+  "endTime": 1717636762453,
   "band_list": [
+    {
+      "raw_hot": 1893436,
+      "num": 1893436,
+      "word": "别养臭水了可能会得肺炎",
+      "onboard_time": 1717632558,
+      "rank": 0,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1145518,
+      "num": 1145518,
+      "word": "2024高考",
+      "onboard_time": 1717606635,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1045180,
+      "num": 1045180,
+      "word": "黄晓明曾跳瀑布救刘亦菲",
+      "onboard_time": 1717632858,
+      "rank": 3,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1016862,
       "num": 1016862,
@@ -9,6 +33,14 @@
       "onboard_time": 1717602196,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 944279,
+      "num": 944279,
+      "word": "大润发放弃小润发",
+      "onboard_time": 1717634118,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 849458,
@@ -19,12 +51,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 802742,
+      "num": 802742,
+      "word": "小学生在瑞金医院发现上亿年前化石",
+      "onboard_time": 1717633639,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619825,
       "num": 175995,
       "word": "朋友圈背景图",
       "onboard_time": 1717598600,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 617227,
+      "num": 617227,
+      "word": "墨雨云间口碑逆跌",
+      "onboard_time": 1717631116,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 610212,
@@ -35,12 +83,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571171,
+      "num": 571171,
+      "word": "祝福高考",
+      "onboard_time": 1717635438,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 527653,
+      "num": 527653,
+      "word": "为什么打球要穿网球裙",
+      "onboard_time": 1717632317,
+      "rank": 10,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 524323,
+      "num": 524323,
+      "word": "结婚离婚都是为了幸福",
+      "onboard_time": 1717635320,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482116,
       "num": 179823,
       "word": "老人被发现与小38岁保姆结婚后续",
       "onboard_time": 1717582878,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476887,
+      "num": 476887,
+      "word": "王力宏 那晚的万人山谷都在说爱你",
+      "onboard_time": 1717634179,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 470680,
+      "num": 470680,
+      "word": "李庚希大喊庄达菲我爱你",
+      "onboard_time": 1717634479,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 465544,
@@ -52,7 +140,7 @@
     },
     {
       "raw_hot": 449922,
-      "num": 130392,
+      "num": 247855,
       "word": "周大福有员工称收到N+3赔偿",
       "onboard_time": 1717618631,
       "rank": 48,
@@ -75,8 +163,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442246,
+      "num": 442246,
+      "word": "官方回应种地吧音乐会线上收费",
+      "onboard_time": 1717630095,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 433012,
-      "num": 130350,
+      "num": 259614,
       "word": "亲姐姐总暗示我给外甥买东西",
       "onboard_time": 1717593438,
       "rank": 20,
@@ -99,12 +195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369069,
-      "num": 369069,
-      "word": "2024高考",
-      "onboard_time": 1717606635,
-      "rank": 5,
-      "category": "教育"
+      "raw_hot": 356834,
+      "num": 356834,
+      "word": "57岁梁实第28次高考目标仍是川大",
+      "onboard_time": 1717631958,
+      "rank": 15,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 339564,
@@ -124,10 +220,18 @@
     },
     {
       "raw_hot": 295212,
-      "num": 130212,
+      "num": 193740,
       "word": "建议最近不要轻易离职",
       "onboard_time": 1717586058,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 294130,
+      "num": 294130,
+      "word": "不要把自己变成一个但是人",
+      "onboard_time": 1717629375,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -155,6 +259,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 252068,
+      "num": 252068,
+      "word": "TF三代出道战禁止线下应援",
+      "onboard_time": 1717621811,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 244648,
+      "num": 244648,
+      "word": "高考监考都用上AI了",
+      "onboard_time": 1717632136,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 233258,
       "num": 233258,
       "word": "斗鱼一季度亏损8800万元",
@@ -179,6 +299,22 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 205480,
+      "num": 205480,
+      "word": "大熊猫下班到点自己关门谢客",
+      "onboard_time": 1717631116,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 200404,
+      "num": 200404,
+      "word": "东方甄选知识带货变喊麦带货",
+      "onboard_time": 1717635678,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 199592,
       "num": 118800,
       "word": "月经变少是卵巢衰老的信号吗",
@@ -193,14 +329,6 @@
       "onboard_time": 1717596501,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181625,
-      "num": 181625,
-      "word": "TF三代出道战禁止线下应援",
-      "onboard_time": 1717621811,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 177281,
@@ -225,6 +353,46 @@
       "onboard_time": 1717590318,
       "rank": 40,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 165664,
+      "num": 165664,
+      "word": "魔兽世界",
+      "onboard_time": 1717635858,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 164602,
+      "num": 164602,
+      "word": "如何延长眼睛的续航力",
+      "onboard_time": 1717635138,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 162649,
+      "num": 162649,
+      "word": "哈工大的毕业车票上满是细节",
+      "onboard_time": 1717631176,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 157766,
+      "num": 157766,
+      "word": "王星越早该上桌了",
+      "onboard_time": 1717631417,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155628,
+      "num": 155628,
+      "word": "中乌外交部磋商",
+      "onboard_time": 1717634838,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155287,
@@ -267,6 +435,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139518,
+      "num": 139518,
+      "word": "为啥天天刷牙还有口臭",
+      "onboard_time": 1717616711,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 136920,
+      "num": 136920,
+      "word": "香菜泡面",
+      "onboard_time": 1717632678,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133722,
       "num": 133519,
       "word": "B太 水果礼盒触碰了商家的逆鳞",
@@ -275,20 +459,76 @@
       "category": "网红"
     },
     {
-      "raw_hot": 130069,
-      "num": 130069,
-      "word": "官方回应种地吧音乐会线上收费",
-      "onboard_time": 1717630095,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129315,
       "num": 129315,
       "word": "一人一句给高考生送祝福",
       "onboard_time": 1717629555,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127053,
+      "num": 127053,
+      "word": "NBA",
+      "onboard_time": 1717631958,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125193,
+      "num": 125193,
+      "word": "庆余年2",
+      "onboard_time": 1717636638,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116030,
+      "num": 116030,
+      "word": "发现外婆家的小狗在努力讨好我",
+      "onboard_time": 1717630516,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115592,
+      "num": 115592,
+      "word": "上海街头brunch",
+      "onboard_time": 1717636098,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 114996,
+      "num": 114996,
+      "word": "暴雪回归",
+      "onboard_time": 1717636638,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 112569,
+      "num": 112569,
+      "word": "外教的分趾鞋",
+      "onboard_time": 1717631176,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111834,
+      "num": 111834,
+      "word": "RNG更换首发中单",
+      "onboard_time": 1717631297,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 107112,
+      "num": 107112,
+      "word": "第29个爱眼日",
+      "onboard_time": 1717634420,
+      "rank": 47,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 106460,
@@ -321,6 +561,14 @@
       "onboard_time": 1717591339,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100968,
+      "num": 100968,
+      "word": "原来眼睛也需要防晒",
+      "onboard_time": 1717636699,
+      "rank": 49,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 100141,
@@ -363,22 +611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87238,
-      "num": 87238,
-      "word": "为啥天天刷牙还有口臭",
-      "onboard_time": 1717616711,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 86994,
-      "num": 86994,
-      "word": "不要把自己变成一个但是人",
-      "onboard_time": 1717629375,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 84990,
       "num": 77537,
       "word": "姜梨白月光",
@@ -401,6 +633,14 @@
       "onboard_time": 1717596618,
       "rank": 42,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 77200,
+      "num": 145095,
+      "word": "到东阿过端午",
+      "onboard_time": 1717636158,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76809,
@@ -441,14 +681,6 @@
       "onboard_time": 1717591158,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68942,
-      "num": 68942,
-      "word": "发现外婆家的小狗在努力讨好我",
-      "onboard_time": 1717630516,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 67111,
@@ -497,6 +729,14 @@
       "onboard_time": 1717612211,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 60221,
+      "num": 539675,
+      "word": "学弟学妹合唱海阔天空为高考生加油",
+      "onboard_time": 1717633039,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 54388,
@@ -643,6 +883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 16818,
+      "num": 1071012,
+      "word": "我在五千年前等你",
+      "onboard_time": 1717559118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15187,
       "num": 19578,
       "word": "一不小心又被爸妈幽默到了",
@@ -689,14 +937,6 @@
       "onboard_time": 1717606995,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 9587,
-      "num": 467493,
-      "word": "我在五千年前等你",
-      "onboard_time": 1717559118,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9560,
