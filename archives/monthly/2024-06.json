@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717673750909,
+  "endTime": 1717677352778,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -201,6 +201,14 @@
       "onboard_time": 1717506617,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1684154,
+      "num": 1684154,
+      "word": "故意考0分考生承认想当网红",
+      "onboard_time": 1717672217,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1683772,
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1373166,
+      "num": 1373166,
+      "word": "李昊 磨洋工",
+      "onboard_time": 1717675279,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1371095,
       "num": 1531487,
       "word": "苹果截图 诈骗骗局",
@@ -489,6 +505,14 @@
       "onboard_time": 1717247419,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1352109,
+      "num": 1352109,
+      "word": "国足vs泰国",
+      "onboard_time": 1717673778,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1320483,
@@ -2107,6 +2131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 655763,
+      "num": 655763,
+      "word": "捡废品考上清华的庞众望现状",
+      "onboard_time": 1717674197,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 655383,
       "num": 293425,
       "word": "歌手排名",
@@ -2315,6 +2347,14 @@
       "category": "幽默,科学科普"
     },
     {
+      "raw_hot": 610902,
+      "num": 610902,
+      "word": "张绍刚主持",
+      "onboard_time": 1717673297,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610212,
       "num": 610212,
       "word": "官方回应B太长沙夜市打假",
@@ -2377,14 +2417,6 @@
       "onboard_time": 1717555277,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601480,
-      "num": 359662,
-      "word": "故意考0分考生承认想当网红",
-      "onboard_time": 1717672217,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 600148,
@@ -2841,6 +2873,14 @@
       "onboard_time": 1717223119,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 525488,
+      "num": 525488,
+      "word": "他只是做错题 又没有做错人",
+      "onboard_time": 1717670657,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 525251,
@@ -3483,6 +3523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454332,
+      "num": 454332,
+      "word": "玫瑰的故事定档",
+      "onboard_time": 1717674257,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451570,
       "num": 451570,
       "word": "A股",
@@ -3657,6 +3705,14 @@
       "onboard_time": 1717405219,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438508,
+      "num": 438508,
+      "word": "医生建议1天最多吃250克樱桃",
+      "onboard_time": 1717671018,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 437834,
@@ -4459,6 +4515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370332,
+      "num": 370332,
+      "word": "种地吧第二届感恩音乐会",
+      "onboard_time": 1717674919,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369396,
       "num": 369396,
       "word": "张馨予回应勒腰制造焦虑",
@@ -4512,6 +4576,14 @@
       "word": "皇马夺得欧冠冠军",
       "onboard_time": 1717276451,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 364723,
+      "num": 364723,
+      "word": "国足首发",
+      "onboard_time": 1717670238,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -4827,6 +4899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336932,
+      "num": 336932,
+      "word": "李玟遗作将公开",
+      "onboard_time": 1717675938,
+      "rank": 14,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 336928,
       "num": 333073,
       "word": "阿沁公开飞儿乐团创作录音",
@@ -4961,14 +5041,6 @@
       "onboard_time": 1717245197,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 328932,
-      "num": 328932,
-      "word": "国足首发",
-      "onboard_time": 1717670238,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 328627,
@@ -7163,6 +7235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222452,
+      "num": 188503,
+      "word": "祖母对姜梨的爱是有前提条件的",
+      "onboard_time": 1717675759,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222215,
       "num": 203671,
       "word": "李惠仁天生爱豆圣体",
@@ -7419,6 +7499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 215009,
+      "num": 136684,
+      "word": "歌手2024第二轮揭榜赛",
+      "onboard_time": 1717676538,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214703,
       "num": 214703,
       "word": "王星越壁纸",
@@ -7441,14 +7529,6 @@
       "onboard_time": 1717171279,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212897,
-      "num": 361502,
-      "word": "医生建议1天最多吃250克樱桃",
-      "onboard_time": 1717671018,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 212424,
@@ -7953,14 +8033,6 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202699,
-      "num": 202699,
-      "word": "他只是做错题 又没有做错人",
-      "onboard_time": 1717670657,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 202381,
@@ -8499,14 +8571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194990,
-      "num": 194990,
-      "word": "张绍刚主持",
-      "onboard_time": 1717673297,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194720,
       "num": 194720,
       "word": "WTT重庆冠军赛2024",
@@ -8641,6 +8705,14 @@
       "onboard_time": 1717640057,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192314,
+      "num": 186899,
+      "word": "赵小童披风",
+      "onboard_time": 1717675519,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 192201,
@@ -9899,6 +9971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168103,
+      "num": 187352,
+      "word": "弟弟的荣誉 哥哥的脸面",
+      "onboard_time": 1717675818,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168073,
       "num": 168073,
       "word": "Faker新皮肤国服售价最高达3999元",
@@ -9961,6 +10041,14 @@
       "onboard_time": 1717477697,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167067,
+      "num": 167067,
+      "word": "女生路上被中年男吐痰",
+      "onboard_time": 1717674498,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 166992,
@@ -10507,6 +10595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157890,
+      "num": 136268,
+      "word": "刘亦菲笑倒在万茜身上",
+      "onboard_time": 1717675998,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157788,
       "num": 157788,
       "word": "原来风油精还可以这样用",
@@ -10593,6 +10689,14 @@
       "onboard_time": 1717545857,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 156309,
+      "num": 134760,
+      "word": "鹭卓舞台",
+      "onboard_time": 1717675577,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 156145,
@@ -11097,6 +11201,14 @@
       "onboard_time": 1717219818,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148866,
+      "num": 131266,
+      "word": "华晨宇翻牌",
+      "onboard_time": 1717675098,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 148835,
@@ -12161,6 +12273,14 @@
       "onboard_time": 1717213877,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132501,
+      "num": 132501,
+      "word": "中泰战主裁曾吹过2场国足输球比赛",
+      "onboard_time": 1717676778,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 132415,
@@ -14075,6 +14195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106369,
+      "num": 106369,
+      "word": "于适王影璐新片又有病又有爱的",
+      "onboard_time": 1717674318,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106286,
       "num": 106286,
       "word": "原神克洛琳德",
@@ -14435,12 +14563,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 98957,
+      "num": 443613,
+      "word": "高考前一夜你想对考生说什么",
+      "onboard_time": 1717674139,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98646,
       "num": 98646,
       "word": "石宇奇连救7个局点",
       "onboard_time": 1717238777,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98587,
+      "num": 98587,
+      "word": "全力以赴你就是奇迹",
+      "onboard_time": 1717673959,
+      "rank": 49,
+      "category": "教育,情感"
     },
     {
       "raw_hot": 98576,
@@ -15179,6 +15323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73997,
+      "num": 126769,
+      "word": "9毛9的羊毛不香吗",
+      "onboard_time": 1717676898,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73978,
       "num": 482481,
       "word": "Uzi帮你清空购物车",
@@ -15571,6 +15723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 61482,
+      "num": 126670,
+      "word": "近视矫正产品海报有多能吹",
+      "onboard_time": 1717675218,
+      "rank": 41,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 61335,
       "num": 61335,
       "word": "当主人忘给猫咪喂饭",
@@ -15748,7 +15908,7 @@
     },
     {
       "raw_hot": 56575,
-      "num": 666494,
+      "num": 1352984,
       "word": "中国有约",
       "onboard_time": 1717663579,
       "rank": 2,

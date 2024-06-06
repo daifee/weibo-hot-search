@@ -1,0 +1,410 @@
+{
+  "runTime": 1717677352778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1684154,
+        "num": 1684154,
+        "word": "故意考0分考生承认想当网红",
+        "onboard_time": 1717672217,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1373166,
+        "num": 1373166,
+        "word": "李昊 磨洋工",
+        "onboard_time": 1717675279,
+        "rank": 1,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33881,
+        "num": 1352984,
+        "word": "中国有约",
+        "onboard_time": 1717663579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1352109,
+        "num": 1352109,
+        "word": "国足vs泰国",
+        "onboard_time": 1717673778,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 655763,
+        "num": 655763,
+        "word": "捡废品考上清华的庞众望现状",
+        "onboard_time": 1717674197,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 610902,
+        "num": 610902,
+        "word": "张绍刚主持",
+        "onboard_time": 1717673297,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 525488,
+        "num": 525488,
+        "word": "他只是做错题 又没有做错人",
+        "onboard_time": 1717670657,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 454332,
+        "num": 454332,
+        "word": "玫瑰的故事定档",
+        "onboard_time": 1717674257,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450233,
+        "num": 450233,
+        "word": "孟美岐榜字写错",
+        "onboard_time": 1717664959,
+        "rank": 8,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 98957,
+        "num": 443613,
+        "word": "高考前一夜你想对考生说什么",
+        "onboard_time": 1717674139,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 438508,
+        "num": 438508,
+        "word": "医生建议1天最多吃250克樱桃",
+        "onboard_time": 1717671018,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 421479,
+        "num": 421479,
+        "word": "楚乔传2没有赵丽颖林更新",
+        "onboard_time": 1717664839,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370332,
+        "num": 370332,
+        "word": "种地吧第二届感恩音乐会",
+        "onboard_time": 1717674919,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364723,
+        "num": 364723,
+        "word": "国足首发",
+        "onboard_time": 1717670238,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336932,
+        "num": 336932,
+        "word": "李玟遗作将公开",
+        "onboard_time": 1717675938,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279934,
+        "num": 279934,
+        "word": "种地吧直播 破防",
+        "onboard_time": 1717661178,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279216,
+        "num": 279216,
+        "word": "撒贝宁何炅李健 吉祥三保",
+        "onboard_time": 1717670118,
+        "rank": 16,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 268955,
+        "num": 268955,
+        "word": "2024祝福高考学子",
+        "onboard_time": 1717668980,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251804,
+        "num": 251804,
+        "word": "我和专八离婚了",
+        "onboard_time": 1717665018,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190887,
+        "num": 190887,
+        "word": "人体最先衰老的器官是什么",
+        "onboard_time": 1717653799,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 474235,
+        "num": 190468,
+        "word": "徐娇五分钟两次五杀",
+        "onboard_time": 1717664239,
+        "rank": 20,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 277216,
+        "num": 189702,
+        "word": "种地吧",
+        "onboard_time": 1717673838,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240718,
+        "num": 189370,
+        "word": "张若昀 留档期",
+        "onboard_time": 1717662678,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222452,
+        "num": 188503,
+        "word": "祖母对姜梨的爱是有前提条件的",
+        "onboard_time": 1717675759,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168103,
+        "num": 187352,
+        "word": "弟弟的荣誉 哥哥的脸面",
+        "onboard_time": 1717675818,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192314,
+        "num": 186899,
+        "word": "赵小童披风",
+        "onboard_time": 1717675519,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186586,
+        "num": 186586,
+        "word": "肖战晒老家日常",
+        "onboard_time": 1717665139,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168282,
+        "num": 168282,
+        "word": "孟美岐自罚一百遍金榜题名",
+        "onboard_time": 1717671858,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167067,
+        "num": 167067,
+        "word": "女生路上被中年男吐痰",
+        "onboard_time": 1717674498,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138934,
+        "num": 138934,
+        "word": "餐厅倒闭老板留下6只企鹅跑路",
+        "onboard_time": 1717669339,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215009,
+        "num": 136684,
+        "word": "歌手2024第二轮揭榜赛",
+        "onboard_time": 1717676538,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157890,
+        "num": 136268,
+        "word": "刘亦菲笑倒在万茜身上",
+        "onboard_time": 1717675998,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156309,
+        "num": 134760,
+        "word": "鹭卓舞台",
+        "onboard_time": 1717675577,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132501,
+        "num": 132501,
+        "word": "中泰战主裁曾吹过2场国足输球比赛",
+        "onboard_time": 1717676778,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131923,
+        "num": 131923,
+        "word": "Faker新皮肤国服售价最高达3999元",
+        "onboard_time": 1717672458,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148866,
+        "num": 131266,
+        "word": "华晨宇翻牌",
+        "onboard_time": 1717675098,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145827,
+        "num": 131102,
+        "word": "赵一博现场",
+        "onboard_time": 1717669339,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130556,
+        "num": 130556,
+        "word": "福宝到邻居家串门了",
+        "onboard_time": 1717667959,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129598,
+        "num": 129598,
+        "word": "孟子义已经退出华语乐坛三个月",
+        "onboard_time": 1717660638,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73997,
+        "num": 126769,
+        "word": "9毛9的羊毛不香吗",
+        "onboard_time": 1717676898,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126686,
+        "num": 126686,
+        "word": "A股全市仅500余只个股上涨",
+        "onboard_time": 1717670838,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61482,
+        "num": 126670,
+        "word": "近视矫正产品海报有多能吹",
+        "onboard_time": 1717675218,
+        "rank": 41,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 126663,
+        "num": 126663,
+        "word": "大学生全款拿下28平小公寓",
+        "onboard_time": 1717652299,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122444,
+        "num": 122444,
+        "word": "周杰伦 当年我也是歌火人不火",
+        "onboard_time": 1717665799,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117633,
+        "num": 117633,
+        "word": "李荣浩连续9年说都给我好好考",
+        "onboard_time": 1717671558,
+        "rank": 44,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 111846,
+        "num": 111846,
+        "word": "肖战为玉骨遥在霓虹宣传的口播",
+        "onboard_time": 1717672697,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108758,
+        "num": 108758,
+        "word": "亚马逊部落通网后沉迷色情",
+        "onboard_time": 1717666759,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108689,
+        "num": 108689,
+        "word": "高考加油",
+        "onboard_time": 1717641918,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106369,
+        "num": 106369,
+        "word": "于适王影璐新片又有病又有爱的",
+        "onboard_time": 1717674318,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98587,
+        "num": 98587,
+        "word": "全力以赴你就是奇迹",
+        "onboard_time": 1717673959,
+        "rank": 49,
+        "category": "教育,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国肯恩大学校长雷波列特#"
+    }
+  }
+}
