@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717641839492,
+  "endTime": 1717644129075,
   "band_list": [
     {
       "raw_hot": 1893436,
@@ -9,6 +9,22 @@
       "onboard_time": 1717632558,
       "rank": 0,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1634361,
+      "num": 1634361,
+      "word": "微信体积11年膨胀575倍",
+      "onboard_time": 1717639577,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 1378118,
+      "num": 1378118,
+      "word": "女童掉入医院开水桶遭特重度烧伤",
+      "onboard_time": 1717639937,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1145957,
@@ -33,14 +49,6 @@
       "onboard_time": 1717632858,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1066448,
-      "num": 1066448,
-      "word": "微信体积11年膨胀575倍",
-      "onboard_time": 1717639577,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 1016862,
@@ -107,6 +115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 630663,
+      "num": 630663,
+      "word": "肖战重庆暴走",
+      "onboard_time": 1717643477,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 619825,
       "num": 175995,
       "word": "朋友圈背景图",
@@ -139,20 +155,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 584984,
+      "num": 584984,
+      "word": "张雪峰为所有考生打一场铁花",
+      "onboard_time": 1717642938,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 571171,
       "num": 571171,
       "word": "祝福高考",
       "onboard_time": 1717635438,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 554510,
-      "num": 554510,
-      "word": "女童掉入医院开水桶遭特重度烧伤",
-      "onboard_time": 1717639937,
-      "rank": 15,
-      "category": "社会负面"
     },
     {
       "raw_hot": 548444,
@@ -163,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 523360,
+      "num": 523360,
+      "word": "吃白人饭一年的变化",
+      "onboard_time": 1717638738,
+      "rank": 21,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 518115,
       "num": 518115,
       "word": "李庚希大喊庄达菲我爱你",
       "onboard_time": 1717634479,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 510317,
+      "num": 510317,
+      "word": "今年第一批丢准考证的人已经出现了",
+      "onboard_time": 1717642757,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 482116,
@@ -195,6 +227,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 467844,
+      "num": 319717,
+      "word": "NBA将签下760亿的转播协议",
+      "onboard_time": 1717643776,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465544,
       "num": 465544,
       "word": "刘恋和陈昊宇十年前就认识了",
@@ -217,6 +257,14 @@
       "onboard_time": 1717602378,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 445814,
+      "num": 445814,
+      "word": "热巴 天生爱豆圣体",
+      "onboard_time": 1717641077,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 444827,
@@ -275,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357686,
+      "num": 357686,
+      "word": "高考加油",
+      "onboard_time": 1717641918,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 356834,
       "num": 356834,
       "word": "57岁梁实第28次高考目标仍是川大",
@@ -289,14 +345,6 @@
       "onboard_time": 1717587737,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 322693,
-      "num": 322693,
-      "word": "吃白人饭一年的变化",
-      "onboard_time": 1717638738,
-      "rank": 21,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 315315,
@@ -347,12 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264378,
-      "num": 264378,
-      "word": "热巴 天生爱豆圣体",
-      "onboard_time": 1717641077,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 272262,
+      "num": 272262,
+      "word": "专八成绩",
+      "onboard_time": 1717642998,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 263173,
+      "num": 263173,
+      "word": "鸣潮",
+      "onboard_time": 1717643536,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 257121,
@@ -369,6 +425,30 @@
       "onboard_time": 1717621811,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250223,
+      "num": 250223,
+      "word": "眼睛是人体最脆弱的器官之一",
+      "onboard_time": 1717643178,
+      "rank": 24,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 247226,
+      "num": 247226,
+      "word": "黄奕每段感情都轰轰烈烈的",
+      "onboard_time": 1717641257,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 245445,
+      "num": 245445,
+      "word": "教育局回应猥亵学生教师升任副校长",
+      "onboard_time": 1717643118,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244648,
@@ -419,14 +499,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 209867,
-      "num": 209867,
-      "word": "黄奕每段感情都轰轰烈烈的",
-      "onboard_time": 1717641257,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205480,
       "num": 205480,
       "word": "大熊猫下班到点自己关门谢客",
@@ -459,6 +531,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 198332,
+      "num": 198332,
+      "word": "咒术回战",
+      "onboard_time": 1717643719,
+      "rank": 30,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 197058,
+      "num": 197058,
+      "word": "刘亦菲玫瑰的故事",
+      "onboard_time": 1717643417,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196803,
       "num": 196803,
       "word": "KPL夏日运动会",
@@ -483,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185624,
+      "num": 185624,
+      "word": "易烊千玺米兰时装周行程",
+      "onboard_time": 1717641557,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 185588,
       "num": 164131,
       "word": "汪苏泷晒其他歌手送的礼物",
@@ -491,12 +587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185013,
+      "num": 185013,
+      "word": "2024高考时间",
+      "onboard_time": 1717643417,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 184281,
       "num": 184281,
       "word": "光与夜之恋西游记联动",
       "onboard_time": 1717639398,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177396,
+      "num": 177396,
+      "word": "冰箱贴比冰箱还贵",
+      "onboard_time": 1717643958,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 177281,
@@ -537,14 +649,6 @@
       "onboard_time": 1717590318,
       "rank": 40,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 168287,
-      "num": 168287,
-      "word": "易烊千玺米兰时装周行程",
-      "onboard_time": 1717641557,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167482,
@@ -651,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144553,
+      "num": 144553,
+      "word": "高三学生为老师准备礼花惊喜",
+      "onboard_time": 1717642877,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 143770,
       "num": 143770,
       "word": "于正奖励自己精修写真",
@@ -667,6 +779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 140382,
+      "num": 140382,
+      "word": "这条高考祝福来自月球",
+      "onboard_time": 1717642757,
+      "rank": 42,
+      "category": "科学科普,教育"
+    },
+    {
       "raw_hot": 139826,
       "num": 139826,
       "word": "姆巴佩一射两传",
@@ -681,6 +801,22 @@
       "onboard_time": 1717616711,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138008,
+      "num": 138008,
+      "word": "张杰为考生点一首少年中国说",
+      "onboard_time": 1717643898,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137490,
+      "num": 137490,
+      "word": "暴雪再注册一枚魔兽世界商标",
+      "onboard_time": 1717643237,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 136920,
@@ -873,6 +1009,14 @@
       "onboard_time": 1717588578,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91922,
+      "num": 532909,
+      "word": "眼镜度数配高点好还是配低点好",
+      "onboard_time": 1717642817,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 88627,
