@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717648595821,
+  "endTime": 1717651161364,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -97,6 +97,14 @@
       "onboard_time": 1717333279,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1932046,
+      "num": 1932046,
+      "word": "海底捞给顾客喝二手饮品",
+      "onboard_time": 1717645877,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1929584,
@@ -457,14 +465,6 @@
       "onboard_time": 1717311978,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1300961,
-      "num": 1300961,
-      "word": "海底捞给顾客喝二手饮品",
-      "onboard_time": 1717645877,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1293666,
@@ -1243,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 814758,
+      "num": 814758,
+      "word": "高考 卖花",
+      "onboard_time": 1717649539,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 806323,
       "num": 806323,
       "word": "900万网红大V被禁言",
@@ -1475,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755498,
+      "num": 755498,
+      "word": "周杰伦 这里是不是冠军不能参加吗",
+      "onboard_time": 1717648339,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751314,
       "num": 585642,
       "word": "魔兽世界技术测试定档",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1717336099,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 743278,
+      "num": 372723,
+      "word": "发现男性友谊很少提供情绪价值",
+      "onboard_time": 1717645997,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 741905,
@@ -1676,7 +1700,7 @@
     },
     {
       "raw_hot": 696718,
-      "num": 340394,
+      "num": 348240,
       "word": "霉霉 任何女性都无需解释",
       "onboard_time": 1717645038,
       "rank": 21,
@@ -1732,7 +1756,7 @@
     },
     {
       "raw_hot": 681384,
-      "num": 570244,
+      "num": 659463,
       "word": "徐艺洋曾一个月瘦20斤",
       "onboard_time": 1717646899,
       "rank": 12,
@@ -2051,12 +2075,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 626113,
-      "num": 340394,
-      "word": "发现男性友谊很少提供情绪价值",
-      "onboard_time": 1717645997,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 624157,
+      "num": 624157,
+      "word": "孙海洋一家为孙卓高考加油",
+      "onboard_time": 1717648519,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 623799,
@@ -2715,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516331,
+      "num": 516331,
+      "word": "布洛芬 能给卑职一个明示吗",
+      "onboard_time": 1717647079,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 515244,
       "num": 515244,
       "word": "陈丽君 投票",
@@ -2784,6 +2816,14 @@
       "word": "王鹤棣继西瓜皮后又有神图",
       "onboard_time": 1717588278,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 510603,
+      "num": 510603,
+      "word": "Selina谈到男友哭了",
+      "onboard_time": 1717650498,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -2865,6 +2905,14 @@
       "onboard_time": 1717241417,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494493,
+      "num": 494493,
+      "word": "网易 暴雪",
+      "onboard_time": 1717647438,
+      "rank": 28,
+      "category": "游戏,互联网"
     },
     {
       "raw_hot": 493588,
@@ -3145,6 +3193,14 @@
       "onboard_time": 1717276451,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460514,
+      "num": 460514,
+      "word": "墨雨云间 平替",
+      "onboard_time": 1717649780,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 460102,
@@ -4131,14 +4187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370241,
-      "num": 370241,
-      "word": "网易 暴雪",
-      "onboard_time": 1717647438,
-      "rank": 28,
-      "category": "游戏,互联网"
-    },
-    {
       "raw_hot": 369396,
       "num": 369396,
       "word": "张馨予回应勒腰制造焦虑",
@@ -4393,14 +4441,6 @@
       "onboard_time": 1717291276,
       "rank": 44,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 346630,
-      "num": 340287,
-      "word": "布洛芬 能给卑职一个明示吗",
-      "onboard_time": 1717647079,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 346188,
@@ -4923,6 +4963,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 308661,
+      "num": 308661,
+      "word": "十斤的橘猫 九斤半的心眼子",
+      "onboard_time": 1717648879,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 308420,
       "num": 308420,
       "word": "追风者 剪辑",
@@ -5209,6 +5257,14 @@
       "onboard_time": 1717377498,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 290741,
+      "num": 290741,
+      "word": "王倦尽力了",
+      "onboard_time": 1717649659,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 290589,
@@ -5875,14 +5931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256450,
-      "num": 256450,
-      "word": "周杰伦 这里是不是冠军不能参加吗",
-      "onboard_time": 1717648339,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256353,
       "num": 297586,
       "word": "高考选择药物推迟经期有用吗",
@@ -6371,6 +6419,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 233592,
+      "num": 233592,
+      "word": "杨幂大波浪梦回夏晚晴",
+      "onboard_time": 1717650498,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233173,
       "num": 197445,
       "word": "藏海传好多人啊",
@@ -6595,6 +6651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 225031,
+      "num": 202654,
+      "word": "刘亦菲万茜演的闺蜜",
+      "onboard_time": 1717648580,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224611,
       "num": 224611,
       "word": "狐妖月红篇落跑甜心",
@@ -6617,6 +6681,14 @@
       "onboard_time": 1717312997,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223919,
+      "num": 223919,
+      "word": "肖战工作室什么时候放饭",
+      "onboard_time": 1717649061,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 223262,
@@ -7171,6 +7243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205918,
+      "num": 205918,
+      "word": "迪丽热巴公主唱山歌",
+      "onboard_time": 1717650979,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205694,
       "num": 205694,
       "word": "灿烂的你",
@@ -7643,6 +7723,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 198189,
+      "num": 198189,
+      "word": "DQ小卡",
+      "onboard_time": 1717649301,
+      "rank": 33,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 198126,
       "num": 198126,
       "word": "想魂穿坚果",
@@ -8091,14 +8179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 189487,
-      "num": 189487,
-      "word": "刘亦菲万茜演的闺蜜",
-      "onboard_time": 1717648580,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189456,
       "num": 189456,
       "word": "文淇 注意一下你女明星的形象",
@@ -8361,6 +8441,14 @@
       "onboard_time": 1717201455,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185130,
+      "num": 185130,
+      "word": "陈昊宇加盟微博电影之夜",
+      "onboard_time": 1717650859,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 185013,
@@ -8817,14 +8905,6 @@
       "onboard_time": 1717592779,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174916,
-      "num": 174916,
-      "word": "孙海洋一家为孙卓高考加油",
-      "onboard_time": 1717648519,
-      "rank": 48,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 174712,
@@ -9739,6 +9819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156741,
+      "num": 156741,
+      "word": "刘亦菲手里拿的是玉米",
+      "onboard_time": 1717650918,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156447,
       "num": 156447,
       "word": "TF三代九月前或将出道",
@@ -9769,6 +9857,14 @@
       "onboard_time": 1717545857,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 156357,
+      "num": 156357,
+      "word": "檀健次吐烟",
+      "onboard_time": 1717651098,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 156145,
@@ -9945,6 +10041,14 @@
       "onboard_time": 1717582816,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152683,
+      "num": 152683,
+      "word": "男女关系中的弃猫效应",
+      "onboard_time": 1717650139,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 152659,
@@ -10619,6 +10723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142091,
+      "num": 152434,
+      "word": "旗开得胜",
+      "onboard_time": 1717649720,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 141897,
       "num": 141897,
       "word": "乌尔比安 难抽",
@@ -11145,6 +11257,14 @@
       "onboard_time": 1717480817,
       "rank": 9,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 132966,
+      "num": 132966,
+      "word": "一包零食减压定律",
+      "onboard_time": 1717650918,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 132884,
@@ -12907,6 +13027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106929,
+      "num": 448678,
+      "word": "鸣潮吟霖上线",
+      "onboard_time": 1717645458,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106717,
       "num": 106717,
       "word": "航天员拍下绿色正慢慢覆盖三北沙漠",
@@ -13539,14 +13667,6 @@
       "category": "社会新闻,社会议题"
     },
     {
-      "raw_hot": 89419,
-      "num": 448678,
-      "word": "鸣潮吟霖上线",
-      "onboard_time": 1717645458,
-      "rank": 13,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 88530,
       "num": 88530,
       "word": "HPV治疗隐形成本更高",
@@ -14132,7 +14252,7 @@
     },
     {
       "raw_hot": 70264,
-      "num": 201633,
+      "num": 372729,
       "word": "这届年轻人露营有多野",
       "onboard_time": 1717648101,
       "rank": 40,
@@ -14145,6 +14265,14 @@
       "onboard_time": 1717567218,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69343,
+      "num": 515326,
+      "word": "包薪制是变相压榨吗",
+      "onboard_time": 1717650021,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 69196,
@@ -15307,6 +15435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29575,
+      "num": 1179622,
+      "word": "文化中国行感受生态智慧",
+      "onboard_time": 1717644977,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29418,
       "num": 189842,
       "word": "田雨在线催更庆余年3",
@@ -15321,14 +15457,6 @@
       "onboard_time": 1717522632,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28632,
-      "num": 1179622,
-      "word": "文化中国行感受生态智慧",
-      "onboard_time": 1717644977,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28264,
@@ -15361,6 +15489,14 @@
       "onboard_time": 1717351333,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26670,
+      "num": 224343,
+      "word": "张若昀疯狂演绎真五折",
+      "onboard_time": 1717650441,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 26103,
@@ -15932,6 +16068,9 @@
     },
     {
       "word": "#着力赓续中华文脉#"
+    },
+    {
+      "word": "#牢记嘱托加油干#"
     }
   ]
 }

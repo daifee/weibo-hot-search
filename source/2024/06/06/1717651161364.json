@@ -1,0 +1,410 @@
+{
+  "runTime": 1717651161364,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1932046,
+        "num": 1932046,
+        "word": "海底捞给顾客喝二手饮品",
+        "onboard_time": 1717645877,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814758,
+        "num": 814758,
+        "word": "高考 卖花",
+        "onboard_time": 1717649539,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29575,
+        "num": 774553,
+        "word": "文化中国行感受生态智慧",
+        "onboard_time": 1717644977,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932681,
+        "num": 772926,
+        "word": "肖战重庆暴走",
+        "onboard_time": 1717643477,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755498,
+        "num": 755498,
+        "word": "周杰伦 这里是不是冠军不能参加吗",
+        "onboard_time": 1717648339,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753798,
+        "num": 753798,
+        "word": "今年第一批丢准考证的人已经出现了",
+        "onboard_time": 1717642757,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 659463,
+        "num": 659463,
+        "word": "徐艺洋曾一个月瘦20斤",
+        "onboard_time": 1717646899,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 624157,
+        "num": 624157,
+        "word": "孙海洋一家为孙卓高考加油",
+        "onboard_time": 1717648519,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 516331,
+        "num": 516331,
+        "word": "布洛芬 能给卑职一个明示吗",
+        "onboard_time": 1717647079,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 69343,
+        "num": 515326,
+        "word": "包薪制是变相压榨吗",
+        "onboard_time": 1717650021,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 514639,
+        "num": 514639,
+        "word": "女童掉入医院开水桶遭特重度烧伤",
+        "onboard_time": 1717639937,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 510603,
+        "num": 510603,
+        "word": "Selina谈到男友哭了",
+        "onboard_time": 1717650498,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494493,
+        "num": 494493,
+        "word": "网易 暴雪",
+        "onboard_time": 1717647438,
+        "rank": 12,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 460514,
+        "num": 460514,
+        "word": "墨雨云间 平替",
+        "onboard_time": 1717649780,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447734,
+        "num": 447734,
+        "word": "别养臭水了可能会得肺炎",
+        "onboard_time": 1717632558,
+        "rank": 14,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 430032,
+        "num": 430032,
+        "word": "微信体积11年膨胀575倍",
+        "onboard_time": 1717639577,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 407698,
+        "num": 407698,
+        "word": "高考加油",
+        "onboard_time": 1717641918,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400983,
+        "num": 400983,
+        "word": "王一博宫廷王子风",
+        "onboard_time": 1717646719,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 373701,
+        "num": 373701,
+        "word": "祝福高考",
+        "onboard_time": 1717635438,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63593,
+        "num": 372729,
+        "word": "这届年轻人露营有多野",
+        "onboard_time": 1717648101,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 743278,
+        "num": 372723,
+        "word": "发现男性友谊很少提供情绪价值",
+        "onboard_time": 1717645997,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371922,
+        "num": 371922,
+        "word": "再也不敢买开口榴莲了",
+        "onboard_time": 1717644798,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 348240,
+        "num": 348240,
+        "word": "霉霉 任何女性都无需解释",
+        "onboard_time": 1717645038,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319607,
+        "num": 319607,
+        "word": "一人一句给高考生送祝福",
+        "onboard_time": 1717629555,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 308661,
+        "num": 308661,
+        "word": "十斤的橘猫 九斤半的心眼子",
+        "onboard_time": 1717648879,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290741,
+        "num": 290741,
+        "word": "王倦尽力了",
+        "onboard_time": 1717649659,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260370,
+        "num": 260370,
+        "word": "赴山海开机",
+        "onboard_time": 1717644317,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254898,
+        "num": 254898,
+        "word": "惠英红是刘亦菲一级铁粉",
+        "onboard_time": 1717644678,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233592,
+        "num": 233592,
+        "word": "杨幂大波浪梦回夏晚晴",
+        "onboard_time": 1717650498,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26670,
+        "num": 224343,
+        "word": "张若昀疯狂演绎真五折",
+        "onboard_time": 1717650441,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223919,
+        "num": 223919,
+        "word": "肖战工作室什么时候放饭",
+        "onboard_time": 1717649061,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205918,
+        "num": 205918,
+        "word": "迪丽热巴公主唱山歌",
+        "onboard_time": 1717650979,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225031,
+        "num": 202654,
+        "word": "刘亦菲万茜演的闺蜜",
+        "onboard_time": 1717648580,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198189,
+        "num": 198189,
+        "word": "DQ小卡",
+        "onboard_time": 1717649301,
+        "rank": 33,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 106929,
+        "num": 191359,
+        "word": "鸣潮吟霖上线",
+        "onboard_time": 1717645458,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185130,
+        "num": 185130,
+        "word": "陈昊宇加盟微博电影之夜",
+        "onboard_time": 1717650859,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182426,
+        "num": 182426,
+        "word": "贵州省通报女企业家讨工程款事件",
+        "onboard_time": 1717647079,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180946,
+        "num": 180946,
+        "word": "张雪峰为所有考生打一场铁花",
+        "onboard_time": 1717642938,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 179692,
+        "num": 179692,
+        "word": "重庆偶遇肖战吃路边摊",
+        "onboard_time": 1717644317,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165783,
+        "num": 165783,
+        "word": "出现这两种情况就该去查查干眼症了",
+        "onboard_time": 1717646419,
+        "rank": 39,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 164662,
+        "num": 164662,
+        "word": "Red火箭少女Name合照",
+        "onboard_time": 1717645277,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156741,
+        "num": 156741,
+        "word": "刘亦菲手里拿的是玉米",
+        "onboard_time": 1717650918,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156357,
+        "num": 156357,
+        "word": "檀健次吐烟",
+        "onboard_time": 1717651098,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154176,
+        "num": 154176,
+        "word": "微博电影之夜阵容",
+        "onboard_time": 1717648040,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152683,
+        "num": 152683,
+        "word": "男女关系中的弃猫效应",
+        "onboard_time": 1717650139,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142091,
+        "num": 152434,
+        "word": "旗开得胜",
+        "onboard_time": 1717649720,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152433,
+        "num": 152433,
+        "word": "李蠕蠕模仿老师高考前最后一课",
+        "onboard_time": 1717646179,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 151431,
+        "num": 151431,
+        "word": "结婚离婚都是为了幸福",
+        "onboard_time": 1717635320,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132966,
+        "num": 132966,
+        "word": "一包零食减压定律",
+        "onboard_time": 1717650918,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130495,
+        "num": 130495,
+        "word": "NBA将签下760亿的转播协议",
+        "onboard_time": 1717643776,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#牢记嘱托加油干#"
+    }
+  }
+}
