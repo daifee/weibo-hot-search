@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/07 00:24:08
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/07 00:37:51
 </p>
 </blockquote>
 <p>
@@ -2037,6 +2037,12 @@ TypeC嘴（热度：614816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%9B%BE%E8%AF%B4%E6%B2%A1%E4%BA%BA%E8%83%BD%E5%8F%96%E4%BB%A3%E5%88%98%E4%BA%A6%E8%8F%B2%23" target="weibo">
+娜扎曾说没人能取代刘亦菲（热度：574890）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%AA%E7%AB%B9%E8%A6%81%E8%AF%B4%E5%86%8D%E8%A7%81%E4%BA%86%23" target="weibo">
 洪竹要说再见了（热度：574638）
 </a>
@@ -2333,12 +2339,6 @@ Citywalk后年轻人又爱上了Wildeat（热度：541510）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23" target="weibo">
 日本地震（热度：520096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%9B%BE%E8%AF%B4%E6%B2%A1%E4%BA%BA%E8%83%BD%E5%8F%96%E4%BB%A3%E5%88%98%E4%BA%A6%E8%8F%B2%23" target="weibo">
-娜扎曾说没人能取代刘亦菲（热度：519614）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717691871224,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 681038,
+        "num": 681038,
+        "word": "温州发现一例比熊猫血更稀有的恐龙血",
+        "onboard_time": 1717679239,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574890,
+        "num": 574890,
+        "word": "娜扎曾说没人能取代刘亦菲",
+        "onboard_time": 1717689017,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7173,
+        "num": 570923,
+        "word": "嫦娥六号祝福考生高中",
+        "onboard_time": 1717656857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568402,
+        "num": 568402,
+        "word": "奶奶去世后第一次在她的屋子看电视",
+        "onboard_time": 1717684279,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421240,
+        "num": 421240,
+        "word": "苏醒 以为国足在踢皇马",
+        "onboard_time": 1717685059,
+        "rank": 4,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 398885,
+        "num": 398885,
+        "word": "10岁大学生父亲称她在走弯路",
+        "onboard_time": 1717686200,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404991,
+        "num": 393991,
+        "word": "我们十个人的关系要你评价",
+        "onboard_time": 1717678279,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374063,
+        "num": 374063,
+        "word": "国足1比1泰国",
+        "onboard_time": 1717682901,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287573,
+        "num": 287573,
+        "word": "王星越 眼线哥",
+        "onboard_time": 1717686978,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33390,
+        "num": 249762,
+        "word": "女生为当兵努力减重80斤",
+        "onboard_time": 1717690038,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240950,
+        "num": 240950,
+        "word": "楚乔传2没有赵丽颖林更新",
+        "onboard_time": 1717664839,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218193,
+        "num": 218193,
+        "word": "高考前一夜你想对考生说什么",
+        "onboard_time": 1717674139,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208496,
+        "num": 208496,
+        "word": "韩国7比0新加坡",
+        "onboard_time": 1717684160,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203724,
+        "num": 203724,
+        "word": "2024祝福高考学子",
+        "onboard_time": 1717668980,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170161,
+        "num": 170161,
+        "word": "大胖媳妇爆改亚当",
+        "onboard_time": 1717677618,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172080,
+        "num": 168991,
+        "word": "赵丽颖不考虑开个演唱会吗",
+        "onboard_time": 1717681460,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166745,
+        "num": 166745,
+        "word": "种地吧",
+        "onboard_time": 1717673838,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135368,
+        "num": 135368,
+        "word": "浙江38岁教师去世用身体上最后一课",
+        "onboard_time": 1717684459,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116869,
+        "num": 116869,
+        "word": "国足vs泰国",
+        "onboard_time": 1717673778,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108769,
+        "num": 108769,
+        "word": "国足下场平韩国就能出线",
+        "onboard_time": 1717683499,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167589,
+        "num": 108513,
+        "word": "尾号6666666手机号拍卖估值160多万元",
+        "onboard_time": 1717688359,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162275,
+        "num": 106959,
+        "word": "李昊 磨洋工",
+        "onboard_time": 1717675279,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143655,
+        "num": 106220,
+        "word": "孟美岐榜字写错",
+        "onboard_time": 1717664959,
+        "rank": 22,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 136840,
+        "num": 105147,
+        "word": "年轻人过节开始走出家门进行短逃离",
+        "onboard_time": 1717689378,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118898,
+        "num": 104130,
+        "word": "6成男性防晒衣被女性买走",
+        "onboard_time": 1717684820,
+        "rank": 24,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 115013,
+        "num": 103817,
+        "word": "李昀锐下意识保护孟子义",
+        "onboard_time": 1717688537,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103031,
+        "num": 103031,
+        "word": "说唱冠军三年归来仍是素人",
+        "onboard_time": 1717684039,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101341,
+        "num": 101341,
+        "word": "辛芷蕾说看娜扎那么瘦就生气",
+        "onboard_time": 1717691116,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100653,
+        "num": 100653,
+        "word": "墨雨云间 好有张力的拉扯",
+        "onboard_time": 1717679179,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99764,
+        "num": 99764,
+        "word": "种地吧第二届感恩音乐会",
+        "onboard_time": 1717674919,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93408,
+        "num": 93408,
+        "word": "捡废品考上清华的庞众望现状",
+        "onboard_time": 1717674197,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 88743,
+        "num": 88743,
+        "word": "国足扳平泰国",
+        "onboard_time": 1717681700,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87584,
+        "num": 87584,
+        "word": "赵一博现场",
+        "onboard_time": 1717669339,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85114,
+        "num": 85114,
+        "word": "刘些宁上桌了",
+        "onboard_time": 1717686019,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80787,
+        "num": 80787,
+        "word": "徐娇五分钟两次五杀",
+        "onboard_time": 1717664239,
+        "rank": 34,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 76557,
+        "num": 80771,
+        "word": "陈哲远猪瘾犯了",
+        "onboard_time": 1717682721,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76400,
+        "num": 80749,
+        "word": "离职后把同事微信全删了",
+        "onboard_time": 1717691415,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75361,
+        "num": 80722,
+        "word": "墨雨云间张雨绮出场",
+        "onboard_time": 1717686319,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69795,
+        "num": 80712,
+        "word": "国足 点球不进",
+        "onboard_time": 1717680499,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69448,
+        "num": 80690,
+        "word": "我和专八离婚了",
+        "onboard_time": 1717665018,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72644,
+        "num": 80671,
+        "word": "肖战晒老家日常",
+        "onboard_time": 1717665139,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71377,
+        "num": 80637,
+        "word": "李玟遗作将公开",
+        "onboard_time": 1717675938,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64830,
+        "num": 80623,
+        "word": "蒋依依敖子逸一个错了一个认了",
+        "onboard_time": 1717680139,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64823,
+        "num": 80593,
+        "word": "想想JieJie会怎么做",
+        "onboard_time": 1717685419,
+        "rank": 43,
+        "category": "电竞,教育"
+      },
+      {
+        "raw_hot": 62793,
+        "num": 80586,
+        "word": "一眨眼就高考了",
+        "onboard_time": 1717689317,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 60239,
+        "num": 80554,
+        "word": "欧洲央行宣布降息25个基点",
+        "onboard_time": 1717686079,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 56920,
+        "num": 80535,
+        "word": "林一看刘亦菲的眼神",
+        "onboard_time": 1717679659,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52307,
+        "num": 80512,
+        "word": "武磊场下表情",
+        "onboard_time": 1717686799,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51937,
+        "num": 80483,
+        "word": "祖冲之保佑我",
+        "onboard_time": 1717691596,
+        "rank": 48,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 49395,
+        "num": 80470,
+        "word": "墨雨云间前夫哥 人山人海",
+        "onboard_time": 1717683261,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国肯恩大学校长#"
+    }
+  }
+}
