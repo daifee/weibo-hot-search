@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717705302243,
+  "endTime": 1717706089652,
   "band_list": [
     {
       "raw_hot": 826494,
@@ -515,7 +515,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21861,
+      "raw_hot": 23811,
       "num": 20753,
       "word": "张若昀怕不是从耳朵红到脖子了",
       "onboard_time": 1717702751,
@@ -531,20 +531,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 16402,
+      "num": 16402,
+      "word": "苦情树 糟糕的原生家庭",
+      "onboard_time": 1717704012,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16044,
       "num": 87374,
       "word": "一起为国足加油",
       "onboard_time": 1717684279,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15174,
-      "num": 15174,
-      "word": "苦情树 糟糕的原生家庭",
-      "onboard_time": 1717704012,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 14055,
@@ -561,6 +561,22 @@
       "onboard_time": 1717705271,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13509,
+      "num": 14590,
+      "word": "高考加油吧我们在军校等你",
+      "onboard_time": 1717705570,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 13448,
+      "num": 14590,
+      "word": "你最想提醒高考生的话是什么",
+      "onboard_time": 1717705631,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 11845,

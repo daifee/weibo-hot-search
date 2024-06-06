@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717705302243,
+  "endTime": 1717706089652,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -17587,6 +17587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23811,
+      "num": 20753,
+      "word": "张若昀怕不是从耳朵红到脖子了",
+      "onboard_time": 1717702751,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23282,
       "num": 24912,
       "word": "人间失格音乐剧",
@@ -17641,14 +17649,6 @@
       "onboard_time": 1717181292,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21861,
-      "num": 20753,
-      "word": "张若昀怕不是从耳朵红到脖子了",
-      "onboard_time": 1717702751,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 21846,
@@ -17819,6 +17819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16402,
+      "num": 16402,
+      "word": "苦情树 糟糕的原生家庭",
+      "onboard_time": 1717704012,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15949,
       "num": 15949,
       "word": "全世界最催眠的视频找到了",
@@ -17857,14 +17865,6 @@
       "onboard_time": 1717616170,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15174,
-      "num": 15174,
-      "word": "苦情树 糟糕的原生家庭",
-      "onboard_time": 1717704012,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 15092,
@@ -17923,12 +17923,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 13509,
+      "num": 14590,
+      "word": "高考加油吧我们在军校等你",
+      "onboard_time": 1717705570,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 13466,
       "num": 198841,
       "word": "盲人越剧演员舟山海岛公益送戏18年",
       "onboard_time": 1717385717,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13448,
+      "num": 14590,
+      "word": "你最想提醒高考生的话是什么",
+      "onboard_time": 1717705631,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 13278,
