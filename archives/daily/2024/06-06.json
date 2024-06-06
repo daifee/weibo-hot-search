@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717666488979,
+  "endTime": 1717669205484,
   "band_list": [
     {
       "raw_hot": 2049838,
@@ -51,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1601434,
+      "num": 619023,
+      "word": "于东来自曝已是胃癌前期",
+      "onboard_time": 1717665497,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1557053,
       "num": 1557053,
       "word": "今年第一批丢准考证的人已经出现了",
@@ -73,6 +81,14 @@
       "onboard_time": 1717664839,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1320483,
+      "num": 615651,
+      "word": "孟美岐榜字写错",
+      "onboard_time": 1717664959,
+      "rank": 16,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 1285089,
@@ -161,22 +177,6 @@
       "onboard_time": 1717634118,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 873912,
-      "num": 619023,
-      "word": "于东来自曝已是胃癌前期",
-      "onboard_time": 1717665497,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 858874,
-      "num": 615651,
-      "word": "孟美岐榜字写错",
-      "onboard_time": 1717664959,
-      "rank": 16,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 849458,
@@ -331,6 +331,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 648082,
+      "num": 648082,
+      "word": "我和专八离婚了",
+      "onboard_time": 1717665018,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 640505,
       "num": 640505,
       "word": "张雪峰为所有考生打一场铁花",
@@ -393,14 +401,6 @@
       "onboard_time": 1717596379,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 600223,
-      "num": 600223,
-      "word": "我和专八离婚了",
-      "onboard_time": 1717665018,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 589199,
@@ -684,11 +684,19 @@
     },
     {
       "raw_hot": 385146,
-      "num": 299361,
+      "num": 359155,
       "word": "肖战晒老家日常",
       "onboard_time": 1717665139,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378661,
+      "num": 378661,
+      "word": "王妈复更",
+      "onboard_time": 1717666999,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 356834,
@@ -753,6 +761,14 @@
       "onboard_time": 1717648879,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 304281,
+      "num": 304281,
+      "word": "亚马逊部落通网后沉迷色情",
+      "onboard_time": 1717666759,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301306,
@@ -931,6 +947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251032,
+      "num": 251032,
+      "word": "十个勤天结算画面",
+      "onboard_time": 1717668078,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250710,
       "num": 250710,
       "word": "杨幂大波浪梦回夏晚晴",
@@ -961,6 +985,14 @@
       "onboard_time": 1717632136,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 241154,
+      "num": 241154,
+      "word": "周杰伦 当年我也是歌火人不火",
+      "onboard_time": 1717665799,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 233258,
@@ -995,12 +1027,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227499,
-      "num": 227499,
-      "word": "周杰伦 当年我也是歌火人不火",
-      "onboard_time": 1717665799,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 225105,
+      "num": 251280,
+      "word": "马来西亚学生超万人弃考",
+      "onboard_time": 1717667418,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225039,
@@ -1041,6 +1073,14 @@
       "onboard_time": 1717649061,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223402,
+      "num": 223402,
+      "word": "李白去年怎么没来",
+      "onboard_time": 1717665858,
+      "rank": 48,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 221701,
@@ -1307,6 +1347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192201,
+      "num": 192201,
+      "word": "刘亦菲万茜生图",
+      "onboard_time": 1717666518,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189222,
       "num": 189222,
       "word": "成毅赴山海状态",
@@ -1395,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178806,
+      "num": 178806,
+      "word": "2024祝福高考学子",
+      "onboard_time": 1717668980,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178703,
       "num": 178703,
       "word": "戚薇 每一科都bangbang",
@@ -1449,6 +1505,14 @@
       "onboard_time": 1717664539,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169908,
+      "num": 169908,
+      "word": "福宝到邻居家串门了",
+      "onboard_time": 1717667959,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169561,
@@ -1627,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152892,
+      "num": 152892,
+      "word": "佟大为 母生单胎",
+      "onboard_time": 1717668258,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152211,
       "num": 152211,
       "word": "无畏游泳连排名都是七",
@@ -1657,6 +1729,22 @@
       "onboard_time": 1717665200,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151239,
+      "num": 151239,
+      "word": "皇马球迷涉嫌种族歧视",
+      "onboard_time": 1717667538,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151072,
+      "num": 151072,
+      "word": "麦田音乐节",
+      "onboard_time": 1717666278,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 151021,
@@ -1779,6 +1867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141585,
+      "num": 141585,
+      "word": "成毅赴山海绿衣造型",
+      "onboard_time": 1717667179,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141192,
+      "num": 141192,
+      "word": "欢迎来到我身边定档",
+      "onboard_time": 1717668980,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 140382,
       "num": 140382,
       "word": "这条高考祝福来自月球",
@@ -1849,14 +1953,6 @@
       "onboard_time": 1717655057,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134792,
-      "num": 134792,
-      "word": "麦田音乐节",
-      "onboard_time": 1717666278,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 133733,
@@ -1955,6 +2051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119601,
+      "num": 119601,
+      "word": "狗子前刹抱死后轮还在给油",
+      "onboard_time": 1717667119,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119125,
       "num": 119125,
       "word": "国足vs泰国23人名单",
@@ -1969,14 +2073,6 @@
       "onboard_time": 1717663278,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 118213,
-      "num": 118213,
-      "word": "李白去年怎么没来",
-      "onboard_time": 1717665858,
-      "rank": 48,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 117419,
@@ -2049,6 +2145,14 @@
       "onboard_time": 1717631176,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111965,
+      "num": 111965,
+      "word": "现代男性正在陷入友谊危机",
+      "onboard_time": 1717666640,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 111834,
@@ -2211,6 +2315,14 @@
       "category": "体育,教育"
     },
     {
+      "raw_hot": 90890,
+      "num": 514306,
+      "word": "淘宝将为中国公主清空购物车",
+      "onboard_time": 1717664417,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88627,
       "num": 88627,
       "word": "吴谨言眼睛",
@@ -2267,20 +2379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75342,
+      "num": 396517,
+      "word": "下班后的菜市场有多治愈",
+      "onboard_time": 1717667239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75194,
       "num": 75194,
       "word": "刘亦菲19岁时的采访",
       "onboard_time": 1717605615,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74332,
-      "num": 514306,
-      "word": "淘宝将为中国公主清空购物车",
-      "onboard_time": 1717664417,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 74302,
@@ -2313,6 +2425,14 @@
       "onboard_time": 1717648101,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 67343,
+      "num": 192647,
+      "word": "李荣浩再现高考保留节目",
+      "onboard_time": 1717668618,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67111,
@@ -2387,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56575,
+      "num": 666494,
+      "word": "中国有约",
+      "onboard_time": 1717663579,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54388,
       "num": 54388,
       "word": "张雪峰一门课卖近两万元",
@@ -2432,14 +2560,6 @@
       "word": "都江堰已持续运行2280年",
       "onboard_time": 1717599559,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46537,
-      "num": 666494,
-      "word": "中国有约",
-      "onboard_time": 1717663579,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2545,6 +2665,14 @@
       "onboard_time": 1717657518,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23967,
+      "num": 205545,
+      "word": "李云飞回应余承东用户受益才是价值",
+      "onboard_time": 1717666700,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 23816,

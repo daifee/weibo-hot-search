@@ -1,0 +1,410 @@
+{
+  "runTime": 1717669205484,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 944408,
+        "num": 944408,
+        "word": "楚乔传2没有赵丽颖林更新",
+        "onboard_time": 1717664839,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648082,
+        "num": 648082,
+        "word": "我和专八离婚了",
+        "onboard_time": 1717665018,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 56575,
+        "num": 579666,
+        "word": "中国有约",
+        "onboard_time": 1717663579,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1601434,
+        "num": 577719,
+        "word": "于东来自曝已是胃癌前期",
+        "onboard_time": 1717665497,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568146,
+        "num": 568146,
+        "word": "徐娇五分钟两次五杀",
+        "onboard_time": 1717664239,
+        "rank": 4,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 516128,
+        "num": 516128,
+        "word": "人体最先衰老的器官是什么",
+        "onboard_time": 1717653799,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 428387,
+        "num": 428387,
+        "word": "张若昀 留档期",
+        "onboard_time": 1717662678,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416078,
+        "num": 416078,
+        "word": "刘亦菲说喜欢黄亦玫的不同色彩",
+        "onboard_time": 1717665560,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219130,
+        "num": 396864,
+        "word": "连发五年年终奖突然停发合法吗",
+        "onboard_time": 1717657217,
+        "rank": 8,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 75342,
+        "num": 396517,
+        "word": "下班后的菜市场有多治愈",
+        "onboard_time": 1717667239,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814888,
+        "num": 396480,
+        "word": "2008年故意考0分考生重上考场",
+        "onboard_time": 1717651698,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 396392,
+        "num": 396392,
+        "word": "大学生全款拿下28平小公寓",
+        "onboard_time": 1717652299,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 381431,
+        "num": 381431,
+        "word": "种地吧直播 破防",
+        "onboard_time": 1717661178,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378661,
+        "num": 378661,
+        "word": "王妈复更",
+        "onboard_time": 1717666999,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 359155,
+        "num": 359155,
+        "word": "肖战晒老家日常",
+        "onboard_time": 1717665139,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358572,
+        "num": 358572,
+        "word": "孟子义已经退出华语乐坛三个月",
+        "onboard_time": 1717660638,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304281,
+        "num": 304281,
+        "word": "亚马逊部落通网后沉迷色情",
+        "onboard_time": 1717666759,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289691,
+        "num": 289691,
+        "word": "海底捞给顾客喝二手饮品",
+        "onboard_time": 1717645877,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251919,
+        "num": 251919,
+        "word": "A股下跌个股近4800只",
+        "onboard_time": 1717663699,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 225105,
+        "num": 251280,
+        "word": "马来西亚学生超万人弃考",
+        "onboard_time": 1717667418,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320483,
+        "num": 251258,
+        "word": "孟美岐榜字写错",
+        "onboard_time": 1717664959,
+        "rank": 20,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 251032,
+        "num": 251032,
+        "word": "十个勤天结算画面",
+        "onboard_time": 1717668078,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241154,
+        "num": 241154,
+        "word": "周杰伦 当年我也是歌火人不火",
+        "onboard_time": 1717665799,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223402,
+        "num": 223402,
+        "word": "李白去年怎么没来",
+        "onboard_time": 1717665858,
+        "rank": 23,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 219930,
+        "num": 219930,
+        "word": "谁拿到了张杰亲手包的糖",
+        "onboard_time": 1717663039,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 206968,
+        "num": 206968,
+        "word": "夏梦好漂亮",
+        "onboard_time": 1717662917,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23967,
+        "num": 205545,
+        "word": "李云飞回应余承东用户受益才是价值",
+        "onboard_time": 1717666700,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204327,
+        "num": 204327,
+        "word": "高考加油",
+        "onboard_time": 1717641918,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90890,
+        "num": 195703,
+        "word": "淘宝将为中国公主清空购物车",
+        "onboard_time": 1717664417,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 67343,
+        "num": 192647,
+        "word": "李荣浩再现高考保留节目",
+        "onboard_time": 1717668618,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192201,
+        "num": 192201,
+        "word": "刘亦菲万茜生图",
+        "onboard_time": 1717666518,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186637,
+        "num": 186637,
+        "word": "种地吧直播",
+        "onboard_time": 1717656258,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178806,
+        "num": 178806,
+        "word": "2024祝福高考学子",
+        "onboard_time": 1717668980,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169908,
+        "num": 169908,
+        "word": "福宝到邻居家串门了",
+        "onboard_time": 1717667959,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161340,
+        "num": 161340,
+        "word": "听到以后没有寒暑假都不笑了",
+        "onboard_time": 1717659677,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162599,
+        "num": 161278,
+        "word": "林一成功追星刘亦菲",
+        "onboard_time": 1717663938,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156238,
+        "num": 156238,
+        "word": "外交部回应印度总理莫迪涉台言论",
+        "onboard_time": 1717665919,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152892,
+        "num": 152892,
+        "word": "佟大为 母生单胎",
+        "onboard_time": 1717668258,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151239,
+        "num": 151239,
+        "word": "皇马球迷涉嫌种族歧视",
+        "onboard_time": 1717667538,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151072,
+        "num": 151072,
+        "word": "麦田音乐节",
+        "onboard_time": 1717666278,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144945,
+        "num": 144945,
+        "word": "警方通报男子将妻子伤害致死后跳楼",
+        "onboard_time": 1717653558,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 141585,
+        "num": 141585,
+        "word": "成毅赴山海绿衣造型",
+        "onboard_time": 1717667179,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141192,
+        "num": 141192,
+        "word": "欢迎来到我身边定档",
+        "onboard_time": 1717668980,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136100,
+        "num": 136100,
+        "word": "网易云音乐虚假宣传线下打卡活动",
+        "onboard_time": 1717665078,
+        "rank": 43,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 132136,
+        "num": 132136,
+        "word": "孙俪妹妹北电毕业照",
+        "onboard_time": 1717658840,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128601,
+        "num": 128601,
+        "word": "祝福高考",
+        "onboard_time": 1717635438,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123238,
+        "num": 123238,
+        "word": "TypeC嘴",
+        "onboard_time": 1717657878,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119601,
+        "num": 119601,
+        "word": "狗子前刹抱死后轮还在给油",
+        "onboard_time": 1717667119,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118613,
+        "num": 118613,
+        "word": "菲律宾4名警察涉嫌绑架外国游客被捕",
+        "onboard_time": 1717665980,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111965,
+        "num": 111965,
+        "word": "现代男性正在陷入友谊危机",
+        "onboard_time": 1717666640,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#鼓励中美两国高校加强交流合作#"
+    }
+  }
+}
