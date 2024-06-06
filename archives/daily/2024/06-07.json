@@ -1,10 +1,10 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717716176589,
+  "endTime": 1717716885192,
   "band_list": [
     {
-      "raw_hot": 2635508,
-      "num": 2635508,
+      "raw_hot": 3210271,
+      "num": 3210271,
       "word": "高考",
       "onboard_time": 1717715355,
       "rank": 0,
@@ -43,6 +43,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 568788,
+      "num": 568788,
+      "word": "1342万人今天高考",
+      "onboard_time": 1717715535,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 470308,
+      "num": 225398,
+      "word": "中方回应是否考虑恢复日本海产品进口",
+      "onboard_time": 1717698192,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 467633,
       "num": 467633,
       "word": "国足1比1泰国",
@@ -59,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 432880,
-      "num": 216029,
-      "word": "中方回应是否考虑恢复日本海产品进口",
-      "onboard_time": 1717698192,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 421074,
       "num": 421074,
       "word": "10岁大学生父亲称她在走弯路",
@@ -75,12 +83,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397055,
-      "num": 397055,
-      "word": "1342万人今天高考",
-      "onboard_time": 1717715535,
-      "rank": 3,
-      "category": "教育"
+      "raw_hot": 366693,
+      "num": 220745,
+      "word": "第二个让撒贝宁接不上话的人",
+      "onboard_time": 1717716616,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 353484,
+      "num": 353484,
+      "word": "歌手总导演回应做直播",
+      "onboard_time": 1717699152,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 334645,
@@ -89,14 +105,6 @@
       "onboard_time": 1717686978,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324716,
-      "num": 324716,
-      "word": "歌手总导演回应做直播",
-      "onboard_time": 1717699152,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 320004,
@@ -123,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262371,
+      "num": 262371,
+      "word": "高考第一天",
+      "onboard_time": 1717716136,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 262030,
+      "num": 262030,
+      "word": "今日高考一举高棕",
+      "onboard_time": 1717715535,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256226,
       "num": 256226,
       "word": "韩国7比0新加坡",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 241291,
-      "num": 95229,
+      "num": 147129,
       "word": "没想到我高考竟在自己位置上",
       "onboard_time": 1717712533,
       "rank": 27,
@@ -155,12 +179,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 225603,
-      "num": 225603,
-      "word": "今日高考一举高棕",
-      "onboard_time": 1717715535,
-      "rank": 7,
-      "category": "教育"
+      "raw_hot": 215719,
+      "num": 146760,
+      "word": "为什么端午节高速不免费",
+      "onboard_time": 1717706111,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 212601,
@@ -179,12 +203,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 203523,
-      "num": 94625,
-      "word": "为什么端午节高速不免费",
-      "onboard_time": 1717706111,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 200931,
+      "num": 145824,
+      "word": "张若昀怕不是从耳朵红到脖子了",
+      "onboard_time": 1717702751,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 197876,
@@ -192,14 +216,6 @@
       "word": "2024高考开考",
       "onboard_time": 1717715895,
       "rank": 12,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 196608,
-      "num": 196608,
-      "word": "高考第一天",
-      "onboard_time": 1717716136,
-      "rank": 13,
       "category": "教育"
     },
     {
@@ -211,8 +227,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 193225,
-      "num": 193225,
+      "raw_hot": 193676,
+      "num": 193676,
       "word": "00后女孩勇闯非洲2年攒50万",
       "onboard_time": 1717694953,
       "rank": 39,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 192876,
-      "num": 84792,
+      "num": 97910,
       "word": "离职后把同事微信全删了",
       "onboard_time": 1717691415,
       "rank": 36,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186784,
+      "num": 145354,
+      "word": "建议大家不要在床上乱蹦",
+      "onboard_time": 1717695972,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186205,
       "num": 144872,
       "word": "孟美岐榜字写错",
@@ -251,28 +275,44 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 172395,
-      "num": 93344,
-      "word": "张若昀怕不是从耳朵红到脖子了",
-      "onboard_time": 1717702751,
+      "raw_hot": 184984,
+      "num": 144676,
+      "word": "内脏缺啥脸上就会长啥",
+      "onboard_time": 1717715895,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161773,
+      "num": 144294,
+      "word": "胃病发展成胃癌的5个前兆",
+      "onboard_time": 1717714934,
       "rank": 23,
-      "category": "剧集"
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 156410,
-      "num": 91229,
-      "word": "建议大家不要在床上乱蹦",
-      "onboard_time": 1717695972,
-      "rank": 20,
-      "category": "幽默"
+      "raw_hot": 158224,
+      "num": 158224,
+      "word": "2024第1批弄丢身份证的考生出现了",
+      "onboard_time": 1717715955,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 152063,
-      "num": 152063,
+      "raw_hot": 155950,
+      "num": 155950,
       "word": "捡废品考上清华的庞众望现状",
       "onboard_time": 1717674197,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 147947,
+      "num": 147947,
+      "word": "肖战看到了自己的地广",
+      "onboard_time": 1717716074,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 145355,
@@ -291,12 +331,20 @@
       "category": "时尚,社会新闻"
     },
     {
-      "raw_hot": 141899,
-      "num": 92854,
-      "word": "胃病发展成胃癌的5个前兆",
-      "onboard_time": 1717714934,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 144092,
+      "num": 144092,
+      "word": "大二女生175斤减到94斤变化惊艳",
+      "onboard_time": 1717716376,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142599,
+      "num": 142599,
+      "word": "檀健次 替大家问过高考了",
+      "onboard_time": 1717715715,
+      "rank": 19,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 140699,
@@ -323,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129313,
+      "num": 129313,
+      "word": "说唱冠军三年归来仍是素人",
+      "onboard_time": 1717684039,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124233,
       "num": 124233,
       "word": "墨雨云间 好有张力的拉扯",
@@ -331,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119348,
-      "num": 119348,
-      "word": "说唱冠军三年归来仍是素人",
-      "onboard_time": 1717684039,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 115893,
+      "num": 115893,
+      "word": "霸道考神爱上我",
+      "onboard_time": 1717715895,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 115058,
@@ -347,12 +403,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111615,
-      "num": 91991,
-      "word": "内脏缺啥脸上就会长啥",
-      "onboard_time": 1717715895,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 106680,
+      "num": 106680,
+      "word": "IU捡了只洞洞鞋",
+      "onboard_time": 1717716074,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 102573,
@@ -411,22 +467,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 95447,
-      "num": 95447,
-      "word": "檀健次 替大家问过高考了",
-      "onboard_time": 1717715715,
-      "rank": 19,
-      "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 92988,
-      "num": 91774,
-      "word": "肖战看到了自己的地广",
-      "onboard_time": 1717716074,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89071,
       "num": 89071,
       "word": "一眨眼就高考了",
@@ -483,11 +523,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76636,
+      "num": 76636,
+      "word": "原来高铁还有低人一等座",
+      "onboard_time": 1717701730,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76393,
       "num": 76393,
       "word": "高考加油",
       "onboard_time": 1717641918,
       "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 76052,
+      "num": 76052,
+      "word": "2024高考天气预报",
+      "onboard_time": 1717716557,
+      "rank": 37,
       "category": "教育"
     },
     {
@@ -499,12 +555,12 @@
       "category": "电竞,教育"
     },
     {
-      "raw_hot": 73572,
-      "num": 73572,
-      "word": "原来高铁还有低人一等座",
-      "onboard_time": 1717701730,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 75194,
+      "num": 75194,
+      "word": "王楚钦说混双是奥运第一目标",
+      "onboard_time": 1717715535,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 73277,
@@ -563,44 +619,36 @@
       "category": "教育"
     },
     {
-      "raw_hot": 69385,
-      "num": 69385,
-      "word": "王楚钦说混双是奥运第一目标",
-      "onboard_time": 1717715535,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69046,
-      "num": 64103,
+      "num": 65108,
       "word": "李昀锐 这不是我原本实力",
       "onboard_time": 1717693274,
       "rank": 35,
       "category": "综艺"
     },
     {
-      "raw_hot": 66798,
-      "num": 66798,
-      "word": "霸道考神爱上我",
-      "onboard_time": 1717715895,
-      "rank": 40,
+      "raw_hot": 68009,
+      "num": 68009,
+      "word": "高考文案",
+      "onboard_time": 1717716315,
+      "rank": 44,
       "category": "教育"
     },
     {
-      "raw_hot": 64375,
-      "num": 64375,
+      "raw_hot": 67410,
+      "num": 67410,
       "word": "孙千露背挂脖上衣",
       "onboard_time": 1717695493,
       "rank": 31,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 63197,
-      "num": 63197,
-      "word": "IU捡了只洞洞鞋",
-      "onboard_time": 1717716074,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 64584,
+      "num": 64584,
+      "word": "英格兰欧洲杯26人名单",
+      "onboard_time": 1717716856,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 62968,
@@ -619,14 +667,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 60840,
-      "num": 60840,
-      "word": "2024第1批弄丢身份证的考生出现了",
-      "onboard_time": 1717715955,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 56286,
       "num": 81342,
       "word": "5句话送给高考的你",
@@ -635,20 +675,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 54246,
+      "num": 147678,
+      "word": "华西医生口中普普通通的高考成绩",
+      "onboard_time": 1717715535,
+      "rank": 30,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 51937,
       "num": 80483,
       "word": "祖冲之保佑我",
       "onboard_time": 1717691596,
       "rank": 48,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 38564,
-      "num": 78294,
-      "word": "华西医生口中普普通通的高考成绩",
-      "onboard_time": 1717715535,
-      "rank": 30,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 38351,
