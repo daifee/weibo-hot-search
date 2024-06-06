@@ -1,6 +1,6 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717684575985,
+  "endTime": 1717687293075,
   "band_list": [
     {
       "raw_hot": 2931096,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 807957,
+      "num": 807957,
+      "word": "夫妻辞教职在英国摆摊年挣180万",
+      "onboard_time": 1717682599,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 802742,
       "num": 802742,
       "word": "小学生在瑞金医院发现上亿年前化石",
@@ -403,6 +411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 675830,
+      "num": 675830,
+      "word": "苏醒 以为国足在踢皇马",
+      "onboard_time": 1717685059,
+      "rank": 5,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 667659,
       "num": 667659,
       "word": "布洛芬 能给卑职一个明示吗",
@@ -433,6 +449,14 @@
       "onboard_time": 1717677678,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 628039,
+      "num": 628039,
+      "word": "奶奶去世后第一次在她的屋子看电视",
+      "onboard_time": 1717684279,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 626435,
@@ -499,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 597069,
+      "num": 597069,
+      "word": "韩国7比0新加坡",
+      "onboard_time": 1717684160,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 592642,
       "num": 592642,
       "word": "胖东来回应于东来患胃癌",
@@ -553,6 +585,14 @@
       "onboard_time": 1717635438,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 570986,
+      "num": 570986,
+      "word": "赵丽颖不考虑开个演唱会吗",
+      "onboard_time": 1717681460,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 564417,
@@ -723,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 453036,
-      "num": 409334,
-      "word": "夫妻辞教职在英国摆摊年挣180万",
-      "onboard_time": 1717682599,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 449922,
       "num": 247855,
       "word": "周大福有员工称收到N+3赔偿",
@@ -795,14 +827,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 434246,
-      "num": 434246,
-      "word": "赵丽颖不考虑开个演唱会吗",
-      "onboard_time": 1717681460,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 433012,
       "num": 259614,
       "word": "亲姐姐总暗示我给外甥买东西",
@@ -827,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422594,
+      "num": 422594,
+      "word": "2024祝福高考学子",
+      "onboard_time": 1717668980,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 421622,
       "num": 421622,
       "word": "国足首发",
@@ -835,19 +867,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419430,
+      "num": 419430,
+      "word": "国足下场平韩国就能出线",
+      "onboard_time": 1717683499,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418061,
       "num": 418061,
       "word": "高考加油",
       "onboard_time": 1717641918,
       "rank": 16,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 417684,
-      "num": 417684,
-      "word": "2024祝福高考学子",
-      "onboard_time": 1717668980,
-      "rank": 32,
       "category": "教育"
     },
     {
@@ -1083,14 +1115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292660,
-      "num": 292660,
-      "word": "国足下场平韩国就能出线",
-      "onboard_time": 1717683499,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291666,
       "num": 167644,
       "word": "蒋依依 远景",
@@ -1148,7 +1172,7 @@
     },
     {
       "raw_hot": 279411,
-      "num": 203979,
+      "num": 223620,
       "word": "种地吧",
       "onboard_time": 1717673838,
       "rank": 21,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1717632136,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237642,
+      "num": 237642,
+      "word": "6成男性防晒衣被女性买走",
+      "onboard_time": 1717684820,
+      "rank": 21,
+      "category": "时尚,社会新闻"
     },
     {
       "raw_hot": 233258,
@@ -1499,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211082,
-      "num": 211082,
-      "word": "韩国7比0新加坡",
-      "onboard_time": 1717684160,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 210518,
       "num": 210518,
       "word": "黑莲花漫画吻戏",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1717650918,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200187,
+      "num": 200187,
+      "word": "说唱冠军三年归来仍是素人",
+      "onboard_time": 1717684039,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 199592,
@@ -1803,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191833,
+      "num": 191833,
+      "word": "墨雨云间张雨绮出场",
+      "onboard_time": 1717686319,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189222,
       "num": 189222,
       "word": "成毅赴山海状态",
@@ -1905,14 +1945,6 @@
       "onboard_time": 1717660758,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180078,
-      "num": 180078,
-      "word": "奶奶去世后第一次在她的屋子看电视",
-      "onboard_time": 1717684279,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 178972,
@@ -2403,20 +2435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145864,
+      "num": 145864,
+      "word": "刘些宁上桌了",
+      "onboard_time": 1717686019,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145482,
       "num": 113338,
       "word": "96版一帘幽梦女主近照",
       "onboard_time": 1717600039,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145021,
-      "num": 145021,
-      "word": "说唱冠军三年归来仍是素人",
-      "onboard_time": 1717684039,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 144991,
@@ -2433,6 +2465,14 @@
       "onboard_time": 1717642877,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144082,
+      "num": 144082,
+      "word": "10岁大学生父亲称她在走弯路",
+      "onboard_time": 1717686200,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143770,
@@ -2537,6 +2577,14 @@
       "onboard_time": 1717661900,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136975,
+      "num": 212095,
+      "word": "浙江38岁教师去世用身体上最后一课",
+      "onboard_time": 1717684459,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136920,
@@ -2659,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130210,
+      "num": 130210,
+      "word": "王星越 眼线哥",
+      "onboard_time": 1717686978,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129935,
       "num": 374770,
       "word": "周鸿祎称流量分给国产AI创业者",
@@ -2707,7 +2763,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 124024,
+      "raw_hot": 126263,
       "num": 569923,
       "word": "电影院最赚钱的是爆米花",
       "onboard_time": 1717682421,
@@ -2721,6 +2777,14 @@
       "onboard_time": 1717679119,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122569,
+      "num": 122569,
+      "word": "想想JieJie会怎么做",
+      "onboard_time": 1717685419,
+      "rank": 44,
+      "category": "电竞,教育"
     },
     {
       "raw_hot": 121970,
@@ -2859,6 +2923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111369,
+      "num": 111369,
+      "word": "欧洲央行宣布降息25个基点",
+      "onboard_time": 1717686079,
+      "rank": 46,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 108661,
       "num": 108661,
       "word": "张朝阳说家长不该强求孩子上清华北大",
@@ -2995,6 +3067,14 @@
       "category": "社会新闻,社会议题"
     },
     {
+      "raw_hot": 98543,
+      "num": 98543,
+      "word": "武磊场下表情",
+      "onboard_time": 1717686799,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98414,
       "num": 242709,
       "word": "札幌情人酒店割头案",
@@ -3049,14 +3129,6 @@
       "onboard_time": 1717664417,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 89019,
-      "num": 212095,
-      "word": "浙江38岁教师去世用身体上最后一课",
-      "onboard_time": 1717684459,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88627,
@@ -3409,6 +3481,22 @@
       "onboard_time": 1717644977,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30783,
+      "num": 508964,
+      "word": "福宝最新探班视频",
+      "onboard_time": 1717686319,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30681,
+      "num": 504194,
+      "word": "张颂文录综艺主打真实",
+      "onboard_time": 1717685719,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 30648,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717687293075,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1425463,
+        "num": 1425463,
+        "word": "温州发现一例比熊猫血更稀有的恐龙血",
+        "onboard_time": 1717679239,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1212374,
+        "num": 1212374,
+        "word": "国足1比1泰国",
+        "onboard_time": 1717682901,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11112,
+        "num": 1008272,
+        "word": "嫦娥六号祝福考生高中",
+        "onboard_time": 1717656857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807957,
+        "num": 807957,
+        "word": "夫妻辞教职在英国摆摊年挣180万",
+        "onboard_time": 1717682599,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734871,
+        "num": 734871,
+        "word": "我们十个人的关系要你评价",
+        "onboard_time": 1717678279,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 675830,
+        "num": 675830,
+        "word": "苏醒 以为国足在踢皇马",
+        "onboard_time": 1717685059,
+        "rank": 5,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 628039,
+        "num": 628039,
+        "word": "奶奶去世后第一次在她的屋子看电视",
+        "onboard_time": 1717684279,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 597069,
+        "num": 597069,
+        "word": "韩国7比0新加坡",
+        "onboard_time": 1717684160,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570986,
+        "num": 570986,
+        "word": "赵丽颖不考虑开个演唱会吗",
+        "onboard_time": 1717681460,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30783,
+        "num": 508964,
+        "word": "福宝最新探班视频",
+        "onboard_time": 1717686319,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30681,
+        "num": 504194,
+        "word": "张颂文录综艺主打真实",
+        "onboard_time": 1717685719,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501360,
+        "num": 501360,
+        "word": "大胖媳妇爆改亚当",
+        "onboard_time": 1717677618,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 422594,
+        "num": 422594,
+        "word": "2024祝福高考学子",
+        "onboard_time": 1717668980,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 419430,
+        "num": 419430,
+        "word": "国足下场平韩国就能出线",
+        "onboard_time": 1717683499,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365332,
+        "num": 365332,
+        "word": "孟美岐榜字写错",
+        "onboard_time": 1717664959,
+        "rank": 14,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 343495,
+        "num": 343495,
+        "word": "楚乔传2没有赵丽颖林更新",
+        "onboard_time": 1717664839,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304480,
+        "num": 304480,
+        "word": "墨雨云间 好有张力的拉扯",
+        "onboard_time": 1717679179,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293028,
+        "num": 293028,
+        "word": "国足vs泰国",
+        "onboard_time": 1717673778,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278831,
+        "num": 278831,
+        "word": "李昊 磨洋工",
+        "onboard_time": 1717675279,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259315,
+        "num": 259315,
+        "word": "国足扳平泰国",
+        "onboard_time": 1717681700,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240689,
+        "num": 240689,
+        "word": "高考前一夜你想对考生说什么",
+        "onboard_time": 1717674139,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237642,
+        "num": 237642,
+        "word": "6成男性防晒衣被女性买走",
+        "onboard_time": 1717684820,
+        "rank": 21,
+        "category": "时尚,社会新闻"
+      },
+      {
+        "raw_hot": 223620,
+        "num": 223620,
+        "word": "种地吧",
+        "onboard_time": 1717673838,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212092,
+        "num": 212092,
+        "word": "国足 点球不进",
+        "onboard_time": 1717680499,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200187,
+        "num": 200187,
+        "word": "说唱冠军三年归来仍是素人",
+        "onboard_time": 1717684039,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191833,
+        "num": 191833,
+        "word": "墨雨云间张雨绮出场",
+        "onboard_time": 1717686319,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176173,
+        "num": 176173,
+        "word": "高考生别看国足",
+        "onboard_time": 1717682842,
+        "rank": 26,
+        "category": "教育,体育"
+      },
+      {
+        "raw_hot": 172679,
+        "num": 172679,
+        "word": "陈哲远猪瘾犯了",
+        "onboard_time": 1717682721,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164478,
+        "num": 164478,
+        "word": "孙继海急了",
+        "onboard_time": 1717681098,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162232,
+        "num": 162232,
+        "word": "李玟遗作将公开",
+        "onboard_time": 1717675938,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150280,
+        "num": 150280,
+        "word": "墨雨云间前夫哥 人山人海",
+        "onboard_time": 1717683261,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149238,
+        "num": 149238,
+        "word": "捡废品考上清华的庞众望现状",
+        "onboard_time": 1717674197,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 145864,
+        "num": 145864,
+        "word": "刘些宁上桌了",
+        "onboard_time": 1717686019,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144671,
+        "num": 144671,
+        "word": "种地吧第二届感恩音乐会",
+        "onboard_time": 1717674919,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144082,
+        "num": 144082,
+        "word": "10岁大学生父亲称她在走弯路",
+        "onboard_time": 1717686200,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143544,
+        "num": 143544,
+        "word": "肖战晒老家日常",
+        "onboard_time": 1717665139,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136975,
+        "num": 136975,
+        "word": "浙江38岁教师去世用身体上最后一课",
+        "onboard_time": 1717684459,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135869,
+        "num": 135869,
+        "word": "蒋依依敖子逸一个错了一个认了",
+        "onboard_time": 1717680139,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134259,
+        "num": 134259,
+        "word": "我和专八离婚了",
+        "onboard_time": 1717665018,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130210,
+        "num": 130210,
+        "word": "王星越 眼线哥",
+        "onboard_time": 1717686978,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126263,
+        "num": 126263,
+        "word": "电影院最赚钱的是爆米花",
+        "onboard_time": 1717682421,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 125778,
+        "num": 125778,
+        "word": "徐娇五分钟两次五杀",
+        "onboard_time": 1717664239,
+        "rank": 41,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 125239,
+        "num": 125239,
+        "word": "SpaceX",
+        "onboard_time": 1717680738,
+        "rank": 42,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 124433,
+        "num": 124433,
+        "word": "林一看刘亦菲的眼神",
+        "onboard_time": 1717679659,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122569,
+        "num": 122569,
+        "word": "想想JieJie会怎么做",
+        "onboard_time": 1717685419,
+        "rank": 44,
+        "category": "电竞,教育"
+      },
+      {
+        "raw_hot": 120241,
+        "num": 120241,
+        "word": "十个勤天做大做强",
+        "onboard_time": 1717680979,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111369,
+        "num": 111369,
+        "word": "欧洲央行宣布降息25个基点",
+        "onboard_time": 1717686079,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 104300,
+        "num": 104300,
+        "word": "张若昀 留档期",
+        "onboard_time": 1717662678,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98543,
+        "num": 98543,
+        "word": "武磊场下表情",
+        "onboard_time": 1717686799,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97901,
+        "num": 97901,
+        "word": "国足 算分",
+        "onboard_time": 1717684400,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升国家文化软实力和中华文化影响力#"
+    }
+  }
+}
