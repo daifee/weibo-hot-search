@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717638012695,
+  "endTime": 1717641216360,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -609,6 +609,14 @@
       "onboard_time": 1717558398,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1145957,
+      "num": 1145957,
+      "word": "暴雪回归",
+      "onboard_time": 1717636638,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 1145518,
@@ -1419,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751314,
+      "num": 585642,
+      "word": "魔兽世界技术测试定档",
+      "onboard_time": 1717640417,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 751275,
       "num": 751275,
       "word": "福猪猪最新体重206斤",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1717486516,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700674,
+      "num": 700674,
+      "word": "微信体积11年膨胀575倍",
+      "onboard_time": 1717639577,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 694912,
@@ -1987,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 614655,
+      "num": 614655,
+      "word": "以军轰炸加沙一学校致至少30死",
+      "onboard_time": 1717638738,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 614545,
       "num": 446245,
       "word": "贾玲深V黑裙",
@@ -2177,6 +2209,14 @@
       "onboard_time": 1717377378,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 581339,
+      "num": 581339,
+      "word": "一人一句给高考生送祝福",
+      "onboard_time": 1717629555,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 580437,
@@ -2883,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474496,
+      "num": 246500,
+      "word": "东方甄选知识带货变喊麦带货",
+      "onboard_time": 1717635678,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 473983,
       "num": 425455,
       "word": "孙丞潇上节目不满离席",
@@ -2929,6 +2977,14 @@
       "onboard_time": 1717573218,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467655,
+      "num": 467655,
+      "word": "谢霆锋参加特步二公主婚礼",
+      "onboard_time": 1717639637,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 466227,
@@ -3251,6 +3307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 432755,
+      "num": 432755,
+      "word": "魔兽世界",
+      "onboard_time": 1717635858,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 432009,
       "num": 432009,
       "word": "吴刚说会陪陈萍萍走到终点",
@@ -3537,6 +3601,14 @@
       "onboard_time": 1717312517,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404298,
+      "num": 404298,
+      "word": "女童掉入医院开水桶遭特重度烧伤",
+      "onboard_time": 1717639937,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 403517,
@@ -4267,14 +4339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 337494,
-      "num": 337494,
-      "word": "暴雪回归",
-      "onboard_time": 1717636638,
-      "rank": 44,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 336928,
       "num": 333073,
       "word": "阿沁公开飞儿乐团创作录音",
@@ -4593,6 +4657,14 @@
       "onboard_time": 1717206497,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 315529,
+      "num": 315529,
+      "word": "吃白人饭一年的变化",
+      "onboard_time": 1717638738,
+      "rank": 21,
+      "category": "幽默,美食"
     },
     {
       "raw_hot": 315491,
@@ -5755,14 +5827,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 246500,
-      "num": 246500,
-      "word": "东方甄选知识带货变喊麦带货",
-      "onboard_time": 1717635678,
-      "rank": 25,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 246402,
       "num": 204742,
       "word": "樊振东3比1张本智和",
@@ -6347,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221701,
+      "num": 139723,
+      "word": "比亚迪高管回怼余承东",
+      "onboard_time": 1717640298,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 221679,
       "num": 194080,
       "word": "我把我的工资做成了表情包",
@@ -6625,6 +6697,14 @@
       "onboard_time": 1717472537,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210483,
+      "num": 210483,
+      "word": "李白愿诸君一举高中",
+      "onboard_time": 1717638556,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 210477,
@@ -7419,14 +7499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195085,
-      "num": 195085,
-      "word": "魔兽世界",
-      "onboard_time": 1717635858,
-      "rank": 28,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 194720,
       "num": 194720,
       "word": "WTT重庆冠军赛2024",
@@ -7545,6 +7617,14 @@
       "onboard_time": 1717252939,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192335,
+      "num": 192335,
+      "word": "教育部发布3点考前提示",
+      "onboard_time": 1717640057,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 192058,
@@ -7803,12 +7883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187155,
+      "num": 187155,
+      "word": "KPL夏日运动会",
+      "onboard_time": 1717641197,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187094,
       "num": 148576,
       "word": "迪丽热巴再跳女团舞",
       "onboard_time": 1717419499,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 186964,
+      "num": 186964,
+      "word": "白鹿说没受伤",
+      "onboard_time": 1717638077,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 186927,
@@ -7921,6 +8017,14 @@
       "onboard_time": 1717491857,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184281,
+      "num": 184281,
+      "word": "光与夜之恋西游记联动",
+      "onboard_time": 1717639398,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 184228,
@@ -8139,14 +8243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178930,
-      "num": 528581,
-      "word": "一人一句给高考生送祝福",
-      "onboard_time": 1717629555,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 178868,
       "num": 178868,
       "word": "张子枫素颜逛公园",
@@ -8339,6 +8435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175301,
+      "num": 175301,
+      "word": "刘亦菲弹钢琴20年前后对比",
+      "onboard_time": 1717638077,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175028,
       "num": 175028,
       "word": "2024LPL夏季赛",
@@ -8497,6 +8601,14 @@
       "onboard_time": 1717248738,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172792,
+      "num": 172792,
+      "word": "高考是你多少年前的回忆杀了",
+      "onboard_time": 1717640838,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 172767,
@@ -8689,6 +8801,14 @@
       "onboard_time": 1717308978,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167482,
+      "num": 167482,
+      "word": "剑网3无界预下载",
+      "onboard_time": 1717638438,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 167363,
@@ -9043,6 +9163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161046,
+      "num": 161046,
+      "word": "CHANEL艺术总监将离职",
+      "onboard_time": 1717638378,
+      "rank": 37,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 161013,
       "num": 161013,
       "word": "他朝我扔泥巴泥巴里开莲花",
@@ -9217,6 +9345,14 @@
       "onboard_time": 1717223056,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157514,
+      "num": 157514,
+      "word": "英伟达市值反超苹果",
+      "onboard_time": 1717636879,
+      "rank": 35,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 157498,
@@ -9409,6 +9545,14 @@
       "onboard_time": 1717544356,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152964,
+      "num": 152964,
+      "word": "赵昭仪模仿狂飙疯驴子",
+      "onboard_time": 1717639758,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 152902,
@@ -9763,6 +9907,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 146771,
+      "num": 146771,
+      "word": "霸刀cos",
+      "onboard_time": 1717638797,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146765,
       "num": 146765,
       "word": "孙颖莎王曼昱角逐女单冠军",
@@ -9777,6 +9929,14 @@
       "onboard_time": 1717323678,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146654,
+      "num": 146654,
+      "word": "热巴 天生爱豆圣体",
+      "onboard_time": 1717641077,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 146263,
@@ -10139,6 +10299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 139826,
+      "num": 139826,
+      "word": "姆巴佩一射两传",
+      "onboard_time": 1717640177,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139791,
       "num": 139791,
       "word": "张志磊 维尔德",
@@ -10329,14 +10497,6 @@
       "onboard_time": 1717416018,
       "rank": 14,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 136926,
-      "num": 136926,
-      "word": "英伟达市值反超苹果",
-      "onboard_time": 1717636879,
-      "rank": 35,
-      "category": "数码,财经"
     },
     {
       "raw_hot": 136920,
@@ -11803,6 +11963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 114166,
+      "num": 114166,
+      "word": "养臭水可能会涉嫌犯罪",
+      "onboard_time": 1717639517,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 114127,
       "num": 114127,
       "word": "何尊和太阳神鸟登上纪念币",
@@ -11849,6 +12017,14 @@
       "onboard_time": 1717284915,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112802,
+      "num": 112802,
+      "word": "床垫膜到底用不用撕掉",
+      "onboard_time": 1717638137,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 112748,
@@ -12161,6 +12337,14 @@
       "onboard_time": 1717421180,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108661,
+      "num": 108661,
+      "word": "张朝阳说家长不该强求孩子上清华北大",
+      "onboard_time": 1717639338,
+      "rank": 49,
+      "category": "互联网,教育"
     },
     {
       "raw_hot": 108573,
