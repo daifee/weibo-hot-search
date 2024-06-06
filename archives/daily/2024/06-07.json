@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717698292843,
+  "endTime": 1717699056104,
   "band_list": [
     {
       "raw_hot": 826494,
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156410,
+      "num": 38237,
+      "word": "建议大家不要在床上乱蹦",
+      "onboard_time": 1717695972,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145355,
       "num": 145355,
       "word": "国足vs泰国",
@@ -225,14 +233,6 @@
       "onboard_time": 1717684039,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118629,
-      "num": 38237,
-      "word": "建议大家不要在床上乱蹦",
-      "onboard_time": 1717695972,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 115058,
@@ -491,12 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18617,
-      "num": 26325,
+      "raw_hot": 31613,
+      "num": 31613,
       "word": "中方回应是否考虑恢复日本海产品进口",
       "onboard_time": 1717698192,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 19482,
+      "num": 23218,
+      "word": "这才是一次性手套该有的样子",
+      "onboard_time": 1717696572,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 16044,
