@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717683520852,
+  "endTime": 1717684575985,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -25,6 +25,14 @@
       "onboard_time": 1717244958,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2931096,
+      "num": 2931096,
+      "word": "国足1比1泰国",
+      "onboard_time": 1717682901,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2659994,
@@ -73,14 +81,6 @@
       "onboard_time": 1717208478,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2257292,
-      "num": 2257292,
-      "word": "国足1比1泰国",
-      "onboard_time": 1717682901,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2119199,
@@ -3163,6 +3163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505141,
+      "num": 505141,
+      "word": "墨雨云间 好有张力的拉扯",
+      "onboard_time": 1717679179,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503933,
       "num": 503933,
       "word": "证监会原主席易会满履新职",
@@ -3459,14 +3467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 470430,
-      "num": 470430,
-      "word": "墨雨云间 好有张力的拉扯",
-      "onboard_time": 1717679179,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 470364,
       "num": 367415,
       "word": "丁程鑫刘耀文日本路透",
@@ -3617,6 +3617,14 @@
       "onboard_time": 1717396518,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 453036,
+      "num": 409334,
+      "word": "夫妻辞教职在英国摆摊年挣180万",
+      "onboard_time": 1717682599,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451570,
@@ -3841,6 +3849,14 @@
       "onboard_time": 1717386319,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434246,
+      "num": 434246,
+      "word": "赵丽颖不考虑开个演唱会吗",
+      "onboard_time": 1717681460,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 433318,
@@ -4411,6 +4427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 386615,
+      "num": 386615,
+      "word": "高考生别看国足",
+      "onboard_time": 1717682842,
+      "rank": 19,
+      "category": "教育,体育"
+    },
+    {
       "raw_hot": 386015,
       "num": 386015,
       "word": "王俊凯工作室 多发爱看",
@@ -4545,14 +4569,6 @@
       "onboard_time": 1717489338,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 376312,
-      "num": 376312,
-      "word": "赵丽颖不考虑开个演唱会吗",
-      "onboard_time": 1717681460,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 374349,
@@ -4867,6 +4883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351005,
+      "num": 351005,
+      "word": "SpaceX星舰第4次试飞成功",
+      "onboard_time": 1717683981,
+      "rank": 17,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 350023,
       "num": 200875,
       "word": "梦中的那片海未公开剧照",
@@ -4921,6 +4945,14 @@
       "onboard_time": 1717471997,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 345477,
+      "num": 345477,
+      "word": "SpaceX",
+      "onboard_time": 1717680738,
+      "rank": 38,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 345277,
@@ -5195,14 +5227,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 325183,
-      "num": 325183,
-      "word": "SpaceX",
-      "onboard_time": 1717680738,
-      "rank": 38,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 324734,
       "num": 212894,
       "word": "李小冉下部戏还是演反派",
@@ -5289,14 +5313,6 @@
       "onboard_time": 1717247359,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 320369,
-      "num": 320369,
-      "word": "高考生别看国足",
-      "onboard_time": 1717682842,
-      "rank": 19,
-      "category": "教育,体育"
     },
     {
       "raw_hot": 319871,
@@ -5587,14 +5603,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 301996,
-      "num": 301996,
-      "word": "夫妻辞教职在英国摆摊年挣180万",
-      "onboard_time": 1717682599,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301903,
       "num": 301903,
       "word": "剑网三",
@@ -5753,6 +5761,14 @@
       "onboard_time": 1717657999,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292660,
+      "num": 292660,
+      "word": "国足下场平韩国就能出线",
+      "onboard_time": 1717683499,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 292447,
@@ -7747,6 +7763,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 211082,
+      "num": 211082,
+      "word": "韩国7比0新加坡",
+      "onboard_time": 1717684160,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210799,
       "num": 210798,
       "word": "小小年纪就有了总裁相",
@@ -7897,6 +7921,14 @@
       "onboard_time": 1717245679,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208414,
+      "num": 208414,
+      "word": "玫瑰故事",
+      "onboard_time": 1717683740,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 207859,
@@ -9547,6 +9579,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 180078,
+      "num": 180078,
+      "word": "奶奶去世后第一次在她的屋子看电视",
+      "onboard_time": 1717684279,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179865,
       "num": 179865,
       "word": "嫦娥六号在月球发了第一条微博",
@@ -9625,6 +9665,14 @@
       "onboard_time": 1717595718,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178972,
+      "num": 178972,
+      "word": "墨雨云间前夫哥 人山人海",
+      "onboard_time": 1717683261,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 178868,
@@ -9857,6 +9905,14 @@
       "onboard_time": 1717592779,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174753,
+      "num": 174753,
+      "word": "SpaceX星舰成功重返并通过大气层",
+      "onboard_time": 1717684279,
+      "rank": 35,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 174712,
@@ -10785,14 +10841,6 @@
       "onboard_time": 1717211657,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159709,
-      "num": 159709,
-      "word": "墨雨云间前夫哥 人山人海",
-      "onboard_time": 1717683261,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 159536,
@@ -11729,6 +11777,14 @@
       "onboard_time": 1717579639,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145021,
+      "num": 145021,
+      "word": "说唱冠军三年归来仍是素人",
+      "onboard_time": 1717684039,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 144991,
@@ -13243,6 +13299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124024,
+      "num": 569923,
+      "word": "电影院最赚钱的是爆米花",
+      "onboard_time": 1717682421,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 123964,
       "num": 123964,
       "word": "章昊直拍",
@@ -13379,6 +13443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121970,
+      "num": 121970,
+      "word": "国足 算分",
+      "onboard_time": 1717684400,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121865,
       "num": 121865,
       "word": "夏天常做但伤身的行为",
@@ -13449,14 +13521,6 @@
       "onboard_time": 1717244236,
       "rank": 9,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 120593,
-      "num": 120593,
-      "word": "国足下场平韩国就能出线",
-      "onboard_time": 1717683499,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 120505,
@@ -15195,6 +15259,14 @@
       "category": "社会新闻,社会议题"
     },
     {
+      "raw_hot": 89019,
+      "num": 212095,
+      "word": "浙江38岁教师去世用身体上最后一课",
+      "onboard_time": 1717684459,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88530,
       "num": 88530,
       "word": "HPV治疗隐形成本更高",
@@ -15417,14 +15489,6 @@
       "onboard_time": 1717220537,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 81149,
-      "num": 569923,
-      "word": "电影院最赚钱的是爆米花",
-      "onboard_time": 1717682421,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 80499,
@@ -15905,6 +15969,14 @@
       "onboard_time": 1717608672,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65891,
+      "num": 181872,
+      "word": "一起为国足加油",
+      "onboard_time": 1717684279,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 65360,
@@ -17081,6 +17153,14 @@
       "onboard_time": 1717554198,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29766,
+      "num": 182788,
+      "word": "刘诗诗高考祝福都在图里",
+      "onboard_time": 1717683920,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 29418,
