@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717644129075,
+  "endTime": 1717644932074,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1443235,
+      "num": 1443235,
+      "word": "女童掉入医院开水桶遭特重度烧伤",
+      "onboard_time": 1717639937,
+      "rank": 15,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1433682,
       "num": 1433682,
       "word": "谁胆敢把台湾分裂出去必将粉身碎骨",
@@ -281,14 +289,6 @@
       "onboard_time": 1717556717,
       "rank": 12,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 1378118,
-      "num": 1378118,
-      "word": "女童掉入医院开水桶遭特重度烧伤",
-      "onboard_time": 1717639937,
-      "rank": 15,
-      "category": "社会负面"
     },
     {
       "raw_hot": 1375639,
@@ -353,6 +353,14 @@
       "onboard_time": 1717403958,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1285089,
+      "num": 1285089,
+      "word": "肖战重庆暴走",
+      "onboard_time": 1717643477,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1283480,
@@ -1187,6 +1195,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 744568,
+      "num": 744568,
+      "word": "今年第一批丢准考证的人已经出现了",
+      "onboard_time": 1717642757,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 744403,
       "num": 401570,
       "word": "特朗普入驻TikTok",
@@ -1587,6 +1603,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 640505,
+      "num": 640505,
+      "word": "张雪峰为所有考生打一场铁花",
+      "onboard_time": 1717642938,
+      "rank": 6,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 639056,
       "num": 639056,
       "word": "王楚钦 脚踝",
@@ -1619,12 +1643,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 630663,
-      "num": 630663,
-      "word": "肖战重庆暴走",
-      "onboard_time": 1717643477,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 623799,
+      "num": 623799,
+      "word": "一人一句给高考生送祝福",
+      "onboard_time": 1717629555,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 621976,
@@ -1731,14 +1755,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 603765,
-      "num": 603765,
-      "word": "一人一句给高考生送祝福",
-      "onboard_time": 1717629555,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 603542,
       "num": 603542,
       "word": "周大福",
@@ -1825,14 +1841,6 @@
       "onboard_time": 1717458197,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 584984,
-      "num": 584984,
-      "word": "张雪峰为所有考生打一场铁花",
-      "onboard_time": 1717642938,
-      "rank": 6,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 582379,
@@ -2265,14 +2273,6 @@
       "onboard_time": 1717588278,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 510317,
-      "num": 510317,
-      "word": "今年第一批丢准考证的人已经出现了",
-      "onboard_time": 1717642757,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 506652,
@@ -3283,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374157,
+      "num": 374157,
+      "word": "赴山海开机",
+      "onboard_time": 1717644317,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373741,
       "num": 373741,
       "word": "于正 选角",
@@ -3387,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360116,
+      "num": 360116,
+      "word": "高考加油",
+      "onboard_time": 1717641918,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 359134,
       "num": 359134,
       "word": "宁艺卓因病缺席KWAVE舞台",
@@ -3417,14 +3433,6 @@
       "onboard_time": 1717475300,
       "rank": 18,
       "category": "网红,教育"
-    },
-    {
-      "raw_hot": 357686,
-      "num": 357686,
-      "word": "高考加油",
-      "onboard_time": 1717641918,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 356937,
@@ -3787,6 +3795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 319212,
+      "num": 319212,
+      "word": "眼睛是人体最脆弱的器官之一",
+      "onboard_time": 1717643178,
+      "rank": 24,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 318901,
       "num": 318901,
       "word": "我偏要发剑网3",
@@ -3889,6 +3905,14 @@
       "onboard_time": 1717508538,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307759,
+      "num": 307759,
+      "word": "咒术回战",
+      "onboard_time": 1717643719,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 307477,
@@ -4227,6 +4251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 284425,
+      "num": 284425,
+      "word": "鸣潮",
+      "onboard_time": 1717643536,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283346,
       "num": 283346,
       "word": "芒种",
@@ -4273,6 +4305,14 @@
       "onboard_time": 1717591878,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278932,
+      "num": 278932,
+      "word": "重庆偶遇肖战吃路边摊",
+      "onboard_time": 1717644317,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 278663,
@@ -4427,6 +4467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 270655,
+      "num": 270655,
+      "word": "教育局回应猥亵学生教师升任副校长",
+      "onboard_time": 1717643118,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269097,
       "num": 269097,
       "word": "迪丽热巴新歌DanceVideo",
@@ -4529,14 +4577,6 @@
       "onboard_time": 1717427959,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263173,
-      "num": 263173,
-      "word": "鸣潮",
-      "onboard_time": 1717643536,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 262095,
@@ -4731,20 +4771,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251302,
+      "num": 251302,
+      "word": "冰箱贴比冰箱还贵",
+      "onboard_time": 1717643958,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 250267,
       "num": 250267,
       "word": "魔卡少女樱 小樱初设形象",
       "onboard_time": 1717392139,
       "rank": 26,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 250223,
-      "num": 250223,
-      "word": "眼睛是人体最脆弱的器官之一",
-      "onboard_time": 1717643178,
-      "rank": 24,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 249162,
@@ -4801,14 +4841,6 @@
       "onboard_time": 1717374979,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245445,
-      "num": 245445,
-      "word": "教育局回应猥亵学生教师升任副校长",
-      "onboard_time": 1717643118,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244659,
@@ -6003,14 +6035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198332,
-      "num": 198332,
-      "word": "咒术回战",
-      "onboard_time": 1717643719,
-      "rank": 30,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 198245,
       "num": 198245,
       "word": "文俊辉 赤脚的人",
@@ -6129,6 +6153,14 @@
       "onboard_time": 1717245918,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 196252,
+      "num": 196252,
+      "word": "微信占了你手机多大内存",
+      "onboard_time": 1717644378,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 196215,
@@ -6459,6 +6491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188520,
+      "num": 188520,
+      "word": "张杰为考生点一首少年中国说",
+      "onboard_time": 1717643898,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188065,
       "num": 188065,
       "word": "杨蓉43岁状态",
@@ -6488,6 +6528,14 @@
       "word": "内娱有自己的全在俊",
       "onboard_time": 1717393278,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187213,
+      "num": 187213,
+      "word": "惠英红是刘亦菲一级铁粉",
+      "onboard_time": 1717644678,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -6899,14 +6947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177396,
-      "num": 177396,
-      "word": "冰箱贴比冰箱还贵",
-      "onboard_time": 1717643958,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 177317,
       "num": 177317,
       "word": "以为爸妈只给妹妹买了新玩具车",
@@ -7012,7 +7052,7 @@
     },
     {
       "raw_hot": 174242,
-      "num": 174242,
+      "num": 309473,
       "word": "高考是你多少年前的回忆杀了",
       "onboard_time": 1717640838,
       "rank": 35,
@@ -7587,6 +7627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 159499,
+      "num": 532909,
+      "word": "眼镜度数配高点好还是配低点好",
+      "onboard_time": 1717642817,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 159399,
       "num": 159399,
       "word": "河北一地现白菜房6万能买两室一厅",
@@ -7779,6 +7827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154993,
+      "num": 154993,
+      "word": "再也不敢买开口榴莲了",
+      "onboard_time": 1717644798,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 154988,
       "num": 154988,
       "word": "肖战藏海传杀青发文",
@@ -7897,6 +7953,14 @@
       "onboard_time": 1717464858,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 151352,
+      "num": 151352,
+      "word": "华为新车型实车曝光",
+      "onboard_time": 1717644619,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 151240,
@@ -8025,6 +8089,14 @@
       "onboard_time": 1717372758,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148126,
+      "num": 148126,
+      "word": "林孝埈夺冠感谢教练和队友",
+      "onboard_time": 1717644258,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 148078,
@@ -8179,6 +8251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144991,
+      "num": 144991,
+      "word": "暴雪再注册一枚魔兽世界商标",
+      "onboard_time": 1717643237,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 144918,
       "num": 144918,
       "word": "薛之谦很豹歉",
@@ -8265,6 +8345,14 @@
       "onboard_time": 1717314617,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143147,
+      "num": 143147,
+      "word": "微博电影之夜",
+      "onboard_time": 1717644798,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 142754,
@@ -8555,28 +8643,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 138008,
-      "num": 138008,
-      "word": "张杰为考生点一首少年中国说",
-      "onboard_time": 1717643898,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137686,
       "num": 137686,
       "word": "俞飞鸿曾说无法接受当众求婚",
       "onboard_time": 1717326318,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137490,
-      "num": 137490,
-      "word": "暴雪再注册一枚魔兽世界商标",
-      "onboard_time": 1717643237,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 137390,
@@ -8593,6 +8665,14 @@
       "onboard_time": 1717469958,
       "rank": 39,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 137308,
+      "num": 137308,
+      "word": "为何巫妖王之怒先回归",
+      "onboard_time": 1717644739,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 137078,
@@ -8697,6 +8777,14 @@
       "onboard_time": 1717514838,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133733,
+      "num": 133733,
+      "word": "大润发回应放弃小润发",
+      "onboard_time": 1717644558,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 133691,
@@ -10755,14 +10843,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 91922,
-      "num": 532909,
-      "word": "眼镜度数配高点好还是配低点好",
-      "onboard_time": 1717642817,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
-    },
-    {
       "raw_hot": 91643,
       "num": 91643,
       "word": "吃了多少爱情的苦才写出这歌",
@@ -11793,6 +11873,14 @@
       "onboard_time": 1717435453,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47207,
+      "num": 1338232,
+      "word": "一人一句祝福高考生",
+      "onboard_time": 1717644739,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47010,
