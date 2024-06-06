@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717702552496,
+  "endTime": 1717705302243,
   "band_list": [
     {
       "raw_hot": 826494,
@@ -499,6 +499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36014,
+      "num": 23036,
+      "word": "原来高铁还有低人一等座",
+      "onboard_time": 1717701730,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33855,
       "num": 33855,
       "word": "孙千露背挂脖上衣",
@@ -507,12 +515,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 23036,
-      "num": 23036,
-      "word": "原来高铁还有低人一等座",
-      "onboard_time": 1717701730,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 21861,
+      "num": 20753,
+      "word": "张若昀怕不是从耳朵红到脖子了",
+      "onboard_time": 1717702751,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 21229,
@@ -531,6 +539,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 15174,
+      "num": 15174,
+      "word": "苦情树 糟糕的原生家庭",
+      "onboard_time": 1717704012,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14055,
+      "num": 15171,
+      "word": "发条微博祝福高考生",
+      "onboard_time": 1717693573,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 13530,
+      "num": 15168,
+      "word": "你们尽管全力以赴后方有我们保驾护航",
+      "onboard_time": 1717705271,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 11845,
       "num": 106390,
       "word": "张雪峰寄语苏州高考学子",
@@ -545,6 +577,14 @@
       "onboard_time": 1717701011,
       "rank": 36,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 9273,
+      "num": 21299,
+      "word": "各地全力以赴护航高考",
+      "onboard_time": 1717699152,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 7523,
