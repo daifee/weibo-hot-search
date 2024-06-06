@@ -1,7 +1,15 @@
 {
   "startTime": 1717604666488,
-  "endTime": 1717655929729,
+  "endTime": 1717658334342,
   "band_list": [
+    {
+      "raw_hot": 2049838,
+      "num": 2049838,
+      "word": "2008年故意考0分考生重上考场",
+      "onboard_time": 1717651698,
+      "rank": 4,
+      "category": "教育"
+    },
     {
       "raw_hot": 1932046,
       "num": 1932046,
@@ -19,8 +27,16 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 1717597,
-      "num": 1717597,
+      "raw_hot": 1822877,
+      "num": 1822877,
+      "word": "人体最先衰老的器官是什么",
+      "onboard_time": 1717653799,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1777360,
+      "num": 1777360,
       "word": "大学生全款拿下28平小公寓",
       "onboard_time": 1717652299,
       "rank": 1,
@@ -49,14 +65,6 @@
       "onboard_time": 1717639937,
       "rank": 15,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1414530,
-      "num": 1414530,
-      "word": "2008年故意考0分考生重上考场",
-      "onboard_time": 1717651698,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1285089,
@@ -131,28 +139,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 944279,
-      "num": 944279,
-      "word": "大润发放弃小润发",
-      "onboard_time": 1717634118,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 910736,
-      "num": 910736,
+      "raw_hot": 950016,
+      "num": 950016,
       "word": "警方通报男子将妻子伤害致死后跳楼",
       "onboard_time": 1717653558,
       "rank": 11,
       "category": "社会负面"
     },
     {
-      "raw_hot": 897638,
-      "num": 897638,
-      "word": "人体最先衰老的器官是什么",
-      "onboard_time": 1717653799,
-      "rank": 13,
-      "category": "健康医疗"
+      "raw_hot": 944279,
+      "num": 944279,
+      "word": "大润发放弃小润发",
+      "onboard_time": 1717634118,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 849458,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 784705,
+      "num": 784705,
+      "word": "种地吧直播",
+      "onboard_time": 1717656258,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 755498,
       "num": 755498,
       "word": "周杰伦 这里是不是冠军不能参加吗",
@@ -193,6 +201,14 @@
       "onboard_time": 1717640417,
       "rank": 10,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 748702,
+      "num": 748702,
+      "word": "孙楠pk揭榜歌手在线投票",
+      "onboard_time": 1717656017,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 743278,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 538646,
+      "num": 538646,
+      "word": "周杰伦不敢参加周杰伦接歌大赛",
+      "onboard_time": 1717652539,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523360,
       "num": 523360,
       "word": "吃白人饭一年的变化",
@@ -353,6 +377,14 @@
       "onboard_time": 1717634479,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 503933,
+      "num": 503933,
+      "word": "证监会原主席易会满履新职",
+      "onboard_time": 1717656078,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 496531,
@@ -371,12 +403,12 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 482988,
-      "num": 482988,
-      "word": "周杰伦不敢参加周杰伦接歌大赛",
-      "onboard_time": 1717652539,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 482496,
+      "num": 482496,
+      "word": "吴谨言演过老炮儿",
+      "onboard_time": 1717655718,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 482116,
@@ -587,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 297265,
+      "num": 297265,
+      "word": "刘若英否认袒护亲姐姐",
+      "onboard_time": 1717655599,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295212,
       "num": 193740,
       "word": "建议最近不要轻易离职",
@@ -641,6 +681,14 @@
       "onboard_time": 1717647079,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283104,
+      "num": 283104,
+      "word": "付辛博颖儿车窗吻",
+      "onboard_time": 1717657278,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 278932,
@@ -771,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224662,
+      "num": 224662,
+      "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
+      "onboard_time": 1717657999,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224456,
       "num": 224456,
       "word": "微博电影之夜阵容",
@@ -793,6 +849,14 @@
       "onboard_time": 1717640298,
       "rank": 43,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 221406,
+      "num": 221406,
+      "word": "TypeC嘴",
+      "onboard_time": 1717657878,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 219756,
@@ -819,12 +883,28 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 210518,
+      "num": 210518,
+      "word": "黑莲花漫画吻戏",
+      "onboard_time": 1717657099,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 210483,
       "num": 210483,
       "word": "李白愿诸君一举高中",
       "onboard_time": 1717638556,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210348,
+      "num": 210348,
+      "word": "肖战藏海背后的画",
+      "onboard_time": 1717658118,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 209849,
@@ -913,6 +993,14 @@
       "onboard_time": 1717583418,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 198959,
+      "num": 198959,
+      "word": "刘亦菲古装挑染",
+      "onboard_time": 1717657398,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 198189,
@@ -1075,14 +1163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 177011,
-      "num": 177011,
-      "word": "刘若英否认袒护亲姐姐",
-      "onboard_time": 1717655599,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175778,
       "num": 175778,
       "word": "闪耀暖暖",
@@ -1107,14 +1187,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 171356,
-      "num": 171356,
-      "word": "吴谨言演过老炮儿",
-      "onboard_time": 1717655718,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 169561,
       "num": 169561,
       "word": "印度总理莫迪提交辞呈",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1717650139,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167103,
+      "num": 167103,
+      "word": "刘亦菲杨幂早期互相撑伞照",
+      "onboard_time": 1717658118,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 165416,
@@ -1419,6 +1499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 135159,
+      "num": 135159,
+      "word": "赵丽颖祝大家高考顺利",
+      "onboard_time": 1717656017,
+      "rank": 43,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 135158,
       "num": 135158,
       "word": "墨雨云间好神金的特效",
@@ -1459,12 +1547,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130655,
+      "num": 130655,
+      "word": "子弟兵教你洗护小技巧",
+      "onboard_time": 1717658056,
+      "rank": 44,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 130524,
       "num": 130524,
       "word": "原来眼睛也需要防晒",
       "onboard_time": 1717636699,
       "rank": 49,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 129814,
+      "num": 129814,
+      "word": "嫦娥六号祝福考生高中",
+      "onboard_time": 1717656857,
+      "rank": 45,
+      "category": "科学科普,教育"
     },
     {
       "raw_hot": 128011,
@@ -1715,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84397,
+      "num": 633078,
+      "word": "连发五年年终奖突然停发合法吗",
+      "onboard_time": 1717657217,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
+    },
+    {
       "raw_hot": 84207,
       "num": 84207,
       "word": "孟子义现在终于可以选剧本了",
@@ -1900,7 +2012,7 @@
     },
     {
       "raw_hot": 43443,
-      "num": 198851,
+      "num": 520338,
       "word": "赵长江早高峰亲测腾势城市领航",
       "onboard_time": 1717655238,
       "rank": 26,
@@ -1939,8 +2051,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 30717,
-      "num": 1246963,
+      "raw_hot": 31781,
+      "num": 1799417,
       "word": "文化中国行感受生态智慧",
       "onboard_time": 1717644977,
       "rank": 2,
@@ -1953,6 +2065,14 @@
       "onboard_time": 1717619230,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 29729,
+      "num": 253835,
+      "word": "300元拿下家庭健身房",
+      "onboard_time": 1717657338,
+      "rank": 24,
+      "category": "运动健身"
     },
     {
       "raw_hot": 26722,
@@ -2041,6 +2161,14 @@
       "onboard_time": 1717559118,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15475,
+      "num": 201035,
+      "word": "小鬼对毛不易连环问",
+      "onboard_time": 1717657518,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 15187,
