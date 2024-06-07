@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717766562108,
+  "endTime": 1717767257202,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1307,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 4410973,
+      "num": 4410973,
+      "word": "张钰琪 牛",
+      "onboard_time": 1717765583,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4385432,
       "num": 3688012,
       "word": "聊天记录PDF 吃瓜传播逻辑",
@@ -1683,14 +1691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 3719144,
-      "num": 3719144,
-      "word": "张钰琪 牛",
-      "onboard_time": 1717765583,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3675775,
       "num": 3675775,
       "word": "河北邯郸初中生杀人事件独家调查",
@@ -1929,6 +1929,14 @@
       "onboard_time": 1704437310,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 3424903,
+      "num": 3424903,
+      "word": "那英 天后回归",
+      "onboard_time": 1717766962,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 3421549,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707637773,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 3126498,
-      "num": 3126498,
-      "word": "燕郊爆炸已致2死26伤",
-      "onboard_time": 1710308552,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

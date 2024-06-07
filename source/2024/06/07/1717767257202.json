@@ -1,0 +1,410 @@
+{
+  "runTime": 1717767257202,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4410973,
+        "num": 4410973,
+        "word": "张钰琪 牛",
+        "onboard_time": 1717765583,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3424903,
+        "num": 3424903,
+        "word": "那英 天后回归",
+        "onboard_time": 1717766962,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30903,
+        "num": 2740585,
+        "word": "一起来读刻在石头上的史书",
+        "onboard_time": 1717751721,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2279447,
+        "num": 2279447,
+        "word": "高考数学",
+        "onboard_time": 1717749858,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 964846,
+        "num": 964846,
+        "word": "韦神 是不是你出的题",
+        "onboard_time": 1717758438,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 759766,
+        "num": 759766,
+        "word": "李晋晔 东方树叶",
+        "onboard_time": 1717761560,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2835817,
+        "num": 699832,
+        "word": "汪峰指导那英",
+        "onboard_time": 1717766363,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311999,
+        "num": 311999,
+        "word": "第五人格",
+        "onboard_time": 1717764798,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307141,
+        "num": 307141,
+        "word": "老师的985车牌快被摸秃噜皮了",
+        "onboard_time": 1717759697,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24141,
+        "num": 305408,
+        "word": "校长亲自为考生打高考免费餐",
+        "onboard_time": 1717766060,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2639335,
+        "num": 301797,
+        "word": "歌手直播",
+        "onboard_time": 1717761497,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1973538,
+        "num": 297160,
+        "word": "汪苏泷 舒适圈",
+        "onboard_time": 1717763180,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1499480,
+        "num": 294587,
+        "word": "张钰琪声音有点闷",
+        "onboard_time": 1717765759,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1295682,
+        "num": 291925,
+        "word": "我比张钰琪还紧张",
+        "onboard_time": 1717765521,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357017,
+        "num": 286707,
+        "word": "Langx爆料Cube已离队",
+        "onboard_time": 1717763059,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1252276,
+        "num": 284227,
+        "word": "那英今晚唱汪峰的歌",
+        "onboard_time": 1717765759,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281104,
+        "num": 281104,
+        "word": "高考数学难不难",
+        "onboard_time": 1717751481,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266479,
+        "num": 266479,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 264657,
+        "num": 264657,
+        "word": "数学 一生之敌",
+        "onboard_time": 1717752801,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 242620,
+        "num": 242620,
+        "word": "新一卷数学 大题难",
+        "onboard_time": 1717752622,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1219764,
+        "num": 240135,
+        "word": "何炅缺席",
+        "onboard_time": 1717762579,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1205923,
+        "num": 232031,
+        "word": "张钰琪PK黄宣",
+        "onboard_time": 1717764798,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493987,
+        "num": 228346,
+        "word": "北大物理保送生考了唯一一门语文",
+        "onboard_time": 1717764139,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 430995,
+        "num": 223238,
+        "word": "一对日本母女在渡轮遭遇神隐",
+        "onboard_time": 1717750519,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218993,
+        "num": 218993,
+        "word": "数学数学 我要diss你",
+        "onboard_time": 1717755619,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1081268,
+        "num": 217570,
+        "word": "张钰琪揭榜成功",
+        "onboard_time": 1717766120,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1106768,
+        "num": 213286,
+        "word": "黄宣救场",
+        "onboard_time": 1717764080,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 931091,
+        "num": 208986,
+        "word": "玄彬孙艺珍出售婚房",
+        "onboard_time": 1717760358,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708482,
+        "num": 205344,
+        "word": "王一博要求黑粉公开道歉",
+        "onboard_time": 1717759458,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172553,
+        "num": 203240,
+        "word": "福宝马上要搬新家了",
+        "onboard_time": 1717763718,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583157,
+        "num": 198955,
+        "word": "TFBOYS十周年蛋糕塌的三四层",
+        "onboard_time": 1717764860,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 573515,
+        "num": 194744,
+        "word": "凡希亚好松弛",
+        "onboard_time": 1717765282,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 523137,
+        "num": 193480,
+        "word": "黄宣汪苏泷主持",
+        "onboard_time": 1717762819,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189983,
+        "num": 189983,
+        "word": "非农",
+        "onboard_time": 1717766903,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172847,
+        "num": 172847,
+        "word": "董宇辉称爸妈长期被骚扰",
+        "onboard_time": 1717755739,
+        "rank": 34,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 420931,
+        "num": 170416,
+        "word": "尚雯婕没去歌手去618了",
+        "onboard_time": 1717759819,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157480,
+        "num": 157480,
+        "word": "高考数学主打一个参与",
+        "onboard_time": 1717763840,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387986,
+        "num": 156753,
+        "word": "汪苏泷好听",
+        "onboard_time": 1717765400,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25523,
+        "num": 152446,
+        "word": "极越SIMO押中高考作文",
+        "onboard_time": 1717765642,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151472,
+        "num": 151472,
+        "word": "四川阿坝4.2级地震",
+        "onboard_time": 1717766485,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289177,
+        "num": 151278,
+        "word": "歌手门仓有希去世",
+        "onboard_time": 1717747519,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272443,
+        "num": 149933,
+        "word": "首尔偶遇赵露思逛街",
+        "onboard_time": 1717763780,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267763,
+        "num": 147989,
+        "word": "长公主服从性测试",
+        "onboard_time": 1717764440,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232334,
+        "num": 146072,
+        "word": "恋爱兄妹",
+        "onboard_time": 1717759458,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206589,
+        "num": 144811,
+        "word": "墨雨云间疯子还得疯子磨",
+        "onboard_time": 1717757058,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144599,
+        "num": 144599,
+        "word": "四川一考场现2米23真高考生",
+        "onboard_time": 1717762098,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199662,
+        "num": 142529,
+        "word": "墨雨云间全员催更",
+        "onboard_time": 1717764380,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137985,
+        "num": 137985,
+        "word": "游隼其实没有生气噢",
+        "onboard_time": 1717766182,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124708,
+        "num": 124708,
+        "word": "一人一句月的独白",
+        "onboard_time": 1717766842,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 111368,
+        "num": 111368,
+        "word": "18斤榴莲复秤仅8斤",
+        "onboard_time": 1717752622,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平挂念这里的雨#"
+    }
+  }
+}

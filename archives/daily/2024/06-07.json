@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717766562108,
+  "endTime": 1717767257202,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -27,6 +27,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4410973,
+      "num": 4410973,
+      "word": "张钰琪 牛",
+      "onboard_time": 1717765583,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4266659,
       "num": 4266659,
       "word": "高考数学难不难",
@@ -41,14 +49,6 @@
       "onboard_time": 1717733304,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3719144,
-      "num": 3719144,
-      "word": "张钰琪 牛",
-      "onboard_time": 1717765583,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 3615038,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 3424903,
+      "num": 3424903,
+      "word": "那英 天后回归",
+      "onboard_time": 1717766962,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3412141,
       "num": 3412141,
       "word": "高考作文 人工智能",
@@ -81,6 +89,14 @@
       "onboard_time": 1717729999,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2835817,
+      "num": 699832,
+      "word": "汪峰指导那英",
+      "onboard_time": 1717766363,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2380252,
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1861750,
-      "num": 346218,
-      "word": "汪峰指导那英",
-      "onboard_time": 1717766363,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1719375,
       "num": 1719375,
       "word": "韦神 是不是你出的题",
@@ -163,6 +171,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1499480,
+      "num": 1459124,
+      "word": "张钰琪声音有点闷",
+      "onboard_time": 1717765759,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1492996,
       "num": 345749,
       "word": "张钰琪PK黄宣",
@@ -177,14 +193,6 @@
       "onboard_time": 1717737500,
       "rank": 46,
       "category": "社会负面,汽车"
-    },
-    {
-      "raw_hot": 1459124,
-      "num": 1459124,
-      "word": "张钰琪声音有点闷",
-      "onboard_time": 1717765759,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1416945,
@@ -209,6 +217,14 @@
       "onboard_time": 1717732703,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1252276,
+      "num": 284227,
+      "word": "那英今晚唱汪峰的歌",
+      "onboard_time": 1717765759,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1251456,
@@ -291,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1081268,
+      "num": 217570,
+      "word": "张钰琪揭榜成功",
+      "onboard_time": 1717766120,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1067327,
       "num": 1067327,
       "word": "22届考生破防",
@@ -313,14 +337,6 @@
       "onboard_time": 1717715955,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 890910,
-      "num": 204438,
-      "word": "张钰琪揭榜成功",
-      "onboard_time": 1717766120,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 884612,
@@ -411,6 +427,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 708482,
+      "num": 391829,
+      "word": "王一博要求黑粉公开道歉",
+      "onboard_time": 1717759458,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701588,
       "num": 701588,
       "word": "小牛说车账号被封",
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 699593,
-      "num": 190463,
+      "num": 194744,
       "word": "凡希亚好松弛",
       "onboard_time": 1717765282,
       "rank": 24,
@@ -483,14 +507,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 633346,
-      "num": 391829,
-      "word": "王一博要求黑粉公开道歉",
-      "onboard_time": 1717759458,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 615302,
       "num": 413328,
       "word": "数学 一生之敌",
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 593133,
-      "num": 158204,
+      "num": 198955,
       "word": "TFBOYS十周年蛋糕塌的三四层",
       "onboard_time": 1717764860,
       "rank": 30,
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 522661,
-      "num": 178436,
+      "num": 228346,
       "word": "北大物理保送生考了唯一一门语文",
       "onboard_time": 1717764139,
       "rank": 26,
@@ -636,7 +652,7 @@
     },
     {
       "raw_hot": 511839,
-      "num": 155921,
+      "num": 156753,
       "word": "汪苏泷好听",
       "onboard_time": 1717765400,
       "rank": 31,
@@ -843,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420931,
+      "num": 205594,
+      "word": "尚雯婕没去歌手去618了",
+      "onboard_time": 1717759819,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 419080,
       "num": 405122,
       "word": "法国总统宣布将向乌克兰提供战斗机",
@@ -856,14 +880,6 @@
       "word": "孙楠后台安慰汪苏泷",
       "onboard_time": 1717761078,
       "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 417003,
-      "num": 154544,
-      "word": "那英今晚唱汪峰的歌",
-      "onboard_time": 1717765759,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -1011,6 +1027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357017,
+      "num": 345163,
+      "word": "Langx爆料Cube已离队",
+      "onboard_time": 1717763059,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 356715,
       "num": 187994,
       "word": "歌手门仓有希去世",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1717759697,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 345163,
-      "num": 345163,
-      "word": "Langx爆料Cube已离队",
-      "onboard_time": 1717763059,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 336062,
@@ -1699,14 +1715,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205594,
-      "num": 205594,
-      "word": "尚雯婕没去歌手去618了",
-      "onboard_time": 1717759819,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202089,
       "num": 202089,
       "word": "手机AI写高考作文哪家强",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1717733423,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 189983,
+      "num": 189983,
+      "word": "非农",
+      "onboard_time": 1717766903,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 189761,
@@ -1979,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172553,
+      "num": 203240,
+      "word": "福宝马上要搬新家了",
+      "onboard_time": 1717763718,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172436,
       "num": 172436,
       "word": "被民警抬进考场是什么体验",
@@ -2139,14 +2163,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159662,
-      "num": 177340,
-      "word": "福宝马上要搬新家了",
-      "onboard_time": 1717763718,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159449,
       "num": 159449,
       "word": "浪姐四公",
@@ -2289,6 +2305,14 @@
       "onboard_time": 1717721779,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 151472,
+      "num": 151472,
+      "word": "四川阿坝4.2级地震",
+      "onboard_time": 1717766485,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150069,
@@ -2595,20 +2619,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 126401,
-      "num": 126400,
-      "word": "四川阿坝4.2级地震",
-      "onboard_time": 1717766485,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125512,
       "num": 125512,
       "word": "高考忘带准考证有解了",
       "onboard_time": 1717730360,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 124708,
+      "num": 124708,
+      "word": "一人一句月的独白",
+      "onboard_time": 1717766842,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 124333,
@@ -3147,6 +3171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 30903,
+      "num": 2740585,
+      "word": "一起来读刻在石头上的史书",
+      "onboard_time": 1717751721,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29294,
       "num": 253876,
       "word": "白鹿清新赴约",
@@ -3171,6 +3203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 25523,
+      "num": 152446,
+      "word": "极越SIMO押中高考作文",
+      "onboard_time": 1717765642,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24805,
       "num": 31350,
       "word": "高考加油图片",
@@ -3187,19 +3227,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24141,
+      "num": 348226,
+      "word": "校长亲自为考生打高考免费餐",
+      "onboard_time": 1717766060,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 21823,
       "num": 529150,
       "word": "90后小伙一笔一画展汉字之美",
       "onboard_time": 1717755557,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19911,
-      "num": 1949222,
-      "word": "一起来读刻在石头上的史书",
-      "onboard_time": 1717751721,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -3219,28 +3259,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 18052,
-      "num": 128507,
-      "word": "极越SIMO押中高考作文",
-      "onboard_time": 1717765642,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16044,
       "num": 87374,
       "word": "一起为国足加油",
       "onboard_time": 1717684279,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14649,
-      "num": 348226,
-      "word": "校长亲自为考生打高考免费餐",
-      "onboard_time": 1717766060,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 13869,

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717766562108,
+  "endTime": 1717767257202,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -35,6 +35,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 4410973,
+      "num": 4410973,
+      "word": "张钰琪 牛",
+      "onboard_time": 1717765583,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 4295015,
       "num": 4295015,
       "word": "韩国市长请求中国赠送一对大熊猫",
@@ -67,14 +75,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 3719144,
-      "num": 3719144,
-      "word": "张钰琪 牛",
-      "onboard_time": 1717765583,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 3615038,
       "num": 3337719,
       "word": "歌手直播",
@@ -88,6 +88,14 @@
       "word": "汪苏泷 舒适圈",
       "onboard_time": 1717763180,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3424903,
+      "num": 3424903,
+      "word": "那英 天后回归",
+      "onboard_time": 1717766962,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -113,6 +121,14 @@
       "onboard_time": 1717682901,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2835817,
+      "num": 699832,
+      "word": "汪峰指导那英",
+      "onboard_time": 1717766363,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 2659994,
@@ -289,14 +305,6 @@
       "onboard_time": 1717422559,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1861750,
-      "num": 346218,
-      "word": "汪峰指导那英",
-      "onboard_time": 1717766363,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1838639,
@@ -547,6 +555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1499480,
+      "num": 1459124,
+      "word": "张钰琪声音有点闷",
+      "onboard_time": 1717765759,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1492996,
       "num": 345749,
       "word": "张钰琪PK黄宣",
@@ -599,14 +615,6 @@
       "num": 1464629,
       "word": "我们十个人的关系要你评价",
       "onboard_time": 1717678279,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1459124,
-      "num": 1459124,
-      "word": "张钰琪声音有点闷",
-      "onboard_time": 1717765759,
       "rank": 4,
       "category": "综艺"
     },
@@ -841,6 +849,14 @@
       "onboard_time": 1717464559,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1252276,
+      "num": 284227,
+      "word": "那英今晚唱汪峰的歌",
+      "onboard_time": 1717765759,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 1251456,
@@ -1195,6 +1211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1081268,
+      "num": 217570,
+      "word": "张钰琪揭榜成功",
+      "onboard_time": 1717766120,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1079559,
       "num": 1079559,
       "word": "董明珠称打工人想要休闲可以辞职",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1717570937,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 890910,
-      "num": 204438,
-      "word": "张钰琪揭榜成功",
-      "onboard_time": 1717766120,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 886775,
@@ -2323,6 +2339,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 708482,
+      "num": 391829,
+      "word": "王一博要求黑粉公开道歉",
+      "onboard_time": 1717759458,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 701588,
       "num": 701588,
       "word": "小牛说车账号被封",
@@ -2340,7 +2364,7 @@
     },
     {
       "raw_hot": 699593,
-      "num": 190463,
+      "num": 194744,
       "word": "凡希亚好松弛",
       "onboard_time": 1717765282,
       "rank": 24,
@@ -2787,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 633346,
-      "num": 391829,
-      "word": "王一博要求黑粉公开道歉",
-      "onboard_time": 1717759458,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 626963,
       "num": 626963,
       "word": "提涨薪1000元都被拒该不该走",
@@ -3060,7 +3076,7 @@
     },
     {
       "raw_hot": 593133,
-      "num": 158204,
+      "num": 198955,
       "word": "TFBOYS十周年蛋糕塌的三四层",
       "onboard_time": 1717764860,
       "rank": 30,
@@ -3644,7 +3660,7 @@
     },
     {
       "raw_hot": 522661,
-      "num": 178436,
+      "num": 228346,
       "word": "北大物理保送生考了唯一一门语文",
       "onboard_time": 1717764139,
       "rank": 26,
@@ -3804,7 +3820,7 @@
     },
     {
       "raw_hot": 511839,
-      "num": 155921,
+      "num": 156753,
       "word": "汪苏泷好听",
       "onboard_time": 1717765400,
       "rank": 31,
@@ -4819,6 +4835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420931,
+      "num": 205594,
+      "word": "尚雯婕没去歌手去618了",
+      "onboard_time": 1717759819,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 420592,
       "num": 420592,
       "word": "Uzi直播红温",
@@ -4905,14 +4929,6 @@
       "onboard_time": 1717168041,
       "rank": 15,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 417003,
-      "num": 154544,
-      "word": "那英今晚唱汪峰的歌",
-      "onboard_time": 1717765759,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 416686,
@@ -5787,6 +5803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 357017,
+      "num": 345163,
+      "word": "Langx爆料Cube已离队",
+      "onboard_time": 1717763059,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 356834,
       "num": 356834,
       "word": "57岁梁实第28次高考目标仍是川大",
@@ -6017,14 +6041,6 @@
       "onboard_time": 1717207157,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345163,
-      "num": 345163,
-      "word": "Langx爆料Cube已离队",
-      "onboard_time": 1717763059,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 345096,
@@ -9691,14 +9707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205594,
-      "num": 205594,
-      "word": "尚雯婕没去歌手去618了",
-      "onboard_time": 1717759819,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205545,
       "num": 205545,
       "word": "刘亦菲玫瑰的故事怼脸海报",
@@ -10825,6 +10833,14 @@
       "onboard_time": 1717399878,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189983,
+      "num": 189983,
+      "word": "非农",
+      "onboard_time": 1717766903,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 189860,
@@ -11963,6 +11979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172553,
+      "num": 203240,
+      "word": "福宝马上要搬新家了",
+      "onboard_time": 1717763718,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172484,
       "num": 160058,
       "word": "刘晓庆不知道李维嘉有洁癖",
@@ -12851,14 +12875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159662,
-      "num": 177340,
-      "word": "福宝马上要搬新家了",
-      "onboard_time": 1717763718,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159536,
       "num": 159536,
       "word": "一心堂门店比肯德基还多",
@@ -13465,6 +13481,14 @@
       "onboard_time": 1717203196,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151472,
+      "num": 151472,
+      "word": "四川阿坝4.2级地震",
+      "onboard_time": 1717766485,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151352,
@@ -15539,14 +15563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126401,
-      "num": 126400,
-      "word": "四川阿坝4.2级地震",
-      "onboard_time": 1717766485,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 126368,
       "num": 126368,
       "word": "张雪峰高考前直播 4条建议",
@@ -15665,6 +15681,14 @@
       "onboard_time": 1717384638,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124708,
+      "num": 124708,
+      "word": "一人一句月的独白",
+      "onboard_time": 1717766842,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 124665,
@@ -19915,6 +19939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30903,
+      "num": 2740585,
+      "word": "一起来读刻在石头上的史书",
+      "onboard_time": 1717751721,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30889,
       "num": 264218,
       "word": "程潇教你早C晚A新招数",
@@ -20099,6 +20131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 25523,
+      "num": 152446,
+      "word": "极越SIMO押中高考作文",
+      "onboard_time": 1717765642,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25309,
       "num": 332329,
       "word": "揭开童年父母经典骗术的真相",
@@ -20145,6 +20185,14 @@
       "onboard_time": 1717583476,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24141,
+      "num": 348226,
+      "word": "校长亲自为考生打高考免费餐",
+      "onboard_time": 1717766060,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 24078,
@@ -20299,14 +20347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19911,
-      "num": 1949222,
-      "word": "一起来读刻在石头上的史书",
-      "onboard_time": 1717751721,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19608,
       "num": 231388,
       "word": "大熊猫反手从背后采了1根笋笋",
@@ -20361,14 +20401,6 @@
       "onboard_time": 1717746078,
       "rank": 19,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 18052,
-      "num": 128507,
-      "word": "极越SIMO押中高考作文",
-      "onboard_time": 1717765642,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17308,
@@ -20473,14 +20505,6 @@
       "onboard_time": 1717521672,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14649,
-      "num": 348226,
-      "word": "校长亲自为考生打高考免费餐",
-      "onboard_time": 1717766060,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 14613,
