@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717748642404,
+  "endTime": 1717749415090,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -59,8 +59,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1964959,
-      "num": 1964959,
+      "raw_hot": 1976283,
+      "num": 1976283,
       "word": "李晋晔 被换",
       "onboard_time": 1717745478,
       "rank": 24,
@@ -123,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1173018,
+      "num": 1173018,
+      "word": "警号985211的民警手被拍红了",
+      "onboard_time": 1717744519,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1142125,
       "num": 1142125,
       "word": "微信回应登上高考作文",
@@ -145,14 +153,6 @@
       "onboard_time": 1717734323,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1048658,
-      "num": 1048658,
-      "word": "警号985211的民警手被拍红了",
-      "onboard_time": 1717744519,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1017215,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 815887,
-      "num": 442549,
+      "num": 444310,
       "word": "上海交大李星玮",
       "onboard_time": 1717740739,
       "rank": 26,
@@ -235,20 +235,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 701588,
+      "num": 701588,
+      "word": "小牛说车账号被封",
+      "onboard_time": 1717746499,
+      "rank": 7,
+      "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 699749,
+      "num": 699749,
+      "word": "吴谨言提早三个月进组跟郝蕾学表演",
+      "onboard_time": 1717743738,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 696144,
       "num": 696144,
       "word": "17岁女孩酷似87版林黛玉",
       "onboard_time": 1717728617,
       "rank": 5,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 688810,
-      "num": 688810,
-      "word": "吴谨言提早三个月进组跟郝蕾学表演",
-      "onboard_time": 1717743738,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 687221,
@@ -331,14 +339,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 558585,
-      "num": 558585,
-      "word": "小牛说车账号被封",
-      "onboard_time": 1717746499,
-      "rank": 7,
-      "category": "汽车,网红"
-    },
-    {
       "raw_hot": 554826,
       "num": 554826,
       "word": "本手妙手俗手秒了",
@@ -393,6 +393,14 @@
       "onboard_time": 1717742360,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495683,
+      "num": 495683,
+      "word": "王俊凯IP正确手势正确",
+      "onboard_time": 1717745478,
+      "rank": 35,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 494423,
@@ -520,14 +528,6 @@
       "word": "王星越十五岁上大学",
       "onboard_time": 1717730420,
       "rank": 47,
-      "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 428489,
-      "num": 428489,
-      "word": "王俊凯IP正确手势正确",
-      "onboard_time": 1717745478,
-      "rank": 35,
       "category": "艺人,教育"
     },
     {
@@ -699,11 +699,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 325474,
+      "num": 325474,
+      "word": "吴镇宇 费曼只会上网给意见",
+      "onboard_time": 1717748238,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 324439,
+      "num": 324439,
+      "word": "刘亦菲喝多被万茜嫌弃了",
+      "onboard_time": 1717744458,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320004,
       "num": 274651,
       "word": "夫妻辞教职在英国摆摊年挣180万",
       "onboard_time": 1717682599,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 313667,
+      "num": 313667,
+      "word": "大熊猫jiojio有多臭啊要洗这么久",
+      "onboard_time": 1717742659,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -715,12 +739,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 306204,
-      "num": 306204,
-      "word": "刘亦菲喝多被万茜嫌弃了",
-      "onboard_time": 1717744458,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 308848,
+      "num": 308848,
+      "word": "EVA动画制作公司宣布破产",
+      "onboard_time": 1717748838,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 305931,
@@ -761,14 +785,6 @@
       "onboard_time": 1717732824,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 281410,
-      "num": 281410,
-      "word": "大熊猫jiojio有多臭啊要洗这么久",
-      "onboard_time": 1717742659,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276991,
@@ -867,12 +883,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257248,
+      "num": 257248,
+      "word": "马里亚纳海沟",
+      "onboard_time": 1717747759,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 256226,
       "num": 256226,
       "word": "韩国7比0新加坡",
       "onboard_time": 1717684160,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254975,
+      "num": 173686,
+      "word": "有些妇科病先是心理病了",
+      "onboard_time": 1717748898,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254511,
@@ -929,6 +961,14 @@
       "onboard_time": 1717668980,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 237737,
+      "num": 237737,
+      "word": "景区女厕安装计时器引人不适",
+      "onboard_time": 1717748059,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236548,
@@ -1027,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210797,
+      "num": 210797,
+      "word": "张钰琪唱BlackSheep",
+      "onboard_time": 1717747278,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210370,
       "num": 210370,
       "word": "最后一届乙卷",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1717736181,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210097,
+      "num": 170775,
+      "word": "周鸿祎炫高考作文押题10中3",
+      "onboard_time": 1717748898,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 210020,
@@ -1081,14 +1137,6 @@
       "onboard_time": 1717723578,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 208371,
-      "num": 208371,
-      "word": "马里亚纳海沟",
-      "onboard_time": 1717747759,
-      "rank": 25,
-      "category": "科学科普"
     },
     {
       "raw_hot": 208363,
@@ -1219,14 +1267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 192564,
-      "num": 187734,
-      "word": "吴镇宇 费曼只会上网给意见",
-      "onboard_time": 1717748238,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 189761,
       "num": 189761,
       "word": "种地吧",
@@ -1256,14 +1296,6 @@
       "word": "陈丽君唱rap",
       "onboard_time": 1717744760,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 187443,
-      "num": 187443,
-      "word": "张钰琪唱BlackSheep",
-      "onboard_time": 1717747278,
-      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1339,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174411,
+      "num": 174411,
+      "word": "985舰发来高考祝福",
+      "onboard_time": 1717748838,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 173724,
       "num": 184474,
       "word": "高考作文谈如何与他人相处",
@@ -1371,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169787,
+      "num": 169787,
+      "word": "王俊凯暴龙活动",
+      "onboard_time": 1717749199,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169745,
       "num": 169745,
       "word": "2024专属高考表情",
@@ -1385,14 +1433,6 @@
       "onboard_time": 1717715715,
       "rank": 19,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 167061,
-      "num": 167061,
-      "word": "景区女厕安装计时器引人不适",
-      "onboard_time": 1717748059,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166891,
@@ -1763,6 +1803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130206,
+      "num": 130206,
+      "word": "阿兰因伤缺席中韩之战",
+      "onboard_time": 1717749258,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129313,
       "num": 129313,
       "word": "说唱冠军三年归来仍是素人",
@@ -2043,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75039,
+      "num": 442832,
+      "word": "蓝领招聘薪酬比5年前增长超3成",
+      "onboard_time": 1717747219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73277,
       "num": 73277,
       "word": "祝福高考",
@@ -2179,11 +2235,11 @@
       "category": "教育,互联网"
     },
     {
-      "raw_hot": 44193,
-      "num": 442832,
-      "word": "蓝领招聘薪酬比5年前增长超3成",
-      "onboard_time": 1717747219,
-      "rank": 9,
+      "raw_hot": 41421,
+      "num": 171802,
+      "word": "小学生用中性笔画出1.7米山水画卷",
+      "onboard_time": 1717749138,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -2233,6 +2289,14 @@
       "onboard_time": 1717739839,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28546,
+      "num": 214597,
+      "word": "他们40多年挖了近1亿个坑种树",
+      "onboard_time": 1717742539,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27356,

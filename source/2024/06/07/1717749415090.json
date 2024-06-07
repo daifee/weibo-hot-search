@@ -1,0 +1,410 @@
+{
+  "runTime": 1717749415090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1976283,
+        "num": 1976283,
+        "word": "李晋晔 被换",
+        "onboard_time": 1717745478,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1955114,
+        "num": 1955114,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27670,
+        "num": 1406859,
+        "word": "直击多地高考第一现场",
+        "onboard_time": 1717724177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173018,
+        "num": 1173018,
+        "word": "警号985211的民警手被拍红了",
+        "onboard_time": 1717744519,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 703303,
+        "num": 703303,
+        "word": "江西抚州车祸一孕妇被撞身亡",
+        "onboard_time": 1717739839,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 701588,
+        "num": 701588,
+        "word": "小牛说车账号被封",
+        "onboard_time": 1717746499,
+        "rank": 5,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 699749,
+        "num": 699749,
+        "word": "吴谨言提早三个月进组跟郝蕾学表演",
+        "onboard_time": 1717743738,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 663628,
+        "num": 663628,
+        "word": "微信回应登上高考作文",
+        "onboard_time": 1717737800,
+        "rank": 7,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 503501,
+        "num": 503501,
+        "word": "乙卷没了",
+        "onboard_time": 1717733304,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 495683,
+        "num": 495683,
+        "word": "王俊凯IP正确手势正确",
+        "onboard_time": 1717745478,
+        "rank": 9,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 444310,
+        "num": 444310,
+        "word": "上海交大李星玮",
+        "onboard_time": 1717740739,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385522,
+        "num": 385522,
+        "word": "北电毕业照没有张子枫",
+        "onboard_time": 1717734323,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325474,
+        "num": 325474,
+        "word": "吴镇宇 费曼只会上网给意见",
+        "onboard_time": 1717748238,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 324439,
+        "num": 324439,
+        "word": "刘亦菲喝多被万茜嫌弃了",
+        "onboard_time": 1717744458,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319098,
+        "num": 319098,
+        "word": "新高考一卷默写",
+        "onboard_time": 1717733123,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 313667,
+        "num": 313667,
+        "word": "大熊猫jiojio有多臭啊要洗这么久",
+        "onboard_time": 1717742659,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308848,
+        "num": 308848,
+        "word": "EVA动画制作公司宣布破产",
+        "onboard_time": 1717748838,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 305704,
+        "num": 305704,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 277833,
+        "num": 277833,
+        "word": "法国总统宣布将向乌克兰提供战斗机",
+        "onboard_time": 1717735043,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 9003,
+        "num": 265371,
+        "word": "跟着甘孜文旅局长刘洪打卡G318",
+        "onboard_time": 1717746078,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 414775,
+        "num": 263226,
+        "word": "坚持一个月11点睡觉不玩手机后",
+        "onboard_time": 1717739959,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257248,
+        "num": 257248,
+        "word": "马里亚纳海沟",
+        "onboard_time": 1717747759,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 251256,
+        "num": 251256,
+        "word": "我妈看完沈玉容都不催婚了",
+        "onboard_time": 1717744519,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238663,
+        "num": 238663,
+        "word": "何洁说尚雯婕是最难交的朋友",
+        "onboard_time": 1717742360,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237737,
+        "num": 237737,
+        "word": "景区女厕安装计时器引人不适",
+        "onboard_time": 1717748059,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224042,
+        "num": 224042,
+        "word": "高考",
+        "onboard_time": 1717715355,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28546,
+        "num": 214597,
+        "word": "他们40多年挖了近1亿个坑种树",
+        "onboard_time": 1717742539,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210797,
+        "num": 210797,
+        "word": "张钰琪唱BlackSheep",
+        "onboard_time": 1717747278,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178118,
+        "num": 178118,
+        "word": "小牛说车",
+        "onboard_time": 1717742659,
+        "rank": 28,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 174411,
+        "num": 174411,
+        "word": "985舰发来高考祝福",
+        "onboard_time": 1717748838,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 254975,
+        "num": 173686,
+        "word": "有些妇科病先是心理病了",
+        "onboard_time": 1717748898,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223596,
+        "num": 173325,
+        "word": "本手妙手俗手秒了",
+        "onboard_time": 1717736783,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41421,
+        "num": 171802,
+        "word": "小学生用中性笔画出1.7米山水画卷",
+        "onboard_time": 1717749138,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210097,
+        "num": 170775,
+        "word": "周鸿祎炫高考作文押题10中3",
+        "onboard_time": 1717748898,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 199547,
+        "num": 170305,
+        "word": "歌手门仓有希去世",
+        "onboard_time": 1717747519,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169787,
+        "num": 169787,
+        "word": "王俊凯暴龙活动",
+        "onboard_time": 1717749199,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161408,
+        "num": 161408,
+        "word": "22届考生破防",
+        "onboard_time": 1717734323,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158616,
+        "num": 158616,
+        "word": "手机AI写高考作文哪家强",
+        "onboard_time": 1717747219,
+        "rank": 37,
+        "category": "科学科普,教育"
+      },
+      {
+        "raw_hot": 75039,
+        "num": 158146,
+        "word": "蓝领招聘薪酬比5年前增长超3成",
+        "onboard_time": 1717747219,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158129,
+        "num": 158129,
+        "word": "迪丽热巴王冠黑羽女王",
+        "onboard_time": 1717744158,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157039,
+        "num": 157039,
+        "word": "文言文 熟人",
+        "onboard_time": 1717738579,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153549,
+        "num": 153549,
+        "word": "ChatGPT来交卷了",
+        "onboard_time": 1717736960,
+        "rank": 41,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 151455,
+        "num": 151455,
+        "word": "王大雷含泪道歉",
+        "onboard_time": 1717746318,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141979,
+        "num": 141979,
+        "word": "别让房贷还款新方式迷了眼",
+        "onboard_time": 1717736423,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136057,
+        "num": 136057,
+        "word": "肖战大学是设计专业的",
+        "onboard_time": 1717739959,
+        "rank": 44,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 131897,
+        "num": 131897,
+        "word": "黄健翔说的女歌手是蔡依林吗",
+        "onboard_time": 1717746738,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130206,
+        "num": 130206,
+        "word": "阿兰因伤缺席中韩之战",
+        "onboard_time": 1717749258,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12745,
+        "num": 128398,
+        "word": "导航提前预警有多重要",
+        "onboard_time": 1717744458,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128084,
+        "num": 128084,
+        "word": "邓超最正经的一次是和孙俪结婚那天",
+        "onboard_time": 1717742059,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126053,
+        "num": 126053,
+        "word": "小米称制动踏板状态正常",
+        "onboard_time": 1717747098,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升国家文化软实力和中华文化影响力#"
+    }
+  }
+}

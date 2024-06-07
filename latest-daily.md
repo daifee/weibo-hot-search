@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 16:24:02
+本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 16:36:55
 </p>
 </blockquote>
 <p>
@@ -58,7 +58,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%8B%E6%99%94%20%E8%A2%AB%E6%8D%A2%23" target="weibo">
-李晋晔 被换（热度：1964959）
+李晋晔 被换（热度：1976283）
 </a>
 </li>
 
@@ -105,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7985211%E7%9A%84%E6%B0%91%E8%AD%A6%E6%89%8B%E8%A2%AB%E6%8B%8D%E7%BA%A2%E4%BA%86%23" target="weibo">
+警号985211的民警手被拍红了（热度：1173018）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E7%99%BB%E4%B8%8A%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
 微信回应登上高考作文（热度：1142125）
 </a>
@@ -119,12 +125,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%2322%E5%B1%8A%E8%80%83%E7%94%9F%E7%A0%B4%E9%98%B2%23" target="weibo">
 22届考生破防（热度：1067327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7985211%E7%9A%84%E6%B0%91%E8%AD%A6%E6%89%8B%E8%A2%AB%E6%8B%8D%E7%BA%A2%E4%BA%86%23" target="weibo">
-警号985211的民警手被拍红了（热度：1048658）
 </a>
 </li>
 
@@ -189,14 +189,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%85%B7%E4%BC%BC87%E7%89%88%E6%9E%97%E9%BB%9B%E7%8E%89%23" target="weibo">
-17岁女孩酷似87版林黛玉（热度：696144）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%89%9B%E8%AF%B4%E8%BD%A6%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%23" target="weibo">
+小牛说车账号被封（热度：701588）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E6%8F%90%E6%97%A9%E4%B8%89%E4%B8%AA%E6%9C%88%E8%BF%9B%E7%BB%84%E8%B7%9F%E9%83%9D%E8%95%BE%E5%AD%A6%E8%A1%A8%E6%BC%94%23" target="weibo">
-吴谨言提早三个月进组跟郝蕾学表演（热度：688810）
+吴谨言提早三个月进组跟郝蕾学表演（热度：699749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%85%B7%E4%BC%BC87%E7%89%88%E6%9E%97%E9%BB%9B%E7%8E%89%23" target="weibo">
+17岁女孩酷似87版林黛玉（热度：696144）
 </a>
 </li>
 
@@ -261,12 +267,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%89%9B%E8%AF%B4%E8%BD%A6%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%23" target="weibo">
-小牛说车账号被封（热度：558585）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%89%8B%E5%A6%99%E6%89%8B%E4%BF%97%E6%89%8B%E7%A7%92%E4%BA%86%23" target="weibo">
 本手妙手俗手秒了（热度：554826）
 </a>
@@ -305,6 +305,12 @@ AI写AI（热度：545645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%81%E8%AF%B4%E5%B0%9A%E9%9B%AF%E5%A9%95%E6%98%AF%E6%9C%80%E9%9A%BE%E4%BA%A4%E7%9A%84%E6%9C%8B%E5%8F%8B%23" target="weibo">
 何洁说尚雯婕是最难交的朋友（热度：509146）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AFIP%E6%AD%A3%E7%A1%AE%E6%89%8B%E5%8A%BF%E6%AD%A3%E7%A1%AE%23" target="weibo">
+王俊凯IP正确手势正确（热度：495683）
 </a>
 </li>
 
@@ -401,12 +407,6 @@ AI写AI（热度：545645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8D%81%E4%BA%94%E5%B2%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%23" target="weibo">
 王星越十五岁上大学（热度：433965）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AFIP%E6%AD%A3%E7%A1%AE%E6%89%8B%E5%8A%BF%E6%AD%A3%E7%A1%AE%23" target="weibo">
-王俊凯IP正确手势正确（热度：428489）
 </a>
 </li>
 
@@ -537,8 +537,26 @@ ChatGPT来交卷了（热度：423568）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%20%E8%B4%B9%E6%9B%BC%E5%8F%AA%E4%BC%9A%E4%B8%8A%E7%BD%91%E7%BB%99%E6%84%8F%E8%A7%81%23" target="weibo">
+吴镇宇 费曼只会上网给意见（热度：325474）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%96%9D%E5%A4%9A%E8%A2%AB%E4%B8%87%E8%8C%9C%E5%AB%8C%E5%BC%83%E4%BA%86%23" target="weibo">
+刘亦菲喝多被万茜嫌弃了（热度：324439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E8%BE%9E%E6%95%99%E8%81%8C%E5%9C%A8%E8%8B%B1%E5%9B%BD%E6%91%86%E6%91%8A%E5%B9%B4%E6%8C%A3180%E4%B8%87%23" target="weibo">
 夫妻辞教职在英国摆摊年挣180万（热度：320004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%ABjiojio%E6%9C%89%E5%A4%9A%E8%87%AD%E5%95%8A%E8%A6%81%E6%B4%97%E8%BF%99%E4%B9%88%E4%B9%85%23" target="weibo">
+大熊猫jiojio有多臭啊要洗这么久（热度：313667）
 </a>
 </li>
 
@@ -549,8 +567,8 @@ ChatGPT来交卷了（热度：423568）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%96%9D%E5%A4%9A%E8%A2%AB%E4%B8%87%E8%8C%9C%E5%AB%8C%E5%BC%83%E4%BA%86%23" target="weibo">
-刘亦菲喝多被万茜嫌弃了（热度：306204）
+<a href="https://s.weibo.com/weibo?q=%23EVA%E5%8A%A8%E7%94%BB%E5%88%B6%E4%BD%9C%E5%85%AC%E5%8F%B8%E5%AE%A3%E5%B8%83%E7%A0%B4%E4%BA%A7%23" target="weibo">
+EVA动画制作公司宣布破产（热度：308848）
 </a>
 </li>
 
@@ -581,12 +599,6 @@ ChatGPT来交卷了（热度：423568）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%AE%83%E5%B8%A6%E8%BF%9B%E8%80%83%E5%9C%BA%E5%B0%B1%E4%BC%9A%E8%AE%A4%E5%AE%9A%E4%B8%BA%E4%BD%9C%E5%BC%8A%23" target="weibo">
 把它带进考场就会认定为作弊（热度：286110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%ABjiojio%E6%9C%89%E5%A4%9A%E8%87%AD%E5%95%8A%E8%A6%81%E6%B4%97%E8%BF%99%E4%B9%88%E4%B9%85%23" target="weibo">
-大熊猫jiojio有多臭啊要洗这么久（热度：281410）
 </a>
 </li>
 
@@ -663,8 +675,20 @@ ChatGPT来交卷了（热度：423568）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E6%B5%B7%E6%B2%9F%23" target="weibo">
+马里亚纳海沟（热度：257248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD7%E6%AF%940%E6%96%B0%E5%8A%A0%E5%9D%A1%23" target="weibo">
 韩国7比0新加坡（热度：256226）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%9B%E5%A6%87%E7%A7%91%E7%97%85%E5%85%88%E6%98%AF%E5%BF%83%E7%90%86%E7%97%85%E4%BA%86%23" target="weibo">
+有些妇科病先是心理病了（热度：254975）
 </a>
 </li>
 
@@ -707,6 +731,12 @@ ChatGPT来交卷了（热度：423568）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%23" target="weibo">
 2024祝福高考学子（热度：239830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%A5%B3%E5%8E%95%E5%AE%89%E8%A3%85%E8%AE%A1%E6%97%B6%E5%99%A8%E5%BC%95%E4%BA%BA%E4%B8%8D%E9%80%82%23" target="weibo">
+景区女厕安装计时器引人不适（热度：237737）
 </a>
 </li>
 
@@ -783,6 +813,12 @@ ChatGPT来交卷了（热度：423568）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E5%94%B1BlackSheep%23" target="weibo">
+张钰琪唱BlackSheep（热度：210797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%90%8E%E4%B8%80%E5%B1%8A%E4%B9%99%E5%8D%B7%23" target="weibo">
 最后一届乙卷（热度：210370）
 </a>
@@ -797,6 +833,12 @@ ChatGPT来交卷了（热度：423568）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E6%96%B0%E6%AD%8C%23" target="weibo">
 田柾国新歌（热度：210293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%82%AB%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E6%8A%BC%E9%A2%9810%E4%B8%AD3%23" target="weibo">
+周鸿祎炫高考作文押题10中3（热度：210097）
 </a>
 </li>
 
@@ -821,12 +863,6 @@ ChatGPT来交卷了（热度：423568）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AB%98%E8%80%83%E8%80%83%E5%9C%BA%E5%A4%96%E7%9A%84%E9%98%BFsir%E5%B8%85%E5%88%B0%E4%BA%86%23" target="weibo">
 被高考考场外的阿sir帅到了（热度：208454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E6%B5%B7%E6%B2%9F%23" target="weibo">
-马里亚纳海沟（热度：208371）
 </a>
 </li>
 
@@ -927,12 +963,6 @@ ChatGPT来交卷了（热度：423568）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%20%E8%B4%B9%E6%9B%BC%E5%8F%AA%E4%BC%9A%E4%B8%8A%E7%BD%91%E7%BB%99%E6%84%8F%E8%A7%81%23" target="weibo">
-吴镇宇 费曼只会上网给意见（热度：192564）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%23" target="weibo">
 种地吧（热度：189761）
 </a>
@@ -953,12 +983,6 @@ IU捡了只洞洞鞋（热度：187812）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E5%94%B1rap%23" target="weibo">
 陈丽君唱rap（热度：187697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E5%94%B1BlackSheep%23" target="weibo">
-张钰琪唱BlackSheep（热度：187443）
 </a>
 </li>
 
@@ -1017,6 +1041,12 @@ IU捡了只洞洞鞋（热度：187812）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23985%E8%88%B0%E5%8F%91%E6%9D%A5%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%23" target="weibo">
+985舰发来高考祝福（热度：174411）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E8%B0%88%E5%A6%82%E4%BD%95%E4%B8%8E%E4%BB%96%E4%BA%BA%E7%9B%B8%E5%A4%84%23" target="weibo">
 高考作文谈如何与他人相处（热度：173724）
 </a>
@@ -1041,6 +1071,12 @@ IU捡了只洞洞鞋（热度：187812）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%9A%B4%E9%BE%99%E6%B4%BB%E5%8A%A8%23" target="weibo">
+王俊凯暴龙活动（热度：169787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E4%B8%93%E5%B1%9E%E9%AB%98%E8%80%83%E8%A1%A8%E6%83%85%23" target="weibo">
 2024专属高考表情（热度：169745）
 </a>
@@ -1049,12 +1085,6 @@ IU捡了只洞洞鞋（热度：187812）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%20%E6%9B%BF%E5%A4%A7%E5%AE%B6%E9%97%AE%E8%BF%87%E9%AB%98%E8%80%83%E4%BA%86%23" target="weibo">
 檀健次 替大家问过高考了（热度：169577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%A5%B3%E5%8E%95%E5%AE%89%E8%A3%85%E8%AE%A1%E6%97%B6%E5%99%A8%E5%BC%95%E4%BA%BA%E4%B8%8D%E9%80%82%23" target="weibo">
-景区女厕安装计时器引人不适（热度：167061）
 </a>
 </li>
 
@@ -1335,6 +1365,12 @@ WekiMeki官宣解散（热度：153067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%85%B0%E5%9B%A0%E4%BC%A4%E7%BC%BA%E5%B8%AD%E4%B8%AD%E9%9F%A9%E4%B9%8B%E6%88%98%23" target="weibo">
+阿兰因伤缺席中韩之战（热度：130206）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B4%E5%94%B1%E5%86%A0%E5%86%9B%E4%B8%89%E5%B9%B4%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E7%B4%A0%E4%BA%BA%23" target="weibo">
 说唱冠军三年归来仍是素人（热度：129313）
 </a>
@@ -1545,6 +1581,12 @@ WekiMeki官宣解散（热度：153067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E9%A2%86%E6%8B%9B%E8%81%98%E8%96%AA%E9%85%AC%E6%AF%945%E5%B9%B4%E5%89%8D%E5%A2%9E%E9%95%BF%E8%B6%853%E6%88%90%23" target="weibo">
+蓝领招聘薪酬比5年前增长超3成（热度：75039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%23" target="weibo">
 祝福高考（热度：73277）
 </a>
@@ -1647,8 +1689,8 @@ WekiMeki官宣解散（热度：153067）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E9%A2%86%E6%8B%9B%E8%81%98%E8%96%AA%E9%85%AC%E6%AF%945%E5%B9%B4%E5%89%8D%E5%A2%9E%E9%95%BF%E8%B6%853%E6%88%90%23" target="weibo">
-蓝领招聘薪酬比5年前增长超3成（热度：44193）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%94%A8%E4%B8%AD%E6%80%A7%E7%AC%94%E7%94%BB%E5%87%BA1.7%E7%B1%B3%E5%B1%B1%E6%B0%B4%E7%94%BB%E5%8D%B7%23" target="weibo">
+小学生用中性笔画出1.7米山水画卷（热度：41421）
 </a>
 </li>
 
@@ -1685,6 +1727,12 @@ WekiMeki官宣解散（热度：153067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%B8%85%E6%96%B0%E8%B5%B4%E7%BA%A6%23" target="weibo">
 白鹿清新赴约（热度：29294）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC40%E5%A4%9A%E5%B9%B4%E6%8C%96%E4%BA%86%E8%BF%911%E4%BA%BF%E4%B8%AA%E5%9D%91%E7%A7%8D%E6%A0%91%23" target="weibo">
+他们40多年挖了近1亿个坑种树（热度：28546）
 </a>
 </li>
 
