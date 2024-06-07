@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717791589549,
+  "endTime": 1717792474138,
   "band_list": [
     {
       "raw_hot": 1441447,
@@ -427,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39491,
+      "num": 27212,
+      "word": "董宇辉小时候被抢过好多次钱",
+      "onboard_time": 1717790170,
+      "rank": 15,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 36654,
       "num": 1023103,
       "word": "中华文化传承发展新华章",
@@ -459,12 +467,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 26558,
-      "num": 26558,
-      "word": "董宇辉小时候被抢过好多次钱",
-      "onboard_time": 1717790170,
-      "rank": 15,
-      "category": "互联网,网红"
+      "raw_hot": 21817,
+      "num": 21817,
+      "word": "关晓彤无袖背心短裤",
+      "onboard_time": 1717789812,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 20910,
@@ -483,14 +491,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 18988,
-      "num": 18988,
-      "word": "关晓彤无袖背心短裤",
-      "onboard_time": 1717789812,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 18730,
       "num": 213202,
       "word": "高考各拼各的",
@@ -505,6 +505,14 @@
       "onboard_time": 1717769902,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 12053,
+      "num": 16572,
+      "word": "临沂8.1万名考生奔赴考场",
+      "onboard_time": 1717792451,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 10813,
