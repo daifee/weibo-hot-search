@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717741643731,
+  "endTime": 1717742387953,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -67,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1469829,
+      "num": 1042288,
+      "word": "小米SU7冲出停车场致一死三伤",
+      "onboard_time": 1717737500,
+      "rank": 46,
+      "category": "社会负面,汽车"
+    },
+    {
       "raw_hot": 1288954,
       "num": 1288954,
       "word": "上海卷 抽象",
@@ -115,14 +123,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1042288,
-      "num": 1042288,
-      "word": "小米SU7冲出停车场致一死三伤",
-      "onboard_time": 1717737500,
-      "rank": 46,
-      "category": "社会负面,汽车"
-    },
-    {
       "raw_hot": 1017215,
       "num": 1017215,
       "word": "邓超孙俪见证了14届高考",
@@ -145,6 +145,14 @@
       "onboard_time": 1717716376,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870130,
+      "num": 288221,
+      "word": "江西抚州车祸一孕妇被撞身亡",
+      "onboard_time": 1717739839,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 826494,
@@ -171,14 +179,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 734184,
-      "num": 256854,
-      "word": "江西抚州车祸一孕妇被撞身亡",
-      "onboard_time": 1717739839,
-      "rank": 20,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 722184,
       "num": 722184,
       "word": "高考 下雨",
@@ -203,6 +203,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 696712,
+      "num": 696712,
+      "word": "微信回应登上高考作文",
+      "onboard_time": 1717737800,
+      "rank": 32,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 696144,
       "num": 696144,
       "word": "17岁女孩酷似87版林黛玉",
@@ -224,6 +232,14 @@
       "word": "1342万人今天高考",
       "onboard_time": 1717715535,
       "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 655454,
+      "num": 655454,
+      "word": "文言文 熟人",
+      "onboard_time": 1717738579,
+      "rank": 6,
       "category": "教育"
     },
     {
@@ -323,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 506312,
-      "num": 506312,
-      "word": "文言文 熟人",
-      "onboard_time": 1717738579,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 494423,
       "num": 494423,
       "word": "佟梦实首次直播回应一年级争议",
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471975,
+      "num": 471975,
+      "word": "小米回应停车场相关事故",
+      "onboard_time": 1717741157,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 470308,
       "num": 225398,
       "word": "中方回应是否考虑恢复日本海产品进口",
@@ -377,14 +393,6 @@
       "onboard_time": 1717678279,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 465866,
-      "num": 465866,
-      "word": "微信回应登上高考作文",
-      "onboard_time": 1717737800,
-      "rank": 32,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 465854,
@@ -459,6 +467,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 423568,
+      "num": 423568,
+      "word": "ChatGPT来交卷了",
+      "onboard_time": 1717736960,
+      "rank": 35,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 421074,
       "num": 421074,
       "word": "10岁大学生父亲称她在走弯路",
@@ -473,6 +489,14 @@
       "onboard_time": 1717735941,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 403212,
+      "num": 283275,
+      "word": "坚持一个月11点睡觉不玩手机后",
+      "onboard_time": 1717739959,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 395417,
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 340746,
-      "num": 340746,
-      "word": "ChatGPT来交卷了",
-      "onboard_time": 1717736960,
-      "rank": 35,
-      "category": "互联网,教育"
-    },
-    {
       "raw_hot": 336062,
       "num": 3137278,
       "word": "直击多地高考第一现场",
@@ -595,6 +611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 326724,
+      "num": 326724,
+      "word": "五月天深圳",
+      "onboard_time": 1717741519,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 326405,
       "num": 326405,
       "word": "吴镇宇六旬老汉赚钱不易",
@@ -617,6 +641,14 @@
       "onboard_time": 1717721119,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 305931,
+      "num": 305931,
+      "word": "歌手歌单",
+      "onboard_time": 1717739238,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 302211,
@@ -643,20 +675,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 286135,
-      "num": 256759,
-      "word": "坚持一个月11点睡觉不玩手机后",
-      "onboard_time": 1717739959,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 286110,
       "num": 1033820,
       "word": "把它带进考场就会认定为作弊",
       "onboard_time": 1717732824,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 276991,
+      "num": 276991,
+      "word": "肖战大学是设计专业的",
+      "onboard_time": 1717739959,
+      "rank": 22,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 276759,
@@ -673,14 +705,6 @@
       "onboard_time": 1717721359,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 271962,
-      "num": 256710,
-      "word": "肖战大学是设计专业的",
-      "onboard_time": 1717739959,
-      "rank": 22,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 271602,
@@ -747,12 +771,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 256526,
-      "num": 256526,
-      "word": "小米回应停车场相关事故",
-      "onboard_time": 1717741157,
+      "raw_hot": 257277,
+      "num": 257277,
+      "word": "杨幂 炭烤狐狸爪",
+      "onboard_time": 1717740919,
       "rank": 23,
-      "category": "汽车"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256226,
@@ -771,12 +795,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 251881,
-      "num": 251881,
-      "word": "歌手歌单",
-      "onboard_time": 1717739238,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 252732,
+      "num": 252732,
+      "word": "上海交大李星玮",
+      "onboard_time": 1717740739,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247582,
@@ -819,12 +843,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 237432,
-      "num": 237432,
-      "word": "上海交大李星玮",
-      "onboard_time": 1717740739,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 234538,
+      "num": 234538,
+      "word": "何洁说尚雯婕是最难交的朋友",
+      "onboard_time": 1717742360,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 232653,
@@ -857,6 +881,14 @@
       "onboard_time": 1717719378,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 216540,
+      "num": 216540,
+      "word": "郭碧婷女团风",
+      "onboard_time": 1717741700,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 215719,
@@ -953,6 +985,14 @@
       "onboard_time": 1717677618,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 207939,
+      "num": 207939,
+      "word": "妈妈晒和孙卓在高考考场外合影",
+      "onboard_time": 1717741279,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 207512,
@@ -1219,14 +1259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165939,
-      "num": 165939,
-      "word": "五月天深圳",
-      "onboard_time": 1717741519,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165559,
       "num": 165559,
       "word": "水果酸奶粽",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1717718659,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164231,
+      "num": 164231,
+      "word": "毕业了还在吃高考生福利",
+      "onboard_time": 1717740919,
+      "rank": 47,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 162082,
@@ -1307,14 +1347,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 157679,
-      "num": 157679,
-      "word": "妈妈晒和孙卓在高考考场外合影",
-      "onboard_time": 1717741279,
-      "rank": 41,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 157623,
       "num": 157623,
       "word": "NBA",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1717727836,
       "rank": 33,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 153762,
+      "num": 153762,
+      "word": "邓超最正经的一次是和孙俪结婚那天",
+      "onboard_time": 1717742059,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 153683,
@@ -1433,14 +1473,6 @@
       "onboard_time": 1717731082,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144762,
-      "num": 144762,
-      "word": "毕业了还在吃高考生福利",
-      "onboard_time": 1717740919,
-      "rank": 47,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 144543,
@@ -1971,12 +2003,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 27103,
-      "num": 253014,
+      "raw_hot": 29294,
+      "num": 253876,
       "word": "白鹿清新赴约",
       "onboard_time": 1717739839,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25757,
+      "num": 219385,
+      "word": "李白和嫦娥六号互动押中北京作文题",
+      "onboard_time": 1717741400,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 24805,
@@ -2065,14 +2105,6 @@
       "onboard_time": 1717701011,
       "rank": 36,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 10355,
-      "num": 219385,
-      "word": "李白和嫦娥六号互动押中北京作文题",
-      "onboard_time": 1717741400,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 9273,

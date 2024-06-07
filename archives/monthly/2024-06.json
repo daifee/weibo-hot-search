@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717741643731,
+  "endTime": 1717742387953,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -481,6 +481,14 @@
       "onboard_time": 1717332919,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1469829,
+      "num": 1042288,
+      "word": "小米SU7冲出停车场致一死三伤",
+      "onboard_time": 1717737500,
+      "rank": 46,
+      "category": "社会负面,汽车"
     },
     {
       "raw_hot": 1464629,
@@ -1099,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1042288,
-      "num": 1042288,
-      "word": "小米SU7冲出停车场致一死三伤",
-      "onboard_time": 1717737500,
-      "rank": 46,
-      "category": "社会负面,汽车"
-    },
-    {
       "raw_hot": 1021664,
       "num": 1021664,
       "word": "没想到榴莲也住上单间了",
@@ -1393,6 +1393,14 @@
       "onboard_time": 1717377438,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 870130,
+      "num": 288221,
+      "word": "江西抚州车祸一孕妇被撞身亡",
+      "onboard_time": 1717739839,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 869342,
@@ -1979,14 +1987,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 734184,
-      "num": 256854,
-      "word": "江西抚州车祸一孕妇被撞身亡",
-      "onboard_time": 1717739839,
-      "rank": 20,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 733496,
       "num": 366060,
       "word": "米卡 忘了我是外国人",
@@ -2129,6 +2129,14 @@
       "onboard_time": 1717645038,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 696712,
+      "num": 696712,
+      "word": "微信回应登上高考作文",
+      "onboard_time": 1717737800,
+      "rank": 32,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 696144,
@@ -2417,6 +2425,14 @@
       "onboard_time": 1717396579,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 655454,
+      "num": 655454,
+      "word": "文言文 熟人",
+      "onboard_time": 1717738579,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 655383,
@@ -3499,14 +3515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 506312,
-      "num": 506312,
-      "word": "文言文 熟人",
-      "onboard_time": 1717738579,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 505141,
       "num": 505141,
       "word": "墨雨云间 好有张力的拉扯",
@@ -3827,6 +3835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471975,
+      "num": 471975,
+      "word": "小米回应停车场相关事故",
+      "onboard_time": 1717741157,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 471409,
       "num": 471409,
       "word": "中国女排vs意大利女排",
@@ -3889,14 +3905,6 @@
       "onboard_time": 1717501757,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 465866,
-      "num": 465866,
-      "word": "微信回应登上高考作文",
-      "onboard_time": 1717737800,
-      "rank": 32,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 465854,
@@ -4419,6 +4427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423568,
+      "num": 423568,
+      "word": "ChatGPT来交卷了",
+      "onboard_time": 1717736960,
+      "rank": 35,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 422594,
       "num": 422594,
       "word": "2024祝福高考学子",
@@ -4705,6 +4721,14 @@
       "onboard_time": 1717321758,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403212,
+      "num": 283275,
+      "word": "坚持一个月11点睡觉不玩手机后",
+      "onboard_time": 1717739959,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 402984,
@@ -5563,14 +5587,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 340746,
-      "num": 340746,
-      "word": "ChatGPT来交卷了",
-      "onboard_time": 1717736960,
-      "rank": 35,
-      "category": "互联网,教育"
-    },
-    {
       "raw_hot": 340115,
       "num": 340115,
       "word": "咒术回战",
@@ -5769,6 +5785,14 @@
       "onboard_time": 1717484418,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326724,
+      "num": 326724,
+      "word": "五月天深圳",
+      "onboard_time": 1717741519,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 326405,
@@ -6121,6 +6145,14 @@
       "onboard_time": 1717580417,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305931,
+      "num": 305931,
+      "word": "歌手歌单",
+      "onboard_time": 1717739238,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 305776,
@@ -6539,14 +6571,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286135,
-      "num": 256759,
-      "word": "坚持一个月11点睡觉不玩手机后",
-      "onboard_time": 1717739959,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 286134,
       "num": 286134,
       "word": "杨舒予太牛了",
@@ -6747,6 +6771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 276991,
+      "num": 276991,
+      "word": "肖战大学是设计专业的",
+      "onboard_time": 1717739959,
+      "rank": 22,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 276769,
       "num": 202675,
       "word": "45岁独生子决定带着妈妈上班",
@@ -6865,14 +6897,6 @@
       "onboard_time": 1717208416,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271962,
-      "num": 256710,
-      "word": "肖战大学是设计专业的",
-      "onboard_time": 1717739959,
-      "rank": 22,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 271602,
@@ -7243,6 +7267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257277,
+      "num": 257277,
+      "word": "杨幂 炭烤狐狸爪",
+      "onboard_time": 1717740919,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257235,
       "num": 257235,
       "word": "刘亦菲荡领短裙",
@@ -7273,14 +7305,6 @@
       "onboard_time": 1717663938,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 256526,
-      "num": 256526,
-      "word": "小米回应停车场相关事故",
-      "onboard_time": 1717741157,
-      "rank": 23,
-      "category": "汽车"
     },
     {
       "raw_hot": 256353,
@@ -7371,6 +7395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252732,
+      "num": 252732,
+      "word": "上海交大李星玮",
+      "onboard_time": 1717740739,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252722,
       "num": 212336,
       "word": "泽连斯基停职多名亲美高官",
@@ -7409,14 +7441,6 @@
       "onboard_time": 1717621811,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 251881,
-      "num": 251881,
-      "word": "歌手歌单",
-      "onboard_time": 1717739238,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 251464,
@@ -7715,14 +7739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237432,
-      "num": 237432,
-      "word": "上海交大李星玮",
-      "onboard_time": 1717740739,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237268,
       "num": 237268,
       "word": "赵冬苓说属于王一博的荣耀在前面等着",
@@ -7833,6 +7849,14 @@
       "onboard_time": 1717340900,
       "rank": 34,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 234538,
+      "num": 234538,
+      "word": "何洁说尚雯婕是最难交的朋友",
+      "onboard_time": 1717742360,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 234450,
@@ -8483,6 +8507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216540,
+      "num": 216540,
+      "word": "郭碧婷女团风",
+      "onboard_time": 1717741700,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216271,
       "num": 210799,
       "word": "陈乔恩上次演反派是东方不败",
@@ -8825,6 +8857,14 @@
       "onboard_time": 1717683740,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207939,
+      "num": 207939,
+      "word": "妈妈晒和孙卓在高考考场外合影",
+      "onboard_time": 1717741279,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 207859,
@@ -11563,14 +11603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165939,
-      "num": 165939,
-      "word": "五月天深圳",
-      "onboard_time": 1717741519,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165596,
       "num": 165596,
       "word": "张本智和3比1林昀儒",
@@ -11689,6 +11721,14 @@
       "onboard_time": 1717718659,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164231,
+      "num": 164231,
+      "word": "毕业了还在吃高考生福利",
+      "onboard_time": 1717740919,
+      "rank": 47,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 164179,
@@ -12163,14 +12203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157679,
-      "num": 157679,
-      "word": "妈妈晒和孙卓在高考考场外合影",
-      "onboard_time": 1717741279,
-      "rank": 41,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 157634,
       "num": 157634,
       "word": "星穹铁道椒丘",
@@ -12401,6 +12433,14 @@
       "onboard_time": 1717165643,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153762,
+      "num": 153762,
+      "word": "邓超最正经的一次是和孙俪结婚那天",
+      "onboard_time": 1717742059,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 153687,
@@ -13121,14 +13161,6 @@
       "onboard_time": 1717295537,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144762,
-      "num": 144762,
-      "word": "毕业了还在吃高考生福利",
-      "onboard_time": 1717740919,
-      "rank": 47,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 144738,
@@ -18843,6 +18875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29294,
+      "num": 253876,
+      "word": "白鹿清新赴约",
+      "onboard_time": 1717739839,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29186,
       "num": 27236,
       "word": "胖人有个致命的缺点叫怕浪费",
@@ -18873,14 +18913,6 @@
       "onboard_time": 1717218258,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27103,
-      "num": 253014,
-      "word": "白鹿清新赴约",
-      "onboard_time": 1717739839,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 27028,
@@ -18937,6 +18969,14 @@
       "onboard_time": 1717437852,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 25757,
+      "num": 219385,
+      "word": "李白和嫦娥六号互动押中北京作文题",
+      "onboard_time": 1717741400,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 25309,
@@ -19465,14 +19505,6 @@
       "onboard_time": 1717180092,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10355,
-      "num": 219385,
-      "word": "李白和嫦娥六号互动押中北京作文题",
-      "onboard_time": 1717741400,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 10077,
