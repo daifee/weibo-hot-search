@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717777402391,
+  "endTime": 1717778443422,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -12019,6 +12019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174784,
+      "num": 171403,
+      "word": "范丞丞又cue孟宴臣",
+      "onboard_time": 1717775360,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174753,
       "num": 174753,
       "word": "SpaceX星舰成功重返并通过大气层",
@@ -12297,14 +12305,6 @@
       "onboard_time": 1717212076,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171403,
-      "num": 171403,
-      "word": "范丞丞又cue孟宴臣",
-      "onboard_time": 1717775360,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 171000,
