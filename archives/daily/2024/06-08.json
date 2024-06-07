@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717798729724,
+  "endTime": 1717799720603,
   "band_list": [
     {
       "raw_hot": 1441447,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178556,
+      "num": 178556,
+      "word": "何炅缺席",
+      "onboard_time": 1717762579,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178274,
       "num": 178274,
       "word": "央视网文娱评墨雨云间",
@@ -209,14 +217,6 @@
       "onboard_time": 1717767621,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161630,
-      "num": 161630,
-      "word": "何炅缺席",
-      "onboard_time": 1717762579,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 156614,
@@ -307,6 +307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 94705,
+      "num": 94705,
+      "word": "薛芳菲我不允许任何人忤逆你",
+      "onboard_time": 1717785132,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93422,
       "num": 275268,
       "word": "老师的985车牌快被摸秃噜皮了",
@@ -331,15 +339,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85131,
-      "num": 85131,
-      "word": "薛芳菲我不允许任何人忤逆你",
-      "onboard_time": 1717785132,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 88191,
+      "num": 38277,
+      "word": "莫言曾劝女儿高考前看电视",
+      "onboard_time": 1717797251,
+      "rank": 30,
+      "category": "读书作家,教育"
     },
     {
-      "raw_hot": 83752,
+      "raw_hot": 87870,
       "num": 271033,
       "word": "董宇辉称爸妈长期被骚扰",
       "onboard_time": 1717755739,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 69363,
-      "num": 48059,
+      "num": 60861,
       "word": "董宇辉小时候被抢过好多次钱",
       "onboard_time": 1717790170,
       "rank": 15,
@@ -427,16 +435,8 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 53038,
-      "num": 32819,
-      "word": "莫言曾劝女儿高考前看电视",
-      "onboard_time": 1717797251,
-      "rank": 30,
-      "category": "读书作家,教育"
-    },
-    {
       "raw_hot": 52391,
-      "num": 31888,
+      "num": 34181,
       "word": "关晓彤无袖背心短裤",
       "onboard_time": 1717789812,
       "rank": 34,
@@ -451,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48617,
+      "num": 39221,
+      "word": "56岁邱淑贞状态",
+      "onboard_time": 1717796891,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40665,
       "num": 40665,
       "word": "那英 灿烂的你",
@@ -459,12 +467,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38202,
-      "num": 36439,
-      "word": "56岁邱淑贞状态",
-      "onboard_time": 1717796891,
-      "rank": 25,
+      "raw_hot": 38406,
+      "num": 38406,
+      "word": "宋佳真空V领",
+      "onboard_time": 1717798693,
+      "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36914,
+      "num": 36914,
+      "word": "苗苗边看乘风边卷腹",
+      "onboard_time": 1717795691,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 36654,
@@ -491,14 +507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30644,
-      "num": 30644,
-      "word": "苗苗边看乘风边卷腹",
-      "onboard_time": 1717795691,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28140,
       "num": 39129,
       "word": "白敬亭上身肌肉线条",
@@ -507,8 +515,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21265,
-      "num": 24682,
+      "raw_hot": 27329,
+      "num": 30780,
       "word": "爸爸带红衣战袍小狗给女儿送考",
       "onboard_time": 1717797973,
       "rank": 44,
@@ -521,14 +529,6 @@
       "onboard_time": 1717786452,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19783,
-      "num": 24621,
-      "word": "宋佳真空V领",
-      "onboard_time": 1717798693,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19308,
@@ -563,7 +563,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 14233,
+      "raw_hot": 16509,
       "num": 192645,
       "word": "万千气象看北京",
       "onboard_time": 1717769963,
