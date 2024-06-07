@@ -1,7 +1,15 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717730548492,
+  "endTime": 1717731378104,
   "band_list": [
+    {
+      "raw_hot": 25424223,
+      "num": 25424223,
+      "word": "高考作文",
+      "onboard_time": 1717729999,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 21250232,
       "num": 21250232,
@@ -1649,14 +1657,6 @@
       "onboard_time": 1705128333,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 3731161,
-      "num": 3731161,
-      "word": "高考作文",
-      "onboard_time": 1717729999,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 3675775,

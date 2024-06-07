@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 11:22:28
+本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 11:36:18
 </p>
 </blockquote>
 <p>
@@ -15,14 +15,20 @@
 <ol>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
+高考作文（热度：25424223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
 高考（热度：4887908）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
-高考作文（热度：3731161）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
+高考语文（热度：3089096）
 </a>
 </li>
 
@@ -35,12 +41,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E9%A2%98%E4%BD%A0%E8%BF%98%E8%83%BD%E6%8B%BF%E4%B8%8B%E5%90%97%23" target="weibo">
 高考第一题你还能拿下吗（热度：2218032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
-高考语文（热度：1846504）
 </a>
 </li>
 
@@ -75,6 +75,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%85%B7%E4%BC%BC87%E7%89%88%E6%9E%97%E9%BB%9B%E7%8E%89%23" target="weibo">
+17岁女孩酷似87版林黛玉（热度：696144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96%E5%90%8E%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%A5%B9%E7%9A%84%E5%B1%8B%E5%AD%90%E7%9C%8B%E7%94%B5%E8%A7%86%23" target="weibo">
 奶奶去世后第一次在她的屋子看电视（热度：687221）
 </a>
@@ -87,8 +93,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%85%B7%E4%BC%BC87%E7%89%88%E6%9E%97%E9%BB%9B%E7%8E%89%23" target="weibo">
-17岁女孩酷似87版林黛玉（热度：616197）
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E8%A7%81%E8%AF%81%E4%BA%8614%E5%B1%8A%E9%AB%98%E8%80%83%23" target="weibo">
+邓超孙俪见证了14届高考（热度：629031）
 </a>
 </li>
 
@@ -123,14 +129,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%BA%8A%E4%B8%8A%E4%B9%B1%E8%B9%A6%23" target="weibo">
-建议大家不要在床上乱蹦（热度：513792）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E7%9B%B2%E6%96%87%E5%8D%B7%E8%A6%81%E8%80%83225%E5%88%86%E9%92%9F%23" target="weibo">
+高考语文盲文卷要考225分钟（热度：521277）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E8%A7%81%E8%AF%81%E4%BA%8614%E5%B1%8A%E9%AB%98%E8%80%83%23" target="weibo">
-邓超孙俪见证了14届高考（热度：505256）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%BA%8A%E4%B8%8A%E4%B9%B1%E8%B9%A6%23" target="weibo">
+建议大家不要在床上乱蹦（热度：513792）
 </a>
 </li>
 
@@ -143,12 +149,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E7%BB%93%E5%A9%9A14%E5%91%A8%E5%B9%B4%23" target="weibo">
 邓超孙俪结婚14周年（热度：478547）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E7%9B%B2%E6%96%87%E5%8D%B7%E8%A6%81%E8%80%83225%E5%88%86%E9%92%9F%23" target="weibo">
-高考语文盲文卷要考225分钟（热度：476205）
 </a>
 </li>
 
@@ -201,14 +201,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%88%90%E7%BB%A9%E5%90%97%23" target="weibo">
-你记得高考语文成绩吗（热度：442182）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E4%B8%96%E7%95%8C%E4%B8%8A%E5%BF%8D%E8%80%90%E6%80%A7%E6%9C%80%E5%BC%BA%E7%9A%84%E5%A5%B3%E4%BA%BA%23" target="weibo">
+孙俪世界上忍耐性最强的女人（热度：445428）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E4%B8%96%E7%95%8C%E4%B8%8A%E5%BF%8D%E8%80%90%E6%80%A7%E6%9C%80%E5%BC%BA%E7%9A%84%E5%A5%B3%E4%BA%BA%23" target="weibo">
-孙俪世界上忍耐性最强的女人（热度：433859）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%AE%B0%E5%BE%97%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E6%88%90%E7%BB%A9%E5%90%97%23" target="weibo">
+你记得高考语文成绩吗（热度：442182）
 </a>
 </li>
 
@@ -261,6 +261,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC1%E5%A4%A9%23" target="weibo">
+2024年高考第1天（热度：329065）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E5%85%AD%E6%97%AC%E8%80%81%E6%B1%89%E8%B5%9A%E9%92%B1%E4%B8%8D%E6%98%93%23" target="weibo">
 吴镇宇六旬老汉赚钱不易（热度：326405）
 </a>
@@ -275,6 +281,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%87%BA%E5%8F%91%E6%B3%95%E7%BD%91%E5%85%AC%E5%BC%80%E8%B5%9B%23" target="weibo">
 王一博出发法网公开赛（热度：313346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80%E5%92%8C%E5%A4%A7%E5%9B%9B%E7%9C%9F%E7%9A%84%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5%23" target="weibo">
+大一和大四真的一眼就能看出来（热度：302211）
 </a>
 </li>
 
@@ -303,6 +315,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23985211%E8%AD%A6%E8%BD%A6%E5%BF%99%E4%B8%8D%E8%BF%87%E6%9D%A5%E4%BA%86%23" target="weibo">
+985211警车忙不过来了（热度：262547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E5%A4%A9%23" target="weibo">
 高考第一天（热度：262371）
 </a>
@@ -327,6 +345,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8D%81%E4%BA%94%E5%B2%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%23" target="weibo">
+王星越十五岁上大学（热度：258995）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD7%E6%AF%940%E6%96%B0%E5%8A%A0%E5%9D%A1%23" target="weibo">
 韩国7比0新加坡（热度：256226）
 </a>
@@ -339,14 +363,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80%E5%92%8C%E5%A4%A7%E5%9B%9B%E7%9C%9F%E7%9A%84%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%83%BD%E7%9C%8B%E5%87%BA%E6%9D%A5%23" target="weibo">
-大一和大四真的一眼就能看出来（热度：245804）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A02%E6%B2%A1%E6%9C%89%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%23" target="weibo">
+楚乔传2没有赵丽颖林更新（热度：244136）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A02%E6%B2%A1%E6%9C%89%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%23" target="weibo">
-楚乔传2没有赵丽颖林更新（热度：244136）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E9%97%AE%E5%AF%BC%E6%BC%94%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E4%BA%B2%E4%B8%8A%E5%8E%BB%E5%90%97%23" target="weibo">
+王星越问导演可以直接亲上去吗（热度：241379）
 </a>
 </li>
 
@@ -459,6 +483,12 @@ IU捡了只洞洞鞋（热度：187812）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E8%B5%B0%E9%94%99%E8%80%83%E5%9C%BA%E7%9A%84%E4%BA%BA%E9%95%BF%E5%A4%A7%E4%BA%86%23" target="weibo">
+当年走错考场的人长大了（热度：186649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%A6%9C%E5%AD%97%E5%86%99%E9%94%99%23" target="weibo">
 孟美岐榜字写错（热度：186205）
 </a>
@@ -473,6 +503,18 @@ IU捡了只洞洞鞋（热度：187812）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%BF%85%E8%A6%81%E4%B8%BA%E4%B8%89%E4%BA%94%E5%B9%B4%E5%90%8E%E7%9A%84%E5%89%8D%E9%80%94%E6%8B%85%E5%BF%A7%23" target="weibo">
 没必要为三五年后的前途担忧（热度：183735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%20%E5%9B%9B%E5%A4%A9%23" target="weibo">
+高考 四天（热度：179086）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%96%8712%E5%88%86%23" target="weibo">
+欧文12分（热度：176185）
 </a>
 </li>
 
@@ -507,12 +549,6 @@ IU捡了只洞洞鞋（热度：187812）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%20%E5%9B%9B%E5%A4%A9%23" target="weibo">
-高考 四天（热度：166445）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Rookie%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%83%BD%E6%9C%89%E5%A5%BD%E7%BB%93%E6%9E%9C%23" target="weibo">
 Rookie希望大家都能有好结果（热度：166267）
 </a>
@@ -539,12 +575,6 @@ Rookie希望大家都能有好结果（热度：166267）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E5%8F%91%E5%B1%95%E6%88%90%E8%83%83%E7%99%8C%E7%9A%845%E4%B8%AA%E5%89%8D%E5%85%86%23" target="weibo">
 胃病发展成胃癌的5个前兆（热度：161773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E9%AB%98%E8%80%83%E7%AC%AC1%E5%A4%A9%23" target="weibo">
-2024年高考第1天（热度：157961）
 </a>
 </li>
 
@@ -615,6 +645,12 @@ WekiMeki官宣解散（热度：153067）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%B0%91%E5%B7%A5%E5%A7%94%E5%8F%91%E5%B8%83%E7%BA%A2%E9%A2%86%E5%B7%BE%E4%BD%A9%E6%88%B4%E6%96%B9%E6%B3%95%E8%AF%B4%E6%98%8E%23" target="weibo">
+全国少工委发布红领巾佩戴方法说明（热度：145233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%236%E6%88%90%E7%94%B7%E6%80%A7%E9%98%B2%E6%99%92%E8%A1%A3%E8%A2%AB%E5%A5%B3%E6%80%A7%E4%B9%B0%E8%B5%B0%23" target="weibo">
 6成男性防晒衣被女性买走（热度：144543）
 </a>
@@ -627,14 +663,14 @@ WekiMeki官宣解散（热度：153067）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%BD%E5%83%8F%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84%E5%88%86%E6%B0%B4%E5%B2%AD%23" target="weibo">
-25岁好像是人生的分水岭（热度：143476）
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E8%8C%83%E5%BF%97%E6%AF%85%E6%9D%A5%E7%9C%8BNBA%E4%BA%86%23" target="weibo">
+郭艾伦范志毅来看NBA了（热度：144239）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%96%8712%E5%88%86%23" target="weibo">
-欧文12分（热度：142785）
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%BD%E5%83%8F%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84%E5%88%86%E6%B0%B4%E5%B2%AD%23" target="weibo">
+25岁好像是人生的分水岭（热度：143476）
 </a>
 </li>
 
@@ -705,8 +741,8 @@ WekiMeki官宣解散（热度：153067）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8D%81%E4%BA%94%E5%B2%81%E4%B8%8A%E5%A4%A7%E5%AD%A6%23" target="weibo">
-王星越十五岁上大学（热度：123874）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%AD%E7%A7%8D%E9%AB%98%E8%80%83%E4%BA%BA%E6%95%B0%E6%8C%81%E7%BB%AD%E5%A2%9E%E9%95%BF%23" target="weibo">
+小语种高考人数持续增长（热度：121976）
 </a>
 </li>
 
@@ -731,12 +767,6 @@ WekiMeki官宣解散（热度：153067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC28%E6%AC%A1%E9%AB%98%E8%80%83%23" target="weibo">
 梁实第28次高考（热度：119178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E8%8C%83%E5%BF%97%E6%AF%85%E6%9D%A5%E7%9C%8BNBA%E4%BA%86%23" target="weibo">
-郭艾伦范志毅来看NBA了（热度：116859）
 </a>
 </li>
 
@@ -851,12 +881,6 @@ WekiMeki官宣解散（热度：153067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E9%AB%98%E8%80%83%E6%89%A7%E5%8B%A4%E6%AF%8D%E6%A0%A1%E5%A4%96%E7%BB%99%E6%81%A9%E5%B8%88%E7%8C%AE%E8%8A%B1%23" target="weibo">
 民警高考执勤母校外给恩师献花（热度：80030）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%AF%AD%E7%A7%8D%E9%AB%98%E8%80%83%E4%BA%BA%E6%95%B0%E6%8C%81%E7%BB%AD%E5%A2%9E%E9%95%BF%23" target="weibo">
-小语种高考人数持续增长（热度：79927）
 </a>
 </li>
 
@@ -1049,6 +1073,12 @@ WekiMeki官宣解散（热度：153067）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9%E5%90%A7%E6%88%91%E4%BB%AC%E5%9C%A8%E5%86%9B%E6%A0%A1%E7%AD%89%E4%BD%A0%23" target="weibo">
 高考加油吧我们在军校等你（热度：13869）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AE%B0%E8%80%85%E4%BD%93%E9%AA%8C%E5%8D%B0%E5%BA%A650%E5%BA%A6%E9%AB%98%E6%B8%A9%23" target="weibo">
+法国记者体验印度50度高温（热度：13640）
 </a>
 </li>
 

@@ -1,7 +1,15 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717730548492,
+  "endTime": 1717731378104,
   "band_list": [
+    {
+      "raw_hot": 25424223,
+      "num": 25424223,
+      "word": "高考作文",
+      "onboard_time": 1717729999,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 5921224,
       "num": 681565,
@@ -35,11 +43,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3731161,
-      "num": 3731161,
-      "word": "高考作文",
+      "raw_hot": 3089096,
+      "num": 3089096,
+      "word": "高考语文",
       "onboard_time": 1717729999,
-      "rank": 0,
+      "rank": 4,
       "category": "教育"
     },
     {
@@ -201,14 +209,6 @@
       "onboard_time": 1717422559,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1846504,
-      "num": 1846504,
-      "word": "高考语文",
-      "onboard_time": 1717729999,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 1838639,
@@ -2011,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 696144,
+      "num": 696144,
+      "word": "17岁女孩酷似87版林黛玉",
+      "onboard_time": 1717728617,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 695719,
       "num": 695719,
       "word": "我和专八离婚了",
@@ -2403,6 +2411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629031,
+      "num": 505256,
+      "word": "邓超孙俪见证了14届高考",
+      "onboard_time": 1717729038,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 626963,
       "num": 626963,
       "word": "提涨薪1000元都被拒该不该走",
@@ -2473,14 +2489,6 @@
       "onboard_time": 1717336401,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 616197,
-      "num": 616197,
-      "word": "17岁女孩酷似87版林黛玉",
-      "onboard_time": 1717728617,
-      "rank": 5,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 614816,
@@ -3195,6 +3203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521277,
+      "num": 521277,
+      "word": "高考语文盲文卷要考225分钟",
+      "onboard_time": 1717728799,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 520876,
       "num": 520876,
       "word": "杨紫 女性一定要有自己的事业",
@@ -3329,14 +3345,6 @@
       "onboard_time": 1717518255,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 505256,
-      "num": 505256,
-      "word": "邓超孙俪见证了14届高考",
-      "onboard_time": 1717729038,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 505141,
@@ -3625,14 +3633,6 @@
       "onboard_time": 1717468456,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476205,
-      "num": 476205,
-      "word": "高考语文盲文卷要考225分钟",
-      "onboard_time": 1717728799,
-      "rank": 12,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 475854,
@@ -3947,6 +3947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445428,
+      "num": 433859,
+      "word": "孙俪世界上忍耐性最强的女人",
+      "onboard_time": 1717729158,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444833,
       "num": 444833,
       "word": "种地吧第二届感恩音乐会",
@@ -4096,14 +4104,6 @@
       "word": "刘诗诗 BobbiBrown",
       "onboard_time": 1717386319,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 433859,
-      "num": 433859,
-      "word": "孙俪世界上忍耐性最强的女人",
-      "onboard_time": 1717729158,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -5499,6 +5499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329065,
+      "num": 2963128,
+      "word": "2024年高考第1天",
+      "onboard_time": 1717728976,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 328627,
       "num": 328627,
       "word": "花少新加坡站",
@@ -5937,6 +5945,14 @@
       "onboard_time": 1717289656,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 302211,
+      "num": 257694,
+      "word": "大一和大四真的一眼就能看出来",
+      "onboard_time": 1717729519,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 301903,
@@ -6771,6 +6787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262547,
+      "num": 262547,
+      "word": "985211警车忙不过来了",
+      "onboard_time": 1717730720,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262371,
       "num": 262371,
       "word": "高考第一天",
@@ -6857,6 +6881,14 @@
       "onboard_time": 1717396279,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258995,
+      "num": 258995,
+      "word": "王星越十五岁上大学",
+      "onboard_time": 1717730420,
+      "rank": 47,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 258354,
@@ -7179,14 +7211,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 245804,
-      "num": 245804,
-      "word": "大一和大四真的一眼就能看出来",
-      "onboard_time": 1717729519,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 245545,
       "num": 245545,
       "word": "真的会越说越老",
@@ -7249,6 +7273,14 @@
       "onboard_time": 1717500677,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241379,
+      "num": 241379,
+      "word": "王星越问导演可以直接亲上去吗",
+      "onboard_time": 1717730601,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 241291,
@@ -9811,6 +9843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186649,
+      "num": 186649,
+      "word": "当年走错考场的人长大了",
+      "onboard_time": 1717730661,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186501,
       "num": 164129,
       "word": "肖战藏海反差感",
@@ -10187,6 +10227,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179086,
+      "num": 179086,
+      "word": "高考 四天",
+      "onboard_time": 1717730059,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178989,
       "num": 178989,
       "word": "中国女篮vs日本女篮",
@@ -10377,6 +10425,14 @@
       "onboard_time": 1717675998,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176185,
+      "num": 176185,
+      "word": "欧文12分",
+      "onboard_time": 1717730420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 176168,
@@ -10979,14 +11035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166445,
-      "num": 166445,
-      "word": "高考 四天",
-      "onboard_time": 1717730059,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 166415,
       "num": 166415,
       "word": "惠若琪说女排得分手段损失掉了",
@@ -11545,14 +11593,6 @@
       "onboard_time": 1717378638,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157961,
-      "num": 2670014,
-      "word": "2024年高考第1天",
-      "onboard_time": 1717728976,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 157788,
@@ -12451,6 +12491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145233,
+      "num": 145233,
+      "word": "全国少工委发布红领巾佩戴方法说明",
+      "onboard_time": 1717731082,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145140,
       "num": 145140,
       "word": "国乒再次包揽冠亚军",
@@ -12563,6 +12611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144239,
+      "num": 144239,
+      "word": "郭艾伦范志毅来看NBA了",
+      "onboard_time": 1717730480,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144045,
       "num": 144045,
       "word": "香港人的特种兵旅游正在挤爆深圳",
@@ -12617,14 +12673,6 @@
       "onboard_time": 1717212917,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142785,
-      "num": 142785,
-      "word": "欧文12分",
-      "onboard_time": 1717730420,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 142754,
@@ -14091,14 +14139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123874,
-      "num": 123874,
-      "word": "王星越十五岁上大学",
-      "onboard_time": 1717730420,
-      "rank": 47,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 123803,
       "num": 123803,
       "word": "减肥主食分为3个黄金等级",
@@ -14225,6 +14265,14 @@
       "onboard_time": 1717201697,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121976,
+      "num": 507489,
+      "word": "小语种高考人数持续增长",
+      "onboard_time": 1717729218,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 121970,
@@ -14609,14 +14657,6 @@
       "onboard_time": 1717577957,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116859,
-      "num": 116859,
-      "word": "郭艾伦范志毅来看NBA了",
-      "onboard_time": 1717730480,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 116689,
@@ -16408,14 +16448,6 @@
       "word": "民警高考执勤母校外给恩师献花",
       "onboard_time": 1717728077,
       "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 79927,
-      "num": 507489,
-      "word": "小语种高考人数持续增长",
-      "onboard_time": 1717729218,
-      "rank": 9,
       "category": "社会新闻,教育"
     },
     {
@@ -18681,6 +18713,14 @@
       "onboard_time": 1717705570,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13640,
+      "num": 187001,
+      "word": "法国记者体验印度50度高温",
+      "onboard_time": 1717730963,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13530,

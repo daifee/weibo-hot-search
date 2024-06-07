@@ -1,7 +1,15 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717730548492,
+  "endTime": 1717731378104,
   "band_list": [
+    {
+      "raw_hot": 25424223,
+      "num": 25424223,
+      "word": "高考作文",
+      "onboard_time": 1717729999,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 4887908,
       "num": 4887908,
@@ -11,11 +19,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 3731161,
-      "num": 3731161,
-      "word": "高考作文",
+      "raw_hot": 3089096,
+      "num": 3089096,
+      "word": "高考语文",
       "onboard_time": 1717729999,
-      "rank": 0,
+      "rank": 4,
       "category": "教育"
     },
     {
@@ -32,14 +40,6 @@
       "word": "高考第一题你还能拿下吗",
       "onboard_time": 1717726518,
       "rank": 10,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 1846504,
-      "num": 1846504,
-      "word": "高考语文",
-      "onboard_time": 1717729999,
-      "rank": 4,
       "category": "教育"
     },
     {
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 696144,
+      "num": 696144,
+      "word": "17岁女孩酷似87版林黛玉",
+      "onboard_time": 1717728617,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 687221,
       "num": 568402,
       "word": "奶奶去世后第一次在她的屋子看电视",
@@ -99,12 +107,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 616197,
-      "num": 616197,
-      "word": "17岁女孩酷似87版林黛玉",
-      "onboard_time": 1717728617,
-      "rank": 5,
-      "category": "社会新闻,艺人"
+      "raw_hot": 629031,
+      "num": 505256,
+      "word": "邓超孙俪见证了14届高考",
+      "onboard_time": 1717729038,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 574890,
@@ -147,20 +155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521277,
+      "num": 521277,
+      "word": "高考语文盲文卷要考225分钟",
+      "onboard_time": 1717728799,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 513792,
       "num": 249639,
       "word": "建议大家不要在床上乱蹦",
       "onboard_time": 1717695972,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 505256,
-      "num": 505256,
-      "word": "邓超孙俪见证了14届高考",
-      "onboard_time": 1717729038,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 489850,
@@ -177,14 +185,6 @@
       "onboard_time": 1717727177,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 476205,
-      "num": 476205,
-      "word": "高考语文盲文卷要考225分钟",
-      "onboard_time": 1717728799,
-      "rank": 12,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 470308,
@@ -251,20 +251,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 445428,
+      "num": 433859,
+      "word": "孙俪世界上忍耐性最强的女人",
+      "onboard_time": 1717729158,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442182,
       "num": 442182,
       "word": "你记得高考语文成绩吗",
       "onboard_time": 1717726337,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 433859,
-      "num": 433859,
-      "word": "孙俪世界上忍耐性最强的女人",
-      "onboard_time": 1717729158,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 421074,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329065,
+      "num": 2963128,
+      "word": "2024年高考第1天",
+      "onboard_time": 1717728976,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 326405,
       "num": 326405,
       "word": "吴镇宇六旬老汉赚钱不易",
@@ -353,6 +361,14 @@
       "onboard_time": 1717721119,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 302211,
+      "num": 257694,
+      "word": "大一和大四真的一眼就能看出来",
+      "onboard_time": 1717729519,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 298485,
@@ -384,6 +400,14 @@
       "word": "尾号6666666手机号拍卖估值160多万元",
       "onboard_time": 1717688359,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262547,
+      "num": 262547,
+      "word": "985211警车忙不过来了",
+      "onboard_time": 1717730720,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -419,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 258995,
+      "num": 258995,
+      "word": "王星越十五岁上大学",
+      "onboard_time": 1717730420,
+      "rank": 47,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 256226,
       "num": 256226,
       "word": "韩国7比0新加坡",
@@ -435,19 +467,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 245804,
-      "num": 245804,
-      "word": "大一和大四真的一眼就能看出来",
-      "onboard_time": 1717729519,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 244136,
       "num": 244136,
       "word": "楚乔传2没有赵丽颖林更新",
       "onboard_time": 1717664839,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241379,
+      "num": 241379,
+      "word": "王星越问导演可以直接亲上去吗",
+      "onboard_time": 1717730601,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -595,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186649,
+      "num": 186649,
+      "word": "当年走错考场的人长大了",
+      "onboard_time": 1717730661,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186205,
       "num": 144872,
       "word": "孟美岐榜字写错",
@@ -617,6 +657,22 @@
       "onboard_time": 1717723157,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179086,
+      "num": 179086,
+      "word": "高考 四天",
+      "onboard_time": 1717730059,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 176185,
+      "num": 176185,
+      "word": "欧文12分",
+      "onboard_time": 1717730420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 175323,
@@ -659,14 +715,6 @@
       "category": "艺人,教育"
     },
     {
-      "raw_hot": 166445,
-      "num": 166445,
-      "word": "高考 四天",
-      "onboard_time": 1717730059,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 166267,
       "num": 166267,
       "word": "Rookie希望大家都能有好结果",
@@ -705,14 +753,6 @@
       "onboard_time": 1717714934,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 157961,
-      "num": 2670014,
-      "word": "2024年高考第1天",
-      "onboard_time": 1717728976,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 157623,
@@ -803,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145233,
+      "num": 145233,
+      "word": "全国少工委发布红领巾佩戴方法说明",
+      "onboard_time": 1717731082,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144543,
       "num": 144543,
       "word": "6成男性防晒衣被女性买走",
@@ -819,20 +867,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 144239,
+      "num": 144239,
+      "word": "郭艾伦范志毅来看NBA了",
+      "onboard_time": 1717730480,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "25岁好像是人生的分水岭",
       "onboard_time": 1717717037,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 142785,
-      "num": 142785,
-      "word": "欧文12分",
-      "onboard_time": 1717730420,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 141128,
@@ -923,12 +971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123874,
-      "num": 123874,
-      "word": "王星越十五岁上大学",
-      "onboard_time": 1717730420,
-      "rank": 47,
-      "category": "艺人,教育"
+      "raw_hot": 121976,
+      "num": 507489,
+      "word": "小语种高考人数持续增长",
+      "onboard_time": 1717729218,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 121742,
@@ -961,14 +1009,6 @@
       "onboard_time": 1717723098,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116859,
-      "num": 116859,
-      "word": "郭艾伦范志毅来看NBA了",
-      "onboard_time": 1717730480,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 115893,
@@ -1120,14 +1160,6 @@
       "word": "民警高考执勤母校外给恩师献花",
       "onboard_time": 1717728077,
       "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 79927,
-      "num": 507489,
-      "word": "小语种高考人数持续增长",
-      "onboard_time": 1717729218,
-      "rank": 9,
       "category": "社会新闻,教育"
     },
     {
@@ -1385,6 +1417,14 @@
       "onboard_time": 1717705570,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13640,
+      "num": 187001,
+      "word": "法国记者体验印度50度高温",
+      "onboard_time": 1717730963,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13530,

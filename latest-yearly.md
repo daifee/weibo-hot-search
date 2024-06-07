@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 11:22:28
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 11:36:18
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
+高考作文（热度：25424223）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E4%BB%B7%E6%A0%BC%23" target="weibo">
@@ -1247,12 +1253,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%95%8A%23" target="weibo">
 微博之夜好多人啊（热度：3754280）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
-高考作文（热度：3731161）
 </a>
 </li>
 
