@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717760068402,
+  "endTime": 1717763814920,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -59,6 +59,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3188468,
+      "num": 3188468,
+      "word": "歌手直播",
+      "onboard_time": 1717761497,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3119045,
+      "num": 3119045,
+      "word": "汪苏泷 舒适圈",
+      "onboard_time": 1717763180,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2380252,
       "num": 2380252,
       "word": "全国第一个直播高考的人",
@@ -99,6 +115,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1719375,
+      "num": 1719375,
+      "word": "韦神 是不是你出的题",
+      "onboard_time": 1717758438,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1712517,
+      "num": 323518,
+      "word": "黄宣汪苏泷主持",
+      "onboard_time": 1717762819,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1551516,
       "num": 1551516,
       "word": "新高考一卷默写",
@@ -129,6 +161,14 @@
       "onboard_time": 1717732703,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1248047,
+      "num": 1248047,
+      "word": "李晋晔 东方树叶",
+      "onboard_time": 1717761560,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1229619,
@@ -179,12 +219,28 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 1108514,
+      "num": 308252,
+      "word": "玄彬孙艺珍出售婚房",
+      "onboard_time": 1717760358,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1100941,
       "num": 657316,
       "word": "北电毕业照没有张子枫",
       "onboard_time": 1717734323,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1084221,
+      "num": 303945,
+      "word": "何炅缺席",
+      "onboard_time": 1717762579,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1067327,
@@ -209,14 +265,6 @@
       "onboard_time": 1717715955,
       "rank": 47,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 968566,
-      "num": 968566,
-      "word": "韦神 是不是你出的题",
-      "onboard_time": 1717758438,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 884612,
@@ -361,6 +409,14 @@
       "onboard_time": 1717736481,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 617844,
+      "num": 391829,
+      "word": "王一博要求黑粉公开道歉",
+      "onboard_time": 1717759458,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 615302,
@@ -515,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 493901,
-      "num": 391829,
-      "word": "王一博要求黑粉公开道歉",
-      "onboard_time": 1717759458,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 489850,
       "num": 489850,
       "word": "高考时间",
@@ -667,6 +715,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 426111,
+      "num": 198296,
+      "word": "张钰琪挑战谁",
+      "onboard_time": 1717763360,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425172,
       "num": 425172,
       "word": "25届好紧张",
@@ -705,6 +761,14 @@
       "onboard_time": 1717735043,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 418612,
+      "num": 194824,
+      "word": "孙楠后台安慰汪苏泷",
+      "onboard_time": 1717761078,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 412847,
@@ -843,6 +907,14 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 354445,
+      "num": 305931,
+      "word": "歌手歌单",
+      "onboard_time": 1717739238,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354357,
       "num": 345302,
       "word": "为啥大多数清北家长教不出清北孩子",
@@ -955,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 305931,
-      "num": 305931,
-      "word": "歌手歌单",
-      "onboard_time": 1717739238,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 302211,
       "num": 257694,
       "word": "大一和大四真的一眼就能看出来",
@@ -1025,6 +1089,14 @@
       "onboard_time": 1717750879,
       "rank": 23,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 281266,
+      "num": 281266,
+      "word": "老师的985车牌快被摸秃噜皮了",
+      "onboard_time": 1717759697,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276991,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1717727657,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 247514,
+      "num": 203139,
+      "word": "恋爱兄妹",
+      "onboard_time": 1717759458,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 244136,
@@ -1483,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203139,
-      "num": 203139,
-      "word": "恋爱兄妹",
-      "onboard_time": 1717759458,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202089,
       "num": 202089,
       "word": "手机AI写高考作文哪家强",
@@ -1667,6 +1739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 183974,
+      "num": 183974,
+      "word": "首尔偶遇赵露思逛街",
+      "onboard_time": 1717763780,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183735,
       "num": 183735,
       "word": "没必要为三五年后的前途担忧",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1717755918,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177183,
+      "num": 177183,
+      "word": "Langx爆料Cube已离队",
+      "onboard_time": 1717763059,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 176185,
@@ -1971,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155649,
+      "num": 155649,
+      "word": "张予曦狐狸面具",
+      "onboard_time": 1717760478,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155499,
       "num": 155499,
       "word": "高考前一天收到了去世太姥姥的祝福",
@@ -2075,6 +2171,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146908,
+      "num": 146130,
+      "word": "白鹿变泥鹿",
+      "onboard_time": 1717762159,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146514,
+      "num": 146514,
+      "word": "LNG对战TES",
+      "onboard_time": 1717762520,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146373,
       "num": 146373,
       "word": "小米汽车紧急招工",
@@ -2091,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145276,
+      "num": 145276,
+      "word": "奔跑吧",
+      "onboard_time": 1717761678,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145257,
       "num": 145257,
       "word": "留学生怎么6馍",
@@ -2105,6 +2225,14 @@
       "onboard_time": 1717731082,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145096,
+      "num": 145096,
+      "word": "清清请假一周",
+      "onboard_time": 1717760897,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 144543,
@@ -2379,11 +2507,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115037,
-      "num": 115037,
-      "word": "老师的985车牌快被摸秃噜皮了",
-      "onboard_time": 1717759697,
-      "rank": 47,
+      "raw_hot": 113166,
+      "num": 113166,
+      "word": "四川一考场现2米23真高考生",
+      "onboard_time": 1717762098,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -2425,6 +2553,14 @@
       "onboard_time": 1717681700,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99881,
+      "num": 132078,
+      "word": "福宝马上要搬新家了",
+      "onboard_time": 1717763718,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97333,
@@ -2481,6 +2617,14 @@
       "onboard_time": 1717669339,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86208,
+      "num": 104684,
+      "word": "加油2024高考",
+      "onboard_time": 1717760897,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 85314,
@@ -2660,7 +2804,7 @@
     },
     {
       "raw_hot": 65573,
-      "num": 2469923,
+      "num": 3149371,
       "word": "我国首个液体通用型火箭发射工位竣工",
       "onboard_time": 1717751960,
       "rank": 2,
@@ -2761,6 +2905,14 @@
       "onboard_time": 1717756397,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38528,
+      "num": 315032,
+      "word": "考场外神仙家长让人一秒破防",
+      "onboard_time": 1717762399,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 38351,
