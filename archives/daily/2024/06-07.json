@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717752879375,
+  "endTime": 1717755631618,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -72,6 +72,22 @@
       "word": "高考第一题你还能拿下吗",
       "onboard_time": 1717726518,
       "rank": 10,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2012394,
+      "num": 2012394,
+      "word": "数学 我恨你",
+      "onboard_time": 1717752801,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1990095,
+      "num": 1990095,
+      "word": "新一卷数学 大题难",
+      "onboard_time": 1717752622,
+      "rank": 5,
       "category": "教育"
     },
     {
@@ -243,14 +259,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 720280,
-      "num": 720280,
-      "word": "新一卷数学 大题难",
-      "onboard_time": 1717752622,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 714550,
       "num": 987781,
       "word": "高考语文盲文卷要考225分钟",
@@ -273,6 +281,14 @@
       "onboard_time": 1717743738,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 699597,
+      "num": 699597,
+      "word": "一对日本母女在渡轮遭遇神隐",
+      "onboard_time": 1717750519,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696144,
@@ -307,6 +323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 641376,
+      "num": 641376,
+      "word": "考完数学已老实",
+      "onboard_time": 1717753880,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 638466,
       "num": 638466,
       "word": "让高中生写AI",
@@ -331,12 +355,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 590556,
+      "num": 590556,
+      "word": "高考数学答案",
+      "onboard_time": 1717754000,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 587483,
       "num": 587483,
       "word": "永远记得本手妙手俗手",
       "onboard_time": 1717732285,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 581481,
+      "num": 343820,
+      "word": "金晨下衣失踪",
+      "onboard_time": 1717749558,
+      "rank": 20,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 577036,
@@ -417,22 +457,6 @@
       "onboard_time": 1717742360,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 504619,
-      "num": 343820,
-      "word": "金晨下衣失踪",
-      "onboard_time": 1717749558,
-      "rank": 20,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 500552,
-      "num": 500552,
-      "word": "数学 我恨你",
-      "onboard_time": 1717752801,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 495683,
@@ -579,6 +603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 438881,
+      "num": 438881,
+      "word": "新二卷数学 看似简单不会做",
+      "onboard_time": 1717754419,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 433965,
       "num": 433965,
       "word": "王星越十五岁上大学",
@@ -659,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380152,
+      "num": 281574,
+      "word": "何洁路人缘",
+      "onboard_time": 1717752142,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371533,
       "num": 371533,
       "word": "35岁再考清华当事人称语文考崩了",
@@ -673,6 +713,14 @@
       "onboard_time": 1717740919,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 364402,
+      "num": 364402,
+      "word": "18斤榴莲复秤仅8斤",
+      "onboard_time": 1717752622,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 361698,
@@ -737,14 +785,6 @@
       "onboard_time": 1717699152,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346474,
-      "num": 346474,
-      "word": "一对日本母女在渡轮遭遇神隐",
-      "onboard_time": 1717750519,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336062,
@@ -883,14 +923,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 281574,
-      "num": 281574,
-      "word": "何洁路人缘",
-      "onboard_time": 1717752142,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276991,
       "num": 276991,
       "word": "肖战大学是设计专业的",
@@ -913,6 +945,14 @@
       "onboard_time": 1717750577,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 272283,
+      "num": 272283,
+      "word": "甲卷数学 算不完",
+      "onboard_time": 1717754299,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 272232,
@@ -1115,6 +1155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 234537,
+      "num": 234537,
+      "word": "黑神话",
+      "onboard_time": 1717752921,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234084,
       "num": 234084,
       "word": "颜心记接档狐妖小红娘月红篇",
@@ -1257,14 +1305,6 @@
       "onboard_time": 1717741338,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208733,
-      "num": 208733,
-      "word": "18斤榴莲复秤仅8斤",
-      "onboard_time": 1717752622,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 208691,
@@ -1491,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182930,
+      "num": 182930,
+      "word": "女大学生考点摆摊拍照每张9.85元",
+      "onboard_time": 1717755079,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179331,
       "num": 179331,
       "word": "原神4.7版本",
@@ -1504,6 +1552,14 @@
       "word": "高考 四天",
       "onboard_time": 1717730059,
       "rank": 36,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 178762,
+      "num": 178762,
+      "word": "上海高考数学 破防",
+      "onboard_time": 1717754000,
+      "rank": 37,
       "category": "教育"
     },
     {
@@ -1747,6 +1803,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 155339,
+      "num": 155339,
+      "word": "infp好像天生就很会共情",
+      "onboard_time": 1717754600,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155017,
       "num": 155017,
       "word": "警方通报抚州干部交通肇事致孕妇身亡",
@@ -1907,12 +1971,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140599,
+      "num": 140599,
+      "word": "厄瓜多尔的蝴蝶",
+      "onboard_time": 1717755019,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 140143,
       "num": 140143,
       "word": "去南极在你的人生todolist里吗",
       "onboard_time": 1717747997,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138133,
+      "num": 138133,
+      "word": "立体几何",
+      "onboard_time": 1717755557,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 137766,
@@ -1937,6 +2017,14 @@
       "onboard_time": 1717689378,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136454,
+      "num": 136454,
+      "word": "黑神话实体收藏版售价1998元",
+      "onboard_time": 1717754659,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 136219,
@@ -2355,6 +2443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 65573,
+      "num": 2469923,
+      "word": "我国首个液体通用型火箭发射工位竣工",
+      "onboard_time": 1717751960,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64584,
       "num": 64584,
       "word": "英格兰欧洲杯26人名单",
@@ -2427,12 +2523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44492,
-      "num": 2469923,
-      "word": "我国首个液体通用型火箭发射工位竣工",
-      "onboard_time": 1717751960,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 44235,
+      "num": 275603,
+      "word": "打工人生产力桌面",
+      "onboard_time": 1717751362,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 41421,
@@ -2491,14 +2587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28613,
-      "num": 275603,
-      "word": "打工人生产力桌面",
-      "onboard_time": 1717751362,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27356,
       "num": 419840,
       "word": "相亲分析师是不是割韭菜",
@@ -2529,6 +2617,14 @@
       "onboard_time": 1717704012,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21823,
+      "num": 214172,
+      "word": "90后小伙一笔一画展汉字之美",
+      "onboard_time": 1717755557,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19533,
@@ -2596,7 +2692,7 @@
     },
     {
       "raw_hot": 12959,
-      "num": 250835,
+      "num": 255532,
       "word": "东阿阿胶把古装热剧包圆了",
       "onboard_time": 1717752261,
       "rank": 31,
@@ -2633,6 +2729,14 @@
       "onboard_time": 1717699152,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7806,
+      "num": 213987,
+      "word": "法国人相约往塞纳河里排便",
+      "onboard_time": 1717755499,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6964,
