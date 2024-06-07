@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717773704177,
+  "endTime": 1717774471077,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -699,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1315106,
+      "num": 1315106,
+      "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
+      "onboard_time": 1717770383,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1306651,
       "num": 1306651,
       "word": "丁真 大家都欲望太强了",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1717334360,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 925463,
-      "num": 925463,
-      "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
-      "onboard_time": 1717770383,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 924063,
@@ -3507,6 +3507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 506164,
+      "num": 383751,
+      "word": "那英 不熟怎么夸啊",
+      "onboard_time": 1717772781,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 505141,
       "num": 505141,
       "word": "墨雨云间 好有张力的拉扯",
@@ -3729,14 +3737,6 @@
       "onboard_time": 1717463298,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 476958,
-      "num": 383751,
-      "word": "那英 不熟怎么夸啊",
-      "onboard_time": 1717772781,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 476887,
@@ -5043,6 +5043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 365516,
+      "num": 384714,
+      "word": "14岁少年强迫他人卖淫进矫正学校",
+      "onboard_time": 1717770502,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365177,
       "num": 214270,
       "word": "向佐问网友有李胜利电话吗",
@@ -5329,14 +5337,6 @@
       "onboard_time": 1717683981,
       "rank": 17,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 348598,
-      "num": 384714,
-      "word": "14岁少年强迫他人卖淫进矫正学校",
-      "onboard_time": 1717770502,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 348557,
@@ -5641,6 +5641,14 @@
       "onboard_time": 1717401439,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 326015,
+      "num": 326015,
+      "word": "汪苏泷第六",
+      "onboard_time": 1717773919,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 325523,
@@ -8051,20 +8059,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220255,
+      "num": 220255,
+      "word": "白鹿与白鹿同框",
+      "onboard_time": 1717772661,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219864,
       "num": 219864,
       "word": "严浩翔长在烤肉摊上了",
       "onboard_time": 1717302078,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 219738,
-      "num": 219738,
-      "word": "白鹿与白鹿同框",
-      "onboard_time": 1717772661,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 219583,
@@ -9043,6 +9051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198587,
+      "num": 198587,
+      "word": "Fine乐团揭榜失败",
+      "onboard_time": 1717772420,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198369,
       "num": 198369,
       "word": "WTT",
@@ -9948,7 +9964,7 @@
     },
     {
       "raw_hot": 184812,
-      "num": 355481,
+      "num": 356985,
       "word": "男生高考数学估分140直呼太简单",
       "onboard_time": 1717769363,
       "rank": 46,
@@ -12235,6 +12251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146260,
+      "num": 198623,
+      "word": "央视网文娱评墨雨云间",
+      "onboard_time": 1717774399,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146222,
       "num": 146222,
       "word": "国足 中场",
@@ -12979,6 +13003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136098,
+      "num": 253244,
+      "word": "科学家称可能存在一个反宇宙",
+      "onboard_time": 1717772840,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 136059,
       "num": 136059,
       "word": "王大雷怒吼",
@@ -13681,14 +13713,6 @@
       "onboard_time": 1717402218,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 126111,
-      "num": 214758,
-      "word": "科学家称可能存在一个反宇宙",
-      "onboard_time": 1717772840,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 125716,
@@ -14595,6 +14619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113093,
+      "num": 388805,
+      "word": "墨雨云间老墨我想吃雨了",
+      "onboard_time": 1717770862,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112802,
       "num": 112802,
       "word": "床垫膜到底用不用撕掉",
@@ -15009,14 +15041,6 @@
       "onboard_time": 1717608014,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106450,
-      "num": 388805,
-      "word": "墨雨云间老墨我想吃雨了",
-      "onboard_time": 1717770862,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 106369,
@@ -17003,6 +17027,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 45102,
+      "num": 2700168,
+      "word": "中华文化传承发展新华章",
+      "onboard_time": 1717770623,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44235,
       "num": 275603,
       "word": "打工人生产力桌面",
@@ -17065,14 +17097,6 @@
       "onboard_time": 1717608254,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42807,
-      "num": 2700168,
-      "word": "中华文化传承发展新华章",
-      "onboard_time": 1717770623,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42758,

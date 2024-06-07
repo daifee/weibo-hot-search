@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 23:21:44
+本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 23:34:31
 </p>
 </blockquote>
 <p>
@@ -195,6 +195,12 @@ fine乐团能不能留下（热度：2043691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%E7%88%B7%E7%88%B7%E4%BB%8D%E6%98%8F%E8%BF%B7%23" target="weibo">
+少年目睹爷爷被打后投河身亡爷爷仍昏迷（热度：1315106）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8D%B7%20%E6%8A%BD%E8%B1%A1%23" target="weibo">
 上海卷 抽象（热度：1288954）
 </a>
@@ -305,12 +311,6 @@ fine乐团能不能留下（热度：2043691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B3%89%E6%BC%8F%E4%BA%86%E5%BC%A0%E9%92%B0%E7%90%AA%23" target="weibo">
 海泉漏了张钰琪（热度：980155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%E7%88%B7%E7%88%B7%E4%BB%8D%E6%98%8F%E8%BF%B7%23" target="weibo">
-少年目睹爷爷被打后投河身亡爷爷仍昏迷（热度：925463）
 </a>
 </li>
 
@@ -603,6 +603,12 @@ AI写AI（热度：545645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E4%B8%8D%E7%86%9F%E6%80%8E%E4%B9%88%E5%A4%B8%E5%95%8A%23" target="weibo">
+那英 不熟怎么夸啊（热度：506164）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AFIP%E6%AD%A3%E7%A1%AE%E6%89%8B%E5%8A%BF%E6%AD%A3%E7%A1%AE%23" target="weibo">
 王俊凯IP正确手势正确（热度：495683）
 </a>
@@ -629,12 +635,6 @@ AI写AI（热度：545645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E7%BB%93%E5%A9%9A14%E5%91%A8%E5%B9%B4%23" target="weibo">
 邓超孙俪结婚14周年（热度：478547）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E4%B8%8D%E7%86%9F%E6%80%8E%E4%B9%88%E5%A4%B8%E5%95%8A%23" target="weibo">
-那英 不熟怎么夸啊（热度：476958）
 </a>
 </li>
 
@@ -843,6 +843,12 @@ ChatGPT来交卷了（热度：423568）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%BA%E8%BF%AB%E4%BB%96%E4%BA%BA%E5%8D%96%E6%B7%AB%E8%BF%9B%E7%9F%AB%E6%AD%A3%E5%AD%A6%E6%A0%A1%23" target="weibo">
+14岁少年强迫他人卖淫进矫正学校（热度：365516）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2318%E6%96%A4%E6%A6%B4%E8%8E%B2%E5%A4%8D%E7%A7%A4%E4%BB%858%E6%96%A4%23" target="weibo">
 18斤榴莲复秤仅8斤（热度：364402）
 </a>
@@ -921,12 +927,6 @@ Langx爆料Cube已离队（热度：357017）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%B0%91%E5%B9%B4%E5%BC%BA%E8%BF%AB%E4%BB%96%E4%BA%BA%E5%8D%96%E6%B7%AB%E8%BF%9B%E7%9F%AB%E6%AD%A3%E5%AD%A6%E6%A0%A1%23" target="weibo">
-14岁少年强迫他人卖淫进矫正学校（热度：348598）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84985%E8%BD%A6%E7%89%8C%E5%BF%AB%E8%A2%AB%E6%91%B8%E7%A7%83%E5%99%9C%E7%9A%AE%E4%BA%86%23" target="weibo">
 老师的985车牌快被摸秃噜皮了（热度：348557）
 </a>
@@ -971,6 +971,12 @@ Langx爆料Cube已离队（热度：357017）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E5%85%AD%E6%97%AC%E8%80%81%E6%B1%89%E8%B5%9A%E9%92%B1%E4%B8%8D%E6%98%93%23" target="weibo">
 吴镇宇六旬老汉赚钱不易（热度：326405）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%AC%AC%E5%85%AD%23" target="weibo">
+汪苏泷第六（热度：326015）
 </a>
 </li>
 
@@ -1348,7 +1354,7 @@ EVA动画制作公司宣布破产（热度：308848）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%8E%E7%99%BD%E9%B9%BF%E5%90%8C%E6%A1%86%23" target="weibo">
-白鹿与白鹿同框（热度：219738）
+白鹿与白鹿同框（热度：220255）
 </a>
 </li>
 
@@ -1481,6 +1487,12 @@ EVA动画制作公司宣布破产（热度：308848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA1%E6%AF%940%E7%8B%AC%E8%A1%8C%E4%BE%A0%23" target="weibo">
 凯尔特人1比0独行侠（热度：200680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Fine%E4%B9%90%E5%9B%A2%E6%8F%AD%E6%A6%9C%E5%A4%B1%E8%B4%A5%23" target="weibo">
+Fine乐团揭榜失败（热度：198587）
 </a>
 </li>
 
@@ -1983,6 +1995,12 @@ LNG对战TES（热度：146514）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E6%96%87%E5%A8%B1%E8%AF%84%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23" target="weibo">
+央视网文娱评墨雨云间（热度：146260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%80%83%E5%9C%BA%E7%8E%B02%E7%B1%B323%E7%9C%9F%E9%AB%98%E8%80%83%E7%94%9F%23" target="weibo">
 四川一考场现2米23真高考生（热度：145666）
 </a>
@@ -2115,6 +2133,12 @@ LNG对战TES（热度：146514）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%AD%98%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%AE%87%E5%AE%99%23" target="weibo">
+科学家称可能存在一个反宇宙（热度：136098）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E8%AF%B4%E7%9A%84%E5%A5%B3%E6%AD%8C%E6%89%8B%E6%98%AF%E8%94%A1%E4%BE%9D%E6%9E%97%E5%90%97%23" target="weibo">
 黄健翔说的女歌手是蔡依林吗（热度：134138）
 </a>
@@ -2171,12 +2195,6 @@ LNG对战TES（热度：146514）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E6%B5%81%E8%90%A4%23" target="weibo">
 星穹铁道流萤（热度：126449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%AD%98%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%AE%87%E5%AE%99%23" target="weibo">
-科学家称可能存在一个反宇宙（热度：126111）
 </a>
 </li>
 
@@ -2259,14 +2277,14 @@ LNG对战TES（热度：146514）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E7%A5%9E%E8%B6%85%E7%A5%9E%E4%BA%86%23" target="weibo">
-波神超神了（热度：109100）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E8%80%81%E5%A2%A8%E6%88%91%E6%83%B3%E5%90%83%E9%9B%A8%E4%BA%86%23" target="weibo">
+墨雨云间老墨我想吃雨了（热度：113093）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E8%80%81%E5%A2%A8%E6%88%91%E6%83%B3%E5%90%83%E9%9B%A8%E4%BA%86%23" target="weibo">
-墨雨云间老墨我想吃雨了（热度：106450）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E7%A5%9E%E8%B6%85%E7%A5%9E%E4%BA%86%23" target="weibo">
+波神超神了（热度：109100）
 </a>
 </li>
 
@@ -2571,6 +2589,12 @@ LNG对战TES（热度：146514）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E4%BC%A0%E6%89%BF%E5%8F%91%E5%B1%95%E6%96%B0%E5%8D%8E%E7%AB%A0%23" target="weibo">
+中华文化传承发展新华章（热度：45102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%A1%8C%E9%9D%A2%23" target="weibo">
 打工人生产力桌面（热度：44235）
 </a>
@@ -2579,12 +2603,6 @@ LNG对战TES（热度：146514）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%8C%97%E4%BA%AC%23" target="weibo">
 万千气象看北京（热度：43037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E4%BC%A0%E6%89%BF%E5%8F%91%E5%B1%95%E6%96%B0%E5%8D%8E%E7%AB%A0%23" target="weibo">
-中华文化传承发展新华章（热度：42807）
 </a>
 </li>
 
