@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717796066099,
+  "endTime": 1717798729724,
   "band_list": [
     {
       "raw_hot": 1441447,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 161630,
+      "num": 161630,
+      "word": "何炅缺席",
+      "onboard_time": 1717762579,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156614,
       "num": 279177,
       "word": "女子替过世6年小姨拥抱高考表弟",
@@ -283,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113530,
-      "num": 113530,
-      "word": "何炅缺席",
-      "onboard_time": 1717762579,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107985,
       "num": 107985,
       "word": "我比张钰琪还紧张",
@@ -329,6 +329,14 @@
       "onboard_time": 1717767862,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85131,
+      "num": 85131,
+      "word": "薛芳菲我不允许任何人忤逆你",
+      "onboard_time": 1717785132,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 83752,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 69363,
-      "num": 37248,
+      "num": 48059,
       "word": "董宇辉小时候被抢过好多次钱",
       "onboard_time": 1717790170,
       "rank": 15,
@@ -387,12 +395,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 57902,
-      "num": 57902,
-      "word": "薛芳菲我不允许任何人忤逆你",
-      "onboard_time": 1717785132,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 62568,
+      "num": 41771,
+      "word": "15岁的郭碧婷学生头模版",
+      "onboard_time": 1717794311,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 56747,
@@ -419,8 +427,16 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 53038,
+      "num": 32819,
+      "word": "莫言曾劝女儿高考前看电视",
+      "onboard_time": 1717797251,
+      "rank": 30,
+      "category": "读书作家,教育"
+    },
+    {
       "raw_hot": 52391,
-      "num": 31528,
+      "num": 31888,
       "word": "关晓彤无袖背心短裤",
       "onboard_time": 1717789812,
       "rank": 34,
@@ -441,6 +457,14 @@
       "onboard_time": 1717785132,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38202,
+      "num": 36439,
+      "word": "56岁邱淑贞状态",
+      "onboard_time": 1717796891,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 36654,
@@ -467,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32932,
-      "num": 26095,
-      "word": "15岁的郭碧婷学生头模版",
-      "onboard_time": 1717794311,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 30644,
+      "num": 30644,
+      "word": "苗苗边看乘风边卷腹",
+      "onboard_time": 1717795691,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 28140,
@@ -483,12 +507,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 21265,
+      "num": 24682,
+      "word": "爸爸带红衣战袍小狗给女儿送考",
+      "onboard_time": 1717797973,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20910,
       "num": 21768,
       "word": "时代少年团做29块9的洗剪吹",
       "onboard_time": 1717786452,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19783,
+      "num": 24621,
+      "word": "宋佳真空V领",
+      "onboard_time": 1717798693,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 19308,
@@ -507,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17139,
+      "num": 24613,
+      "word": "高考送考名场面",
+      "onboard_time": 1717792811,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16753,
       "num": 320054,
       "word": "众多大学校长为高考生送祝福",
@@ -515,20 +563,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 15752,
-      "num": 21602,
-      "word": "高考送考名场面",
-      "onboard_time": 1717792811,
-      "rank": 47,
+      "raw_hot": 14233,
+      "num": 192645,
+      "word": "万千气象看北京",
+      "onboard_time": 1717769963,
+      "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14877,
-      "num": 21544,
-      "word": "苗苗边看乘风边卷腹",
-      "onboard_time": 1717795691,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 12053,
@@ -537,14 +577,6 @@
       "onboard_time": 1717792451,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 11040,
-      "num": 192645,
-      "word": "万千气象看北京",
-      "onboard_time": 1717769963,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
