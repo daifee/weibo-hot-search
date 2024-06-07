@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717767257202,
+  "endTime": 1717769936292,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -841,6 +841,14 @@
       "onboard_time": 1714635678,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7152439,
+      "num": 7152439,
+      "word": "那英 天后回归",
+      "onboard_time": 1717766962,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 7018945,
@@ -1929,14 +1937,6 @@
       "onboard_time": 1704437310,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 3424903,
-      "num": 3424903,
-      "word": "那英 天后回归",
-      "onboard_time": 1717766962,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 3421549,

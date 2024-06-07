@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 21:34:17
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 22:18:56
 </p>
 </blockquote>
 <p>
@@ -641,6 +641,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E5%A1%8C%E6%96%B9%E5%B7%B2%E8%87%B448%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 梅大高速塌方已致48人死亡（热度：7156334）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E5%A4%A9%E5%90%8E%E5%9B%9E%E5%BD%92%23" target="weibo">
+那英 天后回归（热度：7152439）
 </a>
 </li>
 
@@ -1457,12 +1463,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E5%90%91%E9%9F%A9%E5%9B%BD%E8%A5%BF%E9%83%A8%E6%B5%B7%E5%9F%9F%E5%8F%91%E5%B0%84200%E5%A4%9A%E5%8F%91%E6%B5%B7%E5%B2%B8%E7%82%AE%23" target="weibo">
 朝鲜向韩国西部海域发射200多发海岸炮（热度：3426448）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E5%A4%A9%E5%90%8E%E5%9B%9E%E5%BD%92%23" target="weibo">
-那英 天后回归（热度：3424903）
 </a>
 </li>
 
