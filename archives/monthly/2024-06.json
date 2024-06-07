@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717752032877,
+  "endTime": 1717752879375,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -41,6 +41,14 @@
       "onboard_time": 1717377378,
       "rank": 22,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 4266659,
+      "num": 4266659,
+      "word": "高考数学难不难",
+      "onboard_time": 1717751481,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 4046722,
@@ -113,14 +121,6 @@
       "onboard_time": 1717719618,
       "rank": 1,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 2349918,
-      "num": 2349918,
-      "word": "高考数学难不难",
-      "onboard_time": 1717751481,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 2330224,
@@ -2099,6 +2099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 720280,
+      "num": 720280,
+      "word": "新一卷数学 大题难",
+      "onboard_time": 1717752622,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 719095,
       "num": 314795,
       "word": "巨婴式婚姻",
@@ -3595,6 +3603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504619,
+      "num": 343820,
+      "word": "金晨下衣失踪",
+      "onboard_time": 1717749558,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 503933,
       "num": 503933,
       "word": "证监会原主席易会满履新职",
@@ -3609,6 +3625,14 @@
       "onboard_time": 1717338980,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 500552,
+      "num": 500552,
+      "word": "数学 我恨你",
+      "onboard_time": 1717752801,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 500176,
@@ -4009,6 +4033,14 @@
       "onboard_time": 1717225817,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463887,
+      "num": 463887,
+      "word": "大熊猫jiojio有多臭啊要洗这么久",
+      "onboard_time": 1717742659,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463028,
@@ -4491,6 +4523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 425172,
+      "num": 425172,
+      "word": "25届好紧张",
+      "onboard_time": 1717751842,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 424541,
       "num": 424541,
       "word": "刘亦菲说喜欢黄亦玫的不同色彩",
@@ -4769,14 +4809,6 @@
       "onboard_time": 1717489819,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 408760,
-      "num": 408760,
-      "word": "大熊猫jiojio有多臭啊要洗这么久",
-      "onboard_time": 1717742659,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407747,
@@ -5635,6 +5667,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 346474,
+      "num": 346474,
+      "word": "一对日本母女在渡轮遭遇神隐",
+      "onboard_time": 1717750519,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346188,
       "num": 346188,
       "word": "为什么听自己的声音回放觉得难听",
@@ -5673,14 +5713,6 @@
       "onboard_time": 1717324877,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 343820,
-      "num": 343820,
-      "word": "金晨下衣失踪",
-      "onboard_time": 1717749558,
-      "rank": 20,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 343231,
@@ -6177,6 +6209,14 @@
       "onboard_time": 1717167983,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314252,
+      "num": 250833,
+      "word": "感觉被全家孤立了23年",
+      "onboard_time": 1717751902,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 314000,
@@ -6843,6 +6883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281574,
+      "num": 281574,
+      "word": "何洁路人缘",
+      "onboard_time": 1717752142,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280197,
       "num": 280197,
       "word": "娜扎江疏影cue张若昀",
@@ -6969,6 +7017,14 @@
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275013,
+      "num": 275013,
+      "word": "女子离婚后欲为儿子改名被驳",
+      "onboard_time": 1717750577,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 274866,
@@ -7315,14 +7371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 262091,
-      "num": 262091,
-      "word": "女子离婚后欲为儿子改名被驳",
-      "onboard_time": 1717750577,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262076,
       "num": 262076,
       "word": "狐妖一脉全部带蓝牙",
@@ -7648,6 +7696,14 @@
       "word": "武艺十七岁还坐在爸爸肩上",
       "onboard_time": 1717218797,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250827,
+      "num": 250827,
+      "word": "王星越买炒饭被抓合照",
+      "onboard_time": 1717752021,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -9073,6 +9129,14 @@
       "onboard_time": 1717245679,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208733,
+      "num": 208733,
+      "word": "18斤榴莲复秤仅8斤",
+      "onboard_time": 1717752622,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 208691,
@@ -10531,14 +10595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187844,
-      "num": 187844,
-      "word": "感觉被全家孤立了23年",
-      "onboard_time": 1717751902,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187812,
       "num": 187812,
       "word": "IU捡了只洞洞鞋",
@@ -10561,14 +10617,6 @@
       "onboard_time": 1717311558,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187481,
-      "num": 187481,
-      "word": "一对日本母女在渡轮遭遇神隐",
-      "onboard_time": 1717750519,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187413,
@@ -10889,14 +10937,6 @@
       "onboard_time": 1717412419,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181861,
-      "num": 181861,
-      "word": "25届好紧张",
-      "onboard_time": 1717751842,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 181811,
@@ -13427,6 +13467,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 145257,
+      "num": 145257,
+      "word": "留学生怎么6馍",
+      "onboard_time": 1717751781,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145251,
       "num": 413979,
       "word": "11岁女孩从车流中一把拽回走失女童",
@@ -13569,6 +13617,14 @@
       "onboard_time": 1717314257,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143956,
+      "num": 445414,
+      "word": "大学校长称文科会越来越更重要",
+      "onboard_time": 1717750818,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143869,
@@ -17243,14 +17299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85742,
-      "num": 445414,
-      "word": "大学校长称文科会越来越更重要",
-      "onboard_time": 1717750818,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 85264,
       "num": 85264,
       "word": "微波炉怎么不转圈了",
@@ -18579,6 +18627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50870,
+      "num": 323725,
+      "word": "他们40多年挖了近1亿个坑种树",
+      "onboard_time": 1717742539,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50383,
       "num": 50383,
       "word": "牛奶加热后的奶皮吃了有好处吗",
@@ -18713,6 +18769,14 @@
       "onboard_time": 1717492938,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 44492,
+      "num": 2469923,
+      "word": "我国首个液体通用型火箭发射工位竣工",
+      "onboard_time": 1717751960,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43884,
@@ -19315,12 +19379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28546,
-      "num": 214597,
-      "word": "他们40多年挖了近1亿个坑种树",
-      "onboard_time": 1717742539,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 28613,
+      "num": 275603,
+      "word": "打工人生产力桌面",
+      "onboard_time": 1717751362,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 28264,
@@ -19603,14 +19667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 19945,
-      "num": 214839,
-      "word": "打工人生产力桌面",
-      "onboard_time": 1717751362,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 19608,
       "num": 231388,
       "word": "大熊猫反手从背后采了1根笋笋",
@@ -19859,6 +19915,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 12959,
+      "num": 250835,
+      "word": "东阿阿胶把古装热剧包圆了",
+      "onboard_time": 1717752261,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12873,
       "num": 15898,
       "word": "嫦娥六号帮我带个ID",
@@ -19953,14 +20017,6 @@
       "onboard_time": 1717701011,
       "rank": 36,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 10729,
-      "num": 1743449,
-      "word": "我国首个液体通用型火箭发射工位竣工",
-      "onboard_time": 1717751960,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10436,

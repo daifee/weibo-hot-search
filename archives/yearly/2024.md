@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 17:20:32
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 17:34:39
 </p>
 </blockquote>
 <p>
@@ -1023,6 +1023,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE%23" target="weibo">
+高考数学难不难（热度：4266659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E9%81%87%E5%AE%B3%E6%A1%88%E6%AD%BB%E8%80%85%E8%A2%AB%E6%B4%BB%E5%9F%8B%E4%B8%8D%E5%AE%9E%23" target="weibo">
 邯郸初中生遇害案死者被活埋不实（热度：4253531）
 </a>
@@ -1805,12 +1811,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 江西新余火灾事故新闻发布会（热度：3120435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%89%94%E5%B0%8F%E5%AD%A9%E6%AF%8D%E4%BA%B2%E9%81%BF%E5%BC%80%E4%BA%86%E5%AE%89%E5%85%A8%E6%B0%94%E5%9B%8A%23" target="weibo">
-知情人称扔小孩母亲避开了安全气囊（热度：3120127）
 </a>
 </li>
 

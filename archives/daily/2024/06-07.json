@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717752032877,
+  "endTime": 1717752879375,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -24,6 +24,14 @@
       "word": "高考",
       "onboard_time": 1717715355,
       "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 4266659,
+      "num": 4266659,
+      "word": "高考数学难不难",
+      "onboard_time": 1717751481,
+      "rank": 1,
       "category": "教育"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1717719618,
       "rank": 1,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 2349918,
-      "num": 2349918,
-      "word": "高考数学难不难",
-      "onboard_time": 1717751481,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 2218032,
@@ -243,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 720280,
+      "num": 720280,
+      "word": "新一卷数学 大题难",
+      "onboard_time": 1717752622,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 714550,
       "num": 987781,
       "word": "高考语文盲文卷要考225分钟",
@@ -411,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504619,
+      "num": 343820,
+      "word": "金晨下衣失踪",
+      "onboard_time": 1717749558,
+      "rank": 20,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 500552,
+      "num": 500552,
+      "word": "数学 我恨你",
+      "onboard_time": 1717752801,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 495683,
       "num": 495683,
       "word": "王俊凯IP正确手势正确",
@@ -481,6 +505,14 @@
       "onboard_time": 1717736243,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463887,
+      "num": 463887,
+      "word": "大熊猫jiojio有多臭啊要洗这么久",
+      "onboard_time": 1717742659,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462159,
@@ -555,6 +587,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 425172,
+      "num": 425172,
+      "word": "25届好紧张",
+      "onboard_time": 1717751842,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 423568,
       "num": 423568,
       "word": "ChatGPT来交卷了",
@@ -585,14 +625,6 @@
       "onboard_time": 1717735941,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 408760,
-      "num": 408760,
-      "word": "大熊猫jiojio有多臭啊要洗这么久",
-      "onboard_time": 1717742659,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396580,
@@ -707,12 +739,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343820,
-      "num": 343820,
-      "word": "金晨下衣失踪",
-      "onboard_time": 1717749558,
-      "rank": 20,
-      "category": "艺人,时尚"
+      "raw_hot": 346474,
+      "num": 346474,
+      "word": "一对日本母女在渡轮遭遇神隐",
+      "onboard_time": 1717750519,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336062,
@@ -779,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314252,
+      "num": 250833,
+      "word": "感觉被全家孤立了23年",
+      "onboard_time": 1717751902,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313346,
       "num": 313346,
       "word": "王一博出发法网公开赛",
@@ -843,6 +883,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 281574,
+      "num": 281574,
+      "word": "何洁路人缘",
+      "onboard_time": 1717752142,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276991,
       "num": 276991,
       "word": "肖战大学是设计专业的",
@@ -857,6 +905,14 @@
       "onboard_time": 1717674139,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 275013,
+      "num": 275013,
+      "word": "女子离婚后欲为儿子改名被驳",
+      "onboard_time": 1717750577,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 272232,
@@ -923,14 +979,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 262091,
-      "num": 262091,
-      "word": "女子离婚后欲为儿子改名被驳",
-      "onboard_time": 1717750577,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262030,
       "num": 262030,
       "word": "今日高考一举高棕",
@@ -985,6 +1033,14 @@
       "onboard_time": 1717735582,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 250827,
+      "num": 250827,
+      "word": "王星越买炒饭被抓合照",
+      "onboard_time": 1717752021,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 247582,
@@ -1203,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208733,
+      "num": 208733,
+      "word": "18斤榴莲复秤仅8斤",
+      "onboard_time": 1717752622,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 208691,
       "num": 208691,
       "word": "狐妖月红篇陈都灵出场",
@@ -1371,14 +1435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187844,
-      "num": 187844,
-      "word": "感觉被全家孤立了23年",
-      "onboard_time": 1717751902,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 187812,
       "num": 187812,
       "word": "IU捡了只洞洞鞋",
@@ -1393,14 +1449,6 @@
       "onboard_time": 1717744760,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187481,
-      "num": 187481,
-      "word": "一对日本母女在渡轮遭遇神隐",
-      "onboard_time": 1717750519,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187413,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1717723157,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 181861,
-      "num": 181861,
-      "word": "25届好紧张",
-      "onboard_time": 1717751842,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 179331,
@@ -1795,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145257,
+      "num": 145257,
+      "word": "留学生怎么6馍",
+      "onboard_time": 1717751781,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 145233,
       "num": 145233,
       "word": "全国少工委发布红领巾佩戴方法说明",
@@ -1825,6 +1873,14 @@
       "onboard_time": 1717730480,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143956,
+      "num": 445414,
+      "word": "大学校长称文科会越来越更重要",
+      "onboard_time": 1717750818,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 143476,
@@ -2123,14 +2179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85742,
-      "num": 445414,
-      "word": "大学校长称文科会越来越更重要",
-      "onboard_time": 1717750818,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 85314,
       "num": 85314,
       "word": "徐娇五分钟两次五杀",
@@ -2371,6 +2419,22 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 50870,
+      "num": 323725,
+      "word": "他们40多年挖了近1亿个坑种树",
+      "onboard_time": 1717742539,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44492,
+      "num": 2469923,
+      "word": "我国首个液体通用型火箭发射工位竣工",
+      "onboard_time": 1717751960,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41421,
       "num": 171802,
       "word": "小学生用中性笔画出1.7米山水画卷",
@@ -2427,12 +2491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28546,
-      "num": 214597,
-      "word": "他们40多年挖了近1亿个坑种树",
-      "onboard_time": 1717742539,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 28613,
+      "num": 275603,
+      "word": "打工人生产力桌面",
+      "onboard_time": 1717751362,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 27356,
@@ -2465,14 +2529,6 @@
       "onboard_time": 1717704012,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19945,
-      "num": 214839,
-      "word": "打工人生产力桌面",
-      "onboard_time": 1717751362,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 19533,
@@ -2539,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12959,
+      "num": 250835,
+      "word": "东阿阿胶把古装热剧包圆了",
+      "onboard_time": 1717752261,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12002,
       "num": 1487670,
       "word": "嫦娥六号祝福考生高中",
@@ -2561,14 +2625,6 @@
       "onboard_time": 1717701011,
       "rank": 36,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 10729,
-      "num": 1743449,
-      "word": "我国首个液体通用型火箭发射工位竣工",
-      "onboard_time": 1717751960,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 9273,
