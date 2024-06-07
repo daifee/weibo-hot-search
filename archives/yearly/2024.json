@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717749415090,
+  "endTime": 1717752032877,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -65,6 +65,14 @@
       "onboard_time": 1716123377,
       "rank": 0,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 15271756,
+      "num": 15271756,
+      "word": "高考数学",
+      "onboard_time": 1717749858,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 15100313,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1711951221,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3117943,
-      "num": 1184480,
-      "word": "墨香铜臭回来了",
-      "onboard_time": 1711348338,
-      "rank": 11,
-      "category": "读书作家,作品衍生"
     }
   ],
   "hotgov_list": [

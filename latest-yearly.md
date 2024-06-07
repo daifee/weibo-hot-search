@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 16:36:55
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 17:20:32
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%83%96%E7%8C%AB%E4%B8%8E%E8%B0%AD%E6%9F%90%E7%BB%8F%E6%B5%8E%E5%BE%80%E6%9D%A5%E6%83%85%E5%86%B5%23" target="weibo">
 警方通报胖猫与谭某经济往来情况（热度：15346908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23" target="weibo">
+高考数学（热度：15271756）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%89%94%E5%B0%8F%E5%AD%A9%E6%AF%8D%E4%BA%B2%E9%81%BF%E5%BC%80%E4%BA%86%E5%AE%89%E5%85%A8%E6%B0%94%E5%9B%8A%23" target="weibo">
 知情人称扔小孩母亲避开了安全气囊（热度：3120127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-墨香铜臭回来了（热度：3117943）
 </a>
 </li>
 

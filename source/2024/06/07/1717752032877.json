@@ -1,0 +1,410 @@
+{
+  "runTime": 1717752032877,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 15271756,
+        "num": 15271756,
+        "word": "高考数学",
+        "onboard_time": 1717749858,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2349918,
+        "num": 2349918,
+        "word": "高考数学难不难",
+        "onboard_time": 1717751481,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 10729,
+        "num": 1743449,
+        "word": "我国首个液体通用型火箭发射工位竣工",
+        "onboard_time": 1717751960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1565187,
+        "num": 1565187,
+        "word": "李晋晔 被换",
+        "onboard_time": 1717745478,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1328574,
+        "num": 1328574,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 787321,
+        "num": 787321,
+        "word": "警号985211的民警手被拍红了",
+        "onboard_time": 1717744519,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 718270,
+        "num": 718270,
+        "word": "乙卷没了",
+        "onboard_time": 1717733304,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 486448,
+        "num": 486448,
+        "word": "微信回应登上高考作文",
+        "onboard_time": 1717737800,
+        "rank": 7,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 451598,
+        "num": 451598,
+        "word": "网传海南省高考语文卷未发条形码",
+        "onboard_time": 1717750577,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 85742,
+        "num": 445414,
+        "word": "大学校长称文科会越来越更重要",
+        "onboard_time": 1717750818,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 13275,
+        "num": 443973,
+        "word": "一起来读刻在石头上的史书",
+        "onboard_time": 1717751721,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443053,
+        "num": 443053,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 408760,
+        "num": 408760,
+        "word": "大熊猫jiojio有多臭啊要洗这么久",
+        "onboard_time": 1717742659,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403995,
+        "num": 403995,
+        "word": "吴谨言提早三个月进组跟郝蕾学表演",
+        "onboard_time": 1717743738,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396580,
+        "num": 396580,
+        "word": "王俊凯透露演唱会会开的",
+        "onboard_time": 1717750640,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394896,
+        "num": 394896,
+        "word": "小牛说车账号被封",
+        "onboard_time": 1717746499,
+        "rank": 15,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 388719,
+        "num": 388719,
+        "word": "江西抚州车祸一孕妇被撞身亡",
+        "onboard_time": 1717739839,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 371533,
+        "num": 371533,
+        "word": "35岁再考清华当事人称语文考崩了",
+        "onboard_time": 1717749438,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 357187,
+        "num": 357187,
+        "word": "吴镇宇 费曼只会上网给意见",
+        "onboard_time": 1717748238,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62008,
+        "num": 347874,
+        "word": "祖冲之评论区变许愿池",
+        "onboard_time": 1717751362,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343820,
+        "num": 343820,
+        "word": "金晨下衣失踪",
+        "onboard_time": 1717749558,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 331166,
+        "num": 331166,
+        "word": "北电毕业照没有张子枫",
+        "onboard_time": 1717734323,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294057,
+        "num": 294057,
+        "word": "王俊凯IP正确手势正确",
+        "onboard_time": 1717745478,
+        "rank": 22,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 282810,
+        "num": 282810,
+        "word": "海南省考试局回应语文卷未发条形码",
+        "onboard_time": 1717750879,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 267875,
+        "num": 267875,
+        "word": "灵梦退役",
+        "onboard_time": 1717750340,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267096,
+        "num": 267096,
+        "word": "刘亦菲喝多被万茜嫌弃了",
+        "onboard_time": 1717744458,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262091,
+        "num": 262091,
+        "word": "女子离婚后欲为儿子改名被驳",
+        "onboard_time": 1717750577,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258084,
+        "num": 258084,
+        "word": "EVA动画制作公司宣布破产",
+        "onboard_time": 1717748838,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 45927,
+        "num": 252179,
+        "word": "直击多地高考第一现场",
+        "onboard_time": 1717724177,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118462,
+        "num": 248796,
+        "word": "985舰发来高考祝福",
+        "onboard_time": 1717748838,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 247445,
+        "num": 247445,
+        "word": "坚持一个月11点睡觉不玩手机后",
+        "onboard_time": 1717739959,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240947,
+        "num": 240947,
+        "word": "黑神话悟空 配置",
+        "onboard_time": 1717751000,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225014,
+        "num": 225014,
+        "word": "景区女厕安装计时器引人不适",
+        "onboard_time": 1717748059,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19945,
+        "num": 214839,
+        "word": "打工人生产力桌面",
+        "onboard_time": 1717751362,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211885,
+        "num": 211885,
+        "word": "上海交大李星玮",
+        "onboard_time": 1717740739,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195787,
+        "num": 195787,
+        "word": "高启强大战朱朝阳",
+        "onboard_time": 1717751059,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195438,
+        "num": 195438,
+        "word": "新高考一卷默写",
+        "onboard_time": 1717733123,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189338,
+        "num": 189338,
+        "word": "高考",
+        "onboard_time": 1717715355,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187844,
+        "num": 187844,
+        "word": "感觉被全家孤立了23年",
+        "onboard_time": 1717751902,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187481,
+        "num": 187481,
+        "word": "一对日本母女在渡轮遭遇神隐",
+        "onboard_time": 1717750519,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187057,
+        "num": 187057,
+        "word": "马里亚纳海沟",
+        "onboard_time": 1717747759,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 186267,
+        "num": 186267,
+        "word": "有些妇科病先是心理病了",
+        "onboard_time": 1717748898,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 181861,
+        "num": 181861,
+        "word": "25届好紧张",
+        "onboard_time": 1717751842,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175159,
+        "num": 175159,
+        "word": "阿兰因伤缺席中韩之战",
+        "onboard_time": 1717749258,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172127,
+        "num": 172127,
+        "word": "周鸿祎炫高考作文押题10中3",
+        "onboard_time": 1717748898,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 157228,
+        "num": 157228,
+        "word": "何洁说尚雯婕是最难交的朋友",
+        "onboard_time": 1717742360,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149660,
+        "num": 149660,
+        "word": "张钰琪唱BlackSheep",
+        "onboard_time": 1717747278,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144936,
+        "num": 144936,
+        "word": "手机AI写高考作文哪家强",
+        "onboard_time": 1717747219,
+        "rank": 47,
+        "category": "科学科普,教育"
+      },
+      {
+        "raw_hot": 141126,
+        "num": 141126,
+        "word": "我妈看完沈玉容都不催婚了",
+        "onboard_time": 1717744519,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132641,
+        "num": 132641,
+        "word": "蔡磊在病房寄语考生",
+        "onboard_time": 1717751542,
+        "rank": 49,
+        "category": "互联网,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#愿早日建成中吉乌铁路这条战略通道#"
+    }
+  }
+}
