@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717763814920,
+  "endTime": 1717764717857,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1771,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3592986,
+      "num": 3592986,
+      "word": "汪苏泷 舒适圈",
+      "onboard_time": 1717763180,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3592037,
       "num": 3592037,
       "word": "谢楠回应被劝离婚",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1715838978,
       "rank": 0,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 3120435,
-      "num": 3120435,
-      "word": "江西新余火灾事故新闻发布会",
-      "onboard_time": 1706142329,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

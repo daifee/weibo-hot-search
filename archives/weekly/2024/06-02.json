@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717763814920,
+  "endTime": 1717764717857,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -59,6 +59,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3592986,
+      "num": 3592986,
+      "word": "汪苏泷 舒适圈",
+      "onboard_time": 1717763180,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 3412141,
       "num": 3412141,
       "word": "高考作文 人工智能",
@@ -67,28 +75,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 3258978,
-      "num": 3258978,
-      "word": "高考语文",
-      "onboard_time": 1717729999,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 3188468,
-      "num": 3188468,
+      "raw_hot": 3337719,
+      "num": 3337719,
       "word": "歌手直播",
       "onboard_time": 1717761497,
       "rank": 1,
       "category": "综艺"
     },
     {
-      "raw_hot": 3119045,
-      "num": 3119045,
-      "word": "汪苏泷 舒适圈",
-      "onboard_time": 1717763180,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 3258978,
+      "num": 3258978,
+      "word": "高考语文",
+      "onboard_time": 1717729999,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 2931096,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1712517,
-      "num": 323518,
+      "num": 1051192,
       "word": "黄宣汪苏泷主持",
       "onboard_time": 1717762819,
       "rank": 8,
@@ -537,6 +537,14 @@
       "onboard_time": 1717292896,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1416945,
+      "num": 1416945,
+      "word": "何炅缺席",
+      "onboard_time": 1717762579,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1412127,
@@ -924,7 +932,7 @@
     },
     {
       "raw_hot": 1108514,
-      "num": 308252,
+      "num": 322520,
       "word": "玄彬孙艺珍出售婚房",
       "onboard_time": 1717760358,
       "rank": 10,
@@ -993,14 +1001,6 @@
       "onboard_time": 1717499237,
       "rank": 30,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1084221,
-      "num": 303945,
-      "word": "何炅缺席",
-      "onboard_time": 1717762579,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1078895,
@@ -1321,6 +1321,14 @@
       "onboard_time": 1717417757,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 868683,
+      "num": 308939,
+      "word": "张钰琪挑战谁",
+      "onboard_time": 1717763360,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 868516,
@@ -4075,14 +4083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 426111,
-      "num": 198296,
-      "word": "张钰琪挑战谁",
-      "onboard_time": 1717763360,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 425529,
       "num": 337406,
       "word": "刘昊然 就是硬帅",
@@ -4603,6 +4603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 385316,
+      "num": 305931,
+      "word": "歌手歌单",
+      "onboard_time": 1717739238,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 385146,
       "num": 360358,
       "word": "肖战晒老家日常",
@@ -4787,6 +4795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 365940,
+      "num": 179616,
+      "word": "黄宣救场",
+      "onboard_time": 1717764080,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365177,
       "num": 214270,
       "word": "向佐问网友有李胜利电话吗",
@@ -4883,6 +4899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358433,
+      "num": 183974,
+      "word": "首尔偶遇赵露思逛街",
+      "onboard_time": 1717763780,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358206,
       "num": 358206,
       "word": "董宇辉称高考不决定人生",
@@ -4953,14 +4977,6 @@
       "onboard_time": 1717742659,
       "rank": 18,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 354445,
-      "num": 305931,
-      "word": "歌手歌单",
-      "onboard_time": 1717739238,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 354357,
@@ -5121,6 +5137,14 @@
       "onboard_time": 1717295177,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342321,
+      "num": 342321,
+      "word": "老师的985车牌快被摸秃噜皮了",
+      "onboard_time": 1717759697,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341372,
@@ -5313,6 +5337,14 @@
       "onboard_time": 1717484418,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 327948,
+      "num": 178436,
+      "word": "北大物理保送生考了唯一一门语文",
+      "onboard_time": 1717764139,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 326724,
@@ -5747,6 +5779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297456,
+      "num": 297456,
+      "word": "Langx爆料Cube已离队",
+      "onboard_time": 1717763059,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 297265,
       "num": 297265,
       "word": "刘若英否认袒护亲姐姐",
@@ -6091,14 +6131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281266,
-      "num": 281266,
-      "word": "老师的985车牌快被摸秃噜皮了",
-      "onboard_time": 1717759697,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280197,
       "num": 280197,
       "word": "娜扎江疏影cue张若昀",
@@ -6385,6 +6417,14 @@
       "onboard_time": 1717750340,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 267830,
+      "num": 203139,
+      "word": "恋爱兄妹",
+      "onboard_time": 1717759458,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 267562,
@@ -6857,14 +6897,6 @@
       "onboard_time": 1717679059,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 247514,
-      "num": 203139,
-      "word": "恋爱兄妹",
-      "onboard_time": 1717759458,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 247226,
@@ -9611,14 +9643,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 183974,
-      "num": 183974,
-      "word": "首尔偶遇赵露思逛街",
-      "onboard_time": 1717763780,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183933,
       "num": 183933,
       "word": "原生家庭差的年轻人觉醒的第一步",
@@ -9931,14 +9955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 177183,
-      "num": 177183,
-      "word": "Langx爆料Cube已离队",
-      "onboard_time": 1717763059,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 176948,
       "num": 176948,
       "word": "为什么说跑步是一项治愈运动",
@@ -9993,6 +10009,14 @@
       "onboard_time": 1717730420,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175750,
+      "num": 175750,
+      "word": "高考数学主打一个参与",
+      "onboard_time": 1717763840,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 175519,
@@ -10376,6 +10400,14 @@
       "word": "田雨写给王启年的番外",
       "onboard_time": 1717334779,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169115,
+      "num": 169115,
+      "word": "长公主服从性测试",
+      "onboard_time": 1717764440,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -11609,6 +11641,14 @@
       "onboard_time": 1717655900,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149561,
+      "num": 149561,
+      "word": "85岁奶奶穿红衣偷偷给孙子送考",
+      "onboard_time": 1717764440,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 149326,
@@ -12875,6 +12915,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 130241,
+      "num": 130241,
+      "word": "四川一考场现2米23真高考生",
+      "onboard_time": 1717762098,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130213,
       "num": 130213,
       "word": "涂山红红九尾法相",
@@ -13475,6 +13523,14 @@
       "category": "电竞,教育"
     },
     {
+      "raw_hot": 122565,
+      "num": 122565,
+      "word": "星穹铁道兑换码",
+      "onboard_time": 1717764380,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122541,
       "num": 165911,
       "word": "山东煤矿突水事故剩余7人全部找到",
@@ -13851,6 +13907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116842,
+      "num": 177340,
+      "word": "福宝马上要搬新家了",
+      "onboard_time": 1717763718,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116689,
       "num": 116689,
       "word": "涂山红红爱与不爱很明显",
@@ -14113,14 +14177,6 @@
       "onboard_time": 1717284915,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 113166,
-      "num": 113166,
-      "word": "四川一考场现2米23真高考生",
-      "onboard_time": 1717762098,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112802,
@@ -14881,14 +14937,6 @@
       "onboard_time": 1717497857,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99881,
-      "num": 132078,
-      "word": "福宝马上要搬新家了",
-      "onboard_time": 1717763718,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 99643,
@@ -15843,6 +15891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67267,
+      "num": 315032,
+      "word": "考场外神仙家长让人一秒破防",
+      "onboard_time": 1717762399,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 67196,
       "num": 67196,
       "word": "与凶犯搏斗勇气来自二次元",
@@ -15868,7 +15924,7 @@
     },
     {
       "raw_hot": 65573,
-      "num": 3149371,
+      "num": 3411730,
       "word": "我国首个液体通用型火箭发射工位竣工",
       "onboard_time": 1717751960,
       "rank": 2,
@@ -16145,6 +16201,14 @@
       "onboard_time": 1717436353,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57906,
+      "num": 176809,
+      "word": "墨雨云间全员催更",
+      "onboard_time": 1717764380,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 57855,
@@ -16627,6 +16691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40666,
+      "num": 338633,
+      "word": "车牌尾号985消防车硬核应援高考",
+      "onboard_time": 1717764257,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 40656,
       "num": 40656,
       "word": "田小娟暂停活动",
@@ -16697,14 +16769,6 @@
       "onboard_time": 1717351993,
       "rank": 47,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 38528,
-      "num": 315032,
-      "word": "考场外神仙家长让人一秒破防",
-      "onboard_time": 1717762399,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 38351,
