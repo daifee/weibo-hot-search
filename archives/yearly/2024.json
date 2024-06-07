@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717716885192,
+  "endTime": 1717723311200,
   "band_list": [
     {
       "raw_hot": 21250232,
@@ -1155,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 4887908,
+      "num": 4887908,
+      "word": "高考",
+      "onboard_time": 1717715355,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 4878022,
       "num": 4878022,
       "word": "金星复婚",
@@ -2137,14 +2145,6 @@
       "onboard_time": 1714691414,
       "rank": 13,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 3210271,
-      "num": 3210271,
-      "word": "高考",
-      "onboard_time": 1717715355,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 3207189,

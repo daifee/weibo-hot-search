@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717716885192,
+  "endTime": 1717723311200,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -11,20 +11,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 4887908,
+      "num": 4887908,
+      "word": "高考",
+      "onboard_time": 1717715355,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 4295015,
       "num": 4295015,
       "word": "韩国市长请求中国赠送一对大熊猫",
       "onboard_time": 1717377378,
       "rank": 22,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 3210271,
-      "num": 3210271,
-      "word": "高考",
-      "onboard_time": 1717715355,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 2931096,
@@ -177,6 +177,14 @@
       "onboard_time": 1717652299,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1768901,
+      "num": 1768901,
+      "word": "全国第一个直播高考的人",
+      "onboard_time": 1717719618,
+      "rank": 1,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 1756676,
@@ -875,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981229,
+      "num": 981229,
+      "word": "2024第1批弄丢身份证的考生出现了",
+      "onboard_time": 1717715955,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 973329,
       "num": 907796,
       "word": "宝马腰斩式大降价",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1717566078,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 884612,
+      "num": 212786,
+      "word": "大二女生175斤减到94斤变化惊艳",
+      "onboard_time": 1717716376,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 880844,
@@ -1563,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 722184,
+      "num": 722184,
+      "word": "高考 下雨",
+      "onboard_time": 1717718778,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 719095,
       "num": 314795,
       "word": "巨婴式婚姻",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1717460118,
       "rank": 5,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 673644,
+      "num": 673644,
+      "word": "1342万人今天高考",
+      "onboard_time": 1717715535,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 672083,
@@ -2131,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 601168,
+      "num": 601168,
+      "word": "原来高考不止两天",
+      "onboard_time": 1717719799,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 600148,
       "num": 538518,
       "word": "我国历史上的熊猫外交",
@@ -2363,14 +2411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 568788,
-      "num": 568788,
-      "word": "1342万人今天高考",
-      "onboard_time": 1717715535,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 566024,
       "num": 566024,
       "word": "孙颖莎vs陈梦",
@@ -2571,6 +2611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 525761,
+      "num": 340795,
+      "word": "刘亦菲是在跷二郎腿吗",
+      "onboard_time": 1717718118,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 525488,
       "num": 525488,
       "word": "他只是做错题 又没有做错人",
@@ -2721,6 +2769,14 @@
       "onboard_time": 1717582158,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 513792,
+      "num": 206126,
+      "word": "建议大家不要在床上乱蹦",
+      "onboard_time": 1717695972,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 512230,
@@ -3067,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 462525,
+      "num": 462525,
+      "word": "今日高考一举高粽",
+      "onboard_time": 1717715535,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 461737,
       "num": 295120,
       "word": "王亚飞为迪丽热巴化的生日妆",
@@ -3145,6 +3209,14 @@
       "onboard_time": 1717242616,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451678,
+      "num": 451678,
+      "word": "第二个让撒贝宁接不上话的人",
+      "onboard_time": 1717716616,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 451570,
@@ -3835,6 +3907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 387732,
+      "num": 205645,
+      "word": "内脏缺啥脸上就会长啥",
+      "onboard_time": 1717715895,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 386677,
       "num": 386677,
       "word": "董宇辉成了618局外人",
@@ -4019,14 +4099,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 366693,
-      "num": 220745,
-      "word": "第二个让撒贝宁接不上话的人",
-      "onboard_time": 1717716616,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 365177,
       "num": 214270,
       "word": "向佐问网友有李胜利电话吗",
@@ -4137,6 +4209,14 @@
       "onboard_time": 1717666759,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354357,
+      "num": 339583,
+      "word": "为啥大多数清北家长教不出清北孩子",
+      "onboard_time": 1717721599,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 354295,
@@ -4459,6 +4539,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327972,
+      "num": 327972,
+      "word": "高考时间",
+      "onboard_time": 1717375818,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 326405,
+      "num": 326405,
+      "word": "吴镇宇六旬老汉赚钱不易",
+      "onboard_time": 1717717577,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326286,
       "num": 326286,
       "word": "林俊杰怎么比陶喆还抽象",
@@ -4601,6 +4697,14 @@
       "onboard_time": 1717337000,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 313346,
+      "num": 313346,
+      "word": "王一博出发法网公开赛",
+      "onboard_time": 1717721119,
+      "rank": 15,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 311587,
@@ -5131,6 +5235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278732,
+      "num": 278732,
+      "word": "刘惜君带秤吃饭坚持了7年",
+      "onboard_time": 1717720579,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278663,
       "num": 278663,
       "word": "钟楚曦十八宫格泳池照",
@@ -5601,6 +5713,14 @@
       "onboard_time": 1717669938,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256213,
+      "num": 256213,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1717720877,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 255987,
@@ -6507,6 +6627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218006,
+      "num": 326600,
+      "word": "00后极致省钱攒下20万成功求婚",
+      "onboard_time": 1717721359,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217780,
       "num": 217780,
       "word": "热恋症",
@@ -6580,7 +6708,7 @@
     },
     {
       "raw_hot": 215719,
-      "num": 146760,
+      "num": 167575,
       "word": "为什么端午节高速不免费",
       "onboard_time": 1717706111,
       "rank": 21,
@@ -7515,6 +7643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195940,
+      "num": 195940,
+      "word": "赵小童一个人赔200",
+      "onboard_time": 1717716916,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195931,
       "num": 195931,
       "word": "万妮达 选曲投票",
@@ -7668,7 +7804,7 @@
     },
     {
       "raw_hot": 192876,
-      "num": 97910,
+      "num": 140415,
       "word": "离职后把同事微信全删了",
       "onboard_time": 1717691415,
       "rank": 36,
@@ -7915,6 +8051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187812,
+      "num": 187812,
+      "word": "IU捡了只洞洞鞋",
+      "onboard_time": 1717716074,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187575,
       "num": 161106,
       "word": "外滩偶遇李秀满",
@@ -7969,14 +8113,6 @@
       "onboard_time": 1717424959,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186784,
-      "num": 145354,
-      "word": "建议大家不要在床上乱蹦",
-      "onboard_time": 1717695972,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 186501,
@@ -8091,14 +8227,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 184984,
-      "num": 144676,
-      "word": "内脏缺啥脸上就会长啥",
-      "onboard_time": 1717715895,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 184863,
       "num": 184863,
       "word": "浙江奶奶每天骑电驴10分钟到上海上班",
@@ -8137,14 +8265,6 @@
       "onboard_time": 1717588218,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184070,
-      "num": 184070,
-      "word": "高考时间",
-      "onboard_time": 1717375818,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 184005,
@@ -8771,6 +8891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169577,
+      "num": 169577,
+      "word": "檀健次 替大家问过高考了",
+      "onboard_time": 1717715715,
+      "rank": 19,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 169369,
       "num": 169369,
       "word": "田雨写给王启年的番外",
@@ -9025,6 +9153,22 @@
       "onboard_time": 1717332559,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164476,
+      "num": 164476,
+      "word": "家长别对紧张的高考生说这3个字",
+      "onboard_time": 1717719019,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 164431,
+      "num": 164431,
+      "word": "高考为什么在六月",
+      "onboard_time": 1717718659,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 164389,
@@ -9315,14 +9459,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 158224,
-      "num": 158224,
-      "word": "2024第1批弄丢身份证的考生出现了",
-      "onboard_time": 1717715955,
-      "rank": 47,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 157788,
       "num": 157788,
       "word": "原来风油精还可以这样用",
@@ -9345,6 +9481,14 @@
       "onboard_time": 1717653318,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157566,
+      "num": 157566,
+      "word": "不发不看朋友圈一年多的感受",
+      "onboard_time": 1717716976,
+      "rank": 30,
+      "category": "情感,互联网"
     },
     {
       "raw_hot": 157514,
@@ -9377,6 +9521,14 @@
       "onboard_time": 1717671558,
       "rank": 33,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 156595,
+      "num": 156595,
+      "word": "肖战看到了自己的地广",
+      "onboard_time": 1717716074,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 156447,
@@ -9875,14 +10027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147947,
-      "num": 147947,
-      "word": "肖战看到了自己的地广",
-      "onboard_time": 1717716074,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147481,
       "num": 147481,
       "word": "辛芷蕾的松弛感绝了",
@@ -10115,12 +10259,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 144092,
-      "num": 144092,
-      "word": "大二女生175斤减到94斤变化惊艳",
-      "onboard_time": 1717716376,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 144279,
+      "num": 144279,
+      "word": "为什么很多年轻人会吃冰上瘾",
+      "onboard_time": 1717717336,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 144045,
@@ -10137,6 +10281,14 @@
       "onboard_time": 1717641437,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143476,
+      "num": 143476,
+      "word": "25岁好像是人生的分水岭",
+      "onboard_time": 1717717037,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 143325,
@@ -10161,14 +10313,6 @@
       "onboard_time": 1717570398,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142599,
-      "num": 142599,
-      "word": "檀健次 替大家问过高考了",
-      "onboard_time": 1717715715,
-      "rank": 19,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 142524,
@@ -10491,6 +10635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137945,
+      "num": 137945,
+      "word": "独行侠vs凯尔特人",
+      "onboard_time": 1717723038,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137686,
       "num": 137686,
       "word": "俞飞鸿曾说无法接受当众求婚",
@@ -10771,6 +10923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132289,
+      "num": 127256,
+      "word": "Rookie希望大家都能有好结果",
+      "onboard_time": 1717723157,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132134,
       "num": 132134,
       "word": "赵丽娜羡慕吴艳妮的个性",
@@ -10945,6 +11105,14 @@
       "onboard_time": 1717470317,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129180,
+      "num": 129180,
+      "word": "博物馆萌物为考生加油",
+      "onboard_time": 1717721958,
+      "rank": 40,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 128803,
@@ -11603,6 +11771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119858,
+      "num": 119858,
+      "word": "张桂梅和华坪女高考生合唱万疆",
+      "onboard_time": 1717719799,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119705,
       "num": 202873,
       "word": "向为金色麦田上分的他们道一声辛苦",
@@ -12251,6 +12427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 110359,
+      "num": 159770,
+      "word": "祝1342万考生大胜归来",
+      "onboard_time": 1717719378,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110225,
       "num": 110225,
       "word": "赵露思的出片秘密",
@@ -12297,6 +12481,14 @@
       "onboard_time": 1717586958,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109038,
+      "num": 109038,
+      "word": "没必要为三五年后的前途担忧",
+      "onboard_time": 1717723157,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 109035,
@@ -12457,14 +12649,6 @@
       "onboard_time": 1717420879,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 106680,
-      "num": 106680,
-      "word": "IU捡了只洞洞鞋",
-      "onboard_time": 1717716074,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 106583,

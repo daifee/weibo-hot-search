@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 07:34:45
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/07 09:21:51
 </p>
 </blockquote>
 <p>
@@ -879,6 +879,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
+高考（热度：4887908）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%A4%8D%E5%A9%9A%23" target="weibo">
 金星复婚（热度：4878022）
 </a>
@@ -1613,12 +1619,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%AB%B9%E5%9B%9E%E5%BA%94%23" target="weibo">
 谭竹回应（热度：3222104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
-高考（热度：3210271）
 </a>
 </li>
 

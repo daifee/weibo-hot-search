@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 07:34:45
+本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 09:21:51
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,25 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
-高考（热度：3210271）
+高考（热度：4887908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA%E7%9B%B4%E6%92%AD%E9%AB%98%E8%80%83%E7%9A%84%E4%BA%BA%23" target="weibo">
+全国第一个直播高考的人（热度：1768901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E7%AC%AC1%E6%89%B9%E5%BC%84%E4%B8%A2%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+2024第1批弄丢身份证的考生出现了（热度：981229）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F175%E6%96%A4%E5%87%8F%E5%88%B094%E6%96%A4%E5%8F%98%E5%8C%96%E6%83%8A%E8%89%B3%23" target="weibo">
+大二女生175斤减到94斤变化惊艳（热度：884612）
 </a>
 </li>
 
@@ -27,8 +45,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%20%E4%B8%8B%E9%9B%A8%23" target="weibo">
+高考 下雨（热度：722184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96%E5%90%8E%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%A5%B9%E7%9A%84%E5%B1%8B%E5%AD%90%E7%9C%8B%E7%94%B5%E8%A7%86%23" target="weibo">
 奶奶去世后第一次在她的屋子看电视（热度：687221）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%231342%E4%B8%87%E4%BA%BA%E4%BB%8A%E5%A4%A9%E9%AB%98%E8%80%83%23" target="weibo">
+1342万人今天高考（热度：673644）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AB%98%E8%80%83%E4%B8%8D%E6%AD%A2%E4%B8%A4%E5%A4%A9%23" target="weibo">
+原来高考不止两天（热度：601168）
 </a>
 </li>
 
@@ -45,8 +81,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%231342%E4%B8%87%E4%BA%BA%E4%BB%8A%E5%A4%A9%E9%AB%98%E8%80%83%23" target="weibo">
-1342万人今天高考（热度：568788）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%98%AF%E5%9C%A8%E8%B7%B7%E4%BA%8C%E9%83%8E%E8%85%BF%E5%90%97%23" target="weibo">
+刘亦菲是在跷二郎腿吗（热度：525761）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%BA%8A%E4%B8%8A%E4%B9%B1%E8%B9%A6%23" target="weibo">
+建议大家不要在床上乱蹦（热度：513792）
 </a>
 </li>
 
@@ -69,14 +111,32 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E9%AB%98%E8%80%83%E4%B8%80%E4%B8%BE%E9%AB%98%E7%B2%BD%23" target="weibo">
+今日高考一举高粽（热度：462525）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E4%B8%AA%E8%AE%A9%E6%92%92%E8%B4%9D%E5%AE%81%E6%8E%A5%E4%B8%8D%E4%B8%8A%E8%AF%9D%E7%9A%84%E4%BA%BA%23" target="weibo">
+第二个让撒贝宁接不上话的人（热度：451678）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%A5%B9%E5%9C%A8%E8%B5%B0%E5%BC%AF%E8%B7%AF%23" target="weibo">
 10岁大学生父亲称她在走弯路（热度：421074）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E4%B8%AA%E8%AE%A9%E6%92%92%E8%B4%9D%E5%AE%81%E6%8E%A5%E4%B8%8D%E4%B8%8A%E8%AF%9D%E7%9A%84%E4%BA%BA%23" target="weibo">
-第二个让撒贝宁接不上话的人（热度：366693）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%84%8F%E7%BC%BA%E5%95%A5%E8%84%B8%E4%B8%8A%E5%B0%B1%E4%BC%9A%E9%95%BF%E5%95%A5%23" target="weibo">
+内脏缺啥脸上就会长啥（热度：387732）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A4%A7%E5%A4%9A%E6%95%B0%E6%B8%85%E5%8C%97%E5%AE%B6%E9%95%BF%E6%95%99%E4%B8%8D%E5%87%BA%E6%B8%85%E5%8C%97%E5%AD%A9%E5%AD%90%23" target="weibo">
+为啥大多数清北家长教不出清北孩子（热度：354357）
 </a>
 </li>
 
@@ -93,8 +153,32 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%23" target="weibo">
+高考时间（热度：327972）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E5%85%AD%E6%97%AC%E8%80%81%E6%B1%89%E8%B5%9A%E9%92%B1%E4%B8%8D%E6%98%93%23" target="weibo">
+吴镇宇六旬老汉赚钱不易（热度：326405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E8%BE%9E%E6%95%99%E8%81%8C%E5%9C%A8%E8%8B%B1%E5%9B%BD%E6%91%86%E6%91%8A%E5%B9%B4%E6%8C%A3180%E4%B8%87%23" target="weibo">
 夫妻辞教职在英国摆摊年挣180万（热度：320004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%87%BA%E5%8F%91%E6%B3%95%E7%BD%91%E5%85%AC%E5%BC%80%E8%B5%9B%23" target="weibo">
+王一博出发法网公开赛（热度：313346）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E5%B8%A6%E7%A7%A4%E5%90%83%E9%A5%AD%E5%9D%9A%E6%8C%81%E4%BA%867%E5%B9%B4%23" target="weibo">
+刘惜君带秤吃饭坚持了7年（热度：278732）
 </a>
 </li>
 
@@ -129,6 +213,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+十个勤天演唱会（热度：256213）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A5%9A%E4%B9%94%E4%BC%A02%E6%B2%A1%E6%9C%89%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%23" target="weibo">
 楚乔传2没有赵丽颖林更新（热度：244136）
 </a>
@@ -143,6 +233,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%23" target="weibo">
 2024祝福高考学子（热度：239830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%9E%81%E8%87%B4%E7%9C%81%E9%92%B1%E6%94%92%E4%B8%8B20%E4%B8%87%E6%88%90%E5%8A%9F%E6%B1%82%E5%A9%9A%23" target="weibo">
+00后极致省钱攒下20万成功求婚（热度：218006）
 </a>
 </li>
 
@@ -183,6 +279,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%B0%8F%E7%AB%A5%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B5%94200%23" target="weibo">
+赵小童一个人赔200（热度：195940）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%8B%87%E9%97%AF%E9%9D%9E%E6%B4%B22%E5%B9%B4%E6%94%9250%E4%B8%87%23" target="weibo">
 00后女孩勇闯非洲2年攒50万（热度：193676）
 </a>
@@ -207,8 +309,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%BA%8A%E4%B8%8A%E4%B9%B1%E8%B9%A6%23" target="weibo">
-建议大家不要在床上乱蹦（热度：186784）
+<a href="https://s.weibo.com/weibo?q=%23IU%E6%8D%A1%E4%BA%86%E5%8F%AA%E6%B4%9E%E6%B4%9E%E9%9E%8B%23" target="weibo">
+IU捡了只洞洞鞋（热度：187812）
 </a>
 </li>
 
@@ -219,8 +321,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%84%8F%E7%BC%BA%E5%95%A5%E8%84%B8%E4%B8%8A%E5%B0%B1%E4%BC%9A%E9%95%BF%E5%95%A5%23" target="weibo">
-内脏缺啥脸上就会长啥（热度：184984）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%20%E6%9B%BF%E5%A4%A7%E5%AE%B6%E9%97%AE%E8%BF%87%E9%AB%98%E8%80%83%E4%BA%86%23" target="weibo">
+檀健次 替大家问过高考了（热度：169577）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%88%AB%E5%AF%B9%E7%B4%A7%E5%BC%A0%E7%9A%84%E9%AB%98%E8%80%83%E7%94%9F%E8%AF%B4%E8%BF%993%E4%B8%AA%E5%AD%97%23" target="weibo">
+家长别对紧张的高考生说这3个字（热度：164476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E5%85%AD%E6%9C%88%23" target="weibo">
+高考为什么在六月（热度：164431）
 </a>
 </li>
 
@@ -231,20 +345,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232024%E7%AC%AC1%E6%89%B9%E5%BC%84%E4%B8%A2%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-2024第1批弄丢身份证的考生出现了（热度：158224）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8F%91%E4%B8%8D%E7%9C%8B%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%80%E5%B9%B4%E5%A4%9A%E7%9A%84%E6%84%9F%E5%8F%97%23" target="weibo">
+不发不看朋友圈一年多的感受（热度：157566）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9C%B0%E5%B9%BF%23" target="weibo">
+肖战看到了自己的地广（热度：156595）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8D%A1%E5%BA%9F%E5%93%81%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E7%9A%84%E5%BA%9E%E4%BC%97%E6%9C%9B%E7%8E%B0%E7%8A%B6%23" target="weibo">
 捡废品考上清华的庞众望现状（热度：155950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9C%8B%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9C%B0%E5%B9%BF%23" target="weibo">
-肖战看到了自己的地广（热度：147947）
 </a>
 </li>
 
@@ -261,20 +375,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F175%E6%96%A4%E5%87%8F%E5%88%B094%E6%96%A4%E5%8F%98%E5%8C%96%E6%83%8A%E8%89%B3%23" target="weibo">
-大二女生175斤减到94斤变化惊艳（热度：144092）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%BC%9A%E5%90%83%E5%86%B0%E4%B8%8A%E7%98%BE%23" target="weibo">
+为什么很多年轻人会吃冰上瘾（热度：144279）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%20%E6%9B%BF%E5%A4%A7%E5%AE%B6%E9%97%AE%E8%BF%87%E9%AB%98%E8%80%83%E4%BA%86%23" target="weibo">
-檀健次 替大家问过高考了（热度：142599）
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%BD%E5%83%8F%E6%98%AF%E4%BA%BA%E7%94%9F%E7%9A%84%E5%88%86%E6%B0%B4%E5%B2%AD%23" target="weibo">
+25岁好像是人生的分水岭（热度：143476）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%8B%E6%84%8F%E8%AF%86%E4%BF%9D%E6%8A%A4%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
 李昀锐下意识保护孟子义（热度：140699）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%A1%8C%E4%BE%A0vs%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%23" target="weibo">
+独行侠vs凯尔特人（热度：137945）
 </a>
 </li>
 
@@ -291,14 +411,38 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Rookie%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E9%83%BD%E8%83%BD%E6%9C%89%E5%A5%BD%E7%BB%93%E6%9E%9C%23" target="weibo">
+Rookie希望大家都能有好结果（热度：132289）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B4%E5%94%B1%E5%86%A0%E5%86%9B%E4%B8%89%E5%B9%B4%E5%BD%92%E6%9D%A5%E4%BB%8D%E6%98%AF%E7%B4%A0%E4%BA%BA%23" target="weibo">
 说唱冠军三年归来仍是素人（热度：129313）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E8%90%8C%E7%89%A9%E4%B8%BA%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23" target="weibo">
+博物馆萌物为考生加油（热度：129180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E5%A5%BD%E6%9C%89%E5%BC%A0%E5%8A%9B%E7%9A%84%E6%8B%89%E6%89%AF%23" target="weibo">
 墨雨云间 好有张力的拉扯（热度：124233）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
+玫瑰的故事（热度：120325）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E5%92%8C%E5%8D%8E%E5%9D%AA%E5%A5%B3%E9%AB%98%E8%80%83%E7%94%9F%E5%90%88%E5%94%B1%E4%B8%87%E7%96%86%23" target="weibo">
+张桂梅和华坪女高考生合唱万疆（热度：119858）
 </a>
 </li>
 
@@ -315,8 +459,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23IU%E6%8D%A1%E4%BA%86%E5%8F%AA%E6%B4%9E%E6%B4%9E%E9%9E%8B%23" target="weibo">
-IU捡了只洞洞鞋（热度：106680）
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%8A%A4%E8%82%A4%E5%92%8C%E4%B8%8D%E6%8A%A4%E8%82%A4%E7%9A%84%E5%8C%BA%E5%88%AB%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
+长期护肤和不护肤的区别有多大（热度：113964）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D1342%E4%B8%87%E8%80%83%E7%94%9F%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23" target="weibo">
+祝1342万考生大胜归来（热度：110359）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%BF%85%E8%A6%81%E4%B8%BA%E4%B8%89%E4%BA%94%E5%B9%B4%E5%90%8E%E7%9A%84%E5%89%8D%E9%80%94%E6%8B%85%E5%BF%A7%23" target="weibo">
+没必要为三五年后的前途担忧（热度：109038）
 </a>
 </li>
 
@@ -603,6 +759,12 @@ IU捡了只洞洞鞋（热度：106680）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%E7%A5%9D%E7%A6%8F%E8%80%83%E7%94%9F%E9%AB%98%E4%B8%AD%23" target="weibo">
+嫦娥六号祝福考生高中（热度：12002）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%AF%84%E8%AF%AD%E8%8B%8F%E5%B7%9E%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%23" target="weibo">
 张雪峰寄语苏州高考学子（热度：11845）
 </a>
@@ -617,12 +779,6 @@ IU捡了只洞洞鞋（热度：106680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9C%B0%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E6%8A%A4%E8%88%AA%E9%AB%98%E8%80%83%23" target="weibo">
 各地全力以赴护航高考（热度：9273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%E7%A5%9D%E7%A6%8F%E8%80%83%E7%94%9F%E9%AB%98%E4%B8%AD%23" target="weibo">
-嫦娥六号祝福考生高中（热度：7523）
 </a>
 </li>
 
