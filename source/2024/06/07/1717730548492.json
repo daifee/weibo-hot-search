@@ -1,0 +1,410 @@
+{
+  "runTime": 1717730548492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3731161,
+        "num": 3731161,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3540318,
+        "num": 3540318,
+        "word": "高考",
+        "onboard_time": 1717715355,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157961,
+        "num": 2670014,
+        "word": "2024年高考第1天",
+        "onboard_time": 1717728976,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2218032,
+        "num": 2218032,
+        "word": "高考第一题你还能拿下吗",
+        "onboard_time": 1717726518,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1846504,
+        "num": 1846504,
+        "word": "高考语文",
+        "onboard_time": 1717729999,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 616197,
+        "num": 616197,
+        "word": "17岁女孩酷似87版林黛玉",
+        "onboard_time": 1717728617,
+        "rank": 5,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 537025,
+        "num": 537025,
+        "word": "宁德时代",
+        "onboard_time": 1717727898,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 533125,
+        "num": 533125,
+        "word": "今日高考一举高粽",
+        "onboard_time": 1717715535,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 528714,
+        "num": 528714,
+        "word": "原来高考不止两天",
+        "onboard_time": 1717719799,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79927,
+        "num": 507489,
+        "word": "小语种高考人数持续增长",
+        "onboard_time": 1717729218,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 505256,
+        "num": 505256,
+        "word": "邓超孙俪见证了14届高考",
+        "onboard_time": 1717729038,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489850,
+        "num": 489850,
+        "word": "高考时间",
+        "onboard_time": 1717718358,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 476205,
+        "num": 476205,
+        "word": "高考语文盲文卷要考225分钟",
+        "onboard_time": 1717728799,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 460550,
+        "num": 460550,
+        "word": "上海迪士尼年卡调整",
+        "onboard_time": 1717727537,
+        "rank": 13,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 442182,
+        "num": 442182,
+        "word": "你记得高考语文成绩吗",
+        "onboard_time": 1717726337,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 433859,
+        "num": 433859,
+        "word": "孙俪世界上忍耐性最强的女人",
+        "onboard_time": 1717729158,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405713,
+        "num": 405713,
+        "word": "2024第1批弄丢身份证的考生出现了",
+        "onboard_time": 1717715955,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 377383,
+        "num": 377383,
+        "word": "1342万人今天高考",
+        "onboard_time": 1717715535,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 319440,
+        "num": 319440,
+        "word": "为什么毕业很久还会为高考感动",
+        "onboard_time": 1717724477,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 309959,
+        "num": 309959,
+        "word": "直击多地高考第一现场",
+        "onboard_time": 1717724177,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1355321,
+        "num": 304134,
+        "word": "全国第一个直播高考的人",
+        "onboard_time": 1717719618,
+        "rank": 20,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 475032,
+        "num": 302645,
+        "word": "邓超孙俪结婚14周年",
+        "onboard_time": 1717727177,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292683,
+        "num": 292683,
+        "word": "盲人高考时间是普通卷的1.5倍",
+        "onboard_time": 1717727537,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 250015,
+        "num": 250015,
+        "word": "高考首日衡水高三学生最后一次跑操",
+        "onboard_time": 1717724477,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 249914,
+        "num": 249914,
+        "word": "庆余年2让高曙光难熬了五年",
+        "onboard_time": 1717724359,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248031,
+        "num": 248031,
+        "word": "刘亦菲是在跷二郎腿吗",
+        "onboard_time": 1717718118,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247582,
+        "num": 247582,
+        "word": "我在串串房里度过发霉的29岁",
+        "onboard_time": 1717727657,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245804,
+        "num": 245804,
+        "word": "大一和大四真的一眼就能看出来",
+        "onboard_time": 1717729519,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216017,
+        "num": 216017,
+        "word": "杭州妈妈穿旗袍拿向日葵为孩子送考",
+        "onboard_time": 1717724777,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 215575,
+        "num": 215575,
+        "word": "内脏缺啥脸上就会长啥",
+        "onboard_time": 1717715895,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261582,
+        "num": 212041,
+        "word": "网易云音乐歌单呢",
+        "onboard_time": 1717729218,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 204442,
+        "num": 204442,
+        "word": "大二女生175斤减到94斤变化惊艳",
+        "onboard_time": 1717716376,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200680,
+        "num": 200680,
+        "word": "凯尔特人1比0独行侠",
+        "onboard_time": 1717729938,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197640,
+        "num": 197640,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1717720877,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191865,
+        "num": 191865,
+        "word": "祝1342万考生大胜归来",
+        "onboard_time": 1717719378,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172436,
+        "num": 172436,
+        "word": "被民警抬进考场是什么体验",
+        "onboard_time": 1717727777,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166445,
+        "num": 166445,
+        "word": "高考 四天",
+        "onboard_time": 1717730059,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157623,
+        "num": 157623,
+        "word": "NBA",
+        "onboard_time": 1717730360,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150523,
+        "num": 150523,
+        "word": "高考前一天收到了去世太姥姥的祝福",
+        "onboard_time": 1717727836,
+        "rank": 38,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 150069,
+        "num": 150069,
+        "word": "丁程鑫严浩翔对马嘉祺唱快乐星球",
+        "onboard_time": 1717729938,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146913,
+        "num": 146913,
+        "word": "当古代人第一次吃樱桃",
+        "onboard_time": 1717728917,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143365,
+        "num": 143365,
+        "word": "刘惜君带秤吃饭坚持了7年",
+        "onboard_time": 1717720579,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142785,
+        "num": 142785,
+        "word": "欧文12分",
+        "onboard_time": 1717730420,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131808,
+        "num": 131808,
+        "word": "王一博出发法网公开赛",
+        "onboard_time": 1717721119,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 127037,
+        "num": 127037,
+        "word": "被高考考场外的阿sir帅到了",
+        "onboard_time": 1717723578,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 125512,
+        "num": 125512,
+        "word": "高考忘带准考证有解了",
+        "onboard_time": 1717730360,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125117,
+        "num": 125117,
+        "word": "独行侠vs凯尔特人",
+        "onboard_time": 1717723038,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123874,
+        "num": 123874,
+        "word": "王星越十五岁上大学",
+        "onboard_time": 1717730420,
+        "rank": 47,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 116859,
+        "num": 116859,
+        "word": "郭艾伦范志毅来看NBA了",
+        "onboard_time": 1717730480,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115890,
+        "num": 115890,
+        "word": "高考首日顺顺利利",
+        "onboard_time": 1717726217,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国肯恩大学校长#"
+    }
+  }
+}

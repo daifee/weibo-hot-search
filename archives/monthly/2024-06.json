@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717728380918,
+  "endTime": 1717730548492,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -33,6 +33,14 @@
       "onboard_time": 1717244958,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3731161,
+      "num": 3731161,
+      "word": "高考作文",
+      "onboard_time": 1717729999,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 2931096,
@@ -97,6 +105,14 @@
       "onboard_time": 1717208478,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2218032,
+      "num": 2218032,
+      "word": "高考第一题你还能拿下吗",
+      "onboard_time": 1717726518,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 2119199,
@@ -185,6 +201,14 @@
       "onboard_time": 1717422559,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1846504,
+      "num": 1846504,
+      "word": "高考语文",
+      "onboard_time": 1717729999,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 1838639,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1717166422,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1022593,
-      "num": 1022593,
-      "word": "高考第一题你还能拿下吗",
-      "onboard_time": 1717726518,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 1021664,
@@ -2459,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616197,
+      "num": 616197,
+      "word": "17岁女孩酷似87版林黛玉",
+      "onboard_time": 1717728617,
+      "rank": 5,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 614816,
       "num": 614816,
       "word": "TypeC嘴",
@@ -3003,6 +3027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537025,
+      "num": 537025,
+      "word": "宁德时代",
+      "onboard_time": 1717727898,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 537019,
       "num": 537019,
       "word": "刘宇宁李一桐吻戏路透",
@@ -3017,6 +3049,14 @@
       "onboard_time": 1717216336,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533125,
+      "num": 533125,
+      "word": "今日高考一举高粽",
+      "onboard_time": 1717715535,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 532835,
@@ -3291,6 +3331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505256,
+      "num": 505256,
+      "word": "邓超孙俪见证了14届高考",
+      "onboard_time": 1717729038,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 505141,
       "num": 505141,
       "word": "墨雨云间 好有张力的拉扯",
@@ -3443,6 +3491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489850,
+      "num": 489850,
+      "word": "高考时间",
+      "onboard_time": 1717375818,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 489087,
       "num": 489087,
       "word": "苗苗对郑恺一见钟情",
@@ -3540,7 +3596,7 @@
     },
     {
       "raw_hot": 478547,
-      "num": 204739,
+      "num": 302645,
       "word": "邓超孙俪结婚14周年",
       "onboard_time": 1717727177,
       "rank": 22,
@@ -3569,6 +3625,14 @@
       "onboard_time": 1717468456,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476205,
+      "num": 476205,
+      "word": "高考语文盲文卷要考225分钟",
+      "onboard_time": 1717728799,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 475854,
@@ -3683,14 +3747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 462525,
-      "num": 462525,
-      "word": "今日高考一举高粽",
-      "onboard_time": 1717715535,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 462159,
       "num": 462159,
       "word": "杭州妈妈穿旗袍拿向日葵为孩子送考",
@@ -3713,6 +3769,14 @@
       "onboard_time": 1717276451,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 460550,
+      "num": 460550,
+      "word": "上海迪士尼年卡调整",
+      "onboard_time": 1717727537,
+      "rank": 31,
+      "category": "旅游"
     },
     {
       "raw_hot": 460102,
@@ -3907,6 +3971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 442182,
+      "num": 442182,
+      "word": "你记得高考语文成绩吗",
+      "onboard_time": 1717726337,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 441747,
       "num": 441747,
       "word": "李梦长公主好疯",
@@ -4024,6 +4096,14 @@
       "word": "刘诗诗 BobbiBrown",
       "onboard_time": 1717386319,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 433859,
+      "num": 433859,
+      "word": "孙俪世界上忍耐性最强的女人",
+      "onboard_time": 1717729158,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4516,7 +4596,7 @@
     },
     {
       "raw_hot": 395417,
-      "num": 248191,
+      "num": 249914,
       "word": "庆余年2让高曙光难熬了五年",
       "onboard_time": 1717724359,
       "rank": 23,
@@ -5004,7 +5084,7 @@
     },
     {
       "raw_hot": 356075,
-      "num": 200979,
+      "num": 292683,
       "word": "盲人高考时间是普通卷的1.5倍",
       "onboard_time": 1717727537,
       "rank": 25,
@@ -5425,14 +5505,6 @@
       "onboard_time": 1717484418,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 327972,
-      "num": 327972,
-      "word": "高考时间",
-      "onboard_time": 1717375818,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 326405,
@@ -6139,14 +6211,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 288732,
-      "num": 202680,
-      "word": "你记得高考语文成绩吗",
-      "onboard_time": 1717726337,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 288301,
       "num": 288301,
       "word": "这英去摇龚琳娜了",
@@ -6755,6 +6819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 261582,
+      "num": 212041,
+      "word": "网易云音乐歌单呢",
+      "onboard_time": 1717729218,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 260885,
       "num": 260885,
       "word": "孙颖莎3比0田志希",
@@ -7003,14 +7075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251306,
-      "num": 251306,
-      "word": "上海迪士尼年卡调整",
-      "onboard_time": 1717727537,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 251302,
       "num": 251302,
       "word": "冰箱贴比冰箱还贵",
@@ -7067,6 +7131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247582,
+      "num": 247582,
+      "word": "我在串串房里度过发霉的29岁",
+      "onboard_time": 1717727657,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247521,
       "num": 247521,
       "word": "90后盲人宝妈教万名视障女孩化妆",
@@ -7105,6 +7177,14 @@
       "onboard_time": 1717426219,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 245804,
+      "num": 245804,
+      "word": "大一和大四真的一眼就能看出来",
+      "onboard_time": 1717729519,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 245545,
@@ -7313,14 +7393,6 @@
       "onboard_time": 1717308138,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236208,
-      "num": 236208,
-      "word": "宁德时代",
-      "onboard_time": 1717727898,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 236075,
@@ -8755,6 +8827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200680,
+      "num": 200680,
+      "word": "凯尔特人1比0独行侠",
+      "onboard_time": 1717729938,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200650,
       "num": 195308,
       "word": "6岁的侄女昨天在公园报警",
@@ -9457,14 +9537,6 @@
       "onboard_time": 1717498516,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191509,
-      "num": 187913,
-      "word": "我在串串房里度过发霉的29岁",
-      "onboard_time": 1717727657,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 191154,
@@ -10571,6 +10643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172436,
+      "num": 172436,
+      "word": "被民警抬进考场是什么体验",
+      "onboard_time": 1717727777,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172428,
       "num": 172428,
       "word": "邓超先秦淑女步",
@@ -10897,6 +10977,14 @@
       "onboard_time": 1717330757,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166445,
+      "num": 166445,
+      "word": "高考 四天",
+      "onboard_time": 1717730059,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 166415,
@@ -11459,6 +11547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157961,
+      "num": 2670014,
+      "word": "2024年高考第1天",
+      "onboard_time": 1717728976,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 157788,
       "num": 157788,
       "word": "原来风油精还可以这样用",
@@ -11489,6 +11585,14 @@
       "onboard_time": 1717653318,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157623,
+      "num": 157623,
+      "word": "NBA",
+      "onboard_time": 1717631958,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 157566,
@@ -12011,6 +12115,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 150069,
+      "num": 150069,
+      "word": "丁程鑫严浩翔对马嘉祺唱快乐星球",
+      "onboard_time": 1717729938,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150045,
       "num": 150045,
       "word": "杜海涛上岛了",
@@ -12209,6 +12321,14 @@
       "onboard_time": 1717403599,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146913,
+      "num": 146913,
+      "word": "当古代人第一次吃樱桃",
+      "onboard_time": 1717728917,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 146895,
@@ -12499,12 +12619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143000,
-      "num": 143000,
-      "word": "被民警抬进考场是什么体验",
-      "onboard_time": 1717727777,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 142785,
+      "num": 142785,
+      "word": "欧文12分",
+      "onboard_time": 1717730420,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 142754,
@@ -13667,14 +13787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 127053,
-      "num": 127053,
-      "word": "NBA",
-      "onboard_time": 1717631958,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127004,
       "num": 127004,
       "word": "林更新录综艺点到了赵丽颖",
@@ -13851,6 +13963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125512,
+      "num": 125512,
+      "word": "高考忘带准考证有解了",
+      "onboard_time": 1717730360,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 125430,
       "num": 125430,
       "word": "Doinb说老头杯我一定最抢手",
@@ -13969,6 +14089,14 @@
       "onboard_time": 1717679119,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123874,
+      "num": 123874,
+      "word": "王星越十五岁上大学",
+      "onboard_time": 1717730420,
+      "rank": 47,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 123803,
@@ -14483,6 +14611,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116859,
+      "num": 116859,
+      "word": "郭艾伦范志毅来看NBA了",
+      "onboard_time": 1717730480,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116689,
       "num": 116689,
       "word": "涂山红红爱与不爱很明显",
@@ -14609,6 +14745,14 @@
       "onboard_time": 1717715895,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 115890,
+      "num": 406227,
+      "word": "高考首日顺顺利利",
+      "onboard_time": 1717726217,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 115815,
@@ -16059,14 +16203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86386,
-      "num": 406227,
-      "word": "高考首日顺顺利利",
-      "onboard_time": 1717726217,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 86224,
       "num": 149776,
       "word": "林孝埈因观众为他加油感到自豪",
@@ -16272,6 +16408,14 @@
       "word": "民警高考执勤母校外给恩师献花",
       "onboard_time": 1717728077,
       "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 79927,
+      "num": 507489,
+      "word": "小语种高考人数持续增长",
+      "onboard_time": 1717729218,
+      "rank": 9,
       "category": "社会新闻,教育"
     },
     {
