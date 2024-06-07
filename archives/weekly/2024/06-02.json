@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717792474138,
+  "endTime": 1717795202485,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -16291,6 +16291,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 68024,
+      "num": 28420,
+      "word": "董宇辉小时候被抢过好多次钱",
+      "onboard_time": 1717790170,
+      "rank": 15,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 68009,
       "num": 68009,
       "word": "高考文案",
@@ -17267,20 +17275,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39663,
+      "num": 25145,
+      "word": "关晓彤无袖背心短裤",
+      "onboard_time": 1717789812,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39632,
       "num": 227227,
       "word": "郭麒麟小鬼迷失在魏大勋的粤语里",
       "onboard_time": 1717661058,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39491,
-      "num": 27212,
-      "word": "董宇辉小时候被抢过好多次钱",
-      "onboard_time": 1717790170,
-      "rank": 15,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 38843,
@@ -17851,20 +17859,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21817,
-      "num": 21817,
-      "word": "关晓彤无袖背心短裤",
-      "onboard_time": 1717789812,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 21723,
       "num": 333780,
       "word": "机车女孩教会600多个听障孩子叫妈妈",
       "onboard_time": 1717259117,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21513,
+      "num": 20995,
+      "word": "15岁的郭碧婷学生头模版",
+      "onboard_time": 1717794311,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21466,
@@ -18121,6 +18129,14 @@
       "onboard_time": 1717705631,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13326,
+      "num": 17317,
+      "word": "高考送考名场面",
+      "onboard_time": 1717792811,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13278,

@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717792474138,
+  "endTime": 1717795202485,
   "band_list": [
     {
       "raw_hot": 1441447,
@@ -371,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68024,
+      "num": 28420,
+      "word": "董宇辉小时候被抢过好多次钱",
+      "onboard_time": 1717790170,
+      "rank": 15,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 64172,
       "num": 217647,
       "word": "今年夏天要读的书是录取通知书",
@@ -427,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39491,
-      "num": 27212,
-      "word": "董宇辉小时候被抢过好多次钱",
-      "onboard_time": 1717790170,
-      "rank": 15,
-      "category": "互联网,网红"
+      "raw_hot": 39663,
+      "num": 25145,
+      "word": "关晓彤无袖背心短裤",
+      "onboard_time": 1717789812,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 36654,
@@ -467,11 +475,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21817,
-      "num": 21817,
-      "word": "关晓彤无袖背心短裤",
-      "onboard_time": 1717789812,
-      "rank": 34,
+      "raw_hot": 21513,
+      "num": 20995,
+      "word": "15岁的郭碧婷学生头模版",
+      "onboard_time": 1717794311,
+      "rank": 32,
       "category": "作品衍生"
     },
     {
@@ -505,6 +513,14 @@
       "onboard_time": 1717769902,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 13326,
+      "num": 17317,
+      "word": "高考送考名场面",
+      "onboard_time": 1717792811,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12053,
