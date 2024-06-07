@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/08 06:35:20
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/08 07:20:42
 </p>
 </blockquote>
 <p>
@@ -6003,14 +6003,14 @@ Rookie为患癌粉丝戴蓝丝带（热度：271490）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%97%93%E9%9F%B3%E6%88%96%E5%BD%B1%E5%93%8D%E5%A5%B3%E6%80%A7%E6%8B%A9%E5%81%B6%E6%A0%87%E5%87%86%23" target="weibo">
-嗓音或影响女性择偶标准（热度：259104）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%A8%80%E6%9B%BE%E5%8A%9D%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%89%8D%E7%9C%8B%E7%94%B5%E8%A7%86%23" target="weibo">
+莫言曾劝女儿高考前看电视（热度：259216）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%BA%86%E4%BD%99%E5%B9%B42%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E6%88%8F%23" target="weibo">
-张若昀庆余年2最后一场戏（热度：258354）
+<a href="https://s.weibo.com/weibo?q=%23%E5%97%93%E9%9F%B3%E6%88%96%E5%BD%B1%E5%93%8D%E5%A5%B3%E6%80%A7%E6%8B%A9%E5%81%B6%E6%A0%87%E5%87%86%23" target="weibo">
+嗓音或影响女性择偶标准（热度：259104）
 </a>
 </li>
 

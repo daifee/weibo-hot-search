@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717799720603,
+  "endTime": 1717802442514,
   "band_list": [
     {
       "raw_hot": 1441447,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318959,
+      "num": 318959,
+      "word": "何炅缺席",
+      "onboard_time": 1717762579,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286837,
       "num": 286837,
       "word": "北大物理保送生考了唯一一门语文",
@@ -147,12 +155,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259216,
+      "num": 198574,
+      "word": "莫言曾劝女儿高考前看电视",
+      "onboard_time": 1717797251,
+      "rank": 30,
+      "category": "读书作家,教育"
+    },
+    {
       "raw_hot": 248707,
       "num": 248707,
       "word": "一对日本母女在渡轮遭遇神隐",
       "onboard_time": 1717750519,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247498,
+      "num": 247498,
+      "word": "前儿媳实名举报公公有巨额不明财产",
+      "onboard_time": 1717801874,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247428,
+      "num": 247428,
+      "word": "导演称张若昀5年都没离开过范闲",
+      "onboard_time": 1717769484,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 224771,
@@ -179,19 +211,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187614,
+      "num": 187614,
+      "word": "薛芳菲我不允许任何人忤逆你",
+      "onboard_time": 1717785132,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184535,
       "num": 184535,
       "word": "那英第二",
       "onboard_time": 1717771221,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 178556,
-      "num": 178556,
-      "word": "何炅缺席",
-      "onboard_time": 1717762579,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -243,12 +275,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137353,
+      "num": 271033,
+      "word": "董宇辉称爸妈长期被骚扰",
+      "onboard_time": 1717755739,
+      "rank": 23,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 131166,
       "num": 121086,
       "word": "香缇莫唱hello",
       "onboard_time": 1717767984,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125858,
+      "num": 125858,
+      "word": "天天翻版张亮",
+      "onboard_time": 1717799713,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123076,
@@ -299,6 +347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104524,
+      "num": 91751,
+      "word": "25岁在出租屋躺了两年",
+      "onboard_time": 1717802174,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100035,
+      "num": 91711,
+      "word": "歌手",
+      "onboard_time": 1717802115,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95928,
       "num": 277387,
       "word": "数学 一生之敌",
@@ -307,12 +371,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 94705,
-      "num": 94705,
-      "word": "薛芳菲我不允许任何人忤逆你",
-      "onboard_time": 1717785132,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 95319,
+      "num": 91651,
+      "word": "56岁邱淑贞状态",
+      "onboard_time": 1717796891,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 93422,
@@ -320,6 +384,14 @@
       "word": "老师的985车牌快被摸秃噜皮了",
       "onboard_time": 1717759697,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91564,
+      "num": 91564,
+      "word": "名下五套房想签婚前协议有错吗",
+      "onboard_time": 1717801755,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -339,28 +411,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88191,
-      "num": 38277,
-      "word": "莫言曾劝女儿高考前看电视",
-      "onboard_time": 1717797251,
-      "rank": 30,
-      "category": "读书作家,教育"
-    },
-    {
-      "raw_hot": 87870,
-      "num": 271033,
-      "word": "董宇辉称爸妈长期被骚扰",
-      "onboard_time": 1717755739,
-      "rank": 23,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 83348,
       "num": 121257,
       "word": "男生高考数学估分140直呼太简单",
       "onboard_time": 1717769363,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79223,
+      "num": 79223,
+      "word": "因为端午提前发了工资",
+      "onboard_time": 1717802115,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 76136,
+      "num": 76136,
+      "word": "苗苗边看乘风边卷腹",
+      "onboard_time": 1717795691,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 73130,
@@ -388,7 +460,7 @@
     },
     {
       "raw_hot": 69363,
-      "num": 60861,
+      "num": 63936,
       "word": "董宇辉小时候被抢过好多次钱",
       "onboard_time": 1717790170,
       "rank": 15,
@@ -396,7 +468,7 @@
     },
     {
       "raw_hot": 64172,
-      "num": 217647,
+      "num": 225081,
       "word": "今年夏天要读的书是录取通知书",
       "onboard_time": 1717775839,
       "rank": 29,
@@ -404,11 +476,19 @@
     },
     {
       "raw_hot": 62568,
-      "num": 41771,
+      "num": 50694,
       "word": "15岁的郭碧婷学生头模版",
       "onboard_time": 1717794311,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60263,
+      "num": 60263,
+      "word": "真是一方减肥八方添饭啊",
+      "onboard_time": 1717801583,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 56747,
@@ -428,11 +508,35 @@
     },
     {
       "raw_hot": 56146,
-      "num": 41865,
+      "num": 53477,
       "word": "医生提醒9种面相或是疾病信号",
       "onboard_time": 1717781833,
       "rank": 30,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 55219,
+      "num": 55219,
+      "word": "宋佳真空V领",
+      "onboard_time": 1717798693,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 53239,
+      "num": 84390,
+      "word": "高考第2日",
+      "onboard_time": 1717801994,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 52725,
+      "num": 52725,
+      "word": "异地夫妻好像越来越多了",
+      "onboard_time": 1717801874,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 52391,
@@ -443,6 +547,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51762,
+      "num": 51762,
+      "word": "爸爸带红衣战袍小狗给女儿送考",
+      "onboard_time": 1717797973,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50411,
+      "num": 50411,
+      "word": "原来动画片真的没有骗我",
+      "onboard_time": 1717802174,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 50136,
       "num": 93519,
       "word": "为什么有人会有恋母情结",
@@ -451,12 +571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48617,
-      "num": 39221,
-      "word": "56岁邱淑贞状态",
-      "onboard_time": 1717796891,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 46855,
+      "num": 46855,
+      "word": "LNG回应GALA幽梦",
+      "onboard_time": 1717801583,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 40665,
@@ -464,22 +584,6 @@
       "word": "那英 灿烂的你",
       "onboard_time": 1717785132,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 38406,
-      "num": 38406,
-      "word": "宋佳真空V领",
-      "onboard_time": 1717798693,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 36914,
-      "num": 36914,
-      "word": "苗苗边看乘风边卷腹",
-      "onboard_time": 1717795691,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -507,20 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29210,
+      "num": 213044,
+      "word": "缺席儿子高考的他坚持为别人送考21年",
+      "onboard_time": 1717801512,
+      "rank": 9,
+      "category": "社会正能量,教育"
+    },
+    {
+      "raw_hot": 28278,
+      "num": 286792,
+      "word": "万千气象看北京",
+      "onboard_time": 1717769963,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28140,
       "num": 39129,
       "word": "白敬亭上身肌肉线条",
       "onboard_time": 1717774758,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 27329,
-      "num": 30780,
-      "word": "爸爸带红衣战袍小狗给女儿送考",
-      "onboard_time": 1717797973,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20910,
@@ -561,14 +673,6 @@
       "onboard_time": 1717769902,
       "rank": 18,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 16509,
-      "num": 192645,
-      "word": "万千气象看北京",
-      "onboard_time": 1717769963,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12053,
