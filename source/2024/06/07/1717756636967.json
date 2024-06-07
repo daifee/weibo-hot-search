@@ -1,0 +1,410 @@
+{
+  "runTime": 1717756636967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9533773,
+        "num": 9533773,
+        "word": "高考数学",
+        "onboard_time": 1717749858,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1906988,
+        "num": 1906988,
+        "word": "新一卷数学 大题难",
+        "onboard_time": 1717752622,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 56900,
+        "num": 1514400,
+        "word": "我国首个液体通用型火箭发射工位竣工",
+        "onboard_time": 1717751960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1469501,
+        "num": 1469501,
+        "word": "数学 我恨你",
+        "onboard_time": 1717752801,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1244119,
+        "num": 1244119,
+        "word": "高考数学难不难",
+        "onboard_time": 1717751481,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1005726,
+        "num": 1005726,
+        "word": "李晋晔 被换",
+        "onboard_time": 1717745478,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 822952,
+        "num": 822952,
+        "word": "一对日本母女在渡轮遭遇神隐",
+        "onboard_time": 1717750519,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766700,
+        "num": 766700,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 567940,
+        "num": 567940,
+        "word": "考完数学已老实",
+        "onboard_time": 1717753880,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20619,
+        "num": 529150,
+        "word": "90后小伙一笔一画展汉字之美",
+        "onboard_time": 1717755557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615904,
+        "num": 528811,
+        "word": "董宇辉称爸妈长期被骚扰",
+        "onboard_time": 1717755739,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 528183,
+        "num": 528183,
+        "word": "数学数学 我要diss你",
+        "onboard_time": 1717755619,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 502273,
+        "num": 502273,
+        "word": "高考数学答案",
+        "onboard_time": 1717754000,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 414488,
+        "num": 414488,
+        "word": "一场数学毁了我的大学梦",
+        "onboard_time": 1717755619,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 395255,
+        "num": 395255,
+        "word": "新二卷数学 看似简单不会做",
+        "onboard_time": 1717754419,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 380676,
+        "num": 380676,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 367951,
+        "num": 367951,
+        "word": "江西抚州车祸一孕妇被撞身亡",
+        "onboard_time": 1717739839,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 9279,
+        "num": 349341,
+        "word": "东阿阿胶把古装热剧包圆了",
+        "onboard_time": 1717752261,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333310,
+        "num": 333310,
+        "word": "18斤榴莲复秤仅8斤",
+        "onboard_time": 1717752622,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 318145,
+        "num": 318145,
+        "word": "微信回应登上高考作文",
+        "onboard_time": 1717737800,
+        "rank": 19,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 592113,
+        "num": 314392,
+        "word": "金晨下衣失踪",
+        "onboard_time": 1717749558,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 372599,
+        "num": 309419,
+        "word": "何洁路人缘",
+        "onboard_time": 1717752142,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291996,
+        "num": 291996,
+        "word": "警号985211的民警手被拍红了",
+        "onboard_time": 1717744519,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 286842,
+        "num": 286842,
+        "word": "逆水寒免费眷思量时装",
+        "onboard_time": 1717756219,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270698,
+        "num": 270698,
+        "word": "乙卷没了",
+        "onboard_time": 1717733304,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265218,
+        "num": 265218,
+        "word": "刘亦菲喝多被万茜嫌弃了",
+        "onboard_time": 1717744458,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245878,
+        "num": 245878,
+        "word": "考笑了",
+        "onboard_time": 1717756219,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227233,
+        "num": 227233,
+        "word": "甲卷数学 算不完",
+        "onboard_time": 1717754299,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218694,
+        "num": 218694,
+        "word": "女大学生考点摆摊拍照每张9.85元",
+        "onboard_time": 1717755079,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24863,
+        "num": 209220,
+        "word": "日本酒店无头男尸案公审",
+        "onboard_time": 1717756578,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222999,
+        "num": 205961,
+        "word": "专家点评高考语文试题",
+        "onboard_time": 1717756158,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201750,
+        "num": 201750,
+        "word": "王俊凯透露演唱会会开的",
+        "onboard_time": 1717750640,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200296,
+        "num": 200296,
+        "word": "北电毕业照没有张子枫",
+        "onboard_time": 1717734323,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190062,
+        "num": 190062,
+        "word": "女子离婚后欲为儿子改名被驳",
+        "onboard_time": 1717750577,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183653,
+        "num": 183653,
+        "word": "黑神话",
+        "onboard_time": 1717752921,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181003,
+        "num": 181003,
+        "word": "吴谨言提早三个月进组跟郝蕾学表演",
+        "onboard_time": 1717743738,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200061,
+        "num": 180463,
+        "word": "王俊凯IP正确手势正确",
+        "onboard_time": 1717745478,
+        "rank": 36,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 179399,
+        "num": 179399,
+        "word": "我们在学数学 而他重新发现了数学",
+        "onboard_time": 1717755918,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177927,
+        "num": 177927,
+        "word": "北京高考数学 谁出的",
+        "onboard_time": 1717755918,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175883,
+        "num": 175883,
+        "word": "上海高考数学 破防",
+        "onboard_time": 1717754000,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175587,
+        "num": 175587,
+        "word": "王星越买炒饭被抓合照",
+        "onboard_time": 1717752021,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172263,
+        "num": 172263,
+        "word": "吴镇宇 费曼只会上网给意见",
+        "onboard_time": 1717748238,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169723,
+        "num": 169723,
+        "word": "立体几何",
+        "onboard_time": 1717755557,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12715,
+        "num": 164394,
+        "word": "打工人的尽头是带薪养生",
+        "onboard_time": 1717756397,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163156,
+        "num": 163156,
+        "word": "网传海南省高考语文卷未发条形码",
+        "onboard_time": 1717750577,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159980,
+        "num": 159980,
+        "word": "大熊猫jiojio有多臭啊要洗这么久",
+        "onboard_time": 1717742659,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9151,
+        "num": 158523,
+        "word": "夏季该怎么选面霜",
+        "onboard_time": 1717756578,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 157958,
+        "num": 157958,
+        "word": "黑神话悟空 配置",
+        "onboard_time": 1717751000,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155885,
+        "num": 155885,
+        "word": "退休老师出闲置遇高考生直接送",
+        "onboard_time": 1717756460,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149995,
+        "num": 149995,
+        "word": "infp好像天生就很会共情",
+        "onboard_time": 1717754600,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#愿早日建成中吉乌铁路这条战略通道#"
+    }
+  }
+}
