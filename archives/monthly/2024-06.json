@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717784786730,
+  "endTime": 1717785543660,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -19388,7 +19388,7 @@
     },
     {
       "raw_hot": 56146,
-      "num": 35027,
+      "num": 41865,
       "word": "医生提醒9种面相或是疾病信号",
       "onboard_time": 1717781833,
       "rank": 30,
@@ -19907,6 +19907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40665,
+      "num": 40665,
+      "word": "那英 灿烂的你",
+      "onboard_time": 1717785132,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40643,
       "num": 194550,
       "word": "问界新M7Ultra上市即交付",
@@ -20153,6 +20161,14 @@
       "onboard_time": 1717230137,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 33703,
+      "num": 39186,
+      "word": "汪苏泷 你在不在",
+      "onboard_time": 1717785312,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 33483,
@@ -20404,11 +20420,19 @@
     },
     {
       "raw_hot": 28140,
-      "num": 28140,
+      "num": 39129,
       "word": "白敬亭上身肌肉线条",
       "onboard_time": 1717774758,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27490,
+      "num": 39102,
+      "word": "薛芳菲我不允许任何人忤逆你",
+      "onboard_time": 1717785132,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 27362,

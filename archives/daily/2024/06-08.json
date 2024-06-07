@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717784786730,
+  "endTime": 1717785543660,
   "band_list": [
     {
       "raw_hot": 1441447,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 56146,
-      "num": 35027,
+      "num": 41865,
       "word": "医生提醒9种面相或是疾病信号",
       "onboard_time": 1717781833,
       "rank": 30,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 40665,
+      "num": 40665,
+      "word": "那英 灿烂的你",
+      "onboard_time": 1717785132,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36654,
       "num": 1023103,
       "word": "中华文化传承发展新华章",
@@ -419,16 +427,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33703,
+      "num": 39186,
+      "word": "汪苏泷 你在不在",
+      "onboard_time": 1717785312,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28140,
-      "num": 28140,
+      "num": 39129,
       "word": "白敬亭上身肌肉线条",
       "onboard_time": 1717774758,
       "rank": 46,
       "category": "作品衍生"
     },
     {
+      "raw_hot": 27490,
+      "num": 39102,
+      "word": "薛芳菲我不允许任何人忤逆你",
+      "onboard_time": 1717785132,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19308,
-      "num": 28008,
+      "num": 39003,
       "word": "数学数学 我要diss你",
       "onboard_time": 1717755619,
       "rank": 49,
@@ -451,7 +475,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 9606,
+      "raw_hot": 10446,
       "num": 192645,
       "word": "万千气象看北京",
       "onboard_time": 1717769963,
