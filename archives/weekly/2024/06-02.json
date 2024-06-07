@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717731378104,
+  "endTime": 1717734215708,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -35,8 +35,16 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 3089096,
-      "num": 3089096,
+      "raw_hot": 3412141,
+      "num": 3412141,
+      "word": "高考作文 人工智能",
+      "onboard_time": 1717731506,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 3258978,
+      "num": 3258978,
       "word": "高考语文",
       "onboard_time": 1717729999,
       "rank": 4,
@@ -65,6 +73,14 @@
       "onboard_time": 1717395378,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2416735,
+      "num": 2416735,
+      "word": "乙卷没了",
+      "onboard_time": 1717733304,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 2400189,
@@ -515,6 +531,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1288954,
+      "num": 1288954,
+      "word": "上海卷 抽象",
+      "onboard_time": 1717732703,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1285089,
       "num": 1285089,
       "word": "肖战重庆暴走",
@@ -587,6 +611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1210169,
+      "num": 1210169,
+      "word": "高考作文 比去年简单",
+      "onboard_time": 1717732585,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1205638,
       "num": 1205638,
       "word": "徐艺洋运动就会恶心",
@@ -617,6 +649,14 @@
       "onboard_time": 1717459038,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1184314,
+      "num": 1184314,
+      "word": "甲卷作文 简单",
+      "onboard_time": 1717732285,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 1183714,
@@ -875,6 +915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1017215,
+      "num": 1017215,
+      "word": "邓超孙俪见证了14届高考",
+      "onboard_time": 1717729038,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1016862,
       "num": 1016862,
       "word": "养了6年的巨骨舌鱼把自己摔死了",
@@ -1091,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 878413,
+      "num": 878413,
+      "word": "新高考一卷默写",
+      "onboard_time": 1717733123,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 871614,
       "num": 871614,
       "word": "张雪峰连麦490多分农村女孩",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1717331597,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 834966,
+      "num": 834966,
+      "word": "高考默写",
+      "onboard_time": 1717733244,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 833167,
@@ -1627,6 +1691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 721354,
+      "num": 721354,
+      "word": "高考作文紧跟时事",
+      "onboard_time": 1717732404,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 719095,
       "num": 314795,
       "word": "巨婴式婚姻",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1717328358,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 714550,
+      "num": 714550,
+      "word": "高考语文盲文卷要考225分钟",
+      "onboard_time": 1717728799,
+      "rank": 12,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 713569,
@@ -2051,14 +2131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 629031,
-      "num": 505256,
-      "word": "邓超孙俪见证了14届高考",
-      "onboard_time": 1717729038,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 626435,
       "num": 626435,
       "word": "王一博宫廷王子风",
@@ -2187,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604499,
+      "num": 604499,
+      "word": "甲乙卷合并了吗",
+      "onboard_time": 1717733484,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 603811,
       "num": 603811,
       "word": "官方通报两名驴友意外落水溺亡",
@@ -2259,6 +2339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 596083,
+      "num": 251979,
+      "word": "你印象深刻的高考作文题",
+      "onboard_time": 1717734204,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 593599,
       "num": 593599,
       "word": "阿沁控诉詹雯婷抄袭",
@@ -2313,6 +2401,14 @@
       "onboard_time": 1717486877,
       "rank": 20,
       "category": "美食,运动健身"
+    },
+    {
+      "raw_hot": 587483,
+      "num": 587483,
+      "word": "永远记得本手妙手俗手",
+      "onboard_time": 1717732285,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 587117,
@@ -2755,14 +2851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 521277,
-      "num": 521277,
-      "word": "高考语文盲文卷要考225分钟",
-      "onboard_time": 1717728799,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 520611,
       "num": 520611,
       "word": "马来西亚学生超万人弃考",
@@ -2969,6 +3057,14 @@
       "onboard_time": 1717647438,
       "rank": 28,
       "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 494423,
+      "num": 494423,
+      "word": "佟梦实首次直播回应一年级争议",
+      "onboard_time": 1717731625,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 493231,
@@ -3545,6 +3641,14 @@
       "onboard_time": 1717386319,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 433965,
+      "num": 433965,
+      "word": "王星越十五岁上大学",
+      "onboard_time": 1717730420,
+      "rank": 47,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 433318,
@@ -4259,6 +4363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361698,
+      "num": 361698,
+      "word": "985211警车忙不过来了",
+      "onboard_time": 1717730720,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361575,
       "num": 289390,
       "word": "菲非法坐滩仁爱礁军舰人员枪指中国海警",
@@ -4275,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359278,
+      "num": 332876,
+      "word": "王星越问导演可以直接亲上去吗",
+      "onboard_time": 1717730601,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359134,
       "num": 359134,
       "word": "宁艺卓因病缺席KWAVE舞台",
@@ -4289,6 +4409,14 @@
       "onboard_time": 1717316118,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 358625,
+      "num": 358625,
+      "word": "刘亦菲来我家附近我却在睡觉",
+      "onboard_time": 1717732884,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 358523,
@@ -4676,7 +4804,7 @@
     },
     {
       "raw_hot": 329065,
-      "num": 2963128,
+      "num": 3332971,
       "word": "2024年高考第1天",
       "onboard_time": 1717728976,
       "rank": 2,
@@ -5635,6 +5763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267004,
+      "num": 267004,
+      "word": "北京作文 历久弥新",
+      "onboard_time": 1717732884,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 266784,
       "num": 266784,
       "word": "考试出现暂时性遗忘怎么办",
@@ -5715,14 +5851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262547,
-      "num": 262547,
-      "word": "985211警车忙不过来了",
-      "onboard_time": 1717730720,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262371,
       "num": 262371,
       "word": "高考第一天",
@@ -5801,14 +5929,6 @@
       "onboard_time": 1717396279,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 258995,
-      "num": 258995,
-      "word": "王星越十五岁上大学",
-      "onboard_time": 1717730420,
-      "rank": 47,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 258354,
@@ -6145,14 +6265,6 @@
       "onboard_time": 1717500677,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241379,
-      "num": 241379,
-      "word": "王星越问导演可以直接亲上去吗",
-      "onboard_time": 1717730601,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 241291,
@@ -6923,6 +7035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215046,
+      "num": 215046,
+      "word": "试写一段高考作文",
+      "onboard_time": 1717733904,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 215009,
       "num": 203980,
       "word": "歌手2024第二轮揭榜赛",
@@ -7057,6 +7177,14 @@
       "onboard_time": 1717337180,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 210020,
+      "num": 210020,
+      "word": "微写作 月的独白",
+      "onboard_time": 1717733544,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 209849,
@@ -7537,6 +7665,14 @@
       "onboard_time": 1717559359,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200190,
+      "num": 1033820,
+      "word": "把它带进考场就会认定为作弊",
+      "onboard_time": 1717732824,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 200187,
@@ -8035,6 +8171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192826,
+      "num": 192826,
+      "word": "2024年高考作文汇总",
+      "onboard_time": 1717733423,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 192585,
       "num": 221082,
       "word": "父子被电梯硬控一小时",
@@ -8216,6 +8360,14 @@
       "word": "张真源章昊奔跑吧同框",
       "onboard_time": 1717412719,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189029,
+      "num": 189029,
+      "word": "王鹤棣范丞丞跳戚薇bangbang",
+      "onboard_time": 1717732225,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -8707,6 +8859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178775,
+      "num": 178775,
+      "word": "AI写AI",
+      "onboard_time": 1717734143,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178703,
       "num": 178703,
       "word": "戚薇 每一科都bangbang",
@@ -8969,6 +9129,14 @@
       "onboard_time": 1717512440,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173724,
+      "num": 184474,
+      "word": "高考作文谈如何与他人相处",
+      "onboard_time": 1717733003,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 173622,
@@ -9395,6 +9563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165559,
+      "num": 165559,
+      "word": "水果酸奶粽",
+      "onboard_time": 1717731082,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 165416,
       "num": 165416,
       "word": "法媒公布美军诺曼底登陆后暴行",
@@ -9569,6 +9745,14 @@
       "onboard_time": 1717423820,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162082,
+      "num": 162082,
+      "word": "去年续航 今年历久弥新",
+      "onboard_time": 1717734023,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 161995,
@@ -10041,6 +10225,14 @@
       "onboard_time": 1717725198,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153049,
+      "num": 162533,
+      "word": "2024全国高考拉开大幕",
+      "onboard_time": 1717733003,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 152964,

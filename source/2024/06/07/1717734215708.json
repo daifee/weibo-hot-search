@@ -1,0 +1,410 @@
+{
+  "runTime": 1717734215708,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 19383595,
+        "num": 19383595,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3412141,
+        "num": 3412141,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210719,
+        "num": 3332971,
+        "word": "2024年高考第1天",
+        "onboard_time": 1717728976,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 3258978,
+        "num": 3258978,
+        "word": "高考语文",
+        "onboard_time": 1717729999,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2416735,
+        "num": 2416735,
+        "word": "乙卷没了",
+        "onboard_time": 1717733304,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1621505,
+        "num": 1621505,
+        "word": "高考第一题你还能拿下吗",
+        "onboard_time": 1717726518,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1288954,
+        "num": 1288954,
+        "word": "上海卷 抽象",
+        "onboard_time": 1717732703,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1210169,
+        "num": 1210169,
+        "word": "高考作文 比去年简单",
+        "onboard_time": 1717732585,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1184314,
+        "num": 1184314,
+        "word": "甲卷作文 简单",
+        "onboard_time": 1717732285,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200190,
+        "num": 1033820,
+        "word": "把它带进考场就会认定为作弊",
+        "onboard_time": 1717732824,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1017215,
+        "num": 1017215,
+        "word": "邓超孙俪见证了14届高考",
+        "onboard_time": 1717729038,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961492,
+        "num": 961492,
+        "word": "高考",
+        "onboard_time": 1717715355,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 878413,
+        "num": 878413,
+        "word": "新高考一卷默写",
+        "onboard_time": 1717733123,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 834966,
+        "num": 834966,
+        "word": "高考默写",
+        "onboard_time": 1717733244,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 721354,
+        "num": 721354,
+        "word": "高考作文紧跟时事",
+        "onboard_time": 1717732404,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 714550,
+        "num": 714550,
+        "word": "高考语文盲文卷要考225分钟",
+        "onboard_time": 1717728799,
+        "rank": 15,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 670824,
+        "num": 670824,
+        "word": "17岁女孩酷似87版林黛玉",
+        "onboard_time": 1717728617,
+        "rank": 16,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 604499,
+        "num": 604499,
+        "word": "甲乙卷合并了吗",
+        "onboard_time": 1717733484,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 587483,
+        "num": 587483,
+        "word": "永远记得本手妙手俗手",
+        "onboard_time": 1717732285,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 494423,
+        "num": 494423,
+        "word": "佟梦实首次直播回应一年级争议",
+        "onboard_time": 1717731625,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433965,
+        "num": 433965,
+        "word": "王星越十五岁上大学",
+        "onboard_time": 1717730420,
+        "rank": 20,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 393805,
+        "num": 393805,
+        "word": "今日高考一举高粽",
+        "onboard_time": 1717715535,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 361698,
+        "num": 361698,
+        "word": "985211警车忙不过来了",
+        "onboard_time": 1717730720,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358625,
+        "num": 358625,
+        "word": "刘亦菲来我家附近我却在睡觉",
+        "onboard_time": 1717732884,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335890,
+        "num": 335890,
+        "word": "孙俪世界上忍耐性最强的女人",
+        "onboard_time": 1717729158,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359278,
+        "num": 332876,
+        "word": "王星越问导演可以直接亲上去吗",
+        "onboard_time": 1717730601,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318204,
+        "num": 318204,
+        "word": "你记得高考语文成绩吗",
+        "onboard_time": 1717726337,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292430,
+        "num": 292430,
+        "word": "1342万人今天高考",
+        "onboard_time": 1717715535,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 267004,
+        "num": 267004,
+        "word": "北京作文 历久弥新",
+        "onboard_time": 1717732884,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253711,
+        "num": 253711,
+        "word": "高考时间",
+        "onboard_time": 1717718358,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 596083,
+        "num": 251979,
+        "word": "你印象深刻的高考作文题",
+        "onboard_time": 1717734204,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247487,
+        "num": 247487,
+        "word": "宁德时代",
+        "onboard_time": 1717727898,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 243828,
+        "num": 243828,
+        "word": "大一和大四真的一眼就能看出来",
+        "onboard_time": 1717729519,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229685,
+        "num": 229685,
+        "word": "直击多地高考第一现场",
+        "onboard_time": 1717724177,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228047,
+        "num": 228047,
+        "word": "上海迪士尼年卡调整",
+        "onboard_time": 1717727537,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 215046,
+        "num": 215046,
+        "word": "试写一段高考作文",
+        "onboard_time": 1717733904,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214505,
+        "num": 214505,
+        "word": "原来高考不止两天",
+        "onboard_time": 1717719799,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 210020,
+        "num": 210020,
+        "word": "微写作 月的独白",
+        "onboard_time": 1717733544,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206700,
+        "num": 206700,
+        "word": "我在串串房里度过发霉的29岁",
+        "onboard_time": 1717727657,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192826,
+        "num": 192826,
+        "word": "2024年高考作文汇总",
+        "onboard_time": 1717733423,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189029,
+        "num": 189029,
+        "word": "王鹤棣范丞丞跳戚薇bangbang",
+        "onboard_time": 1717732225,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185694,
+        "num": 185694,
+        "word": "内脏缺啥脸上就会长啥",
+        "onboard_time": 1717715895,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 173724,
+        "num": 184474,
+        "word": "高考作文谈如何与他人相处",
+        "onboard_time": 1717733003,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183314,
+        "num": 183314,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1717720877,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178775,
+        "num": 178775,
+        "word": "AI写AI",
+        "onboard_time": 1717734143,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 168258,
+        "num": 168258,
+        "word": "盲人高考时间是普通卷的1.5倍",
+        "onboard_time": 1717727537,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167778,
+        "num": 167778,
+        "word": "2024第1批弄丢身份证的考生出现了",
+        "onboard_time": 1717715955,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165559,
+        "num": 165559,
+        "word": "水果酸奶粽",
+        "onboard_time": 1717731082,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153049,
+        "num": 162533,
+        "word": "2024全国高考拉开大幕",
+        "onboard_time": 1717733003,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162082,
+        "num": 162082,
+        "word": "去年续航 今年历久弥新",
+        "onboard_time": 1717734023,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升国家文化软实力和中华文化影响力#"
+    }
+  }
+}
