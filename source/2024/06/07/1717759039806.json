@@ -1,0 +1,410 @@
+{
+  "runTime": 1717759039806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7760246,
+        "num": 7760246,
+        "word": "高考数学",
+        "onboard_time": 1717749858,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1139869,
+        "num": 1139869,
+        "word": "新一卷数学 大题难",
+        "onboard_time": 1717752622,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42783,
+        "num": 782554,
+        "word": "我国首个液体通用型火箭发射工位竣工",
+        "onboard_time": 1717751960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741270,
+        "num": 741270,
+        "word": "董宇辉称爸妈长期被骚扰",
+        "onboard_time": 1717755739,
+        "rank": 3,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 677447,
+        "num": 677447,
+        "word": "李晋晔 被换",
+        "onboard_time": 1717745478,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480991,
+        "num": 480991,
+        "word": "高考数学难不难",
+        "onboard_time": 1717751481,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 470003,
+        "num": 470003,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 469221,
+        "num": 469221,
+        "word": "数学数学 我要diss你",
+        "onboard_time": 1717755619,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 423429,
+        "num": 423429,
+        "word": "考笑了",
+        "onboard_time": 1717756219,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71260,
+        "num": 420532,
+        "word": "专家称AI写的作文缺乏深度",
+        "onboard_time": 1717758017,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1187675,
+        "num": 417941,
+        "word": "一对日本母女在渡轮遭遇神隐",
+        "onboard_time": 1717750519,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 779912,
+        "num": 414544,
+        "word": "一场数学毁了我的大学梦",
+        "onboard_time": 1717755619,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 615302,
+        "num": 413328,
+        "word": "数学 一生之敌",
+        "onboard_time": 1717752801,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 410479,
+        "num": 410479,
+        "word": "张学友感染呼吸道合胞病毒",
+        "onboard_time": 1717757418,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376820,
+        "num": 376820,
+        "word": "韦神 是不是你出的题",
+        "onboard_time": 1717758438,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 306027,
+        "num": 306027,
+        "word": "墨雨云间疯子还得疯子磨",
+        "onboard_time": 1717757058,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285966,
+        "num": 285966,
+        "word": "今年难 明年就不许难了哦",
+        "onboard_time": 1717757658,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275947,
+        "num": 275947,
+        "word": "高考数学答案",
+        "onboard_time": 1717754000,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254187,
+        "num": 254187,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253189,
+        "num": 253189,
+        "word": "微信回应登上高考作文",
+        "onboard_time": 1717737800,
+        "rank": 19,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 451320,
+        "num": 252607,
+        "word": "金晨下衣失踪",
+        "onboard_time": 1717749558,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 248776,
+        "num": 248776,
+        "word": "王一博名誉维权说明",
+        "onboard_time": 1717758017,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247199,
+        "num": 247199,
+        "word": "考完数学已老实",
+        "onboard_time": 1717753880,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236348,
+        "num": 236348,
+        "word": "江西抚州车祸一孕妇被撞身亡",
+        "onboard_time": 1717739839,
+        "rank": 23,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 229980,
+        "num": 229980,
+        "word": "18斤榴莲复秤仅8斤",
+        "onboard_time": 1717752622,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203752,
+        "num": 203752,
+        "word": "何洁路人缘",
+        "onboard_time": 1717752142,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32359,
+        "num": 203541,
+        "word": "打工人的尽头是带薪养生",
+        "onboard_time": 1717756397,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203441,
+        "num": 203441,
+        "word": "警号985211的民警手被拍红了",
+        "onboard_time": 1717744519,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 189199,
+        "num": 189199,
+        "word": "新二卷数学 看似简单不会做",
+        "onboard_time": 1717754419,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154675,
+        "num": 187794,
+        "word": "高考第1天结束",
+        "onboard_time": 1717757658,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186899,
+        "num": 186899,
+        "word": "女大学生考点摆摊拍照每张9.85元",
+        "onboard_time": 1717755079,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171658,
+        "num": 171658,
+        "word": "歌手2024",
+        "onboard_time": 1717758858,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168687,
+        "num": 168687,
+        "word": "吴镇宇 费曼只会上网给意见",
+        "onboard_time": 1717748238,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166633,
+        "num": 166633,
+        "word": "宇露君沾",
+        "onboard_time": 1717757959,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166121,
+        "num": 166121,
+        "word": "刘亦菲喝多被万茜嫌弃了",
+        "onboard_time": 1717744458,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154360,
+        "num": 154360,
+        "word": "infp好像天生就很会共情",
+        "onboard_time": 1717754600,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152698,
+        "num": 152698,
+        "word": "王俊凯IP正确手势正确",
+        "onboard_time": 1717745478,
+        "rank": 36,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 149643,
+        "num": 149643,
+        "word": "日本酒店无头男尸案公审",
+        "onboard_time": 1717756578,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149068,
+        "num": 149068,
+        "word": "Haerin和Minji的力量差异",
+        "onboard_time": 1717757778,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142607,
+        "num": 142607,
+        "word": "金莎参加闺蜜婚礼",
+        "onboard_time": 1717756938,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135159,
+        "num": 135159,
+        "word": "北电毕业照没有张子枫",
+        "onboard_time": 1717734323,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133409,
+        "num": 133409,
+        "word": "吴谨言提早三个月进组跟郝蕾学表演",
+        "onboard_time": 1717743738,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129469,
+        "num": 129469,
+        "word": "女子离婚后欲为儿子改名被驳",
+        "onboard_time": 1717750577,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125248,
+        "num": 128013,
+        "word": "乙卷没了",
+        "onboard_time": 1717733304,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127924,
+        "num": 127924,
+        "word": "北京高考数学 谁出的",
+        "onboard_time": 1717755918,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126146,
+        "num": 126146,
+        "word": "退休老师出闲置遇高考生直接送",
+        "onboard_time": 1717756460,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123338,
+        "num": 123338,
+        "word": "黑神话",
+        "onboard_time": 1717752921,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119039,
+        "num": 119039,
+        "word": "歌手歌单",
+        "onboard_time": 1717739238,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118210,
+        "num": 118210,
+        "word": "立体几何",
+        "onboard_time": 1717755557,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114715,
+        "num": 114715,
+        "word": "甲卷数学 算不完",
+        "onboard_time": 1717754299,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平挂念这里的雨#"
+    }
+  }
+}
