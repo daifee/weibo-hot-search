@@ -1,0 +1,410 @@
+{
+  "runTime": 1717744689186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2825916,
+        "num": 2825916,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1396270,
+        "num": 1396270,
+        "word": "江西抚州车祸一孕妇被撞身亡",
+        "onboard_time": 1717739839,
+        "rank": 1,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 29400,
+        "num": 1183431,
+        "word": "直击多地高考第一现场",
+        "onboard_time": 1717724177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121472,
+        "num": 1121472,
+        "word": "微信回应登上高考作文",
+        "onboard_time": 1717737800,
+        "rank": 3,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 898331,
+        "num": 898331,
+        "word": "乙卷没了",
+        "onboard_time": 1717733304,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 581522,
+        "num": 581522,
+        "word": "文言文 熟人",
+        "onboard_time": 1717738579,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 562201,
+        "num": 562201,
+        "word": "新高考一卷默写",
+        "onboard_time": 1717733123,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 503223,
+        "num": 503223,
+        "word": "何洁说尚雯婕是最难交的朋友",
+        "onboard_time": 1717742360,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403864,
+        "num": 403864,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 393934,
+        "num": 393934,
+        "word": "小米回应停车场相关事故",
+        "onboard_time": 1717741157,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 558041,
+        "num": 392561,
+        "word": "北电毕业照没有张子枫",
+        "onboard_time": 1717734323,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476329,
+        "num": 386348,
+        "word": "上海交大李星玮",
+        "onboard_time": 1717740739,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436208,
+        "num": 384672,
+        "word": "吴谨言提早三个月进组跟郝蕾学表演",
+        "onboard_time": 1717743738,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419080,
+        "num": 377499,
+        "word": "法国总统宣布将向乌克兰提供战斗机",
+        "onboard_time": 1717735043,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 277902,
+        "num": 374885,
+        "word": "警号985211的民警手被拍红了",
+        "onboard_time": 1717744519,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 371170,
+        "num": 371170,
+        "word": "杨幂 炭烤狐狸爪",
+        "onboard_time": 1717740919,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353029,
+        "num": 353029,
+        "word": "ChatGPT来交卷了",
+        "onboard_time": 1717736960,
+        "rank": 16,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 322873,
+        "num": 322873,
+        "word": "本手妙手俗手秒了",
+        "onboard_time": 1717736783,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 314333,
+        "num": 314333,
+        "word": "小牛说车",
+        "onboard_time": 1717742659,
+        "rank": 18,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 272897,
+        "num": 272897,
+        "word": "歌手歌单",
+        "onboard_time": 1717739238,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 577036,
+        "num": 264767,
+        "word": "坚持一个月11点睡觉不玩手机后",
+        "onboard_time": 1717739959,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243128,
+        "num": 243128,
+        "word": "迪丽热巴王冠黑羽女王",
+        "onboard_time": 1717744158,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234084,
+        "num": 234084,
+        "word": "颜心记接档狐妖小红娘月红篇",
+        "onboard_time": 1717742837,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232904,
+        "num": 232904,
+        "word": "高考",
+        "onboard_time": 1717715355,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215580,
+        "num": 215580,
+        "word": "肖战大学是设计专业的",
+        "onboard_time": 1717739959,
+        "rank": 24,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 213617,
+        "word": "大熊猫jiojio有多臭啊要洗这么久",
+        "onboard_time": 1717742659,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212143,
+        "num": 212143,
+        "word": "别让房贷还款新方式迷了眼",
+        "onboard_time": 1717736423,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204768,
+        "num": 204768,
+        "word": "男生说第一个出考场是因为太饿了",
+        "onboard_time": 1717735283,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195226,
+        "num": 195226,
+        "word": "公司不给批婚假准备在公司办婚礼",
+        "onboard_time": 1717739959,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190820,
+        "num": 190820,
+        "word": "五月天深圳",
+        "onboard_time": 1717741519,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181292,
+        "num": 181292,
+        "word": "关晓彤 这不是度假的节目吗",
+        "onboard_time": 1717736243,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172944,
+        "num": 172944,
+        "word": "王星越问导演可以直接亲上去吗",
+        "onboard_time": 1717730601,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172822,
+        "num": 172822,
+        "word": "22届考生破防",
+        "onboard_time": 1717734323,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 167645,
+        "num": 167645,
+        "word": "你怎么看朋友圈点赞现象",
+        "onboard_time": 1717739599,
+        "rank": 33,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 166392,
+        "num": 166392,
+        "word": "妈妈晒和孙卓在高考考场外合影",
+        "onboard_time": 1717741279,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162891,
+        "num": 162891,
+        "word": "刘亦菲喝多被万茜嫌弃了",
+        "onboard_time": 1717744458,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155482,
+        "num": 155482,
+        "word": "我妈看完沈玉容都不催婚了",
+        "onboard_time": 1717744519,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145842,
+        "num": 145842,
+        "word": "邓超最正经的一次是和孙俪结婚那天",
+        "onboard_time": 1717742059,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145311,
+        "num": 145311,
+        "word": "警方通报抚州干部交通肇事致孕妇身亡",
+        "onboard_time": 1717744279,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 140793,
+        "num": 140793,
+        "word": "郭碧婷女团风",
+        "onboard_time": 1717741700,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139950,
+        "num": 139950,
+        "word": "高考作文 比去年简单",
+        "onboard_time": 1717732585,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135653,
+        "num": 135653,
+        "word": "高考默写",
+        "onboard_time": 1717733244,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134149,
+        "num": 134149,
+        "word": "周深献唱刘亦菲新剧主题曲",
+        "onboard_time": 1717740678,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132916,
+        "num": 132916,
+        "word": "张艺兴镜头下的女团",
+        "onboard_time": 1717741338,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132732,
+        "num": 132732,
+        "word": "十个勤天 群像的神",
+        "onboard_time": 1717742958,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53725,
+        "num": 130445,
+        "word": "导航提前预警有多重要",
+        "onboard_time": 1717744458,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129644,
+        "num": 129644,
+        "word": "毕业了还在吃高考生福利",
+        "onboard_time": 1717740919,
+        "rank": 46,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 126775,
+        "num": 126775,
+        "word": "刘亦菲来我家附近我却在睡觉",
+        "onboard_time": 1717732884,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123936,
+        "num": 123936,
+        "word": "娜扎痛失本名",
+        "onboard_time": 1717739539,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122689,
+        "num": 122689,
+        "word": "高考作文紧跟时事",
+        "onboard_time": 1717732404,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信美国肯恩大学校长#"
+    }
+  }
+}

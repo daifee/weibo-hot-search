@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717742387953,
+  "endTime": 1717744689186,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -75,6 +75,14 @@
       "category": "社会负面,汽车"
     },
     {
+      "raw_hot": 1396270,
+      "num": 1396270,
+      "word": "江西抚州车祸一孕妇被撞身亡",
+      "onboard_time": 1717739839,
+      "rank": 20,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1288954,
       "num": 1288954,
       "word": "上海卷 抽象",
@@ -105,6 +113,14 @@
       "onboard_time": 1717733244,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1121472,
+      "num": 1121472,
+      "word": "微信回应登上高考作文",
+      "onboard_time": 1717737800,
+      "rank": 32,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 1100941,
@@ -145,14 +161,6 @@
       "onboard_time": 1717716376,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 870130,
-      "num": 288221,
-      "word": "江西抚州车祸一孕妇被撞身亡",
-      "onboard_time": 1717739839,
-      "rank": 20,
-      "category": "社会负面"
     },
     {
       "raw_hot": 826494,
@@ -201,14 +209,6 @@
       "onboard_time": 1717728799,
       "rank": 12,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 696712,
-      "num": 696712,
-      "word": "微信回应登上高考作文",
-      "onboard_time": 1717737800,
-      "rank": 32,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 696144,
@@ -275,6 +275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 577036,
+      "num": 283275,
+      "word": "坚持一个月11点睡觉不玩手机后",
+      "onboard_time": 1717739959,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 574890,
       "num": 574890,
       "word": "娜扎曾说没人能取代刘亦菲",
@@ -339,6 +347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 503223,
+      "num": 503223,
+      "word": "何洁说尚雯婕是最难交的朋友",
+      "onboard_time": 1717742360,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494423,
       "num": 494423,
       "word": "佟梦实首次直播回应一年级争议",
@@ -361,6 +377,14 @@
       "onboard_time": 1717727177,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476329,
+      "num": 386348,
+      "word": "上海交大李星玮",
+      "onboard_time": 1717740739,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471975,
@@ -459,6 +483,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 436208,
+      "num": 384672,
+      "word": "吴谨言提早三个月进组跟郝蕾学表演",
+      "onboard_time": 1717743738,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433965,
       "num": 433965,
       "word": "王星越十五岁上大学",
@@ -483,20 +515,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419080,
+      "num": 377499,
+      "word": "法国总统宣布将向乌克兰提供战斗机",
+      "onboard_time": 1717735043,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 412847,
       "num": 412847,
       "word": "没有人比大学生更关心高考",
       "onboard_time": 1717735941,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 403212,
-      "num": 283275,
-      "word": "坚持一个月11点睡觉不玩手机后",
-      "onboard_time": 1717739959,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 395417,
@@ -523,20 +555,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371170,
+      "num": 371170,
+      "word": "杨幂 炭烤狐狸爪",
+      "onboard_time": 1717740919,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 361698,
       "num": 361698,
       "word": "985211警车忙不过来了",
       "onboard_time": 1717730720,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359537,
-      "num": 359537,
-      "word": "法国总统宣布将向乌克兰提供战斗机",
-      "onboard_time": 1717735043,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 359278,
@@ -635,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314333,
+      "num": 314333,
+      "word": "小牛说车",
+      "onboard_time": 1717742659,
+      "rank": 18,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 313346,
       "num": 313346,
       "word": "王一博出发法网公开赛",
@@ -680,6 +720,14 @@
       "word": "把它带进考场就会认定为作弊",
       "onboard_time": 1717732824,
       "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 277902,
+      "num": 374885,
+      "word": "警号985211的民警手被拍红了",
+      "onboard_time": 1717744519,
+      "rank": 14,
       "category": "社会新闻,教育"
     },
     {
@@ -771,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 257277,
-      "num": 257277,
-      "word": "杨幂 炭烤狐狸爪",
-      "onboard_time": 1717740919,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 256226,
       "num": 256226,
       "word": "韩国7比0新加坡",
@@ -793,14 +833,6 @@
       "onboard_time": 1717735582,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 252732,
-      "num": 252732,
-      "word": "上海交大李星玮",
-      "onboard_time": 1717740739,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247582,
@@ -827,6 +859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 243128,
+      "num": 243128,
+      "word": "迪丽热巴王冠黑羽女王",
+      "onboard_time": 1717744158,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241291,
       "num": 147129,
       "word": "没想到我高考竟在自己位置上",
@@ -843,12 +883,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 234538,
-      "num": 234538,
-      "word": "何洁说尚雯婕是最难交的朋友",
-      "onboard_time": 1717742360,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 234084,
+      "num": 234084,
+      "word": "颜心记接档狐妖小红娘月红篇",
+      "onboard_time": 1717742837,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 232653,
@@ -1299,6 +1339,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 162891,
+      "num": 162891,
+      "word": "刘亦菲喝多被万茜嫌弃了",
+      "onboard_time": 1717744458,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162082,
       "num": 183255,
       "word": "去年续航 今年历久弥新",
@@ -1387,6 +1435,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 155482,
+      "num": 155482,
+      "word": "我妈看完沈玉容都不催婚了",
+      "onboard_time": 1717744519,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153762,
       "num": 153762,
       "word": "邓超最正经的一次是和孙俪结婚那天",
@@ -1465,6 +1521,14 @@
       "onboard_time": 1717673778,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145311,
+      "num": 145311,
+      "word": "警方通报抚州干部交通肇事致孕妇身亡",
+      "onboard_time": 1717744279,
+      "rank": 38,
+      "category": "社会负面"
     },
     {
       "raw_hot": 145233,
@@ -1555,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132732,
+      "num": 132732,
+      "word": "十个勤天 群像的神",
+      "onboard_time": 1717742958,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131211,
       "num": 131211,
       "word": "一举高粽紫腚能行已被注册商标",
@@ -1625,6 +1697,14 @@
       "onboard_time": 1717719799,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 119481,
+      "num": 213617,
+      "word": "大熊猫jiojio有多臭啊要洗这么久",
+      "onboard_time": 1717742659,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119178,
@@ -1953,6 +2033,14 @@
       "onboard_time": 1717715535,
       "rank": 30,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 53725,
+      "num": 130445,
+      "word": "导航提前预警有多重要",
+      "onboard_time": 1717744458,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 51937,
