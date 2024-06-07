@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717774471077,
+  "endTime": 1717777402391,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -667,6 +667,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1441447,
+      "num": 1441447,
+      "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
+      "onboard_time": 1717770383,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1441370,
       "num": 1441370,
       "word": "楚乔传2没有赵丽颖林更新",
@@ -801,14 +809,6 @@
       "onboard_time": 1717294457,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1315106,
-      "num": 1315106,
-      "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
-      "onboard_time": 1717770383,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1306651,
@@ -2972,7 +2972,7 @@
     },
     {
       "raw_hot": 615487,
-      "num": 385684,
+      "num": 395779,
       "word": "耳帝上电视了",
       "onboard_time": 1717772420,
       "rank": 21,
@@ -4531,6 +4531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 451302,
+      "num": 384714,
+      "word": "14岁少年强迫他人卖淫进矫正学校",
+      "onboard_time": 1717770502,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451270,
       "num": 451270,
       "word": "缺牙齿会惩罚每一个嘴硬的人",
@@ -5771,20 +5779,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366692,
+      "num": 326015,
+      "word": "汪苏泷第六",
+      "onboard_time": 1717773919,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 366467,
       "num": 366467,
       "word": "女排教练",
       "onboard_time": 1717213816,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 365516,
-      "num": 384714,
-      "word": "14岁少年强迫他人卖淫进矫正学校",
-      "onboard_time": 1717770502,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 365177,
@@ -6473,14 +6481,6 @@
       "onboard_time": 1717222457,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326015,
-      "num": 326015,
-      "word": "汪苏泷第六",
-      "onboard_time": 1717773919,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 325890,
@@ -11787,6 +11787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178274,
+      "num": 198623,
+      "word": "央视网文娱评墨雨云间",
+      "onboard_time": 1717774399,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178251,
       "num": 162507,
       "word": "秦岚辛芷蕾是懂互相伤害的",
@@ -12289,6 +12297,14 @@
       "onboard_time": 1717212076,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171403,
+      "num": 171403,
+      "word": "范丞丞又cue孟宴臣",
+      "onboard_time": 1717775360,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 171000,
@@ -14179,14 +14195,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 146260,
-      "num": 198623,
-      "word": "央视网文娱评墨雨云间",
-      "onboard_time": 1717774399,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146222,
       "num": 146222,
       "word": "国足 中场",
@@ -14449,6 +14457,14 @@
       "onboard_time": 1717641437,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143766,
+      "num": 388805,
+      "word": "墨雨云间老墨我想吃雨了",
+      "onboard_time": 1717770862,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 143476,
@@ -16891,14 +16907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 113093,
-      "num": 388805,
-      "word": "墨雨云间老墨我想吃雨了",
-      "onboard_time": 1717770862,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112802,
       "num": 112802,
       "word": "床垫膜到底用不用撕掉",
@@ -19049,6 +19057,14 @@
       "onboard_time": 1717514238,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 64172,
+      "num": 217647,
+      "word": "今年夏天要读的书是录取通知书",
+      "onboard_time": 1717775839,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 64121,
