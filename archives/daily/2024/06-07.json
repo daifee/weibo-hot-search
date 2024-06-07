@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717734215708,
+  "endTime": 1717735057839,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -16,6 +16,14 @@
       "word": "高考",
       "onboard_time": 1717715355,
       "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 3771891,
+      "num": 3771891,
+      "word": "乙卷没了",
+      "onboard_time": 1717733304,
+      "rank": 4,
       "category": "教育"
     },
     {
@@ -35,14 +43,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 2416735,
-      "num": 2416735,
-      "word": "乙卷没了",
-      "onboard_time": 1717733304,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 2380252,
       "num": 2380252,
       "word": "全国第一个直播高考的人",
@@ -56,6 +56,14 @@
       "word": "高考第一题你还能拿下吗",
       "onboard_time": 1717726518,
       "rank": 10,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1551516,
+      "num": 1551516,
+      "word": "新高考一卷默写",
+      "onboard_time": 1717733123,
+      "rank": 12,
       "category": "教育"
     },
     {
@@ -83,6 +91,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1180716,
+      "num": 1180716,
+      "word": "高考默写",
+      "onboard_time": 1717733244,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1017215,
       "num": 1017215,
       "word": "邓超孙俪见证了14届高考",
@@ -105,22 +121,6 @@
       "onboard_time": 1717716376,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 878413,
-      "num": 878413,
-      "word": "新高考一卷默写",
-      "onboard_time": 1717733123,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 834966,
-      "num": 834966,
-      "word": "高考默写",
-      "onboard_time": 1717733244,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 826494,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 714550,
-      "num": 714550,
+      "num": 987781,
       "word": "高考语文盲文卷要考225分钟",
       "onboard_time": 1717728799,
       "rank": 12,
@@ -184,6 +184,22 @@
       "word": "1342万人今天高考",
       "onboard_time": 1717715535,
       "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 657316,
+      "num": 657316,
+      "word": "北电毕业照没有张子枫",
+      "onboard_time": 1717734323,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 614092,
+      "num": 614092,
+      "word": "22届考生破防",
+      "onboard_time": 1717734323,
+      "rank": 16,
       "category": "教育"
     },
     {
@@ -395,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 383189,
+      "num": 383189,
+      "word": "刘亦菲来我家附近我却在睡觉",
+      "onboard_time": 1717732884,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361698,
       "num": 361698,
       "word": "985211警车忙不过来了",
@@ -408,14 +432,6 @@
       "word": "王星越问导演可以直接亲上去吗",
       "onboard_time": 1717730601,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 358625,
-      "num": 358625,
-      "word": "刘亦菲来我家附近我却在睡觉",
-      "onboard_time": 1717732884,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -443,8 +459,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340820,
+      "num": 340820,
+      "word": "AI写AI",
+      "onboard_time": 1717734143,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 336062,
-      "num": 336062,
+      "num": 3137278,
       "word": "直击多地高考第一现场",
       "onboard_time": 1717724177,
       "rank": 14,
@@ -505,6 +529,14 @@
       "onboard_time": 1717720579,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286110,
+      "num": 1033820,
+      "word": "把它带进考场就会认定为作弊",
+      "onboard_time": 1717732824,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 276759,
@@ -643,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210370,
+      "num": 210370,
+      "word": "最后一届乙卷",
+      "onboard_time": 1717734443,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210020,
       "num": 210020,
       "word": "微写作 月的独白",
@@ -683,19 +723,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200190,
-      "num": 1033820,
-      "word": "把它带进考场就会认定为作弊",
-      "onboard_time": 1717732824,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 197876,
       "num": 197876,
       "word": "2024高考开考",
       "onboard_time": 1717715895,
       "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 197062,
+      "num": 197062,
+      "word": "上海作文 认可度",
+      "onboard_time": 1717734264,
+      "rank": 40,
       "category": "教育"
     },
     {
@@ -723,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193586,
+      "num": 193586,
+      "word": "王鹤棣范丞丞跳戚薇bangbang",
+      "onboard_time": 1717732225,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192876,
       "num": 140415,
       "word": "离职后把同事微信全删了",
@@ -744,14 +792,6 @@
       "word": "种地吧",
       "onboard_time": 1717673838,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189029,
-      "num": 189029,
-      "word": "王鹤棣范丞丞跳戚薇bangbang",
-      "onboard_time": 1717732225,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -816,14 +856,6 @@
       "word": "高考 四天",
       "onboard_time": 1717730059,
       "rank": 36,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 178775,
-      "num": 178775,
-      "word": "AI写AI",
-      "onboard_time": 1717734143,
-      "rank": 44,
       "category": "教育"
     },
     {
@@ -924,7 +956,7 @@
     },
     {
       "raw_hot": 162082,
-      "num": 162082,
+      "num": 183255,
       "word": "去年续航 今年历久弥新",
       "onboard_time": 1717734023,
       "rank": 49,
@@ -937,6 +969,14 @@
       "onboard_time": 1717714934,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160780,
+      "num": 183283,
+      "word": "刺猬",
+      "onboard_time": 1717734863,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 157623,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1717729938,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147372,
+      "num": 183224,
+      "word": "法国总统宣布将向乌克兰提供战斗机",
+      "onboard_time": 1717735043,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 146913,
@@ -1681,6 +1729,9 @@
     },
     {
       "word": "#习近平复信美国肯恩大学校长#"
+    },
+    {
+      "word": "#愿早日建成中吉乌铁路这条战略通道#"
     }
   ]
 }

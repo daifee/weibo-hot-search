@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717734215708,
+  "endTime": 1717735057839,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3771891,
+      "num": 3771891,
+      "word": "乙卷没了",
+      "onboard_time": 1717733304,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 3412141,
       "num": 3412141,
       "word": "高考作文 人工智能",
@@ -81,14 +89,6 @@
       "onboard_time": 1717395378,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2416735,
-      "num": 2416735,
-      "word": "乙卷没了",
-      "onboard_time": 1717733304,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 2400189,
@@ -416,6 +416,14 @@
       "word": "今年第一批丢准考证的人已经出现了",
       "onboard_time": 1717642757,
       "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1551516,
+      "num": 1551516,
+      "word": "新高考一卷默写",
+      "onboard_time": 1717733123,
+      "rank": 12,
       "category": "教育"
     },
     {
@@ -793,6 +801,14 @@
       "onboard_time": 1717426759,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1180716,
+      "num": 1180716,
+      "word": "高考默写",
+      "onboard_time": 1717733244,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 1179445,
@@ -1347,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 878413,
-      "num": 878413,
-      "word": "新高考一卷默写",
-      "onboard_time": 1717733123,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 871614,
       "num": 871614,
       "word": "张雪峰连麦490多分农村女孩",
@@ -1481,14 +1489,6 @@
       "onboard_time": 1717222937,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 834966,
-      "num": 834966,
-      "word": "高考默写",
-      "onboard_time": 1717733244,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 833167,
@@ -2036,7 +2036,7 @@
     },
     {
       "raw_hot": 714550,
-      "num": 714550,
+      "num": 987781,
       "word": "高考语文盲文卷要考225分钟",
       "onboard_time": 1717728799,
       "rank": 12,
@@ -2379,6 +2379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 657316,
+      "num": 657316,
+      "word": "北电毕业照没有张子枫",
+      "onboard_time": 1717734323,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655383,
       "num": 293425,
       "word": "歌手排名",
@@ -2585,6 +2593,14 @@
       "onboard_time": 1717506917,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 614092,
+      "num": 614092,
+      "word": "22届考生破防",
+      "onboard_time": 1717734323,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 613592,
@@ -4875,6 +4891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383189,
+      "num": 383189,
+      "word": "刘亦菲来我家附近我却在睡觉",
+      "onboard_time": 1717732884,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 381814,
       "num": 381814,
       "word": "女子跑50公里没能归还怒砸充电宝",
@@ -5171,14 +5195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 358625,
-      "num": 358625,
-      "word": "刘亦菲来我家附近我却在睡觉",
-      "onboard_time": 1717732884,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 358523,
       "num": 358523,
       "word": "墨雨云间的狂徒",
@@ -5451,6 +5467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340820,
+      "num": 340820,
+      "word": "AI写AI",
+      "onboard_time": 1717734143,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 340115,
       "num": 340115,
       "word": "咒术回战",
@@ -5492,7 +5516,7 @@
     },
     {
       "raw_hot": 336062,
-      "num": 336062,
+      "num": 3137278,
       "word": "直击多地高考第一现场",
       "onboard_time": 1717724177,
       "rank": 14,
@@ -6409,6 +6433,14 @@
       "onboard_time": 1717336759,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286110,
+      "num": 1033820,
+      "word": "把它带进考场就会认定为作弊",
+      "onboard_time": 1717732824,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 285738,
@@ -8411,6 +8443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210370,
+      "num": 210370,
+      "word": "最后一届乙卷",
+      "onboard_time": 1717734443,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210348,
       "num": 210348,
       "word": "肖战藏海背后的画",
@@ -9043,14 +9083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200190,
-      "num": 1033820,
-      "word": "把它带进考场就会认定为作弊",
-      "onboard_time": 1717732824,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 200187,
       "num": 200187,
       "word": "说唱冠军三年归来仍是素人",
@@ -9339,6 +9371,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 197062,
+      "num": 197062,
+      "word": "上海作文 认可度",
+      "onboard_time": 1717734264,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 197058,
       "num": 197058,
       "word": "刘亦菲玫瑰的故事",
@@ -9569,6 +9609,14 @@
       "onboard_time": 1717694953,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193586,
+      "num": 193586,
+      "word": "王鹤棣范丞丞跳戚薇bangbang",
+      "onboard_time": 1717732225,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 193398,
@@ -9848,14 +9896,6 @@
       "word": "张真源章昊奔跑吧同框",
       "onboard_time": 1717412719,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189029,
-      "num": 189029,
-      "word": "王鹤棣范丞丞跳戚薇bangbang",
-      "onboard_time": 1717732225,
-      "rank": 40,
       "category": "综艺"
     },
     {
@@ -10417,14 +10457,6 @@
       "onboard_time": 1717301958,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178775,
-      "num": 178775,
-      "word": "AI写AI",
-      "onboard_time": 1717734143,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 178703,
@@ -11492,7 +11524,7 @@
     },
     {
       "raw_hot": 162082,
-      "num": 162082,
+      "num": 183255,
       "word": "去年续航 今年历久弥新",
       "onboard_time": 1717734023,
       "rank": 49,
@@ -11617,6 +11649,14 @@
       "onboard_time": 1717374139,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160780,
+      "num": 183283,
+      "word": "刺猬",
+      "onboard_time": 1717734863,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 160713,
@@ -12521,6 +12561,14 @@
       "onboard_time": 1717507519,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147372,
+      "num": 183224,
+      "word": "法国总统宣布将向乌克兰提供战斗机",
+      "onboard_time": 1717735043,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 147287,
@@ -19235,6 +19283,9 @@
     },
     {
       "word": "#不断提升国家文化软实力和中华文化影响力#"
+    },
+    {
+      "word": "#愿早日建成中吉乌铁路这条战略通道#"
     }
   ]
 }
