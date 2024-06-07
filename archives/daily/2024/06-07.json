@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717770950387,
+  "endTime": 1717773704177,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -96,6 +96,22 @@
       "word": "汪峰指导那英",
       "onboard_time": 1717766363,
       "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2729141,
+      "num": 2729141,
+      "word": "歌手排名",
+      "onboard_time": 1717771523,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2685823,
+      "num": 2685823,
+      "word": "孙楠第一",
+      "onboard_time": 1717771102,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -371,6 +387,22 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 980155,
+      "num": 387207,
+      "word": "海泉漏了张钰琪",
+      "onboard_time": 1717771582,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 925463,
+      "num": 925463,
+      "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
+      "onboard_time": 1717770383,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 884612,
       "num": 250051,
       "word": "大二女生175斤减到94斤变化惊艳",
@@ -531,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 669344,
+      "num": 385769,
+      "word": "那英第二",
+      "onboard_time": 1717771221,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655454,
       "num": 655454,
       "word": "文言文 熟人",
@@ -561,6 +601,14 @@
       "onboard_time": 1717736481,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 615487,
+      "num": 385684,
+      "word": "耳帝上电视了",
+      "onboard_time": 1717772420,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 615302,
@@ -779,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476958,
+      "num": 383751,
+      "word": "那英 不熟怎么夸啊",
+      "onboard_time": 1717772781,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471975,
       "num": 471975,
       "word": "小米回应停车场相关事故",
@@ -940,7 +996,7 @@
     },
     {
       "raw_hot": 420931,
-      "num": 205594,
+      "num": 264371,
       "word": "尚雯婕没去歌手去618了",
       "onboard_time": 1717759819,
       "rank": 24,
@@ -1155,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348598,
+      "num": 384714,
+      "word": "14岁少年强迫他人卖淫进矫正学校",
+      "onboard_time": 1717770502,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 348557,
       "num": 461549,
       "word": "老师的985车牌快被摸秃噜皮了",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1717764440,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316553,
+      "num": 387798,
+      "word": "Gala 幽梦",
+      "onboard_time": 1717771343,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 315324,
@@ -1443,20 +1515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267187,
-      "num": 179475,
-      "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
-      "onboard_time": 1717770383,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267004,
       "num": 267004,
       "word": "北京作文 历久弥新",
       "onboard_time": 1717732884,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 263115,
+      "num": 263114,
+      "word": "杭盖乐队淘汰",
+      "onboard_time": 1717771821,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 263094,
@@ -1683,12 +1755,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 222596,
+      "num": 222596,
+      "word": "孙楠live现场稳",
+      "onboard_time": 1717773440,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222127,
+      "num": 222127,
+      "word": "歌手顺序",
+      "onboard_time": 1717771582,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220510,
       "num": 220510,
       "word": "祝1342万考生大胜归来",
       "onboard_time": 1717719378,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 219738,
+      "num": 219738,
+      "word": "白鹿与白鹿同框",
+      "onboard_time": 1717772661,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 218694,
@@ -1835,6 +1931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206264,
+      "num": 387025,
+      "word": "巨蟹座擅长识趣的离开",
+      "onboard_time": 1717767621,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202089,
       "num": 202089,
       "word": "手机AI写高考作文哪家强",
@@ -1857,14 +1961,6 @@
       "onboard_time": 1717729938,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199353,
-      "num": 179292,
-      "word": "14岁少年强迫他人卖淫进矫正学校",
-      "onboard_time": 1717770502,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 197876,
@@ -2027,6 +2123,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 184812,
+      "num": 355481,
+      "word": "男生高考数学估分140直呼太简单",
+      "onboard_time": 1717769363,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183974,
       "num": 183974,
       "word": "高考DNA动了",
@@ -2084,19 +2188,11 @@
     },
     {
       "raw_hot": 176968,
-      "num": 176968,
+      "num": 263367,
       "word": "口腔出现3种异样警惕口腔癌",
       "onboard_time": 1717770743,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 176829,
-      "num": 176829,
-      "word": "男生高考数学估分140直呼太简单",
-      "onboard_time": 1717769363,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176185,
@@ -2603,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144088,
+      "num": 263118,
+      "word": "养几只章鱼到底是什么体验",
+      "onboard_time": 1717773200,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143956,
       "num": 445414,
       "word": "大学校长称文科会越来越更重要",
@@ -2625,14 +2729,6 @@
       "onboard_time": 1717756938,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141786,
-      "num": 141786,
-      "word": "巨蟹座擅长识趣的离开",
-      "onboard_time": 1717767621,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 141128,
@@ -2787,6 +2883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126111,
+      "num": 214758,
+      "word": "科学家称可能存在一个反宇宙",
+      "onboard_time": 1717772840,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 125512,
       "num": 125512,
       "word": "高考忘带准考证有解了",
@@ -2899,8 +3003,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106450,
+      "num": 388805,
+      "word": "墨雨云间老墨我想吃雨了",
+      "onboard_time": 1717770862,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104078,
-      "num": 183073,
+      "num": 383550,
       "word": "用花露水不要靠近明火",
       "onboard_time": 1717770443,
       "rank": 28,
@@ -3315,6 +3427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42807,
+      "num": 2700168,
+      "word": "中华文化传承发展新华章",
+      "onboard_time": 1717770623,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41421,
       "num": 171802,
       "word": "小学生用中性笔画出1.7米山水画卷",
@@ -3329,14 +3449,6 @@
       "onboard_time": 1717756397,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 38677,
-      "num": 182378,
-      "word": "墨雨云间老墨我想吃雨了",
-      "onboard_time": 1717770862,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 38351,
@@ -3401,14 +3513,6 @@
       "onboard_time": 1717739839,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27488,
-      "num": 2575528,
-      "word": "中华文化传承发展新华章",
-      "onboard_time": 1717770623,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27356,
@@ -3602,6 +3706,9 @@
     },
     {
       "word": "#习近平会见巴西副总统阿尔克明#"
+    },
+    {
+      "word": "#习近平会见巴基斯坦总理夏巴兹#"
     }
   ]
 }
