@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717737576414,
+  "endTime": 1717738548232,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -955,6 +955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1100941,
+      "num": 657316,
+      "word": "北电毕业照没有张子枫",
+      "onboard_time": 1717734323,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1100836,
       "num": 1100836,
       "word": "大胖媳妇爆改亚当",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1717166422,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1038656,
-      "num": 657316,
-      "word": "北电毕业照没有张子枫",
-      "onboard_time": 1717734323,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 1021664,
@@ -2499,6 +2499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 638466,
+      "num": 638466,
+      "word": "让高中生写AI",
+      "onboard_time": 1717736481,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 635087,
       "num": 635087,
       "word": "四川地震",
@@ -3051,6 +3059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 554826,
+      "num": 554826,
+      "word": "本手妙手俗手秒了",
+      "onboard_time": 1717736783,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 548762,
       "num": 548762,
       "word": "发条微博祝自己六一快乐",
@@ -3379,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515878,
+      "num": 515878,
+      "word": "小米SU7冲出停车场致一死三伤",
+      "onboard_time": 1717737500,
+      "rank": 46,
+      "category": "社会负面,汽车"
+    },
+    {
       "raw_hot": 515244,
       "num": 515244,
       "word": "陈丽君 投票",
@@ -3489,14 +3513,6 @@
       "onboard_time": 1717338980,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 500747,
-      "num": 500747,
-      "word": "让高中生写AI",
-      "onboard_time": 1717736481,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 500176,
@@ -3859,6 +3875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 465854,
+      "num": 465854,
+      "word": "关晓彤 这不是度假的节目吗",
+      "onboard_time": 1717736243,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 465676,
       "num": 248688,
       "word": "EXO和成员朋友见面必须通过允许",
@@ -4025,14 +4049,6 @@
       "onboard_time": 1717426160,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 449628,
-      "num": 449628,
-      "word": "关晓彤 这不是度假的节目吗",
-      "onboard_time": 1717736243,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 448060,
@@ -4601,14 +4617,6 @@
       "onboard_time": 1717596501,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 410639,
-      "num": 410639,
-      "word": "本手妙手俗手秒了",
-      "onboard_time": 1717736783,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 410047,
@@ -6443,6 +6451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 289341,
+      "num": 247971,
+      "word": "ChatGPT来交卷了",
+      "onboard_time": 1717736960,
+      "rank": 35,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 288853,
       "num": 288853,
       "word": "张雪峰说没有专业适合所有考生",
@@ -7403,14 +7419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247971,
-      "num": 247971,
-      "word": "ChatGPT来交卷了",
-      "onboard_time": 1717736960,
-      "rank": 35,
-      "category": "互联网,教育"
-    },
-    {
       "raw_hot": 247582,
       "num": 247582,
       "word": "我在串串房里度过发霉的29岁",
@@ -7811,6 +7819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231779,
+      "num": 231779,
+      "word": "微信回应登上高考作文",
+      "onboard_time": 1717737800,
+      "rank": 32,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 230823,
       "num": 230823,
       "word": "林俊杰 这歌是这样唱的吗",
@@ -7849,6 +7865,14 @@
       "onboard_time": 1717469717,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229644,
+      "num": 232465,
+      "word": "乘风",
+      "onboard_time": 1717456995,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 229096,
@@ -8571,6 +8595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210300,
+      "num": 210300,
+      "word": "王俊凯武汉",
+      "onboard_time": 1717737740,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210293,
       "num": 210293,
       "word": "田柾国新歌",
@@ -8673,6 +8705,14 @@
       "onboard_time": 1717245679,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208691,
+      "num": 208691,
+      "word": "狐妖月红篇陈都灵出场",
+      "onboard_time": 1717737381,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 208454,
@@ -9635,14 +9675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 195058,
-      "num": 195058,
-      "word": "狐妖月红篇陈都灵出场",
-      "onboard_time": 1717737381,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194720,
       "num": 194720,
       "word": "WTT重庆冠军赛2024",
@@ -10419,14 +10451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182653,
-      "num": 182653,
-      "word": "小米SU7冲出停车场致一死三伤",
-      "onboard_time": 1717737500,
-      "rank": 46,
-      "category": "社会负面,汽车"
-    },
-    {
       "raw_hot": 181991,
       "num": 325784,
       "word": "商户卖假牛肉被揭穿后摔相机",
@@ -11105,14 +11129,6 @@
       "onboard_time": 1717679659,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170662,
-      "num": 170662,
-      "word": "乘风",
-      "onboard_time": 1717456995,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 170409,
@@ -11803,6 +11819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160842,
+      "num": 160842,
+      "word": "怀念江苏卷",
+      "onboard_time": 1717735103,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 160780,
       "num": 183283,
       "word": "刺猬",
@@ -11969,6 +11993,14 @@
       "onboard_time": 1717378638,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158289,
+      "num": 158289,
+      "word": "咖啡界的蜜雪冰城幸运咖",
+      "onboard_time": 1717737800,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 157788,
@@ -12825,6 +12857,14 @@
       "onboard_time": 1717686019,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145676,
+      "num": 547876,
+      "word": "别让房贷还款新方式迷了眼",
+      "onboard_time": 1717736423,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145505,
@@ -16363,14 +16403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 98109,
-      "num": 547876,
-      "word": "别让房贷还款新方式迷了眼",
-      "onboard_time": 1717736423,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97931,
       "num": 97931,
       "word": "悲情王子罗伊斯",
@@ -16836,7 +16868,7 @@
     },
     {
       "raw_hot": 80030,
-      "num": 187573,
+      "num": 242737,
       "word": "民警高考执勤母校外给恩师献花",
       "onboard_time": 1717728077,
       "rank": 29,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/07 13:19:36
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/07 13:35:48
 </p>
 </blockquote>
 <p>
@@ -729,6 +729,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E6%AF%95%E4%B8%9A%E7%85%A7%E6%B2%A1%E6%9C%89%E5%BC%A0%E5%AD%90%E6%9E%AB%23" target="weibo">
+北电毕业照没有张子枫（热度：1100941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%83%96%E5%AA%B3%E5%A6%87%E7%88%86%E6%94%B9%E4%BA%9A%E5%BD%93%23" target="weibo">
 大胖媳妇爆改亚当（热度：1100836）
 </a>
@@ -827,12 +833,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%BF%AB%E5%93%AD%E4%BA%86%23" target="weibo">
 那英快哭了（热度：1042858）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%94%B5%E6%AF%95%E4%B8%9A%E7%85%A7%E6%B2%A1%E6%9C%89%E5%BC%A0%E5%AD%90%E6%9E%AB%23" target="weibo">
-北电毕业照没有张子枫（热度：1038656）
 </a>
 </li>
 
@@ -1887,6 +1887,12 @@ lululemon在美国卖不动了（热度：650950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%AB%98%E4%B8%AD%E7%94%9F%E5%86%99AI%23" target="weibo">
+让高中生写AI（热度：638466）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川地震（热度：635087）
 </a>
@@ -2301,6 +2307,12 @@ JDG进军KPL（热度：555388）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%89%8B%E5%A6%99%E6%89%8B%E4%BF%97%E6%89%8B%E7%A7%92%E4%BA%86%23" target="weibo">
+本手妙手俗手秒了（热度：554826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%9D%A1%E5%BE%AE%E5%8D%9A%E7%A5%9D%E8%87%AA%E5%B7%B1%E5%85%AD%E4%B8%80%E5%BF%AB%E4%B9%90%23" target="weibo">
 发条微博祝自己六一快乐（热度：548762）
 </a>
@@ -2547,6 +2559,12 @@ Citywalk后年轻人又爱上了Wildeat（热度：541510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E5%86%B2%E5%87%BA%E5%81%9C%E8%BD%A6%E5%9C%BA%E8%87%B4%E4%B8%80%E6%AD%BB%E4%B8%89%E4%BC%A4%23" target="weibo">
+小米SU7冲出停车场致一死三伤（热度：515878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%20%E6%8A%95%E7%A5%A8%23" target="weibo">
 陈丽君 投票（热度：515244）
 </a>
@@ -2627,12 +2645,6 @@ B太曝长沙夜市水果捞鬼秤（热度：506652）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%8B%A5%E7%94%AB%20%E4%B8%80%E5%A3%B0%E7%88%B9%E4%BE%8B%E5%A4%96%E8%A7%A6%E5%8A%A8%E5%A4%A9%E4%B8%8B%E4%BA%BA%23" target="weibo">
 林若甫 一声爹例外触动天下人（热度：503579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%AB%98%E4%B8%AD%E7%94%9F%E5%86%99AI%23" target="weibo">
-让高中生写AI（热度：500747）
 </a>
 </li>
 
@@ -2907,6 +2919,12 @@ NBA将签下760亿的转播协议（热度：467844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%20%E8%BF%99%E4%B8%8D%E6%98%AF%E5%BA%A6%E5%81%87%E7%9A%84%E8%8A%82%E7%9B%AE%E5%90%97%23" target="weibo">
+关晓彤 这不是度假的节目吗（热度：465854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23EXO%E5%92%8C%E6%88%90%E5%91%98%E6%9C%8B%E5%8F%8B%E8%A7%81%E9%9D%A2%E5%BF%85%E9%A1%BB%E9%80%9A%E8%BF%87%E5%85%81%E8%AE%B8%23" target="weibo">
 EXO和成员朋友见面必须通过允许（热度：465676）
 </a>
@@ -3029,12 +3047,6 @@ A股（热度：451570）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%23" target="weibo">
 莎头（热度：449813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%20%E8%BF%99%E4%B8%8D%E6%98%AF%E5%BA%A6%E5%81%87%E7%9A%84%E8%8A%82%E7%9B%AE%E5%90%97%23" target="weibo">
-关晓彤 这不是度假的节目吗（热度：449628）
 </a>
 </li>
 
@@ -3461,12 +3473,6 @@ Uzi直播红温（热度：420592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%99%92%E5%85%B6%E4%BB%96%E6%AD%8C%E6%89%8B%E9%80%81%E7%9A%84%E7%A4%BC%E7%89%A9%23" target="weibo">
 汪苏泷晒其他歌手送的礼物（热度：411360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%89%8B%E5%A6%99%E6%89%8B%E4%BF%97%E6%89%8B%E7%A7%92%E4%BA%86%23" target="weibo">
-本手妙手俗手秒了（热度：410639）
 </a>
 </li>
 
@@ -4845,6 +4851,12 @@ Yamy赖美云李紫婷徐梦洁 月亮警察（热度：293707）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23ChatGPT%E6%9D%A5%E4%BA%A4%E5%8D%B7%E4%BA%86%23" target="weibo">
+ChatGPT来交卷了（热度：289341）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AF%B4%E6%B2%A1%E6%9C%89%E4%B8%93%E4%B8%9A%E9%80%82%E5%90%88%E6%89%80%E6%9C%89%E8%80%83%E7%94%9F%23" target="weibo">
 张雪峰说没有专业适合所有考生（热度：288853）
 </a>
@@ -5565,12 +5577,6 @@ Uzi 剑网三（热度：248415）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23ChatGPT%E6%9D%A5%E4%BA%A4%E5%8D%B7%E4%BA%86%23" target="weibo">
-ChatGPT来交卷了（热度：247971）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E4%B8%B2%E4%B8%B2%E6%88%BF%E9%87%8C%E5%BA%A6%E8%BF%87%E5%8F%91%E9%9C%89%E7%9A%8429%E5%B2%81%23" target="weibo">
 我在串串房里度过发霉的29岁（热度：247582）
 </a>
@@ -5871,6 +5877,12 @@ yes24网站（热度：235263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E7%99%BB%E4%B8%8A%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23" target="weibo">
+微信回应登上高考作文（热度：231779）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E8%BF%99%E6%AD%8C%E6%98%AF%E8%BF%99%E6%A0%B7%E5%94%B1%E7%9A%84%E5%90%97%23" target="weibo">
 林俊杰 这歌是这样唱的吗（热度：230823）
 </a>
@@ -5897,6 +5909,12 @@ yes24网站（热度：235263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%807725%E5%88%86%23" target="weibo">
 王楚钦世排第一7725分（热度：229971）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E%23" target="weibo">
+乘风（热度：229644）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ yes24网站（热度：235263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
 皮肤变好带给我的变化有多大（热度：226835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BA%AB%E4%B8%8A%E4%BC%9A%E6%9C%89%E9%B8%A1%E7%9A%AE%E8%82%A4%23" target="weibo">
-为什么身上会有鸡皮肤（热度：226817）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%85%E5%80%92%E9%97%AD%E8%80%81%E6%9D%BF%E7%95%99%E4%B8%8B6%E5%8F%AA%E4%BC%81%E9%B9%85%E8%B7%91%E8%B7%AF%23" target="weibo">
-餐厅倒闭老板留下6只企鹅跑路（热度：226790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E%E5%88%B0%E5%BA%95%E6%9C%89%E4%BB%80%E4%B9%88%E9%AD%85%E5%8A%9B%23" target="weibo">
-已读乱回到底有什么魅力（热度：226584）
 </a>
 </li>
 
