@@ -1,0 +1,410 @@
+{
+  "runTime": 1717781668078,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 597021,
+        "num": 597021,
+        "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
+        "onboard_time": 1717770383,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425988,
+        "num": 425988,
+        "word": "那英 天后回归",
+        "onboard_time": 1717766962,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18462,
+        "num": 370512,
+        "word": "中华文化传承发展新华章",
+        "onboard_time": 1717770623,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368371,
+        "num": 368371,
+        "word": "歌手排名",
+        "onboard_time": 1717771523,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317088,
+        "num": 317088,
+        "word": "高考数学",
+        "onboard_time": 1717749858,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292735,
+        "num": 292735,
+        "word": "张钰琪 牛",
+        "onboard_time": 1717765583,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216214,
+        "num": 216214,
+        "word": "韦神 是不是你出的题",
+        "onboard_time": 1717758438,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183278,
+        "num": 183278,
+        "word": "TFBOYS十周年蛋糕塌的三四层",
+        "onboard_time": 1717764860,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42924,
+        "num": 179578,
+        "word": "福宝马上要搬新家了",
+        "onboard_time": 1717763718,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5064,
+        "num": 173758,
+        "word": "众多大学校长为高考生送祝福",
+        "onboard_time": 1717769902,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 269386,
+        "num": 160838,
+        "word": "王一博要求黑粉公开道歉",
+        "onboard_time": 1717759458,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245738,
+        "num": 153747,
+        "word": "孙楠第一",
+        "onboard_time": 1717771102,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241133,
+        "num": 146094,
+        "word": "玄彬孙艺珍出售婚房",
+        "onboard_time": 1717760358,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201216,
+        "num": 136426,
+        "word": "魏大勋好S",
+        "onboard_time": 1717769664,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128941,
+        "num": 128941,
+        "word": "北大物理保送生考了唯一一门语文",
+        "onboard_time": 1717764139,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108620,
+        "num": 108620,
+        "word": "Gala 幽梦",
+        "onboard_time": 1717771343,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89584,
+        "num": 89584,
+        "word": "巨蟹座擅长识趣的离开",
+        "onboard_time": 1717767621,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87390,
+        "num": 87390,
+        "word": "女子替过世6年小姨拥抱高考表弟",
+        "onboard_time": 1717767924,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74452,
+        "num": 74452,
+        "word": "法网",
+        "onboard_time": 1717767862,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72957,
+        "num": 72957,
+        "word": "董宇辉称爸妈长期被骚扰",
+        "onboard_time": 1717755739,
+        "rank": 19,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 223280,
+        "num": 72953,
+        "word": "14岁少年强迫他人卖淫进矫正学校",
+        "onboard_time": 1717770502,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209694,
+        "num": 72939,
+        "word": "一对日本母女在渡轮遭遇神隐",
+        "onboard_time": 1717750519,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173257,
+        "num": 72930,
+        "word": "海泉漏了张钰琪",
+        "onboard_time": 1717771582,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165311,
+        "num": 72914,
+        "word": "耳帝上电视了",
+        "onboard_time": 1717772420,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162317,
+        "num": 72891,
+        "word": "汪苏泷第六",
+        "onboard_time": 1717773919,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120163,
+        "num": 72881,
+        "word": "歌手直播",
+        "onboard_time": 1717761497,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118384,
+        "num": 72876,
+        "word": "汪峰奋不顾身 那英直接忘词",
+        "onboard_time": 1717768103,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109500,
+        "num": 72850,
+        "word": "何炅缺席",
+        "onboard_time": 1717762579,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103616,
+        "num": 72843,
+        "word": "恋爱兄妹",
+        "onboard_time": 1717759458,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26005,
+        "num": 72827,
+        "word": "今年夏天要读的书是录取通知书",
+        "onboard_time": 1717775839,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98617,
+        "num": 72820,
+        "word": "那英 不熟怎么夸啊",
+        "onboard_time": 1717772781,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96471,
+        "num": 72808,
+        "word": "汪苏泷 舒适圈",
+        "onboard_time": 1717763180,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77974,
+        "num": 72796,
+        "word": "央视网文娱评墨雨云间",
+        "onboard_time": 1717774399,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59846,
+        "num": 72773,
+        "word": "口腔出现3种异样警惕口腔癌",
+        "onboard_time": 1717770743,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 50691,
+        "num": 72762,
+        "word": "科学家称可能存在一个反宇宙",
+        "onboard_time": 1717772840,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 66829,
+        "num": 72748,
+        "word": "那英第二",
+        "onboard_time": 1717771221,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65819,
+        "num": 72730,
+        "word": "范丞丞又cue孟宴臣",
+        "onboard_time": 1717775360,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59006,
+        "num": 72724,
+        "word": "我比张钰琪还紧张",
+        "onboard_time": 1717765521,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49462,
+        "num": 72708,
+        "word": "Langx爆料Cube已离队",
+        "onboard_time": 1717763059,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48699,
+        "num": 72700,
+        "word": "男生高考数学估分140直呼太简单",
+        "onboard_time": 1717769363,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53278,
+        "num": 72679,
+        "word": "尚雯婕没去歌手去618了",
+        "onboard_time": 1717759819,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52965,
+        "num": 72665,
+        "word": "墨雨云间老墨我想吃雨了",
+        "onboard_time": 1717770862,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52946,
+        "num": 72656,
+        "word": "黄宣汪苏泷主持",
+        "onboard_time": 1717762819,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45694,
+        "num": 72648,
+        "word": "数学 一生之敌",
+        "onboard_time": 1717752801,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45829,
+        "num": 72629,
+        "word": "香缇莫唱hello",
+        "onboard_time": 1717767984,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43175,
+        "num": 72616,
+        "word": "为什么年轻人假期爱往山里跑",
+        "onboard_time": 1717767322,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30506,
+        "num": 72599,
+        "word": "为什么有人会有恋母情结",
+        "onboard_time": 1717767984,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29522,
+        "num": 72588,
+        "word": "养几只章鱼到底是什么体验",
+        "onboard_time": 1717773200,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29436,
+        "num": 72573,
+        "word": "老师的985车牌快被摸秃噜皮了",
+        "onboard_time": 1717759697,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26488,
+        "num": 72561,
+        "word": "高考数学难不难",
+        "onboard_time": 1717751481,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理夏巴兹#"
+    }
+  }
+}
