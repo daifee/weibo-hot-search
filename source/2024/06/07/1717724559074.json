@@ -1,0 +1,410 @@
+{
+  "runTime": 1717724559074,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4737518,
+        "num": 4737518,
+        "word": "高考",
+        "onboard_time": 1717715355,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2380252,
+        "num": 2380252,
+        "word": "全国第一个直播高考的人",
+        "onboard_time": 1717719618,
+        "rank": 1,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 11357,
+        "num": 1487670,
+        "word": "嫦娥六号祝福考生高中",
+        "onboard_time": 1717656857,
+        "rank": 2,
+        "category": "科学科普,教育"
+      },
+      {
+        "raw_hot": 743061,
+        "num": 743061,
+        "word": "原来高考不止两天",
+        "onboard_time": 1717719799,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 723505,
+        "num": 723505,
+        "word": "2024第1批弄丢身份证的考生出现了",
+        "onboard_time": 1717715955,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 549235,
+        "num": 549235,
+        "word": "1342万人今天高考",
+        "onboard_time": 1717715535,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 489754,
+        "num": 489754,
+        "word": "高考 下雨",
+        "onboard_time": 1717718778,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 431835,
+        "num": 431835,
+        "word": "今日高考一举高粽",
+        "onboard_time": 1717715535,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345302,
+        "num": 345302,
+        "word": "为啥大多数清北家长教不出清北孩子",
+        "onboard_time": 1717721599,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117742,
+        "num": 338386,
+        "word": "被高考考场外的阿sir帅到了",
+        "onboard_time": 1717723578,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 501946,
+        "num": 337934,
+        "word": "刘亦菲是在跷二郎腿吗",
+        "onboard_time": 1717718118,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335250,
+        "num": 335250,
+        "word": "第二个让撒贝宁接不上话的人",
+        "onboard_time": 1717716616,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310900,
+        "num": 310900,
+        "word": "王一博出发法网公开赛",
+        "onboard_time": 1717721119,
+        "rank": 12,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 298485,
+        "num": 298485,
+        "word": "刘惜君带秤吃饭坚持了7年",
+        "onboard_time": 1717720579,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283099,
+        "num": 283099,
+        "word": "直击多地高考第一现场",
+        "onboard_time": 1717724177,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272232,
+        "num": 272232,
+        "word": "00后极致省钱攒下20万成功求婚",
+        "onboard_time": 1717721359,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271334,
+        "num": 271334,
+        "word": "高考时间",
+        "onboard_time": 1717718358,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 260036,
+        "num": 260036,
+        "word": "十个勤天演唱会",
+        "onboard_time": 1717720877,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56406,
+        "num": 254156,
+        "word": "汤唯担任巴黎奥运火炬手",
+        "onboard_time": 1717723578,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 250816,
+        "num": 250816,
+        "word": "吴镇宇六旬老汉赚钱不易",
+        "onboard_time": 1717717577,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 736508,
+        "num": 250051,
+        "word": "大二女生175斤减到94斤变化惊艳",
+        "onboard_time": 1717716376,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390569,
+        "num": 249639,
+        "word": "建议大家不要在床上乱蹦",
+        "onboard_time": 1717695972,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308104,
+        "num": 248594,
+        "word": "内脏缺啥脸上就会长啥",
+        "onboard_time": 1717715895,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276738,
+        "num": 248191,
+        "word": "庆余年2让高曙光难熬了五年",
+        "onboard_time": 1717724359,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247505,
+        "num": 247505,
+        "word": "温州发现一例比熊猫血更稀有的恐龙血",
+        "onboard_time": 1717679239,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201553,
+        "num": 201553,
+        "word": "奶奶去世后第一次在她的屋子看电视",
+        "onboard_time": 1717684279,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183974,
+        "num": 183974,
+        "word": "高考DNA动了",
+        "onboard_time": 1717724119,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181467,
+        "num": 181467,
+        "word": "娜扎曾说没人能取代刘亦菲",
+        "onboard_time": 1717689017,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175323,
+        "num": 175323,
+        "word": "司徒九月帮薛芳菲疗伤又斩男",
+        "onboard_time": 1717724059,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171809,
+        "num": 171809,
+        "word": "一高考就下雨是巧合吗",
+        "onboard_time": 1717724237,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166267,
+        "num": 166267,
+        "word": "Rookie希望大家都能有好结果",
+        "onboard_time": 1717723157,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165958,
+        "num": 165958,
+        "word": "高考铃声响起",
+        "onboard_time": 1717723517,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164358,
+        "num": 164358,
+        "word": "赵小童一个人赔200",
+        "onboard_time": 1717716916,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161720,
+        "num": 161720,
+        "word": "没必要为三五年后的前途担忧",
+        "onboard_time": 1717723157,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154618,
+        "num": 154618,
+        "word": "独行侠vs凯尔特人",
+        "onboard_time": 1717723038,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151740,
+        "num": 151740,
+        "word": "高考图片",
+        "onboard_time": 1717723338,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151614,
+        "num": 151614,
+        "word": "长期护肤和不护肤的区别有多大",
+        "onboard_time": 1717721779,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146696,
+        "num": 146696,
+        "word": "为什么端午节高速不免费",
+        "onboard_time": 1717706111,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145906,
+        "num": 145906,
+        "word": "檀健次 替大家问过高考了",
+        "onboard_time": 1717715715,
+        "rank": 38,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 141128,
+        "num": 141128,
+        "word": "你愿意重回高三么",
+        "onboard_time": 1717723638,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140772,
+        "num": 140772,
+        "word": "肖战看到了自己的地广",
+        "onboard_time": 1717716074,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139019,
+        "num": 139019,
+        "word": "家长别对紧张的高考生说这3个字",
+        "onboard_time": 1717719019,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132871,
+        "num": 132871,
+        "word": "欧文凯尔特人恩怨局",
+        "onboard_time": 1717724059,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132134,
+        "num": 132134,
+        "word": "不发不看朋友圈一年多的感受",
+        "onboard_time": 1717716976,
+        "rank": 43,
+        "category": "情感,互联网"
+      },
+      {
+        "raw_hot": 129897,
+        "num": 129897,
+        "word": "离职后把同事微信全删了",
+        "onboard_time": 1717691415,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127058,
+        "num": 127058,
+        "word": "为什么毕业很久还会为高考感动",
+        "onboard_time": 1717724477,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 124964,
+        "num": 124964,
+        "word": "高考首日衡水高三学生最后一次跑操",
+        "onboard_time": 1717724477,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124122,
+        "num": 124122,
+        "word": "祝1342万考生大胜归来",
+        "onboard_time": 1717719378,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123897,
+        "num": 123897,
+        "word": "IU捡了只洞洞鞋",
+        "onboard_time": 1717716074,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119178,
+        "num": 119178,
+        "word": "梁实第28次高考",
+        "onboard_time": 1717723098,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升国家文化软实力和中华文化影响力#"
+    }
+  }
+}

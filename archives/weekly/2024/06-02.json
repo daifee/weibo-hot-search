@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717723311200,
+  "endTime": 1717724559074,
   "band_list": [
     {
       "raw_hot": 5921224,
@@ -57,6 +57,14 @@
       "onboard_time": 1717548799,
       "rank": 10,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 2380252,
+      "num": 2380252,
+      "word": "全国第一个直播高考的人",
+      "onboard_time": 1717719618,
+      "rank": 1,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 2330224,
@@ -177,14 +185,6 @@
       "onboard_time": 1717652299,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1768901,
-      "num": 1768901,
-      "word": "全国第一个直播高考的人",
-      "onboard_time": 1717719618,
-      "rank": 1,
-      "category": "艺人,教育"
     },
     {
       "raw_hot": 1756676,
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 884612,
-      "num": 212786,
+      "num": 250051,
       "word": "大二女生175斤减到94斤变化惊艳",
       "onboard_time": 1717716376,
       "rank": 27,
@@ -1489,6 +1489,14 @@
       "onboard_time": 1717645997,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 743061,
+      "num": 743061,
+      "word": "原来高考不止两天",
+      "onboard_time": 1717719799,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 741905,
@@ -2171,14 +2179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 601168,
-      "num": 601168,
-      "word": "原来高考不止两天",
-      "onboard_time": 1717719799,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
       "raw_hot": 600148,
       "num": 538518,
       "word": "我国历史上的熊猫外交",
@@ -2772,7 +2772,7 @@
     },
     {
       "raw_hot": 513792,
-      "num": 206126,
+      "num": 249639,
       "word": "建议大家不要在床上乱蹦",
       "onboard_time": 1717695972,
       "rank": 20,
@@ -3908,7 +3908,7 @@
     },
     {
       "raw_hot": 387732,
-      "num": 205645,
+      "num": 248594,
       "word": "内脏缺啥脸上就会长啥",
       "onboard_time": 1717715895,
       "rank": 25,
@@ -4212,7 +4212,7 @@
     },
     {
       "raw_hot": 354357,
-      "num": 339583,
+      "num": 345302,
       "word": "为啥大多数清北家长教不出清北孩子",
       "onboard_time": 1717721599,
       "rank": 11,
@@ -4907,6 +4907,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 298485,
+      "num": 298485,
+      "word": "刘惜君带秤吃饭坚持了7年",
+      "onboard_time": 1717720579,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298379,
       "num": 298379,
       "word": "GAI输给王鹤棣后每天苦练篮球",
@@ -5179,6 +5187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283099,
+      "num": 283099,
+      "word": "直击多地高考第一现场",
+      "onboard_time": 1717724177,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283061,
       "num": 283061,
       "word": "打开了关闭三年的朋友圈",
@@ -5233,14 +5249,6 @@
       "onboard_time": 1717644317,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278732,
-      "num": 278732,
-      "word": "刘惜君带秤吃饭坚持了7年",
-      "onboard_time": 1717720579,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 278663,
@@ -5305,6 +5313,14 @@
       "onboard_time": 1717456696,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276738,
+      "num": 248191,
+      "word": "庆余年2让高曙光难熬了五年",
+      "onboard_time": 1717724359,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 276408,
@@ -5377,6 +5393,14 @@
       "onboard_time": 1717642998,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 272232,
+      "num": 326600,
+      "word": "00后极致省钱攒下20万成功求婚",
+      "onboard_time": 1717721359,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 271602,
@@ -5611,6 +5635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260036,
+      "num": 260036,
+      "word": "十个勤天演唱会",
+      "onboard_time": 1717720877,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259104,
       "num": 210366,
       "word": "嗓音或影响女性择偶标准",
@@ -5713,14 +5745,6 @@
       "onboard_time": 1717669938,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256213,
-      "num": 256213,
-      "word": "十个勤天演唱会",
-      "onboard_time": 1717720877,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 255987,
@@ -6625,14 +6649,6 @@
       "onboard_time": 1717387159,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 218006,
-      "num": 326600,
-      "word": "00后极致省钱攒下20万成功求婚",
-      "onboard_time": 1717721359,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 217780,
@@ -8283,6 +8299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183974,
+      "num": 183974,
+      "word": "高考DNA动了",
+      "onboard_time": 1717724119,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 183933,
       "num": 183933,
       "word": "原生家庭差的年轻人觉醒的第一步",
@@ -8603,6 +8627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175323,
+      "num": 175323,
+      "word": "司徒九月帮薛芳菲疗伤又斩男",
+      "onboard_time": 1717724059,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175301,
       "num": 175301,
       "word": "刘亦菲弹钢琴20年前后对比",
@@ -8825,6 +8857,14 @@
       "onboard_time": 1717327338,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171809,
+      "num": 171809,
+      "word": "一高考就下雨是巧合吗",
+      "onboard_time": 1717724237,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 171000,
@@ -9059,6 +9099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166267,
+      "num": 166267,
+      "word": "Rookie希望大家都能有好结果",
+      "onboard_time": 1717723157,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166059,
       "num": 166059,
       "word": "原来角度决定颜值是有一定道理的",
@@ -9081,6 +9129,14 @@
       "onboard_time": 1717399399,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165958,
+      "num": 165958,
+      "word": "高考铃声响起",
+      "onboard_time": 1717723517,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 165416,
@@ -9297,6 +9353,14 @@
       "onboard_time": 1717714934,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161720,
+      "num": 161720,
+      "word": "没必要为三五年后的前途担忧",
+      "onboard_time": 1717723157,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 161598,
@@ -9667,6 +9731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154618,
+      "num": 154618,
+      "word": "独行侠vs凯尔特人",
+      "onboard_time": 1717723038,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154560,
       "num": 154560,
       "word": "粽子是蒸好还是煮好",
@@ -9801,6 +9873,14 @@
       "onboard_time": 1717464858,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 151740,
+      "num": 151740,
+      "word": "高考图片",
+      "onboard_time": 1717723338,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 151352,
@@ -10427,6 +10507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141128,
+      "num": 141128,
+      "word": "你愿意重回高三么",
+      "onboard_time": 1717723638,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140899,
       "num": 140899,
       "word": "明日方舟",
@@ -10633,14 +10721,6 @@
       "onboard_time": 1717665980,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 137945,
-      "num": 137945,
-      "word": "独行侠vs凯尔特人",
-      "onboard_time": 1717723038,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 137686,
@@ -10899,6 +10979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132871,
+      "num": 132871,
+      "word": "欧文凯尔特人恩怨局",
+      "onboard_time": 1717724059,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132820,
       "num": 132820,
       "word": "庆余年2CP投票",
@@ -10921,14 +11009,6 @@
       "onboard_time": 1717482678,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132289,
-      "num": 127256,
-      "word": "Rookie希望大家都能有好结果",
-      "onboard_time": 1717723157,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 132134,
@@ -11259,6 +11339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127058,
+      "num": 127058,
+      "word": "为什么毕业很久还会为高考感动",
+      "onboard_time": 1717724477,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 127053,
       "num": 127053,
       "word": "NBA",
@@ -11467,6 +11555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 124964,
+      "num": 124964,
+      "word": "高考首日衡水高三学生最后一次跑操",
+      "onboard_time": 1717724477,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 124788,
       "num": 475007,
       "word": "库迪9块9还能卷一夏",
@@ -11529,6 +11625,14 @@
       "onboard_time": 1717252879,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124122,
+      "num": 159770,
+      "word": "祝1342万考生大胜归来",
+      "onboard_time": 1717719378,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 123964,
@@ -11819,6 +11923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119178,
+      "num": 119178,
+      "word": "梁实第28次高考",
+      "onboard_time": 1717723098,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119125,
       "num": 119125,
       "word": "国足vs泰国23人名单",
@@ -11929,6 +12041,14 @@
       "onboard_time": 1717573038,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117742,
+      "num": 338386,
+      "word": "被高考考场外的阿sir帅到了",
+      "onboard_time": 1717723578,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 117555,
@@ -12427,14 +12547,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 110359,
-      "num": 159770,
-      "word": "祝1342万考生大胜归来",
-      "onboard_time": 1717719378,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 110225,
       "num": 110225,
       "word": "赵露思的出片秘密",
@@ -12481,14 +12593,6 @@
       "onboard_time": 1717586958,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 109038,
-      "num": 109038,
-      "word": "没必要为三五年后的前途担忧",
-      "onboard_time": 1717723157,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 109035,
@@ -14265,6 +14369,14 @@
       "onboard_time": 1717565419,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 56406,
+      "num": 254156,
+      "word": "汤唯担任巴黎奥运火炬手",
+      "onboard_time": 1717723578,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 56334,
