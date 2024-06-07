@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 03:18:03
+本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 03:34:26
 </p>
 </blockquote>
 <p>
@@ -315,14 +315,14 @@ Langx爆料Cube已离队（热度：71400）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%9C%89%E6%81%8B%E6%AF%8D%E6%83%85%E7%BB%93%23" target="weibo">
-为什么有人会有恋母情结（热度：50136）
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E6%88%91%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%BF%A4%E9%80%86%E4%BD%A0%23" target="weibo">
+薛芳菲我不允许任何人忤逆你（热度：54445）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E6%88%91%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%BF%A4%E9%80%86%E4%BD%A0%23" target="weibo">
-薛芳菲我不允许任何人忤逆你（热度：41807）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%9C%89%E6%81%8B%E6%AF%8D%E6%83%85%E7%BB%93%23" target="weibo">
+为什么有人会有恋母情结（热度：50136）
 </a>
 </li>
 
@@ -351,6 +351,12 @@ Langx爆料Cube已离队（热度：71400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%A2%86%E5%B7%BE%23" target="weibo">
+红领巾（热度：21442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%81%9A29%E5%9D%979%E7%9A%84%E6%B4%97%E5%89%AA%E5%90%B9%23" target="weibo">
 时代少年团做29块9的洗剪吹（热度：20910）
 </a>
@@ -359,12 +365,6 @@ Langx爆料Cube已离队（热度：71400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E6%95%B0%E5%AD%A6%20%E6%88%91%E8%A6%81diss%E4%BD%A0%23" target="weibo">
 数学数学 我要diss你（热度：19308）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%A2%86%E5%B7%BE%23" target="weibo">
-红领巾（热度：18793）
 </a>
 </li>
 

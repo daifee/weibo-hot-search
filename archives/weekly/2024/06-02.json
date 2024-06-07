@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717787883102,
+  "endTime": 1717788866600,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -16779,6 +16779,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 54445,
+      "num": 39102,
+      "word": "薛芳菲我不允许任何人忤逆你",
+      "onboard_time": 1717785132,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54388,
       "num": 54388,
       "word": "张雪峰一门课卖近两万元",
@@ -17145,14 +17153,6 @@
       "onboard_time": 1717300397,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41807,
-      "num": 39102,
-      "word": "薛芳菲我不允许任何人忤逆你",
-      "onboard_time": 1717785132,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 41535,
@@ -17859,6 +17859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 21442,
+      "num": 21747,
+      "word": "红领巾",
+      "onboard_time": 1717786271,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21152,
       "num": 134676,
       "word": "田雨余皑磊直播",
@@ -17928,14 +17936,6 @@
       "word": "一颗穿越4000年的稻米独白",
       "onboard_time": 1717315637,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18793,
-      "num": 21747,
-      "word": "红领巾",
-      "onboard_time": 1717786271,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
