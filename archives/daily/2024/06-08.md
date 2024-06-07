@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 02:39:03
+本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 03:18:03
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@ Langx爆料Cube已离队（热度：71400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E6%88%91%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%BF%A4%E9%80%86%E4%BD%A0%23" target="weibo">
+薛芳菲我不允许任何人忤逆你（热度：41807）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E7%81%BF%E7%83%82%E7%9A%84%E4%BD%A0%23" target="weibo">
 那英 灿烂的你（热度：40665）
 </a>
@@ -345,14 +351,20 @@ Langx爆料Cube已离队（热度：71400）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E6%88%91%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%BF%A4%E9%80%86%E4%BD%A0%23" target="weibo">
-薛芳菲我不允许任何人忤逆你（热度：27490）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%81%9A29%E5%9D%979%E7%9A%84%E6%B4%97%E5%89%AA%E5%90%B9%23" target="weibo">
+时代少年团做29块9的洗剪吹（热度：20910）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E6%95%B0%E5%AD%A6%20%E6%88%91%E8%A6%81diss%E4%BD%A0%23" target="weibo">
 数学数学 我要diss你（热度：19308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%A2%86%E5%B7%BE%23" target="weibo">
+红领巾（热度：18793）
 </a>
 </li>
 
@@ -370,7 +382,7 @@ Langx爆料Cube已离队（热度：71400）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%8C%97%E4%BA%AC%23" target="weibo">
-万千气象看北京（热度：10446）
+万千气象看北京（热度：10813）
 </a>
 </li>
 

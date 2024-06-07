@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717785543660,
+  "endTime": 1717787883102,
   "band_list": [
     {
       "raw_hot": 1441447,
@@ -411,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41807,
+      "num": 39102,
+      "word": "薛芳菲我不允许任何人忤逆你",
+      "onboard_time": 1717785132,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40665,
       "num": 40665,
       "word": "那英 灿烂的你",
@@ -443,12 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27490,
-      "num": 39102,
-      "word": "薛芳菲我不允许任何人忤逆你",
-      "onboard_time": 1717785132,
+      "raw_hot": 20910,
+      "num": 21768,
+      "word": "时代少年团做29块9的洗剪吹",
+      "onboard_time": 1717786452,
       "rank": 44,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 19308,
@@ -457,6 +465,14 @@
       "onboard_time": 1717755619,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 18793,
+      "num": 21747,
+      "word": "红领巾",
+      "onboard_time": 1717786271,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18730,
@@ -475,7 +491,7 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 10446,
+      "raw_hot": 10813,
       "num": 192645,
       "word": "万千气象看北京",
       "onboard_time": 1717769963,

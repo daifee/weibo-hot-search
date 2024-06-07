@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/02 00:21:33 ~ 2024/06/08 02:39:03
+本榜单时间：2024/06/02 00:21:33 ~ 2024/06/08 03:18:03
 </p>
 </blockquote>
 <p>
@@ -12873,6 +12873,12 @@ Mark问Uzi去不去WE（热度：49801）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E6%88%91%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%BF%A4%E9%80%86%E4%BD%A0%23" target="weibo">
+薛芳菲我不允许任何人忤逆你（热度：41807）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%20%E5%BF%98%E4%BA%86%E6%88%91%E4%B9%9F%E4%BC%9A%23" target="weibo">
 猫 忘了我也会（热度：41535）
 </a>
@@ -13239,12 +13245,6 @@ Mark问Uzi去不去WE（热度：49801）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E6%88%91%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%BF%A4%E9%80%86%E4%BD%A0%23" target="weibo">
-薛芳菲我不允许任何人忤逆你（热度：27490）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BA%B2%E5%88%86%E6%9E%90%E5%B8%88%E6%98%AF%E4%B8%8D%E6%98%AF%E5%89%B2%E9%9F%AD%E8%8F%9C%23" target="weibo">
 相亲分析师是不是割韭菜（热度：27356）
 </a>
@@ -13419,6 +13419,12 @@ Mark问Uzi去不去WE（热度：49801）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%81%9A29%E5%9D%979%E7%9A%84%E6%B4%97%E5%89%AA%E5%90%B9%23" target="weibo">
+时代少年团做29块9的洗剪吹（热度：20910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BB%BD%E5%96%84%E6%84%8F%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%8F%98%E4%B8%80%E5%B0%8F%E7%89%87%E4%B8%96%E7%95%8C%23" target="weibo">
 一份善意真的可以改变一小片世界（热度：20352）
 </a>
@@ -13451,6 +13457,12 @@ Mark问Uzi去不去WE（热度：49801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A2%97%E7%A9%BF%E8%B6%8A4000%E5%B9%B4%E7%9A%84%E7%A8%BB%E7%B1%B3%E7%8B%AC%E7%99%BD%23" target="weibo">
 一颗穿越4000年的稻米独白（热度：18886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%A2%86%E5%B7%BE%23" target="weibo">
+红领巾（热度：18793）
 </a>
 </li>
 
