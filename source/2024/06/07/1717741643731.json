@@ -1,0 +1,410 @@
+{
+  "runTime": 1717741643731,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5030844,
+        "num": 5030844,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1327340,
+        "num": 1327340,
+        "word": "乙卷没了",
+        "onboard_time": 1717733304,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55963,
+        "num": 1137789,
+        "word": "直击多地高考第一现场",
+        "onboard_time": 1717724177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042288,
+        "num": 1042288,
+        "word": "小米SU7冲出停车场致一死三伤",
+        "onboard_time": 1717737500,
+        "rank": 3,
+        "category": "社会负面,汽车"
+      },
+      {
+        "raw_hot": 812273,
+        "num": 812273,
+        "word": "新高考一卷默写",
+        "onboard_time": 1717733123,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 515937,
+        "num": 515937,
+        "word": "本手妙手俗手秒了",
+        "onboard_time": 1717736783,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 506312,
+        "num": 506312,
+        "word": "文言文 熟人",
+        "onboard_time": 1717738579,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 465866,
+        "num": 465866,
+        "word": "微信回应登上高考作文",
+        "onboard_time": 1717737800,
+        "rank": 7,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 447419,
+        "num": 447419,
+        "word": "男生说第一个出考场是因为太饿了",
+        "onboard_time": 1717735283,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 59610,
+        "num": 415399,
+        "word": "上海迪士尼年卡调整",
+        "onboard_time": 1717727537,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 720786,
+        "num": 414549,
+        "word": "北电毕业照没有张子枫",
+        "onboard_time": 1717734323,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409304,
+        "num": 409304,
+        "word": "关晓彤 这不是度假的节目吗",
+        "onboard_time": 1717736243,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340746,
+        "num": 340746,
+        "word": "ChatGPT来交卷了",
+        "onboard_time": 1717736960,
+        "rank": 12,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 324043,
+        "num": 324043,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272817,
+        "num": 272817,
+        "word": "高考",
+        "onboard_time": 1717715355,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272211,
+        "num": 272211,
+        "word": "22届考生破防",
+        "onboard_time": 1717734323,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 271566,
+        "num": 271566,
+        "word": "邓超孙俪见证了14届高考",
+        "onboard_time": 1717729038,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263094,
+        "num": 263094,
+        "word": "别让房贷还款新方式迷了眼",
+        "onboard_time": 1717736423,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259479,
+        "num": 259479,
+        "word": "让高中生写AI",
+        "onboard_time": 1717736481,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256893,
+        "num": 256893,
+        "word": "法国总统宣布将向乌克兰提供战斗机",
+        "onboard_time": 1717735043,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 734184,
+        "num": 256854,
+        "word": "江西抚州车祸一孕妇被撞身亡",
+        "onboard_time": 1717739839,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 286135,
+        "num": 256759,
+        "word": "坚持一个月11点睡觉不玩手机后",
+        "onboard_time": 1717739959,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271962,
+        "num": 256710,
+        "word": "肖战大学是设计专业的",
+        "onboard_time": 1717739959,
+        "rank": 22,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 256526,
+        "num": 256526,
+        "word": "小米回应停车场相关事故",
+        "onboard_time": 1717741157,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27103,
+        "num": 253014,
+        "word": "白鹿清新赴约",
+        "onboard_time": 1717739839,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251881,
+        "num": 251881,
+        "word": "歌手歌单",
+        "onboard_time": 1717739238,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237432,
+        "num": 237432,
+        "word": "上海交大李星玮",
+        "onboard_time": 1717740739,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232653,
+        "num": 232653,
+        "word": "杨幂 碳烤狐狸爪",
+        "onboard_time": 1717740919,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 227318,
+        "num": 227318,
+        "word": "娜扎痛失本名",
+        "onboard_time": 1717739539,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10355,
+        "num": 219385,
+        "word": "李白和嫦娥六号互动押中北京作文题",
+        "onboard_time": 1717741400,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214125,
+        "num": 214125,
+        "word": "公司不给批婚假准备在公司办婚礼",
+        "onboard_time": 1717739959,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209715,
+        "num": 209715,
+        "word": "张艺兴镜头下的女团",
+        "onboard_time": 1717741338,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209156,
+        "num": 209156,
+        "word": "高考默写",
+        "onboard_time": 1717733244,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208261,
+        "num": 208261,
+        "word": "狐妖月红篇陈都灵出场",
+        "onboard_time": 1717737381,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194400,
+        "num": 194400,
+        "word": "张天赋巡演抢票",
+        "onboard_time": 1717741038,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193181,
+        "num": 193181,
+        "word": "你怎么看朋友圈点赞现象",
+        "onboard_time": 1717739599,
+        "rank": 35,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 184542,
+        "num": 184542,
+        "word": "王星越问导演可以直接亲上去吗",
+        "onboard_time": 1717730601,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170431,
+        "num": 170431,
+        "word": "周深献唱刘亦菲新剧主题曲",
+        "onboard_time": 1717740678,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167681,
+        "num": 167681,
+        "word": "爱奇艺6月片单",
+        "onboard_time": 1717736423,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165939,
+        "num": 165939,
+        "word": "五月天深圳",
+        "onboard_time": 1717741519,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159449,
+        "num": 159449,
+        "word": "浪姐四公",
+        "onboard_time": 1717739539,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157679,
+        "num": 157679,
+        "word": "妈妈晒和孙卓在高考考场外合影",
+        "onboard_time": 1717741279,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165871,
+        "num": 156147,
+        "word": "刘亦菲来我家附近我却在睡觉",
+        "onboard_time": 1717732884,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153683,
+        "num": 153683,
+        "word": "后天高考完别歇着",
+        "onboard_time": 1717740198,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153109,
+        "num": 153109,
+        "word": "王星越十五岁上大学",
+        "onboard_time": 1717730420,
+        "rank": 44,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 147023,
+        "num": 147023,
+        "word": "17岁女孩酷似87版林黛玉",
+        "onboard_time": 1717728617,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 146373,
+        "num": 146373,
+        "word": "小米汽车紧急招工",
+        "onboard_time": 1717740319,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 144762,
+        "num": 144762,
+        "word": "毕业了还在吃高考生福利",
+        "onboard_time": 1717740919,
+        "rank": 47,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 141731,
+        "num": 141731,
+        "word": "AI写AI",
+        "onboard_time": 1717734143,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136550,
+        "num": 136550,
+        "word": "今日高考一举高粽",
+        "onboard_time": 1717715535,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升国家文化软实力和中华文化影响力#"
+    }
+  }
+}

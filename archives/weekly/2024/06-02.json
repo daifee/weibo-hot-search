@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717738548232,
+  "endTime": 1717741643731,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -939,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1042288,
+      "num": 1042288,
+      "word": "小米SU7冲出停车场致一死三伤",
+      "onboard_time": 1717737500,
+      "rank": 46,
+      "category": "社会负面,汽车"
+    },
+    {
       "raw_hot": 1021664,
       "num": 1021664,
       "word": "没想到榴莲也住上单间了",
@@ -1657,6 +1665,14 @@
       "onboard_time": 1717387880,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 734184,
+      "num": 256854,
+      "word": "江西抚州车祸一孕妇被撞身亡",
+      "onboard_time": 1717739839,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 733496,
@@ -2939,14 +2955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 515878,
-      "num": 515878,
-      "word": "小米SU7冲出停车场致一死三伤",
-      "onboard_time": 1717737500,
-      "rank": 46,
-      "category": "社会负面,汽车"
-    },
-    {
       "raw_hot": 515244,
       "num": 515244,
       "word": "陈丽君 投票",
@@ -3033,6 +3041,14 @@
       "onboard_time": 1717518255,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506312,
+      "num": 506312,
+      "word": "文言文 熟人",
+      "onboard_time": 1717738579,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 505141,
@@ -3345,6 +3361,14 @@
       "onboard_time": 1717501757,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465866,
+      "num": 465866,
+      "word": "微信回应登上高考作文",
+      "onboard_time": 1717737800,
+      "rank": 32,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 465854,
@@ -4747,6 +4771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 340746,
+      "num": 340746,
+      "word": "ChatGPT来交卷了",
+      "onboard_time": 1717736960,
+      "rank": 35,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 340115,
       "num": 340115,
       "word": "咒术回战",
@@ -5467,14 +5499,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 289341,
-      "num": 247971,
-      "word": "ChatGPT来交卷了",
-      "onboard_time": 1717736960,
-      "rank": 35,
-      "category": "互联网,教育"
-    },
-    {
       "raw_hot": 288853,
       "num": 288853,
       "word": "张雪峰说没有专业适合所有考生",
@@ -5529,6 +5553,14 @@
       "onboard_time": 1717317498,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286135,
+      "num": 256759,
+      "word": "坚持一个月11点睡觉不玩手机后",
+      "onboard_time": 1717739959,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 286134,
@@ -5787,6 +5819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271962,
+      "num": 256710,
+      "word": "肖战大学是设计专业的",
+      "onboard_time": 1717739959,
+      "rank": 22,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 271602,
       "num": 144972,
       "word": "尾号6666666手机号拍卖估值160多万元",
@@ -5979,6 +6019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263094,
+      "num": 547876,
+      "word": "别让房贷还款新方式迷了眼",
+      "onboard_time": 1717736423,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262371,
       "num": 262371,
       "word": "高考第一天",
@@ -6139,6 +6187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256526,
+      "num": 256526,
+      "word": "小米回应停车场相关事故",
+      "onboard_time": 1717741157,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 256353,
       "num": 297586,
       "word": "高考选择药物推迟经期有用吗",
@@ -6233,6 +6289,14 @@
       "onboard_time": 1717621811,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 251881,
+      "num": 251881,
+      "word": "歌手歌单",
+      "onboard_time": 1717739238,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 251464,
@@ -6507,6 +6571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237432,
+      "num": 237432,
+      "word": "上海交大李星玮",
+      "onboard_time": 1717740739,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 237268,
       "num": 237268,
       "word": "赵冬苓说属于王一博的荣耀在前面等着",
@@ -6651,20 +6723,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232653,
+      "num": 232653,
+      "word": "杨幂 碳烤狐狸爪",
+      "onboard_time": 1717740919,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 232577,
       "num": 232577,
       "word": "暗星拍的王俊凯",
       "onboard_time": 1717253838,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 231779,
-      "num": 231779,
-      "word": "微信回应登上高考作文",
-      "onboard_time": 1717737800,
-      "rank": 32,
-      "category": "教育,互联网"
     },
     {
       "raw_hot": 230823,
@@ -6817,6 +6889,14 @@
       "onboard_time": 1717318818,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227318,
+      "num": 227318,
+      "word": "娜扎痛失本名",
+      "onboard_time": 1717739539,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 227260,
@@ -7227,6 +7307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214125,
+      "num": 214125,
+      "word": "公司不给批婚假准备在公司办婚礼",
+      "onboard_time": 1717739959,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212601,
       "num": 212601,
       "word": "浙江38岁教师去世用身体上最后一课",
@@ -7385,6 +7473,14 @@
       "onboard_time": 1717302017,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209715,
+      "num": 209715,
+      "word": "张艺兴镜头下的女团",
+      "onboard_time": 1717741338,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 209538,
@@ -8283,6 +8379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194400,
+      "num": 194400,
+      "word": "张天赋巡演抢票",
+      "onboard_time": 1717741038,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194392,
       "num": 194392,
       "word": "王曼昱4比0王艺迪",
@@ -8345,6 +8449,14 @@
       "onboard_time": 1717398979,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193181,
+      "num": 193181,
+      "word": "你怎么看朋友圈点赞现象",
+      "onboard_time": 1717739599,
+      "rank": 35,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 193007,
@@ -9499,6 +9611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170431,
+      "num": 170431,
+      "word": "周深献唱刘亦菲新剧主题曲",
+      "onboard_time": 1717740678,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170371,
       "num": 159093,
       "word": "张碧晨上海 抢票",
@@ -9753,6 +9873,14 @@
       "onboard_time": 1717723517,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165939,
+      "num": 165939,
+      "word": "五月天深圳",
+      "onboard_time": 1717741519,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 165559,
@@ -10123,6 +10251,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 159449,
+      "num": 159449,
+      "word": "浪姐四公",
+      "onboard_time": 1717739539,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159399,
       "num": 159399,
       "word": "河北一地现白菜房6万能买两室一厅",
@@ -10193,6 +10329,14 @@
       "onboard_time": 1717631417,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157679,
+      "num": 157679,
+      "word": "妈妈晒和孙卓在高考考场外合影",
+      "onboard_time": 1717741279,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 157634,
@@ -10425,6 +10569,14 @@
       "onboard_time": 1717563321,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153683,
+      "num": 153683,
+      "word": "后天高考完别歇着",
+      "onboard_time": 1717740198,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 153512,
@@ -10875,6 +11027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 146373,
+      "num": 146373,
+      "word": "小米汽车紧急招工",
+      "onboard_time": 1717740319,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146263,
       "num": 150031,
       "word": "高考倒计时5天",
@@ -10897,14 +11057,6 @@
       "onboard_time": 1717686019,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145676,
-      "num": 547876,
-      "word": "别让房贷还款新方式迷了眼",
-      "onboard_time": 1717736423,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145505,
@@ -11001,6 +11153,14 @@
       "onboard_time": 1717295537,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144762,
+      "num": 144762,
+      "word": "毕业了还在吃高考生福利",
+      "onboard_time": 1717740919,
+      "rank": 47,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 144738,
@@ -15891,6 +16051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27103,
+      "num": 253014,
+      "word": "白鹿清新赴约",
+      "onboard_time": 1717739839,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27028,
       "num": 196255,
       "word": "美国马里兰州龙卷风",
@@ -16401,6 +16569,14 @@
       "onboard_time": 1717701011,
       "rank": 36,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 10355,
+      "num": 219385,
+      "word": "李白和嫦娥六号互动押中北京作文题",
+      "onboard_time": 1717741400,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 10077,

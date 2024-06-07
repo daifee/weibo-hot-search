@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717738548232,
+  "endTime": 1717741643731,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1042288,
+      "num": 1042288,
+      "word": "小米SU7冲出停车场致一死三伤",
+      "onboard_time": 1717737500,
+      "rank": 46,
+      "category": "社会负面,汽车"
+    },
+    {
       "raw_hot": 1017215,
       "num": 1017215,
       "word": "邓超孙俪见证了14届高考",
@@ -161,6 +169,14 @@
       "onboard_time": 1717735283,
       "rank": 7,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 734184,
+      "num": 256854,
+      "word": "江西抚州车祸一孕妇被撞身亡",
+      "onboard_time": 1717739839,
+      "rank": 20,
+      "category": "社会负面"
     },
     {
       "raw_hot": 722184,
@@ -299,20 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 515878,
-      "num": 515878,
-      "word": "小米SU7冲出停车场致一死三伤",
-      "onboard_time": 1717737500,
-      "rank": 46,
-      "category": "社会负面,汽车"
-    },
-    {
       "raw_hot": 513792,
       "num": 249639,
       "word": "建议大家不要在床上乱蹦",
       "onboard_time": 1717695972,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 506312,
+      "num": 506312,
+      "word": "文言文 熟人",
+      "onboard_time": 1717738579,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 494423,
@@ -361,6 +377,14 @@
       "onboard_time": 1717678279,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465866,
+      "num": 465866,
+      "word": "微信回应登上高考作文",
+      "onboard_time": 1717737800,
+      "rank": 32,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 465854,
@@ -531,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 340746,
+      "num": 340746,
+      "word": "ChatGPT来交卷了",
+      "onboard_time": 1717736960,
+      "rank": 35,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 336062,
       "num": 3137278,
       "word": "直击多地高考第一现场",
@@ -611,12 +643,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 289341,
-      "num": 247971,
-      "word": "ChatGPT来交卷了",
-      "onboard_time": 1717736960,
-      "rank": 35,
-      "category": "互联网,教育"
+      "raw_hot": 286135,
+      "num": 256759,
+      "word": "坚持一个月11点睡觉不玩手机后",
+      "onboard_time": 1717739959,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 286110,
@@ -643,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 271962,
+      "num": 256710,
+      "word": "肖战大学是设计专业的",
+      "onboard_time": 1717739959,
+      "rank": 22,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 271602,
       "num": 144972,
       "word": "尾号6666666手机号拍卖估值160多万元",
@@ -665,6 +705,14 @@
       "onboard_time": 1717732884,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 263094,
+      "num": 547876,
+      "word": "别让房贷还款新方式迷了眼",
+      "onboard_time": 1717736423,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262371,
@@ -699,6 +747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 256526,
+      "num": 256526,
+      "word": "小米回应停车场相关事故",
+      "onboard_time": 1717741157,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 256226,
       "num": 256226,
       "word": "韩国7比0新加坡",
@@ -713,6 +769,14 @@
       "onboard_time": 1717735582,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 251881,
+      "num": 251881,
+      "word": "歌手歌单",
+      "onboard_time": 1717739238,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 247582,
@@ -755,12 +819,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 231779,
-      "num": 231779,
-      "word": "微信回应登上高考作文",
-      "onboard_time": 1717737800,
-      "rank": 32,
-      "category": "教育,互联网"
+      "raw_hot": 237432,
+      "num": 237432,
+      "word": "上海交大李星玮",
+      "onboard_time": 1717740739,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232653,
+      "num": 232653,
+      "word": "杨幂 碳烤狐狸爪",
+      "onboard_time": 1717740919,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229644,
@@ -768,6 +840,14 @@
       "word": "乘风",
       "onboard_time": 1717737620,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227318,
+      "num": 227318,
+      "word": "娜扎痛失本名",
+      "onboard_time": 1717739539,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -793,6 +873,14 @@
       "onboard_time": 1717733904,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 214125,
+      "num": 214125,
+      "word": "公司不给批婚假准备在公司办婚礼",
+      "onboard_time": 1717739959,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 212601,
@@ -833,6 +921,14 @@
       "onboard_time": 1717733544,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 209715,
+      "num": 209715,
+      "word": "张艺兴镜头下的女团",
+      "onboard_time": 1717741338,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 208691,
@@ -915,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194400,
+      "num": 194400,
+      "word": "张天赋巡演抢票",
+      "onboard_time": 1717741038,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193676,
       "num": 193676,
       "word": "00后女孩勇闯非洲2年攒50万",
@@ -929,6 +1033,14 @@
       "onboard_time": 1717732225,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193181,
+      "num": 193181,
+      "word": "你怎么看朋友圈点赞现象",
+      "onboard_time": 1717739599,
+      "rank": 35,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 192876,
@@ -1067,6 +1179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170431,
+      "num": 170431,
+      "word": "周深献唱刘亦菲新剧主题曲",
+      "onboard_time": 1717740678,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169745,
       "num": 169745,
       "word": "2024专属高考表情",
@@ -1097,6 +1217,14 @@
       "onboard_time": 1717723517,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165939,
+      "num": 165939,
+      "word": "五月天深圳",
+      "onboard_time": 1717741519,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 165559,
@@ -1163,12 +1291,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159449,
+      "num": 159449,
+      "word": "浪姐四公",
+      "onboard_time": 1717739539,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158289,
       "num": 158289,
       "word": "咖啡界的蜜雪冰城幸运咖",
       "onboard_time": 1717737800,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 157679,
+      "num": 157679,
+      "word": "妈妈晒和孙卓在高考考场外合影",
+      "onboard_time": 1717741279,
+      "rank": 41,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 157623,
@@ -1209,6 +1353,14 @@
       "onboard_time": 1717727836,
       "rank": 33,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 153683,
+      "num": 153683,
+      "word": "后天高考完别歇着",
+      "onboard_time": 1717740198,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 153067,
@@ -1259,12 +1411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 145676,
-      "num": 547876,
-      "word": "别让房贷还款新方式迷了眼",
-      "onboard_time": 1717736423,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 146373,
+      "num": 146373,
+      "word": "小米汽车紧急招工",
+      "onboard_time": 1717740319,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 145355,
@@ -1281,6 +1433,14 @@
       "onboard_time": 1717731082,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144762,
+      "num": 144762,
+      "word": "毕业了还在吃高考生福利",
+      "onboard_time": 1717740919,
+      "rank": 47,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 144543,
@@ -1811,6 +1971,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 27103,
+      "num": 253014,
+      "word": "白鹿清新赴约",
+      "onboard_time": 1717739839,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24805,
       "num": 31350,
       "word": "高考加油图片",
@@ -1897,6 +2065,14 @@
       "onboard_time": 1717701011,
       "rank": 36,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 10355,
+      "num": 219385,
+      "word": "李白和嫦娥六号互动押中北京作文题",
+      "onboard_time": 1717741400,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 9273,
