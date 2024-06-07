@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717745683214,
+  "endTime": 1717748642404,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -153,6 +153,14 @@
       "onboard_time": 1717333279,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1964959,
+      "num": 1964959,
+      "word": "李晋晔 被换",
+      "onboard_time": 1717745478,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1932046,
@@ -955,6 +963,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1048658,
+      "num": 1048658,
+      "word": "警号985211的民警手被拍红了",
+      "onboard_time": 1717744519,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1046042,
       "num": 1017885,
       "word": "李沁一字告别庆余年",
@@ -1332,7 +1348,7 @@
     },
     {
       "raw_hot": 815887,
-      "num": 419712,
+      "num": 442549,
       "word": "上海交大李星玮",
       "onboard_time": 1717740739,
       "rank": 26,
@@ -1875,6 +1891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 688810,
+      "num": 688810,
+      "word": "吴谨言提早三个月进组跟郝蕾学表演",
+      "onboard_time": 1717743738,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 688500,
       "num": 329729,
       "word": "突然发现九月是调休大月",
@@ -2307,14 +2331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610892,
-      "num": 610892,
-      "word": "吴谨言提早三个月进组跟郝蕾学表演",
-      "onboard_time": 1717743738,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 610212,
       "num": 610212,
       "word": "官方回应B太长沙夜市打假",
@@ -2657,6 +2673,14 @@
       "onboard_time": 1717564519,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 558585,
+      "num": 558585,
+      "word": "小牛说车账号被封",
+      "onboard_time": 1717746499,
+      "rank": 7,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 558529,
@@ -3835,6 +3859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428489,
+      "num": 428489,
+      "word": "王俊凯IP正确手势正确",
+      "onboard_time": 1717745478,
+      "rank": 35,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 427683,
       "num": 427683,
       "word": "再也不敢用酒店的一次性用品了",
@@ -3993,14 +4025,6 @@
       "onboard_time": 1717513519,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 416398,
-      "num": 416398,
-      "word": "警号985211的民警手被拍红了",
-      "onboard_time": 1717744519,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 416126,
@@ -5251,6 +5275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306204,
+      "num": 306204,
+      "word": "刘亦菲喝多被万茜嫌弃了",
+      "onboard_time": 1717744458,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305931,
       "num": 305931,
       "word": "歌手歌单",
@@ -5731,6 +5763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281410,
+      "num": 281410,
+      "word": "大熊猫jiojio有多臭啊要洗这么久",
+      "onboard_time": 1717742659,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280197,
       "num": 280197,
       "word": "娜扎江疏影cue张若昀",
@@ -5897,6 +5937,14 @@
       "onboard_time": 1717721359,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271834,
+      "num": 271834,
+      "word": "我妈看完沈玉容都不催婚了",
+      "onboard_time": 1717744519,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 271602,
@@ -6291,14 +6339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255061,
-      "num": 255061,
-      "word": "刘亦菲喝多被万茜嫌弃了",
-      "onboard_time": 1717744458,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 255018,
       "num": 255018,
       "word": "吴刚回应陈萍萍独得年轻人宠爱",
@@ -6377,14 +6417,6 @@
       "onboard_time": 1717643958,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 250878,
-      "num": 250878,
-      "word": "大熊猫jiojio有多臭啊要洗这么久",
-      "onboard_time": 1717742659,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250710,
@@ -7075,14 +7107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224683,
-      "num": 224683,
-      "word": "李晋晔 被换",
-      "onboard_time": 1717745478,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224456,
       "num": 224456,
       "word": "微博电影之夜阵容",
@@ -7136,14 +7160,6 @@
       "word": "祖母对姜梨的爱是有前提条件的",
       "onboard_time": 1717675759,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 222422,
-      "num": 222422,
-      "word": "我妈看完沈玉容都不催婚了",
-      "onboard_time": 1717744519,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -7249,6 +7265,14 @@
       "onboard_time": 1717563919,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219456,
+      "num": 187994,
+      "word": "歌手门仓有希去世",
+      "onboard_time": 1717747519,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 219025,
@@ -7659,6 +7683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208371,
+      "num": 208371,
+      "word": "马里亚纳海沟",
+      "onboard_time": 1717747759,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 207939,
       "num": 207939,
       "word": "妈妈晒和孙卓在高考考场外合影",
@@ -7953,6 +7985,14 @@
       "onboard_time": 1717559598,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202089,
+      "num": 202089,
+      "word": "手机AI写高考作文哪家强",
+      "onboard_time": 1717747219,
+      "rank": 26,
+      "category": "科学科普,教育"
     },
     {
       "raw_hot": 202010,
@@ -8627,6 +8667,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192564,
+      "num": 187734,
+      "word": "吴镇宇 费曼只会上网给意见",
+      "onboard_time": 1717748238,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192335,
       "num": 192335,
       "word": "教育部发布3点考前提示",
@@ -8873,6 +8921,14 @@
       "onboard_time": 1717311558,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187443,
+      "num": 187443,
+      "word": "张钰琪唱BlackSheep",
+      "onboard_time": 1717747278,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 187413,
@@ -9563,14 +9619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173783,
-      "num": 173783,
-      "word": "王俊凯IP正确手势正确",
-      "onboard_time": 1717745478,
-      "rank": 35,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 173773,
       "num": 173773,
       "word": "突然意识到同频的重要性",
@@ -9947,11 +9995,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167061,
+      "num": 167061,
+      "word": "景区女厕安装计时器引人不适",
+      "onboard_time": 1717748059,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166909,
       "num": 166909,
       "word": "冯潇霆宣布退役",
       "onboard_time": 1717599080,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166891,
+      "num": 166891,
+      "word": "王大雷含泪道歉",
+      "onboard_time": 1717746318,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -11579,6 +11643,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 140143,
+      "num": 140143,
+      "word": "去南极在你的人生todolist里吗",
+      "onboard_time": 1717747997,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139970,
       "num": 139970,
       "word": "樊振东孙颖莎冠军合影",
@@ -11737,6 +11809,14 @@
       "onboard_time": 1717665980,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137766,
+      "num": 137766,
+      "word": "小米称制动踏板状态正常",
+      "onboard_time": 1717747098,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 137686,
@@ -11929,6 +12009,14 @@
       "onboard_time": 1717670959,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134138,
+      "num": 134138,
+      "word": "黄健翔说的女歌手是蔡依林吗",
+      "onboard_time": 1717746738,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 133863,
@@ -15715,6 +15803,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 44193,
+      "num": 442832,
+      "word": "蓝领招聘薪酬比5年前增长超3成",
+      "onboard_time": 1717747219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43884,
       "num": 484983,
       "word": "警察听到小学生呼唤飞奔过马路接应",
@@ -16481,6 +16577,14 @@
       "onboard_time": 1717260976,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18194,
+      "num": 273527,
+      "word": "跟着甘孜文旅局长刘洪打卡G318",
+      "onboard_time": 1717746078,
+      "rank": 19,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 17271,

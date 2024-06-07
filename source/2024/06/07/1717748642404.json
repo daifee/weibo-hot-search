@@ -1,0 +1,410 @@
+{
+  "runTime": 1717748642404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2105646,
+        "num": 2105646,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1964959,
+        "num": 1964959,
+        "word": "李晋晔 被换",
+        "onboard_time": 1717745478,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19744,
+        "num": 1293308,
+        "word": "直击多地高考第一现场",
+        "onboard_time": 1717724177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048658,
+        "num": 1048658,
+        "word": "警号985211的民警手被拍红了",
+        "onboard_time": 1717744519,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 800807,
+        "num": 800807,
+        "word": "江西抚州车祸一孕妇被撞身亡",
+        "onboard_time": 1717739839,
+        "rank": 4,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 719138,
+        "num": 719138,
+        "word": "微信回应登上高考作文",
+        "onboard_time": 1717737800,
+        "rank": 5,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 688810,
+        "num": 688810,
+        "word": "吴谨言提早三个月进组跟郝蕾学表演",
+        "onboard_time": 1717743738,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558585,
+        "num": 558585,
+        "word": "小牛说车账号被封",
+        "onboard_time": 1717746499,
+        "rank": 7,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 554294,
+        "num": 554294,
+        "word": "乙卷没了",
+        "onboard_time": 1717733304,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 44193,
+        "num": 442832,
+        "word": "蓝领招聘薪酬比5年前增长超3成",
+        "onboard_time": 1717747219,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565073,
+        "num": 442549,
+        "word": "上海交大李星玮",
+        "onboard_time": 1717740739,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428489,
+        "num": 428489,
+        "word": "王俊凯IP正确手势正确",
+        "onboard_time": 1717745478,
+        "rank": 11,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 401459,
+        "num": 401459,
+        "word": "北电毕业照没有张子枫",
+        "onboard_time": 1717734323,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332406,
+        "num": 332406,
+        "word": "新高考一卷默写",
+        "onboard_time": 1717733123,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 328367,
+        "num": 328367,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 310946,
+        "num": 310946,
+        "word": "法国总统宣布将向乌克兰提供战斗机",
+        "onboard_time": 1717735043,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 306204,
+        "num": 306204,
+        "word": "刘亦菲喝多被万茜嫌弃了",
+        "onboard_time": 1717744458,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290452,
+        "num": 290452,
+        "word": "何洁说尚雯婕是最难交的朋友",
+        "onboard_time": 1717742360,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281410,
+        "num": 281410,
+        "word": "大熊猫jiojio有多臭啊要洗这么久",
+        "onboard_time": 1717742659,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18194,
+        "num": 273527,
+        "word": "跟着甘孜文旅局长刘洪打卡G318",
+        "onboard_time": 1717746078,
+        "rank": 19,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 440851,
+        "num": 272801,
+        "word": "坚持一个月11点睡觉不玩手机后",
+        "onboard_time": 1717739959,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271834,
+        "num": 271834,
+        "word": "我妈看完沈玉容都不催婚了",
+        "onboard_time": 1717744519,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256854,
+        "num": 256854,
+        "word": "小牛说车",
+        "onboard_time": 1717742659,
+        "rank": 22,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 221966,
+        "num": 221966,
+        "word": "高考",
+        "onboard_time": 1717715355,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15180,
+        "num": 208815,
+        "word": "导航提前预警有多重要",
+        "onboard_time": 1717744458,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 208371,
+        "num": 208371,
+        "word": "马里亚纳海沟",
+        "onboard_time": 1717747759,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202089,
+        "num": 202089,
+        "word": "手机AI写高考作文哪家强",
+        "onboard_time": 1717747219,
+        "rank": 26,
+        "category": "科学科普,教育"
+      },
+      {
+        "raw_hot": 192814,
+        "num": 192814,
+        "word": "文言文 熟人",
+        "onboard_time": 1717738579,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188441,
+        "num": 188441,
+        "word": "22届考生破防",
+        "onboard_time": 1717734323,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157199,
+        "num": 188261,
+        "word": "别让房贷还款新方式迷了眼",
+        "onboard_time": 1717736423,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219456,
+        "num": 187994,
+        "word": "歌手门仓有希去世",
+        "onboard_time": 1717747519,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192564,
+        "num": 187734,
+        "word": "吴镇宇 费曼只会上网给意见",
+        "onboard_time": 1717748238,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192445,
+        "num": 187663,
+        "word": "本手妙手俗手秒了",
+        "onboard_time": 1717736783,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187443,
+        "num": 187443,
+        "word": "张钰琪唱BlackSheep",
+        "onboard_time": 1717747278,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183297,
+        "num": 183297,
+        "word": "ChatGPT来交卷了",
+        "onboard_time": 1717736960,
+        "rank": 34,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 170898,
+        "num": 170898,
+        "word": "迪丽热巴王冠黑羽女王",
+        "onboard_time": 1717744158,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167061,
+        "num": 167061,
+        "word": "景区女厕安装计时器引人不适",
+        "onboard_time": 1717748059,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166891,
+        "num": 166891,
+        "word": "王大雷含泪道歉",
+        "onboard_time": 1717746318,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151263,
+        "num": 151263,
+        "word": "杨幂 炭烤狐狸爪",
+        "onboard_time": 1717740919,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151146,
+        "num": 151146,
+        "word": "肖战大学是设计专业的",
+        "onboard_time": 1717739959,
+        "rank": 39,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 140143,
+        "num": 140143,
+        "word": "去南极在你的人生todolist里吗",
+        "onboard_time": 1717747997,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139178,
+        "num": 139178,
+        "word": "颜心记接档狐妖小红娘月红篇",
+        "onboard_time": 1717742837,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137766,
+        "num": 137766,
+        "word": "小米称制动踏板状态正常",
+        "onboard_time": 1717747098,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137152,
+        "num": 137152,
+        "word": "邓超最正经的一次是和孙俪结婚那天",
+        "onboard_time": 1717742059,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134138,
+        "num": 134138,
+        "word": "黄健翔说的女歌手是蔡依林吗",
+        "onboard_time": 1717746738,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125913,
+        "num": 125913,
+        "word": "公司不给批婚假准备在公司办婚礼",
+        "onboard_time": 1717739959,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123342,
+        "num": 123342,
+        "word": "男生说第一个出考场是因为太饿了",
+        "onboard_time": 1717735283,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 121154,
+        "num": 121154,
+        "word": "高考作文 比去年简单",
+        "onboard_time": 1717732585,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119511,
+        "num": 119511,
+        "word": "高考时间",
+        "onboard_time": 1717718358,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116540,
+        "num": 116540,
+        "word": "警方通报抚州干部交通肇事致孕妇身亡",
+        "onboard_time": 1717744279,
+        "rank": 49,
+        "category": "社会负面"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升国家文化软实力和中华文化影响力#"
+    }
+  }
+}

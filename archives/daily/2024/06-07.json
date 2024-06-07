@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717745683214,
+  "endTime": 1717748642404,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -57,6 +57,14 @@
       "onboard_time": 1717726518,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1964959,
+      "num": 1964959,
+      "word": "李晋晔 被换",
+      "onboard_time": 1717745478,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 1551516,
@@ -139,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1048658,
+      "num": 1048658,
+      "word": "警号985211的民警手被拍红了",
+      "onboard_time": 1717744519,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1017215,
       "num": 1017215,
       "word": "邓超孙俪见证了14届高考",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 815887,
-      "num": 419712,
+      "num": 442549,
       "word": "上海交大李星玮",
       "onboard_time": 1717740739,
       "rank": 26,
@@ -227,6 +243,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 688810,
+      "num": 688810,
+      "word": "吴谨言提早三个月进组跟郝蕾学表演",
+      "onboard_time": 1717743738,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 687221,
       "num": 568402,
       "word": "奶奶去世后第一次在她的屋子看电视",
@@ -257,14 +281,6 @@
       "onboard_time": 1717736481,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 610892,
-      "num": 610892,
-      "word": "吴谨言提早三个月进组跟郝蕾学表演",
-      "onboard_time": 1717743738,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 604499,
@@ -313,6 +329,14 @@
       "onboard_time": 1717685059,
       "rank": 1,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 558585,
+      "num": 558585,
+      "word": "小牛说车账号被封",
+      "onboard_time": 1717746499,
+      "rank": 7,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 554826,
@@ -499,6 +523,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 428489,
+      "num": 428489,
+      "word": "王俊凯IP正确手势正确",
+      "onboard_time": 1717745478,
+      "rank": 35,
+      "category": "艺人,教育"
+    },
+    {
       "raw_hot": 423568,
       "num": 423568,
       "word": "ChatGPT来交卷了",
@@ -521,14 +553,6 @@
       "onboard_time": 1717735043,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 416398,
-      "num": 416398,
-      "word": "警号985211的民警手被拍红了",
-      "onboard_time": 1717744519,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 412847,
@@ -691,6 +715,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 306204,
+      "num": 306204,
+      "word": "刘亦菲喝多被万茜嫌弃了",
+      "onboard_time": 1717744458,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305931,
       "num": 305931,
       "word": "歌手歌单",
@@ -731,6 +763,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 281410,
+      "num": 281410,
+      "word": "大熊猫jiojio有多臭啊要洗这么久",
+      "onboard_time": 1717742659,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276991,
       "num": 276991,
       "word": "肖战大学是设计专业的",
@@ -753,6 +793,14 @@
       "onboard_time": 1717721359,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271834,
+      "num": 271834,
+      "word": "我妈看完沈玉容都不催婚了",
+      "onboard_time": 1717744519,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 271602,
@@ -827,28 +875,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255061,
-      "num": 255061,
-      "word": "刘亦菲喝多被万茜嫌弃了",
-      "onboard_time": 1717744458,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254511,
       "num": 254511,
       "word": "没有浙江卷了",
       "onboard_time": 1717735582,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 250878,
-      "num": 250878,
-      "word": "大熊猫jiojio有多臭啊要洗这么久",
-      "onboard_time": 1717742659,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247582,
@@ -939,28 +971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224683,
-      "num": 224683,
-      "word": "李晋晔 被换",
-      "onboard_time": 1717745478,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 222422,
-      "num": 222422,
-      "word": "我妈看完沈玉容都不催婚了",
-      "onboard_time": 1717744519,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220510,
       "num": 220510,
       "word": "祝1342万考生大胜归来",
       "onboard_time": 1717719378,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 219456,
+      "num": 187994,
+      "word": "歌手门仓有希去世",
+      "onboard_time": 1717747519,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 216540,
@@ -1059,6 +1083,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 208371,
+      "num": 208371,
+      "word": "马里亚纳海沟",
+      "onboard_time": 1717747759,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 208363,
       "num": 208363,
       "word": "大胖媳妇爆改亚当",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1717736481,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202089,
+      "num": 202089,
+      "word": "手机AI写高考作文哪家强",
+      "onboard_time": 1717747219,
+      "rank": 26,
+      "category": "科学科普,教育"
     },
     {
       "raw_hot": 200931,
@@ -1179,6 +1219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 192564,
+      "num": 187734,
+      "word": "吴镇宇 费曼只会上网给意见",
+      "onboard_time": 1717748238,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189761,
       "num": 189761,
       "word": "种地吧",
@@ -1208,6 +1256,14 @@
       "word": "陈丽君唱rap",
       "onboard_time": 1717744760,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 187443,
+      "num": 187443,
+      "word": "张钰琪唱BlackSheep",
+      "onboard_time": 1717747278,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1283,14 +1339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173783,
-      "num": 173783,
-      "word": "王俊凯IP正确手势正确",
-      "onboard_time": 1717745478,
-      "rank": 35,
-      "category": "艺人,教育"
-    },
-    {
       "raw_hot": 173724,
       "num": 184474,
       "word": "高考作文谈如何与他人相处",
@@ -1337,6 +1385,22 @@
       "onboard_time": 1717715715,
       "rank": 19,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 167061,
+      "num": 167061,
+      "word": "景区女厕安装计时器引人不适",
+      "onboard_time": 1717748059,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166891,
+      "num": 166891,
+      "word": "王大雷含泪道歉",
+      "onboard_time": 1717746318,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 166267,
@@ -1627,6 +1691,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140143,
+      "num": 140143,
+      "word": "去南极在你的人生todolist里吗",
+      "onboard_time": 1717747997,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 137766,
+      "num": 137766,
+      "word": "小米称制动踏板状态正常",
+      "onboard_time": 1717747098,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 137104,
       "num": 137104,
       "word": "当小男孩知道小猫去了喵星",
@@ -1649,6 +1729,14 @@
       "onboard_time": 1717683499,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134138,
+      "num": 134138,
+      "word": "黄健翔说的女歌手是蔡依林吗",
+      "onboard_time": 1717746738,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 132871,
@@ -2091,6 +2179,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 44193,
+      "num": 442832,
+      "word": "蓝领招聘薪酬比5年前增长超3成",
+      "onboard_time": 1717747219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38351,
       "num": 48117,
       "word": "咒术回战作者生病",
@@ -2177,6 +2273,14 @@
       "onboard_time": 1717693573,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 18194,
+      "num": 273527,
+      "word": "跟着甘孜文旅局长刘洪打卡G318",
+      "onboard_time": 1717746078,
+      "rank": 19,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 16044,
