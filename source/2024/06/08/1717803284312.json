@@ -1,0 +1,410 @@
+{
+  "runTime": 1717803284312,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 575262,
+        "num": 575262,
+        "word": "前儿媳实名举报公公有巨额不明财产",
+        "onboard_time": 1717801874,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312695,
+        "num": 312695,
+        "word": "歌手排名",
+        "onboard_time": 1717771523,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28204,
+        "num": 309606,
+        "word": "万千气象看北京",
+        "onboard_time": 1717769963,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308681,
+        "num": 308681,
+        "word": "何炅缺席",
+        "onboard_time": 1717762579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289281,
+        "num": 289281,
+        "word": "北大物理保送生考了唯一一门语文",
+        "onboard_time": 1717764139,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286896,
+        "num": 286896,
+        "word": "导演称张若昀5年都没离开过范闲",
+        "onboard_time": 1717769484,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231549,
+        "num": 231549,
+        "word": "高考数学",
+        "onboard_time": 1717749858,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187819,
+        "num": 187819,
+        "word": "天天翻版张亮",
+        "onboard_time": 1717799713,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124841,
+        "num": 124841,
+        "word": "女子替过世6年小姨拥抱高考表弟",
+        "onboard_time": 1717767924,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103510,
+        "num": 124311,
+        "word": "端午遇高考一定会考好",
+        "onboard_time": 1717802715,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289238,
+        "num": 122339,
+        "word": "莫言曾劝女儿高考前看电视",
+        "onboard_time": 1717797251,
+        "rank": 10,
+        "category": "读书作家,教育"
+      },
+      {
+        "raw_hot": 187213,
+        "num": 121104,
+        "word": "海泉漏了张钰琪",
+        "onboard_time": 1717771582,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238620,
+        "num": 119563,
+        "word": "玄彬孙艺珍出售婚房",
+        "onboard_time": 1717760358,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181243,
+        "num": 117268,
+        "word": "薛芳菲我不允许任何人忤逆你",
+        "onboard_time": 1717785132,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174437,
+        "num": 116475,
+        "word": "王一博要求黑粉公开道歉",
+        "onboard_time": 1717759458,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132049,
+        "num": 113930,
+        "word": "董宇辉称爸妈长期被骚扰",
+        "onboard_time": 1717755739,
+        "rank": 15,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 113154,
+        "num": 113154,
+        "word": "韦神 是不是你出的题",
+        "onboard_time": 1717758438,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108078,
+        "num": 108078,
+        "word": "科学家称可能存在一个反宇宙",
+        "onboard_time": 1717772840,
+        "rank": 17,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 88021,
+        "num": 107463,
+        "word": "原来动画片真的没有骗我",
+        "onboard_time": 1717802174,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60421,
+        "num": 106880,
+        "word": "高考第2日",
+        "onboard_time": 1717801994,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236283,
+        "num": 106521,
+        "word": "14岁少年强迫他人卖淫进矫正学校",
+        "onboard_time": 1717770502,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212748,
+        "num": 105812,
+        "word": "一对日本母女在渡轮遭遇神隐",
+        "onboard_time": 1717750519,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207632,
+        "num": 105072,
+        "word": "25岁在出租屋躺了两年",
+        "onboard_time": 1717802174,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156114,
+        "num": 104459,
+        "word": "名下五套房想签婚前协议有错吗",
+        "onboard_time": 1717801755,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140977,
+        "num": 103350,
+        "word": "因为端午提前发了工资",
+        "onboard_time": 1717802115,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138031,
+        "num": 102976,
+        "word": "那英 天后回归",
+        "onboard_time": 1717766962,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118727,
+        "num": 102006,
+        "word": "张钰琪 牛",
+        "onboard_time": 1717765583,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108246,
+        "num": 101272,
+        "word": "歌手",
+        "onboard_time": 1717802115,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100927,
+        "num": 100927,
+        "word": "孙楠第一",
+        "onboard_time": 1717771102,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89591,
+        "num": 89591,
+        "word": "异地夫妻好像越来越多了",
+        "onboard_time": 1717801874,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85750,
+        "num": 85750,
+        "word": "56岁邱淑贞状态",
+        "onboard_time": 1717796891,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 76861,
+        "num": 76861,
+        "word": "真是一方减肥八方添饭啊",
+        "onboard_time": 1717801583,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74983,
+        "num": 74983,
+        "word": "苗苗边看乘风边卷腹",
+        "onboard_time": 1717795691,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74921,
+        "num": 74921,
+        "word": "TFBOYS十周年蛋糕塌的三四层",
+        "onboard_time": 1717764860,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72777,
+        "num": 72777,
+        "word": "耳帝上电视了",
+        "onboard_time": 1717772420,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 808475,
+        "num": 72570,
+        "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
+        "onboard_time": 1717770383,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72128,
+        "num": 72128,
+        "word": "郑恺差点没认出来苗苗",
+        "onboard_time": 1717802773,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61494,
+        "num": 61494,
+        "word": "央视网文娱评墨雨云间",
+        "onboard_time": 1717774399,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60437,
+        "num": 60437,
+        "word": "男生高考数学估分140直呼太简单",
+        "onboard_time": 1717769363,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58687,
+        "num": 58687,
+        "word": "歌手直播",
+        "onboard_time": 1717761497,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57649,
+        "num": 57649,
+        "word": "汪苏泷 舒适圈",
+        "onboard_time": 1717763180,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57243,
+        "num": 57243,
+        "word": "LNG回应GALA幽梦",
+        "onboard_time": 1717801583,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55978,
+        "num": 55978,
+        "word": "医生提醒9种面相或是疾病信号",
+        "onboard_time": 1717781833,
+        "rank": 42,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 53167,
+        "num": 53167,
+        "word": "爸爸带红衣战袍小狗给女儿送考",
+        "onboard_time": 1717797973,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52689,
+        "num": 52689,
+        "word": "老师的985车牌快被摸秃噜皮了",
+        "onboard_time": 1717759697,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53151,
+        "num": 52363,
+        "word": "15岁的郭碧婷学生头模版",
+        "onboard_time": 1717794311,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51428,
+        "num": 51428,
+        "word": "缺席儿子高考的他坚持为别人送考21年",
+        "onboard_time": 1717801512,
+        "rank": 46,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 51276,
+        "num": 51276,
+        "word": "董宇辉小时候被抢过好多次钱",
+        "onboard_time": 1717790170,
+        "rank": 47,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 50758,
+        "num": 50758,
+        "word": "法网",
+        "onboard_time": 1717767862,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47948,
+        "num": 47948,
+        "word": "魏大勋好S",
+        "onboard_time": 1717769664,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴西副总统阿尔克明#"
+    }
+  }
+}

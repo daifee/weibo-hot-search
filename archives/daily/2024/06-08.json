@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717802442514,
+  "endTime": 1717803284312,
   "band_list": [
     {
       "raw_hot": 1441447,
@@ -57,6 +57,14 @@
       "onboard_time": 1717759458,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 575262,
+      "num": 575262,
+      "word": "前儿媳实名举报公公有巨额不明财产",
+      "onboard_time": 1717801874,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471981,
@@ -139,12 +147,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286837,
-      "num": 286837,
+      "raw_hot": 289281,
+      "num": 289281,
       "word": "北大物理保送生考了唯一一门语文",
       "onboard_time": 1717764139,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 289238,
+      "num": 198574,
+      "word": "莫言曾劝女儿高考前看电视",
+      "onboard_time": 1717797251,
+      "rank": 30,
+      "category": "读书作家,教育"
+    },
+    {
+      "raw_hot": 286896,
+      "num": 286896,
+      "word": "导演称张若昀5年都没离开过范闲",
+      "onboard_time": 1717769484,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 269970,
@@ -155,36 +179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259216,
-      "num": 198574,
-      "word": "莫言曾劝女儿高考前看电视",
-      "onboard_time": 1717797251,
-      "rank": 30,
-      "category": "读书作家,教育"
-    },
-    {
       "raw_hot": 248707,
       "num": 248707,
       "word": "一对日本母女在渡轮遭遇神隐",
       "onboard_time": 1717750519,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247498,
-      "num": 247498,
-      "word": "前儿媳实名举报公公有巨额不明财产",
-      "onboard_time": 1717801874,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247428,
-      "num": 247428,
-      "word": "导演称张若昀5年都没离开过范闲",
-      "onboard_time": 1717769484,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 224771,
@@ -209,6 +209,22 @@
       "onboard_time": 1717768103,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207632,
+      "num": 105072,
+      "word": "25岁在出租屋躺了两年",
+      "onboard_time": 1717802174,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 187819,
+      "num": 187819,
+      "word": "天天翻版张亮",
+      "onboard_time": 1717799713,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187614,
@@ -259,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156114,
+      "num": 104459,
+      "word": "名下五套房想签婚前协议有错吗",
+      "onboard_time": 1717801755,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143766,
       "num": 143766,
       "word": "墨雨云间老墨我想吃雨了",
@@ -275,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140977,
+      "num": 103350,
+      "word": "因为端午提前发了工资",
+      "onboard_time": 1717802115,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 137353,
       "num": 271033,
       "word": "董宇辉称爸妈长期被骚扰",
@@ -289,14 +321,6 @@
       "onboard_time": 1717767984,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125858,
-      "num": 125858,
-      "word": "天天翻版张亮",
-      "onboard_time": 1717799713,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123076,
@@ -339,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108246,
+      "num": 101272,
+      "word": "歌手",
+      "onboard_time": 1717802115,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107985,
       "num": 107985,
       "word": "我比张钰琪还紧张",
@@ -347,20 +379,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104524,
-      "num": 91751,
-      "word": "25岁在出租屋躺了两年",
-      "onboard_time": 1717802174,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 100035,
-      "num": 91711,
-      "word": "歌手",
-      "onboard_time": 1717802115,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 103510,
+      "num": 124311,
+      "word": "端午遇高考一定会考好",
+      "onboard_time": 1717802715,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 95928,
@@ -387,20 +411,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91564,
-      "num": 91564,
-      "word": "名下五套房想签婚前协议有错吗",
-      "onboard_time": 1717801755,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 91512,
       "num": 324549,
       "word": "福宝马上要搬新家了",
       "onboard_time": 1717763718,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89591,
+      "num": 89591,
+      "word": "异地夫妻好像越来越多了",
+      "onboard_time": 1717801874,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 88718,
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88021,
+      "num": 107463,
+      "word": "原来动画片真的没有骗我",
+      "onboard_time": 1717802174,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83348,
       "num": 121257,
       "word": "男生高考数学估分140直呼太简单",
@@ -419,11 +451,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 79223,
-      "num": 79223,
-      "word": "因为端午提前发了工资",
-      "onboard_time": 1717802115,
-      "rank": 30,
+      "raw_hot": 76861,
+      "num": 76861,
+      "word": "真是一方减肥八方添饭啊",
+      "onboard_time": 1717801583,
+      "rank": 36,
       "category": "幽默"
     },
     {
@@ -451,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72128,
+      "num": 72128,
+      "word": "郑恺差点没认出来苗苗",
+      "onboard_time": 1717802773,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 71400,
       "num": 114813,
       "word": "Langx爆料Cube已离队",
@@ -476,19 +516,27 @@
     },
     {
       "raw_hot": 62568,
-      "num": 50694,
+      "num": 52363,
       "word": "15岁的郭碧婷学生头模版",
       "onboard_time": 1717794311,
       "rank": 32,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 60263,
-      "num": 60263,
-      "word": "真是一方减肥八方添饭啊",
+      "raw_hot": 60421,
+      "num": 106880,
+      "word": "高考第2日",
+      "onboard_time": 1717801994,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 57243,
+      "num": 57243,
+      "word": "LNG回应GALA幽梦",
       "onboard_time": 1717801583,
-      "rank": 36,
-      "category": "幽默"
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 56747,
@@ -508,7 +556,7 @@
     },
     {
       "raw_hot": 56146,
-      "num": 53477,
+      "num": 55978,
       "word": "医生提醒9种面相或是疾病信号",
       "onboard_time": 1717781833,
       "rank": 30,
@@ -523,20 +571,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 53239,
-      "num": 84390,
-      "word": "高考第2日",
-      "onboard_time": 1717801994,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 52725,
-      "num": 52725,
-      "word": "异地夫妻好像越来越多了",
-      "onboard_time": 1717801874,
-      "rank": 41,
-      "category": "情感"
+      "raw_hot": 53167,
+      "num": 53167,
+      "word": "爸爸带红衣战袍小狗给女儿送考",
+      "onboard_time": 1717797973,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52391,
@@ -547,20 +587,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 51762,
-      "num": 51762,
-      "word": "爸爸带红衣战袍小狗给女儿送考",
-      "onboard_time": 1717797973,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50411,
-      "num": 50411,
-      "word": "原来动画片真的没有骗我",
-      "onboard_time": 1717802174,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 51428,
+      "num": 213044,
+      "word": "缺席儿子高考的他坚持为别人送考21年",
+      "onboard_time": 1717801512,
+      "rank": 9,
+      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 50136,
@@ -569,14 +601,6 @@
       "onboard_time": 1717767984,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 46855,
-      "num": 46855,
-      "word": "LNG回应GALA幽梦",
-      "onboard_time": 1717801583,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 40665,
@@ -611,16 +635,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 29210,
-      "num": 213044,
-      "word": "缺席儿子高考的他坚持为别人送考21年",
-      "onboard_time": 1717801512,
-      "rank": 9,
-      "category": "社会正能量,教育"
-    },
-    {
       "raw_hot": 28278,
-      "num": 286792,
+      "num": 309606,
       "word": "万千气象看北京",
       "onboard_time": 1717769963,
       "rank": 2,
