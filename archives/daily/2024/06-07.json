@@ -1,6 +1,6 @@
 {
   "startTime": 1717691048604,
-  "endTime": 1717759039806,
+  "endTime": 1717760068402,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -131,20 +131,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1229619,
+      "num": 822952,
+      "word": "一对日本母女在渡轮遭遇神隐",
+      "onboard_time": 1717750519,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1210169,
       "num": 1210169,
       "word": "高考作文 比去年简单",
       "onboard_time": 1717732585,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1187675,
-      "num": 822952,
-      "word": "一对日本母女在渡轮遭遇神隐",
-      "onboard_time": 1717750519,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1184314,
@@ -211,12 +211,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 968566,
+      "num": 968566,
+      "word": "韦神 是不是你出的题",
+      "onboard_time": 1717758438,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 884612,
       "num": 250051,
       "word": "大二女生175斤减到94斤变化惊艳",
       "onboard_time": 1717716376,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 842126,
+      "num": 842126,
+      "word": "一场数学毁了我的大学梦",
+      "onboard_time": 1717755619,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 826494,
@@ -235,12 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 779912,
-      "num": 414544,
-      "word": "一场数学毁了我的大学梦",
-      "onboard_time": 1717755619,
-      "rank": 13,
-      "category": "教育"
+      "raw_hot": 784802,
+      "num": 741270,
+      "word": "董宇辉称爸妈长期被骚扰",
+      "onboard_time": 1717755739,
+      "rank": 10,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 776793,
@@ -257,14 +273,6 @@
       "onboard_time": 1717735283,
       "rank": 7,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 741270,
-      "num": 741270,
-      "word": "董宇辉称爸妈长期被骚扰",
-      "onboard_time": 1717755739,
-      "rank": 10,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 722184,
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493901,
+      "num": 391829,
+      "word": "王一博要求黑粉公开道歉",
+      "onboard_time": 1717759458,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 489850,
       "num": 489850,
       "word": "高考时间",
@@ -747,12 +763,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 376820,
-      "num": 376820,
-      "word": "韦神 是不是你出的题",
-      "onboard_time": 1717758438,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 375176,
+      "num": 375176,
+      "word": "歌手2024",
+      "onboard_time": 1717758858,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 371533,
@@ -977,6 +993,14 @@
       "onboard_time": 1717756219,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 286785,
+      "num": 286785,
+      "word": "日本酒店无头男尸案公审",
+      "onboard_time": 1717756578,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286110,
@@ -1451,6 +1475,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 205594,
+      "num": 205594,
+      "word": "尚雯婕没去歌手去618了",
+      "onboard_time": 1717759819,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203139,
+      "num": 203139,
+      "word": "恋爱兄妹",
+      "onboard_time": 1717759458,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202089,
       "num": 202089,
       "word": "手机AI写高考作文哪家强",
@@ -1729,14 +1769,6 @@
       "onboard_time": 1717724237,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 171658,
-      "num": 171658,
-      "word": "歌手2024",
-      "onboard_time": 1717758858,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 170431,
@@ -2027,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149643,
-      "num": 209220,
-      "word": "日本酒店无头男尸案公审",
-      "onboard_time": 1717756578,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149068,
       "num": 149068,
       "word": "Haerin和Minji的力量差异",
@@ -2275,6 +2299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124333,
+      "num": 124333,
+      "word": "讨好型车格",
+      "onboard_time": 1717759458,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124233,
       "num": 124233,
       "word": "墨雨云间 好有张力的拉扯",
@@ -2347,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115037,
+      "num": 115037,
+      "word": "老师的985车牌快被摸秃噜皮了",
+      "onboard_time": 1717759697,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109100,
       "num": 109100,
       "word": "波神超神了",
@@ -2393,6 +2433,14 @@
       "onboard_time": 1717686319,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96870,
+      "num": 420532,
+      "word": "专家称AI写的作文缺乏深度",
+      "onboard_time": 1717758017,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 96123,
@@ -2545,14 +2593,6 @@
       "onboard_time": 1717679659,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71260,
-      "num": 420532,
-      "word": "专家称AI写的作文缺乏深度",
-      "onboard_time": 1717758017,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 71054,
@@ -2715,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40376,
+      "num": 203541,
+      "word": "打工人的尽头是带薪养生",
+      "onboard_time": 1717756397,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38351,
       "num": 48117,
       "word": "咒术回战作者生病",
@@ -2739,14 +2787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32359,
-      "num": 203541,
-      "word": "打工人的尽头是带薪养生",
-      "onboard_time": 1717756397,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 32077,
       "num": 31440,
       "word": "彭冠英新剧演刘亦菲初恋",
@@ -2761,6 +2801,14 @@
       "onboard_time": 1717707250,
       "rank": 45,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 31014,
+      "num": 217213,
+      "word": "解析2024高考语文",
+      "onboard_time": 1717757418,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 29294,

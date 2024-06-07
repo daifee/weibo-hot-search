@@ -1,0 +1,410 @@
+{
+  "runTime": 1717760068402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7231951,
+        "num": 7231951,
+        "word": "高考数学",
+        "onboard_time": 1717749858,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 968566,
+        "num": 968566,
+        "word": "韦神 是不是你出的题",
+        "onboard_time": 1717758438,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36874,
+        "num": 933499,
+        "word": "我国首个液体通用型火箭发射工位竣工",
+        "onboard_time": 1717751960,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925771,
+        "num": 925771,
+        "word": "新一卷数学 大题难",
+        "onboard_time": 1717752622,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 842126,
+        "num": 842126,
+        "word": "一场数学毁了我的大学梦",
+        "onboard_time": 1717755619,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 661719,
+        "num": 661719,
+        "word": "李晋晔 被换",
+        "onboard_time": 1717745478,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486221,
+        "num": 486221,
+        "word": "高考作文",
+        "onboard_time": 1717729999,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 410237,
+        "num": 410237,
+        "word": "高考数学难不难",
+        "onboard_time": 1717751481,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 408006,
+        "num": 408006,
+        "word": "数学数学 我要diss你",
+        "onboard_time": 1717755619,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 784802,
+        "num": 402397,
+        "word": "董宇辉称爸妈长期被骚扰",
+        "onboard_time": 1717755739,
+        "rank": 9,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1229619,
+        "num": 394178,
+        "word": "一对日本母女在渡轮遭遇神隐",
+        "onboard_time": 1717750519,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493901,
+        "num": 391829,
+        "word": "王一博要求黑粉公开道歉",
+        "onboard_time": 1717759458,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418978,
+        "num": 382482,
+        "word": "数学 一生之敌",
+        "onboard_time": 1717752801,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 378501,
+        "num": 378501,
+        "word": "张学友感染呼吸道合胞病毒",
+        "onboard_time": 1717757418,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375281,
+        "num": 375281,
+        "word": "考笑了",
+        "onboard_time": 1717756219,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 375176,
+        "num": 375176,
+        "word": "歌手2024",
+        "onboard_time": 1717758858,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300442,
+        "num": 300442,
+        "word": "墨雨云间疯子还得疯子磨",
+        "onboard_time": 1717757058,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286785,
+        "num": 286785,
+        "word": "日本酒店无头男尸案公审",
+        "onboard_time": 1717756578,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245153,
+        "num": 245153,
+        "word": "今年难 明年就不许难了哦",
+        "onboard_time": 1717757658,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 231493,
+        "num": 231493,
+        "word": "高考作文 人工智能",
+        "onboard_time": 1717731506,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372884,
+        "num": 230992,
+        "word": "金晨下衣失踪",
+        "onboard_time": 1717749558,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 31014,
+        "num": 217213,
+        "word": "解析2024高考语文",
+        "onboard_time": 1717757418,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216262,
+        "num": 216262,
+        "word": "高考数学答案",
+        "onboard_time": 1717754000,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96870,
+        "num": 207936,
+        "word": "专家称AI写的作文缺乏深度",
+        "onboard_time": 1717758017,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205594,
+        "num": 205594,
+        "word": "尚雯婕没去歌手去618了",
+        "onboard_time": 1717759819,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203139,
+        "num": 203139,
+        "word": "恋爱兄妹",
+        "onboard_time": 1717759458,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195348,
+        "num": 195348,
+        "word": "18斤榴莲复秤仅8斤",
+        "onboard_time": 1717752622,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 40376,
+        "num": 194676,
+        "word": "打工人的尽头是带薪养生",
+        "onboard_time": 1717756397,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194623,
+        "num": 194623,
+        "word": "警号985211的民警手被拍红了",
+        "onboard_time": 1717744519,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 59223,
+        "num": 180988,
+        "word": "高考第1天结束",
+        "onboard_time": 1717757658,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173158,
+        "num": 173158,
+        "word": "王一博名誉维权说明",
+        "onboard_time": 1717758017,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171007,
+        "num": 171007,
+        "word": "何洁路人缘",
+        "onboard_time": 1717752142,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170183,
+        "num": 170183,
+        "word": "女大学生考点摆摊拍照每张9.85元",
+        "onboard_time": 1717755079,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168313,
+        "num": 168313,
+        "word": "微信回应登上高考作文",
+        "onboard_time": 1717737800,
+        "rank": 33,
+        "category": "教育,互联网"
+      },
+      {
+        "raw_hot": 168268,
+        "num": 168268,
+        "word": "吴镇宇 费曼只会上网给意见",
+        "onboard_time": 1717748238,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154323,
+        "num": 154323,
+        "word": "江西抚州车祸一孕妇被撞身亡",
+        "onboard_time": 1717739839,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 144752,
+        "num": 144752,
+        "word": "考完数学已老实",
+        "onboard_time": 1717753880,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141090,
+        "num": 141090,
+        "word": "宇露君沾",
+        "onboard_time": 1717757959,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137199,
+        "num": 137199,
+        "word": "歌手歌单",
+        "onboard_time": 1717739238,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134537,
+        "num": 134537,
+        "word": "Haerin和Minji的力量差异",
+        "onboard_time": 1717757778,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132388,
+        "num": 132388,
+        "word": "新二卷数学 看似简单不会做",
+        "onboard_time": 1717754419,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131873,
+        "num": 131873,
+        "word": "infp好像天生就很会共情",
+        "onboard_time": 1717754600,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124967,
+        "num": 124967,
+        "word": "吴谨言提早三个月进组跟郝蕾学表演",
+        "onboard_time": 1717743738,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124333,
+        "num": 124333,
+        "word": "讨好型车格",
+        "onboard_time": 1717759458,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121469,
+        "num": 121469,
+        "word": "金莎参加闺蜜婚礼",
+        "onboard_time": 1717756938,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120989,
+        "num": 120989,
+        "word": "王俊凯IP正确手势正确",
+        "onboard_time": 1717745478,
+        "rank": 45,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 118889,
+        "num": 118889,
+        "word": "女子离婚后欲为儿子改名被驳",
+        "onboard_time": 1717750577,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115037,
+        "num": 115037,
+        "word": "老师的985车牌快被摸秃噜皮了",
+        "onboard_time": 1717759697,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95623,
+        "num": 114806,
+        "word": "黑神话",
+        "onboard_time": 1717752921,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79639,
+        "num": 114012,
+        "word": "黑神话悟空 配置",
+        "onboard_time": 1717751000,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断提升国家文化软实力和中华文化影响力#"
+    }
+  }
+}

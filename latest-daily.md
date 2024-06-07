@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 19:17:19
+本榜单时间：2024/06/07 00:24:08 ~ 2024/06/07 19:34:28
 </p>
 </blockquote>
 <p>
@@ -111,14 +111,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E6%AF%94%E5%8E%BB%E5%B9%B4%E7%AE%80%E5%8D%95%23" target="weibo">
-高考作文 比去年简单（热度：1210169）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%AF%8D%E5%A5%B3%E5%9C%A8%E6%B8%A1%E8%BD%AE%E9%81%AD%E9%81%87%E7%A5%9E%E9%9A%90%23" target="weibo">
+一对日本母女在渡轮遭遇神隐（热度：1229619）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%AF%8D%E5%A5%B3%E5%9C%A8%E6%B8%A1%E8%BD%AE%E9%81%AD%E9%81%87%E7%A5%9E%E9%9A%90%23" target="weibo">
-一对日本母女在渡轮遭遇神隐（热度：1187675）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%20%E6%AF%94%E5%8E%BB%E5%B9%B4%E7%AE%80%E5%8D%95%23" target="weibo">
+高考作文 比去年简单（热度：1210169）
 </a>
 </li>
 
@@ -171,8 +171,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E7%A5%9E%20%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BD%A0%E5%87%BA%E7%9A%84%E9%A2%98%23" target="weibo">
+韦神 是不是你出的题（热度：968566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%8C%E5%A5%B3%E7%94%9F175%E6%96%A4%E5%87%8F%E5%88%B094%E6%96%A4%E5%8F%98%E5%8C%96%E6%83%8A%E8%89%B3%23" target="weibo">
 大二女生175斤减到94斤变化惊艳（热度：884612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E6%95%B0%E5%AD%A6%E6%AF%81%E4%BA%86%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E6%A2%A6%23" target="weibo">
+一场数学毁了我的大学梦（热度：842126）
 </a>
 </li>
 
@@ -189,8 +201,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E6%95%B0%E5%AD%A6%E6%AF%81%E4%BA%86%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E6%A2%A6%23" target="weibo">
-一场数学毁了我的大学梦（热度：779912）
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E7%88%B8%E5%A6%88%E9%95%BF%E6%9C%9F%E8%A2%AB%E9%AA%9A%E6%89%B0%23" target="weibo">
+董宇辉称爸妈长期被骚扰（热度：784802）
 </a>
 </li>
 
@@ -203,12 +215,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%AF%B4%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%87%BA%E8%80%83%E5%9C%BA%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%A4%AA%E9%A5%BF%E4%BA%86%23" target="weibo">
 男生说第一个出考场是因为太饿了（热度：759497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E7%88%B8%E5%A6%88%E9%95%BF%E6%9C%9F%E8%A2%AB%E9%AA%9A%E6%89%B0%23" target="weibo">
-董宇辉称爸妈长期被骚扰（热度：741270）
 </a>
 </li>
 
@@ -393,6 +399,12 @@ AI写AI（热度：545645）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A6%81%E6%B1%82%E9%BB%91%E7%B2%89%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
+王一博要求黑粉公开道歉（热度：493901）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4%23" target="weibo">
 高考时间（热度：489850）
 </a>
@@ -573,8 +585,8 @@ ChatGPT来交卷了（热度：423568）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E7%A5%9E%20%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BD%A0%E5%87%BA%E7%9A%84%E9%A2%98%23" target="weibo">
-韦神 是不是你出的题（热度：376820）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%23" target="weibo">
+歌手2024（热度：375176）
 </a>
 </li>
 
@@ -743,6 +755,12 @@ EVA动画制作公司宣布破产（热度：308848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%86%E6%B0%B4%E5%AF%92%E5%85%8D%E8%B4%B9%E7%9C%B7%E6%80%9D%E9%87%8F%E6%97%B6%E8%A3%85%23" target="weibo">
 逆水寒免费眷思量时装（热度：286842）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%E6%A1%88%E5%85%AC%E5%AE%A1%23" target="weibo">
+日本酒店无头男尸案公审（热度：286785）
 </a>
 </li>
 
@@ -1101,6 +1119,18 @@ EVA动画制作公司宣布破产（热度：308848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E6%B2%A1%E5%8E%BB%E6%AD%8C%E6%89%8B%E5%8E%BB618%E4%BA%86%23" target="weibo">
+尚雯婕没去歌手去618了（热度：205594）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E7%88%B1%E5%85%84%E5%A6%B9%23" target="weibo">
+恋爱兄妹（热度：203139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BAAI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E5%93%AA%E5%AE%B6%E5%BC%BA%23" target="weibo">
 手机AI写高考作文哪家强（热度：202089）
 </a>
@@ -1307,12 +1337,6 @@ IU捡了只洞洞鞋（热度：187812）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%AB%98%E8%80%83%E5%B0%B1%E4%B8%8B%E9%9B%A8%E6%98%AF%E5%B7%A7%E5%90%88%E5%90%97%23" target="weibo">
 一高考就下雨是巧合吗（热度：171809）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B2024%23" target="weibo">
-歌手2024（热度：171658）
 </a>
 </li>
 
@@ -1533,12 +1557,6 @@ WekiMeki官宣解散（热度：153067）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E6%97%A0%E5%A4%B4%E7%94%B7%E5%B0%B8%E6%A1%88%E5%85%AC%E5%AE%A1%23" target="weibo">
-日本酒店无头男尸案公审（热度：149643）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Haerin%E5%92%8CMinji%E7%9A%84%E5%8A%9B%E9%87%8F%E5%B7%AE%E5%BC%82%23" target="weibo">
 Haerin和Minji的力量差异（热度：149068）
 </a>
@@ -1719,6 +1737,12 @@ Haerin和Minji的力量差异（热度：149068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A8%E5%A5%BD%E5%9E%8B%E8%BD%A6%E6%A0%BC%23" target="weibo">
+讨好型车格（热度：124333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E5%A5%BD%E6%9C%89%E5%BC%A0%E5%8A%9B%E7%9A%84%E6%8B%89%E6%89%AF%23" target="weibo">
 墨雨云间 好有张力的拉扯（热度：124233）
 </a>
@@ -1773,6 +1797,12 @@ Haerin和Minji的力量差异（热度：149068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E7%9A%84985%E8%BD%A6%E7%89%8C%E5%BF%AB%E8%A2%AB%E6%91%B8%E7%A7%83%E5%99%9C%E7%9A%AE%E4%BA%86%23" target="weibo">
+老师的985车牌快被摸秃噜皮了（热度：115037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A2%E7%A5%9E%E8%B6%85%E7%A5%9E%E4%BA%86%23" target="weibo">
 波神超神了（热度：109100）
 </a>
@@ -1805,6 +1835,12 @@ Haerin和Minji的力量差异（热度：149068）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E5%BC%A0%E9%9B%A8%E7%BB%AE%E5%87%BA%E5%9C%BA%23" target="weibo">
 墨雨云间张雨绮出场（热度：97333）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0AI%E5%86%99%E7%9A%84%E4%BD%9C%E6%96%87%E7%BC%BA%E4%B9%8F%E6%B7%B1%E5%BA%A6%23" target="weibo">
+专家称AI写的作文缺乏深度（热度：96870）
 </a>
 </li>
 
@@ -1919,12 +1955,6 @@ Haerin和Minji的力量差异（热度：149068）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E7%9C%8B%E5%88%98%E4%BA%A6%E8%8F%B2%E7%9A%84%E7%9C%BC%E7%A5%9E%23" target="weibo">
 林一看刘亦菲的眼神（热度：73264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0AI%E5%86%99%E7%9A%84%E4%BD%9C%E6%96%87%E7%BC%BA%E4%B9%8F%E6%B7%B1%E5%BA%A6%23" target="weibo">
-专家称AI写的作文缺乏深度（热度：71260）
 </a>
 </li>
 
@@ -2049,6 +2079,12 @@ Haerin和Minji的力量差异（热度：149068）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E5%B8%A6%E8%96%AA%E5%85%BB%E7%94%9F%23" target="weibo">
+打工人的尽头是带薪养生（热度：40376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E4%BD%9C%E8%80%85%E7%94%9F%E7%97%85%23" target="weibo">
 咒术回战作者生病（热度：38351）
 </a>
@@ -2067,12 +2103,6 @@ Haerin和Minji的力量差异（热度：149068）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E5%B8%A6%E8%96%AA%E5%85%BB%E7%94%9F%23" target="weibo">
-打工人的尽头是带薪养生（热度：32359）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%86%A0%E8%8B%B1%E6%96%B0%E5%89%A7%E6%BC%94%E5%88%98%E4%BA%A6%E8%8F%B2%E5%88%9D%E6%81%8B%23" target="weibo">
 彭冠英新剧演刘亦菲初恋（热度：32077）
 </a>
@@ -2081,6 +2111,12 @@ Haerin和Minji的力量差异（热度：149068）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231342%E4%B8%87%E5%90%8D%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E5%B9%B8%E8%BF%90%E5%80%BC%E5%B7%B2%E5%8A%A0%E6%BB%A1%23" target="weibo">
 1342万名高考生的幸运值已加满（热度：31441）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%9E%902024%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%23" target="weibo">
+解析2024高考语文（热度：31014）
 </a>
 </li>
 
