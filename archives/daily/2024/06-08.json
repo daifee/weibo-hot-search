@@ -1,7 +1,15 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717835652343,
+  "endTime": 1717838437773,
   "band_list": [
+    {
+      "raw_hot": 4079507,
+      "num": 4079507,
+      "word": "高考英语",
+      "onboard_time": 1717836078,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 2347646,
       "num": 2347646,
@@ -35,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1506996,
+      "raw_hot": 1537374,
       "num": 1506996,
       "word": "高考考到一半突然来例假了",
       "onboard_time": 1717828457,
@@ -355,6 +363,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 528782,
+      "num": 528782,
+      "word": "高考日语",
+      "onboard_time": 1717836319,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 528307,
       "num": 233769,
       "word": "月薪六千的闺蜜一个月能存三千",
@@ -393,6 +409,22 @@
       "onboard_time": 1717815799,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 495881,
+      "num": 495881,
+      "word": "网传头戴日本必胜布条者被游客殴打",
+      "onboard_time": 1717833857,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489679,
+      "num": 489679,
+      "word": "今年高考最好笑的一个",
+      "onboard_time": 1717835058,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 486651,
@@ -507,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394939,
+      "num": 214899,
+      "word": "女子花费518元雇体育生陪女儿爬泰山",
+      "onboard_time": 1717837096,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393289,
       "num": 376223,
       "word": "王一博巴黎街边吃冰淇淋",
@@ -523,20 +563,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 382660,
+      "num": 330476,
+      "word": "康康 DRG",
+      "onboard_time": 1717836976,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 377445,
       "num": 218827,
       "word": "朋友在全麻后说了伤人的话",
       "onboard_time": 1717811596,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 372438,
-      "num": 372438,
-      "word": "网传头戴日本必胜布条者被游客殴打",
-      "onboard_time": 1717833857,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371338,
@@ -617,6 +657,14 @@
       "onboard_time": 1717764139,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 329428,
+      "num": 329428,
+      "word": "多地高考结束",
+      "onboard_time": 1717837938,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314628,
@@ -707,14 +755,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 270426,
-      "num": 270426,
-      "word": "今年高考最好笑的一个",
-      "onboard_time": 1717835058,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269970,
       "num": 269970,
       "word": "歌手直播",
@@ -793,6 +833,14 @@
       "onboard_time": 1717821979,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 244006,
+      "num": 244006,
+      "word": "一牛蛙影响高考被抓",
+      "onboard_time": 1717837219,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242354,
@@ -899,6 +947,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217207,
+      "num": 217207,
+      "word": "今年又帮李华了",
+      "onboard_time": 1717838178,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 216219,
+      "num": 216219,
+      "word": "墨雨云间簪花定情",
+      "onboard_time": 1717837038,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215833,
       "num": 215833,
       "word": "高考生持续耳鸣以为压力大结果是鼻咽癌",
@@ -971,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204963,
+      "num": 204963,
+      "word": "韩国或将全主力出战国足",
+      "onboard_time": 1717835358,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204809,
       "num": 204809,
       "word": "福建物理我爱你",
@@ -993,6 +1065,14 @@
       "onboard_time": 1717816456,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200256,
+      "num": 200256,
+      "word": "北京高考英语还是李华",
+      "onboard_time": 1717837879,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 200086,
@@ -1123,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186531,
+      "num": 186531,
+      "word": "我才不要和你做朋友呢",
+      "onboard_time": 1717837457,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 184535,
       "num": 184535,
       "word": "那英第二",
@@ -1192,6 +1280,14 @@
       "word": "丁程鑫别挡高圆圆泼秦霄贤",
       "onboard_time": 1717822159,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 171432,
+      "num": 171432,
+      "word": "登陆计划",
+      "onboard_time": 1717838237,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1315,12 +1411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156311,
+      "num": 156311,
+      "word": "福宝躲猫猫炫饭",
+      "onboard_time": 1717836498,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156119,
       "num": 156119,
       "word": "这些地方高考查分时间已公布",
       "onboard_time": 1717809198,
       "rank": 32,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 155351,
+      "num": 155351,
+      "word": "谁家cp在牢里过生日",
+      "onboard_time": 1717837578,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 154301,
@@ -1419,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143085,
+      "num": 143085,
+      "word": "排球少年",
+      "onboard_time": 1717836197,
+      "rank": 36,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 142795,
       "num": 142795,
       "word": "山东今天上午没有考试",
@@ -1489,6 +1609,14 @@
       "onboard_time": 1717824677,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 133636,
+      "num": 133636,
+      "word": "赵昭仪正式进入歌坛1分钟",
+      "onboard_time": 1717837999,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 131289,
@@ -1571,6 +1699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123354,
+      "num": 123354,
+      "word": "张馨予晒妈妈",
+      "onboard_time": 1717835778,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123076,
       "num": 136051,
       "word": "口腔出现3种异样警惕口腔癌",
@@ -1593,14 +1729,6 @@
       "onboard_time": 1717772840,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 121838,
-      "num": 121838,
-      "word": "韩国或将全主力出战国足",
-      "onboard_time": 1717835358,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 121301,
@@ -1883,6 +2011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80115,
+      "num": 129082,
+      "word": "高考采访全是打工人心声",
+      "onboard_time": 1717837336,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78661,
       "num": 703097,
       "word": "高考次日再接再厉",
@@ -2107,6 +2243,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 51337,
+      "num": 342792,
+      "word": "高考生被困家中消防员开锁又送考",
+      "onboard_time": 1717837698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50136,
       "num": 93519,
       "word": "为什么有人会有恋母情结",
@@ -2160,6 +2304,14 @@
       "word": "中华文化传承发展新华章",
       "onboard_time": 1717770623,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36156,
+      "num": 309686,
+      "word": "大学生的愿望清单",
+      "onboard_time": 1717838178,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717835652343,
+  "endTime": 1717838437773,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1459,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 4079507,
+      "num": 4079507,
+      "word": "高考英语",
+      "onboard_time": 1717836078,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 4070023,
       "num": 4070023,
       "word": "茶百道声明",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1705948695,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3127417,
-      "num": 3127417,
-      "word": "这是李焕英的女儿",
-      "onboard_time": 1707637773,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

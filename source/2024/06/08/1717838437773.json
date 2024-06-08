@@ -1,0 +1,410 @@
+{
+  "runTime": 1717838437773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4079507,
+        "num": 4079507,
+        "word": "高考英语",
+        "onboard_time": 1717836078,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 543868,
+        "num": 543868,
+        "word": "刘亦菲回复徐海乔",
+        "onboard_time": 1717828338,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18482,
+        "num": 530657,
+        "word": "这张海报很中国",
+        "onboard_time": 1717808475,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528782,
+        "num": 528782,
+        "word": "高考日语",
+        "onboard_time": 1717836319,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 495881,
+        "num": 495881,
+        "word": "网传头戴日本必胜布条者被游客殴打",
+        "onboard_time": 1717833857,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489679,
+        "num": 489679,
+        "word": "今年高考最好笑的一个",
+        "onboard_time": 1717835058,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370502,
+        "num": 370502,
+        "word": "赵露思 荨麻疹",
+        "onboard_time": 1717808356,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363716,
+        "num": 363716,
+        "word": "周深回应考生出考场喊周深加场",
+        "onboard_time": 1717830858,
+        "rank": 7,
+        "category": "演出,教育"
+      },
+      {
+        "raw_hot": 345006,
+        "num": 345006,
+        "word": "质疑丫头 理解丫头",
+        "onboard_time": 1717826297,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 51337,
+        "num": 342792,
+        "word": "高考生被困家中消防员开锁又送考",
+        "onboard_time": 1717837698,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537374,
+        "num": 339401,
+        "word": "高考考到一半突然来例假了",
+        "onboard_time": 1717828457,
+        "rank": 10,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 634845,
+        "num": 334119,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 382660,
+        "num": 330476,
+        "word": "康康 DRG",
+        "onboard_time": 1717836976,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 329428,
+        "num": 329428,
+        "word": "多地高考结束",
+        "onboard_time": 1717837938,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36156,
+        "num": 309686,
+        "word": "大学生的愿望清单",
+        "onboard_time": 1717838178,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307016,
+        "num": 307016,
+        "word": "男生考完理综准备找女友了",
+        "onboard_time": 1717833498,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244006,
+        "num": 244006,
+        "word": "一牛蛙影响高考被抓",
+        "onboard_time": 1717837219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237173,
+        "num": 237173,
+        "word": "伊能静 我爱的女孩终于长成玫瑰",
+        "onboard_time": 1717827078,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217207,
+        "num": 217207,
+        "word": "今年又帮李华了",
+        "onboard_time": 1717838178,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216219,
+        "num": 216219,
+        "word": "墨雨云间簪花定情",
+        "onboard_time": 1717837038,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428044,
+        "num": 215944,
+        "word": "陈赫发文告别两部综艺",
+        "onboard_time": 1717833498,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394939,
+        "num": 214899,
+        "word": "女子花费518元雇体育生陪女儿爬泰山",
+        "onboard_time": 1717837096,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211305,
+        "num": 211305,
+        "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
+        "onboard_time": 1717813756,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 204963,
+        "num": 204963,
+        "word": "韩国或将全主力出战国足",
+        "onboard_time": 1717835358,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202510,
+        "num": 202510,
+        "word": "考完理综飘了都飘了",
+        "onboard_time": 1717834398,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200256,
+        "num": 200256,
+        "word": "北京高考英语还是李华",
+        "onboard_time": 1717837879,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191485,
+        "num": 191485,
+        "word": "警方通报小米SU7事故",
+        "onboard_time": 1717828277,
+        "rank": 26,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 186531,
+        "num": 186531,
+        "word": "我才不要和你做朋友呢",
+        "onboard_time": 1717837457,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178361,
+        "num": 178361,
+        "word": "福宝祝高考生势如破竹",
+        "onboard_time": 1717833618,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 171432,
+        "num": 171432,
+        "word": "登陆计划",
+        "onboard_time": 1717838237,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162187,
+        "num": 162187,
+        "word": "原来结婚的平替是上班",
+        "onboard_time": 1717832117,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158086,
+        "num": 158086,
+        "word": "昨夜金价大跌",
+        "onboard_time": 1717811537,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156311,
+        "num": 156311,
+        "word": "福宝躲猫猫炫饭",
+        "onboard_time": 1717836498,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155351,
+        "num": 155351,
+        "word": "谁家cp在牢里过生日",
+        "onboard_time": 1717837578,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154055,
+        "num": 154055,
+        "word": "中国台湾网红称在澳洲遭种族歧视被围殴",
+        "onboard_time": 1717829358,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144441,
+        "num": 144441,
+        "word": "边佑锡cos百变小樱",
+        "onboard_time": 1717830019,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143085,
+        "num": 143085,
+        "word": "排球少年",
+        "onboard_time": 1717836197,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133636,
+        "num": 133636,
+        "word": "赵昭仪正式进入歌坛1分钟",
+        "onboard_time": 1717837999,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132562,
+        "num": 132562,
+        "word": "官方通报18斤榴莲复秤仅8斤",
+        "onboard_time": 1717829058,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131544,
+        "num": 131544,
+        "word": "央视曝光鼓浪屿宰客一条龙",
+        "onboard_time": 1717815078,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130003,
+        "num": 130003,
+        "word": "华晨宇凡希亚飙高音",
+        "onboard_time": 1717826718,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80115,
+        "num": 129082,
+        "word": "高考采访全是打工人心声",
+        "onboard_time": 1717837336,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128260,
+        "num": 128260,
+        "word": "墨雨云间加更",
+        "onboard_time": 1717820539,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126591,
+        "num": 126591,
+        "word": "iPhone显示无可用SIM卡",
+        "onboard_time": 1717830019,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123354,
+        "num": 123354,
+        "word": "张馨予晒妈妈",
+        "onboard_time": 1717835778,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122504,
+        "num": 122504,
+        "word": "只有萨顶顶才会买的东西",
+        "onboard_time": 1717830437,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116453,
+        "num": 116453,
+        "word": "高铁车窗发现求救信息",
+        "onboard_time": 1717830379,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114723,
+        "num": 114723,
+        "word": "香缇莫 五个粽子",
+        "onboard_time": 1717830978,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109179,
+        "num": 109179,
+        "word": "27岁到30岁才是最难熬的",
+        "onboard_time": 1717817298,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106404,
+        "num": 106404,
+        "word": "精卫好牛",
+        "onboard_time": 1717821738,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系历史文化遗产保护传承#"
+    }
+  }
+}
