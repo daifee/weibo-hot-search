@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717852771938,
+  "endTime": 1717853650414,
   "band_list": [
     {
       "raw_hot": 7537134,
@@ -187,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 935146,
+      "num": 777572,
+      "word": "玫瑰的故事收视率",
+      "onboard_time": 1717849999,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 918209,
       "num": 362018,
       "word": "林更新考博面试",
@@ -241,14 +249,6 @@
       "onboard_time": 1717845917,
       "rank": 3,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 777572,
-      "num": 777572,
-      "word": "玫瑰的故事收视率",
-      "onboard_time": 1717849999,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 775697,
@@ -339,6 +339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 671265,
+      "num": 275021,
+      "word": "李惠利柳智敏用中文对话",
+      "onboard_time": 1717850718,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 657539,
       "num": 394167,
       "word": "玫瑰的故事",
@@ -411,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 602309,
-      "num": 212597,
-      "word": "李惠利柳智敏用中文对话",
-      "onboard_time": 1717850718,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 601809,
       "num": 284411,
       "word": "王一博要求黑粉公开道歉",
@@ -444,7 +444,7 @@
     },
     {
       "raw_hot": 582270,
-      "num": 236733,
+      "num": 242783,
       "word": "那英酒店被追拍躲避时摔倒",
       "onboard_time": 1717847357,
       "rank": 18,
@@ -691,6 +691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388102,
+      "num": 203212,
+      "word": "陈金飞 监制",
+      "onboard_time": 1717852099,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383759,
       "num": 383759,
       "word": "韦神 是不是你出的题",
@@ -836,7 +844,7 @@
     },
     {
       "raw_hot": 331929,
-      "num": 169109,
+      "num": 195480,
       "word": "唐嫣叫刘亦菲茜茜",
       "onboard_time": 1717847118,
       "rank": 26,
@@ -891,6 +899,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 297798,
+      "num": 297798,
+      "word": "日本乒乓球队奥运名单",
+      "onboard_time": 1717848377,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294232,
       "num": 294232,
       "word": "高考英语听力",
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281730,
+      "num": 199028,
+      "word": "张峻豪出道战路透",
+      "onboard_time": 1717852700,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280155,
       "num": 280155,
       "word": "林更新说杨幂是女神",
@@ -953,14 +977,6 @@
       "onboard_time": 1717814538,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 276522,
-      "num": 231381,
-      "word": "日本乒乓球队奥运名单",
-      "onboard_time": 1717848377,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 270200,
@@ -1009,6 +1025,14 @@
       "onboard_time": 1717830437,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254195,
+      "num": 196823,
+      "word": "玫瑰的故事好多美女",
+      "onboard_time": 1717853058,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 252035,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1717845437,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227257,
+      "num": 189081,
+      "word": "玫瑰的故事 癞蛤蟆",
+      "onboard_time": 1717853179,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 225243,
@@ -1251,14 +1283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210816,
-      "num": 143832,
-      "word": "陈金飞 监制",
-      "onboard_time": 1717852099,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210748,
       "num": 210748,
       "word": "汪峰奋不顾身 那英直接忘词",
@@ -1387,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196767,
+      "num": 196767,
+      "word": "石宇奇赛季胜率超9成",
+      "onboard_time": 1717853119,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196300,
       "num": 196300,
       "word": "墨雨云间",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1717830379,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187876,
+      "num": 187876,
+      "word": "时代少年团 三人行",
+      "onboard_time": 1717852818,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 187819,
@@ -1531,6 +1571,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178444,
+      "num": 260282,
+      "word": "高考后劲好大",
+      "onboard_time": 1717851738,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178336,
       "num": 168421,
       "word": "耳帝说孙楠像在唱一首练声曲",
@@ -1543,6 +1591,14 @@
       "num": 178274,
       "word": "央视网文娱评墨雨云间",
       "onboard_time": 1717774399,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176897,
+      "num": 176897,
+      "word": "蓝盈莹演技",
+      "onboard_time": 1717853058,
       "rank": 33,
       "category": "剧集"
     },
@@ -1915,14 +1971,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 145241,
-      "num": 145241,
-      "word": "高考后劲好大",
-      "onboard_time": 1717851738,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143766,
       "num": 143766,
       "word": "墨雨云间老墨我想吃雨了",
@@ -2033,6 +2081,14 @@
       "onboard_time": 1717820118,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 134781,
+      "num": 134781,
+      "word": "男生冲出考场嘶吼要拿回自由",
+      "onboard_time": 1717853298,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134189,
@@ -2323,6 +2379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 113782,
+      "num": 113782,
+      "word": "恋与深空",
+      "onboard_time": 1717853419,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113570,
       "num": 113570,
       "word": "K组老铁勇闯KPL",
@@ -2369,14 +2433,6 @@
       "onboard_time": 1717841898,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 111867,
-      "num": 111867,
-      "word": "张峻豪出道战路透",
-      "onboard_time": 1717852700,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 111685,
@@ -2459,6 +2515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105589,
+      "num": 105589,
+      "word": "王星越叫吴谨言姐姐",
+      "onboard_time": 1717853538,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105407,
       "num": 365581,
       "word": "2024高考落下帷幕",
@@ -2483,8 +2547,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102678,
-      "num": 102678,
+      "raw_hot": 103661,
+      "num": 103661,
       "word": "沙特裁判执法国足vs韩国",
       "onboard_time": 1717851799,
       "rank": 47,
@@ -2505,6 +2569,14 @@
       "onboard_time": 1717826178,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101968,
+      "num": 101968,
+      "word": "这种最舒服的睡姿会把身体睡垮",
+      "onboard_time": 1717853599,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101849,
@@ -2745,6 +2817,14 @@
       "onboard_time": 1717790170,
       "rank": 15,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 64742,
+      "num": 294041,
+      "word": "现实版长嫂如母",
+      "onboard_time": 1717852938,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64172,
@@ -3123,8 +3203,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 9427,
-      "num": 205738,
+      "raw_hot": 10588,
+      "num": 251189,
       "word": "跟杨迪早10晚8上天猫抢硬通货",
       "onboard_time": 1717851619,
       "rank": 14,
