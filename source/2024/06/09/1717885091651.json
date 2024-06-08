@@ -1,0 +1,410 @@
+{
+  "runTime": 1717885091651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 202603,
+        "num": 202603,
+        "word": "张同学全网都知道你可以谈恋爱了",
+        "onboard_time": 1717845437,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119468,
+        "num": 119468,
+        "word": "金价创2021年8月以来最大跌幅",
+        "onboard_time": 1717858459,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17079,
+        "num": 118042,
+        "word": "中国57项世界遗产全名单",
+        "onboard_time": 1717854438,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130700,
+        "num": 117956,
+        "word": "艺考老师为王星越发声",
+        "onboard_time": 1717860618,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117715,
+        "num": 117715,
+        "word": "村霸杀人后未服刑横行村里无人敢惹",
+        "onboard_time": 1717853779,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107388,
+        "num": 107388,
+        "word": "刘亦菲美得劈头盖脸的",
+        "onboard_time": 1717862479,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68329,
+        "num": 68329,
+        "word": "FPX小老虎不打了",
+        "onboard_time": 1717858459,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52952,
+        "num": 52952,
+        "word": "高考英语",
+        "onboard_time": 1717836078,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49010,
+        "num": 49010,
+        "word": "500块现在能买到什么手机",
+        "onboard_time": 1717870092,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2723,
+        "num": 47786,
+        "word": "70度高温戈壁武警战士找到20吨黄金",
+        "onboard_time": 1717856060,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79872,
+        "num": 46228,
+        "word": "那英酒店被追拍躲避时摔倒",
+        "onboard_time": 1717847357,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79813,
+        "num": 45171,
+        "word": "佟大为陈瑶演情侣",
+        "onboard_time": 1717862958,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50767,
+        "num": 43862,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43116,
+        "num": 43116,
+        "word": "玫瑰的故事收视率",
+        "onboard_time": 1717849999,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40325,
+        "num": 40325,
+        "word": "以军空袭加沙地带中部超80人死亡",
+        "onboard_time": 1717861217,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 38498,
+        "num": 38498,
+        "word": "苹果无SIM卡提醒官方解决方案",
+        "onboard_time": 1717868353,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36226,
+        "num": 36226,
+        "word": "玫瑰的故事",
+        "onboard_time": 1717846697,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34688,
+        "num": 34688,
+        "word": "海胆瘟疫或正蔓延全球海洋",
+        "onboard_time": 1717856899,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27105,
+        "num": 34355,
+        "word": "安静公主",
+        "onboard_time": 1717854559,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24124,
+        "num": 34101,
+        "word": "晋江",
+        "onboard_time": 1717856598,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 73488,
+        "num": 33282,
+        "word": "亲戚一年给两千让我当公司法人",
+        "onboard_time": 1717864935,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56353,
+        "num": 33069,
+        "word": "这种最舒服的睡姿会把身体睡垮",
+        "onboard_time": 1717853599,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43848,
+        "num": 32383,
+        "word": "经常有炎症的人易得癌是真的吗",
+        "onboard_time": 1717847478,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35747,
+        "num": 31997,
+        "word": "月经这3种怪颜色是就医信号",
+        "onboard_time": 1717858159,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31526,
+        "num": 31526,
+        "word": "用线勒死皮肤上的小肉粒不可取",
+        "onboard_time": 1717866375,
+        "rank": 24,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 31473,
+        "num": 31473,
+        "word": "董宇辉每天要吃好多片安眠药",
+        "onboard_time": 1717841778,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29036,
+        "num": 29036,
+        "word": "月红篇辞职是最好的医美",
+        "onboard_time": 1717860259,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28921,
+        "num": 28921,
+        "word": "减肥见效最快的运动就是跳绳",
+        "onboard_time": 1717856538,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 28062,
+        "num": 28921,
+        "word": "郭碧婷大理在逃南湘",
+        "onboard_time": 1717867814,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26276,
+        "num": 28920,
+        "word": "林更新考博面试",
+        "onboard_time": 1717844538,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25076,
+        "num": 28917,
+        "word": "玫瑰的故事好多美女",
+        "onboard_time": 1717853058,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25023,
+        "num": 28917,
+        "word": "台湾网友花式催更庆余年3",
+        "onboard_time": 1717857800,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24969,
+        "num": 28916,
+        "word": "谁敢相信这是五十多岁大叔的穿搭",
+        "onboard_time": 1717870691,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24737,
+        "num": 28915,
+        "word": "刘亦菲一出场我就恋爱了",
+        "onboard_time": 1717848737,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23761,
+        "num": 28914,
+        "word": "17岁的王星越",
+        "onboard_time": 1717883831,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23232,
+        "num": 28912,
+        "word": "歌手张颂文回归",
+        "onboard_time": 1717839859,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22026,
+        "num": 28910,
+        "word": "皇马一球迷对中国人唱辱华歌曲",
+        "onboard_time": 1717844957,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20749,
+        "num": 28909,
+        "word": "李惠利柳智敏用中文对话",
+        "onboard_time": 1717850718,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20566,
+        "num": 28908,
+        "word": "2024高考特写",
+        "onboard_time": 1717878371,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19119,
+        "num": 28907,
+        "word": "鞠婧祎初恋丸子头",
+        "onboard_time": 1717846458,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18619,
+        "num": 28906,
+        "word": "aespa放送0分",
+        "onboard_time": 1717845917,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17895,
+        "num": 28905,
+        "word": "张峻豪出道战路透",
+        "onboard_time": 1717852700,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17644,
+        "num": 28904,
+        "word": "节假日切忌暴饮暴食小心急性胰腺炎",
+        "onboard_time": 1717879571,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17512,
+        "num": 28902,
+        "word": "高考准考证别发朋友圈",
+        "onboard_time": 1717845558,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 15486,
+        "num": 28902,
+        "word": "小虞姬与cube聊天记录",
+        "onboard_time": 1717863917,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13298,
+        "num": 28900,
+        "word": "2024世界海洋日",
+        "onboard_time": 1717873992,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12891,
+        "num": 28899,
+        "word": "朱正廷清爽学长造型",
+        "onboard_time": 1717864696,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12546,
+        "num": 28898,
+        "word": "田曦薇晚上吃铁锅炖",
+        "onboard_time": 1717874172,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12330,
+        "num": 28897,
+        "word": "王星越壁纸",
+        "onboard_time": 1717863797,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11464,
+        "num": 28896,
+        "word": "UP战胜WBG",
+        "onboard_time": 1717855700,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

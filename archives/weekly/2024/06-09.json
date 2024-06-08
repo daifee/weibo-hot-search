@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717882496345,
+  "endTime": 1717885091651,
   "band_list": [
     {
       "raw_hot": 1143590,
@@ -491,15 +491,39 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23761,
+      "num": 28914,
+      "word": "17岁的王星越",
+      "onboard_time": 1717883831,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20566,
+      "num": 28908,
+      "word": "2024高考特写",
+      "onboard_time": 1717878371,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 17644,
+      "num": 28904,
+      "word": "节假日切忌暴饮暴食小心急性胰腺炎",
+      "onboard_time": 1717879571,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 17167,
-      "num": 27581,
+      "num": 28898,
       "word": "田曦薇晚上吃铁锅炖",
       "onboard_time": 1717874172,
       "rank": 45,
       "category": "艺人"
     },
     {
-      "raw_hot": 17004,
+      "raw_hot": 17079,
       "num": 181187,
       "word": "中国57项世界遗产全名单",
       "onboard_time": 1717854438,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 15115,
-      "num": 27641,
+      "num": 28900,
       "word": "2024世界海洋日",
       "onboard_time": 1717873992,
       "rank": 49,
@@ -553,22 +577,6 @@
       "onboard_time": 1717865953,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13657,
-      "num": 27696,
-      "word": "2024高考特写",
-      "onboard_time": 1717878371,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 13570,
-      "num": 27657,
-      "word": "节假日切忌暴饮暴食小心急性胰腺炎",
-      "onboard_time": 1717879571,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 12283,
