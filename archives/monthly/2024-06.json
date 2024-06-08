@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717846454366,
+  "endTime": 1717849959895,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1723,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 918209,
+      "num": 362018,
+      "word": "林更新考博面试",
+      "onboard_time": 1717844538,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 917902,
       "num": 917902,
       "word": "警方通报小米SU7事故",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1717491557,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 901732,
-      "num": 362018,
-      "word": "林更新考博面试",
-      "onboard_time": 1717844538,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 901446,
@@ -2051,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 809810,
+      "num": 713288,
+      "word": "aespa放送0分",
+      "onboard_time": 1717845917,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 807957,
       "num": 807957,
       "word": "夫妻辞教职在英国摆摊年挣180万",
@@ -2075,12 +2083,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805393,
+      "num": 234530,
+      "word": "经常有炎症的人易得癌是真的吗",
+      "onboard_time": 1717847478,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 803272,
       "num": 803272,
       "word": "樊振东 安踏",
       "onboard_time": 1717561760,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 802924,
+      "num": 802924,
+      "word": "刘亦菲一出场我就恋爱了",
+      "onboard_time": 1717848737,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 802742,
@@ -2249,6 +2273,14 @@
       "onboard_time": 1717427599,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 766921,
+      "num": 670790,
+      "word": "董宇辉每天要吃好多片安眠药",
+      "onboard_time": 1717841778,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 766919,
@@ -2627,6 +2659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 712570,
+      "num": 712570,
+      "word": "高考准考证别发朋友圈",
+      "onboard_time": 1717845558,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 709969,
       "num": 430411,
       "word": "高铁新增优选一等座",
@@ -2891,14 +2931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 670790,
-      "num": 670790,
-      "word": "董宇辉每天要吃好多片安眠药",
-      "onboard_time": 1717841778,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 669344,
       "num": 385769,
       "word": "那英第二",
@@ -3009,6 +3041,14 @@
       "onboard_time": 1717230977,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 657539,
+      "num": 394167,
+      "word": "玫瑰的故事",
+      "onboard_time": 1717578197,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 657349,
@@ -4755,6 +4795,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 474022,
+      "num": 238839,
+      "word": "男生大四退学艺考五年仍落榜",
+      "onboard_time": 1717846758,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473983,
       "num": 425455,
       "word": "孙丞潇上节目不满离席",
@@ -5515,14 +5563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 418386,
-      "num": 418386,
-      "word": "aespa放送0分",
-      "onboard_time": 1717845917,
-      "rank": 3,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 418061,
       "num": 418061,
       "word": "高考加油",
@@ -6179,6 +6219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376725,
+      "num": 236733,
+      "word": "那英酒店被追拍躲避时摔倒",
+      "onboard_time": 1717847357,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 376707,
+      "num": 234058,
+      "word": "刘亦菲收到吴彦姝送的改妆娃娃",
+      "onboard_time": 1717847297,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376635,
       "num": 376635,
       "word": "93岁默多克迎娶67岁俄裔科学家",
@@ -6833,6 +6889,14 @@
       "onboard_time": 1717418658,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 340940,
+      "num": 340940,
+      "word": "范丞丞 这才是真正的Hiphop",
+      "onboard_time": 1717845378,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 340115,
@@ -9059,6 +9123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247881,
+      "num": 232978,
+      "word": "鞠婧祎初恋丸子头",
+      "onboard_time": 1717846458,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247760,
       "num": 247760,
       "word": "我才不要和你做朋友呢",
@@ -9603,6 +9675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230655,
+      "num": 230655,
+      "word": "牢赞 885",
+      "onboard_time": 1717849578,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230610,
       "num": 253495,
       "word": "李沁像极了美人鱼",
@@ -9620,7 +9700,7 @@
     },
     {
       "raw_hot": 230443,
-      "num": 192455,
+      "num": 211803,
       "word": "张同学全网都知道你可以谈恋爱了",
       "onboard_time": 1717845437,
       "rank": 22,
@@ -10211,14 +10291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217438,
-      "num": 182851,
-      "word": "范丞丞 这才是真正的Hiphop",
-      "onboard_time": 1717845378,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217346,
       "num": 217346,
       "word": "朱婷首发登场",
@@ -10329,6 +10401,14 @@
       "onboard_time": 1717374018,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215525,
+      "num": 215525,
+      "word": "宋亚轩严浩翔贺峻霖跳晚安大小姐",
+      "onboard_time": 1717848678,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 215439,
@@ -10513,6 +10593,14 @@
       "onboard_time": 1717657099,
       "rank": 28,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 210495,
+      "num": 210495,
+      "word": "黄亦玫出场方式",
+      "onboard_time": 1717848018,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 210483,
@@ -11971,14 +12059,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 192873,
-      "num": 190417,
-      "word": "玫瑰的故事",
-      "onboard_time": 1717578197,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192826,
       "num": 192826,
       "word": "2024年高考作文汇总",
@@ -12739,14 +12819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181662,
-      "num": 181662,
-      "word": "高考准考证别发朋友圈",
-      "onboard_time": 1717845558,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 181456,
       "num": 181456,
       "word": "没有男生能拒绝一根笔直的木棍",
@@ -12979,6 +13051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178153,
+      "num": 178153,
+      "word": "蓝盈莹新剧妆造",
+      "onboard_time": 1717849578,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177949,
       "num": 177949,
       "word": "重庆狼队妖刀断开连接",
@@ -13137,6 +13217,14 @@
       "onboard_time": 1717217357,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176084,
+      "num": 231381,
+      "word": "日本乒乓球队奥运名单",
+      "onboard_time": 1717848377,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 176078,
@@ -14433,6 +14521,14 @@
       "onboard_time": 1717653799,
       "rank": 39,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 159762,
+      "num": 159762,
+      "word": "UP对战WBG",
+      "onboard_time": 1717848197,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 159760,
@@ -17299,6 +17395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127517,
+      "num": 127517,
+      "word": "德国人不想要孩子的原因找到了",
+      "onboard_time": 1717846458,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127440,
       "num": 127440,
       "word": "沈小婷新闻图",
@@ -18059,6 +18163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119940,
+      "num": 119940,
+      "word": "北京舞蹈学院教授的课",
+      "onboard_time": 1717849397,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119858,
       "num": 119858,
       "word": "石宇奇登顶世界第一",
@@ -18523,6 +18635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 115492,
+      "num": 115492,
+      "word": "赵丽颖新片虎狼之路是公路爽片",
+      "onboard_time": 1717848557,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115391,
       "num": 115391,
       "word": "灵儿九尾黑白天使大片",
@@ -18673,6 +18793,14 @@
       "onboard_time": 1717284915,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113266,
+      "num": 113266,
+      "word": "飞机上最受欢迎的一排乘客",
+      "onboard_time": 1717848498,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 113126,
@@ -19467,6 +19595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 103905,
+      "num": 103905,
+      "word": "犯规的眼神压不住的嘴唇",
+      "onboard_time": 1717848377,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103131,
       "num": 103131,
       "word": "53岁大叔用AI备考研究生成功",
@@ -20251,6 +20387,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 83298,
+      "num": 83298,
+      "word": "高考结束后的张桂梅老师",
+      "onboard_time": 1717847056,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 83060,
       "num": 108843,
       "word": "王艺迪战胜申裕斌",
@@ -20856,6 +21000,14 @@
       "word": "起底职称代评的生意链",
       "onboard_time": 1717567218,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69842,
+      "num": 136976,
+      "word": "李华不要认识那么多外国朋友",
+      "onboard_time": 1717848977,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -21875,6 +22027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48098,
+      "num": 129537,
+      "word": "体育老师带的班级平均成绩提高了7成",
+      "onboard_time": 1717849517,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 48095,
       "num": 48095,
       "word": "迪丽热巴 TopGirl",
@@ -22283,6 +22443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37148,
+      "num": 241261,
+      "word": "考生感谢陪他熬过低谷期的那个女生",
+      "onboard_time": 1717849218,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37116,
       "num": 195696,
       "word": "端午里的山东中医药文旅周",
@@ -22496,6 +22664,14 @@
       "word": "文化中国行感受生态智慧",
       "onboard_time": 1717644977,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31711,
+      "num": 239996,
+      "word": "考生称高考结束想看林俊杰演唱会",
+      "onboard_time": 1717849819,
+      "rank": 14,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717849959895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134289,
+        "num": 1134289,
+        "word": "高考英语",
+        "onboard_time": 1717836078,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 802924,
+        "num": 802924,
+        "word": "刘亦菲一出场我就恋爱了",
+        "onboard_time": 1717848737,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5286,
+        "num": 713473,
+        "word": "万千气象看北京",
+        "onboard_time": 1717769963,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809810,
+        "num": 713288,
+        "word": "aespa放送0分",
+        "onboard_time": 1717845917,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 712570,
+        "num": 712570,
+        "word": "高考准考证别发朋友圈",
+        "onboard_time": 1717845558,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 405636,
+        "num": 405636,
+        "word": "一牛蛙影响高考被抓",
+        "onboard_time": 1717837219,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657539,
+        "num": 394167,
+        "word": "玫瑰的故事",
+        "onboard_time": 1717846697,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340940,
+        "num": 340940,
+        "word": "范丞丞 这才是真正的Hiphop",
+        "onboard_time": 1717845378,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244841,
+        "num": 244841,
+        "word": "张若昀说高考分数对艺考很富余",
+        "onboard_time": 1717838658,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200843,
+        "num": 244387,
+        "word": "新一卷英语 难",
+        "onboard_time": 1717838658,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 918209,
+        "num": 243287,
+        "word": "林更新考博面试",
+        "onboard_time": 1717844538,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 766921,
+        "num": 242798,
+        "word": "董宇辉每天要吃好多片安眠药",
+        "onboard_time": 1717841778,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 579051,
+        "num": 241481,
+        "word": "高考考到一半突然来例假了",
+        "onboard_time": 1717828457,
+        "rank": 12,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 37148,
+        "num": 241261,
+        "word": "考生感谢陪他熬过低谷期的那个女生",
+        "onboard_time": 1717849218,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31711,
+        "num": 239996,
+        "word": "考生称高考结束想看林俊杰演唱会",
+        "onboard_time": 1717849819,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474022,
+        "num": 238839,
+        "word": "男生大四退学艺考五年仍落榜",
+        "onboard_time": 1717846758,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430505,
+        "num": 237970,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 381946,
+        "num": 237357,
+        "word": "歌手张颂文回归",
+        "onboard_time": 1717839859,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376725,
+        "num": 236733,
+        "word": "那英酒店被追拍躲避时摔倒",
+        "onboard_time": 1717847357,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278074,
+        "num": 235336,
+        "word": "今年高考最好笑的一个",
+        "onboard_time": 1717835058,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805393,
+        "num": 234530,
+        "word": "经常有炎症的人易得癌是真的吗",
+        "onboard_time": 1717847478,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 376707,
+        "num": 234058,
+        "word": "刘亦菲收到吴彦姝送的改妆娃娃",
+        "onboard_time": 1717847297,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247881,
+        "num": 232978,
+        "word": "鞠婧祎初恋丸子头",
+        "onboard_time": 1717846458,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232425,
+        "num": 232425,
+        "word": "赵露思 荨麻疹",
+        "onboard_time": 1717808356,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176084,
+        "num": 231381,
+        "word": "日本乒乓球队奥运名单",
+        "onboard_time": 1717848377,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230655,
+        "num": 230655,
+        "word": "牢赞 885",
+        "onboard_time": 1717849578,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228678,
+        "num": 228678,
+        "word": "墨雨云间簪花定情",
+        "onboard_time": 1717837038,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215525,
+        "num": 215525,
+        "word": "宋亚轩严浩翔贺峻霖跳晚安大小姐",
+        "onboard_time": 1717848678,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212390,
+        "num": 212390,
+        "word": "陷入我们的热恋 路透",
+        "onboard_time": 1717843938,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132754,
+        "num": 211912,
+        "word": "多地高考结束",
+        "onboard_time": 1717837938,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211803,
+        "num": 211803,
+        "word": "张同学全网都知道你可以谈恋爱了",
+        "onboard_time": 1717845437,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210495,
+        "num": 210495,
+        "word": "黄亦玫出场方式",
+        "onboard_time": 1717848018,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178153,
+        "num": 178153,
+        "word": "蓝盈莹新剧妆造",
+        "onboard_time": 1717849578,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164097,
+        "num": 164097,
+        "word": "女子花费518元雇体育生陪女儿爬泰山",
+        "onboard_time": 1717837096,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159762,
+        "num": 159762,
+        "word": "UP对战WBG",
+        "onboard_time": 1717848197,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142558,
+        "num": 142558,
+        "word": "陈赫发文告别两部综艺",
+        "onboard_time": 1717833498,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69842,
+        "num": 136976,
+        "word": "李华不要认识那么多外国朋友",
+        "onboard_time": 1717848977,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133695,
+        "num": 133695,
+        "word": "网传头戴日本必胜布条者被游客殴打",
+        "onboard_time": 1717833857,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48098,
+        "num": 129537,
+        "word": "体育老师带的班级平均成绩提高了7成",
+        "onboard_time": 1717849517,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127517,
+        "num": 127517,
+        "word": "德国人不想要孩子的原因找到了",
+        "onboard_time": 1717846458,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119940,
+        "num": 119940,
+        "word": "北京舞蹈学院教授的课",
+        "onboard_time": 1717849397,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115492,
+        "num": 115492,
+        "word": "赵丽颖新片虎狼之路是公路爽片",
+        "onboard_time": 1717848557,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113266,
+        "num": 113266,
+        "word": "飞机上最受欢迎的一排乘客",
+        "onboard_time": 1717848498,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111745,
+        "num": 111745,
+        "word": "墨雨云间加更",
+        "onboard_time": 1717820539,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103905,
+        "num": 103905,
+        "word": "犯规的眼神压不住的嘴唇",
+        "onboard_time": 1717848377,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98499,
+        "num": 98499,
+        "word": "高考日语",
+        "onboard_time": 1717836319,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 92279,
+        "num": 92279,
+        "word": "质疑丫头 理解丫头",
+        "onboard_time": 1717826297,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84264,
+        "num": 84264,
+        "word": "我才不要和你做朋友呢",
+        "onboard_time": 1717837457,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83298,
+        "num": 83298,
+        "word": "高考结束后的张桂梅老师",
+        "onboard_time": 1717847056,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 77767,
+        "num": 83039,
+        "word": "东京食尸鬼 DNA动了",
+        "onboard_time": 1717844238,
+        "rank": 49,
+        "category": "动漫,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

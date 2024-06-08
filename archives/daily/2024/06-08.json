@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717846454366,
+  "endTime": 1717849959895,
   "band_list": [
     {
       "raw_hot": 7537134,
@@ -171,20 +171,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 918209,
+      "num": 362018,
+      "word": "林更新考博面试",
+      "onboard_time": 1717844538,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 917902,
       "num": 917902,
       "word": "警方通报小米SU7事故",
       "onboard_time": 1717828277,
       "rank": 19,
       "category": "社会新闻,汽车"
-    },
-    {
-      "raw_hot": 901732,
-      "num": 362018,
-      "word": "林更新考博面试",
-      "onboard_time": 1717844538,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 894996,
@@ -219,12 +219,44 @@
       "category": "教育"
     },
     {
+      "raw_hot": 809810,
+      "num": 713288,
+      "word": "aespa放送0分",
+      "onboard_time": 1717845917,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 805393,
+      "num": 234530,
+      "word": "经常有炎症的人易得癌是真的吗",
+      "onboard_time": 1717847478,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 802924,
+      "num": 802924,
+      "word": "刘亦菲一出场我就恋爱了",
+      "onboard_time": 1717848737,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 775697,
       "num": 775697,
       "word": "高考日语",
       "onboard_time": 1717836319,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 766921,
+      "num": 670790,
+      "word": "董宇辉每天要吃好多片安眠药",
+      "onboard_time": 1717841778,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 749736,
@@ -259,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 712570,
+      "num": 712570,
+      "word": "高考准考证别发朋友圈",
+      "onboard_time": 1717845558,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 694041,
       "num": 694041,
       "word": "孙楠第一",
@@ -291,12 +331,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 670790,
-      "num": 670790,
-      "word": "董宇辉每天要吃好多片安眠药",
-      "onboard_time": 1717841778,
-      "rank": 22,
-      "category": "互联网"
+      "raw_hot": 657539,
+      "num": 394167,
+      "word": "玫瑰的故事",
+      "onboard_time": 1717846697,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 652017,
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474022,
+      "num": 238839,
+      "word": "男生大四退学艺考五年仍落榜",
+      "onboard_time": 1717846758,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471981,
       "num": 283395,
       "word": "玄彬孙艺珍出售婚房",
@@ -561,14 +609,6 @@
       "onboard_time": 1717771582,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 418386,
-      "num": 418386,
-      "word": "aespa放送0分",
-      "onboard_time": 1717845917,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 405290,
@@ -659,6 +699,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 376725,
+      "num": 236733,
+      "word": "那英酒店被追拍躲避时摔倒",
+      "onboard_time": 1717847357,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 376707,
+      "num": 234058,
+      "word": "刘亦菲收到吴彦姝送的改妆娃娃",
+      "onboard_time": 1717847297,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371338,
       "num": 371338,
       "word": "徐海乔超爱",
@@ -728,6 +784,14 @@
       "word": "汪苏泷 舒适圈",
       "onboard_time": 1717763180,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340940,
+      "num": 340940,
+      "word": "范丞丞 这才是真正的Hiphop",
+      "onboard_time": 1717845378,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -923,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247881,
+      "num": 232978,
+      "word": "鞠婧祎初恋丸子头",
+      "onboard_time": 1717846458,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247760,
       "num": 247760,
       "word": "我才不要和你做朋友呢",
@@ -1003,8 +1075,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 230655,
+      "num": 230655,
+      "word": "牢赞 885",
+      "onboard_time": 1717849578,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230443,
-      "num": 192455,
+      "num": 211803,
       "word": "张同学全网都知道你可以谈恋爱了",
       "onboard_time": 1717845437,
       "rank": 22,
@@ -1075,20 +1155,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217438,
-      "num": 182851,
-      "word": "范丞丞 这才是真正的Hiphop",
-      "onboard_time": 1717845378,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215833,
       "num": 215833,
       "word": "高考生持续耳鸣以为压力大结果是鼻咽癌",
       "onboard_time": 1717813636,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215525,
+      "num": 215525,
+      "word": "宋亚轩严浩翔贺峻霖跳晚安大小姐",
+      "onboard_time": 1717848678,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 215439,
@@ -1145,6 +1225,14 @@
       "onboard_time": 1717768103,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210495,
+      "num": 210495,
+      "word": "黄亦玫出场方式",
+      "onboard_time": 1717848018,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 208024,
@@ -1371,14 +1459,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 181662,
-      "num": 181662,
-      "word": "高考准考证别发朋友圈",
-      "onboard_time": 1717845558,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 179091,
       "num": 179091,
       "word": "一斤黄金有多大",
@@ -1401,6 +1481,22 @@
       "onboard_time": 1717774399,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178153,
+      "num": 178153,
+      "word": "蓝盈莹新剧妆造",
+      "onboard_time": 1717849578,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176084,
+      "num": 231381,
+      "word": "日本乒乓球队奥运名单",
+      "onboard_time": 1717848377,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 176078,
@@ -1553,6 +1649,14 @@
       "onboard_time": 1717841358,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159762,
+      "num": 159762,
+      "word": "UP对战WBG",
+      "onboard_time": 1717848197,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 158936,
@@ -1923,6 +2027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127517,
+      "num": 127517,
+      "word": "德国人不想要孩子的原因找到了",
+      "onboard_time": 1717846458,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127201,
       "num": 127201,
       "word": "袁娅维是歌手后采特邀嘉宾吧",
@@ -2043,6 +2155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119940,
+      "num": 119940,
+      "word": "北京舞蹈学院教授的课",
+      "onboard_time": 1717849397,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118947,
       "num": 118947,
       "word": "孙楠清唱开场",
@@ -2091,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115492,
+      "num": 115492,
+      "word": "赵丽颖新片虎狼之路是公路爽片",
+      "onboard_time": 1717848557,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115064,
       "num": 115064,
       "word": "张远徐良近大远小",
@@ -2105,6 +2233,14 @@
       "onboard_time": 1717830797,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113266,
+      "num": 113266,
+      "word": "飞机上最受欢迎的一排乘客",
+      "onboard_time": 1717848498,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 113126,
@@ -2227,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103905,
+      "num": 103905,
+      "word": "犯规的眼神压不住的嘴唇",
+      "onboard_time": 1717848377,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102667,
       "num": 102667,
       "word": "文艺志愿者与人民同行",
@@ -2337,6 +2481,14 @@
       "onboard_time": 1717769363,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 83298,
+      "num": 83298,
+      "word": "高考结束后的张桂梅老师",
+      "onboard_time": 1717847056,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 82186,
@@ -2457,6 +2609,14 @@
       "onboard_time": 1717763059,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69842,
+      "num": 136976,
+      "word": "李华不要认识那么多外国朋友",
+      "onboard_time": 1717848977,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69363,
@@ -2659,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48098,
+      "num": 129537,
+      "word": "体育老师带的班级平均成绩提高了7成",
+      "onboard_time": 1717849517,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 48057,
       "num": 167497,
       "word": "皇马一球迷对中国人唱辱华歌曲",
@@ -2697,6 +2865,14 @@
       "onboard_time": 1717819819,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 37148,
+      "num": 241261,
+      "word": "考生感谢陪他熬过低谷期的那个女生",
+      "onboard_time": 1717849218,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36654,
@@ -2744,6 +2920,14 @@
       "word": "萌兰端午喜提降噪神器",
       "onboard_time": 1717844836,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31711,
+      "num": 239996,
+      "word": "考生称高考结束想看林俊杰演唱会",
+      "onboard_time": 1717849819,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
