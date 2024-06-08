@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/08 16:21:31
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/08 16:34:12
 </p>
 </blockquote>
 <p>
@@ -477,6 +477,12 @@ fine乐团能不能留下（热度：2043691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%88%B0%E4%B8%80%E5%8D%8A%E7%AA%81%E7%84%B6%E6%9D%A5%E4%BE%8B%E5%81%87%E4%BA%86%23" target="weibo">
+高考考到一半突然来例假了（热度：1506996）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E5%A3%B0%E9%9F%B3%E6%9C%89%E7%82%B9%E9%97%B7%23" target="weibo">
 张钰琪声音有点闷（热度：1499480）
 </a>
@@ -497,12 +503,6 @@ fine乐团能不能留下（热度：2043691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E5%8D%B7%E6%96%87%E7%BB%BC%20%E9%80%90%E6%A2%A6%E5%A4%A7%E4%B8%93%23" target="weibo">
 甲卷文综 逐梦大专（热度：1491452）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%88%B0%E4%B8%80%E5%8D%8A%E7%AA%81%E7%84%B6%E6%9D%A5%E4%BE%8B%E5%81%87%E4%BA%86%23" target="weibo">
-高考考到一半突然来例假了（热度：1490932）
 </a>
 </li>
 
@@ -2463,6 +2463,12 @@ TypeC嘴（热度：614816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E5%87%BA%E8%80%83%E5%9C%BA%E5%96%8A%E5%91%A8%E6%B7%B1%E5%8A%A0%E5%9C%BA%23" target="weibo">
+周深回应考生出考场喊周深加场（热度：606279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E6%BB%91%E9%9B%AA%E5%90%8D%E5%B0%86%E5%92%8C%E5%A5%B3%E5%8F%8B%E5%9D%A0%E5%B4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
 意大利滑雪名将和女友坠崖身亡（热度：605887）
 </a>
@@ -2489,12 +2495,6 @@ TypeC嘴（热度：614816）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%A4%E5%90%8D%E9%A9%B4%E5%8F%8B%E6%84%8F%E5%A4%96%E8%90%BD%E6%B0%B4%E6%BA%BA%E4%BA%A1%23" target="weibo">
 官方通报两名驴友意外落水溺亡（热度：603811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E5%87%BA%E8%80%83%E5%9C%BA%E5%96%8A%E5%91%A8%E6%B7%B1%E5%8A%A0%E5%9C%BA%23" target="weibo">
-周深回应考生出考场喊周深加场（热度：603803）
 </a>
 </li>
 
@@ -3441,6 +3441,12 @@ Prada选对人了（热度：485100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E4%B8%A4%E9%83%A8%E7%BB%BC%E8%89%BA%23" target="weibo">
+陈赫发文告别两部综艺（热度：479871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E5%89%A7%E6%96%B9%E7%BB%99%E4%B8%89%E4%BD%8D%E5%A5%B3%E4%B8%BB%E9%83%BD%E6%8A%A5%E5%90%8D%E4%BA%86%23" target="weibo">
 繁花剧方给三位女主都报名了（热度：479151）
 </a>
@@ -3945,12 +3951,6 @@ TFBOYS六一物料（热度：437302）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E4%B8%A4%E9%83%A8%E7%BB%BC%E8%89%BA%23" target="weibo">
-陈赫发文告别两部综艺（热度：427121）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%A0%95%E8%A0%95%20%E5%90%AC%E8%AF%B4%E6%88%91%E4%B8%8A%E6%AD%8C%E6%89%8B%E4%BA%86%23" target="weibo">
 李蠕蠕 听说我上歌手了（热度：426917）
 </a>
@@ -4293,6 +4293,12 @@ Uzi直播红温（热度：420592）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E5%AE%8C%E7%90%86%E7%BB%BC%E5%87%86%E5%A4%87%E6%89%BE%E5%A5%B3%E5%8F%8B%E4%BA%86%23" target="weibo">
+男生考完理综准备找女友了（热度：398496）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23" target="weibo">
 重庆防空警报（热度：398139）
 </a>
@@ -4589,6 +4595,12 @@ TF三代杭州录制出道战（热度：376582）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%80%A5%E7%9C%BC%E4%BA%86%23" target="weibo">
 魏大勋急眼了（热度：372670）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%B4%E6%88%B4%E6%97%A5%E6%9C%AC%E5%BF%85%E8%83%9C%E5%B8%83%E6%9D%A1%E8%80%85%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%AE%B4%E6%89%93%23" target="weibo">
+网传头戴日本必胜布条者被游客殴打（热度：372438）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ C罗赛后痛哭（热度：284408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23mbti%E6%96%B0%E9%A2%98%23" target="weibo">
 mbti新题（热度：278175）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%BE%9D%E4%BE%9D%E6%95%96%E5%AD%90%E9%80%B8%E4%B8%80%E4%B8%AA%E9%94%99%E4%BA%86%E4%B8%80%E4%B8%AA%E8%AE%A4%E4%BA%86%23" target="weibo">
-蒋依依敖子逸一个错了一个认了（热度：278015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%B7%E5%81%B7%E8%87%AA%E5%B7%B1%E6%94%92%E9%92%B1%E4%B9%B0%E6%88%BF%E5%90%8E%E8%A2%AB%E7%88%B6%E6%AF%8D%E9%98%B4%E9%98%B3%23" target="weibo">
-女子偷偷自己攒钱买房后被父母阴阳（热度：277618）
 </a>
 </li>
 

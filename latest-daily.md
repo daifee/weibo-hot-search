@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 16:21:31
+本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 16:34:12
 </p>
 </blockquote>
 <p>
@@ -39,14 +39,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E5%8D%B7%E6%96%87%E7%BB%BC%20%E9%80%90%E6%A2%A6%E5%A4%A7%E4%B8%93%23" target="weibo">
-甲卷文综 逐梦大专（热度：1491452）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%88%B0%E4%B8%80%E5%8D%8A%E7%AA%81%E7%84%B6%E6%9D%A5%E4%BE%8B%E5%81%87%E4%BA%86%23" target="weibo">
+高考考到一半突然来例假了（热度：1506996）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%88%B0%E4%B8%80%E5%8D%8A%E7%AA%81%E7%84%B6%E6%9D%A5%E4%BE%8B%E5%81%87%E4%BA%86%23" target="weibo">
-高考考到一半突然来例假了（热度：1490932）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E5%8D%B7%E6%96%87%E7%BB%BC%20%E9%80%90%E6%A2%A6%E5%A4%A7%E4%B8%93%23" target="weibo">
+甲卷文综 逐梦大专（热度：1491452）
 </a>
 </li>
 
@@ -219,14 +219,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%20%E6%88%91%E7%88%B1%E7%9A%84%E5%A5%B3%E5%AD%A9%E7%BB%88%E4%BA%8E%E9%95%BF%E6%88%90%E7%8E%AB%E7%91%B0%23" target="weibo">
-伊能静 我爱的女孩终于长成玫瑰（热度：605432）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E5%87%BA%E8%80%83%E5%9C%BA%E5%96%8A%E5%91%A8%E6%B7%B1%E5%8A%A0%E5%9C%BA%23" target="weibo">
+周深回应考生出考场喊周深加场（热度：606279）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E5%87%BA%E8%80%83%E5%9C%BA%E5%96%8A%E5%91%A8%E6%B7%B1%E5%8A%A0%E5%9C%BA%23" target="weibo">
-周深回应考生出考场喊周深加场（热度：603803）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%20%E6%88%91%E7%88%B1%E7%9A%84%E5%A5%B3%E5%AD%A9%E7%BB%88%E4%BA%8E%E9%95%BF%E6%88%90%E7%8E%AB%E7%91%B0%23" target="weibo">
+伊能静 我爱的女孩终于长成玫瑰（热度：605432）
 </a>
 </li>
 
@@ -321,6 +321,12 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E4%B8%A4%E9%83%A8%E7%BB%BC%E8%89%BA%23" target="weibo">
+陈赫发文告别两部综艺（热度：479871）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%84%E5%BD%AC%E5%AD%99%E8%89%BA%E7%8F%8D%E5%87%BA%E5%94%AE%E5%A9%9A%E6%88%BF%23" target="weibo">
 玄彬孙艺珍出售婚房（热度：471981）
 </a>
@@ -351,12 +357,6 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E4%B8%A4%E9%83%A8%E7%BB%BC%E8%89%BA%23" target="weibo">
-陈赫发文告别两部综艺（热度：427121）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B7%9D%E8%80%81%E9%BC%A0%23" target="weibo">
 冰川老鼠（热度：405290）
 </a>
@@ -371,6 +371,12 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%A5%BDS%23" target="weibo">
 魏大勋好S（热度：399064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E5%AE%8C%E7%90%86%E7%BB%BC%E5%87%86%E5%A4%87%E6%89%BE%E5%A5%B3%E5%8F%8B%E4%BA%86%23" target="weibo">
+男生考完理综准备找女友了（热度：398496）
 </a>
 </li>
 
@@ -401,6 +407,12 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%A8%E5%85%A8%E9%BA%BB%E5%90%8E%E8%AF%B4%E4%BA%86%E4%BC%A4%E4%BA%BA%E7%9A%84%E8%AF%9D%23" target="weibo">
 朋友在全麻后说了伤人的话（热度：377445）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%B4%E6%88%B4%E6%97%A5%E6%9C%AC%E5%BF%85%E8%83%9C%E5%B8%83%E6%9D%A1%E8%80%85%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%AE%B4%E6%89%93%23" target="weibo">
+网传头戴日本必胜布条者被游客殴打（热度：372438）
 </a>
 </li>
 
@@ -531,14 +543,14 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
-歌手直播（热度：269970）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E6%9C%80%E5%A5%BD%E7%AC%91%E7%9A%84%E4%B8%80%E4%B8%AA%23" target="weibo">
+今年高考最好笑的一个（热度：270426）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E5%AE%8C%E7%90%86%E7%BB%BC%E5%87%86%E5%A4%87%E6%89%BE%E5%A5%B3%E5%8F%8B%E4%BA%86%23" target="weibo">
-男生考完理综准备找女友了（热度：269549）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
+歌手直播（热度：269970）
 </a>
 </li>
 
@@ -563,12 +575,6 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E8%90%A8%E9%A1%B6%E9%A1%B6%E6%89%8D%E4%BC%9A%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
 只有萨顶顶才会买的东西（热度：257608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%B4%E6%88%B4%E6%97%A5%E6%9C%AC%E5%BF%85%E8%83%9C%E5%B8%83%E6%9D%A1%E8%80%85%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%AE%B4%E6%89%93%23" target="weibo">
-网传头戴日本必胜布条者被游客殴打（热度：252062）
 </a>
 </li>
 
@@ -605,6 +611,12 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A518%E6%96%A4%E6%A6%B4%E8%8E%B2%E5%A4%8D%E7%A7%A4%E4%BB%858%E6%96%A4%23" target="weibo">
 官方通报18斤榴莲复秤仅8斤（热度：242354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%AE%8C%E7%90%86%E7%BB%BC%E9%A3%98%E4%BA%86%E9%83%BD%E9%A3%98%E4%BA%86%23" target="weibo">
+考完理综飘了都飘了（热度：239557）
 </a>
 </li>
 
@@ -647,12 +659,6 @@ TFBOYS十周年蛋糕塌的三四层（热度：224771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%8E%86%E5%8F%B2%20%E9%9A%BE%23" target="weibo">
 广东历史 难（热度：224658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E5%AE%8C%E7%90%86%E7%BB%BC%E9%A3%98%E4%BA%86%E9%83%BD%E9%A3%98%E4%BA%86%23" target="weibo">
-考完理综飘了都飘了（热度：222851）
 </a>
 </li>
 
@@ -701,6 +707,12 @@ Gala 幽梦（热度：219107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%89%A9%E7%90%86%20%E7%AE%80%E5%8D%95%23" target="weibo">
 安徽物理 简单（热度：213224）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%BB%93%E5%A9%9A%E7%9A%84%E5%B9%B3%E6%9B%BF%E6%98%AF%E4%B8%8A%E7%8F%AD%23" target="weibo">
+原来结婚的平替是上班（热度：212574）
 </a>
 </li>
 
@@ -801,12 +813,6 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%BB%93%E5%A9%9A%E7%9A%84%E5%B9%B3%E6%9B%BF%E6%98%AF%E4%B8%8A%E7%8F%AD%23" target="weibo">
-原来结婚的平替是上班（热度：191171）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%A6%AE%E5%8F%AF%E5%8F%AF%E7%88%B1%23" target="weibo">
 郑妮可可爱（热度：190757）
 </a>
@@ -833,6 +839,12 @@ Gala 幽梦（热度：219107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E6%88%91%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%BF%A4%E9%80%86%E4%BD%A0%23" target="weibo">
 薛芳菲我不允许任何人忤逆你（热度：187614）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E7%A5%9D%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%BF%E5%A6%82%E7%A0%B4%E7%AB%B9%23" target="weibo">
+福宝祝高考生势如破竹（热度：187383）
 </a>
 </li>
 
@@ -1179,20 +1191,26 @@ B太点赞五谷磨房用心（热度：125292）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E7%A5%9D%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%BF%E5%A6%82%E7%A0%B4%E7%AB%B9%23" target="weibo">
-福宝祝高考生势如破竹（热度：124598）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A3%E8%85%94%E5%87%BA%E7%8E%B03%E7%A7%8D%E5%BC%82%E6%A0%B7%E8%AD%A6%E6%83%95%E5%8F%A3%E8%85%94%E7%99%8C%23" target="weibo">
 口腔出现3种异样警惕口腔癌（热度：123076）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E9%A5%AD%E6%92%92%23" target="weibo">
+徐明浩饭撒（热度：122344）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%AF%E8%83%BD%E5%AD%98%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%8F%8D%E5%AE%87%E5%AE%99%23" target="weibo">
 科学家称可能存在一个反宇宙（热度：122294）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%88%96%E5%B0%86%E5%85%A8%E4%B8%BB%E5%8A%9B%E5%87%BA%E6%88%98%E5%9B%BD%E8%B6%B3%23" target="weibo">
+韩国或将全主力出战国足（热度：121838）
 </a>
 </li>
 
@@ -1401,6 +1419,12 @@ K组老铁勇闯KPL（热度：113570）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%9A%84%E8%8A%B1%E9%92%B1%E6%96%B9%E5%BC%8F%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
+上海的花钱方式已经进化成这样了（热度：81106）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%AC%A1%E6%97%A5%E5%86%8D%E6%8E%A5%E5%86%8D%E5%8E%89%23" target="weibo">
 高考次日再接再厉（热度：78661）
 </a>
@@ -1480,7 +1504,13 @@ Langx爆料Cube已离队（热度：71400）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2332%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%92%8C00%E5%90%8E%E5%81%9A%E5%90%8C%E5%AD%A6%23" target="weibo">
-32岁女子上大学和00后做同学（热度：60655）
+32岁女子上大学和00后做同学（热度：62062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E8%AE%B8%E6%84%BF%E6%83%B3%E8%A6%81%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23" target="weibo">
+高考生许愿想要薛之谦演唱会门票（热度：61051）
 </a>
 </li>
 
@@ -1565,12 +1595,6 @@ LNG回应GALA幽梦（热度：57243）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%9C%89%E6%81%8B%E6%AF%8D%E6%83%85%E7%BB%93%23" target="weibo">
 为什么有人会有恋母情结（热度：50136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%9A%84%E8%8A%B1%E9%92%B1%E6%96%B9%E5%BC%8F%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
-上海的花钱方式已经进化成这样了（热度：50110）
 </a>
 </li>
 

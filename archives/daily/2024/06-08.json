@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717834891911,
+  "endTime": 1717835652343,
   "band_list": [
     {
       "raw_hot": 2347646,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1506996,
+      "num": 1506996,
+      "word": "高考考到一半突然来例假了",
+      "onboard_time": 1717828457,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1491452,
       "num": 880394,
       "word": "甲卷文综 逐梦大专",
       "onboard_time": 1717821319,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1490932,
-      "num": 1490932,
-      "word": "高考考到一半突然来例假了",
-      "onboard_time": 1717828457,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 1455282,
@@ -275,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 606279,
+      "num": 606279,
+      "word": "周深回应考生出考场喊周深加场",
+      "onboard_time": 1717830858,
+      "rank": 23,
+      "category": "演出,教育"
+    },
+    {
       "raw_hot": 605432,
       "num": 453126,
       "word": "伊能静 我爱的女孩终于长成玫瑰",
       "onboard_time": 1717827078,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 603803,
-      "num": 428144,
-      "word": "周深回应考生出考场喊周深加场",
-      "onboard_time": 1717830858,
-      "rank": 23,
-      "category": "演出,教育"
     },
     {
       "raw_hot": 601809,
@@ -411,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479871,
+      "num": 248386,
+      "word": "陈赫发文告别两部综艺",
+      "onboard_time": 1717833498,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471981,
       "num": 283395,
       "word": "玄彬孙艺珍出售婚房",
@@ -451,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 427121,
-      "num": 236562,
-      "word": "陈赫发文告别两部综艺",
-      "onboard_time": 1717833498,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 405290,
       "num": 405290,
       "word": "冰川老鼠",
@@ -481,6 +481,14 @@
       "onboard_time": 1717769664,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398496,
+      "num": 333898,
+      "word": "男生考完理综准备找女友了",
+      "onboard_time": 1717833498,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398017,
@@ -521,6 +529,14 @@
       "onboard_time": 1717811596,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 372438,
+      "num": 372438,
+      "word": "网传头戴日本必胜布条者被游客殴打",
+      "onboard_time": 1717833857,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371338,
@@ -691,20 +707,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 270426,
+      "num": 270426,
+      "word": "今年高考最好笑的一个",
+      "onboard_time": 1717835058,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269970,
       "num": 269970,
       "word": "歌手直播",
       "onboard_time": 1717761497,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 269549,
-      "num": 269549,
-      "word": "男生考完理综准备找女友了",
-      "onboard_time": 1717833498,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267394,
@@ -737,14 +753,6 @@
       "onboard_time": 1717830437,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252062,
-      "num": 252062,
-      "word": "网传头戴日本必胜布条者被游客殴打",
-      "onboard_time": 1717833857,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252035,
@@ -793,6 +801,14 @@
       "onboard_time": 1717829058,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239557,
+      "num": 239557,
+      "word": "考完理综飘了都飘了",
+      "onboard_time": 1717834398,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 239268,
@@ -848,14 +864,6 @@
       "word": "广东历史 难",
       "onboard_time": 1717816456,
       "rank": 28,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 222851,
-      "num": 167275,
-      "word": "考完理综飘了都飘了",
-      "onboard_time": 1717834398,
-      "rank": 30,
       "category": "教育"
     },
     {
@@ -921,6 +929,14 @@
       "onboard_time": 1717816098,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 212574,
+      "num": 212574,
+      "word": "原来结婚的平替是上班",
+      "onboard_time": 1717832117,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 212098,
@@ -1051,14 +1067,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 191171,
-      "num": 191171,
-      "word": "原来结婚的平替是上班",
-      "onboard_time": 1717832117,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190757,
       "num": 173195,
       "word": "郑妮可可爱",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1717785132,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187383,
+      "num": 330980,
+      "word": "福宝祝高考生势如破竹",
+      "onboard_time": 1717833618,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 186955,
@@ -1555,14 +1571,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124598,
-      "num": 167526,
-      "word": "福宝祝高考生势如破竹",
-      "onboard_time": 1717833618,
-      "rank": 29,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 123076,
       "num": 136051,
       "word": "口腔出现3种异样警惕口腔癌",
@@ -1571,12 +1579,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 122344,
+      "num": 122344,
+      "word": "徐明浩饭撒",
+      "onboard_time": 1717834937,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122294,
       "num": 136029,
       "word": "科学家称可能存在一个反宇宙",
       "onboard_time": 1717772840,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 121838,
+      "num": 121838,
+      "word": "韩国或将全主力出战国足",
+      "onboard_time": 1717835358,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 121301,
@@ -1851,6 +1875,14 @@
       "category": "社会新闻,互联网"
     },
     {
+      "raw_hot": 81106,
+      "num": 326090,
+      "word": "上海的花钱方式已经进化成这样了",
+      "onboard_time": 1717833618,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 78661,
       "num": 703097,
       "word": "高考次日再接再厉",
@@ -1955,11 +1987,19 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 60655,
+      "raw_hot": 62062,
       "num": 314739,
       "word": "32岁女子上大学和00后做同学",
       "onboard_time": 1717832839,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61051,
+      "num": 328443,
+      "word": "高考生许愿想要薛之谦演唱会门票",
+      "onboard_time": 1717835477,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -2073,14 +2113,6 @@
       "onboard_time": 1717767984,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50110,
-      "num": 265145,
-      "word": "上海的花钱方式已经进化成这样了",
-      "onboard_time": 1717833618,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 49705,
