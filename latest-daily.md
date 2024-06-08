@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 23:19:41
+本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 23:34:27
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%E7%88%B7%E7%88%B7%E4%BB%8D%E6%98%8F%E8%BF%B7%23" target="weibo">
 少年目睹爷爷被打后投河身亡爷爷仍昏迷（热度：1441447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%94%B7%E7%94%9F%E5%B8%8C%E6%9C%9B%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23" target="weibo">
+第一个走出考场男生希望取消调休（热度：1393003）
 </a>
 </li>
 
@@ -143,12 +149,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%9C%89%E7%82%8E%E7%97%87%E7%9A%84%E4%BA%BA%E6%98%93%E5%BE%97%E7%99%8C%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23" target="weibo">
 经常有炎症的人易得癌是真的吗（热度：1061505）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%94%B7%E7%94%9F%E5%B8%8C%E6%9C%9B%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23" target="weibo">
-第一个走出考场男生希望取消调休（热度：1018224）
 </a>
 </li>
 
@@ -742,7 +742,7 @@ Nobody好看（热度：564914）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E8%BF%993%E7%A7%8D%E6%80%AA%E9%A2%9C%E8%89%B2%E6%98%AF%E5%B0%B1%E5%8C%BB%E4%BF%A1%E5%8F%B7%23" target="weibo">
-月经这3种怪颜色是就医信号（热度：298028）
+月经这3种怪颜色是就医信号（热度：302104）
 </a>
 </li>
 
@@ -843,6 +843,12 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%90%8C%E5%AD%A6%E5%85%A8%E7%BD%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86%23" target="weibo">
+张同学全网都知道你可以谈恋爱了（热度：255887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%A6%81%E6%AD%A2%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%90%91%E5%9D%90%E6%BB%A9%E5%86%9B%E8%88%B0%E8%BF%90%E9%80%81%E5%BB%BA%E7%AD%91%E6%9D%90%E6%96%99%23" target="weibo">
 中方禁止菲律宾向坐滩军舰运送建筑材料（热度：252035）
 </a>
@@ -921,8 +927,8 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%90%8C%E5%AD%A6%E5%85%A8%E7%BD%91%E9%83%BD%E7%9F%A5%E9%81%93%E4%BD%A0%E5%8F%AF%E4%BB%A5%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86%23" target="weibo">
-张同学全网都知道你可以谈恋爱了（热度：230443）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2021%E5%B9%B48%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85%23" target="weibo">
+金价创2021年8月以来最大跌幅（热度：233270）
 </a>
 </li>
 
@@ -1275,12 +1281,6 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B2021%E5%B9%B48%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%B7%8C%E5%B9%85%23" target="weibo">
-金价创2021年8月以来最大跌幅（热度：181582）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E6%96%B0%E5%89%A7%E5%A6%86%E9%80%A0%23" target="weibo">
 蓝盈莹新剧妆造（热度：180345）
 </a>
@@ -1533,6 +1533,12 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E7%AB%99%E5%86%85%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B425000%23" target="weibo">
+玫瑰的故事站内热度值破25000（热度：152589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%87%E9%A9%AC%E4%B8%80%E7%90%83%E8%BF%B7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%94%B1%E8%BE%B1%E5%8D%8E%E6%AD%8C%E6%9B%B2%23" target="weibo">
 皇马一球迷对中国人唱辱华歌曲（热度：151947）
 </a>
@@ -1601,6 +1607,18 @@ Gala 幽梦（热度：219107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%87%BA%E7%8E%B0%E8%BF%996%E4%B8%AA%E4%BF%A1%E5%8F%B7%E5%BF%85%E9%A1%BB%E9%A9%AC%E4%B8%8A%E4%BC%91%E6%81%AF%23" target="weibo">
 身体出现这6个信号必须马上休息（热度：147329）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BA%A2%E7%AF%87%E8%BE%9E%E8%81%8C%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E%23" target="weibo">
+月红篇辞职是最好的医美（热度：146259）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E8%90%A7%E8%A1%A1%E4%BA%B2%E4%B8%80%E4%B8%AA%E7%9C%8B%E7%9C%8B%E5%AE%9E%E5%8A%9B%23" target="weibo">
+薛芳菲萧衡亲一个看看实力（热度：145330）
 </a>
 </li>
 
@@ -1679,6 +1697,12 @@ Gala 幽梦（热度：219107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BB%99%E5%A7%90%E5%A7%90%E4%B8%8D%E6%98%AF%E7%99%BD%E5%8F%AB%E7%9A%84%23" target="weibo">
 神仙姐姐不是白叫的（热度：139775）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E8%90%A7%E8%98%85%E9%9B%A8%E5%A4%9C%E8%B4%B4%E8%B4%B4%23" target="weibo">
+薛芳菲萧蘅雨夜贴贴（热度：138443）
 </a>
 </li>
 
@@ -1923,12 +1947,6 @@ B太点赞五谷磨房用心（热度：125292）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E8%8A%B3%E8%8F%B2%E8%90%A7%E8%98%85%E9%9B%A8%E5%A4%9C%E8%B4%B4%E8%B4%B4%23" target="weibo">
-薛芳菲萧蘅雨夜贴贴（热度：116100）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B0%E7%89%87%E8%99%8E%E7%8B%BC%E4%B9%8B%E8%B7%AF%E6%98%AF%E5%85%AC%E8%B7%AF%E7%88%BD%E7%89%87%23" target="weibo">
 赵丽颖新片虎狼之路是公路爽片（热度：115492）
 </a>
@@ -2073,6 +2091,12 @@ K组老铁勇闯KPL（热度：113570）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E8%80%83%E8%80%81%E5%B8%88%E4%B8%BA%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8F%91%E5%A3%B0%23" target="weibo">
+艺考老师为王星越发声（热度：104899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%20%E5%90%84%E4%BD%8D%E8%80%81%E5%B8%88%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%E8%BE%9B%E8%8B%A6%E4%BA%86%23" target="weibo">
 黄宣 各位老师表情管理辛苦了（热度：104084）
 </a>
@@ -2135,6 +2159,12 @@ K组老铁勇闯KPL（热度：113570）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%94%B1%E4%BA%86%E9%87%91%E8%89%B2%E7%9A%84%E5%B1%8B%E6%AA%90%23" target="weibo">
 张杰唱了金色的屋檐（热度：95888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%9E%E4%BA%8E%E6%B5%B7%E6%B4%8B%E7%9A%84%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA%23" target="weibo">
+属于海洋的璀璨星空（热度：95813）
 </a>
 </li>
 

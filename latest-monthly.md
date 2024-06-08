@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/08 23:19:41
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/08 23:34:27
 </p>
 </blockquote>
 <p>
@@ -615,6 +615,12 @@ fine乐团能不能留下（热度：2043691）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%94%B7%E7%94%9F%E5%B8%8C%E6%9C%9B%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23" target="weibo">
+第一个走出考场男生希望取消调休（热度：1393003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
 玫瑰的故事收视率（热度：1381118）
 </a>
@@ -1157,12 +1163,6 @@ fine乐团能不能留下（热度：2043691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%A6%B4%E8%8E%B2%E4%B9%9F%E4%BD%8F%E4%B8%8A%E5%8D%95%E9%97%B4%E4%BA%86%23" target="weibo">
 没想到榴莲也住上单间了（热度：1021664）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%94%B7%E7%94%9F%E5%B8%8C%E6%9C%9B%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23" target="weibo">
-第一个走出考场男生希望取消调休（热度：1018224）
 </a>
 </li>
 
@@ -5829,6 +5829,12 @@ EVA动画制作公司宣布破产（热度：308848）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E8%BF%993%E7%A7%8D%E6%80%AA%E9%A2%9C%E8%89%B2%E6%98%AF%E5%B0%B1%E5%8C%BB%E4%BF%A1%E5%8F%B7%23" target="weibo">
+月经这3种怪颜色是就医信号（热度：302104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E7%BD%91%E4%B8%89%23" target="weibo">
 剑网三（热度：301903）
 </a>
@@ -5879,12 +5885,6 @@ EVA动画制作公司宣布破产（热度：308848）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23GAI%E8%BE%93%E7%BB%99%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8E%E6%AF%8F%E5%A4%A9%E8%8B%A6%E7%BB%83%E7%AF%AE%E7%90%83%23" target="weibo">
 GAI输给王鹤棣后每天苦练篮球（热度：298379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E8%BF%993%E7%A7%8D%E6%80%AA%E9%A2%9C%E8%89%B2%E6%98%AF%E5%B0%B1%E5%8C%BB%E4%BF%A1%E5%8F%B7%23" target="weibo">
-月经这3种怪颜色是就医信号（热度：298028）
 </a>
 </li>
 

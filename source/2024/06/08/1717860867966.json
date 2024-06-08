@@ -1,0 +1,410 @@
+{
+  "runTime": 1717860867966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1393003,
+        "num": 1393003,
+        "word": "第一个走出考场男生希望取消调休",
+        "onboard_time": 1717856300,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1040207,
+        "num": 1040207,
+        "word": "玫瑰的故事收视率",
+        "onboard_time": 1717849999,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75115,
+        "num": 784621,
+        "word": "那些一眼惊艳的国潮非遗",
+        "onboard_time": 1717854738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726864,
+        "num": 726864,
+        "word": "晋江",
+        "onboard_time": 1717856598,
+        "rank": 3,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 593684,
+        "num": 593684,
+        "word": "FPX小老虎不打了",
+        "onboard_time": 1717858459,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 589056,
+        "num": 589056,
+        "word": "村霸杀人后未服刑横行村里无人敢惹",
+        "onboard_time": 1717853779,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564281,
+        "num": 564281,
+        "word": "刘亦菲一出场我就恋爱了",
+        "onboard_time": 1717848737,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497711,
+        "num": 497711,
+        "word": "高考英语",
+        "onboard_time": 1717836078,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 341983,
+        "num": 478874,
+        "word": "玫瑰的故事好多美女",
+        "onboard_time": 1717853058,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49149,
+        "num": 477525,
+        "word": "狗狗我呀和大家一起毕业了",
+        "onboard_time": 1717858819,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 847735,
+        "num": 477521,
+        "word": "安静公主",
+        "onboard_time": 1717854559,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 476827,
+        "num": 476827,
+        "word": "高考考到一半突然来例假了",
+        "onboard_time": 1717828457,
+        "rank": 11,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 390289,
+        "num": 390289,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272024,
+        "num": 272024,
+        "word": "李惠利柳智敏用中文对话",
+        "onboard_time": 1717850718,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255887,
+        "num": 255887,
+        "word": "张同学全网都知道你可以谈恋爱了",
+        "onboard_time": 1717845437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234028,
+        "num": 234028,
+        "word": "高考准考证别发朋友圈",
+        "onboard_time": 1717845558,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 233602,
+        "num": 233602,
+        "word": "董宇辉每天要吃好多片安眠药",
+        "onboard_time": 1717841778,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 315968,
+        "num": 233458,
+        "word": "刘亦菲梦女",
+        "onboard_time": 1717853779,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233270,
+        "num": 233270,
+        "word": "金价创2021年8月以来最大跌幅",
+        "onboard_time": 1717858459,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 229581,
+        "num": 229581,
+        "word": "那英酒店被追拍躲避时摔倒",
+        "onboard_time": 1717847357,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738164,
+        "num": 229161,
+        "word": "经常有炎症的人易得癌是真的吗",
+        "onboard_time": 1717847478,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 394191,
+        "num": 228685,
+        "word": "这种最舒服的睡姿会把身体睡垮",
+        "onboard_time": 1717853599,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302104,
+        "num": 228652,
+        "word": "月经这3种怪颜色是就医信号",
+        "onboard_time": 1717858159,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228093,
+        "num": 228093,
+        "word": "玫瑰的故事",
+        "onboard_time": 1717846697,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215802,
+        "num": 215802,
+        "word": "台湾网友花式催更庆余年3",
+        "onboard_time": 1717857800,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200554,
+        "num": 200554,
+        "word": "减肥见效最快的运动就是跳绳",
+        "onboard_time": 1717856538,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 175902,
+        "num": 175902,
+        "word": "aespa放送0分",
+        "onboard_time": 1717845917,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161785,
+        "num": 161785,
+        "word": "林更新考博面试",
+        "onboard_time": 1717844538,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146259,
+        "num": 146259,
+        "word": "月红篇辞职是最好的医美",
+        "onboard_time": 1717860259,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145330,
+        "num": 145330,
+        "word": "薛芳菲萧衡亲一个看看实力",
+        "onboard_time": 1717860378,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138443,
+        "num": 138443,
+        "word": "薛芳菲萧蘅雨夜贴贴",
+        "onboard_time": 1717859719,
+        "rank": 30,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 137353,
+        "num": 137353,
+        "word": "秦霄贤你的圆圆姐来了",
+        "onboard_time": 1717858879,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134365,
+        "num": 134365,
+        "word": "迪丽热巴新歌首唱舞台",
+        "onboard_time": 1717859719,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112086,
+        "num": 132879,
+        "word": "皇马一球迷对中国人唱辱华歌曲",
+        "onboard_time": 1717844957,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152589,
+        "num": 132791,
+        "word": "玫瑰的故事站内热度值破25000",
+        "onboard_time": 1717858999,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132613,
+        "num": 132613,
+        "word": "张峻豪出道战路透",
+        "onboard_time": 1717852700,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125683,
+        "num": 125683,
+        "word": "墨雨云间有自己的搞笑一家人",
+        "onboard_time": 1717854379,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107925,
+        "num": 107925,
+        "word": "UP战胜WBG",
+        "onboard_time": 1717855700,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101966,
+        "num": 101966,
+        "word": "张若昀说高考分数对艺考很富余",
+        "onboard_time": 1717838658,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101607,
+        "num": 101607,
+        "word": "70度高温戈壁武警战士找到20吨黄金",
+        "onboard_time": 1717856060,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112724,
+        "num": 101232,
+        "word": "朱一龙说人生大事带给他很多荣誉",
+        "onboard_time": 1717856598,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109256,
+        "num": 100903,
+        "word": "王星越叫吴谨言姐姐",
+        "onboard_time": 1717853538,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108279,
+        "num": 100849,
+        "word": "鞠婧祎初恋丸子头",
+        "onboard_time": 1717846458,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100531,
+        "num": 100531,
+        "word": "大理偶遇郭碧婷",
+        "onboard_time": 1717856359,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95813,
+        "num": 95813,
+        "word": "属于海洋的璀璨星空",
+        "onboard_time": 1717860079,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 91827,
+        "num": 91827,
+        "word": "日本乒乓球队奥运名单",
+        "onboard_time": 1717848377,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104899,
+        "num": 91682,
+        "word": "艺考老师为王星越发声",
+        "onboard_time": 1717860618,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91353,
+        "num": 91353,
+        "word": "张杰唱了金色的屋檐",
+        "onboard_time": 1717858220,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90409,
+        "num": 90409,
+        "word": "斯瓦泰克大满贯第五冠",
+        "onboard_time": 1717858819,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87567,
+        "num": 87567,
+        "word": "高考后劲好大",
+        "onboard_time": 1717851738,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
