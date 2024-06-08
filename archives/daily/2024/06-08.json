@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717845371064,
+  "endTime": 1717846454366,
   "band_list": [
     {
       "raw_hot": 7537134,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1100113,
+      "num": 524269,
+      "word": "一牛蛙影响高考被抓",
+      "onboard_time": 1717837219,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1095338,
       "num": 1095338,
       "word": "前儿媳实名举报公公有巨额不明财产",
@@ -171,19 +179,19 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 901732,
+      "num": 362018,
+      "word": "林更新考博面试",
+      "onboard_time": 1717844538,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 894996,
       "num": 894996,
       "word": "张若昀说高考分数对艺考很富余",
       "onboard_time": 1717838658,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 868922,
-      "num": 524269,
-      "word": "一牛蛙影响高考被抓",
-      "onboard_time": 1717837219,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -483,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 491827,
-      "num": 289848,
-      "word": "林更新考博面试",
-      "onboard_time": 1717844538,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 486651,
       "num": 486651,
       "word": "甲卷理综已老实",
@@ -563,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418386,
+      "num": 418386,
+      "word": "aespa放送0分",
+      "onboard_time": 1717845917,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 405290,
       "num": 405290,
       "word": "冰川老鼠",
@@ -633,6 +641,14 @@
       "onboard_time": 1717836976,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 379643,
+      "num": 379643,
+      "word": "陷入我们的热恋 路透",
+      "onboard_time": 1717843938,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 377445,
@@ -739,14 +755,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 328343,
-      "num": 328343,
-      "word": "陷入我们的热恋 路透",
-      "onboard_time": 1717843938,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 314628,
       "num": 314628,
       "word": "考生睡过头民警排查酒店逐房找人",
@@ -795,6 +803,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 294232,
+      "num": 294232,
+      "word": "高考英语听力",
+      "onboard_time": 1717844417,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 289238,
       "num": 198574,
       "word": "莫言曾劝女儿高考前看电视",
@@ -841,6 +857,14 @@
       "onboard_time": 1717814538,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 270200,
+      "num": 270200,
+      "word": "墨雨云间簪花定情",
+      "onboard_time": 1717837038,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 269970,
@@ -905,14 +929,6 @@
       "onboard_time": 1717837457,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247085,
-      "num": 247085,
-      "word": "高考英语听力",
-      "onboard_time": 1717844417,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 246430,
@@ -987,12 +1003,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 232877,
-      "num": 232877,
-      "word": "墨雨云间簪花定情",
-      "onboard_time": 1717837038,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 230443,
+      "num": 192455,
+      "word": "张同学全网都知道你可以谈恋爱了",
+      "onboard_time": 1717845437,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225243,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1717771343,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217438,
+      "num": 182851,
+      "word": "范丞丞 这才是真正的Hiphop",
+      "onboard_time": 1717845378,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 215833,
@@ -1347,6 +1371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181662,
+      "num": 181662,
+      "word": "高考准考证别发朋友圈",
+      "onboard_time": 1717845558,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179091,
       "num": 179091,
       "word": "一斤黄金有多大",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1717816696,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 174993,
+      "num": 174993,
+      "word": "葱葱大眼仔上门送祝福",
+      "onboard_time": 1717845917,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 174784,
@@ -2019,6 +2059,22 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 118843,
+      "num": 118843,
+      "word": "剑网3无界预下载",
+      "onboard_time": 1717845917,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 117611,
+      "num": 117611,
+      "word": "孔雪儿跳了aespa的歌",
+      "onboard_time": 1717846337,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 117426,
       "num": 117426,
       "word": "黑神话成Steam榜一大哥",
@@ -2089,6 +2145,14 @@
       "onboard_time": 1717842319,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 111294,
+      "num": 111294,
+      "word": "考完新一卷悬着的心死了",
+      "onboard_time": 1717845797,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 108708,
@@ -2355,6 +2419,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 74586,
+      "num": 293940,
+      "word": "高考收官家长们一路繁花相迎",
+      "onboard_time": 1717845317,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73130,
       "num": 107965,
       "word": "为什么年轻人假期爱往山里跑",
@@ -2432,6 +2504,14 @@
       "word": "高考第2日",
       "onboard_time": 1717801994,
       "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 60365,
+      "num": 367755,
+      "word": "高考外语听力开考南京城全力以护",
+      "onboard_time": 1717845977,
+      "rank": 9,
       "category": "教育"
     },
     {
@@ -2603,6 +2683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39126,
+      "num": 326972,
+      "word": "妈妈拉横幅说高考完可以谈恋爱了",
+      "onboard_time": 1717846277,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39109,
       "num": 579612,
       "word": "给2024高考生最好的加油",
@@ -2665,14 +2753,6 @@
       "onboard_time": 1717774758,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 25318,
-      "num": 293940,
-      "word": "高考收官家长们一路繁花相迎",
-      "onboard_time": 1717845317,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20910,
