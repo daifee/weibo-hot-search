@@ -1,10 +1,10 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717814018322,
+  "endTime": 1717814639675,
   "band_list": [
     {
-      "raw_hot": 1621498,
-      "num": 1621498,
+      "raw_hot": 1733396,
+      "num": 1733396,
       "word": "昨夜金价大跌",
       "onboard_time": 1717811537,
       "rank": 0,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1583915,
-      "num": 758168,
+      "num": 905385,
       "word": "赵露思 荨麻疹",
       "onboard_time": 1717808356,
       "rank": 3,
@@ -25,6 +25,14 @@
       "onboard_time": 1717770383,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133646,
+      "num": 1133646,
+      "word": "高考物理",
+      "onboard_time": 1717814118,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1095338,
@@ -75,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 726860,
+      "num": 219058,
+      "word": "读研两年谈了四个对象",
+      "onboard_time": 1717812677,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 694041,
       "num": 694041,
       "word": "孙楠第一",
@@ -107,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 614415,
+      "num": 614415,
+      "word": "高考历史",
+      "onboard_time": 1717814118,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 601809,
       "num": 284411,
       "word": "王一博要求黑粉公开道歉",
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 560081,
-      "num": 171108,
+      "num": 218943,
       "word": "原来香港请假是不需要理由的",
       "onboard_time": 1717810397,
       "rank": 36,
@@ -147,20 +171,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 508505,
-      "num": 508505,
+      "raw_hot": 522711,
+      "num": 522711,
+      "word": "高考物理难吗",
+      "onboard_time": 1717814118,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 518212,
+      "num": 518212,
       "word": "韩雪玩梗",
       "onboard_time": 1717809977,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 508122,
-      "num": 169858,
-      "word": "读研两年谈了四个对象",
-      "onboard_time": 1717812677,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 471981,
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 377445,
-      "num": 168918,
+      "num": 218827,
       "word": "朋友在全麻后说了伤人的话",
       "onboard_time": 1717811596,
       "rank": 22,
@@ -307,8 +331,24 @@
       "category": "教育"
     },
     {
+      "raw_hot": 325169,
+      "num": 218762,
+      "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
+      "onboard_time": 1717813756,
+      "rank": 34,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 321408,
+      "num": 218570,
+      "word": "马上大三妈妈突然告诉我她怀孕了",
+      "onboard_time": 1717813937,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304214,
-      "num": 423284,
+      "num": 519356,
       "word": "端午遇高考一定会考好",
       "onboard_time": 1717802715,
       "rank": 9,
@@ -371,8 +411,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 228754,
-      "num": 228754,
+      "raw_hot": 237906,
+      "num": 237906,
       "word": "张若昀 勇敢的人先享受世界",
       "onboard_time": 1717809797,
       "rank": 38,
@@ -387,12 +427,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 219788,
+      "num": 219788,
+      "word": "大家好我是韩雪",
+      "onboard_time": 1717812859,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219107,
       "num": 282121,
       "word": "Gala 幽梦",
       "onboard_time": 1717771343,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215833,
+      "num": 215833,
+      "word": "高考生持续耳鸣以为压力大结果是鼻咽癌",
+      "onboard_time": 1717813636,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212098,
@@ -417,6 +473,14 @@
       "onboard_time": 1717805656,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198815,
+      "num": 198815,
+      "word": "奶奶将毕生厨艺用在了孙子高考这天",
+      "onboard_time": 1717812737,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195723,
@@ -451,19 +515,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186955,
+      "num": 186955,
+      "word": "吴谨言声音",
+      "onboard_time": 1717813458,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184535,
       "num": 184535,
       "word": "那英第二",
       "onboard_time": 1717771221,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 183607,
-      "num": 183607,
-      "word": "大家好我是韩雪",
-      "onboard_time": 1717812859,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -476,7 +540,7 @@
     },
     {
       "raw_hot": 178336,
-      "num": 167443,
+      "num": 168421,
       "word": "耳帝说孙楠像在唱一首练声曲",
       "onboard_time": 1717809018,
       "rank": 38,
@@ -499,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171234,
-      "num": 171234,
-      "word": "奶奶将毕生厨艺用在了孙子高考这天",
-      "onboard_time": 1717812737,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169786,
       "num": 281108,
       "word": "巨蟹座擅长识趣的离开",
@@ -521,14 +577,6 @@
       "onboard_time": 1717813277,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165981,
-      "num": 165980,
-      "word": "吴谨言声音",
-      "onboard_time": 1717813458,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 164370,
@@ -555,14 +603,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159750,
-      "num": 159750,
-      "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
-      "onboard_time": 1717813756,
-      "rank": 34,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 158125,
       "num": 158125,
       "word": "高考",
@@ -587,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156150,
-      "num": 156150,
-      "word": "马上大三妈妈突然告诉我她怀孕了",
-      "onboard_time": 1717813937,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 156119,
       "num": 156119,
       "word": "这些地方高考查分时间已公布",
@@ -611,14 +643,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 151817,
-      "num": 151817,
-      "word": "高考生持续耳鸣以为压力大结果是鼻咽癌",
-      "onboard_time": 1717813636,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151413,
       "num": 151413,
       "word": "原来动画片真的没有骗我",
@@ -633,6 +657,14 @@
       "onboard_time": 1717813157,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147329,
+      "num": 147329,
+      "word": "身体出现这6个信号必须马上休息",
+      "onboard_time": 1717814298,
+      "rank": 38,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 143766,
@@ -723,12 +755,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117426,
+      "num": 117426,
+      "word": "黑神话成Steam榜一大哥",
+      "onboard_time": 1717813338,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116904,
       "num": 116904,
       "word": "黄宣汪苏泷主持",
       "onboard_time": 1717762819,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113126,
+      "num": 113126,
+      "word": "张桂梅带学生唱红歌奔赴考场",
+      "onboard_time": 1717814538,
+      "rank": 47,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 110944,
+      "num": 110944,
+      "word": "金价",
+      "onboard_time": 1717814538,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 108246,
@@ -748,7 +804,7 @@
     },
     {
       "raw_hot": 107398,
-      "num": 388808,
+      "num": 518471,
       "word": "高考考场外的默契瞬间",
       "onboard_time": 1717812677,
       "rank": 9,
@@ -1044,7 +1100,7 @@
     },
     {
       "raw_hot": 34250,
-      "num": 760844,
+      "num": 946427,
       "word": "万千气象看北京",
       "onboard_time": 1717769963,
       "rank": 2,
