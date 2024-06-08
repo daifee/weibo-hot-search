@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717832072460,
+  "endTime": 1717834891911,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -585,6 +585,14 @@
       "onboard_time": 1717821319,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1490932,
+      "num": 1490932,
+      "word": "高考考到一半突然来例假了",
+      "onboard_time": 1717828457,
+      "rank": 35,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 1476785,
@@ -1644,7 +1652,7 @@
     },
     {
       "raw_hot": 849705,
-      "num": 394993,
+      "num": 757069,
       "word": "刘亦菲回复徐海乔",
       "onboard_time": 1717828338,
       "rank": 15,
@@ -1777,14 +1785,6 @@
       "onboard_time": 1717633639,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 800560,
-      "num": 262819,
-      "word": "高考考到一半突然来例假了",
-      "onboard_time": 1717828457,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 798906,
@@ -2939,6 +2939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603803,
+      "num": 428144,
+      "word": "周深回应考生出考场喊周深加场",
+      "onboard_time": 1717830858,
+      "rank": 23,
+      "category": "演出,教育"
+    },
+    {
       "raw_hot": 603770,
       "num": 185598,
       "word": "为什么ChatGPT不火了",
@@ -3651,6 +3659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 521980,
+      "num": 521980,
+      "word": "中国台湾网红称在澳洲遭种族歧视被围殴",
+      "onboard_time": 1717829358,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521859,
       "num": 521859,
       "word": "吴谨言演过老炮儿",
@@ -4203,14 +4219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 464918,
-      "num": 334421,
-      "word": "中国台湾网红称在澳洲遭种族歧视被围殴",
-      "onboard_time": 1717829358,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463887,
       "num": 463887,
       "word": "大熊猫jiojio有多臭啊要洗这么久",
@@ -4673,6 +4681,14 @@
       "onboard_time": 1717233377,
       "rank": 7,
       "category": "情感"
+    },
+    {
+      "raw_hot": 427121,
+      "num": 236562,
+      "word": "陈赫发文告别两部综艺",
+      "onboard_time": 1717833498,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 426917,
@@ -5289,14 +5305,6 @@
       "onboard_time": 1717732884,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 382384,
-      "num": 311118,
-      "word": "周深回应考生出考场喊周深加场",
-      "onboard_time": 1717830858,
-      "rank": 23,
-      "category": "演出,教育"
     },
     {
       "raw_hot": 381814,
@@ -7219,6 +7227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269549,
+      "num": 269549,
+      "word": "男生考完理综准备找女友了",
+      "onboard_time": 1717833498,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269497,
       "num": 269497,
       "word": "高考作文 申论",
@@ -7699,6 +7715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 252062,
+      "num": 252062,
+      "word": "网传头戴日本必胜布条者被游客殴打",
+      "onboard_time": 1717833857,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252035,
       "num": 252035,
       "word": "中方禁止菲律宾向坐滩军舰运送建筑材料",
@@ -7807,6 +7831,14 @@
       "num": 247226,
       "word": "黄奕每段感情都轰轰烈烈的",
       "onboard_time": 1717641257,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246430,
+      "num": 246430,
+      "word": "东北甜妹 台湾光头",
+      "onboard_time": 1717829779,
       "rank": 24,
       "category": "综艺"
     },
@@ -8049,14 +8081,6 @@
       "onboard_time": 1717401379,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237878,
-      "num": 237878,
-      "word": "东北甜妹 台湾光头",
-      "onboard_time": 1717829779,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 237737,
@@ -8507,6 +8531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225243,
+      "num": 225243,
+      "word": "iPhone显示无可用SIM卡",
+      "onboard_time": 1717830019,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 225039,
       "num": 225039,
       "word": "赴山海阵容官宣",
@@ -8583,6 +8615,14 @@
       "num": 205961,
       "word": "专家点评高考语文试题",
       "onboard_time": 1717756158,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 222851,
+      "num": 167275,
+      "word": "考完理综飘了都飘了",
+      "onboard_time": 1717834398,
       "rank": 30,
       "category": "教育"
     },
@@ -9161,14 +9201,6 @@
       "onboard_time": 1717395558,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 209360,
-      "num": 209360,
-      "word": "iPhone显示无可用SIM卡",
-      "onboard_time": 1717830019,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 209335,
@@ -10395,6 +10427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191171,
+      "num": 191171,
+      "word": "原来结婚的平替是上班",
+      "onboard_time": 1717832117,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191154,
       "num": 172266,
       "word": "两个猫猫吵架人类帮忙劝架",
@@ -11385,6 +11425,14 @@
       "onboard_time": 1717569978,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174430,
+      "num": 174430,
+      "word": "甲卷文综 逐梦人生",
+      "onboard_time": 1717821319,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 174411,
@@ -15059,6 +15107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124598,
+      "num": 167526,
+      "word": "福宝祝高考生势如破竹",
+      "onboard_time": 1717833618,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 124459,
       "num": 124459,
       "word": "台州石人峡户外事故都犯了哪些错",
@@ -15817,6 +15873,14 @@
       "onboard_time": 1717421900,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115064,
+      "num": 115064,
+      "word": "张远徐良近大远小",
+      "onboard_time": 1717834279,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 114923,
@@ -16592,6 +16656,14 @@
       "word": "爸爸带儿子幼儿园炸裂表演猴棍",
       "onboard_time": 1717323258,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102667,
+      "num": 102667,
+      "word": "文艺志愿者与人民同行",
+      "onboard_time": 1717834218,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -17500,7 +17572,7 @@
     },
     {
       "raw_hot": 75855,
-      "num": 308025,
+      "num": 663548,
       "word": "这张海报很中国",
       "onboard_time": 1717808475,
       "rank": 9,
@@ -18075,6 +18147,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 60655,
+      "num": 314739,
+      "word": "32岁女子上大学和00后做同学",
+      "onboard_time": 1717832839,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60421,
       "num": 106880,
       "word": "高考第2日",
@@ -18473,6 +18553,14 @@
       "onboard_time": 1717531930,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 50110,
+      "num": 265145,
+      "word": "上海的花钱方式已经进化成这样了",
+      "onboard_time": 1717833618,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 49801,

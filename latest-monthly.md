@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/08 15:34:32
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/08 16:21:31
 </p>
 </blockquote>
 <p>
@@ -497,6 +497,12 @@ fine乐团能不能留下（热度：2043691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B2%E5%8D%B7%E6%96%87%E7%BB%BC%20%E9%80%90%E6%A2%A6%E5%A4%A7%E4%B8%93%23" target="weibo">
 甲卷文综 逐梦大专（热度：1491452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%88%B0%E4%B8%80%E5%8D%8A%E7%AA%81%E7%84%B6%E6%9D%A5%E4%BE%8B%E5%81%87%E4%BA%86%23" target="weibo">
+高考考到一半突然来例假了（热度：1490932）
 </a>
 </li>
 
@@ -1539,12 +1545,6 @@ Angelababy原相机营业自拍（热度：832113）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%88%B0%E4%B8%80%E5%8D%8A%E7%AA%81%E7%84%B6%E6%9D%A5%E4%BE%8B%E5%81%87%E4%BA%86%23" target="weibo">
-高考考到一半突然来例假了（热度：800560）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%8F%B2%E7%89%B9%23" target="weibo">
 巴菲特（热度：798906）
 </a>
@@ -2493,6 +2493,12 @@ TypeC嘴（热度：614816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E5%87%BA%E8%80%83%E5%9C%BA%E5%96%8A%E5%91%A8%E6%B7%B1%E5%8A%A0%E5%9C%BA%23" target="weibo">
+周深回应考生出考场喊周深加场（热度：603803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88ChatGPT%E4%B8%8D%E7%81%AB%E4%BA%86%23" target="weibo">
 为什么ChatGPT不火了（热度：603770）
 </a>
@@ -3081,6 +3087,12 @@ Citywalk后年轻人又爱上了Wildeat（热度：541510）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E7%A7%B0%E5%9C%A8%E6%BE%B3%E6%B4%B2%E9%81%AD%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86%E8%A2%AB%E5%9B%B4%E6%AE%B4%23" target="weibo">
+中国台湾网红称在澳洲遭种族歧视被围殴（热度：521980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E6%BC%94%E8%BF%87%E8%80%81%E7%82%AE%E5%84%BF%23" target="weibo">
 吴谨言演过老炮儿（热度：521859）
 </a>
@@ -3555,12 +3567,6 @@ EXO和成员朋友见面必须通过允许（热度：465676）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E7%A7%B0%E5%9C%A8%E6%BE%B3%E6%B4%B2%E9%81%AD%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86%E8%A2%AB%E5%9B%B4%E6%AE%B4%23" target="weibo">
-中国台湾网红称在澳洲遭种族歧视被围殴（热度：464918）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%92%E4%BA%9A%E8%95%BE%20%E5%BA%86%E4%BD%99%E5%B9%B4%23" target="weibo">
 归亚蕾 庆余年（热度：463896）
 </a>
@@ -3935,6 +3941,12 @@ TFBOYS六一物料（热度：437302）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E8%B6%8514000%E5%90%8D%E5%84%BF%E7%AB%A5%E5%B7%B2%E4%B8%A7%E7%94%9F%23" target="weibo">
 加沙超14000名儿童已丧生（热度：428719）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E4%B8%A4%E9%83%A8%E7%BB%BC%E8%89%BA%23" target="weibo">
+陈赫发文告别两部综艺（热度：427121）
 </a>
 </li>
 
@@ -4469,12 +4481,6 @@ Uzi直播红温（热度：420592）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A5%E6%88%91%E5%AE%B6%E9%99%84%E8%BF%91%E6%88%91%E5%8D%B4%E5%9C%A8%E7%9D%A1%E8%A7%89%23" target="weibo">
 刘亦菲来我家附近我却在睡觉（热度：383189）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%9B%9E%E5%BA%94%E8%80%83%E7%94%9F%E5%87%BA%E8%80%83%E5%9C%BA%E5%96%8A%E5%91%A8%E6%B7%B1%E5%8A%A0%E5%9C%BA%23" target="weibo">
-周深回应考生出考场喊周深加场（热度：382384）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ mbti新题（热度：278175）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%B7%E5%81%B7%E8%87%AA%E5%B7%B1%E6%94%92%E9%92%B1%E4%B9%B0%E6%88%BF%E5%90%8E%E8%A2%AB%E7%88%B6%E6%AF%8D%E9%98%B4%E9%98%B3%23" target="weibo">
 女子偷偷自己攒钱买房后被父母阴阳（热度：277618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC%E7%94%B2%E5%8D%B7%23" target="weibo">
-高考理综甲卷（热度：277546）
 </a>
 </li>
 
