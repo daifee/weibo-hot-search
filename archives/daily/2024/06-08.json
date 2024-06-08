@@ -1,10 +1,10 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717809564970,
+  "endTime": 1717810818233,
   "band_list": [
     {
-      "raw_hot": 1490918,
-      "num": 387821,
+      "raw_hot": 1583915,
+      "num": 592109,
       "word": "赵露思 荨麻疹",
       "onboard_time": 1717808356,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 700285,
+      "num": 700285,
+      "word": "那英 请你们对我不要太苛刻",
+      "onboard_time": 1717807817,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 694041,
       "num": 694041,
       "word": "孙楠第一",
@@ -76,11 +84,19 @@
     },
     {
       "raw_hot": 621509,
-      "num": 223895,
+      "num": 234136,
       "word": "因为没去参加高考被爸爸骂了",
       "onboard_time": 1717804575,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 603764,
+      "num": 295056,
+      "word": "原湖北仙桃市委副书记坠亡",
+      "onboard_time": 1717809257,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601809,
@@ -99,8 +115,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557872,
+      "num": 557872,
+      "word": "小米SU7事故重伤者将转院治疗",
+      "onboard_time": 1717808718,
+      "rank": 17,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 528307,
-      "num": 221123,
+      "num": 233769,
       "word": "月薪六千的闺蜜一个月能存三千",
       "onboard_time": 1717804395,
       "rank": 21,
@@ -115,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469532,
-      "num": 339869,
-      "word": "那英 请你们对我不要太苛刻",
-      "onboard_time": 1717807817,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 452474,
+      "num": 293857,
+      "word": "人家秋雅结婚你在这又唱又跳的",
+      "onboard_time": 1717807755,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 451302,
@@ -153,6 +177,14 @@
       "onboard_time": 1717772420,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393289,
+      "num": 336618,
+      "word": "王一博巴黎街边吃冰淇淋",
+      "onboard_time": 1717809618,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 383759,
@@ -227,6 +259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 306556,
+      "num": 293526,
+      "word": "韩雪玩梗",
+      "onboard_time": 1717809977,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304214,
       "num": 304214,
       "word": "端午遇高考一定会考好",
@@ -259,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284104,
+      "num": 284104,
+      "word": "拜登首次向泽连斯基道歉",
+      "onboard_time": 1717809557,
+      "rank": 15,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 269970,
       "num": 269970,
       "word": "歌手直播",
@@ -276,27 +324,11 @@
     },
     {
       "raw_hot": 266108,
-      "num": 217255,
+      "num": 224091,
       "word": "25岁在出租屋躺了两年",
       "onboard_time": 1717802174,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 252981,
-      "num": 252981,
-      "word": "小米SU7事故重伤者将转院治疗",
-      "onboard_time": 1717808718,
-      "rank": 17,
-      "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 250039,
-      "num": 162915,
-      "word": "原湖北仙桃市委副书记坠亡",
-      "onboard_time": 1717809257,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248707,
@@ -305,14 +337,6 @@
       "onboard_time": 1717750519,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236331,
-      "num": 236331,
-      "word": "人家秋雅结婚你在这又唱又跳的",
-      "onboard_time": 1717807755,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 224771,
@@ -363,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194484,
+      "num": 194484,
+      "word": "在一起七年男朋友家一直不提亲",
+      "onboard_time": 1717807697,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187819,
       "num": 187819,
       "word": "天天翻版张亮",
@@ -379,20 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186181,
-      "num": 186181,
-      "word": "在一起七年男朋友家一直不提亲",
-      "onboard_time": 1717807697,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 184535,
       "num": 184535,
       "word": "那英第二",
       "onboard_time": 1717771221,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180595,
+      "num": 180595,
+      "word": "墨雨云间",
+      "onboard_time": 1717803436,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 178274,
@@ -417,6 +449,14 @@
       "onboard_time": 1717767621,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167443,
+      "num": 167443,
+      "word": "耳帝说孙楠像在唱一首练声曲",
+      "onboard_time": 1717809018,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 163510,
@@ -483,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137752,
+      "num": 137752,
+      "word": "原来香港请假是不需要理由的",
+      "onboard_time": 1717810397,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 137353,
       "num": 271033,
       "word": "董宇辉称爸妈长期被骚扰",
@@ -491,12 +539,20 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 137146,
-      "num": 137146,
-      "word": "墨雨云间",
-      "onboard_time": 1717803436,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 132553,
+      "num": 131180,
+      "word": "张若昀 勇敢的人先享受世界",
+      "onboard_time": 1717809797,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131289,
+      "num": 131289,
+      "word": "为什么机场里的店不会倒闭",
+      "onboard_time": 1717807877,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 131166,
@@ -504,14 +560,6 @@
       "word": "香缇莫唱hello",
       "onboard_time": 1717767984,
       "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 131153,
-      "num": 131153,
-      "word": "耳帝说孙楠像在唱一首练声曲",
-      "onboard_time": 1717809018,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -563,14 +611,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 117605,
-      "num": 117605,
-      "word": "为什么机场里的店不会倒闭",
-      "onboard_time": 1717807877,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 116904,
       "num": 116904,
       "word": "黄宣汪苏泷主持",
@@ -591,6 +631,14 @@
       "num": 107985,
       "word": "我比张钰琪还紧张",
       "onboard_time": 1717765521,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104084,
+      "num": 104084,
+      "word": "黄宣 各位老师表情管理辛苦了",
+      "onboard_time": 1717810638,
       "rank": 44,
       "category": "综艺"
     },
@@ -657,6 +705,14 @@
       "onboard_time": 1717767862,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87289,
+      "num": 87289,
+      "word": "那英 我不是大家想象中那么优秀",
+      "onboard_time": 1717810759,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 83348,
@@ -851,20 +907,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34250,
+      "num": 596459,
+      "word": "万千气象看北京",
+      "onboard_time": 1717769963,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33703,
       "num": 39186,
       "word": "汪苏泷 你在不在",
       "onboard_time": 1717785312,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31404,
-      "num": 400640,
-      "word": "万千气象看北京",
-      "onboard_time": 1717769963,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28140,
