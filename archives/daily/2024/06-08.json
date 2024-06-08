@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717853650414,
+  "endTime": 1717856253373,
   "band_list": [
     {
       "raw_hot": 7537134,
@@ -73,6 +73,14 @@
       "onboard_time": 1717770383,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1375032,
+      "num": 1375032,
+      "word": "玫瑰的故事收视率",
+      "onboard_time": 1717849999,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1318733,
@@ -187,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 935146,
-      "num": 777572,
-      "word": "玫瑰的故事收视率",
-      "onboard_time": 1717849999,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 918209,
       "num": 362018,
       "word": "林更新考博面试",
@@ -225,6 +225,14 @@
       "onboard_time": 1717828338,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 841817,
+      "num": 841817,
+      "word": "村霸杀人后未服刑横行村里无人敢惹",
+      "onboard_time": 1717853779,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 830907,
@@ -603,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471819,
+      "num": 311997,
+      "word": "张峻豪出道战路透",
+      "onboard_time": 1717852700,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457140,
       "num": 457140,
       "word": "墨雨云间加更",
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439405,
+      "num": 302405,
+      "word": "陈金飞 监制",
+      "onboard_time": 1717852099,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434534,
       "num": 280317,
       "word": "海泉漏了张钰琪",
@@ -635,12 +659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 407139,
+      "num": 228183,
+      "word": "玫瑰的故事好多美女",
+      "onboard_time": 1717853058,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405290,
       "num": 405290,
       "word": "冰川老鼠",
       "onboard_time": 1717828637,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 404280,
+      "num": 214733,
+      "word": "刘亦菲梦女",
+      "onboard_time": 1717853779,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 403600,
@@ -691,14 +731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388102,
-      "num": 203212,
-      "word": "陈金飞 监制",
-      "onboard_time": 1717852099,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 383759,
       "num": 383759,
       "word": "韦神 是不是你出的题",
@@ -737,6 +769,14 @@
       "onboard_time": 1717847297,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 373076,
+      "num": 199936,
+      "word": "安静公主",
+      "onboard_time": 1717854559,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 371338,
@@ -899,6 +939,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 301726,
+      "num": 194696,
+      "word": "这种最舒服的睡姿会把身体睡垮",
+      "onboard_time": 1717853599,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 297798,
       "num": 297798,
       "word": "日本乒乓球队奥运名单",
@@ -945,14 +993,6 @@
       "onboard_time": 1717823597,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281730,
-      "num": 199028,
-      "word": "张峻豪出道战路透",
-      "onboard_time": 1717852700,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 280155,
@@ -1027,12 +1067,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254195,
-      "num": 196823,
-      "word": "玫瑰的故事好多美女",
-      "onboard_time": 1717853058,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 255143,
+      "num": 260282,
+      "word": "高考后劲好大",
+      "onboard_time": 1717851738,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252035,
@@ -1145,6 +1185,22 @@
       "onboard_time": 1717845437,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229636,
+      "num": 229636,
+      "word": "UP对战WBG",
+      "onboard_time": 1717848197,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 227793,
+      "num": 227793,
+      "word": "UP战胜WBG",
+      "onboard_time": 1717855700,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 227257,
@@ -1321,6 +1377,14 @@
       "onboard_time": 1717838237,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205014,
+      "num": 193692,
+      "word": "墨雨云间有自己的搞笑一家人",
+      "onboard_time": 1717854379,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 204963,
@@ -1571,14 +1635,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 178444,
-      "num": 260282,
-      "word": "高考后劲好大",
-      "onboard_time": 1717851738,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178336,
       "num": 168421,
       "word": "耳帝说孙楠像在唱一首练声曲",
@@ -1699,6 +1755,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166535,
+      "num": 166535,
+      "word": "章昊 可以偷拍吗",
+      "onboard_time": 1717853779,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 165581,
+      "num": 165581,
+      "word": "你好星期六",
+      "onboard_time": 1717850837,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164900,
       "num": 164900,
       "word": "新二英语D篇说的什么",
@@ -1753,14 +1825,6 @@
       "onboard_time": 1717841358,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 159762,
-      "num": 159762,
-      "word": "UP对战WBG",
-      "onboard_time": 1717848197,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 158936,
@@ -1827,14 +1891,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 155690,
-      "num": 145771,
-      "word": "你好星期六",
-      "onboard_time": 1717850837,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155351,
       "num": 155351,
       "word": "谁家cp在牢里过生日",
@@ -1857,6 +1913,14 @@
       "onboard_time": 1717826237,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154148,
+      "num": 154148,
+      "word": "男生冲出考场嘶吼要拿回自由",
+      "onboard_time": 1717853298,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153371,
@@ -1971,6 +2035,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 146573,
+      "num": 146573,
+      "word": "王星越叫吴谨言姐姐",
+      "onboard_time": 1717853538,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143766,
       "num": 143766,
       "word": "墨雨云间老墨我想吃雨了",
@@ -2081,14 +2153,6 @@
       "onboard_time": 1717820118,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 134781,
-      "num": 134781,
-      "word": "男生冲出考场嘶吼要拿回自由",
-      "onboard_time": 1717853298,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134189,
@@ -2355,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116588,
+      "num": 116588,
+      "word": "张若昀为角色一天只吃一顿饭",
+      "onboard_time": 1717852279,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115492,
       "num": 115492,
       "word": "赵丽颖新片虎狼之路是公路爽片",
@@ -2363,20 +2435,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115347,
-      "num": 115347,
-      "word": "张若昀为角色一天只吃一顿饭",
-      "onboard_time": 1717852279,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115064,
       "num": 115064,
       "word": "张远徐良近大远小",
       "onboard_time": 1717834279,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 114797,
+      "num": 197573,
+      "word": "70度高温戈壁武警战士找到20吨黄金",
+      "onboard_time": 1717856060,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113782,
@@ -2507,6 +2579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 107000,
+      "num": 199136,
+      "word": "高考结束那一晚你如何度过的",
+      "onboard_time": 1717855218,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106254,
       "num": 106254,
       "word": "黑神话悟空登顶Steam国区热销榜",
@@ -2515,12 +2595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105589,
-      "num": 105589,
-      "word": "王星越叫吴谨言姐姐",
-      "onboard_time": 1717853538,
+      "raw_hot": 106158,
+      "num": 106158,
+      "word": "印尼赛梁伟铿王昶进决赛",
+      "onboard_time": 1717855879,
       "rank": 47,
-      "category": "剧集"
+      "category": "体育"
     },
     {
       "raw_hot": 105407,
@@ -2529,6 +2609,14 @@
       "onboard_time": 1717841419,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104966,
+      "num": 104966,
+      "word": "李雪琴在节目上给男友报备",
+      "onboard_time": 1717854738,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 104084,
@@ -2569,14 +2657,6 @@
       "onboard_time": 1717826178,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 101968,
-      "num": 101968,
-      "word": "这种最舒服的睡姿会把身体睡垮",
-      "onboard_time": 1717853599,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101849,
@@ -2625,6 +2705,14 @@
       "onboard_time": 1717796891,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94426,
+      "num": 135277,
+      "word": "母亲含泪拥抱女儿说考上大专也高兴",
+      "onboard_time": 1717856060,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 93422,
@@ -2848,6 +2936,14 @@
       "word": "32岁女子上大学和00后做同学",
       "onboard_time": 1717832839,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61374,
+      "num": 840928,
+      "word": "那些一眼惊艳的国潮非遗",
+      "onboard_time": 1717854738,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3107,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34781,
+      "num": 228502,
+      "word": "男生考完英语说手感很好明年还来",
+      "onboard_time": 1717856179,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34359,
       "num": 218411,
       "word": "高考之后的第一条朋友圈",
@@ -3136,6 +3240,14 @@
       "word": "萌兰端午喜提降噪神器",
       "onboard_time": 1717844836,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28467,
+      "num": 197167,
+      "word": "准退休民警护航高考20年满眼不舍",
+      "onboard_time": 1717854799,
+      "rank": 26,
       "category": "社会新闻"
     },
     {

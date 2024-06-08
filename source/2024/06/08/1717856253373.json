@@ -1,0 +1,410 @@
+{
+  "runTime": 1717856253373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1375032,
+        "num": 1375032,
+        "word": "玫瑰的故事收视率",
+        "onboard_time": 1717849999,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 841817,
+        "num": 841817,
+        "word": "村霸杀人后未服刑横行村里无人敢惹",
+        "onboard_time": 1717853779,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61374,
+        "num": 840928,
+        "word": "那些一眼惊艳的国潮非遗",
+        "onboard_time": 1717854738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 862291,
+        "num": 840650,
+        "word": "刘亦菲一出场我就恋爱了",
+        "onboard_time": 1717848737,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 840081,
+        "num": 840081,
+        "word": "高考英语",
+        "onboard_time": 1717836078,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 363184,
+        "num": 363184,
+        "word": "高考准考证别发朋友圈",
+        "onboard_time": 1717845558,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 471819,
+        "num": 311997,
+        "word": "张峻豪出道战路透",
+        "onboard_time": 1717852700,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439405,
+        "num": 302405,
+        "word": "陈金飞 监制",
+        "onboard_time": 1717852099,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255143,
+        "num": 255143,
+        "word": "高考后劲好大",
+        "onboard_time": 1717851738,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229636,
+        "num": 229636,
+        "word": "UP对战WBG",
+        "onboard_time": 1717848197,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 685599,
+        "num": 229619,
+        "word": "高考考到一半突然来例假了",
+        "onboard_time": 1717828457,
+        "rank": 10,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 571321,
+        "num": 229243,
+        "word": "李惠利柳智敏用中文对话",
+        "onboard_time": 1717850718,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 498759,
+        "num": 229121,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 429097,
+        "num": 228766,
+        "word": "那英酒店被追拍躲避时摔倒",
+        "onboard_time": 1717847357,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34781,
+        "num": 228502,
+        "word": "男生考完英语说手感很好明年还来",
+        "onboard_time": 1717856179,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419629,
+        "num": 228334,
+        "word": "林更新考博面试",
+        "onboard_time": 1717844538,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407139,
+        "num": 228183,
+        "word": "玫瑰的故事好多美女",
+        "onboard_time": 1717853058,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309858,
+        "num": 228017,
+        "word": "董宇辉每天要吃好多片安眠药",
+        "onboard_time": 1717841778,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227793,
+        "num": 227793,
+        "word": "UP战胜WBG",
+        "onboard_time": 1717855700,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223619,
+        "num": 223619,
+        "word": "日本乒乓球队奥运名单",
+        "onboard_time": 1717848377,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 831042,
+        "num": 220378,
+        "word": "经常有炎症的人易得癌是真的吗",
+        "onboard_time": 1717847478,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 404280,
+        "num": 214733,
+        "word": "刘亦菲梦女",
+        "onboard_time": 1717853779,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200394,
+        "num": 200394,
+        "word": "一牛蛙影响高考被抓",
+        "onboard_time": 1717837219,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373076,
+        "num": 199936,
+        "word": "安静公主",
+        "onboard_time": 1717854559,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107000,
+        "num": 199136,
+        "word": "高考结束那一晚你如何度过的",
+        "onboard_time": 1717855218,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114797,
+        "num": 197573,
+        "word": "70度高温戈壁武警战士找到20吨黄金",
+        "onboard_time": 1717856060,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28467,
+        "num": 197167,
+        "word": "准退休民警护航高考20年满眼不舍",
+        "onboard_time": 1717854799,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324246,
+        "num": 196432,
+        "word": "aespa放送0分",
+        "onboard_time": 1717845917,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301726,
+        "num": 194696,
+        "word": "这种最舒服的睡姿会把身体睡垮",
+        "onboard_time": 1717853599,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205014,
+        "num": 193692,
+        "word": "墨雨云间有自己的搞笑一家人",
+        "onboard_time": 1717854379,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193486,
+        "num": 193486,
+        "word": "歌手张颂文回归",
+        "onboard_time": 1717839859,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166535,
+        "num": 166535,
+        "word": "章昊 可以偷拍吗",
+        "onboard_time": 1717853779,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165581,
+        "num": 165581,
+        "word": "你好星期六",
+        "onboard_time": 1717850837,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154148,
+        "num": 154148,
+        "word": "男生冲出考场嘶吼要拿回自由",
+        "onboard_time": 1717853298,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151808,
+        "num": 151808,
+        "word": "张若昀说高考分数对艺考很富余",
+        "onboard_time": 1717838658,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148833,
+        "num": 148833,
+        "word": "张同学全网都知道你可以谈恋爱了",
+        "onboard_time": 1717845437,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146573,
+        "num": 146573,
+        "word": "王星越叫吴谨言姐姐",
+        "onboard_time": 1717853538,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140926,
+        "num": 140926,
+        "word": "皇马一球迷对中国人唱辱华歌曲",
+        "onboard_time": 1717844957,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138292,
+        "num": 138292,
+        "word": "为什么总有人觉得女生不适合学理科",
+        "onboard_time": 1717850718,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94426,
+        "num": 135277,
+        "word": "母亲含泪拥抱女儿说考上大专也高兴",
+        "onboard_time": 1717856060,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134620,
+        "num": 134620,
+        "word": "范丞丞 这才是真正的Hiphop",
+        "onboard_time": 1717845378,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130494,
+        "num": 130494,
+        "word": "新一卷英语 难",
+        "onboard_time": 1717838658,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129624,
+        "num": 129624,
+        "word": "女子花费518元雇体育生陪女儿爬泰山",
+        "onboard_time": 1717837096,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129208,
+        "num": 129208,
+        "word": "时代少年团 三人行",
+        "onboard_time": 1717852818,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127507,
+        "num": 127507,
+        "word": "牢赞 885",
+        "onboard_time": 1717849578,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123999,
+        "num": 123999,
+        "word": "鞠婧祎初恋丸子头",
+        "onboard_time": 1717846458,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116588,
+        "num": 116588,
+        "word": "张若昀为角色一天只吃一顿饭",
+        "onboard_time": 1717852279,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106158,
+        "num": 106158,
+        "word": "印尼赛梁伟铿王昶进决赛",
+        "onboard_time": 1717855879,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104966,
+        "num": 104966,
+        "word": "李雪琴在节目上给男友报备",
+        "onboard_time": 1717854738,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100672,
+        "num": 100672,
+        "word": "石宇奇赛季胜率超9成",
+        "onboard_time": 1717853119,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

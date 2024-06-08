@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717853650414,
+  "endTime": 1717856253373,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -817,6 +817,14 @@
       "onboard_time": 1717388359,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1375032,
+      "num": 1375032,
+      "word": "玫瑰的故事收视率",
+      "onboard_time": 1717849999,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 1371095,
@@ -1683,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 935146,
-      "num": 777572,
-      "word": "玫瑰的故事收视率",
-      "onboard_time": 1717849999,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 933532,
       "num": 933532,
       "word": "印度现近50度高温连蚊子都消失",
@@ -1969,6 +1969,14 @@
       "onboard_time": 1717755619,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 841817,
+      "num": 841817,
+      "word": "村霸杀人后未服刑横行村里无人敢惹",
+      "onboard_time": 1717853779,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 839721,
@@ -4843,6 +4851,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 471819,
+      "num": 311997,
+      "word": "张峻豪出道战路透",
+      "onboard_time": 1717852700,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 471409,
       "num": 471409,
       "word": "中国女排vs意大利女排",
@@ -5281,6 +5297,14 @@
       "onboard_time": 1717460598,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439405,
+      "num": 302405,
+      "word": "陈金飞 监制",
+      "onboard_time": 1717852099,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 439393,
@@ -5779,6 +5803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407139,
+      "num": 228183,
+      "word": "玫瑰的故事好多美女",
+      "onboard_time": 1717853058,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406309,
       "num": 298195,
       "word": "打工人在711吃午饭丢人吗",
@@ -5809,6 +5841,14 @@
       "onboard_time": 1717312517,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 404280,
+      "num": 214733,
+      "word": "刘亦菲梦女",
+      "onboard_time": 1717853779,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 403600,
@@ -6041,14 +6081,6 @@
       "onboard_time": 1717222518,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388102,
-      "num": 203212,
-      "word": "陈金飞 监制",
-      "onboard_time": 1717852099,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 388055,
@@ -6313,6 +6345,14 @@
       "onboard_time": 1717546098,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 373076,
+      "num": 199936,
+      "word": "安静公主",
+      "onboard_time": 1717854559,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 372670,
@@ -7691,6 +7731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301726,
+      "num": 194696,
+      "word": "这种最舒服的睡姿会把身体睡垮",
+      "onboard_time": 1717853599,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 301119,
       "num": 301119,
       "word": "孙夏铃 我不想再被安排了",
@@ -8201,14 +8249,6 @@
       "onboard_time": 1717680260,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 281730,
-      "num": 199028,
-      "word": "张峻豪出道战路透",
-      "onboard_time": 1717852700,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 280197,
@@ -8971,6 +9011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255143,
+      "num": 260282,
+      "word": "高考后劲好大",
+      "onboard_time": 1717851738,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255072,
       "num": 210358,
       "word": "何浩楠 十个勤天监事一职被保留",
@@ -9017,14 +9065,6 @@
       "onboard_time": 1717164685,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 254195,
-      "num": 196823,
-      "word": "玫瑰的故事好多美女",
-      "onboard_time": 1717853058,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 254122,
@@ -9787,6 +9827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229636,
+      "num": 229636,
+      "word": "UP对战WBG",
+      "onboard_time": 1717848197,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229096,
       "num": 229096,
       "word": "中国女排澳门站2胜2负",
@@ -9873,6 +9921,14 @@
       "onboard_time": 1717596560,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227793,
+      "num": 227793,
+      "word": "UP战胜WBG",
+      "onboard_time": 1717855700,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 227688,
@@ -11081,6 +11137,14 @@
       "onboard_time": 1717238417,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205014,
+      "num": 193692,
+      "word": "墨雨云间有自己的搞笑一家人",
+      "onboard_time": 1717854379,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 204963,
@@ -13131,14 +13195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178444,
-      "num": 260282,
-      "word": "高考后劲好大",
-      "onboard_time": 1717851738,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178336,
       "num": 168421,
       "word": "耳帝说孙楠像在唱一首练声曲",
@@ -14075,6 +14131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166535,
+      "num": 166535,
+      "word": "章昊 可以偷拍吗",
+      "onboard_time": 1717853779,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166415,
       "num": 166415,
       "word": "惠若琪说女排得分手段损失掉了",
@@ -14129,6 +14193,14 @@
       "onboard_time": 1717217057,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165581,
+      "num": 165581,
+      "word": "你好星期六",
+      "onboard_time": 1717245859,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 165559,
@@ -14611,28 +14683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160003,
-      "num": 160003,
-      "word": "你好星期六",
-      "onboard_time": 1717245859,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159876,
       "num": 159876,
       "word": "杨紫为高考学子加油",
       "onboard_time": 1717653799,
       "rank": 39,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 159762,
-      "num": 159762,
-      "word": "UP对战WBG",
-      "onboard_time": 1717848197,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 159760,
@@ -15121,6 +15177,14 @@
       "onboard_time": 1717563321,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154148,
+      "num": 154148,
+      "word": "男生冲出考场嘶吼要拿回自由",
+      "onboard_time": 1717853298,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153893,
@@ -15865,6 +15929,14 @@
       "onboard_time": 1717323678,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 146573,
+      "num": 146573,
+      "word": "王星越叫吴谨言姐姐",
+      "onboard_time": 1717853538,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 146514,
@@ -16945,14 +17017,6 @@
       "onboard_time": 1717235717,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 134781,
-      "num": 134781,
-      "word": "男生冲出考场嘶吼要拿回自由",
-      "onboard_time": 1717853298,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134775,
@@ -18619,6 +18683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116588,
+      "num": 116588,
+      "word": "张若昀为角色一天只吃一顿饭",
+      "onboard_time": 1717852279,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "1342万人明天高考",
@@ -18787,14 +18859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 115347,
-      "num": 115347,
-      "word": "张若昀为角色一天只吃一顿饭",
-      "onboard_time": 1717852279,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115241,
       "num": 115241,
       "word": "周深跳撕张真源",
@@ -18825,6 +18889,14 @@
       "onboard_time": 1717661477,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114797,
+      "num": 197573,
+      "word": "70度高温戈壁武警战士找到20吨黄金",
+      "onboard_time": 1717856060,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114585,
@@ -19483,6 +19555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107000,
+      "num": 199136,
+      "word": "高考结束那一晚你如何度过的",
+      "onboard_time": 1717855218,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106958,
       "num": 215226,
       "word": "江西一楼房发生爆炸有人员受伤",
@@ -19579,6 +19659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106158,
+      "num": 106158,
+      "word": "印尼赛梁伟铿王昶进决赛",
+      "onboard_time": 1717855879,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106141,
       "num": 106141,
       "word": "剑网3否认对某手游IVE事件推波助澜",
@@ -19625,14 +19713,6 @@
       "onboard_time": 1717518916,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105589,
-      "num": 105589,
-      "word": "王星越叫吴谨言姐姐",
-      "onboard_time": 1717853538,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 105414,
@@ -19689,6 +19769,14 @@
       "onboard_time": 1717563500,
       "rank": 11,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 104966,
+      "num": 104966,
+      "word": "李雪琴在节目上给男友报备",
+      "onboard_time": 1717854738,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 104555,
@@ -19865,14 +19953,6 @@
       "onboard_time": 1717585757,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101968,
-      "num": 101968,
-      "word": "这种最舒服的睡姿会把身体睡垮",
-      "onboard_time": 1717853599,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 101865,
@@ -20273,6 +20353,14 @@
       "onboard_time": 1717301058,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94426,
+      "num": 135277,
+      "word": "母亲含泪拥抱女儿说考上大专也高兴",
+      "onboard_time": 1717856060,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 93774,
@@ -21555,6 +21643,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 61374,
+      "num": 840928,
+      "word": "那些一眼惊艳的国潮非遗",
+      "onboard_time": 1717854738,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61335,
       "num": 61335,
       "word": "当主人忘给猫咪喂饭",
@@ -22731,6 +22827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34781,
+      "num": 228502,
+      "word": "男生考完英语说手感很好明年还来",
+      "onboard_time": 1717856179,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34706,
       "num": 344871,
       "word": "三夏时节农田里的动画片",
@@ -23024,6 +23128,14 @@
       "word": "马来西亚王室保镖殴打司机",
       "onboard_time": 1717669818,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28467,
+      "num": 197167,
+      "word": "准退休民警护航高考20年满眼不舍",
+      "onboard_time": 1717854799,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
