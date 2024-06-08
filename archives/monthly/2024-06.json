@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717824864872,
+  "endTime": 1717827882341,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1717317618,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1203424,
+      "num": 523603,
+      "word": "弟弟高考后准备要求花5万",
+      "onboard_time": 1717823119,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1184332,
@@ -2635,6 +2643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 688891,
+      "num": 260501,
+      "word": "月经血主要来源是什么",
+      "onboard_time": 1717823180,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 688500,
       "num": 329729,
       "word": "突然发现九月是调休大月",
@@ -2809,6 +2825,14 @@
       "onboard_time": 1717572437,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 665202,
+      "num": 665202,
+      "word": "质疑丫头 理解丫头",
+      "onboard_time": 1717826297,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 663803,
@@ -3619,14 +3643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 564994,
-      "num": 260501,
-      "word": "月经血主要来源是什么",
-      "onboard_time": 1717823180,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 564914,
       "num": 564914,
       "word": "Nobody好看",
@@ -4249,14 +4265,6 @@
       "onboard_time": 1717338980,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 502146,
-      "num": 502146,
-      "word": "弟弟高考后准备要求花5万",
-      "onboard_time": 1717823119,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 500176,
@@ -5971,6 +5979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375254,
+      "num": 212119,
+      "word": "华晨宇凡希亚飙高音",
+      "onboard_time": 1717826718,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375176,
       "num": 375176,
       "word": "歌手2024",
@@ -6441,6 +6457,14 @@
       "onboard_time": 1717683981,
       "rank": 17,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 350616,
+      "num": 350616,
+      "word": "伊能静 我爱的女孩终于长成玫瑰",
+      "onboard_time": 1717827078,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 350023,
@@ -7137,6 +7161,14 @@
       "onboard_time": 1717588578,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 311492,
+      "num": 311492,
+      "word": "为啥运高考试卷用步枪押送现金用霰弹枪",
+      "onboard_time": 1717825757,
+      "rank": 15,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 310794,
@@ -7841,6 +7873,14 @@
       "onboard_time": 1717237158,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280155,
+      "num": 280155,
+      "word": "林更新说杨幂是女神",
+      "onboard_time": 1717824138,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 278932,
@@ -9899,6 +9939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216651,
+      "num": 208119,
+      "word": "原来狗狗老了面相真的很明显",
+      "onboard_time": 1717826658,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216578,
       "num": 210416,
       "word": "辛芷蕾脚底板也黑了",
@@ -10009,6 +10057,14 @@
       "onboard_time": 1717739959,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213472,
+      "num": 213472,
+      "word": "日本一神社禁止韩国人入内",
+      "onboard_time": 1717823597,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213224,
@@ -10288,6 +10344,14 @@
       "word": "狐妖月红篇陈都灵出场",
       "onboard_time": 1717737381,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208674,
+      "num": 207322,
+      "word": "徐海乔用的是刘亦菲的图",
+      "onboard_time": 1717825938,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -10689,14 +10753,6 @@
       "onboard_time": 1717805656,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202465,
-      "num": 175491,
-      "word": "林更新说杨幂是女神",
-      "onboard_time": 1717824138,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 202381,
@@ -11657,6 +11713,14 @@
       "onboard_time": 1717331358,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190757,
+      "num": 160569,
+      "word": "郑妮可可爱",
+      "onboard_time": 1717827557,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 190686,
@@ -13011,6 +13075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170730,
+      "num": 170730,
+      "word": "邓超陈赫让另一半来五哈",
+      "onboard_time": 1717827198,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170431,
       "num": 170431,
       "word": "周深献唱刘亦菲新剧主题曲",
@@ -13971,6 +14043,14 @@
       "category": "动漫,体育"
     },
     {
+      "raw_hot": 158510,
+      "num": 158510,
+      "word": "印度教练称国乒害怕颗粒打法",
+      "onboard_time": 1717826118,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158453,
       "num": 158453,
       "word": "小猫真的很洁癖",
@@ -14291,6 +14371,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154301,
+      "num": 154301,
+      "word": "陈昊宇直拍",
+      "onboard_time": 1717826237,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154226,
       "num": 154226,
       "word": "刘亦菲奇迹玫瑰",
@@ -14505,6 +14593,14 @@
       "onboard_time": 1717206497,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 151785,
+      "num": 151785,
+      "word": "王霏霏舞台",
+      "onboard_time": 1717824858,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 151740,
@@ -15323,6 +15419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142795,
+      "num": 142795,
+      "word": "山东今天上午没有考试",
+      "onboard_time": 1717824977,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142754,
       "num": 142754,
       "word": "王星越原声",
@@ -16065,6 +16169,14 @@
       "onboard_time": 1717241296,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134189,
+      "num": 134189,
+      "word": "花小龙",
+      "onboard_time": 1717824677,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 134138,
@@ -17731,14 +17843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114605,
-      "num": 114605,
-      "word": "花小龙",
-      "onboard_time": 1717824677,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 114585,
       "num": 1703193,
       "word": "千里江山图藏着人间烟火",
@@ -18697,6 +18801,14 @@
       "onboard_time": 1717573878,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101206,
+      "num": 101206,
+      "word": "看不见影子的少年",
+      "onboard_time": 1717827019,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 101049,
@@ -20715,6 +20827,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 51398,
+      "num": 161136,
+      "word": "张桂梅累到睡着让人心疼",
+      "onboard_time": 1717824918,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 51349,
       "num": 51349,
       "word": "刘些宁首演恶女",
@@ -20993,6 +21113,14 @@
       "onboard_time": 1717300397,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42018,
+      "num": 460810,
+      "word": "有关高考的独家记忆",
+      "onboard_time": 1717826420,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 41920,
@@ -21465,14 +21593,6 @@
       "onboard_time": 1717415658,
       "rank": 17,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 31168,
-      "num": 193882,
-      "word": "日本一神社禁止韩国人入内",
-      "onboard_time": 1717823597,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31014,

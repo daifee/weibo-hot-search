@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717824864872,
+  "endTime": 1717827882341,
   "band_list": [
     {
       "raw_hot": 2347646,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1203424,
+      "num": 523603,
+      "word": "弟弟高考后准备要求花5万",
+      "onboard_time": 1717823119,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1124018,
       "num": 1124018,
       "word": "王星越年龄遭质疑",
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688891,
+      "num": 260501,
+      "word": "月经血主要来源是什么",
+      "onboard_time": 1717823180,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 684866,
       "num": 684866,
       "word": "精卫好牛",
@@ -177,6 +193,14 @@
       "onboard_time": 1717818439,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 665202,
+      "num": 665202,
+      "word": "质疑丫头 理解丫头",
+      "onboard_time": 1717826297,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 652017,
@@ -251,14 +275,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 564994,
-      "num": 260501,
-      "word": "月经血主要来源是什么",
-      "onboard_time": 1717823180,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 564914,
       "num": 564914,
       "word": "Nobody好看",
@@ -321,14 +337,6 @@
       "onboard_time": 1717815799,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 502146,
-      "num": 502146,
-      "word": "弟弟高考后准备要求花5万",
-      "onboard_time": 1717823119,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 486651,
@@ -435,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 375254,
+      "num": 212119,
+      "word": "华晨宇凡希亚飙高音",
+      "onboard_time": 1717826718,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 371338,
       "num": 371338,
       "word": "徐海乔超爱",
@@ -473,6 +489,14 @@
       "onboard_time": 1717762579,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350616,
+      "num": 350616,
+      "word": "伊能静 我爱的女孩终于长成玫瑰",
+      "onboard_time": 1717827078,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 344705,
@@ -523,6 +547,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 311492,
+      "num": 311492,
+      "word": "为啥运高考试卷用步枪押送现金用霰弹枪",
+      "onboard_time": 1717825757,
+      "rank": 15,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 304214,
       "num": 519356,
       "word": "端午遇高考一定会考好",
@@ -561,6 +593,14 @@
       "onboard_time": 1717769484,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280155,
+      "num": 280155,
+      "word": "林更新说杨幂是女神",
+      "onboard_time": 1717824138,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 277546,
@@ -699,6 +739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216651,
+      "num": 208119,
+      "word": "原来狗狗老了面相真的很明显",
+      "onboard_time": 1717826658,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 215833,
       "num": 215833,
       "word": "高考生持续耳鸣以为压力大结果是鼻咽癌",
@@ -713,6 +761,14 @@
       "onboard_time": 1717816278,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213472,
+      "num": 213472,
+      "word": "日本一神社禁止韩国人入内",
+      "onboard_time": 1717823597,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213224,
@@ -739,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208674,
+      "num": 207322,
+      "word": "徐海乔用的是刘亦菲的图",
+      "onboard_time": 1717825938,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206321,
       "num": 206321,
       "word": "陈赫比林更新先认出赵丽颖",
@@ -761,14 +825,6 @@
       "onboard_time": 1717805656,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 202465,
-      "num": 175491,
-      "word": "林更新说杨幂是女神",
-      "onboard_time": 1717824138,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 200637,
@@ -817,6 +873,14 @@
       "onboard_time": 1717823957,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 190757,
+      "num": 160569,
+      "word": "郑妮可可爱",
+      "onboard_time": 1717827557,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 190039,
@@ -915,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170730,
+      "num": 170730,
+      "word": "邓超陈赫让另一半来五哈",
+      "onboard_time": 1717827198,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169786,
       "num": 281108,
       "word": "巨蟹座擅长识趣的离开",
@@ -971,6 +1043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158510,
+      "num": 158510,
+      "word": "印度教练称国乒害怕颗粒打法",
+      "onboard_time": 1717826118,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158125,
       "num": 158125,
       "word": "高考",
@@ -1011,6 +1091,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 154301,
+      "num": 154301,
+      "word": "陈昊宇直拍",
+      "onboard_time": 1717826237,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153371,
       "num": 153371,
       "word": "全网最大的送考向日葵找到了",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1717823957,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151785,
+      "num": 151785,
+      "word": "王霏霏舞台",
+      "onboard_time": 1717824858,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 151584,
@@ -1083,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142795,
+      "num": 142795,
+      "word": "山东今天上午没有考试",
+      "onboard_time": 1717824977,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142458,
       "num": 142458,
       "word": "白鹿与白鹿同框",
@@ -1129,6 +1233,14 @@
       "onboard_time": 1717820118,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 134189,
+      "num": 134189,
+      "word": "花小龙",
+      "onboard_time": 1717824677,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 131289,
@@ -1251,14 +1363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114605,
-      "num": 114605,
-      "word": "花小龙",
-      "onboard_time": 1717824677,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 113126,
       "num": 113126,
       "word": "张桂梅带学生唱红歌奔赴考场",
@@ -1321,6 +1425,22 @@
       "onboard_time": 1717810638,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102292,
+      "num": 102292,
+      "word": "王者貂蝉秒杀皮肤",
+      "onboard_time": 1717826178,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 101206,
+      "num": 101206,
+      "word": "看不见影子的少年",
+      "onboard_time": 1717827019,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 100411,
@@ -1571,6 +1691,14 @@
       "category": "社会正能量,教育"
     },
     {
+      "raw_hot": 51398,
+      "num": 161136,
+      "word": "张桂梅累到睡着让人心疼",
+      "onboard_time": 1717824918,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 50136,
       "num": 93519,
       "word": "为什么有人会有恋母情结",
@@ -1593,6 +1721,14 @@
       "onboard_time": 1717823119,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42018,
+      "num": 460810,
+      "word": "有关高考的独家记忆",
+      "onboard_time": 1717826420,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 40665,
@@ -1641,14 +1777,6 @@
       "onboard_time": 1717785312,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31168,
-      "num": 193882,
-      "word": "日本一神社禁止韩国人入内",
-      "onboard_time": 1717823597,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28140,
