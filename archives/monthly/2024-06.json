@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717881438120,
+  "endTime": 1717882496345,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -23868,7 +23868,7 @@
     },
     {
       "raw_hot": 17167,
-      "num": 26356,
+      "num": 27581,
       "word": "田曦薇晚上吃铁锅炖",
       "onboard_time": 1717874172,
       "rank": 45,
@@ -23972,7 +23972,7 @@
     },
     {
       "raw_hot": 15115,
-      "num": 26340,
+      "num": 27641,
       "word": "2024世界海洋日",
       "onboard_time": 1717873992,
       "rank": 49,
@@ -24027,12 +24027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13657,
+      "num": 27696,
+      "word": "2024高考特写",
+      "onboard_time": 1717878371,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 13640,
       "num": 187001,
       "word": "法国记者体验印度50度高温",
       "onboard_time": 1717730963,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13570,
+      "num": 27657,
+      "word": "节假日切忌暴饮暴食小心急性胰腺炎",
+      "onboard_time": 1717879571,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13530,
@@ -24105,22 +24121,6 @@
       "onboard_time": 1717359490,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12767,
-      "num": 26363,
-      "word": "节假日切忌暴饮暴食小心急性胰腺炎",
-      "onboard_time": 1717879571,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 12764,
-      "num": 26343,
-      "word": "2024高考特写",
-      "onboard_time": 1717878371,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 12648,
