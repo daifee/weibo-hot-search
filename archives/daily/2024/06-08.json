@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717841980984,
+  "endTime": 1717842943510,
   "band_list": [
     {
       "raw_hot": 7537134,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1013316,
+      "num": 922116,
+      "word": "歌手张颂文回归",
+      "onboard_time": 1717839859,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1011013,
       "num": 1011013,
       "word": "新一卷英语 难",
@@ -153,14 +161,6 @@
       "onboard_time": 1717771523,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 922116,
-      "num": 922116,
-      "word": "歌手张颂文回归",
-      "onboard_time": 1717839859,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 917902,
@@ -363,6 +363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 571003,
+      "num": 571003,
+      "word": "张若昀说高考分数对艺考很富余",
+      "onboard_time": 1717838658,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564914,
       "num": 564914,
       "word": "Nobody好看",
@@ -483,6 +491,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478006,
+      "num": 478006,
+      "word": "一牛蛙影响高考被抓",
+      "onboard_time": 1717837219,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477629,
+      "num": 247143,
+      "word": "女子花费518元雇体育生陪女儿爬泰山",
+      "onboard_time": 1717837096,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471981,
       "num": 283395,
       "word": "玄彬孙艺珍出售婚房",
@@ -521,14 +545,6 @@
       "onboard_time": 1717771582,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 434398,
-      "num": 220945,
-      "word": "女子花费518元雇体育生陪女儿爬泰山",
-      "onboard_time": 1717837096,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405290,
@@ -587,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 387614,
-      "num": 351913,
-      "word": "张若昀说高考分数对艺考很富余",
-      "onboard_time": 1717838658,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383759,
       "num": 383759,
       "word": "韦神 是不是你出的题",
@@ -627,12 +635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 368293,
-      "num": 368293,
-      "word": "一牛蛙影响高考被抓",
-      "onboard_time": 1717837219,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 370928,
+      "num": 370928,
+      "word": "董宇辉每天要吃好多片安眠药",
+      "onboard_time": 1717841778,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 366692,
@@ -707,20 +715,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 332831,
+      "num": 332831,
+      "word": "十个勤天",
+      "onboard_time": 1717840818,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332284,
       "num": 332284,
       "word": "北大物理保送生考了唯一一门语文",
       "onboard_time": 1717764139,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 328321,
-      "num": 328321,
-      "word": "十个勤天",
-      "onboard_time": 1717840818,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 314628,
@@ -875,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247760,
+      "num": 247760,
+      "word": "我才不要和你做朋友呢",
+      "onboard_time": 1717837457,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 246430,
       "num": 246430,
       "word": "东北甜妹 台湾光头",
@@ -1003,14 +1019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217322,
-      "num": 217322,
-      "word": "董宇辉每天要吃好多片安眠药",
-      "onboard_time": 1717841778,
-      "rank": 22,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 216219,
       "num": 216219,
       "word": "墨雨云间簪花定情",
@@ -1032,6 +1040,14 @@
       "word": "福建历史考完老实了",
       "onboard_time": 1717816278,
       "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 215153,
+      "num": 215153,
+      "word": "英语续写 看不懂",
+      "onboard_time": 1717841718,
+      "rank": 35,
       "category": "教育"
     },
     {
@@ -1200,14 +1216,6 @@
       "word": "陈昊宇 想说的话一时还想不完整",
       "onboard_time": 1717831399,
       "rank": 30,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 194927,
-      "num": 194927,
-      "word": "我才不要和你做朋友呢",
-      "onboard_time": 1717837457,
-      "rank": 27,
       "category": "电影"
     },
     {
@@ -1411,8 +1419,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 164881,
-      "num": 164881,
+      "raw_hot": 164900,
+      "num": 164900,
       "word": "新二英语D篇说的什么",
       "onboard_time": 1717841296,
       "rank": 31,
@@ -1505,14 +1513,6 @@
       "onboard_time": 1717767924,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156438,
-      "num": 156438,
-      "word": "英语续写 看不懂",
-      "onboard_time": 1717841718,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 156311,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1717824379,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 149686,
+      "num": 149686,
+      "word": "高考日语作文",
+      "onboard_time": 1717841838,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 149497,
@@ -1899,6 +1907,14 @@
       "category": "科学科普,教育"
     },
     {
+      "raw_hot": 121053,
+      "num": 121053,
+      "word": "张颂文回复网友报名歌手",
+      "onboard_time": 1717842918,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120666,
       "num": 120666,
       "word": "恋爱兄妹",
@@ -1955,14 +1971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116553,
-      "num": 116553,
-      "word": "高考日语作文",
-      "onboard_time": 1717841838,
-      "rank": 47,
-      "category": "教育"
-    },
-    {
       "raw_hot": 115064,
       "num": 115064,
       "word": "张远徐良近大远小",
@@ -2011,6 +2019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111685,
+      "num": 111685,
+      "word": "王者新觉醒之战预约开启",
+      "onboard_time": 1717842319,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108610,
       "num": 108610,
       "word": "张玉宁打封闭出征韩国",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1717811477,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 105407,
+      "num": 365581,
+      "word": "2024高考落下帷幕",
+      "onboard_time": 1717841419,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 104084,
@@ -2299,14 +2323,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 62516,
-      "num": 365581,
-      "word": "2024高考落下帷幕",
-      "onboard_time": 1717841419,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 62062,
       "num": 314739,
       "word": "32岁女子上大学和00后做同学",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1717821078,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 57548,
+      "num": 334275,
+      "word": "谁把高考英语听力开倍速了",
+      "onboard_time": 1717842677,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57243,
@@ -2496,6 +2520,14 @@
       "word": "中华文化传承发展新华章",
       "onboard_time": 1717770623,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36651,
+      "num": 392540,
+      "word": "56岁老民警连续10年高考安保",
+      "onboard_time": 1717842438,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
