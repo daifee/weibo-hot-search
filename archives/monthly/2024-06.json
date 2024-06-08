@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717839329308,
+  "endTime": 1717841980984,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011013,
+      "num": 1011013,
+      "word": "新一卷英语 难",
+      "onboard_time": 1717838658,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1005052,
       "num": 1005052,
       "word": "婚纱照发朋友圈被人说不好看",
@@ -1689,6 +1697,14 @@
       "onboard_time": 1717251079,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 922116,
+      "num": 922116,
+      "word": "歌手张颂文回归",
+      "onboard_time": 1717839859,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 920634,
@@ -3939,6 +3955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537692,
+      "num": 537692,
+      "word": "听力好快",
+      "onboard_time": 1717839919,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 537025,
       "num": 537025,
       "word": "宁德时代",
@@ -4089,14 +4113,6 @@
       "onboard_time": 1717587979,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 524345,
-      "num": 524345,
-      "word": "新一卷英语 难",
-      "onboard_time": 1717838658,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 523800,
@@ -5939,6 +5955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 387614,
+      "num": 351913,
+      "word": "张若昀说高考分数对艺考很富余",
+      "onboard_time": 1717838658,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 386677,
       "num": 386677,
       "word": "董宇辉成了618局外人",
@@ -6265,6 +6289,14 @@
       "onboard_time": 1717511299,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368293,
+      "num": 368293,
+      "word": "一牛蛙影响高考被抓",
+      "onboard_time": 1717837219,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367144,
@@ -6779,6 +6811,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 339968,
+      "num": 339968,
+      "word": "甲卷英语 简单",
+      "onboard_time": 1717839439,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 338414,
       "num": 338414,
       "word": "BW2024官宣定档",
@@ -7113,14 +7153,6 @@
       "onboard_time": 1717240638,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 320707,
-      "num": 320707,
-      "word": "一牛蛙影响高考被抓",
-      "onboard_time": 1717837219,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320381,
@@ -10123,6 +10155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217322,
+      "num": 217322,
+      "word": "董宇辉每天要吃好多片安眠药",
+      "onboard_time": 1717841778,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 217304,
       "num": 217304,
       "word": "Red火箭少女Name合照",
@@ -10289,14 +10329,6 @@
       "onboard_time": 1717825938,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213391,
-      "num": 213391,
-      "word": "张若昀说高考分数对艺考很富余",
-      "onboard_time": 1717838658,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213224,
@@ -11507,6 +11539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 197315,
+      "num": 320775,
+      "word": "高考前一天妈妈押中语文作文题",
+      "onboard_time": 1717838477,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197271,
       "num": 188741,
       "word": "墨雨云间和太子妃一个导演",
@@ -12289,6 +12329,14 @@
       "onboard_time": 1717393278,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187236,
+      "num": 187236,
+      "word": "12岁小孩哥参加高考",
+      "onboard_time": 1717839559,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 187094,
@@ -13467,14 +13515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169824,
-      "num": 320775,
-      "word": "高考前一天妈妈押中语文作文题",
-      "onboard_time": 1717838477,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169787,
       "num": 169787,
       "word": "王俊凯暴龙活动",
@@ -13851,6 +13891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 164881,
+      "num": 164881,
+      "word": "新二英语D篇说的什么",
+      "onboard_time": 1717841296,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164809,
       "num": 164809,
       "word": "墨雨云间追剧日历",
@@ -14195,6 +14243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161072,
+      "num": 161072,
+      "word": "高考几天",
+      "onboard_time": 1717841358,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 161046,
       "num": 161046,
       "word": "CHANEL艺术总监将离职",
@@ -14529,6 +14585,14 @@
       "onboard_time": 1717379959,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156438,
+      "num": 156438,
+      "word": "英语续写 看不懂",
+      "onboard_time": 1717841718,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 156413,
@@ -15387,6 +15451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147480,
+      "num": 147480,
+      "word": "李华以后自己写",
+      "onboard_time": 1717839680,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147329,
       "num": 147329,
       "word": "身体出现这6个信号必须马上休息",
@@ -15891,6 +15963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142201,
+      "num": 142201,
+      "word": "刘忻 我在乎的是王霏霏这个人",
+      "onboard_time": 1717841538,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142165,
       "num": 142165,
       "word": "墨雨云间男演员 脸盲",
@@ -15968,6 +16048,14 @@
       "word": "你愿意重回高三么",
       "onboard_time": 1717723638,
       "rank": 39,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 140997,
+      "num": 140997,
+      "word": "新一语法填空求放过",
+      "onboard_time": 1717840098,
+      "rank": 40,
       "category": "教育"
     },
     {
@@ -16081,6 +16169,14 @@
       "onboard_time": 1717747997,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140071,
+      "num": 140071,
+      "word": "高考俄语",
+      "onboard_time": 1717839979,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 139970,
@@ -17499,6 +17595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124253,
+      "num": 124253,
+      "word": "高考人看了社死的亲友团",
+      "onboard_time": 1717839559,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124245,
       "num": 124245,
       "word": "白鹿跑男学院风连衣裙",
@@ -17705,6 +17809,14 @@
       "onboard_time": 1717728196,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121732,
+      "num": 121732,
+      "word": "你当年高考英语考了多少分",
+      "onboard_time": 1717841240,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 121577,
@@ -18131,6 +18243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116553,
+      "num": 116553,
+      "word": "高考日语作文",
+      "onboard_time": 1717841838,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116493,
       "num": 116493,
       "word": "1342万人明天高考",
@@ -18529,6 +18649,14 @@
       "onboard_time": 1717331179,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 111986,
+      "num": 111986,
+      "word": "董宇辉曾想退出直播",
+      "onboard_time": 1717841898,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 111965,
@@ -20300,7 +20428,7 @@
     },
     {
       "raw_hot": 75855,
-      "num": 753745,
+      "num": 930958,
       "word": "这张海报很中国",
       "onboard_time": 1717808475,
       "rank": 9,
@@ -20865,6 +20993,14 @@
       "onboard_time": 1717794311,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 62516,
+      "num": 365581,
+      "word": "2024高考落下帷幕",
+      "onboard_time": 1717841419,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 62090,
