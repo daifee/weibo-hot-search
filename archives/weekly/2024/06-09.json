@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717885091651,
+  "endTime": 1717886109995,
   "band_list": [
     {
       "raw_hot": 1143590,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33594,
+      "num": 38919,
+      "word": "17岁的王星越",
+      "onboard_time": 1717883831,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32781,
       "num": 45589,
       "word": "谁敢相信这是五十多岁大叔的穿搭",
@@ -491,24 +499,24 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23761,
-      "num": 28914,
-      "word": "17岁的王星越",
-      "onboard_time": 1717883831,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20566,
-      "num": 28908,
+      "num": 34503,
       "word": "2024高考特写",
       "onboard_time": 1717878371,
       "rank": 48,
       "category": "教育"
     },
     {
+      "raw_hot": 20527,
+      "num": 181187,
+      "word": "中国57项世界遗产全名单",
+      "onboard_time": 1717854438,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17644,
-      "num": 28904,
+      "num": 34183,
       "word": "节假日切忌暴饮暴食小心急性胰腺炎",
       "onboard_time": 1717879571,
       "rank": 42,
@@ -516,19 +524,11 @@
     },
     {
       "raw_hot": 17167,
-      "num": 28898,
+      "num": 34094,
       "word": "田曦薇晚上吃铁锅炖",
       "onboard_time": 1717874172,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17079,
-      "num": 181187,
-      "word": "中国57项世界遗产全名单",
-      "onboard_time": 1717854438,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16968,
@@ -555,8 +555,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15136,
+      "num": 34130,
+      "word": "高考英语试卷",
+      "onboard_time": 1717885391,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 15115,
-      "num": 28900,
+      "num": 34015,
       "word": "2024世界海洋日",
       "onboard_time": 1717873992,
       "rank": 49,
@@ -577,6 +585,14 @@
       "onboard_time": 1717865953,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13404,
+      "num": 33978,
+      "word": "端午粽情欢笑",
+      "onboard_time": 1717885572,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 12283,
