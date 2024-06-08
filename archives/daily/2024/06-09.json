@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717888798767,
+  "endTime": 1717889737783,
   "band_list": [
     {
       "raw_hot": 1143590,
@@ -24,6 +24,22 @@
       "word": "玫瑰的故事收视率",
       "onboard_time": 1717849999,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 632020,
+      "num": 130684,
+      "word": "中以混血女孩被以色列救出",
+      "onboard_time": 1717888153,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 542531,
+      "num": 542531,
+      "word": "刘亦菲36岁演22岁女大学生",
+      "onboard_time": 1717888634,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -75,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438701,
+      "num": 274270,
+      "word": "起猛了亚当参加新说唱了",
+      "onboard_time": 1717888273,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438479,
       "num": 438479,
       "word": "金价创2021年8月以来最大跌幅",
@@ -89,14 +113,6 @@
       "onboard_time": 1717847478,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 417811,
-      "num": 109417,
-      "word": "中以混血女孩被以色列救出",
-      "onboard_time": 1717888153,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 356527,
@@ -115,28 +131,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 301742,
-      "num": 301742,
-      "word": "刘亦菲36岁演22岁女大学生",
-      "onboard_time": 1717888634,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280103,
       "num": 280103,
       "word": "晋江",
       "onboard_time": 1717856598,
       "rank": 7,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 271877,
-      "num": 271877,
-      "word": "起猛了亚当参加新说唱了",
-      "onboard_time": 1717888273,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 258084,
@@ -153,6 +153,14 @@
       "onboard_time": 1717822637,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 217256,
+      "num": 101689,
+      "word": "夜尿次数增多是肾脏病早期信号",
+      "onboard_time": 1717888094,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 210580,
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158666,
+      "num": 130504,
+      "word": "mouse回应小老虎不打了",
+      "onboard_time": 1717888514,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156696,
       "num": 142915,
       "word": "董宇辉每天要吃好多片安眠药",
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132578,
+      "num": 132578,
+      "word": "考生冲出考场太激动拥抱家人遭重摔",
+      "onboard_time": 1717888393,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124232,
       "num": 137787,
       "word": "减肥见效最快的运动就是跳绳",
@@ -273,6 +297,30 @@
       "onboard_time": 1717857800,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117836,
+      "num": 117836,
+      "word": "袁娅维 导演组你什么意思",
+      "onboard_time": 1717888273,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114665,
+      "num": 114665,
+      "word": "Xiaolaohu说不打职业回家了",
+      "onboard_time": 1717887733,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 114417,
+      "num": 97247,
+      "word": "28岁真的是一个很好的年纪",
+      "onboard_time": 1717888094,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 113826,
@@ -299,14 +347,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 97216,
-      "num": 66113,
-      "word": "夜尿次数增多是肾脏病早期信号",
-      "onboard_time": 1717888094,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 97041,
       "num": 137773,
       "word": "薛芳菲萧衡亲一个看看实力",
@@ -321,6 +361,14 @@
       "onboard_time": 1717846458,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89152,
+      "num": 89152,
+      "word": "在健身房你就记住四个字",
+      "onboard_time": 1717888273,
+      "rank": 37,
+      "category": "运动健身"
     },
     {
       "raw_hot": 88679,
@@ -347,20 +395,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86868,
-      "num": 86868,
-      "word": "Xiaolaohu说不打职业回家了",
-      "onboard_time": 1717887733,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 85320,
       "num": 137757,
       "word": "张峻豪出道战路透",
       "onboard_time": 1717852700,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85023,
+      "num": 85023,
+      "word": "墨雨云间第17集",
+      "onboard_time": 1717888032,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 84206,
@@ -379,12 +427,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 78123,
-      "num": 65020,
-      "word": "28岁真的是一个很好的年纪",
-      "onboard_time": 1717888094,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 77290,
+      "num": 77290,
+      "word": "小老虎发聊天记录",
+      "onboard_time": 1717889414,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 75194,
@@ -411,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70586,
+      "num": 70586,
+      "word": "早睡一周头发变多了",
+      "onboard_time": 1717889114,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 70347,
       "num": 80651,
       "word": "用线勒死皮肤上的小肉粒不可取",
@@ -427,27 +483,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66793,
+      "num": 66793,
+      "word": "中国名字最难听的水果在广东",
+      "onboard_time": 1717889414,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 66642,
+      "num": 66642,
+      "word": "郭碧婷大理在逃南湘",
+      "onboard_time": 1717867814,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 63727,
+      "num": 66762,
+      "word": "黄亦玫一条丝巾硬控苏更生两次",
+      "onboard_time": 1717867634,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63660,
       "num": 137747,
       "word": "皇马一球迷对中国人唱辱华歌曲",
       "onboard_time": 1717844957,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63307,
-      "num": 63307,
-      "word": "墨雨云间第17集",
-      "onboard_time": 1717888032,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 62841,
-      "num": 62841,
-      "word": "考生冲出考场太激动拥抱家人遭重摔",
-      "onboard_time": 1717888393,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -467,36 +531,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62572,
-      "num": 66583,
-      "word": "郭碧婷大理在逃南湘",
-      "onboard_time": 1717867814,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 60542,
-      "num": 66762,
-      "word": "黄亦玫一条丝巾硬控苏更生两次",
-      "onboard_time": 1717867634,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 59087,
-      "num": 59087,
-      "word": "袁娅维 导演组你什么意思",
-      "onboard_time": 1717888273,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 57844,
       "num": 121675,
       "word": "朱一龙说人生大事带给他很多荣誉",
       "onboard_time": 1717856598,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57494,
+      "num": 57494,
+      "word": "张杰永远在扣手手",
+      "onboard_time": 1717888934,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 56310,
+      "num": 56310,
+      "word": "你以为的高考完vs实际上的高考完",
+      "onboard_time": 1717888094,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 56231,
@@ -523,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54674,
-      "num": 54674,
-      "word": "mouse回应小老虎不打了",
-      "onboard_time": 1717888514,
-      "rank": 35,
-      "category": "电竞"
+      "raw_hot": 50370,
+      "num": 50370,
+      "word": "每只凶狠的小猫其实都渴望被爱",
+      "onboard_time": 1717888094,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 50362,
@@ -539,12 +595,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49658,
-      "num": 49658,
-      "word": "在健身房你就记住四个字",
-      "onboard_time": 1717888273,
-      "rank": 37,
-      "category": "运动健身"
+      "raw_hot": 46743,
+      "num": 46743,
+      "word": "葡萄牙1比2克罗地亚",
+      "onboard_time": 1717889595,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 46288,
+      "num": 46288,
+      "word": "花5个小时准备了二十多个菜",
+      "onboard_time": 1717889655,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 45731,
@@ -579,20 +643,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 40245,
-      "num": 40245,
-      "word": "你以为的高考完vs实际上的高考完",
-      "onboard_time": 1717888094,
-      "rank": 43,
-      "category": "教育"
+      "raw_hot": 36066,
+      "num": 77641,
+      "word": "男子不知浙江高速拖车免费拒绝施救",
+      "onboard_time": 1717889715,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 36888,
-      "num": 36888,
-      "word": "每只凶狠的小猫其实都渴望被爱",
-      "onboard_time": 1717888094,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 35935,
+      "num": 128521,
+      "word": "考场外头顶鲜花的显眼包舅舅",
+      "onboard_time": 1717887792,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35037,
@@ -611,7 +675,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26284,
+      "raw_hot": 27093,
       "num": 282720,
       "word": "中国57项世界遗产全名单",
       "onboard_time": 1717854438,
@@ -625,14 +689,6 @@
       "onboard_time": 1717861638,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 24879,
-      "num": 109758,
-      "word": "考场外头顶鲜花的显眼包舅舅",
-      "onboard_time": 1717887792,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20566,
