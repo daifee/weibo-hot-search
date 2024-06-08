@@ -1,0 +1,410 @@
+{
+  "runTime": 1717814018322,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1621498,
+        "num": 1621498,
+        "word": "昨夜金价大跌",
+        "onboard_time": 1717811537,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 830907,
+        "num": 830907,
+        "word": "原湖北仙桃市委副书记坠亡",
+        "onboard_time": 1717809257,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23289,
+        "num": 760844,
+        "word": "万千气象看北京",
+        "onboard_time": 1717769963,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1392711,
+        "num": 758168,
+        "word": "赵露思 荨麻疹",
+        "onboard_time": 1717808356,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 749736,
+        "num": 749736,
+        "word": "那英 请你们对我不要太苛刻",
+        "onboard_time": 1717807817,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524469,
+        "num": 524469,
+        "word": "前儿媳实名举报公公有巨额不明财产",
+        "onboard_time": 1717801874,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508505,
+        "num": 508505,
+        "word": "韩雪玩梗",
+        "onboard_time": 1717809977,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500883,
+        "num": 500883,
+        "word": "小米SU7事故重伤者将转院治疗",
+        "onboard_time": 1717808718,
+        "rank": 7,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 246028,
+        "num": 423284,
+        "word": "端午遇高考一定会考好",
+        "onboard_time": 1717802715,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107398,
+        "num": 388808,
+        "word": "高考考场外的默契瞬间",
+        "onboard_time": 1717812677,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 376223,
+        "num": 376223,
+        "word": "王一博巴黎街边吃冰淇淋",
+        "onboard_time": 1717809618,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344705,
+        "num": 344705,
+        "word": "拜登首次向泽连斯基道歉",
+        "onboard_time": 1717809557,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 338952,
+        "num": 338952,
+        "word": "高考数学",
+        "onboard_time": 1717749858,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 289339,
+        "num": 289339,
+        "word": "王心凌听到汪苏泷让她上歌手的反应",
+        "onboard_time": 1717803555,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243165,
+        "num": 243165,
+        "word": "大学生要尽快学会打扮",
+        "onboard_time": 1717805957,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228754,
+        "num": 228754,
+        "word": "张若昀 勇敢的人先享受世界",
+        "onboard_time": 1717809797,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225814,
+        "num": 225814,
+        "word": "那英 天后回归",
+        "onboard_time": 1717766962,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193037,
+        "num": 193037,
+        "word": "黑神话悟空",
+        "onboard_time": 1717806796,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183607,
+        "num": 183607,
+        "word": "大家好我是韩雪",
+        "onboard_time": 1717812859,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171234,
+        "num": 171234,
+        "word": "奶奶将毕生厨艺用在了孙子高考这天",
+        "onboard_time": 1717812737,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560081,
+        "num": 171108,
+        "word": "原来香港请假是不需要理由的",
+        "onboard_time": 1717810397,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508122,
+        "num": 169858,
+        "word": "读研两年谈了四个对象",
+        "onboard_time": 1717812677,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 377445,
+        "num": 168918,
+        "word": "朋友在全麻后说了伤人的话",
+        "onboard_time": 1717811596,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177931,
+        "num": 168324,
+        "word": "墨雨云间",
+        "onboard_time": 1717803436,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167895,
+        "num": 167895,
+        "word": "北大物理保送生考了唯一一门语文",
+        "onboard_time": 1717764139,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337193,
+        "num": 167724,
+        "word": "月薪六千的闺蜜一个月能存三千",
+        "onboard_time": 1717804395,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252978,
+        "num": 167373,
+        "word": "因为没去参加高考被爸爸骂了",
+        "onboard_time": 1717804575,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179716,
+        "num": 167125,
+        "word": "14岁少年强迫他人卖淫进矫正学校",
+        "onboard_time": 1717770502,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178336,
+        "num": 166933,
+        "word": "耳帝说孙楠像在唱一首练声曲",
+        "onboard_time": 1717809018,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73433,
+        "num": 166577,
+        "word": "这张海报很中国",
+        "onboard_time": 1717808475,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169148,
+        "num": 165981,
+        "word": "黑神话Steam国区售价全球最低",
+        "onboard_time": 1717813277,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165981,
+        "num": 165980,
+        "word": "吴谨言声音",
+        "onboard_time": 1717813458,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164370,
+        "num": 164370,
+        "word": "吴镇宇被问费曼喜不喜欢向佐",
+        "onboard_time": 1717811776,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161924,
+        "num": 161924,
+        "word": "在一起七年男朋友家一直不提亲",
+        "onboard_time": 1717807697,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159750,
+        "num": 159750,
+        "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
+        "onboard_time": 1717813756,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 158125,
+        "num": 158125,
+        "word": "高考",
+        "onboard_time": 1717805475,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157312,
+        "num": 157312,
+        "word": "黄宣 歌儿手",
+        "onboard_time": 1717813218,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156150,
+        "num": 156150,
+        "word": "马上大三妈妈突然告诉我她怀孕了",
+        "onboard_time": 1717813937,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153371,
+        "num": 153371,
+        "word": "全网最大的送考向日葵找到了",
+        "onboard_time": 1717810696,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 151817,
+        "num": 151817,
+        "word": "高考生持续耳鸣以为压力大结果是鼻咽癌",
+        "onboard_time": 1717813636,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149497,
+        "num": 149497,
+        "word": "周深下期回归奔跑吧",
+        "onboard_time": 1717813157,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138635,
+        "num": 138635,
+        "word": "25岁在出租屋躺了两年",
+        "onboard_time": 1717802174,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137881,
+        "num": 137881,
+        "word": "人家秋雅结婚你在这又唱又跳的",
+        "onboard_time": 1717807755,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132499,
+        "num": 132499,
+        "word": "男朋友想开我的车回家一个月",
+        "onboard_time": 1717805656,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120002,
+        "num": 120002,
+        "word": "为什么机场里的店不会倒闭",
+        "onboard_time": 1717807877,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "歌手排名",
+        "onboard_time": 1717771523,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115964,
+        "num": 115964,
+        "word": "张钰琪是胡海泉的学生",
+        "onboard_time": 1717807877,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107265,
+        "num": 107265,
+        "word": "黑猴子终归是要出来见客了",
+        "onboard_time": 1717812318,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106254,
+        "num": 106254,
+        "word": "黑神话悟空登顶Steam国区热销榜",
+        "onboard_time": 1717811477,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 104674,
+        "num": 104674,
+        "word": "丹麦首相遭一男子殴打",
+        "onboard_time": 1717806137,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理夏巴兹#"
+    }
+  }
+}

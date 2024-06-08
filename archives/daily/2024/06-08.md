@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 09:40:18
+本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 10:33:38
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A8%E5%A4%9C%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%23" target="weibo">
+昨夜金价大跌（热度：1621498）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%8D%A8%E9%BA%BB%E7%96%B9%23" target="weibo">
@@ -45,14 +51,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23" target="weibo">
-高考数学（热度：739147）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B9%96%E5%8C%97%E4%BB%99%E6%A1%83%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%9D%A0%E4%BA%A1%23" target="weibo">
+原湖北仙桃市委副书记坠亡（热度：830907）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E8%AF%B7%E4%BD%A0%E4%BB%AC%E5%AF%B9%E6%88%91%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%8B%9B%E5%88%BB%23" target="weibo">
-那英 请你们对我不要太苛刻（热度：700285）
+那英 请你们对我不要太苛刻（热度：749736）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%23" target="weibo">
+高考数学（热度：739147）
 </a>
 </li>
 
@@ -81,12 +93,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B9%96%E5%8C%97%E4%BB%99%E6%A1%83%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%9D%A0%E4%BA%A1%23" target="weibo">
-原湖北仙桃市委副书记坠亡（热度：603764）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A6%81%E6%B1%82%E9%BB%91%E7%B2%89%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
 王一博要求黑粉公开道歉（热度：601809）
 </a>
@@ -99,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A6%99%E6%B8%AF%E8%AF%B7%E5%81%87%E6%98%AF%E4%B8%8D%E9%9C%80%E8%A6%81%E7%90%86%E7%94%B1%E7%9A%84%23" target="weibo">
+原来香港请假是不需要理由的（热度：560081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E4%BA%8B%E6%95%85%E9%87%8D%E4%BC%A4%E8%80%85%E5%B0%86%E8%BD%AC%E9%99%A2%E6%B2%BB%E7%96%97%23" target="weibo">
 小米SU7事故重伤者将转院治疗（热度：557872）
 </a>
@@ -107,6 +119,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E5%85%AD%E5%8D%83%E7%9A%84%E9%97%BA%E8%9C%9C%E4%B8%80%E4%B8%AA%E6%9C%88%E8%83%BD%E5%AD%98%E4%B8%89%E5%8D%83%23" target="weibo">
 月薪六千的闺蜜一个月能存三千（热度：528307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E7%8E%A9%E6%A2%97%23" target="weibo">
+韩雪玩梗（热度：508505）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E4%B8%A4%E5%B9%B4%E8%B0%88%E4%BA%86%E5%9B%9B%E4%B8%AA%E5%AF%B9%E8%B1%A1%23" target="weibo">
+读研两年谈了四个对象（热度：508122）
 </a>
 </li>
 
@@ -159,6 +183,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%A8%E5%85%A8%E9%BA%BB%E5%90%8E%E8%AF%B4%E4%BA%86%E4%BC%A4%E4%BA%BA%E7%9A%84%E8%AF%9D%23" target="weibo">
+朋友在全麻后说了伤人的话（热度：377445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%AC%AC%E5%85%AD%23" target="weibo">
 汪苏泷第六（热度：366692）
 </a>
@@ -179,6 +209,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E7%BC%BA%E5%B8%AD%23" target="weibo">
 何炅缺席（热度：358691）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%A6%96%E6%AC%A1%E5%90%91%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E9%81%93%E6%AD%89%23" target="weibo">
+拜登首次向泽连斯基道歉（热度：344705）
 </a>
 </li>
 
@@ -207,12 +243,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E7%8E%A9%E6%A2%97%23" target="weibo">
-韩雪玩梗（热度：306556）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E9%81%87%E9%AB%98%E8%80%83%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%80%83%E5%A5%BD%23" target="weibo">
 端午遇高考一定会考好（热度：304214）
 </a>
@@ -237,12 +267,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%A6%96%E6%AC%A1%E5%90%91%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E9%81%93%E6%AD%89%23" target="weibo">
-拜登首次向泽连斯基道歉（热度：284104）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD%23" target="weibo">
 歌手直播（热度：269970）
 </a>
@@ -263,6 +287,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AF%B9%E6%97%A5%E6%9C%AC%E6%AF%8D%E5%A5%B3%E5%9C%A8%E6%B8%A1%E8%BD%AE%E9%81%AD%E9%81%87%E7%A5%9E%E9%9A%90%23" target="weibo">
 一对日本母女在渡轮遭遇神隐（热度：248707）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%20%E5%8B%87%E6%95%A2%E7%9A%84%E4%BA%BA%E5%85%88%E4%BA%AB%E5%8F%97%E4%B8%96%E7%95%8C%23" target="weibo">
+张若昀 勇敢的人先享受世界（热度：228754）
 </a>
 </li>
 
@@ -327,8 +357,20 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E5%A5%BD%E6%88%91%E6%98%AF%E9%9F%A9%E9%9B%AA%23" target="weibo">
+大家好我是韩雪（热度：183607）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23" target="weibo">
 墨雨云间（热度：180595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%E8%AF%B4%E5%AD%99%E6%A5%A0%E5%83%8F%E5%9C%A8%E5%94%B1%E4%B8%80%E9%A6%96%E7%BB%83%E5%A3%B0%E6%9B%B2%23" target="weibo">
+耳帝说孙楠像在唱一首练声曲（热度：178336）
 </a>
 </li>
 
@@ -345,14 +387,32 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%B0%86%E6%AF%95%E7%94%9F%E5%8E%A8%E8%89%BA%E7%94%A8%E5%9C%A8%E4%BA%86%E5%AD%99%E5%AD%90%E9%AB%98%E8%80%83%E8%BF%99%E5%A4%A9%23" target="weibo">
+奶奶将毕生厨艺用在了孙子高考这天（热度：171234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E8%9F%B9%E5%BA%A7%E6%93%85%E9%95%BF%E8%AF%86%E8%B6%A3%E7%9A%84%E7%A6%BB%E5%BC%80%23" target="weibo">
 巨蟹座擅长识趣的离开（热度：169786）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%E8%AF%B4%E5%AD%99%E6%A5%A0%E5%83%8F%E5%9C%A8%E5%94%B1%E4%B8%80%E9%A6%96%E7%BB%83%E5%A3%B0%E6%9B%B2%23" target="weibo">
-耳帝说孙楠像在唱一首练声曲（热度：167443）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9DSteam%E5%9B%BD%E5%8C%BA%E5%94%AE%E4%BB%B7%E5%85%A8%E7%90%83%E6%9C%80%E4%BD%8E%23" target="weibo">
+黑神话Steam国区售价全球最低（热度：169148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E5%A3%B0%E9%9F%B3%23" target="weibo">
+吴谨言声音（热度：165981）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E8%A2%AB%E9%97%AE%E8%B4%B9%E6%9B%BC%E5%96%9C%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%90%91%E4%BD%90%23" target="weibo">
+吴镇宇被问费曼喜不喜欢向佐（热度：164370）
 </a>
 </li>
 
@@ -369,8 +429,32 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%83%85%E4%BE%A3%E7%BB%93%E5%A9%9A3%E5%A4%A9%E5%90%8E%E5%9C%A8%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%B8%A7%E7%94%9F%23" target="weibo">
+巴勒斯坦情侣结婚3天后在轰炸中丧生（热度：159750）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
+高考（热度：158125）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%20%E6%AD%8C%E5%84%BF%E6%89%8B%23" target="weibo">
+黄宣 歌儿手（热度：157312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9B%BF%E8%BF%87%E4%B8%966%E5%B9%B4%E5%B0%8F%E5%A7%A8%E6%8B%A5%E6%8A%B1%E9%AB%98%E8%80%83%E8%A1%A8%E5%BC%9F%23" target="weibo">
 女子替过世6年小姨拥抱高考表弟（热度：156614）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%8A%E5%A4%A7%E4%B8%89%E5%A6%88%E5%A6%88%E7%AA%81%E7%84%B6%E5%91%8A%E8%AF%89%E6%88%91%E5%A5%B9%E6%80%80%E5%AD%95%E4%BA%86%23" target="weibo">
+马上大三妈妈突然告诉我她怀孕了（热度：156150）
 </a>
 </li>
 
@@ -381,8 +465,26 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E6%9C%80%E5%A4%A7%E7%9A%84%E9%80%81%E8%80%83%E5%90%91%E6%97%A5%E8%91%B5%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
+全网最大的送考向日葵找到了（热度：153371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E6%8C%81%E7%BB%AD%E8%80%B3%E9%B8%A3%E4%BB%A5%E4%B8%BA%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%BB%93%E6%9E%9C%E6%98%AF%E9%BC%BB%E5%92%BD%E7%99%8C%23" target="weibo">
+高考生持续耳鸣以为压力大结果是鼻咽癌（热度：151817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8A%A8%E7%94%BB%E7%89%87%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E9%AA%97%E6%88%91%23" target="weibo">
 原来动画片真的没有骗我（热度：151413）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%8B%E6%9C%9F%E5%9B%9E%E5%BD%92%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
+周深下期回归奔跑吧（热度：149497）
 </a>
 </li>
 
@@ -405,20 +507,8 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A6%99%E6%B8%AF%E8%AF%B7%E5%81%87%E6%98%AF%E4%B8%8D%E9%9C%80%E8%A6%81%E7%90%86%E7%94%B1%E7%9A%84%23" target="weibo">
-原来香港请假是不需要理由的（热度：137752）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E7%A7%B0%E7%88%B8%E5%A6%88%E9%95%BF%E6%9C%9F%E8%A2%AB%E9%AA%9A%E6%89%B0%23" target="weibo">
 董宇辉称爸妈长期被骚扰（热度：137353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%20%E5%8B%87%E6%95%A2%E7%9A%84%E4%BA%BA%E5%85%88%E4%BA%AB%E5%8F%97%E4%B8%96%E7%95%8C%23" target="weibo">
-张若昀 勇敢的人先享受世界（热度：132553）
 </a>
 </li>
 
@@ -465,12 +555,6 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%23" target="weibo">
-高考（热度：118833）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%B8%BB%E6%8C%81%23" target="weibo">
 黄宣汪苏泷主持（热度：116904）
 </a>
@@ -485,6 +569,24 @@ Gala 幽梦（热度：219107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%AF%94%E5%BC%A0%E9%92%B0%E7%90%AA%E8%BF%98%E7%B4%A7%E5%BC%A0%23" target="weibo">
 我比张钰琪还紧张（热度：107985）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%9C%BA%E5%A4%96%E7%9A%84%E9%BB%98%E5%A5%91%E7%9E%AC%E9%97%B4%23" target="weibo">
+高考考场外的默契瞬间（热度：107398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%8C%B4%E5%AD%90%E7%BB%88%E5%BD%92%E6%98%AF%E8%A6%81%E5%87%BA%E6%9D%A5%E8%A7%81%E5%AE%A2%E4%BA%86%23" target="weibo">
+黑猴子终归是要出来见客了（热度：107265）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E7%99%BB%E9%A1%B6Steam%E5%9B%BD%E5%8C%BA%E7%83%AD%E9%94%80%E6%A6%9C%23" target="weibo">
+黑神话悟空登顶Steam国区热销榜（热度：106254）
 </a>
 </li>
 
