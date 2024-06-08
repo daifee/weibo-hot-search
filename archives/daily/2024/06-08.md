@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 22:17:33
+本榜单时间：2024/06/08 00:23:22 ~ 2024/06/08 22:34:33
 </p>
 </blockquote>
 <p>
@@ -70,7 +70,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E6%94%B6%E8%A7%86%E7%8E%87%23" target="weibo">
-玫瑰的故事收视率（热度：1375032）
+玫瑰的故事收视率（热度：1381118）
 </a>
 </li>
 
@@ -89,6 +89,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%9C%B0%E9%9C%87%23" target="weibo">
 福建地震（热度：1266303）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E9%9C%B8%E6%9D%80%E4%BA%BA%E5%90%8E%E6%9C%AA%E6%9C%8D%E5%88%91%E6%A8%AA%E8%A1%8C%E6%9D%91%E9%87%8C%E6%97%A0%E4%BA%BA%E6%95%A2%E6%83%B9%23" target="weibo">
+村霸杀人后未服刑横行村里无人敢惹（热度：1235448）
 </a>
 </li>
 
@@ -183,12 +189,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E9%9C%B8%E6%9D%80%E4%BA%BA%E5%90%8E%E6%9C%AA%E6%9C%8D%E5%88%91%E6%A8%AA%E8%A1%8C%E6%9D%91%E9%87%8C%E6%97%A0%E4%BA%BA%E6%95%A2%E6%83%B9%23" target="weibo">
-村霸杀人后未服刑横行村里无人敢惹（热度：841817）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B9%96%E5%8C%97%E4%BB%99%E6%A1%83%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%9D%A0%E4%BA%A1%23" target="weibo">
 原湖北仙桃市委副书记坠亡（热度：830907）
 </a>
@@ -239,6 +239,12 @@ aespa放送0分（热度：809810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BB%E7%A0%94%E4%B8%A4%E5%B9%B4%E8%B0%88%E4%BA%86%E5%9B%9B%E4%B8%AA%E5%AF%B9%E8%B1%A1%23" target="weibo">
 读研两年谈了四个对象（热度：726860）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%23" target="weibo">
+安静公主（热度：722700）
 </a>
 </li>
 
@@ -447,6 +453,12 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%A2%A6%E5%A5%B3%23" target="weibo">
+刘亦菲梦女（热度：480424）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%87%A1%E5%B8%8C%E4%BA%9A%E9%A3%99%E9%AB%98%E9%9F%B3%23" target="weibo">
 华晨宇凡希亚飙高音（热度：480180）
 </a>
@@ -507,6 +519,12 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%8B%E6%B1%9F%23" target="weibo">
+晋江（热度：408437）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E5%A5%BD%E5%A4%9A%E7%BE%8E%E5%A5%B3%23" target="weibo">
 玫瑰的故事好多美女（热度：407139）
 </a>
@@ -515,12 +533,6 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B7%9D%E8%80%81%E9%BC%A0%23" target="weibo">
 冰川老鼠（热度：405290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%A2%A6%E5%A5%B3%23" target="weibo">
-刘亦菲梦女（热度：404280）
 </a>
 </li>
 
@@ -561,6 +573,12 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E7%9D%A1%E5%A7%BF%E4%BC%9A%E6%8A%8A%E8%BA%AB%E4%BD%93%E7%9D%A1%E5%9E%AE%23" target="weibo">
+这种最舒服的睡姿会把身体睡垮（热度：386000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E7%A5%9E%20%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BD%A0%E5%87%BA%E7%9A%84%E9%A2%98%23" target="weibo">
 韦神 是不是你出的题（热度：383759）
 </a>
@@ -587,12 +605,6 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%94%B6%E5%88%B0%E5%90%B4%E5%BD%A6%E5%A7%9D%E9%80%81%E7%9A%84%E6%94%B9%E5%A6%86%E5%A8%83%E5%A8%83%23" target="weibo">
 刘亦菲收到吴彦姝送的改妆娃娃（热度：376707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%23" target="weibo">
-安静公主（热度：373076）
 </a>
 </li>
 
@@ -717,12 +729,6 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E7%9D%A1%E5%A7%BF%E4%BC%9A%E6%8A%8A%E8%BA%AB%E4%BD%93%E7%9D%A1%E5%9E%AE%23" target="weibo">
-这种最舒服的睡姿会把身体睡垮（热度：301726）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B9%92%E4%B9%93%E7%90%83%E9%98%9F%E5%A5%A5%E8%BF%90%E5%90%8D%E5%8D%95%23" target="weibo">
 日本乒乓球队奥运名单（热度：297798）
 </a>
@@ -737,6 +743,12 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%A8%80%E6%9B%BE%E5%8A%9D%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%89%8D%E7%9C%8B%E7%94%B5%E8%A7%86%23" target="weibo">
 莫言曾劝女儿高考前看电视（热度：289238）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7%23" target="weibo">
+高考后劲好大（热度：287777）
 </a>
 </li>
 
@@ -777,6 +789,12 @@ Nobody好看（热度：564914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%B5%B0%E5%87%BA%E8%80%83%E5%9C%BA%E7%94%B7%E7%94%9F%E5%B8%8C%E6%9C%9B%E5%8F%96%E6%B6%88%E8%B0%83%E4%BC%91%23" target="weibo">
+第一个走出考场男生希望取消调休（热度：274164）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E7%B0%AA%E8%8A%B1%E5%AE%9A%E6%83%85%23" target="weibo">
 墨雨云间簪花定情（热度：270200）
 </a>
@@ -809,12 +827,6 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E8%90%A8%E9%A1%B6%E9%A1%B6%E6%89%8D%E4%BC%9A%E4%B9%B0%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
 只有萨顶顶才会买的东西（热度：257608）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7%23" target="weibo">
-高考后劲好大（热度：255143）
 </a>
 </li>
 
@@ -1125,6 +1137,12 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%AF%B4%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%B8%A6%E7%BB%99%E4%BB%96%E5%BE%88%E5%A4%9A%E8%8D%A3%E8%AA%89%23" target="weibo">
+朱一龙说人生大事带给他很多荣誉（热度：196742）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23" target="weibo">
 墨雨云间（热度：196300）
 </a>
@@ -1371,6 +1389,12 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8F%AB%E5%90%B4%E8%B0%A8%E8%A8%80%E5%A7%90%E5%A7%90%23" target="weibo">
+王星越叫吴谨言姐姐（热度：162878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E7%AB%AF%E5%8D%88%E6%8F%90%E5%89%8D%E5%8F%91%E4%BA%86%E5%B7%A5%E8%B5%84%23" target="weibo">
 因为端午提前发了工资（热度：162253）
 </a>
@@ -1539,12 +1563,6 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8F%AB%E5%90%B4%E8%B0%A8%E8%A8%80%E5%A7%90%E5%A7%90%23" target="weibo">
-王星越叫吴谨言姐姐（热度：146573）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E8%80%81%E5%A2%A8%E6%88%91%E6%83%B3%E5%90%83%E9%9B%A8%E4%BA%86%23" target="weibo">
 墨雨云间老墨我想吃雨了（热度：143766）
 </a>
@@ -1601,6 +1619,18 @@ Gala 幽梦（热度：219107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BF%84%E8%AF%AD%23" target="weibo">
 高考俄语（热度：140071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BB%99%E5%A7%90%E5%A7%90%E4%B8%8D%E6%98%AF%E7%99%BD%E5%8F%AB%E7%9A%84%23" target="weibo">
+神仙姐姐不是白叫的（热度：139775）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%90%86%E5%81%B6%E9%81%87%E9%83%AD%E7%A2%A7%E5%A9%B7%23" target="weibo">
+大理偶遇郭碧婷（热度：138869）
 </a>
 </li>
 
@@ -1713,6 +1743,12 @@ Gala 幽梦（热度：219107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E8%A7%81%E6%95%88%E6%9C%80%E5%BF%AB%E7%9A%84%E8%BF%90%E5%8A%A8%E5%B0%B1%E6%98%AF%E8%B7%B3%E7%BB%B3%23" target="weibo">
+减肥见效最快的运动就是跳绳（热度：126491）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E7%82%B9%E8%B5%9E%E4%BA%94%E8%B0%B7%E7%A3%A8%E6%88%BF%E7%94%A8%E5%BF%83%23" target="weibo">
 B太点赞五谷磨房用心（热度：125292）
 </a>
@@ -1809,6 +1845,12 @@ B太点赞五谷磨房用心（热度：125292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2370%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%88%88%E5%A3%81%E6%AD%A6%E8%AD%A6%E6%88%98%E5%A3%AB%E6%89%BE%E5%88%B020%E5%90%A8%E9%BB%84%E9%87%91%23" target="weibo">
+70度高温戈壁武警战士找到20吨黄金（热度：118321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E8%B7%B3%E4%BA%86aespa%E7%9A%84%E6%AD%8C%23" target="weibo">
 孔雪儿跳了aespa的歌（热度：117611）
 </a>
@@ -1841,12 +1883,6 @@ B太点赞五谷磨房用心（热度：125292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%BE%90%E8%89%AF%E8%BF%91%E5%A4%A7%E8%BF%9C%E5%B0%8F%23" target="weibo">
 张远徐良近大远小（热度：115064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2370%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%88%88%E5%A3%81%E6%AD%A6%E8%AD%A6%E6%88%98%E5%A3%AB%E6%89%BE%E5%88%B020%E5%90%A8%E9%BB%84%E9%87%91%23" target="weibo">
-70度高温戈壁武警战士找到20吨黄金（热度：114797）
 </a>
 </li>
 
@@ -1889,6 +1925,12 @@ K组老铁勇闯KPL（热度：113570）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E6%9B%BE%E6%83%B3%E9%80%80%E5%87%BA%E7%9B%B4%E6%92%AD%23" target="weibo">
 董宇辉曾想退出直播（热度：111986）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%AE%E4%B8%88%E6%AF%8D%E5%A8%98%E8%AE%A8%E8%96%AA%23" target="weibo">
+帮丈母娘讨薪（热度：111978）
 </a>
 </li>
 
@@ -2073,6 +2115,12 @@ K组老铁勇闯KPL（热度：113570）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E4%B8%80%E7%9C%BC%E6%83%8A%E8%89%B3%E7%9A%84%E5%9B%BD%E6%BD%AE%E9%9D%9E%E9%81%97%23" target="weibo">
+那些一眼惊艳的国潮非遗（热度：88335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%AE%B6%E6%83%B3%E8%B1%A1%E4%B8%AD%E9%82%A3%E4%B9%88%E4%BC%98%E7%A7%80%23" target="weibo">
 那英 我不是大家想象中那么优秀（热度：87289）
 </a>
@@ -2175,6 +2223,12 @@ K组老铁勇闯KPL（热度：113570）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E5%AE%8C%E8%8B%B1%E8%AF%AD%E8%AF%B4%E6%89%8B%E6%84%9F%E5%BE%88%E5%A5%BD%E6%98%8E%E5%B9%B4%E8%BF%98%E6%9D%A5%23" target="weibo">
+男生考完英语说手感很好明年还来（热度：71880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Langx%E7%88%86%E6%96%99Cube%E5%B7%B2%E7%A6%BB%E9%98%9F%23" target="weibo">
 Langx爆料Cube已离队（热度：71400）
 </a>
@@ -2213,12 +2267,6 @@ Langx爆料Cube已离队（热度：71400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2332%E5%B2%81%E5%A5%B3%E5%AD%90%E4%B8%8A%E5%A4%A7%E5%AD%A6%E5%92%8C00%E5%90%8E%E5%81%9A%E5%90%8C%E5%AD%A6%23" target="weibo">
 32岁女子上大学和00后做同学（热度：62062）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E4%B8%80%E7%9C%BC%E6%83%8A%E8%89%B3%E7%9A%84%E5%9B%BD%E6%BD%AE%E9%9D%9E%E9%81%97%23" target="weibo">
-那些一眼惊艳的国潮非遗（热度：61374）
 </a>
 </li>
 
@@ -2349,6 +2397,12 @@ LNG回应GALA幽梦（热度：57243）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%83%86%E7%98%9F%E7%96%AB%E6%88%96%E6%AD%A3%E8%94%93%E5%BB%B6%E5%85%A8%E7%90%83%E6%B5%B7%E6%B4%8B%23" target="weibo">
+海胆瘟疫或正蔓延全球海洋（热度：50625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E4%BC%9A%E6%9C%89%E6%81%8B%E6%AF%8D%E6%83%85%E7%BB%93%23" target="weibo">
 为什么有人会有恋母情结（热度：50136）
 </a>
@@ -2415,12 +2469,6 @@ LNG回应GALA幽梦（热度：57243）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%80%83%E5%AE%8C%E8%8B%B1%E8%AF%AD%E8%AF%B4%E6%89%8B%E6%84%9F%E5%BE%88%E5%A5%BD%E6%98%8E%E5%B9%B4%E8%BF%98%E6%9D%A5%23" target="weibo">
-男生考完英语说手感很好明年还来（热度：34781）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%B9%8B%E5%90%8E%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 高考之后的第一条朋友圈（热度：34359）
 </a>
@@ -2453,6 +2501,12 @@ LNG回应GALA幽梦（热度：57243）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8A%E8%BA%AB%E8%82%8C%E8%82%89%E7%BA%BF%E6%9D%A1%23" target="weibo">
 白敬亭上身肌肉线条（热度：28140）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%93%81%E6%89%93%E7%9A%84%E6%9D%8E%E5%8D%8E%20%E6%B5%81%E6%B0%B4%E7%9A%84%E8%80%83%E7%94%9F%23" target="weibo">
+铁打的李华 流水的考生（热度：28128）
 </a>
 </li>
 
