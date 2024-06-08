@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717831099852,
+  "endTime": 1717832072460,
   "band_list": [
     {
       "raw_hot": 2347646,
@@ -139,6 +139,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 849705,
+      "num": 394993,
+      "word": "刘亦菲回复徐海乔",
+      "onboard_time": 1717828338,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 830907,
       "num": 830907,
       "word": "原湖北仙桃市委副书记坠亡",
@@ -155,12 +163,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 790322,
-      "num": 394993,
-      "word": "刘亦菲回复徐海乔",
-      "onboard_time": 1717828338,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 800560,
+      "num": 262819,
+      "word": "高考考到一半突然来例假了",
+      "onboard_time": 1717828457,
+      "rank": 35,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 749736,
@@ -185,14 +193,6 @@
       "onboard_time": 1717812677,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 710617,
-      "num": 253312,
-      "word": "高考考到一半突然来例假了",
-      "onboard_time": 1717828457,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 694041,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 624240,
+      "num": 493282,
+      "word": "王霏霏突发哮喘",
+      "onboard_time": 1717829178,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621509,
       "num": 234136,
       "word": "因为没去参加高考被爸爸骂了",
@@ -281,14 +289,6 @@
       "onboard_time": 1717759458,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 589649,
-      "num": 493282,
-      "word": "王霏霏突发哮喘",
-      "onboard_time": 1717829178,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 589335,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464918,
+      "num": 334421,
+      "word": "中国台湾网红称在澳洲遭种族歧视被围殴",
+      "onboard_time": 1717829358,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 457140,
       "num": 457140,
       "word": "墨雨云间加更",
@@ -489,6 +497,14 @@
       "onboard_time": 1717758438,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 382384,
+      "num": 311118,
+      "word": "周深回应考生出考场喊周深加场",
+      "onboard_time": 1717830858,
+      "rank": 23,
+      "category": "演出,教育"
     },
     {
       "raw_hot": 377445,
@@ -635,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285878,
-      "num": 285878,
-      "word": "中国台湾网红称在澳洲遭种族歧视被围殴",
-      "onboard_time": 1717829358,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283998,
       "num": 283998,
       "word": "日本一神社禁止韩国人入内",
@@ -707,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257608,
+      "num": 257608,
+      "word": "只有萨顶顶才会买的东西",
+      "onboard_time": 1717830437,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252035,
       "num": 252035,
       "word": "中方禁止菲律宾向坐滩军舰运送建筑材料",
@@ -747,12 +763,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 240693,
-      "num": 240693,
-      "word": "周深回应考生出考场喊周深加场",
-      "onboard_time": 1717830858,
-      "rank": 23,
-      "category": "演出,教育"
+      "raw_hot": 239268,
+      "num": 239268,
+      "word": "边佑锡cos百变小樱",
+      "onboard_time": 1717830019,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 237906,
@@ -763,8 +779,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 237346,
-      "num": 237346,
+      "raw_hot": 237878,
+      "num": 237878,
       "word": "东北甜妹 台湾光头",
       "onboard_time": 1717829779,
       "rank": 24,
@@ -883,12 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210719,
-      "num": 210719,
-      "word": "只有萨顶顶才会买的东西",
-      "onboard_time": 1717830437,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 209360,
+      "num": 209360,
+      "word": "iPhone显示无可用SIM卡",
+      "onboard_time": 1717830019,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 208024,
@@ -896,14 +912,6 @@
       "word": "孙千身材",
       "onboard_time": 1717828758,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 207543,
-      "num": 207543,
-      "word": "边佑锡cos百变小樱",
-      "onboard_time": 1717830019,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -937,6 +945,14 @@
       "onboard_time": 1717816456,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 200086,
+      "num": 200086,
+      "word": "香缇莫 五个粽子",
+      "onboard_time": 1717830978,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 198971,
@@ -979,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195393,
+      "num": 195393,
+      "word": "陈昊宇 想说的话一时还想不完整",
+      "onboard_time": 1717831399,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194484,
       "num": 194484,
       "word": "在一起七年男朋友家一直不提亲",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1717820659,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187924,
+      "num": 187924,
+      "word": "高铁车窗发现求救信息",
+      "onboard_time": 1717830379,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187819,
@@ -1067,20 +1099,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176078,
+      "num": 176078,
+      "word": "不做恋爱脑要做恋己脑",
+      "onboard_time": 1717831279,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175920,
       "num": 175920,
       "word": "不选物理了",
       "onboard_time": 1717816696,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 174813,
-      "num": 174813,
-      "word": "iPhone显示无可用SIM卡",
-      "onboard_time": 1717830019,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 174784,
@@ -1155,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163402,
+      "num": 163402,
+      "word": "林一回应和刘亦菲搭戏已读乱回",
+      "onboard_time": 1717831759,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163293,
       "num": 163293,
       "word": "庄达菲 父母爱情顶凉柱",
@@ -1227,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153461,
-      "num": 153461,
-      "word": "高铁车窗发现求救信息",
-      "onboard_time": 1717830379,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153371,
       "num": 153371,
       "word": "全网最大的送考向日葵找到了",
@@ -1299,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148942,
+      "num": 148942,
+      "word": "张朝阳听说高考物理难要亲自看看",
+      "onboard_time": 1717831517,
+      "rank": 41,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 147329,
       "num": 147329,
       "word": "身体出现这6个信号必须马上休息",
@@ -1332,7 +1372,7 @@
     },
     {
       "raw_hot": 140662,
-      "num": 148474,
+      "num": 195944,
       "word": "高考最犯难的科目",
       "onboard_time": 1717828038,
       "rank": 37,
@@ -1451,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125292,
+      "num": 125292,
+      "word": "B太点赞五谷磨房用心",
+      "onboard_time": 1717831819,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124978,
       "num": 124978,
       "word": "猫猫感觉被摸了又好像没被摸",
@@ -1488,14 +1536,6 @@
       "word": "恋爱兄妹",
       "onboard_time": 1717759458,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 120593,
-      "num": 120593,
-      "word": "香缇莫 五个粽子",
-      "onboard_time": 1717830978,
-      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1547,12 +1587,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113570,
+      "num": 113570,
+      "word": "K组老铁勇闯KPL",
+      "onboard_time": 1717830797,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113126,
       "num": 113126,
       "word": "张桂梅带学生唱红歌奔赴考场",
       "onboard_time": 1717814538,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 113086,
+      "num": 113086,
+      "word": "高考氛围预热组上线",
+      "onboard_time": 1717830258,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 112241,
@@ -1716,7 +1772,7 @@
     },
     {
       "raw_hot": 82186,
-      "num": 148961,
+      "num": 264243,
       "word": "京东巨物展成外滩新网红",
       "onboard_time": 1717830137,
       "rank": 38,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1717801994,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 59483,
+      "num": 398254,
+      "word": "e人出考场哈喽招呼不过来了",
+      "onboard_time": 1717830316,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58418,
@@ -2003,14 +2067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32008,
-      "num": 398254,
-      "word": "e人出考场哈喽招呼不过来了",
-      "onboard_time": 1717830316,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28140,
       "num": 39129,
       "word": "白敬亭上身肌肉线条",
@@ -2076,6 +2132,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#习近平心系历史文化遗产保护传承#"
     }
   ]
 }
