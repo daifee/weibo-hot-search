@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717875240884,
+  "endTime": 1717877897694,
   "band_list": [
     {
       "raw_hot": 1143590,
@@ -537,6 +537,14 @@
       "onboard_time": 1717865953,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12283,
+      "num": 17540,
+      "word": "老师考前不断叮嘱操碎了心",
+      "onboard_time": 1717877771,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 10584,
