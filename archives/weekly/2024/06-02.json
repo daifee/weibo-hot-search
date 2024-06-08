@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717817654787,
+  "endTime": 1717820578604,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -171,6 +171,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 2347646,
+      "num": 2347646,
+      "word": "高考物理",
+      "onboard_time": 1717814118,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2330224,
       "num": 1198597,
       "word": "追风者声明",
@@ -201,14 +209,6 @@
       "onboard_time": 1717292896,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2068043,
-      "num": 2068043,
-      "word": "高考物理",
-      "onboard_time": 1717814118,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 2049838,
@@ -353,6 +353,14 @@
       "onboard_time": 1717318278,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1739081,
+      "num": 1739081,
+      "word": "体制内上班迟到了会怎么样",
+      "onboard_time": 1717817357,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1733396,
@@ -729,6 +737,14 @@
       "onboard_time": 1717294457,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1318733,
+      "num": 1318733,
+      "word": "央视曝光鼓浪屿宰客一条龙",
+      "onboard_time": 1717815078,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1312778,
@@ -2084,7 +2100,7 @@
     },
     {
       "raw_hot": 726860,
-      "num": 269658,
+      "num": 278879,
       "word": "读研两年谈了四个对象",
       "onboard_time": 1717812677,
       "rank": 21,
@@ -2369,6 +2385,14 @@
       "onboard_time": 1717460118,
       "rank": 5,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 673890,
+      "num": 673890,
+      "word": "高考理综",
+      "onboard_time": 1717818439,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 673644,
@@ -2795,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608619,
+      "num": 281414,
+      "word": "27岁到30岁才是最难熬的",
+      "onboard_time": 1717817298,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 605887,
       "num": 580615,
       "word": "意大利滑雪名将和女友坠崖身亡",
@@ -3051,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580064,
+      "num": 580064,
+      "word": "高考文综",
+      "onboard_time": 1717819158,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
       "raw_hot": 579471,
       "num": 579471,
       "word": "刘亦菲花裙大波浪",
@@ -3171,14 +3211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 560752,
-      "num": 560752,
-      "word": "体制内上班迟到了会怎么样",
-      "onboard_time": 1717817357,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 560081,
       "num": 267053,
       "word": "原来香港请假是不需要理由的",
@@ -3204,7 +3236,7 @@
     },
     {
       "raw_hot": 558044,
-      "num": 268917,
+      "num": 279484,
       "word": "马上大三妈妈突然告诉我她怀孕了",
       "onboard_time": 1717813937,
       "rank": 37,
@@ -3841,6 +3873,14 @@
       "onboard_time": 1717460598,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 487093,
+      "num": 487093,
+      "word": "联合国将以军列入全球侵犯儿童罪犯名单",
+      "onboard_time": 1717815799,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 486836,
@@ -4579,14 +4619,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 422259,
-      "num": 422259,
-      "word": "联合国将以军列入全球侵犯儿童罪犯名单",
-      "onboard_time": 1717815799,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 421622,
       "num": 421622,
       "word": "国足首发",
@@ -4843,6 +4875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403600,
+      "num": 399788,
+      "word": "徐海乔为刘亦菲新剧宣传",
+      "onboard_time": 1717816519,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403517,
       "num": 403517,
       "word": "李赫宰曾是TFBOYS演唱会总导演",
@@ -4889,14 +4929,6 @@
       "onboard_time": 1717667959,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399788,
-      "num": 399788,
-      "word": "徐海乔为刘亦菲新剧宣传",
-      "onboard_time": 1717816519,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 398139,
@@ -5128,14 +5160,6 @@
       "word": "女子跑50公里没能归还怒砸充电宝",
       "onboard_time": 1717508358,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381584,
-      "num": 589036,
-      "word": "央视曝光鼓浪屿宰客一条龙",
-      "onboard_time": 1717815078,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6723,6 +6747,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282433,
+      "num": 282433,
+      "word": "感觉陈楚生要开始发电报了",
+      "onboard_time": 1717817837,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281778,
       "num": 281778,
       "word": "点球",
@@ -6777,6 +6809,14 @@
       "onboard_time": 1717405158,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277546,
+      "num": 277546,
+      "word": "高考理综甲卷",
+      "onboard_time": 1717819819,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 277436,
@@ -7129,6 +7169,14 @@
       "onboard_time": 1717660998,
       "rank": 26,
       "category": "演出,互联网"
+    },
+    {
+      "raw_hot": 265304,
+      "num": 203885,
+      "word": "徐海乔超爱",
+      "onboard_time": 1717819937,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265166,
@@ -7579,6 +7627,14 @@
       "category": "社会新闻,社会议题"
     },
     {
+      "raw_hot": 246124,
+      "num": 246124,
+      "word": "林更新把刘亦菲猜成张雨绮",
+      "onboard_time": 1717820298,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245917,
       "num": 245917,
       "word": "美股",
@@ -7777,6 +7833,14 @@
       "onboard_time": 1717748059,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237582,
+      "num": 237582,
+      "word": "中方禁止菲律宾向坐滩军舰运送建筑材料",
+      "onboard_time": 1717819577,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 237465,
@@ -8179,14 +8243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225756,
-      "num": 225756,
-      "word": "27岁到30岁才是最难熬的",
-      "onboard_time": 1717817298,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 225658,
       "num": 225658,
       "word": "沈星回卡套",
@@ -8385,6 +8441,14 @@
       "onboard_time": 1717543275,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220524,
+      "num": 220524,
+      "word": "萧山第二美女",
+      "onboard_time": 1717819338,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 220510,
@@ -9099,6 +9163,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 204809,
+      "num": 204809,
+      "word": "福建物理我爱你",
+      "onboard_time": 1717818918,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 204685,
       "num": 204685,
       "word": "嫦娥六号成功着陆月背南极",
@@ -9337,6 +9409,14 @@
       "onboard_time": 1717554318,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200381,
+      "num": 200381,
+      "word": "那英你是真饿了",
+      "onboard_time": 1717820001,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 200341,
@@ -13635,6 +13715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135792,
+      "num": 135792,
+      "word": "江苏物理 简单也不会",
+      "onboard_time": 1717820118,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 135496,
       "num": 135496,
       "word": "户外过河警惕死亡V字",
@@ -14163,6 +14251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127218,
+      "num": 127218,
+      "word": "张雪峰在做一种很新的高考反诈",
+      "onboard_time": 1717817959,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 127202,
       "num": 127202,
       "word": "留给国足的时间不多了",
@@ -14451,6 +14547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 124352,
+      "num": 124352,
+      "word": "墨雨云间加更",
+      "onboard_time": 1717820539,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124333,
       "num": 124333,
       "word": "讨好型车格",
@@ -14617,6 +14721,14 @@
       "onboard_time": 1717547419,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122337,
+      "num": 122337,
+      "word": "麻烦一下高考第一个出考场的考生",
+      "onboard_time": 1717819757,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 121976,
@@ -17787,6 +17899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48166,
+      "num": 1403944,
+      "word": "文化遗址里的中国故事",
+      "onboard_time": 1717298238,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48095,
       "num": 48095,
       "word": "迪丽热巴 TopGirl",
@@ -17857,6 +17977,14 @@
       "onboard_time": 1717751362,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 43989,
+      "num": 703097,
+      "word": "高考次日再接再厉",
+      "onboard_time": 1717819220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 43884,
@@ -18057,6 +18185,14 @@
       "onboard_time": 1717661058,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39109,
+      "num": 235861,
+      "word": "给2024高考生最好的加油",
+      "onboard_time": 1717819819,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 38843,
@@ -18801,14 +18937,6 @@
       "onboard_time": 1717444990,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15325,
-      "num": 1064058,
-      "word": "文化遗址里的中国故事",
-      "onboard_time": 1717298238,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15313,

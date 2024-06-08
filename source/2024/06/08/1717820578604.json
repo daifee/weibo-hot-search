@@ -1,0 +1,410 @@
+{
+  "runTime": 1717820578604,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2347646,
+        "num": 2347646,
+        "word": "高考物理",
+        "onboard_time": 1717814118,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1739081,
+        "num": 1739081,
+        "word": "体制内上班迟到了会怎么样",
+        "onboard_time": 1717817357,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48166,
+        "num": 1403944,
+        "word": "文化遗址里的中国故事",
+        "onboard_time": 1717818799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1318733,
+        "num": 1318733,
+        "word": "央视曝光鼓浪屿宰客一条龙",
+        "onboard_time": 1717815078,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177231,
+        "num": 1177231,
+        "word": "赵露思 荨麻疹",
+        "onboard_time": 1717808356,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 980944,
+        "num": 980944,
+        "word": "王星越年龄遭质疑",
+        "onboard_time": 1717815438,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 891053,
+        "num": 891053,
+        "word": "昨夜金价大跌",
+        "onboard_time": 1717811537,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 850070,
+        "num": 850070,
+        "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
+        "onboard_time": 1717813756,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 844565,
+        "num": 844565,
+        "word": "福建地震",
+        "onboard_time": 1717817179,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43989,
+        "num": 703097,
+        "word": "高考次日再接再厉",
+        "onboard_time": 1717819220,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 673890,
+        "num": 673890,
+        "word": "高考理综",
+        "onboard_time": 1717818439,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 646751,
+        "num": 646751,
+        "word": "高考历史",
+        "onboard_time": 1717814118,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 580064,
+        "num": 580064,
+        "word": "高考文综",
+        "onboard_time": 1717819158,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 502001,
+        "num": 502001,
+        "word": "优酷试图让刘亦菲打败自己",
+        "onboard_time": 1717815858,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487093,
+        "num": 487093,
+        "word": "联合国将以军列入全球侵犯儿童罪犯名单",
+        "onboard_time": 1717815799,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 368770,
+        "num": 368770,
+        "word": "广东物理助我上大专",
+        "onboard_time": 1717814658,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345939,
+        "num": 345939,
+        "word": "原湖北仙桃市委副书记坠亡",
+        "onboard_time": 1717809257,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308694,
+        "num": 308694,
+        "word": "那英 请你们对我不要太苛刻",
+        "onboard_time": 1717807817,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403600,
+        "num": 299304,
+        "word": "徐海乔为刘亦菲新剧宣传",
+        "onboard_time": 1717816519,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282433,
+        "num": 282433,
+        "word": "感觉陈楚生要开始发电报了",
+        "onboard_time": 1717817837,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 608619,
+        "num": 281414,
+        "word": "27岁到30岁才是最难熬的",
+        "onboard_time": 1717817298,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 465780,
+        "num": 279484,
+        "word": "马上大三妈妈突然告诉我她怀孕了",
+        "onboard_time": 1717813937,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320426,
+        "num": 278879,
+        "word": "读研两年谈了四个对象",
+        "onboard_time": 1717812677,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277546,
+        "num": 277546,
+        "word": "高考理综甲卷",
+        "onboard_time": 1717819819,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246124,
+        "num": 246124,
+        "word": "林更新把刘亦菲猜成张雨绮",
+        "onboard_time": 1717820298,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237582,
+        "num": 237582,
+        "word": "中方禁止菲律宾向坐滩军舰运送建筑材料",
+        "onboard_time": 1717819577,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39109,
+        "num": 235861,
+        "word": "给2024高考生最好的加油",
+        "onboard_time": 1717819819,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235603,
+        "num": 235603,
+        "word": "前儿媳实名举报公公有巨额不明财产",
+        "onboard_time": 1717801874,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220524,
+        "num": 220524,
+        "word": "萧山第二美女",
+        "onboard_time": 1717819338,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 204809,
+        "num": 204809,
+        "word": "福建物理我爱你",
+        "onboard_time": 1717818918,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 265304,
+        "num": 203885,
+        "word": "徐海乔超爱",
+        "onboard_time": 1717819937,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202918,
+        "num": 202918,
+        "word": "王一博巴黎街边吃冰淇淋",
+        "onboard_time": 1717809618,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200381,
+        "num": 200381,
+        "word": "那英你是真饿了",
+        "onboard_time": 1717820001,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196300,
+        "num": 196300,
+        "word": "墨雨云间",
+        "onboard_time": 1717803436,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160620,
+        "num": 160620,
+        "word": "韩雪玩梗",
+        "onboard_time": 1717809977,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156539,
+        "num": 156539,
+        "word": "高考物理难吗",
+        "onboard_time": 1717814118,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154252,
+        "num": 154252,
+        "word": "福建历史考完老实了",
+        "onboard_time": 1717816278,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144317,
+        "num": 144317,
+        "word": "考完湖南物理丢本科",
+        "onboard_time": 1717816278,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143311,
+        "num": 143311,
+        "word": "小米SU7事故重伤者将转院治疗",
+        "onboard_time": 1717808718,
+        "rank": 38,
+        "category": "汽车,社会新闻"
+      },
+      {
+        "raw_hot": 150359,
+        "num": 143237,
+        "word": "大家好我是韩雪",
+        "onboard_time": 1717812859,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143011,
+        "num": 143011,
+        "word": "金价",
+        "onboard_time": 1717814538,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141535,
+        "num": 141535,
+        "word": "一斤黄金有多大",
+        "onboard_time": 1717815138,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135792,
+        "num": 135792,
+        "word": "江苏物理 简单也不会",
+        "onboard_time": 1717820118,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130143,
+        "num": 130143,
+        "word": "高考",
+        "onboard_time": 1717805475,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127218,
+        "num": 127218,
+        "word": "张雪峰在做一种很新的高考反诈",
+        "onboard_time": 1717817959,
+        "rank": 44,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 124352,
+        "num": 124352,
+        "word": "墨雨云间加更",
+        "onboard_time": 1717820539,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123905,
+        "num": 123905,
+        "word": "广东历史 难",
+        "onboard_time": 1717816456,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122551,
+        "num": 122551,
+        "word": "原来香港请假是不需要理由的",
+        "onboard_time": 1717810397,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122337,
+        "num": 122337,
+        "word": "麻烦一下高考第一个出考场的考生",
+        "onboard_time": 1717819757,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119380,
+        "num": 119380,
+        "word": "那英 天后回归",
+        "onboard_time": 1717766962,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理夏巴兹#"
+    }
+  }
+}
