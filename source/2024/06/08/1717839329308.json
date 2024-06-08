@@ -1,0 +1,410 @@
+{
+  "runTime": 1717839329308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7537134,
+        "num": 7537134,
+        "word": "高考英语",
+        "onboard_time": 1717836078,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 775697,
+        "num": 775697,
+        "word": "高考日语",
+        "onboard_time": 1717836319,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18382,
+        "num": 753745,
+        "word": "这张海报很中国",
+        "onboard_time": 1717808475,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735893,
+        "num": 735893,
+        "word": "多地高考结束",
+        "onboard_time": 1717837938,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530531,
+        "num": 530531,
+        "word": "今年高考最好笑的一个",
+        "onboard_time": 1717835058,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 524345,
+        "num": 524345,
+        "word": "新一卷英语 难",
+        "onboard_time": 1717838658,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 449252,
+        "num": 449252,
+        "word": "刘亦菲回复徐海乔",
+        "onboard_time": 1717828338,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419797,
+        "num": 419797,
+        "word": "网传头戴日本必胜布条者被游客殴打",
+        "onboard_time": 1717833857,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348934,
+        "num": 348934,
+        "word": "赵露思 荨麻疹",
+        "onboard_time": 1717808356,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48091,
+        "num": 346384,
+        "word": "高考生被困家中消防员开锁又送考",
+        "onboard_time": 1717837698,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1602076,
+        "num": 346140,
+        "word": "高考考到一半突然来例假了",
+        "onboard_time": 1717828457,
+        "rank": 10,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 562441,
+        "num": 346116,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 345831,
+        "num": 345831,
+        "word": "周深回应考生出考场喊周深加场",
+        "onboard_time": 1717830858,
+        "rank": 12,
+        "category": "演出,教育"
+      },
+      {
+        "raw_hot": 169824,
+        "num": 320775,
+        "word": "高考前一天妈妈押中语文作文题",
+        "onboard_time": 1717838477,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320707,
+        "num": 320707,
+        "word": "一牛蛙影响高考被抓",
+        "onboard_time": 1717837219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312357,
+        "num": 312357,
+        "word": "质疑丫头 理解丫头",
+        "onboard_time": 1717826297,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304659,
+        "num": 304659,
+        "word": "今年又帮李华了",
+        "onboard_time": 1717838178,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268841,
+        "num": 268841,
+        "word": "康康 DRG",
+        "onboard_time": 1717836976,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 229696,
+        "num": 229696,
+        "word": "伊能静 我爱的女孩终于长成玫瑰",
+        "onboard_time": 1717827078,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227734,
+        "num": 227734,
+        "word": "男生考完理综准备找女友了",
+        "onboard_time": 1717833498,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434398,
+        "num": 220945,
+        "word": "女子花费518元雇体育生陪女儿爬泰山",
+        "onboard_time": 1717837096,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354940,
+        "num": 219021,
+        "word": "陈赫发文告别两部综艺",
+        "onboard_time": 1717833498,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213391,
+        "num": 213391,
+        "word": "张若昀说高考分数对艺考很富余",
+        "onboard_time": 1717838658,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205810,
+        "num": 205810,
+        "word": "登陆计划",
+        "onboard_time": 1717838237,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200346,
+        "num": 200346,
+        "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
+        "onboard_time": 1717813756,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 194927,
+        "num": 194927,
+        "word": "我才不要和你做朋友呢",
+        "onboard_time": 1717837457,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187478,
+        "num": 187478,
+        "word": "墨雨云间簪花定情",
+        "onboard_time": 1717837038,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182609,
+        "num": 182609,
+        "word": "高考英语作文",
+        "onboard_time": 1717839081,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55822,
+        "num": 180819,
+        "word": "大学生的愿望清单",
+        "onboard_time": 1717838178,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15841,
+        "num": 180656,
+        "word": "德国洪水",
+        "onboard_time": 1717838897,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180530,
+        "num": 180530,
+        "word": "考完理综飘了都飘了",
+        "onboard_time": 1717834398,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179607,
+        "num": 179607,
+        "word": "韩国或将全主力出战国足",
+        "onboard_time": 1717835358,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164547,
+        "num": 164547,
+        "word": "警方通报小米SU7事故",
+        "onboard_time": 1717828277,
+        "rank": 32,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 154585,
+        "num": 154585,
+        "word": "王星越文有张遮武有萧蘅",
+        "onboard_time": 1717838779,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151729,
+        "num": 151729,
+        "word": "边佑锡cos百变小樱",
+        "onboard_time": 1717830019,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150754,
+        "num": 150754,
+        "word": "北京高考英语还是李华",
+        "onboard_time": 1717837879,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143178,
+        "num": 143178,
+        "word": "福宝祝高考生势如破竹",
+        "onboard_time": 1717833618,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 138575,
+        "num": 138575,
+        "word": "官方通报18斤榴莲复秤仅8斤",
+        "onboard_time": 1717829058,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135457,
+        "num": 135457,
+        "word": "谁家cp在牢里过生日",
+        "onboard_time": 1717837578,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132103,
+        "num": 132103,
+        "word": "昨夜金价大跌",
+        "onboard_time": 1717811537,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 130951,
+        "num": 130951,
+        "word": "华晨宇凡希亚飙高音",
+        "onboard_time": 1717826718,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125872,
+        "num": 125872,
+        "word": "原来结婚的平替是上班",
+        "onboard_time": 1717832117,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124731,
+        "num": 124731,
+        "word": "福宝躲猫猫炫饭",
+        "onboard_time": 1717836498,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119850,
+        "num": 119850,
+        "word": "排球少年",
+        "onboard_time": 1717836197,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118630,
+        "num": 118630,
+        "word": "赵昭仪正式进入歌坛1分钟",
+        "onboard_time": 1717837999,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114083,
+        "num": 114083,
+        "word": "中国台湾网红称在澳洲遭种族歧视被围殴",
+        "onboard_time": 1717829358,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113354,
+        "num": 113354,
+        "word": "Nobody好看",
+        "onboard_time": 1717822277,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112852,
+        "num": 112852,
+        "word": "墨雨云间加更",
+        "onboard_time": 1717820539,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111448,
+        "num": 111448,
+        "word": "张馨予晒妈妈",
+        "onboard_time": 1717835778,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104714,
+        "num": 104714,
+        "word": "高铁车窗发现求救信息",
+        "onboard_time": 1717830379,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

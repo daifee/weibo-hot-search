@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1717838437773,
+  "endTime": 1717839329308,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7537134,
+      "num": 7537134,
+      "word": "高考英语",
+      "onboard_time": 1717836078,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 7522920,
       "num": 7522920,
       "word": "难忘今宵",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1707488019,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4079507,
-      "num": 4079507,
-      "word": "高考英语",
-      "onboard_time": 1717836078,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 4070023,

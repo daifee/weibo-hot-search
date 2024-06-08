@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717838437773,
+  "endTime": 1717839329308,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -15,6 +15,14 @@
       "num": 15271756,
       "word": "高考数学",
       "onboard_time": 1717749858,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 7537134,
+      "num": 7537134,
+      "word": "高考英语",
+      "onboard_time": 1717836078,
       "rank": 0,
       "category": "教育"
     },
@@ -64,14 +72,6 @@
       "word": "高考数学难不难",
       "onboard_time": 1717751481,
       "rank": 1,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 4079507,
-      "num": 4079507,
-      "word": "高考英语",
-      "onboard_time": 1717836078,
-      "rank": 0,
       "category": "教育"
     },
     {
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1602076,
+      "num": 1506996,
+      "word": "高考考到一半突然来例假了",
+      "onboard_time": 1717828457,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1601434,
       "num": 619023,
       "word": "于东来自曝已是胃癌前期",
@@ -553,14 +561,6 @@
       "onboard_time": 1717739839,
       "rank": 20,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 1537374,
-      "num": 1506996,
-      "word": "高考考到一半突然来例假了",
-      "onboard_time": 1717828457,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 1520474,
@@ -1891,6 +1891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 775697,
+      "num": 775697,
+      "word": "高考日语",
+      "onboard_time": 1717836319,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 775393,
       "num": 775393,
       "word": "吴谨言演技",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1717391840,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 735893,
+      "num": 735893,
+      "word": "多地高考结束",
+      "onboard_time": 1717837938,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 735032,
@@ -3555,20 +3571,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530531,
+      "num": 530531,
+      "word": "今年高考最好笑的一个",
+      "onboard_time": 1717835058,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530138,
       "num": 457210,
       "word": "董力为花2000元吃饭道歉",
       "onboard_time": 1717464438,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 528782,
-      "num": 528782,
-      "word": "高考日语",
-      "onboard_time": 1717836319,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 528307,
@@ -3633,6 +3649,14 @@
       "onboard_time": 1717587979,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 524345,
+      "num": 524345,
+      "word": "新一卷英语 难",
+      "onboard_time": 1717838658,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 523800,
@@ -4009,14 +4033,6 @@
       "onboard_time": 1717375818,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 489679,
-      "num": 489679,
-      "word": "今年高考最好笑的一个",
-      "onboard_time": 1717835058,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488835,
@@ -4651,6 +4667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434398,
+      "num": 220945,
+      "word": "女子花费518元雇体育生陪女儿爬泰山",
+      "onboard_time": 1717837096,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433965,
       "num": 433965,
       "word": "王星越十五岁上大学",
@@ -5185,14 +5209,6 @@
       "onboard_time": 1717724359,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394939,
-      "num": 214899,
-      "word": "女子花费518元雇体育生陪女儿爬泰山",
-      "onboard_time": 1717837096,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 394494,
@@ -6123,14 +6139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329428,
-      "num": 329428,
-      "word": "多地高考结束",
-      "onboard_time": 1717837938,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 329065,
       "num": 3332971,
       "word": "2024年高考第1天",
@@ -6233,6 +6241,14 @@
       "onboard_time": 1717331179,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320707,
+      "num": 320707,
+      "word": "一牛蛙影响高考被抓",
+      "onboard_time": 1717837219,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 319871,
@@ -6473,6 +6489,14 @@
       "onboard_time": 1717395018,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304659,
+      "num": 304659,
+      "word": "今年又帮李华了",
+      "onboard_time": 1717838178,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 304578,
@@ -7955,14 +7979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244006,
-      "num": 244006,
-      "word": "一牛蛙影响高考被抓",
-      "onboard_time": 1717837219,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
@@ -8923,14 +8939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 217207,
-      "num": 217207,
-      "word": "今年又帮李华了",
-      "onboard_time": 1717838178,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 217127,
       "num": 199440,
       "word": "清华毕业生100天备考清华目标700分",
@@ -9065,6 +9073,14 @@
       "onboard_time": 1717825938,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213391,
+      "num": 213391,
+      "word": "张若昀说高考分数对艺考很富余",
+      "onboard_time": 1717838658,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213224,
@@ -9488,6 +9504,14 @@
       "word": "迪丽热巴公主唱山歌",
       "onboard_time": 1717650979,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205810,
+      "num": 205810,
+      "word": "登陆计划",
+      "onboard_time": 1717838237,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -10283,6 +10307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194927,
+      "num": 194927,
+      "word": "我才不要和你做朋友呢",
+      "onboard_time": 1717837457,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194567,
       "num": 185441,
       "word": "时代少年团看镜头",
@@ -10843,14 +10875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 186531,
-      "num": 186531,
-      "word": "我才不要和你做朋友呢",
-      "onboard_time": 1717837457,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186501,
       "num": 164129,
       "word": "肖战藏海反差感",
@@ -11073,6 +11097,14 @@
       "onboard_time": 1717660758,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182609,
+      "num": 182609,
+      "word": "高考英语作文",
+      "onboard_time": 1717839081,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 181991,
@@ -11763,14 +11795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171432,
-      "num": 171432,
-      "word": "登陆计划",
-      "onboard_time": 1717838237,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 171000,
       "num": 171000,
       "word": "全球现象级小说作者为中国大熊猫写书",
@@ -11833,6 +11857,14 @@
       "onboard_time": 1717568477,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169824,
+      "num": 320775,
+      "word": "高考前一天妈妈押中语文作文题",
+      "onboard_time": 1717838477,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169787,
@@ -12897,6 +12929,14 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154585,
+      "num": 154585,
+      "word": "王星越文有张遮武有萧蘅",
+      "onboard_time": 1717838779,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 154560,
@@ -17740,7 +17780,7 @@
     },
     {
       "raw_hot": 75855,
-      "num": 663548,
+      "num": 753745,
       "word": "这张海报很中国",
       "onboard_time": 1717808475,
       "rank": 9,
@@ -18531,6 +18571,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 55822,
+      "num": 309686,
+      "word": "大学生的愿望清单",
+      "onboard_time": 1717838178,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55316,
       "num": 55316,
       "word": "半夜被手麻醒怎么回事",
@@ -18716,7 +18764,7 @@
     },
     {
       "raw_hot": 51337,
-      "num": 342792,
+      "num": 346384,
       "word": "高考生被困家中消防员开锁又送考",
       "onboard_time": 1717837698,
       "rank": 9,
@@ -19193,14 +19241,6 @@
       "onboard_time": 1717685719,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 36156,
-      "num": 309686,
-      "word": "大学生的愿望清单",
-      "onboard_time": 1717838178,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35871,
@@ -19849,6 +19889,14 @@
       "onboard_time": 1717443671,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15841,
+      "num": 180656,
+      "word": "德国洪水",
+      "onboard_time": 1717838897,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15774,

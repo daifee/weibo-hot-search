@@ -1,10 +1,10 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717838437773,
+  "endTime": 1717839329308,
   "band_list": [
     {
-      "raw_hot": 4079507,
-      "num": 4079507,
+      "raw_hot": 7537134,
+      "num": 7537134,
       "word": "高考英语",
       "onboard_time": 1717836078,
       "rank": 0,
@@ -35,20 +35,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1602076,
+      "num": 1506996,
+      "word": "高考考到一半突然来例假了",
+      "onboard_time": 1717828457,
+      "rank": 35,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 1583915,
       "num": 1316268,
       "word": "赵露思 荨麻疹",
       "onboard_time": 1717808356,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1537374,
-      "num": 1506996,
-      "word": "高考考到一半突然来例假了",
-      "onboard_time": 1717828457,
-      "rank": 35,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 1491452,
@@ -179,6 +179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 775697,
+      "num": 775697,
+      "word": "高考日语",
+      "onboard_time": 1717836319,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 749736,
       "num": 749736,
       "word": "那英 请你们对我不要太苛刻",
@@ -193,6 +201,14 @@
       "onboard_time": 1717749858,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 735893,
+      "num": 735893,
+      "word": "多地高考结束",
+      "onboard_time": 1717837938,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 726860,
@@ -363,12 +379,12 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 528782,
-      "num": 528782,
-      "word": "高考日语",
-      "onboard_time": 1717836319,
-      "rank": 3,
-      "category": "教育"
+      "raw_hot": 530531,
+      "num": 530531,
+      "word": "今年高考最好笑的一个",
+      "onboard_time": 1717835058,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 528307,
@@ -377,6 +393,14 @@
       "onboard_time": 1717804395,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 524345,
+      "num": 524345,
+      "word": "新一卷英语 难",
+      "onboard_time": 1717838658,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 522711,
@@ -416,14 +440,6 @@
       "word": "网传头戴日本必胜布条者被游客殴打",
       "onboard_time": 1717833857,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 489679,
-      "num": 489679,
-      "word": "今年高考最好笑的一个",
-      "onboard_time": 1717835058,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434398,
+      "num": 220945,
+      "word": "女子花费518元雇体育生陪女儿爬泰山",
+      "onboard_time": 1717837096,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405290,
       "num": 405290,
       "word": "冰川老鼠",
@@ -537,14 +561,6 @@
       "onboard_time": 1717772420,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 394939,
-      "num": 214899,
-      "word": "女子花费518元雇体育生陪女儿爬泰山",
-      "onboard_time": 1717837096,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 393289,
@@ -659,11 +675,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 329428,
-      "num": 329428,
-      "word": "多地高考结束",
-      "onboard_time": 1717837938,
-      "rank": 13,
+      "raw_hot": 320707,
+      "num": 320707,
+      "word": "一牛蛙影响高考被抓",
+      "onboard_time": 1717837219,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -681,6 +697,14 @@
       "onboard_time": 1717825757,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 304659,
+      "num": 304659,
+      "word": "今年又帮李华了",
+      "onboard_time": 1717838178,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 304214,
@@ -835,14 +859,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 244006,
-      "num": 244006,
-      "word": "一牛蛙影响高考被抓",
-      "onboard_time": 1717837219,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242354,
       "num": 242354,
       "word": "官方通报18斤榴莲复秤仅8斤",
@@ -947,14 +963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 217207,
-      "num": 217207,
-      "word": "今年又帮李华了",
-      "onboard_time": 1717838178,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 216219,
       "num": 216219,
       "word": "墨雨云间簪花定情",
@@ -985,6 +993,14 @@
       "onboard_time": 1717825938,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213391,
+      "num": 213391,
+      "word": "张若昀说高考分数对艺考很富余",
+      "onboard_time": 1717838658,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213224,
@@ -1032,6 +1048,14 @@
       "word": "陈赫比林更新先认出赵丽颖",
       "onboard_time": 1717823058,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205810,
+      "num": 205810,
+      "word": "登陆计划",
+      "onboard_time": 1717838237,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1131,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194927,
+      "num": 194927,
+      "word": "我才不要和你做朋友呢",
+      "onboard_time": 1717837457,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194484,
       "num": 194484,
       "word": "在一起七年男朋友家一直不提亲",
@@ -1203,20 +1235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186531,
-      "num": 186531,
-      "word": "我才不要和你做朋友呢",
-      "onboard_time": 1717837457,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 184535,
       "num": 184535,
       "word": "那英第二",
       "onboard_time": 1717771221,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182609,
+      "num": 182609,
+      "word": "高考英语作文",
+      "onboard_time": 1717839081,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 179091,
@@ -1283,14 +1315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171432,
-      "num": 171432,
-      "word": "登陆计划",
-      "onboard_time": 1717838237,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 170848,
       "num": 170848,
       "word": "湖南历史 选择题",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1717827198,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169824,
+      "num": 320775,
+      "word": "高考前一天妈妈押中语文作文题",
+      "onboard_time": 1717838477,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169786,
@@ -1431,6 +1463,14 @@
       "num": 155351,
       "word": "谁家cp在牢里过生日",
       "onboard_time": 1717837578,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154585,
+      "num": 154585,
+      "word": "王星越文有张遮武有萧蘅",
+      "onboard_time": 1717838779,
       "rank": 33,
       "category": "剧集"
     },
@@ -2052,7 +2092,7 @@
     },
     {
       "raw_hot": 75855,
-      "num": 663548,
+      "num": 753745,
       "word": "这张海报很中国",
       "onboard_time": 1717808475,
       "rank": 9,
@@ -2203,6 +2243,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 55822,
+      "num": 309686,
+      "word": "大学生的愿望清单",
+      "onboard_time": 1717838178,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55219,
       "num": 55219,
       "word": "宋佳真空V领",
@@ -2244,7 +2292,7 @@
     },
     {
       "raw_hot": 51337,
-      "num": 342792,
+      "num": 346384,
       "word": "高考生被困家中消防员开锁又送考",
       "onboard_time": 1717837698,
       "rank": 9,
@@ -2304,14 +2352,6 @@
       "word": "中华文化传承发展新华章",
       "onboard_time": 1717770623,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36156,
-      "num": 309686,
-      "word": "大学生的愿望清单",
-      "onboard_time": 1717838178,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2385,6 +2425,14 @@
       "onboard_time": 1717769902,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 15841,
+      "num": 180656,
+      "word": "德国洪水",
+      "onboard_time": 1717838897,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12053,
