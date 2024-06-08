@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717821373726,
+  "endTime": 1717823887365,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -643,6 +643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1491452,
+      "num": 880394,
+      "word": "甲卷文综 逐梦大专",
+      "onboard_time": 1717821319,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1490545,
       "num": 1490545,
       "word": "孕妇坠崖案当事人再为人母",
@@ -1225,6 +1233,14 @@
       "onboard_time": 1717486817,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1122556,
+      "num": 873423,
+      "word": "刘亦菲至今没结婚的原因",
+      "onboard_time": 1717822637,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1116584,
@@ -2627,6 +2643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 684866,
+      "num": 684866,
+      "word": "精卫好牛",
+      "onboard_time": 1717821738,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681546,
       "num": 681546,
       "word": "胡先煦喝醉后满世界找WiFi",
@@ -3899,6 +3923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 527606,
+      "num": 527606,
+      "word": "Nobody好看",
+      "onboard_time": 1717822277,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 526564,
       "num": 209902,
       "word": "顾客在奶茶里喝出整只壁虎",
@@ -4387,6 +4419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 486651,
+      "num": 486651,
+      "word": "甲卷理综已老实",
+      "onboard_time": 1717821377,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 485825,
       "num": 485825,
       "word": "加沙儿童六一得到的不是礼物而是轰炸",
@@ -4689,6 +4729,14 @@
       "onboard_time": 1717276451,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 457140,
+      "num": 457140,
+      "word": "墨雨云间加更",
+      "onboard_time": 1717820539,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 457120,
@@ -7403,6 +7451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294896,
+      "num": 294896,
+      "word": "考生睡过头民警排查酒店逐房找人",
+      "onboard_time": 1717822098,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 294590,
       "num": 258468,
       "word": "水果要便宜了",
@@ -7667,14 +7723,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 284627,
-      "num": 284627,
-      "word": "墨雨云间加更",
-      "onboard_time": 1717820539,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284425,
       "num": 284425,
       "word": "鸣潮",
@@ -7689,6 +7737,14 @@
       "onboard_time": 1717198215,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284297,
+      "num": 193655,
+      "word": "月经血主要来源是什么",
+      "onboard_time": 1717823180,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 283755,
@@ -7985,6 +8041,14 @@
       "onboard_time": 1717389802,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272301,
+      "num": 272301,
+      "word": "弟弟高考后准备要求花5万",
+      "onboard_time": 1717823119,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 272283,
@@ -8760,6 +8824,14 @@
       "word": "美股",
       "onboard_time": 1717426219,
       "rank": 24,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 245784,
+      "num": 245784,
+      "word": "农发行通报",
+      "onboard_time": 1717821979,
+      "rank": 23,
       "category": "财经"
     },
     {
@@ -11043,6 +11115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197559,
+      "num": 197559,
+      "word": "陈赫比林更新先认出赵丽颖",
+      "onboard_time": 1717823058,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197557,
       "num": 197557,
       "word": "加拿大至少9人疑因神秘脑部疾病死亡",
@@ -12875,6 +12955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171576,
+      "num": 171576,
+      "word": "丁程鑫别挡高圆圆泼秦霄贤",
+      "onboard_time": 1717822159,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171517,
       "num": 1325960,
       "word": "不管几岁快乐万岁",
@@ -13457,6 +13545,14 @@
       "onboard_time": 1717807877,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163293,
+      "num": 163293,
+      "word": "庄达菲 父母爱情顶凉柱",
+      "onboard_time": 1717822518,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 163276,
@@ -14403,6 +14499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151584,
+      "num": 214554,
+      "word": "英国最富单身汉大婚",
+      "onboard_time": 1717820779,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151472,
       "num": 151472,
       "word": "四川阿坝4.2级地震",
@@ -14465,6 +14569,14 @@
       "onboard_time": 1717239678,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 151183,
+      "num": 151183,
+      "word": "张耀在墨雨云间演白月光",
+      "onboard_time": 1717823299,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 151130,
@@ -15161,14 +15273,6 @@
       "onboard_time": 1717314617,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143299,
-      "num": 143299,
-      "word": "甲卷文综 逐梦大专",
-      "onboard_time": 1717821319,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 143147,
@@ -16507,6 +16611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126786,
+      "num": 126786,
+      "word": "最羡慕徐志胜的一集",
+      "onboard_time": 1717821858,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126723,
       "num": 126723,
       "word": "韩素希新木优子合照",
@@ -16819,6 +16931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123716,
+      "num": 123716,
+      "word": "英语求放过",
+      "onboard_time": 1717822877,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123529,
       "num": 278097,
       "word": "你最想对小时候的自己说什么",
@@ -17041,6 +17161,14 @@
       "onboard_time": 1717244236,
       "rank": 9,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 120572,
+      "num": 120572,
+      "word": "原来高考换答题卡旧的会被收走",
+      "onboard_time": 1717821559,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 120505,
@@ -20571,11 +20699,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 49707,
-      "num": 214554,
-      "word": "英国最富单身汉大婚",
-      "onboard_time": 1717820779,
-      "rank": 29,
+      "raw_hot": 49705,
+      "num": 1403944,
+      "word": "文化遗址里的中国故事",
+      "onboard_time": 1717298238,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -20633,14 +20761,6 @@
       "onboard_time": 1717542194,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48166,
-      "num": 1403944,
-      "word": "文化遗址里的中国故事",
-      "onboard_time": 1717298238,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48095,
@@ -20940,7 +21060,7 @@
     },
     {
       "raw_hot": 39109,
-      "num": 570297,
+      "num": 579612,
       "word": "给2024高考生最好的加油",
       "onboard_time": 1717819819,
       "rank": 26,
@@ -21275,6 +21395,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 31168,
+      "num": 193882,
+      "word": "日本一神社禁止韩国人入内",
+      "onboard_time": 1717823597,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31014,
       "num": 217213,
       "word": "解析2024高考语文",
@@ -21353,6 +21481,14 @@
       "onboard_time": 1717683920,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29631,
+      "num": 588199,
+      "word": "别让我们的随意成为它们的伤痛",
+      "onboard_time": 1717823119,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29418,

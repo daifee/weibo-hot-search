@@ -1,0 +1,410 @@
+{
+  "runTime": 1717823887365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1255688,
+        "num": 1255688,
+        "word": "高考物理",
+        "onboard_time": 1717814118,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 893004,
+        "num": 893004,
+        "word": "昨夜金价大跌",
+        "onboard_time": 1717811537,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 49705,
+        "num": 891160,
+        "word": "文化遗址里的中国故事",
+        "onboard_time": 1717818799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1491452,
+        "num": 880394,
+        "word": "甲卷文综 逐梦大专",
+        "onboard_time": 1717821319,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1122556,
+        "num": 873423,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 963495,
+        "num": 866360,
+        "word": "赵露思 荨麻疹",
+        "onboard_time": 1717808356,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860576,
+        "num": 860576,
+        "word": "央视曝光鼓浪屿宰客一条龙",
+        "onboard_time": 1717815078,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684866,
+        "num": 684866,
+        "word": "精卫好牛",
+        "onboard_time": 1717821738,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 611482,
+        "num": 611482,
+        "word": "王星越年龄遭质疑",
+        "onboard_time": 1717815438,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29631,
+        "num": 588199,
+        "word": "别让我们的随意成为它们的伤痛",
+        "onboard_time": 1717823119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33447,
+        "num": 579612,
+        "word": "给2024高考生最好的加油",
+        "onboard_time": 1717819819,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 578989,
+        "num": 578989,
+        "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
+        "onboard_time": 1717813756,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 527606,
+        "num": 527606,
+        "word": "Nobody好看",
+        "onboard_time": 1717822277,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486651,
+        "num": 486651,
+        "word": "甲卷理综已老实",
+        "onboard_time": 1717821377,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 457140,
+        "num": 457140,
+        "word": "墨雨云间加更",
+        "onboard_time": 1717820539,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345043,
+        "num": 345043,
+        "word": "联合国将以军列入全球侵犯儿童罪犯名单",
+        "onboard_time": 1717815799,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 294896,
+        "num": 294896,
+        "word": "考生睡过头民警排查酒店逐房找人",
+        "onboard_time": 1717822098,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 284088,
+        "num": 284088,
+        "word": "优酷试图让刘亦菲打败自己",
+        "onboard_time": 1717815858,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279646,
+        "num": 279646,
+        "word": "徐海乔超爱",
+        "onboard_time": 1717819937,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272301,
+        "num": 272301,
+        "word": "弟弟高考后准备要求花5万",
+        "onboard_time": 1717823119,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 527978,
+        "num": 261920,
+        "word": "27岁到30岁才是最难熬的",
+        "onboard_time": 1717817298,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 451980,
+        "num": 260618,
+        "word": "马上大三妈妈突然告诉我她怀孕了",
+        "onboard_time": 1717813937,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250990,
+        "num": 250990,
+        "word": "高考历史",
+        "onboard_time": 1717814118,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 245784,
+        "num": 245784,
+        "word": "农发行通报",
+        "onboard_time": 1717821979,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231285,
+        "num": 231285,
+        "word": "福建地震",
+        "onboard_time": 1717817179,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217581,
+        "num": 217581,
+        "word": "感觉陈楚生要开始发电报了",
+        "onboard_time": 1717817837,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203376,
+        "num": 203376,
+        "word": "前儿媳实名举报公公有巨额不明财产",
+        "onboard_time": 1717801874,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198425,
+        "num": 198425,
+        "word": "中方禁止菲律宾向坐滩军舰运送建筑材料",
+        "onboard_time": 1717819577,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197559,
+        "num": 197559,
+        "word": "陈赫比林更新先认出赵丽颖",
+        "onboard_time": 1717823058,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31168,
+        "num": 193882,
+        "word": "日本一神社禁止韩国人入内",
+        "onboard_time": 1717823597,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284297,
+        "num": 193655,
+        "word": "月经血主要来源是什么",
+        "onboard_time": 1717823180,
+        "rank": 30,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 192262,
+        "num": 192262,
+        "word": "那英你是真饿了",
+        "onboard_time": 1717820001,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177168,
+        "num": 177168,
+        "word": "高考理综",
+        "onboard_time": 1717818439,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175095,
+        "num": 175095,
+        "word": "原湖北仙桃市委副书记坠亡",
+        "onboard_time": 1717809257,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174304,
+        "num": 174304,
+        "word": "读研两年谈了四个对象",
+        "onboard_time": 1717812677,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171576,
+        "num": 171576,
+        "word": "丁程鑫别挡高圆圆泼秦霄贤",
+        "onboard_time": 1717822159,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166777,
+        "num": 166777,
+        "word": "高考文综",
+        "onboard_time": 1717819158,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166621,
+        "num": 166621,
+        "word": "徐海乔为刘亦菲新剧宣传",
+        "onboard_time": 1717816519,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163293,
+        "num": 163293,
+        "word": "庄达菲 父母爱情顶凉柱",
+        "onboard_time": 1717822518,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157837,
+        "num": 157837,
+        "word": "麻烦一下高考第一个出考场的考生",
+        "onboard_time": 1717819757,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157818,
+        "num": 157818,
+        "word": "王一博巴黎街边吃冰淇淋",
+        "onboard_time": 1717809618,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155876,
+        "num": 155876,
+        "word": "墨雨云间",
+        "onboard_time": 1717803436,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151584,
+        "num": 151584,
+        "word": "英国最富单身汉大婚",
+        "onboard_time": 1717820779,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151183,
+        "num": 151183,
+        "word": "张耀在墨雨云间演白月光",
+        "onboard_time": 1717823299,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133964,
+        "num": 133964,
+        "word": "广东物理助我上大专",
+        "onboard_time": 1717814658,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126786,
+        "num": 126786,
+        "word": "最羡慕徐志胜的一集",
+        "onboard_time": 1717821858,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123716,
+        "num": 123716,
+        "word": "英语求放过",
+        "onboard_time": 1717822877,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122740,
+        "num": 122740,
+        "word": "那英 请你们对我不要太苛刻",
+        "onboard_time": 1717807817,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122708,
+        "num": 122708,
+        "word": "萧山第二美女",
+        "onboard_time": 1717819338,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120572,
+        "num": 120572,
+        "word": "原来高考换答题卡旧的会被收走",
+        "onboard_time": 1717821559,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
