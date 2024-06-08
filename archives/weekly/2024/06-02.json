@@ -1,6 +1,6 @@
 {
   "startTime": 1717258893961,
-  "endTime": 1717827882341,
+  "endTime": 1717828637582,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1219,6 +1219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1083275,
+      "num": 1083275,
+      "word": "质疑丫头 理解丫头",
+      "onboard_time": 1717826297,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1081268,
       "num": 419119,
       "word": "张钰琪揭榜成功",
@@ -2324,7 +2332,7 @@
     },
     {
       "raw_hot": 688891,
-      "num": 260501,
+      "num": 271708,
       "word": "月经血主要来源是什么",
       "onboard_time": 1717823180,
       "rank": 30,
@@ -2489,14 +2497,6 @@
       "onboard_time": 1717572437,
       "rank": 26,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 665202,
-      "num": 665202,
-      "word": "质疑丫头 理解丫头",
-      "onboard_time": 1717826297,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 663803,
@@ -2881,6 +2881,14 @@
       "onboard_time": 1717559719,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 605432,
+      "num": 453126,
+      "word": "伊能静 我爱的女孩终于长成玫瑰",
+      "onboard_time": 1717827078,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 604499,
@@ -3984,6 +3992,14 @@
       "word": "你好from the other side",
       "onboard_time": 1717769843,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 480180,
+      "num": 434444,
+      "word": "华晨宇凡希亚飙高音",
+      "onboard_time": 1717826718,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -5299,14 +5315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375254,
-      "num": 212119,
-      "word": "华晨宇凡希亚飙高音",
-      "onboard_time": 1717826718,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 375176,
       "num": 375176,
       "word": "歌手2024",
@@ -5705,14 +5713,6 @@
       "onboard_time": 1717683981,
       "rank": 17,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 350616,
-      "num": 350616,
-      "word": "伊能静 我爱的女孩终于长成玫瑰",
-      "onboard_time": 1717827078,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 348557,
@@ -6305,6 +6305,14 @@
       "onboard_time": 1717648879,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 308573,
+      "num": 308573,
+      "word": "刘亦菲回复徐海乔",
+      "onboard_time": 1717828338,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 308420,
@@ -7851,6 +7859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242910,
+      "num": 275623,
+      "word": "日本一神社禁止韩国人入内",
+      "onboard_time": 1717823597,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242618,
       "num": 165029,
       "word": "女装上衣像童装裤子却越做越长",
@@ -8113,6 +8129,14 @@
       "onboard_time": 1717742837,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233764,
+      "num": 233764,
+      "word": "原来狗狗老了面相真的很明显",
+      "onboard_time": 1717826658,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 233671,
@@ -8467,6 +8491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223069,
+      "num": 223069,
+      "word": "横店演员在看墨雨云间",
+      "onboard_time": 1717828157,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222999,
       "num": 205961,
       "word": "专家点评高考语文试题",
@@ -8739,14 +8771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 216651,
-      "num": 208119,
-      "word": "原来狗狗老了面相真的很明显",
-      "onboard_time": 1717826658,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216578,
       "num": 210416,
       "word": "辛芷蕾脚底板也黑了",
@@ -8843,12 +8867,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 213472,
-      "num": 213472,
-      "word": "日本一神社禁止韩国人入内",
-      "onboard_time": 1717823597,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 213830,
+      "num": 213830,
+      "word": "徐海乔用的是刘亦菲的图",
+      "onboard_time": 1717825938,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 213224,
@@ -8897,6 +8921,14 @@
       "onboard_time": 1717385297,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210832,
+      "num": 271966,
+      "word": "警方通报小米SU7事故",
+      "onboard_time": 1717828277,
+      "rank": 19,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 210799,
@@ -9096,14 +9128,6 @@
       "word": "狐妖月红篇陈都灵出场",
       "onboard_time": 1717737381,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 208674,
-      "num": 207322,
-      "word": "徐海乔用的是刘亦菲的图",
-      "onboard_time": 1717825938,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -10276,7 +10300,7 @@
     },
     {
       "raw_hot": 190757,
-      "num": 160569,
+      "num": 173195,
       "word": "郑妮可可爱",
       "onboard_time": 1717827557,
       "rank": 30,
@@ -12219,6 +12243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158936,
+      "num": 158936,
+      "word": "印度教练称国乒害怕颗粒打法",
+      "onboard_time": 1717826118,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158889,
       "num": 158889,
       "word": "黄曦彦 跑男",
@@ -12241,14 +12273,6 @@
       "onboard_time": 1717332198,
       "rank": 49,
       "category": "动漫,体育"
-    },
-    {
-      "raw_hot": 158510,
-      "num": 158510,
-      "word": "印度教练称国乒害怕颗粒打法",
-      "onboard_time": 1717826118,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 158453,
@@ -12873,6 +12897,14 @@
       "onboard_time": 1717513698,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 150578,
+      "num": 150578,
+      "word": "高考考到一半突然来例假了",
+      "onboard_time": 1717828457,
+      "rank": 35,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 150442,
@@ -13617,6 +13649,14 @@
       "onboard_time": 1717688537,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140662,
+      "num": 140662,
+      "word": "高考最犯难的科目",
+      "onboard_time": 1717828038,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 140599,
@@ -14571,6 +14611,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127201,
+      "num": 127201,
+      "word": "袁娅维是歌手后采特邀嘉宾吧",
+      "onboard_time": 1717828098,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 127180,
+      "num": 127180,
+      "word": "星穹铁道三月七",
+      "onboard_time": 1717828038,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127157,
       "num": 516991,
       "word": "20元的面他付了200元还坚持不让退",
@@ -15265,6 +15321,14 @@
       "onboard_time": 1717471277,
       "rank": 45,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 118938,
+      "num": 118938,
+      "word": "小米SU7事故系司机操作不当",
+      "onboard_time": 1717828457,
+      "rank": 48,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 118935,
@@ -15993,6 +16057,14 @@
       "onboard_time": 1717639338,
       "rank": 49,
       "category": "互联网,教育"
+    },
+    {
+      "raw_hot": 108610,
+      "num": 108610,
+      "word": "张玉宁打封闭出征韩国",
+      "onboard_time": 1717828277,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108573,
@@ -17171,6 +17243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76672,
+      "num": 460810,
+      "word": "有关高考的独家记忆",
+      "onboard_time": 1717826420,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 76636,
       "num": 76636,
       "word": "原来高铁还有低人一等座",
@@ -17931,6 +18011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56885,
+      "num": 440216,
+      "word": "民警30分钟往返40公里送准考证",
+      "onboard_time": 1717828219,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 56761,
       "num": 153235,
       "word": "中石化回应八大油田上架淘宝",
@@ -18091,6 +18179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52442,
+      "num": 174852,
+      "word": "张桂梅累到睡着让人心疼",
+      "onboard_time": 1717824918,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 52427,
       "num": 52427,
       "word": "从一个猫的身上看到了气质",
@@ -18153,14 +18249,6 @@
       "onboard_time": 1717801512,
       "rank": 9,
       "category": "社会正能量,教育"
-    },
-    {
-      "raw_hot": 51398,
-      "num": 161136,
-      "word": "张桂梅累到睡着让人心疼",
-      "onboard_time": 1717824918,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 51349,
@@ -18417,14 +18505,6 @@
       "onboard_time": 1717300397,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42018,
-      "num": 460810,
-      "word": "有关高考的独家记忆",
-      "onboard_time": 1717826420,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 41535,

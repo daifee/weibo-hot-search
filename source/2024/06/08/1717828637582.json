@@ -1,0 +1,410 @@
+{
+  "runTime": 1717828637582,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1083275,
+        "num": 1083275,
+        "word": "质疑丫头 理解丫头",
+        "onboard_time": 1717826297,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477648,
+        "num": 477648,
+        "word": "昨夜金价大跌",
+        "onboard_time": 1717811537,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41694,
+        "num": 477003,
+        "word": "文化遗址里的中国故事",
+        "onboard_time": 1717818799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364696,
+        "num": 469674,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1102491,
+        "num": 466622,
+        "word": "弟弟高考后准备要求花5万",
+        "onboard_time": 1717823119,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 622442,
+        "num": 458277,
+        "word": "甲卷文综 逐梦大专",
+        "onboard_time": 1717821319,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 605432,
+        "num": 453126,
+        "word": "伊能静 我爱的女孩终于长成玫瑰",
+        "onboard_time": 1717827078,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586797,
+        "num": 448500,
+        "word": "赵露思 荨麻疹",
+        "onboard_time": 1717808356,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398430,
+        "num": 443746,
+        "word": "央视曝光鼓浪屿宰客一条龙",
+        "onboard_time": 1717815078,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56885,
+        "num": 440216,
+        "word": "民警30分钟往返40公里送准考证",
+        "onboard_time": 1717828219,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 480180,
+        "num": 434444,
+        "word": "华晨宇凡希亚飙高音",
+        "onboard_time": 1717826718,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429833,
+        "num": 429833,
+        "word": "高考物理",
+        "onboard_time": 1717814118,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 398635,
+        "num": 398635,
+        "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
+        "onboard_time": 1717813756,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 394181,
+        "num": 394181,
+        "word": "Nobody好看",
+        "onboard_time": 1717822277,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340112,
+        "num": 340112,
+        "word": "27岁到30岁才是最难熬的",
+        "onboard_time": 1717817298,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 308573,
+        "num": 308573,
+        "word": "刘亦菲回复徐海乔",
+        "onboard_time": 1717828338,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300302,
+        "num": 300302,
+        "word": "墨雨云间加更",
+        "onboard_time": 1717820539,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286746,
+        "num": 286746,
+        "word": "为啥运高考试卷用步枪押送现金用霰弹枪",
+        "onboard_time": 1717825757,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 242910,
+        "num": 275623,
+        "word": "日本一神社禁止韩国人入内",
+        "onboard_time": 1717823597,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210832,
+        "num": 271966,
+        "word": "警方通报小米SU7事故",
+        "onboard_time": 1717828277,
+        "rank": 19,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 633985,
+        "num": 271708,
+        "word": "月经血主要来源是什么",
+        "onboard_time": 1717823180,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 270550,
+        "num": 270550,
+        "word": "林更新说杨幂是女神",
+        "onboard_time": 1717824138,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246043,
+        "num": 246043,
+        "word": "精卫好牛",
+        "onboard_time": 1717821738,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237689,
+        "num": 237689,
+        "word": "马上大三妈妈突然告诉我她怀孕了",
+        "onboard_time": 1717813937,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233764,
+        "num": 233764,
+        "word": "原来狗狗老了面相真的很明显",
+        "onboard_time": 1717826658,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223069,
+        "num": 223069,
+        "word": "横店演员在看墨雨云间",
+        "onboard_time": 1717828157,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213830,
+        "num": 213830,
+        "word": "徐海乔用的是刘亦菲的图",
+        "onboard_time": 1717825938,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213690,
+        "num": 213690,
+        "word": "王星越年龄遭质疑",
+        "onboard_time": 1717815438,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182073,
+        "num": 182073,
+        "word": "考生睡过头民警排查酒店逐房找人",
+        "onboard_time": 1717822098,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 52442,
+        "num": 174852,
+        "word": "张桂梅累到睡着让人心疼",
+        "onboard_time": 1717824918,
+        "rank": 29,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 188899,
+        "num": 173195,
+        "word": "郑妮可可爱",
+        "onboard_time": 1717827557,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171170,
+        "num": 171170,
+        "word": "农发行通报",
+        "onboard_time": 1717821979,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159185,
+        "num": 159185,
+        "word": "甲卷理综已老实",
+        "onboard_time": 1717821377,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158936,
+        "num": 158936,
+        "word": "印度教练称国乒害怕颗粒打法",
+        "onboard_time": 1717826118,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156138,
+        "num": 156138,
+        "word": "邓超陈赫让另一半来五哈",
+        "onboard_time": 1717827198,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150578,
+        "num": 150578,
+        "word": "高考考到一半突然来例假了",
+        "onboard_time": 1717828457,
+        "rank": 35,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 143370,
+        "num": 143370,
+        "word": "徐海乔超爱",
+        "onboard_time": 1717819937,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140662,
+        "num": 140662,
+        "word": "高考最犯难的科目",
+        "onboard_time": 1717828038,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129796,
+        "num": 129796,
+        "word": "山东今天上午没有考试",
+        "onboard_time": 1717824977,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138890,
+        "num": 129162,
+        "word": "陈赫比林更新先认出赵丽颖",
+        "onboard_time": 1717823058,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127778,
+        "num": 127778,
+        "word": "陪室友看考研房结果要我平摊车费",
+        "onboard_time": 1717823957,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127493,
+        "num": 127493,
+        "word": "王霏霏舞台",
+        "onboard_time": 1717824858,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126943,
+        "num": 127247,
+        "word": "花小龙",
+        "onboard_time": 1717824677,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127201,
+        "num": 127201,
+        "word": "袁娅维是歌手后采特邀嘉宾吧",
+        "onboard_time": 1717828098,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127180,
+        "num": 127180,
+        "word": "星穹铁道三月七",
+        "onboard_time": 1717828038,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 76672,
+        "num": 126592,
+        "word": "有关高考的独家记忆",
+        "onboard_time": 1717826420,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126294,
+        "num": 126294,
+        "word": "陈昊宇直拍",
+        "onboard_time": 1717826237,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120981,
+        "num": 120981,
+        "word": "墨雨云间",
+        "onboard_time": 1717803436,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118938,
+        "num": 118938,
+        "word": "小米SU7事故系司机操作不当",
+        "onboard_time": 1717828457,
+        "rank": 48,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 108610,
+        "num": 108610,
+        "word": "张玉宁打封闭出征韩国",
+        "onboard_time": 1717828277,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理夏巴兹#"
+    }
+  }
+}
