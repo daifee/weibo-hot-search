@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717803284312,
+  "endTime": 1717809564970,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -609,6 +609,14 @@
       "onboard_time": 1717233377,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1490918,
+      "num": 387821,
+      "word": "赵露思 荨麻疹",
+      "onboard_time": 1717808356,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1490545,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1717632858,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1095338,
+      "num": 1095338,
+      "word": "前儿媳实名举报公公有巨额不明财产",
+      "onboard_time": 1717801874,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1089979,
@@ -2811,6 +2827,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 650723,
+      "num": 306434,
+      "word": "大学生要尽快学会打扮",
+      "onboard_time": 1717805957,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 650034,
       "num": 450451,
       "word": "用95元吃了10个菜一碗面",
@@ -2937,6 +2961,14 @@
       "onboard_time": 1717583059,
       "rank": 25,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 621509,
+      "num": 223895,
+      "word": "因为没去参加高考被爸爸骂了",
+      "onboard_time": 1717804575,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 620512,
@@ -3219,6 +3251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 589335,
+      "num": 589335,
+      "word": "王心凌听到汪苏泷让她上歌手的反应",
+      "onboard_time": 1717803555,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589199,
       "num": 589199,
       "word": "再也不敢买开口榴莲了",
@@ -3345,14 +3385,6 @@
       "onboard_time": 1717658118,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 575262,
-      "num": 575262,
-      "word": "前儿媳实名举报公公有巨额不明财产",
-      "onboard_time": 1717801874,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 575186,
@@ -3697,6 +3729,14 @@
       "onboard_time": 1717464438,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 528307,
+      "num": 221123,
+      "word": "月薪六千的闺蜜一个月能存三千",
+      "onboard_time": 1717804395,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 528183,
@@ -4344,6 +4384,14 @@
       "word": "北京8兄妹因搬迁争夺宅基地",
       "onboard_time": 1717448892,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 469532,
+      "num": 339869,
+      "word": "那英 请你们对我不要太苛刻",
+      "onboard_time": 1717807817,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -5883,6 +5931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359597,
+      "num": 359597,
+      "word": "黑神话悟空",
+      "onboard_time": 1717806796,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 359278,
       "num": 332876,
       "word": "王星越问导演可以直接亲上去吗",
@@ -6225,6 +6281,22 @@
       "onboard_time": 1717295177,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342781,
+      "num": 342781,
+      "word": "丹麦首相遭一男子殴打",
+      "onboard_time": 1717806137,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 342211,
+      "num": 305935,
+      "word": "张钰琪唱了十年才22岁",
+      "onboard_time": 1717803675,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 341372,
@@ -6899,6 +6971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304214,
+      "num": 304214,
+      "word": "端午遇高考一定会考好",
+      "onboard_time": 1717802715,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 304041,
       "num": 304041,
       "word": "原神",
@@ -6937,6 +7017,14 @@
       "onboard_time": 1717289656,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 302297,
+      "num": 302297,
+      "word": "伤者亲友回应小米SU7冲撞行人事件",
+      "onboard_time": 1717806496,
+      "rank": 13,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 302211,
@@ -7803,6 +7891,14 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 267394,
+      "num": 267394,
+      "word": "沈梦辰主持",
+      "onboard_time": 1717806076,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267239,
       "num": 267239,
       "word": "2幼童玩滑梯一人被踹倒坠落骨折",
@@ -7849,6 +7945,14 @@
       "onboard_time": 1717592539,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266108,
+      "num": 217255,
+      "word": "25岁在出租屋躺了两年",
+      "onboard_time": 1717802174,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 265587,
@@ -8203,6 +8307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252981,
+      "num": 252981,
+      "word": "小米SU7事故重伤者将转院治疗",
+      "onboard_time": 1717808718,
+      "rank": 17,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 252722,
       "num": 212336,
       "word": "泽连斯基停职多名亲美高官",
@@ -8297,6 +8409,14 @@
       "onboard_time": 1717392139,
       "rank": 26,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 250039,
+      "num": 162915,
+      "word": "原湖北仙桃市委副书记坠亡",
+      "onboard_time": 1717809257,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249162,
@@ -8625,6 +8745,14 @@
       "onboard_time": 1717308138,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236331,
+      "num": 236331,
+      "word": "人家秋雅结婚你在这又唱又跳的",
+      "onboard_time": 1717807755,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 236075,
@@ -9523,6 +9651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 212098,
+      "num": 212098,
+      "word": "名下五套房想签婚前协议有错吗",
+      "onboard_time": 1717801755,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211982,
       "num": 410653,
       "word": "玄武岩织成的国旗只有11.3克",
@@ -9792,14 +9928,6 @@
       "word": "不上班如何实现财富自由",
       "onboard_time": 1717376119,
       "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 207632,
-      "num": 105072,
-      "word": "25岁在出租屋躺了两年",
-      "onboard_time": 1717802174,
-      "rank": 24,
       "category": "情感"
     },
     {
@@ -10145,6 +10273,14 @@
       "onboard_time": 1717254979,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202623,
+      "num": 202623,
+      "word": "男朋友想开我的车回家一个月",
+      "onboard_time": 1717805656,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 202381,
@@ -10737,6 +10873,14 @@
       "onboard_time": 1717751059,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195723,
+      "num": 195723,
+      "word": "警方回应两女子当街戏耍老人",
+      "onboard_time": 1717806916,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195690,
@@ -11393,6 +11537,14 @@
       "onboard_time": 1717305378,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 186181,
+      "num": 186181,
+      "word": "在一起七年男朋友家一直不提亲",
+      "onboard_time": 1717807697,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 186157,
@@ -12883,6 +13035,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163510,
+      "num": 163510,
+      "word": "张钰琪是胡海泉的学生",
+      "onboard_time": 1717807877,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163276,
       "num": 163276,
       "word": "初恋一响青春登场",
@@ -12969,6 +13129,14 @@
       "onboard_time": 1717423820,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162253,
+      "num": 162253,
+      "word": "因为端午提前发了工资",
+      "onboard_time": 1717802115,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 162082,
@@ -13411,12 +13579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156114,
-      "num": 104459,
-      "word": "名下五套房想签婚前协议有错吗",
-      "onboard_time": 1717801755,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 156119,
+      "num": 156119,
+      "word": "这些地方高考查分时间已公布",
+      "onboard_time": 1717809198,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 155990,
@@ -13801,6 +13969,14 @@
       "onboard_time": 1717766485,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151413,
+      "num": 151413,
+      "word": "原来动画片真的没有骗我",
+      "onboard_time": 1717802174,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 151352,
@@ -14691,14 +14867,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 140977,
-      "num": 103350,
-      "word": "因为端午提前发了工资",
-      "onboard_time": 1717802115,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 140899,
       "num": 140899,
       "word": "明日方舟",
@@ -14745,6 +14913,14 @@
       "onboard_time": 1717413737,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140516,
+      "num": 140516,
+      "word": "美国选美比赛冠军外型引争议",
+      "onboard_time": 1717807037,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140382,
@@ -15475,6 +15651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131153,
+      "num": 131153,
+      "word": "耳帝说孙楠像在唱一首练声曲",
+      "onboard_time": 1717809018,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131091,
       "num": 131091,
       "word": "嫦娥六号上演月上之吻",
@@ -15585,6 +15769,14 @@
       "onboard_time": 1717656857,
       "rank": 45,
       "category": "科学科普,教育"
+    },
+    {
+      "raw_hot": 129803,
+      "num": 129803,
+      "word": "夏日游戏节2024",
+      "onboard_time": 1717809497,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 129574,
@@ -16577,6 +16769,14 @@
       "onboard_time": 1717573038,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 117605,
+      "num": 117605,
+      "word": "为什么机场里的店不会倒闭",
+      "onboard_time": 1717807877,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 117555,
@@ -17651,14 +17851,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 103510,
-      "num": 124311,
-      "word": "端午遇高考一定会考好",
-      "onboard_time": 1717802715,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 103131,
       "num": 103131,
       "word": "53岁大叔用AI备考研究生成功",
@@ -17825,6 +18017,14 @@
       "onboard_time": 1717585638,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100411,
+      "num": 100411,
+      "word": "东京食尸鬼 铃屋什造",
+      "onboard_time": 1717808057,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 100141,
@@ -18043,6 +18243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96726,
+      "num": 96726,
+      "word": "当发育不全的小猫看到好吃的",
+      "onboard_time": 1717807637,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96002,
       "num": 96002,
       "word": "大部分公司只想要平庸的员工",
@@ -18233,14 +18441,6 @@
       "onboard_time": 1717230917,
       "rank": 49,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 88021,
-      "num": 107463,
-      "word": "原来动画片真的没有骗我",
-      "onboard_time": 1717802174,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 87914,
@@ -18697,6 +18897,14 @@
       "onboard_time": 1717506978,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 75855,
+      "num": 308025,
+      "word": "这张海报很中国",
+      "onboard_time": 1717808475,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75356,
@@ -19972,7 +20180,7 @@
     },
     {
       "raw_hot": 43037,
-      "num": 309606,
+      "num": 400640,
       "word": "万千气象看北京",
       "onboard_time": 1717769963,
       "rank": 35,

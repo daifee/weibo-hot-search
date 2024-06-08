@@ -1,13 +1,29 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717803284312,
+  "endTime": 1717809564970,
   "band_list": [
+    {
+      "raw_hot": 1490918,
+      "num": 387821,
+      "word": "赵露思 荨麻疹",
+      "onboard_time": 1717808356,
+      "rank": 3,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1441447,
       "num": 1441447,
       "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
       "onboard_time": 1717770383,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1095338,
+      "num": 1095338,
+      "word": "前儿媳实名举报公公有巨额不明财产",
+      "onboard_time": 1717801874,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -51,6 +67,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 650723,
+      "num": 306434,
+      "word": "大学生要尽快学会打扮",
+      "onboard_time": 1717805957,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 621509,
+      "num": 223895,
+      "word": "因为没去参加高考被爸爸骂了",
+      "onboard_time": 1717804575,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 601809,
       "num": 284411,
       "word": "王一博要求黑粉公开道歉",
@@ -59,12 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 575262,
-      "num": 575262,
-      "word": "前儿媳实名举报公公有巨额不明财产",
-      "onboard_time": 1717801874,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 589335,
+      "num": 589335,
+      "word": "王心凌听到汪苏泷让她上歌手的反应",
+      "onboard_time": 1717803555,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528307,
+      "num": 221123,
+      "word": "月薪六千的闺蜜一个月能存三千",
+      "onboard_time": 1717804395,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 471981,
@@ -73,6 +113,14 @@
       "onboard_time": 1717760358,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469532,
+      "num": 339869,
+      "word": "那英 请你们对我不要太苛刻",
+      "onboard_time": 1717807817,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 451302,
@@ -131,6 +179,38 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359597,
+      "num": 359597,
+      "word": "黑神话悟空",
+      "onboard_time": 1717806796,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 358691,
+      "num": 338334,
+      "word": "何炅缺席",
+      "onboard_time": 1717762579,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 342781,
+      "num": 342781,
+      "word": "丹麦首相遭一男子殴打",
+      "onboard_time": 1717806137,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 342211,
+      "num": 305935,
+      "word": "张钰琪唱了十年才22岁",
+      "onboard_time": 1717803675,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341870,
       "num": 248679,
       "word": "汪苏泷 舒适圈",
@@ -139,20 +219,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 318959,
-      "num": 318959,
-      "word": "何炅缺席",
-      "onboard_time": 1717762579,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 289281,
-      "num": 289281,
+      "raw_hot": 332284,
+      "num": 332284,
       "word": "北大物理保送生考了唯一一门语文",
       "onboard_time": 1717764139,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 304214,
+      "num": 304214,
+      "word": "端午遇高考一定会考好",
+      "onboard_time": 1717802715,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 302297,
+      "num": 302297,
+      "word": "伤者亲友回应小米SU7冲撞行人事件",
+      "onboard_time": 1717806496,
+      "rank": 13,
+      "category": "汽车,社会新闻"
     },
     {
       "raw_hot": 289238,
@@ -179,12 +267,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267394,
+      "num": 267394,
+      "word": "沈梦辰主持",
+      "onboard_time": 1717806076,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 266108,
+      "num": 217255,
+      "word": "25岁在出租屋躺了两年",
+      "onboard_time": 1717802174,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 252981,
+      "num": 252981,
+      "word": "小米SU7事故重伤者将转院治疗",
+      "onboard_time": 1717808718,
+      "rank": 17,
+      "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 250039,
+      "num": 162915,
+      "word": "原湖北仙桃市委副书记坠亡",
+      "onboard_time": 1717809257,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248707,
       "num": 248707,
       "word": "一对日本母女在渡轮遭遇神隐",
       "onboard_time": 1717750519,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236331,
+      "num": 236331,
+      "word": "人家秋雅结婚你在这又唱又跳的",
+      "onboard_time": 1717807755,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 224771,
@@ -203,6 +331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212098,
+      "num": 212098,
+      "word": "名下五套房想签婚前协议有错吗",
+      "onboard_time": 1717801755,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210748,
       "num": 210748,
       "word": "汪峰奋不顾身 那英直接忘词",
@@ -211,12 +347,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207632,
-      "num": 105072,
-      "word": "25岁在出租屋躺了两年",
-      "onboard_time": 1717802174,
-      "rank": 24,
+      "raw_hot": 202623,
+      "num": 202623,
+      "word": "男朋友想开我的车回家一个月",
+      "onboard_time": 1717805656,
+      "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195723,
+      "num": 195723,
+      "word": "警方回应两女子当街戏耍老人",
+      "onboard_time": 1717806916,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187819,
@@ -233,6 +377,14 @@
       "onboard_time": 1717785132,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186181,
+      "num": 186181,
+      "word": "在一起七年男朋友家一直不提亲",
+      "onboard_time": 1717807697,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 184535,
@@ -267,6 +419,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163510,
+      "num": 163510,
+      "word": "张钰琪是胡海泉的学生",
+      "onboard_time": 1717807877,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 162253,
+      "num": 162253,
+      "word": "因为端午提前发了工资",
+      "onboard_time": 1717802115,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156614,
       "num": 279177,
       "word": "女子替过世6年小姨拥抱高考表弟",
@@ -275,12 +443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156114,
-      "num": 104459,
-      "word": "名下五套房想签婚前协议有错吗",
-      "onboard_time": 1717801755,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 156119,
+      "num": 156119,
+      "word": "这些地方高考查分时间已公布",
+      "onboard_time": 1717809198,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 151413,
+      "num": 151413,
+      "word": "原来动画片真的没有骗我",
+      "onboard_time": 1717802174,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 143766,
@@ -299,12 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140977,
-      "num": 103350,
-      "word": "因为端午提前发了工资",
-      "onboard_time": 1717802115,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 140516,
+      "num": 140516,
+      "word": "美国选美比赛冠军外型引争议",
+      "onboard_time": 1717807037,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137353,
@@ -315,12 +491,36 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 137146,
+      "num": 137146,
+      "word": "墨雨云间",
+      "onboard_time": 1717803436,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131166,
       "num": 121086,
       "word": "香缇莫唱hello",
       "onboard_time": 1717767984,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131153,
+      "num": 131153,
+      "word": "耳帝说孙楠像在唱一首练声曲",
+      "onboard_time": 1717809018,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129803,
+      "num": 129803,
+      "word": "夏日游戏节2024",
+      "onboard_time": 1717809497,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 123076,
@@ -355,6 +555,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118833,
+      "num": 118833,
+      "word": "高考",
+      "onboard_time": 1717805475,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 117605,
+      "num": 117605,
+      "word": "为什么机场里的店不会倒闭",
+      "onboard_time": 1717807877,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116904,
       "num": 116904,
       "word": "黄宣汪苏泷主持",
@@ -379,12 +595,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103510,
-      "num": 124311,
-      "word": "端午遇高考一定会考好",
-      "onboard_time": 1717802715,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 100411,
+      "num": 100411,
+      "word": "东京食尸鬼 铃屋什造",
+      "onboard_time": 1717808057,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 96726,
+      "num": 96726,
+      "word": "当发育不全的小猫看到好吃的",
+      "onboard_time": 1717807637,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 95928,
@@ -435,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88021,
-      "num": 107463,
-      "word": "原来动画片真的没有骗我",
-      "onboard_time": 1717802174,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83348,
       "num": 121257,
       "word": "男生高考数学估分140直呼太简单",
@@ -465,6 +681,14 @@
       "onboard_time": 1717795691,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75855,
+      "num": 308025,
+      "word": "这张海报很中国",
+      "onboard_time": 1717808475,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73130,
@@ -635,8 +859,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 28278,
-      "num": 309606,
+      "raw_hot": 31404,
+      "num": 400640,
       "word": "万千气象看北京",
       "onboard_time": 1717769963,
       "rank": 2,
