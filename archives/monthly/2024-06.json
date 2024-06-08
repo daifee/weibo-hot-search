@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717877897694,
+  "endTime": 1717878884911,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -24105,6 +24105,14 @@
       "onboard_time": 1717359490,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12764,
+      "num": 16081,
+      "word": "2024高考特写",
+      "onboard_time": 1717878371,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 12648,

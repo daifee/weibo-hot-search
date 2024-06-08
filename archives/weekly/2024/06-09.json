@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717877897694,
+  "endTime": 1717878884911,
   "band_list": [
     {
       "raw_hot": 1143590,
@@ -531,12 +531,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14554,
+      "num": 16076,
+      "word": "陈金飞 监制",
+      "onboard_time": 1717852099,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13728,
       "num": 135772,
       "word": "橘子摊老板街头请高考生吃橘子",
       "onboard_time": 1717865953,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12764,
+      "num": 16081,
+      "word": "2024高考特写",
+      "onboard_time": 1717878371,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 12283,
