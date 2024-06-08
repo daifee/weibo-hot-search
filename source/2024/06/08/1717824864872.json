@@ -1,0 +1,410 @@
+{
+  "runTime": 1717824864872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1066050,
+        "num": 1066050,
+        "word": "高考物理",
+        "onboard_time": 1717814118,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 895357,
+        "num": 895357,
+        "word": "昨夜金价大跌",
+        "onboard_time": 1717811537,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44091,
+        "num": 867045,
+        "word": "文化遗址里的中国故事",
+        "onboard_time": 1717818799,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1455282,
+        "num": 865151,
+        "word": "刘亦菲至今没结婚的原因",
+        "onboard_time": 1717822637,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1243126,
+        "num": 863672,
+        "word": "甲卷文综 逐梦大专",
+        "onboard_time": 1717821319,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 861459,
+        "num": 861459,
+        "word": "赵露思 荨麻疹",
+        "onboard_time": 1717808356,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722446,
+        "num": 722446,
+        "word": "央视曝光鼓浪屿宰客一条龙",
+        "onboard_time": 1717815078,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 590533,
+        "num": 590533,
+        "word": "精卫好牛",
+        "onboard_time": 1717821738,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564914,
+        "num": 564914,
+        "word": "Nobody好看",
+        "onboard_time": 1717822277,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44778,
+        "num": 535555,
+        "word": "别让我们的随意成为它们的伤痛",
+        "onboard_time": 1717823119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33862,
+        "num": 519239,
+        "word": "给2024高考生最好的加油",
+        "onboard_time": 1717819819,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 513172,
+        "num": 513172,
+        "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
+        "onboard_time": 1717813756,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 510940,
+        "num": 510940,
+        "word": "王星越年龄遭质疑",
+        "onboard_time": 1717815438,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502146,
+        "num": 502146,
+        "word": "弟弟高考后准备要求花5万",
+        "onboard_time": 1717823119,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 498756,
+        "num": 498756,
+        "word": "27岁到30岁才是最难熬的",
+        "onboard_time": 1717817298,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442417,
+        "num": 442417,
+        "word": "甲卷理综已老实",
+        "onboard_time": 1717821377,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 437497,
+        "num": 437497,
+        "word": "墨雨云间加更",
+        "onboard_time": 1717820539,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314628,
+        "num": 314628,
+        "word": "考生睡过头民警排查酒店逐房找人",
+        "onboard_time": 1717822098,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 293025,
+        "num": 293025,
+        "word": "徐海乔超爱",
+        "onboard_time": 1717819937,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 282194,
+        "num": 282194,
+        "word": "联合国将以军列入全球侵犯儿童罪犯名单",
+        "onboard_time": 1717815799,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 564994,
+        "num": 260501,
+        "word": "月经血主要来源是什么",
+        "onboard_time": 1717823180,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 379934,
+        "num": 250999,
+        "word": "马上大三妈妈突然告诉我她怀孕了",
+        "onboard_time": 1717813937,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236267,
+        "num": 236267,
+        "word": "农发行通报",
+        "onboard_time": 1717821979,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206830,
+        "num": 206830,
+        "word": "优酷试图让刘亦菲打败自己",
+        "onboard_time": 1717815858,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206321,
+        "num": 206321,
+        "word": "陈赫比林更新先认出赵丽颖",
+        "onboard_time": 1717823058,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202950,
+        "num": 202950,
+        "word": "前儿媳实名举报公公有巨额不明财产",
+        "onboard_time": 1717801874,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192039,
+        "num": 192039,
+        "word": "中方禁止菲律宾向坐滩军舰运送建筑材料",
+        "onboard_time": 1717819577,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 177098,
+        "num": 177098,
+        "word": "高考历史",
+        "onboard_time": 1717814118,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202465,
+        "num": 175491,
+        "word": "林更新说杨幂是女神",
+        "onboard_time": 1717824138,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171067,
+        "num": 171067,
+        "word": "感觉陈楚生要开始发电报了",
+        "onboard_time": 1717817837,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192072,
+        "num": 169493,
+        "word": "央媒评庞众望不负众望",
+        "onboard_time": 1717823957,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 165587,
+        "num": 165587,
+        "word": "福建地震",
+        "onboard_time": 1717817179,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158912,
+        "num": 158912,
+        "word": "那英你是真饿了",
+        "onboard_time": 1717820001,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153952,
+        "num": 153952,
+        "word": "读研两年谈了四个对象",
+        "onboard_time": 1717812677,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152615,
+        "num": 152615,
+        "word": "陪室友看考研房结果要我平摊车费",
+        "onboard_time": 1717823957,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150005,
+        "num": 150005,
+        "word": "养狗人下班后能有多自律",
+        "onboard_time": 1717824379,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148825,
+        "num": 148825,
+        "word": "丁程鑫别挡高圆圆泼秦霄贤",
+        "onboard_time": 1717822159,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145560,
+        "num": 145560,
+        "word": "庄达菲 父母爱情顶凉柱",
+        "onboard_time": 1717822518,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144443,
+        "num": 144443,
+        "word": "王一博巴黎街边吃冰淇淋",
+        "onboard_time": 1717809618,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136404,
+        "num": 136404,
+        "word": "张钰琪回应揭榜成功",
+        "onboard_time": 1717823898,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135415,
+        "num": 135415,
+        "word": "原湖北仙桃市委副书记坠亡",
+        "onboard_time": 1717809257,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134134,
+        "num": 134134,
+        "word": "麻烦一下高考第一个出考场的考生",
+        "onboard_time": 1717819757,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134050,
+        "num": 134050,
+        "word": "张耀在墨雨云间演白月光",
+        "onboard_time": 1717823299,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128621,
+        "num": 128621,
+        "word": "英语求放过",
+        "onboard_time": 1717822877,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131089,
+        "num": 125498,
+        "word": "墨雨云间",
+        "onboard_time": 1717803436,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120424,
+        "num": 120424,
+        "word": "你在感情里有没说出口的遗憾吗",
+        "onboard_time": 1717824738,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114899,
+        "num": 114899,
+        "word": "徐海乔为刘亦菲新剧宣传",
+        "onboard_time": 1717816519,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114605,
+        "num": 114605,
+        "word": "花小龙",
+        "onboard_time": 1717824677,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112241,
+        "num": 112241,
+        "word": "金满福爱妻人设",
+        "onboard_time": 1717824620,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111932,
+        "num": 111932,
+        "word": "最羡慕徐志胜的一集",
+        "onboard_time": 1717821858,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见巴基斯坦总理夏巴兹#"
+    }
+  }
+}

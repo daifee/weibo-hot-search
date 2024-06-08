@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717823887365,
+  "endTime": 1717824864872,
   "band_list": [
     {
       "raw_hot": 2347646,
@@ -43,6 +43,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1455282,
+      "num": 873423,
+      "word": "刘亦菲至今没结婚的原因",
+      "onboard_time": 1717822637,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1441447,
       "num": 1441447,
       "word": "少年目睹爷爷被打后投河身亡爷爷仍昏迷",
@@ -81,14 +89,6 @@
       "onboard_time": 1717815438,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1122556,
-      "num": 873423,
-      "word": "刘亦菲至今没结婚的原因",
-      "onboard_time": 1717822637,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1095338,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 650221,
-      "num": 302812,
+      "num": 498756,
       "word": "27岁到30岁才是最难熬的",
       "onboard_time": 1717817298,
       "rank": 27,
@@ -251,6 +251,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 564994,
+      "num": 260501,
+      "word": "月经血主要来源是什么",
+      "onboard_time": 1717823180,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 564914,
+      "num": 564914,
+      "word": "Nobody好看",
+      "onboard_time": 1717822277,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 560081,
       "num": 267053,
       "word": "原来香港请假是不需要理由的",
@@ -283,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 527606,
-      "num": 527606,
-      "word": "Nobody好看",
-      "onboard_time": 1717822277,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 522711,
       "num": 522711,
       "word": "高考物理难吗",
@@ -313,6 +321,14 @@
       "onboard_time": 1717815799,
       "rank": 14,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 502146,
+      "num": 502146,
+      "word": "弟弟高考后准备要求花5万",
+      "onboard_time": 1717823119,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 486651,
@@ -499,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 314628,
+      "num": 314628,
+      "word": "考生睡过头民警排查酒店逐房找人",
+      "onboard_time": 1717822098,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 304214,
       "num": 519356,
       "word": "端午遇高考一定会考好",
@@ -523,14 +547,6 @@
       "category": "汽车,社会新闻"
     },
     {
-      "raw_hot": 294896,
-      "num": 294896,
-      "word": "考生睡过头民警排查酒店逐房找人",
-      "onboard_time": 1717822098,
-      "rank": 16,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 289238,
       "num": 198574,
       "word": "莫言曾劝女儿高考前看电视",
@@ -547,14 +563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284297,
-      "num": 193655,
-      "word": "月经血主要来源是什么",
-      "onboard_time": 1717823180,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
-    },
-    {
       "raw_hot": 277546,
       "num": 277546,
       "word": "高考理综甲卷",
@@ -569,14 +577,6 @@
       "onboard_time": 1717814538,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 272301,
-      "num": 272301,
-      "word": "弟弟高考后准备要求花5万",
-      "onboard_time": 1717823119,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 269970,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206321,
+      "num": 206321,
+      "word": "陈赫比林更新先认出赵丽颖",
+      "onboard_time": 1717823058,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204809,
       "num": 204809,
       "word": "福建物理我爱你",
@@ -755,6 +763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202465,
+      "num": 175491,
+      "word": "林更新说杨幂是女神",
+      "onboard_time": 1717824138,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200637,
       "num": 254194,
       "word": "陌生乘客接力为特殊考生送祝福",
@@ -769,14 +785,6 @@
       "onboard_time": 1717812737,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197559,
-      "num": 197559,
-      "word": "陈赫比林更新先认出赵丽颖",
-      "onboard_time": 1717823058,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 196300,
@@ -801,6 +809,14 @@
       "onboard_time": 1717807697,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192072,
+      "num": 169493,
+      "word": "央媒评庞众望不负众望",
+      "onboard_time": 1717823957,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 190039,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 152615,
+      "num": 152615,
+      "word": "陪室友看考研房结果要我平摊车费",
+      "onboard_time": 1717823957,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151584,
       "num": 214554,
       "word": "英国最富单身汉大婚",
@@ -1025,6 +1049,14 @@
       "onboard_time": 1717823299,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150005,
+      "num": 150005,
+      "word": "养狗人下班后能有多自律",
+      "onboard_time": 1717824379,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 149497,
@@ -1083,6 +1115,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 136404,
+      "num": 136404,
+      "word": "张钰琪回应揭榜成功",
+      "onboard_time": 1717823898,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135792,
       "num": 135792,
       "word": "江苏物理 简单也不会",
@@ -1123,20 +1163,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128621,
+      "num": 128621,
+      "word": "英语求放过",
+      "onboard_time": 1717822877,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126786,
       "num": 126786,
       "word": "最羡慕徐志胜的一集",
       "onboard_time": 1717821858,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 123716,
-      "num": 123716,
-      "word": "英语求放过",
-      "onboard_time": 1717822877,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 123076,
@@ -1179,6 +1219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120424,
+      "num": 120424,
+      "word": "你在感情里有没说出口的遗憾吗",
+      "onboard_time": 1717824738,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118947,
       "num": 118947,
       "word": "孙楠清唱开场",
@@ -1203,12 +1251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114605,
+      "num": 114605,
+      "word": "花小龙",
+      "onboard_time": 1717824677,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 113126,
       "num": 113126,
       "word": "张桂梅带学生唱红歌奔赴考场",
       "onboard_time": 1717814538,
       "rank": 47,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 112241,
+      "num": 112241,
+      "word": "金满福爱妻人设",
+      "onboard_time": 1717824620,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 108246,
@@ -1523,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44778,
+      "num": 588199,
+      "word": "别让我们的随意成为它们的伤痛",
+      "onboard_time": 1717823119,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40665,
       "num": 40665,
       "word": "那英 灿烂的你",
@@ -1576,14 +1648,6 @@
       "word": "日本一神社禁止韩国人入内",
       "onboard_time": 1717823597,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29631,
-      "num": 588199,
-      "word": "别让我们的随意成为它们的伤痛",
-      "onboard_time": 1717823119,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
