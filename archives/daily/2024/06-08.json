@@ -1,6 +1,6 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717857273808,
+  "endTime": 1717859981393,
   "band_list": [
     {
       "raw_hot": 7537134,
@@ -179,6 +179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1018224,
+      "num": 1018224,
+      "word": "第一个走出考场男生希望取消调休",
+      "onboard_time": 1717856300,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1013316,
       "num": 922116,
       "word": "歌手张颂文回归",
@@ -203,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 959448,
+      "num": 959448,
+      "word": "晋江",
+      "onboard_time": 1717856598,
+      "rank": 5,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 918209,
       "num": 362018,
       "word": "林更新考博面试",
@@ -225,6 +241,14 @@
       "onboard_time": 1717838658,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 885218,
+      "num": 334768,
+      "word": "安静公主",
+      "onboard_time": 1717854559,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 849705,
@@ -305,14 +329,6 @@
       "onboard_time": 1717812677,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 722700,
-      "num": 334768,
-      "word": "安静公主",
-      "onboard_time": 1717854559,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 722240,
@@ -441,6 +457,14 @@
       "onboard_time": 1717759458,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 601555,
+      "num": 601555,
+      "word": "FPX小老虎不打了",
+      "onboard_time": 1717858459,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 589335,
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 480424,
-      "num": 214733,
+      "num": 228116,
       "word": "刘亦菲梦女",
       "onboard_time": 1717853779,
       "rank": 21,
@@ -643,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 453247,
+      "num": 209192,
+      "word": "这种最舒服的睡姿会把身体睡垮",
+      "onboard_time": 1717853599,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 452474,
       "num": 293857,
       "word": "人家秋雅结婚你在这又唱又跳的",
@@ -675,16 +707,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 408437,
-      "num": 408437,
-      "word": "晋江",
-      "onboard_time": 1717856598,
-      "rank": 5,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 407139,
-      "num": 228183,
+      "num": 374250,
       "word": "玫瑰的故事好多美女",
       "onboard_time": 1717853058,
       "rank": 25,
@@ -745,14 +769,6 @@
       "onboard_time": 1717809618,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 386000,
-      "num": 200221,
-      "word": "这种最舒服的睡姿会把身体睡垮",
-      "onboard_time": 1717853599,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 383759,
@@ -955,6 +971,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 298028,
+      "num": 206684,
+      "word": "月经这3种怪颜色是就医信号",
+      "onboard_time": 1717858159,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 297798,
       "num": 297798,
       "word": "日本乒乓球队奥运名单",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1717814538,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 274164,
-      "num": 197888,
-      "word": "第一个走出考场男生希望取消调休",
-      "onboard_time": 1717856300,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270200,
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 230443,
-      "num": 211803,
+      "num": 226476,
       "word": "张同学全网都知道你可以谈恋爱了",
       "onboard_time": 1717845437,
       "rank": 22,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1717816456,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 224643,
+      "num": 202778,
+      "word": "台湾网友花式催更庆余年3",
+      "onboard_time": 1717857800,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 222167,
@@ -1321,6 +1345,22 @@
       "onboard_time": 1717841718,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 214749,
+      "num": 199536,
+      "word": "减肥见效最快的运动就是跳绳",
+      "onboard_time": 1717856538,
+      "rank": 42,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 214686,
+      "num": 214686,
+      "word": "斯瓦泰克大满贯第五冠",
+      "onboard_time": 1717858819,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 213830,
@@ -1643,6 +1683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181582,
+      "num": 181582,
+      "word": "金价创2021年8月以来最大跌幅",
+      "onboard_time": 1717858459,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180345,
       "num": 178153,
       "word": "蓝盈莹新剧妆造",
@@ -1891,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157124,
+      "num": 157124,
+      "word": "秦霄贤你的圆圆姐来了",
+      "onboard_time": 1717858879,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157060,
       "num": 157060,
       "word": "上海高考英语听力放了再见",
@@ -2067,6 +2123,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 144629,
+      "num": 144629,
+      "word": "大理偶遇郭碧婷",
+      "onboard_time": 1717856359,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143766,
       "num": 143766,
       "word": "墨雨云间老墨我想吃雨了",
@@ -2123,6 +2187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 140658,
+      "num": 140658,
+      "word": "迪丽热巴新歌首唱舞台",
+      "onboard_time": 1717859719,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 140516,
       "num": 140516,
       "word": "美国选美比赛冠军外型引争议",
@@ -2155,14 +2227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138869,
-      "num": 138869,
-      "word": "大理偶遇郭碧婷",
-      "onboard_time": 1717856359,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137756,
       "num": 137756,
       "word": "汪苏泷干一行行一行",
@@ -2193,6 +2257,14 @@
       "onboard_time": 1717820118,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135418,
+      "num": 342693,
+      "word": "70度高温戈壁武警战士找到20吨黄金",
+      "onboard_time": 1717856060,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134189,
@@ -2307,14 +2379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 126491,
-      "num": 126491,
-      "word": "减肥见效最快的运动就是跳绳",
-      "onboard_time": 1717856538,
-      "rank": 42,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 125292,
       "num": 125292,
       "word": "B太点赞五谷磨房用心",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1717770743,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 122381,
+      "num": 122381,
+      "word": "丁程鑫唱情歌好深情",
+      "onboard_time": 1717859179,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 122344,
@@ -2443,14 +2515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 118321,
-      "num": 342693,
-      "word": "70度高温戈壁武警战士找到20吨黄金",
-      "onboard_time": 1717856060,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 117611,
       "num": 117611,
       "word": "孔雪儿跳了aespa的歌",
@@ -2481,6 +2545,14 @@
       "onboard_time": 1717852279,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116100,
+      "num": 116100,
+      "word": "薛芳菲萧蘅雨夜贴贴",
+      "onboard_time": 1717859719,
+      "rank": 41,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 115492,
@@ -2755,6 +2827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 95888,
+      "num": 95888,
+      "word": "张杰唱了金色的屋檐",
+      "onboard_time": 1717858220,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95319,
       "num": 91651,
       "word": "56岁邱淑贞状态",
@@ -2764,7 +2844,7 @@
     },
     {
       "raw_hot": 94426,
-      "num": 135277,
+      "num": 182498,
       "word": "母亲含泪拥抱女儿说考上大专也高兴",
       "onboard_time": 1717856060,
       "rank": 39,
@@ -2777,6 +2857,14 @@
       "onboard_time": 1717759697,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93401,
+      "num": 93401,
+      "word": "328米祝福墙为高考加油",
+      "onboard_time": 1717859058,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 91512,
@@ -2795,20 +2883,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89316,
+      "num": 988019,
+      "word": "那些一眼惊艳的国潮非遗",
+      "onboard_time": 1717854738,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88718,
       "num": 107842,
       "word": "法网",
       "onboard_time": 1717767862,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88335,
-      "num": 840928,
-      "word": "那些一眼惊艳的国潮非遗",
-      "onboard_time": 1717854738,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87289,
@@ -3129,6 +3217,14 @@
       "onboard_time": 1717849517,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 54004,
+      "num": 230778,
+      "word": "狗狗我呀和大家一起毕业了",
+      "onboard_time": 1717858819,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 53574,
