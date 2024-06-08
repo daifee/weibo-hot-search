@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717874134782,
+  "endTime": 1717875240884,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -20707,6 +20707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 88679,
+      "num": 88679,
+      "word": "500块现在能买到什么手机",
+      "onboard_time": 1717870092,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 88530,
       "num": 88530,
       "word": "HPV治疗隐形成本更高",
@@ -20793,14 +20801,6 @@
       "onboard_time": 1717760897,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 85984,
-      "num": 85984,
-      "word": "500块现在能买到什么手机",
-      "onboard_time": 1717870092,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 85264,
@@ -23865,6 +23865,14 @@
       "onboard_time": 1717618631,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 17167,
+      "num": 20909,
+      "word": "田曦薇晚上吃铁锅炖",
+      "onboard_time": 1717874172,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 17139,
