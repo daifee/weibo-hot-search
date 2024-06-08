@@ -1,10 +1,10 @@
 {
   "startTime": 1717777402391,
-  "endTime": 1717816834964,
+  "endTime": 1717817654787,
   "band_list": [
     {
-      "raw_hot": 2011076,
-      "num": 2011076,
+      "raw_hot": 2068043,
+      "num": 2068043,
       "word": "高考物理",
       "onboard_time": 1717814118,
       "rank": 1,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1583915,
-      "num": 1261639,
+      "num": 1316268,
       "word": "赵露思 荨麻疹",
       "onboard_time": 1717808356,
       "rank": 3,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1147845,
-      "num": 1147845,
+      "raw_hot": 1312778,
+      "num": 1312778,
       "word": "巴勒斯坦情侣结婚3天后在轰炸中丧生",
       "onboard_time": 1717813756,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1266303,
+      "num": 1266303,
+      "word": "福建地震",
+      "onboard_time": 1717817179,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1124018,
+      "num": 1124018,
+      "word": "王星越年龄遭质疑",
+      "onboard_time": 1717815438,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1095338,
@@ -65,14 +81,6 @@
       "onboard_time": 1717771523,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 853358,
-      "num": 853358,
-      "word": "王星越年龄遭质疑",
-      "onboard_time": 1717815438,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 830907,
@@ -139,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 644776,
+      "num": 644776,
+      "word": "优酷试图让刘亦菲打败自己",
+      "onboard_time": 1717815858,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621509,
       "num": 234136,
       "word": "因为没去参加高考被爸爸骂了",
@@ -171,11 +187,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 560752,
+      "num": 560752,
+      "word": "体制内上班迟到了会怎么样",
+      "onboard_time": 1717817357,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 560081,
       "num": 267053,
       "word": "原来香港请假是不需要理由的",
       "onboard_time": 1717810397,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 558044,
+      "num": 268917,
+      "word": "马上大三妈妈突然告诉我她怀孕了",
+      "onboard_time": 1717813937,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -219,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 469062,
-      "num": 268917,
-      "word": "马上大三妈妈突然告诉我她怀孕了",
-      "onboard_time": 1717813937,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 452474,
       "num": 293857,
       "word": "人家秋雅结婚你在这又唱又跳的",
@@ -243,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444645,
-      "num": 444645,
-      "word": "优酷试图让刘亦菲打败自己",
-      "onboard_time": 1717815858,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434534,
       "num": 280317,
       "word": "海泉漏了张钰琪",
@@ -259,12 +275,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422259,
+      "num": 422259,
+      "word": "联合国将以军列入全球侵犯儿童罪犯名单",
+      "onboard_time": 1717815799,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 399788,
+      "num": 399788,
+      "word": "徐海乔为刘亦菲新剧宣传",
+      "onboard_time": 1717816519,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399064,
       "num": 273862,
       "word": "魏大勋好S",
       "onboard_time": 1717769664,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398017,
+      "num": 289630,
+      "word": "刘亦菲17岁的作品vs37岁的作品",
+      "onboard_time": 1717816037,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 395779,
@@ -289,6 +329,14 @@
       "onboard_time": 1717758438,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 381584,
+      "num": 589036,
+      "word": "央视曝光鼓浪屿宰客一条龙",
+      "onboard_time": 1717815078,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 377445,
@@ -371,14 +419,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 323392,
-      "num": 289630,
-      "word": "刘亦菲17岁的作品vs37岁的作品",
-      "onboard_time": 1717816037,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 304214,
       "num": 519356,
       "word": "端午遇高考一定会考好",
@@ -393,14 +433,6 @@
       "onboard_time": 1717806496,
       "rank": 13,
       "category": "汽车,社会新闻"
-    },
-    {
-      "raw_hot": 301602,
-      "num": 301602,
-      "word": "联合国将以军列入全球侵犯儿童罪犯名单",
-      "onboard_time": 1717815799,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 289238,
@@ -451,27 +483,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261662,
-      "num": 261662,
-      "word": "徐海乔为刘亦菲新剧宣传",
-      "onboard_time": 1717816519,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248707,
       "num": 248707,
       "word": "一对日本母女在渡轮遭遇神隐",
       "onboard_time": 1717750519,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247964,
-      "num": 463944,
-      "word": "央视曝光鼓浪屿宰客一条龙",
-      "onboard_time": 1717815078,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225756,
+      "num": 225756,
+      "word": "27岁到30岁才是最难熬的",
+      "onboard_time": 1717817298,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 224771,
       "num": 224771,
       "word": "TFBOYS十周年蛋糕塌的三四层",
@@ -491,12 +515,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224658,
+      "num": 224658,
+      "word": "广东历史 难",
+      "onboard_time": 1717816456,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219788,
       "num": 219788,
       "word": "大家好我是韩雪",
       "onboard_time": 1717812859,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219460,
+      "num": 219460,
+      "word": "考完湖南物理丢本科",
+      "onboard_time": 1717816278,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 219107,
@@ -513,6 +553,22 @@
       "onboard_time": 1717813636,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 215439,
+      "num": 215439,
+      "word": "福建历史考完老实了",
+      "onboard_time": 1717816278,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 213224,
+      "num": 213224,
+      "word": "安徽物理 简单",
+      "onboard_time": 1717816098,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 212098,
@@ -540,19 +596,11 @@
     },
     {
       "raw_hot": 200637,
-      "num": 200637,
+      "num": 254194,
       "word": "陌生乘客接力为特殊考生送祝福",
       "onboard_time": 1717816456,
       "rank": 27,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 198897,
-      "num": 198897,
-      "word": "广东历史 难",
-      "onboard_time": 1717816456,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 198815,
@@ -561,14 +609,6 @@
       "onboard_time": 1717812737,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197802,
-      "num": 197802,
-      "word": "考完湖南物理丢本科",
-      "onboard_time": 1717816278,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 195723,
@@ -611,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185990,
-      "num": 185990,
-      "word": "安徽物理 简单",
-      "onboard_time": 1717816098,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 184535,
       "num": 184535,
       "word": "那英第二",
@@ -627,20 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180690,
-      "num": 180690,
-      "word": "福建历史考完老实了",
-      "onboard_time": 1717816278,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 180595,
       "num": 180595,
       "word": "墨雨云间",
       "onboard_time": 1717803436,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179091,
+      "num": 179091,
+      "word": "一斤黄金有多大",
+      "onboard_time": 1717815138,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 178336,
@@ -659,20 +691,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175920,
+      "num": 175920,
+      "word": "不选物理了",
+      "onboard_time": 1717816696,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 174784,
       "num": 171403,
       "word": "范丞丞又cue孟宴臣",
       "onboard_time": 1717775360,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172335,
-      "num": 172335,
-      "word": "一斤黄金有多大",
-      "onboard_time": 1717815138,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 170848,
@@ -827,14 +859,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 133350,
-      "num": 133350,
-      "word": "不选物理了",
-      "onboard_time": 1717816696,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 131289,
       "num": 131289,
       "word": "为什么机场里的店不会倒闭",
@@ -873,6 +897,14 @@
       "onboard_time": 1717772840,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 121301,
+      "num": 121301,
+      "word": "考试紧张蝴蝶拍可以让心情平复",
+      "onboard_time": 1717817419,
+      "rank": 48,
+      "category": "科学科普,教育"
     },
     {
       "raw_hot": 120666,
