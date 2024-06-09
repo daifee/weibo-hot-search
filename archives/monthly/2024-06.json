@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717917468633,
+  "endTime": 1717918450697,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1899,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 887018,
+      "num": 887018,
+      "word": "高考出题人 考完一门放一个",
+      "onboard_time": 1717912937,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 886775,
       "num": 886775,
       "word": "王鹤棣 无袖",
@@ -2217,14 +2225,6 @@
       "onboard_time": 1717633639,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 799959,
-      "num": 799959,
-      "word": "高考出题人 考完一门放一个",
-      "onboard_time": 1717912937,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 798906,
@@ -3875,6 +3875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 584984,
+      "num": 221752,
+      "word": "200元一斤蓝莓跌到8元",
+      "onboard_time": 1717913357,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584322,
       "num": 584322,
       "word": "我永远是张若昀的观众朋友",
@@ -4209,14 +4217,6 @@
       "onboard_time": 1717389202,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 546301,
-      "num": 215891,
-      "word": "200元一斤蓝莓跌到8元",
-      "onboard_time": 1717913357,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 545926,
@@ -5571,6 +5571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443460,
+      "num": 443460,
+      "word": "董宇辉称到今天都不享受直播工作",
+      "onboard_time": 1717911497,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 443302,
       "num": 467288,
       "word": "想看福宝这些时间来",
@@ -5833,14 +5841,6 @@
       "onboard_time": 1717225397,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 427963,
-      "num": 427963,
-      "word": "董宇辉称到今天都不享受直播工作",
-      "onboard_time": 1717911497,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 426917,
@@ -7011,6 +7011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358533,
+      "num": 358533,
+      "word": "墨雨云间17",
+      "onboard_time": 1717910838,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358523,
       "num": 358523,
       "word": "墨雨云间的狂徒",
@@ -7707,6 +7715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 325221,
+      "num": 325221,
+      "word": "考完一科丢一科 考完地理丢本科",
+      "onboard_time": 1717915577,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 324734,
       "num": 212894,
       "word": "李小冉下部戏还是演反派",
@@ -7729,14 +7745,6 @@
       "onboard_time": 1717389501,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 323434,
-      "num": 318376,
-      "word": "墨雨云间17",
-      "onboard_time": 1717910838,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 322829,
@@ -7849,14 +7857,6 @@
       "onboard_time": 1717565298,
       "rank": 27,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 318898,
-      "num": 318898,
-      "word": "考完一科丢一科 考完地理丢本科",
-      "onboard_time": 1717915577,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 318784,
@@ -8091,6 +8091,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308028,
+      "num": 308028,
+      "word": "鹿晗8G冲浪",
+      "onboard_time": 1717915096,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307768,
+      "num": 307768,
+      "word": "逆水寒公主切",
+      "onboard_time": 1717916296,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 307477,
       "num": 307477,
       "word": "国足若输泰国将基本无缘世界杯",
@@ -8243,6 +8259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301116,
+      "num": 301116,
+      "word": "以军直升机直接向人群开火现场成地狱",
+      "onboard_time": 1717916597,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 300378,
       "num": 300378,
       "word": "郭晓婷灰色吊带",
@@ -8313,14 +8337,6 @@
       "onboard_time": 1717258458,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297645,
-      "num": 297645,
-      "word": "鹿晗8G冲浪",
-      "onboard_time": 1717915096,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 297265,
@@ -9707,14 +9723,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251184,
-      "num": 251184,
-      "word": "逆水寒公主切",
-      "onboard_time": 1717916296,
-      "rank": 15,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 250890,
       "num": 227481,
       "word": "武艺十七岁还坐在爸爸肩上",
@@ -9827,6 +9835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247003,
+      "num": 247003,
+      "word": "柠季向张艺兴致歉",
+      "onboard_time": 1717914437,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246430,
       "num": 246430,
       "word": "东北甜妹 台湾光头",
@@ -9907,14 +9923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244567,
-      "num": 244567,
-      "word": "柠季向张艺兴致歉",
-      "onboard_time": 1717914437,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
@@ -9985,6 +9993,14 @@
       "onboard_time": 1717712533,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 241044,
+      "num": 215609,
+      "word": "丁真 你什么档次",
+      "onboard_time": 1717916537,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 240947,
@@ -10779,6 +10795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222389,
+      "num": 222389,
+      "word": "王星越 老公在此",
+      "onboard_time": 1717918217,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222215,
       "num": 203671,
       "word": "李惠仁天生爱豆圣体",
@@ -10875,14 +10899,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220529,
-      "num": 209784,
-      "word": "丁真 你什么档次",
-      "onboard_time": 1717916537,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220524,
       "num": 220524,
       "word": "萧山第二美女",
@@ -10977,6 +10993,14 @@
       "onboard_time": 1717913598,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218957,
+      "num": 192173,
+      "word": "女子误将墓园认景区花1万拍婚纱",
+      "onboard_time": 1717918217,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218800,
@@ -11249,6 +11273,14 @@
       "onboard_time": 1717416979,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214285,
+      "num": 214285,
+      "word": "玫瑰的故事以爱为营同一造型团队",
+      "onboard_time": 1717915758,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 214125,
@@ -12339,6 +12371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199527,
+      "num": 199527,
+      "word": "荣梓杉一撮黄毛是他最后的倔强",
+      "onboard_time": 1717917017,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199401,
       "num": 199401,
       "word": "欢迎来到我身边定档",
@@ -12737,14 +12777,6 @@
       "onboard_time": 1717398319,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195843,
-      "num": 201635,
-      "word": "以军直升机直接向人群开火现场成地狱",
-      "onboard_time": 1717916597,
-      "rank": 25,
-      "category": "国外时政"
     },
     {
       "raw_hot": 195787,
@@ -13795,6 +13827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182779,
+      "num": 175587,
+      "word": "刘亦菲穿搭",
+      "onboard_time": 1717915398,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182609,
       "num": 182609,
       "word": "高考英语作文",
@@ -14091,6 +14131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178187,
+      "num": 178187,
+      "word": "韩国医协今将宣布集体停诊计划",
+      "onboard_time": 1717915997,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177949,
       "num": 177949,
       "word": "重庆狼队妖刀断开连接",
@@ -14313,14 +14361,6 @@
       "onboard_time": 1717331719,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175463,
-      "num": 175463,
-      "word": "玫瑰的故事以爱为营同一造型团队",
-      "onboard_time": 1717915758,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 175323,
@@ -14745,6 +14785,14 @@
       "onboard_time": 1717390340,
       "rank": 34,
       "category": "健康医疗,互联网"
+    },
+    {
+      "raw_hot": 170305,
+      "num": 170305,
+      "word": "沈月凭本事让孟子义工作室挨骂",
+      "onboard_time": 1717918037,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 170142,
@@ -16851,14 +16899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148166,
-      "num": 148166,
-      "word": "荣梓杉一撮黄毛是他最后的倔强",
-      "onboard_time": 1717917017,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 148126,
       "num": 148126,
       "word": "林孝埈夺冠感谢教练和队友",
@@ -17513,14 +17553,6 @@
       "onboard_time": 1717651278,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141733,
-      "num": 141733,
-      "word": "刘亦菲穿搭",
-      "onboard_time": 1717915398,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 141603,
@@ -18771,6 +18803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128231,
+      "num": 128231,
+      "word": "孙丞潇上综艺被气走",
+      "onboard_time": 1717915398,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128011,
       "num": 128011,
       "word": "手机少看不了一点那如何护眼",
@@ -19081,6 +19121,14 @@
       "onboard_time": 1717513640,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125694,
+      "num": 125694,
+      "word": "邓超说鹿晗五哈四季变化很大",
+      "onboard_time": 1717914918,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 125680,
@@ -20171,20 +20219,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114818,
-      "num": 114818,
-      "word": "邓超说鹿晗五哈四季变化很大",
-      "onboard_time": 1717914918,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114665,
       "num": 114665,
       "word": "Xiaolaohu说不打职业回家了",
       "onboard_time": 1717887733,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114594,
+      "num": 201090,
+      "word": "妹妹用考过100分的手送哥哥高考",
+      "onboard_time": 1717917798,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114585,
@@ -20233,14 +20281,6 @@
       "onboard_time": 1717639517,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 114134,
-      "num": 114134,
-      "word": "孙丞潇上综艺被气走",
-      "onboard_time": 1717915398,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 114127,
