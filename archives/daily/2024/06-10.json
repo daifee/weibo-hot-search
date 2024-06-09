@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717972499795,
+  "endTime": 1717975125599,
   "band_list": [
     {
       "raw_hot": 1027798,
@@ -59,6 +59,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 455228,
+      "num": 455228,
+      "word": "董宇辉称非常反感被叫网红",
+      "onboard_time": 1717959731,
+      "rank": 13,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 426261,
       "num": 185353,
       "word": "经常吃水煮蛋是养肝还是伤肝",
@@ -115,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262969,
-      "num": 262969,
-      "word": "董宇辉称非常反感被叫网红",
-      "onboard_time": 1717959731,
-      "rank": 13,
-      "category": "互联网,网红"
+      "raw_hot": 268640,
+      "num": 268640,
+      "word": "端午节",
+      "onboard_time": 1717974613,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 261132,
@@ -147,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201670,
+      "num": 201670,
+      "word": "端午安康",
+      "onboard_time": 1717974493,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199472,
       "num": 199472,
       "word": "中国零食饮料逐渐征服外国人",
@@ -161,6 +177,14 @@
       "onboard_time": 1717941138,
       "rank": 16,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 188551,
+      "num": 124157,
+      "word": "殷罡逝世",
+      "onboard_time": 1717960452,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188029,
@@ -235,14 +259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137472,
-      "num": 56832,
-      "word": "殷罡逝世",
-      "onboard_time": 1717960452,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 136291,
       "num": 136291,
       "word": "张翰当伴郎",
@@ -307,6 +323,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110945,
+      "num": 110945,
+      "word": "端午文案",
+      "onboard_time": 1717974673,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108759,
+      "num": 71181,
+      "word": "曾744分考上清华的他如今怎样了",
+      "onboard_time": 1717975093,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106677,
       "num": 106677,
       "word": "高考生催更墨雨云间",
@@ -355,12 +387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89732,
+      "num": 89732,
+      "word": "天官赐福",
+      "onboard_time": 1717975093,
+      "rank": 16,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 83142,
       "num": 100121,
       "word": "黄油小熊也拥有了玲娜贝儿",
       "onboard_time": 1717943960,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 82270,
+      "num": 64164,
+      "word": "小老虎和经理和解了",
+      "onboard_time": 1717974854,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 80718,
@@ -388,7 +436,7 @@
     },
     {
       "raw_hot": 73937,
-      "num": 100108,
+      "num": 124376,
       "word": "2024端午来啦",
       "onboard_time": 1717945999,
       "rank": 46,
@@ -419,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69466,
+      "num": 99772,
+      "word": "原伟东称曾遭牙签扎指甲逼供",
+      "onboard_time": 1717954333,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 68674,
       "num": 100109,
       "word": "郑州一小区发生火灾造成4人遇难",
@@ -427,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 68071,
-      "num": 99772,
-      "word": "原伟东称曾遭牙签扎指甲逼供",
-      "onboard_time": 1717954333,
-      "rank": 24,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 66526,
       "num": 100103,
       "word": "极限挑战",
       "onboard_time": 1717940358,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66407,
+      "num": 66407,
+      "word": "孟庭苇叫赵丽颖颖宝",
+      "onboard_time": 1717971191,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 62664,
@@ -459,12 +515,28 @@
       "category": "网红,教育"
     },
     {
+      "raw_hot": 51293,
+      "num": 51293,
+      "word": "2024f1加拿大大奖赛",
+      "onboard_time": 1717974854,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49803,
       "num": 57667,
       "word": "苏炳添回应帅气高考生喊话",
       "onboard_time": 1717943179,
       "rank": 43,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 49069,
+      "num": 64171,
+      "word": "原来端午节有这么多名字",
+      "onboard_time": 1717974673,
+      "rank": 29,
+      "category": "科学科普"
     },
     {
       "raw_hot": 47488,
@@ -483,6 +555,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 46038,
+      "num": 46038,
+      "word": "阿尔卡拉斯首夺法网冠军",
+      "onboard_time": 1717974673,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45660,
       "num": 246576,
       "word": "粽子界的商战在成都开始了",
@@ -499,6 +579,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44586,
+      "num": 47487,
+      "word": "请问你俩不亲是谁的问题",
+      "onboard_time": 1717937958,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42977,
+      "num": 42977,
+      "word": "高考第4天继续加油",
+      "onboard_time": 1717974133,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 39947,
       "num": 39947,
       "word": "胡夏把清华电视踢翻了",
@@ -507,12 +603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 39895,
-      "num": 47487,
-      "word": "请问你俩不亲是谁的问题",
-      "onboard_time": 1717937958,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 38933,
+      "num": 38933,
+      "word": "你常做的7件小事正在偷走骨头里的钙",
+      "onboard_time": 1717964350,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 34511,
@@ -521,14 +617,6 @@
       "onboard_time": 1717955713,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32113,
-      "num": 32113,
-      "word": "孟庭苇叫赵丽颖颖宝",
-      "onboard_time": 1717971191,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 31569,
@@ -553,14 +641,6 @@
       "onboard_time": 1717948759,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 25036,
-      "num": 25887,
-      "word": "你常做的7件小事正在偷走骨头里的钙",
-      "onboard_time": 1717964350,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 18134,
