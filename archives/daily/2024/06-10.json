@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717971542328,
+  "endTime": 1717972499795,
   "band_list": [
     {
       "raw_hot": 1027798,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262969,
+      "num": 262969,
+      "word": "董宇辉称非常反感被叫网红",
+      "onboard_time": 1717959731,
+      "rank": 13,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 261132,
       "num": 182688,
       "word": "为什么离职的都去新疆了",
@@ -137,14 +145,6 @@
       "onboard_time": 1717943840,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210807,
-      "num": 210807,
-      "word": "董宇辉称非常反感被叫网红",
-      "onboard_time": 1717959731,
-      "rank": 13,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 199472,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137472,
+      "num": 56832,
+      "word": "殷罡逝世",
+      "onboard_time": 1717960452,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136291,
       "num": 136291,
       "word": "张翰当伴郎",
@@ -273,14 +281,6 @@
       "onboard_time": 1717928357,
       "rank": 19,
       "category": "教育"
-    },
-    {
-      "raw_hot": 123352,
-      "num": 44035,
-      "word": "殷罡逝世",
-      "onboard_time": 1717960452,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122545,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 49803,
-      "num": 54356,
+      "num": 57667,
       "word": "苏炳添回应帅气高考生喊话",
       "onboard_time": 1717943179,
       "rank": 43,
@@ -523,20 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32113,
+      "num": 32113,
+      "word": "孟庭苇叫赵丽颖颖宝",
+      "onboard_time": 1717971191,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 31569,
+      "num": 31569,
+      "word": "黄晓明的眼神比大学生都清澈",
+      "onboard_time": 1717959071,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30873,
       "num": 33092,
       "word": "家涛",
       "onboard_time": 1717955532,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27611,
-      "num": 27611,
-      "word": "黄晓明的眼神比大学生都清澈",
-      "onboard_time": 1717959071,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 26638,
@@ -547,24 +555,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 21671,
-      "num": 21671,
+      "raw_hot": 25036,
+      "num": 25887,
       "word": "你常做的7件小事正在偷走骨头里的钙",
       "onboard_time": 1717964350,
       "rank": 49,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 21449,
-      "num": 21449,
-      "word": "孟庭苇叫赵丽颖颖宝",
-      "onboard_time": 1717971191,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 17237,
-      "num": 19934,
+      "raw_hot": 18134,
+      "num": 25882,
       "word": "终于找到戴夫的家了",
       "onboard_time": 1717969212,
       "rank": 49,
