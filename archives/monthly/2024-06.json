@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717914325823,
+  "endTime": 1717915094939,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3187,6 +3187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 661589,
+      "num": 661589,
+      "word": "公交车冰柜",
+      "onboard_time": 1717912097,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 661554,
       "num": 304572,
       "word": "那英 跑调",
@@ -3729,14 +3737,6 @@
       "onboard_time": 1717210637,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 594997,
-      "num": 594997,
-      "word": "公交车冰柜",
-      "onboard_time": 1717912097,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 593599,
@@ -4915,6 +4915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490110,
+      "num": 490110,
+      "word": "高考出题人 考完一门放一个",
+      "onboard_time": 1717912937,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 489850,
       "num": 489850,
       "word": "高考时间",
@@ -5179,6 +5187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 470091,
+      "num": 470091,
+      "word": "原来高考还没结束",
+      "onboard_time": 1717910778,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 470058,
       "num": 470058,
       "word": "北京8兄妹因搬迁争夺宅基地",
@@ -5265,14 +5281,6 @@
       "onboard_time": 1717253838,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 462781,
-      "num": 462781,
-      "word": "原来高考还没结束",
-      "onboard_time": 1717910778,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 462159,
@@ -7708,11 +7716,19 @@
     },
     {
       "raw_hot": 323434,
-      "num": 290220,
+      "num": 316853,
       "word": "墨雨云间17",
       "onboard_time": 1717910838,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322829,
+      "num": 322829,
+      "word": "荣梓杉高考",
+      "onboard_time": 1717913656,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 322415,
@@ -8195,14 +8211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301338,
-      "num": 301338,
-      "word": "高考出题人 考完一门放一个",
-      "onboard_time": 1717912937,
-      "rank": 8,
-      "category": "教育"
-    },
-    {
       "raw_hot": 301119,
       "num": 301119,
       "word": "孙夏铃 我不想再被安排了",
@@ -8225,6 +8233,14 @@
       "onboard_time": 1717561459,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299614,
+      "num": 178098,
+      "word": "200元一斤蓝莓跌到8元",
+      "onboard_time": 1717913357,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299382,
@@ -9075,14 +9091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270060,
-      "num": 270060,
-      "word": "荣梓杉高考",
-      "onboard_time": 1717913656,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269497,
       "num": 269497,
       "word": "高考作文 申论",
@@ -9217,6 +9225,14 @@
       "onboard_time": 1717802174,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 265785,
+      "num": 265785,
+      "word": "肖战早就提前预告了",
+      "onboard_time": 1717912339,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 265587,
@@ -9729,14 +9745,6 @@
       "onboard_time": 1717758017,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248675,
-      "num": 178428,
-      "word": "肖战早就提前预告了",
-      "onboard_time": 1717912339,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 248415,
@@ -10475,6 +10483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227652,
+      "num": 227652,
+      "word": "董宇辉称到今天都不享受直播工作",
+      "onboard_time": 1717911497,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 227523,
       "num": 227523,
       "word": "奔跑吧",
@@ -10577,14 +10593,6 @@
       "onboard_time": 1717316538,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225535,
-      "num": 178098,
-      "word": "200元一斤蓝莓跌到8元",
-      "onboard_time": 1717913357,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225368,
@@ -10919,6 +10927,14 @@
       "num": 207501,
       "word": "你在不在",
       "onboard_time": 1717568118,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218967,
+      "num": 177863,
+      "word": "刘宇宁说迪丽热巴是维秘天使",
+      "onboard_time": 1717913598,
       "rank": 27,
       "category": "综艺"
     },
@@ -11265,14 +11281,6 @@
       "onboard_time": 1717801755,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212070,
-      "num": 177863,
-      "word": "刘宇宁说迪丽热巴是维秘天使",
-      "onboard_time": 1717913598,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 211982,
@@ -12155,6 +12163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 200630,
+      "num": 165647,
+      "word": "柠季向张艺兴致歉",
+      "onboard_time": 1717914437,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200415,
       "num": 200415,
       "word": "孙颖莎11比1田志希",
@@ -13025,6 +13041,14 @@
       "onboard_time": 1717254320,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191773,
+      "num": 165896,
+      "word": "徐锦江儿子上综艺天天扫地",
+      "onboard_time": 1717913957,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 191665,
@@ -13932,7 +13956,7 @@
     },
     {
       "raw_hot": 178869,
-      "num": 178869,
+      "num": 319820,
       "word": "天热北京一考点给陪考家长发雪糕",
       "onboard_time": 1717913416,
       "rank": 19,
@@ -14073,14 +14097,6 @@
       "onboard_time": 1717415478,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177325,
-      "num": 177325,
-      "word": "董宇辉称到今天都不享受直播工作",
-      "onboard_time": 1717911497,
-      "rank": 32,
-      "category": "互联网"
     },
     {
       "raw_hot": 177317,
@@ -15019,14 +15035,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165896,
-      "num": 165896,
-      "word": "徐锦江儿子上综艺天天扫地",
-      "onboard_time": 1717913957,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165596,
       "num": 165596,
       "word": "张本智和3比1林昀儒",
@@ -15555,6 +15563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160155,
+      "num": 160155,
+      "word": "芒果这一波又nextlevel了",
+      "onboard_time": 1717914197,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160077,
       "num": 253035,
       "word": "尚雯婕去隔壁歌手吧",
@@ -15737,6 +15753,14 @@
       "onboard_time": 1717821140,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157945,
+      "num": 157945,
+      "word": "建议用户每周重新启动一次手机",
+      "onboard_time": 1717914137,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 157788,
@@ -16753,6 +16777,14 @@
       "onboard_time": 1717372758,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148277,
+      "num": 148277,
+      "word": "2024高考查分时间汇总",
+      "onboard_time": 1717915038,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148212,
@@ -19123,14 +19155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124314,
-      "num": 124314,
-      "word": "建议用户每周重新启动一次手机",
-      "onboard_time": 1717914137,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 124304,
       "num": 124304,
       "word": "遇上公司挖人要注意什么",
@@ -20035,14 +20059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115084,
-      "num": 115084,
-      "word": "芒果这一波又nextlevel了",
-      "onboard_time": 1717914197,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115064,
       "num": 115064,
       "word": "张远徐良近大远小",
@@ -20136,6 +20152,14 @@
       "word": "辛芷蕾新作蛄蛹者",
       "onboard_time": 1717553119,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113871,
+      "num": 113871,
+      "word": "邓超说鹿晗五哈四季变化很大",
+      "onboard_time": 1717914918,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -20361,6 +20385,14 @@
       "onboard_time": 1717466417,
       "rank": 45,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 111759,
+      "num": 111759,
+      "word": "偏偏你最争气挨打也没关系",
+      "onboard_time": 1717915038,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111685,
@@ -20697,6 +20729,14 @@
       "onboard_time": 1717310178,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108059,
+      "num": 296920,
+      "word": "上海短视频小横店日租金6000",
+      "onboard_time": 1717912817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107992,
@@ -22519,14 +22559,6 @@
       "num": 366584,
       "word": "第一次在大熊猫脸上看到震惊",
       "onboard_time": 1717202297,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 72667,
-      "num": 296920,
-      "word": "上海短视频小横店日租金6000",
-      "onboard_time": 1717912817,
       "rank": 9,
       "category": "社会新闻"
     },
