@@ -1,0 +1,410 @@
+{
+  "runTime": 1717946339739,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 995437,
+        "num": 995437,
+        "word": "刘亦菲5集换了32套造型",
+        "onboard_time": 1717938918,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621304,
+        "num": 621304,
+        "word": "不接陌生电话但是要去微信搜",
+        "onboard_time": 1717937238,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63119,
+        "num": 463721,
+        "word": "一批诋毁企业形象账号被处置",
+        "onboard_time": 1717945819,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347225,
+        "num": 463337,
+        "word": "女子注射400支玻尿酸丰臀致臀部感染",
+        "onboard_time": 1717944259,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403439,
+        "num": 403439,
+        "word": "用李现照片当成相亲对象发给老爸",
+        "onboard_time": 1717941138,
+        "rank": 4,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 544294,
+        "num": 389107,
+        "word": "刘亦菲彭冠英踮脚吻",
+        "onboard_time": 1717941620,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334518,
+        "num": 334518,
+        "word": "以色列",
+        "onboard_time": 1717934478,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 326913,
+        "num": 326913,
+        "word": "高考生催更墨雨云间",
+        "onboard_time": 1717941620,
+        "rank": 7,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 320856,
+        "num": 320856,
+        "word": "佟大为演技",
+        "onboard_time": 1717942939,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34470,
+        "num": 311434,
+        "word": "帅气高考生希望能和苏炳添同台竞技",
+        "onboard_time": 1717945040,
+        "rank": 9,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1391065,
+        "num": 301599,
+        "word": "女子厕所装百叶窗走光3年浑然不知",
+        "onboard_time": 1717941979,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 882534,
+        "num": 290695,
+        "word": "新女团成员上节目被开黄腔",
+        "onboard_time": 1717939458,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416099,
+        "num": 280776,
+        "word": "我爸以为有教资就能去学校当老师",
+        "onboard_time": 1717929438,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273660,
+        "num": 273660,
+        "word": "真的和纸片人结婚了",
+        "onboard_time": 1717932497,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273243,
+        "num": 273243,
+        "word": "万茜刘亦菲好配",
+        "onboard_time": 1717945099,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267066,
+        "num": 267066,
+        "word": "墨雨云间让大学生神金合理了",
+        "onboard_time": 1717938379,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256601,
+        "num": 256601,
+        "word": "高考再见",
+        "onboard_time": 1717928357,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256282,
+        "num": 256282,
+        "word": "潮牌Champion为什么不火了",
+        "onboard_time": 1717930397,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 209585,
+        "num": 209585,
+        "word": "老师最不看好你 可你偏偏最争气",
+        "onboard_time": 1717932017,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191958,
+        "num": 191958,
+        "word": "白桃星座",
+        "onboard_time": 1717945638,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 660472,
+        "num": 191741,
+        "word": "经常吃水煮蛋是养肝还是伤肝",
+        "onboard_time": 1717944799,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 647808,
+        "num": 191251,
+        "word": "高铁上拒绝了宝妈的换座要求",
+        "onboard_time": 1717937717,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383439,
+        "num": 190963,
+        "word": "张翰当伴郎",
+        "onboard_time": 1717941679,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364517,
+        "num": 190229,
+        "word": "为什么离职的都去新疆了",
+        "onboard_time": 1717943840,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320769,
+        "num": 189743,
+        "word": "小警犬因太友好而被开除",
+        "onboard_time": 1717943840,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230782,
+        "num": 189145,
+        "word": "高考下一章 墨雨云间",
+        "onboard_time": 1717945218,
+        "rank": 25,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 215886,
+        "num": 188631,
+        "word": "彭冠英嘻嘻徐海乔不嘻嘻",
+        "onboard_time": 1717944919,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206562,
+        "num": 188542,
+        "word": "朴灿烈唱StayWithMe",
+        "onboard_time": 1717945218,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199291,
+        "num": 187830,
+        "word": "老破小二手房突然火了",
+        "onboard_time": 1717944620,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187596,
+        "num": 187596,
+        "word": "FIBA",
+        "onboard_time": 1717945460,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249349,
+        "num": 180339,
+        "word": "早田希娜女单冠军",
+        "onboard_time": 1717945279,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191038,
+        "num": 175813,
+        "word": "荣梓杉是今年中戏北电双第一",
+        "onboard_time": 1717926558,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171111,
+        "num": 171111,
+        "word": "中国零食饮料逐渐征服外国人",
+        "onboard_time": 1717944558,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163493,
+        "num": 163493,
+        "word": "墨雨云间",
+        "onboard_time": 1717934117,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154478,
+        "num": 154478,
+        "word": "于正审美",
+        "onboard_time": 1717934297,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130351,
+        "num": 130351,
+        "word": "杜海涛去披荆斩棘前的最后一顿烧烤",
+        "onboard_time": 1717940839,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128404,
+        "num": 128404,
+        "word": "郑州一小区发生火灾造成4人遇难",
+        "onboard_time": 1717934777,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127074,
+        "num": 127074,
+        "word": "请问你俩不亲是谁的问题",
+        "onboard_time": 1717937958,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127073,
+        "num": 127073,
+        "word": "极限挑战",
+        "onboard_time": 1717940358,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126486,
+        "num": 126486,
+        "word": "周深带全场毕业生说少管我",
+        "onboard_time": 1717943240,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126205,
+        "num": 126205,
+        "word": "关晓彤翟潇闻合作现偶",
+        "onboard_time": 1717940598,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125544,
+        "num": 125544,
+        "word": "相亲对象对我隐瞒了学历",
+        "onboard_time": 1717933877,
+        "rank": 41,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 122134,
+        "num": 122134,
+        "word": "金价大跌消费者还想再等等",
+        "onboard_time": 1717937838,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115482,
+        "num": 115482,
+        "word": "日本出现巨型章鱼",
+        "onboard_time": 1717909336,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106895,
+        "num": 106895,
+        "word": "黄油小熊也拥有了玲娜贝儿",
+        "onboard_time": 1717943960,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 106776,
+        "num": 106776,
+        "word": "植物大战僵尸杂交版",
+        "onboard_time": 1717946118,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103678,
+        "num": 103678,
+        "word": "姿态冒充Uzi",
+        "onboard_time": 1717946180,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96007,
+        "num": 96007,
+        "word": "法网",
+        "onboard_time": 1717938138,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76001,
+        "num": 95697,
+        "word": "整治涉企侵权信息乱象",
+        "onboard_time": 1717944259,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95595,
+        "num": 95595,
+        "word": "当一个职场女性不背包可以有多自由",
+        "onboard_time": 1717941260,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#要让更多文物和文化遗产活起来#"
+    }
+  }
+}
