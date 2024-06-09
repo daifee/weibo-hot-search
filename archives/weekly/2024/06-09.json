@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717947348813,
+  "endTime": 1717950116829,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -185,6 +185,14 @@
       "onboard_time": 1717912937,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 791891,
+      "num": 791891,
+      "word": "刘亦菲头像",
+      "onboard_time": 1717948399,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 768578,
@@ -795,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 368667,
+      "num": 317035,
+      "word": "高考下一章 墨雨云间",
+      "onboard_time": 1717945218,
+      "rank": 25,
+      "category": "剧集,教育"
+    },
+    {
       "raw_hot": 361868,
       "num": 361868,
       "word": "蔡徐坤Afterglow上线",
@@ -916,7 +932,7 @@
     },
     {
       "raw_hot": 333254,
-      "num": 290442,
+      "num": 307781,
       "word": "早田希娜女单冠军",
       "onboard_time": 1717945279,
       "rank": 30,
@@ -961,14 +977,6 @@
       "onboard_time": 1717942939,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317035,
-      "num": 317035,
-      "word": "高考下一章 墨雨云间",
-      "onboard_time": 1717945218,
-      "rank": 25,
-      "category": "剧集,教育"
     },
     {
       "raw_hot": 312953,
@@ -1035,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301102,
+      "num": 301102,
+      "word": "潮牌Champion为什么不火了",
+      "onboard_time": 1717930397,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 298727,
       "num": 289617,
       "word": "万茜刘亦菲好配",
@@ -1051,14 +1067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 288528,
-      "num": 288528,
-      "word": "潮牌Champion为什么不火了",
-      "onboard_time": 1717930397,
-      "rank": 26,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 283839,
       "num": 283839,
       "word": "石宇奇携双冠登顶世界第一",
@@ -1072,6 +1080,14 @@
       "word": "乌兰 女狂徒",
       "onboard_time": 1717919656,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 281831,
+      "num": 281831,
+      "word": "彭冠英嘻嘻徐海乔不嘻嘻",
+      "onboard_time": 1717944919,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1283,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218523,
+      "num": 218523,
+      "word": "陈雨浓孙程潇吵架",
+      "onboard_time": 1717949119,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217256,
       "num": 158663,
       "word": "夜尿次数增多是肾脏病早期信号",
@@ -1297,14 +1321,6 @@
       "onboard_time": 1717912398,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 215886,
-      "num": 214754,
-      "word": "彭冠英嘻嘻徐海乔不嘻嘻",
-      "onboard_time": 1717944919,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 214564,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1717917017,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199472,
+      "num": 199472,
+      "word": "中国零食饮料逐渐征服外国人",
+      "onboard_time": 1717944558,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 199110,
@@ -1723,12 +1747,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171111,
-      "num": 171111,
-      "word": "中国零食饮料逐渐征服外国人",
-      "onboard_time": 1717944558,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 171680,
+      "num": 171680,
+      "word": "3个洗碗坏习惯或增加患癌风险",
+      "onboard_time": 1717947738,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171011,
@@ -2259,6 +2283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124975,
+      "num": 124975,
+      "word": "他做饭他被骂他委屈巴巴",
+      "onboard_time": 1717947198,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124729,
       "num": 241600,
       "word": "985舰是懂高考祝福的",
@@ -2603,14 +2635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93366,
-      "num": 104878,
-      "word": "他做饭他被骂他委屈巴巴",
-      "onboard_time": 1717947198,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92794,
       "num": 137747,
       "word": "鞠婧祎初恋丸子头",
@@ -2787,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73693,
+      "num": 100118,
+      "word": "熊猫背后的拉链要开了",
+      "onboard_time": 1717944558,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72553,
       "num": 80652,
       "word": "哈哈哈哈哈",
@@ -2811,6 +2843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66810,
+      "num": 100108,
+      "word": "2024端午来啦",
+      "onboard_time": 1717945999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66642,
       "num": 66642,
       "word": "郭碧婷大理在逃南湘",
@@ -2833,6 +2873,14 @@
       "onboard_time": 1717844957,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63126,
+      "num": 100100,
+      "word": "紧急提醒这种粽子绳有毒",
+      "onboard_time": 1717950017,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 62757,
@@ -3161,6 +3209,14 @@
       "onboard_time": 1717878371,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 18007,
+      "num": 263608,
+      "word": "定格在郑州落日下的浪漫",
+      "onboard_time": 1717948759,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 17644,
