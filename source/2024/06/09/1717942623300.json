@@ -1,0 +1,410 @@
+{
+  "runTime": 1717942623300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1229684,
+        "num": 1229684,
+        "word": "不接陌生电话但是要去微信搜",
+        "onboard_time": 1717937238,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 870121,
+        "num": 870121,
+        "word": "刘亦菲5集换了32套造型",
+        "onboard_time": 1717938918,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121506,
+        "num": 582545,
+        "word": "铃声响起少年们告别了难忘的三年",
+        "onboard_time": 1717937657,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1056289,
+        "num": 539900,
+        "word": "新女团成员上节目被开黄腔",
+        "onboard_time": 1717939458,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467561,
+        "num": 467561,
+        "word": "以色列",
+        "onboard_time": 1717934478,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 391357,
+        "num": 391357,
+        "word": "老师最不看好你 可你偏偏最争气",
+        "onboard_time": 1717932017,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 682834,
+        "num": 389743,
+        "word": "刘亦菲彭冠英踮脚吻",
+        "onboard_time": 1717941620,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509669,
+        "num": 389169,
+        "word": "真的和纸片人结婚了",
+        "onboard_time": 1717932497,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379525,
+        "num": 379525,
+        "word": "用李现照片当成相亲对象发给老爸",
+        "onboard_time": 1717941138,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 60578,
+        "num": 351464,
+        "word": "我们大学见",
+        "onboard_time": 1717940899,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1109867,
+        "num": 350816,
+        "word": "我爸以为有教资就能去学校当老师",
+        "onboard_time": 1717929438,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379803,
+        "num": 349706,
+        "word": "杜海涛去披荆斩棘前的最后一顿烧烤",
+        "onboard_time": 1717940839,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345216,
+        "num": 345216,
+        "word": "高考再见",
+        "onboard_time": 1717928357,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 329712,
+        "word": "墨雨云间让大学生神金合理了",
+        "onboard_time": 1717938379,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311974,
+        "num": 311974,
+        "word": "荣梓杉是今年中戏北电双第一",
+        "onboard_time": 1717926558,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303560,
+        "num": 303560,
+        "word": "刘亦菲这段台词好适合准大学生",
+        "onboard_time": 1717936997,
+        "rank": 15,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 281016,
+        "num": 281016,
+        "word": "日本出现巨型章鱼",
+        "onboard_time": 1717909336,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240226,
+        "num": 240226,
+        "word": "女子厕所装百叶窗走光3年浑然不知",
+        "onboard_time": 1717941979,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223139,
+        "num": 223139,
+        "word": "郑州一小区发生火灾造成4人遇难",
+        "onboard_time": 1717934777,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185158,
+        "num": 185158,
+        "word": "GenG冠军",
+        "onboard_time": 1717938678,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1244043,
+        "num": 184875,
+        "word": "高铁上拒绝了宝妈的换座要求",
+        "onboard_time": 1717937717,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473228,
+        "num": 184664,
+        "word": "张翰当伴郎",
+        "onboard_time": 1717941679,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272860,
+        "num": 184204,
+        "word": "请问你俩不亲是谁的问题",
+        "onboard_time": 1717937958,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247425,
+        "num": 183895,
+        "word": "金价大跌消费者还想再等等",
+        "onboard_time": 1717937838,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235095,
+        "num": 183494,
+        "word": "相亲对象对我隐瞒了学历",
+        "onboard_time": 1717933877,
+        "rank": 24,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 231030,
+        "num": 183009,
+        "word": "玫瑰的故事",
+        "onboard_time": 1717935439,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217704,
+        "num": 182606,
+        "word": "高考生催更墨雨云间",
+        "onboard_time": 1717941620,
+        "rank": 26,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 200720,
+        "num": 182534,
+        "word": "极限挑战",
+        "onboard_time": 1717940358,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195208,
+        "num": 181892,
+        "word": "关晓彤翟潇闻合作现偶",
+        "onboard_time": 1717940598,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193043,
+        "num": 181720,
+        "word": "曾舜晞16岁放弃offer进入娱乐圈",
+        "onboard_time": 1717929918,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186964,
+        "num": 181418,
+        "word": "墨雨云间",
+        "onboard_time": 1717934117,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181130,
+        "num": 181130,
+        "word": "高考刚结束男孩喜提新手机",
+        "onboard_time": 1717923919,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 174158,
+        "num": 174158,
+        "word": "于正审美",
+        "onboard_time": 1717934297,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168051,
+        "num": 168051,
+        "word": "法网",
+        "onboard_time": 1717938138,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140265,
+        "num": 140265,
+        "word": "猫表达爱的方式",
+        "onboard_time": 1717937657,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137581,
+        "num": 137581,
+        "word": "周深祝毕业快乐",
+        "onboard_time": 1717941559,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135651,
+        "num": 135651,
+        "word": "潮牌Champion为什么不火了",
+        "onboard_time": 1717930397,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 132572,
+        "num": 132572,
+        "word": "当一个职场女性不背包可以有多自由",
+        "onboard_time": 1717941260,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129996,
+        "num": 129996,
+        "word": "这些地区高考将进入第4天",
+        "onboard_time": 1717939578,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129371,
+        "num": 129371,
+        "word": "王传君拿错手机把志胜活儿拒了",
+        "onboard_time": 1717929319,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128400,
+        "num": 128400,
+        "word": "主播多次违规直播福宝被终身禁入",
+        "onboard_time": 1717920377,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123786,
+        "num": 123786,
+        "word": "彭冠英嘴角比AK难压",
+        "onboard_time": 1717940478,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117799,
+        "num": 117799,
+        "word": "边伯贤 不喜欢我就不要买我的票",
+        "onboard_time": 1717928179,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111548,
+        "num": 111548,
+        "word": "oner巡演",
+        "onboard_time": 1717939339,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108311,
+        "num": 108311,
+        "word": "Karina开球",
+        "onboard_time": 1717924638,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99114,
+        "num": 99114,
+        "word": "阿Sa徐明浩胃病",
+        "onboard_time": 1717934538,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98082,
+        "num": 98082,
+        "word": "妈妈考场外用一排爱豆照片迎接女儿",
+        "onboard_time": 1717935558,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92414,
+        "num": 92414,
+        "word": "十个勤天演唱会抢票",
+        "onboard_time": 1717929557,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87684,
+        "num": 87684,
+        "word": "中信集团副总经理徐佐被查",
+        "onboard_time": 1717932317,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87571,
+        "num": 87571,
+        "word": "走走停停",
+        "onboard_time": 1717938199,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心系文化和自然遗产保护#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717940048485,
+  "endTime": 1717942623300,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1244043,
+      "num": 211371,
+      "word": "高铁上拒绝了宝妈的换座要求",
+      "onboard_time": 1717937717,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1180073,
       "num": 1180073,
       "word": "主播多次违规直播福宝被终身禁入",
@@ -99,12 +107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1028807,
-      "num": 211371,
-      "word": "高铁上拒绝了宝妈的换座要求",
-      "onboard_time": 1717937717,
-      "rank": 20,
-      "category": "情感"
+      "raw_hot": 1056289,
+      "num": 539900,
+      "word": "新女团成员上节目被开黄腔",
+      "onboard_time": 1717939458,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 1012793,
@@ -153,6 +161,14 @@
       "onboard_time": 1717912937,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 870121,
+      "num": 870121,
+      "word": "刘亦菲5集换了32套造型",
+      "onboard_time": 1717938918,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 768578,
@@ -249,6 +265,14 @@
       "onboard_time": 1717928357,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 682834,
+      "num": 389743,
+      "word": "刘亦菲彭冠英踮脚吻",
+      "onboard_time": 1717941620,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 679634,
@@ -515,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473228,
+      "num": 184664,
+      "word": "张翰当伴郎",
+      "onboard_time": 1717941679,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470091,
       "num": 470091,
       "word": "原来高考还没结束",
@@ -635,14 +667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 426355,
-      "num": 208968,
-      "word": "刘亦菲5集换了32套造型",
-      "onboard_time": 1717938918,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 426119,
       "num": 426119,
       "word": "刘亦菲没待播剧了",
@@ -705,6 +729,22 @@
       "onboard_time": 1717915997,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379803,
+      "num": 349706,
+      "word": "杜海涛去披荆斩棘前的最后一顿烧烤",
+      "onboard_time": 1717940839,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 379525,
+      "num": 379525,
+      "word": "用李现照片当成相亲对象发给老爸",
+      "onboard_time": 1717941138,
+      "rank": 8,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 372394,
@@ -825,6 +865,14 @@
       "onboard_time": 1717898477,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329712,
+      "num": 329712,
+      "word": "墨雨云间让大学生神金合理了",
+      "onboard_time": 1717938379,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 325221,
@@ -963,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272860,
+      "num": 200785,
+      "word": "请问你俩不亲是谁的问题",
+      "onboard_time": 1717937958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272550,
       "num": 272550,
       "word": "陈都灵张凌赫狐妖封面",
@@ -995,14 +1051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262066,
-      "num": 262066,
-      "word": "新女团成员上节目被开黄腔",
-      "onboard_time": 1717939458,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 260982,
       "num": 260982,
       "word": "萧蘅薛芳菲亲上了",
@@ -1019,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257805,
-      "num": 200785,
-      "word": "请问你俩不亲是谁的问题",
-      "onboard_time": 1717937958,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256491,
       "num": 256491,
       "word": "刘亦菲至今没结婚的原因",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1717888273,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 247425,
+      "num": 197973,
+      "word": "金价大跌消费者还想再等等",
+      "onboard_time": 1717937838,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 247003,
@@ -1091,6 +1139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 240226,
+      "num": 240226,
+      "word": "女子厕所装百叶窗走光3年浑然不知",
+      "onboard_time": 1717941979,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233492,
       "num": 233492,
       "word": "cube",
@@ -1112,14 +1168,6 @@
       "word": "刘亦菲个人微指破3.7亿",
       "onboard_time": 1717899496,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 225957,
-      "num": 194835,
-      "word": "墨雨云间让大学生神金合理了",
-      "onboard_time": 1717938379,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1145,6 +1193,14 @@
       "onboard_time": 1717913598,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217704,
+      "num": 182606,
+      "word": "高考生催更墨雨云间",
+      "onboard_time": 1717941620,
+      "rank": 26,
+      "category": "剧集,教育"
     },
     {
       "raw_hot": 217256,
@@ -1185,14 +1241,6 @@
       "onboard_time": 1717900217,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210924,
-      "num": 197973,
-      "word": "金价大跌消费者还想再等等",
-      "onboard_time": 1717937838,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 210580,
@@ -1267,6 +1315,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200720,
+      "num": 182534,
+      "word": "极限挑战",
+      "onboard_time": 1717940358,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200303,
       "num": 200303,
       "word": "九尾双开门队服",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1717901297,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195208,
+      "num": 181892,
+      "word": "关晓彤翟潇闻合作现偶",
+      "onboard_time": 1717940598,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 193805,
@@ -1883,6 +1947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140265,
+      "num": 140265,
+      "word": "猫表达爱的方式",
+      "onboard_time": 1717937657,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 139619,
       "num": 139619,
       "word": "玫瑰的故事热辣滚炕",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1717862958,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137581,
+      "num": 137581,
+      "word": "周深祝毕业快乐",
+      "onboard_time": 1717941559,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 136800,
@@ -1971,11 +2051,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132294,
-      "num": 132294,
-      "word": "猫表达爱的方式",
-      "onboard_time": 1717937657,
-      "rank": 38,
+      "raw_hot": 132572,
+      "num": 132572,
+      "word": "当一个职场女性不背包可以有多自由",
+      "onboard_time": 1717941260,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -2073,6 +2153,14 @@
       "onboard_time": 1717912038,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123786,
+      "num": 123786,
+      "word": "彭冠英嘴角比AK难压",
+      "onboard_time": 1717940478,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 122972,
@@ -2545,6 +2633,14 @@
       "onboard_time": 1717908078,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 60578,
+      "num": 351464,
+      "word": "我们大学见",
+      "onboard_time": 1717940899,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 59576,
