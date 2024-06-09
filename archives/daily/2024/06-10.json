@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717957426260,
+  "endTime": 1717958154232,
   "band_list": [
     {
       "raw_hot": 1027798,
@@ -411,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 68071,
+      "num": 99772,
+      "word": "原伟东称曾遭牙签扎指甲逼供",
+      "onboard_time": 1717954333,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 66526,
       "num": 100103,
       "word": "极限挑战",
@@ -425,14 +433,6 @@
       "onboard_time": 1717946180,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 61759,
-      "num": 99772,
-      "word": "原伟东称曾遭牙签扎指甲逼供",
-      "onboard_time": 1717954333,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 57097,
@@ -459,7 +459,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46032,
+      "raw_hot": 46148,
       "num": 135991,
       "word": "廊坊灭门案再开庭",
       "onboard_time": 1717952475,
@@ -499,8 +499,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33436,
-      "num": 33436,
+      "raw_hot": 34511,
+      "num": 34511,
       "word": "00后的毕业照好有宿命感",
       "onboard_time": 1717955713,
       "rank": 41,
@@ -523,7 +523,15 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 7308,
+      "raw_hot": 10823,
+      "num": 41770,
+      "word": "爸爸用饮料瓶为儿子做3.5米长龙舟",
+      "onboard_time": 1717958053,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8492,
       "num": 103247,
       "word": "外卖员被困激流消防公主抱式救出",
       "onboard_time": 1717956191,
