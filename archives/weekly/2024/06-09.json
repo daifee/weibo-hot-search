@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717922073396,
+  "endTime": 1717924779663,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -24,6 +24,14 @@
       "word": "日本出现巨型章鱼",
       "onboard_time": 1717909336,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1180073,
+      "num": 1180073,
+      "word": "主播多次违规直播福宝被终身禁入",
+      "onboard_time": 1717920377,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -155,6 +163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 698045,
+      "num": 698045,
+      "word": "巩俐非常喜欢尊敬刘亦菲",
+      "onboard_time": 1717921518,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 679634,
       "num": 679634,
       "word": "哈马斯称确认美国参与袭击加沙难民营",
@@ -211,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 607773,
+      "num": 208399,
+      "word": "部分日本女性为见男公关卖淫还债",
+      "onboard_time": 1717921818,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592549,
       "num": 592549,
       "word": "王星越 老公在此",
@@ -233,14 +257,6 @@
       "onboard_time": 1717915758,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 563082,
-      "num": 563082,
-      "word": "主播多次违规直播福宝被终身禁入",
-      "onboard_time": 1717920377,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 559258,
@@ -321,6 +337,14 @@
       "onboard_time": 1717828457,
       "rank": 23,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 479515,
+      "num": 479515,
+      "word": "国色芳华",
+      "onboard_time": 1717922298,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 479018,
@@ -483,14 +507,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 365294,
-      "num": 365294,
-      "word": "巩俐非常喜欢尊敬刘亦菲",
-      "onboard_time": 1717921518,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 360734,
       "num": 360734,
       "word": "种地吧 草莓爷爷",
@@ -521,6 +537,14 @@
       "onboard_time": 1717892175,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 355021,
+      "num": 355021,
+      "word": "姐姐出cos接妹妹高考",
+      "onboard_time": 1717922479,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 351269,
@@ -803,14 +827,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 215860,
-      "num": 208399,
-      "word": "部分日本女性为见男公关卖淫还债",
-      "onboard_time": 1717921818,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214564,
       "num": 208391,
       "word": "抠抠嗖嗖的花了很多钱",
@@ -857,6 +873,14 @@
       "onboard_time": 1717910297,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206630,
+      "num": 190103,
+      "word": "Karina开球",
+      "onboard_time": 1717924638,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 205991,
@@ -1179,6 +1203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157477,
+      "num": 157477,
+      "word": "朱珠 高智姐感",
+      "onboard_time": 1717924037,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "霉霉的小品没有瓶颈期吗",
@@ -1219,12 +1251,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 152046,
+      "num": 152046,
+      "word": "这是论文查重不是亲子鉴定",
+      "onboard_time": 1717923078,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151809,
       "num": 151809,
       "word": "何浩楠 辣椒又长出一茬了",
       "onboard_time": 1717912817,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151452,
+      "num": 151452,
+      "word": "陈雨菲卫冕印尼赛",
+      "onboard_time": 1717922837,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 150475,
@@ -1547,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109382,
+      "num": 109382,
+      "word": "陈雨菲女单夺冠",
+      "onboard_time": 1717924577,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108059,
       "num": 296920,
       "word": "上海短视频小横店日租金6000",
@@ -1587,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98250,
+      "num": 355145,
+      "word": "高考刚结束男孩喜提新手机",
+      "onboard_time": 1717923919,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 97798,
       "num": 194198,
       "word": "高考考场外87岁奶奶说我来看热闹",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1717895536,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 95322,
+      "num": 95322,
+      "word": "无畏契约",
+      "onboard_time": 1717924757,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 94420,
@@ -1721,6 +1793,14 @@
       "onboard_time": 1717853419,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 82232,
+      "num": 834622,
+      "word": "无论结果如何你都是最闪耀的星",
+      "onboard_time": 1717922418,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 81156,
@@ -2188,6 +2268,9 @@
     },
     {
       "word": "#习近平眼中的文化传承#"
+    },
+    {
+      "word": "#习近平总书记心系文化和自然遗产保护#"
     }
   ]
 }
