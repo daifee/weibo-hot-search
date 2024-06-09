@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717929307279,
+  "endTime": 1717931712909,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -99,6 +99,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 892419,
+      "num": 892419,
+      "word": "重庆龙舟侧翻事故遇难者家属发声",
+      "onboard_time": 1717927517,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 887018,
       "num": 887018,
       "word": "高考出题人 考完一门放一个",
@@ -187,6 +195,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 689541,
+      "num": 689541,
+      "word": "高考刚结束男孩喜提新手机",
+      "onboard_time": 1717923919,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 685384,
+      "num": 685384,
+      "word": "高考再见",
+      "onboard_time": 1717928357,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 679634,
       "num": 679634,
       "word": "哈马斯称确认美国参与袭击加沙难民营",
@@ -211,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 649809,
+      "num": 272688,
+      "word": "我爸以为有教资就能去学校当老师",
+      "onboard_time": 1717929438,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 646351,
       "num": 208399,
       "word": "部分日本女性为见男公关卖淫还债",
@@ -225,6 +257,14 @@
       "onboard_time": 1717849999,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 644956,
+      "num": 644956,
+      "word": "高考生物",
+      "onboard_time": 1717929617,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 643710,
@@ -249,6 +289,14 @@
       "onboard_time": 1717896797,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 605211,
+      "num": 605211,
+      "word": "边伯贤 不喜欢我就不要买我的票",
+      "onboard_time": 1717928179,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 592549,
@@ -299,20 +347,20 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 552475,
+      "num": 552475,
+      "word": "詹翌平接陈逸轩下考",
+      "onboard_time": 1717930158,
+      "rank": 7,
+      "category": "网红,教育"
+    },
+    {
       "raw_hot": 541859,
       "num": 541859,
       "word": "山东政治",
       "onboard_time": 1717908797,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 538875,
-      "num": 538875,
-      "word": "高考刚结束男孩喜提新手机",
-      "onboard_time": 1717923919,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 532432,
@@ -443,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444999,
+      "num": 444999,
+      "word": "牛蛙影响高考被抓后续",
+      "onboard_time": 1717928117,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 444571,
       "num": 444571,
       "word": "起猛了亚当参加新说唱了",
@@ -499,20 +555,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 413736,
+      "num": 413736,
+      "word": "王传君拿错手机把志胜活儿拒了",
+      "onboard_time": 1717929319,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402479,
       "num": 402479,
       "word": "周柯宇脱衣服帮迪丽热巴挡腿",
       "onboard_time": 1717901596,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401910,
-      "num": 401910,
-      "word": "重庆龙舟侧翻事故遇难者家属发声",
-      "onboard_time": 1717927517,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391996,
@@ -571,12 +627,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 361361,
+      "num": 361361,
+      "word": "刘亦菲没待播剧了",
+      "onboard_time": 1717929377,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360734,
       "num": 360734,
       "word": "种地吧 草莓爷爷",
       "onboard_time": 1717908498,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358647,
+      "num": 358647,
+      "word": "十个勤天演唱会抢票",
+      "onboard_time": 1717929557,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 358533,
@@ -683,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319433,
-      "num": 319433,
-      "word": "边伯贤 不喜欢我就不要买我的票",
-      "onboard_time": 1717928179,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 312953,
       "num": 312953,
       "word": "你好星期六下期有陈昊宇陈丽君",
@@ -723,20 +787,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 303198,
+      "num": 303198,
+      "word": "广东生物 写不完",
+      "onboard_time": 1717930757,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 283839,
       "num": 283839,
       "word": "石宇奇携双冠登顶世界第一",
       "onboard_time": 1717928478,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283019,
-      "num": 283019,
-      "word": "牛蛙影响高考被抓后续",
-      "onboard_time": 1717928117,
-      "rank": 42,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 282159,
@@ -771,6 +835,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 276203,
+      "num": 276203,
+      "word": "吴谨言王星越再拍部剧吧",
+      "onboard_time": 1717926558,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "离开易建联谁还把邓超当小孩",
@@ -793,6 +865,14 @@
       "onboard_time": 1717912339,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262491,
+      "num": 262491,
+      "word": "曾舜晞16岁放弃offer进入娱乐圈",
+      "onboard_time": 1717929918,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 260982,
@@ -873,14 +953,6 @@
       "onboard_time": 1717925597,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 234693,
-      "num": 216315,
-      "word": "吴谨言王星越再拍部剧吧",
-      "onboard_time": 1717926558,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 233492,
@@ -1017,6 +1089,14 @@
       "onboard_time": 1717909997,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199722,
+      "num": 199722,
+      "word": "潮牌Champion为什么不火了",
+      "onboard_time": 1717930397,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 199527,
@@ -1259,12 +1339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167522,
-      "num": 412489,
-      "word": "高考再见",
-      "onboard_time": 1717928357,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 167538,
+      "num": 167538,
+      "word": "蔡徐坤顺毛侧颜",
+      "onboard_time": 1717930097,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 166947,
@@ -1313,6 +1393,14 @@
       "onboard_time": 1717912157,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160356,
+      "num": 160356,
+      "word": "多地高考结束了",
+      "onboard_time": 1717928958,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 160278,
@@ -1507,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141577,
+      "num": 141577,
+      "word": "今日快乐今日发",
+      "onboard_time": 1717931059,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140655,
       "num": 140655,
       "word": "原神4.7版本",
@@ -1699,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118127,
+      "num": 118127,
+      "word": "广东政治 写不完",
+      "onboard_time": 1717930577,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117831,
       "num": 117831,
       "word": "西班牙运动员提前庆祝错失铜牌",
@@ -1747,6 +1851,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112818,
+      "num": 112818,
+      "word": "高考结束走出考场的心情",
+      "onboard_time": 1717930938,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 110777,
+      "num": 110777,
+      "word": "于正晒吴谨言",
+      "onboard_time": 1717931597,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -1769,6 +1889,14 @@
       "onboard_time": 1717900398,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109487,
+      "num": 109487,
+      "word": "薛芳菲做了片刻的自己",
+      "onboard_time": 1717930338,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 108322,
@@ -2259,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36953,
+      "num": 430723,
+      "word": "父亲写给高考女儿的信让人泪目",
+      "onboard_time": 1717931357,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 36066,
       "num": 77641,
       "word": "男子不知浙江高速拖车免费拒绝施救",
@@ -2305,6 +2441,14 @@
       "onboard_time": 1717900877,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 29108,
+      "num": 265815,
+      "word": "魏大勋毛不易郭麒麟被贴脸开大",
+      "onboard_time": 1717927878,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 25957,
@@ -2385,14 +2529,6 @@
       "onboard_time": 1717852099,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13937,
-      "num": 237586,
-      "word": "魏大勋毛不易郭麒麟被贴脸开大",
-      "onboard_time": 1717927878,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 13728,
