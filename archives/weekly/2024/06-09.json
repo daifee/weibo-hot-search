@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717928344778,
+  "endTime": 1717929307279,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -27,20 +27,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1290048,
+      "num": 1290048,
+      "word": "荣梓杉是今年中戏北电双第一",
+      "onboard_time": 1717926558,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1180073,
       "num": 1180073,
       "word": "主播多次违规直播福宝被终身禁入",
       "onboard_time": 1717920377,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1173598,
-      "num": 1173598,
-      "word": "荣梓杉是今年中戏北电双第一",
-      "onboard_time": 1717926558,
-      "rank": 0,
-      "category": "艺人"
     },
     {
       "raw_hot": 1147693,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 565467,
+      "num": 565467,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1717925657,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 559258,
       "num": 344255,
       "word": "女朋友的世界观震惊到我了",
@@ -299,12 +307,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 540554,
-      "num": 540554,
-      "word": "本周桃花运最旺的星座",
-      "onboard_time": 1717925657,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 538875,
+      "num": 538875,
+      "word": "高考刚结束男孩喜提新手机",
+      "onboard_time": 1717923919,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 532432,
@@ -499,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401910,
+      "num": 401910,
+      "word": "重庆龙舟侧翻事故遇难者家属发声",
+      "onboard_time": 1717927517,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 391996,
       "num": 391996,
       "word": "鼓浪屿",
@@ -537,6 +553,22 @@
       "onboard_time": 1717916597,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 372185,
+      "num": 372185,
+      "word": "高考终于结束了",
+      "onboard_time": 1717928958,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 361868,
+      "num": 361868,
+      "word": "蔡徐坤Afterglow上线",
+      "onboard_time": 1717928597,
+      "rank": 13,
+      "category": "音乐"
     },
     {
       "raw_hot": 360734,
@@ -651,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319433,
+      "num": 319433,
+      "word": "边伯贤 不喜欢我就不要买我的票",
+      "onboard_time": 1717928179,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 312953,
       "num": 312953,
       "word": "你好星期六下期有陈昊宇陈丽君",
@@ -683,11 +723,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 296735,
-      "num": 355145,
-      "word": "高考刚结束男孩喜提新手机",
-      "onboard_time": 1717923919,
-      "rank": 9,
+      "raw_hot": 283839,
+      "num": 283839,
+      "word": "石宇奇携双冠登顶世界第一",
+      "onboard_time": 1717928478,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283019,
+      "num": 283019,
+      "word": "牛蛙影响高考被抓后续",
+      "onboard_time": 1717928117,
+      "rank": 42,
       "category": "社会新闻,教育"
     },
     {
@@ -697,6 +745,14 @@
       "onboard_time": 1717919656,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281254,
+      "num": 281254,
+      "word": "种地吧",
+      "onboard_time": 1717926018,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 280459,
@@ -819,6 +875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 234693,
+      "num": 216315,
+      "word": "吴谨言王星越再拍部剧吧",
+      "onboard_time": 1717926558,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233492,
       "num": 233492,
       "word": "cube",
@@ -899,27 +963,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 212279,
-      "num": 212279,
-      "word": "吴谨言王星越再拍部剧吧",
-      "onboard_time": 1717926558,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211371,
       "num": 211371,
       "word": "店家回应曾承诺5年后回收钻戒女子退货被拒",
       "onboard_time": 1717900217,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211176,
-      "num": 211176,
-      "word": "重庆龙舟侧翻事故遇难者家属发声",
-      "onboard_time": 1717927517,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175140,
+      "num": 175140,
+      "word": "江苏政治考cosplay",
+      "onboard_time": 1717927997,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 173328,
       "num": 173328,
       "word": "moyan 小老虎",
@@ -1201,6 +1257,22 @@
       "onboard_time": 1717846697,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167522,
+      "num": 412489,
+      "word": "高考再见",
+      "onboard_time": 1717928357,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 166947,
+      "num": 166947,
+      "word": "不要再把面膜放冰箱了",
+      "onboard_time": 1717927637,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 165834,
@@ -1387,6 +1459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 144715,
+      "num": 144715,
+      "word": "高考时间",
+      "onboard_time": 1717928657,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144504,
       "num": 163219,
       "word": "高考准考证别发朋友圈",
@@ -1513,14 +1593,6 @@
       "onboard_time": 1717915398,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127303,
-      "num": 127303,
-      "word": "不要再把面膜放冰箱了",
-      "onboard_time": 1717927637,
-      "rank": 31,
-      "category": "美妆"
     },
     {
       "raw_hot": 126758,
@@ -1675,14 +1747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111569,
-      "num": 111569,
-      "word": "边伯贤 不喜欢我就不要买我的票",
-      "onboard_time": 1717928179,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -1691,20 +1755,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110207,
+      "num": 110207,
+      "word": "光与夜之恋",
+      "onboard_time": 1717929079,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109922,
       "num": 109922,
       "word": "主人比死神先找到了我",
       "onboard_time": 1717900398,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109625,
-      "num": 109625,
-      "word": "种地吧",
-      "onboard_time": 1717926018,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 108322,
@@ -1723,14 +1787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107976,
-      "num": 107976,
-      "word": "牛蛙影响高考被抓后续",
-      "onboard_time": 1717928117,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 107796,
       "num": 137762,
       "word": "秦霄贤你的圆圆姐来了",
@@ -1745,14 +1801,6 @@
       "onboard_time": 1717903397,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104391,
-      "num": 104391,
-      "word": "江苏政治考cosplay",
-      "onboard_time": 1717927997,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 103031,
@@ -2339,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13937,
+      "num": 237586,
+      "word": "魏大勋毛不易郭麒麟被贴脸开大",
+      "onboard_time": 1717927878,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13728,
       "num": 135772,
       "word": "橘子摊老板街头请高考生吃橘子",
@@ -2368,14 +2424,6 @@
       "word": "魏大勋毛不易郭麒麟互评",
       "onboard_time": 1717909457,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 11073,
-      "num": 122036,
-      "word": "魏大勋毛不易郭麒麟被贴脸开大",
-      "onboard_time": 1717927878,
-      "rank": 34,
       "category": "综艺"
     },
     {

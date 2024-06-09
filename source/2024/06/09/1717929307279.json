@@ -1,0 +1,410 @@
+{
+  "runTime": 1717929307279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290048,
+        "num": 1290048,
+        "word": "荣梓杉是今年中戏北电双第一",
+        "onboard_time": 1717926558,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 903017,
+        "num": 903017,
+        "word": "女子误将墓园认景区花1万拍婚纱",
+        "onboard_time": 1717918217,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72381,
+        "num": 656701,
+        "word": "无论结果如何你都是最闪耀的星",
+        "onboard_time": 1717922418,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 621080,
+        "num": 621080,
+        "word": "主播多次违规直播福宝被终身禁入",
+        "onboard_time": 1717920377,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616756,
+        "num": 616756,
+        "word": "Karina开球",
+        "onboard_time": 1717924638,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565467,
+        "num": 565467,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1717925657,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 538875,
+        "num": 538875,
+        "word": "高考刚结束男孩喜提新手机",
+        "onboard_time": 1717923919,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 507861,
+        "num": 507861,
+        "word": "巩俐非常喜欢尊敬刘亦菲",
+        "onboard_time": 1717921518,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 460832,
+        "num": 460832,
+        "word": "日本出现巨型章鱼",
+        "onboard_time": 1717909336,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167522,
+        "num": 412489,
+        "word": "高考再见",
+        "onboard_time": 1717928357,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 401910,
+        "num": 401910,
+        "word": "重庆龙舟侧翻事故遇难者家属发声",
+        "onboard_time": 1717927517,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372345,
+        "num": 372345,
+        "word": "姐姐出cos接妹妹高考",
+        "onboard_time": 1717922479,
+        "rank": 11,
+        "category": "游戏,教育"
+      },
+      {
+        "raw_hot": 372185,
+        "num": 372185,
+        "word": "高考终于结束了",
+        "onboard_time": 1717928958,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 361868,
+        "num": 361868,
+        "word": "蔡徐坤Afterglow上线",
+        "onboard_time": 1717928597,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 319433,
+        "num": 319433,
+        "word": "边伯贤 不喜欢我就不要买我的票",
+        "onboard_time": 1717928179,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299520,
+        "num": 299520,
+        "word": "荣梓杉走出考场开始营业",
+        "onboard_time": 1717911977,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283839,
+        "num": 283839,
+        "word": "石宇奇携双冠登顶世界第一",
+        "onboard_time": 1717928478,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283019,
+        "num": 283019,
+        "word": "牛蛙影响高考被抓后续",
+        "onboard_time": 1717928117,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 281254,
+        "num": 281254,
+        "word": "种地吧",
+        "onboard_time": 1717926018,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245021,
+        "num": 245021,
+        "word": "王星越 老公在此",
+        "onboard_time": 1717918217,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13937,
+        "num": 237586,
+        "word": "魏大勋毛不易郭麒麟被贴脸开大",
+        "onboard_time": 1717927878,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236069,
+        "num": 236069,
+        "word": "高考出题人 考完一门放一个",
+        "onboard_time": 1717912937,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234245,
+        "num": 234245,
+        "word": "国色芳华",
+        "onboard_time": 1717922298,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216361,
+        "num": 216361,
+        "word": "山东化学",
+        "onboard_time": 1717925537,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234693,
+        "num": 216315,
+        "word": "吴谨言王星越再拍部剧吧",
+        "onboard_time": 1717926558,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215158,
+        "num": 215158,
+        "word": "高考是终点也是起点",
+        "onboard_time": 1717925597,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204826,
+        "num": 204826,
+        "word": "玫瑰的故事以爱为营同一造型团队",
+        "onboard_time": 1717915758,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197350,
+        "num": 197350,
+        "word": "原来高考还没结束",
+        "onboard_time": 1717910778,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 182181,
+        "num": 182181,
+        "word": "朱珠 高智姐感",
+        "onboard_time": 1717924037,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175140,
+        "num": 175140,
+        "word": "江苏政治考cosplay",
+        "onboard_time": 1717927997,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 173629,
+        "num": 173629,
+        "word": "女朋友的世界观震惊到我了",
+        "onboard_time": 1717910539,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166947,
+        "num": 166947,
+        "word": "不要再把面膜放冰箱了",
+        "onboard_time": 1717927637,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144715,
+        "num": 144715,
+        "word": "高考时间",
+        "onboard_time": 1717928657,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143381,
+        "num": 143381,
+        "word": "2024高考查分时间汇总",
+        "onboard_time": 1717915038,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141895,
+        "num": 141895,
+        "word": "可口可乐的新品为什么卖不动",
+        "onboard_time": 1717927098,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128114,
+        "num": 128114,
+        "word": "陈雨菲女单夺冠",
+        "onboard_time": 1717924577,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125716,
+        "num": 125716,
+        "word": "鞠婧祎衣服吊带断了",
+        "onboard_time": 1717904356,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119676,
+        "num": 119676,
+        "word": "高圆圆回复秦霄贤包场",
+        "onboard_time": 1717918818,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119111,
+        "num": 119111,
+        "word": "200元一斤蓝莓跌到8元",
+        "onboard_time": 1717913357,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116465,
+        "num": 116465,
+        "word": "建议用户每周重新启动一次手机",
+        "onboard_time": 1717914137,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112413,
+        "num": 112413,
+        "word": "墨雨云间排面",
+        "onboard_time": 1717925897,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110851,
+        "num": 110851,
+        "word": "山东化学 简单",
+        "onboard_time": 1717927817,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110207,
+        "num": 110207,
+        "word": "光与夜之恋",
+        "onboard_time": 1717929079,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108455,
+        "num": 108455,
+        "word": "刘亦菲 扛剧",
+        "onboard_time": 1717894576,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107729,
+        "num": 107729,
+        "word": "以军直升机直接向人群开火现场成地狱",
+        "onboard_time": 1717916597,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 97177,
+        "num": 97177,
+        "word": "韩国医协今将宣布集体停诊计划",
+        "onboard_time": 1717915997,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95779,
+        "num": 95779,
+        "word": "这是论文查重不是亲子鉴定",
+        "onboard_time": 1717923078,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87503,
+        "num": 87503,
+        "word": "高考政治",
+        "onboard_time": 1717909879,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94576,
+        "num": 85638,
+        "word": "我排着队拿着刘亦菲的号码牌",
+        "onboard_time": 1717926858,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82733,
+        "num": 82733,
+        "word": "TF三代这次是真的要登陆了",
+        "onboard_time": 1717916359,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
