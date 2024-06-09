@@ -1,0 +1,410 @@
+{
+  "runTime": 1717960577483,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 166287,
+        "num": 166287,
+        "word": "刘亦菲头像",
+        "onboard_time": 1717948399,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117939,
+        "num": 117939,
+        "word": "不接陌生电话但是要去微信搜",
+        "onboard_time": 1717937238,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22775,
+        "num": 79129,
+        "word": "一批诋毁企业形象账号被处置",
+        "onboard_time": 1717945819,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175488,
+        "num": 78992,
+        "word": "女子注射400支玻尿酸丰臀致臀部感染",
+        "onboard_time": 1717944259,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118957,
+        "num": 78879,
+        "word": "陈雨浓孙程潇吵架",
+        "onboard_time": 1717949119,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78731,
+        "num": 78731,
+        "word": "潮牌Champion为什么不火了",
+        "onboard_time": 1717930397,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 71468,
+        "num": 71468,
+        "word": "刘亦菲5集换了32套造型",
+        "onboard_time": 1717938918,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63009,
+        "num": 63009,
+        "word": "高考下一章 墨雨云间",
+        "onboard_time": 1717945218,
+        "rank": 7,
+        "category": "剧集,教育"
+      },
+      {
+        "raw_hot": 53357,
+        "num": 53357,
+        "word": "法网",
+        "onboard_time": 1717938138,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28433,
+        "num": 53135,
+        "word": "廊坊灭门案再开庭",
+        "onboard_time": 1717952475,
+        "rank": 9,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 125470,
+        "num": 52607,
+        "word": "女子厕所装百叶窗走光3年浑然不知",
+        "onboard_time": 1717941979,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97947,
+        "num": 52544,
+        "word": "新女团成员上节目被开黄腔",
+        "onboard_time": 1717939458,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59959,
+        "num": 51948,
+        "word": "彭冠英嘻嘻徐海乔不嘻嘻",
+        "onboard_time": 1717944919,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51733,
+        "num": 51733,
+        "word": "董宇辉称非常反感被叫网红",
+        "onboard_time": 1717959731,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 46541,
+        "num": 46541,
+        "word": "玫瑰的故事",
+        "onboard_time": 1717935439,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45607,
+        "num": 45607,
+        "word": "原伟东称曾遭牙签扎指甲逼供",
+        "onboard_time": 1717954333,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 44570,
+        "num": 44570,
+        "word": "我爸以为有教资就能去学校当老师",
+        "onboard_time": 1717929438,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42805,
+        "num": 42805,
+        "word": "墨雨云间",
+        "onboard_time": 1717934117,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36679,
+        "num": 36679,
+        "word": "以色列",
+        "onboard_time": 1717934478,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 33473,
+        "num": 35906,
+        "word": "早田希娜女单冠军",
+        "onboard_time": 1717945279,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59708,
+        "num": 35864,
+        "word": "高铁上拒绝了宝妈的换座要求",
+        "onboard_time": 1717937717,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37048,
+        "num": 35797,
+        "word": "3个洗碗坏习惯或增加患癌风险",
+        "onboard_time": 1717947738,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35669,
+        "num": 35669,
+        "word": "真的和纸片人结婚了",
+        "onboard_time": 1717932497,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35471,
+        "num": 35471,
+        "word": "经常吃水煮蛋是养肝还是伤肝",
+        "onboard_time": 1717944799,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 34278,
+        "num": 34278,
+        "word": "他做饭他被骂他委屈巴巴",
+        "onboard_time": 1717947198,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34065,
+        "num": 34065,
+        "word": "老破小二手房突然火了",
+        "onboard_time": 1717944620,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33683,
+        "num": 33683,
+        "word": "于正审美",
+        "onboard_time": 1717934297,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32865,
+        "num": 32865,
+        "word": "紧急提醒这种粽子绳有毒",
+        "onboard_time": 1717950017,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 30060,
+        "num": 32261,
+        "word": "00后的毕业照好有宿命感",
+        "onboard_time": 1717955713,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25175,
+        "num": 32237,
+        "word": "高考再见",
+        "onboard_time": 1717928357,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 33001,
+        "num": 32234,
+        "word": "殷罡逝世",
+        "onboard_time": 1717960452,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32229,
+        "num": 32229,
+        "word": "小警犬因太友好而被开除",
+        "onboard_time": 1717943840,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31318,
+        "num": 31318,
+        "word": "刘亦菲彭冠英踮脚吻",
+        "onboard_time": 1717941620,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31314,
+        "num": 31314,
+        "word": "为什么离职的都去新疆了",
+        "onboard_time": 1717943840,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30072,
+        "num": 30072,
+        "word": "张翰当伴郎",
+        "onboard_time": 1717941679,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28740,
+        "num": 28740,
+        "word": "c1ubab詹詹",
+        "onboard_time": 1717953555,
+        "rank": 35,
+        "category": "网红,教育"
+      },
+      {
+        "raw_hot": 27458,
+        "num": 27458,
+        "word": "黄晓明的眼神比大学生都清澈",
+        "onboard_time": 1717959071,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27000,
+        "num": 27000,
+        "word": "窝囊废赛道挤满了男明星",
+        "onboard_time": 1717951816,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25451,
+        "num": 25451,
+        "word": "胡夏把清华电视踢翻了",
+        "onboard_time": 1717954754,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25352,
+        "num": 25352,
+        "word": "白桃星座",
+        "onboard_time": 1717945638,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25007,
+        "num": 25007,
+        "word": "金价大跌消费者还想再等等",
+        "onboard_time": 1717937838,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24036,
+        "num": 24036,
+        "word": "植物大战僵尸杂交版",
+        "onboard_time": 1717946118,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23758,
+        "num": 23758,
+        "word": "老师最不看好你 可你偏偏最争气",
+        "onboard_time": 1717932017,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23002,
+        "num": 23002,
+        "word": "用李现照片当成相亲对象发给老爸",
+        "onboard_time": 1717941138,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 22902,
+        "num": 22902,
+        "word": "荣梓杉是今年中戏北电双第一",
+        "onboard_time": 1717926558,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22528,
+        "num": 22528,
+        "word": "中国零食饮料逐渐征服外国人",
+        "onboard_time": 1717944558,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21504,
+        "num": 21504,
+        "word": "请问你俩不亲是谁的问题",
+        "onboard_time": 1717937958,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21425,
+        "num": 21425,
+        "word": "姿态冒充Uzi",
+        "onboard_time": 1717946180,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21181,
+        "num": 21181,
+        "word": "相亲对象对我隐瞒了学历",
+        "onboard_time": 1717933877,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 20254,
+        "num": 21181,
+        "word": "宋丹丹问董璇谈恋爱了不",
+        "onboard_time": 1717951456,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心系文化和自然遗产保护#"
+    }
+  }
+}

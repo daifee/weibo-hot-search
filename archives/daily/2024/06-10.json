@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717958154232,
+  "endTime": 1717960577483,
   "band_list": [
     {
       "raw_hot": 1027798,
@@ -443,6 +443,14 @@
       "category": "网红,教育"
     },
     {
+      "raw_hot": 51733,
+      "num": 51733,
+      "word": "董宇辉称非常反感被叫网红",
+      "onboard_time": 1717959731,
+      "rank": 13,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 49803,
       "num": 54356,
       "word": "苏炳添回应帅气高考生喊话",
@@ -507,12 +515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33001,
+      "num": 32234,
+      "word": "殷罡逝世",
+      "onboard_time": 1717960452,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30873,
       "num": 33092,
       "word": "家涛",
       "onboard_time": 1717955532,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27458,
+      "num": 27458,
+      "word": "黄晓明的眼神比大学生都清澈",
+      "onboard_time": 1717959071,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 26638,
