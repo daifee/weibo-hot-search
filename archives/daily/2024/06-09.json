@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717936436310,
+  "endTime": 1717937315102,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -27,12 +27,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1509044,
-      "num": 1509044,
+      "raw_hot": 1605492,
+      "num": 1605492,
       "word": "我爸以为有教资就能去学校当老师",
       "onboard_time": 1717929438,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1485662,
+      "num": 1485662,
+      "word": "以色列",
+      "onboard_time": 1717934478,
+      "rank": 1,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1290048,
@@ -83,14 +91,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1065146,
-      "num": 1065146,
-      "word": "以色列",
-      "onboard_time": 1717934478,
-      "rank": 1,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 1012793,
       "num": 464109,
       "word": "徐海乔经纪人",
@@ -99,8 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 986358,
-      "num": 986358,
+      "raw_hot": 996952,
+      "num": 996952,
       "word": "老师最不看好你 可你偏偏最争气",
       "onboard_time": 1717932017,
       "rank": 30,
@@ -467,6 +467,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 477746,
+      "num": 221895,
+      "word": "相亲对象对我隐瞒了学历",
+      "onboard_time": 1717933877,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 475274,
       "num": 443758,
       "word": "房贷还款先息后本火了",
@@ -480,6 +488,14 @@
       "word": "艺考老师为王星越发声",
       "onboard_time": 1717860618,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 472119,
+      "num": 472119,
+      "word": "真的和纸片人结婚了",
+      "onboard_time": 1717932497,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -513,14 +529,6 @@
       "onboard_time": 1717858159,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 457316,
-      "num": 221895,
-      "word": "相亲对象对我隐瞒了学历",
-      "onboard_time": 1717933877,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 451372,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 439342,
+      "num": 439342,
+      "word": "玫瑰的故事",
+      "onboard_time": 1717846697,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438479,
       "num": 438479,
       "word": "金价创2021年8月以来最大跌幅",
@@ -601,6 +617,14 @@
       "onboard_time": 1717929377,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415856,
+      "num": 415856,
+      "word": "郑州一小区发生火灾造成4人遇难",
+      "onboard_time": 1717934777,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 403283,
@@ -651,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382846,
-      "num": 382846,
-      "word": "真的和纸片人结婚了",
-      "onboard_time": 1717932497,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 372394,
       "num": 372394,
       "word": "以军直升机直接向人群开火现场成地狱",
@@ -673,22 +689,6 @@
       "onboard_time": 1717928958,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 369842,
-      "num": 369842,
-      "word": "玫瑰的故事",
-      "onboard_time": 1717846697,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 369261,
-      "num": 369261,
-      "word": "郑州一小区发生火灾造成4人遇难",
-      "onboard_time": 1717934777,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361868,
@@ -939,6 +939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 266357,
+      "num": 216522,
+      "word": "于正审美",
+      "onboard_time": 1717934297,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265785,
       "num": 265785,
       "word": "肖战早就提前预告了",
@@ -968,14 +976,6 @@
       "word": "刘亦菲至今没结婚的原因",
       "onboard_time": 1717822637,
       "rank": 13,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 253992,
-      "num": 216522,
-      "word": "于正审美",
-      "onboard_time": 1717934297,
-      "rank": 22,
       "category": "作品衍生"
     },
     {
@@ -1219,12 +1219,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198496,
+      "num": 169806,
+      "word": "毕业歌会",
+      "onboard_time": 1717936457,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198109,
       "num": 417189,
       "word": "甜粽和咸粽哪个是你的心头好",
       "onboard_time": 1717901297,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 193805,
+      "num": 168053,
+      "word": "魏大勋活动直播",
+      "onboard_time": 1717936159,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 192337,
@@ -1259,6 +1275,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189467,
+      "num": 161372,
+      "word": "魏大勋石家庄活动",
+      "onboard_time": 1717936639,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188713,
+      "num": 167133,
+      "word": "刘亦菲这段台词好适合准大学生",
+      "onboard_time": 1717936997,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188093,
       "num": 188093,
       "word": "宋亚轩翻唱英文歌曲",
@@ -1289,6 +1321,14 @@
       "onboard_time": 1717909698,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 185639,
+      "num": 166500,
+      "word": "不接陌生电话但是要去微信搜",
+      "onboard_time": 1717937238,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 185445,
@@ -1392,14 +1432,6 @@
       "word": "那英酒店被追拍躲避时摔倒",
       "onboard_time": 1717847357,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 177477,
-      "num": 159612,
-      "word": "魏大勋活动直播",
-      "onboard_time": 1717936159,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1555,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157741,
+      "num": 157741,
+      "word": "黄亦玫的衣柜",
+      "onboard_time": 1717935619,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "霉霉的小品没有瓶颈期吗",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1717912817,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151665,
-      "num": 151665,
-      "word": "黄亦玫的衣柜",
-      "onboard_time": 1717935619,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 151452,
@@ -1819,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132988,
+      "num": 132988,
+      "word": "把单位发的粽香红茶当粽子煮了",
+      "onboard_time": 1717932798,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 131725,
       "num": 131725,
       "word": "emoji为什么大多都是黄色",
@@ -1841,14 +1881,6 @@
       "onboard_time": 1717903157,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 129705,
-      "num": 129705,
-      "word": "把单位发的粽香红茶当粽子煮了",
-      "onboard_time": 1717932798,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 128231,
@@ -1987,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115761,
+      "num": 115761,
+      "word": "妈妈考场外用一排爱豆照片迎接女儿",
+      "onboard_time": 1717935558,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115432,
       "num": 163310,
       "word": "你以为的高考完vs实际上的高考完",
@@ -2001,14 +2041,6 @@
       "onboard_time": 1717902196,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115022,
-      "num": 115022,
-      "word": "妈妈考场外用一排爱豆照片迎接女儿",
-      "onboard_time": 1717935558,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114665,
@@ -2595,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35850,
+      "num": 139574,
+      "word": "中高考生可免费畅游大唐芙蓉园",
+      "onboard_time": 1717936937,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35037,
       "num": 35037,
       "word": "长大后的次子和阿尼亚好甜",
@@ -2635,12 +2675,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26952,
+      "num": 171527,
+      "word": "乘警10秒救起掉站台缝隙女孩",
+      "onboard_time": 1717937177,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25957,
       "num": 122152,
       "word": "一人一句祝福2024毕业生",
       "onboard_time": 1717861638,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 23030,
+      "num": 1187744,
+      "word": "你那里有哪些端午习俗",
+      "onboard_time": 1717937118,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20566,
