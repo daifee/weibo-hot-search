@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717911267073,
+  "endTime": 1717914325823,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -401,6 +401,14 @@
       "onboard_time": 1717652299,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1775674,
+      "num": 1775674,
+      "word": "日本出现巨型章鱼",
+      "onboard_time": 1717909336,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1756676,
@@ -1513,6 +1521,14 @@
       "onboard_time": 1717390340,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1069033,
+      "num": 1069033,
+      "word": "荣梓杉走出考场开始营业",
+      "onboard_time": 1717911977,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1067327,
@@ -3715,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 594997,
+      "num": 594997,
+      "word": "公交车冰柜",
+      "onboard_time": 1717912097,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 593599,
       "num": 593599,
       "word": "阿沁控诉詹雯婷抄袭",
@@ -4067,6 +4091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 559258,
+      "num": 344255,
+      "word": "女朋友的世界观震惊到我了",
+      "onboard_time": 1717910539,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 558529,
       "num": 558529,
       "word": "全球男性HPV感染率高于女性",
@@ -4281,14 +4313,6 @@
       "onboard_time": 1717386981,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 536500,
-      "num": 536500,
-      "word": "日本出现巨型章鱼",
-      "onboard_time": 1717909336,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 533641,
@@ -5243,6 +5267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 462781,
+      "num": 462781,
+      "word": "原来高考还没结束",
+      "onboard_time": 1717910778,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 462159,
       "num": 462159,
       "word": "杭州妈妈穿旗袍拿向日葵为孩子送考",
@@ -5785,14 +5817,6 @@
       "onboard_time": 1717225397,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 428149,
-      "num": 344255,
-      "word": "女朋友的世界观震惊到我了",
-      "onboard_time": 1717910539,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 426917,
@@ -7235,6 +7259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345600,
+      "num": 345600,
+      "word": "宋昕冉翻跳迪丽热巴新歌",
+      "onboard_time": 1717910597,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 345477,
       "num": 345477,
       "word": "SpaceX",
@@ -7673,6 +7705,14 @@
       "onboard_time": 1717389501,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 323434,
+      "num": 290220,
+      "word": "墨雨云间17",
+      "onboard_time": 1717910838,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 322415,
@@ -8155,6 +8195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301338,
+      "num": 301338,
+      "word": "高考出题人 考完一门放一个",
+      "onboard_time": 1717912937,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 301119,
       "num": 301119,
       "word": "孙夏铃 我不想再被安排了",
@@ -8441,14 +8489,6 @@
       "onboard_time": 1717797251,
       "rank": 30,
       "category": "读书作家,教育"
-    },
-    {
-      "raw_hot": 289206,
-      "num": 289206,
-      "word": "原来高考还没结束",
-      "onboard_time": 1717910778,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 288853,
@@ -9035,6 +9075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270060,
+      "num": 270060,
+      "word": "荣梓杉高考",
+      "onboard_time": 1717913656,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269497,
       "num": 269497,
       "word": "高考作文 申论",
@@ -9249,14 +9297,6 @@
       "onboard_time": 1717736423,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262379,
-      "num": 262379,
-      "word": "宋昕冉翻跳迪丽热巴新歌",
-      "onboard_time": 1717910597,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 262371,
@@ -9689,6 +9729,14 @@
       "onboard_time": 1717758017,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248675,
+      "num": 178428,
+      "word": "肖战早就提前预告了",
+      "onboard_time": 1717912339,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248415,
@@ -10531,6 +10579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225535,
+      "num": 178098,
+      "word": "200元一斤蓝莓跌到8元",
+      "onboard_time": 1717913357,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225368,
       "num": 177435,
       "word": "胡歌把金靖带来了",
@@ -11011,6 +11067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216425,
+      "num": 216425,
+      "word": "山东政治 超前思维",
+      "onboard_time": 1717912398,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 216271,
       "num": 210799,
       "word": "陈乔恩上次演反派是东方不败",
@@ -11201,6 +11265,14 @@
       "onboard_time": 1717801755,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212070,
+      "num": 177863,
+      "word": "刘宇宁说迪丽热巴是维秘天使",
+      "onboard_time": 1717913598,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 211982,
@@ -11475,6 +11547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208388,
+      "num": 177655,
+      "word": "黄渤曾说过刘亦菲走到哪都是风景",
+      "onboard_time": 1717911379,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208199,
       "num": 208199,
       "word": "马嘉祺新歌",
@@ -11672,6 +11752,14 @@
       "word": "登陆计划",
       "onboard_time": 1717838237,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205801,
+      "num": 177506,
+      "word": "TF三代纯白初生公式照",
+      "onboard_time": 1717913719,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -13427,6 +13515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 185445,
+      "num": 177434,
+      "word": "蒋振邦魏雅欣首夺1000赛冠军",
+      "onboard_time": 1717913837,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185426,
       "num": 185426,
       "word": "搞暗恋的很适合去情报局",
@@ -13835,6 +13931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178869,
+      "num": 178869,
+      "word": "天热北京一考点给陪考家长发雪糕",
+      "onboard_time": 1717913416,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178868,
       "num": 178868,
       "word": "张子枫素颜逛公园",
@@ -13971,20 +14075,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177325,
+      "num": 177325,
+      "word": "董宇辉称到今天都不享受直播工作",
+      "onboard_time": 1717911497,
+      "rank": 32,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177317,
       "num": 177317,
       "word": "以为爸妈只给妹妹买了新玩具车",
       "onboard_time": 1717425198,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 177220,
-      "num": 177220,
-      "word": "墨雨云间17",
-      "onboard_time": 1717910838,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 176968,
@@ -14915,6 +15019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165896,
+      "num": 165896,
+      "word": "徐锦江儿子上综艺天天扫地",
+      "onboard_time": 1717913957,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165596,
       "num": 165596,
       "word": "张本智和3比1林昀儒",
@@ -15337,6 +15449,14 @@
       "onboard_time": 1717312697,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161300,
+      "num": 161300,
+      "word": "Gemini时隔五年再拍定妆照",
+      "onboard_time": 1717912157,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 161138,
@@ -15987,6 +16107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154291,
+      "num": 154291,
+      "word": "特斯拉库存积压严重",
+      "onboard_time": 1717911737,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 154226,
       "num": 154226,
       "word": "刘亦菲奇迹玫瑰",
@@ -16225,6 +16353,14 @@
       "onboard_time": 1717206497,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 151809,
+      "num": 151809,
+      "word": "何浩楠 辣椒又长出一茬了",
+      "onboard_time": 1717912817,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 151785,
@@ -17995,6 +18131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134479,
+      "num": 134479,
+      "word": "邓超鹿晗海边谈心",
+      "onboard_time": 1717912576,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134455,
       "num": 134455,
       "word": "28岁真的是一个很好的年纪",
@@ -18979,6 +19123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124314,
+      "num": 124314,
+      "word": "建议用户每周重新启动一次手机",
+      "onboard_time": 1717914137,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124304,
       "num": 124304,
       "word": "遇上公司挖人要注意什么",
@@ -19001,6 +19153,14 @@
       "onboard_time": 1717393758,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124035,
+      "num": 124035,
+      "word": "玫瑰的故事婚姻避坑指男",
+      "onboard_time": 1717912038,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123964,
@@ -19872,6 +20032,14 @@
       "word": "周深跳撕张真源",
       "onboard_time": 1717421900,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 115084,
+      "num": 115084,
+      "word": "芒果这一波又nextlevel了",
+      "onboard_time": 1717914197,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -22355,6 +22523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72667,
+      "num": 296920,
+      "word": "上海短视频小横店日租金6000",
+      "onboard_time": 1717912817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72645,
       "num": 72645,
       "word": "我的阿勒泰央八黄金档开播",
@@ -23228,7 +23404,7 @@
     },
     {
       "raw_hot": 56310,
-      "num": 687042,
+      "num": 1097270,
       "word": "文化中国行端午话非遗",
       "onboard_time": 1717902451,
       "rank": 2,

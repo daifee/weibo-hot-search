@@ -1,0 +1,410 @@
+{
+  "runTime": 1717914325823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1775674,
+        "num": 1775674,
+        "word": "日本出现巨型章鱼",
+        "onboard_time": 1717909336,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144251,
+        "num": 1144251,
+        "word": "家长网购要求退款211祝孩子考211",
+        "onboard_time": 1717905198,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44377,
+        "num": 1097270,
+        "word": "文化中国行端午话非遗",
+        "onboard_time": 1717902451,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069033,
+        "num": 1069033,
+        "word": "荣梓杉走出考场开始营业",
+        "onboard_time": 1717911977,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 594997,
+        "num": 594997,
+        "word": "公交车冰柜",
+        "onboard_time": 1717912097,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 527387,
+        "num": 527387,
+        "word": "刘亦菲 扛剧",
+        "onboard_time": 1717894576,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462781,
+        "num": 462781,
+        "word": "原来高考还没结束",
+        "onboard_time": 1717910778,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345600,
+        "num": 345600,
+        "word": "宋昕冉翻跳迪丽热巴新歌",
+        "onboard_time": 1717910597,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 301338,
+        "num": 301338,
+        "word": "高考出题人 考完一门放一个",
+        "onboard_time": 1717912937,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72667,
+        "num": 296920,
+        "word": "上海短视频小横店日租金6000",
+        "onboard_time": 1717912817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559258,
+        "num": 296570,
+        "word": "女朋友的世界观震惊到我了",
+        "onboard_time": 1717910539,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324813,
+        "num": 296277,
+        "word": "刘亦菲36岁演22岁女大学生",
+        "onboard_time": 1717888634,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295631,
+        "num": 295631,
+        "word": "考点在县里考生却走到了市里",
+        "onboard_time": 1717906697,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324149,
+        "num": 294373,
+        "word": "中以混血女孩被以色列救出",
+        "onboard_time": 1717888153,
+        "rank": 13,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 323434,
+        "num": 290220,
+        "word": "墨雨云间17",
+        "onboard_time": 1717910838,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277264,
+        "num": 277264,
+        "word": "肖战 IF",
+        "onboard_time": 1717903576,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270060,
+        "num": 270060,
+        "word": "荣梓杉高考",
+        "onboard_time": 1717913656,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216425,
+        "num": 216425,
+        "word": "山东政治 超前思维",
+        "onboard_time": 1717912398,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202847,
+        "num": 202847,
+        "word": "厦门成立工作组整顿鼓浪屿旅游秩序",
+        "onboard_time": 1717905797,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 178869,
+        "num": 178869,
+        "word": "天热北京一考点给陪考家长发雪糕",
+        "onboard_time": 1717913416,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611368,
+        "num": 178810,
+        "word": "鞠婧祎衣服吊带断了",
+        "onboard_time": 1717904356,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396585,
+        "num": 178728,
+        "word": "失恋5个月后胖了40斤",
+        "onboard_time": 1717907057,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 326601,
+        "num": 178546,
+        "word": "妈妈存了十年的黄金生锈了",
+        "onboard_time": 1717898536,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248675,
+        "num": 178428,
+        "word": "肖战早就提前预告了",
+        "onboard_time": 1717912339,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229630,
+        "num": 178347,
+        "word": "种地吧 草莓爷爷",
+        "onboard_time": 1717908498,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225535,
+        "num": 178098,
+        "word": "200元一斤蓝莓跌到8元",
+        "onboard_time": 1717913357,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215338,
+        "num": 178038,
+        "word": "因为端午节见家长分手了",
+        "onboard_time": 1717902737,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212070,
+        "num": 177863,
+        "word": "刘宇宁说迪丽热巴是维秘天使",
+        "onboard_time": 1717913598,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210580,
+        "num": 177767,
+        "word": "徐海乔经纪人",
+        "onboard_time": 1717894517,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208388,
+        "num": 177655,
+        "word": "黄渤曾说过刘亦菲走到哪都是风景",
+        "onboard_time": 1717911379,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205801,
+        "num": 177506,
+        "word": "TF三代纯白初生公式照",
+        "onboard_time": 1717913719,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185445,
+        "num": 177434,
+        "word": "蒋振邦魏雅欣首夺1000赛冠军",
+        "onboard_time": 1717913837,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177325,
+        "num": 177325,
+        "word": "董宇辉称到今天都不享受直播工作",
+        "onboard_time": 1717911497,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166586,
+        "num": 166586,
+        "word": "离开易建联谁还把邓超当小孩",
+        "onboard_time": 1717907417,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165896,
+        "num": 165896,
+        "word": "徐锦江儿子上综艺天天扫地",
+        "onboard_time": 1717913957,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161300,
+        "num": 161300,
+        "word": "Gemini时隔五年再拍定妆照",
+        "onboard_time": 1717912157,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154835,
+        "num": 154835,
+        "word": "高考地理",
+        "onboard_time": 1717906337,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154291,
+        "num": 154291,
+        "word": "特斯拉库存积压严重",
+        "onboard_time": 1717911737,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 151809,
+        "num": 151809,
+        "word": "何浩楠 辣椒又长出一茬了",
+        "onboard_time": 1717912817,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146479,
+        "num": 146479,
+        "word": "山东政治",
+        "onboard_time": 1717908797,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150411,
+        "num": 145994,
+        "word": "头一次见正主亲自偷母带的",
+        "onboard_time": 1717899917,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139392,
+        "num": 139392,
+        "word": "高考化学",
+        "onboard_time": 1717898296,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136225,
+        "num": 136225,
+        "word": "妈妈让我支付她生我的费用",
+        "onboard_time": 1717896797,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134479,
+        "num": 134479,
+        "word": "邓超鹿晗海边谈心",
+        "onboard_time": 1717912576,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133707,
+        "num": 133707,
+        "word": "高考政治",
+        "onboard_time": 1717909879,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128825,
+        "num": 128825,
+        "word": "甜粽和咸粽哪个是你的心头好",
+        "onboard_time": 1717901297,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124314,
+        "num": 124314,
+        "word": "建议用户每周重新启动一次手机",
+        "onboard_time": 1717914137,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124035,
+        "num": 124035,
+        "word": "玫瑰的故事婚姻避坑指男",
+        "onboard_time": 1717912038,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120503,
+        "num": 120503,
+        "word": "想看福宝这些时间来",
+        "onboard_time": 1717899437,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115084,
+        "num": 115084,
+        "word": "芒果这一波又nextlevel了",
+        "onboard_time": 1717914197,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平眼中的文化传承#"
+    }
+  }
+}

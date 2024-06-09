@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717911267073,
+  "endTime": 1717914325823,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -8,6 +8,14 @@
       "word": "家长网购要求退款211祝孩子考211",
       "onboard_time": 1717905198,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1775674,
+      "num": 1775674,
+      "word": "日本出现巨型章鱼",
+      "onboard_time": 1717909336,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -32,6 +40,14 @@
       "word": "刘亦菲36岁演22岁女大学生",
       "onboard_time": 1717888634,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1069033,
+      "num": 1069033,
+      "word": "荣梓杉走出考场开始营业",
+      "onboard_time": 1717911977,
+      "rank": 3,
       "category": "剧集"
     },
     {
@@ -171,6 +187,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 594997,
+      "num": 594997,
+      "word": "公交车冰柜",
+      "onboard_time": 1717912097,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 559258,
+      "num": 344255,
+      "word": "女朋友的世界观震惊到我了",
+      "onboard_time": 1717910539,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 556649,
       "num": 556649,
       "word": "帅气高考生出考场喊话王鹤棣",
@@ -185,14 +217,6 @@
       "onboard_time": 1717908797,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 536500,
-      "num": 536500,
-      "word": "日本出现巨型章鱼",
-      "onboard_time": 1717909336,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 532432,
@@ -283,6 +307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 462781,
+      "num": 462781,
+      "word": "原来高考还没结束",
+      "onboard_time": 1717910778,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 460718,
       "num": 156558,
       "word": "月经这3种怪颜色是就医信号",
@@ -337,14 +369,6 @@
       "onboard_time": 1717847478,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 428149,
-      "num": 344255,
-      "word": "女朋友的世界观震惊到我了",
-      "onboard_time": 1717910539,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 402479,
@@ -403,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 345600,
+      "num": 345600,
+      "word": "宋昕冉翻跳迪丽热巴新歌",
+      "onboard_time": 1717910597,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 343943,
       "num": 343943,
       "word": "日本学者向义乌捐近千件细菌战重要史料",
@@ -443,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 323434,
+      "num": 290220,
+      "word": "墨雨云间17",
+      "onboard_time": 1717910838,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312953,
       "num": 312953,
       "word": "你好星期六下期有陈昊宇陈丽君",
@@ -459,11 +499,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 289206,
-      "num": 289206,
-      "word": "原来高考还没结束",
-      "onboard_time": 1717910778,
-      "rank": 15,
+      "raw_hot": 301338,
+      "num": 301338,
+      "word": "高考出题人 考完一门放一个",
+      "onboard_time": 1717912937,
+      "rank": 8,
       "category": "教育"
     },
     {
@@ -483,6 +523,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 270060,
+      "num": 270060,
+      "word": "荣梓杉高考",
+      "onboard_time": 1717913656,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "离开易建联谁还把邓超当小孩",
@@ -497,14 +545,6 @@
       "onboard_time": 1717899016,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 262379,
-      "num": 262379,
-      "word": "宋昕冉翻跳迪丽热巴新歌",
-      "onboard_time": 1717910597,
-      "rank": 18,
-      "category": "音乐"
     },
     {
       "raw_hot": 260982,
@@ -539,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248675,
+      "num": 178428,
+      "word": "肖战早就提前预告了",
+      "onboard_time": 1717912339,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245278,
       "num": 245278,
       "word": "福建地理",
@@ -571,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225535,
+      "num": 178098,
+      "word": "200元一斤蓝莓跌到8元",
+      "onboard_time": 1717913357,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224892,
       "num": 210882,
       "word": "高考完想出去玩妈妈说家里就剩两百",
@@ -595,12 +651,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216425,
+      "num": 216425,
+      "word": "山东政治 超前思维",
+      "onboard_time": 1717912398,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 212873,
       "num": 212873,
       "word": "粽子",
       "onboard_time": 1717895657,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 212070,
+      "num": 177863,
+      "word": "刘宇宁说迪丽热巴是维秘天使",
+      "onboard_time": 1717913598,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 211371,
@@ -619,6 +691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208388,
+      "num": 177655,
+      "word": "黄渤曾说过刘亦菲走到哪都是风景",
+      "onboard_time": 1717911379,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208199,
       "num": 208199,
       "word": "马嘉祺新歌",
@@ -633,6 +713,14 @@
       "onboard_time": 1717910237,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205801,
+      "num": 177506,
+      "word": "TF三代纯白初生公式照",
+      "onboard_time": 1717913719,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 201922,
@@ -707,6 +795,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 185445,
+      "num": 177434,
+      "word": "蒋振邦魏雅欣首夺1000赛冠军",
+      "onboard_time": 1717913837,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185257,
       "num": 183608,
       "word": "重庆秀山龙舟训练翻船致3死",
@@ -771,6 +867,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 178869,
+      "num": 178869,
+      "word": "天热北京一考点给陪考家长发雪糕",
+      "onboard_time": 1717913416,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177653,
       "num": 143318,
       "word": "那英酒店被追拍躲避时摔倒",
@@ -779,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177220,
-      "num": 177220,
-      "word": "墨雨云间17",
-      "onboard_time": 1717910838,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 177325,
+      "num": 177325,
+      "word": "董宇辉称到今天都不享受直播工作",
+      "onboard_time": 1717911497,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 176852,
@@ -819,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165896,
+      "num": 165896,
+      "word": "徐锦江儿子上综艺天天扫地",
+      "onboard_time": 1717913957,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164815,
       "num": 164815,
       "word": "基德离间计",
@@ -833,6 +945,14 @@
       "onboard_time": 1717892416,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 161300,
+      "num": 161300,
+      "word": "Gemini时隔五年再拍定妆照",
+      "onboard_time": 1717912157,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 160278,
@@ -897,6 +1017,22 @@
       "onboard_time": 1717860259,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154291,
+      "num": 154291,
+      "word": "特斯拉库存积压严重",
+      "onboard_time": 1717911737,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 151809,
+      "num": 151809,
+      "word": "何浩楠 辣椒又长出一茬了",
+      "onboard_time": 1717912817,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 150475,
@@ -987,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134479,
+      "num": 134479,
+      "word": "邓超鹿晗海边谈心",
+      "onboard_time": 1717912576,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134455,
       "num": 134455,
       "word": "28岁真的是一个很好的年纪",
@@ -1027,12 +1171,28 @@
       "category": "教育,军事"
     },
     {
+      "raw_hot": 124314,
+      "num": 124314,
+      "word": "建议用户每周重新启动一次手机",
+      "onboard_time": 1717914137,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124232,
       "num": 137787,
       "word": "减肥见效最快的运动就是跳绳",
       "onboard_time": 1717856538,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 124035,
+      "num": 124035,
+      "word": "玫瑰的故事婚姻避坑指男",
+      "onboard_time": 1717912038,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 122972,
@@ -1073,6 +1233,14 @@
       "onboard_time": 1717902196,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115084,
+      "num": 115084,
+      "word": "芒果这一波又nextlevel了",
+      "onboard_time": 1717914197,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114665,
@@ -1323,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72667,
+      "num": 296920,
+      "word": "上海短视频小横店日租金6000",
+      "onboard_time": 1717912817,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72553,
       "num": 80652,
       "word": "哈哈哈哈哈",
@@ -1420,7 +1596,7 @@
     },
     {
       "raw_hot": 56310,
-      "num": 687042,
+      "num": 1097270,
       "word": "文化中国行端午话非遗",
       "onboard_time": 1717902451,
       "rank": 2,
