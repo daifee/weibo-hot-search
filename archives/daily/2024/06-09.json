@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717931712909,
+  "endTime": 1717932869545,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -99,8 +99,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 892419,
-      "num": 892419,
+      "raw_hot": 943661,
+      "num": 943661,
       "word": "重庆龙舟侧翻事故遇难者家属发声",
       "onboard_time": 1717927517,
       "rank": 21,
@@ -113,6 +113,14 @@
       "onboard_time": 1717912937,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 861893,
+      "num": 277632,
+      "word": "我爸以为有教资就能去学校当老师",
+      "onboard_time": 1717929438,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 768578,
@@ -235,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 649809,
-      "num": 272688,
-      "word": "我爸以为有教资就能去学校当老师",
-      "onboard_time": 1717929438,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 646351,
       "num": 208399,
       "word": "部分日本女性为见男公关卖淫还债",
@@ -361,6 +361,14 @@
       "onboard_time": 1717908797,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 540731,
+      "num": 527903,
+      "word": "王传君拿错手机把志胜活儿拒了",
+      "onboard_time": 1717929319,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 532432,
@@ -555,12 +563,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 413736,
-      "num": 413736,
-      "word": "王传君拿错手机把志胜活儿拒了",
-      "onboard_time": 1717929319,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 426119,
+      "num": 426119,
+      "word": "刘亦菲没待播剧了",
+      "onboard_time": 1717929377,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 414279,
+      "num": 414279,
+      "word": "曾舜晞16岁放弃offer进入娱乐圈",
+      "onboard_time": 1717929918,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 402479,
@@ -625,14 +641,6 @@
       "onboard_time": 1717928597,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 361361,
-      "num": 361361,
-      "word": "刘亦菲没待播剧了",
-      "onboard_time": 1717929377,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 360734,
@@ -843,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272550,
+      "num": 272550,
+      "word": "陈都灵张凌赫狐妖封面",
+      "onboard_time": 1717932017,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "离开易建联谁还把邓超当小孩",
@@ -865,14 +881,6 @@
       "onboard_time": 1717912339,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 262491,
-      "num": 262491,
-      "word": "曾舜晞16岁放弃offer进入娱乐圈",
-      "onboard_time": 1717929918,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 260982,
@@ -1051,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209548,
+      "num": 209548,
+      "word": "潮牌Champion为什么不火了",
+      "onboard_time": 1717930397,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 208388,
       "num": 177655,
       "word": "黄渤曾说过刘亦菲走到哪都是风景",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1717909997,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199722,
-      "num": 199722,
-      "word": "潮牌Champion为什么不火了",
-      "onboard_time": 1717930397,
-      "rank": 26,
-      "category": "时尚"
     },
     {
       "raw_hot": 199527,
@@ -1169,6 +1177,14 @@
       "onboard_time": 1717864935,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187736,
+      "num": 155700,
+      "word": "于正晒吴谨言",
+      "onboard_time": 1717931597,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 186755,
@@ -1355,6 +1371,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 165914,
+      "num": 165914,
+      "word": "中信集团副总经理徐佐被查",
+      "onboard_time": 1717932317,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165834,
       "num": 165834,
       "word": "建议用户每周重新启动一次手机",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1717927098,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162987,
+      "num": 148980,
+      "word": "老师最不看好你 可你偏偏最争气",
+      "onboard_time": 1717932017,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 161482,
@@ -1515,11 +1547,35 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149178,
+      "num": 149178,
+      "word": "李白发博轻舟已过万重山",
+      "onboard_time": 1717932197,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 148547,
+      "num": 148547,
+      "word": "陈昊宇 乘风限定版记忆",
+      "onboard_time": 1717932137,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148490,
       "num": 148490,
       "word": "吴谨言提灯回眸",
       "onboard_time": 1717909038,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 148318,
+      "num": 148318,
+      "word": "真的和纸片人结婚了",
+      "onboard_time": 1717932497,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1577,6 +1633,14 @@
       "onboard_time": 1717845917,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142541,
+      "num": 142541,
+      "word": "墨雨云间18集预告",
+      "onboard_time": 1717932256,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 142376,
@@ -1656,6 +1720,14 @@
       "word": "吴谨言演技",
       "onboard_time": 1717890616,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133137,
+      "num": 133137,
+      "word": "刘亦菲娱乐圈明星中的明星",
+      "onboard_time": 1717932377,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1811,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116287,
+      "num": 116287,
+      "word": "薛芳菲做了片刻的自己",
+      "onboard_time": 1717930338,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115432,
       "num": 163310,
       "word": "你以为的高考完vs实际上的高考完",
@@ -1859,14 +1939,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110777,
-      "num": 110777,
-      "word": "于正晒吴谨言",
-      "onboard_time": 1717931597,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -1889,14 +1961,6 @@
       "onboard_time": 1717900398,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109487,
-      "num": 109487,
-      "word": "薛芳菲做了片刻的自己",
-      "onboard_time": 1717930338,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 108322,
@@ -1929,6 +1993,14 @@
       "onboard_time": 1717903397,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103204,
+      "num": 103204,
+      "word": "把单位发的粽香红茶当粽子煮了",
+      "onboard_time": 1717932798,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 103031,
@@ -2388,7 +2460,7 @@
     },
     {
       "raw_hot": 36953,
-      "num": 430723,
+      "num": 451318,
       "word": "父亲写给高考女儿的信让人泪目",
       "onboard_time": 1717931357,
       "rank": 10,
