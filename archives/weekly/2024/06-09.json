@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717910277269,
+  "endTime": 1717911267073,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -51,7 +51,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 915830,
+      "raw_hot": 947964,
       "num": 753789,
       "word": "中以混血女孩被以色列救出",
       "onboard_time": 1717888153,
@@ -187,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 536500,
+      "num": 536500,
+      "word": "日本出现巨型章鱼",
+      "onboard_time": 1717909336,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 532432,
       "num": 532432,
       "word": "福宝",
@@ -201,6 +209,22 @@
       "onboard_time": 1717899917,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 528743,
+      "num": 528743,
+      "word": "考点在县里考生却走到了市里",
+      "onboard_time": 1717906697,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524114,
+      "num": 252727,
+      "word": "失恋5个月后胖了40斤",
+      "onboard_time": 1717907057,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 504507,
@@ -291,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 439258,
-      "num": 439258,
-      "word": "考点在县里考生却走到了市里",
-      "onboard_time": 1717906697,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 438479,
       "num": 438479,
       "word": "金价创2021年8月以来最大跌幅",
@@ -321,6 +337,14 @@
       "onboard_time": 1717847478,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 428149,
+      "num": 344255,
+      "word": "女朋友的世界观震惊到我了",
+      "onboard_time": 1717910539,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 402479,
@@ -379,14 +403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 351962,
-      "num": 252727,
-      "word": "失恋5个月后胖了40斤",
-      "onboard_time": 1717907057,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 343943,
       "num": 343943,
       "word": "日本学者向义乌捐近千件细菌战重要史料",
@@ -401,6 +417,14 @@
       "onboard_time": 1717905017,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337271,
+      "num": 337271,
+      "word": "高考政治",
+      "onboard_time": 1717909879,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 336059,
@@ -432,6 +456,14 @@
       "word": "高考英语",
       "onboard_time": 1717836078,
       "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 289206,
+      "num": 289206,
+      "word": "原来高考还没结束",
+      "onboard_time": 1717910778,
+      "rank": 15,
       "category": "教育"
     },
     {
@@ -467,6 +499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262379,
+      "num": 262379,
+      "word": "宋昕冉翻跳迪丽热巴新歌",
+      "onboard_time": 1717910597,
+      "rank": 18,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 260982,
       "num": 260982,
       "word": "萧蘅薛芳菲亲上了",
@@ -481,14 +521,6 @@
       "onboard_time": 1717853779,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256822,
-      "num": 256822,
-      "word": "高考政治",
-      "onboard_time": 1717909879,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 256491,
@@ -587,6 +619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208199,
+      "num": 208199,
+      "word": "马嘉祺新歌",
+      "onboard_time": 1717910297,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205991,
       "num": 205991,
       "word": "KPL王者梦之队队服曝光",
@@ -651,8 +691,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 186406,
-      "num": 186406,
+      "raw_hot": 186755,
+      "num": 186755,
       "word": "KPL",
       "onboard_time": 1717910057,
       "rank": 32,
@@ -737,6 +777,14 @@
       "onboard_time": 1717847357,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177220,
+      "num": 177220,
+      "word": "墨雨云间17",
+      "onboard_time": 1717910838,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 176852,
@@ -867,12 +915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146914,
+      "num": 377006,
+      "word": "如厕不该被读秒围观",
+      "onboard_time": 1717909218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144504,
       "num": 163219,
       "word": "高考准考证别发朋友圈",
       "onboard_time": 1717845558,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 143276,
+      "num": 143276,
+      "word": "可以接受1到2年内没有工资吗",
+      "onboard_time": 1717907417,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 142814,
@@ -897,14 +961,6 @@
       "onboard_time": 1717901297,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140063,
-      "num": 140063,
-      "word": "可以接受1到2年内没有工资吗",
-      "onboard_time": 1717907417,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 137796,
@@ -964,19 +1020,11 @@
     },
     {
       "raw_hot": 124729,
-      "num": 124729,
+      "num": 241600,
       "word": "985舰是懂高考祝福的",
       "onboard_time": 1717909637,
       "rank": 48,
       "category": "教育,军事"
-    },
-    {
-      "raw_hot": 124692,
-      "num": 124692,
-      "word": "日本出现巨型章鱼",
-      "onboard_time": 1717909336,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124232,
@@ -1097,14 +1145,6 @@
       "onboard_time": 1717890736,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100548,
-      "num": 377006,
-      "word": "如厕不该被读秒围观",
-      "onboard_time": 1717909218,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97798,
@@ -1347,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61619,
+      "num": 372246,
+      "word": "无畏在京东唱帽衫",
+      "onboard_time": 1717908078,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58288,
       "num": 430184,
       "word": "社牛姐姐称弟弟是成都最牛考生",
@@ -1433,14 +1481,6 @@
       "onboard_time": 1717854738,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 48169,
-      "num": 372246,
-      "word": "无畏在京东唱帽衫",
-      "onboard_time": 1717908078,
-      "rank": 11,
-      "category": "电竞"
     },
     {
       "raw_hot": 46743,
@@ -1643,6 +1683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 11978,
+      "num": 195845,
+      "word": "魏大勋毛不易郭麒麟互评",
+      "onboard_time": 1717909457,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 10821,
       "num": 378940,
       "word": "河南高考 卷",
@@ -1665,14 +1713,6 @@
       "onboard_time": 1717867814,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 8891,
-      "num": 185937,
-      "word": "魏大勋毛不易郭麒麟互评",
-      "onboard_time": 1717909457,
-      "rank": 33,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
