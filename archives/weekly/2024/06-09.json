@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717946339739,
+  "endTime": 1717947348813,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -59,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1347225,
+      "raw_hot": 1356617,
       "num": 463337,
       "word": "女子注射400支玻尿酸丰臀致臀部感染",
       "onboard_time": 1717944259,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1244043,
-      "num": 211371,
+      "num": 221422,
       "word": "高铁上拒绝了宝妈的换座要求",
       "onboard_time": 1717937717,
       "rank": 20,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 690029,
-      "num": 190963,
+      "num": 214984,
       "word": "张翰当伴郎",
       "onboard_time": 1717941679,
       "rank": 21,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 660472,
-      "num": 191741,
+      "num": 223520,
       "word": "经常吃水煮蛋是养肝还是伤肝",
       "onboard_time": 1717944799,
       "rank": 20,
@@ -731,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 393476,
+      "num": 220198,
+      "word": "为什么离职的都去新疆了",
+      "onboard_time": 1717943840,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 391996,
       "num": 391996,
       "word": "鼓浪屿",
@@ -785,14 +793,6 @@
       "onboard_time": 1717928958,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 364517,
-      "num": 190229,
-      "word": "为什么离职的都去新疆了",
-      "onboard_time": 1717943840,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 361868,
@@ -867,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340910,
+      "num": 218203,
+      "word": "小警犬因太友好而被开除",
+      "onboard_time": 1717943840,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 340257,
       "num": 329712,
       "word": "墨雨云间让大学生神金合理了",
@@ -905,6 +913,14 @@
       "onboard_time": 1717898477,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333254,
+      "num": 290442,
+      "word": "早田希娜女单冠军",
+      "onboard_time": 1717945279,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 326913,
@@ -947,12 +963,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 320769,
-      "num": 189743,
-      "word": "小警犬因太友好而被开除",
-      "onboard_time": 1717943840,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 317035,
+      "num": 317035,
+      "word": "高考下一章 墨雨云间",
+      "onboard_time": 1717945218,
+      "rank": 25,
+      "category": "剧集,教育"
     },
     {
       "raw_hot": 312953,
@@ -1019,6 +1035,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298727,
+      "num": 289617,
+      "word": "万茜刘亦菲好配",
+      "onboard_time": 1717945099,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289210,
+      "num": 289210,
+      "word": "白桃星座",
+      "onboard_time": 1717945638,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 288528,
+      "num": 288528,
+      "word": "潮牌Champion为什么不火了",
+      "onboard_time": 1717930397,
+      "rank": 26,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 283839,
       "num": 283839,
       "word": "石宇奇携双冠登顶世界第一",
@@ -1064,14 +1104,6 @@
       "word": "吴谨言王星越再拍部剧吧",
       "onboard_time": 1717926558,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 273243,
-      "num": 273243,
-      "word": "万茜刘亦菲好配",
-      "onboard_time": 1717945099,
-      "rank": 14,
       "category": "剧集"
     },
     {
@@ -1139,28 +1171,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 256282,
-      "num": 256282,
-      "word": "潮牌Champion为什么不火了",
-      "onboard_time": 1717930397,
-      "rank": 26,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 251768,
       "num": 251768,
       "word": "袁娅维 导演组你什么意思",
       "onboard_time": 1717888273,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 249349,
-      "num": 180339,
-      "word": "早田希娜女单冠军",
-      "onboard_time": 1717945279,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 247425,
@@ -1235,14 +1251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 230782,
-      "num": 189145,
-      "word": "高考下一章 墨雨云间",
-      "onboard_time": 1717945218,
-      "rank": 25,
-      "category": "剧集,教育"
-    },
-    {
       "raw_hot": 226227,
       "num": 226227,
       "word": "刘亦菲个人微指破3.7亿",
@@ -1292,7 +1300,7 @@
     },
     {
       "raw_hot": 215886,
-      "num": 188631,
+      "num": 214754,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
       "onboard_time": 1717944919,
       "rank": 26,
@@ -1339,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208723,
+      "num": 208723,
+      "word": "老破小二手房突然火了",
+      "onboard_time": 1717944620,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208388,
       "num": 177655,
       "word": "黄渤曾说过刘亦菲走到哪都是风景",
@@ -1356,7 +1372,7 @@
     },
     {
       "raw_hot": 206562,
-      "num": 188542,
+      "num": 191390,
       "word": "朴灿烈唱StayWithMe",
       "onboard_time": 1717945218,
       "rank": 27,
@@ -1417,14 +1433,6 @@
       "onboard_time": 1717917017,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199291,
-      "num": 187830,
-      "word": "老破小二手房突然火了",
-      "onboard_time": 1717944620,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 199110,
@@ -1489,14 +1497,6 @@
       "onboard_time": 1717853058,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191958,
-      "num": 191958,
-      "word": "白桃星座",
-      "onboard_time": 1717945638,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 191870,
@@ -2011,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143222,
+      "num": 143222,
+      "word": "植物大战僵尸杂交版",
+      "onboard_time": 1717946118,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142814,
       "num": 142814,
       "word": "aespa放送0分",
@@ -2363,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116616,
+      "num": 116616,
+      "word": "姿态冒充Uzi",
+      "onboard_time": 1717946180,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116287,
       "num": 116287,
       "word": "薛芳菲做了片刻的自己",
@@ -2483,14 +2499,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 106776,
-      "num": 106776,
-      "word": "植物大战僵尸杂交版",
-      "onboard_time": 1717946118,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 106279,
       "num": 105315,
       "word": "别给王星越乐晕了",
@@ -2499,12 +2507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103678,
-      "num": 103678,
-      "word": "姿态冒充Uzi",
-      "onboard_time": 1717946180,
-      "rank": 46,
-      "category": "电竞"
+      "raw_hot": 105647,
+      "num": 105647,
+      "word": "肃国公淋雨练剑的原因找到了",
+      "onboard_time": 1717944139,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 103031,
@@ -2521,6 +2529,14 @@
       "onboard_time": 1717890736,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101514,
+      "num": 475566,
+      "word": "一批诋毁企业形象账号被处置",
+      "onboard_time": 1717945819,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99238,
@@ -2585,6 +2601,14 @@
       "onboard_time": 1717899617,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93366,
+      "num": 104878,
+      "word": "他做饭他被骂他委屈巴巴",
+      "onboard_time": 1717947198,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 92794,
@@ -2811,14 +2835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63119,
-      "num": 463721,
-      "word": "一批诋毁企业形象账号被处置",
-      "onboard_time": 1717945819,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62757,
       "num": 137735,
       "word": "丁程鑫为秦霄贤操碎了心",
@@ -2913,6 +2929,14 @@
       "onboard_time": 1717907717,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51523,
+      "num": 292528,
+      "word": "大熊猫像极了假期瘫在家的我",
+      "onboard_time": 1717946898,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 50695,
