@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717904110060,
+  "endTime": 1717906963256,
   "band_list": [
     {
       "raw_hot": 1147693,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1013743,
+      "num": 1013743,
+      "word": "家长网购要求退款211祝孩子考211",
+      "onboard_time": 1717905198,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1012793,
       "num": 464109,
       "word": "徐海乔经纪人",
@@ -35,8 +43,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 952858,
+      "num": 272994,
+      "word": "鞠婧祎衣服吊带断了",
+      "onboard_time": 1717904356,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 768578,
-      "num": 250130,
+      "num": 264505,
       "word": "妈妈存了十年的黄金生锈了",
       "onboard_time": 1717898536,
       "rank": 20,
@@ -99,6 +115,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 672737,
+      "num": 267447,
+      "word": "因为端午节见家长分手了",
+      "onboard_time": 1717902737,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 668783,
       "num": 668783,
       "word": "考生冲出考场太激动拥抱家人遭重摔",
@@ -131,12 +155,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 619339,
-      "num": 245167,
-      "word": "因为端午节见家长分手了",
-      "onboard_time": 1717902737,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 603092,
+      "num": 603092,
+      "word": "肖战 IF",
+      "onboard_time": 1717903576,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 556649,
@@ -147,8 +171,16 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 522926,
-      "num": 522926,
+      "raw_hot": 532432,
+      "num": 532432,
+      "word": "福宝",
+      "onboard_time": 1717901656,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 529377,
+      "num": 529377,
       "word": "头一次见正主亲自偷母带的",
       "onboard_time": 1717899917,
       "rank": 26,
@@ -267,28 +299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391276,
+      "num": 391276,
+      "word": "郭士强将接任中国男篮主帅",
+      "onboard_time": 1717904658,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390171,
       "num": 390171,
       "word": "高考完3个月是一生最爽的时候",
       "onboard_time": 1717895118,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 384303,
-      "num": 384303,
-      "word": "福宝",
-      "onboard_time": 1717901656,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358644,
-      "num": 358644,
-      "word": "肖战 IF",
-      "onboard_time": 1717903576,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 356527,
@@ -315,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338569,
+      "num": 338569,
+      "word": "林一追星成功",
+      "onboard_time": 1717905017,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 336059,
       "num": 245240,
       "word": "徐海乔五个男人一个都没争取到",
@@ -337,6 +369,14 @@
       "onboard_time": 1717893677,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311191,
+      "num": 311191,
+      "word": "厦门成立工作组整顿鼓浪屿旅游秩序",
+      "onboard_time": 1717905797,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 307059,
@@ -368,6 +408,14 @@
       "word": "山东物理 难",
       "onboard_time": 1717899016,
       "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 261202,
+      "num": 261202,
+      "word": "高考地理",
+      "onboard_time": 1717906337,
+      "rank": 23,
       "category": "教育"
     },
     {
@@ -467,6 +515,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208011,
+      "num": 208011,
+      "word": "官方通报主播多次违规直播福宝",
+      "onboard_time": 1717905917,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198724,
       "num": 198724,
       "word": "结婚后挺不喜欢过节的",
@@ -491,12 +547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186487,
+      "num": 186487,
+      "word": "鼓浪屿",
+      "onboard_time": 1717906578,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 183928,
       "num": 183928,
       "word": "陈瑶好美",
       "onboard_time": 1717890794,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182336,
+      "num": 182336,
+      "word": "4天高考学霸1天考完",
+      "onboard_time": 1717902857,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179564,
@@ -521,6 +593,14 @@
       "onboard_time": 1717847357,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176852,
+      "num": 176852,
+      "word": "骗子假扮乌克兰前总统英国外交大臣上当",
+      "onboard_time": 1717905198,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175881,
@@ -683,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135749,
+      "num": 135749,
+      "word": "罗伯特说戚薇爱没忘",
+      "onboard_time": 1717905617,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134455,
       "num": 134455,
       "word": "28岁真的是一个很好的年纪",
@@ -697,14 +785,6 @@
       "onboard_time": 1717890616,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131943,
-      "num": 131943,
-      "word": "4天高考学霸1天考完",
-      "onboard_time": 1717902857,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131725,
@@ -723,6 +803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 128573,
+      "num": 128573,
+      "word": "考点在县里考生却走到了市里",
+      "onboard_time": 1717906697,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124232,
       "num": 137787,
       "word": "减肥见效最快的运动就是跳绳",
@@ -737,6 +825,30 @@
       "onboard_time": 1717857800,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121662,
+      "num": 121662,
+      "word": "闪光的夏天",
+      "onboard_time": 1717906278,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118252,
+      "num": 417189,
+      "word": "甜粽和咸粽哪个是你的心头好",
+      "onboard_time": 1717901297,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 117831,
+      "num": 117831,
+      "word": "西班牙运动员提前庆祝错失铜牌",
+      "onboard_time": 1717905678,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115432,
@@ -827,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98724,
-      "num": 156057,
-      "word": "甜粽和咸粽哪个是你的心头好",
-      "onboard_time": 1717901297,
-      "rank": 44,
-      "category": "美食"
-    },
-    {
       "raw_hot": 97798,
       "num": 194198,
       "word": "高考考场外87岁奶奶说我来看热闹",
@@ -873,6 +977,14 @@
       "onboard_time": 1717846458,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90710,
+      "num": 191117,
+      "word": "这些地区高考还有一些单科在考",
+      "onboard_time": 1717905917,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 89152,
@@ -1059,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 59580,
+      "num": 344405,
+      "word": "高考生出考场名场面",
+      "onboard_time": 1717906817,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 58288,
       "num": 430184,
       "word": "社牛姐姐称弟弟是成都最牛考生",
@@ -1084,7 +1204,7 @@
     },
     {
       "raw_hot": 56310,
-      "num": 622838,
+      "num": 687042,
       "word": "文化中国行端午话非遗",
       "onboard_time": 1717902451,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717906963256,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1013743,
+        "num": 1013743,
+        "word": "家长网购要求退款211祝孩子考211",
+        "onboard_time": 1717905198,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735949,
+        "num": 735949,
+        "word": "刘亦菲36岁演22岁女大学生",
+        "onboard_time": 1717888634,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52495,
+        "num": 687042,
+        "word": "文化中国行端午话非遗",
+        "onboard_time": 1717902451,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660297,
+        "num": 660297,
+        "word": "中以混血女孩被以色列救出",
+        "onboard_time": 1717888153,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 603092,
+        "num": 603092,
+        "word": "肖战 IF",
+        "onboard_time": 1717903576,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532432,
+        "num": 532432,
+        "word": "福宝",
+        "onboard_time": 1717901656,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552680,
+        "num": 531135,
+        "word": "刘亦菲 扛剧",
+        "onboard_time": 1717894576,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529377,
+        "num": 529377,
+        "word": "头一次见正主亲自偷母带的",
+        "onboard_time": 1717899917,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448467,
+        "num": 448467,
+        "word": "高考化学",
+        "onboard_time": 1717898296,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118252,
+        "num": 417189,
+        "word": "甜粽和咸粽哪个是你的心头好",
+        "onboard_time": 1717901297,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 544952,
+        "num": 412635,
+        "word": "以色列救出四名人质造成至少210人死亡",
+        "onboard_time": 1717897157,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 473442,
+        "num": 411181,
+        "word": "徐海乔经纪人",
+        "onboard_time": 1717894517,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391276,
+        "num": 391276,
+        "word": "郭士强将接任中国男篮主帅",
+        "onboard_time": 1717904658,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351420,
+        "num": 351420,
+        "word": "周柯宇脱衣服帮迪丽热巴挡腿",
+        "onboard_time": 1717901596,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59580,
+        "num": 344405,
+        "word": "高考生出考场名场面",
+        "onboard_time": 1717906817,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 338569,
+        "num": 338569,
+        "word": "林一追星成功",
+        "onboard_time": 1717905017,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326412,
+        "num": 326412,
+        "word": "日本网红神药真的别瞎吃了",
+        "onboard_time": 1717899496,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311191,
+        "num": 311191,
+        "word": "厦门成立工作组整顿鼓浪屿旅游秩序",
+        "onboard_time": 1717905797,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 276318,
+        "num": 276318,
+        "word": "想看福宝这些时间来",
+        "onboard_time": 1717899437,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274862,
+        "num": 274862,
+        "word": "房贷还款先息后本火了",
+        "onboard_time": 1717889894,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 952858,
+        "num": 272994,
+        "word": "鞠婧祎衣服吊带断了",
+        "onboard_time": 1717904356,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672737,
+        "num": 267447,
+        "word": "因为端午节见家长分手了",
+        "onboard_time": 1717902737,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 653790,
+        "num": 264505,
+        "word": "妈妈存了十年的黄金生锈了",
+        "onboard_time": 1717898536,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261202,
+        "num": 261202,
+        "word": "高考地理",
+        "onboard_time": 1717906337,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208011,
+        "num": 208011,
+        "word": "官方通报主播多次违规直播福宝",
+        "onboard_time": 1717905917,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195265,
+        "num": 195265,
+        "word": "minji把aespa的宣传单贴在了hybe大楼",
+        "onboard_time": 1717898477,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193316,
+        "num": 193316,
+        "word": "帅气高考生出考场喊话王鹤棣",
+        "onboard_time": 1717899196,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 193299,
+        "num": 193299,
+        "word": "高考完想出去玩妈妈说家里就剩两百",
+        "onboard_time": 1717903517,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90710,
+        "num": 191117,
+        "word": "这些地区高考还有一些单科在考",
+        "onboard_time": 1717905917,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 189784,
+        "num": 189784,
+        "word": "哈马斯称确认美国参与袭击加沙难民营",
+        "onboard_time": 1717893257,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186487,
+        "num": 186487,
+        "word": "鼓浪屿",
+        "onboard_time": 1717906578,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 182336,
+        "num": 182336,
+        "word": "4天高考学霸1天考完",
+        "onboard_time": 1717902857,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176852,
+        "num": 176852,
+        "word": "骗子假扮乌克兰前总统英国外交大臣上当",
+        "onboard_time": 1717905198,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150367,
+        "num": 150367,
+        "word": "妈妈让我支付她生我的费用",
+        "onboard_time": 1717896797,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142203,
+        "num": 142203,
+        "word": "小狗乱入考场民警投喂后开启静音模式",
+        "onboard_time": 1717903517,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137952,
+        "num": 137952,
+        "word": "徐海乔五个男人一个都没争取到",
+        "onboard_time": 1717895177,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135749,
+        "num": 135749,
+        "word": "罗伯特说戚薇爱没忘",
+        "onboard_time": 1717905617,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135277,
+        "num": 135277,
+        "word": "为什么酒店要把被子塞在床垫下",
+        "onboard_time": 1717894818,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131390,
+        "num": 131390,
+        "word": "可以去看福宝了",
+        "onboard_time": 1717898416,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130896,
+        "num": 130896,
+        "word": "胡歌说仙剑奇侠传是冷门电视剧",
+        "onboard_time": 1717890975,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129607,
+        "num": 129607,
+        "word": "刘亦菲个人微指破3.7亿",
+        "onboard_time": 1717899496,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128573,
+        "num": 128573,
+        "word": "考点在县里考生却走到了市里",
+        "onboard_time": 1717906697,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122987,
+        "num": 122987,
+        "word": "FPX小老虎不打了",
+        "onboard_time": 1717858459,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121776,
+        "num": 121776,
+        "word": "辽宁化学已老实",
+        "onboard_time": 1717903157,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121662,
+        "num": 121662,
+        "word": "闪光的夏天",
+        "onboard_time": 1717906278,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117831,
+        "num": 117831,
+        "word": "西班牙运动员提前庆祝错失铜牌",
+        "onboard_time": 1717905678,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114574,
+        "num": 114574,
+        "word": "店家回应曾承诺5年后回收钻戒女子退货被拒",
+        "onboard_time": 1717900217,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114521,
+        "num": 114521,
+        "word": "湖北黄梅县龙舟赛翻船致一人死亡",
+        "onboard_time": 1717902797,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108965,
+        "num": 108965,
+        "word": "高考完3个月是一生最爽的时候",
+        "onboard_time": 1717895118,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106569,
+        "num": 106569,
+        "word": "霉霉的小品没有瓶颈期吗",
+        "onboard_time": 1717900696,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系历史文化遗产保护传承#"
+    }
+  }
+}
