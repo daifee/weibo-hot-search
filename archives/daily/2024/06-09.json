@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717918450697,
+  "endTime": 1717921308448,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -8,6 +8,14 @@
       "word": "家长网购要求退款211祝孩子考211",
       "onboard_time": 1717905198,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1806313,
+      "num": 1806313,
+      "word": "女子误将墓园认景区花1万拍婚纱",
+      "onboard_time": 1717918217,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -203,8 +211,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 592549,
+      "num": 592549,
+      "word": "王星越 老公在此",
+      "onboard_time": 1717918217,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584984,
-      "num": 221752,
+      "num": 222654,
       "word": "200元一斤蓝莓跌到8元",
       "onboard_time": 1717913357,
       "rank": 25,
@@ -225,6 +241,14 @@
       "onboard_time": 1717899196,
       "rank": 8,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 555867,
+      "num": 555867,
+      "word": "玫瑰的故事以爱为营同一造型团队",
+      "onboard_time": 1717915758,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 541859,
@@ -395,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 431160,
+      "num": 431160,
+      "word": "高圆圆回复秦霄贤包场",
+      "onboard_time": 1717918818,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 402479,
       "num": 402479,
       "word": "周柯宇脱衣服帮迪丽热巴挡腿",
@@ -427,6 +459,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 388305,
+      "num": 388305,
+      "word": "韩国医协今将宣布集体停诊计划",
+      "onboard_time": 1717915997,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372394,
+      "num": 372394,
+      "word": "以军直升机直接向人群开火现场成地狱",
+      "onboard_time": 1717916597,
+      "rank": 25,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 360734,
       "num": 360734,
       "word": "种地吧 草莓爷爷",
@@ -457,6 +505,14 @@
       "onboard_time": 1717892175,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 350992,
+      "num": 350992,
+      "word": "沈月凭本事让孟子义工作室挨骂",
+      "onboard_time": 1717918037,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 345600,
@@ -515,6 +571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323273,
+      "num": 323273,
+      "word": "白月梵星",
+      "onboard_time": 1717919358,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 322829,
       "num": 322829,
       "word": "荣梓杉高考",
@@ -555,12 +619,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 301116,
-      "num": 301116,
-      "word": "以军直升机直接向人群开火现场成地狱",
-      "onboard_time": 1717916597,
-      "rank": 25,
-      "category": "国外时政"
+      "raw_hot": 300407,
+      "num": 300407,
+      "word": "主播多次违规直播福宝被终身禁入",
+      "onboard_time": 1717920377,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280459,
@@ -675,6 +739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 228269,
+      "num": 228269,
+      "word": "乌兰 女狂徒",
+      "onboard_time": 1717919656,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226227,
       "num": 226227,
       "word": "刘亦菲个人微指破3.7亿",
@@ -689,14 +761,6 @@
       "onboard_time": 1717903517,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222389,
-      "num": 222389,
-      "word": "王星越 老公在此",
-      "onboard_time": 1717918217,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 219927,
@@ -715,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218957,
-      "num": 192173,
-      "word": "女子误将墓园认景区花1万拍婚纱",
-      "onboard_time": 1717918217,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217256,
       "num": 158663,
       "word": "夜尿次数增多是肾脏病早期信号",
@@ -737,14 +793,6 @@
       "onboard_time": 1717912398,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 214285,
-      "num": 214285,
-      "word": "玫瑰的故事以爱为营同一造型团队",
-      "onboard_time": 1717915758,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 212873,
@@ -851,6 +899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194859,
+      "num": 194859,
+      "word": "抠抠嗖嗖的花了很多钱",
+      "onboard_time": 1717918697,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 192337,
       "num": 192337,
       "word": "玫瑰的故事好多美女",
@@ -955,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181714,
+      "num": 318515,
+      "word": "2024高考查分时间汇总",
+      "onboard_time": 1717915038,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179836,
       "num": 179836,
       "word": "梦之队",
@@ -984,14 +1048,6 @@
       "word": "天热北京一考点给陪考家长发雪糕",
       "onboard_time": 1717913416,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178187,
-      "num": 178187,
-      "word": "韩国医协今将宣布集体停诊计划",
-      "onboard_time": 1717915997,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1025,14 +1081,6 @@
       "onboard_time": 1717899257,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 170305,
-      "num": 170305,
-      "word": "沈月凭本事让孟子义工作室挨骂",
-      "onboard_time": 1717918037,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 169242,
@@ -1179,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148277,
-      "num": 318515,
-      "word": "2024高考查分时间汇总",
-      "onboard_time": 1717915038,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147362,
       "num": 147362,
       "word": "偏偏你最争气挨打也没关系",
@@ -1331,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126758,
+      "num": 126758,
+      "word": "你听过最野的野史有多野",
+      "onboard_time": 1717919837,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 125694,
       "num": 125694,
       "word": "邓超说鹿晗五哈四季变化很大",
@@ -1347,12 +1395,28 @@
       "category": "教育,军事"
     },
     {
+      "raw_hot": 124725,
+      "num": 124725,
+      "word": "王星越吐槽成亲镜头太少了",
+      "onboard_time": 1717919297,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124232,
       "num": 137787,
       "word": "减肥见效最快的运动就是跳绳",
       "onboard_time": 1717856538,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 124194,
+      "num": 201090,
+      "word": "妹妹用考过100分的手送哥哥高考",
+      "onboard_time": 1717917798,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124035,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1717906278,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121622,
+      "num": 121622,
+      "word": "云合",
+      "onboard_time": 1717921037,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 117831,
@@ -1409,14 +1481,6 @@
       "onboard_time": 1717887733,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114594,
-      "num": 201090,
-      "word": "妹妹用考过100分的手送哥哥高考",
-      "onboard_time": 1717917798,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113826,
@@ -1529,6 +1593,14 @@
       "onboard_time": 1717899617,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93831,
+      "num": 106120,
+      "word": "间谍过家家第三季制作决定",
+      "onboard_time": 1717921279,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 92794,
@@ -1737,6 +1809,14 @@
       "onboard_time": 1717908078,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59576,
+      "num": 377900,
+      "word": "能忍住不拆快递的都是狠人",
+      "onboard_time": 1717920197,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58288,
