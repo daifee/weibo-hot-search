@@ -1,7 +1,15 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717900652089,
+  "endTime": 1717901207699,
   "band_list": [
+    {
+      "raw_hot": 1147693,
+      "num": 1147693,
+      "word": "考公五年没考上考编一个月上岸了",
+      "onboard_time": 1717895657,
+      "rank": 20,
+      "category": "教育"
+    },
     {
       "raw_hot": 1143590,
       "num": 267245,
@@ -9,14 +17,6 @@
       "onboard_time": 1717856300,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1109526,
-      "num": 1109526,
-      "word": "考公五年没考上考编一个月上岸了",
-      "onboard_time": 1717895657,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 1088011,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 768578,
-      "num": 228598,
+      "num": 245545,
       "word": "妈妈存了十年的黄金生锈了",
       "onboard_time": 1717898536,
       "rank": 20,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 626871,
-      "num": 228313,
+      "num": 245399,
       "word": "妈妈让我支付她生我的费用",
       "onboard_time": 1717896797,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 556649,
+      "num": 556649,
+      "word": "帅气高考生出考场喊话王鹤棣",
+      "onboard_time": 1717899196,
+      "rank": 8,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 496528,
@@ -137,14 +145,6 @@
       "onboard_time": 1717858459,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 483982,
-      "num": 483982,
-      "word": "帅气高考生出考场喊话王鹤棣",
-      "onboard_time": 1717899196,
-      "rank": 8,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 481036,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 475274,
-      "num": 429858,
+      "num": 443758,
       "word": "房贷还款先息后本火了",
       "onboard_time": 1717889894,
       "rank": 21,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 336059,
-      "num": 227834,
+      "num": 245240,
       "word": "徐海乔五个男人一个都没争取到",
       "onboard_time": 1717895177,
       "rank": 23,
@@ -291,6 +291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280705,
+      "num": 467288,
+      "word": "想看福宝这些时间来",
+      "onboard_time": 1717899437,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280459,
       "num": 280459,
       "word": "花5个小时准备了二十多个菜",
@@ -305,6 +313,14 @@
       "onboard_time": 1717856598,
       "rank": 7,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 278571,
+      "num": 278571,
+      "word": "头一次见正主亲自偷母带的",
+      "onboard_time": 1717899917,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 266510,
@@ -331,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257158,
-      "num": 467288,
-      "word": "想看福宝这些时间来",
-      "onboard_time": 1717899437,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256491,
       "num": 256491,
       "word": "刘亦菲至今没结婚的原因",
@@ -353,6 +361,14 @@
       "onboard_time": 1717888273,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244413,
+      "num": 244413,
+      "word": "日本网红神药真的别瞎吃了",
+      "onboard_time": 1717899496,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 233492,
@@ -387,28 +403,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 214069,
-      "num": 214069,
-      "word": "日本网红神药真的别瞎吃了",
-      "onboard_time": 1717899496,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 212873,
       "num": 212873,
       "word": "粽子",
       "onboard_time": 1717895657,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 211973,
-      "num": 211973,
-      "word": "头一次见正主亲自偷母带的",
-      "onboard_time": 1717899917,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210580,
@@ -419,8 +419,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 194040,
-      "num": 194040,
+      "raw_hot": 198724,
+      "num": 198724,
       "word": "结婚后挺不喜欢过节的",
       "onboard_time": 1717897517,
       "rank": 45,
@@ -497,6 +497,14 @@
       "onboard_time": 1717846697,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167423,
+      "num": 167423,
+      "word": "店家回应曾承诺5年后回收钻戒女子退货被拒",
+      "onboard_time": 1717900217,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164815,
@@ -587,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140232,
+      "num": 140232,
+      "word": "霉霉的小品没有瓶颈期吗",
+      "onboard_time": 1717900696,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137796,
       "num": 137796,
       "word": "佟大为陈瑶演情侣",
@@ -625,14 +641,6 @@
       "onboard_time": 1717892656,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127905,
-      "num": 127905,
-      "word": "店家回应曾承诺5年后回收钻戒女子退货被拒",
-      "onboard_time": 1717900217,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124232,
@@ -683,6 +691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109922,
+      "num": 109922,
+      "word": "主人比死神先找到了我",
+      "onboard_time": 1717900398,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107796,
       "num": 137762,
       "word": "秦霄贤你的圆圆姐来了",
@@ -697,14 +713,6 @@
       "onboard_time": 1717859719,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 102537,
-      "num": 102537,
-      "word": "主人比死神先找到了我",
-      "onboard_time": 1717900398,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101975,
@@ -737,6 +745,14 @@
       "onboard_time": 1717895536,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 94420,
+      "num": 86840,
+      "word": "林更新演的方协文好窒息",
+      "onboard_time": 1717899617,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 92794,
@@ -787,6 +803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86454,
+      "num": 86454,
+      "word": "大多数人缺的不是恋爱对象",
+      "onboard_time": 1717901116,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85320,
       "num": 137757,
       "word": "张峻豪出道战路透",
@@ -809,6 +833,14 @@
       "onboard_time": 1717853419,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81156,
+      "num": 776510,
+      "word": "中国57项世界遗产全名单",
+      "onboard_time": 1717854438,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79138,
@@ -849,14 +881,6 @@
       "onboard_time": 1717865715,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 72369,
-      "num": 776510,
-      "word": "中国57项世界遗产全名单",
-      "onboard_time": 1717854438,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70347,
@@ -1027,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37767,
+      "num": 717411,
+      "word": "一组数据看中国非遗有多火",
+      "onboard_time": 1717900696,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36066,
       "num": 77641,
       "word": "男子不知浙江高速拖车免费拒绝施救",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1717848377,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30843,
+      "num": 329021,
+      "word": "多地高考第三天",
+      "onboard_time": 1717900877,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 25957,
