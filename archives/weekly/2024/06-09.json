@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717961640391,
+  "endTime": 1717964505235,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -1787,6 +1787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165343,
+      "num": 165343,
+      "word": "董宇辉称非常反感被叫网红",
+      "onboard_time": 1717959731,
+      "rank": 13,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 164815,
       "num": 164815,
       "word": "基德离间计",
@@ -2161,14 +2169,6 @@
       "onboard_time": 1717943299,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136372,
-      "num": 136372,
-      "word": "董宇辉称非常反感被叫网红",
-      "onboard_time": 1717959731,
-      "rank": 13,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 135875,
@@ -2595,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99376,
+      "num": 33653,
+      "word": "殷罡逝世",
+      "onboard_time": 1717960452,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99238,
       "num": 99238,
       "word": "丁钰琼 周末与婚姻的对谈",
@@ -2865,14 +2873,6 @@
       "onboard_time": 1717944558,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73065,
-      "num": 32234,
-      "word": "殷罡逝世",
-      "onboard_time": 1717960452,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72553,
@@ -3401,6 +3401,14 @@
       "onboard_time": 1717852099,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14311,
+      "num": 17769,
+      "word": "你常做的7件小事正在偷走骨头里的钙",
+      "onboard_time": 1717964350,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13728,
