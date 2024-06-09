@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717925748452,
+  "endTime": 1717928344778,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -33,6 +33,14 @@
       "onboard_time": 1717920377,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1173598,
+      "num": 1173598,
+      "word": "荣梓杉是今年中戏北电双第一",
+      "onboard_time": 1717926558,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1147693,
@@ -289,6 +297,14 @@
       "onboard_time": 1717908797,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 540554,
+      "num": 540554,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1717925657,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 532432,
@@ -667,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 296735,
+      "num": 355145,
+      "word": "高考刚结束男孩喜提新手机",
+      "onboard_time": 1717923919,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 282159,
       "num": 282159,
       "word": "乌兰 女狂徒",
@@ -771,12 +795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241394,
+      "num": 241394,
+      "word": "山东化学",
+      "onboard_time": 1717925537,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 241044,
       "num": 215609,
       "word": "丁真 你什么档次",
       "onboard_time": 1717916537,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 240247,
+      "num": 240247,
+      "word": "高考是终点也是起点",
+      "onboard_time": 1717925597,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 233492,
@@ -859,11 +899,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212279,
+      "num": 212279,
+      "word": "吴谨言王星越再拍部剧吧",
+      "onboard_time": 1717926558,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211371,
       "num": 211371,
       "word": "店家回应曾承诺5年后回收钻戒女子退货被拒",
       "onboard_time": 1717900217,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211176,
+      "num": 211176,
+      "word": "重庆龙舟侧翻事故遇难者家属发声",
+      "onboard_time": 1717927517,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -905,14 +961,6 @@
       "onboard_time": 1717913719,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205765,
-      "num": 150020,
-      "word": "本周桃花运最旺的星座",
-      "onboard_time": 1717925657,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 201922,
@@ -1155,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166384,
-      "num": 166384,
-      "word": "山东化学",
-      "onboard_time": 1717925537,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 165834,
       "num": 165834,
       "word": "建议用户每周重新启动一次手机",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1717896136,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163358,
+      "num": 163358,
+      "word": "可口可乐的新品为什么卖不动",
+      "onboard_time": 1717927098,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 161482,
@@ -1467,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127303,
+      "num": 127303,
+      "word": "不要再把面膜放冰箱了",
+      "onboard_time": 1717927637,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 126758,
       "num": 126758,
       "word": "你听过最野的野史有多野",
@@ -1539,12 +1595,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122345,
+      "num": 122345,
+      "word": "山东化学 简单",
+      "onboard_time": 1717927817,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 121662,
       "num": 121662,
       "word": "闪光的夏天",
       "onboard_time": 1717906278,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121651,
+      "num": 121651,
+      "word": "墨雨云间排面",
+      "onboard_time": 1717925897,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 121622,
@@ -1603,12 +1675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110916,
-      "num": 355145,
-      "word": "高考刚结束男孩喜提新手机",
-      "onboard_time": 1717923919,
-      "rank": 9,
-      "category": "社会新闻,教育"
+      "raw_hot": 111569,
+      "num": 111569,
+      "word": "边伯贤 不喜欢我就不要买我的票",
+      "onboard_time": 1717928179,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 110429,
@@ -1627,12 +1699,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109625,
+      "num": 109625,
+      "word": "种地吧",
+      "onboard_time": 1717926018,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108322,
+      "num": 104105,
+      "word": "我排着队拿着刘亦菲的号码牌",
+      "onboard_time": 1717926858,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108059,
       "num": 296920,
       "word": "上海短视频小横店日租金6000",
       "onboard_time": 1717912817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107976,
+      "num": 107976,
+      "word": "牛蛙影响高考被抓后续",
+      "onboard_time": 1717928117,
+      "rank": 42,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 107796,
@@ -1643,20 +1739,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107602,
-      "num": 107602,
-      "word": "高考是终点也是起点",
-      "onboard_time": 1717925597,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 106279,
       "num": 105315,
       "word": "别给王星越乐晕了",
       "onboard_time": 1717903397,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104391,
+      "num": 104391,
+      "word": "江苏政治考cosplay",
+      "onboard_time": 1717927997,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 103031,
@@ -1740,7 +1836,7 @@
     },
     {
       "raw_hot": 90523,
-      "num": 834622,
+      "num": 876862,
       "word": "无论结果如何你都是最闪耀的星",
       "onboard_time": 1717922418,
       "rank": 2,
@@ -1825,6 +1921,14 @@
       "onboard_time": 1717853419,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 81270,
+      "num": 100035,
+      "word": "小动物的嫉妒心能有多强",
+      "onboard_time": 1717926317,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 81156,
@@ -2017,6 +2121,14 @@
       "onboard_time": 1717902017,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 50657,
+      "num": 413514,
+      "word": "小伙表演川剧变脸看呆美国高中生",
+      "onboard_time": 1717927637,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50370,
@@ -2256,6 +2368,14 @@
       "word": "魏大勋毛不易郭麒麟互评",
       "onboard_time": 1717909457,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11073,
+      "num": 122036,
+      "word": "魏大勋毛不易郭麒麟被贴脸开大",
+      "onboard_time": 1717927878,
+      "rank": 34,
       "category": "综艺"
     },
     {
