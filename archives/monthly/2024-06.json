@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717907756880,
+  "endTime": 1717910277269,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -297,6 +297,14 @@
       "onboard_time": 1717745478,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1946381,
+      "num": 1946381,
+      "word": "家长网购要求退款211祝孩子考211",
+      "onboard_time": 1717905198,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1932046,
@@ -608,14 +616,6 @@
       "word": "住房公积金从季取变月取",
       "onboard_time": 1717474760,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1545567,
-      "num": 1545567,
-      "word": "家长网购要求退款211祝孩子考211",
-      "onboard_time": 1717905198,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -1827,6 +1827,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 915830,
+      "num": 753789,
+      "word": "中以混血女孩被以色列救出",
+      "onboard_time": 1717888153,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 912365,
       "num": 432240,
       "word": "曹格说很需要一个女朋友",
@@ -2388,7 +2396,7 @@
     },
     {
       "raw_hot": 764489,
-      "num": 638090,
+      "num": 650042,
       "word": "刘亦菲 扛剧",
       "onboard_time": 1717894576,
       "rank": 5,
@@ -2473,14 +2481,6 @@
       "onboard_time": 1717648339,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 753789,
-      "num": 753789,
-      "word": "中以混血女孩被以色列救出",
-      "onboard_time": 1717888153,
-      "rank": 10,
-      "category": "国外时政"
     },
     {
       "raw_hot": 751314,
@@ -2769,6 +2769,14 @@
       "onboard_time": 1717234636,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 715529,
+      "num": 715529,
+      "word": "高考地理",
+      "onboard_time": 1717906337,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 714550,
@@ -3305,14 +3313,6 @@
       "onboard_time": 1717815858,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 644765,
-      "num": 644765,
-      "word": "高考地理",
-      "onboard_time": 1717906337,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 644289,
@@ -4203,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541859,
+      "num": 541859,
+      "word": "山东政治",
+      "onboard_time": 1717908797,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 541834,
       "num": 541834,
       "word": "赵露思陈伟霆 许你耀眼",
@@ -4673,6 +4681,14 @@
       "onboard_time": 1717679179,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 504507,
+      "num": 504507,
+      "word": "厦门成立工作组整顿鼓浪屿旅游秩序",
+      "onboard_time": 1717905797,
+      "rank": 17,
+      "category": "旅游"
     },
     {
       "raw_hot": 504034,
@@ -5299,14 +5315,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 455977,
-      "num": 455977,
-      "word": "厦门成立工作组整顿鼓浪屿旅游秩序",
-      "onboard_time": 1717905797,
-      "rank": 17,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 455801,
       "num": 221034,
       "word": "迪丽热巴六月行程图",
@@ -5601,6 +5609,14 @@
       "onboard_time": 1717375039,
       "rank": 12,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 439258,
+      "num": 439258,
+      "word": "考点在县里考生却走到了市里",
+      "onboard_time": 1717906697,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438881,
@@ -6875,6 +6891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360734,
+      "num": 360734,
+      "word": "种地吧 草莓爷爷",
+      "onboard_time": 1717908498,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359597,
       "num": 359597,
       "word": "黑神话悟空",
@@ -7097,6 +7121,14 @@
       "onboard_time": 1717224198,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 351962,
+      "num": 252727,
+      "word": "失恋5个月后胖了40斤",
+      "onboard_time": 1717907057,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 351659,
@@ -8995,6 +9027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268312,
+      "num": 268312,
+      "word": "离开易建联谁还把邓超当小孩",
+      "onboard_time": 1717907417,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268077,
       "num": 388822,
       "word": "国防部奉劝台独丢掉幻想",
@@ -9363,6 +9403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256822,
+      "num": 256822,
+      "word": "高考政治",
+      "onboard_time": 1717909879,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 256623,
       "num": 256623,
       "word": "云台山回应瀑布源头是水管",
@@ -9713,6 +9761,14 @@
       "onboard_time": 1717374979,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 245278,
+      "num": 245278,
+      "word": "福建地理",
+      "onboard_time": 1717909457,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 244659,
@@ -11555,6 +11611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205991,
+      "num": 205991,
+      "word": "KPL王者梦之队队服曝光",
+      "onboard_time": 1717910237,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205918,
       "num": 205918,
       "word": "迪丽热巴公主唱山歌",
@@ -11843,6 +11907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201922,
+      "num": 201922,
+      "word": "TF三代登陆日",
+      "onboard_time": 1717909997,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201816,
       "num": 183071,
       "word": "杨超越墨雨云间下线镜头",
@@ -12097,6 +12169,14 @@
       "onboard_time": 1717668980,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199110,
+      "num": 199110,
+      "word": "广东地理 考化学",
+      "onboard_time": 1717908857,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 198980,
@@ -12827,14 +12907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 191648,
-      "num": 191648,
-      "word": "考点在县里考生却走到了市里",
-      "onboard_time": 1717906697,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 191154,
       "num": 172266,
       "word": "两个猫猫吵架人类帮忙劝架",
@@ -12872,6 +12944,14 @@
       "word": "JDG官宣早点",
       "onboard_time": 1717403718,
       "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 190634,
+      "num": 190634,
+      "word": "无畏王者梦之队定妆官宣",
+      "onboard_time": 1717909698,
+      "rank": 31,
       "category": "电竞"
     },
     {
@@ -13235,6 +13315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186406,
+      "num": 186406,
+      "word": "KPL",
+      "onboard_time": 1717910057,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186401,
       "num": 165283,
       "word": "墨雨云间赵晴状态",
@@ -13265,6 +13353,14 @@
       "onboard_time": 1717236557,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185862,
+      "num": 185862,
+      "word": "福建地理 小红",
+      "onboard_time": 1717909698,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 185624,
@@ -13313,6 +13409,14 @@
       "onboard_time": 1717578137,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185257,
+      "num": 183608,
+      "word": "重庆秀山龙舟训练翻船致3死",
+      "onboard_time": 1717907237,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 185223,
@@ -13569,6 +13673,14 @@
       "onboard_time": 1717415299,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 179836,
+      "num": 179836,
+      "word": "梦之队",
+      "onboard_time": 1717908857,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 179806,
@@ -14987,14 +15099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163223,
-      "num": 163223,
-      "word": "重庆秀山龙舟训练翻船致3死",
-      "onboard_time": 1717907237,
-      "rank": 34,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 163099,
       "num": 163099,
       "word": "陈梦3比2汉娜高达",
@@ -15281,14 +15385,6 @@
       "onboard_time": 1717856899,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160090,
-      "num": 155401,
-      "word": "离开易建联谁还把邓超当小孩",
-      "onboard_time": 1717907417,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 160077,
@@ -16443,6 +16539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148490,
+      "num": 148490,
+      "word": "吴谨言提灯回眸",
+      "onboard_time": 1717909038,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148464,
       "num": 148464,
       "word": "王启年出的题田雨给了正解",
@@ -16987,14 +17091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142653,
-      "num": 142653,
-      "word": "失恋5个月后胖了40斤",
-      "onboard_time": 1717907057,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 142607,
       "num": 142607,
       "word": "金莎参加闺蜜婚礼",
@@ -17289,6 +17385,14 @@
       "onboard_time": 1717839979,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 140063,
+      "num": 140063,
+      "word": "可以接受1到2年内没有工资吗",
+      "onboard_time": 1717907417,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 139970,
@@ -18747,12 +18851,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "985舰是懂高考祝福的",
+      "onboard_time": 1717909637,
+      "rank": 48,
+      "category": "教育,军事"
+    },
+    {
       "raw_hot": 124708,
       "num": 124708,
       "word": "一人一句月的独白",
       "onboard_time": 1717766842,
       "rank": 48,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 124692,
+      "num": 124692,
+      "word": "日本出现巨型章鱼",
+      "onboard_time": 1717909336,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124665,
@@ -20945,6 +21065,14 @@
       "onboard_time": 1717585638,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100548,
+      "num": 377006,
+      "word": "如厕不该被读秒围观",
+      "onboard_time": 1717909218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100411,
@@ -23483,6 +23611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48169,
+      "num": 372246,
+      "word": "无畏在京东唱帽衫",
+      "onboard_time": 1717908078,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 48095,
       "num": 48095,
       "word": "迪丽热巴 TopGirl",
@@ -25209,6 +25345,14 @@
       "onboard_time": 1717519814,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8891,
+      "num": 185937,
+      "word": "魏大勋毛不易郭麒麟互评",
+      "onboard_time": 1717909457,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 8555,
