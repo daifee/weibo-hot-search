@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717896372585,
+  "endTime": 1717897657474,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1411,6 +1411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1088011,
+      "num": 1088011,
+      "word": "刘亦菲36岁演22岁女大学生",
+      "onboard_time": 1717888634,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1086816,
       "num": 1086816,
       "word": "檀健次吐烟",
@@ -1531,14 +1539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1030845,
-      "num": 1030845,
-      "word": "刘亦菲36岁演22岁女大学生",
-      "onboard_time": 1717888634,
-      "rank": 1,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1021664,
       "num": 1021664,
       "word": "没想到榴莲也住上单间了",
@@ -1657,6 +1657,14 @@
       "onboard_time": 1717422500,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 958688,
+      "num": 346156,
+      "word": "徐海乔经纪人",
+      "onboard_time": 1717894517,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 955590,
@@ -2291,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771677,
+      "num": 207497,
+      "word": "考公五年没考上考编一个月上岸了",
+      "onboard_time": 1717895657,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 771134,
       "num": 455063,
       "word": "汪峰 有点爹",
@@ -2683,14 +2699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 721686,
-      "num": 346156,
-      "word": "徐海乔经纪人",
-      "onboard_time": 1717894517,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 721354,
       "num": 721354,
       "word": "高考作文紧跟时事",
@@ -2793,6 +2801,14 @@
       "onboard_time": 1717765282,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 698732,
+      "num": 698732,
+      "word": "为什么酒店要把被子塞在床垫下",
+      "onboard_time": 1717894818,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 697166,
@@ -2905,6 +2921,14 @@
       "onboard_time": 1717238356,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 679634,
+      "num": 679634,
+      "word": "哈马斯称确认美国参与袭击加沙难民营",
+      "onboard_time": 1717893257,
+      "rank": 4,
+      "category": "国外时政"
     },
     {
       "raw_hot": 679093,
@@ -3225,14 +3249,6 @@
       "onboard_time": 1717480877,
       "rank": 12,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 648356,
-      "num": 648356,
-      "word": "哈马斯称确认美国参与袭击加沙难民营",
-      "onboard_time": 1717893257,
-      "rank": 4,
-      "category": "国外时政"
     },
     {
       "raw_hot": 644776,
@@ -3905,14 +3921,6 @@
       "onboard_time": 1717681460,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 570350,
-      "num": 207497,
-      "word": "考公五年没考上考编一个月上岸了",
-      "onboard_time": 1717895657,
-      "rank": 20,
-      "category": "教育"
     },
     {
       "raw_hot": 570347,
@@ -6227,6 +6235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390171,
+      "num": 390171,
+      "word": "高考完3个月是一生最爽的时候",
+      "onboard_time": 1717895118,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388253,
       "num": 262206,
       "word": "袁泉夏雨 低调相守的爱情",
@@ -6625,6 +6641,14 @@
       "onboard_time": 1717213816,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365337,
+      "num": 202973,
+      "word": "妈妈让我支付她生我的费用",
+      "onboard_time": 1717896797,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 365177,
@@ -7907,14 +7931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301257,
-      "num": 301257,
-      "word": "为什么酒店要把被子塞在床垫下",
-      "onboard_time": 1717894818,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 301119,
       "num": 301119,
       "word": "孙夏铃 我不想再被安排了",
@@ -7961,14 +7977,6 @@
       "onboard_time": 1717324098,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 298767,
-      "num": 201182,
-      "word": "高考完3个月是一生最爽的时候",
-      "onboard_time": 1717895118,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 298485,
@@ -8443,6 +8451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280459,
+      "num": 280459,
+      "word": "花5个小时准备了二十多个菜",
+      "onboard_time": 1717889655,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 280197,
       "num": 280197,
       "word": "娜扎江疏影cue张若昀",
@@ -8489,14 +8505,6 @@
       "onboard_time": 1717164626,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278287,
-      "num": 278287,
-      "word": "花5个小时准备了二十多个菜",
-      "onboard_time": 1717889655,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 278175,
@@ -8625,6 +8633,14 @@
       "onboard_time": 1717217177,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 274648,
+      "num": 196399,
+      "word": "徐海乔五个男人一个都没争取到",
+      "onboard_time": 1717895177,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 274357,
@@ -9395,14 +9411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 250406,
-      "num": 196399,
-      "word": "徐海乔五个男人一个都没争取到",
-      "onboard_time": 1717895177,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250267,
       "num": 250267,
       "word": "魔卡少女樱 小樱初设形象",
@@ -9777,6 +9785,14 @@
       "onboard_time": 1717301597,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237204,
+      "num": 237204,
+      "word": "以色列救出四名人质造成至少210人死亡",
+      "onboard_time": 1717897157,
+      "rank": 16,
+      "category": "国外时政"
     },
     {
       "raw_hot": 237035,
@@ -10873,6 +10889,14 @@
       "onboard_time": 1717171279,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212873,
+      "num": 212873,
+      "word": "粽子",
+      "onboard_time": 1717895657,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 212601,
@@ -12313,14 +12337,6 @@
       "onboard_time": 1717558038,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195040,
-      "num": 195040,
-      "word": "粽子",
-      "onboard_time": 1717895657,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 194720,
@@ -14555,6 +14571,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 164815,
+      "num": 164815,
+      "word": "基德离间计",
+      "onboard_time": 1717896136,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164809,
       "num": 164809,
       "word": "墨雨云间追剧日历",
@@ -15132,7 +15156,7 @@
     },
     {
       "raw_hot": 158666,
-      "num": 135879,
+      "num": 139860,
       "word": "mouse回应小老虎不打了",
       "onboard_time": 1717888514,
       "rank": 35,
@@ -16707,8 +16731,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 142347,
-      "num": 142347,
+      "raw_hot": 142376,
+      "num": 142376,
       "word": "五哈收官邓超不睡了",
       "onboard_time": 1717893136,
       "rank": 34,
@@ -19315,6 +19339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115432,
+      "num": 163310,
+      "word": "你以为的高考完vs实际上的高考完",
+      "onboard_time": 1717888094,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 115391,
       "num": 115391,
       "word": "灵儿九尾黑白天使大片",
@@ -20347,14 +20379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103224,
-      "num": 163310,
-      "word": "你以为的高考完vs实际上的高考完",
-      "onboard_time": 1717888094,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 103131,
       "num": 103131,
       "word": "53岁大叔用AI备考研究生成功",
@@ -20401,14 +20425,6 @@
       "onboard_time": 1717834218,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102645,
-      "num": 102645,
-      "word": "基德离间计",
-      "onboard_time": 1717896136,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 102636,
@@ -20561,6 +20577,14 @@
       "onboard_time": 1717585638,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 100583,
+      "num": 100583,
+      "word": "结婚后挺不喜欢过节的",
+      "onboard_time": 1717897517,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 100411,
@@ -20745,6 +20769,14 @@
       "onboard_time": 1717295958,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97798,
+      "num": 97798,
+      "word": "高考考场外87岁奶奶说我来看热闹",
+      "onboard_time": 1717895477,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97164,
@@ -21627,6 +21659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75144,
+      "num": 324419,
+      "word": "过去和未来都具像化了",
+      "onboard_time": 1717896378,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75039,
       "num": 442832,
       "word": "蓝领招聘薪酬比5年前增长超3成",
@@ -21755,6 +21795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72369,
+      "num": 687423,
+      "word": "中国57项世界遗产全名单",
+      "onboard_time": 1717854438,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72281,
       "num": 250282,
       "word": "学校组织近千名高三生考前抓鱼减压",
@@ -21801,14 +21849,6 @@
       "onboard_time": 1717332440,
       "rank": 13,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 71457,
-      "num": 670851,
-      "word": "中国57项世界遗产全名单",
-      "onboard_time": 1717854438,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71337,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1717897657474,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088011,
+        "num": 1088011,
+        "word": "刘亦菲36岁演22岁女大学生",
+        "onboard_time": 1717888634,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 698732,
+        "num": 698732,
+        "word": "为什么酒店要把被子塞在床垫下",
+        "onboard_time": 1717894818,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 72369,
+        "num": 687423,
+        "word": "中国57项世界遗产全名单",
+        "onboard_time": 1717854438,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679634,
+        "num": 679634,
+        "word": "哈马斯称确认美国参与袭击加沙难民营",
+        "onboard_time": 1717893257,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 667852,
+        "num": 667852,
+        "word": "中以混血女孩被以色列救出",
+        "onboard_time": 1717888153,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 697215,
+        "num": 610882,
+        "word": "刘亦菲 扛剧",
+        "onboard_time": 1717894576,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501606,
+        "num": 501606,
+        "word": "考生冲出考场太激动拥抱家人遭重摔",
+        "onboard_time": 1717888393,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 390171,
+        "num": 390171,
+        "word": "高考完3个月是一生最爽的时候",
+        "onboard_time": 1717895118,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 362379,
+        "num": 362379,
+        "word": "起猛了亚当参加新说唱了",
+        "onboard_time": 1717888273,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75144,
+        "num": 324419,
+        "word": "过去和未来都具像化了",
+        "onboard_time": 1717896378,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 958688,
+        "num": 323928,
+        "word": "徐海乔经纪人",
+        "onboard_time": 1717894517,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318513,
+        "num": 318513,
+        "word": "李华可能是47岁的频繁转校生",
+        "onboard_time": 1717892175,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305077,
+        "num": 305077,
+        "word": "胡歌说仙剑奇侠传是冷门电视剧",
+        "onboard_time": 1717890975,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280459,
+        "num": 280459,
+        "word": "花5个小时准备了二十多个菜",
+        "onboard_time": 1717889655,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253315,
+        "num": 253315,
+        "word": "你好星期六下期有陈昊宇陈丽君",
+        "onboard_time": 1717893677,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246941,
+        "num": 246941,
+        "word": "萧蘅薛芳菲亲上了",
+        "onboard_time": 1717890254,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237204,
+        "num": 237204,
+        "word": "以色列救出四名人质造成至少210人死亡",
+        "onboard_time": 1717897157,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 215307,
+        "num": 215307,
+        "word": "日本学者向义乌捐近千件细菌战重要史料",
+        "onboard_time": 1717890854,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212873,
+        "num": 212873,
+        "word": "粽子",
+        "onboard_time": 1717895657,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210761,
+        "num": 210761,
+        "word": "FPX小老虎不打了",
+        "onboard_time": 1717858459,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 771677,
+        "num": 206113,
+        "word": "考公五年没考上考编一个月上岸了",
+        "onboard_time": 1717895657,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 384946,
+        "num": 203939,
+        "word": "房贷还款先息后本火了",
+        "onboard_time": 1717889894,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 365337,
+        "num": 202973,
+        "word": "妈妈让我支付她生我的费用",
+        "onboard_time": 1717896797,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199377,
+        "num": 199377,
+        "word": "小老虎发聊天记录",
+        "onboard_time": 1717889414,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274648,
+        "num": 195454,
+        "word": "徐海乔五个男人一个都没争取到",
+        "onboard_time": 1717895177,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185372,
+        "num": 185372,
+        "word": "袁娅维 导演组你什么意思",
+        "onboard_time": 1717888273,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164815,
+        "num": 164815,
+        "word": "基德离间计",
+        "onboard_time": 1717896136,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158554,
+        "num": 158554,
+        "word": "cube",
+        "onboard_time": 1717890376,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154051,
+        "num": 154051,
+        "word": "张同学全网都知道你可以谈恋爱了",
+        "onboard_time": 1717845437,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115432,
+        "num": 147386,
+        "word": "你以为的高考完vs实际上的高考完",
+        "onboard_time": 1717888094,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145792,
+        "num": 145792,
+        "word": "林更新 玫瑰的故事",
+        "onboard_time": 1717890676,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142488,
+        "num": 142488,
+        "word": "坚持锻炼100天身体会有什么变化",
+        "onboard_time": 1717892416,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142376,
+        "num": 142376,
+        "word": "五哈收官邓超不睡了",
+        "onboard_time": 1717893136,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141666,
+        "num": 141666,
+        "word": "艺考老师为王星越发声",
+        "onboard_time": 1717860618,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140345,
+        "num": 140345,
+        "word": "夜尿次数增多是肾脏病早期信号",
+        "onboard_time": 1717888094,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139860,
+        "num": 139860,
+        "word": "mouse回应小老虎不打了",
+        "onboard_time": 1717888514,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135203,
+        "num": 135203,
+        "word": "陈瑶好美",
+        "onboard_time": 1717890794,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120713,
+        "num": 120713,
+        "word": "emoji为什么大多都是黄色",
+        "onboard_time": 1717892656,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120457,
+        "num": 120457,
+        "word": "28岁真的是一个很好的年纪",
+        "onboard_time": 1717888094,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119029,
+        "num": 119029,
+        "word": "早睡一周头发变多了",
+        "onboard_time": 1717889114,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116768,
+        "num": 116768,
+        "word": "猫咪误被当蚊子被女主人拍飞",
+        "onboard_time": 1717890376,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112756,
+        "num": 112756,
+        "word": "高考英语",
+        "onboard_time": 1717836078,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109922,
+        "num": 109922,
+        "word": "吴谨言演技",
+        "onboard_time": 1717890616,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106376,
+        "num": 106376,
+        "word": "胡锡进呼吁别把自己变成彻底的算法人",
+        "onboard_time": 1717894216,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101567,
+        "num": 101567,
+        "word": "Milkyway力挺小老虎",
+        "onboard_time": 1717891397,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100583,
+        "num": 100583,
+        "word": "结婚后挺不喜欢过节的",
+        "onboard_time": 1717897517,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98279,
+        "num": 98279,
+        "word": "李现扫街",
+        "onboard_time": 1717890736,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97798,
+        "num": 97798,
+        "word": "高考考场外87岁奶奶说我来看热闹",
+        "onboard_time": 1717895477,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91384,
+        "num": 91384,
+        "word": "金价创2021年8月以来最大跌幅",
+        "onboard_time": 1717858459,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80875,
+        "num": 91384,
+        "word": "这种最舒服的睡姿会把身体睡垮",
+        "onboard_time": 1717853599,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平心系历史文化遗产保护传承#"
+    }
+  }
+}
