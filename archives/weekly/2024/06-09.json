@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717960577483,
+  "endTime": 1717961640391,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -2163,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136372,
+      "num": 136372,
+      "word": "董宇辉称非常反感被叫网红",
+      "onboard_time": 1717959731,
+      "rank": 13,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 135875,
       "num": 135875,
       "word": "这些地区高考将进入第4天",
@@ -2859,6 +2867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73065,
+      "num": 32234,
+      "word": "殷罡逝世",
+      "onboard_time": 1717960452,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72553,
       "num": 80652,
       "word": "哈哈哈哈哈",
@@ -3017,14 +3033,6 @@
       "onboard_time": 1717907717,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51733,
-      "num": 51733,
-      "word": "董宇辉称非常反感被叫网红",
-      "onboard_time": 1717959731,
-      "rank": 13,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 51523,
@@ -3256,14 +3264,6 @@
       "word": "龙年端午看划龙舟名场面",
       "onboard_time": 1717921818,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33001,
-      "num": 32234,
-      "word": "殷罡逝世",
-      "onboard_time": 1717960452,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
