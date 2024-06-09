@@ -1,0 +1,410 @@
+{
+  "runTime": 1717903281810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 934889,
+        "num": 934889,
+        "word": "刘亦菲36岁演22岁女大学生",
+        "onboard_time": 1717888634,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 680559,
+        "num": 680559,
+        "word": "以色列救出四名人质造成至少210人死亡",
+        "onboard_time": 1717897157,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 56310,
+        "num": 622838,
+        "word": "文化中国行端午话非遗",
+        "onboard_time": 1717902451,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582174,
+        "num": 582174,
+        "word": "高考化学",
+        "onboard_time": 1717898296,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 526851,
+        "num": 526851,
+        "word": "可以去看福宝了",
+        "onboard_time": 1717898416,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600496,
+        "num": 525064,
+        "word": "刘亦菲 扛剧",
+        "onboard_time": 1717894576,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522926,
+        "num": 522926,
+        "word": "头一次见正主亲自偷母带的",
+        "onboard_time": 1717899917,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454679,
+        "num": 454679,
+        "word": "帅气高考生出考场喊话王鹤棣",
+        "onboard_time": 1717899196,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 443302,
+        "num": 443302,
+        "word": "想看福宝这些时间来",
+        "onboard_time": 1717899437,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35706,
+        "num": 438158,
+        "word": "警方提醒高考生和家长警惕骗子",
+        "onboard_time": 1717902017,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 724676,
+        "num": 437678,
+        "word": "徐海乔经纪人",
+        "onboard_time": 1717894517,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435932,
+        "num": 435932,
+        "word": "日本网红神药真的别瞎吃了",
+        "onboard_time": 1717899496,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 397789,
+        "num": 397789,
+        "word": "中以混血女孩被以色列救出",
+        "onboard_time": 1717888153,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386362,
+        "num": 386362,
+        "word": "周柯宇脱衣服帮迪丽热巴挡腿",
+        "onboard_time": 1717901596,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376117,
+        "num": 376117,
+        "word": "房贷还款先息后本火了",
+        "onboard_time": 1717889894,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 302855,
+        "num": 302855,
+        "word": "福宝",
+        "onboard_time": 1717901656,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295259,
+        "num": 295259,
+        "word": "minji把aespa的宣传单贴在了hybe大楼",
+        "onboard_time": 1717898477,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291759,
+        "num": 291759,
+        "word": "哈马斯称确认美国参与袭击加沙难民营",
+        "onboard_time": 1717893257,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 264341,
+        "num": 264341,
+        "word": "为什么酒店要把被子塞在床垫下",
+        "onboard_time": 1717894818,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 258175,
+        "num": 258175,
+        "word": "起猛了亚当参加新说唱了",
+        "onboard_time": 1717888273,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635845,
+        "num": 250130,
+        "word": "妈妈存了十年的黄金生锈了",
+        "onboard_time": 1717898536,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 513028,
+        "num": 245167,
+        "word": "因为端午节见家长分手了",
+        "onboard_time": 1717902737,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333731,
+        "num": 238639,
+        "word": "妈妈让我支付她生我的费用",
+        "onboard_time": 1717896797,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226720,
+        "num": 226720,
+        "word": "徐海乔五个男人一个都没争取到",
+        "onboard_time": 1717895177,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211371,
+        "num": 211371,
+        "word": "店家回应曾承诺5年后回收钻戒女子退货被拒",
+        "onboard_time": 1717900217,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177761,
+        "num": 177761,
+        "word": "刘亦菲个人微指破3.7亿",
+        "onboard_time": 1717899496,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171748,
+        "num": 171748,
+        "word": "胡歌说仙剑奇侠传是冷门电视剧",
+        "onboard_time": 1717890975,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171656,
+        "num": 171656,
+        "word": "FPX小老虎不打了",
+        "onboard_time": 1717858459,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168538,
+        "num": 168538,
+        "word": "结婚后挺不喜欢过节的",
+        "onboard_time": 1717897517,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159796,
+        "num": 159796,
+        "word": "湖北黄梅县龙舟赛翻船致一人死亡",
+        "onboard_time": 1717902797,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156740,
+        "num": 156740,
+        "word": "霉霉的小品没有瓶颈期吗",
+        "onboard_time": 1717900696,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155622,
+        "num": 155622,
+        "word": "萧蘅薛芳菲亲上了",
+        "onboard_time": 1717890254,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151502,
+        "num": 151502,
+        "word": "山东物理 难",
+        "onboard_time": 1717899016,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145682,
+        "num": 145682,
+        "word": "高考完3个月是一生最爽的时候",
+        "onboard_time": 1717895118,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141832,
+        "num": 141832,
+        "word": "假如大熊猫建了个群",
+        "onboard_time": 1717901297,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130145,
+        "num": 130145,
+        "word": "考生冲出考场太激动拥抱家人遭重摔",
+        "onboard_time": 1717888393,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 129137,
+        "num": 129137,
+        "word": "moyan 小老虎",
+        "onboard_time": 1717899257,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127746,
+        "num": 127746,
+        "word": "林更新 玫瑰的故事",
+        "onboard_time": 1717890676,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115338,
+        "num": 115338,
+        "word": "会喂药的是小七会跑掉的是朱朝阳",
+        "onboard_time": 1717902196,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113232,
+        "num": 113232,
+        "word": "阿Sa喊黄子涛镜头切到徐艺洋",
+        "onboard_time": 1717901417,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112382,
+        "num": 112382,
+        "word": "mouse回应小老虎不打了",
+        "onboard_time": 1717888514,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111039,
+        "num": 111039,
+        "word": "4天高考学霸1天考完",
+        "onboard_time": 1717902857,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110971,
+        "num": 110971,
+        "word": "吴谨言演技",
+        "onboard_time": 1717890616,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103463,
+        "num": 103463,
+        "word": "高考英语",
+        "onboard_time": 1717836078,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98724,
+        "num": 98724,
+        "word": "甜粽和咸粽哪个是你的心头好",
+        "onboard_time": 1717901297,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97330,
+        "num": 97330,
+        "word": "李华可能是47岁的频繁转校生",
+        "onboard_time": 1717892175,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94446,
+        "num": 94446,
+        "word": "你好星期六下期有陈昊宇陈丽君",
+        "onboard_time": 1717893677,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91451,
+        "num": 91451,
+        "word": "袁娅维 导演组你什么意思",
+        "onboard_time": 1717888273,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88587,
+        "num": 88587,
+        "word": "考场外的黄帽子叔叔",
+        "onboard_time": 1717902377,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87674,
+        "num": 87674,
+        "word": "辽宁化学已老实",
+        "onboard_time": 1717903157,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
