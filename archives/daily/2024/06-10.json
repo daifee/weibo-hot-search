@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717954450088,
+  "endTime": 1717957426260,
   "band_list": [
     {
       "raw_hot": 1027798,
@@ -427,8 +427,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 51188,
-      "num": 51188,
+      "raw_hot": 61759,
+      "num": 99772,
+      "word": "原伟东称曾遭牙签扎指甲逼供",
+      "onboard_time": 1717954333,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 57097,
+      "num": 57097,
       "word": "c1ubab詹詹",
       "onboard_time": 1717953555,
       "rank": 38,
@@ -451,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46032,
+      "num": 135991,
+      "word": "廊坊灭门案再开庭",
+      "onboard_time": 1717952475,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 45660,
       "num": 246576,
       "word": "粽子界的商战在成都开始了",
@@ -467,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39947,
+      "num": 39947,
+      "word": "胡夏把清华电视踢翻了",
+      "onboard_time": 1717954754,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 39895,
       "num": 47487,
       "word": "请问你俩不亲是谁的问题",
@@ -475,12 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 30054,
-      "num": 135991,
-      "word": "廊坊灭门案再开庭",
-      "onboard_time": 1717952475,
-      "rank": 9,
-      "category": "社会负面"
+      "raw_hot": 33436,
+      "num": 33436,
+      "word": "00后的毕业照好有宿命感",
+      "onboard_time": 1717955713,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30873,
+      "num": 33092,
+      "word": "家涛",
+      "onboard_time": 1717955532,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 26638,
@@ -491,12 +523,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 17318,
-      "num": 99772,
-      "word": "原伟东称曾遭牙签扎指甲逼供",
-      "onboard_time": 1717954333,
-      "rank": 24,
-      "category": "社会负面"
+      "raw_hot": 7308,
+      "num": 103247,
+      "word": "外卖员被困激流消防公主抱式救出",
+      "onboard_time": 1717956191,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
