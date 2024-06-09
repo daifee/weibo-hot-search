@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717921308448,
+  "endTime": 1717922073396,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1806313,
-      "num": 1806313,
+      "raw_hot": 1916812,
+      "num": 1916812,
       "word": "女子误将墓园认景区花1万拍婚纱",
       "onboard_time": 1717918217,
       "rank": 30,
@@ -227,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 571586,
+      "num": 571586,
+      "word": "玫瑰的故事以爱为营同一造型团队",
+      "onboard_time": 1717915758,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 563082,
+      "num": 563082,
+      "word": "主播多次违规直播福宝被终身禁入",
+      "onboard_time": 1717920377,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559258,
       "num": 344255,
       "word": "女朋友的世界观震惊到我了",
@@ -241,14 +257,6 @@
       "onboard_time": 1717899196,
       "rank": 8,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 555867,
-      "num": 555867,
-      "word": "玫瑰的故事以爱为营同一造型团队",
-      "onboard_time": 1717915758,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 541859,
@@ -475,6 +483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 365294,
+      "num": 365294,
+      "word": "巩俐非常喜欢尊敬刘亦菲",
+      "onboard_time": 1717921518,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360734,
       "num": 360734,
       "word": "种地吧 草莓爷爷",
@@ -507,8 +523,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 350992,
-      "num": 350992,
+      "raw_hot": 351269,
+      "num": 351269,
       "word": "沈月凭本事让孟子义工作室挨骂",
       "onboard_time": 1717918037,
       "rank": 35,
@@ -571,8 +587,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 323273,
-      "num": 323273,
+      "raw_hot": 324152,
+      "num": 324152,
       "word": "白月梵星",
       "onboard_time": 1717919358,
       "rank": 13,
@@ -619,12 +635,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 300407,
-      "num": 300407,
-      "word": "主播多次违规直播福宝被终身禁入",
-      "onboard_time": 1717920377,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 282159,
+      "num": 282159,
+      "word": "乌兰 女狂徒",
+      "onboard_time": 1717919656,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 280459,
@@ -739,14 +755,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 228269,
-      "num": 228269,
-      "word": "乌兰 女狂徒",
-      "onboard_time": 1717919656,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 226227,
       "num": 226227,
       "word": "刘亦菲个人微指破3.7亿",
@@ -793,6 +801,22 @@
       "onboard_time": 1717912398,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 215860,
+      "num": 208399,
+      "word": "部分日本女性为见男公关卖淫还债",
+      "onboard_time": 1717921818,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214564,
+      "num": 208391,
+      "word": "抠抠嗖嗖的花了很多钱",
+      "onboard_time": 1717918697,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 212873,
@@ -897,14 +921,6 @@
       "onboard_time": 1717901297,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 194859,
-      "num": 194859,
-      "word": "抠抠嗖嗖的花了很多钱",
-      "onboard_time": 1717918697,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 192337,
@@ -1243,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146080,
+      "num": 146080,
+      "word": "间谍过家家第三季制作决定",
+      "onboard_time": 1717921279,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 144504,
       "num": 163219,
       "word": "高考准考证别发朋友圈",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1717914918,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125250,
+      "num": 125250,
+      "word": "你是耙耙柑型人格吗",
+      "onboard_time": 1717919537,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 124729,
@@ -1593,14 +1625,6 @@
       "onboard_time": 1717899617,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93831,
-      "num": 106120,
-      "word": "间谍过家家第三季制作决定",
-      "onboard_time": 1717921279,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 92794,
@@ -1907,6 +1931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47517,
+      "num": 159916,
+      "word": "民辅警接力送行动不便考生入考场",
+      "onboard_time": 1717922058,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46743,
       "num": 46743,
       "word": "葡萄牙1比2克罗地亚",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1717888153,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 33504,
+      "num": 733213,
+      "word": "龙年端午看划龙舟名场面",
+      "onboard_time": 1717921818,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32240,
