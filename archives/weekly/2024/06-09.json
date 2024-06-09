@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717975125599,
+  "endTime": 1717976084280,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 660472,
-      "num": 223520,
+      "num": 232326,
       "word": "经常吃水煮蛋是养肝还是伤肝",
       "onboard_time": 1717944799,
       "rank": 20,
@@ -507,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 515583,
+      "num": 515583,
+      "word": "董宇辉称非常反感被叫网红",
+      "onboard_time": 1717959731,
+      "rank": 13,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 504657,
       "num": 504657,
       "word": "姐姐出cos接妹妹高考",
@@ -635,14 +643,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 455228,
-      "num": 455228,
-      "word": "董宇辉称非常反感被叫网红",
-      "onboard_time": 1717959731,
-      "rank": 13,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 451372,
       "num": 451372,
       "word": "张同学全网都知道你可以谈恋爱了",
@@ -723,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 426158,
+      "num": 426158,
+      "word": "端午节",
+      "onboard_time": 1717974613,
+      "rank": 1,
+      "category": "情感"
+    },
+    {
       "raw_hot": 426119,
       "num": 426119,
       "word": "刘亦菲没待播剧了",
@@ -769,6 +777,14 @@
       "onboard_time": 1717906578,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 391912,
+      "num": 141481,
+      "word": "刘亦菲彭冠英2集亲了15次",
+      "onboard_time": 1717975933,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 391276,
@@ -1155,20 +1171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268640,
-      "num": 268640,
-      "word": "端午节",
-      "onboard_time": 1717974613,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "离开易建联谁还把邓超当小孩",
       "onboard_time": 1717907417,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267274,
+      "num": 112561,
+      "word": "曾744分考上清华的他如今怎样了",
+      "onboard_time": 1717975093,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266510,
@@ -1483,6 +1499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199270,
+      "num": 112058,
+      "word": "喝酒后发现怀孕是否影响胎儿",
+      "onboard_time": 1717975874,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199110,
       "num": 199110,
       "word": "广东地理 考化学",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1717901297,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195307,
+      "num": 145396,
+      "word": "殷罡逝世",
+      "onboard_time": 1717960452,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195208,
@@ -1585,14 +1617,6 @@
       "onboard_time": 1717936639,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188551,
-      "num": 124157,
-      "word": "殷罡逝世",
-      "onboard_time": 1717960452,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188093,
@@ -1809,6 +1833,14 @@
       "onboard_time": 1717927637,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166442,
+      "num": 166442,
+      "word": "天官赐福",
+      "onboard_time": 1717975093,
+      "rank": 16,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 165834,
@@ -2347,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124627,
+      "num": 124627,
+      "word": "2024端午来啦",
+      "onboard_time": 1717945999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124232,
       "num": 137787,
       "word": "减肥见效最快的运动就是跳绳",
@@ -2427,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120614,
+      "num": 120614,
+      "word": "小老虎和经理和解了",
+      "onboard_time": 1717974854,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118127,
       "num": 118127,
       "word": "广东政治 写不完",
@@ -2441,6 +2489,14 @@
       "onboard_time": 1717905678,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116839,
+      "num": 116839,
+      "word": "端午文案",
+      "onboard_time": 1717974673,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 116616,
@@ -2515,14 +2571,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 110945,
-      "num": 110945,
-      "word": "端午文案",
-      "onboard_time": 1717974673,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -2544,14 +2592,6 @@
       "word": "主人比死神先找到了我",
       "onboard_time": 1717900398,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108759,
-      "num": 71181,
-      "word": "曾744分考上清华的他如今怎样了",
-      "onboard_time": 1717975093,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -2667,6 +2707,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 95961,
+      "num": 99772,
+      "word": "原伟东称曾遭牙签扎指甲逼供",
+      "onboard_time": 1717954333,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 95389,
       "num": 95389,
       "word": "高考落幕是结束也是开始",
@@ -2731,14 +2779,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 89732,
-      "num": 89732,
-      "word": "天官赐福",
-      "onboard_time": 1717975093,
-      "rank": 16,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 89152,
       "num": 89152,
       "word": "在健身房你就记住四个字",
@@ -2787,12 +2827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87264,
+      "num": 87264,
+      "word": "黄景瑜穿了不如不穿",
+      "onboard_time": 1717975994,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86454,
       "num": 86454,
       "word": "大多数人缺的不是恋爱对象",
       "onboard_time": 1717901116,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86453,
+      "num": 86453,
+      "word": "王星越墨雨云间彻底上桌了",
+      "onboard_time": 1717975694,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 85320,
@@ -2825,14 +2881,6 @@
       "onboard_time": 1717943179,
       "rank": 9,
       "category": "体育,教育"
-    },
-    {
-      "raw_hot": 82270,
-      "num": 64164,
-      "word": "小老虎和经理和解了",
-      "onboard_time": 1717974854,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 81270,
@@ -2907,14 +2955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73937,
-      "num": 124376,
-      "word": "2024端午来啦",
-      "onboard_time": 1717945999,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73693,
       "num": 100118,
       "word": "熊猫背后的拉链要开了",
@@ -2931,20 +2971,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71117,
+      "num": 71117,
+      "word": "孟庭苇叫赵丽颖颖宝",
+      "onboard_time": 1717971191,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70347,
       "num": 80651,
       "word": "用线勒死皮肤上的小肉粒不可取",
       "onboard_time": 1717866375,
       "rank": 36,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 69466,
-      "num": 99772,
-      "word": "原伟东称曾遭牙签扎指甲逼供",
-      "onboard_time": 1717954333,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 68930,
@@ -2961,14 +3001,6 @@
       "onboard_time": 1717867814,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66407,
-      "num": 66407,
-      "word": "孟庭苇叫赵丽颖颖宝",
-      "onboard_time": 1717971191,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 63727,
@@ -3011,12 +3043,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59714,
+      "num": 59714,
+      "word": "TFBOYS十一周年一定要办",
+      "onboard_time": 1717975874,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59576,
       "num": 377900,
       "word": "能忍住不拆快递的都是狠人",
       "onboard_time": 1717920197,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58410,
+      "num": 163459,
+      "word": "走出考场再回头看一眼我们的青春",
+      "onboard_time": 1717975574,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 58288,
@@ -3083,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54368,
+      "num": 54368,
+      "word": "2024f1加拿大大奖赛",
+      "onboard_time": 1717974854,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54046,
       "num": 185463,
       "word": "2娃宝妈22年从中专读完博士",
@@ -3097,14 +3153,6 @@
       "onboard_time": 1717946898,
       "rank": 9,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 51293,
-      "num": 51293,
-      "word": "2024f1加拿大大奖赛",
-      "onboard_time": 1717974854,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 50695,
@@ -3153,6 +3201,14 @@
       "onboard_time": 1717937177,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47722,
+      "num": 47722,
+      "word": "高考最后一天",
+      "onboard_time": 1717975814,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 47517,
@@ -3233,6 +3289,14 @@
       "onboard_time": 1717864696,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44085,
+      "num": 44085,
+      "word": "FPX更换首发上单",
+      "onboard_time": 1717975574,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 42977,

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717975125599,
+  "endTime": 1717976084280,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3388,7 +3388,7 @@
     },
     {
       "raw_hot": 660472,
-      "num": 223520,
+      "num": 232326,
       "word": "经常吃水煮蛋是养肝还是伤肝",
       "onboard_time": 1717944799,
       "rank": 20,
@@ -4851,6 +4851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 515583,
+      "num": 515583,
+      "word": "董宇辉称非常反感被叫网红",
+      "onboard_time": 1717959731,
+      "rank": 13,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 515244,
       "num": 515244,
       "word": "陈丽君 投票",
@@ -5683,14 +5691,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 455228,
-      "num": 455228,
-      "word": "董宇辉称非常反感被叫网红",
-      "onboard_time": 1717959731,
-      "rank": 13,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 455055,
       "num": 221765,
       "word": "朱一龙连续十年给杨蓉庆生",
@@ -6169,6 +6169,14 @@
       "onboard_time": 1717317618,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426158,
+      "num": 426158,
+      "word": "端午节",
+      "onboard_time": 1717974613,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 426119,
@@ -6761,6 +6769,14 @@
       "onboard_time": 1717906578,
       "rank": 30,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 391912,
+      "num": 141481,
+      "word": "刘亦菲彭冠英2集亲了15次",
+      "onboard_time": 1717975933,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 391815,
@@ -9699,14 +9715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 268640,
-      "num": 268640,
-      "word": "端午节",
-      "onboard_time": 1717974613,
-      "rank": 1,
-      "category": "情感"
-    },
-    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "离开易建联谁还把邓超当小孩",
@@ -9753,6 +9761,14 @@
       "onboard_time": 1717806076,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267274,
+      "num": 112561,
+      "word": "曾744分考上清华的他如今怎样了",
+      "onboard_time": 1717975093,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267239,
@@ -13019,6 +13035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199270,
+      "num": 112058,
+      "word": "喝酒后发现怀孕是否影响胎儿",
+      "onboard_time": 1717975874,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 199110,
       "num": 199110,
       "word": "广东地理 考化学",
@@ -13481,6 +13505,14 @@
       "onboard_time": 1717471158,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195307,
+      "num": 145396,
+      "word": "殷罡逝世",
+      "onboard_time": 1717960452,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195231,
@@ -14017,14 +14049,6 @@
       "onboard_time": 1717308258,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188551,
-      "num": 124157,
-      "word": "殷罡逝世",
-      "onboard_time": 1717960452,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188520,
@@ -15833,6 +15857,14 @@
       "onboard_time": 1717853779,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166442,
+      "num": 166442,
+      "word": "天官赐福",
+      "onboard_time": 1717975093,
+      "rank": 16,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 166415,
@@ -20203,6 +20235,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 124627,
+      "num": 124627,
+      "word": "2024端午来啦",
+      "onboard_time": 1717945999,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124615,
       "num": 124615,
       "word": "猫咪和主人撞脸",
@@ -20611,6 +20651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120614,
+      "num": 120614,
+      "word": "小老虎和经理和解了",
+      "onboard_time": 1717974854,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120594,
       "num": 402202,
       "word": "当中国军人说起战火中的儿童",
@@ -20969,6 +21017,14 @@
       "onboard_time": 1717577957,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116839,
+      "num": 116839,
+      "word": "端午文案",
+      "onboard_time": 1717974673,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 116689,
@@ -21643,14 +21699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110945,
-      "num": 110945,
-      "word": "端午文案",
-      "onboard_time": 1717974673,
-      "rank": 15,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110878,
       "num": 110878,
       "word": "张小斐仿妆",
@@ -21801,14 +21849,6 @@
       "onboard_time": 1717477219,
       "rank": 9,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 108759,
-      "num": 71181,
-      "word": "曾744分考上清华的他如今怎样了",
-      "onboard_time": 1717975093,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108753,
@@ -22795,6 +22835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95961,
+      "num": 99772,
+      "word": "原伟东称曾遭牙签扎指甲逼供",
+      "onboard_time": 1717954333,
+      "rank": 24,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 95929,
       "num": 110813,
       "word": "WE对战RNG",
@@ -23043,14 +23091,6 @@
       "category": "社会新闻,社会议题"
     },
     {
-      "raw_hot": 89732,
-      "num": 89732,
-      "word": "天官赐福",
-      "onboard_time": 1717975093,
-      "rank": 16,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 89591,
       "num": 89591,
       "word": "异地夫妻好像越来越多了",
@@ -23163,6 +23203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 87264,
+      "num": 87264,
+      "word": "黄景瑜穿了不如不穿",
+      "onboard_time": 1717975994,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87063,
       "num": 334597,
       "word": "萌兰在树上蛄蛹成毛毛虫",
@@ -23185,6 +23233,14 @@
       "onboard_time": 1717901116,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86453,
+      "num": 86453,
+      "word": "王星越墨雨云间彻底上桌了",
+      "onboard_time": 1717975694,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 86224,
@@ -23345,14 +23401,6 @@
       "onboard_time": 1717501037,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 82270,
-      "num": 64164,
-      "word": "小老虎和经理和解了",
-      "onboard_time": 1717974854,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 82186,
@@ -23835,14 +23883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73937,
-      "num": 124376,
-      "word": "2024端午来啦",
-      "onboard_time": 1717945999,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73885,
       "num": 349623,
       "word": "福宝吃现砍竹笋嘎嘎香",
@@ -23971,6 +24011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71117,
+      "num": 71117,
+      "word": "孟庭苇叫赵丽颖颖宝",
+      "onboard_time": 1717971191,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71054,
       "num": 71054,
       "word": "这才是一次性手套该有的样子",
@@ -24041,14 +24089,6 @@
       "onboard_time": 1717848977,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69466,
-      "num": 99772,
-      "word": "原伟东称曾遭牙签扎指甲逼供",
-      "onboard_time": 1717954333,
-      "rank": 24,
-      "category": "社会负面"
     },
     {
       "raw_hot": 69363,
@@ -24177,14 +24217,6 @@
       "onboard_time": 1717867814,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66407,
-      "num": 66407,
-      "word": "孟庭苇叫赵丽颖颖宝",
-      "onboard_time": 1717971191,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 66232,
@@ -24571,6 +24603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59714,
+      "num": 59714,
+      "word": "TFBOYS十一周年一定要办",
+      "onboard_time": 1717975874,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59667,
       "num": 1507633,
       "word": "一人一句祝福高考生",
@@ -24649,6 +24689,14 @@
       "onboard_time": 1717821078,
       "rank": 15,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 58410,
+      "num": 163459,
+      "word": "走出考场再回头看一眼我们的青春",
+      "onboard_time": 1717975574,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 58288,
@@ -24857,6 +24905,14 @@
       "onboard_time": 1717613472,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 54368,
+      "num": 54368,
+      "word": "2024f1加拿大大奖赛",
+      "onboard_time": 1717974854,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 54363,
@@ -25099,14 +25155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51293,
-      "num": 51293,
-      "word": "2024f1加拿大大奖赛",
-      "onboard_time": 1717974854,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50870,
       "num": 323725,
       "word": "他们40多年挖了近1亿个坑种树",
@@ -25267,6 +25315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47722,
+      "num": 47722,
+      "word": "高考最后一天",
+      "onboard_time": 1717975814,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 47581,
       "num": 449920,
       "word": "高考各拼各的",
@@ -25409,6 +25465,14 @@
       "onboard_time": 1717751362,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 44085,
+      "num": 44085,
+      "word": "FPX更换首发上单",
+      "onboard_time": 1717975574,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 43884,
