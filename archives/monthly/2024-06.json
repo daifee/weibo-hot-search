@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717937315102,
+  "endTime": 1717939196609,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1249,6 +1249,14 @@
       "onboard_time": 1717571837,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1163274,
+      "num": 1163274,
+      "word": "不接陌生电话但是要去微信搜",
+      "onboard_time": 1717937238,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 1156129,
@@ -3107,6 +3115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 678915,
+      "num": 211371,
+      "word": "高铁上拒绝了宝妈的换座要求",
+      "onboard_time": 1717937717,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 677852,
+      "num": 677852,
+      "word": "真的和纸片人结婚了",
+      "onboard_time": 1717932497,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 677710,
       "num": 677710,
       "word": "戚薇录乘风十天没理李承铉",
@@ -3332,7 +3356,7 @@
     },
     {
       "raw_hot": 657539,
-      "num": 439342,
+      "num": 443589,
       "word": "玫瑰的故事",
       "onboard_time": 1717578197,
       "rank": 25,
@@ -5227,6 +5251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478793,
+      "num": 221895,
+      "word": "相亲对象对我隐瞒了学历",
+      "onboard_time": 1717933877,
+      "rank": 20,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 478711,
       "num": 478711,
       "word": "健身一年花了两万多",
@@ -5241,14 +5273,6 @@
       "onboard_time": 1717727177,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 477746,
-      "num": 221895,
-      "word": "相亲对象对我隐瞒了学历",
-      "onboard_time": 1717933877,
-      "rank": 20,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 477629,
@@ -5323,14 +5347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472119,
-      "num": 472119,
-      "word": "真的和纸片人结婚了",
-      "onboard_time": 1717932497,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 471975,
       "num": 471975,
       "word": "小米回应停车场相关事故",
@@ -5385,6 +5401,14 @@
       "onboard_time": 1717448892,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 469494,
+      "num": 469494,
+      "word": "郑州一小区发生火灾造成4人遇难",
+      "onboard_time": 1717934777,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469271,
@@ -6272,14 +6296,6 @@
       "word": "民警收到00后送的锦旗差点没绷住",
       "onboard_time": 1717198873,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 415856,
-      "num": 415856,
-      "word": "郑州一小区发生火灾造成4人遇难",
-      "onboard_time": 1717934777,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -8275,6 +8291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311709,
+      "num": 299434,
+      "word": "刘亦菲这段台词好适合准大学生",
+      "onboard_time": 1717936997,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311587,
       "num": 311587,
       "word": "邓为翻牌",
@@ -8377,6 +8401,14 @@
       "onboard_time": 1717916296,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 307535,
+      "num": 307535,
+      "word": "于正审美",
+      "onboard_time": 1717934297,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307477,
@@ -9571,14 +9603,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 266357,
-      "num": 216522,
-      "word": "于正审美",
-      "onboard_time": 1717934297,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 266108,
       "num": 224091,
       "word": "25岁在出租屋躺了两年",
@@ -10041,6 +10065,14 @@
       "onboard_time": 1717643958,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251196,
+      "num": 208968,
+      "word": "刘亦菲5集换了32套造型",
+      "onboard_time": 1717938918,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 250890,
@@ -12171,6 +12203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205857,
+      "num": 205857,
+      "word": "GenG冠军",
+      "onboard_time": 1717938678,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205810,
       "num": 205810,
       "word": "登陆计划",
@@ -12427,6 +12467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202483,
+      "num": 202483,
+      "word": "走走停停",
+      "onboard_time": 1717938199,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202381,
       "num": 202381,
       "word": "王一博皮衣潮男",
@@ -12555,6 +12603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200785,
+      "num": 200785,
+      "word": "请问你俩不亲是谁的问题",
+      "onboard_time": 1717937958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200680,
       "num": 200680,
       "word": "凯尔特人1比0独行侠",
@@ -12601,6 +12657,14 @@
       "onboard_time": 1717593078,
       "rank": 32,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 200303,
+      "num": 200303,
+      "word": "九尾双开门队服",
+      "onboard_time": 1717938439,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 200269,
@@ -12897,6 +12961,14 @@
       "onboard_time": 1717679419,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197973,
+      "num": 197973,
+      "word": "金价大跌消费者还想再等等",
+      "onboard_time": 1717937838,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 197876,
@@ -13355,6 +13427,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 193035,
+      "num": 193035,
+      "word": "墨雨云间让大学生神金合理了",
+      "onboard_time": 1717938379,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192904,
       "num": 192904,
       "word": "王楚钦3比1林高远",
@@ -13473,6 +13553,14 @@
       "onboard_time": 1717337000,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 191870,
+      "num": 191870,
+      "word": "法网",
+      "onboard_time": 1717240638,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 191801,
@@ -13697,14 +13785,6 @@
       "onboard_time": 1717197373,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188713,
-      "num": 167133,
-      "word": "刘亦菲这段台词好适合准大学生",
-      "onboard_time": 1717936997,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 188675,
@@ -13985,14 +14065,6 @@
       "onboard_time": 1717909698,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185639,
-      "num": 166500,
-      "word": "不接陌生电话但是要去微信搜",
-      "onboard_time": 1717937238,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 185624,
@@ -15763,6 +15835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163760,
+      "num": 163760,
+      "word": "黄亦玫的衣柜",
+      "onboard_time": 1717935619,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163679,
       "num": 293812,
       "word": "儿童节的快乐是济公爷爷给的",
@@ -16337,14 +16417,6 @@
       "onboard_time": 1717223056,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157741,
-      "num": 157741,
-      "word": "黄亦玫的衣柜",
-      "onboard_time": 1717935619,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 157634,
@@ -18563,14 +18635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136897,
-      "num": 141761,
-      "word": "法网",
-      "onboard_time": 1717240638,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136840,
       "num": 134837,
       "word": "年轻人过节开始走出家门进行短逃离",
@@ -18985,6 +19049,14 @@
       "onboard_time": 1717482678,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132294,
+      "num": 132294,
+      "word": "猫表达爱的方式",
+      "onboard_time": 1717937657,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 132278,
@@ -20456,6 +20528,14 @@
       "word": "广东政治 写不完",
       "onboard_time": 1717930577,
       "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 117872,
+      "num": 909004,
+      "word": "铃声响起少年们告别了难忘的三年",
+      "onboard_time": 1717937657,
+      "rank": 2,
       "category": "教育"
     },
     {
@@ -21945,6 +22025,14 @@
       "onboard_time": 1717689979,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102155,
+      "num": 102155,
+      "word": "我知道你是一只小狸猫",
+      "onboard_time": 1717938678,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 102147,
@@ -24659,6 +24747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47865,
+      "num": 202668,
+      "word": "乘警10秒救起掉站台缝隙女孩",
+      "onboard_time": 1717937177,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47581,
       "num": 449920,
       "word": "高考各拼各的",
@@ -25627,14 +25723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26952,
-      "num": 171527,
-      "word": "乘警10秒救起掉站台缝隙女孩",
-      "onboard_time": 1717937177,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26948,
       "num": 26948,
       "word": "我发现自己对恋爱祛魅了",
@@ -25729,6 +25817,14 @@
       "onboard_time": 1717164024,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24875,
+      "num": 212582,
+      "word": "端午一家3口回家妈妈开心得像孩子",
+      "onboard_time": 1717939038,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24805,

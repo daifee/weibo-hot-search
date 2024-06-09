@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717937315102,
+  "endTime": 1717939196609,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -57,6 +57,14 @@
       "onboard_time": 1717920377,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1163274,
+      "num": 1163274,
+      "word": "不接陌生电话但是要去微信搜",
+      "onboard_time": 1717937238,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 1147693,
@@ -241,6 +249,22 @@
       "onboard_time": 1717893257,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 678915,
+      "num": 211371,
+      "word": "高铁上拒绝了宝妈的换座要求",
+      "onboard_time": 1717937717,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 677852,
+      "num": 677852,
+      "word": "真的和纸片人结婚了",
+      "onboard_time": 1717932497,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 672737,
@@ -467,7 +491,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 477746,
+      "raw_hot": 478793,
       "num": 221895,
       "word": "相亲对象对我隐瞒了学历",
       "onboard_time": 1717933877,
@@ -491,20 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 472119,
-      "num": 472119,
-      "word": "真的和纸片人结婚了",
-      "onboard_time": 1717932497,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 470091,
       "num": 470091,
       "word": "原来高考还没结束",
       "onboard_time": 1717910778,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 469494,
+      "num": 469494,
+      "word": "郑州一小区发生火灾造成4人遇难",
+      "onboard_time": 1717934777,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 468733,
@@ -555,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 443589,
+      "num": 443589,
+      "word": "玫瑰的故事",
+      "onboard_time": 1717846697,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443460,
       "num": 443460,
       "word": "董宇辉称到今天都不享受直播工作",
@@ -569,14 +601,6 @@
       "onboard_time": 1717899437,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 439342,
-      "num": 439342,
-      "word": "玫瑰的故事",
-      "onboard_time": 1717846697,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 438479,
@@ -617,14 +641,6 @@
       "onboard_time": 1717929377,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 415856,
-      "num": 415856,
-      "word": "郑州一小区发生火灾造成4人遇难",
-      "onboard_time": 1717934777,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403283,
@@ -827,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311709,
+      "num": 299434,
+      "word": "刘亦菲这段台词好适合准大学生",
+      "onboard_time": 1717936997,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308028,
       "num": 308028,
       "word": "鹿晗8G冲浪",
@@ -841,6 +865,14 @@
       "onboard_time": 1717916296,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 307535,
+      "num": 307535,
+      "word": "于正审美",
+      "onboard_time": 1717934297,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 307059,
@@ -939,14 +971,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 266357,
-      "num": 216522,
-      "word": "于正审美",
-      "onboard_time": 1717934297,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 265785,
       "num": 265785,
       "word": "肖战早就提前预告了",
@@ -985,6 +1009,14 @@
       "onboard_time": 1717888273,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 251196,
+      "num": 208968,
+      "word": "刘亦菲5集换了32套造型",
+      "onboard_time": 1717938918,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 247003,
@@ -1171,6 +1203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205857,
+      "num": 205857,
+      "word": "GenG冠军",
+      "onboard_time": 1717938678,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205801,
       "num": 177506,
       "word": "TF三代纯白初生公式照",
@@ -1179,12 +1219,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202483,
+      "num": 202483,
+      "word": "走走停停",
+      "onboard_time": 1717938199,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201922,
       "num": 201922,
       "word": "TF三代登陆日",
       "onboard_time": 1717909997,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200785,
+      "num": 200785,
+      "word": "请问你俩不亲是谁的问题",
+      "onboard_time": 1717937958,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200303,
+      "num": 200303,
+      "word": "九尾双开门队服",
+      "onboard_time": 1717938439,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 199527,
@@ -1235,6 +1299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 197973,
+      "num": 197973,
+      "word": "金价大跌消费者还想再等等",
+      "onboard_time": 1717937838,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193805,
       "num": 168053,
       "word": "魏大勋活动直播",
@@ -1243,12 +1315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193035,
+      "num": 193035,
+      "word": "墨雨云间让大学生神金合理了",
+      "onboard_time": 1717938379,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192337,
       "num": 192337,
       "word": "玫瑰的故事好多美女",
       "onboard_time": 1717853058,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191870,
+      "num": 191870,
+      "word": "法网",
+      "onboard_time": 1717938138,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191773,
@@ -1283,14 +1371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188713,
-      "num": 167133,
-      "word": "刘亦菲这段台词好适合准大学生",
-      "onboard_time": 1717936997,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188093,
       "num": 188093,
       "word": "宋亚轩翻唱英文歌曲",
@@ -1321,14 +1401,6 @@
       "onboard_time": 1717909698,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185639,
-      "num": 166500,
-      "word": "不接陌生电话但是要去微信搜",
-      "onboard_time": 1717937238,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 185445,
@@ -1515,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163760,
+      "num": 163760,
+      "word": "黄亦玫的衣柜",
+      "onboard_time": 1717935619,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163358,
       "num": 163358,
       "word": "可口可乐的新品为什么卖不动",
@@ -1585,14 +1665,6 @@
       "onboard_time": 1717888514,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157741,
-      "num": 157741,
-      "word": "黄亦玫的衣柜",
-      "onboard_time": 1717935619,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 156740,
@@ -1859,6 +1931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132294,
+      "num": 132294,
+      "word": "猫表达爱的方式",
+      "onboard_time": 1717937657,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131725,
       "num": 131725,
       "word": "emoji为什么大多都是黄色",
@@ -2003,6 +2083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117872,
+      "num": 909004,
+      "word": "铃声响起少年们告别了难忘的三年",
+      "onboard_time": 1717937657,
+      "rank": 2,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117831,
       "num": 117831,
       "word": "西班牙运动员提前庆祝错失铜牌",
@@ -2137,6 +2225,14 @@
       "onboard_time": 1717859719,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102155,
+      "num": 102155,
+      "word": "我知道你是一只小狸猫",
+      "onboard_time": 1717938678,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 101975,
@@ -2531,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47865,
+      "num": 202668,
+      "word": "乘警10秒救起掉站台缝隙女孩",
+      "onboard_time": 1717937177,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47517,
       "num": 159916,
       "word": "民辅警接力送行动不便考生入考场",
@@ -2675,20 +2779,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26952,
-      "num": 171527,
-      "word": "乘警10秒救起掉站台缝隙女孩",
-      "onboard_time": 1717937177,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25957,
       "num": 122152,
       "word": "一人一句祝福2024毕业生",
       "onboard_time": 1717861638,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 24875,
+      "num": 212582,
+      "word": "端午一家3口回家妈妈开心得像孩子",
+      "onboard_time": 1717939038,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23030,
