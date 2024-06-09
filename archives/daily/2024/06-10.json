@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717953464905,
+  "endTime": 1717954450088,
   "band_list": [
     {
       "raw_hot": 1027798,
@@ -203,6 +203,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 144764,
+      "num": 144764,
+      "word": "法网",
+      "onboard_time": 1717938138,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139931,
       "num": 139931,
       "word": "朴灿烈唱StayWithMe",
@@ -265,14 +273,6 @@
       "onboard_time": 1717934297,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 115484,
-      "num": 138809,
-      "word": "法网",
-      "onboard_time": 1717938138,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 112832,
@@ -387,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71123,
+      "num": 71123,
+      "word": "玫瑰的故事",
+      "onboard_time": 1717935439,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70828,
       "num": 100113,
       "word": "周深带全场毕业生说少管我",
@@ -419,12 +427,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 51188,
+      "num": 51188,
+      "word": "c1ubab詹詹",
+      "onboard_time": 1717953555,
+      "rank": 38,
+      "category": "网红,教育"
+    },
+    {
       "raw_hot": 49803,
       "num": 54356,
       "word": "苏炳添回应帅气高考生喊话",
       "onboard_time": 1717943179,
       "rank": 43,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 47488,
+      "num": 47488,
+      "word": "看不见影子的少年",
+      "onboard_time": 1717954092,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 45660,
@@ -443,6 +467,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39895,
+      "num": 47487,
+      "word": "请问你俩不亲是谁的问题",
+      "onboard_time": 1717937958,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30054,
+      "num": 135991,
+      "word": "廊坊灭门案再开庭",
+      "onboard_time": 1717952475,
+      "rank": 9,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 26638,
       "num": 263608,
       "word": "定格在郑州落日下的浪漫",
@@ -451,17 +491,20 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 23545,
-      "num": 135991,
-      "word": "廊坊灭门案再开庭",
-      "onboard_time": 1717952475,
-      "rank": 9,
+      "raw_hot": 17318,
+      "num": 99772,
+      "word": "原伟东称曾遭牙签扎指甲逼供",
+      "onboard_time": 1717954333,
+      "rank": 24,
       "category": "社会负面"
     }
   ],
   "hotgov_list": [
     {
       "word": "#要让更多文物和文化遗产活起来#"
+    },
+    {
+      "word": "#习近平总书记心系文化和自然遗产保护#"
     }
   ]
 }
