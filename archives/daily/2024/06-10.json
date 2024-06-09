@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717951024995,
+  "endTime": 1717953464905,
   "band_list": [
     {
       "raw_hot": 1027798,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456494,
+      "num": 270925,
+      "word": "陈雨浓孙程潇吵架",
+      "onboard_time": 1717949119,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426261,
       "num": 185353,
       "word": "经常吃水煮蛋是养肝还是伤肝",
@@ -65,14 +73,6 @@
       "onboard_time": 1717945218,
       "rank": 6,
       "category": "剧集,教育"
-    },
-    {
-      "raw_hot": 363361,
-      "num": 270925,
-      "word": "陈雨浓孙程潇吵架",
-      "onboard_time": 1717949119,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 349404,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128582,
+      "num": 117777,
+      "word": "紧急提醒这种粽子绳有毒",
+      "onboard_time": 1717950017,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124845,
       "num": 186195,
       "word": "高考再见",
@@ -259,12 +267,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117777,
-      "num": 117777,
-      "word": "紧急提醒这种粽子绳有毒",
-      "onboard_time": 1717950017,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 115484,
+      "num": 138809,
+      "word": "法网",
+      "onboard_time": 1717938138,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 112832,
@@ -281,14 +289,6 @@
       "onboard_time": 1717932017,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107526,
-      "num": 138809,
-      "word": "法网",
-      "onboard_time": 1717938138,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 106677,
@@ -347,12 +347,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 80718,
+      "num": 80718,
+      "word": "窝囊废赛道挤满了男明星",
+      "onboard_time": 1717951816,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78311,
       "num": 100118,
       "word": "相亲对象对我隐瞒了学历",
       "onboard_time": 1717933877,
       "rank": 42,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 74657,
+      "num": 74657,
+      "word": "宋丹丹问董璇谈恋爱了不",
+      "onboard_time": 1717951456,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 73937,
@@ -403,6 +419,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 49803,
+      "num": 54356,
+      "word": "苏炳添回应帅气高考生喊话",
+      "onboard_time": 1717943179,
+      "rank": 43,
+      "category": "体育,教育"
+    },
+    {
+      "raw_hot": 45660,
+      "num": 246576,
+      "word": "粽子界的商战在成都开始了",
+      "onboard_time": 1717950617,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 45388,
+      "num": 54312,
+      "word": "2024PEL",
+      "onboard_time": 1717953255,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 26638,
       "num": 263608,
       "word": "定格在郑州落日下的浪漫",
@@ -411,12 +451,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 24673,
-      "num": 246576,
-      "word": "粽子界的商战在成都开始了",
-      "onboard_time": 1717950617,
+      "raw_hot": 23545,
+      "num": 135991,
+      "word": "廊坊灭门案再开庭",
+      "onboard_time": 1717952475,
       "rank": 9,
-      "category": "美食"
+      "category": "社会负面"
     }
   ],
   "hotgov_list": [
