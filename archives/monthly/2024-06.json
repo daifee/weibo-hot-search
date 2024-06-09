@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717915094939,
+  "endTime": 1717917468633,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2219,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799959,
+      "num": 799959,
+      "word": "高考出题人 考完一门放一个",
+      "onboard_time": 1717912937,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 798906,
       "num": 798906,
       "word": "巴菲特",
@@ -2553,6 +2561,14 @@
       "onboard_time": 1717396397,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 746372,
+      "num": 746372,
+      "word": "公交车冰柜",
+      "onboard_time": 1717912097,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 745417,
@@ -3185,14 +3201,6 @@
       "onboard_time": 1717458617,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 661589,
-      "num": 661589,
-      "word": "公交车冰柜",
-      "onboard_time": 1717912097,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 661554,
@@ -4203,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546301,
+      "num": 215891,
+      "word": "200元一斤蓝莓跌到8元",
+      "onboard_time": 1717913357,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 545926,
       "num": 545926,
       "word": "逆水寒手游回应剑网3",
@@ -4913,14 +4929,6 @@
       "onboard_time": 1717425858,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 490110,
-      "num": 490110,
-      "word": "高考出题人 考完一门放一个",
-      "onboard_time": 1717912937,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 489850,
@@ -5825,6 +5833,14 @@
       "onboard_time": 1717225397,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 427963,
+      "num": 427963,
+      "word": "董宇辉称到今天都不享受直播工作",
+      "onboard_time": 1717911497,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 426917,
@@ -7716,7 +7732,7 @@
     },
     {
       "raw_hot": 323434,
-      "num": 316853,
+      "num": 318376,
       "word": "墨雨云间17",
       "onboard_time": 1717910838,
       "rank": 37,
@@ -7833,6 +7849,14 @@
       "onboard_time": 1717565298,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 318898,
+      "num": 318898,
+      "word": "考完一科丢一科 考完地理丢本科",
+      "onboard_time": 1717915577,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 318784,
@@ -8235,14 +8259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299614,
-      "num": 178098,
-      "word": "200元一斤蓝莓跌到8元",
-      "onboard_time": 1717913357,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 299382,
       "num": 299382,
       "word": "上海一号线",
@@ -8297,6 +8313,14 @@
       "onboard_time": 1717258458,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297645,
+      "num": 297645,
+      "word": "鹿晗8G冲浪",
+      "onboard_time": 1717915096,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 297265,
@@ -9683,6 +9707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 251184,
+      "num": 251184,
+      "word": "逆水寒公主切",
+      "onboard_time": 1717916296,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250890,
       "num": 227481,
       "word": "武艺十七岁还坐在爸爸肩上",
@@ -9873,6 +9905,14 @@
       "onboard_time": 1717632136,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 244567,
+      "num": 244567,
+      "word": "柠季向张艺兴致歉",
+      "onboard_time": 1717914437,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 243833,
@@ -10483,14 +10523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227652,
-      "num": 227652,
-      "word": "董宇辉称到今天都不享受直播工作",
-      "onboard_time": 1717911497,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 227523,
       "num": 227523,
       "word": "奔跑吧",
@@ -10841,6 +10873,14 @@
       "onboard_time": 1717543275,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220529,
+      "num": 209784,
+      "word": "丁真 你什么档次",
+      "onboard_time": 1717916537,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 220524,
@@ -12163,14 +12203,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 200630,
-      "num": 165647,
-      "word": "柠季向张艺兴致歉",
-      "onboard_time": 1717914437,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 200415,
       "num": 200415,
       "word": "孙颖莎11比1田志希",
@@ -12353,6 +12385,14 @@
       "onboard_time": 1717657398,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198948,
+      "num": 198948,
+      "word": "TF三代这次是真的要登陆了",
+      "onboard_time": 1717916359,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 198815,
@@ -12697,6 +12737,14 @@
       "onboard_time": 1717398319,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195843,
+      "num": 201635,
+      "word": "以军直升机直接向人群开火现场成地狱",
+      "onboard_time": 1717916597,
+      "rank": 25,
+      "category": "国外时政"
     },
     {
       "raw_hot": 195787,
@@ -13044,7 +13092,7 @@
     },
     {
       "raw_hot": 191773,
-      "num": 165896,
+      "num": 178270,
       "word": "徐锦江儿子上综艺天天扫地",
       "onboard_time": 1717913957,
       "rank": 34,
@@ -14267,6 +14315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175463,
+      "num": 175463,
+      "word": "玫瑰的故事以爱为营同一造型团队",
+      "onboard_time": 1717915758,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175323,
       "num": 175323,
       "word": "司徒九月帮薛芳菲疗伤又斩男",
@@ -15035,6 +15091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 165834,
+      "num": 165834,
+      "word": "建议用户每周重新启动一次手机",
+      "onboard_time": 1717914137,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 165596,
       "num": 165596,
       "word": "张本智和3比1林昀儒",
@@ -15753,14 +15817,6 @@
       "onboard_time": 1717821140,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157945,
-      "num": 157945,
-      "word": "建议用户每周重新启动一次手机",
-      "onboard_time": 1717914137,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 157788,
@@ -16780,7 +16836,7 @@
     },
     {
       "raw_hot": 148277,
-      "num": 148277,
+      "num": 318515,
       "word": "2024高考查分时间汇总",
       "onboard_time": 1717915038,
       "rank": 35,
@@ -16793,6 +16849,14 @@
       "onboard_time": 1717766182,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148166,
+      "num": 148166,
+      "word": "荣梓杉一撮黄毛是他最后的倔强",
+      "onboard_time": 1717917017,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 148126,
@@ -16841,6 +16905,14 @@
       "onboard_time": 1717839680,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147362,
+      "num": 147362,
+      "word": "偏偏你最争气挨打也没关系",
+      "onboard_time": 1717915038,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 147329,
@@ -17441,6 +17513,14 @@
       "onboard_time": 1717651278,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141733,
+      "num": 141733,
+      "word": "刘亦菲穿搭",
+      "onboard_time": 1717915398,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 141603,
@@ -18505,6 +18585,14 @@
       "onboard_time": 1717672697,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130461,
+      "num": 130461,
+      "word": "亲爹看娃被群众举报拐卖儿童",
+      "onboard_time": 1717915217,
+      "rank": 40,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 130399,
@@ -20083,6 +20171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114818,
+      "num": 114818,
+      "word": "邓超说鹿晗五哈四季变化很大",
+      "onboard_time": 1717914918,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114665,
       "num": 114665,
       "word": "Xiaolaohu说不打职业回家了",
@@ -20139,6 +20235,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 114134,
+      "num": 114134,
+      "word": "孙丞潇上综艺被气走",
+      "onboard_time": 1717915398,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114127,
       "num": 114127,
       "word": "何尊和太阳神鸟登上纪念币",
@@ -20152,14 +20256,6 @@
       "word": "辛芷蕾新作蛄蛹者",
       "onboard_time": 1717553119,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 113871,
-      "num": 113871,
-      "word": "邓超说鹿晗五哈四季变化很大",
-      "onboard_time": 1717914918,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -20385,14 +20481,6 @@
       "onboard_time": 1717466417,
       "rank": 45,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 111759,
-      "num": 111759,
-      "word": "偏偏你最争气挨打也没关系",
-      "onboard_time": 1717915038,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 111685,
