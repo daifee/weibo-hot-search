@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717924779663,
+  "endTime": 1717925748452,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 759481,
+      "num": 759481,
+      "word": "Karina开球",
+      "onboard_time": 1717924638,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 746372,
       "num": 746372,
       "word": "公交车冰柜",
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646351,
+      "num": 208399,
+      "word": "部分日本女性为见男公关卖淫还债",
+      "onboard_time": 1717921818,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 646072,
       "num": 646072,
       "word": "玫瑰的故事收视率",
@@ -225,14 +241,6 @@
       "onboard_time": 1717896797,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 607773,
-      "num": 208399,
-      "word": "部分日本女性为见男公关卖淫还债",
-      "onboard_time": 1717921818,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 592549,
@@ -315,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 504657,
+      "num": 504657,
+      "word": "姐姐出cos接妹妹高考",
+      "onboard_time": 1717922479,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 504507,
       "num": 504507,
       "word": "厦门成立工作组整顿鼓浪屿旅游秩序",
@@ -331,20 +347,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 495966,
+      "num": 495966,
+      "word": "国色芳华",
+      "onboard_time": 1717922298,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481036,
       "num": 143193,
       "word": "高考考到一半突然来例假了",
       "onboard_time": 1717828457,
       "rank": 23,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 479515,
-      "num": 479515,
-      "word": "国色芳华",
-      "onboard_time": 1717922298,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 479018,
@@ -537,14 +553,6 @@
       "onboard_time": 1717892175,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 355021,
-      "num": 355021,
-      "word": "姐姐出cos接妹妹高考",
-      "onboard_time": 1717922479,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 351269,
@@ -755,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 242052,
+      "num": 242052,
+      "word": "朱珠 高智姐感",
+      "onboard_time": 1717924037,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241044,
       "num": 215609,
       "word": "丁真 你什么档次",
@@ -875,14 +891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206630,
-      "num": 190103,
-      "word": "Karina开球",
-      "onboard_time": 1717924638,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 205991,
       "num": 205991,
       "word": "KPL王者梦之队队服曝光",
@@ -897,6 +905,14 @@
       "onboard_time": 1717913719,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205765,
+      "num": 150020,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1717925657,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 201922,
@@ -1099,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177078,
+      "num": 177078,
+      "word": "陈雨菲女单夺冠",
+      "onboard_time": 1717924577,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176852,
       "num": 176852,
       "word": "骗子假扮乌克兰前总统英国外交大臣上当",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1717846697,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166384,
+      "num": 166384,
+      "word": "山东化学",
+      "onboard_time": 1717925537,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 165834,
@@ -1201,14 +1233,6 @@
       "onboard_time": 1717888514,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 157477,
-      "num": 157477,
-      "word": "朱珠 高智姐感",
-      "onboard_time": 1717924037,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 156740,
@@ -1579,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110916,
+      "num": 355145,
+      "word": "高考刚结束男孩喜提新手机",
+      "onboard_time": 1717923919,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -1595,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109382,
-      "num": 109382,
-      "word": "陈雨菲女单夺冠",
-      "onboard_time": 1717924577,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108059,
       "num": 296920,
       "word": "上海短视频小横店日租金6000",
@@ -1617,6 +1641,14 @@
       "onboard_time": 1717858879,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107602,
+      "num": 107602,
+      "word": "高考是终点也是起点",
+      "onboard_time": 1717925597,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 106279,
@@ -1641,14 +1673,6 @@
       "onboard_time": 1717890736,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98250,
-      "num": 355145,
-      "word": "高考刚结束男孩喜提新手机",
-      "onboard_time": 1717923919,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 97798,
@@ -1713,6 +1737,14 @@
       "onboard_time": 1717905917,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 90523,
+      "num": 834622,
+      "word": "无论结果如何你都是最闪耀的星",
+      "onboard_time": 1717922418,
+      "rank": 2,
+      "category": "教育"
     },
     {
       "raw_hot": 89152,
@@ -1793,14 +1825,6 @@
       "onboard_time": 1717853419,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 82232,
-      "num": 834622,
-      "word": "无论结果如何你都是最闪耀的星",
-      "onboard_time": 1717922418,
-      "rank": 2,
-      "category": "教育"
     },
     {
       "raw_hot": 81156,

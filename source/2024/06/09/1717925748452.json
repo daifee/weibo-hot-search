@@ -1,0 +1,410 @@
+{
+  "runTime": 1717925748452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1331006,
+        "num": 1331006,
+        "word": "女子误将墓园认景区花1万拍婚纱",
+        "onboard_time": 1717918217,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150152,
+        "num": 1150152,
+        "word": "主播多次违规直播福宝被终身禁入",
+        "onboard_time": 1717920377,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90523,
+        "num": 762508,
+        "word": "无论结果如何你都是最闪耀的星",
+        "onboard_time": 1717922418,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 759481,
+        "num": 759481,
+        "word": "Karina开球",
+        "onboard_time": 1717924638,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639600,
+        "num": 639600,
+        "word": "巩俐非常喜欢尊敬刘亦菲",
+        "onboard_time": 1717921518,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 604867,
+        "num": 604867,
+        "word": "日本出现巨型章鱼",
+        "onboard_time": 1717909336,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562903,
+        "num": 562903,
+        "word": "荣梓杉走出考场开始营业",
+        "onboard_time": 1717911977,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504657,
+        "num": 504657,
+        "word": "姐姐出cos接妹妹高考",
+        "onboard_time": 1717922479,
+        "rank": 7,
+        "category": "游戏,教育"
+      },
+      {
+        "raw_hot": 495966,
+        "num": 495966,
+        "word": "国色芳华",
+        "onboard_time": 1717922298,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110916,
+        "num": 351861,
+        "word": "高考刚结束男孩喜提新手机",
+        "onboard_time": 1717923919,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 340874,
+        "num": 340874,
+        "word": "高考出题人 考完一门放一个",
+        "onboard_time": 1717912937,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 326831,
+        "num": 326831,
+        "word": "玫瑰的故事以爱为营同一造型团队",
+        "onboard_time": 1717915758,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308497,
+        "num": 308497,
+        "word": "原来高考还没结束",
+        "onboard_time": 1717910778,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287055,
+        "num": 287055,
+        "word": "王星越 老公在此",
+        "onboard_time": 1717918217,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245228,
+        "num": 245228,
+        "word": "女朋友的世界观震惊到我了",
+        "onboard_time": 1717910539,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242052,
+        "num": 242052,
+        "word": "朱珠 高智姐感",
+        "onboard_time": 1717924037,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241929,
+        "num": 241929,
+        "word": "高圆圆回复秦霄贤包场",
+        "onboard_time": 1717918818,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208563,
+        "num": 208563,
+        "word": "白月梵星",
+        "onboard_time": 1717919358,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199813,
+        "num": 199813,
+        "word": "韩国医协今将宣布集体停诊计划",
+        "onboard_time": 1717915997,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195744,
+        "num": 195744,
+        "word": "高考政治",
+        "onboard_time": 1717909879,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 701531,
+        "num": 188137,
+        "word": "家长网购要求退款211祝孩子考211",
+        "onboard_time": 1717905198,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646351,
+        "num": 186052,
+        "word": "部分日本女性为见男公关卖淫还债",
+        "onboard_time": 1717921818,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238245,
+        "num": 185297,
+        "word": "鞠婧祎衣服吊带断了",
+        "onboard_time": 1717904356,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177078,
+        "num": 177078,
+        "word": "陈雨菲女单夺冠",
+        "onboard_time": 1717924577,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173543,
+        "num": 173543,
+        "word": "以军直升机直接向人群开火现场成地狱",
+        "onboard_time": 1717916597,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166384,
+        "num": 166384,
+        "word": "山东化学",
+        "onboard_time": 1717925537,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 159945,
+        "num": 159945,
+        "word": "2024高考查分时间汇总",
+        "onboard_time": 1717915038,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159084,
+        "num": 159084,
+        "word": "抠抠嗖嗖的花了很多钱",
+        "onboard_time": 1717918697,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152128,
+        "num": 152128,
+        "word": "200元一斤蓝莓跌到8元",
+        "onboard_time": 1717913357,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150637,
+        "num": 150637,
+        "word": "刘亦菲 扛剧",
+        "onboard_time": 1717894576,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205765,
+        "num": 150020,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1717925657,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148765,
+        "num": 148765,
+        "word": "沈月凭本事让孟子义工作室挨骂",
+        "onboard_time": 1717918037,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143962,
+        "num": 143962,
+        "word": "乌兰 女狂徒",
+        "onboard_time": 1717919656,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142455,
+        "num": 142455,
+        "word": "这是论文查重不是亲子鉴定",
+        "onboard_time": 1717923078,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133720,
+        "num": 133720,
+        "word": "建议用户每周重新启动一次手机",
+        "onboard_time": 1717914137,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129467,
+        "num": 129467,
+        "word": "宋昕冉翻跳迪丽热巴新歌",
+        "onboard_time": 1717910597,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124773,
+        "num": 124773,
+        "word": "肖战 IF",
+        "onboard_time": 1717903576,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119058,
+        "num": 119058,
+        "word": "墨雨云间17",
+        "onboard_time": 1717910838,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118559,
+        "num": 118559,
+        "word": "董宇辉称到今天都不享受直播工作",
+        "onboard_time": 1717911497,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117173,
+        "num": 117173,
+        "word": "妈妈存了十年的黄金生锈了",
+        "onboard_time": 1717898536,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116035,
+        "num": 116035,
+        "word": "间谍过家家第三季制作决定",
+        "onboard_time": 1717921279,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 114114,
+        "num": 114114,
+        "word": "高考化学",
+        "onboard_time": 1717898296,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 108773,
+        "num": 108773,
+        "word": "刘亦菲穿搭",
+        "onboard_time": 1717915398,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107602,
+        "num": 107602,
+        "word": "高考是终点也是起点",
+        "onboard_time": 1717925597,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 104221,
+        "num": 104221,
+        "word": "王星越吐槽成亲镜头太少了",
+        "onboard_time": 1717919297,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102974,
+        "num": 102974,
+        "word": "荣梓杉一撮黄毛是他最后的倔强",
+        "onboard_time": 1717917017,
+        "rank": 45,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 102569,
+        "num": 102569,
+        "word": "TF三代这次是真的要登陆了",
+        "onboard_time": 1717916359,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99428,
+        "num": 99428,
+        "word": "柠季向张艺兴致歉",
+        "onboard_time": 1717914437,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98325,
+        "num": 98325,
+        "word": "陈雨菲卫冕印尼赛",
+        "onboard_time": 1717922837,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95282,
+        "num": 95282,
+        "word": "因为端午节见家长分手了",
+        "onboard_time": 1717902737,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心系文化和自然遗产保护#"
+    }
+  }
+}
