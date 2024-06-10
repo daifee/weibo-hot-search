@@ -1,0 +1,410 @@
+{
+  "runTime": 1718011335646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1876553,
+        "num": 1876553,
+        "word": "李承铉给离婚的爸妈订同一间房",
+        "onboard_time": 1718007559,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677421,
+        "num": 677421,
+        "word": "高考47年来裸分最高的考生是谁",
+        "onboard_time": 1717999397,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17323,
+        "num": 640284,
+        "word": "中国发展的多样色彩绘就热烈的夏天",
+        "onboard_time": 1718010617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625289,
+        "num": 625289,
+        "word": "初生",
+        "onboard_time": 1718002217,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572994,
+        "num": 572994,
+        "word": "Xiaolaohu删博",
+        "onboard_time": 1718006778,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 446300,
+        "num": 446300,
+        "word": "为什么床上总是有沙子",
+        "onboard_time": 1717990817,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 514255,
+        "num": 445327,
+        "word": "内娱颤抖吧十几个初生要来了",
+        "onboard_time": 1718006058,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384110,
+        "num": 384110,
+        "word": "日本21岁幼师割伤2岁幼儿颈部",
+        "onboard_time": 1718002939,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338627,
+        "num": 338627,
+        "word": "法国总统宣布解散国民议会",
+        "onboard_time": 1717984097,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 64441,
+        "num": 338134,
+        "word": "端午过后龙舟都去哪儿了",
+        "onboard_time": 1718009957,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879370,
+        "num": 335214,
+        "word": "高考试卷真的在监狱印刷吗",
+        "onboard_time": 1717997838,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 866897,
+        "num": 333731,
+        "word": "分手一年多了前任一直在用亲情卡",
+        "onboard_time": 1718009897,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370911,
+        "num": 331910,
+        "word": "江苏网红徒步路线一女孩中暑身亡",
+        "onboard_time": 1718009657,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330296,
+        "num": 330296,
+        "word": "狐妖月红篇豆瓣5.6分",
+        "onboard_time": 1718007318,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298564,
+        "num": 298564,
+        "word": "那么多卖咸蛋黄的蛋清都去哪了",
+        "onboard_time": 1718002098,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290180,
+        "num": 290180,
+        "word": "追风者白玉兰或将颗粒无收",
+        "onboard_time": 1718010678,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280733,
+        "num": 280733,
+        "word": "徐艺洋腿要被阿Sa夹扁",
+        "onboard_time": 1718009118,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257668,
+        "num": 257668,
+        "word": "EXOCBX续约理由",
+        "onboard_time": 1718010798,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247007,
+        "num": 247007,
+        "word": "墨雨云间你是真的火了",
+        "onboard_time": 1718001377,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182067,
+        "num": 182067,
+        "word": "鱼一上午被扇了6000个巴掌",
+        "onboard_time": 1717998796,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460423,
+        "num": 182029,
+        "word": "李晨身体年龄只有三十岁左右",
+        "onboard_time": 1718009357,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322579,
+        "num": 181614,
+        "word": "这样睡10分钟可抵2小时",
+        "onboard_time": 1718000838,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 267114,
+        "num": 181495,
+        "word": "中国第一大省正在疯狂建大学",
+        "onboard_time": 1717996519,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 219216,
+        "num": 181015,
+        "word": "吴谨言这巴掌多少带了点魏姐情绪",
+        "onboard_time": 1718002217,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217090,
+        "num": 180940,
+        "word": "办公室不是你们带薪恋爱的地方",
+        "onboard_time": 1718007618,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180729,
+        "num": 180729,
+        "word": "福宝端午节吃上粽子了",
+        "onboard_time": 1718006117,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212320,
+        "num": 179967,
+        "word": "沈月女团风金发",
+        "onboard_time": 1718007259,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196711,
+        "num": 178518,
+        "word": "赴山海",
+        "onboard_time": 1718010498,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193935,
+        "num": 176343,
+        "word": "片头每帧都吓人片尾每集都感人",
+        "onboard_time": 1718010858,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182877,
+        "num": 174016,
+        "word": "1米9山东大爷持2米艾蒿挤地铁",
+        "onboard_time": 1718007559,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199790,
+        "num": 173082,
+        "word": "3名龙舟手在端午节前夕离世",
+        "onboard_time": 1718010259,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172097,
+        "num": 172097,
+        "word": "美国一2岁女童被长颈鹿叼到半空",
+        "onboard_time": 1718003777,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171632,
+        "num": 171632,
+        "word": "孙俪晒邓超与孩子们母亲节对话",
+        "onboard_time": 1718004859,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162806,
+        "num": 162806,
+        "word": "赵露思陈伟霆同框路透",
+        "onboard_time": 1718001257,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158238,
+        "num": 158238,
+        "word": "墨雨云间剧粉好平静的癫感",
+        "onboard_time": 1718010798,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154514,
+        "num": 154514,
+        "word": "孙海洋透露儿子高考发挥得很好",
+        "onboard_time": 1718001139,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151326,
+        "num": 151326,
+        "word": "杨紫端午拍立得",
+        "onboard_time": 1718008457,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142343,
+        "num": 142343,
+        "word": "于正 多看爽剧有益身心健康",
+        "onboard_time": 1717997658,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152424,
+        "num": 141941,
+        "word": "赵露思开机照",
+        "onboard_time": 1717998617,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127394,
+        "num": 127394,
+        "word": "女子称邻居点蚊香致全家集体中毒",
+        "onboard_time": 1718007798,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131227,
+        "num": 127118,
+        "word": "王宝强 你的强来了",
+        "onboard_time": 1718011158,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125882,
+        "num": 125882,
+        "word": "双方都对这个吻感到恶心",
+        "onboard_time": 1718011217,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123945,
+        "num": 123945,
+        "word": "应采儿说Jasper为了不上学装吐",
+        "onboard_time": 1718008878,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122790,
+        "num": 122790,
+        "word": "谈判专家 过瘾",
+        "onboard_time": 1718009897,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119280,
+        "num": 119280,
+        "word": "最好的祛魅方式是拥有",
+        "onboard_time": 1718010738,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119182,
+        "num": 119182,
+        "word": "KPL王者梦之队芭莎大片预告",
+        "onboard_time": 1718009777,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113845,
+        "num": 113845,
+        "word": "小鬼恋爱请柬一人五角小剧场",
+        "onboard_time": 1718002638,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103202,
+        "num": 103202,
+        "word": "吃个粽子跑8000米才能消耗掉",
+        "onboard_time": 1717991117,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 98115,
+        "num": 98115,
+        "word": "95后高颜值天才少女再获5.8亿元融资",
+        "onboard_time": 1717998018,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97474,
+        "num": 97474,
+        "word": "狗狗嗅到了可以拥抱的距离",
+        "onboard_time": 1718011158,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引用的屈原名句#"
+    }
+  }
+}

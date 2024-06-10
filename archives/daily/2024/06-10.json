@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1718008690581,
+  "endTime": 1718011335646,
   "band_list": [
     {
       "raw_hot": 1894841,
@@ -89,6 +89,14 @@
       "onboard_time": 1717948399,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 866897,
+      "num": 333731,
+      "word": "分手一年多了前任一直在用亲情卡",
+      "onboard_time": 1718009897,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 863832,
@@ -299,6 +307,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 514255,
+      "num": 445327,
+      "word": "内娱颤抖吧十几个初生要来了",
+      "onboard_time": 1718006058,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511921,
       "num": 511921,
       "word": "美国一2岁女童被长颈鹿叼到半空",
@@ -355,6 +371,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 460423,
+      "num": 182029,
+      "word": "李晨身体年龄只有三十岁左右",
+      "onboard_time": 1718009357,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457553,
       "num": 457553,
       "word": "黄景瑜穿了不如不穿",
@@ -377,14 +401,6 @@
       "onboard_time": 1717975093,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438753,
-      "num": 438753,
-      "word": "内娱颤抖吧十几个初生要来了",
-      "onboard_time": 1718006058,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 423108,
@@ -449,6 +465,14 @@
       "onboard_time": 1717985658,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 370911,
+      "num": 331910,
+      "word": "江苏网红徒步路线一女孩中暑身亡",
+      "onboard_time": 1718009657,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369382,
@@ -523,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330296,
+      "num": 330296,
+      "word": "狐妖月红篇豆瓣5.6分",
+      "onboard_time": 1718007318,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323045,
       "num": 323045,
       "word": "黄明昊出道6年归来才22岁",
@@ -536,14 +568,6 @@
       "word": "杨幂工作室抠图",
       "onboard_time": 1717977676,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 321393,
-      "num": 221616,
-      "word": "狐妖月红篇豆瓣5.6分",
-      "onboard_time": 1718007318,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -611,6 +635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290180,
+      "num": 290180,
+      "word": "追风者白玉兰或将颗粒无收",
+      "onboard_time": 1718010678,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 280733,
+      "num": 280733,
+      "word": "徐艺洋腿要被阿Sa夹扁",
+      "onboard_time": 1718009118,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "刘亦菲万茜朱珠cp名",
@@ -673,6 +713,14 @@
       "onboard_time": 1717943840,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257668,
+      "num": 257668,
+      "word": "EXOCBX续约理由",
+      "onboard_time": 1718010798,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 256911,
@@ -779,6 +827,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219216,
+      "num": 205323,
+      "word": "吴谨言这巴掌多少带了点魏姐情绪",
+      "onboard_time": 1718002217,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 217090,
+      "num": 180940,
+      "word": "办公室不是你们带薪恋爱的地方",
+      "onboard_time": 1718007618,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216903,
       "num": 216903,
       "word": "汪苏泷张新成双人cha",
@@ -801,6 +865,14 @@
       "onboard_time": 1717983796,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212320,
+      "num": 179967,
+      "word": "沈月女团风金发",
+      "onboard_time": 1718007259,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 212137,
@@ -841,14 +913,6 @@
       "onboard_time": 1717999818,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 205323,
-      "num": 205323,
-      "word": "吴谨言这巴掌多少带了点魏姐情绪",
-      "onboard_time": 1718002217,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 203813,
@@ -915,6 +979,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199790,
+      "num": 173082,
+      "word": "3名龙舟手在端午节前夕离世",
+      "onboard_time": 1718010259,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199472,
       "num": 199472,
       "word": "中国零食饮料逐渐征服外国人",
@@ -931,11 +1003,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198894,
-      "num": 154138,
-      "word": "办公室不是你们带薪恋爱的地方",
-      "onboard_time": 1718007618,
-      "rank": 36,
+      "raw_hot": 196711,
+      "num": 178518,
+      "word": "赴山海",
+      "onboard_time": 1718010498,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -961,6 +1033,14 @@
       "onboard_time": 1717996937,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 193935,
+      "num": 176343,
+      "word": "片头每帧都吓人片尾每集都感人",
+      "onboard_time": 1718010858,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 189894,
@@ -1033,14 +1113,6 @@
       "onboard_time": 1717977315,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179492,
-      "num": 179492,
-      "word": "沈月女团风金发",
-      "onboard_time": 1718007259,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178612,
@@ -1171,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158238,
+      "num": 158238,
+      "word": "墨雨云间剧粉好平静的癫感",
+      "onboard_time": 1718010798,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157939,
       "num": 157939,
       "word": "上海地铁",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1717942939,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151326,
+      "num": 151326,
+      "word": "杨紫端午拍立得",
+      "onboard_time": 1718008457,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 150739,
@@ -1387,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131227,
+      "num": 127118,
+      "word": "王宝强 你的强来了",
+      "onboard_time": 1718011158,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130930,
       "num": 130930,
       "word": "张新成我要喝手磨咖啡",
@@ -1435,14 +1531,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 127311,
-      "num": 127311,
-      "word": "杨紫端午拍立得",
-      "onboard_time": 1718008457,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127233,
       "num": 127233,
       "word": "2024端午档票房突破3亿",
@@ -1457,6 +1545,14 @@
       "onboard_time": 1717945819,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125882,
+      "num": 125882,
+      "word": "双方都对这个吻感到恶心",
+      "onboard_time": 1718011217,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 125788,
@@ -1481,6 +1577,22 @@
       "onboard_time": 1717928357,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123945,
+      "num": 123945,
+      "word": "应采儿说Jasper为了不上学装吐",
+      "onboard_time": 1718008878,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122790,
+      "num": 122790,
+      "word": "谈判专家 过瘾",
+      "onboard_time": 1718009897,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 122545,
@@ -1537,6 +1649,22 @@
       "onboard_time": 1717996158,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 119280,
+      "num": 119280,
+      "word": "最好的祛魅方式是拥有",
+      "onboard_time": 1718010738,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 119182,
+      "num": 119182,
+      "word": "KPL王者梦之队芭莎大片预告",
+      "onboard_time": 1718009777,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 117971,
@@ -1731,6 +1859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97474,
+      "num": 97474,
+      "word": "狗狗嗅到了可以拥抱的距离",
+      "onboard_time": 1718011158,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95961,
       "num": 99772,
       "word": "原伟东称曾遭牙签扎指甲逼供",
@@ -1881,6 +2017,14 @@
       "onboard_time": 1718006418,
       "rank": 9,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 64441,
+      "num": 338134,
+      "word": "端午过后龙舟都去哪儿了",
+      "onboard_time": 1718009957,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62664,
@@ -2123,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17323,
+      "num": 640284,
+      "word": "中国发展的多样色彩绘就热烈的夏天",
+      "onboard_time": 1718010617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15574,
       "num": 202467,
       "word": "日本小学体检要求脱衣触摸",
@@ -2159,6 +2311,9 @@
     },
     {
       "word": "#立足中国大地讲好中华文明故事#"
+    },
+    {
+      "word": "#总书记引用的屈原名句#"
     }
   ]
 }
