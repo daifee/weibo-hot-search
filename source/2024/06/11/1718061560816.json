@@ -1,0 +1,410 @@
+{
+  "runTime": 1718061560816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 593123,
+        "num": 593123,
+        "word": "高考7月变6月竟是因为天气",
+        "onboard_time": 1718046191,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445616,
+        "num": 445616,
+        "word": "女子掉进西湖冷静躺平等救援",
+        "onboard_time": 1718039054,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40647,
+        "num": 406872,
+        "word": "龙舟经济火爆",
+        "onboard_time": 1718027059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1067838,
+        "num": 405595,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 397066,
+        "num": 397066,
+        "word": "刘亦菲的亲热戏把我老公看急眼了",
+        "onboard_time": 1718030180,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360559,
+        "num": 360559,
+        "word": "三亚考生建议不要出课本没教过知识",
+        "onboard_time": 1718031559,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 246251,
+        "num": 246251,
+        "word": "人民网评玫瑰的故事",
+        "onboard_time": 1718027059,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223990,
+        "num": 223990,
+        "word": "发现一直玩手机真的很恐怖",
+        "onboard_time": 1718011579,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144915,
+        "num": 144915,
+        "word": "张桂梅患带状疱疹仍坚持陪考",
+        "onboard_time": 1718028919,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27587,
+        "num": 142973,
+        "word": "有清华学霸爷爷送考高考绝对错不了",
+        "onboard_time": 1718047571,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 235854,
+        "num": 138291,
+        "word": "庄国栋是最后的赢家吗",
+        "onboard_time": 1718050091,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211315,
+        "num": 136479,
+        "word": "刘亦菲新剧口碑逆跌",
+        "onboard_time": 1718012658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169272,
+        "num": 133388,
+        "word": "96年28岁其实挺小的",
+        "onboard_time": 1718018057,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129620,
+        "num": 129620,
+        "word": "维密门店大量关闭",
+        "onboard_time": 1718055612,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 116687,
+        "num": 116687,
+        "word": "WWDC24",
+        "onboard_time": 1718028739,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116568,
+        "num": 116568,
+        "word": "彭冠英下线林更新上线",
+        "onboard_time": 1718021839,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148213,
+        "num": 116393,
+        "word": "墨雨云间这段刘亦菲10年前就意识到了",
+        "onboard_time": 1718021297,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114586,
+        "num": 114586,
+        "word": "肖战上海",
+        "onboard_time": 1718029820,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114453,
+        "num": 114453,
+        "word": "韩国罕见展出500年前王室印玺",
+        "onboard_time": 1718018477,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103525,
+        "num": 103525,
+        "word": "心疼孙丞潇",
+        "onboard_time": 1718052491,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251574,
+        "num": 99401,
+        "word": "张颂文晒108元重量级粽子王",
+        "onboard_time": 1718030719,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177171,
+        "num": 94967,
+        "word": "李承铉给离婚的爸妈订同一间房",
+        "onboard_time": 1718007559,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136715,
+        "num": 92337,
+        "word": "离职后又回原公司上班去了",
+        "onboard_time": 1718059513,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88660,
+        "num": 88660,
+        "word": "因为熬夜长了带状疱疹",
+        "onboard_time": 1718033899,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86283,
+        "num": 86283,
+        "word": "今年西瓜为什么便宜了",
+        "onboard_time": 1718029758,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84236,
+        "num": 84236,
+        "word": "Apple智能",
+        "onboard_time": 1718061194,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82336,
+        "num": 82336,
+        "word": "Jennie走秀",
+        "onboard_time": 1718030239,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77525,
+        "num": 77525,
+        "word": "唐诗逸让女战神具象化了",
+        "onboard_time": 1718057111,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72018,
+        "num": 72018,
+        "word": "双方都对这个吻感到恶心",
+        "onboard_time": 1718011217,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71994,
+        "num": 71994,
+        "word": "99年男子下订单借钱多名骑手中招",
+        "onboard_time": 1718039295,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108681,
+        "num": 71382,
+        "word": "iOS18相册APP大改版",
+        "onboard_time": 1718061194,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 69002,
+        "num": 69002,
+        "word": "肖战放饭",
+        "onboard_time": 1718018237,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66740,
+        "num": 66740,
+        "word": "iPhone有通话录音了",
+        "onboard_time": 1718061495,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 65730,
+        "num": 65730,
+        "word": "姨妈40度高温抱大白兔陪考",
+        "onboard_time": 1718033958,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65447,
+        "num": 65447,
+        "word": "为什么HR都要问老家是哪里的",
+        "onboard_time": 1718043191,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 64025,
+        "num": 64025,
+        "word": "岛屿少年总导演回应陈雨浓孙丞潇吵架",
+        "onboard_time": 1718034618,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58778,
+        "num": 58778,
+        "word": "iPad有计算器了",
+        "onboard_time": 1718061495,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 53402,
+        "num": 53402,
+        "word": "WWDC24演讲要点汇总",
+        "onboard_time": 1718061194,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52798,
+        "num": 52798,
+        "word": "不喜欢小孩的人生孩子后的心态变化",
+        "onboard_time": 1718041272,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50065,
+        "num": 50065,
+        "word": "Cube回应解约",
+        "onboard_time": 1718024418,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47517,
+        "num": 47517,
+        "word": "小猫咪的额头不能随便摸",
+        "onboard_time": 1718050510,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 47040,
+        "num": 47040,
+        "word": "研究生面试和公考面试的区别",
+        "onboard_time": 1718034379,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46926,
+        "num": 46926,
+        "word": "林更新丁宁互关了",
+        "onboard_time": 1718023218,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43649,
+        "num": 43649,
+        "word": "突然发现了求婚的意义",
+        "onboard_time": 1718031800,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 43631,
+        "num": 43631,
+        "word": "万茜好帅",
+        "onboard_time": 1718030659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43481,
+        "num": 43481,
+        "word": "原来爱豆是可以喊回来安可的",
+        "onboard_time": 1718038035,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41215,
+        "num": 41215,
+        "word": "孟子义之前是不是在理发店干过",
+        "onboard_time": 1718051171,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42349,
+        "num": 41148,
+        "word": "Angelababy汉服少女",
+        "onboard_time": 1718023037,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39578,
+        "num": 39578,
+        "word": "人生中最爽的三个月",
+        "onboard_time": 1718023578,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39552,
+        "num": 39552,
+        "word": "年轻人喜欢熬夜的根本原因",
+        "onboard_time": 1718043791,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}

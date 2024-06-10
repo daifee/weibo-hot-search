@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718058980915,
+  "endTime": 1718061560816,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -795,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 593123,
+      "num": 593123,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 592549,
       "num": 592549,
       "word": "王星越 老公在此",
@@ -1211,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445616,
+      "num": 445616,
+      "word": "女子掉进西湖冷静躺平等救援",
+      "onboard_time": 1718039054,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 444999,
       "num": 444999,
       "word": "牛蛙影响高考被抓后续",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1717908498,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360559,
+      "num": 360559,
+      "word": "三亚考生建议不要出课本没教过知识",
+      "onboard_time": 1718031559,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 358647,
@@ -2019,14 +2043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 288635,
-      "num": 288635,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283839,
       "num": 283839,
       "word": "石宇奇携双冠登顶世界第一",
@@ -2089,14 +2105,6 @@
       "onboard_time": 1717926558,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275859,
-      "num": 275859,
-      "word": "三亚考生建议不要出课本没教过知识",
-      "onboard_time": 1718031559,
-      "rank": 46,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 272860,
@@ -2299,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246251,
+      "num": 246251,
+      "word": "人民网评玫瑰的故事",
+      "onboard_time": 1718027059,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246039,
       "num": 237010,
       "word": "薛凯琪萨顶顶回应网友P图",
@@ -2387,6 +2403,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 235854,
+      "num": 138291,
+      "word": "庄国栋是最后的赢家吗",
+      "onboard_time": 1718050091,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233492,
       "num": 233492,
       "word": "cube",
@@ -2433,14 +2457,6 @@
       "onboard_time": 1717974673,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 227435,
-      "num": 227435,
-      "word": "人民网评玫瑰的故事",
-      "onboard_time": 1718027059,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 226809,
@@ -3041,14 +3057,6 @@
       "onboard_time": 1718016137,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190716,
-      "num": 190716,
-      "word": "女子掉进西湖冷静躺平等救援",
-      "onboard_time": 1718039054,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 190634,
@@ -4211,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136715,
+      "num": 92337,
+      "word": "离职后又回原公司上班去了",
+      "onboard_time": 1718059513,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 136513,
       "num": 136513,
       "word": "2024端午来啦",
@@ -4401,6 +4417,14 @@
       "onboard_time": 1717903157,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129620,
+      "num": 129620,
+      "word": "维密门店大量关闭",
+      "onboard_time": 1718055612,
+      "rank": 17,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 129320,
@@ -4931,14 +4955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112254,
-      "num": 86534,
-      "word": "庄国栋是最后的赢家吗",
-      "onboard_time": 1718050091,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -4969,6 +4985,14 @@
       "onboard_time": 1717991777,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108681,
+      "num": 71382,
+      "word": "iOS18相册APP大改版",
+      "onboard_time": 1718061194,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 108517,
@@ -5073,6 +5097,14 @@
       "onboard_time": 1717982836,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103525,
+      "num": 103525,
+      "word": "心疼孙丞潇",
+      "onboard_time": 1718052491,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 103447,
@@ -5379,6 +5411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84236,
+      "num": 84236,
+      "word": "Apple智能",
+      "onboard_time": 1718061194,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84206,
       "num": 160920,
       "word": "恋与深空",
@@ -5435,8 +5475,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77525,
+      "num": 77525,
+      "word": "唐诗逸让女战神具象化了",
+      "onboard_time": 1718057111,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77401,
-      "num": 63046,
+      "num": 71994,
       "word": "99年男子下订单借钱多名骑手中招",
       "onboard_time": 1718039295,
       "rank": 35,
@@ -5531,14 +5579,6 @@
       "category": "健康医疗,科学科普"
     },
     {
-      "raw_hot": 70252,
-      "num": 70252,
-      "word": "维密门店大量关闭",
-      "onboard_time": 1718055612,
-      "rank": 17,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 68930,
       "num": 137718,
       "word": "王星越叫吴谨言姐姐",
@@ -5563,6 +5603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66740,
+      "num": 66740,
+      "word": "iPhone有通话录音了",
+      "onboard_time": 1718061495,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 66642,
       "num": 66642,
       "word": "郭碧婷大理在逃南湘",
@@ -5577,6 +5625,14 @@
       "onboard_time": 1718010318,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65447,
+      "num": 65447,
+      "word": "为什么HR都要问老家是哪里的",
+      "onboard_time": 1718043191,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 64914,
@@ -5633,6 +5689,14 @@
       "onboard_time": 1717920197,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58778,
+      "num": 58778,
+      "word": "iPad有计算器了",
+      "onboard_time": 1718061495,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 58410,
@@ -5731,6 +5795,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53402,
+      "num": 53402,
+      "word": "WWDC24演讲要点汇总",
+      "onboard_time": 1718061194,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 52798,
+      "num": 52798,
+      "word": "不喜欢小孩的人生孩子后的心态变化",
+      "onboard_time": 1718041272,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 52450,
       "num": 551107,
       "word": "大三女生捐造血干细胞说没啥可犹豫的",
@@ -5795,14 +5875,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 49047,
-      "num": 49047,
-      "word": "心疼孙丞潇",
-      "onboard_time": 1718052491,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 47865,
       "num": 202668,
       "word": "乘警10秒救起掉站台缝隙女孩",
@@ -5841,6 +5913,14 @@
       "onboard_time": 1717922058,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47517,
+      "num": 47517,
+      "word": "小猫咪的额头不能随便摸",
+      "onboard_time": 1718050510,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 47488,
@@ -5971,20 +6051,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41576,
-      "num": 41576,
-      "word": "不喜欢小孩的人生孩子后的心态变化",
-      "onboard_time": 1718041272,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 41437,
       "num": 412219,
       "word": "高考考场外的这一幕超暖心",
       "onboard_time": 1718011818,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 40647,
+      "num": 406872,
+      "word": "龙舟经济火爆",
+      "onboard_time": 1718027059,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39947,
@@ -6009,14 +6089,6 @@
       "onboard_time": 1717964350,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 38087,
-      "num": 34450,
-      "word": "为什么HR都要问老家是哪里的",
-      "onboard_time": 1718043191,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 37767,
@@ -6115,22 +6187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33455,
-      "num": 33455,
-      "word": "唐诗逸让女战神具象化了",
-      "onboard_time": 1718057111,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 33015,
-      "num": 33015,
-      "word": "小猫咪的额头不能随便摸",
-      "onboard_time": 1718050510,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 32240,
       "num": 80649,
       "word": "日本乒乓球队奥运名单",
@@ -6187,6 +6243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27587,
+      "num": 142973,
+      "word": "有清华学霸爷爷送考高考绝对错不了",
+      "onboard_time": 1718047571,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 26638,
       "num": 263608,
       "word": "定格在郑州落日下的浪漫",
@@ -6207,14 +6271,6 @@
       "num": 1187744,
       "word": "你那里有哪些端午习俗",
       "onboard_time": 1717937118,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20881,
-      "num": 191608,
-      "word": "龙舟经济火爆",
-      "onboard_time": 1718027059,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -6329,14 +6385,6 @@
       "onboard_time": 1717873992,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14639,
-      "num": 57111,
-      "word": "有清华学霸爷爷送考高考绝对错不了",
-      "onboard_time": 1718047571,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 14554,
