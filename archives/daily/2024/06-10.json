@@ -1,7 +1,15 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1718030217230,
+  "endTime": 1718032937821,
   "band_list": [
+    {
+      "raw_hot": 2082968,
+      "num": 763380,
+      "word": "弟弟去世了二十天我高考完才知道",
+      "onboard_time": 1718030599,
+      "rank": 3,
+      "category": "情感"
+    },
     {
       "raw_hot": 1939550,
       "num": 1939550,
@@ -83,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1033559,
+      "num": 1033559,
+      "word": "刘亦菲的亲热戏把我老公看急眼了",
+      "onboard_time": 1718030180,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1031335,
       "num": 1031335,
       "word": "墨雨云间这段刘亦菲10年前就意识到了",
@@ -113,6 +129,14 @@
       "onboard_time": 1717991117,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 965296,
+      "num": 965296,
+      "word": "张桂梅患带状疱疹仍坚持陪考",
+      "onboard_time": 1718028919,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 964930,
@@ -235,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 723945,
-      "num": 518924,
-      "word": "刘亦菲的亲热戏把我老公看急眼了",
-      "onboard_time": 1718030180,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 742682,
+      "num": 742682,
+      "word": "Jennie走秀",
+      "onboard_time": 1718030239,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 714466,
@@ -355,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 615311,
-      "num": 615311,
-      "word": "张桂梅患带状疱疹仍坚持陪考",
-      "onboard_time": 1718028919,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610358,
       "num": 255909,
       "word": "长期睡眠不好的人后来怎么样了",
@@ -451,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544100,
+      "num": 279867,
+      "word": "张颂文晒108元重量级粽子王",
+      "onboard_time": 1718030719,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 534158,
       "num": 534158,
       "word": "月薪三千五一顿饭不超过五块",
       "onboard_time": 1718023999,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 532865,
+      "num": 262323,
+      "word": "肖战上海",
+      "onboard_time": 1718029820,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 525943,
@@ -531,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484386,
+      "num": 242969,
+      "word": "才知道焯水不是简单的煮一下",
+      "onboard_time": 1718028979,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 477226,
       "num": 477226,
       "word": "那么多卖咸蛋黄的蛋清都去哪了",
@@ -585,6 +625,14 @@
       "onboard_time": 1718009118,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429708,
+      "num": 242912,
+      "word": "今年西瓜为什么便宜了",
+      "onboard_time": 1718029758,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 427219,
@@ -713,14 +761,6 @@
       "onboard_time": 1717945218,
       "rank": 6,
       "category": "剧集,教育"
-    },
-    {
-      "raw_hot": 366715,
-      "num": 253647,
-      "word": "肖战上海",
-      "onboard_time": 1718029820,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 366394,
@@ -987,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278999,
+      "num": 242583,
+      "word": "万茜好帅",
+      "onboard_time": 1718030659,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "刘亦菲万茜朱珠cp名",
@@ -1107,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250391,
+      "num": 183050,
+      "word": "高考准考证少写一个还有分吗",
+      "onboard_time": 1718032040,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 250037,
       "num": 213858,
       "word": "你俩都到互穿里衣的程度了",
@@ -1137,6 +1193,14 @@
       "onboard_time": 1717996278,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243846,
+      "num": 243846,
+      "word": "这周只上4天班",
+      "onboard_time": 1718031019,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 242322,
@@ -1171,14 +1235,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 234441,
-      "num": 204784,
-      "word": "才知道焯水不是简单的煮一下",
-      "onboard_time": 1718028979,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 233106,
       "num": 233106,
       "word": "小鬼恋爱请柬一人五角小剧场",
@@ -1209,6 +1265,14 @@
       "onboard_time": 1717974673,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227435,
+      "num": 227435,
+      "word": "人民网评玫瑰的故事",
+      "onboard_time": 1718027059,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 226809,
@@ -1347,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209206,
-      "num": 204237,
-      "word": "人民网评玫瑰的故事",
-      "onboard_time": 1718027059,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208568,
       "num": 196207,
       "word": "人生中最爽的三个月",
@@ -1436,7 +1492,7 @@
     },
     {
       "raw_hot": 202303,
-      "num": 618358,
+      "num": 781702,
       "word": "这个端午110000000人次出游",
       "onboard_time": 1718027359,
       "rank": 2,
@@ -1635,12 +1691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185245,
-      "num": 185245,
-      "word": "今年西瓜为什么便宜了",
-      "onboard_time": 1718029758,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 183200,
+      "num": 183200,
+      "word": "突然发现了求婚的意义",
+      "onboard_time": 1718031800,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 181601,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1718025618,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166243,
+      "num": 166243,
+      "word": "周深打不过就加入",
+      "onboard_time": 1718031380,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 164592,
@@ -2139,6 +2203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137922,
+      "num": 137922,
+      "word": "在曼彻斯特边吐槽边Citywalk",
+      "onboard_time": 1718032040,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 136726,
       "num": 136726,
       "word": "艾草",
@@ -2209,6 +2281,14 @@
       "onboard_time": 1718000477,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 133581,
+      "num": 120127,
+      "word": "张凌赫回复陈都灵",
+      "onboard_time": 1718030419,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 133305,
@@ -2531,6 +2611,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113488,
+      "num": 113488,
+      "word": "端午档新片票房破4亿",
+      "onboard_time": 1718031741,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 113401,
+      "num": 113401,
+      "word": "三亚考生建议不要出课本没教过知识",
+      "onboard_time": 1718031559,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 113169,
       "num": 113169,
       "word": "狗狗装过头差点变成流浪狗",
@@ -2603,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106837,
+      "num": 106837,
+      "word": "端午国内机票价格跌三成",
+      "onboard_time": 1718030119,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 106677,
       "num": 106677,
       "word": "高考生催更墨雨云间",
@@ -2667,6 +2771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 100543,
+      "num": 100543,
+      "word": "怪不得最近江苏路边的猫少了",
+      "onboard_time": 1718032821,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100517,
       "num": 100517,
       "word": "荣梓杉是今年中戏北电双第一",
@@ -2689,14 +2801,6 @@
       "onboard_time": 1717937838,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 99960,
-      "num": 99960,
-      "word": "端午国内机票价格跌三成",
-      "onboard_time": 1718030119,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 99877,
@@ -3001,6 +3105,14 @@
       "onboard_time": 1717954092,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46563,
+      "num": 303336,
+      "word": "这是高考后最想做的事最温暖的回答",
+      "onboard_time": 1718032100,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 46148,

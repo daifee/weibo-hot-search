@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718030217230,
+  "endTime": 1718032937821,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -233,6 +233,14 @@
       "onboard_time": 1717292896,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2082968,
+      "num": 763380,
+      "word": "弟弟去世了二十天我高考完才知道",
+      "onboard_time": 1718030599,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 2049838,
@@ -1731,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1033559,
+      "num": 1033559,
+      "word": "刘亦菲的亲热戏把我老公看急眼了",
+      "onboard_time": 1718030180,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1031335,
       "num": 1031335,
       "word": "墨雨云间这段刘亦菲10年前就意识到了",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1717991117,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 965296,
+      "num": 965296,
+      "word": "张桂梅患带状疱疹仍坚持陪考",
+      "onboard_time": 1718028919,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 964930,
@@ -2939,6 +2963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 742682,
+      "num": 742682,
+      "word": "Jennie走秀",
+      "onboard_time": 1718030239,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 741905,
       "num": 741905,
       "word": "叶轻眉 大女主",
@@ -3065,14 +3097,6 @@
       "onboard_time": 1717897157,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 723945,
-      "num": 518924,
-      "word": "刘亦菲的亲热戏把我老公看急眼了",
-      "onboard_time": 1718030180,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 723026,
@@ -4051,14 +4075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 615311,
-      "num": 615311,
-      "word": "张桂梅患带状疱疹仍坚持陪考",
-      "onboard_time": 1718028919,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 615302,
       "num": 446225,
       "word": "数学 一生之敌",
@@ -4875,6 +4891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 544100,
+      "num": 279867,
+      "word": "张颂文晒108元重量级粽子王",
+      "onboard_time": 1718030719,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543232,
       "num": 388851,
       "word": "贾玲1个月喜提2代言",
@@ -4993,6 +5017,14 @@
       "onboard_time": 1717715535,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 532865,
+      "num": 262323,
+      "word": "肖战上海",
+      "onboard_time": 1718029820,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 532835,
@@ -5721,6 +5753,14 @@
       "onboard_time": 1717293317,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484386,
+      "num": 242969,
+      "word": "才知道焯水不是简单的煮一下",
+      "onboard_time": 1718028979,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 483787,
@@ -6641,6 +6681,14 @@
       "onboard_time": 1717411639,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 429708,
+      "num": 242912,
+      "word": "今年西瓜为什么便宜了",
+      "onboard_time": 1718029758,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 429569,
@@ -7873,14 +7921,6 @@
       "onboard_time": 1717143797,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 366715,
-      "num": 253647,
-      "word": "肖战上海",
-      "onboard_time": 1718029820,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 366692,
@@ -10187,6 +10227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278999,
+      "num": 242583,
+      "word": "万茜好帅",
+      "onboard_time": 1718030659,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "刘亦菲万茜朱珠cp名",
@@ -11267,6 +11315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250391,
+      "num": 183050,
+      "word": "高考准考证少写一个还有分吗",
+      "onboard_time": 1718032040,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 250267,
       "num": 250267,
       "word": "魔卡少女樱 小樱初设形象",
@@ -11464,6 +11520,14 @@
       "word": "高考监考都用上AI了",
       "onboard_time": 1717632136,
       "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 243846,
+      "num": 243846,
+      "word": "这周只上4天班",
+      "onboard_time": 1718031019,
+      "rank": 14,
       "category": "幽默"
     },
     {
@@ -11883,14 +11947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234441,
-      "num": 204784,
-      "word": "才知道焯水不是简单的煮一下",
-      "onboard_time": 1718028979,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 234434,
       "num": 234434,
       "word": "我梦到高考语文题目了",
@@ -12177,6 +12233,14 @@
       "onboard_time": 1717377558,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227435,
+      "num": 227435,
+      "word": "人民网评玫瑰的故事",
+      "onboard_time": 1718027059,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 227344,
@@ -13315,14 +13379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 209206,
-      "num": 204237,
-      "word": "人民网评玫瑰的故事",
-      "onboard_time": 1718027059,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209187,
       "num": 209187,
       "word": "阿Sa徐明浩胃病",
@@ -13948,7 +14004,7 @@
     },
     {
       "raw_hot": 202303,
-      "num": 618358,
+      "num": 781702,
       "word": "这个端午110000000人次出游",
       "onboard_time": 1718027359,
       "rank": 2,
@@ -15779,14 +15835,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 185245,
-      "num": 185245,
-      "word": "今年西瓜为什么便宜了",
-      "onboard_time": 1718029758,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 185223,
       "num": 185223,
       "word": "调查显示3成癌症患者不到40岁",
@@ -15936,6 +15984,14 @@
       "word": "没必要为三五年后的前途担忧",
       "onboard_time": 1717723157,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 183200,
+      "num": 183200,
+      "word": "突然发现了求婚的意义",
+      "onboard_time": 1718031800,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -17401,6 +17457,14 @@
       "onboard_time": 1717723157,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166243,
+      "num": 166243,
+      "word": "周深打不过就加入",
+      "onboard_time": 1718031380,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 166059,
@@ -20611,6 +20675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137922,
+      "num": 137922,
+      "word": "在曼彻斯特边吐槽边Citywalk",
+      "onboard_time": 1718032040,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 137796,
       "num": 137796,
       "word": "佟大为陈瑶演情侣",
@@ -21121,6 +21193,14 @@
       "onboard_time": 1717837999,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133581,
+      "num": 120127,
+      "word": "张凌赫回复陈都灵",
+      "onboard_time": 1718030419,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 133579,
@@ -23515,12 +23595,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113488,
+      "num": 113488,
+      "word": "端午档新片票房破4亿",
+      "onboard_time": 1718031741,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 113480,
       "num": 113480,
       "word": "C罗克罗斯莫德里奇欧洲杯最后一届了",
       "onboard_time": 1717672998,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113401,
+      "num": 113401,
+      "word": "三亚考生建议不要出课本没教过知识",
+      "onboard_time": 1718031559,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 113296,
@@ -24219,6 +24315,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 106837,
+      "num": 106837,
+      "word": "端午国内机票价格跌三成",
+      "onboard_time": 1718030119,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 106717,
       "num": 106717,
       "word": "航天员拍下绿色正慢慢覆盖三北沙漠",
@@ -24771,6 +24875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 100543,
+      "num": 100543,
+      "word": "怪不得最近江苏路边的猫少了",
+      "onboard_time": 1718032821,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100514,
       "num": 100514,
       "word": "2024KPL夏季赛",
@@ -24817,14 +24929,6 @@
       "onboard_time": 1717497857,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99960,
-      "num": 99960,
-      "word": "端午国内机票价格跌三成",
-      "onboard_time": 1718030119,
-      "rank": 48,
-      "category": "旅游"
     },
     {
       "raw_hot": 99877,
@@ -27689,6 +27793,14 @@
       "onboard_time": 1717889595,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46563,
+      "num": 303336,
+      "word": "这是高考后最想做的事最温暖的回答",
+      "onboard_time": 1718032100,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 46212,
