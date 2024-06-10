@@ -1,0 +1,410 @@
+{
+  "runTime": 1718003908947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427444,
+        "num": 1427444,
+        "word": "高考47年来裸分最高的考生是谁",
+        "onboard_time": 1717999397,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 905785,
+        "num": 905785,
+        "word": "为什么床上总是有沙子",
+        "onboard_time": 1717990817,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 19219,
+        "num": 836273,
+        "word": "龙年端午看海军龙舟",
+        "onboard_time": 1717989137,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819906,
+        "num": 819906,
+        "word": "高考试卷真的在监狱印刷吗",
+        "onboard_time": 1717997838,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 528531,
+        "num": 528531,
+        "word": "赵露思开机照",
+        "onboard_time": 1717998617,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448780,
+        "num": 448780,
+        "word": "墨雨云间你是真的火了",
+        "onboard_time": 1718001377,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388609,
+        "num": 388609,
+        "word": "法国总统宣布解散国民议会",
+        "onboard_time": 1717984097,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 364855,
+        "num": 364855,
+        "word": "哪个臭小子被刘亦菲喜欢过",
+        "onboard_time": 1717984097,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 361494,
+        "num": 361494,
+        "word": "广州地铁允许个人投放后",
+        "onboard_time": 1717996339,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 423108,
+        "num": 353529,
+        "word": "赵露思陈伟霆同框路透",
+        "onboard_time": 1718001257,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 796836,
+        "num": 350766,
+        "word": "孙海洋透露儿子高考发挥得很好",
+        "onboard_time": 1718001139,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392377,
+        "num": 349417,
+        "word": "那么多卖咸蛋黄的蛋清都去哪了",
+        "onboard_time": 1718002098,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344800,
+        "num": 344800,
+        "word": "毛晓彤看得出她是公主",
+        "onboard_time": 1718002158,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323045,
+        "num": 323045,
+        "word": "黄明昊出道6年归来才22岁",
+        "onboard_time": 1717999337,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289836,
+        "num": 289836,
+        "word": "他说希望我的妈妈母凭子贵",
+        "onboard_time": 1718002758,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287360,
+        "num": 287360,
+        "word": "95后高颜值天才少女再获5.8亿元融资",
+        "onboard_time": 1717998018,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13325,
+        "num": 280773,
+        "word": "每年高考都是出租车司机的职业大考",
+        "onboard_time": 1718003717,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277259,
+        "num": 277259,
+        "word": "初生",
+        "onboard_time": 1718002217,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222211,
+        "num": 222211,
+        "word": "王星越眼线是被冲掉的",
+        "onboard_time": 1717995678,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222089,
+        "num": 222089,
+        "word": "吃个粽子跑8000米才能消耗掉",
+        "onboard_time": 1717991117,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 492324,
+        "num": 220805,
+        "word": "鱼一上午被扇了6000个巴掌",
+        "onboard_time": 1717998796,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216903,
+        "num": 216903,
+        "word": "汪苏泷张新成双人cha",
+        "onboard_time": 1718002397,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 460469,
+        "num": 215273,
+        "word": "这样睡10分钟可抵2小时",
+        "onboard_time": 1718000838,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 203234,
+        "num": 213208,
+        "word": "董宇辉称每天睡醒后觉得不如不睡",
+        "onboard_time": 1717997838,
+        "rank": 23,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 342161,
+        "num": 212201,
+        "word": "中国第一大省正在疯狂建大学",
+        "onboard_time": 1717996519,
+        "rank": 24,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 218688,
+        "num": 208617,
+        "word": "高圆圆赵又廷参加好友婚礼",
+        "onboard_time": 1717997056,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208216,
+        "num": 208216,
+        "word": "毕业一年攒了2万",
+        "onboard_time": 1717999818,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205323,
+        "num": 205323,
+        "word": "吴谨言这巴掌多少带了点魏姐情绪",
+        "onboard_time": 1718002217,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205176,
+        "num": 205176,
+        "word": "于正 多看爽剧有益身心健康",
+        "onboard_time": 1717997658,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15574,
+        "num": 202467,
+        "word": "日本小学体检要求脱衣触摸",
+        "onboard_time": 1718003777,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47768,
+        "num": 202241,
+        "word": "9组易混淆的专业",
+        "onboard_time": 1718001857,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202166,
+        "num": 202166,
+        "word": "易烊千玺海边漫步",
+        "onboard_time": 1717996937,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200820,
+        "num": 200820,
+        "word": "小鬼恋爱请柬一人五角小剧场",
+        "onboard_time": 1718002638,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198262,
+        "num": 198262,
+        "word": "张艺兴带女团唱Psychic",
+        "onboard_time": 1718000597,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186335,
+        "num": 186335,
+        "word": "刘亦菲跳华尔兹好辣",
+        "onboard_time": 1717996698,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183645,
+        "num": 183645,
+        "word": "临江仙剧照",
+        "onboard_time": 1718000539,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180546,
+        "num": 180546,
+        "word": "男子火锅店强吻陌生女子被拘10天",
+        "onboard_time": 1717986798,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164478,
+        "num": 164478,
+        "word": "田曦薇挂脖旗袍",
+        "onboard_time": 1717990757,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162294,
+        "num": 162294,
+        "word": "长期睡眠不好的人后来怎么样了",
+        "onboard_time": 1717993457,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142933,
+        "num": 142933,
+        "word": "吴谨言王星越端午放饭",
+        "onboard_time": 1718002278,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141760,
+        "num": 141760,
+        "word": "马嘉祺新歌MV有女主",
+        "onboard_time": 1717996878,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140135,
+        "num": 140135,
+        "word": "美国一2岁女童被长颈鹿叼到半空",
+        "onboard_time": 1718003777,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134672,
+        "num": 134672,
+        "word": "居然把厂长干成班主任了",
+        "onboard_time": 1718001857,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132400,
+        "num": 132400,
+        "word": "肖战工作室端午放饭啦",
+        "onboard_time": 1717992978,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130930,
+        "num": 130930,
+        "word": "张新成我要喝手磨咖啡",
+        "onboard_time": 1718001977,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121572,
+        "num": 121572,
+        "word": "可以说端午节快乐吗",
+        "onboard_time": 1717999217,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121565,
+        "num": 121565,
+        "word": "读狂犬旁基本都是福建人",
+        "onboard_time": 1718000117,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116625,
+        "num": 116625,
+        "word": "许我耀眼",
+        "onboard_time": 1717987758,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106350,
+        "num": 106350,
+        "word": "喝酒后发现怀孕是否影响胎儿",
+        "onboard_time": 1717975874,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14130,
+        "num": 105562,
+        "word": "赛龙舟为什么能火出圈",
+        "onboard_time": 1717989917,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要让更多文物和文化遗产活起来#"
+    }
+  }
+}

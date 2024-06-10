@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718001626122,
+  "endTime": 1718003908947,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -817,6 +817,14 @@
       "onboard_time": 1717245679,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1427444,
+      "num": 1427444,
+      "word": "高考47年来裸分最高的考生是谁",
+      "onboard_time": 1717999397,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 1416945,
@@ -2409,6 +2417,14 @@
       "onboard_time": 1717425738,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 796836,
+      "num": 350766,
+      "word": "孙海洋透露儿子高考发挥得很好",
+      "onboard_time": 1718001139,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 794848,
@@ -4068,7 +4084,7 @@
     },
     {
       "raw_hot": 597048,
-      "num": 202616,
+      "num": 220805,
       "word": "鱼一上午被扇了6000个巴掌",
       "onboard_time": 1717998796,
       "rank": 20,
@@ -4921,14 +4937,6 @@
       "onboard_time": 1717907057,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 523859,
-      "num": 198895,
-      "word": "高考47年来裸分最高的考生是谁",
-      "onboard_time": 1717999397,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 523800,
@@ -5827,6 +5835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 460469,
+      "num": 215273,
+      "word": "这样睡10分钟可抵2小时",
+      "onboard_time": 1718000838,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 460102,
       "num": 460102,
       "word": "父亲称孩子因多看两眼遭陌生人掐脖",
@@ -6009,6 +6025,14 @@
       "onboard_time": 1717426160,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 448780,
+      "num": 448780,
+      "word": "墨雨云间你是真的火了",
+      "onboard_time": 1718001377,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 448060,
@@ -6465,6 +6489,14 @@
       "onboard_time": 1717756219,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 423108,
+      "num": 353529,
+      "word": "赵露思陈伟霆同框路透",
+      "onboard_time": 1718001257,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 422594,
@@ -7041,6 +7073,14 @@
       "onboard_time": 1717985658,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 392377,
+      "num": 349417,
+      "word": "那么多卖咸蛋黄的蛋清都去哪了",
+      "onboard_time": 1718002098,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 391996,
@@ -7907,14 +7947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351125,
-      "num": 298674,
-      "word": "赵露思陈伟霆同框路透",
-      "onboard_time": 1718001257,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 351005,
       "num": 351005,
       "word": "SpaceX星舰第4次试飞成功",
@@ -8032,6 +8064,14 @@
       "word": "种地吧",
       "onboard_time": 1717324877,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344800,
+      "num": 344800,
+      "word": "毛晓彤看得出她是公主",
+      "onboard_time": 1718002158,
+      "rank": 12,
       "category": "综艺"
     },
     {
@@ -8515,6 +8555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 323045,
+      "num": 323045,
+      "word": "黄明昊出道6年归来才22岁",
+      "onboard_time": 1717999337,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322829,
       "num": 322829,
       "word": "荣梓杉高考",
@@ -8929,14 +8977,6 @@
       "onboard_time": 1717558098,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305645,
-      "num": 297065,
-      "word": "黄明昊出道6年归来才22岁",
-      "onboard_time": 1717999337,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 305623,
@@ -9387,6 +9427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 289836,
+      "num": 289836,
+      "word": "他说希望我的妈妈母凭子贵",
+      "onboard_time": 1718002758,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289790,
       "num": 223299,
       "word": "美国仅7%用户每天使用ChatGPT",
@@ -9537,14 +9585,6 @@
       "onboard_time": 1717757658,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 285761,
-      "num": 285761,
-      "word": "墨雨云间你是真的火了",
-      "onboard_time": 1718001377,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 285738,
@@ -9785,6 +9825,14 @@
       "onboard_time": 1717459097,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277259,
+      "num": 277259,
+      "word": "初生",
+      "onboard_time": 1718002217,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 277125,
@@ -10332,7 +10380,7 @@
     },
     {
       "raw_hot": 262733,
-      "num": 189750,
+      "num": 198262,
       "word": "张艺兴带女团唱Psychic",
       "onboard_time": 1718000597,
       "rank": 26,
@@ -11121,14 +11169,6 @@
       "onboard_time": 1717581918,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 238646,
-      "num": 167393,
-      "word": "孙海洋透露儿子高考发挥得很好",
-      "onboard_time": 1718001139,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238375,
@@ -12203,6 +12243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216903,
+      "num": 216903,
+      "word": "汪苏泷张新成双人cha",
+      "onboard_time": 1718002397,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216713,
       "num": 192050,
       "word": "王安宇露背走红毯",
@@ -12499,14 +12547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 211275,
-      "num": 168364,
-      "word": "这样睡10分钟可抵2小时",
-      "onboard_time": 1718000838,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 210799,
       "num": 210798,
       "word": "小小年纪就有了总裁相",
@@ -12779,6 +12819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208216,
+      "num": 208216,
+      "word": "毕业一年攒了2万",
+      "onboard_time": 1717999818,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 208199,
       "num": 208199,
       "word": "马嘉祺新歌",
@@ -13025,6 +13073,14 @@
       "onboard_time": 1717385658,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205323,
+      "num": 205323,
+      "word": "吴谨言这巴掌多少带了点魏姐情绪",
+      "onboard_time": 1718002217,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 205152,
@@ -13417,6 +13473,14 @@
       "onboard_time": 1717650918,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200820,
+      "num": 200820,
+      "word": "小鬼恋爱请柬一人五角小剧场",
+      "onboard_time": 1718002638,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 200799,
@@ -14659,14 +14723,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 188642,
-      "num": 172619,
-      "word": "毕业一年攒了2万",
-      "onboard_time": 1717999818,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 188558,
       "num": 185407,
       "word": "贾玲女性力量",
@@ -14684,7 +14740,7 @@
     },
     {
       "raw_hot": 188512,
-      "num": 166625,
+      "num": 183645,
       "word": "临江仙剧照",
       "onboard_time": 1718000539,
       "rank": 35,
@@ -19075,6 +19131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142933,
+      "num": 142933,
+      "word": "吴谨言王星越端午放饭",
+      "onboard_time": 1718002278,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142795,
       "num": 142795,
       "word": "山东今天上午没有考试",
@@ -19425,6 +19489,14 @@
       "onboard_time": 1717747997,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140135,
+      "num": 140135,
+      "word": "美国一2岁女童被长颈鹿叼到半空",
+      "onboard_time": 1718003777,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140071,
@@ -20011,6 +20083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 134672,
+      "num": 134672,
+      "word": "居然把厂长干成班主任了",
+      "onboard_time": 1718001857,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134669,
       "num": 134669,
       "word": "imp说Letme不约训练赛",
@@ -20353,6 +20433,14 @@
       "onboard_time": 1717666400,
       "rank": 42,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 130930,
+      "num": 130930,
+      "word": "张新成我要喝手磨咖啡",
+      "onboard_time": 1718001977,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 130830,
@@ -26379,6 +26467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47768,
+      "num": 202241,
+      "word": "9组易混淆的专业",
+      "onboard_time": 1718001857,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 47722,
       "num": 47722,
       "word": "高考最后一天",
@@ -26516,7 +26612,7 @@
     },
     {
       "raw_hot": 44964,
-      "num": 754127,
+      "num": 836273,
       "word": "龙年端午看海军龙舟",
       "onboard_time": 1717989137,
       "rank": 2,
@@ -27971,6 +28067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 15574,
+      "num": 202467,
+      "word": "日本小学体检要求脱衣触摸",
+      "onboard_time": 1718003777,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15313,
       "num": 20446,
       "word": "粽子卖爆了",
@@ -28097,6 +28201,14 @@
       "onboard_time": 1717885572,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 13325,
+      "num": 280773,
+      "word": "每年高考都是出租车司机的职业大考",
+      "onboard_time": 1718003717,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13278,
