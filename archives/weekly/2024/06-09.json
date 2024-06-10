@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718003908947,
+  "endTime": 1718004933908,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -35,6 +35,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1634077,
+      "num": 1634077,
+      "word": "高考47年来裸分最高的考生是谁",
+      "onboard_time": 1717999397,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1605492,
       "num": 1605492,
       "word": "我爸以为有教资就能去学校当老师",
@@ -57,14 +65,6 @@
       "onboard_time": 1717934478,
       "rank": 1,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1427444,
-      "num": 1427444,
-      "word": "高考47年来裸分最高的考生是谁",
-      "onboard_time": 1717999397,
-      "rank": 22,
-      "category": "教育"
     },
     {
       "raw_hot": 1391065,
@@ -267,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 807782,
+      "num": 807782,
+      "word": "孙海洋透露儿子高考发挥得很好",
+      "onboard_time": 1718001139,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801416,
       "num": 701237,
       "word": "三大扛剧女王",
       "onboard_time": 1717976175,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 796836,
-      "num": 350766,
-      "word": "孙海洋透露儿子高考发挥得很好",
-      "onboard_time": 1718001139,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 789946,
@@ -611,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 571633,
+      "num": 218249,
+      "word": "这样睡10分钟可抵2小时",
+      "onboard_time": 1718000838,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 571586,
       "num": 571586,
       "word": "玫瑰的故事以爱为营同一造型团队",
@@ -723,6 +731,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 509697,
+      "num": 509697,
+      "word": "墨雨云间你是真的火了",
+      "onboard_time": 1718001377,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504657,
       "num": 504657,
       "word": "姐姐出cos接妹妹高考",
@@ -785,6 +801,14 @@
       "onboard_time": 1717933877,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 477226,
+      "num": 477226,
+      "word": "那么多卖咸蛋黄的蛋清都去哪了",
+      "onboard_time": 1718002098,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475274,
@@ -851,19 +875,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 460469,
-      "num": 215273,
-      "word": "这样睡10分钟可抵2小时",
-      "onboard_time": 1718000838,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 457553,
       "num": 457553,
       "word": "黄景瑜穿了不如不穿",
       "onboard_time": 1717975994,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 456965,
+      "num": 456965,
+      "word": "初生",
+      "onboard_time": 1718002217,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -889,14 +913,6 @@
       "onboard_time": 1717845437,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 448780,
-      "num": 448780,
-      "word": "墨雨云间你是真的火了",
-      "onboard_time": 1718001377,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 444999,
@@ -988,7 +1004,7 @@
     },
     {
       "raw_hot": 423108,
-      "num": 353529,
+      "num": 396564,
       "word": "赵露思陈伟霆同框路透",
       "onboard_time": 1718001257,
       "rank": 10,
@@ -1001,6 +1017,14 @@
       "onboard_time": 1717936997,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 415590,
+      "num": 415590,
+      "word": "美国一2岁女童被长颈鹿叼到半空",
+      "onboard_time": 1718003777,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413241,
@@ -1081,14 +1105,6 @@
       "onboard_time": 1717985658,
       "rank": 17,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 392377,
-      "num": 349417,
-      "word": "那么多卖咸蛋黄的蛋清都去哪了",
-      "onboard_time": 1718002098,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 391996,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1717918037,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347060,
+      "num": 347060,
+      "word": "他说希望我的妈妈母凭子贵",
+      "onboard_time": 1718002758,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345600,
@@ -1499,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289836,
-      "num": 289836,
-      "word": "他说希望我的妈妈母凭子贵",
-      "onboard_time": 1718002758,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 289210,
       "num": 289210,
       "word": "白桃星座",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1717985358,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 277259,
-      "num": 277259,
-      "word": "初生",
-      "onboard_time": 1718002217,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 276203,
@@ -1955,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211160,
+      "num": 211160,
+      "word": "小鬼恋爱请柬一人五角小剧场",
+      "onboard_time": 1718002638,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210580,
       "num": 152365,
       "word": "这种最舒服的睡姿会把身体睡垮",
@@ -2113,14 +2129,6 @@
       "onboard_time": 1717988297,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200820,
-      "num": 200820,
-      "word": "小鬼恋爱请柬一人五角小剧场",
-      "onboard_time": 1718002638,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 200720,
@@ -2707,6 +2715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161009,
+      "num": 161009,
+      "word": "2块钱从老爷爷手上买了一只小狗",
+      "onboard_time": 1718004017,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160356,
       "num": 160356,
       "word": "多地高考结束了",
@@ -2795,6 +2811,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156561,
+      "num": 156561,
+      "word": "杨迪说谢娜是我最好的朋友",
+      "onboard_time": 1718004139,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155945,
       "num": 155945,
       "word": "小狗乱入考场民警投喂后开启静音模式",
@@ -2825,6 +2849,14 @@
       "onboard_time": 1717995259,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152082,
+      "num": 152082,
+      "word": "日本21岁幼师割伤2岁幼儿颈部",
+      "onboard_time": 1718002939,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152046,
@@ -3075,20 +3107,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140135,
-      "num": 140135,
-      "word": "美国一2岁女童被长颈鹿叼到半空",
-      "onboard_time": 1718003777,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139619,
       "num": 139619,
       "word": "玫瑰的故事热辣滚炕",
       "onboard_time": 1717933998,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139257,
+      "num": 139257,
+      "word": "居然把厂长干成班主任了",
+      "onboard_time": 1718001857,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 138254,
@@ -3169,14 +3201,6 @@
       "onboard_time": 1717998437,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134672,
-      "num": 134672,
-      "word": "居然把厂长干成班主任了",
-      "onboard_time": 1718001857,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 134479,
@@ -3291,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129035,
+      "num": 129035,
+      "word": "刘亦菲彭冠英氛围感神图",
+      "onboard_time": 1718004678,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128582,
       "num": 117777,
       "word": "紧急提醒这种粽子绳有毒",
@@ -3305,6 +3337,14 @@
       "onboard_time": 1717915398,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127233,
+      "num": 127233,
+      "word": "2024端午档票房突破3亿",
+      "onboard_time": 1718004616,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 126758,
@@ -3769,6 +3809,14 @@
       "onboard_time": 1717992377,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104921,
+      "num": 104921,
+      "word": "孙俪晒邓超与孩子们母亲节对话",
+      "onboard_time": 1718004859,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104061,
@@ -4683,6 +4731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28206,
+      "num": 424829,
+      "word": "每年高考都是出租车司机的职业大考",
+      "onboard_time": 1718003717,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26638,
       "num": 263608,
       "word": "定格在郑州落日下的浪漫",
@@ -4809,14 +4865,6 @@
       "onboard_time": 1717885572,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 13325,
-      "num": 280773,
-      "word": "每年高考都是出租车司机的职业大考",
-      "onboard_time": 1718003717,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12283,
