@@ -1,0 +1,410 @@
+{
+  "runTime": 1717994329121,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1691557,
+        "num": 1691557,
+        "word": "为什么床上总是有沙子",
+        "onboard_time": 1717990817,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 832765,
+        "num": 832765,
+        "word": "哪个臭小子被刘亦菲喜欢过",
+        "onboard_time": 1717984097,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96987,
+        "num": 768410,
+        "word": "赛龙舟为什么能火出圈",
+        "onboard_time": 1717989917,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727742,
+        "num": 727742,
+        "word": "陕西公安发布尸源协查通报",
+        "onboard_time": 1717988177,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638196,
+        "num": 638196,
+        "word": "吃个粽子跑8000米才能消耗掉",
+        "onboard_time": 1717991117,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 579311,
+        "num": 579311,
+        "word": "法国总统宣布解散国民议会",
+        "onboard_time": 1717984097,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 544473,
+        "num": 544473,
+        "word": "喝酒后发现怀孕是否影响胎儿",
+        "onboard_time": 1717975874,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 483573,
+        "num": 483573,
+        "word": "男子火锅店强吻陌生女子被拘10天",
+        "onboard_time": 1717986798,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469034,
+        "num": 469034,
+        "word": "刚考完就有大学生那味了",
+        "onboard_time": 1717988357,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 407315,
+        "num": 407315,
+        "word": "李莎旻子送给凡希亚马面裙",
+        "onboard_time": 1717991957,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673854,
+        "num": 400105,
+        "word": "田曦薇挂脖旗袍",
+        "onboard_time": 1717990757,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378960,
+        "num": 378960,
+        "word": "肖战工作室端午放饭啦",
+        "onboard_time": 1717992978,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370187,
+        "num": 370187,
+        "word": "刘亦菲彭冠英2集亲了15次",
+        "onboard_time": 1717975933,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341696,
+        "num": 341696,
+        "word": "于适新电影",
+        "onboard_time": 1717992138,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320867,
+        "num": 320867,
+        "word": "手机爹",
+        "onboard_time": 1717991477,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307635,
+        "num": 307635,
+        "word": "女子注射400支玻尿酸丰臀致臀部感染",
+        "onboard_time": 1717944259,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296240,
+        "num": 296240,
+        "word": "时代少年团不开演唱会开运动会",
+        "onboard_time": 1717988058,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294903,
+        "num": 294903,
+        "word": "毛利兰人气稳居第一",
+        "onboard_time": 1717979236,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 271148,
+        "num": 271148,
+        "word": "王鹤棣这一幕梦回东方青苍",
+        "onboard_time": 1717991417,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222082,
+        "num": 222082,
+        "word": "端午节",
+        "onboard_time": 1717974613,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38483,
+        "num": 219019,
+        "word": "中国突破的0.1秒至今无人超越",
+        "onboard_time": 1717985477,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268864,
+        "num": 211162,
+        "word": "EXOCBX将告发SM",
+        "onboard_time": 1717984457,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242032,
+        "num": 207931,
+        "word": "长期睡眠不好的人后来怎么样了",
+        "onboard_time": 1717993457,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 225831,
+        "num": 198336,
+        "word": "野孩子 端午和弟弟吃粽子去",
+        "onboard_time": 1717993217,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197892,
+        "num": 197892,
+        "word": "张颂文同学聚会放胡夏那些年哭了",
+        "onboard_time": 1717992138,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187292,
+        "num": 187292,
+        "word": "成毅端午营业照",
+        "onboard_time": 1717993097,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181417,
+        "num": 181417,
+        "word": "天官赐福",
+        "onboard_time": 1717975093,
+        "rank": 26,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 149336,
+        "num": 172789,
+        "word": "曾744分考上清华的他如今怎样了",
+        "onboard_time": 1717975093,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164287,
+        "num": 164287,
+        "word": "张嘉元 高考",
+        "onboard_time": 1717979957,
+        "rank": 28,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 11712,
+        "num": 160459,
+        "word": "美国偷房族",
+        "onboard_time": 1717994118,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160171,
+        "num": 160171,
+        "word": "刘亦菲万茜朱珠cp名",
+        "onboard_time": 1717985358,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159753,
+        "num": 159753,
+        "word": "汤唯最常说的韩语是老公",
+        "onboard_time": 1717980857,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153783,
+        "num": 153783,
+        "word": "甘望星因为跑得快被大学特招",
+        "onboard_time": 1717989737,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148814,
+        "num": 148814,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1717991656,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144411,
+        "num": 144411,
+        "word": "美方承认有无辜者在以军行动中丧生",
+        "onboard_time": 1717985658,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 148702,
+        "num": 143466,
+        "word": "文俊辉STANCE品牌全球代言人",
+        "onboard_time": 1717993637,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139116,
+        "num": 139116,
+        "word": "三大扛剧女王",
+        "onboard_time": 1717976175,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129237,
+        "num": 129237,
+        "word": "王星越事业粉狂喜",
+        "onboard_time": 1717992438,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119136,
+        "num": 119136,
+        "word": "杰伦布朗杀死比赛",
+        "onboard_time": 1717991597,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115756,
+        "num": 115756,
+        "word": "法国",
+        "onboard_time": 1717984397,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 41563,
+        "num": 111705,
+        "word": "被端午吟里的戏腔惊艳了",
+        "onboard_time": 1717988297,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120465,
+        "num": 111252,
+        "word": "13位男嘉宾在节目里吵架16分钟",
+        "onboard_time": 1717985776,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110531,
+        "num": 110531,
+        "word": "许我耀眼",
+        "onboard_time": 1717987758,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109935,
+        "num": 109935,
+        "word": "晨跑时我被一窝小猫选中了",
+        "onboard_time": 1717991656,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108042,
+        "num": 108042,
+        "word": "粽子",
+        "onboard_time": 1717984578,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 42023,
+        "num": 107440,
+        "word": "回顾2024高考难忘瞬间",
+        "onboard_time": 1717994118,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107059,
+        "num": 107059,
+        "word": "玫瑰的故事 这门亲事你同意吗",
+        "onboard_time": 1717994298,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103558,
+        "num": 103558,
+        "word": "端午文案",
+        "onboard_time": 1717974673,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103012,
+        "num": 103012,
+        "word": "欧文对凯尔特人12连败",
+        "onboard_time": 1717988838,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101995,
+        "num": 101995,
+        "word": "玫瑰的故事情感主题曲MV",
+        "onboard_time": 1717989318,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记心系文化和自然遗产保护#"
+    }
+  }
+}

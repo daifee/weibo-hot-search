@@ -1,10 +1,10 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717993533991,
+  "endTime": 1717994329121,
   "band_list": [
     {
-      "raw_hot": 1428835,
-      "num": 1428835,
+      "raw_hot": 1691557,
+      "num": 1691557,
       "word": "为什么床上总是有沙子",
       "onboard_time": 1717990817,
       "rank": 0,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 863832,
-      "num": 243137,
+      "num": 483573,
       "word": "男子火锅店强吻陌生女子被拘10天",
       "onboard_time": 1717986798,
       "rank": 30,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 638196,
+      "num": 638196,
+      "word": "吃个粽子跑8000米才能消耗掉",
+      "onboard_time": 1717991117,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 629502,
       "num": 629502,
       "word": "汤唯最常说的韩语是老公",
@@ -169,14 +177,6 @@
       "onboard_time": 1717984457,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 528200,
-      "num": 528200,
-      "word": "吃个粽子跑8000米才能消耗掉",
-      "onboard_time": 1717991117,
-      "rank": 7,
-      "category": "科学科普"
     },
     {
       "raw_hot": 515583,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 407315,
+      "num": 407315,
+      "word": "李莎旻子送给凡希亚马面裙",
+      "onboard_time": 1717991957,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401078,
       "num": 401078,
       "word": "山东历史",
@@ -251,20 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 399097,
-      "num": 399097,
-      "word": "李莎旻子送给凡希亚马面裙",
-      "onboard_time": 1717991957,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 392503,
       "num": 392503,
       "word": "美方承认有无辜者在以军行动中丧生",
       "onboard_time": 1717985658,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 378960,
+      "num": 378960,
+      "word": "肖战工作室端午放饭啦",
+      "onboard_time": 1717992978,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 369382,
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 341696,
+      "num": 341696,
+      "word": "于适新电影",
+      "onboard_time": 1717992138,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 339577,
       "num": 339577,
       "word": "天官赐福",
@@ -305,6 +321,14 @@
       "onboard_time": 1717977676,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320867,
+      "num": 320867,
+      "word": "手机爹",
+      "onboard_time": 1717991477,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 307781,
@@ -347,8 +371,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269784,
-      "num": 269784,
+      "raw_hot": 271148,
+      "num": 271148,
       "word": "王鹤棣这一幕梦回东方青苍",
       "onboard_time": 1717991417,
       "rank": 16,
@@ -379,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 264351,
-      "num": 264351,
-      "word": "于适新电影",
-      "onboard_time": 1717992138,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 261132,
       "num": 182688,
       "word": "为什么离职的都去新疆了",
@@ -401,14 +417,6 @@
       "onboard_time": 1717985776,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248222,
-      "num": 248222,
-      "word": "手机爹",
-      "onboard_time": 1717991477,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 246485,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242032,
+      "num": 207931,
+      "word": "长期睡眠不好的人后来怎么样了",
+      "onboard_time": 1717993457,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 241467,
       "num": 241467,
       "word": "高考完因为染发和家人大吵了一架",
@@ -435,20 +451,20 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 229429,
-      "num": 229429,
-      "word": "肖战工作室端午放饭啦",
-      "onboard_time": 1717992978,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 228666,
       "num": 228666,
       "word": "端午文案",
       "onboard_time": 1717974673,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 225831,
+      "num": 198336,
+      "word": "野孩子 端午和弟弟吃粽子去",
+      "onboard_time": 1717993217,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 219824,
@@ -571,6 +587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197892,
+      "num": 197892,
+      "word": "张颂文同学聚会放胡夏那些年哭了",
+      "onboard_time": 1717992138,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196708,
       "num": 196708,
       "word": "成毅端午营业照",
@@ -651,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174160,
-      "num": 174160,
-      "word": "张颂文同学聚会放胡夏那些年哭了",
-      "onboard_time": 1717992138,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173787,
       "num": 173787,
       "word": "删了吧有个发量少的朋友破防了",
@@ -691,14 +707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 163835,
-      "num": 163835,
-      "word": "野孩子 端午和弟弟吃粽子去",
-      "onboard_time": 1717993217,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 157535,
       "num": 157535,
       "word": "真的和纸片人结婚了",
@@ -729,6 +737,14 @@
       "onboard_time": 1717991656,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148702,
+      "num": 143466,
+      "word": "文俊辉STANCE品牌全球代言人",
+      "onboard_time": 1717993637,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 148078,
@@ -1011,6 +1027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107059,
+      "num": 107059,
+      "word": "玫瑰的故事 这门亲事你同意吗",
+      "onboard_time": 1717994298,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106968,
       "num": 836341,
       "word": "赛龙舟为什么能火出圈",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1717941620,
       "rank": 37,
       "category": "剧集,教育"
-    },
-    {
-      "raw_hot": 106479,
-      "num": 106479,
-      "word": "长期睡眠不好的人后来怎么样了",
-      "onboard_time": 1717993457,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 105343,
@@ -1355,6 +1371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42023,
+      "num": 107440,
+      "word": "回顾2024高考难忘瞬间",
+      "onboard_time": 1717994118,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 39947,
       "num": 39947,
       "word": "胡夏把清华电视踢翻了",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1717969212,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 11712,
+      "num": 160459,
+      "word": "美国偷房族",
+      "onboard_time": 1717994118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10823,

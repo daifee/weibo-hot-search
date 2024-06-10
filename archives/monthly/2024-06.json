@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717993533991,
+  "endTime": 1717994329121,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1691557,
+      "num": 1691557,
+      "word": "为什么床上总是有沙子",
+      "onboard_time": 1717990817,
+      "rank": 0,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1684154,
       "num": 1684154,
       "word": "故意考0分考生承认想当网红",
@@ -801,14 +809,6 @@
       "onboard_time": 1717292896,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1428835,
-      "num": 1428835,
-      "word": "为什么床上总是有沙子",
-      "onboard_time": 1717990817,
-      "rank": 0,
-      "category": "科学科普"
     },
     {
       "raw_hot": 1427896,
@@ -2132,7 +2132,7 @@
     },
     {
       "raw_hot": 863832,
-      "num": 243137,
+      "num": 483573,
       "word": "男子火锅店强吻陌生女子被拘10天",
       "onboard_time": 1717986798,
       "rank": 30,
@@ -3691,6 +3691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 638196,
+      "num": 638196,
+      "word": "吃个粽子跑8000米才能消耗掉",
+      "onboard_time": 1717991117,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 635087,
       "num": 635087,
       "word": "四川地震",
@@ -4785,14 +4793,6 @@
       "onboard_time": 1717804395,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 528200,
-      "num": 528200,
-      "word": "吃个粽子跑8000米才能消耗掉",
-      "onboard_time": 1717991117,
-      "rank": 7,
-      "category": "科学科普"
     },
     {
       "raw_hot": 528183,
@@ -6683,6 +6683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407315,
+      "num": 407315,
+      "word": "李莎旻子送给凡希亚马面裙",
+      "onboard_time": 1717991957,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407139,
       "num": 478874,
       "word": "玫瑰的故事好多美女",
@@ -6817,14 +6825,6 @@
       "onboard_time": 1717981817,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399097,
-      "num": 399097,
-      "word": "李莎旻子送给凡希亚马面裙",
-      "onboard_time": 1717991957,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 398496,
@@ -7201,6 +7201,14 @@
       "onboard_time": 1717311917,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 378960,
+      "num": 378960,
+      "word": "肖战工作室端午放饭啦",
+      "onboard_time": 1717992978,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 378661,
@@ -7979,6 +7987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341696,
+      "num": 341696,
+      "word": "于适新电影",
+      "onboard_time": 1717992138,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 341372,
       "num": 341372,
       "word": "25年前故意考0分考生重新高考",
@@ -8457,6 +8473,14 @@
       "onboard_time": 1717331179,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320867,
+      "num": 320867,
+      "word": "手机爹",
+      "onboard_time": 1717991477,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 320860,
@@ -9843,6 +9867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 271148,
+      "num": 271148,
+      "word": "王鹤棣这一幕梦回东方青苍",
+      "onboard_time": 1717991417,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271020,
       "num": 225061,
       "word": "白鹿粉丝带编发",
@@ -9897,14 +9929,6 @@
       "onboard_time": 1717837038,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269784,
-      "num": 269784,
-      "word": "王鹤棣这一幕梦回东方青苍",
-      "onboard_time": 1717991417,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 269497,
@@ -10129,14 +10153,6 @@
       "onboard_time": 1717437552,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264351,
-      "num": 264351,
-      "word": "于适新电影",
-      "onboard_time": 1717992138,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 263639,
@@ -10611,14 +10627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 248222,
-      "num": 248222,
-      "word": "手机爹",
-      "onboard_time": 1717991477,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 247881,
       "num": 232978,
       "word": "鞠婧祎初恋丸子头",
@@ -10833,6 +10841,14 @@
       "onboard_time": 1717924037,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242032,
+      "num": 207931,
+      "word": "长期睡眠不好的人后来怎么样了",
+      "onboard_time": 1717993457,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 241467,
@@ -11307,14 +11323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229429,
-      "num": 229429,
-      "word": "肖战工作室端午放饭啦",
-      "onboard_time": 1717992978,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 229096,
       "num": 229096,
       "word": "中国女排澳门站2胜2负",
@@ -11513,6 +11521,14 @@
       "onboard_time": 1717899496,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225831,
+      "num": 198336,
+      "word": "野孩子 端午和弟弟吃粽子去",
+      "onboard_time": 1717993217,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 225658,
@@ -13579,6 +13595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197892,
+      "num": 197892,
+      "word": "张颂文同学聚会放胡夏那些年哭了",
+      "onboard_time": 1717992138,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197876,
       "num": 197876,
       "word": "2024高考开考",
@@ -15635,14 +15659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174160,
-      "num": 174160,
-      "word": "张颂文同学聚会放胡夏那些年哭了",
-      "onboard_time": 1717992138,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173914,
       "num": 173914,
       "word": "北京WB许诺",
@@ -16545,14 +16561,6 @@
       "onboard_time": 1717386558,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 163835,
-      "num": 163835,
-      "word": "野孩子 端午和弟弟吃粽子去",
-      "onboard_time": 1717993217,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 163760,
@@ -18121,6 +18129,14 @@
       "onboard_time": 1717305017,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148702,
+      "num": 143466,
+      "word": "文俊辉STANCE品牌全球代言人",
+      "onboard_time": 1717993637,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 148547,
@@ -22619,6 +22635,14 @@
       "category": "游戏,演出"
     },
     {
+      "raw_hot": 107059,
+      "num": 107059,
+      "word": "玫瑰的故事 这门亲事你同意吗",
+      "onboard_time": 1717994298,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107027,
       "num": 107027,
       "word": "少年夫妻纯爱变质",
@@ -22689,14 +22713,6 @@
       "onboard_time": 1717276451,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106479,
-      "num": 106479,
-      "word": "长期睡眠不好的人后来怎么样了",
-      "onboard_time": 1717993457,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 106460,
@@ -26235,6 +26251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42023,
+      "num": 107440,
+      "word": "回顾2024高考难忘瞬间",
+      "onboard_time": 1717994118,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 41920,
       "num": 444379,
       "word": "原来大熊猫爱干净也是娘胎里带的",
@@ -27777,6 +27801,14 @@
       "onboard_time": 1717692435,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 11712,
+      "num": 160459,
+      "word": "美国偷房族",
+      "onboard_time": 1717994118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11543,
