@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718022994296,
+  "endTime": 1718023929501,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1571,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1090804,
+      "num": 550692,
+      "word": "96年28岁其实挺小的",
+      "onboard_time": 1718018057,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1089979,
       "num": 1089979,
       "word": "伊利",
@@ -1769,14 +1777,6 @@
       "onboard_time": 1717838658,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1005328,
-      "num": 277273,
-      "word": "96年28岁其实挺小的",
-      "onboard_time": 1718018057,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 1005052,
@@ -2795,6 +2795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 752466,
+      "num": 620571,
+      "word": "彭冠英下线林更新上线",
+      "onboard_time": 1718021839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 751314,
       "num": 585642,
       "word": "魔兽世界技术测试定档",
@@ -2849,6 +2857,14 @@
       "onboard_time": 1717396397,
       "rank": 12,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 746531,
+      "num": 669609,
+      "word": "庄国栋有未婚妻",
+      "onboard_time": 1718018897,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 746372,
@@ -3040,14 +3056,6 @@
       "word": "刘亦菲美得劈头盖脸的",
       "onboard_time": 1717862479,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 722840,
-      "num": 669609,
-      "word": "庄国栋有未婚妻",
-      "onboard_time": 1718018897,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -3667,6 +3675,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 655084,
+      "num": 655084,
+      "word": "黑神话",
+      "onboard_time": 1717752921,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 654717,
       "num": 263372,
       "word": "范玮琪正式复出",
@@ -3697,14 +3713,6 @@
       "onboard_time": 1717385359,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 651855,
-      "num": 651855,
-      "word": "黑神话",
-      "onboard_time": 1717752921,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 651369,
@@ -4635,6 +4643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562118,
+      "num": 306042,
+      "word": "墨雨云间这段刘亦菲10年前就意识到了",
+      "onboard_time": 1718021297,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 560081,
       "num": 267053,
       "word": "原来香港请假是不需要理由的",
@@ -4737,6 +4753,14 @@
       "onboard_time": 1717930158,
       "rank": 7,
       "category": "网红,教育"
+    },
+    {
+      "raw_hot": 550597,
+      "num": 550597,
+      "word": "张艺兴一口气发了12首新歌试听",
+      "onboard_time": 1718020218,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 548762,
@@ -5411,14 +5435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 500025,
-      "num": 225916,
-      "word": "墨雨云间这段刘亦菲10年前就意识到了",
-      "onboard_time": 1718021297,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 500014,
       "num": 500014,
       "word": "王雪峰被控受贿8407万余元",
@@ -5569,14 +5585,6 @@
       "onboard_time": 1717589779,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 490979,
-      "num": 251123,
-      "word": "张艺兴一口气发了12首新歌试听",
-      "onboard_time": 1718020218,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 490343,
@@ -5825,14 +5833,6 @@
       "onboard_time": 1717308318,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472146,
-      "num": 228093,
-      "word": "彭冠英下线林更新上线",
-      "onboard_time": 1718021839,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 471975,
@@ -8979,6 +8979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318716,
+      "num": 216241,
+      "word": "在爸爸去世后我发现了收养证明",
+      "onboard_time": 1718021478,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 317950,
       "num": 317950,
       "word": "今天芒种应该吃点啥",
@@ -9627,6 +9635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 293877,
+      "num": 204239,
+      "word": "Angelababy汉服少女",
+      "onboard_time": 1718023037,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293707,
       "num": 293707,
       "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
@@ -10041,6 +10057,14 @@
       "onboard_time": 1717824138,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 279362,
+      "num": 203917,
+      "word": "杨紫李现国色芳华没有停拍",
+      "onboard_time": 1718023339,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 278989,
@@ -10584,14 +10608,6 @@
       "word": "25岁在出租屋躺了两年",
       "onboard_time": 1717802174,
       "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 265910,
-      "num": 216241,
-      "word": "在爸爸去世后我发现了收养证明",
-      "onboard_time": 1718021478,
-      "rank": 25,
       "category": "情感"
     },
     {
@@ -11611,6 +11627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 236698,
+      "num": 236698,
+      "word": "因为是牛马所以换公司叫跳槽",
+      "onboard_time": 1718020938,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236592,
       "num": 1030001,
       "word": "五星红旗在月球背面成功展开",
@@ -11793,6 +11817,14 @@
       "onboard_time": 1717306278,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232709,
+      "num": 232709,
+      "word": "OMG",
+      "onboard_time": 1718021897,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 232653,
@@ -12235,14 +12267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223452,
-      "num": 223452,
-      "word": "因为是牛马所以换公司叫跳槽",
-      "onboard_time": 1718020938,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223402,
       "num": 223402,
       "word": "李白去年怎么没来",
@@ -12377,6 +12401,14 @@
       "onboard_time": 1717543275,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220645,
+      "num": 201989,
+      "word": "林更新丁宁互关了",
+      "onboard_time": 1718023218,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 220524,
@@ -12715,6 +12747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215560,
+      "num": 201641,
+      "word": "黄亦玫苏苏这门亲事我同意",
+      "onboard_time": 1718022617,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215525,
       "num": 215525,
       "word": "宋亚轩严浩翔贺峻霖跳晚安大小姐",
@@ -12825,14 +12865,6 @@
       "onboard_time": 1717816098,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 213185,
-      "num": 213185,
-      "word": "OMG",
-      "onboard_time": 1718021897,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 212942,
@@ -13409,6 +13441,14 @@
       "onboard_time": 1717767621,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206262,
+      "num": 206262,
+      "word": "BLG",
+      "onboard_time": 1718023279,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 206190,
@@ -15059,6 +15099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189902,
+      "num": 203565,
+      "word": "你的考公对手可能是你老师",
+      "onboard_time": 1718022318,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 189860,
       "num": 189860,
       "word": "南宁一教官多次将男孩头按进水里",
@@ -15531,6 +15579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185347,
+      "num": 176196,
+      "word": "BTS成员为迎接金硕珍退伍申请休假",
+      "onboard_time": 1718020997,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185332,
       "num": 185332,
       "word": "甘望星因为跑得快被大学特招",
@@ -15737,14 +15793,6 @@
       "onboard_time": 1717902857,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182166,
-      "num": 182166,
-      "word": "黄亦玫苏苏这门亲事我同意",
-      "onboard_time": 1718022617,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 181991,
@@ -16217,14 +16265,6 @@
       "onboard_time": 1717475841,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 176196,
-      "num": 176196,
-      "word": "BTS成员为迎接金硕珍退伍申请休假",
-      "onboard_time": 1718020997,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 176195,
@@ -16811,6 +16851,14 @@
       "category": "健康医疗,互联网"
     },
     {
+      "raw_hot": 170190,
+      "num": 130252,
+      "word": "黄日莹回应脸部受伤",
+      "onboard_time": 1718023758,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170142,
       "num": 170142,
       "word": "尚雯婕清唱bangbang",
@@ -17057,14 +17105,6 @@
       "onboard_time": 1717477697,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167035,
-      "num": 167035,
-      "word": "你的考公对手可能是你老师",
-      "onboard_time": 1718022318,
-      "rank": 36,
-      "category": "教育"
     },
     {
       "raw_hot": 166992,
@@ -19371,6 +19411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 146363,
+      "num": 129907,
+      "word": "魏晨坦言不喜欢自己",
+      "onboard_time": 1718021237,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146263,
       "num": 150031,
       "word": "高考倒计时5天",
@@ -19843,6 +19891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142218,
+      "num": 138588,
+      "word": "阿狸啊阿狸别看玫瑰了",
+      "onboard_time": 1718021658,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142201,
       "num": 142201,
       "word": "刘忻 我在乎的是王霏霏这个人",
@@ -20281,14 +20337,6 @@
       "onboard_time": 1717385538,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 138588,
-      "num": 138588,
-      "word": "阿狸啊阿狸别看玫瑰了",
-      "onboard_time": 1718021658,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 138462,
@@ -21817,6 +21865,14 @@
       "onboard_time": 1717584558,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125318,
+      "num": 125318,
+      "word": "人生中最爽的三个月",
+      "onboard_time": 1718023578,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 125292,
@@ -25683,6 +25739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75291,
+      "num": 223495,
+      "word": "院长嫉妒的新三大坊轮椅",
+      "onboard_time": 1718019258,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75194,
       "num": 75194,
       "word": "刘亦菲19岁时的采访",
@@ -25928,14 +25992,6 @@
       "word": "孟庭苇叫赵丽颖颖宝",
       "onboard_time": 1717971191,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 71108,
-      "num": 223495,
-      "word": "院长嫉妒的新三大坊轮椅",
-      "onboard_time": 1718019258,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -27004,7 +27060,7 @@
     },
     {
       "raw_hot": 52450,
-      "num": 328844,
+      "num": 551107,
       "word": "大三女生捐造血干细胞说没啥可犹豫的",
       "onboard_time": 1718012717,
       "rank": 9,
