@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718055352804,
+  "endTime": 1718057964501,
   "band_list": [
     {
       "raw_hot": 1503435,
@@ -155,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201199,
+      "num": 201199,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181020,
       "num": 169943,
       "word": "万茜好帅",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 129390,
-      "num": 66325,
+      "num": 121750,
       "word": "女子掉进西湖冷静躺平等救援",
       "onboard_time": 1718039054,
       "rank": 39,
@@ -315,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97262,
-      "num": 97262,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 94856,
       "num": 88782,
       "word": "张颂文 咸粽第一",
@@ -377,6 +377,14 @@
       "onboard_time": 1718009897,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 80380,
+      "num": 53277,
+      "word": "庄国栋是最后的赢家吗",
+      "onboard_time": 1718050091,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 79272,
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42466,
+      "num": 42466,
+      "word": "维密门店大量关闭",
+      "onboard_time": 1718055612,
+      "rank": 17,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 41576,
       "num": 41576,
       "word": "不喜欢小孩的人生孩子后的心态变化",
@@ -483,44 +499,52 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 30302,
-      "num": 30302,
-      "word": "你俩都到互穿里衣的程度了",
-      "onboard_time": 1718018179,
-      "rank": 37,
+      "raw_hot": 37861,
+      "num": 37861,
+      "word": "人民网评玫瑰的故事",
+      "onboard_time": 1718027059,
+      "rank": 29,
       "category": "剧集"
     },
     {
-      "raw_hot": 29304,
-      "num": 29304,
-      "word": "庄国栋是最后的赢家吗",
-      "onboard_time": 1718050091,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 23917,
-      "num": 23917,
+      "raw_hot": 37420,
+      "num": 37420,
       "word": "心疼孙丞潇",
       "onboard_time": 1718052491,
       "rank": 33,
       "category": "综艺"
     },
     {
-      "raw_hot": 21730,
-      "num": 21730,
+      "raw_hot": 33561,
+      "num": 33561,
+      "word": "你俩都到互穿里衣的程度了",
+      "onboard_time": 1718018179,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25384,
+      "num": 25384,
       "word": "小猫咪的额头不能随便摸",
       "onboard_time": 1718050510,
       "rank": 47,
       "category": "幽默"
     },
     {
-      "raw_hot": 21199,
-      "num": 22076,
-      "word": "人民网评玫瑰的故事",
-      "onboard_time": 1718027059,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 22749,
+      "num": 22749,
+      "word": "唐诗逸让女战神具象化了",
+      "onboard_time": 1718057111,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19184,
+      "num": 21611,
+      "word": "欧洲议会选举",
+      "onboard_time": 1718051591,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 18768,
@@ -531,12 +555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15978,
-      "num": 15978,
+      "raw_hot": 17803,
+      "num": 21605,
       "word": "北方人的梦魇南方人的团建",
       "onboard_time": 1718047451,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 16178,
+      "num": 133473,
+      "word": "龙舟经济火爆",
+      "onboard_time": 1718027059,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15933,
@@ -555,28 +587,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 14459,
-      "num": 133473,
-      "word": "龙舟经济火爆",
-      "onboard_time": 1718027059,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14347,
       "num": 47476,
       "word": "高考结束消防员架起水门祝福考生",
       "onboard_time": 1718037675,
       "rank": 41,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 13982,
-      "num": 15240,
-      "word": "欧洲议会选举",
-      "onboard_time": 1718051591,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 9490,
