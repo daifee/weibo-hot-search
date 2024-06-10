@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717987017121,
+  "endTime": 1717987592650,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1119281,
+      "num": 1119281,
+      "word": "哪个臭小子被刘亦菲喜欢过",
+      "onboard_time": 1717984097,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1088011,
       "num": 1088011,
       "word": "刘亦菲36岁演22岁女大学生",
@@ -169,14 +177,6 @@
       "onboard_time": 1717932017,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 975791,
-      "num": 975791,
-      "word": "哪个臭小子被刘亦菲喜欢过",
-      "onboard_time": 1717984097,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 959650,
@@ -843,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 406389,
+      "num": 230355,
+      "word": "男子火锅店强吻陌生女子被拘10天",
+      "onboard_time": 1717986798,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403283,
       "num": 403283,
       "word": "墨雨云间",
@@ -913,6 +921,14 @@
       "onboard_time": 1717915997,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 381371,
+      "num": 372883,
+      "word": "美方承认有无辜者在以军行动中丧生",
+      "onboard_time": 1717985658,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 379803,
@@ -1219,14 +1235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 294490,
-      "num": 294490,
-      "word": "美方承认有无辜者在以军行动中丧生",
-      "onboard_time": 1717985658,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -1371,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256911,
+      "num": 249579,
+      "word": "13位男嘉宾在节目里吵架16分钟",
+      "onboard_time": 1717985776,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256491,
       "num": 256491,
       "word": "刘亦菲至今没结婚的原因",
@@ -1384,14 +1400,6 @@
       "word": "袁娅维 导演组你什么意思",
       "onboard_time": 1717888273,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 249579,
-      "num": 249579,
-      "word": "13位男嘉宾在节目里吵架16分钟",
-      "onboard_time": 1717985776,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1417,6 +1425,14 @@
       "onboard_time": 1717909457,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 244479,
+      "num": 244479,
+      "word": "刘亦菲万茜朱珠cp名",
+      "onboard_time": 1717985358,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 242322,
@@ -1523,14 +1539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219086,
-      "num": 219086,
-      "word": "刘亦菲万茜朱珠cp名",
-      "onboard_time": 1717985358,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218967,
       "num": 177863,
       "word": "刘宇宁说迪丽热巴是维秘天使",
@@ -1569,6 +1577,14 @@
       "onboard_time": 1717918697,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 212748,
+      "num": 212748,
+      "word": "周扬青get奚梦瑶戛纳同款发型师",
+      "onboard_time": 1717983796,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 212137,
@@ -1627,14 +1643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208276,
-      "num": 208276,
-      "word": "周扬青get奚梦瑶戛纳同款发型师",
-      "onboard_time": 1717983796,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208199,
       "num": 208199,
       "word": "马嘉祺新歌",
@@ -1675,12 +1683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202625,
+      "num": 202625,
+      "word": "TF家族官宣夏日运动会",
+      "onboard_time": 1717987278,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202483,
       "num": 202483,
       "word": "走走停停",
       "onboard_time": 1717938199,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202464,
+      "num": 202464,
+      "word": "珠帘玉幕首发剧照",
+      "onboard_time": 1717987099,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 201922,
@@ -1859,14 +1883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187729,
-      "num": 187059,
-      "word": "男子火锅店强吻陌生女子被拘10天",
-      "onboard_time": 1717986798,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187596,
       "num": 187596,
       "word": "FIBA",
@@ -2011,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178261,
+      "num": 178261,
+      "word": "欧文16分",
+      "onboard_time": 1717987338,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178183,
       "num": 178183,
       "word": "马嘉祺新歌蜉蝣",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1717905198,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176337,
+      "num": 176337,
+      "word": "凯尔特人2比0独行侠",
+      "onboard_time": 1717987458,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 175881,
@@ -2827,6 +2859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116303,
+      "num": 116303,
+      "word": "山东历史选择 难",
+      "onboard_time": 1717986317,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 116287,
       "num": 116287,
       "word": "薛芳菲做了片刻的自己",
@@ -2849,14 +2889,6 @@
       "onboard_time": 1717935558,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115591,
-      "num": 115591,
-      "word": "山东历史选择 难",
-      "onboard_time": 1717986317,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 115432,
@@ -3233,6 +3265,14 @@
       "onboard_time": 1717888032,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84321,
+      "num": 372948,
+      "word": "中国突破的0.1秒至今无人超越",
+      "onboard_time": 1717985477,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 84206,
