@@ -1,0 +1,410 @@
+{
+  "runTime": 1717983834762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1118486,
+        "num": 1118486,
+        "word": "喝酒后发现怀孕是否影响胎儿",
+        "onboard_time": 1717975874,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 789946,
+        "num": 789946,
+        "word": "刘亦菲彭冠英2集亲了15次",
+        "onboard_time": 1717975933,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115775,
+        "num": 712219,
+        "word": "一批诋毁企业形象账号被处置",
+        "onboard_time": 1717945819,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701237,
+        "num": 701237,
+        "word": "三大扛剧女王",
+        "onboard_time": 1717976175,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 678516,
+        "num": 678516,
+        "word": "毛利兰人气稳居第一",
+        "onboard_time": 1717979236,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 448340,
+        "num": 633125,
+        "word": "女子注射400支玻尿酸丰臀致臀部感染",
+        "onboard_time": 1717944259,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629502,
+        "num": 629502,
+        "word": "汤唯最常说的韩语是老公",
+        "onboard_time": 1717980857,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609832,
+        "num": 609832,
+        "word": "端午节",
+        "onboard_time": 1717974613,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 399184,
+        "num": 562697,
+        "word": "五彩绳",
+        "onboard_time": 1717981817,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90564,
+        "num": 541152,
+        "word": "今天包个粽子",
+        "onboard_time": 1717982537,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 538519,
+        "num": 538519,
+        "word": "经常吃水煮蛋是养肝还是伤肝",
+        "onboard_time": 1717944799,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471943,
+        "num": 471943,
+        "word": "张嘉元 高考",
+        "onboard_time": 1717979957,
+        "rank": 11,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 369382,
+        "num": 369382,
+        "word": "甘茨宣布退出以色列战时内阁",
+        "onboard_time": 1717979176,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 341796,
+        "num": 341796,
+        "word": "黄景瑜穿了不如不穿",
+        "onboard_time": 1717975994,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338398,
+        "num": 338398,
+        "word": "女子厕所装百叶窗走光3年浑然不知",
+        "onboard_time": 1717941979,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338266,
+        "num": 338266,
+        "word": "天官赐福",
+        "onboard_time": 1717975093,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 301363,
+        "num": 301363,
+        "word": "杨幂工作室抠图",
+        "onboard_time": 1717977676,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278632,
+        "num": 278632,
+        "word": "董宇辉称非常反感被叫网红",
+        "onboard_time": 1717959731,
+        "rank": 17,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 247896,
+        "num": 247896,
+        "word": "黄亦玫加班后关电脑没存档",
+        "onboard_time": 1717976175,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140206,
+        "num": 233726,
+        "word": "NBA",
+        "onboard_time": 1717982058,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 431197,
+        "num": 231656,
+        "word": "曾744分考上清华的他如今怎样了",
+        "onboard_time": 1717975093,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228604,
+        "num": 228604,
+        "word": "端午文案",
+        "onboard_time": 1717974673,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216669,
+        "num": 216669,
+        "word": "吴谨言 爽文大女主",
+        "onboard_time": 1717982476,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213662,
+        "num": 213662,
+        "word": "王星越墨雨云间彻底上桌了",
+        "onboard_time": 1717975694,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211221,
+        "num": 211221,
+        "word": "女孩骑车被卷入大车车底不幸身亡",
+        "onboard_time": 1717976475,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199104,
+        "num": 199104,
+        "word": "TheShy确定明年复出",
+        "onboard_time": 1717981876,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185763,
+        "num": 185763,
+        "word": "端午安康",
+        "onboard_time": 1717974493,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183076,
+        "num": 183076,
+        "word": "原来父母是能帮孩子隐瞒成绩的",
+        "onboard_time": 1717979778,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178183,
+        "num": 178183,
+        "word": "马嘉祺新歌蜉蝣",
+        "onboard_time": 1717982836,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173787,
+        "num": 173787,
+        "word": "删了吧有个发量少的朋友破防了",
+        "onboard_time": 1717977496,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169142,
+        "num": 169142,
+        "word": "高考完因为染发和家人大吵了一架",
+        "onboard_time": 1717977015,
+        "rank": 30,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 165684,
+        "num": 165684,
+        "word": "新女团成员上节目被开黄腔",
+        "onboard_time": 1717939458,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164771,
+        "num": 164771,
+        "word": "朱珠研究生毕业",
+        "onboard_time": 1717978755,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150628,
+        "num": 150628,
+        "word": "TFBOYS十一周年一定要办",
+        "onboard_time": 1717975874,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147622,
+        "num": 147622,
+        "word": "为什么和巧克力一起嚼口香糖会消失",
+        "onboard_time": 1717978575,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135909,
+        "num": 135909,
+        "word": "殷罡逝世",
+        "onboard_time": 1717960452,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129320,
+        "num": 129320,
+        "word": "妈妈说填志愿一切都听女儿的",
+        "onboard_time": 1717981456,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125665,
+        "num": 125665,
+        "word": "端午节也叫娃娃节",
+        "onboard_time": 1717976113,
+        "rank": 37,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 124336,
+        "num": 124336,
+        "word": "小警犬因太友好而被开除",
+        "onboard_time": 1717943840,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116661,
+        "num": 116661,
+        "word": "端午壁纸",
+        "onboard_time": 1717982777,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115557,
+        "num": 115557,
+        "word": "老破小二手房突然火了",
+        "onboard_time": 1717944620,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114145,
+        "num": 114145,
+        "word": "高铁上拒绝了宝妈的换座要求",
+        "onboard_time": 1717937717,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113950,
+        "num": 113950,
+        "word": "JDG回应无畏赛程安排",
+        "onboard_time": 1717980797,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113780,
+        "num": 113780,
+        "word": "不接陌生电话但是要去微信搜",
+        "onboard_time": 1717937238,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109783,
+        "num": 109783,
+        "word": "刘亦菲头像",
+        "onboard_time": 1717948399,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104061,
+        "num": 104061,
+        "word": "阿尔卡拉斯3比2兹维列夫",
+        "onboard_time": 1717982836,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103484,
+        "num": 103484,
+        "word": "彭冠英嘻嘻徐海乔不嘻嘻",
+        "onboard_time": 1717944919,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103314,
+        "num": 103314,
+        "word": "2024端午来啦",
+        "onboard_time": 1717945999,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101592,
+        "num": 101592,
+        "word": "aespa7月回归预告照",
+        "onboard_time": 1717981217,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 97296,
+        "num": 97296,
+        "word": "周扬青get奚梦瑶戛纳同款发型师",
+        "onboard_time": 1717983796,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#要让更多文物和文化遗产活起来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717982536400,
+  "endTime": 1717983834762,
   "band_list": [
     {
       "raw_hot": 1181477,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1027798,
-      "num": 585101,
+      "num": 633125,
       "word": "女子注射400支玻尿酸丰臀致臀部感染",
       "onboard_time": 1717944259,
       "rank": 3,
@@ -36,19 +36,27 @@
     },
     {
       "raw_hot": 801416,
-      "num": 607213,
+      "num": 701237,
       "word": "三大扛剧女王",
       "onboard_time": 1717976175,
       "rank": 3,
       "category": "剧集"
     },
     {
-      "raw_hot": 788549,
-      "num": 788549,
+      "raw_hot": 789946,
+      "num": 789946,
       "word": "刘亦菲彭冠英2集亲了15次",
       "onboard_time": 1717975933,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 678516,
+      "num": 678516,
+      "word": "毛利兰人气稳居第一",
+      "onboard_time": 1717979236,
+      "rank": 8,
+      "category": "动漫"
     },
     {
       "raw_hot": 658673,
@@ -59,8 +67,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 602614,
-      "num": 602614,
+      "raw_hot": 629502,
+      "num": 629502,
+      "word": "汤唯最常说的韩语是老公",
+      "onboard_time": 1717980857,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 609832,
+      "num": 609832,
       "word": "端午节",
       "onboard_time": 1717974613,
       "rank": 1,
@@ -73,14 +89,6 @@
       "onboard_time": 1717944799,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 517714,
-      "num": 517714,
-      "word": "汤唯最常说的韩语是老公",
-      "onboard_time": 1717980857,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 515583,
@@ -107,12 +115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 468844,
-      "num": 468844,
-      "word": "毛利兰人气稳居第一",
-      "onboard_time": 1717979236,
-      "rank": 8,
-      "category": "动漫"
+      "raw_hot": 471943,
+      "num": 471943,
+      "word": "张嘉元 高考",
+      "onboard_time": 1717979957,
+      "rank": 11,
+      "category": "艺人,教育"
     },
     {
       "raw_hot": 457553,
@@ -139,12 +147,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 421474,
-      "num": 421474,
-      "word": "张嘉元 高考",
-      "onboard_time": 1717979957,
-      "rank": 11,
-      "category": "艺人,教育"
+      "raw_hot": 399184,
+      "num": 562697,
+      "word": "五彩绳",
+      "onboard_time": 1717981817,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 369382,
+      "num": 369382,
+      "word": "甘茨宣布退出以色列战时内阁",
+      "onboard_time": 1717979176,
+      "rank": 14,
+      "category": "国外时政"
     },
     {
       "raw_hot": 368667,
@@ -153,14 +169,6 @@
       "onboard_time": 1717945218,
       "rank": 6,
       "category": "剧集,教育"
-    },
-    {
-      "raw_hot": 352418,
-      "num": 352418,
-      "word": "甘茨宣布退出以色列战时内阁",
-      "onboard_time": 1717979176,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 349404,
@@ -283,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216669,
+      "num": 216669,
+      "word": "吴谨言 爽文大女主",
+      "onboard_time": 1717982476,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212137,
       "num": 241758,
       "word": "殷罡逝世",
@@ -307,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207282,
-      "num": 207282,
-      "word": "五彩绳",
-      "onboard_time": 1717981817,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201670,
       "num": 201670,
       "word": "端午安康",
@@ -331,8 +339,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 192347,
-      "num": 192347,
+      "raw_hot": 199104,
+      "num": 199104,
       "word": "TheShy确定明年复出",
       "onboard_time": 1717981876,
       "rank": 28,
@@ -363,20 +371,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 178183,
+      "num": 178183,
+      "word": "马嘉祺新歌蜉蝣",
+      "onboard_time": 1717982836,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 173787,
+      "num": 173787,
+      "word": "删了吧有个发量少的朋友破防了",
+      "onboard_time": 1717977496,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171680,
       "num": 171680,
       "word": "3个洗碗坏习惯或增加患癌风险",
       "onboard_time": 1717947738,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 159085,
-      "num": 159085,
-      "word": "删了吧有个发量少的朋友破防了",
-      "onboard_time": 1717977496,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 157535,
@@ -395,12 +411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150628,
+      "num": 150628,
+      "word": "TFBOYS十一周年一定要办",
+      "onboard_time": 1717975874,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148078,
-      "num": 148078,
+      "num": 233726,
       "word": "NBA",
       "onboard_time": 1717982058,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147622,
+      "num": 147622,
+      "word": "为什么和巧克力一起嚼口香糖会消失",
+      "onboard_time": 1717978575,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 146836,
@@ -451,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133973,
-      "num": 133973,
-      "word": "TFBOYS十一周年一定要办",
-      "onboard_time": 1717975874,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133223,
       "num": 133223,
       "word": "他做饭他被骂他委屈巴巴",
@@ -475,12 +499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129320,
+      "num": 462444,
+      "word": "妈妈说填志愿一切都听女儿的",
+      "onboard_time": 1717981456,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128582,
       "num": 117777,
       "word": "紧急提醒这种粽子绳有毒",
       "onboard_time": 1717950017,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 125665,
+      "num": 125665,
+      "word": "端午节也叫娃娃节",
+      "onboard_time": 1717976113,
+      "rank": 38,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 124845,
@@ -497,22 +537,6 @@
       "onboard_time": 1717934297,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122259,
-      "num": 122259,
-      "word": "端午节也叫娃娃节",
-      "onboard_time": 1717976113,
-      "rank": 38,
-      "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 122007,
-      "num": 122007,
-      "word": "为什么和巧克力一起嚼口香糖会消失",
-      "onboard_time": 1717978575,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 121659,
@@ -539,12 +563,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116661,
+      "num": 116661,
+      "word": "端午壁纸",
+      "onboard_time": 1717982777,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115775,
+      "num": 712219,
+      "word": "一批诋毁企业形象账号被处置",
+      "onboard_time": 1717945819,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114240,
       "num": 114240,
       "word": "郭艾伦范志毅太有梗了",
       "onboard_time": 1717981637,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113950,
+      "num": 113950,
+      "word": "JDG回应无畏赛程安排",
+      "onboard_time": 1717980797,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 112832,
@@ -579,22 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110094,
-      "num": 110094,
-      "word": "JDG回应无畏赛程安排",
-      "onboard_time": 1717980797,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 108393,
-      "num": 108393,
-      "word": "吴谨言 爽文大女主",
-      "onboard_time": 1717982476,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106677,
       "num": 106677,
       "word": "高考生催更墨雨云间",
@@ -603,12 +635,12 @@
       "category": "剧集,教育"
     },
     {
-      "raw_hot": 103782,
-      "num": 610335,
-      "word": "一批诋毁企业形象账号被处置",
-      "onboard_time": 1717945819,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 104061,
+      "num": 104061,
+      "word": "阿尔卡拉斯3比2兹维列夫",
+      "onboard_time": 1717982836,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 103093,
@@ -617,6 +649,14 @@
       "onboard_time": 1717950197,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101592,
+      "num": 101592,
+      "word": "aespa7月回归预告照",
+      "onboard_time": 1717981217,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 100517,
@@ -635,12 +675,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97296,
+      "num": 97296,
+      "word": "周扬青get奚梦瑶戛纳同款发型师",
+      "onboard_time": 1717983796,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95961,
       "num": 99772,
       "word": "原伟东称曾遭牙签扎指甲逼供",
       "onboard_time": 1717954333,
       "rank": 24,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 90564,
+      "num": 541152,
+      "word": "今天包个粽子",
+      "onboard_time": 1717982537,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 89896,
@@ -728,14 +784,6 @@
       "word": "郑州一小区发生火灾造成4人遇难",
       "onboard_time": 1717934777,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67584,
-      "num": 462444,
-      "word": "妈妈说填志愿一切都听女儿的",
-      "onboard_time": 1717981456,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
