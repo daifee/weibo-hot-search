@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718044686017,
+  "endTime": 1718046965672,
   "band_list": [
     {
       "raw_hot": 1503435,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 129390,
-      "num": 64336,
+      "num": 66325,
       "word": "女子掉进西湖冷静躺平等救援",
       "onboard_time": 1718039054,
       "rank": 39,
@@ -257,6 +257,14 @@
       "onboard_time": 1718018237,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108457,
+      "num": 108457,
+      "word": "年轻人喜欢熬夜的根本原因",
+      "onboard_time": 1718043791,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 104417,
@@ -459,20 +467,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 33803,
-      "num": 33803,
-      "word": "年轻人喜欢熬夜的根本原因",
-      "onboard_time": 1718043791,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 30302,
       "num": 30302,
       "word": "你俩都到互穿里衣的程度了",
       "onboard_time": 1718018179,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20281,
+      "num": 20281,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18768,
