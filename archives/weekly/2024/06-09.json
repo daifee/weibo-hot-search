@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718019349742,
+  "endTime": 1718022994296,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1005328,
+      "num": 277273,
+      "word": "96年28岁其实挺小的",
+      "onboard_time": 1718018057,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 996952,
       "num": 996952,
       "word": "老师最不看好你 可你偏偏最争气",
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 794264,
-      "num": 204946,
-      "word": "96年28岁其实挺小的",
-      "onboard_time": 1718018057,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 789946,
       "num": 789946,
       "word": "刘亦菲彭冠英2集亲了15次",
@@ -424,6 +424,14 @@
       "word": "刘亦菲美得劈头盖脸的",
       "onboard_time": 1717862479,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 722840,
+      "num": 669609,
+      "word": "庄国栋有未婚妻",
+      "onboard_time": 1718018897,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -553,6 +561,30 @@
       "onboard_time": 1717944799,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 659087,
+      "num": 659087,
+      "word": "韩国罕见展出500年前王室印玺",
+      "onboard_time": 1718018477,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 653587,
+      "num": 628236,
+      "word": "墨雨云间硬控台湾网友",
+      "onboard_time": 1718018778,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 651855,
+      "num": 651855,
+      "word": "黑神话",
+      "onboard_time": 1718021778,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 646407,
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 547487,
-      "num": 204305,
+      "num": 217314,
       "word": "林一因为刘亦菲住在评论区了",
       "onboard_time": 1718014998,
       "rank": 20,
@@ -875,6 +907,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 500025,
+      "num": 225916,
+      "word": "墨雨云间这段刘亦菲10年前就意识到了",
+      "onboard_time": 1718021297,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497751,
       "num": 460857,
       "word": "王星越眼线是被冲掉的",
@@ -899,12 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 485175,
-      "num": 236100,
-      "word": "墨雨云间硬控台湾网友",
-      "onboard_time": 1718018778,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 490979,
+      "num": 251123,
+      "word": "张艺兴一口气发了12首新歌试听",
+      "onboard_time": 1718020218,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 481036,
@@ -952,6 +992,14 @@
       "word": "艺考老师为王星越发声",
       "onboard_time": 1717860618,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 472146,
+      "num": 228093,
+      "word": "彭冠英下线林更新上线",
+      "onboard_time": 1718021839,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1131,6 +1179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 427219,
+      "num": 220032,
+      "word": "SM将追究EXOCBX法律责任",
+      "onboard_time": 1718018958,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426119,
       "num": 426119,
       "word": "刘亦菲没待播剧了",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1717904658,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 390495,
+      "num": 219587,
+      "word": "边杰没死",
+      "onboard_time": 1718020338,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 390171,
@@ -1739,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285506,
+      "num": 285506,
+      "word": "黑神话悟空",
+      "onboard_time": 1718022438,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283839,
       "num": 283839,
       "word": "石宇奇携双冠登顶世界第一",
@@ -1777,14 +1849,6 @@
       "onboard_time": 1717856598,
       "rank": 7,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 279396,
-      "num": 203869,
-      "word": "SM将追究EXOCBX法律责任",
-      "onboard_time": 1718018958,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 278989,
@@ -1891,6 +1955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265910,
+      "num": 216241,
+      "word": "在爸爸去世后我发现了收养证明",
+      "onboard_time": 1718021478,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 265785,
       "num": 265785,
       "word": "肖战早就提前预告了",
@@ -1955,20 +2027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252340,
-      "num": 203753,
-      "word": "韩国罕见展出500年前王室印玺",
-      "onboard_time": 1718018477,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251768,
       "num": 251768,
       "word": "袁娅维 导演组你什么意思",
       "onboard_time": 1717888273,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250037,
+      "num": 213858,
+      "word": "你俩都到互穿里衣的程度了",
+      "onboard_time": 1718018179,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 247425,
@@ -2115,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 226809,
+      "num": 226809,
+      "word": "南京公安龙舟队3个项目均未进决赛",
+      "onboard_time": 1718017997,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226227,
       "num": 226227,
       "word": "刘亦菲个人微指破3.7亿",
@@ -2139,12 +2219,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220763,
-      "num": 203103,
-      "word": "庄国栋有未婚妻",
-      "onboard_time": 1718018897,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 223452,
+      "num": 223452,
+      "word": "因为是牛马所以换公司叫跳槽",
+      "onboard_time": 1718020938,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 219927,
@@ -2233,6 +2313,14 @@
       "onboard_time": 1717918697,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 213185,
+      "num": 213185,
+      "word": "OMG",
+      "onboard_time": 1718021897,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 212748,
@@ -2539,14 +2627,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 197205,
-      "num": 191769,
-      "word": "你俩都到互穿里衣的程度了",
-      "onboard_time": 1718018179,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196711,
       "num": 178518,
       "word": "赴山海",
@@ -2803,20 +2883,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182433,
-      "num": 205727,
-      "word": "南京公安龙舟队3个项目均未进决赛",
-      "onboard_time": 1718017997,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182336,
       "num": 182336,
       "word": "4天高考学霸1天考完",
       "onboard_time": 1717902857,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182166,
+      "num": 182166,
+      "word": "黄亦玫苏苏这门亲事我同意",
+      "onboard_time": 1718022617,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 181714,
@@ -2921,6 +3001,14 @@
       "onboard_time": 1717987458,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176196,
+      "num": 176196,
+      "word": "BTS成员为迎接金硕珍退伍申请休假",
+      "onboard_time": 1718020997,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 175881,
@@ -3035,12 +3123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168093,
+      "num": 208899,
+      "word": "欧洲股市狂跌",
+      "onboard_time": 1718021237,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 167538,
       "num": 167538,
       "word": "蔡徐坤顺毛侧颜",
       "onboard_time": 1717930097,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167035,
+      "num": 167035,
+      "word": "你的考公对手可能是你老师",
+      "onboard_time": 1718022318,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 166947,
@@ -3331,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151541,
+      "num": 151541,
+      "word": "易烊千玺演过少年屈原",
+      "onboard_time": 1718021958,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 151452,
       "num": 151452,
       "word": "陈雨菲卫冕印尼赛",
@@ -3377,6 +3489,14 @@
       "onboard_time": 1718017939,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148717,
+      "num": 148717,
+      "word": "端午假期国内出游1.1亿人次",
+      "onboard_time": 1718020878,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 148702,
@@ -3611,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138588,
+      "num": 138588,
+      "word": "阿狸啊阿狸别看玫瑰了",
+      "onboard_time": 1718021658,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138254,
       "num": 138254,
       "word": "我知道你是一只小狸猫",
@@ -3699,6 +3827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134519,
+      "num": 134519,
+      "word": "鞠婧祎手背青筋好明显",
+      "onboard_time": 1718019857,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134479,
       "num": 134479,
       "word": "邓超鹿晗海边谈心",
@@ -3761,6 +3897,14 @@
       "onboard_time": 1717941260,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132284,
+      "num": 132284,
+      "word": "公司端午节就发了一个咸鸭蛋",
+      "onboard_time": 1718020098,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 131725,
@@ -3833,6 +3977,22 @@
       "onboard_time": 1717950017,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 128549,
+      "num": 128549,
+      "word": "国足",
+      "onboard_time": 1718020938,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128518,
+      "num": 128518,
+      "word": "孙兴慜说对阵国足会全力争胜",
+      "onboard_time": 1718019679,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 128231,
@@ -4787,6 +4947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71108,
+      "num": 223495,
+      "word": "院长嫉妒的新三大坊轮椅",
+      "onboard_time": 1718019258,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 70347,
       "num": 80651,
       "word": "用线勒死皮肤上的小肉粒不可取",
@@ -5361,14 +5529,6 @@
       "onboard_time": 1717992678,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29281,
-      "num": 109027,
-      "word": "院长嫉妒的新三大坊轮椅",
-      "onboard_time": 1718019258,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 29108,

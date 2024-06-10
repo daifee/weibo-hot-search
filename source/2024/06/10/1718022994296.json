@@ -1,0 +1,410 @@
+{
+  "runTime": 1718022994296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 980146,
+        "num": 980146,
+        "word": "李承铉给离婚的爸妈订同一间房",
+        "onboard_time": 1718007559,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695686,
+        "num": 695686,
+        "word": "发现一直玩手机真的很恐怖",
+        "onboard_time": 1718011579,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59202,
+        "num": 671397,
+        "word": "被中国皮影戏的灵动征服了",
+        "onboard_time": 1718010318,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 722840,
+        "num": 669609,
+        "word": "庄国栋有未婚妻",
+        "onboard_time": 1718018897,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 659087,
+        "num": 659087,
+        "word": "韩国罕见展出500年前王室印玺",
+        "onboard_time": 1718018477,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651855,
+        "num": 651855,
+        "word": "黑神话",
+        "onboard_time": 1718021778,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 653587,
+        "num": 628236,
+        "word": "墨雨云间硬控台湾网友",
+        "onboard_time": 1718018778,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 602168,
+        "num": 602168,
+        "word": "双方都对这个吻感到恶心",
+        "onboard_time": 1718011217,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353475,
+        "num": 353475,
+        "word": "高考47年来裸分最高的考生是谁",
+        "onboard_time": 1717999397,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285506,
+        "num": 285506,
+        "word": "黑神话悟空",
+        "onboard_time": 1718022438,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1005328,
+        "num": 277273,
+        "word": "96年28岁其实挺小的",
+        "onboard_time": 1718018057,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 587510,
+        "num": 267756,
+        "word": "刘亦菲新剧口碑逆跌",
+        "onboard_time": 1718012658,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490979,
+        "num": 251123,
+        "word": "张艺兴一口气发了12首新歌试听",
+        "onboard_time": 1718020218,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 472146,
+        "num": 228093,
+        "word": "彭冠英下线林更新上线",
+        "onboard_time": 1718021839,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227595,
+        "num": 227595,
+        "word": "法国总统宣布解散国民议会",
+        "onboard_time": 1717984097,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 226809,
+        "num": 226809,
+        "word": "南京公安龙舟队3个项目均未进决赛",
+        "onboard_time": 1718017997,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500025,
+        "num": 225916,
+        "word": "墨雨云间这段刘亦菲10年前就意识到了",
+        "onboard_time": 1718021297,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36316,
+        "num": 223560,
+        "word": "大三女生捐造血干细胞说没啥可犹豫的",
+        "onboard_time": 1718012717,
+        "rank": 17,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 71108,
+        "num": 223495,
+        "word": "院长嫉妒的新三大坊轮椅",
+        "onboard_time": 1718019258,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223452,
+        "num": 223452,
+        "word": "因为是牛马所以换公司叫跳槽",
+        "onboard_time": 1718020938,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 592761,
+        "num": 222518,
+        "word": "分手一年多了前任一直在用亲情卡",
+        "onboard_time": 1718009897,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440398,
+        "num": 221325,
+        "word": "肖战放饭",
+        "onboard_time": 1718018237,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427219,
+        "num": 220032,
+        "word": "SM将追究EXOCBX法律责任",
+        "onboard_time": 1718018958,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390495,
+        "num": 219587,
+        "word": "边杰没死",
+        "onboard_time": 1718020338,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288367,
+        "num": 217314,
+        "word": "林一因为刘亦菲住在评论区了",
+        "onboard_time": 1718014998,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265910,
+        "num": 216241,
+        "word": "在爸爸去世后我发现了收养证明",
+        "onboard_time": 1718021478,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261332,
+        "num": 214754,
+        "word": "黄亦玫遭男友冷暴力",
+        "onboard_time": 1718018118,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250037,
+        "num": 213858,
+        "word": "你俩都到互穿里衣的程度了",
+        "onboard_time": 1718018179,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213185,
+        "num": 213185,
+        "word": "OMG",
+        "onboard_time": 1718021897,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168093,
+        "num": 208899,
+        "word": "欧洲股市狂跌",
+        "onboard_time": 1718021237,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18844,
+        "num": 208004,
+        "word": "高考考场外的这一幕超暖心",
+        "onboard_time": 1718011818,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 235727,
+        "num": 207760,
+        "word": "赵丽颖端午放饭了",
+        "onboard_time": 1718017997,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207492,
+        "num": 207492,
+        "word": "李晨身体年龄只有三十岁左右",
+        "onboard_time": 1718009357,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199275,
+        "num": 199275,
+        "word": "卖不完的粽子去哪儿了",
+        "onboard_time": 1718014218,
+        "rank": 33,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 182166,
+        "num": 182166,
+        "word": "黄亦玫苏苏这门亲事我同意",
+        "onboard_time": 1718022617,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176196,
+        "num": 176196,
+        "word": "BTS成员为迎接金硕珍退伍申请休假",
+        "onboard_time": 1718020997,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167035,
+        "num": 167035,
+        "word": "你的考公对手可能是你老师",
+        "onboard_time": 1718022318,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151541,
+        "num": 151541,
+        "word": "易烊千玺演过少年屈原",
+        "onboard_time": 1718021958,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "端午假期国内出游1.1亿人次",
+        "onboard_time": 1718020878,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 148216,
+        "num": 148216,
+        "word": "墨雨云间你是真的火了",
+        "onboard_time": 1718001377,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140767,
+        "num": 140767,
+        "word": "排球少年",
+        "onboard_time": 1718018416,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 138588,
+        "num": 138588,
+        "word": "阿狸啊阿狸别看玫瑰了",
+        "onboard_time": 1718021658,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136855,
+        "num": 136855,
+        "word": "这样睡10分钟可抵2小时",
+        "onboard_time": 1718000838,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 134519,
+        "num": 134519,
+        "word": "鞠婧祎手背青筋好明显",
+        "onboard_time": 1718019857,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132284,
+        "num": 132284,
+        "word": "公司端午节就发了一个咸鸭蛋",
+        "onboard_time": 1718020098,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128549,
+        "num": 128549,
+        "word": "国足",
+        "onboard_time": 1718020938,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128518,
+        "num": 128518,
+        "word": "孙兴慜说对阵国足会全力争胜",
+        "onboard_time": 1718019679,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127346,
+        "num": 127346,
+        "word": "陈雨浓董力",
+        "onboard_time": 1718014457,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124548,
+        "num": 124548,
+        "word": "英国水质",
+        "onboard_time": 1718018597,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 117924,
+        "num": 117924,
+        "word": "宝妈为楼下高中生铺了3年爬行垫",
+        "onboard_time": 1718017939,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引用的屈原名句#"
+    }
+  }
+}
