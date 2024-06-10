@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718026468405,
+  "endTime": 1718029219168,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1779,6 +1779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1008801,
+      "num": 1008801,
+      "word": "彭冠英下线林更新上线",
+      "onboard_time": 1718021839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1005052,
       "num": 1005052,
       "word": "婚纱照发朋友圈被人说不好看",
@@ -1931,6 +1939,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 946543,
+      "num": 525690,
+      "word": "墨雨云间这段刘亦菲10年前就意识到了",
+      "onboard_time": 1718021297,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 944279,
       "num": 944279,
       "word": "大润发放弃小润发",
@@ -1961,14 +1977,6 @@
       "onboard_time": 1717312637,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 937871,
-      "num": 937871,
-      "word": "彭冠英下线林更新上线",
-      "onboard_time": 1718021839,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 936212,
@@ -2497,6 +2505,14 @@
       "onboard_time": 1717425738,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 798211,
+      "num": 246909,
+      "word": "刘亦菲转发彭冠英微博",
+      "onboard_time": 1718027177,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 794848,
@@ -3145,14 +3161,6 @@
       "onboard_time": 1717417338,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 711866,
-      "num": 445172,
-      "word": "墨雨云间这段刘亦菲10年前就意识到了",
-      "onboard_time": 1718021297,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 709969,
@@ -5113,6 +5121,14 @@
       "onboard_time": 1717587979,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 524680,
+      "num": 524680,
+      "word": "近视手术并不是一劳永逸",
+      "onboard_time": 1718025499,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 524114,
@@ -7299,12 +7315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 392817,
+      "num": 221394,
+      "word": "Cube回应解约",
+      "onboard_time": 1718024418,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392503,
       "num": 392503,
       "word": "美方承认有无辜者在以军行动中丧生",
       "onboard_time": 1717985658,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 392171,
+      "num": 392171,
+      "word": "U19国足vs韩国U19",
+      "onboard_time": 1718026458,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 392064,
@@ -8291,6 +8323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347459,
+      "num": 229108,
+      "word": "宋亚轩刘耀文一起逛街",
+      "onboard_time": 1718025198,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347060,
       "num": 347060,
       "word": "他说希望我的妈妈母凭子贵",
@@ -8673,22 +8713,6 @@
       "onboard_time": 1717561100,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332349,
-      "num": 229108,
-      "word": "宋亚轩刘耀文一起逛街",
-      "onboard_time": 1718025198,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 331935,
-      "num": 221394,
-      "word": "Cube回应解约",
-      "onboard_time": 1718024418,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 331929,
@@ -9809,6 +9833,14 @@
       "onboard_time": 1717371016,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289943,
+      "num": 184026,
+      "word": "你俩能不能莫名其妙亲一个",
+      "onboard_time": 1718027599,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 289790,
@@ -12931,6 +12963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213184,
+      "num": 213184,
+      "word": "U19国足渭南四国赛夺冠",
+      "onboard_time": 1718027899,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212942,
       "num": 252772,
       "word": "今年六一恰逢周六",
@@ -13289,6 +13329,14 @@
       "onboard_time": 1717737381,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208568,
+      "num": 196207,
+      "word": "人生中最爽的三个月",
+      "onboard_time": 1718023578,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 208454,
@@ -14595,14 +14643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 196207,
-      "num": 196207,
-      "word": "人生中最爽的三个月",
-      "onboard_time": 1718023578,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196153,
       "num": 196153,
       "word": "Twins宣传吴谨言新剧",
@@ -14753,6 +14793,14 @@
       "onboard_time": 1717247119,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194614,
+      "num": 526402,
+      "word": "这个端午110000000人次出游",
+      "onboard_time": 1718027359,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194567,
@@ -15347,6 +15395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187914,
+      "num": 144557,
+      "word": "陈瑶无框眼镜",
+      "onboard_time": 1718028018,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187876,
       "num": 187876,
       "word": "时代少年团 三人行",
@@ -15433,6 +15489,14 @@
       "onboard_time": 1717833618,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 187334,
+      "num": 187334,
+      "word": "女生高考结束喜欢肖战想去重庆",
+      "onboard_time": 1718024539,
+      "rank": 38,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 187295,
@@ -17595,6 +17659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163216,
+      "num": 140464,
+      "word": "陆虎尼格买提偶遇",
+      "onboard_time": 1718027719,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163099,
       "num": 163099,
       "word": "陈梦3比2汉娜高达",
@@ -18211,6 +18283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157325,
+      "num": 135299,
+      "word": "诗情画奕",
+      "onboard_time": 1718026939,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157312,
       "num": 157312,
       "word": "黄宣 歌儿手",
@@ -18699,14 +18779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152701,
-      "num": 152701,
-      "word": "女生高考结束喜欢肖战想去重庆",
-      "onboard_time": 1718024539,
-      "rank": 38,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 152659,
       "num": 152659,
       "word": "陶昕然说红毯不是我的战场",
@@ -18841,6 +18913,14 @@
       "onboard_time": 1717206497,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 151818,
+      "num": 151818,
+      "word": "生孩子是最大的开盲盒",
+      "onboard_time": 1718028979,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 151809,
@@ -20595,6 +20675,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 136970,
+      "num": 136970,
+      "word": "张桂梅患带状疱疹仍坚持陪考",
+      "onboard_time": 1718028919,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136920,
       "num": 136920,
       "word": "香菜泡面",
@@ -20795,6 +20883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135397,
+      "num": 135397,
+      "word": "不要被小狗发现你醒了",
+      "onboard_time": 1718028199,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135159,
       "num": 135159,
       "word": "赵丽颖祝大家高考顺利",
@@ -20811,6 +20907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135043,
+      "num": 135043,
+      "word": "WWDC24",
+      "onboard_time": 1718028739,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 134935,
       "num": 253617,
       "word": "原来成年人是过期的小朋友",
@@ -20825,6 +20929,14 @@
       "onboard_time": 1717465697,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134824,
+      "num": 259947,
+      "word": "两岸同胞的端午之约",
+      "onboard_time": 1718028561,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134788,
@@ -20969,6 +21081,14 @@
       "onboard_time": 1717470857,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133537,
+      "num": 133537,
+      "word": "才知道焯水不是简单的煮一下",
+      "onboard_time": 1718028979,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 133448,
@@ -21201,14 +21321,6 @@
       "onboard_time": 1717726518,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131135,
-      "num": 131135,
-      "word": "近视手术并不是一劳永逸",
-      "onboard_time": 1718025499,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 131091,
@@ -21513,6 +21625,14 @@
       "onboard_time": 1717212617,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128315,
+      "num": 128315,
+      "word": "下个假期要等3个月",
+      "onboard_time": 1718028319,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128282,
@@ -22243,6 +22363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122692,
+      "num": 122692,
+      "word": "BLG战胜LGD",
+      "onboard_time": 1718028561,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122676,
       "num": 122676,
       "word": "Natty身材",
@@ -22617,6 +22745,14 @@
       "onboard_time": 1717667119,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119473,
+      "num": 119473,
+      "word": "我推的孩子 进入最终章",
+      "onboard_time": 1718028438,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 119326,
@@ -24195,6 +24331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105556,
+      "num": 105556,
+      "word": "第一次见包法这么复杂的粽子",
+      "onboard_time": 1718027599,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 105414,
       "num": 105414,
       "word": "小猫咪也很讨厌下雨",
@@ -24633,6 +24777,14 @@
       "onboard_time": 1717497857,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99745,
+      "num": 99745,
+      "word": "月红篇尾生这一生如履大饼",
+      "onboard_time": 1718029158,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99643,
