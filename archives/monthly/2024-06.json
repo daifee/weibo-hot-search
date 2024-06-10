@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718004933908,
+  "endTime": 1718007912128,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1699,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1040738,
+      "num": 1040738,
+      "word": "李承铉给离婚的爸妈订同一间房",
+      "onboard_time": 1718007559,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1021664,
       "num": 1021664,
       "word": "没想到榴莲也住上单间了",
@@ -1817,6 +1825,14 @@
       "onboard_time": 1717991117,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 964930,
+      "num": 964930,
+      "word": "初生",
+      "onboard_time": 1718002217,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 963797,
@@ -3851,6 +3867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 619235,
+      "num": 619235,
+      "word": "日本21岁幼师割伤2岁幼儿颈部",
+      "onboard_time": 1718002939,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 617227,
       "num": 617227,
       "word": "墨雨云间口碑逆跌",
@@ -3953,6 +3977,14 @@
       "onboard_time": 1717577600,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607936,
+      "num": 607936,
+      "word": "Xiaolaohu删博",
+      "onboard_time": 1718006778,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 606789,
@@ -4412,7 +4444,7 @@
     },
     {
       "raw_hot": 571633,
-      "num": 218249,
+      "num": 223464,
       "word": "这样睡10分钟可抵2小时",
       "onboard_time": 1718000838,
       "rank": 47,
@@ -5153,6 +5185,14 @@
       "onboard_time": 1717588278,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 511921,
+      "num": 511921,
+      "word": "美国一2岁女童被长颈鹿叼到半空",
+      "onboard_time": 1718003777,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511839,
@@ -5905,14 +5945,6 @@
       "onboard_time": 1717674257,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 456965,
-      "num": 456965,
-      "word": "初生",
-      "onboard_time": 1718002217,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 456644,
@@ -6673,14 +6705,6 @@
       "onboard_time": 1717936997,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 415590,
-      "num": 415590,
-      "word": "美国一2岁女童被长颈鹿叼到半空",
-      "onboard_time": 1718003777,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 415448,
@@ -7923,6 +7947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352771,
+      "num": 352771,
+      "word": "孙俪晒邓超与孩子们母亲节对话",
+      "onboard_time": 1718004859,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 352724,
       "num": 448910,
       "word": "高考前一夜你想对考生说什么",
@@ -8641,6 +8673,14 @@
       "onboard_time": 1717561039,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 321085,
+      "num": 321085,
+      "word": "内娱颤抖吧十几个初生要来了",
+      "onboard_time": 1718006058,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 320897,
@@ -10691,6 +10731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253274,
+      "num": 221616,
+      "word": "狐妖月红篇豆瓣5.6分",
+      "onboard_time": 1718007318,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253078,
       "num": 343095,
       "word": "王楚钦vs林高远",
@@ -10993,6 +11041,14 @@
       "onboard_time": 1717632136,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243844,
+      "num": 243844,
+      "word": "福宝端午节吃上粽子了",
+      "onboard_time": 1718006117,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243833,
@@ -11457,6 +11513,14 @@
       "onboard_time": 1717298718,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233106,
+      "num": 233106,
+      "word": "小鬼恋爱请柬一人五角小剧场",
+      "onboard_time": 1718002638,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232844,
@@ -12553,14 +12617,6 @@
       "onboard_time": 1717385297,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 211160,
-      "num": 211160,
-      "word": "小鬼恋爱请柬一人五角小剧场",
-      "onboard_time": 1718002638,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210799,
@@ -16675,6 +16731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 166071,
+      "num": 166071,
+      "word": "沈月女团风金发",
+      "onboard_time": 1718007259,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 166059,
       "num": 166059,
       "word": "原来角度决定颜值是有一定道理的",
@@ -17016,6 +17080,14 @@
       "word": "周洁琼跳了Supernova",
       "onboard_time": 1717290376,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162701,
+      "num": 162701,
+      "word": "张艺兴挑战包辣条馅粽",
+      "onboard_time": 1718006718,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -18097,14 +18169,6 @@
       "onboard_time": 1717651819,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152082,
-      "num": 152082,
-      "word": "日本21岁幼师割伤2岁幼儿颈部",
-      "onboard_time": 1718002939,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152046,
@@ -19827,6 +19891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 137167,
+      "num": 137167,
+      "word": "办公室不是你们带薪恋爱的地方",
+      "onboard_time": 1718007618,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137104,
       "num": 137104,
       "word": "当小男孩知道小猫去了喵星",
@@ -19896,6 +19968,14 @@
       "word": "胡锡进呼吁别把自己变成彻底的算法人",
       "onboard_time": 1717894216,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136726,
+      "num": 136726,
+      "word": "艾草",
+      "onboard_time": 1718006236,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -20089,6 +20169,14 @@
       "onboard_time": 1717465697,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134849,
+      "num": 134849,
+      "word": "1米9山东大爷持2米艾蒿挤地铁",
+      "onboard_time": 1718007559,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134788,
@@ -22059,6 +22147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117043,
+      "num": 117043,
+      "word": "亚当 美妆博主",
+      "onboard_time": 1718005277,
+      "rank": 45,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 116992,
       "num": 116992,
       "word": "黑色沙漠过审",
@@ -22617,6 +22713,14 @@
       "onboard_time": 1717456276,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112293,
+      "num": 112293,
+      "word": "女子称邻居点蚊香致全家集体中毒",
+      "onboard_time": 1718007798,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112255,
@@ -23417,14 +23521,6 @@
       "onboard_time": 1717854738,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104921,
-      "num": 104921,
-      "word": "孙俪晒邓超与孩子们母亲节对话",
-      "onboard_time": 1718004859,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104555,
@@ -26379,6 +26475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50615,
+      "num": 992510,
+      "word": "龙年端午看海军龙舟",
+      "onboard_time": 1717989137,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50383,
       "num": 50383,
       "word": "牛奶加热后的奶皮吃了有好处吗",
@@ -26659,14 +26763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44964,
-      "num": 836273,
-      "word": "龙年端午看海军龙舟",
-      "onboard_time": 1717989137,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44778,
       "num": 588199,
       "word": "别让我们的随意成为它们的伤痛",
@@ -26809,6 +26905,14 @@
       "onboard_time": 1717887193,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41606,
+      "num": 490300,
+      "word": "AI预测宝宝长相是不是智商税",
+      "onboard_time": 1718006418,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 41535,

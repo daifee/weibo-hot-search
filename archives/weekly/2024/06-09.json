@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718004933908,
+  "endTime": 1718007912128,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1040738,
+      "num": 1040738,
+      "word": "李承铉给离婚的爸妈订同一间房",
+      "onboard_time": 1718007559,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1012793,
       "num": 464109,
       "word": "徐海乔经纪人",
@@ -209,6 +217,14 @@
       "onboard_time": 1717991117,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 964930,
+      "num": 964930,
+      "word": "初生",
+      "onboard_time": 1718002217,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 959650,
@@ -539,6 +555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 619235,
+      "num": 619235,
+      "word": "日本21岁幼师割伤2岁幼儿颈部",
+      "onboard_time": 1718002939,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 610358,
       "num": 255909,
       "word": "长期睡眠不好的人后来怎么样了",
@@ -553,6 +577,14 @@
       "onboard_time": 1717974613,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 607936,
+      "num": 607936,
+      "word": "Xiaolaohu删博",
+      "onboard_time": 1718006778,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 606789,
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 571633,
-      "num": 218249,
+      "num": 223464,
       "word": "这样睡10分钟可抵2小时",
       "onboard_time": 1718000838,
       "rank": 47,
@@ -729,6 +761,14 @@
       "onboard_time": 1717959731,
       "rank": 13,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 511921,
+      "num": 511921,
+      "word": "美国一2岁女童被长颈鹿叼到半空",
+      "onboard_time": 1718003777,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509697,
@@ -883,14 +923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 456965,
-      "num": 456965,
-      "word": "初生",
-      "onboard_time": 1718002217,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 456494,
       "num": 270925,
       "word": "陈雨浓孙程潇吵架",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1717936997,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 415590,
-      "num": 415590,
-      "word": "美国一2岁女童被长颈鹿叼到半空",
-      "onboard_time": 1718003777,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 413241,
@@ -1227,6 +1251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 352771,
+      "num": 352771,
+      "word": "孙俪晒邓超与孩子们母亲节对话",
+      "onboard_time": 1718004859,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351269,
       "num": 351269,
       "word": "沈月凭本事让孟子义工作室挨骂",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1717977676,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321085,
+      "num": 321085,
+      "word": "内娱颤抖吧十几个初生要来了",
+      "onboard_time": 1718006058,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 320856,
@@ -1715,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253274,
+      "num": 221616,
+      "word": "狐妖月红篇豆瓣5.6分",
+      "onboard_time": 1718007318,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251768,
       "num": 251768,
       "word": "袁娅维 导演组你什么意思",
@@ -1753,6 +1801,14 @@
       "onboard_time": 1717996278,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243844,
+      "num": 243844,
+      "word": "福宝端午节吃上粽子了",
+      "onboard_time": 1718006117,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242322,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1717890376,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 233106,
+      "num": 233106,
+      "word": "小鬼恋爱请柬一人五角小剧场",
+      "onboard_time": 1718002638,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 231406,
@@ -1961,14 +2025,6 @@
       "onboard_time": 1717900217,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211160,
-      "num": 211160,
-      "word": "小鬼恋爱请柬一人五角小剧场",
-      "onboard_time": 1718002638,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210580,
@@ -2643,6 +2699,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 166071,
+      "num": 166071,
+      "word": "沈月女团风金发",
+      "onboard_time": 1718007259,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165834,
       "num": 165834,
       "word": "建议用户每周重新启动一次手机",
@@ -2689,6 +2753,14 @@
       "onboard_time": 1717927098,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162701,
+      "num": 162701,
+      "word": "张艺兴挑战包辣条馅粽",
+      "onboard_time": 1718006718,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 162329,
@@ -2849,14 +2921,6 @@
       "onboard_time": 1717995259,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 152082,
-      "num": 152082,
-      "word": "日本21岁幼师割伤2岁幼儿颈部",
-      "onboard_time": 1718002939,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152046,
@@ -3155,11 +3219,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137167,
+      "num": 137167,
+      "word": "办公室不是你们带薪恋爱的地方",
+      "onboard_time": 1718007618,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136800,
       "num": 136800,
       "word": "胡锡进呼吁别把自己变成彻底的算法人",
       "onboard_time": 1717894216,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136726,
+      "num": 136726,
+      "word": "艾草",
+      "onboard_time": 1718006236,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -3201,6 +3281,14 @@
       "onboard_time": 1717998437,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134849,
+      "num": 134849,
+      "word": "1米9山东大爷持2米艾蒿挤地铁",
+      "onboard_time": 1718007559,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134479,
@@ -3563,6 +3651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117043,
+      "num": 117043,
+      "word": "亚当 美妆博主",
+      "onboard_time": 1718005277,
+      "rank": 45,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 116661,
       "num": 116661,
       "word": "端午壁纸",
@@ -3707,6 +3803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112293,
+      "num": 112293,
+      "word": "女子称邻居点蚊香致全家集体中毒",
+      "onboard_time": 1718007798,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -3809,14 +3913,6 @@
       "onboard_time": 1717992377,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 104921,
-      "num": 104921,
-      "word": "孙俪晒邓超与孩子们母亲节对话",
-      "onboard_time": 1718004859,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104061,
@@ -4395,6 +4491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50615,
+      "num": 992510,
+      "word": "龙年端午看海军龙舟",
+      "onboard_time": 1717989137,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50370,
       "num": 50370,
       "word": "每只凶狠的小猫其实都渴望被爱",
@@ -4523,14 +4627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 44964,
-      "num": 836273,
-      "word": "龙年端午看海军龙舟",
-      "onboard_time": 1717989137,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44694,
       "num": 137703,
       "word": "朱正廷清爽学长造型",
@@ -4569,6 +4665,14 @@
       "onboard_time": 1717887193,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41606,
+      "num": 490300,
+      "word": "AI预测宝宝长相是不是智商税",
+      "onboard_time": 1718006418,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 39947,
