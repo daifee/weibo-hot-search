@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718014903362,
+  "endTime": 1718015892861,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1345254,
+      "num": 1345254,
+      "word": "发现一直玩手机真的很恐怖",
+      "onboard_time": 1718011579,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1290048,
       "num": 1290048,
       "word": "荣梓杉是今年中戏北电双第一",
@@ -120,14 +128,6 @@
       "word": "高铁上拒绝了宝妈的换座要求",
       "onboard_time": 1717937717,
       "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1224121,
-      "num": 1224121,
-      "word": "发现一直玩手机真的很恐怖",
-      "onboard_time": 1718011579,
-      "rank": 19,
       "category": "情感"
     },
     {
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 930301,
+      "num": 930301,
+      "word": "刘亦菲新剧口碑逆跌",
+      "onboard_time": 1718012658,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 912837,
       "num": 912837,
       "word": "双方都对这个吻感到恶心",
@@ -305,14 +313,6 @@
       "onboard_time": 1718010259,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 848935,
-      "num": 848935,
-      "word": "刘亦菲新剧口碑逆跌",
-      "onboard_time": 1718012658,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 825830,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 523416,
-      "num": 324946,
+      "num": 343497,
       "word": "李晨身体年龄只有三十岁左右",
       "onboard_time": 1718009357,
       "rank": 20,
@@ -1283,6 +1283,14 @@
       "category": "剧集,教育"
     },
     {
+      "raw_hot": 365457,
+      "num": 197301,
+      "word": "林一因为刘亦菲住在评论区了",
+      "onboard_time": 1718014998,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361868,
       "num": 361868,
       "word": "蔡徐坤Afterglow上线",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1717909879,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 336883,
+      "num": 285966,
+      "word": "鞠婧祎烟雨江南",
+      "onboard_time": 1718013618,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 336059,
@@ -1715,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276860,
+      "num": 276860,
+      "word": "陈雨浓董力",
+      "onboard_time": 1718014457,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276203,
       "num": 276203,
       "word": "吴谨言王星越再拍部剧吧",
@@ -1891,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246039,
+      "num": 197038,
+      "word": "薛凯琪萨顶顶回应网友P图",
+      "onboard_time": 1718014277,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245278,
       "num": 245278,
       "word": "福建地理",
@@ -1963,14 +1995,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233297,
-      "num": 205179,
-      "word": "鞠婧祎烟雨江南",
-      "onboard_time": 1718013618,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 233106,
       "num": 233106,
       "word": "小鬼恋爱请柬一人五角小剧场",
@@ -2009,6 +2033,14 @@
       "onboard_time": 1717974673,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228391,
+      "num": 196308,
+      "word": "不经意但发量会变多的习惯",
+      "onboard_time": 1718014757,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 226227,
@@ -2347,6 +2379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 199538,
+      "num": 199538,
+      "word": "卖不完的粽子去哪儿了",
+      "onboard_time": 1718014218,
+      "rank": 36,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 199527,
       "num": 199527,
       "word": "荣梓杉一撮黄毛是他最后的倔强",
@@ -2513,6 +2553,14 @@
       "onboard_time": 1717864935,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190255,
+      "num": 190255,
+      "word": "黄誉博巡演",
+      "onboard_time": 1718015058,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 189467,
@@ -2771,28 +2819,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 175253,
+      "num": 175253,
+      "word": "王星越差点把前夫哥叉走",
+      "onboard_time": 1718015417,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175140,
       "num": 175140,
       "word": "江苏政治考cosplay",
       "onboard_time": 1717927997,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 174881,
-      "num": 174881,
-      "word": "薛凯琪萨顶顶回应网友P图",
-      "onboard_time": 1718014277,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 173922,
-      "num": 173922,
-      "word": "陈雨浓董力",
-      "onboard_time": 1718014457,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 173787,
@@ -3371,14 +3411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 141539,
-      "num": 141539,
-      "word": "卖不完的粽子去哪儿了",
-      "onboard_time": 1718014218,
-      "rank": 36,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 141358,
       "num": 141358,
       "word": "杰伦布朗杀死比赛",
@@ -3803,6 +3835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122482,
+      "num": 122482,
+      "word": "2024LPL",
+      "onboard_time": 1718015417,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122418,
       "num": 122418,
       "word": "晨跑时我被一窝小猫选中了",
@@ -4163,6 +4203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105976,
+      "num": 105976,
+      "word": "everglow新歌",
+      "onboard_time": 1718015837,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 105647,
       "num": 105647,
       "word": "肃国公淋雨练剑的原因找到了",
@@ -4243,14 +4291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100179,
-      "num": 100179,
-      "word": "不经意但发量会变多的习惯",
-      "onboard_time": 1718014757,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 99238,
       "num": 99238,
       "word": "丁钰琼 周末与婚姻的对谈",
@@ -4273,6 +4313,14 @@
       "onboard_time": 1718011158,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97430,
+      "num": 97430,
+      "word": "专家回应消费者担心滞销粽子被再加工",
+      "onboard_time": 1718015777,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 97041,
@@ -4771,6 +4819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52450,
+      "num": 328844,
+      "word": "大三女生捐造血干细胞说没啥可犹豫的",
+      "onboard_time": 1718012717,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 51523,
       "num": 292528,
       "word": "大熊猫像极了假期瘫在家的我",
@@ -4947,20 +5003,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43364,
+      "num": 1109567,
+      "word": "中国发展的多样色彩绘就热烈的夏天",
+      "onboard_time": 1718010617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42977,
       "num": 42977,
       "word": "高考第4天继续加油",
       "onboard_time": 1717974133,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 42818,
-      "num": 328844,
-      "word": "大三女生捐造血干细胞说没啥可犹豫的",
-      "onboard_time": 1718012717,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 42353,
@@ -4985,14 +5041,6 @@
       "onboard_time": 1718011818,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 40677,
-      "num": 1003568,
-      "word": "中国发展的多样色彩绘就热烈的夏天",
-      "onboard_time": 1718010617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39947,
@@ -5313,6 +5361,14 @@
       "onboard_time": 1717909457,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11143,
+      "num": 301215,
+      "word": "67岁龙舟女舵手也太飒了",
+      "onboard_time": 1718015537,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10823,
