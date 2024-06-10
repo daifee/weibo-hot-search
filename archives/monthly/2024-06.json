@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718023929501,
+  "endTime": 1718025758668,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1179,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1230265,
+      "num": 550692,
+      "word": "96年28岁其实挺小的",
+      "onboard_time": 1718018057,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1229619,
       "num": 822952,
       "word": "一对日本母女在渡轮遭遇神隐",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1717801874,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1090804,
-      "num": 550692,
-      "word": "96年28岁其实挺小的",
-      "onboard_time": 1718018057,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 1089979,
@@ -2203,6 +2203,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 865753,
+      "num": 620571,
+      "word": "彭冠英下线林更新上线",
+      "onboard_time": 1718021839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 865090,
       "num": 865090,
       "word": "张继科被前合作品牌方起诉",
@@ -2795,14 +2803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 752466,
-      "num": 620571,
-      "word": "彭冠英下线林更新上线",
-      "onboard_time": 1718021839,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 751314,
       "num": 585642,
       "word": "魔兽世界技术测试定档",
@@ -3145,6 +3145,14 @@
       "onboard_time": 1717417338,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 710461,
+      "num": 318737,
+      "word": "墨雨云间这段刘亦菲10年前就意识到了",
+      "onboard_time": 1718021297,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 709969,
@@ -3923,6 +3931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 624977,
+      "num": 250103,
+      "word": "Angelababy汉服少女",
+      "onboard_time": 1718023037,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 624240,
       "num": 493282,
       "word": "王霏霏突发哮喘",
@@ -4641,14 +4657,6 @@
       "onboard_time": 1717564519,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 562118,
-      "num": 306042,
-      "word": "墨雨云间这段刘亦菲10年前就意识到了",
-      "onboard_time": 1718021297,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 560081,
@@ -7627,6 +7635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374498,
+      "num": 183003,
+      "word": "月薪三千五一顿饭不超过五块",
+      "onboard_time": 1718023999,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 374349,
       "num": 374349,
       "word": "马斯克星舰第4次试飞",
@@ -7891,6 +7907,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 361730,
+      "num": 182956,
+      "word": "彭冠英否认庄国栋有未婚妻",
+      "onboard_time": 1718024779,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361698,
       "num": 361698,
       "word": "985211警车忙不过来了",
@@ -8001,6 +8025,14 @@
       "onboard_time": 1717475300,
       "rank": 18,
       "category": "网红,教育"
+    },
+    {
+      "raw_hot": 357587,
+      "num": 203917,
+      "word": "杨紫李现国色芳华没有停拍",
+      "onboard_time": 1718023339,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 357187,
@@ -8257,6 +8289,14 @@
       "onboard_time": 1718002758,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346991,
+      "num": 240215,
+      "word": "林更新丁宁互关了",
+      "onboard_time": 1718023218,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 346876,
@@ -9011,6 +9051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317156,
+      "num": 181923,
+      "word": "黄日莹回应脸部受伤",
+      "onboard_time": 1718023758,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316990,
       "num": 169115,
       "word": "长公主服从性测试",
@@ -9339,6 +9387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303909,
+      "num": 181495,
+      "word": "宋亚轩刘耀文一起逛街",
+      "onboard_time": 1718025198,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303749,
       "num": 200007,
       "word": "浙江两驴友被溪流冲走当地商户发声",
@@ -9633,14 +9689,6 @@
       "onboard_time": 1717228817,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 293877,
-      "num": 204239,
-      "word": "Angelababy汉服少女",
-      "onboard_time": 1718023037,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 293707,
@@ -10059,12 +10107,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279362,
-      "num": 203917,
-      "word": "杨紫李现国色芳华没有停拍",
-      "onboard_time": 1718023339,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 279910,
+      "num": 180780,
+      "word": "Cube回应解约",
+      "onboard_time": 1718024418,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 278989,
@@ -10441,6 +10489,14 @@
       "onboard_time": 1717837038,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270079,
+      "num": 180659,
+      "word": "央视端午晚会",
+      "onboard_time": 1718024839,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 269923,
@@ -10865,6 +10921,14 @@
       "onboard_time": 1717501396,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257259,
+      "num": 257259,
+      "word": "BLG",
+      "onboard_time": 1718023279,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 257248,
@@ -11491,6 +11555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 239665,
+      "num": 239665,
+      "word": "因为是牛马所以换公司叫跳槽",
+      "onboard_time": 1718020938,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239557,
       "num": 239557,
       "word": "考完理综飘了都飘了",
@@ -11521,6 +11593,14 @@
       "onboard_time": 1717581918,
       "rank": 20,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 238549,
+      "num": 238549,
+      "word": "OMG",
+      "onboard_time": 1718021897,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 238375,
@@ -11625,14 +11705,6 @@
       "onboard_time": 1717471517,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 236698,
-      "num": 236698,
-      "word": "因为是牛马所以换公司叫跳槽",
-      "onboard_time": 1718020938,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 236592,
@@ -11817,14 +11889,6 @@
       "onboard_time": 1717306278,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 232709,
-      "num": 232709,
-      "word": "OMG",
-      "onboard_time": 1718021897,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 232653,
@@ -12401,14 +12465,6 @@
       "onboard_time": 1717543275,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220645,
-      "num": 201989,
-      "word": "林更新丁宁互关了",
-      "onboard_time": 1718023218,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 220524,
@@ -13443,14 +13499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206262,
-      "num": 206262,
-      "word": "BLG",
-      "onboard_time": 1718023279,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 206190,
       "num": 254047,
       "word": "汪苏泷看到热搜了",
@@ -13689,6 +13737,14 @@
       "onboard_time": 1717560379,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203551,
+      "num": 203565,
+      "word": "你的考公对手可能是你老师",
+      "onboard_time": 1718022318,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 203543,
@@ -15099,14 +15155,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 189902,
-      "num": 203565,
-      "word": "你的考公对手可能是你老师",
-      "onboard_time": 1718022318,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 189860,
       "num": 189860,
       "word": "南宁一教官多次将男孩头按进水里",
@@ -15873,6 +15921,14 @@
       "onboard_time": 1717209857,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 180015,
+      "num": 180015,
+      "word": "人生中最爽的三个月",
+      "onboard_time": 1718023578,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 179865,
@@ -16851,14 +16907,6 @@
       "category": "健康医疗,互联网"
     },
     {
-      "raw_hot": 170190,
-      "num": 130252,
-      "word": "黄日莹回应脸部受伤",
-      "onboard_time": 1718023758,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170142,
       "num": 170142,
       "word": "尚雯婕清唱bangbang",
@@ -16936,6 +16984,14 @@
       "word": "张栋梁正式回归演员",
       "onboard_time": 1717994358,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169192,
+      "num": 169192,
+      "word": "黄亦玫爸爸",
+      "onboard_time": 1718025559,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -18547,6 +18603,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 153310,
+      "num": 151541,
+      "word": "易烊千玺演过少年屈原",
+      "onboard_time": 1718021958,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153276,
       "num": 153276,
       "word": "向佐被罚做20个俯卧撑",
@@ -18785,14 +18849,6 @@
       "onboard_time": 1717820779,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151541,
-      "num": 151541,
-      "word": "易烊千玺演过少年屈原",
-      "onboard_time": 1718021958,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151472,
@@ -20147,6 +20203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140175,
+      "num": 140175,
+      "word": "女生高考结束喜欢肖战想去重庆",
+      "onboard_time": 1718024539,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 140143,
       "num": 140143,
       "word": "去南极在你的人生todolist里吗",
@@ -21275,6 +21339,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 129845,
+      "num": 129845,
+      "word": "黑神话实体收藏版1分钟被抢光",
+      "onboard_time": 1718025559,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129814,
       "num": 1893253,
       "word": "嫦娥六号祝福考生高中",
@@ -21867,14 +21939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 125318,
-      "num": 125318,
-      "word": "人生中最爽的三个月",
-      "onboard_time": 1718023578,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125292,
       "num": 125292,
       "word": "B太点赞五谷磨房用心",
@@ -22337,6 +22401,14 @@
       "onboard_time": 1717925897,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121651,
+      "num": 121651,
+      "word": "近视手术并不是一劳永逸",
+      "onboard_time": 1718025499,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121577,
@@ -24177,6 +24249,14 @@
       "onboard_time": 1717854738,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104650,
+      "num": 104650,
+      "word": "只有手机是玩回本了",
+      "onboard_time": 1718025559,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 104555,
@@ -26219,6 +26299,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 66175,
+      "num": 881714,
+      "word": "被中国皮影戏的灵动征服了",
+      "onboard_time": 1718010318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66112,
       "num": 66112,
       "word": "没想到朋友圈置顶还能这么玩",
@@ -26456,14 +26544,6 @@
       "word": "32岁女子上大学和00后做同学",
       "onboard_time": 1717832839,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 62038,
-      "num": 881714,
-      "word": "被中国皮影戏的灵动征服了",
-      "onboard_time": 1718010318,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

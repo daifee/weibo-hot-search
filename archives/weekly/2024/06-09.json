@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718023929501,
+  "endTime": 1718025758668,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1230265,
+      "num": 550692,
+      "word": "96年28岁其实挺小的",
+      "onboard_time": 1718018057,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1185741,
       "num": 539900,
       "word": "新女团成员上节目被开黄腔",
@@ -176,14 +184,6 @@
       "word": "分手一年多了前任一直在用亲情卡",
       "onboard_time": 1718009897,
       "rank": 11,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1090804,
-      "num": 550692,
-      "word": "96年28岁其实挺小的",
-      "onboard_time": 1718018057,
-      "rank": 21,
       "category": "情感"
     },
     {
@@ -307,6 +307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 865753,
+      "num": 620571,
+      "word": "彭冠英下线林更新上线",
+      "onboard_time": 1718021839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 863832,
       "num": 483573,
       "word": "男子火锅店强吻陌生女子被拘10天",
@@ -395,14 +403,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 752466,
-      "num": 620571,
-      "word": "彭冠英下线林更新上线",
-      "onboard_time": 1718021839,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 746531,
       "num": 669609,
       "word": "庄国栋有未婚妻",
@@ -457,6 +457,14 @@
       "onboard_time": 1717990757,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 710461,
+      "num": 318737,
+      "word": "墨雨云间这段刘亦菲10年前就意识到了",
+      "onboard_time": 1718021297,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 706720,
@@ -667,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 624977,
+      "num": 250103,
+      "word": "Angelababy汉服少女",
+      "onboard_time": 1718023037,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 620026,
       "num": 620026,
       "word": "时代少年团不开演唱会开运动会",
@@ -769,14 +785,6 @@
       "onboard_time": 1717925657,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 562118,
-      "num": 306042,
-      "word": "墨雨云间这段刘亦菲10年前就意识到了",
-      "onboard_time": 1718021297,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 559258,
@@ -1347,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 374498,
+      "num": 183003,
+      "word": "月薪三千五一顿饭不超过五块",
+      "onboard_time": 1718023999,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 372394,
       "num": 372394,
       "word": "以军直升机直接向人群开火现场成地狱",
@@ -1403,6 +1419,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 361730,
+      "num": 182956,
+      "word": "彭冠英否认庄国栋有未婚妻",
+      "onboard_time": 1718024779,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360734,
       "num": 360734,
       "word": "种地吧 草莓爷爷",
@@ -1424,6 +1448,14 @@
       "word": "墨雨云间17",
       "onboard_time": 1717910838,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 357587,
+      "num": 203917,
+      "word": "杨紫李现国色芳华没有停拍",
+      "onboard_time": 1718023339,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1473,6 +1505,14 @@
       "onboard_time": 1718002758,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346991,
+      "num": 240215,
+      "word": "林更新丁宁互关了",
+      "onboard_time": 1718023218,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 345600,
@@ -1667,6 +1707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 317156,
+      "num": 181923,
+      "word": "黄日莹回应脸部受伤",
+      "onboard_time": 1718023758,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 312953,
       "num": 312953,
       "word": "你好星期六下期有陈昊宇陈丽君",
@@ -1729,6 +1777,14 @@
       "onboard_time": 1717836078,
       "rank": 6,
       "category": "教育"
+    },
+    {
+      "raw_hot": 303909,
+      "num": 181495,
+      "word": "宋亚轩刘耀文一起逛街",
+      "onboard_time": 1718025198,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 303198,
@@ -1803,14 +1859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 293877,
-      "num": 204239,
-      "word": "Angelababy汉服少女",
-      "onboard_time": 1718023037,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -1867,12 +1915,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 279362,
-      "num": 203917,
-      "word": "杨紫李现国色芳华没有停拍",
-      "onboard_time": 1718023339,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 279910,
+      "num": 180780,
+      "word": "Cube回应解约",
+      "onboard_time": 1718024418,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 278989,
@@ -1928,6 +1976,14 @@
       "word": "王鹤棣这一幕梦回东方青苍",
       "onboard_time": 1717991417,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 270079,
+      "num": 180659,
+      "word": "央视端午晚会",
+      "onboard_time": 1718024839,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -2009,6 +2065,14 @@
       "onboard_time": 1717853779,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257259,
+      "num": 257259,
+      "word": "BLG",
+      "onboard_time": 1718023279,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 256911,
@@ -2147,6 +2211,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 239665,
+      "num": 239665,
+      "word": "因为是牛马所以换公司叫跳槽",
+      "onboard_time": 1718020938,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 239019,
       "num": 196308,
       "word": "不经意但发量会变多的习惯",
@@ -2155,12 +2227,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 236698,
-      "num": 236698,
-      "word": "因为是牛马所以换公司叫跳槽",
-      "onboard_time": 1718020938,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 238549,
+      "num": 238549,
+      "word": "OMG",
+      "onboard_time": 1718021897,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 233492,
@@ -2177,14 +2249,6 @@
       "onboard_time": 1718002638,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232709,
-      "num": 232709,
-      "word": "OMG",
-      "onboard_time": 1718021897,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 231406,
@@ -2249,14 +2313,6 @@
       "onboard_time": 1717903517,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220645,
-      "num": 201989,
-      "word": "林更新丁宁互关了",
-      "onboard_time": 1718023218,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 219927,
@@ -2475,14 +2531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206262,
-      "num": 206262,
-      "word": "BLG",
-      "onboard_time": 1718023279,
-      "rank": 19,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 205991,
       "num": 205991,
       "word": "KPL王者梦之队队服曝光",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1717984277,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203551,
+      "num": 203565,
+      "word": "你的考公对手可能是你老师",
+      "onboard_time": 1718022318,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 202625,
@@ -2795,14 +2851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 189902,
-      "num": 203565,
-      "word": "你的考公对手可能是你老师",
-      "onboard_time": 1718022318,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 189467,
       "num": 161372,
       "word": "魏大勋石家庄活动",
@@ -2969,6 +3017,14 @@
       "onboard_time": 1717977315,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180015,
+      "num": 180015,
+      "word": "人生中最爽的三个月",
+      "onboard_time": 1718023578,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 179836,
@@ -3147,14 +3203,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 170190,
-      "num": 130252,
-      "word": "黄日莹回应脸部受伤",
-      "onboard_time": 1718023758,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169590,
       "num": 169590,
       "word": "白鹿敖瑞鹏白月梵星端午海报",
@@ -3168,6 +3216,14 @@
       "word": "张栋梁正式回归演员",
       "onboard_time": 1717994358,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169192,
+      "num": 169192,
+      "word": "黄亦玫爸爸",
+      "onboard_time": 1718025559,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -3443,6 +3499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153310,
+      "num": 151541,
+      "word": "易烊千玺演过少年屈原",
+      "onboard_time": 1718021958,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 153002,
       "num": 153002,
       "word": "刘亦菲同款棒球帽卖断货",
@@ -3473,14 +3537,6 @@
       "onboard_time": 1717912817,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151541,
-      "num": 151541,
-      "word": "易烊千玺演过少年屈原",
-      "onboard_time": 1718021958,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 151452,
@@ -3763,6 +3819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140175,
+      "num": 140175,
+      "word": "女生高考结束喜欢肖战想去重庆",
+      "onboard_time": 1718024539,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 139619,
       "num": 139619,
       "word": "玫瑰的故事热辣滚炕",
@@ -4003,6 +4067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129845,
+      "num": 129845,
+      "word": "黑神话实体收藏版1分钟被抢光",
+      "onboard_time": 1718025559,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129320,
       "num": 462444,
       "word": "妈妈说填志愿一切都听女儿的",
@@ -4121,14 +4193,6 @@
       "onboard_time": 1717976113,
       "rank": 38,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 125318,
-      "num": 125318,
-      "word": "人生中最爽的三个月",
-      "onboard_time": 1718023578,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 125250,
@@ -4265,6 +4329,14 @@
       "onboard_time": 1717925897,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121651,
+      "num": 121651,
+      "word": "近视手术并不是一劳永逸",
+      "onboard_time": 1718025499,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121622,
@@ -4599,6 +4671,14 @@
       "num": 105343,
       "word": "在爱里长大的小孩原来是这样的",
       "onboard_time": 1717992377,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 104650,
+      "num": 104650,
+      "word": "只有手机是玩回本了",
+      "onboard_time": 1718025559,
       "rank": 48,
       "category": "幽默"
     },
@@ -5051,6 +5131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66175,
+      "num": 881714,
+      "word": "被中国皮影戏的灵动征服了",
+      "onboard_time": 1718010318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64914,
       "num": 490300,
       "word": "AI预测宝宝长相是不是智商税",
@@ -5089,14 +5177,6 @@
       "onboard_time": 1717863496,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62038,
-      "num": 881714,
-      "word": "被中国皮影戏的灵动征服了",
-      "onboard_time": 1718010318,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 61619,
