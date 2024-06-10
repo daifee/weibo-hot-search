@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718046965672,
+  "endTime": 1718048060374,
   "band_list": [
     {
       "raw_hot": 1503435,
@@ -195,6 +195,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145409,
+      "num": 145409,
+      "word": "年轻人喜欢熬夜的根本原因",
+      "onboard_time": 1718043791,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142092,
       "num": 142092,
       "word": "突然发现了求婚的意义",
@@ -257,14 +265,6 @@
       "onboard_time": 1718018237,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108457,
-      "num": 108457,
-      "word": "年轻人喜欢熬夜的根本原因",
-      "onboard_time": 1718043791,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 104417,
@@ -475,12 +475,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20281,
-      "num": 20281,
+      "raw_hot": 29976,
+      "num": 29976,
       "word": "高考7月变6月竟是因为天气",
       "onboard_time": 1718046191,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21199,
+      "num": 22076,
+      "word": "人民网评玫瑰的故事",
+      "onboard_time": 1718027059,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 18768,
@@ -489,6 +497,22 @@
       "onboard_time": 1718035817,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15933,
+      "num": 15933,
+      "word": "鞠婧祎初恋丸子头",
+      "onboard_time": 1718047270,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14639,
+      "num": 57111,
+      "word": "有清华学霸爷爷送考高考绝对错不了",
+      "onboard_time": 1718047571,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 14459,
