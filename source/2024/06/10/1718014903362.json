@@ -1,0 +1,410 @@
+{
+  "runTime": 1718014903362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1445350,
+        "num": 1445350,
+        "word": "李承铉给离婚的爸妈订同一间房",
+        "onboard_time": 1718007559,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1224121,
+        "num": 1224121,
+        "word": "发现一直玩手机真的很恐怖",
+        "onboard_time": 1718011579,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40677,
+        "num": 1003568,
+        "word": "中国发展的多样色彩绘就热烈的夏天",
+        "onboard_time": 1718010617,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979962,
+        "num": 979962,
+        "word": "分手一年多了前任一直在用亲情卡",
+        "onboard_time": 1718009897,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 912837,
+        "num": 912837,
+        "word": "双方都对这个吻感到恶心",
+        "onboard_time": 1718011217,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410060,
+        "num": 878828,
+        "word": "高考47年来裸分最高的考生是谁",
+        "onboard_time": 1717999397,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 848935,
+        "num": 848935,
+        "word": "刘亦菲新剧口碑逆跌",
+        "onboard_time": 1718012658,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431368,
+        "num": 431368,
+        "word": "徐艺洋腿要被阿Sa夹扁",
+        "onboard_time": 1718009118,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330305,
+        "num": 330305,
+        "word": "Xiaolaohu删博",
+        "onboard_time": 1718006778,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42818,
+        "num": 328844,
+        "word": "大三女生捐造血干细胞说没啥可犹豫的",
+        "onboard_time": 1718012717,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 558789,
+        "num": 326157,
+        "word": "追风者白玉兰或将颗粒无收",
+        "onboard_time": 1718010678,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428743,
+        "num": 324946,
+        "word": "李晨身体年龄只有三十岁左右",
+        "onboard_time": 1718009357,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349084,
+        "num": 323236,
+        "word": "苏新皓TF三代出道战主题曲C位",
+        "onboard_time": 1718011637,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343592,
+        "num": 319713,
+        "word": "3名龙舟手在端午节前夕离世",
+        "onboard_time": 1718010259,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319393,
+        "num": 319393,
+        "word": "江苏网红徒步路线一女孩中暑身亡",
+        "onboard_time": 1718009657,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310348,
+        "num": 310348,
+        "word": "为什么床上总是有沙子",
+        "onboard_time": 1717990817,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 268920,
+        "num": 268920,
+        "word": "内娱颤抖吧十几个初生要来了",
+        "onboard_time": 1718006058,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228185,
+        "num": 228185,
+        "word": "那么多卖咸蛋黄的蛋清都去哪了",
+        "onboard_time": 1718002098,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217038,
+        "num": 217038,
+        "word": "法国总统宣布解散国民议会",
+        "onboard_time": 1717984097,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 211590,
+        "num": 211590,
+        "word": "高考试卷真的在监狱印刷吗",
+        "onboard_time": 1717997838,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255972,
+        "num": 210670,
+        "word": "这样睡10分钟可抵2小时",
+        "onboard_time": 1718000838,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 233297,
+        "num": 205179,
+        "word": "鞠婧祎烟雨江南",
+        "onboard_time": 1718013618,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215369,
+        "num": 204911,
+        "word": "初生",
+        "onboard_time": 1718002217,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195342,
+        "num": 195342,
+        "word": "SM不给EXOCBX续约金",
+        "onboard_time": 1718014218,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190854,
+        "num": 190854,
+        "word": "吴谨言这巴掌多少带了点魏姐情绪",
+        "onboard_time": 1718002217,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174881,
+        "num": 174881,
+        "word": "薛凯琪萨顶顶回应网友P图",
+        "onboard_time": 1718014277,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173922,
+        "num": 173922,
+        "word": "陈雨浓董力",
+        "onboard_time": 1718014457,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172805,
+        "num": 172805,
+        "word": "日本21岁幼师割伤2岁幼儿颈部",
+        "onboard_time": 1718002939,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161083,
+        "num": 161083,
+        "word": "中国第一大省正在疯狂建大学",
+        "onboard_time": 1717996519,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 159940,
+        "num": 159940,
+        "word": "墨雨云间你是真的火了",
+        "onboard_time": 1718001377,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158332,
+        "num": 158332,
+        "word": "EXOCBX续约理由",
+        "onboard_time": 1718010798,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157061,
+        "num": 157061,
+        "word": "曾念群评价白玉兰争议",
+        "onboard_time": 1718013378,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154836,
+        "num": 154836,
+        "word": "龙舟",
+        "onboard_time": 1718014339,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154339,
+        "num": 154339,
+        "word": "鱼一上午被扇了6000个巴掌",
+        "onboard_time": 1717998796,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152189,
+        "num": 152189,
+        "word": "张杰瓢嘴杰又出场了",
+        "onboard_time": 1718012959,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143386,
+        "num": 143386,
+        "word": "赴山海定妆照",
+        "onboard_time": 1718011878,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141539,
+        "num": 141539,
+        "word": "卖不完的粽子去哪儿了",
+        "onboard_time": 1718014218,
+        "rank": 36,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 137145,
+        "num": 137145,
+        "word": "狐妖月红篇豆瓣5.6分",
+        "onboard_time": 1718007318,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133532,
+        "num": 133532,
+        "word": "高考结束",
+        "onboard_time": 1718011579,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127562,
+        "num": 127562,
+        "word": "端午过后龙舟都去哪儿了",
+        "onboard_time": 1718009957,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128934,
+        "num": 126241,
+        "word": "赵露思开机照",
+        "onboard_time": 1717998617,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122902,
+        "num": 122902,
+        "word": "办公室不是你们带薪恋爱的地方",
+        "onboard_time": 1718007618,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122365,
+        "num": 122365,
+        "word": "山东地理",
+        "onboard_time": 1718011579,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121069,
+        "num": 121069,
+        "word": "1米9山东大爷持2米艾蒿挤地铁",
+        "onboard_time": 1718007559,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108581,
+        "num": 108581,
+        "word": "孙海洋透露儿子高考发挥得很好",
+        "onboard_time": 1718001139,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118169,
+        "num": 107264,
+        "word": "赵露思陈伟霆同框路透",
+        "onboard_time": 1718001257,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103447,
+        "num": 103447,
+        "word": "FPX对战EDG",
+        "onboard_time": 1718014518,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102833,
+        "num": 102833,
+        "word": "TF三代登陆计划主题曲等你的回答",
+        "onboard_time": 1718012838,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100179,
+        "num": 100179,
+        "word": "不经意但发量会变多的习惯",
+        "onboard_time": 1718014757,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 99194,
+        "num": 99194,
+        "word": "片头每帧都吓人片尾每集都感人",
+        "onboard_time": 1718010858,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#要让更多文物和文化遗产活起来#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718012138251,
+  "endTime": 1718014903362,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -120,6 +120,14 @@
       "word": "高铁上拒绝了宝妈的换座要求",
       "onboard_time": 1717937717,
       "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1224121,
+      "num": 1224121,
+      "word": "发现一直玩手机真的很恐怖",
+      "onboard_time": 1718011579,
+      "rank": 19,
       "category": "情感"
     },
     {
@@ -267,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912837,
+      "num": 912837,
+      "word": "双方都对这个吻感到恶心",
+      "onboard_time": 1718011217,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 887018,
       "num": 887018,
       "word": "高考出题人 考完一门放一个",
@@ -284,11 +300,19 @@
     },
     {
       "raw_hot": 863802,
-      "num": 199212,
+      "num": 319713,
       "word": "3名龙舟手在端午节前夕离世",
       "onboard_time": 1718010259,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848935,
+      "num": 848935,
+      "word": "刘亦菲新剧口碑逆跌",
+      "onboard_time": 1718012658,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 825830,
@@ -659,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579158,
-      "num": 579158,
-      "word": "双方都对这个吻感到恶心",
-      "onboard_time": 1718011217,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 574242,
       "num": 574242,
       "word": "刚考完就有大学生那味了",
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 523416,
-      "num": 274643,
+      "num": 324946,
       "word": "李晨身体年龄只有三十岁左右",
       "onboard_time": 1718009357,
       "rank": 20,
@@ -1067,6 +1083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 431368,
+      "num": 431368,
+      "word": "徐艺洋腿要被阿Sa夹扁",
+      "onboard_time": 1718009118,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431160,
       "num": 431160,
       "word": "高圆圆回复秦霄贤包场",
@@ -1211,14 +1235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387647,
-      "num": 387647,
-      "word": "徐艺洋腿要被阿Sa夹扁",
-      "onboard_time": 1718009118,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 379803,
       "num": 349706,
       "word": "杜海涛去披荆斩棘前的最后一顿烧烤",
@@ -1328,6 +1344,14 @@
       "word": "沈月凭本事让孟子义工作室挨骂",
       "onboard_time": 1717918037,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349084,
+      "num": 323236,
+      "word": "苏新皓TF三代出道战主题曲C位",
+      "onboard_time": 1718011637,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1699,14 +1723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273786,
-      "num": 273786,
-      "word": "苏新皓TF三代出道战主题曲C位",
-      "onboard_time": 1718011637,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272860,
       "num": 200785,
       "word": "请问你俩不亲是谁的问题",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1717912339,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 264897,
-      "num": 275401,
-      "word": "发现一直玩手机真的很恐怖",
-      "onboard_time": 1718011579,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 262733,
@@ -1953,6 +1961,14 @@
       "onboard_time": 1717890376,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 233297,
+      "num": 205179,
+      "word": "鞠婧祎烟雨江南",
+      "onboard_time": 1718013618,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 233106,
@@ -2427,6 +2443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195342,
+      "num": 195342,
+      "word": "SM不给EXOCBX续约金",
+      "onboard_time": 1718014218,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195208,
       "num": 181892,
       "word": "关晓彤翟潇闻合作现偶",
@@ -2755,6 +2779,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 174881,
+      "num": 174881,
+      "word": "薛凯琪萨顶顶回应网友P图",
+      "onboard_time": 1718014277,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 173922,
+      "num": 173922,
+      "word": "陈雨浓董力",
+      "onboard_time": 1718014457,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173787,
       "num": 173787,
       "word": "删了吧有个发量少的朋友破防了",
@@ -3019,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157061,
+      "num": 157061,
+      "word": "曾念群评价白玉兰争议",
+      "onboard_time": 1718013378,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "霉霉的小品没有瓶颈期吗",
@@ -3067,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154836,
+      "num": 154836,
+      "word": "龙舟",
+      "onboard_time": 1718014339,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154291,
       "num": 154291,
       "word": "特斯拉库存积压严重",
@@ -3081,6 +3137,14 @@
       "onboard_time": 1717995259,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152189,
+      "num": 152189,
+      "word": "张杰瓢嘴杰又出场了",
+      "onboard_time": 1718012959,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 152046,
@@ -3305,6 +3369,14 @@
       "onboard_time": 1717931059,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141539,
+      "num": 141539,
+      "word": "卖不完的粽子去哪儿了",
+      "onboard_time": 1718014218,
+      "rank": 36,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 141358,
@@ -4115,6 +4187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103447,
+      "num": 103447,
+      "word": "FPX对战EDG",
+      "onboard_time": 1718014518,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103093,
       "num": 103093,
       "word": "终于等到张韶涵唱起风了",
@@ -4129,6 +4209,14 @@
       "onboard_time": 1717859719,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 102833,
+      "num": 102833,
+      "word": "TF三代登陆计划主题曲等你的回答",
+      "onboard_time": 1718012838,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 101975,
@@ -4153,6 +4241,14 @@
       "onboard_time": 1717994958,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100179,
+      "num": 100179,
+      "word": "不经意但发量会变多的习惯",
+      "onboard_time": 1718014757,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 99238,
@@ -4859,6 +4955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42818,
+      "num": 328844,
+      "word": "大三女生捐造血干细胞说没啥可犹豫的",
+      "onboard_time": 1718012717,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 42353,
       "num": 45589,
       "word": "谁敢相信这是五十多岁大叔的穿搭",
@@ -4881,6 +4985,14 @@
       "onboard_time": 1718011818,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 40677,
+      "num": 1003568,
+      "word": "中国发展的多样色彩绘就热烈的夏天",
+      "onboard_time": 1718010617,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39947,
@@ -5025,14 +5137,6 @@
       "onboard_time": 1717900877,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 30548,
-      "num": 640284,
-      "word": "中国发展的多样色彩绘就热烈的夏天",
-      "onboard_time": 1718010617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30229,
