@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718007912128,
+  "endTime": 1718008690581,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -329,6 +329,14 @@
       "onboard_time": 1717918217,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1894841,
+      "num": 1894841,
+      "word": "李承铉给离婚的爸妈订同一间房",
+      "onboard_time": 1718007559,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1894470,
@@ -1699,14 +1707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1040738,
-      "num": 1040738,
-      "word": "李承铉给离婚的爸妈订同一间房",
-      "onboard_time": 1718007559,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1021664,
       "num": 1021664,
       "word": "没想到榴莲也住上单间了",
@@ -2571,6 +2571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 771190,
+      "num": 771190,
+      "word": "Xiaolaohu删博",
+      "onboard_time": 1718006778,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 771134,
       "num": 455063,
       "word": "汪峰 有点爹",
@@ -3097,6 +3105,14 @@
       "onboard_time": 1717759458,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 706720,
+      "num": 706720,
+      "word": "日本21岁幼师割伤2岁幼儿颈部",
+      "onboard_time": 1718002939,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701588,
@@ -3867,14 +3883,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 619235,
-      "num": 619235,
-      "word": "日本21岁幼师割伤2岁幼儿颈部",
-      "onboard_time": 1718002939,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 617227,
       "num": 617227,
       "word": "墨雨云间口碑逆跌",
@@ -3977,14 +3985,6 @@
       "onboard_time": 1717577600,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 607936,
-      "num": 607936,
-      "word": "Xiaolaohu删博",
-      "onboard_time": 1718006778,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 606789,
@@ -6305,6 +6305,14 @@
       "onboard_time": 1717754419,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 438753,
+      "num": 438753,
+      "word": "内娱颤抖吧十几个初生要来了",
+      "onboard_time": 1718006058,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 438643,
@@ -8659,6 +8667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321393,
+      "num": 221616,
+      "word": "狐妖月红篇豆瓣5.6分",
+      "onboard_time": 1718007318,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321285,
       "num": 279469,
       "word": "邓超抱的竟然是鹿晗",
@@ -8673,14 +8689,6 @@
       "onboard_time": 1717561039,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 321085,
-      "num": 321085,
-      "word": "内娱颤抖吧十几个初生要来了",
-      "onboard_time": 1718006058,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 320897,
@@ -10675,6 +10683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255163,
+      "num": 255163,
+      "word": "福宝端午节吃上粽子了",
+      "onboard_time": 1718006117,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255072,
       "num": 210358,
       "word": "何浩楠 十个勤天监事一职被保留",
@@ -10729,14 +10745,6 @@
       "onboard_time": 1717478178,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 253274,
-      "num": 221616,
-      "word": "狐妖月红篇豆瓣5.6分",
-      "onboard_time": 1718007318,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 253078,
@@ -11041,14 +11049,6 @@
       "onboard_time": 1717632136,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 243844,
-      "num": 243844,
-      "word": "福宝端午节吃上粽子了",
-      "onboard_time": 1718006117,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243833,
@@ -13819,6 +13819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198894,
+      "num": 154138,
+      "word": "办公室不是你们带薪恋爱的地方",
+      "onboard_time": 1718007618,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198815,
       "num": 198815,
       "word": "奶奶将毕生厨艺用在了孙子高考这天",
@@ -14915,6 +14923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187455,
+      "num": 187455,
+      "word": "1米9山东大爷持2米艾蒿挤地铁",
+      "onboard_time": 1718007559,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187413,
       "num": 187413,
       "word": "独行侠vs凯尔特人",
@@ -15465,6 +15481,14 @@
       "onboard_time": 1717563740,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179492,
+      "num": 179492,
+      "word": "沈月女团风金发",
+      "onboard_time": 1718007259,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179489,
@@ -16339,6 +16363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170840,
+      "num": 170840,
+      "word": "女子称邻居点蚊香致全家集体中毒",
+      "onboard_time": 1718007798,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170730,
       "num": 170730,
       "word": "邓超陈赫让另一半来五哈",
@@ -16729,14 +16761,6 @@
       "onboard_time": 1717723157,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166071,
-      "num": 166071,
-      "word": "沈月女团风金发",
-      "onboard_time": 1718007259,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 166059,
@@ -19891,14 +19915,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 137167,
-      "num": 137167,
-      "word": "办公室不是你们带薪恋爱的地方",
-      "onboard_time": 1718007618,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137104,
       "num": 137104,
       "word": "当小男孩知道小猫去了喵星",
@@ -20169,14 +20185,6 @@
       "onboard_time": 1717465697,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 134849,
-      "num": 134849,
-      "word": "1米9山东大爷持2米艾蒿挤地铁",
-      "onboard_time": 1718007559,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134788,
@@ -20921,6 +20929,14 @@
       "onboard_time": 1717306757,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127311,
+      "num": 127311,
+      "word": "杨紫端午拍立得",
+      "onboard_time": 1718008457,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 127248,
@@ -21675,6 +21691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121730,
+      "num": 121730,
+      "word": "亚当 美妆博主",
+      "onboard_time": 1718005277,
+      "rank": 45,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 121662,
       "num": 121662,
       "word": "闪光的夏天",
@@ -22147,14 +22171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117043,
-      "num": 117043,
-      "word": "亚当 美妆博主",
-      "onboard_time": 1718005277,
-      "rank": 45,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 116992,
       "num": 116992,
       "word": "黑色沙漠过审",
@@ -22337,6 +22353,14 @@
       "onboard_time": 1717726217,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 115845,
+      "num": 115845,
+      "word": "林孝埈说短道速滑我的人生",
+      "onboard_time": 1718008097,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 115815,
@@ -22713,14 +22737,6 @@
       "onboard_time": 1717456276,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112293,
-      "num": 112293,
-      "word": "女子称邻居点蚊香致全家集体中毒",
-      "onboard_time": 1718007798,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112255,
@@ -25571,6 +25587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64914,
+      "num": 490300,
+      "word": "AI预测宝宝长相是不是智商税",
+      "onboard_time": 1718006418,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 64893,
       "num": 64893,
       "word": "物理老师用半堂课鼓励考生别紧张",
@@ -26907,14 +26931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41606,
-      "num": 490300,
-      "word": "AI预测宝宝长相是不是智商税",
-      "onboard_time": 1718006418,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 41535,
       "num": 45569,
       "word": "猫 忘了我也会",
@@ -28057,6 +28073,14 @@
       "onboard_time": 1717269911,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20167,
+      "num": 408800,
+      "word": "端午汪汪队贺安康顺带一波科普太呆萌",
+      "onboard_time": 1718005577,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19608,

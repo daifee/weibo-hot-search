@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718007912128,
+  "endTime": 1718008690581,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -17,6 +17,14 @@
       "onboard_time": 1717918217,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1894841,
+      "num": 1894841,
+      "word": "李承铉给离婚的爸妈订同一间房",
+      "onboard_time": 1718007559,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1775674,
@@ -187,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1040738,
-      "num": 1040738,
-      "word": "李承铉给离婚的爸妈订同一间房",
-      "onboard_time": 1718007559,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1012793,
       "num": 464109,
       "word": "徐海乔经纪人",
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 771190,
+      "num": 771190,
+      "word": "Xiaolaohu删博",
+      "onboard_time": 1718006778,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 768578,
       "num": 268938,
       "word": "妈妈存了十年的黄金生锈了",
@@ -385,6 +393,14 @@
       "onboard_time": 1717990757,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 706720,
+      "num": 706720,
+      "word": "日本21岁幼师割伤2岁幼儿颈部",
+      "onboard_time": 1718002939,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 698732,
@@ -555,14 +571,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 619235,
-      "num": 619235,
-      "word": "日本21岁幼师割伤2岁幼儿颈部",
-      "onboard_time": 1718002939,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610358,
       "num": 255909,
       "word": "长期睡眠不好的人后来怎么样了",
@@ -577,14 +585,6 @@
       "onboard_time": 1717974613,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 607936,
-      "num": 607936,
-      "word": "Xiaolaohu删博",
-      "onboard_time": 1718006778,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 606789,
@@ -993,6 +993,14 @@
       "onboard_time": 1717975093,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 438753,
+      "num": 438753,
+      "word": "内娱颤抖吧十几个初生要来了",
+      "onboard_time": 1718006058,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 438479,
@@ -1427,12 +1435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321085,
-      "num": 321085,
-      "word": "内娱颤抖吧十几个初生要来了",
-      "onboard_time": 1718006058,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 321393,
+      "num": 221616,
+      "word": "狐妖月红篇豆瓣5.6分",
+      "onboard_time": 1718007318,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 320856,
@@ -1755,12 +1763,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253274,
-      "num": 221616,
-      "word": "狐妖月红篇豆瓣5.6分",
-      "onboard_time": 1718007318,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 255163,
+      "num": 255163,
+      "word": "福宝端午节吃上粽子了",
+      "onboard_time": 1718006117,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251768,
@@ -1801,14 +1809,6 @@
       "onboard_time": 1717996278,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243844,
-      "num": 243844,
-      "word": "福宝端午节吃上粽子了",
-      "onboard_time": 1718006117,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242322,
@@ -2251,6 +2251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198894,
+      "num": 154138,
+      "word": "办公室不是你们带薪恋爱的地方",
+      "onboard_time": 1718007618,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198724,
       "num": 198724,
       "word": "结婚后挺不喜欢过节的",
@@ -2395,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187455,
+      "num": 187455,
+      "word": "1米9山东大爷持2米艾蒿挤地铁",
+      "onboard_time": 1718007559,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187264,
       "num": 187264,
       "word": "TFBOYS十一周年一定要办",
@@ -2520,6 +2536,14 @@
       "word": "李惠利柳智敏用中文对话",
       "onboard_time": 1717850718,
       "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179492,
+      "num": 179492,
+      "word": "沈月女团风金发",
+      "onboard_time": 1718007259,
+      "rank": 29,
       "category": "作品衍生"
     },
     {
@@ -2659,6 +2683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170840,
+      "num": 170840,
+      "word": "女子称邻居点蚊香致全家集体中毒",
+      "onboard_time": 1718007798,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170469,
       "num": 170469,
       "word": "咸粽子比甜粽子晚了1000多年",
@@ -2697,14 +2729,6 @@
       "onboard_time": 1717927637,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 166071,
-      "num": 166071,
-      "word": "沈月女团风金发",
-      "onboard_time": 1718007259,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165834,
@@ -3219,14 +3243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137167,
-      "num": 137167,
-      "word": "办公室不是你们带薪恋爱的地方",
-      "onboard_time": 1718007618,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136800,
       "num": 136800,
       "word": "胡锡进呼吁别把自己变成彻底的算法人",
@@ -3281,14 +3297,6 @@
       "onboard_time": 1717998437,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134849,
-      "num": 134849,
-      "word": "1米9山东大爷持2米艾蒿挤地铁",
-      "onboard_time": 1718007559,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134479,
@@ -3425,6 +3433,14 @@
       "onboard_time": 1717915398,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127311,
+      "num": 127311,
+      "word": "杨紫端午拍立得",
+      "onboard_time": 1718008457,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 127233,
@@ -3571,6 +3587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 121730,
+      "num": 121730,
+      "word": "亚当 美妆博主",
+      "onboard_time": 1718005277,
+      "rank": 45,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 121662,
       "num": 121662,
       "word": "闪光的夏天",
@@ -3651,14 +3675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117043,
-      "num": 117043,
-      "word": "亚当 美妆博主",
-      "onboard_time": 1718005277,
-      "rank": 45,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 116661,
       "num": 116661,
       "word": "端午壁纸",
@@ -3689,6 +3705,14 @@
       "onboard_time": 1717930338,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115845,
+      "num": 115845,
+      "word": "林孝埈说短道速滑我的人生",
+      "onboard_time": 1718008097,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 115761,
@@ -3801,14 +3825,6 @@
       "onboard_time": 1717998497,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112293,
-      "num": 112293,
-      "word": "女子称邻居点蚊香致全家集体中毒",
-      "onboard_time": 1718007798,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110429,
@@ -4323,6 +4339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64914,
+      "num": 490300,
+      "word": "AI预测宝宝长相是不是智商税",
+      "onboard_time": 1718006418,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 63727,
       "num": 66762,
       "word": "黄亦玫一条丝巾硬控苏更生两次",
@@ -4667,14 +4691,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41606,
-      "num": 490300,
-      "word": "AI预测宝宝长相是不是智商税",
-      "onboard_time": 1718006418,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 39947,
       "num": 39947,
       "word": "胡夏把清华电视踢翻了",
@@ -4873,6 +4889,14 @@
       "onboard_time": 1717878371,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 20167,
+      "num": 408800,
+      "word": "端午汪汪队贺安康顺带一波科普太呆萌",
+      "onboard_time": 1718005577,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18134,
