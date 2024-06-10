@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718025758668,
+  "endTime": 1718026468405,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1051,6 +1051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1286670,
+      "num": 550692,
+      "word": "96年28岁其实挺小的",
+      "onboard_time": 1718018057,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1285089,
       "num": 1285089,
       "word": "肖战重庆暴走",
@@ -1177,14 +1185,6 @@
       "onboard_time": 1717853779,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1230265,
-      "num": 550692,
-      "word": "96年28岁其实挺小的",
-      "onboard_time": 1718018057,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 1229619,
@@ -1963,6 +1963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 937871,
+      "num": 937871,
+      "word": "彭冠英下线林更新上线",
+      "onboard_time": 1718021839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 936212,
       "num": 936212,
       "word": "蔡徐坤染了银发梦回偶练",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1717586778,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 865753,
-      "num": 620571,
-      "word": "彭冠英下线林更新上线",
-      "onboard_time": 1718021839,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 865090,
@@ -3147,8 +3147,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 710461,
-      "num": 318737,
+      "raw_hot": 711866,
+      "num": 445172,
       "word": "墨雨云间这段刘亦菲10年前就意识到了",
       "onboard_time": 1718021297,
       "rank": 16,
@@ -3635,6 +3635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660188,
+      "num": 358891,
+      "word": "Angelababy汉服少女",
+      "onboard_time": 1718023037,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 659087,
       "num": 659087,
       "word": "韩国罕见展出500年前王室印玺",
@@ -3929,14 +3937,6 @@
       "onboard_time": 1717646719,
       "rank": 5,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 624977,
-      "num": 250103,
-      "word": "Angelababy汉服少女",
-      "onboard_time": 1718023037,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 624240,
@@ -4939,6 +4939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 534158,
+      "num": 534158,
+      "word": "月薪三千五一顿饭不超过五块",
+      "onboard_time": 1718023999,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 533641,
       "num": 533641,
       "word": "欧豪曾在节目里被打出鼻血",
@@ -5593,6 +5601,14 @@
       "onboard_time": 1717589779,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 490558,
+      "num": 246992,
+      "word": "彭冠英否认庄国栋有未婚妻",
+      "onboard_time": 1718024779,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 490343,
@@ -7635,14 +7651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 374498,
-      "num": 183003,
-      "word": "月薪三千五一顿饭不超过五块",
-      "onboard_time": 1718023999,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 374349,
       "num": 374349,
       "word": "马斯克星舰第4次试飞",
@@ -7851,6 +7859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364960,
+      "num": 364960,
+      "word": "BLG",
+      "onboard_time": 1718023279,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 364948,
       "num": 364948,
       "word": "国家医保局约谈一心堂",
@@ -7905,14 +7921,6 @@
       "onboard_time": 1717928597,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 361730,
-      "num": 182956,
-      "word": "彭冠英否认庄国栋有未婚妻",
-      "onboard_time": 1718024779,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 361698,
@@ -8028,7 +8036,7 @@
     },
     {
       "raw_hot": 357587,
-      "num": 203917,
+      "num": 211940,
       "word": "杨紫李现国色芳华没有停拍",
       "onboard_time": 1718023339,
       "rank": 26,
@@ -8292,7 +8300,7 @@
     },
     {
       "raw_hot": 346991,
-      "num": 240215,
+      "num": 336810,
       "word": "林更新丁宁互关了",
       "onboard_time": 1718023218,
       "rank": 31,
@@ -8665,6 +8673,22 @@
       "onboard_time": 1717561100,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332349,
+      "num": 229108,
+      "word": "宋亚轩刘耀文一起逛街",
+      "onboard_time": 1718025198,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 331935,
+      "num": 221394,
+      "word": "Cube回应解约",
+      "onboard_time": 1718024418,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 331929,
@@ -9052,7 +9076,7 @@
     },
     {
       "raw_hot": 317156,
-      "num": 181923,
+      "num": 208312,
       "word": "黄日莹回应脸部受伤",
       "onboard_time": 1718023758,
       "rank": 41,
@@ -9387,14 +9411,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 303909,
-      "num": 181495,
-      "word": "宋亚轩刘耀文一起逛街",
-      "onboard_time": 1718025198,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303749,
       "num": 200007,
       "word": "浙江两驴友被溪流冲走当地商户发声",
@@ -9721,6 +9737,14 @@
       "onboard_time": 1717468218,
       "rank": 9,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 292268,
+      "num": 196430,
+      "word": "央视端午晚会",
+      "onboard_time": 1718024839,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 291898,
@@ -10107,14 +10131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279910,
-      "num": 180780,
-      "word": "Cube回应解约",
-      "onboard_time": 1718024418,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "刘亦菲万茜朱珠cp名",
@@ -10491,14 +10507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270079,
-      "num": 180659,
-      "word": "央视端午晚会",
-      "onboard_time": 1718024839,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 269923,
       "num": 269923,
       "word": "于正 多看爽剧有益身心健康",
@@ -10859,6 +10867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258494,
+      "num": 189078,
+      "word": "黄亦玫爸爸",
+      "onboard_time": 1718025559,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258354,
       "num": 212291,
       "word": "张若昀庆余年2最后一场戏",
@@ -10923,12 +10939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257259,
-      "num": 257259,
-      "word": "BLG",
-      "onboard_time": 1718023279,
-      "rank": 19,
-      "category": "互联网"
+      "raw_hot": 257341,
+      "num": 257341,
+      "word": "OMG",
+      "onboard_time": 1718021897,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 257248,
@@ -11593,14 +11609,6 @@
       "onboard_time": 1717581918,
       "rank": 20,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 238549,
-      "num": 238549,
-      "word": "OMG",
-      "onboard_time": 1718021897,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 238375,
@@ -14587,6 +14595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196207,
+      "num": 196207,
+      "word": "人生中最爽的三个月",
+      "onboard_time": 1718023578,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 196153,
       "num": 196153,
       "word": "Twins宣传吴谨言新剧",
@@ -15923,14 +15939,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 180015,
-      "num": 180015,
-      "word": "人生中最爽的三个月",
-      "onboard_time": 1718023578,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179865,
       "num": 179865,
       "word": "嫦娥六号在月球发了第一条微博",
@@ -16987,14 +16995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169192,
-      "num": 169192,
-      "word": "黄亦玫爸爸",
-      "onboard_time": 1718025559,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169148,
       "num": 165981,
       "word": "黑神话Steam国区售价全球最低",
@@ -17065,6 +17065,14 @@
       "onboard_time": 1717334480,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168390,
+      "num": 168390,
+      "word": "黑神话实体收藏版1分钟被抢光",
+      "onboard_time": 1718025559,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 168230,
@@ -17257,6 +17265,14 @@
       "onboard_time": 1717347614,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166269,
+      "num": 166269,
+      "word": "BLG对战LGD",
+      "onboard_time": 1718025618,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 166267,
@@ -17497,6 +17513,14 @@
       "onboard_time": 1717228876,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163981,
+      "num": 166566,
+      "word": "国足",
+      "onboard_time": 1717584259,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 163884,
@@ -18675,6 +18699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152701,
+      "num": 152701,
+      "word": "女生高考结束喜欢肖战想去重庆",
+      "onboard_time": 1718024539,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 152659,
       "num": 152659,
       "word": "陶昕然说红毯不是我的战场",
@@ -19155,14 +19187,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 149205,
-      "num": 166235,
-      "word": "国足",
-      "onboard_time": 1717584259,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 149068,
       "num": 149068,
       "word": "Haerin和Minji的力量差异",
@@ -19468,7 +19492,7 @@
     },
     {
       "raw_hot": 146363,
-      "num": 129907,
+      "num": 140248,
       "word": "魏晨坦言不喜欢自己",
       "onboard_time": 1718021237,
       "rank": 42,
@@ -19851,6 +19875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142812,
+      "num": 142812,
+      "word": "只有手机是玩回本了",
+      "onboard_time": 1718025559,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 142795,
       "num": 142795,
       "word": "山东今天上午没有考试",
@@ -20201,14 +20233,6 @@
       "onboard_time": 1717937657,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140175,
-      "num": 140175,
-      "word": "女生高考结束喜欢肖战想去重庆",
-      "onboard_time": 1718024539,
-      "rank": 38,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 140143,
@@ -21179,6 +21203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131135,
+      "num": 131135,
+      "word": "近视手术并不是一劳永逸",
+      "onboard_time": 1718025499,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 131091,
       "num": 131091,
       "word": "嫦娥六号上演月上之吻",
@@ -21337,14 +21369,6 @@
       "onboard_time": 1717485257,
       "rank": 38,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 129845,
-      "num": 129845,
-      "word": "黑神话实体收藏版1分钟被抢光",
-      "onboard_time": 1718025559,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 129814,
@@ -22401,14 +22425,6 @@
       "onboard_time": 1717925897,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121651,
-      "num": 121651,
-      "word": "近视手术并不是一劳永逸",
-      "onboard_time": 1718025499,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121577,
@@ -24249,14 +24265,6 @@
       "onboard_time": 1717854738,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104650,
-      "num": 104650,
-      "word": "只有手机是玩回本了",
-      "onboard_time": 1718025559,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 104555,

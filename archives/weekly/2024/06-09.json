@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718025758668,
+  "endTime": 1718026468405,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1286670,
+      "num": 550692,
+      "word": "96年28岁其实挺小的",
+      "onboard_time": 1718018057,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1261660,
       "num": 1261660,
       "word": "哪个臭小子被刘亦菲喜欢过",
@@ -128,14 +136,6 @@
       "word": "高铁上拒绝了宝妈的换座要求",
       "onboard_time": 1717937717,
       "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 1230265,
-      "num": 550692,
-      "word": "96年28岁其实挺小的",
-      "onboard_time": 1718018057,
-      "rank": 21,
       "category": "情感"
     },
     {
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 937871,
+      "num": 937871,
+      "word": "彭冠英下线林更新上线",
+      "onboard_time": 1718021839,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 930301,
       "num": 930301,
       "word": "刘亦菲新剧口碑逆跌",
@@ -305,14 +313,6 @@
       "onboard_time": 1717912937,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 865753,
-      "num": 620571,
-      "word": "彭冠英下线林更新上线",
-      "onboard_time": 1718021839,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 863832,
@@ -459,8 +459,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 710461,
-      "num": 318737,
+      "raw_hot": 711866,
+      "num": 445172,
       "word": "墨雨云间这段刘亦菲10年前就意识到了",
       "onboard_time": 1718021297,
       "rank": 16,
@@ -579,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 660188,
+      "num": 358891,
+      "word": "Angelababy汉服少女",
+      "onboard_time": 1718023037,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 659087,
       "num": 659087,
       "word": "韩国罕见展出500年前王室印玺",
@@ -673,14 +681,6 @@
       "onboard_time": 1717896797,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 624977,
-      "num": 250103,
-      "word": "Angelababy汉服少女",
-      "onboard_time": 1718023037,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 620026,
@@ -851,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 534158,
+      "num": 534158,
+      "word": "月薪三千五一顿饭不超过五块",
+      "onboard_time": 1718023999,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 532432,
       "num": 532432,
       "word": "福宝",
@@ -960,6 +968,14 @@
       "word": "国色芳华",
       "onboard_time": 1717922298,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 490558,
+      "num": 246992,
+      "word": "彭冠英否认庄国栋有未婚妻",
+      "onboard_time": 1718024779,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1355,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 374498,
-      "num": 183003,
-      "word": "月薪三千五一顿饭不超过五块",
-      "onboard_time": 1718023999,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 372394,
       "num": 372394,
       "word": "以军直升机直接向人群开火现场成地狱",
@@ -1411,20 +1419,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364960,
+      "num": 364960,
+      "word": "BLG",
+      "onboard_time": 1718023279,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 361868,
       "num": 361868,
       "word": "蔡徐坤Afterglow上线",
       "onboard_time": 1717928597,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 361730,
-      "num": 182956,
-      "word": "彭冠英否认庄国栋有未婚妻",
-      "onboard_time": 1718024779,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 360734,
@@ -1452,7 +1460,7 @@
     },
     {
       "raw_hot": 357587,
-      "num": 203917,
+      "num": 211940,
       "word": "杨紫李现国色芳华没有停拍",
       "onboard_time": 1718023339,
       "rank": 26,
@@ -1508,7 +1516,7 @@
     },
     {
       "raw_hot": 346991,
-      "num": 240215,
+      "num": 336810,
       "word": "林更新丁宁互关了",
       "onboard_time": 1718023218,
       "rank": 31,
@@ -1635,6 +1643,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332349,
+      "num": 229108,
+      "word": "宋亚轩刘耀文一起逛街",
+      "onboard_time": 1718025198,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 331935,
+      "num": 221394,
+      "word": "Cube回应解约",
+      "onboard_time": 1718024418,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330296,
       "num": 330296,
       "word": "狐妖月红篇豆瓣5.6分",
@@ -1708,7 +1732,7 @@
     },
     {
       "raw_hot": 317156,
-      "num": 181923,
+      "num": 208312,
       "word": "黄日莹回应脸部受伤",
       "onboard_time": 1718023758,
       "rank": 41,
@@ -1777,14 +1801,6 @@
       "onboard_time": 1717836078,
       "rank": 6,
       "category": "教育"
-    },
-    {
-      "raw_hot": 303909,
-      "num": 181495,
-      "word": "宋亚轩刘耀文一起逛街",
-      "onboard_time": 1718025198,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 303198,
@@ -1867,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292268,
+      "num": 196430,
+      "word": "央视端午晚会",
+      "onboard_time": 1718024839,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289210,
       "num": 289210,
       "word": "白桃星座",
@@ -1913,14 +1937,6 @@
       "onboard_time": 1717856598,
       "rank": 7,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 279910,
-      "num": 180780,
-      "word": "Cube回应解约",
-      "onboard_time": 1718024418,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 278989,
@@ -1976,14 +1992,6 @@
       "word": "王鹤棣这一幕梦回东方青苍",
       "onboard_time": 1717991417,
       "rank": 16,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 270079,
-      "num": 180659,
-      "word": "央视端午晚会",
-      "onboard_time": 1718024839,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -2059,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258494,
+      "num": 189078,
+      "word": "黄亦玫爸爸",
+      "onboard_time": 1718025559,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258084,
       "num": 258084,
       "word": "村霸杀人后未服刑横行村里无人敢惹",
@@ -2067,12 +2083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257259,
-      "num": 257259,
-      "word": "BLG",
-      "onboard_time": 1718023279,
-      "rank": 19,
-      "category": "互联网"
+      "raw_hot": 257341,
+      "num": 257341,
+      "word": "OMG",
+      "onboard_time": 1718021897,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 256911,
@@ -2225,14 +2241,6 @@
       "onboard_time": 1718014757,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 238549,
-      "num": 238549,
-      "word": "OMG",
-      "onboard_time": 1718021897,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 233492,
@@ -2739,6 +2747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196207,
+      "num": 196207,
+      "word": "人生中最爽的三个月",
+      "onboard_time": 1718023578,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195982,
       "num": 195982,
       "word": "塔图姆助攻",
@@ -3019,14 +3035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180015,
-      "num": 180015,
-      "word": "人生中最爽的三个月",
-      "onboard_time": 1718023578,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 179836,
       "num": 179836,
       "word": "梦之队",
@@ -3219,12 +3227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169192,
-      "num": 169192,
-      "word": "黄亦玫爸爸",
+      "raw_hot": 168390,
+      "num": 168390,
+      "word": "黑神话实体收藏版1分钟被抢光",
       "onboard_time": 1718025559,
-      "rank": 36,
-      "category": "剧集"
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 168093,
@@ -3249,6 +3257,14 @@
       "onboard_time": 1717927637,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166269,
+      "num": 166269,
+      "word": "BLG对战LGD",
+      "onboard_time": 1718025618,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 165834,
@@ -3281,6 +3297,14 @@
       "onboard_time": 1717942699,
       "rank": 19,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 163981,
+      "num": 166566,
+      "word": "国足",
+      "onboard_time": 1718020938,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 163760,
@@ -3515,6 +3539,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152701,
+      "num": 152701,
+      "word": "女生高考结束喜欢肖战想去重庆",
+      "onboard_time": 1718024539,
+      "rank": 38,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 152189,
       "num": 152189,
       "word": "张杰瓢嘴杰又出场了",
@@ -3660,7 +3692,7 @@
     },
     {
       "raw_hot": 146363,
-      "num": 129907,
+      "num": 140248,
       "word": "魏晨坦言不喜欢自己",
       "onboard_time": 1718021237,
       "rank": 42,
@@ -3737,6 +3769,14 @@
       "onboard_time": 1717845917,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 142812,
+      "num": 142812,
+      "word": "只有手机是玩回本了",
+      "onboard_time": 1718025559,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 142541,
@@ -3817,14 +3857,6 @@
       "onboard_time": 1717937657,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 140175,
-      "num": 140175,
-      "word": "女生高考结束喜欢肖战想去重庆",
-      "onboard_time": 1718024539,
-      "rank": 38,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 139619,
@@ -4027,20 +4059,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131135,
+      "num": 131135,
+      "word": "近视手术并不是一劳永逸",
+      "onboard_time": 1718025499,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130930,
       "num": 130930,
       "word": "张新成我要喝手磨咖啡",
       "onboard_time": 1718001977,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130845,
-      "num": 130845,
-      "word": "国足",
-      "onboard_time": 1718020938,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 130621,
@@ -4065,14 +4097,6 @@
       "onboard_time": 1717903157,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 129845,
-      "num": 129845,
-      "word": "黑神话实体收藏版1分钟被抢光",
-      "onboard_time": 1718025559,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 129320,
@@ -4329,14 +4353,6 @@
       "onboard_time": 1717925897,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121651,
-      "num": 121651,
-      "word": "近视手术并不是一劳永逸",
-      "onboard_time": 1718025499,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 121622,
@@ -4671,14 +4687,6 @@
       "num": 105343,
       "word": "在爱里长大的小孩原来是这样的",
       "onboard_time": 1717992377,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 104650,
-      "num": 104650,
-      "word": "只有手机是玩回本了",
-      "onboard_time": 1718025559,
       "rank": 48,
       "category": "幽默"
     },
