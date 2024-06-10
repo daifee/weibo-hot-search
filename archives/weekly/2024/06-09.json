@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717994329121,
+  "endTime": 1717996755697,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -187,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 965405,
+      "num": 965405,
+      "word": "吃个粽子跑8000米才能消耗掉",
+      "onboard_time": 1717991117,
+      "rank": 7,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 959650,
       "num": 959650,
       "word": "刘亦菲头像",
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 714466,
-      "num": 404475,
+      "num": 413263,
       "word": "田曦薇挂脖旗袍",
       "onboard_time": 1717990757,
       "rank": 10,
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 638196,
-      "num": 638196,
-      "word": "吃个粽子跑8000米才能消耗掉",
-      "onboard_time": 1717991117,
-      "rank": 7,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 629502,
       "num": 629502,
       "word": "汤唯最常说的韩语是老公",
@@ -521,6 +521,14 @@
       "onboard_time": 1717928179,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 596456,
+      "num": 413286,
+      "word": "手机爹",
+      "onboard_time": 1717991477,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 592549,
@@ -649,6 +657,14 @@
       "onboard_time": 1717959731,
       "rank": 13,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 513890,
+      "num": 230520,
+      "word": "长期睡眠不好的人后来怎么样了",
+      "onboard_time": 1717993457,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 504657,
@@ -795,6 +811,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 452866,
+      "num": 452866,
+      "word": "王星越眼线是被冲掉的",
+      "onboard_time": 1717995678,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 451372,
       "num": 451372,
       "word": "张同学全网都知道你可以谈恋爱了",
@@ -899,8 +923,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 407315,
-      "num": 407315,
+      "raw_hot": 413241,
+      "num": 413241,
+      "word": "肖战工作室端午放饭啦",
+      "onboard_time": 1717992978,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 407492,
+      "num": 407492,
       "word": "李莎旻子送给凡希亚马面裙",
       "onboard_time": 1717991957,
       "rank": 11,
@@ -993,14 +1025,6 @@
       "onboard_time": 1717940839,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 378960,
-      "num": 378960,
-      "word": "肖战工作室端午放饭啦",
-      "onboard_time": 1717992978,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 372394,
@@ -1219,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 320867,
-      "num": 320867,
-      "word": "手机爹",
-      "onboard_time": 1717991477,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 320856,
       "num": 320856,
       "word": "佟大为演技",
@@ -1329,6 +1345,14 @@
       "onboard_time": 1717945638,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 287596,
+      "num": 287596,
+      "word": "山东生物",
+      "onboard_time": 1717995497,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 283839,
@@ -1539,12 +1563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242032,
-      "num": 207931,
-      "word": "长期睡眠不好的人后来怎么样了",
-      "onboard_time": 1717993457,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 241961,
+      "num": 230341,
+      "word": "甘望星回应没参加高考",
+      "onboard_time": 1717996278,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 241467,
@@ -1579,6 +1603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 237139,
+      "num": 237139,
+      "word": "美国偷房族",
+      "onboard_time": 1717994118,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233492,
       "num": 233492,
       "word": "cube",
@@ -1593,6 +1625,22 @@
       "onboard_time": 1717889414,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 230667,
+      "num": 230667,
+      "word": "广州地铁允许个人投放后",
+      "onboard_time": 1717996339,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 229289,
+      "num": 229289,
+      "word": "张颂文同学聚会放胡夏那些年哭了",
+      "onboard_time": 1717992138,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 228666,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1717978755,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219695,
+      "num": 219695,
+      "word": "那英让网友千万不要担心",
+      "onboard_time": 1717995978,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 218967,
@@ -1867,6 +1923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199884,
+      "num": 199884,
+      "word": "高考试卷核弹级别保密",
+      "onboard_time": 1717995857,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199527,
       "num": 199527,
       "word": "荣梓杉一撮黄毛是他最后的倔强",
@@ -1929,14 +1993,6 @@
       "onboard_time": 1717901297,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 197892,
-      "num": 197892,
-      "word": "张颂文同学聚会放胡夏那些年哭了",
-      "onboard_time": 1717992138,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 196708,
@@ -2139,6 +2195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181601,
+      "num": 181601,
+      "word": "原来今天还有高考",
+      "onboard_time": 1717995437,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 181409,
+      "num": 181409,
+      "word": "张杰武汉演唱会",
+      "onboard_time": 1717996519,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180851,
       "num": 180851,
       "word": "独行侠vs凯尔特人",
@@ -2227,6 +2299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175832,
+      "num": 175832,
+      "word": "出题人解放了 阅卷人关起来",
+      "onboard_time": 1717995798,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175140,
       "num": 175140,
       "word": "江苏政治考cosplay",
@@ -2283,6 +2363,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 169590,
+      "num": 169590,
+      "word": "白鹿敖瑞鹏白月梵星端午海报",
+      "onboard_time": 1717994717,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 169318,
+      "num": 169318,
+      "word": "张栋梁正式回归演员",
+      "onboard_time": 1717994358,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167538,
       "num": 167538,
       "word": "蔡徐坤顺毛侧颜",
@@ -2337,6 +2433,14 @@
       "onboard_time": 1717927098,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 162329,
+      "num": 162329,
+      "word": "玫瑰的故事 这门亲事你同意吗",
+      "onboard_time": 1717994298,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 161482,
@@ -2403,6 +2507,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157939,
+      "num": 157939,
+      "word": "上海地铁",
+      "onboard_time": 1717995018,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157417,
       "num": 157417,
       "word": "许我耀眼",
@@ -2427,6 +2539,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 156090,
+      "num": 156090,
+      "word": "中国第一大省正在疯狂建大学",
+      "onboard_time": 1717996519,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 155945,
       "num": 155945,
       "word": "小狗乱入考场民警投喂后开启静音模式",
@@ -2449,6 +2569,14 @@
       "onboard_time": 1717911737,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153550,
+      "num": 153550,
+      "word": "请铠把无袖背心焊身上",
+      "onboard_time": 1717995259,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 152046,
@@ -2851,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129276,
+      "num": 129276,
+      "word": "刘亦菲跳华尔兹好辣",
+      "onboard_time": 1717996698,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128582,
       "num": 117777,
       "word": "紧急提醒这种粽子绳有毒",
@@ -2889,6 +3025,14 @@
       "onboard_time": 1717943240,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125788,
+      "num": 125788,
+      "word": "阅卷老师停下了阅卷的手",
+      "onboard_time": 1717994358,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 125694,
@@ -3041,6 +3185,14 @@
       "onboard_time": 1717974854,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120256,
+      "num": 120256,
+      "word": "王星越吴谨言采访",
+      "onboard_time": 1717996158,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118127,
@@ -3259,14 +3411,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 107059,
-      "num": 107059,
-      "word": "玫瑰的故事 这门亲事你同意吗",
-      "onboard_time": 1717994298,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106968,
       "num": 836341,
       "word": "赛龙舟为什么能火出圈",
@@ -3345,6 +3489,14 @@
       "onboard_time": 1717981217,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 100514,
+      "num": 100514,
+      "word": "2024KPL夏季赛",
+      "onboard_time": 1717994958,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 99238,
@@ -4011,6 +4163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42764,
+      "num": 413295,
+      "word": "花式出考场名场面",
+      "onboard_time": 1717995616,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 42353,
       "num": 45589,
       "word": "谁敢相信这是五十多岁大叔的穿搭",
@@ -4321,14 +4481,6 @@
       "onboard_time": 1717909457,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11712,
-      "num": 160459,
-      "word": "美国偷房族",
-      "onboard_time": 1717994118,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10823,
