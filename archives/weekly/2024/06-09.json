@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718011335646,
+  "endTime": 1718012138251,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1939550,
+      "num": 1939550,
+      "word": "李承铉给离婚的爸妈订同一间房",
+      "onboard_time": 1718007559,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1916812,
       "num": 1916812,
       "word": "女子误将墓园认景区花1万拍婚纱",
       "onboard_time": 1717918217,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1894841,
-      "num": 1894841,
-      "word": "李承铉给离婚的爸妈订同一间房",
-      "onboard_time": 1718007559,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1775674,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1123651,
+      "num": 1123651,
+      "word": "分手一年多了前任一直在用亲情卡",
+      "onboard_time": 1718009897,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1088011,
       "num": 1088011,
       "word": "刘亦菲36岁演22岁女大学生",
@@ -267,18 +275,18 @@
       "category": "教育"
     },
     {
-      "raw_hot": 866897,
-      "num": 333731,
-      "word": "分手一年多了前任一直在用亲情卡",
-      "onboard_time": 1718009897,
-      "rank": 11,
-      "category": "情感"
-    },
-    {
       "raw_hot": 863832,
       "num": 483573,
       "word": "男子火锅店强吻陌生女子被拘10天",
       "onboard_time": 1717986798,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 863802,
+      "num": 199212,
+      "word": "3名龙舟手在端午节前夕离世",
+      "onboard_time": 1718010259,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -515,6 +523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 646407,
+      "num": 388095,
+      "word": "追风者白玉兰或将颗粒无收",
+      "onboard_time": 1718010678,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 646351,
       "num": 208399,
       "word": "部分日本女性为见男公关卖淫还债",
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579158,
+      "num": 579158,
+      "word": "双方都对这个吻感到恶心",
+      "onboard_time": 1718011217,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 574242,
       "num": 574242,
       "word": "刚考完就有大学生那味了",
@@ -652,7 +676,7 @@
     },
     {
       "raw_hot": 571633,
-      "num": 223464,
+      "num": 274582,
       "word": "这样睡10分钟可抵2小时",
       "onboard_time": 1718000838,
       "rank": 47,
@@ -761,6 +785,14 @@
       "onboard_time": 1717907057,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 523416,
+      "num": 274643,
+      "word": "李晨身体年龄只有三十岁左右",
+      "onboard_time": 1718009357,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 515583,
@@ -929,14 +961,6 @@
       "onboard_time": 1717858159,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 460423,
-      "num": 182029,
-      "word": "李晨身体年龄只有三十岁左右",
-      "onboard_time": 1718009357,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 457553,
@@ -1187,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387647,
+      "num": 387647,
+      "word": "徐艺洋腿要被阿Sa夹扁",
+      "onboard_time": 1718009118,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379803,
       "num": 349706,
       "word": "杜海涛去披荆斩棘前的最后一顿烧烤",
@@ -1212,7 +1244,7 @@
     },
     {
       "raw_hot": 370911,
-      "num": 331910,
+      "num": 367373,
       "word": "江苏网红徒步路线一女孩中暑身亡",
       "onboard_time": 1718009657,
       "rank": 12,
@@ -1595,14 +1627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290180,
-      "num": 290180,
-      "word": "追风者白玉兰或将颗粒无收",
-      "onboard_time": 1718010678,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289210,
       "num": 289210,
       "word": "白桃星座",
@@ -1635,14 +1659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 280733,
-      "num": 280733,
-      "word": "徐艺洋腿要被阿Sa夹扁",
-      "onboard_time": 1718009118,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280459,
       "num": 280459,
       "word": "花5个小时准备了二十多个菜",
@@ -1667,12 +1683,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277459,
+      "num": 277459,
+      "word": "吴谨言这巴掌多少带了点魏姐情绪",
+      "onboard_time": 1718002217,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276203,
       "num": 276203,
       "word": "吴谨言王星越再拍部剧吧",
       "onboard_time": 1717926558,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273786,
+      "num": 273786,
+      "word": "苏新皓TF三代出道战主题曲C位",
+      "onboard_time": 1718011637,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 272860,
@@ -1689,6 +1721,14 @@
       "onboard_time": 1717932017,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271586,
+      "num": 271586,
+      "word": "EXOCBX续约理由",
+      "onboard_time": 1718010798,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 271148,
@@ -1755,6 +1795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 264897,
+      "num": 275401,
+      "word": "发现一直玩手机真的很恐怖",
+      "onboard_time": 1718011579,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 262733,
       "num": 198262,
       "word": "张艺兴带女团唱Psychic",
@@ -1777,14 +1825,6 @@
       "onboard_time": 1717853779,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 257668,
-      "num": 257668,
-      "word": "EXOCBX续约理由",
-      "onboard_time": 1718010798,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 256911,
@@ -1995,12 +2035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219216,
-      "num": 205323,
-      "word": "吴谨言这巴掌多少带了点魏姐情绪",
-      "onboard_time": 1718002217,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 219446,
+      "num": 219446,
+      "word": "高考结束",
+      "onboard_time": 1718011579,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 218967,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1717913598,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217267,
+      "num": 217267,
+      "word": "山东地理",
+      "onboard_time": 1718011579,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 217256,
@@ -2020,7 +2068,7 @@
     },
     {
       "raw_hot": 217090,
-      "num": 180940,
+      "num": 193922,
       "word": "办公室不是你们带薪恋爱的地方",
       "onboard_time": 1718007618,
       "rank": 36,
@@ -2067,8 +2115,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212381,
+      "num": 212381,
+      "word": "赴山海定妆照",
+      "onboard_time": 1718011878,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212320,
-      "num": 179967,
+      "num": 201314,
       "word": "沈月女团风金发",
       "onboard_time": 1718007259,
       "rank": 29,
@@ -2275,14 +2331,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 199790,
-      "num": 173082,
-      "word": "3名龙舟手在端午节前夕离世",
-      "onboard_time": 1718010259,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199527,
       "num": 199527,
       "word": "荣梓杉一撮黄毛是他最后的倔强",
@@ -2388,7 +2436,7 @@
     },
     {
       "raw_hot": 193935,
-      "num": 176343,
+      "num": 183258,
       "word": "片头每帧都吓人片尾每集都感人",
       "onboard_time": 1718010858,
       "rank": 28,
@@ -2995,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156370,
+      "num": 156370,
+      "word": "王宝强 你的强来了",
+      "onboard_time": 1718011158,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155945,
       "num": 155945,
       "word": "小狗乱入考场民警投喂后开启静音模式",
@@ -3459,20 +3515,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131227,
-      "num": 127118,
-      "word": "王宝强 你的强来了",
-      "onboard_time": 1718011158,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 130930,
       "num": 130930,
       "word": "张新成我要喝手磨咖啡",
       "onboard_time": 1718001977,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130621,
+      "num": 338134,
+      "word": "端午过后龙舟都去哪儿了",
+      "onboard_time": 1718009957,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130461,
@@ -3539,6 +3595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126887,
+      "num": 126887,
+      "word": "应采儿说Jasper为了不上学装吐",
+      "onboard_time": 1718008878,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126758,
       "num": 126758,
       "word": "你听过最野的野史有多野",
@@ -3561,14 +3625,6 @@
       "onboard_time": 1717943240,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125882,
-      "num": 125882,
-      "word": "双方都对这个吻感到恶心",
-      "onboard_time": 1718011217,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 125788,
@@ -3641,14 +3697,6 @@
       "onboard_time": 1717912038,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123945,
-      "num": 123945,
-      "word": "应采儿说Jasper为了不上学装吐",
-      "onboard_time": 1718008878,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 123786,
@@ -4483,14 +4531,6 @@
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 64441,
-      "num": 338134,
-      "word": "端午过后龙舟都去哪儿了",
-      "onboard_time": 1718009957,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63727,
       "num": 66762,
       "word": "黄亦玫一条丝巾硬控苏更生两次",
@@ -4835,6 +4875,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41437,
+      "num": 412219,
+      "word": "高考考场外的这一幕超暖心",
+      "onboard_time": 1718011818,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 39947,
       "num": 39947,
       "word": "胡夏把清华电视踢翻了",
@@ -4979,6 +5027,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 30548,
+      "num": 640284,
+      "word": "中国发展的多样色彩绘就热烈的夏天",
+      "onboard_time": 1718010617,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30229,
       "num": 112186,
       "word": "德国龙舟赛",
@@ -5057,14 +5113,6 @@
       "onboard_time": 1717879571,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17323,
-      "num": 640284,
-      "word": "中国发展的多样色彩绘就热烈的夏天",
-      "onboard_time": 1718010617,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17167,
