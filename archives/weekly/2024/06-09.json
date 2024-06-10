@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718018266459,
+  "endTime": 1718019349742,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -339,20 +339,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 794264,
+      "num": 204946,
+      "word": "96年28岁其实挺小的",
+      "onboard_time": 1718018057,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 789946,
       "num": 789946,
       "word": "刘亦菲彭冠英2集亲了15次",
       "onboard_time": 1717975933,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 771528,
-      "num": 184074,
-      "word": "96年28岁其实挺小的",
-      "onboard_time": 1718018057,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 771190,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 547487,
-      "num": 197301,
+      "num": 204305,
       "word": "林一因为刘亦菲住在评论区了",
       "onboard_time": 1718014998,
       "rank": 20,
@@ -899,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485175,
+      "num": 236100,
+      "word": "墨雨云间硬控台湾网友",
+      "onboard_time": 1718018778,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481036,
       "num": 143193,
       "word": "高考考到一半突然来例假了",
@@ -977,6 +985,14 @@
       "onboard_time": 1717899496,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 467753,
+      "num": 235563,
+      "word": "肖战放饭",
+      "onboard_time": 1718018237,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 465784,
@@ -1219,6 +1235,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 392064,
+      "num": 392064,
+      "word": "卖不完的粽子去哪儿了",
+      "onboard_time": 1718014218,
+      "rank": 36,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 391996,
       "num": 391996,
       "word": "鼓浪屿",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1717928958,
       "rank": 12,
       "category": "教育"
-    },
-    {
-      "raw_hot": 370996,
-      "num": 370996,
-      "word": "卖不完的粽子去哪儿了",
-      "onboard_time": 1718014218,
-      "rank": 36,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 370911,
@@ -1417,6 +1433,14 @@
       "onboard_time": 1717890854,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342578,
+      "num": 233248,
+      "word": "赵丽颖端午放饭了",
+      "onboard_time": 1718017997,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 341696,
@@ -1595,6 +1619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 308332,
+      "num": 232338,
+      "word": "黄亦玫遭男友冷暴力",
+      "onboard_time": 1718018118,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308028,
       "num": 308028,
       "word": "鹿晗8G冲浪",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1717856598,
       "rank": 7,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 279396,
+      "num": 203869,
+      "word": "SM将追究EXOCBX法律责任",
+      "onboard_time": 1718018958,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 278989,
@@ -1912,6 +1952,14 @@
       "word": "福宝端午节吃上粽子了",
       "onboard_time": 1718006117,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252340,
+      "num": 203753,
+      "word": "韩国罕见展出500年前王室印玺",
+      "onboard_time": 1718018477,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -2089,6 +2137,14 @@
       "onboard_time": 1717903517,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220763,
+      "num": 203103,
+      "word": "庄国栋有未婚妻",
+      "onboard_time": 1718018897,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 219927,
@@ -2283,14 +2339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 207119,
-      "num": 179816,
-      "word": "赵丽颖端午放饭了",
-      "onboard_time": 1718017997,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206562,
       "num": 191390,
       "word": "朴灿烈唱StayWithMe",
@@ -2300,7 +2348,7 @@
     },
     {
       "raw_hot": 206385,
-      "num": 195342,
+      "num": 198045,
       "word": "SM不给EXOCBX续约金",
       "onboard_time": 1718014218,
       "rank": 23,
@@ -2313,6 +2361,14 @@
       "onboard_time": 1717910237,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205955,
+      "num": 205955,
+      "word": "排球少年",
+      "onboard_time": 1718018416,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 205801,
@@ -2484,7 +2540,7 @@
     },
     {
       "raw_hot": 197205,
-      "num": 175712,
+      "num": 191769,
       "word": "你俩都到互穿里衣的程度了",
       "onboard_time": 1718018179,
       "rank": 26,
@@ -2532,7 +2588,7 @@
     },
     {
       "raw_hot": 195402,
-      "num": 175443,
+      "num": 178909,
       "word": "文俊辉直播",
       "onboard_time": 1718017577,
       "rank": 27,
@@ -2747,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182433,
+      "num": 205727,
+      "word": "南京公安龙舟队3个项目均未进决赛",
+      "onboard_time": 1718017997,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182336,
       "num": 182336,
       "word": "4天高考学霸1天考完",
@@ -2905,14 +2969,6 @@
       "onboard_time": 1717899257,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172588,
-      "num": 172588,
-      "word": "南京公安龙舟队3个项目均未进决赛",
-      "onboard_time": 1718017997,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172256,
@@ -3211,14 +3267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155734,
-      "num": 155734,
-      "word": "黄亦玫遭男友冷暴力",
-      "onboard_time": 1718018118,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155258,
       "num": 142815,
       "word": "月红篇辞职是最好的医美",
@@ -3323,6 +3371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149694,
+      "num": 149694,
+      "word": "宝妈为楼下高中生铺了3年爬行垫",
+      "onboard_time": 1718017939,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148702,
       "num": 143466,
       "word": "文俊辉STANCE品牌全球代言人",
@@ -3353,6 +3409,14 @@
       "onboard_time": 1717982058,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147955,
+      "num": 147955,
+      "word": "英国水质",
+      "onboard_time": 1718018597,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 147622,
@@ -3393,14 +3457,6 @@
       "onboard_time": 1717933338,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 145408,
-      "num": 145408,
-      "word": "肖战放饭",
-      "onboard_time": 1718018237,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 145164,
@@ -3545,6 +3601,14 @@
       "onboard_time": 1718001857,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138931,
+      "num": 138931,
+      "word": "国足世预赛",
+      "onboard_time": 1718017877,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 138254,
@@ -3777,6 +3841,14 @@
       "onboard_time": 1717915398,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128006,
+      "num": 128006,
+      "word": "谁说爱人如养花的",
+      "onboard_time": 1718017697,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 127233,
@@ -4195,36 +4267,12 @@
       "category": "教育,体育"
     },
     {
-      "raw_hot": 112353,
-      "num": 112353,
-      "word": "谁说爱人如养花的",
-      "onboard_time": 1718017697,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112334,
       "num": 112334,
       "word": "爱不可以抵万难",
       "onboard_time": 1717998497,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112299,
-      "num": 112299,
-      "word": "宝妈为楼下高中生铺了3年爬行垫",
-      "onboard_time": 1718017939,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111473,
-      "num": 111473,
-      "word": "国足世预赛",
-      "onboard_time": 1718017877,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 110429,
@@ -4819,6 +4867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62038,
+      "num": 881714,
+      "word": "被中国皮影戏的灵动征服了",
+      "onboard_time": 1718010318,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61619,
       "num": 372246,
       "word": "无畏在京东唱帽衫",
@@ -4983,14 +5039,6 @@
       "num": 464584,
       "word": "那些一眼惊艳的国潮非遗",
       "onboard_time": 1717854738,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49193,
-      "num": 881714,
-      "word": "被中国皮影戏的灵动征服了",
-      "onboard_time": 1718010318,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -5313,6 +5361,14 @@
       "onboard_time": 1717992678,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29281,
+      "num": 109027,
+      "word": "院长嫉妒的新三大坊轮椅",
+      "onboard_time": 1718019258,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 29108,
