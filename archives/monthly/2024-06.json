@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718039852619,
+  "endTime": 1718040847508,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -13851,6 +13851,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 204335,
+      "num": 204335,
+      "word": "原来爱豆是可以喊回来安可的",
+      "onboard_time": 1718038035,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 204303,
       "num": 204303,
       "word": "EDG对战JDG",
@@ -19555,6 +19563,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 147693,
+      "num": 147693,
+      "word": "WWDC24",
+      "onboard_time": 1718028739,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 147622,
       "num": 147622,
       "word": "为什么和巧克力一起嚼口香糖会消失",
@@ -21065,14 +21081,6 @@
       "onboard_time": 1717655057,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135043,
-      "num": 135043,
-      "word": "WWDC24",
-      "onboard_time": 1718028739,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 134935,
@@ -23201,14 +23209,6 @@
       "onboard_time": 1717577957,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116755,
-      "num": 116755,
-      "word": "原来爱豆是可以喊回来安可的",
-      "onboard_time": 1718038035,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 116689,
@@ -25380,7 +25380,7 @@
     },
     {
       "raw_hot": 94158,
-      "num": 94158,
+      "num": 146157,
       "word": "姨妈40度高温抱大白兔陪考",
       "onboard_time": 1718033958,
       "rank": 37,
@@ -26065,6 +26065,14 @@
       "onboard_time": 1717581857,
       "rank": 9,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 77401,
+      "num": 63046,
+      "word": "99年男子下订单借钱多名骑手中招",
+      "onboard_time": 1718039295,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77248,
@@ -26899,14 +26907,6 @@
       "category": "社会新闻,社会议题"
     },
     {
-      "raw_hot": 63046,
-      "num": 63046,
-      "word": "99年男子下订单借钱多名骑手中招",
-      "onboard_time": 1718039295,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62757,
       "num": 137735,
       "word": "丁程鑫为秦霄贤操碎了心",
@@ -27144,6 +27144,14 @@
       "word": "张桂梅生日",
       "onboard_time": 1717394598,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58964,
+      "num": 58964,
+      "word": "女子掉进西湖冷静躺平等救援",
+      "onboard_time": 1718039054,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -27697,14 +27705,6 @@
       "onboard_time": 1717888094,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 50195,
-      "num": 50195,
-      "word": "女子掉进西湖冷静躺平等救援",
-      "onboard_time": 1718039054,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 50078,
@@ -28273,6 +28273,14 @@
       "onboard_time": 1717661058,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39627,
+      "num": 39627,
+      "word": "粽子cos",
+      "onboard_time": 1718040073,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 39126,

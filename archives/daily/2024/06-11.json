@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718039852619,
+  "endTime": 1718040847508,
   "band_list": [
     {
       "raw_hot": 1503435,
@@ -83,20 +83,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 347989,
+      "num": 347989,
+      "word": "发现一直玩手机真的很恐怖",
+      "onboard_time": 1718011579,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 347473,
       "num": 347473,
       "word": "墨雨云间这段刘亦菲10年前就意识到了",
       "onboard_time": 1718021297,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344382,
-      "num": 344382,
-      "word": "发现一直玩手机真的很恐怖",
-      "onboard_time": 1718011579,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 293528,
@@ -147,6 +147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 204335,
+      "num": 204335,
+      "word": "原来爱豆是可以喊回来安可的",
+      "onboard_time": 1718038035,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 181020,
       "num": 169943,
       "word": "万茜好帅",
@@ -177,6 +185,14 @@
       "onboard_time": 1718033238,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147693,
+      "num": 147693,
+      "word": "WWDC24",
+      "onboard_time": 1718028739,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 142092,
@@ -211,27 +227,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120744,
-      "num": 120744,
-      "word": "WWDC24",
-      "onboard_time": 1718028739,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 117929,
       "num": 117929,
       "word": "Angelababy汉服少女",
       "onboard_time": 1718023037,
       "rank": 27,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 116755,
-      "num": 116755,
-      "word": "原来爱豆是可以喊回来安可的",
-      "onboard_time": 1718038035,
-      "rank": 14,
       "category": "作品衍生"
     },
     {
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 94158,
-      "num": 94158,
+      "num": 146157,
       "word": "姨妈40度高温抱大白兔陪考",
       "onboard_time": 1718033958,
       "rank": 37,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77401,
+      "num": 63046,
+      "word": "99年男子下订单借钱多名骑手中招",
+      "onboard_time": 1718039295,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76471,
       "num": 76471,
       "word": "墨雨云间硬控台湾网友",
@@ -411,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63046,
-      "num": 63046,
-      "word": "99年男子下订单借钱多名骑手中招",
-      "onboard_time": 1718039295,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60804,
       "num": 76421,
       "word": "高考47年来裸分最高的考生是谁",
@@ -427,12 +427,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 50195,
-      "num": 50195,
+      "raw_hot": 58964,
+      "num": 58964,
       "word": "女子掉进西湖冷静躺平等救援",
       "onboard_time": 1718039054,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39627,
+      "num": 39627,
+      "word": "粽子cos",
+      "onboard_time": 1718040073,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 18768,
