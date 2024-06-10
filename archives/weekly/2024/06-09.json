@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718051677338,
+  "endTime": 1718054358286,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -5411,6 +5411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80379,
+      "num": 80379,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79138,
       "num": 137740,
       "word": "王星越壁纸",
@@ -5497,14 +5505,6 @@
       "onboard_time": 1718037255,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71316,
-      "num": 71316,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71117,
@@ -5907,6 +5907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 43680,
+      "num": 43680,
+      "word": "孟子义之前是不是在理发店干过",
+      "onboard_time": 1718051171,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43364,
       "num": 1109567,
       "word": "中国发展的多样色彩绘就热烈的夏天",
@@ -6147,14 +6155,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 26537,
-      "num": 26537,
-      "word": "孟子义之前是不是在理发店干过",
-      "onboard_time": 1718051171,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 25957,
       "num": 122152,
       "word": "一人一句祝福2024毕业生",
@@ -6163,12 +6163,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24027,
+      "num": 24027,
+      "word": "庄国栋是最后的赢家吗",
+      "onboard_time": 1718050091,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23030,
       "num": 1187744,
       "word": "你那里有哪些端午习俗",
       "onboard_time": 1717937118,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21730,
+      "num": 21730,
+      "word": "小猫咪的额头不能随便摸",
+      "onboard_time": 1718050510,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 20566,
@@ -6185,6 +6201,14 @@
       "onboard_time": 1718005577,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19326,
+      "num": 17230,
+      "word": "心疼孙丞潇",
+      "onboard_time": 1718052491,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 18768,
@@ -6219,28 +6243,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17119,
-      "num": 17119,
-      "word": "庄国栋是最后的赢家吗",
-      "onboard_time": 1718050091,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 16968,
       "num": 20909,
       "word": "玫瑰的故事站内热度值破25000",
       "onboard_time": 1717858999,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16366,
-      "num": 16366,
-      "word": "小猫咪的额头不能随便摸",
-      "onboard_time": 1718050510,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 16013,
@@ -6331,20 +6339,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13585,
+      "num": 14658,
+      "word": "欧洲议会选举",
+      "onboard_time": 1718051591,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 13404,
       "num": 33978,
       "word": "端午粽情欢笑",
       "onboard_time": 1717885572,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 12334,
-      "num": 14249,
-      "word": "欧洲议会选举",
-      "onboard_time": 1718051591,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 12283,
