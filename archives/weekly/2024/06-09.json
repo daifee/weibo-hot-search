@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717989695794,
+  "endTime": 1717990563923,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1261660,
+      "num": 1261660,
+      "word": "哪个臭小子被刘亦菲喜欢过",
+      "onboard_time": 1717984097,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1244043,
       "num": 221422,
       "word": "高铁上拒绝了宝妈的换座要求",
@@ -113,14 +121,6 @@
       "onboard_time": 1717920377,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1160055,
-      "num": 1160055,
-      "word": "哪个臭小子被刘亦菲喜欢过",
-      "onboard_time": 1717984097,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1147693,
@@ -219,7 +219,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 842312,
+      "raw_hot": 863832,
       "num": 230355,
       "word": "男子火锅店强吻陌生女子被拘10天",
       "onboard_time": 1717986798,
@@ -459,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 620026,
+      "num": 620026,
+      "word": "时代少年团不开演唱会开运动会",
+      "onboard_time": 1717988058,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 609832,
       "num": 609832,
       "word": "端午节",
@@ -483,14 +491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 593088,
-      "num": 593088,
-      "word": "时代少年团不开演唱会开运动会",
-      "onboard_time": 1717988058,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 592549,
       "num": 592549,
       "word": "王星越 老公在此",
@@ -504,6 +504,14 @@
       "word": "200元一斤蓝莓跌到8元",
       "onboard_time": 1717913357,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 576714,
+      "num": 352787,
+      "word": "陕西公安发布尸源协查通报",
+      "onboard_time": 1717988177,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -729,6 +737,14 @@
       "onboard_time": 1717858159,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 459703,
+      "num": 459703,
+      "word": "刚考完就有大学生那味了",
+      "onboard_time": 1717988357,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 457553,
@@ -1099,14 +1115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334436,
-      "num": 158930,
-      "word": "陕西公安发布尸源协查通报",
-      "onboard_time": 1717988177,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333487,
       "num": 333487,
       "word": "minji把aespa的宣传单贴在了hybe大楼",
@@ -1251,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297229,
-      "num": 297229,
-      "word": "刚考完就有大学生那味了",
-      "onboard_time": 1717988357,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -1315,19 +1315,19 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 278989,
+      "num": 278989,
+      "word": "刘亦菲万茜朱珠cp名",
+      "onboard_time": 1717985358,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276203,
       "num": 276203,
       "word": "吴谨言王星越再拍部剧吧",
       "onboard_time": 1717926558,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 274928,
-      "num": 274928,
-      "word": "刘亦菲万茜朱珠cp名",
-      "onboard_time": 1717985358,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1763,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201038,
+      "num": 201038,
+      "word": "被端午吟里的戏腔惊艳了",
+      "onboard_time": 1717988297,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200720,
       "num": 182534,
       "word": "极限挑战",
@@ -1891,14 +1899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191074,
-      "num": 191074,
-      "word": "被端午吟里的戏腔惊艳了",
-      "onboard_time": 1717988297,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190634,
       "num": 190634,
       "word": "无畏王者梦之队定妆官宣",
@@ -1977,6 +1977,14 @@
       "onboard_time": 1717913837,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185332,
+      "num": 185332,
+      "word": "甘望星因为跑得快被大学特招",
+      "onboard_time": 1717989737,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 185257,
@@ -2539,6 +2547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140532,
+      "num": 140532,
+      "word": "欧文对凯尔特人12连败",
+      "onboard_time": 1717988838,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140265,
       "num": 140265,
       "word": "猫表达爱的方式",
@@ -2891,14 +2907,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119587,
-      "num": 119587,
-      "word": "欧文对凯尔特人12连败",
-      "onboard_time": 1717988838,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 118127,
       "num": 118127,
       "word": "广东政治 写不完",
@@ -2985,6 +2993,14 @@
       "onboard_time": 1717887733,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114438,
+      "num": 114438,
+      "word": "北方龙舟出洋相笑晕南方人",
+      "onboard_time": 1717990035,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114240,
@@ -3201,6 +3217,14 @@
       "onboard_time": 1717895536,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 95338,
+      "num": 95338,
+      "word": "陈雨浓孙丞潇吵架",
+      "onboard_time": 1717949119,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 95322,
@@ -3481,6 +3505,14 @@
       "onboard_time": 1717853538,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66773,
+      "num": 392717,
+      "word": "高考结束一举高粽",
+      "onboard_time": 1717988718,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66642,
@@ -3803,20 +3835,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41782,
+      "num": 752991,
+      "word": "赛龙舟为什么能火出圈",
+      "onboard_time": 1717989917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41761,
       "num": 41761,
       "word": "田曦薇青蛙戒指",
       "onboard_time": 1717887193,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 41262,
-      "num": 392717,
-      "word": "高考结束一举高粽",
-      "onboard_time": 1717988718,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39947,
@@ -4154,6 +4186,9 @@
     },
     {
       "word": "#要让更多文物和文化遗产活起来#"
+    },
+    {
+      "word": "#立足中国大地讲好中华文明故事#"
     }
   ]
 }
