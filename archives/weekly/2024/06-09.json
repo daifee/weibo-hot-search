@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717996755697,
+  "endTime": 1717997747829,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -499,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 610358,
+      "num": 255909,
+      "word": "长期睡眠不好的人后来怎么样了",
+      "onboard_time": 1717993457,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 609832,
       "num": 609832,
       "word": "端午节",
@@ -659,14 +667,6 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 513890,
-      "num": 230520,
-      "word": "长期睡眠不好的人后来怎么样了",
-      "onboard_time": 1717993457,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 504657,
       "num": 504657,
       "word": "姐姐出cos接妹妹高考",
@@ -681,6 +681,22 @@
       "onboard_time": 1717905797,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 501070,
+      "num": 501070,
+      "word": "广州地铁允许个人投放后",
+      "onboard_time": 1717996339,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 497751,
+      "num": 460857,
+      "word": "王星越眼线是被冲掉的",
+      "onboard_time": 1717995678,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 496528,
@@ -809,14 +825,6 @@
       "onboard_time": 1717941138,
       "rank": 8,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 452866,
-      "num": 452866,
-      "word": "王星越眼线是被冲掉的",
-      "onboard_time": 1717995678,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 451372,
@@ -955,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401822,
+      "num": 401822,
+      "word": "易烊千玺海边漫步",
+      "onboard_time": 1717996937,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401078,
       "num": 401078,
       "word": "山东历史",
       "onboard_time": 1717984698,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 400262,
+      "num": 400262,
+      "word": "美国偷房族",
+      "onboard_time": 1717994118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399184,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1717940839,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 378571,
+      "num": 251610,
+      "word": "中国第一大省正在疯狂建大学",
+      "onboard_time": 1717996519,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 372394,
@@ -1331,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294850,
+      "num": 294850,
+      "word": "山东生物",
+      "onboard_time": 1717995497,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1717945638,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 287596,
-      "num": 287596,
-      "word": "山东生物",
-      "onboard_time": 1717995497,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 283839,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1717985358,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276563,
+      "num": 276563,
+      "word": "马嘉祺新歌MV有女主",
+      "onboard_time": 1717996878,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 276203,
@@ -1547,6 +1587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 245234,
+      "num": 245234,
+      "word": "甘望星回应没参加高考",
+      "onboard_time": 1717996278,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242322,
       "num": 242322,
       "word": "王星越墨雨云间彻底上桌了",
@@ -1561,14 +1609,6 @@
       "onboard_time": 1717924037,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241961,
-      "num": 230341,
-      "word": "甘望星回应没参加高考",
-      "onboard_time": 1717996278,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 241467,
@@ -1603,12 +1643,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 237139,
-      "num": 237139,
-      "word": "美国偷房族",
-      "onboard_time": 1717994118,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 239980,
+      "num": 225797,
+      "word": "刘亦菲跳华尔兹好辣",
+      "onboard_time": 1717996698,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 233492,
@@ -1627,12 +1667,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 230667,
-      "num": 230667,
-      "word": "广州地铁允许个人投放后",
-      "onboard_time": 1717996339,
-      "rank": 19,
-      "category": "幽默"
+      "raw_hot": 230471,
+      "num": 230471,
+      "word": "那英让网友千万不要担心",
+      "onboard_time": 1717995978,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 229289,
@@ -1691,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219695,
-      "num": 219695,
-      "word": "那英让网友千万不要担心",
-      "onboard_time": 1717995978,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 218967,
       "num": 177863,
       "word": "刘宇宁说迪丽热巴是维秘天使",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1717912398,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 215055,
+      "num": 215055,
+      "word": "高圆圆赵又廷参加好友婚礼",
+      "onboard_time": 1717997056,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 214564,
@@ -1875,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202279,
+      "num": 202279,
+      "word": "张杰武汉演唱会",
+      "onboard_time": 1717996519,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202238,
       "num": 202238,
       "word": "玫瑰的故事情感主题曲MV",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1717986197,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195745,
+      "num": 195745,
+      "word": "端午安康 端午快乐",
+      "onboard_time": 1717996937,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 195208,
@@ -2201,14 +2257,6 @@
       "onboard_time": 1717995437,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 181409,
-      "num": 181409,
-      "word": "张杰武汉演唱会",
-      "onboard_time": 1717996519,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 180851,
@@ -2411,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164592,
+      "num": 164592,
+      "word": "与辉同行曾3个月销售额近20亿",
+      "onboard_time": 1717997357,
+      "rank": 35,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 164530,
       "num": 164530,
       "word": "张朝阳周鸿祎帮高考生选风口专业",
@@ -2537,14 +2593,6 @@
       "onboard_time": 1717841778,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 156090,
-      "num": 156090,
-      "word": "中国第一大省正在疯狂建大学",
-      "onboard_time": 1717996519,
-      "rank": 38,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 155945,
@@ -2713,6 +2761,14 @@
       "onboard_time": 1717845558,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 144041,
+      "num": 144041,
+      "word": "于正 多看爽剧有益身心健康",
+      "onboard_time": 1717997658,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 143276,
@@ -2977,14 +3033,6 @@
       "onboard_time": 1717981456,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129276,
-      "num": 129276,
-      "word": "刘亦菲跳华尔兹好辣",
-      "onboard_time": 1717996698,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 128582,
@@ -3835,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68813,
+      "num": 413295,
+      "word": "花式出考场名场面",
+      "onboard_time": 1717995616,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 66773,
       "num": 392717,
       "word": "高考结束一举高粽",
@@ -3937,6 +3993,14 @@
       "onboard_time": 1717953555,
       "rank": 38,
       "category": "网红,教育"
+    },
+    {
+      "raw_hot": 56775,
+      "num": 400934,
+      "word": "回顾2024高考难忘瞬间",
+      "onboard_time": 1717994118,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 56310,
@@ -4163,28 +4227,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 42764,
-      "num": 413295,
-      "word": "花式出考场名场面",
-      "onboard_time": 1717995616,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 42353,
       "num": 45589,
       "word": "谁敢相信这是五十多岁大叔的穿搭",
       "onboard_time": 1717870691,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42023,
-      "num": 107440,
-      "word": "回顾2024高考难忘瞬间",
-      "onboard_time": 1717994118,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 41761,

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717996755697,
+  "endTime": 1717997747829,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3883,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610358,
+      "num": 255909,
+      "word": "长期睡眠不好的人后来怎么样了",
+      "onboard_time": 1717993457,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 610212,
       "num": 610212,
       "word": "官方回应B太长沙夜市打假",
@@ -5035,14 +5043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 513890,
-      "num": 230520,
-      "word": "长期睡眠不好的人后来怎么样了",
-      "onboard_time": 1717993457,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 513792,
       "num": 249639,
       "word": "建议大家不要在床上乱蹦",
@@ -5179,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 501070,
+      "num": 501070,
+      "word": "广州地铁允许个人投放后",
+      "onboard_time": 1717996339,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 500176,
       "num": 387149,
       "word": "虞书欣CHA了YG新女团的歌",
@@ -5201,6 +5209,14 @@
       "onboard_time": 1717437193,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497751,
+      "num": 460857,
+      "word": "王星越眼线是被冲掉的",
+      "onboard_time": 1717995678,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 496531,
@@ -5873,14 +5889,6 @@
       "onboard_time": 1717853599,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 452866,
-      "num": 452866,
-      "word": "王星越眼线是被冲掉的",
-      "onboard_time": 1717995678,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 452474,
@@ -6819,6 +6827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401822,
+      "num": 401822,
+      "word": "易烊千玺海边漫步",
+      "onboard_time": 1717996937,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 401742,
       "num": 401742,
       "word": "福宝到邻居家串门了",
@@ -6849,6 +6865,14 @@
       "onboard_time": 1717243278,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 400262,
+      "num": 400262,
+      "word": "美国偷房族",
+      "onboard_time": 1717994118,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399184,
@@ -7241,6 +7265,14 @@
       "onboard_time": 1717666999,
       "rank": 13,
       "category": "网红"
+    },
+    {
+      "raw_hot": 378571,
+      "num": 251610,
+      "word": "中国第一大省正在疯狂建大学",
+      "onboard_time": 1717996519,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 377518,
@@ -9139,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294850,
+      "num": 294850,
+      "word": "山东生物",
+      "onboard_time": 1717995497,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 294590,
       "num": 258468,
       "word": "水果要便宜了",
@@ -9345,14 +9385,6 @@
       "onboard_time": 1717851738,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 287596,
-      "num": 287596,
-      "word": "山东生物",
-      "onboard_time": 1717995497,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 287262,
@@ -9705,6 +9737,14 @@
       "onboard_time": 1717456696,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276563,
+      "num": 276563,
+      "word": "马嘉祺新歌MV有女主",
+      "onboard_time": 1717996878,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 276408,
@@ -10771,6 +10811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 245234,
+      "num": 245234,
+      "word": "甘望星回应没参加高考",
+      "onboard_time": 1717996278,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244659,
       "num": 244659,
       "word": "周杰伦演唱会开场以后的王俊凯",
@@ -10867,14 +10915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241961,
-      "num": 230341,
-      "word": "甘望星回应没参加高考",
-      "onboard_time": 1717996278,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241467,
       "num": 241467,
       "word": "高考完因为染发和家人大吵了一架",
@@ -10937,6 +10977,14 @@
       "onboard_time": 1717925597,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 239980,
+      "num": 225797,
+      "word": "刘亦菲跳华尔兹好辣",
+      "onboard_time": 1717996698,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 239932,
@@ -11065,14 +11113,6 @@
       "onboard_time": 1717301597,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237139,
-      "num": 237139,
-      "word": "美国偷房族",
-      "onboard_time": 1717994118,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237035,
@@ -11307,14 +11347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 230667,
-      "num": 230667,
-      "word": "广州地铁允许个人投放后",
-      "onboard_time": 1717996339,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 230610,
       "num": 253495,
       "word": "李沁像极了美人鱼",
@@ -11329,6 +11361,14 @@
       "onboard_time": 1717545857,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 230471,
+      "num": 230471,
+      "word": "那英让网友千万不要担心",
+      "onboard_time": 1717995978,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 230191,
@@ -11915,14 +11955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219695,
-      "num": 219695,
-      "word": "那英让网友千万不要担心",
-      "onboard_time": 1717995978,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219583,
       "num": 219583,
       "word": "周深大学期间做过最疯狂的事",
@@ -12177,6 +12209,14 @@
       "onboard_time": 1717841718,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 215055,
+      "num": 215055,
+      "word": "高圆圆赵又廷参加好友婚礼",
+      "onboard_time": 1717997056,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 215046,
@@ -13131,6 +13171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202279,
+      "num": 202279,
+      "word": "张杰武汉演唱会",
+      "onboard_time": 1717996519,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202238,
       "num": 202238,
       "word": "玫瑰的故事情感主题曲MV",
@@ -13921,6 +13969,14 @@
       "onboard_time": 1717751059,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195745,
+      "num": 195745,
+      "word": "端午安康 端午快乐",
+      "onboard_time": 1717996937,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 195723,
@@ -15089,14 +15145,6 @@
       "onboard_time": 1717324998,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181409,
-      "num": 181409,
-      "word": "张杰武汉演唱会",
-      "onboard_time": 1717996519,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 181244,
@@ -16579,6 +16627,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 164592,
+      "num": 164592,
+      "word": "与辉同行曾3个月销售额近20亿",
+      "onboard_time": 1717997357,
+      "rank": 35,
+      "category": "财经,互联网"
+    },
+    {
       "raw_hot": 164548,
       "num": 164548,
       "word": "外交部回应印度总理莫迪涉台言论",
@@ -17408,14 +17464,6 @@
       "word": "这些地方高考查分时间已公布",
       "onboard_time": 1717809198,
       "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 156090,
-      "num": 156090,
-      "word": "中国第一大省正在疯狂建大学",
-      "onboard_time": 1717996519,
-      "rank": 38,
       "category": "教育,社会新闻"
     },
     {
@@ -18785,6 +18833,14 @@
       "onboard_time": 1717314257,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144041,
+      "num": 144041,
+      "word": "于正 多看爽剧有益身心健康",
+      "onboard_time": 1717997658,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 143956,
@@ -20321,14 +20377,6 @@
       "onboard_time": 1717981456,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129276,
-      "num": 129276,
-      "word": "刘亦菲跳华尔兹好辣",
-      "onboard_time": 1717996698,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 129180,
@@ -24939,6 +24987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68813,
+      "num": 413295,
+      "word": "花式出考场名场面",
+      "onboard_time": 1717995616,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 68439,
       "num": 236038,
       "word": "东阿阿胶是中医药文化的瑰宝",
@@ -25601,6 +25657,14 @@
       "onboard_time": 1717828219,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 56775,
+      "num": 400934,
+      "word": "回顾2024高考难忘瞬间",
+      "onboard_time": 1717994118,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 56761,
@@ -26371,14 +26435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42764,
-      "num": 413295,
-      "word": "花式出考场名场面",
-      "onboard_time": 1717995616,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 42758,
       "num": 299921,
       "word": "这些国宝被印上了纪念币",
@@ -26409,14 +26465,6 @@
       "onboard_time": 1717870691,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42023,
-      "num": 107440,
-      "word": "回顾2024高考难忘瞬间",
-      "onboard_time": 1717994118,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 41920,
