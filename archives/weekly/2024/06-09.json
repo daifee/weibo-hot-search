@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717987592650,
+  "endTime": 1717989695794,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1160055,
+      "num": 1160055,
+      "word": "哪个臭小子被刘亦菲喜欢过",
+      "onboard_time": 1717984097,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1147693,
       "num": 1147693,
       "word": "考公五年没考上考编一个月上岸了",
@@ -129,14 +137,6 @@
       "onboard_time": 1717856300,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1119281,
-      "num": 1119281,
-      "word": "哪个臭小子被刘亦菲喜欢过",
-      "onboard_time": 1717984097,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1088011,
@@ -217,6 +217,14 @@
       "onboard_time": 1717912937,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 842312,
+      "num": 230355,
+      "word": "男子火锅店强吻陌生女子被拘10天",
+      "onboard_time": 1717986798,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 801416,
@@ -473,6 +481,14 @@
       "onboard_time": 1717928179,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 593088,
+      "num": 593088,
+      "word": "时代少年团不开演唱会开运动会",
+      "onboard_time": 1717988058,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 592549,
@@ -843,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 406389,
-      "num": 230355,
-      "word": "男子火锅店强吻陌生女子被拘10天",
-      "onboard_time": 1717986798,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 403283,
       "num": 403283,
       "word": "墨雨云间",
@@ -891,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 392503,
+      "num": 392503,
+      "word": "美方承认有无辜者在以军行动中丧生",
+      "onboard_time": 1717985658,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 391996,
       "num": 391996,
       "word": "鼓浪屿",
@@ -921,14 +937,6 @@
       "onboard_time": 1717915997,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 381371,
-      "num": 372883,
-      "word": "美方承认有无辜者在以军行动中丧生",
-      "onboard_time": 1717985658,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 379803,
@@ -1091,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334436,
+      "num": 158930,
+      "word": "陕西公安发布尸源协查通报",
+      "onboard_time": 1717988177,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333487,
       "num": 333487,
       "word": "minji把aespa的宣传单贴在了hybe大楼",
@@ -1235,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297229,
+      "num": 297229,
+      "word": "刚考完就有大学生那味了",
+      "onboard_time": 1717988357,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -1296,6 +1320,14 @@
       "word": "吴谨言王星越再拍部剧吧",
       "onboard_time": 1717926558,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 274928,
+      "num": 274928,
+      "word": "刘亦菲万茜朱珠cp名",
+      "onboard_time": 1717985358,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1425,14 +1457,6 @@
       "onboard_time": 1717909457,
       "rank": 25,
       "category": "教育"
-    },
-    {
-      "raw_hot": 244479,
-      "num": 244479,
-      "word": "刘亦菲万茜朱珠cp名",
-      "onboard_time": 1717985358,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 242322,
@@ -1595,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211937,
+      "num": 211937,
+      "word": "欧文16分",
+      "onboard_time": 1717987338,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211371,
       "num": 211371,
       "word": "店家回应曾承诺5年后回收钻戒女子退货被拒",
@@ -1707,6 +1739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202238,
+      "num": 202238,
+      "word": "玫瑰的故事情感主题曲MV",
+      "onboard_time": 1717989318,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201922,
       "num": 201922,
       "word": "TF三代登陆日",
@@ -1803,6 +1843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 195982,
+      "num": 195982,
+      "word": "塔图姆助攻",
+      "onboard_time": 1717986197,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195208,
       "num": 181892,
       "word": "关晓彤翟潇闻合作现偶",
@@ -1841,6 +1889,14 @@
       "onboard_time": 1717913957,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191074,
+      "num": 191074,
+      "word": "被端午吟里的戏腔惊艳了",
+      "onboard_time": 1717988297,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190634,
@@ -1897,14 +1953,6 @@
       "onboard_time": 1717975874,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187070,
-      "num": 187070,
-      "word": "塔图姆助攻",
-      "onboard_time": 1717986197,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 186755,
@@ -2027,14 +2075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178261,
-      "num": 178261,
-      "word": "欧文16分",
-      "onboard_time": 1717987338,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178183,
       "num": 178183,
       "word": "马嘉祺新歌蜉蝣",
@@ -2105,6 +2145,14 @@
       "onboard_time": 1717899257,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 172256,
+      "num": 158193,
+      "word": "陕西神木一水库发现一具无名尸体",
+      "onboard_time": 1717987877,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171680,
@@ -2249,6 +2297,14 @@
       "onboard_time": 1717888514,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157417,
+      "num": 157417,
+      "word": "许我耀眼",
+      "onboard_time": 1717987758,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 156740,
@@ -2675,6 +2731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126622,
+      "num": 983146,
+      "word": "一批诋毁企业形象账号被处置",
+      "onboard_time": 1717945819,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126486,
       "num": 126486,
       "word": "周深带全场毕业生说少管我",
@@ -2827,12 +2891,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119587,
+      "num": 119587,
+      "word": "欧文对凯尔特人12连败",
+      "onboard_time": 1717988838,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118127,
       "num": 118127,
       "word": "广东政治 写不完",
       "onboard_time": 1717930577,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117971,
+      "num": 117971,
+      "word": "端午安康图片",
+      "onboard_time": 1717987698,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117831,
@@ -2873,14 +2953,6 @@
       "onboard_time": 1717930338,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115775,
-      "num": 983146,
-      "word": "一批诋毁企业形象账号被处置",
-      "onboard_time": 1717945819,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 115761,
@@ -3691,6 +3763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44964,
+      "num": 754127,
+      "word": "龙年端午看海军龙舟",
+      "onboard_time": 1717989137,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44694,
       "num": 137703,
       "word": "朱正廷清爽学长造型",
@@ -3729,6 +3809,14 @@
       "onboard_time": 1717887193,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41262,
+      "num": 392717,
+      "word": "高考结束一举高粽",
+      "onboard_time": 1717988718,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39947,

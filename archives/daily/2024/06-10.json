@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717987592650,
+  "endTime": 1717989695794,
   "band_list": [
     {
       "raw_hot": 1361420,
@@ -19,8 +19,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1119281,
-      "num": 1119281,
+      "raw_hot": 1160055,
+      "num": 1160055,
       "word": "哪个臭小子被刘亦菲喜欢过",
       "onboard_time": 1717984097,
       "rank": 3,
@@ -41,6 +41,14 @@
       "onboard_time": 1717948399,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 842312,
+      "num": 230355,
+      "word": "男子火锅店强吻陌生女子被拘10天",
+      "onboard_time": 1717986798,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821293,
@@ -105,6 +113,14 @@
       "onboard_time": 1717984397,
       "rank": 4,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 593088,
+      "num": 593088,
+      "word": "时代少年团不开演唱会开运动会",
+      "onboard_time": 1717988058,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 567778,
@@ -179,14 +195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 406389,
-      "num": 230355,
-      "word": "男子火锅店强吻陌生女子被拘10天",
-      "onboard_time": 1717986798,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 401078,
       "num": 401078,
       "word": "山东历史",
@@ -203,8 +211,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 381371,
-      "num": 372883,
+      "raw_hot": 392503,
+      "num": 392503,
       "word": "美方承认有无辜者在以军行动中丧生",
       "onboard_time": 1717985658,
       "rank": 17,
@@ -243,6 +251,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 334436,
+      "num": 158930,
+      "word": "陕西公安发布尸源协查通报",
+      "onboard_time": 1717988177,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322472,
       "num": 322472,
       "word": "杨幂工作室抠图",
@@ -275,11 +291,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 297229,
+      "num": 297229,
+      "word": "刚考完就有大学生那味了",
+      "onboard_time": 1717988357,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
       "onboard_time": 1717944919,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 274928,
+      "num": 274928,
+      "word": "刘亦菲万茜朱珠cp名",
+      "onboard_time": 1717985358,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -329,14 +361,6 @@
       "onboard_time": 1717929438,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 244479,
-      "num": 244479,
-      "word": "刘亦菲万茜朱珠cp名",
-      "onboard_time": 1717985358,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 242322,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211937,
+      "num": 211937,
+      "word": "欧文16分",
+      "onboard_time": 1717987338,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211231,
       "num": 181115,
       "word": "小警犬因太友好而被开除",
@@ -435,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202238,
+      "num": 202238,
+      "word": "玫瑰的故事情感主题曲MV",
+      "onboard_time": 1717989318,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201670,
       "num": 201670,
       "word": "端午安康",
@@ -457,6 +497,22 @@
       "onboard_time": 1717981876,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 195982,
+      "num": 195982,
+      "word": "塔图姆助攻",
+      "onboard_time": 1717986197,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 191074,
+      "num": 191074,
+      "word": "被端午吟里的戏腔惊艳了",
+      "onboard_time": 1717988297,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 189894,
@@ -483,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187070,
-      "num": 187070,
-      "word": "塔图姆助攻",
-      "onboard_time": 1717986197,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181059,
       "num": 181059,
       "word": "老破小二手房突然火了",
@@ -504,14 +552,6 @@
       "word": "独行侠vs凯尔特人",
       "onboard_time": 1717977315,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178261,
-      "num": 178261,
-      "word": "欧文16分",
-      "onboard_time": 1717987338,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -539,6 +579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172256,
+      "num": 158193,
+      "word": "陕西神木一水库发现一具无名尸体",
+      "onboard_time": 1717987877,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171680,
       "num": 171680,
       "word": "3个洗碗坏习惯或增加患癌风险",
@@ -560,6 +608,14 @@
       "word": "真的和纸片人结婚了",
       "onboard_time": 1717932497,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157417,
+      "num": 157417,
+      "word": "许我耀眼",
+      "onboard_time": 1717987758,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -667,6 +723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126622,
+      "num": 983146,
+      "word": "一批诋毁企业形象账号被处置",
+      "onboard_time": 1717945819,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125665,
       "num": 125665,
       "word": "端午节也叫娃娃节",
@@ -715,6 +779,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119587,
+      "num": 119587,
+      "word": "欧文对凯尔特人12连败",
+      "onboard_time": 1717988838,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117971,
+      "num": 117971,
+      "word": "端午安康图片",
+      "onboard_time": 1717987698,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116661,
       "num": 116661,
       "word": "端午壁纸",
@@ -729,14 +809,6 @@
       "onboard_time": 1717986317,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 115775,
-      "num": 983146,
-      "word": "一批诋毁企业形象账号被处置",
-      "onboard_time": 1717945819,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114240,
@@ -1059,6 +1131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44964,
+      "num": 754127,
+      "word": "龙年端午看海军龙舟",
+      "onboard_time": 1717989137,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44085,
       "num": 44085,
       "word": "FPX更换首发上单",
@@ -1073,6 +1153,14 @@
       "onboard_time": 1717974133,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 41262,
+      "num": 392717,
+      "word": "高考结束一举高粽",
+      "onboard_time": 1717988718,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39947,
