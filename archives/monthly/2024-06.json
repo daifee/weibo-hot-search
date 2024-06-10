@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1717990563923,
+  "endTime": 1717993533991,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -801,6 +801,14 @@
       "onboard_time": 1717292896,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1428835,
+      "num": 1428835,
+      "word": "为什么床上总是有沙子",
+      "onboard_time": 1717990817,
+      "rank": 0,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1427896,
@@ -2124,7 +2132,7 @@
     },
     {
       "raw_hot": 863832,
-      "num": 230355,
+      "num": 243137,
       "word": "男子火锅店强吻陌生女子被拘10天",
       "onboard_time": 1717986798,
       "rank": 30,
@@ -2289,6 +2297,14 @@
       "onboard_time": 1717472720,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 825830,
+      "num": 825830,
+      "word": "陕西公安发布尸源协查通报",
+      "onboard_time": 1717988177,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 821729,
@@ -2977,6 +2993,14 @@
       "onboard_time": 1717728799,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 714466,
+      "num": 404475,
+      "word": "田曦薇挂脖旗袍",
+      "onboard_time": 1717990757,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 713569,
@@ -4259,14 +4283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 576714,
-      "num": 352787,
-      "word": "陕西公安发布尸源协查通报",
-      "onboard_time": 1717988177,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 576285,
       "num": 576285,
       "word": "刘亦菲杨幂早期互相撑伞照",
@@ -4297,6 +4313,14 @@
       "onboard_time": 1717344378,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 574242,
+      "num": 574242,
+      "word": "刚考完就有大学生那味了",
+      "onboard_time": 1717988357,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 572322,
@@ -4761,6 +4785,14 @@
       "onboard_time": 1717804395,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 528200,
+      "num": 528200,
+      "word": "吃个粽子跑8000米才能消耗掉",
+      "onboard_time": 1717991117,
+      "rank": 7,
+      "category": "科学科普"
     },
     {
       "raw_hot": 528183,
@@ -5729,14 +5761,6 @@
       "onboard_time": 1717545017,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459703,
-      "num": 459703,
-      "word": "刚考完就有大学生那味了",
-      "onboard_time": 1717988357,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 458616,
@@ -6793,6 +6817,14 @@
       "onboard_time": 1717981817,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399097,
+      "num": 399097,
+      "word": "李莎旻子送给凡希亚马面裙",
+      "onboard_time": 1717991957,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 398496,
@@ -9867,6 +9899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269784,
+      "num": 269784,
+      "word": "王鹤棣这一幕梦回东方青苍",
+      "onboard_time": 1717991417,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269497,
       "num": 269497,
       "word": "高考作文 申论",
@@ -10089,6 +10129,14 @@
       "onboard_time": 1717437552,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264351,
+      "num": 264351,
+      "word": "于适新电影",
+      "onboard_time": 1717992138,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 263639,
@@ -10561,6 +10609,14 @@
       "onboard_time": 1717576397,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248222,
+      "num": 248222,
+      "word": "手机爹",
+      "onboard_time": 1717991477,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 247881,
@@ -11249,6 +11305,14 @@
       "onboard_time": 1717848197,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229429,
+      "num": 229429,
+      "word": "肖战工作室端午放饭啦",
+      "onboard_time": 1717992978,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229096,
@@ -13675,6 +13739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196708,
+      "num": 196708,
+      "word": "成毅端午营业照",
+      "onboard_time": 1717993097,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196489,
       "num": 301789,
       "word": "帆布包的性价比有多高",
@@ -15563,6 +15635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174160,
+      "num": 174160,
+      "word": "张颂文同学聚会放胡夏那些年哭了",
+      "onboard_time": 1717992138,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173914,
       "num": 173914,
       "word": "北京WB许诺",
@@ -16465,6 +16545,14 @@
       "onboard_time": 1717386558,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163835,
+      "num": 163835,
+      "word": "野孩子 端午和弟弟吃粽子去",
+      "onboard_time": 1717993217,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 163760,
@@ -18827,6 +18915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141358,
+      "num": 141358,
+      "word": "杰伦布朗杀死比赛",
+      "onboard_time": 1717991597,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141136,
       "num": 141136,
       "word": "kwave",
@@ -19672,6 +19768,14 @@
       "word": "张若昀说等我回来",
       "onboard_time": 1717370475,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133305,
+      "num": 133305,
+      "word": "王星越事业粉狂喜",
+      "onboard_time": 1717992438,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -20891,6 +20995,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "晨跑时我被一窝小猫选中了",
+      "onboard_time": 1717991656,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122381,
       "num": 122381,
       "word": "丁程鑫唱情歌好深情",
@@ -21715,6 +21827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115008,
+      "num": 115008,
+      "word": "王源端午节官宣新歌",
+      "onboard_time": 1717991057,
+      "rank": 40,
+      "category": "音乐,艺人"
+    },
+    {
       "raw_hot": 114993,
       "num": 114993,
       "word": "六月你好",
@@ -22227,6 +22347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109755,
+      "num": 109755,
+      "word": "这狗狗的爪爪也太敦实了吧",
+      "onboard_time": 1717991777,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109682,
       "num": 109682,
       "word": "黄冠亨 公司的规矩就是规矩",
@@ -22507,6 +22635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106968,
+      "num": 836341,
+      "word": "赛龙舟为什么能火出圈",
+      "onboard_time": 1717989917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106958,
       "num": 215226,
       "word": "江西一楼房发生爆炸有人员受伤",
@@ -22553,6 +22689,14 @@
       "onboard_time": 1717276451,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106479,
+      "num": 106479,
+      "word": "长期睡眠不好的人后来怎么样了",
+      "onboard_time": 1717993457,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106460,
@@ -22705,6 +22849,14 @@
       "onboard_time": 1717227857,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105343,
+      "num": 105343,
+      "word": "在爱里长大的小孩原来是这样的",
+      "onboard_time": 1717992377,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 105239,
@@ -25819,6 +25971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 47635,
+      "num": 408040,
+      "word": "今年端午我最想驱走这五毒",
+      "onboard_time": 1717992017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47581,
       "num": 449920,
       "word": "高考各拼各的",
@@ -26080,14 +26240,6 @@
       "word": "原来大熊猫爱干净也是娘胎里带的",
       "onboard_time": 1717255399,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41782,
-      "num": 752991,
-      "word": "赛龙舟为什么能火出圈",
-      "onboard_time": 1717989917,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -26784,6 +26936,14 @@
       "word": "中国首个重载铁路加氢站",
       "onboard_time": 1717401620,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30229,
+      "num": 112186,
+      "word": "德国龙舟赛",
+      "onboard_time": 1717992678,
+      "rank": 42,
       "category": "社会新闻"
     },
     {

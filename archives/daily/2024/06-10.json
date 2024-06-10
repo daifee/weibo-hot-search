@@ -1,7 +1,15 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717990563923,
+  "endTime": 1717993533991,
   "band_list": [
+    {
+      "raw_hot": 1428835,
+      "num": 1428835,
+      "word": "为什么床上总是有沙子",
+      "onboard_time": 1717990817,
+      "rank": 0,
+      "category": "科学科普"
+    },
     {
       "raw_hot": 1361420,
       "num": 1361420,
@@ -44,9 +52,17 @@
     },
     {
       "raw_hot": 863832,
-      "num": 230355,
+      "num": 243137,
       "word": "男子火锅店强吻陌生女子被拘10天",
       "onboard_time": 1717986798,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 825830,
+      "num": 825830,
+      "word": "陕西公安发布尸源协查通报",
+      "onboard_time": 1717988177,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -73,6 +89,14 @@
       "onboard_time": 1717975933,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 714466,
+      "num": 404475,
+      "word": "田曦薇挂脖旗袍",
+      "onboard_time": 1717990757,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 678516,
@@ -123,12 +147,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 576714,
-      "num": 352787,
-      "word": "陕西公安发布尸源协查通报",
-      "onboard_time": 1717988177,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 574242,
+      "num": 574242,
+      "word": "刚考完就有大学生那味了",
+      "onboard_time": 1717988357,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 567778,
@@ -145,6 +169,14 @@
       "onboard_time": 1717984457,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 528200,
+      "num": 528200,
+      "word": "吃个粽子跑8000米才能消耗掉",
+      "onboard_time": 1717991117,
+      "rank": 7,
+      "category": "科学科普"
     },
     {
       "raw_hot": 515583,
@@ -177,14 +209,6 @@
       "onboard_time": 1717979957,
       "rank": 11,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 459703,
-      "num": 459703,
-      "word": "刚考完就有大学生那味了",
-      "onboard_time": 1717988357,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 457553,
@@ -225,6 +249,14 @@
       "onboard_time": 1717981817,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 399097,
+      "num": 399097,
+      "word": "李莎旻子送给凡希亚马面裙",
+      "onboard_time": 1717991957,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 392503,
@@ -315,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269784,
+      "num": 269784,
+      "word": "王鹤棣这一幕梦回东方青苍",
+      "onboard_time": 1717991417,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268955,
       "num": 241649,
       "word": "女孩骑车被卷入大车车底不幸身亡",
@@ -339,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264351,
+      "num": 264351,
+      "word": "于适新电影",
+      "onboard_time": 1717992138,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261132,
       "num": 182688,
       "word": "为什么离职的都去新疆了",
@@ -353,6 +401,14 @@
       "onboard_time": 1717985776,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248222,
+      "num": 248222,
+      "word": "手机爹",
+      "onboard_time": 1717991477,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 246485,
@@ -377,6 +433,14 @@
       "onboard_time": 1717977015,
       "rank": 22,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 229429,
+      "num": 229429,
+      "word": "肖战工作室端午放饭啦",
+      "onboard_time": 1717992978,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 228666,
@@ -507,6 +571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196708,
+      "num": 196708,
+      "word": "成毅端午营业照",
+      "onboard_time": 1717993097,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 195982,
       "num": 195982,
       "word": "塔图姆助攻",
@@ -579,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174160,
+      "num": 174160,
+      "word": "张颂文同学聚会放胡夏那些年哭了",
+      "onboard_time": 1717992138,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173787,
       "num": 173787,
       "word": "删了吧有个发量少的朋友破防了",
@@ -611,6 +691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 163835,
+      "num": 163835,
+      "word": "野孩子 端午和弟弟吃粽子去",
+      "onboard_time": 1717993217,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157535,
       "num": 157535,
       "word": "真的和纸片人结婚了",
@@ -632,6 +720,14 @@
       "word": "佟大为演技",
       "onboard_time": 1717942939,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149858,
+      "num": 149858,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1717991656,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -664,6 +760,14 @@
       "word": "法网",
       "onboard_time": 1717938138,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141358,
+      "num": 141358,
+      "word": "杰伦布朗杀死比赛",
+      "onboard_time": 1717991597,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -705,6 +809,14 @@
       "onboard_time": 1717941679,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133305,
+      "num": 133305,
+      "word": "王星越事业粉狂喜",
+      "onboard_time": 1717992438,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 133223,
@@ -771,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122418,
+      "num": 122418,
+      "word": "晨跑时我被一窝小猫选中了",
+      "onboard_time": 1717991656,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121659,
       "num": 121659,
       "word": "赛龙舟",
@@ -817,6 +937,14 @@
       "onboard_time": 1717986317,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 115008,
+      "num": 115008,
+      "word": "王源端午节官宣新歌",
+      "onboard_time": 1717991057,
+      "rank": 40,
+      "category": "音乐,艺人"
     },
     {
       "raw_hot": 114438,
@@ -867,6 +995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109755,
+      "num": 109755,
+      "word": "这狗狗的爪爪也太敦实了吧",
+      "onboard_time": 1717991777,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107541,
       "num": 107541,
       "word": "gidle将夏日回归",
@@ -875,12 +1011,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 106968,
+      "num": 836341,
+      "word": "赛龙舟为什么能火出圈",
+      "onboard_time": 1717989917,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106677,
       "num": 106677,
       "word": "高考生催更墨雨云间",
       "onboard_time": 1717941620,
       "rank": 37,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 106479,
+      "num": 106479,
+      "word": "长期睡眠不好的人后来怎么样了",
+      "onboard_time": 1717993457,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 105343,
+      "num": 105343,
+      "word": "在爱里长大的小孩原来是这样的",
+      "onboard_time": 1717992377,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 104061,
@@ -1123,6 +1283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 47635,
+      "num": 408040,
+      "word": "今年端午我最想驱走这五毒",
+      "onboard_time": 1717992017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47488,
       "num": 47488,
       "word": "看不见影子的少年",
@@ -1187,14 +1355,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 41782,
-      "num": 752991,
-      "word": "赛龙舟为什么能火出圈",
-      "onboard_time": 1717989917,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39947,
       "num": 39947,
       "word": "胡夏把清华电视踢翻了",
@@ -1233,6 +1393,14 @@
       "onboard_time": 1717955532,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30229,
+      "num": 112186,
+      "word": "德国龙舟赛",
+      "onboard_time": 1717992678,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26638,
