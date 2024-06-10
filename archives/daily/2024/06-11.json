@@ -1,10 +1,10 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718061560816,
+  "endTime": 1718062485178,
   "band_list": [
     {
       "raw_hot": 1503435,
-      "num": 408950,
+      "num": 446545,
       "word": "弟弟去世了二十天我高考完才知道",
       "onboard_time": 1718030599,
       "rank": 3,
@@ -19,20 +19,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 716598,
+      "num": 716598,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 623891,
       "num": 623891,
       "word": "刘亦菲的亲热戏把我老公看急眼了",
       "onboard_time": 1718030180,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 593123,
-      "num": 593123,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 585880,
@@ -43,12 +43,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 445616,
-      "num": 445616,
+      "raw_hot": 513539,
+      "num": 513539,
       "word": "女子掉进西湖冷静躺平等救援",
       "onboard_time": 1718039054,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 443449,
+      "num": 226069,
+      "word": "iPhone有通话录音了",
+      "onboard_time": 1718061495,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 437130,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385473,
+      "num": 385473,
+      "word": "三亚考生建议不要出课本没教过知识",
+      "onboard_time": 1718031559,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 370654,
       "num": 370654,
       "word": "今年西瓜为什么便宜了",
@@ -99,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360559,
-      "num": 360559,
-      "word": "三亚考生建议不要出课本没教过知识",
-      "onboard_time": 1718031559,
-      "rank": 12,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 347989,
       "num": 347989,
       "word": "发现一直玩手机真的很恐怖",
@@ -123,11 +131,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343707,
+      "num": 343707,
+      "word": "人民网评玫瑰的故事",
+      "onboard_time": 1718027059,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293528,
       "num": 272495,
       "word": "刘亦菲新剧口碑逆跌",
       "onboard_time": 1718012658,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 272634,
+      "num": 225015,
+      "word": "庄国栋是最后的赢家吗",
+      "onboard_time": 1718050091,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -139,28 +163,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260911,
+      "num": 138655,
+      "word": "离职后又回原公司上班去了",
+      "onboard_time": 1718059513,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 258197,
+      "num": 258197,
+      "word": "肖战开屏",
+      "onboard_time": 1718061915,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 249069,
       "num": 249069,
       "word": "肖战上海",
       "onboard_time": 1718029820,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246251,
-      "num": 246251,
-      "word": "人民网评玫瑰的故事",
-      "onboard_time": 1718027059,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 235854,
-      "num": 138291,
-      "word": "庄国栋是最后的赢家吗",
-      "onboard_time": 1718050091,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 232323,
@@ -187,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192896,
+      "num": 192896,
+      "word": "WWDC24",
+      "onboard_time": 1718028739,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181020,
       "num": 169943,
       "word": "万茜好帅",
@@ -211,6 +243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156332,
+      "num": 156332,
+      "word": "iOS18发布",
+      "onboard_time": 1718061614,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 155013,
       "num": 115818,
       "word": "庄国栋强吻",
@@ -219,11 +259,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147693,
-      "num": 147693,
-      "word": "WWDC24",
-      "onboard_time": 1718028739,
-      "rank": 48,
+      "raw_hot": 148145,
+      "num": 148145,
+      "word": "苹果官宣ChatGPT集成于全系统生态",
+      "onboard_time": 1718061675,
+      "rank": 16,
       "category": "数码"
     },
     {
@@ -235,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143330,
+      "num": 143330,
+      "word": "新疆地震",
+      "onboard_time": 1718061736,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142092,
       "num": 142092,
       "word": "突然发现了求婚的意义",
@@ -243,20 +291,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136715,
-      "num": 92337,
-      "word": "离职后又回原公司上班去了",
-      "onboard_time": 1718059513,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 136471,
       "num": 251136,
       "word": "韩国罕见展出500年前王室印玺",
       "onboard_time": 1718018477,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135591,
+      "num": 135591,
+      "word": "iOS18相册APP大改版",
+      "onboard_time": 1718061194,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 131722,
@@ -307,12 +355,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108681,
-      "num": 71382,
-      "word": "iOS18相册APP大改版",
+      "raw_hot": 111522,
+      "num": 111522,
+      "word": "心疼孙丞潇",
+      "onboard_time": 1718052491,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108466,
+      "num": 108466,
+      "word": "Apple智能",
       "onboard_time": 1718061194,
-      "rank": 30,
+      "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 107006,
+      "num": 107006,
+      "word": "成都巨响",
+      "onboard_time": 1718062035,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104417,
@@ -321,14 +385,6 @@
       "onboard_time": 1718031380,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103525,
-      "num": 103525,
-      "word": "心疼孙丞潇",
-      "onboard_time": 1718052491,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 101936,
@@ -361,6 +417,14 @@
       "onboard_time": 1718020218,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 99286,
+      "num": 99286,
+      "word": "iPad有计算器了",
+      "onboard_time": 1718061495,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 98902,
@@ -403,12 +467,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 84236,
-      "num": 84236,
-      "word": "Apple智能",
-      "onboard_time": 1718061194,
-      "rank": 25,
-      "category": "数码"
+      "raw_hot": 83234,
+      "num": 83234,
+      "word": "为什么HR都要问老家是哪里的",
+      "onboard_time": 1718043191,
+      "rank": 34,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 82411,
@@ -443,8 +507,16 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 77525,
-      "num": 77525,
+      "raw_hot": 78987,
+      "num": 78987,
+      "word": "99年男子下订单借钱多名骑手中招",
+      "onboard_time": 1718039295,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77530,
+      "num": 77530,
       "word": "唐诗逸让女战神具象化了",
       "onboard_time": 1718057111,
       "rank": 41,
@@ -457,14 +529,6 @@
       "onboard_time": 1718025198,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77401,
-      "num": 71994,
-      "word": "99年男子下订单借钱多名骑手中招",
-      "onboard_time": 1718039295,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76471,
@@ -491,20 +555,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68196,
+      "num": 68196,
+      "word": "好小众的情侣关系",
+      "onboard_time": 1718062456,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 67963,
       "num": 76440,
       "word": "U19国足vs韩国U19",
       "onboard_time": 1718026458,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66740,
-      "num": 66740,
-      "word": "iPhone有通话录音了",
-      "onboard_time": 1718061495,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 66518,
@@ -515,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65447,
-      "num": 65447,
-      "word": "为什么HR都要问老家是哪里的",
-      "onboard_time": 1718043191,
-      "rank": 34,
-      "category": "幽默,情感"
+      "raw_hot": 61799,
+      "num": 61799,
+      "word": "WWDC24演讲要点汇总",
+      "onboard_time": 1718061194,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 60804,
@@ -531,28 +595,28 @@
       "category": "教育"
     },
     {
-      "raw_hot": 58778,
-      "num": 58778,
-      "word": "iPad有计算器了",
-      "onboard_time": 1718061495,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 53402,
-      "num": 53402,
-      "word": "WWDC24演讲要点汇总",
-      "onboard_time": 1718061194,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 52798,
-      "num": 52798,
+      "raw_hot": 59584,
+      "num": 59584,
       "word": "不喜欢小孩的人生孩子后的心态变化",
       "onboard_time": 1718041272,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51959,
+      "num": 51959,
+      "word": "金珉奎wvs",
+      "onboard_time": 1718062456,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 48053,
+      "num": 451659,
+      "word": "龙舟经济火爆",
+      "onboard_time": 1718027059,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47517,
@@ -571,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40647,
-      "num": 406872,
-      "word": "龙舟经济火爆",
-      "onboard_time": 1718027059,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39627,
       "num": 39627,
       "word": "粽子cos",
@@ -595,8 +651,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 27587,
-      "num": 142973,
+      "raw_hot": 30044,
+      "num": 226266,
       "word": "有清华学霸爷爷送考高考绝对错不了",
       "onboard_time": 1718047571,
       "rank": 9,
