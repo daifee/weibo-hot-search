@@ -1,0 +1,410 @@
+{
+  "runTime": 1718036674204,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208397,
+        "num": 1208397,
+        "word": "高考准考证少写一个还有分吗",
+        "onboard_time": 1718032040,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 623891,
+        "num": 623891,
+        "word": "刘亦菲的亲热戏把我老公看急眼了",
+        "onboard_time": 1718030180,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101936,
+        "num": 409686,
+        "word": "这个端午110000000人次出游",
+        "onboard_time": 1718027359,
+        "rank": 2,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1503435,
+        "num": 408950,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 401036,
+        "num": 401036,
+        "word": "Jennie走秀",
+        "onboard_time": 1718030239,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368657,
+        "num": 382322,
+        "word": "张桂梅患带状疱疹仍坚持陪考",
+        "onboard_time": 1718028919,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370654,
+        "num": 370654,
+        "word": "今年西瓜为什么便宜了",
+        "onboard_time": 1718029758,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 369019,
+        "num": 369019,
+        "word": "张颂文晒108元重量级粽子王",
+        "onboard_time": 1718030719,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347473,
+        "num": 347473,
+        "word": "墨雨云间这段刘亦菲10年前就意识到了",
+        "onboard_time": 1718021297,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18768,
+        "num": 298705,
+        "word": "90岁奶奶送考愿孩子们都能考上大学",
+        "onboard_time": 1718035817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406307,
+        "num": 295649,
+        "word": "96年28岁其实挺小的",
+        "onboard_time": 1718018057,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 281715,
+        "num": 281715,
+        "word": "发现一直玩手机真的很恐怖",
+        "onboard_time": 1718011579,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275859,
+        "num": 275859,
+        "word": "三亚考生建议不要出课本没教过知识",
+        "onboard_time": 1718031559,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 293528,
+        "num": 272495,
+        "word": "刘亦菲新剧口碑逆跌",
+        "onboard_time": 1718012658,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249069,
+        "num": 249069,
+        "word": "肖战上海",
+        "onboard_time": 1718029820,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232323,
+        "num": 232323,
+        "word": "彭冠英下线林更新上线",
+        "onboard_time": 1718021839,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171435,
+        "num": 171435,
+        "word": "这周只上4天班",
+        "onboard_time": 1718031019,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181020,
+        "num": 169943,
+        "word": "万茜好帅",
+        "onboard_time": 1718030659,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136471,
+        "num": 169377,
+        "word": "韩国罕见展出500年前王室印玺",
+        "onboard_time": 1718018477,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123982,
+        "num": 166583,
+        "word": "皇马官宣将参加新版世俱杯",
+        "onboard_time": 1718033779,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512589,
+        "num": 164805,
+        "word": "因为熬夜长了带状疱疹",
+        "onboard_time": 1718033899,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437130,
+        "num": 164057,
+        "word": "李承铉给离婚的爸妈订同一间房",
+        "onboard_time": 1718007559,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264159,
+        "num": 161914,
+        "word": "双方都对这个吻感到恶心",
+        "onboard_time": 1718011217,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224275,
+        "num": 159827,
+        "word": "才知道焯水不是简单的煮一下",
+        "onboard_time": 1718028979,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159045,
+        "num": 159045,
+        "word": "研究生面试和公考面试的区别",
+        "onboard_time": 1718034379,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142092,
+        "num": 142092,
+        "word": "突然发现了求婚的意义",
+        "onboard_time": 1718031800,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126151,
+        "num": 126151,
+        "word": "岛屿少年总导演回应陈雨浓孙丞潇吵架",
+        "onboard_time": 1718034618,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117929,
+        "num": 117929,
+        "word": "Angelababy汉服少女",
+        "onboard_time": 1718023037,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112049,
+        "num": 112049,
+        "word": "肖战放饭",
+        "onboard_time": 1718018237,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155013,
+        "num": 109018,
+        "word": "庄国栋强吻",
+        "onboard_time": 1718033238,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104417,
+        "num": 104417,
+        "word": "周深打不过就加入",
+        "onboard_time": 1718031380,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101643,
+        "num": 101643,
+        "word": "你俩能不能莫名其妙亲一个",
+        "onboard_time": 1718027599,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101448,
+        "num": 101448,
+        "word": "SM将追究EXOCBX法律责任",
+        "onboard_time": 1718018958,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100801,
+        "num": 100801,
+        "word": "张艺兴一口气发了12首新歌试听",
+        "onboard_time": 1718020218,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 88790,
+        "num": 88790,
+        "word": "近视手术并不是一劳永逸",
+        "onboard_time": 1718025499,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98902,
+        "num": 88783,
+        "word": "Cube回应解约",
+        "onboard_time": 1718024418,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94856,
+        "num": 88782,
+        "word": "张颂文 咸粽第一",
+        "onboard_time": 1718033598,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88772,
+        "num": 88772,
+        "word": "姨妈40度高温抱大白兔陪考",
+        "onboard_time": 1718033958,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83625,
+        "num": 83625,
+        "word": "黑神话",
+        "onboard_time": 1718021778,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 82411,
+        "num": 82411,
+        "word": "人生中最爽的三个月",
+        "onboard_time": 1718023578,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80688,
+        "num": 80688,
+        "word": "张凌赫回复陈都灵",
+        "onboard_time": 1718030419,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80430,
+        "num": 80430,
+        "word": "分手一年多了前任一直在用亲情卡",
+        "onboard_time": 1718009897,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79272,
+        "num": 79272,
+        "word": "在曼彻斯特边吐槽边Citywalk",
+        "onboard_time": 1718032040,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 77449,
+        "num": 77449,
+        "word": "宋亚轩刘耀文一起逛街",
+        "onboard_time": 1718025198,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76471,
+        "num": 76471,
+        "word": "墨雨云间硬控台湾网友",
+        "onboard_time": 1718018778,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72356,
+        "num": 76470,
+        "word": "陈瑶无框眼镜",
+        "onboard_time": 1718028018,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68116,
+        "num": 76459,
+        "word": "野猪一家给丞磊娜扎做饭",
+        "onboard_time": 1718036655,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67963,
+        "num": 76440,
+        "word": "U19国足vs韩国U19",
+        "onboard_time": 1718026458,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66518,
+        "num": 76433,
+        "word": "林更新丁宁互关了",
+        "onboard_time": 1718023218,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60804,
+        "num": 76421,
+        "word": "高考47年来裸分最高的考生是谁",
+        "onboard_time": 1717999397,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引用的屈原名句#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718033685985,
+  "endTime": 1718036674204,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1256,6 +1256,14 @@
       "word": "高考作文 比去年简单",
       "onboard_time": 1717732585,
       "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1208397,
+      "num": 1208397,
+      "word": "高考准考证少写一个还有分吗",
+      "onboard_time": 1718032040,
+      "rank": 30,
       "category": "教育"
     },
     {
@@ -4659,14 +4667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 566360,
-      "num": 378746,
-      "word": "高考准考证少写一个还有分吗",
-      "onboard_time": 1718032040,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 566024,
       "num": 566024,
       "word": "孙颖莎vs陈梦",
@@ -5369,6 +5369,14 @@
       "onboard_time": 1717695972,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 512589,
+      "num": 164805,
+      "word": "因为熬夜长了带状疱疹",
+      "onboard_time": 1718033899,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 512230,
@@ -10393,6 +10401,14 @@
       "onboard_time": 1717336280,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275859,
+      "num": 275859,
+      "word": "三亚考生建议不要出课本没教过知识",
+      "onboard_time": 1718031559,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 275127,
@@ -17843,14 +17859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 162556,
-      "num": 135281,
-      "word": "三亚考生建议不要出课本没教过知识",
-      "onboard_time": 1718031559,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 162538,
       "num": 162538,
       "word": "诡异的滴滴滴可能来自哪里",
@@ -18241,6 +18249,14 @@
       "onboard_time": 1717675577,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159045,
+      "num": 159045,
+      "word": "研究生面试和公考面试的区别",
+      "onboard_time": 1718034379,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 158936,
@@ -18681,6 +18697,14 @@
       "onboard_time": 1717744279,
       "rank": 38,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 155013,
+      "num": 134898,
+      "word": "庄国栋强吻",
+      "onboard_time": 1718033238,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 154997,
@@ -19681,14 +19705,6 @@
       "onboard_time": 1717323678,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 146737,
-      "num": 134898,
-      "word": "庄国栋强吻",
-      "onboard_time": 1718033238,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 146514,
@@ -22139,6 +22155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126151,
+      "num": 126151,
+      "word": "岛屿少年总导演回应陈雨浓孙丞潇吵架",
+      "onboard_time": 1718034618,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125788,
       "num": 125788,
       "word": "阅卷老师停下了阅卷的手",
@@ -22385,6 +22409,14 @@
       "onboard_time": 1717912038,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123982,
+      "num": 166583,
+      "word": "皇马官宣将参加新版世俱杯",
+      "onboard_time": 1718033779,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 123964,
@@ -25499,6 +25531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 88772,
+      "num": 88772,
+      "word": "姨妈40度高温抱大白兔陪考",
+      "onboard_time": 1718033958,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88679,
       "num": 88679,
       "word": "500块现在能买到什么手机",
@@ -26521,6 +26561,14 @@
       "onboard_time": 1717598719,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 68116,
+      "num": 76459,
+      "word": "野猪一家给丞磊娜扎做饭",
+      "onboard_time": 1718036655,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 68009,
@@ -29247,6 +29295,14 @@
       "num": 309325,
       "word": "一颗穿越4000年的稻米独白",
       "onboard_time": 1717315637,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18768,
+      "num": 298705,
+      "word": "90岁奶奶送考愿孩子们都能考上大学",
+      "onboard_time": 1718035817,
       "rank": 9,
       "category": "社会新闻"
     },
