@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718043926013,
+  "endTime": 1718044686017,
   "band_list": [
     {
       "raw_hot": 1503435,
@@ -219,7 +219,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127830,
+      "raw_hot": 129390,
       "num": 64336,
       "word": "女子掉进西湖冷静躺平等救援",
       "onboard_time": 1718039054,
@@ -451,12 +451,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 32580,
-      "num": 32580,
+      "raw_hot": 38087,
+      "num": 34450,
       "word": "为什么HR都要问老家是哪里的",
       "onboard_time": 1718043191,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 33803,
+      "num": 33803,
+      "word": "年轻人喜欢熬夜的根本原因",
+      "onboard_time": 1718043791,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 30302,
@@ -465,14 +473,6 @@
       "onboard_time": 1718018179,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21105,
-      "num": 24840,
-      "word": "年轻人喜欢熬夜的根本原因",
-      "onboard_time": 1718043791,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 18768,
