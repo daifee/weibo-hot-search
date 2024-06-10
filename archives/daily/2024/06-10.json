@@ -1,6 +1,6 @@
 {
   "startTime": 1717950116829,
-  "endTime": 1717997747829,
+  "endTime": 1718000864039,
   "band_list": [
     {
       "raw_hot": 1691557,
@@ -33,6 +33,14 @@
       "onboard_time": 1717975874,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1074002,
+      "num": 1074002,
+      "word": "高考试卷真的在监狱印刷吗",
+      "onboard_time": 1717997838,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 1027798,
@@ -99,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 754430,
+      "num": 754430,
+      "word": "广州地铁允许个人投放后",
+      "onboard_time": 1717996339,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 714466,
       "num": 413263,
       "word": "田曦薇挂脖旗袍",
@@ -120,6 +136,14 @@
       "word": "刘亦菲5集换了32套造型",
       "onboard_time": 1717938918,
       "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 634585,
+      "num": 634585,
+      "word": "赵露思开机照",
+      "onboard_time": 1717998617,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -163,6 +187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 597048,
+      "num": 202616,
+      "word": "鱼一上午被扇了6000个巴掌",
+      "onboard_time": 1717998796,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596456,
       "num": 413286,
       "word": "手机爹",
@@ -195,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 525943,
+      "num": 251610,
+      "word": "中国第一大省正在疯狂建大学",
+      "onboard_time": 1717996519,
+      "rank": 38,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 515583,
       "num": 515583,
       "word": "董宇辉称非常反感被叫网红",
@@ -209,14 +249,6 @@
       "onboard_time": 1717937238,
       "rank": 1,
       "category": "情感"
-    },
-    {
-      "raw_hot": 501070,
-      "num": 501070,
-      "word": "广州地铁允许个人投放后",
-      "onboard_time": 1717996339,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 500436,
@@ -323,14 +355,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 378571,
-      "num": 251610,
-      "word": "中国第一大省正在疯狂建大学",
-      "onboard_time": 1717996519,
-      "rank": 38,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 369382,
       "num": 369382,
       "word": "甘茨宣布退出以色列战时内阁",
@@ -371,12 +395,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 338613,
+      "num": 198895,
+      "word": "高考47年来裸分最高的考生是谁",
+      "onboard_time": 1717999397,
+      "rank": 22,
+      "category": "教育"
+    },
+    {
       "raw_hot": 322472,
       "num": 322472,
       "word": "杨幂工作室抠图",
       "onboard_time": 1717977676,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310408,
+      "num": 310408,
+      "word": "马嘉祺新歌MV有女主",
+      "onboard_time": 1717996878,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 307781,
@@ -419,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288718,
+      "num": 288718,
+      "word": "高圆圆赵又廷参加好友婚礼",
+      "onboard_time": 1717997056,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "刘亦菲万茜朱珠cp名",
@@ -427,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276563,
-      "num": 276563,
-      "word": "马嘉祺新歌MV有女主",
-      "onboard_time": 1717996878,
-      "rank": 18,
-      "category": "音乐"
+      "raw_hot": 278477,
+      "num": 278477,
+      "word": "95后高颜值天才少女再获5.8亿元融资",
+      "onboard_time": 1717998018,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271148,
@@ -441,6 +489,14 @@
       "onboard_time": 1717991417,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269923,
+      "num": 269923,
+      "word": "于正 多看爽剧有益身心健康",
+      "onboard_time": 1717997658,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 268955,
@@ -475,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257759,
+      "num": 257759,
+      "word": "黄明昊出道6年归来才22岁",
+      "onboard_time": 1717999337,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256911,
       "num": 249579,
       "word": "13位男嘉宾在节目里吵架16分钟",
@@ -483,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255404,
+      "num": 225797,
+      "word": "刘亦菲跳华尔兹好辣",
+      "onboard_time": 1717996698,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246485,
       "num": 246485,
       "word": "我爸以为有教资就能去学校当老师",
       "onboard_time": 1717929438,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 245381,
+      "num": 245381,
+      "word": "董宇辉称每天睡醒后觉得不如不睡",
+      "onboard_time": 1717997838,
+      "rank": 18,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 245234,
@@ -513,14 +593,6 @@
       "onboard_time": 1717977015,
       "rank": 22,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 239980,
-      "num": 225797,
-      "word": "刘亦菲跳华尔兹好辣",
-      "onboard_time": 1717996698,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 230471,
@@ -563,20 +635,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217911,
+      "num": 189750,
+      "word": "张艺兴带女团唱Psychic",
+      "onboard_time": 1718000597,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216669,
       "num": 216669,
       "word": "吴谨言 爽文大女主",
       "onboard_time": 1717982476,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215055,
-      "num": 215055,
-      "word": "高圆圆赵又廷参加好友婚礼",
-      "onboard_time": 1717997056,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 212748,
@@ -779,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178612,
+      "num": 178612,
+      "word": "果然广东人是真心想救屈原的",
+      "onboard_time": 1717998796,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178183,
       "num": 178183,
       "word": "马嘉祺新歌蜉蝣",
@@ -811,6 +891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 172619,
+      "num": 172619,
+      "word": "毕业一年攒了2万",
+      "onboard_time": 1717999818,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172256,
       "num": 158193,
       "word": "陕西神木一水库发现一具无名尸体",
@@ -832,6 +920,14 @@
       "word": "端午节不只是吃粽子赛龙舟",
       "onboard_time": 1717984036,
       "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 170469,
+      "num": 170469,
+      "word": "咸粽子比甜粽子晚了1000多年",
+      "onboard_time": 1717999097,
+      "rank": 32,
       "category": "美食"
     },
     {
@@ -947,20 +1043,20 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145897,
+      "num": 145897,
+      "word": "临江仙剧照",
+      "onboard_time": 1718000539,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144764,
       "num": 144764,
       "word": "法网",
       "onboard_time": 1717938138,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144041,
-      "num": 144041,
-      "word": "于正 多看爽剧有益身心健康",
-      "onboard_time": 1717997658,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 141358,
@@ -987,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139792,
+      "num": 139792,
+      "word": "读狂犬旁基本都是福建人",
+      "onboard_time": 1718000117,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138434,
       "num": 138434,
       "word": "墨雨云间",
@@ -1009,6 +1113,22 @@
       "onboard_time": 1717941679,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135591,
+      "num": 135591,
+      "word": "铁打的张韶涵流水的他",
+      "onboard_time": 1717998437,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133914,
+      "num": 133914,
+      "word": "上海等级考",
+      "onboard_time": 1718000477,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 133305,
@@ -1187,6 +1307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113169,
+      "num": 113169,
+      "word": "狗狗装过头差点变成流浪狗",
+      "onboard_time": 1717999337,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112832,
       "num": 112832,
       "word": "植物大战僵尸杂交版",
@@ -1201,6 +1329,14 @@
       "onboard_time": 1717978456,
       "rank": 45,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 112334,
+      "num": 112334,
+      "word": "爱不可以抵万难",
+      "onboard_time": 1717998497,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 111819,
@@ -1249,6 +1385,14 @@
       "onboard_time": 1717992377,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105083,
+      "num": 105083,
+      "word": "这样睡10分钟可抵2小时",
+      "onboard_time": 1718000838,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 104061,
@@ -1361,6 +1505,14 @@
       "onboard_time": 1717951816,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79446,
+      "num": 345365,
+      "word": "可以说端午节快乐吗",
+      "onboard_time": 1717999217,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78311,
