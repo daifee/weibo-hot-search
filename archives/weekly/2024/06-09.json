@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718050798194,
+  "endTime": 1718051677338,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -5499,6 +5499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71316,
+      "num": 71316,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71117,
       "num": 71117,
       "word": "孟庭苇叫赵丽颖颖宝",
@@ -5529,14 +5537,6 @@
       "onboard_time": 1717995616,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 67526,
-      "num": 67526,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66773,
@@ -6147,6 +6147,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26537,
+      "num": 26537,
+      "word": "孟子义之前是不是在理发店干过",
+      "onboard_time": 1718051171,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25957,
       "num": 122152,
       "word": "一人一句祝福2024毕业生",
@@ -6211,12 +6219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17119,
+      "num": 17119,
+      "word": "庄国栋是最后的赢家吗",
+      "onboard_time": 1718050091,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16968,
       "num": 20909,
       "word": "玫瑰的故事站内热度值破25000",
       "onboard_time": 1717858999,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16366,
+      "num": 16366,
+      "word": "小猫咪的额头不能随便摸",
+      "onboard_time": 1718050510,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 16013,
@@ -6267,14 +6291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14801,
-      "num": 14801,
-      "word": "庄国栋是最后的赢家吗",
-      "onboard_time": 1718050091,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14639,
       "num": 57111,
       "word": "有清华学霸爷爷送考高考绝对错不了",
@@ -6323,12 +6339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12788,
-      "num": 14669,
-      "word": "小猫咪的额头不能随便摸",
-      "onboard_time": 1718050510,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 12334,
+      "num": 14249,
+      "word": "欧洲议会选举",
+      "onboard_time": 1718051591,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 12283,

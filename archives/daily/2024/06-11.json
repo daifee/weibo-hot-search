@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718050798194,
+  "endTime": 1718051677338,
   "band_list": [
     {
       "raw_hot": 1503435,
@@ -419,20 +419,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71316,
+      "num": 71316,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67963,
       "num": 76440,
       "word": "U19国足vs韩国U19",
       "onboard_time": 1718026458,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67526,
-      "num": 67526,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66518,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26537,
+      "num": 26537,
+      "word": "孟子义之前是不是在理发店干过",
+      "onboard_time": 1718051171,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 21199,
       "num": 22076,
       "word": "人民网评玫瑰的故事",
@@ -499,6 +507,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17119,
+      "num": 17119,
+      "word": "庄国栋是最后的赢家吗",
+      "onboard_time": 1718050091,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16366,
+      "num": 16366,
+      "word": "小猫咪的额头不能随便摸",
+      "onboard_time": 1718050510,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15978,
       "num": 15978,
       "word": "北方人的梦魇南方人的团建",
@@ -513,14 +537,6 @@
       "onboard_time": 1718047270,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14801,
-      "num": 14801,
-      "word": "庄国栋是最后的赢家吗",
-      "onboard_time": 1718050091,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 14639,
@@ -547,12 +563,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 12788,
-      "num": 14669,
-      "word": "小猫咪的额头不能随便摸",
-      "onboard_time": 1718050510,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 12334,
+      "num": 14249,
+      "word": "欧洲议会选举",
+      "onboard_time": 1718051591,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 9490,
