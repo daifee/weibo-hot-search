@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1717983834762,
+  "endTime": 1717987017121,
   "band_list": [
     {
       "raw_hot": 1946381,
@@ -57,6 +57,14 @@
       "onboard_time": 1717941979,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1361420,
+      "num": 1361420,
+      "word": "法国总统宣布解散国民议会",
+      "onboard_time": 1717984097,
+      "rank": 0,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1356617,
@@ -161,6 +169,14 @@
       "onboard_time": 1717932017,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 975791,
+      "num": 975791,
+      "word": "哪个臭小子被刘亦菲喜欢过",
+      "onboard_time": 1717984097,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 959650,
@@ -443,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 606789,
+      "num": 606789,
+      "word": "法国",
+      "onboard_time": 1717984397,
+      "rank": 4,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 605211,
       "num": 605211,
       "word": "边伯贤 不喜欢我就不要买我的票",
@@ -505,6 +529,14 @@
       "onboard_time": 1717930158,
       "rank": 7,
       "category": "网红,教育"
+    },
+    {
+      "raw_hot": 544733,
+      "num": 505412,
+      "word": "EXOCBX将告发SM",
+      "onboard_time": 1717984457,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 541859,
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 440162,
-      "num": 241758,
+      "num": 259427,
       "word": "曾744分考上清华的他如今怎样了",
       "onboard_time": 1717975093,
       "rank": 22,
@@ -825,6 +857,14 @@
       "onboard_time": 1717901596,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401078,
+      "num": 401078,
+      "word": "山东历史",
+      "onboard_time": 1717984698,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 399184,
@@ -1179,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 294490,
+      "num": 294490,
+      "word": "美方承认有无辜者在以军行动中丧生",
+      "onboard_time": 1717985658,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -1275,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267719,
+      "num": 267719,
+      "word": "粽子",
+      "onboard_time": 1717895657,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 267642,
       "num": 267642,
       "word": "黄亦玫加班后关电脑没存档",
@@ -1328,6 +1384,14 @@
       "word": "袁娅维 导演组你什么意思",
       "onboard_time": 1717888273,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 249579,
+      "num": 249579,
+      "word": "13位男嘉宾在节目里吵架16分钟",
+      "onboard_time": 1717985776,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1459,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219086,
+      "num": 219086,
+      "word": "刘亦菲万茜朱珠cp名",
+      "onboard_time": 1717985358,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218967,
       "num": 177863,
       "word": "刘宇宁说迪丽热巴是维秘天使",
@@ -1497,14 +1569,6 @@
       "onboard_time": 1717918697,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 212873,
-      "num": 212873,
-      "word": "粽子",
-      "onboard_time": 1717895657,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 212137,
@@ -1563,6 +1627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208276,
+      "num": 208276,
+      "word": "周扬青get奚梦瑶戛纳同款发型师",
+      "onboard_time": 1717983796,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208199,
       "num": 208199,
       "word": "马嘉祺新歌",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1717913719,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203813,
+      "num": 203813,
+      "word": "高考生冲出考场疯狂催更中国boy",
+      "onboard_time": 1717984277,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202483,
@@ -1779,10 +1859,34 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187729,
+      "num": 187059,
+      "word": "男子火锅店强吻陌生女子被拘10天",
+      "onboard_time": 1717986798,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187596,
       "num": 187596,
       "word": "FIBA",
       "onboard_time": 1717945460,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187264,
+      "num": 187264,
+      "word": "TFBOYS十一周年一定要办",
+      "onboard_time": 1717975874,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187070,
+      "num": 187070,
+      "word": "塔图姆助攻",
+      "onboard_time": 1717986197,
       "rank": 29,
       "category": "体育"
     },
@@ -1865,6 +1969,14 @@
       "onboard_time": 1717915038,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180851,
+      "num": 180851,
+      "word": "独行侠vs凯尔特人",
+      "onboard_time": 1717977315,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 179836,
@@ -1969,6 +2081,14 @@
       "onboard_time": 1717947738,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 171677,
+      "num": 171677,
+      "word": "端午节不只是吃粽子赛龙舟",
+      "onboard_time": 1717984036,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 171011,
@@ -2161,14 +2281,6 @@
       "onboard_time": 1717922837,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 150628,
-      "num": 150628,
-      "word": "TFBOYS十一周年一定要办",
-      "onboard_time": 1717975874,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 150475,
@@ -2724,7 +2836,7 @@
     },
     {
       "raw_hot": 115775,
-      "num": 712219,
+      "num": 983146,
       "word": "一批诋毁企业形象账号被处置",
       "onboard_time": 1717945819,
       "rank": 2,
@@ -2737,6 +2849,14 @@
       "onboard_time": 1717935558,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115591,
+      "num": 115591,
+      "word": "山东历史选择 难",
+      "onboard_time": 1717986317,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 115432,
@@ -2811,14 +2931,6 @@
       "category": "教育,体育"
     },
     {
-      "raw_hot": 110794,
-      "num": 110794,
-      "word": "独行侠vs凯尔特人",
-      "onboard_time": 1717977315,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -2865,6 +2977,14 @@
       "onboard_time": 1717858879,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107541,
+      "num": 107541,
+      "word": "gidle将夏日回归",
+      "onboard_time": 1717986256,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 106895,
@@ -2945,14 +3065,6 @@
       "onboard_time": 1717895477,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97296,
-      "num": 97296,
-      "word": "周扬青get奚梦瑶戛纳同款发型师",
-      "onboard_time": 1717983796,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 97041,
