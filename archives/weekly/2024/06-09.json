@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718057964501,
+  "endTime": 1718058980915,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -2019,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288635,
+      "num": 288635,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283839,
       "num": 283839,
       "word": "石宇奇携双冠登顶世界第一",
@@ -2835,14 +2843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 201199,
-      "num": 201199,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201038,
       "num": 201038,
       "word": "被端午吟里的戏腔惊艳了",
@@ -3041,6 +3041,14 @@
       "onboard_time": 1718016137,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190716,
+      "num": 190716,
+      "word": "女子掉进西湖冷静躺平等救援",
+      "onboard_time": 1718039054,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190634,
@@ -4395,14 +4403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 129390,
-      "num": 121750,
-      "word": "女子掉进西湖冷静躺平等救援",
-      "onboard_time": 1718039054,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129320,
       "num": 462444,
       "word": "妈妈说填志愿一切都听女儿的",
@@ -4931,6 +4931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112254,
+      "num": 86534,
+      "word": "庄国栋是最后的赢家吗",
+      "onboard_time": 1718050091,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -5419,14 +5427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80380,
-      "num": 53277,
-      "word": "庄国栋是最后的赢家吗",
-      "onboard_time": 1718050091,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79138,
       "num": 137740,
       "word": "王星越壁纸",
@@ -5529,6 +5529,14 @@
       "onboard_time": 1717866375,
       "rank": 36,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 70252,
+      "num": 70252,
+      "word": "维密门店大量关闭",
+      "onboard_time": 1718055612,
+      "rank": 17,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 68930,
@@ -5787,6 +5795,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 49047,
+      "num": 49047,
+      "word": "心疼孙丞潇",
+      "onboard_time": 1718052491,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47865,
       "num": 202668,
       "word": "乘警10秒救起掉站台缝隙女孩",
@@ -5939,14 +5955,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 42466,
-      "num": 42466,
-      "word": "维密门店大量关闭",
-      "onboard_time": 1718055612,
-      "rank": 17,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 42353,
       "num": 45589,
       "word": "谁敢相信这是五十多岁大叔的穿搭",
@@ -6017,14 +6025,6 @@
       "onboard_time": 1717900696,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37420,
-      "num": 37420,
-      "word": "心疼孙丞潇",
-      "onboard_time": 1718052491,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 36978,
@@ -6115,6 +6115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33455,
+      "num": 33455,
+      "word": "唐诗逸让女战神具象化了",
+      "onboard_time": 1718057111,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 33015,
+      "num": 33015,
+      "word": "小猫咪的额头不能随便摸",
+      "onboard_time": 1718050510,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32240,
       "num": 80649,
       "word": "日本乒乓球队奥运名单",
@@ -6187,14 +6203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25384,
-      "num": 25384,
-      "word": "小猫咪的额头不能随便摸",
-      "onboard_time": 1718050510,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23030,
       "num": 1187744,
       "word": "你那里有哪些端午习俗",
@@ -6203,12 +6211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22749,
-      "num": 22749,
-      "word": "唐诗逸让女战神具象化了",
-      "onboard_time": 1718057111,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 20881,
+      "num": 191608,
+      "word": "龙舟经济火爆",
+      "onboard_time": 1718027059,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20566,
@@ -6227,8 +6235,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19184,
-      "num": 21611,
+      "raw_hot": 19190,
+      "num": 27364,
       "word": "欧洲议会选举",
       "onboard_time": 1718051591,
       "rank": 49,
@@ -6281,14 +6289,6 @@
       "onboard_time": 1717858999,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16178,
-      "num": 133473,
-      "word": "龙舟经济火爆",
-      "onboard_time": 1718027059,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16013,
