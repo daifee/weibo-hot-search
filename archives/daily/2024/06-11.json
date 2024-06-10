@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718054358286,
+  "endTime": 1718055352804,
   "band_list": [
     {
       "raw_hot": 1503435,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97262,
+      "num": 97262,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94856,
       "num": 88782,
       "word": "张颂文 咸粽第一",
@@ -369,14 +377,6 @@
       "onboard_time": 1718009897,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 80379,
-      "num": 80379,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79272,
@@ -451,8 +451,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 43680,
-      "num": 43680,
+      "raw_hot": 45755,
+      "num": 45755,
       "word": "孟子义之前是不是在理发店干过",
       "onboard_time": 1718051171,
       "rank": 14,
@@ -491,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24027,
-      "num": 24027,
+      "raw_hot": 29304,
+      "num": 29304,
       "word": "庄国栋是最后的赢家吗",
       "onboard_time": 1718050091,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23917,
+      "num": 23917,
+      "word": "心疼孙丞潇",
+      "onboard_time": 1718052491,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 21730,
@@ -513,14 +521,6 @@
       "onboard_time": 1718027059,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19326,
-      "num": 17230,
-      "word": "心疼孙丞潇",
-      "onboard_time": 1718052491,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 18768,
@@ -571,8 +571,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 13585,
-      "num": 14658,
+      "raw_hot": 13982,
+      "num": 15240,
       "word": "欧洲议会选举",
       "onboard_time": 1718051591,
       "rank": 49,

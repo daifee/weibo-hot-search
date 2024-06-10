@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718054358286,
+  "endTime": 1718055352804,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -25195,6 +25195,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 97262,
+      "num": 97262,
+      "word": "高考7月变6月竟是因为天气",
+      "onboard_time": 1718046191,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97164,
       "num": 97164,
       "word": "迪丽热巴MV直拍",
@@ -25945,14 +25953,6 @@
       "onboard_time": 1717261695,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80379,
-      "num": 80379,
-      "word": "高考7月变6月竟是因为天气",
-      "onboard_time": 1718046191,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80321,
@@ -27939,6 +27939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45755,
+      "num": 45755,
+      "word": "孟子义之前是不是在理发店干过",
+      "onboard_time": 1718051171,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45660,
       "num": 246576,
       "word": "粽子界的商战在成都开始了",
@@ -28033,14 +28041,6 @@
       "onboard_time": 1717593979,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43680,
-      "num": 43680,
-      "word": "孟子义之前是不是在理发店干过",
-      "onboard_time": 1718051171,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 43639,
@@ -28923,6 +28923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29304,
+      "num": 29304,
+      "word": "庄国栋是最后的赢家吗",
+      "onboard_time": 1718050091,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29294,
       "num": 253876,
       "word": "白鹿清新赴约",
@@ -29163,12 +29171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24027,
-      "num": 24027,
-      "word": "庄国栋是最后的赢家吗",
-      "onboard_time": 1718050091,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 23917,
+      "num": 23917,
+      "word": "心疼孙丞潇",
+      "onboard_time": 1718052491,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 23816,
@@ -29377,14 +29385,6 @@
       "onboard_time": 1717186091,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19326,
-      "num": 17230,
-      "word": "心疼孙丞潇",
-      "onboard_time": 1718052491,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 18995,
@@ -29635,6 +29635,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 13982,
+      "num": 15240,
+      "word": "欧洲议会选举",
+      "onboard_time": 1718051591,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 13928,
       "num": 41280,
       "word": "榴莲价格为何一路走低",
@@ -29665,14 +29673,6 @@
       "onboard_time": 1717730963,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13585,
-      "num": 14658,
-      "word": "欧洲议会选举",
-      "onboard_time": 1718051591,
-      "rank": 49,
-      "category": "国外时政"
     },
     {
       "raw_hot": 13530,
