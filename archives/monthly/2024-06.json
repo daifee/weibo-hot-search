@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718124007951,
+  "endTime": 1718126313456,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -13219,6 +13219,14 @@
       "category": "体育,教育"
     },
     {
+      "raw_hot": 235451,
+      "num": 235451,
+      "word": "王星越田曦薇曾合作初次爱你",
+      "onboard_time": 1718122158,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235263,
       "num": 235263,
       "word": "yes24网站",
@@ -14833,6 +14841,14 @@
       "onboard_time": 1717737381,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208643,
+      "num": 208643,
+      "word": "男子不舍朋友离开用锁链将其拴住",
+      "onboard_time": 1718123056,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208568,
@@ -20041,14 +20057,6 @@
       "onboard_time": 1717638378,
       "rank": 37,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 161021,
-      "num": 137335,
-      "word": "王星越田曦薇曾合作初次爱你",
-      "onboard_time": 1718122158,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 161020,
@@ -26731,6 +26739,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108902,
+      "num": 70958,
+      "word": "谭维维尚雯婕疑似救场",
+      "onboard_time": 1718124016,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108822,
       "num": 498620,
       "word": "近期樱桃会被击穿价格吗",
@@ -28201,14 +28217,6 @@
       "onboard_time": 1717922418,
       "rank": 2,
       "category": "教育"
-    },
-    {
-      "raw_hot": 90277,
-      "num": 92247,
-      "word": "男子不舍朋友离开用锁链将其拴住",
-      "onboard_time": 1718123056,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90202,
@@ -32475,6 +32483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14532,
+      "num": 126715,
+      "word": "被非遗火壶震撼了",
+      "onboard_time": 1718124436,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14347,
       "num": 47476,
       "word": "高考结束消防员架起水门祝福考生",
@@ -32505,6 +32521,14 @@
       "onboard_time": 1717705570,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13867,
+      "num": 68456,
+      "word": "饥饿小蜂猴勇闯人类火锅店",
+      "onboard_time": 1718126294,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13728,

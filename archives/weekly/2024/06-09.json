@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718124007951,
+  "endTime": 1718126313456,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -3731,6 +3731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235451,
+      "num": 235451,
+      "word": "王星越田曦薇曾合作初次爱你",
+      "onboard_time": 1718122158,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234628,
       "num": 234628,
       "word": "白鹿清装造型",
@@ -4097,6 +4105,14 @@
       "onboard_time": 1717944620,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208643,
+      "num": 208643,
+      "word": "男子不舍朋友离开用锁链将其拴住",
+      "onboard_time": 1718123056,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208568,
@@ -5641,14 +5657,6 @@
       "onboard_time": 1717912157,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161021,
-      "num": 137335,
-      "word": "王星越田曦薇曾合作初次爱你",
-      "onboard_time": 1718122158,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 161009,
@@ -7627,6 +7635,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 108902,
+      "num": 70958,
+      "word": "谭维维尚雯婕疑似救场",
+      "onboard_time": 1718124016,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108517,
       "num": 108517,
       "word": "everglow新歌",
@@ -8057,14 +8073,6 @@
       "onboard_time": 1717922418,
       "rank": 2,
       "category": "教育"
-    },
-    {
-      "raw_hot": 90277,
-      "num": 92247,
-      "word": "男子不舍朋友离开用锁链将其拴住",
-      "onboard_time": 1718123056,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89152,
@@ -9259,6 +9267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14532,
+      "num": 126715,
+      "word": "被非遗火壶震撼了",
+      "onboard_time": 1718124436,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 14347,
       "num": 47476,
       "word": "高考结束消防员架起水门祝福考生",
@@ -9272,6 +9288,14 @@
       "word": "考场外父亲隔着栅栏这番叮嘱让人泪目",
       "onboard_time": 1718083817,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13867,
+      "num": 68456,
+      "word": "饥饿小蜂猴勇闯人类火锅店",
+      "onboard_time": 1718126294,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
