@@ -1,7 +1,15 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718062485178,
+  "endTime": 1718068855109,
   "band_list": [
+    {
+      "raw_hot": 1718023,
+      "num": 1718023,
+      "word": "doc和docx有什么区别",
+      "onboard_time": 1718064799,
+      "rank": 0,
+      "category": "科学科普"
+    },
     {
       "raw_hot": 1503435,
       "num": 446545,
@@ -19,6 +27,38 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1060619,
+      "num": 1060619,
+      "word": "iPhone有通话录音了",
+      "onboard_time": 1718061495,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 978837,
+      "num": 978837,
+      "word": "间谍假装自曝结果真牵出大案",
+      "onboard_time": 1718064559,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862081,
+      "num": 862081,
+      "word": "刘亦菲演技",
+      "onboard_time": 1718066780,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 751660,
+      "num": 751660,
+      "word": "蔡磊公布渐冻症诊断报告",
+      "onboard_time": 1718063057,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716598,
       "num": 716598,
       "word": "高考7月变6月竟是因为天气",
@@ -27,12 +67,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 695206,
+      "num": 385473,
+      "word": "三亚考生建议不要出课本没教过知识",
+      "onboard_time": 1718031559,
+      "rank": 12,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 690049,
+      "num": 690049,
+      "word": "明朝状元试卷2460字无一涂改",
+      "onboard_time": 1718066961,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 623891,
       "num": 623891,
       "word": "刘亦菲的亲热戏把我老公看急眼了",
       "onboard_time": 1718030180,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 601317,
+      "num": 433754,
+      "word": "巴勒斯坦情侣在战火中举行婚礼",
+      "onboard_time": 1718065399,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 585880,
@@ -51,12 +115,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 443449,
-      "num": 226069,
-      "word": "iPhone有通话录音了",
-      "onboard_time": 1718061495,
-      "rank": 32,
+      "raw_hot": 496843,
+      "num": 428033,
+      "word": "iPhone15有五种充电上限了",
+      "onboard_time": 1718067198,
+      "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 463741,
+      "num": 463741,
+      "word": "人民网评玫瑰的故事",
+      "onboard_time": 1718027059,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 454491,
+      "num": 454491,
+      "word": "皇马回应球迷辱华",
+      "onboard_time": 1718065220,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 437130,
@@ -65,6 +145,14 @@
       "onboard_time": 1718007559,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423373,
+      "num": 423373,
+      "word": "肖战开屏",
+      "onboard_time": 1718061915,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 406307,
@@ -81,14 +169,6 @@
       "onboard_time": 1718030239,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 385473,
-      "num": 385473,
-      "word": "三亚考生建议不要出课本没教过知识",
-      "onboard_time": 1718031559,
-      "rank": 12,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 370654,
@@ -131,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 343707,
-      "num": 343707,
-      "word": "人民网评玫瑰的故事",
-      "onboard_time": 1718027059,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 313478,
+      "num": 313478,
+      "word": "微信背景图",
+      "onboard_time": 1718065999,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 293528,
@@ -145,6 +225,14 @@
       "onboard_time": 1718012658,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275865,
+      "num": 275865,
+      "word": "YG前总监 完全不一样",
+      "onboard_time": 1718068097,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 272634,
@@ -164,19 +252,11 @@
     },
     {
       "raw_hot": 260911,
-      "num": 138655,
+      "num": 225571,
       "word": "离职后又回原公司上班去了",
       "onboard_time": 1718059513,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 258197,
-      "num": 258197,
-      "word": "肖战开屏",
-      "onboard_time": 1718061915,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 249069,
@@ -187,11 +267,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247733,
+      "num": 247733,
+      "word": "成都巨响",
+      "onboard_time": 1718062035,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232323,
       "num": 232323,
       "word": "彭冠英下线林更新上线",
       "onboard_time": 1718021839,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229078,
+      "num": 229078,
+      "word": "成都雪山",
+      "onboard_time": 1718067079,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 226707,
+      "num": 226707,
+      "word": "吴谨言跟谁我都可以嗑一口",
+      "onboard_time": 1718063896,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -203,6 +307,38 @@
       "category": "美食"
     },
     {
+      "raw_hot": 211956,
+      "num": 211956,
+      "word": "方便面越来越跟不上年轻人了",
+      "onboard_time": 1718064739,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 207909,
+      "num": 207909,
+      "word": "苹果官宣ChatGPT集成于全系统生态",
+      "onboard_time": 1718061675,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 204596,
+      "num": 204596,
+      "word": "警方通报天津滨海公交事故",
+      "onboard_time": 1718064138,
+      "rank": 28,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 204516,
+      "num": 204516,
+      "word": "iOS18发布",
+      "onboard_time": 1718061614,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 204335,
       "num": 204335,
       "word": "原来爱豆是可以喊回来安可的",
@@ -211,12 +347,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198158,
+      "num": 198158,
+      "word": "玫瑰的故事",
+      "onboard_time": 1718067141,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196023,
+      "num": 196023,
+      "word": "iPhone录音会通知对方",
+      "onboard_time": 1718067859,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192896,
       "num": 192896,
       "word": "WWDC24",
       "onboard_time": 1718028739,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185739,
+      "num": 185739,
+      "word": "福宝的邻居们在干啥",
+      "onboard_time": 1718067677,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182412,
+      "num": 182412,
+      "word": "女子花费518元雇体育生陪女儿爬泰山",
+      "onboard_time": 1718066118,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181020,
@@ -235,6 +403,38 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168982,
+      "num": 168982,
+      "word": "第一次知道破伤风的症状",
+      "onboard_time": 1718062997,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160653,
+      "num": 160653,
+      "word": "aespa 宝可梦",
+      "onboard_time": 1718064559,
+      "rank": 35,
+      "category": "作品衍生,游戏"
+    },
+    {
+      "raw_hot": 160464,
+      "num": 160464,
+      "word": "EXOCBX称SM小心眼",
+      "onboard_time": 1718068278,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 159154,
+      "num": 159154,
+      "word": "晋江 界面",
+      "onboard_time": 1718064198,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 159045,
       "num": 159045,
       "word": "研究生面试和公考面试的区别",
@@ -243,12 +443,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 156332,
-      "num": 156332,
-      "word": "iOS18发布",
-      "onboard_time": 1718061614,
-      "rank": 15,
-      "category": "数码"
+      "raw_hot": 157745,
+      "num": 157745,
+      "word": "马斯克回应苹果OpenAI合作",
+      "onboard_time": 1718067379,
+      "rank": 39,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 155013,
@@ -259,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148145,
-      "num": 148145,
-      "word": "苹果官宣ChatGPT集成于全系统生态",
-      "onboard_time": 1718061675,
-      "rank": 16,
-      "category": "数码"
+      "raw_hot": 145891,
+      "num": 145891,
+      "word": "联合国安理会通过涉加沙决议",
+      "onboard_time": 1718064979,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 145409,
@@ -273,6 +473,14 @@
       "onboard_time": 1718043791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 143352,
+      "num": 143352,
+      "word": "河北新疆局地最高温可达40度",
+      "onboard_time": 1718067619,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143330,
@@ -307,6 +515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135044,
+      "num": 135044,
+      "word": "为什么HR都要问老家是哪里的",
+      "onboard_time": 1718043191,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 131722,
       "num": 166583,
       "word": "皇马官宣将参加新版世俱杯",
@@ -323,12 +539,36 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 128004,
+      "num": 128004,
+      "word": "皇马称反对个别球迷不当言行",
+      "onboard_time": 1718068817,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126151,
       "num": 126151,
       "word": "岛屿少年总导演回应陈雨浓孙丞潇吵架",
       "onboard_time": 1718034618,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122837,
+      "num": 122837,
+      "word": "苹果放大招股价跌了",
+      "onboard_time": 1718068757,
+      "rank": 46,
+      "category": "数码,财经"
+    },
+    {
+      "raw_hot": 119007,
+      "num": 158323,
+      "word": "爽文的风吹到了狗界",
+      "onboard_time": 1718063117,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117929,
@@ -363,20 +603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110096,
+      "num": 110096,
+      "word": "好小众的情侣关系",
+      "onboard_time": 1718062456,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108466,
       "num": 108466,
       "word": "Apple智能",
       "onboard_time": 1718061194,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 107006,
-      "num": 107006,
-      "word": "成都巨响",
-      "onboard_time": 1718062035,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 104417,
@@ -435,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95980,
+      "num": 981831,
+      "word": "龙舟经济火爆",
+      "onboard_time": 1718027059,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94856,
       "num": 88782,
       "word": "张颂文 咸粽第一",
@@ -465,14 +713,6 @@
       "onboard_time": 1718021778,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 83234,
-      "num": 83234,
-      "word": "为什么HR都要问老家是哪里的",
-      "onboard_time": 1718043191,
-      "rank": 34,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 82411,
@@ -555,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68196,
-      "num": 68196,
-      "word": "好小众的情侣关系",
-      "onboard_time": 1718062456,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 67963,
       "num": 76440,
       "word": "U19国足vs韩国U19",
@@ -611,14 +843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48053,
-      "num": 451659,
-      "word": "龙舟经济火爆",
-      "onboard_time": 1718027059,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47517,
       "num": 47517,
       "word": "小猫咪的额头不能随便摸",
@@ -656,6 +880,14 @@
       "word": "有清华学霸爷爷送考高考绝对错不了",
       "onboard_time": 1718047571,
       "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 24561,
+      "num": 446136,
+      "word": "两个弟弟考场外接姐姐不小心说实话了",
+      "onboard_time": 1718068518,
+      "rank": 10,
       "category": "社会新闻,教育"
     },
     {
