@@ -1,0 +1,410 @@
+{
+  "runTime": 1718070133994,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1619872,
+        "num": 1619872,
+        "word": "doc和docx有什么区别",
+        "onboard_time": 1718064799,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 905604,
+        "num": 905604,
+        "word": "iPhone有通话录音了",
+        "onboard_time": 1718061495,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85367,
+        "num": 842903,
+        "word": "龙舟经济火爆",
+        "onboard_time": 1718027059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807337,
+        "num": 807337,
+        "word": "间谍假装自曝结果真牵出大案",
+        "onboard_time": 1718064559,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759868,
+        "num": 759868,
+        "word": "刘亦菲演技",
+        "onboard_time": 1718066780,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707612,
+        "num": 707612,
+        "word": "明朝状元试卷2460字无一涂改",
+        "onboard_time": 1718066961,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 702659,
+        "num": 702659,
+        "word": "巴勒斯坦情侣在战火中举行婚礼",
+        "onboard_time": 1718065399,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 657420,
+        "num": 657420,
+        "word": "iPhone15有五种充电上限了",
+        "onboard_time": 1718067198,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 567547,
+        "num": 567547,
+        "word": "蔡磊公布渐冻症诊断报告",
+        "onboard_time": 1718063057,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127141,
+        "num": 484346,
+        "word": "两个弟弟考场外接姐姐不小心说实话了",
+        "onboard_time": 1718068518,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 439190,
+        "num": 439190,
+        "word": "刘亦菲的亲热戏把我老公看急眼了",
+        "onboard_time": 1718030180,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 411875,
+        "num": 411875,
+        "word": "皇马回应球迷辱华",
+        "onboard_time": 1718065220,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353733,
+        "num": 353733,
+        "word": "人民网评玫瑰的故事",
+        "onboard_time": 1718027059,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345100,
+        "num": 345100,
+        "word": "肖战开屏",
+        "onboard_time": 1718061915,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317396,
+        "num": 317396,
+        "word": "YG前总监 完全不一样",
+        "onboard_time": 1718068097,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 313252,
+        "num": 313252,
+        "word": "微信背景图",
+        "onboard_time": 1718065999,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272894,
+        "num": 272894,
+        "word": "成都雪山",
+        "onboard_time": 1718067079,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 265691,
+        "num": 265691,
+        "word": "高考7月变6月竟是因为天气",
+        "onboard_time": 1718046191,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248916,
+        "num": 248916,
+        "word": "王者新英雄元流之子",
+        "onboard_time": 1718068880,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245049,
+        "num": 245049,
+        "word": "女子掉进西湖冷静躺平等救援",
+        "onboard_time": 1718039054,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 895501,
+        "num": 241498,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 539397,
+        "num": 240720,
+        "word": "三亚考生建议不要出课本没教过知识",
+        "onboard_time": 1718031559,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 237307,
+        "num": 237307,
+        "word": "吴谨言跟谁我都可以嗑一口",
+        "onboard_time": 1718063896,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211921,
+        "num": 211921,
+        "word": "福宝的邻居们在干啥",
+        "onboard_time": 1718067677,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203743,
+        "num": 203743,
+        "word": "张颂文晒108元重量级粽子王",
+        "onboard_time": 1718030719,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194129,
+        "num": 194129,
+        "word": "第4批预备航天员选拔完成",
+        "onboard_time": 1718069359,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193693,
+        "num": 193693,
+        "word": "离职后又回原公司上班去了",
+        "onboard_time": 1718059513,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191699,
+        "num": 191699,
+        "word": "方便面越来越跟不上年轻人了",
+        "onboard_time": 1718064739,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177106,
+        "num": 177106,
+        "word": "苹果市值一夜蒸发4213亿元",
+        "onboard_time": 1718069837,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175254,
+        "num": 175254,
+        "word": "女子花费518元雇体育生陪女儿爬泰山",
+        "onboard_time": 1718066118,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167800,
+        "num": 167800,
+        "word": "墨雨云间这段刘亦菲10年前就意识到了",
+        "onboard_time": 1718021297,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167451,
+        "num": 167451,
+        "word": "第一次知道破伤风的症状",
+        "onboard_time": 1718062997,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166764,
+        "num": 166764,
+        "word": "iOS18发布",
+        "onboard_time": 1718061614,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 163300,
+        "num": 163300,
+        "word": "玫瑰的故事",
+        "onboard_time": 1718067141,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160127,
+        "num": 160127,
+        "word": "iPhone录音会通知对方",
+        "onboard_time": 1718067859,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156430,
+        "num": 156430,
+        "word": "iPhone图标也有更多颜色了",
+        "onboard_time": 1718069537,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 155125,
+        "num": 155125,
+        "word": "爽文的风吹到了狗界",
+        "onboard_time": 1718063117,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150300,
+        "num": 150300,
+        "word": "aespa 宝可梦",
+        "onboard_time": 1718064559,
+        "rank": 37,
+        "category": "作品衍生,游戏"
+      },
+      {
+        "raw_hot": 149046,
+        "num": 149046,
+        "word": "EXOCBX称SM小心眼",
+        "onboard_time": 1718068278,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147860,
+        "num": 147860,
+        "word": "晋江 界面",
+        "onboard_time": 1718064198,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 147607,
+        "num": 147607,
+        "word": "皇马",
+        "onboard_time": 1718069537,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143339,
+        "num": 143339,
+        "word": "苹果放大招股价跌了",
+        "onboard_time": 1718068757,
+        "rank": 41,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 140396,
+        "num": 140396,
+        "word": "成都巨响",
+        "onboard_time": 1718062035,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137196,
+        "num": 137196,
+        "word": "警方通报天津滨海公交事故",
+        "onboard_time": 1718064138,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 134496,
+        "num": 134496,
+        "word": "好小众的情侣关系",
+        "onboard_time": 1718062456,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133264,
+        "num": 133264,
+        "word": "苹果官宣ChatGPT集成于全系统生态",
+        "onboard_time": 1718061675,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124126,
+        "num": 124126,
+        "word": "马斯克回应苹果OpenAI合作",
+        "onboard_time": 1718067379,
+        "rank": 46,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 117403,
+        "num": 117403,
+        "word": "新疆地震",
+        "onboard_time": 1718061736,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115800,
+        "num": 115800,
+        "word": "庄国栋是最后的赢家吗",
+        "onboard_time": 1718050091,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112738,
+        "num": 112738,
+        "word": "皇马称反对个别球迷不当言行",
+        "onboard_time": 1718068817,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引用的屈原名句#"
+    }
+  }
+}
