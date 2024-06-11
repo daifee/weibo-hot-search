@@ -1,0 +1,410 @@
+{
+  "runTime": 1718076088762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 894644,
+        "num": 894644,
+        "word": "doc和docx有什么区别",
+        "onboard_time": 1718064799,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 801294,
+        "num": 801294,
+        "word": "娜扎吃饭中途给自己做高颅顶",
+        "onboard_time": 1718071159,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7210,
+        "num": 758855,
+        "word": "龙舟何以在全球多国乘风破浪",
+        "onboard_time": 1718075958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733369,
+        "num": 733369,
+        "word": "张雪峰称江苏大学不是211胜似211",
+        "onboard_time": 1718072777,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 638299,
+        "num": 638299,
+        "word": "两个弟弟考场外接姐姐不小心说实话了",
+        "onboard_time": 1718068518,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 573991,
+        "num": 573991,
+        "word": "蜜雪冰城客服回应员工在水池洗脚",
+        "onboard_time": 1718073317,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499459,
+        "num": 499459,
+        "word": "坏消息假期结束好消息只上4天",
+        "onboard_time": 1718073436,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437549,
+        "num": 437549,
+        "word": "张百乔 我是真演的",
+        "onboard_time": 1718073257,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406149,
+        "num": 406149,
+        "word": "明朝状元试卷2460字无一涂改",
+        "onboard_time": 1718066961,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 51900,
+        "num": 403763,
+        "word": "读不喜欢的专业是一种怎样的体验",
+        "onboard_time": 1718074817,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 569965,
+        "num": 398722,
+        "word": "iPhone有通话录音了",
+        "onboard_time": 1718061495,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 52714,
+        "num": 388054,
+        "word": "龙舟经济火爆",
+        "onboard_time": 1718027059,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537005,
+        "num": 384774,
+        "word": "iPhone15有五种充电上限了",
+        "onboard_time": 1718067198,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 417047,
+        "num": 375735,
+        "word": "吴谨言 女武一",
+        "onboard_time": 1718072477,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373220,
+        "num": 373220,
+        "word": "陈奕迅受伤缝合30多针",
+        "onboard_time": 1718076018,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371407,
+        "num": 371407,
+        "word": "刘亦菲演技",
+        "onboard_time": 1718066780,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327326,
+        "num": 327326,
+        "word": "国外航天员将参与中国空间站飞行任务",
+        "onboard_time": 1718071938,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302848,
+        "num": 302848,
+        "word": "巴勒斯坦情侣在战火中举行婚礼",
+        "onboard_time": 1718065399,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 300251,
+        "num": 300251,
+        "word": "苹果市值一夜蒸发4213亿元",
+        "onboard_time": 1718069837,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289317,
+        "num": 289317,
+        "word": "桑延装醉",
+        "onboard_time": 1718074937,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1138410,
+        "num": 287783,
+        "word": "千万别一边充电一边玩手机",
+        "onboard_time": 1718071217,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625524,
+        "num": 286234,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283919,
+        "num": 283919,
+        "word": "刘亦菲的亲热戏把我老公看急眼了",
+        "onboard_time": 1718030180,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282944,
+        "num": 282944,
+        "word": "间谍假装自曝结果真牵出大案",
+        "onboard_time": 1718064559,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269150,
+        "num": 269150,
+        "word": "彭冠英23岁到37岁荧幕蜕变",
+        "onboard_time": 1718075117,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268579,
+        "num": 268579,
+        "word": "中国女孩北冰洋捕蟹月入13万",
+        "onboard_time": 1718074398,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265472,
+        "num": 265472,
+        "word": "陈奕迅重庆演唱会延期",
+        "onboard_time": 1718076018,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 260227,
+        "num": 260227,
+        "word": "刘亦菲孟佳再合作",
+        "onboard_time": 1718074337,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259949,
+        "num": 259949,
+        "word": "EXO冬专告吹",
+        "onboard_time": 1718070199,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22598,
+        "num": 247893,
+        "word": "加拿大一水上飞机失控撞翻航行船只",
+        "onboard_time": 1718075418,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247593,
+        "num": 247593,
+        "word": "玫瑰的故事最会怼人的男人出现了",
+        "onboard_time": 1718071159,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230192,
+        "num": 230192,
+        "word": "肖战开屏",
+        "onboard_time": 1718061915,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209759,
+        "num": 209759,
+        "word": "iOS18支持机型",
+        "onboard_time": 1718073077,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207298,
+        "num": 207298,
+        "word": "金庸武侠世界定档",
+        "onboard_time": 1718075418,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202367,
+        "num": 202367,
+        "word": "福宝明天见",
+        "onboard_time": 1718071999,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199358,
+        "num": 199358,
+        "word": "A股",
+        "onboard_time": 1718070617,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193027,
+        "num": 193027,
+        "word": "云边有个小卖部球球认亲预告",
+        "onboard_time": 1718075058,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191759,
+        "num": 191759,
+        "word": "苹果回应iPhone录音会通知对方",
+        "onboard_time": 1718074098,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184638,
+        "num": 184638,
+        "word": "金硕珍明天退伍",
+        "onboard_time": 1718075058,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177957,
+        "num": 177957,
+        "word": "苹果耳机支持点头接电话",
+        "onboard_time": 1718076018,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170926,
+        "num": 170926,
+        "word": "皇马回应球迷辱华",
+        "onboard_time": 1718065220,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168047,
+        "num": 168047,
+        "word": "魔兽世界",
+        "onboard_time": 1718075598,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164077,
+        "num": 164077,
+        "word": "Doinb回应头盔事件",
+        "onboard_time": 1718072296,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160406,
+        "num": 160406,
+        "word": "护师成绩",
+        "onboard_time": 1718075238,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153400,
+        "num": 153400,
+        "word": "黄亦玫傅家明埋线",
+        "onboard_time": 1718072658,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152031,
+        "num": 152031,
+        "word": "蔡磊公布渐冻症诊断报告",
+        "onboard_time": 1718063057,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149354,
+        "num": 149354,
+        "word": "生孩子到底难在哪",
+        "onboard_time": 1718075898,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144905,
+        "num": 144905,
+        "word": "原神4.7版本",
+        "onboard_time": 1718076018,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143304,
+        "num": 143304,
+        "word": "王者新英雄元流之子",
+        "onboard_time": 1718068880,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138493,
+        "num": 138493,
+        "word": "蔡斌表示朱婷今晚必首发",
+        "onboard_time": 1718071637,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}

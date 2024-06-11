@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718073907963,
+  "endTime": 1718076088762,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1459,6 +1459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1138410,
+      "num": 304288,
+      "word": "千万别一边充电一边玩手机",
+      "onboard_time": 1718071217,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1137745,
       "num": 1137745,
       "word": "退票",
@@ -2579,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 801294,
+      "num": 801294,
+      "word": "娜扎吃饭中途给自己做高颅顶",
+      "onboard_time": 1718071159,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 798906,
       "num": 798906,
       "word": "巴菲特",
@@ -3105,6 +3121,14 @@
       "onboard_time": 1717293377,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 733369,
+      "num": 733369,
+      "word": "张雪峰称江苏大学不是211胜似211",
+      "onboard_time": 1718072777,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 732575,
@@ -4219,14 +4243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 610581,
-      "num": 304288,
-      "word": "千万别一边充电一边玩手机",
-      "onboard_time": 1718071217,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 610358,
       "num": 255909,
       "word": "长期睡眠不好的人后来怎么样了",
@@ -4705,6 +4721,14 @@
       "onboard_time": 1717988357,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 573991,
+      "num": 573991,
+      "word": "蜜雪冰城客服回应员工在水池洗脚",
+      "onboard_time": 1718073317,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 572322,
@@ -5651,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499459,
+      "num": 499459,
+      "word": "坏消息假期结束好消息只上4天",
+      "onboard_time": 1718073436,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498049,
       "num": 498049,
       "word": "丁真自曝刚上岛跟不上节奏",
@@ -6009,14 +6041,6 @@
       "onboard_time": 1717634179,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 476581,
-      "num": 476581,
-      "word": "娜扎吃饭中途给自己做高颅顶",
-      "onboard_time": 1718071159,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 476513,
@@ -6739,6 +6763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 437549,
+      "num": 437549,
+      "word": "张百乔 我是真演的",
+      "onboard_time": 1718073257,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437342,
       "num": 307218,
       "word": "高考为什么会在六月的七八号",
@@ -7081,6 +7113,14 @@
       "onboard_time": 1717168041,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 417047,
+      "num": 375735,
+      "word": "吴谨言 女武一",
+      "onboard_time": 1718072477,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 416686,
@@ -7923,6 +7963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 373220,
+      "num": 373220,
+      "word": "陈奕迅受伤缝合30多针",
+      "onboard_time": 1718076018,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 373098,
       "num": 373098,
       "word": "距离2024高考还有2天",
@@ -8288,14 +8336,6 @@
       "word": "杨紫李现国色芳华没有停拍",
       "onboard_time": 1718023339,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 357444,
-      "num": 357444,
-      "word": "吴谨言 女武一",
-      "onboard_time": 1718072477,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -9059,6 +9099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327326,
+      "num": 442991,
+      "word": "国外航天员将参与中国空间站飞行任务",
+      "onboard_time": 1718071938,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 326913,
       "num": 326913,
       "word": "高考生催更墨雨云间",
@@ -9483,14 +9531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312148,
-      "num": 312148,
-      "word": "张百乔 我是真演的",
-      "onboard_time": 1718073257,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 311587,
       "num": 311587,
       "word": "邓为翻牌",
@@ -9803,28 +9843,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 301966,
-      "num": 442991,
-      "word": "国外航天员将参与中国空间站飞行任务",
-      "onboard_time": 1718071938,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 301903,
       "num": 301903,
       "word": "剑网三",
       "onboard_time": 1717333699,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301250,
-      "num": 301250,
-      "word": "张雪峰称江苏大学不是211胜似211",
-      "onboard_time": 1718072777,
-      "rank": 32,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 301119,
@@ -10169,6 +10193,14 @@
       "onboard_time": 1717300817,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 289317,
+      "num": 289317,
+      "word": "桑延装醉",
+      "onboard_time": 1718074937,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 289238,
@@ -10867,20 +10899,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269709,
-      "num": 269709,
-      "word": "蜜雪冰城客服回应员工在水池洗脚",
-      "onboard_time": 1718073317,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269497,
       "num": 269497,
       "word": "高考作文 申论",
       "onboard_time": 1717736000,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 269150,
+      "num": 269150,
+      "word": "彭冠英23岁到37岁荧幕蜕变",
+      "onboard_time": 1718075117,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 269097,
@@ -10904,6 +10936,14 @@
       "word": "不法人员在充电宝内安装窃听定位",
       "onboard_time": 1717289717,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268579,
+      "num": 268579,
+      "word": "中国女孩北冰洋捕蟹月入13万",
+      "onboard_time": 1718074398,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -11067,6 +11107,14 @@
       "category": "演出,互联网"
     },
     {
+      "raw_hot": 265472,
+      "num": 265472,
+      "word": "陈奕迅重庆演唱会延期",
+      "onboard_time": 1718076018,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 265258,
       "num": 265258,
       "word": "那英你是真饿了",
@@ -11209,6 +11257,14 @@
       "onboard_time": 1717250898,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260227,
+      "num": 260227,
+      "word": "刘亦菲孟佳再合作",
+      "onboard_time": 1718074337,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 260042,
@@ -13499,14 +13555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210746,
-      "num": 210746,
-      "word": "坏消息假期结束好消息只上4天",
-      "onboard_time": 1718073436,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210703,
       "num": 210703,
       "word": "西藏那曲5.9级地震",
@@ -13665,6 +13713,14 @@
       "onboard_time": 1717302017,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 209759,
+      "num": 209759,
+      "word": "iOS18支持机型",
+      "onboard_time": 1718073077,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 209715,
@@ -13865,6 +13921,14 @@
       "onboard_time": 1717406358,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 207298,
+      "num": 207298,
+      "word": "金庸武侠世界定档",
+      "onboard_time": 1718075418,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 207222,
@@ -15459,6 +15523,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 193027,
+      "num": 193027,
+      "word": "云边有个小卖部球球认亲预告",
+      "onboard_time": 1718075058,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192904,
       "num": 192904,
       "word": "王楚钦3比1林高远",
@@ -15611,6 +15683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191759,
+      "num": 191759,
+      "word": "苹果回应iPhone录音会通知对方",
+      "onboard_time": 1718074098,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191665,
       "num": 191665,
       "word": "女子带榴莲过不了安检机场狂炫",
@@ -15633,14 +15713,6 @@
       "onboard_time": 1718016137,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191023,
-      "num": 191023,
-      "word": "iOS18支持机型",
-      "onboard_time": 1718073077,
-      "rank": 42,
-      "category": "数码"
     },
     {
       "raw_hot": 190969,
@@ -16283,6 +16355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184638,
+      "num": 184638,
+      "word": "金硕珍明天退伍",
+      "onboard_time": 1718075058,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184385,
       "num": 152321,
       "word": "BABYMONSTER将出演下周MCD",
@@ -16745,6 +16825,14 @@
       "onboard_time": 1717982836,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 177957,
+      "num": 177957,
+      "word": "苹果耳机支持点头接电话",
+      "onboard_time": 1718076018,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 177949,
@@ -18531,6 +18619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160406,
+      "num": 160406,
+      "word": "护师成绩",
+      "onboard_time": 1718075238,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 160356,
       "num": 160356,
       "word": "多地高考结束了",
@@ -19873,6 +19969,14 @@
       "onboard_time": 1717230077,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149354,
+      "num": 149354,
+      "word": "生孩子到底难在哪",
+      "onboard_time": 1718075898,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 149326,
@@ -28219,6 +28323,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 51900,
+      "num": 403763,
+      "word": "读不喜欢的专业是一种怎样的体验",
+      "onboard_time": 1718074817,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 51873,
       "num": 229794,
       "word": "余承东称智界S7女性用户占比近四成",
@@ -29827,6 +29939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 22598,
+      "num": 247893,
+      "word": "加拿大一水上飞机失控撞翻航行船只",
+      "onboard_time": 1718075418,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22532,
       "num": 157790,
       "word": "田雨说范闲和王启年的心更近了",
@@ -30576,6 +30696,14 @@
       "word": "渝爱把自己裹成了粽子",
       "onboard_time": 1717523532,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7210,
+      "num": 758855,
+      "word": "龙舟何以在全球多国乘风破浪",
+      "onboard_time": 1718075958,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

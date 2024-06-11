@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718073907963,
+  "endTime": 1718076088762,
   "band_list": [
     {
       "raw_hot": 1718023,
@@ -25,6 +25,14 @@
       "onboard_time": 1718032040,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1138410,
+      "num": 304288,
+      "word": "千万别一边充电一边玩手机",
+      "onboard_time": 1718071217,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1060619,
@@ -67,12 +75,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 801294,
+      "num": 801294,
+      "word": "娜扎吃饭中途给自己做高颅顶",
+      "onboard_time": 1718071159,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751660,
       "num": 751660,
       "word": "蔡磊公布渐冻症诊断报告",
       "onboard_time": 1718063057,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 733369,
+      "num": 733369,
+      "word": "张雪峰称江苏大学不是211胜似211",
+      "onboard_time": 1718072777,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 716598,
@@ -115,20 +139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 610581,
-      "num": 304288,
-      "word": "千万别一边充电一边玩手机",
-      "onboard_time": 1718071217,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 585880,
       "num": 164805,
       "word": "因为熬夜长了带状疱疹",
       "onboard_time": 1718033899,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 573991,
+      "num": 573991,
+      "word": "蜜雪冰城客服回应员工在水池洗脚",
+      "onboard_time": 1718073317,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 513539,
@@ -139,12 +163,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476581,
-      "num": 476581,
-      "word": "娜扎吃饭中途给自己做高颅顶",
-      "onboard_time": 1718071159,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 499459,
+      "num": 499459,
+      "word": "坏消息假期结束好消息只上4天",
+      "onboard_time": 1718073436,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463741,
@@ -171,12 +195,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437549,
+      "num": 437549,
+      "word": "张百乔 我是真演的",
+      "onboard_time": 1718073257,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437130,
       "num": 164057,
       "word": "李承铉给离婚的爸妈订同一间房",
       "onboard_time": 1718007559,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417047,
+      "num": 375735,
+      "word": "吴谨言 女武一",
+      "onboard_time": 1718072477,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 406307,
@@ -203,6 +243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 373220,
+      "num": 373220,
+      "word": "陈奕迅受伤缝合30多针",
+      "onboard_time": 1718076018,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370654,
       "num": 370654,
       "word": "今年西瓜为什么便宜了",
@@ -225,14 +273,6 @@
       "onboard_time": 1718028919,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357444,
-      "num": 357444,
-      "word": "吴谨言 女武一",
-      "onboard_time": 1718072477,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 356888,
@@ -267,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327326,
+      "num": 442991,
+      "word": "国外航天员将参与中国空间站飞行任务",
+      "onboard_time": 1718071938,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 317396,
       "num": 317396,
       "word": "YG前总监 完全不一样",
@@ -281,14 +329,6 @@
       "onboard_time": 1718065999,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 312148,
-      "num": 312148,
-      "word": "张百乔 我是真演的",
-      "onboard_time": 1718073257,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 308082,
@@ -307,27 +347,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 301966,
-      "num": 442991,
-      "word": "国外航天员将参与中国空间站飞行任务",
-      "onboard_time": 1718071938,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 301250,
-      "num": 301250,
-      "word": "张雪峰称江苏大学不是211胜似211",
-      "onboard_time": 1718072777,
-      "rank": 32,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 293528,
       "num": 272495,
       "word": "刘亦菲新剧口碑逆跌",
       "onboard_time": 1718012658,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289317,
+      "num": 289317,
+      "word": "桑延装醉",
+      "onboard_time": 1718074937,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -347,12 +379,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269709,
-      "num": 269709,
-      "word": "蜜雪冰城客服回应员工在水池洗脚",
-      "onboard_time": 1718073317,
+      "raw_hot": 269150,
+      "num": 269150,
+      "word": "彭冠英23岁到37岁荧幕蜕变",
+      "onboard_time": 1718075117,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268579,
+      "num": 268579,
+      "word": "中国女孩北冰洋捕蟹月入13万",
+      "onboard_time": 1718074398,
+      "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265472,
+      "num": 265472,
+      "word": "陈奕迅重庆演唱会延期",
+      "onboard_time": 1718076018,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 264159,
@@ -369,6 +417,14 @@
       "onboard_time": 1718059513,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260227,
+      "num": 260227,
+      "word": "刘亦菲孟佳再合作",
+      "onboard_time": 1718074337,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 254025,
@@ -451,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210746,
-      "num": 210746,
-      "word": "坏消息假期结束好消息只上4天",
-      "onboard_time": 1718073436,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 209759,
+      "num": 209759,
+      "word": "iOS18支持机型",
+      "onboard_time": 1718073077,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 207909,
@@ -465,6 +521,14 @@
       "onboard_time": 1718061675,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 207298,
+      "num": 207298,
+      "word": "金庸武侠世界定档",
+      "onboard_time": 1718075418,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 205285,
@@ -539,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 193027,
+      "num": 193027,
+      "word": "云边有个小卖部球球认亲预告",
+      "onboard_time": 1718075058,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 192896,
       "num": 192896,
       "word": "WWDC24",
@@ -547,12 +619,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 191023,
-      "num": 191023,
-      "word": "iOS18支持机型",
-      "onboard_time": 1718073077,
-      "rank": 42,
+      "raw_hot": 191759,
+      "num": 191759,
+      "word": "苹果回应iPhone录音会通知对方",
+      "onboard_time": 1718074098,
+      "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 184638,
+      "num": 184638,
+      "word": "金硕珍明天退伍",
+      "onboard_time": 1718075058,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 182412,
@@ -569,6 +649,14 @@
       "onboard_time": 1718030659,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177957,
+      "num": 177957,
+      "word": "苹果耳机支持点头接电话",
+      "onboard_time": 1718076018,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 175900,
@@ -593,6 +681,14 @@
       "onboard_time": 1718062997,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168047,
+      "num": 168047,
+      "word": "魔兽世界",
+      "onboard_time": 1718075598,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 165735,
@@ -625,6 +721,14 @@
       "onboard_time": 1718068278,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160406,
+      "num": 160406,
+      "word": "护师成绩",
+      "onboard_time": 1718075238,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 159154,
@@ -675,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149354,
+      "num": 149354,
+      "word": "生孩子到底难在哪",
+      "onboard_time": 1718075898,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147607,
       "num": 147607,
       "word": "皇马",
@@ -705,6 +817,14 @@
       "onboard_time": 1718043791,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144905,
+      "num": 144905,
+      "word": "原神4.7版本",
+      "onboard_time": 1718076018,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 143352,
@@ -1107,6 +1227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 51900,
+      "num": 403763,
+      "word": "读不喜欢的专业是一种怎样的体验",
+      "onboard_time": 1718074817,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 47517,
       "num": 47517,
       "word": "小猫咪的额头不能随便摸",
@@ -1145,6 +1273,14 @@
       "onboard_time": 1718047571,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 22598,
+      "num": 247893,
+      "word": "加拿大一水上飞机失控撞翻航行船只",
+      "onboard_time": 1718075418,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19190,
@@ -1192,6 +1328,14 @@
       "word": "端午吟一出氛围就来了",
       "onboard_time": 1718030479,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7210,
+      "num": 758855,
+      "word": "龙舟何以在全球多国乘风破浪",
+      "onboard_time": 1718075958,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
