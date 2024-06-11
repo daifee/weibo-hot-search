@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718073322548,
+  "endTime": 1718073907963,
   "band_list": [
     {
       "raw_hot": 1718023,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 878462,
+      "num": 878462,
+      "word": "两个弟弟考场外接姐姐不小心说实话了",
+      "onboard_time": 1718068518,
+      "rank": 10,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 864883,
       "num": 864883,
       "word": "iPhone15有五种充电上限了",
@@ -57,14 +65,6 @@
       "onboard_time": 1718066780,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 814990,
-      "num": 814990,
-      "word": "两个弟弟考场外接姐姐不小心说实话了",
-      "onboard_time": 1718068518,
-      "rank": 10,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 751660,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 610581,
+      "num": 304288,
+      "word": "千万别一边充电一边玩手机",
+      "onboard_time": 1718071217,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585880,
       "num": 164805,
       "word": "因为熬夜长了带状疱疹",
@@ -128,14 +136,6 @@
       "word": "女子掉进西湖冷静躺平等救援",
       "onboard_time": 1718039054,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 507093,
-      "num": 256383,
-      "word": "千万别一边充电一边玩手机",
-      "onboard_time": 1718071217,
-      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357444,
+      "num": 357444,
+      "word": "吴谨言 女武一",
+      "onboard_time": 1718072477,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356888,
       "num": 356888,
       "word": "EXO冬专告吹",
@@ -275,6 +283,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 312148,
+      "num": 312148,
+      "word": "张百乔 我是真演的",
+      "onboard_time": 1718073257,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 308082,
+      "num": 308082,
+      "word": "福宝明天见",
+      "onboard_time": 1718071999,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 306388,
       "num": 306388,
       "word": "王者新英雄元流之子",
@@ -289,6 +313,14 @@
       "onboard_time": 1718071938,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 301250,
+      "num": 301250,
+      "word": "张雪峰称江苏大学不是211胜似211",
+      "onboard_time": 1718072777,
+      "rank": 32,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 293528,
@@ -315,11 +347,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 270767,
-      "num": 270767,
-      "word": "福宝明天见",
-      "onboard_time": 1718071999,
-      "rank": 18,
+      "raw_hot": 269709,
+      "num": 269709,
+      "word": "蜜雪冰城客服回应员工在水池洗脚",
+      "onboard_time": 1718073317,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -339,11 +371,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 255463,
-      "num": 255463,
-      "word": "吴谨言 女武一",
-      "onboard_time": 1718072477,
-      "rank": 22,
+      "raw_hot": 254025,
+      "num": 254025,
+      "word": "黄亦玫傅家明埋线",
+      "onboard_time": 1718072658,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -419,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210746,
+      "num": 210746,
+      "word": "坏消息假期结束好消息只上4天",
+      "onboard_time": 1718073436,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207909,
       "num": 207909,
       "word": "苹果官宣ChatGPT集成于全系统生态",
@@ -427,20 +467,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 205178,
-      "num": 205178,
+      "raw_hot": 205285,
+      "num": 205285,
       "word": "一听就泪目的毕业BGM",
       "onboard_time": 1718070677,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205078,
-      "num": 205078,
-      "word": "黄亦玫傅家明埋线",
-      "onboard_time": 1718072658,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 204596,
@@ -475,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199371,
+      "num": 199371,
+      "word": "智界R7",
+      "onboard_time": 1718072898,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 198158,
       "num": 198158,
       "word": "玫瑰的故事",
@@ -507,20 +547,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 186950,
-      "num": 186950,
-      "word": "智界R7",
-      "onboard_time": 1718072898,
-      "rank": 31,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 186766,
-      "num": 186766,
-      "word": "张雪峰称江苏大学不是211胜似211",
-      "onboard_time": 1718072777,
-      "rank": 32,
-      "category": "教育,社会新闻"
+      "raw_hot": 191023,
+      "num": 191023,
+      "word": "iOS18支持机型",
+      "onboard_time": 1718073077,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 182412,
@@ -675,14 +707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143390,
-      "num": 143390,
-      "word": "iOS18支持机型",
-      "onboard_time": 1718073077,
-      "rank": 42,
-      "category": "数码"
-    },
-    {
       "raw_hot": 143352,
       "num": 143352,
       "word": "河北新疆局地最高温可达40度",
@@ -715,12 +739,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139950,
-      "num": 139950,
-      "word": "张百乔 我是真演的",
-      "onboard_time": 1718073257,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "苹果AI一夜颠覆所有",
+      "onboard_time": 1718072958,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 136471,
@@ -803,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125697,
-      "num": 125697,
-      "word": "苹果AI一夜颠覆所有",
-      "onboard_time": 1718072958,
-      "rank": 48,
-      "category": "数码"
-    },
-    {
       "raw_hot": 117929,
       "num": 117929,
       "word": "Angelababy汉服少女",
@@ -841,6 +857,14 @@
       "onboard_time": 1718052491,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109451,
+      "num": 109451,
+      "word": "普通人旅行的意义是什么",
+      "onboard_time": 1718073857,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 108466,

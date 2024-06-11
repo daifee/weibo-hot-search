@@ -1,0 +1,410 @@
+{
+  "runTime": 1718073907963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1009167,
+        "num": 1009167,
+        "word": "doc和docx有什么区别",
+        "onboard_time": 1718064799,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 878462,
+        "num": 878462,
+        "word": "两个弟弟考场外接姐姐不小心说实话了",
+        "onboard_time": 1718068518,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 62604,
+        "num": 809777,
+        "word": "龙舟经济火爆",
+        "onboard_time": 1718027059,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772882,
+        "num": 772882,
+        "word": "iPhone15有五种充电上限了",
+        "onboard_time": 1718067198,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 613705,
+        "num": 613705,
+        "word": "iPhone有通话录音了",
+        "onboard_time": 1718061495,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 579440,
+        "num": 579440,
+        "word": "明朝状元试卷2460字无一涂改",
+        "onboard_time": 1718066961,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 559853,
+        "num": 559853,
+        "word": "刘亦菲演技",
+        "onboard_time": 1718066780,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428109,
+        "num": 428109,
+        "word": "娜扎吃饭中途给自己做高颅顶",
+        "onboard_time": 1718071159,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404878,
+        "num": 404878,
+        "word": "间谍假装自曝结果真牵出大案",
+        "onboard_time": 1718064559,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236687,
+        "num": 383794,
+        "word": "国外航天员将参与中国空间站飞行任务",
+        "onboard_time": 1718071938,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 376002,
+        "num": 376002,
+        "word": "肖战开屏",
+        "onboard_time": 1718061915,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 368251,
+        "num": 368251,
+        "word": "巴勒斯坦情侣在战火中举行婚礼",
+        "onboard_time": 1718065399,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 357444,
+        "num": 357444,
+        "word": "吴谨言 女武一",
+        "onboard_time": 1718072477,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351235,
+        "num": 351235,
+        "word": "刘亦菲的亲热戏把我老公看急眼了",
+        "onboard_time": 1718030180,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349704,
+        "num": 349704,
+        "word": "苹果市值一夜蒸发4213亿元",
+        "onboard_time": 1718069837,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 345445,
+        "num": 345445,
+        "word": "A股",
+        "onboard_time": 1718070617,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345101,
+        "num": 345101,
+        "word": "EXO冬专告吹",
+        "onboard_time": 1718070199,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 341288,
+        "num": 341288,
+        "word": "蔡磊公布渐冻症诊断报告",
+        "onboard_time": 1718063057,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312148,
+        "num": 312148,
+        "word": "张百乔 我是真演的",
+        "onboard_time": 1718073257,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308082,
+        "num": 308082,
+        "word": "福宝明天见",
+        "onboard_time": 1718071999,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708167,
+        "num": 304757,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 610581,
+        "num": 304288,
+        "word": "千万别一边充电一边玩手机",
+        "onboard_time": 1718071217,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301250,
+        "num": 301250,
+        "word": "张雪峰称江苏大学不是211胜似211",
+        "onboard_time": 1718072777,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 289238,
+        "num": 289238,
+        "word": "王者新英雄元流之子",
+        "onboard_time": 1718068880,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269709,
+        "num": 269709,
+        "word": "蜜雪冰城客服回应员工在水池洗脚",
+        "onboard_time": 1718073317,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254025,
+        "num": 254025,
+        "word": "黄亦玫傅家明埋线",
+        "onboard_time": 1718072658,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216033,
+        "num": 216033,
+        "word": "皇马回应球迷辱华",
+        "onboard_time": 1718065220,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242272,
+        "num": 215511,
+        "word": "玫瑰的故事最会怼人的男人出现了",
+        "onboard_time": 1718071159,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211103,
+        "num": 211103,
+        "word": "Doinb回应头盔事件",
+        "onboard_time": 1718072296,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210746,
+        "num": 210746,
+        "word": "坏消息假期结束好消息只上4天",
+        "onboard_time": 1718073436,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205285,
+        "num": 205285,
+        "word": "一听就泪目的毕业BGM",
+        "onboard_time": 1718070677,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201320,
+        "num": 201320,
+        "word": "YG前总监 完全不一样",
+        "onboard_time": 1718068097,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199371,
+        "num": 199371,
+        "word": "智界R7",
+        "onboard_time": 1718072898,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 191023,
+        "num": 191023,
+        "word": "iOS18支持机型",
+        "onboard_time": 1718073077,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182444,
+        "num": 182444,
+        "word": "蔡斌表示朱婷今晚必首发",
+        "onboard_time": 1718071637,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179565,
+        "num": 179565,
+        "word": "微信背景图",
+        "onboard_time": 1718065999,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155884,
+        "num": 155884,
+        "word": "人民网评玫瑰的故事",
+        "onboard_time": 1718027059,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153694,
+        "num": 153694,
+        "word": "吴谨言跟谁我都可以嗑一口",
+        "onboard_time": 1718063896,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144868,
+        "num": 144868,
+        "word": "民政部通报儿慈会有关问题调查情况",
+        "onboard_time": 1718072418,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140675,
+        "num": 140675,
+        "word": "成都雪山",
+        "onboard_time": 1718067079,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137799,
+        "num": 137799,
+        "word": "苹果AI一夜颠覆所有",
+        "onboard_time": 1718072958,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136387,
+        "num": 136387,
+        "word": "女子掉进西湖冷静躺平等救援",
+        "onboard_time": 1718039054,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136216,
+        "num": 136216,
+        "word": "福宝终于要和大家见面了",
+        "onboard_time": 1718070438,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135074,
+        "num": 135074,
+        "word": "iPhone图标也有更多颜色了",
+        "onboard_time": 1718069537,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134251,
+        "num": 134251,
+        "word": "iOS18终于有卫星短信功能了",
+        "onboard_time": 1718072418,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130461,
+        "num": 130461,
+        "word": "高考7月变6月竟是因为天气",
+        "onboard_time": 1718046191,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122200,
+        "num": 122200,
+        "word": "福宝的邻居们在干啥",
+        "onboard_time": 1718067677,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110329,
+        "num": 110329,
+        "word": "iPhone小部件尺寸可直接调整",
+        "onboard_time": 1718071039,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109822,
+        "num": 109822,
+        "word": "iOS18发布",
+        "onboard_time": 1718061614,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109451,
+        "num": 109451,
+        "word": "普通人旅行的意义是什么",
+        "onboard_time": 1718073857,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}
