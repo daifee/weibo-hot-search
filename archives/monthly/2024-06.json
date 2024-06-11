@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718112122564,
+  "endTime": 1718112864513,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6143392,
-      "num": 6143392,
+      "raw_hot": 6547480,
+      "num": 6547480,
       "word": "韩国vs国足",
       "onboard_time": 1718101878,
       "rank": 26,
@@ -7851,6 +7851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402445,
+      "num": 402445,
+      "word": "狐妖月红篇be大结局",
+      "onboard_time": 1718111901,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401822,
       "num": 401822,
       "word": "易烊千玺海边漫步",
@@ -8963,6 +8971,14 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 354477,
+      "num": 354477,
+      "word": "刘亦菲为了气我真是什么戏都接",
+      "onboard_time": 1718112020,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354357,
       "num": 345302,
       "word": "为啥大多数清北家长教不出清北孩子",
@@ -9137,6 +9153,14 @@
       "onboard_time": 1717545737,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348387,
+      "num": 348387,
+      "word": "王星越壁纸",
+      "onboard_time": 1717546040,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 347459,
@@ -10987,14 +11011,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 285331,
-      "num": 285331,
-      "word": "王星越壁纸",
-      "onboard_time": 1717546040,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284567,
       "num": 230655,
       "word": "牢赞 885",
@@ -11859,14 +11875,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 262150,
-      "num": 262150,
-      "word": "狐妖月红篇be大结局",
-      "onboard_time": 1718111901,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 262076,
       "num": 262076,
       "word": "狐妖一脉全部带蓝牙",
@@ -12235,6 +12243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252899,
+      "num": 252899,
+      "word": "为什么不上韦世豪",
+      "onboard_time": 1718111121,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252722,
       "num": 212336,
       "word": "泽连斯基停职多名亲美高官",
@@ -12321,14 +12337,6 @@
       "onboard_time": 1717752021,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250776,
-      "num": 250776,
-      "word": "为什么不上韦世豪",
-      "onboard_time": 1718111121,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 250710,
@@ -13273,6 +13281,14 @@
       "onboard_time": 1717371978,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228808,
+      "num": 228808,
+      "word": "苏醒 国足近期踢的最好的一个半场",
+      "onboard_time": 1718111420,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 228713,
@@ -16587,6 +16603,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191704,
+      "num": 191704,
+      "word": "世预赛",
+      "onboard_time": 1718111960,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191665,
       "num": 191665,
       "word": "女子带榴莲过不了安检机场狂炫",
@@ -16729,6 +16753,14 @@
       "onboard_time": 1717345097,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189809,
+      "num": 189809,
+      "word": "王一博ELLE封面剪影预告",
+      "onboard_time": 1718112140,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 189790,
@@ -18283,6 +18315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174345,
+      "num": 174345,
+      "word": "王大雷抹泪",
+      "onboard_time": 1718112441,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174304,
       "num": 174304,
       "word": "武磊停赛",
@@ -18329,14 +18369,6 @@
       "onboard_time": 1717512440,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 173773,
-      "num": 173773,
-      "word": "世预赛",
-      "onboard_time": 1718111960,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 173724,
@@ -19065,6 +19097,14 @@
       "onboard_time": 1717347614,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166291,
+      "num": 166291,
+      "word": "竟然敢让王星越读这段",
+      "onboard_time": 1718109378,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 166269,
@@ -20667,14 +20707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153140,
-      "num": 153140,
-      "word": "竟然敢让王星越读这段",
-      "onboard_time": 1718109378,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153067,
       "num": 153067,
       "word": "WekiMeki官宣解散",
@@ -20833,6 +20865,14 @@
       "onboard_time": 1717246638,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151971,
+      "num": 151971,
+      "word": "中国女排1比0保加利亚女排",
+      "onboard_time": 1718112080,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 151947,
@@ -21491,14 +21531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146907,
-      "num": 146907,
-      "word": "刘亦菲为了气我真是什么戏都接",
-      "onboard_time": 1718112020,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146895,
       "num": 146895,
       "word": "新疆你无需宣传 有钱我自会出发",
@@ -21761,14 +21793,6 @@
       "onboard_time": 1717579639,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145033,
-      "num": 145033,
-      "word": "苏醒 国足近期踢的最好的一个半场",
-      "onboard_time": 1718111420,
-      "rank": 46,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 144991,
@@ -22289,14 +22313,6 @@
       "onboard_time": 1717859719,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 140632,
-      "num": 140632,
-      "word": "中国女排1比0保加利亚女排",
-      "onboard_time": 1718112080,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 140599,
@@ -23617,6 +23633,14 @@
       "onboard_time": 1718098817,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130566,
+      "num": 130566,
+      "word": "西瓜价格跳水跌破1元每斤",
+      "onboard_time": 1718112800,
+      "rank": 49,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 130524,
@@ -30155,6 +30179,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 49322,
+      "num": 429499,
+      "word": "能当旅游搭子的爸爸有多可爱",
+      "onboard_time": 1718112260,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49155,
       "num": 49155,
       "word": "泫雅把音乐节玩成泼水节",
@@ -32416,6 +32448,14 @@
       "word": "法国人相约往塞纳河里排便",
       "onboard_time": 1717755499,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7762,
+      "num": 1443878,
+      "word": "航拍视角看三夏时节麦收忙",
+      "onboard_time": 1718112739,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
