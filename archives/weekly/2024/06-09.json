@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718097723924,
+  "endTime": 1718098466916,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -75,6 +75,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1654783,
+      "num": 1654783,
+      "word": "大凉山支教7天费用上万",
+      "onboard_time": 1718094438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1634077,
       "num": 1634077,
       "word": "高考47年来裸分最高的考生是谁",
@@ -89,14 +97,6 @@
       "onboard_time": 1717929438,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1601161,
-      "num": 1601161,
-      "word": "大凉山支教7天费用上万",
-      "onboard_time": 1718094438,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1539165,
@@ -275,6 +275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1095096,
+      "num": 377493,
+      "word": "仅1%的儿子知道爸爸的鞋码",
+      "onboard_time": 1718095337,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1088011,
       "num": 1088011,
       "word": "刘亦菲36岁演22岁女大学生",
@@ -289,14 +297,6 @@
       "onboard_time": 1717997838,
       "rank": 1,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1070524,
-      "num": 377493,
-      "word": "仅1%的儿子知道爸爸的鞋码",
-      "onboard_time": 1718095337,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1069033,
@@ -1803,6 +1803,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 401072,
+      "num": 299346,
+      "word": "郭敬明和杨幂视频电话",
+      "onboard_time": 1718097498,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400262,
       "num": 400262,
       "word": "美国偷房族",
@@ -1897,6 +1905,14 @@
       "onboard_time": 1717895118,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 389372,
+      "num": 224943,
+      "word": "黄亦玫官配",
+      "onboard_time": 1718096779,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 388305,
@@ -2299,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331415,
+      "num": 295135,
+      "word": "王星越 买断ok",
+      "onboard_time": 1718095999,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330296,
       "num": 330296,
       "word": "狐妖月红篇豆瓣5.6分",
@@ -2491,6 +2515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 304983,
+      "num": 229495,
+      "word": "婚前林更新婚后方协文",
+      "onboard_time": 1718094798,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 303198,
       "num": 303198,
       "word": "广东生物 写不完",
@@ -2633,14 +2665,6 @@
       "onboard_time": 1717928478,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 282801,
-      "num": 229495,
-      "word": "婚前林更新婚后方协文",
-      "onboard_time": 1718094798,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 282159,
@@ -2835,14 +2859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 261869,
-      "num": 227293,
-      "word": "王星越 买断ok",
-      "onboard_time": 1718095999,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260982,
       "num": 260982,
       "word": "萧蘅薛芳菲亲上了",
@@ -2883,14 +2899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259838,
-      "num": 224943,
-      "word": "黄亦玫官配",
-      "onboard_time": 1718096779,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258494,
       "num": 189078,
       "word": "黄亦玫爸爸",
@@ -2905,6 +2913,14 @@
       "onboard_time": 1717853779,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257969,
+      "num": 190903,
+      "word": "韩媒预计大批中国球迷赴韩助威",
+      "onboard_time": 1718096959,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 257341,
@@ -4147,6 +4163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 185474,
+      "num": 185474,
+      "word": "俄罗斯护卫舰抵达美国海岸附近",
+      "onboard_time": 1718097678,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 185445,
       "num": 177434,
       "word": "蒋振邦魏雅欣首夺1000赛冠军",
@@ -4451,6 +4475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 175046,
+      "num": 175046,
+      "word": "郭麒麟一不小心优秀了一下",
+      "onboard_time": 1718097258,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173787,
       "num": 173787,
       "word": "删了吧有个发量少的朋友破防了",
@@ -4539,14 +4571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169482,
-      "num": 169482,
-      "word": "郭敬明和杨幂视频电话",
-      "onboard_time": 1718097498,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 169318,
       "num": 169318,
       "word": "张栋梁正式回归演员",
@@ -4593,14 +4617,6 @@
       "onboard_time": 1717927637,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 166786,
-      "num": 166786,
-      "word": "郭麒麟一不小心优秀了一下",
-      "onboard_time": 1718097258,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 166654,
@@ -4688,6 +4704,14 @@
       "word": "福宝终于要和大家见面了",
       "onboard_time": 1718070438,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164217,
+      "num": 164217,
+      "word": "甘肃地震",
+      "onboard_time": 1718098037,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -4849,14 +4873,6 @@
       "onboard_time": 1717890676,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159432,
-      "num": 159432,
-      "word": "韩媒预计大批中国球迷赴韩助威",
-      "onboard_time": 1718096959,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 159154,
@@ -5569,14 +5585,6 @@
       "onboard_time": 1717862958,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137603,
-      "num": 137603,
-      "word": "俄罗斯护卫舰抵达美国海岸附近",
-      "onboard_time": 1718097678,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 137581,
@@ -6915,6 +6923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93902,
+      "num": 93902,
+      "word": "吃瓜齁得嗓子疼其实是过敏",
+      "onboard_time": 1718098399,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 92794,
       "num": 137747,
       "word": "鞠婧祎初恋丸子头",
@@ -7017,6 +7033,14 @@
       "onboard_time": 1717901116,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85383,
+      "num": 85383,
+      "word": "赴山海宣发",
+      "onboard_time": 1718098399,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 85320,
@@ -7419,6 +7443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55195,
+      "num": 129377,
+      "word": "电子风还是吹到了时尚圈",
+      "onboard_time": 1718097858,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 54824,
       "num": 137696,
       "word": "张若昀说高考分数对艺考很富余",
@@ -7756,7 +7788,7 @@
     },
     {
       "raw_hot": 36835,
-      "num": 142542,
+      "num": 209356,
       "word": "比亚迪助力中国足球少年跑向世界",
       "onboard_time": 1718096717,
       "rank": 32,
@@ -7931,6 +7963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24920,
+      "num": 232533,
+      "word": "众星祝贺辛纳首登世界第一",
+      "onboard_time": 1718096417,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23030,
       "num": 1187744,
       "word": "你那里有哪些端午习俗",
@@ -8009,14 +8049,6 @@
       "onboard_time": 1717874172,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17028,
-      "num": 232533,
-      "word": "众星祝贺辛纳首登世界第一",
-      "onboard_time": 1718096417,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 16968,

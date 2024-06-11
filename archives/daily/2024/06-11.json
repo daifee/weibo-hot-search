@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718097723924,
+  "endTime": 1718098466916,
   "band_list": [
     {
       "raw_hot": 2045623,
@@ -27,8 +27,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 1601161,
-      "num": 1601161,
+      "raw_hot": 1654783,
+      "num": 1654783,
       "word": "大凉山支教7天费用上万",
       "onboard_time": 1718094438,
       "rank": 9,
@@ -91,7 +91,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1070524,
+      "raw_hot": 1095096,
       "num": 377493,
       "word": "仅1%的儿子知道爸爸的鞋码",
       "onboard_time": 1718095337,
@@ -475,6 +475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 401072,
+      "num": 299346,
+      "word": "郭敬明和杨幂视频电话",
+      "onboard_time": 1718097498,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401036,
       "num": 401036,
       "word": "Jennie走秀",
@@ -489,6 +497,14 @@
       "onboard_time": 1718070617,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 389372,
+      "num": 224943,
+      "word": "黄亦玫官配",
+      "onboard_time": 1718096779,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 373973,
@@ -635,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331415,
+      "num": 295135,
+      "word": "王星越 买断ok",
+      "onboard_time": 1718095999,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323324,
       "num": 268472,
       "word": "网曝女子带仓鼠上飞机导致延误1小时",
@@ -675,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 304983,
+      "num": 229495,
+      "word": "婚前林更新婚后方协文",
+      "onboard_time": 1718094798,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298806,
       "num": 266580,
       "word": "苹果AI仅支持两款iPhone",
@@ -713,14 +745,6 @@
       "onboard_time": 1718082858,
       "rank": 32,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 282801,
-      "num": 229495,
-      "word": "婚前林更新婚后方协文",
-      "onboard_time": 1718094798,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 277228,
@@ -771,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261869,
-      "num": 227293,
-      "word": "王星越 买断ok",
-      "onboard_time": 1718095999,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 260911,
       "num": 225571,
       "word": "离职后又回原公司上班去了",
@@ -811,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259838,
-      "num": 224943,
-      "word": "黄亦玫官配",
-      "onboard_time": 1718096779,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 257969,
+      "num": 190903,
+      "word": "韩媒预计大批中国球迷赴韩助威",
+      "onboard_time": 1718096959,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 256039,
@@ -1179,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185474,
+      "num": 185474,
+      "word": "俄罗斯护卫舰抵达美国海岸附近",
+      "onboard_time": 1718097678,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 184638,
       "num": 184638,
       "word": "金硕珍明天退伍",
@@ -1283,6 +1307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175046,
+      "num": 175046,
+      "word": "郭麒麟一不小心优秀了一下",
+      "onboard_time": 1718097258,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173263,
       "num": 173263,
       "word": "阿勒泰民宿已订到七月底",
@@ -1307,28 +1339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 169482,
-      "num": 169482,
-      "word": "郭敬明和杨幂视频电话",
-      "onboard_time": 1718097498,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168982,
       "num": 168982,
       "word": "第一次知道破伤风的症状",
       "onboard_time": 1718062997,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 166786,
-      "num": 166786,
-      "word": "郭麒麟一不小心优秀了一下",
-      "onboard_time": 1718097258,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 166654,
@@ -1368,6 +1384,14 @@
       "word": "福宝终于要和大家见面了",
       "onboard_time": 1718070438,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164217,
+      "num": 164217,
+      "word": "甘肃地震",
+      "onboard_time": 1718098037,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1417,14 +1441,6 @@
       "onboard_time": 1718087478,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 159432,
-      "num": 159432,
-      "word": "韩媒预计大批中国球迷赴韩助威",
-      "onboard_time": 1718096959,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 159154,
@@ -1633,14 +1649,6 @@
       "onboard_time": 1718072958,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 137603,
-      "num": 137603,
-      "word": "俄罗斯护卫舰抵达美国海岸附近",
-      "onboard_time": 1718097678,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 137070,
@@ -2043,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93902,
+      "num": 93902,
+      "word": "吃瓜齁得嗓子疼其实是过敏",
+      "onboard_time": 1718098399,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 92717,
       "num": 241949,
       "word": "臭宝硬控我30秒",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1718025499,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85383,
+      "num": 85383,
+      "word": "赴山海宣发",
+      "onboard_time": 1718098399,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 84958,
@@ -2219,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55195,
+      "num": 129377,
+      "word": "电子风还是吹到了时尚圈",
+      "onboard_time": 1718097858,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 51959,
       "num": 51959,
       "word": "金珉奎wvs",
@@ -2268,7 +2300,7 @@
     },
     {
       "raw_hot": 36835,
-      "num": 142542,
+      "num": 209356,
       "word": "比亚迪助力中国足球少年跑向世界",
       "onboard_time": 1718096717,
       "rank": 32,
@@ -2297,6 +2329,14 @@
       "onboard_time": 1718089458,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24920,
+      "num": 232533,
+      "word": "众星祝贺辛纳首登世界第一",
+      "onboard_time": 1718096417,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 22598,
@@ -2329,14 +2369,6 @@
       "onboard_time": 1718047451,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 17028,
-      "num": 232533,
-      "word": "众星祝贺辛纳首登世界第一",
-      "onboard_time": 1718096417,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 16731,
