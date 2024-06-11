@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718084150537,
+  "endTime": 1718087171703,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 953514,
+      "num": 273507,
+      "word": "臭宝",
+      "onboard_time": 1718083638,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 952858,
       "num": 272994,
       "word": "鞠婧祎衣服吊带断了",
@@ -425,6 +433,14 @@
       "onboard_time": 1717912937,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 881021,
+      "num": 260650,
+      "word": "刘亦菲是历史上首届金鹰女神",
+      "onboard_time": 1718082918,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 878462,
@@ -851,8 +867,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 648306,
+      "num": 272127,
+      "word": "女子收货发现卫生裤上被写脏字",
+      "onboard_time": 1718085318,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648299,
-      "num": 232001,
+      "num": 253768,
       "word": "乌干达一女子生下44个孩子",
       "onboard_time": 1718082500,
       "rank": 24,
@@ -1483,6 +1507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444393,
+      "num": 269116,
+      "word": "那些晚婚晚育的人现在怎么样了",
+      "onboard_time": 1718084778,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443589,
       "num": 443589,
       "word": "玫瑰的故事",
@@ -1584,6 +1616,14 @@
       "word": "赵露思陈伟霆同框路透",
       "onboard_time": 1718001257,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 421716,
+      "num": 323288,
+      "word": "墨雨云间女主终于有家了",
+      "onboard_time": 1718085318,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1771,6 +1811,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 373973,
+      "num": 318812,
+      "word": "林更新36岁演学生",
+      "onboard_time": 1718082918,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 373331,
+      "num": 183858,
+      "word": "王星越半裸戏没清场",
+      "onboard_time": 1718086219,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372394,
       "num": 372394,
       "word": "以军直升机直接向人群开火现场成地狱",
@@ -1825,6 +1881,14 @@
       "onboard_time": 1718023279,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 363236,
+      "num": 268682,
+      "word": "iPhone新增防晕车功能",
+      "onboard_time": 1718083158,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 363160,
@@ -2115,20 +2179,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329027,
-      "num": 214996,
-      "word": "臭宝",
-      "onboard_time": 1718083638,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 326913,
       "num": 326913,
       "word": "高考生催更墨雨云间",
       "onboard_time": 1717941620,
       "rank": 26,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 325246,
+      "num": 325246,
+      "word": "半年过去了 跟没过一样",
+      "onboard_time": 1718084119,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 325221,
@@ -2243,14 +2307,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 309081,
-      "num": 213733,
-      "word": "刘亦菲是历史上首届金鹰女神",
-      "onboard_time": 1718082918,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 308762,
       "num": 268642,
       "word": "EDG战胜FPX",
@@ -2315,6 +2371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306315,
+      "num": 267845,
+      "word": "言承旭自曝和仇人上节目",
+      "onboard_time": 1718086337,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303198,
       "num": 303198,
       "word": "广东生物 写不完",
@@ -2355,6 +2419,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 298806,
+      "num": 266580,
+      "word": "苹果AI仅支持两款iPhone",
+      "onboard_time": 1718083577,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 298727,
       "num": 289617,
       "word": "万茜刘亦菲好配",
@@ -2387,14 +2459,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 294510,
-      "num": 294510,
-      "word": "林更新36岁演学生",
-      "onboard_time": 1718082918,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -2409,6 +2473,14 @@
       "onboard_time": 1718024839,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291553,
+      "num": 265645,
+      "word": "新版郭靖是封神杨戬",
+      "onboard_time": 1718085438,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 289943,
@@ -2617,6 +2689,14 @@
       "onboard_time": 1717912339,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265057,
+      "num": 265057,
+      "word": "凤凰传奇演唱会三城官宣",
+      "onboard_time": 1718086819,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 263795,
@@ -3587,14 +3667,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 197570,
-      "num": 197570,
-      "word": "苹果AI仅支持两款iPhone",
-      "onboard_time": 1718083577,
-      "rank": 30,
-      "category": "数码"
-    },
-    {
       "raw_hot": 196711,
       "num": 178518,
       "word": "赴山海",
@@ -3649,6 +3721,14 @@
       "onboard_time": 1718017577,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195364,
+      "num": 195364,
+      "word": "欧美开始流行笨手机",
+      "onboard_time": 1718083158,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 195208,
@@ -3771,6 +3851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190528,
+      "num": 190528,
+      "word": "肖战工作室新注册商标",
+      "onboard_time": 1718086158,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190435,
       "num": 100370,
       "word": "亲戚一年给两千让我当公司法人",
@@ -3785,14 +3873,6 @@
       "onboard_time": 1718015058,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 190144,
-      "num": 190144,
-      "word": "欧美开始流行笨手机",
-      "onboard_time": 1718083158,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 189467,
@@ -3873,14 +3953,6 @@
       "onboard_time": 1717910057,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186571,
-      "num": 186571,
-      "word": "iPhone新增防晕车功能",
-      "onboard_time": 1718083158,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 185862,
@@ -4409,6 +4481,14 @@
       "onboard_time": 1718006718,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162569,
+      "num": 162569,
+      "word": "NV 伞兵",
+      "onboard_time": 1718086337,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 162329,
@@ -5571,14 +5651,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 125911,
-      "num": 144723,
-      "word": "半年过去了 跟没过一样",
-      "onboard_time": 1718084119,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125788,
       "num": 125788,
       "word": "阅卷老师停下了阅卷的手",
@@ -5625,6 +5697,14 @@
       "onboard_time": 1717919297,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124318,
+      "num": 124318,
+      "word": "一诺刺绣黑西装",
+      "onboard_time": 1718085918,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 124232,
@@ -6123,6 +6203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106103,
+      "num": 106103,
+      "word": "沈月动漫少女",
+      "onboard_time": 1718087059,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105816,
+      "num": 105816,
+      "word": "四川村BA现NBA式飞车扣篮",
+      "onboard_time": 1718084358,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105647,
       "num": 105647,
       "word": "肃国公淋雨练剑的原因找到了",
@@ -6153,6 +6249,14 @@
       "onboard_time": 1717982836,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103818,
+      "num": 103818,
+      "word": "远离厨房是一种权力",
+      "onboard_time": 1718086819,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 103447,
@@ -6633,6 +6737,14 @@
       "onboard_time": 1717944558,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73173,
+      "num": 275014,
+      "word": "茅台批价持续下跌",
+      "onboard_time": 1718085799,
+      "rank": 9,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 72553,
@@ -7353,6 +7465,14 @@
       "onboard_time": 1718075418,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22278,
+      "num": 170512,
+      "word": "臭宝硬控我30秒",
+      "onboard_time": 1718086400,
+      "rank": 31,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 20566,

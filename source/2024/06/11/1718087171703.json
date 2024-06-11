@@ -1,0 +1,410 @@
+{
+  "runTime": 1718087171703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 820988,
+        "num": 820988,
+        "word": "陈奕迅受伤缝合30多针",
+        "onboard_time": 1718076018,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 595866,
+        "num": 595866,
+        "word": "解放军起飞战机驱离荷兰舰载直升机",
+        "onboard_time": 1718081359,
+        "rank": 1,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 6019,
+        "num": 462090,
+        "word": "两岸同胞的端午之约",
+        "onboard_time": 1718028561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611421,
+        "num": 457733,
+        "word": "张新成 导演",
+        "onboard_time": 1718078118,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 374320,
+        "num": 374320,
+        "word": "王楚宣布退役",
+        "onboard_time": 1718080760,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325246,
+        "num": 325246,
+        "word": "半年过去了 跟没过一样",
+        "onboard_time": 1718084119,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 421716,
+        "num": 323288,
+        "word": "墨雨云间女主终于有家了",
+        "onboard_time": 1718085318,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373973,
+        "num": 318812,
+        "word": "林更新36岁演学生",
+        "onboard_time": 1718082918,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275071,
+        "num": 275071,
+        "word": "林孝埈被授予国际级运动健将",
+        "onboard_time": 1718082680,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73173,
+        "num": 275014,
+        "word": "茅台批价持续下跌",
+        "onboard_time": 1718085799,
+        "rank": 9,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 953514,
+        "num": 273507,
+        "word": "臭宝",
+        "onboard_time": 1718083638,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 648306,
+        "num": 272127,
+        "word": "女子收货发现卫生裤上被写脏字",
+        "onboard_time": 1718085318,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646691,
+        "num": 271333,
+        "word": "苹果 安卓味",
+        "onboard_time": 1718079139,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 531219,
+        "num": 270955,
+        "word": "教育局长亲自开飞机祝贺高考顺利",
+        "onboard_time": 1718078840,
+        "rank": 13,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 444393,
+        "num": 269116,
+        "word": "那些晚婚晚育的人现在怎么样了",
+        "onboard_time": 1718084778,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363236,
+        "num": 268682,
+        "word": "iPhone新增防晕车功能",
+        "onboard_time": 1718083158,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 306315,
+        "num": 267845,
+        "word": "言承旭自曝和仇人上节目",
+        "onboard_time": 1718086337,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298806,
+        "num": 266580,
+        "word": "苹果AI仅支持两款iPhone",
+        "onboard_time": 1718083577,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 291553,
+        "num": 265645,
+        "word": "新版郭靖是封神杨戬",
+        "onboard_time": 1718085438,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265057,
+        "num": 265057,
+        "word": "凤凰传奇演唱会三城官宣",
+        "onboard_time": 1718086819,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 881021,
+        "num": 260650,
+        "word": "刘亦菲是历史上首届金鹰女神",
+        "onboard_time": 1718082918,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 589312,
+        "num": 253768,
+        "word": "乌干达一女子生下44个孩子",
+        "onboard_time": 1718082500,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378146,
+        "num": 241280,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227717,
+        "num": 227717,
+        "word": "陈奕迅腮骨骨裂",
+        "onboard_time": 1718078659,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198047,
+        "num": 198047,
+        "word": "考前是太子 考后是弃子",
+        "onboard_time": 1718077458,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195444,
+        "num": 195444,
+        "word": "千万别一边充电一边玩手机",
+        "onboard_time": 1718071217,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195364,
+        "num": 195364,
+        "word": "欧美开始流行笨手机",
+        "onboard_time": 1718083158,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 190528,
+        "num": 190528,
+        "word": "肖战工作室新注册商标",
+        "onboard_time": 1718086158,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189449,
+        "num": 189449,
+        "word": "刘亦菲演技",
+        "onboard_time": 1718066780,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189435,
+        "num": 189435,
+        "word": "doc和docx有什么区别",
+        "onboard_time": 1718064799,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 373331,
+        "num": 183858,
+        "word": "王星越半裸戏没清场",
+        "onboard_time": 1718086219,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22278,
+        "num": 170512,
+        "word": "臭宝硬控我30秒",
+        "onboard_time": 1718086400,
+        "rank": 31,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 162569,
+        "num": 162569,
+        "word": "NV 伞兵",
+        "onboard_time": 1718086337,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161173,
+        "num": 161173,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1718080700,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144279,
+        "num": 144279,
+        "word": "坏消息假期结束好消息只上4天",
+        "onboard_time": 1718073436,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137135,
+        "num": 137135,
+        "word": "田曦薇新剧演女警",
+        "onboard_time": 1718080100,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126920,
+        "num": 126920,
+        "word": "蜜雪冰城客服回应员工在水池洗脚",
+        "onboard_time": 1718073317,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124318,
+        "num": 124318,
+        "word": "一诺刺绣黑西装",
+        "onboard_time": 1718085918,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120519,
+        "num": 120519,
+        "word": "KPL王者梦之队全家福",
+        "onboard_time": 1718083757,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119516,
+        "num": 119516,
+        "word": "网曝女子带仓鼠上飞机导致延误1小时",
+        "onboard_time": 1718078899,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112949,
+        "num": 112949,
+        "word": "iPhone有通话录音了",
+        "onboard_time": 1718061495,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112296,
+        "num": 112296,
+        "word": "Jennie派对热舞",
+        "onboard_time": 1718080399,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109031,
+        "num": 109031,
+        "word": "明朝状元试卷2460字无一涂改",
+        "onboard_time": 1718066961,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 108502,
+        "num": 108502,
+        "word": "国防部回应荷兰军机挑衅",
+        "onboard_time": 1718081479,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107661,
+        "num": 107661,
+        "word": "玫瑰的故事吻戏太多",
+        "onboard_time": 1718081540,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106918,
+        "num": 106918,
+        "word": "他三分颤抖她七分薄凉",
+        "onboard_time": 1718082138,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106103,
+        "num": 106103,
+        "word": "沈月动漫少女",
+        "onboard_time": 1718087059,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105816,
+        "num": 105816,
+        "word": "四川村BA现NBA式飞车扣篮",
+        "onboard_time": 1718084358,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103818,
+        "num": 103818,
+        "word": "远离厨房是一种权力",
+        "onboard_time": 1718086819,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103653,
+        "num": 103653,
+        "word": "陈奕迅重庆演唱会延期",
+        "onboard_time": 1718076018,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}
