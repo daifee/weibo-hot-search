@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718134548441,
+  "endTime": 1718137203739,
   "band_list": [
     {
       "raw_hot": 1406927,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27308,
+      "num": 27308,
+      "word": "家属称男子网咖猝死24小时无人发现",
+      "onboard_time": 1718133970,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21954,
       "num": 21954,
       "word": "林更新感受满屏美甲暴击",
@@ -464,14 +472,6 @@
       "word": "萌兰美美做了一个冷雾spa",
       "onboard_time": 1718122578,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17207,
-      "num": 19240,
-      "word": "家属称男子网咖猝死24小时无人发现",
-      "onboard_time": 1718133970,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -489,6 +489,14 @@
       "onboard_time": 1718126294,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13366,
+      "num": 19000,
+      "word": "贡菜拌毛肚",
+      "onboard_time": 1718136611,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 10277,

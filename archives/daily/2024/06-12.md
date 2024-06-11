@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/12 00:25:03 ~ 2024/06/12 03:35:48
+本榜单时间：2024/06/12 00:25:03 ~ 2024/06/12 04:20:03
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E7%94%B7%E5%AD%90%E7%BD%91%E5%92%96%E7%8C%9D%E6%AD%BB24%E5%B0%8F%E6%97%B6%E6%97%A0%E4%BA%BA%E5%8F%91%E7%8E%B0%23" target="weibo">
+家属称男子网咖猝死24小时无人发现（热度：27308）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%84%9F%E5%8F%97%E6%BB%A1%E5%B1%8F%E7%BE%8E%E7%94%B2%E6%9A%B4%E5%87%BB%23" target="weibo">
 林更新感受满屏美甲暴击（热度：21954）
 </a>
@@ -363,12 +369,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E7%94%B7%E5%AD%90%E7%BD%91%E5%92%96%E7%8C%9D%E6%AD%BB24%E5%B0%8F%E6%97%B6%E6%97%A0%E4%BA%BA%E5%8F%91%E7%8E%B0%23" target="weibo">
-家属称男子网咖猝死24小时无人发现（热度：17207）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9D%9E%E9%81%97%E7%81%AB%E5%A3%B6%E9%9C%87%E6%92%BC%E4%BA%86%23" target="weibo">
 被非遗火壶震撼了（热度：14532）
 </a>
@@ -377,6 +377,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%A5%E9%A5%BF%E5%B0%8F%E8%9C%82%E7%8C%B4%E5%8B%87%E9%97%AF%E4%BA%BA%E7%B1%BB%E7%81%AB%E9%94%85%E5%BA%97%23" target="weibo">
 饥饿小蜂猴勇闯人类火锅店（热度：13867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A1%E8%8F%9C%E6%8B%8C%E6%AF%9B%E8%82%9A%23" target="weibo">
+贡菜拌毛肚（热度：13366）
 </a>
 </li>
 
