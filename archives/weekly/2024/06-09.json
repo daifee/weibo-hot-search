@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718147927745,
+  "endTime": 1718148909251,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -1291,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 588411,
+      "num": 588411,
+      "word": "新西兰女子携带人类心脏入境澳大利亚",
+      "onboard_time": 1718117241,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585880,
       "num": 164805,
       "word": "因为熬夜长了带状疱疹",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1717899917,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 529250,
+      "num": 275478,
+      "word": "苹果市值一夜大涨超1.5万亿",
+      "onboard_time": 1718147475,
+      "rank": 13,
+      "category": "数码"
     },
     {
       "raw_hot": 528743,
@@ -1675,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493034,
+      "num": 493034,
+      "word": "端午档近十年最差",
+      "onboard_time": 1718120599,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 490558,
       "num": 246992,
       "word": "彭冠英否认庄国栋有未婚妻",
@@ -1699,20 +1723,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 483139,
+      "num": 483139,
+      "word": "黑龙江一医生被举报出轨患者",
+      "onboard_time": 1718127493,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481036,
       "num": 143193,
       "word": "高考考到一半突然来例假了",
       "onboard_time": 1717828457,
       "rank": 23,
       "category": "情感,教育"
-    },
-    {
-      "raw_hot": 479208,
-      "num": 479208,
-      "word": "新西兰女子携带人类心脏入境澳大利亚",
-      "onboard_time": 1718117241,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 479018,
@@ -1777,14 +1801,6 @@
       "onboard_time": 1717860618,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 474104,
-      "num": 470467,
-      "word": "端午档近十年最差",
-      "onboard_time": 1718120599,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 471943,
@@ -2003,14 +2019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436804,
-      "num": 436804,
-      "word": "黑龙江一医生被举报出轨患者",
-      "onboard_time": 1718127493,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435240,
       "num": 435240,
       "word": "TF家族一代二代同台",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1717847478,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 431625,
+      "num": 431625,
+      "word": "男子不舍朋友离开用锁链将其拴住",
+      "onboard_time": 1718123056,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431368,
@@ -2315,6 +2331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 377864,
+      "num": 107446,
+      "word": "胃病发展到胃癌仅仅4步",
+      "onboard_time": 1718147235,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 376103,
       "num": 376103,
       "word": "杨幂 艺人最重要的是社会影响力",
@@ -2401,14 +2425,6 @@
       "onboard_time": 1718086337,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 363735,
-      "num": 363735,
-      "word": "男子不舍朋友离开用锁链将其拴住",
-      "onboard_time": 1718123056,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 363236,
@@ -2568,6 +2584,14 @@
       "word": "苏新皓TF三代出道战主题曲C位",
       "onboard_time": 1718011637,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349054,
+      "num": 349054,
+      "word": "按艺人出道顺序排序",
+      "onboard_time": 1718143692,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -3739,6 +3763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236589,
+      "num": 236589,
+      "word": "王星越到底在爽什么",
+      "onboard_time": 1718127793,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236094,
       "num": 236094,
       "word": "Jennie派对热舞",
@@ -3979,14 +4011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214820,
-      "num": 214820,
-      "word": "按艺人出道顺序排序",
-      "onboard_time": 1718143692,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214564,
       "num": 208391,
       "word": "抠抠嗖嗖的花了很多钱",
@@ -4096,14 +4120,6 @@
       "word": "原来父母是能帮孩子隐瞒成绩的",
       "onboard_time": 1717979778,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 210070,
-      "num": 210070,
-      "word": "王星越到底在爽什么",
-      "onboard_time": 1718127793,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -5027,6 +5043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182942,
+      "num": 182942,
+      "word": "家属称男子网咖猝死24小时无人发现",
+      "onboard_time": 1718133970,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182779,
       "num": 175587,
       "word": "刘亦菲穿搭",
@@ -5443,6 +5467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168572,
+      "num": 168572,
+      "word": "佟大为 冻龄",
+      "onboard_time": 1718139731,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168501,
       "num": 168501,
       "word": "韩国人创造所谓的韩式变脸",
@@ -5771,14 +5803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159302,
-      "num": 159302,
-      "word": "苹果市值一夜大涨超1.5万亿",
-      "onboard_time": 1718147475,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
       "raw_hot": 159154,
       "num": 159154,
       "word": "晋江 界面",
@@ -5952,14 +5976,6 @@
       "word": "小狗乱入考场民警投喂后开启静音模式",
       "onboard_time": 1717903517,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155262,
-      "num": 155262,
-      "word": "家属称男子网咖猝死24小时无人发现",
-      "onboard_time": 1718133970,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6147,14 +6163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149207,
-      "num": 100776,
-      "word": "胃病发展到胃癌仅仅4步",
-      "onboard_time": 1718147235,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 148896,
       "num": 148896,
       "word": "小猫一直扒拉的原因找到了",
@@ -6241,14 +6249,6 @@
       "onboard_time": 1718069537,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147474,
-      "num": 147474,
-      "word": "佟大为 冻龄",
-      "onboard_time": 1718139731,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 147362,
@@ -7091,6 +7091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126740,
+      "num": 126740,
+      "word": "大学生团体操后组团狂退400件裙子",
+      "onboard_time": 1718140450,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126622,
       "num": 983146,
       "word": "一批诋毁企业形象账号被处置",
@@ -7811,6 +7819,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104542,
+      "num": 104542,
+      "word": "你好星期六",
+      "onboard_time": 1718148316,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104061,
       "num": 104061,
       "word": "阿尔卡拉斯3比2兹维列夫",
@@ -7825,14 +7841,6 @@
       "onboard_time": 1718086819,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103685,
-      "num": 103685,
-      "word": "大学生团体操后组团狂退400件裙子",
-      "onboard_time": 1718140450,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103447,
@@ -7883,6 +7891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101466,
+      "num": 101466,
+      "word": "一法国游客在俄发射场附近身亡",
+      "onboard_time": 1718148496,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101413,
       "num": 101413,
       "word": "NCT127八周年粉丝见面会",
@@ -7913,6 +7929,14 @@
       "onboard_time": 1717994958,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99960,
+      "num": 99960,
+      "word": "家长举华晨宇海报迎接考生",
+      "onboard_time": 1718148316,
+      "rank": 27,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 99877,
@@ -8091,6 +8115,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 93095,
+      "num": 93095,
+      "word": "看福宝的最佳时间",
+      "onboard_time": 1718146935,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92794,
       "num": 137747,
       "word": "鞠婧祎初恋丸子头",
@@ -8137,6 +8169,14 @@
       "onboard_time": 1717922418,
       "rank": 2,
       "category": "教育"
+    },
+    {
+      "raw_hot": 89595,
+      "num": 89595,
+      "word": "睡前饿了真正推荐吃的食物",
+      "onboard_time": 1718128453,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 89152,
@@ -8235,12 +8275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84286,
+      "num": 84286,
+      "word": "攻击力极强的粉丝名",
+      "onboard_time": 1718148136,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84206,
       "num": 160920,
       "word": "恋与深空",
       "onboard_time": 1717853419,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84048,
+      "num": 84048,
+      "word": "iPadOS18细节功能一览",
+      "onboard_time": 1718147836,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 83925,
@@ -8283,6 +8339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80868,
+      "num": 80868,
+      "word": "庄国栋去德国留学就好了",
+      "onboard_time": 1718148737,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80733,
       "num": 257157,
       "word": "爸爸成了我的旅游拍照搭子",
@@ -8315,20 +8379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76064,
+      "num": 76064,
+      "word": "江疏影见一个人就要讲一遍娜扎掉水",
+      "onboard_time": 1718146873,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76001,
       "num": 95697,
       "word": "整治涉企侵权信息乱象",
       "onboard_time": 1717944259,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75356,
-      "num": 75356,
-      "word": "睡前饿了真正推荐吃的食物",
-      "onboard_time": 1718128453,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 75291,
@@ -8467,6 +8531,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 64726,
+      "num": 64726,
+      "word": "福宝出门前奶爸四川话碎碎念",
+      "onboard_time": 1718148675,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63727,
       "num": 66762,
       "word": "黄亦玫一条丝巾硬控苏更生两次",
@@ -8545,14 +8617,6 @@
       "onboard_time": 1717920197,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58528,
-      "num": 58528,
-      "word": "江疏影见一个人就要讲一遍娜扎掉水",
-      "onboard_time": 1718146873,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 58410,
@@ -8659,8 +8723,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54433,
-      "num": 54433,
+      "raw_hot": 54790,
+      "num": 54790,
       "word": "庆余年编剧王倦最喜欢的是深V皇帝",
       "onboard_time": 1718147775,
       "rank": 38,
@@ -8697,14 +8761,6 @@
       "onboard_time": 1718062456,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 51950,
-      "num": 51950,
-      "word": "看福宝的最佳时间",
-      "onboard_time": 1718146935,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51523,
@@ -9011,14 +9067,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 37962,
-      "num": 41511,
-      "word": "iPadOS18细节功能一览",
-      "onboard_time": 1718147836,
-      "rank": 49,
-      "category": "数码"
-    },
-    {
       "raw_hot": 37767,
       "num": 717411,
       "word": "一组数据看中国非遗有多火",
@@ -9219,6 +9267,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 26352,
+      "num": 1443878,
+      "word": "航拍视角看三夏时节麦收忙",
+      "onboard_time": 1718112739,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25981,
       "num": 25981,
       "word": "原来西瓜头上顶块石头会更甜",
@@ -9265,14 +9321,6 @@
       "onboard_time": 1718107698,
       "rank": 16,
       "category": "社会新闻,健康医疗"
-    },
-    {
-      "raw_hot": 21600,
-      "num": 1443878,
-      "word": "航拍视角看三夏时节麦收忙",
-      "onboard_time": 1718112739,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20566,
@@ -9508,7 +9556,7 @@
     },
     {
       "raw_hot": 10725,
-      "num": 210901,
+      "num": 275967,
       "word": "罗永浩发博给考生的寄语和祝福",
       "onboard_time": 1718147296,
       "rank": 9,

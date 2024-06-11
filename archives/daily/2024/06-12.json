@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718147927745,
+  "endTime": 1718148909251,
   "band_list": [
     {
       "raw_hot": 1406927,
@@ -9,6 +9,14 @@
       "onboard_time": 1718116584,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 588411,
+      "num": 588411,
+      "word": "新西兰女子携带人类心脏入境澳大利亚",
+      "onboard_time": 1718117241,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 562206,
@@ -27,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 529250,
+      "num": 275478,
+      "word": "苹果市值一夜大涨超1.5万亿",
+      "onboard_time": 1718147475,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 512006,
       "num": 512006,
       "word": "周杰伦因感冒药写了首歌",
@@ -35,35 +51,35 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 492033,
-      "num": 238829,
-      "word": "女员工因担心走光上班打伞遭开除",
-      "onboard_time": 1718104818,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479208,
-      "num": 479208,
-      "word": "新西兰女子携带人类心脏入境澳大利亚",
-      "onboard_time": 1718117241,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 474104,
-      "num": 470467,
+      "raw_hot": 493034,
+      "num": 493034,
       "word": "端午档近十年最差",
       "onboard_time": 1718120599,
       "rank": 6,
       "category": "电影"
     },
     {
-      "raw_hot": 436804,
-      "num": 436804,
+      "raw_hot": 492033,
+      "num": 260250,
+      "word": "女员工因担心走光上班打伞遭开除",
+      "onboard_time": 1718104818,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483139,
+      "num": 483139,
       "word": "黑龙江一医生被举报出轨患者",
       "onboard_time": 1718127493,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431625,
+      "num": 431625,
+      "word": "男子不舍朋友离开用锁链将其拴住",
+      "onboard_time": 1718123056,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -91,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 377864,
+      "num": 107446,
+      "word": "胃病发展到胃癌仅仅4步",
+      "onboard_time": 1718147235,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 377726,
       "num": 220504,
       "word": "已经72小时34分钟没抱你了",
@@ -99,12 +123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363735,
-      "num": 363735,
-      "word": "男子不舍朋友离开用锁链将其拴住",
-      "onboard_time": 1718123056,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 349054,
+      "num": 349054,
+      "word": "按艺人出道顺序排序",
+      "onboard_time": 1718143692,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 339909,
@@ -171,27 +195,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236589,
+      "num": 236589,
+      "word": "王星越到底在爽什么",
+      "onboard_time": 1718127793,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235451,
       "num": 235451,
       "word": "王星越田曦薇曾合作初次爱你",
       "onboard_time": 1718122158,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 214820,
-      "num": 214820,
-      "word": "按艺人出道顺序排序",
-      "onboard_time": 1718143692,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 210070,
-      "num": 210070,
-      "word": "王星越到底在爽什么",
-      "onboard_time": 1718127793,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -209,6 +225,22 @@
       "onboard_time": 1718114899,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 182942,
+      "num": 182942,
+      "word": "家属称男子网咖猝死24小时无人发现",
+      "onboard_time": 1718133970,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168572,
+      "num": 168572,
+      "word": "佟大为 冻龄",
+      "onboard_time": 1718139731,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 165137,
@@ -235,44 +267,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 159302,
-      "num": 159302,
-      "word": "苹果市值一夜大涨超1.5万亿",
-      "onboard_time": 1718147475,
-      "rank": 13,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 155262,
-      "num": 155262,
-      "word": "家属称男子网咖猝死24小时无人发现",
-      "onboard_time": 1718133970,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 153097,
       "num": 153097,
       "word": "湖南一33岁男子疑在田边触电身亡",
       "onboard_time": 1718121558,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149207,
-      "num": 100776,
-      "word": "胃病发展到胃癌仅仅4步",
-      "onboard_time": 1718147235,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 147474,
-      "num": 147474,
-      "word": "佟大为 冻龄",
-      "onboard_time": 1718139731,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 142029,
@@ -297,6 +297,14 @@
       "onboard_time": 1718116405,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126740,
+      "num": 126740,
+      "word": "大学生团体操后组团狂退400件裙子",
+      "onboard_time": 1718140450,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121407,
@@ -355,20 +363,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104542,
+      "num": 104542,
+      "word": "你好星期六",
+      "onboard_time": 1718148316,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103724,
       "num": 103724,
       "word": "闲鱼回应多用户未经本人允许挂售同事",
       "onboard_time": 1718103078,
       "rank": 37,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 103685,
-      "num": 103685,
-      "word": "大学生团体操后组团狂退400件裙子",
-      "onboard_time": 1718140450,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102235,
@@ -379,6 +387,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101466,
+      "num": 101466,
+      "word": "一法国游客在俄发射场附近身亡",
+      "onboard_time": 1718148496,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99960,
+      "num": 99960,
+      "word": "家长举华晨宇海报迎接考生",
+      "onboard_time": 1718148316,
+      "rank": 27,
+      "category": "教育,艺人"
+    },
+    {
       "raw_hot": 94615,
       "num": 94615,
       "word": "孙楠再唱无名的人",
@@ -387,12 +411,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93095,
+      "num": 93095,
+      "word": "看福宝的最佳时间",
+      "onboard_time": 1718146935,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92316,
       "num": 92316,
       "word": "初会成绩 出不出",
       "onboard_time": 1718118380,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 89595,
+      "num": 89595,
+      "word": "睡前饿了真正推荐吃的食物",
+      "onboard_time": 1718128453,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 84286,
+      "num": 84286,
+      "word": "攻击力极强的粉丝名",
+      "onboard_time": 1718148136,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84048,
+      "num": 84048,
+      "word": "iPadOS18细节功能一览",
+      "onboard_time": 1718147836,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 83124,
@@ -411,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80868,
+      "num": 80868,
+      "word": "庄国栋去德国留学就好了",
+      "onboard_time": 1718148737,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80324,
       "num": 92296,
       "word": "金智媛刚出道被误认是外国人",
@@ -419,20 +483,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76064,
+      "num": 76064,
+      "word": "江疏影见一个人就要讲一遍娜扎掉水",
+      "onboard_time": 1718146873,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75934,
       "num": 92287,
       "word": "王大雷 门神",
       "onboard_time": 1718110219,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75356,
-      "num": 75356,
-      "word": "睡前饿了真正推荐吃的食物",
-      "onboard_time": 1718128453,
-      "rank": 26,
-      "category": "科学科普"
     },
     {
       "raw_hot": 69801,
@@ -467,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58528,
-      "num": 58528,
-      "word": "江疏影见一个人就要讲一遍娜扎掉水",
-      "onboard_time": 1718146873,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 64726,
+      "num": 64726,
+      "word": "福宝出门前奶爸四川话碎碎念",
+      "onboard_time": 1718148675,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55455,
@@ -483,20 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54433,
-      "num": 54433,
+      "raw_hot": 54790,
+      "num": 54790,
       "word": "庆余年编剧王倦最喜欢的是深V皇帝",
       "onboard_time": 1718147775,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51950,
-      "num": 51950,
-      "word": "看福宝的最佳时间",
-      "onboard_time": 1718146935,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46141,
@@ -531,12 +587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37962,
-      "num": 41511,
-      "word": "iPadOS18细节功能一览",
-      "onboard_time": 1718147836,
-      "rank": 49,
-      "category": "数码"
+      "raw_hot": 26352,
+      "num": 516568,
+      "word": "航拍视角看三夏时节麦收忙",
+      "onboard_time": 1718112739,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25981,
@@ -545,14 +601,6 @@
       "onboard_time": 1718139251,
       "rank": 41,
       "category": "科学科普,美食"
-    },
-    {
-      "raw_hot": 21600,
-      "num": 443121,
-      "word": "航拍视角看三夏时节麦收忙",
-      "onboard_time": 1718112739,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18256,
@@ -596,7 +644,7 @@
     },
     {
       "raw_hot": 10725,
-      "num": 210901,
+      "num": 275967,
       "word": "罗永浩发博给考生的寄语和祝福",
       "onboard_time": 1718147296,
       "rank": 9,
