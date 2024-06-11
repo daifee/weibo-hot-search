@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718080685346,
+  "endTime": 1718083187733,
   "band_list": [
     {
       "raw_hot": 2045623,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1260817,
-      "num": 543204,
+      "num": 824248,
       "word": "张新成 导演",
       "onboard_time": 1718078118,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1257034,
+      "num": 424818,
+      "word": "苹果 安卓味",
+      "onboard_time": 1718079139,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 1208397,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 936433,
+      "num": 936433,
+      "word": "教育局长亲自开飞机祝贺高考顺利",
+      "onboard_time": 1718078840,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 878462,
       "num": 878462,
       "word": "两个弟弟考场外接姐姐不小心说实话了",
@@ -107,20 +123,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 833170,
-      "num": 424818,
-      "word": "苹果 安卓味",
-      "onboard_time": 1718079139,
-      "rank": 15,
-      "category": "数码"
-    },
-    {
       "raw_hot": 801294,
       "num": 801294,
       "word": "娜扎吃饭中途给自己做高颅顶",
       "onboard_time": 1718071159,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 784492,
+      "num": 784492,
+      "word": "解放军起飞战机驱离荷兰舰载直升机",
+      "onboard_time": 1718081359,
+      "rank": 4,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 751660,
@@ -147,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 708752,
+      "num": 708752,
+      "word": "王楚宣布退役",
+      "onboard_time": 1718080760,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 707612,
       "num": 707612,
       "word": "明朝状元试卷2460字无一涂改",
@@ -169,6 +193,14 @@
       "onboard_time": 1718031559,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 676829,
+      "num": 236952,
+      "word": "臭宝回应崩了",
+      "onboard_time": 1718081059,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 665086,
@@ -201,14 +233,6 @@
       "onboard_time": 1718073317,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517200,
-      "num": 517200,
-      "word": "教育局长亲自开飞机祝贺高考顺利",
-      "onboard_time": 1718078840,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 515029,
@@ -395,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 344696,
+      "num": 232001,
+      "word": "乌干达一女子生下44个孩子",
+      "onboard_time": 1718082500,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340874,
       "num": 340874,
       "word": "墨雨云间 扶不扶难题",
@@ -449,6 +481,14 @@
       "onboard_time": 1718012658,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277228,
+      "num": 277228,
+      "word": "国防部回应荷兰军机挑衅",
+      "onboard_time": 1718081479,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 272894,
@@ -547,6 +587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247703,
+      "num": 247703,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1718080700,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242492,
       "num": 242492,
       "word": "黄亦玫发疯这段",
@@ -633,6 +681,14 @@
       "onboard_time": 1718073077,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 208856,
+      "num": 208856,
+      "word": "林孝埈被授予国际级运动健将",
+      "onboard_time": 1718082680,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 207909,
@@ -731,6 +787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 198510,
+      "num": 198510,
+      "word": "吉林北山公园",
+      "onboard_time": 1718082858,
+      "rank": 32,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 198158,
       "num": 198158,
       "word": "玫瑰的故事",
@@ -777,6 +841,14 @@
       "onboard_time": 1718079499,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191910,
+      "num": 191910,
+      "word": "玫瑰的故事吻戏太多",
+      "onboard_time": 1718081540,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 191759,
@@ -835,6 +907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179566,
+      "num": 179566,
+      "word": "我在考场门口滑倒了当事人发声",
+      "onboard_time": 1718081298,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177957,
       "num": 177957,
       "word": "苹果耳机支持点头接电话",
@@ -875,6 +955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167395,
+      "num": 167395,
+      "word": "林更新36岁演学生",
+      "onboard_time": 1718082918,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165824,
       "num": 165824,
       "word": "Gala回应幽梦",
@@ -891,12 +979,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165366,
+      "num": 165366,
+      "word": "星穹铁道流萤",
+      "onboard_time": 1718081421,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164483,
       "num": 164483,
       "word": "福宝终于要和大家见面了",
       "onboard_time": 1718070438,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162942,
+      "num": 162942,
+      "word": "他三分颤抖她七分薄凉",
+      "onboard_time": 1718082138,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 160653,
@@ -979,6 +1083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 155234,
+      "num": 155234,
+      "word": "两岁多的宝宝独自取快递",
+      "onboard_time": 1718082019,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155125,
       "num": 158323,
       "word": "爽文的风吹到了狗界",
@@ -1027,6 +1139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143381,
+      "num": 143381,
+      "word": "欧美开始流行笨手机",
+      "onboard_time": 1718083158,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 143352,
       "num": 143352,
       "word": "河北新疆局地最高温可达40度",
@@ -1057,6 +1177,22 @@
       "onboard_time": 1718031800,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 141621,
+      "num": 141621,
+      "word": "邓紫棋郑州",
+      "onboard_time": 1718081421,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 138646,
+      "num": 138646,
+      "word": "刘亦菲是历史上首届金鹰女神",
+      "onboard_time": 1718082918,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138537,
@@ -1153,6 +1289,14 @@
       "onboard_time": 1718034618,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119337,
+      "num": 119337,
+      "word": "iPhone新增防晕车功能",
+      "onboard_time": 1718083158,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 117929,
@@ -1403,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70278,
+      "num": 425400,
+      "word": "随心买之后不能随心退",
+      "onboard_time": 1718080219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67963,
       "num": 76440,
       "word": "U19国足vs韩国U19",
@@ -1433,6 +1585,14 @@
       "onboard_time": 1717999397,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 60693,
+      "num": 243230,
+      "word": "邓超请15万人吃螺蛳粉",
+      "onboard_time": 1718080520,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 59584,
@@ -1467,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43364,
-      "num": 425400,
-      "word": "随心买之后不能随心退",
-      "onboard_time": 1718080219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39627,
       "num": 39627,
       "word": "粽子cos",
@@ -1505,14 +1657,6 @@
       "onboard_time": 1718076257,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28701,
-      "num": 153181,
-      "word": "邓超请15万人吃螺蛳粉",
-      "onboard_time": 1718080520,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 22598,
@@ -1548,7 +1692,7 @@
     },
     {
       "raw_hot": 16731,
-      "num": 737228,
+      "num": 839126,
       "word": "两岸同胞的端午之约",
       "onboard_time": 1718028561,
       "rank": 2,
