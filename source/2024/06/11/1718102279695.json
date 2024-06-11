@@ -1,0 +1,410 @@
+{
+  "runTime": 1718102279695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1252244,
+        "num": 1252244,
+        "word": "大凉山支教7天费用上万",
+        "onboard_time": 1718094438,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859743,
+        "num": 859743,
+        "word": "韩媒预计大批中国球迷赴韩助威",
+        "onboard_time": 1718096959,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50414,
+        "num": 775071,
+        "word": "龙舟经济激发文旅消费新活力",
+        "onboard_time": 1718099658,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762659,
+        "num": 762659,
+        "word": "仅1%的儿子知道爸爸的鞋码",
+        "onboard_time": 1718095337,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 732620,
+        "num": 732620,
+        "word": "黄亦玫官配",
+        "onboard_time": 1718096779,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558461,
+        "num": 558461,
+        "word": "徐正溪建议工作室注销",
+        "onboard_time": 1718100557,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534461,
+        "num": 534461,
+        "word": "郭敬明和杨幂视频电话",
+        "onboard_time": 1718097498,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498559,
+        "num": 498559,
+        "word": "肖战王一博在泰国有多火",
+        "onboard_time": 1718088737,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488636,
+        "num": 488636,
+        "word": "甘肃地震",
+        "onboard_time": 1718098037,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28394,
+        "num": 443537,
+        "word": "派出所民警上门表扬保洁阿姨拾金不昧",
+        "onboard_time": 1718098937,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806648,
+        "num": 443513,
+        "word": "边伯贤7.1w粉站子宣布闭站",
+        "onboard_time": 1718100079,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 673466,
+        "num": 443453,
+        "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+        "onboard_time": 1718089698,
+        "rank": 11,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 443341,
+        "num": 443341,
+        "word": "肃国公 已老实",
+        "onboard_time": 1718098758,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434396,
+        "num": 434396,
+        "word": "韩国vs国足首发",
+        "onboard_time": 1718099238,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347957,
+        "num": 347957,
+        "word": "福宝",
+        "onboard_time": 1718098698,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333235,
+        "num": 333235,
+        "word": "阴阳师",
+        "onboard_time": 1718100017,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321695,
+        "num": 321695,
+        "word": "AppleID改名AppleAccount",
+        "onboard_time": 1718092878,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 318284,
+        "num": 318284,
+        "word": "yuyanjia爆料老头杯奖金发礼物",
+        "onboard_time": 1718097078,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281306,
+        "num": 281306,
+        "word": "张凯毅张煜东结婚",
+        "onboard_time": 1718091918,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 278392,
+        "num": 278392,
+        "word": "女子收货发现卫生裤上被写脏字",
+        "onboard_time": 1718085318,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275447,
+        "num": 275447,
+        "word": "真的不想再看柔弱女主了",
+        "onboard_time": 1718100618,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233086,
+        "num": 233086,
+        "word": "王星越 买断ok",
+        "onboard_time": 1718095999,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223032,
+        "num": 223032,
+        "word": "娜扎掉进水里了",
+        "onboard_time": 1718099837,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215604,
+        "num": 215604,
+        "word": "WayV初一位",
+        "onboard_time": 1718101938,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198962,
+        "num": 198962,
+        "word": "TF家族一代二代同台",
+        "onboard_time": 1718095038,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198673,
+        "num": 198673,
+        "word": "乌干达一女子生下44个孩子",
+        "onboard_time": 1718082500,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178736,
+        "num": 178736,
+        "word": "韩国vs国足",
+        "onboard_time": 1718101878,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173816,
+        "num": 173816,
+        "word": "王星越叼玉佩戏拍了一周",
+        "onboard_time": 1718100258,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163747,
+        "num": 163747,
+        "word": "SM新女团背影照",
+        "onboard_time": 1718100678,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163566,
+        "num": 163566,
+        "word": "赴山海官博掉粉",
+        "onboard_time": 1718087717,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163035,
+        "num": 163035,
+        "word": "陈奕迅受伤缝合30多针",
+        "onboard_time": 1718076018,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157332,
+        "num": 157332,
+        "word": "第一次见江疏影这么笑",
+        "onboard_time": 1718101459,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156194,
+        "num": 156194,
+        "word": "俄罗斯护卫舰抵达美国海岸附近",
+        "onboard_time": 1718097678,
+        "rank": 32,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 154636,
+        "num": 154636,
+        "word": "新式神猫川",
+        "onboard_time": 1718100378,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153714,
+        "num": 153714,
+        "word": "张若昀父亲关联公司执照被吊销",
+        "onboard_time": 1718098937,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141046,
+        "num": 141046,
+        "word": "巴黎香奈儿店遭4名悍匪驾车撞门洗劫",
+        "onboard_time": 1718099719,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140018,
+        "num": 140018,
+        "word": "汤唯 你的眼睛也很美",
+        "onboard_time": 1718100978,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129846,
+        "num": 129846,
+        "word": "赤水丰隆没来但杨康来了",
+        "onboard_time": 1718098997,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120411,
+        "num": 120411,
+        "word": "解放军起飞战机驱离荷兰舰载直升机",
+        "onboard_time": 1718081359,
+        "rank": 38,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 117376,
+        "num": 117376,
+        "word": "那些晚婚晚育的人现在怎么样了",
+        "onboard_time": 1718084778,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33823,
+        "num": 115741,
+        "word": "比亚迪助力中国足球少年跑向世界",
+        "onboard_time": 1718096717,
+        "rank": 40,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 123833,
+        "num": 115632,
+        "word": "刘亦菲 流浪小三花",
+        "onboard_time": 1718098817,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115436,
+        "num": 115436,
+        "word": "个人怎么买50年超长期特别国债",
+        "onboard_time": 1718100017,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56894,
+        "num": 114127,
+        "word": "电子风还是吹到了时尚圈",
+        "onboard_time": 1718097858,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 113820,
+        "num": 113820,
+        "word": "张杰演唱会爆改喜剧人",
+        "onboard_time": 1718101638,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109983,
+        "num": 109983,
+        "word": "陈奕迅",
+        "onboard_time": 1718098637,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104407,
+        "num": 104407,
+        "word": "刘亦菲是历史上首届金鹰女神",
+        "onboard_time": 1718082918,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97438,
+        "num": 97438,
+        "word": "阿勒泰民宿已订到七月底",
+        "onboard_time": 1718095938,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 94036,
+        "num": 94036,
+        "word": "婚前林更新婚后方协文",
+        "onboard_time": 1718094798,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93621,
+        "num": 93621,
+        "word": "武磊中韩战替补",
+        "onboard_time": 1718099958,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}

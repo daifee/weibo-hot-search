@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718101276154,
+  "endTime": 1718102279695,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1095096,
-      "num": 750160,
+      "num": 762659,
       "word": "仅1%的儿子知道爸爸的鞋码",
       "onboard_time": 1718095337,
       "rank": 3,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 859743,
+      "num": 859743,
+      "word": "韩媒预计大批中国球迷赴韩助威",
+      "onboard_time": 1718096959,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 853672,
       "num": 310566,
       "word": "考前是太子 考后是弃子",
@@ -563,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 802226,
-      "num": 802226,
-      "word": "韩媒预计大批中国球迷赴韩助威",
-      "onboard_time": 1718096959,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 806648,
+      "num": 443513,
+      "word": "边伯贤7.1w粉站子宣布闭站",
+      "onboard_time": 1718100079,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 801416,
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 732620,
+      "num": 732620,
+      "word": "黄亦玫官配",
+      "onboard_time": 1718096779,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 724850,
       "num": 724850,
       "word": "以色列救出四名人质造成至少210人死亡",
@@ -745,14 +761,6 @@
       "onboard_time": 1718080760,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 707703,
-      "num": 707703,
-      "word": "黄亦玫官配",
-      "onboard_time": 1718096779,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 707612,
@@ -1003,14 +1011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 636156,
-      "num": 395747,
-      "word": "边伯贤7.1w粉站子宣布闭站",
-      "onboard_time": 1718100079,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 633324,
       "num": 633324,
       "word": "近视手术并不是一劳永逸",
@@ -1169,6 +1169,14 @@
       "onboard_time": 1717910539,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 558461,
+      "num": 558461,
+      "word": "徐正溪建议工作室注销",
+      "onboard_time": 1718100557,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 556649,
@@ -1435,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 488636,
+      "num": 488636,
+      "word": "甘肃地震",
+      "onboard_time": 1718098037,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484386,
       "num": 242969,
       "word": "才知道焯水不是简单的煮一下",
@@ -1537,14 +1553,6 @@
       "onboard_time": 1718018237,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466146,
-      "num": 466146,
-      "word": "甘肃地震",
-      "onboard_time": 1718098037,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465784,
@@ -1667,6 +1675,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 443341,
+      "num": 443341,
+      "word": "肃国公 已老实",
+      "onboard_time": 1718098758,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443302,
       "num": 467288,
       "word": "想看福宝这些时间来",
@@ -1776,14 +1792,6 @@
       "word": "墨雨云间女主终于有家了",
       "onboard_time": 1718085318,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 418716,
-      "num": 418716,
-      "word": "肃国公 已老实",
-      "onboard_time": 1718098758,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -2355,6 +2363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333235,
+      "num": 333235,
+      "word": "阴阳师",
+      "onboard_time": 1718100017,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331415,
       "num": 295135,
       "word": "王星越 买断ok",
@@ -2441,6 +2457,14 @@
       "onboard_time": 1718021478,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 318284,
+      "num": 318284,
+      "word": "yuyanjia爆料老头杯奖金发礼物",
+      "onboard_time": 1718097078,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 317956,
@@ -2555,14 +2579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 306299,
-      "num": 306299,
-      "word": "yuyanjia爆料老头杯奖金发礼物",
-      "onboard_time": 1718097078,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 304983,
       "num": 229495,
       "word": "婚前林更新婚后方协文",
@@ -2593,14 +2609,6 @@
       "onboard_time": 1717932317,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302143,
-      "num": 302143,
-      "word": "阴阳师",
-      "onboard_time": 1718100017,
-      "rank": 17,
-      "category": "游戏"
     },
     {
       "raw_hot": 301102,
@@ -2723,14 +2731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 282820,
-      "num": 282820,
-      "word": "徐正溪建议工作室注销",
-      "onboard_time": 1718100557,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282159,
       "num": 282159,
       "word": "乌兰 女狂徒",
@@ -2793,6 +2793,14 @@
       "onboard_time": 1717926558,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275447,
+      "num": 275447,
+      "word": "真的不想再看柔弱女主了",
+      "onboard_time": 1718100618,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 272894,
@@ -3347,14 +3355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218666,
-      "num": 218666,
-      "word": "真的不想再看柔弱女主了",
-      "onboard_time": 1718100618,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 217267,
       "num": 217267,
       "word": "山东地理",
@@ -3401,6 +3401,14 @@
       "onboard_time": 1717912398,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 215604,
+      "num": 215604,
+      "word": "WayV初一位",
+      "onboard_time": 1718101938,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 215560,
@@ -4451,6 +4459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178736,
+      "num": 178736,
+      "word": "韩国vs国足",
+      "onboard_time": 1718101878,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178612,
       "num": 178612,
       "word": "果然广东人是真心想救屈原的",
@@ -5059,6 +5075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157332,
+      "num": 157332,
+      "word": "第一次见江疏影这么笑",
+      "onboard_time": 1718101459,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157325,
       "num": 155055,
       "word": "诗情画奕",
@@ -5587,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141046,
+      "num": 141046,
+      "word": "巴黎香奈儿店遭4名悍匪驾车撞门洗劫",
+      "onboard_time": 1718099719,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140532,
       "num": 140532,
       "word": "欧文对凯尔特人12连败",
@@ -5601,6 +5633,14 @@
       "onboard_time": 1717937657,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140018,
+      "num": 140018,
+      "word": "汤唯 你的眼睛也很美",
+      "onboard_time": 1718100978,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 139859,
@@ -6179,14 +6219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124743,
-      "num": 124743,
-      "word": "汤唯 你的眼睛也很美",
-      "onboard_time": 1718100978,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124729,
       "num": 241600,
       "word": "985舰是懂高考祝福的",
@@ -6585,6 +6617,14 @@
       "onboard_time": 1717868353,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 113820,
+      "num": 113820,
+      "word": "张杰演唱会爆改喜剧人",
+      "onboard_time": 1718101638,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 113488,
@@ -7675,6 +7715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50414,
+      "num": 775071,
+      "word": "龙舟经济激发文旅消费新活力",
+      "onboard_time": 1718099658,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50370,
       "num": 50370,
       "word": "每只凶狠的小猫其实都渴望被爱",
@@ -7687,14 +7735,6 @@
       "num": 464584,
       "word": "那些一眼惊艳的国潮非遗",
       "onboard_time": 1717854738,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49873,
-      "num": 752874,
-      "word": "龙舟经济激发文旅消费新活力",
-      "onboard_time": 1718099658,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -8028,7 +8068,7 @@
     },
     {
       "raw_hot": 32730,
-      "num": 326610,
+      "num": 443537,
       "word": "派出所民警上门表扬保洁阿姨拾金不昧",
       "onboard_time": 1718098937,
       "rank": 14,
