@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718145258542,
+  "endTime": 1718147927745,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -1707,6 +1707,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 479208,
+      "num": 479208,
+      "word": "新西兰女子携带人类心脏入境澳大利亚",
+      "onboard_time": 1718117241,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479018,
       "num": 262801,
       "word": "安静公主",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1717899496,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 467930,
-      "num": 467930,
-      "word": "新西兰女子携带人类心脏入境澳大利亚",
-      "onboard_time": 1718117241,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 467753,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1717890975,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436804,
+      "num": 436804,
+      "word": "黑龙江一医生被举报出轨患者",
+      "onboard_time": 1718127493,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435240,
@@ -2393,6 +2401,14 @@
       "onboard_time": 1718086337,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363735,
+      "num": 363735,
+      "word": "男子不舍朋友离开用锁链将其拴住",
+      "onboard_time": 1718123056,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 363236,
@@ -3547,14 +3563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248652,
-      "num": 248652,
-      "word": "男子不舍朋友离开用锁链将其拴住",
-      "onboard_time": 1718123056,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 247733,
       "num": 247733,
       "word": "成都巨响",
@@ -3955,14 +3963,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 215959,
-      "num": 215959,
-      "word": "黑龙江一医生被举报出轨患者",
-      "onboard_time": 1718127493,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215604,
       "num": 215604,
       "word": "WayV初一位",
@@ -3977,6 +3977,14 @@
       "onboard_time": 1718022617,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214820,
+      "num": 214820,
+      "word": "按艺人出道顺序排序",
+      "onboard_time": 1718143692,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 214564,
@@ -4088,6 +4096,14 @@
       "word": "原来父母是能帮孩子隐瞒成绩的",
       "onboard_time": 1717979778,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210070,
+      "num": 210070,
+      "word": "王星越到底在爽什么",
+      "onboard_time": 1718127793,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -5755,6 +5771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159302,
+      "num": 159302,
+      "word": "苹果市值一夜大涨超1.5万亿",
+      "onboard_time": 1718147475,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159154,
       "num": 159154,
       "word": "晋江 界面",
@@ -5928,6 +5952,14 @@
       "word": "小狗乱入考场民警投喂后开启静音模式",
       "onboard_time": 1717903517,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155262,
+      "num": 155262,
+      "word": "家属称男子网咖猝死24小时无人发现",
+      "onboard_time": 1718133970,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -6115,6 +6147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149207,
+      "num": 100776,
+      "word": "胃病发展到胃癌仅仅4步",
+      "onboard_time": 1718147235,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148896,
       "num": 148896,
       "word": "小猫一直扒拉的原因找到了",
@@ -6201,6 +6241,14 @@
       "onboard_time": 1718069537,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147474,
+      "num": 147474,
+      "word": "佟大为 冻龄",
+      "onboard_time": 1718139731,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 147362,
@@ -7779,6 +7827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103685,
+      "num": 103685,
+      "word": "大学生团体操后组团狂退400件裙子",
+      "onboard_time": 1718140450,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103447,
       "num": 103447,
       "word": "FPX对战EDG",
@@ -8051,14 +8107,6 @@
       "category": "艺人,美食"
     },
     {
-      "raw_hot": 91726,
-      "num": 91726,
-      "word": "王星越到底在爽什么",
-      "onboard_time": 1718127793,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91614,
       "num": 91614,
       "word": "高考生喊话出题人下一届多难点",
@@ -8089,14 +8137,6 @@
       "onboard_time": 1717922418,
       "rank": 2,
       "category": "教育"
-    },
-    {
-      "raw_hot": 89768,
-      "num": 89768,
-      "word": "佟大为 冻龄",
-      "onboard_time": 1718139731,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 89152,
@@ -8283,6 +8323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75356,
+      "num": 75356,
+      "word": "睡前饿了真正推荐吃的食物",
+      "onboard_time": 1718128453,
+      "rank": 26,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 75291,
       "num": 223495,
       "word": "院长嫉妒的新三大坊轮椅",
@@ -8313,14 +8361,6 @@
       "onboard_time": 1717951456,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74350,
-      "num": 74350,
-      "word": "家属称男子网咖猝死24小时无人发现",
-      "onboard_time": 1718133970,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73967,
@@ -8507,6 +8547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58528,
+      "num": 58528,
+      "word": "江疏影见一个人就要讲一遍娜扎掉水",
+      "onboard_time": 1718146873,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 58410,
       "num": 163459,
       "word": "走出考场再回头看一眼我们的青春",
@@ -8611,6 +8659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54433,
+      "num": 54433,
+      "word": "庆余年编剧王倦最喜欢的是深V皇帝",
+      "onboard_time": 1718147775,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 54368,
       "num": 54368,
       "word": "2024f1加拿大大奖赛",
@@ -8641,6 +8697,14 @@
       "onboard_time": 1718062456,
       "rank": 48,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 51950,
+      "num": 51950,
+      "word": "看福宝的最佳时间",
+      "onboard_time": 1718146935,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51523,
@@ -8787,14 +8851,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 46403,
-      "num": 41829,
-      "word": "按艺人出道顺序排序",
-      "onboard_time": 1718143692,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 46212,
       "num": 347069,
       "word": "高考后最值得做的20件事",
@@ -8809,6 +8865,14 @@
       "onboard_time": 1717952475,
       "rank": 9,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 46141,
+      "num": 46141,
+      "word": "林更新感受满屏美甲暴击",
+      "onboard_time": 1718131511,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 46038,
@@ -8875,14 +8939,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 43768,
-      "num": 39895,
-      "word": "睡前饿了真正推荐吃的食物",
-      "onboard_time": 1718128453,
-      "rank": 26,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 43364,
       "num": 1109567,
       "word": "中国发展的多样色彩绘就热烈的夏天",
@@ -8931,14 +8987,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 40313,
-      "num": 40313,
-      "word": "大学生团体操后组团狂退400件裙子",
-      "onboard_time": 1718140450,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39947,
       "num": 39947,
       "word": "胡夏把清华电视踢翻了",
@@ -8961,6 +9009,14 @@
       "onboard_time": 1717964350,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 37962,
+      "num": 41511,
+      "word": "iPadOS18细节功能一览",
+      "onboard_time": 1718147836,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 37767,
@@ -9073,14 +9129,6 @@
       "onboard_time": 1718098937,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32348,
-      "num": 32348,
-      "word": "林更新感受满屏美甲暴击",
-      "onboard_time": 1718131511,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 32240,
@@ -9217,6 +9265,14 @@
       "onboard_time": 1718107698,
       "rank": 16,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 21600,
+      "num": 1443878,
+      "word": "航拍视角看三夏时节麦收忙",
+      "onboard_time": 1718112739,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20566,
@@ -9379,14 +9435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14163,
-      "num": 1443878,
-      "word": "航拍视角看三夏时节麦收忙",
-      "onboard_time": 1718112739,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 13867,
       "num": 185002,
       "word": "饥饿小蜂猴勇闯人类火锅店",
@@ -9456,6 +9504,14 @@
       "word": "河南高考 卷",
       "onboard_time": 1717907717,
       "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 10725,
+      "num": 210901,
+      "word": "罗永浩发博给考生的寄语和祝福",
+      "onboard_time": 1718147296,
+      "rank": 9,
       "category": "社会新闻,教育"
     },
     {
