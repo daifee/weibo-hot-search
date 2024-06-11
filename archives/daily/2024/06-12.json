@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718126313456,
+  "endTime": 1718127359745,
   "band_list": [
     {
       "raw_hot": 1406927,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248652,
+      "num": 248652,
+      "word": "男子不舍朋友离开用锁链将其拴住",
+      "onboard_time": 1718123056,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247447,
       "num": 193920,
       "word": "桑尼 椰浆饭",
@@ -161,14 +169,6 @@
       "onboard_time": 1718122158,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 208643,
-      "num": 208643,
-      "word": "男子不舍朋友离开用锁链将其拴住",
-      "onboard_time": 1718123056,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187101,
@@ -403,12 +403,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39520,
+      "num": 39520,
+      "word": "风象星座不为人知的秘密",
+      "onboard_time": 1718126833,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38908,
       "num": 47518,
       "word": "赴山海",
       "onboard_time": 1718109378,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33424,
+      "num": 38388,
+      "word": "国足今晚变了",
+      "onboard_time": 1718108238,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 18256,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 13867,
-      "num": 68456,
+      "num": 185002,
       "word": "饥饿小蜂猴勇闯人类火锅店",
       "onboard_time": 1718126294,
       "rank": 29,
