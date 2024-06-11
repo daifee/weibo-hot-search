@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718115504154,
+  "endTime": 1718116545648,
   "band_list": [
     {
       "raw_hot": 6547480,
@@ -11,8 +11,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2728131,
-      "num": 2728131,
+      "raw_hot": 5347676,
+      "num": 5347676,
       "word": "泰国vs新加坡",
       "onboard_time": 1718108599,
       "rank": 8,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1258219,
+      "num": 1258219,
+      "word": "国足还有出线可能",
+      "onboard_time": 1718111779,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1257034,
       "num": 424818,
       "word": "苹果 安卓味",
@@ -171,6 +179,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1001865,
+      "num": 1001865,
+      "word": "刘亦菲为了气我真是什么戏都接",
+      "onboard_time": 1718112020,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 978837,
       "num": 978837,
       "word": "间谍假装自曝结果真牵出大案",
@@ -225,14 +241,6 @@
       "onboard_time": 1718068518,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 867508,
-      "num": 867508,
-      "word": "刘亦菲为了气我真是什么戏都接",
-      "onboard_time": 1718112020,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 864883,
@@ -331,6 +339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729085,
+      "num": 729085,
+      "word": "王星越壁纸",
+      "onboard_time": 1718111000,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 727486,
+      "num": 727486,
+      "word": "已经72小时34分钟没抱你了",
+      "onboard_time": 1718114840,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 720801,
       "num": 712702,
       "word": "金智媛刚出道被误认是外国人",
@@ -353,6 +377,14 @@
       "onboard_time": 1718073436,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710520,
+      "num": 544203,
+      "word": "狐妖月红篇be大结局",
+      "onboard_time": 1718111901,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 708752,
@@ -387,14 +419,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 687946,
-      "num": 575378,
-      "word": "王星越壁纸",
-      "onboard_time": 1718111000,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 676829,
       "num": 236952,
       "word": "臭宝回应崩了",
@@ -403,20 +427,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 667973,
+      "num": 667973,
+      "word": "新加坡进球了",
+      "onboard_time": 1718114720,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 665086,
       "num": 506997,
       "word": "陈奕迅腮骨骨裂",
       "onboard_time": 1718078659,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 662500,
-      "num": 540764,
-      "word": "狐妖月红篇be大结局",
-      "onboard_time": 1718111901,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 654218,
@@ -507,12 +531,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 526780,
+      "num": 526780,
+      "word": "国足出线形势分析图",
+      "onboard_time": 1718113879,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 524547,
       "num": 524547,
       "word": "韩国vs国足首发",
       "onboard_time": 1718099238,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 515490,
+      "num": 515490,
+      "word": "成都一年轻女子在家被捅伤致死",
+      "onboard_time": 1718104757,
+      "rank": 21,
+      "category": "社会负面"
     },
     {
       "raw_hot": 515029,
@@ -577,6 +617,14 @@
       "onboard_time": 1718074937,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 474235,
+      "num": 474235,
+      "word": "王俊凯翻牌",
+      "onboard_time": 1718115920,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 465732,
@@ -691,14 +739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 416569,
-      "num": 416569,
-      "word": "国足还有出线可能",
-      "onboard_time": 1718111779,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 406307,
       "num": 295649,
       "word": "96年28岁其实挺小的",
@@ -737,6 +777,14 @@
       "onboard_time": 1718107339,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 385081,
+      "num": 385081,
+      "word": "苏醒 国足近期踢的最好的一个半场",
+      "onboard_time": 1718111420,
+      "rank": 46,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 384992,
@@ -867,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356001,
+      "num": 356001,
+      "word": "新加坡队守住",
+      "onboard_time": 1718115620,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350102,
       "num": 350102,
       "word": "苹果市值一夜蒸发4213亿元",
@@ -921,22 +977,6 @@
       "onboard_time": 1718088737,
       "rank": 8,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 336772,
-      "num": 336772,
-      "word": "成都一年轻女子在家被捅伤致死",
-      "onboard_time": 1718104757,
-      "rank": 21,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 335324,
-      "num": 335324,
-      "word": "已经72小时34分钟没抱你了",
-      "onboard_time": 1718114840,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 333762,
@@ -1003,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 309380,
+      "num": 309380,
+      "word": "外交部回应吉林北山公园伤人案",
+      "onboard_time": 1718114659,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 308082,
       "num": 308082,
       "word": "福宝明天见",
@@ -1035,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300666,
+      "num": 300666,
+      "word": "不要被男生身上肥皂香味蛊惑",
+      "onboard_time": 1718114899,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 298806,
       "num": 266580,
       "word": "苹果AI仅支持两款iPhone",
@@ -1043,20 +1099,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 295637,
-      "num": 295637,
-      "word": "苏醒 国足近期踢的最好的一个半场",
-      "onboard_time": 1718111420,
-      "rank": 46,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 293528,
       "num": 272495,
       "word": "刘亦菲新剧口碑逆跌",
       "onboard_time": 1718012658,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293491,
+      "num": 293491,
+      "word": "一直不知道床单是要勤换的",
+      "onboard_time": 1718115561,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 291553,
@@ -1081,14 +1137,6 @@
       "onboard_time": 1718086819,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 286838,
-      "num": 286838,
-      "word": "新加坡进球了",
-      "onboard_time": 1718114720,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 284239,
@@ -1257,6 +1305,14 @@
       "onboard_time": 1718062035,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245340,
+      "num": 245340,
+      "word": "张杰看谢娜的眼睛里有光",
+      "onboard_time": 1718115140,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 242492,
@@ -1475,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205490,
-      "num": 205490,
-      "word": "张杰看谢娜的眼睛里有光",
-      "onboard_time": 1718115140,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205338,
       "num": 205338,
       "word": "湖南卫视618晚会定档",
@@ -1539,20 +1587,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202007,
-      "num": 202007,
-      "word": "外交部回应吉林北山公园伤人案",
-      "onboard_time": 1718114659,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 199371,
       "num": 199371,
       "word": "智界R7",
       "onboard_time": 1718072898,
       "rank": 31,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 198899,
+      "num": 198899,
+      "word": "世预赛",
+      "onboard_time": 1718111960,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 198292,
@@ -1675,14 +1723,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 191704,
-      "num": 191704,
-      "word": "世预赛",
-      "onboard_time": 1718111960,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 191604,
       "num": 191604,
       "word": "王星越商务",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1718096897,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185886,
+      "num": 185886,
+      "word": "王俊凯下班",
+      "onboard_time": 1718116405,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 185764,
@@ -1923,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174502,
+      "num": 174502,
+      "word": "女朋友视频从来不开摄像头",
+      "onboard_time": 1718115321,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174345,
       "num": 174345,
       "word": "王大雷抹泪",
@@ -1955,12 +2011,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 169955,
-      "num": 169955,
-      "word": "不要被男生身上肥皂香味蛊惑",
-      "onboard_time": 1718114899,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 169089,
+      "num": 169089,
+      "word": "今晚变成新加坡球迷",
+      "onboard_time": 1718113219,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 168982,
@@ -2211,14 +2267,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 152044,
-      "num": 152044,
-      "word": "国足出线形势分析图",
-      "onboard_time": 1718113879,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 151971,
       "num": 151971,
       "word": "中国女排1比0保加利亚女排",
@@ -2323,6 +2371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141785,
+      "num": 1847853,
+      "word": "大数据看端午假期出行",
+      "onboard_time": 1718114539,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141621,
       "num": 141621,
       "word": "邓紫棋郑州",
@@ -2387,20 +2443,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 137087,
-      "num": 137087,
-      "word": "今晚变成新加坡球迷",
-      "onboard_time": 1718113219,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137070,
       "num": 137070,
       "word": "外公去世前就为我的高考订了花",
       "onboard_time": 1718087238,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137017,
+      "num": 137017,
+      "word": "孙兴慜回应做3比0手势",
+      "onboard_time": 1718116523,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 136471,
@@ -2515,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131858,
-      "num": 131858,
-      "word": "女朋友视频从来不开摄像头",
-      "onboard_time": 1718115321,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 131722,
       "num": 166583,
       "word": "皇马官宣将参加新版世俱杯",
@@ -2553,6 +2601,14 @@
       "onboard_time": 1718055612,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 129583,
+      "num": 458732,
+      "word": "茅台黄牛跑路受害者损失上万",
+      "onboard_time": 1718114419,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129408,
@@ -2915,14 +2971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86226,
-      "num": 1278029,
-      "word": "大数据看端午假期出行",
-      "onboard_time": 1718114539,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85383,
       "num": 85383,
       "word": "赴山海宣发",
@@ -3025,14 +3073,6 @@
       "onboard_time": 1718018778,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73666,
-      "num": 458732,
-      "word": "茅台黄牛跑路受害者损失上万",
-      "onboard_time": 1718114419,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72453,
@@ -3251,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22595,
+      "num": 474294,
+      "word": "四川力争年内将辅助生殖纳入医保",
+      "onboard_time": 1718107698,
+      "rank": 16,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 19190,
       "num": 27364,
       "word": "欧洲议会选举",
@@ -3289,14 +3337,6 @@
       "onboard_time": 1718047270,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15718,
-      "num": 309143,
-      "word": "四川力争年内将辅助生殖纳入医保",
-      "onboard_time": 1718107698,
-      "rank": 16,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 14347,

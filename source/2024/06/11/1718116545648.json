@@ -1,0 +1,410 @@
+{
+  "runTime": 1718116545648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5347676,
+        "num": 5347676,
+        "word": "泰国vs新加坡",
+        "onboard_time": 1718108599,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4007555,
+        "num": 4007555,
+        "word": "韩国vs国足",
+        "onboard_time": 1718101878,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141785,
+        "num": 1847853,
+        "word": "大数据看端午假期出行",
+        "onboard_time": 1718114539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1807255,
+        "num": 1807255,
+        "word": "国足0比1不敌韩国队",
+        "onboard_time": 1718111000,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1258219,
+        "num": 1258219,
+        "word": "国足还有出线可能",
+        "onboard_time": 1718111779,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1001865,
+        "num": 1001865,
+        "word": "刘亦菲为了气我真是什么戏都接",
+        "onboard_time": 1718112020,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 729085,
+        "num": 729085,
+        "word": "王星越壁纸",
+        "onboard_time": 1718111000,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 727486,
+        "num": 727486,
+        "word": "已经72小时34分钟没抱你了",
+        "onboard_time": 1718114840,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 667973,
+        "num": 667973,
+        "word": "新加坡进球了",
+        "onboard_time": 1718114720,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573257,
+        "num": 573257,
+        "word": "中国女排3比0保加利亚女排",
+        "onboard_time": 1718113819,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1296178,
+        "num": 561977,
+        "word": "女员工因担心走光上班打伞遭开除",
+        "onboard_time": 1718104818,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716286,
+        "num": 546017,
+        "word": "刘亦菲一年一句出圈名台词",
+        "onboard_time": 1718104698,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 710520,
+        "num": 544203,
+        "word": "狐妖月红篇be大结局",
+        "onboard_time": 1718111901,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526780,
+        "num": 526780,
+        "word": "国足出线形势分析图",
+        "onboard_time": 1718113879,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515490,
+        "num": 515490,
+        "word": "成都一年轻女子在家被捅伤致死",
+        "onboard_time": 1718104757,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 22595,
+        "num": 474294,
+        "word": "四川力争年内将辅助生殖纳入医保",
+        "onboard_time": 1718107698,
+        "rank": 15,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 474235,
+        "num": 474235,
+        "word": "王俊凯翻牌",
+        "onboard_time": 1718115920,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448079,
+        "num": 448079,
+        "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+        "onboard_time": 1718089698,
+        "rank": 17,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 430365,
+        "num": 430365,
+        "word": "国足今晚变了",
+        "onboard_time": 1718108238,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385081,
+        "num": 385081,
+        "word": "苏醒 国足近期踢的最好的一个半场",
+        "onboard_time": 1718111420,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 359406,
+        "num": 359406,
+        "word": "陈奕迅需暂停讲话及进食48小时",
+        "onboard_time": 1718111180,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356001,
+        "num": 356001,
+        "word": "新加坡队守住",
+        "onboard_time": 1718115620,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333044,
+        "num": 333044,
+        "word": "上海白蚁",
+        "onboard_time": 1718109559,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313389,
+        "num": 313389,
+        "word": "孙兴慜挑衅",
+        "onboard_time": 1718106979,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309380,
+        "num": 309380,
+        "word": "外交部回应吉林北山公园伤人案",
+        "onboard_time": 1718114659,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307374,
+        "num": 307374,
+        "word": "孙楠是瘦子",
+        "onboard_time": 1718113640,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300666,
+        "num": 300666,
+        "word": "不要被男生身上肥皂香味蛊惑",
+        "onboard_time": 1718114899,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293491,
+        "num": 293491,
+        "word": "一直不知道床单是要勤换的",
+        "onboard_time": 1718115561,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245340,
+        "num": 245340,
+        "word": "张杰看谢娜的眼睛里有光",
+        "onboard_time": 1718115140,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223927,
+        "num": 223927,
+        "word": "萧蘅 国服小乔",
+        "onboard_time": 1718113401,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215575,
+        "num": 215575,
+        "word": "长期开灯睡觉更易患上糖尿病",
+        "onboard_time": 1718104518,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198899,
+        "num": 198899,
+        "word": "世预赛",
+        "onboard_time": 1718111960,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196473,
+        "num": 196473,
+        "word": "孙兴慜安慰王大雷",
+        "onboard_time": 1718113100,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193584,
+        "num": 193584,
+        "word": "西瓜价格跳水跌破1元每斤",
+        "onboard_time": 1718112800,
+        "rank": 33,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 129583,
+        "num": 191500,
+        "word": "茅台黄牛跑路受害者损失上万",
+        "onboard_time": 1718114419,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190931,
+        "num": 190931,
+        "word": "金钟国自曝曾被骗10亿韩元",
+        "onboard_time": 1718106258,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185886,
+        "num": 185886,
+        "word": "王俊凯下班",
+        "onboard_time": 1718116405,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179131,
+        "num": 179131,
+        "word": "金智媛刚出道被误认是外国人",
+        "onboard_time": 1718103619,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178552,
+        "num": 178552,
+        "word": "肖战王一博在泰国有多火",
+        "onboard_time": 1718088737,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174502,
+        "num": 174502,
+        "word": "女朋友视频从来不开摄像头",
+        "onboard_time": 1718115321,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169089,
+        "num": 169089,
+        "word": "今晚变成新加坡球迷",
+        "onboard_time": 1718113219,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166402,
+        "num": 166402,
+        "word": "创造营亚洲第二季海选路透",
+        "onboard_time": 1718110881,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159449,
+        "num": 159449,
+        "word": "腾讯暑假排播",
+        "onboard_time": 1718108839,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149035,
+        "num": 149035,
+        "word": "反派你别狂薛芳菲让你亡",
+        "onboard_time": 1718115080,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148374,
+        "num": 148374,
+        "word": "闲鱼回应多用户未经本人允许挂售同事",
+        "onboard_time": 1718103078,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139882,
+        "num": 139882,
+        "word": "边伯贤7.1w粉站子宣布闭站",
+        "onboard_time": 1718100079,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137356,
+        "num": 137356,
+        "word": "刘亦菲淡黄的长裙蓬松的头发",
+        "onboard_time": 1718108479,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137017,
+        "num": 137017,
+        "word": "孙兴慜回应做3比0手势",
+        "onboard_time": 1718116523,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135527,
+        "num": 135527,
+        "word": "那英 小孩姐",
+        "onboard_time": 1718103738,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133357,
+        "num": 133357,
+        "word": "徐正溪建议工作室注销",
+        "onboard_time": 1718100557,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}
