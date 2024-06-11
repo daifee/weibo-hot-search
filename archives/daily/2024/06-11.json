@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718104649317,
+  "endTime": 1718105683490,
   "band_list": [
     {
       "raw_hot": 2045623,
@@ -83,12 +83,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1184933,
+      "num": 1184933,
+      "word": "韩国vs国足",
+      "onboard_time": 1718101878,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1138410,
       "num": 304288,
       "word": "千万别一边充电一边玩手机",
       "onboard_time": 1718071217,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133246,
+      "num": 1133246,
+      "word": "闲鱼回应多用户未经本人允许挂售同事",
+      "onboard_time": 1718103078,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1095096,
@@ -139,12 +155,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 884508,
-      "num": 884508,
-      "word": "闲鱼回应多用户未经本人允许挂售同事",
-      "onboard_time": 1718103078,
-      "rank": 0,
-      "category": "互联网"
+      "raw_hot": 900069,
+      "num": 900069,
+      "word": "北京下雨",
+      "onboard_time": 1718104578,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 881021,
@@ -227,20 +243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 797013,
+      "num": 558461,
+      "word": "徐正溪建议工作室注销",
+      "onboard_time": 1718100557,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781128,
       "num": 357359,
       "word": "AppleID改名AppleAccount",
       "onboard_time": 1718092878,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 752911,
-      "num": 558461,
-      "word": "徐正溪建议工作室注销",
-      "onboard_time": 1718100557,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 751660,
@@ -251,20 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 741034,
-      "num": 741034,
-      "word": "韩国vs国足",
-      "onboard_time": 1718101878,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 732620,
       "num": 732620,
       "word": "黄亦玫官配",
       "onboard_time": 1718096779,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 720801,
+      "num": 388725,
+      "word": "金智媛刚出道被误认是外国人",
+      "onboard_time": 1718103619,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 716598,
@@ -379,11 +395,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 551514,
-      "num": 327776,
-      "word": "金智媛刚出道被误认是外国人",
-      "onboard_time": 1718103619,
-      "rank": 13,
+      "raw_hot": 534710,
+      "num": 534710,
+      "word": "那英 小孩姐",
+      "onboard_time": 1718103738,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409513,
+      "num": 359832,
+      "word": "女员工因担心走光上班打伞遭开除",
+      "onboard_time": 1718104818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 406307,
       "num": 295649,
       "word": "96年28岁其实挺小的",
@@ -673,6 +697,14 @@
       "onboard_time": 1718071938,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 357609,
+      "num": 357609,
+      "word": "刘亦菲一年一句出圈名台词",
+      "onboard_time": 1718104698,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 356888,
@@ -851,14 +883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 284643,
-      "num": 213580,
-      "word": "那英 小孩姐",
-      "onboard_time": 1718103738,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284239,
       "num": 284239,
       "word": "吉林北山公园",
@@ -987,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245847,
+      "num": 245847,
+      "word": "成都一年轻女子在家被捅伤致死",
+      "onboard_time": 1718104757,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 242492,
       "num": 242492,
       "word": "黄亦玫发疯这段",
@@ -1008,6 +1040,14 @@
       "word": "娜扎掉进水里了",
       "onboard_time": 1718099837,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238498,
+      "num": 238498,
+      "word": "歌手",
+      "onboard_time": 1718104938,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1379,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185943,
+      "num": 185943,
+      "word": "徐正溪",
+      "onboard_time": 1718105418,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185764,
       "num": 185764,
       "word": "俄罗斯护卫舰抵达美国海岸附近",
@@ -1619,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162827,
+      "num": 162827,
+      "word": "杨幂 艺人最重要的是社会影响力",
+      "onboard_time": 1718105359,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162569,
       "num": 162569,
       "word": "NV 伞兵",
@@ -1811,6 +1867,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145789,
+      "num": 145789,
+      "word": "北京连发雷电大风两预警",
+      "onboard_time": 1718105418,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145570,
       "num": 125193,
       "word": "刘亦菲哭戏",
@@ -1921,6 +1985,14 @@
       "onboard_time": 1718018477,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135965,
+      "num": 137313,
+      "word": "AL战胜iG",
+      "onboard_time": 1718104338,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 135591,
@@ -2131,6 +2203,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 115724,
+      "num": 213582,
+      "word": "5名小学生捡到2岁小朋友交给特警",
+      "onboard_time": 1718102656,
+      "rank": 20,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 115551,
       "num": 115551,
       "word": "野猪一家给丞磊娜扎做饭",
@@ -2161,6 +2241,14 @@
       "onboard_time": 1718096179,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114005,
+      "num": 114005,
+      "word": "美力618",
+      "onboard_time": 1718105359,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 113820,
@@ -2251,14 +2339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 102867,
-      "num": 102867,
-      "word": "北京下雨",
-      "onboard_time": 1718104578,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101936,
       "num": 409686,
       "word": "这个端午110000000人次出游",
@@ -2339,12 +2419,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 96036,
-      "num": 213582,
-      "word": "5名小学生捡到2岁小朋友交给特警",
-      "onboard_time": 1718102656,
-      "rank": 20,
-      "category": "社会正能量"
+      "raw_hot": 96364,
+      "num": 209327,
+      "word": "长期开灯睡觉更易患上糖尿病",
+      "onboard_time": 1718104518,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95980,
@@ -2588,7 +2668,7 @@
     },
     {
       "raw_hot": 50414,
-      "num": 775071,
+      "num": 946791,
       "word": "龙舟经济激发文旅消费新活力",
       "onboard_time": 1718099658,
       "rank": 2,
@@ -2649,14 +2729,6 @@
       "onboard_time": 1718098937,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32010,
-      "num": 209327,
-      "word": "长期开灯睡觉更易患上糖尿病",
-      "onboard_time": 1718104518,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 30044,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1718105683490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1184933,
+        "num": 1184933,
+        "word": "韩国vs国足",
+        "onboard_time": 1718101878,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1133246,
+        "num": 1133246,
+        "word": "闲鱼回应多用户未经本人允许挂售同事",
+        "onboard_time": 1718103078,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 39547,
+        "num": 946791,
+        "word": "龙舟经济激发文旅消费新活力",
+        "onboard_time": 1718099658,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900069,
+        "num": 900069,
+        "word": "北京下雨",
+        "onboard_time": 1718104578,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544885,
+        "num": 544885,
+        "word": "黄亦玫官配",
+        "onboard_time": 1718096779,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534710,
+        "num": 534710,
+        "word": "那英 小孩姐",
+        "onboard_time": 1718103738,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 515291,
+        "num": 515291,
+        "word": "仅1%的儿子知道爸爸的鞋码",
+        "onboard_time": 1718095337,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474450,
+        "num": 474450,
+        "word": "韩媒预计大批中国球迷赴韩助威",
+        "onboard_time": 1718096959,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405938,
+        "num": 405938,
+        "word": "肃国公 已老实",
+        "onboard_time": 1718098758,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268873,
+        "num": 400156,
+        "word": "莫让公益支教变成花钱买证",
+        "onboard_time": 1718094438,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797013,
+        "num": 397252,
+        "word": "徐正溪建议工作室注销",
+        "onboard_time": 1718100557,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 720801,
+        "num": 388725,
+        "word": "金智媛刚出道被误认是外国人",
+        "onboard_time": 1718103619,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579431,
+        "num": 379216,
+        "word": "边伯贤7.1w粉站子宣布闭站",
+        "onboard_time": 1718100079,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496231,
+        "num": 365992,
+        "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+        "onboard_time": 1718089698,
+        "rank": 13,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 409513,
+        "num": 359832,
+        "word": "女员工因担心走光上班打伞遭开除",
+        "onboard_time": 1718104818,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357609,
+        "num": 357609,
+        "word": "刘亦菲一年一句出圈名台词",
+        "onboard_time": 1718104698,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337145,
+        "num": 337145,
+        "word": "AppleID改名AppleAccount",
+        "onboard_time": 1718092878,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 309997,
+        "num": 309997,
+        "word": "真的不想再看柔弱女主了",
+        "onboard_time": 1718100618,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269904,
+        "num": 269904,
+        "word": "福宝",
+        "onboard_time": 1718098698,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256244,
+        "num": 256244,
+        "word": "甘肃地震",
+        "onboard_time": 1718098037,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256541,
+        "num": 254800,
+        "word": "肖战王一博在泰国有多火",
+        "onboard_time": 1718088737,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245847,
+        "num": 245847,
+        "word": "成都一年轻女子在家被捅伤致死",
+        "onboard_time": 1718104757,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 238498,
+        "num": 238498,
+        "word": "歌手",
+        "onboard_time": 1718104938,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211339,
+        "num": 211339,
+        "word": "韩国vs国足首发",
+        "onboard_time": 1718099238,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202430,
+        "num": 202430,
+        "word": "郭敬明和杨幂视频电话",
+        "onboard_time": 1718097498,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200111,
+        "num": 200111,
+        "word": "吉林公安通报北山公园伤人案",
+        "onboard_time": 1718103138,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185943,
+        "num": 185943,
+        "word": "徐正溪",
+        "onboard_time": 1718105418,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183283,
+        "num": 183283,
+        "word": "买二手房和买一手房区别",
+        "onboard_time": 1718102656,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170893,
+        "num": 170893,
+        "word": "紫外线会惩罚每一个不防晒的人",
+        "onboard_time": 1718102477,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 166838,
+        "num": 166838,
+        "word": "第一次见江疏影这么笑",
+        "onboard_time": 1718101459,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162827,
+        "num": 162827,
+        "word": "杨幂 艺人最重要的是社会影响力",
+        "onboard_time": 1718105359,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167256,
+        "num": 161821,
+        "word": "徐正溪工作室",
+        "onboard_time": 1718102900,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157500,
+        "num": 157500,
+        "word": "女子收货发现卫生裤上被写脏字",
+        "onboard_time": 1718085318,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148381,
+        "num": 148381,
+        "word": "韩国人创造所谓的韩式变脸",
+        "onboard_time": 1718103558,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147704,
+        "num": 147704,
+        "word": "WayV初一位",
+        "onboard_time": 1718101938,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145789,
+        "num": 145789,
+        "word": "北京连发雷电大风两预警",
+        "onboard_time": 1718105418,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145115,
+        "num": 145115,
+        "word": "杨幂说爱会让人长出骨血",
+        "onboard_time": 1718103858,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137333,
+        "num": 137333,
+        "word": "巴黎香奈儿店遭4名悍匪驾车撞门洗劫",
+        "onboard_time": 1718099719,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135965,
+        "num": 137313,
+        "word": "AL战胜iG",
+        "onboard_time": 1718104338,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137306,
+        "num": 137306,
+        "word": "赴山海官博掉粉",
+        "onboard_time": 1718087717,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136481,
+        "num": 136481,
+        "word": "窦佳嫄从来没叫过窦唯爸爸",
+        "onboard_time": 1718102598,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136218,
+        "num": 136218,
+        "word": "还没毕业室友就退群了",
+        "onboard_time": 1718102900,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125296,
+        "num": 125296,
+        "word": "陈奕迅受伤缝合30多针",
+        "onboard_time": 1718076018,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124884,
+        "num": 124884,
+        "word": "福宝高清数毛照",
+        "onboard_time": 1718104037,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118586,
+        "num": 118586,
+        "word": "TF家族一代二代同台",
+        "onboard_time": 1718095038,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118535,
+        "num": 118535,
+        "word": "小猫一直扒拉的原因找到了",
+        "onboard_time": 1718104157,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115724,
+        "num": 115724,
+        "word": "5名小学生捡到2岁小朋友交给特警",
+        "onboard_time": 1718102656,
+        "rank": 46,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 114005,
+        "num": 114005,
+        "word": "美力618",
+        "onboard_time": 1718105359,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 105331,
+        "num": 105331,
+        "word": "张凯毅张煜东结婚",
+        "onboard_time": 1718091918,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 96364,
+        "num": 96364,
+        "word": "长期开灯睡觉更易患上糖尿病",
+        "onboard_time": 1718104518,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}
