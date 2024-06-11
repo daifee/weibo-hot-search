@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718079833368,
+  "endTime": 1718080685346,
   "band_list": [
     {
       "raw_hot": 2045623,
@@ -27,20 +27,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1260817,
+      "num": 543204,
+      "word": "张新成 导演",
+      "onboard_time": 1718078118,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1208397,
       "num": 1208397,
       "word": "高考准考证少写一个还有分吗",
       "onboard_time": 1718032040,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1205078,
-      "num": 522022,
-      "word": "张新成 导演",
-      "onboard_time": 1718078118,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 1138410,
@@ -99,12 +99,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 823677,
-      "num": 267156,
+      "raw_hot": 853672,
+      "num": 310566,
       "word": "考前是太子 考后是弃子",
       "onboard_time": 1718077458,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 833170,
+      "num": 424818,
+      "word": "苹果 安卓味",
+      "onboard_time": 1718079139,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 801294,
@@ -163,20 +171,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 665086,
+      "num": 506997,
+      "word": "陈奕迅腮骨骨裂",
+      "onboard_time": 1718078659,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623891,
       "num": 623891,
       "word": "刘亦菲的亲热戏把我老公看急眼了",
       "onboard_time": 1718030180,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 615409,
-      "num": 488907,
-      "word": "陈奕迅腮骨骨裂",
-      "onboard_time": 1718078659,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 585880,
@@ -193,6 +201,14 @@
       "onboard_time": 1718073317,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517200,
+      "num": 517200,
+      "word": "教育局长亲自开飞机祝贺高考顺利",
+      "onboard_time": 1718078840,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 515029,
@@ -259,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417159,
+      "num": 417159,
+      "word": "吉林",
+      "onboard_time": 1718079079,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 417047,
       "num": 375735,
       "word": "吴谨言 女武一",
@@ -323,8 +347,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 359452,
-      "num": 359452,
+      "raw_hot": 361124,
+      "num": 361124,
       "word": "中国女孩北冰洋捕蟹月入13万",
       "onboard_time": 1718074398,
       "rank": 25,
@@ -371,12 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 341224,
-      "num": 341224,
-      "word": "苹果 安卓味",
-      "onboard_time": 1718079139,
-      "rank": 15,
-      "category": "数码"
+      "raw_hot": 340874,
+      "num": 340874,
+      "word": "墨雨云间 扶不扶难题",
+      "onboard_time": 1718077818,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323324,
+      "num": 268472,
+      "word": "网曝女子带仓鼠上飞机导致延误1小时",
+      "onboard_time": 1718078899,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317396,
@@ -411,27 +443,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 295055,
-      "num": 263403,
-      "word": "网曝女子带仓鼠上飞机导致延误1小时",
-      "onboard_time": 1718078899,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293528,
       "num": 272495,
       "word": "刘亦菲新剧口碑逆跌",
       "onboard_time": 1718012658,
       "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 274797,
-      "num": 274797,
-      "word": "墨雨云间 扶不扶难题",
-      "onboard_time": 1718077818,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -459,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263795,
+      "num": 263795,
+      "word": "田曦薇新剧演女警",
+      "onboard_time": 1718080100,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260911,
       "num": 225571,
       "word": "离职后又回原公司上班去了",
@@ -483,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256039,
+      "num": 256039,
+      "word": "光与夜之恋",
+      "onboard_time": 1718080100,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 254025,
       "num": 254025,
       "word": "黄亦玫傅家明埋线",
@@ -497,14 +529,6 @@
       "onboard_time": 1718071159,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249601,
-      "num": 249601,
-      "word": "教育局长亲自开飞机祝贺高考顺利",
-      "onboard_time": 1718078840,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 249069,
@@ -523,12 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242492,
+      "num": 242492,
+      "word": "黄亦玫发疯这段",
+      "onboard_time": 1718079198,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237307,
       "num": 237307,
       "word": "吴谨言跟谁我都可以嗑一口",
       "onboard_time": 1718063896,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236094,
+      "num": 236094,
+      "word": "Jennie派对热舞",
+      "onboard_time": 1718080399,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 232323,
@@ -555,14 +595,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 224253,
-      "num": 224253,
-      "word": "黄亦玫发疯这段",
-      "onboard_time": 1718079198,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222797,
       "num": 222797,
       "word": "生孩子到底难在哪",
@@ -577,14 +609,6 @@
       "onboard_time": 1718072296,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 215554,
-      "num": 215554,
-      "word": "吉林",
-      "onboard_time": 1718079079,
-      "rank": 29,
-      "category": "社会负面"
     },
     {
       "raw_hot": 211956,
@@ -643,12 +667,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205338,
+      "num": 205338,
+      "word": "湖南卫视618晚会定档",
+      "onboard_time": 1718075898,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205285,
       "num": 205285,
       "word": "一听就泪目的毕业BGM",
       "onboard_time": 1718070677,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204781,
+      "num": 204781,
+      "word": "梦之队竞世界概念宣传片",
+      "onboard_time": 1718080280,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 204596,
@@ -681,14 +721,6 @@
       "onboard_time": 1718071637,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200578,
-      "num": 200578,
-      "word": "湖南卫视618晚会定档",
-      "onboard_time": 1718075898,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 199371,
@@ -739,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191916,
+      "num": 191916,
+      "word": "iPad计算器",
+      "onboard_time": 1718079499,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191759,
       "num": 191759,
       "word": "苹果回应iPhone录音会通知对方",
@@ -761,6 +801,14 @@
       "onboard_time": 1718075058,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183896,
+      "num": 183896,
+      "word": "怦然心动20岁",
+      "onboard_time": 1718080219,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 182412,
@@ -875,14 +923,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 160263,
-      "num": 160263,
-      "word": "iPad计算器",
-      "onboard_time": 1718079499,
-      "rank": 41,
-      "category": "数码"
-    },
-    {
       "raw_hot": 159154,
       "num": 159154,
       "word": "晋江 界面",
@@ -897,6 +937,14 @@
       "onboard_time": 1718034379,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158002,
+      "num": 158002,
+      "word": "王星越黑历史再加一",
+      "onboard_time": 1718078418,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 157966,
@@ -937,14 +985,6 @@
       "onboard_time": 1718063117,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155116,
-      "num": 149262,
-      "word": "王星越黑历史再加一",
-      "onboard_time": 1718078418,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 155013,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1718036655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112259,
+      "num": 419774,
+      "word": "黑中介以高薪为诱饵骗取毕业生钱财",
+      "onboard_time": 1718077939,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112049,
@@ -1371,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66158,
-      "num": 419774,
-      "word": "黑中介以高薪为诱饵骗取毕业生钱财",
-      "onboard_time": 1718077939,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61799,
       "num": 61799,
       "word": "WWDC24演讲要点汇总",
@@ -1427,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43364,
+      "num": 425400,
+      "word": "随心买之后不能随心退",
+      "onboard_time": 1718080219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39627,
       "num": 39627,
       "word": "粽子cos",
@@ -1457,6 +1505,14 @@
       "onboard_time": 1718076257,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 28701,
+      "num": 153181,
+      "word": "邓超请15万人吃螺蛳粉",
+      "onboard_time": 1718080520,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 22598,
