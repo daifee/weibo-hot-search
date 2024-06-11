@@ -1,9 +1,9 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718119253299,
+  "endTime": 1718120075671,
   "band_list": [
     {
-      "raw_hot": 7126253,
+      "raw_hot": 7628595,
       "num": 8085630,
       "word": "国足晋级18强赛",
       "onboard_time": 1718116584,
@@ -523,6 +523,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 585771,
+      "num": 467578,
+      "word": "吴谨言 掌公主",
+      "onboard_time": 1718118321,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 585126,
       "num": 585126,
       "word": "中国女排3比0保加利亚女排",
@@ -667,14 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 467578,
-      "num": 467578,
-      "word": "吴谨言 掌公主",
-      "onboard_time": 1718118321,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 465732,
       "num": 465732,
       "word": "肃国公 已老实",
@@ -697,6 +697,14 @@
       "onboard_time": 1718089097,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 458734,
+      "num": 418800,
+      "word": "周杰伦因感冒药写了首歌",
+      "onboard_time": 1718118321,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 456468,
@@ -987,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 351889,
-      "num": 328206,
-      "word": "周杰伦因感冒药写了首歌",
-      "onboard_time": 1718118321,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 350102,
       "num": 350102,
       "word": "苹果市值一夜蒸发4213亿元",
@@ -1187,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 293448,
+      "num": 186267,
+      "word": "王大雷发声",
+      "onboard_time": 1718119160,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291553,
       "num": 265645,
       "word": "新版郭靖是封神杨戬",
@@ -1211,12 +1219,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286484,
+      "num": 242305,
+      "word": "登陆日",
+      "onboard_time": 1718119039,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284239,
       "num": 284239,
       "word": "吉林北山公园",
       "onboard_time": 1718082858,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 278785,
+      "num": 269704,
+      "word": "徐正溪工作室回应杀青照",
+      "onboard_time": 1718118501,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 278169,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1718050091,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269704,
-      "num": 269704,
-      "word": "徐正溪工作室回应杀青照",
-      "onboard_time": 1718118501,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 268408,
@@ -1368,6 +1384,14 @@
       "word": "刚毕业存了3万亲戚就来借钱",
       "onboard_time": 1718106079,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 249323,
+      "num": 241480,
+      "word": "女朋友视频从来不开摄像头",
+      "onboard_time": 1718115321,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -1523,22 +1547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213553,
-      "num": 213553,
-      "word": "女朋友视频从来不开摄像头",
-      "onboard_time": 1718115321,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 213379,
-      "num": 213379,
-      "word": "登陆日",
-      "onboard_time": 1718119039,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212149,
       "num": 212149,
       "word": "买二手房和买一手房区别",
@@ -1676,7 +1684,7 @@
     },
     {
       "raw_hot": 204344,
-      "num": 204344,
+      "num": 245777,
       "word": "拜合拉木真的硬",
       "onboard_time": 1718117962,
       "rank": 33,
@@ -2171,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167042,
-      "num": 167042,
-      "word": "王大雷发声",
-      "onboard_time": 1718119160,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166654,
       "num": 162275,
       "word": "别再一生气就搞断联了",
@@ -2241,6 +2241,14 @@
       "onboard_time": 1718086337,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162132,
+      "num": 148249,
+      "word": "孙楠再唱无名的人",
+      "onboard_time": 1718119640,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 160923,
@@ -2561,6 +2569,14 @@
       "onboard_time": 1718079739,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137955,
+      "num": 137955,
+      "word": "丸子头最好看的三种扎法",
+      "onboard_time": 1718119819,
+      "rank": 45,
+      "category": "美妆"
     },
     {
       "raw_hot": 137936,
