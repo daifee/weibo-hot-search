@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718098466916,
+  "endTime": 1718101276154,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 1424386,
-      "num": 327470,
+      "num": 372199,
       "word": "张凯毅张煜东结婚",
       "onboard_time": 1718091918,
       "rank": 10,
@@ -1668,7 +1668,7 @@
     },
     {
       "raw_hot": 1095096,
-      "num": 377493,
+      "num": 750160,
       "word": "仅1%的儿子知道爸爸的鞋码",
       "onboard_time": 1718095337,
       "rank": 3,
@@ -2699,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802226,
+      "num": 802226,
+      "word": "韩媒预计大批中国球迷赴韩助威",
+      "onboard_time": 1718096959,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 801416,
       "num": 701237,
       "word": "三大扛剧女王",
@@ -2812,7 +2820,7 @@
     },
     {
       "raw_hot": 781128,
-      "num": 318739,
+      "num": 357359,
       "word": "AppleID改名AppleAccount",
       "onboard_time": 1718092878,
       "rank": 12,
@@ -3451,6 +3459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707703,
+      "num": 707703,
+      "word": "黄亦玫官配",
+      "onboard_time": 1718096779,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 707612,
       "num": 707612,
       "word": "明朝状元试卷2460字无一涂改",
@@ -4019,6 +4035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 654218,
+      "num": 654218,
+      "word": "郭敬明和杨幂视频电话",
+      "onboard_time": 1718097498,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 653615,
       "num": 303903,
       "word": "男性感染HPV后大部分可能无症状",
@@ -4201,6 +4225,14 @@
       "onboard_time": 1717736481,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 636156,
+      "num": 395747,
+      "word": "边伯贤7.1w粉站子宣布闭站",
+      "onboard_time": 1718100079,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 635087,
@@ -5483,6 +5515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 524547,
+      "num": 524547,
+      "word": "韩国vs国足首发",
+      "onboard_time": 1718099238,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 524114,
       "num": 252727,
       "word": "失恋5个月后胖了40斤",
@@ -6411,6 +6451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466146,
+      "num": 466146,
+      "word": "甘肃地震",
+      "onboard_time": 1718098037,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465854,
       "num": 465854,
       "word": "关晓彤 这不是度假的节目吗",
@@ -7307,6 +7355,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 418716,
+      "num": 418716,
+      "word": "肃国公 已老实",
+      "onboard_time": 1718098758,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418701,
       "num": 418701,
       "word": "孙颖莎世排第一7700分",
@@ -7683,14 +7739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 401072,
-      "num": 299346,
-      "word": "郭敬明和杨幂视频电话",
-      "onboard_time": 1718097498,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 400862,
       "num": 400862,
       "word": "王楚钦3比2松岛辉空",
@@ -7929,14 +7977,6 @@
       "onboard_time": 1717895118,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 389372,
-      "num": 224943,
-      "word": "黄亦玫官配",
-      "onboard_time": 1718096779,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 388305,
@@ -10043,6 +10083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306299,
+      "num": 306299,
+      "word": "yuyanjia爆料老头杯奖金发礼物",
+      "onboard_time": 1718097078,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 306027,
       "num": 306027,
       "word": "墨雨云间疯子还得疯子磨",
@@ -10201,6 +10249,14 @@
       "onboard_time": 1717729519,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 302143,
+      "num": 302143,
+      "word": "阴阳师",
+      "onboard_time": 1718100017,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 301903,
@@ -10801,6 +10857,14 @@
       "onboard_time": 1717343718,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282820,
+      "num": 282820,
+      "word": "徐正溪建议工作室注销",
+      "onboard_time": 1718100557,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 282810,
@@ -11723,14 +11787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257969,
-      "num": 190903,
-      "word": "韩媒预计大批中国球迷赴韩助威",
-      "onboard_time": 1718096959,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257608,
       "num": 257608,
       "word": "只有萨顶顶才会买的东西",
@@ -12067,14 +12123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249861,
-      "num": 223699,
-      "word": "yuyanjia爆料老头杯奖金发礼物",
-      "onboard_time": 1718097078,
-      "rank": 22,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 249790,
       "num": 249790,
       "word": "这周只上4天班",
@@ -12393,6 +12441,14 @@
       "onboard_time": 1717751000,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240722,
+      "num": 240722,
+      "word": "娜扎掉进水里了",
+      "onboard_time": 1718099837,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 240593,
@@ -13507,6 +13563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218666,
+      "num": 218666,
+      "word": "真的不想再看柔弱女主了",
+      "onboard_time": 1718100618,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218662,
       "num": 218662,
       "word": "石人峡意外落水遇难领队系资深驴友",
@@ -13953,6 +14017,14 @@
       "onboard_time": 1717460118,
       "rank": 19,
       "category": "国内时政,科学科普"
+    },
+    {
+      "raw_hot": 211603,
+      "num": 211603,
+      "word": "SM新女团背影照",
+      "onboard_time": 1718100678,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 211371,
@@ -16499,6 +16571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187992,
+      "num": 187992,
+      "word": "新式神猫川",
+      "onboard_time": 1718100378,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187987,
       "num": 190540,
       "word": "孙颖莎3比0早田希娜",
@@ -16771,6 +16851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 185764,
+      "num": 185764,
+      "word": "俄罗斯护卫舰抵达美国海岸附近",
+      "onboard_time": 1718097678,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 185624,
       "num": 185624,
       "word": "陈乔恩吴谨言脸颊比心",
@@ -16793,14 +16881,6 @@
       "onboard_time": 1717647560,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185474,
-      "num": 185474,
-      "word": "俄罗斯护卫舰抵达美国海岸附近",
-      "onboard_time": 1718097678,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 185445,
@@ -17179,6 +17259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179928,
+      "num": 179928,
+      "word": "王星越叼玉佩戏拍了一周",
+      "onboard_time": 1718100258,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179865,
       "num": 179865,
       "word": "嫦娥六号在月球发了第一条微博",
@@ -17481,6 +17569,14 @@
       "onboard_time": 1717415478,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177370,
+      "num": 177370,
+      "word": "赤水丰隆没来但杨康来了",
+      "onboard_time": 1718098997,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 177317,
@@ -18851,14 +18947,6 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 164217,
-      "num": 164217,
-      "word": "甘肃地震",
-      "onboard_time": 1718098037,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164179,
       "num": 163488,
       "word": "那英唱哪首",
@@ -19737,6 +19825,14 @@
       "onboard_time": 1717671558,
       "rank": 33,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 156634,
+      "num": 156634,
+      "word": "张若昀父亲关联公司执照被吊销",
+      "onboard_time": 1718098937,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 156595,
@@ -22467,6 +22563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135183,
+      "num": 135183,
+      "word": "陈奕迅",
+      "onboard_time": 1718098637,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135159,
       "num": 135159,
       "word": "赵丽颖祝大家高考顺利",
@@ -22843,6 +22947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132244,
+      "num": 132244,
+      "word": "武磊中韩战替补",
+      "onboard_time": 1718099958,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132138,
       "num": 132138,
       "word": "孟子义血泪镜头",
@@ -23003,6 +23115,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 130574,
+      "num": 130574,
+      "word": "刘亦菲 流浪小三花",
+      "onboard_time": 1718098817,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130524,
       "num": 130524,
       "word": "原来眼睛也需要防晒",
@@ -23137,6 +23257,14 @@
       "onboard_time": 1717394898,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129408,
+      "num": 129408,
+      "word": "个人怎么买50年超长期特别国债",
+      "onboard_time": 1718100017,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 129354,
@@ -23769,6 +23897,14 @@
       "onboard_time": 1718088919,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124743,
+      "num": 124743,
+      "word": "汤唯 你的眼睛也很美",
+      "onboard_time": 1718100978,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 124729,
@@ -24433,6 +24569,14 @@
       "onboard_time": 1718010738,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119216,
+      "num": 119216,
+      "word": "猫川CG",
+      "onboard_time": 1718100978,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 119182,
@@ -28899,6 +29043,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 58185,
+      "num": 188342,
+      "word": "电子风还是吹到了时尚圈",
+      "onboard_time": 1718097858,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 58131,
       "num": 58131,
       "word": "18岁长女高考后妈生3胎弟弟",
@@ -29083,20 +29235,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 55230,
+      "num": 186547,
+      "word": "高校微博许愿池卷起来了",
+      "onboard_time": 1718099178,
+      "rank": 30,
+      "category": "教育,互联网"
+    },
+    {
       "raw_hot": 55219,
       "num": 55219,
       "word": "宋佳真空V领",
       "onboard_time": 1717798693,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 55195,
-      "num": 129377,
-      "word": "电子风还是吹到了时尚圈",
-      "onboard_time": 1718097858,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 54946,
@@ -29439,6 +29591,14 @@
       "num": 1419718,
       "word": "万千气象看广东",
       "onboard_time": 1717209377,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49873,
+      "num": 752874,
+      "word": "龙舟经济激发文旅消费新活力",
+      "onboard_time": 1718099658,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -30180,7 +30340,7 @@
     },
     {
       "raw_hot": 36835,
-      "num": 209356,
+      "num": 309129,
       "word": "比亚迪助力中国足球少年跑向世界",
       "onboard_time": 1718096717,
       "rank": 32,
@@ -30433,6 +30593,14 @@
       "onboard_time": 1717678218,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32730,
+      "num": 326610,
+      "word": "派出所民警上门表扬保洁阿姨拾金不昧",
+      "onboard_time": 1718098937,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32650,

@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718098466916,
+  "endTime": 1718101276154,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1424386,
-      "num": 327470,
+      "num": 372199,
       "word": "张凯毅张煜东结婚",
       "onboard_time": 1718091918,
       "rank": 10,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1095096,
-      "num": 377493,
+      "num": 750160,
       "word": "仅1%的儿子知道爸爸的鞋码",
       "onboard_time": 1718095337,
       "rank": 3,
@@ -563,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802226,
+      "num": 802226,
+      "word": "韩媒预计大批中国球迷赴韩助威",
+      "onboard_time": 1718096959,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 801416,
       "num": 701237,
       "word": "三大扛剧女王",
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 781128,
-      "num": 318739,
+      "num": 357359,
       "word": "AppleID改名AppleAccount",
       "onboard_time": 1718092878,
       "rank": 12,
@@ -737,6 +745,14 @@
       "onboard_time": 1718080760,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 707703,
+      "num": 707703,
+      "word": "黄亦玫官配",
+      "onboard_time": 1718096779,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 707612,
@@ -915,6 +931,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 654218,
+      "num": 654218,
+      "word": "郭敬明和杨幂视频电话",
+      "onboard_time": 1718097498,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 653587,
       "num": 628236,
       "word": "墨雨云间硬控台湾网友",
@@ -976,6 +1000,14 @@
       "word": "肖战 IF",
       "onboard_time": 1717903576,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 636156,
+      "num": 395747,
+      "word": "边伯贤7.1w粉站子宣布闭站",
+      "onboard_time": 1718100079,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1259,6 +1291,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 524547,
+      "num": 524547,
+      "word": "韩国vs国足首发",
+      "onboard_time": 1718099238,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 524114,
       "num": 252727,
       "word": "失恋5个月后胖了40斤",
@@ -1499,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466146,
+      "num": 466146,
+      "word": "甘肃地震",
+      "onboard_time": 1718098037,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465784,
       "num": 465784,
       "word": "曾舜晞16岁放弃offer进入娱乐圈",
@@ -1731,6 +1779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418716,
+      "num": 418716,
+      "word": "肃国公 已老实",
+      "onboard_time": 1718098758,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417159,
       "num": 417159,
       "word": "吉林",
@@ -1801,14 +1857,6 @@
       "onboard_time": 1717984698,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 401072,
-      "num": 299346,
-      "word": "郭敬明和杨幂视频电话",
-      "onboard_time": 1718097498,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 400262,
@@ -1905,14 +1953,6 @@
       "onboard_time": 1717895118,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 389372,
-      "num": 224943,
-      "word": "黄亦玫官配",
-      "onboard_time": 1718096779,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 388305,
@@ -2515,6 +2555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306299,
+      "num": 306299,
+      "word": "yuyanjia爆料老头杯奖金发礼物",
+      "onboard_time": 1718097078,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 304983,
       "num": 229495,
       "word": "婚前林更新婚后方协文",
@@ -2545,6 +2593,14 @@
       "onboard_time": 1717932317,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302143,
+      "num": 302143,
+      "word": "阴阳师",
+      "onboard_time": 1718100017,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 301102,
@@ -2665,6 +2721,14 @@
       "onboard_time": 1717928478,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282820,
+      "num": 282820,
+      "word": "徐正溪建议工作室注销",
+      "onboard_time": 1718100557,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 282159,
@@ -2915,14 +2979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 257969,
-      "num": 190903,
-      "word": "韩媒预计大批中国球迷赴韩助威",
-      "onboard_time": 1718096959,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 257341,
       "num": 257341,
       "word": "OMG",
@@ -3001,14 +3057,6 @@
       "onboard_time": 1718018179,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 249861,
-      "num": 223699,
-      "word": "yuyanjia爆料老头杯奖金发礼物",
-      "onboard_time": 1718097078,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 249790,
@@ -3112,6 +3160,14 @@
       "word": "丁真 你什么档次",
       "onboard_time": 1717916537,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 240722,
+      "num": 240722,
+      "word": "娜扎掉进水里了",
+      "onboard_time": 1718099837,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -3291,6 +3347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218666,
+      "num": 218666,
+      "word": "真的不想再看柔弱女主了",
+      "onboard_time": 1718100618,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217267,
       "num": 217267,
       "word": "山东地理",
@@ -3417,6 +3481,14 @@
       "onboard_time": 1718067677,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211603,
+      "num": 211603,
+      "word": "SM新女团背影照",
+      "onboard_time": 1718100678,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 211371,
@@ -4099,6 +4171,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 187992,
+      "num": 187992,
+      "word": "新式神猫川",
+      "onboard_time": 1718100378,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187814,
       "num": 183200,
       "word": "突然发现了求婚的意义",
@@ -4163,8 +4243,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 185474,
-      "num": 185474,
+      "raw_hot": 185764,
+      "num": 185764,
       "word": "俄罗斯护卫舰抵达美国海岸附近",
       "onboard_time": 1718097678,
       "rank": 36,
@@ -4323,6 +4403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179928,
+      "num": 179928,
+      "word": "王星越叼玉佩戏拍了一周",
+      "onboard_time": 1718100258,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179836,
       "num": 179836,
       "word": "梦之队",
@@ -4393,6 +4481,14 @@
       "onboard_time": 1717847357,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177370,
+      "num": 177370,
+      "word": "赤水丰隆没来但杨康来了",
+      "onboard_time": 1718098997,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 177078,
@@ -4707,14 +4803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 164217,
-      "num": 164217,
-      "word": "甘肃地震",
-      "onboard_time": 1718098037,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163981,
       "num": 166566,
       "word": "国足",
@@ -5001,6 +5089,14 @@
       "onboard_time": 1717841778,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 156634,
+      "num": 156634,
+      "word": "张若昀父亲关联公司执照被吊销",
+      "onboard_time": 1718098937,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 156561,
@@ -5699,6 +5795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135183,
+      "num": 135183,
+      "word": "陈奕迅",
+      "onboard_time": 1718098637,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135044,
       "num": 135044,
       "word": "为什么HR都要问老家是哪里的",
@@ -5827,6 +5931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132244,
+      "num": 132244,
+      "word": "武磊中韩战替补",
+      "onboard_time": 1718099958,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132138,
       "num": 132138,
       "word": "孟子义血泪镜头",
@@ -5867,6 +5979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130574,
+      "num": 130574,
+      "word": "刘亦菲 流浪小三花",
+      "onboard_time": 1718098817,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130461,
       "num": 130461,
       "word": "亲爹看娃被群众举报拐卖儿童",
@@ -5889,6 +6009,14 @@
       "onboard_time": 1718055612,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 129408,
+      "num": 129408,
+      "word": "个人怎么买50年超长期特别国债",
+      "onboard_time": 1718100017,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 129320,
@@ -6049,6 +6177,14 @@
       "onboard_time": 1718088919,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124743,
+      "num": 124743,
+      "word": "汤唯 你的眼睛也很美",
+      "onboard_time": 1718100978,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 124729,
@@ -6249,6 +6385,14 @@
       "onboard_time": 1718010738,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119216,
+      "num": 119216,
+      "word": "猫川CG",
+      "onboard_time": 1718100978,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 119182,
@@ -7379,6 +7523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 58185,
+      "num": 188342,
+      "word": "电子风还是吹到了时尚圈",
+      "onboard_time": 1718097858,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 57844,
       "num": 121675,
       "word": "朱一龙说人生大事带给他很多荣誉",
@@ -7443,12 +7595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55195,
-      "num": 129377,
-      "word": "电子风还是吹到了时尚圈",
-      "onboard_time": 1718097858,
-      "rank": 35,
-      "category": "时尚"
+      "raw_hot": 55230,
+      "num": 186547,
+      "word": "高校微博许愿池卷起来了",
+      "onboard_time": 1718099178,
+      "rank": 30,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 54824,
@@ -7535,6 +7687,14 @@
       "num": 464584,
       "word": "那些一眼惊艳的国潮非遗",
       "onboard_time": 1717854738,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49873,
+      "num": 752874,
+      "word": "龙舟经济激发文旅消费新活力",
+      "onboard_time": 1718099658,
       "rank": 2,
       "category": "社会新闻"
     },
@@ -7788,7 +7948,7 @@
     },
     {
       "raw_hot": 36835,
-      "num": 209356,
+      "num": 309129,
       "word": "比亚迪助力中国足球少年跑向世界",
       "onboard_time": 1718096717,
       "rank": 32,
@@ -7864,6 +8024,14 @@
       "word": "龙年端午看划龙舟名场面",
       "onboard_time": 1717921818,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32730,
+      "num": 326610,
+      "word": "派出所民警上门表扬保洁阿姨拾金不昧",
+      "onboard_time": 1718098937,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
