@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718102279695,
+  "endTime": 1718104649317,
   "band_list": [
     {
       "raw_hot": 2045623,
@@ -139,6 +139,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 884508,
+      "num": 884508,
+      "word": "闲鱼回应多用户未经本人允许挂售同事",
+      "onboard_time": 1718103078,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 881021,
       "num": 260650,
       "word": "刘亦菲是历史上首届金鹰女神",
@@ -227,12 +235,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 752911,
+      "num": 558461,
+      "word": "徐正溪建议工作室注销",
+      "onboard_time": 1718100557,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 751660,
       "num": 751660,
       "word": "蔡磊公布渐冻症诊断报告",
       "onboard_time": 1718063057,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741034,
+      "num": 741034,
+      "word": "韩国vs国足",
+      "onboard_time": 1718101878,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 732620,
@@ -347,11 +371,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558461,
-      "num": 558461,
-      "word": "徐正溪建议工作室注销",
-      "onboard_time": 1718100557,
-      "rank": 18,
+      "raw_hot": 551783,
+      "num": 551783,
+      "word": "莫让公益支教变成花钱买证",
+      "onboard_time": 1718094438,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551514,
+      "num": 327776,
+      "word": "金智媛刚出道被误认是外国人",
+      "onboard_time": 1718103619,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -427,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465732,
+      "num": 465732,
+      "word": "肃国公 已老实",
+      "onboard_time": 1718098758,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463741,
       "num": 463741,
       "word": "人民网评玫瑰的故事",
@@ -464,14 +504,6 @@
       "word": "赴山海官博掉粉",
       "onboard_time": 1718087717,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 443341,
-      "num": 443341,
-      "word": "肃国公 已老实",
-      "onboard_time": 1718098758,
-      "rank": 9,
       "category": "剧集"
     },
     {
@@ -723,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331259,
+      "num": 331259,
+      "word": "真的不想再看柔弱女主了",
+      "onboard_time": 1718100618,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 323324,
       "num": 268472,
       "word": "网曝女子带仓鼠上飞机导致延误1小时",
@@ -811,6 +851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 284643,
+      "num": 213580,
+      "word": "那英 小孩姐",
+      "onboard_time": 1718103738,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284239,
       "num": 284239,
       "word": "吉林北山公园",
@@ -825,14 +873,6 @@
       "onboard_time": 1718081479,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 275447,
-      "num": 275447,
-      "word": "真的不想再看柔弱女主了",
-      "onboard_time": 1718100618,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 272894,
@@ -955,12 +995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241387,
+      "num": 213340,
+      "word": "第一次见江疏影这么笑",
+      "onboard_time": 1718101459,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240722,
       "num": 240722,
       "word": "娜扎掉进水里了",
       "onboard_time": 1718099837,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238423,
+      "num": 238423,
+      "word": "吉林公安通报北山公园伤人案",
+      "onboard_time": 1718103138,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237307,
@@ -1027,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212149,
+      "num": 212149,
+      "word": "买二手房和买一手房区别",
+      "onboard_time": 1718102656,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211956,
       "num": 211956,
       "word": "方便面越来越跟不上年轻人了",
@@ -1081,6 +1145,14 @@
       "onboard_time": 1718075418,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207082,
+      "num": 207082,
+      "word": "徐正溪工作室",
+      "onboard_time": 1718102900,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 206594,
@@ -1227,6 +1299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192288,
+      "num": 192288,
+      "word": "巴黎香奈儿店遭4名悍匪驾车撞门洗劫",
+      "onboard_time": 1718099719,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191916,
       "num": 191916,
       "word": "iPad计算器",
@@ -1265,6 +1345,14 @@
       "onboard_time": 1718086158,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189632,
+      "num": 189632,
+      "word": "紫外线会惩罚每一个不防晒的人",
+      "onboard_time": 1718102477,
+      "rank": 29,
+      "category": "美妆"
     },
     {
       "raw_hot": 188734,
@@ -1331,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182132,
+      "num": 182132,
+      "word": "杨幂说爱会让人长出骨血",
+      "onboard_time": 1718103858,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182130,
       "num": 150740,
       "word": "吴谨言回应和王星越再合作",
@@ -1363,6 +1459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179935,
+      "num": 179935,
+      "word": "窦佳嫄从来没叫过窦唯爸爸",
+      "onboard_time": 1718102598,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179928,
       "num": 179928,
       "word": "王星越叼玉佩戏拍了一周",
@@ -1377,14 +1481,6 @@
       "onboard_time": 1718081298,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178736,
-      "num": 178736,
-      "word": "韩国vs国足",
-      "onboard_time": 1718101878,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 177957,
@@ -1465,6 +1561,22 @@
       "onboard_time": 1718062997,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168694,
+      "num": 168694,
+      "word": "还没毕业室友就退群了",
+      "onboard_time": 1718102900,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 168501,
+      "num": 168501,
+      "word": "韩国人创造所谓的韩式变脸",
+      "onboard_time": 1718103558,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166654,
@@ -1611,14 +1723,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 157332,
-      "num": 157332,
-      "word": "第一次见江疏影这么笑",
-      "onboard_time": 1718101459,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156634,
       "num": 156634,
       "word": "张若昀父亲关联公司执照被吊销",
@@ -1665,6 +1769,14 @@
       "onboard_time": 1718083338,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148896,
+      "num": 148896,
+      "word": "小猫一直扒拉的原因找到了",
+      "onboard_time": 1718104157,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 148800,
@@ -1755,11 +1867,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 141046,
-      "num": 141046,
-      "word": "巴黎香奈儿店遭4名悍匪驾车撞门洗劫",
-      "onboard_time": 1718099719,
-      "rank": 35,
+      "raw_hot": 140390,
+      "num": 140390,
+      "word": "福宝高清数毛照",
+      "onboard_time": 1718104037,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1881,6 +1993,14 @@
       "onboard_time": 1718071039,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133319,
+      "num": 133319,
+      "word": "闪光的夏天直播",
+      "onboard_time": 1718104157,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 132244,
@@ -2131,6 +2251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102867,
+      "num": 102867,
+      "word": "北京下雨",
+      "onboard_time": 1718104578,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101936,
       "num": 409686,
       "word": "这个端午110000000人次出游",
@@ -2203,20 +2331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97954,
-      "num": 237878,
-      "word": "莫让公益支教变成花钱买证",
-      "onboard_time": 1718097078,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96853,
       "num": 403763,
       "word": "读不喜欢的专业是一种怎样的体验",
       "onboard_time": 1718074817,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96036,
+      "num": 213582,
+      "word": "5名小学生捡到2岁小朋友交给特警",
+      "onboard_time": 1718102656,
+      "rank": 20,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 95980,
@@ -2521,6 +2649,14 @@
       "onboard_time": 1718098937,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32010,
+      "num": 209327,
+      "word": "长期开灯睡觉更易患上糖尿病",
+      "onboard_time": 1718104518,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 30044,
