@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718070133994,
+  "endTime": 1718073322548,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -379,6 +379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 864883,
+      "num": 864883,
+      "word": "iPhone15有五种充电上限了",
+      "onboard_time": 1718067198,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 863832,
       "num": 483573,
       "word": "男子火锅店强吻陌生女子被拘10天",
@@ -409,6 +417,14 @@
       "onboard_time": 1717988177,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814990,
+      "num": 814990,
+      "word": "两个弟弟考场外接姐姐不小心说实话了",
+      "onboard_time": 1718068518,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 807782,
@@ -713,14 +729,6 @@
       "onboard_time": 1718018477,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657420,
-      "num": 657420,
-      "word": "iPhone15有五种充电上限了",
-      "onboard_time": 1718067198,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 655084,
@@ -1099,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 507093,
+      "num": 256383,
+      "word": "千万别一边充电一边玩手机",
+      "onboard_time": 1718071217,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505255,
       "num": 505255,
       "word": "今年西瓜为什么便宜了",
@@ -1195,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476581,
+      "num": 476581,
+      "word": "娜扎吃饭中途给自己做高颅顶",
+      "onboard_time": 1718071159,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475274,
       "num": 443758,
       "word": "房贷还款先息后本火了",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1717949119,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456468,
+      "num": 456468,
+      "word": "肖战开屏",
+      "onboard_time": 1718061915,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 455655,
@@ -1419,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 423373,
-      "num": 423373,
-      "word": "肖战开屏",
-      "onboard_time": 1718061915,
-      "rank": 7,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 423108,
       "num": 396564,
       "word": "赵露思陈伟霆同框路透",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1717981817,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 398678,
+      "num": 398678,
+      "word": "A股",
+      "onboard_time": 1718070617,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 393476,
@@ -1691,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356888,
+      "num": 356888,
+      "word": "EXO冬专告吹",
+      "onboard_time": 1718070199,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 356527,
       "num": 277872,
       "word": "刘亦菲一出场我就恋爱了",
@@ -1721,6 +1761,14 @@
       "onboard_time": 1717918037,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350102,
+      "num": 350102,
+      "word": "苹果市值一夜蒸发4213亿元",
+      "onboard_time": 1718069837,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 349084,
@@ -2043,6 +2091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 306388,
+      "num": 306388,
+      "word": "王者新英雄元流之子",
+      "onboard_time": 1718068880,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 303198,
       "num": 303198,
       "word": "广东生物 写不完",
@@ -2065,6 +2121,14 @@
       "onboard_time": 1717932317,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 301966,
+      "num": 442991,
+      "word": "国外航天员将参与中国空间站飞行任务",
+      "onboard_time": 1718071938,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 301102,
@@ -2259,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270767,
+      "num": 270767,
+      "word": "福宝明天见",
+      "onboard_time": 1718071999,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269923,
       "num": 269923,
       "word": "于正 多看爽剧有益身心健康",
@@ -2379,6 +2451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255463,
+      "num": 255463,
+      "word": "吴谨言 女武一",
+      "onboard_time": 1718072477,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255404,
       "num": 225797,
       "word": "刘亦菲跳华尔兹好辣",
@@ -2393,6 +2473,14 @@
       "onboard_time": 1718006117,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 253947,
+      "num": 253947,
+      "word": "玫瑰的故事最会怼人的男人出现了",
+      "onboard_time": 1718071159,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 251768,
@@ -2417,14 +2505,6 @@
       "onboard_time": 1718031019,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 248916,
-      "num": 248916,
-      "word": "王者新英雄元流之子",
-      "onboard_time": 1718068880,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 247733,
@@ -2625,6 +2705,14 @@
       "onboard_time": 1717903517,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 220940,
+      "num": 220940,
+      "word": "Doinb回应头盔事件",
+      "onboard_time": 1718072296,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 219927,
@@ -2907,12 +2995,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205178,
+      "num": 205178,
+      "word": "一听就泪目的毕业BGM",
+      "onboard_time": 1718070677,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205132,
       "num": 205132,
       "word": "女生高考结束喜欢肖战想去重庆",
       "onboard_time": 1718024539,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 205078,
+      "num": 205078,
+      "word": "黄亦玫傅家明埋线",
+      "onboard_time": 1718072658,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 204596,
@@ -2961,6 +3065,14 @@
       "onboard_time": 1718022318,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202700,
+      "num": 202700,
+      "word": "蔡斌表示朱婷今晚必首发",
+      "onboard_time": 1718071637,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 202625,
@@ -3347,6 +3459,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186950,
+      "num": 186950,
+      "word": "智界R7",
+      "onboard_time": 1718072898,
+      "rank": 31,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 186766,
+      "num": 186766,
+      "word": "张雪峰称江苏大学不是211胜似211",
+      "onboard_time": 1718072777,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 186755,
       "num": 186755,
       "word": "KPL",
@@ -3523,14 +3651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177106,
-      "num": 177106,
-      "word": "苹果市值一夜蒸发4213亿元",
-      "onboard_time": 1718069837,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 177078,
       "num": 177078,
       "word": "陈雨菲女单夺冠",
@@ -3553,6 +3673,14 @@
       "onboard_time": 1717987458,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175900,
+      "num": 175900,
+      "word": "民政部通报儿慈会有关问题调查情况",
+      "onboard_time": 1718072418,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175881,
@@ -3731,6 +3859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165735,
+      "num": 165735,
+      "word": "iOS18终于有卫星短信功能了",
+      "onboard_time": 1718072418,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164815,
       "num": 164815,
       "word": "基德离间计",
@@ -3753,6 +3889,14 @@
       "onboard_time": 1717942699,
       "rank": 19,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 164483,
+      "num": 164483,
+      "word": "福宝终于要和大家见面了",
+      "onboard_time": 1718070438,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163981,
@@ -4267,6 +4411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145570,
+      "num": 125193,
+      "word": "刘亦菲哭戏",
+      "onboard_time": 1718072598,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145409,
       "num": 145409,
       "word": "年轻人喜欢熬夜的根本原因",
@@ -4297,6 +4449,14 @@
       "onboard_time": 1717845558,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 143390,
+      "num": 143390,
+      "word": "iOS18支持机型",
+      "onboard_time": 1718073077,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 143352,
@@ -4443,6 +4603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139950,
+      "num": 139950,
+      "word": "张百乔 我是真演的",
+      "onboard_time": 1718073257,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139619,
       "num": 139619,
       "word": "玫瑰的故事热辣滚炕",
@@ -4587,6 +4755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135187,
+      "num": 135187,
+      "word": "2024国际乒联第24周排名",
+      "onboard_time": 1718071817,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135044,
       "num": 135044,
       "word": "为什么HR都要问老家是哪里的",
@@ -4641,6 +4817,14 @@
       "onboard_time": 1717890616,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133989,
+      "num": 133989,
+      "word": "iPhone小部件尺寸可直接调整",
+      "onboard_time": 1718071039,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 133914,
@@ -4827,14 +5011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 127141,
-      "num": 484346,
-      "word": "两个弟弟考场外接姐姐不小心说实话了",
-      "onboard_time": 1718068518,
-      "rank": 10,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 126887,
       "num": 126887,
       "word": "应采儿说Jasper为了不上学装吐",
@@ -4881,6 +5057,14 @@
       "onboard_time": 1717994358,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125697,
+      "num": 125697,
+      "word": "苹果AI一夜颠覆所有",
+      "onboard_time": 1718072958,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 125694,
@@ -5801,6 +5985,14 @@
       "onboard_time": 1717854438,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80733,
+      "num": 257157,
+      "word": "爸爸成了我的旅游拍照搭子",
+      "onboard_time": 1718070498,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 80718,
