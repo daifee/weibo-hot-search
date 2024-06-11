@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718087947263,
+  "endTime": 1718090322751,
   "band_list": [
     {
       "raw_hot": 2045623,
@@ -25,6 +25,14 @@
       "onboard_time": 1718030599,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1343371,
+      "num": 1343371,
+      "word": "肖战王一博在泰国有多火",
+      "onboard_time": 1718088737,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1260817,
@@ -139,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 830978,
+      "num": 272127,
+      "word": "女子收货发现卫生裤上被写脏字",
+      "onboard_time": 1718085318,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 816363,
       "num": 816363,
       "word": "解放军起飞战机驱离荷兰舰载直升机",
@@ -195,14 +211,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 706029,
-      "num": 272127,
-      "word": "女子收货发现卫生裤上被写脏字",
-      "onboard_time": 1718085318,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 702659,
       "num": 702659,
       "word": "巴勒斯坦情侣在战火中举行婚礼",
@@ -217,6 +225,14 @@
       "onboard_time": 1718031559,
       "rank": 12,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 681334,
+      "num": 240751,
+      "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+      "onboard_time": 1718089698,
+      "rank": 11,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 676829,
@@ -267,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527366,
+      "num": 527366,
+      "word": "半年过去了 跟没过一样",
+      "onboard_time": 1718084119,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 515029,
       "num": 515029,
       "word": "陈奕迅重庆演唱会延期",
@@ -291,7 +315,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 501605,
+      "raw_hot": 505685,
       "num": 269116,
       "word": "那些晚婚晚育的人现在怎么样了",
       "onboard_time": 1718084778,
@@ -331,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 439432,
+      "num": 233348,
+      "word": "赴山海官博掉粉",
+      "onboard_time": 1718087717,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 437549,
       "num": 437549,
       "word": "张百乔 我是真演的",
@@ -344,6 +376,14 @@
       "word": "李承铉给离婚的爸妈订同一间房",
       "onboard_time": 1718007559,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 429307,
+      "num": 297887,
+      "word": "王俊凯到达长沙录hi6",
+      "onboard_time": 1718088318,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -393,6 +433,14 @@
       "onboard_time": 1718070617,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 398410,
+      "num": 398410,
+      "word": "女子称退租时房东带5人查房定损",
+      "onboard_time": 1718087898,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 373973,
@@ -473,14 +521,6 @@
       "onboard_time": 1718070199,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 354480,
-      "num": 354480,
-      "word": "半年过去了 跟没过一样",
-      "onboard_time": 1718084119,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 350102,
@@ -707,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248788,
+      "num": 248788,
+      "word": "高考 抽奖",
+      "onboard_time": 1718088737,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 247733,
       "num": 247733,
       "word": "成都巨响",
@@ -899,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200606,
+      "num": 153993,
+      "word": "月经期间如何正确清洗",
+      "onboard_time": 1718089097,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 199371,
       "num": 199371,
       "word": "智界R7",
@@ -912,6 +968,14 @@
       "word": "玫瑰的故事",
       "onboard_time": 1718067141,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196835,
+      "num": 196835,
+      "word": "佟大为 黄牡丹",
+      "onboard_time": 1718089878,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -953,14 +1017,6 @@
       "onboard_time": 1718028739,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 192124,
-      "num": 192124,
-      "word": "赴山海官博掉粉",
-      "onboard_time": 1718087717,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 191916,
@@ -1107,6 +1163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 166654,
+      "num": 151795,
+      "word": "别再一生气就搞断联了",
+      "onboard_time": 1718089158,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165824,
       "num": 165824,
       "word": "Gala回应幽梦",
@@ -1171,6 +1235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 159695,
+      "num": 159695,
+      "word": "东方甄选跌至10%",
+      "onboard_time": 1718087478,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 159154,
       "num": 159154,
       "word": "晋江 界面",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1718034379,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 159017,
+      "num": 159017,
+      "word": "食人菌侵袭日本还能去旅游吗",
+      "onboard_time": 1718085739,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158002,
@@ -1259,6 +1339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148792,
+      "num": 275014,
+      "word": "茅台批价持续下跌",
+      "onboard_time": 1718085799,
+      "rank": 9,
+      "category": "美食,财经"
+    },
+    {
       "raw_hot": 147607,
       "num": 147607,
       "word": "皇马",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1718061736,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142114,
+      "num": 142114,
+      "word": "长时间睡眠剥夺损伤大脑",
+      "onboard_time": 1718089817,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142092,
@@ -1379,6 +1475,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 134771,
+      "num": 134771,
+      "word": "林更新美甲哥",
+      "onboard_time": 1718089337,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134496,
       "num": 134496,
       "word": "好小众的情侣关系",
@@ -1427,6 +1531,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125431,
+      "num": 125431,
+      "word": "外公去世前就为我的高考订了花",
+      "onboard_time": 1718087238,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 124783,
+      "num": 124783,
+      "word": "黄亦玫年下不叫姐",
+      "onboard_time": 1718088919,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124318,
       "num": 124318,
       "word": "一诺刺绣黑西装",
@@ -1435,36 +1555,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122035,
-      "num": 122035,
-      "word": "外公去世前就为我的高考订了花",
-      "onboard_time": 1718087238,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120678,
       "num": 120678,
       "word": "沈月动漫少女",
       "onboard_time": 1718087059,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120474,
-      "num": 120474,
-      "word": "食人菌侵袭日本还能去旅游吗",
-      "onboard_time": 1718085739,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118036,
-      "num": 118036,
-      "word": "东方甄选跌至10%",
-      "onboard_time": 1718087478,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 117929,
@@ -1483,12 +1579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113261,
-      "num": 275014,
-      "word": "茅台批价持续下跌",
-      "onboard_time": 1718085799,
-      "rank": 9,
-      "category": "美食,财经"
+      "raw_hot": 112773,
+      "num": 253517,
+      "word": "如何培养孩子科学的睡眠习惯",
+      "onboard_time": 1718085739,
+      "rank": 10,
+      "category": "科学科普"
     },
     {
       "raw_hot": 112259,
@@ -1521,6 +1617,14 @@
       "onboard_time": 1718073857,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 108602,
+      "num": 108602,
+      "word": "穿这种颜色衣服的人最招蚊子",
+      "onboard_time": 1718088618,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 108466,
@@ -1619,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98046,
-      "num": 98046,
-      "word": "女子称退租时房东带5人查房定损",
-      "onboard_time": 1718087898,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 96853,
       "num": 403763,
       "word": "读不喜欢的专业是一种怎样的体验",
@@ -1659,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92717,
+      "num": 241949,
+      "word": "臭宝硬控我30秒",
+      "onboard_time": 1718086400,
+      "rank": 31,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 88790,
       "num": 88790,
       "word": "近视手术并不是一劳永逸",
@@ -1681,6 +1785,14 @@
       "onboard_time": 1718080520,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83438,
+      "num": 125065,
+      "word": "韩智库建议女孩提早入学以提高生育率",
+      "onboard_time": 1718089577,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82411,
@@ -1851,22 +1963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35819,
-      "num": 253517,
-      "word": "如何培养孩子科学的睡眠习惯",
-      "onboard_time": 1718085739,
-      "rank": 10,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 35445,
-      "num": 241949,
-      "word": "臭宝硬控我30秒",
-      "onboard_time": 1718086400,
-      "rank": 31,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 30044,
       "num": 226266,
       "word": "有清华学霸爷爷送考高考绝对错不了",
@@ -1881,6 +1977,14 @@
       "onboard_time": 1718076257,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26755,
+      "num": 248264,
+      "word": "麦客夫妻留守家乡为全村爱心收麦",
+      "onboard_time": 1718089458,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22598,

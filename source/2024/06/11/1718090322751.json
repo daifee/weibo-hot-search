@@ -1,0 +1,410 @@
+{
+  "runTime": 1718090322751,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1343371,
+        "num": 1343371,
+        "word": "肖战王一博在泰国有多火",
+        "onboard_time": 1718088737,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 527366,
+        "num": 527366,
+        "word": "半年过去了 跟没过一样",
+        "onboard_time": 1718084119,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7039,
+        "num": 406807,
+        "word": "两岸同胞的端午之约",
+        "onboard_time": 1718028561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 711071,
+        "num": 403604,
+        "word": "陈奕迅受伤缝合30多针",
+        "onboard_time": 1718076018,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 398410,
+        "num": 398410,
+        "word": "女子称退租时房东带5人查房定损",
+        "onboard_time": 1718087898,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337482,
+        "num": 337482,
+        "word": "解放军起飞战机驱离荷兰舰载直升机",
+        "onboard_time": 1718081359,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 429307,
+        "num": 297887,
+        "word": "王俊凯到达长沙录hi6",
+        "onboard_time": 1718088318,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341460,
+        "num": 283654,
+        "word": "张新成 导演",
+        "onboard_time": 1718078118,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248788,
+        "num": 248788,
+        "word": "高考 抽奖",
+        "onboard_time": 1718088737,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 26755,
+        "num": 248264,
+        "word": "麦客夫妻留守家乡为全村爱心收麦",
+        "onboard_time": 1718089458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830978,
+        "num": 245264,
+        "word": "女子收货发现卫生裤上被写脏字",
+        "onboard_time": 1718085318,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681334,
+        "num": 240751,
+        "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+        "onboard_time": 1718089698,
+        "rank": 11,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 505685,
+        "num": 238590,
+        "word": "那些晚婚晚育的人现在怎么样了",
+        "onboard_time": 1718084778,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439432,
+        "num": 233348,
+        "word": "赴山海官博掉粉",
+        "onboard_time": 1718087717,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315876,
+        "num": 232893,
+        "word": "墨雨云间女主终于有家了",
+        "onboard_time": 1718085318,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314607,
+        "num": 228801,
+        "word": "苹果 安卓味",
+        "onboard_time": 1718079139,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 285542,
+        "num": 223761,
+        "word": "凤凰传奇演唱会三城官宣",
+        "onboard_time": 1718086819,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223410,
+        "num": 223410,
+        "word": "iPhone新增防晕车功能",
+        "onboard_time": 1718083158,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92717,
+        "num": 201576,
+        "word": "臭宝硬控我30秒",
+        "onboard_time": 1718086400,
+        "rank": 18,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 199262,
+        "num": 199262,
+        "word": "王楚宣布退役",
+        "onboard_time": 1718080760,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382753,
+        "num": 198287,
+        "word": "乌干达一女子生下44个孩子",
+        "onboard_time": 1718082500,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267298,
+        "num": 198045,
+        "word": "刘亦菲是历史上首届金鹰女神",
+        "onboard_time": 1718082918,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204285,
+        "num": 197964,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196835,
+        "num": 196835,
+        "word": "佟大为 黄牡丹",
+        "onboard_time": 1718089878,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192917,
+        "num": 192917,
+        "word": "林更新36岁演学生",
+        "onboard_time": 1718082918,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180498,
+        "num": 180498,
+        "word": "千万别一边充电一边玩手机",
+        "onboard_time": 1718071217,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171361,
+        "num": 171361,
+        "word": "陈奕迅腮骨骨裂",
+        "onboard_time": 1718078659,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167428,
+        "num": 167428,
+        "word": "苹果AI仅支持两款iPhone",
+        "onboard_time": 1718083577,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159695,
+        "num": 159695,
+        "word": "东方甄选跌至10%",
+        "onboard_time": 1718087478,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159017,
+        "num": 159017,
+        "word": "食人菌侵袭日本还能去旅游吗",
+        "onboard_time": 1718085739,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331383,
+        "num": 154269,
+        "word": "王星越半裸戏没清场",
+        "onboard_time": 1718086219,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200606,
+        "num": 153993,
+        "word": "月经期间如何正确清洗",
+        "onboard_time": 1718089097,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 166654,
+        "num": 151795,
+        "word": "别再一生气就搞断联了",
+        "onboard_time": 1718089158,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148792,
+        "num": 148792,
+        "word": "茅台批价持续下跌",
+        "onboard_time": 1718085799,
+        "rank": 33,
+        "category": "美食,财经"
+      },
+      {
+        "raw_hot": 147176,
+        "num": 147176,
+        "word": "刘亦菲演技",
+        "onboard_time": 1718066780,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145702,
+        "num": 145702,
+        "word": "新版郭靖是封神杨戬",
+        "onboard_time": 1718085438,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142215,
+        "num": 142215,
+        "word": "考前是太子 考后是弃子",
+        "onboard_time": 1718077458,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142114,
+        "num": 142114,
+        "word": "长时间睡眠剥夺损伤大脑",
+        "onboard_time": 1718089817,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138813,
+        "num": 138813,
+        "word": "欧美开始流行笨手机",
+        "onboard_time": 1718083158,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134771,
+        "num": 134771,
+        "word": "林更新美甲哥",
+        "onboard_time": 1718089337,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128254,
+        "num": 128254,
+        "word": "林孝埈被授予国际级运动健将",
+        "onboard_time": 1718082680,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125431,
+        "num": 125431,
+        "word": "外公去世前就为我的高考订了花",
+        "onboard_time": 1718087238,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83438,
+        "num": 125065,
+        "word": "韩智库建议女孩提早入学以提高生育率",
+        "onboard_time": 1718089577,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124783,
+        "num": 124783,
+        "word": "黄亦玫年下不叫姐",
+        "onboard_time": 1718088919,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114566,
+        "num": 114566,
+        "word": "doc和docx有什么区别",
+        "onboard_time": 1718064799,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112773,
+        "num": 112773,
+        "word": "如何培养孩子科学的睡眠习惯",
+        "onboard_time": 1718085739,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109893,
+        "num": 109893,
+        "word": "坏消息假期结束好消息只上4天",
+        "onboard_time": 1718073436,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109077,
+        "num": 109077,
+        "word": "肖战工作室新注册商标",
+        "onboard_time": 1718086158,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108602,
+        "num": 108602,
+        "word": "穿这种颜色衣服的人最招蚊子",
+        "onboard_time": 1718088618,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 104993,
+        "num": 104993,
+        "word": "蜜雪冰城客服回应员工在水池洗脚",
+        "onboard_time": 1718073317,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}
