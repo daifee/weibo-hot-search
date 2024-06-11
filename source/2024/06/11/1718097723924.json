@@ -1,0 +1,410 @@
+{
+  "runTime": 1718097723924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1601161,
+        "num": 1601161,
+        "word": "大凉山支教7天费用上万",
+        "onboard_time": 1718094438,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435240,
+        "num": 435240,
+        "word": "TF家族一代二代同台",
+        "onboard_time": 1718095038,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45941,
+        "num": 390598,
+        "word": "龙舟何以在全球多国乘风破浪",
+        "onboard_time": 1718075958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070524,
+        "num": 377493,
+        "word": "仅1%的儿子知道爸爸的鞋码",
+        "onboard_time": 1718095337,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 625250,
+        "num": 371972,
+        "word": "肖战王一博在泰国有多火",
+        "onboard_time": 1718088737,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360138,
+        "num": 360138,
+        "word": "国足今晚打平就能晋级",
+        "onboard_time": 1718092218,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319896,
+        "num": 319896,
+        "word": "沈月接受了自己的身高",
+        "onboard_time": 1718092037,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309363,
+        "num": 309363,
+        "word": "陈奕迅受伤缝合30多针",
+        "onboard_time": 1718076018,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238488,
+        "num": 238488,
+        "word": "解放军起飞战机驱离荷兰舰载直升机",
+        "onboard_time": 1718081359,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 97954,
+        "num": 237878,
+        "word": "莫让公益支教变成花钱买证",
+        "onboard_time": 1718097078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1236433,
+        "num": 237275,
+        "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+        "onboard_time": 1718089698,
+        "rank": 10,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 931804,
+        "num": 236254,
+        "word": "张凯毅张煜东结婚",
+        "onboard_time": 1718091918,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 669220,
+        "num": 234377,
+        "word": "AppleID改名AppleAccount",
+        "onboard_time": 1718092878,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 427530,
+        "num": 233768,
+        "word": "女子收货发现卫生裤上被写脏字",
+        "onboard_time": 1718085318,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17028,
+        "num": 232533,
+        "word": "众星祝贺辛纳首登世界第一",
+        "onboard_time": 1718096417,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393646,
+        "num": 231171,
+        "word": "女子称退租时房东带5人查房定损",
+        "onboard_time": 1718087898,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292680,
+        "num": 231088,
+        "word": "那些晚婚晚育的人现在怎么样了",
+        "onboard_time": 1718084778,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282801,
+        "num": 229495,
+        "word": "婚前林更新婚后方协文",
+        "onboard_time": 1718094798,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263989,
+        "num": 228131,
+        "word": "赴山海官博掉粉",
+        "onboard_time": 1718087717,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261869,
+        "num": 227293,
+        "word": "王星越 买断ok",
+        "onboard_time": 1718095999,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298778,
+        "num": 226596,
+        "word": "乌干达一女子生下44个孩子",
+        "onboard_time": 1718082500,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259838,
+        "num": 224943,
+        "word": "黄亦玫官配",
+        "onboard_time": 1718096779,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249861,
+        "num": 223699,
+        "word": "yuyanjia爆料老头杯奖金发礼物",
+        "onboard_time": 1718097078,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223692,
+        "num": 223692,
+        "word": "张新成 导演",
+        "onboard_time": 1718078118,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193500,
+        "num": 193500,
+        "word": "警方通报旅客带宠物蜜袋鼯上飞机",
+        "onboard_time": 1718095038,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185996,
+        "num": 185996,
+        "word": "王星越耳别小雏菊",
+        "onboard_time": 1718096897,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174475,
+        "num": 174475,
+        "word": "月经期间如何正确清洗",
+        "onboard_time": 1718089097,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 174294,
+        "num": 174294,
+        "word": "墨雨云间女主终于有家了",
+        "onboard_time": 1718085318,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173263,
+        "num": 173263,
+        "word": "阿勒泰民宿已订到七月底",
+        "onboard_time": 1718095938,
+        "rank": 28,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 169482,
+        "num": 169482,
+        "word": "郭敬明和杨幂视频电话",
+        "onboard_time": 1718097498,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166786,
+        "num": 166786,
+        "word": "郭麒麟一不小心优秀了一下",
+        "onboard_time": 1718097258,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159432,
+        "num": 159432,
+        "word": "韩媒预计大批中国球迷赴韩助威",
+        "onboard_time": 1718096959,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36835,
+        "num": 142542,
+        "word": "比亚迪助力中国足球少年跑向世界",
+        "onboard_time": 1718096717,
+        "rank": 32,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 29072,
+        "num": 141055,
+        "word": "淘宝回应摇猫参赛",
+        "onboard_time": 1718093958,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139859,
+        "num": 139859,
+        "word": "马立奥拆线",
+        "onboard_time": 1718097438,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138820,
+        "num": 138820,
+        "word": "半年过去了 跟没过一样",
+        "onboard_time": 1718084119,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137603,
+        "num": 137603,
+        "word": "俄罗斯护卫舰抵达美国海岸附近",
+        "onboard_time": 1718097678,
+        "rank": 36,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 134423,
+        "num": 134423,
+        "word": "彭冠英自嘲年龄很尴尬",
+        "onboard_time": 1718094977,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132138,
+        "num": 132138,
+        "word": "孟子义血泪镜头",
+        "onboard_time": 1718096537,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123318,
+        "num": 123318,
+        "word": "吴谨言回应和王星越再合作",
+        "onboard_time": 1718093719,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119806,
+        "num": 119806,
+        "word": "iPhone新增防晕车功能",
+        "onboard_time": 1718083158,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118849,
+        "num": 118849,
+        "word": "第一次在狗的脸上看到无语",
+        "onboard_time": 1718091918,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117661,
+        "num": 117661,
+        "word": "董宇辉说更多是俞敏洪在帮助他",
+        "onboard_time": 1718095878,
+        "rank": 42,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 117061,
+        "num": 117061,
+        "word": "佟大为 黄牡丹",
+        "onboard_time": 1718089878,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117364,
+        "num": 115987,
+        "word": "王星越一切远景就呲个大牙笑",
+        "onboard_time": 1718093238,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114829,
+        "num": 114829,
+        "word": "苹果 安卓味",
+        "onboard_time": 1718079139,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114274,
+        "num": 114274,
+        "word": "赴山海领衔主演",
+        "onboard_time": 1718095637,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114222,
+        "num": 114222,
+        "word": "国足主帅说我们不是来韩国郊游的",
+        "onboard_time": 1718096179,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110821,
+        "num": 110821,
+        "word": "刘亦菲是历史上首届金鹰女神",
+        "onboard_time": 1718082918,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98499,
+        "num": 98499,
+        "word": "23日起多省份可查高考成绩",
+        "onboard_time": 1718092818,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718095063566,
+  "endTime": 1718097723924,
   "band_list": [
     {
       "raw_hot": 2045623,
@@ -25,6 +25,14 @@
       "onboard_time": 1718064799,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1601161,
+      "num": 1601161,
+      "word": "大凉山支教7天费用上万",
+      "onboard_time": 1718094438,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1503435,
@@ -81,6 +89,14 @@
       "onboard_time": 1718071217,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1070524,
+      "num": 377493,
+      "word": "仅1%的儿子知道爸爸的鞋码",
+      "onboard_time": 1718095337,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1060619,
@@ -411,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435240,
+      "num": 435240,
+      "word": "TF家族一代二代同台",
+      "onboard_time": 1718095038,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429307,
       "num": 367699,
       "word": "王俊凯到达长沙录hi6",
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 360138,
+      "num": 360138,
+      "word": "国足今晚打平就能晋级",
+      "onboard_time": 1718092218,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359413,
       "num": 442991,
       "word": "国外航天员将参与中国空间站飞行任务",
@@ -659,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 292680,
-      "num": 292680,
-      "word": "国足今晚打平就能晋级",
-      "onboard_time": 1718092218,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291553,
       "num": 265645,
       "word": "新版郭靖是封神杨戬",
@@ -689,6 +713,14 @@
       "onboard_time": 1718082858,
       "rank": 32,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 282801,
+      "num": 229495,
+      "word": "婚前林更新婚后方协文",
+      "onboard_time": 1718094798,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 277228,
@@ -739,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261869,
+      "num": 227293,
+      "word": "王星越 买断ok",
+      "onboard_time": 1718095999,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 260911,
       "num": 225571,
       "word": "离职后又回原公司上班去了",
@@ -771,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259838,
+      "num": 224943,
+      "word": "黄亦玫官配",
+      "onboard_time": 1718096779,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256039,
       "num": 256039,
       "word": "光与夜之恋",
@@ -793,6 +841,14 @@
       "onboard_time": 1718071159,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249861,
+      "num": 223699,
+      "word": "yuyanjia爆料老头杯奖金发礼物",
+      "onboard_time": 1718097078,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 249069,
@@ -1035,11 +1091,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193481,
-      "num": 223463,
-      "word": "大凉山支教7天费用上万",
-      "onboard_time": 1718094438,
-      "rank": 9,
+      "raw_hot": 193500,
+      "num": 193500,
+      "word": "警方通报旅客带宠物蜜袋鼯上飞机",
+      "onboard_time": 1718095038,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1099,14 +1155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190964,
-      "num": 190964,
-      "word": "TF家族一代二代同台",
-      "onboard_time": 1718095038,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190528,
       "num": 190528,
       "word": "肖战工作室新注册商标",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1718083757,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185996,
+      "num": 185996,
+      "word": "王星越耳别小雏菊",
+      "onboard_time": 1718096897,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 184638,
@@ -1227,6 +1283,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173263,
+      "num": 173263,
+      "word": "阿勒泰民宿已订到七月底",
+      "onboard_time": 1718095938,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 171435,
       "num": 171435,
       "word": "这周只上4天班",
@@ -1243,12 +1307,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169482,
+      "num": 169482,
+      "word": "郭敬明和杨幂视频电话",
+      "onboard_time": 1718097498,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168982,
       "num": 168982,
       "word": "第一次知道破伤风的症状",
       "onboard_time": 1718062997,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166786,
+      "num": 166786,
+      "word": "郭麒麟一不小心优秀了一下",
+      "onboard_time": 1718097258,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 166654,
@@ -1337,6 +1417,14 @@
       "onboard_time": 1718087478,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 159432,
+      "num": 159432,
+      "word": "韩媒预计大批中国球迷赴韩助威",
+      "onboard_time": 1718096959,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 159154,
@@ -1523,6 +1611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139859,
+      "num": 139859,
+      "word": "马立奥拆线",
+      "onboard_time": 1718097438,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138537,
       "num": 138537,
       "word": "桔桔的花园",
@@ -1537,6 +1633,14 @@
       "onboard_time": 1718072958,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 137603,
+      "num": 137603,
+      "word": "俄罗斯护卫舰抵达美国海岸附近",
+      "onboard_time": 1718097678,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 137070,
@@ -1603,12 +1707,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134423,
+      "num": 134423,
+      "word": "彭冠英自嘲年龄很尴尬",
+      "onboard_time": 1718094977,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133989,
       "num": 133989,
       "word": "iPhone小部件尺寸可直接调整",
       "onboard_time": 1718071039,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 132138,
+      "num": 132138,
+      "word": "孟子义血泪镜头",
+      "onboard_time": 1718096537,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 131722,
@@ -1659,14 +1779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124136,
-      "num": 124136,
-      "word": "婚前林更新婚后方协文",
-      "onboard_time": 1718094798,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120678,
       "num": 120678,
       "word": "沈月动漫少女",
@@ -1681,6 +1793,14 @@
       "onboard_time": 1718023037,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117661,
+      "num": 117661,
+      "word": "董宇辉说更多是俞敏洪在帮助他",
+      "onboard_time": 1718095878,
+      "rank": 42,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 116147,
@@ -1713,6 +1833,22 @@
       "onboard_time": 1718094617,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 114274,
+      "num": 114274,
+      "word": "赴山海领衔主演",
+      "onboard_time": 1718095637,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114222,
+      "num": 114222,
+      "word": "国足主帅说我们不是来韩国郊游的",
+      "onboard_time": 1718096179,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 112773,
@@ -1779,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105045,
-      "num": 105045,
-      "word": "彭冠英自嘲年龄很尴尬",
-      "onboard_time": 1718094977,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104417,
       "num": 104417,
       "word": "周深打不过就加入",
@@ -1801,14 +1929,6 @@
       "onboard_time": 1718086819,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102103,
-      "num": 102103,
-      "word": "警方通报旅客带宠物蜜袋鼯上飞机",
-      "onboard_time": 1718095038,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101936,
@@ -1881,6 +2001,14 @@
       "onboard_time": 1718024418,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97954,
+      "num": 237878,
+      "word": "莫让公益支教变成花钱买证",
+      "onboard_time": 1718097078,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96853,
@@ -2116,7 +2244,7 @@
     },
     {
       "raw_hot": 45161,
-      "num": 137529,
+      "num": 141055,
       "word": "淘宝回应摇猫参赛",
       "onboard_time": 1718093958,
       "rank": 41,
@@ -2137,6 +2265,14 @@
       "onboard_time": 1718018179,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36835,
+      "num": 142542,
+      "word": "比亚迪助力中国足球少年跑向世界",
+      "onboard_time": 1718096717,
+      "rank": 32,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 30044,
@@ -2193,6 +2329,14 @@
       "onboard_time": 1718047451,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17028,
+      "num": 232533,
+      "word": "众星祝贺辛纳首登世界第一",
+      "onboard_time": 1718096417,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 16731,
