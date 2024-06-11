@@ -1,7 +1,15 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718116545648,
+  "endTime": 1718119253299,
   "band_list": [
+    {
+      "raw_hot": 7126253,
+      "num": 8085630,
+      "word": "国足晋级18强赛",
+      "onboard_time": 1718116584,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 6547480,
       "num": 6547480,
@@ -323,6 +331,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 764260,
+      "num": 764260,
+      "word": "孙兴慜回应做3比0手势",
+      "onboard_time": 1718116523,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 751660,
       "num": 751660,
       "word": "蔡磊公布渐冻症诊断报告",
@@ -427,6 +443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 673988,
+      "num": 673988,
+      "word": "国足出线",
+      "onboard_time": 1718116584,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 667973,
       "num": 667973,
       "word": "新加坡进球了",
@@ -473,6 +497,14 @@
       "onboard_time": 1718107399,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 594578,
+      "num": 594578,
+      "word": "新加坡门将",
+      "onboard_time": 1718117301,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 594113,
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 502632,
+      "num": 339270,
+      "word": "一直不知道床单是要勤换的",
+      "onboard_time": 1718115561,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 488636,
       "num": 488636,
       "word": "甘肃地震",
@@ -625,6 +665,14 @@
       "onboard_time": 1718115920,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467578,
+      "num": 467578,
+      "word": "吴谨言 掌公主",
+      "onboard_time": 1718118321,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 465732,
@@ -675,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441332,
+      "num": 441332,
+      "word": "新西兰女子携带人类心脏入境澳大利亚",
+      "onboard_time": 1718117241,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438071,
       "num": 438071,
       "word": "陈奕迅需暂停讲话及进食48小时",
@@ -705,6 +761,14 @@
       "onboard_time": 1718095038,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429867,
+      "num": 429867,
+      "word": "王星越直播",
+      "onboard_time": 1718117782,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 429307,
@@ -923,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351889,
+      "num": 328206,
+      "word": "周杰伦因感冒药写了首歌",
+      "onboard_time": 1718118321,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350102,
       "num": 350102,
       "word": "苹果市值一夜蒸发4213亿元",
@@ -1019,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322602,
+      "num": 322602,
+      "word": "不要被男生身上肥皂香味蛊惑",
+      "onboard_time": 1718114899,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 318284,
       "num": 318284,
       "word": "yuyanjia爆料老头杯奖金发礼物",
@@ -1041,6 +1121,14 @@
       "onboard_time": 1718065999,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 310384,
+      "num": 310384,
+      "word": "王俊凯下班",
+      "onboard_time": 1718116405,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 309380,
@@ -1083,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 300666,
-      "num": 300666,
-      "word": "不要被男生身上肥皂香味蛊惑",
-      "onboard_time": 1718114899,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 298806,
       "num": 266580,
       "word": "苹果AI仅支持两款iPhone",
@@ -1105,14 +1185,6 @@
       "onboard_time": 1718012658,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 293491,
-      "num": 293491,
-      "word": "一直不知道床单是要勤换的",
-      "onboard_time": 1718115561,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 291553,
@@ -1177,6 +1249,14 @@
       "onboard_time": 1718050091,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269704,
+      "num": 269704,
+      "word": "徐正溪工作室回应杀青照",
+      "onboard_time": 1718118501,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 268408,
@@ -1339,6 +1419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238674,
+      "num": 238674,
+      "word": "200多块钱买的投影仪",
+      "onboard_time": 1718116941,
+      "rank": 28,
+      "category": "情感,数码"
+    },
+    {
       "raw_hot": 238423,
       "num": 238423,
       "word": "吉林公安通报北山公园伤人案",
@@ -1433,6 +1521,22 @@
       "onboard_time": 1718101938,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213553,
+      "num": 213553,
+      "word": "女朋友视频从来不开摄像头",
+      "onboard_time": 1718115321,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 213379,
+      "num": 213379,
+      "word": "登陆日",
+      "onboard_time": 1718119039,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 212149,
@@ -1571,6 +1675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204344,
+      "num": 204344,
+      "word": "拜合拉木真的硬",
+      "onboard_time": 1718117962,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204335,
       "num": 204335,
       "word": "原来爱豆是可以喊回来安可的",
@@ -1617,6 +1729,14 @@
       "onboard_time": 1718067141,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196279,
+      "num": 196279,
+      "word": "黄健翔祝贺国足晋级",
+      "onboard_time": 1718118561,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 196104,
@@ -1731,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191202,
+      "num": 191202,
+      "word": "泰国队3比1战胜新加坡队",
+      "onboard_time": 1718118080,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190528,
       "num": 190528,
       "word": "肖战工作室新注册商标",
@@ -1779,14 +1907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185886,
-      "num": 185886,
-      "word": "王俊凯下班",
-      "onboard_time": 1718116405,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 185764,
       "num": 185764,
       "word": "俄罗斯护卫舰抵达美国海岸附近",
@@ -1809,6 +1929,14 @@
       "onboard_time": 1718080219,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183662,
+      "num": 183662,
+      "word": "初会成绩 出不出",
+      "onboard_time": 1718118380,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 183626,
@@ -1971,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174502,
-      "num": 174502,
-      "word": "女朋友视频从来不开摄像头",
-      "onboard_time": 1718115321,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174345,
       "num": 174345,
       "word": "王大雷抹泪",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1718111239,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167042,
+      "num": 167042,
+      "word": "王大雷发声",
+      "onboard_time": 1718119160,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 166654,
@@ -2275,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150357,
+      "num": 150357,
+      "word": "新加坡救了国足",
+      "onboard_time": 1718117722,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148896,
       "num": 148896,
       "word": "小猫一直扒拉的原因找到了",
@@ -2449,14 +2585,6 @@
       "onboard_time": 1718087238,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137017,
-      "num": 137017,
-      "word": "孙兴慜回应做3比0手势",
-      "onboard_time": 1718116523,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 136471,
@@ -2915,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97407,
+      "num": 183686,
+      "word": "女子下一站把小baby平安还给了妈妈",
+      "onboard_time": 1718117061,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96853,
       "num": 403763,
       "word": "读不喜欢的专业是一种怎样的体验",
@@ -3137,6 +3273,14 @@
       "onboard_time": 1717999397,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 60764,
+      "num": 595905,
+      "word": "高考完突然长大了",
+      "onboard_time": 1718118920,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 59584,
@@ -3377,6 +3521,9 @@
     },
     {
       "word": "#立足中国大地讲好中华文明故事#"
+    },
+    {
+      "word": "#中央全面深化改革委员会第五次会议#"
     }
   ]
 }

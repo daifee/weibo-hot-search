@@ -1,0 +1,410 @@
+{
+  "runTime": 1718119253299,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7126253,
+        "num": 8085630,
+        "word": "国足晋级18强赛",
+        "onboard_time": 1718116584,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 918794,
+        "num": 918794,
+        "word": "泰国vs新加坡",
+        "onboard_time": 1718108599,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129263,
+        "num": 881344,
+        "word": "大数据看端午假期出行",
+        "onboard_time": 1718114539,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 878602,
+        "num": 878602,
+        "word": "刘亦菲为了气我真是什么戏都接",
+        "onboard_time": 1718112020,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 764260,
+        "num": 764260,
+        "word": "孙兴慜回应做3比0手势",
+        "onboard_time": 1718116523,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717073,
+        "num": 717073,
+        "word": "韩国vs国足",
+        "onboard_time": 1718101878,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 681398,
+        "num": 681398,
+        "word": "王星越壁纸",
+        "onboard_time": 1718111000,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 676688,
+        "num": 676688,
+        "word": "已经72小时34分钟没抱你了",
+        "onboard_time": 1718114840,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673988,
+        "num": 673988,
+        "word": "国足出线",
+        "onboard_time": 1718116584,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60764,
+        "num": 595905,
+        "word": "高考完突然长大了",
+        "onboard_time": 1718118920,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 767225,
+        "num": 595609,
+        "word": "女员工因担心走光上班打伞遭开除",
+        "onboard_time": 1718104818,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594578,
+        "num": 594578,
+        "word": "新加坡门将",
+        "onboard_time": 1718117301,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485046,
+        "num": 485046,
+        "word": "刘亦菲一年一句出圈名台词",
+        "onboard_time": 1718104698,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467578,
+        "num": 467578,
+        "word": "吴谨言 掌公主",
+        "onboard_time": 1718118321,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460964,
+        "num": 460964,
+        "word": "狐妖月红篇be大结局",
+        "onboard_time": 1718111901,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460142,
+        "num": 460142,
+        "word": "国足0比1不敌韩国队",
+        "onboard_time": 1718111000,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441332,
+        "num": 441332,
+        "word": "新西兰女子携带人类心脏入境澳大利亚",
+        "onboard_time": 1718117241,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429867,
+        "num": 429867,
+        "word": "王星越直播",
+        "onboard_time": 1718117782,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387213,
+        "num": 387213,
+        "word": "王俊凯翻牌",
+        "onboard_time": 1718115920,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346320,
+        "num": 346320,
+        "word": "国足还有出线可能",
+        "onboard_time": 1718111779,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 502632,
+        "num": 339270,
+        "word": "一直不知道床单是要勤换的",
+        "onboard_time": 1718115561,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 400823,
+        "num": 331667,
+        "word": "成都一年轻女子在家被捅伤致死",
+        "onboard_time": 1718104757,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 351889,
+        "num": 328206,
+        "word": "周杰伦因感冒药写了首歌",
+        "onboard_time": 1718118321,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322602,
+        "num": 322602,
+        "word": "不要被男生身上肥皂香味蛊惑",
+        "onboard_time": 1718114899,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310384,
+        "num": 310384,
+        "word": "王俊凯下班",
+        "onboard_time": 1718116405,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270346,
+        "num": 270346,
+        "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+        "onboard_time": 1718089698,
+        "rank": 25,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 269704,
+        "num": 269704,
+        "word": "徐正溪工作室回应杀青照",
+        "onboard_time": 1718118501,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240699,
+        "num": 240699,
+        "word": "孙楠是瘦子",
+        "onboard_time": 1718113640,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238674,
+        "num": 238674,
+        "word": "200多块钱买的投影仪",
+        "onboard_time": 1718116941,
+        "rank": 28,
+        "category": "情感,数码"
+      },
+      {
+        "raw_hot": 226793,
+        "num": 226793,
+        "word": "国足今晚变了",
+        "onboard_time": 1718108238,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213553,
+        "num": 213553,
+        "word": "女朋友视频从来不开摄像头",
+        "onboard_time": 1718115321,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213379,
+        "num": 213379,
+        "word": "登陆日",
+        "onboard_time": 1718119039,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210191,
+        "num": 210191,
+        "word": "张杰看谢娜的眼睛里有光",
+        "onboard_time": 1718115140,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204344,
+        "num": 204344,
+        "word": "拜合拉木真的硬",
+        "onboard_time": 1718117962,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196279,
+        "num": 196279,
+        "word": "黄健翔祝贺国足晋级",
+        "onboard_time": 1718118561,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195273,
+        "num": 195273,
+        "word": "陈奕迅需暂停讲话及进食48小时",
+        "onboard_time": 1718111180,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191202,
+        "num": 191202,
+        "word": "泰国队3比1战胜新加坡队",
+        "onboard_time": 1718118080,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190723,
+        "num": 190723,
+        "word": "中国女排3比0保加利亚女排",
+        "onboard_time": 1718113819,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189698,
+        "num": 189698,
+        "word": "国足出线形势分析图",
+        "onboard_time": 1718113879,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184008,
+        "num": 184008,
+        "word": "苏醒 国足近期踢的最好的一个半场",
+        "onboard_time": 1718111420,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 97407,
+        "num": 183686,
+        "word": "女子下一站把小baby平安还给了妈妈",
+        "onboard_time": 1718117061,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183662,
+        "num": 183662,
+        "word": "初会成绩 出不出",
+        "onboard_time": 1718118380,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177013,
+        "num": 177013,
+        "word": "王大雷 门神",
+        "onboard_time": 1718110219,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167042,
+        "num": 167042,
+        "word": "王大雷发声",
+        "onboard_time": 1718119160,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161497,
+        "num": 161497,
+        "word": "外交部回应吉林北山公园伤人案",
+        "onboard_time": 1718114659,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158943,
+        "num": 158943,
+        "word": "萧蘅 国服小乔",
+        "onboard_time": 1718113401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157247,
+        "num": 157247,
+        "word": "金钟国自曝曾被骗10亿韩元",
+        "onboard_time": 1718106258,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156329,
+        "num": 156329,
+        "word": "长期开灯睡觉更易患上糖尿病",
+        "onboard_time": 1718104518,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150357,
+        "num": 150357,
+        "word": "新加坡救了国足",
+        "onboard_time": 1718117722,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150044,
+        "num": 150044,
+        "word": "闲鱼回应多用户未经本人允许挂售同事",
+        "onboard_time": 1718103078,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第五次会议#"
+    }
+  }
+}
