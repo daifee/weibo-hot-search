@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718076088762,
+  "endTime": 1718076935795,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -9,6 +9,14 @@
       "onboard_time": 1718030599,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1979700,
+      "num": 1979700,
+      "word": "陈奕迅受伤缝合30多针",
+      "onboard_time": 1718076018,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1946381,
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 975757,
+      "num": 733369,
+      "word": "张雪峰称江苏大学不是211胜似211",
+      "onboard_time": 1718072777,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 965405,
       "num": 965405,
       "word": "吃个粽子跑8000米才能消耗掉",
@@ -553,14 +569,6 @@
       "onboard_time": 1718030239,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 733369,
-      "num": 733369,
-      "word": "张雪峰称江苏大学不是211胜似211",
-      "onboard_time": 1718072777,
-      "rank": 32,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 724850,
@@ -915,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 591818,
+      "num": 591818,
+      "word": "坏消息假期结束好消息只上4天",
+      "onboard_time": 1718073436,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 585880,
       "num": 164805,
       "word": "因为熬夜长了带状疱疹",
@@ -1107,6 +1123,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 515029,
+      "num": 515029,
+      "word": "陈奕迅重庆演唱会延期",
+      "onboard_time": 1718076018,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 514255,
       "num": 445327,
       "word": "内娱颤抖吧十几个初生要来了",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1717905797,
       "rank": 17,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 499459,
-      "num": 499459,
-      "word": "坏消息假期结束好消息只上4天",
-      "onboard_time": 1718073436,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497751,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1717933877,
       "rank": 20,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 477967,
+      "num": 477967,
+      "word": "桑延装醉",
+      "onboard_time": 1718074937,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 477226,
@@ -1667,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 373220,
-      "num": 373220,
-      "word": "陈奕迅受伤缝合30多针",
-      "onboard_time": 1718076018,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 372394,
       "num": 372394,
       "word": "以军直升机直接向人群开火现场成地狱",
@@ -1745,6 +1761,14 @@
       "onboard_time": 1717908498,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 359413,
+      "num": 442991,
+      "word": "国外航天员将参与中国空间站飞行任务",
+      "onboard_time": 1718071938,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 358647,
@@ -1979,14 +2003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327326,
-      "num": 442991,
-      "word": "国外航天员将参与中国空间站飞行任务",
-      "onboard_time": 1718071938,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 326913,
       "num": 326913,
       "word": "高考生催更墨雨云间",
@@ -2211,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296559,
+      "num": 296559,
+      "word": "彭冠英23岁到37岁荧幕蜕变",
+      "onboard_time": 1718075117,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296502,
       "num": 296502,
       "word": "高圆圆赵又廷参加好友婚礼",
@@ -2256,14 +2280,6 @@
       "word": "你俩能不能莫名其妙亲一个",
       "onboard_time": 1718027599,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 289317,
-      "num": 289317,
-      "word": "桑延装醉",
-      "onboard_time": 1718074937,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -2395,14 +2411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269150,
-      "num": 269150,
-      "word": "彭冠英23岁到37岁荧幕蜕变",
-      "onboard_time": 1718075117,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268955,
       "num": 241649,
       "word": "女孩骑车被卷入大车车底不幸身亡",
@@ -2459,14 +2467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 265472,
-      "num": 265472,
-      "word": "陈奕迅重庆演唱会延期",
-      "onboard_time": 1718076018,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 262733,
       "num": 198262,
       "word": "张艺兴带女团唱Psychic",
@@ -2489,6 +2489,14 @@
       "onboard_time": 1718059513,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 260282,
+      "num": 260282,
+      "word": "魔兽世界",
+      "onboard_time": 1718075598,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 260227,
@@ -2792,6 +2800,14 @@
       "word": "高考完想出去玩妈妈说家里就剩两百",
       "onboard_time": 1717903517,
       "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 222797,
+      "num": 222797,
+      "word": "生孩子到底难在哪",
+      "onboard_time": 1718075898,
+      "rank": 46,
       "category": "情感"
     },
     {
@@ -3259,6 +3275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200578,
+      "num": 200578,
+      "word": "湖南卫视618晚会定档",
+      "onboard_time": 1718075898,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200303,
       "num": 200303,
       "word": "九尾双开门队服",
@@ -3481,6 +3505,14 @@
       "onboard_time": 1718074098,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191604,
+      "num": 191604,
+      "word": "王星越商务",
+      "onboard_time": 1718076498,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 191064,
@@ -3707,6 +3739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180419,
+      "num": 180419,
+      "word": "电影落凡尘定档",
+      "onboard_time": 1718076078,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179836,
       "num": 179836,
       "word": "梦之队",
@@ -3817,6 +3857,14 @@
       "onboard_time": 1717995798,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175666,
+      "num": 175666,
+      "word": "原神4.7版本",
+      "onboard_time": 1717916659,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 175253,
@@ -3937,14 +3985,6 @@
       "onboard_time": 1718021237,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 168047,
-      "num": 168047,
-      "word": "魔兽世界",
-      "onboard_time": 1718075598,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 167538,
@@ -4211,6 +4251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157789,
+      "num": 157789,
+      "word": "魔兽世界国服开启删档技术测试",
+      "onboard_time": 1718075717,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157745,
       "num": 157745,
       "word": "马斯克回应苹果OpenAI合作",
@@ -4435,14 +4483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149354,
-      "num": 149354,
-      "word": "生孩子到底难在哪",
-      "onboard_time": 1718075898,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 148717,
       "num": 148717,
       "word": "端午假期国内出游1.1亿人次",
@@ -4577,14 +4617,6 @@
       "onboard_time": 1717932377,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144905,
-      "num": 144905,
-      "word": "原神4.7版本",
-      "onboard_time": 1717916659,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 144715,
@@ -4908,7 +4940,7 @@
     },
     {
       "raw_hot": 134824,
-      "num": 304614,
+      "num": 737228,
       "word": "两岸同胞的端午之约",
       "onboard_time": 1718028561,
       "rank": 9,
@@ -5899,6 +5931,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 96853,
+      "num": 403763,
+      "word": "读不喜欢的专业是一种怎样的体验",
+      "onboard_time": 1718074817,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 95980,
       "num": 981831,
       "word": "龙舟经济火爆",
@@ -6475,14 +6515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 51900,
-      "num": 403763,
-      "word": "读不喜欢的专业是一种怎样的体验",
-      "onboard_time": 1718074817,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 51523,
       "num": 292528,
       "word": "大熊猫像极了假期瘫在家的我",
@@ -6897,6 +6929,14 @@
       "onboard_time": 1717927878,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 28751,
+      "num": 201409,
+      "word": "谁还没收到淘宝摇猫短信",
+      "onboard_time": 1718076257,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 28206,
