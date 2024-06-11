@@ -1,6 +1,6 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718087171703,
+  "endTime": 1718087947263,
   "band_list": [
     {
       "raw_hot": 2045623,
@@ -83,7 +83,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 953514,
+      "raw_hot": 973363,
       "num": 273507,
       "word": "臭宝",
       "onboard_time": 1718083638,
@@ -195,6 +195,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 706029,
+      "num": 272127,
+      "word": "女子收货发现卫生裤上被写脏字",
+      "onboard_time": 1718085318,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702659,
       "num": 702659,
       "word": "巴勒斯坦情侣在战火中举行婚礼",
@@ -225,14 +233,6 @@
       "onboard_time": 1718078659,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 648306,
-      "num": 272127,
-      "word": "女子收货发现卫生裤上被写脏字",
-      "onboard_time": 1718085318,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 648299,
@@ -283,6 +283,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 512412,
+      "num": 185742,
+      "word": "王星越半裸戏没清场",
+      "onboard_time": 1718086219,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 501605,
+      "num": 269116,
+      "word": "那些晚婚晚育的人现在怎么样了",
+      "onboard_time": 1718084778,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 477967,
       "num": 477967,
       "word": "桑延装醉",
@@ -313,14 +329,6 @@
       "onboard_time": 1718065220,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 444393,
-      "num": 269116,
-      "word": "那些晚婚晚育的人现在怎么样了",
-      "onboard_time": 1718084778,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 437549,
@@ -395,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373331,
-      "num": 183858,
-      "word": "王星越半裸戏没清场",
-      "onboard_time": 1718086219,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 370654,
       "num": 370654,
       "word": "今年西瓜为什么便宜了",
@@ -425,6 +425,14 @@
       "onboard_time": 1718028919,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364477,
+      "num": 267845,
+      "word": "言承旭自曝和仇人上节目",
+      "onboard_time": 1718086337,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 363236,
@@ -467,6 +475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 354480,
+      "num": 354480,
+      "word": "半年过去了 跟没过一样",
+      "onboard_time": 1718084119,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 350102,
       "num": 350102,
       "word": "苹果市值一夜蒸发4213亿元",
@@ -505,14 +521,6 @@
       "onboard_time": 1718082680,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325246,
-      "num": 325246,
-      "word": "半年过去了 跟没过一样",
-      "onboard_time": 1718084119,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 323324,
@@ -555,14 +563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 306315,
-      "num": 267845,
-      "word": "言承旭自曝和仇人上节目",
-      "onboard_time": 1718086337,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 298806,
       "num": 266580,
       "word": "苹果AI仅支持两款iPhone",
@@ -585,6 +585,14 @@
       "onboard_time": 1718085438,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288875,
+      "num": 265057,
+      "word": "凤凰传奇演唱会三城官宣",
+      "onboard_time": 1718086819,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 284239,
@@ -625,14 +633,6 @@
       "onboard_time": 1718080700,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265057,
-      "num": 265057,
-      "word": "凤凰传奇演唱会三城官宣",
-      "onboard_time": 1718086819,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 264159,
@@ -803,6 +803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 209201,
+      "num": 209201,
+      "word": "欧美开始流行笨手机",
+      "onboard_time": 1718083158,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207909,
       "num": 207909,
       "word": "苹果官宣ChatGPT集成于全系统生态",
@@ -915,20 +923,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 195364,
-      "num": 195364,
-      "word": "欧美开始流行笨手机",
-      "onboard_time": 1718083158,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 194129,
       "num": 194129,
       "word": "第4批预备航天员选拔完成",
       "onboard_time": 1718069359,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 193371,
+      "num": 193371,
+      "word": "苹果AI",
+      "onboard_time": 1718087358,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 193027,
@@ -945,6 +953,14 @@
       "onboard_time": 1718028739,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 192124,
+      "num": 192124,
+      "word": "赴山海官博掉粉",
+      "onboard_time": 1718087717,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 191916,
@@ -1419,6 +1435,38 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122035,
+      "num": 122035,
+      "word": "外公去世前就为我的高考订了花",
+      "onboard_time": 1718087238,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 120678,
+      "num": 120678,
+      "word": "沈月动漫少女",
+      "onboard_time": 1718087059,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120474,
+      "num": 120474,
+      "word": "食人菌侵袭日本还能去旅游吗",
+      "onboard_time": 1718085739,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118036,
+      "num": 118036,
+      "word": "东方甄选跌至10%",
+      "onboard_time": 1718087478,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117929,
       "num": 117929,
       "word": "Angelababy汉服少女",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1718036655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113261,
+      "num": 275014,
+      "word": "茅台批价持续下跌",
+      "onboard_time": 1718085799,
+      "rank": 9,
+      "category": "美食,财经"
     },
     {
       "raw_hot": 112259,
@@ -1473,14 +1529,6 @@
       "onboard_time": 1718061194,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 106103,
-      "num": 106103,
-      "word": "沈月动漫少女",
-      "onboard_time": 1718087059,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 105816,
@@ -1531,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101413,
+      "num": 101413,
+      "word": "NCT127八周年粉丝见面会",
+      "onboard_time": 1718087177,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100801,
       "num": 100801,
       "word": "张艺兴一口气发了12首新歌试听",
@@ -1561,6 +1617,14 @@
       "onboard_time": 1718024418,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98046,
+      "num": 98046,
+      "word": "女子称退租时房东带5人查房定损",
+      "onboard_time": 1718087898,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96853,
@@ -1691,14 +1755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73173,
-      "num": 275014,
-      "word": "茅台批价持续下跌",
-      "onboard_time": 1718085799,
-      "rank": 9,
-      "category": "美食,财经"
-    },
-    {
       "raw_hot": 72453,
       "num": 72453,
       "word": "庄国栋下线",
@@ -1795,6 +1851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35819,
+      "num": 253517,
+      "word": "如何培养孩子科学的睡眠习惯",
+      "onboard_time": 1718085739,
+      "rank": 10,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 35445,
+      "num": 241949,
+      "word": "臭宝硬控我30秒",
+      "onboard_time": 1718086400,
+      "rank": 31,
+      "category": "艺人,美食"
+    },
+    {
       "raw_hot": 30044,
       "num": 226266,
       "word": "有清华学霸爷爷送考高考绝对错不了",
@@ -1817,14 +1889,6 @@
       "onboard_time": 1718075418,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22278,
-      "num": 170512,
-      "word": "臭宝硬控我30秒",
-      "onboard_time": 1718086400,
-      "rank": 31,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 19190,
