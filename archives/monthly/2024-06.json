@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718130399674,
+  "endTime": 1718131132251,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -27019,6 +27019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106679,
+      "num": 95869,
+      "word": "黑龙江一医生被举报出轨患者",
+      "onboard_time": 1718127493,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106583,
       "num": 106583,
       "word": "多特蒙德0比2皇马",
@@ -27963,14 +27971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95869,
-      "num": 95869,
-      "word": "黑龙江一医生被举报出轨患者",
-      "onboard_time": 1718127493,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 95813,
       "num": 95813,
       "word": "属于海洋的璀璨星空",
@@ -28545,6 +28545,14 @@
       "onboard_time": 1717847056,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 83143,
+      "num": 83143,
+      "word": "王星越到底在爽什么",
+      "onboard_time": 1718127793,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 83060,
@@ -29209,14 +29217,6 @@
       "onboard_time": 1717332440,
       "rank": 13,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 71397,
-      "num": 40186,
-      "word": "王星越到底在爽什么",
-      "onboard_time": 1718127793,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 71337,
@@ -32819,7 +32819,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9579,
+      "raw_hot": 9693,
       "num": 1443878,
       "word": "航拍视角看三夏时节麦收忙",
       "onboard_time": 1718112739,
