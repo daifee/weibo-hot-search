@@ -1,0 +1,410 @@
+{
+  "runTime": 1718109394282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2772881,
+        "num": 2772881,
+        "word": "韩国vs国足",
+        "onboard_time": 1718101878,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1768535,
+        "num": 1768535,
+        "word": "孙兴慜挑衅",
+        "onboard_time": 1718106979,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35743,
+        "num": 1571856,
+        "word": "龙舟经济激发文旅消费新活力",
+        "onboard_time": 1718099658,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1376163,
+        "num": 1376163,
+        "word": "女员工因担心走光上班打伞遭开除",
+        "onboard_time": 1718104818,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773890,
+        "num": 773890,
+        "word": "刘亦菲一年一句出圈名台词",
+        "onboard_time": 1718104698,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 712702,
+        "num": 712702,
+        "word": "金智媛刚出道被误认是外国人",
+        "onboard_time": 1718103619,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612853,
+        "num": 612853,
+        "word": "猫眼 放票",
+        "onboard_time": 1718107399,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 551275,
+        "num": 551275,
+        "word": "北京下雨",
+        "onboard_time": 1718104578,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499761,
+        "num": 499761,
+        "word": "泰国vs新加坡",
+        "onboard_time": 1718108599,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55235,
+        "num": 487995,
+        "word": "海南绿化带里结满莲雾多到吃不完",
+        "onboard_time": 1718108298,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 485353,
+        "num": 485353,
+        "word": "闲鱼回应多用户未经本人允许挂售同事",
+        "onboard_time": 1718103078,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 478328,
+        "num": 478328,
+        "word": "金钟国自曝曾被骗10亿韩元",
+        "onboard_time": 1718106258,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405462,
+        "num": 405462,
+        "word": "徐正溪建议工作室注销",
+        "onboard_time": 1718100557,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399101,
+        "num": 399101,
+        "word": "那英 小孩姐",
+        "onboard_time": 1718103738,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396020,
+        "num": 396020,
+        "word": "国足今晚变了",
+        "onboard_time": 1718108238,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388512,
+        "num": 388512,
+        "word": "国足 防守",
+        "onboard_time": 1718105719,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386518,
+        "num": 386518,
+        "word": "孙兴慜做3比0手势",
+        "onboard_time": 1718107339,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376103,
+        "num": 376103,
+        "word": "杨幂 艺人最重要的是社会影响力",
+        "onboard_time": 1718105359,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 356408,
+        "num": 356408,
+        "word": "中国女排vs保加利亚女排",
+        "onboard_time": 1718107459,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331836,
+        "num": 331836,
+        "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+        "onboard_time": 1718089698,
+        "rank": 19,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 327280,
+        "num": 327280,
+        "word": "仅1%的儿子知道爸爸的鞋码",
+        "onboard_time": 1718095337,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310440,
+        "num": 310440,
+        "word": "歌手",
+        "onboard_time": 1718104938,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301520,
+        "num": 301520,
+        "word": "AppleID改名AppleAccount",
+        "onboard_time": 1718092878,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289957,
+        "num": 289957,
+        "word": "腾讯暑假排播",
+        "onboard_time": 1718108839,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287430,
+        "num": 287430,
+        "word": "鸣潮",
+        "onboard_time": 1718108178,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283992,
+        "num": 283992,
+        "word": "黄亦玫官配",
+        "onboard_time": 1718096779,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270113,
+        "num": 270113,
+        "word": "肃国公 已老实",
+        "onboard_time": 1718098758,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251195,
+        "num": 251195,
+        "word": "边伯贤7.1w粉站子宣布闭站",
+        "onboard_time": 1718100079,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250129,
+        "num": 250129,
+        "word": "成都一年轻女子在家被捅伤致死",
+        "onboard_time": 1718104757,
+        "rank": 28,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 196958,
+        "num": 249668,
+        "word": "韩媒预计大批中国球迷赴韩助威",
+        "onboard_time": 1718096959,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249487,
+        "num": 249487,
+        "word": "刚毕业存了3万亲戚就来借钱",
+        "onboard_time": 1718106079,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229026,
+        "num": 229026,
+        "word": "白蚁",
+        "onboard_time": 1718108658,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212970,
+        "num": 212970,
+        "word": "刘亦菲淡黄的长裙蓬松的头发",
+        "onboard_time": 1718108479,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196104,
+        "num": 196104,
+        "word": "徐正溪",
+        "onboard_time": 1718105418,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 192042,
+        "num": 192042,
+        "word": "庄国栋到底爱不爱黄亦玫",
+        "onboard_time": 1718107879,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182700,
+        "num": 182700,
+        "word": "王源二开",
+        "onboard_time": 1718107998,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173225,
+        "num": 173225,
+        "word": "肖战王一博在泰国有多火",
+        "onboard_time": 1718088737,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169703,
+        "num": 169703,
+        "word": "长期开灯睡觉更易患上糖尿病",
+        "onboard_time": 1718104518,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157018,
+        "num": 157018,
+        "word": "福宝",
+        "onboard_time": 1718098698,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156145,
+        "num": 156145,
+        "word": "capper瘦了好多",
+        "onboard_time": 1718108117,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148462,
+        "num": 148462,
+        "word": "真的不想再看柔弱女主了",
+        "onboard_time": 1718100618,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142638,
+        "num": 142638,
+        "word": "赴山海官博掉粉",
+        "onboard_time": 1718087717,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140783,
+        "num": 140783,
+        "word": "世界杯",
+        "onboard_time": 1718107099,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131779,
+        "num": 131779,
+        "word": "福宝高清数毛照",
+        "onboard_time": 1718104037,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118126,
+        "num": 118126,
+        "word": "甘肃地震",
+        "onboard_time": 1718098037,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116198,
+        "num": 116198,
+        "word": "买二手房和买一手房区别",
+        "onboard_time": 1718102656,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113605,
+        "num": 113605,
+        "word": "韩国人创造所谓的韩式变脸",
+        "onboard_time": 1718103558,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113463,
+        "num": 113463,
+        "word": "赴山海",
+        "onboard_time": 1718109378,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100968,
+        "num": 100968,
+        "word": "竟然敢让王星越读这段",
+        "onboard_time": 1718109378,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100910,
+        "num": 100910,
+        "word": "想谈系艺人",
+        "onboard_time": 1718106919,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}

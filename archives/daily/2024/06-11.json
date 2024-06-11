@@ -1,7 +1,15 @@
 {
   "startTime": 1718036674204,
-  "endTime": 1718105683490,
+  "endTime": 1718109394282,
   "band_list": [
+    {
+      "raw_hot": 2772881,
+      "num": 2772881,
+      "word": "韩国vs国足",
+      "onboard_time": 1718101878,
+      "rank": 26,
+      "category": "体育"
+    },
     {
       "raw_hot": 2045623,
       "num": 2045623,
@@ -9,6 +17,14 @@
       "onboard_time": 1718076018,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1768535,
+      "num": 1768535,
+      "word": "孙兴慜挑衅",
+      "onboard_time": 1718106979,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1731053,
@@ -59,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1376163,
+      "num": 1376163,
+      "word": "女员工因担心走光上班打伞遭开除",
+      "onboard_time": 1718104818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1260817,
       "num": 827551,
       "word": "张新成 导演",
@@ -81,14 +105,6 @@
       "onboard_time": 1718032040,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1184933,
-      "num": 1184933,
-      "word": "韩国vs国足",
-      "onboard_time": 1718101878,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 1138410,
@@ -259,6 +275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 773890,
+      "num": 773890,
+      "word": "刘亦菲一年一句出圈名台词",
+      "onboard_time": 1718104698,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 751660,
       "num": 751660,
       "word": "蔡磊公布渐冻症诊断报告",
@@ -276,7 +300,7 @@
     },
     {
       "raw_hot": 720801,
-      "num": 388725,
+      "num": 712702,
       "word": "金智媛刚出道被误认是外国人",
       "onboard_time": 1718103619,
       "rank": 13,
@@ -371,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 612853,
+      "num": 612853,
+      "word": "猫眼 放票",
+      "onboard_time": 1718107399,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 585880,
       "num": 164805,
       "word": "因为熬夜长了带状疱疹",
@@ -459,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499761,
+      "num": 499761,
+      "word": "泰国vs新加坡",
+      "onboard_time": 1718108599,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 488636,
       "num": 488636,
       "word": "甘肃地震",
       "onboard_time": 1718098037,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 478328,
+      "num": 478328,
+      "word": "金钟国自曝曾被骗10亿韩元",
+      "onboard_time": 1718106258,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 477967,
@@ -579,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 409513,
-      "num": 359832,
-      "word": "女员工因担心走光上班打伞遭开除",
-      "onboard_time": 1718104818,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406307,
       "num": 295649,
       "word": "96年28岁其实挺小的",
@@ -609,6 +649,38 @@
       "onboard_time": 1718070617,
       "rank": 11,
       "category": "财经"
+    },
+    {
+      "raw_hot": 396020,
+      "num": 396020,
+      "word": "国足今晚变了",
+      "onboard_time": 1718108238,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 388512,
+      "num": 388512,
+      "word": "国足 防守",
+      "onboard_time": 1718105719,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 386518,
+      "num": 386518,
+      "word": "孙兴慜做3比0手势",
+      "onboard_time": 1718107339,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 376103,
+      "num": 376103,
+      "word": "杨幂 艺人最重要的是社会影响力",
+      "onboard_time": 1718105359,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 373973,
@@ -699,20 +771,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 357609,
-      "num": 357609,
-      "word": "刘亦菲一年一句出圈名台词",
-      "onboard_time": 1718104698,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 356888,
       "num": 356888,
       "word": "EXO冬专告吹",
       "onboard_time": 1718070199,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 356408,
+      "num": 356408,
+      "word": "中国女排vs保加利亚女排",
+      "onboard_time": 1718107459,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 350102,
@@ -827,6 +899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310440,
+      "num": 310440,
+      "word": "歌手",
+      "onboard_time": 1718104938,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308082,
       "num": 308082,
       "word": "福宝明天见",
@@ -875,12 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289957,
+      "num": 289957,
+      "word": "腾讯暑假排播",
+      "onboard_time": 1718108839,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288875,
       "num": 271346,
       "word": "凤凰传奇演唱会三城官宣",
       "onboard_time": 1718086819,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 287430,
+      "num": 287430,
+      "word": "鸣潮",
+      "onboard_time": 1718108178,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 284239,
@@ -995,6 +1091,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250129,
+      "num": 250129,
+      "word": "成都一年轻女子在家被捅伤致死",
+      "onboard_time": 1718104757,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 249487,
+      "num": 249487,
+      "word": "刚毕业存了3万亲戚就来借钱",
+      "onboard_time": 1718106079,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249069,
       "num": 249069,
       "word": "肖战上海",
@@ -1009,14 +1121,6 @@
       "onboard_time": 1718062035,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245847,
-      "num": 245847,
-      "word": "成都一年轻女子在家被捅伤致死",
-      "onboard_time": 1718104757,
-      "rank": 21,
-      "category": "社会负面"
     },
     {
       "raw_hot": 242492,
@@ -1040,14 +1144,6 @@
       "word": "娜扎掉进水里了",
       "onboard_time": 1718099837,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 238498,
-      "num": 238498,
-      "word": "歌手",
-      "onboard_time": 1718104938,
-      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1091,6 +1187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229026,
+      "num": 229026,
+      "word": "白蚁",
+      "onboard_time": 1718108658,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224275,
       "num": 159827,
       "word": "才知道焯水不是简单的煮一下",
@@ -1121,6 +1225,14 @@
       "onboard_time": 1718101938,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 212970,
+      "num": 212970,
+      "word": "刘亦菲淡黄的长裙蓬松的头发",
+      "onboard_time": 1718108479,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 212149,
@@ -1283,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196104,
+      "num": 196104,
+      "word": "徐正溪",
+      "onboard_time": 1718105418,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196023,
       "num": 196023,
       "word": "iPhone录音会通知对方",
@@ -1345,6 +1465,14 @@
       "onboard_time": 1718099719,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192042,
+      "num": 192042,
+      "word": "庄国栋到底爱不爱黄亦玫",
+      "onboard_time": 1718107879,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 191916,
@@ -1419,14 +1547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185943,
-      "num": 185943,
-      "word": "徐正溪",
-      "onboard_time": 1718105418,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 185764,
       "num": 185764,
       "word": "俄罗斯护卫舰抵达美国海岸附近",
@@ -1457,6 +1577,14 @@
       "onboard_time": 1718082138,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182700,
+      "num": 182700,
+      "word": "王源二开",
+      "onboard_time": 1718107998,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 182412,
@@ -1603,6 +1731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169703,
+      "num": 209327,
+      "word": "长期开灯睡觉更易患上糖尿病",
+      "onboard_time": 1718104518,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168982,
       "num": 168982,
       "word": "第一次知道破伤风的症状",
@@ -1665,14 +1801,6 @@
       "onboard_time": 1718070438,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162827,
-      "num": 162827,
-      "word": "杨幂 艺人最重要的是社会影响力",
-      "onboard_time": 1718105359,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 162569,
@@ -1793,6 +1921,14 @@
       "onboard_time": 1718069537,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 156145,
+      "num": 156145,
+      "word": "capper瘦了好多",
+      "onboard_time": 1718108117,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155234,
@@ -1929,6 +2065,14 @@
       "onboard_time": 1718081421,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140783,
+      "num": 140783,
+      "word": "世界杯",
+      "onboard_time": 1718107099,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 140390,
@@ -2259,6 +2403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113463,
+      "num": 113463,
+      "word": "赴山海",
+      "onboard_time": 1718109378,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112773,
       "num": 253517,
       "word": "如何培养孩子科学的睡眠习惯",
@@ -2371,6 +2523,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100968,
+      "num": 100968,
+      "word": "竟然敢让王星越读这段",
+      "onboard_time": 1718109378,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100910,
+      "num": 100910,
+      "word": "想谈系艺人",
+      "onboard_time": 1718106919,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100801,
       "num": 100801,
       "word": "张艺兴一口气发了12首新歌试听",
@@ -2417,14 +2585,6 @@
       "onboard_time": 1718074817,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 96364,
-      "num": 209327,
-      "word": "长期开灯睡觉更易患上糖尿病",
-      "onboard_time": 1718104518,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 95980,
@@ -2651,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55235,
+      "num": 487995,
+      "word": "海南绿化带里结满莲雾多到吃不完",
+      "onboard_time": 1718108298,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 55230,
       "num": 186547,
       "word": "高校微博许愿池卷起来了",
@@ -2668,7 +2836,7 @@
     },
     {
       "raw_hot": 50414,
-      "num": 946791,
+      "num": 1571856,
       "word": "龙舟经济激发文旅消费新活力",
       "onboard_time": 1718099658,
       "rank": 2,
