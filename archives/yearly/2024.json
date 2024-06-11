@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718110321224,
+  "endTime": 1718112122564,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -971,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 6143392,
+      "num": 6143392,
+      "word": "韩国vs国足",
+      "onboard_time": 1718101878,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 5921224,
       "num": 681565,
       "word": "王阳发文",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1717733304,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 3767586,
-      "num": 3767586,
-      "word": "韩国vs国足",
-      "onboard_time": 1718101878,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 3760420,
