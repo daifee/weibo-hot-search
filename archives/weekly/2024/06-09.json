@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718141281153,
+  "endTime": 1718141679082,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -9099,6 +9099,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 29746,
+      "num": 19664,
+      "word": "佟大为 冻龄",
+      "onboard_time": 1718139731,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29108,
       "num": 265815,
       "word": "魏大勋毛不易郭麒麟被贴脸开大",
@@ -9153,14 +9161,6 @@
       "onboard_time": 1718096417,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24173,
-      "num": 19172,
-      "word": "佟大为 冻龄",
-      "onboard_time": 1718139731,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 23030,
@@ -9275,6 +9275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16128,
+      "num": 16128,
+      "word": "原来西瓜头上顶块石头会更甜",
+      "onboard_time": 1718139251,
+      "rank": 41,
+      "category": "科学科普,美食"
+    },
+    {
       "raw_hot": 16039,
       "num": 19000,
       "word": "贡菜拌毛肚",
@@ -9297,14 +9305,6 @@
       "onboard_time": 1717853179,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15711,
-      "num": 15711,
-      "word": "原来西瓜头上顶块石头会更甜",
-      "onboard_time": 1718139251,
-      "rank": 41,
-      "category": "科学科普,美食"
     },
     {
       "raw_hot": 15574,
@@ -9387,20 +9387,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 13348,
+      "num": 15920,
+      "word": "镜头下的笑容",
+      "onboard_time": 1718136670,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13344,
+      "num": 15919,
+      "word": "大学生团体操后组团狂退400件裙子",
+      "onboard_time": 1718140450,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12283,
       "num": 17540,
       "word": "老师考前不断叮嘱操碎了心",
       "onboard_time": 1717877771,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 12089,
-      "num": 15367,
-      "word": "大学生团体操后组团狂退400件裙子",
-      "onboard_time": 1718140450,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11978,
