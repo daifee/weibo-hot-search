@@ -1,0 +1,410 @@
+{
+  "runTime": 1718094289086,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 505210,
+        "num": 609676,
+        "word": "女子称退租时房东带5人查房定损",
+        "onboard_time": 1718087898,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382714,
+        "num": 382714,
+        "word": "陈奕迅受伤缝合30多针",
+        "onboard_time": 1718076018,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 44497,
+        "num": 362870,
+        "word": "龙舟何以在全球多国乘风破浪",
+        "onboard_time": 1718075958,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1731053,
+        "num": 361512,
+        "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+        "onboard_time": 1718089698,
+        "rank": 3,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 1037481,
+        "num": 359646,
+        "word": "肖战王一博在泰国有多火",
+        "onboard_time": 1718088737,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356276,
+        "num": 356276,
+        "word": "解放军起飞战机驱离荷兰舰载直升机",
+        "onboard_time": 1718081359,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 365990,
+        "num": 354652,
+        "word": "沈月接受了自己的身高",
+        "onboard_time": 1718092037,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339764,
+        "num": 339764,
+        "word": "高考 抽奖",
+        "onboard_time": 1718088737,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 261580,
+        "num": 339686,
+        "word": "张新成 导演",
+        "onboard_time": 1718078118,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56068,
+        "num": 334111,
+        "word": "23日起多省份可查高考成绩",
+        "onboard_time": 1718092818,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1424386,
+        "num": 327470,
+        "word": "张凯毅张煜东结婚",
+        "onboard_time": 1718091918,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 581554,
+        "num": 325031,
+        "word": "女子收货发现卫生裤上被写脏字",
+        "onboard_time": 1718085318,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465503,
+        "num": 318739,
+        "word": "AppleID改名AppleAccount",
+        "onboard_time": 1718092878,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 459476,
+        "num": 317567,
+        "word": "月经期间如何正确清洗",
+        "onboard_time": 1718089097,
+        "rank": 13,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 343378,
+        "num": 310176,
+        "word": "苹果 安卓味",
+        "onboard_time": 1718079139,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 309469,
+        "num": 309469,
+        "word": "赴山海官博掉粉",
+        "onboard_time": 1718087717,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297685,
+        "num": 297685,
+        "word": "那些晚婚晚育的人现在怎么样了",
+        "onboard_time": 1718084778,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241616,
+        "num": 241616,
+        "word": "半年过去了 跟没过一样",
+        "onboard_time": 1718084119,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240798,
+        "num": 240798,
+        "word": "佟大为 黄牡丹",
+        "onboard_time": 1718089878,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236064,
+        "num": 236064,
+        "word": "国足今晚打平就能晋级",
+        "onboard_time": 1718092218,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 407910,
+        "num": 235037,
+        "word": "乌干达一女子生下44个孩子",
+        "onboard_time": 1718082500,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230440,
+        "num": 230440,
+        "word": "iPhone新增防晕车功能",
+        "onboard_time": 1718083158,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214633,
+        "num": 214633,
+        "word": "墨雨云间女主终于有家了",
+        "onboard_time": 1718085318,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197898,
+        "num": 197898,
+        "word": "王俊凯到达长沙录hi6",
+        "onboard_time": 1718088318,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190682,
+        "num": 190682,
+        "word": "王星越一切远景就呲个大牙笑",
+        "onboard_time": 1718093238,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179965,
+        "num": 179965,
+        "word": "官方通报镇政府收20万押金多年未还",
+        "onboard_time": 1718090418,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171350,
+        "num": 171350,
+        "word": "第一次在狗的脸上看到无语",
+        "onboard_time": 1718091918,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160923,
+        "num": 160923,
+        "word": "国足上次击败韩国队是7年前",
+        "onboard_time": 1718091618,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152089,
+        "num": 152089,
+        "word": "刘亦菲是历史上首届金鹰女神",
+        "onboard_time": 1718082918,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182130,
+        "num": 150740,
+        "word": "吴谨言回应和王星越再合作",
+        "onboard_time": 1718093719,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148800,
+        "num": 148800,
+        "word": "再考清华当事人称100天努力没白费",
+        "onboard_time": 1718092518,
+        "rank": 30,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 140359,
+        "num": 140359,
+        "word": "长时间睡眠剥夺损伤大脑",
+        "onboard_time": 1718089817,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136758,
+        "num": 136758,
+        "word": "千万别一边充电一边玩手机",
+        "onboard_time": 1718071217,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135250,
+        "num": 135250,
+        "word": "刘亦菲来演这段就很合理",
+        "onboard_time": 1718093056,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197794,
+        "num": 135007,
+        "word": "王星越半裸戏没清场",
+        "onboard_time": 1718086219,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134530,
+        "num": 134530,
+        "word": "凤凰传奇演唱会三城官宣",
+        "onboard_time": 1718086819,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131489,
+        "num": 131489,
+        "word": "考前是太子 考后是弃子",
+        "onboard_time": 1718077458,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122781,
+        "num": 122781,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120949,
+        "num": 120949,
+        "word": "别再一生气就搞断联了",
+        "onboard_time": 1718089158,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120379,
+        "num": 120379,
+        "word": "苹果AI仅支持两款iPhone",
+        "onboard_time": 1718083577,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116651,
+        "num": 116651,
+        "word": "陈奕迅腮骨骨裂",
+        "onboard_time": 1718078659,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43380,
+        "num": 116347,
+        "word": "淘宝回应摇猫参赛",
+        "onboard_time": 1718093958,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116147,
+        "num": 116147,
+        "word": "薛姐这一刀",
+        "onboard_time": 1718092458,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116051,
+        "num": 116051,
+        "word": "穿这种颜色衣服的人最招蚊子",
+        "onboard_time": 1718088618,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112768,
+        "num": 112768,
+        "word": "懂事的水果成熟后自动变果汁",
+        "onboard_time": 1718093297,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112215,
+        "num": 112215,
+        "word": "王楚宣布退役",
+        "onboard_time": 1718080760,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104645,
+        "num": 104645,
+        "word": "刘亦菲演技",
+        "onboard_time": 1718066780,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103911,
+        "num": 103911,
+        "word": "林更新美甲哥",
+        "onboard_time": 1718089337,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102214,
+        "num": 102214,
+        "word": "食人菌侵袭日本还能去旅游吗",
+        "onboard_time": 1718085739,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97122,
+        "num": 97122,
+        "word": "欧美开始流行笨手机",
+        "onboard_time": 1718083158,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}

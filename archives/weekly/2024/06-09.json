@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718091365451,
+  "endTime": 1718094289086,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1731053,
+      "num": 1616293,
+      "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
+      "onboard_time": 1718089698,
+      "rank": 11,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 1718023,
       "num": 1718023,
       "word": "doc和docx有什么区别",
@@ -75,14 +83,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1616293,
-      "num": 1616293,
-      "word": "俞敏洪道歉后董宇辉发声抗拒卖货",
-      "onboard_time": 1718089698,
-      "rank": 11,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 1605492,
       "num": 1605492,
       "word": "我爸以为有教资就能去学校当老师",
@@ -105,6 +105,14 @@
       "onboard_time": 1717934478,
       "rank": 1,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 1424386,
+      "num": 327470,
+      "word": "张凯毅张煜东结婚",
+      "onboard_time": 1718091918,
+      "rank": 10,
+      "category": "网红"
     },
     {
       "raw_hot": 1396063,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 830978,
-      "num": 306488,
+      "num": 325031,
       "word": "女子收货发现卫生裤上被写脏字",
       "onboard_time": 1718085318,
       "rank": 11,
@@ -1307,6 +1315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 505210,
+      "num": 609676,
+      "word": "女子称退租时房东带5人查房定损",
+      "onboard_time": 1718087898,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 504657,
       "num": 504657,
       "word": "姐姐出cos接妹妹高考",
@@ -1361,14 +1377,6 @@
       "onboard_time": 1718028979,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 483382,
-      "num": 483382,
-      "word": "女子称退租时房东带5人查房定损",
-      "onboard_time": 1718087898,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481036,
@@ -1475,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465503,
+      "num": 318739,
+      "word": "AppleID改名AppleAccount",
+      "onboard_time": 1718092878,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 463741,
       "num": 463741,
       "word": "人民网评玫瑰的故事",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1717858159,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 459476,
+      "num": 317567,
+      "word": "月经期间如何正确清洗",
+      "onboard_time": 1718089097,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 457553,
@@ -1540,7 +1564,7 @@
     },
     {
       "raw_hot": 445884,
-      "num": 295374,
+      "num": 309469,
       "word": "赴山海官博掉粉",
       "onboard_time": 1718087717,
       "rank": 27,
@@ -1923,6 +1947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365990,
+      "num": 354652,
+      "word": "沈月接受了自己的身高",
+      "onboard_time": 1718092037,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 364960,
       "num": 364960,
       "word": "BLG",
@@ -2155,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339764,
+      "num": 339764,
+      "word": "高考 抽奖",
+      "onboard_time": 1718088737,
+      "rank": 8,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 339577,
       "num": 339577,
       "word": "天官赐福",
@@ -2305,14 +2345,6 @@
       "onboard_time": 1718021478,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 318377,
-      "num": 318377,
-      "word": "高考 抽奖",
-      "onboard_time": 1718088737,
-      "rank": 8,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 317956,
@@ -3043,6 +3075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 236064,
+      "num": 236064,
+      "word": "国足今晚打平就能晋级",
+      "onboard_time": 1718092218,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233492,
       "num": 233492,
       "word": "cube",
@@ -3643,14 +3683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200606,
-      "num": 193355,
-      "word": "月经期间如何正确清洗",
-      "onboard_time": 1718089097,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 200303,
       "num": 200303,
       "word": "九尾双开门队服",
@@ -3915,6 +3947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190682,
+      "num": 190682,
+      "word": "王星越一切远景就呲个大牙笑",
+      "onboard_time": 1718093238,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190634,
       "num": 190634,
       "word": "无畏王者梦之队定妆官宣",
@@ -4139,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182130,
+      "num": 150740,
+      "word": "吴谨言回应和王星越再合作",
+      "onboard_time": 1718093719,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181714,
       "num": 318515,
       "word": "2024高考查分时间汇总",
@@ -4169,6 +4217,14 @@
       "onboard_time": 1718076078,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179965,
+      "num": 307652,
+      "word": "官方通报镇政府收20万押金多年未还",
+      "onboard_time": 1718090418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179836,
@@ -4361,6 +4417,14 @@
       "onboard_time": 1717984036,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 171350,
+      "num": 171350,
+      "word": "第一次在狗的脸上看到无语",
+      "onboard_time": 1718091918,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 171011,
@@ -4609,6 +4673,14 @@
       "onboard_time": 1718004017,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160923,
+      "num": 160923,
+      "word": "国足上次击败韩国队是7年前",
+      "onboard_time": 1718091618,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 160653,
@@ -5001,6 +5073,14 @@
       "onboard_time": 1718017939,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148800,
+      "num": 148800,
+      "word": "再考清华当事人称100天努力没白费",
+      "onboard_time": 1718092518,
+      "rank": 30,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 148792,
@@ -5475,6 +5555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135250,
+      "num": 135250,
+      "word": "刘亦菲来演这段就很合理",
+      "onboard_time": 1718093056,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135187,
       "num": 135187,
       "word": "2024国际乒联第24周排名",
@@ -5601,14 +5689,6 @@
       "onboard_time": 1718020098,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131981,
-      "num": 307652,
-      "word": "官方通报镇政府收20万押金多年未还",
-      "onboard_time": 1718090418,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131725,
@@ -6091,6 +6171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116147,
+      "num": 116147,
+      "word": "薛姐这一刀",
+      "onboard_time": 1718092458,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116051,
+      "num": 116051,
+      "word": "穿这种颜色衣服的人最招蚊子",
+      "onboard_time": 1718088618,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 115845,
       "num": 115845,
       "word": "林孝埈说短道速滑我的人生",
@@ -6219,6 +6315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 112768,
+      "num": 112768,
+      "word": "懂事的水果成熟后自动变果汁",
+      "onboard_time": 1718093297,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112569,
       "num": 112569,
       "word": "暨南大学回应高考生喊话苏炳添",
@@ -6281,14 +6385,6 @@
       "onboard_time": 1718073857,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 108602,
-      "num": 108602,
-      "word": "穿这种颜色衣服的人最招蚊子",
-      "onboard_time": 1718088618,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 108517,
@@ -7131,6 +7227,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56068,
+      "num": 334111,
+      "word": "23日起多省份可查高考成绩",
+      "onboard_time": 1718092818,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 55497,
       "num": 137712,
       "word": "70度高温戈壁武警战士找到20吨黄金",
@@ -7371,12 +7475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44497,
+      "num": 758855,
+      "word": "龙舟何以在全球多国乘风破浪",
+      "onboard_time": 1718075958,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44085,
       "num": 44085,
       "word": "FPX更换首发上单",
       "onboard_time": 1717975574,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43380,
+      "num": 116347,
+      "word": "淘宝回应摇猫参赛",
+      "onboard_time": 1718093958,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 43364,
@@ -7639,14 +7759,6 @@
       "num": 1187744,
       "word": "你那里有哪些端午习俗",
       "onboard_time": 1717937118,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22830,
-      "num": 758855,
-      "word": "龙舟何以在全球多国乘风破浪",
-      "onboard_time": 1718075958,
       "rank": 2,
       "category": "社会新闻"
     },
