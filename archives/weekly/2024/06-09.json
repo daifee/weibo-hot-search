@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718094289086,
+  "endTime": 1718095063566,
   "band_list": [
     {
       "raw_hot": 2132831,
@@ -577,6 +577,14 @@
       "onboard_time": 1717975933,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 781128,
+      "num": 318739,
+      "word": "AppleID改名AppleAccount",
+      "onboard_time": 1718092878,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 771190,
@@ -1481,14 +1489,6 @@
       "onboard_time": 1717929918,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 465503,
-      "num": 318739,
-      "word": "AppleID改名AppleAccount",
-      "onboard_time": 1718092878,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 463741,
@@ -2547,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292680,
+      "num": 292680,
+      "word": "国足今晚打平就能晋级",
+      "onboard_time": 1718092218,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292268,
       "num": 196430,
       "word": "央视端午晚会",
@@ -2827,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259926,
+      "num": 250798,
+      "word": "佟大为 黄牡丹",
+      "onboard_time": 1718089878,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258494,
       "num": 189078,
       "word": "黄亦玫爸爸",
@@ -2913,14 +2929,6 @@
       "onboard_time": 1717888273,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250798,
-      "num": 250798,
-      "word": "佟大为 黄牡丹",
-      "onboard_time": 1718089878,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 250037,
@@ -3073,14 +3081,6 @@
       "onboard_time": 1718080399,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 236064,
-      "num": 236064,
-      "word": "国足今晚打平就能晋级",
-      "onboard_time": 1718092218,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 233492,
@@ -3827,6 +3827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195314,
+      "num": 195314,
+      "word": "王星越一切远景就呲个大牙笑",
+      "onboard_time": 1718093238,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195208,
       "num": 181892,
       "word": "关晓彤翟潇闻合作现偶",
@@ -3857,6 +3865,14 @@
       "onboard_time": 1717936159,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193481,
+      "num": 223463,
+      "word": "大凉山支教7天费用上万",
+      "onboard_time": 1718094438,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193371,
@@ -3947,12 +3963,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190682,
-      "num": 190682,
-      "word": "王星越一切远景就呲个大牙笑",
-      "onboard_time": 1718093238,
+      "raw_hot": 190964,
+      "num": 190964,
+      "word": "TF家族一代二代同台",
+      "onboard_time": 1718095038,
       "rank": 24,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 190634,
@@ -5947,6 +5963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124136,
+      "num": 124136,
+      "word": "婚前林更新婚后方协文",
+      "onboard_time": 1718094798,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124035,
       "num": 124035,
       "word": "玫瑰的故事婚姻避坑指男",
@@ -6499,6 +6523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105045,
+      "num": 105045,
+      "word": "彭冠英自嘲年龄很尴尬",
+      "onboard_time": 1718094977,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104061,
       "num": 104061,
       "word": "阿尔卡拉斯3比2兹维列夫",
@@ -6547,6 +6579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102103,
+      "num": 102103,
+      "word": "警方通报旅客带宠物蜜袋鼯上飞机",
+      "onboard_time": 1718095038,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101975,
       "num": 101975,
       "word": "李现扫街",
@@ -6593,6 +6633,14 @@
       "onboard_time": 1718029580,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99463,
+      "num": 334111,
+      "word": "23日起多省份可查高考成绩",
+      "onboard_time": 1718092818,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 99286,
@@ -7227,19 +7275,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56068,
-      "num": 334111,
-      "word": "23日起多省份可查高考成绩",
-      "onboard_time": 1718092818,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 55497,
       "num": 137712,
       "word": "70度高温戈壁武警战士找到20吨黄金",
       "onboard_time": 1717856060,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55496,
+      "num": 758855,
+      "word": "龙舟何以在全球多国乘风破浪",
+      "onboard_time": 1718075958,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -7467,6 +7515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45161,
+      "num": 137529,
+      "word": "淘宝回应摇猫参赛",
+      "onboard_time": 1718093958,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44694,
       "num": 137703,
       "word": "朱正廷清爽学长造型",
@@ -7475,28 +7531,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44497,
-      "num": 758855,
-      "word": "龙舟何以在全球多国乘风破浪",
-      "onboard_time": 1718075958,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44085,
       "num": 44085,
       "word": "FPX更换首发上单",
       "onboard_time": 1717975574,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 43380,
-      "num": 116347,
-      "word": "淘宝回应摇猫参赛",
-      "onboard_time": 1718093958,
-      "rank": 41,
-      "category": "互联网"
     },
     {
       "raw_hot": 43364,
