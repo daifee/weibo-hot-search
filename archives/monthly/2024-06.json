@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718076935795,
+  "endTime": 1718079833368,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -251,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2045623,
+      "num": 2045623,
+      "word": "陈奕迅受伤缝合30多针",
+      "onboard_time": 1718076018,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2043691,
       "num": 459655,
       "word": "fine乐团能不能留下",
@@ -297,14 +305,6 @@
       "onboard_time": 1717752622,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1979700,
-      "num": 1979700,
-      "word": "陈奕迅受伤缝合30多针",
-      "onboard_time": 1718076018,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1976283,
@@ -1291,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1205078,
+      "num": 522022,
+      "word": "张新成 导演",
+      "onboard_time": 1718078118,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1204808,
       "num": 1204808,
       "word": "董璇女儿出道",
@@ -1795,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1025048,
+      "num": 733369,
+      "word": "张雪峰称江苏大学不是211胜似211",
+      "onboard_time": 1718072777,
+      "rank": 32,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1021664,
       "num": 1021664,
       "word": "没想到榴莲也住上单间了",
@@ -1905,14 +1921,6 @@
       "onboard_time": 1718064559,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 975757,
-      "num": 733369,
-      "word": "张雪峰称江苏大学不是211胜似211",
-      "onboard_time": 1718072777,
-      "rank": 32,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 973329,
@@ -2513,6 +2521,14 @@
       "onboard_time": 1717988177,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 823677,
+      "num": 267156,
+      "word": "考前是太子 考后是弃子",
+      "onboard_time": 1718077458,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 821729,
@@ -3265,6 +3281,14 @@
       "onboard_time": 1717906337,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 715234,
+      "num": 715234,
+      "word": "坏消息假期结束好消息只上4天",
+      "onboard_time": 1718073436,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 714550,
@@ -4203,6 +4227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 615409,
+      "num": 488907,
+      "word": "陈奕迅腮骨骨裂",
+      "onboard_time": 1718078659,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 615302,
       "num": 446225,
       "word": "数学 一生之敌",
@@ -4505,14 +4537,6 @@
       "onboard_time": 1717749558,
       "rank": 20,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 591818,
-      "num": 591818,
-      "word": "坏消息假期结束好消息只上4天",
-      "onboard_time": 1718073436,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 591065,
@@ -8219,6 +8243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 363160,
+      "num": 363160,
+      "word": "彭冠英23岁到37岁荧幕蜕变",
+      "onboard_time": 1718075117,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362323,
       "num": 262095,
       "word": "周迅一口气拿了两个导协年度女演员",
@@ -8273,6 +8305,14 @@
       "onboard_time": 1717806796,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 359452,
+      "num": 359452,
+      "word": "中国女孩北冰洋捕蟹月入13万",
+      "onboard_time": 1718074398,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359413,
@@ -8809,6 +8849,14 @@
       "onboard_time": 1717418658,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 341224,
+      "num": 341224,
+      "word": "苹果 安卓味",
+      "onboard_time": 1718079139,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 340940,
@@ -10003,14 +10051,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 296559,
-      "num": 296559,
-      "word": "彭冠英23岁到37岁荧幕蜕变",
-      "onboard_time": 1718075117,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296502,
       "num": 296502,
       "word": "高圆圆赵又廷参加好友婚礼",
@@ -10033,6 +10073,14 @@
       "onboard_time": 1717298477,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295055,
+      "num": 263403,
+      "word": "网曝女子带仓鼠上飞机导致延误1小时",
+      "onboard_time": 1718078899,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 294908,
@@ -10691,6 +10739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274797,
+      "num": 274797,
+      "word": "墨雨云间 扶不扶难题",
+      "onboard_time": 1718077818,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274357,
       "num": 274357,
       "word": "墨西哥女子试图与火车自拍被撞身亡",
@@ -10944,14 +11000,6 @@
       "word": "不法人员在充电宝内安装窃听定位",
       "onboard_time": 1717289717,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268579,
-      "num": 268579,
-      "word": "中国女孩北冰洋捕蟹月入13万",
-      "onboard_time": 1718074398,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -11675,6 +11723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 249601,
+      "num": 249601,
+      "word": "教育局长亲自开飞机祝贺高考顺利",
+      "onboard_time": 1718078840,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 249162,
       "num": 229580,
       "word": "金莎回应孙丞潇开会离席",
@@ -12379,6 +12435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231806,
+      "num": 231806,
+      "word": "魔兽世界炸服",
+      "onboard_time": 1718078538,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231406,
       "num": 231406,
       "word": "小老虎发聊天记录",
@@ -12777,6 +12841,14 @@
       "onboard_time": 1717648040,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224253,
+      "num": 224253,
+      "word": "黄亦玫发疯这段",
+      "onboard_time": 1718079198,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 223969,
@@ -13297,6 +13369,14 @@
       "onboard_time": 1718022617,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215554,
+      "num": 215554,
+      "word": "吉林",
+      "onboard_time": 1718079079,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 215525,
@@ -14048,6 +14128,14 @@
       "word": "汪苏泷看到热搜了",
       "onboard_time": 1717164626,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206138,
+      "num": 206138,
+      "word": "我在横店打篮球",
+      "onboard_time": 1718078781,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -18043,6 +18131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165824,
+      "num": 165824,
+      "word": "Gala回应幽梦",
+      "onboard_time": 1718077638,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165735,
       "num": 165735,
       "word": "iOS18终于有卫星短信功能了",
@@ -18691,6 +18787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160263,
+      "num": 160263,
+      "word": "iPad计算器",
+      "onboard_time": 1718079499,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 160155,
       "num": 160155,
       "word": "芒果这一波又nextlevel了",
@@ -18905,6 +19009,14 @@
       "onboard_time": 1717821140,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157966,
+      "num": 157966,
+      "word": "国足vs韩国23人名单",
+      "onboard_time": 1718078342,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 157939,
@@ -19281,6 +19393,14 @@
       "onboard_time": 1718063117,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155116,
+      "num": 149262,
+      "word": "王星越黑历史再加一",
+      "onboard_time": 1718078418,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 155052,
@@ -21305,6 +21425,14 @@
       "onboard_time": 1717385538,
       "rank": 43,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 138537,
+      "num": 138537,
+      "word": "桔桔的花园",
+      "onboard_time": 1718079739,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 138462,
@@ -27464,6 +27592,14 @@
       "word": "被中国皮影戏的灵动征服了",
       "onboard_time": 1718010318,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66158,
+      "num": 419774,
+      "word": "黑中介以高薪为诱饵骗取毕业生钱财",
+      "onboard_time": 1718077939,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
