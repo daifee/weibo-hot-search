@@ -1,0 +1,410 @@
+{
+  "runTime": 1718084150537,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193261,
+        "num": 1193261,
+        "word": "陈奕迅受伤缝合30多针",
+        "onboard_time": 1718076018,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 875520,
+        "num": 875520,
+        "word": "教育局长亲自开飞机祝贺高考顺利",
+        "onboard_time": 1718078840,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 5980,
+        "num": 829700,
+        "word": "两岸同胞的端午之约",
+        "onboard_time": 1718028561,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981988,
+        "num": 827551,
+        "word": "张新成 导演",
+        "onboard_time": 1718078118,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 816363,
+        "num": 816363,
+        "word": "解放军起飞战机驱离荷兰舰载直升机",
+        "onboard_time": 1718081359,
+        "rank": 4,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 696102,
+        "num": 696102,
+        "word": "王楚宣布退役",
+        "onboard_time": 1718080760,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422525,
+        "num": 422525,
+        "word": "陈奕迅腮骨骨裂",
+        "onboard_time": 1718078659,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 357192,
+        "num": 357192,
+        "word": "doc和docx有什么区别",
+        "onboard_time": 1718064799,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 333762,
+        "num": 333762,
+        "word": "林孝埈被授予国际级运动健将",
+        "onboard_time": 1718082680,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14181,
+        "num": 309796,
+        "word": "考场外父亲隔着栅栏这番叮嘱让人泪目",
+        "onboard_time": 1718083817,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1169225,
+        "num": 307312,
+        "word": "苹果 安卓味",
+        "onboard_time": 1718079139,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 294510,
+        "num": 294510,
+        "word": "林更新36岁演学生",
+        "onboard_time": 1718082918,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293165,
+        "num": 293165,
+        "word": "刘亦菲演技",
+        "onboard_time": 1718066780,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289178,
+        "num": 289178,
+        "word": "坏消息假期结束好消息只上4天",
+        "onboard_time": 1718073436,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284239,
+        "num": 284239,
+        "word": "吉林北山公园",
+        "onboard_time": 1718082858,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 267836,
+        "num": 267836,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1718080700,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253675,
+        "num": 253675,
+        "word": "国防部回应荷兰军机挑衅",
+        "onboard_time": 1718081479,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232916,
+        "num": 232916,
+        "word": "iPhone15有五种充电上限了",
+        "onboard_time": 1718067198,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230406,
+        "num": 230406,
+        "word": "墨雨云间 扶不扶难题",
+        "onboard_time": 1718077818,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83925,
+        "num": 230394,
+        "word": "邓超请15万人吃螺蛳粉",
+        "onboard_time": 1718080520,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648299,
+        "num": 226652,
+        "word": "乌干达一女子生下44个孩子",
+        "onboard_time": 1718082500,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627497,
+        "num": 224150,
+        "word": "臭宝回应崩了",
+        "onboard_time": 1718081059,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 590429,
+        "num": 222275,
+        "word": "弟弟去世了二十天我高考完才知道",
+        "onboard_time": 1718030599,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480849,
+        "num": 219828,
+        "word": "考前是太子 考后是弃子",
+        "onboard_time": 1718077458,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 368963,
+        "num": 216932,
+        "word": "千万别一边充电一边玩手机",
+        "onboard_time": 1718071217,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329027,
+        "num": 214996,
+        "word": "臭宝",
+        "onboard_time": 1718083638,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 309081,
+        "num": 213733,
+        "word": "刘亦菲是历史上首届金鹰女神",
+        "onboard_time": 1718082918,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212075,
+        "num": 212075,
+        "word": "两个弟弟考场外接姐姐不小心说实话了",
+        "onboard_time": 1718068518,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202113,
+        "num": 202113,
+        "word": "iPhone有通话录音了",
+        "onboard_time": 1718061495,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199277,
+        "num": 199277,
+        "word": "桑延装醉",
+        "onboard_time": 1718074937,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197570,
+        "num": 197570,
+        "word": "苹果AI仅支持两款iPhone",
+        "onboard_time": 1718083577,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195053,
+        "num": 195053,
+        "word": "蜜雪冰城客服回应员工在水池洗脚",
+        "onboard_time": 1718073317,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192966,
+        "num": 192966,
+        "word": "彭冠英23岁到37岁荧幕蜕变",
+        "onboard_time": 1718075117,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188734,
+        "num": 192729,
+        "word": "KPL王者梦之队全家福",
+        "onboard_time": 1718083757,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192499,
+        "num": 192499,
+        "word": "网曝女子带仓鼠上飞机导致延误1小时",
+        "onboard_time": 1718078899,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190144,
+        "num": 190144,
+        "word": "欧美开始流行笨手机",
+        "onboard_time": 1718083158,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186571,
+        "num": 186571,
+        "word": "iPhone新增防晕车功能",
+        "onboard_time": 1718083158,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99089,
+        "num": 183326,
+        "word": "随心买之后不能随心退",
+        "onboard_time": 1718080219,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182701,
+        "num": 182701,
+        "word": "他三分颤抖她七分薄凉",
+        "onboard_time": 1718082138,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182522,
+        "num": 182522,
+        "word": "明朝状元试卷2460字无一涂改",
+        "onboard_time": 1718066961,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 173322,
+        "num": 173322,
+        "word": "娜扎吃饭中途给自己做高颅顶",
+        "onboard_time": 1718071159,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169141,
+        "num": 169141,
+        "word": "Jennie派对热舞",
+        "onboard_time": 1718080399,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160259,
+        "num": 160259,
+        "word": "玫瑰的故事吻戏太多",
+        "onboard_time": 1718081540,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156658,
+        "num": 156658,
+        "word": "中国女孩北冰洋捕蟹月入13万",
+        "onboard_time": 1718074398,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155684,
+        "num": 155684,
+        "word": "田曦薇新剧演女警",
+        "onboard_time": 1718080100,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153417,
+        "num": 153417,
+        "word": "绝区零预约破4000万",
+        "onboard_time": 1718083338,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152879,
+        "num": 152879,
+        "word": "我在考场门口滑倒了当事人发声",
+        "onboard_time": 1718081298,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144877,
+        "num": 144877,
+        "word": "黄亦玫发疯这段",
+        "onboard_time": 1718079198,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135030,
+        "num": 144755,
+        "word": "怦然心动20岁",
+        "onboard_time": 1718080219,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125911,
+        "num": 144723,
+        "word": "半年过去了 跟没过一样",
+        "onboard_time": 1718084119,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}

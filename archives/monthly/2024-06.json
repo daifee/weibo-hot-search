@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718083187733,
+  "endTime": 1718084150537,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1156,7 +1156,7 @@
     },
     {
       "raw_hot": 1260817,
-      "num": 824248,
+      "num": 827551,
       "word": "张新成 导演",
       "onboard_time": 1718078118,
       "rank": 3,
@@ -2563,6 +2563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 816363,
+      "num": 816363,
+      "word": "解放军起飞战机驱离荷兰舰载直升机",
+      "onboard_time": 1718081359,
+      "rank": 4,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 815887,
       "num": 444310,
       "word": "上海交大李星玮",
@@ -2729,14 +2737,6 @@
       "onboard_time": 1717656258,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 784492,
-      "num": 784492,
-      "word": "解放军起飞战机驱离荷兰舰载直升机",
-      "onboard_time": 1718081359,
-      "rank": 4,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 783135,
@@ -4009,6 +4009,14 @@
       "onboard_time": 1717480877,
       "rank": 12,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 648299,
+      "num": 232001,
+      "word": "乌干达一女子生下44个孩子",
+      "onboard_time": 1718082500,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646407,
@@ -8819,14 +8827,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 344696,
-      "num": 232001,
-      "word": "乌干达一女子生下44个孩子",
-      "onboard_time": 1718082500,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343943,
       "num": 343943,
       "word": "日本学者向义乌捐近千件细菌战重要史料",
@@ -9083,6 +9083,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 333762,
+      "num": 333762,
+      "word": "林孝埈被授予国际级运动健将",
+      "onboard_time": 1718082680,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333559,
       "num": 333559,
       "word": "表弟暗示我妈给他买电脑",
@@ -9217,6 +9225,14 @@
       "onboard_time": 1717728976,
       "rank": 2,
       "category": "教育"
+    },
+    {
+      "raw_hot": 329027,
+      "num": 214996,
+      "word": "臭宝",
+      "onboard_time": 1718083638,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 328627,
@@ -9715,6 +9731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309081,
+      "num": 213733,
+      "word": "刘亦菲是历史上首届金鹰女神",
+      "onboard_time": 1718082918,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308882,
       "num": 308882,
       "word": "田曦薇上下班反差",
@@ -10163,6 +10187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 294510,
+      "num": 294510,
+      "word": "林更新36岁演学生",
+      "onboard_time": 1718082918,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294232,
       "num": 294232,
       "word": "高考英语听力",
@@ -10489,6 +10521,14 @@
       "onboard_time": 1717198215,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 284239,
+      "num": 284239,
+      "word": "吉林北山公园",
+      "onboard_time": 1718082858,
+      "rank": 32,
+      "category": "社会负面"
     },
     {
       "raw_hot": 283998,
@@ -11081,6 +11121,14 @@
       "onboard_time": 1717750340,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 267836,
+      "num": 267836,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1717477819,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 267830,
@@ -11841,14 +11889,6 @@
       "onboard_time": 1718062035,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 247703,
-      "num": 247703,
-      "word": "花儿与少年好友记",
-      "onboard_time": 1717477819,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 247582,
@@ -13923,14 +13963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208856,
-      "num": 208856,
-      "word": "林孝埈被授予国际级运动健将",
-      "onboard_time": 1718082680,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 208723,
       "num": 208723,
       "word": "老破小二手房突然火了",
@@ -15099,14 +15131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198510,
-      "num": 198510,
-      "word": "吉林北山公园",
-      "onboard_time": 1718082858,
-      "rank": 32,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 198496,
       "num": 169806,
       "word": "毕业歌会",
@@ -15217,6 +15241,14 @@
       "onboard_time": 1717648280,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197570,
+      "num": 197570,
+      "word": "苹果AI仅支持两款iPhone",
+      "onboard_time": 1718083577,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 197557,
@@ -15987,6 +16019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190144,
+      "num": 190144,
+      "word": "欧美开始流行笨手机",
+      "onboard_time": 1718083158,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190142,
       "num": 194869,
       "word": "XYG夺冠",
@@ -16121,6 +16161,14 @@
       "onboard_time": 1717197373,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188734,
+      "num": 192729,
+      "word": "KPL王者梦之队全家福",
+      "onboard_time": 1718083757,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 188675,
@@ -16377,6 +16425,14 @@
       "onboard_time": 1717730661,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186571,
+      "num": 186571,
+      "word": "iPhone新增防晕车功能",
+      "onboard_time": 1718083158,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 186501,
@@ -16712,6 +16768,14 @@
       "word": "刘亦菲穿搭",
       "onboard_time": 1717915398,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182701,
+      "num": 182701,
+      "word": "他三分颤抖她七分薄凉",
+      "onboard_time": 1718082138,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -18059,14 +18123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167395,
-      "num": 167395,
-      "word": "林更新36岁演学生",
-      "onboard_time": 1718082918,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167363,
       "num": 167363,
       "word": "董明珠说错了什么",
@@ -18569,14 +18625,6 @@
       "onboard_time": 1717220057,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 162942,
-      "num": 162942,
-      "word": "他三分颤抖她七分薄凉",
-      "onboard_time": 1718082138,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 162940,
@@ -19705,6 +19753,14 @@
       "onboard_time": 1717588397,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153417,
+      "num": 153417,
+      "word": "绝区零预约破4000万",
+      "onboard_time": 1718083338,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 153371,
@@ -20939,14 +20995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 143381,
-      "num": 143381,
-      "word": "欧美开始流行笨手机",
-      "onboard_time": 1718083158,
-      "rank": 43,
-      "category": "数码"
-    },
-    {
       "raw_hot": 143352,
       "num": 143352,
       "word": "河北新疆局地最高温可达40度",
@@ -21577,14 +21625,6 @@
       "onboard_time": 1717385538,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 138646,
-      "num": 138646,
-      "word": "刘亦菲是历史上首届金鹰女神",
-      "onboard_time": 1718082918,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 138537,
@@ -23155,6 +23195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125911,
+      "num": 144723,
+      "word": "半年过去了 跟没过一样",
+      "onboard_time": 1718084119,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125788,
       "num": 125788,
       "word": "阅卷老师停下了阅卷的手",
@@ -23905,14 +23953,6 @@
       "onboard_time": 1717667119,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119337,
-      "num": 119337,
-      "word": "iPhone新增防晕车功能",
-      "onboard_time": 1718083158,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 119326,
@@ -26051,6 +26091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99089,
+      "num": 425400,
+      "word": "随心买之后不能随心退",
+      "onboard_time": 1718080219,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99063,
       "num": 99063,
       "word": "张颂文 咸粽第一",
@@ -26819,6 +26867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83925,
+      "num": 243230,
+      "word": "邓超请15万人吃螺蛳粉",
+      "onboard_time": 1718080520,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83883,
       "num": 181291,
       "word": "第一次给别人化妆用力过猛",
@@ -27571,14 +27627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70278,
-      "num": 425400,
-      "word": "随心买之后不能随心退",
-      "onboard_time": 1718080219,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 70264,
       "num": 372729,
       "word": "这届年轻人露营有多野",
@@ -28121,14 +28169,6 @@
       "onboard_time": 1717657338,
       "rank": 24,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 60693,
-      "num": 243230,
-      "word": "邓超请15万人吃螺蛳粉",
-      "onboard_time": 1718080520,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 60421,
@@ -30689,6 +30729,14 @@
       "onboard_time": 1718037675,
       "rank": 41,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 14181,
+      "num": 309796,
+      "word": "考场外父亲隔着栅栏这番叮嘱让人泪目",
+      "onboard_time": 1718083817,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13928,
