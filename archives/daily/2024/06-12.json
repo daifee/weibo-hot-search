@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718166176592,
+  "endTime": 1718167006817,
   "band_list": [
     {
       "raw_hot": 2786155,
@@ -43,6 +43,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1460904,
+      "num": 1460904,
+      "word": "韩国小哥不信中国拿西瓜喂猪",
+      "onboard_time": 1718161698,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1438100,
       "num": 553749,
       "word": "iPhone16将砍掉实体键改为电容式",
@@ -67,20 +75,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1331641,
-      "num": 1331641,
-      "word": "韩国小哥不信中国拿西瓜喂猪",
-      "onboard_time": 1718161698,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1128102,
       "num": 518097,
       "word": "周杰伦南京抢票",
       "onboard_time": 1718159717,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1112425,
+      "num": 1112425,
+      "word": "玫瑰的故事原型 章小蕙",
+      "onboard_time": 1718163979,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 1097702,
@@ -91,15 +99,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1090629,
-      "num": 624842,
-      "word": "玫瑰的故事原型 章小蕙",
-      "onboard_time": 1718163979,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1039982,
+      "raw_hot": 1084973,
       "num": 599790,
       "word": "Jennie 晚奶",
       "onboard_time": 1718163319,
@@ -243,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513845,
+      "num": 387582,
+      "word": "国台办回应胡歌赴台参加文艺交流",
+      "onboard_time": 1718164460,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513513,
       "num": 526332,
       "word": "福宝连续来了好几个前滚翻",
@@ -345,14 +353,6 @@
       "onboard_time": 1718156838,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 387582,
-      "num": 387582,
-      "word": "国台办回应胡歌赴台参加文艺交流",
-      "onboard_time": 1718164460,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 386472,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 297157,
+      "num": 297157,
+      "word": "马伯庸 剑网3",
+      "onboard_time": 1718165720,
+      "rank": 30,
+      "category": "读书作家,游戏"
+    },
+    {
       "raw_hot": 293677,
       "num": 293677,
       "word": "一法国游客在俄发射场附近身亡",
@@ -497,6 +505,14 @@
       "onboard_time": 1718162119,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272634,
+      "num": 272634,
+      "word": "老公走路像醉酒妻子果断报警求抓",
+      "onboard_time": 1718164099,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 267523,
@@ -537,14 +553,6 @@
       "onboard_time": 1718117782,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255180,
-      "num": 255180,
-      "word": "老公走路像醉酒妻子果断报警求抓",
-      "onboard_time": 1718164099,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 249328,
@@ -595,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242204,
-      "num": 242204,
-      "word": "马伯庸 剑网3",
-      "onboard_time": 1718165720,
-      "rank": 30,
-      "category": "读书作家,游戏"
+      "raw_hot": 239853,
+      "num": 575899,
+      "word": "00后用AI帮人谈恋爱月入百万",
+      "onboard_time": 1718164819,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 239225,
@@ -609,6 +617,14 @@
       "onboard_time": 1718162479,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 238419,
+      "num": 238419,
+      "word": "樊振东连续500周世界前五",
+      "onboard_time": 1718166080,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 237239,
@@ -667,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217062,
+      "num": 217062,
+      "word": "拍结婚照同时请了男摄和女摄",
+      "onboard_time": 1718166500,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 215356,
       "num": 215356,
       "word": "水断食减肥在韩青少年盛行",
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 214078,
-      "num": 218688,
+      "num": 387649,
       "word": "福宝左看看右看看",
       "onboard_time": 1718159717,
       "rank": 49,
@@ -731,8 +755,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192128,
-      "num": 192128,
+      "raw_hot": 193860,
+      "num": 193860,
       "word": "河南南阳一小区恶狗咬伤7人",
       "onboard_time": 1718164340,
       "rank": 33,
@@ -801,14 +825,6 @@
       "onboard_time": 1718150538,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177196,
-      "num": 177196,
-      "word": "樊振东连续500周世界前五",
-      "onboard_time": 1718166080,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 174665,
@@ -923,14 +939,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 142700,
-      "num": 575899,
-      "word": "00后用AI帮人谈恋爱月入百万",
-      "onboard_time": 1718164819,
-      "rank": 9,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 142065,
       "num": 142065,
       "word": "王星越吻技",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1718111180,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119593,
+      "num": 119593,
+      "word": "王大雷腿部拉伤",
+      "onboard_time": 1718166800,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119293,
@@ -1187,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80406,
+      "num": 304716,
+      "word": "猫王大赛第一天有20万只猫报名",
+      "onboard_time": 1718164999,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80324,
       "num": 92296,
       "word": "金智媛刚出道被误认是外国人",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1718110219,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75693,
+      "num": 238544,
+      "word": "偷感很重的食物你吃过么",
+      "onboard_time": 1718166380,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 69801,
@@ -1259,14 +1291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58800,
-      "num": 304716,
-      "word": "猫王大赛第一天有20万只猫报名",
-      "onboard_time": 1718164999,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55455,
       "num": 537407,
       "word": "大数据看端午假期出行",
@@ -1299,20 +1323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45401,
+      "num": 331622,
+      "word": "吴镇宇海澜之家",
+      "onboard_time": 1718165539,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42488,
       "num": 39842,
       "word": "风象星座不为人知的秘密",
       "onboard_time": 1718126833,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 40665,
-      "num": 293724,
-      "word": "吴镇宇海澜之家",
-      "onboard_time": 1718165539,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 39406,
