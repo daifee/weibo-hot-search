@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/12 00:25:03 ~ 2024/06/12 22:17:50
+本榜单时间：2024/06/12 00:25:03 ~ 2024/06/12 22:35:19
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%A3%B0%E6%98%8E%23" target="weibo">
+歌手声明（热度：2882708）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E8%80%83%E5%8D%9A%E6%88%90%E5%8A%9F%23" target="weibo">
@@ -81,12 +87,6 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%A3%B0%E6%98%8E%23" target="weibo">
-歌手声明（热度：1304491）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B2%A1%E6%9C%89%E4%BA%86%E4%BA%94%E8%8A%B1%E8%82%89%E8%87%AA%E7%94%B1%23" target="weibo">
 韩国没有了五花肉自由（热度：1262905）
 </a>
@@ -95,6 +95,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%9B%9D%E4%B8%8ESpaceX%E5%A4%9A%E5%90%8D%E5%91%98%E5%B7%A5%E6%9C%89%E6%9F%93%23" target="weibo">
 马斯克被曝与SpaceX多名员工有染（热度：1225608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%B0%E9%87%8C%E9%9F%A6%E6%96%AF%E7%89%B9%E5%8E%BB%E4%B8%96%23" target="weibo">
+杰里韦斯特去世（热度：1145712）
 </a>
 </li>
 
@@ -123,12 +129,6 @@ Jennie 晚奶（热度：1084973）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%B0%E9%87%8C%E9%9F%A6%E6%96%AF%E7%89%B9%E5%8E%BB%E4%B8%96%23" target="weibo">
-杰里韦斯特去世（热度：1066853）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%90%E6%98%8E%E6%98%9F%20%E5%9D%90%E7%94%B5%E6%A2%AF%E8%80%8D%E5%A4%A7%E7%89%8C%23" target="weibo">
 某明星 坐电梯耍大牌（热度：1005101）
 </a>
@@ -137,6 +137,12 @@ Jennie 晚奶（热度：1084973）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E8%A6%81%E4%B8%8D%E8%A6%81%E6%94%BE%E5%BC%83%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C%23" target="weibo">
 27岁要不要放弃体制内工作（热度：952100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E9%83%A8%E5%89%A7%E5%B8%A6%E7%81%AB%E4%BA%865%E4%B8%AA%E4%BA%BA%23" target="weibo">
+刘亦菲一部剧带火了5个人（热度：950644）
 </a>
 </li>
 
@@ -159,8 +165,8 @@ Angelababy线下生图状态（热度：891895）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E9%83%A8%E5%89%A7%E5%B8%A6%E7%81%AB%E4%BA%865%E4%B8%AA%E4%BA%BA%23" target="weibo">
-刘亦菲一部剧带火了5个人（热度：867063）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%91%E5%A5%B3%E8%85%8B%E7%AA%9D%E6%B1%97%E8%92%B8%E9%A5%AD%E5%9B%A2%23" target="weibo">
+日本少女腋窝汗蒸饭团（热度：840147）
 </a>
 </li>
 
@@ -227,12 +233,6 @@ Angelababy线下生图状态（热度：891895）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%88%8F%E5%9B%9E%E5%BA%94%E6%9E%97%E6%9B%B4%E6%96%B0%E8%80%83%E5%8D%9A%E6%88%90%E5%8A%9F%23" target="weibo">
 上戏回应林更新考博成功（热度：641411）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%91%E5%A5%B3%E8%85%8B%E7%AA%9D%E6%B1%97%E8%92%B8%E9%A5%AD%E5%9B%A2%23" target="weibo">
-日本少女腋窝汗蒸饭团（热度：639426）
 </a>
 </li>
 
@@ -591,6 +591,12 @@ baby肚 猫咪纹（热度：468314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%BE%88%E5%8F%AF%E6%80%9C%23" target="weibo">
+现在的年轻人真的很可怜（热度：347581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E5%86%9B%E8%A3%85%23" target="weibo">
 田柾国军装（热度：346241）
 </a>
@@ -683,12 +689,6 @@ BTS合体（热度：326559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%23" target="weibo">
 高温（热度：314611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9C%9F%E7%9A%84%E5%BE%88%E5%8F%AF%E6%80%9C%23" target="weibo">
-现在的年轻人真的很可怜（热度：312321）
 </a>
 </li>
 
@@ -1053,6 +1053,12 @@ BTS合体（热度：326559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%BD%97%E5%B7%B4%E7%9A%84%E5%A4%8F%E5%A4%A9%23" target="weibo">
+欧罗巴的夏天（热度：210647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%88%86%E9%92%9F%E5%8E%95%E6%89%80%E6%95%88%E5%BA%94%23" target="weibo">
 十分钟厕所效应（热度：209072）
 </a>
@@ -1061,6 +1067,12 @@ BTS合体（热度：326559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%AE%E5%88%B0%E6%9E%97%E6%9B%B4%E6%96%B0%E5%87%BA%E5%9C%BA%E4%BA%86%23" target="weibo">
 轮到林更新出场了（热度：207793）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%83%E5%9B%BD%E5%85%AC%E7%9A%84%E9%B8%B3%E9%B8%AF%E8%82%9A%E5%85%9C%E6%8C%82%E5%9C%A8%E4%BB%A4%E5%A6%83%E5%A8%98%E5%A8%98%E8%BA%AB%E4%B8%8A%23" target="weibo">
+肃国公的鸳鸯肚兜挂在令妃娘娘身上（热度：204997）
 </a>
 </li>
 
@@ -1095,14 +1107,14 @@ LNG团战（热度：203834）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%83%E5%9B%BD%E5%85%AC%E7%9A%84%E9%B8%B3%E9%B8%AF%E8%82%9A%E5%85%9C%E6%8C%82%E5%9C%A8%E4%BB%A4%E5%A6%83%E5%A8%98%E5%A8%98%E8%BA%AB%E4%B8%8A%23" target="weibo">
-肃国公的鸳鸯肚兜挂在令妃娘娘身上（热度：202481）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A1%95%E7%8F%8D%E7%9B%B4%E6%92%AD%23" target="weibo">
+金硕珍直播（热度：200234）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A1%95%E7%8F%8D%E7%9B%B4%E6%92%AD%23" target="weibo">
-金硕珍直播（热度：200234）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%E8%B5%9B%E7%A8%8B%23" target="weibo">
+欧洲杯赛程（热度：198949）
 </a>
 </li>
 
@@ -1329,6 +1341,12 @@ iOS18可检测是否正使用慢速充电器（热度：170854）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E4%B8%8A%E7%BA%BF%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B9%9F%E4%B8%8D%E8%BF%9C%E4%BA%86%23" target="weibo">
+林更新上线霍建华也不远了（热度：165501）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%AE%8C%E6%83%B3%E6%95%B4%E7%89%99%E7%88%B8%E5%A6%88%E4%B8%8D%E5%90%8C%E6%84%8F%23" target="weibo">
 高考完想整牙爸妈不同意（热度：165280）
 </a>
@@ -1467,6 +1485,12 @@ iOS17升级率77%（热度：160460）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD25%E5%88%86%E9%80%86%E8%A2%AD985%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
+男生高考英语25分逆袭985研究生（热度：147491）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E9%A5%BF%E4%BA%86%E7%9C%9F%E6%AD%A3%E6%8E%A8%E8%8D%90%E5%90%83%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
 睡前饿了真正推荐吃的食物（热度：147130）
 </a>
@@ -1535,6 +1559,12 @@ Doinb爆料iboy做陪玩去了（热度：142098）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E5%90%8D%E5%B0%91%E5%B9%B4%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%AE%88%E6%8A%A4%E8%B5%B0%E4%B8%A2%E5%AE%9D%E5%AE%9D%23" target="weibo">
 5名少年教科书式守护走丢宝宝（热度：140408）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B6%E5%A5%B6%E4%B8%BA%E5%90%AC%E4%B9%A1%E9%9F%B33%E5%88%B7%E7%B9%81%E8%8A%B1%23" target="weibo">
+台湾奶奶为听乡音3刷繁花（热度：139812）
 </a>
 </li>
 
@@ -1643,12 +1673,6 @@ TES战胜OMG（热度：130105）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%BD%92%E6%9D%A5%E8%B6%B3%E5%8D%8F%E5%89%AF%E4%B8%BB%E5%B8%AD%E8%AE%B8%E5%9F%BA%E4%BB%81%E6%8E%A5%E6%9C%BA%23" target="weibo">
 国足归来足协副主席许基仁接机（热度：129674）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B6%E5%A5%B6%E4%B8%BA%E5%90%AC%E4%B9%A1%E9%9F%B33%E5%88%B7%E7%B9%81%E8%8A%B1%23" target="weibo">
-台湾奶奶为听乡音3刷繁花（热度：129261）
 </a>
 </li>
 
@@ -1863,6 +1887,12 @@ C罗梅开二度（热度：119075）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B8%82%E5%80%BC%E5%8F%8D%E8%B6%85%E5%BE%AE%E8%BD%AF%23" target="weibo">
+苹果市值反超微软（热度：111639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%87%E8%94%9A%E5%98%89%E5%AE%BE%20%E4%BC%8D%E4%BD%B0%23" target="weibo">
 莫文蔚嘉宾 伍佰（热度：111433）
 </a>
@@ -1989,6 +2019,12 @@ TCG首秀首胜（热度：102301）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23A%E5%8D%B7%E5%8D%B7%23" target="weibo">
+A卷卷（热度：94454）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B3%BD%E5%92%AC%E7%A7%A6%E5%BF%97%E8%BF%9C%23" target="weibo">
 陈泽咬秦志远（热度：93876）
 </a>
@@ -2051,12 +2087,6 @@ iPadOS18细节功能一览（热度：84048）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E5%AA%9B%E5%88%9A%E5%87%BA%E9%81%93%E8%A2%AB%E8%AF%AF%E8%AE%A4%E6%98%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%23" target="weibo">
 金智媛刚出道被误认是外国人（热度：80324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD25%E5%88%86%E9%80%86%E8%A2%AD985%E7%A0%94%E7%A9%B6%E7%94%9F%23" target="weibo">
-男生高考英语25分逆袭985研究生（热度：76965）
 </a>
 </li>
 
@@ -2139,6 +2169,12 @@ iPadOS18细节功能一览（热度：84048）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%8B%E7%BA%AF%E7%94%B5%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0%23" target="weibo">
+领克纯电虽迟但到（热度：57911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E6%8B%92%E7%BB%9D%E8%B6%85%E8%BD%BD%E8%AE%A2%E5%8D%95%E5%8F%8D%E8%A2%AB%E8%B4%A7%E8%BF%90%E5%B9%B3%E5%8F%B0%E6%89%A3%E5%88%86%23" target="weibo">
 司机拒绝超载订单反被货运平台扣分（热度：56832）
 </a>
@@ -2181,6 +2217,12 @@ iPadOS18细节功能一览（热度：84048）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E5%A5%B3%E5%AD%A9%E7%94%A8%E7%A7%8D%E6%A0%91%E5%BD%A2%E5%AE%B9%E8%87%AA%E5%AD%A6%E7%BB%8F%E5%8E%86%23" target="weibo">
+农村女孩用种树形容自学经历（热度：49001）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%82%80%E7%99%BE%E5%90%8D%E8%B6%B3%E7%90%83%E5%B0%91%E5%B9%B4%E5%8E%BB%E6%AC%A7%E6%B4%B2%E6%9D%AF%23" target="weibo">
 比亚迪邀百名足球少年去欧洲杯（热度：48123）
 </a>
@@ -2195,12 +2237,6 @@ iPadOS18细节功能一览（热度：84048）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iCAR03%E6%99%BA%E9%A9%BE%E6%8B%BF%E4%B8%8B%E9%9B%BE%E9%83%BD%23" target="weibo">
 iCAR03智驾拿下雾都（热度：47780）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%8B%E7%BA%AF%E7%94%B5%E8%99%BD%E8%BF%9F%E4%BD%86%E5%88%B0%23" target="weibo">
-领克纯电虽迟但到（热度：46435）
 </a>
 </li>
 
@@ -2381,6 +2417,12 @@ FBI揭秘全美最大杀手组织（热度：22833）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E5%9B%9E%E4%BF%A1%23%23" target="weibo">
 #习近平给清华教授回信#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%BA%E5%BB%BA%E8%AE%BE%E6%95%99%E8%82%B2%E5%BC%BA%E5%9B%BD%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E4%BD%9C%E5%87%BA%E6%96%B0%E7%9A%84%E8%B4%A1%E7%8C%AE%23%23" target="weibo">
+#为建设教育强国科技强国作出新的贡献#
 </a>
 </li>
 

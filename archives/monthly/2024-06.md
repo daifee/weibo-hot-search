@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/12 22:17:50
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/12 22:35:19
 </p>
 </blockquote>
 <p>
@@ -125,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B31%E6%AF%941%E6%B3%B0%E5%9B%BD%23" target="weibo">
 国足1比1泰国（热度：2931096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%A3%B0%E6%98%8E%23" target="weibo">
+歌手声明（热度：2882708）
 </a>
 </li>
 
@@ -921,12 +927,6 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%A3%B0%E6%98%8E%23" target="weibo">
-歌手声明（热度：1304491）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%A6%BB%E9%AB%98%E8%80%83%E5%8F%AA%E6%9C%89%E4%B8%89%E5%A4%A9%E6%89%8B%E7%AD%8B%E6%96%AD%E4%BA%86%E4%B8%80%E6%A0%B9%23" target="weibo">
 弟弟离高考只有三天手筋断了一根（热度：1293666）
 </a>
@@ -1251,6 +1251,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%B0%E9%87%8C%E9%9F%A6%E6%96%AF%E7%89%B9%E5%8E%BB%E4%B8%96%23" target="weibo">
+杰里韦斯特去世（热度：1145712）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E9%AB%98%E8%80%83%23" target="weibo">
 2024高考（热度：1145518）
 </a>
@@ -1509,12 +1515,6 @@ Jennie 晚奶（热度：1084973）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%B0%E9%87%8C%E9%9F%A6%E6%96%AF%E7%89%B9%E5%8E%BB%E4%B8%96%23" target="weibo">
-杰里韦斯特去世（热度：1066853）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%B2%BE%E6%B6%B2%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%87%B4%E7%99%8C%E5%BE%AE%E5%A1%91%E6%96%99%23" target="weibo">
 人类精液中发现致癌微塑料（热度：1061912）
 </a>
@@ -1745,6 +1745,12 @@ iPhone有通话录音了（热度：1060619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E8%A6%81%E4%B8%8D%E8%A6%81%E6%94%BE%E5%BC%83%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C%23" target="weibo">
 27岁要不要放弃体制内工作（热度：952100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E9%83%A8%E5%89%A7%E5%B8%A6%E7%81%AB%E4%BA%865%E4%B8%AA%E4%BA%BA%23" target="weibo">
+刘亦菲一部剧带火了5个人（热度：950644）
 </a>
 </li>
 
@@ -2013,12 +2019,6 @@ B太 水果礼盒触碰了商家的逆鳞（热度：868516）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E9%83%A8%E5%89%A7%E5%B8%A6%E7%81%AB%E4%BA%865%E4%B8%AA%E4%BA%BA%23" target="weibo">
-刘亦菲一部剧带火了5个人（热度：867063）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%A2%AB%E5%89%8D%E5%90%88%E4%BD%9C%E5%93%81%E7%89%8C%E6%96%B9%E8%B5%B7%E8%AF%89%23" target="weibo">
 张继科被前合作品牌方起诉（热度：865090）
 </a>
@@ -2117,6 +2117,12 @@ iPhone15有五种充电上限了（热度：864883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E6%95%B0%E5%AD%A6%E6%AF%81%E4%BA%86%E6%88%91%E7%9A%84%E5%A4%A7%E5%AD%A6%E6%A2%A6%23" target="weibo">
 一场数学毁了我的大学梦（热度：842126）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%91%E5%A5%B3%E8%85%8B%E7%AA%9D%E6%B1%97%E8%92%B8%E9%A5%AD%E5%9B%A2%23" target="weibo">
+日本少女腋窝汗蒸饭团（热度：840147）
 </a>
 </li>
 
@@ -3497,12 +3503,6 @@ lululemon在美国卖不动了（热度：650950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E8%90%BD%E5%90%8E%E6%B3%B0%E5%9B%BD%23" target="weibo">
 国足落后泰国（热度：640230）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%91%E5%A5%B3%E8%85%8B%E7%AA%9D%E6%B1%97%E8%92%B8%E9%A5%AD%E5%9B%A2%23" target="weibo">
-日本少女腋窝汗蒸饭团（热度：639426）
 </a>
 </li>
 
@@ -6239,6 +6239,12 @@ TF家族一代二代同台（热度：435240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E6%B8%85%E5%8D%8E%E6%95%99%E6%8E%88%E5%9B%9E%E4%BF%A1%23%23" target="weibo">
 #习近平给清华教授回信#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%BA%E5%BB%BA%E8%AE%BE%E6%95%99%E8%82%B2%E5%BC%BA%E5%9B%BD%E7%A7%91%E6%8A%80%E5%BC%BA%E5%9B%BD%E4%BD%9C%E5%87%BA%E6%96%B0%E7%9A%84%E8%B4%A1%E7%8C%AE%23%23" target="weibo">
+#为建设教育强国科技强国作出新的贡献#
 </a>
 </li>
 
