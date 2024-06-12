@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718227111098,
+  "endTime": 1718228118562,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -31995,6 +31995,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 66218,
+      "num": 66218,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66175,
       "num": 881714,
       "word": "被中国皮影戏的灵动征服了",
@@ -32433,14 +32441,6 @@
       "onboard_time": 1717644739,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59596,
-      "num": 59596,
-      "word": "东北孩子噩梦马上就来了",
-      "onboard_time": 1718219711,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 59595,
@@ -33731,6 +33731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 41234,
+      "num": 41234,
+      "word": "网曝吉林银行取款需派出所同意",
+      "onboard_time": 1718226551,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40932,
       "num": 447472,
       "word": "书包塑化剂超标或干扰内分泌系统",
@@ -34843,6 +34851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 24128,
+      "num": 24128,
+      "word": "原来天和空是有区别的",
+      "onboard_time": 1718222170,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 24078,
       "num": 229597,
       "word": "小鬼对毛不易连环问",
@@ -34859,20 +34875,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23550,
+      "num": 23550,
+      "word": "吴谨言回复罗伯特",
+      "onboard_time": 1718223130,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23282,
       "num": 24912,
       "word": "人间失格音乐剧",
       "onboard_time": 1717609753,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23189,
-      "num": 23422,
-      "word": "吴谨言回复罗伯特",
-      "onboard_time": 1718223130,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 23169,
@@ -34977,14 +34993,6 @@
       "onboard_time": 1717181292,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 21852,
-      "num": 23443,
-      "word": "原来天和空是有区别的",
-      "onboard_time": 1718222170,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 21846,
@@ -35195,6 +35203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17857,
+      "num": 23435,
+      "word": "福宝爱吃的都在蛋糕里",
+      "onboard_time": 1718214552,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17803,
       "num": 21605,
       "word": "北方人的梦魇南方人的团建",
@@ -35259,14 +35275,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 16886,
-      "num": 16886,
-      "word": "网曝吉林银行取款需派出所同意",
-      "onboard_time": 1718226551,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16712,
       "num": 209737,
       "word": "福宝回家2个多月体重稳定",
@@ -35289,14 +35297,6 @@
       "onboard_time": 1717329618,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16417,
-      "num": 23435,
-      "word": "福宝爱吃的都在蛋糕里",
-      "onboard_time": 1718214552,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16039,
@@ -35401,6 +35401,14 @@
       "onboard_time": 1717521672,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14687,
+      "num": 18741,
+      "word": "猫咪很热的8个表现",
+      "onboard_time": 1718226370,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 14613,
@@ -35553,14 +35561,6 @@
       "onboard_time": 1717752261,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12957,
-      "num": 15698,
-      "word": "猫咪很热的8个表现",
-      "onboard_time": 1718226370,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 12873,

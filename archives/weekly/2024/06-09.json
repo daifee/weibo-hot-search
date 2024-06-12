@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718227111098,
+  "endTime": 1718228118562,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -10963,6 +10963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66218,
+      "num": 66218,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66175,
       "num": 881714,
       "word": "被中国皮影戏的灵动征服了",
@@ -11057,14 +11065,6 @@
       "onboard_time": 1718155097,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59596,
-      "num": 59596,
-      "word": "东北孩子噩梦马上就来了",
-      "onboard_time": 1718219711,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 59584,
@@ -11619,6 +11619,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 41234,
+      "num": 41234,
+      "word": "网曝吉林银行取款需派出所同意",
+      "onboard_time": 1718226551,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40886,
       "num": 26577,
       "word": "脚露在外面睡觉有什么好处",
@@ -11995,8 +12003,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23189,
-      "num": 23422,
+      "raw_hot": 24128,
+      "num": 24128,
+      "word": "原来天和空是有区别的",
+      "onboard_time": 1718222170,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 23550,
+      "num": 23550,
       "word": "吴谨言回复罗伯特",
       "onboard_time": 1718223130,
       "rank": 40,
@@ -12057,14 +12073,6 @@
       "onboard_time": 1718176521,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21852,
-      "num": 23443,
-      "word": "原来天和空是有区别的",
-      "onboard_time": 1718222170,
-      "rank": 35,
-      "category": "科学科普"
     },
     {
       "raw_hot": 20566,
@@ -12139,6 +12147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17857,
+      "num": 23435,
+      "word": "福宝爱吃的都在蛋糕里",
+      "onboard_time": 1718214552,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17803,
       "num": 21605,
       "word": "北方人的梦魇南方人的团建",
@@ -12177,22 +12193,6 @@
       "onboard_time": 1717858999,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16886,
-      "num": 16886,
-      "word": "网曝吉林银行取款需派出所同意",
-      "onboard_time": 1718226551,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16417,
-      "num": 23435,
-      "word": "福宝爱吃的都在蛋糕里",
-      "onboard_time": 1718214552,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16039,
@@ -12249,6 +12249,14 @@
       "onboard_time": 1717873992,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14687,
+      "num": 18741,
+      "word": "猫咪很热的8个表现",
+      "onboard_time": 1718226370,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 14554,
@@ -12321,14 +12329,6 @@
       "onboard_time": 1718136670,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12957,
-      "num": 15698,
-      "word": "猫咪很热的8个表现",
-      "onboard_time": 1718226370,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 12283,
