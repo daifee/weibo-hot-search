@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718210375715,
+  "endTime": 1718212653104,
   "band_list": [
     {
       "raw_hot": 579038,
@@ -73,6 +73,14 @@
       "onboard_time": 1718204060,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219516,
+      "num": 113695,
+      "word": "专家说杨梅是减肥人士的福音",
+      "onboard_time": 1718209876,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 219260,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114648,
+      "num": 573898,
+      "word": "南京咖啡阿姨说天下没有不散的筵席",
+      "onboard_time": 1718209458,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109642,
       "num": 574162,
       "word": "某明星 坐电梯耍大牌",
@@ -193,6 +209,14 @@
       "onboard_time": 1718208378,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105103,
+      "num": 571688,
+      "word": "网红胡涵溪93岁姥姥去世",
+      "onboard_time": 1718209037,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 103962,
@@ -235,12 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97226,
-      "num": 571688,
-      "word": "网红胡涵溪93岁姥姥去世",
-      "onboard_time": 1718209037,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 100142,
+      "num": 573334,
+      "word": "吉林银行回应储户取款需派出所同意",
+      "onboard_time": 1718208017,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96845,
@@ -249,14 +273,6 @@
       "onboard_time": 1718202139,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90814,
-      "num": 573334,
-      "word": "吉林银行回应储户取款需派出所同意",
-      "onboard_time": 1718208017,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89187,
@@ -289,14 +305,6 @@
       "onboard_time": 1718188099,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71811,
-      "num": 71811,
-      "word": "专家说杨梅是减肥人士的福音",
-      "onboard_time": 1718209876,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 71661,
@@ -387,14 +395,6 @@
       "category": "科学科普,演出"
     },
     {
-      "raw_hot": 45186,
-      "num": 573898,
-      "word": "南京咖啡阿姨说天下没有不散的筵席",
-      "onboard_time": 1718209458,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44466,
       "num": 578785,
       "word": "中国航天员站在机械臂上和地球同框",
@@ -403,11 +403,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40290,
+      "num": 45467,
+      "word": "玫瑰的故事",
+      "onboard_time": 1718197278,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22246,
       "num": 576705,
       "word": "花花七仔来给福宝扎场子",
       "onboard_time": 1718207597,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22177,
+      "num": 114071,
+      "word": "验瓜师每天拍上万个西瓜收入千元",
+      "onboard_time": 1718211315,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3116,
+      "num": 173243,
+      "word": "高考报志愿要了解的16个关键词",
+      "onboard_time": 1718150116,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
