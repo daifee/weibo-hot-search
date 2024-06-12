@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718188616313,
+  "endTime": 1718191098092,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -449,6 +449,14 @@
       "onboard_time": 1717888634,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1087721,
+      "num": 1087721,
+      "word": "马斯克被曝与SpaceX多名员工有染",
+      "onboard_time": 1718188337,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1084973,
@@ -2203,6 +2211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 461267,
+      "num": 198527,
+      "word": "这是初恋吗 这是家里进贼了",
+      "onboard_time": 1718188099,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460718,
       "num": 156558,
       "word": "月经这3种怪颜色是就医信号",
@@ -2771,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375968,
+      "num": 180705,
+      "word": "买一送一和五折哪个更划算",
+      "onboard_time": 1718185879,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 373973,
       "num": 318812,
       "word": "林更新36岁演学生",
@@ -2993,14 +3017,6 @@
       "onboard_time": 1718004859,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 352531,
-      "num": 180705,
-      "word": "买一送一和五折哪个更划算",
-      "onboard_time": 1718185879,
-      "rank": 21,
-      "category": "科学科普"
     },
     {
       "raw_hot": 351269,
@@ -3284,7 +3300,7 @@
     },
     {
       "raw_hot": 332098,
-      "num": 297027,
+      "num": 327842,
       "word": "韩国UP主爆料20年前集体性侵案",
       "onboard_time": 1718183599,
       "rank": 29,
@@ -3483,14 +3499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 312455,
-      "num": 312455,
-      "word": "马斯克被曝与SpaceX多名员工有染",
-      "onboard_time": 1718188337,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310408,
       "num": 310408,
       "word": "马嘉祺新歌MV有女主",
@@ -3681,6 +3689,14 @@
       "onboard_time": 1717997056,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296332,
+      "num": 296332,
+      "word": "王星越说卢昱晓背台词快",
+      "onboard_time": 1718186178,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 295950,
@@ -4251,6 +4267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 252845,
+      "num": 197544,
+      "word": "刘亦菲能去浪姐吗",
+      "onboard_time": 1718190379,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251768,
       "num": 251768,
       "word": "袁娅维 导演组你什么意思",
@@ -4593,14 +4617,6 @@
       "onboard_time": 1718002638,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 232090,
-      "num": 232090,
-      "word": "王星越说卢昱晓背台词快",
-      "onboard_time": 1718186178,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 231808,
@@ -6147,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182063,
+      "num": 167185,
+      "word": "刘亦菲初中旧照",
+      "onboard_time": 1718190019,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181953,
       "num": 181953,
       "word": "王大雷怒骂方昊",
@@ -6979,6 +7003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159266,
+      "num": 159266,
+      "word": "戴簪花的萨摩耶",
+      "onboard_time": 1718185939,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159154,
       "num": 159154,
       "word": "晋江 界面",
@@ -7041,14 +7073,6 @@
       "onboard_time": 1717995018,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157934,
-      "num": 157934,
-      "word": "戴簪花的萨摩耶",
-      "onboard_time": 1718185939,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 157835,
@@ -7121,14 +7145,6 @@
       "onboard_time": 1717841778,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 156689,
-      "num": 143198,
-      "word": "这是初恋吗 这是家里进贼了",
-      "onboard_time": 1718188099,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 156634,
@@ -7305,6 +7321,14 @@
       "onboard_time": 1718016738,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 152275,
+      "num": 152275,
+      "word": "林更新 格格不入",
+      "onboard_time": 1718189117,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 152189,
@@ -7971,6 +7995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137768,
+      "num": 137768,
+      "word": "边伯贤去香港迪士尼了",
+      "onboard_time": 1718189718,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137581,
       "num": 137581,
       "word": "周深祝毕业快乐",
@@ -8259,6 +8291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132365,
+      "num": 132365,
+      "word": "白羊座慕的不仅仅是强",
+      "onboard_time": 1718187079,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132284,
       "num": 132284,
       "word": "公司端午节就发了一个咸鸭蛋",
@@ -8331,6 +8371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130617,
+      "num": 130617,
+      "word": "JDG对战TCG",
+      "onboard_time": 1718185278,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130574,
       "num": 130574,
       "word": "刘亦菲 流浪小三花",
@@ -8369,6 +8417,14 @@
       "onboard_time": 1717903157,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129674,
+      "num": 129674,
+      "word": "国足归来足协副主席许基仁接机",
+      "onboard_time": 1718189478,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 129620,
@@ -8555,6 +8611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125389,
+      "num": 125389,
+      "word": "小玖孙尚香四杀",
+      "onboard_time": 1718190860,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125250,
       "num": 125250,
       "word": "你是耙耙柑型人格吗",
@@ -8688,14 +8752,6 @@
       "word": "BLG战胜LGD",
       "onboard_time": 1718028561,
       "rank": 46,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 122494,
-      "num": 122494,
-      "word": "JDG对战TCG",
-      "onboard_time": 1718185278,
-      "rank": 36,
       "category": "电竞"
     },
     {
@@ -8841,6 +8897,14 @@
       "onboard_time": 1718028438,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119789,
+      "num": 119789,
+      "word": "物理防晒真的很重要",
+      "onboard_time": 1718190558,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 119593,
@@ -9435,14 +9499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104471,
-      "num": 104471,
-      "word": "白羊座慕的不仅仅是强",
-      "onboard_time": 1718187079,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104061,
       "num": 104061,
       "word": "阿尔卡拉斯3比2兹维列夫",
@@ -9464,6 +9520,14 @@
       "word": "FPX对战EDG",
       "onboard_time": 1718014518,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 103324,
+      "num": 103324,
+      "word": "韩华bp",
+      "onboard_time": 1718184859,
+      "rank": 47,
       "category": "电竞"
     },
     {
@@ -9489,6 +9553,14 @@
       "onboard_time": 1718012838,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102692,
+      "num": 102692,
+      "word": "鞠婧祎 眉弓",
+      "onboard_time": 1718191038,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 101975,
@@ -9544,6 +9616,14 @@
       "word": "北方小孩第一次吃咸肉粽",
       "onboard_time": 1718029580,
       "rank": 49,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 99719,
+      "num": 99719,
+      "word": "云南人是会吃花的",
+      "onboard_time": 1718190258,
+      "rank": 46,
       "category": "美食"
     },
     {
@@ -9659,12 +9739,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 96137,
-      "num": 96137,
-      "word": "韩华bp",
-      "onboard_time": 1718184859,
+      "raw_hot": 96118,
+      "num": 96118,
+      "word": "刘昊然奥利异父异母亲兄弟",
+      "onboard_time": 1718190978,
       "rank": 47,
-      "category": "电竞"
+      "category": "综艺"
     },
     {
       "raw_hot": 95980,
@@ -9737,6 +9817,14 @@
       "onboard_time": 1718098399,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 93876,
+      "num": 93876,
+      "word": "陈泽咬秦志远",
+      "onboard_time": 1718190379,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 93095,
@@ -10428,7 +10516,7 @@
     },
     {
       "raw_hot": 53102,
-      "num": 115431,
+      "num": 178556,
       "word": "智能座舱要噱头还是要实用",
       "onboard_time": 1718188218,
       "rank": 38,
@@ -11043,6 +11131,14 @@
       "category": "科学科普,美食"
     },
     {
+      "raw_hot": 25966,
+      "num": 173513,
+      "word": "京东618晚会送极氪X汽车",
+      "onboard_time": 1718188758,
+      "rank": 18,
+      "category": "综艺,汽车"
+    },
+    {
       "raw_hot": 25957,
       "num": 122152,
       "word": "一人一句祝福2024毕业生",
@@ -11065,6 +11161,14 @@
       "onboard_time": 1718096417,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23620,
+      "num": 199291,
+      "word": "福宝回国后在四川松弛感拉满",
+      "onboard_time": 1718190437,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23030,
@@ -11385,6 +11489,14 @@
       "onboard_time": 1717867814,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 9914,
+      "num": 94296,
+      "word": "当coffee可以ai",
+      "onboard_time": 1718190978,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 9490,

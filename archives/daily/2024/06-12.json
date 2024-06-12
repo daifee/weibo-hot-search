@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718188616313,
+  "endTime": 1718191098092,
   "band_list": [
     {
       "raw_hot": 2786155,
@@ -97,6 +97,14 @@
       "onboard_time": 1718159838,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1087721,
+      "num": 1087721,
+      "word": "马斯克被曝与SpaceX多名员工有染",
+      "onboard_time": 1718188337,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1084973,
@@ -419,6 +427,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 461267,
+      "num": 198527,
+      "word": "这是初恋吗 这是家里进贼了",
+      "onboard_time": 1718188099,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456511,
       "num": 575899,
       "word": "00后用AI帮人谈恋爱月入百万",
@@ -555,20 +571,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375968,
+      "num": 180705,
+      "word": "买一送一和五折哪个更划算",
+      "onboard_time": 1718185879,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 361357,
       "num": 361357,
       "word": "林更新总成绩排名专业第2",
       "onboard_time": 1718176639,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 352531,
-      "num": 180705,
-      "word": "买一送一和五折哪个更划算",
-      "onboard_time": 1718185879,
-      "rank": 21,
-      "category": "科学科普"
     },
     {
       "raw_hot": 349054,
@@ -652,7 +668,7 @@
     },
     {
       "raw_hot": 332098,
-      "num": 297027,
+      "num": 327842,
       "word": "韩国UP主爆料20年前集体性侵案",
       "onboard_time": 1718183599,
       "rank": 29,
@@ -699,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312455,
-      "num": 312455,
-      "word": "马斯克被曝与SpaceX多名员工有染",
-      "onboard_time": 1718188337,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 309992,
       "num": 203338,
       "word": "狐妖月红篇be大结局",
@@ -737,6 +745,14 @@
       "onboard_time": 1718181020,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 296332,
+      "num": 296332,
+      "word": "王星越说卢昱晓背台词快",
+      "onboard_time": 1718186178,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 295104,
@@ -883,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252845,
+      "num": 197544,
+      "word": "刘亦菲能去浪姐吗",
+      "onboard_time": 1718190379,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249328,
       "num": 249328,
       "word": "福宝营业前在干嘛",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1718184198,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 232090,
-      "num": 232090,
-      "word": "王星越说卢昱晓背台词快",
-      "onboard_time": 1718186178,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 231808,
@@ -1283,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182063,
+      "num": 167185,
+      "word": "刘亦菲初中旧照",
+      "onboard_time": 1718190019,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181953,
       "num": 181953,
       "word": "王大雷怒骂方昊",
@@ -1451,8 +1475,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 157934,
-      "num": 157934,
+      "raw_hot": 159266,
+      "num": 159266,
       "word": "戴簪花的萨摩耶",
       "onboard_time": 1718185939,
       "rank": 26,
@@ -1465,14 +1489,6 @@
       "onboard_time": 1718160618,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 156689,
-      "num": 143198,
-      "word": "这是初恋吗 这是家里进贼了",
-      "onboard_time": 1718188099,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 156045,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1718121558,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152275,
+      "num": 152275,
+      "word": "林更新 格格不入",
+      "onboard_time": 1718189117,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 151735,
@@ -1651,6 +1675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 137768,
+      "num": 137768,
+      "word": "边伯贤去香港迪士尼了",
+      "onboard_time": 1718189718,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137375,
       "num": 236868,
       "word": "商场里小丑狂奔救下卷入扶梯女孩",
@@ -1683,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132365,
+      "num": 132365,
+      "word": "白羊座慕的不仅仅是强",
+      "onboard_time": 1718187079,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 131764,
       "num": 131764,
       "word": "中国球迷给新加坡门将打钱",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1718122097,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130617,
+      "num": 130617,
+      "word": "JDG对战TCG",
+      "onboard_time": 1718185278,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 130074,
@@ -1715,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129674,
+      "num": 129674,
+      "word": "国足归来足协副主席许基仁接机",
+      "onboard_time": 1718189478,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126740,
       "num": 126740,
       "word": "大学生团体操后组团狂退400件裙子",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1718148136,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125389,
+      "num": 125389,
+      "word": "小玖孙尚香四杀",
+      "onboard_time": 1718190860,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 124046,
@@ -1761,14 +1825,6 @@
       "onboard_time": 1718187018,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122494,
-      "num": 122494,
-      "word": "JDG对战TCG",
-      "onboard_time": 1718185278,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 121798,
@@ -1825,6 +1881,14 @@
       "onboard_time": 1718111180,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119789,
+      "num": 119789,
+      "word": "物理防晒真的很重要",
+      "onboard_time": 1718190558,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 119593,
@@ -1995,14 +2059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104471,
-      "num": 104471,
-      "word": "白羊座慕的不仅仅是强",
-      "onboard_time": 1718187079,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 103724,
       "num": 103724,
       "word": "闲鱼回应多用户未经本人允许挂售同事",
@@ -2011,12 +2067,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103324,
+      "num": 103324,
+      "word": "韩华bp",
+      "onboard_time": 1718184859,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 102692,
+      "num": 102692,
+      "word": "鞠婧祎 眉弓",
+      "onboard_time": 1718191038,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102235,
       "num": 102235,
       "word": "拜合拉木真的硬",
       "onboard_time": 1718117962,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99719,
+      "num": 99719,
+      "word": "云南人是会吃花的",
+      "onboard_time": 1718190258,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 97299,
@@ -2035,12 +2115,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 96137,
-      "num": 96137,
-      "word": "韩华bp",
-      "onboard_time": 1718184859,
+      "raw_hot": 96118,
+      "num": 96118,
+      "word": "刘昊然奥利异父异母亲兄弟",
+      "onboard_time": 1718190978,
       "rank": 47,
-      "category": "电竞"
+      "category": "综艺"
     },
     {
       "raw_hot": 94615,
@@ -2049,6 +2129,14 @@
       "onboard_time": 1718119640,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93876,
+      "num": 93876,
+      "word": "陈泽咬秦志远",
+      "onboard_time": 1718190379,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 93095,
@@ -2252,7 +2340,7 @@
     },
     {
       "raw_hot": 53102,
-      "num": 115431,
+      "num": 178556,
       "word": "智能座舱要噱头还是要实用",
       "onboard_time": 1718188218,
       "rank": 38,
@@ -2379,12 +2467,28 @@
       "category": "科学科普,美食"
     },
     {
+      "raw_hot": 25966,
+      "num": 173513,
+      "word": "京东618晚会送极氪X汽车",
+      "onboard_time": 1718188758,
+      "rank": 18,
+      "category": "综艺,汽车"
+    },
+    {
       "raw_hot": 25369,
       "num": 202401,
       "word": "邓超是懂如何宠粉的",
       "onboard_time": 1718181260,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23620,
+      "num": 199291,
+      "word": "福宝回国后在四川松弛感拉满",
+      "onboard_time": 1718190437,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22833,
@@ -2473,6 +2577,14 @@
       "onboard_time": 1718147296,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 9914,
+      "num": 94296,
+      "word": "当coffee可以ai",
+      "onboard_time": 1718190978,
+      "rank": 48,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
