@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718230698776,
+  "endTime": 1718231728888,
   "band_list": [
     {
       "raw_hot": 579038,
@@ -17,6 +17,14 @@
       "onboard_time": 1718207958,
       "rank": 3,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 362199,
+      "num": 362199,
+      "word": "网曝吉林银行取款需派出所同意",
+      "onboard_time": 1718226551,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353221,
@@ -59,11 +67,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 252108,
-      "num": 252108,
-      "word": "网曝吉林银行取款需派出所同意",
-      "onboard_time": 1718226551,
-      "rank": 30,
+      "raw_hot": 250150,
+      "num": 573898,
+      "word": "南京咖啡阿姨说天下没有不散的筵席",
+      "onboard_time": 1718209458,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180071,
-      "num": 573898,
-      "word": "南京咖啡阿姨说天下没有不散的筵席",
-      "onboard_time": 1718209458,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178365,
       "num": 576489,
       "word": "乐华否认程潇吴宣仪耍大牌",
@@ -137,6 +137,14 @@
       "onboard_time": 1718194759,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158738,
+      "num": 158738,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 158416,
@@ -267,14 +275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100761,
-      "num": 100761,
-      "word": "东北孩子噩梦马上就来了",
-      "onboard_time": 1718219711,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 100142,
       "num": 573334,
       "word": "吉林银行回应储户取款需派出所同意",
@@ -395,6 +395,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 52219,
+      "num": 52219,
+      "word": "脚露在外面睡觉有什么好处",
+      "onboard_time": 1718217312,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 48856,
       "num": 570338,
       "word": "人生可以大错特错",
@@ -419,19 +427,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40886,
-      "num": 35287,
-      "word": "脚露在外面睡觉有什么好处",
-      "onboard_time": 1718217312,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 40290,
       "num": 78097,
       "word": "玫瑰的故事",
       "onboard_time": 1718197278,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37042,
+      "num": 30810,
+      "word": "黄亦玫徐海乔cp 玫进海选",
+      "onboard_time": 1718228412,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -459,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35017,
+      "num": 35017,
+      "word": "原来天和空是有区别的",
+      "onboard_time": 1718222170,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 34170,
       "num": 34170,
       "word": "新疆为什么像四个省份",
@@ -475,28 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33611,
-      "num": 33611,
-      "word": "原来天和空是有区别的",
-      "onboard_time": 1718222170,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 31662,
       "num": 31662,
       "word": "徐彰彬疑似推搡李龙馥",
       "onboard_time": 1718213834,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29578,
-      "num": 25547,
-      "word": "黄亦玫徐海乔cp 玫进海选",
-      "onboard_time": 1718228412,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 29389,
@@ -507,20 +507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23550,
-      "num": 23760,
-      "word": "吴谨言回复罗伯特",
-      "onboard_time": 1718223130,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22681,
-      "num": 23780,
+      "raw_hot": 25593,
+      "num": 29990,
       "word": "福宝爱吃的都在蛋糕里",
       "onboard_time": 1718214552,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23640,
+      "num": 29985,
+      "word": "吴谨言回复罗伯特",
+      "onboard_time": 1718223130,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 22246,
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22160,
+      "num": 29979,
+      "word": "抬头看的是天还是空",
+      "onboard_time": 1718219170,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19838,
       "num": 23492,
       "word": "岛屿少年",
@@ -539,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18224,
-      "num": 23744,
-      "word": "抬头看的是天还是空",
-      "onboard_time": 1718219170,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 18614,
+      "num": 29965,
+      "word": "猫咪很热的8个表现",
+      "onboard_time": 1718226370,
+      "rank": 46,
+      "category": "科学科普"
     },
     {
       "raw_hot": 17572,
@@ -553,14 +561,6 @@
       "onboard_time": 1718213173,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17068,
-      "num": 23731,
-      "word": "猫咪很热的8个表现",
-      "onboard_time": 1718226370,
-      "rank": 46,
-      "category": "科学科普"
     },
     {
       "raw_hot": 11779,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 3200,
-      "num": 173243,
+      "num": 220483,
       "word": "高考报志愿要了解的16个关键词",
       "onboard_time": 1718150116,
       "rank": 2,
