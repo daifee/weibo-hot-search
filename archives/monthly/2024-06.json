@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718219793315,
+  "endTime": 1718220858063,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -34507,6 +34507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30189,
+      "num": 30189,
+      "word": "怦然心动20岁 be",
+      "onboard_time": 1718218271,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30044,
       "num": 226266,
       "word": "有清华学霸爷爷送考高考绝对错不了",
@@ -34713,14 +34721,6 @@
       "onboard_time": 1717437852,
       "rank": 36,
       "category": "网红"
-    },
-    {
-      "raw_hot": 26016,
-      "num": 26016,
-      "word": "怦然心动20岁 be",
-      "onboard_time": 1718218271,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 25981,
@@ -35155,6 +35155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17936,
+      "num": 21548,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17803,
       "num": 21605,
       "word": "北方人的梦魇南方人的团建",
@@ -35339,6 +35347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14968,
+      "num": 21518,
+      "word": "岛屿少年",
+      "onboard_time": 1718220791,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14852,
       "num": 82609,
       "word": "第一批住进青荷驿站的年轻人怎样了",
@@ -35352,6 +35368,14 @@
       "word": "学校六一演出全场被孤勇者硬控",
       "onboard_time": 1717176374,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14597,
+      "num": 21504,
+      "word": "福宝爱吃的都在蛋糕里",
+      "onboard_time": 1718214552,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -35465,14 +35489,6 @@
       "onboard_time": 1717705631,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 13434,
-      "num": 21201,
-      "word": "福宝爱吃的都在蛋糕里",
-      "onboard_time": 1718214552,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13404,

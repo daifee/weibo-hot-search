@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718219793315,
+  "endTime": 1718220858063,
   "band_list": [
     {
       "raw_hot": 579038,
@@ -459,20 +459,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30189,
+      "num": 30189,
+      "word": "怦然心动20岁 be",
+      "onboard_time": 1718218271,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29389,
       "num": 29389,
       "word": "黄亦玫1分钟6个才艺",
       "onboard_time": 1718214073,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26016,
-      "num": 26016,
-      "word": "怦然心动20岁 be",
-      "onboard_time": 1718218271,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 22246,
@@ -483,11 +483,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17936,
+      "num": 21548,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17572,
       "num": 103656,
       "word": "被95后吕剧演员转场变装硬控了",
       "onboard_time": 1718213173,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14968,
+      "num": 21518,
+      "word": "岛屿少年",
+      "onboard_time": 1718220791,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14597,
+      "num": 21504,
+      "word": "福宝爱吃的都在蛋糕里",
+      "onboard_time": 1718214552,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -497,14 +521,6 @@
       "onboard_time": 1718219170,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13434,
-      "num": 21201,
-      "word": "福宝爱吃的都在蛋糕里",
-      "onboard_time": 1718214552,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3200,
@@ -521,6 +537,9 @@
     },
     {
       "word": "#习近平给清华教授回信#"
+    },
+    {
+      "word": "#为建设教育强国科技强国作出新的贡献#"
     }
   ]
 }
