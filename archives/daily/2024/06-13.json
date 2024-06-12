@@ -1,7 +1,15 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718231728888,
+  "endTime": 1718234355204,
   "band_list": [
+    {
+      "raw_hot": 683060,
+      "num": 683060,
+      "word": "网曝吉林银行取款需派出所同意",
+      "onboard_time": 1718226551,
+      "rank": 30,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 579038,
       "num": 579038,
@@ -11,20 +19,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 549512,
+      "num": 573898,
+      "word": "南京咖啡阿姨说天下没有不散的筵席",
+      "onboard_time": 1718209458,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480468,
       "num": 578551,
       "word": "黄景瑜中国人民警察大学招生简章",
       "onboard_time": 1718207958,
       "rank": 3,
       "category": "艺人,教育"
-    },
-    {
-      "raw_hot": 362199,
-      "num": 362199,
-      "word": "网曝吉林银行取款需派出所同意",
-      "onboard_time": 1718226551,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 353221,
@@ -67,12 +75,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 250150,
-      "num": 573898,
-      "word": "南京咖啡阿姨说天下没有不散的筵席",
-      "onboard_time": 1718209458,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 240976,
+      "num": 240976,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 234233,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 221472,
-      "num": 158335,
+      "num": 219679,
       "word": "专家说杨梅是减肥人士的福音",
       "onboard_time": 1718209876,
       "rank": 33,
@@ -139,14 +147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158738,
-      "num": 158738,
-      "word": "东北孩子噩梦马上就来了",
-      "onboard_time": 1718219711,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 158416,
       "num": 577596,
       "word": "韩国没有了五花肉自由",
@@ -171,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150343,
+      "num": 573515,
+      "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+      "onboard_time": 1718197159,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143821,
       "num": 576015,
       "word": "马斯克被曝与SpaceX多名员工有染",
@@ -179,12 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129113,
+      "raw_hot": 136718,
       "num": 574893,
       "word": "刘亦菲霍建华香港文艺片氛围感",
       "onboard_time": 1718196439,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120858,
+      "num": 120858,
+      "word": "学生篡改7名同学高考志愿获刑1年半",
+      "onboard_time": 1718234235,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120812,
@@ -227,12 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105103,
+      "raw_hot": 107338,
       "num": 571688,
       "word": "网红胡涵溪93岁姥姥去世",
       "onboard_time": 1718209037,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 106582,
+      "num": 103606,
+      "word": "坚持运动和从不运动的人差别在哪",
+      "onboard_time": 1718232734,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 103962,
@@ -267,20 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100882,
-      "num": 573515,
-      "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
-      "onboard_time": 1718197159,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100142,
       "num": 573334,
       "word": "吉林银行回应储户取款需派出所同意",
       "onboard_time": 1718208017,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97397,
+      "num": 97397,
+      "word": "脚露在外面睡觉有什么好处",
+      "onboard_time": 1718217312,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 96845,
@@ -323,6 +347,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72173,
+      "num": 72173,
+      "word": "建议快递包装都换成这种",
+      "onboard_time": 1718233455,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 71922,
+      "num": 572175,
+      "word": "印度贫民窟上百人共用一个厕所",
+      "onboard_time": 1718197400,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71661,
       "num": 572483,
       "word": "女儿刚高考完就支出了3万",
@@ -337,14 +377,6 @@
       "onboard_time": 1718193018,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69978,
-      "num": 572175,
-      "word": "印度贫民窟上百人共用一个厕所",
-      "onboard_time": 1718197400,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68867,
@@ -379,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63945,
+      "num": 63945,
+      "word": "怦然心动20岁 be",
+      "onboard_time": 1718218271,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 62402,
       "num": 570862,
       "word": "欧洲杯赛程",
@@ -387,20 +427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57846,
+      "num": 57846,
+      "word": "原来天和空是有区别的",
+      "onboard_time": 1718222170,
+      "rank": 35,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 56225,
       "num": 570600,
       "word": "台湾奶奶为听乡音3刷繁花",
       "onboard_time": 1718201240,
       "rank": 47,
       "category": "社会新闻,作品衍生"
-    },
-    {
-      "raw_hot": 52219,
-      "num": 52219,
-      "word": "脚露在外面睡觉有什么好处",
-      "onboard_time": 1718217312,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 48856,
@@ -419,6 +459,30 @@
       "category": "科学科普,演出"
     },
     {
+      "raw_hot": 47081,
+      "num": 47081,
+      "word": "黄亦玫徐海乔cp 玫进海选",
+      "onboard_time": 1718228412,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46615,
+      "num": 46615,
+      "word": "吴谨言回复罗伯特",
+      "onboard_time": 1718223130,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 46321,
+      "num": 46321,
+      "word": "赵露思金牌女主播许妍上线",
+      "onboard_time": 1718216052,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44466,
       "num": 578785,
       "word": "中国航天员站在机械臂上和地球同框",
@@ -427,28 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43299,
+      "num": 43299,
+      "word": "福宝爱吃的都在蛋糕里",
+      "onboard_time": 1718214552,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41965,
+      "num": 41965,
+      "word": "上海复旦满足了我对好大学的幻想",
+      "onboard_time": 1718234296,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 40290,
       "num": 78097,
       "word": "玫瑰的故事",
       "onboard_time": 1718197278,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37042,
-      "num": 30810,
-      "word": "黄亦玫徐海乔cp 玫进海选",
-      "onboard_time": 1718228412,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 36881,
-      "num": 32337,
-      "word": "怦然心动20岁 be",
-      "onboard_time": 1718218271,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 36031,
@@ -460,35 +524,27 @@
     },
     {
       "raw_hot": 35853,
-      "num": 114071,
+      "num": 150802,
       "word": "验瓜师每天拍上万个西瓜收入千元",
       "onboard_time": 1718211315,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35017,
-      "num": 35017,
-      "word": "原来天和空是有区别的",
-      "onboard_time": 1718222170,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 34170,
-      "num": 34170,
+      "num": 39792,
       "word": "新疆为什么像四个省份",
       "onboard_time": 1718214733,
       "rank": 26,
       "category": "旅游,科学科普"
     },
     {
-      "raw_hot": 33676,
-      "num": 33676,
-      "word": "赵露思金牌女主播许妍上线",
-      "onboard_time": 1718216052,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 33032,
+      "num": 39804,
+      "word": "抬头看的是天还是空",
+      "onboard_time": 1718219170,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 31662,
@@ -507,36 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25593,
-      "num": 29990,
-      "word": "福宝爱吃的都在蛋糕里",
-      "onboard_time": 1718214552,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 23640,
-      "num": 29985,
-      "word": "吴谨言回复罗伯特",
-      "onboard_time": 1718223130,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22246,
       "num": 576705,
       "word": "花花七仔来给福宝扎场子",
       "onboard_time": 1718207597,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22160,
-      "num": 29979,
-      "word": "抬头看的是天还是空",
-      "onboard_time": 1718219170,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 19838,
@@ -571,8 +603,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 3200,
-      "num": 220483,
+      "raw_hot": 5904,
+      "num": 440273,
       "word": "高考报志愿要了解的16个关键词",
       "onboard_time": 1718150116,
       "rank": 2,

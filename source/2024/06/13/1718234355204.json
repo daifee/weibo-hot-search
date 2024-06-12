@@ -1,0 +1,410 @@
+{
+  "runTime": 1718234355204,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 683060,
+        "num": 683060,
+        "word": "网曝吉林银行取款需派出所同意",
+        "onboard_time": 1718226551,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549512,
+        "num": 549512,
+        "word": "南京咖啡阿姨说天下没有不散的筵席",
+        "onboard_time": 1718209458,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5904,
+        "num": 440273,
+        "word": "高考报志愿要了解的16个关键词",
+        "onboard_time": 1718150116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396595,
+        "num": 396595,
+        "word": "刘亦菲一部剧带火了5个人",
+        "onboard_time": 1718200340,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323138,
+        "num": 323138,
+        "word": "黄景瑜中国人民警察大学招生简章",
+        "onboard_time": 1718207958,
+        "rank": 4,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 240976,
+        "num": 240976,
+        "word": "东北孩子噩梦马上就来了",
+        "onboard_time": 1718219711,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219679,
+        "num": 219679,
+        "word": "专家说杨梅是减肥人士的福音",
+        "onboard_time": 1718209876,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160508,
+        "num": 160508,
+        "word": "女儿长成这样可以当童模吗",
+        "onboard_time": 1718198959,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153460,
+        "num": 153460,
+        "word": "彭冠英发文吐槽庄国栋",
+        "onboard_time": 1718205560,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7459,
+        "num": 150802,
+        "word": "验瓜师每天拍上万个西瓜收入千元",
+        "onboard_time": 1718211315,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215102,
+        "num": 150667,
+        "word": "女子出借20万元讨不回丈夫自杀",
+        "onboard_time": 1718205260,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150343,
+        "num": 150343,
+        "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+        "onboard_time": 1718197159,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137921,
+        "num": 137921,
+        "word": "杰里韦斯特去世",
+        "onboard_time": 1718200698,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136718,
+        "num": 136718,
+        "word": "刘亦菲霍建华香港文艺片氛围感",
+        "onboard_time": 1718196439,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120858,
+        "num": 120858,
+        "word": "学生篡改7名同学高考志愿获刑1年半",
+        "onboard_time": 1718234235,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118130,
+        "num": 118130,
+        "word": "鞠婧祎 眉弓",
+        "onboard_time": 1718191038,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114125,
+        "num": 114125,
+        "word": "韩国没有了五花肉自由",
+        "onboard_time": 1718191639,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107338,
+        "num": 107338,
+        "word": "网红胡涵溪93岁姥姥去世",
+        "onboard_time": 1718209037,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115434,
+        "num": 107001,
+        "word": "北京偶遇刘亦菲逛街",
+        "onboard_time": 1718198480,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104581,
+        "num": 104581,
+        "word": "桑尼食品摊被中国人买空",
+        "onboard_time": 1718203700,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117337,
+        "num": 104476,
+        "word": "家门口遭捅死女孩曾被保送北外",
+        "onboard_time": 1718191398,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106582,
+        "num": 103606,
+        "word": "坚持运动和从不运动的人差别在哪",
+        "onboard_time": 1718232734,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 102184,
+        "num": 102184,
+        "word": "马斯克被曝与SpaceX多名员工有染",
+        "onboard_time": 1718188337,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97397,
+        "num": 97397,
+        "word": "脚露在外面睡觉有什么好处",
+        "onboard_time": 1718217312,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 94947,
+        "num": 94947,
+        "word": "怀疑张若昀工作室有我们自己人",
+        "onboard_time": 1718205200,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72173,
+        "num": 72173,
+        "word": "建议快递包装都换成这种",
+        "onboard_time": 1718233455,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71922,
+        "num": 71922,
+        "word": "印度贫民窟上百人共用一个厕所",
+        "onboard_time": 1718197400,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70757,
+        "num": 70757,
+        "word": "黄亦玫方协文闪婚",
+        "onboard_time": 1718196259,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66218,
+        "num": 66218,
+        "word": "你喜欢的人突然有对象是什么感觉",
+        "onboard_time": 1718205619,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 63945,
+        "num": 63945,
+        "word": "怦然心动20岁 be",
+        "onboard_time": 1718218271,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57846,
+        "num": 57846,
+        "word": "原来天和空是有区别的",
+        "onboard_time": 1718222170,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 55146,
+        "num": 55146,
+        "word": "林更新上线霍建华也不远了",
+        "onboard_time": 1718202139,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53522,
+        "num": 53522,
+        "word": "乐华否认程潇吴宣仪耍大牌",
+        "onboard_time": 1718192119,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49848,
+        "num": 49848,
+        "word": "某明星 坐电梯耍大牌",
+        "onboard_time": 1718176761,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47081,
+        "num": 47081,
+        "word": "黄亦玫徐海乔cp 玫进海选",
+        "onboard_time": 1718228412,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46615,
+        "num": 46615,
+        "word": "吴谨言回复罗伯特",
+        "onboard_time": 1718223130,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46321,
+        "num": 46321,
+        "word": "赵露思金牌女主播许妍上线",
+        "onboard_time": 1718216052,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43491,
+        "num": 43491,
+        "word": "Angelababy线下生图状态",
+        "onboard_time": 1718194759,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43299,
+        "num": 43299,
+        "word": "福宝爱吃的都在蛋糕里",
+        "onboard_time": 1718214552,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42514,
+        "num": 42514,
+        "word": "吉林银行回应储户取款需派出所同意",
+        "onboard_time": 1718208017,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42053,
+        "num": 42053,
+        "word": "欧洲杯赛程",
+        "onboard_time": 1718202081,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41965,
+        "num": 41965,
+        "word": "上海复旦满足了我对好大学的幻想",
+        "onboard_time": 1718234296,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41324,
+        "num": 41324,
+        "word": "四川瓦屋山景区落石有游客被砸伤",
+        "onboard_time": 1718208378,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40672,
+        "num": 40672,
+        "word": "上戏回应林更新考博成功",
+        "onboard_time": 1718179880,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39881,
+        "num": 39881,
+        "word": "YG糟糕的公关",
+        "onboard_time": 1718204840,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39810,
+        "num": 39810,
+        "word": "女子炫了一斤杨梅被送进ICU",
+        "onboard_time": 1718183301,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37383,
+        "num": 39804,
+        "word": "女儿刚高考完就支出了3万",
+        "onboard_time": 1718191639,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33032,
+        "num": 39804,
+        "word": "抬头看的是天还是空",
+        "onboard_time": 1718219170,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32660,
+        "num": 39792,
+        "word": "新疆为什么像四个省份",
+        "onboard_time": 1718214733,
+        "rank": 48,
+        "category": "旅游,科学科普"
+      },
+      {
+        "raw_hot": 31195,
+        "num": 39787,
+        "word": "毛不易现场",
+        "onboard_time": 1718207119,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#为建设教育强国科技强国作出新的贡献#"
+    }
+  }
+}
