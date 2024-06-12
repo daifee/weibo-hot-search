@@ -1,7 +1,15 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718162506191,
+  "endTime": 1718163384946,
   "band_list": [
+    {
+      "raw_hot": 2786155,
+      "num": 2786155,
+      "word": "林更新考博成功",
+      "onboard_time": 1718161637,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2680559,
       "num": 2680559,
@@ -28,19 +36,19 @@
     },
     {
       "raw_hot": 1502394,
-      "num": 261982,
+      "num": 276475,
       "word": "耳朵总痒可能暗示这5种问题",
       "onboard_time": 1718155997,
       "rank": 24,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1419828,
-      "num": 1419828,
-      "word": "林更新考博成功",
-      "onboard_time": 1718161637,
-      "rank": 0,
-      "category": "剧集"
+      "raw_hot": 1438100,
+      "num": 521244,
+      "word": "iPhone16将砍掉实体键改为电容式",
+      "onboard_time": 1718159777,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 1406927,
@@ -51,20 +59,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1400520,
-      "num": 521244,
-      "word": "iPhone16将砍掉实体键改为电容式",
-      "onboard_time": 1718159777,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 1134907,
+      "raw_hot": 1384310,
       "num": 1134907,
       "word": "小鬼确认担任TF三代导师",
       "onboard_time": 1718161398,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1128102,
+      "num": 518097,
+      "word": "周杰伦南京抢票",
+      "onboard_time": 1718159717,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 1097702,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637450,
+      "num": 637450,
+      "word": "人民文娱评大批艺人涌入带货直播间",
+      "onboard_time": 1718161999,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 619453,
       "num": 284591,
       "word": "胃病发展到胃癌仅仅4步",
@@ -187,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513513,
+      "num": 526332,
+      "word": "福宝连续来了好几个前滚翻",
+      "onboard_time": 1718158697,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512006,
       "num": 512006,
       "word": "周杰伦因感冒药写了首歌",
@@ -196,19 +220,11 @@
     },
     {
       "raw_hot": 511607,
-      "num": 277260,
+      "num": 300194,
       "word": "女生高考结束后直接一睡不起",
       "onboard_time": 1718154078,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 508792,
-      "num": 526332,
-      "word": "福宝连续来了好几个前滚翻",
-      "onboard_time": 1718158697,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 492033,
@@ -225,6 +241,14 @@
       "onboard_time": 1718127493,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477256,
+      "num": 477256,
+      "word": "我专家回应美军司令扬言让台海变地狱",
+      "onboard_time": 1718156716,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 468926,
@@ -267,12 +291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397518,
+      "num": 397518,
+      "word": "王一博成毅 OST盛典",
+      "onboard_time": 1718162297,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397512,
       "num": 397512,
       "word": "黄亦玫庄国栋分手",
       "onboard_time": 1718156838,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 386472,
+      "num": 275692,
+      "word": "男子潜水发现海底有11个密封坛",
+      "onboard_time": 1718160979,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 385302,
@@ -297,14 +337,6 @@
       "onboard_time": 1718114840,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 377147,
-      "num": 377147,
-      "word": "周杰伦南京抢票",
-      "onboard_time": 1718159717,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 349054,
@@ -387,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 294042,
-      "num": 259489,
-      "word": "男子潜水发现海底有11个密封坛",
-      "onboard_time": 1718160979,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293677,
       "num": 293677,
       "word": "一法国游客在俄发射场附近身亡",
@@ -411,12 +435,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 272662,
-      "num": 272662,
-      "word": "人民文娱评大批艺人涌入带货直播间",
-      "onboard_time": 1718161999,
-      "rank": 15,
+      "raw_hot": 276944,
+      "num": 276944,
+      "word": "韩国小哥不信中国拿西瓜喂猪",
+      "onboard_time": 1718161698,
+      "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276563,
+      "num": 276563,
+      "word": "龙俊亨时隔5年道歉",
+      "onboard_time": 1718162119,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 265795,
@@ -428,19 +460,19 @@
     },
     {
       "raw_hot": 264449,
-      "num": 264449,
+      "num": 482035,
       "word": "福宝探头探脑与大家见面",
       "onboard_time": 1718158816,
       "rank": 19,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 263094,
-      "num": 263094,
-      "word": "龙俊亨时隔5年道歉",
-      "onboard_time": 1718162119,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 259275,
+      "num": 259275,
+      "word": "剑网三",
+      "onboard_time": 1718161278,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 255524,
@@ -499,6 +531,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 239544,
+      "num": 239544,
+      "word": "法国凡尔赛宫失火",
+      "onboard_time": 1718160798,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239225,
+      "num": 239225,
+      "word": "逆水寒",
+      "onboard_time": 1718162479,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237239,
       "num": 157589,
       "word": "刘亦菲一年一句出圈名台词",
@@ -531,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227612,
-      "num": 227612,
-      "word": "剑网三",
-      "onboard_time": 1718161278,
-      "rank": 24,
-      "category": "游戏"
+      "raw_hot": 225768,
+      "num": 225768,
+      "word": "天天喊累的人建议查一下甲状腺",
+      "onboard_time": 1718157857,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 223430,
@@ -579,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203618,
-      "num": 203618,
-      "word": "天天喊累的人建议查一下甲状腺",
-      "onboard_time": 1718157857,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 202491,
       "num": 202491,
       "word": "黄鸡大笑",
@@ -600,14 +640,6 @@
       "word": "金硕珍直播",
       "onboard_time": 1718162178,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 199378,
-      "num": 199378,
-      "word": "王一博成毅 OST盛典",
-      "onboard_time": 1718162297,
-      "rank": 28,
       "category": "艺人"
     },
     {
@@ -683,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171245,
+      "num": 171245,
+      "word": "Jennie 晚奶",
+      "onboard_time": 1718163319,
+      "rank": 34,
+      "category": "艺人,网红"
+    },
+    {
       "raw_hot": 170854,
       "num": 170854,
       "word": "iOS18可检测是否正使用慢速充电器",
@@ -705,6 +745,14 @@
       "onboard_time": 1718139731,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166583,
+      "num": 166583,
+      "word": "徐明浩小时候舔铁栏杆舌头被粘住",
+      "onboard_time": 1718162658,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 165137,
@@ -771,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 152410,
-      "num": 152410,
-      "word": "法国凡尔赛宫失火",
-      "onboard_time": 1718160798,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147130,
       "num": 147130,
       "word": "睡前饿了真正推荐吃的食物",
@@ -841,14 +881,6 @@
       "onboard_time": 1718148136,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 125322,
-      "num": 125322,
-      "word": "逆水寒",
-      "onboard_time": 1718162479,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 124046,
@@ -923,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114900,
+      "num": 114900,
+      "word": "王楚钦登外媒报道封面",
+      "onboard_time": 1718163137,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109800,
       "num": 109800,
       "word": "徐正溪建议工作室注销",
@@ -963,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97299,
+      "num": 521260,
+      "word": "经济学者建议大幅调高农民养老金",
+      "onboard_time": 1718161217,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94615,
       "num": 94615,
       "word": "孙楠再唱无名的人",
@@ -985,14 +1033,6 @@
       "onboard_time": 1718118380,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 90415,
-      "num": 134280,
-      "word": "韩国小哥不信中国拿西瓜喂猪",
-      "onboard_time": 1718161698,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84048,
@@ -1107,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54558,
-      "num": 521260,
-      "word": "经济学者建议大幅调高农民养老金",
-      "onboard_time": 1718161217,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46141,
       "num": 46141,
       "word": "林更新感受满屏美甲暴击",
@@ -1123,20 +1155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45015,
+      "num": 1199645,
+      "word": "文化遗址里的中国故事",
+      "onboard_time": 1718160017,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42488,
       "num": 39842,
       "word": "风象星座不为人知的秘密",
       "onboard_time": 1718126833,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 41235,
-      "num": 1199645,
-      "word": "文化遗址里的中国故事",
-      "onboard_time": 1718160017,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39406,
@@ -1241,6 +1273,9 @@
     },
     {
       "word": "#立足中国大地讲好中华文明故事#"
+    },
+    {
+      "word": "#完善面向全球的创新体系#"
     }
   ]
 }

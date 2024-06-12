@@ -1,0 +1,410 @@
+{
+  "runTime": 1718163384946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2786155,
+        "num": 2786155,
+        "word": "林更新考博成功",
+        "onboard_time": 1718161637,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1207845,
+        "num": 1207845,
+        "word": "福宝营业了",
+        "onboard_time": 1718152097,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45015,
+        "num": 760710,
+        "word": "文化遗址里的中国故事",
+        "onboard_time": 1718160017,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1384310,
+        "num": 729617,
+        "word": "小鬼确认担任TF三代导师",
+        "onboard_time": 1718161398,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 637450,
+        "num": 637450,
+        "word": "人民文娱评大批艺人涌入带货直播间",
+        "onboard_time": 1718161999,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518110,
+        "num": 518110,
+        "word": "成都警方通报女子在家门口遇害",
+        "onboard_time": 1718160017,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1128102,
+        "num": 518097,
+        "word": "周杰伦南京抢票",
+        "onboard_time": 1718159717,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1083266,
+        "num": 516867,
+        "word": "内娱第一个凌晨直播的综艺",
+        "onboard_time": 1718159838,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513513,
+        "num": 513513,
+        "word": "福宝连续来了好几个前滚翻",
+        "onboard_time": 1718158697,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180395,
+        "num": 482035,
+        "word": "福宝探头探脑与大家见面",
+        "onboard_time": 1718158816,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438100,
+        "num": 480906,
+        "word": "iPhone16将砍掉实体键改为电容式",
+        "onboard_time": 1718159777,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 477256,
+        "num": 477256,
+        "word": "我专家回应美军司令扬言让台海变地狱",
+        "onboard_time": 1718156716,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 454134,
+        "num": 454134,
+        "word": "新加坡门将感谢中国球迷",
+        "onboard_time": 1718150780,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452846,
+        "num": 452846,
+        "word": "福宝直播",
+        "onboard_time": 1718157138,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397518,
+        "num": 397518,
+        "word": "王一博成毅 OST盛典",
+        "onboard_time": 1718162297,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318050,
+        "num": 318050,
+        "word": "王星越吐槽墨雨云间排播",
+        "onboard_time": 1718160257,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300194,
+        "num": 300194,
+        "word": "女生高考结束后直接一睡不起",
+        "onboard_time": 1718154078,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 280201,
+        "num": 280201,
+        "word": "黄亦玫庄国栋分手",
+        "onboard_time": 1718156838,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276944,
+        "num": 276944,
+        "word": "韩国小哥不信中国拿西瓜喂猪",
+        "onboard_time": 1718161698,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276563,
+        "num": 276563,
+        "word": "龙俊亨时隔5年道歉",
+        "onboard_time": 1718162119,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 764301,
+        "num": 276475,
+        "word": "耳朵总痒可能暗示这5种问题",
+        "onboard_time": 1718155997,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 386472,
+        "num": 275692,
+        "word": "男子潜水发现海底有11个密封坛",
+        "onboard_time": 1718160979,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272143,
+        "num": 272143,
+        "word": "福宝",
+        "onboard_time": 1718151981,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259275,
+        "num": 259275,
+        "word": "剑网三",
+        "onboard_time": 1718161278,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239544,
+        "num": 239544,
+        "word": "法国凡尔赛宫失火",
+        "onboard_time": 1718160798,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239225,
+        "num": 239225,
+        "word": "逆水寒",
+        "onboard_time": 1718162479,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225768,
+        "num": 225768,
+        "word": "天天喊累的人建议查一下甲状腺",
+        "onboard_time": 1718157857,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221118,
+        "num": 221118,
+        "word": "刘亦菲为了气我真是什么戏都接",
+        "onboard_time": 1718112020,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204057,
+        "num": 204057,
+        "word": "日本一10层公寓因遮挡富士山紧急拆除",
+        "onboard_time": 1718153778,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192720,
+        "num": 192720,
+        "word": "田柾国军装",
+        "onboard_time": 1718155939,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188264,
+        "num": 188264,
+        "word": "金硕珍直播",
+        "onboard_time": 1718162178,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185922,
+        "num": 185922,
+        "word": "谭晶 九儿",
+        "onboard_time": 1718149757,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184688,
+        "num": 184688,
+        "word": "晓朝夕定档",
+        "onboard_time": 1718162059,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178488,
+        "num": 178488,
+        "word": "福宝左看看右看看",
+        "onboard_time": 1718159717,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171245,
+        "num": 171245,
+        "word": "Jennie 晚奶",
+        "onboard_time": 1718163319,
+        "rank": 34,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 166583,
+        "num": 166583,
+        "word": "徐明浩小时候舔铁栏杆舌头被粘住",
+        "onboard_time": 1718162658,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158630,
+        "num": 158630,
+        "word": "福宝新家画面曝光",
+        "onboard_time": 1718154378,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154319,
+        "num": 154319,
+        "word": "端午档近十年最差",
+        "onboard_time": 1718120599,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149569,
+        "num": 149569,
+        "word": "胃病发展到胃癌仅仅4步",
+        "onboard_time": 1718147235,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147562,
+        "num": 147562,
+        "word": "吴谨言 掌公主",
+        "onboard_time": 1718118321,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97299,
+        "num": 146430,
+        "word": "经济学者建议大幅调高农民养老金",
+        "onboard_time": 1718161217,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146329,
+        "num": 146329,
+        "word": "国足出线新加坡旅游搜索暴涨5倍",
+        "onboard_time": 1718158457,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128163,
+        "num": 128163,
+        "word": "王一博ELLE动态预告",
+        "onboard_time": 1718160618,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 123666,
+        "num": 123666,
+        "word": "苹果市值一夜大涨超1.5万亿",
+        "onboard_time": 1718147475,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122952,
+        "num": 122952,
+        "word": "何超莲要演戏了",
+        "onboard_time": 1718149517,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122462,
+        "num": 122462,
+        "word": "BTS合体",
+        "onboard_time": 1718153418,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117407,
+        "num": 117407,
+        "word": "檀健次新歌",
+        "onboard_time": 1718160558,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115653,
+        "num": 115653,
+        "word": "韩国地震",
+        "onboard_time": 1718151438,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114900,
+        "num": 114900,
+        "word": "王楚钦登外媒报道封面",
+        "onboard_time": 1718163137,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111404,
+        "num": 111404,
+        "word": "家长举华晨宇海报迎接考生",
+        "onboard_time": 1718148316,
+        "rank": 49,
+        "category": "教育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#完善面向全球的创新体系#"
+    }
+  }
+}
