@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718181447906,
+  "endTime": 1718184056772,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -2139,6 +2139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 468314,
+      "num": 346447,
+      "word": "baby肚 猫咪纹",
+      "onboard_time": 1718181799,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468041,
       "num": 468041,
       "word": "榴莲降价没有最低只有更低",
@@ -2188,7 +2196,7 @@
     },
     {
       "raw_hot": 463579,
-      "num": 283925,
+      "num": 292019,
       "word": "韩国总统夫人拎上了帆布包",
       "onboard_time": 1718176101,
       "rank": 16,
@@ -2369,6 +2377,14 @@
       "onboard_time": 1717890975,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436956,
+      "num": 436956,
+      "word": "女子露营上厕所5分钟回来被偷家",
+      "onboard_time": 1718180840,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435240,
@@ -3579,6 +3595,14 @@
       "category": "读书作家,游戏"
     },
     {
+      "raw_hot": 296528,
+      "num": 205445,
+      "word": "这种踩屎感鞋正在一步步毁掉你的脚",
+      "onboard_time": 1718181020,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 296502,
       "num": 296502,
       "word": "高圆圆赵又廷参加好友婚礼",
@@ -3593,6 +3617,14 @@
       "onboard_time": 1718022438,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295104,
+      "num": 295104,
+      "word": "狼队被零封",
+      "onboard_time": 1718181020,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 294919,
@@ -3723,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281116,
+      "num": 281116,
+      "word": "养猫千万不要光着身子在家里",
+      "onboard_time": 1718181441,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280803,
       "num": 280803,
       "word": "逆水寒玄机CG",
@@ -3753,6 +3793,14 @@
       "onboard_time": 1717985358,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278283,
+      "num": 278283,
+      "word": "禁止神仙参加综艺",
+      "onboard_time": 1718180300,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 278169,
@@ -4011,14 +4059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259951,
-      "num": 259951,
-      "word": "禁止神仙参加综艺",
-      "onboard_time": 1718180300,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 259926,
       "num": 250798,
       "word": "佟大为 黄牡丹",
@@ -4089,6 +4129,14 @@
       "onboard_time": 1717929079,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255978,
+      "num": 194725,
+      "word": "女子炫了一斤杨梅被送进ICU",
+      "onboard_time": 1718183301,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255404,
@@ -4409,6 +4457,14 @@
       "onboard_time": 1718116941,
       "rank": 28,
       "category": "情感,数码"
+    },
+    {
+      "raw_hot": 238671,
+      "num": 238671,
+      "word": "美国62岁男子杀29岁妻子藏尸冰柜",
+      "onboard_time": 1718181140,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238423,
@@ -4883,14 +4939,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 209227,
-      "num": 209227,
-      "word": "女子露营上厕所5分钟回来被偷家",
-      "onboard_time": 1718180840,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209201,
       "num": 209201,
       "word": "欧美开始流行笨手机",
@@ -4905,6 +4953,14 @@
       "onboard_time": 1717934538,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209072,
+      "num": 209072,
+      "word": "十分钟厕所效应",
+      "onboard_time": 1718182400,
+      "rank": 19,
+      "category": "幽默"
     },
     {
       "raw_hot": 208723,
@@ -5259,14 +5315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200434,
-      "num": 200434,
-      "word": "狼队被零封",
-      "onboard_time": 1718181020,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 200303,
       "num": 200303,
       "word": "九尾双开门队服",
@@ -5536,6 +5584,14 @@
       "word": "魏大勋活动直播",
       "onboard_time": 1717936159,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193656,
+      "num": 193656,
+      "word": "王星越失恋了给爸爸打电话",
+      "onboard_time": 1718182579,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -6059,6 +6115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180480,
+      "num": 180480,
+      "word": "赵露思波点裙",
+      "onboard_time": 1718181199,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180419,
       "num": 180419,
       "word": "电影落凡尘定档",
@@ -6296,6 +6360,14 @@
       "word": "王大雷抹泪",
       "onboard_time": 1718112441,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174271,
+      "num": 174271,
+      "word": "范志毅谈孙兴慜挑衅手势",
+      "onboard_time": 1718183479,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -7091,6 +7163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154391,
+      "num": 154391,
+      "word": "日本食人菌感染人数创新高",
+      "onboard_time": 1718178679,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154291,
       "num": 154291,
       "word": "特斯拉库存积压严重",
@@ -7419,14 +7499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145740,
-      "num": 145740,
-      "word": "赵露思波点裙",
-      "onboard_time": 1718181199,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145570,
       "num": 125193,
       "word": "刘亦菲哭戏",
@@ -7747,14 +7819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138018,
-      "num": 138018,
-      "word": "这种踩屎感鞋正在一步步毁掉你的脚",
-      "onboard_time": 1718181020,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 137955,
       "num": 137955,
       "word": "丸子头最好看的三种扎法",
@@ -7881,6 +7945,14 @@
       "onboard_time": 1717939578,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 135838,
+      "num": 135838,
+      "word": "原来王星越当时真有别的姜二娘子",
+      "onboard_time": 1718182939,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 135749,
@@ -8211,14 +8283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129305,
-      "num": 129305,
-      "word": "日本食人菌感染人数创新高",
-      "onboard_time": 1718178679,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 129278,
       "num": 129278,
       "word": "粽子节快乐",
@@ -8513,6 +8577,14 @@
       "onboard_time": 1717927817,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121798,
+      "num": 121798,
+      "word": "吴谨言自己化的妆",
+      "onboard_time": 1718182400,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 121730,
@@ -9035,6 +9107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110076,
+      "num": 110076,
+      "word": "AG诚C挂牌",
+      "onboard_time": 1718183900,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109922,
       "num": 109922,
       "word": "主人比死神先找到了我",
@@ -9411,6 +9491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 96146,
+      "num": 96146,
+      "word": "为什么会以为这个8反了",
+      "onboard_time": 1718182761,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 95980,
       "num": 981831,
       "word": "龙舟经济火爆",
@@ -9515,6 +9603,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 91333,
+      "num": 91333,
+      "word": "宁静吴昕孟佳王霏霏摇人",
+      "onboard_time": 1718182339,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90710,
       "num": 191117,
       "word": "这些地区高考还有一些单科在考",
@@ -9547,6 +9643,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 88708,
+      "num": 208823,
+      "word": "5名少年教科书式守护走丢宝宝",
+      "onboard_time": 1718182100,
+      "rank": 20,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 88679,
       "num": 88679,
       "word": "500块现在能买到什么手机",
@@ -9577,6 +9681,14 @@
       "onboard_time": 1717863917,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88039,
+      "num": 197510,
+      "word": "费大厨如何占领中国人餐桌",
+      "onboard_time": 1718183000,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 87430,
@@ -9971,6 +10083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60683,
+      "num": 174278,
+      "word": "韩国UP主爆料20年前集体性侵案",
+      "onboard_time": 1718183599,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60545,
       "num": 246933,
       "word": "欢迎福宝闪亮登场",
@@ -10268,7 +10388,7 @@
     },
     {
       "raw_hot": 47780,
-      "num": 202705,
+      "num": 212743,
       "word": "iCAR03智驾拿下雾都",
       "onboard_time": 1718179760,
       "rank": 33,
@@ -10489,6 +10609,14 @@
       "onboard_time": 1718040073,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39167,
+      "num": 199767,
+      "word": "他们高举国旗走在祖国边境线",
+      "onboard_time": 1718183959,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38933,
@@ -10747,6 +10875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25369,
+      "num": 202401,
+      "word": "邓超是懂如何宠粉的",
+      "onboard_time": 1718181260,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24920,
       "num": 232533,
       "word": "众星祝贺辛纳首登世界第一",
@@ -10801,14 +10937,6 @@
       "onboard_time": 1718005577,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19306,
-      "num": 108726,
-      "word": "邓超是懂如何宠粉的",
-      "onboard_time": 1718181260,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 19190,
@@ -10875,14 +11003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16599,
-      "num": 159675,
-      "word": "美国62岁男子杀29岁妻子藏尸冰柜",
-      "onboard_time": 1718181140,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 16039,
       "num": 19000,
       "word": "贡菜拌毛肚",
@@ -10920,6 +11040,14 @@
       "word": "日本小学体检要求脱衣触摸",
       "onboard_time": 1718003777,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15372,
+      "num": 656816,
+      "word": "万千气象看北京",
+      "onboard_time": 1718170338,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -11025,14 +11153,6 @@
       "onboard_time": 1717909457,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11873,
-      "num": 656816,
-      "word": "万千气象看北京",
-      "onboard_time": 1718170338,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11143,
