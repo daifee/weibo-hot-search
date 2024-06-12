@@ -1,0 +1,410 @@
+{
+  "runTime": 1718176706148,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 801534,
+        "num": 801534,
+        "word": "林更新考博成功",
+        "onboard_time": 1718161637,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679973,
+        "num": 679973,
+        "word": "杭州保姆保住东家900多万养老钱",
+        "onboard_time": 1718169919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16285,
+        "num": 551894,
+        "word": "炎炎夏日谢谢他们的坚守",
+        "onboard_time": 1718176521,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475320,
+        "num": 475320,
+        "word": "女孩瞒着父母复读6年",
+        "onboard_time": 1718173578,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396882,
+        "num": 396882,
+        "word": "乌克兰全境实施停电",
+        "onboard_time": 1718173819,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 381317,
+        "num": 381317,
+        "word": "韩国小哥不信中国拿西瓜喂猪",
+        "onboard_time": 1718161698,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353146,
+        "num": 353146,
+        "word": "胡歌抵达台湾",
+        "onboard_time": 1718167641,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301891,
+        "num": 301891,
+        "word": "玫瑰的故事原型 章小蕙",
+        "onboard_time": 1718163979,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271141,
+        "num": 271141,
+        "word": "歌手2024",
+        "onboard_time": 1718168480,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40412,
+        "num": 270822,
+        "word": "大学里志趣变成稀缺品了吗",
+        "onboard_time": 1718171539,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476614,
+        "num": 267773,
+        "word": "江疏影baby肚",
+        "onboard_time": 1718174780,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338468,
+        "num": 264716,
+        "word": "小猫被人划破生殖器打断四肢丢楼道",
+        "onboard_time": 1718176218,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320925,
+        "num": 262081,
+        "word": "iPhone16将砍掉实体键改为电容式",
+        "onboard_time": 1718159777,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 262022,
+        "num": 262022,
+        "word": "年轻人为何喜欢上老年机",
+        "onboard_time": 1718172018,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228783,
+        "num": 228783,
+        "word": "赵今麦毕业大合照",
+        "onboard_time": 1718169499,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224887,
+        "num": 224887,
+        "word": "Jennie 晚奶",
+        "onboard_time": 1718163319,
+        "rank": 15,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 219075,
+        "num": 219075,
+        "word": "韩国总统夫人拎上了帆布包",
+        "onboard_time": 1718176101,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213770,
+        "num": 213770,
+        "word": "吴谨言曾出演过林俊杰MV",
+        "onboard_time": 1718172498,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 210891,
+        "num": 210891,
+        "word": "拍结婚照同时请了男摄和女摄",
+        "onboard_time": 1718166500,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205673,
+        "num": 205673,
+        "word": "福宝营业了",
+        "onboard_time": 1718152097,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257435,
+        "num": 204887,
+        "word": "中国球迷把孙兴慜整破防了",
+        "onboard_time": 1718174359,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203514,
+        "num": 203514,
+        "word": "周深一场雨让演唱会更难忘了",
+        "onboard_time": 1718176101,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191232,
+        "num": 191232,
+        "word": "00后用AI帮人谈恋爱月入百万",
+        "onboard_time": 1718164819,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 184621,
+        "num": 184621,
+        "word": "小鬼确认担任TF三代导师",
+        "onboard_time": 1718161398,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182244,
+        "num": 182244,
+        "word": "威神V一位公约",
+        "onboard_time": 1718175800,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181198,
+        "num": 181198,
+        "word": "喜欢你5怎么还没谈就抱上了",
+        "onboard_time": 1718175140,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175850,
+        "num": 175850,
+        "word": "福宝见面会10分钟纯享版",
+        "onboard_time": 1718172439,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174777,
+        "num": 174777,
+        "word": "计算机专业还值得报考吗",
+        "onboard_time": 1718171240,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163611,
+        "num": 163611,
+        "word": "为什么有的药片上有刻痕",
+        "onboard_time": 1718169738,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154394,
+        "num": 154394,
+        "word": "张婧仪拿微博当朋友圈发",
+        "onboard_time": 1718175080,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151192,
+        "num": 151192,
+        "word": "儿童手表手机化日益严重",
+        "onboard_time": 1718168419,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150877,
+        "num": 150877,
+        "word": "演员邓超杀回来了",
+        "onboard_time": 1718167761,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48123,
+        "num": 147777,
+        "word": "比亚迪邀百名足球少年去欧洲杯",
+        "onboard_time": 1718175441,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146980,
+        "num": 146980,
+        "word": "王一博白色无袖",
+        "onboard_time": 1718174179,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141653,
+        "num": 141653,
+        "word": "肖战深V白衬衫",
+        "onboard_time": 1718173638,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141038,
+        "num": 141038,
+        "word": "英伟达",
+        "onboard_time": 1718174661,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138193,
+        "num": 138193,
+        "word": "拳头回应Faker阿狸皮肤定价",
+        "onboard_time": 1718173699,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136143,
+        "num": 136143,
+        "word": "国台办说希望黄仁勋好好补补课",
+        "onboard_time": 1718171120,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135260,
+        "num": 135260,
+        "word": "福宝直播",
+        "onboard_time": 1718157138,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130470,
+        "num": 130470,
+        "word": "商场里小丑狂奔救下卷入扶梯女孩",
+        "onboard_time": 1718174359,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129573,
+        "num": 129573,
+        "word": "涂山黑黑",
+        "onboard_time": 1718163440,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29670,
+        "num": 128271,
+        "word": "近7成用户表示买车先看智驾能力",
+        "onboard_time": 1718176399,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29293,
+        "num": 127146,
+        "word": "太空视角看中国供水大动脉10年之变",
+        "onboard_time": 1718176039,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126980,
+        "num": 126980,
+        "word": "为什么现在的土豆越来越大",
+        "onboard_time": 1718172558,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124300,
+        "num": 124300,
+        "word": "许我耀眼 路透",
+        "onboard_time": 1718170879,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120903,
+        "num": 120903,
+        "word": "体会到早八的鳄鱼",
+        "onboard_time": 1718176218,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118180,
+        "num": 118180,
+        "word": "流萤热线电话",
+        "onboard_time": 1718175560,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114894,
+        "num": 114894,
+        "word": "周杰伦抢票 江浙沪厮杀",
+        "onboard_time": 1718168240,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114716,
+        "num": 114716,
+        "word": "林更新总成绩排名专业第2",
+        "onboard_time": 1718176639,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111249,
+        "num": 111249,
+        "word": "耳朵总痒可能暗示这5种问题",
+        "onboard_time": 1718155997,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给清华教授回信#"
+    }
+  }
+}
