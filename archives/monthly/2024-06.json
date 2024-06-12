@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718199581377,
+  "endTime": 1718201870680,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -281,6 +281,14 @@
       "onboard_time": 1717292896,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2101583,
+      "num": 2101583,
+      "word": "没叫醒孩子错过高考",
+      "onboard_time": 1718197278,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 2049838,
@@ -859,14 +867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1488079,
-      "num": 1488079,
-      "word": "没叫醒孩子错过高考",
-      "onboard_time": 1718197278,
-      "rank": 1,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1485662,
       "num": 1485662,
       "word": "以色列",
@@ -1208,6 +1208,14 @@
       "word": "丁真 大家都欲望太强了",
       "onboard_time": 1717311978,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1304491,
+      "num": 1304491,
+      "word": "歌手声明",
+      "onboard_time": 1718201240,
+      "rank": 1,
       "category": "综艺"
     },
     {
@@ -1987,6 +1995,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1066853,
+      "num": 1066853,
+      "word": "杰里韦斯特去世",
+      "onboard_time": 1718200698,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1061912,
       "num": 499799,
       "word": "人类精液中发现致癌微塑料",
@@ -2649,6 +2665,14 @@
       "onboard_time": 1717586778,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 867063,
+      "num": 867063,
+      "word": "刘亦菲一部剧带火了5个人",
+      "onboard_time": 1718200340,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 865090,
@@ -4627,6 +4651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639426,
+      "num": 226389,
+      "word": "日本少女腋窝汗蒸饭团",
+      "onboard_time": 1718200698,
+      "rank": 21,
+      "category": "美食"
+    },
+    {
       "raw_hot": 639056,
       "num": 639056,
       "word": "王楚钦 脚踝",
@@ -5076,7 +5108,7 @@
     },
     {
       "raw_hot": 595296,
-      "num": 297611,
+      "num": 311419,
       "word": "北京偶遇刘亦菲逛街",
       "onboard_time": 1718198480,
       "rank": 16,
@@ -6131,6 +6163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 522420,
+      "num": 522420,
+      "word": "黄亦玫方协文闪婚",
+      "onboard_time": 1718196259,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 522413,
       "num": 413760,
       "word": "于正 王一栩",
@@ -6920,14 +6960,6 @@
       "word": "桑延装醉",
       "onboard_time": 1718074937,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 477852,
-      "num": 300030,
-      "word": "黄亦玫方协文闪婚",
-      "onboard_time": 1718196259,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -8667,6 +8699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 396277,
+      "num": 396277,
+      "word": "女儿长成这样可以当童模吗",
+      "onboard_time": 1718198959,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 396120,
       "num": 396120,
       "word": "杨超越古装",
@@ -8873,6 +8913,14 @@
       "onboard_time": 1717229477,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 387882,
+      "num": 387882,
+      "word": "印度贫民窟上百人共用一个厕所",
+      "onboard_time": 1718197400,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387732,
@@ -9747,6 +9795,14 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 354648,
+      "num": 354648,
+      "word": "李梦在墨雨云间里演爽了",
+      "onboard_time": 1718197038,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354357,
       "num": 345302,
       "word": "为啥大多数清北家长教不出清北孩子",
@@ -10563,14 +10619,6 @@
       "category": "剧集,教育"
     },
     {
-      "raw_hot": 326846,
-      "num": 295310,
-      "word": "印度贫民窟上百人共用一个厕所",
-      "onboard_time": 1718197400,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326724,
       "num": 326724,
       "word": "五月天深圳",
@@ -11059,6 +11107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312321,
+      "num": 312321,
+      "word": "现在的年轻人真的很可怜",
+      "onboard_time": 1718199079,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 311587,
       "num": 311587,
       "word": "邓为翻牌",
@@ -11361,6 +11417,14 @@
       "onboard_time": 1717930757,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 303054,
+      "num": 303054,
+      "word": "台湾人不能放弃的谐音梗",
+      "onboard_time": 1718195058,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 302994,
@@ -12699,14 +12763,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 267998,
-      "num": 267998,
-      "word": "李梦在墨雨云间里演爽了",
-      "onboard_time": 1718197038,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267875,
       "num": 267875,
       "word": "灵梦退役",
@@ -13265,14 +13321,6 @@
       "onboard_time": 1717996698,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 255367,
-      "num": 295610,
-      "word": "台湾人不能放弃的谐音梗",
-      "onboard_time": 1718195058,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 255163,
@@ -19083,6 +19131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183076,
+      "num": 183076,
+      "word": "黄亦玫被PUA成家庭主妇",
+      "onboard_time": 1718198900,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182942,
       "num": 182942,
       "word": "家属称男子网咖猝死24小时无人发现",
@@ -19137,14 +19193,6 @@
       "onboard_time": 1717839081,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 182381,
-      "num": 182381,
-      "word": "现在的年轻人真的很可怜",
-      "onboard_time": 1718199079,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 182336,
@@ -19249,14 +19297,6 @@
       "onboard_time": 1718175140,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181078,
-      "num": 181078,
-      "word": "黄亦玫被PUA成家庭主妇",
-      "onboard_time": 1718198900,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 180507,
@@ -24667,6 +24707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138781,
+      "num": 138781,
+      "word": "BW2024新一轮嘉宾名单",
+      "onboard_time": 1718200760,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 138775,
       "num": 138775,
       "word": "哪些人不适合骑行锻炼",
@@ -26001,6 +26049,14 @@
       "onboard_time": 1718001197,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129261,
+      "num": 129261,
+      "word": "台湾奶奶为听乡音3刷繁花",
+      "onboard_time": 1718201240,
+      "rank": 38,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 129180,
@@ -27345,6 +27401,14 @@
       "onboard_time": 1718028438,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 120063,
+      "num": 120063,
+      "word": "如何完整取下音乐节手环",
+      "onboard_time": 1718200220,
+      "rank": 40,
+      "category": "科学科普,演出"
     },
     {
       "raw_hot": 119940,
@@ -29932,7 +29996,7 @@
     },
     {
       "raw_hot": 98376,
-      "num": 722185,
+      "num": 1159074,
       "word": "中国航天员站在机械臂上和地球同框",
       "onboard_time": 1718196558,
       "rank": 2,
@@ -30425,6 +30489,14 @@
       "onboard_time": 1717274711,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89855,
+      "num": 113738,
+      "word": "美国CPI回落至三年低位",
+      "onboard_time": 1718200400,
+      "rank": 49,
+      "category": "财经,国外时政"
     },
     {
       "raw_hot": 89787,
@@ -31057,6 +31129,14 @@
       "onboard_time": 1717503438,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 76965,
+      "num": 385502,
+      "word": "男生高考英语25分逆袭985研究生",
+      "onboard_time": 1718200039,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 76926,
@@ -33083,6 +33163,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 46435,
+      "num": 305787,
+      "word": "领克纯电虽迟但到",
+      "onboard_time": 1718199259,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46212,
       "num": 347069,
       "word": "高考后最值得做的20件事",
@@ -33657,14 +33745,6 @@
       "onboard_time": 1717900696,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37380,
-      "num": 110358,
-      "word": "领克纯电虽迟但到",
-      "onboard_time": 1718199259,
-      "rank": 45,
-      "category": "汽车"
     },
     {
       "raw_hot": 37116,
