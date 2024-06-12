@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718170546678,
+  "endTime": 1718173583726,
   "band_list": [
     {
       "raw_hot": 2786155,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 454443,
-      "num": 310317,
+      "num": 392992,
       "word": "拍结婚照同时请了男摄和女摄",
       "onboard_time": 1718166500,
       "rank": 33,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 412876,
-      "num": 275491,
+      "num": 336504,
       "word": "赵今麦毕业大合照",
       "onboard_time": 1718169499,
       "rank": 26,
@@ -416,6 +416,14 @@
       "word": "男子潜水发现海底有11个密封坛",
       "onboard_time": 1718160979,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386133,
+      "num": 386133,
+      "word": "杭州保姆保住东家900多万养老钱",
+      "onboard_time": 1718169919,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 342464,
-      "num": 191002,
+      "num": 301689,
       "word": "Selina自曝年轻时不会主动",
       "onboard_time": 1718170459,
       "rank": 30,
@@ -595,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275888,
+      "num": 198594,
+      "word": "吴谨言曾出演过林俊杰MV",
+      "onboard_time": 1718172498,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 272634,
       "num": 279208,
       "word": "老公走路像醉酒妻子果断报警求抓",
@@ -707,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238798,
+      "num": 238798,
+      "word": "国台办说希望黄仁勋好好补补课",
+      "onboard_time": 1718171120,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 237239,
       "num": 157589,
       "word": "刘亦菲一年一句出圈名台词",
@@ -723,20 +747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235913,
+      "num": 231955,
+      "word": "为什么有的药片上有刻痕",
+      "onboard_time": 1718169738,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235451,
       "num": 235451,
       "word": "王星越田曦薇曾合作初次爱你",
       "onboard_time": 1718122158,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231955,
-      "num": 231955,
-      "word": "为什么有的药片上有刻痕",
-      "onboard_time": 1718169738,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 231808,
@@ -771,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216819,
+      "num": 270547,
+      "word": "国产车厘子比进口价格低四成",
+      "onboard_time": 1718169619,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 215356,
       "num": 215356,
       "word": "水断食减肥在韩青少年盛行",
@@ -779,20 +811,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214214,
+      "num": 353484,
+      "word": "儿童手表手机化日益严重",
+      "onboard_time": 1718168419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214078,
       "num": 387649,
       "word": "福宝左看看右看看",
       "onboard_time": 1718159717,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209671,
-      "num": 270547,
-      "word": "国产车厘子比进口价格低四成",
-      "onboard_time": 1718169619,
-      "rank": 19,
-      "category": "美食"
     },
     {
       "raw_hot": 207793,
@@ -907,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 184411,
+      "num": 184411,
+      "word": "福宝见面会10分钟纯享版",
+      "onboard_time": 1718172439,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182942,
       "num": 182942,
       "word": "家属称男子网咖猝死24小时无人发现",
@@ -931,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177933,
+      "num": 177933,
+      "word": "计算机专业还值得报考吗",
+      "onboard_time": 1718171240,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 177635,
       "num": 177635,
       "word": "专家称中国的学医门槛很低",
@@ -945,6 +993,14 @@
       "onboard_time": 1718158457,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173980,
+      "num": 173980,
+      "word": "许我耀眼 路透",
+      "onboard_time": 1718170879,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 173593,
@@ -977,6 +1033,14 @@
       "onboard_time": 1718139731,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166721,
+      "num": 166721,
+      "word": "刘耀文加盟微博电影之夜",
+      "onboard_time": 1718172498,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 166583,
@@ -1051,12 +1115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150405,
-      "num": 353484,
-      "word": "儿童手表手机化日益严重",
-      "onboard_time": 1718168419,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 151735,
+      "num": 151735,
+      "word": "赵丽颖黑粉公开致歉",
+      "onboard_time": 1718170759,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 148647,
@@ -1073,6 +1137,22 @@
       "onboard_time": 1718128453,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 145776,
+      "num": 145776,
+      "word": "文韬摆脱非酋",
+      "onboard_time": 1718171719,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144630,
+      "num": 144630,
+      "word": "KPL",
+      "onboard_time": 1718172138,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 142065,
@@ -1139,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128453,
+      "num": 128453,
+      "word": "为什么现在的土豆越来越大",
+      "onboard_time": 1718172558,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 126740,
       "num": 126740,
       "word": "大学生团体操后组团狂退400件裙子",
@@ -1153,14 +1241,6 @@
       "onboard_time": 1718148136,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124690,
-      "num": 124690,
-      "word": "杭州保姆保住东家900多万养老钱",
-      "onboard_time": 1718169919,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124046,
@@ -1235,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118197,
+      "num": 118197,
+      "word": "邓紫棋福州",
+      "onboard_time": 1718172319,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118064,
       "num": 118064,
       "word": "200多块钱买的投影仪",
@@ -1267,12 +1355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111433,
+      "num": 111433,
+      "word": "莫文蔚嘉宾 伍佰",
+      "onboard_time": 1718170579,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109800,
       "num": 109800,
       "word": "徐正溪建议工作室注销",
       "onboard_time": 1718100557,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109519,
+      "num": 109519,
+      "word": "马嘉祺新单曲蜉蝣预告",
+      "onboard_time": 1718172439,
+      "rank": 48,
+      "category": "音乐"
     },
     {
       "raw_hot": 106584,
@@ -1361,6 +1465,14 @@
       "onboard_time": 1718100079,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81136,
+      "num": 364335,
+      "word": "年轻人为何喜欢上老年机",
+      "onboard_time": 1718172018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80324,
@@ -1524,7 +1636,7 @@
     },
     {
       "raw_hot": 27834,
-      "num": 118145,
+      "num": 205769,
       "word": "成毅天生敢为",
       "onboard_time": 1718170399,
       "rank": 47,
