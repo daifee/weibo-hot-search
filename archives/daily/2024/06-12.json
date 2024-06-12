@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718169520916,
+  "endTime": 1718170546678,
   "band_list": [
     {
       "raw_hot": 2786155,
@@ -115,20 +115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 874582,
+      "num": 761323,
+      "word": "胡歌抵达台湾",
+      "onboard_time": 1718167641,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 817671,
+      "num": 407907,
+      "word": "歌手2024",
+      "onboard_time": 1718168480,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 768238,
       "num": 768238,
       "word": "美军司令扬言让台海变地狱",
       "onboard_time": 1718156716,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 761323,
-      "num": 761323,
-      "word": "胡歌抵达台湾",
-      "onboard_time": 1718167641,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 734378,
@@ -147,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 685046,
+      "num": 385646,
+      "word": "演员邓超杀回来了",
+      "onboard_time": 1718167761,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 673913,
       "num": 673913,
       "word": "日本一10层公寓因遮挡富士山紧急拆除",
@@ -161,14 +177,6 @@
       "onboard_time": 1718151981,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 672468,
-      "num": 346443,
-      "word": "演员邓超杀回来了",
-      "onboard_time": 1718167761,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 653224,
@@ -217,14 +225,6 @@
       "onboard_time": 1718120599,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 547049,
-      "num": 328001,
-      "word": "歌手2024",
-      "onboard_time": 1718168480,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 545854,
@@ -299,6 +299,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 500491,
+      "num": 284008,
+      "word": "与凤行27集17分50秒",
+      "onboard_time": 1718167041,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 492033,
       "num": 447310,
       "word": "女员工因担心走光上班打伞遭开除",
@@ -339,6 +347,22 @@
       "category": "教育,艺人"
     },
     {
+      "raw_hot": 456511,
+      "num": 575899,
+      "word": "00后用AI帮人谈恋爱月入百万",
+      "onboard_time": 1718164819,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 454443,
+      "num": 310317,
+      "word": "拍结婚照同时请了男摄和女摄",
+      "onboard_time": 1718166500,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449497,
       "num": 449497,
       "word": "国足晋级18强意味着什么",
@@ -355,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 409992,
-      "num": 278559,
-      "word": "与凤行27集17分50秒",
-      "onboard_time": 1718167041,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 412876,
+      "num": 275491,
+      "word": "赵今麦毕业大合照",
+      "onboard_time": 1718169499,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 406865,
@@ -385,14 +409,6 @@
       "onboard_time": 1718156838,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394858,
-      "num": 575899,
-      "word": "00后用AI帮人谈恋爱月入百万",
-      "onboard_time": 1718164819,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 386472,
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365227,
-      "num": 310317,
-      "word": "拍结婚照同时请了男摄和女摄",
-      "onboard_time": 1718166500,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 349054,
       "num": 349054,
       "word": "按艺人出道顺序排序",
@@ -457,6 +465,14 @@
       "onboard_time": 1718155939,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342464,
+      "num": 191002,
+      "word": "Selina自曝年轻时不会主动",
+      "onboard_time": 1718170459,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 339909,
@@ -539,6 +555,14 @@
       "category": "读书作家,游戏"
     },
     {
+      "raw_hot": 294919,
+      "num": 275708,
+      "word": "周杰伦抢票 江浙沪厮杀",
+      "onboard_time": 1718168240,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 293677,
       "num": 293677,
       "word": "一法国游客在俄发射场附近身亡",
@@ -547,12 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 289431,
-      "num": 275708,
-      "word": "周杰伦抢票 江浙沪厮杀",
-      "onboard_time": 1718168240,
-      "rank": 25,
-      "category": "演出"
+      "raw_hot": 288861,
+      "num": 288861,
+      "word": "樊振东连续500周世界前五",
+      "onboard_time": 1718166080,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 285122,
@@ -563,27 +587,11 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 280546,
-      "num": 280546,
-      "word": "樊振东连续500周世界前五",
-      "onboard_time": 1718166080,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 276563,
       "num": 276563,
       "word": "龙俊亨时隔5年道歉",
       "onboard_time": 1718162119,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 275491,
-      "num": 275491,
-      "word": "赵今麦毕业大合照",
-      "onboard_time": 1718169499,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -723,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231955,
+      "num": 231955,
+      "word": "为什么有的药片上有刻痕",
+      "onboard_time": 1718169738,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231808,
       "num": 231808,
       "word": "墨雨云间 扫楼",
@@ -769,6 +785,14 @@
       "onboard_time": 1718159717,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209671,
+      "num": 270547,
+      "word": "国产车厘子比进口价格低四成",
+      "onboard_time": 1718169619,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 207793,
@@ -907,8 +931,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175167,
-      "num": 175167,
+      "raw_hot": 177635,
+      "num": 177635,
       "word": "专家称中国的学医门槛很低",
       "onboard_time": 1718167580,
       "rank": 40,
@@ -1027,8 +1051,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150405,
+      "num": 353484,
+      "word": "儿童手表手机化日益严重",
+      "onboard_time": 1718168419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148647,
-      "num": 148647,
+      "num": 279884,
       "word": "高考后的第1站就去亚丁",
       "onboard_time": 1718168120,
       "rank": 46,
@@ -1121,6 +1153,14 @@
       "onboard_time": 1718148136,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124690,
+      "num": 124690,
+      "word": "杭州保姆保住东家900多万养老钱",
+      "onboard_time": 1718169919,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124046,
@@ -1297,14 +1337,6 @@
       "onboard_time": 1718118380,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 86857,
-      "num": 353484,
-      "word": "儿童手表手机化日益严重",
-      "onboard_time": 1718168419,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84048,
@@ -1491,6 +1523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27834,
+      "num": 118145,
+      "word": "成毅天生敢为",
+      "onboard_time": 1718170399,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25981,
       "num": 25981,
       "word": "原来西瓜头上顶块石头会更甜",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1718136670,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11873,
+      "num": 656816,
+      "word": "万千气象看北京",
+      "onboard_time": 1718170338,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10725,

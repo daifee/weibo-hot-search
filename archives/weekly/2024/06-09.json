@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718169520916,
+  "endTime": 1718170546678,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -691,6 +691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 874582,
+      "num": 761323,
+      "word": "胡歌抵达台湾",
+      "onboard_time": 1718167641,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 864883,
       "num": 864883,
       "word": "iPhone15有五种充电上限了",
@@ -753,6 +761,14 @@
       "onboard_time": 1717988177,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 817671,
+      "num": 407907,
+      "word": "歌手2024",
+      "onboard_time": 1718168480,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 816363,
@@ -865,14 +881,6 @@
       "onboard_time": 1718116523,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 761323,
-      "num": 761323,
-      "word": "胡歌抵达台湾",
-      "onboard_time": 1718167641,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 759481,
@@ -1123,6 +1131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 685046,
+      "num": 385646,
+      "word": "演员邓超杀回来了",
+      "onboard_time": 1718167761,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 679634,
       "num": 679634,
       "word": "哈马斯称确认美国参与袭击加沙难民营",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1717902737,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 672468,
-      "num": 346443,
-      "word": "演员邓超杀回来了",
-      "onboard_time": 1718167761,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 668783,
@@ -1611,14 +1619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 547049,
-      "num": 328001,
-      "word": "歌手2024",
-      "onboard_time": 1718168480,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 545854,
       "num": 545854,
       "word": "涂山黑黑",
@@ -1907,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 500491,
+      "num": 284008,
+      "word": "与凤行27集17分50秒",
+      "onboard_time": 1718167041,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497751,
       "num": 460857,
       "word": "王星越眼线是被冲掉的",
@@ -2147,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456511,
+      "num": 575899,
+      "word": "00后用AI帮人谈恋爱月入百万",
+      "onboard_time": 1718164819,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 456494,
       "num": 270925,
       "word": "陈雨浓孙程潇吵架",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1718065220,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 454443,
+      "num": 310317,
+      "word": "拍结婚照同时请了男摄和女摄",
+      "onboard_time": 1718166500,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 451372,
@@ -2403,12 +2427,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 409992,
-      "num": 278559,
-      "word": "与凤行27集17分50秒",
-      "onboard_time": 1718167041,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 412876,
+      "num": 275491,
+      "word": "赵今麦毕业大合照",
+      "onboard_time": 1718169499,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 407492,
@@ -2489,14 +2513,6 @@
       "onboard_time": 1718156838,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 394858,
-      "num": 575899,
-      "word": "00后用AI帮人谈恋爱月入百万",
-      "onboard_time": 1718164819,
-      "rank": 9,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 393476,
@@ -2705,14 +2721,6 @@
       "onboard_time": 1718092037,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 365227,
-      "num": 310317,
-      "word": "拍结婚照同时请了男摄和女摄",
-      "onboard_time": 1718166500,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 364960,
@@ -2977,6 +2985,14 @@
       "onboard_time": 1718017997,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342464,
+      "num": 191002,
+      "word": "Selina自曝年轻时不会主动",
+      "onboard_time": 1718170459,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 341696,
@@ -3491,6 +3507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294919,
+      "num": 275708,
+      "word": "周杰伦抢票 江浙沪厮杀",
+      "onboard_time": 1718168240,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 294850,
       "num": 294850,
       "word": "山东生物",
@@ -3547,14 +3571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 289431,
-      "num": 275708,
-      "word": "周杰伦抢票 江浙沪厮杀",
-      "onboard_time": 1718168240,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 289210,
       "num": 289210,
       "word": "白桃星座",
@@ -3569,6 +3585,14 @@
       "onboard_time": 1718086819,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 288861,
+      "num": 288861,
+      "word": "樊振东连续500周世界前五",
+      "onboard_time": 1718166080,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 286484,
@@ -3609,14 +3633,6 @@
       "onboard_time": 1717926018,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 280546,
-      "num": 280546,
-      "word": "樊振东连续500周世界前五",
-      "onboard_time": 1718166080,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 280459,
@@ -3681,14 +3697,6 @@
       "onboard_time": 1717926558,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275491,
-      "num": 275491,
-      "word": "赵今麦毕业大合照",
-      "onboard_time": 1718169499,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 272894,
@@ -4315,6 +4323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 231955,
+      "num": 231955,
+      "word": "为什么有的药片上有刻痕",
+      "onboard_time": 1718169738,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 231808,
       "num": 231808,
       "word": "墨雨云间 扫楼",
@@ -4681,6 +4697,14 @@
       "onboard_time": 1718073077,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 209671,
+      "num": 270547,
+      "word": "国产车厘子比进口价格低四成",
+      "onboard_time": 1718169619,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 209201,
@@ -5907,6 +5931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177635,
+      "num": 177635,
+      "word": "专家称中国的学医门槛很低",
+      "onboard_time": 1718167580,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177370,
       "num": 177370,
       "word": "赤水丰隆没来但杨康来了",
@@ -5985,14 +6017,6 @@
       "onboard_time": 1718089817,
       "rank": 37,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 175167,
-      "num": 175167,
-      "word": "专家称中国的学医门槛很低",
-      "onboard_time": 1718167580,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175140,
@@ -6883,6 +6907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150405,
+      "num": 353484,
+      "word": "儿童手表手机化日益严重",
+      "onboard_time": 1718168419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150357,
       "num": 150357,
       "word": "新加坡救了国足",
@@ -6948,7 +6980,7 @@
     },
     {
       "raw_hot": 148647,
-      "num": 148647,
+      "num": 279884,
       "word": "高考后的第1站就去亚丁",
       "onboard_time": 1718168120,
       "rank": 46,
@@ -7985,6 +8017,14 @@
       "onboard_time": 1717919297,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124690,
+      "num": 124690,
+      "word": "杭州保姆保住东家900多万养老钱",
+      "onboard_time": 1718169919,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124318,
@@ -9083,14 +9123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86857,
-      "num": 353484,
-      "word": "儿童手表手机化日益严重",
-      "onboard_time": 1718168419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86454,
       "num": 86454,
       "word": "大多数人缺的不是恋爱对象",
@@ -10147,6 +10179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27834,
+      "num": 118145,
+      "word": "成毅天生敢为",
+      "onboard_time": 1718170399,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26755,
       "num": 248264,
       "word": "麦客夫妻留守家乡为全村爱心收麦",
@@ -10425,6 +10465,14 @@
       "onboard_time": 1717909457,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11873,
+      "num": 656816,
+      "word": "万千气象看北京",
+      "onboard_time": 1718170338,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11143,
