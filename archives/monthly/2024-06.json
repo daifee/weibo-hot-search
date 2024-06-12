@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718192090295,
+  "endTime": 1718195768744,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -891,6 +891,14 @@
       "category": "社会负面,汽车"
     },
     {
+      "raw_hot": 1466225,
+      "num": 348774,
+      "word": "家门口遭捅死女孩曾被保送北外",
+      "onboard_time": 1718191398,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1464629,
       "num": 1464629,
       "word": "我们十个人的关系要你评价",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1717297338,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1154965,
+      "num": 1154965,
+      "word": "韩国没有了五花肉自由",
+      "onboard_time": 1718191639,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1152390,
@@ -2377,6 +2393,14 @@
       "onboard_time": 1718012658,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 929335,
+      "num": 929335,
+      "word": "乐华否认程潇吴宣仪耍大牌",
+      "onboard_time": 1718192119,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 928939,
@@ -4699,6 +4723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 622666,
+      "num": 338563,
+      "word": "Angelababy线下生图状态",
+      "onboard_time": 1718194759,
+      "rank": 12,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 621976,
       "num": 285509,
       "word": "游客吐槽阿勒泰旅游太贵了",
@@ -4937,6 +4969,14 @@
       "onboard_time": 1717559598,
       "rank": 19,
       "category": "财经"
+    },
+    {
+      "raw_hot": 603121,
+      "num": 330342,
+      "word": "鞠婧祎 眉弓",
+      "onboard_time": 1718191038,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 602305,
@@ -6331,14 +6371,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 511568,
-      "num": 191715,
-      "word": "家门口遭捅死女孩曾被保送北外",
-      "onboard_time": 1718191398,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 509705,
       "num": 238839,
       "word": "男生大四退学艺考五年仍落榜",
@@ -7500,7 +7532,7 @@
     },
     {
       "raw_hot": 447138,
-      "num": 194725,
+      "num": 195603,
       "word": "女子炫了一斤杨梅被送进ICU",
       "onboard_time": 1718183301,
       "rank": 25,
@@ -8035,6 +8067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421219,
+      "num": 416589,
+      "word": "吴宣仪机场视频",
+      "onboard_time": 1718193018,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421074,
       "num": 421074,
       "word": "10岁大学生父亲称她在走弯路",
@@ -8049,6 +8089,14 @@
       "onboard_time": 1717759819,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 420749,
+      "num": 420749,
+      "word": "假如你有86400块钱",
+      "onboard_time": 1718191939,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 420592,
@@ -8297,6 +8345,14 @@
       "onboard_time": 1717398920,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 411869,
+      "num": 317602,
+      "word": "刘亦菲林更新脸颊吻",
+      "onboard_time": 1718194698,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 411360,
@@ -9443,6 +9499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359871,
+      "num": 359871,
+      "word": "一次傅慎行 一生傅慎行",
+      "onboard_time": 1718191878,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359597,
       "num": 359597,
       "word": "黑神话悟空",
@@ -9961,14 +10025,6 @@
       "onboard_time": 1717585097,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 343073,
-      "num": 187981,
-      "word": "鞠婧祎 眉弓",
-      "onboard_time": 1718191038,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 343069,
@@ -12499,6 +12555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269407,
+      "num": 269407,
+      "word": "王星越初中时期被同学霸凌",
+      "onboard_time": 1718193858,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269097,
       "num": 269097,
       "word": "迪丽热巴新歌DanceVideo",
@@ -12772,7 +12836,7 @@
     },
     {
       "raw_hot": 263193,
-      "num": 180210,
+      "num": 193853,
       "word": "美国强生同意支付51亿元",
       "onboard_time": 1718188099,
       "rank": 22,
@@ -13265,6 +13329,14 @@
       "onboard_time": 1717819577,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 251799,
+      "num": 251799,
+      "word": "周深演唱会抢票",
+      "onboard_time": 1718194518,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 251768,
@@ -14252,7 +14324,7 @@
     },
     {
       "raw_hot": 231236,
-      "num": 231236,
+      "num": 287506,
       "word": "福宝随地大小躺",
       "onboard_time": 1718178380,
       "rank": 27,
@@ -14739,12 +14811,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222658,
+      "num": 222658,
+      "word": "女儿刚高考完就支出了3万",
+      "onboard_time": 1718191639,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222596,
       "num": 222596,
       "word": "孙楠live现场稳",
       "onboard_time": 1717773440,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222499,
+      "num": 307328,
+      "word": "一架直升机在江西鄱阳县坠落",
+      "onboard_time": 1718193559,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222452,
@@ -16379,6 +16467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203834,
+      "num": 298552,
+      "word": "LNG团战",
+      "onboard_time": 1718192658,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203813,
       "num": 203813,
       "word": "高考生冲出考场疯狂催更中国boy",
@@ -17795,6 +17891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192482,
+      "num": 192482,
+      "word": "胡歌 我们不分彼此",
+      "onboard_time": 1718193199,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192378,
       "num": 192378,
       "word": "拒绝的相亲对象5个月后开始信息轰炸",
@@ -18859,6 +18963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183028,
+      "num": 417314,
+      "word": "白羊座慕的不仅仅是强",
+      "onboard_time": 1718187079,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182942,
       "num": 182942,
       "word": "家属称男子网咖猝死24小时无人发现",
@@ -18873,6 +18985,14 @@
       "onboard_time": 1717660758,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182786,
+      "num": 182786,
+      "word": "谢娜被张杰在演唱会上表白的反应",
+      "onboard_time": 1718194279,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 182779,
@@ -23051,6 +23171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148454,
+      "num": 416595,
+      "word": "剑网3 黄鸡大笑",
+      "onboard_time": 1718192897,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148361,
       "num": 148361,
       "word": "万妮达偏偏你最争气",
@@ -23137,14 +23265,6 @@
       "onboard_time": 1717839680,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 147400,
-      "num": 147400,
-      "word": "白羊座慕的不仅仅是强",
-      "onboard_time": 1718187079,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 147362,
@@ -23529,6 +23649,14 @@
       "onboard_time": 1717295537,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144785,
+      "num": 144785,
+      "word": "无畏没上",
+      "onboard_time": 1718193979,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 144738,
@@ -24539,14 +24667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 137553,
-      "num": 137553,
-      "word": "一次傅慎行 一生傅慎行",
-      "onboard_time": 1718191878,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137509,
       "num": 137509,
       "word": "明天成都人请提前1小时出门",
@@ -25163,6 +25283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133299,
+      "num": 133299,
+      "word": "高考完想整牙爸妈不同意",
+      "onboard_time": 1718194698,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133272,
       "num": 354643,
       "word": "无陪护病房是否应该全国推广",
@@ -25225,14 +25353,6 @@
       "onboard_time": 1717391181,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132753,
-      "num": 132753,
-      "word": "假如你有86400块钱",
-      "onboard_time": 1718191939,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 132732,
@@ -25755,6 +25875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128639,
+      "num": 259597,
+      "word": "特斯拉陶琳为马斯克天价薪酬拉票",
+      "onboard_time": 1718195299,
+      "rank": 24,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 128621,
       "num": 128621,
       "word": "英语求放过",
@@ -26217,14 +26345,6 @@
       "onboard_time": 1717914918,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125686,
-      "num": 125686,
-      "word": "女儿刚高考完就支出了3万",
-      "onboard_time": 1718191639,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 125680,
@@ -26763,6 +26883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121888,
+      "num": 121888,
+      "word": "台湾人不能放弃的谐音梗",
+      "onboard_time": 1718195058,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121865,
       "num": 121865,
       "word": "夏天常做但伤身的行为",
@@ -26889,6 +27017,14 @@
       "onboard_time": 1717492999,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120980,
+      "num": 120980,
+      "word": "Meiko600胜",
+      "onboard_time": 1718194698,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 120935,
@@ -27187,6 +27323,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 119029,
+      "num": 119029,
+      "word": "墨雨云间出了多少个圈",
+      "onboard_time": 1718195598,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118938,
       "num": 118938,
       "word": "小米SU7事故系司机操作不当",
@@ -27417,6 +27561,22 @@
       "onboard_time": 1717577957,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116957,
+      "num": 116957,
+      "word": "领克发布会",
+      "onboard_time": 1718195419,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 116895,
+      "num": 116895,
+      "word": "工资还没年份高",
+      "onboard_time": 1718193799,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 116802,
@@ -28315,6 +28475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111052,
+      "num": 111052,
+      "word": "PUBG联名",
+      "onboard_time": 1718195238,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110878,
       "num": 110878,
       "word": "张小斐仿妆",
@@ -28913,6 +29081,14 @@
       "onboard_time": 1717518916,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105714,
+      "num": 105714,
+      "word": "偷偷升高你尿酸的不只是嘌呤",
+      "onboard_time": 1718192239,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105647,
@@ -32459,6 +32635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50481,
+      "num": 196434,
+      "word": "记者调查货拉拉满帮等货车超载现象",
+      "onboard_time": 1718191458,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50414,
       "num": 1683090,
       "word": "龙舟经济激发文旅消费新活力",
@@ -32569,14 +32753,6 @@
       "onboard_time": 1717573218,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 48856,
-      "num": 196434,
-      "word": "记者调查货拉拉满帮等货车超载现象",
-      "onboard_time": 1718191458,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48425,
@@ -32697,14 +32873,6 @@
       "onboard_time": 1717178473,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 47112,
-      "num": 147136,
-      "word": "韩国没有了五花肉自由",
-      "onboard_time": 1718191639,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47010,
@@ -34116,7 +34284,7 @@
     },
     {
       "raw_hot": 23620,
-      "num": 199291,
+      "num": 357368,
       "word": "福宝回国后在四川松弛感拉满",
       "onboard_time": 1718190437,
       "rank": 9,
