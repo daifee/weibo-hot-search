@@ -1,0 +1,410 @@
+{
+  "runTime": 1718223656803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 102402,
+        "num": 102402,
+        "word": "南京咖啡阿姨说天下没有不散的筵席",
+        "onboard_time": 1718209458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50657,
+        "num": 50657,
+        "word": "刘亦菲一部剧带火了5个人",
+        "onboard_time": 1718200340,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1655,
+        "num": 38655,
+        "word": "高考报志愿要了解的16个关键词",
+        "onboard_time": 1718150116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37106,
+        "num": 37106,
+        "word": "彭冠英发文吐槽庄国栋",
+        "onboard_time": 1718205560,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33306,
+        "num": 33306,
+        "word": "女儿长成这样可以当童模吗",
+        "onboard_time": 1718198959,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32763,
+        "num": 32763,
+        "word": "杰里韦斯特去世",
+        "onboard_time": 1718200698,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36881,
+        "num": 32337,
+        "word": "怦然心动20岁 be",
+        "onboard_time": 1718218271,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34959,
+        "num": 32034,
+        "word": "黄景瑜中国人民警察大学招生简章",
+        "onboard_time": 1718207958,
+        "rank": 7,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 31492,
+        "num": 31492,
+        "word": "东北孩子噩梦马上就来了",
+        "onboard_time": 1718219711,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6215,
+        "num": 30659,
+        "word": "被95后吕剧演员转场变装硬控了",
+        "onboard_time": 1718213173,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34761,
+        "num": 30636,
+        "word": "女子出借20万元讨不回丈夫自杀",
+        "onboard_time": 1718205260,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30586,
+        "num": 30586,
+        "word": "专家说杨梅是减肥人士的福音",
+        "onboard_time": 1718209876,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28101,
+        "num": 28101,
+        "word": "鞠婧祎 眉弓",
+        "onboard_time": 1718191038,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26826,
+        "num": 26826,
+        "word": "赵露思金牌女主播许妍上线",
+        "onboard_time": 1718216052,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26330,
+        "num": 26330,
+        "word": "怀疑张若昀工作室有我们自己人",
+        "onboard_time": 1718205200,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24375,
+        "num": 24375,
+        "word": "吉林银行回应储户取款需派出所同意",
+        "onboard_time": 1718208017,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23760,
+        "num": 23760,
+        "word": "马斯克被曝与SpaceX多名员工有染",
+        "onboard_time": 1718188337,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23533,
+        "num": 23533,
+        "word": "北京偶遇刘亦菲逛街",
+        "onboard_time": 1718198480,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23514,
+        "num": 23514,
+        "word": "韩国没有了五花肉自由",
+        "onboard_time": 1718191639,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20276,
+        "num": 23514,
+        "word": "桑尼食品摊被中国人买空",
+        "onboard_time": 1718203700,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26801,
+        "num": 23505,
+        "word": "脚露在外面睡觉有什么好处",
+        "onboard_time": 1718217312,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 24252,
+        "num": 23503,
+        "word": "家门口遭捅死女孩曾被保送北外",
+        "onboard_time": 1718191398,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21873,
+        "num": 23497,
+        "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+        "onboard_time": 1718197159,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19838,
+        "num": 23492,
+        "word": "岛屿少年",
+        "onboard_time": 1718220791,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18785,
+        "num": 23490,
+        "word": "刘亦菲霍建华香港文艺片氛围感",
+        "onboard_time": 1718196439,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17769,
+        "num": 23488,
+        "word": "Angelababy线下生图状态",
+        "onboard_time": 1718194759,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17276,
+        "num": 23483,
+        "word": "网红胡涵溪93岁姥姥去世",
+        "onboard_time": 1718209037,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17090,
+        "num": 23478,
+        "word": "某明星 坐电梯耍大牌",
+        "onboard_time": 1718176761,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16884,
+        "num": 23473,
+        "word": "抬头看的是天还是空",
+        "onboard_time": 1718219170,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16677,
+        "num": 23469,
+        "word": "印度贫民窟上百人共用一个厕所",
+        "onboard_time": 1718197400,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16117,
+        "num": 23467,
+        "word": "女儿刚高考完就支出了3万",
+        "onboard_time": 1718191639,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15354,
+        "num": 23463,
+        "word": "四川瓦屋山景区落石有游客被砸伤",
+        "onboard_time": 1718208378,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14785,
+        "num": 23455,
+        "word": "拍到地球自转是什么体验",
+        "onboard_time": 1718198900,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 14711,
+        "num": 23452,
+        "word": "上戏回应林更新考博成功",
+        "onboard_time": 1718179880,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14522,
+        "num": 23448,
+        "word": "欧洲杯赛程",
+        "onboard_time": 1718202081,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14488,
+        "num": 23443,
+        "word": "原来天和空是有区别的",
+        "onboard_time": 1718222170,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 14353,
+        "num": 23440,
+        "word": "你喜欢的人突然有对象是什么感觉",
+        "onboard_time": 1718205619,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14004,
+        "num": 23435,
+        "word": "福宝爱吃的都在蛋糕里",
+        "onboard_time": 1718214552,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13782,
+        "num": 23433,
+        "word": "新疆为什么像四个省份",
+        "onboard_time": 1718214733,
+        "rank": 38,
+        "category": "旅游,科学科普"
+      },
+      {
+        "raw_hot": 13585,
+        "num": 23428,
+        "word": "乐华否认程潇吴宣仪耍大牌",
+        "onboard_time": 1718192119,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13456,
+        "num": 23422,
+        "word": "吴谨言回复罗伯特",
+        "onboard_time": 1718223130,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13375,
+        "num": 23419,
+        "word": "毛不易现场",
+        "onboard_time": 1718207119,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13330,
+        "num": 23413,
+        "word": "YG糟糕的公关",
+        "onboard_time": 1718204840,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13305,
+        "num": 23409,
+        "word": "女子炫了一斤杨梅被送进ICU",
+        "onboard_time": 1718183301,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13118,
+        "num": 23404,
+        "word": "墨雨云间跪下文学",
+        "onboard_time": 1718211794,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13052,
+        "num": 23400,
+        "word": "林更新上线霍建华也不远了",
+        "onboard_time": 1718202139,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13020,
+        "num": 23395,
+        "word": "吴宣仪机场视频",
+        "onboard_time": 1718193018,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12593,
+        "num": 23393,
+        "word": "黄亦玫方协文闪婚",
+        "onboard_time": 1718196259,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12248,
+        "num": 23386,
+        "word": "玫瑰的故事",
+        "onboard_time": 1718197278,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12055,
+        "num": 23384,
+        "word": "墨雨云间",
+        "onboard_time": 1718195479,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给清华教授回信#"
+    }
+  }
+}
