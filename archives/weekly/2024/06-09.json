@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718176706148,
+  "endTime": 1718177686973,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -1531,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576837,
+      "num": 576837,
+      "word": "某明星 坐电梯耍大牌",
+      "onboard_time": 1718176761,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 574242,
       "num": 574242,
       "word": "刚考完就有大学生那味了",
@@ -1664,6 +1672,14 @@
       "word": "王传君拿错手机把志胜活儿拒了",
       "onboard_time": 1717929319,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 535364,
+      "num": 267773,
+      "word": "江疏影baby肚",
+      "onboard_time": 1718174780,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -1947,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493605,
+      "num": 493605,
+      "word": "女孩瞒着父母复读6年",
+      "onboard_time": 1718173578,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 490558,
       "num": 246992,
       "word": "彭冠英否认庄国栋有未婚妻",
@@ -2032,22 +2056,6 @@
       "word": "那么多卖咸蛋黄的蛋清都去哪了",
       "onboard_time": 1718002098,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476614,
-      "num": 267773,
-      "word": "江疏影baby肚",
-      "onboard_time": 1718174780,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 475320,
-      "num": 475320,
-      "word": "女孩瞒着父母复读6年",
-      "onboard_time": 1718173578,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -2265,6 +2273,14 @@
       "onboard_time": 1717888273,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444415,
+      "num": 264716,
+      "word": "小猫被人划破生殖器打断四肢丢楼道",
+      "onboard_time": 1718176218,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443589,
@@ -2683,6 +2699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379023,
+      "num": 232148,
+      "word": "韩国总统夫人拎上了帆布包",
+      "onboard_time": 1718176101,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 376103,
       "num": 376103,
       "word": "杨幂 艺人最重要的是社会影响力",
@@ -3089,14 +3113,6 @@
       "onboard_time": 1717905017,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 338468,
-      "num": 264716,
-      "word": "小猫被人划破生殖器打断四肢丢楼道",
-      "onboard_time": 1718176218,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337271,
@@ -3545,6 +3561,14 @@
       "onboard_time": 1718022438,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 295599,
+      "num": 222384,
+      "word": "林更新总成绩排名专业第2",
+      "onboard_time": 1718176639,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 294919,
@@ -4571,14 +4595,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 219075,
-      "num": 219075,
-      "word": "韩国总统夫人拎上了帆布包",
-      "onboard_time": 1718176101,
-      "rank": 16,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 218967,
       "num": 177863,
       "word": "刘宇宁说迪丽热巴是维秘天使",
@@ -5067,6 +5083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203399,
+      "num": 203399,
+      "word": "你好星期六浪姐限时摇人",
+      "onboard_time": 1718177480,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202700,
       "num": 202700,
       "word": "蔡斌表示朱婷今晚必首发",
@@ -5361,6 +5385,14 @@
       "onboard_time": 1717996937,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195551,
+      "num": 195551,
+      "word": "狼队对战TTG",
+      "onboard_time": 1718176761,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 195533,
@@ -7643,6 +7675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137375,
+      "num": 236868,
+      "word": "商场里小丑狂奔救下卷入扶梯女孩",
+      "onboard_time": 1718174359,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137070,
       "num": 137070,
       "word": "外公去世前就为我的高考订了花",
@@ -7665,6 +7705,14 @@
       "onboard_time": 1718006236,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136700,
+      "num": 136700,
+      "word": "电影逆行人生定档",
+      "onboard_time": 1718177300,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 136513,
@@ -7977,14 +8025,6 @@
       "onboard_time": 1718098817,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130470,
-      "num": 130470,
-      "word": "商场里小丑狂奔救下卷入扶梯女孩",
-      "onboard_time": 1718174359,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130461,
@@ -8667,14 +8707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114716,
-      "num": 114716,
-      "word": "林更新总成绩排名专业第2",
-      "onboard_time": 1718176639,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114665,
       "num": 114665,
       "word": "Xiaolaohu说不打职业回家了",
@@ -8819,6 +8851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111694,
+      "num": 111694,
+      "word": "伞兵挂牌",
+      "onboard_time": 1718177181,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111522,
       "num": 111522,
       "word": "心疼孙丞潇",
@@ -8921,6 +8961,14 @@
       "onboard_time": 1717986256,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107053,
+      "num": 107053,
+      "word": "歌手还不公布歌单",
+      "onboard_time": 1718177600,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 106968,
@@ -9675,6 +9723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66109,
+      "num": 270822,
+      "word": "大学里志趣变成稀缺品了吗",
+      "onboard_time": 1718171539,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64914,
       "num": 490300,
       "word": "AI预测宝宝长相是不是智商税",
@@ -10227,14 +10283,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 40412,
-      "num": 270822,
-      "word": "大学里志趣变成稀缺品了吗",
-      "onboard_time": 1718171539,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 39947,
       "num": 39947,
       "word": "胡夏把清华电视踢翻了",
@@ -10273,6 +10321,14 @@
       "onboard_time": 1718159717,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38327,
+      "num": 140330,
+      "word": "近7成用户表示买车先看智驾能力",
+      "onboard_time": 1718176399,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 37767,
@@ -10435,14 +10491,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 29670,
-      "num": 128271,
-      "word": "近7成用户表示买车先看智驾能力",
-      "onboard_time": 1718176399,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 29293,
       "num": 127146,
       "word": "太空视角看中国供水大动脉10年之变",
@@ -10547,6 +10595,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 22019,
+      "num": 579717,
+      "word": "炎炎夏日谢谢他们的坚守",
+      "onboard_time": 1718176521,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20566,
       "num": 34503,
       "word": "2024高考特写",
@@ -10625,14 +10681,6 @@
       "onboard_time": 1717858999,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16285,
-      "num": 551894,
-      "word": "炎炎夏日谢谢他们的坚守",
-      "onboard_time": 1718176521,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16039,
