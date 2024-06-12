@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718223656803,
+  "endTime": 1718224489778,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -11683,6 +11683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37615,
+      "num": 37615,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36978,
       "num": 299518,
       "word": "龙舟赛成为巴黎奥运表演项目",
@@ -11849,14 +11857,6 @@
       "onboard_time": 1717959071,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31492,
-      "num": 31492,
-      "word": "东北孩子噩梦马上就来了",
-      "onboard_time": 1718219711,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 31480,
@@ -12107,6 +12107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18224,
+      "num": 23473,
+      "word": "抬头看的是天还是空",
+      "onboard_time": 1718219170,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18134,
       "num": 25882,
       "word": "终于找到戴夫的家了",
@@ -12139,6 +12147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17477,
+      "num": 23422,
+      "word": "吴谨言回复罗伯特",
+      "onboard_time": 1718223130,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17167,
       "num": 34094,
       "word": "田曦薇晚上吃铁锅炖",
@@ -12155,12 +12171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16884,
-      "num": 23473,
-      "word": "抬头看的是天还是空",
-      "onboard_time": 1718219170,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 16334,
+      "num": 23443,
+      "word": "原来天和空是有区别的",
+      "onboard_time": 1718222170,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 16039,
@@ -12243,14 +12259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14488,
-      "num": 23443,
-      "word": "原来天和空是有区别的",
-      "onboard_time": 1718222170,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 14347,
       "num": 47476,
       "word": "高考结束消防员架起水门祝福考生",
@@ -12289,14 +12297,6 @@
       "onboard_time": 1718174298,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13456,
-      "num": 23422,
-      "word": "吴谨言回复罗伯特",
-      "onboard_time": 1718223130,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 13404,

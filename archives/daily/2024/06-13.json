@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718223656803,
+  "endTime": 1718224489778,
   "band_list": [
     {
       "raw_hot": 579038,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37615,
+      "num": 37615,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 36881,
       "num": 32337,
       "word": "怦然心动20岁 be",
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31492,
-      "num": 31492,
-      "word": "东北孩子噩梦马上就来了",
-      "onboard_time": 1718219711,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 29389,
       "num": 29389,
       "word": "黄亦玫1分钟6个才艺",
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18224,
+      "num": 23473,
+      "word": "抬头看的是天还是空",
+      "onboard_time": 1718219170,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 17572,
       "num": 103656,
       "word": "被95后吕剧演员转场变装硬控了",
@@ -507,12 +515,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16884,
-      "num": 23473,
-      "word": "抬头看的是天还是空",
-      "onboard_time": 1718219170,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 17477,
+      "num": 23422,
+      "word": "吴谨言回复罗伯特",
+      "onboard_time": 1718223130,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16334,
+      "num": 23443,
+      "word": "原来天和空是有区别的",
+      "onboard_time": 1718222170,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 14597,
@@ -521,22 +537,6 @@
       "onboard_time": 1718214552,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14488,
-      "num": 23443,
-      "word": "原来天和空是有区别的",
-      "onboard_time": 1718222170,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 13456,
-      "num": 23422,
-      "word": "吴谨言回复罗伯特",
-      "onboard_time": 1718223130,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 3200,

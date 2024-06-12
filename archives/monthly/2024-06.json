@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718223656803,
+  "endTime": 1718224489778,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -33979,6 +33979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37615,
+      "num": 37615,
+      "word": "东北孩子噩梦马上就来了",
+      "onboard_time": 1718219711,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 37116,
       "num": 195696,
       "word": "端午里的山东中医药文旅周",
@@ -34361,14 +34369,6 @@
       "onboard_time": 1717959071,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31492,
-      "num": 31492,
-      "word": "东北孩子噩梦马上就来了",
-      "onboard_time": 1718219711,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 31480,
@@ -35155,6 +35155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18224,
+      "num": 23473,
+      "word": "抬头看的是天还是空",
+      "onboard_time": 1718219170,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 18194,
       "num": 273527,
       "word": "跟着甘孜文旅局长刘洪打卡G318",
@@ -35193,6 +35201,14 @@
       "onboard_time": 1718213173,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17477,
+      "num": 23422,
+      "word": "吴谨言回复罗伯特",
+      "onboard_time": 1718223130,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 17308,
@@ -35235,14 +35251,6 @@
       "category": "国内时政,科学科普"
     },
     {
-      "raw_hot": 16884,
-      "num": 23473,
-      "word": "抬头看的是天还是空",
-      "onboard_time": 1718219170,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 16712,
       "num": 209737,
       "word": "福宝回家2个多月体重稳定",
@@ -35265,6 +35273,14 @@
       "onboard_time": 1717329618,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16334,
+      "num": 23443,
+      "word": "原来天和空是有区别的",
+      "onboard_time": 1718222170,
+      "rank": 35,
+      "category": "科学科普"
     },
     {
       "raw_hot": 16039,
@@ -35395,14 +35411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14488,
-      "num": 23443,
-      "word": "原来天和空是有区别的",
-      "onboard_time": 1718222170,
-      "rank": 35,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 14347,
       "num": 47476,
       "word": "高考结束消防员架起水门祝福考生",
@@ -35489,14 +35497,6 @@
       "onboard_time": 1717385717,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13456,
-      "num": 23422,
-      "word": "吴谨言回复罗伯特",
-      "onboard_time": 1718223130,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 13448,
