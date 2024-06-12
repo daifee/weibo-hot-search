@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718184875775,
+  "endTime": 1718187626025,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -1363,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641411,
+      "num": 641411,
+      "word": "上戏回应林更新考博成功",
+      "onboard_time": 1718179880,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637450,
       "num": 637450,
       "word": "人民文娱评大批艺人涌入带货直播间",
@@ -1417,14 +1425,6 @@
       "onboard_time": 1718147235,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 617413,
-      "num": 383813,
-      "word": "上戏回应林更新考博成功",
-      "onboard_time": 1718179880,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 612853,
@@ -2291,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447138,
+      "num": 194725,
+      "word": "女子炫了一斤杨梅被送进ICU",
+      "onboard_time": 1718183301,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446250,
       "num": 446250,
       "word": "女子露营上厕所5分钟回来被偷家",
@@ -2441,6 +2449,14 @@
       "onboard_time": 1718088318,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 429023,
+      "num": 429023,
+      "word": "美国62岁男子杀29岁妻子藏尸冰柜",
+      "onboard_time": 1718181140,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427219,
@@ -2739,6 +2755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378297,
+      "num": 308704,
+      "word": "墨雨云间 已老实求加更",
+      "onboard_time": 1718184380,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376103,
       "num": 376103,
       "word": "杨幂 艺人最重要的是社会影响力",
@@ -2753,14 +2777,6 @@
       "onboard_time": 1718082918,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373959,
-      "num": 265367,
-      "word": "美国62岁男子杀29岁妻子藏尸冰柜",
-      "onboard_time": 1718181140,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 372394,
@@ -3172,7 +3188,7 @@
     },
     {
       "raw_hot": 338325,
-      "num": 281116,
+      "num": 303898,
       "word": "养猫千万不要光着身子在家里",
       "onboard_time": 1718181441,
       "rank": 11,
@@ -3201,6 +3217,14 @@
       "onboard_time": 1717895177,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335328,
+      "num": 302308,
+      "word": "kep1er一位",
+      "onboard_time": 1718186718,
+      "rank": 10,
+      "category": "音乐"
     },
     {
       "raw_hot": 333830,
@@ -3363,6 +3387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320692,
+      "num": 320692,
+      "word": "范志毅谈孙兴慜挑衅手势",
+      "onboard_time": 1718183479,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320688,
       "num": 320688,
       "word": "中国日本韩国朝鲜全出线了",
@@ -3417,6 +3449,14 @@
       "onboard_time": 1718023758,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 313914,
+      "num": 174404,
+      "word": "买一送一和五折哪个更划算",
+      "onboard_time": 1718185879,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 313478,
@@ -3571,14 +3611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302544,
-      "num": 194725,
-      "word": "女子炫了一斤杨梅被送进ICU",
-      "onboard_time": 1718183301,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301102,
       "num": 301102,
       "word": "潮牌Champion为什么不火了",
@@ -3617,6 +3649,14 @@
       "onboard_time": 1718165720,
       "rank": 30,
       "category": "读书作家,游戏"
+    },
+    {
+      "raw_hot": 297027,
+      "num": 297027,
+      "word": "韩国UP主爆料20年前集体性侵案",
+      "onboard_time": 1718183599,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296528,
@@ -3801,14 +3841,6 @@
       "onboard_time": 1717856598,
       "rank": 7,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 279777,
-      "num": 264550,
-      "word": "范志毅谈孙兴慜挑衅手势",
-      "onboard_time": 1718183479,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 278989,
@@ -4524,7 +4556,7 @@
     },
     {
       "raw_hot": 233744,
-      "num": 140038,
+      "num": 173613,
       "word": "从西藏回来的人嘴是真的严",
       "onboard_time": 1718184198,
       "rank": 30,
@@ -4545,6 +4577,14 @@
       "onboard_time": 1718002638,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232090,
+      "num": 232090,
+      "word": "王星越说卢昱晓背台词快",
+      "onboard_time": 1718186178,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 231808,
@@ -6227,14 +6267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178766,
-      "num": 178766,
-      "word": "墨雨云间 已老实求加更",
-      "onboard_time": 1718184380,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178612,
       "num": 178612,
       "word": "果然广东人是真心想救屈原的",
@@ -6993,6 +7025,14 @@
       "onboard_time": 1717995018,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157934,
+      "num": 157934,
+      "word": "戴簪花的萨摩耶",
+      "onboard_time": 1718185939,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 157835,
@@ -7771,6 +7811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139576,
+      "num": 139576,
+      "word": "赶海登岛成端午热门",
+      "onboard_time": 1718187199,
+      "rank": 29,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 139479,
       "num": 139479,
       "word": "原来中华猛龙化石是这样发现的",
@@ -8267,6 +8315,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 130074,
+      "num": 130074,
+      "word": "亦舒",
+      "onboard_time": 1718184620,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129957,
       "num": 129957,
       "word": "辽宁化学已老实",
@@ -8411,6 +8467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126581,
+      "num": 126581,
+      "word": "Doinb爆料iboy做陪玩去了",
+      "onboard_time": 1718187199,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126486,
       "num": 126486,
       "word": "周深带全场毕业生说少管我",
@@ -8547,6 +8611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123156,
+      "num": 123156,
+      "word": "用高脚杯喝螺蛳粉",
+      "onboard_time": 1718186538,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123117,
       "num": 351464,
       "word": "我们大学见",
@@ -8563,6 +8635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122892,
+      "num": 122892,
+      "word": "吴谨言晒薛芳菲击鼓申冤",
+      "onboard_time": 1718187018,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122790,
       "num": 122790,
       "word": "谈判专家 过瘾",
@@ -8576,6 +8656,14 @@
       "word": "BLG战胜LGD",
       "onboard_time": 1718028561,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 122494,
+      "num": 122494,
+      "word": "JDG对战TCG",
+      "onboard_time": 1718185278,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -8849,6 +8937,14 @@
       "onboard_time": 1717946180,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116433,
+      "num": 116433,
+      "word": "男子初中门口摆拍接女友放学被拘",
+      "onboard_time": 1718186899,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116303,
@@ -9155,6 +9251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109674,
+      "num": 109674,
+      "word": "周鸿祎张朝阳推荐4个专业方向",
+      "onboard_time": 1718187079,
+      "rank": 42,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 109519,
       "num": 109519,
       "word": "马嘉祺新单曲蜉蝣预告",
@@ -9249,14 +9353,6 @@
       "onboard_time": 1718030119,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 106395,
-      "num": 106395,
-      "word": "亦舒",
-      "onboard_time": 1718184620,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 106279,
@@ -9531,6 +9627,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 96137,
+      "num": 96137,
+      "word": "韩华bp",
+      "onboard_time": 1718184859,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95980,
       "num": 981831,
       "word": "龙舟经济火爆",
@@ -9619,20 +9723,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92751,
+      "num": 301805,
+      "word": "费大厨如何占领中国人餐桌",
+      "onboard_time": 1718183000,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 92717,
       "num": 241949,
       "word": "臭宝硬控我30秒",
       "onboard_time": 1718086400,
       "rank": 31,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 92242,
-      "num": 222036,
-      "word": "费大厨如何占领中国人餐桌",
-      "onboard_time": 1718183000,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 91614,
@@ -9673,6 +9777,14 @@
       "onboard_time": 1717922418,
       "rank": 2,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90059,
+      "num": 90059,
+      "word": "白羊座慕的不仅仅是强",
+      "onboard_time": 1718187079,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89152,
@@ -9755,28 +9867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85264,
-      "num": 85264,
-      "word": "韩华bp",
-      "onboard_time": 1718184859,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 85023,
       "num": 85023,
       "word": "墨雨云间第17集",
       "onboard_time": 1717888032,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85013,
-      "num": 174278,
-      "word": "韩国UP主爆料20年前集体性侵案",
-      "onboard_time": 1718183599,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 84958,
@@ -10609,6 +10705,14 @@
       "onboard_time": 1717870691,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42170,
+      "num": 302430,
+      "word": "兄妹俩高考后到工地帮妈妈安门窗",
+      "onboard_time": 1718185819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41761,
