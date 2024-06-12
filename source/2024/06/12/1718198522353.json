@@ -1,0 +1,410 @@
+{
+  "runTime": 1718198522353,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1118873,
+        "num": 1118873,
+        "word": "韩国没有了五花肉自由",
+        "onboard_time": 1718191639,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800243,
+        "num": 800243,
+        "word": "没叫醒孩子错过高考",
+        "onboard_time": 1718197278,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 88397,
+        "num": 711143,
+        "word": "中国航天员站在机械臂上和地球同框",
+        "onboard_time": 1718196558,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699955,
+        "num": 699955,
+        "word": "乐华否认程潇吴宣仪耍大牌",
+        "onboard_time": 1718192119,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630501,
+        "num": 630501,
+        "word": "刘亦菲霍建华香港文艺片氛围感",
+        "onboard_time": 1718196439,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325265,
+        "num": 325265,
+        "word": "一架直升机在江西鄱阳县坠落",
+        "onboard_time": 1718193559,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272200,
+        "num": 313681,
+        "word": "美国CPI",
+        "onboard_time": 1718196558,
+        "rank": 6,
+        "category": "财经,国外时政"
+      },
+      {
+        "raw_hot": 198919,
+        "num": 308329,
+        "word": "高温",
+        "onboard_time": 1718197640,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303716,
+        "num": 303716,
+        "word": "吴宣仪机场视频",
+        "onboard_time": 1718193018,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563087,
+        "num": 303264,
+        "word": "刘亦菲林更新脸颊吻",
+        "onboard_time": 1718194698,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 864420,
+        "num": 302707,
+        "word": "Angelababy线下生图状态",
+        "onboard_time": 1718194759,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423518,
+        "num": 301339,
+        "word": "马斯克被曝与SpaceX多名员工有染",
+        "onboard_time": 1718188337,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375129,
+        "num": 301207,
+        "word": "鞠婧祎 眉弓",
+        "onboard_time": 1718191038,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351339,
+        "num": 300030,
+        "word": "黄亦玫方协文闪婚",
+        "onboard_time": 1718196259,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115585,
+        "num": 299294,
+        "word": "宝宝午睡太久妈妈科目三强制开机",
+        "onboard_time": 1718198299,
+        "rank": 14,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 175183,
+        "num": 297922,
+        "word": "白羊座慕的不仅仅是强",
+        "onboard_time": 1718187079,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371814,
+        "num": 297611,
+        "word": "北京偶遇刘亦菲逛街",
+        "onboard_time": 1718198480,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282801,
+        "num": 296966,
+        "word": "假如你有86400块钱",
+        "onboard_time": 1718191939,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248639,
+        "num": 295610,
+        "word": "台湾人不能放弃的谐音梗",
+        "onboard_time": 1718195058,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241560,
+        "num": 295310,
+        "word": "印度贫民窟上百人共用一个厕所",
+        "onboard_time": 1718197400,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294601,
+        "num": 294601,
+        "word": "谢娜许昕友情",
+        "onboard_time": 1718196379,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291182,
+        "num": 291182,
+        "word": "这是初恋吗 这是家里进贼了",
+        "onboard_time": 1718188099,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1222460,
+        "num": 287932,
+        "word": "家门口遭捅死女孩曾被保送北外",
+        "onboard_time": 1718191398,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947091,
+        "num": 282171,
+        "word": "某明星 坐电梯耍大牌",
+        "onboard_time": 1718176761,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274333,
+        "num": 274333,
+        "word": "女儿刚高考完就支出了3万",
+        "onboard_time": 1718191639,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 244408,
+        "num": 244408,
+        "word": "李梦在墨雨云间里演爽了",
+        "onboard_time": 1718197038,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83302,
+        "num": 239703,
+        "word": "小伙抱出煤气罐救了整栋楼",
+        "onboard_time": 1718196439,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 238523,
+        "num": 238523,
+        "word": "陈晓许凯王星越 于正严选",
+        "onboard_time": 1718195838,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213520,
+        "num": 213520,
+        "word": "墨雨云间",
+        "onboard_time": 1718195479,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210407,
+        "num": 210407,
+        "word": "上戏回应林更新考博成功",
+        "onboard_time": 1718179880,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227343,
+        "num": 210390,
+        "word": "玫瑰的故事 捐血文学",
+        "onboard_time": 1718197519,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211378,
+        "num": 210321,
+        "word": "美国62岁男子杀29岁妻子藏尸冰柜",
+        "onboard_time": 1718181140,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209931,
+        "num": 209931,
+        "word": "女子炫了一斤杨梅被送进ICU",
+        "onboard_time": 1718183301,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189877,
+        "num": 189877,
+        "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+        "onboard_time": 1718197159,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173445,
+        "num": 173445,
+        "word": "玫瑰的故事",
+        "onboard_time": 1718197278,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160935,
+        "num": 160935,
+        "word": "周深演唱会",
+        "onboard_time": 1718198299,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159808,
+        "num": 159808,
+        "word": "王星越初中时期被同学霸凌",
+        "onboard_time": 1718193858,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157639,
+        "num": 157639,
+        "word": "高考完想整牙爸妈不同意",
+        "onboard_time": 1718194698,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153706,
+        "num": 153706,
+        "word": "一次傅慎行 一生傅慎行",
+        "onboard_time": 1718191878,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141012,
+        "num": 141012,
+        "word": "工资还没年份高",
+        "onboard_time": 1718193799,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152813,
+        "num": 139770,
+        "word": "墨雨云间 已老实求加更",
+        "onboard_time": 1718184380,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138414,
+        "num": 138414,
+        "word": "谢娜被张杰在演唱会上表白的反应",
+        "onboard_time": 1718194279,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130105,
+        "num": 130105,
+        "word": "TES战胜OMG",
+        "onboard_time": 1718197819,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127861,
+        "num": 127861,
+        "word": "胡歌 我们不分彼此",
+        "onboard_time": 1718193199,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127160,
+        "num": 127160,
+        "word": "领克发布会",
+        "onboard_time": 1718195419,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127049,
+        "num": 127049,
+        "word": "墨雨云间出了多少个圈",
+        "onboard_time": 1718195598,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118719,
+        "num": 118719,
+        "word": "法式鹅肝怎么成了中国县城土特产",
+        "onboard_time": 1718197218,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117673,
+        "num": 117673,
+        "word": "无畏没上",
+        "onboard_time": 1718193979,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111737,
+        "num": 115153,
+        "word": "欧盟即将对华电动车加征关税",
+        "onboard_time": 1718195838,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 83844,
+        "num": 114410,
+        "word": "福宝随地大小躺",
+        "onboard_time": 1718178380,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第五次会议#"
+    }
+  }
+}

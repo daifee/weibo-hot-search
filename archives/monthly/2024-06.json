@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718196703449,
+  "endTime": 1718198522353,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2651,6 +2651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 864420,
+      "num": 474137,
+      "word": "Angelababy线下生图状态",
+      "onboard_time": 1718194759,
+      "rank": 12,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 863832,
       "num": 483573,
       "word": "男子火锅店强吻陌生女子被拘10天",
@@ -2761,14 +2769,6 @@
       "onboard_time": 1717170739,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 845779,
-      "num": 474137,
-      "word": "Angelababy线下生图状态",
-      "onboard_time": 1718194759,
-      "rank": 12,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 842126,
@@ -2993,6 +2993,14 @@
       "onboard_time": 1718071159,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 800243,
+      "num": 800243,
+      "word": "没叫醒孩子错过高考",
+      "onboard_time": 1718197278,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 798906,
@@ -4665,6 +4673,14 @@
       "onboard_time": 1718025499,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 630501,
+      "num": 630501,
+      "word": "刘亦菲霍建华香港文艺片氛围感",
+      "onboard_time": 1718196439,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 630339,
@@ -9203,6 +9219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371814,
+      "num": 297611,
+      "word": "北京偶遇刘亦菲逛街",
+      "onboard_time": 1718198480,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371533,
       "num": 371533,
       "word": "35岁再考清华当事人称语文考崩了",
@@ -9809,6 +9833,14 @@
       "onboard_time": 1717378638,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351339,
+      "num": 300030,
+      "word": "黄亦玫方协文闪婚",
+      "onboard_time": 1718196259,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 351269,
@@ -10595,6 +10627,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 325265,
+      "num": 325265,
+      "word": "一架直升机在江西鄱阳县坠落",
+      "onboard_time": 1718193559,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 325221,
       "num": 325221,
       "word": "考完一科丢一科 考完地理丢本科",
@@ -11187,14 +11227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306960,
-      "num": 306960,
-      "word": "刘亦菲霍建华香港文艺片氛围感",
-      "onboard_time": 1718196439,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306388,
       "num": 306388,
       "word": "王者新英雄元流之子",
@@ -11593,6 +11625,14 @@
       "onboard_time": 1717995497,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 294601,
+      "num": 294601,
+      "word": "谢娜许昕友情",
+      "onboard_time": 1718196379,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 294590,
@@ -12075,14 +12115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281490,
-      "num": 307328,
-      "word": "一架直升机在江西鄱阳县坠落",
-      "onboard_time": 1718193559,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280803,
       "num": 280803,
       "word": "逆水寒玄机CG",
@@ -12347,6 +12379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274333,
+      "num": 274333,
+      "word": "女儿刚高考完就支出了3万",
+      "onboard_time": 1718191639,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 274036,
       "num": 207648,
       "word": "没了董宇辉东方甄选只能乱七八糟吗",
@@ -12457,6 +12497,14 @@
       "onboard_time": 1717721359,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272200,
+      "num": 510112,
+      "word": "美国CPI",
+      "onboard_time": 1718196558,
+      "rank": 8,
+      "category": "财经,国外时政"
     },
     {
       "raw_hot": 272024,
@@ -12593,14 +12641,6 @@
       "onboard_time": 1717462939,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 268981,
-      "num": 268981,
-      "word": "女儿刚高考完就支出了3万",
-      "onboard_time": 1718191639,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 268955,
@@ -13507,6 +13547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248639,
+      "num": 295610,
+      "word": "台湾人不能放弃的谐音梗",
+      "onboard_time": 1718195058,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 248415,
       "num": 248415,
       "word": "Uzi 剑网三",
@@ -13715,6 +13763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244408,
+      "num": 244408,
+      "word": "李梦在墨雨云间里演爽了",
+      "onboard_time": 1718197038,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244010,
       "num": 244010,
       "word": "国足致谢所有球迷",
@@ -13809,6 +13865,14 @@
       "onboard_time": 1717924037,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241560,
+      "num": 295310,
+      "word": "印度贫民窟上百人共用一个厕所",
+      "onboard_time": 1718197400,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 241467,
@@ -13961,6 +14025,14 @@
       "onboard_time": 1718116941,
       "rank": 28,
       "category": "情感,数码"
+    },
+    {
+      "raw_hot": 238523,
+      "num": 238523,
+      "word": "陈晓许凯王星越 于正严选",
+      "onboard_time": 1718195838,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238423,
@@ -14577,6 +14649,14 @@
       "onboard_time": 1717318818,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227343,
+      "num": 210390,
+      "word": "玫瑰的故事 捐血文学",
+      "onboard_time": 1718197519,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 227318,
@@ -15489,14 +15569,6 @@
       "onboard_time": 1717983796,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212668,
-      "num": 188302,
-      "word": "陈晓许凯王星越 于正严选",
-      "onboard_time": 1718195838,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 212601,
@@ -17083,6 +17155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198919,
+      "num": 308329,
+      "word": "高温",
+      "onboard_time": 1718197640,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198899,
       "num": 198899,
       "word": "世预赛",
@@ -18217,6 +18297,14 @@
       "onboard_time": 1717766903,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 189877,
+      "num": 189877,
+      "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+      "onboard_time": 1718197159,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 189860,
@@ -19979,14 +20067,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173767,
-      "num": 173767,
-      "word": "台湾人不能放弃的谐音梗",
-      "onboard_time": 1718195058,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 173724,
       "num": 184474,
       "word": "高考作文谈如何与他人相处",
@@ -20889,14 +20969,6 @@
       "onboard_time": 1717245859,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165579,
-      "num": 165579,
-      "word": "黄亦玫方协文闪婚",
-      "onboard_time": 1718196259,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 165559,
@@ -21929,6 +22001,14 @@
       "onboard_time": 1718067379,
       "rank": 39,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 157639,
+      "num": 157639,
+      "word": "高考完想整牙爸妈不同意",
+      "onboard_time": 1718194698,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 157634,
@@ -23843,14 +23923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143594,
-      "num": 510112,
-      "word": "美国CPI",
-      "onboard_time": 1718196558,
-      "rank": 8,
-      "category": "财经,国外时政"
-    },
-    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "25岁好像是人生的分水岭",
@@ -24195,6 +24267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141012,
+      "num": 141012,
+      "word": "工资还没年份高",
+      "onboard_time": 1718193799,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 140997,
       "num": 140997,
       "word": "新一语法填空求放过",
@@ -24217,14 +24297,6 @@
       "onboard_time": 1717298120,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140806,
-      "num": 140806,
-      "word": "高考完想整牙爸妈不同意",
-      "onboard_time": 1718194698,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 140712,
@@ -25771,6 +25843,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 130105,
+      "num": 130105,
+      "word": "TES战胜OMG",
+      "onboard_time": 1718197819,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130079,
       "num": 130079,
       "word": "德国人不想要孩子的原因找到了",
@@ -26163,6 +26243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 127160,
+      "num": 127160,
+      "word": "领克发布会",
+      "onboard_time": 1718195419,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 127157,
       "num": 516991,
       "word": "20元的面他付了200元还坚持不让退",
@@ -26273,14 +26361,6 @@
       "onboard_time": 1717479019,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126657,
-      "num": 121265,
-      "word": "谢娜许昕友情",
-      "onboard_time": 1718196379,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 126622,
@@ -27435,6 +27515,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 118719,
+      "num": 118719,
+      "word": "法式鹅肝怎么成了中国县城土特产",
+      "onboard_time": 1718197218,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118670,
       "num": 118670,
       "word": "猫妈带着独生子出门啦",
@@ -27513,14 +27601,6 @@
       "onboard_time": 1717987698,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117841,
-      "num": 117841,
-      "word": "工资还没年份高",
-      "onboard_time": 1718193799,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 117831,
@@ -27633,14 +27713,6 @@
       "onboard_time": 1717577957,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116957,
-      "num": 116957,
-      "word": "领克发布会",
-      "onboard_time": 1718195419,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 116802,
@@ -27905,6 +27977,14 @@
       "onboard_time": 1717636098,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115585,
+      "num": 299294,
+      "word": "宝宝午睡太久妈妈科目三强制开机",
+      "onboard_time": 1718198299,
+      "rank": 14,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 115551,
@@ -30379,6 +30459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88397,
+      "num": 711143,
+      "word": "中国航天员站在机械臂上和地球同框",
+      "onboard_time": 1718196558,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87914,
       "num": 207146,
       "word": "今天的快乐是京东618五折给的",
@@ -30617,6 +30705,14 @@
       "onboard_time": 1717943179,
       "rank": 9,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 83302,
+      "num": 342235,
+      "word": "小伙抱出煤气罐救了整栋楼",
+      "onboard_time": 1718196439,
+      "rank": 14,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 83298,
@@ -33083,14 +33179,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 44124,
-      "num": 342235,
-      "word": "小伙抱出煤气罐救了整栋楼",
-      "onboard_time": 1718196439,
-      "rank": 14,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 44085,
       "num": 44085,
       "word": "FPX更换首发上单",
@@ -35096,14 +35184,6 @@
       "word": "护士救人一命却悄悄自责",
       "onboard_time": 1717433654,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11117,
-      "num": 675797,
-      "word": "中国航天员站在机械臂上和地球同框",
-      "onboard_time": 1718196558,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
