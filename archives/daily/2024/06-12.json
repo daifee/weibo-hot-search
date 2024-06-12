@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718156536241,
+  "endTime": 1718159742993,
   "band_list": [
     {
       "raw_hot": 2680559,
@@ -19,6 +19,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1509757,
+      "num": 1509757,
+      "word": "福宝直播",
+      "onboard_time": 1718157138,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1422538,
+      "num": 257979,
+      "word": "耳朵总痒可能暗示这5种问题",
+      "onboard_time": 1718155997,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1406927,
       "num": 1406927,
       "word": "国足晋级18强赛",
@@ -33,6 +49,22 @@
       "onboard_time": 1718151438,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 729336,
+      "num": 244839,
+      "word": "27岁要不要放弃体制内工作",
+      "onboard_time": 1718157318,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 704231,
+      "num": 704231,
+      "word": "美军司令扬言让台海变地狱",
+      "onboard_time": 1718156716,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 702944,
@@ -123,6 +155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 511607,
+      "num": 277260,
+      "word": "女生高考结束后直接一睡不起",
+      "onboard_time": 1718154078,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 492033,
       "num": 447310,
       "word": "女员工因担心走光上班打伞遭开除",
@@ -179,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392433,
-      "num": 277260,
-      "word": "女生高考结束后直接一睡不起",
-      "onboard_time": 1718154078,
-      "rank": 25,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 385302,
       "num": 228449,
       "word": "王大雷发声",
@@ -219,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346241,
+      "num": 346241,
+      "word": "田柾国军装",
+      "onboard_time": 1718155939,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339909,
       "num": 162093,
       "word": "成都一年轻女子在家被捅伤致死",
@@ -227,12 +267,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 329583,
-      "num": 329583,
-      "word": "田柾国军装",
-      "onboard_time": 1718155939,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 333830,
+      "num": 237480,
+      "word": "直播福宝亮相",
+      "onboard_time": 1718156298,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326559,
@@ -241,6 +281,14 @@
       "onboard_time": 1718153418,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325410,
+      "num": 325410,
+      "word": "黄亦玫庄国栋分手",
+      "onboard_time": 1718156838,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 320688,
@@ -267,19 +315,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308286,
+      "num": 308286,
+      "word": "福宝新家画面曝光",
+      "onboard_time": 1718154378,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293677,
       "num": 293677,
       "word": "一法国游客在俄发射场附近身亡",
       "onboard_time": 1718148496,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 289146,
-      "num": 289146,
-      "word": "福宝新家画面曝光",
-      "onboard_time": 1718154378,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -297,14 +345,6 @@
       "onboard_time": 1718152039,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257979,
-      "num": 257979,
-      "word": "耳朵总痒可能暗示这5种问题",
-      "onboard_time": 1718155997,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 255524,
@@ -347,12 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245518,
+      "num": 245518,
+      "word": "福宝探头探脑与大家见面",
+      "onboard_time": 1718158816,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245171,
       "num": 245171,
       "word": "范丞丞携爱女给Capper打call",
       "onboard_time": 1718153718,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244010,
+      "num": 244010,
+      "word": "国足致谢所有球迷",
+      "onboard_time": 1718158338,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 237239,
@@ -395,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217741,
+      "num": 217741,
+      "word": "福宝连续来了好几个前滚翻",
+      "onboard_time": 1718158697,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215356,
       "num": 215356,
       "word": "水断食减肥在韩青少年盛行",
       "onboard_time": 1718154499,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204978,
+      "num": 204978,
+      "word": "王星越口罩里敷着面膜",
+      "onboard_time": 1718157258,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 204080,
@@ -417,6 +489,14 @@
       "onboard_time": 1718155879,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 196282,
+      "num": 196282,
+      "word": "福宝你好",
+      "onboard_time": 1718158457,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188616,
@@ -467,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174665,
+      "num": 174665,
+      "word": "国足出线新加坡旅游搜索暴涨5倍",
+      "onboard_time": 1718158457,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170854,
       "num": 170854,
       "word": "iOS18可检测是否正使用慢速充电器",
@@ -475,12 +563,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 168784,
+      "num": 402892,
+      "word": "高考报志愿要了解的16个关键词",
+      "onboard_time": 1718150116,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 168572,
       "num": 168572,
       "word": "佟大为 冻龄",
       "onboard_time": 1718139731,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168160,
+      "num": 168160,
+      "word": "天天喊累的人建议查一下甲状腺",
+      "onboard_time": 1718157857,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165137,
@@ -505,14 +609,6 @@
       "onboard_time": 1718104518,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162729,
-      "num": 162729,
-      "word": "直播福宝亮相",
-      "onboard_time": 1718156298,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160460,
@@ -561,6 +657,14 @@
       "onboard_time": 1718155637,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 138648,
+      "num": 349908,
+      "word": "福宝特写",
+      "onboard_time": 1718158098,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130973,
@@ -619,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120490,
+      "num": 118189,
+      "word": "周杰伦南京抢票",
+      "onboard_time": 1718159717,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120314,
       "num": 120314,
       "word": "陈奕迅需暂停讲话及进食48小时",
@@ -627,12 +739,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119075,
+      "num": 119075,
+      "word": "C罗梅开二度",
+      "onboard_time": 1718159117,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118064,
       "num": 118064,
       "word": "200多块钱买的投影仪",
       "onboard_time": 1718116941,
       "rank": 33,
       "category": "情感,数码"
+    },
+    {
+      "raw_hot": 116802,
+      "num": 116802,
+      "word": "杨泽翔国足首秀就踢韩国",
+      "onboard_time": 1718159298,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 115616,
@@ -649,6 +777,14 @@
       "onboard_time": 1718100557,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108590,
+      "num": 108590,
+      "word": "俱乐部否认将身体不适母子丢海里",
+      "onboard_time": 1718159539,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 106584,
@@ -675,20 +811,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 102780,
+      "num": 102780,
+      "word": "福宝左看看右看看",
+      "onboard_time": 1718159717,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102235,
       "num": 102235,
       "word": "拜合拉木真的硬",
       "onboard_time": 1718117962,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95753,
-      "num": 402892,
-      "word": "高考报志愿要了解的16个关键词",
-      "onboard_time": 1718150116,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 94615,
@@ -891,6 +1027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 15041,
+      "num": 163180,
+      "word": "法网的风吹向巴黎奥运",
+      "onboard_time": 1718157618,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14532,
       "num": 126715,
       "word": "被非遗火壶震撼了",
@@ -921,6 +1065,14 @@
       "onboard_time": 1718147296,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 8462,
+      "num": 897290,
+      "word": "阔步向前的中国航天在帮更多人圆梦",
+      "onboard_time": 1718159717,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
