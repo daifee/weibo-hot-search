@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/13 00:24:40 ~ 2024/06/13 02:25:49
+本榜单时间：2024/06/13 00:24:40 ~ 2024/06/13 02:38:25
 </p>
 </blockquote>
 <p>
@@ -334,13 +334,13 @@ YG糟糕的公关（热度：117062）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%BA%E4%BB%80%E4%B9%88%E5%83%8F%E5%9B%9B%E4%B8%AA%E7%9C%81%E4%BB%BD%23" target="weibo">
-新疆为什么像四个省份（热度：32837）
+新疆为什么像四个省份（热度：34170）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BD%B0%E5%BD%AC%E7%96%91%E4%BC%BC%E6%8E%A8%E6%90%A1%E6%9D%8E%E9%BE%99%E9%A6%A5%23" target="weibo">
-徐彰彬疑似推搡李龙馥（热度：31630）
+徐彰彬疑似推搡李龙馥（热度：31662）
 </a>
 </li>
 
@@ -352,7 +352,7 @@ YG糟糕的公关（热度：117062）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%87%91%E7%89%8C%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%AE%B8%E5%A6%8D%E4%B8%8A%E7%BA%BF%23" target="weibo">
-赵露思金牌女主播许妍上线（热度：26562）
+赵露思金牌女主播许妍上线（热度：28457）
 </a>
 </li>
 
@@ -365,6 +365,12 @@ YG糟糕的公关（热度：117062）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB95%E5%90%8E%E5%90%95%E5%89%A7%E6%BC%94%E5%91%98%E8%BD%AC%E5%9C%BA%E5%8F%98%E8%A3%85%E7%A1%AC%E6%8E%A7%E4%BA%86%23" target="weibo">
 被95后吕剧演员转场变装硬控了（热度：17572）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%9A%E9%9C%B2%E5%9C%A8%E5%A4%96%E9%9D%A2%E7%9D%A1%E8%A7%89%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%84%23" target="weibo">
+脚露在外面睡觉有什么好处（热度：16407）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718216749283,
+  "endTime": 1718217505861,
   "band_list": [
     {
       "raw_hot": 579038,
@@ -427,16 +427,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32837,
-      "num": 32837,
+      "raw_hot": 34170,
+      "num": 34170,
       "word": "新疆为什么像四个省份",
       "onboard_time": 1718214733,
       "rank": 26,
       "category": "旅游,科学科普"
     },
     {
-      "raw_hot": 31630,
-      "num": 31630,
+      "raw_hot": 31662,
+      "num": 31662,
       "word": "徐彰彬疑似推搡李龙馥",
       "onboard_time": 1718213834,
       "rank": 27,
@@ -451,8 +451,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26562,
-      "num": 26562,
+      "raw_hot": 28457,
+      "num": 28457,
       "word": "赵露思金牌女主播许妍上线",
       "onboard_time": 1718216052,
       "rank": 37,
@@ -473,6 +473,14 @@
       "onboard_time": 1718213173,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16407,
+      "num": 25436,
+      "word": "脚露在外面睡觉有什么好处",
+      "onboard_time": 1718217312,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 3200,
