@@ -1,9 +1,9 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718234355204,
+  "endTime": 1718235317113,
   "band_list": [
     {
-      "raw_hot": 683060,
+      "raw_hot": 817793,
       "num": 683060,
       "word": "网曝吉林银行取款需派出所同意",
       "onboard_time": 1718226551,
@@ -27,12 +27,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 535458,
+      "num": 203184,
+      "word": "森林北报案",
+      "onboard_time": 1718234776,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 491666,
+      "num": 491666,
+      "word": "学生篡改7名同学高考志愿获刑1年半",
+      "onboard_time": 1718234235,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480468,
       "num": 578551,
       "word": "黄景瑜中国人民警察大学招生简章",
       "onboard_time": 1718207958,
       "rank": 3,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 373533,
+      "num": 373533,
+      "word": "妈妈让28岁未婚未育女儿回家啃老",
+      "onboard_time": 1718234957,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353221,
@@ -75,8 +99,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 240976,
-      "num": 240976,
+      "raw_hot": 312214,
+      "num": 312214,
+      "word": "胡歌进产房陪产剪脐带",
+      "onboard_time": 1718234355,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 306264,
+      "num": 306264,
       "word": "东北孩子噩梦马上就来了",
       "onboard_time": 1718219711,
       "rank": 33,
@@ -115,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214113,
+      "num": 113096,
+      "word": "原来这才是脊柱喜欢的睡姿",
+      "onboard_time": 1718234355,
+      "rank": 20,
+      "category": "运动健身,科学科普"
+    },
+    {
       "raw_hot": 211661,
       "num": 576894,
       "word": "北京偶遇刘亦菲逛街",
@@ -137,6 +177,14 @@
       "onboard_time": 1718192119,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163235,
+      "num": 573515,
+      "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+      "onboard_time": 1718197159,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 162246,
@@ -171,14 +219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150343,
-      "num": 573515,
-      "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
-      "onboard_time": 1718197159,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143821,
       "num": 576015,
       "word": "马斯克被曝与SpaceX多名员工有染",
@@ -187,20 +227,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 136718,
+      "raw_hot": 142018,
+      "num": 112381,
+      "word": "建议快递包装都换成这种",
+      "onboard_time": 1718233455,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 140704,
       "num": 574893,
       "word": "刘亦菲霍建华香港文艺片氛围感",
       "onboard_time": 1718196439,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120858,
-      "num": 120858,
-      "word": "学生篡改7名同学高考志愿获刑1年半",
-      "onboard_time": 1718234235,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120812,
@@ -227,6 +267,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115549,
+      "num": 85796,
+      "word": "2人将机密当废品卖被退休大爷送回",
+      "onboard_time": 1718234957,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113859,
+      "num": 111866,
+      "word": "坚持运动和从不运动的人差别在哪",
+      "onboard_time": 1718232734,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 111139,
+      "num": 571688,
+      "word": "网红胡涵溪93岁姥姥去世",
+      "onboard_time": 1718209037,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 109642,
       "num": 574162,
       "word": "某明星 坐电梯耍大牌",
@@ -243,20 +307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107338,
-      "num": 571688,
-      "word": "网红胡涵溪93岁姥姥去世",
-      "onboard_time": 1718209037,
-      "rank": 41,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 106582,
-      "num": 103606,
-      "word": "坚持运动和从不运动的人差别在哪",
-      "onboard_time": 1718232734,
-      "rank": 21,
-      "category": "运动健身"
+      "raw_hot": 106030,
+      "num": 106030,
+      "word": "手机放床头真正危害并非致癌",
+      "onboard_time": 1718235137,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 103962,
@@ -299,8 +355,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97397,
-      "num": 97397,
+      "raw_hot": 99980,
+      "num": 99980,
       "word": "脚露在外面睡觉有什么好处",
       "onboard_time": 1718217312,
       "rank": 47,
@@ -323,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87847,
+      "num": 87847,
+      "word": "上海复旦满足了我对好大学的幻想",
+      "onboard_time": 1718234296,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 83704,
       "num": 572294,
       "word": "李梦模仿王星越叼玉佩",
@@ -339,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76639,
+      "num": 76639,
+      "word": "怦然心动20岁 be",
+      "onboard_time": 1718218271,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73736,
       "num": 571847,
       "word": "这是初恋吗 这是家里进贼了",
@@ -347,15 +419,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72173,
-      "num": 72173,
-      "word": "建议快递包装都换成这种",
-      "onboard_time": 1718233455,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 71922,
+      "raw_hot": 72109,
       "num": 572175,
       "word": "印度贫民窟上百人共用一个厕所",
       "onboard_time": 1718197400,
@@ -411,14 +475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63945,
-      "num": 63945,
-      "word": "怦然心动20岁 be",
-      "onboard_time": 1718218271,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 62402,
       "num": 570862,
       "word": "欧洲杯赛程",
@@ -441,6 +497,14 @@
       "onboard_time": 1718201240,
       "rank": 47,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 52143,
+      "num": 52143,
+      "word": "赵露思金牌女主播许妍上线",
+      "onboard_time": 1718216052,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 48856,
@@ -475,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46321,
-      "num": 46321,
-      "word": "赵露思金牌女主播许妍上线",
-      "onboard_time": 1718216052,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44466,
       "num": 578785,
       "word": "中国航天员站在机械臂上和地球同框",
@@ -491,20 +547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43299,
-      "num": 43299,
+      "raw_hot": 43465,
+      "num": 43465,
       "word": "福宝爱吃的都在蛋糕里",
       "onboard_time": 1718214552,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41965,
-      "num": 41965,
-      "word": "上海复旦满足了我对好大学的幻想",
-      "onboard_time": 1718234296,
-      "rank": 41,
-      "category": "教育"
     },
     {
       "raw_hot": 40290,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 35853,
-      "num": 150802,
+      "num": 206530,
       "word": "验瓜师每天拍上万个西瓜收入千元",
       "onboard_time": 1718211315,
       "rank": 9,
@@ -603,8 +651,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 5904,
-      "num": 440273,
+      "raw_hot": 7066,
+      "num": 480599,
       "word": "高考报志愿要了解的16个关键词",
       "onboard_time": 1718150116,
       "rank": 2,
