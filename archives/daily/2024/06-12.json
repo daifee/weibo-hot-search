@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718195768744,
+  "endTime": 1718196703449,
   "band_list": [
     {
       "raw_hot": 2786155,
@@ -83,19 +83,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1262905,
+      "num": 1262905,
+      "word": "韩国没有了五花肉自由",
+      "onboard_time": 1718191639,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1225608,
       "num": 1225608,
       "word": "马斯克被曝与SpaceX多名员工有染",
       "onboard_time": 1718188337,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1154965,
-      "num": 1154965,
-      "word": "韩国没有了五花肉自由",
-      "onboard_time": 1718191639,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -161,6 +161,14 @@
       "onboard_time": 1718167641,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845779,
+      "num": 474137,
+      "word": "Angelababy线下生图状态",
+      "onboard_time": 1718194759,
+      "rank": 12,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 817671,
@@ -251,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622666,
-      "num": 338563,
-      "word": "Angelababy线下生图状态",
-      "onboard_time": 1718194759,
-      "rank": 12,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 619453,
       "num": 284591,
       "word": "胃病发展到胃癌仅仅4步",
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 603121,
-      "num": 330342,
+      "num": 471030,
       "word": "鞠婧祎 眉弓",
       "onboard_time": 1718191038,
       "rank": 44,
@@ -288,6 +288,14 @@
       "word": "这是初恋吗 这是家里进贼了",
       "onboard_time": 1718188099,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 573278,
+      "num": 573278,
+      "word": "刘亦菲林更新脸颊吻",
+      "onboard_time": 1718194698,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 447138,
-      "num": 195603,
+      "num": 219979,
       "word": "女子炫了一斤杨梅被送进ICU",
       "onboard_time": 1718183301,
       "rank": 25,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 421219,
-      "num": 416589,
+      "num": 541963,
       "word": "吴宣仪机场视频",
       "onboard_time": 1718193018,
       "rank": 6,
@@ -553,14 +561,6 @@
       "onboard_time": 1718169499,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411869,
-      "num": 317602,
-      "word": "刘亦菲林更新脸颊吻",
-      "onboard_time": 1718194698,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 406865,
@@ -656,6 +656,14 @@
       "word": "一次傅慎行 一生傅慎行",
       "onboard_time": 1718191878,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 356176,
+      "num": 288120,
+      "word": "刘亦菲佟大为早期合照",
+      "onboard_time": 1718195899,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -803,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306960,
+      "num": 306960,
+      "word": "刘亦菲霍建华香港文艺片氛围感",
+      "onboard_time": 1718196439,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297157,
       "num": 297157,
       "word": "马伯庸 剑网3",
@@ -867,6 +883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 281490,
+      "num": 307328,
+      "word": "一架直升机在江西鄱阳县坠落",
+      "onboard_time": 1718193559,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280803,
       "num": 280803,
       "word": "逆水寒玄机CG",
@@ -913,6 +937,14 @@
       "onboard_time": 1718193858,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268981,
+      "num": 268981,
+      "word": "女儿刚高考完就支出了3万",
+      "onboard_time": 1718191639,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 267523,
@@ -985,6 +1017,14 @@
       "onboard_time": 1718117782,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251830,
+      "num": 251830,
+      "word": "墨雨云间",
+      "onboard_time": 1718195479,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 251799,
@@ -1124,7 +1164,7 @@
     },
     {
       "raw_hot": 231236,
-      "num": 287506,
+      "num": 288812,
       "word": "福宝随地大小躺",
       "onboard_time": 1718178380,
       "rank": 27,
@@ -1153,22 +1193,6 @@
       "onboard_time": 1718153358,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222658,
-      "num": 222658,
-      "word": "女儿刚高考完就支出了3万",
-      "onboard_time": 1718191639,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 222499,
-      "num": 307328,
-      "word": "一架直升机在江西鄱阳县坠落",
-      "onboard_time": 1718193559,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219662,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1718178980,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212668,
+      "num": 188302,
+      "word": "陈晓许凯王星越 于正严选",
+      "onboard_time": 1718195838,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210741,
@@ -1403,20 +1435,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186434,
+      "num": 559386,
+      "word": "白羊座慕的不仅仅是强",
+      "onboard_time": 1718187079,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184411,
       "num": 184411,
       "word": "福宝见面会10分钟纯享版",
       "onboard_time": 1718172439,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183028,
-      "num": 417314,
-      "word": "白羊座慕的不仅仅是强",
-      "onboard_time": 1718187079,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 182942,
@@ -1457,14 +1489,6 @@
       "onboard_time": 1718150899,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 181671,
-      "num": 181671,
-      "word": "墨雨云间",
-      "onboard_time": 1718195479,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 181198,
@@ -1513,6 +1537,14 @@
       "onboard_time": 1718170879,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173767,
+      "num": 173767,
+      "word": "台湾人不能放弃的谐音梗",
+      "onboard_time": 1718195058,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 173593,
@@ -1579,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165579,
+      "num": 165579,
+      "word": "黄亦玫方协文闪婚",
+      "onboard_time": 1718196259,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165137,
       "num": 165137,
       "word": "国足0比1不敌韩国队",
@@ -1619,12 +1659,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 163278,
+      "num": 163278,
+      "word": "墨雨云间出了多少个圈",
+      "onboard_time": 1718195598,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160460,
       "num": 160460,
       "word": "iOS17升级率77%",
       "onboard_time": 1718151917,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 159376,
+      "num": 550453,
+      "word": "无畏没上",
+      "onboard_time": 1718193979,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 159266,
@@ -1724,7 +1780,7 @@
     },
     {
       "raw_hot": 148454,
-      "num": 416595,
+      "num": 496329,
       "word": "剑网3 黄鸡大笑",
       "onboard_time": 1718192897,
       "rank": 5,
@@ -1755,14 +1811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144785,
-      "num": 144785,
-      "word": "无畏没上",
-      "onboard_time": 1718193979,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144630,
       "num": 144630,
       "word": "KPL",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1718187199,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 143594,
+      "num": 510112,
+      "word": "美国CPI",
+      "onboard_time": 1718196558,
+      "rank": 8,
+      "category": "财经,国外时政"
     },
     {
       "raw_hot": 142098,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1718174661,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140806,
+      "num": 140806,
+      "word": "高考完想整牙爸妈不同意",
+      "onboard_time": 1718194698,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 140408,
@@ -1883,12 +1947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133299,
-      "num": 133299,
-      "word": "高考完想整牙爸妈不同意",
-      "onboard_time": 1718194698,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 134694,
+      "num": 218427,
+      "word": "欧盟即将对华电动车加征关税",
+      "onboard_time": 1718195838,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 132399,
@@ -1963,6 +2027,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126657,
+      "num": 121265,
+      "word": "谢娜许昕友情",
+      "onboard_time": 1718196379,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126165,
+      "num": 126165,
+      "word": "偷偷升高你尿酸的不只是嘌呤",
+      "onboard_time": 1718192239,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125660,
       "num": 125660,
       "word": "攻击力极强的粉丝名",
@@ -2009,14 +2089,6 @@
       "onboard_time": 1718187018,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121888,
-      "num": 121888,
-      "word": "台湾人不能放弃的谐音梗",
-      "onboard_time": 1718195058,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 121798,
@@ -2115,14 +2187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119029,
-      "num": 119029,
-      "word": "墨雨云间出了多少个圈",
-      "onboard_time": 1718195598,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118197,
       "num": 118197,
       "word": "邓紫棋福州",
@@ -2147,6 +2211,14 @@
       "category": "情感,数码"
     },
     {
+      "raw_hot": 117841,
+      "num": 117841,
+      "word": "工资还没年份高",
+      "onboard_time": 1718193799,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117383,
       "num": 117383,
       "word": "娜扎傣族造型",
@@ -2161,14 +2233,6 @@
       "onboard_time": 1718195419,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 116895,
-      "num": 116895,
-      "word": "工资还没年份高",
-      "onboard_time": 1718193799,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 116802,
@@ -2275,14 +2339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105714,
-      "num": 105714,
-      "word": "偷偷升高你尿酸的不只是嘌呤",
-      "onboard_time": 1718192239,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 105052,
       "num": 105052,
       "word": "墨雨云间 两场吻戏",
@@ -2329,6 +2385,14 @@
       "onboard_time": 1718117962,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100636,
+      "num": 100636,
+      "word": "王者荣耀",
+      "onboard_time": 1718192658,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 99719,
@@ -2635,6 +2699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44124,
+      "num": 342235,
+      "word": "小伙抱出煤气罐救了整栋楼",
+      "onboard_time": 1718196439,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 42488,
       "num": 39842,
       "word": "风象星座不为人知的秘密",
@@ -2699,6 +2771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 31480,
+      "num": 357368,
+      "word": "福宝回国后在四川松弛感拉满",
+      "onboard_time": 1718190437,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29090,
       "num": 205769,
       "word": "成毅天生敢为",
@@ -2729,14 +2809,6 @@
       "onboard_time": 1718181260,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23620,
-      "num": 357368,
-      "word": "福宝回国后在四川松弛感拉满",
-      "onboard_time": 1718190437,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 22833,
@@ -2817,6 +2889,14 @@
       "onboard_time": 1718136670,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11117,
+      "num": 675797,
+      "word": "中国航天员站在机械臂上和地球同框",
+      "onboard_time": 1718196558,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10725,
