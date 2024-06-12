@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718191098092,
+  "endTime": 1718192090295,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1403,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1225608,
+      "num": 1225608,
+      "word": "马斯克被曝与SpaceX多名员工有染",
+      "onboard_time": 1718188337,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1223229,
       "num": 1223229,
       "word": "汪苏泷排名越来越安全了",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1717888634,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1087721,
-      "num": 1087721,
-      "word": "马斯克被曝与SpaceX多名员工有染",
-      "onboard_time": 1718188337,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1086816,
@@ -5203,6 +5203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 585135,
+      "num": 585135,
+      "word": "这是初恋吗 这是家里进贼了",
+      "onboard_time": 1718188099,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 585126,
       "num": 585126,
       "word": "中国女排3比0保加利亚女排",
@@ -6323,6 +6331,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 511568,
+      "num": 191715,
+      "word": "家门口遭捅死女孩曾被保送北外",
+      "onboard_time": 1718191398,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 509705,
       "num": 238839,
       "word": "男生大四退学艺考五年仍落榜",
@@ -7185,14 +7201,6 @@
       "onboard_time": 1717276451,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461267,
-      "num": 198527,
-      "word": "这是初恋吗 这是家里进贼了",
-      "onboard_time": 1718188099,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 460718,
@@ -9953,6 +9961,14 @@
       "onboard_time": 1717585097,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343073,
+      "num": 187981,
+      "word": "鞠婧祎 眉弓",
+      "onboard_time": 1718191038,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 343069,
@@ -12907,6 +12923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259215,
+      "num": 197544,
+      "word": "刘亦菲能去浪姐吗",
+      "onboard_time": 1718190379,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259104,
       "num": 210366,
       "word": "嗓音或影响女性择偶标准",
@@ -13193,14 +13217,6 @@
       "onboard_time": 1718104518,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 252845,
-      "num": 197544,
-      "word": "刘亦菲能去浪姐吗",
-      "onboard_time": 1718190379,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 252722,
@@ -15265,6 +15281,14 @@
       "onboard_time": 1717676538,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214995,
+      "num": 159196,
+      "word": "物理防晒真的很重要",
+      "onboard_time": 1718190558,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 214749,
@@ -23115,6 +23139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147400,
+      "num": 147400,
+      "word": "白羊座慕的不仅仅是强",
+      "onboard_time": 1718187079,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147362,
       "num": 147362,
       "word": "偏偏你最争气挨打也没关系",
@@ -23161,6 +23193,14 @@
       "onboard_time": 1717303458,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146930,
+      "num": 146930,
+      "word": "刘昊然奥利异父异母亲兄弟",
+      "onboard_time": 1718190978,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 146915,
@@ -24499,6 +24539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137553,
+      "num": 137553,
+      "word": "一次傅慎行 一生傅慎行",
+      "onboard_time": 1718191878,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137509,
       "num": 137509,
       "word": "明天成都人请提前1小时出门",
@@ -25179,6 +25227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132753,
+      "num": 132753,
+      "word": "假如你有86400块钱",
+      "onboard_time": 1718191939,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132732,
       "num": 132732,
       "word": "十个勤天 群像的神",
@@ -25233,14 +25289,6 @@
       "onboard_time": 1718160558,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 132365,
-      "num": 132365,
-      "word": "白羊座慕的不仅仅是强",
-      "onboard_time": 1718187079,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 132354,
@@ -26171,6 +26219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125686,
+      "num": 125686,
+      "word": "女儿刚高考完就支出了3万",
+      "onboard_time": 1718191639,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125680,
       "num": 125680,
       "word": "李健演唱会",
@@ -26987,12 +27043,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 119789,
-      "num": 119789,
-      "word": "物理防晒真的很重要",
-      "onboard_time": 1718190558,
-      "rank": 39,
-      "category": "美妆"
+      "raw_hot": 119797,
+      "num": 119797,
+      "word": "大学就是一个巨大的鸡舍",
+      "onboard_time": 1718190797,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 119705,
@@ -29123,14 +29179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 102692,
-      "num": 102692,
-      "word": "鞠婧祎 眉弓",
-      "onboard_time": 1718191038,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102667,
       "num": 102667,
       "word": "文艺志愿者与人民同行",
@@ -29161,6 +29209,14 @@
       "onboard_time": 1717589538,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102301,
+      "num": 102301,
+      "word": "TCG首秀首胜",
+      "onboard_time": 1718192058,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 102206,
@@ -29673,14 +29729,6 @@
       "onboard_time": 1718182761,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 96118,
-      "num": 96118,
-      "word": "刘昊然奥利异父异母亲兄弟",
-      "onboard_time": 1718190978,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 96002,
@@ -31033,6 +31081,14 @@
       "onboard_time": 1717332440,
       "rank": 13,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 71437,
+      "num": 146971,
+      "word": "当coffee可以ai",
+      "onboard_time": 1718190978,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 71337,
@@ -32515,6 +32571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48856,
+      "num": 196434,
+      "word": "记者调查货拉拉满帮等货车超载现象",
+      "onboard_time": 1718191458,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48425,
       "num": 140619,
       "word": "大英博物馆文物被自家员工偷走",
@@ -32633,6 +32697,14 @@
       "onboard_time": 1717178473,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 47112,
+      "num": 147136,
+      "word": "韩国没有了五花肉自由",
+      "onboard_time": 1718191639,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47010,
@@ -34857,14 +34929,6 @@
       "onboard_time": 1717264694,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9914,
-      "num": 94296,
-      "word": "当coffee可以ai",
-      "onboard_time": 1718190978,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 9560,
