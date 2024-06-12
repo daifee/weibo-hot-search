@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718148909251,
+  "endTime": 1718155263173,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -25,6 +25,14 @@
       "onboard_time": 1718108599,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2415468,
+      "num": 2415468,
+      "word": "福宝营业了",
+      "onboard_time": 1718152097,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2132831,
@@ -129,6 +137,14 @@
       "onboard_time": 1717999397,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1629202,
+      "num": 1629202,
+      "word": "新加坡门将感谢中国球迷",
+      "onboard_time": 1718150780,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1605492,
@@ -811,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734378,
+      "num": 734378,
+      "word": "韩国地震",
+      "onboard_time": 1718151438,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732620,
       "num": 732620,
       "word": "黄亦玫官配",
@@ -921,6 +945,14 @@
       "onboard_time": 1718002939,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 702944,
+      "num": 702944,
+      "word": "谭晶 九儿",
+      "onboard_time": 1718149757,
+      "rank": 4,
+      "category": "音乐"
     },
     {
       "raw_hot": 702659,
@@ -1115,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653224,
+      "num": 431625,
+      "word": "男子不舍朋友离开用锁链将其拴住",
+      "onboard_time": 1718123056,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648299,
       "num": 253768,
       "word": "乌干达一女子生下44个孩子",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1717988058,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 619453,
+      "num": 246353,
+      "word": "胃病发展到胃癌仅仅4步",
+      "onboard_time": 1718147235,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 612853,
@@ -1371,6 +1419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 559385,
+      "num": 559385,
+      "word": "端午档近十年最差",
+      "onboard_time": 1718120599,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 559258,
       "num": 344255,
       "word": "女朋友的世界观震惊到我了",
@@ -1492,7 +1548,7 @@
     },
     {
       "raw_hot": 529250,
-      "num": 275478,
+      "num": 448611,
       "word": "苹果市值一夜大涨超1.5万亿",
       "onboard_time": 1718147475,
       "rank": 13,
@@ -1691,14 +1747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 493034,
-      "num": 493034,
-      "word": "端午档近十年最差",
-      "onboard_time": 1718120599,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 490558,
       "num": 246992,
       "word": "彭冠英否认庄国栋有未婚妻",
@@ -1827,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 468926,
+      "num": 468926,
+      "word": "福宝出门前奶爸四川话碎碎念",
+      "onboard_time": 1718148675,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468733,
       "num": 468733,
       "word": "日本网红神药真的别瞎吃了",
@@ -1841,6 +1897,14 @@
       "onboard_time": 1718018237,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466444,
+      "num": 466444,
+      "word": "家长举华晨宇海报迎接考生",
+      "onboard_time": 1718148316,
+      "rank": 27,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 465784,
@@ -1929,6 +1993,14 @@
       "onboard_time": 1717845437,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449497,
+      "num": 449497,
+      "word": "国足晋级18强意味着什么",
+      "onboard_time": 1718149757,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 445884,
@@ -2027,20 +2099,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 434595,
+      "num": 434595,
+      "word": "何超莲要演戏了",
+      "onboard_time": 1718149517,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 433007,
       "num": 154364,
       "word": "经常有炎症的人易得癌是真的吗",
       "onboard_time": 1717847478,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 431625,
-      "num": 431625,
-      "word": "男子不舍朋友离开用锁链将其拴住",
-      "onboard_time": 1718123056,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431368,
@@ -2329,14 +2401,6 @@
       "onboard_time": 1717940839,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377864,
-      "num": 107446,
-      "word": "胃病发展到胃癌仅仅4步",
-      "onboard_time": 1718147235,
-      "rank": 21,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 376103,
@@ -2731,6 +2795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336169,
+      "num": 336169,
+      "word": "日本一10层公寓因遮挡富士山紧急拆除",
+      "onboard_time": 1718153778,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336059,
       "num": 245240,
       "word": "徐海乔五个男人一个都没争取到",
@@ -2809,6 +2881,14 @@
       "onboard_time": 1717941620,
       "rank": 26,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 326559,
+      "num": 326559,
+      "word": "BTS合体",
+      "onboard_time": 1718153418,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 325221,
@@ -3123,6 +3203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 293677,
+      "num": 293677,
+      "word": "一法国游客在俄发射场附近身亡",
+      "onboard_time": 1718148496,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -3387,6 +3475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 265795,
+      "num": 265795,
+      "word": "金硕珍退伍",
+      "onboard_time": 1718152039,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265785,
       "num": 265785,
       "word": "肖战早就提前预告了",
@@ -3497,6 +3593,14 @@
       "onboard_time": 1717929079,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 255893,
+      "num": 245432,
+      "word": "女生高考结束后直接一睡不起",
+      "onboard_time": 1718154078,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 255404,
@@ -3611,6 +3715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 247414,
+      "num": 247414,
+      "word": "庄国栋去德国留学就好了",
+      "onboard_time": 1718148737,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247003,
       "num": 247003,
       "word": "柠季向张艺兴致歉",
@@ -3649,6 +3761,22 @@
       "onboard_time": 1717996278,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245171,
+      "num": 245171,
+      "word": "范丞丞携爱女给Capper打call",
+      "onboard_time": 1718153718,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 245166,
+      "num": 245166,
+      "word": "中国日本韩国朝鲜全出线了",
+      "onboard_time": 1718151378,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 242492,
@@ -3899,6 +4027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223430,
+      "num": 223430,
+      "word": "闵玧其人呢",
+      "onboard_time": 1718153358,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222797,
       "num": 222797,
       "word": "生孩子到底难在哪",
@@ -4008,6 +4144,14 @@
       "word": "黄亦玫苏苏这门亲事我同意",
       "onboard_time": 1718022617,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214744,
+      "num": 214744,
+      "word": "黄亦玫为什么会突然跳舞",
+      "onboard_time": 1718151558,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -4347,6 +4491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204080,
+      "num": 204080,
+      "word": "凌晨新疆接连发生两场地震",
+      "onboard_time": 1718153300,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203813,
       "num": 203813,
       "word": "高考生冲出考场疯狂催更中国boy",
@@ -4683,6 +4835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193431,
+      "num": 193431,
+      "word": "福宝营业前在干嘛",
+      "onboard_time": 1718154798,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193371,
       "num": 193371,
       "word": "苹果AI",
@@ -4857,6 +5017,14 @@
       "onboard_time": 1718083757,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188616,
+      "num": 188616,
+      "word": "王星越对女星姐姐的称呼",
+      "onboard_time": 1718149577,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 188512,
@@ -5107,6 +5275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181953,
+      "num": 181953,
+      "word": "王大雷怒骂方昊",
+      "onboard_time": 1718150899,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181714,
       "num": 318515,
       "word": "2024高考查分时间汇总",
@@ -5201,6 +5377,14 @@
       "onboard_time": 1717861217,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 179242,
+      "num": 179242,
+      "word": "退钱哥说从未想过以这种方式出线",
+      "onboard_time": 1718150538,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178869,
@@ -5411,6 +5595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170854,
+      "num": 170854,
+      "word": "iOS18可检测是否正使用慢速充电器",
+      "onboard_time": 1718149757,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 170840,
       "num": 170840,
       "word": "女子称邻居点蚊香致全家集体中毒",
@@ -5465,6 +5657,14 @@
       "onboard_time": 1718102900,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168681,
+      "num": 168681,
+      "word": "福宝新家画面曝光",
+      "onboard_time": 1718154378,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168572,
@@ -5633,6 +5833,14 @@
       "onboard_time": 1718070438,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164344,
+      "num": 164344,
+      "word": "水断食减肥在韩青少年盛行",
+      "onboard_time": 1718154499,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163981,
@@ -6035,6 +6243,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153530,
+      "num": 153530,
+      "word": "iOS17升级率77%",
+      "onboard_time": 1718151917,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153417,
       "num": 153417,
       "word": "绝区零预约破4000万",
@@ -6257,6 +6473,14 @@
       "onboard_time": 1717915038,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147130,
+      "num": 147130,
+      "word": "睡前饿了真正推荐吃的食物",
+      "onboard_time": 1718128453,
+      "rank": 26,
+      "category": "科学科普"
     },
     {
       "raw_hot": 146914,
@@ -7147,6 +7371,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 125660,
+      "num": 125660,
+      "word": "攻击力极强的粉丝名",
+      "onboard_time": 1718148136,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125250,
       "num": 125250,
       "word": "你是耙耙柑型人格吗",
@@ -7891,14 +8123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 101466,
-      "num": 101466,
-      "word": "一法国游客在俄发射场附近身亡",
-      "onboard_time": 1718148496,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 101413,
       "num": 101413,
       "word": "NCT127八周年粉丝见面会",
@@ -7929,14 +8153,6 @@
       "onboard_time": 1717994958,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 99960,
-      "num": 99960,
-      "word": "家长举华晨宇海报迎接考生",
-      "onboard_time": 1718148316,
-      "rank": 27,
-      "category": "教育,艺人"
     },
     {
       "raw_hot": 99877,
@@ -8171,14 +8387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 89595,
-      "num": 89595,
-      "word": "睡前饿了真正推荐吃的食物",
-      "onboard_time": 1718128453,
-      "rank": 26,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 89152,
       "num": 89152,
       "word": "在健身房你就记住四个字",
@@ -8275,14 +8483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84286,
-      "num": 84286,
-      "word": "攻击力极强的粉丝名",
-      "onboard_time": 1718148136,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84206,
       "num": 160920,
       "word": "恋与深空",
@@ -8337,14 +8537,6 @@
       "onboard_time": 1717854438,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80868,
-      "num": 80868,
-      "word": "庄国栋去德国留学就好了",
-      "onboard_time": 1718148737,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 80733,
@@ -8531,14 +8723,6 @@
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 64726,
-      "num": 64726,
-      "word": "福宝出门前奶爸四川话碎碎念",
-      "onboard_time": 1718148675,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 63727,
       "num": 66762,
       "word": "黄亦玫一条丝巾硬控苏更生两次",
@@ -8603,6 +8787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60545,
+      "num": 246933,
+      "word": "欢迎福宝闪亮登场",
+      "onboard_time": 1718155097,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59584,
       "num": 59584,
       "word": "不喜欢小孩的人生孩子后的心态变化",
@@ -8616,6 +8808,14 @@
       "word": "能忍住不拆快递的都是狠人",
       "onboard_time": 1717920197,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59492,
+      "num": 246200,
+      "word": "一人一句祝香香生日快乐",
+      "onboard_time": 1718153239,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -9067,6 +9267,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 38898,
+      "num": 1443878,
+      "word": "航拍视角看三夏时节麦收忙",
+      "onboard_time": 1718112739,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37767,
       "num": 717411,
       "word": "一组数据看中国非遗有多火",
@@ -9265,14 +9473,6 @@
       "onboard_time": 1717948759,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 26352,
-      "num": 1443878,
-      "word": "航拍视角看三夏时节麦收忙",
-      "onboard_time": 1718112739,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25981,
