@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718217505861,
+  "endTime": 1718219793315,
   "band_list": [
     {
       "raw_hot": 579038,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40886,
+      "num": 26577,
+      "word": "脚露在外面睡觉有什么好处",
+      "onboard_time": 1718217312,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 40290,
       "num": 78097,
       "word": "玫瑰的故事",
@@ -435,6 +443,14 @@
       "category": "旅游,科学科普"
     },
     {
+      "raw_hot": 33676,
+      "num": 33676,
+      "word": "赵露思金牌女主播许妍上线",
+      "onboard_time": 1718216052,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31662,
       "num": 31662,
       "word": "徐彰彬疑似推搡李龙馥",
@@ -451,12 +467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28457,
-      "num": 28457,
-      "word": "赵露思金牌女主播许妍上线",
-      "onboard_time": 1718216052,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 26016,
+      "num": 26016,
+      "word": "怦然心动20岁 be",
+      "onboard_time": 1718218271,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 22246,
@@ -475,12 +491,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16407,
-      "num": 25436,
-      "word": "脚露在外面睡觉有什么好处",
-      "onboard_time": 1718217312,
-      "rank": 47,
-      "category": "科学科普"
+      "raw_hot": 13532,
+      "num": 21203,
+      "word": "抬头看的是天还是空",
+      "onboard_time": 1718219170,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13434,
+      "num": 21201,
+      "word": "福宝爱吃的都在蛋糕里",
+      "onboard_time": 1718214552,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3200,

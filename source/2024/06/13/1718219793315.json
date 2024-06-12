@@ -1,0 +1,410 @@
+{
+  "runTime": 1718219793315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 121505,
+        "num": 121505,
+        "word": "南京咖啡阿姨说天下没有不散的筵席",
+        "onboard_time": 1718209458,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71885,
+        "num": 71885,
+        "word": "黄景瑜中国人民警察大学招生简章",
+        "onboard_time": 1718207958,
+        "rank": 1,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 1779,
+        "num": 70043,
+        "word": "高考报志愿要了解的16个关键词",
+        "onboard_time": 1718150116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69165,
+        "num": 69165,
+        "word": "刘亦菲一部剧带火了5个人",
+        "onboard_time": 1718200340,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63617,
+        "num": 63617,
+        "word": "专家说杨梅是减肥人士的福音",
+        "onboard_time": 1718209876,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48145,
+        "num": 48145,
+        "word": "杰里韦斯特去世",
+        "onboard_time": 1718200698,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43825,
+        "num": 43825,
+        "word": "女儿长成这样可以当童模吗",
+        "onboard_time": 1718198959,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 39397,
+        "num": 39397,
+        "word": "怀疑张若昀工作室有我们自己人",
+        "onboard_time": 1718205200,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35142,
+        "num": 35142,
+        "word": "韩国没有了五花肉自由",
+        "onboard_time": 1718191639,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9561,
+        "num": 33853,
+        "word": "验瓜师每天拍上万个西瓜收入千元",
+        "onboard_time": 1718211315,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43814,
+        "num": 33835,
+        "word": "女子出借20万元讨不回丈夫自杀",
+        "onboard_time": 1718205260,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39755,
+        "num": 33811,
+        "word": "鞠婧祎 眉弓",
+        "onboard_time": 1718191038,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33676,
+        "num": 33676,
+        "word": "赵露思金牌女主播许妍上线",
+        "onboard_time": 1718216052,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32970,
+        "num": 32970,
+        "word": "彭冠英发文吐槽庄国栋",
+        "onboard_time": 1718205560,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32875,
+        "num": 32875,
+        "word": "马斯克被曝与SpaceX多名员工有染",
+        "onboard_time": 1718188337,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29101,
+        "num": 29101,
+        "word": "Angelababy线下生图状态",
+        "onboard_time": 1718194759,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27771,
+        "num": 27771,
+        "word": "北京偶遇刘亦菲逛街",
+        "onboard_time": 1718198480,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26994,
+        "num": 26994,
+        "word": "桑尼食品摊被中国人买空",
+        "onboard_time": 1718203700,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24208,
+        "num": 26862,
+        "word": "欧洲杯赛程",
+        "onboard_time": 1718202081,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23647,
+        "num": 26744,
+        "word": "吉林银行回应储户取款需派出所同意",
+        "onboard_time": 1718208017,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40886,
+        "num": 26577,
+        "word": "脚露在外面睡觉有什么好处",
+        "onboard_time": 1718217312,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 34090,
+        "num": 26327,
+        "word": "家门口遭捅死女孩曾被保送北外",
+        "onboard_time": 1718191398,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27275,
+        "num": 26221,
+        "word": "新疆为什么像四个省份",
+        "onboard_time": 1718214733,
+        "rank": 22,
+        "category": "旅游,科学科普"
+      },
+      {
+        "raw_hot": 26114,
+        "num": 26114,
+        "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+        "onboard_time": 1718197159,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26016,
+        "num": 26016,
+        "word": "怦然心动20岁 be",
+        "onboard_time": 1718218271,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25125,
+        "num": 25125,
+        "word": "上戏回应林更新考博成功",
+        "onboard_time": 1718179880,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23959,
+        "num": 23959,
+        "word": "刘亦菲霍建华香港文艺片氛围感",
+        "onboard_time": 1718196439,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23530,
+        "num": 23530,
+        "word": "网红胡涵溪93岁姥姥去世",
+        "onboard_time": 1718209037,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23209,
+        "num": 23209,
+        "word": "某明星 坐电梯耍大牌",
+        "onboard_time": 1718176761,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22479,
+        "num": 22479,
+        "word": "你喜欢的人突然有对象是什么感觉",
+        "onboard_time": 1718205619,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22182,
+        "num": 22182,
+        "word": "女子炫了一斤杨梅被送进ICU",
+        "onboard_time": 1718183301,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21803,
+        "num": 21803,
+        "word": "毛不易现场",
+        "onboard_time": 1718207119,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21269,
+        "num": 21269,
+        "word": "女儿刚高考完就支出了3万",
+        "onboard_time": 1718191639,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20527,
+        "num": 21269,
+        "word": "徐彰彬疑似推搡李龙馥",
+        "onboard_time": 1718213834,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19581,
+        "num": 21262,
+        "word": "乐华否认程潇吴宣仪耍大牌",
+        "onboard_time": 1718192119,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19153,
+        "num": 21261,
+        "word": "黄亦玫1分钟6个才艺",
+        "onboard_time": 1718214073,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18663,
+        "num": 21252,
+        "word": "印度贫民窟上百人共用一个厕所",
+        "onboard_time": 1718197400,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18480,
+        "num": 21250,
+        "word": "YG糟糕的公关",
+        "onboard_time": 1718204840,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17384,
+        "num": 21246,
+        "word": "北京WB被让二追三",
+        "onboard_time": 1718204540,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18294,
+        "num": 21244,
+        "word": "吴宣仪机场视频",
+        "onboard_time": 1718193018,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18147,
+        "num": 21235,
+        "word": "墨雨云间跪下文学",
+        "onboard_time": 1718211794,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17361,
+        "num": 21234,
+        "word": "林更新上线霍建华也不远了",
+        "onboard_time": 1718202139,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17160,
+        "num": 21231,
+        "word": "四川瓦屋山景区落石有游客被砸伤",
+        "onboard_time": 1718208378,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16299,
+        "num": 21227,
+        "word": "陈晓许凯王星越 于正严选",
+        "onboard_time": 1718195838,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15991,
+        "num": 21222,
+        "word": "墨雨云间 已老实求加更",
+        "onboard_time": 1718184380,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15840,
+        "num": 21218,
+        "word": "玫瑰的故事",
+        "onboard_time": 1718197278,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15033,
+        "num": 21210,
+        "word": "墨雨云间",
+        "onboard_time": 1718195479,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14894,
+        "num": 21206,
+        "word": "拍到地球自转是什么体验",
+        "onboard_time": 1718198900,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 13532,
+        "num": 21203,
+        "word": "抬头看的是天还是空",
+        "onboard_time": 1718219170,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13434,
+        "num": 21201,
+        "word": "福宝爱吃的都在蛋糕里",
+        "onboard_time": 1718214552,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给清华教授回信#"
+    }
+  }
+}
