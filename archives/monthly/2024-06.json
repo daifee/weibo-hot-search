@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718159742993,
+  "endTime": 1718160321751,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -803,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1502394,
+      "num": 257979,
+      "word": "耳朵总痒可能暗示这5种问题",
+      "onboard_time": 1718155997,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1499480,
       "num": 1459124,
       "word": "张钰琪声音有点闷",
@@ -945,14 +953,6 @@
       "onboard_time": 1718091918,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1422538,
-      "num": 257979,
-      "word": "耳朵总痒可能暗示这5种问题",
-      "onboard_time": 1718155997,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1416945,
@@ -2187,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 952100,
+      "num": 244839,
+      "word": "27岁要不要放弃体制内工作",
+      "onboard_time": 1718157318,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 950419,
       "num": 852897,
       "word": "刘昊然 朕和嬛嬛何曾有过嫌隙",
@@ -3059,6 +3067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 768238,
+      "num": 768238,
+      "word": "美军司令扬言让台海变地狱",
+      "onboard_time": 1718156716,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 767733,
       "num": 767733,
       "word": "早睡真能解决生活中大部分的问题",
@@ -3443,14 +3459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 729336,
-      "num": 244839,
-      "word": "27岁要不要放弃体制内工作",
-      "onboard_time": 1718157318,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 729085,
       "num": 729085,
       "word": "王星越壁纸",
@@ -3681,14 +3689,6 @@
       "onboard_time": 1718002939,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 704231,
-      "num": 704231,
-      "word": "美军司令扬言让台海变地狱",
-      "onboard_time": 1718156716,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 702944,
@@ -7491,6 +7491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436310,
+      "num": 224965,
+      "word": "iPhone16将砍掉实体键改为电容式",
+      "onboard_time": 1718159777,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 435240,
       "num": 435240,
       "word": "TF家族一代二代同台",
@@ -7657,6 +7665,14 @@
       "onboard_time": 1717929377,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425991,
+      "num": 425991,
+      "word": "内娱第一个凌晨直播的综艺",
+      "onboard_time": 1718159838,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 425529,
@@ -8233,6 +8249,14 @@
       "onboard_time": 1717310897,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 397512,
+      "num": 397512,
+      "word": "黄亦玫庄国栋分手",
+      "onboard_time": 1718156838,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 396647,
@@ -10113,14 +10137,6 @@
       "onboard_time": 1717425499,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 325410,
-      "num": 325410,
-      "word": "黄亦玫庄国栋分手",
-      "onboard_time": 1718156838,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 325221,
@@ -12235,6 +12251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264449,
+      "num": 264449,
+      "word": "福宝探头探脑与大家见面",
+      "onboard_time": 1718158816,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263795,
       "num": 263795,
       "word": "田曦薇新剧演女警",
@@ -12651,6 +12675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252932,
+      "num": 252932,
+      "word": "福宝连续来了好几个前滚翻",
+      "onboard_time": 1718158697,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252899,
       "num": 252899,
       "word": "为什么不上韦世豪",
@@ -12993,14 +13025,6 @@
       "onboard_time": 1717374979,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245518,
-      "num": 245518,
-      "word": "福宝探头探脑与大家见面",
-      "onboard_time": 1718158816,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 245340,
@@ -14419,14 +14443,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 217741,
-      "num": 217741,
-      "word": "福宝连续来了好几个前滚翻",
-      "onboard_time": 1718158697,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217580,
       "num": 217580,
       "word": "新加坡赛石宇奇男单冠军",
@@ -14705,6 +14721,14 @@
       "onboard_time": 1717739959,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214078,
+      "num": 218688,
+      "word": "福宝左看看右看看",
+      "onboard_time": 1718159717,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213830,
@@ -16601,6 +16625,14 @@
       "onboard_time": 1717304118,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196462,
+      "num": 196462,
+      "word": "周杰伦南京抢票",
+      "onboard_time": 1718159717,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 196382,
@@ -20123,6 +20155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163794,
+      "num": 349908,
+      "word": "福宝特写",
+      "onboard_time": 1718158098,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163760,
       "num": 163760,
       "word": "黄亦玫的衣柜",
@@ -22555,6 +22595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 144982,
+      "num": 144982,
+      "word": "成都警方通报女子在家门口遇害",
+      "onboard_time": 1718160017,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144918,
       "num": 144918,
       "word": "薛之谦很豹歉",
@@ -23377,14 +23425,6 @@
       "onboard_time": 1717385538,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 138648,
-      "num": 349908,
-      "word": "福宝特写",
-      "onboard_time": 1718158098,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 138537,
@@ -25763,6 +25803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120665,
+      "num": 120665,
+      "word": "俱乐部否认将身体不适母子丢海里",
+      "onboard_time": 1718159539,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120614,
       "num": 120614,
       "word": "小老虎和经理和解了",
@@ -25793,14 +25841,6 @@
       "onboard_time": 1717576638,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120490,
-      "num": 118189,
-      "word": "周杰伦南京抢票",
-      "onboard_time": 1718159717,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 120480,
@@ -27051,6 +27091,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 111153,
+      "num": 111153,
+      "word": "王星越吐槽墨雨云间排播",
+      "onboard_time": 1718160257,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111095,
       "num": 111095,
       "word": "国乒包揽重庆赛男女单冠亚军",
@@ -27281,14 +27329,6 @@
       "onboard_time": 1717828277,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108590,
-      "num": 108590,
-      "word": "俱乐部否认将身体不适母子丢海里",
-      "onboard_time": 1718159539,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108573,
@@ -27881,14 +27921,6 @@
       "onboard_time": 1718012838,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102780,
-      "num": 102780,
-      "word": "福宝左看看右看看",
-      "onboard_time": 1718159717,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102734,
@@ -31763,6 +31795,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 38530,
+      "num": 897290,
+      "word": "阔步向前的中国航天在帮更多人圆梦",
+      "onboard_time": 1718159717,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38363,
       "num": 153597,
       "word": "真的有很多人在为你拼命",
@@ -32987,6 +33027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 15898,
+      "num": 163180,
+      "word": "法网的风吹向巴黎奥运",
+      "onboard_time": 1718157618,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 15841,
       "num": 180656,
       "word": "德国洪水",
@@ -33049,14 +33097,6 @@
       "onboard_time": 1717439231,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15041,
-      "num": 163180,
-      "word": "法网的风吹向巴黎奥运",
-      "onboard_time": 1718157618,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 14852,
@@ -33457,14 +33497,6 @@
       "onboard_time": 1717956191,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8462,
-      "num": 897290,
-      "word": "阔步向前的中国航天在帮更多人圆梦",
-      "onboard_time": 1718159717,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8144,
