@@ -1,0 +1,410 @@
+{
+  "runTime": 1718181447906,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 884713,
+        "num": 884713,
+        "word": "林更新考博成功",
+        "onboard_time": 1718161637,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 645671,
+        "num": 645671,
+        "word": "杭州保姆保住东家900多万养老钱",
+        "onboard_time": 1718169919,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48011,
+        "num": 555147,
+        "word": "太空视角看中国供水大动脉10年之变",
+        "onboard_time": 1718176039,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979546,
+        "num": 515314,
+        "word": "某明星 坐电梯耍大牌",
+        "onboard_time": 1718176761,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468041,
+        "num": 468041,
+        "word": "榴莲降价没有最低只有更低",
+        "onboard_time": 1718178141,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 385530,
+        "num": 385530,
+        "word": "女孩瞒着父母复读6年",
+        "onboard_time": 1718173578,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615570,
+        "num": 383813,
+        "word": "上戏回应林更新考博成功",
+        "onboard_time": 1718179880,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340578,
+        "num": 340578,
+        "word": "亚比臭臭臭",
+        "onboard_time": 1718177899,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295997,
+        "num": 295997,
+        "word": "韩国小哥不信中国拿西瓜喂猪",
+        "onboard_time": 1718161698,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46564,
+        "num": 293205,
+        "word": "金榜题名的金榜长啥样",
+        "onboard_time": 1718180240,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463579,
+        "num": 283925,
+        "word": "韩国总统夫人拎上了帆布包",
+        "onboard_time": 1718176101,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 484011,
+        "num": 275451,
+        "word": "小猫被人划破生殖器打断四肢丢楼道",
+        "onboard_time": 1718176218,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367886,
+        "num": 267804,
+        "word": "江疏影baby肚",
+        "onboard_time": 1718174780,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333648,
+        "num": 266714,
+        "word": "林更新总成绩排名专业第2",
+        "onboard_time": 1718176639,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259951,
+        "num": 259951,
+        "word": "禁止神仙参加综艺",
+        "onboard_time": 1718180300,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248749,
+        "num": 248749,
+        "word": "你好星期六浪姐限时摇人",
+        "onboard_time": 1718177480,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231236,
+        "num": 231236,
+        "word": "福宝随地大小躺",
+        "onboard_time": 1718178380,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209227,
+        "num": 209227,
+        "word": "女子露营上厕所5分钟回来被偷家",
+        "onboard_time": 1718180840,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206738,
+        "num": 206738,
+        "word": "逆水寒玄机CG",
+        "onboard_time": 1718180059,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41067,
+        "num": 202705,
+        "word": "iCAR03智驾拿下雾都",
+        "onboard_time": 1718179760,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 209242,
+        "num": 202065,
+        "word": "玫瑰的故事原型 章小蕙",
+        "onboard_time": 1718163979,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200434,
+        "num": 200434,
+        "word": "狼队被零封",
+        "onboard_time": 1718181020,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199120,
+        "num": 199120,
+        "word": "年轻人为何喜欢上老年机",
+        "onboard_time": 1718172018,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194314,
+        "num": 194314,
+        "word": "iPhone16将砍掉实体键改为电容式",
+        "onboard_time": 1718159777,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176889,
+        "num": 176889,
+        "word": "中国球迷把孙兴慜整破防了",
+        "onboard_time": 1718174359,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173415,
+        "num": 173415,
+        "word": "20岁用脚考上985大学的男生怎样了",
+        "onboard_time": 1718178980,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171840,
+        "num": 171840,
+        "word": "谢霆锋 一个厨子这么能打了吗",
+        "onboard_time": 1718180059,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170292,
+        "num": 170292,
+        "word": "当平庸的父母在孩子身上有了权力",
+        "onboard_time": 1718179940,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167340,
+        "num": 167340,
+        "word": "胡歌抵达台湾",
+        "onboard_time": 1718167641,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16599,
+        "num": 159675,
+        "word": "美国62岁男子杀29岁妻子藏尸冰柜",
+        "onboard_time": 1718181140,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156790,
+        "num": 156790,
+        "word": "歌手2024",
+        "onboard_time": 1718168480,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154807,
+        "num": 154807,
+        "word": "邓超臭宝螺蛳粉广告",
+        "onboard_time": 1718179220,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151430,
+        "num": 151430,
+        "word": "风箫鲁班输出压制",
+        "onboard_time": 1718181140,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151179,
+        "num": 151179,
+        "word": "乌克兰全境实施停电",
+        "onboard_time": 1718173819,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145740,
+        "num": 145740,
+        "word": "赵露思波点裙",
+        "onboard_time": 1718181199,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139422,
+        "num": 139422,
+        "word": "LCK夏季赛",
+        "onboard_time": 1718181140,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138018,
+        "num": 138018,
+        "word": "这种踩屎感鞋正在一步步毁掉你的脚",
+        "onboard_time": 1718181020,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129305,
+        "num": 129305,
+        "word": "日本食人菌感染人数创新高",
+        "onboard_time": 1718178679,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113774,
+        "num": 113774,
+        "word": "商场里小丑狂奔救下卷入扶梯女孩",
+        "onboard_time": 1718174359,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113165,
+        "num": 113165,
+        "word": "福宝营业了",
+        "onboard_time": 1718152097,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112899,
+        "num": 112899,
+        "word": "赵今麦毕业大合照",
+        "onboard_time": 1718169499,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111310,
+        "num": 111310,
+        "word": "Jennie 晚奶",
+        "onboard_time": 1718163319,
+        "rank": 41,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 109300,
+        "num": 109300,
+        "word": "狼队对战TTG",
+        "onboard_time": 1718176761,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19306,
+        "num": 108726,
+        "word": "邓超是懂如何宠粉的",
+        "onboard_time": 1718181260,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108211,
+        "num": 108211,
+        "word": "年轻人为何爱上零糖社交",
+        "onboard_time": 1718178440,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105052,
+        "num": 105052,
+        "word": "墨雨云间 两场吻戏",
+        "onboard_time": 1718177959,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104756,
+        "num": 104756,
+        "word": "猫咪超市粮食区把玉米糁当猫砂",
+        "onboard_time": 1718180120,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104572,
+        "num": 104572,
+        "word": "小鬼确认担任TF三代导师",
+        "onboard_time": 1718161398,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95996,
+        "num": 95996,
+        "word": "福宝直播",
+        "onboard_time": 1718157138,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89436,
+        "num": 89436,
+        "word": "拳头回应Faker阿狸皮肤定价",
+        "onboard_time": 1718173699,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第五次会议#"
+    }
+  }
+}
