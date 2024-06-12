@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718177686973,
+  "endTime": 1718180658145,
   "band_list": [
     {
       "raw_hot": 2786155,
@@ -105,6 +105,14 @@
       "onboard_time": 1718163319,
       "rank": 34,
       "category": "艺人,网红"
+    },
+    {
+      "raw_hot": 1005101,
+      "num": 576837,
+      "word": "某明星 坐电梯耍大牌",
+      "onboard_time": 1718176761,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 952100,
@@ -217,14 +225,6 @@
       "onboard_time": 1718117241,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 576837,
-      "num": 576837,
-      "word": "某明星 坐电梯耍大牌",
-      "onboard_time": 1718176761,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 562206,
@@ -363,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 470354,
+      "num": 281041,
+      "word": "小猫被人划破生殖器打断四肢丢楼道",
+      "onboard_time": 1718176218,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468926,
       "num": 468926,
       "word": "福宝出门前奶爸四川话碎碎念",
@@ -401,14 +409,6 @@
       "onboard_time": 1718149757,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 444415,
-      "num": 264716,
-      "word": "小猫被人划破生殖器打断四肢丢楼道",
-      "onboard_time": 1718176218,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434595,
@@ -459,6 +459,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 390978,
+      "num": 267044,
+      "word": "韩国总统夫人拎上了帆布包",
+      "onboard_time": 1718176101,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 386472,
       "num": 292103,
       "word": "男子潜水发现海底有11个密封坛",
@@ -483,12 +491,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 379023,
-      "num": 232148,
-      "word": "韩国总统夫人拎上了帆布包",
-      "onboard_time": 1718176101,
-      "rank": 16,
-      "category": "国外时政"
+      "raw_hot": 380497,
+      "num": 380497,
+      "word": "榴莲降价没有最低只有更低",
+      "onboard_time": 1718178141,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 377726,
@@ -497,6 +505,14 @@
       "onboard_time": 1718114840,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 361357,
+      "num": 361357,
+      "word": "林更新总成绩排名专业第2",
+      "onboard_time": 1718176639,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 349054,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329968,
+      "num": 253480,
+      "word": "上戏回应林更新考博成功",
+      "onboard_time": 1718179880,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326559,
       "num": 326559,
       "word": "BTS合体",
@@ -603,20 +627,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300967,
+      "num": 300967,
+      "word": "亚比臭臭臭",
+      "onboard_time": 1718177899,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297157,
       "num": 297157,
       "word": "马伯庸 剑网3",
       "onboard_time": 1718165720,
       "rank": 30,
       "category": "读书作家,游戏"
-    },
-    {
-      "raw_hot": 295599,
-      "num": 222384,
-      "word": "林更新总成绩排名专业第2",
-      "onboard_time": 1718176639,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 294919,
@@ -649,6 +673,14 @@
       "onboard_time": 1718111000,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 280803,
+      "num": 280803,
+      "word": "逆水寒玄机CG",
+      "onboard_time": 1718180059,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 276563,
@@ -843,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231181,
+      "num": 231181,
+      "word": "你好星期六浪姐限时摇人",
+      "onboard_time": 1718177480,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230412,
       "num": 230412,
       "word": "黄亦玫为什么会突然跳舞",
@@ -899,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213416,
+      "num": 168841,
+      "word": "20岁用脚考上985大学的男生怎样了",
+      "onboard_time": 1718178980,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210741,
       "num": 188197,
       "word": "王一博白色无袖",
@@ -937,14 +985,6 @@
       "onboard_time": 1718176101,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203399,
-      "num": 203399,
-      "word": "你好星期六浪姐限时摇人",
-      "onboard_time": 1718177480,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 202491,
@@ -1009,6 +1049,14 @@
       "onboard_time": 1718164340,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192856,
+      "num": 163829,
+      "word": "谢霆锋 一个厨子这么能打了吗",
+      "onboard_time": 1718180059,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 190912,
@@ -1227,6 +1275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 159414,
+      "num": 159414,
+      "word": "当平庸的父母在孩子身上有了权力",
+      "onboard_time": 1718179940,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157835,
       "num": 157835,
       "word": "王一博ELLE动态预告",
@@ -1251,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153359,
+      "num": 153359,
+      "word": "邓超臭宝螺蛳粉广告",
+      "onboard_time": 1718179220,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153097,
       "num": 153097,
       "word": "湖南一33岁男子疑在田边触电身亡",
@@ -1259,12 +1323,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152078,
+      "num": 126259,
+      "word": "禁止神仙参加综艺",
+      "onboard_time": 1718180300,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151735,
       "num": 151735,
       "word": "赵丽颖黑粉公开致歉",
       "onboard_time": 1718170759,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151283,
+      "num": 151283,
+      "word": "福宝随地大小躺",
+      "onboard_time": 1718178380,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148647,
@@ -1427,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121649,
+      "num": 121649,
+      "word": "猫咪超市粮食区把玉米糁当猫砂",
+      "onboard_time": 1718180120,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121407,
       "num": 121407,
       "word": "女朋友视频从来不开摄像头",
@@ -1547,6 +1635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112733,
+      "num": 112733,
+      "word": "年轻人为何爱上零糖社交",
+      "onboard_time": 1718178440,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111694,
       "num": 111694,
       "word": "伞兵挂牌",
@@ -1619,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100082,
+      "num": 100082,
+      "word": "墨雨云间 两场吻戏",
+      "onboard_time": 1718177959,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97299,
       "num": 521260,
       "word": "经济学者建议大幅调高农民养老金",
@@ -1649,6 +1753,14 @@
       "onboard_time": 1718118380,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 86713,
+      "num": 86713,
+      "word": "徐明浩又喊话自己印小卡",
+      "onboard_time": 1718178081,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 84048,
@@ -1771,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58918,
+      "num": 281179,
+      "word": "金榜题名的金榜长啥样",
+      "onboard_time": 1718180240,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55455,
       "num": 537407,
       "word": "大数据看端午假期出行",
@@ -1811,6 +1931,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 47780,
+      "num": 121256,
+      "word": "iCAR03智驾拿下雾都",
+      "onboard_time": 1718179760,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46141,
       "num": 46141,
       "word": "林更新感受满屏美甲暴击",
@@ -1825,6 +1953,14 @@
       "onboard_time": 1718126833,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40770,
+      "num": 520071,
+      "word": "太空视角看中国供水大动脉10年之变",
+      "onboard_time": 1718176039,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39406,
@@ -1865,14 +2001,6 @@
       "onboard_time": 1718176399,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 29293,
-      "num": 127146,
-      "word": "太空视角看中国供水大动脉10年之变",
-      "onboard_time": 1718176039,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29090,

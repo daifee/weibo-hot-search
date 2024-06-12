@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718177686973,
+  "endTime": 1718180658145,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -529,6 +529,14 @@
       "onboard_time": 1718021839,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1005101,
+      "num": 576837,
+      "word": "某明星 坐电梯耍大牌",
+      "onboard_time": 1718176761,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1001865,
@@ -1531,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 576837,
-      "num": 576837,
-      "word": "某明星 坐电梯耍大牌",
-      "onboard_time": 1718176761,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 574242,
       "num": 574242,
       "word": "刚考完就有大学生那味了",
@@ -2091,6 +2091,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 470354,
+      "num": 281041,
+      "word": "小猫被人划破生殖器打断四肢丢楼道",
+      "onboard_time": 1718176218,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470091,
       "num": 470091,
       "word": "原来高考还没结束",
@@ -2273,14 +2281,6 @@
       "onboard_time": 1717888273,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 444415,
-      "num": 264716,
-      "word": "小猫被人划破生殖器打断四肢丢楼道",
-      "onboard_time": 1718176218,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443589,
@@ -2619,6 +2619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390978,
+      "num": 267044,
+      "word": "韩国总统夫人拎上了帆布包",
+      "onboard_time": 1718176101,
+      "rank": 16,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 390495,
       "num": 219587,
       "word": "边杰没死",
@@ -2691,20 +2699,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380497,
+      "num": 380497,
+      "word": "榴莲降价没有最低只有更低",
+      "onboard_time": 1718178141,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 379803,
       "num": 349706,
       "word": "杜海涛去披荆斩棘前的最后一顿烧烤",
       "onboard_time": 1717940839,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 379023,
-      "num": 232148,
-      "word": "韩国总统夫人拎上了帆布包",
-      "onboard_time": 1718176101,
-      "rank": 16,
-      "category": "国外时政"
     },
     {
       "raw_hot": 376103,
@@ -2817,6 +2825,14 @@
       "onboard_time": 1717928597,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 361357,
+      "num": 361357,
+      "word": "林更新总成绩排名专业第2",
+      "onboard_time": 1718176639,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 361124,
@@ -3219,6 +3235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329968,
+      "num": 253480,
+      "word": "上戏回应林更新考博成功",
+      "onboard_time": 1718179880,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326913,
       "num": 326913,
       "word": "高考生催更墨雨云间",
@@ -3515,6 +3539,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 300967,
+      "num": 300967,
+      "word": "亚比臭臭臭",
+      "onboard_time": 1718177899,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 299608,
       "num": 299608,
       "word": "董宇辉称每天睡醒后觉得不如不睡",
@@ -3561,14 +3593,6 @@
       "onboard_time": 1718022438,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 295599,
-      "num": 222384,
-      "word": "林更新总成绩排名专业第2",
-      "onboard_time": 1718176639,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 294919,
@@ -3697,6 +3721,14 @@
       "onboard_time": 1717926018,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280803,
+      "num": 280803,
+      "word": "逆水寒玄机CG",
+      "onboard_time": 1718180059,
+      "rank": 11,
+      "category": "游戏"
     },
     {
       "raw_hot": 280459,
@@ -4459,6 +4491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231181,
+      "num": 231181,
+      "word": "你好星期六浪姐限时摇人",
+      "onboard_time": 1718177480,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230471,
       "num": 230471,
       "word": "那英让网友千万不要担心",
@@ -4696,6 +4736,14 @@
       "word": "福宝左看看右看看",
       "onboard_time": 1718159717,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213416,
+      "num": 168841,
+      "word": "20岁用脚考上985大学的男生怎样了",
+      "onboard_time": 1718178980,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -5081,14 +5129,6 @@
       "onboard_time": 1718176101,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203399,
-      "num": 203399,
-      "word": "你好星期六浪姐限时摇人",
-      "onboard_time": 1718177480,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 202700,
@@ -5497,6 +5537,14 @@
       "onboard_time": 1718028739,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 192856,
+      "num": 163829,
+      "word": "谢霆锋 一个厨子这么能打了吗",
+      "onboard_time": 1718180059,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 192337,
@@ -6755,6 +6803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159414,
+      "num": 159414,
+      "word": "当平庸的父母在孩子身上有了权力",
+      "onboard_time": 1718179940,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159154,
       "num": 159154,
       "word": "晋江 界面",
@@ -7019,6 +7075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 153359,
+      "num": 153359,
+      "word": "邓超臭宝螺蛳粉广告",
+      "onboard_time": 1718179220,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153310,
       "num": 151541,
       "word": "易烊千玺演过少年屈原",
@@ -7049,6 +7113,14 @@
       "onboard_time": 1718012959,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152078,
+      "num": 126259,
+      "word": "禁止神仙参加综艺",
+      "onboard_time": 1718180300,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 152046,
@@ -7105,6 +7177,14 @@
       "onboard_time": 1718008457,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151283,
+      "num": 151283,
+      "word": "福宝随地大小躺",
+      "onboard_time": 1718178380,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150739,
@@ -8411,6 +8491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121649,
+      "num": 121649,
+      "word": "猫咪超市粮食区把玉米糁当猫砂",
+      "onboard_time": 1718180120,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121622,
       "num": 121622,
       "word": "云合",
@@ -8827,6 +8915,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112733,
+      "num": 112733,
+      "word": "年轻人为何爱上零糖社交",
+      "onboard_time": 1718178440,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112569,
       "num": 112569,
       "word": "暨南大学回应高考生喊话苏炳添",
@@ -9139,6 +9235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 100082,
+      "num": 100082,
+      "word": "墨雨云间 两场吻戏",
+      "onboard_time": 1718177959,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99877,
       "num": 99877,
       "word": "北方小孩第一次吃咸肉粽",
@@ -9425,6 +9529,14 @@
       "onboard_time": 1717844538,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86713,
+      "num": 86713,
+      "word": "徐明浩又喊话自己印小卡",
+      "onboard_time": 1718178081,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 86454,
@@ -9835,6 +9947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58918,
+      "num": 281179,
+      "word": "金榜题名的金榜长啥样",
+      "onboard_time": 1718180240,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58410,
       "num": 163459,
       "word": "走出考场再回头看一眼我们的青春",
@@ -10083,6 +10203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47780,
+      "num": 121256,
+      "word": "iCAR03智驾拿下雾都",
+      "onboard_time": 1718179760,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47768,
       "num": 202241,
       "word": "9组易混淆的专业",
@@ -10281,6 +10409,14 @@
       "onboard_time": 1718011818,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 40770,
+      "num": 520071,
+      "word": "太空视角看中国供水大动脉10年之变",
+      "onboard_time": 1718176039,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39947,
@@ -10489,14 +10625,6 @@
       "onboard_time": 1718047571,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 29293,
-      "num": 127146,
-      "word": "太空视角看中国供水大动脉10年之变",
-      "onboard_time": 1718176039,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29108,
