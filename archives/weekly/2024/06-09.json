@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718167006817,
+  "endTime": 1718169520916,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -867,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 761323,
+      "num": 761323,
+      "word": "胡歌抵达台湾",
+      "onboard_time": 1718167641,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 759481,
       "num": 759481,
       "word": "Karina开球",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1717902737,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 672468,
+      "num": 346443,
+      "word": "演员邓超杀回来了",
+      "onboard_time": 1718167761,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 668783,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1718014998,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 547049,
+      "num": 328001,
+      "word": "歌手2024",
+      "onboard_time": 1718168480,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 545854,
@@ -2379,6 +2403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 409992,
+      "num": 278559,
+      "word": "与凤行27集17分50秒",
+      "onboard_time": 1718167041,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407492,
       "num": 407492,
       "word": "李莎旻子送给凡希亚马面裙",
@@ -2457,6 +2489,14 @@
       "onboard_time": 1718156838,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394858,
+      "num": 575899,
+      "word": "00后用AI帮人谈恋爱月入百万",
+      "onboard_time": 1718164819,
+      "rank": 9,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 393476,
@@ -2667,6 +2707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365227,
+      "num": 310317,
+      "word": "拍结婚照同时请了男摄和女摄",
+      "onboard_time": 1718166500,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 364960,
       "num": 364960,
       "word": "BLG",
@@ -2849,6 +2897,14 @@
       "onboard_time": 1718143692,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348398,
+      "num": 277659,
+      "word": "高圆圆宋慧乔车银优同框",
+      "onboard_time": 1718168302,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 347459,
@@ -3491,6 +3547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289431,
+      "num": 275708,
+      "word": "周杰伦抢票 江浙沪厮杀",
+      "onboard_time": 1718168240,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 289210,
       "num": 289210,
       "word": "白桃星座",
@@ -3545,6 +3609,14 @@
       "onboard_time": 1717926018,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280546,
+      "num": 280546,
+      "word": "樊振东连续500周世界前五",
+      "onboard_time": 1718166080,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 280459,
@@ -3611,6 +3683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275491,
+      "num": 275491,
+      "word": "赵今麦毕业大合照",
+      "onboard_time": 1718169499,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 272894,
       "num": 272894,
       "word": "成都雪山",
@@ -3636,7 +3716,7 @@
     },
     {
       "raw_hot": 272634,
-      "num": 272634,
+      "num": 279208,
       "word": "老公走路像醉酒妻子果断报警求抓",
       "onboard_time": 1718164099,
       "rank": 29,
@@ -4059,6 +4139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243651,
+      "num": 243651,
+      "word": "高考后就是吃饭睡觉墨雨云间",
+      "onboard_time": 1718167880,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242492,
       "num": 242492,
       "word": "黄亦玫发疯这段",
@@ -4131,14 +4219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 239853,
-      "num": 575899,
-      "word": "00后用AI帮人谈恋爱月入百万",
-      "onboard_time": 1718164819,
-      "rank": 9,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 239665,
       "num": 239665,
       "word": "因为是牛马所以换公司叫跳槽",
@@ -4177,14 +4257,6 @@
       "onboard_time": 1718103138,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238419,
-      "num": 238419,
-      "word": "樊振东连续500周世界前五",
-      "onboard_time": 1718166080,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 237307,
@@ -4433,14 +4505,6 @@
       "onboard_time": 1718007618,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 217062,
-      "num": 217062,
-      "word": "拍结婚照同时请了男摄和女摄",
-      "onboard_time": 1718166500,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 216903,
@@ -5107,6 +5171,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196637,
+      "num": 196637,
+      "word": "2成球迷落地新加坡直奔桑尼餐厅",
+      "onboard_time": 1718168600,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "福宝你好",
@@ -5185,6 +5257,14 @@
       "onboard_time": 1717940598,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194686,
+      "num": 194686,
+      "word": "王一博方辟谣录制OST盛典",
+      "onboard_time": 1718169080,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 194129,
@@ -5907,6 +5987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175167,
+      "num": 175167,
+      "word": "专家称中国的学医门槛很低",
+      "onboard_time": 1718167580,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175140,
       "num": 175140,
       "word": "江苏政治考cosplay",
@@ -5945,6 +6033,14 @@
       "onboard_time": 1717977496,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173593,
+      "num": 173593,
+      "word": "TF三代高会更新公式照",
+      "onboard_time": 1718168180,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 173328,
@@ -6851,6 +6947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148647,
+      "num": 148647,
+      "word": "高考后的第1站就去亚丁",
+      "onboard_time": 1718168120,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 148547,
       "num": 148547,
       "word": "陈昊宇 乘风限定版记忆",
@@ -7225,6 +7329,14 @@
       "onboard_time": 1718017877,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138721,
+      "num": 138721,
+      "word": "一诺六月训练第一天",
+      "onboard_time": 1718168302,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 138537,
@@ -7921,6 +8033,14 @@
       "onboard_time": 1717940478,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123648,
+      "num": 304716,
+      "word": "猫王大赛第一天有20万只猫报名",
+      "onboard_time": 1718164999,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123117,
@@ -8963,6 +9083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86857,
+      "num": 353484,
+      "word": "儿童手表手机化日益严重",
+      "onboard_time": 1718168419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86454,
       "num": 86454,
       "word": "大多数人缺的不是恋爱对象",
@@ -9083,14 +9211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80406,
-      "num": 304716,
-      "word": "猫王大赛第一天有20万只猫报名",
-      "onboard_time": 1718164999,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78987,
       "num": 78987,
       "word": "99年男子下订单借钱多名骑手中招",
@@ -9124,11 +9244,19 @@
     },
     {
       "raw_hot": 75693,
-      "num": 238544,
+      "num": 266592,
       "word": "偷感很重的食物你吃过么",
       "onboard_time": 1718166380,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 75677,
+      "num": 333436,
+      "word": "吴镇宇海澜之家",
+      "onboard_time": 1718165539,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 75291,
@@ -9713,14 +9841,6 @@
       "onboard_time": 1717950617,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 45401,
-      "num": 331622,
-      "word": "吴镇宇海澜之家",
-      "onboard_time": 1718165539,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 45388,
