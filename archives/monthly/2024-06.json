@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718160321751,
+  "endTime": 1718162506191,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 1502394,
-      "num": 257979,
+      "num": 261982,
       "word": "耳朵总痒可能暗示这5种问题",
       "onboard_time": 1718155997,
       "rank": 24,
@@ -955,6 +955,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1419828,
+      "num": 1419828,
+      "word": "林更新考博成功",
+      "onboard_time": 1718161637,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1416945,
       "num": 1416945,
       "word": "何炅缺席",
@@ -993,6 +1001,14 @@
       "onboard_time": 1717202176,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1400520,
+      "num": 521244,
+      "word": "iPhone16将砍掉实体键改为电容式",
+      "onboard_time": 1718159777,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 1396063,
@@ -1627,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1134907,
+      "num": 1134907,
+      "word": "小鬼确认担任TF三代导师",
+      "onboard_time": 1718161398,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1133246,
       "num": 1133246,
       "word": "闲鱼回应多用户未经本人允许挂售同事",
@@ -1761,6 +1785,14 @@
       "onboard_time": 1717632858,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1097702,
+      "num": 574950,
+      "word": "内娱第一个凌晨直播的综艺",
+      "onboard_time": 1718159838,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 1095338,
@@ -5955,6 +5987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519541,
+      "num": 519541,
+      "word": "成都警方通报女子在家门口遇害",
+      "onboard_time": 1718160017,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519408,
       "num": 519408,
       "word": "猫眼回应王源演唱会抢票卡顿",
@@ -6169,6 +6209,14 @@
       "onboard_time": 1717742360,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 508792,
+      "num": 526332,
+      "word": "福宝连续来了好几个前滚翻",
+      "onboard_time": 1718158697,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506652,
@@ -7491,14 +7539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436310,
-      "num": 224965,
-      "word": "iPhone16将砍掉实体键改为电容式",
-      "onboard_time": 1718159777,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 435240,
       "num": 435240,
       "word": "TF家族一代二代同台",
@@ -7665,14 +7705,6 @@
       "onboard_time": 1717929377,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 425991,
-      "num": 425991,
-      "word": "内娱第一个凌晨直播的综艺",
-      "onboard_time": 1718159838,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 425529,
@@ -8704,6 +8736,14 @@
       "word": "王俊凯周杰伦最美湘遇",
       "onboard_time": 1717247659,
       "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 377147,
+      "num": 377147,
+      "word": "周杰伦南京抢票",
+      "onboard_time": 1718159717,
+      "rank": 45,
       "category": "演出"
     },
     {
@@ -9971,6 +10011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 331286,
+      "num": 331286,
+      "word": "王星越吐槽墨雨云间排播",
+      "onboard_time": 1718160257,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331259,
       "num": 331259,
       "word": "真的不想再看柔弱女主了",
@@ -11107,6 +11155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294042,
+      "num": 259489,
+      "word": "男子潜水发现海底有11个密封坛",
+      "onboard_time": 1718160979,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293963,
       "num": 209554,
       "word": "千万不要冲动带对象回家",
@@ -11835,6 +11891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272662,
+      "num": 272662,
+      "word": "人民文娱评大批艺人涌入带货直播间",
+      "onboard_time": 1718161999,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272634,
       "num": 225015,
       "word": "庄国栋是最后的赢家吗",
@@ -12291,6 +12355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263094,
+      "num": 263094,
+      "word": "龙俊亨时隔5年道歉",
+      "onboard_time": 1718162119,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 262733,
       "num": 198262,
       "word": "张艺兴带女团唱Psychic",
@@ -12673,14 +12745,6 @@
       "onboard_time": 1717595718,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252932,
-      "num": 252932,
-      "word": "福宝连续来了好几个前滚翻",
-      "onboard_time": 1718158697,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 252899,
@@ -15755,6 +15819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203618,
+      "num": 203618,
+      "word": "天天喊累的人建议查一下甲状腺",
+      "onboard_time": 1718157857,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 203551,
       "num": 203565,
       "word": "你的考公对手可能是你老师",
@@ -16123,6 +16195,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200234,
+      "num": 200234,
+      "word": "金硕珍直播",
+      "onboard_time": 1718162178,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200187,
       "num": 200187,
       "word": "说唱冠军三年归来仍是素人",
@@ -16241,6 +16321,14 @@
       "onboard_time": 1717668980,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199378,
+      "num": 199378,
+      "word": "王一博成毅 OST盛典",
+      "onboard_time": 1718162297,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 199371,
@@ -16625,14 +16713,6 @@
       "onboard_time": 1717304118,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 196462,
-      "num": 196462,
-      "word": "周杰伦南京抢票",
-      "onboard_time": 1718159717,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 196382,
@@ -17713,6 +17793,14 @@
       "onboard_time": 1717839559,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 187218,
+      "num": 187218,
+      "word": "晓朝夕定档",
+      "onboard_time": 1718162059,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 187094,
@@ -19627,14 +19715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168160,
-      "num": 168160,
-      "word": "天天喊累的人建议查一下甲状腺",
-      "onboard_time": 1718157857,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168103,
       "num": 187352,
       "word": "弟弟的荣誉 哥哥的脸面",
@@ -20875,6 +20955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157835,
+      "num": 157835,
+      "word": "王一博ELLE动态预告",
+      "onboard_time": 1718160618,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157794,
       "num": 157794,
       "word": "读狂犬旁基本都是福建人",
@@ -21577,6 +21665,14 @@
       "onboard_time": 1717419018,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152410,
+      "num": 152410,
+      "word": "法国凡尔赛宫失火",
+      "onboard_time": 1718160798,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152346,
@@ -22593,14 +22689,6 @@
       "onboard_time": 1717643237,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144982,
-      "num": 144982,
-      "word": "成都警方通报女子在家门口遇害",
-      "onboard_time": 1718160017,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144918,
@@ -24257,6 +24345,14 @@
       "onboard_time": 1717479619,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132399,
+      "num": 132399,
+      "word": "檀健次新歌",
+      "onboard_time": 1718160558,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 132354,
@@ -27091,14 +27187,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 111153,
-      "num": 111153,
-      "word": "王星越吐槽墨雨云间排播",
-      "onboard_time": 1718160257,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111095,
       "num": 111095,
       "word": "国乒包揽重庆赛男女单冠亚军",
@@ -28753,6 +28841,14 @@
       "onboard_time": 1717922418,
       "rank": 2,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90415,
+      "num": 134280,
+      "word": "韩国小哥不信中国拿西瓜喂猪",
+      "onboard_time": 1718161698,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90202,
@@ -30777,6 +30873,14 @@
       "onboard_time": 1718147775,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54558,
+      "num": 521260,
+      "word": "经济学者建议大幅调高农民养老金",
+      "onboard_time": 1718161217,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54388,
