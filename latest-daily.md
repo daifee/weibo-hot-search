@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/12 00:25:03 ~ 2024/06/12 14:26:23
+本榜单时间：2024/06/12 00:25:03 ~ 2024/06/12 14:38:53
 </p>
 </blockquote>
 <p>
@@ -207,6 +207,12 @@ Jennie 晚奶（热度：1084973）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E4%BF%9D%E4%BD%8F%E4%B8%9C%E5%AE%B6900%E5%A4%9A%E4%B8%87%E5%85%BB%E8%80%81%E9%92%B1%23" target="weibo">
+杭州保姆保住东家900多万养老钱（热度：524032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%87%E5%AE%B3%23" target="weibo">
 成都警方通报女子在家门口遇害（热度：519541）
 </a>
@@ -323,12 +329,6 @@ Jennie 晚奶（热度：1084973）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%BD%9C%E6%B0%B4%E5%8F%91%E7%8E%B0%E6%B5%B7%E5%BA%95%E6%9C%8911%E4%B8%AA%E5%AF%86%E5%B0%81%E5%9D%9B%23" target="weibo">
 男子潜水发现海底有11个密封坛（热度：386472）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E4%BF%9D%E4%BD%8F%E4%B8%9C%E5%AE%B6900%E5%A4%9A%E4%B8%87%E5%85%BB%E8%80%81%E9%92%B1%23" target="weibo">
-杭州保姆保住东家900多万养老钱（热度：386133）
 </a>
 </li>
 
@@ -507,6 +507,12 @@ BTS合体（热度：326559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%9E%92%E7%9D%80%E7%88%B6%E6%AF%8D%E5%A4%8D%E8%AF%BB6%E5%B9%B4%23" target="weibo">
+女孩瞒着父母复读6年（热度：249877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E8%90%A5%E4%B8%9A%E5%89%8D%E5%9C%A8%E5%B9%B2%E5%98%9B%23" target="weibo">
 福宝营业前在干嘛（热度：249328）
 </a>
@@ -527,6 +533,12 @@ BTS合体（热度：326559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%97%A8%E5%B0%86%23" target="weibo">
 新加坡门将（热度：247295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E8%8D%AF%E7%89%87%E4%B8%8A%E6%9C%89%E5%88%BB%E7%97%95%23" target="weibo">
+为什么有的药片上有刻痕（热度：246058）
 </a>
 </li>
 
@@ -573,12 +585,6 @@ BTS合体（热度：326559）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E8%8D%AF%E7%89%87%E4%B8%8A%E6%9C%89%E5%88%BB%E7%97%95%23" target="weibo">
-为什么有的药片上有刻痕（热度：235913）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%94%B0%E6%9B%A6%E8%96%87%E6%9B%BE%E5%90%88%E4%BD%9C%E5%88%9D%E6%AC%A1%E7%88%B1%E4%BD%A0%23" target="weibo">
 王星越田曦薇曾合作初次爱你（热度：235451）
 </a>
@@ -609,6 +615,12 @@ BTS合体（热度：326559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E6%89%8B%E8%A1%A8%E6%89%8B%E6%9C%BA%E5%8C%96%E6%97%A5%E7%9B%8A%E4%B8%A5%E9%87%8D%23" target="weibo">
+儿童手表手机化日益严重（热度：219662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E8%BD%A6%E5%8E%98%E5%AD%90%E6%AF%94%E8%BF%9B%E5%8F%A3%E4%BB%B7%E6%A0%BC%E4%BD%8E%E5%9B%9B%E6%88%90%23" target="weibo">
 国产车厘子比进口价格低四成（热度：216819）
 </a>
@@ -621,14 +633,14 @@ BTS合体（热度：326559）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%AB%A5%E6%89%8B%E8%A1%A8%E6%89%8B%E6%9C%BA%E5%8C%96%E6%97%A5%E7%9B%8A%E4%B8%A5%E9%87%8D%23" target="weibo">
-儿童手表手机化日益严重（热度：214214）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%B7%A6%E7%9C%8B%E7%9C%8B%E5%8F%B3%E7%9C%8B%E7%9C%8B%23" target="weibo">
+福宝左看看右看看（热度：214078）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%B7%A6%E7%9C%8B%E7%9C%8B%E5%8F%B3%E7%9C%8B%E7%9C%8B%23" target="weibo">
-福宝左看看右看看（热度：214078）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%99%BD%E8%89%B2%E6%97%A0%E8%A2%96%23" target="weibo">
+王一博白色无袖（热度：210741）
 </a>
 </li>
 
@@ -669,8 +681,20 @@ BTS合体（热度：326559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A8%E5%A2%83%E5%AE%9E%E6%96%BD%E5%81%9C%E7%94%B5%23" target="weibo">
+乌克兰全境实施停电（热度：196328）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E4%BD%A0%E5%A5%BD%23" target="weibo">
 福宝你好（热度：196282）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E5%80%BC%E5%BE%97%E6%8A%A5%E8%80%83%E5%90%97%23" target="weibo">
+计算机专业还值得报考吗（热度：195533）
 </a>
 </li>
 
@@ -741,12 +765,6 @@ BTS合体（热度：326559）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E8%BF%98%E5%80%BC%E5%BE%97%E6%8A%A5%E8%80%83%E5%90%97%23" target="weibo">
-计算机专业还值得报考吗（热度：177933）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AD%A6%E5%8C%BB%E9%97%A8%E6%A7%9B%E5%BE%88%E4%BD%8E%23" target="weibo">
 专家称中国的学医门槛很低（热度：177635）
 </a>
@@ -771,8 +789,20 @@ TF三代高会更新公式照（热度：173593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%96%9C%E6%AC%A2%E4%B8%8A%E8%80%81%E5%B9%B4%E6%9C%BA%23" target="weibo">
+年轻人为何喜欢上老年机（热度：173174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iOS18%E5%8F%AF%E6%A3%80%E6%B5%8B%E6%98%AF%E5%90%A6%E6%AD%A3%E4%BD%BF%E7%94%A8%E6%85%A2%E9%80%9F%E5%85%85%E7%94%B5%E5%99%A8%23" target="weibo">
 iOS18可检测是否正使用慢速充电器（热度：170854）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%B3%E5%A4%B4%E5%9B%9E%E5%BA%94Faker%E9%98%BF%E7%8B%B8%E7%9A%AE%E8%82%A4%E5%AE%9A%E4%BB%B7%23" target="weibo">
+拳头回应Faker阿狸皮肤定价（热度：169743）
 </a>
 </li>
 
@@ -821,6 +851,12 @@ iOS18可检测是否正使用慢速充电器（热度：170854）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E7%89%B9%E5%86%99%23" target="weibo">
 福宝特写（热度：163794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%B7%B1V%E7%99%BD%E8%A1%AC%E8%A1%AB%23" target="weibo">
+肖战深V白衬衫（热度：163744）
 </a>
 </li>
 
@@ -903,6 +939,12 @@ KPL（热度：144630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%9C%9F%E8%B1%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%A7%23" target="weibo">
+为什么现在的土豆越来越大（热度：138442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%96%B0%E6%AD%8C%23" target="weibo">
 檀健次新歌（热度：132399）
 </a>
@@ -923,12 +965,6 @@ KPL（热度：144630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8B%E7%8F%AD%23" target="weibo">
 王俊凯下班（热度：130028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%9C%9F%E8%B1%86%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%A7%23" target="weibo">
-为什么现在的土豆越来越大（热度：128453）
 </a>
 </li>
 
@@ -1007,6 +1043,12 @@ C罗梅开二度（热度：119075）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23200%E5%A4%9A%E5%9D%97%E9%92%B1%E4%B9%B0%E7%9A%84%E6%8A%95%E5%BD%B1%E4%BB%AA%23" target="weibo">
 200多块钱买的投影仪（热度：118064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E5%82%A3%E6%97%8F%E9%80%A0%E5%9E%8B%23" target="weibo">
+娜扎傣族造型（热度：117383）
 </a>
 </li>
 
@@ -1113,12 +1155,6 @@ iPadOS18细节功能一览（热度：84048）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%96%9C%E6%AC%A2%E4%B8%8A%E8%80%81%E5%B9%B4%E6%9C%BA%23" target="weibo">
-年轻人为何喜欢上老年机（热度：81136）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%BA%E5%AA%9B%E5%88%9A%E5%87%BA%E9%81%93%E8%A2%AB%E8%AF%AF%E8%AE%A4%E6%98%AF%E5%A4%96%E5%9B%BD%E4%BA%BA%23" target="weibo">
 金智媛刚出道被误认是外国人（热度：80324）
 </a>
@@ -1197,6 +1233,12 @@ iPadOS18细节功能一览（热度：84048）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232024%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E6%97%B6%E9%97%B4%23" target="weibo">
+2024高考出分时间（热度：54529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E9%81%97%E5%9D%80%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%23" target="weibo">
 文化遗址里的中国故事（热度：49583）
 </a>
@@ -1240,7 +1282,7 @@ iPadOS18细节功能一览（热度：84048）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%A4%A9%E7%94%9F%E6%95%A2%E4%B8%BA%23" target="weibo">
-成毅天生敢为（热度：27834）
+成毅天生敢为（热度：29090）
 </a>
 </li>
 
@@ -1277,6 +1319,12 @@ iPadOS18细节功能一览（热度：84048）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%A5%E9%A5%BF%E5%B0%8F%E8%9C%82%E7%8C%B4%E5%8B%87%E9%97%AF%E4%BA%BA%E7%B1%BB%E7%81%AB%E9%94%85%E5%BA%97%23" target="weibo">
 饥饿小蜂猴勇闯人类火锅店（热度：13867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9D%87%E4%B8%80%E5%B9%B4%E9%A3%9F%E7%94%A8%E6%B5%B7%E9%B2%9C22%E5%85%AC%E6%96%A4%23" target="weibo">
+日本人均一年食用海鲜22公斤（热度：13592）
 </a>
 </li>
 
