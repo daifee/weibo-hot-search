@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718198522353,
+  "endTime": 1718199581377,
   "band_list": [
     {
       "raw_hot": 2786155,
@@ -41,6 +41,14 @@
       "onboard_time": 1718155997,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1488079,
+      "num": 1488079,
+      "word": "没叫醒孩子错过高考",
+      "onboard_time": 1718197278,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1466225,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 891895,
+      "num": 474137,
+      "word": "Angelababy线下生图状态",
+      "onboard_time": 1718194759,
+      "rank": 12,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 874582,
       "num": 761323,
       "word": "胡歌抵达台湾",
@@ -163,28 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 864420,
-      "num": 474137,
-      "word": "Angelababy线下生图状态",
-      "onboard_time": 1718194759,
-      "rank": 12,
-      "category": "作品衍生,艺人"
-    },
-    {
       "raw_hot": 817671,
       "num": 407907,
       "word": "歌手2024",
       "onboard_time": 1718168480,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 800243,
-      "num": 800243,
-      "word": "没叫醒孩子错过高考",
-      "onboard_time": 1718197278,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 768238,
@@ -209,6 +209,14 @@
       "onboard_time": 1718149757,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 687510,
+      "num": 687510,
+      "word": "刘亦菲霍建华香港文艺片氛围感",
+      "onboard_time": 1718196439,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 685046,
@@ -267,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 630501,
-      "num": 630501,
-      "word": "刘亦菲霍建华香港文艺片氛围感",
-      "onboard_time": 1718196439,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 619453,
       "num": 284591,
       "word": "胃病发展到胃癌仅仅4步",
@@ -288,6 +288,14 @@
       "word": "鞠婧祎 眉弓",
       "onboard_time": 1718191038,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 595296,
+      "num": 297611,
+      "word": "北京偶遇刘亦菲逛街",
+      "onboard_time": 1718198480,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -449,6 +457,14 @@
       "onboard_time": 1718127493,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477852,
+      "num": 300030,
+      "word": "黄亦玫方协文闪婚",
+      "onboard_time": 1718196259,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 477256,
@@ -659,14 +675,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 371814,
-      "num": 297611,
-      "word": "北京偶遇刘亦菲逛街",
-      "onboard_time": 1718198480,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 361357,
       "num": 361357,
       "word": "林更新总成绩排名专业第2",
@@ -688,14 +696,6 @@
       "word": "刘亦菲佟大为早期合照",
       "onboard_time": 1718195899,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 351339,
-      "num": 300030,
-      "word": "黄亦玫方协文闪婚",
-      "onboard_time": 1718196259,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -795,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326846,
+      "num": 295310,
+      "word": "印度贫民窟上百人共用一个厕所",
+      "onboard_time": 1718197400,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326559,
       "num": 326559,
       "word": "BTS合体",
@@ -833,6 +841,14 @@
       "onboard_time": 1718118501,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314611,
+      "num": 314611,
+      "word": "高温",
+      "onboard_time": 1718197640,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309992,
@@ -987,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267998,
+      "num": 267998,
+      "word": "李梦在墨雨云间里演爽了",
+      "onboard_time": 1718197038,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267523,
       "num": 267523,
       "word": "新加坡旅游局官方微博被中国球迷刷屏",
@@ -1059,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255367,
+      "num": 295610,
+      "word": "台湾人不能放弃的谐音梗",
+      "onboard_time": 1718195058,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251830,
       "num": 251830,
       "word": "墨雨云间",
@@ -1075,6 +1107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249901,
+      "num": 249901,
+      "word": "玫瑰的故事 捐血文学",
+      "onboard_time": 1718197519,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249328,
       "num": 249328,
       "word": "福宝营业前在干嘛",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1718177480,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248639,
-      "num": 295610,
-      "word": "台湾人不能放弃的谐音梗",
-      "onboard_time": 1718195058,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 247447,
@@ -1139,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244408,
-      "num": 244408,
-      "word": "李梦在墨雨云间里演爽了",
-      "onboard_time": 1718197038,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 244010,
       "num": 244010,
       "word": "国足致谢所有球迷",
@@ -1161,14 +1185,6 @@
       "onboard_time": 1718167880,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241560,
-      "num": 295310,
-      "word": "印度贫民窟上百人共用一个厕所",
-      "onboard_time": 1718197400,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239225,
@@ -1248,14 +1264,6 @@
       "word": "黄亦玫为什么会突然跳舞",
       "onboard_time": 1718151558,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 227343,
-      "num": 210390,
-      "word": "玫瑰的故事 捐血文学",
-      "onboard_time": 1718197519,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1387,20 +1395,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 202481,
+      "num": 202481,
+      "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+      "onboard_time": 1718197159,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200234,
       "num": 200234,
       "word": "金硕珍直播",
       "onboard_time": 1718162178,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198919,
-      "num": 308329,
-      "word": "高温",
-      "onboard_time": 1718197640,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196637,
@@ -1483,14 +1491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189877,
-      "num": 189877,
-      "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
-      "onboard_time": 1718197159,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188616,
       "num": 188616,
       "word": "王星越对女星姐姐的称呼",
@@ -1555,6 +1555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182381,
+      "num": 182381,
+      "word": "现在的年轻人真的很可怜",
+      "onboard_time": 1718199079,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 182244,
       "num": 182244,
       "word": "威神V一位公约",
@@ -1585,6 +1593,14 @@
       "onboard_time": 1718175140,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181078,
+      "num": 181078,
+      "word": "黄亦玫被PUA成家庭主妇",
+      "onboard_time": 1718198900,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 180480,
@@ -1699,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165280,
+      "num": 165280,
+      "word": "高考完想整牙爸妈不同意",
+      "onboard_time": 1718194698,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165137,
       "num": 165137,
       "word": "国足0比1不敌韩国队",
@@ -1785,14 +1809,6 @@
       "onboard_time": 1718160618,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 157639,
-      "num": 157639,
-      "word": "高考完想整牙爸妈不同意",
-      "onboard_time": 1718194698,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 156045,
@@ -1921,6 +1937,14 @@
       "onboard_time": 1718187199,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 142359,
+      "num": 142359,
+      "word": "玫瑰的故事对精英男祛魅",
+      "onboard_time": 1718198599,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 142098,
@@ -2171,6 +2195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123454,
+      "num": 123454,
+      "word": "法式鹅肝怎么成了中国县城土特产",
+      "onboard_time": 1718197218,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 123156,
       "num": 123156,
       "word": "用高脚杯喝螺蛳粉",
@@ -2235,6 +2267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120881,
+      "num": 120881,
+      "word": "拍到地球自转是什么体验",
+      "onboard_time": 1718198900,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 120665,
       "num": 120665,
       "word": "俱乐部否认将身体不适母子丢海里",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1718159117,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118719,
-      "num": 118719,
-      "word": "法式鹅肝怎么成了中国县城土特产",
-      "onboard_time": 1718197218,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 118197,
@@ -2483,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101938,
+      "num": 342235,
+      "word": "小伙抱出煤气罐救了整栋楼",
+      "onboard_time": 1718196439,
+      "rank": 14,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 100636,
       "num": 100636,
       "word": "王者荣耀",
@@ -2497,6 +2537,14 @@
       "onboard_time": 1718190258,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 98376,
+      "num": 722185,
+      "word": "中国航天员站在机械臂上和地球同框",
+      "onboard_time": 1718196558,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97299,
@@ -2563,14 +2611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88397,
-      "num": 711143,
-      "word": "中国航天员站在机械臂上和地球同框",
-      "onboard_time": 1718196558,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86713,
       "num": 86713,
       "word": "徐明浩又喊话自己印小卡",
@@ -2585,14 +2625,6 @@
       "onboard_time": 1718147836,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 83302,
-      "num": 342235,
-      "word": "小伙抱出煤气罐救了整栋楼",
-      "onboard_time": 1718196439,
-      "rank": 14,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 83124,
@@ -2872,6 +2904,14 @@
       "word": "近7成用户表示买车先看智驾能力",
       "onboard_time": 1718176399,
       "rank": 41,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 37380,
+      "num": 110358,
+      "word": "领克纯电虽迟但到",
+      "onboard_time": 1718199259,
+      "rank": 45,
       "category": "汽车"
     },
     {
