@@ -1,0 +1,410 @@
+{
+  "runTime": 1718205575508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1364777,
+        "num": 1364777,
+        "word": "没叫醒孩子错过高考",
+        "onboard_time": 1718197278,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 897710,
+        "num": 897710,
+        "word": "刘亦菲一部剧带火了5个人",
+        "onboard_time": 1718200340,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62377,
+        "num": 818676,
+        "word": "中国航天员站在机械臂上和地球同框",
+        "onboard_time": 1718196558,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 793691,
+        "num": 793691,
+        "word": "杰里韦斯特去世",
+        "onboard_time": 1718200698,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 474261,
+        "num": 474261,
+        "word": "现在的年轻人真的很可怜",
+        "onboard_time": 1718199079,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 443127,
+        "num": 443127,
+        "word": "北京冰雹",
+        "onboard_time": 1718204060,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371186,
+        "num": 371186,
+        "word": "北京偶遇刘亦菲逛街",
+        "onboard_time": 1718198480,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344881,
+        "num": 344881,
+        "word": "女儿长成这样可以当童模吗",
+        "onboard_time": 1718198959,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333049,
+        "num": 333049,
+        "word": "黄亦玫方协文闪婚",
+        "onboard_time": 1718196259,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45622,
+        "num": 326554,
+        "word": "关注华北黄淮旱情",
+        "onboard_time": 1718203880,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2501039,
+        "num": 324781,
+        "word": "歌手声明",
+        "onboard_time": 1718201240,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322571,
+        "num": 322571,
+        "word": "乐华否认程潇吴宣仪耍大牌",
+        "onboard_time": 1718192119,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261996,
+        "num": 261996,
+        "word": "鞠婧祎 眉弓",
+        "onboard_time": 1718191038,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258057,
+        "num": 258057,
+        "word": "Angelababy线下生图状态",
+        "onboard_time": 1718194759,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257681,
+        "num": 257681,
+        "word": "北京大风",
+        "onboard_time": 1718204180,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240395,
+        "num": 240395,
+        "word": "韩国没有了五花肉自由",
+        "onboard_time": 1718191639,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236254,
+        "num": 236254,
+        "word": "刘亦菲霍建华香港文艺片氛围感",
+        "onboard_time": 1718196439,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209160,
+        "num": 209160,
+        "word": "北京WB被让二追三",
+        "onboard_time": 1718204540,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173473,
+        "num": 208020,
+        "word": "马斯克被曝与SpaceX多名员工有染",
+        "onboard_time": 1718188337,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161354,
+        "num": 206902,
+        "word": "印度贫民窟上百人共用一个厕所",
+        "onboard_time": 1718197400,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281221,
+        "num": 205298,
+        "word": "家门口遭捅死女孩曾被保送北外",
+        "onboard_time": 1718191398,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221003,
+        "num": 204751,
+        "word": "彭冠英发文吐槽庄国栋",
+        "onboard_time": 1718205560,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203374,
+        "num": 203374,
+        "word": "某明星 坐电梯耍大牌",
+        "onboard_time": 1718176761,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192133,
+        "num": 192133,
+        "word": "林狗送猫",
+        "onboard_time": 1718203520,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179631,
+        "num": 179631,
+        "word": "女子炫了一斤杨梅被送进ICU",
+        "onboard_time": 1718183301,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174334,
+        "num": 174334,
+        "word": "林更新上线霍建华也不远了",
+        "onboard_time": 1718202139,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172313,
+        "num": 172313,
+        "word": "怀疑张若昀工作室有我们自己人",
+        "onboard_time": 1718205200,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166105,
+        "num": 166105,
+        "word": "女子出借20万元讨不回丈夫自杀",
+        "onboard_time": 1718205260,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149736,
+        "num": 149736,
+        "word": "李梦模仿王星越叼玉佩",
+        "onboard_time": 1718203280,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144082,
+        "num": 144082,
+        "word": "台湾奶奶为听乡音3刷繁花",
+        "onboard_time": 1718201240,
+        "rank": 29,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 161632,
+        "num": 142472,
+        "word": "上戏回应林更新考博成功",
+        "onboard_time": 1718179880,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145045,
+        "num": 141306,
+        "word": "这是初恋吗 这是家里进贼了",
+        "onboard_time": 1718188099,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136719,
+        "num": 136719,
+        "word": "YG糟糕的公关",
+        "onboard_time": 1718204840,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141591,
+        "num": 136708,
+        "word": "李梦在墨雨云间里演爽了",
+        "onboard_time": 1718197038,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134675,
+        "num": 134675,
+        "word": "黄亦玫被PUA成家庭主妇",
+        "onboard_time": 1718198900,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128369,
+        "num": 134672,
+        "word": "墨雨云间 已老实求加更",
+        "onboard_time": 1718184380,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122988,
+        "num": 134608,
+        "word": "如何完整取下音乐节手环",
+        "onboard_time": 1718200220,
+        "rank": 36,
+        "category": "科学科普,演出"
+      },
+      {
+        "raw_hot": 122891,
+        "num": 134564,
+        "word": "欧洲杯赛程",
+        "onboard_time": 1718202081,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119418,
+        "num": 134536,
+        "word": "桑尼食品摊被中国人买空",
+        "onboard_time": 1718203700,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117777,
+        "num": 134518,
+        "word": "拍到地球自转是什么体验",
+        "onboard_time": 1718198900,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 125095,
+        "num": 134465,
+        "word": "陈晓许凯王星越 于正严选",
+        "onboard_time": 1718195838,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124310,
+        "num": 134404,
+        "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+        "onboard_time": 1718197159,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113268,
+        "num": 134403,
+        "word": "吴宣仪机场视频",
+        "onboard_time": 1718193018,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112130,
+        "num": 134332,
+        "word": "玫瑰的故事东方卫视排播",
+        "onboard_time": 1718205439,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107359,
+        "num": 134313,
+        "word": "人生可以大错特错",
+        "onboard_time": 1718204480,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98422,
+        "num": 134247,
+        "word": "男生高考英语25分逆袭985研究生",
+        "onboard_time": 1718200039,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97461,
+        "num": 134235,
+        "word": "墨雨云间",
+        "onboard_time": 1718195479,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94082,
+        "num": 134170,
+        "word": "瓦屋山",
+        "onboard_time": 1718205200,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92964,
+        "num": 134160,
+        "word": "玫瑰的故事",
+        "onboard_time": 1718197278,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89100,
+        "num": 134110,
+        "word": "女儿刚高考完就支出了3万",
+        "onboard_time": 1718191639,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#为建设教育强国科技强国作出新的贡献#"
+    }
+  }
+}
