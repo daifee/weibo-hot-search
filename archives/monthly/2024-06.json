@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718212653104,
+  "endTime": 1718213674119,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -15099,6 +15099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221472,
+      "num": 113695,
+      "word": "专家说杨梅是减肥人士的福音",
+      "onboard_time": 1718209876,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 221340,
       "num": 221340,
       "word": "嗨放派3路透",
@@ -15233,14 +15241,6 @@
       "onboard_time": 1717563919,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219516,
-      "num": 113695,
-      "word": "专家说杨梅是减肥人士的福音",
-      "onboard_time": 1718209876,
-      "rank": 33,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 219460,
@@ -28315,20 +28315,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114740,
+      "num": 573898,
+      "word": "南京咖啡阿姨说天下没有不散的筵席",
+      "onboard_time": 1718209458,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114665,
       "num": 114665,
       "word": "Xiaolaohu说不打职业回家了",
       "onboard_time": 1717887733,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 114648,
-      "num": 573898,
-      "word": "南京咖啡阿姨说天下没有不散的筵席",
-      "onboard_time": 1718209458,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 114585,
@@ -34067,10 +34067,26 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36031,
+      "num": 78631,
+      "word": "墨雨云间跪下文学",
+      "onboard_time": 1718211794,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35935,
       "num": 128521,
       "word": "考场外头顶鲜花的显眼包舅舅",
       "onboard_time": 1717887792,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35853,
+      "num": 114071,
+      "word": "验瓜师每天拍上万个西瓜收入千元",
+      "onboard_time": 1718211315,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -34883,14 +34899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22177,
-      "num": 114071,
-      "word": "验瓜师每天拍上万个西瓜收入千元",
-      "onboard_time": 1718211315,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22019,
       "num": 579717,
       "word": "炎炎夏日谢谢他们的坚守",
@@ -35425,6 +35433,14 @@
       "onboard_time": 1717608852,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13004,
+      "num": 103656,
+      "word": "被95后吕剧演员转场变装硬控了",
+      "onboard_time": 1718213173,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12959,
