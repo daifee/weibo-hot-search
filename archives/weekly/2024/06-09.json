@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718163384946,
+  "endTime": 1718166176592,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1502394,
-      "num": 276475,
+      "num": 303405,
       "word": "耳朵总痒可能暗示这5种问题",
       "onboard_time": 1718155997,
       "rank": 24,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1438100,
-      "num": 521244,
+      "num": 553749,
       "word": "iPhone16将砍掉实体键改为电容式",
       "onboard_time": 1718159777,
       "rank": 23,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1384310,
-      "num": 1134907,
+      "num": 1226946,
       "word": "小鬼确认担任TF三代导师",
       "onboard_time": 1718161398,
       "rank": 3,
@@ -272,6 +272,14 @@
       "word": "女子注射400支玻尿酸丰臀致臀部感染",
       "onboard_time": 1717944259,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1331641,
+      "num": 1331641,
+      "word": "韩国小哥不信中国拿西瓜喂猪",
+      "onboard_time": 1718161698,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -427,6 +435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1090629,
+      "num": 624842,
+      "word": "玫瑰的故事原型 章小蕙",
+      "onboard_time": 1718163979,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1088011,
       "num": 1088011,
       "word": "刘亦菲36岁演22岁女大学生",
@@ -473,6 +489,14 @@
       "onboard_time": 1717938918,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1039982,
+      "num": 599790,
+      "word": "Jennie 晚奶",
+      "onboard_time": 1718163319,
+      "rank": 34,
+      "category": "艺人,网红"
     },
     {
       "raw_hot": 1031335,
@@ -1571,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545854,
+      "num": 545854,
+      "word": "涂山黑黑",
+      "onboard_time": 1718163440,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 544733,
       "num": 505412,
       "word": "EXOCBX将告发SM",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1718103738,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534461,
+      "num": 589861,
+      "word": "法国凡尔赛宫失火",
+      "onboard_time": 1718160798,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 534158,
@@ -1772,7 +1812,7 @@
     },
     {
       "raw_hot": 511607,
-      "num": 300194,
+      "num": 322179,
       "word": "女生高考结束后直接一睡不起",
       "onboard_time": 1718154078,
       "rank": 25,
@@ -2499,6 +2539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387582,
+      "num": 387582,
+      "word": "国台办回应胡歌赴台参加文艺交流",
+      "onboard_time": 1718164460,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386518,
       "num": 386518,
       "word": "孙兴慜做3比0手势",
@@ -2508,7 +2556,7 @@
     },
     {
       "raw_hot": 386472,
-      "num": 275692,
+      "num": 292103,
       "word": "男子潜水发现海底有11个密封坛",
       "onboard_time": 1718160979,
       "rank": 22,
@@ -2921,6 +2969,14 @@
       "onboard_time": 1717975093,
       "rank": 16,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 338781,
+      "num": 302772,
+      "word": "汪俊 如懿传",
+      "onboard_time": 1718164580,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 338569,
@@ -3531,14 +3587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 276944,
-      "num": 276944,
-      "word": "韩国小哥不信中国拿西瓜喂猪",
-      "onboard_time": 1718161698,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276563,
       "num": 276563,
       "word": "龙俊亨时隔5年道歉",
@@ -3657,6 +3705,14 @@
       "onboard_time": 1717976175,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267523,
+      "num": 267523,
+      "word": "新加坡旅游局官方微博被中国球迷刷屏",
+      "onboard_time": 1718164760,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 266510,
@@ -3809,6 +3865,14 @@
       "onboard_time": 1717996698,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255180,
+      "num": 255180,
+      "word": "老公走路像醉酒妻子果断报警求抓",
+      "onboard_time": 1718164099,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255163,
@@ -4003,6 +4067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242204,
+      "num": 242204,
+      "word": "马伯庸 剑网3",
+      "onboard_time": 1718165720,
+      "rank": 30,
+      "category": "读书作家,游戏"
+    },
+    {
       "raw_hot": 242052,
       "num": 242052,
       "word": "朱珠 高智姐感",
@@ -4065,14 +4137,6 @@
       "onboard_time": 1718020938,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 239544,
-      "num": 239544,
-      "word": "法国凡尔赛宫失火",
-      "onboard_time": 1718160798,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239225,
@@ -4161,6 +4225,14 @@
       "onboard_time": 1718002638,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231808,
+      "num": 231808,
+      "word": "墨雨云间 扫楼",
+      "onboard_time": 1718163919,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 231806,
@@ -4585,6 +4657,14 @@
       "onboard_time": 1718061675,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 207793,
+      "num": 207793,
+      "word": "轮到林更新出场了",
+      "onboard_time": 1718165660,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 207298,
@@ -5155,6 +5235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192128,
+      "num": 192128,
+      "word": "河南南阳一小区恶狗咬伤7人",
+      "onboard_time": 1718164340,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192042,
       "num": 192042,
       "word": "庄国栋到底爱不爱黄亦玫",
@@ -5225,6 +5313,14 @@
       "onboard_time": 1718016137,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190912,
+      "num": 190912,
+      "word": "各做各的 很防弹少年团",
+      "onboard_time": 1718163499,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190634,
@@ -5715,6 +5811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177196,
+      "num": 177196,
+      "word": "樊振东连续500周世界前五",
+      "onboard_time": 1718166080,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177078,
       "num": 177078,
       "word": "陈雨菲女单夺冠",
@@ -5873,14 +5977,6 @@
       "onboard_time": 1718091918,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171245,
-      "num": 171245,
-      "word": "Jennie 晚奶",
-      "onboard_time": 1718163319,
-      "rank": 34,
-      "category": "艺人,网红"
     },
     {
       "raw_hot": 171011,
@@ -6955,6 +7051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142700,
+      "num": 575899,
+      "word": "00后用AI帮人谈恋爱月入百万",
+      "onboard_time": 1718164819,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 142541,
       "num": 142541,
       "word": "墨雨云间18集预告",
@@ -6984,6 +7088,14 @@
       "word": "阿狸啊阿狸别看玫瑰了",
       "onboard_time": 1718021658,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142065,
+      "num": 142065,
+      "word": "王星越吻技",
+      "onboard_time": 1718165060,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -7457,6 +7569,14 @@
       "onboard_time": 1718096537,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131764,
+      "num": 131764,
+      "word": "中国球迷给新加坡门将打钱",
+      "onboard_time": 1718163796,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131725,
@@ -7945,6 +8065,14 @@
       "onboard_time": 1718028438,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119293,
+      "num": 119293,
+      "word": "林俊杰年度百大风云歌手",
+      "onboard_time": 1718163499,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 119280,
@@ -9203,6 +9331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58800,
+      "num": 304716,
+      "word": "猫王大赛第一天有20万只猫报名",
+      "onboard_time": 1718164999,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58410,
       "num": 163459,
       "word": "走出考场再回头看一眼我们的青春",
@@ -9403,6 +9539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49583,
+      "num": 1264908,
+      "word": "文化遗址里的中国故事",
+      "onboard_time": 1718160017,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49322,
       "num": 429499,
       "word": "能当旅游搭子的爸爸有多可爱",
@@ -9563,14 +9707,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45015,
-      "num": 1199645,
-      "word": "文化遗址里的中国故事",
-      "onboard_time": 1718160017,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44694,
       "num": 137703,
       "word": "朱正廷清爽学长造型",
@@ -9633,6 +9769,14 @@
       "onboard_time": 1718011818,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 40665,
+      "num": 293724,
+      "word": "吴镇宇海澜之家",
+      "onboard_time": 1718165539,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 39947,

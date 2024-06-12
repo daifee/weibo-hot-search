@@ -1,6 +1,6 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718163384946,
+  "endTime": 1718166176592,
   "band_list": [
     {
       "raw_hot": 2786155,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1502394,
-      "num": 276475,
+      "num": 303405,
       "word": "耳朵总痒可能暗示这5种问题",
       "onboard_time": 1718155997,
       "rank": 24,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1438100,
-      "num": 521244,
+      "num": 553749,
       "word": "iPhone16将砍掉实体键改为电容式",
       "onboard_time": 1718159777,
       "rank": 23,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 1384310,
-      "num": 1134907,
+      "num": 1226946,
       "word": "小鬼确认担任TF三代导师",
       "onboard_time": 1718161398,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1331641,
+      "num": 1331641,
+      "word": "韩国小哥不信中国拿西瓜喂猪",
+      "onboard_time": 1718161698,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1128102,
@@ -81,6 +89,22 @@
       "onboard_time": 1718159838,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1090629,
+      "num": 624842,
+      "word": "玫瑰的故事原型 章小蕙",
+      "onboard_time": 1718163979,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1039982,
+      "num": 599790,
+      "word": "Jennie 晚奶",
+      "onboard_time": 1718163319,
+      "rank": 34,
+      "category": "艺人,网红"
     },
     {
       "raw_hot": 952100,
@@ -179,6 +203,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 545854,
+      "num": 545854,
+      "word": "涂山黑黑",
+      "onboard_time": 1718163440,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 534461,
+      "num": 589861,
+      "word": "法国凡尔赛宫失火",
+      "onboard_time": 1718160798,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529829,
       "num": 529829,
       "word": "孙兴慜回应做3比0手势",
@@ -220,7 +260,7 @@
     },
     {
       "raw_hot": 511607,
-      "num": 300194,
+      "num": 322179,
       "word": "女生高考结束后直接一睡不起",
       "onboard_time": 1718154078,
       "rank": 25,
@@ -307,8 +347,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387582,
+      "num": 387582,
+      "word": "国台办回应胡歌赴台参加文艺交流",
+      "onboard_time": 1718164460,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386472,
-      "num": 275692,
+      "num": 292103,
       "word": "男子潜水发现海底有11个密封坛",
       "onboard_time": 1718160979,
       "rank": 22,
@@ -361,6 +409,14 @@
       "onboard_time": 1718104757,
       "rank": 21,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 338781,
+      "num": 302772,
+      "word": "汪俊 如懿传",
+      "onboard_time": 1718164580,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 333830,
@@ -435,20 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 276944,
-      "num": 276944,
-      "word": "韩国小哥不信中国拿西瓜喂猪",
-      "onboard_time": 1718161698,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 276563,
       "num": 276563,
       "word": "龙俊亨时隔5年道歉",
       "onboard_time": 1718162119,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267523,
+      "num": 267523,
+      "word": "新加坡旅游局官方微博被中国球迷刷屏",
+      "onboard_time": 1718164760,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 265795,
@@ -481,6 +537,14 @@
       "onboard_time": 1718117782,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255180,
+      "num": 255180,
+      "word": "老公走路像醉酒妻子果断报警求抓",
+      "onboard_time": 1718164099,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249328,
@@ -531,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239544,
-      "num": 239544,
-      "word": "法国凡尔赛宫失火",
-      "onboard_time": 1718160798,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 242204,
+      "num": 242204,
+      "word": "马伯庸 剑网3",
+      "onboard_time": 1718165720,
+      "rank": 30,
+      "category": "读书作家,游戏"
     },
     {
       "raw_hot": 239225,
@@ -568,6 +632,14 @@
       "word": "王星越田曦薇曾合作初次爱你",
       "onboard_time": 1718122158,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 231808,
+      "num": 231808,
+      "word": "墨雨云间 扫楼",
+      "onboard_time": 1718163919,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -611,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207793,
+      "num": 207793,
+      "word": "轮到林更新出场了",
+      "onboard_time": 1718165660,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204978,
       "num": 204978,
       "word": "王星越口罩里敷着面膜",
@@ -649,6 +729,22 @@
       "onboard_time": 1718158457,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192128,
+      "num": 192128,
+      "word": "河南南阳一小区恶狗咬伤7人",
+      "onboard_time": 1718164340,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190912,
+      "num": 190912,
+      "word": "各做各的 很防弹少年团",
+      "onboard_time": 1718163499,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 188616,
@@ -707,20 +803,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177196,
+      "num": 177196,
+      "word": "樊振东连续500周世界前五",
+      "onboard_time": 1718166080,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174665,
       "num": 174665,
       "word": "国足出线新加坡旅游搜索暴涨5倍",
       "onboard_time": 1718158457,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171245,
-      "num": 171245,
-      "word": "Jennie 晚奶",
-      "onboard_time": 1718163319,
-      "rank": 34,
-      "category": "艺人,网红"
     },
     {
       "raw_hot": 170854,
@@ -827,6 +923,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 142700,
+      "num": 575899,
+      "word": "00后用AI帮人谈恋爱月入百万",
+      "onboard_time": 1718164819,
+      "rank": 9,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 142065,
+      "num": 142065,
+      "word": "王星越吻技",
+      "onboard_time": 1718165060,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142029,
       "num": 142029,
       "word": "登陆日",
@@ -849,6 +961,14 @@
       "onboard_time": 1718160558,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 131764,
+      "num": 131764,
+      "word": "中国球迷给新加坡门将打钱",
+      "onboard_time": 1718163796,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 130973,
@@ -921,6 +1041,14 @@
       "onboard_time": 1718111180,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119293,
+      "num": 119293,
+      "word": "林俊杰年度百大风云歌手",
+      "onboard_time": 1718163499,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 119075,
@@ -1131,6 +1259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58800,
+      "num": 304716,
+      "word": "猫王大赛第一天有20万只猫报名",
+      "onboard_time": 1718164999,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55455,
       "num": 537407,
       "word": "大数据看端午假期出行",
@@ -1147,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49583,
+      "num": 1264908,
+      "word": "文化遗址里的中国故事",
+      "onboard_time": 1718160017,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46141,
       "num": 46141,
       "word": "林更新感受满屏美甲暴击",
@@ -1155,20 +1299,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45015,
-      "num": 1199645,
-      "word": "文化遗址里的中国故事",
-      "onboard_time": 1718160017,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 42488,
       "num": 39842,
       "word": "风象星座不为人知的秘密",
       "onboard_time": 1718126833,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40665,
+      "num": 293724,
+      "word": "吴镇宇海澜之家",
+      "onboard_time": 1718165539,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 39406,
