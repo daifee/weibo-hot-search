@@ -1,0 +1,411 @@
+{
+  "startTime": 1718209480045,
+  "endTime": 1718209480045,
+  "band_list": [
+    {
+      "raw_hot": 579038,
+      "num": 579038,
+      "word": "刘亦菲一部剧带火了5个人",
+      "onboard_time": 1718200340,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 446075,
+      "num": 578551,
+      "word": "黄景瑜中国人民警察大学招生简章",
+      "onboard_time": 1718207958,
+      "rank": 3,
+      "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 353221,
+      "num": 577280,
+      "word": "女子出借20万元讨不回丈夫自杀",
+      "onboard_time": 1718205260,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352438,
+      "num": 578052,
+      "word": "彭冠英发文吐槽庄国栋",
+      "onboard_time": 1718205560,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 349341,
+      "num": 578429,
+      "word": "杰里韦斯特去世",
+      "onboard_time": 1718200698,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 317312,
+      "num": 577844,
+      "word": "怀疑张若昀工作室有我们自己人",
+      "onboard_time": 1718205200,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 313727,
+      "num": 578173,
+      "word": "女儿长成这样可以当童模吗",
+      "onboard_time": 1718198959,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 234233,
+      "num": 577098,
+      "word": "鞠婧祎 眉弓",
+      "onboard_time": 1718191038,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223575,
+      "num": 578965,
+      "word": "北京冰雹",
+      "onboard_time": 1718204060,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219260,
+      "num": 575545,
+      "word": "你喜欢的人突然有对象是什么感觉",
+      "onboard_time": 1718205619,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 211661,
+      "num": 576894,
+      "word": "北京偶遇刘亦菲逛街",
+      "onboard_time": 1718198480,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183943,
+      "num": 575264,
+      "word": "家门口遭捅死女孩曾被保送北外",
+      "onboard_time": 1718191398,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178365,
+      "num": 576489,
+      "word": "乐华否认程潇吴宣仪耍大牌",
+      "onboard_time": 1718192119,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162246,
+      "num": 576460,
+      "word": "Angelababy线下生图状态",
+      "onboard_time": 1718194759,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 158416,
+      "num": 577596,
+      "word": "韩国没有了五花肉自由",
+      "onboard_time": 1718191639,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155757,
+      "num": 576248,
+      "word": "桑尼食品摊被中国人买空",
+      "onboard_time": 1718203700,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150953,
+      "num": 575107,
+      "word": "毛不易现场",
+      "onboard_time": 1718207119,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 143821,
+      "num": 576015,
+      "word": "马斯克被曝与SpaceX多名员工有染",
+      "onboard_time": 1718188337,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129113,
+      "num": 574893,
+      "word": "刘亦菲霍建华香港文艺片氛围感",
+      "onboard_time": 1718196439,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120812,
+      "num": 574659,
+      "word": "女子炫了一斤杨梅被送进ICU",
+      "onboard_time": 1718183301,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118552,
+      "num": 574495,
+      "word": "黄亦玫方协文闪婚",
+      "onboard_time": 1718196259,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117062,
+      "num": 574455,
+      "word": "YG糟糕的公关",
+      "onboard_time": 1718204840,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109642,
+      "num": 574162,
+      "word": "某明星 坐电梯耍大牌",
+      "onboard_time": 1718176761,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103962,
+      "num": 573600,
+      "word": "林狗送猫",
+      "onboard_time": 1718203520,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103134,
+      "num": 575764,
+      "word": "拍到地球自转是什么体验",
+      "onboard_time": 1718198900,
+      "rank": 18,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 103023,
+      "num": 577468,
+      "word": "北京WB被让二追三",
+      "onboard_time": 1718204540,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 102002,
+      "num": 573932,
+      "word": "上戏回应林更新考博成功",
+      "onboard_time": 1718179880,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101759,
+      "num": 575559,
+      "word": "四川瓦屋山景区落石有游客被砸伤",
+      "onboard_time": 1718208378,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 100882,
+      "num": 573515,
+      "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
+      "onboard_time": 1718197159,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96845,
+      "num": 573120,
+      "word": "林更新上线霍建华也不远了",
+      "onboard_time": 1718202139,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89187,
+      "num": 572867,
+      "word": "墨雨云间 已老实求加更",
+      "onboard_time": 1718184380,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83704,
+      "num": 572294,
+      "word": "李梦模仿王星越叼玉佩",
+      "onboard_time": 1718203280,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77177,
+      "num": 573334,
+      "word": "吉林银行回应储户取款需派出所同意",
+      "onboard_time": 1718208017,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76818,
+      "num": 572795,
+      "word": "陈晓许凯王星越 于正严选",
+      "onboard_time": 1718195838,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 73736,
+      "num": 571847,
+      "word": "这是初恋吗 这是家里进贼了",
+      "onboard_time": 1718188099,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71661,
+      "num": 572483,
+      "word": "女儿刚高考完就支出了3万",
+      "onboard_time": 1718191639,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 70863,
+      "num": 571688,
+      "word": "网红胡涵溪93岁姥姥去世",
+      "onboard_time": 1718209037,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 70195,
+      "num": 571408,
+      "word": "吴宣仪机场视频",
+      "onboard_time": 1718193018,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69978,
+      "num": 572175,
+      "word": "印度贫民窟上百人共用一个厕所",
+      "onboard_time": 1718197400,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68867,
+      "num": 571977,
+      "word": "瓦屋山",
+      "onboard_time": 1718205200,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68420,
+      "num": 571148,
+      "word": "墨雨云间",
+      "onboard_time": 1718195479,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66226,
+      "num": 571171,
+      "word": "北京大风",
+      "onboard_time": 1718204180,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65943,
+      "num": 570760,
+      "word": "李梦在墨雨云间里演爽了",
+      "onboard_time": 1718197038,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62402,
+      "num": 570862,
+      "word": "欧洲杯赛程",
+      "onboard_time": 1718202081,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56225,
+      "num": 570600,
+      "word": "台湾奶奶为听乡音3刷繁花",
+      "onboard_time": 1718201240,
+      "rank": 47,
+      "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 48856,
+      "num": 570338,
+      "word": "人生可以大错特错",
+      "onboard_time": 1718204480,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 48329,
+      "num": 570169,
+      "word": "如何完整取下音乐节手环",
+      "onboard_time": 1718200220,
+      "rank": 49,
+      "category": "科学科普,演出"
+    },
+    {
+      "raw_hot": 44466,
+      "num": 578785,
+      "word": "中国航天员站在机械臂上和地球同框",
+      "onboard_time": 1718196558,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27179,
+      "num": 573898,
+      "word": "南京咖啡阿姨说天下没有不散的筵席",
+      "onboard_time": 1718209458,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22246,
+      "num": 576705,
+      "word": "花花七仔来给福宝扎场子",
+      "onboard_time": 1718207597,
+      "rank": 13,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#完善面向全球的创新体系#"
+    }
+  ]
+}
