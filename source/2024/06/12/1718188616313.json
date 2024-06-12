@@ -1,0 +1,410 @@
+{
+  "runTime": 1718188616313,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635452,
+        "num": 635452,
+        "word": "上戏回应林更新考博成功",
+        "onboard_time": 1718179880,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396200,
+        "num": 396200,
+        "word": "美国62岁男子杀29岁妻子藏尸冰柜",
+        "onboard_time": 1718181140,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16922,
+        "num": 346010,
+        "word": "炎炎夏日谢谢他们的坚守",
+        "onboard_time": 1718176521,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627101,
+        "num": 336213,
+        "word": "某明星 坐电梯耍大牌",
+        "onboard_time": 1718176761,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312455,
+        "num": 312455,
+        "word": "马斯克被曝与SpaceX多名员工有染",
+        "onboard_time": 1718188337,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304406,
+        "num": 304406,
+        "word": "范志毅谈孙兴慜挑衅手势",
+        "onboard_time": 1718183479,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397905,
+        "num": 303071,
+        "word": "墨雨云间 已老实求加更",
+        "onboard_time": 1718184380,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335805,
+        "num": 296883,
+        "word": "baby肚 猫咪纹",
+        "onboard_time": 1718181799,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289698,
+        "num": 289698,
+        "word": "杭州保姆保住东家900多万养老钱",
+        "onboard_time": 1718169919,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56832,
+        "num": 272553,
+        "word": "司机拒绝超载订单反被货运平台扣分",
+        "onboard_time": 1718187678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332098,
+        "num": 272232,
+        "word": "韩国UP主爆料20年前集体性侵案",
+        "onboard_time": 1718183599,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271852,
+        "num": 271852,
+        "word": "韩国总统夫人拎上了帆布包",
+        "onboard_time": 1718176101,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 316164,
+        "num": 266927,
+        "word": "女孩瞒着父母复读6年",
+        "onboard_time": 1718173578,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251250,
+        "num": 251250,
+        "word": "林更新考博成功",
+        "onboard_time": 1718161637,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251192,
+        "num": 251192,
+        "word": "养猫千万不要光着身子在家里",
+        "onboard_time": 1718181441,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241439,
+        "num": 241439,
+        "word": "kep1er一位",
+        "onboard_time": 1718186718,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 228710,
+        "num": 228710,
+        "word": "王星越说卢昱晓背台词快",
+        "onboard_time": 1718186178,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203292,
+        "num": 203292,
+        "word": "女子露营上厕所5分钟回来被偷家",
+        "onboard_time": 1718180840,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184185,
+        "num": 184185,
+        "word": "歌手2024",
+        "onboard_time": 1718168480,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183005,
+        "num": 183005,
+        "word": "福宝随地大小躺",
+        "onboard_time": 1718178380,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409282,
+        "num": 181905,
+        "word": "女子炫了一斤杨梅被送进ICU",
+        "onboard_time": 1718183301,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352531,
+        "num": 180705,
+        "word": "买一送一和五折哪个更划算",
+        "onboard_time": 1718185879,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 263193,
+        "num": 180210,
+        "word": "美国强生同意支付51亿元",
+        "onboard_time": 1718188099,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177205,
+        "num": 177205,
+        "word": "iPhone16将砍掉实体键改为电容式",
+        "onboard_time": 1718159777,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212242,
+        "num": 172278,
+        "word": "从西藏回来的人嘴是真的严",
+        "onboard_time": 1718184198,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192823,
+        "num": 166246,
+        "word": "这种踩屎感鞋正在一步步毁掉你的脚",
+        "onboard_time": 1718181020,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 154777,
+        "num": 154777,
+        "word": "男子初中门口摆拍接女友放学被拘",
+        "onboard_time": 1718186899,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153592,
+        "num": 153592,
+        "word": "戴簪花的萨摩耶",
+        "onboard_time": 1718185939,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144892,
+        "num": 144892,
+        "word": "狼队被零封",
+        "onboard_time": 1718181020,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144139,
+        "num": 144139,
+        "word": "赶海登岛成端午热门",
+        "onboard_time": 1718187199,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156689,
+        "num": 143198,
+        "word": "这是初恋吗 这是家里进贼了",
+        "onboard_time": 1718188099,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142098,
+        "num": 142098,
+        "word": "Doinb爆料iboy做陪玩去了",
+        "onboard_time": 1718187199,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128461,
+        "num": 128461,
+        "word": "胡歌抵达台湾",
+        "onboard_time": 1718167641,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127580,
+        "num": 127580,
+        "word": "亦舒",
+        "onboard_time": 1718184620,
+        "rank": 33,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 86268,
+        "num": 127053,
+        "word": "费大厨如何占领中国人餐桌",
+        "onboard_time": 1718183000,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22833,
+        "num": 126778,
+        "word": "FBI揭秘全美最大杀手组织",
+        "onboard_time": 1718187981,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126709,
+        "num": 126709,
+        "word": "榴莲降价没有最低只有更低",
+        "onboard_time": 1718178141,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120035,
+        "num": 120035,
+        "word": "JDG对战TCG",
+        "onboard_time": 1718185278,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53102,
+        "num": 115431,
+        "word": "智能座舱要噱头还是要实用",
+        "onboard_time": 1718188218,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114928,
+        "num": 114928,
+        "word": "十分钟厕所效应",
+        "onboard_time": 1718182400,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114475,
+        "num": 114475,
+        "word": "赵露思波点裙",
+        "onboard_time": 1718181199,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107920,
+        "num": 107920,
+        "word": "原来王星越当时真有别的姜二娘子",
+        "onboard_time": 1718182939,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104471,
+        "num": 104471,
+        "word": "白羊座慕的不仅仅是强",
+        "onboard_time": 1718187079,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104071,
+        "num": 104071,
+        "word": "用高脚杯喝螺蛳粉",
+        "onboard_time": 1718186538,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103474,
+        "num": 103474,
+        "word": "吴谨言晒薛芳菲击鼓申冤",
+        "onboard_time": 1718187018,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98319,
+        "num": 98319,
+        "word": "江疏影baby肚",
+        "onboard_time": 1718174780,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95270,
+        "num": 95270,
+        "word": "玫瑰的故事原型 章小蕙",
+        "onboard_time": 1718163979,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95060,
+        "num": 95060,
+        "word": "禁止神仙参加综艺",
+        "onboard_time": 1718180300,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94262,
+        "num": 94262,
+        "word": "王星越失恋了给爸爸打电话",
+        "onboard_time": 1718182579,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92199,
+        "num": 92199,
+        "word": "日本食人菌感染人数创新高",
+        "onboard_time": 1718178679,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央全面深化改革委员会第五次会议#"
+    }
+  }
+}
