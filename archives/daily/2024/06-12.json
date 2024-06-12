@@ -1,10 +1,10 @@
 {
   "startTime": 1718123103856,
-  "endTime": 1718155263173,
+  "endTime": 1718156536241,
   "band_list": [
     {
-      "raw_hot": 2415468,
-      "num": 2415468,
+      "raw_hot": 2680559,
+      "num": 2680559,
       "word": "福宝营业了",
       "onboard_time": 1718152097,
       "rank": 0,
@@ -43,6 +43,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 673913,
+      "num": 673913,
+      "word": "日本一10层公寓因遮挡富士山紧急拆除",
+      "onboard_time": 1718153778,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 672793,
+      "num": 672793,
+      "word": "福宝",
+      "onboard_time": 1718151981,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653224,
       "num": 431625,
       "word": "男子不舍朋友离开用锁链将其拴住",
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 619453,
-      "num": 246353,
+      "num": 284591,
       "word": "胃病发展到胃癌仅仅4步",
       "onboard_time": 1718147235,
       "rank": 21,
@@ -163,12 +179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403202,
-      "num": 403202,
-      "word": "福宝",
-      "onboard_time": 1718151981,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 392433,
+      "num": 277260,
+      "word": "女生高考结束后直接一睡不起",
+      "onboard_time": 1718154078,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 385302,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 382484,
-      "num": 245824,
+      "num": 265505,
       "word": "一直不知道床单是要勤换的",
       "onboard_time": 1718115561,
       "rank": 20,
@@ -211,12 +227,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 336169,
-      "num": 336169,
-      "word": "日本一10层公寓因遮挡富士山紧急拆除",
-      "onboard_time": 1718153778,
-      "rank": 14,
-      "category": "社会新闻"
+      "raw_hot": 329583,
+      "num": 329583,
+      "word": "田柾国军装",
+      "onboard_time": 1718155939,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 326559,
@@ -225,6 +241,14 @@
       "onboard_time": 1718153418,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320688,
+      "num": 320688,
+      "word": "中国日本韩国朝鲜全出线了",
+      "onboard_time": 1718151378,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 317586,
@@ -251,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 289146,
+      "num": 289146,
+      "word": "福宝新家画面曝光",
+      "onboard_time": 1718154378,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285122,
       "num": 195058,
       "word": "王星越壁纸",
@@ -267,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255893,
-      "num": 245432,
-      "word": "女生高考结束后直接一睡不起",
-      "onboard_time": 1718154078,
-      "rank": 25,
-      "category": "社会新闻,教育"
+      "raw_hot": 257979,
+      "num": 257979,
+      "word": "耳朵总痒可能暗示这5种问题",
+      "onboard_time": 1718155997,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 255524,
@@ -281,6 +313,14 @@
       "onboard_time": 1718117782,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249328,
+      "num": 249328,
+      "word": "福宝营业前在干嘛",
+      "onboard_time": 1718154798,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247447,
@@ -315,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245166,
-      "num": 245166,
-      "word": "中国日本韩国朝鲜全出线了",
-      "onboard_time": 1718151378,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 237239,
       "num": 157589,
       "word": "刘亦菲一年一句出圈名台词",
@@ -347,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230412,
+      "num": 230412,
+      "word": "黄亦玫为什么会突然跳舞",
+      "onboard_time": 1718151558,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223430,
       "num": 223430,
       "word": "闵玧其人呢",
@@ -355,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214744,
-      "num": 214744,
-      "word": "黄亦玫为什么会突然跳舞",
-      "onboard_time": 1718151558,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 215356,
+      "num": 215356,
+      "word": "水断食减肥在韩青少年盛行",
+      "onboard_time": 1718154499,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 204080,
@@ -371,12 +411,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193431,
-      "num": 193431,
-      "word": "福宝营业前在干嘛",
-      "onboard_time": 1718154798,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 202491,
+      "num": 202491,
+      "word": "黄鸡大笑",
+      "onboard_time": 1718155879,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 188616,
@@ -435,14 +475,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 168681,
-      "num": 168681,
-      "word": "福宝新家画面曝光",
-      "onboard_time": 1718154378,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168572,
       "num": 168572,
       "word": "佟大为 冻龄",
@@ -467,14 +499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164344,
-      "num": 164344,
-      "word": "水断食减肥在韩青少年盛行",
-      "onboard_time": 1718154499,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 164186,
       "num": 164186,
       "word": "长期开灯睡觉更易患上糖尿病",
@@ -483,12 +507,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 153530,
-      "num": 153530,
+      "raw_hot": 162729,
+      "num": 162729,
+      "word": "直播福宝亮相",
+      "onboard_time": 1718156298,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160460,
+      "num": 160460,
       "word": "iOS17升级率77%",
       "onboard_time": 1718151917,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 156045,
+      "num": 156045,
+      "word": "直播间陪福宝上班",
+      "onboard_time": 1718154259,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153097,
@@ -513,6 +553,14 @@
       "onboard_time": 1718119039,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139479,
+      "num": 139479,
+      "word": "原来中华猛龙化石是这样发现的",
+      "onboard_time": 1718155637,
+      "rank": 44,
+      "category": "科学科普"
     },
     {
       "raw_hot": 130973,
@@ -545,6 +593,14 @@
       "onboard_time": 1718148136,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124046,
+      "num": 124046,
+      "word": "唐尚珺回应未变现流量很可惜",
+      "onboard_time": 1718156477,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121407,
@@ -625,6 +681,14 @@
       "onboard_time": 1718117962,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95753,
+      "num": 402892,
+      "word": "高考报志愿要了解的16个关键词",
+      "onboard_time": 1718150116,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 94615,
@@ -796,7 +860,7 @@
     },
     {
       "raw_hot": 38898,
-      "num": 755277,
+      "num": 1017738,
       "word": "航拍视角看三夏时节麦收忙",
       "onboard_time": 1718112739,
       "rank": 2,

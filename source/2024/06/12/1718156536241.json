@@ -1,0 +1,410 @@
+{
+  "runTime": 1718156536241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2680559,
+        "num": 2680559,
+        "word": "福宝营业了",
+        "onboard_time": 1718152097,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1454509,
+        "num": 1454509,
+        "word": "新加坡门将感谢中国球迷",
+        "onboard_time": 1718150780,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35998,
+        "num": 1017738,
+        "word": "航拍视角看三夏时节麦收忙",
+        "onboard_time": 1718112739,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730396,
+        "num": 730396,
+        "word": "韩国地震",
+        "onboard_time": 1718151438,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699743,
+        "num": 699743,
+        "word": "谭晶 九儿",
+        "onboard_time": 1718149757,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 673913,
+        "num": 673913,
+        "word": "日本一10层公寓因遮挡富士山紧急拆除",
+        "onboard_time": 1718153778,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672793,
+        "num": 672793,
+        "word": "福宝",
+        "onboard_time": 1718151981,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461497,
+        "num": 461497,
+        "word": "端午档近十年最差",
+        "onboard_time": 1718120599,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 444477,
+        "num": 444477,
+        "word": "刘亦菲为了气我真是什么戏都接",
+        "onboard_time": 1718112020,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95753,
+        "num": 402892,
+        "word": "高考报志愿要了解的16个关键词",
+        "onboard_time": 1718150116,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 383663,
+        "num": 383663,
+        "word": "苹果市值一夜大涨超1.5万亿",
+        "onboard_time": 1718147475,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 381878,
+        "num": 381878,
+        "word": "家长举华晨宇海报迎接考生",
+        "onboard_time": 1718148316,
+        "rank": 11,
+        "category": "教育,艺人"
+      },
+      {
+        "raw_hot": 373840,
+        "num": 373840,
+        "word": "女员工因担心走光上班打伞遭开除",
+        "onboard_time": 1718104818,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360107,
+        "num": 360107,
+        "word": "何超莲要演戏了",
+        "onboard_time": 1718149517,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341742,
+        "num": 341742,
+        "word": "国足晋级18强意味着什么",
+        "onboard_time": 1718149757,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329583,
+        "num": 329583,
+        "word": "田柾国军装",
+        "onboard_time": 1718155939,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320688,
+        "num": 320688,
+        "word": "中国日本韩国朝鲜全出线了",
+        "onboard_time": 1718151378,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303043,
+        "num": 303043,
+        "word": "BTS合体",
+        "onboard_time": 1718153418,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289146,
+        "num": 289146,
+        "word": "福宝新家画面曝光",
+        "onboard_time": 1718154378,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284753,
+        "num": 284753,
+        "word": "福宝出门前奶爸四川话碎碎念",
+        "onboard_time": 1718148675,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607660,
+        "num": 284591,
+        "word": "胃病发展到胃癌仅仅4步",
+        "onboard_time": 1718147235,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 408146,
+        "num": 283176,
+        "word": "男子不舍朋友离开用锁链将其拴住",
+        "onboard_time": 1718123056,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392433,
+        "num": 277260,
+        "word": "女生高考结束后直接一睡不起",
+        "onboard_time": 1718154078,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 265505,
+        "num": 265505,
+        "word": "一直不知道床单是要勤换的",
+        "onboard_time": 1718115561,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257979,
+        "num": 257979,
+        "word": "耳朵总痒可能暗示这5种问题",
+        "onboard_time": 1718155997,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 249328,
+        "num": 249328,
+        "word": "福宝营业前在干嘛",
+        "onboard_time": 1718154798,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234029,
+        "num": 234029,
+        "word": "范丞丞携爱女给Capper打call",
+        "onboard_time": 1718153718,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230412,
+        "num": 230412,
+        "word": "黄亦玫为什么会突然跳舞",
+        "onboard_time": 1718151558,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215356,
+        "num": 215356,
+        "word": "水断食减肥在韩青少年盛行",
+        "onboard_time": 1718154499,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202491,
+        "num": 202491,
+        "word": "黄鸡大笑",
+        "onboard_time": 1718155879,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195501,
+        "num": 195501,
+        "word": "吴谨言 掌公主",
+        "onboard_time": 1718118321,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186964,
+        "num": 186964,
+        "word": "按艺人出道顺序排序",
+        "onboard_time": 1718143692,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183730,
+        "num": 183730,
+        "word": "一法国游客在俄发射场附近身亡",
+        "onboard_time": 1718148496,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180801,
+        "num": 180801,
+        "word": "庄国栋去德国留学就好了",
+        "onboard_time": 1718148737,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178598,
+        "num": 178598,
+        "word": "王大雷怒骂方昊",
+        "onboard_time": 1718150899,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166375,
+        "num": 166375,
+        "word": "闵玧其人呢",
+        "onboard_time": 1718153358,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164213,
+        "num": 164213,
+        "word": "王星越对女星姐姐的称呼",
+        "onboard_time": 1718149577,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162729,
+        "num": 162729,
+        "word": "直播福宝亮相",
+        "onboard_time": 1718156298,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160460,
+        "num": 160460,
+        "word": "iOS17升级率77%",
+        "onboard_time": 1718151917,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156045,
+        "num": 156045,
+        "word": "直播间陪福宝上班",
+        "onboard_time": 1718154259,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155090,
+        "num": 155090,
+        "word": "凌晨新疆接连发生两场地震",
+        "onboard_time": 1718153300,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152759,
+        "num": 152759,
+        "word": "金硕珍退伍",
+        "onboard_time": 1718152039,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145932,
+        "num": 145932,
+        "word": "睡前饿了真正推荐吃的食物",
+        "onboard_time": 1718128453,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143897,
+        "num": 143897,
+        "word": "国足晋级18强赛",
+        "onboard_time": 1718116584,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139479,
+        "num": 139479,
+        "word": "原来中华猛龙化石是这样发现的",
+        "onboard_time": 1718155637,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 135581,
+        "num": 135581,
+        "word": "孙兴慜回应做3比0手势",
+        "onboard_time": 1718116523,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133988,
+        "num": 133988,
+        "word": "周杰伦因感冒药写了首歌",
+        "onboard_time": 1718118321,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 132838,
+        "num": 132838,
+        "word": "iOS18可检测是否正使用慢速充电器",
+        "onboard_time": 1718149757,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129298,
+        "num": 129298,
+        "word": "退钱哥说从未想过以这种方式出线",
+        "onboard_time": 1718150538,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124046,
+        "num": 124046,
+        "word": "唐尚珺回应未变现流量很可惜",
+        "onboard_time": 1718156477,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#立足中国大地讲好中华文明故事#"
+    }
+  }
+}
