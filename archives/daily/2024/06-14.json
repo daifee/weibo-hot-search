@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718310912358,
+  "endTime": 1718313567580,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40399,
+      "num": 20696,
+      "word": "猪肉价格为何突然起飞",
+      "onboard_time": 1718310010,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 39089,
       "num": 629783,
       "word": "请查收你的预防中暑小贴士",
@@ -467,20 +475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31252,
+      "num": 31252,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 30022,
       "num": 372853,
       "word": "南海沉船打捞出的文物惊艳了",
       "onboard_time": 1718269578,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28457,
-      "num": 28457,
-      "word": "猫咪伪造自己一直在家睡觉的事实",
-      "onboard_time": 1718307191,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 27127,
@@ -507,20 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19088,
-      "num": 19088,
-      "word": "猪肉价格为何突然起飞",
-      "onboard_time": 1718310010,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 16387,
       "num": 116380,
       "word": "民警送钱上门阿姨才知自己丢了十几万",
       "onboard_time": 1718298015,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15047,
+      "num": 18412,
+      "word": "男童被教练打死案家属发声",
+      "onboard_time": 1718312350,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14650,
+      "num": 18406,
+      "word": "京东因春晚超额大奖被罚5万元",
+      "onboard_time": 1718313130,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 14391,
