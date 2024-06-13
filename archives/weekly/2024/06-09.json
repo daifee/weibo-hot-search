@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718318102356,
+  "endTime": 1718320773445,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -697,6 +697,14 @@
       "onboard_time": 1717938918,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1043486,
+      "num": 1043486,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1035387,
@@ -1648,6 +1656,14 @@
       "word": "考生冲出考场太激动拥抱家人遭重摔",
       "onboard_time": 1717888393,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668399,
+      "num": 668399,
+      "word": "男童被教练打死案家属发声",
+      "onboard_time": 1718312350,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -2616,14 +2632,6 @@
       "word": "女孩瞒着父母复读6年",
       "onboard_time": 1718173578,
       "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 492484,
-      "num": 492484,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -5419,6 +5427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265543,
+      "num": 165035,
+      "word": "江西一爆炸事故致5死25伤",
+      "onboard_time": 1718320274,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 264449,
       "num": 482035,
       "word": "福宝探头探脑与大家见面",
@@ -5705,6 +5721,14 @@
       "onboard_time": 1718031019,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 249728,
+      "num": 249728,
+      "word": "原来老师才是那个被留下的孩子",
+      "onboard_time": 1718320216,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 249487,
@@ -6017,6 +6041,14 @@
       "onboard_time": 1718195838,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 238455,
+      "num": 238455,
+      "word": "郑恺苗苗结束韩国度假回国了",
+      "onboard_time": 1718308030,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 238423,
@@ -7131,6 +7163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202576,
+      "num": 202576,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 202491,
       "num": 202491,
       "word": "黄鸡大笑",
@@ -7225,14 +7265,6 @@
       "onboard_time": 1717940358,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200591,
-      "num": 200591,
-      "word": "男童被教练打死案家属发声",
-      "onboard_time": 1718312350,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200303,
@@ -8537,6 +8569,14 @@
       "onboard_time": 1717995798,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175695,
+      "num": 72493,
+      "word": "京东因春晚超额大奖被罚5万元",
+      "onboard_time": 1718313130,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 175666,
@@ -10291,6 +10331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 143254,
+      "num": 143254,
+      "word": "尚雯婕去歌手不坐飞机的原因",
+      "onboard_time": 1718320575,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143222,
       "num": 143222,
       "word": "植物大战僵尸杂交版",
@@ -10784,6 +10832,14 @@
       "word": "张凌赫回复陈都灵",
       "onboard_time": 1718030419,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136006,
+      "num": 136006,
+      "word": "姜元柏你要不看一下你老婆衣服颜色",
+      "onboard_time": 1718289738,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -11363,14 +11419,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 127666,
-      "num": 127666,
-      "word": "姜元柏你要不看一下你老婆衣服颜色",
-      "onboard_time": 1718289738,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127237,
       "num": 127237,
       "word": "狗子嫌家热到隔壁蹭空调",
@@ -11899,14 +11947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118947,
-      "num": 37852,
-      "word": "京东因春晚超额大奖被罚5万元",
-      "onboard_time": 1718313130,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 118667,
       "num": 118667,
       "word": "菲常萧张",
@@ -12201,14 +12241,6 @@
       "onboard_time": 1718105359,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 113960,
-      "num": 113960,
-      "word": "猫咪伪造自己一直在家睡觉的事实",
-      "onboard_time": 1718307191,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 113950,
@@ -13067,14 +13099,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 95617,
-      "num": 68843,
-      "word": "郑恺苗苗结束韩国度假回国了",
-      "onboard_time": 1718308030,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95389,
       "num": 95389,
       "word": "高考落幕是结束也是开始",
@@ -13411,6 +13435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83888,
+      "num": 69328,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 83844,
       "num": 329502,
       "word": "苏炳添回应帅气高考生喊话",
@@ -13723,6 +13755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66308,
+      "num": 66308,
+      "word": "猪肉价格为何突然起飞",
+      "onboard_time": 1718310010,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 66175,
       "num": 881714,
       "word": "被中国皮影戏的灵动征服了",
@@ -13979,14 +14019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 57643,
-      "num": 37786,
-      "word": "猪肉价格为何突然起飞",
-      "onboard_time": 1718310010,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 57601,
       "num": 67297,
       "word": "玫瑰的故事苏更生被继父侵犯",
@@ -14129,6 +14161,14 @@
       "onboard_time": 1717907717,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53997,
+      "num": 53997,
+      "word": "马立奥没抢到周杰伦的票",
+      "onboard_time": 1718316853,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 53102,
@@ -14579,8 +14619,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40844,
-      "num": 40844,
+      "raw_hot": 40905,
+      "num": 40905,
       "word": "黄亦玫 白羊座",
       "onboard_time": 1718300652,
       "rank": 30,
@@ -14673,14 +14713,6 @@
       "onboard_time": 1717931357,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 36891,
-      "num": 36891,
-      "word": "茅台市值跌掉一个青岛啤酒",
-      "onboard_time": 1718305931,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 36835,
@@ -14857,14 +14889,6 @@
       "onboard_time": 1718190437,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31439,
-      "num": 36068,
-      "word": "马立奥没抢到周杰伦的票",
-      "onboard_time": 1718316853,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 30873,
@@ -15155,12 +15179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19376,
+      "num": 158013,
+      "word": "河北一高校因天气炎热改上线上课",
+      "onboard_time": 1718320274,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19190,
       "num": 27364,
       "word": "欧洲议会选举",
       "onboard_time": 1718051591,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 18827,
+      "num": 40006,
+      "word": "父亲婚礼上将女儿手交出瞬间破防",
+      "onboard_time": 1718320455,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 18768,

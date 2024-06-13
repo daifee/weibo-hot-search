@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718318102356,
+  "endTime": 1718320773445,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -11,12 +11,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1043486,
+      "num": 1043486,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751862,
       "num": 751862,
       "word": "林更新这个真骂不了",
       "onboard_time": 1718286138,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 668399,
+      "num": 668399,
+      "word": "男童被教练打死案家属发声",
+      "onboard_time": 1718312350,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 632878,
@@ -33,14 +49,6 @@
       "onboard_time": 1718292619,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 492484,
-      "num": 492484,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430374,
@@ -107,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265543,
+      "num": 165035,
+      "word": "江西一爆炸事故致5死25伤",
+      "onboard_time": 1718320274,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 249728,
+      "num": 249728,
+      "word": "原来老师才是那个被留下的孩子",
+      "onboard_time": 1718320216,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 249646,
       "num": 177041,
       "word": "刘亦菲蓝色泳装",
@@ -131,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238455,
+      "num": 238455,
+      "word": "郑恺苗苗结束韩国度假回国了",
+      "onboard_time": 1718308030,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228316,
       "num": 228316,
       "word": "中专女生爆冷拿下数学竞赛全球12名",
@@ -147,12 +179,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 200591,
-      "num": 200591,
-      "word": "男童被教练打死案家属发声",
-      "onboard_time": 1718312350,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 202576,
+      "num": 202576,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 175695,
+      "num": 72493,
+      "word": "京东因春晚超额大奖被罚5万元",
+      "onboard_time": 1718313130,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 175168,
@@ -195,12 +235,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143254,
+      "num": 143254,
+      "word": "尚雯婕去歌手不坐飞机的原因",
+      "onboard_time": 1718320575,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139155,
       "num": 119683,
       "word": "佟大为恭喜林更新上岸",
       "onboard_time": 1718293698,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136006,
+      "num": 136006,
+      "word": "姜元柏你要不看一下你老婆衣服颜色",
+      "onboard_time": 1718289738,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127321,
+      "num": 127321,
+      "word": "靠锅气来分辨预制菜已经没用了",
+      "onboard_time": 1718283618,
+      "rank": 45,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 123083,
@@ -217,22 +281,6 @@
       "onboard_time": 1718277977,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118947,
-      "num": 37852,
-      "word": "京东因春晚超额大奖被罚5万元",
-      "onboard_time": 1718313130,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 113960,
-      "num": 113960,
-      "word": "猫咪伪造自己一直在家睡觉的事实",
-      "onboard_time": 1718307191,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 112974,
@@ -299,14 +347,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95617,
-      "num": 68843,
-      "word": "郑恺苗苗结束韩国度假回国了",
-      "onboard_time": 1718308030,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93293,
       "num": 93293,
       "word": "被迷你小房间惊艳到了",
@@ -339,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 87530,
-      "num": 87181,
-      "word": "姜元柏你要不看一下你老婆衣服颜色",
-      "onboard_time": 1718289738,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87203,
       "num": 87203,
       "word": "谢娜新综艺官宣",
@@ -361,6 +393,14 @@
       "onboard_time": 1718287038,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83888,
+      "num": 69328,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 81560,
@@ -387,20 +427,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72204,
+      "num": 382315,
+      "word": "南海沉船打捞出的文物惊艳了",
+      "onboard_time": 1718269578,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71066,
       "num": 71125,
       "word": "声优祭",
       "onboard_time": 1718299453,
       "rank": 23,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 70962,
-      "num": 70962,
-      "word": "靠锅气来分辨预制菜已经没用了",
-      "onboard_time": 1718283618,
-      "rank": 45,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 70067,
@@ -427,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66308,
+      "num": 66308,
+      "word": "猪肉价格为何突然起飞",
+      "onboard_time": 1718310010,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 59976,
       "num": 68610,
       "word": "吴谨言 快把评论拿走",
       "onboard_time": 1718286619,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57643,
-      "num": 37786,
-      "word": "猪肉价格为何突然起飞",
-      "onboard_time": 1718310010,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 57601,
@@ -467,6 +507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 53997,
+      "num": 53997,
+      "word": "马立奥没抢到周杰伦的票",
+      "onboard_time": 1718316853,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 48186,
       "num": 68607,
       "word": "剑网三",
@@ -483,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 40844,
-      "num": 40844,
+      "raw_hot": 40905,
+      "num": 40905,
       "word": "黄亦玫 白羊座",
       "onboard_time": 1718300652,
       "rank": 30,
@@ -497,30 +545,6 @@
       "onboard_time": 1718284038,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37699,
-      "num": 372853,
-      "word": "南海沉船打捞出的文物惊艳了",
-      "onboard_time": 1718269578,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36891,
-      "num": 36891,
-      "word": "茅台市值跌掉一个青岛啤酒",
-      "onboard_time": 1718305931,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 31439,
-      "num": 36068,
-      "word": "马立奥没抢到周杰伦的票",
-      "onboard_time": 1718316853,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 27127,
@@ -545,6 +569,22 @@
       "onboard_time": 1718300113,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19376,
+      "num": 158013,
+      "word": "河北一高校因天气炎热改上线上课",
+      "onboard_time": 1718320274,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18827,
+      "num": 40006,
+      "word": "父亲婚礼上将女儿手交出瞬间破防",
+      "onboard_time": 1718320455,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16387,
