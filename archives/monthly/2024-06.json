@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718292050460,
+  "endTime": 1718292858424,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -491,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1802839,
+      "num": 1802839,
+      "word": "5km 倒闭",
+      "onboard_time": 1718289020,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 1784738,
       "num": 1784738,
       "word": "迪丽热巴新歌首发",
@@ -881,14 +889,6 @@
       "onboard_time": 1718157138,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1509490,
-      "num": 1509490,
-      "word": "5km 倒闭",
-      "onboard_time": 1718289020,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 1502394,
@@ -4779,7 +4779,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 655897,
+      "raw_hot": 657087,
       "num": 202346,
       "word": "韩国女子20年前遭集体性侵",
       "onboard_time": 1718288958,
@@ -5817,6 +5817,14 @@
       "onboard_time": 1717344378,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 574306,
+      "num": 198480,
+      "word": "结婚33天了俩人就没做过饭",
+      "onboard_time": 1718290039,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 574242,
@@ -8089,14 +8097,6 @@
       "onboard_time": 1717415598,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 451024,
-      "num": 198480,
-      "word": "结婚33天了俩人就没做过饭",
-      "onboard_time": 1718290039,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 450635,
@@ -12723,6 +12723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292685,
+      "num": 195099,
+      "word": "年级倒一和年级第一的友情",
+      "onboard_time": 1718289020,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292450,
       "num": 292450,
       "word": "剑网3",
@@ -13129,14 +13137,6 @@
       "onboard_time": 1717647079,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283474,
-      "num": 195099,
-      "word": "年级倒一和年级第一的友情",
-      "onboard_time": 1718289020,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 283346,
@@ -14825,6 +14825,14 @@
       "onboard_time": 1718246296,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 247231,
+      "num": 228486,
+      "word": "张百乔评论网友法院见",
+      "onboard_time": 1718292619,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 247226,
@@ -21123,6 +21131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179712,
+      "num": 179712,
+      "word": "方协文婚前自卑婚后偏执",
+      "onboard_time": 1718292198,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179566,
       "num": 179566,
       "word": "我在考场门口滑倒了当事人发声",
@@ -24089,6 +24105,14 @@
       "onboard_time": 1717843938,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 156988,
+      "num": 181307,
+      "word": "广东人已发霉求放过",
+      "onboard_time": 1718291839,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156854,
@@ -30547,14 +30571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115310,
-      "num": 115310,
-      "word": "广东人已发霉求放过",
-      "onboard_time": 1718291839,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115241,
       "num": 115241,
       "word": "周深跳撕张真源",
@@ -34443,6 +34459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69161,
+      "num": 262595,
+      "word": "工作后还有必要提升学历吗",
+      "onboard_time": 1718290580,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 69046,
       "num": 65108,
       "word": "李昀锐 这不是我原本实力",
@@ -34553,14 +34577,6 @@
       "onboard_time": 1717503138,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67029,
-      "num": 262595,
-      "word": "工作后还有必要提升学历吗",
-      "onboard_time": 1718290580,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 66773,
@@ -35979,6 +35995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48130,
+      "num": 187997,
+      "word": "深蓝CEO称我们不卖期货产品",
+      "onboard_time": 1718288479,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48123,
       "num": 147777,
       "word": "比亚迪邀百名足球少年去欧洲杯",
@@ -36097,14 +36121,6 @@
       "onboard_time": 1717889595,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46703,
-      "num": 187997,
-      "word": "深蓝CEO称我们不卖期货产品",
-      "onboard_time": 1718288479,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 46615,
@@ -36537,6 +36553,14 @@
       "onboard_time": 1717279632,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 40213,
+      "num": 185084,
+      "word": "学生认为做错的实验竟破解世纪难题",
+      "onboard_time": 1718292679,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40068,
@@ -37363,6 +37387,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29189,
+      "num": 117091,
+      "word": "山东已经热到发烫了",
+      "onboard_time": 1718292558,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29186,
       "num": 27236,
       "word": "胖人有个致命的缺点叫怕浪费",
@@ -37555,6 +37587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25908,
+      "num": 175117,
+      "word": "深蓝G318",
+      "onboard_time": 1718290398,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25780,
       "num": 393628,
       "word": "塔图姆回应最佳球员讨论",
@@ -37593,14 +37633,6 @@
       "onboard_time": 1717235357,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25303,
-      "num": 175117,
-      "word": "深蓝G318",
-      "onboard_time": 1718290398,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 25029,

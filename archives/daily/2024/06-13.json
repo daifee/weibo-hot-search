@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718292050460,
+  "endTime": 1718292858424,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -17,6 +17,14 @@
       "onboard_time": 1718254760,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1802839,
+      "num": 1802839,
+      "word": "5km 倒闭",
+      "onboard_time": 1718289020,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 1726383,
@@ -57,14 +65,6 @@
       "onboard_time": 1718259079,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1509490,
-      "num": 1509490,
-      "word": "5km 倒闭",
-      "onboard_time": 1718289020,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 1406556,
@@ -331,7 +331,7 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 655897,
+      "raw_hot": 657087,
       "num": 202346,
       "word": "韩国女子20年前遭集体性侵",
       "onboard_time": 1718288958,
@@ -385,6 +385,14 @@
       "onboard_time": 1718200340,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 574306,
+      "num": 198480,
+      "word": "结婚33天了俩人就没做过饭",
+      "onboard_time": 1718290039,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 571643,
@@ -569,14 +577,6 @@
       "onboard_time": 1718249477,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 451024,
-      "num": 198480,
-      "word": "结婚33天了俩人就没做过饭",
-      "onboard_time": 1718290039,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 449872,
@@ -1003,6 +1003,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 292685,
+      "num": 195099,
+      "word": "年级倒一和年级第一的友情",
+      "onboard_time": 1718289020,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 292450,
       "num": 292450,
       "word": "剑网3",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1718263999,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 283474,
-      "num": 195099,
-      "word": "年级倒一和年级第一的友情",
-      "onboard_time": 1718289020,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 282938,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1718246296,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 247231,
+      "num": 228486,
+      "word": "张百乔评论网友法院见",
+      "onboard_time": 1718292619,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 246993,
@@ -1787,6 +1795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179712,
+      "num": 179712,
+      "word": "方协文婚前自卑婚后偏执",
+      "onboard_time": 1718292198,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178869,
       "num": 178869,
       "word": "林更新爷爷修表都不忘替他找对象",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1718242818,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 156988,
+      "num": 181307,
+      "word": "广东人已发霉求放过",
+      "onboard_time": 1718291839,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156854,
@@ -2555,14 +2579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115310,
-      "num": 115310,
-      "word": "广东人已发霉求放过",
-      "onboard_time": 1718291839,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115109,
       "num": 115109,
       "word": "乒乓世界",
@@ -3011,20 +3027,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69161,
+      "num": 262595,
+      "word": "工作后还有必要提升学历吗",
+      "onboard_time": 1718290580,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68867,
       "num": 571977,
       "word": "瓦屋山",
       "onboard_time": 1718205200,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67029,
-      "num": 262595,
-      "word": "工作后还有必要提升学历吗",
-      "onboard_time": 1718290580,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 66226,
@@ -3187,20 +3203,20 @@
       "category": "科学科普,演出"
     },
     {
+      "raw_hot": 48130,
+      "num": 187997,
+      "word": "深蓝CEO称我们不卖期货产品",
+      "onboard_time": 1718288479,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47081,
       "num": 47081,
       "word": "黄亦玫徐海乔cp 玫进海选",
       "onboard_time": 1718228412,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46703,
-      "num": 187997,
-      "word": "深蓝CEO称我们不卖期货产品",
-      "onboard_time": 1718288479,
-      "rank": 25,
-      "category": "汽车"
     },
     {
       "raw_hot": 46615,
@@ -3273,6 +3289,14 @@
       "onboard_time": 1718197278,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40213,
+      "num": 185084,
+      "word": "学生认为做错的实验竟破解世纪难题",
+      "onboard_time": 1718292679,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36031,
@@ -3371,20 +3395,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 29189,
+      "num": 117091,
+      "word": "山东已经热到发烫了",
+      "onboard_time": 1718292558,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25908,
+      "num": 175117,
+      "word": "深蓝G318",
+      "onboard_time": 1718290398,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25780,
       "num": 393628,
       "word": "塔图姆回应最佳球员讨论",
       "onboard_time": 1718280017,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25303,
-      "num": 175117,
-      "word": "深蓝G318",
-      "onboard_time": 1718290398,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 22272,
