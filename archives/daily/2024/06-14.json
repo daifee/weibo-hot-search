@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718317123308,
+  "endTime": 1718318102356,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 492484,
+      "num": 492484,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430374,
       "num": 121862,
       "word": "结婚33天了俩人就没做过饭",
@@ -49,14 +57,6 @@
       "onboard_time": 1718288540,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 365555,
-      "num": 365555,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361950,
@@ -147,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 200591,
+      "num": 200591,
+      "word": "男童被教练打死案家属发声",
+      "onboard_time": 1718312350,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175168,
       "num": 175168,
       "word": "王健林王思聪父子重回创富榜前十",
@@ -209,6 +217,22 @@
       "onboard_time": 1718277977,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118947,
+      "num": 37852,
+      "word": "京东因春晚超额大奖被罚5万元",
+      "onboard_time": 1718313130,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 113960,
+      "num": 113960,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 112974,
@@ -275,20 +299,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95617,
+      "num": 68843,
+      "word": "郑恺苗苗结束韩国度假回国了",
+      "onboard_time": 1718308030,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93293,
       "num": 93293,
       "word": "被迷你小房间惊艳到了",
       "onboard_time": 1718293877,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92735,
-      "num": 92735,
-      "word": "男童被教练打死案家属发声",
-      "onboard_time": 1718312350,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91761,
@@ -331,14 +355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87045,
-      "num": 87045,
-      "word": "猫咪伪造自己一直在家睡觉的事实",
-      "onboard_time": 1718307191,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 86849,
       "num": 86849,
       "word": "王源已读乱回",
@@ -379,6 +395,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 70962,
+      "num": 70962,
+      "word": "靠锅气来分辨预制菜已经没用了",
+      "onboard_time": 1718283618,
+      "rank": 45,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 70067,
       "num": 70067,
       "word": "中国女排重回亚洲首位",
@@ -403,22 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67382,
-      "num": 68633,
-      "word": "靠锅气来分辨预制菜已经没用了",
-      "onboard_time": 1718283618,
-      "rank": 45,
-      "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 67020,
-      "num": 55969,
-      "word": "郑恺苗苗结束韩国度假回国了",
-      "onboard_time": 1718308030,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59976,
       "num": 68610,
       "word": "吴谨言 快把评论拿走",
@@ -427,16 +435,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58397,
-      "num": 33416,
-      "word": "京东因春晚超额大奖被罚5万元",
-      "onboard_time": 1718313130,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 57643,
-      "num": 33393,
+      "num": 37786,
       "word": "猪肉价格为何突然起飞",
       "onboard_time": 1718310010,
       "rank": 49,
@@ -499,20 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33230,
-      "num": 33230,
+      "raw_hot": 37699,
+      "num": 372853,
+      "word": "南海沉船打捞出的文物惊艳了",
+      "onboard_time": 1718269578,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36891,
+      "num": 36891,
       "word": "茅台市值跌掉一个青岛啤酒",
       "onboard_time": 1718305931,
       "rank": 47,
       "category": "财经"
     },
     {
-      "raw_hot": 30022,
-      "num": 372853,
-      "word": "南海沉船打捞出的文物惊艳了",
-      "onboard_time": 1718269578,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 31439,
+      "num": 36068,
+      "word": "马立奥没抢到周杰伦的票",
+      "onboard_time": 1718316853,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 27127,
@@ -523,20 +531,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 23694,
-      "num": 27674,
-      "word": "开始审判方协文",
-      "onboard_time": 1718300113,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20738,
-      "num": 27716,
+      "raw_hot": 25512,
+      "num": 35873,
       "word": "牛肉斤价跌破30元",
       "onboard_time": 1718315952,
       "rank": 44,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 23694,
+      "num": 35693,
+      "word": "开始审判方协文",
+      "onboard_time": 1718300113,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 16387,
@@ -545,14 +553,6 @@
       "onboard_time": 1718298015,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15582,
-      "num": 27687,
-      "word": "马立奥没抢到周杰伦的票",
-      "onboard_time": 1718316853,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 14391,
