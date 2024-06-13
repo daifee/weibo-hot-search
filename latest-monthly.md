@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/14 00:25:25
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/14 00:40:49
 </p>
 </blockquote>
 <p>
@@ -3801,6 +3801,12 @@ lululemon在美国卖不动了（热度：650950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%B8%8D%E6%88%B4%E6%89%8B%E5%A5%97%E9%93%B2%E9%99%A4%E7%A6%8F%E5%AF%BF%E8%9E%BA%E6%84%9F%E6%9F%93%E5%AF%84%E7%94%9F%E8%99%AB%23" target="weibo">
+夫妻不戴手套铲除福寿螺感染寄生虫（热度：632878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%E8%BA%AB%E4%BD%93%E5%B9%B4%E9%BE%84%E5%8F%AA%E6%9C%89%E4%B8%89%E5%8D%81%E5%B2%81%E5%B7%A6%E5%8F%B3%23" target="weibo">
 李晨身体年龄只有三十岁左右（热度：630339）
 </a>
@@ -4661,12 +4667,6 @@ AI写AI（热度：545645）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EXOCBX%E5%B0%86%E5%91%8A%E5%8F%91SM%23" target="weibo">
 EXOCBX将告发SM（热度：544733）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%B8%8D%E6%88%B4%E6%89%8B%E5%A5%97%E9%93%B2%E9%99%A4%E7%A6%8F%E5%AF%BF%E8%9E%BA%E6%84%9F%E6%9F%93%E5%AF%84%E7%94%9F%E8%99%AB%23" target="weibo">
-夫妻不戴手套铲除福寿螺感染寄生虫（热度：544596）
 </a>
 </li>
 

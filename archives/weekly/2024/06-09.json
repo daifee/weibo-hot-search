@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718295925521,
+  "endTime": 1718296849596,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -1811,6 +1811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 632878,
+      "num": 122173,
+      "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
+      "onboard_time": 1718293817,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630339,
       "num": 343497,
       "word": "李晨身体年龄只有三十岁左右",
@@ -2193,14 +2201,6 @@
       "onboard_time": 1717984457,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544596,
-      "num": 122173,
-      "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
-      "onboard_time": 1718293817,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 544408,
@@ -5972,7 +5972,7 @@
     },
     {
       "raw_hot": 239579,
-      "num": 122999,
+      "num": 137621,
       "word": "刘亦菲说很荣幸和彭冠英合作",
       "onboard_time": 1718292858,
       "rank": 18,
@@ -9819,6 +9819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151562,
+      "num": 185084,
+      "word": "学生认为做错的实验竟破解世纪难题",
+      "onboard_time": 1718292679,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151452,
       "num": 151452,
       "word": "陈雨菲卫冕印尼赛",
@@ -10273,14 +10281,6 @@
       "onboard_time": 1717946118,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142994,
-      "num": 185084,
-      "word": "学生认为做错的实验竟破解世纪难题",
-      "onboard_time": 1718292679,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142933,
@@ -13107,6 +13107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 93293,
+      "num": 93293,
+      "word": "被迷你小房间惊艳到了",
+      "onboard_time": 1718293877,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93145,
       "num": 93145,
       "word": "BLG战胜WE",
@@ -13145,14 +13153,6 @@
       "onboard_time": 1718086400,
       "rank": 31,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 91841,
-      "num": 91841,
-      "word": "被迷你小房间惊艳到了",
-      "onboard_time": 1718293877,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 91614,
@@ -13209,6 +13209,14 @@
       "onboard_time": 1718200400,
       "rank": 49,
       "category": "财经,国外时政"
+    },
+    {
+      "raw_hot": 89572,
+      "num": 89572,
+      "word": "陈乔恩回应墨雨云间狂徒梗",
+      "onboard_time": 1718296336,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 89152,
@@ -13401,6 +13409,14 @@
       "onboard_time": 1717951816,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80386,
+      "num": 80386,
+      "word": "郭晓婷 当然是选择相信朋友啦",
+      "onboard_time": 1718295677,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 80373,
@@ -13641,14 +13657,6 @@
       "onboard_time": 1717995616,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 67303,
-      "num": 67303,
-      "word": "郭晓婷 当然是选择相信朋友啦",
-      "onboard_time": 1718295677,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 66773,
@@ -14699,6 +14707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33330,
+      "num": 151313,
+      "word": "山东已经热到发烫了",
+      "onboard_time": 1718292558,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33032,
       "num": 39804,
       "word": "抬头看的是天还是空",
@@ -14825,14 +14841,6 @@
       "onboard_time": 1718284038,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 29189,
-      "num": 117091,
-      "word": "山东已经热到发烫了",
-      "onboard_time": 1718292558,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29108,

@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718295925521,
+  "endTime": 1718296849596,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -19,20 +19,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 632878,
+      "num": 122173,
+      "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
+      "onboard_time": 1718293817,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554205,
       "num": 554205,
       "word": "张百乔评论网友法院见",
       "onboard_time": 1718292619,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 544596,
-      "num": 122173,
-      "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
-      "onboard_time": 1718293817,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430374,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 239579,
-      "num": 122999,
+      "num": 137621,
       "word": "刘亦菲说很荣幸和彭冠英合作",
       "onboard_time": 1718292858,
       "rank": 18,
@@ -155,20 +155,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 151562,
+      "num": 151562,
+      "word": "学生认为做错的实验竟破解世纪难题",
+      "onboard_time": 1718292679,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150015,
       "num": 120313,
       "word": "王一博更新iG",
       "onboard_time": 1718290341,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142994,
-      "num": 142994,
-      "word": "学生认为做错的实验竟破解世纪难题",
-      "onboard_time": 1718292679,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139155,
@@ -179,8 +179,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133826,
-      "num": 133826,
+      "raw_hot": 137835,
+      "num": 137835,
       "word": "姜萍",
       "onboard_time": 1718278819,
       "rank": 16,
@@ -209,6 +209,14 @@
       "onboard_time": 1718292198,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110764,
+      "num": 222836,
+      "word": "茅台已跌至2264元",
+      "onboard_time": 1718283919,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 104794,
@@ -251,16 +259,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 96801,
-      "num": 222836,
-      "word": "茅台已跌至2264元",
-      "onboard_time": 1718283919,
-      "rank": 9,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 91841,
-      "num": 91841,
+      "raw_hot": 93293,
+      "num": 93293,
       "word": "被迷你小房间惊艳到了",
       "onboard_time": 1718293877,
       "rank": 33,
@@ -273,6 +273,14 @@
       "onboard_time": 1718286619,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89572,
+      "num": 89572,
+      "word": "陈乔恩回应墨雨云间狂徒梗",
+      "onboard_time": 1718296336,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 88130,
@@ -315,6 +323,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 80386,
+      "num": 80386,
+      "word": "郭晓婷 当然是选择相信朋友啦",
+      "onboard_time": 1718295677,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74685,
       "num": 74685,
       "word": "林更新爷爷修表都不忘替他找对象",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 67954,
-      "num": 67954,
+      "num": 68602,
       "word": "姚译添给白鹿打歌",
       "onboard_time": 1718288540,
       "rank": 44,
@@ -356,23 +372,15 @@
     },
     {
       "raw_hot": 67382,
-      "num": 67382,
+      "num": 68633,
       "word": "靠锅气来分辨预制菜已经没用了",
       "onboard_time": 1718283618,
       "rank": 45,
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 67303,
-      "num": 67303,
-      "word": "郭晓婷 当然是选择相信朋友啦",
-      "onboard_time": 1718295677,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 59976,
-      "num": 67303,
+      "num": 68610,
       "word": "吴谨言 快把评论拿走",
       "onboard_time": 1718286619,
       "rank": 47,
@@ -395,11 +403,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48186,
+      "num": 68607,
+      "word": "剑网三",
+      "onboard_time": 1718291358,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 39089,
       "num": 629783,
       "word": "请查收你的预防中暑小贴士",
       "onboard_time": 1718284038,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 33330,
+      "num": 151313,
+      "word": "山东已经热到发烫了",
+      "onboard_time": 1718292558,
+      "rank": 13,
       "category": "社会新闻"
     }
   ],
