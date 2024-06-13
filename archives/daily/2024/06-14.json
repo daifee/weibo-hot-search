@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718310029650,
+  "endTime": 1718310912358,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -395,6 +395,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 67020,
+      "num": 25807,
+      "word": "郑恺苗苗结束韩国度假回国了",
+      "onboard_time": 1718308030,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59976,
       "num": 68610,
       "word": "吴谨言 快把评论拿走",
@@ -425,14 +433,6 @@
       "onboard_time": 1718297235,
       "rank": 43,
       "category": "网红"
-    },
-    {
-      "raw_hot": 54011,
-      "num": 25807,
-      "word": "郑恺苗苗结束韩国度假回国了",
-      "onboard_time": 1718308030,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 48186,
@@ -475,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28457,
+      "num": 28457,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27127,
       "num": 72386,
       "word": "打喷嚏为什么总是闭眼",
@@ -491,20 +499,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 24385,
-      "num": 24385,
-      "word": "猫咪伪造自己一直在家睡觉的事实",
-      "onboard_time": 1718307191,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 23694,
       "num": 26389,
       "word": "开始审判方协文",
       "onboard_time": 1718300113,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19088,
+      "num": 19088,
+      "word": "猪肉价格为何突然起飞",
+      "onboard_time": 1718310010,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 16387,
@@ -523,14 +531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 12505,
-      "num": 15145,
-      "word": "猪肉价格为何突然起飞",
-      "onboard_time": 1718310010,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 9416,
       "num": 56007,
       "word": "留守孩子长大后带大山孩子组乐队",
@@ -539,7 +539,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7909,
+      "raw_hot": 8942,
       "num": 74433,
       "word": "暴雨中他们用行动护旗的样子太帅",
       "onboard_time": 1718301733,
