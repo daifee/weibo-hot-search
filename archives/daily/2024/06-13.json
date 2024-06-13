@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718283075758,
+  "endTime": 1718284913141,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -99,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1190936,
-      "num": 1190936,
+      "raw_hot": 1225276,
+      "num": 1225276,
       "word": "芒果台声明",
       "onboard_time": 1718280858,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1718238560,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1035387,
+      "num": 815486,
+      "word": "郝蕾表演课300一节",
+      "onboard_time": 1718280199,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1025011,
@@ -211,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 815486,
-      "num": 815486,
-      "word": "郝蕾表演课300一节",
-      "onboard_time": 1718280199,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 794068,
       "num": 794068,
       "word": "机场回应明星耍大牌喊旅客下电梯",
@@ -283,6 +283,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 674521,
+      "num": 418579,
+      "word": "刘亦菲蓝色泳装",
+      "onboard_time": 1718282418,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629950,
       "num": 629950,
       "word": "新加坡门将桑尼妻子发声",
@@ -297,6 +305,14 @@
       "onboard_time": 1718256677,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602939,
+      "num": 408350,
+      "word": "向佐把李胜利拍进短剧",
+      "onboard_time": 1718283319,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 598319,
@@ -331,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 569669,
+      "num": 569669,
+      "word": "印度男子在冰激凌中发现手指",
+      "onboard_time": 1718277918,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559029,
       "num": 559029,
       "word": "古天乐被追债830万港币",
@@ -344,14 +368,6 @@
       "word": "南京咖啡阿姨说天下没有不散的筵席",
       "onboard_time": 1718209458,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 542832,
-      "num": 542832,
-      "word": "印度男子在冰激凌中发现手指",
-      "onboard_time": 1718277918,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -803,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304762,
+      "num": 215712,
+      "word": "为什么年轻人越来越讨厌人情世故了",
+      "onboard_time": 1718281218,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304519,
       "num": 304519,
       "word": "国产樱桃在赶超进口车厘子",
@@ -865,14 +889,6 @@
       "onboard_time": 1718261718,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295334,
-      "num": 295334,
-      "word": "刘亦菲蓝色泳装",
-      "onboard_time": 1718282418,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 294190,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1718256559,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 236580,
-      "num": 215712,
-      "word": "为什么年轻人越来越讨厌人情世故了",
-      "onboard_time": 1718281218,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 236315,
@@ -1587,6 +1595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183204,
+      "num": 183204,
+      "word": "刘亦菲的台词被各地文旅用上了",
+      "onboard_time": 1718284578,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181884,
       "num": 181884,
       "word": "董宇辉回应要用安眠药",
@@ -1601,6 +1617,14 @@
       "onboard_time": 1718236037,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 179801,
+      "num": 184410,
+      "word": "是棋子也是妻子",
+      "onboard_time": 1718281938,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 178365,
@@ -1625,6 +1649,14 @@
       "onboard_time": 1718278819,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177073,
+      "num": 188356,
+      "word": "茅台已跌至2264元",
+      "onboard_time": 1718283919,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 174234,
@@ -1659,14 +1691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 170072,
-      "num": 170072,
-      "word": "是棋子也是妻子",
-      "onboard_time": 1718281938,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168801,
       "num": 168801,
       "word": "为什么农村大席不会吃坏肚子",
@@ -1697,6 +1721,22 @@
       "onboard_time": 1718265019,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166027,
+      "num": 166027,
+      "word": "玫瑰的故事里有王梓薇",
+      "onboard_time": 1718284339,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165757,
+      "num": 165757,
+      "word": "汪苏泷为歌手提前准备歌单",
+      "onboard_time": 1718283076,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 165038,
@@ -2035,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138894,
+      "num": 138894,
+      "word": "LV客服回应区别对待中国消费者",
+      "onboard_time": 1718283979,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 138439,
       "num": 138439,
       "word": "庄国栋黄亦玫错误的时间遇到对的人",
@@ -2073,6 +2121,22 @@
       "onboard_time": 1718281398,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136338,
+      "num": 136338,
+      "word": "以色列北部遭袭击",
+      "onboard_time": 1718284699,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 134950,
+      "num": 134950,
+      "word": "湖北铁饭碗大学",
+      "onboard_time": 1718283739,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 134440,
@@ -2201,6 +2265,14 @@
       "onboard_time": 1718270240,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 120935,
+      "num": 261038,
+      "word": "靠锅气来分辨预制菜已经没用了",
+      "onboard_time": 1718283618,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 120812,
@@ -2435,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106593,
+      "num": 449136,
+      "word": "明星走红毯手机放哪儿",
+      "onboard_time": 1718280256,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103962,
       "num": 573600,
       "word": "林狗送猫",
@@ -2497,6 +2577,14 @@
       "onboard_time": 1718217312,
       "rank": 47,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 98572,
+      "num": 98572,
+      "word": "猫猫的叠中叠",
+      "onboard_time": 1718284880,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 97429,
@@ -2564,19 +2652,11 @@
     },
     {
       "raw_hot": 79289,
-      "num": 177873,
+      "num": 202027,
       "word": "深蓝G318定义高品质露营",
       "onboard_time": 1718282357,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 77210,
-      "num": 449136,
-      "word": "明星走红毯手机放哪儿",
-      "onboard_time": 1718280256,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 76818,
@@ -2771,6 +2851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 57543,
+      "num": 743281,
+      "word": "请查收你的预防中暑小贴士",
+      "onboard_time": 1718284038,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56225,
       "num": 570600,
       "word": "台湾奶奶为听乡音3刷繁花",
@@ -2931,12 +3019,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32766,
+      "num": 227973,
+      "word": "90%大病患者众筹不到足够医疗费",
+      "onboard_time": 1718283618,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31662,
       "num": 31662,
       "word": "徐彰彬疑似推搡李龙馥",
       "onboard_time": 1718213834,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31532,
+      "num": 135447,
+      "word": "深蓝G318唯一在售可行驶开启探照灯",
+      "onboard_time": 1718283139,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 30744,
@@ -2969,6 +3073,14 @@
       "onboard_time": 1718280017,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25322,
+      "num": 141704,
+      "word": "深蓝G318一台顶两台",
+      "onboard_time": 1718284038,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 22246,
@@ -3034,6 +3146,9 @@
     },
     {
       "word": "#习近平为何说这是我们的宝贝#"
+    },
+    {
+      "word": "#营造和平发展的国际环境#"
     }
   ]
 }

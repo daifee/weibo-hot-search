@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718283075758,
+  "endTime": 1718284913141,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -475,20 +475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1225276,
+      "num": 1225276,
+      "word": "芒果台声明",
+      "onboard_time": 1718280858,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1208397,
       "num": 1208397,
       "word": "高考准考证少写一个还有分吗",
       "onboard_time": 1718032040,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1190936,
-      "num": 1190936,
-      "word": "芒果台声明",
-      "onboard_time": 1718280858,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1185741,
@@ -673,6 +673,14 @@
       "onboard_time": 1717938918,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1035387,
+      "num": 815486,
+      "word": "郝蕾表演课300一节",
+      "onboard_time": 1718280199,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1031335,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1718081359,
       "rank": 4,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 815486,
-      "num": 815486,
-      "word": "郝蕾表演课300一节",
-      "onboard_time": 1718280199,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 807782,
@@ -1555,6 +1555,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 674521,
+      "num": 418579,
+      "word": "刘亦菲蓝色泳装",
+      "onboard_time": 1718282418,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 673988,
       "num": 673988,
       "word": "国足出线",
@@ -1859,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602939,
+      "num": 408350,
+      "word": "向佐把李胜利拍进短剧",
+      "onboard_time": 1718283319,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 598319,
       "num": 598319,
       "word": "小米汽车销量连续下跌",
@@ -2019,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 569669,
+      "num": 569669,
+      "word": "印度男子在冰激凌中发现手指",
+      "onboard_time": 1718277918,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 565467,
       "num": 565467,
       "word": "本周桃花运最旺的星座",
@@ -2121,14 +2145,6 @@
       "onboard_time": 1718030719,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 542832,
-      "num": 542832,
-      "word": "印度男子在冰激凌中发现手指",
-      "onboard_time": 1718277918,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541859,
@@ -4571,6 +4587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304762,
+      "num": 215712,
+      "word": "为什么年轻人越来越讨厌人情世故了",
+      "onboard_time": 1718281218,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 304519,
       "num": 304519,
       "word": "国产樱桃在赶超进口车厘子",
@@ -4737,14 +4761,6 @@
       "onboard_time": 1718261718,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 295334,
-      "num": 295334,
-      "word": "刘亦菲蓝色泳装",
-      "onboard_time": 1718282418,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 295104,
@@ -5857,14 +5873,6 @@
       "onboard_time": 1718127793,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236580,
-      "num": 215712,
-      "word": "为什么年轻人越来越讨厌人情世故了",
-      "onboard_time": 1718281218,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 236315,
@@ -7923,6 +7931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183204,
+      "num": 183204,
+      "word": "刘亦菲的台词被各地文旅用上了",
+      "onboard_time": 1718284578,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183076,
       "num": 183076,
       "word": "黄亦玫被PUA成家庭主妇",
@@ -8131,6 +8147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179801,
+      "num": 184410,
+      "word": "是棋子也是妻子",
+      "onboard_time": 1718281938,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179566,
       "num": 179566,
       "word": "我在考场门口滑倒了当事人发声",
@@ -8241,6 +8265,14 @@
       "onboard_time": 1717924577,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177073,
+      "num": 188356,
+      "word": "茅台已跌至2264元",
+      "onboard_time": 1718283919,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 176852,
@@ -8483,14 +8515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 170072,
-      "num": 170072,
-      "word": "是棋子也是妻子",
-      "onboard_time": 1718281938,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169743,
       "num": 169743,
       "word": "拳头回应Faker阿狸皮肤定价",
@@ -8683,6 +8707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166027,
+      "num": 166027,
+      "word": "玫瑰的故事里有王梓薇",
+      "onboard_time": 1718284339,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165834,
       "num": 165834,
       "word": "建议用户每周重新启动一次手机",
@@ -8697,6 +8729,14 @@
       "onboard_time": 1718077638,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 165757,
+      "num": 165757,
+      "word": "汪苏泷为歌手提前准备歌单",
+      "onboard_time": 1718283076,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 165735,
@@ -10259,6 +10299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138894,
+      "num": 138894,
+      "word": "LV客服回应区别对待中国消费者",
+      "onboard_time": 1718283979,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 138781,
       "num": 138781,
       "word": "BW2024新一轮嘉宾名单",
@@ -10459,6 +10507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136338,
+      "num": 136338,
+      "word": "以色列北部遭袭击",
+      "onboard_time": 1718284699,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 136281,
       "num": 134636,
       "word": "张凌赫回复陈都灵",
@@ -10553,6 +10609,14 @@
       "onboard_time": 1718043191,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 134950,
+      "num": 134950,
+      "word": "湖北铁饭碗大学",
+      "onboard_time": 1718283739,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 134824,
@@ -11427,6 +11491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120935,
+      "num": 261038,
+      "word": "靠锅气来分辨预制菜已经没用了",
+      "onboard_time": 1718283618,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 120903,
       "num": 120903,
       "word": "体会到早八的鳄鱼",
@@ -12259,6 +12331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106593,
+      "num": 449136,
+      "word": "明星走红毯手机放哪儿",
+      "onboard_time": 1718280256,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 106279,
       "num": 105315,
       "word": "别给王星越乐晕了",
@@ -12529,6 +12609,14 @@
       "onboard_time": 1718033598,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98572,
+      "num": 98572,
+      "word": "猫猫的叠中叠",
+      "onboard_time": 1718284880,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 98376,
@@ -13004,7 +13092,7 @@
     },
     {
       "raw_hot": 79289,
-      "num": 177873,
+      "num": 202027,
       "word": "深蓝G318定义高品质露营",
       "onboard_time": 1718282357,
       "rank": 30,
@@ -13025,14 +13113,6 @@
       "onboard_time": 1718057111,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77210,
-      "num": 449136,
-      "word": "明星走红毯手机放哪儿",
-      "onboard_time": 1718280256,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 76763,
@@ -13489,6 +13569,14 @@
       "onboard_time": 1717856598,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57543,
+      "num": 743281,
+      "word": "请查收你的预防中暑小贴士",
+      "onboard_time": 1718284038,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57494,
@@ -14235,6 +14323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32766,
+      "num": 227973,
+      "word": "90%大病患者众筹不到足够医疗费",
+      "onboard_time": 1718283618,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32730,
       "num": 443537,
       "word": "派出所民警上门表扬保洁阿姨拾金不昧",
@@ -14265,6 +14361,14 @@
       "onboard_time": 1717959071,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31532,
+      "num": 135447,
+      "word": "深蓝G318唯一在售可行驶开启探照灯",
+      "onboard_time": 1718283139,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 31480,
@@ -14417,6 +14521,14 @@
       "onboard_time": 1718181260,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25322,
+      "num": 141704,
+      "word": "深蓝G318一台顶两台",
+      "onboard_time": 1718284038,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 24920,
@@ -14850,6 +14962,9 @@
     },
     {
       "word": "#习近平为何说这是我们的宝贝#"
+    },
+    {
+      "word": "#营造和平发展的国际环境#"
     }
   ]
 }
