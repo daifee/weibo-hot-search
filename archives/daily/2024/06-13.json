@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718246094863,
+  "endTime": 1718246701760,
   "band_list": [
     {
       "raw_hot": 1363969,
@@ -59,20 +59,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 683141,
-      "num": 263518,
-      "word": "中国女游客在泰国遭假司机性侵",
-      "onboard_time": 1718240779,
-      "rank": 22,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 665709,
-      "num": 665709,
+      "raw_hot": 700136,
+      "num": 700136,
       "word": "暗河传开机",
       "onboard_time": 1718243239,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 683141,
+      "num": 273062,
+      "word": "中国女游客在泰国遭假司机性侵",
+      "onboard_time": 1718240779,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 579038,
@@ -107,6 +107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 517775,
+      "num": 282660,
+      "word": "禁止狗入内但林更新进去了",
+      "onboard_time": 1718245817,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 507246,
       "num": 507246,
       "word": "2人将机密当废品卖被退休大爷送回",
@@ -139,12 +147,28 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 475012,
+      "num": 384558,
+      "word": "快乐老友记",
+      "onboard_time": 1718245397,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473114,
       "num": 473114,
       "word": "奔驰宝马大众表态",
       "onboard_time": 1718240719,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 466817,
+      "num": 217439,
+      "word": "印尼空姐制服",
+      "onboard_time": 1718245158,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 449872,
@@ -195,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 374783,
+      "num": 374783,
+      "word": "专家说杨梅是减肥人士的福音",
+      "onboard_time": 1718209876,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 353221,
       "num": 577280,
       "word": "女子出借20万元讨不回丈夫自杀",
@@ -217,22 +249,6 @@
       "onboard_time": 1718200698,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343553,
-      "num": 343553,
-      "word": "专家说杨梅是减肥人士的福音",
-      "onboard_time": 1718209876,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 340129,
-      "num": 217439,
-      "word": "印尼空姐制服",
-      "onboard_time": 1718245158,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 321282,
@@ -267,12 +283,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 294817,
-      "num": 294817,
-      "word": "快乐老友记",
-      "onboard_time": 1718245397,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 294190,
+      "num": 294190,
+      "word": "战至巅峰3首发位阵容",
+      "onboard_time": 1718245337,
+      "rank": 33,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 290014,
@@ -281,6 +297,14 @@
       "onboard_time": 1718238679,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 276205,
+      "num": 276205,
+      "word": "陆沉 虚妄法相",
+      "onboard_time": 1718245998,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 254327,
@@ -315,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233039,
-      "num": 233039,
-      "word": "禁止狗入内但林更新进去了",
-      "onboard_time": 1718245817,
+      "raw_hot": 233506,
+      "num": 229496,
+      "word": "巴黎奥运村不装空调遭运动员强烈反对",
+      "onboard_time": 1718246238,
       "rank": 24,
-      "category": "剧集"
+      "category": "体育"
     },
     {
       "raw_hot": 232454,
@@ -329,14 +353,6 @@
       "onboard_time": 1718237058,
       "rank": 25,
       "category": "财经,国外时政"
-    },
-    {
-      "raw_hot": 229258,
-      "num": 229258,
-      "word": "陆沉 虚妄法相",
-      "onboard_time": 1718245998,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 227932,
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218783,
+      "num": 218783,
+      "word": "余秀华回应与完颜慧德不合",
+      "onboard_time": 1718246176,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 218697,
       "num": 218697,
       "word": "齐司礼 刹那生灭",
@@ -419,12 +443,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203024,
-      "num": 203024,
-      "word": "战至巅峰3首发位阵容",
-      "onboard_time": 1718245337,
-      "rank": 33,
-      "category": "综艺,游戏"
+      "raw_hot": 203715,
+      "num": 203715,
+      "word": "NBA总决赛",
+      "onboard_time": 1718246238,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 201087,
@@ -452,11 +476,19 @@
     },
     {
       "raw_hot": 195440,
-      "num": 171961,
+      "num": 186171,
       "word": "战至巅峰",
       "onboard_time": 1718245458,
       "rank": 35,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 188536,
+      "num": 188536,
+      "word": "欧洲杯倒计时1天",
+      "onboard_time": 1718246476,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 186486,
@@ -465,6 +497,14 @@
       "onboard_time": 1718239159,
       "rank": 33,
       "category": "财经,国外时政"
+    },
+    {
+      "raw_hot": 184241,
+      "num": 184241,
+      "word": "余秀华 完颜慧德",
+      "onboard_time": 1718246296,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 183943,
@@ -499,6 +539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170073,
+      "num": 170073,
+      "word": "凯尔特人vs独行侠",
+      "onboard_time": 1718237958,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163235,
       "num": 573515,
       "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
@@ -515,8 +563,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159613,
-      "num": 159613,
+      "raw_hot": 160335,
+      "num": 160335,
       "word": "夏鸣星 命定乾坤",
       "onboard_time": 1718245938,
       "rank": 36,
@@ -627,6 +675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128701,
+      "num": 128701,
+      "word": "诺基亚放弃中高端市场",
+      "onboard_time": 1718243778,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128063,
       "num": 128063,
       "word": "苹果iOS18将上线徒步旅行功能",
@@ -649,14 +705,6 @@
       "onboard_time": 1718242938,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124031,
-      "num": 124031,
-      "word": "凯尔特人vs独行侠",
-      "onboard_time": 1718237958,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 120812,
@@ -892,7 +940,7 @@
     },
     {
       "raw_hot": 66427,
-      "num": 319932,
+      "num": 364713,
       "word": "三小伙果断跳入激流救起落水者",
       "onboard_time": 1718245637,
       "rank": 9,
@@ -1003,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38581,
+      "num": 139825,
+      "word": "孙杨对水的要求是什么",
+      "onboard_time": 1718246538,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36031,
       "num": 78631,
       "word": "墨雨云间跪下文学",
@@ -1059,20 +1115,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20920,
+      "num": 898361,
+      "word": "高考报志愿要了解的16个关键词",
+      "onboard_time": 1718150116,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19838,
       "num": 23492,
       "word": "岛屿少年",
       "onboard_time": 1718220791,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19797,
-      "num": 898361,
-      "word": "高考报志愿要了解的16个关键词",
-      "onboard_time": 1718150116,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18614,

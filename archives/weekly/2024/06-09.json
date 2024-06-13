@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718246094863,
+  "endTime": 1718246701760,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -1219,6 +1219,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 700136,
+      "num": 700136,
+      "word": "暗河传开机",
+      "onboard_time": 1718243239,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 698732,
       "num": 698732,
       "word": "为什么酒店要把被子塞在床垫下",
@@ -1292,7 +1300,7 @@
     },
     {
       "raw_hot": 683141,
-      "num": 263518,
+      "num": 273062,
       "word": "中国女游客在泰国遭假司机性侵",
       "onboard_time": 1718240779,
       "rank": 22,
@@ -1393,14 +1401,6 @@
       "onboard_time": 1718114720,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 665709,
-      "num": 665709,
-      "word": "暗河传开机",
-      "onboard_time": 1718243239,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 665086,
@@ -2019,6 +2019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517775,
+      "num": 282660,
+      "word": "禁止狗入内但林更新进去了",
+      "onboard_time": 1718245817,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 515583,
       "num": 515583,
       "word": "董宇辉称非常反感被叫网红",
@@ -2339,6 +2347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 475012,
+      "num": 384558,
+      "word": "快乐老友记",
+      "onboard_time": 1718245397,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 474261,
       "num": 474261,
       "word": "现在的年轻人真的很可怜",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1718018237,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466817,
+      "num": 217439,
+      "word": "印尼空姐制服",
+      "onboard_time": 1718245158,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 466444,
@@ -3147,6 +3171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 374783,
+      "num": 374783,
+      "word": "专家说杨梅是减肥人士的福音",
+      "onboard_time": 1718209876,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 373973,
       "num": 318812,
       "word": "林更新36岁演学生",
@@ -3507,14 +3539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343553,
-      "num": 343553,
-      "word": "专家说杨梅是减肥人士的福音",
-      "onboard_time": 1718209876,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 342578,
       "num": 233248,
       "word": "赵丽颖端午放饭了",
@@ -3569,14 +3593,6 @@
       "onboard_time": 1717938379,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 340129,
-      "num": 217439,
-      "word": "印尼空姐制服",
-      "onboard_time": 1718245158,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 339764,
@@ -4179,20 +4195,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 294817,
-      "num": 294817,
-      "word": "快乐老友记",
-      "onboard_time": 1718245397,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294601,
       "num": 294601,
       "word": "谢娜许昕友情",
       "onboard_time": 1718196379,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294190,
+      "num": 294190,
+      "word": "战至巅峰3首发位阵容",
+      "onboard_time": 1718245337,
+      "rank": 33,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 293677,
@@ -4385,6 +4401,14 @@
       "onboard_time": 1718162119,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276205,
+      "num": 276205,
+      "word": "陆沉 虚妄法相",
+      "onboard_time": 1718245998,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 276203,
@@ -5139,6 +5163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233506,
+      "num": 229496,
+      "word": "巴黎奥运村不装空调遭运动员强烈反对",
+      "onboard_time": 1718246238,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233492,
       "num": 233492,
       "word": "cube",
@@ -5153,14 +5185,6 @@
       "onboard_time": 1718002638,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 233039,
-      "num": 233039,
-      "word": "禁止狗入内但林更新进去了",
-      "onboard_time": 1718245817,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 232454,
@@ -5233,14 +5257,6 @@
       "onboard_time": 1717992138,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229258,
-      "num": 229258,
-      "word": "陆沉 虚妄法相",
-      "onboard_time": 1718245998,
-      "rank": 25,
-      "category": "游戏"
     },
     {
       "raw_hot": 229026,
@@ -5409,6 +5425,14 @@
       "onboard_time": 1717913598,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218783,
+      "num": 218783,
+      "word": "余秀华回应与完颜慧德不合",
+      "onboard_time": 1718246176,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 218697,
@@ -5947,6 +5971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203715,
+      "num": 203715,
+      "word": "NBA总决赛",
+      "onboard_time": 1718246238,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203551,
       "num": 203565,
       "word": "你的考公对手可能是你老师",
@@ -5961,14 +5993,6 @@
       "onboard_time": 1718176101,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203024,
-      "num": 203024,
-      "word": "战至巅峰3首发位阵容",
-      "onboard_time": 1718245337,
-      "rank": 33,
-      "category": "综艺,游戏"
     },
     {
       "raw_hot": 202700,
@@ -6611,6 +6635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188536,
+      "num": 188536,
+      "word": "欧洲杯倒计时1天",
+      "onboard_time": 1718246476,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188512,
       "num": 183645,
       "word": "临江仙剧照",
@@ -6793,6 +6825,14 @@
       "onboard_time": 1717907057,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184241,
+      "num": 184241,
+      "word": "余秀华 完颜慧德",
+      "onboard_time": 1718246296,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 183928,
@@ -7347,6 +7387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170073,
+      "num": 170073,
+      "word": "凯尔特人vs独行侠",
+      "onboard_time": 1718237958,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169743,
       "num": 169743,
       "word": "拳头回应Faker阿狸皮肤定价",
@@ -7763,6 +7811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 160335,
+      "num": 160335,
+      "word": "夏鸣星 命定乾坤",
+      "onboard_time": 1718245938,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160278,
       "num": 137723,
       "word": "海胆瘟疫或正蔓延全球海洋",
@@ -7793,14 +7849,6 @@
       "onboard_time": 1718087478,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 159613,
-      "num": 159613,
-      "word": "夏鸣星 命定乾坤",
-      "onboard_time": 1718245938,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 159465,
@@ -9451,6 +9499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128701,
+      "num": 128701,
+      "word": "诺基亚放弃中高端市场",
+      "onboard_time": 1718243778,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128639,
       "num": 259597,
       "word": "特斯拉陶琳为马斯克天价薪酬拉票",
@@ -9721,14 +9777,6 @@
       "onboard_time": 1717912038,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124031,
-      "num": 124031,
-      "word": "凯尔特人vs独行侠",
-      "onboard_time": 1718237958,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 123786,
@@ -11476,7 +11524,7 @@
     },
     {
       "raw_hot": 66427,
-      "num": 319932,
+      "num": 364713,
       "word": "三小伙果断跳入激流救起落水者",
       "onboard_time": 1718245637,
       "rank": 9,
@@ -12209,6 +12257,14 @@
       "onboard_time": 1718112739,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38581,
+      "num": 139825,
+      "word": "孙杨对水的要求是什么",
+      "onboard_time": 1718246538,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 38530,
