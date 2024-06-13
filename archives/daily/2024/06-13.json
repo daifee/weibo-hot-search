@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718289369813,
+  "endTime": 1718292050460,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -57,6 +57,22 @@
       "onboard_time": 1718259079,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1509490,
+      "num": 1509490,
+      "word": "5km 倒闭",
+      "onboard_time": 1718289020,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 1406556,
+      "num": 1406556,
+      "word": "林更新这个真骂不了",
+      "onboard_time": 1718286138,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1403648,
@@ -163,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1008107,
-      "num": 522827,
-      "word": "林更新这个真骂不了",
-      "onboard_time": 1718286138,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 964418,
       "num": 897207,
       "word": "胡歌进产房陪产剪脐带",
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 786571,
+      "num": 786571,
+      "word": "米卡表白刘亦菲",
+      "onboard_time": 1718288540,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 764843,
       "num": 764843,
       "word": "齐思钧发视频报平安",
@@ -313,6 +329,14 @@
       "onboard_time": 1718240779,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 655897,
+      "num": 202346,
+      "word": "韩国女子20年前遭集体性侵",
+      "onboard_time": 1718288958,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 629950,
@@ -547,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451024,
+      "num": 198480,
+      "word": "结婚33天了俩人就没做过饭",
+      "onboard_time": 1718290039,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 449872,
       "num": 449872,
       "word": "光与夜之恋",
@@ -561,14 +593,6 @@
       "onboard_time": 1718234355,
       "rank": 20,
       "category": "运动健身,科学科普"
-    },
-    {
-      "raw_hot": 449044,
-      "num": 348594,
-      "word": "米卡表白刘亦菲",
-      "onboard_time": 1718288540,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 448980,
@@ -681,6 +705,14 @@
       "onboard_time": 1718277618,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383748,
+      "num": 260271,
+      "word": "王一博更新iG",
+      "onboard_time": 1718290341,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 381569,
@@ -825,14 +857,6 @@
       "onboard_time": 1718271857,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 326436,
-      "num": 196993,
-      "word": "韩国女子20年前遭集体性侵",
-      "onboard_time": 1718288958,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321282,
@@ -1025,6 +1049,14 @@
       "onboard_time": 1718263999,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 283474,
+      "num": 195099,
+      "word": "年级倒一和年级第一的友情",
+      "onboard_time": 1718289020,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 282938,
@@ -1475,6 +1507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204950,
+      "num": 204950,
+      "word": "剑网3凤凰",
+      "onboard_time": 1718290999,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204096,
       "num": 204096,
       "word": "明日方舟",
@@ -1747,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178869,
+      "num": 178869,
+      "word": "林更新爷爷修表都不忘替他找对象",
+      "onboard_time": 1718291120,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178365,
       "num": 576489,
       "word": "乐华否认程潇吴宣仪耍大牌",
@@ -1801,14 +1849,6 @@
       "onboard_time": 1718241859,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 169233,
-      "num": 169233,
-      "word": "年级倒一和年级第一的友情",
-      "onboard_time": 1718289020,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 168801,
@@ -1955,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158420,
+      "num": 158420,
+      "word": "这样的小孩哥不多见了",
+      "onboard_time": 1718289320,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 158416,
       "num": 577596,
       "word": "韩国没有了五花肉自由",
@@ -2041,6 +2089,14 @@
       "onboard_time": 1718282837,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152373,
+      "num": 152373,
+      "word": "中国女排重回亚洲首位",
+      "onboard_time": 1718290039,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 152280,
@@ -2193,14 +2249,6 @@
       "onboard_time": 1718279957,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140892,
-      "num": 140892,
-      "word": "5km 倒闭",
-      "onboard_time": 1718289020,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 140704,
@@ -2387,6 +2435,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 127666,
+      "num": 127666,
+      "word": "姜元柏你要不看一下你老婆衣服颜色",
+      "onboard_time": 1718289738,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127237,
       "num": 127237,
       "word": "狗子嫌家热到隔壁蹭空调",
@@ -2411,7 +2467,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 124263,
+      "raw_hot": 125773,
       "num": 124263,
       "word": "谢娜新综艺拟邀胡歌高圆圆王鹤棣",
       "onboard_time": 1718286379,
@@ -2497,6 +2553,14 @@
       "onboard_time": 1718285299,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115310,
+      "num": 115310,
+      "word": "广东人已发霉求放过",
+      "onboard_time": 1718291839,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115109,
@@ -2675,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107251,
+      "num": 107251,
+      "word": "剑网三",
+      "onboard_time": 1718291358,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106740,
       "num": 106740,
       "word": "何运晨做牛马的一天",
@@ -2723,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101686,
+      "num": 101686,
+      "word": "追逐夏日里乌珠穆沁草原风光",
+      "onboard_time": 1718291719,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 101298,
       "num": 351499,
       "word": "孙杨对水的要求是什么",
@@ -2745,14 +2825,6 @@
       "onboard_time": 1718217312,
       "rank": 47,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 99335,
-      "num": 99335,
-      "word": "这样的小孩哥不多见了",
-      "onboard_time": 1718289320,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 98572,
@@ -2947,6 +3019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67029,
+      "num": 262595,
+      "word": "工作后还有必要提升学历吗",
+      "onboard_time": 1718290580,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66226,
       "num": 571171,
       "word": "北京大风",
@@ -2996,7 +3076,7 @@
     },
     {
       "raw_hot": 60934,
-      "num": 743281,
+      "num": 1072556,
       "word": "请查收你的预防中暑小贴士",
       "onboard_time": 1718284038,
       "rank": 2,
@@ -3115,6 +3195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46703,
+      "num": 187997,
+      "word": "深蓝CEO称我们不卖期货产品",
+      "onboard_time": 1718288479,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46615,
       "num": 46615,
       "word": "吴谨言回复罗伯特",
@@ -3211,14 +3299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34925,
-      "num": 187624,
-      "word": "深蓝CEO称我们不卖期货产品",
-      "onboard_time": 1718288479,
-      "rank": 25,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 34170,
       "num": 39792,
       "word": "新疆为什么像四个省份",
@@ -3297,6 +3377,14 @@
       "onboard_time": 1718280017,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25303,
+      "num": 175117,
+      "word": "深蓝G318",
+      "onboard_time": 1718290398,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 22272,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1718292050460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1509490,
+        "num": 1509490,
+        "word": "5km 倒闭",
+        "onboard_time": 1718289020,
+        "rank": 0,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1406556,
+        "num": 1406556,
+        "word": "林更新这个真骂不了",
+        "onboard_time": 1718286138,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54962,
+        "num": 1072556,
+        "word": "请查收你的预防中暑小贴士",
+        "onboard_time": 1718284038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786571,
+        "num": 786571,
+        "word": "米卡表白刘亦菲",
+        "onboard_time": 1718288540,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450708,
+        "num": 450708,
+        "word": "印度男子在冰激凌中发现手指",
+        "onboard_time": 1718277918,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389308,
+        "num": 389308,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 760488,
+        "num": 361774,
+        "word": "香蜜沉沉烬如霜云合破150亿",
+        "onboard_time": 1718285719,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 436237,
+        "num": 321316,
+        "word": "郝蕾表演课300一节",
+        "onboard_time": 1718280199,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263048,
+        "num": 263048,
+        "word": "茅台已跌至2264元",
+        "onboard_time": 1718283919,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67029,
+        "num": 262595,
+        "word": "工作后还有必要提升学历吗",
+        "onboard_time": 1718290580,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 645580,
+        "num": 261146,
+        "word": "越南女子裸体大闹菲律宾机场",
+        "onboard_time": 1718274077,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383748,
+        "num": 260271,
+        "word": "王一博更新iG",
+        "onboard_time": 1718290341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329903,
+        "num": 258435,
+        "word": "孙楠唱你快回来cue檀健次",
+        "onboard_time": 1718286200,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313698,
+        "num": 258184,
+        "word": "刘亦菲蓝色泳装",
+        "onboard_time": 1718282418,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228701,
+        "num": 256441,
+        "word": "以色列北部遭袭击",
+        "onboard_time": 1718284699,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 256114,
+        "num": 256114,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 15,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 236749,
+        "num": 236749,
+        "word": "老人下公交被夹拖行身亡",
+        "onboard_time": 1718273358,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 204950,
+        "num": 204950,
+        "word": "剑网3凤凰",
+        "onboard_time": 1718290999,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212844,
+        "num": 204633,
+        "word": "刘亦菲的台词被各地文旅用上了",
+        "onboard_time": 1718284578,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204121,
+        "num": 204121,
+        "word": "LV客服回应区别对待中国消费者",
+        "onboard_time": 1718283979,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 655897,
+        "num": 202346,
+        "word": "韩国女子20年前遭集体性侵",
+        "onboard_time": 1718288958,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451024,
+        "num": 198480,
+        "word": "结婚33天了俩人就没做过饭",
+        "onboard_time": 1718290039,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283474,
+        "num": 195099,
+        "word": "年级倒一和年级第一的友情",
+        "onboard_time": 1718289020,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 250285,
+        "num": 193918,
+        "word": "2023届本科生月均收入6050元",
+        "onboard_time": 1718272037,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 46703,
+        "num": 187997,
+        "word": "深蓝CEO称我们不卖期货产品",
+        "onboard_time": 1718288479,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 248082,
+        "num": 184812,
+        "word": "养老保险缴15年和25年退休金差别",
+        "onboard_time": 1718286619,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183735,
+        "num": 183735,
+        "word": "玫瑰的故事直播",
+        "onboard_time": 1718277977,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182501,
+        "num": 182501,
+        "word": "姜家是得罪月老了吗",
+        "onboard_time": 1718285719,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178869,
+        "num": 178869,
+        "word": "林更新爷爷修表都不忘替他找对象",
+        "onboard_time": 1718291120,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177964,
+        "num": 177964,
+        "word": "向佐把李胜利拍进短剧",
+        "onboard_time": 1718283319,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25303,
+        "num": 175117,
+        "word": "深蓝G318",
+        "onboard_time": 1718290398,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 174799,
+        "num": 174799,
+        "word": "王源已读乱回",
+        "onboard_time": 1718287038,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163606,
+        "num": 163606,
+        "word": "苏更生被继父侵犯",
+        "onboard_time": 1718278697,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158420,
+        "num": 158420,
+        "word": "这样的小孩哥不多见了",
+        "onboard_time": 1718289320,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157419,
+        "num": 157419,
+        "word": "吴谨言 快把评论拿走",
+        "onboard_time": 1718286619,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152373,
+        "num": 152373,
+        "word": "中国女排重回亚洲首位",
+        "onboard_time": 1718290039,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143477,
+        "num": 143477,
+        "word": "女生高考后一觉睡30个小时",
+        "onboard_time": 1718273658,
+        "rank": 36,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 130435,
+        "num": 130435,
+        "word": "陈哲远回应待爆八年",
+        "onboard_time": 1718287219,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129013,
+        "num": 129013,
+        "word": "谢娜新综艺官宣",
+        "onboard_time": 1718278639,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127666,
+        "num": 127666,
+        "word": "姜元柏你要不看一下你老婆衣服颜色",
+        "onboard_time": 1718289738,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123717,
+        "num": 123717,
+        "word": "靠锅气来分辨预制菜已经没用了",
+        "onboard_time": 1718283618,
+        "rank": 40,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 119774,
+        "num": 119774,
+        "word": "姚译添给白鹿打歌",
+        "onboard_time": 1718288540,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116299,
+        "num": 116299,
+        "word": "为什么年轻人越来越讨厌人情世故了",
+        "onboard_time": 1718281218,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125773,
+        "num": 115883,
+        "word": "谢娜新综艺拟邀胡歌高圆圆王鹤棣",
+        "onboard_time": 1718286379,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115310,
+        "num": 115310,
+        "word": "广东人已发霉求放过",
+        "onboard_time": 1718291839,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112561,
+        "num": 112561,
+        "word": "姜萍",
+        "onboard_time": 1718278819,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107251,
+        "num": 107251,
+        "word": "剑网三",
+        "onboard_time": 1718291358,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106432,
+        "num": 106432,
+        "word": "学校回应小学生吐槽食堂饭菜被教育",
+        "onboard_time": 1718287821,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101686,
+        "num": 101686,
+        "word": "追逐夏日里乌珠穆沁草原风光",
+        "onboard_time": 1718291719,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 101629,
+        "num": 101629,
+        "word": "王一博禁止擅闯车场声明",
+        "onboard_time": 1718260697,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}
