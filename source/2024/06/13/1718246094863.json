@@ -1,0 +1,410 @@
+{
+  "runTime": 1718246094863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796408,
+        "num": 796408,
+        "word": "南京咖啡阿姨回应20多天赚几百万",
+        "onboard_time": 1718238320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665709,
+        "num": 665709,
+        "word": "暗河传开机",
+        "onboard_time": 1718243239,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17656,
+        "num": 604499,
+        "word": "高考报志愿要了解的16个关键词",
+        "onboard_time": 1718150116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579870,
+        "num": 579870,
+        "word": "胡歌进产房陪产剪脐带",
+        "onboard_time": 1718234355,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448320,
+        "num": 448320,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1718245397,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 445691,
+        "num": 445691,
+        "word": "奔驰宝马大众表态",
+        "onboard_time": 1718240719,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 435544,
+        "num": 435544,
+        "word": "光与夜之恋",
+        "onboard_time": 1718238800,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 343553,
+        "num": 343553,
+        "word": "专家说杨梅是减肥人士的福音",
+        "onboard_time": 1718209876,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 322366,
+        "num": 322366,
+        "word": "iPhone15系列电量耗尽仍能显示时间",
+        "onboard_time": 1718237178,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66427,
+        "num": 319932,
+        "word": "三小伙果断跳入激流救起落水者",
+        "onboard_time": 1718245637,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1076510,
+        "num": 316082,
+        "word": "马斯克被曝要求女高管为其生孩子",
+        "onboard_time": 1718238560,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 902073,
+        "num": 309398,
+        "word": "森林北报案",
+        "onboard_time": 1718234776,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 631461,
+        "num": 304621,
+        "word": "学生篡改7名同学高考志愿获刑1年半",
+        "onboard_time": 1718234235,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540605,
+        "num": 304293,
+        "word": "林更新P图回复刘亦菲",
+        "onboard_time": 1718235378,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426446,
+        "num": 295804,
+        "word": "妈妈让28岁未婚未育女儿回家啃老",
+        "onboard_time": 1718234957,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295451,
+        "num": 295451,
+        "word": "齐司礼卡面",
+        "onboard_time": 1718244617,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294817,
+        "num": 294817,
+        "word": "快乐老友记",
+        "onboard_time": 1718245397,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289117,
+        "num": 289117,
+        "word": "吴谨言背好薄",
+        "onboard_time": 1718239039,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279840,
+        "num": 279840,
+        "word": "2人将机密当废品卖被退休大爷送回",
+        "onboard_time": 1718234957,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265928,
+        "num": 265928,
+        "word": "2元面包店的面包能吃吗",
+        "onboard_time": 1718238679,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 683141,
+        "num": 263518,
+        "word": "中国女游客在泰国遭假司机性侵",
+        "onboard_time": 1718240779,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 295430,
+        "num": 263511,
+        "word": "手机放床头真正危害并非致癌",
+        "onboard_time": 1718235137,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253679,
+        "num": 253679,
+        "word": "原来这才是脊柱喜欢的睡姿",
+        "onboard_time": 1718234355,
+        "rank": 22,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 244225,
+        "num": 244225,
+        "word": "剑网3无界公测上线",
+        "onboard_time": 1718243657,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233039,
+        "num": 233039,
+        "word": "禁止狗入内但林更新进去了",
+        "onboard_time": 1718245817,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229258,
+        "num": 229258,
+        "word": "陆沉 虚妄法相",
+        "onboard_time": 1718245998,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 223964,
+        "num": 223964,
+        "word": "第五人格",
+        "onboard_time": 1718244497,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221410,
+        "num": 221410,
+        "word": "GALA触发禁用装备被处罚",
+        "onboard_time": 1718243958,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 211946,
+        "num": 219877,
+        "word": "中考",
+        "onboard_time": 1718242217,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136009,
+        "num": 218723,
+        "word": "高考填志愿十问十答",
+        "onboard_time": 1718238020,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218697,
+        "num": 218697,
+        "word": "齐司礼 刹那生灭",
+        "onboard_time": 1718245158,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 340129,
+        "num": 217439,
+        "word": "印尼空姐制服",
+        "onboard_time": 1718245158,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 216147,
+        "num": 216147,
+        "word": "刘亦菲一部剧带火了5个人",
+        "onboard_time": 1718200340,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203024,
+        "num": 203024,
+        "word": "战至巅峰3首发位阵容",
+        "onboard_time": 1718245337,
+        "rank": 33,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 173228,
+        "num": 173228,
+        "word": "42岁的宋慧乔",
+        "onboard_time": 1718237238,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195440,
+        "num": 171961,
+        "word": "战至巅峰",
+        "onboard_time": 1718245458,
+        "rank": 35,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 159613,
+        "num": 159613,
+        "word": "夏鸣星 命定乾坤",
+        "onboard_time": 1718245938,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157238,
+        "num": 157238,
+        "word": "怪盗基德 就是硬帅",
+        "onboard_time": 1718242818,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149236,
+        "num": 149236,
+        "word": "双减落地三年家长更愿意生娃了吗",
+        "onboard_time": 1718238679,
+        "rank": 38,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 126219,
+        "num": 149021,
+        "word": "379元诺基亚多次售罄",
+        "onboard_time": 1718238380,
+        "rank": 39,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 148980,
+        "num": 148980,
+        "word": "刘亦菲满36减18",
+        "onboard_time": 1718245217,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144564,
+        "num": 144564,
+        "word": "奥利 合作",
+        "onboard_time": 1718239580,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143655,
+        "num": 143655,
+        "word": "兰州8元一碗的辣子牛肉面",
+        "onboard_time": 1718241859,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141537,
+        "num": 141537,
+        "word": "逆水寒",
+        "onboard_time": 1718239939,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137498,
+        "num": 137498,
+        "word": "原来人真的会发霉",
+        "onboard_time": 1718238380,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137333,
+        "num": 137333,
+        "word": "出了一趟国黄亦玫都看清楚了",
+        "onboard_time": 1718242758,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130727,
+        "num": 130727,
+        "word": "王一博赛车",
+        "onboard_time": 1718236037,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 127237,
+        "num": 127237,
+        "word": "狗子嫌家热到隔壁蹭空调",
+        "onboard_time": 1718242938,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125885,
+        "num": 125885,
+        "word": "黄景瑜中国人民警察大学招生简章",
+        "onboard_time": 1718207958,
+        "rank": 48,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 116281,
+        "num": 116281,
+        "word": "欧文终于进三分了",
+        "onboard_time": 1718244378,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为建设教育强国科技强国作出新的贡献#"
+    }
+  }
+}

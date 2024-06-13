@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718242871404,
+  "endTime": 1718246094863,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -4115,6 +4115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 683141,
+      "num": 263518,
+      "word": "中国女游客在泰国遭假司机性侵",
+      "onboard_time": 1718240779,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 681546,
       "num": 681546,
       "word": "胡先煦喝醉后满世界找WiFi",
@@ -4369,6 +4377,14 @@
       "onboard_time": 1717647079,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 665709,
+      "num": 665709,
+      "word": "暗河传开机",
+      "onboard_time": 1718243239,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 665554,
@@ -7699,6 +7715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448320,
+      "num": 448320,
+      "word": "光与夜之恋陆沉",
+      "onboard_time": 1718245397,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 448060,
       "num": 448060,
       "word": "高考首日衡水高三学生最后一次跑操",
@@ -9651,14 +9675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 364506,
-      "num": 262530,
-      "word": "中国女游客在泰国遭假司机性侵",
-      "onboard_time": 1718240779,
-      "rank": 22,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 364477,
       "num": 267845,
       "word": "言承旭自曝和仇人上节目",
@@ -10315,8 +10331,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343334,
-      "num": 343334,
+      "raw_hot": 343553,
+      "num": 343553,
       "word": "专家说杨梅是减肥人士的福音",
       "onboard_time": 1718209876,
       "rank": 33,
@@ -10441,6 +10457,14 @@
       "onboard_time": 1717938379,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340129,
+      "num": 217439,
+      "word": "印尼空姐制服",
+      "onboard_time": 1718245158,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 340115,
@@ -11873,6 +11897,14 @@
       "onboard_time": 1717287314,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295451,
+      "num": 295451,
+      "word": "齐司礼卡面",
+      "onboard_time": 1718244617,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 295104,
@@ -14067,6 +14099,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244225,
+      "num": 244225,
+      "word": "剑网3无界公测上线",
+      "onboard_time": 1718243657,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244010,
       "num": 244010,
       "word": "国足致谢所有球迷",
@@ -14667,6 +14707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 233039,
+      "num": 233039,
+      "word": "禁止狗入内但林更新进去了",
+      "onboard_time": 1718245817,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232844,
       "num": 168233,
       "word": "以闪亮之名 游轮",
@@ -14817,6 +14865,14 @@
       "onboard_time": 1717992138,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229258,
+      "num": 229258,
+      "word": "陆沉 虚妄法相",
+      "onboard_time": 1718245998,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 229096,
@@ -15299,6 +15355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 221410,
+      "num": 221410,
+      "word": "GALA触发禁用装备被处罚",
+      "onboard_time": 1718243958,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221340,
       "num": 221340,
       "word": "嗨放派3路透",
@@ -15497,6 +15561,14 @@
       "onboard_time": 1717660277,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 218697,
+      "num": 218697,
+      "word": "齐司礼 刹那生灭",
+      "onboard_time": 1718245158,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 218694,
@@ -15977,6 +16049,14 @@
       "onboard_time": 1718064739,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 211946,
+      "num": 219877,
+      "word": "中考",
+      "onboard_time": 1718242217,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 211937,
@@ -16515,14 +16595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206777,
-      "num": 206777,
-      "word": "中考",
-      "onboard_time": 1718242217,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 206751,
       "num": 206751,
       "word": "印度股市狂跌",
@@ -16993,6 +17065,14 @@
       "onboard_time": 1717492698,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203024,
+      "num": 203024,
+      "word": "战至巅峰3首发位阵容",
+      "onboard_time": 1718245337,
+      "rank": 33,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 202983,
@@ -22163,6 +22243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 159613,
+      "num": 159613,
+      "word": "夏鸣星 命定乾坤",
+      "onboard_time": 1718245938,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159536,
       "num": 159536,
       "word": "一心堂门店比肯德基还多",
@@ -22505,6 +22593,14 @@
       "onboard_time": 1717813218,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157238,
+      "num": 157238,
+      "word": "怪盗基德 就是硬帅",
+      "onboard_time": 1718242818,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 157124,
@@ -23665,6 +23761,14 @@
       "onboard_time": 1717669578,
       "rank": 40,
       "category": "教育,动漫"
+    },
+    {
+      "raw_hot": 148980,
+      "num": 148980,
+      "word": "刘亦菲满36减18",
+      "onboard_time": 1718245217,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 148942,
@@ -25355,6 +25459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137333,
+      "num": 137333,
+      "word": "出了一趟国黄亦玫都看清楚了",
+      "onboard_time": 1718242758,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137308,
       "num": 137308,
       "word": "为何巫妖王之怒先回归",
@@ -25785,14 +25897,6 @@
       "onboard_time": 1717574358,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 134661,
-      "num": 134661,
-      "word": "怪盗基德 就是硬帅",
-      "onboard_time": 1718242818,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 134569,
@@ -26761,6 +26865,14 @@
       "onboard_time": 1717420160,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127237,
+      "num": 127237,
+      "word": "狗子嫌家热到隔壁蹭空调",
+      "onboard_time": 1718242938,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 127233,
@@ -28393,6 +28505,14 @@
       "onboard_time": 1717930338,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116281,
+      "num": 116281,
+      "word": "欧文终于进三分了",
+      "onboard_time": 1718244378,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 116267,
@@ -32361,6 +32481,14 @@
       "onboard_time": 1717867814,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66427,
+      "num": 319932,
+      "word": "三小伙果断跳入激流救起落水者",
+      "onboard_time": 1718245637,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 66232,

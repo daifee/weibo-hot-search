@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718242871404,
+  "endTime": 1718246094863,
   "band_list": [
     {
       "raw_hot": 1363969,
@@ -56,6 +56,22 @@
       "word": "林更新P图回复刘亦菲",
       "onboard_time": 1718235378,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 683141,
+      "num": 263518,
+      "word": "中国女游客在泰国遭假司机性侵",
+      "onboard_time": 1718240779,
+      "rank": 22,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 665709,
+      "num": 665709,
+      "word": "暗河传开机",
+      "onboard_time": 1718243239,
+      "rank": 1,
       "category": "剧集"
     },
     {
@@ -147,6 +163,14 @@
       "category": "运动健身,科学科普"
     },
     {
+      "raw_hot": 448320,
+      "num": 448320,
+      "word": "光与夜之恋陆沉",
+      "onboard_time": 1718245397,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 430221,
       "num": 430221,
       "word": "iPhone15系列电量耗尽仍能显示时间",
@@ -169,14 +193,6 @@
       "onboard_time": 1718219711,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 364506,
-      "num": 262530,
-      "word": "中国女游客在泰国遭假司机性侵",
-      "onboard_time": 1718240779,
-      "rank": 22,
-      "category": "社会负面"
     },
     {
       "raw_hot": 353221,
@@ -203,12 +219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343334,
-      "num": 343334,
+      "raw_hot": 343553,
+      "num": 343553,
       "word": "专家说杨梅是减肥人士的福音",
       "onboard_time": 1718209876,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 340129,
+      "num": 217439,
+      "word": "印尼空姐制服",
+      "onboard_time": 1718245158,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 321282,
@@ -235,6 +259,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295451,
+      "num": 295451,
+      "word": "齐司礼卡面",
+      "onboard_time": 1718244617,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 294817,
+      "num": 294817,
+      "word": "快乐老友记",
+      "onboard_time": 1718245397,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290014,
       "num": 290014,
       "word": "2元面包店的面包能吃吗",
@@ -249,6 +289,14 @@
       "onboard_time": 1718238020,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 244225,
+      "num": 244225,
+      "word": "剑网3无界公测上线",
+      "onboard_time": 1718243657,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 236315,
@@ -267,12 +315,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233039,
+      "num": 233039,
+      "word": "禁止狗入内但林更新进去了",
+      "onboard_time": 1718245817,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232454,
       "num": 232454,
       "word": "美联储",
       "onboard_time": 1718237058,
       "rank": 25,
       "category": "财经,国外时政"
+    },
+    {
+      "raw_hot": 229258,
+      "num": 229258,
+      "word": "陆沉 虚妄法相",
+      "onboard_time": 1718245998,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 227932,
@@ -283,12 +347,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223964,
+      "num": 223964,
+      "word": "第五人格",
+      "onboard_time": 1718244497,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223575,
       "num": 578965,
       "word": "北京冰雹",
       "onboard_time": 1718204060,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221410,
+      "num": 221410,
+      "word": "GALA触发禁用装备被处罚",
+      "onboard_time": 1718243958,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 219330,
@@ -315,6 +395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218697,
+      "num": 218697,
+      "word": "齐司礼 刹那生灭",
+      "onboard_time": 1718245158,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 211946,
+      "num": 219877,
+      "word": "中考",
+      "onboard_time": 1718242217,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211661,
       "num": 576894,
       "word": "北京偶遇刘亦菲逛街",
@@ -323,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206777,
-      "num": 206777,
-      "word": "中考",
-      "onboard_time": 1718242217,
-      "rank": 27,
-      "category": "教育"
+      "raw_hot": 203024,
+      "num": 203024,
+      "word": "战至巅峰3首发位阵容",
+      "onboard_time": 1718245337,
+      "rank": 33,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 201087,
@@ -353,6 +449,14 @@
       "onboard_time": 1718238380,
       "rank": 31,
       "category": "财经,数码"
+    },
+    {
+      "raw_hot": 195440,
+      "num": 171961,
+      "word": "战至巅峰",
+      "onboard_time": 1718245458,
+      "rank": 35,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 186486,
@@ -411,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159613,
+      "num": 159613,
+      "word": "夏鸣星 命定乾坤",
+      "onboard_time": 1718245938,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158566,
       "num": 158566,
       "word": "李章洙发文讨要北京房产",
@@ -425,6 +537,14 @@
       "onboard_time": 1718191639,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157238,
+      "num": 157238,
+      "word": "怪盗基德 就是硬帅",
+      "onboard_time": 1718242818,
+      "rank": 38,
+      "category": "动漫"
     },
     {
       "raw_hot": 155757,
@@ -449,6 +569,14 @@
       "onboard_time": 1718207119,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148980,
+      "num": 148980,
+      "word": "刘亦菲满36减18",
+      "onboard_time": 1718245217,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 146627,
@@ -483,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134661,
-      "num": 134661,
-      "word": "怪盗基德 就是硬帅",
-      "onboard_time": 1718242818,
-      "rank": 38,
-      "category": "动漫"
+      "raw_hot": 137333,
+      "num": 137333,
+      "word": "出了一趟国黄亦玫都看清楚了",
+      "onboard_time": 1718242758,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 129723,
@@ -513,6 +641,14 @@
       "onboard_time": 1718237298,
       "rank": 42,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 127237,
+      "num": 127237,
+      "word": "狗子嫌家热到隔壁蹭空调",
+      "onboard_time": 1718242938,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 124031,
@@ -545,6 +681,14 @@
       "onboard_time": 1718204840,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116281,
+      "num": 116281,
+      "word": "欧文终于进三分了",
+      "onboard_time": 1718244378,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 115992,
@@ -745,6 +889,14 @@
       "onboard_time": 1718195479,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66427,
+      "num": 319932,
+      "word": "三小伙果断跳入激流救起落水者",
+      "onboard_time": 1718245637,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 66226,
