@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718296849596,
+  "endTime": 1718299072242,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -9531,6 +9531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156217,
+      "num": 156217,
+      "word": "三本学生考公要做好多年备考的决心",
+      "onboard_time": 1718297354,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156145,
       "num": 156145,
       "word": "capper瘦了好多",
@@ -12675,6 +12683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104572,
+      "num": 104572,
+      "word": "郭晓婷 当然是选择相信朋友啦",
+      "onboard_time": 1718295677,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104542,
       "num": 104542,
       "word": "你好星期六",
@@ -13179,6 +13195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90911,
+      "num": 89572,
+      "word": "陈乔恩回应墨雨云间狂徒梗",
+      "onboard_time": 1718296336,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90710,
       "num": 191117,
       "word": "这些地区高考还有一些单科在考",
@@ -13209,14 +13233,6 @@
       "onboard_time": 1718200400,
       "rank": 49,
       "category": "财经,国外时政"
-    },
-    {
-      "raw_hot": 89572,
-      "num": 89572,
-      "word": "陈乔恩回应墨雨云间狂徒梗",
-      "onboard_time": 1718296336,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 89152,
@@ -13409,14 +13425,6 @@
       "onboard_time": 1717951816,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80386,
-      "num": 80386,
-      "word": "郭晓婷 当然是选择相信朋友啦",
-      "onboard_time": 1718295677,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 80373,
@@ -14483,6 +14491,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42011,
+      "num": 151313,
+      "word": "山东已经热到发烫了",
+      "onboard_time": 1718292558,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41856,
+      "num": 41856,
+      "word": "装在套子里的人 冒犯的人",
+      "onboard_time": 1718297235,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 41761,
       "num": 41761,
       "word": "田曦薇青蛙戒指",
@@ -14704,14 +14728,6 @@
       "word": "龙年端午看划龙舟名场面",
       "onboard_time": 1717921818,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33330,
-      "num": 151313,
-      "word": "山东已经热到发烫了",
-      "onboard_time": 1718292558,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -15249,6 +15265,14 @@
       "onboard_time": 1718136670,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12794,
+      "num": 116380,
+      "word": "民警送钱上门阿姨才知自己丢了十几万",
+      "onboard_time": 1718298015,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12283,

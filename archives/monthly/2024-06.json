@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718296849596,
+  "endTime": 1718299072242,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -24243,6 +24243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156217,
+      "num": 156217,
+      "word": "三本学生考公要做好多年备考的决心",
+      "onboard_time": 1718297354,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 156145,
       "num": 146753,
       "word": "时团战至巅峰总决赛嘉宾",
@@ -32107,6 +32115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104572,
+      "num": 104572,
+      "word": "郭晓婷 当然是选择相信朋友啦",
+      "onboard_time": 1718295677,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104555,
       "num": 104555,
       "word": "2024LCK夏季赛媒体日",
@@ -33235,6 +33251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90911,
+      "num": 89572,
+      "word": "陈乔恩回应墨雨云间狂徒梗",
+      "onboard_time": 1718296336,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90890,
       "num": 514306,
       "word": "淘宝将为中国公主清空购物车",
@@ -33297,14 +33321,6 @@
       "onboard_time": 1717801874,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89572,
-      "num": 89572,
-      "word": "陈乔恩回应墨雨云间狂徒梗",
-      "onboard_time": 1718296336,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 89316,
@@ -33769,14 +33785,6 @@
       "onboard_time": 1717261695,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80386,
-      "num": 80386,
-      "word": "郭晓婷 当然是选择相信朋友啦",
-      "onboard_time": 1718295677,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 80373,
@@ -36515,12 +36523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 42011,
+      "num": 151313,
+      "word": "山东已经热到发烫了",
+      "onboard_time": 1718292558,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41920,
       "num": 444379,
       "word": "原来大熊猫爱干净也是娘胎里带的",
       "onboard_time": 1717255399,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41856,
+      "num": 41856,
+      "word": "装在套子里的人 冒犯的人",
+      "onboard_time": 1718297235,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 41761,
@@ -37129,14 +37153,6 @@
       "onboard_time": 1717558219,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 33330,
-      "num": 151313,
-      "word": "山东已经热到发烫了",
-      "onboard_time": 1718292558,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33207,
@@ -38473,6 +38489,14 @@
       "onboard_time": 1717359490,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12794,
+      "num": 116380,
+      "word": "民警送钱上门阿姨才知自己丢了十几万",
+      "onboard_time": 1718298015,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12648,
