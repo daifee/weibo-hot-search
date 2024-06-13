@@ -1,0 +1,410 @@
+{
+  "runTime": 1718241616846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1024448,
+        "num": 1024448,
+        "word": "南京咖啡阿姨回应20多天赚几百万",
+        "onboard_time": 1718238320,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 770473,
+        "num": 770473,
+        "word": "马斯克被曝要求女高管为其生孩子",
+        "onboard_time": 1718238560,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19733,
+        "num": 617181,
+        "word": "高考报志愿要了解的16个关键词",
+        "onboard_time": 1718150116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 964418,
+        "num": 609361,
+        "word": "胡歌进产房陪产剪脐带",
+        "onboard_time": 1718234355,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534924,
+        "num": 534924,
+        "word": "逆水寒",
+        "onboard_time": 1718239939,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 507246,
+        "num": 507246,
+        "word": "2人将机密当废品卖被退休大爷送回",
+        "onboard_time": 1718234957,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438125,
+        "num": 438125,
+        "word": "刘亦菲一部剧带火了5个人",
+        "onboard_time": 1718200340,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 430221,
+        "num": 430221,
+        "word": "iPhone15系列电量耗尽仍能显示时间",
+        "onboard_time": 1718237178,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 375894,
+        "num": 375894,
+        "word": "东北孩子噩梦马上就来了",
+        "onboard_time": 1718219711,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119882,
+        "num": 374876,
+        "word": "高考填志愿十问十答",
+        "onboard_time": 1718238020,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1363969,
+        "num": 369725,
+        "word": "森林北报案",
+        "onboard_time": 1718234776,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1145390,
+        "num": 366318,
+        "word": "学生篡改7名同学高考志愿获刑1年半",
+        "onboard_time": 1718234235,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 790926,
+        "num": 362291,
+        "word": "林更新P图回复刘亦菲",
+        "onboard_time": 1718235378,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540257,
+        "num": 356072,
+        "word": "妈妈让28岁未婚未育女儿回家啃老",
+        "onboard_time": 1718234957,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500392,
+        "num": 351187,
+        "word": "42岁的宋慧乔",
+        "onboard_time": 1718237238,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378523,
+        "num": 349177,
+        "word": "吴谨言背好薄",
+        "onboard_time": 1718239039,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346342,
+        "num": 346342,
+        "word": "光与夜之恋",
+        "onboard_time": 1718238800,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 343334,
+        "num": 343334,
+        "word": "专家说杨梅是减肥人士的福音",
+        "onboard_time": 1718209876,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 321282,
+        "num": 321282,
+        "word": "为什么黄金首饰卖不动了",
+        "onboard_time": 1718236097,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 317367,
+        "num": 317367,
+        "word": "奔驰宝马大众表态",
+        "onboard_time": 1718240719,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 498819,
+        "num": 285490,
+        "word": "手机放床头真正危害并非致癌",
+        "onboard_time": 1718235137,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 449573,
+        "num": 274521,
+        "word": "原来这才是脊柱喜欢的睡姿",
+        "onboard_time": 1718234355,
+        "rank": 21,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 324712,
+        "num": 262530,
+        "word": "中国女游客在泰国遭假司机性侵",
+        "onboard_time": 1718240779,
+        "rank": 22,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 243799,
+        "num": 243799,
+        "word": "2元面包店的面包能吃吗",
+        "onboard_time": 1718238679,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 236315,
+        "num": 236315,
+        "word": "墨雨云间 乾坤都没你能扭",
+        "onboard_time": 1718235677,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232454,
+        "num": 232454,
+        "word": "美联储",
+        "onboard_time": 1718237058,
+        "rank": 25,
+        "category": "财经,国外时政"
+      },
+      {
+        "raw_hot": 219330,
+        "num": 219330,
+        "word": "双减落地三年家长更愿意生娃了吗",
+        "onboard_time": 1718238679,
+        "rank": 26,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 219124,
+        "num": 219124,
+        "word": "奥利 合作",
+        "onboard_time": 1718239580,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215002,
+        "num": 215002,
+        "word": "原来人真的会发霉",
+        "onboard_time": 1718238380,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201087,
+        "num": 201087,
+        "word": "刘亦菲一个人的分手戏",
+        "onboard_time": 1718237119,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198033,
+        "num": 198033,
+        "word": "原著里的方协文长相普通",
+        "onboard_time": 1718238740,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196261,
+        "num": 196261,
+        "word": "379元诺基亚多次售罄",
+        "onboard_time": 1718238380,
+        "rank": 31,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 191129,
+        "num": 191129,
+        "word": "黄景瑜中国人民警察大学招生简章",
+        "onboard_time": 1718207958,
+        "rank": 32,
+        "category": "艺人,教育"
+      },
+      {
+        "raw_hot": 186486,
+        "num": 186486,
+        "word": "莫斯科交易所停止使用美元和欧元交易",
+        "onboard_time": 1718239159,
+        "rank": 33,
+        "category": "财经,国外时政"
+      },
+      {
+        "raw_hot": 183110,
+        "num": 183110,
+        "word": "网曝吉林银行取款需派出所同意",
+        "onboard_time": 1718226551,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180072,
+        "num": 180072,
+        "word": "王一博赛车",
+        "onboard_time": 1718236037,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 158566,
+        "num": 158566,
+        "word": "李章洙发文讨要北京房产",
+        "onboard_time": 1718240599,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152073,
+        "num": 152073,
+        "word": "歌手2024冲榜赛",
+        "onboard_time": 1718236578,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146627,
+        "num": 146627,
+        "word": "iOS18屏锁将支持第三方相机",
+        "onboard_time": 1718240959,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137362,
+        "num": 137362,
+        "word": "南京咖啡阿姨说天下没有不散的筵席",
+        "onboard_time": 1718209458,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131321,
+        "num": 131321,
+        "word": "女儿长成这样可以当童模吗",
+        "onboard_time": 1718198959,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128063,
+        "num": 128063,
+        "word": "苹果iOS18将上线徒步旅行功能",
+        "onboard_time": 1718239460,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 127950,
+        "num": 127950,
+        "word": "官方通报中学男班主任猥亵男同学",
+        "onboard_time": 1718237298,
+        "rank": 42,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 126220,
+        "num": 126220,
+        "word": "女子出借20万元讨不回丈夫自杀",
+        "onboard_time": 1718205260,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124031,
+        "num": 124031,
+        "word": "凯尔特人vs独行侠",
+        "onboard_time": 1718237958,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115992,
+        "num": 115992,
+        "word": "歌手",
+        "onboard_time": 1718238620,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114464,
+        "num": 114464,
+        "word": "坚持运动和从不运动的人差别在哪",
+        "onboard_time": 1718232734,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 110229,
+        "num": 110229,
+        "word": "渝可渝爱复制粘贴双倍可爱",
+        "onboard_time": 1718238078,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110198,
+        "num": 110198,
+        "word": "美联储9月降息25个基点概率超60%",
+        "onboard_time": 1718240060,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108986,
+        "num": 108986,
+        "word": "苹果将通过分销方式向OpenAI付费",
+        "onboard_time": 1718241558,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给清华教授回信#"
+    }
+  }
+}
