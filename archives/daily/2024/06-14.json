@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718303186467,
+  "endTime": 1718303941421,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268843,
+      "num": 268843,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249646,
       "num": 177041,
       "word": "刘亦菲蓝色泳装",
@@ -137,14 +145,6 @@
       "onboard_time": 1718297354,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 184877,
-      "num": 184877,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 175168,
@@ -443,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40844,
+      "num": 40844,
+      "word": "黄亦玫 白羊座",
+      "onboard_time": 1718300652,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39089,
       "num": 629783,
       "word": "请查收你的预防中暑小贴士",
       "onboard_time": 1718284038,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34282,
-      "num": 34282,
-      "word": "黄亦玫 白羊座",
-      "onboard_time": 1718300652,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 30022,
@@ -491,7 +491,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5703,
+      "raw_hot": 9416,
+      "num": 56007,
+      "word": "留守孩子长大后带大山孩子组乐队",
+      "onboard_time": 1718303592,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7909,
       "num": 74433,
       "word": "暴雨中他们用行动护旗的样子太帅",
       "onboard_time": 1718301733,
