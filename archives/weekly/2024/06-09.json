@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718249732602,
+  "endTime": 1718252587800,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -49,6 +49,14 @@
       "onboard_time": 1718152097,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2609846,
+      "num": 2609846,
+      "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+      "onboard_time": 1718249839,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2132831,
@@ -377,6 +385,14 @@
       "onboard_time": 1718079139,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1250127,
+      "num": 796847,
+      "word": "MIUMIU品牌大使刘浩存",
+      "onboard_time": 1718249957,
+      "rank": 3,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1244043,
@@ -1051,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 755629,
+      "num": 755629,
+      "word": "巴黎奥运村不装空调遭运动员强烈反对",
+      "onboard_time": 1718246238,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 754430,
       "num": 754430,
       "word": "广州地铁允许个人投放后",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1718103619,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 716617,
-      "num": 716617,
-      "word": "巴黎奥运村不装空调遭运动员强烈反对",
-      "onboard_time": 1718246238,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 716598,
@@ -1577,6 +1593,14 @@
       "onboard_time": 1718009357,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629950,
+      "num": 629950,
+      "word": "新加坡门将桑尼妻子发声",
+      "onboard_time": 1718249720,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 629502,
@@ -2163,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505951,
+      "num": 505951,
+      "word": "墨雨云间假爹也有真情",
+      "onboard_time": 1718249957,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 505685,
       "num": 298188,
       "word": "那些晚婚晚育的人现在怎么样了",
@@ -2523,6 +2555,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 463307,
+      "num": 463307,
+      "word": "只要公主敢嫁裴某自然敢娶",
+      "onboard_time": 1718251218,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460718,
       "num": 156558,
       "word": "月经这3种怪颜色是就医信号",
@@ -2780,7 +2820,7 @@
     },
     {
       "raw_hot": 433025,
-      "num": 307101,
+      "num": 417722,
       "word": "齐司礼侧脸",
       "onboard_time": 1718247618,
       "rank": 20,
@@ -2953,6 +2993,14 @@
       "onboard_time": 1717901596,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402206,
+      "num": 402206,
+      "word": "北京拟禁止直播平台销售保健品",
+      "onboard_time": 1718249477,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401822,
@@ -3257,6 +3305,14 @@
       "onboard_time": 1717928958,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 371514,
+      "num": 371514,
+      "word": "刘亦菲发疯戏是即兴发挥",
+      "onboard_time": 1718251518,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 370911,
@@ -3987,6 +4043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 313571,
+      "num": 313571,
+      "word": "邓超杀回古装",
+      "onboard_time": 1718251639,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313478,
       "num": 313478,
       "word": "微信背景图",
@@ -4299,6 +4363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292450,
+      "num": 292450,
+      "word": "剑网3",
+      "onboard_time": 1718250438,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 292268,
       "num": 196430,
       "word": "央视端午晚会",
@@ -4561,6 +4633,14 @@
       "onboard_time": 1718010798,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 271160,
+      "num": 271160,
+      "word": "星巴克在瑞幸库迪高压下也开始慌了",
+      "onboard_time": 1718248397,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271148,
@@ -5083,14 +5163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243243,
-      "num": 243243,
-      "word": "星巴克在瑞幸库迪高压下也开始慌了",
-      "onboard_time": 1718248397,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 242492,
       "num": 242492,
       "word": "黄亦玫发疯这段",
@@ -5307,14 +5379,6 @@
       "category": "财经,国外时政"
     },
     {
-      "raw_hot": 231847,
-      "num": 231847,
-      "word": "新加坡门将桑尼妻子发声",
-      "onboard_time": 1718249720,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231808,
       "num": 231808,
       "word": "墨雨云间 扫楼",
@@ -5353,6 +5417,14 @@
       "onboard_time": 1718178380,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230899,
+      "num": 230899,
+      "word": "马嘉祺刘惜君清唱只要平凡",
+      "onboard_time": 1718250799,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 230471,
@@ -5553,6 +5625,14 @@
       "onboard_time": 1718245158,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 217498,
+      "num": 217498,
+      "word": "沈小婷奔跑吧预告",
+      "onboard_time": 1718252121,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 217267,
@@ -5947,6 +6027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 206408,
+      "num": 206408,
+      "word": "刘亦菲说和方协文是最矛盾冲突的",
+      "onboard_time": 1718252359,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206385,
       "num": 198045,
       "word": "SM不给EXOCBX续约金",
@@ -6075,6 +6163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204096,
+      "num": 204096,
+      "word": "明日方舟",
+      "onboard_time": 1718250018,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204080,
       "num": 204080,
       "word": "凌晨新疆接连发生两场地震",
@@ -6152,6 +6248,14 @@
       "word": "珠帘玉幕首发剧照",
       "onboard_time": 1717987099,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202464,
+      "num": 202464,
+      "word": "龚俊大男主",
+      "onboard_time": 1718252479,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -6521,14 +6625,6 @@
       "onboard_time": 1718010858,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193912,
-      "num": 193912,
-      "word": "北京拟禁止直播平台销售保健品",
-      "onboard_time": 1718249477,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193860,
@@ -8435,6 +8531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151564,
+      "num": 151564,
+      "word": "这三类面包的热量比炸鸡还离谱",
+      "onboard_time": 1718252479,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151452,
       "num": 151452,
       "word": "陈雨菲卫冕印尼赛",
@@ -8513,6 +8617,14 @@
       "onboard_time": 1718017939,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149036,
+      "num": 345916,
+      "word": "视力0.05的他用放大镜完成高考",
+      "onboard_time": 1718249537,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 148980,
@@ -10059,14 +10171,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 122206,
-      "num": 345916,
-      "word": "视力0.05的他用放大镜完成高考",
-      "onboard_time": 1718249537,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 121798,
       "num": 121798,
       "word": "吴谨言自己化的妆",
@@ -11419,6 +11523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86164,
+      "num": 334478,
+      "word": "三十头牦牛换一辆深蓝大G",
+      "onboard_time": 1718251459,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85383,
       "num": 85383,
       "word": "赴山海宣发",
@@ -11667,6 +11779,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71254,
+      "num": 821707,
+      "word": "在博物馆里感受文化绵延生命力",
+      "onboard_time": 1718250379,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71117,
       "num": 71117,
       "word": "孟庭苇叫赵丽颖颖宝",
@@ -11681,6 +11801,14 @@
       "onboard_time": 1717866375,
       "rank": 36,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 69730,
+      "num": 467050,
+      "word": "手执放大镜备考的男孩顺利完成高考",
+      "onboard_time": 1718251399,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 68930,
@@ -12057,6 +12185,14 @@
       "onboard_time": 1717946898,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 50741,
+      "num": 275444,
+      "word": "故宫帕帕新名帕瘦布辽",
+      "onboard_time": 1718250618,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50695,
@@ -12451,6 +12587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38779,
+      "num": 316319,
+      "word": "王俊凯夏日清爽大片",
+      "onboard_time": 1718251399,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 38530,
       "num": 897290,
       "word": "阔步向前的中国航天在帮更多人圆梦",
@@ -12713,6 +12857,14 @@
       "onboard_time": 1718003717,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27199,
+      "num": 202503,
+      "word": "椰浆饭入选中国球迷的新加坡必吃榜",
+      "onboard_time": 1718251218,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 26755,

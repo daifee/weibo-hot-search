@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718249732602,
+  "endTime": 1718252587800,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -209,6 +209,14 @@
       "onboard_time": 1717582219,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2609846,
+      "num": 2609846,
+      "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+      "onboard_time": 1718249839,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2599837,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1717764080,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1250127,
+      "num": 796847,
+      "word": "MIUMIU品牌大使刘浩存",
+      "onboard_time": 1718249957,
+      "rank": 3,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1248870,
@@ -3443,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 755629,
+      "num": 755629,
+      "word": "巴黎奥运村不装空调遭运动员强烈反对",
+      "onboard_time": 1718246238,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 755498,
       "num": 755498,
       "word": "周杰伦 这里是不是冠军不能参加吗",
@@ -3809,14 +3833,6 @@
       "onboard_time": 1717328358,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 716617,
-      "num": 716617,
-      "word": "巴黎奥运村不装空调遭运动员强烈反对",
-      "onboard_time": 1718246238,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 716598,
@@ -4817,6 +4833,14 @@
       "onboard_time": 1718009357,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 629950,
+      "num": 629950,
+      "word": "新加坡门将桑尼妻子发声",
+      "onboard_time": 1718249720,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 629502,
@@ -6627,6 +6651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505951,
+      "num": 505951,
+      "word": "墨雨云间假爹也有真情",
+      "onboard_time": 1718249957,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 505685,
       "num": 298188,
       "word": "那些晚婚晚育的人现在怎么样了",
@@ -7467,6 +7499,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 463307,
+      "num": 463307,
+      "word": "只要公主敢嫁裴某自然敢娶",
+      "onboard_time": 1718251218,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 463028,
       "num": 463028,
       "word": "暗星拍的王俊凯",
@@ -8164,7 +8204,7 @@
     },
     {
       "raw_hot": 433025,
-      "num": 307101,
+      "num": 417722,
       "word": "齐司礼侧脸",
       "onboard_time": 1718247618,
       "rank": 20,
@@ -8817,6 +8857,14 @@
       "onboard_time": 1717901596,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402206,
+      "num": 402206,
+      "word": "北京拟禁止直播平台销售保健品",
+      "onboard_time": 1718249477,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401822,
@@ -9585,6 +9633,14 @@
       "onboard_time": 1717749438,
       "rank": 17,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 371514,
+      "num": 371514,
+      "word": "刘亦菲发疯戏是即兴发挥",
+      "onboard_time": 1718251518,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 371498,
@@ -11379,6 +11435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 313571,
+      "num": 313571,
+      "word": "邓超杀回古装",
+      "onboard_time": 1718251639,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 313478,
       "num": 313478,
       "word": "微信背景图",
@@ -12097,6 +12161,14 @@
       "onboard_time": 1717944919,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 292450,
+      "num": 292450,
+      "word": "剑网3",
+      "onboard_time": 1718250438,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 292447,
@@ -12969,6 +13041,14 @@
       "onboard_time": 1717308138,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 271160,
+      "num": 271160,
+      "word": "星巴克在瑞幸库迪高压下也开始慌了",
+      "onboard_time": 1718248397,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 271148,
@@ -14267,14 +14347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243243,
-      "num": 243243,
-      "word": "星巴克在瑞幸库迪高压下也开始慌了",
-      "onboard_time": 1718248397,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243175,
       "num": 243175,
       "word": "高考语文答案",
@@ -14875,14 +14947,6 @@
       "category": "财经,国外时政"
     },
     {
-      "raw_hot": 231847,
-      "num": 231847,
-      "word": "新加坡门将桑尼妻子发声",
-      "onboard_time": 1718249720,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231828,
       "num": 200078,
       "word": "陈赫录节目爆改光头强",
@@ -14929,6 +14993,14 @@
       "onboard_time": 1718178380,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230899,
+      "num": 230899,
+      "word": "马嘉祺刘惜君清唱只要平凡",
+      "onboard_time": 1718250799,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 230823,
@@ -15761,6 +15833,14 @@
       "onboard_time": 1717327697,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217498,
+      "num": 217498,
+      "word": "沈小婷奔跑吧预告",
+      "onboard_time": 1718252121,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 217346,
@@ -16779,6 +16859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206408,
+      "num": 206408,
+      "word": "刘亦菲说和方协文是最矛盾冲突的",
+      "onboard_time": 1718252359,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206385,
       "num": 198045,
       "word": "SM不给EXOCBX续约金",
@@ -17131,6 +17219,14 @@
       "category": "科学科普,教育"
     },
     {
+      "raw_hot": 204096,
+      "num": 204096,
+      "word": "明日方舟",
+      "onboard_time": 1717575437,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204080,
       "num": 204080,
       "word": "凌晨新疆接连发生两场地震",
@@ -17280,6 +17376,14 @@
       "word": "珠帘玉幕首发剧照",
       "onboard_time": 1717987099,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202464,
+      "num": 202464,
+      "word": "龚俊大男主",
+      "onboard_time": 1718252479,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -18449,14 +18553,6 @@
       "onboard_time": 1718010858,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193912,
-      "num": 193912,
-      "word": "北京拟禁止直播平台销售保健品",
-      "onboard_time": 1718249477,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193860,
@@ -23619,6 +23715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151564,
+      "num": 151564,
+      "word": "这三类面包的热量比炸鸡还离谱",
+      "onboard_time": 1718252479,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 151472,
       "num": 151472,
       "word": "四川阿坝4.2级地震",
@@ -23961,6 +24065,14 @@
       "onboard_time": 1717757778,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149036,
+      "num": 345916,
+      "word": "视力0.05的他用放大镜完成高考",
+      "onboard_time": 1718249537,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 148999,
@@ -25105,14 +25217,6 @@
       "onboard_time": 1717840098,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 140899,
-      "num": 140899,
-      "word": "明日方舟",
-      "onboard_time": 1717575437,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 140829,
@@ -27945,14 +28049,6 @@
       "onboard_time": 1717201697,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122206,
-      "num": 345916,
-      "word": "视力0.05的他用放大镜完成高考",
-      "onboard_time": 1718249537,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 121976,
@@ -31611,6 +31707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86164,
+      "num": 334478,
+      "word": "三十头牦牛换一辆深蓝大G",
+      "onboard_time": 1718251459,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 85383,
       "num": 85383,
       "word": "赴山海宣发",
@@ -32491,6 +32595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 71254,
+      "num": 821707,
+      "word": "在博物馆里感受文化绵延生命力",
+      "onboard_time": 1718250379,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71198,
       "num": 84424,
       "word": "微信状态就是最好的发疯神器",
@@ -32577,6 +32689,14 @@
       "onboard_time": 1717848977,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69730,
+      "num": 467050,
+      "word": "手执放大镜备考的男孩顺利完成高考",
+      "onboard_time": 1718251399,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 69363,
@@ -33859,6 +33979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50741,
+      "num": 275444,
+      "word": "故宫帕帕新名帕瘦布辽",
+      "onboard_time": 1718250618,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50695,
       "num": 438158,
       "word": "警方提醒高考生和家长警惕骗子",
@@ -34659,6 +34787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38779,
+      "num": 316319,
+      "word": "王俊凯夏日清爽大片",
+      "onboard_time": 1718251399,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 38686,
       "num": 193668,
       "word": "王鹤棣提问AI熊猫",
@@ -35417,6 +35553,14 @@
       "onboard_time": 1717745418,
       "rank": 9,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 27199,
+      "num": 202503,
+      "word": "椰浆饭入选中国球迷的新加坡必吃榜",
+      "onboard_time": 1718251218,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 27028,
