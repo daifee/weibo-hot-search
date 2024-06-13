@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718246701760,
+  "endTime": 1718248888110,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 1363969,
-      "num": 384011,
+      "num": 454299,
       "word": "森林北报案",
       "onboard_time": 1718234776,
       "rank": 11,
@@ -385,6 +385,14 @@
       "onboard_time": 1718188337,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1224296,
+      "num": 1224296,
+      "word": "印尼空姐制服",
+      "onboard_time": 1718245158,
+      "rank": 31,
+      "category": "时尚"
     },
     {
       "raw_hot": 1208397,
@@ -633,6 +641,14 @@
       "onboard_time": 1717932017,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 988208,
+      "num": 578754,
+      "word": "禁止狗入内但林更新进去了",
+      "onboard_time": 1718245817,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 978837,
@@ -964,7 +980,7 @@
     },
     {
       "raw_hot": 790926,
-      "num": 371195,
+      "num": 446650,
       "word": "林更新P图回复刘亦菲",
       "onboard_time": 1718235378,
       "rank": 12,
@@ -1843,6 +1859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 546608,
+      "num": 546608,
+      "word": "巴黎奥运村不装空调遭运动员强烈反对",
+      "onboard_time": 1718246238,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 545854,
       "num": 545854,
       "word": "涂山黑黑",
@@ -1883,8 +1907,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540563,
+      "num": 540563,
+      "word": "NBA总决赛",
+      "onboard_time": 1718246238,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 540257,
-      "num": 373533,
+      "num": 442649,
       "word": "妈妈让28岁未婚未育女儿回家啃老",
       "onboard_time": 1718234957,
       "rank": 5,
@@ -1937,6 +1969,14 @@
       "onboard_time": 1718029820,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532107,
+      "num": 532107,
+      "word": "查理苏秒了",
+      "onboard_time": 1718246718,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 529377,
@@ -2017,14 +2057,6 @@
       "onboard_time": 1718160017,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517775,
-      "num": 282660,
-      "word": "禁止狗入内但林更新进去了",
-      "onboard_time": 1718245817,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 515583,
@@ -2451,14 +2483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 466817,
-      "num": 217439,
-      "word": "印尼空姐制服",
-      "onboard_time": 1718245158,
-      "rank": 31,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 466444,
       "num": 466444,
       "word": "家长举华晨宇海报迎接考生",
@@ -2683,6 +2707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440323,
+      "num": 440323,
+      "word": "余秀华回应与完颜慧德不合",
+      "onboard_time": 1718246176,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 440162,
       "num": 259427,
       "word": "曾744分考上清华的他如今怎样了",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1718149517,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433025,
+      "num": 269778,
+      "word": "齐司礼侧脸",
+      "onboard_time": 1718247618,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 433007,
@@ -3907,6 +3947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 317343,
+      "num": 317343,
+      "word": "结石姐BangBang抽到能唱的了",
+      "onboard_time": 1718247017,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 317312,
       "num": 577844,
       "word": "怀疑张若昀工作室有我们自己人",
@@ -4723,6 +4771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257422,
+      "num": 257422,
+      "word": "光头新卡",
+      "onboard_time": 1718248097,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257341,
       "num": 257341,
       "word": "OMG",
@@ -4905,6 +4961,14 @@
       "onboard_time": 1718148737,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247347,
+      "num": 247347,
+      "word": "余秀华 完颜慧德",
+      "onboard_time": 1718246296,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 247003,
@@ -5163,14 +5227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233506,
-      "num": 229496,
-      "word": "巴黎奥运村不装空调遭运动员强烈反对",
-      "onboard_time": 1718246238,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 233492,
       "num": 233492,
       "word": "cube",
@@ -5185,6 +5241,14 @@
       "onboard_time": 1718002638,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 232749,
+      "num": 232749,
+      "word": "男童被武术教练殴打致死案一审宣判",
+      "onboard_time": 1718247977,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 232454,
@@ -5249,6 +5313,14 @@
       "onboard_time": 1718151558,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229382,
+      "num": 210131,
+      "word": "林更新官宣战至巅峰",
+      "onboard_time": 1718248038,
+      "rank": 30,
+      "category": "综艺,游戏"
     },
     {
       "raw_hot": 229289,
@@ -5425,14 +5497,6 @@
       "onboard_time": 1717913598,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218783,
-      "num": 218783,
-      "word": "余秀华回应与完颜慧德不合",
-      "onboard_time": 1718246176,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 218697,
@@ -5691,6 +5755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 209312,
+      "num": 209312,
+      "word": "韩国大学食堂的告示别太离谱了",
+      "onboard_time": 1718247197,
+      "rank": 31,
+      "category": "幽默,国外时政"
+    },
+    {
       "raw_hot": 209201,
       "num": 209201,
       "word": "欧美开始流行笨手机",
@@ -5729,6 +5801,14 @@
       "onboard_time": 1717944620,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208617,
+      "num": 208617,
+      "word": "东契奇六犯离场",
+      "onboard_time": 1718248218,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 208568,
@@ -5777,6 +5857,14 @@
       "onboard_time": 1718165660,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207778,
+      "num": 207778,
+      "word": "35岁母亲带孤独症儿子跑货车",
+      "onboard_time": 1718248038,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207298,
@@ -5969,14 +6057,6 @@
       "onboard_time": 1717984277,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203715,
-      "num": 203715,
-      "word": "NBA总决赛",
-      "onboard_time": 1718246238,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 203551,
@@ -6595,6 +6675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189960,
+      "num": 189960,
+      "word": "超新星运动会回归",
+      "onboard_time": 1718247738,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189809,
       "num": 189809,
       "word": "王一博ELLE封面剪影预告",
@@ -6715,6 +6803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187196,
+      "num": 187196,
+      "word": "凯尔特人vs独行侠",
+      "onboard_time": 1718237958,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186755,
       "num": 186755,
       "word": "KPL",
@@ -6825,14 +6921,6 @@
       "onboard_time": 1717907057,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184241,
-      "num": 184241,
-      "word": "余秀华 完颜慧德",
-      "onboard_time": 1718246296,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 183928,
@@ -7115,6 +7203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178238,
+      "num": 178238,
+      "word": "星巴克在瑞幸库迪高压下也开始慌了",
+      "onboard_time": 1718248397,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178183,
       "num": 178183,
       "word": "马嘉祺新歌蜉蝣",
@@ -7145,6 +7241,14 @@
       "onboard_time": 1718167580,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177504,
+      "num": 177504,
+      "word": "超新星运动会 报名",
+      "onboard_time": 1718248577,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 177370,
@@ -7385,14 +7489,6 @@
       "onboard_time": 1718179940,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170073,
-      "num": 170073,
-      "word": "凯尔特人vs独行侠",
-      "onboard_time": 1718237958,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 169743,
@@ -8547,6 +8643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 145885,
+      "num": 145885,
+      "word": "暗河传女主",
+      "onboard_time": 1718248757,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145789,
       "num": 145789,
       "word": "北京连发雷电大风两预警",
@@ -8593,6 +8697,14 @@
       "onboard_time": 1717932377,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144846,
+      "num": 144846,
+      "word": "Doinb直播谈TheShy复出",
+      "onboard_time": 1718248699,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 144715,
@@ -8939,6 +9051,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 138439,
+      "num": 138439,
+      "word": "庄国栋黄亦玫错误的时间遇到对的人",
+      "onboard_time": 1718247858,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138254,
       "num": 138254,
       "word": "我知道你是一只小狸猫",
@@ -9225,6 +9345,14 @@
       "onboard_time": 1717888094,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134440,
+      "num": 364713,
+      "word": "三小伙果断跳入激流救起落水者",
+      "onboard_time": 1718245637,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 134423,
@@ -11419,6 +11547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74981,
+      "num": 340773,
+      "word": "孙杨对水的要求是什么",
+      "onboard_time": 1718246538,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74657,
       "num": 74657,
       "word": "宋丹丹问董璇谈恋爱了不",
@@ -11521,14 +11657,6 @@
       "onboard_time": 1717867814,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66427,
-      "num": 364713,
-      "word": "三小伙果断跳入激流救起落水者",
-      "onboard_time": 1718245637,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 66175,
@@ -12155,6 +12283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44039,
+      "num": 457825,
+      "word": "解放军仪仗队狂风暴雨中收国旗",
+      "onboard_time": 1718244978,
+      "rank": 9,
+      "category": "军事"
+    },
+    {
       "raw_hot": 43465,
       "num": 43465,
       "word": "福宝爱吃的都在蛋糕里",
@@ -12257,14 +12393,6 @@
       "onboard_time": 1718112739,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38581,
-      "num": 139825,
-      "word": "孙杨对水的要求是什么",
-      "onboard_time": 1718246538,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 38530,
@@ -13004,6 +13132,9 @@
     },
     {
       "word": "#为建设教育强国科技强国作出新的贡献#"
+    },
+    {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
     }
   ]
 }

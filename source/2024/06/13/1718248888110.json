@@ -1,0 +1,410 @@
+{
+  "runTime": 1718248888110,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224296,
+        "num": 1224296,
+        "word": "印尼空姐制服",
+        "onboard_time": 1718245158,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 686389,
+        "num": 686389,
+        "word": "南京咖啡阿姨回应20多天赚几百万",
+        "onboard_time": 1718238320,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21212,
+        "num": 587703,
+        "word": "高考报志愿要了解的16个关键词",
+        "onboard_time": 1718150116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988208,
+        "num": 578754,
+        "word": "禁止狗入内但林更新进去了",
+        "onboard_time": 1718245817,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 546608,
+        "num": 546608,
+        "word": "巴黎奥运村不装空调遭运动员强烈反对",
+        "onboard_time": 1718246238,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 540563,
+        "num": 540563,
+        "word": "NBA总决赛",
+        "onboard_time": 1718246238,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532107,
+        "num": 532107,
+        "word": "查理苏秒了",
+        "onboard_time": 1718246718,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 467316,
+        "num": 467316,
+        "word": "胡歌进产房陪产剪脐带",
+        "onboard_time": 1718234355,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 459338,
+        "num": 459338,
+        "word": "暗河传开机",
+        "onboard_time": 1718243239,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44039,
+        "num": 457825,
+        "word": "解放军仪仗队狂风暴雨中收国旗",
+        "onboard_time": 1718244978,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 756002,
+        "num": 454299,
+        "word": "森林北报案",
+        "onboard_time": 1718234776,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 652592,
+        "num": 450091,
+        "word": "马斯克被曝要求女高管为其生孩子",
+        "onboard_time": 1718238560,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 526119,
+        "num": 446650,
+        "word": "林更新P图回复刘亦菲",
+        "onboard_time": 1718235378,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493033,
+        "num": 443471,
+        "word": "学生篡改7名同学高考志愿获刑1年半",
+        "onboard_time": 1718234235,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442649,
+        "num": 442649,
+        "word": "妈妈让28岁未婚未育女儿回家啃老",
+        "onboard_time": 1718234957,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440323,
+        "num": 440323,
+        "word": "余秀华回应与完颜慧德不合",
+        "onboard_time": 1718246176,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74981,
+        "num": 340773,
+        "word": "孙杨对水的要求是什么",
+        "onboard_time": 1718246538,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317343,
+        "num": 317343,
+        "word": "结石姐BangBang抽到能唱的了",
+        "onboard_time": 1718247017,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290945,
+        "num": 290945,
+        "word": "快乐老友记",
+        "onboard_time": 1718245397,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273217,
+        "num": 273217,
+        "word": "光与夜之恋",
+        "onboard_time": 1718238800,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 433025,
+        "num": 269778,
+        "word": "齐司礼侧脸",
+        "onboard_time": 1718247618,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 429761,
+        "num": 264399,
+        "word": "中国女游客在泰国遭假司机性侵",
+        "onboard_time": 1718240779,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 257422,
+        "num": 257422,
+        "word": "光头新卡",
+        "onboard_time": 1718248097,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247347,
+        "num": 247347,
+        "word": "余秀华 完颜慧德",
+        "onboard_time": 1718246296,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 243634,
+        "num": 243634,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1718245397,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232749,
+        "num": 232749,
+        "word": "男童被武术教练殴打致死案一审宣判",
+        "onboard_time": 1718247977,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 231124,
+        "num": 231124,
+        "word": "战至巅峰3首发位阵容",
+        "onboard_time": 1718245337,
+        "rank": 26,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 227211,
+        "num": 227211,
+        "word": "专家说杨梅是减肥人士的福音",
+        "onboard_time": 1718209876,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 214301,
+        "num": 214301,
+        "word": "奔驰宝马大众表态",
+        "onboard_time": 1718240719,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 210828,
+        "num": 210828,
+        "word": "吴谨言背好薄",
+        "onboard_time": 1718239039,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229382,
+        "num": 210131,
+        "word": "林更新官宣战至巅峰",
+        "onboard_time": 1718248038,
+        "rank": 30,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 209312,
+        "num": 209312,
+        "word": "韩国大学食堂的告示别太离谱了",
+        "onboard_time": 1718247197,
+        "rank": 31,
+        "category": "幽默,国外时政"
+      },
+      {
+        "raw_hot": 208617,
+        "num": 208617,
+        "word": "东契奇六犯离场",
+        "onboard_time": 1718248218,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207778,
+        "num": 207778,
+        "word": "35岁母亲带孤独症儿子跑货车",
+        "onboard_time": 1718248038,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200862,
+        "num": 200862,
+        "word": "iPhone15系列电量耗尽仍能显示时间",
+        "onboard_time": 1718237178,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195806,
+        "num": 195806,
+        "word": "手机放床头真正危害并非致癌",
+        "onboard_time": 1718235137,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192184,
+        "num": 192184,
+        "word": "GALA触发禁用装备被处罚",
+        "onboard_time": 1718243958,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189960,
+        "num": 189960,
+        "word": "超新星运动会回归",
+        "onboard_time": 1718247738,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187196,
+        "num": 187196,
+        "word": "凯尔特人vs独行侠",
+        "onboard_time": 1718237958,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178238,
+        "num": 178238,
+        "word": "星巴克在瑞幸库迪高压下也开始慌了",
+        "onboard_time": 1718248397,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177504,
+        "num": 177504,
+        "word": "超新星运动会 报名",
+        "onboard_time": 1718248577,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163040,
+        "num": 163040,
+        "word": "原来这才是脊柱喜欢的睡姿",
+        "onboard_time": 1718234355,
+        "rank": 41,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 154477,
+        "num": 154477,
+        "word": "2元面包店的面包能吃吗",
+        "onboard_time": 1718238679,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153988,
+        "num": 153988,
+        "word": "刘亦菲一部剧带火了5个人",
+        "onboard_time": 1718200340,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145885,
+        "num": 145885,
+        "word": "暗河传女主",
+        "onboard_time": 1718248757,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144846,
+        "num": 144846,
+        "word": "Doinb直播谈TheShy复出",
+        "onboard_time": 1718248699,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138439,
+        "num": 138439,
+        "word": "庄国栋黄亦玫错误的时间遇到对的人",
+        "onboard_time": 1718247858,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134440,
+        "num": 134440,
+        "word": "三小伙果断跳入激流救起落水者",
+        "onboard_time": 1718245637,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 132926,
+        "num": 132926,
+        "word": "歌手",
+        "onboard_time": 1718238620,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128543,
+        "num": 128543,
+        "word": "陆沉 虚妄法相",
+        "onboard_time": 1718245998,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}
