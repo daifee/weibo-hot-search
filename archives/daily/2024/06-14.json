@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718320773445,
+  "endTime": 1718321720046,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -11,8 +11,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 1043486,
-      "num": 1043486,
+      "raw_hot": 1200238,
+      "num": 1200238,
       "word": "姜萍",
       "onboard_time": 1718278819,
       "rank": 16,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 668399,
-      "num": 668399,
+      "raw_hot": 715952,
+      "num": 715952,
       "word": "男童被教练打死案家属发声",
       "onboard_time": 1718312350,
       "rank": 38,
@@ -59,12 +59,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 417012,
+      "num": 417012,
+      "word": "江西一爆炸事故致5死25伤",
+      "onboard_time": 1718320274,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 414656,
       "num": 236898,
       "word": "米卡表白刘亦菲",
       "onboard_time": 1718288540,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 397762,
+      "num": 397762,
+      "word": "原来老师才是那个被留下的孩子",
+      "onboard_time": 1718320216,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 380248,
+      "num": 380248,
+      "word": "尚雯婕去歌手不坐飞机的原因",
+      "onboard_time": 1718320575,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 361950,
@@ -115,20 +139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 265543,
-      "num": 165035,
-      "word": "江西一爆炸事故致5死25伤",
-      "onboard_time": 1718320274,
+      "raw_hot": 266866,
+      "num": 266866,
+      "word": "郑恺苗苗结束韩国度假回国了",
+      "onboard_time": 1718308030,
       "rank": 10,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 249728,
-      "num": 249728,
-      "word": "原来老师才是那个被留下的孩子",
-      "onboard_time": 1718320216,
-      "rank": 6,
-      "category": "情感"
+      "category": "艺人"
     },
     {
       "raw_hot": 249646,
@@ -137,6 +153,14 @@
       "onboard_time": 1718282418,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243056,
+      "num": 243056,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 239579,
@@ -155,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 238455,
-      "num": 238455,
-      "word": "郑恺苗苗结束韩国度假回国了",
-      "onboard_time": 1718308030,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228316,
       "num": 228316,
       "word": "中专女生爆冷拿下数学竞赛全球12名",
@@ -179,16 +195,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 202576,
-      "num": 202576,
-      "word": "猫咪伪造自己一直在家睡觉的事实",
-      "onboard_time": 1718307191,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 190146,
+      "num": 190146,
+      "word": "姜元柏你要不看一下你老婆衣服颜色",
+      "onboard_time": 1718289738,
+      "rank": 37,
+      "category": "剧集"
     },
     {
-      "raw_hot": 175695,
-      "num": 72493,
+      "raw_hot": 177511,
+      "num": 106751,
       "word": "京东因春晚超额大奖被罚5万元",
       "onboard_time": 1718313130,
       "rank": 40,
@@ -235,12 +251,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143254,
-      "num": 143254,
-      "word": "尚雯婕去歌手不坐飞机的原因",
-      "onboard_time": 1718320575,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 146281,
+      "num": 146281,
+      "word": "张雪峰回旋镖推荐兰州大学",
+      "onboard_time": 1718320816,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 139155,
@@ -251,16 +267,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136006,
-      "num": 136006,
-      "word": "姜元柏你要不看一下你老婆衣服颜色",
-      "onboard_time": 1718289738,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 127321,
-      "num": 127321,
+      "raw_hot": 133262,
+      "num": 133262,
       "word": "靠锅气来分辨预制菜已经没用了",
       "onboard_time": 1718283618,
       "rank": 45,
@@ -281,6 +289,14 @@
       "onboard_time": 1718277977,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117081,
+      "num": 117081,
+      "word": "2024年还剩200天",
+      "onboard_time": 1718321055,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112974,
@@ -313,6 +329,14 @@
       "onboard_time": 1718295677,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102582,
+      "num": 102582,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 102164,
@@ -355,8 +379,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91761,
-      "num": 91761,
+      "raw_hot": 93097,
+      "num": 93097,
       "word": "养老保险缴15年和25年退休金差别",
       "onboard_time": 1718286619,
       "rank": 34,
@@ -369,6 +393,14 @@
       "onboard_time": 1718296336,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90110,
+      "num": 90110,
+      "word": "刘宇宁喊迪丽热巴老巴",
+      "onboard_time": 1718321416,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 88130,
@@ -395,20 +427,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83888,
-      "num": 69328,
-      "word": "茅台市值跌掉一个青岛啤酒",
-      "onboard_time": 1718305931,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 81560,
       "num": 81560,
       "word": "女生高考后一觉睡30个小时",
       "onboard_time": 1718273658,
       "rank": 39,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 77105,
+      "num": 77105,
+      "word": "猪肉价格为何突然起飞",
+      "onboard_time": 1718310010,
+      "rank": 49,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 74802,
+      "num": 509422,
+      "word": "南海沉船打捞出的文物惊艳了",
+      "onboard_time": 1718269578,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74685,
@@ -425,14 +465,6 @@
       "onboard_time": 1718289320,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72204,
-      "num": 382315,
-      "word": "南海沉船打捞出的文物惊艳了",
-      "onboard_time": 1718269578,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71066,
@@ -467,12 +499,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 66308,
-      "num": 66308,
-      "word": "猪肉价格为何突然起飞",
-      "onboard_time": 1718310010,
-      "rank": 49,
-      "category": "财经,社会新闻"
+      "raw_hot": 65071,
+      "num": 65071,
+      "word": "胡锡进谈中国球迷感谢桑尼",
+      "onboard_time": 1718320995,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64631,
+      "num": 64631,
+      "word": "孙楠体重比汪苏泷轻",
+      "onboard_time": 1718321416,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62634,
+      "num": 62634,
+      "word": "韩国SKY学校录取率只有1%",
+      "onboard_time": 1718321476,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59976,
@@ -563,20 +611,20 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 25150,
+      "num": 280635,
+      "word": "河北一高校因天气炎热改上线上课",
+      "onboard_time": 1718320274,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23694,
       "num": 35693,
       "word": "开始审判方协文",
       "onboard_time": 1718300113,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19376,
-      "num": 158013,
-      "word": "河北一高校因天气炎热改上线上课",
-      "onboard_time": 1718320274,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 18827,
