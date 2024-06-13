@@ -1,7 +1,15 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718248888110,
+  "endTime": 1718249732602,
   "band_list": [
+    {
+      "raw_hot": 1403648,
+      "num": 1403648,
+      "word": "印尼空姐制服",
+      "onboard_time": 1718245158,
+      "rank": 31,
+      "category": "时尚"
+    },
     {
       "raw_hot": 1363969,
       "num": 454299,
@@ -9,14 +17,6 @@
       "onboard_time": 1718234776,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1224296,
-      "num": 1224296,
-      "word": "印尼空姐制服",
-      "onboard_time": 1718245158,
-      "rank": 31,
-      "category": "时尚"
     },
     {
       "raw_hot": 1145390,
@@ -35,20 +35,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1025011,
+      "num": 622937,
+      "word": "禁止狗入内但林更新进去了",
+      "onboard_time": 1718245817,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1024448,
       "num": 1024448,
       "word": "南京咖啡阿姨回应20多天赚几百万",
       "onboard_time": 1718238320,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 988208,
-      "num": 578754,
-      "word": "禁止狗入内但林更新进去了",
-      "onboard_time": 1718245817,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 964418,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 716617,
+      "num": 716617,
+      "word": "巴黎奥运村不装空调遭运动员强烈反对",
+      "onboard_time": 1718246238,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 700136,
       "num": 700136,
       "word": "暗河传开机",
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 683141,
-      "num": 273062,
+      "num": 305529,
       "word": "中国女游客在泰国遭假司机性侵",
       "onboard_time": 1718240779,
       "rank": 22,
@@ -105,14 +113,6 @@
       "onboard_time": 1718209458,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 546608,
-      "num": 546608,
-      "word": "巴黎奥运村不装空调遭运动员强烈反对",
-      "onboard_time": 1718246238,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 540563,
@@ -219,6 +219,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 443142,
+      "num": 357271,
+      "word": "结石姐BangBang抽到能唱的了",
+      "onboard_time": 1718247017,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 440323,
       "num": 440323,
       "word": "余秀华回应与完颜慧德不合",
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 433025,
-      "num": 269778,
+      "num": 307101,
       "word": "齐司礼侧脸",
       "onboard_time": 1718247618,
       "rank": 20,
@@ -241,6 +249,14 @@
       "onboard_time": 1718237178,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 381569,
+      "num": 381569,
+      "word": "男童被武术教练殴打致死案一审宣判",
+      "onboard_time": 1718247977,
+      "rank": 25,
+      "category": "社会负面"
     },
     {
       "raw_hot": 378523,
@@ -299,14 +315,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 317343,
-      "num": 317343,
-      "word": "结石姐BangBang抽到能唱的了",
-      "onboard_time": 1718247017,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 317312,
       "num": 577844,
       "word": "怀疑张若昀工作室有我们自己人",
@@ -321,6 +329,22 @@
       "onboard_time": 1718198959,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312583,
+      "num": 312583,
+      "word": "光头新卡",
+      "onboard_time": 1718248097,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 296645,
+      "num": 296645,
+      "word": "暗河传女主",
+      "onboard_time": 1718248757,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 295451,
@@ -355,12 +379,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 257422,
-      "num": 257422,
-      "word": "光头新卡",
-      "onboard_time": 1718248097,
-      "rank": 22,
-      "category": "游戏"
+      "raw_hot": 267182,
+      "num": 267182,
+      "word": "于适王影璐情侣自拍",
+      "onboard_time": 1718249537,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 254327,
@@ -379,12 +403,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 246993,
+      "num": 246993,
+      "word": "东契奇六犯离场",
+      "onboard_time": 1718248218,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244225,
       "num": 244225,
       "word": "剑网3无界公测上线",
       "onboard_time": 1718243657,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243243,
+      "num": 243243,
+      "word": "星巴克在瑞幸库迪高压下也开始慌了",
+      "onboard_time": 1718248397,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236315,
@@ -395,20 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236011,
+      "num": 236011,
+      "word": "林更新官宣战至巅峰",
+      "onboard_time": 1718248038,
+      "rank": 30,
+      "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 235772,
+      "num": 235772,
+      "word": "Doinb直播谈TheShy复出",
+      "onboard_time": 1718248699,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 234233,
       "num": 577098,
       "word": "鞠婧祎 眉弓",
       "onboard_time": 1718191038,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232749,
-      "num": 232749,
-      "word": "男童被武术教练殴打致死案一审宣判",
-      "onboard_time": 1718247977,
-      "rank": 25,
-      "category": "社会负面"
     },
     {
       "raw_hot": 232454,
@@ -419,12 +467,12 @@
       "category": "财经,国外时政"
     },
     {
-      "raw_hot": 229382,
-      "num": 210131,
-      "word": "林更新官宣战至巅峰",
-      "onboard_time": 1718248038,
-      "rank": 30,
-      "category": "综艺,游戏"
+      "raw_hot": 231847,
+      "num": 231847,
+      "word": "新加坡门将桑尼妻子发声",
+      "onboard_time": 1718249720,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 227932,
@@ -515,14 +563,6 @@
       "category": "幽默,国外时政"
     },
     {
-      "raw_hot": 208617,
-      "num": 208617,
-      "word": "东契奇六犯离场",
-      "onboard_time": 1718248218,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207778,
       "num": 207778,
       "word": "35岁母亲带孤独症儿子跑货车",
@@ -563,11 +603,51 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 195386,
+      "num": 195386,
+      "word": "北京高温预警",
+      "onboard_time": 1718249537,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194314,
+      "num": 194314,
+      "word": "欧文35分",
+      "onboard_time": 1718249598,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193912,
+      "num": 193912,
+      "word": "北京拟禁止直播平台销售保健品",
+      "onboard_time": 1718249477,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189960,
       "num": 189960,
       "word": "超新星运动会回归",
       "onboard_time": 1718247738,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189395,
+      "num": 188830,
+      "word": "吴谨言知道王星越给她刷礼物吗",
+      "onboard_time": 1718249178,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189318,
+      "num": 189318,
+      "word": "超新星运动会 报名",
+      "onboard_time": 1718248577,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -617,22 +697,6 @@
       "onboard_time": 1718192119,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178238,
-      "num": 178238,
-      "word": "星巴克在瑞幸库迪高压下也开始慌了",
-      "onboard_time": 1718248397,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177504,
-      "num": 177504,
-      "word": "超新星运动会 报名",
-      "onboard_time": 1718248577,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 170301,
@@ -731,22 +795,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 145885,
-      "num": 145885,
-      "word": "暗河传女主",
-      "onboard_time": 1718248757,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 144846,
-      "num": 144846,
-      "word": "Doinb直播谈TheShy复出",
-      "onboard_time": 1718248699,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 143821,
       "num": 576015,
       "word": "马斯克被曝与SpaceX多名员工有染",
@@ -841,6 +889,14 @@
       "onboard_time": 1718242938,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122206,
+      "num": 345916,
+      "word": "视力0.05的他用放大镜完成高考",
+      "onboard_time": 1718249537,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 120812,
@@ -955,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101298,
+      "num": 351499,
+      "word": "孙杨对水的要求是什么",
+      "onboard_time": 1718246538,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100142,
       "num": 573334,
       "word": "吉林银行回应储户取款需派出所同意",
@@ -1019,14 +1083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74981,
-      "num": 340773,
-      "word": "孙杨对水的要求是什么",
-      "onboard_time": 1718246538,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73736,
       "num": 571847,
       "word": "这是初恋吗 这是家里进贼了",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1718197038,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65142,
+      "num": 457825,
+      "word": "解放军仪仗队狂风暴雨中收国旗",
+      "onboard_time": 1718244978,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 62402,
@@ -1161,14 +1225,6 @@
       "onboard_time": 1718196558,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 44039,
-      "num": 457825,
-      "word": "解放军仪仗队狂风暴雨中收国旗",
-      "onboard_time": 1718244978,
-      "rank": 9,
-      "category": "军事"
     },
     {
       "raw_hot": 43465,

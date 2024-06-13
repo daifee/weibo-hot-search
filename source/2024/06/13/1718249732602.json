@@ -1,0 +1,410 @@
+{
+  "runTime": 1718249732602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1403648,
+        "num": 1403648,
+        "word": "印尼空姐制服",
+        "onboard_time": 1718245158,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 716617,
+        "num": 716617,
+        "word": "巴黎奥运村不装空调遭运动员强烈反对",
+        "onboard_time": 1718246238,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18568,
+        "num": 623403,
+        "word": "高考报志愿要了解的16个关键词",
+        "onboard_time": 1718150116,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025011,
+        "num": 622937,
+        "word": "禁止狗入内但林更新进去了",
+        "onboard_time": 1718245817,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620811,
+        "num": 620811,
+        "word": "南京咖啡阿姨回应20多天赚几百万",
+        "onboard_time": 1718238320,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 503300,
+        "num": 503300,
+        "word": "NBA总决赛",
+        "onboard_time": 1718246238,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494431,
+        "num": 494431,
+        "word": "查理苏秒了",
+        "onboard_time": 1718246718,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 460405,
+        "num": 460405,
+        "word": "胡歌进产房陪产剪脐带",
+        "onboard_time": 1718234355,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 381569,
+        "num": 381569,
+        "word": "男童被武术教练殴打致死案一审宣判",
+        "onboard_time": 1718247977,
+        "rank": 8,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 377533,
+        "num": 377533,
+        "word": "余秀华回应与完颜慧德不合",
+        "onboard_time": 1718246176,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 754072,
+        "num": 374247,
+        "word": "森林北报案",
+        "onboard_time": 1718234776,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 564408,
+        "num": 371207,
+        "word": "马斯克被曝要求女高管为其生孩子",
+        "onboard_time": 1718238560,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 511159,
+        "num": 367390,
+        "word": "林更新P图回复刘亦菲",
+        "onboard_time": 1718235378,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471351,
+        "num": 361936,
+        "word": "学生篡改7名同学高考志愿获刑1年半",
+        "onboard_time": 1718234235,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443142,
+        "num": 357271,
+        "word": "结石姐BangBang抽到能唱的了",
+        "onboard_time": 1718247017,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 403999,
+        "num": 352028,
+        "word": "妈妈让28岁未婚未育女儿回家啃老",
+        "onboard_time": 1718234957,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101298,
+        "num": 351499,
+        "word": "孙杨对水的要求是什么",
+        "onboard_time": 1718246538,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122206,
+        "num": 345916,
+        "word": "视力0.05的他用放大镜完成高考",
+        "onboard_time": 1718249537,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 342997,
+        "num": 342997,
+        "word": "暗河传开机",
+        "onboard_time": 1718243239,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312583,
+        "num": 312583,
+        "word": "光头新卡",
+        "onboard_time": 1718248097,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385857,
+        "num": 307101,
+        "word": "齐司礼侧脸",
+        "onboard_time": 1718247618,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339620,
+        "num": 305529,
+        "word": "中国女游客在泰国遭假司机性侵",
+        "onboard_time": 1718240779,
+        "rank": 21,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 296645,
+        "num": 296645,
+        "word": "暗河传女主",
+        "onboard_time": 1718248757,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267182,
+        "num": 267182,
+        "word": "于适王影璐情侣自拍",
+        "onboard_time": 1718249537,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246993,
+        "num": 246993,
+        "word": "东契奇六犯离场",
+        "onboard_time": 1718248218,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243243,
+        "num": 243243,
+        "word": "星巴克在瑞幸库迪高压下也开始慌了",
+        "onboard_time": 1718248397,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239129,
+        "num": 239129,
+        "word": "光与夜之恋",
+        "onboard_time": 1718238800,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236011,
+        "num": 236011,
+        "word": "林更新官宣战至巅峰",
+        "onboard_time": 1718248038,
+        "rank": 27,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 235772,
+        "num": 235772,
+        "word": "Doinb直播谈TheShy复出",
+        "onboard_time": 1718248699,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231847,
+        "num": 231847,
+        "word": "新加坡门将桑尼妻子发声",
+        "onboard_time": 1718249720,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65142,
+        "num": 227850,
+        "word": "解放军仪仗队狂风暴雨中收国旗",
+        "onboard_time": 1718244978,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 227104,
+        "num": 227104,
+        "word": "余秀华 完颜慧德",
+        "onboard_time": 1718246296,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 219841,
+        "num": 219841,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1718245397,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196056,
+        "num": 196056,
+        "word": "专家说杨梅是减肥人士的福音",
+        "onboard_time": 1718209876,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195386,
+        "num": 195386,
+        "word": "北京高温预警",
+        "onboard_time": 1718249537,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194314,
+        "num": 194314,
+        "word": "欧文35分",
+        "onboard_time": 1718249598,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193912,
+        "num": 193912,
+        "word": "北京拟禁止直播平台销售保健品",
+        "onboard_time": 1718249477,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189634,
+        "num": 189634,
+        "word": "战至巅峰3首发位阵容",
+        "onboard_time": 1718245337,
+        "rank": 37,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 189318,
+        "num": 189318,
+        "word": "超新星运动会 报名",
+        "onboard_time": 1718248577,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189395,
+        "num": 188830,
+        "word": "吴谨言知道王星越给她刷礼物吗",
+        "onboard_time": 1718249178,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186996,
+        "num": 186996,
+        "word": "手机放床头真正危害并非致癌",
+        "onboard_time": 1718235137,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185436,
+        "num": 185436,
+        "word": "GALA触发禁用装备被处罚",
+        "onboard_time": 1718243958,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182826,
+        "num": 182826,
+        "word": "韩国大学食堂的告示别太离谱了",
+        "onboard_time": 1718247197,
+        "rank": 42,
+        "category": "幽默,国外时政"
+      },
+      {
+        "raw_hot": 177762,
+        "num": 177762,
+        "word": "iPhone15系列电量耗尽仍能显示时间",
+        "onboard_time": 1718237178,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186708,
+        "num": 173053,
+        "word": "吴谨言背好薄",
+        "onboard_time": 1718239039,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167853,
+        "num": 167853,
+        "word": "快乐老友记",
+        "onboard_time": 1718245397,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164198,
+        "num": 164198,
+        "word": "奔驰宝马大众表态",
+        "onboard_time": 1718240719,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 164179,
+        "num": 164179,
+        "word": "2元面包店的面包能吃吗",
+        "onboard_time": 1718238679,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154724,
+        "num": 154724,
+        "word": "原来这才是脊柱喜欢的睡姿",
+        "onboard_time": 1718234355,
+        "rank": 48,
+        "category": "运动健身,科学科普"
+      },
+      {
+        "raw_hot": 147623,
+        "num": 147623,
+        "word": "凯尔特人vs独行侠",
+        "onboard_time": 1718237958,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}
