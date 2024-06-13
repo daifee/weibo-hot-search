@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718275009757,
+  "endTime": 1718277440151,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1710236,
-      "num": 436870,
+      "num": 1572986,
       "word": "2023届本科生月均收入6050元",
       "onboard_time": 1718272037,
       "rank": 10,
@@ -377,6 +377,14 @@
       "onboard_time": 1717944259,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1321399,
+      "num": 433010,
+      "word": "芒果制片人 性骚扰",
+      "onboard_time": 1718274499,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1290048,
@@ -843,6 +851,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 934000,
+      "num": 434685,
+      "word": "老人下公交被夹拖行身亡",
+      "onboard_time": 1718273358,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 930301,
       "num": 930301,
       "word": "刘亦菲新剧口碑逆跌",
@@ -969,6 +985,14 @@
       "onboard_time": 1718096959,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 854472,
+      "num": 254233,
+      "word": "越南女子裸体大闹菲律宾机场",
+      "onboard_time": 1718274077,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 853672,
@@ -1867,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 589400,
+      "num": 589400,
+      "word": "歌手你是大冰吗",
+      "onboard_time": 1718272278,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 588411,
       "num": 588411,
       "word": "新西兰女子携带人类心脏入境澳大利亚",
@@ -1913,14 +1945,6 @@
       "onboard_time": 1717913357,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 575468,
-      "num": 434685,
-      "word": "老人下公交被夹拖行身亡",
-      "onboard_time": 1718273358,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 574242,
@@ -2491,14 +2515,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 490762,
-      "num": 490762,
-      "word": "歌手你是大冰吗",
-      "onboard_time": 1718272278,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 490558,
       "num": 246992,
       "word": "彭冠英否认庄国栋有未婚妻",
@@ -2616,6 +2632,14 @@
       "word": "那么多卖咸蛋黄的蛋清都去哪了",
       "onboard_time": 1718002098,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475540,
+      "num": 475540,
+      "word": "日本主持人称难怪烟花是中国发明的",
+      "onboard_time": 1718272098,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3049,14 +3073,6 @@
       "onboard_time": 1718247618,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 433010,
-      "num": 433010,
-      "word": "芒果制片人 性骚扰",
-      "onboard_time": 1718274499,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 433007,
@@ -6011,20 +6027,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220723,
+      "num": 196654,
+      "word": "你顶着这张脸她能图什么",
+      "onboard_time": 1718276419,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220588,
       "num": 186271,
       "word": "李溪芮为尚雯婕P了歌手图",
       "onboard_time": 1718267238,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220433,
-      "num": 220433,
-      "word": "日本主持人称难怪烟花是中国发明的",
-      "onboard_time": 1718272098,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219927,
@@ -7243,6 +7259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 193079,
+      "num": 193079,
+      "word": "WBG战胜AL",
+      "onboard_time": 1718277139,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193027,
       "num": 193027,
       "word": "云边有个小卖部球球认亲预告",
@@ -7576,6 +7600,14 @@
       "word": "TFBOYS十一周年一定要办",
       "onboard_time": 1717975874,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187241,
+      "num": 187241,
+      "word": "全车导演和工作人员默不作声",
+      "onboard_time": 1718275399,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -8339,6 +8371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168801,
+      "num": 168801,
+      "word": "为什么农村大席不会吃坏肚子",
+      "onboard_time": 1718272458,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 168784,
       "num": 898361,
       "word": "高考报志愿要了解的16个关键词",
@@ -8401,6 +8441,14 @@
       "onboard_time": 1718268258,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167603,
+      "num": 167603,
+      "word": "全职高手",
+      "onboard_time": 1718274799,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 167538,
@@ -8897,14 +8945,6 @@
       "onboard_time": 1718240599,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158475,
-      "num": 158475,
-      "word": "为什么农村大席不会吃坏肚子",
-      "onboard_time": 1718272458,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 158238,
@@ -9587,6 +9627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 146602,
+      "num": 146602,
+      "word": "到底是谁在花几十块买苹果截图啊",
+      "onboard_time": 1718272936,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146363,
       "num": 140248,
       "word": "魏晨坦言不喜欢自己",
@@ -9649,14 +9697,6 @@
       "onboard_time": 1718072598,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145443,
-      "num": 145443,
-      "word": "到底是谁在花几十块买苹果截图啊",
-      "onboard_time": 1718272936,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 145427,
@@ -9885,10 +9925,10 @@
     {
       "raw_hot": 141375,
       "num": 141375,
-      "word": "全职高手",
-      "onboard_time": 1718274799,
-      "rank": 39,
-      "category": "动漫,作品衍生"
+      "word": "新加坡门将桑尼下月将受邀来中国",
+      "onboard_time": 1718275577,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 141358,
@@ -12011,6 +12051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103390,
+      "num": 103390,
+      "word": "哪些表现可能是热射病",
+      "onboard_time": 1718275938,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103324,
       "num": 103324,
       "word": "韩华bp",
@@ -12427,6 +12475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91027,
+      "num": 91027,
+      "word": "江城的公孙离",
+      "onboard_time": 1718276120,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90710,
       "num": 191117,
       "word": "这些地区高考还有一些单科在考",
@@ -12745,6 +12801,14 @@
       "onboard_time": 1717951456,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74396,
+      "num": 201993,
+      "word": "17岁的她想证明女生也能学好数学",
+      "onboard_time": 1718277258,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 73967,
@@ -14040,6 +14104,14 @@
       "word": "众星祝贺辛纳首登世界第一",
       "onboard_time": 1718096417,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 23522,
+      "num": 118470,
+      "word": "杰伦布朗加入剃头宇宙",
+      "onboard_time": 1718276419,
+      "rank": 39,
       "category": "体育"
     },
     {

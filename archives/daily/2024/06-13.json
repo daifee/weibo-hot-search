@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718275009757,
+  "endTime": 1718277440151,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1710236,
-      "num": 436870,
+      "num": 1572986,
       "word": "2023届本科生月均收入6050元",
       "onboard_time": 1718272037,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1718234776,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1321399,
+      "num": 433010,
+      "word": "芒果制片人 性骚扰",
+      "onboard_time": 1718274499,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 1250127,
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934000,
+      "num": 434685,
+      "word": "老人下公交被夹拖行身亡",
+      "onboard_time": 1718273358,
+      "rank": 31,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 926844,
       "num": 926844,
       "word": "加沙8岁女孩被活活饿死",
@@ -153,6 +169,14 @@
       "onboard_time": 1718251218,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 854472,
+      "num": 254233,
+      "word": "越南女子裸体大闹菲律宾机场",
+      "onboard_time": 1718274077,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 817793,
@@ -259,20 +283,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 589400,
+      "num": 589400,
+      "word": "歌手你是大冰吗",
+      "onboard_time": 1718272278,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 579038,
       "num": 579038,
       "word": "刘亦菲一部剧带火了5个人",
       "onboard_time": 1718200340,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 575468,
-      "num": 434685,
-      "word": "老人下公交被夹拖行身亡",
-      "onboard_time": 1718273358,
-      "rank": 31,
-      "category": "社会负面"
     },
     {
       "raw_hot": 571643,
@@ -395,14 +419,6 @@
       "category": "科学科普,健康医疗"
     },
     {
-      "raw_hot": 490762,
-      "num": 490762,
-      "word": "歌手你是大冰吗",
-      "onboard_time": 1718272278,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486585,
       "num": 493518,
       "word": "黄焖鸡米饭为什么不香了",
@@ -425,6 +441,14 @@
       "onboard_time": 1718207958,
       "rank": 3,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 475540,
+      "num": 475540,
+      "word": "日本主持人称难怪烟花是中国发明的",
+      "onboard_time": 1718272098,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475012,
@@ -505,14 +529,6 @@
       "onboard_time": 1718247618,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 433010,
-      "num": 433010,
-      "word": "芒果制片人 性骚扰",
-      "onboard_time": 1718274499,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 430221,
@@ -1043,20 +1059,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220723,
+      "num": 196654,
+      "word": "你顶着这张脸她能图什么",
+      "onboard_time": 1718276419,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220588,
       "num": 186271,
       "word": "李溪芮为尚雯婕P了歌手图",
       "onboard_time": 1718267238,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 220433,
-      "num": 220433,
-      "word": "日本主持人称难怪烟花是中国发明的",
-      "onboard_time": 1718272098,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219330,
@@ -1307,6 +1323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193079,
+      "num": 193079,
+      "word": "WBG战胜AL",
+      "onboard_time": 1718277139,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189960,
       "num": 189960,
       "word": "超新星运动会回归",
@@ -1369,6 +1393,14 @@
       "onboard_time": 1718273117,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187241,
+      "num": 187241,
+      "word": "全车导演和工作人员默不作声",
+      "onboard_time": 1718275399,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 187196,
@@ -1467,12 +1499,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 168801,
+      "num": 168801,
+      "word": "为什么农村大席不会吃坏肚子",
+      "onboard_time": 1718272458,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167807,
       "num": 167807,
       "word": "吴谨言开辟令妃回宫赛道",
       "onboard_time": 1718268258,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167603,
+      "num": 167603,
+      "word": "全职高手",
+      "onboard_time": 1718274799,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 166508,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1718240599,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158475,
-      "num": 158475,
-      "word": "为什么农村大席不会吃坏肚子",
-      "onboard_time": 1718272458,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 158416,
@@ -1723,20 +1763,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 146602,
+      "num": 146602,
+      "word": "到底是谁在花几十块买苹果截图啊",
+      "onboard_time": 1718272936,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146058,
       "num": 146058,
       "word": "米卡写汉字也是先画电脑吗",
       "onboard_time": 1718259919,
       "rank": 48,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 145443,
-      "num": 145443,
-      "word": "到底是谁在花几十块买苹果截图啊",
-      "onboard_time": 1718272936,
-      "rank": 43,
-      "category": "数码"
     },
     {
       "raw_hot": 143926,
@@ -1765,10 +1805,10 @@
     {
       "raw_hot": 141375,
       "num": 141375,
-      "word": "全职高手",
-      "onboard_time": 1718274799,
-      "rank": 39,
-      "category": "动漫,作品衍生"
+      "word": "新加坡门将桑尼下月将受邀来中国",
+      "onboard_time": 1718275577,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 140704,
@@ -2107,6 +2147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103390,
+      "num": 103390,
+      "word": "哪些表现可能是热射病",
+      "onboard_time": 1718275938,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 103134,
       "num": 575764,
       "word": "拍到地球自转是什么体验",
@@ -2171,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91027,
+      "num": 91027,
+      "word": "江城的公孙离",
+      "onboard_time": 1718276120,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89187,
       "num": 572867,
       "word": "墨雨云间 已老实求加更",
@@ -2225,6 +2281,14 @@
       "onboard_time": 1718218271,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74396,
+      "num": 201993,
+      "word": "17岁的她想证明女生也能学好数学",
+      "onboard_time": 1718277258,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 73736,
@@ -2569,6 +2633,14 @@
       "onboard_time": 1718214073,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23522,
+      "num": 118470,
+      "word": "杰伦布朗加入剃头宇宙",
+      "onboard_time": 1718276419,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 22246,
