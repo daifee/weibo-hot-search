@@ -1,0 +1,410 @@
+{
+  "runTime": 1718263106508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1454840,
+        "num": 1454840,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1168546,
+        "num": 1168546,
+        "word": "歌手发歌单了",
+        "onboard_time": 1718259079,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53016,
+        "num": 948576,
+        "word": "在博物馆里感受文化绵延生命力",
+        "onboard_time": 1718250379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942477,
+        "num": 942477,
+        "word": "王一博禁止擅闯车场声明",
+        "onboard_time": 1718260697,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627037,
+        "num": 627037,
+        "word": "LV售后欧洲免费国内收2400",
+        "onboard_time": 1718256677,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472605,
+        "num": 472605,
+        "word": "已老实 光头求放过",
+        "onboard_time": 1718254100,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 541119,
+        "num": 406202,
+        "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+        "onboard_time": 1718249839,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500792,
+        "num": 384427,
+        "word": "于正回复伊能静小作文",
+        "onboard_time": 1718254878,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338361,
+        "num": 338361,
+        "word": "黄焖鸡米饭为什么不香了",
+        "onboard_time": 1718253260,
+        "rank": 8,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 40940,
+        "num": 338202,
+        "word": "器官捐献协调员称遭到了许多误解",
+        "onboard_time": 1718262019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1464737,
+        "num": 337459,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1162696,
+        "num": 337210,
+        "word": "天启 家暴",
+        "onboard_time": 1718257518,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 484174,
+        "num": 336496,
+        "word": "墨雨云间直播",
+        "onboard_time": 1718261238,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435612,
+        "num": 336058,
+        "word": "汪苏泷不会真唱奢香夫人吧",
+        "onboard_time": 1718260819,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29043,
+        "num": 335399,
+        "word": "G331吉线秘境",
+        "onboard_time": 1718262019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401010,
+        "num": 334747,
+        "word": "手机充电一整宿有多危险",
+        "onboard_time": 1718259619,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 334549,
+        "num": 334549,
+        "word": "邓超水下吐血镜头",
+        "onboard_time": 1718258118,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285375,
+        "num": 285375,
+        "word": "机场回应明星耍大牌喊旅客下电梯",
+        "onboard_time": 1718254339,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 238963,
+        "num": 238963,
+        "word": "孙颖莎王楚钦入选福布斯亚洲榜",
+        "onboard_time": 1718259019,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229718,
+        "num": 229718,
+        "word": "美国发生大规模伤亡事件",
+        "onboard_time": 1718260640,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305461,
+        "num": 229703,
+        "word": "墨雨云间",
+        "onboard_time": 1718260819,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295408,
+        "num": 229659,
+        "word": "金硕珍拥抱了1000名粉丝",
+        "onboard_time": 1718261718,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273935,
+        "num": 229650,
+        "word": "伊能静给墨雨云间写小作文",
+        "onboard_time": 1718253620,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229391,
+        "num": 229391,
+        "word": "MIUMIU品牌大使刘浩存",
+        "onboard_time": 1718249957,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 223638,
+        "num": 223638,
+        "word": "为什么得物越来越不受欢迎了",
+        "onboard_time": 1718260937,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 222234,
+        "num": 222234,
+        "word": "张艺兴戴腰链",
+        "onboard_time": 1718260999,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219725,
+        "num": 219725,
+        "word": "只要公主敢嫁裴某自然敢娶",
+        "onboard_time": 1718251218,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198891,
+        "num": 198891,
+        "word": "本周歌手有奢香夫人",
+        "onboard_time": 1718261958,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195841,
+        "num": 195841,
+        "word": "听说浙江人已经没地方晾衣服了",
+        "onboard_time": 1718258118,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 7075,
+        "num": 192716,
+        "word": "日本男子被曝在多家儿童机构性侵女童",
+        "onboard_time": 1718262978,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196975,
+        "num": 192561,
+        "word": "刘亦菲发疯戏是即兴发挥",
+        "onboard_time": 1718251518,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190998,
+        "num": 190998,
+        "word": "王安宇抱刘浩存转圈",
+        "onboard_time": 1718262799,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186173,
+        "num": 186173,
+        "word": "谁选的人是",
+        "onboard_time": 1718260878,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173310,
+        "num": 173310,
+        "word": "体检报告出现这些字眼要当心",
+        "onboard_time": 1718256559,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165204,
+        "num": 165204,
+        "word": "高三班主任花36天给每位学生写信",
+        "onboard_time": 1718261779,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18557,
+        "num": 160568,
+        "word": "拿到了邓超送的螺蛳粉",
+        "onboard_time": 1718262739,
+        "rank": 35,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 172041,
+        "num": 160314,
+        "word": "王星越我再救你一次",
+        "onboard_time": 1718262678,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156919,
+        "num": 156919,
+        "word": "高考完已经急着去上大学了",
+        "onboard_time": 1718258900,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160902,
+        "num": 155387,
+        "word": "吴谨言脸小用眼影刷画腮红",
+        "onboard_time": 1718262318,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151165,
+        "num": 151165,
+        "word": "江西鹰潭发生龙舟侧翻事故",
+        "onboard_time": 1718262378,
+        "rank": 39,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 149078,
+        "num": 149078,
+        "word": "玫瑰的故事 前夫哥上线",
+        "onboard_time": 1718260517,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148338,
+        "num": 148338,
+        "word": "丁泽仁去当拆卡博主了",
+        "onboard_time": 1718262918,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147573,
+        "num": 147573,
+        "word": "国产樱桃在赶超进口车厘子",
+        "onboard_time": 1718257098,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146220,
+        "num": 146220,
+        "word": "余秀华 完颜慧德",
+        "onboard_time": 1718246296,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146058,
+        "num": 146058,
+        "word": "米卡写汉字也是先画电脑吗",
+        "onboard_time": 1718259919,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 140389,
+        "num": 140389,
+        "word": "乌尔善新片异人之下定档",
+        "onboard_time": 1718259858,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137908,
+        "num": 137908,
+        "word": "双胞胎大熊猫的默契感有多强",
+        "onboard_time": 1718261418,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129810,
+        "num": 129810,
+        "word": "游客在四川瓦屋山被落石砸中身亡",
+        "onboard_time": 1718252840,
+        "rank": 47,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 124978,
+        "num": 124978,
+        "word": "鸿蒙份额超越iOS",
+        "onboard_time": 1718262498,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124954,
+        "num": 124954,
+        "word": "巴黎奥运村不装空调遭运动员强烈反对",
+        "onboard_time": 1718246238,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}
