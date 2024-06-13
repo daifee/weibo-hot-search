@@ -1,0 +1,410 @@
+{
+  "runTime": 1718282161282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228761,
+        "num": 1228761,
+        "word": "越南女子裸体大闹菲律宾机场",
+        "onboard_time": 1718274077,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906569,
+        "num": 906569,
+        "word": "苏更生被继父侵犯",
+        "onboard_time": 1718278697,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141537,
+        "num": 866605,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857165,
+        "num": 857165,
+        "word": "芒果台声明",
+        "onboard_time": 1718280858,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752994,
+        "num": 752994,
+        "word": "2023届本科生月均收入6050元",
+        "onboard_time": 1718272037,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 504766,
+        "num": 504766,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 734228,
+        "num": 492293,
+        "word": "郝蕾表演课300一节",
+        "onboard_time": 1718280199,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581707,
+        "num": 476047,
+        "word": "王一博禁止擅闯车场声明",
+        "onboard_time": 1718260697,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453565,
+        "num": 453565,
+        "word": "印度男子在冰激凌中发现手指",
+        "onboard_time": 1718277918,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210662,
+        "num": 449794,
+        "word": "男子凌晨跳江被网约车司机一把拽住",
+        "onboard_time": 1718279298,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 46814,
+        "num": 449136,
+        "word": "明星走红毯手机放哪儿",
+        "onboard_time": 1718280256,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 448980,
+        "num": 448980,
+        "word": "刘亦菲替林更新澄清",
+        "onboard_time": 1718279477,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447212,
+        "num": 447212,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 418914,
+        "num": 418914,
+        "word": "老人下公交被夹拖行身亡",
+        "onboard_time": 1718273358,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 25342,
+        "num": 393628,
+        "word": "塔图姆回应最佳球员讨论",
+        "onboard_time": 1718280017,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384184,
+        "num": 384184,
+        "word": "工厂请千名工人吃1吨龙虾西瓜",
+        "onboard_time": 1718277618,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253885,
+        "num": 253885,
+        "word": "你顶着这张脸她能图什么",
+        "onboard_time": 1718276419,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243656,
+        "num": 243656,
+        "word": "以色列",
+        "onboard_time": 1718278338,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 239612,
+        "num": 239612,
+        "word": "加沙8岁女孩被活活饿死",
+        "onboard_time": 1718267599,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 235689,
+        "num": 235689,
+        "word": "玫瑰的故事直播",
+        "onboard_time": 1718277977,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381392,
+        "num": 227558,
+        "word": "张钧甯红丝袜",
+        "onboard_time": 1718278037,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 250297,
+        "num": 225799,
+        "word": "谢娜新综艺官宣",
+        "onboard_time": 1718278639,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217609,
+        "num": 217609,
+        "word": "终于知道巴巴爸爸的受众是谁了",
+        "onboard_time": 1718278758,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213559,
+        "num": 213559,
+        "word": "偷偷藏不住八大名场面",
+        "onboard_time": 1718278998,
+        "rank": 23,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 212848,
+        "num": 212848,
+        "word": "歌手你是大冰吗",
+        "onboard_time": 1718272278,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197108,
+        "num": 197108,
+        "word": "为什么年轻人越来越讨厌人情世故了",
+        "onboard_time": 1718281218,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185445,
+        "num": 185445,
+        "word": "一人之下在漫画界到底有多牛",
+        "onboard_time": 1718281099,
+        "rank": 26,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 169460,
+        "num": 169460,
+        "word": "姜萍",
+        "onboard_time": 1718278819,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163778,
+        "num": 163778,
+        "word": "荣耀手机",
+        "onboard_time": 1718280678,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162515,
+        "num": 162515,
+        "word": "厦门鼓浪屿晴天墙被擦除",
+        "onboard_time": 1718273478,
+        "rank": 29,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 160635,
+        "num": 160635,
+        "word": "日本主持人称难怪烟花是中国发明的",
+        "onboard_time": 1718272098,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153962,
+        "num": 153962,
+        "word": "万茜的伤疤",
+        "onboard_time": 1718278938,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152613,
+        "num": 152613,
+        "word": "齐思钧发视频报平安",
+        "onboard_time": 1718269578,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152247,
+        "num": 152247,
+        "word": "郭炜炜电话",
+        "onboard_time": 1718278397,
+        "rank": 33,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 141091,
+        "num": 141091,
+        "word": "女生高考后一觉睡30个小时",
+        "onboard_time": 1718273658,
+        "rank": 34,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 140939,
+        "num": 140939,
+        "word": "中国男篮26人集训名单",
+        "onboard_time": 1718279957,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132224,
+        "num": 132224,
+        "word": "福宝池塘泡澡熊掌拨清波",
+        "onboard_time": 1718279957,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129610,
+        "num": 129610,
+        "word": "建议大家购买饮料别加冰",
+        "onboard_time": 1718263338,
+        "rank": 37,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 127613,
+        "num": 127613,
+        "word": "篮协确认乔尔杰维奇离任",
+        "onboard_time": 1718281398,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119601,
+        "num": 119601,
+        "word": "是棋子也是妻子",
+        "onboard_time": 1718281938,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76763,
+        "num": 119545,
+        "word": "记者揭秘酒店代订生意如何赚钱",
+        "onboard_time": 1718280017,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119531,
+        "num": 119531,
+        "word": "奢香夫人",
+        "onboard_time": 1718263218,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118667,
+        "num": 118667,
+        "word": "菲常萧张",
+        "onboard_time": 1718279477,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117078,
+        "num": 117078,
+        "word": "北京天气",
+        "onboard_time": 1718281818,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115109,
+        "num": 115109,
+        "word": "乒乓世界",
+        "onboard_time": 1718280798,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112666,
+        "num": 112666,
+        "word": "BW",
+        "onboard_time": 1718278697,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111605,
+        "num": 111605,
+        "word": "已老实 光头求放过",
+        "onboard_time": 1718254100,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111161,
+        "num": 111161,
+        "word": "歌手发歌单了",
+        "onboard_time": 1718259079,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109197,
+        "num": 109197,
+        "word": "WE翻盘BLG",
+        "onboard_time": 1718281157,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104775,
+        "num": 104775,
+        "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+        "onboard_time": 1718249839,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}

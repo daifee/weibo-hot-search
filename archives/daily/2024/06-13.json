@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718278478030,
+  "endTime": 1718282161282,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -91,8 +91,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1202774,
-      "num": 1202774,
+      "raw_hot": 1228761,
+      "num": 1228761,
       "word": "越南女子裸体大闹菲律宾机场",
       "onboard_time": 1718274077,
       "rank": 12,
@@ -171,12 +171,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 906569,
+      "num": 906569,
+      "word": "苏更生被继父侵犯",
+      "onboard_time": 1718278697,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 885033,
       "num": 885033,
       "word": "只要公主敢嫁裴某自然敢娶",
       "onboard_time": 1718251218,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 857165,
+      "num": 857165,
+      "word": "芒果台声明",
+      "onboard_time": 1718280858,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 817793,
@@ -225,6 +241,14 @@
       "onboard_time": 1718246238,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 734228,
+      "num": 492293,
+      "word": "郝蕾表演课300一节",
+      "onboard_time": 1718280199,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 732655,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 522111,
-      "num": 522111,
+      "num": 866605,
       "word": "南海沉船打捞出的文物惊艳了",
       "onboard_time": 1718269578,
       "rank": 31,
@@ -475,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 453565,
+      "num": 453565,
+      "word": "印度男子在冰激凌中发现手指",
+      "onboard_time": 1718277918,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 449872,
       "num": 449872,
       "word": "光与夜之恋",
@@ -489,6 +521,14 @@
       "onboard_time": 1718234355,
       "rank": 20,
       "category": "运动健身,科学科普"
+    },
+    {
+      "raw_hot": 448980,
+      "num": 448980,
+      "word": "刘亦菲替林更新澄清",
+      "onboard_time": 1718279477,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 448320,
@@ -579,12 +619,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384184,
+      "num": 384184,
+      "word": "工厂请千名工人吃1吨龙虾西瓜",
+      "onboard_time": 1718277618,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381569,
       "num": 381569,
       "word": "男童被武术教练殴打致死案一审宣判",
       "onboard_time": 1718247977,
       "rank": 25,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 381392,
+      "num": 227558,
+      "word": "张钧甯红丝袜",
+      "onboard_time": 1718278037,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 378523,
@@ -923,11 +979,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 253885,
+      "num": 253885,
+      "word": "你顶着这张脸她能图什么",
+      "onboard_time": 1718276419,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250586,
       "num": 219779,
       "word": "尚雯婕 不鼓自鸣",
       "onboard_time": 1718254339,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250297,
+      "num": 225799,
+      "word": "谢娜新综艺官宣",
+      "onboard_time": 1718278639,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -937,14 +1009,6 @@
       "onboard_time": 1718260937,
       "rank": 24,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 247461,
-      "num": 247461,
-      "word": "你顶着这张脸她能图什么",
-      "onboard_time": 1718276419,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 247347,
@@ -977,6 +1041,14 @@
       "onboard_time": 1718243657,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 243656,
+      "num": 243656,
+      "word": "以色列",
+      "onboard_time": 1718278338,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 241424,
@@ -1051,14 +1123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225963,
-      "num": 206160,
-      "word": "工厂请千名工人吃1吨龙虾西瓜",
-      "onboard_time": 1718277618,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 223964,
       "num": 223964,
       "word": "第五人格",
@@ -1081,14 +1145,6 @@
       "onboard_time": 1718260999,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 221467,
-      "num": 139757,
-      "word": "张钧甯红丝袜",
-      "onboard_time": 1718278037,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221410,
@@ -1147,6 +1203,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 217609,
+      "num": 217609,
+      "word": "终于知道巴巴爸爸的受众是谁了",
+      "onboard_time": 1718278758,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217558,
       "num": 217558,
       "word": "厦门鼓浪屿晴天墙被擦除",
@@ -1179,6 +1243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213559,
+      "num": 213559,
+      "word": "偷偷藏不住八大名场面",
+      "onboard_time": 1718278998,
+      "rank": 23,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 212529,
       "num": 197506,
       "word": "吴谨言王星越回应cp名",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1718198480,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210662,
+      "num": 449794,
+      "word": "男子凌晨跳江被网约车司机一把拽住",
+      "onboard_time": 1718279298,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 209312,
@@ -1313,6 +1393,14 @@
       "onboard_time": 1718238740,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197108,
+      "num": 197108,
+      "word": "为什么年轻人越来越讨厌人情世故了",
+      "onboard_time": 1718281218,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 196261,
@@ -1459,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185445,
+      "num": 185445,
+      "word": "一人之下在漫画界到底有多牛",
+      "onboard_time": 1718281099,
+      "rank": 26,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 183943,
       "num": 575264,
       "word": "家门口遭捅死女孩曾被保送北外",
@@ -1531,6 +1627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169460,
+      "num": 169460,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168801,
       "num": 168801,
       "word": "为什么农村大席不会吃坏肚子",
@@ -1577,6 +1681,14 @@
       "onboard_time": 1718258238,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163778,
+      "num": 163778,
+      "word": "荣耀手机",
+      "onboard_time": 1718280678,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 163235,
@@ -1715,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 153962,
+      "num": 153962,
+      "word": "万茜的伤疤",
+      "onboard_time": 1718278938,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153410,
       "num": 153410,
       "word": "一只哈士奇混在两只狼中间",
@@ -1729,6 +1849,14 @@
       "onboard_time": 1718254339,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152247,
+      "num": 152247,
+      "word": "郭炜炜电话",
+      "onboard_time": 1718278397,
+      "rank": 36,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 152073,
@@ -1843,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140939,
+      "num": 140939,
+      "word": "中国男篮26人集训名单",
+      "onboard_time": 1718279957,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140704,
       "num": 574893,
       "word": "刘亦菲霍建华香港文艺片氛围感",
@@ -1915,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132224,
+      "num": 132224,
+      "word": "福宝池塘泡澡熊掌拨清波",
+      "onboard_time": 1718279957,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131948,
       "num": 131948,
       "word": "市监局通报蜜雪冰城员工水池冲脚",
@@ -1929,14 +2073,6 @@
       "onboard_time": 1718265440,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131785,
-      "num": 131785,
-      "word": "郭炜炜电话",
-      "onboard_time": 1718278397,
-      "rank": 36,
-      "category": "游戏,艺人"
     },
     {
       "raw_hot": 131504,
@@ -1995,6 +2131,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 127613,
+      "num": 127613,
+      "word": "篮协确认乔尔杰维奇离任",
+      "onboard_time": 1718281398,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127237,
       "num": 127237,
       "word": "狗子嫌家热到隔壁蹭空调",
@@ -2027,6 +2171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119601,
+      "num": 119601,
+      "word": "是棋子也是妻子",
+      "onboard_time": 1718281938,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 118667,
+      "num": 118667,
+      "word": "菲常萧张",
+      "onboard_time": 1718279477,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118552,
       "num": 574495,
       "word": "黄亦玫方协文闪婚",
@@ -2043,6 +2203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 117078,
+      "num": 117078,
+      "word": "北京天气",
+      "onboard_time": 1718281818,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117062,
       "num": 574455,
       "word": "YG糟糕的公关",
@@ -2056,6 +2224,14 @@
       "word": "欧文终于进三分了",
       "onboard_time": 1718244378,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115109,
+      "num": 115109,
+      "word": "乒乓世界",
+      "onboard_time": 1718280798,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -2105,6 +2281,14 @@
       "onboard_time": 1718264357,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112666,
+      "num": 112666,
+      "word": "BW",
+      "onboard_time": 1718278697,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 111299,
@@ -2168,6 +2352,14 @@
       "word": "初晨大司命MVP",
       "onboard_time": 1718277977,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109197,
+      "num": 109197,
+      "word": "WE翻盘BLG",
+      "onboard_time": 1718281157,
+      "rank": 48,
       "category": "电竞"
     },
     {
@@ -2241,14 +2433,6 @@
       "onboard_time": 1718246538,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100707,
-      "num": 100707,
-      "word": "以色列",
-      "onboard_time": 1718278338,
-      "rank": 46,
-      "category": "国外时政"
     },
     {
       "raw_hot": 100142,
@@ -2339,6 +2523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 76763,
+      "num": 119545,
+      "word": "记者揭秘酒店代订生意如何赚钱",
+      "onboard_time": 1718280017,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76639,
       "num": 76639,
       "word": "怦然心动20岁 be",
@@ -2408,14 +2600,6 @@
       "word": "瓦屋山",
       "onboard_time": 1718205200,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66713,
-      "num": 119115,
-      "word": "印度男子在冰激凌中发现手指",
-      "onboard_time": 1718277918,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -2571,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46814,
+      "num": 449136,
+      "word": "明星走红毯手机放哪儿",
+      "onboard_time": 1718280256,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 46615,
       "num": 46615,
       "word": "吴谨言回复罗伯特",
@@ -2705,6 +2897,14 @@
       "onboard_time": 1718214073,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 25342,
+      "num": 393628,
+      "word": "塔图姆回应最佳球员讨论",
+      "onboard_time": 1718280017,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 22246,
