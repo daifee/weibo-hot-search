@@ -1,0 +1,410 @@
+{
+  "runTime": 1718307252579,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 267007,
+        "num": 267007,
+        "word": "姜萍",
+        "onboard_time": 1718278819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118480,
+        "num": 118480,
+        "word": "5km 倒闭",
+        "onboard_time": 1718289020,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 16841,
+        "num": 89274,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86783,
+        "num": 86783,
+        "word": "张百乔评论网友法院见",
+        "onboard_time": 1718292619,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66762,
+        "num": 66762,
+        "word": "林更新这个真骂不了",
+        "onboard_time": 1718286138,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39195,
+        "num": 39195,
+        "word": "三本学生考公要做好多年备考的决心",
+        "onboard_time": 1718297354,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41375,
+        "num": 38550,
+        "word": "米卡表白刘亦菲",
+        "onboard_time": 1718288540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40384,
+        "num": 38172,
+        "word": "郝蕾表演课300一节",
+        "onboard_time": 1718280199,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35023,
+        "num": 35023,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 16341,
+        "num": 34590,
+        "word": "学生认为做错的实验竟破解世纪难题",
+        "onboard_time": 1718292679,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52769,
+        "num": 34587,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 38326,
+        "num": 34577,
+        "word": "刘亦菲蓝色泳装",
+        "onboard_time": 1718282418,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34567,
+        "num": 34567,
+        "word": "郭晓婷 当然是选择相信朋友啦",
+        "onboard_time": 1718295677,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30996,
+        "num": 30996,
+        "word": "靠锅气来分辨预制菜已经没用了",
+        "onboard_time": 1718283618,
+        "rank": 13,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 30049,
+        "num": 30049,
+        "word": "越南女子裸体大闹菲律宾机场",
+        "onboard_time": 1718274077,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29844,
+        "num": 29844,
+        "word": "茅台已跌至2264元",
+        "onboard_time": 1718283919,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 29580,
+        "num": 29580,
+        "word": "玫瑰的故事直播",
+        "onboard_time": 1718277977,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29422,
+        "num": 29422,
+        "word": "印度男子在冰激凌中发现手指",
+        "onboard_time": 1718277918,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27180,
+        "num": 27180,
+        "word": "声优祭",
+        "onboard_time": 1718299453,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 21544,
+        "num": 21544,
+        "word": "黄亦玫 白羊座",
+        "onboard_time": 1718300652,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60260,
+        "num": 21540,
+        "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
+        "onboard_time": 1718293817,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44055,
+        "num": 21525,
+        "word": "韩国女子20年前遭集体性侵",
+        "onboard_time": 1718288958,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37444,
+        "num": 21517,
+        "word": "结婚33天了俩人就没做过饭",
+        "onboard_time": 1718290039,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26390,
+        "num": 21497,
+        "word": "2023届本科生月均收入6050元",
+        "onboard_time": 1718272037,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 21494,
+        "num": 21494,
+        "word": "网传杨紫将缺席白玉兰",
+        "onboard_time": 1718294898,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21169,
+        "num": 21169,
+        "word": "广东人已发霉求放过",
+        "onboard_time": 1718291839,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20866,
+        "num": 20866,
+        "word": "谢娜新综艺官宣",
+        "onboard_time": 1718278639,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20808,
+        "num": 20808,
+        "word": "被迷你小房间惊艳到了",
+        "onboard_time": 1718293877,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20739,
+        "num": 20739,
+        "word": "装在套子里的人 冒犯的人",
+        "onboard_time": 1718297235,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20642,
+        "num": 20642,
+        "word": "以色列北部遭袭击",
+        "onboard_time": 1718284699,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 24768,
+        "num": 20629,
+        "word": "茅台市值跌掉一个青岛啤酒",
+        "onboard_time": 1718305931,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 20425,
+        "num": 20425,
+        "word": "年级倒一和年级第一的友情",
+        "onboard_time": 1718289020,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19719,
+        "num": 19719,
+        "word": "香蜜沉沉烬如霜云合破150亿",
+        "onboard_time": 1718285719,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19323,
+        "num": 19323,
+        "word": "LV客服回应区别对待中国消费者",
+        "onboard_time": 1718283979,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 18734,
+        "num": 18734,
+        "word": "剑网3凤凰",
+        "onboard_time": 1718290999,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18677,
+        "num": 18677,
+        "word": "向佐把李胜利拍进短剧",
+        "onboard_time": 1718283319,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18572,
+        "num": 18572,
+        "word": "陈乔恩回应墨雨云间狂徒梗",
+        "onboard_time": 1718296336,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18318,
+        "num": 18318,
+        "word": "养老保险缴15年和25年退休金差别",
+        "onboard_time": 1718286619,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18233,
+        "num": 18233,
+        "word": "玫瑰 雨中玫红色大衣",
+        "onboard_time": 1718294297,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18076,
+        "num": 18076,
+        "word": "为什么年轻人越来越讨厌人情世故了",
+        "onboard_time": 1718281218,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17990,
+        "num": 17990,
+        "word": "剑网三",
+        "onboard_time": 1718291358,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17589,
+        "num": 17589,
+        "word": "王一博更新iG",
+        "onboard_time": 1718290341,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17271,
+        "num": 17589,
+        "word": "女生高考后一觉睡30个小时",
+        "onboard_time": 1718273658,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 16842,
+        "num": 17586,
+        "word": "刘亦菲说很荣幸和彭冠英合作",
+        "onboard_time": 1718292858,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16580,
+        "num": 17584,
+        "word": "打喷嚏为什么总是闭眼",
+        "onboard_time": 1718299874,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 15696,
+        "num": 17583,
+        "word": "姜家是得罪月老了吗",
+        "onboard_time": 1718285719,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14823,
+        "num": 17582,
+        "word": "开始审判方协文",
+        "onboard_time": 1718300113,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15410,
+        "num": 17580,
+        "word": "姜元柏你要不看一下你老婆衣服颜色",
+        "onboard_time": 1718289738,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13684,
+        "num": 17578,
+        "word": "王源已读乱回",
+        "onboard_time": 1718287038,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12499,
+        "num": 17578,
+        "word": "猫咪伪造自己一直在家睡觉的事实",
+        "onboard_time": 1718307191,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}

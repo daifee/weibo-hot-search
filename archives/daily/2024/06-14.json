@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718306126220,
+  "endTime": 1718307252579,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -475,6 +475,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 24768,
+      "num": 21683,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 23694,
       "num": 26389,
       "word": "开始审判方协文",
@@ -491,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15907,
-      "num": 21683,
-      "word": "茅台市值跌掉一个青岛啤酒",
-      "onboard_time": 1718305931,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 14391,
       "num": 21680,
       "word": "RIIZE新歌试听",
       "onboard_time": 1718300532,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12499,
+      "num": 17578,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 9416,
