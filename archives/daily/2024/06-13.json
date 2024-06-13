@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718259980282,
+  "endTime": 1718260747627,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -19,8 +19,8 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 1682674,
-      "num": 302690,
+      "raw_hot": 1726383,
+      "num": 470450,
       "word": "王健林王思聪父子重回创富榜前十",
       "onboard_time": 1718257218,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1562114,
-      "num": 302129,
+      "num": 467418,
       "word": "天启 家暴",
       "onboard_time": 1718257518,
       "rank": 11,
@@ -41,6 +41,14 @@
       "onboard_time": 1718254100,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1553435,
+      "num": 1553435,
+      "word": "歌手发歌单了",
+      "onboard_time": 1718259079,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1403648,
@@ -81,14 +89,6 @@
       "onboard_time": 1718238560,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1057172,
-      "num": 1057172,
-      "word": "歌手发歌单了",
-      "onboard_time": 1718259079,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1025011,
@@ -251,12 +251,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 529538,
+      "num": 529538,
+      "word": "LV售后欧洲免费国内收2400",
+      "onboard_time": 1718256677,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 526530,
       "num": 505951,
       "word": "墨雨云间假爹也有真情",
       "onboard_time": 1718249957,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 516563,
+      "num": 516563,
+      "word": "邓超水下吐血镜头",
+      "onboard_time": 1718258118,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 507246,
@@ -387,14 +403,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 405043,
-      "num": 299223,
-      "word": "邓超水下吐血镜头",
-      "onboard_time": 1718258118,
-      "rank": 14,
-      "category": "电影"
-    },
-    {
       "raw_hot": 381569,
       "num": 381569,
       "word": "男童被武术教练殴打致死案一审宣判",
@@ -505,14 +513,6 @@
       "onboard_time": 1718257098,
       "rank": 8,
       "category": "美食"
-    },
-    {
-      "raw_hot": 297860,
-      "num": 332258,
-      "word": "LV售后欧洲免费国内收2400",
-      "onboard_time": 1718256677,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 296645,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246508,
+      "num": 246508,
+      "word": "孙颖莎王楚钦入选福布斯亚洲榜",
+      "onboard_time": 1718259019,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 244225,
       "num": 244225,
       "word": "剑网3无界公测上线",
@@ -673,6 +681,14 @@
       "onboard_time": 1718252479,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239784,
+      "num": 201541,
+      "word": "体检报告出现这些字眼要当心",
+      "onboard_time": 1718256559,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 236315,
@@ -745,14 +761,6 @@
       "onboard_time": 1718204060,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 222560,
-      "num": 201541,
-      "word": "体检报告出现这些字眼要当心",
-      "onboard_time": 1718256559,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 221410,
@@ -835,12 +843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207257,
+      "num": 181371,
+      "word": "听说浙江人已经没地方晾衣服了",
+      "onboard_time": 1718258118,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206769,
       "num": 206769,
       "word": "游客在四川瓦屋山被落石砸中身亡",
       "onboard_time": 1718252840,
       "rank": 40,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 206537,
+      "num": 181153,
+      "word": "高考完已经急着去上大学了",
+      "onboard_time": 1718258900,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 205053,
@@ -881,14 +905,6 @@
       "onboard_time": 1718238740,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196486,
-      "num": 181371,
-      "word": "听说浙江人已经没地方晾衣服了",
-      "onboard_time": 1718258118,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 196261,
@@ -937,6 +953,14 @@
       "onboard_time": 1718247738,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189611,
+      "num": 169100,
+      "word": "乌尔善新片异人之下定档",
+      "onboard_time": 1718259858,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 189395,
@@ -995,28 +1019,20 @@
       "category": "网红,互联网"
     },
     {
-      "raw_hot": 181684,
-      "num": 181684,
-      "word": "孙颖莎王楚钦入选福布斯亚洲榜",
-      "onboard_time": 1718259019,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 181153,
-      "num": 181153,
-      "word": "高考完已经急着去上大学了",
-      "onboard_time": 1718258900,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 180072,
       "num": 180072,
       "word": "王一博赛车",
       "onboard_time": 1718236037,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 180049,
+      "num": 180049,
+      "word": "手机充电一整宿有多危险",
+      "onboard_time": 1718259619,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 178365,
@@ -1203,6 +1219,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144320,
+      "num": 144320,
+      "word": "米卡写汉字也是先画电脑吗",
+      "onboard_time": 1718259919,
+      "rank": 48,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 143821,
       "num": 576015,
       "word": "马斯克被曝与SpaceX多名员工有染",
@@ -1232,6 +1256,14 @@
       "word": "庄国栋黄亦玫错误的时间遇到对的人",
       "onboard_time": 1718247858,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137721,
+      "num": 137721,
+      "word": "玫瑰的故事 前夫哥上线",
+      "onboard_time": 1718260517,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1265,14 +1297,6 @@
       "onboard_time": 1718256318,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 131155,
-      "num": 138894,
-      "word": "手机充电一整宿有多危险",
-      "onboard_time": 1718259619,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 129723,
@@ -1315,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122547,
+      "num": 116302,
+      "word": "王一博禁止擅闯车场声明",
+      "onboard_time": 1718260697,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120812,
       "num": 574659,
       "word": "女子炫了一斤杨梅被送进ICU",
@@ -1353,14 +1385,6 @@
       "onboard_time": 1718232734,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 114148,
-      "num": 114148,
-      "word": "米卡写汉字也是先画电脑吗",
-      "onboard_time": 1718259919,
-      "rank": 48,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 113470,
@@ -1619,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59070,
+      "num": 303929,
+      "word": "苹果店样机备忘录留言令人泪目",
+      "onboard_time": 1718258538,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 58650,
       "num": 302566,
       "word": "故宫帕帕新名帕瘦布辽",
@@ -1723,14 +1755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39280,
-      "num": 303929,
-      "word": "苹果店样机备忘录留言令人泪目",
-      "onboard_time": 1718258538,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 36031,
       "num": 78631,
       "word": "墨雨云间跪下文学",
@@ -1779,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25155,
+      "num": 474311,
+      "word": "这是骑马届的科目几",
+      "onboard_time": 1718260399,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22246,
       "num": 576705,
       "word": "花花七仔来给福宝扎场子",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1718227090,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7043,
+      "num": 167140,
+      "word": "美国发生大规模伤亡事件",
+      "onboard_time": 1718260640,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

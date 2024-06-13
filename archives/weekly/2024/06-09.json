@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718259980282,
+  "endTime": 1718260747627,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -147,6 +147,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 1726383,
+      "num": 470450,
+      "word": "王健林王思聪父子重回创富榜前十",
+      "onboard_time": 1718257218,
+      "rank": 10,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 1718023,
       "num": 1718023,
       "word": "doc和docx有什么区别",
@@ -161,14 +169,6 @@
       "onboard_time": 1717990817,
       "rank": 0,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1682674,
-      "num": 302690,
-      "word": "王健林王思聪父子重回创富榜前十",
-      "onboard_time": 1718257218,
-      "rank": 10,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1654783,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 1562114,
-      "num": 302129,
+      "num": 467418,
       "word": "天启 家暴",
       "onboard_time": 1718257518,
       "rank": 11,
@@ -217,6 +217,14 @@
       "onboard_time": 1718254100,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1553435,
+      "num": 1553435,
+      "word": "歌手发歌单了",
+      "onboard_time": 1718259079,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1539165,
@@ -609,14 +617,6 @@
       "onboard_time": 1718061495,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1057172,
-      "num": 1057172,
-      "word": "歌手发歌单了",
-      "onboard_time": 1718259079,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1056240,
@@ -2083,6 +2083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 529538,
+      "num": 529538,
+      "word": "LV售后欧洲免费国内收2400",
+      "onboard_time": 1718256677,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529377,
       "num": 529377,
       "word": "头一次见正主亲自偷母带的",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1718160017,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516563,
+      "num": 516563,
+      "word": "邓超水下吐血镜头",
+      "onboard_time": 1718258118,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 515583,
@@ -3073,14 +3089,6 @@
       "onboard_time": 1718252900,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 405043,
-      "num": 299223,
-      "word": "邓超水下吐血镜头",
-      "onboard_time": 1718258118,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 403283,
@@ -4355,14 +4363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297860,
-      "num": 332258,
-      "word": "LV售后欧洲免费国内收2400",
-      "onboard_time": 1718256677,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 297157,
       "num": 297157,
       "word": "马伯庸 剑网3",
@@ -5259,6 +5259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246508,
+      "num": 246508,
+      "word": "孙颖莎王楚钦入选福布斯亚洲榜",
+      "onboard_time": 1718259019,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246058,
       "num": 231955,
       "word": "为什么有的药片上有刻痕",
@@ -5409,6 +5417,14 @@
       "onboard_time": 1717925597,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 239784,
+      "num": 201541,
+      "word": "体检报告出现这些字眼要当心",
+      "onboard_time": 1718256559,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239665,
@@ -5713,14 +5729,6 @@
       "onboard_time": 1718075898,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 222560,
-      "num": 201541,
-      "word": "体检报告出现这些字眼要当心",
-      "onboard_time": 1718256559,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 221410,
@@ -6179,6 +6187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207257,
+      "num": 181371,
+      "word": "听说浙江人已经没地方晾衣服了",
+      "onboard_time": 1718258118,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207082,
       "num": 207082,
       "word": "徐正溪工作室",
@@ -6217,6 +6233,14 @@
       "onboard_time": 1717945218,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206537,
+      "num": 181153,
+      "word": "高考完已经急着去上大学了",
+      "onboard_time": 1718258900,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 206385,
@@ -6675,14 +6699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 196486,
-      "num": 181371,
-      "word": "听说浙江人已经没地方晾衣服了",
-      "onboard_time": 1718258118,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "福宝你好",
@@ -7065,6 +7081,14 @@
       "onboard_time": 1718102477,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 189611,
+      "num": 169100,
+      "word": "乌尔善新片异人之下定档",
+      "onboard_time": 1718259858,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 189467,
@@ -7459,14 +7483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 181684,
-      "num": 181684,
-      "word": "孙颖莎王楚钦入选福布斯亚洲榜",
-      "onboard_time": 1718259019,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 181601,
       "num": 181601,
       "word": "原来今天还有高考",
@@ -7481,14 +7497,6 @@
       "onboard_time": 1718175140,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181153,
-      "num": 181153,
-      "word": "高考完已经急着去上大学了",
-      "onboard_time": 1718258900,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 180851,
@@ -7529,6 +7537,14 @@
       "onboard_time": 1718236037,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 180049,
+      "num": 180049,
+      "word": "手机充电一整宿有多危险",
+      "onboard_time": 1718259619,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 179965,
@@ -9171,6 +9187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 144320,
+      "num": 144320,
+      "word": "米卡写汉字也是先画电脑吗",
+      "onboard_time": 1718259919,
+      "rank": 48,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 144139,
       "num": 144139,
       "word": "赶海登岛成端午热门",
@@ -9571,6 +9595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137721,
+      "num": 137721,
+      "word": "玫瑰的故事 前夫哥上线",
+      "onboard_time": 1718260517,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137581,
       "num": 137581,
       "word": "周深祝毕业快乐",
@@ -9937,14 +9969,6 @@
       "onboard_time": 1718033779,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131155,
-      "num": 138894,
-      "word": "手机充电一整宿有多危险",
-      "onboard_time": 1718259619,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 130973,
@@ -10451,6 +10475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122547,
+      "num": 116302,
+      "word": "王一博禁止擅闯车场声明",
+      "onboard_time": 1718260697,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122482,
       "num": 122482,
       "word": "2024LPL",
@@ -10897,14 +10929,6 @@
       "onboard_time": 1718096179,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114148,
-      "num": 114148,
-      "word": "米卡写汉字也是先画电脑吗",
-      "onboard_time": 1718259919,
-      "rank": 48,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 114005,
@@ -12299,6 +12323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59070,
+      "num": 303929,
+      "word": "苹果店样机备忘录留言令人泪目",
+      "onboard_time": 1718258538,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 58918,
       "num": 293205,
       "word": "金榜题名的金榜长啥样",
@@ -12899,14 +12931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 39280,
-      "num": 303929,
-      "word": "苹果店样机备忘录留言令人泪目",
-      "onboard_time": 1718258538,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 39167,
       "num": 265482,
       "word": "他们高举国旗走在祖国边境线",
@@ -13241,6 +13265,14 @@
       "onboard_time": 1718181260,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25155,
+      "num": 474311,
+      "word": "这是骑马届的科目几",
+      "onboard_time": 1718260399,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 24920,
@@ -13632,6 +13664,14 @@
       "word": "外卖员被困激流消防公主抱式救出",
       "onboard_time": 1717956191,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7043,
+      "num": 167140,
+      "word": "美国发生大规模伤亡事件",
+      "onboard_time": 1718260640,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],
