@@ -1,0 +1,410 @@
+{
+  "runTime": 1718259980282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2271702,
+        "num": 2271702,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1057172,
+        "num": 1057172,
+        "word": "歌手发歌单了",
+        "onboard_time": 1718259079,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56942,
+        "num": 1047207,
+        "word": "在博物馆里感受文化绵延生命力",
+        "onboard_time": 1718250379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045069,
+        "num": 1045069,
+        "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+        "onboard_time": 1718249839,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 936476,
+        "num": 936476,
+        "word": "已老实 光头求放过",
+        "onboard_time": 1718254100,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 816799,
+        "num": 816799,
+        "word": "于正回复伊能静小作文",
+        "onboard_time": 1718254878,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596207,
+        "num": 596207,
+        "word": "机场回应明星耍大牌喊旅客下电梯",
+        "onboard_time": 1718254339,
+        "rank": 6,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 486585,
+        "num": 486585,
+        "word": "黄焖鸡米饭为什么不香了",
+        "onboard_time": 1718253260,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 304519,
+        "num": 304519,
+        "word": "国产樱桃在赶超进口车厘子",
+        "onboard_time": 1718257098,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39280,
+        "num": 303929,
+        "word": "苹果店样机备忘录留言令人泪目",
+        "onboard_time": 1718258538,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1682674,
+        "num": 302690,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 1562114,
+        "num": 302129,
+        "word": "天启 家暴",
+        "onboard_time": 1718257518,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 429353,
+        "num": 301566,
+        "word": "伊能静给墨雨云间写小作文",
+        "onboard_time": 1718253620,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423380,
+        "num": 300018,
+        "word": "MIUMIU品牌大使刘浩存",
+        "onboard_time": 1718249957,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 405043,
+        "num": 299223,
+        "word": "邓超水下吐血镜头",
+        "onboard_time": 1718258118,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 378604,
+        "num": 298362,
+        "word": "只要公主敢嫁裴某自然敢娶",
+        "onboard_time": 1718251218,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297860,
+        "num": 297860,
+        "word": "LV售后欧洲免费国内收2400",
+        "onboard_time": 1718256677,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197977,
+        "num": 197977,
+        "word": "巴黎奥运村不装空调遭运动员强烈反对",
+        "onboard_time": 1718246238,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188814,
+        "num": 188814,
+        "word": "马斯克被曝要求女高管为其生孩子",
+        "onboard_time": 1718238560,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181684,
+        "num": 181684,
+        "word": "孙颖莎王楚钦入选福布斯亚洲榜",
+        "onboard_time": 1718259019,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288738,
+        "num": 181678,
+        "word": "陈楚生官宣音综",
+        "onboard_time": 1718257877,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270308,
+        "num": 181587,
+        "word": "刘亦菲发疯戏是即兴发挥",
+        "onboard_time": 1718251518,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228353,
+        "num": 181544,
+        "word": "刘浩存褶皱裙",
+        "onboard_time": 1718253500,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224672,
+        "num": 181465,
+        "word": "禁止狗入内但林更新进去了",
+        "onboard_time": 1718245817,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222560,
+        "num": 181405,
+        "word": "体检报告出现这些字眼要当心",
+        "onboard_time": 1718256559,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196486,
+        "num": 181371,
+        "word": "听说浙江人已经没地方晾衣服了",
+        "onboard_time": 1718258118,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194080,
+        "num": 181321,
+        "word": "王一博微博年度瞩目影人",
+        "onboard_time": 1718258900,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189801,
+        "num": 181264,
+        "word": "余秀华 完颜慧德",
+        "onboard_time": 1718246296,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184925,
+        "num": 181164,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1718254398,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181153,
+        "num": 181153,
+        "word": "高考完已经急着去上大学了",
+        "onboard_time": 1718258900,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177966,
+        "num": 177966,
+        "word": "于正 臣妾百口莫辩",
+        "onboard_time": 1718259257,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176140,
+        "num": 176140,
+        "word": "王鹤棣说快给周杰伦上个瓜子",
+        "onboard_time": 1718255598,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174589,
+        "num": 174589,
+        "word": "余秀华回应与完颜慧德不合",
+        "onboard_time": 1718246176,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 152469,
+        "num": 152469,
+        "word": "印尼空姐制服",
+        "onboard_time": 1718245158,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 145607,
+        "num": 145607,
+        "word": "游客在四川瓦屋山被落石砸中身亡",
+        "onboard_time": 1718252840,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164945,
+        "num": 143948,
+        "word": "余秀华完颜慧德 北大食堂",
+        "onboard_time": 1718258238,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142251,
+        "num": 142251,
+        "word": "林更新P图回复刘亦菲",
+        "onboard_time": 1718235378,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140936,
+        "num": 140936,
+        "word": "番茄炒蛋里的蛋比番茄便宜了",
+        "onboard_time": 1718252900,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139081,
+        "num": 139081,
+        "word": "齐司礼侧脸",
+        "onboard_time": 1718247618,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131155,
+        "num": 138894,
+        "word": "手机充电一整宿有多危险",
+        "onboard_time": 1718259619,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138894,
+        "num": 138893,
+        "word": "浪姐给尚雯婕袁娅维批假条了",
+        "onboard_time": 1718255360,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131373,
+        "num": 131373,
+        "word": "董宇辉回应要用安眠药",
+        "onboard_time": 1718255718,
+        "rank": 41,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 131061,
+        "num": 131061,
+        "word": "北京拟禁止直播平台销售保健品",
+        "onboard_time": 1718249477,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128174,
+        "num": 128174,
+        "word": "乌尔善这么做一定有他的道理",
+        "onboard_time": 1718253379,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126831,
+        "num": 126831,
+        "word": "小鬼教恋爱",
+        "onboard_time": 1718256739,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118205,
+        "num": 118205,
+        "word": "查理苏秒了",
+        "onboard_time": 1718246718,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117956,
+        "num": 117956,
+        "word": "王源银发蒙眼",
+        "onboard_time": 1718256919,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115114,
+        "num": 115114,
+        "word": "南京咖啡阿姨回应20多天赚几百万",
+        "onboard_time": 1718238320,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114148,
+        "num": 114148,
+        "word": "米卡写汉字也是先画电脑吗",
+        "onboard_time": 1718259919,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 113470,
+        "num": 113470,
+        "word": "战国时期的小桌有多精致",
+        "onboard_time": 1718259858,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}
