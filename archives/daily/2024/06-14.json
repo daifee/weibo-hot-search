@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718314467757,
+  "endTime": 1718317123308,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365555,
+      "num": 365555,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361950,
       "num": 121398,
       "word": "韩国女子20年前遭集体性侵",
@@ -81,14 +89,6 @@
       "onboard_time": 1718280199,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 302815,
-      "num": 302815,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293256,
@@ -283,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92735,
+      "num": 92735,
+      "word": "男童被教练打死案家属发声",
+      "onboard_time": 1718312350,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91761,
       "num": 91761,
       "word": "养老保险缴15年和25年退休金差别",
@@ -321,6 +329,14 @@
       "onboard_time": 1718278639,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87045,
+      "num": 87045,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86849,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 67020,
-      "num": 25807,
+      "num": 55969,
       "word": "郑恺苗苗结束韩国度假回国了",
       "onboard_time": 1718308030,
       "rank": 10,
@@ -409,6 +425,22 @@
       "onboard_time": 1718286619,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58397,
+      "num": 33416,
+      "word": "京东因春晚超额大奖被罚5万元",
+      "onboard_time": 1718313130,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 57643,
+      "num": 33393,
+      "word": "猪肉价格为何突然起飞",
+      "onboard_time": 1718310010,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 57601,
@@ -435,28 +467,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 54830,
-      "num": 21388,
-      "word": "猪肉价格为何突然起飞",
-      "onboard_time": 1718310010,
-      "rank": 49,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 48186,
       "num": 68607,
       "word": "剑网三",
       "onboard_time": 1718291358,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 47221,
-      "num": 47221,
-      "word": "猫咪伪造自己一直在家睡觉的事实",
-      "onboard_time": 1718307191,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 42011,
@@ -483,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33230,
+      "num": 33230,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 30022,
       "num": 372853,
       "word": "南海沉船打捞出的文物惊艳了",
@@ -499,36 +523,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 25107,
-      "num": 21057,
-      "word": "京东因春晚超额大奖被罚5万元",
-      "onboard_time": 1718313130,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 24768,
-      "num": 21683,
-      "word": "茅台市值跌掉一个青岛啤酒",
-      "onboard_time": 1718305931,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 23694,
-      "num": 26389,
+      "num": 27674,
       "word": "开始审判方协文",
       "onboard_time": 1718300113,
       "rank": 46,
       "category": "剧集"
     },
     {
-      "raw_hot": 18030,
-      "num": 20662,
-      "word": "男童被教练打死案家属发声",
-      "onboard_time": 1718312350,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 20738,
+      "num": 27716,
+      "word": "牛肉斤价跌破30元",
+      "onboard_time": 1718315952,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 16387,
@@ -537,6 +545,14 @@
       "onboard_time": 1718298015,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15582,
+      "num": 27687,
+      "word": "马立奥没抢到周杰伦的票",
+      "onboard_time": 1718316853,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 14391,

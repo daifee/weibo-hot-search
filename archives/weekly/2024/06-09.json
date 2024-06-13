@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718314467757,
+  "endTime": 1718317123308,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -3827,6 +3827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365555,
+      "num": 365555,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364960,
       "num": 364960,
       "word": "BLG",
@@ -4745,14 +4753,6 @@
       "onboard_time": 1717938678,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 302815,
-      "num": 302815,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302611,
@@ -13163,6 +13163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92735,
+      "num": 92735,
+      "word": "男童被教练打死案家属发声",
+      "onboard_time": 1718312350,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92717,
       "num": 241949,
       "word": "臭宝硬控我30秒",
@@ -13289,6 +13297,14 @@
       "onboard_time": 1717844538,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87045,
+      "num": 87045,
+      "word": "猫咪伪造自己一直在家睡觉的事实",
+      "onboard_time": 1718307191,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86713,
@@ -13676,7 +13692,7 @@
     },
     {
       "raw_hot": 67020,
-      "num": 25807,
+      "num": 55969,
       "word": "郑恺苗苗结束韩国度假回国了",
       "onboard_time": 1718308030,
       "rank": 10,
@@ -13915,6 +13931,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 58397,
+      "num": 33416,
+      "word": "京东因春晚超额大奖被罚5万元",
+      "onboard_time": 1718313130,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 58288,
       "num": 430184,
       "word": "社牛姐姐称弟弟是成都最牛考生",
@@ -13953,6 +13977,14 @@
       "onboard_time": 1717856598,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 57643,
+      "num": 33393,
+      "word": "猪肉价格为何突然起飞",
+      "onboard_time": 1718310010,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 57601,
@@ -14057,14 +14089,6 @@
       "onboard_time": 1718099178,
       "rank": 30,
       "category": "教育,互联网"
-    },
-    {
-      "raw_hot": 54830,
-      "num": 21388,
-      "word": "猪肉价格为何突然起飞",
-      "onboard_time": 1718310010,
-      "rank": 49,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 54824,
@@ -14328,14 +14352,6 @@
       "word": "小猫咪的额头不能随便摸",
       "onboard_time": 1718050510,
       "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 47221,
-      "num": 47221,
-      "word": "猫咪伪造自己一直在家睡觉的事实",
-      "onboard_time": 1718307191,
-      "rank": 49,
       "category": "幽默"
     },
     {
@@ -14771,6 +14787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33230,
+      "num": 33230,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 33032,
       "num": 39804,
       "word": "抬头看的是天还是空",
@@ -15003,14 +15027,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25107,
-      "num": 21057,
-      "word": "京东因春晚超额大奖被罚5万元",
-      "onboard_time": 1718313130,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 24920,
       "num": 232533,
       "word": "众星祝贺辛纳首登世界第一",
@@ -15019,16 +15035,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24768,
-      "num": 21683,
-      "word": "茅台市值跌掉一个青岛啤酒",
-      "onboard_time": 1718305931,
-      "rank": 47,
-      "category": "财经"
-    },
-    {
       "raw_hot": 23694,
-      "num": 26389,
+      "num": 27674,
       "word": "开始审判方协文",
       "onboard_time": 1718300113,
       "rank": 46,
@@ -15097,6 +15105,14 @@
       "onboard_time": 1718176521,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20738,
+      "num": 27716,
+      "word": "牛肉斤价跌破30元",
+      "onboard_time": 1718315952,
+      "rank": 44,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 20566,
@@ -15169,14 +15185,6 @@
       "onboard_time": 1717969212,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18030,
-      "num": 20662,
-      "word": "男童被教练打死案家属发声",
-      "onboard_time": 1718312350,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17803,
@@ -15257,6 +15265,14 @@
       "onboard_time": 1718157618,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15582,
+      "num": 27687,
+      "word": "马立奥没抢到周杰伦的票",
+      "onboard_time": 1718316853,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 15574,
