@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718264152400,
+  "endTime": 1718267046184,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -193,6 +193,14 @@
       "onboard_time": 1718240779,
       "rank": 22,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 636647,
+      "num": 636647,
+      "word": "奢香夫人",
+      "onboard_time": 1718263218,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 629950,
@@ -419,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 426138,
+      "num": 426138,
+      "word": "日本男子被曝在多家儿童机构性侵女童",
+      "onboard_time": 1718262978,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 405794,
       "num": 405794,
       "word": "番茄炒蛋里的蛋比番茄便宜了",
@@ -433,6 +449,14 @@
       "onboard_time": 1718259619,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 400827,
+      "num": 400827,
+      "word": "美国发生大规模伤亡事件",
+      "onboard_time": 1718260640,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381569,
@@ -475,12 +499,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 355236,
-      "num": 355236,
-      "word": "美国发生大规模伤亡事件",
-      "onboard_time": 1718260640,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 358456,
+      "num": 202796,
+      "word": "建议大家购买饮料别加冰",
+      "onboard_time": 1718263338,
+      "rank": 31,
+      "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 355413,
+      "num": 355413,
+      "word": "詹雯婷胜诉",
+      "onboard_time": 1718263338,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 353221,
@@ -505,14 +537,6 @@
       "onboard_time": 1718200698,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332780,
-      "num": 251993,
-      "word": "奢香夫人",
-      "onboard_time": 1718263218,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 321282,
@@ -561,6 +585,14 @@
       "onboard_time": 1718195479,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305227,
+      "num": 305227,
+      "word": "金硕珍被亲了",
+      "onboard_time": 1718264779,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 304519,
@@ -643,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288483,
+      "num": 202060,
+      "word": "张靓颖嘉宾 王力宏",
+      "onboard_time": 1718263999,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 282938,
       "num": 282938,
       "word": "沈小婷奔跑吧预告",
@@ -657,14 +697,6 @@
       "onboard_time": 1718245998,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 275590,
-      "num": 178189,
-      "word": "詹雯婷胜诉",
-      "onboard_time": 1718263338,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 275563,
@@ -691,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 264519,
+      "num": 264519,
+      "word": "新加坡门将妻子收到打款以为诈骗",
+      "onboard_time": 1718265080,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263999,
       "num": 263999,
       "word": "浪姐给尚雯婕袁娅维批假条了",
@@ -699,8 +739,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255425,
+      "num": 201883,
+      "word": "歌手改赛制",
+      "onboard_time": 1718264357,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254327,
-      "num": 374876,
+      "num": 616322,
       "word": "高考填志愿十问十答",
       "onboard_time": 1718238020,
       "rank": 9,
@@ -745,6 +793,14 @@
       "onboard_time": 1718259019,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246383,
+      "num": 166986,
+      "word": "王涛好好麦",
+      "onboard_time": 1718266339,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 244225,
@@ -899,6 +955,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 212529,
+      "num": 197506,
+      "word": "吴谨言王星越回应cp名",
+      "onboard_time": 1718266638,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211946,
       "num": 219877,
       "word": "中考",
@@ -1011,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198682,
+      "num": 198682,
+      "word": "高三班主任花36天给每位学生写信",
+      "onboard_time": 1718261779,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198033,
       "num": 198033,
       "word": "原著里的方协文长相普通",
@@ -1041,14 +1113,6 @@
       "onboard_time": 1718249537,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195260,
-      "num": 175349,
-      "word": "建议大家购买饮料别加冰",
-      "onboard_time": 1718263338,
-      "rank": 31,
-      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 194314,
@@ -1155,14 +1219,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 178543,
-      "num": 178543,
-      "word": "高三班主任花36天给每位学生写信",
-      "onboard_time": 1718261779,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 178365,
       "num": 576489,
       "word": "乐华否认程潇吴宣仪耍大牌",
@@ -1211,14 +1267,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 169638,
-      "num": 157103,
-      "word": "张靓颖嘉宾 王力宏",
-      "onboard_time": 1718263999,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 165038,
       "num": 165038,
       "word": "王源银发蒙眼",
@@ -1233,6 +1281,14 @@
       "onboard_time": 1718258238,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 163409,
+      "num": 151815,
+      "word": "墨雨云间男主吃烧烤蘸醋",
+      "onboard_time": 1718265019,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 163235,
@@ -1259,6 +1315,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161345,
+      "num": 159232,
+      "word": "刘浩存举四叶草",
+      "onboard_time": 1718266580,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161117,
       "num": 161117,
       "word": "刘浩存王安宇开机路透",
@@ -1283,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 159281,
+      "num": 175978,
+      "word": "起底婚介公司忽悠套路",
+      "onboard_time": 1718264119,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158566,
       "num": 158566,
       "word": "李章洙发文讨要北京房产",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1718191639,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157892,
+      "num": 157892,
+      "word": "刘亦菲37岁的状态",
+      "onboard_time": 1718266819,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 157238,
@@ -1427,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140153,
+      "num": 140153,
+      "word": "周翊然 这张陆让又新又旧的",
+      "onboard_time": 1718265860,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138439,
       "num": 138439,
       "word": "庄国栋黄亦玫错误的时间遇到对的人",
@@ -1489,6 +1577,22 @@
       "onboard_time": 1718256318,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131806,
+      "num": 130605,
+      "word": "暗河传",
+      "onboard_time": 1718265440,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130374,
+      "num": 130374,
+      "word": "软科中国大学专业排名2024",
+      "onboard_time": 1718265679,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 129723,
@@ -1577,6 +1681,22 @@
       "onboard_time": 1718259858,
       "rank": 49,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 113467,
+      "num": 113467,
+      "word": "现在国外含中量有多大",
+      "onboard_time": 1718264418,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113101,
+      "num": 113101,
+      "word": "见过最遮光的窗帘",
+      "onboard_time": 1718264357,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 111139,
@@ -1699,14 +1819,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 86280,
-      "num": 175978,
-      "word": "起底婚介公司忽悠套路",
-      "onboard_time": 1718264119,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 86164,
       "num": 354227,
       "word": "三十头牦牛换一辆深蓝大G",
@@ -1827,12 +1939,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 64274,
+      "num": 352574,
+      "word": "山河三省霸榜全国高温榜",
+      "onboard_time": 1718265980,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62402,
       "num": 570862,
       "word": "欧洲杯赛程",
       "onboard_time": 1718202081,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60650,
+      "num": 167271,
+      "word": "纽约时报承认造谣原始部落迷恋色情",
+      "onboard_time": 1718266580,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 59070,
@@ -1891,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 48728,
+      "num": 347421,
+      "word": "京东全家桶把疯四卷疯了",
+      "onboard_time": 1718264600,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48329,
       "num": 570169,
       "word": "如何完整取下音乐节手环",
@@ -1945,6 +2081,14 @@
       "onboard_time": 1718251218,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40445,
+      "num": 175702,
+      "word": "拿到了邓超送的螺蛳粉",
+      "onboard_time": 1718262739,
+      "rank": 35,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 40290,
@@ -2011,14 +2155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24813,
-      "num": 175702,
-      "word": "拿到了邓超送的螺蛳粉",
-      "onboard_time": 1718262739,
-      "rank": 35,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 22246,
       "num": 576705,
       "word": "花花七仔来给福宝扎场子",
@@ -2065,14 +2201,6 @@
       "onboard_time": 1718227090,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 7075,
-      "num": 192716,
-      "word": "日本男子被曝在多家儿童机构性侵女童",
-      "onboard_time": 1718262978,
-      "rank": 29,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
