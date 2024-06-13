@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718282161282,
+  "endTime": 1718283075758,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1190936,
+      "num": 1190936,
+      "word": "芒果台声明",
+      "onboard_time": 1718280858,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1145390,
       "num": 491666,
       "word": "学生篡改7名同学高考志愿获刑1年半",
@@ -187,14 +195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 857165,
-      "num": 857165,
-      "word": "芒果台声明",
-      "onboard_time": 1718280858,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 817793,
       "num": 683060,
       "word": "网曝吉林银行取款需派出所同意",
@@ -209,6 +209,14 @@
       "onboard_time": 1718254878,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 815486,
+      "num": 815486,
+      "word": "郝蕾表演课300一节",
+      "onboard_time": 1718280199,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 794068,
@@ -241,14 +249,6 @@
       "onboard_time": 1718246238,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 734228,
-      "num": 492293,
-      "word": "郝蕾表演课300一节",
-      "onboard_time": 1718280199,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 732655,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 542832,
+      "num": 542832,
+      "word": "印度男子在冰激凌中发现手指",
+      "onboard_time": 1718277918,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540563,
       "num": 540563,
       "word": "NBA总决赛",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 522111,
-      "num": 866605,
+      "num": 885212,
       "word": "南海沉船打捞出的文物惊艳了",
       "onboard_time": 1718269578,
       "rank": 31,
@@ -496,14 +504,6 @@
       "word": "北京拟禁止直播平台销售保健品",
       "onboard_time": 1718249477,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 453565,
-      "num": 453565,
-      "word": "印度男子在冰激凌中发现手指",
-      "onboard_time": 1718277918,
-      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -619,8 +619,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384184,
-      "num": 384184,
+      "raw_hot": 389489,
+      "num": 389489,
       "word": "工厂请千名工人吃1吨龙虾西瓜",
       "onboard_time": 1718277618,
       "rank": 21,
@@ -641,6 +641,14 @@
       "onboard_time": 1718278037,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 381063,
+      "num": 381063,
+      "word": "以色列",
+      "onboard_time": 1718278338,
+      "rank": 46,
+      "category": "国外时政"
     },
     {
       "raw_hot": 378523,
@@ -859,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295334,
+      "num": 295334,
+      "word": "刘亦菲蓝色泳装",
+      "onboard_time": 1718282418,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294190,
       "num": 294190,
       "word": "战至巅峰3首发位阵容",
@@ -987,19 +1003,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250832,
+      "num": 225799,
+      "word": "谢娜新综艺官宣",
+      "onboard_time": 1718278639,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250586,
       "num": 219779,
       "word": "尚雯婕 不鼓自鸣",
       "onboard_time": 1718254339,
       "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 250297,
-      "num": 225799,
-      "word": "谢娜新综艺官宣",
-      "onboard_time": 1718278639,
-      "rank": 21,
       "category": "综艺"
     },
     {
@@ -1043,14 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 243656,
-      "num": 243656,
-      "word": "以色列",
-      "onboard_time": 1718278338,
-      "rank": 46,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 241424,
       "num": 241424,
       "word": "龚俊大男主",
@@ -1065,6 +1073,14 @@
       "onboard_time": 1718256559,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 236580,
+      "num": 215712,
+      "word": "为什么年轻人越来越讨厌人情世故了",
+      "onboard_time": 1718281218,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 236315,
@@ -1347,6 +1363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 202985,
+      "num": 202985,
+      "word": "陶喆北京抢票",
+      "onboard_time": 1718282357,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201087,
       "num": 201087,
       "word": "刘亦菲一个人的分手戏",
@@ -1395,14 +1419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197108,
-      "num": 197108,
-      "word": "为什么年轻人越来越讨厌人情世故了",
-      "onboard_time": 1718281218,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 196261,
       "num": 196261,
       "word": "379元诺基亚多次售罄",
@@ -1449,6 +1465,14 @@
       "onboard_time": 1718277139,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191971,
+      "num": 191971,
+      "word": "荣耀发布会",
+      "onboard_time": 1718282237,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 189960,
@@ -1595,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177639,
+      "num": 177639,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174234,
       "num": 174234,
       "word": "江西鹰潭发生龙舟侧翻事故",
@@ -1627,12 +1659,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 169460,
-      "num": 169460,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 170072,
+      "num": 170072,
+      "word": "是棋子也是妻子",
+      "onboard_time": 1718281938,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 168801,
@@ -1843,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152553,
+      "num": 152553,
+      "word": "陈乔恩郑皓原吻戏",
+      "onboard_time": 1718282837,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152280,
       "num": 152280,
       "word": "邓紫棋哈尔滨",
@@ -2027,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137224,
+      "num": 137224,
+      "word": "篮协确认乔尔杰维奇离任",
+      "onboard_time": 1718281398,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134440,
       "num": 364713,
       "word": "三小伙果断跳入激流救起落水者",
@@ -2051,12 +2099,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 132224,
-      "num": 132224,
+      "raw_hot": 132467,
+      "num": 132467,
       "word": "福宝池塘泡澡熊掌拨清波",
       "onboard_time": 1718279957,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132239,
+      "num": 132239,
+      "word": "FPX官宣经理Denny辞职",
+      "onboard_time": 1718282178,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 131948,
@@ -2131,14 +2187,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 127613,
-      "num": 127613,
-      "word": "篮协确认乔尔杰维奇离任",
-      "onboard_time": 1718281398,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127237,
       "num": 127237,
       "word": "狗子嫌家热到隔壁蹭空调",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1718269760,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119601,
-      "num": 119601,
-      "word": "是棋子也是妻子",
-      "onboard_time": 1718281938,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 118667,
@@ -2329,6 +2369,14 @@
       "onboard_time": 1718240060,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110024,
+      "num": 110024,
+      "word": "看不见影子的少年",
+      "onboard_time": 1718282298,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 109687,
@@ -2515,6 +2563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79289,
+      "num": 177873,
+      "word": "深蓝G318定义高品质露营",
+      "onboard_time": 1718282357,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 77210,
+      "num": 449136,
+      "word": "明星走红毯手机放哪儿",
+      "onboard_time": 1718280256,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 76818,
       "num": 572795,
       "word": "陈晓许凯王星越 于正严选",
@@ -2524,7 +2588,7 @@
     },
     {
       "raw_hot": 76763,
-      "num": 119545,
+      "num": 179112,
       "word": "记者揭秘酒店代订生意如何赚钱",
       "onboard_time": 1718280017,
       "rank": 40,
@@ -2537,6 +2601,14 @@
       "onboard_time": 1718218271,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75303,
+      "num": 178301,
+      "word": "毕业生花式领证给校长整害羞了",
+      "onboard_time": 1718283017,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 74396,
@@ -2755,14 +2827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46814,
-      "num": 449136,
-      "word": "明星走红毯手机放哪儿",
-      "onboard_time": 1718280256,
-      "rank": 10,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 46615,
       "num": 46615,
       "word": "吴谨言回复罗伯特",
@@ -2899,7 +2963,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25342,
+      "raw_hot": 25780,
       "num": 393628,
       "word": "塔图姆回应最佳球员讨论",
       "onboard_time": 1718280017,
