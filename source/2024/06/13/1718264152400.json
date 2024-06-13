@@ -1,0 +1,410 @@
+{
+  "runTime": 1718264152400,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1364874,
+        "num": 1364874,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 979644,
+        "num": 979644,
+        "word": "歌手发歌单了",
+        "onboard_time": 1718259079,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53073,
+        "num": 732893,
+        "word": "在博物馆里感受文化绵延生命力",
+        "onboard_time": 1718250379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699518,
+        "num": 699518,
+        "word": "王一博禁止擅闯车场声明",
+        "onboard_time": 1718260697,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473213,
+        "num": 473213,
+        "word": "LV售后欧洲免费国内收2400",
+        "onboard_time": 1718256677,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414246,
+        "num": 414246,
+        "word": "已老实 光头求放过",
+        "onboard_time": 1718254100,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 438429,
+        "num": 404470,
+        "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+        "onboard_time": 1718249839,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424914,
+        "num": 387087,
+        "word": "于正回复伊能静小作文",
+        "onboard_time": 1718254878,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355236,
+        "num": 355236,
+        "word": "美国发生大规模伤亡事件",
+        "onboard_time": 1718260640,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320139,
+        "num": 320139,
+        "word": "黄焖鸡米饭为什么不香了",
+        "onboard_time": 1718253260,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1247224,
+        "num": 314561,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 897840,
+        "num": 307664,
+        "word": "天启 家暴",
+        "onboard_time": 1718257518,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 402897,
+        "num": 298000,
+        "word": "手机充电一整宿有多危险",
+        "onboard_time": 1718259619,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 364369,
+        "num": 285169,
+        "word": "汪苏泷不会真唱奢香夫人吧",
+        "onboard_time": 1718260819,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35561,
+        "num": 269222,
+        "word": "G331吉线秘境",
+        "onboard_time": 1718262019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343070,
+        "num": 266054,
+        "word": "墨雨云间直播",
+        "onboard_time": 1718261238,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332780,
+        "num": 251993,
+        "word": "奢香夫人",
+        "onboard_time": 1718263218,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246007,
+        "num": 246007,
+        "word": "机场回应明星耍大牌喊旅客下电梯",
+        "onboard_time": 1718254339,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 220349,
+        "num": 220349,
+        "word": "孙颖莎王楚钦入选福布斯亚洲榜",
+        "onboard_time": 1718259019,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178543,
+        "num": 178543,
+        "word": "高三班主任花36天给每位学生写信",
+        "onboard_time": 1718261779,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294242,
+        "num": 178424,
+        "word": "金硕珍拥抱了1000名粉丝",
+        "onboard_time": 1718261718,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275590,
+        "num": 178189,
+        "word": "詹雯婷胜诉",
+        "onboard_time": 1718263338,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249151,
+        "num": 177726,
+        "word": "为什么得物越来越不受欢迎了",
+        "onboard_time": 1718260937,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226878,
+        "num": 177479,
+        "word": "邓超水下吐血镜头",
+        "onboard_time": 1718258118,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 205250,
+        "num": 177322,
+        "word": "丁泽仁去当拆卡博主了",
+        "onboard_time": 1718262918,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204740,
+        "num": 176827,
+        "word": "墨雨云间",
+        "onboard_time": 1718260819,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200162,
+        "num": 176541,
+        "word": "王安宇抱刘浩存转圈",
+        "onboard_time": 1718262799,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52011,
+        "num": 176302,
+        "word": "这是骑马届的科目几",
+        "onboard_time": 1718260399,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86280,
+        "num": 175978,
+        "word": "起底婚介公司忽悠套路",
+        "onboard_time": 1718264119,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24813,
+        "num": 175702,
+        "word": "拿到了邓超送的螺蛳粉",
+        "onboard_time": 1718262739,
+        "rank": 29,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 196003,
+        "num": 175414,
+        "word": "伊能静给墨雨云间写小作文",
+        "onboard_time": 1718253620,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195260,
+        "num": 175349,
+        "word": "建议大家购买饮料别加冰",
+        "onboard_time": 1718263338,
+        "rank": 31,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 69495,
+        "num": 174971,
+        "word": "器官捐献协调员称遭到了许多误解",
+        "onboard_time": 1718262019,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186748,
+        "num": 174704,
+        "word": "MIUMIU品牌大使刘浩存",
+        "onboard_time": 1718249957,
+        "rank": 33,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 181891,
+        "num": 174266,
+        "word": "刘亦菲发疯戏是即兴发挥",
+        "onboard_time": 1718251518,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174234,
+        "num": 174234,
+        "word": "江西鹰潭发生龙舟侧翻事故",
+        "onboard_time": 1718262378,
+        "rank": 35,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 172494,
+        "num": 172494,
+        "word": "王星越我再救你一次",
+        "onboard_time": 1718262678,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171325,
+        "num": 171325,
+        "word": "只要公主敢嫁裴某自然敢娶",
+        "onboard_time": 1718251218,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164550,
+        "num": 164550,
+        "word": "体检报告出现这些字眼要当心",
+        "onboard_time": 1718256559,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157122,
+        "num": 157122,
+        "word": "听说浙江人已经没地方晾衣服了",
+        "onboard_time": 1718258118,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169638,
+        "num": 157103,
+        "word": "张靓颖嘉宾 王力宏",
+        "onboard_time": 1718263999,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169037,
+        "num": 157086,
+        "word": "张艺兴戴腰链",
+        "onboard_time": 1718260999,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157064,
+        "num": 157064,
+        "word": "吴谨言脸小用眼影刷画腮红",
+        "onboard_time": 1718262318,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152691,
+        "num": 152691,
+        "word": "余秀华 完颜慧德",
+        "onboard_time": 1718246296,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150026,
+        "num": 150026,
+        "word": "高考完已经急着去上大学了",
+        "onboard_time": 1718258900,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143926,
+        "num": 143926,
+        "word": "张云龙回应出道多年没有火",
+        "onboard_time": 1718264119,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138316,
+        "num": 138316,
+        "word": "鸿蒙份额超越iOS",
+        "onboard_time": 1718262498,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137533,
+        "num": 137533,
+        "word": "双胞胎大熊猫的默契感有多强",
+        "onboard_time": 1718261418,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133240,
+        "num": 133240,
+        "word": "张朝阳建议不用上名牌大学",
+        "onboard_time": 1718263279,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123287,
+        "num": 123287,
+        "word": "米卡写汉字也是先画电脑吗",
+        "onboard_time": 1718259919,
+        "rank": 49,
+        "category": "幽默,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}

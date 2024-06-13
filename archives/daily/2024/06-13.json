@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718263106508,
+  "endTime": 1718264152400,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -427,7 +427,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 401010,
+      "raw_hot": 402897,
       "num": 334747,
       "word": "手机充电一整宿有多危险",
       "onboard_time": 1718259619,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 355236,
+      "num": 355236,
+      "word": "美国发生大规模伤亡事件",
+      "onboard_time": 1718260640,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353221,
       "num": 577280,
       "word": "女子出借20万元讨不回丈夫自杀",
@@ -497,6 +505,14 @@
       "onboard_time": 1718200698,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 332780,
+      "num": 251993,
+      "word": "奢香夫人",
+      "onboard_time": 1718263218,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 321282,
@@ -643,6 +659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275590,
+      "num": 178189,
+      "word": "詹雯婷胜诉",
+      "onboard_time": 1718263338,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275563,
       "num": 275563,
       "word": "乌尔善这么做一定有他的道理",
@@ -689,6 +713,14 @@
       "onboard_time": 1718254339,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 249151,
+      "num": 223638,
+      "word": "为什么得物越来越不受欢迎了",
+      "onboard_time": 1718260937,
+      "rank": 24,
+      "category": "互联网"
     },
     {
       "raw_hot": 247347,
@@ -787,14 +819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229718,
-      "num": 229718,
-      "word": "美国发生大规模伤亡事件",
-      "onboard_time": 1718260640,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 227932,
       "num": 227932,
       "word": "原来人真的会发霉",
@@ -809,14 +833,6 @@
       "onboard_time": 1718244497,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 223638,
-      "num": 223638,
-      "word": "为什么得物越来越不受欢迎了",
-      "onboard_time": 1718260937,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 223575,
@@ -939,6 +955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 205250,
+      "num": 177322,
+      "word": "丁泽仁去当拆卡博主了",
+      "onboard_time": 1718262918,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205053,
       "num": 205053,
       "word": "凤凰传奇抢票",
@@ -960,6 +984,14 @@
       "word": "刘亦菲一个人的分手戏",
       "onboard_time": 1718237119,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200162,
+      "num": 190998,
+      "word": "王安宇抱刘浩存转圈",
+      "onboard_time": 1718262799,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1011,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195260,
+      "num": 175349,
+      "word": "建议大家购买饮料别加冰",
+      "onboard_time": 1718263338,
+      "rank": 31,
+      "category": "科学科普,健康医疗"
+    },
+    {
       "raw_hot": 194314,
       "num": 194314,
       "word": "欧文35分",
@@ -1025,14 +1065,6 @@
       "onboard_time": 1718258900,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190998,
-      "num": 190998,
-      "word": "王安宇抱刘浩存转圈",
-      "onboard_time": 1718262799,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 189960,
@@ -1123,6 +1155,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 178543,
+      "num": 178543,
+      "word": "高三班主任花36天给每位学生写信",
+      "onboard_time": 1718261779,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178365,
       "num": 576489,
       "word": "乐华否认程潇吴宣仪耍大牌",
@@ -1139,20 +1179,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174234,
+      "num": 174234,
+      "word": "江西鹰潭发生龙舟侧翻事故",
+      "onboard_time": 1718262378,
+      "rank": 39,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 172494,
+      "num": 172494,
+      "word": "王星越我再救你一次",
+      "onboard_time": 1718262678,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172086,
       "num": 172086,
       "word": "A股",
       "onboard_time": 1718251999,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172041,
-      "num": 160314,
-      "word": "王星越我再救你一次",
-      "onboard_time": 1718262678,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 170301,
@@ -1163,12 +1211,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 165204,
-      "num": 165204,
-      "word": "高三班主任花36天给每位学生写信",
-      "onboard_time": 1718261779,
-      "rank": 34,
-      "category": "教育"
+      "raw_hot": 169638,
+      "num": 157103,
+      "word": "张靓颖嘉宾 王力宏",
+      "onboard_time": 1718263999,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 165038,
@@ -1220,7 +1268,7 @@
     },
     {
       "raw_hot": 160902,
-      "num": 155387,
+      "num": 157064,
       "word": "吴谨言脸小用眼影刷画腮红",
       "onboard_time": 1718262318,
       "rank": 38,
@@ -1291,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151165,
-      "num": 151165,
-      "word": "江西鹰潭发生龙舟侧翻事故",
-      "onboard_time": 1718262378,
-      "rank": 39,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 150953,
       "num": 575107,
       "word": "毛不易现场",
@@ -1339,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148338,
-      "num": 148338,
-      "word": "丁泽仁去当拆卡博主了",
-      "onboard_time": 1718262918,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146627,
       "num": 146627,
       "word": "iOS18屏锁将支持第三方相机",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1718259919,
       "rank": 48,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 143926,
+      "num": 143926,
+      "word": "张云龙回应出道多年没有火",
+      "onboard_time": 1718264119,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 143821,
@@ -1395,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138316,
+      "num": 138316,
+      "word": "鸿蒙份额超越iOS",
+      "onboard_time": 1718262498,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137908,
       "num": 137908,
       "word": "双胞胎大熊猫的默契感有多强",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1718245637,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 133240,
+      "num": 133240,
+      "word": "张朝阳建议不用上名牌大学",
+      "onboard_time": 1718263279,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 132926,
@@ -1473,14 +1529,6 @@
       "onboard_time": 1718242938,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 124978,
-      "num": 124978,
-      "word": "鸿蒙份额超越iOS",
-      "onboard_time": 1718262498,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 120812,
@@ -1651,6 +1699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 86280,
+      "num": 175978,
+      "word": "起底婚介公司忽悠套路",
+      "onboard_time": 1718264119,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86164,
       "num": 354227,
       "word": "三十头牦牛换一辆深蓝大G",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1718193018,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69495,
+      "num": 338202,
+      "word": "器官捐献协调员称遭到了许多误解",
+      "onboard_time": 1718262019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68867,
@@ -1811,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52011,
+      "num": 474311,
+      "word": "这是骑马届的科目几",
+      "onboard_time": 1718260399,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 48856,
       "num": 570338,
       "word": "人生可以大错特错",
@@ -1875,14 +1947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40940,
-      "num": 338202,
-      "word": "器官捐献协调员称遭到了许多误解",
-      "onboard_time": 1718262019,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40290,
       "num": 78097,
       "word": "玫瑰的故事",
@@ -1904,6 +1968,14 @@
       "word": "验瓜师每天拍上万个西瓜收入千元",
       "onboard_time": 1718211315,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35561,
+      "num": 335399,
+      "word": "G331吉线秘境",
+      "onboard_time": 1718262019,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1939,20 +2011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 29043,
-      "num": 335399,
-      "word": "G331吉线秘境",
-      "onboard_time": 1718262019,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25155,
-      "num": 474311,
-      "word": "这是骑马届的科目几",
-      "onboard_time": 1718260399,
-      "rank": 9,
-      "category": "幽默"
+      "raw_hot": 24813,
+      "num": 175702,
+      "word": "拿到了邓超送的螺蛳粉",
+      "onboard_time": 1718262739,
+      "rank": 35,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 22246,
@@ -1985,14 +2049,6 @@
       "onboard_time": 1718226370,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 18557,
-      "num": 160568,
-      "word": "拿到了邓超送的螺蛳粉",
-      "onboard_time": 1718262739,
-      "rank": 35,
-      "category": "艺人,美食"
     },
     {
       "raw_hot": 17572,
