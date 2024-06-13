@@ -1,0 +1,410 @@
+{
+  "runTime": 1718255989242,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1946701,
+        "num": 1946701,
+        "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+        "onboard_time": 1718249839,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1247333,
+        "num": 1247333,
+        "word": "已老实 光头求放过",
+        "onboard_time": 1718254100,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 66367,
+        "num": 1046248,
+        "word": "在博物馆里感受文化绵延生命力",
+        "onboard_time": 1718250379,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 885033,
+        "num": 885033,
+        "word": "只要公主敢嫁裴某自然敢娶",
+        "onboard_time": 1718251218,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732306,
+        "num": 732306,
+        "word": "机场回应明星耍大牌喊旅客下电梯",
+        "onboard_time": 1718254339,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 612923,
+        "num": 612923,
+        "word": "印尼空姐制服",
+        "onboard_time": 1718245158,
+        "rank": 5,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 863995,
+        "num": 578690,
+        "word": "MIUMIU品牌大使刘浩存",
+        "onboard_time": 1718249957,
+        "rank": 6,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 709748,
+        "num": 541251,
+        "word": "伊能静给墨雨云间写小作文",
+        "onboard_time": 1718253620,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496691,
+        "num": 496691,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148359,
+        "num": 493518,
+        "word": "黄焖鸡米饭为什么不香了",
+        "onboard_time": 1718253260,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 44734,
+        "num": 469049,
+        "word": "王俊凯夏日清爽大片",
+        "onboard_time": 1718251399,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 571643,
+        "num": 456995,
+        "word": "刘亦菲发疯戏是即兴发挥",
+        "onboard_time": 1718251518,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509133,
+        "num": 444125,
+        "word": "禁止狗入内但林更新进去了",
+        "onboard_time": 1718245817,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428056,
+        "num": 428056,
+        "word": "北京拟禁止直播平台销售保健品",
+        "onboard_time": 1718249477,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410872,
+        "num": 410872,
+        "word": "于正回复伊能静小作文",
+        "onboard_time": 1718254878,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405794,
+        "num": 405794,
+        "word": "番茄炒蛋里的蛋比番茄便宜了",
+        "onboard_time": 1718252900,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 376829,
+        "num": 376829,
+        "word": "新加坡门将桑尼妻子发声",
+        "onboard_time": 1718249720,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372298,
+        "num": 372298,
+        "word": "刘浩存褶皱裙",
+        "onboard_time": 1718253500,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 329795,
+        "num": 329795,
+        "word": "巴黎奥运村不装空调遭运动员强烈反对",
+        "onboard_time": 1718246238,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316366,
+        "num": 316366,
+        "word": "马斯克被曝要求女高管为其生孩子",
+        "onboard_time": 1718238560,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 364716,
+        "num": 310497,
+        "word": "墨雨云间假爹也有真情",
+        "onboard_time": 1718249957,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322531,
+        "num": 300412,
+        "word": "林更新P图回复刘亦菲",
+        "onboard_time": 1718235378,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23104,
+        "num": 294279,
+        "word": "三十头牦牛换一辆深蓝大G",
+        "onboard_time": 1718251459,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288953,
+        "num": 288953,
+        "word": "王鹤棣说快给周杰伦上个瓜子",
+        "onboard_time": 1718255598,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275563,
+        "num": 275563,
+        "word": "乌尔善这么做一定有他的道理",
+        "onboard_time": 1718253379,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270858,
+        "num": 270858,
+        "word": "学生篡改7名同学高考志愿获刑1年半",
+        "onboard_time": 1718234235,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263999,
+        "num": 263999,
+        "word": "浪姐给尚雯婕袁娅维批假条了",
+        "onboard_time": 1718255360,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254650,
+        "num": 254650,
+        "word": "南京咖啡阿姨回应20多天赚几百万",
+        "onboard_time": 1718238320,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235591,
+        "num": 235591,
+        "word": "查理苏秒了",
+        "onboard_time": 1718246718,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156854,
+        "num": 226887,
+        "word": "30多岁开始出现老花眼",
+        "onboard_time": 1718251399,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 220591,
+        "num": 220591,
+        "word": "齐司礼侧脸",
+        "onboard_time": 1718247618,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250586,
+        "num": 219779,
+        "word": "尚雯婕 不鼓自鸣",
+        "onboard_time": 1718254339,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218059,
+        "num": 218059,
+        "word": "程潇吊带背心",
+        "onboard_time": 1718255360,
+        "rank": 32,
+        "category": "综艺,游戏"
+      },
+      {
+        "raw_hot": 211028,
+        "num": 211028,
+        "word": "邓超杀回古装",
+        "onboard_time": 1718251639,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209808,
+        "num": 209808,
+        "word": "胡歌进产房陪产剪脐带",
+        "onboard_time": 1718234355,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205053,
+        "num": 205053,
+        "word": "凤凰传奇抢票",
+        "onboard_time": 1718254398,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203018,
+        "num": 203018,
+        "word": "中国女游客在泰国遭假司机性侵",
+        "onboard_time": 1718240779,
+        "rank": 36,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 200030,
+        "num": 200030,
+        "word": "陆沉pv",
+        "onboard_time": 1718253740,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195863,
+        "num": 195863,
+        "word": "游客在四川瓦屋山被落石砸中身亡",
+        "onboard_time": 1718252840,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 181884,
+        "num": 181884,
+        "word": "董宇辉回应要用安眠药",
+        "onboard_time": 1718255718,
+        "rank": 39,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 179039,
+        "num": 179039,
+        "word": "星巴克在瑞幸库迪高压下也开始慌了",
+        "onboard_time": 1718248397,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176783,
+        "num": 176783,
+        "word": "刘亦菲说和方协文是最矛盾冲突的",
+        "onboard_time": 1718252359,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163420,
+        "num": 163420,
+        "word": "光头新卡",
+        "onboard_time": 1718248097,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160754,
+        "num": 160754,
+        "word": "沈小婷奔跑吧预告",
+        "onboard_time": 1718252121,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152340,
+        "num": 152340,
+        "word": "龚俊大男主",
+        "onboard_time": 1718252479,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147950,
+        "num": 147950,
+        "word": "邓紫棋哈尔滨",
+        "onboard_time": 1718254339,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144215,
+        "num": 144215,
+        "word": "光与夜之恋陆沉",
+        "onboard_time": 1718245397,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139512,
+        "num": 139512,
+        "word": "光与夜之恋",
+        "onboard_time": 1718238800,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136987,
+        "num": 136987,
+        "word": "妈妈让28岁未婚未育女儿回家啃老",
+        "onboard_time": 1718234957,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136735,
+        "num": 136735,
+        "word": "余秀华回应与完颜慧德不合",
+        "onboard_time": 1718246176,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}

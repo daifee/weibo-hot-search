@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718253442881,
+  "endTime": 1718255989242,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -393,6 +393,14 @@
       "onboard_time": 1718249957,
       "rank": 3,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1247333,
+      "num": 1247333,
+      "word": "已老实 光头求放过",
+      "onboard_time": 1718254100,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 1244043,
@@ -827,6 +835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 885033,
+      "num": 885033,
+      "word": "只要公主敢嫁裴某自然敢娶",
+      "onboard_time": 1718251218,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 881021,
       "num": 260650,
       "word": "刘亦菲是历史上首届金鹰女神",
@@ -1139,20 +1155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 732306,
+      "num": 732306,
+      "word": "机场回应明星耍大牌喊旅客下电梯",
+      "onboard_time": 1718254339,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 729085,
       "num": 729085,
       "word": "王星越壁纸",
       "onboard_time": 1717863797,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 727990,
-      "num": 557767,
-      "word": "只要公主敢嫁裴某自然敢娶",
-      "onboard_time": 1718251218,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 727486,
@@ -1224,6 +1240,14 @@
       "word": "狐妖月红篇be大结局",
       "onboard_time": 1718111901,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 709748,
+      "num": 541251,
+      "word": "伊能静给墨雨云间写小作文",
+      "onboard_time": 1718253620,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -1811,6 +1835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 571643,
+      "num": 456995,
+      "word": "刘亦菲发疯戏是即兴发挥",
+      "onboard_time": 1718251518,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571633,
       "num": 274582,
       "word": "这样睡10分钟可抵2小时",
@@ -1873,14 +1905,6 @@
       "onboard_time": 1718094438,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551658,
-      "num": 404921,
-      "word": "刘亦菲发疯戏是即兴发挥",
-      "onboard_time": 1718251518,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 550597,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1717995678,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496691,
+      "num": 496691,
+      "word": "中专女生爆冷拿下数学竞赛全球12名",
+      "onboard_time": 1718254760,
+      "rank": 8,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 496528,
@@ -2987,12 +3019,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410872,
+      "num": 410872,
+      "word": "于正回复伊能静小作文",
+      "onboard_time": 1718254878,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407492,
       "num": 407492,
       "word": "李莎旻子送给凡希亚马面裙",
       "onboard_time": 1717991957,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405794,
+      "num": 405794,
+      "word": "番茄炒蛋里的蛋比番茄便宜了",
+      "onboard_time": 1718252900,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 403283,
@@ -3305,6 +3353,14 @@
       "onboard_time": 1717916597,
       "rank": 25,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 372298,
+      "num": 372298,
+      "word": "刘浩存褶皱裙",
+      "onboard_time": 1718253500,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 372185,
@@ -4427,6 +4483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 288953,
+      "num": 288953,
+      "word": "王鹤棣说快给周杰伦上个瓜子",
+      "onboard_time": 1718255598,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288875,
       "num": 271346,
       "word": "凤凰传奇演唱会三城官宣",
@@ -4585,6 +4649,14 @@
       "onboard_time": 1718172498,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 275563,
+      "num": 275563,
+      "word": "乌尔善这么做一定有他的道理",
+      "onboard_time": 1718253379,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 274333,
@@ -4779,6 +4851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263999,
+      "num": 263999,
+      "word": "浪姐给尚雯婕袁娅维批假条了",
+      "onboard_time": 1718255360,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263795,
       "num": 263795,
       "word": "田曦薇新剧演女警",
@@ -4849,14 +4929,6 @@
       "onboard_time": 1718089878,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259852,
-      "num": 259852,
-      "word": "番茄炒蛋里的蛋比番茄便宜了",
-      "onboard_time": 1718252900,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 259275,
@@ -5000,6 +5072,14 @@
       "word": "袁娅维 导演组你什么意思",
       "onboard_time": 1717888273,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 250586,
+      "num": 219779,
+      "word": "尚雯婕 不鼓自鸣",
+      "onboard_time": 1718254339,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -5659,6 +5739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 218059,
+      "num": 218059,
+      "word": "程潇吊带背心",
+      "onboard_time": 1718255360,
+      "rank": 32,
+      "category": "综艺,游戏"
+    },
+    {
       "raw_hot": 217267,
       "num": 217267,
       "word": "山东地理",
@@ -6115,6 +6203,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 205053,
+      "num": 205053,
+      "word": "凤凰传奇抢票",
+      "onboard_time": 1718254398,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204997,
       "num": 573515,
       "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
@@ -6355,6 +6451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200030,
+      "num": 200030,
+      "word": "陆沉pv",
+      "onboard_time": 1718253740,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199884,
       "num": 199884,
       "word": "高考试卷核弹级别保密",
@@ -6537,6 +6641,14 @@
       "onboard_time": 1717986197,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195863,
+      "num": 195863,
+      "word": "游客在四川瓦屋山被落石砸中身亡",
+      "onboard_time": 1718252840,
+      "rank": 40,
+      "category": "社会负面"
     },
     {
       "raw_hot": 195809,
@@ -6849,14 +6961,6 @@
       "onboard_time": 1718247738,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 189833,
-      "num": 189833,
-      "word": "游客在四川瓦屋山被落石砸中身亡",
-      "onboard_time": 1718252840,
-      "rank": 40,
-      "category": "社会负面"
     },
     {
       "raw_hot": 189809,
@@ -7249,6 +7353,14 @@
       "onboard_time": 1718150899,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181884,
+      "num": 181884,
+      "word": "董宇辉回应要用安眠药",
+      "onboard_time": 1718255718,
+      "rank": 39,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 181714,
@@ -7771,14 +7883,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 167488,
-      "num": 167488,
-      "word": "乌尔善这么做一定有他的道理",
-      "onboard_time": 1718253379,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 166947,
       "num": 166947,
       "word": "不要再把面膜放冰箱了",
@@ -8299,6 +8403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156854,
+      "num": 226887,
+      "word": "30多岁开始出现老花眼",
+      "onboard_time": 1718251399,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156740,
       "num": 156740,
       "word": "霉霉的小品没有瓶颈期吗",
@@ -8731,6 +8843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148359,
+      "num": 493518,
+      "word": "黄焖鸡米饭为什么不香了",
+      "onboard_time": 1718253260,
+      "rank": 19,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 148078,
       "num": 233726,
       "word": "NBA",
@@ -8745,6 +8865,14 @@
       "onboard_time": 1718018597,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 147950,
+      "num": 147950,
+      "word": "邓紫棋哈尔滨",
+      "onboard_time": 1718254339,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 147622,
@@ -10891,14 +11019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 107896,
-      "num": 353564,
-      "word": "黄焖鸡米饭为什么不香了",
-      "onboard_time": 1718253260,
-      "rank": 19,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 107796,
       "num": 137762,
       "word": "秦霄贤你的圆圆姐来了",
@@ -11676,7 +11796,7 @@
     },
     {
       "raw_hot": 80373,
-      "num": 821707,
+      "num": 1046248,
       "word": "在博物馆里感受文化绵延生命力",
       "onboard_time": 1718250379,
       "rank": 2,
@@ -12499,6 +12619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 44734,
+      "num": 469049,
+      "word": "王俊凯夏日清爽大片",
+      "onboard_time": 1718251399,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 44694,
       "num": 137703,
       "word": "朱正廷清爽学长造型",
@@ -12625,14 +12753,6 @@
       "onboard_time": 1718112739,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38779,
-      "num": 404604,
-      "word": "王俊凯夏日清爽大片",
-      "onboard_time": 1718251399,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 38530,
