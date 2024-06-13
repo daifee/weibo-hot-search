@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718303941421,
+  "endTime": 1718306126220,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -4747,6 +4747,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 302815,
+      "num": 302815,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 302611,
       "num": 302611,
       "word": "中信集团副总经理徐佐被查",
@@ -5328,14 +5336,6 @@
       "word": "女孩骑车被卷入大车车底不幸身亡",
       "onboard_time": 1717976475,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 268843,
-      "num": 268843,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -15203,6 +15203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15907,
+      "num": 21683,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 15898,
       "num": 163180,
       "word": "法网的风吹向巴黎奥运",
@@ -15249,6 +15257,14 @@
       "onboard_time": 1718124436,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14391,
+      "num": 21680,
+      "word": "RIIZE新歌试听",
+      "onboard_time": 1718300532,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 14347,
