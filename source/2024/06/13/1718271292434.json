@@ -1,0 +1,410 @@
+{
+  "runTime": 1718271292434,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 932072,
+        "num": 932072,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 926844,
+        "num": 926844,
+        "word": "加沙8岁女孩被活活饿死",
+        "onboard_time": 1718267599,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 29778,
+        "num": 824199,
+        "word": "2024视听中国优秀短视频活动",
+        "onboard_time": 1718267180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 764843,
+        "num": 764843,
+        "word": "齐思钧发视频报平安",
+        "onboard_time": 1718269578,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598319,
+        "num": 598319,
+        "word": "小米汽车销量连续下跌",
+        "onboard_time": 1718267718,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 419755,
+        "num": 419755,
+        "word": "奢香夫人",
+        "onboard_time": 1718263218,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382223,
+        "num": 382223,
+        "word": "王涛好好麦",
+        "onboard_time": 1718266339,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344886,
+        "num": 344886,
+        "word": "歌手发歌单了",
+        "onboard_time": 1718259079,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297807,
+        "num": 297807,
+        "word": "女子花7万婚介推荐男士全方位造假",
+        "onboard_time": 1718267959,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65698,
+        "num": 296903,
+        "word": "福宝可太会营业了",
+        "onboard_time": 1718269819,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1073388,
+        "num": 295683,
+        "word": "曝芒果某节目制片人性骚扰",
+        "onboard_time": 1718267779,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755146,
+        "num": 293318,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 425865,
+        "num": 292373,
+        "word": "古天乐被追债830万港币",
+        "onboard_time": 1718270060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424593,
+        "num": 291092,
+        "word": "天启 家暴",
+        "onboard_time": 1718257518,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 308347,
+        "num": 290146,
+        "word": "王一博禁止擅闯车场声明",
+        "onboard_time": 1718260697,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288804,
+        "num": 288804,
+        "word": "已老实 光头求放过",
+        "onboard_time": 1718254100,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237000,
+        "num": 237000,
+        "word": "新加坡门将妻子收到打款以为诈骗",
+        "onboard_time": 1718265080,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224696,
+        "num": 224696,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224349,
+        "num": 224349,
+        "word": "日本男子被曝在多家儿童机构性侵女童",
+        "onboard_time": 1718262978,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204316,
+        "num": 204316,
+        "word": "山河三省霸榜全国高温榜",
+        "onboard_time": 1718265980,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345937,
+        "num": 204026,
+        "word": "建议大家购买饮料别加冰",
+        "onboard_time": 1718263338,
+        "rank": 20,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 217226,
+        "num": 202533,
+        "word": "SBS阵容",
+        "onboard_time": 1718270779,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260630,
+        "num": 201396,
+        "word": "如果你家空调一直开27度的话",
+        "onboard_time": 1718269038,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208983,
+        "num": 199590,
+        "word": "于正回复伊能静小作文",
+        "onboard_time": 1718254878,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199562,
+        "num": 199562,
+        "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+        "onboard_time": 1718249839,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197045,
+        "num": 197045,
+        "word": "手机充电一整宿有多危险",
+        "onboard_time": 1718259619,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187994,
+        "num": 187994,
+        "word": "起底婚介公司忽悠套路",
+        "onboard_time": 1718264119,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159725,
+        "num": 159725,
+        "word": "周鸿祎回应360不能正常卸载",
+        "onboard_time": 1718269400,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153650,
+        "num": 153650,
+        "word": "LV售后欧洲免费国内收2400",
+        "onboard_time": 1718256677,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150183,
+        "num": 150183,
+        "word": "吴谨言开辟令妃回宫赛道",
+        "onboard_time": 1718268258,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189374,
+        "num": 149802,
+        "word": "巴勒斯坦人讲述被以军虐待经历",
+        "onboard_time": 1718270538,
+        "rank": 30,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147787,
+        "num": 147787,
+        "word": "美国发生大规模伤亡事件",
+        "onboard_time": 1718260640,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144902,
+        "num": 144902,
+        "word": "猫妈拒绝陌生人拐走它的崽",
+        "onboard_time": 1718269578,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143760,
+        "num": 143760,
+        "word": "金硕珍被亲了",
+        "onboard_time": 1718264779,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140437,
+        "num": 140437,
+        "word": "詹雯婷胜诉",
+        "onboard_time": 1718263338,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139563,
+        "num": 139563,
+        "word": "李溪芮为尚雯婕P了歌手图",
+        "onboard_time": 1718267238,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126880,
+        "num": 126880,
+        "word": "济南事业编 网页进不去",
+        "onboard_time": 1718270240,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125769,
+        "num": 125769,
+        "word": "福宝到处标记领地",
+        "onboard_time": 1718267480,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125757,
+        "num": 125757,
+        "word": "墨雨云间男主吃烧烤蘸醋",
+        "onboard_time": 1718265019,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125133,
+        "num": 125133,
+        "word": "张靓颖嘉宾 王力宏",
+        "onboard_time": 1718263999,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120416,
+        "num": 120416,
+        "word": "周深人没来歌来了",
+        "onboard_time": 1718269760,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118478,
+        "num": 118478,
+        "word": "歌手改赛制",
+        "onboard_time": 1718264357,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115655,
+        "num": 115655,
+        "word": "刘浩存举四叶草",
+        "onboard_time": 1718266580,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114956,
+        "num": 114956,
+        "word": "chalice BP",
+        "onboard_time": 1718271136,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114365,
+        "num": 114365,
+        "word": "伊能静给墨雨云间写小作文",
+        "onboard_time": 1718253620,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36579,
+        "num": 113834,
+        "word": "粉丝偷易烊千玺的猫参加比赛",
+        "onboard_time": 1718271199,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113612,
+        "num": 113612,
+        "word": "刘亦菲37岁的状态",
+        "onboard_time": 1718266819,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112663,
+        "num": 112663,
+        "word": "黄焖鸡米饭为什么不香了",
+        "onboard_time": 1718253260,
+        "rank": 47,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 108952,
+        "num": 108952,
+        "word": "周翊然 这张陆让又新又旧的",
+        "onboard_time": 1718265860,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97928,
+        "num": 97928,
+        "word": "体检报告出现这些字眼要当心",
+        "onboard_time": 1718256559,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}
