@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718267827222,
+  "endTime": 1718270494976,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -529,6 +529,14 @@
       "onboard_time": 1718103078,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1131089,
+      "num": 524362,
+      "word": "曝芒果某节目制片人性骚扰",
+      "onboard_time": 1718267779,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1128102,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1718030239,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 737871,
+      "num": 336802,
+      "word": "加沙8岁女孩被活活饿死",
+      "onboard_time": 1718267599,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 734378,
@@ -1955,6 +1971,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 555665,
+      "num": 555665,
+      "word": "小米汽车销量连续下跌",
+      "onboard_time": 1718267718,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 552475,
       "num": 552475,
       "word": "詹翌平接陈逸轩下考",
@@ -1993,6 +2017,14 @@
       "onboard_time": 1718014998,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 546210,
+      "num": 322271,
+      "word": "齐思钧发视频报平安",
+      "onboard_time": 1718269578,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 545854,
@@ -2420,7 +2452,7 @@
     },
     {
       "raw_hot": 491417,
-      "num": 202796,
+      "num": 208165,
       "word": "建议大家购买饮料别加冰",
       "onboard_time": 1718263338,
       "rank": 31,
@@ -3035,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428470,
+      "num": 344954,
+      "word": "王涛好好麦",
+      "onboard_time": 1718266339,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427219,
       "num": 220032,
       "word": "SM将追究EXOCBX法律责任",
@@ -3241,14 +3281,6 @@
       "onboard_time": 1718173819,
       "rank": 18,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 396478,
-      "num": 344954,
-      "word": "王涛好好麦",
-      "onboard_time": 1718266339,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 396277,
@@ -3947,14 +3979,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 336802,
-      "num": 336802,
-      "word": "加沙8岁女孩被活活饿死",
-      "onboard_time": 1718267599,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 336059,
       "num": 245240,
       "word": "徐海乔五个男人一个都没争取到",
@@ -4195,6 +4219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317732,
+      "num": 317732,
+      "word": "新加坡门将妻子收到打款以为诈骗",
+      "onboard_time": 1718265080,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317586,
       "num": 269704,
       "word": "徐正溪工作室回应杀青照",
@@ -4267,6 +4299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 310766,
+      "num": 310766,
+      "word": "古天乐被追债830万港币",
+      "onboard_time": 1718270060,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310408,
       "num": 310408,
       "word": "马嘉祺新歌MV有女主",
@@ -4289,14 +4329,6 @@
       "onboard_time": 1718114659,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 309251,
-      "num": 309251,
-      "word": "新加坡门将妻子收到打款以为诈骗",
-      "onboard_time": 1718265080,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 308762,
@@ -4641,6 +4673,14 @@
       "onboard_time": 1718027599,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289836,
+      "num": 205334,
+      "word": "如果你家空调一直开27度的话",
+      "onboard_time": 1718269038,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 289210,
@@ -5395,6 +5435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246728,
+      "num": 331639,
+      "word": "女子花7万婚介推荐男士全方位造假",
+      "onboard_time": 1718267959,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246508,
       "num": 246508,
       "word": "孙颖莎王楚钦入选福布斯亚洲榜",
@@ -6065,6 +6113,14 @@
       "onboard_time": 1718190558,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 214682,
+      "num": 352574,
+      "word": "山河三省霸榜全国高温榜",
+      "onboard_time": 1718265980,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214564,
@@ -7563,6 +7619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183311,
+      "num": 183311,
+      "word": "起底婚介公司忽悠套路",
+      "onboard_time": 1718264119,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183076,
       "num": 183076,
       "word": "黄亦玫被PUA成家庭主妇",
@@ -7785,14 +7849,6 @@
       "onboard_time": 1717850718,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 179414,
-      "num": 179414,
-      "word": "曝芒果某节目制片人性骚扰",
-      "onboard_time": 1718267779,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 179313,
@@ -8219,6 +8275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 167807,
+      "num": 167807,
+      "word": "吴谨言开辟令妃回宫赛道",
+      "onboard_time": 1718268258,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167538,
       "num": 167538,
       "word": "蔡徐坤顺毛侧颜",
@@ -8619,6 +8683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159954,
+      "num": 159954,
+      "word": "南海沉船打捞出的文物惊艳了",
+      "onboard_time": 1718269578,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159796,
       "num": 159796,
       "word": "湖北黄梅县龙舟赛翻船致一人死亡",
@@ -8649,14 +8721,6 @@
       "onboard_time": 1718193979,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159281,
-      "num": 175978,
-      "word": "起底婚介公司忽悠套路",
-      "onboard_time": 1718264119,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159266,
@@ -8931,6 +8995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154938,
+      "num": 154938,
+      "word": "猫妈拒绝陌生人拐走它的崽",
+      "onboard_time": 1718269578,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154836,
       "num": 154836,
       "word": "龙舟",
@@ -8985,6 +9057,14 @@
       "onboard_time": 1717995259,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153522,
+      "num": 153522,
+      "word": "周鸿祎回应360不能正常卸载",
+      "onboard_time": 1718269400,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 153417,
@@ -9761,14 +9841,6 @@
       "onboard_time": 1718001857,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 139247,
-      "num": 139247,
-      "word": "小米汽车销量连续下跌",
-      "onboard_time": 1718267718,
-      "rank": 37,
-      "category": "汽车"
     },
     {
       "raw_hot": 138931,
@@ -11019,6 +11091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118383,
+      "num": 118383,
+      "word": "豆芽拌鸡胸肉",
+      "onboard_time": 1718269038,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 118197,
       "num": 118197,
       "word": "邓紫棋福州",
@@ -11435,6 +11515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111299,
+      "num": 330135,
+      "word": "没有趟不过的河只有一定要救的命",
+      "onboard_time": 1718270060,
+      "rank": 10,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 111139,
       "num": 571688,
       "word": "网红胡涵溪93岁姥姥去世",
@@ -11449,6 +11537,14 @@
       "onboard_time": 1718195238,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111005,
+      "num": 111005,
+      "word": "济南事业编 网页进不去",
+      "onboard_time": 1718270240,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 110429,
@@ -11547,6 +11643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108282,
+      "num": 108282,
+      "word": "欧洲杯",
+      "onboard_time": 1718269578,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108059,
       "num": 296920,
       "word": "上海短视频小横店日租金6000",
@@ -11617,6 +11721,14 @@
       "onboard_time": 1718030119,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 106740,
+      "num": 106740,
+      "word": "何运晨做牛马的一天",
+      "onboard_time": 1718269519,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 106279,
@@ -12275,14 +12387,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 83955,
-      "num": 352574,
-      "word": "山河三省霸榜全国高温榜",
-      "onboard_time": 1718265980,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 83925,
       "num": 243230,
       "word": "邓超请15万人吃螺蛳粉",
@@ -12617,6 +12721,14 @@
       "onboard_time": 1717863496,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62144,
+      "num": 119476,
+      "word": "福宝可太会营业了",
+      "onboard_time": 1718269819,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61799,
@@ -13673,6 +13785,14 @@
       "onboard_time": 1718096417,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23603,
+      "num": 529584,
+      "word": "2024视听中国优秀短视频活动",
+      "onboard_time": 1718267180,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23030,
