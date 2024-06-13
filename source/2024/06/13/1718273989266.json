@@ -1,0 +1,410 @@
+{
+  "runTime": 1718273989266,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1037097,
+        "num": 1037097,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 754056,
+        "num": 754056,
+        "word": "加沙8岁女孩被活活饿死",
+        "onboard_time": 1718267599,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 26049,
+        "num": 630998,
+        "word": "2024视听中国优秀短视频活动",
+        "onboard_time": 1718267180,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559029,
+        "num": 559029,
+        "word": "古天乐被追债830万港币",
+        "onboard_time": 1718270060,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535701,
+        "num": 535701,
+        "word": "齐思钧发视频报平安",
+        "onboard_time": 1718269578,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522111,
+        "num": 522111,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493300,
+        "num": 493300,
+        "word": "小米汽车销量连续下跌",
+        "onboard_time": 1718267718,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 368180,
+        "num": 368180,
+        "word": "汪苏泷官宣650团综",
+        "onboard_time": 1718272158,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342623,
+        "num": 342623,
+        "word": "王一博禁止擅闯车场声明",
+        "onboard_time": 1718260697,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59915,
+        "num": 341458,
+        "word": "江豚妈妈伴着晚霞产下一头豚宝宝",
+        "onboard_time": 1718273538,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554662,
+        "num": 338559,
+        "word": "2023届本科生月均收入6050元",
+        "onboard_time": 1718272037,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 856588,
+        "num": 336150,
+        "word": "曝芒果某节目制片人性骚扰",
+        "onboard_time": 1718267779,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 531244,
+        "num": 335531,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 427715,
+        "num": 333279,
+        "word": "天启 家暴",
+        "onboard_time": 1718257518,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 331513,
+        "num": 331513,
+        "word": "中国女排锁定巴黎奥运会门票",
+        "onboard_time": 1718271857,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329275,
+        "num": 329275,
+        "word": "已老实 光头求放过",
+        "onboard_time": 1718254100,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290850,
+        "num": 290850,
+        "word": "歌手你是大冰吗",
+        "onboard_time": 1718272278,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284957,
+        "num": 284957,
+        "word": "奢香夫人",
+        "onboard_time": 1718263218,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219585,
+        "num": 219585,
+        "word": "女子花7万婚介推荐男士全方位造假",
+        "onboard_time": 1718267959,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38858,
+        "num": 217598,
+        "word": "藏在一瓶水中的山河秀丽",
+        "onboard_time": 1718272577,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 283825,
+        "num": 217257,
+        "word": "歌手发歌单了",
+        "onboard_time": 1718259079,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216192,
+        "num": 216192,
+        "word": "沈腾时代少年团官宣战至巅峰",
+        "onboard_time": 1718272639,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206264,
+        "num": 206264,
+        "word": "建议大家购买饮料别加冰",
+        "onboard_time": 1718263338,
+        "rank": 22,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 204597,
+        "num": 204597,
+        "word": "如果你家空调一直开27度的话",
+        "onboard_time": 1718269038,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201591,
+        "num": 201591,
+        "word": "LV售后欧洲免费国内收2400",
+        "onboard_time": 1718256677,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198109,
+        "num": 198109,
+        "word": "日本主持人称难怪烟花是中国发明的",
+        "onboard_time": 1718272098,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187498,
+        "num": 187498,
+        "word": "薛之谦汕头抢票",
+        "onboard_time": 1718273117,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184773,
+        "num": 184773,
+        "word": "于正回复伊能静小作文",
+        "onboard_time": 1718254878,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180008,
+        "num": 180008,
+        "word": "厦门鼓浪屿晴天墙被擦除",
+        "onboard_time": 1718273478,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 171351,
+        "num": 171351,
+        "word": "王涛好好麦",
+        "onboard_time": 1718266339,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302191,
+        "num": 170880,
+        "word": "逆水寒六周年庆",
+        "onboard_time": 1718273298,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275496,
+        "num": 170722,
+        "word": "老人下公交被夹拖行身亡",
+        "onboard_time": 1718273358,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 170386,
+        "num": 170386,
+        "word": "女生高考后一觉睡30个小时",
+        "onboard_time": 1718273658,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 162268,
+        "num": 162268,
+        "word": "山河三省霸榜全国高温榜",
+        "onboard_time": 1718265980,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160667,
+        "num": 160667,
+        "word": "歌手官宣尚雯婕袁娅维冲榜歌手",
+        "onboard_time": 1718249839,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160288,
+        "num": 160288,
+        "word": "以军对加沙南部地区发动海陆空袭击",
+        "onboard_time": 1718272519,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 157968,
+        "num": 157968,
+        "word": "王源用AI设计海报",
+        "onboard_time": 1718273298,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58071,
+        "num": 148752,
+        "word": "粉丝偷易烊千玺的猫参加比赛",
+        "onboard_time": 1718271199,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146745,
+        "num": 146745,
+        "word": "为什么农村大席不会吃坏肚子",
+        "onboard_time": 1718272458,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145991,
+        "num": 145991,
+        "word": "吴谨言开辟令妃回宫赛道",
+        "onboard_time": 1718268258,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139364,
+        "num": 139364,
+        "word": "起底婚介公司忽悠套路",
+        "onboard_time": 1718264119,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135907,
+        "num": 135907,
+        "word": "SBS阵容",
+        "onboard_time": 1718270779,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134126,
+        "num": 134126,
+        "word": "巴勒斯坦人讲述被以军虐待经历",
+        "onboard_time": 1718270538,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127778,
+        "num": 127778,
+        "word": "到底是谁在花几十块买苹果截图啊",
+        "onboard_time": 1718272936,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119345,
+        "num": 119345,
+        "word": "周鸿祎回应360不能正常卸载",
+        "onboard_time": 1718269400,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117077,
+        "num": 117077,
+        "word": "一只哈士奇混在两只狼中间",
+        "onboard_time": 1718273898,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114177,
+        "num": 114177,
+        "word": "金硕珍被亲了",
+        "onboard_time": 1718264779,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113811,
+        "num": 113811,
+        "word": "电风扇上装矿泉水瓶制冷效果堪比空调",
+        "onboard_time": 1718271679,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110967,
+        "num": 110967,
+        "word": "手机充电一整宿有多危险",
+        "onboard_time": 1718259619,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55970,
+        "num": 107437,
+        "word": "谁给陈建斌报的名",
+        "onboard_time": 1718273058,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国助力落实联合国2030年可持续发展议程#"
+    }
+  }
+}
