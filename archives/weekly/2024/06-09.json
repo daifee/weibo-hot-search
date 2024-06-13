@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718285647463,
+  "endTime": 1718288332167,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -635,6 +635,14 @@
       "category": "艺人,网红"
     },
     {
+      "raw_hot": 1078882,
+      "num": 1078882,
+      "word": "香蜜沉沉烬如霜云合破150亿",
+      "onboard_time": 1718285719,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1074002,
       "num": 1074002,
       "word": "高考试卷真的在监狱印刷吗",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1718100557,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 794771,
+      "num": 522827,
+      "word": "林更新这个真骂不了",
+      "onboard_time": 1718286138,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 794068,
@@ -1811,6 +1827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 622539,
+      "num": 622539,
+      "word": "印度男子在冰激凌中发现手指",
+      "onboard_time": 1718277918,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620026,
       "num": 620026,
       "word": "时代少年团不开演唱会开运动会",
@@ -2033,14 +2057,6 @@
       "onboard_time": 1717915758,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 569669,
-      "num": 569669,
-      "word": "印度男子在冰激凌中发现手指",
-      "onboard_time": 1718277918,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 565467,
@@ -2699,6 +2715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 475220,
+      "num": 320001,
+      "word": "孙楠唱你快回来cue檀健次",
+      "onboard_time": 1718286200,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475012,
       "num": 384558,
       "word": "快乐老友记",
@@ -3211,6 +3235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 423198,
+      "num": 423198,
+      "word": "以色列北部遭袭击",
+      "onboard_time": 1718284699,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 423108,
       "num": 396564,
       "word": "赵露思陈伟霆同框路透",
@@ -3707,6 +3739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367322,
+      "num": 307607,
+      "word": "刘亦菲的台词被各地文旅用上了",
+      "onboard_time": 1718284578,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 366394,
       "num": 276860,
       "word": "陈雨浓董力",
@@ -3737,6 +3777,14 @@
       "onboard_time": 1718086337,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364016,
+      "num": 306830,
+      "word": "姜家是得罪月老了吗",
+      "onboard_time": 1718285719,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 363236,
@@ -4177,6 +4225,14 @@
       "onboard_time": 1717898477,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 333460,
+      "num": 333460,
+      "word": "茅台已跌至2264元",
+      "onboard_time": 1718283919,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 333303,
@@ -4811,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293547,
+      "num": 293547,
+      "word": "LV客服回应区别对待中国消费者",
+      "onboard_time": 1718283979,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 293167,
       "num": 281831,
       "word": "彭冠英嘻嘻徐海乔不嘻嘻",
@@ -4840,14 +4904,6 @@
       "word": "新版郭靖是封神杨戬",
       "onboard_time": 1718085438,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 291277,
-      "num": 211517,
-      "word": "刘亦菲的台词被各地文旅用上了",
-      "onboard_time": 1718284578,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -5427,6 +5483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256005,
+      "num": 218296,
+      "word": "养老保险缴15年和25年退休金差别",
+      "onboard_time": 1718286619,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255425,
       "num": 201883,
       "word": "歌手改赛制",
@@ -5819,14 +5883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 239765,
-      "num": 210311,
-      "word": "茅台已跌至2264元",
-      "onboard_time": 1718283919,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 239665,
       "num": 239665,
       "word": "因为是牛马所以换公司叫跳槽",
@@ -6115,6 +6171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223544,
+      "num": 261038,
+      "word": "靠锅气来分辨预制菜已经没用了",
+      "onboard_time": 1718283618,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 223430,
       "num": 223430,
       "word": "闵玧其人呢",
@@ -6241,14 +6305,6 @@
       "onboard_time": 1718255360,
       "rank": 32,
       "category": "综艺,游戏"
-    },
-    {
-      "raw_hot": 217786,
-      "num": 206106,
-      "word": "以色列北部遭袭击",
-      "onboard_time": 1718284699,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 217609,
@@ -6393,6 +6449,14 @@
       "onboard_time": 1718159717,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 213986,
+      "num": 213986,
+      "word": "周深回归跑男",
+      "onboard_time": 1718288000,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 213559,
@@ -7803,28 +7867,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187151,
-      "num": 261038,
-      "word": "靠锅气来分辨预制菜已经没用了",
-      "onboard_time": 1718283618,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 186755,
       "num": 186755,
       "word": "KPL",
       "onboard_time": 1717910057,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186750,
-      "num": 186750,
-      "word": "LV客服回应区别对待中国消费者",
-      "onboard_time": 1718283979,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 186486,
@@ -7873,6 +7921,14 @@
       "onboard_time": 1718097678,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 185724,
+      "num": 185724,
+      "word": "吴谨言 快把评论拿走",
+      "onboard_time": 1718286619,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 185445,
@@ -8681,6 +8737,14 @@
       "onboard_time": 1717927637,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 166835,
+      "num": 166835,
+      "word": "王源已读乱回",
+      "onboard_time": 1718287038,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 166721,
@@ -9553,6 +9617,14 @@
       "onboard_time": 1718278397,
       "rank": 36,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 152220,
+      "num": 152220,
+      "word": "王星越金发漫撕男",
+      "onboard_time": 1718285418,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 152189,
@@ -10571,14 +10643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135674,
-      "num": 135674,
-      "word": "王星越金发漫撕男",
-      "onboard_time": 1718285418,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 135591,
       "num": 135591,
       "word": "铁打的张韶涵流水的他",
@@ -10939,6 +11003,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 130163,
+      "num": 130163,
+      "word": "王星越健身两年成果显著",
+      "onboard_time": 1718285839,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130105,
       "num": 130105,
       "word": "TES战胜OMG",
@@ -11275,6 +11347,14 @@
       "category": "教育,军事"
     },
     {
+      "raw_hot": 124727,
+      "num": 124727,
+      "word": "陈哲远回应待爆八年",
+      "onboard_time": 1718287219,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124725,
       "num": 124725,
       "word": "王星越吐槽成亲镜头太少了",
@@ -11289,6 +11369,14 @@
       "onboard_time": 1718085918,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124263,
+      "num": 124263,
+      "word": "谢娜新综艺拟邀胡歌高圆圆王鹤棣",
+      "onboard_time": 1718286379,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 124232,
@@ -11401,6 +11489,14 @@
       "onboard_time": 1718028561,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122681,
+      "num": 122681,
+      "word": "暗河传导演尹涛",
+      "onboard_time": 1718286319,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 122482,
@@ -12155,6 +12251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110096,
+      "num": 122624,
+      "word": "时代少年团要去新综打电竞了",
+      "onboard_time": 1718286079,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110076,
       "num": 110076,
       "word": "AG诚C挂牌",
@@ -12628,7 +12732,7 @@
     },
     {
       "raw_hot": 98572,
-      "num": 98572,
+      "num": 122202,
       "word": "猫猫的叠中叠",
       "onboard_time": 1718284880,
       "rank": 48,
@@ -12648,6 +12752,14 @@
       "word": "高考考场外87岁奶奶说我来看热闹",
       "onboard_time": 1717895477,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97777,
+      "num": 122390,
+      "word": "学校回应小学生吐槽食堂饭菜被教育",
+      "onboard_time": 1718287821,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -13249,6 +13361,14 @@
       "onboard_time": 1718251399,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 72727,
+      "num": 121889,
+      "word": "日本女排vs加拿大女排",
+      "onboard_time": 1718288118,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72553,
@@ -13859,6 +13979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48025,
+      "num": 294801,
+      "word": "深蓝G318上市17.59万元起",
+      "onboard_time": 1718286439,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 48011,
       "num": 555147,
       "word": "太空视角看中国供水大动脉10年之变",
@@ -14377,6 +14505,14 @@
       "onboard_time": 1717959071,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31540,
+      "num": 330821,
+      "word": "中国女排连续11届获得奥运参赛资格",
+      "onboard_time": 1718286799,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 31532,
