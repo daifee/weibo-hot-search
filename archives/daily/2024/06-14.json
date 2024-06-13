@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718300082952,
+  "endTime": 1718303186467,
   "band_list": [
     {
       "raw_hot": 1269349,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 184877,
+      "num": 184877,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175168,
       "num": 175168,
       "word": "王健林王思聪父子重回创富榜前十",
@@ -185,14 +193,6 @@
       "onboard_time": 1718293698,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137835,
-      "num": 137835,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 123083,
@@ -355,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71066,
+      "num": 71125,
+      "word": "声优祭",
+      "onboard_time": 1718299453,
+      "rank": 23,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 70067,
       "num": 70067,
       "word": "中国女排重回亚洲首位",
@@ -427,14 +435,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 48013,
-      "num": 71125,
-      "word": "声优祭",
-      "onboard_time": 1718299453,
-      "rank": 23,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 42011,
       "num": 151313,
       "word": "山东已经热到发烫了",
@@ -451,12 +451,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34282,
+      "num": 34282,
+      "word": "黄亦玫 白羊座",
+      "onboard_time": 1718300652,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30022,
       "num": 372853,
       "word": "南海沉船打捞出的文物惊艳了",
       "onboard_time": 1718269578,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27127,
+      "num": 72386,
+      "word": "打喷嚏为什么总是闭眼",
+      "onboard_time": 1718299874,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 23694,
+      "num": 26389,
+      "word": "开始审判方协文",
+      "onboard_time": 1718300113,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 16387,
@@ -467,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13764,
-      "num": 72386,
-      "word": "打喷嚏为什么总是闭眼",
-      "onboard_time": 1718299874,
-      "rank": 17,
-      "category": "科学科普"
+      "raw_hot": 5703,
+      "num": 74433,
+      "word": "暴雨中他们用行动护旗的样子太帅",
+      "onboard_time": 1718301733,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
