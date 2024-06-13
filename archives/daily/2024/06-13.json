@@ -1,10 +1,10 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718241616846,
+  "endTime": 1718242871404,
   "band_list": [
     {
       "raw_hot": 1363969,
-      "num": 369725,
+      "num": 384011,
       "word": "森林北报案",
       "onboard_time": 1718234776,
       "rank": 11,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1117609,
+      "num": 1117609,
+      "word": "马斯克被曝要求女高管为其生孩子",
+      "onboard_time": 1718238560,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1024448,
       "num": 1024448,
       "word": "南京咖啡阿姨回应20多天赚几百万",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 964418,
-      "num": 609361,
+      "num": 897207,
       "word": "胡歌进产房陪产剪脐带",
       "onboard_time": 1718234355,
       "rank": 6,
@@ -44,19 +52,11 @@
     },
     {
       "raw_hot": 790926,
-      "num": 362291,
+      "num": 371195,
       "word": "林更新P图回复刘亦菲",
       "onboard_time": 1718235378,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 770473,
-      "num": 770473,
-      "word": "马斯克被曝要求女高管为其生孩子",
-      "onboard_time": 1718238560,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 579038,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 500392,
-      "num": 351187,
+      "num": 365200,
       "word": "42岁的宋慧乔",
       "onboard_time": 1718237238,
       "rank": 14,
@@ -123,6 +123,22 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 473114,
+      "num": 473114,
+      "word": "奔驰宝马大众表态",
+      "onboard_time": 1718240719,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 449872,
+      "num": 449872,
+      "word": "光与夜之恋",
+      "onboard_time": 1718238800,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 449573,
       "num": 274521,
       "word": "原来这才是脊柱喜欢的睡姿",
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 378523,
-      "num": 349177,
+      "num": 361371,
       "word": "吴谨言背好薄",
       "onboard_time": 1718239039,
       "rank": 15,
@@ -153,6 +169,14 @@
       "onboard_time": 1718219711,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 364506,
+      "num": 262530,
+      "word": "中国女游客在泰国遭假司机性侵",
+      "onboard_time": 1718240779,
+      "rank": 22,
+      "category": "社会负面"
     },
     {
       "raw_hot": 353221,
@@ -179,14 +203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 346342,
-      "num": 346342,
-      "word": "光与夜之恋",
-      "onboard_time": 1718238800,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 343334,
       "num": 343334,
       "word": "专家说杨梅是减肥人士的福音",
@@ -195,28 +211,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 324712,
-      "num": 262530,
-      "word": "中国女游客在泰国遭假司机性侵",
-      "onboard_time": 1718240779,
-      "rank": 22,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 321282,
       "num": 321282,
       "word": "为什么黄金首饰卖不动了",
       "onboard_time": 1718236097,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 317367,
-      "num": 317367,
-      "word": "奔驰宝马大众表态",
-      "onboard_time": 1718240719,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 317312,
@@ -235,12 +235,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 243799,
-      "num": 243799,
+      "raw_hot": 290014,
+      "num": 290014,
       "word": "2元面包店的面包能吃吗",
       "onboard_time": 1718238679,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 254327,
+      "num": 374876,
+      "word": "高考填志愿十问十答",
+      "onboard_time": 1718238020,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 236315,
@@ -265,6 +273,14 @@
       "onboard_time": 1718237058,
       "rank": 25,
       "category": "财经,国外时政"
+    },
+    {
+      "raw_hot": 227932,
+      "num": 227932,
+      "word": "原来人真的会发霉",
+      "onboard_time": 1718238380,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 223575,
@@ -299,20 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 215002,
-      "num": 215002,
-      "word": "原来人真的会发霉",
-      "onboard_time": 1718238380,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 211661,
       "num": 576894,
       "word": "北京偶遇刘亦菲逛街",
       "onboard_time": 1718198480,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206777,
+      "num": 206777,
+      "word": "中考",
+      "onboard_time": 1718242217,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 201087,
@@ -369,6 +385,14 @@
       "onboard_time": 1718192119,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170301,
+      "num": 170301,
+      "word": "兰州8元一碗的辣子牛肉面",
+      "onboard_time": 1718241859,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 163235,
@@ -459,6 +483,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134661,
+      "num": 134661,
+      "word": "怪盗基德 就是硬帅",
+      "onboard_time": 1718242818,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 129723,
+      "num": 129723,
+      "word": "苹果将通过分销方式向OpenAI付费",
+      "onboard_time": 1718241558,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128063,
       "num": 128063,
       "word": "苹果iOS18将上线徒步旅行功能",
@@ -489,14 +529,6 @@
       "onboard_time": 1718183301,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119882,
-      "num": 374876,
-      "word": "高考填志愿十问十答",
-      "onboard_time": 1718238020,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 118552,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 110198,
-      "num": 110198,
+      "num": 387851,
       "word": "美联储9月降息25个基点概率超60%",
       "onboard_time": 1718240060,
       "rank": 48,
@@ -561,14 +593,6 @@
       "onboard_time": 1718176761,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108986,
-      "num": 108986,
-      "word": "苹果将通过分销方式向OpenAI付费",
-      "onboard_time": 1718241558,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 107714,
@@ -891,8 +915,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19733,
-      "num": 617181,
+      "raw_hot": 19797,
+      "num": 898361,
       "word": "高考报志愿要了解的16个关键词",
       "onboard_time": 1718150116,
       "rank": 2,
