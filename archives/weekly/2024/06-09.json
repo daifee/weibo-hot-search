@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718299072242,
+  "endTime": 1718300082952,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -6355,6 +6355,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 219301,
+      "num": 219301,
+      "word": "三本学生考公要做好多年备考的决心",
+      "onboard_time": 1718297354,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219260,
       "num": 575545,
       "word": "你喜欢的人突然有对象是什么感觉",
@@ -9529,14 +9537,6 @@
       "onboard_time": 1718011158,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156217,
-      "num": 156217,
-      "word": "三本学生考公要做好多年备考的决心",
-      "onboard_time": 1718297354,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 156145,
@@ -13995,6 +13995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56233,
+      "num": 56233,
+      "word": "装在套子里的人 冒犯的人",
+      "onboard_time": 1718297235,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 56231,
       "num": 137720,
       "word": "UP对战WBG",
@@ -14233,6 +14241,14 @@
       "onboard_time": 1718175441,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 48013,
+      "num": 71125,
+      "word": "声优祭",
+      "onboard_time": 1718299453,
+      "rank": 23,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 48011,
@@ -14497,14 +14513,6 @@
       "onboard_time": 1718292558,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41856,
-      "num": 41856,
-      "word": "装在套子里的人 冒犯的人",
-      "onboard_time": 1718297235,
-      "rank": 43,
-      "category": "网红"
     },
     {
       "raw_hot": 41761,
@@ -15139,6 +15147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 16387,
+      "num": 116380,
+      "word": "民警送钱上门阿姨才知自己丢了十几万",
+      "onboard_time": 1718298015,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 16039,
       "num": 19000,
       "word": "贡菜拌毛肚",
@@ -15235,6 +15251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13764,
+      "num": 72386,
+      "word": "打喷嚏为什么总是闭眼",
+      "onboard_time": 1718299874,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 13728,
       "num": 135772,
       "word": "橘子摊老板街头请高考生吃橘子",
@@ -15265,14 +15289,6 @@
       "onboard_time": 1718136670,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 12794,
-      "num": 116380,
-      "word": "民警送钱上门阿姨才知自己丢了十几万",
-      "onboard_time": 1718298015,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12283,
