@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718288332167,
+  "endTime": 1718289369813,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1134257,
+      "num": 1134257,
+      "word": "香蜜沉沉烬如霜云合破150亿",
+      "onboard_time": 1718285719,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1131089,
       "num": 524362,
       "word": "曝芒果某节目制片人性骚扰",
@@ -129,14 +137,6 @@
       "onboard_time": 1718238560,
       "rank": 1,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1078882,
-      "num": 1078882,
-      "word": "香蜜沉沉烬如霜云合破150亿",
-      "onboard_time": 1718285719,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1035387,
@@ -161,6 +161,14 @@
       "onboard_time": 1718238320,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1008107,
+      "num": 522827,
+      "word": "林更新这个真骂不了",
+      "onboard_time": 1718286138,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 964418,
@@ -224,14 +232,6 @@
       "word": "于正回复伊能静小作文",
       "onboard_time": 1718254878,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 794771,
-      "num": 522827,
-      "word": "林更新这个真骂不了",
-      "onboard_time": 1718286138,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 475220,
-      "num": 320001,
+      "num": 345161,
       "word": "孙楠唱你快回来cue檀健次",
       "onboard_time": 1718286200,
       "rank": 12,
@@ -561,6 +561,14 @@
       "onboard_time": 1718234355,
       "rank": 20,
       "category": "运动健身,科学科普"
+    },
+    {
+      "raw_hot": 449044,
+      "num": 348594,
+      "word": "米卡表白刘亦菲",
+      "onboard_time": 1718288540,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 448980,
@@ -699,6 +707,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 380987,
+      "num": 380987,
+      "word": "LV客服回应区别对待中国消费者",
+      "onboard_time": 1718283979,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 378523,
       "num": 361371,
       "word": "吴谨言背好薄",
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 367322,
-      "num": 307607,
+      "num": 318941,
       "word": "刘亦菲的台词被各地文旅用上了",
       "onboard_time": 1718284578,
       "rank": 24,
@@ -809,6 +825,14 @@
       "onboard_time": 1718271857,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326436,
+      "num": 196993,
+      "word": "韩国女子20年前遭集体性侵",
+      "onboard_time": 1718288958,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321282,
@@ -955,14 +979,6 @@
       "category": "综艺,游戏"
     },
     {
-      "raw_hot": 293547,
-      "num": 293547,
-      "word": "LV客服回应区别对待中国消费者",
-      "onboard_time": 1718283979,
-      "rank": 35,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 292450,
       "num": 292450,
       "word": "剑网3",
@@ -1035,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275247,
+      "num": 218296,
+      "word": "养老保险缴15年和25年退休金差别",
+      "onboard_time": 1718286619,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271375,
       "num": 271375,
       "word": "星巴克在瑞幸库迪高压下也开始慌了",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1718255360,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 256005,
-      "num": 218296,
-      "word": "养老保险缴15年和25年退休金差别",
-      "onboard_time": 1718286619,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255425,
@@ -1707,6 +1723,14 @@
       "category": "网红,互联网"
     },
     {
+      "raw_hot": 181389,
+      "num": 181389,
+      "word": "王源已读乱回",
+      "onboard_time": 1718287038,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180072,
       "num": 180072,
       "word": "王一博赛车",
@@ -1779,6 +1803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169233,
+      "num": 169233,
+      "word": "年级倒一和年级第一的友情",
+      "onboard_time": 1718289020,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168801,
       "num": 168801,
       "word": "为什么农村大席不会吃坏肚子",
@@ -1801,14 +1833,6 @@
       "onboard_time": 1718274799,
       "rank": 39,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 166835,
-      "num": 166835,
-      "word": "王源已读乱回",
-      "onboard_time": 1718287038,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 166508,
@@ -1987,6 +2011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154072,
+      "num": 154072,
+      "word": "姚译添给白鹿打歌",
+      "onboard_time": 1718288540,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153962,
       "num": 153962,
       "word": "万茜的伤疤",
@@ -2056,6 +2088,14 @@
       "word": "小鬼教恋爱",
       "onboard_time": 1718256739,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149889,
+      "num": 149889,
+      "word": "陈哲远回应待爆八年",
+      "onboard_time": 1718287219,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -2153,6 +2193,14 @@
       "onboard_time": 1718279957,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140892,
+      "num": 140892,
+      "word": "5km 倒闭",
+      "onboard_time": 1718289020,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 140704,
@@ -2355,12 +2403,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 124727,
-      "num": 124727,
-      "word": "陈哲远回应待爆八年",
-      "onboard_time": 1718287219,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 126430,
+      "num": 126430,
+      "word": "学校回应小学生吐槽食堂饭菜被教育",
+      "onboard_time": 1718287821,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124263,
@@ -2699,20 +2747,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 99335,
+      "num": 99335,
+      "word": "这样的小孩哥不多见了",
+      "onboard_time": 1718289320,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98572,
       "num": 122202,
       "word": "猫猫的叠中叠",
       "onboard_time": 1718284880,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97777,
-      "num": 122390,
-      "word": "学校回应小学生吐槽食堂饭菜被教育",
-      "onboard_time": 1718287821,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 97429,
@@ -2729,6 +2777,14 @@
       "onboard_time": 1718202139,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93145,
+      "num": 93145,
+      "word": "BLG战胜WE",
+      "onboard_time": 1718288421,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 91027,
@@ -3019,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52027,
+      "num": 328642,
+      "word": "深蓝G318上市17.59万元起",
+      "onboard_time": 1718286439,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 52011,
       "num": 474311,
       "word": "这是骑马届的科目几",
@@ -3041,14 +3105,6 @@
       "onboard_time": 1718200220,
       "rank": 49,
       "category": "科学科普,演出"
-    },
-    {
-      "raw_hot": 48025,
-      "num": 294801,
-      "word": "深蓝G318上市17.59万元起",
-      "onboard_time": 1718286439,
-      "rank": 17,
-      "category": "汽车"
     },
     {
       "raw_hot": 47081,
@@ -3155,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34925,
+      "num": 187624,
+      "word": "深蓝CEO称我们不卖期货产品",
+      "onboard_time": 1718288479,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 34170,
       "num": 39792,
       "word": "新疆为什么像四个省份",
@@ -3233,6 +3297,14 @@
       "onboard_time": 1718280017,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 22272,
+      "num": 373184,
+      "word": "的哥连闯3红灯送受伤婴儿去医院",
+      "onboard_time": 1718288721,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22246,
