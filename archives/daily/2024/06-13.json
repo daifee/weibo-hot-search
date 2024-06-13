@@ -1,6 +1,6 @@
 {
   "startTime": 1718209480045,
-  "endTime": 1718284913141,
+  "endTime": 1718285647463,
   "band_list": [
     {
       "raw_hot": 2609846,
@@ -259,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 727855,
+      "num": 408350,
+      "word": "向佐把李胜利拍进短剧",
+      "onboard_time": 1718283319,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 721205,
+      "num": 418579,
+      "word": "刘亦菲蓝色泳装",
+      "onboard_time": 1718282418,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709748,
       "num": 649435,
       "word": "伊能静给墨雨云间写小作文",
@@ -283,14 +299,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 674521,
-      "num": 418579,
-      "word": "刘亦菲蓝色泳装",
-      "onboard_time": 1718282418,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 629950,
       "num": 629950,
       "word": "新加坡门将桑尼妻子发声",
@@ -305,14 +313,6 @@
       "onboard_time": 1718256677,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 602939,
-      "num": 408350,
-      "word": "向佐把李胜利拍进短剧",
-      "onboard_time": 1718283319,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 598319,
@@ -779,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316505,
+      "num": 215712,
+      "word": "为什么年轻人越来越讨厌人情世故了",
+      "onboard_time": 1718281218,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 313727,
       "num": 578173,
       "word": "女儿长成这样可以当童模吗",
@@ -817,14 +825,6 @@
       "onboard_time": 1718264779,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304762,
-      "num": 215712,
-      "word": "为什么年轻人越来越讨厌人情世故了",
-      "onboard_time": 1718281218,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 304519,
@@ -905,6 +905,14 @@
       "onboard_time": 1718250438,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291277,
+      "num": 211517,
+      "word": "刘亦菲的台词被各地文旅用上了",
+      "onboard_time": 1718284578,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 290014,
@@ -1091,6 +1099,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 239765,
+      "num": 210311,
+      "word": "茅台已跌至2264元",
+      "onboard_time": 1718283919,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 236315,
       "num": 236315,
       "word": "墨雨云间 乾坤都没你能扭",
@@ -1227,6 +1243,14 @@
       "category": "综艺,游戏"
     },
     {
+      "raw_hot": 217786,
+      "num": 206106,
+      "word": "以色列北部遭袭击",
+      "onboard_time": 1718284699,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 217609,
       "num": 217609,
       "word": "终于知道巴巴爸爸的受众是谁了",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1718258900,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 205908,
+      "num": 205908,
+      "word": "玫瑰的故事里有王梓薇",
+      "onboard_time": 1718284339,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 205250,
@@ -1563,6 +1595,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187151,
+      "num": 261038,
+      "word": "靠锅气来分辨预制菜已经没用了",
+      "onboard_time": 1718283618,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 186750,
+      "num": 186750,
+      "word": "LV客服回应区别对待中国消费者",
+      "onboard_time": 1718283979,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 186486,
       "num": 186486,
       "word": "莫斯科交易所停止使用美元和欧元交易",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1718191398,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 183204,
-      "num": 183204,
-      "word": "刘亦菲的台词被各地文旅用上了",
-      "onboard_time": 1718284578,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 181884,
@@ -1649,14 +1689,6 @@
       "onboard_time": 1718278819,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 177073,
-      "num": 188356,
-      "word": "茅台已跌至2264元",
-      "onboard_time": 1718283919,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 174234,
@@ -1720,14 +1752,6 @@
       "word": "墨雨云间男主吃烧烤蘸醋",
       "onboard_time": 1718265019,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166027,
-      "num": 166027,
-      "word": "玫瑰的故事里有王梓薇",
-      "onboard_time": 1718284339,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -2075,12 +2099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138894,
-      "num": 138894,
-      "word": "LV客服回应区别对待中国消费者",
-      "onboard_time": 1718283979,
-      "rank": 35,
-      "category": "时尚"
+      "raw_hot": 139938,
+      "num": 139938,
+      "word": "湖北铁饭碗大学",
+      "onboard_time": 1718283739,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 138439,
@@ -2123,20 +2147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136338,
-      "num": 136338,
-      "word": "以色列北部遭袭击",
-      "onboard_time": 1718284699,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 134950,
-      "num": 134950,
-      "word": "湖北铁饭碗大学",
-      "onboard_time": 1718283739,
+      "raw_hot": 135674,
+      "num": 135674,
+      "word": "王星越金发漫撕男",
+      "onboard_time": 1718285418,
       "rank": 38,
-      "category": "教育"
+      "category": "作品衍生"
     },
     {
       "raw_hot": 134440,
@@ -2267,14 +2283,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 120935,
-      "num": 261038,
-      "word": "靠锅气来分辨预制菜已经没用了",
-      "onboard_time": 1718283618,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
-    },
-    {
       "raw_hot": 120812,
       "num": 574659,
       "word": "女子炫了一斤杨梅被送进ICU",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1718244378,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115464,
+      "num": 115464,
+      "word": "小鬼担心的只有录制物资",
+      "onboard_time": 1718285299,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 115109,
@@ -2491,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108053,
+      "num": 449136,
+      "word": "明星走红毯手机放哪儿",
+      "onboard_time": 1718280256,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 107714,
       "num": 575559,
       "word": "四川瓦屋山景区落石有游客被砸伤",
@@ -2505,14 +2529,6 @@
       "onboard_time": 1718269519,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106593,
-      "num": 449136,
-      "word": "明星走红毯手机放哪儿",
-      "onboard_time": 1718280256,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 103962,
@@ -2652,7 +2668,7 @@
     },
     {
       "raw_hot": 79289,
-      "num": 202027,
+      "num": 209261,
       "word": "深蓝G318定义高品质露营",
       "onboard_time": 1718282357,
       "rank": 30,
@@ -2684,7 +2700,7 @@
     },
     {
       "raw_hot": 75303,
-      "num": 178301,
+      "num": 208565,
       "word": "毕业生花式领证给校长整害羞了",
       "onboard_time": 1718283017,
       "rank": 29,
@@ -2803,6 +2819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60934,
+      "num": 743281,
+      "word": "请查收你的预防中暑小贴士",
+      "onboard_time": 1718284038,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60650,
       "num": 167271,
       "word": "纽约时报承认造谣原始部落迷恋色情",
@@ -2849,14 +2873,6 @@
       "onboard_time": 1718222170,
       "rank": 35,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 57543,
-      "num": 743281,
-      "word": "请查收你的预防中暑小贴士",
-      "onboard_time": 1718284038,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 56225,
@@ -2921,6 +2937,14 @@
       "onboard_time": 1718223130,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46222,
+      "num": 227973,
+      "word": "90%大病患者众筹不到足够医疗费",
+      "onboard_time": 1718283618,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44734,
@@ -3019,14 +3043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 32766,
-      "num": 227973,
-      "word": "90%大病患者众筹不到足够医疗费",
-      "onboard_time": 1718283618,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31662,
       "num": 31662,
       "word": "徐彰彬疑似推搡李龙馥",
@@ -3036,7 +3052,7 @@
     },
     {
       "raw_hot": 31532,
-      "num": 135447,
+      "num": 139987,
       "word": "深蓝G318唯一在售可行驶开启探照灯",
       "onboard_time": 1718283139,
       "rank": 37,
@@ -3067,20 +3083,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29270,
+      "num": 184491,
+      "word": "深蓝G318一台顶两台",
+      "onboard_time": 1718284038,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25780,
       "num": 393628,
       "word": "塔图姆回应最佳球员讨论",
       "onboard_time": 1718280017,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25322,
-      "num": 141704,
-      "word": "深蓝G318一台顶两台",
-      "onboard_time": 1718284038,
-      "rank": 34,
-      "category": "汽车"
     },
     {
       "raw_hot": 22246,

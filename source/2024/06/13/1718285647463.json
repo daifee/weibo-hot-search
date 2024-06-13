@@ -1,0 +1,410 @@
+{
+  "runTime": 1718285647463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1110660,
+        "num": 1110660,
+        "word": "芒果台声明",
+        "onboard_time": 1718280858,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 917459,
+        "num": 917459,
+        "word": "越南女子裸体大闹菲律宾机场",
+        "onboard_time": 1718274077,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60934,
+        "num": 593273,
+        "word": "请查收你的预防中暑小贴士",
+        "onboard_time": 1718284038,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 999260,
+        "num": 583592,
+        "word": "郝蕾表演课300一节",
+        "onboard_time": 1718280199,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 536477,
+        "num": 536477,
+        "word": "印度男子在冰激凌中发现手指",
+        "onboard_time": 1718277918,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483220,
+        "num": 483220,
+        "word": "中专女生爆冷拿下数学竞赛全球12名",
+        "onboard_time": 1718254760,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 727855,
+        "num": 380604,
+        "word": "向佐把李胜利拍进短剧",
+        "onboard_time": 1718283319,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 721205,
+        "num": 309674,
+        "word": "刘亦菲蓝色泳装",
+        "onboard_time": 1718282418,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227103,
+        "num": 227103,
+        "word": "以色列",
+        "onboard_time": 1718278338,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 213200,
+        "num": 213200,
+        "word": "加沙8岁女孩被活活饿死",
+        "onboard_time": 1718267599,
+        "rank": 9,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 685516,
+        "num": 212818,
+        "word": "老人下公交被夹拖行身亡",
+        "onboard_time": 1718273358,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 461791,
+        "num": 212440,
+        "word": "苏更生被继父侵犯",
+        "onboard_time": 1718278697,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351745,
+        "num": 211787,
+        "word": "王健林王思聪父子重回创富榜前十",
+        "onboard_time": 1718257218,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 291277,
+        "num": 211517,
+        "word": "刘亦菲的台词被各地文旅用上了",
+        "onboard_time": 1718284578,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46222,
+        "num": 210682,
+        "word": "90%大病患者众筹不到足够医疗费",
+        "onboard_time": 1718283618,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239765,
+        "num": 210311,
+        "word": "茅台已跌至2264元",
+        "onboard_time": 1718283919,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239109,
+        "num": 209654,
+        "word": "王一博禁止擅闯车场声明",
+        "onboard_time": 1718260697,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46651,
+        "num": 209261,
+        "word": "深蓝G318定义高品质露营",
+        "onboard_time": 1718282357,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 53727,
+        "num": 208565,
+        "word": "毕业生花式领证给校长整害羞了",
+        "onboard_time": 1718283017,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 273105,
+        "num": 208234,
+        "word": "刘亦菲替林更新澄清",
+        "onboard_time": 1718279477,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 916715,
+        "num": 207568,
+        "word": "2023届本科生月均收入6050元",
+        "onboard_time": 1718272037,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 108053,
+        "num": 207253,
+        "word": "明星走红毯手机放哪儿",
+        "onboard_time": 1718280256,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 316505,
+        "num": 206429,
+        "word": "为什么年轻人越来越讨厌人情世故了",
+        "onboard_time": 1718281218,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217786,
+        "num": 206106,
+        "word": "以色列北部遭袭击",
+        "onboard_time": 1718284699,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205908,
+        "num": 205908,
+        "word": "玫瑰的故事里有王梓薇",
+        "onboard_time": 1718284339,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187151,
+        "num": 187151,
+        "word": "靠锅气来分辨预制菜已经没用了",
+        "onboard_time": 1718283618,
+        "rank": 25,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 186750,
+        "num": 186750,
+        "word": "LV客服回应区别对待中国消费者",
+        "onboard_time": 1718283979,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 29270,
+        "num": 184491,
+        "word": "深蓝G318一台顶两台",
+        "onboard_time": 1718284038,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 183363,
+        "num": 183363,
+        "word": "谢娜新综艺官宣",
+        "onboard_time": 1718278639,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173635,
+        "num": 173635,
+        "word": "张钧甯红丝袜",
+        "onboard_time": 1718278037,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 170938,
+        "num": 170938,
+        "word": "是棋子也是妻子",
+        "onboard_time": 1718281938,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164922,
+        "num": 164922,
+        "word": "玫瑰的故事直播",
+        "onboard_time": 1718277977,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159750,
+        "num": 159750,
+        "word": "汪苏泷为歌手提前准备歌单",
+        "onboard_time": 1718283076,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151570,
+        "num": 151570,
+        "word": "女生高考后一觉睡30个小时",
+        "onboard_time": 1718273658,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 146610,
+        "num": 146610,
+        "word": "终于知道巴巴爸爸的受众是谁了",
+        "onboard_time": 1718278758,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141450,
+        "num": 141450,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28757,
+        "num": 139987,
+        "word": "深蓝G318唯一在售可行驶开启探照灯",
+        "onboard_time": 1718283139,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139938,
+        "num": 139938,
+        "word": "湖北铁饭碗大学",
+        "onboard_time": 1718283739,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135674,
+        "num": 135674,
+        "word": "王星越金发漫撕男",
+        "onboard_time": 1718285418,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132958,
+        "num": 132958,
+        "word": "姜萍",
+        "onboard_time": 1718278819,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132333,
+        "num": 132333,
+        "word": "陈乔恩郑皓原吻戏",
+        "onboard_time": 1718282837,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115464,
+        "num": 115464,
+        "word": "小鬼担心的只有录制物资",
+        "onboard_time": 1718285299,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112458,
+        "num": 112458,
+        "word": "齐思钧发视频报平安",
+        "onboard_time": 1718269578,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111482,
+        "num": 111482,
+        "word": "歌手你是大冰吗",
+        "onboard_time": 1718272278,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106904,
+        "num": 106904,
+        "word": "荣耀发布会",
+        "onboard_time": 1718282237,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105673,
+        "num": 105673,
+        "word": "FPX官宣经理Denny辞职",
+        "onboard_time": 1718282178,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99396,
+        "num": 99396,
+        "word": "建议大家购买饮料别加冰",
+        "onboard_time": 1718263338,
+        "rank": 46,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 98284,
+        "num": 98284,
+        "word": "男子凌晨跳江被网约车司机一把拽住",
+        "onboard_time": 1718279298,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 96347,
+        "num": 96347,
+        "word": "福宝池塘泡澡熊掌拨清波",
+        "onboard_time": 1718279957,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95311,
+        "num": 95311,
+        "word": "篮协确认乔尔杰维奇离任",
+        "onboard_time": 1718281398,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何说这是我们的宝贝#"
+    }
+  }
+}
