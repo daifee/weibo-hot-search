@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718375759624,
+  "endTime": 1718378511039,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1153,6 +1153,14 @@
       "onboard_time": 1718161698,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1459674,
+      "num": 512429,
+      "word": "姜萍已达到数学系本科生的水平",
+      "onboard_time": 1718373386,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 1455282,
@@ -2651,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973877,
+      "num": 481932,
+      "word": "汪苏泷 泷泷看到热搜了",
+      "onboard_time": 1718374465,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 973363,
       "num": 273507,
       "word": "臭宝",
@@ -3147,14 +3163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 880412,
-      "num": 251104,
-      "word": "姜萍已达到数学系本科生的水平",
-      "onboard_time": 1718373386,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 878462,
       "num": 878462,
       "word": "两个弟弟考场外接姐姐不小心说实话了",
@@ -3345,6 +3353,14 @@
       "onboard_time": 1717755619,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 842034,
+      "num": 255761,
+      "word": "王力宏方请辞金曲奖表演",
+      "onboard_time": 1718376803,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 840147,
@@ -5195,6 +5211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 658471,
+      "num": 658471,
+      "word": "日本一女子患产后抑郁勒死三个女儿",
+      "onboard_time": 1718374524,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 657934,
       "num": 657934,
       "word": "王传君无名提名年度男演员",
@@ -5521,14 +5545,6 @@
       "onboard_time": 1718025499,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 633234,
-      "num": 248443,
-      "word": "汪苏泷 泷泷看到热搜了",
-      "onboard_time": 1718374465,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 632878,
@@ -6753,6 +6769,14 @@
       "onboard_time": 1718163440,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 545840,
+      "num": 545840,
+      "word": "四级 花钱买早八",
+      "onboard_time": 1718376143,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 545645,
@@ -8217,6 +8241,14 @@
       "onboard_time": 1717468456,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 476162,
+      "num": 221153,
+      "word": "那英不敢跟尚雯婕聊天",
+      "onboard_time": 1718376321,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 475854,
@@ -9699,6 +9731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 418005,
+      "num": 254874,
+      "word": "月经提前或推迟超7天要去医院",
+      "onboard_time": 1718377641,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 417978,
       "num": 417978,
       "word": "张婧仪 古早TVB味儿",
@@ -11051,6 +11091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 367424,
+      "num": 227979,
+      "word": "肖战机场",
+      "onboard_time": 1718377761,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367322,
       "num": 318941,
       "word": "刘亦菲的台词被各地文旅用上了",
@@ -11817,6 +11865,14 @@
       "onboard_time": 1717680738,
       "rank": 38,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 345316,
+      "num": 208455,
+      "word": "肖战工作室发重庆vlog了",
+      "onboard_time": 1718377461,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 345277,
@@ -12617,6 +12673,14 @@
       "onboard_time": 1717977676,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322426,
+      "num": 212690,
+      "word": "龙宇智媛最终情侣",
+      "onboard_time": 1718377103,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 322415,
@@ -15619,6 +15683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 256661,
+      "num": 179998,
+      "word": "周也曾解释自己黑脸",
+      "onboard_time": 1718378182,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256623,
       "num": 256623,
       "word": "云台山回应瀑布源头是水管",
@@ -17363,6 +17435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226950,
+      "num": 177066,
+      "word": "宰亨碎了",
+      "onboard_time": 1718378421,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226835,
       "num": 226835,
       "word": "皮肤变好带给我的变化有多大",
@@ -18497,6 +18577,14 @@
       "onboard_time": 1718027899,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213118,
+      "num": 213118,
+      "word": "网友花2万打假小龙虾超9成缺斤少两",
+      "onboard_time": 1718376382,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212942,
@@ -19755,6 +19843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203368,
+      "num": 203368,
+      "word": "姜萍的祖师爷来微博了",
+      "onboard_time": 1718376022,
+      "rank": 37,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 203290,
       "num": 186505,
       "word": "朱一龙连续2年提名导协年度男演员",
@@ -20497,6 +20593,14 @@
       "onboard_time": 1718112800,
       "rank": 49,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 198265,
+      "num": 198265,
+      "word": "德国vs苏格兰",
+      "onboard_time": 1718377461,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 198245,
@@ -22305,6 +22409,14 @@
       "onboard_time": 1718286619,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185691,
+      "num": 185691,
+      "word": "刁琳宇状态",
+      "onboard_time": 1718377761,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 185624,
@@ -24179,6 +24291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169812,
+      "num": 169812,
+      "word": "化妆的意义在此刻具象化了",
+      "onboard_time": 1718378061,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 169787,
       "num": 169787,
       "word": "王俊凯暴龙活动",
@@ -25841,14 +25961,6 @@
       "onboard_time": 1717247539,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 158746,
-      "num": 246657,
-      "word": "日本一女子患产后抑郁勒死三个女儿",
-      "onboard_time": 1718374524,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158666,
@@ -34155,6 +34267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108263,
+      "num": 543880,
+      "word": "姜萍并不偏科",
+      "onboard_time": 1718377221,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 108210,
       "num": 108210,
       "word": "梁靖崑止步男单8强",
@@ -37243,6 +37363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66777,
+      "num": 526319,
+      "word": "命悬一线的时刻你会信任AI吗",
+      "onboard_time": 1718375183,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66773,
       "num": 392717,
       "word": "高考结束一举高粽",
@@ -38337,14 +38465,6 @@
       "onboard_time": 1717246398,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 53867,
-      "num": 247306,
-      "word": "命悬一线的时刻你会信任AI吗",
-      "onboard_time": 1718375183,
-      "rank": 33,
-      "category": "互联网"
     },
     {
       "raw_hot": 53600,
