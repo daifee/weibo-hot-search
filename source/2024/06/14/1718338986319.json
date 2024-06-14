@@ -1,0 +1,410 @@
+{
+  "runTime": 1718338986319,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1573205,
+        "num": 1573205,
+        "word": "姜萍",
+        "onboard_time": 1718278819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214052,
+        "num": 1214052,
+        "word": "美国4黑人入侵华人豪宅遭开枪击退",
+        "onboard_time": 1718333718,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30707,
+        "num": 760628,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726146,
+        "num": 726146,
+        "word": "张百乔发文回应",
+        "onboard_time": 1718331318,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 705218,
+        "num": 705218,
+        "word": "赵丽颖辛芷蕾背后抱",
+        "onboard_time": 1718334677,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 553170,
+        "num": 553170,
+        "word": "原来6月既是开始又是结束",
+        "onboard_time": 1718334259,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 646769,
+        "num": 534802,
+        "word": "我可以是你吗姐姐",
+        "onboard_time": 1718337019,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 575735,
+        "num": 515205,
+        "word": "张颂文不喜欢男tony做造型",
+        "onboard_time": 1718331677,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484834,
+        "num": 484834,
+        "word": "茅台",
+        "onboard_time": 1718337138,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 37863,
+        "num": 447600,
+        "word": "数藏平台乱象调查",
+        "onboard_time": 1718337619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435728,
+        "num": 435728,
+        "word": "姜萍老师数学竞赛全球125名",
+        "onboard_time": 1718329699,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173449,
+        "num": 426788,
+        "word": "为什么低温鲜奶更好喝",
+        "onboard_time": 1718334137,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 423555,
+        "num": 423555,
+        "word": "奔跑吧今晚进军音综赛道",
+        "onboard_time": 1718336718,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417059,
+        "num": 417059,
+        "word": "周生辰一辈子太长了",
+        "onboard_time": 1718337138,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120957,
+        "num": 380399,
+        "word": "饿了么免单偷感很重",
+        "onboard_time": 1718337619,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 374993,
+        "num": 374993,
+        "word": "饿了么免单",
+        "onboard_time": 1718329217,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 351442,
+        "num": 351442,
+        "word": "赵丽颖首部悬疑片",
+        "onboard_time": 1718335638,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341866,
+        "num": 341866,
+        "word": "5岁女童疑遭老头猥亵摸屁股",
+        "onboard_time": 1718329037,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333926,
+        "num": 333926,
+        "word": "世界之外",
+        "onboard_time": 1718337019,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327744,
+        "num": 327744,
+        "word": "墨雨云间二创",
+        "onboard_time": 1718335638,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76302,
+        "num": 326728,
+        "word": "你看过爸爸的体检报告吗",
+        "onboard_time": 1718335158,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 806104,
+        "num": 326660,
+        "word": "人最不怕冷的器官是哪个",
+        "onboard_time": 1718329158,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326576,
+        "num": 326576,
+        "word": "姜萍的梦想是浙大",
+        "onboard_time": 1718332337,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319638,
+        "num": 319638,
+        "word": "张若昀 领口尺度",
+        "onboard_time": 1718337499,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 307674,
+        "num": 307674,
+        "word": "玫瑰的故事 好正常的拍摄手法",
+        "onboard_time": 1718337978,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284348,
+        "num": 284348,
+        "word": "天才少女",
+        "onboard_time": 1718336357,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283274,
+        "num": 283274,
+        "word": "造谣公司用AI一天写谣言7000篇",
+        "onboard_time": 1718327417,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264375,
+        "num": 264375,
+        "word": "赵丽颖钻石鎏金裙",
+        "onboard_time": 1718333237,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 257363,
+        "num": 257363,
+        "word": "LV一对一直播卖包讨好中国消费者",
+        "onboard_time": 1718335038,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20836,
+        "num": 247769,
+        "word": "韩国医协宣布6月18日全面停诊",
+        "onboard_time": 1718338699,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31260,
+        "num": 244564,
+        "word": "迪奥活动内场生图",
+        "onboard_time": 1718335818,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 241509,
+        "num": 241509,
+        "word": "异人之下选角",
+        "onboard_time": 1718336537,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240695,
+        "num": 240695,
+        "word": "外交部回应哈马斯要求中俄土提供担保",
+        "onboard_time": 1718335277,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232966,
+        "num": 232966,
+        "word": "中国大熊猫保护研究中心报警",
+        "onboard_time": 1718330237,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228000,
+        "num": 228000,
+        "word": "欧洲杯 夺冠热门",
+        "onboard_time": 1718333598,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226817,
+        "num": 226817,
+        "word": "官方通报辽宁2男子遭雷击",
+        "onboard_time": 1718336899,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224481,
+        "num": 224481,
+        "word": "曾年入百万槟榔种植户现收入为0",
+        "onboard_time": 1718328738,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214976,
+        "num": 214976,
+        "word": "小米SU7已交付20000台",
+        "onboard_time": 1718332038,
+        "rank": 37,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 214750,
+        "num": 214750,
+        "word": "吴谨言王星越没有合体扫楼",
+        "onboard_time": 1718337438,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206395,
+        "num": 206395,
+        "word": "教资认定",
+        "onboard_time": 1718336419,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199977,
+        "num": 199977,
+        "word": "恋与深空 古茗",
+        "onboard_time": 1718323818,
+        "rank": 40,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 198450,
+        "num": 198450,
+        "word": "鬼灭之刃第四季定档",
+        "onboard_time": 1718337198,
+        "rank": 41,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 193662,
+        "num": 193662,
+        "word": "被全世界禁养的猫咪",
+        "onboard_time": 1718338758,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189789,
+        "num": 189789,
+        "word": "辽宁两人遭雷击瞬间倒地",
+        "onboard_time": 1718334436,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185080,
+        "num": 185080,
+        "word": "男子晒办公室自拍被间谍盯上",
+        "onboard_time": 1718324238,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175429,
+        "num": 175429,
+        "word": "尚雯婕去歌手不坐飞机的原因",
+        "onboard_time": 1718320575,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169513,
+        "num": 169513,
+        "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
+        "onboard_time": 1718293817,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160673,
+        "num": 160673,
+        "word": "林娜琏回归",
+        "onboard_time": 1718338938,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153986,
+        "num": 153986,
+        "word": "水果真的越来越甜了",
+        "onboard_time": 1718331377,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153042,
+        "num": 153042,
+        "word": "下雨天动物园收动物太好笑了",
+        "onboard_time": 1718338278,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何说这是我们的宝贝#"
+    }
+  }
+}
