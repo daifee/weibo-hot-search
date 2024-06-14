@@ -1,0 +1,410 @@
+{
+  "runTime": 1718354194551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6274544,
+        "num": 6274544,
+        "word": "赖冠霖 退圈",
+        "onboard_time": 1718348478,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1496106,
+        "num": 1496106,
+        "word": "江苏大学",
+        "onboard_time": 1718349381,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117543,
+        "num": 845401,
+        "word": "三星堆这三兄弟仿佛在鼓掌",
+        "onboard_time": 1718341940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565419,
+        "num": 565419,
+        "word": "姜萍老师称其最好申请到常熟理工",
+        "onboard_time": 1718351419,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472963,
+        "num": 472963,
+        "word": "货拉拉司机送完货反手举报了货主",
+        "onboard_time": 1718351600,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167630,
+        "num": 463714,
+        "word": "赖冠霖 本人将转变赛道",
+        "onboard_time": 1718348838,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 701103,
+        "num": 455703,
+        "word": "张艺兴 五胎来了",
+        "onboard_time": 1718343677,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 537517,
+        "num": 439494,
+        "word": "恋爱兄妹 癫",
+        "onboard_time": 1718350280,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314591,
+        "num": 431485,
+        "word": "网传银行女职员拍视频深情表白行长",
+        "onboard_time": 1718345121,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31553,
+        "num": 415980,
+        "word": "直系亲属不能互相输血",
+        "onboard_time": 1718353819,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 684017,
+        "num": 403858,
+        "word": "英男子性行为时偷摘避孕套被判4年",
+        "onboard_time": 1718341039,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474224,
+        "num": 385933,
+        "word": "赖冠霖黑头像",
+        "onboard_time": 1718349620,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384499,
+        "num": 384499,
+        "word": "赵丽颖 赵满楼",
+        "onboard_time": 1718345958,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380628,
+        "num": 380628,
+        "word": "刘雅瑟眼睛被炸伤",
+        "onboard_time": 1718348598,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 373718,
+        "num": 373718,
+        "word": "奔跑吧 姚PD",
+        "onboard_time": 1718340199,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254243,
+        "num": 254243,
+        "word": "同济大学发博祝贺姜萍",
+        "onboard_time": 1718343978,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228522,
+        "num": 228522,
+        "word": "福宝想爬树",
+        "onboard_time": 1718349560,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215621,
+        "num": 215621,
+        "word": "17岁中专女孩是怎么被发现的",
+        "onboard_time": 1718347878,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204516,
+        "num": 204516,
+        "word": "周鸿祎迈巴赫拍卖990万全部捐赠",
+        "onboard_time": 1718350640,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 196618,
+        "num": 196618,
+        "word": "天才少女",
+        "onboard_time": 1718336357,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424753,
+        "num": 196491,
+        "word": "手机免密支付1岁娃误点120杯柠檬水",
+        "onboard_time": 1718345539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305573,
+        "num": 195841,
+        "word": "长期吃轻食的人都怎么样了",
+        "onboard_time": 1718345121,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 299353,
+        "num": 195410,
+        "word": "王星越不舍得挂吴谨言电话",
+        "onboard_time": 1718353100,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290781,
+        "num": 194914,
+        "word": "章昊大学毕业",
+        "onboard_time": 1718354059,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249167,
+        "num": 193984,
+        "word": "陈丽君陈昊宇 be",
+        "onboard_time": 1718351300,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218718,
+        "num": 193535,
+        "word": "汪苏泷 奢香夫人",
+        "onboard_time": 1718341820,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213236,
+        "num": 192683,
+        "word": "何洁四公第一名",
+        "onboard_time": 1718350940,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212184,
+        "num": 192281,
+        "word": "赵丽颖已读乱回",
+        "onboard_time": 1718351600,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201179,
+        "num": 191941,
+        "word": "李玟二姐回应王力宏致敬被质疑",
+        "onboard_time": 1718348659,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191522,
+        "num": 191522,
+        "word": "古茗就与恋与深空联名致歉",
+        "onboard_time": 1718353460,
+        "rank": 29,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 168794,
+        "num": 168794,
+        "word": "这是一个父亲最接受不了的画面",
+        "onboard_time": 1718346919,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161962,
+        "num": 161962,
+        "word": "娇兰卖780的护肤品实验样本只有11人",
+        "onboard_time": 1718346439,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 193466,
+        "num": 161373,
+        "word": "赵丽颖粉色单肩纱裙",
+        "onboard_time": 1718347999,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 159994,
+        "num": 159994,
+        "word": "985毕业生反向升学读技校",
+        "onboard_time": 1718345298,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158330,
+        "num": 158330,
+        "word": "吴谨言说王星越现在是小哥哥",
+        "onboard_time": 1718353640,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155863,
+        "num": 155863,
+        "word": "反正美琪美雪不这样",
+        "onboard_time": 1718351360,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154295,
+        "num": 154295,
+        "word": "蔡国庆患急性带状疱疹",
+        "onboard_time": 1718341039,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152977,
+        "num": 152977,
+        "word": "低头玩手机相当于脖子扛大米",
+        "onboard_time": 1718346137,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150578,
+        "num": 150578,
+        "word": "饿了么免单",
+        "onboard_time": 1718329217,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136012,
+        "num": 136012,
+        "word": "姜萍回应拿下数学竞赛全球12名",
+        "onboard_time": 1718345298,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129341,
+        "num": 129341,
+        "word": "这英 歌手",
+        "onboard_time": 1718354119,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128512,
+        "num": 128512,
+        "word": "日本福岛第一核电站1名员工死亡",
+        "onboard_time": 1718343078,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124883,
+        "num": 124883,
+        "word": "中国数学专业院校排名TOP10",
+        "onboard_time": 1718353100,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124614,
+        "num": 124614,
+        "word": "星汉灿烂 墨雨云间",
+        "onboard_time": 1718339299,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117746,
+        "num": 117746,
+        "word": "剑网3无界我回来了",
+        "onboard_time": 1718353339,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116744,
+        "num": 116744,
+        "word": "确诊为王星越走路粉",
+        "onboard_time": 1718352799,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115341,
+        "num": 115341,
+        "word": "欧洲杯",
+        "onboard_time": 1718349260,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113681,
+        "num": 113681,
+        "word": "高校回应学院书记被女生举报",
+        "onboard_time": 1718351721,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112656,
+        "num": 112656,
+        "word": "时代少年团发文告别这是我的岛",
+        "onboard_time": 1718352379,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112527,
+        "num": 112527,
+        "word": "姜若瑶从恶女中觉醒",
+        "onboard_time": 1718354179,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造和平发展的国际环境#"
+    }
+  }
+}

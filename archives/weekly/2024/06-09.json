@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718353404991,
+  "endTime": 1718354194551,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 3609925,
-      "num": 423474,
+      "num": 463714,
       "word": "赖冠霖 本人将转变赛道",
       "onboard_time": 1718348838,
       "rank": 5,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1510572,
-      "num": 336587,
+      "num": 385933,
       "word": "赖冠霖黑头像",
       "onboard_time": 1718349620,
       "rank": 10,
@@ -305,6 +305,14 @@
       "onboard_time": 1718155997,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1496106,
+      "num": 1496106,
+      "word": "江苏大学",
+      "onboard_time": 1718349381,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1485662,
@@ -345,14 +353,6 @@
       "onboard_time": 1718091918,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1407608,
-      "num": 1407608,
-      "word": "江苏大学",
-      "onboard_time": 1718349381,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1406556,
@@ -2395,6 +2395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 565419,
+      "num": 565419,
+      "word": "姜萍老师称其最好申请到常熟理工",
+      "onboard_time": 1718351419,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559385,
       "num": 559385,
       "word": "端午档近十年最差",
@@ -2500,7 +2508,7 @@
     },
     {
       "raw_hot": 541913,
-      "num": 308933,
+      "num": 439494,
       "word": "恋爱兄妹 癫",
       "onboard_time": 1718350280,
       "rank": 35,
@@ -2809,14 +2817,6 @@
       "onboard_time": 1718154078,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 511337,
-      "num": 511337,
-      "word": "姜萍老师称其最好申请到常熟理工",
-      "onboard_time": 1718351419,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 509697,
@@ -3145,6 +3145,14 @@
       "onboard_time": 1718240719,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 472963,
+      "num": 472963,
+      "word": "货拉拉司机送完货反手举报了货主",
+      "onboard_time": 1718351600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 471943,
@@ -5371,6 +5379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299353,
+      "num": 195410,
+      "word": "王星越不舍得挂吴谨言电话",
+      "onboard_time": 1718353100,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298806,
       "num": 266580,
       "word": "苹果AI仅支持两款iPhone",
@@ -5569,6 +5585,14 @@
       "onboard_time": 1718085438,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290781,
+      "num": 194914,
+      "word": "章昊大学毕业",
+      "onboard_time": 1718354059,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 290014,
@@ -5916,7 +5940,7 @@
     },
     {
       "raw_hot": 271850,
-      "num": 186913,
+      "num": 193984,
       "word": "陈丽君陈昊宇 be",
       "onboard_time": 1718351300,
       "rank": 22,
@@ -6329,14 +6353,6 @@
       "onboard_time": 1717888273,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251014,
-      "num": 186051,
-      "word": "王星越不舍得挂吴谨言电话",
-      "onboard_time": 1718353100,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 250832,
@@ -6908,7 +6924,7 @@
     },
     {
       "raw_hot": 230974,
-      "num": 183442,
+      "num": 192281,
       "word": "赵丽颖已读乱回",
       "onboard_time": 1718351600,
       "rank": 28,
@@ -6929,14 +6945,6 @@
       "onboard_time": 1717995978,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230417,
-      "num": 296287,
-      "word": "货拉拉司机送完货反手举报了货主",
-      "onboard_time": 1718351600,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230412,
@@ -7419,6 +7427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213236,
+      "num": 192683,
+      "word": "何洁四公第一名",
+      "onboard_time": 1718350940,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213184,
       "num": 213184,
       "word": "U19国足渭南四国赛夺冠",
@@ -7441,14 +7457,6 @@
       "onboard_time": 1718266638,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212500,
-      "num": 183918,
-      "word": "何洁四公第一名",
-      "onboard_time": 1718350940,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 212381,
@@ -7931,6 +7939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204516,
+      "num": 204516,
+      "word": "周鸿祎迈巴赫拍卖990万全部捐赠",
+      "onboard_time": 1718350640,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 204344,
       "num": 245777,
       "word": "拜合拉木真的硬",
@@ -8041,14 +8057,6 @@
       "onboard_time": 1717987278,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202532,
-      "num": 202532,
-      "word": "周鸿祎迈巴赫拍卖990万全部捐赠",
-      "onboard_time": 1718350640,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 202491,
@@ -8705,6 +8713,14 @@
       "onboard_time": 1718076498,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191522,
+      "num": 191522,
+      "word": "古茗就与恋与深空联名致歉",
+      "onboard_time": 1718353460,
+      "rank": 29,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 191202,
@@ -10537,6 +10553,14 @@
       "onboard_time": 1718289320,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 158330,
+      "num": 158330,
+      "word": "吴谨言说王星越现在是小哥哥",
+      "onboard_time": 1718353640,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 158238,
@@ -12659,6 +12683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 129341,
+      "num": 129341,
+      "word": "这英 歌手",
+      "onboard_time": 1718354119,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129320,
       "num": 462444,
       "word": "妈妈说填志愿一切都听女儿的",
@@ -12953,6 +12985,14 @@
       "onboard_time": 1717919537,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124883,
+      "num": 124883,
+      "word": "中国数学专业院校排名TOP10",
+      "onboard_time": 1718353100,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 124783,
@@ -13579,14 +13619,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 115350,
-      "num": 115350,
-      "word": "中国数学专业院校排名TOP10",
-      "onboard_time": 1718353100,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 115338,
       "num": 115338,
       "word": "会喂药的是小七会跑掉的是朱朝阳",
@@ -13817,6 +13849,14 @@
       "onboard_time": 1717978456,
       "rank": 45,
       "category": "教育,体育"
+    },
+    {
+      "raw_hot": 112527,
+      "num": 112527,
+      "word": "姜若瑶从恶女中觉醒",
+      "onboard_time": 1718354179,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 112334,
@@ -16401,6 +16441,14 @@
       "onboard_time": 1717959071,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31553,
+      "num": 415980,
+      "word": "直系亲属不能互相输血",
+      "onboard_time": 1718353819,
+      "rank": 9,
+      "category": "科学科普"
     },
     {
       "raw_hot": 31540,
