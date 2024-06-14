@@ -1,0 +1,410 @@
+{
+  "runTime": 1718353404991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6601988,
+        "num": 6601988,
+        "word": "赖冠霖 退圈",
+        "onboard_time": 1718348478,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1407608,
+        "num": 1407608,
+        "word": "江苏大学",
+        "onboard_time": 1718349381,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141829,
+        "num": 699472,
+        "word": "三星堆这三兄弟仿佛在鼓掌",
+        "onboard_time": 1718341940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511337,
+        "num": 511337,
+        "word": "姜萍老师称其最好申请到常熟理工",
+        "onboard_time": 1718351419,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325581,
+        "num": 325581,
+        "word": "网传银行女职员拍视频深情表白行长",
+        "onboard_time": 1718345121,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1578805,
+        "num": 318793,
+        "word": "赖冠霖 本人将转变赛道",
+        "onboard_time": 1718348838,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 704559,
+        "num": 310744,
+        "word": "张艺兴 五胎来了",
+        "onboard_time": 1718343677,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 541913,
+        "num": 308933,
+        "word": "恋爱兄妹 癫",
+        "onboard_time": 1718350280,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299847,
+        "num": 299847,
+        "word": "同济大学发博祝贺姜萍",
+        "onboard_time": 1718343978,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230417,
+        "num": 296287,
+        "word": "货拉拉司机送完货反手举报了货主",
+        "onboard_time": 1718351600,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 897132,
+        "num": 292014,
+        "word": "英男子性行为时偷摘避孕套被判4年",
+        "onboard_time": 1718341039,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591714,
+        "num": 291114,
+        "word": "赖冠霖黑头像",
+        "onboard_time": 1718349620,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471346,
+        "num": 286796,
+        "word": "刘雅瑟眼睛被炸伤",
+        "onboard_time": 1718348598,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415141,
+        "num": 280872,
+        "word": "赵丽颖 赵满楼",
+        "onboard_time": 1718345958,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370536,
+        "num": 273852,
+        "word": "奔跑吧 姚PD",
+        "onboard_time": 1718340199,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273787,
+        "num": 273787,
+        "word": "福宝想爬树",
+        "onboard_time": 1718349560,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219304,
+        "num": 219304,
+        "word": "17岁中专女孩是怎么被发现的",
+        "onboard_time": 1718347878,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203796,
+        "num": 203796,
+        "word": "985毕业生反向升学读技校",
+        "onboard_time": 1718345298,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 202532,
+        "num": 202532,
+        "word": "周鸿祎迈巴赫拍卖990万全部捐赠",
+        "onboard_time": 1718350640,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188212,
+        "num": 188212,
+        "word": "天才少女",
+        "onboard_time": 1718336357,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482338,
+        "num": 187772,
+        "word": "手机免密支付1岁娃误点120杯柠檬水",
+        "onboard_time": 1718345539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302666,
+        "num": 187405,
+        "word": "长期吃轻食的人都怎么样了",
+        "onboard_time": 1718345121,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271850,
+        "num": 186913,
+        "word": "陈丽君陈昊宇 be",
+        "onboard_time": 1718351300,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269010,
+        "num": 186394,
+        "word": "赵丽颖粉色单肩纱裙",
+        "onboard_time": 1718347999,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251014,
+        "num": 186051,
+        "word": "王星越不舍得挂吴谨言电话",
+        "onboard_time": 1718353100,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234312,
+        "num": 185336,
+        "word": "汪苏泷 奢香夫人",
+        "onboard_time": 1718341820,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219392,
+        "num": 184898,
+        "word": "李玟二姐回应王力宏致敬被质疑",
+        "onboard_time": 1718348659,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212500,
+        "num": 183918,
+        "word": "何洁四公第一名",
+        "onboard_time": 1718350940,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230974,
+        "num": 183442,
+        "word": "赵丽颖已读乱回",
+        "onboard_time": 1718351600,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183362,
+        "num": 183362,
+        "word": "娇兰卖780的护肤品实验样本只有11人",
+        "onboard_time": 1718346439,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184102,
+        "num": 182918,
+        "word": "这是一个父亲最接受不了的画面",
+        "onboard_time": 1718346919,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178620,
+        "num": 178620,
+        "word": "反正美琪美雪不这样",
+        "onboard_time": 1718351360,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173451,
+        "num": 173451,
+        "word": "低头玩手机相当于脖子扛大米",
+        "onboard_time": 1718346137,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168294,
+        "num": 168294,
+        "word": "确诊为王星越走路粉",
+        "onboard_time": 1718352799,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145525,
+        "num": 160982,
+        "word": "饿了么免单",
+        "onboard_time": 1718329217,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159546,
+        "num": 159546,
+        "word": "蔡国庆患急性带状疱疹",
+        "onboard_time": 1718341039,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153107,
+        "num": 153107,
+        "word": "星汉灿烂 墨雨云间",
+        "onboard_time": 1718339299,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151967,
+        "num": 151967,
+        "word": "时代少年团发文告别这是我的岛",
+        "onboard_time": 1718352379,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141965,
+        "num": 141965,
+        "word": "日本福岛第一核电站1名员工死亡",
+        "onboard_time": 1718343078,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139971,
+        "num": 139971,
+        "word": "姜萍回应拿下数学竞赛全球12名",
+        "onboard_time": 1718345298,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151130,
+        "num": 136423,
+        "word": "王一博微博电影之夜官宣了",
+        "onboard_time": 1718352140,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131595,
+        "num": 131595,
+        "word": "高校回应学院书记被女生举报",
+        "onboard_time": 1718351721,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128699,
+        "num": 128699,
+        "word": "剑网3无界我回来了",
+        "onboard_time": 1718353339,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126281,
+        "num": 126281,
+        "word": "欧洲杯",
+        "onboard_time": 1718349260,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120845,
+        "num": 120845,
+        "word": "欧洲杯 夺冠热门",
+        "onboard_time": 1718333598,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115749,
+        "num": 115749,
+        "word": "林娜琏空降",
+        "onboard_time": 1718344878,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115350,
+        "num": 115350,
+        "word": "中国数学专业院校排名TOP10",
+        "onboard_time": 1718353100,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111342,
+        "num": 111342,
+        "word": "涟水中等专业学校",
+        "onboard_time": 1718347099,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110449,
+        "num": 110449,
+        "word": "余秀华 抽象",
+        "onboard_time": 1718346739,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 103186,
+        "num": 103186,
+        "word": "娇兰客服回应780元护肤品实验样本仅11人",
+        "onboard_time": 1718349982,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席阐释全球发展的中国方案#"
+    }
+  }
+}

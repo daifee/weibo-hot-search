@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718350476606,
+  "endTime": 1718353404991,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -345,6 +345,14 @@
       "onboard_time": 1718091918,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1407608,
+      "num": 1407608,
+      "word": "江苏大学",
+      "onboard_time": 1718349381,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1406556,
@@ -2491,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 541913,
+      "num": 308933,
+      "word": "恋爱兄妹 癫",
+      "onboard_time": 1718350280,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541859,
       "num": 541859,
       "word": "山东政治",
@@ -2793,6 +2809,14 @@
       "onboard_time": 1718154078,
       "rank": 25,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 511337,
+      "num": 511337,
+      "word": "姜萍老师称其最好申请到常熟理工",
+      "onboard_time": 1718351419,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 509697,
@@ -3480,14 +3504,6 @@
       "word": "北京冰雹",
       "onboard_time": 1718204060,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442286,
-      "num": 442286,
-      "word": "江苏大学",
-      "onboard_time": 1718349381,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -5835,6 +5851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273787,
+      "num": 273787,
+      "word": "福宝想爬树",
+      "onboard_time": 1718349560,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 272894,
       "num": 272894,
       "word": "成都雪山",
@@ -5888,6 +5912,14 @@
       "word": "孙楠体重比汪苏泷轻",
       "onboard_time": 1718321416,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 271850,
+      "num": 186913,
+      "word": "陈丽君陈昊宇 be",
+      "onboard_time": 1718351300,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -6299,6 +6331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251014,
+      "num": 186051,
+      "word": "王星越不舍得挂吴谨言电话",
+      "onboard_time": 1718353100,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250832,
       "num": 225799,
       "word": "谢娜新综艺官宣",
@@ -6489,14 +6529,6 @@
       "onboard_time": 1718153718,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244345,
-      "num": 244345,
-      "word": "福宝想爬树",
-      "onboard_time": 1718349560,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 244225,
@@ -6875,6 +6907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230974,
+      "num": 183442,
+      "word": "赵丽颖已读乱回",
+      "onboard_time": 1718351600,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 230899,
       "num": 230899,
       "word": "马嘉祺刘惜君清唱只要平凡",
@@ -6889,6 +6929,14 @@
       "onboard_time": 1717995978,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230417,
+      "num": 296287,
+      "word": "货拉拉司机送完货反手举报了货主",
+      "onboard_time": 1718351600,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230412,
@@ -7105,6 +7153,14 @@
       "onboard_time": 1718238679,
       "rank": 26,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 219304,
+      "num": 219304,
+      "word": "17岁中专女孩是怎么被发现的",
+      "onboard_time": 1718347878,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219260,
@@ -7385,6 +7441,14 @@
       "onboard_time": 1718266638,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212500,
+      "num": 183918,
+      "word": "何洁四公第一名",
+      "onboard_time": 1718350940,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 212381,
@@ -7979,6 +8043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202532,
+      "num": 202532,
+      "word": "周鸿祎迈巴赫拍卖990万全部捐赠",
+      "onboard_time": 1718350640,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 202491,
       "num": 202491,
       "word": "黄鸡大笑",
@@ -8425,14 +8497,6 @@
       "onboard_time": 1718346739,
       "rank": 30,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 194342,
-      "num": 194342,
-      "word": "17岁中专女孩是怎么被发现的",
-      "onboard_time": 1718347878,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194314,
@@ -9387,6 +9451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178620,
+      "num": 178620,
+      "word": "反正美琪美雪不这样",
+      "onboard_time": 1718351360,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178612,
       "num": 178612,
       "word": "果然广东人是真心想救屈原的",
@@ -9400,14 +9472,6 @@
       "word": "天赐的声音",
       "onboard_time": 1718332938,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 178397,
-      "num": 178397,
-      "word": "恋爱兄妹 癫",
-      "onboard_time": 1718350280,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -9857,6 +9921,14 @@
       "onboard_time": 1718111239,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168294,
+      "num": 168294,
+      "word": "确诊为王星越走路粉",
+      "onboard_time": 1718352799,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 168282,
@@ -10971,6 +11043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151967,
+      "num": 151967,
+      "word": "时代少年团发文告别这是我的岛",
+      "onboard_time": 1718352379,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151809,
       "num": 151809,
       "word": "何浩楠 辣椒又长出一茬了",
@@ -11025,6 +11105,14 @@
       "onboard_time": 1718008457,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151130,
+      "num": 136423,
+      "word": "王一博微博电影之夜官宣了",
+      "onboard_time": 1718352140,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 150953,
@@ -12395,6 +12483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131595,
+      "num": 131595,
+      "word": "高校回应学院书记被女生举报",
+      "onboard_time": 1718351721,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131504,
       "num": 131504,
       "word": "比留子更松弛的是留子的爸妈",
@@ -12593,6 +12689,14 @@
       "onboard_time": 1718243778,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128699,
+      "num": 128699,
+      "word": "剑网3无界我回来了",
+      "onboard_time": 1718353339,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 128639,
@@ -13472,6 +13576,14 @@
       "word": "你以为的高考完vs实际上的高考完",
       "onboard_time": 1717888094,
       "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 115350,
+      "num": 115350,
+      "word": "中国数学专业院校排名TOP10",
+      "onboard_time": 1718353100,
+      "rank": 46,
       "category": "教育"
     },
     {
