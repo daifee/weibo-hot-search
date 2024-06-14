@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718332537318,
+  "endTime": 1718333124050,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3467,6 +3467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 776011,
+      "num": 424602,
+      "word": "5岁女童疑遭老头猥亵摸屁股",
+      "onboard_time": 1718329037,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775697,
       "num": 775697,
       "word": "高考日语",
@@ -3657,14 +3665,6 @@
       "onboard_time": 1717254799,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 757971,
-      "num": 379740,
-      "word": "5岁女童疑遭老头猥亵摸屁股",
-      "onboard_time": 1718329037,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 757625,
@@ -5251,6 +5251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 618620,
+      "num": 618620,
+      "word": "张百乔发文回应",
+      "onboard_time": 1718331318,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 617227,
       "num": 617227,
       "word": "墨雨云间口碑逆跌",
@@ -5465,6 +5473,14 @@
       "onboard_time": 1717858459,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 600478,
+      "num": 600478,
+      "word": "姜萍老师数学竞赛全球125名",
+      "onboard_time": 1718329699,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600148,
@@ -6161,14 +6177,6 @@
       "onboard_time": 1718292619,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 552823,
-      "num": 552823,
-      "word": "姜萍老师数学竞赛全球125名",
-      "onboard_time": 1718329699,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 552475,
@@ -7411,6 +7419,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 486569,
+      "num": 486569,
+      "word": "中国大熊猫保护研究中心报警",
+      "onboard_time": 1718330237,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485825,
       "num": 485825,
       "word": "加沙儿童六一得到的不是礼物而是轰炸",
@@ -7651,14 +7667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 475755,
-      "num": 475755,
-      "word": "中国大熊猫保护研究中心报警",
-      "onboard_time": 1718330237,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 475540,
       "num": 475540,
       "word": "日本主持人称难怪烟花是中国发明的",
@@ -7689,6 +7697,14 @@
       "onboard_time": 1717387940,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 474763,
+      "num": 474763,
+      "word": "张颂文不喜欢男tony做造型",
+      "onboard_time": 1718331677,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 474496,
@@ -8027,14 +8043,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 460502,
-      "num": 374266,
-      "word": "张百乔发文回应",
-      "onboard_time": 1718331318,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 460102,
       "num": 460102,
       "word": "父亲称孩子因多看两眼遭陌生人掐脖",
@@ -8073,6 +8081,14 @@
       "onboard_time": 1717975994,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457470,
+      "num": 457470,
+      "word": "造谣公司用AI一天写谣言7000篇",
+      "onboard_time": 1718327417,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 457140,
@@ -9739,14 +9755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388713,
-      "num": 388713,
-      "word": "造谣公司用AI一天写谣言7000篇",
-      "onboard_time": 1718327417,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388512,
       "num": 388512,
       "word": "国足 防守",
@@ -11016,14 +11024,6 @@
       "word": "宋亚轩刘耀文一起逛街",
       "onboard_time": 1718025198,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 347227,
-      "num": 347227,
-      "word": "张颂文不喜欢男tony做造型",
-      "onboard_time": 1718331677,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -13643,6 +13643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276510,
+      "num": 276510,
+      "word": "MCN机构用AI造谣被曝光",
+      "onboard_time": 1718331017,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276408,
       "num": 276408,
       "word": "6月进口网络游戏版号审批公布",
@@ -14513,14 +14521,6 @@
       "onboard_time": 1717301958,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258145,
-      "num": 258145,
-      "word": "MCN机构用AI造谣被曝光",
-      "onboard_time": 1718331017,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258064,
@@ -16187,6 +16187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228132,
+      "num": 215664,
+      "word": "水果真的越来越甜了",
+      "onboard_time": 1718331377,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 227932,
       "num": 227932,
       "word": "原来人真的会发霉",
@@ -17139,6 +17147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 215036,
+      "num": 215036,
+      "word": "小米SU7已交付20000台",
+      "onboard_time": 1718332038,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 215009,
       "num": 203980,
       "word": "歌手2024第二轮揭榜赛",
@@ -17177,6 +17193,14 @@
       "onboard_time": 1718265980,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214588,
+      "num": 214588,
+      "word": "严浩翔贺峻霖他只是经过舞台",
+      "onboard_time": 1718332578,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 214564,
@@ -18091,6 +18115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205905,
+      "num": 205905,
+      "word": "姜萍的目标是考大学学服装设计",
+      "onboard_time": 1718331258,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205810,
       "num": 205810,
       "word": "登陆计划",
@@ -18723,6 +18755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 200966,
+      "num": 200966,
+      "word": "电影乔妍的心事官宣海报",
+      "onboard_time": 1718332698,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200931,
       "num": 145824,
       "word": "张若昀怕不是从耳朵红到脖子了",
@@ -18913,14 +18953,6 @@
       "onboard_time": 1717565239,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199948,
-      "num": 199948,
-      "word": "水果真的越来越甜了",
-      "onboard_time": 1718331377,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 199884,
@@ -19792,14 +19824,6 @@
       "word": "河南南阳一小区恶狗咬伤7人",
       "onboard_time": 1718164340,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193841,
-      "num": 193841,
-      "word": "姜萍的目标是考大学学服装设计",
-      "onboard_time": 1718331258,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -21699,6 +21723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178405,
+      "num": 178405,
+      "word": "天赐的声音",
+      "onboard_time": 1718332938,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178336,
       "num": 168421,
       "word": "耳帝说孙楠像在唱一首练声曲",
@@ -21833,6 +21865,14 @@
       "onboard_time": 1717425198,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 177276,
+      "num": 177276,
+      "word": "姜萍的梦想是浙大",
+      "onboard_time": 1718332337,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177078,
@@ -22073,14 +22113,6 @@
       "onboard_time": 1717927997,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 175086,
-      "num": 175086,
-      "word": "小米SU7已交付20000台",
-      "onboard_time": 1718332038,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 175046,
@@ -23289,6 +23321,14 @@
       "onboard_time": 1717249641,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165071,
+      "num": 165071,
+      "word": "TMEA官宣阵容",
+      "onboard_time": 1718332938,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 165038,
@@ -24683,6 +24723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155779,
+      "num": 155779,
+      "word": "网曝锦州北站两撑伞男子遭遇雷击",
+      "onboard_time": 1718329636,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155757,
       "num": 576248,
       "word": "桑尼食品摊被中国人买空",
@@ -25371,14 +25419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151710,
-      "num": 151710,
-      "word": "网曝锦州北站两撑伞男子遭遇雷击",
-      "onboard_time": 1718329636,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151670,
       "num": 129576,
       "word": "月红篇尾生这一生如履大饼",
@@ -25688,6 +25728,14 @@
       "word": "李梦模仿王星越叼玉佩",
       "onboard_time": 1718203280,
       "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149727,
+      "num": 149727,
+      "word": "颜心记喜趣奇缘版预告",
+      "onboard_time": 1718333058,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -26841,6 +26889,14 @@
       "onboard_time": 1717577658,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 141884,
+      "num": 141884,
+      "word": "电商大促持续一个月真的合适吗",
+      "onboard_time": 1718332938,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 141832,
@@ -30009,14 +30065,6 @@
       "onboard_time": 1717201697,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122189,
-      "num": 122189,
-      "word": "姜萍的梦想是浙大",
-      "onboard_time": 1718332337,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121976,
