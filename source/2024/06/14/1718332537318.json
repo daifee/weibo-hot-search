@@ -1,0 +1,410 @@
+{
+  "runTime": 1718332537318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1532629,
+        "num": 1532629,
+        "word": "姜萍",
+        "onboard_time": 1718278819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706024,
+        "num": 706024,
+        "word": "男子晒办公室自拍被间谍盯上",
+        "onboard_time": 1718324238,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42041,
+        "num": 588868,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 573617,
+        "num": 573617,
+        "word": "曾年入百万槟榔种植户现收入为0",
+        "onboard_time": 1718328738,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552823,
+        "num": 552823,
+        "word": "姜萍老师数学竞赛全球125名",
+        "onboard_time": 1718329699,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479647,
+        "num": 479647,
+        "word": "教资面试成绩",
+        "onboard_time": 1718330777,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 475755,
+        "num": 475755,
+        "word": "中国大熊猫保护研究中心报警",
+        "onboard_time": 1718330237,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392477,
+        "num": 392477,
+        "word": "林更新这个真骂不了",
+        "onboard_time": 1718286138,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388713,
+        "num": 388713,
+        "word": "造谣公司用AI一天写谣言7000篇",
+        "onboard_time": 1718327417,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381714,
+        "num": 381714,
+        "word": "马斯克承诺明年开始限量生产擎天柱",
+        "onboard_time": 1718325319,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 757971,
+        "num": 379740,
+        "word": "5岁女童疑遭老头猥亵摸屁股",
+        "onboard_time": 1718329037,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460502,
+        "num": 374266,
+        "word": "张百乔发文回应",
+        "onboard_time": 1718331318,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363362,
+        "num": 363362,
+        "word": "饿了么免单",
+        "onboard_time": 1718329217,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 348680,
+        "num": 348680,
+        "word": "朱珠 感情中没有对错只有选择",
+        "onboard_time": 1718327299,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347227,
+        "num": 347227,
+        "word": "张颂文不喜欢男tony做造型",
+        "onboard_time": 1718331677,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344134,
+        "num": 344134,
+        "word": "尚雯婕去歌手不坐飞机的原因",
+        "onboard_time": 1718320575,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339127,
+        "num": 339127,
+        "word": "深圳暴雨",
+        "onboard_time": 1718328977,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258145,
+        "num": 258145,
+        "word": "MCN机构用AI造谣被曝光",
+        "onboard_time": 1718331017,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254430,
+        "num": 254430,
+        "word": "原来老师才是那个被留下的孩子",
+        "onboard_time": 1718320216,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164191,
+        "num": 234142,
+        "word": "槟榔之乡8成槟榔树染病",
+        "onboard_time": 1718327598,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997168,
+        "num": 232198,
+        "word": "人最不怕冷的器官是哪个",
+        "onboard_time": 1718329158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351859,
+        "num": 230933,
+        "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
+        "onboard_time": 1718293817,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225047,
+        "num": 225047,
+        "word": "深圳多家银行超5万元取款需预约",
+        "onboard_time": 1718326038,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221704,
+        "num": 221704,
+        "word": "男童被教练打死案家属发声",
+        "onboard_time": 1718312350,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199948,
+        "num": 199948,
+        "word": "水果真的越来越甜了",
+        "onboard_time": 1718331377,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199288,
+        "num": 199288,
+        "word": "中国人在将屋顶涂蓝吓坏美国网友",
+        "onboard_time": 1718324478,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196451,
+        "num": 196451,
+        "word": "三本学生考公要做好多年备考的决心",
+        "onboard_time": 1718297354,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193841,
+        "num": 193841,
+        "word": "姜萍的目标是考大学学服装设计",
+        "onboard_time": 1718331258,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178353,
+        "num": 178353,
+        "word": "200毫升血液3分钟即可采集完成",
+        "onboard_time": 1718323218,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176439,
+        "num": 176439,
+        "word": "2024年还剩200天",
+        "onboard_time": 1718321055,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175086,
+        "num": 175086,
+        "word": "小米SU7已交付20000台",
+        "onboard_time": 1718332038,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160329,
+        "num": 160329,
+        "word": "TheShy谈陪玩",
+        "onboard_time": 1718331677,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160286,
+        "num": 160286,
+        "word": "姜若瑶救薛芳菲",
+        "onboard_time": 1718324119,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158595,
+        "num": 158595,
+        "word": "刘宇宁 老巴",
+        "onboard_time": 1718324899,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156188,
+        "num": 156188,
+        "word": "齐思钧手术",
+        "onboard_time": 1718322257,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155901,
+        "num": 155901,
+        "word": "易烊千玺机场",
+        "onboard_time": 1718322738,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153226,
+        "num": 153226,
+        "word": "mlxg打算卖包子",
+        "onboard_time": 1718329818,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151710,
+        "num": 151710,
+        "word": "网曝锦州北站两撑伞男子遭遇雷击",
+        "onboard_time": 1718329636,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150227,
+        "num": 150227,
+        "word": "JackeyLove谈明年在不在TES",
+        "onboard_time": 1718328797,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143571,
+        "num": 143571,
+        "word": "韩国女子20年前遭集体性侵",
+        "onboard_time": 1718288958,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134497,
+        "num": 134497,
+        "word": "郑恺苗苗结束韩国度假回国了",
+        "onboard_time": 1718308030,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123889,
+        "num": 123889,
+        "word": "吴奇隆看时代少年团舞台想起小虎队",
+        "onboard_time": 1718328017,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122189,
+        "num": 122189,
+        "word": "姜萍的梦想是浙大",
+        "onboard_time": 1718332337,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118699,
+        "num": 118699,
+        "word": "恋与深空 古茗",
+        "onboard_time": 1718323818,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 117386,
+        "num": 117386,
+        "word": "张百乔评论网友法院见",
+        "onboard_time": 1718292619,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116716,
+        "num": 116716,
+        "word": "5km 倒闭",
+        "onboard_time": 1718289020,
+        "rank": 45,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 108486,
+        "num": 108486,
+        "word": "郭晓婷腰线",
+        "onboard_time": 1718325198,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107483,
+        "num": 107483,
+        "word": "米卡表白刘亦菲",
+        "onboard_time": 1718288540,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106668,
+        "num": 106668,
+        "word": "刘宇宁喊迪丽热巴老巴",
+        "onboard_time": 1718321416,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102794,
+        "num": 102794,
+        "word": "孙楠体重比汪苏泷轻",
+        "onboard_time": 1718321416,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造和平发展的国际环境#"
+    }
+  }
+}

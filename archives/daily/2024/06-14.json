@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718329290836,
+  "endTime": 1718332537318,
   "band_list": [
     {
       "raw_hot": 1654639,
@@ -32,6 +32,22 @@
       "word": "男童被教练打死案家属发声",
       "onboard_time": 1718312350,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 997168,
+      "num": 232198,
+      "word": "人最不怕冷的器官是哪个",
+      "onboard_time": 1718329158,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 757971,
+      "num": 379740,
+      "word": "5岁女童疑遭老头猥亵摸屁股",
+      "onboard_time": 1718329037,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -67,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 573617,
+      "num": 573617,
+      "word": "曾年入百万槟榔种植户现收入为0",
+      "onboard_time": 1718328738,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554205,
       "num": 554205,
       "word": "张百乔评论网友法院见",
@@ -75,12 +99,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 552823,
+      "num": 552823,
+      "word": "姜萍老师数学竞赛全球125名",
+      "onboard_time": 1718329699,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519592,
       "num": 519592,
       "word": "马斯克承诺明年开始限量生产擎天柱",
       "onboard_time": 1718325319,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 479647,
+      "num": 479647,
+      "word": "教资面试成绩",
+      "onboard_time": 1718330777,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 475755,
+      "num": 475755,
+      "word": "中国大熊猫保护研究中心报警",
+      "onboard_time": 1718330237,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 466841,
@@ -97,6 +145,14 @@
       "onboard_time": 1718320216,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 460502,
+      "num": 374266,
+      "word": "张百乔发文回应",
+      "onboard_time": 1718331318,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 430374,
@@ -131,6 +187,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388713,
+      "num": 388713,
+      "word": "造谣公司用AI一天写谣言7000篇",
+      "onboard_time": 1718327417,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363362,
+      "num": 363362,
+      "word": "饿了么免单",
+      "onboard_time": 1718329217,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 361950,
       "num": 230765,
       "word": "韩国女子20年前遭集体性侵",
@@ -155,11 +227,35 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 348680,
+      "num": 348680,
+      "word": "朱珠 感情中没有对错只有选择",
+      "onboard_time": 1718327299,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 347227,
+      "num": 347227,
+      "word": "张颂文不喜欢男tony做造型",
+      "onboard_time": 1718331677,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342177,
       "num": 208589,
       "word": "越南女子裸体大闹菲律宾机场",
       "onboard_time": 1718274077,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339127,
+      "num": 339127,
+      "word": "深圳暴雨",
+      "onboard_time": 1718328977,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -177,14 +273,6 @@
       "onboard_time": 1718321055,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329406,
-      "num": 329406,
-      "word": "朱珠 感情中没有对错只有选择",
-      "onboard_time": 1718327299,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 318747,
@@ -251,11 +339,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260452,
-      "num": 260452,
-      "word": "曾年入百万槟榔种植户现收入为0",
-      "onboard_time": 1718328738,
-      "rank": 16,
+      "raw_hot": 258145,
+      "num": 258145,
+      "word": "MCN机构用AI造谣被曝光",
+      "onboard_time": 1718331017,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -339,6 +427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199948,
+      "num": 199948,
+      "word": "水果真的越来越甜了",
+      "onboard_time": 1718331377,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195299,
       "num": 195299,
       "word": "张雪峰回旋镖推荐兰州大学",
@@ -347,12 +443,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 190634,
-      "num": 190634,
-      "word": "饿了么免单",
-      "onboard_time": 1718329217,
-      "rank": 28,
-      "category": "美食"
+      "raw_hot": 193841,
+      "num": 193841,
+      "word": "姜萍的目标是考大学学服装设计",
+      "onboard_time": 1718331258,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190146,
@@ -371,20 +467,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 176463,
-      "num": 176463,
-      "word": "深圳暴雨",
-      "onboard_time": 1718328977,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175168,
       "num": 175168,
       "word": "王健林王思聪父子重回创富榜前十",
       "onboard_time": 1718257218,
       "rank": 14,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 175086,
+      "num": 175086,
+      "word": "小米SU7已交付20000台",
+      "onboard_time": 1718332038,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 169905,
@@ -395,20 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164593,
-      "num": 164593,
-      "word": "造谣公司用AI一天写谣言7000篇",
-      "onboard_time": 1718327417,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 161663,
-      "num": 161663,
-      "word": "5岁女童疑遭老头猥亵摸屁股",
-      "onboard_time": 1718329037,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 160329,
+      "num": 160329,
+      "word": "TheShy谈陪玩",
+      "onboard_time": 1718331677,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 160170,
@@ -449,6 +537,22 @@
       "onboard_time": 1718326577,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 153226,
+      "num": 153226,
+      "word": "mlxg打算卖包子",
+      "onboard_time": 1718329818,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 151710,
+      "num": 151710,
+      "word": "网曝锦州北站两撑伞男子遭遇雷击",
+      "onboard_time": 1718329636,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151562,
@@ -547,12 +651,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122120,
-      "num": 122120,
-      "word": "人最不怕冷的器官是哪个",
-      "onboard_time": 1718329158,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 122189,
+      "num": 122189,
+      "word": "姜萍的梦想是浙大",
+      "onboard_time": 1718332337,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119661,

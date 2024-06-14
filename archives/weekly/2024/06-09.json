@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718329290836,
+  "endTime": 1718332537318,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -795,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 997168,
+      "num": 232198,
+      "word": "人最不怕冷的器官是哪个",
+      "onboard_time": 1718329158,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 996952,
       "num": 996952,
       "word": "老师最不看好你 可你偏偏最争气",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1717924638,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 757971,
+      "num": 379740,
+      "word": "5岁女童疑遭老头猥亵摸屁股",
+      "onboard_time": 1718329037,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 755629,
@@ -2107,6 +2123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573617,
+      "num": 573617,
+      "word": "曾年入百万槟榔种植户现收入为0",
+      "onboard_time": 1718328738,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 573278,
       "num": 573278,
       "word": "刘亦菲林更新脸颊吻",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1718292619,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 552823,
+      "num": 552823,
+      "word": "姜萍老师数学竞赛全球125名",
+      "onboard_time": 1718329699,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 552475,
@@ -2747,6 +2779,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 479647,
+      "num": 479647,
+      "word": "教资面试成绩",
+      "onboard_time": 1718330777,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 479018,
       "num": 262801,
       "word": "安静公主",
@@ -2792,6 +2832,14 @@
       "word": "那么多卖咸蛋黄的蛋清都去哪了",
       "onboard_time": 1718002098,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 475755,
+      "num": 475755,
+      "word": "中国大熊猫保护研究中心报警",
+      "onboard_time": 1718330237,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2993,6 +3041,14 @@
       "onboard_time": 1717858159,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 460502,
+      "num": 374266,
+      "word": "张百乔发文回应",
+      "onboard_time": 1718331318,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 459476,
@@ -3659,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388713,
+      "num": 388713,
+      "word": "造谣公司用AI一天写谣言7000篇",
+      "onboard_time": 1718327417,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388512,
       "num": 388512,
       "word": "国足 防守",
@@ -3931,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363362,
+      "num": 363362,
+      "word": "饿了么免单",
+      "onboard_time": 1718329217,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 363236,
       "num": 268682,
       "word": "iPhone新增防晕车功能",
@@ -4163,6 +4235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348680,
+      "num": 348680,
+      "word": "朱珠 感情中没有对错只有选择",
+      "onboard_time": 1718327299,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348398,
       "num": 277659,
       "word": "高圆圆宋慧乔车银优同框",
@@ -4176,6 +4256,14 @@
       "word": "宋亚轩刘耀文一起逛街",
       "onboard_time": 1718025198,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 347227,
+      "num": 347227,
+      "word": "张颂文不喜欢男tony做造型",
+      "onboard_time": 1718331677,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -4305,6 +4393,14 @@
       "onboard_time": 1717975093,
       "rank": 16,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 339127,
+      "num": 339127,
+      "word": "深圳暴雨",
+      "onboard_time": 1718328977,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338781,
@@ -4481,14 +4577,6 @@
       "onboard_time": 1718321055,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 329406,
-      "num": 329406,
-      "word": "朱珠 感情中没有对错只有选择",
-      "onboard_time": 1718327299,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 326913,
@@ -5627,14 +5715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 260452,
-      "num": 260452,
-      "word": "曾年入百万槟榔种植户现收入为0",
-      "onboard_time": 1718328738,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260282,
       "num": 260282,
       "word": "魔兽世界",
@@ -5681,6 +5761,14 @@
       "onboard_time": 1718025559,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258145,
+      "num": 258145,
+      "word": "MCN机构用AI造谣被曝光",
+      "onboard_time": 1718331017,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258084,
@@ -7451,6 +7539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199948,
+      "num": 199948,
+      "word": "水果真的越来越甜了",
+      "onboard_time": 1718331377,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 199884,
       "num": 199884,
       "word": "高考试卷核弹级别保密",
@@ -7771,6 +7867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193841,
+      "num": 193841,
+      "word": "姜萍的目标是考大学学服装设计",
+      "onboard_time": 1718331258,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193805,
       "num": 168053,
       "word": "魏大勋活动直播",
@@ -7961,14 +8065,6 @@
       "onboard_time": 1717909698,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190634,
-      "num": 190634,
-      "word": "饿了么免单",
-      "onboard_time": 1718329217,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 190528,
@@ -8723,14 +8819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176463,
-      "num": 176463,
-      "word": "深圳暴雨",
-      "onboard_time": 1718328977,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176337,
       "num": 176337,
       "word": "凯尔特人2比0独行侠",
@@ -8793,6 +8881,14 @@
       "onboard_time": 1717927997,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 175086,
+      "num": 175086,
+      "word": "小米SU7已交付20000台",
+      "onboard_time": 1718332038,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 175046,
@@ -9251,14 +9347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164593,
-      "num": 164593,
-      "word": "造谣公司用AI一天写谣言7000篇",
-      "onboard_time": 1718327417,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 164592,
       "num": 164592,
       "word": "与辉同行曾3个月销售额近20亿",
@@ -9379,14 +9467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161663,
-      "num": 161663,
-      "word": "5岁女童疑遭老头猥亵摸屁股",
-      "onboard_time": 1718329037,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161574,
       "num": 161574,
       "word": "这三类面包的热量比炸鸡还离谱",
@@ -9505,6 +9585,14 @@
       "onboard_time": 1718245938,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160329,
+      "num": 160329,
+      "word": "TheShy谈陪玩",
+      "onboard_time": 1718331677,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 160288,
@@ -9987,6 +10075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153226,
+      "num": 153226,
+      "word": "mlxg打算卖包子",
+      "onboard_time": 1718329818,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153097,
       "num": 153097,
       "word": "湖南一33岁男子疑在田边触电身亡",
@@ -10097,6 +10193,14 @@
       "onboard_time": 1718170759,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151710,
+      "num": 151710,
+      "word": "网曝锦州北站两撑伞男子遭遇雷击",
+      "onboard_time": 1718329636,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151670,
@@ -12027,12 +12131,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 122120,
-      "num": 122120,
-      "word": "人最不怕冷的器官是哪个",
-      "onboard_time": 1718329158,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 122189,
+      "num": 122189,
+      "word": "姜萍的梦想是浙大",
+      "onboard_time": 1718332337,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121798,
