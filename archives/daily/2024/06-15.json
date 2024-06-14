@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718403524362,
+  "endTime": 1718404510098,
   "band_list": [
     {
       "raw_hot": 1657955,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230395,
+      "num": 230395,
+      "word": "郝蕾表演课不招收纯素人",
+      "onboard_time": 1718388133,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212068,
       "num": 216364,
       "word": "德国vs苏格兰",
@@ -243,14 +251,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 181440,
-      "num": 74581,
-      "word": "郝蕾表演课不招收纯素人",
-      "onboard_time": 1718388133,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180812,
       "num": 263076,
       "word": "别再买路边切一半的西瓜了",
@@ -265,6 +265,14 @@
       "onboard_time": 1718381597,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175213,
+      "num": 175213,
+      "word": "德国5比1苏格兰",
+      "onboard_time": 1718400612,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 170694,
@@ -315,12 +323,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152482,
+      "num": 73540,
+      "word": "主人每次离开两秒小鸭子就要爆炸",
+      "onboard_time": 1718397191,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151065,
       "num": 256969,
       "word": "朱婷好牛",
       "onboard_time": 1718372665,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140314,
+      "num": 42866,
+      "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
+      "onboard_time": 1718398270,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140312,
@@ -331,12 +355,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 139347,
-      "num": 139347,
-      "word": "德国5比1苏格兰",
-      "onboard_time": 1718400612,
-      "rank": 21,
-      "category": "体育"
+      "raw_hot": 139594,
+      "num": 73370,
+      "word": "沙特阿拉伯不续签石油美元协议",
+      "onboard_time": 1718394851,
+      "rank": 17,
+      "category": "国外时政"
     },
     {
       "raw_hot": 137269,
@@ -363,22 +387,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121375,
-      "num": 30838,
-      "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
-      "onboard_time": 1718398270,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120208,
-      "num": 60994,
-      "word": "主人每次离开两秒小鸭子就要爆炸",
-      "onboard_time": 1718397191,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 117651,
       "num": 212537,
       "word": "第一次在鱼脸上看到了无语的表情",
@@ -393,14 +401,6 @@
       "onboard_time": 1718375363,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110255,
-      "num": 58330,
-      "word": "沙特阿拉伯不续签石油美元协议",
-      "onboard_time": 1718394851,
-      "rank": 17,
-      "category": "国外时政"
     },
     {
       "raw_hot": 93843,
@@ -491,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67123,
+      "num": 40590,
+      "word": "尚雯婕退出白金娱乐公司",
+      "onboard_time": 1718402592,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65571,
       "num": 280535,
       "word": "被浙江医院产房外的显示屏暖到了",
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57546,
+      "num": 42568,
+      "word": "李梦的跪下手机壳仿佛有声音",
+      "onboard_time": 1718401151,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55016,
       "num": 134094,
       "word": "姜萍说非要选的话更偏向服装设计",
@@ -531,20 +547,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 49682,
-      "num": 30716,
-      "word": "李梦的跪下手机壳仿佛有声音",
-      "onboard_time": 1718401151,
-      "rank": 23,
+      "raw_hot": 41178,
+      "num": 41178,
+      "word": "林更新东北人在上海做沪语翻译",
+      "onboard_time": 1718402411,
+      "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43022,
-      "num": 30101,
-      "word": "尚雯婕退出白金娱乐公司",
-      "onboard_time": 1718402592,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 40842,
@@ -561,14 +569,6 @@
       "onboard_time": 1718392271,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30491,
-      "num": 28213,
-      "word": "林更新东北人在上海做沪语翻译",
-      "onboard_time": 1718402411,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 30455,
