@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/14 15:18:43
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/14 15:34:36
 </p>
 </blockquote>
 <p>
@@ -1365,6 +1365,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%20%E6%9C%AC%E4%BA%BA%E5%B0%86%E8%BD%AC%E5%8F%98%E8%B5%9B%E9%81%93%23" target="weibo">
+赖冠霖 本人将转变赛道（热度：3609925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%88%E5%A4%AB%E6%88%96%E6%B6%89%E5%AB%8C%E4%BE%B5%E7%8A%AF%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E9%9A%90%E7%A7%81%E6%9D%83%23" target="weibo">
 女教师丈夫或涉嫌侵犯未成年人隐私权（热度：3606889）
 </a>
@@ -1565,12 +1571,6 @@ SM承认柳智敏恋情（热度：4051630）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%23" target="weibo">
 女教师办公室殴打学生（热度：3351481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%20%E6%9C%AC%E4%BA%BA%E5%B0%86%E8%BD%AC%E5%8F%98%E8%B5%9B%E9%81%93%23" target="weibo">
-赖冠霖 本人将转变赛道（热度：3351429）
 </a>
 </li>
 

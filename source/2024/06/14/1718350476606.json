@@ -1,0 +1,410 @@
+{
+  "runTime": 1718350476606,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7397646,
+        "num": 7397646,
+        "word": "赖冠霖 退圈",
+        "onboard_time": 1718348478,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595720,
+        "num": 595720,
+        "word": "同济大学发博祝贺姜萍",
+        "onboard_time": 1718343978,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125868,
+        "num": 476246,
+        "word": "三星堆这三兄弟仿佛在鼓掌",
+        "onboard_time": 1718341940,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461004,
+        "num": 461004,
+        "word": "网传银行女职员拍视频深情表白行长",
+        "onboard_time": 1718345121,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442286,
+        "num": 442286,
+        "word": "江苏大学",
+        "onboard_time": 1718349381,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3609925,
+        "num": 423474,
+        "word": "赖冠霖 本人将转变赛道",
+        "onboard_time": 1718348838,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880562,
+        "num": 404593,
+        "word": "张艺兴 五胎来了",
+        "onboard_time": 1718343677,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 644736,
+        "num": 396956,
+        "word": "刘雅瑟眼睛被炸伤",
+        "onboard_time": 1718348598,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385193,
+        "num": 385193,
+        "word": "985毕业生反向升学读技校",
+        "onboard_time": 1718345298,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38999,
+        "num": 371245,
+        "word": "姜萍老师说想尽自己所能做领路人",
+        "onboard_time": 1718349019,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1510572,
+        "num": 336587,
+        "word": "赖冠霖黑头像",
+        "onboard_time": 1718349620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1253183,
+        "num": 312697,
+        "word": "英男子性行为时偷摘避孕套被判4年",
+        "onboard_time": 1718341039,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523937,
+        "num": 286183,
+        "word": "赵丽颖粉色单肩纱裙",
+        "onboard_time": 1718347999,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 427308,
+        "num": 266568,
+        "word": "奔跑吧 姚PD",
+        "onboard_time": 1718340199,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250942,
+        "num": 250942,
+        "word": "日本福岛第一核电站1名员工死亡",
+        "onboard_time": 1718343078,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250078,
+        "num": 250078,
+        "word": "娇兰卖780的护肤品实验样本只有11人",
+        "onboard_time": 1718346439,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 244345,
+        "num": 244345,
+        "word": "福宝想爬树",
+        "onboard_time": 1718349560,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467704,
+        "num": 238508,
+        "word": "赵丽颖 赵满楼",
+        "onboard_time": 1718345958,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228097,
+        "num": 228097,
+        "word": "涟水中等专业学校",
+        "onboard_time": 1718347099,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224202,
+        "num": 224202,
+        "word": "姜萍回应拿下数学竞赛全球12名",
+        "onboard_time": 1718345298,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022537,
+        "num": 222202,
+        "word": "手机免密支付1岁娃误点120杯柠檬水",
+        "onboard_time": 1718345539,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539200,
+        "num": 220029,
+        "word": "长期吃轻食的人都怎么样了",
+        "onboard_time": 1718345121,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 338192,
+        "num": 218548,
+        "word": "李玟二姐回应王力宏致敬被质疑",
+        "onboard_time": 1718348659,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329848,
+        "num": 216903,
+        "word": "网传章子怡赵丽颖新综艺接档歌手",
+        "onboard_time": 1718342297,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269648,
+        "num": 215319,
+        "word": "汪苏泷 奢香夫人",
+        "onboard_time": 1718341820,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259281,
+        "num": 212120,
+        "word": "这是一个父亲最接受不了的画面",
+        "onboard_time": 1718346919,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232708,
+        "num": 210123,
+        "word": "蔡国庆患急性带状疱疹",
+        "onboard_time": 1718341039,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232394,
+        "num": 208259,
+        "word": "低头玩手机相当于脖子扛大米",
+        "onboard_time": 1718346137,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206505,
+        "num": 206505,
+        "word": "天才少女",
+        "onboard_time": 1718336357,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197127,
+        "num": 197127,
+        "word": "饿了么免单",
+        "onboard_time": 1718329217,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195495,
+        "num": 195495,
+        "word": "星汉灿烂 墨雨云间",
+        "onboard_time": 1718339299,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194938,
+        "num": 194938,
+        "word": "人最不怕冷的器官是哪个",
+        "onboard_time": 1718329158,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194342,
+        "num": 194342,
+        "word": "17岁中专女孩是怎么被发现的",
+        "onboard_time": 1718347878,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190698,
+        "num": 190698,
+        "word": "欧洲杯",
+        "onboard_time": 1718349260,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185471,
+        "num": 185471,
+        "word": "陈昊宇不抽到陈丽君不停",
+        "onboard_time": 1718343857,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178397,
+        "num": 178397,
+        "word": "恋爱兄妹 癫",
+        "onboard_time": 1718350280,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177511,
+        "num": 177511,
+        "word": "林娜琏空降",
+        "onboard_time": 1718344878,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175781,
+        "num": 175781,
+        "word": "DYG对战TCG",
+        "onboard_time": 1718349560,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175491,
+        "num": 175491,
+        "word": "刘宇宁吓得假发快掉了",
+        "onboard_time": 1718349199,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148345,
+        "num": 148345,
+        "word": "戚薇发音全球发音日榜第一",
+        "onboard_time": 1718345779,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140989,
+        "num": 140989,
+        "word": "17岁中专女生回应和清北选手比赛",
+        "onboard_time": 1718340619,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139092,
+        "num": 139092,
+        "word": "余秀华 抽象",
+        "onboard_time": 1718346739,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 133424,
+        "num": 133424,
+        "word": "娇兰客服回应780元护肤品实验样本仅11人",
+        "onboard_time": 1718349982,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 131205,
+        "num": 131205,
+        "word": "新加坡门将桑尼餐馆闭店3天",
+        "onboard_time": 1718349741,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136441,
+        "num": 130989,
+        "word": "陈丽君拒绝陈昊宇戚薇",
+        "onboard_time": 1718342359,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129864,
+        "num": 129864,
+        "word": "恋与深空 古茗",
+        "onboard_time": 1718323818,
+        "rank": 45,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 123999,
+        "num": 123999,
+        "word": "易烊千玺实体专辑销售额近2亿",
+        "onboard_time": 1718343799,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118864,
+        "num": 118864,
+        "word": "茅台2300元没人收",
+        "onboard_time": 1718342839,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118746,
+        "num": 118746,
+        "word": "欧洲杯 夺冠热门",
+        "onboard_time": 1718333598,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114049,
+        "num": 114049,
+        "word": "家长选择高考出分前就奖励孩子",
+        "onboard_time": 1718346318,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造和平发展的国际环境#"
+    }
+  }
+}
