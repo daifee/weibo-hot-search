@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718404510098,
+  "endTime": 1718407149897,
   "band_list": [
     {
       "raw_hot": 1657955,
@@ -49,6 +49,22 @@
       "onboard_time": 1718379919,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 852543,
+      "num": 852543,
+      "word": "杭州女子孕期同房出血紧急就医",
+      "onboard_time": 1718406554,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 744090,
+      "num": 744090,
+      "word": "六公主发视频自证有官方拍摄标志",
+      "onboard_time": 1718406493,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 698366,
@@ -131,12 +147,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 420477,
+      "num": 420477,
+      "word": "郝蕾表演课不招收纯素人",
+      "onboard_time": 1718388133,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395674,
       "num": 259757,
       "word": "尚雯婕冲榜凡希亚",
       "onboard_time": 1718369001,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 377197,
+      "num": 377197,
+      "word": "焉栩嘉上岸了",
+      "onboard_time": 1718406735,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 370161,
@@ -203,12 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230395,
-      "num": 230395,
-      "word": "郝蕾表演课不招收纯素人",
-      "onboard_time": 1718388133,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 237938,
+      "num": 152966,
+      "word": "沙特阿拉伯不续签石油美元协议",
+      "onboard_time": 1718394851,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 222969,
+      "num": 222969,
+      "word": "德国5比1苏格兰",
+      "onboard_time": 1718400612,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 212068,
@@ -225,6 +265,22 @@
       "onboard_time": 1718379381,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197620,
+      "num": 150493,
+      "word": "董宇辉直播永乐宫遭多人投诉",
+      "onboard_time": 1718366958,
+      "rank": 12,
+      "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 197446,
+      "num": 69945,
+      "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
+      "onboard_time": 1718398270,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192116,
@@ -265,14 +321,6 @@
       "onboard_time": 1718381597,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175213,
-      "num": 175213,
-      "word": "德国5比1苏格兰",
-      "onboard_time": 1718400612,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 170694,
@@ -324,7 +372,7 @@
     },
     {
       "raw_hot": 152482,
-      "num": 73540,
+      "num": 141931,
       "word": "主人每次离开两秒小鸭子就要爆炸",
       "onboard_time": 1718397191,
       "rank": 48,
@@ -339,14 +387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140314,
-      "num": 42866,
-      "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
-      "onboard_time": 1718398270,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140312,
       "num": 213038,
       "word": "化妆的意义在此刻具象化了",
@@ -355,16 +395,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 139594,
-      "num": 73370,
-      "word": "沙特阿拉伯不续签石油美元协议",
-      "onboard_time": 1718394851,
-      "rank": 17,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 137269,
-      "num": 117699,
+      "num": 134860,
       "word": "刘惜君为了压过原唱使了大劲",
       "onboard_time": 1718387294,
       "rank": 14,
@@ -401,6 +433,14 @@
       "onboard_time": 1718375363,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106878,
+      "num": 61144,
+      "word": "尚雯婕退出白金娱乐公司",
+      "onboard_time": 1718402592,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 93843,
@@ -443,12 +483,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88948,
+      "num": 103457,
+      "word": "行政叫我以后不要穿睡裤上班",
+      "onboard_time": 1718384834,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88546,
+      "num": 55362,
+      "word": "工作后发现5000块真的挺难挣",
+      "onboard_time": 1718406675,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87128,
+      "num": 55009,
+      "word": "袁娅维得继续请假了",
+      "onboard_time": 1718406613,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85930,
+      "num": 54333,
+      "word": "肖战山城暴走vlog",
+      "onboard_time": 1718406855,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85465,
       "num": 85465,
       "word": "易烊千玺也吃到了浦东机场的苦",
       "onboard_time": 1718359759,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76874,
+      "num": 53345,
+      "word": "林更新东北人在上海做沪语翻译",
+      "onboard_time": 1718402411,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 76370,
@@ -483,20 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69598,
-      "num": 103457,
-      "word": "行政叫我以后不要穿睡裤上班",
-      "onboard_time": 1718384834,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 67123,
-      "num": 40590,
-      "word": "尚雯婕退出白金娱乐公司",
-      "onboard_time": 1718402592,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 67628,
+      "num": 51447,
+      "word": "那英 再见",
+      "onboard_time": 1718371403,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 65571,
@@ -547,14 +619,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 41178,
-      "num": 41178,
-      "word": "林更新东北人在上海做沪语翻译",
-      "onboard_time": 1718402411,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 40842,
       "num": 79301,
       "word": "原来大学毕业后可以有这么多选择",
@@ -577,6 +641,22 @@
       "onboard_time": 1718387472,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29527,
+      "num": 157125,
+      "word": "华西医生分析为啥有人吃轻食越吃越胖",
+      "onboard_time": 1718406735,
+      "rank": 9,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 21030,
+      "num": 49872,
+      "word": "数学给姜萍打开了一扇门",
+      "onboard_time": 1718406194,
+      "rank": 45,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 16112,

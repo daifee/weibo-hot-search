@@ -1,0 +1,410 @@
+{
+  "runTime": 1718407149897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 852543,
+        "num": 852543,
+        "word": "杭州女子孕期同房出血紧急就医",
+        "onboard_time": 1718406554,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744090,
+        "num": 744090,
+        "word": "六公主发视频自证有官方拍摄标志",
+        "onboard_time": 1718406493,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33354,
+        "num": 490300,
+        "word": "清明上河图动起来了",
+        "onboard_time": 1718370681,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428866,
+        "num": 428866,
+        "word": "六公主发的周也",
+        "onboard_time": 1718357120,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420477,
+        "num": 420477,
+        "word": "郝蕾表演课不招收纯素人",
+        "onboard_time": 1718388133,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377197,
+        "num": 377197,
+        "word": "焉栩嘉上岸了",
+        "onboard_time": 1718406735,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345064,
+        "num": 345064,
+        "word": "月经提前或推迟超7天要去医院",
+        "onboard_time": 1718377641,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222969,
+        "num": 222969,
+        "word": "德国5比1苏格兰",
+        "onboard_time": 1718400612,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159143,
+        "num": 159143,
+        "word": "日本一女子患产后抑郁勒死三个女儿",
+        "onboard_time": 1718374524,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29527,
+        "num": 157125,
+        "word": "华西医生分析为啥有人吃轻食越吃越胖",
+        "onboard_time": 1718406735,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 307174,
+        "num": 154331,
+        "word": "姜萍已达到数学系本科生的水平",
+        "onboard_time": 1718373386,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237938,
+        "num": 152966,
+        "word": "沙特阿拉伯不续签石油美元协议",
+        "onboard_time": 1718394851,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 197620,
+        "num": 150493,
+        "word": "董宇辉直播永乐宫遭多人投诉",
+        "onboard_time": 1718366958,
+        "rank": 12,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 190219,
+        "num": 145262,
+        "word": "歌手排名",
+        "onboard_time": 1718373924,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189292,
+        "num": 144515,
+        "word": "汪苏泷奢香夫人 难听",
+        "onboard_time": 1718370202,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141931,
+        "num": 141931,
+        "word": "主人每次离开两秒小鸭子就要爆炸",
+        "onboard_time": 1718397191,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134860,
+        "num": 134860,
+        "word": "刘惜君为了压过原唱使了大劲",
+        "onboard_time": 1718387294,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116534,
+        "num": 116534,
+        "word": "四级 花钱买早八",
+        "onboard_time": 1718376143,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89177,
+        "num": 89177,
+        "word": "浙江大学数学系教授欢迎姜萍来浙大",
+        "onboard_time": 1718359818,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 72509,
+        "num": 72509,
+        "word": "德国vs苏格兰",
+        "onboard_time": 1718377461,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633362,
+        "num": 70971,
+        "word": "周也黑脸",
+        "onboard_time": 1718359278,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197446,
+        "num": 69945,
+        "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
+        "onboard_time": 1718398270,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172772,
+        "num": 68204,
+        "word": "赖冠霖 退圈",
+        "onboard_time": 1718348478,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126330,
+        "num": 65160,
+        "word": "孙楠 很牛但油",
+        "onboard_time": 1718371582,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120933,
+        "num": 63726,
+        "word": "恋爱兄妹最终情侣",
+        "onboard_time": 1718379919,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106878,
+        "num": 61144,
+        "word": "尚雯婕退出白金娱乐公司",
+        "onboard_time": 1718402592,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89720,
+        "num": 58230,
+        "word": "肖战机场",
+        "onboard_time": 1718377761,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88948,
+        "num": 57544,
+        "word": "行政叫我以后不要穿睡裤上班",
+        "onboard_time": 1718384834,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55772,
+        "num": 55772,
+        "word": "邵阳学院2名学生与姜萍一同入围决赛",
+        "onboard_time": 1718365038,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 35923,
+        "num": 55558,
+        "word": "各大高校安利自家数学专业",
+        "onboard_time": 1718372725,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 88546,
+        "num": 55362,
+        "word": "工作后发现5000块真的挺难挣",
+        "onboard_time": 1718406675,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87128,
+        "num": 55009,
+        "word": "袁娅维得继续请假了",
+        "onboard_time": 1718406613,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85930,
+        "num": 54333,
+        "word": "肖战山城暴走vlog",
+        "onboard_time": 1718406855,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82600,
+        "num": 53959,
+        "word": "别再买路边切一半的西瓜了",
+        "onboard_time": 1718367560,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78983,
+        "num": 53626,
+        "word": "王力宏方请辞金曲奖表演",
+        "onboard_time": 1718376803,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 76874,
+        "num": 53345,
+        "word": "林更新东北人在上海做沪语翻译",
+        "onboard_time": 1718402411,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74825,
+        "num": 53055,
+        "word": "张钰琪淘汰",
+        "onboard_time": 1718374765,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74485,
+        "num": 52724,
+        "word": "那英 怎么又说你难听",
+        "onboard_time": 1718374524,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52448,
+        "num": 52448,
+        "word": "C罗说享受第六次欧洲杯",
+        "onboard_time": 1718383337,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52012,
+        "num": 52012,
+        "word": "欧洲杯24队实力榜",
+        "onboard_time": 1718384056,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74181,
+        "num": 51972,
+        "word": "尚雯婕冲榜凡希亚",
+        "onboard_time": 1718369001,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73366,
+        "num": 51660,
+        "word": "袁娅维太牛了",
+        "onboard_time": 1718372784,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67628,
+        "num": 51447,
+        "word": "那英 再见",
+        "onboard_time": 1718371403,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58173,
+        "num": 51131,
+        "word": "汪苏泷 泷泷看到热搜了",
+        "onboard_time": 1718374465,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51101,
+        "num": 51101,
+        "word": "朱婷好牛",
+        "onboard_time": 1718372665,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21030,
+        "num": 49872,
+        "word": "数学给姜萍打开了一扇门",
+        "onboard_time": 1718406194,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 49753,
+        "num": 49753,
+        "word": "葡萄牙队开启欧洲杯征程",
+        "onboard_time": 1718382616,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73703,
+        "num": 48078,
+        "word": "那英不敢跟尚雯婕聊天",
+        "onboard_time": 1718376321,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45254,
+        "num": 45254,
+        "word": "欧洲杯",
+        "onboard_time": 1718349260,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43113,
+        "num": 43113,
+        "word": "化妆的意义在此刻具象化了",
+        "onboard_time": 1718378061,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推进科技创新及其他各方面创新#"
+    }
+  }
+}
