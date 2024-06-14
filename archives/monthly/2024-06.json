@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718371299650,
+  "endTime": 1718372047020,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -17,6 +17,14 @@
       "onboard_time": 1717749858,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 8068799,
+      "num": 8068799,
+      "word": "汪苏泷奢香夫人 难听",
+      "onboard_time": 1718370202,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 7670166,
@@ -41,14 +49,6 @@
       "onboard_time": 1717836078,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 7515166,
-      "num": 1454741,
-      "word": "汪苏泷奢香夫人 难听",
-      "onboard_time": 1718370202,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 7442935,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2427132,
+      "num": 2427132,
+      "word": "孙楠 很牛但油",
+      "onboard_time": 1718371582,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2406389,
       "num": 2084442,
       "word": "那英不紧张了",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 2373351,
-      "num": 554472,
+      "num": 1002534,
       "word": "尚雯婕冲榜失败",
       "onboard_time": 1718369600,
       "rank": 6,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1718245158,
       "rank": 31,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1397351,
+      "num": 436068,
+      "word": "张钰琪音色",
+      "onboard_time": 1718371462,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1396063,
@@ -5235,6 +5251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 651230,
+      "num": 239086,
+      "word": "浪姐不放人吗",
+      "onboard_time": 1718370982,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 650950,
       "num": 215482,
       "word": "lululemon在美国卖不动了",
@@ -6585,6 +6609,14 @@
       "onboard_time": 1718094438,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551574,
+      "num": 240874,
+      "word": "汪苏泷是不是想走了",
+      "onboard_time": 1718370803,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 550597,
@@ -9611,6 +9643,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 417543,
+      "num": 222878,
+      "word": "黄宣 好听",
+      "onboard_time": 1718371403,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417159,
       "num": 417159,
       "word": "吉林",
@@ -10963,14 +11003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366043,
-      "num": 240874,
-      "word": "汪苏泷是不是想走了",
-      "onboard_time": 1718370803,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 365990,
       "num": 354652,
       "word": "沈月接受了自己的身高",
@@ -11355,6 +11387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355658,
+      "num": 208789,
+      "word": "袁娅维冲榜香缇莫",
+      "onboard_time": 1718371884,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355497,
       "num": 355497,
       "word": "李华可能是47岁的频繁转校生",
@@ -11539,14 +11579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 349266,
-      "num": 239086,
-      "word": "浪姐不放人吗",
-      "onboard_time": 1718370982,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 349229,
       "num": 349229,
       "word": "咸鱼 逆水寒",
@@ -11625,6 +11657,14 @@
       "onboard_time": 1718168302,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348302,
+      "num": 348302,
+      "word": "星火英语崩了",
+      "onboard_time": 1718371403,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 347459,
@@ -12804,7 +12844,7 @@
     },
     {
       "raw_hot": 315192,
-      "num": 187218,
+      "num": 187493,
       "word": "乌尔善终于对国漫下手了",
       "onboard_time": 1718369721,
       "rank": 35,
@@ -15211,6 +15251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 262623,
+      "num": 168242,
+      "word": "那英 再见",
+      "onboard_time": 1718371403,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262371,
       "num": 262371,
       "word": "高考第一天",
@@ -16777,6 +16825,14 @@
       "onboard_time": 1717294937,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 234260,
+      "num": 162443,
+      "word": "黄宣好可爱",
+      "onboard_time": 1718371221,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 234084,
@@ -19809,14 +19865,6 @@
       "onboard_time": 1717384938,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201397,
-      "num": 150424,
-      "word": "黄宣好可爱",
-      "onboard_time": 1718371221,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 201106,
@@ -23315,6 +23363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175336,
+      "num": 175336,
+      "word": "每天吃西瓜尽量别超500克",
+      "onboard_time": 1718371763,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175323,
       "num": 175323,
       "word": "司徒九月帮薛芳菲疗伤又斩男",
@@ -24017,6 +24073,14 @@
       "onboard_time": 1717337599,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169610,
+      "num": 169610,
+      "word": "华为牛肉每千克最高349元",
+      "onboard_time": 1718371823,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 169590,
@@ -28472,6 +28536,14 @@
       "word": "杰伦布朗杀死比赛",
       "onboard_time": 1717991597,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 141193,
+      "num": 141193,
+      "word": "郎平指导来到了现场",
+      "onboard_time": 1718372003,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -34939,6 +35011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98819,
+      "num": 3379744,
+      "word": "清明上河图动起来了",
+      "onboard_time": 1718370681,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98733,
       "num": 480222,
       "word": "熄灯是一天中最治愈的时刻",
@@ -37403,14 +37483,6 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 61439,
-      "num": 1535810,
-      "word": "清明上河图动起来了",
-      "onboard_time": 1718370681,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61335,
       "num": 61335,
       "word": "当主人忘给猫咪喂饭",
@@ -39291,6 +39363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38188,
+      "num": 458582,
+      "word": "淘宝102万寻找毒奶球迷",
+      "onboard_time": 1718370023,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38182,
       "num": 54537,
       "word": "光遇",
@@ -39889,14 +39969,6 @@
       "onboard_time": 1717554198,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30104,
-      "num": 458582,
-      "word": "淘宝102万寻找毒奶球迷",
-      "onboard_time": 1718370023,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 30044,

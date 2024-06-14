@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718371299650,
+  "endTime": 1718372047020,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -643,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8068799,
+      "num": 8068799,
+      "word": "汪苏泷奢香夫人 难听",
+      "onboard_time": 1718370202,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8062954,
       "num": 8062954,
       "word": "现在的贾玲",
@@ -809,14 +817,6 @@
       "onboard_time": 1707461254,
       "rank": 42,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 7515166,
-      "num": 1454741,
-      "word": "汪苏泷奢香夫人 难听",
-      "onboard_time": 1718370202,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 7494354,
