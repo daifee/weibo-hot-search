@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718389580190,
+  "endTime": 1718390333499,
   "band_list": [
     {
       "raw_hot": 1657955,
@@ -315,6 +315,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 137269,
+      "num": 117699,
+      "word": "刘惜君为了压过原唱使了大劲",
+      "onboard_time": 1718387294,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126644,
       "num": 212399,
       "word": "陈丽君选戚薇吧她快碎了",
@@ -329,14 +337,6 @@
       "onboard_time": 1718384834,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117699,
-      "num": 117699,
-      "word": "刘惜君为了压过原唱使了大劲",
-      "onboard_time": 1718387294,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 117651,
@@ -411,20 +411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82037,
+      "num": 74581,
+      "word": "郝蕾表演课不招收纯素人",
+      "onboard_time": 1718388133,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76370,
       "num": 212215,
       "word": "老师说姜萍不是天才型选手",
       "onboard_time": 1718373325,
       "rank": 49,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 74581,
-      "num": 74581,
-      "word": "郝蕾表演课不招收纯素人",
-      "onboard_time": 1718388133,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 73629,
@@ -507,7 +507,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 20100,
+      "raw_hot": 30455,
       "num": 68013,
       "word": "村支书称姜萍是全村的骄傲",
       "onboard_time": 1718387472,
