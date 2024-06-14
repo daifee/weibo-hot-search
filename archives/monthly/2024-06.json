@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718360399712,
+  "endTime": 1718361381176,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -163,6 +163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3090040,
+      "num": 1381573,
+      "word": "周也黑脸",
+      "onboard_time": 1718359278,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2931096,
       "num": 2931096,
       "word": "国足1比1泰国",
@@ -225,14 +233,6 @@
       "onboard_time": 1717582219,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2638784,
-      "num": 1381573,
-      "word": "周也黑脸",
-      "onboard_time": 1718359278,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 2609846,
@@ -1315,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1342674,
+      "num": 1342674,
+      "word": "洞洞鞋鼻祖一年卖了200亿",
+      "onboard_time": 1718355138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1337342,
       "num": 347046,
       "word": "我比张钰琪还紧张",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1717767984,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1276522,
-      "num": 1276522,
-      "word": "洞洞鞋鼻祖一年卖了200亿",
-      "onboard_time": 1718355138,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1272015,
@@ -8259,6 +8259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465687,
+      "num": 212394,
+      "word": "浙江大学数学系教授欢迎姜萍来浙大",
+      "onboard_time": 1718359818,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 465676,
       "num": 248688,
       "word": "EXO和成员朋友见面必须通过允许",
@@ -9427,6 +9435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 418364,
+      "num": 418364,
+      "word": "浙江大学",
+      "onboard_time": 1718360479,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 418061,
       "num": 418061,
       "word": "高考加油",
@@ -10345,6 +10361,14 @@
       "onboard_time": 1717732884,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382830,
+      "num": 382830,
+      "word": "易烊千玺也吃到了浦东机场的苦",
+      "onboard_time": 1718359759,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 382660,
@@ -11715,6 +11739,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 339150,
+      "num": 339150,
+      "word": "她咋了甄嬛传配得那么好",
+      "onboard_time": 1718358317,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339127,
       "num": 339127,
       "word": "深圳暴雨",
@@ -12953,14 +12985,6 @@
       "onboard_time": 1717244958,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 304330,
-      "num": 304330,
-      "word": "她咋了甄嬛传配得那么好",
-      "onboard_time": 1718358317,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 304214,
@@ -15187,6 +15211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257090,
+      "num": 209555,
+      "word": "姜萍目前只能就读江苏的三所高校",
+      "onboard_time": 1718358380,
+      "rank": 24,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 256911,
       "num": 249579,
       "word": "13位男嘉宾在节目里吵架16分钟",
@@ -15619,14 +15651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247764,
-      "num": 212394,
-      "word": "浙江大学数学系教授欢迎姜萍来浙大",
-      "onboard_time": 1718359818,
-      "rank": 22,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 247760,
       "num": 247760,
       "word": "我才不要和你做朋友呢",
@@ -15961,6 +15985,14 @@
       "onboard_time": 1718354420,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 242005,
+      "num": 242005,
+      "word": "复旦大学 论剑数学之巅",
+      "onboard_time": 1718359938,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 241509,
@@ -16971,14 +17003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226310,
-      "num": 209555,
-      "word": "姜萍目前只能就读江苏的三所高校",
-      "onboard_time": 1718358380,
-      "rank": 24,
-      "category": "互联网,教育"
-    },
-    {
       "raw_hot": 226227,
       "num": 226227,
       "word": "刘亦菲个人微指破3.7亿",
@@ -17017,14 +17041,6 @@
       "onboard_time": 1717301537,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 225599,
-      "num": 208292,
-      "word": "易烊千玺也吃到了浦东机场的苦",
-      "onboard_time": 1718359759,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 225566,
@@ -17089,6 +17105,14 @@
       "onboard_time": 1717903517,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224851,
+      "num": 207153,
+      "word": "赵丽颖曾说想和胡歌合作",
+      "onboard_time": 1718358679,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 224681,
@@ -17257,14 +17281,6 @@
       "onboard_time": 1717568357,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221771,
-      "num": 207153,
-      "word": "赵丽颖曾说想和胡歌合作",
-      "onboard_time": 1718358679,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 221750,
@@ -17713,6 +17729,14 @@
       "onboard_time": 1718169619,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 216808,
+      "num": 188655,
+      "word": "怀孕期不让养猫所以要离婚了",
+      "onboard_time": 1718358139,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 216713,
@@ -21779,14 +21803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185713,
-      "num": 185713,
-      "word": "怀孕期不让养猫所以要离婚了",
-      "onboard_time": 1718358139,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185624,
       "num": 185624,
       "word": "陈乔恩吴谨言脸颊比心",
@@ -22761,6 +22777,14 @@
       "onboard_time": 1718098997,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177363,
+      "num": 177363,
+      "word": "海沧隧道",
+      "onboard_time": 1718360659,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177317,
@@ -24329,6 +24353,14 @@
       "onboard_time": 1718256919,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 164959,
+      "num": 409452,
+      "word": "韦神曾获姜萍参加竞赛第一届金奖",
+      "onboard_time": 1718359220,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 164945,
@@ -26235,14 +26267,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152713,
-      "num": 152713,
-      "word": "复旦大学 论剑数学之巅",
-      "onboard_time": 1718359938,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 152659,
       "num": 152659,
       "word": "陶昕然说红毯不是我的战场",
@@ -27561,6 +27585,14 @@
       "onboard_time": 1717643237,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144945,
+      "num": 144945,
+      "word": "赵丽颖工作室图来了",
+      "onboard_time": 1718361139,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 144918,
@@ -29057,6 +29089,14 @@
       "onboard_time": 1717501578,
       "rank": 30,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 135449,
+      "num": 135449,
+      "word": "野孩子要定档了吗",
+      "onboard_time": 1718360958,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 135426,
@@ -31345,6 +31385,14 @@
       "onboard_time": 1718182400,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121782,
+      "num": 121782,
+      "word": "猴中卡戴珊",
+      "onboard_time": 1718361319,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 121742,
@@ -33729,14 +33777,6 @@
       "onboard_time": 1717903397,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106264,
-      "num": 409452,
-      "word": "韦神曾获姜萍参加竞赛第一届金奖",
-      "onboard_time": 1718359220,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 106254,
@@ -36616,6 +36656,14 @@
       "word": "我国首个液体通用型火箭发射工位竣工",
       "onboard_time": 1717751960,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65462,
+      "num": 188739,
+      "word": "一人一句像你这样的朋友",
+      "onboard_time": 1718361258,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -39539,6 +39587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27654,
+      "num": 205161,
+      "word": "于和伟问界M9野生销售员",
+      "onboard_time": 1718358679,
+      "rank": 30,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 27362,
       "num": 452541,
       "word": "癌症宝宝的六一愿望是快快好起来",
@@ -39801,14 +39857,6 @@
       "onboard_time": 1718300113,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23450,
-      "num": 205161,
-      "word": "于和伟问界M9野生销售员",
-      "onboard_time": 1718358679,
-      "rank": 30,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 23282,

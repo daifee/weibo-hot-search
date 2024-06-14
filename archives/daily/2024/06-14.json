@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718360399712,
+  "endTime": 1718361381176,
   "band_list": [
     {
       "raw_hot": 7442935,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2638784,
+      "raw_hot": 3090040,
       "num": 1381573,
       "word": "周也黑脸",
       "onboard_time": 1718359278,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1342674,
+      "num": 1342674,
+      "word": "洞洞鞋鼻祖一年卖了200亿",
+      "onboard_time": 1718355138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1326868,
       "num": 857673,
       "word": "奔跑吧 姚PD",
@@ -72,14 +80,6 @@
       "word": "男子晒办公室自拍被间谍盯上",
       "onboard_time": 1718324238,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1276522,
-      "num": 1276522,
-      "word": "洞洞鞋鼻祖一年卖了200亿",
-      "onboard_time": 1718355138,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465687,
+      "num": 212394,
+      "word": "浙江大学数学系教授欢迎姜萍来浙大",
+      "onboard_time": 1718359818,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 461302,
       "num": 461302,
       "word": "原来老师才是那个被留下的孩子",
@@ -555,6 +563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 418364,
+      "num": 418364,
+      "word": "浙江大学",
+      "onboard_time": 1718360479,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 417012,
       "num": 417012,
       "word": "江西一爆炸事故致5死25伤",
@@ -601,6 +617,14 @@
       "onboard_time": 1718342359,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382830,
+      "num": 382830,
+      "word": "易烊千玺也吃到了浦东机场的苦",
+      "onboard_time": 1718359759,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 361950,
@@ -673,6 +697,14 @@
       "onboard_time": 1718332698,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 339150,
+      "num": 339150,
+      "word": "她咋了甄嬛传配得那么好",
+      "onboard_time": 1718358317,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 339127,
@@ -761,14 +793,6 @@
       "onboard_time": 1718280199,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304330,
-      "num": 304330,
-      "word": "她咋了甄嬛传配得那么好",
-      "onboard_time": 1718358317,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 299914,
@@ -923,20 +947,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257090,
+      "num": 209555,
+      "word": "姜萍目前只能就读江苏的三所高校",
+      "onboard_time": 1718358380,
+      "rank": 24,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 249646,
       "num": 177041,
       "word": "刘亦菲蓝色泳装",
       "onboard_time": 1718282418,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247764,
-      "num": 212394,
-      "word": "浙江大学数学系教授欢迎姜萍来浙大",
-      "onboard_time": 1718359818,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 243056,
@@ -953,6 +977,14 @@
       "onboard_time": 1718354420,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 242005,
+      "num": 242005,
+      "word": "复旦大学 论剑数学之巅",
+      "onboard_time": 1718359938,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 241509,
@@ -1067,14 +1099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 226310,
-      "num": 209555,
-      "word": "姜萍目前只能就读江苏的三所高校",
-      "onboard_time": 1718358380,
-      "rank": 24,
-      "category": "互联网,教育"
-    },
-    {
       "raw_hot": 226114,
       "num": 195252,
       "word": "易烊千玺实体专辑销售额近2亿",
@@ -1083,11 +1107,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 225599,
-      "num": 208292,
-      "word": "易烊千玺也吃到了浦东机场的苦",
-      "onboard_time": 1718359759,
-      "rank": 26,
+      "raw_hot": 224851,
+      "num": 207153,
+      "word": "赵丽颖曾说想和胡歌合作",
+      "onboard_time": 1718358679,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1097,14 +1121,6 @@
       "onboard_time": 1718334436,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221771,
-      "num": 207153,
-      "word": "赵丽颖曾说想和胡歌合作",
-      "onboard_time": 1718358679,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 219379,
@@ -1137,6 +1153,14 @@
       "onboard_time": 1718339538,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216808,
+      "num": 188655,
+      "word": "怀孕期不让养猫所以要离婚了",
+      "onboard_time": 1718358139,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 216031,
@@ -1339,14 +1363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185713,
-      "num": 185713,
-      "word": "怀孕期不让养猫所以要离婚了",
-      "onboard_time": 1718358139,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185588,
       "num": 185588,
       "word": "辛芷蕾你怎么还摸上耳朵了",
@@ -1401,6 +1417,14 @@
       "onboard_time": 1718358619,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177363,
+      "num": 177363,
+      "word": "海沧隧道",
+      "onboard_time": 1718360659,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175781,
@@ -1521,6 +1545,14 @@
       "onboard_time": 1718342839,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 164959,
+      "num": 409452,
+      "word": "韦神曾获姜萍参加竞赛第一届金奖",
+      "onboard_time": 1718359220,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 160613,
@@ -1659,14 +1691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152713,
-      "num": 152713,
-      "word": "复旦大学 论剑数学之巅",
-      "onboard_time": 1718359938,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 151967,
       "num": 151967,
       "word": "时代少年团发文告别这是我的岛",
@@ -1731,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144945,
+      "num": 144945,
+      "word": "赵丽颖工作室图来了",
+      "onboard_time": 1718361139,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144249,
       "num": 144249,
       "word": "快乐老友记2",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1718321836,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 135449,
+      "num": 135449,
+      "word": "野孩子要定档了吗",
+      "onboard_time": 1718360958,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 134276,
@@ -1971,6 +2011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121782,
+      "num": 121782,
+      "word": "猴中卡戴珊",
+      "onboard_time": 1718361319,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119661,
       "num": 119661,
       "word": "玫瑰的故事直播",
@@ -2057,14 +2105,6 @@
       "onboard_time": 1718324058,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 106264,
-      "num": 409452,
-      "word": "韦神曾获姜萍参加竞赛第一届金奖",
-      "onboard_time": 1718359220,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 104794,
@@ -2307,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65462,
+      "num": 188739,
+      "word": "一人一句像你这样的朋友",
+      "onboard_time": 1718361258,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65253,
       "num": 475565,
       "word": "姜萍是谁",
@@ -2443,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27654,
+      "num": 205161,
+      "word": "于和伟问界M9野生销售员",
+      "onboard_time": 1718358679,
+      "rank": 30,
+      "category": "艺人,汽车"
+    },
+    {
       "raw_hot": 27127,
       "num": 72386,
       "word": "打喷嚏为什么总是闭眼",
@@ -2473,14 +2529,6 @@
       "onboard_time": 1718300113,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23450,
-      "num": 205161,
-      "word": "于和伟问界M9野生销售员",
-      "onboard_time": 1718358679,
-      "rank": 30,
-      "category": "艺人,汽车"
     },
     {
       "raw_hot": 18827,
