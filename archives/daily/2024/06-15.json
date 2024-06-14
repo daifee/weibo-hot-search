@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718385606454,
+  "endTime": 1718386598326,
   "band_list": [
     {
       "raw_hot": 1657955,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121463,
+      "num": 126194,
+      "word": "建议应届生简历不要随便发给小公司",
+      "onboard_time": 1718384834,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117651,
       "num": 212537,
       "word": "第一次在鱼脸上看到了无语的表情",
@@ -387,14 +395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87221,
-      "num": 126194,
-      "word": "建议应届生简历不要随便发给小公司",
-      "onboard_time": 1718384834,
-      "rank": 27,
-      "category": "情感"
-    },
-    {
       "raw_hot": 85465,
       "num": 85465,
       "word": "易烊千玺也吃到了浦东机场的苦",
@@ -411,6 +411,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 73629,
+      "num": 118830,
+      "word": "C罗说享受第六次欧洲杯",
+      "onboard_time": 1718383337,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71361,
       "num": 212263,
       "word": "葡萄牙队开启欧洲杯征程",
@@ -419,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67847,
-      "num": 115759,
-      "word": "C罗说享受第六次欧洲杯",
-      "onboard_time": 1718383337,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 69598,
+      "num": 103457,
+      "word": "行政叫我以后不要穿睡裤上班",
+      "onboard_time": 1718384834,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 65571,
@@ -443,15 +451,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55091,
-      "num": 103457,
-      "word": "行政叫我以后不要穿睡裤上班",
-      "onboard_time": 1718384834,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 58345,
+      "num": 79377,
+      "word": "那英不紧张了",
+      "onboard_time": 1718367799,
+      "rank": 43,
+      "category": "综艺"
     },
     {
-      "raw_hot": 50793,
+      "raw_hot": 55016,
+      "num": 134094,
+      "word": "姜萍说非要选的话更偏向服装设计",
+      "onboard_time": 1718383696,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 52643,
       "num": 85069,
       "word": "欧洲杯24队实力榜",
       "onboard_time": 1718384056,
@@ -459,7 +475,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46191,
+      "raw_hot": 48249,
       "num": 85051,
       "word": "欧洲杯",
       "onboard_time": 1718349260,
@@ -467,12 +483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30582,
-      "num": 134094,
-      "word": "姜萍说非要选的话更偏向服装设计",
-      "onboard_time": 1718383696,
+      "raw_hot": 34950,
+      "num": 79301,
+      "word": "原来大学毕业后可以有这么多选择",
+      "onboard_time": 1718386514,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 8774,
+      "num": 131901,
+      "word": "值得被写进作文里的美好瞬间",
+      "onboard_time": 1718385614,
       "rank": 9,
-      "category": "社会新闻,教育"
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
