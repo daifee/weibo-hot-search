@@ -1,0 +1,410 @@
+{
+  "runTime": 1718357696333,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3889445,
+        "num": 3889445,
+        "word": "赖冠霖 退圈",
+        "onboard_time": 1718348478,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1410725,
+        "num": 1410725,
+        "word": "江苏大学",
+        "onboard_time": 1718349381,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54234,
+        "num": 762143,
+        "word": "好评中国",
+        "onboard_time": 1718355619,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580625,
+        "num": 580625,
+        "word": "直系亲属不能互相输血",
+        "onboard_time": 1718353819,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515697,
+        "num": 515697,
+        "word": "台独闹腾得越凶灭亡得越快",
+        "onboard_time": 1718355439,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 688115,
+        "num": 512977,
+        "word": "赖冠霖 本人将转变赛道",
+        "onboard_time": 1718348838,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656038,
+        "num": 512123,
+        "word": "张艺兴 五胎来了",
+        "onboard_time": 1718343677,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 651788,
+        "num": 510022,
+        "word": "六公主发的周也",
+        "onboard_time": 1718357120,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506887,
+        "num": 506887,
+        "word": "姜萍老师称其最好申请到常熟理工",
+        "onboard_time": 1718351419,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372053,
+        "num": 372053,
+        "word": "洞洞鞋鼻祖一年卖了200亿",
+        "onboard_time": 1718355138,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826740,
+        "num": 370277,
+        "word": "赖冠霖 行行干破防",
+        "onboard_time": 1718356340,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534412,
+        "num": 364757,
+        "word": "这英 歌手",
+        "onboard_time": 1718354119,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506363,
+        "num": 358603,
+        "word": "英男子性行为时偷摘避孕套被判4年",
+        "onboard_time": 1718341039,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396942,
+        "num": 353198,
+        "word": "吴露可逃 无露可涛",
+        "onboard_time": 1718354659,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348864,
+        "num": 348864,
+        "word": "王星越不舍得挂吴谨言电话",
+        "onboard_time": 1718353100,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273724,
+        "num": 273724,
+        "word": "古茗就与恋与深空联名致歉",
+        "onboard_time": 1718353460,
+        "rank": 15,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 256821,
+        "num": 256821,
+        "word": "网传银行女职员拍视频深情表白行长",
+        "onboard_time": 1718345121,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242022,
+        "num": 242022,
+        "word": "姜萍 爽文大女主",
+        "onboard_time": 1718354420,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175956,
+        "num": 241341,
+        "word": "华为客服回应牛肉卖断货",
+        "onboard_time": 1718356099,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 172184,
+        "num": 240500,
+        "word": "同济大学发博祝贺姜萍",
+        "onboard_time": 1718343978,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79277,
+        "num": 239742,
+        "word": "关于献血这些你要知道",
+        "onboard_time": 1718357539,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 375405,
+        "num": 238609,
+        "word": "货拉拉司机送完货反手举报了货主",
+        "onboard_time": 1718351600,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762686,
+        "num": 237825,
+        "word": "苗苗郭碧婷 幼儿园最好的朋友",
+        "onboard_time": 1718354479,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 340371,
+        "num": 237042,
+        "word": "手机免密支付1岁娃误点120杯柠檬水",
+        "onboard_time": 1718345539,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336334,
+        "num": 236485,
+        "word": "恋爱兄妹 癫",
+        "onboard_time": 1718350280,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285705,
+        "num": 234669,
+        "word": "田雨回应王启年女儿王霸小名争议",
+        "onboard_time": 1718356520,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277322,
+        "num": 234590,
+        "word": "刘雅瑟眼睛被炸伤",
+        "onboard_time": 1718348598,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258033,
+        "num": 232966,
+        "word": "长期吃轻食的人都怎么样了",
+        "onboard_time": 1718345121,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242067,
+        "num": 232736,
+        "word": "野孩子",
+        "onboard_time": 1718355138,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231876,
+        "num": 231876,
+        "word": "赵丽颖草莓大福",
+        "onboard_time": 1718354659,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219379,
+        "num": 219379,
+        "word": "爸爸在市场两百多块买的小狗",
+        "onboard_time": 1718355980,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212203,
+        "num": 212203,
+        "word": "汪苏泷 奢香夫人",
+        "onboard_time": 1718341820,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210815,
+        "num": 210815,
+        "word": "奔跑吧 姚PD",
+        "onboard_time": 1718340199,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181246,
+        "num": 181246,
+        "word": "章昊大学毕业",
+        "onboard_time": 1718354059,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178932,
+        "num": 178932,
+        "word": "多所高校互动姜萍",
+        "onboard_time": 1718356939,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 172314,
+        "num": 172314,
+        "word": "赵丽颖 赵满楼",
+        "onboard_time": 1718345958,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144343,
+        "num": 144343,
+        "word": "姜萍回应拿下数学竞赛全球12名",
+        "onboard_time": 1718345298,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130269,
+        "num": 130269,
+        "word": "欧洲杯",
+        "onboard_time": 1718349260,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129216,
+        "num": 129216,
+        "word": "陈丽君陈昊宇 be",
+        "onboard_time": 1718351300,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128280,
+        "num": 128280,
+        "word": "饿了么免单",
+        "onboard_time": 1718329217,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144149,
+        "num": 127805,
+        "word": "赵丽颖已读乱回",
+        "onboard_time": 1718351600,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127245,
+        "num": 127245,
+        "word": "天才少女",
+        "onboard_time": 1718336357,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126916,
+        "num": 126916,
+        "word": "TCG拒绝让二追三",
+        "onboard_time": 1718357359,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119461,
+        "num": 119461,
+        "word": "何洁四公第一名",
+        "onboard_time": 1718350940,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115026,
+        "num": 115026,
+        "word": "易烊千玺到米兰",
+        "onboard_time": 1718354479,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114361,
+        "num": 114361,
+        "word": "福宝想爬树",
+        "onboard_time": 1718349560,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113750,
+        "num": 113750,
+        "word": "姜若瑶从恶女中觉醒",
+        "onboard_time": 1718354179,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105988,
+        "num": 105988,
+        "word": "李玟二姐回应王力宏致敬被质疑",
+        "onboard_time": 1718348659,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102963,
+        "num": 102963,
+        "word": "这是一个父亲最接受不了的画面",
+        "onboard_time": 1718346919,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100861,
+        "num": 100861,
+        "word": "学数学我们是专业的",
+        "onboard_time": 1718355798,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席阐释全球发展的中国方案#"
+    }
+  }
+}
