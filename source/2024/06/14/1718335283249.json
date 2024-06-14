@@ -1,0 +1,410 @@
+{
+  "runTime": 1718335283249,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1373844,
+        "num": 1373844,
+        "word": "姜萍",
+        "onboard_time": 1718278819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018582,
+        "num": 1018582,
+        "word": "张百乔发文回应",
+        "onboard_time": 1718331318,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41164,
+        "num": 849931,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757544,
+        "num": 757544,
+        "word": "赵丽颖钻石鎏金裙",
+        "onboard_time": 1718333237,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 694856,
+        "num": 694856,
+        "word": "姜萍老师数学竞赛全球125名",
+        "onboard_time": 1718329699,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496950,
+        "num": 496950,
+        "word": "中国大熊猫保护研究中心报警",
+        "onboard_time": 1718330237,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665850,
+        "num": 496412,
+        "word": "张颂文不喜欢男tony做造型",
+        "onboard_time": 1718331677,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465373,
+        "num": 465373,
+        "word": "饿了么免单",
+        "onboard_time": 1718329217,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 601046,
+        "num": 460776,
+        "word": "赵丽颖辛芷蕾背后抱",
+        "onboard_time": 1718334677,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61824,
+        "num": 431155,
+        "word": "被偷看日记的孩子能和家长和解吗",
+        "onboard_time": 1718333537,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569089,
+        "num": 431026,
+        "word": "5岁女童疑遭老头猥亵摸屁股",
+        "onboard_time": 1718329037,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430207,
+        "num": 430207,
+        "word": "曾年入百万槟榔种植户现收入为0",
+        "onboard_time": 1718328738,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413386,
+        "num": 413386,
+        "word": "小米SU7已交付20000台",
+        "onboard_time": 1718332038,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 393039,
+        "num": 393039,
+        "word": "男子晒办公室自拍被间谍盯上",
+        "onboard_time": 1718324238,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377515,
+        "num": 377515,
+        "word": "造谣公司用AI一天写谣言7000篇",
+        "onboard_time": 1718327417,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364799,
+        "num": 364799,
+        "word": "原来6月既是开始又是结束",
+        "onboard_time": 1718334259,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 340568,
+        "num": 340568,
+        "word": "电影乔妍的心事官宣海报",
+        "onboard_time": 1718332698,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303035,
+        "num": 303035,
+        "word": "教资面试成绩",
+        "onboard_time": 1718330777,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 294388,
+        "num": 294388,
+        "word": "欧洲杯 夺冠热门",
+        "onboard_time": 1718333598,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257797,
+        "num": 257797,
+        "word": "林更新这个真骂不了",
+        "onboard_time": 1718286138,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1132942,
+        "num": 255791,
+        "word": "人最不怕冷的器官是哪个",
+        "onboard_time": 1718329158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 267476,
+        "num": 252769,
+        "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
+        "onboard_time": 1718293817,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248755,
+        "num": 248755,
+        "word": "姜萍的梦想是浙大",
+        "onboard_time": 1718332337,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236294,
+        "num": 236294,
+        "word": "水果真的越来越甜了",
+        "onboard_time": 1718331377,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227543,
+        "num": 227543,
+        "word": "尚雯婕去歌手不坐飞机的原因",
+        "onboard_time": 1718320575,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131760,
+        "num": 220072,
+        "word": "为什么低温鲜奶更好喝",
+        "onboard_time": 1718334137,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 215899,
+        "num": 215899,
+        "word": "马斯克承诺明年开始限量生产擎天柱",
+        "onboard_time": 1718325319,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 207615,
+        "num": 207615,
+        "word": "深圳暴雨",
+        "onboard_time": 1718328977,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204337,
+        "num": 204337,
+        "word": "赵丽颖人生六宫格",
+        "onboard_time": 1718334137,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199203,
+        "num": 199203,
+        "word": "朱珠 感情中没有对错只有选择",
+        "onboard_time": 1718327299,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187500,
+        "num": 187500,
+        "word": "TMEA官宣阵容",
+        "onboard_time": 1718332938,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 179185,
+        "num": 179185,
+        "word": "姜萍的目标是考大学学服装设计",
+        "onboard_time": 1718331258,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173062,
+        "num": 173062,
+        "word": "MCN机构用AI造谣被曝光",
+        "onboard_time": 1718331017,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197749,
+        "num": 172012,
+        "word": "乔妍的心事换头像封面",
+        "onboard_time": 1718334978,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168282,
+        "num": 168282,
+        "word": "实现了20年前给爸爸的承诺",
+        "onboard_time": 1718334078,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166237,
+        "num": 166237,
+        "word": "2024年还剩200天",
+        "onboard_time": 1718321055,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165617,
+        "num": 165617,
+        "word": "辽宁两人遭雷击瞬间倒地",
+        "onboard_time": 1718334436,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159800,
+        "num": 159800,
+        "word": "LV一对一直播卖包讨好中国消费者",
+        "onboard_time": 1718335038,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157110,
+        "num": 157110,
+        "word": "原来老师才是那个被留下的孩子",
+        "onboard_time": 1718320216,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152855,
+        "num": 152855,
+        "word": "TheShy谈陪玩",
+        "onboard_time": 1718331677,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151142,
+        "num": 151142,
+        "word": "孙楠清唱张杰的勿忘心安",
+        "onboard_time": 1718334857,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149704,
+        "num": 149704,
+        "word": "电商大促持续一个月真的合适吗",
+        "onboard_time": 1718332938,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149030,
+        "num": 149030,
+        "word": "严浩翔贺峻霖他只是经过舞台",
+        "onboard_time": 1718332578,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140276,
+        "num": 140276,
+        "word": "白鹿新歌谁是你朋友跑男首唱",
+        "onboard_time": 1718334620,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139532,
+        "num": 139532,
+        "word": "易烊千玺机场",
+        "onboard_time": 1718322738,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139359,
+        "num": 139359,
+        "word": "网曝锦州北站两撑伞男子遭遇雷击",
+        "onboard_time": 1718329636,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134460,
+        "num": 134460,
+        "word": "200毫升血液3分钟即可采集完成",
+        "onboard_time": 1718323218,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128475,
+        "num": 128475,
+        "word": "三本学生考公要做好多年备考的决心",
+        "onboard_time": 1718297354,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126357,
+        "num": 126357,
+        "word": "恋与深空 古茗",
+        "onboard_time": 1718323818,
+        "rank": 48,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 42991,
+        "num": 126041,
+        "word": "你看过爸爸的体检报告吗",
+        "onboard_time": 1718335158,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造和平发展的国际环境#"
+    }
+  }
+}

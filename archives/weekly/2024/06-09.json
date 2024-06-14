@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718333124050,
+  "endTime": 1718335283249,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -603,6 +603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1132942,
+      "num": 255791,
+      "word": "人最不怕冷的器官是哪个",
+      "onboard_time": 1718329158,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1131089,
       "num": 524362,
       "word": "曝芒果某节目制片人性骚扰",
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1018582,
+      "num": 1018582,
+      "word": "张百乔发文回应",
+      "onboard_time": 1718331318,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1012793,
       "num": 464109,
       "word": "徐海乔经纪人",
@@ -793,14 +809,6 @@
       "onboard_time": 1718112020,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 997168,
-      "num": 232198,
-      "word": "人最不怕冷的器官是哪个",
-      "onboard_time": 1718329158,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 996952,
@@ -1228,7 +1236,7 @@
     },
     {
       "raw_hot": 776011,
-      "num": 424602,
+      "num": 431026,
       "word": "5岁女童疑遭老头猥亵摸屁股",
       "onboard_time": 1718329037,
       "rank": 33,
@@ -1289,6 +1297,14 @@
       "onboard_time": 1717924638,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 757544,
+      "num": 757544,
+      "word": "赵丽颖钻石鎏金裙",
+      "onboard_time": 1718333237,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 755629,
@@ -1563,6 +1579,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 694856,
+      "num": 694856,
+      "word": "姜萍老师数学竞赛全球125名",
+      "onboard_time": 1718329699,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 690029,
       "num": 214984,
       "word": "张翰当伴郎",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1718114720,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 665850,
+      "num": 496412,
+      "word": "张颂文不喜欢男tony做造型",
+      "onboard_time": 1718331677,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 665086,
@@ -1939,14 +1971,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 618620,
-      "num": 618620,
-      "word": "张百乔发文回应",
-      "onboard_time": 1718331318,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 612853,
       "num": 612853,
       "word": "猫眼 放票",
@@ -1995,12 +2019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 600478,
-      "num": 600478,
-      "word": "姜萍老师数学竞赛全球125名",
-      "onboard_time": 1718329699,
-      "rank": 4,
-      "category": "社会新闻"
+      "raw_hot": 601046,
+      "num": 460776,
+      "word": "赵丽颖辛芷蕾背后抱",
+      "onboard_time": 1718334677,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 598319,
@@ -2683,6 +2707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496950,
+      "num": 496950,
+      "word": "中国大熊猫保护研究中心报警",
+      "onboard_time": 1718330237,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496528,
       "num": 496528,
       "word": "FPX小老虎不打了",
@@ -2737,14 +2769,6 @@
       "onboard_time": 1718253260,
       "rank": 19,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 486569,
-      "num": 486569,
-      "word": "中国大熊猫保护研究中心报警",
-      "onboard_time": 1718330237,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484386,
@@ -2883,14 +2907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474763,
-      "num": 474763,
-      "word": "张颂文不喜欢男tony做造型",
-      "onboard_time": 1718331677,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 474261,
       "num": 474261,
       "word": "现在的年轻人真的很可怜",
@@ -3025,6 +3041,14 @@
       "onboard_time": 1718098758,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465373,
+      "num": 465373,
+      "word": "饿了么免单",
+      "onboard_time": 1718329217,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 463741,
@@ -3497,6 +3521,14 @@
       "onboard_time": 1717936997,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 413386,
+      "num": 413386,
+      "word": "小米SU7已交付20000台",
+      "onboard_time": 1718332038,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 413241,
@@ -3987,6 +4019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 364799,
+      "num": 364799,
+      "word": "原来6月既是开始又是结束",
+      "onboard_time": 1718334259,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 364477,
       "num": 267845,
       "word": "言承旭自曝和仇人上节目",
@@ -4001,14 +4041,6 @@
       "onboard_time": 1718285719,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 363362,
-      "num": 363362,
-      "word": "饿了么免单",
-      "onboard_time": 1718329217,
-      "rank": 28,
-      "category": "美食"
     },
     {
       "raw_hot": 363236,
@@ -4369,6 +4401,14 @@
       "onboard_time": 1718177899,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 340568,
+      "num": 340568,
+      "word": "电影乔妍的心事官宣海报",
+      "onboard_time": 1718332698,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 340257,
@@ -5129,6 +5169,14 @@
       "onboard_time": 1718196379,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294388,
+      "num": 294388,
+      "word": "欧洲杯 夺冠热门",
+      "onboard_time": 1718333598,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 294190,
@@ -5979,6 +6027,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 248755,
+      "num": 248755,
+      "word": "姜萍的梦想是浙大",
+      "onboard_time": 1718332337,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248749,
       "num": 248749,
       "word": "你好星期六浪姐限时摇人",
@@ -6307,6 +6363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236294,
+      "num": 236294,
+      "word": "水果真的越来越甜了",
+      "onboard_time": 1718331377,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 236094,
       "num": 236094,
       "word": "Jennie派对热舞",
@@ -6465,14 +6529,6 @@
       "onboard_time": 1717974673,
       "rank": 15,
       "category": "情感"
-    },
-    {
-      "raw_hot": 228132,
-      "num": 215664,
-      "word": "水果真的越来越甜了",
-      "onboard_time": 1718331377,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 227932,
@@ -6785,14 +6841,6 @@
       "onboard_time": 1718154499,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 215036,
-      "num": 215036,
-      "word": "小米SU7已交付20000台",
-      "onboard_time": 1718332038,
-      "rank": 30,
-      "category": "汽车"
     },
     {
       "raw_hot": 214995,
@@ -7347,6 +7395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204337,
+      "num": 204337,
+      "word": "赵丽颖人生六宫格",
+      "onboard_time": 1718334137,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 204335,
       "num": 204335,
       "word": "原来爱豆是可以喊回来安可的",
@@ -7531,14 +7587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 200966,
-      "num": 200966,
-      "word": "电影乔妍的心事官宣海报",
-      "onboard_time": 1718332698,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 200720,
       "num": 182534,
       "word": "极限挑战",
@@ -7705,6 +7753,14 @@
       "onboard_time": 1718238740,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197749,
+      "num": 172012,
+      "word": "乔妍的心事换头像封面",
+      "onboard_time": 1718334978,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 196711,
@@ -8265,6 +8321,14 @@
       "onboard_time": 1717945460,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187500,
+      "num": 187500,
+      "word": "TMEA官宣阵容",
+      "onboard_time": 1718332938,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 187498,
@@ -8835,14 +8899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177276,
-      "num": 177276,
-      "word": "姜萍的梦想是浙大",
-      "onboard_time": 1718332337,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177078,
       "num": 177078,
       "word": "陈雨菲女单夺冠",
@@ -9195,6 +9251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168282,
+      "num": 168282,
+      "word": "实现了20年前给爸爸的承诺",
+      "onboard_time": 1718334078,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168093,
       "num": 208899,
       "word": "欧洲股市狂跌",
@@ -9323,6 +9387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165617,
+      "num": 165617,
+      "word": "辽宁两人遭雷击瞬间倒地",
+      "onboard_time": 1718334436,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165366,
       "num": 165366,
       "word": "星穹铁道流萤",
@@ -9337,14 +9409,6 @@
       "onboard_time": 1718194698,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165071,
-      "num": 165071,
-      "word": "TMEA官宣阵容",
-      "onboard_time": 1718332938,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 165038,
@@ -9665,6 +9729,14 @@
       "onboard_time": 1717914197,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159800,
+      "num": 159800,
+      "word": "LV一对一直播卖包讨好中国消费者",
+      "onboard_time": 1718335038,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159796,
@@ -10283,6 +10355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151142,
+      "num": 151142,
+      "word": "孙楠清唱张杰的勿忘心安",
+      "onboard_time": 1718334857,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150953,
       "num": 575107,
       "word": "毛不易现场",
@@ -10353,6 +10433,14 @@
       "onboard_time": 1718333058,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149704,
+      "num": 149704,
+      "word": "电商大促持续一个月真的合适吗",
+      "onboard_time": 1718332938,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 149694,
@@ -10811,14 +10899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 141884,
-      "num": 141884,
-      "word": "电商大促持续一个月真的合适吗",
-      "onboard_time": 1718332938,
-      "rank": 42,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 141832,
       "num": 227392,
       "word": "假如大熊猫建了个群",
@@ -10921,6 +11001,14 @@
       "onboard_time": 1718104037,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140276,
+      "num": 140276,
+      "word": "白鹿新歌谁是你朋友跑男首唱",
+      "onboard_time": 1718334620,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 140265,
@@ -11561,6 +11649,14 @@
       "onboard_time": 1718163796,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131760,
+      "num": 220072,
+      "word": "为什么低温鲜奶更好喝",
+      "onboard_time": 1718334137,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 131725,
@@ -14347,6 +14443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61824,
+      "num": 431155,
+      "word": "被偷看日记的孩子能和家长和解吗",
+      "onboard_time": 1718333537,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 61799,
       "num": 61799,
       "word": "WWDC24演讲要点汇总",
@@ -15049,6 +15153,14 @@
       "onboard_time": 1718010617,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42991,
+      "num": 126041,
+      "word": "你看过爸爸的体检报告吗",
+      "onboard_time": 1718335158,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 42977,
