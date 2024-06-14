@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718328020100,
+  "endTime": 1718329290836,
   "band_list": [
     {
       "raw_hot": 1654639,
@@ -75,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 519592,
+      "num": 519592,
+      "word": "马斯克承诺明年开始限量生产擎天柱",
+      "onboard_time": 1718325319,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 466841,
       "num": 466841,
       "word": "齐思钧手术",
@@ -123,14 +131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368505,
-      "num": 368505,
-      "word": "马斯克承诺明年开始限量生产擎天柱",
-      "onboard_time": 1718325319,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 361950,
       "num": 230765,
       "word": "韩国女子20年前遭集体性侵",
@@ -177,6 +177,14 @@
       "onboard_time": 1718321055,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329406,
+      "num": 329406,
+      "word": "朱珠 感情中没有对错只有选择",
+      "onboard_time": 1718327299,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 318747,
@@ -235,20 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265490,
+      "num": 265490,
+      "word": "深圳多家银行超5万元取款需预约",
+      "onboard_time": 1718326038,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260452,
+      "num": 260452,
+      "word": "曾年入百万槟榔种植户现收入为0",
+      "onboard_time": 1718328738,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249646,
       "num": 177041,
       "word": "刘亦菲蓝色泳装",
       "onboard_time": 1718282418,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243132,
-      "num": 243132,
-      "word": "深圳多家银行超5万元取款需预约",
-      "onboard_time": 1718326038,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243056,
@@ -299,12 +315,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203090,
-      "num": 203090,
-      "word": "朱珠 感情中没有对错只有选择",
-      "onboard_time": 1718327299,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 209107,
+      "num": 209107,
+      "word": "吴奇隆看时代少年团舞台想起小虎队",
+      "onboard_time": 1718328017,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206102,
+      "num": 319701,
+      "word": "槟榔之乡8成槟榔树染病",
+      "onboard_time": 1718327598,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202984,
+      "num": 202984,
+      "word": "JackeyLove谈明年在不在TES",
+      "onboard_time": 1718328797,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 195299,
@@ -313,6 +345,14 @@
       "onboard_time": 1718320816,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 190634,
+      "num": 190634,
+      "word": "饿了么免单",
+      "onboard_time": 1718329217,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 190146,
@@ -331,6 +371,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 176463,
+      "num": 176463,
+      "word": "深圳暴雨",
+      "onboard_time": 1718328977,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175168,
       "num": 175168,
       "word": "王健林王思聪父子重回创富榜前十",
@@ -345,6 +393,22 @@
       "onboard_time": 1718326818,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164593,
+      "num": 164593,
+      "word": "造谣公司用AI一天写谣言7000篇",
+      "onboard_time": 1718327417,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161663,
+      "num": 161663,
+      "word": "5岁女童疑遭老头猥亵摸屁股",
+      "onboard_time": 1718329037,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160170,
@@ -395,28 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 151535,
-      "num": 151535,
-      "word": "槟榔之乡8成槟榔树染病",
-      "onboard_time": 1718327598,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 150015,
       "num": 120313,
       "word": "王一博更新iG",
       "onboard_time": 1718290341,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142405,
-      "num": 142405,
-      "word": "造谣公司用AI一天写谣言7000篇",
-      "onboard_time": 1718327417,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139155,
@@ -449,6 +497,14 @@
       "onboard_time": 1718323577,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 133715,
+      "num": 133715,
+      "word": "我突然看得懂粤语了",
+      "onboard_time": 1718328738,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 133318,
@@ -491,6 +547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122120,
+      "num": 122120,
+      "word": "人最不怕冷的器官是哪个",
+      "onboard_time": 1718329158,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119661,
       "num": 119661,
       "word": "玫瑰的故事直播",
@@ -513,6 +577,14 @@
       "onboard_time": 1718326158,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 115891,
+      "num": 381852,
+      "word": "不被定义的人生谁都可以是黑马",
+      "onboard_time": 1718326997,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112974,
@@ -561,6 +633,14 @@
       "onboard_time": 1718326877,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104134,
+      "num": 104134,
+      "word": "余景天王玉雯热舞",
+      "onboard_time": 1718328620,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 102164,
@@ -649,14 +729,6 @@
       "onboard_time": 1718287038,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84656,
-      "num": 381852,
-      "word": "不被定义的人生谁都可以是黑马",
-      "onboard_time": 1718326997,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81560,
