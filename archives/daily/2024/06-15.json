@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718407149897,
+  "endTime": 1718408151089,
   "band_list": [
     {
       "raw_hot": 1657955,
@@ -17,6 +17,14 @@
       "onboard_time": 1718359278,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1412611,
+      "num": 744090,
+      "word": "六公主发视频自证有官方拍摄标志",
+      "onboard_time": 1718406493,
+      "rank": 1,
+      "category": "艺人"
     },
     {
       "raw_hot": 1321629,
@@ -43,15 +51,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 880066,
-      "num": 861453,
-      "word": "恋爱兄妹最终情侣",
-      "onboard_time": 1718379919,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 852543,
+      "raw_hot": 944405,
       "num": 852543,
       "word": "杭州女子孕期同房出血紧急就医",
       "onboard_time": 1718406554,
@@ -59,12 +59,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 744090,
-      "num": 744090,
-      "word": "六公主发视频自证有官方拍摄标志",
-      "onboard_time": 1718406493,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 880066,
+      "num": 861453,
+      "word": "恋爱兄妹最终情侣",
+      "onboard_time": 1718379919,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 698366,
@@ -97,6 +97,14 @@
       "onboard_time": 1718372784,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 597816,
+      "num": 377197,
+      "word": "焉栩嘉上岸了",
+      "onboard_time": 1718406735,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 588305,
@@ -139,19 +147,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429944,
+      "num": 429944,
+      "word": "郝蕾表演课不招收纯素人",
+      "onboard_time": 1718388133,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424332,
       "num": 261075,
       "word": "王力宏方请辞金曲奖表演",
       "onboard_time": 1718376803,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 420477,
-      "num": 420477,
-      "word": "郝蕾表演课不招收纯素人",
-      "onboard_time": 1718388133,
-      "rank": 27,
       "category": "艺人"
     },
     {
@@ -161,14 +169,6 @@
       "onboard_time": 1718369001,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 377197,
-      "num": 377197,
-      "word": "焉栩嘉上岸了",
-      "onboard_time": 1718406735,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 370161,
@@ -211,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254716,
+      "num": 167113,
+      "word": "董宇辉直播永乐宫遭多人投诉",
+      "onboard_time": 1718366958,
+      "rank": 12,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 252890,
       "num": 252890,
       "word": "尚雯婕冲榜失败",
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 237938,
-      "num": 152966,
+      "num": 163224,
       "word": "沙特阿拉伯不续签石油美元协议",
       "onboard_time": 1718394851,
       "rank": 17,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 228884,
+      "num": 148417,
+      "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
+      "onboard_time": 1718398270,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222969,
@@ -265,22 +281,6 @@
       "onboard_time": 1718379381,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197620,
-      "num": 150493,
-      "word": "董宇辉直播永乐宫遭多人投诉",
-      "onboard_time": 1718366958,
-      "rank": 12,
-      "category": "网红,互联网"
-    },
-    {
-      "raw_hot": 197446,
-      "num": 69945,
-      "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
-      "onboard_time": 1718398270,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192116,
@@ -313,6 +313,14 @@
       "onboard_time": 1718367560,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 176398,
+      "num": 147098,
+      "word": "工作后发现5000块真的挺难挣",
+      "onboard_time": 1718406675,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 175745,
@@ -363,6 +371,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 160651,
+      "num": 160651,
+      "word": "世界第二又来了",
+      "onboard_time": 1718407215,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159812,
       "num": 255414,
       "word": "韦神曾获姜萍参加竞赛第一届金奖",
@@ -371,8 +387,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152788,
+      "num": 144850,
+      "word": "歌手",
+      "onboard_time": 1718407335,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152482,
-      "num": 141931,
+      "num": 150551,
       "word": "主人每次离开两秒小鸭子就要爆炸",
       "onboard_time": 1718397191,
       "rank": 48,
@@ -387,6 +411,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146578,
+      "num": 98428,
+      "word": "袁娅维得继续请假了",
+      "onboard_time": 1718406613,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 144173,
+      "num": 144173,
+      "word": "刘惜君为了压过原唱使了大劲",
+      "onboard_time": 1718387294,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140312,
       "num": 213038,
       "word": "化妆的意义在此刻具象化了",
@@ -395,20 +435,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 137269,
-      "num": 134860,
-      "word": "刘惜君为了压过原唱使了大劲",
-      "onboard_time": 1718387294,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 126644,
       "num": 212399,
       "word": "陈丽君选戚薇吧她快碎了",
       "onboard_time": 1718382677,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124408,
+      "num": 124408,
+      "word": "肖战普罗旺斯",
+      "onboard_time": 1718407935,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 121463,
@@ -435,11 +475,27 @@
       "category": "情感"
     },
     {
-      "raw_hot": 106878,
-      "num": 61144,
+      "raw_hot": 109400,
+      "num": 109400,
       "word": "尚雯婕退出白金娱乐公司",
       "onboard_time": 1718402592,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98346,
+      "num": 103457,
+      "word": "行政叫我以后不要穿睡裤上班",
+      "onboard_time": 1718384834,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 98153,
+      "num": 98153,
+      "word": "肖战山城暴走vlog",
+      "onboard_time": 1718406855,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -483,38 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88948,
-      "num": 103457,
-      "word": "行政叫我以后不要穿睡裤上班",
-      "onboard_time": 1718384834,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 88546,
-      "num": 55362,
-      "word": "工作后发现5000块真的挺难挣",
-      "onboard_time": 1718406675,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 87128,
-      "num": 55009,
-      "word": "袁娅维得继续请假了",
-      "onboard_time": 1718406613,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 85930,
-      "num": 54333,
-      "word": "肖战山城暴走vlog",
-      "onboard_time": 1718406855,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 85465,
       "num": 85465,
       "word": "易烊千玺也吃到了浦东机场的苦",
@@ -523,8 +547,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81356,
+      "num": 81356,
+      "word": "找对象的尽头是初中同学",
+      "onboard_time": 1718407935,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 78644,
+      "num": 56948,
+      "word": "那英 再见",
+      "onboard_time": 1718371403,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76874,
-      "num": 53345,
+      "num": 74683,
       "word": "林更新东北人在上海做沪语翻译",
       "onboard_time": 1718402411,
       "rank": 40,
@@ -547,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71615,
+      "num": 98451,
+      "word": "欧洲杯开幕式",
+      "onboard_time": 1718407395,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71361,
       "num": 212263,
       "word": "葡萄牙队开启欧洲杯征程",
@@ -563,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67628,
-      "num": 51447,
-      "word": "那英 再见",
-      "onboard_time": 1718371403,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 66837,
+      "num": 169552,
+      "word": "毕业生携双胞胎亮相校长钱包哇哇哭",
+      "onboard_time": 1718407335,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65571,
@@ -603,12 +651,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57718,
+      "num": 57718,
+      "word": "考上研究生之后的颜值变化",
+      "onboard_time": 1718408056,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 57546,
       "num": 42568,
       "word": "李梦的跪下手机壳仿佛有声音",
       "onboard_time": 1718401151,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56565,
+      "num": 56565,
+      "word": "从小到大以为自己才有的小众喜好",
+      "onboard_time": 1718408115,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56138,
+      "num": 56138,
+      "word": "花了六个小时把萨煤耶洗回萨摩耶",
+      "onboard_time": 1718407694,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 55016,
