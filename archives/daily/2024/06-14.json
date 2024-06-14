@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718374773242,
+  "endTime": 1718375759624,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -75,11 +75,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2971869,
+      "num": 2971869,
+      "word": "歌手排名",
+      "onboard_time": 1718373924,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2598073,
       "num": 903601,
       "word": "尚雯婕低音 好听",
       "onboard_time": 1718369360,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2529550,
+      "num": 2529550,
+      "word": "张钰琪淘汰",
+      "onboard_time": 1718374765,
+      "rank": 4,
       "category": "综艺"
     },
     {
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1843585,
-      "num": 419569,
-      "word": "歌手排名",
-      "onboard_time": 1718373924,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1797039,
       "num": 1797039,
       "word": "英男子性行为时偷摘避孕套被判4年",
@@ -137,6 +145,14 @@
       "onboard_time": 1718278819,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1564342,
+      "num": 551690,
+      "word": "那英 怎么又说你难听",
+      "onboard_time": 1718374524,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 1558020,
@@ -225,14 +241,6 @@
       "onboard_time": 1718358139,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1248238,
-      "num": 253522,
-      "word": "那英 怎么又说你难听",
-      "onboard_time": 1718374524,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 1235178,
@@ -329,6 +337,14 @@
       "onboard_time": 1718341820,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 880412,
+      "num": 251104,
+      "word": "姜萍已达到数学系本科生的水平",
+      "onboard_time": 1718373386,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 826740,
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 633234,
+      "num": 248443,
+      "word": "汪苏泷 泷泷看到热搜了",
+      "onboard_time": 1718374465,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 632878,
       "num": 255848,
       "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
@@ -667,12 +691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 503804,
-      "num": 246170,
-      "word": "姜萍已达到数学系本科生的水平",
-      "onboard_time": 1718373386,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 498574,
+      "num": 245975,
+      "word": "放过汪苏泷",
+      "onboard_time": 1718375063,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 496950,
@@ -931,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 355754,
-      "num": 231366,
-      "word": "汪苏泷 泷泷看到热搜了",
-      "onboard_time": 1718374465,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 354399,
       "num": 354399,
       "word": "易烊千玺机场",
@@ -1131,6 +1147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301730,
+      "num": 252307,
+      "word": "每天吃西瓜尽量别超500克",
+      "onboard_time": 1718371763,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 300748,
       "num": 300748,
       "word": "恋与制作人",
@@ -1243,14 +1267,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 280706,
-      "num": 245954,
-      "word": "每天吃西瓜尽量别超500克",
-      "onboard_time": 1718371763,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 276510,
       "num": 276510,
       "word": "MCN机构用AI造谣被曝光",
@@ -1305,6 +1321,14 @@
       "onboard_time": 1718351300,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 271288,
+      "num": 184641,
+      "word": "黄亦玫方协文亲上了",
+      "onboard_time": 1718374884,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 270789,
@@ -1491,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229503,
+      "num": 180322,
+      "word": "黄宣才第五",
+      "onboard_time": 1718375242,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228316,
       "num": 228316,
       "word": "中专女生爆冷拿下数学竞赛全球12名",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1718343799,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225515,
+      "num": 246924,
+      "word": "各大高校安利自家数学专业",
+      "onboard_time": 1718372725,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224681,
@@ -1763,14 +1803,6 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 199406,
-      "num": 246848,
-      "word": "各大高校安利自家数学专业",
-      "onboard_time": 1718372725,
-      "rank": 28,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 198531,
       "num": 198531,
       "word": "家长选择高考出分前就奖励孩子",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1718374163,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195627,
+      "num": 195627,
+      "word": "中国女排两连胜",
+      "onboard_time": 1718374884,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 195299,
@@ -1987,6 +2027,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 172785,
+      "num": 172785,
+      "word": "KPL",
+      "onboard_time": 1718375183,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 172156,
+      "num": 172156,
+      "word": "体重足有80公斤的英国獒犬",
+      "onboard_time": 1718375363,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 171732,
       "num": 171732,
       "word": "黄亦玫晒丢丢",
@@ -2121,6 +2177,14 @@
       "onboard_time": 1718324478,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158746,
+      "num": 246657,
+      "word": "日本一女子患产后抑郁勒死三个女儿",
+      "onboard_time": 1718374524,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158486,
@@ -2915,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78395,
+      "num": 613737,
+      "word": "姜萍说数学是人生B计划",
+      "onboard_time": 1718370803,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77105,
       "num": 77105,
       "word": "猪肉价格为何突然起飞",
@@ -2995,14 +3067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65424,
-      "num": 298092,
-      "word": "姜萍说数学是人生B计划",
-      "onboard_time": 1718370803,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65253,
       "num": 475565,
       "word": "姜萍是谁",
@@ -3036,7 +3100,7 @@
     },
     {
       "raw_hot": 60863,
-      "num": 228552,
+      "num": 249882,
       "word": "00后出手了老板悬崖营业",
       "onboard_time": 1718374283,
       "rank": 45,
@@ -3081,6 +3145,14 @@
       "onboard_time": 1718316853,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53867,
+      "num": 247306,
+      "word": "命悬一线的时刻你会信任AI吗",
+      "onboard_time": 1718375183,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 52384,
@@ -3233,14 +3305,6 @@
       "onboard_time": 1718300532,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 12856,
-      "num": 246657,
-      "word": "日本一女子患产后抑郁勒死三个女儿",
-      "onboard_time": 1718374524,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11483,
