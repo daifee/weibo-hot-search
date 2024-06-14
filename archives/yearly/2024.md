@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/14 14:39:44
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/14 15:18:43
 </p>
 </blockquote>
 <p>
@@ -623,6 +623,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E6%96%B0%E4%BD%99%E7%81%AB%E7%81%BE39%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 江西新余火灾39人遇难（热度：7473338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%20%E9%80%80%E5%9C%88%23" target="weibo">
+赖冠霖 退圈（热度：7442935）
 </a>
 </li>
 
@@ -1563,6 +1569,12 @@ SM承认柳智敏恋情（热度：4051630）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%20%E6%9C%AC%E4%BA%BA%E5%B0%86%E8%BD%AC%E5%8F%98%E8%B5%9B%E9%81%93%23" target="weibo">
+赖冠霖 本人将转变赛道（热度：3351429）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E8%A2%AB%E5%AE%B3%E7%94%B7%E5%AD%A9%E7%88%B6%E4%BA%B2%E6%80%80%E7%96%91%E5%8F%A6%E6%9C%89%E5%B8%AE%E5%87%B6%23" target="weibo">
 邯郸被害男孩父亲怀疑另有帮凶（热度：3347582）
 </a>
@@ -1799,18 +1811,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%20%E7%A7%92%E6%B2%A1%23" target="weibo">
 12306 秒没（热度：3144358）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AD%90%20%E4%BD%A0%E7%9A%84%E7%BA%A2%E6%9D%A5%E4%BA%86%23" target="weibo">
-英子 你的红来了（热度：3137336）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E5%BC%95%E5%8F%915%E7%B1%B3%E6%B5%B7%E5%95%B8%23" target="weibo">
-日本强震引发5米海啸（热度：3135611）
 </a>
 </li>
 

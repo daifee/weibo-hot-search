@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718347184479,
+  "endTime": 1718349523395,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -817,6 +817,14 @@
       "onboard_time": 1706098652,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7442935,
+      "num": 7442935,
+      "word": "赖冠霖 退圈",
+      "onboard_time": 1718348478,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 7342180,
@@ -2067,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3351429,
+      "num": 364114,
+      "word": "赖冠霖 本人将转变赛道",
+      "onboard_time": 1718348838,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3347582,
       "num": 634636,
       "word": "邯郸被害男孩父亲怀疑另有帮凶",
@@ -2384,22 +2400,6 @@
       "word": "12306 秒没",
       "onboard_time": 1713251296,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3137336,
-      "num": 519550,
-      "word": "英子 你的红来了",
-      "onboard_time": 1715509522,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 3135611,
-      "num": 3135611,
-      "word": "日本强震引发5米海啸",
-      "onboard_time": 1704095075,
-      "rank": 1,
       "category": "社会新闻"
     }
   ],

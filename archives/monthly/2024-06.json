@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718347184479,
+  "endTime": 1718349523395,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -33,6 +33,14 @@
       "onboard_time": 1717836078,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7442935,
+      "num": 7442935,
+      "word": "赖冠霖 退圈",
+      "onboard_time": 1718348478,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 7152439,
@@ -137,6 +145,14 @@
       "onboard_time": 1717731506,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 3351429,
+      "num": 364114,
+      "word": "赖冠霖 本人将转变赛道",
+      "onboard_time": 1718348838,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 3258978,
@@ -1683,6 +1699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1194445,
+      "num": 220320,
+      "word": "手机免密支付1岁娃误点120杯柠檬水",
+      "onboard_time": 1718345539,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1185741,
       "num": 539900,
       "word": "新女团成员上节目被开黄腔",
@@ -2281,14 +2305,6 @@
       "onboard_time": 1718280199,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1031669,
-      "num": 220320,
-      "word": "手机免密支付1岁娃误点120杯柠檬水",
-      "onboard_time": 1718345539,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1031335,
@@ -4827,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664591,
+      "num": 664591,
+      "word": "同济大学发博祝贺姜萍",
+      "onboard_time": 1718343978,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 663803,
       "num": 231498,
       "word": "杭州女子一年内确诊三种癌",
@@ -5195,14 +5219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 636881,
-      "num": 598375,
-      "word": "同济大学发博祝贺姜萍",
-      "onboard_time": 1718343978,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636393,
       "num": 636393,
       "word": "原来6月既是开始又是结束",
@@ -5499,6 +5515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 608805,
+      "num": 328095,
+      "word": "赵丽颖粉色单肩纱裙",
+      "onboard_time": 1718347999,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 606789,
       "num": 606789,
       "word": "法国",
@@ -5593,6 +5617,14 @@
       "onboard_time": 1717555277,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602180,
+      "num": 219364,
+      "word": "长期吃轻食的人都怎么样了",
+      "onboard_time": 1718345121,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 601555,
@@ -6353,14 +6385,6 @@
       "onboard_time": 1718020218,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 550019,
-      "num": 219364,
-      "word": "长期吃轻食的人都怎么样了",
-      "onboard_time": 1718345121,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 549512,
@@ -9235,6 +9259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420371,
+      "num": 420371,
+      "word": "985毕业生反向升学读技校",
+      "onboard_time": 1718345298,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 419519,
       "num": 419519,
       "word": "玫瑰的故事主题曲",
@@ -9857,6 +9889,14 @@
       "onboard_time": 1717221557,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393552,
+      "num": 285715,
+      "word": "刘雅瑟眼睛被炸伤",
+      "onboard_time": 1718348598,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 393476,
@@ -12203,14 +12243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320630,
-      "num": 320630,
-      "word": "985毕业生反向升学读技校",
-      "onboard_time": 1718345298,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 320381,
       "num": 320381,
       "word": "汪苏泷王心凌甜妹合体",
@@ -13515,6 +13547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 288124,
+      "num": 208867,
+      "word": "李玟二姐回应王力宏致敬被质疑",
+      "onboard_time": 1718348659,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287912,
       "num": 287912,
       "word": "黎深九黎司命",
@@ -13643,6 +13683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284327,
+      "num": 284327,
+      "word": "涟水中等专业学校",
+      "onboard_time": 1718347099,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284239,
       "num": 284239,
       "word": "吉林北山公园",
@@ -13657,6 +13705,14 @@
       "onboard_time": 1717823597,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283962,
+      "num": 283962,
+      "word": "娇兰卖780的护肤品实验样本只有11人",
+      "onboard_time": 1718346439,
+      "rank": 19,
+      "category": "美妆"
     },
     {
       "raw_hot": 283839,
@@ -14657,6 +14713,14 @@
       "onboard_time": 1717736423,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262992,
+      "num": 208147,
+      "word": "这是一个父亲最接受不了的画面",
+      "onboard_time": 1718346919,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 262733,
@@ -16011,6 +16075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236734,
+      "num": 432417,
+      "word": "姜萍回应拿下数学竞赛全球12名",
+      "onboard_time": 1718345298,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 236725,
       "num": 236725,
       "word": "苹果降价国产手机提价",
@@ -16835,6 +16907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223796,
+      "num": 216936,
+      "word": "低头玩手机相当于脖子扛大米",
+      "onboard_time": 1718346137,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223544,
       "num": 261038,
       "word": "靠锅气来分辨预制菜已经没用了",
@@ -17017,14 +17097,6 @@
       "onboard_time": 1717543275,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 220748,
-      "num": 220748,
-      "word": "娇兰卖780的护肤品实验样本只有11人",
-      "onboard_time": 1718346439,
-      "rank": 19,
-      "category": "美妆"
     },
     {
       "raw_hot": 220588,
@@ -17361,14 +17433,6 @@
       "onboard_time": 1717679179,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216936,
-      "num": 216936,
-      "word": "低头玩手机相当于脖子扛大米",
-      "onboard_time": 1718346137,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 216903,
@@ -20867,6 +20931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 189547,
+      "num": 189547,
+      "word": "欧洲杯",
+      "onboard_time": 1718269578,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189467,
       "num": 161372,
       "word": "魏大勋石家庄活动",
@@ -21976,6 +22048,14 @@
       "word": "官方通报镇政府收20万押金多年未还",
       "onboard_time": 1718090418,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179963,
+      "num": 179963,
+      "word": "17岁中专女孩是怎么被发现的",
+      "onboard_time": 1718347878,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -24251,6 +24331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 162582,
+      "num": 162582,
+      "word": "刘宇宁吓得假发快掉了",
+      "onboard_time": 1718349199,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162569,
       "num": 162569,
       "word": "NV 伞兵",
@@ -24873,6 +24961,14 @@
       "onboard_time": 1717332198,
       "rank": 49,
       "category": "动漫,体育"
+    },
+    {
+      "raw_hot": 158486,
+      "num": 158486,
+      "word": "赖冠霖什么赛道",
+      "onboard_time": 1718349441,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 158453,
@@ -25603,20 +25699,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153949,
+      "num": 217114,
+      "word": "99%的老爸明明需要但不舍得买",
+      "onboard_time": 1718344999,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153893,
       "num": 299149,
       "word": "王曼昱VS伊藤美诚",
       "onboard_time": 1717165643,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153780,
-      "num": 153780,
-      "word": "这是一个父亲最接受不了的画面",
-      "onboard_time": 1718346919,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 153762,
@@ -26297,6 +26393,14 @@
       "onboard_time": 1717553179,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150023,
+      "num": 150023,
+      "word": "江苏大学",
+      "onboard_time": 1718349381,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150005,
@@ -27361,14 +27465,6 @@
       "onboard_time": 1717824977,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 142765,
-      "num": 217114,
-      "word": "99%的老爸明明需要但不舍得买",
-      "onboard_time": 1718344999,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 142754,
@@ -29275,6 +29371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130945,
+      "num": 130945,
+      "word": "姜萍的故事 比心灵捕手更燃",
+      "onboard_time": 1718348539,
+      "rank": 44,
+      "category": "社会新闻,电影"
+    },
+    {
       "raw_hot": 130930,
       "num": 130930,
       "word": "张新成我要喝手磨咖啡",
@@ -29584,14 +29688,6 @@
       "word": "粽子节快乐",
       "onboard_time": 1718001197,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129182,
-      "num": 432417,
-      "word": "姜萍回应拿下数学竞赛全球12名",
-      "onboard_time": 1718345298,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -30825,14 +30921,6 @@
       "onboard_time": 1718005277,
       "rank": 45,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 121724,
-      "num": 121724,
-      "word": "涟水中等专业学校",
-      "onboard_time": 1718347099,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121662,
@@ -32929,14 +33017,6 @@
       "onboard_time": 1717926858,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108282,
-      "num": 108282,
-      "word": "欧洲杯",
-      "onboard_time": 1718269578,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 108210,
@@ -38705,6 +38785,14 @@
       "onboard_time": 1717415658,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 31129,
+      "num": 296870,
+      "word": "姜萍老师说想尽自己所能做领路人",
+      "onboard_time": 1718349019,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31014,
