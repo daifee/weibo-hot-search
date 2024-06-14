@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718339809379,
+  "endTime": 1718342323942,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -409,6 +409,14 @@
       "onboard_time": 1718274499,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1307557,
+      "num": 683473,
+      "word": "奔跑吧 姚PD",
+      "onboard_time": 1718340199,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1290048,
@@ -2035,6 +2043,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 605362,
+      "num": 445305,
+      "word": "蔡国庆患急性带状疱疹",
+      "onboard_time": 1718341039,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605211,
       "num": 605211,
       "word": "边伯贤 不喜欢我就不要买我的票",
@@ -2240,6 +2256,14 @@
       "word": "玫瑰的故事以爱为营同一造型团队",
       "onboard_time": 1717915758,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 566571,
+      "num": 449082,
+      "word": "星汉灿烂 墨雨云间",
+      "onboard_time": 1718339299,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -3227,6 +3251,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449387,
+      "num": 449387,
+      "word": "天才少女",
+      "onboard_time": 1718336357,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 449166,
+      "num": 445089,
+      "word": "玫瑰的故事 好正常的拍摄手法",
+      "onboard_time": 1718337978,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 448980,
       "num": 448980,
       "word": "刘亦菲替林更新澄清",
@@ -3273,6 +3313,14 @@
       "onboard_time": 1717928117,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 444670,
+      "num": 444670,
+      "word": "17岁中专女生回应和清北选手比赛",
+      "onboard_time": 1718340619,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444571,
@@ -3624,14 +3672,6 @@
       "word": "玫瑰的故事直播",
       "onboard_time": 1718277977,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 403399,
-      "num": 403399,
-      "word": "玫瑰的故事 好正常的拍摄手法",
-      "onboard_time": 1718337978,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -4499,6 +4539,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 339710,
+      "num": 242533,
+      "word": "汪苏泷 奢香夫人",
+      "onboard_time": 1718341820,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339577,
       "num": 339577,
       "word": "天官赐福",
@@ -5115,14 +5163,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301213,
-      "num": 266303,
-      "word": "星汉灿烂 墨雨云间",
-      "onboard_time": 1718339299,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 301102,
       "num": 301102,
       "word": "潮牌Champion为什么不火了",
@@ -5353,14 +5393,6 @@
       "onboard_time": 1718085438,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290652,
-      "num": 290652,
-      "word": "天才少女",
-      "onboard_time": 1718336357,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290014,
@@ -6627,6 +6659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231054,
+      "num": 231054,
+      "word": "网传章子怡赵丽颖新综艺接档歌手",
+      "onboard_time": 1718342297,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230899,
       "num": 230899,
       "word": "马嘉祺刘惜君清唱只要平凡",
@@ -6979,6 +7019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216512,
+      "num": 247769,
+      "word": "韩国医协宣布6月18日全面停诊",
+      "onboard_time": 1718338699,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216425,
       "num": 216425,
       "word": "山东政治 超前思维",
@@ -6995,12 +7043,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216031,
+      "num": 216031,
+      "word": "易烊千玺米兰大屏",
+      "onboard_time": 1718341580,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 215604,
       "num": 215604,
       "word": "WayV初一位",
       "onboard_time": 1718101938,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215589,
+      "num": 215589,
+      "word": "啥cp一嗑能嗑60年",
+      "onboard_time": 1718340379,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 215560,
@@ -7505,6 +7569,14 @@
       "onboard_time": 1718070677,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205258,
+      "num": 205258,
+      "word": "星穹铁道流萤动画",
+      "onboard_time": 1718341158,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 205250,
@@ -8187,6 +8259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193385,
+      "num": 193385,
+      "word": "马嘉祺黑衬衫眼镜杀",
+      "onboard_time": 1718341998,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193371,
       "num": 193371,
       "word": "苹果AI",
@@ -8651,6 +8731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185588,
+      "num": 185588,
+      "word": "辛芷蕾你怎么还摸上耳朵了",
+      "onboard_time": 1718341520,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185445,
       "num": 177434,
       "word": "蒋振邦魏雅欣首夺1000赛冠军",
@@ -8985,6 +9073,14 @@
       "onboard_time": 1718292198,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179579,
+      "num": 179579,
+      "word": "超一半基金公司还没发2023年终奖",
+      "onboard_time": 1718340079,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 179566,
@@ -9457,6 +9553,14 @@
       "onboard_time": 1718103558,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168476,
+      "num": 168476,
+      "word": "天涯明月刀 逆水寒",
+      "onboard_time": 1718341758,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 168390,
@@ -9993,6 +10097,22 @@
       "onboard_time": 1718185939,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159218,
+      "num": 159218,
+      "word": "成都遇害女子其母被曝曾拖欠物业费",
+      "onboard_time": 1718342178,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159167,
+      "num": 205638,
+      "word": "英男子性行为时偷摘避孕套被判4年",
+      "onboard_time": 1718341039,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159154,
@@ -14523,12 +14643,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 70964,
+      "num": 445434,
+      "word": "贵阳被曝某区无划片学校上学靠捡漏",
+      "onboard_time": 1718341212,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70347,
       "num": 80651,
       "word": "用线勒死皮肤上的小肉粒不可取",
       "onboard_time": 1717866375,
       "rank": 36,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 69849,
+      "num": 182124,
+      "word": "羲和号又有新发现",
+      "onboard_time": 1718339959,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69495,
@@ -15915,6 +16051,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 25507,
+      "num": 687487,
+      "word": "三星堆这三兄弟仿佛在鼓掌",
+      "onboard_time": 1718341940,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25369,
       "num": 202401,
       "word": "邓超是懂如何宠粉的",
@@ -16008,14 +16152,6 @@
       "word": "炎炎夏日谢谢他们的坚守",
       "onboard_time": 1718176521,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20836,
-      "num": 247769,
-      "word": "韩国医协宣布6月18日全面停诊",
-      "onboard_time": 1718338699,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -16429,6 +16565,9 @@
     },
     {
       "word": "#营造和平发展的国际环境#"
+    },
+    {
+      "word": "#习近平主席阐释全球发展的中国方案#"
     }
   ]
 }
