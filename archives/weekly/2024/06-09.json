@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718338986319,
+  "endTime": 1718339809379,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -435,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272015,
+      "num": 1272015,
+      "word": "美国4黑人入侵华人豪宅遭开枪击退",
+      "onboard_time": 1718333718,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1262905,
       "num": 1262905,
       "word": "韩国没有了五花肉自由",
@@ -513,14 +521,6 @@
       "onboard_time": 1718280858,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1214052,
-      "num": 1214052,
-      "word": "美国4黑人入侵华人豪宅遭开枪击退",
-      "onboard_time": 1718333718,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1208397,
@@ -1699,6 +1699,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 674561,
+      "num": 674561,
+      "word": "我可以是你吗姐姐",
+      "onboard_time": 1718337019,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 673988,
       "num": 673988,
       "word": "国足出线",
@@ -1833,14 +1841,6 @@
       "onboard_time": 1718082500,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 646769,
-      "num": 534802,
-      "word": "我可以是你吗姐姐",
-      "onboard_time": 1718337019,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 646407,
@@ -2161,6 +2161,14 @@
       "onboard_time": 1717913357,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 575240,
+      "num": 575240,
+      "word": "茅台",
+      "onboard_time": 1718337138,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 575139,
@@ -2803,14 +2811,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 484834,
-      "num": 484834,
-      "word": "茅台",
-      "onboard_time": 1718337138,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 484386,
       "num": 242969,
       "word": "才知道焯水不是简单的煮一下",
@@ -3049,6 +3049,14 @@
       "onboard_time": 1718018237,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467485,
+      "num": 467485,
+      "word": "周生辰一辈子太长了",
+      "onboard_time": 1718337138,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 466841,
@@ -3363,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 436566,
+      "num": 436566,
+      "word": "林娜琏回归",
+      "onboard_time": 1718338938,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 435612,
       "num": 336058,
       "word": "汪苏泷不会真唱奢香夫人吧",
@@ -3539,14 +3555,6 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 417059,
-      "num": 417059,
-      "word": "周生辰一辈子太长了",
-      "onboard_time": 1718337138,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 417047,
       "num": 375735,
       "word": "吴谨言 女武一",
@@ -3616,6 +3624,14 @@
       "word": "玫瑰的故事直播",
       "onboard_time": 1718277977,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 403399,
+      "num": 403399,
+      "word": "玫瑰的故事 好正常的拍摄手法",
+      "onboard_time": 1718337978,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -4347,6 +4363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347312,
+      "num": 271864,
+      "word": "被全世界禁养的猫咪",
+      "onboard_time": 1718338758,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 347151,
       "num": 347151,
       "word": "歌手",
@@ -5003,14 +5027,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 307674,
-      "num": 307674,
-      "word": "玫瑰的故事 好正常的拍摄手法",
-      "onboard_time": 1718337978,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 307535,
       "num": 307535,
       "word": "于正审美",
@@ -5097,6 +5113,14 @@
       "onboard_time": 1718273298,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301213,
+      "num": 266303,
+      "word": "星汉灿烂 墨雨云间",
+      "onboard_time": 1718339299,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 301102,
@@ -5331,6 +5355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290652,
+      "num": 290652,
+      "word": "天才少女",
+      "onboard_time": 1718336357,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290014,
       "num": 290014,
       "word": "2元面包店的面包能吃吗",
@@ -5417,14 +5449,6 @@
       "onboard_time": 1718119039,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284348,
-      "num": 284348,
-      "word": "天才少女",
-      "onboard_time": 1718336357,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 284239,
@@ -6467,6 +6491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236346,
+      "num": 236346,
+      "word": "墨雨云间的女主不搞雌竞",
+      "onboard_time": 1718339059,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236315,
       "num": 236315,
       "word": "墨雨云间 乾坤都没你能扭",
@@ -6649,6 +6681,14 @@
       "onboard_time": 1718238380,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227505,
+      "num": 227505,
+      "word": "甄嬛传书法都是陶昕然写的",
+      "onboard_time": 1718339179,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 226817,
@@ -6873,6 +6913,14 @@
       "onboard_time": 1718273478,
       "rank": 28,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 217505,
+      "num": 217505,
+      "word": "GALI抢票",
+      "onboard_time": 1718339538,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 217267,
@@ -8123,14 +8171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193662,
-      "num": 193662,
-      "word": "被全世界禁养的猫咪",
-      "onboard_time": 1718338758,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193656,
       "num": 193656,
       "word": "王星越失恋了给爸爸打电话",
@@ -9251,6 +9291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171732,
+      "num": 171732,
+      "word": "黄亦玫晒丢丢",
+      "onboard_time": 1718339720,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171680,
       "num": 171680,
       "word": "3个洗碗坏习惯或增加患癌风险",
@@ -9811,14 +9859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160673,
-      "num": 160673,
-      "word": "林娜琏回归",
-      "onboard_time": 1718338938,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 160653,
       "num": 160653,
       "word": "aespa 宝可梦",
@@ -10081,6 +10121,14 @@
       "onboard_time": 1718067379,
       "rank": 39,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 157559,
+      "num": 413522,
+      "word": "饿了么免单偷感很重",
+      "onboard_time": 1718337619,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 157417,
@@ -12539,14 +12587,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120957,
-      "num": 380399,
-      "word": "饿了么免单偷感很重",
-      "onboard_time": 1718337619,
-      "rank": 14,
-      "category": "美食"
-    },
-    {
       "raw_hot": 120903,
       "num": 120903,
       "word": "体会到早八的鳄鱼",
@@ -13875,6 +13915,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 95948,
+      "num": 326728,
+      "word": "你看过爸爸的体检报告吗",
+      "onboard_time": 1718335158,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95389,
       "num": 95389,
       "word": "高考落幕是结束也是开始",
@@ -14315,14 +14363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 76302,
-      "num": 326728,
-      "word": "你看过爸爸的体检报告吗",
-      "onboard_time": 1718335158,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 76064,
       "num": 76064,
       "word": "江疏影见一个人就要讲一遍娜扎掉水",
@@ -14560,6 +14600,14 @@
       "word": "福宝可太会营业了",
       "onboard_time": 1718269819,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65253,
+      "num": 475565,
+      "word": "姜萍是谁",
+      "onboard_time": 1718339420,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -14979,6 +15027,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 52384,
+      "num": 447600,
+      "word": "数藏平台乱象调查",
+      "onboard_time": 1718337619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52143,
       "num": 52143,
       "word": "赵露思金牌女主播许妍上线",
@@ -15387,6 +15443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41967,
+      "num": 244564,
+      "word": "迪奥活动内场生图",
+      "onboard_time": 1718335818,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 41761,
       "num": 41761,
       "word": "田曦薇青蛙戒指",
@@ -15481,14 +15545,6 @@
       "onboard_time": 1718176399,
       "rank": 41,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37863,
-      "num": 447600,
-      "word": "数藏平台乱象调查",
-      "onboard_time": 1718337619,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37767,
@@ -15689,14 +15745,6 @@
       "onboard_time": 1718190437,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31260,
-      "num": 244564,
-      "word": "迪奥活动内场生图",
-      "onboard_time": 1718335818,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 30873,

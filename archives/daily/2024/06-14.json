@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718338986319,
+  "endTime": 1718339809379,
   "band_list": [
     {
       "raw_hot": 1654639,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1272015,
+      "num": 1272015,
+      "word": "美国4黑人入侵华人豪宅遭开枪击退",
+      "onboard_time": 1718333718,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269349,
       "num": 1269349,
       "word": "5km 倒闭",
       "onboard_time": 1718289020,
       "rank": 0,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 1214052,
-      "num": 1214052,
-      "word": "美国4黑人入侵华人豪宅遭开枪击退",
-      "onboard_time": 1718333718,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1132942,
@@ -115,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 646769,
-      "num": 534802,
+      "raw_hot": 674561,
+      "num": 674561,
       "word": "我可以是你吗姐姐",
       "onboard_time": 1718337019,
       "rank": 6,
@@ -145,6 +145,14 @@
       "onboard_time": 1718324478,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 575240,
+      "num": 575240,
+      "word": "茅台",
+      "onboard_time": 1718337138,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 575139,
@@ -187,20 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 484834,
-      "num": 484834,
-      "word": "茅台",
-      "onboard_time": 1718337138,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 479647,
       "num": 479647,
       "word": "教资面试成绩",
       "onboard_time": 1718330777,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 467485,
+      "num": 467485,
+      "word": "周生辰一辈子太长了",
+      "onboard_time": 1718337138,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 466841,
@@ -227,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436566,
+      "num": 436566,
+      "word": "林娜琏回归",
+      "onboard_time": 1718338938,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 430374,
       "num": 121862,
       "word": "结婚33天了俩人就没做过饭",
@@ -251,14 +267,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 417059,
-      "num": 417059,
-      "word": "周生辰一辈子太长了",
-      "onboard_time": 1718337138,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 417012,
       "num": 417012,
       "word": "江西一爆炸事故致5死25伤",
@@ -281,6 +289,14 @@
       "onboard_time": 1718332038,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 403399,
+      "num": 403399,
+      "word": "玫瑰的故事 好正常的拍摄手法",
+      "onboard_time": 1718337978,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 361950,
@@ -321,6 +337,14 @@
       "onboard_time": 1718327299,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347312,
+      "num": 271864,
+      "word": "被全世界禁养的猫咪",
+      "onboard_time": 1718338758,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 342177,
@@ -411,11 +435,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307674,
-      "num": 307674,
-      "word": "玫瑰的故事 好正常的拍摄手法",
-      "onboard_time": 1718337978,
-      "rank": 24,
+      "raw_hot": 301213,
+      "num": 266303,
+      "word": "星汉灿烂 墨雨云间",
+      "onboard_time": 1718339299,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -443,8 +467,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284348,
-      "num": 284348,
+      "raw_hot": 290652,
+      "num": 290652,
       "word": "天才少女",
       "onboard_time": 1718336357,
       "rank": 25,
@@ -555,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 236346,
+      "num": 236346,
+      "word": "墨雨云间的女主不搞雌竞",
+      "onboard_time": 1718339059,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236294,
       "num": 236294,
       "word": "水果真的越来越甜了",
@@ -569,6 +601,14 @@
       "onboard_time": 1718254760,
       "rank": 8,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 227505,
+      "num": 227505,
+      "word": "甄嬛传书法都是陶昕然写的",
+      "onboard_time": 1718339179,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 226817,
@@ -593,6 +633,14 @@
       "onboard_time": 1718325198,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217505,
+      "num": 217505,
+      "word": "GALI抢票",
+      "onboard_time": 1718339538,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 214750,
@@ -691,14 +739,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 193662,
-      "num": 193662,
-      "word": "被全世界禁养的猫咪",
-      "onboard_time": 1718338758,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190146,
       "num": 190146,
       "word": "姜元柏你要不看一下你老婆衣服颜色",
@@ -747,6 +787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171732,
+      "num": 171732,
+      "word": "黄亦玫晒丢丢",
+      "onboard_time": 1718339720,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169905,
       "num": 169905,
       "word": "关晓彤唱跳午夜恰恰",
@@ -761,14 +809,6 @@
       "onboard_time": 1718334078,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 160673,
-      "num": 160673,
-      "word": "林娜琏回归",
-      "onboard_time": 1718338938,
-      "rank": 47,
-      "category": "音乐"
     },
     {
       "raw_hot": 160329,
@@ -801,6 +841,14 @@
       "onboard_time": 1718272037,
       "rank": 24,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 157559,
+      "num": 413522,
+      "word": "饿了么免单偷感很重",
+      "onboard_time": 1718337619,
+      "rank": 14,
+      "category": "美食"
     },
     {
       "raw_hot": 155779,
@@ -979,14 +1027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120957,
-      "num": 380399,
-      "word": "饿了么免单偷感很重",
-      "onboard_time": 1718337619,
-      "rank": 14,
-      "category": "美食"
-    },
-    {
       "raw_hot": 119661,
       "num": 119661,
       "word": "玫瑰的故事直播",
@@ -1123,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95948,
+      "num": 326728,
+      "word": "你看过爸爸的体检报告吗",
+      "onboard_time": 1718335158,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 93293,
       "num": 93293,
       "word": "被迷你小房间惊艳到了",
@@ -1195,14 +1243,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 76302,
-      "num": 326728,
-      "word": "你看过爸爸的体检报告吗",
-      "onboard_time": 1718335158,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 74685,
       "num": 74685,
       "word": "林更新爷爷修表都不忘替他找对象",
@@ -1249,6 +1289,14 @@
       "onboard_time": 1718288540,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 65253,
+      "num": 475565,
+      "word": "姜萍是谁",
+      "onboard_time": 1718339420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65071,
@@ -1307,6 +1355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 52384,
+      "num": 447600,
+      "word": "数藏平台乱象调查",
+      "onboard_time": 1718337619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48186,
       "num": 68607,
       "word": "剑网三",
@@ -1323,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41967,
+      "num": 244564,
+      "word": "迪奥活动内场生图",
+      "onboard_time": 1718335818,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 40905,
       "num": 40905,
       "word": "黄亦玫 白羊座",
@@ -1337,22 +1401,6 @@
       "onboard_time": 1718284038,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37863,
-      "num": 447600,
-      "word": "数藏平台乱象调查",
-      "onboard_time": 1718337619,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31260,
-      "num": 244564,
-      "word": "迪奥活动内场生图",
-      "onboard_time": 1718335818,
-      "rank": 42,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 27127,
