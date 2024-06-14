@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/15 00:23:21 ~ 2024/06/15 05:19:37
+本榜单时间：2024/06/15 00:23:21 ~ 2024/06/15 05:36:09
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD5%E6%AF%941%E8%8B%8F%E6%A0%BC%E5%85%B0%23" target="weibo">
+德国5比1苏格兰（热度：95369）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E9%AB%98%E6%A0%A1%E5%AE%89%E5%88%A9%E8%87%AA%E5%AE%B6%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%23" target="weibo">
 各大高校安利自家数学专业（热度：93843）
 </a>
@@ -363,6 +369,12 @@ C罗说享受第六次欧洲杯（热度：73629）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E8%B6%B3%E6%B5%B4%E5%A5%B3%E5%BA%97%E4%B8%BB%E9%81%AD6%E6%97%AC%E7%94%B7%E5%AD%90%E6%8D%85%E6%9D%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
+湖南一足浴女店主遭6旬男子捅杀身亡（热度：67302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B5%99%E6%B1%9F%E5%8C%BB%E9%99%A2%E4%BA%A7%E6%88%BF%E5%A4%96%E7%9A%84%E6%98%BE%E7%A4%BA%E5%B1%8F%E6%9A%96%E5%88%B0%E4%BA%86%23" target="weibo">
 被浙江医院产房外的显示屏暖到了（热度：65571）
 </a>
@@ -393,8 +405,8 @@ C罗说享受第六次欧洲杯（热度：73629）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E8%B6%B3%E6%B5%B4%E5%A5%B3%E5%BA%97%E4%B8%BB%E9%81%AD6%E6%97%AC%E7%94%B7%E5%AD%90%E6%8D%85%E6%9D%80%E8%BA%AB%E4%BA%A1%23" target="weibo">
-湖南一足浴女店主遭6旬男子捅杀身亡（热度：44029）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%AF%8F%E6%AC%A1%E7%A6%BB%E5%BC%80%E4%B8%A4%E7%A7%92%E5%B0%8F%E9%B8%AD%E5%AD%90%E5%B0%B1%E8%A6%81%E7%88%86%E7%82%B8%23" target="weibo">
+主人每次离开两秒小鸭子就要爆炸（热度：42350）
 </a>
 </li>
 
@@ -407,12 +419,6 @@ C罗说享受第六次欧洲杯（热度：73629）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%96%E5%86%A0%E9%9C%96%20101%E6%97%B6%E5%81%9A%E6%88%90%E6%A0%87%E6%9C%AC%23" target="weibo">
 赖冠霖 101时做成标本（热度：31749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%AF%8F%E6%AC%A1%E7%A6%BB%E5%BC%80%E4%B8%A4%E7%A7%92%E5%B0%8F%E9%B8%AD%E5%AD%90%E5%B0%B1%E8%A6%81%E7%88%86%E7%82%B8%23" target="weibo">
-主人每次离开两秒小鸭子就要爆炸（热度：31329）
 </a>
 </li>
 
