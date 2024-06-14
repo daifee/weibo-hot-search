@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718342323942,
+  "endTime": 1718343308239,
   "band_list": [
     {
       "raw_hot": 1654639,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1307557,
-      "num": 683473,
+      "raw_hot": 1326868,
+      "num": 857673,
       "word": "奔跑吧 姚PD",
       "onboard_time": 1718340199,
       "rank": 3,
@@ -73,6 +73,22 @@
       "onboard_time": 1718334677,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 855694,
+      "num": 855694,
+      "word": "汪苏泷 奢香夫人",
+      "onboard_time": 1718341820,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 813174,
+      "num": 559546,
+      "word": "蔡国庆患急性带状疱疹",
+      "onboard_time": 1718341039,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 776011,
@@ -155,14 +171,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 605362,
-      "num": 445305,
-      "word": "蔡国庆患急性带状疱疹",
-      "onboard_time": 1718341039,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 575240,
       "num": 575240,
       "word": "茅台",
@@ -188,11 +196,19 @@
     },
     {
       "raw_hot": 566571,
-      "num": 449082,
+      "num": 456385,
       "word": "星汉灿烂 墨雨云间",
       "onboard_time": 1718339299,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 561522,
+      "num": 561522,
+      "word": "17岁中专女生回应和清北选手比赛",
+      "onboard_time": 1718340619,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 554205,
@@ -201,6 +217,22 @@
       "onboard_time": 1718292619,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 553115,
+      "num": 553115,
+      "word": "网传章子怡赵丽颖新综艺接档歌手",
+      "onboard_time": 1718342297,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 519917,
+      "num": 519917,
+      "word": "英男子性行为时偷摘避孕套被判4年",
+      "onboard_time": 1718341039,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519592,
@@ -273,14 +305,6 @@
       "onboard_time": 1718337978,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 444670,
-      "num": 444670,
-      "word": "17岁中专女生回应和清北选手比赛",
-      "onboard_time": 1718340619,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436566,
@@ -363,6 +387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 352114,
+      "num": 235299,
+      "word": "陈丽君拒绝陈昊宇戚薇",
+      "onboard_time": 1718342359,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351442,
       "num": 351442,
       "word": "赵丽颖首部悬疑片",
@@ -401,14 +433,6 @@
       "onboard_time": 1718332698,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 339710,
-      "num": 242533,
-      "word": "汪苏泷 奢香夫人",
-      "onboard_time": 1718341820,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 339127,
@@ -587,6 +611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 240372,
+      "num": 247769,
+      "word": "韩国医协宣布6月18日全面停诊",
+      "onboard_time": 1718338699,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 239579,
       "num": 137621,
       "word": "刘亦菲说很荣幸和彭冠英合作",
@@ -625,14 +657,6 @@
       "onboard_time": 1718331377,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 231054,
-      "num": 231054,
-      "word": "网传章子怡赵丽颖新综艺接档歌手",
-      "onboard_time": 1718342297,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 228316,
@@ -683,14 +707,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 216512,
-      "num": 247769,
-      "word": "韩国医协宣布6月18日全面停诊",
-      "onboard_time": 1718338699,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216031,
       "num": 216031,
       "word": "易烊千玺米兰大屏",
@@ -721,6 +737,14 @@
       "onboard_time": 1718332578,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209744,
+      "num": 209744,
+      "word": "成都遇害女子其母被曝曾拖欠物业费",
+      "onboard_time": 1718342178,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209107,
@@ -915,6 +939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168180,
+      "num": 168180,
+      "word": "边杰还是死了",
+      "onboard_time": 1718342957,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160329,
       "num": 160329,
       "word": "TheShy谈陪玩",
@@ -931,20 +963,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159218,
-      "num": 159218,
-      "word": "成都遇害女子其母被曝曾拖欠物业费",
-      "onboard_time": 1718342178,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159167,
-      "num": 205638,
-      "word": "英男子性行为时偷摘避孕套被判4年",
-      "onboard_time": 1718341039,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 158074,
+      "num": 158074,
+      "word": "陈哲远吃娜扎没吃完的饭",
+      "onboard_time": 1718343139,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 157938,
@@ -1024,6 +1048,22 @@
       "word": "学生认为做错的实验竟破解世纪难题",
       "onboard_time": 1718292679,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150611,
+      "num": 150611,
+      "word": "茅台2300元没人收",
+      "onboard_time": 1718342839,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 150135,
+      "num": 150135,
+      "word": "日本福岛第一核电站1名员工死亡",
+      "onboard_time": 1718343078,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1123,12 +1163,36 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 131767,
+      "num": 131767,
+      "word": "王闰秋",
+      "onboard_time": 1718342478,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130061,
       "num": 130061,
       "word": "美乌签署双边安全协议",
       "onboard_time": 1718325558,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 126368,
+      "num": 126368,
+      "word": "赵丽颖眼神戏",
+      "onboard_time": 1718340139,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125386,
+      "num": 125386,
+      "word": "玫瑰的梗事",
+      "onboard_time": 1718342899,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 123083,
@@ -1177,6 +1241,14 @@
       "onboard_time": 1718326158,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 116039,
+      "num": 445434,
+      "word": "贵阳被曝某区无划片学校上学靠捡漏",
+      "onboard_time": 1718341212,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115891,
@@ -1339,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82147,
+      "num": 859177,
+      "word": "三星堆这三兄弟仿佛在鼓掌",
+      "onboard_time": 1718341940,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81560,
       "num": 81560,
       "word": "女生高考后一觉睡30个小时",
@@ -1385,14 +1465,6 @@
       "onboard_time": 1718299453,
       "rank": 23,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 70964,
-      "num": 445434,
-      "word": "贵阳被曝某区无划片学校上学靠捡漏",
-      "onboard_time": 1718341212,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70067,
@@ -1553,14 +1625,6 @@
       "onboard_time": 1718315952,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 25507,
-      "num": 687487,
-      "word": "三星堆这三兄弟仿佛在鼓掌",
-      "onboard_time": 1718341940,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25150,

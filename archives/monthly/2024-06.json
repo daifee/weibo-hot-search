@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718342323942,
+  "endTime": 1718343308239,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1275,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1326868,
+      "num": 857673,
+      "word": "奔跑吧 姚PD",
+      "onboard_time": 1718340199,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1321399,
       "num": 433010,
       "word": "芒果制片人 性骚扰",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1717813756,
       "rank": 34,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 1307557,
-      "num": 683473,
-      "word": "奔跑吧 姚PD",
-      "onboard_time": 1718340199,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1306651,
@@ -3043,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 855694,
+      "num": 855694,
+      "word": "汪苏泷 奢香夫人",
+      "onboard_time": 1718341820,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 853672,
       "num": 310566,
       "word": "考前是太子 考后是弃子",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1717740739,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 813174,
+      "num": 559546,
+      "word": "蔡国庆患急性带状疱疹",
+      "onboard_time": 1718341039,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 809810,
@@ -5467,14 +5483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 605362,
-      "num": 445305,
-      "word": "蔡国庆患急性带状疱疹",
-      "onboard_time": 1718341039,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 605211,
       "num": 605211,
       "word": "边伯贤 不喜欢我就不要买我的票",
@@ -6092,7 +6100,7 @@
     },
     {
       "raw_hot": 566571,
-      "num": 449082,
+      "num": 456385,
       "word": "星汉灿烂 墨雨云间",
       "onboard_time": 1718339299,
       "rank": 23,
@@ -6145,6 +6153,14 @@
       "onboard_time": 1717564519,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561522,
+      "num": 561522,
+      "word": "17岁中专女生回应和清北选手比赛",
+      "onboard_time": 1718340619,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560081,
@@ -6265,6 +6281,14 @@
       "onboard_time": 1718292619,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 553115,
+      "num": 553115,
+      "word": "网传章子怡赵丽颖新综艺接档歌手",
+      "onboard_time": 1718342297,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 552475,
@@ -6872,6 +6896,14 @@
       "word": "日本地震",
       "onboard_time": 1717370594,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 519917,
+      "num": 519917,
+      "word": "英男子性行为时偷摘避孕套被判4年",
+      "onboard_time": 1718341039,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -8521,14 +8553,6 @@
       "onboard_time": 1717674919,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 444670,
-      "num": 444670,
-      "word": "17岁中专女生回应和清北选手比赛",
-      "onboard_time": 1718340619,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444571,
@@ -11035,6 +11059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 352114,
+      "num": 235299,
+      "word": "陈丽君拒绝陈昊宇戚薇",
+      "onboard_time": 1718342359,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 351659,
       "num": 248090,
       "word": "女子千元快递放门口被当垃圾丢了",
@@ -11433,14 +11465,6 @@
       "onboard_time": 1718088737,
       "rank": 8,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 339710,
-      "num": 242533,
-      "word": "汪苏泷 奢香夫人",
-      "onboard_time": 1718341820,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 339577,
@@ -15675,6 +15699,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 240372,
+      "num": 247769,
+      "word": "韩国医协宣布6月18日全面停诊",
+      "onboard_time": 1718338699,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240247,
       "num": 240247,
       "word": "高考是终点也是起点",
@@ -16233,14 +16265,6 @@
       "onboard_time": 1718178380,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 231054,
-      "num": 231054,
-      "word": "网传章子怡赵丽颖新综艺接档歌手",
-      "onboard_time": 1718342297,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 230899,
@@ -17299,14 +17323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216512,
-      "num": 247769,
-      "word": "韩国医协宣布6月18日全面停诊",
-      "onboard_time": 1718338699,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 216425,
       "num": 216425,
       "word": "山东政治 超前思维",
@@ -17945,6 +17961,14 @@
       "onboard_time": 1718073077,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 209744,
+      "num": 209744,
+      "word": "成都遇害女子其母被曝曾拖欠物业费",
+      "onboard_time": 1718342178,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 209715,
@@ -23315,6 +23339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168180,
+      "num": 168180,
+      "word": "边杰还是死了",
+      "onboard_time": 1718342957,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168103,
       "num": 187352,
       "word": "弟弟的荣誉 哥哥的脸面",
@@ -24595,22 +24627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 159218,
-      "num": 159218,
-      "word": "成都遇害女子其母被曝曾拖欠物业费",
-      "onboard_time": 1718342178,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159167,
-      "num": 205638,
-      "word": "英男子性行为时偷摘避孕套被判4年",
-      "onboard_time": 1718341039,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159165,
       "num": 159165,
       "word": "向佐护住马嘉祺的头",
@@ -24737,6 +24753,14 @@
       "onboard_time": 1718010798,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158074,
+      "num": 158074,
+      "word": "陈哲远吃娜扎没吃完的饭",
+      "onboard_time": 1718343139,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 158002,
@@ -26043,6 +26067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150611,
+      "num": 150611,
+      "word": "茅台2300元没人收",
+      "onboard_time": 1718342839,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150475,
       "num": 150475,
       "word": "猫咪误被当蚊子被女主人拍飞",
@@ -26089,6 +26121,14 @@
       "onboard_time": 1717647019,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 150135,
+      "num": 150135,
+      "word": "日本福岛第一核电站1名员工死亡",
+      "onboard_time": 1718343078,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150069,
@@ -28955,6 +28995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131767,
+      "num": 131767,
+      "word": "王闰秋",
+      "onboard_time": 1718342478,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131764,
       "num": 131764,
       "word": "中国球迷给新加坡门将打钱",
@@ -29875,6 +29923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126368,
+      "num": 126368,
+      "word": "赵丽颖眼神戏",
+      "onboard_time": 1718340139,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126337,
       "num": 126337,
       "word": "kep1erMV",
@@ -30025,6 +30081,14 @@
       "onboard_time": 1718190860,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125386,
+      "num": 125386,
+      "word": "玫瑰的梗事",
+      "onboard_time": 1718342899,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 125292,
@@ -31393,6 +31457,14 @@
       "onboard_time": 1718088618,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 116039,
+      "num": 445434,
+      "word": "贵阳被曝某区无划片学校上学靠捡漏",
+      "onboard_time": 1718341212,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116030,
@@ -34699,6 +34771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82147,
+      "num": 859177,
+      "word": "三星堆这三兄弟仿佛在鼓掌",
+      "onboard_time": 1718341940,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82051,
       "num": 88537,
       "word": "各种水果超长保鲜指南",
@@ -35465,14 +35545,6 @@
       "onboard_time": 1717696572,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 70964,
-      "num": 445434,
-      "word": "贵阳被曝某区无划片学校上学靠捡漏",
-      "onboard_time": 1718341212,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70824,
@@ -38817,14 +38889,6 @@
       "onboard_time": 1718315952,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 25507,
-      "num": 687487,
-      "word": "三星堆这三兄弟仿佛在鼓掌",
-      "onboard_time": 1718341940,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25369,
