@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718354194551,
+  "endTime": 1718356842985,
   "band_list": [
     {
       "raw_hot": 7442935,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1194445,
-      "num": 222202,
+      "num": 224966,
       "word": "手机免密支付1岁娃误点120杯柠檬水",
       "onboard_time": 1718345539,
       "rank": 21,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 738173,
+      "num": 225183,
+      "word": "苗苗郭碧婷 幼儿园最好的朋友",
+      "onboard_time": 1718354479,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 733182,
       "num": 733182,
       "word": "尚雯婕去歌手不坐飞机的原因",
@@ -259,6 +267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 624052,
+      "num": 413065,
+      "word": "赖冠霖 行行干破防",
+      "onboard_time": 1718356340,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 623700,
+      "num": 623700,
+      "word": "姜萍老师称其最好申请到常熟理工",
+      "onboard_time": 1718351419,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 608805,
       "num": 328095,
       "word": "赵丽颖粉色单肩纱裙",
@@ -268,11 +292,19 @@
     },
     {
       "raw_hot": 602180,
-      "num": 220029,
+      "num": 222424,
       "word": "长期吃轻食的人都怎么样了",
       "onboard_time": 1718345121,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 598273,
+      "num": 423924,
+      "word": "这英 歌手",
+      "onboard_time": 1718354119,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 575240,
@@ -313,14 +345,6 @@
       "onboard_time": 1718339299,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 565419,
-      "num": 565419,
-      "word": "姜萍老师称其最好申请到常熟理工",
-      "onboard_time": 1718351419,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 554205,
@@ -507,6 +531,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 409456,
+      "num": 409456,
+      "word": "吴露可逃 无露可涛",
+      "onboard_time": 1718354659,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 395855,
       "num": 395855,
       "word": "陈昊宇不抽到陈丽君不停",
@@ -571,6 +603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 344648,
+      "num": 415980,
+      "word": "直系亲属不能互相输血",
+      "onboard_time": 1718353819,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 342177,
       "num": 208589,
       "word": "越南女子裸体大闹菲律宾机场",
@@ -609,6 +649,14 @@
       "onboard_time": 1718324899,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 335208,
+      "num": 335208,
+      "word": "王星越不舍得挂吴谨言电话",
+      "onboard_time": 1718353100,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 333926,
@@ -667,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299914,
+      "num": 223942,
+      "word": "田雨回应王启年女儿王霸小名争议",
+      "onboard_time": 1718356520,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299500,
       "num": 299500,
       "word": "欧洲杯 夺冠热门",
@@ -675,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299353,
-      "num": 195410,
-      "word": "王星越不舍得挂吴谨言电话",
-      "onboard_time": 1718353100,
+      "raw_hot": 295153,
+      "num": 223540,
+      "word": "野孩子",
+      "onboard_time": 1718355138,
       "rank": 24,
-      "category": "剧集"
+      "category": "电影"
     },
     {
       "raw_hot": 295077,
@@ -700,7 +756,7 @@
     },
     {
       "raw_hot": 290781,
-      "num": 194914,
+      "num": 214681,
       "word": "章昊大学毕业",
       "onboard_time": 1718354059,
       "rank": 23,
@@ -721,6 +777,14 @@
       "onboard_time": 1718346439,
       "rank": 19,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 281895,
+      "num": 281895,
+      "word": "台独闹腾得越凶灭亡得越快",
+      "onboard_time": 1718355439,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 276510,
@@ -763,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270789,
+      "num": 223365,
+      "word": "赵丽颖草莓大福",
+      "onboard_time": 1718354659,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267337,
       "num": 267337,
       "word": "郑恺苗苗结束韩国度假回国了",
@@ -785,6 +857,14 @@
       "onboard_time": 1718346919,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 258734,
+      "num": 416246,
+      "word": "洞洞鞋鼻祖一年卖了200亿",
+      "onboard_time": 1718355138,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257363,
@@ -899,6 +979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 229904,
+      "num": 229904,
+      "word": "古茗就与恋与深空联名致歉",
+      "onboard_time": 1718353460,
+      "rank": 29,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 228316,
       "num": 228316,
       "word": "中专女生爆冷拿下数学竞赛全球12名",
@@ -929,6 +1017,14 @@
       "onboard_time": 1718343799,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 225514,
+      "num": 225514,
+      "word": "姜萍 爽文大女主",
+      "onboard_time": 1718354420,
+      "rank": 19,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 224681,
@@ -1075,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 201860,
+      "num": 201860,
+      "word": "爸爸在市场两百多块买的小狗",
+      "onboard_time": 1718355980,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199977,
       "num": 199977,
       "word": "恋与深空 古茗",
@@ -1131,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191522,
-      "num": 191522,
-      "word": "古茗就与恋与深空联名致歉",
-      "onboard_time": 1718353460,
-      "rank": 29,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 190698,
       "num": 190698,
       "word": "欧洲杯",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1718289738,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189904,
+      "num": 221865,
+      "word": "华为客服回应牛肉卖断货",
+      "onboard_time": 1718356099,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 187500,
@@ -1313,6 +1417,14 @@
       "onboard_time": 1718342839,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 160613,
+      "num": 160613,
+      "word": "姜萍数学老师",
+      "onboard_time": 1718355860,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 160329,
@@ -1515,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142297,
+      "num": 142297,
+      "word": "TCG战胜DYG",
+      "onboard_time": 1718356159,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140276,
       "num": 140276,
       "word": "白鹿新歌谁是你朋友跑男首唱",
@@ -1643,20 +1763,20 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 129341,
-      "num": 129341,
-      "word": "这英 歌手",
-      "onboard_time": 1718354119,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128699,
       "num": 128699,
       "word": "剑网3无界我回来了",
       "onboard_time": 1718353339,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128068,
+      "num": 128068,
+      "word": "易烊千玺到米兰",
+      "onboard_time": 1718354479,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 126368,
@@ -1689,6 +1809,14 @@
       "onboard_time": 1718345719,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 123346,
+      "num": 123346,
+      "word": "2024IVL夏季赛",
+      "onboard_time": 1718355738,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 123083,
@@ -2083,6 +2211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50080,
+      "num": 663800,
+      "word": "好评中国",
+      "onboard_time": 1718355619,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48186,
       "num": 68607,
       "word": "剑网三",
@@ -2129,14 +2265,6 @@
       "onboard_time": 1718349019,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31553,
-      "num": 415980,
-      "word": "直系亲属不能互相输血",
-      "onboard_time": 1718353819,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 27127,
