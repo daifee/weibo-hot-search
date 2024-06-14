@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718364886532,
+  "endTime": 1718368559636,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3066697,
+      "num": 3066697,
+      "word": "浙大回应能否破格录取姜萍",
+      "onboard_time": 1718362219,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2882708,
       "num": 2882708,
       "word": "歌手声明",
@@ -83,12 +91,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2595149,
-      "num": 2595149,
-      "word": "浙大回应能否破格录取姜萍",
-      "onboard_time": 1718362219,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 2594123,
+      "num": 2594123,
+      "word": "歌手直播",
+      "onboard_time": 1718364619,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 2271702,
@@ -113,6 +121,14 @@
       "onboard_time": 1718197278,
       "rank": 1,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2084442,
+      "num": 2084442,
+      "word": "那英不紧张了",
+      "onboard_time": 1718367799,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 2045623,
@@ -185,6 +201,14 @@
       "onboard_time": 1718106979,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1743095,
+      "num": 1743095,
+      "word": "姜萍考上高中但自己选择了中专",
+      "onboard_time": 1718365698,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1731053,
@@ -265,6 +289,14 @@
       "onboard_time": 1717929438,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1562676,
+      "num": 1007875,
+      "word": "六公主发的周也",
+      "onboard_time": 1718357120,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1562114,
@@ -891,14 +923,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1014635,
-      "num": 1007875,
-      "word": "六公主发的周也",
-      "onboard_time": 1718357120,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1012793,
       "num": 464109,
       "word": "徐海乔经纪人",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1718260697,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 941837,
+      "num": 941837,
+      "word": "姜萍父亲回应女儿数学竞赛12名",
+      "onboard_time": 1718364438,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 936433,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1718329037,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771306,
+      "num": 589119,
+      "word": "那英很稳",
+      "onboard_time": 1718368339,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 771190,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1717849999,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 644978,
+      "num": 644978,
+      "word": "邵阳学院2名学生与姜萍一同入围决赛",
+      "onboard_time": 1718365038,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 644956,
@@ -2803,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520432,
+      "num": 520432,
+      "word": "业内曝明星谁先下房车就输了",
+      "onboard_time": 1718362819,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519592,
       "num": 519592,
       "word": "马斯克承诺明年开始限量生产擎天柱",
@@ -3393,14 +3449,6 @@
       "onboard_time": 1718176101,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 462279,
-      "num": 462279,
-      "word": "业内曝明星谁先下房车就输了",
-      "onboard_time": 1718362819,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 461302,
@@ -4377,6 +4425,14 @@
       "onboard_time": 1717928958,
       "rank": 12,
       "category": "教育"
+    },
+    {
+      "raw_hot": 372092,
+      "num": 294030,
+      "word": "董宇辉直播永乐宫遭多人投诉",
+      "onboard_time": 1718366958,
+      "rank": 27,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 370911,
@@ -5379,6 +5435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 308977,
+      "num": 308977,
+      "word": "何老师回来了",
+      "onboard_time": 1718367859,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308762,
       "num": 268642,
       "word": "EDG战胜FPX",
@@ -5467,6 +5531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 305907,
+      "num": 305907,
+      "word": "别再买路边切一半的西瓜了",
+      "onboard_time": 1718367560,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 305227,
       "num": 305227,
       "word": "金硕珍被亲了",
@@ -5529,6 +5601,14 @@
       "onboard_time": 1718273298,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 301259,
+      "num": 292045,
+      "word": "歌手上来就放广告",
+      "onboard_time": 1718367919,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 301102,
@@ -5883,6 +5963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287597,
+      "num": 287597,
+      "word": "数学竞赛组委会回应姜萍入围决赛",
+      "onboard_time": 1718365698,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 286484,
       "num": 242305,
       "word": "登陆日",
@@ -6059,6 +6147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275407,
+      "num": 703751,
+      "word": "被姜萍狠狠激励到了",
+      "onboard_time": 1718362819,
+      "rank": 9,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 275247,
       "num": 218296,
       "word": "养老保险缴15年和25年退休金差别",
@@ -6113,6 +6209,14 @@
       "onboard_time": 1717937958,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272768,
+      "num": 272768,
+      "word": "阴阳师皮肤",
+      "onboard_time": 1718367979,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 272634,
@@ -6489,6 +6593,14 @@
       "onboard_time": 1717822637,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256307,
+      "num": 256307,
+      "word": "恋爱兄妹",
+      "onboard_time": 1718344219,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 255425,
@@ -8283,14 +8395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203832,
-      "num": 203832,
-      "word": "姜萍父亲回应女儿数学竞赛12名",
-      "onboard_time": 1718364438,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203813,
       "num": 203813,
       "word": "高考生冲出考场疯狂催更中国boy",
@@ -8403,6 +8507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202004,
+      "num": 202004,
+      "word": "王星越吴谨言怎么不配",
+      "onboard_time": 1718367619,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201922,
       "num": 201922,
       "word": "TF三代登陆日",
@@ -8441,6 +8553,14 @@
       "onboard_time": 1717940358,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200718,
+      "num": 178054,
+      "word": "王星越醉酒微醺走路",
+      "onboard_time": 1718366238,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 200303,
@@ -8777,14 +8897,6 @@
       "onboard_time": 1717940598,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194964,
-      "num": 194964,
-      "word": "歌手直播",
-      "onboard_time": 1718364619,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 194686,
@@ -9667,6 +9779,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 180038,
+      "num": 180038,
+      "word": "光启之星颁奖典礼",
+      "onboard_time": 1718368039,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179965,
       "num": 307652,
       "word": "官方通报镇政府收20万押金多年未还",
@@ -9737,6 +9857,14 @@
       "onboard_time": 1717850718,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 179555,
+      "num": 179555,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1718368399,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 179313,
@@ -10907,6 +11035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158342,
+      "num": 158342,
+      "word": "蔡徐坤工作室放饭",
+      "onboard_time": 1718367498,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158330,
       "num": 158330,
       "word": "吴谨言说王星越现在是小哥哥",
@@ -11249,14 +11385,6 @@
       "onboard_time": 1718326577,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154145,
-      "num": 703751,
-      "word": "被姜萍狠狠激励到了",
-      "onboard_time": 1718362819,
-      "rank": 9,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 154072,
@@ -11723,6 +11851,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 147924,
+      "num": 147924,
+      "word": "孙颖莎 何以为战",
+      "onboard_time": 1718364619,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147622,
       "num": 147622,
       "word": "为什么和巧克力一起嚼口香糖会消失",
@@ -11833,14 +11969,6 @@
       "onboard_time": 1717933338,
       "rank": 34,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 145920,
-      "num": 145920,
-      "word": "孙颖莎 何以为战",
-      "onboard_time": 1718364619,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 145891,
@@ -11985,14 +12113,6 @@
       "onboard_time": 1718061736,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143310,
-      "num": 143310,
-      "word": "恋爱兄妹",
-      "onboard_time": 1718344219,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 143276,
@@ -12187,6 +12307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140727,
+      "num": 140727,
+      "word": "死对头也可以是救命恩人",
+      "onboard_time": 1718366118,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140532,
       "num": 140532,
       "word": "欧文对凯尔特人12连败",
@@ -12353,6 +12481,14 @@
       "onboard_time": 1718262498,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 138295,
+      "num": 138295,
+      "word": "姜萍决赛或将角逐韦神获奖赛道",
+      "onboard_time": 1718366780,
+      "rank": 47,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 138254,
@@ -12617,6 +12753,14 @@
       "onboard_time": 1718043191,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 134845,
+      "num": 134845,
+      "word": "小哥跨越4000米海拔为藏民换新家",
+      "onboard_time": 1718365218,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134824,
@@ -13113,6 +13257,14 @@
       "onboard_time": 1718004678,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129032,
+      "num": 129032,
+      "word": "多特官宣胡梅尔斯离队",
+      "onboard_time": 1718367078,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128701,
@@ -15860,7 +16012,7 @@
     },
     {
       "raw_hot": 63260,
-      "num": 1389633,
+      "num": 2190795,
       "word": "好评中国",
       "onboard_time": 1718355619,
       "rank": 2,
@@ -16841,6 +16993,14 @@
       "onboard_time": 1717887792,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35905,
+      "num": 156622,
+      "word": "爸爸的手机该换了",
+      "onboard_time": 1718368339,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 35853,

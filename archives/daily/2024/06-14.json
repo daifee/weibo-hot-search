@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718364886532,
+  "endTime": 1718368559636,
   "band_list": [
     {
       "raw_hot": 7442935,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2595149,
-      "num": 2595149,
+      "raw_hot": 3066697,
+      "num": 3066697,
       "word": "浙大回应能否破格录取姜萍",
       "onboard_time": 1718362219,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2594123,
+      "num": 2594123,
+      "word": "歌手直播",
+      "onboard_time": 1718364619,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2084442,
+      "num": 2084442,
+      "word": "那英不紧张了",
+      "onboard_time": 1718367799,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1797039,
@@ -43,12 +59,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1743095,
+      "num": 1743095,
+      "word": "姜萍考上高中但自己选择了中专",
+      "onboard_time": 1718365698,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1654639,
       "num": 1654639,
       "word": "姜萍",
       "onboard_time": 1718278819,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1562676,
+      "num": 1007875,
+      "word": "六公主发的周也",
+      "onboard_time": 1718357120,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1536670,
@@ -163,20 +195,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1014635,
-      "num": 1007875,
-      "word": "六公主发的周也",
-      "onboard_time": 1718357120,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 954818,
       "num": 724458,
       "word": "浙江大学数学系教授欢迎姜萍来浙大",
       "onboard_time": 1718359818,
       "rank": 22,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 941837,
+      "num": 941837,
+      "word": "姜萍父亲回应女儿数学竞赛12名",
+      "onboard_time": 1718364438,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 929827,
@@ -225,6 +257,14 @@
       "onboard_time": 1718329037,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 771306,
+      "num": 589119,
+      "word": "那英很稳",
+      "onboard_time": 1718368339,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 762686,
@@ -313,6 +353,14 @@
       "onboard_time": 1718343978,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644978,
+      "num": 644978,
+      "word": "邵阳学院2名学生与姜萍一同入围决赛",
+      "onboard_time": 1718365038,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 644736,
@@ -443,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 520432,
+      "num": 520432,
+      "word": "业内曝明星谁先下房车就输了",
+      "onboard_time": 1718362819,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519592,
       "num": 519592,
       "word": "马斯克承诺明年开始限量生产擎天柱",
@@ -504,14 +560,6 @@
       "word": "齐思钧手术",
       "onboard_time": 1718322257,
       "rank": 6,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 462279,
-      "num": 462279,
-      "word": "业内曝明星谁先下房车就输了",
-      "onboard_time": 1718362819,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -665,6 +713,14 @@
       "onboard_time": 1718342359,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 372092,
+      "num": 294030,
+      "word": "董宇辉直播永乐宫遭多人投诉",
+      "onboard_time": 1718366958,
+      "rank": 27,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 361950,
@@ -843,12 +899,36 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 308977,
+      "num": 308977,
+      "word": "何老师回来了",
+      "onboard_time": 1718367859,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 306864,
       "num": 234907,
       "word": "第五人格心跳特辑",
       "onboard_time": 1718362219,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305907,
+      "num": 305907,
+      "word": "别再买路边切一半的西瓜了",
+      "onboard_time": 1718367560,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 301259,
+      "num": 292045,
+      "word": "歌手上来就放广告",
+      "onboard_time": 1718367919,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 300748,
@@ -915,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287597,
+      "num": 287597,
+      "word": "数学竞赛组委会回应姜萍入围决赛",
+      "onboard_time": 1718365698,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 284327,
       "num": 284327,
       "word": "涟水中等专业学校",
@@ -939,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275407,
+      "num": 703751,
+      "word": "被姜萍狠狠激励到了",
+      "onboard_time": 1718362819,
+      "rank": 9,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 274589,
       "num": 274589,
       "word": "广东人已发霉求放过",
@@ -961,6 +1057,14 @@
       "onboard_time": 1718353460,
       "rank": 29,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 272768,
+      "num": 272768,
+      "word": "阴阳师皮肤",
+      "onboard_time": 1718367979,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 271887,
@@ -1017,6 +1121,14 @@
       "onboard_time": 1718335038,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256307,
+      "num": 256307,
+      "word": "恋爱兄妹",
+      "onboard_time": 1718344219,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 254877,
@@ -1347,20 +1459,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 203832,
-      "num": 203832,
-      "word": "姜萍父亲回应女儿数学竞赛12名",
-      "onboard_time": 1718364438,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 202984,
       "num": 202984,
       "word": "JackeyLove谈明年在不在TES",
       "onboard_time": 1718328797,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 202004,
+      "num": 202004,
+      "word": "王星越吴谨言怎么不配",
+      "onboard_time": 1718367619,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 200718,
+      "num": 178054,
+      "word": "王星越醉酒微醺走路",
+      "onboard_time": 1718366238,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 199977,
@@ -1387,6 +1507,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 198338,
+      "num": 198338,
+      "word": "歌手2024",
+      "onboard_time": 1718367440,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197749,
       "num": 175746,
       "word": "乔妍的心事换头像封面",
@@ -1401,14 +1529,6 @@
       "onboard_time": 1718320816,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 194964,
-      "num": 194964,
-      "word": "歌手直播",
-      "onboard_time": 1718364619,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 194556,
@@ -1483,12 +1603,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180038,
+      "num": 180038,
+      "word": "光启之星颁奖典礼",
+      "onboard_time": 1718368039,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 179579,
       "num": 179579,
       "word": "超一半基金公司还没发2023年终奖",
       "onboard_time": 1718340079,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 179555,
+      "num": 179555,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1718368399,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 178620,
@@ -1691,6 +1827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158342,
+      "num": 158342,
+      "word": "蔡徐坤工作室放饭",
+      "onboard_time": 1718367498,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 158330,
       "num": 158330,
       "word": "吴谨言说王星越现在是小哥哥",
@@ -1761,14 +1905,6 @@
       "onboard_time": 1718326577,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154145,
-      "num": 703751,
-      "word": "被姜萍狠狠激励到了",
-      "onboard_time": 1718362819,
-      "rank": 9,
-      "category": "社会正能量,教育"
     },
     {
       "raw_hot": 153949,
@@ -1867,8 +2003,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145920,
-      "num": 145920,
+      "raw_hot": 147924,
+      "num": 147924,
       "word": "孙颖莎 何以为战",
       "onboard_time": 1718364619,
       "rank": 43,
@@ -1899,20 +2035,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143310,
-      "num": 143310,
-      "word": "恋爱兄妹",
-      "onboard_time": 1718344219,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142297,
       "num": 142297,
       "word": "TCG战胜DYG",
       "onboard_time": 1718356159,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140727,
+      "num": 140727,
+      "word": "死对头也可以是救命恩人",
+      "onboard_time": 1718366118,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 140276,
@@ -1931,6 +2067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138295,
+      "num": 138295,
+      "word": "姜萍决赛或将角逐韦神获奖赛道",
+      "onboard_time": 1718366780,
+      "rank": 47,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 136773,
       "num": 136773,
       "word": "你常吃的3种面包是热量炸弹",
@@ -1945,6 +2089,14 @@
       "onboard_time": 1718360958,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134845,
+      "num": 134845,
+      "word": "小哥跨越4000米海拔为藏民换新家",
+      "onboard_time": 1718365218,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134276,
@@ -2049,6 +2201,14 @@
       "onboard_time": 1718325558,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 129032,
+      "num": 129032,
+      "word": "多特官宣胡梅尔斯离队",
+      "onboard_time": 1718367078,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 128699,
@@ -2508,7 +2668,7 @@
     },
     {
       "raw_hot": 63260,
-      "num": 1389633,
+      "num": 2190795,
       "word": "好评中国",
       "onboard_time": 1718355619,
       "rank": 2,
@@ -2633,6 +2793,14 @@
       "onboard_time": 1718363598,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 35905,
+      "num": 156622,
+      "word": "爸爸的手机该换了",
+      "onboard_time": 1718368339,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 27654,
