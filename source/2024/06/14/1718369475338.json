@@ -1,0 +1,410 @@
+{
+  "runTime": 1718369475338,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5274695,
+        "num": 5274695,
+        "word": "尚雯婕冲榜凡希亚",
+        "onboard_time": 1718369001,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2806437,
+        "num": 2806437,
+        "word": "浙大回应能否破格录取姜萍",
+        "onboard_time": 1718362219,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43530,
+        "num": 2331814,
+        "word": "好评中国",
+        "onboard_time": 1718355619,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3899568,
+        "num": 2302072,
+        "word": "歌手直播",
+        "onboard_time": 1718364619,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1987962,
+        "num": 1987962,
+        "word": "姜萍考上高中但自己选择了中专",
+        "onboard_time": 1718365698,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976748,
+        "num": 976748,
+        "word": "姜萍父亲回应女儿数学竞赛12名",
+        "onboard_time": 1718364438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2598073,
+        "num": 903601,
+        "word": "尚雯婕低音 好听",
+        "onboard_time": 1718369360,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2406389,
+        "num": 896211,
+        "word": "那英不紧张了",
+        "onboard_time": 1718367799,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246163,
+        "num": 770557,
+        "word": "被姜萍狠狠激励到了",
+        "onboard_time": 1718362819,
+        "rank": 8,
+        "category": "社会正能量,教育"
+      },
+      {
+        "raw_hot": 751294,
+        "num": 751294,
+        "word": "邵阳学院2名学生与姜萍一同入围决赛",
+        "onboard_time": 1718365038,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1705170,
+        "num": 730249,
+        "word": "六公主发的周也",
+        "onboard_time": 1718357120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613289,
+        "num": 613289,
+        "word": "洞洞鞋鼻祖一年卖了200亿",
+        "onboard_time": 1718355138,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1018961,
+        "num": 612410,
+        "word": "那英很稳",
+        "onboard_time": 1718368339,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 589429,
+        "num": 589429,
+        "word": "韦神曾获姜萍参加竞赛第一届金奖",
+        "onboard_time": 1718359220,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 539762,
+        "num": 539762,
+        "word": "歌手上来就放广告",
+        "onboard_time": 1718367919,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435696,
+        "num": 435696,
+        "word": "业内曝明星谁先下房车就输了",
+        "onboard_time": 1718362819,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412606,
+        "num": 412606,
+        "word": "英男子性行为时偷摘避孕套被判4年",
+        "onboard_time": 1718341039,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330795,
+        "num": 330795,
+        "word": "东华大学也来抢姜萍了",
+        "onboard_time": 1718362759,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326567,
+        "num": 326567,
+        "word": "中国女排vs德国女排",
+        "onboard_time": 1718368699,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297100,
+        "num": 297100,
+        "word": "江苏大学",
+        "onboard_time": 1718349381,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2793742,
+        "num": 296980,
+        "word": "周也黑脸",
+        "onboard_time": 1718359278,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1457425,
+        "num": 296896,
+        "word": "赖冠霖 退圈",
+        "onboard_time": 1718348478,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496196,
+        "num": 296717,
+        "word": "董宇辉直播永乐宫遭多人投诉",
+        "onboard_time": 1718366958,
+        "rank": 22,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 295755,
+        "num": 295755,
+        "word": "浙江大学数学系教授欢迎姜萍来浙大",
+        "onboard_time": 1718359818,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 333962,
+        "num": 295255,
+        "word": "别再买路边切一半的西瓜了",
+        "onboard_time": 1718367560,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 408804,
+        "num": 294083,
+        "word": "恋爱兄妹 癫",
+        "onboard_time": 1718350280,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495092,
+        "num": 293997,
+        "word": "赖冠霖改网名没文化的野人",
+        "onboard_time": 1718358139,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402267,
+        "num": 293030,
+        "word": "汪苏泷 奢香夫人",
+        "onboard_time": 1718341820,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76220,
+        "num": 292076,
+        "word": "台独闹腾得越凶灭亡得越快",
+        "onboard_time": 1718355439,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36524,
+        "num": 290951,
+        "word": "爸爸的手机该换了",
+        "onboard_time": 1718368339,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 378042,
+        "num": 290523,
+        "word": "易烊千玺也吃到了浦东机场的苦",
+        "onboard_time": 1718359759,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374392,
+        "num": 289661,
+        "word": "何老师回来了",
+        "onboard_time": 1718367859,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289056,
+        "num": 289056,
+        "word": "阴阳师皮肤",
+        "onboard_time": 1718367979,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261406,
+        "num": 261406,
+        "word": "数学竞赛组委会回应姜萍入围决赛",
+        "onboard_time": 1718365698,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 251941,
+        "num": 251941,
+        "word": "恋爱兄妹大结局",
+        "onboard_time": 1718368942,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230989,
+        "num": 230989,
+        "word": "姜萍目前只能就读江苏的三所高校",
+        "onboard_time": 1718358380,
+        "rank": 35,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 214292,
+        "num": 214292,
+        "word": "王星越吴谨言怎么不配",
+        "onboard_time": 1718367619,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205223,
+        "num": 205223,
+        "word": "赖冠霖 本人将转变赛道",
+        "onboard_time": 1718348838,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204687,
+        "num": 204687,
+        "word": "恋爱兄妹",
+        "onboard_time": 1718344219,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190242,
+        "num": 190242,
+        "word": "射手座追求最大限度的快乐",
+        "onboard_time": 1718369001,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201582,
+        "num": 189095,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1718368399,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110051,
+        "num": 184628,
+        "word": "小哥跨越4000米海拔为藏民换新家",
+        "onboard_time": 1718365218,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182336,
+        "num": 182336,
+        "word": "她咋了甄嬛传配得那么好",
+        "onboard_time": 1718358317,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168141,
+        "num": 168141,
+        "word": "欧洲杯",
+        "onboard_time": 1718349260,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164448,
+        "num": 164448,
+        "word": "王星越醉酒微醺走路",
+        "onboard_time": 1718366238,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158734,
+        "num": 158734,
+        "word": "怀孕期不让养猫所以要离婚了",
+        "onboard_time": 1718358139,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153541,
+        "num": 153541,
+        "word": "歌手2024",
+        "onboard_time": 1718367440,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147500,
+        "num": 147500,
+        "word": "林更新是在抛光地板吗",
+        "onboard_time": 1718369241,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144517,
+        "num": 144517,
+        "word": "猫猫以为人类偷吃猫罐头",
+        "onboard_time": 1718369360,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131993,
+        "num": 131993,
+        "word": "网易第五人格",
+        "onboard_time": 1718362099,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造和平发展的国际环境#"
+    }
+  }
+}

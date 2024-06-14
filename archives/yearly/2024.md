@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/01/01 00:21:05 ~ 2024/06/14 20:35:59
+本榜单时间：2024/01/01 00:21:05 ~ 2024/06/14 20:51:15
 </p>
 </blockquote>
 <p>
@@ -869,6 +869,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%23" target="weibo">
 小米SU7（热度：5288727）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%86%B2%E6%A6%9C%E5%87%A1%E5%B8%8C%E4%BA%9A%23" target="weibo">
+尚雯婕冲榜凡希亚（热度：5274695）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ Prada玄学（热度：3331937）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20%E5%8F%91%E7%A6%8F%23" target="weibo">
 蔡徐坤 发福（热度：3147213）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312306%20%E7%A7%92%E6%B2%A1%23" target="weibo">
-12306 秒没（热度：3144358）
 </a>
 </li>
 

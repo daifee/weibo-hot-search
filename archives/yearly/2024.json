@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718368559636,
+  "endTime": 1718369475338,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1711602861,
       "rank": 39,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 5274695,
+      "num": 5274695,
+      "word": "尚雯婕冲榜凡希亚",
+      "onboard_time": 1718369001,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 5230662,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1713345258,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3144358,
-      "num": 3144358,
-      "word": "12306 秒没",
-      "onboard_time": 1713251296,
-      "rank": 24,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
