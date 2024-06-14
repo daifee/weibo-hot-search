@@ -1,0 +1,410 @@
+{
+  "runTime": 1718360399712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3105337,
+        "num": 3105337,
+        "word": "赖冠霖 退圈",
+        "onboard_time": 1718348478,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1536670,
+        "num": 1536670,
+        "word": "江苏大学",
+        "onboard_time": 1718349381,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63260,
+        "num": 1389633,
+        "word": "好评中国",
+        "onboard_time": 1718355619,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2638784,
+        "num": 1381573,
+        "word": "周也黑脸",
+        "onboard_time": 1718359278,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1276522,
+        "num": 1276522,
+        "word": "洞洞鞋鼻祖一年卖了200亿",
+        "onboard_time": 1718355138,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692839,
+        "num": 692839,
+        "word": "直系亲属不能互相输血",
+        "onboard_time": 1718353819,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250946,
+        "num": 674407,
+        "word": "赖冠霖改网名没文化的野人",
+        "onboard_time": 1718358139,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 493846,
+        "num": 493846,
+        "word": "台独闹腾得越凶灭亡得越快",
+        "onboard_time": 1718355439,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425719,
+        "num": 425719,
+        "word": "张艺兴 五胎来了",
+        "onboard_time": 1718343677,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106264,
+        "num": 409452,
+        "word": "韦神曾获姜萍参加竞赛第一届金奖",
+        "onboard_time": 1718359220,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 949020,
+        "num": 398479,
+        "word": "六公主发的周也",
+        "onboard_time": 1718357120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564948,
+        "num": 383047,
+        "word": "赖冠霖 行行干破防",
+        "onboard_time": 1718356340,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473134,
+        "num": 372768,
+        "word": "英男子性行为时偷摘避孕套被判4年",
+        "onboard_time": 1718341039,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358850,
+        "num": 358850,
+        "word": "姜萍老师称其最好申请到常熟理工",
+        "onboard_time": 1718351419,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331281,
+        "num": 331281,
+        "word": "这英 歌手",
+        "onboard_time": 1718354119,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318543,
+        "num": 318543,
+        "word": "多所高校互动姜萍",
+        "onboard_time": 1718356939,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 304330,
+        "num": 304330,
+        "word": "她咋了甄嬛传配得那么好",
+        "onboard_time": 1718358317,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221031,
+        "num": 221031,
+        "word": "姜萍 爽文大女主",
+        "onboard_time": 1718354420,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 215716,
+        "num": 215716,
+        "word": "古茗就与恋与深空联名致歉",
+        "onboard_time": 1718353460,
+        "rank": 18,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 214581,
+        "num": 214581,
+        "word": "网传银行女职员拍视频深情表白行长",
+        "onboard_time": 1718345121,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514017,
+        "num": 214124,
+        "word": "苗苗郭碧婷 幼儿园最好的朋友",
+        "onboard_time": 1718354479,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276777,
+        "num": 212882,
+        "word": "吴露可逃 无露可涛",
+        "onboard_time": 1718354659,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247764,
+        "num": 212394,
+        "word": "浙江大学数学系教授欢迎姜萍来浙大",
+        "onboard_time": 1718359818,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 227961,
+        "num": 211230,
+        "word": "手机免密支付1岁娃误点120杯柠檬水",
+        "onboard_time": 1718345539,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226310,
+        "num": 209555,
+        "word": "姜萍目前只能就读江苏的三所高校",
+        "onboard_time": 1718358380,
+        "rank": 24,
+        "category": "互联网,教育"
+      },
+      {
+        "raw_hot": 41064,
+        "num": 208946,
+        "word": "汽车夏测国家标准来了",
+        "onboard_time": 1718358918,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225599,
+        "num": 208292,
+        "word": "易烊千玺也吃到了浦东机场的苦",
+        "onboard_time": 1718359759,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221771,
+        "num": 207153,
+        "word": "赵丽颖曾说想和胡歌合作",
+        "onboard_time": 1718358679,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206397,
+        "num": 206397,
+        "word": "长期吃轻食的人都怎么样了",
+        "onboard_time": 1718345121,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96657,
+        "num": 205206,
+        "word": "6所部属师范大学本研衔接公费教育",
+        "onboard_time": 1718358078,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 23450,
+        "num": 205161,
+        "word": "于和伟问界M9野生销售员",
+        "onboard_time": 1718358679,
+        "rank": 30,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 205161,
+        "num": 205160,
+        "word": "恋爱兄妹 癫",
+        "onboard_time": 1718350280,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194192,
+        "num": 194192,
+        "word": "王星越不舍得挂吴谨言电话",
+        "onboard_time": 1718353100,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185713,
+        "num": 185713,
+        "word": "怀孕期不让养猫所以要离婚了",
+        "onboard_time": 1718358139,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177431,
+        "num": 177431,
+        "word": "惠英红 谁是你老婆别乱喊",
+        "onboard_time": 1718358619,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177294,
+        "num": 177294,
+        "word": "汪苏泷 奢香夫人",
+        "onboard_time": 1718341820,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170499,
+        "num": 170499,
+        "word": "周深现场万人大喊少管我",
+        "onboard_time": 1718359638,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170167,
+        "num": 170167,
+        "word": "重庆农商行回应女职员拍视频表白行长",
+        "onboard_time": 1718358859,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167666,
+        "num": 167666,
+        "word": "田雨回应王启年女儿王霸小名争议",
+        "onboard_time": 1718356520,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162769,
+        "num": 162769,
+        "word": "爸爸在市场两百多块买的小狗",
+        "onboard_time": 1718355980,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157802,
+        "num": 157802,
+        "word": "微博电影之夜阵容",
+        "onboard_time": 1718359160,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152713,
+        "num": 152713,
+        "word": "复旦大学 论剑数学之巅",
+        "onboard_time": 1718359938,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149740,
+        "num": 149740,
+        "word": "华为客服回应牛肉卖断货",
+        "onboard_time": 1718356099,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146489,
+        "num": 146489,
+        "word": "赵丽颖草莓大福",
+        "onboard_time": 1718354659,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146114,
+        "num": 146114,
+        "word": "刘雅瑟眼睛被炸伤",
+        "onboard_time": 1718348598,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145849,
+        "num": 145849,
+        "word": "野孩子",
+        "onboard_time": 1718355138,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145798,
+        "num": 145798,
+        "word": "欧洲杯",
+        "onboard_time": 1718349260,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139882,
+        "num": 139882,
+        "word": "姜萍回应拿下数学竞赛全球12名",
+        "onboard_time": 1718345298,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131616,
+        "num": 131616,
+        "word": "奔跑吧 姚PD",
+        "onboard_time": 1718340199,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127232,
+        "num": 127232,
+        "word": "DRG对战KSG",
+        "onboard_time": 1718359339,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席阐释全球发展的中国方案#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718357696333,
+  "endTime": 1718360399712,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -225,6 +225,14 @@
       "onboard_time": 1717582219,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2638784,
+      "num": 1381573,
+      "word": "周也黑脸",
+      "onboard_time": 1718359278,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 2609846,
@@ -899,6 +907,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 1536670,
+      "num": 1536670,
+      "word": "江苏大学",
+      "onboard_time": 1718349381,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1520474,
       "num": 1520474,
       "word": "端午真争气生在了周一",
@@ -945,14 +961,6 @@
       "onboard_time": 1717765759,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1496106,
-      "num": 1496106,
-      "word": "江苏大学",
-      "onboard_time": 1718349381,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1492996,
@@ -1459,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1276522,
+      "num": 1276522,
+      "word": "洞洞鞋鼻祖一年卖了200亿",
+      "onboard_time": 1718355138,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1272015,
       "num": 1272015,
       "word": "美国4黑人入侵华人豪宅遭开枪击退",
@@ -1553,6 +1569,14 @@
       "onboard_time": 1717764080,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1250946,
+      "num": 674407,
+      "word": "赖冠霖改网名没文化的野人",
+      "onboard_time": 1718358139,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1250127,
@@ -2633,6 +2657,14 @@
       "onboard_time": 1717653558,
       "rank": 11,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 949020,
+      "num": 510022,
+      "word": "六公主发的周也",
+      "onboard_time": 1718357120,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 947964,
@@ -4507,6 +4539,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 692839,
+      "num": 692839,
+      "word": "直系亲属不能互相输血",
+      "onboard_time": 1718353819,
+      "rank": 9,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 690029,
       "num": 214984,
       "word": "张翰当伴郎",
@@ -5073,14 +5113,6 @@
       "onboard_time": 1718123056,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 651788,
-      "num": 510022,
-      "word": "六公主发的周也",
-      "onboard_time": 1718357120,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 651369,
@@ -6033,14 +6065,6 @@
       "onboard_time": 1717377378,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 580625,
-      "num": 580625,
-      "word": "直系亲属不能互相输血",
-      "onboard_time": 1718353819,
-      "rank": 9,
-      "category": "科学科普"
     },
     {
       "raw_hot": 580437,
@@ -10603,14 +10627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372053,
-      "num": 416246,
-      "word": "洞洞鞋鼻祖一年卖了200亿",
-      "onboard_time": 1718355138,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 371984,
       "num": 371984,
       "word": "孙颖莎vs田志希",
@@ -12427,6 +12443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318543,
+      "num": 318543,
+      "word": "多所高校互动姜萍",
+      "onboard_time": 1718356939,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 318284,
       "num": 318284,
       "word": "yuyanjia爆料老头杯奖金发礼物",
@@ -12929,6 +12953,14 @@
       "onboard_time": 1717244958,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304330,
+      "num": 304330,
+      "word": "她咋了甄嬛传配得那么好",
+      "onboard_time": 1718358317,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 304214,
@@ -15587,6 +15619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247764,
+      "num": 212394,
+      "word": "浙江大学数学系教授欢迎姜萍来浙大",
+      "onboard_time": 1718359818,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 247760,
       "num": 247760,
       "word": "我才不要和你做朋友呢",
@@ -16931,6 +16971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226310,
+      "num": 209555,
+      "word": "姜萍目前只能就读江苏的三所高校",
+      "onboard_time": 1718358380,
+      "rank": 24,
+      "category": "互联网,教育"
+    },
+    {
       "raw_hot": 226227,
       "num": 226227,
       "word": "刘亦菲个人微指破3.7亿",
@@ -16969,6 +17017,14 @@
       "onboard_time": 1717301537,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 225599,
+      "num": 208292,
+      "word": "易烊千玺也吃到了浦东机场的苦",
+      "onboard_time": 1718359759,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 225566,
@@ -17201,6 +17257,14 @@
       "onboard_time": 1717568357,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221771,
+      "num": 207153,
+      "word": "赵丽颖曾说想和胡歌合作",
+      "onboard_time": 1718358679,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 221750,
@@ -21715,6 +21779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185713,
+      "num": 185713,
+      "word": "怀孕期不让养猫所以要离婚了",
+      "onboard_time": 1718358139,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185624,
       "num": 185624,
       "word": "陈乔恩吴谨言脸颊比心",
@@ -22459,14 +22531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178932,
-      "num": 178932,
-      "word": "多所高校互动姜萍",
-      "onboard_time": 1718356939,
-      "rank": 34,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 178869,
       "num": 319820,
       "word": "天热北京一考点给陪考家长发雪糕",
@@ -22681,6 +22745,14 @@
       "onboard_time": 1717415478,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177431,
+      "num": 177431,
+      "word": "惠英红 谁是你老婆别乱喊",
+      "onboard_time": 1718358619,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 177370,
@@ -23475,6 +23547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170499,
+      "num": 170499,
+      "word": "周深现场万人大喊少管我",
+      "onboard_time": 1718359638,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170469,
       "num": 170469,
       "word": "咸粽子比甜粽子晚了1000多年",
@@ -23529,6 +23609,14 @@
       "onboard_time": 1718179940,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 170167,
+      "num": 170167,
+      "word": "重庆农商行回应女职员拍视频表白行长",
+      "onboard_time": 1718358859,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170142,
@@ -26145,6 +26233,14 @@
       "onboard_time": 1717582816,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 152713,
+      "num": 152713,
+      "word": "复旦大学 论剑数学之巅",
+      "onboard_time": 1718359938,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 152659,
@@ -30291,6 +30387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127232,
+      "num": 127232,
+      "word": "DRG对战KSG",
+      "onboard_time": 1718359339,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127202,
       "num": 127202,
       "word": "留给国足的时间不多了",
@@ -33627,6 +33731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106264,
+      "num": 409452,
+      "word": "韦神曾获姜萍参加竞赛第一届金奖",
+      "onboard_time": 1718359220,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 106254,
       "num": 106254,
       "word": "黑神话悟空登顶Steam国区热销榜",
@@ -34625,6 +34737,14 @@
       "onboard_time": 1717807637,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96657,
+      "num": 205206,
+      "word": "6所部属师范大学本研衔接公费教育",
+      "onboard_time": 1718358078,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 96146,
@@ -36715,6 +36835,14 @@
       "category": "社会新闻,社会议题"
     },
     {
+      "raw_hot": 63260,
+      "num": 1389633,
+      "word": "好评中国",
+      "onboard_time": 1718355619,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62757,
       "num": 137735,
       "word": "丁程鑫为秦霄贤操碎了心",
@@ -37441,14 +37569,6 @@
       "onboard_time": 1717715535,
       "rank": 30,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 54234,
-      "num": 762143,
-      "word": "好评中国",
-      "onboard_time": 1718355619,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54201,
@@ -38440,6 +38560,14 @@
       "word": "遇事不决选大众",
       "onboard_time": 1717214957,
       "rank": 29,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 41064,
+      "num": 208946,
+      "word": "汽车夏测国家标准来了",
+      "onboard_time": 1718358918,
+      "rank": 25,
       "category": "汽车"
     },
     {
@@ -39673,6 +39801,14 @@
       "onboard_time": 1718300113,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23450,
+      "num": 205161,
+      "word": "于和伟问界M9野生销售员",
+      "onboard_time": 1718358679,
+      "rank": 30,
+      "category": "艺人,汽车"
     },
     {
       "raw_hot": 23282,
