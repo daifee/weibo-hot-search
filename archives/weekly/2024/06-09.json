@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718378511039,
+  "endTime": 1718379306737,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -363,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1581573,
+      "num": 1581573,
+      "word": "姜萍已达到数学系本科生的水平",
+      "onboard_time": 1718373386,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1564342,
       "num": 551690,
       "word": "那英 怎么又说你难听",
@@ -465,14 +473,6 @@
       "onboard_time": 1718161698,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1459674,
-      "num": 512429,
-      "word": "姜萍已达到数学系本科生的水平",
-      "onboard_time": 1718373386,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 1438100,
@@ -971,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1039964,
+      "num": 481932,
+      "word": "汪苏泷 泷泷看到热搜了",
+      "onboard_time": 1718374465,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1038738,
       "num": 1038738,
       "word": "张艺兴 五胎来了",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1718364438,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 973877,
-      "num": 481932,
-      "word": "汪苏泷 泷泷看到热搜了",
-      "onboard_time": 1718374465,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 973363,
@@ -1731,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740607,
+      "num": 740607,
+      "word": "日本一女子患产后抑郁勒死三个女儿",
+      "onboard_time": 1718374524,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734378,
       "num": 734378,
       "word": "韩国地震",
@@ -1761,6 +1769,14 @@
       "onboard_time": 1718096779,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 731470,
+      "num": 254874,
+      "word": "月经提前或推迟超7天要去医院",
+      "onboard_time": 1718377641,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 729085,
@@ -2171,14 +2187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 658471,
-      "num": 658471,
-      "word": "日本一女子患产后抑郁勒死三个女儿",
-      "onboard_time": 1718374524,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 657087,
       "num": 230765,
       "word": "韩国女子20年前遭集体性侵",
@@ -2481,6 +2489,14 @@
       "onboard_time": 1718345121,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 601377,
+      "num": 221153,
+      "word": "那英不敢跟尚雯婕聊天",
+      "onboard_time": 1718376321,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 598319,
@@ -3459,14 +3475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 476162,
-      "num": 221153,
-      "word": "那英不敢跟尚雯婕聊天",
-      "onboard_time": 1718376321,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 475540,
       "num": 475540,
       "word": "日本主持人称难怪烟花是中国发明的",
@@ -4067,6 +4075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426792,
+      "num": 227979,
+      "word": "肖战机场",
+      "onboard_time": 1718377761,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426119,
       "num": 426119,
       "word": "刘亦菲没待播剧了",
@@ -4153,14 +4169,6 @@
       "onboard_time": 1718362759,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418005,
-      "num": 254874,
-      "word": "月经提前或推迟超7天要去医院",
-      "onboard_time": 1718377641,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 417543,
@@ -4729,14 +4737,6 @@
       "onboard_time": 1718272158,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367424,
-      "num": 227979,
-      "word": "肖战机场",
-      "onboard_time": 1718377761,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 367322,
@@ -5539,6 +5539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321847,
+      "num": 192913,
+      "word": "周也曾解释自己黑脸",
+      "onboard_time": 1718378182,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321282,
       "num": 321282,
       "word": "为什么黄金首饰卖不动了",
@@ -5577,6 +5585,14 @@
       "onboard_time": 1718337499,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 318741,
+      "num": 190885,
+      "word": "宰亨碎了",
+      "onboard_time": 1718378421,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 318716,
@@ -6899,14 +6915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 256661,
-      "num": 179998,
-      "word": "周也曾解释自己黑脸",
-      "onboard_time": 1718378182,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256491,
       "num": 256491,
       "word": "刘亦菲至今没结婚的原因",
@@ -7241,6 +7249,14 @@
       "onboard_time": 1718167880,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243287,
+      "num": 243287,
+      "word": "网友花2万打假小龙虾超9成缺斤少两",
+      "onboard_time": 1718376382,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243056,
@@ -7689,14 +7705,6 @@
       "onboard_time": 1718339179,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226950,
-      "num": 177066,
-      "word": "宰亨碎了",
-      "onboard_time": 1718378421,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 226817,
@@ -8201,14 +8209,6 @@
       "onboard_time": 1718027899,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 213118,
-      "num": 213118,
-      "word": "网友花2万打假小龙虾超9成缺斤少两",
-      "onboard_time": 1718376382,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 212748,
@@ -8812,7 +8812,7 @@
     },
     {
       "raw_hot": 203368,
-      "num": 203368,
+      "num": 249538,
       "word": "姜萍的祖师爷来微博了",
       "onboard_time": 1718376022,
       "rank": 37,
@@ -10035,6 +10035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183151,
+      "num": 183151,
+      "word": "化妆的意义在此刻具象化了",
+      "onboard_time": 1718378061,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 183076,
       "num": 183076,
       "word": "黄亦玫被PUA成家庭主妇",
@@ -10745,14 +10753,6 @@
       "onboard_time": 1718326818,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169812,
-      "num": 169812,
-      "word": "化妆的意义在此刻具象化了",
-      "onboard_time": 1718378061,
-      "rank": 48,
-      "category": "美妆"
     },
     {
       "raw_hot": 169743,
@@ -11473,6 +11473,14 @@
       "onboard_time": 1718085739,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158788,
+      "num": 158788,
+      "word": "光与夜之恋 炫迈",
+      "onboard_time": 1718378540,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 158666,
@@ -12915,6 +12923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139045,
+      "num": 146861,
+      "word": "中国女排正式锁定巴黎奥运门票",
+      "onboard_time": 1718378841,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138931,
       "num": 138931,
       "word": "国足世预赛",
@@ -14033,6 +14049,14 @@
       "onboard_time": 1718148136,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125658,
+      "num": 543880,
+      "word": "姜萍并不偏科",
+      "onboard_time": 1718377221,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 125389,
@@ -15185,14 +15209,6 @@
       "onboard_time": 1717926858,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108263,
-      "num": 543880,
-      "word": "姜萍并不偏科",
-      "onboard_time": 1718377221,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 108059,
@@ -17977,6 +17993,14 @@
       "onboard_time": 1718170338,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19931,
+      "num": 184070,
+      "word": "vivo镜头下汪苏泷舞台高光时刻",
+      "onboard_time": 1718370563,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 19838,

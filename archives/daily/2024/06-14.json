@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718378511039,
+  "endTime": 1718379306737,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1581573,
+      "num": 1581573,
+      "word": "姜萍已达到数学系本科生的水平",
+      "onboard_time": 1718373386,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1564342,
       "num": 551690,
       "word": "那英 怎么又说你难听",
@@ -177,14 +185,6 @@
       "onboard_time": 1718349620,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1459674,
-      "num": 512429,
-      "word": "姜萍已达到数学系本科生的水平",
-      "onboard_time": 1718373386,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 1397351,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1039964,
+      "num": 481932,
+      "word": "汪苏泷 泷泷看到热搜了",
+      "onboard_time": 1718374465,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1038738,
       "num": 1038738,
       "word": "张艺兴 五胎来了",
@@ -313,14 +321,6 @@
       "onboard_time": 1718364438,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 973877,
-      "num": 481932,
-      "word": "汪苏泷 泷泷看到热搜了",
-      "onboard_time": 1718374465,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 954818,
@@ -443,12 +443,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 740607,
+      "num": 740607,
+      "word": "日本一女子患产后抑郁勒死三个女儿",
+      "onboard_time": 1718374524,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 733182,
       "num": 733182,
       "word": "尚雯婕去歌手不坐飞机的原因",
       "onboard_time": 1718320575,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 731470,
+      "num": 254874,
+      "word": "月经提前或推迟超7天要去医院",
+      "onboard_time": 1718377641,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 694856,
@@ -496,14 +512,6 @@
       "word": "同济大学发博祝贺姜萍",
       "onboard_time": 1718343978,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 658471,
-      "num": 658471,
-      "word": "日本一女子患产后抑郁勒死三个女儿",
-      "onboard_time": 1718374524,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -577,6 +585,14 @@
       "onboard_time": 1718345121,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 601377,
+      "num": 221153,
+      "word": "那英不敢跟尚雯婕聊天",
+      "onboard_time": 1718376321,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 598273,
@@ -747,14 +763,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 476162,
-      "num": 221153,
-      "word": "那英不敢跟尚雯婕聊天",
-      "onboard_time": 1718376321,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 472963,
       "num": 472963,
       "word": "货拉拉司机送完货反手举报了货主",
@@ -835,6 +843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 426792,
+      "num": 227979,
+      "word": "肖战机场",
+      "onboard_time": 1718377761,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423555,
       "num": 423555,
       "word": "奔跑吧今晚进军音综赛道",
@@ -873,14 +889,6 @@
       "onboard_time": 1718362759,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 418005,
-      "num": 254874,
-      "word": "月经提前或推迟超7天要去医院",
-      "onboard_time": 1718377641,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 417543,
@@ -977,14 +985,6 @@
       "onboard_time": 1718367859,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 367424,
-      "num": 227979,
-      "word": "肖战机场",
-      "onboard_time": 1718377761,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 361950,
@@ -1155,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321847,
+      "num": 192913,
+      "word": "周也曾解释自己黑脸",
+      "onboard_time": 1718378182,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319638,
       "num": 319638,
       "word": "张若昀 领口尺度",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1718285719,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 318741,
+      "num": 190885,
+      "word": "宰亨碎了",
+      "onboard_time": 1718378421,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 318543,
@@ -1435,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256661,
-      "num": 179998,
-      "word": "周也曾解释自己黑脸",
-      "onboard_time": 1718378182,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256307,
       "num": 256307,
       "word": "恋爱兄妹",
@@ -1473,6 +1481,14 @@
       "onboard_time": 1718373924,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 243287,
+      "num": 243287,
+      "word": "网友花2万打假小龙虾超9成缺斤少两",
+      "onboard_time": 1718376382,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243056,
@@ -1609,14 +1625,6 @@
       "onboard_time": 1718339179,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226950,
-      "num": 177066,
-      "word": "宰亨碎了",
-      "onboard_time": 1718378421,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 226817,
@@ -1763,14 +1771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213118,
-      "num": 213118,
-      "word": "网友花2万打假小龙虾超9成缺斤少两",
-      "onboard_time": 1718376382,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209931,
       "num": 209931,
       "word": "奔跑吧",
@@ -1852,7 +1852,7 @@
     },
     {
       "raw_hot": 203368,
-      "num": 203368,
+      "num": 249538,
       "word": "姜萍的祖师爷来微博了",
       "onboard_time": 1718376022,
       "rank": 37,
@@ -2043,6 +2043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183151,
+      "num": 183151,
+      "word": "化妆的意义在此刻具象化了",
+      "onboard_time": 1718378061,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 180086,
       "num": 180086,
       "word": "丫丫的炸毛耳朵好可爱",
@@ -2187,14 +2195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169812,
-      "num": 169812,
-      "word": "化妆的意义在此刻具象化了",
-      "onboard_time": 1718378061,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 169610,
       "num": 169610,
       "word": "华为牛肉每千克最高349元",
@@ -2297,6 +2297,14 @@
       "onboard_time": 1718324478,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158788,
+      "num": 158788,
+      "word": "光与夜之恋 炫迈",
+      "onboard_time": 1718378540,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 158486,
@@ -2563,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139045,
+      "num": 146861,
+      "word": "中国女排正式锁定巴黎奥运门票",
+      "onboard_time": 1718378841,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138295,
       "num": 138295,
       "word": "姜萍决赛或将角逐韦神获奖赛道",
@@ -2755,6 +2771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125658,
+      "num": 543880,
+      "word": "姜萍并不偏科",
+      "onboard_time": 1718377221,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 125386,
       "num": 125386,
       "word": "玫瑰的梗事",
@@ -2905,14 +2929,6 @@
       "onboard_time": 1718324058,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108263,
-      "num": 543880,
-      "word": "姜萍并不偏科",
-      "onboard_time": 1718377221,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 104794,
@@ -3401,6 +3417,14 @@
       "onboard_time": 1718300113,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19931,
+      "num": 184070,
+      "word": "vivo镜头下汪苏泷舞台高光时刻",
+      "onboard_time": 1718370563,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 18827,
