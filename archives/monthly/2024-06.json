@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718369475338,
+  "endTime": 1718371299650,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -19,6 +19,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 7670166,
+      "num": 7670166,
+      "word": "尚雯婕冲榜凡希亚",
+      "onboard_time": 1718369001,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7628595,
       "num": 8085630,
       "word": "国足晋级18强赛",
@@ -33,6 +41,14 @@
       "onboard_time": 1717836078,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 7515166,
+      "num": 1454741,
+      "word": "汪苏泷奢香夫人 难听",
+      "onboard_time": 1718370202,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 7442935,
@@ -73,14 +89,6 @@
       "onboard_time": 1718108599,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5274695,
-      "num": 5274695,
-      "word": "尚雯婕冲榜凡希亚",
-      "onboard_time": 1718369001,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 4887908,
@@ -297,6 +305,14 @@
       "onboard_time": 1717719618,
       "rank": 1,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 2373351,
+      "num": 554472,
+      "word": "尚雯婕冲榜失败",
+      "onboard_time": 1718369600,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 2347646,
@@ -2747,6 +2763,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 946771,
+      "num": 443749,
+      "word": "歌手 剧本",
+      "onboard_time": 1718370442,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 944279,
       "num": 944279,
       "word": "大润发放弃小润发",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1717248498,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 919562,
+      "num": 855694,
+      "word": "汪苏泷 奢香夫人",
+      "onboard_time": 1718341820,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 918209,
@@ -3201,14 +3233,6 @@
       "onboard_time": 1718096959,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 855694,
-      "num": 855694,
-      "word": "汪苏泷 奢香夫人",
-      "onboard_time": 1718341820,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 853672,
@@ -9915,6 +9939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 402652,
+      "num": 305907,
+      "word": "别再买路边切一半的西瓜了",
+      "onboard_time": 1718367560,
+      "rank": 23,
+      "category": "美食"
+    },
+    {
       "raw_hot": 402650,
       "num": 402650,
       "word": "河南警方通报男子持刀刺死女子",
@@ -10571,6 +10603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 379309,
+      "num": 251941,
+      "word": "恋爱兄妹大结局",
+      "onboard_time": 1718368942,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379006,
       "num": 379006,
       "word": "霸刀山庄 大门",
@@ -10920,6 +10960,14 @@
       "word": "陈雨浓董力",
       "onboard_time": 1718014457,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 366043,
+      "num": 240874,
+      "word": "汪苏泷是不是想走了",
+      "onboard_time": 1718370803,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -11491,6 +11539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349266,
+      "num": 239086,
+      "word": "浪姐不放人吗",
+      "onboard_time": 1718370982,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349229,
       "num": 349229,
       "word": "咸鱼 逆水寒",
@@ -12025,14 +12081,6 @@
       "onboard_time": 1717334660,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333962,
-      "num": 305907,
-      "word": "别再买路边切一半的西瓜了",
-      "onboard_time": 1718367560,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 333952,
@@ -12753,6 +12801,14 @@
       "onboard_time": 1717242677,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 315192,
+      "num": 187218,
+      "word": "乌尔善终于对国漫下手了",
+      "onboard_time": 1718369721,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 315067,
@@ -13809,6 +13865,14 @@
       "onboard_time": 1718269038,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289825,
+      "num": 222127,
+      "word": "歌手顺序",
+      "onboard_time": 1717771582,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 289790,
@@ -15651,14 +15715,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 251941,
-      "num": 251941,
-      "word": "恋爱兄妹大结局",
-      "onboard_time": 1718368942,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251799,
       "num": 251799,
       "word": "周深演唱会抢票",
@@ -17459,14 +17515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 222127,
-      "num": 222127,
-      "word": "歌手顺序",
-      "onboard_time": 1717771582,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 222027,
       "num": 209053,
       "word": "悬疑剧又有判头了",
@@ -18715,6 +18763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209061,
+      "num": 153070,
+      "word": "归途有风",
+      "onboard_time": 1718370681,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209031,
       "num": 209031,
       "word": "胡歌高圆圆衣服上是自愿上班",
@@ -19753,6 +19809,14 @@
       "onboard_time": 1717384938,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201397,
+      "num": 150424,
+      "word": "黄宣好可爱",
+      "onboard_time": 1718371221,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 201106,
@@ -24275,6 +24339,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 167302,
+      "num": 167302,
+      "word": "猫猫以为人类偷吃猫罐头",
+      "onboard_time": 1718369360,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167277,
       "num": 123822,
       "word": "王源演唱会抢票猫眼崩了",
@@ -27923,14 +27995,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 144517,
-      "num": 144517,
-      "word": "猫猫以为人类偷吃猫罐头",
-      "onboard_time": 1718369360,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144495,
       "num": 1267328,
       "word": "芒种遇到周三有多忙",
@@ -29497,6 +29561,14 @@
       "onboard_time": 1718365218,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134837,
+      "num": 134837,
+      "word": "MRC对战成都GG",
+      "onboard_time": 1718371041,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 134824,
@@ -32009,6 +32081,14 @@
       "onboard_time": 1717425979,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119690,
+      "num": 134420,
+      "word": "光与夜之恋兑换码",
+      "onboard_time": 1718370623,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 119613,
@@ -35827,6 +35907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84103,
+      "num": 535776,
+      "word": "1987年高考阅卷就这么智能了吗",
+      "onboard_time": 1718370923,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 84048,
       "num": 84048,
       "word": "iPadOS18细节功能一览",
@@ -37313,6 +37401,14 @@
       "onboard_time": 1717675218,
       "rank": 41,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 61439,
+      "num": 1535810,
+      "word": "清明上河图动起来了",
+      "onboard_time": 1718370681,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61335,
@@ -39793,6 +39889,14 @@
       "onboard_time": 1717554198,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30104,
+      "num": 458582,
+      "word": "淘宝102万寻找毒奶球迷",
+      "onboard_time": 1718370023,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 30044,

@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718369475338,
+  "endTime": 1718371299650,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -755,6 +755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7670166,
+      "num": 7670166,
+      "word": "尚雯婕冲榜凡希亚",
+      "onboard_time": 1718369001,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 7628595,
       "num": 8085630,
       "word": "国足晋级18强赛",
@@ -801,6 +809,14 @@
       "onboard_time": 1707461254,
       "rank": 42,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 7515166,
+      "num": 1454741,
+      "word": "汪苏泷奢香夫人 难听",
+      "onboard_time": 1718370202,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 7494354,
@@ -1145,14 +1161,6 @@
       "onboard_time": 1711602861,
       "rank": 39,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 5274695,
-      "num": 5274695,
-      "word": "尚雯婕冲榜凡希亚",
-      "onboard_time": 1718369001,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 5230662,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1706744846,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3147213,
-      "num": 3147213,
-      "word": "蔡徐坤 发福",
-      "onboard_time": 1713345258,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
