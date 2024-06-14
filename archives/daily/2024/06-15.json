@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718390333499,
+  "endTime": 1718392564227,
   "band_list": [
     {
       "raw_hot": 1657955,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96315,
+      "num": 74581,
+      "word": "郝蕾表演课不招收纯素人",
+      "onboard_time": 1718388133,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93843,
       "num": 255915,
       "word": "各大高校安利自家数学专业",
@@ -411,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82037,
-      "num": 74581,
-      "word": "郝蕾表演课不招收纯素人",
-      "onboard_time": 1718388133,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76370,
       "num": 212215,
       "word": "老师说姜萍不是天才型选手",
@@ -451,12 +451,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67475,
+      "num": 85051,
+      "word": "欧洲杯",
+      "onboard_time": 1718349260,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65571,
       "num": 280535,
       "word": "被浙江医院产房外的显示屏暖到了",
       "onboard_time": 1718381837,
       "rank": 10,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 63827,
+      "num": 85069,
+      "word": "欧洲杯24队实力榜",
+      "onboard_time": 1718384056,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 60834,
@@ -483,22 +499,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 52643,
-      "num": 85069,
-      "word": "欧洲杯24队实力榜",
-      "onboard_time": 1718384056,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48249,
-      "num": 85051,
-      "word": "欧洲杯",
-      "onboard_time": 1718349260,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 40842,
       "num": 79301,
       "word": "原来大学毕业后可以有这么多选择",
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27186,
+      "num": 27186,
+      "word": "赖冠霖 101时做成标本",
+      "onboard_time": 1718392271,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11456,
       "num": 117107,
       "word": "女儿高考后想打工妈妈劝其享受假期",
@@ -527,6 +535,14 @@
       "num": 131901,
       "word": "值得被写进作文里的美好瞬间",
       "onboard_time": 1718385614,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8608,
+      "num": 66324,
+      "word": "浙江每天2300人撸起袖子踊跃献血",
+      "onboard_time": 1718391193,
       "rank": 9,
       "category": "社会新闻"
     }
