@@ -1,10 +1,10 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718372047020,
+  "endTime": 1718374773242,
   "band_list": [
     {
-      "raw_hot": 8068799,
-      "num": 8068799,
+      "raw_hot": 8789029,
+      "num": 8789029,
       "word": "汪苏泷奢香夫人 难听",
       "onboard_time": 1718370202,
       "rank": 3,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5786718,
+      "num": 5786718,
+      "word": "袁娅维太牛了",
+      "onboard_time": 1718372784,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 5347676,
       "num": 5347676,
       "word": "泰国vs新加坡",
@@ -73,6 +81,14 @@
       "onboard_time": 1718359278,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3089382,
+      "num": 3089382,
+      "word": "孙楠 很牛但油",
+      "onboard_time": 1718371582,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 3066697,
@@ -120,14 +136,6 @@
       "word": "尚雯婕低音 好听",
       "onboard_time": 1718369360,
       "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2427132,
-      "num": 2427132,
-      "word": "孙楠 很牛但油",
-      "onboard_time": 1718371582,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -209,6 +217,14 @@
       "onboard_time": 1717918217,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1843585,
+      "num": 419569,
+      "word": "歌手排名",
+      "onboard_time": 1718373924,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1825551,
@@ -345,6 +361,14 @@
       "onboard_time": 1718257518,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1558020,
+      "num": 408896,
+      "word": "袁娅维冲榜香缇莫",
+      "onboard_time": 1718371884,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 1556636,
@@ -659,12 +683,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1248238,
+      "num": 253522,
+      "word": "那英 怎么又说你难听",
+      "onboard_time": 1718374524,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1244043,
       "num": 221422,
       "word": "高铁上拒绝了宝妈的换座要求",
       "onboard_time": 1717937717,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1235178,
+      "num": 252320,
+      "word": "孙楠第一",
+      "onboard_time": 1718374226,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 1228761,
@@ -1979,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 677065,
+      "num": 677065,
+      "word": "朱婷好牛",
+      "onboard_time": 1718372665,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 676829,
       "num": 236952,
       "word": "臭宝回应崩了",
@@ -2132,7 +2180,7 @@
     },
     {
       "raw_hot": 651230,
-      "num": 239086,
+      "num": 242306,
       "word": "浪姐不放人吗",
       "onboard_time": 1718370982,
       "rank": 31,
@@ -2145,6 +2193,14 @@
       "onboard_time": 1718082500,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647904,
+      "num": 245483,
+      "word": "那英 再见",
+      "onboard_time": 1718371403,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 646407,
@@ -2668,7 +2724,7 @@
     },
     {
       "raw_hot": 551574,
-      "num": 240874,
+      "num": 241581,
       "word": "汪苏泷是不是想走了",
       "onboard_time": 1718370803,
       "rank": 30,
@@ -2955,6 +3011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 519369,
+      "num": 519369,
+      "word": "星火英语崩了",
+      "onboard_time": 1718371403,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 516563,
       "num": 516563,
       "word": "邓超水下吐血镜头",
@@ -3121,6 +3185,14 @@
       "onboard_time": 1717905797,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 503804,
+      "num": 246170,
+      "word": "姜萍已达到数学系本科生的水平",
+      "onboard_time": 1718373386,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 502632,
@@ -4259,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394723,
+      "num": 394723,
+      "word": "中国女排3比0德国女排",
+      "onboard_time": 1718373865,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394679,
       "num": 235299,
       "word": "陈丽君拒绝陈昊宇戚薇",
@@ -4787,11 +4867,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 355658,
-      "num": 208789,
-      "word": "袁娅维冲榜香缇莫",
-      "onboard_time": 1718371884,
-      "rank": 31,
+      "raw_hot": 355754,
+      "num": 231366,
+      "word": "汪苏泷 泷泷看到热搜了",
+      "onboard_time": 1718374465,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -4907,14 +4987,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 348302,
-      "num": 348302,
-      "word": "星火英语崩了",
-      "onboard_time": 1718371403,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 347459,
       "num": 229108,
       "word": "宋亚轩刘耀文一起逛街",
@@ -5009,6 +5081,14 @@
       "onboard_time": 1717992138,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 341076,
+      "num": 341076,
+      "word": "郎平指导来到了现场",
+      "onboard_time": 1718372003,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 340910,
@@ -6003,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290152,
+      "num": 232485,
+      "word": "周深 人是",
+      "onboard_time": 1718374283,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290014,
       "num": 290014,
       "word": "2元面包店的面包能吃吗",
@@ -6177,6 +6265,14 @@
       "onboard_time": 1718180059,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280706,
+      "num": 245954,
+      "word": "每天吃西瓜尽量别超500克",
+      "onboard_time": 1718371763,
+      "rank": 38,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 280459,
@@ -6595,14 +6691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 262623,
-      "num": 168242,
-      "word": "那英 再见",
-      "onboard_time": 1718371403,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262022,
       "num": 364335,
       "word": "年轻人为何喜欢上老年机",
@@ -6993,6 +7081,14 @@
       "onboard_time": 1718014277,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245783,
+      "num": 245783,
+      "word": "第一次在鱼脸上看到了无语的表情",
+      "onboard_time": 1718373924,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 245340,
@@ -7899,6 +7995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214732,
+      "num": 3665726,
+      "word": "清明上河图动起来了",
+      "onboard_time": 1718370681,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214682,
       "num": 352574,
       "word": "山河三省霸榜全国高温榜",
@@ -8675,6 +8779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201795,
+      "num": 238727,
+      "word": "RW对战JDG",
+      "onboard_time": 1718373684,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201670,
       "num": 201670,
       "word": "端午安康",
@@ -8785,6 +8897,14 @@
       "onboard_time": 1717944558,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 199406,
+      "num": 246848,
+      "word": "各大高校安利自家数学专业",
+      "onboard_time": 1718372725,
+      "rank": 28,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 199371,
@@ -8977,6 +9097,14 @@
       "onboard_time": 1718067859,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195986,
+      "num": 236452,
+      "word": "在公司3年不涨薪提离职却涨500",
+      "onboard_time": 1718374163,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 195982,
@@ -10227,14 +10355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175336,
-      "num": 175336,
-      "word": "每天吃西瓜尽量别超500克",
-      "onboard_time": 1718371763,
-      "rank": 38,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 175253,
       "num": 175253,
       "word": "王星越差点把前夫哥叉走",
@@ -11273,6 +11393,14 @@
       "onboard_time": 1718078342,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157962,
+      "num": 217008,
+      "word": "老师说姜萍不是天才型选手",
+      "onboard_time": 1718373325,
+      "rank": 49,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 157939,
@@ -12464,14 +12592,6 @@
       "word": "杰伦布朗杀死比赛",
       "onboard_time": 1717991597,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 141193,
-      "num": 141193,
-      "word": "郎平指导来到了现场",
-      "onboard_time": 1718372003,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -15307,14 +15427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98819,
-      "num": 3379744,
-      "word": "清明上河图动起来了",
-      "onboard_time": 1718370681,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98733,
       "num": 480222,
       "word": "熄灯是一天中最治愈的时刻",
@@ -16179,6 +16291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65424,
+      "num": 298092,
+      "word": "姜萍说数学是人生B计划",
+      "onboard_time": 1718370803,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65253,
       "num": 475565,
       "word": "姜萍是谁",
@@ -16297,6 +16417,14 @@
       "onboard_time": 1718284038,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 60863,
+      "num": 228552,
+      "word": "00后出手了老板悬崖营业",
+      "onboard_time": 1718374283,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 60764,
@@ -17905,6 +18033,14 @@
       "onboard_time": 1718136670,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12856,
+      "num": 246657,
+      "word": "日本一女子患产后抑郁勒死三个女儿",
+      "onboard_time": 1718374524,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12283,

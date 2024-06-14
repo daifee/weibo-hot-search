@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718372047020,
+  "endTime": 1718374773242,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 8789029,
+      "num": 8789029,
+      "word": "汪苏泷奢香夫人 难听",
+      "onboard_time": 1718370202,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 8787148,
       "num": 462068,
       "word": "汪峰承认恋情",
@@ -641,14 +649,6 @@
       "onboard_time": 1709007695,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 8068799,
-      "num": 8068799,
-      "word": "汪苏泷奢香夫人 难听",
-      "onboard_time": 1718370202,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 8062954,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1704173134,
       "rank": 0,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 5786718,
+      "num": 5786718,
+      "word": "袁娅维太牛了",
+      "onboard_time": 1718372784,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 5781277,
@@ -2392,14 +2400,6 @@
       "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
       "onboard_time": 1715569340,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3153639,
-      "num": 3153639,
-      "word": "执行死刑 三针注射",
-      "onboard_time": 1706744846,
-      "rank": 0,
       "category": "社会新闻"
     }
   ],
