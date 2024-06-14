@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718393661346,
+  "endTime": 1718396405029,
   "band_list": [
     {
       "raw_hot": 1657955,
@@ -235,6 +235,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 181463,
+      "num": 216364,
+      "word": "德国vs苏格兰",
+      "onboard_time": 1718377461,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180812,
       "num": 263076,
       "word": "别再买路边切一半的西瓜了",
@@ -304,14 +312,6 @@
       "word": "朱婷好牛",
       "onboard_time": 1718372665,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 141569,
-      "num": 216364,
-      "word": "德国vs苏格兰",
-      "onboard_time": 1718377461,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -507,8 +507,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36849,
+      "num": 36849,
+      "word": "沙特阿拉伯不续签石油美元协议",
+      "onboard_time": 1718394851,
+      "rank": 17,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 31749,
-      "num": 27186,
+      "num": 29676,
       "word": "赖冠霖 101时做成标本",
       "onboard_time": 1718392271,
       "rank": 43,
@@ -523,8 +531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12838,
-      "num": 22462,
+      "raw_hot": 16112,
+      "num": 25065,
       "word": "大一VS大四毕业季文案",
       "onboard_time": 1718392871,
       "rank": 47,
@@ -551,6 +559,14 @@
       "num": 66324,
       "word": "浙江每天2300人撸起袖子踊跃献血",
       "onboard_time": 1718391193,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5421,
+      "num": 40188,
+      "word": "8车道高速与地下春秋战车震撼交汇",
+      "onboard_time": 1718394911,
       "rank": 9,
       "category": "社会新闻"
     }
