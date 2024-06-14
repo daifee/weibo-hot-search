@@ -1,0 +1,410 @@
+{
+  "runTime": 1718336131946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1432171,
+        "num": 1432171,
+        "word": "姜萍",
+        "onboard_time": 1718278819,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025331,
+        "num": 1025331,
+        "word": "张百乔发文回应",
+        "onboard_time": 1718331318,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44135,
+        "num": 976338,
+        "word": "南海沉船打捞出的文物惊艳了",
+        "onboard_time": 1718269578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929827,
+        "num": 929827,
+        "word": "赵丽颖辛芷蕾背后抱",
+        "onboard_time": 1718334677,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 636393,
+        "num": 636393,
+        "word": "原来6月既是开始又是结束",
+        "onboard_time": 1718334259,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 575139,
+        "num": 575139,
+        "word": "饿了么免单",
+        "onboard_time": 1718329217,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 685040,
+        "num": 567933,
+        "word": "张颂文不喜欢男tony做造型",
+        "onboard_time": 1718331677,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535361,
+        "num": 535361,
+        "word": "姜萍老师数学竞赛全球125名",
+        "onboard_time": 1718329699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563494,
+        "num": 515455,
+        "word": "赵丽颖钻石鎏金裙",
+        "onboard_time": 1718333237,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 377305,
+        "num": 496165,
+        "word": "造谣公司用AI一天写谣言7000篇",
+        "onboard_time": 1718327417,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479867,
+        "num": 479867,
+        "word": "5岁女童疑遭老头猥亵摸屁股",
+        "onboard_time": 1718329037,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430944,
+        "num": 430944,
+        "word": "中国大熊猫保护研究中心报警",
+        "onboard_time": 1718330237,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396897,
+        "num": 396897,
+        "word": "小米SU7已交付20000台",
+        "onboard_time": 1718332038,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 393826,
+        "num": 393826,
+        "word": "曾年入百万槟榔种植户现收入为0",
+        "onboard_time": 1718328738,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326269,
+        "num": 326269,
+        "word": "男子晒办公室自拍被间谍盯上",
+        "onboard_time": 1718324238,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128283,
+        "num": 307736,
+        "word": "为什么低温鲜奶更好喝",
+        "onboard_time": 1718334137,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 301303,
+        "num": 301303,
+        "word": "姜萍的梦想是浙大",
+        "onboard_time": 1718332337,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299500,
+        "num": 299500,
+        "word": "欧洲杯 夺冠热门",
+        "onboard_time": 1718333598,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280998,
+        "num": 280998,
+        "word": "赵丽颖首部悬疑片",
+        "onboard_time": 1718335638,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269642,
+        "num": 269642,
+        "word": "美国4黑人入侵华人豪宅遭开枪击退",
+        "onboard_time": 1718333718,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1094647,
+        "num": 263461,
+        "word": "人最不怕冷的器官是哪个",
+        "onboard_time": 1718329158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253026,
+        "num": 253026,
+        "word": "教资面试成绩",
+        "onboard_time": 1718330777,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252191,
+        "num": 252191,
+        "word": "墨雨云间二创",
+        "onboard_time": 1718335638,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226354,
+        "num": 226354,
+        "word": "LV一对一直播卖包讨好中国消费者",
+        "onboard_time": 1718335038,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224681,
+        "num": 224681,
+        "word": "辽宁两人遭雷击瞬间倒地",
+        "onboard_time": 1718334436,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215971,
+        "num": 215971,
+        "word": "林更新这个真骂不了",
+        "onboard_time": 1718286138,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210473,
+        "num": 210473,
+        "word": "电影乔妍的心事官宣海报",
+        "onboard_time": 1718332698,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208574,
+        "num": 208574,
+        "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
+        "onboard_time": 1718293817,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204812,
+        "num": 204812,
+        "word": "2024年还剩200天",
+        "onboard_time": 1718321055,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49652,
+        "num": 204758,
+        "word": "你看过爸爸的体检报告吗",
+        "onboard_time": 1718335158,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 229999,
+        "num": 204754,
+        "word": "外交部回应哈马斯要求中俄土提供担保",
+        "onboard_time": 1718335277,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204749,
+        "num": 204749,
+        "word": "水果真的越来越甜了",
+        "onboard_time": 1718331377,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197082,
+        "num": 197082,
+        "word": "尚雯婕去歌手不坐飞机的原因",
+        "onboard_time": 1718320575,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175746,
+        "num": 175746,
+        "word": "乔妍的心事换头像封面",
+        "onboard_time": 1718334978,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173620,
+        "num": 173620,
+        "word": "朱珠 感情中没有对错只有选择",
+        "onboard_time": 1718327299,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160281,
+        "num": 160281,
+        "word": "马斯克承诺明年开始限量生产擎天柱",
+        "onboard_time": 1718325319,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154467,
+        "num": 154467,
+        "word": "C罗西装杀",
+        "onboard_time": 1718335758,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153203,
+        "num": 153203,
+        "word": "TMEA官宣阵容",
+        "onboard_time": 1718332938,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152929,
+        "num": 152929,
+        "word": "孙楠清唱张杰的勿忘心安",
+        "onboard_time": 1718334857,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143157,
+        "num": 143157,
+        "word": "深圳暴雨",
+        "onboard_time": 1718328977,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140090,
+        "num": 140090,
+        "word": "姜萍的目标是考大学学服装设计",
+        "onboard_time": 1718331258,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119391,
+        "num": 139278,
+        "word": "被偷看日记的孩子能和家长和解吗",
+        "onboard_time": 1718333537,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26201,
+        "num": 138918,
+        "word": "迪奥活动内场生图",
+        "onboard_time": 1718335818,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138718,
+        "num": 138718,
+        "word": "MCN机构用AI造谣被曝光",
+        "onboard_time": 1718331017,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137601,
+        "num": 137601,
+        "word": "TheShy谈陪玩",
+        "onboard_time": 1718331677,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134860,
+        "num": 134860,
+        "word": "严浩翔贺峻霖他只是经过舞台",
+        "onboard_time": 1718332578,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132342,
+        "num": 132342,
+        "word": "成何体统动画开播",
+        "onboard_time": 1718335396,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131070,
+        "num": 131070,
+        "word": "易烊千玺机场",
+        "onboard_time": 1718322738,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131061,
+        "num": 131061,
+        "word": "原来老师才是那个被留下的孩子",
+        "onboard_time": 1718320216,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130049,
+        "num": 130049,
+        "word": "200毫升血液3分钟即可采集完成",
+        "onboard_time": 1718323218,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为何说这是我们的宝贝#"
+    }
+  }
+}
