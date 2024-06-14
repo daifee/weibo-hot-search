@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718321720046,
+  "endTime": 1718328020100,
   "band_list": [
     {
       "raw_hot": 7628595,
@@ -192,6 +192,14 @@
       "word": "大凉山支教7天费用上万",
       "onboard_time": 1718094438,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1654639,
+      "num": 1654639,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -419,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1279498,
+      "num": 1279498,
+      "word": "男子晒办公室自拍被间谍盯上",
+      "onboard_time": 1718324238,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1262905,
       "num": 1262905,
       "word": "韩国没有了五花肉自由",
@@ -505,14 +521,6 @@
       "onboard_time": 1718032040,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1200238,
-      "num": 1200238,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1185741,
@@ -625,6 +633,14 @@
       "onboard_time": 1718238560,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1114975,
+      "num": 715952,
+      "word": "男童被教练打死案家属发声",
+      "onboard_time": 1718312350,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1112425,
@@ -1323,6 +1339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733182,
+      "num": 733182,
+      "word": "尚雯婕去歌手不坐飞机的原因",
+      "onboard_time": 1718320575,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 732655,
       "num": 732655,
       "word": "奢香夫人",
@@ -1400,14 +1424,6 @@
       "word": "高考7月变6月竟是因为天气",
       "onboard_time": 1718046191,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 715952,
-      "num": 715952,
-      "word": "男童被教练打死案家属发声",
-      "onboard_time": 1718312350,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1708,7 +1724,7 @@
     },
     {
       "raw_hot": 657087,
-      "num": 202346,
+      "num": 230765,
       "word": "韩国女子20年前遭集体性侵",
       "onboard_time": 1718288958,
       "rank": 21,
@@ -1828,7 +1844,7 @@
     },
     {
       "raw_hot": 632878,
-      "num": 122173,
+      "num": 255848,
       "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
       "onboard_time": 1718293817,
       "rank": 20,
@@ -1872,6 +1888,14 @@
       "word": "妈妈让我支付她生我的费用",
       "onboard_time": 1717896797,
       "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 626440,
+      "num": 259426,
+      "word": "中国人在将屋顶涂蓝吓坏美国网友",
+      "onboard_time": 1718324478,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -2404,7 +2428,7 @@
     },
     {
       "raw_hot": 522111,
-      "num": 885212,
+      "num": 927844,
       "word": "南海沉船打捞出的文物惊艳了",
       "onboard_time": 1718269578,
       "rank": 31,
@@ -2899,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 466841,
+      "num": 466841,
+      "word": "齐思钧手术",
+      "onboard_time": 1718322257,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 466444,
       "num": 466444,
       "word": "家长举华晨宇海报迎接考生",
@@ -2937,6 +2969,14 @@
       "onboard_time": 1718176101,
       "rank": 16,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 461302,
+      "num": 461302,
+      "word": "原来老师才是那个被留下的孩子",
+      "onboard_time": 1718320216,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 460718,
@@ -3331,6 +3371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421049,
+      "num": 421049,
+      "word": "三本学生考公要做好多年备考的决心",
+      "onboard_time": 1718297354,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 420749,
       "num": 420749,
       "word": "假如你有86400块钱",
@@ -3489,14 +3537,6 @@
       "onboard_time": 1718184380,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 397762,
-      "num": 397762,
-      "word": "原来老师才是那个被留下的孩子",
-      "onboard_time": 1718320216,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 397518,
@@ -3707,14 +3747,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 380248,
-      "num": 380248,
-      "word": "尚雯婕去歌手不坐飞机的原因",
-      "onboard_time": 1718320575,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 379803,
       "num": 349706,
       "word": "杜海涛去披荆斩棘前的最后一顿烧烤",
@@ -3833,6 +3865,14 @@
       "onboard_time": 1717945218,
       "rank": 25,
       "category": "剧集,教育"
+    },
+    {
+      "raw_hot": 368505,
+      "num": 368505,
+      "word": "马斯克承诺明年开始限量生产擎天柱",
+      "onboard_time": 1718325319,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 368180,
@@ -3979,6 +4019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 358583,
+      "num": 358583,
+      "word": "姜若瑶救薛芳菲",
+      "onboard_time": 1718324119,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358533,
       "num": 358533,
       "word": "墨雨云间17",
@@ -4057,6 +4105,14 @@
       "onboard_time": 1718197038,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354399,
+      "num": 354399,
+      "word": "易烊千玺机场",
+      "onboard_time": 1718322738,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 353221,
@@ -4299,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335511,
+      "num": 335511,
+      "word": "刘宇宁 老巴",
+      "onboard_time": 1718324899,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335328,
       "num": 302308,
       "word": "kep1er一位",
@@ -4409,6 +4473,14 @@
       "onboard_time": 1718007318,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 329548,
+      "num": 329548,
+      "word": "2024年还剩200天",
+      "onboard_time": 1718321055,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326913,
@@ -4931,6 +5003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 295077,
+      "num": 295077,
+      "word": "新加坡门将桑尼说收款码被篡改",
+      "onboard_time": 1718321776,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294919,
       "num": 275708,
       "word": "周杰伦抢票 江浙沪厮杀",
@@ -5323,6 +5403,14 @@
       "category": "财经,国外时政"
     },
     {
+      "raw_hot": 271887,
+      "num": 271887,
+      "word": "孙楠体重比汪苏泷轻",
+      "onboard_time": 1718321416,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 271586,
       "num": 271586,
       "word": "EXOCBX续约理由",
@@ -5419,20 +5507,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267337,
+      "num": 267337,
+      "word": "郑恺苗苗结束韩国度假回国了",
+      "onboard_time": 1718308030,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267182,
       "num": 267182,
       "word": "于适王影璐情侣自拍",
       "onboard_time": 1718249537,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 266866,
-      "num": 266866,
-      "word": "郑恺苗苗结束韩国度假回国了",
-      "onboard_time": 1718308030,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 266510,
@@ -5923,6 +6011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243132,
+      "num": 243132,
+      "word": "深圳多家银行超5万元取款需预约",
+      "onboard_time": 1718326038,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243056,
       "num": 243056,
       "word": "猫咪伪造自己一直在家睡觉的事实",
@@ -6073,6 +6169,14 @@
       "onboard_time": 1718103138,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 238253,
+      "num": 238253,
+      "word": "200毫升血液3分钟即可采集完成",
+      "onboard_time": 1718323218,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237307,
@@ -6411,14 +6515,6 @@
       "category": "母婴育儿"
     },
     {
-      "raw_hot": 219301,
-      "num": 219301,
-      "word": "三本学生考公要做好多年备考的决心",
-      "onboard_time": 1718297354,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 219260,
       "num": 575545,
       "word": "你喜欢的人突然有对象是什么感觉",
@@ -6457,6 +6553,14 @@
       "onboard_time": 1718255360,
       "rank": 32,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 217993,
+      "num": 217993,
+      "word": "郭晓婷腰线",
+      "onboard_time": 1718325198,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 217609,
@@ -7155,6 +7259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203090,
+      "num": 203090,
+      "word": "朱珠 感情中没有对错只有选择",
+      "onboard_time": 1718327299,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202985,
       "num": 202985,
       "word": "陶喆北京抢票",
@@ -7561,6 +7673,14 @@
       "onboard_time": 1718093238,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195299,
+      "num": 195299,
+      "word": "张雪峰回旋镖推荐兰州大学",
+      "onboard_time": 1718320816,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 195208,
@@ -8795,6 +8915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 169905,
+      "num": 169905,
+      "word": "关晓彤唱跳午夜恰恰",
+      "onboard_time": 1718326818,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169743,
       "num": 169743,
       "word": "拳头回应Faker阿狸皮肤定价",
@@ -9331,6 +9459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160170,
+      "num": 160170,
+      "word": "第一次穿病号服是看live",
+      "onboard_time": 1718324478,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160155,
       "num": 160155,
       "word": "芒果这一波又nextlevel了",
@@ -9425,6 +9561,14 @@
       "onboard_time": 1718240599,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158490,
+      "num": 158490,
+      "word": "恋与深空 古茗",
+      "onboard_time": 1718323818,
+      "rank": 33,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 158420,
@@ -9723,6 +9867,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 154264,
+      "num": 154264,
+      "word": "吃凉皮时警惕这种毒素",
+      "onboard_time": 1718326577,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154072,
       "num": 154072,
       "word": "姚译添给白鹿打歌",
@@ -9896,6 +10048,14 @@
       "word": "学生认为做错的实验竟破解世纪难题",
       "onboard_time": 1718292679,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151535,
+      "num": 151535,
+      "word": "槟榔之乡8成槟榔树染病",
+      "onboard_time": 1718327598,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -10195,14 +10355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146281,
-      "num": 146281,
-      "word": "张雪峰回旋镖推荐兰州大学",
-      "onboard_time": 1718320816,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 146080,
       "num": 146080,
       "word": "间谍过家家第三季制作决定",
@@ -10401,6 +10553,14 @@
       "onboard_time": 1717937657,
       "rank": 2,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142405,
+      "num": 142405,
+      "word": "造谣公司用AI一天写谣言7000篇",
+      "onboard_time": 1718327417,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142376,
@@ -10811,6 +10971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136773,
+      "num": 136773,
+      "word": "你常吃的3种面包是热量炸弹",
+      "onboard_time": 1718321836,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136726,
       "num": 136726,
       "word": "艾草",
@@ -11019,6 +11187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134276,
+      "num": 134276,
+      "word": "刘宇宁喊迪丽热巴老巴",
+      "onboard_time": 1718321416,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133989,
       "num": 133989,
       "word": "iPhone小部件尺寸可直接调整",
@@ -11035,12 +11211,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133827,
+      "num": 133827,
+      "word": "iOS18上线关机按钮",
+      "onboard_time": 1718323577,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 133319,
       "num": 133319,
       "word": "闪光的夏天直播",
       "onboard_time": 1718104157,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133318,
+      "num": 133318,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 133305,
@@ -11265,6 +11457,14 @@
       "onboard_time": 1718184620,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130061,
+      "num": 130061,
+      "word": "美乌签署双边安全协议",
+      "onboard_time": 1718325558,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 129957,
@@ -11723,6 +11923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "比毕业更难受的是最后一个离开寝室",
+      "onboard_time": 1718327658,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122692,
       "num": 122692,
       "word": "BLG战胜LGD",
@@ -12003,6 +12211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117962,
+      "num": 117962,
+      "word": "教资成绩10时可查",
+      "onboard_time": 1718325918,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117831,
       "num": 117831,
       "word": "西班牙运动员提前庆祝错失铜牌",
@@ -12027,12 +12243,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117081,
-      "num": 117081,
-      "word": "2024年还剩200天",
-      "onboard_time": 1718321055,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 117320,
+      "num": 117320,
+      "word": "特斯拉重仓押注Optimus机器人",
+      "onboard_time": 1718326158,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 117078,
@@ -12587,6 +12803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108524,
+      "num": 108524,
+      "word": "当代版 后翼弃兵",
+      "onboard_time": 1718324058,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108517,
       "num": 108517,
       "word": "everglow新歌",
@@ -12763,6 +12987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104545,
+      "num": 104545,
+      "word": "近视老花会同时存在吗",
+      "onboard_time": 1718326877,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104542,
       "num": 104542,
       "word": "你好星期六",
@@ -12833,14 +13065,6 @@
       "onboard_time": 1718012838,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102582,
-      "num": 102582,
-      "word": "茅台市值跌掉一个青岛啤酒",
-      "onboard_time": 1718305931,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 102301,
@@ -13009,6 +13233,14 @@
       "onboard_time": 1718033598,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98644,
+      "num": 98644,
+      "word": "没人能拒绝新疆薰衣草花海",
+      "onboard_time": 1718321836,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 98572,
@@ -13307,14 +13539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 90110,
-      "num": 90110,
-      "word": "刘宇宁喊迪丽热巴老巴",
-      "onboard_time": 1718321416,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 89855,
       "num": 113738,
       "word": "美国CPI回落至三年低位",
@@ -13432,6 +13656,14 @@
       "word": "韩智库建议女孩提早入学以提高生育率",
       "onboard_time": 1718089577,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84656,
+      "num": 381852,
+      "word": "不被定义的人生谁都可以是黑马",
+      "onboard_time": 1718326997,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -13833,14 +14065,6 @@
       "onboard_time": 1718006418,
       "rank": 9,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 64631,
-      "num": 64631,
-      "word": "孙楠体重比汪苏泷轻",
-      "onboard_time": 1718321416,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 64304,

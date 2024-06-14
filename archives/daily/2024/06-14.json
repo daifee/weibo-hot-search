@@ -1,7 +1,23 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718321720046,
+  "endTime": 1718328020100,
   "band_list": [
+    {
+      "raw_hot": 1654639,
+      "num": 1654639,
+      "word": "姜萍",
+      "onboard_time": 1718278819,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1279498,
+      "num": 1279498,
+      "word": "男子晒办公室自拍被间谍盯上",
+      "onboard_time": 1718324238,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1269349,
       "num": 1269349,
@@ -11,11 +27,11 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 1200238,
-      "num": 1200238,
-      "word": "姜萍",
-      "onboard_time": 1718278819,
-      "rank": 16,
+      "raw_hot": 1114975,
+      "num": 715952,
+      "word": "男童被教练打死案家属发声",
+      "onboard_time": 1718312350,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -27,20 +43,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 715952,
-      "num": 715952,
-      "word": "男童被教练打死案家属发声",
-      "onboard_time": 1718312350,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 733182,
+      "num": 733182,
+      "word": "尚雯婕去歌手不坐飞机的原因",
+      "onboard_time": 1718320575,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 632878,
-      "num": 122173,
+      "num": 255848,
       "word": "夫妻不戴手套铲除福寿螺感染寄生虫",
       "onboard_time": 1718293817,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 626440,
+      "num": 259426,
+      "word": "中国人在将屋顶涂蓝吓坏美国网友",
+      "onboard_time": 1718324478,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 554205,
@@ -51,12 +75,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466841,
+      "num": 466841,
+      "word": "齐思钧手术",
+      "onboard_time": 1718322257,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 461302,
+      "num": 461302,
+      "word": "原来老师才是那个被留下的孩子",
+      "onboard_time": 1718320216,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 430374,
       "num": 121862,
       "word": "结婚33天了俩人就没做过饭",
       "onboard_time": 1718290039,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 421049,
+      "num": 421049,
+      "word": "三本学生考公要做好多年备考的决心",
+      "onboard_time": 1718297354,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 417012,
@@ -68,35 +116,43 @@
     },
     {
       "raw_hot": 414656,
-      "num": 236898,
+      "num": 245970,
       "word": "米卡表白刘亦菲",
       "onboard_time": 1718288540,
       "rank": 6,
       "category": "剧集"
     },
     {
-      "raw_hot": 397762,
-      "num": 397762,
-      "word": "原来老师才是那个被留下的孩子",
-      "onboard_time": 1718320216,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 380248,
-      "num": 380248,
-      "word": "尚雯婕去歌手不坐飞机的原因",
-      "onboard_time": 1718320575,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 368505,
+      "num": 368505,
+      "word": "马斯克承诺明年开始限量生产擎天柱",
+      "onboard_time": 1718325319,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 361950,
-      "num": 121398,
+      "num": 230765,
       "word": "韩国女子20年前遭集体性侵",
       "onboard_time": 1718288958,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358583,
+      "num": 358583,
+      "word": "姜若瑶救薛芳菲",
+      "onboard_time": 1718324119,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 354399,
+      "num": 354399,
+      "word": "易烊千玺机场",
+      "onboard_time": 1718322738,
+      "rank": 13,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 342177,
@@ -104,6 +160,22 @@
       "word": "越南女子裸体大闹菲律宾机场",
       "onboard_time": 1718274077,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335511,
+      "num": 335511,
+      "word": "刘宇宁 老巴",
+      "onboard_time": 1718324899,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 329548,
+      "num": 329548,
+      "word": "2024年还剩200天",
+      "onboard_time": 1718321055,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -123,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295077,
+      "num": 295077,
+      "word": "新加坡门将桑尼说收款码被篡改",
+      "onboard_time": 1718321776,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293256,
       "num": 188228,
       "word": "网传杨紫将缺席白玉兰",
@@ -139,8 +219,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266866,
-      "num": 266866,
+      "raw_hot": 271887,
+      "num": 271887,
+      "word": "孙楠体重比汪苏泷轻",
+      "onboard_time": 1718321416,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267337,
+      "num": 267337,
       "word": "郑恺苗苗结束韩国度假回国了",
       "onboard_time": 1718308030,
       "rank": 10,
@@ -153,6 +241,14 @@
       "onboard_time": 1718282418,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243132,
+      "num": 243132,
+      "word": "深圳多家银行超5万元取款需预约",
+      "onboard_time": 1718326038,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243056,
@@ -179,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238253,
+      "num": 238253,
+      "word": "200毫升血液3分钟即可采集完成",
+      "onboard_time": 1718323218,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 228316,
       "num": 228316,
       "word": "中专女生爆冷拿下数学竞赛全球12名",
@@ -187,11 +291,27 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 219301,
-      "num": 219301,
-      "word": "三本学生考公要做好多年备考的决心",
-      "onboard_time": 1718297354,
-      "rank": 4,
+      "raw_hot": 217993,
+      "num": 217993,
+      "word": "郭晓婷腰线",
+      "onboard_time": 1718325198,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 203090,
+      "num": 203090,
+      "word": "朱珠 感情中没有对错只有选择",
+      "onboard_time": 1718327299,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195299,
+      "num": 195299,
+      "word": "张雪峰回旋镖推荐兰州大学",
+      "onboard_time": 1718320816,
+      "rank": 15,
       "category": "教育"
     },
     {
@@ -219,6 +339,30 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 169905,
+      "num": 169905,
+      "word": "关晓彤唱跳午夜恰恰",
+      "onboard_time": 1718326818,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160170,
+      "num": 160170,
+      "word": "第一次穿病号服是看live",
+      "onboard_time": 1718324478,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158490,
+      "num": 158490,
+      "word": "恋与深空 古茗",
+      "onboard_time": 1718323818,
+      "rank": 33,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 157938,
       "num": 121098,
       "word": "年级倒一和年级第一的友情",
@@ -235,11 +379,27 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 154264,
+      "num": 154264,
+      "word": "吃凉皮时警惕这种毒素",
+      "onboard_time": 1718326577,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 151562,
       "num": 151562,
       "word": "学生认为做错的实验竟破解世纪难题",
       "onboard_time": 1718292679,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151535,
+      "num": 151535,
+      "word": "槟榔之乡8成槟榔树染病",
+      "onboard_time": 1718327598,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -251,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146281,
-      "num": 146281,
-      "word": "张雪峰回旋镖推荐兰州大学",
-      "onboard_time": 1718320816,
-      "rank": 15,
-      "category": "教育"
+      "raw_hot": 142405,
+      "num": 142405,
+      "word": "造谣公司用AI一天写谣言7000篇",
+      "onboard_time": 1718327417,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139155,
@@ -267,12 +427,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136773,
+      "num": 136773,
+      "word": "你常吃的3种面包是热量炸弹",
+      "onboard_time": 1718321836,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 134276,
+      "num": 134276,
+      "word": "刘宇宁喊迪丽热巴老巴",
+      "onboard_time": 1718321416,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 133827,
+      "num": 133827,
+      "word": "iOS18上线关机按钮",
+      "onboard_time": 1718323577,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 133318,
+      "num": 133318,
+      "word": "茅台市值跌掉一个青岛啤酒",
+      "onboard_time": 1718305931,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 133262,
       "num": 133262,
       "word": "靠锅气来分辨预制菜已经没用了",
       "onboard_time": 1718283618,
       "rank": 45,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 130061,
+      "num": 130061,
+      "word": "美乌签署双边安全协议",
+      "onboard_time": 1718325558,
+      "rank": 41,
+      "category": "国外时政"
     },
     {
       "raw_hot": 123083,
@@ -283,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "比毕业更难受的是最后一个离开寝室",
+      "onboard_time": 1718327658,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119661,
       "num": 119661,
       "word": "玫瑰的故事直播",
@@ -291,12 +499,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117081,
-      "num": 117081,
-      "word": "2024年还剩200天",
-      "onboard_time": 1718321055,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 117962,
+      "num": 117962,
+      "word": "教资成绩10时可查",
+      "onboard_time": 1718325918,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 117320,
+      "num": 117320,
+      "word": "特斯拉重仓押注Optimus机器人",
+      "onboard_time": 1718326158,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 112974,
@@ -315,6 +531,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 108524,
+      "num": 108524,
+      "word": "当代版 后翼弃兵",
+      "onboard_time": 1718324058,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104794,
       "num": 122537,
       "word": "LV客服回应区别对待中国消费者",
@@ -331,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102582,
-      "num": 102582,
-      "word": "茅台市值跌掉一个青岛啤酒",
-      "onboard_time": 1718305931,
+      "raw_hot": 104545,
+      "num": 104545,
+      "word": "近视老花会同时存在吗",
+      "onboard_time": 1718326877,
       "rank": 47,
-      "category": "财经"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102164,
@@ -361,6 +585,14 @@
       "onboard_time": 1718294297,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98644,
+      "num": 98644,
+      "word": "没人能拒绝新疆薰衣草花海",
+      "onboard_time": 1718321836,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 98155,
@@ -395,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90110,
-      "num": 90110,
-      "word": "刘宇宁喊迪丽热巴老巴",
-      "onboard_time": 1718321416,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88130,
       "num": 88130,
       "word": "姜家是得罪月老了吗",
@@ -427,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84656,
+      "num": 381852,
+      "word": "不被定义的人生谁都可以是黑马",
+      "onboard_time": 1718326997,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81560,
       "num": 81560,
       "word": "女生高考后一觉睡30个小时",
@@ -435,20 +667,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 79102,
+      "num": 927844,
+      "word": "南海沉船打捞出的文物惊艳了",
+      "onboard_time": 1718269578,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77105,
       "num": 77105,
       "word": "猪肉价格为何突然起飞",
       "onboard_time": 1718310010,
       "rank": 49,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 74802,
-      "num": 509422,
-      "word": "南海沉船打捞出的文物惊艳了",
-      "onboard_time": 1718269578,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 74685,
@@ -505,14 +737,6 @@
       "onboard_time": 1718320995,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64631,
-      "num": 64631,
-      "word": "孙楠体重比汪苏泷轻",
-      "onboard_time": 1718321416,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 62634,
