@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718392564227,
+  "endTime": 1718393661346,
   "band_list": [
     {
       "raw_hot": 1657955,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141569,
+      "num": 216364,
+      "word": "德国vs苏格兰",
+      "onboard_time": 1718377461,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140312,
       "num": 213038,
       "word": "化妆的意义在此刻具象化了",
@@ -321,6 +329,14 @@
       "onboard_time": 1718387294,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131337,
+      "num": 74581,
+      "word": "郝蕾表演课不招收纯素人",
+      "onboard_time": 1718388133,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 126644,
@@ -353,22 +369,6 @@
       "onboard_time": 1718375363,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103312,
-      "num": 216364,
-      "word": "德国vs苏格兰",
-      "onboard_time": 1718377461,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 96315,
-      "num": 74581,
-      "word": "郝蕾表演课不招收纯素人",
-      "onboard_time": 1718388133,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 93843,
@@ -443,20 +443,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70152,
+      "num": 85051,
+      "word": "欧洲杯",
+      "onboard_time": 1718349260,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69598,
       "num": 103457,
       "word": "行政叫我以后不要穿睡裤上班",
       "onboard_time": 1718384834,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67475,
-      "num": 85051,
-      "word": "欧洲杯",
-      "onboard_time": 1718349260,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 65571,
@@ -507,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31749,
+      "num": 27186,
+      "word": "赖冠霖 101时做成标本",
+      "onboard_time": 1718392271,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30455,
       "num": 68013,
       "word": "村支书称姜萍是全村的骄傲",
@@ -515,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27186,
-      "num": 27186,
-      "word": "赖冠霖 101时做成标本",
-      "onboard_time": 1718392271,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 12838,
+      "num": 22462,
+      "word": "大一VS大四毕业季文案",
+      "onboard_time": 1718392871,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 11456,

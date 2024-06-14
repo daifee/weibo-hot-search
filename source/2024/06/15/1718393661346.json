@@ -1,0 +1,410 @@
+{
+  "runTime": 1718393661346,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 208954,
+        "num": 208954,
+        "word": "六公主发的周也",
+        "onboard_time": 1718357120,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141569,
+        "num": 141569,
+        "word": "德国vs苏格兰",
+        "onboard_time": 1718377461,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14269,
+        "num": 132916,
+        "word": "清明上河图动起来了",
+        "onboard_time": 1718370681,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131858,
+        "num": 131858,
+        "word": "汪苏泷奢香夫人 难听",
+        "onboard_time": 1718370202,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104754,
+        "num": 104754,
+        "word": "月经提前或推迟超7天要去医院",
+        "onboard_time": 1718377641,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103886,
+        "num": 103886,
+        "word": "恋爱兄妹最终情侣",
+        "onboard_time": 1718379919,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70152,
+        "num": 70152,
+        "word": "欧洲杯",
+        "onboard_time": 1718349260,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67617,
+        "num": 67617,
+        "word": "C罗说享受第六次欧洲杯",
+        "onboard_time": 1718383337,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65737,
+        "num": 65737,
+        "word": "张钰琪淘汰",
+        "onboard_time": 1718374765,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6733,
+        "num": 64377,
+        "word": "浙江每天2300人撸起袖子踊跃献血",
+        "onboard_time": 1718391193,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131337,
+        "num": 64148,
+        "word": "郝蕾表演课不招收纯素人",
+        "onboard_time": 1718388133,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99999,
+        "num": 64008,
+        "word": "姜萍已达到数学系本科生的水平",
+        "onboard_time": 1718373386,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63763,
+        "num": 63763,
+        "word": "欧洲杯24队实力榜",
+        "onboard_time": 1718384056,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61934,
+        "num": 61934,
+        "word": "歌手排名",
+        "onboard_time": 1718373924,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61134,
+        "num": 61134,
+        "word": "孙楠 很牛但油",
+        "onboard_time": 1718371582,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58852,
+        "num": 58852,
+        "word": "尚雯婕冲榜凡希亚",
+        "onboard_time": 1718369001,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43520,
+        "num": 43520,
+        "word": "日本一女子患产后抑郁勒死三个女儿",
+        "onboard_time": 1718374524,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42999,
+        "num": 42999,
+        "word": "浙江大学数学系教授欢迎姜萍来浙大",
+        "onboard_time": 1718359818,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 37944,
+        "num": 37944,
+        "word": "邵阳学院2名学生与姜萍一同入围决赛",
+        "onboard_time": 1718365038,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 35531,
+        "num": 35531,
+        "word": "葡萄牙队开启欧洲杯征程",
+        "onboard_time": 1718382616,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276685,
+        "num": 35303,
+        "word": "周也黑脸",
+        "onboard_time": 1718359278,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131127,
+        "num": 34584,
+        "word": "赖冠霖 退圈",
+        "onboard_time": 1718348478,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54296,
+        "num": 33958,
+        "word": "那英不敢跟尚雯婕聊天",
+        "onboard_time": 1718376321,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51711,
+        "num": 32968,
+        "word": "袁娅维太牛了",
+        "onboard_time": 1718372784,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32967,
+        "num": 32967,
+        "word": "四级 花钱买早八",
+        "onboard_time": 1718376143,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50235,
+        "num": 32875,
+        "word": "刘惜君为了压过原唱使了大劲",
+        "onboard_time": 1718387294,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37928,
+        "num": 32557,
+        "word": "赖冠霖改网名没文化的野人",
+        "onboard_time": 1718358139,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36639,
+        "num": 31809,
+        "word": "那英 怎么又说你难听",
+        "onboard_time": 1718374524,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29671,
+        "num": 29671,
+        "word": "别再买路边切一半的西瓜了",
+        "onboard_time": 1718367560,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 21207,
+        "num": 29414,
+        "word": "各大高校安利自家数学专业",
+        "onboard_time": 1718372725,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 35998,
+        "num": 29075,
+        "word": "歌手直播",
+        "onboard_time": 1718364619,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33914,
+        "num": 28649,
+        "word": "王力宏方请辞金曲奖表演",
+        "onboard_time": 1718376803,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32896,
+        "num": 28220,
+        "word": "汪苏泷 泷泷看到热搜了",
+        "onboard_time": 1718374465,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27817,
+        "num": 27817,
+        "word": "洞洞鞋鼻祖一年卖了200亿",
+        "onboard_time": 1718355138,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26467,
+        "num": 26467,
+        "word": "光与夜之恋 炫迈",
+        "onboard_time": 1718378540,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31749,
+        "num": 25922,
+        "word": "赖冠霖 101时做成标本",
+        "onboard_time": 1718392271,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30811,
+        "num": 25718,
+        "word": "那英不紧张了",
+        "onboard_time": 1718367799,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25020,
+        "num": 25020,
+        "word": "姜萍的祖师爷来微博了",
+        "onboard_time": 1718376022,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 24358,
+        "num": 24358,
+        "word": "建议应届生简历不要随便发给小公司",
+        "onboard_time": 1718384834,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23250,
+        "num": 23250,
+        "word": "化妆的意义在此刻具象化了",
+        "onboard_time": 1718378061,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 29593,
+        "num": 23195,
+        "word": "尚雯婕冲榜失败",
+        "onboard_time": 1718369600,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28581,
+        "num": 23180,
+        "word": "王星越带外甥女 德华带娃",
+        "onboard_time": 1718380820,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27779,
+        "num": 23114,
+        "word": "耳帝",
+        "onboard_time": 1718381597,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23043,
+        "num": 23043,
+        "word": "原来大学毕业后可以有这么多选择",
+        "onboard_time": 1718386514,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22595,
+        "num": 22595,
+        "word": "行政叫我以后不要穿睡裤上班",
+        "onboard_time": 1718384834,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22570,
+        "num": 22570,
+        "word": "肖战机场",
+        "onboard_time": 1718377761,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22550,
+        "num": 22550,
+        "word": "袁娅维冲榜香缇莫",
+        "onboard_time": 1718371884,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12838,
+        "num": 22462,
+        "word": "大一VS大四毕业季文案",
+        "onboard_time": 1718392871,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20845,
+        "num": 22462,
+        "word": "朱婷好牛",
+        "onboard_time": 1718372665,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20255,
+        "num": 22462,
+        "word": "老师说姜萍不是天才型选手",
+        "onboard_time": 1718373325,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要重视少数民族文化保护和传承#"
+    }
+  }
+}

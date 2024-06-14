@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718392564227,
+  "endTime": 1718393661346,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -13635,6 +13635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 131337,
+      "num": 74581,
+      "word": "郝蕾表演课不招收纯素人",
+      "onboard_time": 1718388133,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131205,
       "num": 131205,
       "word": "新加坡门将桑尼餐馆闭店3天",
@@ -15795,14 +15803,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 96315,
-      "num": 74581,
-      "word": "郝蕾表演课不招收纯素人",
-      "onboard_time": 1718388133,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96146,
       "num": 96146,
       "word": "为什么会以为这个8反了",
@@ -17787,6 +17787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31749,
+      "num": 27186,
+      "word": "赖冠霖 101时做成标本",
+      "onboard_time": 1718392271,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31662,
       "num": 31662,
       "word": "徐彰彬疑似推搡李龙馥",
@@ -17937,14 +17945,6 @@
       "onboard_time": 1718358679,
       "rank": 30,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 27186,
-      "num": 27186,
-      "word": "赖冠霖 101时做成标本",
-      "onboard_time": 1718392271,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 27127,
@@ -18385,6 +18385,14 @@
       "onboard_time": 1718136670,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 12838,
+      "num": 22462,
+      "word": "大一VS大四毕业季文案",
+      "onboard_time": 1718392871,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12283,
