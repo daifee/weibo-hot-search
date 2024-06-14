@@ -1,6 +1,6 @@
 {
   "startTime": 1718295925521,
-  "endTime": 1718346426667,
+  "endTime": 1718347184479,
   "band_list": [
     {
       "raw_hot": 1797039,
@@ -75,6 +75,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1031669,
+      "num": 220320,
+      "word": "手机免密支付1岁娃误点120杯柠檬水",
+      "onboard_time": 1718345539,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025331,
       "num": 1025331,
       "word": "张百乔发文回应",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 799417,
-      "num": 553115,
+      "num": 746500,
       "word": "网传章子怡赵丽颖新综艺接档歌手",
       "onboard_time": 1718342297,
       "rank": 25,
@@ -137,6 +145,14 @@
       "onboard_time": 1718286138,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 744384,
+      "num": 427357,
+      "word": "赵丽颖 赵满楼",
+      "onboard_time": 1718345958,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 733182,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 636881,
-      "num": 431306,
+      "num": 598375,
       "word": "同济大学发博祝贺姜萍",
       "onboard_time": 1718343978,
       "rank": 10,
@@ -251,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 524320,
-      "num": 427357,
-      "word": "赵丽颖 赵满楼",
-      "onboard_time": 1718345958,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 550019,
+      "num": 219364,
+      "word": "长期吃轻食的人都怎么样了",
+      "onboard_time": 1718345121,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 519592,
@@ -267,11 +283,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 503498,
-      "num": 210656,
-      "word": "手机免密支付1岁娃误点120杯柠檬水",
-      "onboard_time": 1718345539,
-      "rank": 21,
+      "raw_hot": 515692,
+      "num": 515692,
+      "word": "网传银行女职员拍视频深情表白行长",
+      "onboard_time": 1718345121,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -339,11 +355,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 445507,
-      "num": 421426,
-      "word": "网传银行女职员拍视频深情表白行长",
-      "onboard_time": 1718345121,
-      "rank": 13,
+      "raw_hot": 437790,
+      "num": 437790,
+      "word": "日本福岛第一核电站1名员工死亡",
+      "onboard_time": 1718343078,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -353,14 +369,6 @@
       "onboard_time": 1718338938,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 434097,
-      "num": 434097,
-      "word": "日本福岛第一核电站1名员工死亡",
-      "onboard_time": 1718343078,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430374,
@@ -417,14 +425,6 @@
       "onboard_time": 1718332038,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 410321,
-      "num": 206232,
-      "word": "长期吃轻食的人都怎么样了",
-      "onboard_time": 1718345121,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 395855,
@@ -555,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 320630,
+      "num": 320630,
+      "word": "985毕业生反向升学读技校",
+      "onboard_time": 1718345298,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 319638,
       "num": 319638,
       "word": "张若昀 领口尺度",
@@ -625,14 +633,6 @@
       "onboard_time": 1718321416,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267997,
-      "num": 179238,
-      "word": "985毕业生反向升学读技校",
-      "onboard_time": 1718345298,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 267337,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220748,
+      "num": 220748,
+      "word": "娇兰卖780的护肤品实验样本只有11人",
+      "onboard_time": 1718346439,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 217993,
       "num": 217993,
       "word": "郭晓婷腰线",
@@ -793,6 +801,14 @@
       "onboard_time": 1718339538,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216936,
+      "num": 216936,
+      "word": "低头玩手机相当于脖子扛大米",
+      "onboard_time": 1718346137,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 216031,
@@ -899,6 +915,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 198531,
+      "num": 198531,
+      "word": "家长选择高考出分前就奖励孩子",
+      "onboard_time": 1718346318,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198450,
       "num": 198450,
       "word": "鬼灭之刃第四季定档",
@@ -923,20 +947,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194556,
+      "num": 194556,
+      "word": "余秀华 抽象",
+      "onboard_time": 1718346739,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 193385,
       "num": 193385,
       "word": "马嘉祺黑衬衫眼镜杀",
       "onboard_time": 1718341998,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192597,
-      "num": 192597,
-      "word": "家长选择高考出分前就奖励孩子",
-      "onboard_time": 1718346318,
-      "rank": 26,
-      "category": "教育"
     },
     {
       "raw_hot": 190146,
@@ -1051,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168172,
+      "num": 168172,
+      "word": "心灵捕手",
+      "onboard_time": 1718346557,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166978,
       "num": 166978,
       "word": "戚薇发音全球发音日榜第一",
@@ -1065,14 +1097,6 @@
       "onboard_time": 1718342839,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 161674,
-      "num": 161674,
-      "word": "低头玩手机相当于脖子扛大米",
-      "onboard_time": 1718346137,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 160329,
@@ -1147,6 +1171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 153780,
+      "num": 153780,
+      "word": "这是一个父亲最接受不了的画面",
+      "onboard_time": 1718346919,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153226,
       "num": 153226,
       "word": "mlxg打算卖包子",
@@ -1179,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150164,
+      "num": 150164,
+      "word": "美院学子送已故喵馆长参赛",
+      "onboard_time": 1718345838,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150015,
       "num": 120313,
       "word": "王一博更新iG",
@@ -1203,11 +1243,11 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 146298,
-      "num": 146298,
-      "word": "美院学子送已故喵馆长参赛",
-      "onboard_time": 1718345838,
-      "rank": 38,
+      "raw_hot": 148928,
+      "num": 859177,
+      "word": "三星堆这三兄弟仿佛在鼓掌",
+      "onboard_time": 1718341940,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1219,14 +1259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143810,
-      "num": 859177,
-      "word": "三星堆这三兄弟仿佛在鼓掌",
-      "onboard_time": 1718341940,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143310,
       "num": 143310,
       "word": "恋爱兄妹",
@@ -1235,8 +1267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140934,
-      "num": 185602,
+      "raw_hot": 142765,
+      "num": 217114,
       "word": "99%的老爸明明需要但不舍得买",
       "onboard_time": 1718344999,
       "rank": 27,
@@ -1339,6 +1371,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 129182,
+      "num": 432417,
+      "word": "姜萍回应拿下数学竞赛全球12名",
+      "onboard_time": 1718345298,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126368,
       "num": 126368,
       "word": "赵丽颖眼神戏",
@@ -1377,6 +1417,14 @@
       "onboard_time": 1718327658,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 121724,
+      "num": 121724,
+      "word": "涟水中等专业学校",
+      "onboard_time": 1718347099,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119661,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1718292198,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112240,
-      "num": 432417,
-      "word": "姜萍回应拿下数学竞赛全球12名",
-      "onboard_time": 1718345298,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110764,
@@ -1633,6 +1673,14 @@
       "onboard_time": 1718289320,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71879,
+      "num": 201747,
+      "word": "残疾猫参赛挣手术费",
+      "onboard_time": 1718347156,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 71066,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1718300532,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11483,
+      "num": 198874,
+      "word": "韩国130多所儿童医院将不参与罢工",
+      "onboard_time": 1718347038,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9416,
