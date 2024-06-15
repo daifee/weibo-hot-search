@@ -1,10 +1,10 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718468627278,
+  "endTime": 1718469507224,
   "band_list": [
     {
       "raw_hot": 1461412,
-      "num": 293323,
+      "num": 376333,
       "word": "周也 已老实求放过",
       "onboard_time": 1718454317,
       "rank": 8,
@@ -27,6 +27,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 481648,
+      "num": 481648,
+      "word": "父亲节",
+      "onboard_time": 1718469016,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462555,
+      "num": 462555,
+      "word": "谢可寅 我再也不相信你了李斯丹妮",
+      "onboard_time": 1718466557,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412786,
       "num": 412786,
       "word": "中国女排3比2土耳其女排",
@@ -43,12 +59,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 359323,
-      "num": 319438,
-      "word": "谢可寅 我再也不相信你了李斯丹妮",
-      "onboard_time": 1718466557,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 381417,
+      "num": 381417,
+      "word": "熬夜看球前建议先睡一觉",
+      "onboard_time": 1718466497,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 357415,
@@ -75,16 +91,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 272728,
-      "num": 272728,
-      "word": "熬夜看球前建议先睡一觉",
-      "onboard_time": 1718466497,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 265584,
-      "num": 265584,
+      "raw_hot": 272156,
+      "num": 272156,
       "word": "情侣高考结束后举行订婚宴",
       "onboard_time": 1718450598,
       "rank": 11,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 212613,
-      "num": 156385,
+      "num": 181188,
       "word": "王星越 想谈系",
       "onboard_time": 1718460379,
       "rank": 22,
@@ -153,6 +161,14 @@
       "onboard_time": 1718458699,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206598,
+      "num": 154375,
+      "word": "保持饥饿感有助于延缓衰老",
+      "onboard_time": 1718467577,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 194107,
@@ -169,14 +185,6 @@
       "onboard_time": 1718467879,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185693,
-      "num": 146625,
-      "word": "保持饥饿感有助于延缓衰老",
-      "onboard_time": 1718467577,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 170033,
@@ -259,7 +267,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112357,
+      "raw_hot": 113216,
       "num": 125237,
       "word": "蔡依林无人机应援",
       "onboard_time": 1718461459,
@@ -291,7 +299,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95697,
+      "raw_hot": 97242,
       "num": 125015,
       "word": "六级答案",
       "onboard_time": 1718444420,
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83581,
+      "num": 83581,
+      "word": "王星越也打卡了吴谨言",
+      "onboard_time": 1718457198,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82269,
       "num": 124968,
       "word": "摩羯座真正的追求",
@@ -353,6 +369,22 @@
       "onboard_time": 1718464939,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78444,
+      "num": 83488,
+      "word": "张艺兴现场",
+      "onboard_time": 1718451436,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 77781,
+      "num": 124327,
+      "word": "斗破苍穹",
+      "onboard_time": 1718468477,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 76695,
@@ -379,33 +411,36 @@
       "category": "教育"
     },
     {
-      "raw_hot": 62678,
-      "num": 124327,
-      "word": "斗破苍穹",
-      "onboard_time": 1718468477,
-      "rank": 49,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 41901,
-      "num": 406487,
+      "num": 464103,
       "word": "来自嫦娥六号神秘包裹请注意查收",
       "onboard_time": 1718459779,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21074,
+      "raw_hot": 26232,
       "num": 281691,
       "word": "军校女学员笑着说要去戍边",
       "onboard_time": 1718467338,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15148,
+      "num": 228736,
+      "word": "男生为大学4年宿舍建模留住回忆",
+      "onboard_time": 1718461638,
+      "rank": 11,
       "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#要未雨绸缪始终绷紧粮食安全这根弦#"
+    },
+    {
+      "word": "#习近平致电祝贺拉马福萨当选连任南非总统#"
     }
   ]
 }
