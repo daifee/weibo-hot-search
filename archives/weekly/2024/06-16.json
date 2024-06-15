@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718486284702,
+  "endTime": 1718487277317,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -427,8 +427,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74977,
+      "num": 40284,
+      "word": "当事人回应在高考后订婚",
+      "onboard_time": 1718480771,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74282,
-      "num": 37059,
+      "num": 39520,
       "word": "外卖小哥回应酷似易烊千玺",
       "onboard_time": 1718479631,
       "rank": 28,
@@ -457,14 +465,6 @@
       "onboard_time": 1718445080,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 61991,
-      "num": 35089,
-      "word": "当事人回应在高考后订婚",
-      "onboard_time": 1718480771,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57175,
@@ -531,20 +531,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25131,
+      "num": 25131,
+      "word": "沈腾说心中最好的女演员是马丽",
+      "onboard_time": 1718484612,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 20531,
       "num": 26124,
       "word": "牛津Kate朱朱谈姜萍",
       "onboard_time": 1718478791,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19687,
-      "num": 19687,
-      "word": "沈腾说心中最好的女演员是马丽",
-      "onboard_time": 1718484612,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 15148,
@@ -563,8 +563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12837,
-      "num": 15259,
+      "raw_hot": 13155,
+      "num": 16398,
       "word": "陈祥榕妈妈曾问儿子勇不勇敢",
       "onboard_time": 1718485870,
       "rank": 48,
