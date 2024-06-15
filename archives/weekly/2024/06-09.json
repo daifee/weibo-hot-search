@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718457596878,
+  "endTime": 1718458491900,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -2292,7 +2292,7 @@
     },
     {
       "raw_hot": 691872,
-      "num": 399154,
+      "num": 429389,
       "word": "周也拿了六公主手里的糖",
       "onboard_time": 1718451978,
       "rank": 10,
@@ -2313,6 +2313,14 @@
       "onboard_time": 1717923919,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 687986,
+      "num": 687986,
+      "word": "会长是女仆大人 双强情侣",
+      "onboard_time": 1718455999,
+      "rank": 4,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 687510,
@@ -3131,6 +3139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 564915,
+      "num": 564915,
+      "word": "彭昱畅瘦了好多",
+      "onboard_time": 1718454619,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 562382,
       "num": 264470,
       "word": "人能活多久看头发就能知道吗",
@@ -3201,14 +3217,6 @@
       "onboard_time": 1718094438,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 551693,
-      "num": 551693,
-      "word": "会长是女仆大人 双强情侣",
-      "onboard_time": 1718455999,
-      "rank": 4,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 551574,
@@ -3312,14 +3320,6 @@
       "word": "TFBOYS发文为王俊凯新片打call",
       "onboard_time": 1718422580,
       "rank": 11,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 540935,
-      "num": 540935,
-      "word": "彭昱畅瘦了好多",
-      "onboard_time": 1718454619,
-      "rank": 31,
       "category": "电影"
     },
     {
@@ -4067,6 +4067,14 @@
       "category": "艺人,教育"
     },
     {
+      "raw_hot": 471199,
+      "num": 428530,
+      "word": "沈腾说我穿什么都配不上马丽",
+      "onboard_time": 1718456658,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 470091,
       "num": 470091,
       "word": "原来高考还没结束",
@@ -4449,6 +4457,14 @@
       "onboard_time": 1718416217,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 441131,
+      "num": 441131,
+      "word": "10元手冲咖啡阿姨回应不火了",
+      "onboard_time": 1718456418,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440323,
@@ -5404,7 +5420,7 @@
     },
     {
       "raw_hot": 367620,
-      "num": 205667,
+      "num": 209081,
       "word": "考研上岸后亲戚发朋友圈阴阳我",
       "onboard_time": 1718451796,
       "rank": 22,
@@ -5481,14 +5497,6 @@
       "onboard_time": 1717928597,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 361615,
-      "num": 361615,
-      "word": "沈腾说我穿什么都配不上马丽",
-      "onboard_time": 1718456658,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 361357,
@@ -6683,6 +6691,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 301091,
+      "num": 301091,
+      "word": "中国女排0比1土耳其女排",
+      "onboard_time": 1718458158,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300748,
       "num": 300748,
       "word": "恋与制作人",
@@ -6897,6 +6913,14 @@
       "onboard_time": 1718245337,
       "rank": 33,
       "category": "综艺,游戏"
+    },
+    {
+      "raw_hot": 293715,
+      "num": 293715,
+      "word": "王星越也打卡了吴谨言",
+      "onboard_time": 1718457198,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 293677,
@@ -7649,6 +7673,14 @@
       "onboard_time": 1718172018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261944,
+      "num": 261944,
+      "word": "马宁",
+      "onboard_time": 1718456898,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 261586,
@@ -9185,14 +9217,6 @@
       "onboard_time": 1718288000,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213615,
-      "num": 213615,
-      "word": "10元手冲咖啡阿姨回应不火了",
-      "onboard_time": 1718456418,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213559,
@@ -11083,14 +11107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186507,
-      "num": 186507,
-      "word": "马宁",
-      "onboard_time": 1718456898,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186486,
       "num": 186486,
       "word": "莫斯科交易所停止使用美元和欧元交易",
@@ -11441,6 +11457,14 @@
       "onboard_time": 1718255718,
       "rank": 39,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 181872,
+      "num": 181872,
+      "word": "匈牙利vs瑞士",
+      "onboard_time": 1718458158,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 181714,
@@ -12057,6 +12081,14 @@
       "onboard_time": 1718397191,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171478,
+      "num": 171478,
+      "word": "王俊凯野孩子剧组红毯",
+      "onboard_time": 1718457918,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 171350,
@@ -12699,14 +12731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162670,
-      "num": 162670,
-      "word": "王星越也打卡了吴谨言",
-      "onboard_time": 1718457198,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162569,
       "num": 162569,
       "word": "NV 伞兵",
@@ -13323,6 +13347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155962,
+      "num": 155962,
+      "word": "摩羯座真正的追求",
+      "onboard_time": 1718457139,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 155945,
       "num": 155945,
       "word": "小狗乱入考场民警投喂后开启静音模式",
@@ -13715,6 +13747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151275,
+      "num": 151275,
+      "word": "隼 哈圈汪苏泷",
+      "onboard_time": 1718457679,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151130,
       "num": 136423,
       "word": "王一博微博电影之夜官宣了",
@@ -13769,6 +13809,14 @@
       "onboard_time": 1718345838,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150030,
+      "num": 150030,
+      "word": "花小龙",
+      "onboard_time": 1718457918,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 149978,
@@ -14275,6 +14323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 143107,
+      "num": 143107,
+      "word": "AG对战TES",
+      "onboard_time": 1718457798,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142933,
       "num": 142933,
       "word": "吴谨言王星越端午放饭",
@@ -14577,14 +14633,6 @@
       "onboard_time": 1717933998,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139563,
-      "num": 139563,
-      "word": "摩羯座真正的追求",
-      "onboard_time": 1718457139,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 139479,
@@ -15963,6 +16011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125308,
+      "num": 125308,
+      "word": "一诺后羿太准了",
+      "onboard_time": 1718457979,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125250,
       "num": 125250,
       "word": "你是耙耙柑型人格吗",
@@ -17233,6 +17289,14 @@
       "onboard_time": 1718281157,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109102,
+      "num": 394077,
+      "word": "女儿听闻爸爸跳水救人后怕又骄傲",
+      "onboard_time": 1718456057,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109031,
@@ -18747,14 +18811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 65214,
-      "num": 394077,
-      "word": "女儿听闻爸爸跳水救人后怕又骄傲",
-      "onboard_time": 1718456057,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65142,
       "num": 457825,
       "word": "解放军仪仗队狂风暴雨中收国旗",
@@ -19081,6 +19137,14 @@
       "onboard_time": 1717888934,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57280,
+      "num": 430164,
+      "word": "大爷番茄散满地路人纷纷上前帮忙",
+      "onboard_time": 1718457918,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57097,
@@ -20219,6 +20283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27777,
+      "num": 201394,
+      "word": "刘雨昕蜻蜓刺绣V领西装",
+      "onboard_time": 1718455938,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27654,
       "num": 205161,
       "word": "于和伟问界M9野生销售员",
@@ -20305,14 +20377,6 @@
       "onboard_time": 1718315952,
       "rank": 44,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 25475,
-      "num": 193622,
-      "word": "刘雨昕蜻蜓刺绣V领西装",
-      "onboard_time": 1718455938,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 25369,
