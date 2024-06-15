@@ -1,0 +1,410 @@
+{
+  "runTime": 1718444057901,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1290118,
+        "num": 1290118,
+        "word": "六级",
+        "onboard_time": 1718443337,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1027663,
+        "num": 1027663,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72301,
+        "num": 840427,
+        "word": "我国载人登月运载火箭迎进展",
+        "onboard_time": 1718439857,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 821882,
+        "num": 821882,
+        "word": "炫迈致歉",
+        "onboard_time": 1718424739,
+        "rank": 3,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 640010,
+        "num": 640010,
+        "word": "凯特王妃",
+        "onboard_time": 1718433557,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 361351,
+        "num": 361351,
+        "word": "丁太升说孙楠唱了个什么玩意儿",
+        "onboard_time": 1718433557,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333538,
+        "num": 333538,
+        "word": "武大靖被东北师大拟录取博士",
+        "onboard_time": 1718440458,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328542,
+        "num": 328542,
+        "word": "四级答案",
+        "onboard_time": 1718422519,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 320154,
+        "num": 320154,
+        "word": "清华教授谈姜萍",
+        "onboard_time": 1718427858,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 210218,
+        "num": 319559,
+        "word": "台湾人也是堂堂正正的中国人",
+        "onboard_time": 1718442198,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1552559,
+        "num": 310734,
+        "word": "姜萍若上哈佛不用担心学费",
+        "onboard_time": 1718438179,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 420557,
+        "num": 304225,
+        "word": "谢娜问陈乔恩演的是坏蛋吗",
+        "onboard_time": 1718443099,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364643,
+        "num": 293441,
+        "word": "男子卧铺车上脱衣面对女乘客裸睡",
+        "onboard_time": 1718430197,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291077,
+        "num": 291077,
+        "word": "香港中文大学否认联系姜萍",
+        "onboard_time": 1718442737,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276004,
+        "num": 276004,
+        "word": "特朗普过生日拜登送损礼",
+        "onboard_time": 1718440397,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 273715,
+        "num": 273715,
+        "word": "北大说数学院的志愿代码是001号",
+        "onboard_time": 1718437638,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 271338,
+        "num": 271338,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257041,
+        "num": 257041,
+        "word": "G7要求俄向乌克兰赔偿超4860亿美元",
+        "onboard_time": 1718434637,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 240011,
+        "num": 240011,
+        "word": "杨梅里的虫子已老实",
+        "onboard_time": 1718435717,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215988,
+        "num": 215988,
+        "word": "汪苏泷听到排名第六的反应",
+        "onboard_time": 1718429779,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 572270,
+        "num": 212295,
+        "word": "25岁了还在追星",
+        "onboard_time": 1718438597,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224974,
+        "num": 212213,
+        "word": "人能活多久看头发就能知道吗",
+        "onboard_time": 1718434157,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200189,
+        "num": 200189,
+        "word": "王星越点赞菲常萧张cp粉",
+        "onboard_time": 1718439798,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199470,
+        "num": 199470,
+        "word": "油腻和胖瘦无关和演技有关",
+        "onboard_time": 1718439618,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189563,
+        "num": 189563,
+        "word": "章子怡2.0",
+        "onboard_time": 1718436198,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186302,
+        "num": 186302,
+        "word": "张予曦腰身比",
+        "onboard_time": 1718441357,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181908,
+        "num": 181908,
+        "word": "在简历上作假却加入了真正的团队",
+        "onboard_time": 1718438898,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 173318,
+        "num": 173318,
+        "word": "2024S联赛春季赛",
+        "onboard_time": 1718443218,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161122,
+        "num": 161122,
+        "word": "12306回应高铁长时间倒坐",
+        "onboard_time": 1718441237,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97542,
+        "num": 154366,
+        "word": "姜萍横空出世有哪些启示",
+        "onboard_time": 1718440757,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288621,
+        "num": 153568,
+        "word": "记者调查畸形体育饭圈文化",
+        "onboard_time": 1718441058,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152243,
+        "num": 152243,
+        "word": "肖战重庆打卡牌",
+        "onboard_time": 1718441117,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139404,
+        "num": 139404,
+        "word": "前夫哥恶母换乘发癫",
+        "onboard_time": 1718437397,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130062,
+        "num": 130062,
+        "word": "陈楚生凡希亚同台飙歌",
+        "onboard_time": 1718443999,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128588,
+        "num": 128588,
+        "word": "欧洲杯预测",
+        "onboard_time": 1718434757,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126096,
+        "num": 126096,
+        "word": "怪不得云南人吃菌子不怕被闹",
+        "onboard_time": 1718443279,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120437,
+        "num": 120437,
+        "word": "马龙说当国乒队长很荣耀",
+        "onboard_time": 1718442438,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117516,
+        "num": 117516,
+        "word": "微博电影之夜全阵容",
+        "onboard_time": 1718443696,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113406,
+        "num": 113406,
+        "word": "福宝场地疑似掉落不明物体",
+        "onboard_time": 1718427619,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113247,
+        "num": 113247,
+        "word": "墨雨云间27",
+        "onboard_time": 1718433797,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112175,
+        "num": 112175,
+        "word": "孩子用离世母亲账户买球星卡欠9万",
+        "onboard_time": 1718430799,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112466,
+        "num": 111459,
+        "word": "尚雯婕是歌手赛制最大受害者",
+        "onboard_time": 1718425099,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112774,
+        "num": 110686,
+        "word": "墨雨云间",
+        "onboard_time": 1718443038,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109031,
+        "num": 109031,
+        "word": "大冰解释黄金左脸",
+        "onboard_time": 1718442979,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107720,
+        "num": 107720,
+        "word": "菜刀上的孔是干嘛用的",
+        "onboard_time": 1718436436,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96260,
+        "num": 96260,
+        "word": "央视曝光机票退改签新骗局",
+        "onboard_time": 1718434878,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53328,
+        "num": 96257,
+        "word": "CEO的终点是自己卖车吗",
+        "onboard_time": 1718438538,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93855,
+        "num": 96233,
+        "word": "马龙回应无缘奥运单打",
+        "onboard_time": 1718433617,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90952,
+        "num": 96211,
+        "word": "美国13岁女孩公园遭歹徒性侵",
+        "onboard_time": 1718433378,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87883,
+        "num": 96203,
+        "word": "蔡徐坤又比1了",
+        "onboard_time": 1718426719,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺拉马福萨当选连任南非总统#"
+    }
+  }
+}
