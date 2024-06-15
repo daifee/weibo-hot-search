@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718426317468,
+  "endTime": 1718428724315,
   "band_list": [
     {
       "raw_hot": 6639747,
@@ -25,6 +25,14 @@
       "onboard_time": 1718409677,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1664271,
+      "num": 1664271,
+      "word": "炫迈致歉",
+      "onboard_time": 1718424739,
+      "rank": 5,
+      "category": "游戏,游戏"
     },
     {
       "raw_hot": 1657955,
@@ -65,14 +73,6 @@
       "onboard_time": 1718362219,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1291028,
-      "num": 1291028,
-      "word": "炫迈致歉",
-      "onboard_time": 1718424739,
-      "rank": 5,
-      "category": "游戏,游戏"
     },
     {
       "raw_hot": 1251418,
@@ -121,6 +121,14 @@
       "onboard_time": 1718373386,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 926533,
+      "num": 149817,
+      "word": "王阳置顶微博",
+      "onboard_time": 1718427738,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 922175,
@@ -187,20 +195,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 701036,
+      "num": 701036,
+      "word": "四级 霉霉",
+      "onboard_time": 1718424679,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 698366,
       "num": 698366,
       "word": "六公主发的周也",
       "onboard_time": 1718357120,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 695060,
-      "num": 695060,
-      "word": "四级 霉霉",
-      "onboard_time": 1718424679,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 691112,
@@ -249,6 +257,30 @@
       "onboard_time": 1718372784,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 652319,
+      "num": 652319,
+      "word": "尚雯婕是歌手赛制最大受害者",
+      "onboard_time": 1718425099,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 636419,
+      "num": 636419,
+      "word": "福宝场地疑似掉落不明物体",
+      "onboard_time": 1718427619,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 634504,
+      "num": 634504,
+      "word": "蔡徐坤又比1了",
+      "onboard_time": 1718426719,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 597457,
@@ -339,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457757,
+      "num": 457757,
+      "word": "刘奔回应因姜萍走红",
+      "onboard_time": 1718422880,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 441517,
       "num": 441517,
       "word": "国际数学奥林匹克满分得主谈姜萍",
       "onboard_time": 1718416217,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 440514,
+      "num": 440514,
+      "word": "亚洲首富之子婚前百亿派对",
+      "onboard_time": 1718425818,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429944,
@@ -361,22 +409,6 @@
       "onboard_time": 1718376803,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 420620,
-      "num": 420620,
-      "word": "尚雯婕是歌手赛制最大受害者",
-      "onboard_time": 1718425099,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 417117,
-      "num": 417117,
-      "word": "刘奔回应因姜萍走红",
-      "onboard_time": 1718422880,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 406071,
@@ -481,6 +513,14 @@
       "onboard_time": 1718421917,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304180,
+      "num": 304180,
+      "word": "清华教授谈姜萍",
+      "onboard_time": 1718427858,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 303139,
@@ -627,6 +667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225985,
+      "num": 225985,
+      "word": "TF三代声明",
+      "onboard_time": 1718426600,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224366,
       "num": 211616,
       "word": "男友说我有车有房娶我就不用买了",
@@ -691,6 +739,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207779,
+      "num": 207779,
+      "word": "光与夜之恋称炫迈不同意公开致歉",
+      "onboard_time": 1718428518,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206913,
+      "num": 206913,
+      "word": "warm in winter cold in summer",
+      "onboard_time": 1718426358,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 206601,
       "num": 212911,
       "word": "答错的是魏大勋受伤的是白鹿",
@@ -729,6 +793,22 @@
       "onboard_time": 1718419098,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198955,
+      "num": 198955,
+      "word": "王星越我再害你一次",
+      "onboard_time": 1718427078,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 197981,
+      "num": 197981,
+      "word": "ChatGPT首次通过图灵测试",
+      "onboard_time": 1718427858,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 196516,
@@ -891,12 +971,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170004,
+      "num": 170004,
+      "word": "谁能想到02年医学生被叫爷爷",
+      "onboard_time": 1718428038,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169774,
       "num": 169774,
       "word": "蛟龙行动",
       "onboard_time": 1718421677,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169142,
+      "num": 169142,
+      "word": "美防长拒绝普京俄乌冲突停火条件",
+      "onboard_time": 1718426600,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 168263,
@@ -987,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149978,
+      "num": 149978,
+      "word": "57岁正是藏不住事的年纪",
+      "onboard_time": 1718426479,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147803,
       "num": 147803,
       "word": "退钱哥吐槽欧洲物价",
@@ -1025,6 +1129,14 @@
       "onboard_time": 1718410096,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136775,
+      "num": 136775,
+      "word": "这届年轻人认为人生处处吃得开",
+      "onboard_time": 1718428518,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 131617,
@@ -1091,6 +1203,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124596,
+      "num": 659014,
+      "word": "高考填志愿前几个概念先搞明白",
+      "onboard_time": 1718424020,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 124208,
+      "num": 124208,
+      "word": "奥林匹克日",
+      "onboard_time": 1718427738,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122928,
       "num": 169552,
       "word": "毕业生携双胞胎亮相校长钱包哇哇哭",
@@ -1105,6 +1233,14 @@
       "onboard_time": 1718419757,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121848,
+      "num": 121848,
+      "word": "曝广汽本田赔偿金丰厚员工抢着被裁",
+      "onboard_time": 1718428698,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 121463,
@@ -1299,20 +1435,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87378,
+      "num": 1294362,
+      "word": "长三角开行超级环线高铁",
+      "onboard_time": 1718425639,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85465,
       "num": 85465,
       "word": "易烊千玺也吃到了浦东机场的苦",
       "onboard_time": 1718359759,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84037,
-      "num": 659014,
-      "word": "高考填志愿前几个概念先搞明白",
-      "onboard_time": 1718424020,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 78983,
@@ -1329,6 +1465,14 @@
       "onboard_time": 1718371403,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77757,
+      "num": 490365,
+      "word": "世界上会不会有另一个你",
+      "onboard_time": 1718427619,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 76874,
@@ -1427,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57495,
+      "num": 449874,
+      "word": "苍山上空彩云飘",
+      "onboard_time": 1718425998,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 56565,
       "num": 56565,
       "word": "从小到大以为自己才有的小众喜好",
@@ -1459,22 +1611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51165,
-      "num": 449874,
-      "word": "苍山上空彩云飘",
-      "onboard_time": 1718425998,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 47977,
-      "num": 1294362,
-      "word": "长三角开行超级环线高铁",
-      "onboard_time": 1718425639,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46094,
       "num": 424047,
       "word": "克洛泽国内首次直播",
@@ -1497,14 +1633,6 @@
       "onboard_time": 1718386514,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36205,
-      "num": 240406,
-      "word": "亚洲首富之子婚前百亿派对",
-      "onboard_time": 1718425818,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33210,

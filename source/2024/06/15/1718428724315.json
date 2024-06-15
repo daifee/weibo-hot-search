@@ -1,0 +1,410 @@
+{
+  "runTime": 1718428724315,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2181283,
+        "num": 2181283,
+        "word": "四级答案",
+        "onboard_time": 1718422519,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1664271,
+        "num": 1664271,
+        "word": "炫迈致歉",
+        "onboard_time": 1718424739,
+        "rank": 1,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 87378,
+        "num": 1175959,
+        "word": "长三角开行超级环线高铁",
+        "onboard_time": 1718425639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701036,
+        "num": 701036,
+        "word": "四级 霉霉",
+        "onboard_time": 1718424679,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 652319,
+        "num": 652319,
+        "word": "尚雯婕是歌手赛制最大受害者",
+        "onboard_time": 1718425099,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636419,
+        "num": 636419,
+        "word": "福宝场地疑似掉落不明物体",
+        "onboard_time": 1718427619,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634504,
+        "num": 634504,
+        "word": "蔡徐坤又比1了",
+        "onboard_time": 1718426719,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 520508,
+        "num": 520508,
+        "word": "严浩翔 炫迈",
+        "onboard_time": 1718421978,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124596,
+        "num": 496117,
+        "word": "高考填志愿前几个概念先搞明白",
+        "onboard_time": 1718424020,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 77757,
+        "num": 490365,
+        "word": "世界上会不会有另一个你",
+        "onboard_time": 1718427619,
+        "rank": 9,
+        "category": "社会新闻,社会议题"
+      },
+      {
+        "raw_hot": 1302102,
+        "num": 490038,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489222,
+        "num": 489222,
+        "word": "四级翻译 四合院",
+        "onboard_time": 1718422519,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 457757,
+        "num": 457757,
+        "word": "刘奔回应因姜萍走红",
+        "onboard_time": 1718422880,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 441291,
+        "num": 441291,
+        "word": "TFBOYS发文为王俊凯新片打call",
+        "onboard_time": 1718422580,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 440514,
+        "num": 440514,
+        "word": "亚洲首富之子婚前百亿派对",
+        "onboard_time": 1718425818,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378065,
+        "num": 378065,
+        "word": "canteen我恨你",
+        "onboard_time": 1718423120,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 345887,
+        "num": 345887,
+        "word": "庄国栋被删了方协文上桌了",
+        "onboard_time": 1718420657,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325439,
+        "num": 325439,
+        "word": "这英否认背刺那英",
+        "onboard_time": 1718425519,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304180,
+        "num": 304180,
+        "word": "清华教授谈姜萍",
+        "onboard_time": 1718427858,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 279520,
+        "num": 279520,
+        "word": "四级",
+        "onboard_time": 1718409677,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 275643,
+        "num": 275643,
+        "word": "四级作文",
+        "onboard_time": 1718422037,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254230,
+        "num": 254230,
+        "word": "亲戚把订婚蛋糕整个拿走了",
+        "onboard_time": 1718419578,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 225985,
+        "num": 225985,
+        "word": "TF三代声明",
+        "onboard_time": 1718426600,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209374,
+        "num": 209374,
+        "word": "四级作文 开放设施",
+        "onboard_time": 1718422580,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 208193,
+        "num": 208193,
+        "word": "四级 花钱买早八",
+        "onboard_time": 1718376143,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207779,
+        "num": 207779,
+        "word": "光与夜之恋称炫迈不同意公开致歉",
+        "onboard_time": 1718428518,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206913,
+        "num": 206913,
+        "word": "warm in winter cold in summer",
+        "onboard_time": 1718426358,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205081,
+        "num": 205081,
+        "word": "歌手最好笑的图出现了",
+        "onboard_time": 1718424379,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198955,
+        "num": 198955,
+        "word": "王星越我再害你一次",
+        "onboard_time": 1718427078,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57495,
+        "num": 198327,
+        "word": "苍山上空彩云飘",
+        "onboard_time": 1718425998,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 197981,
+        "num": 197981,
+        "word": "ChatGPT首次通过图灵测试",
+        "onboard_time": 1718427858,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195125,
+        "num": 195125,
+        "word": "六级翻译",
+        "onboard_time": 1718422339,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183609,
+        "num": 183609,
+        "word": "焉栩嘉上岸了",
+        "onboard_time": 1718406735,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180243,
+        "num": 180243,
+        "word": "这跟肖战谈恋爱有什么区别",
+        "onboard_time": 1718415438,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178089,
+        "num": 178089,
+        "word": "张若昀 京都手办出逃米兰",
+        "onboard_time": 1718422759,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172309,
+        "num": 172309,
+        "word": "杨超越话剧",
+        "onboard_time": 1718423240,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170004,
+        "num": 170004,
+        "word": "谁能想到02年医学生被叫爷爷",
+        "onboard_time": 1718428038,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169442,
+        "num": 169442,
+        "word": "退钱哥退钱姐时隔十年重聚",
+        "onboard_time": 1718425939,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169142,
+        "num": 169142,
+        "word": "美防长拒绝普京俄乌冲突停火条件",
+        "onboard_time": 1718426600,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 166155,
+        "num": 166155,
+        "word": "杭州女子孕期同房出血紧急就医",
+        "onboard_time": 1718406554,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157037,
+        "num": 157037,
+        "word": "突然觉得脚真的好可怜",
+        "onboard_time": 1718413338,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155275,
+        "num": 155275,
+        "word": "四级听力已老实",
+        "onboard_time": 1718423179,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149978,
+        "num": 149978,
+        "word": "57岁正是藏不住事的年纪",
+        "onboard_time": 1718426479,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 926533,
+        "num": 149817,
+        "word": "王阳置顶微博",
+        "onboard_time": 1718427738,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142718,
+        "num": 142718,
+        "word": "四级作文题目",
+        "onboard_time": 1718422880,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136775,
+        "num": 136775,
+        "word": "这届年轻人认为人生处处吃得开",
+        "onboard_time": 1718428518,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132007,
+        "num": 132007,
+        "word": "林更新演技",
+        "onboard_time": 1718413939,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130409,
+        "num": 130409,
+        "word": "凯特王妃将公开露面",
+        "onboard_time": 1718413878,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 124208,
+        "num": 124208,
+        "word": "奥林匹克日",
+        "onboard_time": 1718427738,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121848,
+        "num": 121848,
+        "word": "曝广汽本田赔偿金丰厚员工抢着被裁",
+        "onboard_time": 1718428698,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推进科技创新及其他各方面创新#"
+    }
+  }
+}

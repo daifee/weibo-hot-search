@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718426317468,
+  "endTime": 1718428724315,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -347,6 +347,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1664271,
+      "num": 1664271,
+      "word": "炫迈致歉",
+      "onboard_time": 1718424739,
+      "rank": 5,
+      "category": "游戏,游戏"
+    },
+    {
       "raw_hot": 1654783,
       "num": 1654783,
       "word": "大凉山支教7天费用上万",
@@ -649,14 +657,6 @@
       "onboard_time": 1718274499,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1291028,
-      "num": 1291028,
-      "word": "炫迈致歉",
-      "onboard_time": 1718424739,
-      "rank": 5,
-      "category": "游戏,游戏"
     },
     {
       "raw_hot": 1290048,
@@ -1353,6 +1353,14 @@
       "onboard_time": 1718267599,
       "rank": 13,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 926533,
+      "num": 149817,
+      "word": "王阳置顶微博",
+      "onboard_time": 1718427738,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 922175,
@@ -2067,6 +2075,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 701036,
+      "num": 701036,
+      "word": "四级 霉霉",
+      "onboard_time": 1718424679,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 700136,
       "num": 700136,
       "word": "暗河传开机",
@@ -2105,14 +2121,6 @@
       "onboard_time": 1718031559,
       "rank": 46,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 695060,
-      "num": 695060,
-      "word": "四级 霉霉",
-      "onboard_time": 1718424679,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 694856,
@@ -2403,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652319,
+      "num": 652319,
+      "word": "尚雯婕是歌手赛制最大受害者",
+      "onboard_time": 1718425099,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 651230,
       "num": 242306,
       "word": "浪姐不放人吗",
@@ -2499,12 +2515,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636419,
+      "num": 636419,
+      "word": "福宝场地疑似掉落不明物体",
+      "onboard_time": 1718427619,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636393,
       "num": 636393,
       "word": "原来6月既是开始又是结束",
       "onboard_time": 1718334259,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 634504,
+      "num": 634504,
+      "word": "蔡徐坤又比1了",
+      "onboard_time": 1718426719,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 633324,
@@ -3915,6 +3947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 457757,
+      "num": 457757,
+      "word": "刘奔回应因姜萍走红",
+      "onboard_time": 1718422880,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 457553,
       "num": 457553,
       "word": "黄景瑜穿了不如不穿",
@@ -4129,6 +4169,14 @@
       "onboard_time": 1718416217,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 440514,
+      "num": 440514,
+      "word": "亚洲首富之子婚前百亿派对",
+      "onboard_time": 1718425818,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 440323,
@@ -4387,14 +4435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 420620,
-      "num": 420620,
-      "word": "尚雯婕是歌手赛制最大受害者",
-      "onboard_time": 1718425099,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 420371,
       "num": 420371,
       "word": "985毕业生反向升学读技校",
@@ -4425,14 +4465,6 @@
       "onboard_time": 1718079079,
       "rank": 29,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 417117,
-      "num": 417117,
-      "word": "刘奔回应因姜萍走红",
-      "onboard_time": 1718422880,
-      "rank": 16,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 417047,
@@ -6185,6 +6217,14 @@
       "onboard_time": 1718257098,
       "rank": 8,
       "category": "美食"
+    },
+    {
+      "raw_hot": 304180,
+      "num": 304180,
+      "word": "清华教授谈姜萍",
+      "onboard_time": 1718427858,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 303198,
@@ -8163,6 +8203,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 225985,
+      "num": 225985,
+      "word": "TF三代声明",
+      "onboard_time": 1718426600,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 225831,
       "num": 198336,
       "word": "野孩子 端午和弟弟吃粽子去",
@@ -8963,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207779,
+      "num": 207779,
+      "word": "光与夜之恋称炫迈不同意公开致歉",
+      "onboard_time": 1718428518,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207778,
       "num": 207778,
       "word": "35岁母亲带孤独症儿子跑货车",
@@ -8993,6 +9049,14 @@
       "onboard_time": 1718102900,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206913,
+      "num": 206913,
+      "word": "warm in winter cold in summer",
+      "onboard_time": 1718426358,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 206782,
@@ -9579,6 +9643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198955,
+      "num": 198955,
+      "word": "王星越我再害你一次",
+      "onboard_time": 1718427078,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198949,
       "num": 570862,
       "word": "欧洲杯赛程",
@@ -9673,6 +9745,14 @@
       "onboard_time": 1718238740,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197981,
+      "num": 197981,
+      "word": "ChatGPT首次通过图灵测试",
+      "onboard_time": 1718427858,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 197749,
@@ -11371,6 +11451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170004,
+      "num": 170004,
+      "word": "谁能想到02年医学生被叫爷爷",
+      "onboard_time": 1718428038,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169905,
       "num": 169905,
       "word": "关晓彤唱跳午夜恰恰",
@@ -11417,6 +11505,14 @@
       "onboard_time": 1717994358,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169142,
+      "num": 169142,
+      "word": "美防长拒绝普京俄乌冲突停火条件",
+      "onboard_time": 1718426600,
+      "rank": 38,
+      "category": "国外时政"
     },
     {
       "raw_hot": 169089,
@@ -12843,6 +12939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149978,
+      "num": 149978,
+      "word": "57岁正是藏不住事的年纪",
+      "onboard_time": 1718426479,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149889,
       "num": 149889,
       "word": "陈哲远回应待爆八年",
@@ -13817,6 +13921,14 @@
       "onboard_time": 1717894216,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 136775,
+      "num": 136775,
+      "word": "这届年轻人认为人生处处吃得开",
+      "onboard_time": 1718428518,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 136773,
@@ -14883,6 +14995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124596,
+      "num": 659014,
+      "word": "高考填志愿前几个概念先搞明白",
+      "onboard_time": 1718424020,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 124318,
       "num": 124318,
       "word": "一诺刺绣黑西装",
@@ -14897,6 +15017,14 @@
       "onboard_time": 1717856538,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 124208,
+      "num": 124208,
+      "word": "奥林匹克日",
+      "onboard_time": 1718427738,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 124194,
@@ -15073,6 +15201,14 @@
       "onboard_time": 1717927817,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 121848,
+      "num": 121848,
+      "word": "曝广汽本田赔偿金丰厚员工抢着被裁",
+      "onboard_time": 1718428698,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 121798,
@@ -16915,6 +17051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87378,
+      "num": 1294362,
+      "word": "长三角开行超级环线高铁",
+      "onboard_time": 1718425639,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86713,
       "num": 86713,
       "word": "徐明浩又喊话自己印小卡",
@@ -17001,14 +17145,6 @@
       "onboard_time": 1718147836,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 84037,
-      "num": 659014,
-      "word": "高考填志愿前几个概念先搞明白",
-      "onboard_time": 1718424020,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 83925,
@@ -17113,6 +17249,14 @@
       "onboard_time": 1718370803,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77757,
+      "num": 490365,
+      "word": "世界上会不会有另一个你",
+      "onboard_time": 1718427619,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 77530,
@@ -17771,6 +17915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57495,
+      "num": 449874,
+      "word": "苍山上空彩云飘",
+      "onboard_time": 1718425998,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 57494,
       "num": 57494,
       "word": "张杰永远在扣手手",
@@ -18003,14 +18155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 51165,
-      "num": 449874,
-      "word": "苍山上空彩云飘",
-      "onboard_time": 1718425998,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 50695,
       "num": 438158,
       "word": "警方提醒高考生和家长警惕骗子",
@@ -18120,14 +18264,6 @@
       "word": "太空视角看中国供水大动脉10年之变",
       "onboard_time": 1718176039,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47977,
-      "num": 1294362,
-      "word": "长三角开行超级环线高铁",
-      "onboard_time": 1718425639,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -18600,14 +18736,6 @@
       "word": "端午一家3口回家妈妈开心得像孩子",
       "onboard_time": 1717939038,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36205,
-      "num": 240406,
-      "word": "亚洲首富之子婚前百亿派对",
-      "onboard_time": 1718425818,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
