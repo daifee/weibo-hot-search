@@ -1,0 +1,410 @@
+{
+  "runTime": 1718494500161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 656012,
+        "num": 656012,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447325,
+        "num": 447325,
+        "word": "女子长期乏力全家查出吸血鬼病基因",
+        "onboard_time": 1718459418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56871,
+        "num": 349379,
+        "word": "一句话表白老爸",
+        "onboard_time": 1718458938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641375,
+        "num": 343551,
+        "word": "男朋友微信转账备注非自愿赠予",
+        "onboard_time": 1718493733,
+        "rank": 3,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 315254,
+        "num": 315254,
+        "word": "当事人回应在高考后订婚",
+        "onboard_time": 1718480771,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454779,
+        "num": 306260,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274935,
+        "num": 274935,
+        "word": "雌激素降低确实会催人老",
+        "onboard_time": 1718463019,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 206187,
+        "num": 206187,
+        "word": "邓超终于上了影帝大号",
+        "onboard_time": 1718470335,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193785,
+        "num": 193785,
+        "word": "外卖小哥回应酷似易烊千玺",
+        "onboard_time": 1718479631,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18327,
+        "num": 177998,
+        "word": "2024祝福每一位父亲",
+        "onboard_time": 1718493432,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171571,
+        "num": 171571,
+        "word": "西班牙3比0克罗地亚",
+        "onboard_time": 1718493073,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165330,
+        "num": 165330,
+        "word": "姜萍火了不必过度强调其中专生身份",
+        "onboard_time": 1718491992,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145868,
+        "num": 145868,
+        "word": "10元手冲咖啡阿姨回应不火了",
+        "onboard_time": 1718456418,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134303,
+        "num": 134303,
+        "word": "欧洲杯意大利",
+        "onboard_time": 1718493252,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122079,
+        "num": 122079,
+        "word": "欧洲杯历史最快进球",
+        "onboard_time": 1718493495,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113230,
+        "num": 113230,
+        "word": "外媒镜头下的易烊千玺生图",
+        "onboard_time": 1718493733,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106647,
+        "num": 106647,
+        "word": "墨雨云间前夫哥破万福利",
+        "onboard_time": 1718489951,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104940,
+        "num": 104940,
+        "word": "父亲节文案",
+        "onboard_time": 1718494095,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97101,
+        "num": 97101,
+        "word": "中国女排3比2土耳其女排",
+        "onboard_time": 1718462900,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85521,
+        "num": 85521,
+        "word": "欧洲杯",
+        "onboard_time": 1718453357,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290631,
+        "num": 85438,
+        "word": "父亲节快乐",
+        "onboard_time": 1718493733,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196076,
+        "num": 85236,
+        "word": "保持饥饿感有助于延缓衰老",
+        "onboard_time": 1718467577,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110726,
+        "num": 85169,
+        "word": "吴谨言上了郝蕾表演课后逆袭",
+        "onboard_time": 1718471475,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109406,
+        "num": 84954,
+        "word": "考上编制好朋友把我删了",
+        "onboard_time": 1718493973,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84949,
+        "num": 84949,
+        "word": "意大利2比1阿尔巴尼亚",
+        "onboard_time": 1718493252,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82487,
+        "num": 82487,
+        "word": "男孩的儿童节愿望在父亲节前实现了",
+        "onboard_time": 1718493612,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76175,
+        "num": 76175,
+        "word": "原来东北凌晨3点天就亮了",
+        "onboard_time": 1718493612,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75942,
+        "num": 75942,
+        "word": "学校回应男生39天减重斤20斤后猝死",
+        "onboard_time": 1718472494,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69189,
+        "num": 69189,
+        "word": "荣梓杉成年了衬衫可以开大点",
+        "onboard_time": 1718461759,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68100,
+        "num": 68100,
+        "word": "师生十年后相聚歌手双双离场",
+        "onboard_time": 1718489051,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64205,
+        "num": 64205,
+        "word": "沈腾说心中最好的女演员是马丽",
+        "onboard_time": 1718484612,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61599,
+        "num": 61599,
+        "word": "还是低估了墨雨云间的爽",
+        "onboard_time": 1718454377,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60848,
+        "num": 60848,
+        "word": "张若昀许凯目黑莲方灿同排看秀",
+        "onboard_time": 1718478020,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60499,
+        "num": 60499,
+        "word": "本科毕业四年寝室的情感变化",
+        "onboard_time": 1718475972,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60043,
+        "num": 60043,
+        "word": "西班牙3分钟2球",
+        "onboard_time": 1718494095,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58517,
+        "num": 58517,
+        "word": "周也拿了六公主手里的糖",
+        "onboard_time": 1718451978,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57168,
+        "num": 57168,
+        "word": "不满17岁就踢了欧洲杯",
+        "onboard_time": 1718492952,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55294,
+        "num": 55294,
+        "word": "张常宁好牛",
+        "onboard_time": 1718459838,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53005,
+        "num": 53005,
+        "word": "王星越 想谈系",
+        "onboard_time": 1718460379,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49896,
+        "num": 49896,
+        "word": "凯特公开露面",
+        "onboard_time": 1718444840,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 48156,
+        "num": 48156,
+        "word": "爸爸的爱总是藏在细微的行动里",
+        "onboard_time": 1718493193,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46806,
+        "num": 46806,
+        "word": "周也和六公主碰拳",
+        "onboard_time": 1718450119,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46578,
+        "num": 46578,
+        "word": "考研上岸后亲戚发朋友圈阴阳我",
+        "onboard_time": 1718451796,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44166,
+        "num": 44166,
+        "word": "谢可寅 我再也不相信你了李斯丹妮",
+        "onboard_time": 1718466557,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40670,
+        "num": 40670,
+        "word": "中式婚礼",
+        "onboard_time": 1718448198,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39101,
+        "num": 39101,
+        "word": "彭昱畅瘦了好多",
+        "onboard_time": 1718454619,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38336,
+        "num": 38336,
+        "word": "姜萍",
+        "onboard_time": 1718444239,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 37709,
+        "num": 37709,
+        "word": "会长是女仆大人 双强情侣",
+        "onboard_time": 1718455999,
+        "rank": 47,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 37303,
+        "num": 37303,
+        "word": "蔡依林无人机应援",
+        "onboard_time": 1718461459,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37131,
+        "num": 37131,
+        "word": "法比安破门",
+        "onboard_time": 1718494453,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的赤子之心#"
+    }
+  }
+}

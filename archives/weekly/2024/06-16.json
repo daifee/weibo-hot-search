@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718493552371,
+  "endTime": 1718494500161,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 691788,
-      "num": 254637,
+      "num": 274935,
       "word": "雌激素降低确实会催人老",
       "onboard_time": 1718463019,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 656012,
+      "num": 656012,
+      "word": "父亲节",
+      "onboard_time": 1718469016,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 655907,
@@ -35,12 +43,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 611206,
-      "num": 611206,
-      "word": "父亲节",
-      "onboard_time": 1718469016,
-      "rank": 1,
-      "category": "社会新闻"
+      "raw_hot": 641375,
+      "num": 343551,
+      "word": "男朋友微信转账备注非自愿赠予",
+      "onboard_time": 1718493733,
+      "rank": 3,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 462555,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315254,
+      "num": 315254,
+      "word": "当事人回应在高考后订婚",
+      "onboard_time": 1718480771,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304875,
       "num": 304875,
       "word": "许嵩 谢谢你在3650万首歌里听到我",
@@ -99,12 +115,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 282775,
-      "num": 282775,
-      "word": "当事人回应在高考后订婚",
-      "onboard_time": 1718480771,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 290631,
+      "num": 85438,
+      "word": "父亲节快乐",
+      "onboard_time": 1718493733,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 272156,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 236922,
-      "num": 84350,
+      "num": 85169,
       "word": "吴谨言上了郝蕾表演课后逆袭",
       "onboard_time": 1718471475,
       "rank": 30,
@@ -203,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193785,
+      "num": 193785,
+      "word": "外卖小哥回应酷似易烊千玺",
+      "onboard_time": 1718479631,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190090,
       "num": 161114,
       "word": "种地吧",
@@ -211,12 +235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171571,
+      "num": 171571,
+      "word": "西班牙3比0克罗地亚",
+      "onboard_time": 1718493073,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170033,
       "num": 170033,
       "word": "凯特公开露面",
       "onboard_time": 1718444840,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 165330,
+      "num": 165330,
+      "word": "姜萍火了不必过度强调其中专生身份",
+      "onboard_time": 1718491992,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152622,
@@ -243,20 +283,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135077,
-      "num": 135077,
-      "word": "西班牙3比0克罗地亚",
-      "onboard_time": 1718493073,
-      "rank": 8,
+      "raw_hot": 134303,
+      "num": 134303,
+      "word": "欧洲杯意大利",
+      "onboard_time": 1718493252,
+      "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134813,
-      "num": 134813,
-      "word": "外卖小哥回应酷似易烊千玺",
-      "onboard_time": 1718479631,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 131442,
@@ -323,8 +355,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122079,
+      "num": 122079,
+      "word": "欧洲杯历史最快进球",
+      "onboard_time": 1718493495,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117702,
-      "num": 51846,
+      "num": 60499,
       "word": "本科毕业四年寝室的情感变化",
       "onboard_time": 1718475972,
       "rank": 26,
@@ -339,12 +379,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113230,
+      "num": 113230,
+      "word": "外媒镜头下的易烊千玺生图",
+      "onboard_time": 1718493733,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 113216,
       "num": 125237,
       "word": "蔡依林无人机应援",
       "onboard_time": 1718461459,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109406,
+      "num": 84954,
+      "word": "考上编制好朋友把我删了",
+      "onboard_time": 1718493973,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 108693,
@@ -355,20 +411,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104940,
+      "num": 104940,
+      "word": "父亲节文案",
+      "onboard_time": 1718494095,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104250,
       "num": 125141,
       "word": "考研上岸后亲戚发朋友圈阴阳我",
       "onboard_time": 1718451796,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 101213,
-      "num": 101213,
-      "word": "欧洲杯意大利",
-      "onboard_time": 1718493252,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 98190,
@@ -411,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84949,
+      "num": 84949,
+      "word": "意大利2比1阿尔巴尼亚",
+      "onboard_time": 1718493252,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84440,
       "num": 124732,
       "word": "吴彦祖刘昊然同框",
@@ -433,6 +497,14 @@
       "onboard_time": 1718457198,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82487,
+      "num": 82487,
+      "word": "男孩的儿童节愿望在父亲节前实现了",
+      "onboard_time": 1718493612,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82269,
@@ -483,16 +555,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72455,
-      "num": 72455,
-      "word": "姜萍火了不必过度强调其中专生身份",
-      "onboard_time": 1718491992,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 76175,
+      "num": 76175,
+      "word": "原来东北凌晨3点天就亮了",
+      "onboard_time": 1718493612,
+      "rank": 26,
+      "category": "幽默"
     },
     {
-      "raw_hot": 68848,
-      "num": 61913,
+      "raw_hot": 75942,
+      "num": 75942,
       "word": "学校回应男生39天减重斤20斤后猝死",
       "onboard_time": 1718472494,
       "rank": 48,
@@ -523,28 +595,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 61503,
-      "num": 61503,
-      "word": "欧洲杯历史最快进球",
-      "onboard_time": 1718493495,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 59624,
-      "num": 59624,
-      "word": "意大利2比1阿尔巴尼亚",
-      "onboard_time": 1718493252,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 57311,
-      "num": 57311,
+      "raw_hot": 60848,
+      "num": 60848,
       "word": "张若昀许凯目黑莲方灿同排看秀",
       "onboard_time": 1718478020,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60043,
+      "num": 60043,
+      "word": "西班牙3分钟2球",
+      "onboard_time": 1718494095,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 57175,
@@ -555,11 +619,27 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 51379,
-      "num": 311279,
+      "raw_hot": 57168,
+      "num": 57168,
+      "word": "不满17岁就踢了欧洲杯",
+      "onboard_time": 1718492952,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56871,
+      "num": 349379,
       "word": "一句话表白老爸",
       "onboard_time": 1718458938,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48156,
+      "num": 48156,
+      "word": "爸爸的爱总是藏在细微的行动里",
+      "onboard_time": 1718493193,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -569,14 +649,6 @@
       "onboard_time": 1718474653,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 45155,
-      "num": 45155,
-      "word": "爸爸的爱总是藏在细微的行动里",
-      "onboard_time": 1718493193,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42120,
@@ -603,14 +675,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 41034,
-      "num": 41034,
-      "word": "不满17岁就踢了欧洲杯",
-      "onboard_time": 1718492952,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 39705,
       "num": 33605,
       "word": "看得出宝宝是真的公主",
@@ -635,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37131,
+      "num": 37131,
+      "word": "法比安破门",
+      "onboard_time": 1718494453,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26232,
       "num": 281691,
       "word": "军校女学员笑着说要去戍边",
@@ -652,7 +724,7 @@
     },
     {
       "raw_hot": 20293,
-      "num": 58378,
+      "num": 177998,
       "word": "2024祝福每一位父亲",
       "onboard_time": 1718493432,
       "rank": 25,
