@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718440552337,
+  "endTime": 1718443149256,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -385,6 +385,14 @@
       "onboard_time": 1717999397,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1630481,
+      "num": 1206628,
+      "word": "姜萍若上哈佛不用担心学费",
+      "onboard_time": 1718438179,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1629202,
@@ -819,12 +827,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1206628,
-      "num": 1206628,
-      "word": "姜萍若上哈佛不用担心学费",
-      "onboard_time": 1718438179,
-      "rank": 1,
-      "category": "社会新闻,教育"
+      "raw_hot": 1197986,
+      "num": 116128,
+      "word": "周也歪头和六公主打招呼",
+      "onboard_time": 1718441477,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1194445,
@@ -2849,6 +2857,14 @@
       "onboard_time": 1717918217,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 591201,
+      "num": 254788,
+      "word": "25岁了还在追星",
+      "onboard_time": 1718438597,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 589400,
@@ -5027,14 +5043,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 380006,
-      "num": 254788,
-      "word": "25岁了还在追星",
-      "onboard_time": 1718438597,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 379803,
       "num": 349706,
       "word": "杜海涛去披荆斩棘前的最后一顿烧烤",
@@ -6595,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 295316,
+      "num": 295316,
+      "word": "武大靖被东北师大拟录取博士",
+      "onboard_time": 1718440458,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295153,
       "num": 232736,
       "word": "野孩子",
@@ -6987,6 +7003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 276572,
+      "num": 276572,
+      "word": "杨梅里的虫子已老实",
+      "onboard_time": 1718435717,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 276563,
       "num": 276563,
       "word": "龙俊亨时隔5年道歉",
@@ -7289,14 +7313,6 @@
       "onboard_time": 1717899016,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 266063,
-      "num": 266063,
-      "word": "杨梅里的虫子已老实",
-      "onboard_time": 1718435717,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 265795,
@@ -7705,6 +7721,14 @@
       "onboard_time": 1718413939,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248126,
+      "num": 288133,
+      "word": "台湾人也是堂堂正正的中国人",
+      "onboard_time": 1718442198,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247733,
@@ -8185,6 +8209,14 @@
       "onboard_time": 1718371221,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234241,
+      "num": 234241,
+      "word": "记者调查畸形体育饭圈文化",
+      "onboard_time": 1718441058,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233744,
@@ -8923,6 +8955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212933,
+      "num": 212933,
+      "word": "特朗普过生日拜登送损礼",
+      "onboard_time": 1718440397,
+      "rank": 44,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 212748,
       "num": 212748,
       "word": "周扬青get奚梦瑶戛纳同款发型师",
@@ -9169,6 +9209,14 @@
       "onboard_time": 1717911379,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208258,
+      "num": 208258,
+      "word": "王星越点赞菲常萧张cp粉",
+      "onboard_time": 1718439798,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 208216,
@@ -9449,6 +9497,14 @@
       "onboard_time": 1718290999,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204882,
+      "num": 196008,
+      "word": "谢娜问陈乔恩演的是坏蛋吗",
+      "onboard_time": 1718443099,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 204781,
@@ -10043,6 +10099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 196047,
+      "num": 196047,
+      "word": "在简历上作假却加入了真正的团队",
+      "onboard_time": 1718438898,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196023,
       "num": 196023,
       "word": "iPhone录音会通知对方",
@@ -10137,6 +10201,14 @@
       "onboard_time": 1718320816,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195227,
+      "num": 195227,
+      "word": "油腻和胖瘦无关和演技有关",
+      "onboard_time": 1718439618,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 195208,
@@ -10289,6 +10361,14 @@
       "onboard_time": 1718193199,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192391,
+      "num": 192391,
+      "word": "张予曦腰身比",
+      "onboard_time": 1718441357,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192337,
@@ -10947,14 +11027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183013,
-      "num": 148209,
-      "word": "在简历上作假却加入了真正的团队",
-      "onboard_time": 1718438898,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182942,
       "num": 182942,
       "word": "家属称男子网咖猝死24小时无人发现",
@@ -11251,6 +11323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179393,
+      "num": 179393,
+      "word": "肖战重庆打卡牌",
+      "onboard_time": 1718441117,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179313,
       "num": 179313,
       "word": "以军空袭加沙地带中部超80人死亡",
@@ -11329,6 +11409,14 @@
       "onboard_time": 1718076018,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 177760,
+      "num": 177760,
+      "word": "香港中文大学否认联系姜萍",
+      "onboard_time": 1718442737,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177653,
@@ -12193,6 +12281,14 @@
       "onboard_time": 1718280678,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163764,
+      "num": 163764,
+      "word": "12306回应高铁长时间倒坐",
+      "onboard_time": 1718441237,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163760,
@@ -13563,14 +13659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146346,
-      "num": 146346,
-      "word": "油腻和胖瘦无关和演技有关",
-      "onboard_time": 1718439618,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 146080,
       "num": 146080,
       "word": "间谍过家家第三季制作决定",
@@ -14043,14 +14131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139717,
-      "num": 139717,
-      "word": "王星越点赞菲常萧张cp粉",
-      "onboard_time": 1718439798,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139619,
       "num": 139619,
       "word": "玫瑰的故事热辣滚炕",
@@ -14113,6 +14193,14 @@
       "onboard_time": 1718200760,
       "rank": 35,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 138764,
+      "num": 138764,
+      "word": "欧洲杯预测",
+      "onboard_time": 1718434757,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 138721,
@@ -14264,6 +14352,14 @@
       "word": "篮协确认乔尔杰维奇离任",
       "onboard_time": 1718281398,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137087,
+      "num": 137087,
+      "word": "马龙说当国乒队长很荣耀",
+      "onboard_time": 1718442438,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -15571,14 +15667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122576,
-      "num": 122576,
-      "word": "欧洲杯预测",
-      "onboard_time": 1718434757,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 122502,
       "num": 122502,
       "word": "DQ 剑网3",
@@ -16739,6 +16827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106542,
+      "num": 177964,
+      "word": "姜萍横空出世有哪些启示",
+      "onboard_time": 1718440757,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106298,
       "num": 106298,
       "word": "檀健次米兰时装周出发机场照",
@@ -16905,22 +17001,6 @@
       "onboard_time": 1718192058,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102211,
-      "num": 102211,
-      "word": "特朗普过生日拜登送损礼",
-      "onboard_time": 1718440397,
-      "rank": 44,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 102017,
-      "num": 102017,
-      "word": "武大靖被东北师大拟录取博士",
-      "onboard_time": 1718440458,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 101975,
@@ -17427,6 +17507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91183,
+      "num": 100720,
+      "word": "大冰解释黄金左脸",
+      "onboard_time": 1718442979,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91027,
       "num": 91027,
       "word": "江城的公孙离",
@@ -17537,6 +17625,14 @@
       "onboard_time": 1718425639,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 87016,
+      "num": 100412,
+      "word": "2024张艺兴世界巡演",
+      "onboard_time": 1718441599,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 86713,
@@ -18089,6 +18185,14 @@
       "onboard_time": 1718361258,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65343,
+      "num": 911108,
+      "word": "我国载人登月运载火箭迎进展",
+      "onboard_time": 1718439857,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 65253,
@@ -19257,14 +19361,6 @@
       "onboard_time": 1718368339,
       "rank": 42,
       "category": "数码"
-    },
-    {
-      "raw_hot": 36307,
-      "num": 911108,
-      "word": "我国载人登月运载火箭迎进展",
-      "onboard_time": 1718439857,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 36250,
