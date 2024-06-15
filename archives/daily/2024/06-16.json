@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718489867826,
+  "endTime": 1718490971189,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -211,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 162679,
+      "num": 62486,
+      "word": "当事人回应在高考后订婚",
+      "onboard_time": 1718480771,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152622,
       "num": 152622,
       "word": "世界杯",
@@ -275,14 +283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125929,
-      "num": 54659,
-      "word": "当事人回应在高考后订婚",
-      "onboard_time": 1718480771,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125347,
       "num": 125347,
       "word": "中国女排晋级世联赛总决赛",
@@ -323,20 +323,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 106997,
+      "num": 106997,
+      "word": "外卖小哥回应酷似易烊千玺",
+      "onboard_time": 1718479631,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104250,
       "num": 125141,
       "word": "考研上岸后亲戚发朋友圈阴阳我",
       "onboard_time": 1718451796,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99657,
-      "num": 99657,
-      "word": "外卖小哥回应酷似易烊千玺",
-      "onboard_time": 1718479631,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 98190,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64370,
+      "num": 64370,
+      "word": "沈腾说心中最好的女演员是马丽",
+      "onboard_time": 1718484612,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 63084,
       "num": 124407,
       "word": "六级听力 听不懂",
@@ -475,12 +483,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 52426,
-      "num": 52426,
-      "word": "沈腾说心中最好的女演员是马丽",
-      "onboard_time": 1718484612,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 52499,
+      "num": 31491,
+      "word": "师生十年后相聚歌手双双离场",
+      "onboard_time": 1718489051,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 46576,
@@ -515,6 +523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 39705,
+      "num": 33605,
+      "word": "看得出宝宝是真的公主",
+      "onboard_time": 1718488030,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 35757,
       "num": 35757,
       "word": "张若昀许凯目黑莲方灿同排看秀",
@@ -523,24 +539,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 28870,
-      "num": 28870,
-      "word": "看得出宝宝是真的公主",
-      "onboard_time": 1718488030,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 33745,
+      "num": 33585,
+      "word": "墨雨云间前夫哥破万福利",
+      "onboard_time": 1718489951,
+      "rank": 25,
+      "category": "剧集"
     },
     {
-      "raw_hot": 27072,
-      "num": 25582,
-      "word": "师生十年后相聚歌手双双离场",
-      "onboard_time": 1718489051,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 26453,
-      "num": 187217,
+      "raw_hot": 29439,
+      "num": 192424,
       "word": "一句话表白老爸",
       "onboard_time": 1718458938,
       "rank": 2,
@@ -555,8 +563,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20959,
-      "num": 26124,
+      "raw_hot": 22893,
+      "num": 27075,
       "word": "牛津Kate朱朱谈姜萍",
       "onboard_time": 1718478791,
       "rank": 49,
