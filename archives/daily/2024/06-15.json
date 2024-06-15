@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718435976105,
+  "endTime": 1718436872085,
   "band_list": [
     {
       "raw_hot": 6639747,
@@ -115,6 +115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1095522,
+      "num": 1095522,
+      "word": "凯特王妃",
+      "onboard_time": 1718433557,
+      "rank": 3,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1032137,
       "num": 1032137,
       "word": "村支书否认姜萍因家贫放弃读高中",
@@ -161,14 +169,6 @@
       "onboard_time": 1718429779,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 898484,
-      "num": 898484,
-      "word": "凯特王妃",
-      "onboard_time": 1718433557,
-      "rank": 3,
-      "category": "国外时政"
     },
     {
       "raw_hot": 880066,
@@ -299,6 +299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 660293,
+      "num": 660293,
+      "word": "丁太升说孙楠唱了个什么玩意儿",
+      "onboard_time": 1718433557,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 657282,
       "num": 657282,
       "word": "严浩翔 炫迈",
@@ -337,14 +345,6 @@
       "onboard_time": 1718427858,
       "rank": 18,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 615200,
-      "num": 615200,
-      "word": "丁太升说孙楠唱了个什么玩意儿",
-      "onboard_time": 1718433557,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 597457,
@@ -539,12 +539,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 375619,
+      "num": 375619,
+      "word": "王星越发了11个萧蘅专属表情",
+      "onboard_time": 1718434999,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370161,
       "num": 370161,
       "word": "日本一女子患产后抑郁勒死三个女儿",
       "onboard_time": 1718374524,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356519,
+      "num": 356519,
+      "word": "马龙回应无缘奥运单打",
+      "onboard_time": 1718433617,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 349881,
@@ -561,14 +577,6 @@
       "onboard_time": 1718412258,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346838,
-      "num": 346838,
-      "word": "马龙回应无缘奥运单打",
-      "onboard_time": 1718433617,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 340696,
@@ -683,14 +691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 273108,
-      "num": 273108,
-      "word": "王星越发了11个萧蘅专属表情",
-      "onboard_time": 1718434999,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267756,
       "num": 267756,
       "word": "歌手最好笑的图出现了",
@@ -729,6 +729,14 @@
       "onboard_time": 1718380820,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250924,
+      "num": 250924,
+      "word": "G7要求俄向乌克兰赔偿超4860亿美元",
+      "onboard_time": 1718434637,
+      "rank": 21,
+      "category": "国外时政"
     },
     {
       "raw_hot": 248248,
@@ -851,14 +859,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 219399,
-      "num": 219399,
-      "word": "G7要求俄向乌克兰赔偿超4860亿美元",
-      "onboard_time": 1718434637,
-      "rank": 21,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 218994,
       "num": 218994,
       "word": "NBA总决赛",
@@ -921,6 +921,14 @@
       "onboard_time": 1718425579,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201335,
+      "num": 201335,
+      "word": "章子怡2.0",
+      "onboard_time": 1718436198,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201289,
@@ -995,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192651,
+      "num": 192651,
+      "word": "韩国住户刁难快递员享恶果",
+      "onboard_time": 1718434279,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192116,
       "num": 212818,
       "word": "歌手直播",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1718434398,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 189081,
+      "num": 189081,
+      "word": "侯明昊把饭团的灵魂扯掉了",
+      "onboard_time": 1718435597,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 188267,
@@ -1163,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171215,
+      "num": 157441,
+      "word": "菜刀上的孔是干嘛用的",
+      "onboard_time": 1718436436,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 170961,
       "num": 170961,
       "word": "自贡地震",
@@ -1243,20 +1275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162566,
-      "num": 158895,
-      "word": "侯明昊把饭团的灵魂扯掉了",
-      "onboard_time": 1718435597,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161840,
       "num": 269228,
       "word": "邵阳学院2名学生与姜萍一同入围决赛",
       "onboard_time": 1718365038,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 161496,
+      "num": 161496,
+      "word": "美国13岁女孩公园遭歹徒性侵",
+      "onboard_time": 1718433378,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160651,
@@ -1291,20 +1323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156082,
+      "num": 156082,
+      "word": "杨梅里的虫子已老实",
+      "onboard_time": 1718435717,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155928,
       "num": 155928,
       "word": "央视女主播神预测",
       "onboard_time": 1718413577,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 155592,
-      "num": 155592,
-      "word": "韩国住户刁难快递员享恶果",
-      "onboard_time": 1718434279,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154606,
@@ -1403,14 +1435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 134372,
-      "num": 146965,
-      "word": "美国13岁女孩公园遭歹徒性侵",
-      "onboard_time": 1718433378,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 132727,
       "num": 132727,
       "word": "米兰时装周",
@@ -1427,12 +1451,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130155,
-      "num": 130155,
-      "word": "杨梅里的虫子已老实",
-      "onboard_time": 1718435717,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 130846,
+      "num": 130846,
+      "word": "墨雨云间纯爱变祸害",
+      "onboard_time": 1718435958,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 130612,
+      "num": 130612,
+      "word": "袁一琦目标是摘掉SNH48前缀",
+      "onboard_time": 1718436677,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 130145,
@@ -1635,14 +1667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112277,
-      "num": 112277,
-      "word": "墨雨云间纯爱变祸害",
-      "onboard_time": 1718435958,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111807,
       "num": 490365,
       "word": "世界上会不会有另一个你",
@@ -1743,6 +1767,14 @@
       "num": 372351,
       "word": "花十元就能让照片开口说话",
       "onboard_time": 1718420597,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94944,
+      "num": 435364,
+      "word": "央视曝光机票退改签新骗局",
+      "onboard_time": 1718434878,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -1883,6 +1915,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 65082,
+      "num": 129337,
+      "word": "山东大哥回应救人回家紧抱老婆",
+      "onboard_time": 1718436738,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63827,
       "num": 85069,
       "word": "欧洲杯24队实力榜",
@@ -1960,14 +2000,6 @@
       "word": "小伙高考结束后仍5点起床跑步",
       "onboard_time": 1718412318,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50967,
-      "num": 435364,
-      "word": "央视曝光机票退改签新骗局",
-      "onboard_time": 1718434878,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
