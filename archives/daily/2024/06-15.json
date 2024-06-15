@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718432677266,
+  "endTime": 1718433435590,
   "band_list": [
     {
       "raw_hot": 6639747,
@@ -147,19 +147,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 905558,
+      "num": 905558,
+      "word": "汪苏泷听到排名第六的反应",
+      "onboard_time": 1718429779,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 880066,
       "num": 861453,
       "word": "恋爱兄妹最终情侣",
       "onboard_time": 1718379919,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 862467,
-      "num": 862467,
-      "word": "汪苏泷听到排名第六的反应",
-      "onboard_time": 1718429779,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -195,8 +195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 723894,
-      "num": 378301,
+      "raw_hot": 744523,
+      "num": 556402,
       "word": "男子卧铺车上脱衣面对女乘客裸睡",
       "onboard_time": 1718430197,
       "rank": 10,
@@ -515,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355581,
+      "num": 355581,
+      "word": "长春一幼儿园被指办幼儿集体婚礼",
+      "onboard_time": 1718430979,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349881,
       "num": 349881,
       "word": "这英否认背刺那英",
@@ -635,20 +643,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 268350,
-      "num": 268350,
-      "word": "长春一幼儿园被指办幼儿集体婚礼",
-      "onboard_time": 1718430979,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 267756,
       "num": 267756,
       "word": "歌手最好笑的图出现了",
       "onboard_time": 1718424379,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261586,
+      "num": 556597,
+      "word": "中图网CEO直播反复感谢网友助力大恩",
+      "onboard_time": 1718432657,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254716,
@@ -849,14 +857,6 @@
       "onboard_time": 1718425579,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204378,
-      "num": 204378,
-      "word": "中图网CEO直播反复感谢网友助力大恩",
-      "onboard_time": 1718432657,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201289,
@@ -1099,6 +1099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167905,
+      "num": 167905,
+      "word": "王星越沾床就能睡",
+      "onboard_time": 1718432897,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167282,
       "num": 167282,
       "word": "林娜琏签了370张拍立得送给粉丝",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1718410096,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138953,
+      "num": 138953,
+      "word": "感受到了中韩婚礼文化的差异",
+      "onboard_time": 1718432597,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 136775,
@@ -1467,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110700,
+      "num": 110700,
+      "word": "陈昊宇刺绣青衣",
+      "onboard_time": 1718433137,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109400,
       "num": 109400,
       "word": "尚雯婕退出白金娱乐公司",
@@ -1491,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106298,
+      "num": 106298,
+      "word": "檀健次米兰时装周出发机场照",
+      "onboard_time": 1718433378,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 105195,
       "num": 105195,
       "word": "狗狗把谄媚表现的淋漓尽致",
@@ -1507,20 +1539,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98264,
+      "num": 98264,
+      "word": "戚薇cos七仙女",
+      "onboard_time": 1718432359,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98153,
       "num": 98153,
       "word": "肖战山城暴走vlog",
       "onboard_time": 1718406855,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97521,
-      "num": 97521,
-      "word": "感受到了中韩婚礼文化的差异",
-      "onboard_time": 1718432597,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 97127,
@@ -1577,6 +1609,14 @@
       "onboard_time": 1718376022,
       "rank": 47,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 90185,
+      "num": 90185,
+      "word": "小编称不是郝蕾回复网友",
+      "onboard_time": 1718433378,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 89445,
@@ -1641,6 +1681,14 @@
       "onboard_time": 1718383337,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71899,
+      "num": 415412,
+      "word": "高考志愿填报选专业还是选学校",
+      "onboard_time": 1718431278,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 71615,
@@ -1771,14 +1819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 41539,
-      "num": 415412,
-      "word": "高考志愿填报选专业还是选学校",
-      "onboard_time": 1718431278,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 41423,
       "num": 199674,
       "word": "重生之我在天猫抢大红包",
@@ -1816,6 +1856,14 @@
       "word": "村支书称姜萍是全村的骄傲",
       "onboard_time": 1718387472,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30242,
+      "num": 146965,
+      "word": "美国13岁女孩公园遭歹徒性侵",
+      "onboard_time": 1718433378,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

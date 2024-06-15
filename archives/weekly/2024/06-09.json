@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718432677266,
+  "endTime": 1718433435590,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -1403,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 905558,
+      "num": 905558,
+      "word": "汪苏泷听到排名第六的反应",
+      "onboard_time": 1718429779,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 900069,
       "num": 900069,
       "word": "北京下雨",
@@ -1489,14 +1497,6 @@
       "onboard_time": 1718010259,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 862467,
-      "num": 862467,
-      "word": "汪苏泷听到排名第六的反应",
-      "onboard_time": 1718429779,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 862081,
@@ -1859,6 +1859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 744523,
+      "num": 556402,
+      "word": "男子卧铺车上脱衣面对女乘客裸睡",
+      "onboard_time": 1718430197,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 744425,
       "num": 744425,
       "word": "高考化学",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1717897157,
       "rank": 16,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 723894,
-      "num": 378301,
-      "word": "男子卧铺车上脱衣面对女乘客裸睡",
-      "onboard_time": 1718430197,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 723026,
@@ -5307,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355581,
+      "num": 355581,
+      "word": "长春一幼儿园被指办幼儿集体婚礼",
+      "onboard_time": 1718430979,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355497,
       "num": 355497,
       "word": "李华可能是47岁的频繁转校生",
@@ -7115,14 +7123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268350,
-      "num": 268350,
-      "word": "长春一幼儿园被指办幼儿集体婚礼",
-      "onboard_time": 1718430979,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "离开易建联谁还把邓超当小孩",
@@ -7272,6 +7272,14 @@
       "word": "年轻人为何喜欢上老年机",
       "onboard_time": 1718172018,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261586,
+      "num": 556597,
+      "word": "中图网CEO直播反复感谢网友助力大恩",
+      "onboard_time": 1718432657,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -9361,14 +9369,6 @@
       "onboard_time": 1718350640,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 204378,
-      "num": 204378,
-      "word": "中图网CEO直播反复感谢网友助力大恩",
-      "onboard_time": 1718432657,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204344,
@@ -11723,6 +11723,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 167905,
+      "num": 167905,
+      "word": "王星越沾床就能睡",
+      "onboard_time": 1718432897,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167807,
       "num": 167807,
       "word": "吴谨言开辟令妃回宫赛道",
@@ -13841,6 +13849,14 @@
       "onboard_time": 1718378841,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138953,
+      "num": 138953,
+      "word": "感受到了中韩婚礼文化的差异",
+      "onboard_time": 1718432597,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 138931,
@@ -16171,6 +16187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110700,
+      "num": 110700,
+      "word": "陈昊宇刺绣青衣",
+      "onboard_time": 1718433137,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110429,
       "num": 110429,
       "word": "Milkyway力挺小老虎",
@@ -16425,6 +16449,14 @@
       "onboard_time": 1718269519,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106298,
+      "num": 106298,
+      "word": "檀健次米兰时装周出发机场照",
+      "onboard_time": 1718433378,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 106279,
@@ -16795,6 +16827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98264,
+      "num": 98264,
+      "word": "戚薇cos七仙女",
+      "onboard_time": 1718432359,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98153,
       "num": 98153,
       "word": "肖战山城暴走vlog",
@@ -16809,14 +16849,6 @@
       "onboard_time": 1717895477,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97521,
-      "num": 97521,
-      "word": "感受到了中韩婚礼文化的差异",
-      "onboard_time": 1718432597,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 97474,
@@ -17129,6 +17161,14 @@
       "onboard_time": 1717922418,
       "rank": 2,
       "category": "教育"
+    },
+    {
+      "raw_hot": 90185,
+      "num": 90185,
+      "word": "小编称不是郝蕾回复网友",
+      "onboard_time": 1718433378,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 89855,
@@ -17569,6 +17609,14 @@
       "onboard_time": 1718037255,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 71899,
+      "num": 415412,
+      "word": "高考志愿填报选专业还是选学校",
+      "onboard_time": 1718431278,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 71879,
@@ -18691,14 +18739,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 41539,
-      "num": 415412,
-      "word": "高考志愿填报选专业还是选学校",
-      "onboard_time": 1718431278,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 41437,
       "num": 412219,
       "word": "高考考场外的这一幕超暖心",
@@ -19088,6 +19128,14 @@
       "word": "村支书称姜萍是全村的骄傲",
       "onboard_time": 1718387472,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30242,
+      "num": 146965,
+      "word": "美国13岁女孩公园遭歹徒性侵",
+      "onboard_time": 1718433378,
+      "rank": 29,
       "category": "社会新闻"
     },
     {

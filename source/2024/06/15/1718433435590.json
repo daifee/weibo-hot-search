@@ -1,0 +1,410 @@
+{
+  "runTime": 1718433435590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1387182,
+        "num": 1387182,
+        "word": "炫迈致歉",
+        "onboard_time": 1718424739,
+        "rank": 0,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 949638,
+        "num": 949638,
+        "word": "四级答案",
+        "onboard_time": 1718422519,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 63026,
+        "num": 927203,
+        "word": "长三角开行超级环线高铁",
+        "onboard_time": 1718425639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 905558,
+        "num": 905558,
+        "word": "汪苏泷听到排名第六的反应",
+        "onboard_time": 1718429779,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757054,
+        "num": 757054,
+        "word": "孩子用离世母亲账户买球星卡欠9万",
+        "onboard_time": 1718430799,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606175,
+        "num": 606175,
+        "word": "蔡徐坤又比1了",
+        "onboard_time": 1718426719,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 585883,
+        "num": 585883,
+        "word": "清华教授谈姜萍",
+        "onboard_time": 1718427858,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 562751,
+        "num": 562751,
+        "word": "福宝场地疑似掉落不明物体",
+        "onboard_time": 1718427619,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84842,
+        "num": 557703,
+        "word": "高考填志愿前几个概念先搞明白",
+        "onboard_time": 1718424020,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 261586,
+        "num": 556597,
+        "word": "中图网CEO直播反复感谢网友助力大恩",
+        "onboard_time": 1718432657,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744523,
+        "num": 556402,
+        "word": "男子卧铺车上脱衣面对女乘客裸睡",
+        "onboard_time": 1718430197,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556067,
+        "num": 556067,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556042,
+        "num": 556042,
+        "word": "亚洲首富之子婚前百亿派对",
+        "onboard_time": 1718425818,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355581,
+        "num": 355581,
+        "word": "长春一幼儿园被指办幼儿集体婚礼",
+        "onboard_time": 1718430979,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304550,
+        "num": 304550,
+        "word": "尚雯婕录制TF三代出道战",
+        "onboard_time": 1718430439,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258673,
+        "num": 258673,
+        "word": "六级翻译",
+        "onboard_time": 1718422339,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253401,
+        "num": 253401,
+        "word": "四级 霉霉",
+        "onboard_time": 1718424679,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229182,
+        "num": 229182,
+        "word": "光与夜之恋称炫迈不同意公开致歉",
+        "onboard_time": 1718428518,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 224611,
+        "num": 224611,
+        "word": "吴谨言用了薛芳菲微博表情",
+        "onboard_time": 1718429058,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270144,
+        "num": 214984,
+        "word": "尚雯婕是歌手赛制最大受害者",
+        "onboard_time": 1718425099,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200649,
+        "num": 200649,
+        "word": "星火英语",
+        "onboard_time": 1718431098,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 197071,
+        "num": 197071,
+        "word": "TFBOYS发文为王俊凯新片打call",
+        "onboard_time": 1718422580,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169128,
+        "num": 169128,
+        "word": "庄国栋被删了方协文上桌了",
+        "onboard_time": 1718420657,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167905,
+        "num": 167905,
+        "word": "王星越沾床就能睡",
+        "onboard_time": 1718432897,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159141,
+        "num": 159141,
+        "word": "亲戚把订婚蛋糕整个拿走了",
+        "onboard_time": 1718419578,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159025,
+        "num": 159025,
+        "word": "四级翻译 四合院",
+        "onboard_time": 1718422519,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149649,
+        "num": 149649,
+        "word": "林娜琏签了370张拍立得送给粉丝",
+        "onboard_time": 1718429959,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71899,
+        "num": 148087,
+        "word": "高考志愿填报选专业还是选学校",
+        "onboard_time": 1718431278,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 31545,
+        "num": 147007,
+        "word": "京东给大家发小白T啦",
+        "onboard_time": 1718431697,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 30242,
+        "num": 146965,
+        "word": "美国13岁女孩公园遭歹徒性侵",
+        "onboard_time": 1718433378,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146965,
+        "num": 146964,
+        "word": "这英否认背刺那英",
+        "onboard_time": 1718425519,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144511,
+        "num": 144511,
+        "word": "ChatGPT首次通过图灵测试",
+        "onboard_time": 1718427858,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 138953,
+        "num": 138953,
+        "word": "感受到了中韩婚礼文化的差异",
+        "onboard_time": 1718432597,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129550,
+        "num": 129550,
+        "word": "谁能想到02年医学生被叫爷爷",
+        "onboard_time": 1718428038,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126263,
+        "num": 126263,
+        "word": "这跟肖战谈恋爱有什么区别",
+        "onboard_time": 1718415438,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124039,
+        "num": 124039,
+        "word": "六级作文",
+        "onboard_time": 1718423359,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 548251,
+        "num": 121996,
+        "word": "离职顺手把工作群解散了",
+        "onboard_time": 1718429298,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118267,
+        "num": 118267,
+        "word": "四级",
+        "onboard_time": 1718409677,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118185,
+        "num": 118185,
+        "word": "王星越我再害你一次",
+        "onboard_time": 1718427078,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117151,
+        "num": 117151,
+        "word": "六级",
+        "onboard_time": 1718410937,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110700,
+        "num": 110700,
+        "word": "陈昊宇刺绣青衣",
+        "onboard_time": 1718433137,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109459,
+        "num": 109459,
+        "word": "退钱哥退钱姐时隔十年重聚",
+        "onboard_time": 1718425939,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106298,
+        "num": 106298,
+        "word": "檀健次米兰时装周出发机场照",
+        "onboard_time": 1718433378,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 103997,
+        "num": 103997,
+        "word": "林更新演技",
+        "onboard_time": 1718413939,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101922,
+        "num": 101922,
+        "word": "美防长拒绝普京俄乌冲突停火条件",
+        "onboard_time": 1718426600,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 98264,
+        "num": 98264,
+        "word": "戚薇cos七仙女",
+        "onboard_time": 1718432359,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93560,
+        "num": 93560,
+        "word": "歌手最好笑的图出现了",
+        "onboard_time": 1718424379,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91252,
+        "num": 91252,
+        "word": "TF三代少年生命力写真",
+        "onboard_time": 1718431579,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90950,
+        "num": 90950,
+        "word": "四级作文",
+        "onboard_time": 1718422037,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 90185,
+        "num": 90185,
+        "word": "小编称不是郝蕾回复网友",
+        "onboard_time": 1718433378,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推进科技创新及其他各方面创新#"
+    }
+  }
+}
