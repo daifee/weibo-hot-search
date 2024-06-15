@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718446844706,
+  "endTime": 1718447782966,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -1731,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 798725,
+      "num": 798725,
+      "word": "孙坚喝霸王茶姬也失眠了",
+      "onboard_time": 1718444840,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 798300,
       "num": 798300,
       "word": "canteen我恨你",
@@ -2113,14 +2121,6 @@
       "onboard_time": 1718073436,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714876,
-      "num": 714876,
-      "word": "孙坚喝霸王茶姬也失眠了",
-      "onboard_time": 1718444840,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 714466,
@@ -3283,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 539856,
+      "num": 539856,
+      "word": "作文 跑题",
+      "onboard_time": 1718446098,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 539762,
       "num": 539762,
       "word": "歌手上来就放广告",
@@ -3833,14 +3841,6 @@
       "onboard_time": 1718127493,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482842,
-      "num": 482842,
-      "word": "作文 跑题",
-      "onboard_time": 1718446098,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 481036,
@@ -6195,6 +6195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 318826,
+      "num": 318826,
+      "word": "山海经里的动物真实存在吗",
+      "onboard_time": 1718446638,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 318741,
       "num": 212463,
       "word": "宰亨碎了",
@@ -8107,6 +8115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240906,
+      "num": 240906,
+      "word": "112斤男子抽血抽出半管油",
+      "onboard_time": 1718444298,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240903,
       "num": 240903,
       "word": "汤普森取关勇士",
@@ -8587,14 +8603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 223985,
-      "num": 294782,
-      "word": "山海经里的动物真实存在吗",
-      "onboard_time": 1718446638,
-      "rank": 19,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 223964,
       "num": 223964,
       "word": "第五人格",
@@ -9057,14 +9065,6 @@
       "onboard_time": 1718350940,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213202,
-      "num": 213202,
-      "word": "112斤男子抽血抽出半管油",
-      "onboard_time": 1718444298,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213184,
@@ -9537,6 +9537,14 @@
       "onboard_time": 1718075898,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205303,
+      "num": 205303,
+      "word": "微博电影之夜全阵容",
+      "onboard_time": 1718443696,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 205285,
@@ -10265,6 +10273,14 @@
       "onboard_time": 1718374884,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195556,
+      "num": 195556,
+      "word": "张新成被王星越喊师哥的反应",
+      "onboard_time": 1718446939,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 195551,
@@ -11883,6 +11899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170818,
+      "num": 170818,
+      "word": "张杰兰州演唱会寻找兰朋友",
+      "onboard_time": 1718446818,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170501,
       "num": 212676,
       "word": "王一珩直播",
@@ -12113,14 +12137,6 @@
       "onboard_time": 1718021237,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 167922,
-      "num": 167922,
-      "word": "微博电影之夜全阵容",
-      "onboard_time": 1718443696,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 167905,
@@ -12931,6 +12947,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 157624,
+      "num": 157624,
+      "word": "贾玲蓝色西装",
+      "onboard_time": 1718447239,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157559,
       "num": 413522,
       "word": "饿了么免单偷感很重",
@@ -13281,6 +13305,14 @@
       "onboard_time": 1718334857,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152674,
+      "num": 152674,
+      "word": "父母不让嫁的人一定不能嫁吗",
+      "onboard_time": 1718447420,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 152553,
@@ -14499,14 +14531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136926,
-      "num": 136926,
-      "word": "张杰兰州演唱会寻找兰朋友",
-      "onboard_time": 1718446818,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136800,
       "num": 136800,
       "word": "胡锡进呼吁别把自己变成彻底的算法人",
@@ -15019,6 +15043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131040,
+      "num": 131040,
+      "word": "学生吃糖卡喉老师90秒救回",
+      "onboard_time": 1718444479,
+      "rank": 47,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 130973,
       "num": 126645,
       "word": "王楚然古装",
@@ -15161,6 +15193,14 @@
       "onboard_time": 1717903157,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129945,
+      "num": 129945,
+      "word": "时代少年团在海边干什么",
+      "onboard_time": 1718447478,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 129723,
@@ -16195,14 +16235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116853,
-      "num": 116853,
-      "word": "学生吃糖卡喉老师90秒救回",
-      "onboard_time": 1718444479,
-      "rank": 47,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 116802,
       "num": 116802,
       "word": "杨泽翔国足首秀就踢韩国",
@@ -17161,6 +17193,14 @@
       "onboard_time": 1718012838,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102613,
+      "num": 102613,
+      "word": "刘德华成都 抢票",
+      "onboard_time": 1718447598,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 102301,
@@ -19937,6 +19977,14 @@
       "onboard_time": 1718096417,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23803,
+      "num": 626924,
+      "word": "如何才能与原生家庭和解",
+      "onboard_time": 1718447420,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 23694,
