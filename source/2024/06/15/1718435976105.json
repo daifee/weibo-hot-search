@@ -1,0 +1,410 @@
+{
+  "runTime": 1718435976105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2283588,
+        "num": 2283588,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1145556,
+        "num": 1145556,
+        "word": "炫迈致歉",
+        "onboard_time": 1718424739,
+        "rank": 1,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 59842,
+        "num": 988498,
+        "word": "长三角开行超级环线高铁",
+        "onboard_time": 1718425639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898484,
+        "num": 898484,
+        "word": "凯特王妃",
+        "onboard_time": 1718433557,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 764594,
+        "num": 764594,
+        "word": "孩子用离世母亲账户买球星卡欠9万",
+        "onboard_time": 1718430799,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629465,
+        "num": 629465,
+        "word": "汪苏泷听到排名第六的反应",
+        "onboard_time": 1718429779,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 615200,
+        "num": 615200,
+        "word": "丁太升说孙楠唱了个什么玩意儿",
+        "onboard_time": 1718433557,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495267,
+        "num": 495267,
+        "word": "四级答案",
+        "onboard_time": 1718422519,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189726,
+        "num": 456361,
+        "word": "高考志愿填报选专业还是选学校",
+        "onboard_time": 1718431278,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 50967,
+        "num": 435364,
+        "word": "央视曝光机票退改签新骗局",
+        "onboard_time": 1718434878,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583274,
+        "num": 435225,
+        "word": "男子卧铺车上脱衣面对女乘客裸睡",
+        "onboard_time": 1718430197,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432387,
+        "num": 432387,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420104,
+        "num": 420104,
+        "word": "蔡徐坤又比1了",
+        "onboard_time": 1718426719,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 418901,
+        "num": 418901,
+        "word": "长春一幼儿园被指办幼儿集体婚礼",
+        "onboard_time": 1718430979,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406187,
+        "num": 406187,
+        "word": "亚洲首富之子婚前百亿派对",
+        "onboard_time": 1718425818,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346838,
+        "num": 346838,
+        "word": "马龙回应无缘奥运单打",
+        "onboard_time": 1718433617,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318180,
+        "num": 318180,
+        "word": "福宝场地疑似掉落不明物体",
+        "onboard_time": 1718427619,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311639,
+        "num": 311639,
+        "word": "清华教授谈姜萍",
+        "onboard_time": 1718427858,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 273108,
+        "num": 273108,
+        "word": "王星越发了11个萧蘅专属表情",
+        "onboard_time": 1718434999,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246523,
+        "num": 246523,
+        "word": "赖冠霖已和公司解约",
+        "onboard_time": 1718434398,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297947,
+        "num": 236540,
+        "word": "人能活多久看头发就能知道吗",
+        "onboard_time": 1718434157,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219399,
+        "num": 219399,
+        "word": "G7要求俄向乌克兰赔偿超4860亿美元",
+        "onboard_time": 1718434637,
+        "rank": 21,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 199949,
+        "num": 199949,
+        "word": "墨雨云间27",
+        "onboard_time": 1718433797,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199350,
+        "num": 199350,
+        "word": "幼态宝宝牙",
+        "onboard_time": 1718434580,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190723,
+        "num": 190723,
+        "word": "TF三代出道实录",
+        "onboard_time": 1718435178,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189177,
+        "num": 189177,
+        "word": "古茗",
+        "onboard_time": 1718434398,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188267,
+        "num": 188267,
+        "word": "狗阵",
+        "onboard_time": 1718435297,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168716,
+        "num": 168716,
+        "word": "尚雯婕是歌手赛制最大受害者",
+        "onboard_time": 1718425099,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57718,
+        "num": 167719,
+        "word": "高考填志愿前几个概念先搞明白",
+        "onboard_time": 1718424020,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 46230,
+        "num": 167155,
+        "word": "京东给大家发小白T啦",
+        "onboard_time": 1718431697,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 166978,
+        "num": 166978,
+        "word": "我被玫瑰的故事包围了",
+        "onboard_time": 1718433437,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162995,
+        "num": 162995,
+        "word": "光与夜之恋称炫迈不同意公开致歉",
+        "onboard_time": 1718428518,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159544,
+        "num": 159544,
+        "word": "尚雯婕录制TF三代出道战",
+        "onboard_time": 1718430439,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162566,
+        "num": 158895,
+        "word": "侯明昊把饭团的灵魂扯掉了",
+        "onboard_time": 1718435597,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155592,
+        "num": 155592,
+        "word": "韩国住户刁难快递员享恶果",
+        "onboard_time": 1718434279,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154606,
+        "num": 154606,
+        "word": "感受到了中韩婚礼文化的差异",
+        "onboard_time": 1718432597,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134372,
+        "num": 134372,
+        "word": "美国13岁女孩公园遭歹徒性侵",
+        "onboard_time": 1718433378,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133182,
+        "num": 133182,
+        "word": "四级 霉霉",
+        "onboard_time": 1718424679,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41994,
+        "num": 131354,
+        "word": "vivo灭霸拍出欧洲杯速度与激情",
+        "onboard_time": 1718435058,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130155,
+        "num": 130155,
+        "word": "杨梅里的虫子已老实",
+        "onboard_time": 1718435717,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128278,
+        "num": 128278,
+        "word": "亲戚把订婚蛋糕整个拿走了",
+        "onboard_time": 1718419578,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127744,
+        "num": 127744,
+        "word": "TFBOYS发文为王俊凯新片打call",
+        "onboard_time": 1718422580,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125710,
+        "num": 125710,
+        "word": "庄国栋被删了方协文上桌了",
+        "onboard_time": 1718420657,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119703,
+        "num": 119703,
+        "word": "星火英语",
+        "onboard_time": 1718431098,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 118365,
+        "num": 118365,
+        "word": "中图网CEO直播反复感谢网友助力大恩",
+        "onboard_time": 1718432657,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118620,
+        "num": 117967,
+        "word": "这英否认背刺那英",
+        "onboard_time": 1718425519,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117374,
+        "num": 117374,
+        "word": "小编称不是郝蕾回复网友",
+        "onboard_time": 1718433378,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112994,
+        "num": 112994,
+        "word": "欧洲杯预测",
+        "onboard_time": 1718434757,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112277,
+        "num": 112277,
+        "word": "墨雨云间纯爱变祸害",
+        "onboard_time": 1718435958,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97107,
+        "num": 97107,
+        "word": "四级翻译 四合院",
+        "onboard_time": 1718422519,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的赤子之心#"
+    }
+  }
+}
