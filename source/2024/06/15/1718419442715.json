@@ -1,0 +1,410 @@
+{
+  "runTime": 1718419442715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032137,
+        "num": 1032137,
+        "word": "村支书否认姜萍因家贫放弃读高中",
+        "onboard_time": 1718411717,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718676,
+        "num": 718676,
+        "word": "凯特王妃将公开露面",
+        "onboard_time": 1718413878,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 32957,
+        "num": 703633,
+        "word": "清明上河图动起来了",
+        "onboard_time": 1718370681,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1755730,
+        "num": 663998,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1058352,
+        "num": 615178,
+        "word": "杭州女子孕期同房出血紧急就医",
+        "onboard_time": 1718406554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836223,
+        "num": 601223,
+        "word": "为什么大学中的女生越来越多",
+        "onboard_time": 1718413397,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 579141,
+        "num": 579141,
+        "word": "焉栩嘉上岸了",
+        "onboard_time": 1718406735,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519541,
+        "num": 519541,
+        "word": "这跟肖战谈恋爱有什么区别",
+        "onboard_time": 1718415438,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467502,
+        "num": 467502,
+        "word": "青岛一浴回应大三学生溺亡",
+        "onboard_time": 1718416878,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29385,
+        "num": 449948,
+        "word": "多地通报数十亿医药虚开发票案",
+        "onboard_time": 1718418677,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 441517,
+        "num": 441517,
+        "word": "国际数学奥林匹克满分得主谈姜萍",
+        "onboard_time": 1718416217,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 341158,
+        "num": 341158,
+        "word": "月经提前或推迟超7天要去医院",
+        "onboard_time": 1718377641,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 333422,
+        "num": 333422,
+        "word": "林志炫 奢香夫人",
+        "onboard_time": 1718412258,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308445,
+        "num": 308445,
+        "word": "找对象的尽头是初中同学",
+        "onboard_time": 1718407935,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280513,
+        "num": 280513,
+        "word": "电影野孩子定档暑期",
+        "onboard_time": 1718418199,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259500,
+        "num": 259500,
+        "word": "汪苏泷奢香夫人 难听",
+        "onboard_time": 1718370202,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54883,
+        "num": 258219,
+        "word": "被世界第二硬控了",
+        "onboard_time": 1718417178,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257821,
+        "num": 257821,
+        "word": "六公主发的周也",
+        "onboard_time": 1718357120,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244804,
+        "num": 244804,
+        "word": "林更新演技",
+        "onboard_time": 1718413939,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218994,
+        "num": 218994,
+        "word": "NBA总决赛",
+        "onboard_time": 1718418199,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550272,
+        "num": 218661,
+        "word": "突然觉得脚真的好可怜",
+        "onboard_time": 1718413338,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346558,
+        "num": 215232,
+        "word": "工作后发现5000块真的挺难挣",
+        "onboard_time": 1718406675,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338799,
+        "num": 211661,
+        "word": "周也黑脸",
+        "onboard_time": 1718359278,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220083,
+        "num": 211616,
+        "word": "男友说我有车有房娶我就不用买了",
+        "onboard_time": 1718416758,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209190,
+        "num": 209190,
+        "word": "六级",
+        "onboard_time": 1718410937,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206822,
+        "num": 206822,
+        "word": "凯尔特人vs独行侠",
+        "onboard_time": 1718418317,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167019,
+        "num": 167019,
+        "word": "肖战普罗旺斯",
+        "onboard_time": 1718407935,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164654,
+        "num": 164654,
+        "word": "四级 花钱买早八",
+        "onboard_time": 1718376143,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154922,
+        "num": 154922,
+        "word": "自贡地震",
+        "onboard_time": 1718417837,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64009,
+        "num": 152690,
+        "word": "国家级旅游度假区是哪85家",
+        "onboard_time": 1718415317,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 151413,
+        "num": 151413,
+        "word": "万妮达名副其实的小品天后",
+        "onboard_time": 1718416758,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137705,
+        "num": 137705,
+        "word": "姜萍已达到数学系本科生的水平",
+        "onboard_time": 1718373386,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130491,
+        "num": 130491,
+        "word": "袁娅维得继续请假了",
+        "onboard_time": 1718406613,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128726,
+        "num": 128726,
+        "word": "为什么坐高铁都喜欢选F位",
+        "onboard_time": 1718419098,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124444,
+        "num": 124444,
+        "word": "四级",
+        "onboard_time": 1718409677,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123445,
+        "num": 123445,
+        "word": "王星越对吴谨言说眼线无处不在",
+        "onboard_time": 1718416637,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121409,
+        "num": 121409,
+        "word": "汤普森取关勇士",
+        "onboard_time": 1718412318,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125666,
+        "num": 121409,
+        "word": "袁娅维80舞台简直易如反掌",
+        "onboard_time": 1718418558,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121207,
+        "num": 121207,
+        "word": "姜萍",
+        "onboard_time": 1718409256,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 117328,
+        "num": 117328,
+        "word": "王力宏",
+        "onboard_time": 1718412617,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116373,
+        "num": 116373,
+        "word": "东契奇防守",
+        "onboard_time": 1718417837,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116033,
+        "num": 116033,
+        "word": "刘亦菲 玫瑰会在雨后成长",
+        "onboard_time": 1718413037,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115257,
+        "num": 115257,
+        "word": "阿根廷4比1危地马拉",
+        "onboard_time": 1718418616,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114326,
+        "num": 114326,
+        "word": "刘惜君为了压过原唱使了大劲",
+        "onboard_time": 1718387294,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107852,
+        "num": 107852,
+        "word": "央视女主播神预测",
+        "onboard_time": 1718413577,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105797,
+        "num": 105797,
+        "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
+        "onboard_time": 1718398270,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97750,
+        "num": 97750,
+        "word": "小伞红温",
+        "onboard_time": 1718417417,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95294,
+        "num": 95294,
+        "word": "5岁孩子吃饺子被针头扎伤",
+        "onboard_time": 1718419397,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94449,
+        "num": 94449,
+        "word": "姜萍想考的浙大曾是她老师的梦想",
+        "onboard_time": 1718417897,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 90953,
+        "num": 90953,
+        "word": "排球少年",
+        "onboard_time": 1718415617,
+        "rank": 49,
+        "category": "电影,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席阐释全球发展的中国方案#"
+    }
+  }
+}
