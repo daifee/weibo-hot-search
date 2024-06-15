@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718461037978,
+  "endTime": 1718462044892,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -729,6 +729,14 @@
       "onboard_time": 1717817357,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1747610,
+      "num": 1747610,
+      "word": "女子长期乏力全家查出吸血鬼病基因",
+      "onboard_time": 1718459418,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1745024,
@@ -2835,19 +2843,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 977445,
+      "num": 977445,
+      "word": "张常宁好牛",
+      "onboard_time": 1718459838,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 976748,
       "num": 976748,
       "word": "姜萍父亲回应女儿数学竞赛12名",
       "onboard_time": 1718364438,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 976246,
-      "num": 976246,
-      "word": "女子长期乏力全家查出吸血鬼病基因",
-      "onboard_time": 1718459418,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -5193,14 +5201,6 @@
       "onboard_time": 1717646899,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 681363,
-      "num": 681363,
-      "word": "张常宁好牛",
-      "onboard_time": 1718459838,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 679973,
@@ -8091,6 +8091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511621,
+      "num": 511621,
+      "word": "王星越 想谈系",
+      "onboard_time": 1718460379,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511607,
       "num": 322179,
       "word": "女生高考结束后直接一睡不起",
@@ -9307,6 +9315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 456279,
+      "num": 456279,
+      "word": "中国女排1比2土耳其女排",
+      "onboard_time": 1718460618,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456113,
       "num": 369503,
       "word": "2025QS世界大学排名",
@@ -9433,6 +9449,14 @@
       "onboard_time": 1717571476,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450202,
+      "num": 450202,
+      "word": "王老师",
+      "onboard_time": 1718458699,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449922,
@@ -13907,14 +13931,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 311667,
-      "num": 311667,
-      "word": "王老师",
-      "onboard_time": 1718458699,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 311587,
       "num": 311587,
       "word": "邓为翻牌",
@@ -14137,14 +14153,6 @@
       "onboard_time": 1717395018,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 305294,
-      "num": 282922,
-      "word": "王星越 想谈系",
-      "onboard_time": 1718460379,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 305227,
@@ -14803,14 +14811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291963,
-      "num": 291963,
-      "word": "中国女排1比2土耳其女排",
-      "onboard_time": 1718460618,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291898,
       "num": 291898,
       "word": "星穹铁道云璃",
@@ -15281,6 +15281,14 @@
       "onboard_time": 1718252121,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282873,
+      "num": 269072,
+      "word": "许嵩内线首唱",
+      "onboard_time": 1718458999,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 282810,
@@ -16011,14 +16019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 269072,
-      "num": 269072,
-      "word": "许嵩内线首唱",
-      "onboard_time": 1718458999,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 268955,
       "num": 241649,
       "word": "女孩骑车被卷入大车车底不幸身亡",
@@ -16321,6 +16321,14 @@
       "onboard_time": 1717427959,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263495,
+      "num": 263495,
+      "word": "翔霖",
+      "onboard_time": 1718460799,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 263193,
@@ -17723,6 +17731,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 238190,
+      "num": 238190,
+      "word": "QQ飞车手游公测6周年",
+      "onboard_time": 1718461518,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 238069,
       "num": 238069,
       "word": "夏天适合上班的5大理由",
@@ -18787,6 +18803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222949,
+      "num": 222949,
+      "word": "摩羯座真正的追求",
+      "onboard_time": 1718457139,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222797,
       "num": 222797,
       "word": "生孩子到底难在哪",
@@ -19121,14 +19145,6 @@
       "onboard_time": 1717913598,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218864,
-      "num": 218864,
-      "word": "摩羯座真正的追求",
-      "onboard_time": 1718457139,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 218800,
@@ -20745,6 +20761,14 @@
       "onboard_time": 1718290999,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 204949,
+      "num": 204949,
+      "word": "蒋敦豪巡演",
+      "onboard_time": 1718461100,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 204930,
@@ -23123,6 +23147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189764,
+      "num": 189764,
+      "word": "蔡依林无人机应援",
+      "onboard_time": 1718461459,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189726,
       "num": 456361,
       "word": "高考志愿填报选专业还是选学校",
@@ -25443,6 +25475,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 173249,
+      "num": 173249,
+      "word": "荣梓杉成年了衬衫可以开大点",
+      "onboard_time": 1718461759,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173233,
       "num": 173233,
       "word": "卓沅直拍",
@@ -26867,6 +26907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 163324,
+      "num": 163324,
+      "word": "吴谨言大女主易如反掌",
+      "onboard_time": 1718459058,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163293,
       "num": 163293,
       "word": "庄达菲 父母爱情顶凉柱",
@@ -26987,6 +27035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162497,
+      "num": 162497,
+      "word": "RSG等了三年的冠军",
+      "onboard_time": 1718461339,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162493,
       "num": 162493,
       "word": "为什么感觉去旅游的人越来越多了",
@@ -27041,14 +27097,6 @@
       "onboard_time": 1718119640,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162099,
-      "num": 162099,
-      "word": "吴谨言大女主易如反掌",
-      "onboard_time": 1718459058,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 162082,
@@ -30851,6 +30899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140264,
+      "num": 140264,
+      "word": "Aimer演唱会",
+      "onboard_time": 1718460979,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140153,
       "num": 140153,
       "word": "周翊然 这张陆让又新又旧的",
@@ -33379,14 +33435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126430,
-      "num": 126430,
-      "word": "翔霖",
-      "onboard_time": 1718460799,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126403,
       "num": 126403,
       "word": "吉克隽逸在刘欢家过六一",
@@ -33433,6 +33481,14 @@
       "onboard_time": 1717682421,
       "rank": 9,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 126243,
+      "num": 126243,
+      "word": "勒芒24小时耐力赛",
+      "onboard_time": 1718461399,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 126231,
@@ -34531,6 +34587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119638,
+      "num": 119638,
+      "word": "半场瑞士2比0匈牙利",
+      "onboard_time": 1718461879,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119613,
       "num": 119613,
       "word": "短视频有自己的横店",
@@ -34753,6 +34817,14 @@
       "onboard_time": 1717198515,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118489,
+      "num": 118489,
+      "word": "泰国大学生诱拐20名女性",
+      "onboard_time": 1718460139,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118383,
@@ -36489,14 +36561,6 @@
       "onboard_time": 1718061194,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 108403,
-      "num": 108403,
-      "word": "Aimer演唱会",
-      "onboard_time": 1718460979,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 108336,
@@ -38659,6 +38723,14 @@
       "category": "体育,教育"
     },
     {
+      "raw_hot": 83523,
+      "num": 462368,
+      "word": "只有一位学生的学位授予仪式",
+      "onboard_time": 1718459779,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83298,
       "num": 83298,
       "word": "高考结束后的张桂梅老师",
@@ -38825,6 +38897,14 @@
       "onboard_time": 1717239076,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80295,
+      "num": 461804,
+      "word": "一看就会的海姆立克法",
+      "onboard_time": 1718461698,
+      "rank": 9,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 80115,
@@ -40019,6 +40099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64303,
+      "num": 922557,
+      "word": "来自嫦娥六号神秘包裹请注意查收",
+      "onboard_time": 1718459779,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64279,
       "num": 336890,
       "word": "成都粽子一条街又火起来了",
@@ -40265,14 +40353,6 @@
       "onboard_time": 1717692915,
       "rank": 32,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 60960,
-      "num": 462368,
-      "word": "只有一位学生的学位授予仪式",
-      "onboard_time": 1718459779,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60934,
@@ -41224,14 +41304,6 @@
       "word": "他们40多年挖了近1亿个坑种树",
       "onboard_time": 1717742539,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50743,
-      "num": 854962,
-      "word": "来自嫦娥六号神秘包裹请注意查收",
-      "onboard_time": 1718459779,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -44565,6 +44637,9 @@
     },
     {
       "word": "#习近平致电祝贺拉马福萨当选连任南非总统#"
+    },
+    {
+      "word": "#要未雨绸缪始终绷紧粮食安全这根弦#"
     }
   ]
 }
