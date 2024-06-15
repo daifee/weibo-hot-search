@@ -1,0 +1,410 @@
+{
+  "runTime": 1718422491009,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1745024,
+        "num": 1745024,
+        "word": "四级",
+        "onboard_time": 1718409677,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1251418,
+        "num": 1251418,
+        "word": "四级 花钱买早八",
+        "onboard_time": 1718376143,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22730,
+        "num": 1071008,
+        "word": "清明上河图动起来了",
+        "onboard_time": 1718370681,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1677459,
+        "num": 1015144,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 902693,
+        "num": 902693,
+        "word": "杭州女子孕期同房出血紧急就医",
+        "onboard_time": 1718406554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805212,
+        "num": 805212,
+        "word": "四级作文",
+        "onboard_time": 1718422037,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 608112,
+        "num": 608112,
+        "word": "焉栩嘉上岸了",
+        "onboard_time": 1718406735,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568719,
+        "num": 568719,
+        "word": "这跟肖战谈恋爱有什么区别",
+        "onboard_time": 1718415438,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 510900,
+        "num": 510900,
+        "word": "村支书否认姜萍因家贫放弃读高中",
+        "onboard_time": 1718411717,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505998,
+        "num": 505998,
+        "word": "你好星期六全员神仙对决",
+        "onboard_time": 1718420178,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 483248,
+        "num": 483248,
+        "word": "庄国栋被删了方协文上桌了",
+        "onboard_time": 1718420657,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399640,
+        "num": 399640,
+        "word": "沈腾马丽新片接班人计划",
+        "onboard_time": 1718419456,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393392,
+        "num": 393392,
+        "word": "凯特王妃将公开露面",
+        "onboard_time": 1718413878,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 383439,
+        "num": 383439,
+        "word": "王俊凯 野孩子",
+        "onboard_time": 1718420117,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360078,
+        "num": 360078,
+        "word": "青岛一浴回应大三学生溺亡",
+        "onboard_time": 1718416878,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346607,
+        "num": 346607,
+        "word": "月经提前或推迟超7天要去医院",
+        "onboard_time": 1718377641,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 324437,
+        "num": 324437,
+        "word": "严浩翔 炫迈",
+        "onboard_time": 1718421978,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312235,
+        "num": 312235,
+        "word": "找对象的尽头是初中同学",
+        "onboard_time": 1718407935,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128928,
+        "num": 304123,
+        "word": "想念陈红军陈祥榕肖思远王焯冉",
+        "onboard_time": 1718421738,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298628,
+        "num": 298628,
+        "word": "六级",
+        "onboard_time": 1718410937,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 658384,
+        "num": 294752,
+        "word": "亲戚把订婚蛋糕整个拿走了",
+        "onboard_time": 1718419578,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314198,
+        "num": 288003,
+        "word": "王心凌婉拒的是乘风不是歌手",
+        "onboard_time": 1718421917,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311236,
+        "num": 285906,
+        "word": "周也黑脸",
+        "onboard_time": 1718359278,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276006,
+        "num": 276006,
+        "word": "国际数学奥林匹克满分得主谈姜萍",
+        "onboard_time": 1718416217,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 247827,
+        "num": 247827,
+        "word": "突然觉得脚真的好可怜",
+        "onboard_time": 1718413338,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219228,
+        "num": 219228,
+        "word": "林志炫 奢香夫人",
+        "onboard_time": 1718412258,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215999,
+        "num": 215999,
+        "word": "林更新演技",
+        "onboard_time": 1718413939,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208905,
+        "num": 208905,
+        "word": "六公主发的周也",
+        "onboard_time": 1718357120,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207909,
+        "num": 207909,
+        "word": "刘德华演唱会",
+        "onboard_time": 1718421978,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205920,
+        "num": 205920,
+        "word": "凯尔特人vs独行侠",
+        "onboard_time": 1718418317,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95198,
+        "num": 201802,
+        "word": "花十元就能让照片开口说话",
+        "onboard_time": 1718420597,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201457,
+        "num": 201457,
+        "word": "汪苏泷奢香夫人 难听",
+        "onboard_time": 1718370202,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197493,
+        "num": 197493,
+        "word": "为什么坐高铁都喜欢选F位",
+        "onboard_time": 1718419098,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192404,
+        "num": 192404,
+        "word": "独行侠1比3凯尔特人",
+        "onboard_time": 1718421197,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186732,
+        "num": 186732,
+        "word": "欧文终结对凯尔特人13连败",
+        "onboard_time": 1718422099,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180152,
+        "num": 180152,
+        "word": "电影蛟龙行动",
+        "onboard_time": 1718421498,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50592,
+        "num": 177854,
+        "word": "被世界第二硬控了",
+        "onboard_time": 1718417178,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176429,
+        "num": 176429,
+        "word": "工作后发现5000块真的挺难挣",
+        "onboard_time": 1718406675,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175212,
+        "num": 175212,
+        "word": "电影野孩子定档暑期",
+        "onboard_time": 1718418199,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169774,
+        "num": 169774,
+        "word": "蛟龙行动",
+        "onboard_time": 1718421677,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160296,
+        "num": 160296,
+        "word": "5岁孩子吃饺子被针头扎伤",
+        "onboard_time": 1718419397,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155940,
+        "num": 155940,
+        "word": "墨雨云间逃不开的原生家庭",
+        "onboard_time": 1718421797,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154248,
+        "num": 154248,
+        "word": "六级翻译",
+        "onboard_time": 1718422339,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147803,
+        "num": 147803,
+        "word": "退钱哥吐槽欧洲物价",
+        "onboard_time": 1718422278,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144172,
+        "num": 144172,
+        "word": "上海中考作文",
+        "onboard_time": 1718421078,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141140,
+        "num": 141140,
+        "word": "男友说我有车有房娶我就不用买了",
+        "onboard_time": 1718416758,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131617,
+        "num": 131617,
+        "word": "东契奇29分",
+        "onboard_time": 1718422099,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129179,
+        "num": 129179,
+        "word": "肖战普罗旺斯",
+        "onboard_time": 1718407935,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127200,
+        "num": 127200,
+        "word": "王星越要羡慕萧蘅了吧",
+        "onboard_time": 1718421738,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126928,
+        "num": 126928,
+        "word": "刘惜君为了压过原唱使了大劲",
+        "onboard_time": 1718387294,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推进科技创新及其他各方面创新#"
+    }
+  }
+}

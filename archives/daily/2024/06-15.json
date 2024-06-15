@@ -1,14 +1,22 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718421656417,
+  "endTime": 1718422491009,
   "band_list": [
     {
       "raw_hot": 1967468,
-      "num": 768464,
+      "num": 1015144,
       "word": "周也",
       "onboard_time": 1718413939,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1745024,
+      "num": 1745024,
+      "word": "四级",
+      "onboard_time": 1718409677,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 1657955,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1438321,
-      "num": 267964,
+      "num": 285906,
       "word": "周也黑脸",
       "onboard_time": 1718359278,
       "rank": 20,
@@ -43,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1251418,
+      "num": 1251418,
+      "word": "四级 花钱买早八",
+      "onboard_time": 1718376143,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1194159,
       "num": 883399,
       "word": "月经提前或推迟超7天要去医院",
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 1128299,
-      "num": 852543,
+      "num": 902693,
       "word": "杭州女子孕期同房出血紧急就医",
       "onboard_time": 1718406554,
       "rank": 0,
@@ -100,11 +116,19 @@
     },
     {
       "raw_hot": 828240,
-      "num": 248334,
+      "num": 294752,
       "word": "亲戚把订婚蛋糕整个拿走了",
       "onboard_time": 1718419578,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 805212,
+      "num": 805212,
+      "word": "四级作文",
+      "onboard_time": 1718422037,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 783220,
@@ -156,7 +180,7 @@
     },
     {
       "raw_hot": 661201,
-      "num": 244360,
+      "num": 247827,
       "word": "突然觉得脚真的好可怜",
       "onboard_time": 1718413338,
       "rank": 40,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 597457,
-      "num": 543733,
+      "num": 568719,
       "word": "这跟肖战谈恋爱有什么区别",
       "onboard_time": 1718415438,
       "rank": 23,
@@ -227,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505998,
+      "num": 505998,
+      "word": "你好星期六全员神仙对决",
+      "onboard_time": 1718420178,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 484542,
       "num": 484542,
       "word": "青岛一浴回应大三学生溺亡",
@@ -235,12 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444285,
-      "num": 246334,
-      "word": "你好星期六全员神仙对决",
-      "onboard_time": 1718420178,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 483248,
+      "num": 483248,
+      "word": "庄国栋被删了方协文上桌了",
+      "onboard_time": 1718420657,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 441517,
@@ -275,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 399640,
+      "num": 399640,
+      "word": "沈腾马丽新片接班人计划",
+      "onboard_time": 1718419456,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 397604,
       "num": 397604,
       "word": "找对象的尽头是初中同学",
@@ -291,28 +331,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370161,
-      "num": 370161,
-      "word": "日本一女子患产后抑郁勒死三个女儿",
-      "onboard_time": 1718374524,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 367881,
-      "num": 367881,
+      "raw_hot": 383439,
+      "num": 383439,
       "word": "王俊凯 野孩子",
       "onboard_time": 1718420117,
       "rank": 10,
       "category": "电影"
     },
     {
-      "raw_hot": 363980,
-      "num": 363980,
-      "word": "沈腾马丽新片接班人计划",
-      "onboard_time": 1718419456,
-      "rank": 11,
-      "category": "电影"
+      "raw_hot": 370161,
+      "num": 370161,
+      "word": "日本一女子患产后抑郁勒死三个女儿",
+      "onboard_time": 1718374524,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 347222,
@@ -339,6 +371,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 324437,
+      "num": 324437,
+      "word": "严浩翔 炫迈",
+      "onboard_time": 1718421978,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 314198,
+      "num": 288003,
+      "word": "王心凌婉拒的是乘风不是歌手",
+      "onboard_time": 1718421917,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303139,
       "num": 253152,
       "word": "周也曾解释自己黑脸",
@@ -355,12 +403,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 288344,
-      "num": 288344,
-      "word": "四级 花钱买早八",
-      "onboard_time": 1718376143,
-      "rank": 8,
-      "category": "情感"
+      "raw_hot": 298628,
+      "num": 298628,
+      "word": "六级",
+      "onboard_time": 1718410937,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 280513,
@@ -379,14 +427,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 264972,
-      "num": 264972,
-      "word": "庄国栋被删了方协文上桌了",
-      "onboard_time": 1718420657,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 254716,
       "num": 167113,
       "word": "董宇辉直播永乐宫遭多人投诉",
@@ -403,28 +443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251083,
-      "num": 251083,
-      "word": "六级",
-      "onboard_time": 1718410937,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 251080,
       "num": 251080,
       "word": "王星越带外甥女 德华带娃",
       "onboard_time": 1718380820,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249934,
-      "num": 249934,
-      "word": "四级",
-      "onboard_time": 1718409677,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 248248,
@@ -515,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207909,
+      "num": 207909,
+      "word": "刘德华演唱会",
+      "onboard_time": 1718421978,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 206601,
       "num": 212911,
       "word": "答错的是魏大勋受伤的是白鹿",
@@ -529,6 +561,14 @@
       "onboard_time": 1718421197,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197493,
+      "num": 197493,
+      "word": "为什么坐高铁都喜欢选F位",
+      "onboard_time": 1718419098,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 196162,
@@ -555,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186732,
+      "num": 186732,
+      "word": "欧文终结对凯尔特人13连败",
+      "onboard_time": 1718422099,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186403,
       "num": 271036,
       "word": "浙江大学数学系教授欢迎姜萍来浙大",
@@ -571,20 +619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184907,
-      "num": 184907,
-      "word": "为什么坐高铁都喜欢选F位",
-      "onboard_time": 1718419098,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 180812,
       "num": 263076,
       "word": "别再买路边切一半的西瓜了",
       "onboard_time": 1718367560,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 180152,
+      "num": 180152,
+      "word": "电影蛟龙行动",
+      "onboard_time": 1718421498,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 179618,
@@ -643,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169774,
+      "num": 169774,
+      "word": "蛟龙行动",
+      "onboard_time": 1718421677,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168263,
       "num": 212463,
       "word": "宰亨碎了",
@@ -699,12 +755,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155940,
+      "num": 155940,
+      "word": "墨雨云间逃不开的原生家庭",
+      "onboard_time": 1718421797,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155928,
       "num": 155928,
       "word": "央视女主播神预测",
       "onboard_time": 1718413577,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154248,
+      "num": 154248,
+      "word": "六级翻译",
+      "onboard_time": 1718422339,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 152788,
@@ -731,12 +803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147803,
+      "num": 147803,
+      "word": "退钱哥吐槽欧洲物价",
+      "onboard_time": 1718422278,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147795,
       "num": 147795,
       "word": "戚薇这里的表情真的很好品",
       "onboard_time": 1718408836,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144172,
+      "num": 144172,
+      "word": "上海中考作文",
+      "onboard_time": 1718421078,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 140312,
@@ -755,12 +843,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135300,
-      "num": 135300,
-      "word": "上海中考作文",
-      "onboard_time": 1718421078,
-      "rank": 38,
-      "category": "教育"
+      "raw_hot": 131617,
+      "num": 131617,
+      "word": "东契奇29分",
+      "onboard_time": 1718422099,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 130125,
@@ -771,12 +859,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 127764,
-      "num": 127764,
-      "word": "电影蛟龙行动",
-      "onboard_time": 1718421498,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 128928,
+      "num": 304123,
+      "word": "想念陈红军陈祥榕肖思远王焯冉",
+      "onboard_time": 1718421738,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127200,
+      "num": 127200,
+      "word": "王星越要羡慕萧蘅了吧",
+      "onboard_time": 1718421738,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 126644,
@@ -963,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95198,
+      "num": 372351,
+      "word": "花十元就能让照片开口说话",
+      "onboard_time": 1718420597,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94449,
       "num": 192534,
       "word": "姜萍想考的浙大曾是她老师的梦想",
@@ -1107,16 +1211,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61007,
-      "num": 372351,
-      "word": "花十元就能让照片开口说话",
-      "onboard_time": 1718420597,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60834,
-      "num": 897725,
+      "num": 1071008,
       "word": "清明上河图动起来了",
       "onboard_time": 1718370681,
       "rank": 2,
