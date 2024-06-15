@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718469507224,
+  "endTime": 1718471833744,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -6737,6 +6737,14 @@
       "onboard_time": 1717847357,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 581497,
+      "num": 581497,
+      "word": "邓超终于上了影帝大号",
+      "onboard_time": 1718470335,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 581378,
@@ -28691,6 +28699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153941,
+      "num": 66891,
+      "word": "吴谨言上了郝蕾表演课后逆袭",
+      "onboard_time": 1718471475,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153893,
       "num": 299149,
       "word": "王曼昱VS伊藤美诚",
@@ -44369,6 +44385,14 @@
       "onboard_time": 1717435513,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 12618,
+      "num": 197560,
+      "word": "对爸爸说我爱你被当电信诈骗",
+      "onboard_time": 1718470936,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12587,

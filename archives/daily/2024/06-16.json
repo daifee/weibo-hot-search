@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718469507224,
+  "endTime": 1718471833744,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -25,6 +25,14 @@
       "onboard_time": 1718463019,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 581497,
+      "num": 581497,
+      "word": "邓超终于上了影帝大号",
+      "onboard_time": 1718470335,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 481648,
@@ -67,20 +75,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373897,
+      "num": 373897,
+      "word": "欧洲杯",
+      "onboard_time": 1718453357,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 357415,
       "num": 357415,
       "word": "10元手冲咖啡阿姨回应不火了",
       "onboard_time": 1718456418,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332989,
-      "num": 332989,
-      "word": "欧洲杯",
-      "onboard_time": 1718453357,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 304875,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 190090,
-      "num": 150463,
+      "num": 161114,
       "word": "种地吧",
       "onboard_time": 1718467879,
       "rank": 23,
@@ -193,6 +201,14 @@
       "onboard_time": 1718444840,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 153941,
+      "num": 66891,
+      "word": "吴谨言上了郝蕾表演课后逆袭",
+      "onboard_time": 1718471475,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 142164,
@@ -379,6 +395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77818,
+      "num": 77818,
+      "word": "世界杯",
+      "onboard_time": 1718470755,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77781,
       "num": 124327,
       "word": "斗破苍穹",
@@ -411,6 +435,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 57175,
+      "num": 59475,
+      "word": "排球少年电影",
+      "onboard_time": 1718454377,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 41901,
       "num": 464103,
       "word": "来自嫦娥六号神秘包裹请注意查收",
@@ -433,6 +465,14 @@
       "onboard_time": 1718461638,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12618,
+      "num": 197560,
+      "word": "对爸爸说我爱你被当电信诈骗",
+      "onboard_time": 1718470936,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -441,6 +481,9 @@
     },
     {
       "word": "#习近平致电祝贺拉马福萨当选连任南非总统#"
+    },
+    {
+      "word": "#总书记的赤子之心#"
     }
   ]
 }
