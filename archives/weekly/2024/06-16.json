@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718476629129,
+  "endTime": 1718478966812,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112152,
+      "num": 41630,
+      "word": "本科毕业四年寝室的情感变化",
+      "onboard_time": 1718475972,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108693,
       "num": 125181,
       "word": "张杰雨中唱跳",
@@ -475,20 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41630,
-      "num": 41630,
-      "word": "本科毕业四年寝室的情感变化",
-      "onboard_time": 1718475972,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 41063,
       "num": 41063,
       "word": "姜萍",
       "onboard_time": 1718444239,
       "rank": 27,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 29796,
+      "num": 29796,
+      "word": "张若昀许凯目黑莲方灿同排看秀",
+      "onboard_time": 1718478020,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26453,
@@ -504,6 +512,14 @@
       "word": "军校女学员笑着说要去戍边",
       "onboard_time": 1718467338,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18399,
+      "num": 26124,
+      "word": "牛津Kate朱朱谈姜萍",
+      "onboard_time": 1718478791,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
