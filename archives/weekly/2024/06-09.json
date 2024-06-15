@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718414421846,
+  "endTime": 1718415660576,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -209,6 +209,14 @@
       "onboard_time": 1718365698,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1967468,
+      "num": 768464,
+      "word": "周也",
+      "onboard_time": 1718413939,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1946381,
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1128299,
+      "num": 852543,
+      "word": "杭州女子孕期同房出血紧急就医",
+      "onboard_time": 1718406554,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1128102,
       "num": 518097,
       "word": "周杰伦南京抢票",
@@ -889,14 +905,6 @@
       "onboard_time": 1718009897,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1119479,
-      "num": 852543,
-      "word": "杭州女子孕期同房出血紧急就医",
-      "onboard_time": 1718406554,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1118008,
@@ -961,14 +969,6 @@
       "onboard_time": 1718163319,
       "rank": 34,
       "category": "艺人,网红"
-    },
-    {
-      "raw_hot": 1076456,
-      "num": 414990,
-      "word": "周也",
-      "onboard_time": 1718413939,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1074002,
@@ -1443,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 849201,
+      "num": 849201,
+      "word": "村支书否认姜萍因家贫放弃读高中",
+      "onboard_time": 1718411717,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 842034,
       "num": 261075,
       "word": "王力宏方请辞金曲奖表演",
@@ -1859,20 +1867,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 721795,
-      "num": 721795,
-      "word": "村支书否认姜萍因家贫放弃读高中",
-      "onboard_time": 1718411717,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 721205,
       "num": 418579,
       "word": "刘亦菲蓝色泳装",
       "onboard_time": 1718282418,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 720936,
+      "num": 720936,
+      "word": "凯特王妃将公开露面",
+      "onboard_time": 1718413878,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 720801,
@@ -1884,7 +1892,7 @@
     },
     {
       "raw_hot": 717002,
-      "num": 389866,
+      "num": 644353,
       "word": "焉栩嘉上岸了",
       "onboard_time": 1718406735,
       "rank": 5,
@@ -2369,6 +2377,14 @@
       "onboard_time": 1718179880,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 638137,
+      "num": 638137,
+      "word": "为什么大学中的女生越来越多",
+      "onboard_time": 1718413397,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 637450,
@@ -2900,7 +2916,7 @@
     },
     {
       "raw_hot": 543486,
-      "num": 384368,
+      "num": 495219,
       "word": "Selina回应王力宏金曲奖致敬李玟",
       "onboard_time": 1718411237,
       "rank": 7,
@@ -4715,14 +4731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 377171,
-      "num": 297613,
-      "word": "凯特王妃将公开露面",
-      "onboard_time": 1718413878,
-      "rank": 11,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 376103,
       "num": 376103,
       "word": "杨幂 艺人最重要的是社会影响力",
@@ -5163,6 +5171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 347222,
+      "num": 347222,
+      "word": "林志炫 奢香夫人",
+      "onboard_time": 1718412258,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347151,
       "num": 347151,
       "word": "歌手",
@@ -5216,14 +5232,6 @@
       "word": "毛晓彤看得出她是公主",
       "onboard_time": 1718002158,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 344269,
-      "num": 288310,
-      "word": "林志炫 奢香夫人",
-      "onboard_time": 1718412258,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -6532,7 +6540,7 @@
     },
     {
       "raw_hot": 276845,
-      "num": 199528,
+      "num": 264761,
       "word": "肖战普罗旺斯",
       "onboard_time": 1718407935,
       "rank": 27,
@@ -6633,14 +6641,6 @@
       "onboard_time": 1718353460,
       "rank": 29,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 273122,
-      "num": 273122,
-      "word": "为什么大学中的女生越来越多",
-      "onboard_time": 1718413397,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 272894,
@@ -7235,6 +7235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248248,
+      "num": 171773,
+      "word": "林更新演技",
+      "onboard_time": 1718413939,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247733,
       "num": 247733,
       "word": "成都巨响",
@@ -7579,6 +7587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238325,
+      "num": 238325,
+      "word": "六级",
+      "onboard_time": 1718410937,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 238253,
       "num": 238253,
       "word": "200毫升血液3分钟即可采集完成",
@@ -7641,6 +7657,14 @@
       "onboard_time": 1718331377,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 236128,
+      "num": 171412,
+      "word": "这跟肖战谈恋爱有什么区别",
+      "onboard_time": 1718415438,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 236094,
@@ -8531,14 +8555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209784,
-      "num": 209784,
-      "word": "六级",
-      "onboard_time": 1718410937,
-      "rank": 19,
-      "category": "教育"
-    },
-    {
       "raw_hot": 209759,
       "num": 209759,
       "word": "iOS18支持机型",
@@ -8817,6 +8833,14 @@
       "onboard_time": 1717913719,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205369,
+      "num": 170025,
+      "word": "突然觉得脚真的好可怜",
+      "onboard_time": 1718413338,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 205338,
@@ -11739,14 +11763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158492,
-      "num": 158492,
-      "word": "林更新演技",
-      "onboard_time": 1718413939,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158486,
       "num": 158486,
       "word": "赖冠霖什么赛道",
@@ -11840,6 +11856,14 @@
       "word": "刘亦菲37岁的状态",
       "onboard_time": 1718266819,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 157857,
+      "num": 157857,
+      "word": "刘亦菲 玫瑰会在雨后成长",
+      "onboard_time": 1718413037,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -12001,6 +12025,14 @@
       "onboard_time": 1717903517,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155928,
+      "num": 155928,
+      "word": "央视女主播神预测",
+      "onboard_time": 1718413577,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 155779,
@@ -12417,14 +12449,6 @@
       "onboard_time": 1718345838,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149913,
-      "num": 149913,
-      "word": "刘亦菲 玫瑰会在雨后成长",
-      "onboard_time": 1718413037,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 149889,
@@ -13233,14 +13257,6 @@
       "onboard_time": 1718079739,
       "rank": 49,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 138476,
-      "num": 138476,
-      "word": "央视女主播神预测",
-      "onboard_time": 1718413577,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 138442,
@@ -14235,14 +14251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 126654,
-      "num": 126654,
-      "word": "突然觉得脚真的好可怜",
-      "onboard_time": 1718413338,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 126644,
       "num": 212399,
       "word": "陈丽君选戚薇吧她快碎了",
@@ -15195,6 +15203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113904,
+      "num": 113904,
+      "word": "国家级旅游度假区是哪85家",
+      "onboard_time": 1718415317,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 113826,
       "num": 108178,
       "word": "苹果无SIM卡提醒官方解决方案",
@@ -15585,6 +15601,14 @@
       "onboard_time": 1718280256,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 107808,
+      "num": 107808,
+      "word": "花30块钱给自己周六买个早八",
+      "onboard_time": 1718415317,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 107796,
@@ -18115,6 +18139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33210,
+      "num": 392562,
+      "word": "00后准教师进入社会的首份答卷满分",
+      "onboard_time": 1718414177,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33032,
       "num": 39804,
       "word": "抬头看的是天还是空",
@@ -18209,14 +18241,6 @@
       "onboard_time": 1718276419,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30680,
-      "num": 212987,
-      "word": "00后准教师进入社会的首份答卷满分",
-      "onboard_time": 1718414177,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30455,

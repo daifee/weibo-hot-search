@@ -1,0 +1,410 @@
+{
+  "runTime": 1718415660576,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 939791,
+        "num": 939791,
+        "word": "金曲奖取消致敬李玟表演",
+        "onboard_time": 1718409616,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 849201,
+        "num": 849201,
+        "word": "村支书否认姜萍因家贫放弃读高中",
+        "onboard_time": 1718411717,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49637,
+        "num": 780158,
+        "word": "清明上河图动起来了",
+        "onboard_time": 1718370681,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1967468,
+        "num": 768464,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1128299,
+        "num": 764069,
+        "word": "杭州女子孕期同房出血紧急就医",
+        "onboard_time": 1718406554,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720936,
+        "num": 720936,
+        "word": "凯特王妃将公开露面",
+        "onboard_time": 1718413878,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 644353,
+        "num": 644353,
+        "word": "焉栩嘉上岸了",
+        "onboard_time": 1718406735,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638137,
+        "num": 638137,
+        "word": "为什么大学中的女生越来越多",
+        "onboard_time": 1718413397,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 495219,
+        "num": 495219,
+        "word": "Selina回应王力宏金曲奖致敬李玟",
+        "onboard_time": 1718411237,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33210,
+        "num": 392562,
+        "word": "00后准教师进入社会的首份答卷满分",
+        "onboard_time": 1718414177,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384553,
+        "num": 384553,
+        "word": "六公主发的周也",
+        "onboard_time": 1718357120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347222,
+        "num": 347222,
+        "word": "林志炫 奢香夫人",
+        "onboard_time": 1718412258,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341261,
+        "num": 341261,
+        "word": "找对象的尽头是初中同学",
+        "onboard_time": 1718407935,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335435,
+        "num": 335435,
+        "word": "汪苏泷奢香夫人 难听",
+        "onboard_time": 1718370202,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289554,
+        "num": 289554,
+        "word": "月经提前或推迟超7天要去医院",
+        "onboard_time": 1718377641,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277270,
+        "num": 277270,
+        "word": "姜萍已达到数学系本科生的水平",
+        "onboard_time": 1718373386,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264761,
+        "num": 264761,
+        "word": "肖战普罗旺斯",
+        "onboard_time": 1718407935,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238325,
+        "num": 238325,
+        "word": "六级",
+        "onboard_time": 1718410937,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201055,
+        "num": 201055,
+        "word": "汤普森取关勇士",
+        "onboard_time": 1718412318,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173594,
+        "num": 173594,
+        "word": "姜萍",
+        "onboard_time": 1718409256,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 559123,
+        "num": 173516,
+        "word": "周也黑脸",
+        "onboard_time": 1718359278,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348842,
+        "num": 172544,
+        "word": "工作后发现5000块真的挺难挣",
+        "onboard_time": 1718406675,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248248,
+        "num": 171773,
+        "word": "林更新演技",
+        "onboard_time": 1718413939,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236128,
+        "num": 171412,
+        "word": "这跟肖战谈恋爱有什么区别",
+        "onboard_time": 1718415438,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205369,
+        "num": 170025,
+        "word": "突然觉得脚真的好可怜",
+        "onboard_time": 1718413338,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192619,
+        "num": 169768,
+        "word": "郝蕾表演课不招收纯素人",
+        "onboard_time": 1718388133,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175139,
+        "num": 169234,
+        "word": "袁娅维得继续请假了",
+        "onboard_time": 1718406613,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168521,
+        "num": 168521,
+        "word": "湖南一足浴女店主遭6旬男子捅杀身亡",
+        "onboard_time": 1718398270,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162957,
+        "num": 162957,
+        "word": "王力宏",
+        "onboard_time": 1718412617,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75886,
+        "num": 158192,
+        "word": "欧洲杯揭幕战德国队开门红",
+        "onboard_time": 1718409616,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157857,
+        "num": 157857,
+        "word": "刘亦菲 玫瑰会在雨后成长",
+        "onboard_time": 1718413037,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155928,
+        "num": 155928,
+        "word": "央视女主播神预测",
+        "onboard_time": 1718413577,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150236,
+        "num": 150236,
+        "word": "汪苏泷辟谣自己140斤",
+        "onboard_time": 1718410878,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137930,
+        "num": 137930,
+        "word": "孙楠 很牛但油",
+        "onboard_time": 1718371582,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135699,
+        "num": 135699,
+        "word": "日本一女子患产后抑郁勒死三个女儿",
+        "onboard_time": 1718374524,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133734,
+        "num": 133734,
+        "word": "耳帝说奢香夫人效果不佳",
+        "onboard_time": 1718410096,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124782,
+        "num": 124782,
+        "word": "刘惜君为了压过原唱使了大劲",
+        "onboard_time": 1718387294,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124769,
+        "num": 124769,
+        "word": "戚薇这里的表情真的很好品",
+        "onboard_time": 1718408836,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123612,
+        "num": 123612,
+        "word": "四级 花钱买早八",
+        "onboard_time": 1718376143,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114551,
+        "num": 114551,
+        "word": "主人每次离开两秒小鸭子就要爆炸",
+        "onboard_time": 1718397191,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113949,
+        "num": 113949,
+        "word": "毕业生携双胞胎亮相校长钱包哇哇哭",
+        "onboard_time": 1718407335,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113904,
+        "num": 113904,
+        "word": "国家级旅游度假区是哪85家",
+        "onboard_time": 1718415317,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113475,
+        "num": 113475,
+        "word": "排球少年",
+        "onboard_time": 1718415617,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109960,
+        "num": 109960,
+        "word": "行政叫我以后不要穿睡裤上班",
+        "onboard_time": 1718384834,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107996,
+        "num": 107996,
+        "word": "江西卫视发的王一博",
+        "onboard_time": 1718410817,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107808,
+        "num": 107808,
+        "word": "花30块钱给自己周六买个早八",
+        "onboard_time": 1718415317,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 107426,
+        "num": 107426,
+        "word": "NBA",
+        "onboard_time": 1718414477,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104977,
+        "num": 104977,
+        "word": "阿根廷vs危地马拉",
+        "onboard_time": 1718412498,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104391,
+        "num": 104391,
+        "word": "董宇辉直播永乐宫遭多人投诉",
+        "onboard_time": 1718366958,
+        "rank": 48,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 102979,
+        "num": 102979,
+        "word": "歌手排名",
+        "onboard_time": 1718373924,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席阐释全球发展的中国方案#"
+    }
+  }
+}
