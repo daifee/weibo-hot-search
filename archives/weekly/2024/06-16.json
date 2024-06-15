@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718475906465,
+  "endTime": 1718476629129,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -211,6 +211,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 152622,
+      "num": 152622,
+      "word": "世界杯",
+      "onboard_time": 1718470755,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142164,
       "num": 142164,
       "word": "赖冠霖 退圈信",
@@ -297,14 +305,6 @@
       "onboard_time": 1718459118,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105800,
-      "num": 105800,
-      "word": "世界杯",
-      "onboard_time": 1718470755,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 104250,
@@ -427,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64611,
+      "num": 46426,
+      "word": "学校回应男生39天减重斤20斤后猝死",
+      "onboard_time": 1718472494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 63084,
       "num": 124407,
       "word": "六级听力 听不懂",
@@ -443,12 +451,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 46426,
-      "num": 46426,
-      "word": "学校回应男生39天减重斤20斤后猝死",
-      "onboard_time": 1718472494,
-      "rank": 48,
-      "category": "社会新闻"
+      "raw_hot": 46576,
+      "num": 40347,
+      "word": "张杰演唱会上集齐龙",
+      "onboard_time": 1718474653,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 42120,
@@ -463,6 +471,30 @@
       "num": 464103,
       "word": "来自嫦娥六号神秘包裹请注意查收",
       "onboard_time": 1718459779,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41630,
+      "num": 41630,
+      "word": "本科毕业四年寝室的情感变化",
+      "onboard_time": 1718475972,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 41063,
+      "num": 41063,
+      "word": "姜萍",
+      "onboard_time": 1718444239,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 26453,
+      "num": 187217,
+      "word": "一句话表白老爸",
+      "onboard_time": 1718458938,
       "rank": 2,
       "category": "社会新闻"
     },

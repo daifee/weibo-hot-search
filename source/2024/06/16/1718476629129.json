@@ -1,0 +1,410 @@
+{
+  "runTime": 1718476629129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 283876,
+        "num": 283876,
+        "word": "邓超终于上了影帝大号",
+        "onboard_time": 1718470335,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228868,
+        "num": 228868,
+        "word": "欧洲杯",
+        "onboard_time": 1718453357,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26453,
+        "num": 187217,
+        "word": "一句话表白老爸",
+        "onboard_time": 1718458938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185124,
+        "num": 185124,
+        "word": "女子长期乏力全家查出吸血鬼病基因",
+        "onboard_time": 1718459418,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152622,
+        "num": 152622,
+        "word": "世界杯",
+        "onboard_time": 1718470755,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422899,
+        "num": 148454,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130097,
+        "num": 130097,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116764,
+        "num": 116764,
+        "word": "10元手冲咖啡阿姨回应不火了",
+        "onboard_time": 1718456418,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92032,
+        "num": 92032,
+        "word": "情侣高考结束后举行订婚宴",
+        "onboard_time": 1718450598,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87257,
+        "num": 87257,
+        "word": "谢可寅 我再也不相信你了李斯丹妮",
+        "onboard_time": 1718466557,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85003,
+        "num": 85003,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82479,
+        "num": 82479,
+        "word": "熬夜看球前建议先睡一觉",
+        "onboard_time": 1718466497,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79000,
+        "num": 79000,
+        "word": "周也和六公主碰拳",
+        "onboard_time": 1718450119,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72753,
+        "num": 72753,
+        "word": "中国女排3比2土耳其女排",
+        "onboard_time": 1718462900,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68928,
+        "num": 68928,
+        "word": "王星越 想谈系",
+        "onboard_time": 1718460379,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8210,
+        "num": 62268,
+        "word": "对爸爸说我爱你被当电信诈骗",
+        "onboard_time": 1718470936,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58755,
+        "num": 58755,
+        "word": "张常宁好牛",
+        "onboard_time": 1718459838,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57868,
+        "num": 57868,
+        "word": "还是低估了墨雨云间的爽",
+        "onboard_time": 1718454377,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56019,
+        "num": 56019,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1718462420,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43036,
+        "num": 43036,
+        "word": "凯特公开露面",
+        "onboard_time": 1718444840,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165633,
+        "num": 42814,
+        "word": "吴谨言上了郝蕾表演课后逆袭",
+        "onboard_time": 1718471475,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64611,
+        "num": 42599,
+        "word": "学校回应男生39天减重斤20斤后猝死",
+        "onboard_time": 1718472494,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54131,
+        "num": 42515,
+        "word": "蔡依林无人机应援",
+        "onboard_time": 1718461459,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50935,
+        "num": 42180,
+        "word": "许嵩内线首唱",
+        "onboard_time": 1718458999,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49104,
+        "num": 42069,
+        "word": "张杰雨中唱跳",
+        "onboard_time": 1718459118,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45861,
+        "num": 41851,
+        "word": "种地吧",
+        "onboard_time": 1718467879,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41630,
+        "num": 41630,
+        "word": "本科毕业四年寝室的情感变化",
+        "onboard_time": 1718475972,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41063,
+        "num": 41063,
+        "word": "姜萍",
+        "onboard_time": 1718444239,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 44699,
+        "num": 40766,
+        "word": "许嵩 谢谢你在3650万首歌里听到我",
+        "onboard_time": 1718463259,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12975,
+        "num": 40404,
+        "word": "独臂爸爸陪女儿玩石头剪刀布",
+        "onboard_time": 1718472794,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46576,
+        "num": 40347,
+        "word": "张杰演唱会上集齐龙",
+        "onboard_time": 1718474653,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40076,
+        "num": 40076,
+        "word": "彭昱畅瘦了好多",
+        "onboard_time": 1718454619,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40000,
+        "num": 40000,
+        "word": "周也拿了六公主手里的糖",
+        "onboard_time": 1718451978,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39205,
+        "num": 39205,
+        "word": "会长是女仆大人 双强情侣",
+        "onboard_time": 1718455999,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 39315,
+        "num": 38997,
+        "word": "aespa被清票两万",
+        "onboard_time": 1718472554,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 38777,
+        "num": 38777,
+        "word": "雌激素降低确实会催人老",
+        "onboard_time": 1718463019,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38122,
+        "num": 38122,
+        "word": "保持饥饿感有助于延缓衰老",
+        "onboard_time": 1718467577,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 36394,
+        "num": 36394,
+        "word": "张艺兴现场",
+        "onboard_time": 1718451436,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34757,
+        "num": 34757,
+        "word": "考研上岸后亲戚发朋友圈阴阳我",
+        "onboard_time": 1718451796,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33924,
+        "num": 33924,
+        "word": "十个勤天二开",
+        "onboard_time": 1718448017,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31734,
+        "num": 33916,
+        "word": "荣梓杉成年了衬衫可以开大点",
+        "onboard_time": 1718461759,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31532,
+        "num": 33908,
+        "word": "中式婚礼",
+        "onboard_time": 1718448198,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29837,
+        "num": 33901,
+        "word": "摩羯座真正的追求",
+        "onboard_time": 1718457139,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28884,
+        "num": 33884,
+        "word": "斗破苍穹",
+        "onboard_time": 1718468477,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 28847,
+        "num": 33876,
+        "word": "周深回应孙楠唱人是",
+        "onboard_time": 1718462720,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28592,
+        "num": 33865,
+        "word": "排球少年电影",
+        "onboard_time": 1718454377,
+        "rank": 45,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 27700,
+        "num": 33856,
+        "word": "王媛媛神级发挥",
+        "onboard_time": 1718464219,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27489,
+        "num": 33841,
+        "word": "卡琳娜cos铠",
+        "onboard_time": 1718463139,
+        "rank": 47,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 26914,
+        "num": 33834,
+        "word": "中国女排晋级世联赛总决赛",
+        "onboard_time": 1718462840,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26348,
+        "num": 33825,
+        "word": "六级答案",
+        "onboard_time": 1718444420,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#要未雨绸缪始终绷紧粮食安全这根弦#"
+    }
+  }
+}

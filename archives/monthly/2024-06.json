@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718475906465,
+  "endTime": 1718476629129,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -40283,6 +40283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64611,
+      "num": 46426,
+      "word": "学校回应男生39天减重斤20斤后猝死",
+      "onboard_time": 1718472494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64584,
       "num": 64584,
       "word": "英格兰欧洲杯26人名单",
@@ -41859,20 +41867,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46576,
+      "num": 40347,
+      "word": "张杰演唱会上集齐龙",
+      "onboard_time": 1718474653,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 46563,
       "num": 392592,
       "word": "这是高考后最想做的事最温暖的回答",
       "onboard_time": 1718032100,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 46426,
-      "num": 46426,
-      "word": "学校回应男生39天减重斤20斤后猝死",
-      "onboard_time": 1718472494,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46222,
@@ -42225,6 +42233,14 @@
       "onboard_time": 1717887193,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41630,
+      "num": 41630,
+      "word": "本科毕业四年寝室的情感变化",
+      "onboard_time": 1718475972,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 41535,
@@ -43457,6 +43473,14 @@
       "onboard_time": 1717666700,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 26453,
+      "num": 187217,
+      "word": "一句话表白老爸",
+      "onboard_time": 1718458938,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26232,
