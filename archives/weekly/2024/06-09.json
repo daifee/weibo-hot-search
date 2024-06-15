@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718447782966,
+  "endTime": 1718450164354,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -1571,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 863733,
+      "num": 863733,
+      "word": "孙坚喝霸王茶姬也失眠了",
+      "onboard_time": 1718444840,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862081,
       "num": 862081,
       "word": "刘亦菲演技",
@@ -1729,14 +1737,6 @@
       "onboard_time": 1718342297,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 798725,
-      "num": 798725,
-      "word": "孙坚喝霸王茶姬也失眠了",
-      "onboard_time": 1718444840,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 798300,
@@ -3915,6 +3915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 476720,
+      "num": 476720,
+      "word": "中式婚礼",
+      "onboard_time": 1718448198,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 475540,
       "num": 475540,
       "word": "日本主持人称难怪烟花是中国发明的",
@@ -4211,6 +4219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452068,
+      "num": 452068,
+      "word": "十个勤天二开",
+      "onboard_time": 1718448017,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451372,
       "num": 451372,
       "word": "张同学全网都知道你可以谈恋爱了",
@@ -4393,6 +4409,14 @@
       "onboard_time": 1717858459,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 438273,
+      "num": 438273,
+      "word": "父母不让嫁的人一定不能嫁吗",
+      "onboard_time": 1718447420,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 438071,
@@ -5049,6 +5073,14 @@
       "onboard_time": 1718197400,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386868,
+      "num": 386868,
+      "word": "贺峻霖直播",
+      "onboard_time": 1718448079,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 386518,
@@ -7571,6 +7603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259449,
+      "num": 240906,
+      "word": "112斤男子抽血抽出半管油",
+      "onboard_time": 1718444298,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259275,
       "num": 259275,
       "word": "剑网三",
@@ -8115,14 +8155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240906,
-      "num": 240906,
-      "word": "112斤男子抽血抽出半管油",
-      "onboard_time": 1718444298,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240903,
       "num": 240903,
       "word": "汤普森取关勇士",
@@ -8601,6 +8633,14 @@
       "onboard_time": 1718416758,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224189,
+      "num": 224189,
+      "word": "黑龙江大庆发生一起交通事故5人遇难",
+      "onboard_time": 1718448079,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 223964,
@@ -9531,6 +9571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205417,
+      "num": 205417,
+      "word": "汪苏泷谈奢香夫人编曲",
+      "onboard_time": 1718449636,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205338,
       "num": 205338,
       "word": "湖南卫视618晚会定档",
@@ -9568,6 +9616,14 @@
       "word": "丁泽仁去当拆卡博主了",
       "onboard_time": 1718262918,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 205181,
+      "num": 205181,
+      "word": "凡尔赛宫偶遇肖战",
+      "onboard_time": 1718449998,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -9729,6 +9785,14 @@
       "onboard_time": 1718176101,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203379,
+      "num": 203379,
+      "word": "时代少年团在公园给贺峻霖庆生",
+      "onboard_time": 1718449278,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 203368,
@@ -11193,6 +11257,14 @@
       "onboard_time": 1718107998,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182549,
+      "num": 182549,
+      "word": "TFBOYS为王源上影节打call",
+      "onboard_time": 1718448198,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 182412,
@@ -13307,14 +13379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152674,
-      "num": 152674,
-      "word": "父母不让嫁的人一定不能嫁吗",
-      "onboard_time": 1718447420,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152553,
       "num": 152553,
       "word": "陈乔恩郑皓原吻戏",
@@ -13795,6 +13859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146733,
+      "num": 146733,
+      "word": "爸爸是外星人 骗一下子就是一辈子",
+      "onboard_time": 1718447779,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146627,
       "num": 146627,
       "word": "iOS18屏锁将支持第三方相机",
@@ -14171,6 +14243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141104,
+      "num": 141104,
+      "word": "深圳大鹏所城城墙垮塌",
+      "onboard_time": 1718448498,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141038,
       "num": 141038,
       "word": "英伟达",
@@ -14425,6 +14505,14 @@
       "onboard_time": 1717939339,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137965,
+      "num": 137965,
+      "word": "六级题目看不懂",
+      "onboard_time": 1718448079,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 137955,
@@ -15129,6 +15217,14 @@
       "onboard_time": 1718265679,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130299,
+      "num": 626924,
+      "word": "如何才能与原生家庭和解",
+      "onboard_time": 1718447420,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 130185,
@@ -17299,6 +17395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 100630,
+      "num": 100630,
+      "word": "周也和六公主碰拳",
+      "onboard_time": 1718450119,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 100514,
       "num": 100514,
       "word": "2024KPL夏季赛",
@@ -17388,7 +17492,7 @@
     },
     {
       "raw_hot": 99017,
-      "num": 188643,
+      "num": 448017,
       "word": "大四女生实习转正能拿8个月年终奖",
       "onboard_time": 1718446339,
       "rank": 26,
@@ -19977,14 +20081,6 @@
       "onboard_time": 1718096417,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23803,
-      "num": 626924,
-      "word": "如何才能与原生家庭和解",
-      "onboard_time": 1718447420,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 23694,

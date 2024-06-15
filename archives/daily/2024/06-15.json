@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718447782966,
+  "endTime": 1718450164354,
   "band_list": [
     {
       "raw_hot": 6639747,
@@ -235,6 +235,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 863733,
+      "num": 863733,
+      "word": "孙坚喝霸王茶姬也失眠了",
+      "onboard_time": 1718444840,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 838533,
       "num": 838533,
       "word": "香港中文大学否认联系姜萍",
@@ -249,14 +257,6 @@
       "onboard_time": 1718419578,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 798725,
-      "num": 798725,
-      "word": "孙坚喝霸王茶姬也失眠了",
-      "onboard_time": 1718444840,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 798300,
@@ -563,12 +563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 476720,
+      "num": 476720,
+      "word": "中式婚礼",
+      "onboard_time": 1718448198,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 457757,
       "num": 457757,
       "word": "刘奔回应因姜萍走红",
       "onboard_time": 1718422880,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 452068,
+      "num": 452068,
+      "word": "十个勤天二开",
+      "onboard_time": 1718448017,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 443213,
@@ -585,6 +601,14 @@
       "onboard_time": 1718416217,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 438273,
+      "num": 438273,
+      "word": "父母不让嫁的人一定不能嫁吗",
+      "onboard_time": 1718447420,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 429944,
@@ -665,6 +689,14 @@
       "onboard_time": 1718369001,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386868,
+      "num": 386868,
+      "word": "贺峻霖直播",
+      "onboard_time": 1718448079,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 383439,
@@ -907,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259449,
+      "num": 240906,
+      "word": "112斤男子抽血抽出半管油",
+      "onboard_time": 1718444298,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254716,
       "num": 167113,
       "word": "董宇辉直播永乐宫遭多人投诉",
@@ -971,14 +1011,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 240906,
-      "num": 240906,
-      "word": "112斤男子抽血抽出半管油",
-      "onboard_time": 1718444298,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240903,
       "num": 240903,
       "word": "汤普森取关勇士",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1718416758,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224189,
+      "num": 224189,
+      "word": "黑龙江大庆发生一起交通事故5人遇难",
+      "onboard_time": 1718448079,
+      "rank": 19,
+      "category": "社会负面"
     },
     {
       "raw_hot": 222969,
@@ -1123,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205417,
+      "num": 205417,
+      "word": "汪苏泷谈奢香夫人编曲",
+      "onboard_time": 1718449636,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205303,
       "num": 205303,
       "word": "微博电影之夜全阵容",
@@ -1131,12 +1179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205181,
+      "num": 205181,
+      "word": "凡尔赛宫偶遇肖战",
+      "onboard_time": 1718449998,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205038,
       "num": 205038,
       "word": "四级题目",
       "onboard_time": 1718425579,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203379,
+      "num": 203379,
+      "word": "时代少年团在公园给贺峻霖庆生",
+      "onboard_time": 1718449278,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 201289,
@@ -1361,6 +1425,14 @@
       "onboard_time": 1718412617,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182549,
+      "num": 182549,
+      "word": "TFBOYS为王源上影节打call",
+      "onboard_time": 1718448198,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 181532,
@@ -1651,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152674,
-      "num": 152674,
-      "word": "父母不让嫁的人一定不能嫁吗",
-      "onboard_time": 1718447420,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151413,
       "num": 151413,
       "word": "万妮达名副其实的小品天后",
@@ -1699,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146733,
+      "num": 146733,
+      "word": "爸爸是外星人 骗一下子就是一辈子",
+      "onboard_time": 1718447779,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 144986,
       "num": 435364,
       "word": "央视曝光机票退改签新骗局",
@@ -1723,6 +1795,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 141104,
+      "num": 141104,
+      "word": "深圳大鹏所城城墙垮塌",
+      "onboard_time": 1718448498,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140312,
       "num": 213038,
       "word": "化妆的意义在此刻具象化了",
@@ -1745,6 +1825,14 @@
       "onboard_time": 1718434757,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137965,
+      "num": 137965,
+      "word": "六级题目看不懂",
+      "onboard_time": 1718448079,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 137087,
@@ -1801,6 +1889,14 @@
       "onboard_time": 1718436677,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 130299,
+      "num": 626924,
+      "word": "如何才能与原生家庭和解",
+      "onboard_time": 1718447420,
+      "rank": 9,
+      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 130145,
@@ -2139,8 +2235,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100630,
+      "num": 100630,
+      "word": "周也和六公主碰拳",
+      "onboard_time": 1718450119,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99017,
-      "num": 188643,
+      "num": 448017,
       "word": "大四女生实习转正能拿8个月年终奖",
       "onboard_time": 1718446339,
       "rank": 26,
@@ -2537,14 +2641,6 @@
       "onboard_time": 1718425458,
       "rank": 14,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 23803,
-      "num": 626924,
-      "word": "如何才能与原生家庭和解",
-      "onboard_time": 1718447420,
-      "rank": 9,
-      "category": "社会新闻,社会议题"
     },
     {
       "raw_hot": 21030,
