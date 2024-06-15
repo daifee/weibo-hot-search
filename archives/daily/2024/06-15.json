@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718415660576,
+  "endTime": 1718418833553,
   "band_list": [
     {
       "raw_hot": 1967468,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922175,
+      "num": 638137,
+      "word": "为什么大学中的女生越来越多",
+      "onboard_time": 1718413397,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 880066,
       "num": 861453,
       "word": "恋爱兄妹最终情侣",
@@ -91,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 720936,
-      "num": 720936,
+      "raw_hot": 783220,
+      "num": 783220,
       "word": "凯特王妃将公开露面",
       "onboard_time": 1718413878,
       "rank": 11,
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661201,
+      "num": 194679,
+      "word": "突然觉得脚真的好可怜",
+      "onboard_time": 1718413338,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 653631,
       "num": 653631,
       "word": "袁娅维太牛了",
       "onboard_time": 1718372784,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 638137,
-      "num": 638137,
-      "word": "为什么大学中的女生越来越多",
-      "onboard_time": 1718413397,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 588305,
@@ -171,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543733,
+      "num": 543733,
+      "word": "这跟肖战谈恋爱有什么区别",
+      "onboard_time": 1718415438,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543486,
       "num": 495219,
       "word": "Selina回应王力宏金曲奖致敬李玟",
@@ -195,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484542,
+      "num": 484542,
+      "word": "青岛一浴回应大三学生溺亡",
+      "onboard_time": 1718416878,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429944,
       "num": 429944,
       "word": "郝蕾表演课不招收纯素人",
@@ -209,6 +233,14 @@
       "onboard_time": 1718376803,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421283,
+      "num": 421283,
+      "word": "国际数学奥林匹克满分得主谈姜萍",
+      "onboard_time": 1718416217,
+      "rank": 10,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 406071,
@@ -324,7 +356,7 @@
     },
     {
       "raw_hot": 248248,
-      "num": 171773,
+      "num": 228767,
       "word": "林更新演技",
       "onboard_time": 1718413939,
       "rank": 32,
@@ -363,12 +395,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 236128,
-      "num": 171412,
-      "word": "这跟肖战谈恋爱有什么区别",
-      "onboard_time": 1718415438,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 233101,
+      "num": 191954,
+      "word": "电影野孩子定档暑期",
+      "onboard_time": 1718418199,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 228884,
@@ -377,6 +409,14 @@
       "onboard_time": 1718398270,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 224366,
+      "num": 191173,
+      "word": "男友说我有车有房娶我就不用买了",
+      "onboard_time": 1718416758,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 222969,
@@ -411,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205369,
-      "num": 170025,
-      "word": "突然觉得脚真的好可怜",
-      "onboard_time": 1718413338,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 206361,
+      "num": 206361,
+      "word": "凯尔特人vs独行侠",
+      "onboard_time": 1718418317,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 192116,
@@ -459,6 +499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180060,
+      "num": 180060,
+      "word": "NBA总决赛",
+      "onboard_time": 1718418199,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179618,
       "num": 179618,
       "word": "刘惜君为了压过原唱使了大劲",
@@ -481,6 +529,14 @@
       "onboard_time": 1718397191,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170961,
+      "num": 170961,
+      "word": "自贡地震",
+      "onboard_time": 1718417837,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170694,
@@ -603,12 +659,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138527,
+      "num": 138527,
+      "word": "万妮达名副其实的小品天后",
+      "onboard_time": 1718416758,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 130125,
+      "num": 130125,
+      "word": "花30块钱给自己周六买个早八",
+      "onboard_time": 1718415317,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 126644,
       "num": 212399,
       "word": "陈丽君选戚薇吧她快碎了",
       "onboard_time": 1718382677,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125858,
+      "num": 125858,
+      "word": "东契奇防守",
+      "onboard_time": 1718417837,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125548,
+      "num": 125548,
+      "word": "王星越对吴谨言说眼线无处不在",
+      "onboard_time": 1718416637,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 122928,
@@ -635,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118109,
+      "num": 118109,
+      "word": "四级",
+      "onboard_time": 1718409677,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 117651,
       "num": 212537,
       "word": "第一次在鱼脸上看到了无语的表情",
@@ -659,6 +755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115379,
+      "num": 113523,
+      "word": "袁娅维80舞台简直易如反掌",
+      "onboard_time": 1718418558,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115342,
       "num": 115342,
       "word": "行政叫我以后不要穿睡裤上班",
@@ -667,8 +771,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114564,
+      "num": 114564,
+      "word": "小伞红温",
+      "onboard_time": 1718417417,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113904,
-      "num": 113904,
+      "num": 114756,
       "word": "国家级旅游度假区是哪85家",
       "onboard_time": 1718415317,
       "rank": 41,
@@ -707,19 +819,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 107808,
-      "num": 107808,
-      "word": "花30块钱给自己周六买个早八",
-      "onboard_time": 1718415317,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 107426,
       "num": 107426,
       "word": "NBA",
       "onboard_time": 1718414477,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106777,
+      "num": 106777,
+      "word": "阿根廷4比1危地马拉",
+      "onboard_time": 1718418616,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -785,6 +897,14 @@
       "onboard_time": 1718359759,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83944,
+      "num": 192534,
+      "word": "姜萍想考的浙大曾是她老师的梦想",
+      "onboard_time": 1718417897,
+      "rank": 23,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 78983,
@@ -923,6 +1043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44069,
+      "num": 229110,
+      "word": "被世界第二硬控了",
+      "onboard_time": 1718417178,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40842,
       "num": 79301,
       "word": "原来大学毕业后可以有这么多选择",
@@ -984,6 +1112,14 @@
       "word": "女儿高考后想打工妈妈劝其享受假期",
       "onboard_time": 1718389331,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10971,
+      "num": 443008,
+      "word": "多地通报数十亿医药虚开发票案",
+      "onboard_time": 1718418677,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
