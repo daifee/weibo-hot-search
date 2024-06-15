@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718450164354,
+  "endTime": 1718451313365,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3161,6 +3161,14 @@
       "onboard_time": 1717248498,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 920092,
+      "num": 920092,
+      "word": "周也和六公主碰拳",
+      "onboard_time": 1718450119,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 919562,
@@ -6467,6 +6475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 592359,
+      "num": 592359,
+      "word": "中式婚礼",
+      "onboard_time": 1718448198,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 592113,
       "num": 343820,
       "word": "金晨下衣失踪",
@@ -8387,6 +8403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 490498,
+      "num": 490498,
+      "word": "凡尔赛宫偶遇肖战",
+      "onboard_time": 1718449998,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 490343,
       "num": 490343,
       "word": "王星越好帅",
@@ -8689,14 +8713,6 @@
       "onboard_time": 1717634179,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 476720,
-      "num": 476720,
-      "word": "中式婚礼",
-      "onboard_time": 1718448198,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 476513,
@@ -9683,6 +9699,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 439145,
+      "num": 439145,
+      "word": "父母不让嫁的人一定不能嫁吗",
+      "onboard_time": 1718447420,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438881,
       "num": 438881,
       "word": "新二卷数学 看似简单不会做",
@@ -9713,14 +9737,6 @@
       "onboard_time": 1717858459,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 438273,
-      "num": 438273,
-      "word": "父母不让嫁的人一定不能嫁吗",
-      "onboard_time": 1718447420,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 438071,
@@ -13041,6 +13057,14 @@
       "onboard_time": 1718100618,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330560,
+      "num": 330560,
+      "word": "汪苏泷谈奢香夫人编曲",
+      "onboard_time": 1718449636,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 330296,
@@ -17107,6 +17131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245335,
+      "num": 245335,
+      "word": "黑龙江大庆发生一起交通事故5人遇难",
+      "onboard_time": 1718448079,
+      "rank": 19,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 245278,
       "num": 245278,
       "word": "福建地理",
@@ -17891,6 +17923,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 233544,
+      "num": 216329,
+      "word": "时代少年团在公园给贺峻霖庆生",
+      "onboard_time": 1718449278,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233492,
       "num": 233492,
       "word": "cube",
@@ -18513,14 +18553,6 @@
       "onboard_time": 1718416758,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224189,
-      "num": 224189,
-      "word": "黑龙江大庆发生一起交通事故5人遇难",
-      "onboard_time": 1718448079,
-      "rank": 19,
-      "category": "社会负面"
     },
     {
       "raw_hot": 223969,
@@ -20435,14 +20467,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205417,
-      "num": 205417,
-      "word": "汪苏泷谈奢香夫人编曲",
-      "onboard_time": 1718449636,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 205395,
       "num": 205395,
       "word": "Hero无畏断开连接",
@@ -20488,14 +20512,6 @@
       "word": "丁泽仁去当拆卡博主了",
       "onboard_time": 1718262918,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 205181,
-      "num": 205181,
-      "word": "凡尔赛宫偶遇肖战",
-      "onboard_time": 1718449998,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -20817,14 +20833,6 @@
       "onboard_time": 1718176101,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203379,
-      "num": 203379,
-      "word": "时代少年团在公园给贺峻霖庆生",
-      "onboard_time": 1718449278,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 203368,
@@ -24089,6 +24097,14 @@
       "onboard_time": 1718175140,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180730,
+      "num": 180730,
+      "word": "情侣高考结束后举行订婚宴",
+      "onboard_time": 1718450598,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180507,
@@ -34475,6 +34491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 117597,
+      "num": 117597,
+      "word": "张若昀户外巨幅海报",
+      "onboard_time": 1718450838,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 117555,
       "num": 117555,
       "word": "二建市政",
@@ -36187,6 +36211,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 107364,
+      "num": 448017,
+      "word": "大四女生实习转正能拿8个月年终奖",
+      "onboard_time": 1718446339,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107359,
       "num": 570338,
       "word": "人生可以大错特错",
@@ -37003,14 +37035,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100630,
-      "num": 100630,
-      "word": "周也和六公主碰拳",
-      "onboard_time": 1718450119,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100584,
       "num": 100584,
       "word": "毛坦厂妈妈们穿旗袍雨中送考",
@@ -37169,14 +37193,6 @@
       "onboard_time": 1718033598,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99017,
-      "num": 448017,
-      "word": "大四女生实习转正能拿8个月年终奖",
-      "onboard_time": 1718446339,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98821,
@@ -42649,6 +42665,14 @@
       "onboard_time": 1717351333,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26837,
+      "num": 464598,
+      "word": "姜萍不放弃的精神比成绩更可贵",
+      "onboard_time": 1718450478,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26755,
