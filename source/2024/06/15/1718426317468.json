@@ -1,0 +1,410 @@
+{
+  "runTime": 1718426317468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6075871,
+        "num": 6075871,
+        "word": "四级答案",
+        "onboard_time": 1718422519,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1321257,
+        "num": 1321257,
+        "word": "四级翻译 四合院",
+        "onboard_time": 1718422519,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 47977,
+        "num": 1294362,
+        "word": "长三角开行超级环线高铁",
+        "onboard_time": 1718425639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291028,
+        "num": 1291028,
+        "word": "炫迈致歉",
+        "onboard_time": 1718424739,
+        "rank": 3,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 695060,
+        "num": 695060,
+        "word": "四级 霉霉",
+        "onboard_time": 1718424679,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 687466,
+        "num": 687466,
+        "word": "canteen我恨你",
+        "onboard_time": 1718423120,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 646429,
+        "num": 646429,
+        "word": "严浩翔 炫迈",
+        "onboard_time": 1718421978,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559497,
+        "num": 559497,
+        "word": "四级作文",
+        "onboard_time": 1718422037,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 507255,
+        "num": 507255,
+        "word": "四级作文 开放设施",
+        "onboard_time": 1718422580,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51165,
+        "num": 449874,
+        "word": "苍山上空彩云飘",
+        "onboard_time": 1718425998,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1272309,
+        "num": 448448,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446979,
+        "num": 446979,
+        "word": "庄国栋被删了方协文上桌了",
+        "onboard_time": 1718420657,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439494,
+        "num": 439494,
+        "word": "TFBOYS发文为王俊凯新片打call",
+        "onboard_time": 1718422580,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92989,
+        "num": 436419,
+        "word": "想念陈红军陈祥榕肖思远王焯冉",
+        "onboard_time": 1718421738,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25142,
+        "num": 434580,
+        "word": "饿了么免单改踢球了",
+        "onboard_time": 1718425458,
+        "rank": 14,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 434166,
+        "num": 434166,
+        "word": "四级",
+        "onboard_time": 1718409677,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 46094,
+        "num": 422682,
+        "word": "克洛泽国内首次直播",
+        "onboard_time": 1718423060,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420620,
+        "num": 420620,
+        "word": "尚雯婕是歌手赛制最大受害者",
+        "onboard_time": 1718425099,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349881,
+        "num": 349881,
+        "word": "这英否认背刺那英",
+        "onboard_time": 1718425519,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341984,
+        "num": 341984,
+        "word": "刘奔回应因姜萍走红",
+        "onboard_time": 1718422880,
+        "rank": 19,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 321832,
+        "num": 321832,
+        "word": "四级 花钱买早八",
+        "onboard_time": 1718376143,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314082,
+        "num": 314082,
+        "word": "村支书否认姜萍因家贫放弃读高中",
+        "onboard_time": 1718411717,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295809,
+        "num": 295809,
+        "word": "亲戚把订婚蛋糕整个拿走了",
+        "onboard_time": 1718419578,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291620,
+        "num": 291620,
+        "word": "焉栩嘉上岸了",
+        "onboard_time": 1718406735,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275216,
+        "num": 275216,
+        "word": "杭州女子孕期同房出血紧急就医",
+        "onboard_time": 1718406554,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261792,
+        "num": 261792,
+        "word": "四级作文题目",
+        "onboard_time": 1718422880,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261476,
+        "num": 261476,
+        "word": "四级听力已老实",
+        "onboard_time": 1718423179,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 261372,
+        "num": 261372,
+        "word": "歌手最好笑的图出现了",
+        "onboard_time": 1718424379,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253167,
+        "num": 253167,
+        "word": "六级翻译",
+        "onboard_time": 1718422339,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36205,
+        "num": 240406,
+        "word": "亚洲首富之子婚前百亿派对",
+        "onboard_time": 1718425818,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235383,
+        "num": 235383,
+        "word": "这跟肖战谈恋爱有什么区别",
+        "onboard_time": 1718415438,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225674,
+        "num": 225674,
+        "word": "杨超越话剧",
+        "onboard_time": 1718423240,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214038,
+        "num": 214038,
+        "word": "张若昀 京都手办出逃米兰",
+        "onboard_time": 1718422759,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210257,
+        "num": 210257,
+        "word": "突然觉得脚真的好可怜",
+        "onboard_time": 1718413338,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205038,
+        "num": 205038,
+        "word": "四级题目",
+        "onboard_time": 1718425579,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196516,
+        "num": 196516,
+        "word": "墨雨云间逃不开的原生家庭",
+        "onboard_time": 1718421797,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31685,
+        "num": 189699,
+        "word": "重生之我在天猫抢大红包",
+        "onboard_time": 1718424259,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189625,
+        "num": 189625,
+        "word": "你好星期六全员神仙对决",
+        "onboard_time": 1718420178,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173612,
+        "num": 173612,
+        "word": "凯特王妃将公开露面",
+        "onboard_time": 1718413878,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 172124,
+        "num": 172124,
+        "word": "退钱哥退钱姐时隔十年重聚",
+        "onboard_time": 1718425939,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162604,
+        "num": 162604,
+        "word": "为什么坐高铁都喜欢选F位",
+        "onboard_time": 1718419098,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161445,
+        "num": 161445,
+        "word": "王心凌婉拒的是乘风不是歌手",
+        "onboard_time": 1718421917,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159252,
+        "num": 159252,
+        "word": "林更新演技",
+        "onboard_time": 1718413939,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154968,
+        "num": 154968,
+        "word": "光与夜之恋与炫迈停止合作",
+        "onboard_time": 1718423000,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154542,
+        "num": 154542,
+        "word": "3款韩国火鸡面因太辣在丹麦下架",
+        "onboard_time": 1718424379,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 150478,
+        "num": 150478,
+        "word": "六级",
+        "onboard_time": 1718410937,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148324,
+        "num": 148324,
+        "word": "六级作文",
+        "onboard_time": 1718423359,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143064,
+        "num": 143064,
+        "word": "沈腾马丽新片接班人计划",
+        "onboard_time": 1718419456,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141757,
+        "num": 141757,
+        "word": "四级阅读",
+        "onboard_time": 1718423839,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 84037,
+        "num": 138665,
+        "word": "高考填志愿前几个概念先搞明白",
+        "onboard_time": 1718424020,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力推进科技创新及其他各方面创新#"
+    }
+  }
+}

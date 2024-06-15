@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718425418671,
+  "endTime": 1718426317468,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -649,6 +649,14 @@
       "onboard_time": 1718274499,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1291028,
+      "num": 1291028,
+      "word": "炫迈致歉",
+      "onboard_time": 1718424739,
+      "rank": 5,
+      "category": "游戏,游戏"
     },
     {
       "raw_hot": 1290048,
@@ -1619,14 +1627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 799789,
-      "num": 799789,
-      "word": "炫迈致歉",
-      "onboard_time": 1718424739,
-      "rank": 5,
-      "category": "游戏,游戏"
-    },
-    {
       "raw_hot": 799417,
       "num": 746500,
       "word": "网传章子怡赵丽颖新综艺接档歌手",
@@ -2105,6 +2105,14 @@
       "onboard_time": 1718031559,
       "rank": 46,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 695060,
+      "num": 695060,
+      "word": "四级 霉霉",
+      "onboard_time": 1718424679,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 694856,
@@ -3547,14 +3555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 488772,
-      "num": 488772,
-      "word": "四级 霉霉",
-      "onboard_time": 1718424679,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 488636,
       "num": 488636,
       "word": "甘肃地震",
@@ -4385,6 +4385,14 @@
       "onboard_time": 1718191939,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 420620,
+      "num": 420620,
+      "word": "尚雯婕是歌手赛制最大受害者",
+      "onboard_time": 1718425099,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 420371,
@@ -5297,6 +5305,14 @@
       "onboard_time": 1718069837,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 349881,
+      "num": 349881,
+      "word": "这英否认背刺那英",
+      "onboard_time": 1718425519,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 349084,
@@ -6859,14 +6875,6 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 273022,
-      "num": 273022,
-      "word": "尚雯婕是歌手赛制最大受害者",
-      "onboard_time": 1718425099,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 272894,
       "num": 272894,
       "word": "成都雪山",
@@ -7347,6 +7355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253167,
+      "num": 253167,
+      "word": "六级翻译",
+      "onboard_time": 1718422339,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 252899,
       "num": 252899,
       "word": "为什么不上韦世豪",
@@ -7601,14 +7617,6 @@
       "onboard_time": 1718243657,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 244150,
-      "num": 244150,
-      "word": "六级翻译",
-      "onboard_time": 1718422339,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 244010,
@@ -9155,6 +9163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205038,
+      "num": 205038,
+      "word": "四级题目",
+      "onboard_time": 1718425579,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204997,
       "num": 573515,
       "word": "肃国公的鸳鸯肚兜挂在令妃娘娘身上",
@@ -9691,6 +9707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196516,
+      "num": 196516,
+      "word": "墨雨云间逃不开的原生家庭",
+      "onboard_time": 1718421797,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196282,
       "num": 196282,
       "word": "福宝你好",
@@ -9961,14 +9985,6 @@
       "onboard_time": 1718180059,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 192803,
-      "num": 192803,
-      "word": "墨雨云间逃不开的原生家庭",
-      "onboard_time": 1718421797,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 192482,
@@ -11225,6 +11241,14 @@
       "onboard_time": 1718375363,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 172124,
+      "num": 172124,
+      "word": "退钱哥退钱姐时隔十年重聚",
+      "onboard_time": 1718425939,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 171732,
@@ -14476,7 +14500,7 @@
     },
     {
       "raw_hot": 128928,
-      "num": 304123,
+      "num": 436419,
       "word": "想念陈红军陈祥榕肖思远王焯冉",
       "onboard_time": 1718421738,
       "rank": 18,
@@ -16979,6 +17003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84037,
+      "num": 659014,
+      "word": "高考填志愿前几个概念先搞明白",
+      "onboard_time": 1718424020,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 83925,
       "num": 243230,
       "word": "邓超请15万人吃螺蛳粉",
@@ -17907,14 +17939,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 52469,
-      "num": 659014,
-      "word": "高考填志愿前几个概念先搞明白",
-      "onboard_time": 1718424020,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 52450,
       "num": 551107,
       "word": "大三女生捐造血干细胞说没啥可犹豫的",
@@ -17977,6 +18001,14 @@
       "onboard_time": 1717946898,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 51165,
+      "num": 449874,
+      "word": "苍山上空彩云飘",
+      "onboard_time": 1718425998,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 50695,
@@ -18088,6 +18120,14 @@
       "word": "太空视角看中国供水大动脉10年之变",
       "onboard_time": 1718176039,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47977,
+      "num": 1294362,
+      "word": "长三角开行超级环线高铁",
+      "onboard_time": 1718425639,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -18211,6 +18251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46094,
+      "num": 424047,
+      "word": "克洛泽国内首次直播",
+      "onboard_time": 1718423060,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46038,
       "num": 46038,
       "word": "阿尔卡拉斯首夺法网冠军",
@@ -18249,14 +18297,6 @@
       "onboard_time": 1717953255,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45227,
-      "num": 424047,
-      "word": "克洛泽国内首次直播",
-      "onboard_time": 1718423060,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 45161,
@@ -18560,6 +18600,14 @@
       "word": "端午一家3口回家妈妈开心得像孩子",
       "onboard_time": 1717939038,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36205,
+      "num": 240406,
+      "word": "亚洲首富之子婚前百亿派对",
+      "onboard_time": 1718425818,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -18945,6 +18993,14 @@
       "onboard_time": 1718320274,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25142,
+      "num": 434580,
+      "word": "饿了么免单改踢球了",
+      "onboard_time": 1718425458,
+      "rank": 14,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 24920,

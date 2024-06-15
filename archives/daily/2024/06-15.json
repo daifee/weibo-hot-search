@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718425418671,
+  "endTime": 1718426317468,
   "band_list": [
     {
       "raw_hot": 6639747,
@@ -65,6 +65,14 @@
       "onboard_time": 1718362219,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1291028,
+      "num": 1291028,
+      "word": "炫迈致歉",
+      "onboard_time": 1718424739,
+      "rank": 5,
+      "category": "游戏,游戏"
     },
     {
       "raw_hot": 1251418,
@@ -147,14 +155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 799789,
-      "num": 799789,
-      "word": "炫迈致歉",
-      "onboard_time": 1718424739,
-      "rank": 5,
-      "category": "游戏,游戏"
-    },
-    {
       "raw_hot": 798300,
       "num": 798300,
       "word": "canteen我恨你",
@@ -193,6 +193,14 @@
       "onboard_time": 1718357120,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 695060,
+      "num": 695060,
+      "word": "四级 霉霉",
+      "onboard_time": 1718424679,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 691112,
@@ -315,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488772,
-      "num": 488772,
-      "word": "四级 霉霉",
-      "onboard_time": 1718424679,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 484542,
       "num": 484542,
       "word": "青岛一浴回应大三学生溺亡",
@@ -361,6 +361,14 @@
       "onboard_time": 1718376803,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420620,
+      "num": 420620,
+      "word": "尚雯婕是歌手赛制最大受害者",
+      "onboard_time": 1718425099,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 417117,
@@ -433,6 +441,14 @@
       "onboard_time": 1718374524,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349881,
+      "num": 349881,
+      "word": "这英否认背刺那英",
+      "onboard_time": 1718425519,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 347222,
@@ -515,14 +531,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 273022,
-      "num": 273022,
-      "word": "尚雯婕是歌手赛制最大受害者",
-      "onboard_time": 1718425099,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 267756,
       "num": 267756,
       "word": "歌手最好笑的图出现了",
@@ -537,6 +545,14 @@
       "onboard_time": 1718366958,
       "rank": 12,
       "category": "网红,互联网"
+    },
+    {
+      "raw_hot": 253167,
+      "num": 253167,
+      "word": "六级翻译",
+      "onboard_time": 1718422339,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 252890,
@@ -561,14 +577,6 @@
       "onboard_time": 1718413939,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244150,
-      "num": 244150,
-      "word": "六级翻译",
-      "onboard_time": 1718422339,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 243108,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205038,
+      "num": 205038,
+      "word": "四级题目",
+      "onboard_time": 1718425579,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 201289,
       "num": 201289,
       "word": "四级已老实求放过",
@@ -715,20 +731,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196516,
+      "num": 196516,
+      "word": "墨雨云间逃不开的原生家庭",
+      "onboard_time": 1718421797,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196162,
       "num": 196162,
       "word": "超热夏天可能真的要来了",
       "onboard_time": 1718420358,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192803,
-      "num": 192803,
-      "word": "墨雨云间逃不开的原生家庭",
-      "onboard_time": 1718421797,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 192116,
@@ -833,6 +849,14 @@
       "onboard_time": 1718419397,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172124,
+      "num": 172124,
+      "word": "退钱哥退钱姐时隔十年重聚",
+      "onboard_time": 1718425939,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 171673,
@@ -1020,7 +1044,7 @@
     },
     {
       "raw_hot": 128928,
-      "num": 304123,
+      "num": 436419,
       "word": "想念陈红军陈祥榕肖思远王焯冉",
       "onboard_time": 1718421738,
       "rank": 18,
@@ -1283,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84037,
+      "num": 659014,
+      "word": "高考填志愿前几个概念先搞明白",
+      "onboard_time": 1718424020,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 78983,
       "num": 163805,
       "word": "欧洲杯揭幕战德国队开门红",
@@ -1419,14 +1451,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 52469,
-      "num": 659014,
-      "word": "高考填志愿前几个概念先搞明白",
-      "onboard_time": 1718424020,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 51868,
       "num": 160818,
       "word": "小伙高考结束后仍5点起床跑步",
@@ -1435,7 +1459,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 45227,
+      "raw_hot": 51165,
+      "num": 449874,
+      "word": "苍山上空彩云飘",
+      "onboard_time": 1718425998,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 47977,
+      "num": 1294362,
+      "word": "长三角开行超级环线高铁",
+      "onboard_time": 1718425639,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46094,
       "num": 424047,
       "word": "克洛泽国内首次直播",
       "onboard_time": 1718423060,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1718386514,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 36205,
+      "num": 240406,
+      "word": "亚洲首富之子婚前百亿派对",
+      "onboard_time": 1718425818,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33210,
@@ -1497,6 +1545,14 @@
       "onboard_time": 1718418677,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25142,
+      "num": 434580,
+      "word": "饿了么免单改踢球了",
+      "onboard_time": 1718425458,
+      "rank": 14,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 21030,
