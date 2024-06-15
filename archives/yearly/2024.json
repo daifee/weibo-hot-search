@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718422491009,
+  "endTime": 1718425418671,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -953,6 +953,14 @@
       "onboard_time": 1712103392,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6639747,
+      "num": 6639747,
+      "word": "四级答案",
+      "onboard_time": 1718422519,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 6547480,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1709868634,
       "rank": 12,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 3155031,
-      "num": 2955797,
-      "word": "儿子跳楼自杀父亲想去代孕被女儿举报",
-      "onboard_time": 1715569340,
-      "rank": 1,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

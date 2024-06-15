@@ -1,7 +1,15 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718422491009,
+  "endTime": 1718425418671,
   "band_list": [
+    {
+      "raw_hot": 6639747,
+      "num": 6639747,
+      "word": "四级答案",
+      "onboard_time": 1718422519,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 1967468,
       "num": 1015144,
@@ -25,6 +33,14 @@
       "onboard_time": 1718370202,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1597628,
+      "num": 1597628,
+      "word": "四级翻译 四合院",
+      "onboard_time": 1718422519,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1438321,
@@ -107,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 916555,
+      "num": 916555,
+      "word": "四级作文",
+      "onboard_time": 1718422037,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 880066,
       "num": 861453,
       "word": "恋爱兄妹最终情侣",
@@ -116,18 +140,26 @@
     },
     {
       "raw_hot": 828240,
-      "num": 294752,
+      "num": 332360,
       "word": "亲戚把订婚蛋糕整个拿走了",
       "onboard_time": 1718419578,
       "rank": 20,
       "category": "幽默"
     },
     {
-      "raw_hot": 805212,
-      "num": 805212,
-      "word": "四级作文",
-      "onboard_time": 1718422037,
+      "raw_hot": 799789,
+      "num": 799789,
+      "word": "炫迈致歉",
+      "onboard_time": 1718424739,
       "rank": 5,
+      "category": "游戏,游戏"
+    },
+    {
+      "raw_hot": 798300,
+      "num": 798300,
+      "word": "canteen我恨你",
+      "onboard_time": 1718423120,
+      "rank": 6,
       "category": "教育"
     },
     {
@@ -171,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 675666,
+      "num": 675666,
+      "word": "四级作文 开放设施",
+      "onboard_time": 1718422580,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 674749,
       "num": 266668,
       "word": "赖冠霖 退圈",
@@ -185,6 +225,14 @@
       "onboard_time": 1718413338,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 657282,
+      "num": 657282,
+      "word": "严浩翔 炫迈",
+      "onboard_time": 1718421978,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 653631,
@@ -235,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 540994,
+      "num": 540994,
+      "word": "TFBOYS发文为王俊凯新片打call",
+      "onboard_time": 1718422580,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 521815,
       "num": 264816,
       "word": "那英 怎么又说你难听",
@@ -257,6 +313,14 @@
       "onboard_time": 1718420178,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 488772,
+      "num": 488772,
+      "word": "四级 霉霉",
+      "onboard_time": 1718424679,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 484542,
@@ -299,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417117,
+      "num": 417117,
+      "word": "刘奔回应因姜萍走红",
+      "onboard_time": 1718422880,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 406071,
       "num": 232194,
       "word": "工作后发现5000块真的挺难挣",
@@ -339,6 +411,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 382125,
+      "num": 382125,
+      "word": "四级作文题目",
+      "onboard_time": 1718422880,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 375973,
+      "num": 375973,
+      "word": "四级听力已老实",
+      "onboard_time": 1718423179,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 370161,
       "num": 370161,
       "word": "日本一女子患产后抑郁勒死三个女儿",
@@ -369,14 +457,6 @@
       "onboard_time": 1718365698,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324437,
-      "num": 324437,
-      "word": "严浩翔 炫迈",
-      "onboard_time": 1718421978,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 314198,
@@ -411,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 289303,
+      "num": 289303,
+      "word": "光与夜之恋与炫迈停止合作",
+      "onboard_time": 1718423000,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 280513,
       "num": 280513,
       "word": "电影野孩子定档暑期",
@@ -425,6 +513,22 @@
       "onboard_time": 1718407935,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 273022,
+      "num": 273022,
+      "word": "尚雯婕是歌手赛制最大受害者",
+      "onboard_time": 1718425099,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267756,
+      "num": 267756,
+      "word": "歌手最好笑的图出现了",
+      "onboard_time": 1718424379,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 254716,
@@ -459,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244150,
+      "num": 244150,
+      "word": "六级翻译",
+      "onboard_time": 1718422339,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 243108,
       "num": 271628,
       "word": "姜萍父亲回应女儿数学竞赛12名",
@@ -473,6 +585,14 @@
       "onboard_time": 1718418317,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 241745,
+      "num": 241745,
+      "word": "杨超越话剧",
+      "onboard_time": 1718423240,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 240903,
@@ -523,12 +643,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219874,
+      "num": 219874,
+      "word": "张若昀 京都手办出逃米兰",
+      "onboard_time": 1718422759,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 218994,
       "num": 218994,
       "word": "NBA总决赛",
       "onboard_time": 1718418199,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216821,
+      "num": 216821,
+      "word": "王俊凯滴泪哭戏",
+      "onboard_time": 1718424198,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 212068,
@@ -555,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201289,
+      "num": 201289,
+      "word": "四级已老实求放过",
+      "onboard_time": 1718424558,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200906,
       "num": 200906,
       "word": "独行侠1比3凯尔特人",
@@ -563,8 +707,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197493,
-      "num": 197493,
+      "raw_hot": 199377,
+      "num": 199377,
       "word": "为什么坐高铁都喜欢选F位",
       "onboard_time": 1718419098,
       "rank": 33,
@@ -577,6 +721,14 @@
       "onboard_time": 1718420358,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192803,
+      "num": 192803,
+      "word": "墨雨云间逃不开的原生家庭",
+      "onboard_time": 1718421797,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 192116,
@@ -611,12 +763,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 185335,
+      "num": 185335,
+      "word": "3款韩国火鸡面因太辣在丹麦下架",
+      "onboard_time": 1718424379,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 184962,
       "num": 184962,
       "word": "王力宏",
       "onboard_time": 1718412617,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181532,
+      "num": 181532,
+      "word": "四级阅读",
+      "onboard_time": 1718423839,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 180812,
@@ -633,6 +801,14 @@
       "onboard_time": 1718421498,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179950,
+      "num": 179950,
+      "word": "六级作文",
+      "onboard_time": 1718423359,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 179618,
@@ -755,28 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155940,
-      "num": 155940,
-      "word": "墨雨云间逃不开的原生家庭",
-      "onboard_time": 1718421797,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155928,
       "num": 155928,
       "word": "央视女主播神预测",
       "onboard_time": 1718413577,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154248,
-      "num": 154248,
-      "word": "六级翻译",
-      "onboard_time": 1718422339,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 152788,
@@ -1259,12 +1419,36 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 52469,
+      "num": 659014,
+      "word": "高考填志愿前几个概念先搞明白",
+      "onboard_time": 1718424020,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 51868,
       "num": 160818,
       "word": "小伙高考结束后仍5点起床跑步",
       "onboard_time": 1718412318,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45227,
+      "num": 424047,
+      "word": "克洛泽国内首次直播",
+      "onboard_time": 1718423060,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 41423,
+      "num": 199674,
+      "word": "重生之我在天猫抢大红包",
+      "onboard_time": 1718424259,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 40842,
@@ -1336,6 +1520,14 @@
       "word": "女儿高考后想打工妈妈劝其享受假期",
       "onboard_time": 1718389331,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10237,
+      "num": 1016781,
+      "word": "移轴镜头下插秧画卷有多可爱",
+      "onboard_time": 1718425279,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

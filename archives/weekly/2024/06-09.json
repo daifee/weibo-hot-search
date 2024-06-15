@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718422491009,
+  "endTime": 1718425418671,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -33,6 +33,14 @@
       "onboard_time": 1718348478,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6639747,
+      "num": 6639747,
+      "word": "四级答案",
+      "onboard_time": 1718422519,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 6547480,
@@ -377,6 +385,14 @@
       "onboard_time": 1717929438,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1597628,
+      "num": 1597628,
+      "word": "四级翻译 四合院",
+      "onboard_time": 1718422519,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1581573,
@@ -1347,6 +1363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 916555,
+      "num": 916555,
+      "word": "四级作文",
+      "onboard_time": 1718422037,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 912837,
       "num": 912837,
       "word": "双方都对这个吻感到恶心",
@@ -1500,7 +1524,7 @@
     },
     {
       "raw_hot": 828240,
-      "num": 294752,
+      "num": 332360,
       "word": "亲戚把订婚蛋糕整个拿走了",
       "onboard_time": 1718419578,
       "rank": 20,
@@ -1579,14 +1603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 805212,
-      "num": 805212,
-      "word": "四级作文",
-      "onboard_time": 1718422037,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
       "raw_hot": 801416,
       "num": 701237,
       "word": "三大扛剧女王",
@@ -1603,12 +1619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 799789,
+      "num": 799789,
+      "word": "炫迈致歉",
+      "onboard_time": 1718424739,
+      "rank": 5,
+      "category": "游戏,游戏"
+    },
+    {
       "raw_hot": 799417,
       "num": 746500,
       "word": "网传章子怡赵丽颖新综艺接档歌手",
       "onboard_time": 1718342297,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 798300,
+      "num": 798300,
+      "word": "canteen我恨你",
+      "onboard_time": 1718423120,
+      "rank": 6,
+      "category": "教育"
     },
     {
       "raw_hot": 798211,
@@ -2195,6 +2227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 675666,
+      "num": 675666,
+      "word": "四级作文 开放设施",
+      "onboard_time": 1718422580,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 674561,
       "num": 674561,
       "word": "我可以是你吗姐姐",
@@ -2305,6 +2345,14 @@
       "onboard_time": 1718018477,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 657282,
+      "num": 657282,
+      "word": "严浩翔 炫迈",
+      "onboard_time": 1718421978,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 657087,
@@ -2995,6 +3043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 540994,
+      "num": 540994,
+      "word": "TFBOYS发文为王俊凯新片打call",
+      "onboard_time": 1718422580,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 540731,
       "num": 527903,
       "word": "王传君拿错手机把志胜活儿拒了",
@@ -3489,6 +3545,14 @@
       "onboard_time": 1718024779,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 488772,
+      "num": 488772,
+      "word": "四级 霉霉",
+      "onboard_time": 1718424679,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 488636,
@@ -4355,6 +4419,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 417117,
+      "num": 417117,
+      "word": "刘奔回应因姜萍走红",
+      "onboard_time": 1718422880,
+      "rank": 16,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 417047,
       "num": 375735,
       "word": "吴谨言 女武一",
@@ -4771,6 +4843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 382125,
+      "num": 382125,
+      "word": "四级作文题目",
+      "onboard_time": 1718422880,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 381569,
       "num": 381569,
       "word": "男童被武术教练殴打致死案一审宣判",
@@ -4833,6 +4913,14 @@
       "onboard_time": 1718105359,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375973,
+      "num": 375973,
+      "word": "四级听力已老实",
+      "onboard_time": 1718423179,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 375968,
@@ -5691,14 +5779,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 324437,
-      "num": 324437,
-      "word": "严浩翔 炫迈",
-      "onboard_time": 1718421978,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 324152,
       "num": 324152,
       "word": "白月梵星",
@@ -6467,6 +6547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289303,
+      "num": 289303,
+      "word": "光与夜之恋与炫迈停止合作",
+      "onboard_time": 1718423000,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 289210,
       "num": 289210,
       "word": "白桃星座",
@@ -6771,6 +6859,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 273022,
+      "num": 273022,
+      "word": "尚雯婕是歌手赛制最大受害者",
+      "onboard_time": 1718425099,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272894,
       "num": 272894,
       "word": "成都雪山",
@@ -6920,6 +7016,14 @@
       "word": "花儿与少年好友记",
       "onboard_time": 1718080700,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267756,
+      "num": 267756,
+      "word": "歌手最好笑的图出现了",
+      "onboard_time": 1718424379,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -7499,6 +7603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 244150,
+      "num": 244150,
+      "word": "六级翻译",
+      "onboard_time": 1718422339,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244010,
       "num": 244010,
       "word": "国足致谢所有球迷",
@@ -7569,6 +7681,14 @@
       "onboard_time": 1718354420,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 241745,
+      "num": 241745,
+      "word": "杨超越话剧",
+      "onboard_time": 1718423240,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 241509,
@@ -8187,6 +8307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219874,
+      "num": 219874,
+      "word": "张若昀 京都手办出逃米兰",
+      "onboard_time": 1718422759,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 219824,
       "num": 233397,
       "word": "朱珠研究生毕业",
@@ -8345,6 +8473,14 @@
       "onboard_time": 1718002397,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 216821,
+      "num": 216821,
+      "word": "王俊凯滴泪哭戏",
+      "onboard_time": 1718424198,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 216819,
@@ -9283,6 +9419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201289,
+      "num": 201289,
+      "word": "四级已老实求放过",
+      "onboard_time": 1718424558,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 201087,
       "num": 201087,
       "word": "刘亦菲一个人的分手戏",
@@ -9385,6 +9529,14 @@
       "onboard_time": 1717944558,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 199377,
+      "num": 199377,
+      "word": "为什么坐高铁都喜欢选F位",
+      "onboard_time": 1718419098,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 199371,
@@ -9513,14 +9665,6 @@
       "onboard_time": 1718334978,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197493,
-      "num": 197493,
-      "word": "为什么坐高铁都喜欢选F位",
-      "onboard_time": 1718419098,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 196711,
@@ -9817,6 +9961,14 @@
       "onboard_time": 1718180059,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192803,
+      "num": 192803,
+      "word": "墨雨云间逃不开的原生家庭",
+      "onboard_time": 1718421797,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 192482,
@@ -10315,6 +10467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185335,
+      "num": 185335,
+      "word": "3款韩国火鸡面因太辣在丹麦下架",
+      "onboard_time": 1718424379,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185332,
       "num": 185332,
       "word": "甘望星因为跑得快被大学特招",
@@ -10539,6 +10699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181532,
+      "num": 181532,
+      "word": "四级阅读",
+      "onboard_time": 1718423839,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181389,
       "num": 181389,
       "word": "王源已读乱回",
@@ -10625,6 +10793,14 @@
       "onboard_time": 1718090418,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179950,
+      "num": 179950,
+      "word": "六级作文",
+      "onboard_time": 1718423359,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 179935,
@@ -12211,14 +12387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155940,
-      "num": 155940,
-      "word": "墨雨云间逃不开的原生家庭",
-      "onboard_time": 1718421797,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155928,
       "num": 155928,
       "word": "央视女主播神预测",
@@ -12345,14 +12513,6 @@
       "onboard_time": 1718326577,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154248,
-      "num": 154248,
-      "word": "六级翻译",
-      "onboard_time": 1718422339,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 154072,
@@ -17747,6 +17907,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52469,
+      "num": 659014,
+      "word": "高考填志愿前几个概念先搞明白",
+      "onboard_time": 1718424020,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 52450,
       "num": 551107,
       "word": "大三女生捐造血干细胞说没啥可犹豫的",
@@ -18083,6 +18251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45227,
+      "num": 424047,
+      "word": "克洛泽国内首次直播",
+      "onboard_time": 1718423060,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45161,
       "num": 141055,
       "word": "淘宝回应摇猫参赛",
@@ -18201,6 +18377,14 @@
       "onboard_time": 1718011818,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 41423,
+      "num": 199674,
+      "word": "重生之我在天猫抢大红包",
+      "onboard_time": 1718424259,
+      "rank": 37,
+      "category": "互联网"
     },
     {
       "raw_hot": 41366,
@@ -19217,6 +19401,14 @@
       "onboard_time": 1717867814,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 10237,
+      "num": 1016781,
+      "word": "移轴镜头下插秧画卷有多可爱",
+      "onboard_time": 1718425279,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9490,
