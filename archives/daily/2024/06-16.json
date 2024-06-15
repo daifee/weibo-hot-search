@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718471833744,
+  "endTime": 1718472864903,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -27,8 +27,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 581497,
-      "num": 581497,
+      "raw_hot": 655907,
+      "num": 655907,
       "word": "邓超终于上了影帝大号",
       "onboard_time": 1718470335,
       "rank": 0,
@@ -112,6 +112,14 @@
       "word": "还是低估了墨雨云间的爽",
       "onboard_time": 1718454377,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236922,
+      "num": 84350,
+      "word": "吴谨言上了郝蕾表演课后逆袭",
+      "onboard_time": 1718471475,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -203,14 +211,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 153941,
-      "num": 66891,
-      "word": "吴谨言上了郝蕾表演课后逆袭",
-      "onboard_time": 1718471475,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142164,
       "num": 142164,
       "word": "赖冠霖 退圈信",
@@ -297,6 +297,14 @@
       "onboard_time": 1718459118,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 105800,
+      "num": 105800,
+      "word": "世界杯",
+      "onboard_time": 1718470755,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 104250,
@@ -395,14 +403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77818,
-      "num": 77818,
-      "word": "世界杯",
-      "onboard_time": 1718470755,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 77781,
       "num": 124327,
       "word": "斗破苍穹",
@@ -443,6 +443,22 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 46426,
+      "num": 46426,
+      "word": "学校回应男生39天减重斤20斤后猝死",
+      "onboard_time": 1718472494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42120,
+      "num": 46423,
+      "word": "aespa被清票两万",
+      "onboard_time": 1718472554,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 41901,
       "num": 464103,
       "word": "来自嫦娥六号神秘包裹请注意查收",
@@ -467,7 +483,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 12618,
+      "raw_hot": 13283,
+      "num": 66803,
+      "word": "独臂爸爸陪女儿玩石头剪刀布",
+      "onboard_time": 1718472794,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12630,
       "num": 197560,
       "word": "对爸爸说我爱你被当电信诈骗",
       "onboard_time": 1718470936,

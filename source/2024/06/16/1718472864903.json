@@ -1,0 +1,410 @@
+{
+  "runTime": 1718472864903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 655907,
+        "num": 655907,
+        "word": "邓超终于上了影帝大号",
+        "onboard_time": 1718470335,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420544,
+        "num": 420544,
+        "word": "女子长期乏力全家查出吸血鬼病基因",
+        "onboard_time": 1718459418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22218,
+        "num": 359637,
+        "word": "来自嫦娥六号神秘包裹请注意查收",
+        "onboard_time": 1718459779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318040,
+        "num": 318040,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317668,
+        "num": 317668,
+        "word": "欧洲杯",
+        "onboard_time": 1718453357,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 789585,
+        "num": 312276,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296525,
+        "num": 296525,
+        "word": "谢可寅 我再也不相信你了李斯丹妮",
+        "onboard_time": 1718466557,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289644,
+        "num": 289644,
+        "word": "熬夜看球前建议先睡一觉",
+        "onboard_time": 1718466497,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206439,
+        "num": 206439,
+        "word": "10元手冲咖啡阿姨回应不火了",
+        "onboard_time": 1718456418,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166199,
+        "num": 166199,
+        "word": "情侣高考结束后举行订婚宴",
+        "onboard_time": 1718450598,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138851,
+        "num": 138851,
+        "word": "周也和六公主碰拳",
+        "onboard_time": 1718450119,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131048,
+        "num": 131048,
+        "word": "还是低估了墨雨云间的爽",
+        "onboard_time": 1718454377,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127912,
+        "num": 127912,
+        "word": "种地吧",
+        "onboard_time": 1718467879,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127395,
+        "num": 127395,
+        "word": "中国女排3比2土耳其女排",
+        "onboard_time": 1718462900,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120272,
+        "num": 120272,
+        "word": "王星越 想谈系",
+        "onboard_time": 1718460379,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12630,
+        "num": 112839,
+        "word": "对爸爸说我爱你被当电信诈骗",
+        "onboard_time": 1718470936,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105800,
+        "num": 105800,
+        "word": "世界杯",
+        "onboard_time": 1718470755,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101365,
+        "num": 101365,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98133,
+        "num": 98133,
+        "word": "张常宁好牛",
+        "onboard_time": 1718459838,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84775,
+        "num": 84775,
+        "word": "凯特公开露面",
+        "onboard_time": 1718444840,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 236922,
+        "num": 84350,
+        "word": "吴谨言上了郝蕾表演课后逆袭",
+        "onboard_time": 1718471475,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117204,
+        "num": 83961,
+        "word": "雌激素降低确实会催人老",
+        "onboard_time": 1718463019,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 111774,
+        "num": 83819,
+        "word": "保持饥饿感有助于延缓衰老",
+        "onboard_time": 1718467577,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92441,
+        "num": 83225,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1718462420,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86825,
+        "num": 83051,
+        "word": "蔡依林无人机应援",
+        "onboard_time": 1718461459,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82635,
+        "num": 82635,
+        "word": "许嵩 谢谢你在3650万首歌里听到我",
+        "onboard_time": 1718463259,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80043,
+        "num": 80043,
+        "word": "张杰雨中唱跳",
+        "onboard_time": 1718459118,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77163,
+        "num": 77163,
+        "word": "荣梓杉成年了衬衫可以开大点",
+        "onboard_time": 1718461759,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75216,
+        "num": 75216,
+        "word": "中式婚礼",
+        "onboard_time": 1718448198,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13283,
+        "num": 66803,
+        "word": "独臂爸爸陪女儿玩石头剪刀布",
+        "onboard_time": 1718472794,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60525,
+        "num": 60525,
+        "word": "十个勤天二开",
+        "onboard_time": 1718448017,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60250,
+        "num": 60250,
+        "word": "会长是女仆大人 双强情侣",
+        "onboard_time": 1718455999,
+        "rank": 31,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 59659,
+        "num": 59659,
+        "word": "沈腾说我穿什么都配不上马丽",
+        "onboard_time": 1718456658,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56876,
+        "num": 56876,
+        "word": "彭昱畅瘦了好多",
+        "onboard_time": 1718454619,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56423,
+        "num": 56423,
+        "word": "周也拿了六公主手里的糖",
+        "onboard_time": 1718451978,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56311,
+        "num": 56311,
+        "word": "张艺兴现场",
+        "onboard_time": 1718451436,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55599,
+        "num": 55599,
+        "word": "许嵩内线首唱",
+        "onboard_time": 1718458999,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54673,
+        "num": 54673,
+        "word": "王媛媛神级发挥",
+        "onboard_time": 1718464219,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54533,
+        "num": 54533,
+        "word": "考研上岸后亲戚发朋友圈阴阳我",
+        "onboard_time": 1718451796,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50854,
+        "num": 52646,
+        "word": "六级答案",
+        "onboard_time": 1718444420,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 52270,
+        "num": 52270,
+        "word": "翔霖",
+        "onboard_time": 1718460799,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52239,
+        "num": 52239,
+        "word": "排球少年电影",
+        "onboard_time": 1718454377,
+        "rank": 41,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 50595,
+        "num": 50595,
+        "word": "周深回应孙楠唱人是",
+        "onboard_time": 1718462720,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 49759,
+        "num": 49759,
+        "word": "王星越也打卡了吴谨言",
+        "onboard_time": 1718457198,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49322,
+        "num": 49322,
+        "word": "陈丽君选陈昊宇演梁祝",
+        "onboard_time": 1718464459,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48507,
+        "num": 49308,
+        "word": "王老师",
+        "onboard_time": 1718458699,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49308,
+        "num": 49307,
+        "word": "泰国大学生诱拐20名女性",
+        "onboard_time": 1718460139,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48987,
+        "num": 48987,
+        "word": "摩羯座真正的追求",
+        "onboard_time": 1718457139,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46426,
+        "num": 46426,
+        "word": "学校回应男生39天减重斤20斤后猝死",
+        "onboard_time": 1718472494,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42120,
+        "num": 46423,
+        "word": "aespa被清票两万",
+        "onboard_time": 1718472554,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺拉马福萨当选连任南非总统#"
+    }
+  }
+}
