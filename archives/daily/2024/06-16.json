@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718482851822,
+  "endTime": 1718483699871,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74282,
+      "num": 37059,
+      "word": "外卖小哥回应酷似易烊千玺",
+      "onboard_time": 1718479631,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64883,
       "num": 124413,
       "word": "今晚朱婷不首发",
@@ -441,14 +449,6 @@
       "onboard_time": 1718472494,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64158,
-      "num": 36114,
-      "word": "外卖小哥回应酷似易烊千玺",
-      "onboard_time": 1718479631,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 63084,
@@ -507,8 +507,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 27196,
-      "num": 27196,
+      "raw_hot": 34788,
+      "num": 34788,
       "word": "当事人回应在高考后订婚",
       "onboard_time": 1718480771,
       "rank": 15,
@@ -531,7 +531,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20385,
+      "raw_hot": 20531,
       "num": 26124,
       "word": "牛津Kate朱朱谈姜萍",
       "onboard_time": 1718478791,

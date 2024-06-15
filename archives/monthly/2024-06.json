@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718482851822,
+  "endTime": 1718483699871,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -39611,6 +39611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74282,
+      "num": 37059,
+      "word": "外卖小哥回应酷似易烊千玺",
+      "onboard_time": 1718479631,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74216,
       "num": 74216,
       "word": "洪涛回来了",
@@ -40353,14 +40361,6 @@
       "onboard_time": 1717775839,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 64158,
-      "num": 36114,
-      "word": "外卖小哥回应酷似易烊千玺",
-      "onboard_time": 1718479631,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 64121,
@@ -42827,6 +42827,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 34788,
+      "num": 34788,
+      "word": "当事人回应在高考后订婚",
+      "onboard_time": 1718480771,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34706,
       "num": 344871,
       "word": "三夏时节农田里的动画片",
@@ -43411,14 +43419,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 27196,
-      "num": 27196,
-      "word": "当事人回应在高考后订婚",
-      "onboard_time": 1718480771,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 27127,
       "num": 72386,
       "word": "打喷嚏为什么总是闭眼",
@@ -43891,20 +43891,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 20531,
+      "num": 26124,
+      "word": "牛津Kate朱朱谈姜萍",
+      "onboard_time": 1718478791,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20390,
       "num": 31704,
       "word": "恋爱兄妹李龙宇out",
       "onboard_time": 1717183391,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20385,
-      "num": 26124,
-      "word": "牛津Kate朱朱谈姜萍",
-      "onboard_time": 1718478791,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20352,
