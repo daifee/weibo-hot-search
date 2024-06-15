@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718465661828,
+  "endTime": 1718468627278,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -5107,6 +5107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 691788,
+      "num": 246567,
+      "word": "雌激素降低确实会催人老",
+      "onboard_time": 1718463019,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 690029,
       "num": 214984,
       "word": "张翰当伴郎",
@@ -9251,14 +9259,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 458944,
-      "num": 246567,
-      "word": "雌激素降低确实会催人老",
-      "onboard_time": 1718463019,
-      "rank": 20,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 458616,
       "num": 458616,
       "word": "赵露思陈伟霆 许我耀眼",
@@ -12129,6 +12129,14 @@
       "onboard_time": 1718071938,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 359323,
+      "num": 319438,
+      "word": "谢可寅 我再也不相信你了李斯丹妮",
+      "onboard_time": 1718466557,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 359278,
@@ -15819,6 +15827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 272728,
+      "num": 272728,
+      "word": "熬夜看球前建议先睡一觉",
+      "onboard_time": 1718466497,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272634,
       "num": 225015,
       "word": "庄国栋是最后的赢家吗",
@@ -18747,6 +18763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 224655,
+      "num": 224655,
+      "word": "林俊杰jj20世界巡回演唱会",
+      "onboard_time": 1718462420,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224643,
       "num": 215802,
       "word": "台湾网友花式催更庆余年3",
@@ -20921,14 +20945,6 @@
       "onboard_time": 1717326679,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204419,
-      "num": 204419,
-      "word": "林俊杰jj20世界巡回演唱会",
-      "onboard_time": 1718462420,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 204363,
@@ -23889,6 +23905,14 @@
       "onboard_time": 1718286619,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185693,
+      "num": 146625,
+      "word": "保持饥饿感有助于延缓衰老",
+      "onboard_time": 1718467577,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 185691,
@@ -38787,6 +38811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 84440,
+      "num": 124732,
+      "word": "吴彦祖刘昊然同框",
+      "onboard_time": 1718465539,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84373,
       "num": 84373,
       "word": "发现领导偷偷用我的信息点外卖",
@@ -40385,6 +40417,14 @@
       "onboard_time": 1717863496,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62678,
+      "num": 124327,
+      "word": "斗破苍穹",
+      "onboard_time": 1718468477,
+      "rank": 49,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 62634,
@@ -43721,6 +43761,14 @@
       "onboard_time": 1717423219,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21074,
+      "num": 281691,
+      "word": "军校女学员笑着说要去戍边",
+      "onboard_time": 1718467338,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21030,
