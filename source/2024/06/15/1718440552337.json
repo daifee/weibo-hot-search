@@ -1,0 +1,410 @@
+{
+  "runTime": 1718440552337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305172,
+        "num": 1305172,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1206628,
+        "num": 1206628,
+        "word": "姜萍若上哈佛不用担心学费",
+        "onboard_time": 1718438179,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 36307,
+        "num": 911108,
+        "word": "我国载人登月运载火箭迎进展",
+        "onboard_time": 1718439857,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 837110,
+        "num": 837110,
+        "word": "炫迈致歉",
+        "onboard_time": 1718424739,
+        "rank": 3,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 679945,
+        "num": 679945,
+        "word": "凯特王妃",
+        "onboard_time": 1718433557,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 474088,
+        "num": 474088,
+        "word": "丁太升说孙楠唱了个什么玩意儿",
+        "onboard_time": 1718433557,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373840,
+        "num": 373840,
+        "word": "四级答案",
+        "onboard_time": 1718422519,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 371436,
+        "num": 371436,
+        "word": "孩子用离世母亲账户买球星卡欠9万",
+        "onboard_time": 1718430799,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366772,
+        "num": 366772,
+        "word": "G7要求俄向乌克兰赔偿超4860亿美元",
+        "onboard_time": 1718434637,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 334460,
+        "num": 366656,
+        "word": "章子怡2.0",
+        "onboard_time": 1718436198,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416755,
+        "num": 366656,
+        "word": "男子卧铺车上脱衣面对女乘客裸睡",
+        "onboard_time": 1718430197,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366656,
+        "num": 366655,
+        "word": "北大说数学院的志愿代码是001号",
+        "onboard_time": 1718437638,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 335011,
+        "num": 335011,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327215,
+        "num": 327215,
+        "word": "汪苏泷听到排名第六的反应",
+        "onboard_time": 1718429779,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286216,
+        "num": 286216,
+        "word": "王星越发了11个萧蘅专属表情",
+        "onboard_time": 1718434999,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282084,
+        "num": 282084,
+        "word": "清华教授谈姜萍",
+        "onboard_time": 1718427858,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 79039,
+        "num": 268072,
+        "word": "CEO的终点是自己卖车吗",
+        "onboard_time": 1718438538,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266063,
+        "num": 266063,
+        "word": "杨梅里的虫子已老实",
+        "onboard_time": 1718435717,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262045,
+        "num": 262045,
+        "word": "前夫哥恶母换乘发癫",
+        "onboard_time": 1718437397,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56634,
+        "num": 261730,
+        "word": "山东大哥回应救人回家紧抱老婆",
+        "onboard_time": 1718436738,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513367,
+        "num": 248940,
+        "word": "人能活多久看头发就能知道吗",
+        "onboard_time": 1718434157,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 380006,
+        "num": 241285,
+        "word": "25岁了还在追星",
+        "onboard_time": 1718438597,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330439,
+        "num": 237123,
+        "word": "长春一幼儿园被指办幼儿集体婚礼",
+        "onboard_time": 1718430979,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230423,
+        "num": 230423,
+        "word": "马龙回应无缘奥运单打",
+        "onboard_time": 1718433617,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180667,
+        "num": 180667,
+        "word": "福宝场地疑似掉落不明物体",
+        "onboard_time": 1718427619,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152674,
+        "num": 152674,
+        "word": "美院毕设被小孩破坏",
+        "onboard_time": 1718438478,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146346,
+        "num": 146346,
+        "word": "油腻和胖瘦无关和演技有关",
+        "onboard_time": 1718439618,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142480,
+        "num": 142480,
+        "word": "央视曝光机票退改签新骗局",
+        "onboard_time": 1718434878,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28179,
+        "num": 140985,
+        "word": "高温预警清凉单品成热销主力军",
+        "onboard_time": 1718438838,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139847,
+        "num": 139847,
+        "word": "高考志愿填报选专业还是选学校",
+        "onboard_time": 1718431278,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 183013,
+        "num": 139830,
+        "word": "在简历上作假却加入了真正的团队",
+        "onboard_time": 1718438898,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76628,
+        "num": 139728,
+        "word": "高考志愿填报时优先考虑什么",
+        "onboard_time": 1718438417,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 139717,
+        "num": 139717,
+        "word": "王星越点赞菲常萧张cp粉",
+        "onboard_time": 1718439798,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132503,
+        "num": 132503,
+        "word": "尚雯婕是歌手赛制最大受害者",
+        "onboard_time": 1718425099,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126489,
+        "num": 126489,
+        "word": "美国13岁女孩公园遭歹徒性侵",
+        "onboard_time": 1718433378,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126104,
+        "num": 126104,
+        "word": "韩国住户刁难快递员享恶果",
+        "onboard_time": 1718434279,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124337,
+        "num": 124337,
+        "word": "墨雨云间27",
+        "onboard_time": 1718433797,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122576,
+        "num": 122576,
+        "word": "欧洲杯预测",
+        "onboard_time": 1718434757,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121843,
+        "num": 121843,
+        "word": "幼态宝宝牙",
+        "onboard_time": 1718434580,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121424,
+        "num": 121424,
+        "word": "菜刀上的孔是干嘛用的",
+        "onboard_time": 1718436436,
+        "rank": 39,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 120338,
+        "num": 120338,
+        "word": "蔡徐坤又比1了",
+        "onboard_time": 1718426719,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110479,
+        "num": 110479,
+        "word": "00后真的有在认真找工作",
+        "onboard_time": 1718437878,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105026,
+        "num": 105026,
+        "word": "亚洲首富之子婚前百亿派对",
+        "onboard_time": 1718425818,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103818,
+        "num": 103818,
+        "word": "庄国栋被删了方协文上桌了",
+        "onboard_time": 1718420657,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102211,
+        "num": 102211,
+        "word": "特朗普过生日拜登送损礼",
+        "onboard_time": 1718440397,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 102017,
+        "num": 102017,
+        "word": "武大靖被东北师大拟录取博士",
+        "onboard_time": 1718440458,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100299,
+        "num": 100299,
+        "word": "古茗",
+        "onboard_time": 1718434398,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99987,
+        "num": 99987,
+        "word": "给南方朋友一点北方夜市的震撼",
+        "onboard_time": 1718439017,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98247,
+        "num": 98247,
+        "word": "墨雨云间纯爱变祸害",
+        "onboard_time": 1718435958,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93547,
+        "num": 93547,
+        "word": "光与夜之恋称炫迈不同意公开致歉",
+        "onboard_time": 1718428518,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的赤子之心#"
+    }
+  }
+}
