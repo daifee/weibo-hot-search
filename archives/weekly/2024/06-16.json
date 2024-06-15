@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718487277317,
+  "endTime": 1718489867826,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125929,
+      "num": 54659,
+      "word": "当事人回应在高考后订婚",
+      "onboard_time": 1718480771,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125347,
       "num": 125347,
       "word": "中国女排晋级世联赛总决赛",
@@ -321,6 +329,14 @@
       "onboard_time": 1718451796,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99657,
+      "num": 99657,
+      "word": "外卖小哥回应酷似易烊千玺",
+      "onboard_time": 1718479631,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 98190,
@@ -427,22 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74977,
-      "num": 40284,
-      "word": "当事人回应在高考后订婚",
-      "onboard_time": 1718480771,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74282,
-      "num": 39520,
-      "word": "外卖小哥回应酷似易烊千玺",
-      "onboard_time": 1718479631,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64883,
       "num": 124413,
       "word": "今晚朱婷不首发",
@@ -473,6 +473,14 @@
       "onboard_time": 1718454377,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 52426,
+      "num": 52426,
+      "word": "沈腾说心中最好的女演员是马丽",
+      "onboard_time": 1718484612,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 46576,
@@ -515,6 +523,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 28870,
+      "num": 28870,
+      "word": "看得出宝宝是真的公主",
+      "onboard_time": 1718488030,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 27072,
+      "num": 25582,
+      "word": "师生十年后相聚歌手双双离场",
+      "onboard_time": 1718489051,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26453,
       "num": 187217,
       "word": "一句话表白老爸",
@@ -531,15 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25131,
-      "num": 25131,
-      "word": "沈腾说心中最好的女演员是马丽",
-      "onboard_time": 1718484612,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 20531,
+      "raw_hot": 20959,
       "num": 26124,
       "word": "牛津Kate朱朱谈姜萍",
       "onboard_time": 1718478791,
@@ -555,19 +571,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15098,
+      "num": 20951,
+      "word": "陈祥榕妈妈曾问儿子勇不勇敢",
+      "onboard_time": 1718485870,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13283,
       "num": 66803,
       "word": "独臂爸爸陪女儿玩石头剪刀布",
       "onboard_time": 1718472794,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13155,
-      "num": 16398,
-      "word": "陈祥榕妈妈曾问儿子勇不勇敢",
-      "onboard_time": 1718485870,
-      "rank": 48,
       "category": "社会新闻"
     },
     {

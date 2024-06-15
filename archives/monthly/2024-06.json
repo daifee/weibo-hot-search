@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718487277317,
+  "endTime": 1718489867826,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -33731,6 +33731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125929,
+      "num": 54659,
+      "word": "当事人回应在高考后订婚",
+      "onboard_time": 1718480771,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125858,
       "num": 125858,
       "word": "东契奇防守",
@@ -37779,6 +37787,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99657,
+      "num": 99657,
+      "word": "外卖小哥回应酷似易烊千玺",
+      "onboard_time": 1718479631,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99643,
       "num": 322510,
       "word": "小儿青少年也会有妇科病",
@@ -39547,14 +39563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74977,
-      "num": 40284,
-      "word": "当事人回应在高考后订婚",
-      "onboard_time": 1718480771,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74965,
       "num": 133992,
       "word": "巡逻路上战士滑倒仍紧握国旗",
@@ -39617,14 +39625,6 @@
       "onboard_time": 1717559118,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74282,
-      "num": 39520,
-      "word": "外卖小哥回应酷似易烊千玺",
-      "onboard_time": 1718479631,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 74216,
@@ -41409,6 +41409,14 @@
       "onboard_time": 1717361291,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 52426,
+      "num": 52426,
+      "word": "沈腾说心中最好的女演员是马丽",
+      "onboard_time": 1718484612,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 52391,
@@ -43339,6 +43347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28870,
+      "num": 28870,
+      "word": "看得出宝宝是真的公主",
+      "onboard_time": 1718488030,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28751,
       "num": 201409,
       "word": "谁还没收到淘宝摇猫短信",
@@ -43425,6 +43441,14 @@
       "onboard_time": 1718299874,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 27072,
+      "num": 25582,
+      "word": "师生十年后相聚歌手双双离场",
+      "onboard_time": 1718489051,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 27028,
@@ -43617,14 +43641,6 @@
       "onboard_time": 1718425458,
       "rank": 14,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 25131,
-      "num": 25131,
-      "word": "沈腾说心中最好的女演员是马丽",
-      "onboard_time": 1718484612,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 25029,
@@ -43875,6 +43891,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 20959,
+      "num": 26124,
+      "word": "牛津Kate朱朱谈姜萍",
+      "onboard_time": 1718478791,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20958,
       "num": 117308,
       "word": "老师写逢考必过霸气一笔收尾引欢呼",
@@ -43897,14 +43921,6 @@
       "onboard_time": 1717878371,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 20531,
-      "num": 26124,
-      "word": "牛津Kate朱朱谈姜萍",
-      "onboard_time": 1718478791,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20390,
@@ -44259,6 +44275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15098,
+      "num": 20951,
+      "word": "陈祥榕妈妈曾问儿子勇不勇敢",
+      "onboard_time": 1718485870,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15092,
       "num": 164324,
       "word": "义乌老奶奶闲不下来在家做手工活",
@@ -44425,14 +44449,6 @@
       "onboard_time": 1717619711,
       "rank": 47,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 13155,
-      "num": 16398,
-      "word": "陈祥榕妈妈曾问儿子勇不勇敢",
-      "onboard_time": 1718485870,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13119,
