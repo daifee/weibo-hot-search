@@ -1,0 +1,410 @@
+{
+  "runTime": 1718446844706,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3093598,
+        "num": 3093598,
+        "word": "六级答案",
+        "onboard_time": 1718444420,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2235878,
+        "num": 2235878,
+        "word": "六级",
+        "onboard_time": 1718443337,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59880,
+        "num": 2166569,
+        "word": "我国载人登月运载火箭迎进展",
+        "onboard_time": 1718439857,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2128631,
+        "num": 2128631,
+        "word": "凯特公开露面",
+        "onboard_time": 1718444840,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1560882,
+        "num": 1560882,
+        "word": "扇子 翻译",
+        "onboard_time": 1718444479,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 981372,
+        "num": 981372,
+        "word": "凯特王妃",
+        "onboard_time": 1718433557,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 875910,
+        "num": 875910,
+        "word": "六级作文",
+        "onboard_time": 1718444420,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 838533,
+        "num": 838533,
+        "word": "香港中文大学否认联系姜萍",
+        "onboard_time": 1718442737,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781916,
+        "num": 781916,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714876,
+        "num": 714876,
+        "word": "孙坚喝霸王茶姬也失眠了",
+        "onboard_time": 1718444840,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612773,
+        "num": 612773,
+        "word": "炫迈致歉",
+        "onboard_time": 1718424739,
+        "rank": 10,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 518121,
+        "num": 518121,
+        "word": "六级听力 听不懂",
+        "onboard_time": 1718445080,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 510404,
+        "num": 510404,
+        "word": "六级阅读",
+        "onboard_time": 1718444959,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 482842,
+        "num": 482842,
+        "word": "作文 跑题",
+        "onboard_time": 1718446098,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 443213,
+        "num": 443213,
+        "word": "六级翻译",
+        "onboard_time": 1718445019,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 426492,
+        "num": 426492,
+        "word": "谢娜问陈乔恩演的是坏蛋吗",
+        "onboard_time": 1718443099,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366535,
+        "num": 366535,
+        "word": "男子卧铺车上脱衣面对女乘客裸睡",
+        "onboard_time": 1718430197,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345565,
+        "num": 345565,
+        "word": "四级答案",
+        "onboard_time": 1718422519,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299508,
+        "num": 299508,
+        "word": "六级竹子",
+        "onboard_time": 1718445559,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223985,
+        "num": 294782,
+        "word": "山海经里的动物真实存在吗",
+        "onboard_time": 1718446638,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1207423,
+        "num": 294259,
+        "word": "姜萍若上哈佛不用担心学费",
+        "onboard_time": 1718438179,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 292587,
+        "num": 292587,
+        "word": "台湾人也是堂堂正正的中国人",
+        "onboard_time": 1718442198,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269873,
+        "num": 269873,
+        "word": "digital literacy",
+        "onboard_time": 1718445559,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246782,
+        "num": 246782,
+        "word": "丁太升说孙楠唱了个什么玩意儿",
+        "onboard_time": 1718433557,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217233,
+        "num": 217233,
+        "word": "周也",
+        "onboard_time": 1718413939,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213202,
+        "num": 213202,
+        "word": "112斤男子抽血抽出半管油",
+        "onboard_time": 1718444298,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99017,
+        "num": 188643,
+        "word": "大四女生实习转正能拿8个月年终奖",
+        "onboard_time": 1718446339,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186143,
+        "num": 186143,
+        "word": "陈楚生凡希亚同台飙歌",
+        "onboard_time": 1718443999,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178946,
+        "num": 178946,
+        "word": "姜萍",
+        "onboard_time": 1718444239,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 175948,
+        "num": 175948,
+        "word": "特朗普过生日拜登送损礼",
+        "onboard_time": 1718440397,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 175055,
+        "num": 175055,
+        "word": "清华教授谈姜萍",
+        "onboard_time": 1718427858,
+        "rank": 30,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 170112,
+        "num": 170112,
+        "word": "微博影像年",
+        "onboard_time": 1718446279,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167922,
+        "num": 167922,
+        "word": "微博电影之夜全阵容",
+        "onboard_time": 1718443696,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165659,
+        "num": 165659,
+        "word": "张予曦腰身比",
+        "onboard_time": 1718441357,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160543,
+        "num": 160543,
+        "word": "油腻和胖瘦无关和演技有关",
+        "onboard_time": 1718439618,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160218,
+        "num": 160218,
+        "word": "戚薇古装",
+        "onboard_time": 1718444539,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156522,
+        "num": 156522,
+        "word": "25岁了还在追星",
+        "onboard_time": 1718438597,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145076,
+        "num": 145076,
+        "word": "汪苏泷听到排名第六的反应",
+        "onboard_time": 1718429779,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136926,
+        "num": 136926,
+        "word": "张杰兰州演唱会寻找兰朋友",
+        "onboard_time": 1718446818,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136757,
+        "num": 136757,
+        "word": "G7要求俄向乌克兰赔偿超4860亿美元",
+        "onboard_time": 1718434637,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131920,
+        "num": 131920,
+        "word": "肖战重庆打卡牌",
+        "onboard_time": 1718441117,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130905,
+        "num": 130905,
+        "word": "杨梅里的虫子已老实",
+        "onboard_time": 1718435717,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130785,
+        "num": 130785,
+        "word": "12306回应高铁长时间倒坐",
+        "onboard_time": 1718441237,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129527,
+        "num": 129527,
+        "word": "王星越点赞菲常萧张cp粉",
+        "onboard_time": 1718439798,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123700,
+        "num": 123700,
+        "word": "欧洲杯预测",
+        "onboard_time": 1718434757,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122993,
+        "num": 122993,
+        "word": "人能活多久看头发就能知道吗",
+        "onboard_time": 1718434157,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 121533,
+        "num": 121533,
+        "word": "墨雨云间",
+        "onboard_time": 1718443038,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116853,
+        "num": 116853,
+        "word": "学生吃糖卡喉老师90秒救回",
+        "onboard_time": 1718444479,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 112416,
+        "num": 112416,
+        "word": "这就是李白诗里的桃花潭",
+        "onboard_time": 1718446757,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108808,
+        "num": 108808,
+        "word": "在简历上作假却加入了真正的团队",
+        "onboard_time": 1718438898,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的赤子之心#"
+    }
+  }
+}

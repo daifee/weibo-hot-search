@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718444057901,
+  "endTime": 1718446844706,
   "band_list": [
     {
       "raw_hot": 6639747,
@@ -11,12 +11,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 3093598,
+      "num": 3093598,
+      "word": "六级答案",
+      "onboard_time": 1718444420,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 2283588,
       "num": 2283588,
       "word": "赖冠霖 退圈信",
       "onboard_time": 1718433557,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2235878,
+      "num": 2235878,
+      "word": "六级",
+      "onboard_time": 1718410937,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 2128631,
+      "num": 2128631,
+      "word": "凯特公开露面",
+      "onboard_time": 1718444840,
+      "rank": 3,
+      "category": "国外时政"
     },
     {
       "raw_hot": 1967468,
@@ -67,6 +91,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1560882,
+      "num": 1560882,
+      "word": "扇子 翻译",
+      "onboard_time": 1718444479,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1438321,
       "num": 285906,
       "word": "周也黑脸",
@@ -89,14 +121,6 @@
       "onboard_time": 1718362219,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1290118,
-      "num": 1290118,
-      "word": "六级",
-      "onboard_time": 1718410937,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 1251418,
@@ -203,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 875910,
+      "num": 875910,
+      "word": "六级作文",
+      "onboard_time": 1718423359,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 838533,
+      "num": 838533,
+      "word": "香港中文大学否认联系姜萍",
+      "onboard_time": 1718442737,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828240,
       "num": 332360,
       "word": "亲戚把订婚蛋糕整个拿走了",
@@ -256,6 +296,14 @@
       "word": "焉栩嘉上岸了",
       "onboard_time": 1718406735,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 714876,
+      "num": 714876,
+      "word": "孙坚喝霸王茶姬也失眠了",
+      "onboard_time": 1718444840,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -459,12 +507,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518121,
+      "num": 518121,
+      "word": "六级听力 听不懂",
+      "onboard_time": 1718445080,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 515521,
       "num": 263629,
       "word": "孙楠 很牛但油",
       "onboard_time": 1718371582,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 510404,
+      "num": 510404,
+      "word": "六级阅读",
+      "onboard_time": 1718444959,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 505998,
@@ -491,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482842,
+      "num": 482842,
+      "word": "作文 跑题",
+      "onboard_time": 1718446098,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 457757,
       "num": 457757,
       "word": "刘奔回应因姜萍走红",
       "onboard_time": 1718422880,
       "rank": 16,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 443213,
+      "num": 443213,
+      "word": "六级翻译",
+      "onboard_time": 1718422339,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 441517,
@@ -515,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426492,
+      "num": 426492,
+      "word": "谢娜问陈乔恩演的是坏蛋吗",
+      "onboard_time": 1718443099,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 424332,
       "num": 261075,
       "word": "王力宏方请辞金曲奖表演",
@@ -529,14 +617,6 @@
       "onboard_time": 1718437638,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 420557,
-      "num": 304225,
-      "word": "谢娜问陈乔恩演的是坏蛋吗",
-      "onboard_time": 1718443099,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 419964,
@@ -723,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 299508,
+      "num": 299508,
+      "word": "六级竹子",
+      "onboard_time": 1718445559,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 296397,
       "num": 296397,
       "word": "吴谨言用了薛芳菲微博表情",
@@ -731,11 +819,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 291077,
-      "num": 291077,
-      "word": "香港中文大学否认联系姜萍",
-      "onboard_time": 1718442737,
-      "rank": 30,
+      "raw_hot": 292587,
+      "num": 319559,
+      "word": "台湾人也是堂堂正正的中国人",
+      "onboard_time": 1718442198,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -763,14 +851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 277080,
-      "num": 277080,
-      "word": "六级翻译",
-      "onboard_time": 1718422339,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 276845,
       "num": 264761,
       "word": "肖战普罗旺斯",
@@ -793,6 +873,14 @@
       "onboard_time": 1718440397,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 269873,
+      "num": 269873,
+      "word": "digital literacy",
+      "onboard_time": 1718445559,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 267756,
@@ -841,14 +929,6 @@
       "onboard_time": 1718413939,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248126,
-      "num": 319559,
-      "word": "台湾人也是堂堂正正的中国人",
-      "onboard_time": 1718442198,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246523,
@@ -931,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223985,
+      "num": 294782,
+      "word": "山海经里的动物真实存在吗",
+      "onboard_time": 1718446638,
+      "rank": 19,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 222969,
       "num": 222969,
       "word": "德国5比1苏格兰",
@@ -977,6 +1065,14 @@
       "onboard_time": 1718424198,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213202,
+      "num": 213202,
+      "word": "112斤男子抽血抽出半管油",
+      "onboard_time": 1718444298,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212068,
@@ -1211,6 +1307,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 186143,
+      "num": 186143,
+      "word": "陈楚生凡希亚同台飙歌",
+      "onboard_time": 1718443999,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 185736,
       "num": 185736,
       "word": "谁能想到02年医学生被叫爷爷",
@@ -1265,14 +1369,6 @@
       "onboard_time": 1718421498,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 179950,
-      "num": 179950,
-      "word": "六级作文",
-      "onboard_time": 1718423359,
-      "rank": 44,
-      "category": "教育"
     },
     {
       "raw_hot": 179618,
@@ -1363,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170112,
+      "num": 170112,
+      "word": "微博影像年",
+      "onboard_time": 1718446279,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 169774,
       "num": 169774,
       "word": "蛟龙行动",
@@ -1385,6 +1489,14 @@
       "onboard_time": 1718378421,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 167922,
+      "num": 167922,
+      "word": "微博电影之夜全阵容",
+      "onboard_time": 1718443696,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 167905,
@@ -1457,6 +1569,14 @@
       "onboard_time": 1718407215,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160218,
+      "num": 160218,
+      "word": "戚薇古装",
+      "onboard_time": 1718444539,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 159812,
@@ -1603,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136926,
+      "num": 136926,
+      "word": "张杰兰州演唱会寻找兰朋友",
+      "onboard_time": 1718446818,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 136775,
       "num": 136775,
       "word": "这届年轻人认为人生处处吃得开",
@@ -1657,14 +1785,6 @@
       "onboard_time": 1718415317,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 130062,
-      "num": 130062,
-      "word": "陈楚生凡希亚同台飙歌",
-      "onboard_time": 1718443999,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 128928,
@@ -1763,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121533,
+      "num": 121533,
+      "word": "墨雨云间",
+      "onboard_time": 1718443038,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121463,
       "num": 126194,
       "word": "建议应届生简历不要随便发给小公司",
@@ -1795,14 +1923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117516,
-      "num": 117516,
-      "word": "微博电影之夜全阵容",
-      "onboard_time": 1718443696,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 117374,
       "num": 117374,
       "word": "小编称不是郝蕾回复网友",
@@ -1817,6 +1937,14 @@
       "onboard_time": 1718437878,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116853,
+      "num": 116853,
+      "word": "学生吃糖卡喉老师90秒救回",
+      "onboard_time": 1718444479,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 115902,
@@ -1875,12 +2003,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 112774,
-      "num": 110686,
-      "word": "墨雨云间",
-      "onboard_time": 1718443038,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 112416,
+      "num": 112416,
+      "word": "这就是李白诗里的桃花潭",
+      "onboard_time": 1718446757,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 111807,
@@ -1969,6 +2097,14 @@
       "onboard_time": 1718409197,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99017,
+      "num": 188643,
+      "word": "大四女生实习转正能拿8个月年终奖",
+      "onboard_time": 1718446339,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98264,
@@ -2132,7 +2268,7 @@
     },
     {
       "raw_hot": 72301,
-      "num": 911108,
+      "num": 2166569,
       "word": "我国载人登月运载火箭迎进展",
       "onboard_time": 1718439857,
       "rank": 2,
