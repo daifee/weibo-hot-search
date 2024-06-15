@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/16 00:23:47 ~ 2024/06/16 06:36:11
+本榜单时间：2024/06/16 00:23:47 ~ 2024/06/16 07:19:12
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E8%8A%82%23" target="weibo">
-父亲节（热度：481648）
+父亲节（热度：611206）
 </a>
 </li>
 
@@ -83,6 +83,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%20%E8%B0%A2%E8%B0%A2%E4%BD%A0%E5%9C%A83650%E4%B8%87%E9%A6%96%E6%AD%8C%E9%87%8C%E5%90%AC%E5%88%B0%E6%88%91%23" target="weibo">
 许嵩 谢谢你在3650万首歌里听到我（热度：304875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%AB%98%E8%80%83%E5%90%8E%E8%AE%A2%E5%A9%9A%23" target="weibo">
+当事人回应在高考后订婚（热度：282775）
 </a>
 </li>
 
@@ -171,12 +177,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%9C%A8%E9%AB%98%E8%80%83%E5%90%8E%E8%AE%A2%E5%A9%9A%23" target="weibo">
-当事人回应在高考后订婚（热度：162679）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 世界杯（热度：152622）
 </a>
@@ -195,8 +195,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%993%E6%AF%940%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23" target="weibo">
+西班牙3比0克罗地亚（热度：135077）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E9%85%B7%E4%BC%BC%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
+外卖小哥回应酷似易烊千玺（热度：134813）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%20%E8%A6%81%E5%90%AC%E4%BB%8E%E8%87%AA%E5%B7%B1%E5%86%85%E5%BF%83%E7%9A%84%E5%A3%B0%E9%9F%B3%23" target="weibo">
 朱珠 要听从自己内心的声音（热度：131442）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E5%89%8D%E5%A4%AB%E5%93%A5%E7%A0%B4%E4%B8%87%E7%A6%8F%E5%88%A9%23" target="weibo">
+墨雨云间前夫哥破万福利（热度：131241）
 </a>
 </li>
 
@@ -231,6 +249,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%88%AC%E5%B1%B1%E9%81%87%E6%AF%92%E8%9B%87%E7%AB%9F%E5%87%91%E4%B8%8A%E5%89%8D%E5%90%88%E5%BD%B1%23" target="weibo">
+女生爬山遇毒蛇竟凑上前合影（热度：123710）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%A7%91%E6%AF%95%E4%B8%9A%E5%9B%9B%E5%B9%B4%E5%AF%9D%E5%AE%A4%E7%9A%84%E6%83%85%E6%84%9F%E5%8F%98%E5%8C%96%23" target="weibo">
 本科毕业四年寝室的情感变化（热度：117702）
 </a>
@@ -255,14 +279,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%9B%9E%E5%BA%94%E9%85%B7%E4%BC%BC%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
-外卖小哥回应酷似易烊千玺（热度：106997）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E5%90%8E%E4%BA%B2%E6%88%9A%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%98%B4%E9%98%B3%E6%88%91%23" target="weibo">
+考研上岸后亲戚发朋友圈阴阳我（热度：104250）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%E5%90%8E%E4%BA%B2%E6%88%9A%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E9%98%B4%E9%98%B3%E6%88%91%23" target="weibo">
-考研上岸后亲戚发朋友圈阴阳我（热度：104250）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
+欧洲杯意大利（热度：101213）
 </a>
 </li>
 
@@ -287,6 +311,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E5%B0%94%E8%B5%9B%E5%AE%AB%E5%81%B6%E9%81%87%E8%82%96%E6%88%98%23" target="weibo">
 凡尔赛宫偶遇肖战（热度：90112）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%88%E7%94%9F%E5%8D%81%E5%B9%B4%E5%90%8E%E7%9B%B8%E8%81%9A%E6%AD%8C%E6%89%8B%E5%8F%8C%E5%8F%8C%E7%A6%BB%E5%9C%BA%23" target="weibo">
+师生十年后相聚歌手双双离场（热度：87451）
 </a>
 </li>
 
@@ -345,14 +375,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E6%9C%B1%E5%A9%B7%E4%B8%8D%E9%A6%96%E5%8F%91%23" target="weibo">
-今晚朱婷不首发（热度：64883）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E7%81%AB%E4%BA%86%E4%B8%8D%E5%BF%85%E8%BF%87%E5%BA%A6%E5%BC%BA%E8%B0%83%E5%85%B6%E4%B8%AD%E4%B8%93%E7%94%9F%E8%BA%AB%E4%BB%BD%23" target="weibo">
+姜萍火了不必过度强调其中专生身份（热度：72455）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F39%E5%A4%A9%E5%87%8F%E9%87%8D%E6%96%A420%E6%96%A4%E5%90%8E%E7%8C%9D%E6%AD%BB%23" target="weibo">
-学校回应男生39天减重斤20斤后猝死（热度：64611）
+学校回应男生39天减重斤20斤后猝死（热度：68848）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E6%9C%B1%E5%A9%B7%E4%B8%8D%E9%A6%96%E5%8F%91%23" target="weibo">
+今晚朱婷不首发（热度：64883）
 </a>
 </li>
 
@@ -369,20 +405,44 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%8E%86%E5%8F%B2%E6%9C%80%E5%BF%AB%E8%BF%9B%E7%90%83%23" target="weibo">
+欧洲杯历史最快进球（热度：61503）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A92%E6%AF%941%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A%23" target="weibo">
+意大利2比1阿尔巴尼亚（热度：59624）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AE%B8%E5%87%AF%E7%9B%AE%E9%BB%91%E8%8E%B2%E6%96%B9%E7%81%BF%E5%90%8C%E6%8E%92%E7%9C%8B%E7%A7%80%23" target="weibo">
+张若昀许凯目黑莲方灿同排看秀（热度：57311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4%E7%94%B5%E5%BD%B1%23" target="weibo">
 排球少年电影（热度：57175）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%88%E7%94%9F%E5%8D%81%E5%B9%B4%E5%90%8E%E7%9B%B8%E8%81%9A%E6%AD%8C%E6%89%8B%E5%8F%8C%E5%8F%8C%E7%A6%BB%E5%9C%BA%23" target="weibo">
-师生十年后相聚歌手双双离场（热度：52499）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%A1%A8%E7%99%BD%E8%80%81%E7%88%B8%23" target="weibo">
+一句话表白老爸（热度：51379）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E9%9B%86%E9%BD%90%E9%BE%99%23" target="weibo">
 张杰演唱会上集齐龙（热度：46576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%9A%84%E7%88%B1%E6%80%BB%E6%98%AF%E8%97%8F%E5%9C%A8%E7%BB%86%E5%BE%AE%E7%9A%84%E8%A1%8C%E5%8A%A8%E9%87%8C%23" target="weibo">
+爸爸的爱总是藏在细微的行动里（热度：45155）
 </a>
 </li>
 
@@ -405,26 +465,26 @@ aespa被清票两万（热度：42120）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%BB%A117%E5%B2%81%E5%B0%B1%E8%B8%A2%E4%BA%86%E6%AC%A7%E6%B4%B2%E6%9D%AF%23" target="weibo">
+不满17岁就踢了欧洲杯（热度：41034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BE%97%E5%87%BA%E5%AE%9D%E5%AE%9D%E6%98%AF%E7%9C%9F%E7%9A%84%E5%85%AC%E4%B8%BB%23" target="weibo">
 看得出宝宝是真的公主（热度：39705）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AE%B8%E5%87%AF%E7%9B%AE%E9%BB%91%E8%8E%B2%E6%96%B9%E7%81%BF%E5%90%8C%E6%8E%92%E7%9C%8B%E7%A7%80%23" target="weibo">
-张若昀许凯目黑莲方灿同排看秀（热度：35757）
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%9A%84%E8%82%A9%E8%86%80%E6%98%AF%E7%AB%A5%E5%B9%B4%E6%9C%80%E5%9D%9A%E5%AE%9E%E7%9A%84%E4%BE%9D%E9%9D%A0%23" target="weibo">
+爸爸的肩膀是童年最坚实的依靠（热度：37338）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E5%89%8D%E5%A4%AB%E5%93%A5%E7%A0%B4%E4%B8%87%E7%A6%8F%E5%88%A9%23" target="weibo">
-墨雨云间前夫哥破万福利（热度：33745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%A1%A8%E7%99%BD%E8%80%81%E7%88%B8%23" target="weibo">
-一句话表白老爸（热度：29439）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%83%B3%E4%BD%A0%E4%BA%86%E7%88%B8%E7%88%B8%23" target="weibo">
+我想你了爸爸（热度：37241）
 </a>
 </li>
 
@@ -437,6 +497,12 @@ aespa被清票两万（热度：42120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%9B%E6%B4%A5Kate%E6%9C%B1%E6%9C%B1%E8%B0%88%E5%A7%9C%E8%90%8D%23" target="weibo">
 牛津Kate朱朱谈姜萍（热度：22893）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E7%A5%9D%E7%A6%8F%E6%AF%8F%E4%B8%80%E4%BD%8D%E7%88%B6%E4%BA%B2%23" target="weibo">
+2024祝福每一位父亲（热度：20293）
 </a>
 </li>
 
