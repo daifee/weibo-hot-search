@@ -1,0 +1,410 @@
+{
+  "runTime": 1718461037978,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1031837,
+        "num": 1031837,
+        "word": "情侣高考结束后举行订婚宴",
+        "onboard_time": 1718450598,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 976246,
+        "num": 976246,
+        "word": "女子长期乏力全家查出吸血鬼病基因",
+        "onboard_time": 1718459418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50743,
+        "num": 854962,
+        "word": "来自嫦娥六号神秘包裹请注意查收",
+        "onboard_time": 1718459779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 846748,
+        "num": 846748,
+        "word": "周也和六公主碰拳",
+        "onboard_time": 1718450119,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 839032,
+        "num": 839032,
+        "word": "10元手冲咖啡阿姨回应不火了",
+        "onboard_time": 1718456418,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721054,
+        "num": 721054,
+        "word": "会长是女仆大人 双强情侣",
+        "onboard_time": 1718455999,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 681363,
+        "num": 681363,
+        "word": "张常宁好牛",
+        "onboard_time": 1718459838,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503580,
+        "num": 503580,
+        "word": "凯特公开露面",
+        "onboard_time": 1718444840,
+        "rank": 7,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 2770394,
+        "num": 500558,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60960,
+        "num": 462368,
+        "word": "只有一位学生的学位授予仪式",
+        "onboard_time": 1718459779,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461593,
+        "num": 461593,
+        "word": "中国女排0比1土耳其女排",
+        "onboard_time": 1718458158,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 421316,
+        "num": 421316,
+        "word": "还是低估了墨雨云间的爽",
+        "onboard_time": 1718454377,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392754,
+        "num": 392754,
+        "word": "沈腾说我穿什么都配不上马丽",
+        "onboard_time": 1718456658,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388579,
+        "num": 388579,
+        "word": "彭昱畅瘦了好多",
+        "onboard_time": 1718454619,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372796,
+        "num": 372796,
+        "word": "周也拿了六公主手里的糖",
+        "onboard_time": 1718451978,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370687,
+        "num": 370687,
+        "word": "王星越也打卡了吴谨言",
+        "onboard_time": 1718457198,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332489,
+        "num": 332489,
+        "word": "欧洲杯",
+        "onboard_time": 1718453357,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311667,
+        "num": 311667,
+        "word": "王老师",
+        "onboard_time": 1718458699,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291963,
+        "num": 291963,
+        "word": "中国女排1比2土耳其女排",
+        "onboard_time": 1718460618,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286987,
+        "num": 286987,
+        "word": "六级答案",
+        "onboard_time": 1718444420,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 305294,
+        "num": 282922,
+        "word": "王星越 想谈系",
+        "onboard_time": 1718460379,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302034,
+        "num": 280177,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276013,
+        "num": 276013,
+        "word": "马宁",
+        "onboard_time": 1718456898,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269072,
+        "num": 269072,
+        "word": "许嵩内线首唱",
+        "onboard_time": 1718458999,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238043,
+        "num": 238043,
+        "word": "中式婚礼",
+        "onboard_time": 1718448198,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218864,
+        "num": 218864,
+        "word": "摩羯座真正的追求",
+        "onboard_time": 1718457139,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203050,
+        "num": 203050,
+        "word": "倪妮上影节高定首穿",
+        "onboard_time": 1718459298,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191332,
+        "num": 191332,
+        "word": "张杰雨中唱跳",
+        "onboard_time": 1718459118,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188608,
+        "num": 188608,
+        "word": "RSG三年首冠",
+        "onboard_time": 1718459897,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180513,
+        "num": 180513,
+        "word": "六级",
+        "onboard_time": 1718443337,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178353,
+        "num": 178353,
+        "word": "AG战胜TES",
+        "onboard_time": 1718459897,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171500,
+        "num": 171500,
+        "word": "考研上岸后亲戚发朋友圈阴阳我",
+        "onboard_time": 1718451796,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166786,
+        "num": 166786,
+        "word": "孙坚喝霸王茶姬也失眠了",
+        "onboard_time": 1718444840,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162719,
+        "num": 162719,
+        "word": "隼 哈圈汪苏泷",
+        "onboard_time": 1718457679,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162099,
+        "num": 162099,
+        "word": "吴谨言大女主易如反掌",
+        "onboard_time": 1718459058,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151431,
+        "num": 151431,
+        "word": "凡尔赛宫偶遇肖战",
+        "onboard_time": 1718449998,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149409,
+        "num": 149409,
+        "word": "辛芷蕾白色顶级高定裙",
+        "onboard_time": 1718460678,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147676,
+        "num": 147676,
+        "word": "你好星期六",
+        "onboard_time": 1718455278,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142363,
+        "num": 142363,
+        "word": "台湾人也是堂堂正正的中国人",
+        "onboard_time": 1718442198,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132347,
+        "num": 132347,
+        "word": "凯特王妃",
+        "onboard_time": 1718433557,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 129299,
+        "num": 129299,
+        "word": "父母不让嫁的人一定不能嫁吗",
+        "onboard_time": 1718447420,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126430,
+        "num": 126430,
+        "word": "翔霖",
+        "onboard_time": 1718460799,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121209,
+        "num": 121209,
+        "word": "花小龙",
+        "onboard_time": 1718457918,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 120589,
+        "num": 120589,
+        "word": "排球少年电影",
+        "onboard_time": 1718454377,
+        "rank": 43,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 119863,
+        "num": 119863,
+        "word": "姜萍",
+        "onboard_time": 1718444239,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 116014,
+        "num": 116014,
+        "word": "张艺兴现场",
+        "onboard_time": 1718451436,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113321,
+        "num": 113321,
+        "word": "六级听力 听不懂",
+        "onboard_time": 1718445080,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109523,
+        "num": 109523,
+        "word": "匈牙利vs瑞士",
+        "onboard_time": 1718458158,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108403,
+        "num": 108403,
+        "word": "Aimer演唱会",
+        "onboard_time": 1718460979,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102874,
+        "num": 102874,
+        "word": "杜阿破门",
+        "onboard_time": 1718460258,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺拉马福萨当选连任南非总统#"
+    }
+  }
+}

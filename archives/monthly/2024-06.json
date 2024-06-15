@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718458491900,
+  "endTime": 1718461037978,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2843,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976246,
+      "num": 976246,
+      "word": "女子长期乏力全家查出吸血鬼病基因",
+      "onboard_time": 1718459418,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 973363,
       "num": 273507,
       "word": "臭宝",
@@ -3617,6 +3625,14 @@
       "onboard_time": 1717239076,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 839032,
+      "num": 839032,
+      "word": "10元手冲咖啡阿姨回应不火了",
+      "onboard_time": 1718456418,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838533,
@@ -4715,6 +4731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 721054,
+      "num": 721054,
+      "word": "会长是女仆大人 双强情侣",
+      "onboard_time": 1718455999,
+      "rank": 4,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 720801,
       "num": 712702,
       "word": "金智媛刚出道被误认是外国人",
@@ -5107,14 +5131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 687986,
-      "num": 687986,
-      "word": "会长是女仆大人 双强情侣",
-      "onboard_time": 1718455999,
-      "rank": 4,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 687510,
       "num": 687510,
       "word": "刘亦菲霍建华香港文艺片氛围感",
@@ -5177,6 +5193,14 @@
       "onboard_time": 1717646899,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681363,
+      "num": 681363,
+      "word": "张常宁好牛",
+      "onboard_time": 1718459838,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 679973,
@@ -9147,6 +9171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 461593,
+      "num": 461593,
+      "word": "中国女排0比1土耳其女排",
+      "onboard_time": 1718458158,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 461302,
       "num": 461302,
       "word": "原来老师才是那个被留下的孩子",
@@ -9681,14 +9713,6 @@
       "onboard_time": 1718416217,
       "rank": 10,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 441131,
-      "num": 441131,
-      "word": "10元手冲咖啡阿姨回应不火了",
-      "onboard_time": 1718456418,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 441028,
@@ -11721,6 +11745,14 @@
       "onboard_time": 1717426759,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 370687,
+      "num": 370687,
+      "word": "王星越也打卡了吴谨言",
+      "onboard_time": 1718457198,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 370481,
@@ -13875,6 +13907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 311667,
+      "num": 311667,
+      "word": "王老师",
+      "onboard_time": 1718458699,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311587,
       "num": 311587,
       "word": "邓为翻牌",
@@ -14099,6 +14139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 305294,
+      "num": 282922,
+      "word": "王星越 想谈系",
+      "onboard_time": 1718460379,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305227,
       "num": 305227,
       "word": "金硕珍被亲了",
@@ -14305,14 +14353,6 @@
       "onboard_time": 1717930397,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 301091,
-      "num": 301091,
-      "word": "中国女排0比1土耳其女排",
-      "onboard_time": 1718458158,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 300748,
@@ -14683,14 +14723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293715,
-      "num": 293715,
-      "word": "王星越也打卡了吴谨言",
-      "onboard_time": 1718457198,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 293707,
       "num": 293707,
       "word": "Yamy赖美云李紫婷徐梦洁 月亮警察",
@@ -14769,6 +14801,14 @@
       "onboard_time": 1718024839,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291963,
+      "num": 291963,
+      "word": "中国女排1比2土耳其女排",
+      "onboard_time": 1718460618,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 291898,
@@ -15547,6 +15587,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 276013,
+      "num": 276013,
+      "word": "马宁",
+      "onboard_time": 1718456898,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 276004,
       "num": 276004,
       "word": "特朗普过生日拜登送损礼",
@@ -15963,6 +16011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 269072,
+      "num": 269072,
+      "word": "许嵩内线首唱",
+      "onboard_time": 1718458999,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 268955,
       "num": 241649,
       "word": "女孩骑车被卷入大车车底不幸身亡",
@@ -16345,14 +16401,6 @@
       "onboard_time": 1718172018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261944,
-      "num": 261944,
-      "word": "马宁",
-      "onboard_time": 1718456898,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 261884,
@@ -19075,6 +19123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218864,
+      "num": 218864,
+      "word": "摩羯座真正的追求",
+      "onboard_time": 1718457139,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218800,
       "num": 218800,
       "word": "985硕士农民说高考并非人生全部",
@@ -20971,6 +21027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203050,
+      "num": 203050,
+      "word": "倪妮上影节高定首穿",
+      "onboard_time": 1718459298,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202985,
       "num": 202985,
       "word": "陶喆北京抢票",
@@ -22851,6 +22915,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191332,
+      "num": 191332,
+      "word": "张杰雨中唱跳",
+      "onboard_time": 1718459118,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191202,
       "num": 191202,
       "word": "泰国队3比1战胜新加坡队",
@@ -23225,6 +23297,14 @@
       "onboard_time": 1718149577,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188608,
+      "num": 188608,
+      "word": "RSG三年首冠",
+      "onboard_time": 1718459897,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 188558,
@@ -24617,6 +24697,14 @@
       "onboard_time": 1718332938,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178353,
+      "num": 178353,
+      "word": "AG战胜TES",
+      "onboard_time": 1718459897,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 178336,
@@ -26859,6 +26947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162719,
+      "num": 162719,
+      "word": "隼 哈圈汪苏泷",
+      "onboard_time": 1718457679,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162701,
       "num": 162701,
       "word": "张艺兴挑战包辣条馅粽",
@@ -26945,6 +27041,14 @@
       "onboard_time": 1718119640,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162099,
+      "num": 162099,
+      "word": "吴谨言大女主易如反掌",
+      "onboard_time": 1718459058,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 162082,
@@ -28019,14 +28123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 155962,
-      "num": 155962,
-      "word": "摩羯座真正的追求",
-      "onboard_time": 1718457139,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155945,
       "num": 155945,
       "word": "小狗乱入考场民警投喂后开启静音模式",
@@ -28907,14 +29003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151275,
-      "num": 151275,
-      "word": "隼 哈圈汪苏泷",
-      "onboard_time": 1718457679,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 151240,
       "num": 151240,
       "word": "每天最佳坐站睡动时间比例出炉",
@@ -29241,6 +29329,14 @@
       "onboard_time": 1717230077,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149409,
+      "num": 149409,
+      "word": "辛芷蕾白色顶级高定裙",
+      "onboard_time": 1718460678,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 149326,
@@ -33283,6 +33379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126430,
+      "num": 126430,
+      "word": "翔霖",
+      "onboard_time": 1718460799,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126403,
       "num": 126403,
       "word": "吉克隽逸在刘欢家过六一",
@@ -36387,6 +36491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 108403,
+      "num": 108403,
+      "word": "Aimer演唱会",
+      "onboard_time": 1718460979,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108336,
       "num": 108336,
       "word": "林高远晋级重庆赛8强",
@@ -37057,6 +37169,14 @@
       "onboard_time": 1717197974,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102874,
+      "num": 102874,
+      "word": "杜阿破门",
+      "onboard_time": 1718460258,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 102833,
@@ -40147,6 +40267,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 60960,
+      "num": 462368,
+      "word": "只有一位学生的学位授予仪式",
+      "onboard_time": 1718459779,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60934,
       "num": 1072556,
       "word": "请查收你的预防中暑小贴士",
@@ -41096,6 +41224,14 @@
       "word": "他们40多年挖了近1亿个坑种树",
       "onboard_time": 1717742539,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50743,
+      "num": 854962,
+      "word": "来自嫦娥六号神秘包裹请注意查收",
+      "onboard_time": 1718459779,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
