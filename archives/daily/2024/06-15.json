@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718419442715,
+  "endTime": 1718421656417,
   "band_list": [
     {
       "raw_hot": 1967468,
@@ -99,6 +99,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 828240,
+      "num": 248334,
+      "word": "亲戚把订婚蛋糕整个拿走了",
+      "onboard_time": 1718419578,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 783220,
       "num": 783220,
       "word": "凯特王妃将公开露面",
@@ -113,6 +121,14 @@
       "onboard_time": 1718406735,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 709841,
+      "num": 208559,
+      "word": "爸妈离婚我身价千万了",
+      "onboard_time": 1718419578,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 698366,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 661201,
-      "num": 218661,
+      "num": 244360,
       "word": "突然觉得脚真的好可怜",
       "onboard_time": 1718413338,
       "rank": 40,
@@ -153,6 +169,14 @@
       "onboard_time": 1718372784,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 597457,
+      "num": 543733,
+      "word": "这跟肖战谈恋爱有什么区别",
+      "onboard_time": 1718415438,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 588305,
@@ -177,14 +201,6 @@
       "onboard_time": 1718374465,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 543733,
-      "num": 543733,
-      "word": "这跟肖战谈恋爱有什么区别",
-      "onboard_time": 1718415438,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 543486,
@@ -219,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 444285,
+      "num": 246334,
+      "word": "你好星期六全员神仙对决",
+      "onboard_time": 1718420178,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441517,
       "num": 441517,
       "word": "国际数学奥林匹克满分得主谈姜萍",
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 406071,
-      "num": 215232,
+      "num": 232194,
       "word": "工作后发现5000块真的挺难挣",
       "onboard_time": 1718406675,
       "rank": 30,
@@ -273,6 +297,22 @@
       "onboard_time": 1718374524,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367881,
+      "num": 367881,
+      "word": "王俊凯 野孩子",
+      "onboard_time": 1718420117,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 363980,
+      "num": 363980,
+      "word": "沈腾马丽新片接班人计划",
+      "onboard_time": 1718419456,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 347222,
@@ -315,8 +355,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 282916,
-      "num": 282916,
+      "raw_hot": 288344,
+      "num": 288344,
       "word": "四级 花钱买早八",
       "onboard_time": 1718376143,
       "rank": 8,
@@ -339,6 +379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264972,
+      "num": 264972,
+      "word": "庄国栋被删了方协文上桌了",
+      "onboard_time": 1718420657,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254716,
       "num": 167113,
       "word": "董宇辉直播永乐宫遭多人投诉",
@@ -355,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251083,
+      "num": 251083,
+      "word": "六级",
+      "onboard_time": 1718410937,
+      "rank": 19,
+      "category": "教育"
+    },
+    {
       "raw_hot": 251080,
       "num": 251080,
       "word": "王星越带外甥女 德华带娃",
       "onboard_time": 1718380820,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249934,
+      "num": 249934,
+      "word": "四级",
+      "onboard_time": 1718409677,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 248248,
@@ -379,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242623,
+      "num": 242623,
+      "word": "凯尔特人vs独行侠",
+      "onboard_time": 1718418317,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240903,
       "num": 240903,
       "word": "汤普森取关勇士",
       "onboard_time": 1718412318,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 238325,
-      "num": 238325,
-      "word": "六级",
-      "onboard_time": 1718410937,
-      "rank": 19,
-      "category": "教育"
     },
     {
       "raw_hot": 237938,
@@ -451,20 +515,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206822,
-      "num": 206822,
-      "word": "凯尔特人vs独行侠",
-      "onboard_time": 1718418317,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206601,
       "num": 212911,
       "word": "答错的是魏大勋受伤的是白鹿",
       "onboard_time": 1718379381,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200906,
+      "num": 200906,
+      "word": "独行侠1比3凯尔特人",
+      "onboard_time": 1718421197,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 196162,
+      "num": 196162,
+      "word": "超热夏天可能真的要来了",
+      "onboard_time": 1718420358,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192116,
@@ -499,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184907,
+      "num": 184907,
+      "word": "为什么坐高铁都喜欢选F位",
+      "onboard_time": 1718419098,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180812,
       "num": 263076,
       "word": "别再买路边切一半的西瓜了",
@@ -521,6 +601,14 @@
       "onboard_time": 1718381597,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173284,
+      "num": 173284,
+      "word": "5岁孩子吃饺子被针头扎伤",
+      "onboard_time": 1718419397,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171673,
@@ -667,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135300,
+      "num": 135300,
+      "word": "上海中考作文",
+      "onboard_time": 1718421078,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130125,
       "num": 130125,
       "word": "花30块钱给自己周六买个早八",
@@ -675,12 +771,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 128726,
-      "num": 128726,
-      "word": "为什么坐高铁都喜欢选F位",
-      "onboard_time": 1718419098,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 127764,
+      "num": 127764,
+      "word": "电影蛟龙行动",
+      "onboard_time": 1718421498,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 126644,
@@ -715,20 +811,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124444,
-      "num": 124444,
-      "word": "四级",
-      "onboard_time": 1718409677,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 122928,
       "num": 169552,
       "word": "毕业生携双胞胎亮相校长钱包哇哇哭",
       "onboard_time": 1718407335,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122502,
+      "num": 122502,
+      "word": "DQ 剑网3",
+      "onboard_time": 1718419757,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 121463,
@@ -745,6 +841,14 @@
       "onboard_time": 1718410817,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118654,
+      "num": 118654,
+      "word": "上海中考",
+      "onboard_time": 1718420237,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 117651,
@@ -857,14 +961,6 @@
       "onboard_time": 1718406855,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95294,
-      "num": 95294,
-      "word": "5岁孩子吃饺子被针头扎伤",
-      "onboard_time": 1718419397,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 94449,
@@ -1003,6 +1099,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62899,
+      "num": 266023,
+      "word": "被世界第二硬控了",
+      "onboard_time": 1718417178,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61007,
+      "num": 372351,
+      "word": "花十元就能让照片开口说话",
+      "onboard_time": 1718420597,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60834,
       "num": 897725,
       "word": "清明上河图动起来了",
@@ -1049,14 +1161,6 @@
       "onboard_time": 1718383696,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 54883,
-      "num": 258219,
-      "word": "被世界第二硬控了",
-      "onboard_time": 1718417178,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 51868,
