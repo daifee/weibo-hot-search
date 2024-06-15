@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718454850709,
+  "endTime": 1718455757825,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1467,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4217222,
+      "num": 4217222,
+      "word": "周也 已老实求放过",
+      "onboard_time": 1718454317,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 4204679,
       "num": 4204679,
       "word": "与凤行",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1707010589,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3160157,
-      "num": 1644030,
-      "word": "阿拉蕾",
-      "onboard_time": 1709868634,
-      "rank": 12,
-      "category": "动漫,作品衍生"
     }
   ],
   "hotgov_list": [
