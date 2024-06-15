@@ -1,0 +1,410 @@
+{
+  "runTime": 1718454850709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1872227,
+        "num": 1872227,
+        "word": "周也和六公主碰拳",
+        "onboard_time": 1718450119,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1054779,
+        "num": 1054779,
+        "word": "凯特公开露面",
+        "onboard_time": 1718444840,
+        "rank": 1,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 39017,
+        "num": 1037314,
+        "word": "中暑应急处置4个要点",
+        "onboard_time": 1718439378,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035707,
+        "num": 1035707,
+        "word": "情侣高考结束后举行订婚宴",
+        "onboard_time": 1718450598,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623171,
+        "num": 623171,
+        "word": "六级答案",
+        "onboard_time": 1718444420,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1816259,
+        "num": 606880,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 515123,
+        "num": 515123,
+        "word": "孙坚喝霸王茶姬也失眠了",
+        "onboard_time": 1718444840,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500132,
+        "num": 500132,
+        "word": "中式婚礼",
+        "onboard_time": 1718448198,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 440055,
+        "num": 440055,
+        "word": "凡尔赛宫偶遇肖战",
+        "onboard_time": 1718449998,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47489,
+        "num": 406174,
+        "word": "浙江大学回应姜萍梦中高校",
+        "onboard_time": 1718454198,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 691872,
+        "num": 399154,
+        "word": "周也拿了六公主手里的糖",
+        "onboard_time": 1718451978,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389108,
+        "num": 389108,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347242,
+        "num": 347242,
+        "word": "六级",
+        "onboard_time": 1718443337,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 341859,
+        "num": 341859,
+        "word": "欧洲杯",
+        "onboard_time": 1718453357,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111200,
+        "num": 329217,
+        "word": "何炅被天猫的大红包不小心砸到了",
+        "onboard_time": 1718452817,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317475,
+        "num": 317475,
+        "word": "香港中文大学否认联系姜萍",
+        "onboard_time": 1718442737,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313532,
+        "num": 313532,
+        "word": "六级听力 听不懂",
+        "onboard_time": 1718445080,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225974,
+        "num": 225974,
+        "word": "炫迈致歉",
+        "onboard_time": 1718424739,
+        "rank": 17,
+        "category": "游戏,游戏"
+      },
+      {
+        "raw_hot": 210889,
+        "num": 210889,
+        "word": "男子卧铺车上脱衣面对女乘客裸睡",
+        "onboard_time": 1718430197,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54634,
+        "num": 208624,
+        "word": "韩东君下不了车",
+        "onboard_time": 1718451317,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291806,
+        "num": 204795,
+        "word": "还是低估了墨雨云间的爽",
+        "onboard_time": 1718454377,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250727,
+        "num": 201294,
+        "word": "父母不让嫁的人一定不能嫁吗",
+        "onboard_time": 1718447420,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249950,
+        "num": 195801,
+        "word": "考研上岸后亲戚发朋友圈阴阳我",
+        "onboard_time": 1718451796,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194870,
+        "num": 194870,
+        "word": "凯特王妃",
+        "onboard_time": 1718433557,
+        "rank": 23,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 192198,
+        "num": 192198,
+        "word": "排球少年电影",
+        "onboard_time": 1718454377,
+        "rank": 24,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 192054,
+        "num": 192054,
+        "word": "十个勤天二开",
+        "onboard_time": 1718448017,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189952,
+        "num": 189952,
+        "word": "台湾人也是堂堂正正的中国人",
+        "onboard_time": 1718442198,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178211,
+        "num": 178211,
+        "word": "张艺兴现场",
+        "onboard_time": 1718451436,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177898,
+        "num": 177898,
+        "word": "星火英语",
+        "onboard_time": 1718431098,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175577,
+        "num": 175577,
+        "word": "汪苏泷谈奢香夫人编曲",
+        "onboard_time": 1718449636,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173339,
+        "num": 173339,
+        "word": "今晚朱婷不首发",
+        "onboard_time": 1718454678,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166612,
+        "num": 166612,
+        "word": "彭昱畅瘦了好多",
+        "onboard_time": 1718454619,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158659,
+        "num": 158659,
+        "word": "黑神话悟空的建筑美学",
+        "onboard_time": 1718454619,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156789,
+        "num": 156789,
+        "word": "王源伪装差点被路人认出",
+        "onboard_time": 1718453238,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151810,
+        "num": 151810,
+        "word": "112斤男子抽血抽出半管油",
+        "onboard_time": 1718444298,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147027,
+        "num": 147027,
+        "word": "时代少年团在公园给贺峻霖庆生",
+        "onboard_time": 1718449278,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140984,
+        "num": 140984,
+        "word": "莫文蔚鸟巢演唱会",
+        "onboard_time": 1718452038,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140192,
+        "num": 140192,
+        "word": "谢娜问陈乔恩演的是坏蛋吗",
+        "onboard_time": 1718443099,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126067,
+        "num": 126067,
+        "word": "黑龙江大庆发生一起交通事故5人遇难",
+        "onboard_time": 1718448079,
+        "rank": 38,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 125271,
+        "num": 125271,
+        "word": "姜萍",
+        "onboard_time": 1718444239,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 134931,
+        "num": 124996,
+        "word": "贺峻霖直播",
+        "onboard_time": 1718448079,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129668,
+        "num": 124434,
+        "word": "墨雨云间",
+        "onboard_time": 1718443038,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126212,
+        "num": 123737,
+        "word": "上海电影节红毯",
+        "onboard_time": 1718453118,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125439,
+        "num": 122855,
+        "word": "王俊凯和鸽子合照",
+        "onboard_time": 1718452998,
+        "rank": 43,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 122795,
+        "num": 122795,
+        "word": "六级试卷",
+        "onboard_time": 1718454678,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119629,
+        "num": 119629,
+        "word": "作文 跑题",
+        "onboard_time": 1718446098,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115128,
+        "num": 115128,
+        "word": "大四女生实习转正能拿8个月年终奖",
+        "onboard_time": 1718446339,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113372,
+        "num": 113372,
+        "word": "丁太升说孙楠唱了个什么玩意儿",
+        "onboard_time": 1718433557,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111447,
+        "num": 111447,
+        "word": "欧洲杯预测",
+        "onboard_time": 1718434757,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106810,
+        "num": 106810,
+        "word": "25岁了还在追星",
+        "onboard_time": 1718438597,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺拉马福萨当选连任南非总统#"
+    }
+  }
+}

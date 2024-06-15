@@ -1,6 +1,6 @@
 {
   "startTime": 1717863827746,
-  "endTime": 1718451313365,
+  "endTime": 1718454850709,
   "band_list": [
     {
       "raw_hot": 8789029,
@@ -283,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1872227,
+      "num": 1872227,
+      "word": "周也和六公主碰拳",
+      "onboard_time": 1718450119,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1825551,
       "num": 1825551,
       "word": "国足0比1不敌韩国队",
       "onboard_time": 1718111000,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1816259,
+      "num": 606880,
+      "word": "周也 已老实求放过",
+      "onboard_time": 1718454317,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1802839,
@@ -1131,6 +1147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 1035707,
+      "num": 1035707,
+      "word": "情侣高考结束后举行订婚宴",
+      "onboard_time": 1718450598,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1035387,
       "num": 815486,
       "word": "郝蕾表演课300一节",
@@ -1433,14 +1457,6 @@
       "onboard_time": 1718413397,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 920092,
-      "num": 920092,
-      "word": "周也和六公主碰拳",
-      "onboard_time": 1718450119,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 919562,
@@ -2273,6 +2289,14 @@
       "onboard_time": 1718353819,
       "rank": 9,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 691872,
+      "num": 399154,
+      "word": "周也拿了六公主手里的糖",
+      "onboard_time": 1718451978,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 690029,
@@ -5779,6 +5803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341859,
+      "num": 341859,
+      "word": "欧洲杯",
+      "onboard_time": 1718269578,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 341696,
       "num": 341696,
       "word": "于适新电影",
@@ -6883,6 +6915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291806,
+      "num": 204795,
+      "word": "还是低估了墨雨云间的爽",
+      "onboard_time": 1718454377,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291553,
       "num": 265645,
       "word": "新版郭靖是封神杨戬",
@@ -7849,6 +7889,14 @@
       "onboard_time": 1718018179,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 249950,
+      "num": 195801,
+      "word": "考研上岸后亲戚发朋友圈阴阳我",
+      "onboard_time": 1718451796,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 249901,
@@ -10579,6 +10627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192198,
+      "num": 192198,
+      "word": "排球少年电影",
+      "onboard_time": 1718454377,
+      "rank": 24,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 192133,
       "num": 573600,
       "word": "林狗送猫",
@@ -10689,14 +10745,6 @@
       "onboard_time": 1718435178,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190698,
-      "num": 190698,
-      "word": "欧洲杯",
-      "onboard_time": 1718269578,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 190634,
@@ -11387,14 +11435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180730,
-      "num": 180730,
-      "word": "情侣高考结束后举行订婚宴",
-      "onboard_time": 1718450598,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180480,
       "num": 180480,
       "word": "赵露思波点裙",
@@ -11593,6 +11633,14 @@
       "onboard_time": 1718332938,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178211,
+      "num": 178211,
+      "word": "张艺兴现场",
+      "onboard_time": 1718451436,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 178183,
@@ -11841,6 +11889,14 @@
       "onboard_time": 1718334137,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 173339,
+      "num": 173339,
+      "word": "今晚朱婷不首发",
+      "onboard_time": 1718454678,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 173328,
@@ -12329,6 +12385,14 @@
       "onboard_time": 1718342839,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 166612,
+      "num": 166612,
+      "word": "彭昱畅瘦了好多",
+      "onboard_time": 1718454619,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 166583,
@@ -12883,6 +12947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158659,
+      "num": 158659,
+      "word": "黑神话悟空的建筑美学",
+      "onboard_time": 1718454619,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158566,
       "num": 158566,
       "word": "李章洙发文讨要北京房产",
@@ -13089,6 +13161,14 @@
       "onboard_time": 1718251399,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 156789,
+      "num": 156789,
+      "word": "王源伪装差点被路人认出",
+      "onboard_time": 1718453238,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 156740,
@@ -14281,6 +14361,14 @@
       "onboard_time": 1718193799,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140984,
+      "num": 140984,
+      "word": "莫文蔚鸟巢演唱会",
+      "onboard_time": 1718452038,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 140939,
@@ -15627,6 +15715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126212,
+      "num": 123737,
+      "word": "上海电影节红毯",
+      "onboard_time": 1718453118,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126165,
       "num": 126165,
       "word": "偷偷升高你尿酸的不只是嘌呤",
@@ -15729,6 +15825,14 @@
       "onboard_time": 1718416637,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125439,
+      "num": 122855,
+      "word": "王俊凯和鸽子合照",
+      "onboard_time": 1718452998,
+      "rank": 43,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 125389,
@@ -15929,6 +16033,14 @@
       "onboard_time": 1718187018,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122795,
+      "num": 122795,
+      "word": "六级试卷",
+      "onboard_time": 1718454678,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 122790,
@@ -16531,6 +16643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115128,
+      "num": 448017,
+      "word": "大四女生实习转正能拿8个月年终奖",
+      "onboard_time": 1718446339,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115109,
       "num": 115109,
       "word": "乒乓世界",
@@ -16859,6 +16979,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 111200,
+      "num": 329217,
+      "word": "何炅被天猫的大红包不小心砸到了",
+      "onboard_time": 1718452817,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111139,
       "num": 571688,
       "word": "网红胡涵溪93岁姥姥去世",
@@ -17097,14 +17225,6 @@
       "onboard_time": 1717986256,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 107364,
-      "num": 448017,
-      "word": "大四女生实习转正能拿8个月年终奖",
-      "onboard_time": 1718446339,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107359,
@@ -18979,6 +19099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54634,
+      "num": 208624,
+      "word": "韩东君下不了车",
+      "onboard_time": 1718451317,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54529,
       "num": 186506,
       "word": "2024高考出分时间",
@@ -19259,6 +19387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 47489,
+      "num": 406174,
+      "word": "浙江大学回应姜萍梦中高校",
+      "onboard_time": 1718454198,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 47275,
       "num": 148437,
       "word": "高温预警清凉单品成热销主力军",
@@ -19500,7 +19636,7 @@
     },
     {
       "raw_hot": 41686,
-      "num": 948015,
+      "num": 1037314,
       "word": "中暑应急处置4个要点",
       "onboard_time": 1718439378,
       "rank": 2,

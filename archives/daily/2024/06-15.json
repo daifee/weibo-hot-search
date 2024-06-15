@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718451313365,
+  "endTime": 1718454850709,
   "band_list": [
     {
       "raw_hot": 6639747,
@@ -49,6 +49,22 @@
       "onboard_time": 1718413939,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1872227,
+      "num": 1872227,
+      "word": "周也和六公主碰拳",
+      "onboard_time": 1718450119,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1816259,
+      "num": 606880,
+      "word": "周也 已老实求放过",
+      "onboard_time": 1718454317,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1745024,
@@ -171,6 +187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1035707,
+      "num": 1035707,
+      "word": "情侣高考结束后举行订婚宴",
+      "onboard_time": 1718450598,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1032137,
       "num": 1032137,
       "word": "村支书否认姜萍因家贫放弃读高中",
@@ -201,14 +225,6 @@
       "onboard_time": 1718413397,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 920092,
-      "num": 920092,
-      "word": "周也和六公主碰拳",
-      "onboard_time": 1718450119,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 916555,
@@ -345,6 +361,14 @@
       "onboard_time": 1718357120,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 691872,
+      "num": 399154,
+      "word": "周也拿了六公主手里的糖",
+      "onboard_time": 1718451978,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 691112,
@@ -779,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341859,
+      "num": 341859,
+      "word": "欧洲杯",
+      "onboard_time": 1718349260,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340696,
       "num": 340696,
       "word": "尚雯婕录制TF三代出道战",
@@ -891,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291806,
+      "num": 204795,
+      "word": "还是低估了墨雨云间的爽",
+      "onboard_time": 1718454377,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289303,
       "num": 289303,
       "word": "光与夜之恋与炫迈停止合作",
@@ -993,6 +1033,14 @@
       "onboard_time": 1718380820,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249950,
+      "num": 195801,
+      "word": "考研上岸后亲戚发朋友圈阴阳我",
+      "onboard_time": 1718451796,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 248248,
@@ -1323,6 +1371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192198,
+      "num": 192198,
+      "word": "排球少年电影",
+      "onboard_time": 1718454377,
+      "rank": 24,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 192116,
       "num": 212818,
       "word": "歌手直播",
@@ -1459,14 +1515,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 180730,
-      "num": 180730,
-      "word": "情侣高考结束后举行订婚宴",
-      "onboard_time": 1718450598,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 180152,
       "num": 180152,
       "word": "电影蛟龙行动",
@@ -1491,12 +1539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178211,
+      "num": 178211,
+      "word": "张艺兴现场",
+      "onboard_time": 1718451436,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175745,
       "num": 212634,
       "word": "耳帝",
       "onboard_time": 1718381597,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173339,
+      "num": 173339,
+      "word": "今晚朱婷不首发",
+      "onboard_time": 1718454678,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 173318,
@@ -1627,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166612,
+      "num": 166612,
+      "word": "彭昱畅瘦了好多",
+      "onboard_time": 1718454619,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164464,
       "num": 212484,
       "word": "赖冠霖改网名没文化的野人",
@@ -1699,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158659,
+      "num": 158659,
+      "word": "黑神话悟空的建筑美学",
+      "onboard_time": 1718454619,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157857,
       "num": 157857,
       "word": "刘亦菲 玫瑰会在雨后成长",
@@ -1713,6 +1793,14 @@
       "onboard_time": 1718447239,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 156789,
+      "num": 156789,
+      "word": "王源伪装差点被路人认出",
+      "onboard_time": 1718453238,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 155928,
@@ -1817,6 +1905,14 @@
       "onboard_time": 1718448498,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140984,
+      "num": 140984,
+      "word": "莫文蔚鸟巢演唱会",
+      "onboard_time": 1718452038,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 140312,
@@ -1939,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129668,
+      "num": 124434,
+      "word": "墨雨云间",
+      "onboard_time": 1718443038,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128928,
       "num": 436419,
       "word": "想念陈红军陈祥榕肖思远王焯冉",
@@ -1969,6 +2073,14 @@
       "onboard_time": 1718431218,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126212,
+      "num": 123737,
+      "word": "上海电影节红毯",
+      "onboard_time": 1718453118,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 126096,
@@ -2003,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125439,
+      "num": 122855,
+      "word": "王俊凯和鸽子合照",
+      "onboard_time": 1718452998,
+      "rank": 43,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 124208,
       "num": 124208,
       "word": "奥林匹克日",
@@ -2027,20 +2147,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122795,
+      "num": 122795,
+      "word": "六级试卷",
+      "onboard_time": 1718454678,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122502,
       "num": 122502,
       "word": "DQ 剑网3",
       "onboard_time": 1718419757,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 121533,
-      "num": 121533,
-      "word": "墨雨云间",
-      "onboard_time": 1718443038,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 121463,
@@ -2131,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115128,
+      "num": 448017,
+      "word": "大四女生实习转正能拿8个月年终奖",
+      "onboard_time": 1718446339,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114564,
       "num": 114564,
       "word": "小伞红温",
@@ -2179,6 +2307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111200,
+      "num": 329217,
+      "word": "何炅被天猫的大红包不小心砸到了",
+      "onboard_time": 1718452817,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110700,
       "num": 110700,
       "word": "陈昊宇刺绣青衣",
@@ -2217,14 +2353,6 @@
       "onboard_time": 1718414477,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107364,
-      "num": 448017,
-      "word": "大四女生实习转正能拿8个月年终奖",
-      "onboard_time": 1718446339,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 106542,
@@ -2451,14 +2579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70152,
-      "num": 85051,
-      "word": "欧洲杯",
-      "onboard_time": 1718349260,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 65571,
       "num": 280535,
       "word": "被浙江医院产房外的显示屏暖到了",
@@ -2547,6 +2667,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 54634,
+      "num": 208624,
+      "word": "韩东君下不了车",
+      "onboard_time": 1718451317,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51868,
       "num": 160818,
       "word": "小伙高考结束后仍5点起床跑步",
@@ -2561,6 +2689,14 @@
       "onboard_time": 1718431697,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 47489,
+      "num": 406174,
+      "word": "浙江大学回应姜萍梦中高校",
+      "onboard_time": 1718454198,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 47275,
@@ -2588,7 +2724,7 @@
     },
     {
       "raw_hot": 41686,
-      "num": 948015,
+      "num": 1037314,
       "word": "中暑应急处置4个要点",
       "onboard_time": 1718439378,
       "rank": 2,
