@@ -1,6 +1,6 @@
 {
   "startTime": 1718382201736,
-  "endTime": 1718464816698,
+  "endTime": 1718465661828,
   "band_list": [
     {
       "raw_hot": 6639747,
@@ -707,6 +707,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458944,
+      "num": 246567,
+      "word": "雌激素降低确实会催人老",
+      "onboard_time": 1718463019,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 458340,
+      "num": 379890,
+      "word": "王媛媛神级发挥",
+      "onboard_time": 1718464219,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 457757,
       "num": 457757,
       "word": "刘奔回应因姜萍走红",
@@ -875,6 +891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 381076,
+      "num": 381076,
+      "word": "许嵩 谢谢你在3650万首歌里听到我",
+      "onboard_time": 1718463259,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 375973,
       "num": 375973,
       "word": "四级听力已老实",
@@ -889,14 +913,6 @@
       "onboard_time": 1718434999,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 370817,
-      "num": 370817,
-      "word": "许嵩 谢谢你在3650万首歌里听到我",
-      "onboard_time": 1718463259,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 370687,
@@ -1083,14 +1099,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 280892,
-      "num": 246567,
-      "word": "雌激素降低确实会催人老",
-      "onboard_time": 1718463019,
-      "rank": 20,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 280513,
       "num": 280513,
       "word": "电影野孩子定档暑期",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1718413939,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248225,
-      "num": 248225,
-      "word": "王媛媛神级发挥",
-      "onboard_time": 1718464219,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 246523,
@@ -1459,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204419,
+      "num": 204419,
+      "word": "林俊杰jj20世界巡回演唱会",
+      "onboard_time": 1718462420,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203050,
       "num": 203050,
       "word": "倪妮上影节高定首穿",
@@ -1651,6 +1659,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 189377,
+      "num": 189377,
+      "word": "朱珠 要听从自己内心的声音",
+      "onboard_time": 1718463319,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189177,
       "num": 189177,
       "word": "古茗",
@@ -1675,28 +1691,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188296,
-      "num": 188296,
-      "word": "林俊杰jj20世界巡回演唱会",
-      "onboard_time": 1718462420,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 188267,
       "num": 188267,
       "word": "狗阵",
       "onboard_time": 1718435297,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187445,
-      "num": 187445,
-      "word": "朱珠 要听从自己内心的声音",
-      "onboard_time": 1718463319,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 186732,
@@ -2067,6 +2067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162705,
+      "num": 162705,
+      "word": "女排积分",
+      "onboard_time": 1718464939,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162497,
       "num": 162497,
       "word": "RSG等了三年的冠军",
@@ -2140,7 +2148,7 @@
     },
     {
       "raw_hot": 158913,
-      "num": 150958,
+      "num": 153057,
       "word": "范丞丞说我看得很爽",
       "onboard_time": 1718462299,
       "rank": 39,
@@ -2305,6 +2313,14 @@
       "onboard_time": 1718457798,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141773,
+      "num": 141773,
+      "word": "城市捉迷藏",
+      "onboard_time": 1718465118,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 141647,
@@ -3083,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67574,
+      "num": 405487,
+      "word": "大爷骑车侧翻第一反应向后车道歉",
+      "onboard_time": 1718463560,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 65571,
       "num": 280535,
       "word": "被浙江医院产房外的显示屏暖到了",
@@ -3113,14 +3137,6 @@
       "onboard_time": 1718417178,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60863,
-      "num": 405487,
-      "word": "大爷骑车侧翻第一反应向后车道歉",
-      "onboard_time": 1718463560,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 60834,
@@ -3241,6 +3257,14 @@
       "onboard_time": 1718435058,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41911,
+      "num": 196354,
+      "word": "男子父亲节带退休父亲开新能源车",
+      "onboard_time": 1718464039,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41423,

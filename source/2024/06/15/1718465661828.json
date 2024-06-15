@@ -1,0 +1,410 @@
+{
+  "runTime": 1718465661828,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1570374,
+        "num": 1570374,
+        "word": "中国女排3比2土耳其女排",
+        "onboard_time": 1718462900,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1454776,
+        "num": 1454776,
+        "word": "女子长期乏力全家查出吸血鬼病基因",
+        "onboard_time": 1718459418,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55582,
+        "num": 683407,
+        "word": "来自嫦娥六号神秘包裹请注意查收",
+        "onboard_time": 1718459779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667139,
+        "num": 667139,
+        "word": "周也和六公主碰拳",
+        "onboard_time": 1718450119,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 619216,
+        "num": 619216,
+        "word": "张常宁好牛",
+        "onboard_time": 1718459838,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400662,
+        "num": 400662,
+        "word": "欧洲杯",
+        "onboard_time": 1718453357,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488870,
+        "num": 397284,
+        "word": "周深回应孙楠唱人是",
+        "onboard_time": 1718462720,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 385297,
+        "num": 385297,
+        "word": "王老师",
+        "onboard_time": 1718458699,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1930853,
+        "num": 383709,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381076,
+        "num": 381076,
+        "word": "许嵩 谢谢你在3650万首歌里听到我",
+        "onboard_time": 1718463259,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 458340,
+        "num": 379890,
+        "word": "王媛媛神级发挥",
+        "onboard_time": 1718464219,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372035,
+        "num": 372035,
+        "word": "10元手冲咖啡阿姨回应不火了",
+        "onboard_time": 1718456418,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364115,
+        "num": 364115,
+        "word": "中国女排晋级世联赛总决赛",
+        "onboard_time": 1718462840,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339324,
+        "num": 339324,
+        "word": "王星越 想谈系",
+        "onboard_time": 1718460379,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324222,
+        "num": 324222,
+        "word": "情侣高考结束后举行订婚宴",
+        "onboard_time": 1718450598,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288473,
+        "num": 288473,
+        "word": "凯特公开露面",
+        "onboard_time": 1718444840,
+        "rank": 15,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 255140,
+        "num": 255140,
+        "word": "还是低估了墨雨云间的爽",
+        "onboard_time": 1718454377,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254856,
+        "num": 254856,
+        "word": "彭昱畅瘦了好多",
+        "onboard_time": 1718454619,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253105,
+        "num": 253105,
+        "word": "会长是女仆大人 双强情侣",
+        "onboard_time": 1718455999,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 67574,
+        "num": 214026,
+        "word": "大爷骑车侧翻第一反应向后车道歉",
+        "onboard_time": 1718463560,
+        "rank": 19,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 458944,
+        "num": 212952,
+        "word": "雌激素降低确实会催人老",
+        "onboard_time": 1718463019,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 211817,
+        "num": 211817,
+        "word": "荣梓杉成年了衬衫可以开大点",
+        "onboard_time": 1718461759,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204846,
+        "num": 204846,
+        "word": "陈丽君选陈昊宇演梁祝",
+        "onboard_time": 1718464459,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204419,
+        "num": 204419,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1718462420,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204263,
+        "num": 204263,
+        "word": "周也拿了六公主手里的糖",
+        "onboard_time": 1718451978,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41911,
+        "num": 196354,
+        "word": "男子父亲节带退休父亲开新能源车",
+        "onboard_time": 1718464039,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193842,
+        "num": 193842,
+        "word": "赖冠霖 退圈信",
+        "onboard_time": 1718433557,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189377,
+        "num": 189377,
+        "word": "朱珠 要听从自己内心的声音",
+        "onboard_time": 1718463319,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181531,
+        "num": 181531,
+        "word": "中式婚礼",
+        "onboard_time": 1718448198,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 175736,
+        "num": 175736,
+        "word": "成毅回忆入行第一部戏",
+        "onboard_time": 1718464578,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169125,
+        "num": 169125,
+        "word": "翔霖",
+        "onboard_time": 1718460799,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163805,
+        "num": 163805,
+        "word": "沈腾说我穿什么都配不上马丽",
+        "onboard_time": 1718456658,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162705,
+        "num": 162705,
+        "word": "女排积分",
+        "onboard_time": 1718464939,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156342,
+        "num": 156342,
+        "word": "泰国大学生诱拐20名女性",
+        "onboard_time": 1718460139,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153057,
+        "num": 153057,
+        "word": "范丞丞说我看得很爽",
+        "onboard_time": 1718462299,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150769,
+        "num": 150769,
+        "word": "卡琳娜cos铠",
+        "onboard_time": 1718463139,
+        "rank": 35,
+        "category": "网红,游戏"
+      },
+      {
+        "raw_hot": 149569,
+        "num": 149569,
+        "word": "蔡依林无人机应援",
+        "onboard_time": 1718461459,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144759,
+        "num": 144759,
+        "word": "六级答案",
+        "onboard_time": 1718444420,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141773,
+        "num": 141773,
+        "word": "城市捉迷藏",
+        "onboard_time": 1718465118,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129719,
+        "num": 129719,
+        "word": "中国女排让二追三",
+        "onboard_time": 1718463498,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134990,
+        "num": 129124,
+        "word": "王星越也打卡了吴谨言",
+        "onboard_time": 1718457198,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128252,
+        "num": 128252,
+        "word": "摩羯座真正的追求",
+        "onboard_time": 1718457139,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121088,
+        "num": 121088,
+        "word": "许嵩内线首唱",
+        "onboard_time": 1718458999,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115430,
+        "num": 115430,
+        "word": "张杰雨中唱跳",
+        "onboard_time": 1718459118,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114090,
+        "num": 114090,
+        "word": "今晚朱婷不首发",
+        "onboard_time": 1718454678,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112973,
+        "num": 112973,
+        "word": "考研上岸后亲戚发朋友圈阴阳我",
+        "onboard_time": 1718451796,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111026,
+        "num": 111026,
+        "word": "凡尔赛宫偶遇肖战",
+        "onboard_time": 1718449998,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108752,
+        "num": 108752,
+        "word": "蒋敦豪巡演",
+        "onboard_time": 1718461100,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107366,
+        "num": 107366,
+        "word": "六级",
+        "onboard_time": 1718443337,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102795,
+        "num": 107366,
+        "word": "老头杯",
+        "onboard_time": 1718462178,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的赤子之心#"
+    }
+  }
+}
