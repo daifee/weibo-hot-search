@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718508093366,
+  "endTime": 1718508905565,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -449,6 +449,14 @@
       "onboard_time": 1718444840,
       "rank": 3,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 2122450,
+      "num": 2122450,
+      "word": "南方医科大 教师因救人上课迟到被罚",
+      "onboard_time": 1718502317,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2119199,
@@ -953,14 +961,6 @@
       "onboard_time": 1717558938,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1619509,
-      "num": 1619509,
-      "word": "南方医科大 教师因救人上课迟到被罚",
-      "onboard_time": 1718502317,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1613663,
@@ -2475,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1096341,
+      "num": 763375,
+      "word": "猝死前的5分钟身体经历了什么",
+      "onboard_time": 1718503096,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1095522,
       "num": 1095522,
       "word": "凯特王妃",
@@ -2849,14 +2857,6 @@
       "onboard_time": 1717932017,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 995139,
-      "num": 763375,
-      "word": "猝死前的5分钟身体经历了什么",
-      "onboard_time": 1718503096,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 993812,
@@ -4921,6 +4921,14 @@
       "onboard_time": 1717417338,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 712449,
+      "num": 645119,
+      "word": "赵露思陈伟霆亲吻路透",
+      "onboard_time": 1718506997,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 710520,
@@ -6996,7 +7004,7 @@
     },
     {
       "raw_hot": 571721,
-      "num": 268563,
+      "num": 289146,
       "word": "周杰伦ins发了张艺兴",
       "onboard_time": 1718505558,
       "rank": 21,
@@ -8097,14 +8105,6 @@
       "onboard_time": 1717574898,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 514448,
-      "num": 514448,
-      "word": "赵露思陈伟霆亲吻路透",
-      "onboard_time": 1718506997,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 514366,
@@ -11227,6 +11227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 394547,
+      "num": 394547,
+      "word": "张艺谋导演电影版三体",
+      "onboard_time": 1718506517,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 394494,
       "num": 445341,
       "word": "公积金房贷利率下调有何影响",
@@ -11265,14 +11273,6 @@
       "onboard_time": 1717809618,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 392890,
-      "num": 392890,
-      "word": "张艺谋导演电影版三体",
-      "onboard_time": 1718506517,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 392817,
@@ -13395,6 +13395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332850,
+      "num": 332850,
+      "word": "王星越定风波出妆",
+      "onboard_time": 1718508378,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332098,
       "num": 327842,
       "word": "韩国UP主爆料20年前集体性侵案",
@@ -13857,6 +13865,14 @@
       "onboard_time": 1718151378,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 320487,
+      "num": 320487,
+      "word": "南方医科大学教师因救死扶伤受处分",
+      "onboard_time": 1718507057,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320381,
@@ -14545,6 +14561,14 @@
       "onboard_time": 1717938678,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 302919,
+      "num": 302919,
+      "word": "鞠婧祎G社生图",
+      "onboard_time": 1718507837,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 302902,
@@ -16099,6 +16123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272431,
+      "num": 272431,
+      "word": "为什么建议夏天多吃面",
+      "onboard_time": 1718506277,
+      "rank": 22,
+      "category": "健康医疗,科学科普"
+    },
+    {
       "raw_hot": 272283,
       "num": 272283,
       "word": "甲卷数学 算不完",
@@ -16755,14 +16787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260374,
-      "num": 260374,
-      "word": "南方医科大学教师因救死扶伤受处分",
-      "onboard_time": 1718507057,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 260227,
       "num": 260227,
       "word": "刘亦菲孟佳再合作",
@@ -17273,14 +17297,6 @@
       "onboard_time": 1717764380,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 250653,
-      "num": 250653,
-      "word": "为什么建议夏天多吃面",
-      "onboard_time": 1718506277,
-      "rank": 22,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 250586,
@@ -17889,6 +17905,14 @@
       "onboard_time": 1717468516,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 240525,
+      "num": 180232,
+      "word": "Doinb谈Uzi停播",
+      "onboard_time": 1718507417,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 240452,
@@ -20003,14 +20027,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 213484,
-      "num": 213484,
-      "word": "鞠婧祎G社生图",
-      "onboard_time": 1718507837,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 213416,
       "num": 173415,
       "word": "20岁用脚考上985大学的男生怎样了",
@@ -20065,14 +20081,6 @@
       "onboard_time": 1717983796,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212720,
-      "num": 180232,
-      "word": "Doinb谈Uzi停播",
-      "onboard_time": 1718507417,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 212601,
@@ -20489,6 +20497,14 @@
       "onboard_time": 1718247197,
       "rank": 31,
       "category": "幽默,国外时政"
+    },
+    {
+      "raw_hot": 209302,
+      "num": 209302,
+      "word": "易烊千玺奢牌待遇",
+      "onboard_time": 1718508738,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209201,
@@ -25691,6 +25707,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 175139,
+      "num": 175139,
+      "word": "教师因治病救人迟到该不该受处分",
+      "onboard_time": 1718508738,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175099,
+      "num": 175099,
+      "word": "村民称姜萍选择涟水中专有2个原因",
+      "onboard_time": 1718507177,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175046,
       "num": 175046,
       "word": "郭麒麟一不小心优秀了一下",
@@ -27083,14 +27115,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 165856,
-      "num": 165856,
-      "word": "村民称姜萍选择涟水中专有2个原因",
-      "onboard_time": 1718507177,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165834,
       "num": 165834,
       "word": "建议用户每周重新启动一次手机",
@@ -27553,6 +27577,14 @@
       "onboard_time": 1717290376,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162770,
+      "num": 162770,
+      "word": "张杰配音想对爸爸说的话",
+      "onboard_time": 1718507897,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162719,
@@ -30907,6 +30939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143888,
+      "num": 143888,
+      "word": "无聊的大人",
+      "onboard_time": 1718507837,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 143869,
       "num": 143869,
       "word": "戚薇bangbang",
@@ -33035,6 +33075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131914,
+      "num": 131914,
+      "word": "专四考老实了",
+      "onboard_time": 1718508556,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131806,
       "num": 130605,
       "word": "暗河传",
@@ -34963,14 +35011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121892,
-      "num": 121892,
-      "word": "张杰配音想对爸爸说的话",
-      "onboard_time": 1718507897,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121865,
       "num": 121865,
       "word": "夏天常做但伤身的行为",
@@ -36377,14 +36417,6 @@
       "onboard_time": 1718415317,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 113845,
-      "num": 113845,
-      "word": "无聊的大人",
-      "onboard_time": 1718507837,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 113826,
@@ -39243,6 +39275,14 @@
       "category": "健康医疗,科学科普"
     },
     {
+      "raw_hot": 88521,
+      "num": 149236,
+      "word": "代购花7元就能伪造海外快递信息",
+      "onboard_time": 1718508677,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88462,
       "num": 137733,
       "word": "小虞姬与cube聊天记录",
@@ -41043,6 +41083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63671,
+      "num": 560991,
+      "word": "顺序志愿填报时第一志愿有多重要",
+      "onboard_time": 1718505977,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 63577,
       "num": 1026740,
       "word": "月面软着陆背后的发动机奥秘",
@@ -41459,6 +41507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59074,
+      "num": 839646,
+      "word": "今天向这些父亲致敬",
+      "onboard_time": 1718505797,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59070,
       "num": 303929,
       "word": "苹果店样机备忘录留言令人泪目",
@@ -41577,14 +41633,6 @@
       "onboard_time": 1717509319,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 57807,
-      "num": 839646,
-      "word": "今天向这些父亲致敬",
-      "onboard_time": 1718505797,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57610,
@@ -42225,14 +42273,6 @@
       "onboard_time": 1717837698,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51243,
-      "num": 560991,
-      "word": "顺序志愿填报时第一志愿有多重要",
-      "onboard_time": 1718505977,
-      "rank": 29,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 50892,
@@ -43556,7 +43596,7 @@
     },
     {
       "raw_hot": 35471,
-      "num": 150462,
+      "num": 153949,
       "word": "父亲节前爸爸捐骨髓教儿子感恩",
       "onboard_time": 1718500996,
       "rank": 25,
@@ -44848,6 +44888,14 @@
       "word": "高考送考名场面",
       "onboard_time": 1717792811,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17122,
+      "num": 580255,
+      "word": "爸爸撑起了我的全世界",
+      "onboard_time": 1718503517,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1718508905565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2122450,
+        "num": 2122450,
+        "word": "南方医科大 教师因救人上课迟到被罚",
+        "onboard_time": 1718502317,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 977755,
+        "num": 977755,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59074,
+        "num": 785349,
+        "word": "今天向这些父亲致敬",
+        "onboard_time": 1718505797,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1411773,
+        "num": 773279,
+        "word": "周也公关",
+        "onboard_time": 1718502796,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1096341,
+        "num": 746299,
+        "word": "猝死前的5分钟身体经历了什么",
+        "onboard_time": 1718503096,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 654233,
+        "num": 654233,
+        "word": "父亲节快乐",
+        "onboard_time": 1718493733,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 712449,
+        "num": 645119,
+        "word": "赵露思陈伟霆亲吻路透",
+        "onboard_time": 1718506997,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707383,
+        "num": 628721,
+        "word": "赖冠霖说工作室没钱了",
+        "onboard_time": 1718501536,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1159255,
+        "num": 589355,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17122,
+        "num": 580255,
+        "word": "爸爸撑起了我的全世界",
+        "onboard_time": 1718503517,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672797,
+        "num": 556415,
+        "word": "警方通报废弃楼发现男尸",
+        "onboard_time": 1718503038,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 534572,
+        "num": 534572,
+        "word": "姜萍",
+        "onboard_time": 1718505857,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480486,
+        "num": 480486,
+        "word": "专四",
+        "onboard_time": 1718506697,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 418579,
+        "num": 418579,
+        "word": "宝宝睡上了外公睡过的古董摇摇床",
+        "onboard_time": 1718499016,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394547,
+        "num": 394547,
+        "word": "张艺谋导演电影版三体",
+        "onboard_time": 1718506517,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340065,
+        "num": 340065,
+        "word": "开空调嫌冷 不开空调嫌热",
+        "onboard_time": 1718502618,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332850,
+        "num": 332850,
+        "word": "王星越定风波出妆",
+        "onboard_time": 1718508378,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320487,
+        "num": 320487,
+        "word": "南方医科大学教师因救死扶伤受处分",
+        "onboard_time": 1718507057,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311513,
+        "num": 311513,
+        "word": "TF三代出道战导师",
+        "onboard_time": 1718506156,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302919,
+        "num": 302919,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1718507837,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544314,
+        "num": 289146,
+        "word": "周杰伦ins发了张艺兴",
+        "onboard_time": 1718505558,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 272431,
+        "num": 272431,
+        "word": "为什么建议夏天多吃面",
+        "onboard_time": 1718506277,
+        "rank": 21,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 263212,
+        "num": 263212,
+        "word": "专四答案",
+        "onboard_time": 1718507537,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 221995,
+        "num": 221995,
+        "word": "地铁被诬偷拍案男子将直播带货",
+        "onboard_time": 1718503456,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209302,
+        "num": 209302,
+        "word": "易烊千玺奢牌待遇",
+        "onboard_time": 1718508738,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208374,
+        "num": 208374,
+        "word": "王星越正是忍不住炫耀的年纪",
+        "onboard_time": 1718503997,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180632,
+        "num": 180632,
+        "word": "少年白马醉春风预约人数破百万",
+        "onboard_time": 1718507598,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178696,
+        "num": 178696,
+        "word": "刘亦菲泳池戏",
+        "onboard_time": 1718501777,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175139,
+        "num": 175139,
+        "word": "教师因治病救人迟到该不该受处分",
+        "onboard_time": 1718508738,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175099,
+        "num": 175099,
+        "word": "村民称姜萍选择涟水中专有2个原因",
+        "onboard_time": 1718507177,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240525,
+        "num": 169425,
+        "word": "Doinb谈Uzi停播",
+        "onboard_time": 1718507417,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162770,
+        "num": 162770,
+        "word": "张杰配音想对爸爸说的话",
+        "onboard_time": 1718507897,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159801,
+        "num": 159801,
+        "word": "倪妮工作室",
+        "onboard_time": 1718504717,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159407,
+        "num": 159407,
+        "word": "大一男生39天减重20斤后猝死家属发声",
+        "onboard_time": 1718496255,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63671,
+        "num": 154404,
+        "word": "顺序志愿填报时第一志愿有多重要",
+        "onboard_time": 1718505977,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 16174,
+        "num": 153949,
+        "word": "父亲节前爸爸捐骨髓教儿子感恩",
+        "onboard_time": 1718500996,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153904,
+        "num": 153904,
+        "word": "周深在成都吃了蚊子刺身",
+        "onboard_time": 1718494873,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152303,
+        "num": 152303,
+        "word": "网约车 不开空调",
+        "onboard_time": 1718506338,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150086,
+        "num": 150086,
+        "word": "外媒镜头下的易烊千玺生图",
+        "onboard_time": 1718493733,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 88521,
+        "num": 149236,
+        "word": "代购花7元就能伪造海外快递信息",
+        "onboard_time": 1718508677,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149129,
+        "num": 149129,
+        "word": "父亲对女儿性格的影响",
+        "onboard_time": 1718505617,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145459,
+        "num": 145459,
+        "word": "陈丽君刘忻亚比囧囧囧直拍",
+        "onboard_time": 1718507358,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143888,
+        "num": 143888,
+        "word": "无聊的大人",
+        "onboard_time": 1718507837,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143048,
+        "num": 143048,
+        "word": "邓紫棋哭得差点唱不下去",
+        "onboard_time": 1718494754,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131914,
+        "num": 131914,
+        "word": "专四考老实了",
+        "onboard_time": 1718508556,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126667,
+        "num": 126667,
+        "word": "怎么让一个成年人九点半就睡觉",
+        "onboard_time": 1718496615,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124137,
+        "num": 124137,
+        "word": "父亲节宜炫父",
+        "onboard_time": 1718496615,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123156,
+        "num": 123156,
+        "word": "邓超终于上了影帝大号",
+        "onboard_time": 1718470335,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120369,
+        "num": 120369,
+        "word": "考上编制好朋友把我删了",
+        "onboard_time": 1718493973,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112233,
+        "num": 112233,
+        "word": "欧洲杯历史最快进球",
+        "onboard_time": 1718493495,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}
