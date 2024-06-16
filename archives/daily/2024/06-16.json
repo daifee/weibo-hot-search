@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718534172511,
+  "endTime": 1718536582736,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -49,6 +49,14 @@
       "onboard_time": 1718469016,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1458207,
+      "num": 1458207,
+      "word": "丁真居然白了",
+      "onboard_time": 1718533399,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1360637,
@@ -171,14 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 787474,
-      "num": 251281,
-      "word": "丁真居然白了",
-      "onboard_time": 1718533399,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 745434,
       "num": 559370,
       "word": "警方通报废弃楼发现男尸",
@@ -225,6 +225,14 @@
       "onboard_time": 1718463019,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 684141,
+      "num": 327557,
+      "word": "庆余年 二皇子",
+      "onboard_time": 1718533637,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 670724,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 592010,
-      "num": 290535,
+      "num": 294190,
       "word": "章子怡压轴",
       "onboard_time": 1718532498,
       "rank": 23,
@@ -491,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 436557,
+      "num": 436557,
+      "word": "店员以为狗狗没洗干净",
+      "onboard_time": 1718534178,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 428190,
       "num": 428190,
       "word": "孙卓祝孙海洋父亲节快乐",
@@ -603,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 383787,
+      "num": 287478,
+      "word": "赵丽颖出场哇声一片",
+      "onboard_time": 1718531777,
+      "rank": 13,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 381417,
       "num": 381417,
       "word": "熬夜看球前建议先睡一觉",
@@ -633,14 +657,6 @@
       "onboard_time": 1718453357,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371934,
-      "num": 262085,
-      "word": "赵丽颖出场哇声一片",
-      "onboard_time": 1718531777,
-      "rank": 13,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 371358,
@@ -691,6 +707,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 350578,
+      "num": 179098,
+      "word": "不结婚的年轻人重伤糖果业",
+      "onboard_time": 1718534178,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 343910,
+      "num": 343910,
+      "word": "花城 血雨探花",
+      "onboard_time": 1718534357,
+      "rank": 5,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 341258,
       "num": 341258,
       "word": "父亲节宜炫父",
@@ -705,6 +737,14 @@
       "onboard_time": 1718480771,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 335105,
+      "num": 283946,
+      "word": "十个勤天短袖",
+      "onboard_time": 1718534417,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 328626,
@@ -795,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277618,
+      "num": 277618,
+      "word": "恋与制作人",
+      "onboard_time": 1718534718,
+      "rank": 15,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 276787,
       "num": 276787,
       "word": "这是我离王俊凯最近的一次",
@@ -809,6 +857,14 @@
       "onboard_time": 1718503456,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273109,
+      "num": 172121,
+      "word": "王星越切小号",
+      "onboard_time": 1718536218,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 272156,
@@ -833,6 +889,14 @@
       "onboard_time": 1718513357,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 261772,
+      "num": 261772,
+      "word": "姜萍走红后有企业给姜父送钱",
+      "onboard_time": 1718531359,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 259989,
@@ -865,6 +929,22 @@
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 250991,
+      "num": 170611,
+      "word": "金晨一只袖子上有30颗珍珠",
+      "onboard_time": 1718535319,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 246316,
+      "num": 164047,
+      "word": "微博电影之夜直播",
+      "onboard_time": 1718535978,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 244751,
@@ -1003,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 213105,
+      "num": 183793,
+      "word": "刘昊然真的帅回来了",
+      "onboard_time": 1718532798,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212613,
       "num": 181188,
       "word": "王星越 想谈系",
@@ -1017,14 +1105,6 @@
       "onboard_time": 1718527638,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209710,
-      "num": 183793,
-      "word": "刘昊然真的帅回来了",
-      "onboard_time": 1718532798,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 209597,
@@ -1115,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197704,
+      "num": 134209,
+      "word": "王一博工作室放饭啦",
+      "onboard_time": 1718536038,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197085,
       "num": 197085,
       "word": "广东一货车当街与复兴号撞上了",
@@ -1169,6 +1257,14 @@
       "onboard_time": 1718459838,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193796,
+      "num": 133822,
+      "word": "蔡徐坤舞美",
+      "onboard_time": 1718536518,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 193785,
@@ -1243,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182337,
+      "num": 169839,
+      "word": "只有山西人知道孙丞潇骂的很脏",
+      "onboard_time": 1718533818,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181112,
       "num": 157265,
       "word": "内蒙古一停工写字楼内发现遗体",
@@ -1315,14 +1419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171949,
-      "num": 171949,
-      "word": "姜萍走红后有企业给姜父送钱",
-      "onboard_time": 1718531359,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171571,
       "num": 171571,
       "word": "西班牙3比0克罗地亚",
@@ -1337,14 +1433,6 @@
       "onboard_time": 1718444840,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 169839,
-      "num": 169839,
-      "word": "只有山西人知道孙丞潇骂的很脏",
-      "onboard_time": 1718533818,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 169802,
@@ -1435,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 161572,
+      "num": 161572,
+      "word": "啥是烟卡",
+      "onboard_time": 1718535858,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "长沙初三少年与姜萍一同入围数学决赛",
@@ -1521,6 +1617,14 @@
       "onboard_time": 1718470755,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151836,
+      "num": 151836,
+      "word": "如何看待老师因抢救病人上课迟到被处分",
+      "onboard_time": 1718536218,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150100,
@@ -1643,6 +1747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134606,
+      "num": 134606,
+      "word": "2岁宝宝第一次出门买菜",
+      "onboard_time": 1718535319,
+      "rank": 38,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 134328,
       "num": 134328,
       "word": "GEN对战T1",
@@ -1657,6 +1769,14 @@
       "onboard_time": 1718493252,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133407,
+      "num": 133407,
+      "word": "男朋友手滑把消息发到了宿舍群里",
+      "onboard_time": 1718536337,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 132917,
@@ -1955,12 +2075,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111078,
-      "num": 111078,
-      "word": "庆余年 二皇子",
-      "onboard_time": 1718533637,
-      "rank": 48,
-      "category": "动漫"
+      "raw_hot": 112556,
+      "num": 112556,
+      "word": "BL对战OP",
+      "onboard_time": 1718535499,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 110900,
@@ -2025,6 +2145,14 @@
       "onboard_time": 1718451796,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104044,
+      "num": 104044,
+      "word": "当猫妈的崽被领养后",
+      "onboard_time": 1718536158,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 103701,
@@ -2160,6 +2288,14 @@
       "word": "代购花7元就能伪造海外快递信息",
       "onboard_time": 1718508677,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88470,
+      "num": 302637,
+      "word": "派出所备40多件衣服拍证件照",
+      "onboard_time": 1718534957,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2523,6 +2659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32139,
+      "num": 115055,
+      "word": "被娜扎的妆容硬控了",
+      "onboard_time": 1718536277,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31375,
       "num": 195918,
       "word": "常华森下颌线",
@@ -2569,6 +2713,14 @@
       "onboard_time": 1718478791,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22702,
+      "num": 279051,
+      "word": "微博电影之夜明星下车瞬间",
+      "onboard_time": 1718535618,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 21899,
@@ -2649,6 +2801,14 @@
       "onboard_time": 1718470936,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12629,
+      "num": 134473,
+      "word": "拜托我是第一个鸟巢开唱的流行女歌手",
+      "onboard_time": 1718536038,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 10898,
