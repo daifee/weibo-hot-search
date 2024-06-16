@@ -1,7 +1,15 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718529674857,
+  "endTime": 1718530533490,
   "band_list": [
+    {
+      "raw_hot": 2505331,
+      "num": 2505331,
+      "word": "王一博 不化妆",
+      "onboard_time": 1718529258,
+      "rank": 3,
+      "category": "电影"
+    },
     {
       "raw_hot": 2122450,
       "num": 2122450,
@@ -139,14 +147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 848117,
-      "num": 848117,
-      "word": "王一博 不化妆",
-      "onboard_time": 1718529258,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 842382,
       "num": 842382,
       "word": "疑似外国人起飞时偷拍军民合用机场",
@@ -179,6 +179,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705878,
+      "num": 550855,
+      "word": "娜扎 花仙子",
+      "onboard_time": 1718528357,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 700071,
+      "num": 497817,
+      "word": "孙丞潇一个人卖了20只鸡",
+      "onboard_time": 1718527877,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 691788,
       "num": 274935,
       "word": "雌激素降低确实会催人老",
@@ -193,14 +209,6 @@
       "onboard_time": 1718523197,
       "rank": 48,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 670284,
-      "num": 497817,
-      "word": "孙丞潇一个人卖了20只鸡",
-      "onboard_time": 1718527877,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 670179,
@@ -227,14 +235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 642035,
-      "num": 550855,
-      "word": "娜扎 花仙子",
-      "onboard_time": 1718528357,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 641375,
       "num": 343551,
       "word": "男朋友微信转账备注非自愿赠予",
@@ -257,6 +257,14 @@
       "onboard_time": 1718523856,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 610172,
+      "num": 610172,
+      "word": "姜萍妈妈称女儿正在备考",
+      "onboard_time": 1718525237,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 600790,
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 445631,
+      "num": 298704,
+      "word": "王一博你热不热",
+      "onboard_time": 1718528657,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 428190,
       "num": 428190,
       "word": "孙卓祝孙海洋父亲节快乐",
@@ -465,6 +481,14 @@
       "onboard_time": 1718499377,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 414168,
+      "num": 282459,
+      "word": "胡歌质问腾讯视频",
+      "onboard_time": 1718529798,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 412786,
@@ -643,11 +667,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320440,
+      "num": 320440,
+      "word": "南医大被罚老师所授课为留学生项目",
+      "onboard_time": 1718529078,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309613,
       "num": 309613,
       "word": "辛芷蕾遇到邓超也变i",
       "onboard_time": 1718517317,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 308887,
+      "num": 211535,
+      "word": "孙千裸背",
+      "onboard_time": 1718529617,
+      "rank": 32,
       "category": "电影"
     },
     {
@@ -681,6 +721,14 @@
       "onboard_time": 1718523017,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 282304,
+      "num": 282304,
+      "word": "上海通报女子地铁抢座位打人",
+      "onboard_time": 1718527758,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279186,
@@ -771,14 +819,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 246079,
-      "num": 246079,
-      "word": "上海通报女子地铁抢座位打人",
-      "onboard_time": 1718527758,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 244751,
       "num": 231242,
       "word": "钟楚曦美的像回家一样轻松",
@@ -827,20 +867,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229727,
+      "num": 225511,
+      "word": "沈月给王星越拍照",
+      "onboard_time": 1718529379,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229561,
       "num": 229561,
       "word": "荣梓杉成年了衬衫可以开大点",
       "onboard_time": 1718461759,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 225511,
-      "num": 225511,
-      "word": "沈月给王星越拍照",
-      "onboard_time": 1718529379,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 224655,
@@ -923,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211535,
-      "num": 211535,
-      "word": "孙千裸背",
-      "onboard_time": 1718529617,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 210942,
       "num": 210942,
       "word": "王源丁程鑫敖子逸同框",
@@ -953,6 +985,14 @@
       "onboard_time": 1718497216,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208553,
+      "num": 208553,
+      "word": "2岁女儿一直以为爸爸住在监控里",
+      "onboard_time": 1718530100,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206921,
@@ -980,7 +1020,7 @@
     },
     {
       "raw_hot": 203472,
-      "num": 138118,
+      "num": 184884,
       "word": "文淇造型师 精神状态",
       "onboard_time": 1718528898,
       "rank": 40,
@@ -1227,14 +1267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 169736,
-      "num": 234482,
-      "word": "南医大被罚老师所授课为留学生项目",
-      "onboard_time": 1718529078,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169495,
       "num": 154889,
       "word": "邓紫棋哭得差点唱不下去",
@@ -1313,6 +1345,14 @@
       "onboard_time": 1718507897,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 161830,
+      "num": 161830,
+      "word": "墨雨云间开虐",
+      "onboard_time": 1718530100,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 160291,
@@ -1643,6 +1683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125484,
+      "num": 125484,
+      "word": "黄明昊假发",
+      "onboard_time": 1718527397,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125388,
       "num": 125388,
       "word": "肖战续约青岛啤酒",
@@ -1940,7 +1988,7 @@
     },
     {
       "raw_hot": 89732,
-      "num": 101178,
+      "num": 104396,
       "word": "睡莲盛花期一整个清爽感",
       "onboard_time": 1718529617,
       "rank": 48,
@@ -2211,6 +2259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44041,
+      "num": 515476,
+      "word": "北京一高校为15对研究生办集体婚礼",
+      "onboard_time": 1718528597,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42120,
       "num": 46423,
       "word": "aespa被清票两万",
@@ -2249,14 +2305,6 @@
       "onboard_time": 1718488030,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37830,
-      "num": 515476,
-      "word": "北京一高校为15对研究生办集体婚礼",
-      "onboard_time": 1718528597,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37338,
@@ -2377,6 +2425,14 @@
       "onboard_time": 1718506697,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15301,
+      "num": 204250,
+      "word": "167人多等29分钟却跑赢了生命接力",
+      "onboard_time": 1718530457,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 15148,

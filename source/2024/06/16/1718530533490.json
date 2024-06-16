@@ -1,0 +1,410 @@
+{
+  "runTime": 1718530533490,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2505331,
+        "num": 2505331,
+        "word": "王一博 不化妆",
+        "onboard_time": 1718529258,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 610172,
+        "num": 610172,
+        "word": "姜萍妈妈称女儿正在备考",
+        "onboard_time": 1718525237,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69323,
+        "num": 500906,
+        "word": "中国电影龙标上邮票了",
+        "onboard_time": 1718527758,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705878,
+        "num": 498616,
+        "word": "娜扎 花仙子",
+        "onboard_time": 1718528357,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490247,
+        "num": 490247,
+        "word": "美军对中国新冠疫苗发动认知作战",
+        "onboard_time": 1718524276,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 476293,
+        "num": 476293,
+        "word": "对方撤回了一位帅哥数学老师",
+        "onboard_time": 1718523856,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 700071,
+        "num": 460344,
+        "word": "孙丞潇一个人卖了20只鸡",
+        "onboard_time": 1718527877,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639150,
+        "num": 451713,
+        "word": "张若昀全球首穿",
+        "onboard_time": 1718522657,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 383801,
+        "num": 383801,
+        "word": "南方医科大学情况说明",
+        "onboard_time": 1718513717,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320440,
+        "num": 320440,
+        "word": "南医大被罚老师所授课为留学生项目",
+        "onboard_time": 1718529078,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 626815,
+        "num": 316359,
+        "word": "刘浩存工作室 审美",
+        "onboard_time": 1718524216,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 589275,
+        "num": 303574,
+        "word": "高叶是穿了床被子吗",
+        "onboard_time": 1718527158,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 445631,
+        "num": 298704,
+        "word": "王一博你热不热",
+        "onboard_time": 1718528657,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414168,
+        "num": 282459,
+        "word": "胡歌质问腾讯视频",
+        "onboard_time": 1718529798,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282304,
+        "num": 282304,
+        "word": "上海通报女子地铁抢座位打人",
+        "onboard_time": 1718527758,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44041,
+        "num": 276487,
+        "word": "北京一高校为15对研究生办集体婚礼",
+        "onboard_time": 1718528597,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396368,
+        "num": 275968,
+        "word": "刘耀文要和关晓彤合照",
+        "onboard_time": 1718527278,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271370,
+        "num": 271370,
+        "word": "警方通报男子在车厢面对女乘客裸睡",
+        "onboard_time": 1718523617,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264945,
+        "num": 264945,
+        "word": "猝死前的5分钟身体经历了什么",
+        "onboard_time": 1718503096,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210650,
+        "num": 210650,
+        "word": "父亲节礼物",
+        "onboard_time": 1718515397,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345079,
+        "num": 210592,
+        "word": "玫瑰的故事 女主和四个女人的故事",
+        "onboard_time": 1718525538,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342929,
+        "num": 209931,
+        "word": "手表帮我戒掉了手机依赖",
+        "onboard_time": 1718523136,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329571,
+        "num": 209605,
+        "word": "没想到验孕棒里还有干燥剂",
+        "onboard_time": 1718523197,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 308887,
+        "num": 209171,
+        "word": "孙千裸背",
+        "onboard_time": 1718529617,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299477,
+        "num": 208734,
+        "word": "王一博状态很好",
+        "onboard_time": 1718528058,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208553,
+        "num": 208553,
+        "word": "2岁女儿一直以为爸爸住在监控里",
+        "onboard_time": 1718530100,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287174,
+        "num": 207779,
+        "word": "赵丽颖霸总出街",
+        "onboard_time": 1718521818,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243006,
+        "num": 206514,
+        "word": "钟楚曦美的像回家一样轻松",
+        "onboard_time": 1718528719,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239968,
+        "num": 204495,
+        "word": "张佳宁挽着屈楚萧走红毯",
+        "onboard_time": 1718525897,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15301,
+        "num": 204250,
+        "word": "167人多等29分钟却跑赢了生命接力",
+        "onboard_time": 1718530457,
+        "rank": 29,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 172458,
+        "num": 202976,
+        "word": "南方医科大学回应教师因救人迟到受处分",
+        "onboard_time": 1718509757,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229727,
+        "num": 200394,
+        "word": "沈月给王星越拍照",
+        "onboard_time": 1718529379,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200366,
+        "num": 200366,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1718519596,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194371,
+        "num": 194371,
+        "word": "刘浩存全靠脸撑着",
+        "onboard_time": 1718527998,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180066,
+        "num": 193259,
+        "word": "突然就明白了什么是情绪价值",
+        "onboard_time": 1718526497,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192550,
+        "num": 192550,
+        "word": "王源丁程鑫敖子逸同框",
+        "onboard_time": 1718527638,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191432,
+        "num": 191432,
+        "word": "王俊凯怼脸镜头",
+        "onboard_time": 1718529258,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184884,
+        "num": 184884,
+        "word": "文淇造型师 精神状态",
+        "onboard_time": 1718528898,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155060,
+        "num": 165306,
+        "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
+        "onboard_time": 1718512337,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141751,
+        "num": 163465,
+        "word": "我发现一定要对钱有概念",
+        "onboard_time": 1718524877,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162065,
+        "num": 162065,
+        "word": "周也公关",
+        "onboard_time": 1718502796,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161830,
+        "num": 161830,
+        "word": "墨雨云间开虐",
+        "onboard_time": 1718530100,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142716,
+        "num": 142716,
+        "word": "孙怡上岛了",
+        "onboard_time": 1718521637,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126058,
+        "num": 126058,
+        "word": "律师称应褒扬南方医科大学救人教师",
+        "onboard_time": 1718523375,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125896,
+        "num": 125896,
+        "word": "广州拟规定中小学禁止学生带手机",
+        "onboard_time": 1718526858,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125484,
+        "num": 125484,
+        "word": "黄明昊假发",
+        "onboard_time": 1718527397,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116518,
+        "num": 116518,
+        "word": "巴黎奥运会女排12强确定",
+        "onboard_time": 1718526917,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110524,
+        "num": 110524,
+        "word": "去相亲对象家吃饭发现是父亲节",
+        "onboard_time": 1718524636,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107269,
+        "num": 107269,
+        "word": "疑似外国人起飞时偷拍军民合用机场",
+        "onboard_time": 1718516177,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75305,
+        "num": 104396,
+        "word": "睡莲盛花期一整个清爽感",
+        "onboard_time": 1718529617,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}
