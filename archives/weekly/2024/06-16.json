@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718505474535,
+  "endTime": 1718506030836,
   "band_list": [
     {
       "raw_hot": 1461412,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1214657,
+      "raw_hot": 1255020,
       "num": 1019571,
       "word": "周也公关",
       "onboard_time": 1718502796,
@@ -27,8 +27,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1142567,
-      "num": 1142567,
+      "raw_hot": 1248796,
+      "num": 1248796,
       "word": "南方医科大学",
       "onboard_time": 1718502317,
       "rank": 41,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 745434,
+      "num": 422244,
+      "word": "警方通报废弃楼发现男尸",
+      "onboard_time": 1718503038,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 743006,
       "num": 743006,
       "word": "父亲节快乐",
@@ -59,20 +67,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 742349,
-      "num": 422244,
-      "word": "警方通报废弃楼发现男尸",
-      "onboard_time": 1718503038,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 691788,
       "num": 274935,
       "word": "雌激素降低确实会催人老",
       "onboard_time": 1718463019,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 690745,
+      "num": 179563,
+      "word": "猝死前的5分钟身体经历了什么",
+      "onboard_time": 1718503096,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 655907,
@@ -91,12 +99,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 569547,
-      "num": 179563,
-      "word": "猝死前的5分钟身体经历了什么",
-      "onboard_time": 1718503096,
-      "rank": 20,
-      "category": "健康医疗"
+      "raw_hot": 571005,
+      "num": 571005,
+      "word": "宝宝睡上了外公睡过的古董摇摇床",
+      "onboard_time": 1718499016,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541842,
@@ -120,14 +128,6 @@
       "word": "韩国人正在拒绝晋升",
       "onboard_time": 1718496915,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 495719,
-      "num": 495719,
-      "word": "宝宝睡上了外公睡过的古董摇摇床",
-      "onboard_time": 1718499016,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240951,
+      "num": 240951,
+      "word": "地铁被诬偷拍案男子将直播带货",
+      "onboard_time": 1718503456,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238507,
       "num": 238507,
       "word": "还是低估了墨雨云间的爽",
@@ -275,20 +283,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235639,
-      "num": 235639,
-      "word": "地铁被诬偷拍案男子将直播带货",
-      "onboard_time": 1718503456,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232051,
       "num": 232051,
       "word": "周深回应孙楠唱人是",
       "onboard_time": 1718462720,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230988,
+      "num": 175234,
+      "word": "周杰伦ins发了张艺兴",
+      "onboard_time": 1718505558,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 229561,
@@ -443,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180611,
+      "num": 180611,
+      "word": "王星越正是忍不住炫耀的年纪",
+      "onboard_time": 1718503997,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 175244,
       "num": 175244,
       "word": "汪苏泷音乐节",
@@ -467,8 +483,16 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 169802,
+      "num": 180337,
+      "word": "倪妮工作室",
+      "onboard_time": 1718504717,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169495,
-      "num": 142521,
+      "num": 154889,
       "word": "邓紫棋哭得差点唱不下去",
       "onboard_time": 1718494754,
       "rank": 30,
@@ -491,12 +515,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157426,
-      "num": 180337,
-      "word": "倪妮工作室",
-      "onboard_time": 1718504717,
-      "rank": 19,
-      "category": "作品衍生"
+      "raw_hot": 157949,
+      "num": 157949,
+      "word": "60岁正是耍帅的年纪",
+      "onboard_time": 1718504596,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156749,
@@ -507,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 153758,
-      "num": 153758,
-      "word": "王星越正是忍不住炫耀的年纪",
-      "onboard_time": 1718503997,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 152622,
       "num": 152622,
       "word": "世界杯",
@@ -523,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148007,
-      "num": 148007,
-      "word": "60岁正是耍帅的年纪",
-      "onboard_time": 1718504596,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147088,
       "num": 147088,
       "word": "秦霄贤当着戚薇面唱7",
       "onboard_time": 1718501716,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145450,
+      "num": 145450,
+      "word": "姜萍",
+      "onboard_time": 1718444239,
+      "rank": 27,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 142164,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139129,
+      "num": 139129,
+      "word": "当金毛收到一只小狗后",
+      "onboard_time": 1718504839,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138872,
       "num": 138872,
       "word": "陈丽君选陈昊宇演梁祝",
@@ -571,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136556,
-      "num": 136556,
-      "word": "当金毛收到一只小狗后",
-      "onboard_time": 1718504839,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 136049,
+      "num": 136049,
+      "word": "父亲对女儿性格的影响",
+      "onboard_time": 1718505617,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 134303,
@@ -931,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69836,
+      "num": 179858,
+      "word": "河南降温降雨",
+      "onboard_time": 1718505677,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64883,
       "num": 124413,
       "word": "今晚朱婷不首发",
@@ -971,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58942,
+      "num": 423392,
+      "word": "一个词形容我的爸爸",
+      "onboard_time": 1718503818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57175,
       "num": 59475,
       "word": "排球少年电影",
@@ -985,6 +1025,22 @@
       "onboard_time": 1718492952,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51243,
+      "num": 153665,
+      "word": "顺序志愿填报时第一志愿有多重要",
+      "onboard_time": 1718505977,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 50892,
+      "num": 1052154,
+      "word": "晒一晒你和爸爸的合影",
+      "onboard_time": 1718505076,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48156,
@@ -1017,22 +1073,6 @@
       "onboard_time": 1718459779,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41236,
-      "num": 423392,
-      "word": "一个词形容我的爸爸",
-      "onboard_time": 1718503818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41063,
-      "num": 41063,
-      "word": "姜萍",
-      "onboard_time": 1718444239,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 40543,
@@ -1091,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25721,
-      "num": 1052154,
-      "word": "晒一晒你和爸爸的合影",
-      "onboard_time": 1718505076,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22893,
       "num": 27075,
       "word": "牛津Kate朱朱谈姜萍",
@@ -1112,6 +1144,14 @@
       "word": "2024祝福每一位父亲",
       "onboard_time": 1718493432,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16663,
+      "num": 839646,
+      "word": "今天向这些父亲致敬",
+      "onboard_time": 1718505797,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
