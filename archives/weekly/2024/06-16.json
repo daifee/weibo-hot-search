@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718541258099,
+  "endTime": 1718542155517,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1653434,
+      "num": 1653434,
+      "word": "邓超被架走",
+      "onboard_time": 1718537419,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1499239,
       "num": 1499239,
       "word": "南方医科大学情况说明",
       "onboard_time": 1718513717,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1488010,
-      "num": 1488010,
-      "word": "邓超被架走",
-      "onboard_time": 1718537419,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 1478200,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1300021,
+      "num": 622819,
+      "word": "猝死前一个月身体就有症状",
+      "onboard_time": 1718537597,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1248796,
       "num": 1248796,
       "word": "南方医科大学",
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1180180,
-      "num": 541564,
-      "word": "猝死前一个月身体就有症状",
-      "onboard_time": 1718537597,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1139762,
       "num": 656736,
       "word": "胡歌质问腾讯视频",
@@ -139,6 +139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1055636,
+      "num": 622455,
+      "word": "墨雨云间 减更",
+      "onboard_time": 1718540658,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1024841,
       "num": 1024841,
       "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
@@ -152,6 +160,14 @@
       "word": "南医大被罚老师所授课为留学生项目",
       "onboard_time": 1718529078,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 995084,
+      "num": 995084,
+      "word": "12306回应网友建议实行男女分车厢",
+      "onboard_time": 1718538378,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 600614,
+      "num": 600614,
+      "word": "姜萍数学老师王闰秋发声",
+      "onboard_time": 1718540118,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 597412,
       "num": 597412,
       "word": "周杰伦ins发了张艺兴",
@@ -395,14 +419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 564210,
-      "num": 564210,
-      "word": "12306回应网友建议实行男女分车厢",
-      "onboard_time": 1718538378,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 561706,
       "num": 495771,
       "word": "赵华为抽中了王一博",
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 520563,
-      "num": 236734,
+      "num": 355163,
       "word": "不结婚的年轻人重伤糖果业",
       "onboard_time": 1718534178,
       "rank": 20,
@@ -529,14 +545,6 @@
       "onboard_time": 1718466557,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 457451,
-      "num": 385297,
-      "word": "墨雨云间 减更",
-      "onboard_time": 1718540658,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 455600,
@@ -691,19 +699,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398284,
-      "num": 398284,
-      "word": "姜萍数学老师王闰秋发声",
-      "onboard_time": 1718540118,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
       "onboard_time": 1718506517,
       "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 393713,
+      "num": 202763,
+      "word": "刘浩存周也终于认识了",
+      "onboard_time": 1718541678,
+      "rank": 20,
       "category": "电影"
     },
     {
@@ -1115,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226761,
+      "num": 192244,
+      "word": "王一博不热因为脸够冷",
+      "onboard_time": 1718541978,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 224655,
       "num": 224655,
       "word": "林俊杰jj20世界巡回演唱会",
@@ -1299,6 +1315,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203280,
+      "num": 201153,
+      "word": "妻子出轨后要离婚被丈夫打伤身亡",
+      "onboard_time": 1718541379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203022,
+      "num": 177643,
+      "word": "热烈",
+      "onboard_time": 1718541199,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201593,
       "num": 201593,
       "word": "陈丽君刘忻亚比囧囧囧直拍",
@@ -1419,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192093,
+      "num": 192093,
+      "word": "中国女排vs波兰女排",
+      "onboard_time": 1718541678,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191900,
       "num": 191900,
       "word": "黄亦玫方协文女王训狗",
@@ -1475,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185700,
+      "num": 174639,
+      "word": "ENHYPEN回归",
+      "onboard_time": 1718541257,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 184859,
       "num": 184859,
       "word": "我发现一定要对钱有概念",
@@ -1523,19 +1571,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177879,
+      "num": 177879,
+      "word": "TTG战胜RW",
+      "onboard_time": 1718540958,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176993,
       "num": 136685,
       "word": "刘耀文露额头",
       "onboard_time": 1718528357,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 176188,
-      "num": 144370,
-      "word": "热烈",
-      "onboard_time": 1718541199,
-      "rank": 40,
       "category": "电影"
     },
     {
@@ -1625,14 +1673,6 @@
       "onboard_time": 1718511256,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 168032,
-      "num": 168032,
-      "word": "TTG战胜RW",
-      "onboard_time": 1718540958,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 166600,
@@ -1779,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151415,
+      "num": 151415,
+      "word": "Ning和Baolan谁更神",
+      "onboard_time": 1718542039,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150100,
       "num": 150100,
       "word": "父亲对女儿性格的影响",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1718513597,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134994,
+      "num": 134994,
+      "word": "AI和姜萍答同一份试卷最高仅34分",
+      "onboard_time": 1718541139,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 134625,
@@ -2123,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125053,
+      "num": 125053,
+      "word": "有四类人不适合午睡",
+      "onboard_time": 1718538197,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125046,
       "num": 125046,
       "word": "小落三连MVP",
@@ -2281,14 +2345,6 @@
       "onboard_time": 1718493612,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 109734,
-      "num": 109734,
-      "word": "有四类人不适合午睡",
-      "onboard_time": 1718538197,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 109543,
@@ -2780,7 +2836,7 @@
     },
     {
       "raw_hot": 43964,
-      "num": 211479,
+      "num": 368066,
       "word": "倪妮微博电影之夜",
       "onboard_time": 1718540239,
       "rank": 26,
@@ -2809,6 +2865,14 @@
       "onboard_time": 1718459779,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41470,
+      "num": 203606,
+      "word": "孙千陈昊宇蓝调优雅大片",
+      "onboard_time": 1718538737,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 40543,
@@ -2880,14 +2944,6 @@
       "word": "被娜扎的妆容硬控了",
       "onboard_time": 1718536277,
       "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 34347,
-      "num": 203606,
-      "word": "孙千陈昊宇蓝调优雅大片",
-      "onboard_time": 1718538737,
-      "rank": 30,
       "category": "电影"
     },
     {
@@ -3041,6 +3097,14 @@
       "onboard_time": 1718513536,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 9722,
+      "num": 633680,
+      "word": "交通互联互通带来发展机遇无限",
+      "onboard_time": 1718541857,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 7419,

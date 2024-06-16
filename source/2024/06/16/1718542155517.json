@@ -1,0 +1,410 @@
+{
+  "runTime": 1718542155517,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1653434,
+        "num": 1653434,
+        "word": "邓超被架走",
+        "onboard_time": 1718537419,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 995084,
+        "num": 995084,
+        "word": "12306回应网友建议实行男女分车厢",
+        "onboard_time": 1718538378,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9722,
+        "num": 633680,
+        "word": "交通互联互通带来发展机遇无限",
+        "onboard_time": 1718541857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1300021,
+        "num": 622819,
+        "word": "猝死前一个月身体就有症状",
+        "onboard_time": 1718537597,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1055636,
+        "num": 622455,
+        "word": "墨雨云间 减更",
+        "onboard_time": 1718540658,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600614,
+        "num": 600614,
+        "word": "姜萍数学老师王闰秋发声",
+        "onboard_time": 1718540118,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826799,
+        "num": 534897,
+        "word": "丁真居然白了",
+        "onboard_time": 1718533399,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816441,
+        "num": 480526,
+        "word": "王一博 不化妆",
+        "onboard_time": 1718529258,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 392745,
+        "num": 392745,
+        "word": "店员以为狗狗没洗干净",
+        "onboard_time": 1718534178,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34339,
+        "num": 386052,
+        "word": "台湾姑娘跳中国舞被小朋友夸特别美",
+        "onboard_time": 1718540538,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493367,
+        "num": 382161,
+        "word": "檀健次Prada",
+        "onboard_time": 1718538676,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 487188,
+        "num": 372824,
+        "word": "庆余年 二皇子",
+        "onboard_time": 1718533637,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38511,
+        "num": 368066,
+        "word": "倪妮微博电影之夜",
+        "onboard_time": 1718540239,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443242,
+        "num": 358562,
+        "word": "沈小婷团里最讨厌的三个人",
+        "onboard_time": 1718537297,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355163,
+        "num": 355163,
+        "word": "不结婚的年轻人重伤糖果业",
+        "onboard_time": 1718534178,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 406977,
+        "num": 338342,
+        "word": "李宇春 面条裙",
+        "onboard_time": 1718538498,
+        "rank": 15,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 304643,
+        "num": 304643,
+        "word": "啥是烟卡",
+        "onboard_time": 1718535858,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237130,
+        "num": 237130,
+        "word": "花城 血雨探花",
+        "onboard_time": 1718534357,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 305114,
+        "num": 228464,
+        "word": "南医大被罚老师所授课为留学生项目",
+        "onboard_time": 1718529078,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203132,
+        "num": 203132,
+        "word": "卧铺车上面对女乘客裸睡男子被拘5日",
+        "onboard_time": 1718536457,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393713,
+        "num": 202763,
+        "word": "刘浩存周也终于认识了",
+        "onboard_time": 1718541678,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 372553,
+        "num": 202455,
+        "word": "胡歌质问腾讯视频",
+        "onboard_time": 1718529798,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353747,
+        "num": 201635,
+        "word": "墨雨云间追剧日历更新",
+        "onboard_time": 1718537478,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203280,
+        "num": 201153,
+        "word": "妻子出轨后要离婚被丈夫打伤身亡",
+        "onboard_time": 1718541379,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200667,
+        "num": 200667,
+        "word": "2岁女儿一直以为爸爸住在监控里",
+        "onboard_time": 1718530100,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344760,
+        "num": 200106,
+        "word": "王星越切小号",
+        "onboard_time": 1718536218,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309217,
+        "num": 199285,
+        "word": "佟大为回复刘亦菲",
+        "onboard_time": 1718539639,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276252,
+        "num": 197436,
+        "word": "微博电影之夜直播",
+        "onboard_time": 1718535978,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233572,
+        "num": 196255,
+        "word": "章子怡压轴",
+        "onboard_time": 1718532498,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196111,
+        "num": 196111,
+        "word": "我女朋友好像很会哄人开心",
+        "onboard_time": 1718537419,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41470,
+        "num": 192806,
+        "word": "孙千陈昊宇蓝调优雅大片",
+        "onboard_time": 1718538737,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47384,
+        "num": 192350,
+        "word": "中国电影龙标上邮票了",
+        "onboard_time": 1718527758,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226761,
+        "num": 192244,
+        "word": "王一博不热因为脸够冷",
+        "onboard_time": 1718541978,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192093,
+        "num": 192093,
+        "word": "中国女排vs波兰女排",
+        "onboard_time": 1718541678,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177879,
+        "num": 177879,
+        "word": "TTG战胜RW",
+        "onboard_time": 1718540958,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203022,
+        "num": 177643,
+        "word": "热烈",
+        "onboard_time": 1718541199,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200409,
+        "num": 175371,
+        "word": "JYP 方时赫",
+        "onboard_time": 1718536757,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185700,
+        "num": 174639,
+        "word": "ENHYPEN回归",
+        "onboard_time": 1718541257,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212726,
+        "num": 173173,
+        "word": "王一博你热不热",
+        "onboard_time": 1718528657,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172518,
+        "num": 172518,
+        "word": "没有一个爸爸逃得了小棉袄的化妆术",
+        "onboard_time": 1718540239,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194604,
+        "num": 172288,
+        "word": "腾讯视频回应胡歌",
+        "onboard_time": 1718540178,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186968,
+        "num": 170793,
+        "word": "娜扎 花仙子",
+        "onboard_time": 1718528357,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182599,
+        "num": 170233,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1718519596,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169084,
+        "num": 169084,
+        "word": "逼出体内湿气的方法",
+        "onboard_time": 1718536277,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151415,
+        "num": 151415,
+        "word": "Ning和Baolan谁更神",
+        "onboard_time": 1718542039,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148954,
+        "num": 148954,
+        "word": "猝死前的5分钟身体经历了什么",
+        "onboard_time": 1718503096,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 134994,
+        "num": 134994,
+        "word": "AI和姜萍答同一份试卷最高仅34分",
+        "onboard_time": 1718541139,
+        "rank": 46,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 125053,
+        "num": 125053,
+        "word": "有四类人不适合午睡",
+        "onboard_time": 1718538197,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118951,
+        "num": 118951,
+        "word": "父亲节礼物",
+        "onboard_time": 1718515397,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113947,
+        "num": 113947,
+        "word": "姜萍妈妈称女儿正在备考",
+        "onboard_time": 1718525237,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}
