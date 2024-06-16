@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718548458754,
+  "endTime": 1718551210847,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -73,6 +73,14 @@
       "onboard_time": 1718509757,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344883,
+      "num": 1344883,
+      "word": "章子怡 微博你们真会",
+      "onboard_time": 1718548880,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1330709,
@@ -257,6 +265,14 @@
       "onboard_time": 1718516177,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836390,
+      "num": 573285,
+      "word": "跳跳俏俏芽芽演唱会表白张杰",
+      "onboard_time": 1718549120,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 752598,
@@ -491,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 557779,
+      "num": 443339,
+      "word": "王一博 微博比我更热",
+      "onboard_time": 1718548279,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 547701,
       "num": 547701,
       "word": "姜萍",
@@ -560,6 +584,14 @@
       "word": "韩国人正在拒绝晋升",
       "onboard_time": 1718496915,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 498190,
+      "num": 498190,
+      "word": "央视曝光乳胶床品造假乱象",
+      "onboard_time": 1718545880,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -633,6 +665,14 @@
       "onboard_time": 1718538498,
       "rank": 12,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 455014,
+      "num": 228129,
+      "word": "王力宏唱火力全开",
+      "onboard_time": 1718548521,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 452383,
@@ -713,6 +753,14 @@
       "onboard_time": 1718499377,
       "rank": 9,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 418607,
+      "num": 418607,
+      "word": "TheShy",
+      "onboard_time": 1718549120,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 417811,
@@ -840,6 +888,14 @@
       "word": "南方医科大学称始终坚持救死扶伤优先",
       "onboard_time": 1718514138,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379791,
+      "num": 379791,
+      "word": "姜萍中考621分却上中专的原因",
+      "onboard_time": 1718550441,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303028,
+      "num": 226820,
+      "word": "想去林更新微博说两句但我骂不过他",
+      "onboard_time": 1718550739,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297373,
       "num": 231940,
       "word": "张佳宁挽着屈楚萧走红毯",
@@ -1073,6 +1137,22 @@
       "onboard_time": 1718523017,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288130,
+      "num": 226615,
+      "word": "长期吃辣的人更容易得胃癌吗",
+      "onboard_time": 1718550560,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 286750,
+      "num": 226521,
+      "word": "大学生最烧钱的八大爱好",
+      "onboard_time": 1718549780,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 286427,
@@ -1113,14 +1193,6 @@
       "onboard_time": 1718512637,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278400,
-      "num": 278400,
-      "word": "央视曝光乳胶床品造假乱象",
-      "onboard_time": 1718545880,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277618,
@@ -1227,14 +1299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248617,
-      "num": 190456,
-      "word": "王一博 微博比我更热",
-      "onboard_time": 1718548279,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 246581,
       "num": 246581,
       "word": "卧铺车上面对女乘客裸睡男子被拘5日",
@@ -1307,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228575,
+      "num": 228575,
+      "word": "波兰1比2荷兰",
+      "onboard_time": 1718550441,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224655,
       "num": 224655,
       "word": "林俊杰jj20世界巡回演唱会",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1718544500,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221922,
+      "num": 221922,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1718550858,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 221619,
@@ -1377,6 +1457,14 @@
       "onboard_time": 1718496615,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 215905,
+      "num": 167124,
+      "word": "林更新彭冠英对峙戏",
+      "onboard_time": 1718550019,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 214585,
@@ -1577,6 +1665,14 @@
       "onboard_time": 1718494095,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195957,
+      "num": 195957,
+      "word": "smlz",
+      "onboard_time": 1718550739,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 195725,
@@ -1931,6 +2027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162320,
+      "num": 162320,
+      "word": "朱婷",
+      "onboard_time": 1718549299,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "长沙初三少年与姜萍一同入围数学决赛",
@@ -2073,6 +2177,14 @@
       "onboard_time": 1718501716,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146991,
+      "num": 146991,
+      "word": "BL传奇杯夺冠",
+      "onboard_time": 1718548339,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 146957,
@@ -2307,12 +2419,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 130716,
-      "num": 130716,
-      "word": "BL传奇杯夺冠",
-      "onboard_time": 1718548339,
-      "rank": 46,
-      "category": "电竞"
+      "raw_hot": 129963,
+      "num": 226167,
+      "word": "王一博刘伟强背靠背三连拍",
+      "onboard_time": 1718549960,
+      "rank": 30,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 129330,
@@ -2635,6 +2747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108492,
+      "num": 123932,
+      "word": "Baolan老头杯夺冠",
+      "onboard_time": 1718550321,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105891,
       "num": 105891,
       "word": "理想称汕头追尾车辆未启用辅助驾驶",
@@ -2881,6 +3001,14 @@
       "onboard_time": 1718458999,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 79858,
+      "num": 226065,
+      "word": "王俊凯年度质感演员",
+      "onboard_time": 1718549780,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 78982,
@@ -3155,6 +3283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41547,
+      "num": 278077,
+      "word": "微博电影之夜追星神器",
+      "onboard_time": 1718546720,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41470,
       "num": 203606,
       "word": "孙千陈昊宇蓝调优雅大片",
@@ -3267,6 +3403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30676,
+      "num": 488779,
+      "word": "父亲节当天西安现绝美彩虹",
+      "onboard_time": 1718549842,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29309,
       "num": 204250,
       "word": "167人多等29分钟却跑赢了生命接力",
@@ -3297,14 +3441,6 @@
       "onboard_time": 1718547979,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27887,
-      "num": 278077,
-      "word": "微博电影之夜追星神器",
-      "onboard_time": 1718546720,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 26232,

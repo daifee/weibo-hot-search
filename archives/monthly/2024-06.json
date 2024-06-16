@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718548458754,
+  "endTime": 1718551210847,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1625,6 +1625,14 @@
       "onboard_time": 1717944259,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1344883,
+      "num": 1344883,
+      "word": "章子怡 微博你们真会",
+      "onboard_time": 1718548880,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1342674,
@@ -3905,6 +3913,14 @@
       "onboard_time": 1717222937,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 836390,
+      "num": 573285,
+      "word": "跳跳俏俏芽芽演唱会表白张杰",
+      "onboard_time": 1718549120,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 833167,
@@ -7571,6 +7587,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 557779,
+      "num": 443339,
+      "word": "王一博 微博比我更热",
+      "onboard_time": 1718548279,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 557680,
       "num": 557680,
       "word": "首饰金价重回5字头",
@@ -8851,6 +8875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498190,
+      "num": 498190,
+      "word": "央视曝光乳胶床品造假乱象",
+      "onboard_time": 1718545880,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 498049,
       "num": 498049,
       "word": "丁真自曝刚上岛跟不上节奏",
@@ -9995,6 +10027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 455014,
+      "num": 228129,
+      "word": "王力宏唱火力全开",
+      "onboard_time": 1718548521,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 454491,
       "num": 454491,
       "word": "皇马回应球迷辱华",
@@ -11089,6 +11129,14 @@
       "onboard_time": 1717761078,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 418607,
+      "num": 418607,
+      "word": "TheShy",
+      "onboard_time": 1718549120,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 418080,
@@ -12289,6 +12337,14 @@
       "onboard_time": 1717940839,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379791,
+      "num": 379791,
+      "word": "姜萍中考621分却上中专的原因",
+      "onboard_time": 1718550441,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379699,
@@ -15259,6 +15315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 303028,
+      "num": 226820,
+      "word": "想去林更新微博说两句但我骂不过他",
+      "onboard_time": 1718550739,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302994,
       "num": 302994,
       "word": "GenG冠军",
@@ -16091,6 +16155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 288130,
+      "num": 226615,
+      "word": "长期吃辣的人更容易得胃癌吗",
+      "onboard_time": 1718550560,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 287912,
       "num": 287912,
       "word": "黎深九黎司命",
@@ -16153,6 +16225,14 @@
       "onboard_time": 1717756578,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286750,
+      "num": 226521,
+      "word": "大学生最烧钱的八大爱好",
+      "onboard_time": 1718549780,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 286505,
@@ -16481,14 +16561,6 @@
       "onboard_time": 1717164626,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278400,
-      "num": 278400,
-      "word": "央视曝光乳胶床品造假乱象",
-      "onboard_time": 1718545880,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 278283,
@@ -18243,14 +18315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248617,
-      "num": 190456,
-      "word": "王一博 微博比我更热",
-      "onboard_time": 1718548279,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 248415,
       "num": 248415,
       "word": "Uzi 剑网三",
@@ -19627,6 +19691,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 228575,
+      "num": 228575,
+      "word": "波兰1比2荷兰",
+      "onboard_time": 1718550441,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 228367,
       "num": 228367,
       "word": "关系不够硬不要让父母帮你找工作",
@@ -20113,6 +20185,14 @@
       "onboard_time": 1717568357,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221922,
+      "num": 221922,
+      "word": "薛之谦演唱会",
+      "onboard_time": 1718368399,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 221750,
@@ -20721,6 +20801,14 @@
       "onboard_time": 1718341580,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 215905,
+      "num": 167124,
+      "word": "林更新彭冠英对峙戏",
+      "onboard_time": 1718550019,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 215868,
@@ -22659,14 +22747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201582,
-      "num": 189095,
-      "word": "薛之谦演唱会",
-      "onboard_time": 1718368399,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 201510,
       "num": 176769,
       "word": "迪丽热巴放饭",
@@ -23705,6 +23785,14 @@
       "onboard_time": 1717986197,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195957,
+      "num": 195957,
+      "word": "smlz",
+      "onboard_time": 1718550739,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 195940,
@@ -28923,6 +29011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162320,
+      "num": 162320,
+      "word": "朱婷",
+      "onboard_time": 1718549299,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162253,
       "num": 162253,
       "word": "因为端午提前发了工资",
@@ -31737,6 +31833,14 @@
       "onboard_time": 1717303458,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146991,
+      "num": 146991,
+      "word": "BL传奇杯夺冠",
+      "onboard_time": 1718548339,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 146957,
@@ -34747,14 +34851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 130716,
-      "num": 130716,
-      "word": "BL传奇杯夺冠",
-      "onboard_time": 1718548339,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 130655,
       "num": 130655,
       "word": "子弟兵教你洗护小技巧",
@@ -34937,6 +35033,14 @@
       "onboard_time": 1718325558,
       "rank": 41,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 129963,
+      "num": 226167,
+      "word": "王一博刘伟强背靠背三连拍",
+      "onboard_time": 1718549960,
+      "rank": 30,
+      "category": "电影,时尚"
     },
     {
       "raw_hot": 129957,
@@ -39019,6 +39123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108492,
+      "num": 123932,
+      "word": "Baolan老头杯夺冠",
+      "onboard_time": 1718550321,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108466,
       "num": 108466,
       "word": "Apple智能",
@@ -41593,6 +41705,14 @@
       "onboard_time": 1717672579,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 79858,
+      "num": 226065,
+      "word": "王俊凯年度质感演员",
+      "onboard_time": 1718549780,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 79660,
@@ -44859,6 +44979,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41547,
+      "num": 278077,
+      "word": "微博电影之夜追星神器",
+      "onboard_time": 1718546720,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41535,
       "num": 45569,
       "word": "猫 忘了我也会",
@@ -45883,6 +46011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30676,
+      "num": 488779,
+      "word": "父亲节当天西安现绝美彩虹",
+      "onboard_time": 1718549842,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30648,
       "num": 24067,
       "word": "你的高考幸运签已送达",
@@ -46121,14 +46257,6 @@
       "onboard_time": 1717857019,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27887,
-      "num": 278077,
-      "word": "微博电影之夜追星神器",
-      "onboard_time": 1718546720,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 27777,
