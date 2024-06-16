@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718537652751,
+  "endTime": 1718541258099,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -25,6 +25,14 @@
       "onboard_time": 1718513717,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1488010,
+      "num": 1488010,
+      "word": "邓超被架走",
+      "onboard_time": 1718537419,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 1478200,
@@ -97,6 +105,14 @@
       "onboard_time": 1718511738,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1180180,
+      "num": 541564,
+      "word": "猝死前一个月身体就有症状",
+      "onboard_time": 1718537597,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1139762,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 752598,
-      "num": 337487,
+      "num": 392060,
       "word": "庆余年 二皇子",
       "onboard_time": 1718533637,
       "rank": 48,
@@ -291,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 616920,
+      "num": 521717,
+      "word": "檀健次Prada",
+      "onboard_time": 1718538676,
+      "rank": 7,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 615637,
       "num": 615637,
       "word": "对方撤回了一位帅哥数学老师",
@@ -369,6 +393,14 @@
       "onboard_time": 1718536218,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 564210,
+      "num": 564210,
+      "word": "12306回应网友建议实行男女分车厢",
+      "onboard_time": 1718538378,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561706,
@@ -499,11 +531,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457451,
+      "num": 385297,
+      "word": "墨雨云间 减更",
+      "onboard_time": 1718540658,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 455600,
+      "num": 381727,
+      "word": "李宇春 面条裙",
+      "onboard_time": 1718538498,
+      "rank": 12,
+      "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 452383,
+      "num": 378321,
+      "word": "沈小婷团里最讨厌的三个人",
+      "onboard_time": 1718537297,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451791,
       "num": 451791,
       "word": "王星越定风波出妆",
       "onboard_time": 1718508378,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 446805,
+      "num": 374762,
+      "word": "墨雨云间追剧日历更新",
+      "onboard_time": 1718537478,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -627,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398284,
+      "num": 398284,
+      "word": "姜萍数学老师王闰秋发声",
+      "onboard_time": 1718540118,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
@@ -664,6 +736,14 @@
       "word": "律师称应褒扬南方医科大学救人教师",
       "onboard_time": 1718523375,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375203,
+      "num": 375203,
+      "word": "啥是烟卡",
+      "onboard_time": 1718535858,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -787,6 +867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 311619,
+      "num": 217442,
+      "word": "佟大为回复刘亦菲",
+      "onboard_time": 1718539639,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 309613,
       "num": 309613,
       "word": "辛芷蕾遇到邓超也变i",
@@ -875,14 +963,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 276793,
-      "num": 234202,
-      "word": "邓超被架走",
-      "onboard_time": 1718537419,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 276787,
       "num": 276787,
       "word": "这是我离王俊凯最近的一次",
@@ -923,14 +1003,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 264943,
-      "num": 264943,
-      "word": "啥是烟卡",
-      "onboard_time": 1718535858,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 259989,
       "num": 259989,
       "word": "狐妖现代番外",
@@ -955,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254204,
-      "num": 233518,
-      "word": "沈小婷团里最讨厌的三个人",
-      "onboard_time": 1718537297,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253658,
       "num": 253658,
       "word": "张踩玲的大胖媳妇社死名场面",
@@ -977,6 +1041,14 @@
       "onboard_time": 1718535319,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 246581,
+      "num": 246581,
+      "word": "卧铺车上面对女乘客裸睡男子被拘5日",
+      "onboard_time": 1718536457,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244751,
@@ -1003,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238179,
-      "num": 231448,
-      "word": "墨雨云间追剧日历更新",
-      "onboard_time": 1718537478,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236922,
       "num": 157897,
       "word": "吴谨言上了郝蕾表演课后逆袭",
@@ -1025,14 +1089,6 @@
       "onboard_time": 1718521277,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 233113,
-      "num": 233113,
-      "word": "卧铺车上面对女乘客裸睡男子被拘5日",
-      "onboard_time": 1718536457,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232051,
@@ -1187,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207300,
+      "num": 207300,
+      "word": "我女朋友好像很会哄人开心",
+      "onboard_time": 1718537419,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 206921,
       "num": 206921,
       "word": "王老师",
@@ -1217,6 +1281,14 @@
       "onboard_time": 1718536818,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203584,
+      "num": 203584,
+      "word": "腾讯视频回应胡歌",
+      "onboard_time": 1718540178,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 203472,
@@ -1355,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191595,
+      "num": 203644,
+      "word": "没有一个爸爸逃得了小棉袄的化妆术",
+      "onboard_time": 1718540239,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 190946,
       "num": 190946,
       "word": "看玫瑰的故事远离恋爱脑",
@@ -1451,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176188,
+      "num": 144370,
+      "word": "热烈",
+      "onboard_time": 1718541199,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175244,
       "num": 175244,
       "word": "汪苏泷音乐节",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1718511256,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168032,
+      "num": 168032,
+      "word": "TTG战胜RW",
+      "onboard_time": 1718540958,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 166600,
@@ -1731,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144619,
+      "num": 144619,
+      "word": "老师希望姜萍少被贴天才少女标签",
+      "onboard_time": 1718539157,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143888,
       "num": 143888,
       "word": "无聊的大人",
@@ -1923,14 +2027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129289,
-      "num": 129289,
-      "word": "我女朋友好像很会哄人开心",
-      "onboard_time": 1718537419,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 128712,
       "num": 128712,
       "word": "南方医科大学工作人员发声",
@@ -2067,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120387,
+      "num": 120387,
+      "word": "复旦数院教授谈姜萍",
+      "onboard_time": 1718538918,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 119613,
       "num": 125743,
       "word": "RA对战LNG",
@@ -2097,14 +2201,6 @@
       "onboard_time": 1718475972,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117137,
-      "num": 117137,
-      "word": "猝死前一个月身体就有症状",
-      "onboard_time": 1718537597,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 115750,
@@ -2185,6 +2281,22 @@
       "onboard_time": 1718493612,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 109734,
+      "num": 109734,
+      "word": "有四类人不适合午睡",
+      "onboard_time": 1718538197,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109543,
+      "num": 109543,
+      "word": "申花",
+      "onboard_time": 1718539757,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109405,
@@ -2667,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43964,
+      "num": 211479,
+      "word": "倪妮微博电影之夜",
+      "onboard_time": 1718540239,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42120,
       "num": 46423,
       "word": "aespa被清票两万",
@@ -2705,6 +2825,14 @@
       "onboard_time": 1718488030,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37519,
+      "num": 393722,
+      "word": "台湾姑娘跳中国舞被小朋友夸特别美",
+      "onboard_time": 1718540538,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37338,
@@ -2752,6 +2880,14 @@
       "word": "被娜扎的妆容硬控了",
       "onboard_time": 1718536277,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 34347,
+      "num": 203606,
+      "word": "孙千陈昊宇蓝调优雅大片",
+      "onboard_time": 1718538737,
+      "rank": 30,
       "category": "电影"
     },
     {
