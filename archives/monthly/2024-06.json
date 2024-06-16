@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718515179179,
+  "endTime": 1718516165277,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1203,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1499239,
+      "num": 1499239,
+      "word": "南方医科大学情况说明",
+      "onboard_time": 1718513717,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1492996,
       "num": 345749,
       "word": "张钰琪PK黄宣",
@@ -1385,14 +1393,6 @@
       "onboard_time": 1717762579,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1416601,
-      "num": 1416601,
-      "word": "南方医科大学情况说明",
-      "onboard_time": 1718513717,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1415861,
@@ -1969,6 +1969,14 @@
       "onboard_time": 1718280858,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1225106,
+      "num": 931059,
+      "word": "爸宝女",
+      "onboard_time": 1718510598,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 1223229,
@@ -2771,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1024841,
+      "num": 1024841,
+      "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
+      "onboard_time": 1718512337,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1024448,
       "num": 1024448,
       "word": "南京咖啡阿姨回应20多天赚几百万",
@@ -3193,14 +3209,6 @@
       "onboard_time": 1717384579,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 931059,
-      "num": 931059,
-      "word": "爸宝女",
-      "onboard_time": 1718510598,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 930301,
@@ -4593,14 +4601,6 @@
       "onboard_time": 1718493733,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 742993,
-      "num": 742993,
-      "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
-      "onboard_time": 1718512337,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 742801,
@@ -8699,6 +8699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492650,
+      "num": 492650,
+      "word": "网易云坏",
+      "onboard_time": 1718514377,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 491417,
       "num": 208165,
       "word": "建议大家购买饮料别加冰",
@@ -8889,6 +8897,14 @@
       "onboard_time": 1717769843,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 480868,
+      "num": 480868,
+      "word": "桐儿下线",
+      "onboard_time": 1718514557,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 480468,
@@ -9241,6 +9257,14 @@
       "onboard_time": 1717899496,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 468373,
+      "num": 468373,
+      "word": "父亲节礼物",
+      "onboard_time": 1718515397,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 468314,
@@ -10363,6 +10387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427934,
+      "num": 427934,
+      "word": "墨雨云间亲夫妻不算账",
+      "onboard_time": 1718512156,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 427219,
       "num": 220032,
       "word": "SM将追究EXOCBX法律责任",
@@ -11161,14 +11193,6 @@
       "onboard_time": 1717981817,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 399025,
-      "num": 399025,
-      "word": "墨雨云间亲夫妻不算账",
-      "onboard_time": 1718512156,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 398496,
@@ -13323,6 +13347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336181,
+      "num": 336181,
+      "word": "南方医科大学称始终坚持救死扶伤优先",
+      "onboard_time": 1718514138,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336062,
       "num": 3137278,
       "word": "直击多地高考第一现场",
@@ -15003,14 +15035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295378,
-      "num": 295378,
-      "word": "南方医科大学称始终坚持救死扶伤优先",
-      "onboard_time": 1718514138,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 295153,
       "num": 232736,
       "word": "野孩子",
@@ -15105,14 +15129,6 @@
       "onboard_time": 1717629375,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 294084,
-      "num": 294084,
-      "word": "桐儿下线",
-      "onboard_time": 1718514557,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 293963,
@@ -17459,14 +17475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 249592,
-      "num": 249592,
-      "word": "网易云坏",
-      "onboard_time": 1718514377,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 249487,
       "num": 249487,
       "word": "刚毕业存了3万亲戚就来借钱",
@@ -17531,6 +17539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248607,
+      "num": 248607,
+      "word": "第一次去男友家他妈妈全点的外卖",
+      "onboard_time": 1718513357,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 248415,
       "num": 248415,
       "word": "Uzi 剑网三",
@@ -17553,14 +17569,6 @@
       "onboard_time": 1717846458,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247851,
-      "num": 247851,
-      "word": "第一次去男友家他妈妈全点的外卖",
-      "onboard_time": 1718513357,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 247760,
@@ -23499,6 +23507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191900,
+      "num": 191900,
+      "word": "黄亦玫方协文女王训狗",
+      "onboard_time": 1718513896,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191870,
       "num": 191870,
       "word": "法网",
@@ -25385,14 +25401,6 @@
       "onboard_time": 1717998796,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178561,
-      "num": 178561,
-      "word": "黄亦玫方协文女王训狗",
-      "onboard_time": 1718513896,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 178560,
@@ -31307,6 +31315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142751,
+      "num": 142751,
+      "word": "张雨绮绿皮裙好A",
+      "onboard_time": 1718515397,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142607,
       "num": 142607,
       "word": "金莎参加闺蜜婚礼",
@@ -33825,6 +33841,14 @@
       "onboard_time": 1717470317,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129330,
+      "num": 129330,
+      "word": "黄牡丹 out",
+      "onboard_time": 1718515876,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 129320,
@@ -36657,6 +36681,14 @@
       "onboard_time": 1717586118,
       "rank": 46,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 113988,
+      "num": 113988,
+      "word": "杨幂龚俊番外吻戏",
+      "onboard_time": 1718515997,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 113968,
@@ -39540,7 +39572,7 @@
     },
     {
       "raw_hot": 88521,
-      "num": 149236,
+      "num": 396972,
       "word": "代购花7元就能伪造海外快递信息",
       "onboard_time": 1718508677,
       "rank": 39,
