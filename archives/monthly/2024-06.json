@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718573666480,
+  "endTime": 1718576351273,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -20091,6 +20091,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 223312,
+      "num": 223312,
+      "word": "章子怡哽咽",
+      "onboard_time": 1718554638,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223262,
       "num": 223262,
       "word": "张志磊KO维尔德",
@@ -24395,6 +24403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192307,
+      "num": 340053,
+      "word": "涟水中专党委书记回应",
+      "onboard_time": 1718553138,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 192288,
       "num": 192288,
       "word": "巴黎香奈儿店遭4名悍匪驾车撞门洗劫",
@@ -25705,14 +25721,6 @@
       "onboard_time": 1717769363,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184738,
-      "num": 131595,
-      "word": "章子怡哽咽",
-      "onboard_time": 1718554638,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 184638,
@@ -34627,6 +34635,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 132077,
+      "num": 132077,
+      "word": "一部被所有电影节拒收的电影",
+      "onboard_time": 1718560453,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132002,
       "num": 132002,
       "word": "Cat回归LPL解说席",
@@ -36257,14 +36273,6 @@
       "onboard_time": 1717560019,
       "rank": 9,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 124635,
-      "num": 340053,
-      "word": "涟水中专党委书记回应",
-      "onboard_time": 1718553138,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 124615,
@@ -42131,6 +42139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75577,
+      "num": 55725,
+      "word": "董力说我不能再这样忍受了我会爆炸的",
+      "onboard_time": 1718567532,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 75356,
       "num": 75356,
       "word": "孙颖莎说咱们巴黎见",
@@ -42689,14 +42705,6 @@
       "onboard_time": 1717456636,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67801,
-      "num": 67801,
-      "word": "一部被所有电影节拒收的电影",
-      "onboard_time": 1718560453,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 67800,
@@ -43915,20 +43923,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55145,
-      "num": 41839,
-      "word": "董力说我不能再这样忍受了我会爆炸的",
-      "onboard_time": 1718567532,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55016,
       "num": 134094,
       "word": "姜萍说非要选的话更偏向服装设计",
       "onboard_time": 1718383696,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 54958,
+      "num": 54958,
+      "word": "狗狗偷偷戴上了奶奶的假牙",
+      "onboard_time": 1718559732,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 54946,
@@ -44705,14 +44713,6 @@
       "onboard_time": 1718032100,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 46280,
-      "num": 46280,
-      "word": "狗狗偷偷戴上了奶奶的假牙",
-      "onboard_time": 1718559732,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 46222,
@@ -45931,11 +45931,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32761,
+      "num": 32761,
+      "word": "出了国发现中国的文化输出太强了",
+      "onboard_time": 1718575452,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32730,
       "num": 443537,
       "word": "派出所民警上门表扬保洁阿姨拾金不昧",
       "onboard_time": 1718098937,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32664,
+      "num": 32664,
+      "word": "乳胶枕头投诉量直线飙升",
+      "onboard_time": 1718571971,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -46403,6 +46419,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 27476,
+      "num": 27476,
+      "word": "为什么不建议你喝太多苏打水",
+      "onboard_time": 1718575931,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27362,
       "num": 452541,
       "word": "癌症宝宝的六一愿望是快快好起来",
@@ -46795,14 +46819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22396,
-      "num": 18766,
-      "word": "乳胶枕头投诉量直线飙升",
-      "onboard_time": 1718571971,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22303,
       "num": 801656,
       "word": "嫦娥六号宇宙级别的浪漫",
@@ -46977,6 +46993,14 @@
       "onboard_time": 1717269911,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20186,
+      "num": 21893,
+      "word": "小猫真的会回来看主人",
+      "onboard_time": 1718570171,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 20167,
@@ -47225,14 +47249,6 @@
       "onboard_time": 1718298015,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16335,
-      "num": 16335,
-      "word": "小猫真的会回来看主人",
-      "onboard_time": 1718570171,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 16112,
@@ -47611,6 +47627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12250,
+      "num": 633680,
+      "word": "交通互联互通带来发展机遇无限",
+      "onboard_time": 1718541857,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12053,
       "num": 16572,
       "word": "临沂8.1万名考生奔赴考场",
@@ -47777,14 +47801,6 @@
       "onboard_time": 1717867814,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 10350,
-      "num": 633680,
-      "word": "交通互联互通带来发展机遇无限",
-      "onboard_time": 1718541857,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10237,

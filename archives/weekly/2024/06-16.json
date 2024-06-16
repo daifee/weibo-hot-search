@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718573666480,
+  "endTime": 1718576351273,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -1403,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 223312,
+      "num": 223312,
+      "word": "章子怡哽咽",
+      "onboard_time": 1718554638,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 222106,
       "num": 222106,
       "word": "中国女排真棒",
@@ -1747,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192307,
+      "num": 340053,
+      "word": "涟水中专党委书记回应",
+      "onboard_time": 1718553138,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 191926,
       "num": 165764,
       "word": "于适拍掌俯卧撑",
@@ -1841,14 +1857,6 @@
       "onboard_time": 1718524877,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184738,
-      "num": 131595,
-      "word": "章子怡哽咽",
-      "onboard_time": 1718554638,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 182337,
@@ -2387,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132077,
+      "num": 132077,
+      "word": "一部被所有电影节拒收的电影",
+      "onboard_time": 1718560453,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 131953,
       "num": 131953,
       "word": "沈马",
@@ -2609,14 +2625,6 @@
       "onboard_time": 1718533937,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124635,
-      "num": 340053,
-      "word": "涟水中专党委书记回应",
-      "onboard_time": 1718553138,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 123710,
@@ -3131,6 +3139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75577,
+      "num": 55725,
+      "word": "董力说我不能再这样忍受了我会爆炸的",
+      "onboard_time": 1718567532,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73281,
       "num": 322285,
       "word": "河南降温降雨",
@@ -3153,14 +3169,6 @@
       "onboard_time": 1718521876,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 67801,
-      "num": 67801,
-      "word": "一部被所有电影节拒收的电影",
-      "onboard_time": 1718560453,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 64883,
@@ -3275,12 +3283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 55145,
-      "num": 41839,
-      "word": "董力说我不能再这样忍受了我会爆炸的",
-      "onboard_time": 1718567532,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 54958,
+      "num": 54958,
+      "word": "狗狗偷偷戴上了奶奶的假牙",
+      "onboard_time": 1718559732,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 54828,
@@ -3345,14 +3353,6 @@
       "onboard_time": 1718474653,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 46280,
-      "num": 46280,
-      "word": "狗狗偷偷戴上了奶奶的假牙",
-      "onboard_time": 1718559732,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 44041,
@@ -3523,6 +3523,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 32761,
+      "num": 32761,
+      "word": "出了国发现中国的文化输出太强了",
+      "onboard_time": 1718575452,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32664,
+      "num": 32664,
+      "word": "乳胶枕头投诉量直线飙升",
+      "onboard_time": 1718571971,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 31375,
       "num": 195918,
       "word": "常华森下颌线",
@@ -3571,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 27476,
+      "num": 27476,
+      "word": "为什么不建议你喝太多苏打水",
+      "onboard_time": 1718575931,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 26232,
       "num": 281691,
       "word": "军校女学员笑着说要去戍边",
@@ -3611,14 +3635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22396,
-      "num": 18766,
-      "word": "乳胶枕头投诉量直线飙升",
-      "onboard_time": 1718571971,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21899,
       "num": 262230,
       "word": "古罗马掌管气场的单品",
@@ -3651,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20186,
+      "num": 21893,
+      "word": "小猫真的会回来看主人",
+      "onboard_time": 1718570171,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 17122,
       "num": 580255,
       "word": "爸爸撑起了我的全世界",
@@ -3673,14 +3697,6 @@
       "onboard_time": 1718564891,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 16335,
-      "num": 16335,
-      "word": "小猫真的会回来看主人",
-      "onboard_time": 1718570171,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 15387,
@@ -3739,6 +3755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12250,
+      "num": 633680,
+      "word": "交通互联互通带来发展机遇无限",
+      "onboard_time": 1718541857,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10898,
       "num": 123911,
       "word": "音乐节的显眼包们",
@@ -3752,14 +3776,6 @@
       "word": "他从6米高的桥上跃下救起落水女子",
       "onboard_time": 1718557275,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10350,
-      "num": 633680,
-      "word": "交通互联互通带来发展机遇无限",
-      "onboard_time": 1718541857,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
