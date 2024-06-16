@@ -1,0 +1,410 @@
+{
+  "runTime": 1718563047177,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 165057,
+        "num": 165057,
+        "word": "12306回应网友建议实行男女分车厢",
+        "onboard_time": 1718538378,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144151,
+        "num": 144151,
+        "word": "小县城里最舒服的人",
+        "onboard_time": 1718556316,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 9654,
+        "num": 131354,
+        "word": "交通互联互通带来发展机遇无限",
+        "onboard_time": 1718541857,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126620,
+        "num": 126620,
+        "word": "想去林更新微博说两句但我骂不过他",
+        "onboard_time": 1718550739,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115760,
+        "num": 115760,
+        "word": "章子怡 微博你们真会",
+        "onboard_time": 1718548880,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114088,
+        "num": 114088,
+        "word": "涟水中专党委书记回应",
+        "onboard_time": 1718553138,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 93509,
+        "num": 93509,
+        "word": "冒烤鸭店铺正在批量倒闭",
+        "onboard_time": 1718543599,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90905,
+        "num": 90905,
+        "word": "跳跳俏俏芽芽演唱会表白张杰",
+        "onboard_time": 1718549120,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 56447,
+        "num": 56447,
+        "word": "欧洲杯",
+        "onboard_time": 1718543899,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113626,
+        "num": 56063,
+        "word": "章子怡哽咽",
+        "onboard_time": 1718554638,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300822,
+        "num": 54293,
+        "word": "姜萍中考621分却上中专的原因",
+        "onboard_time": 1718550441,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220436,
+        "num": 53027,
+        "word": "猝死前一个月身体就有症状",
+        "onboard_time": 1718537597,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81377,
+        "num": 52976,
+        "word": "刘浩存周也终于认识了",
+        "onboard_time": 1718541678,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78195,
+        "num": 51116,
+        "word": "墨雨云间 减更",
+        "onboard_time": 1718540658,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59482,
+        "num": 50500,
+        "word": "张艺兴 过了12年你看谁屹立不倒",
+        "onboard_time": 1718546000,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57801,
+        "num": 49181,
+        "word": "邓超被架走",
+        "onboard_time": 1718537419,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48468,
+        "num": 48468,
+        "word": "斯洛文尼亚vs丹麦",
+        "onboard_time": 1718551399,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45855,
+        "num": 45855,
+        "word": "TheShy诡术薇恩",
+        "onboard_time": 1718552598,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38996,
+        "num": 38996,
+        "word": "smlz",
+        "onboard_time": 1718550739,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37260,
+        "num": 38995,
+        "word": "不结婚的年轻人重伤糖果业",
+        "onboard_time": 1718534178,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11154,
+        "num": 38979,
+        "word": "校书记走下主席台为残疾毕业生拨穗",
+        "onboard_time": 1718559132,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140068,
+        "num": 38974,
+        "word": "王一博 不化妆",
+        "onboard_time": 1718529258,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137175,
+        "num": 38969,
+        "word": "长期吃辣的人更容易得胃癌吗",
+        "onboard_time": 1718550560,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77120,
+        "num": 38954,
+        "word": "毕业月薪六七千我妈说我要求低",
+        "onboard_time": 1718552658,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64357,
+        "num": 38945,
+        "word": "妻子出轨后要离婚被丈夫打伤身亡",
+        "onboard_time": 1718541379,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50765,
+        "num": 38935,
+        "word": "一部被所有电影节拒收的电影",
+        "onboard_time": 1718560453,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49700,
+        "num": 38926,
+        "word": "16周所有大学生都会失联",
+        "onboard_time": 1718559013,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48116,
+        "num": 38922,
+        "word": "丁真居然白了",
+        "onboard_time": 1718533399,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5774,
+        "num": 38913,
+        "word": "小车陷沟里村民齐力拉车",
+        "onboard_time": 1718560993,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29935,
+        "num": 38897,
+        "word": "中国女排4连胜",
+        "onboard_time": 1718546179,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46875,
+        "num": 38892,
+        "word": "庄国栋 方协文",
+        "onboard_time": 1718545219,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45631,
+        "num": 38883,
+        "word": "狗狗偷偷戴上了奶奶的假牙",
+        "onboard_time": 1718559732,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 41140,
+        "num": 38868,
+        "word": "倪妮 说人话吗",
+        "onboard_time": 1718544859,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40696,
+        "num": 38861,
+        "word": "胡歌质问腾讯视频",
+        "onboard_time": 1718529798,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39650,
+        "num": 38853,
+        "word": "孙燕姿 音乐节",
+        "onboard_time": 1718548100,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38850,
+        "num": 38850,
+        "word": "大学生最烧钱的八大爱好",
+        "onboard_time": 1718549780,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37273,
+        "num": 37273,
+        "word": "薛之谦演唱会",
+        "onboard_time": 1718550858,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37058,
+        "num": 37058,
+        "word": "王力宏唱火力全开",
+        "onboard_time": 1718548521,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33931,
+        "num": 33931,
+        "word": "墨雨云间团综没招到商",
+        "onboard_time": 1718554097,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33872,
+        "num": 33872,
+        "word": "刘浩存文淇找惠英红合照",
+        "onboard_time": 1718553138,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33399,
+        "num": 33399,
+        "word": "王一博 微博比我更热",
+        "onboard_time": 1718548279,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32855,
+        "num": 32855,
+        "word": "infp的爽文女主体质",
+        "onboard_time": 1718561472,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32818,
+        "num": 32818,
+        "word": "优酷 排播",
+        "onboard_time": 1718543718,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31615,
+        "num": 31615,
+        "word": "佟大为回复刘亦菲",
+        "onboard_time": 1718539639,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31524,
+        "num": 31524,
+        "word": "sana好美",
+        "onboard_time": 1718545157,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28436,
+        "num": 28436,
+        "word": "庆余年 二皇子",
+        "onboard_time": 1718533637,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26623,
+        "num": 26623,
+        "word": "陈昊宇文咏珊合照",
+        "onboard_time": 1718553618,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24983,
+        "num": 24983,
+        "word": "TheShy",
+        "onboard_time": 1718549120,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24227,
+        "num": 24982,
+        "word": "逼出体内湿气的方法",
+        "onboard_time": 1718536277,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 21482,
+        "num": 24981,
+        "word": "龚翔宇哭了",
+        "onboard_time": 1718543240,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}

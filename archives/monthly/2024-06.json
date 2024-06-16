@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718562313520,
+  "endTime": 1718563047177,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -44307,6 +44307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50765,
+      "num": 46445,
+      "word": "一部被所有电影节拒收的电影",
+      "onboard_time": 1718560453,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50695,
       "num": 438158,
       "word": "警方提醒高考生和家长警惕骗子",
@@ -44609,14 +44617,6 @@
       "onboard_time": 1718050510,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 47346,
-      "num": 46445,
-      "word": "一部被所有电影节拒收的电影",
-      "onboard_time": 1718560453,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 47316,
@@ -45915,6 +45915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32855,
+      "num": 39864,
+      "word": "infp的爽文女主体质",
+      "onboard_time": 1718561472,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32730,
       "num": 443537,
       "word": "派出所民警上门表扬保洁阿姨拾金不昧",
@@ -46713,14 +46721,6 @@
       "onboard_time": 1717937118,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22950,
-      "num": 39864,
-      "word": "infp的爽文女主体质",
-      "onboard_time": 1718561472,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 22906,
@@ -47923,18 +47923,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5421,
-      "num": 40188,
-      "word": "8车道高速与地下春秋战车震撼交汇",
-      "onboard_time": 1718394911,
+      "raw_hot": 5774,
+      "num": 67240,
+      "word": "小车陷沟里村民齐力拉车",
+      "onboard_time": 1718560993,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5284,
-      "num": 67240,
-      "word": "小车陷沟里村民齐力拉车",
-      "onboard_time": 1718560993,
+      "raw_hot": 5421,
+      "num": 40188,
+      "word": "8车道高速与地下春秋战车震撼交汇",
+      "onboard_time": 1718394911,
       "rank": 9,
       "category": "社会新闻"
     }

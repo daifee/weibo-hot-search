@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718562313520,
+  "endTime": 1718563047177,
   "band_list": [
     {
       "raw_hot": 1714608,
@@ -427,7 +427,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 47346,
+      "raw_hot": 50765,
       "num": 46445,
       "word": "一部被所有电影节拒收的电影",
       "onboard_time": 1718560453,
@@ -459,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32855,
+      "num": 39864,
+      "word": "infp的爽文女主体质",
+      "onboard_time": 1718561472,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25143,
       "num": 244488,
       "word": "毕业典礼全场齐唱义勇军进行曲好澎湃",
@@ -473,14 +481,6 @@
       "onboard_time": 1718551699,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 22950,
-      "num": 39864,
-      "word": "infp的爽文女主体质",
-      "onboard_time": 1718561472,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 18545,
@@ -515,7 +515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5284,
+      "raw_hot": 5774,
       "num": 67240,
       "word": "小车陷沟里村民齐力拉车",
       "onboard_time": 1718560993,

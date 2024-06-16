@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718562313520,
+  "endTime": 1718563047177,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -3291,6 +3291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50765,
+      "num": 46445,
+      "word": "一部被所有电影节拒收的电影",
+      "onboard_time": 1718560453,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50494,
       "num": 237287,
       "word": "微博电影之夜红毯生图",
@@ -3305,14 +3313,6 @@
       "onboard_time": 1718493193,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47346,
-      "num": 46445,
-      "word": "一部被所有电影节拒收的电影",
-      "onboard_time": 1718560453,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 46932,
@@ -3507,6 +3507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32855,
+      "num": 39864,
+      "word": "infp的爽文女主体质",
+      "onboard_time": 1718561472,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 31375,
       "num": 195918,
       "word": "常华森下颌线",
@@ -3585,14 +3593,6 @@
       "onboard_time": 1718511017,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22950,
-      "num": 39864,
-      "word": "infp的爽文女主体质",
-      "onboard_time": 1718561472,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 22893,
@@ -3731,7 +3731,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 5284,
+      "raw_hot": 5774,
       "num": 67240,
       "word": "小车陷沟里村民齐力拉车",
       "onboard_time": 1718560993,
