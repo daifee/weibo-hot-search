@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718519903113,
+  "endTime": 1718522321951,
   "band_list": [
     {
       "raw_hot": 2122450,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1247653,
+      "num": 1247653,
+      "word": "微博电影之夜红毯",
+      "onboard_time": 1718519596,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1225106,
       "num": 931059,
       "word": "爸宝女",
@@ -107,8 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 757425,
-      "num": 757425,
+      "raw_hot": 842382,
+      "num": 842382,
       "word": "疑似外国人起飞时偷拍军民合用机场",
       "onboard_time": 1718516177,
       "rank": 4,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 576910,
+      "num": 576910,
+      "word": "机场回应疑似外国人起飞时偷拍",
+      "onboard_time": 1718516538,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571005,
       "num": 571005,
       "word": "宝宝睡上了外公睡过的古董摇摇床",
@@ -209,6 +225,14 @@
       "onboard_time": 1718514377,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 518526,
+      "num": 518526,
+      "word": "铜价大涨空调却集体降价",
+      "onboard_time": 1718519417,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 513343,
@@ -265,14 +289,6 @@
       "onboard_time": 1718515397,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 463411,
-      "num": 463411,
-      "word": "机场回应疑似外国人起飞时偷拍",
-      "onboard_time": 1718516538,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462555,
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 400806,
+      "num": 400806,
+      "word": "吴谨言又哭碎了",
+      "onboard_time": 1718518877,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367163,
+      "num": 367163,
+      "word": "赵丽颖成都活动",
+      "onboard_time": 1718519536,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 362813,
       "num": 177585,
       "word": "考上编制好朋友把我删了",
@@ -417,6 +449,22 @@
       "onboard_time": 1718493733,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 346691,
+      "num": 251233,
+      "word": "孙怡上岛了",
+      "onboard_time": 1718521637,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 342426,
+      "num": 250100,
+      "word": "林允拒绝网红妆",
+      "onboard_time": 1718520496,
+      "rank": 22,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 341258,
@@ -467,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303685,
+      "num": 266997,
+      "word": "赵丽颖霸总出街",
+      "onboard_time": 1718521818,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 296666,
       "num": 296666,
       "word": "刘亦菲泳池戏",
@@ -497,14 +553,6 @@
       "onboard_time": 1718503456,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274884,
-      "num": 274884,
-      "word": "吴谨言又哭碎了",
-      "onboard_time": 1718518877,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 272156,
@@ -587,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235327,
+      "num": 235327,
+      "word": "赵丽颖工作室预告图",
+      "onboard_time": 1718521277,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 232051,
       "num": 232051,
       "word": "周深回应孙楠唱人是",
@@ -600,6 +656,14 @@
       "word": "荣梓杉成年了衬衫可以开大点",
       "onboard_time": 1718461759,
       "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 228792,
+      "num": 205230,
+      "word": "这是我离王俊凯最近的一次",
+      "onboard_time": 1718522176,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -627,20 +691,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221045,
+      "num": 202564,
+      "word": "苏新皓朱志鑫并列第一",
+      "onboard_time": 1718520557,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218986,
       "num": 218986,
       "word": "王媛媛神级发挥",
       "onboard_time": 1718464219,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218584,
-      "num": 218584,
-      "word": "微博电影之夜红毯",
-      "onboard_time": 1718519596,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 216941,
@@ -713,14 +777,6 @@
       "onboard_time": 1718467577,
       "rank": 24,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 203072,
-      "num": 203072,
-      "word": "赵丽颖成都活动",
-      "onboard_time": 1718519536,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 201593,
@@ -809,6 +865,14 @@
       "onboard_time": 1718467879,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184845,
+      "num": 184845,
+      "word": "专家称不是大学选择姜萍是她选择大学",
+      "onboard_time": 1718520856,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181112,
@@ -931,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164746,
+      "num": 164746,
+      "word": "国际数学奥林匹克满分得主祝福高考生",
+      "onboard_time": 1718520738,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 163731,
       "num": 263196,
       "word": "西瓜有味能切了表面继续吃吗",
@@ -968,6 +1040,14 @@
       "word": "墨雨云间27集满广",
       "onboard_time": 1718518037,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158415,
+      "num": 158415,
+      "word": "艾米睫毛好长",
+      "onboard_time": 1718519657,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1027,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146957,
+      "num": 146957,
+      "word": "你敢给我污名我让你痛失真情",
+      "onboard_time": 1718520557,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146343,
       "num": 146343,
       "word": "微博电影之夜",
@@ -1049,14 +1137,6 @@
       "onboard_time": 1718515397,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142642,
-      "num": 142642,
-      "word": "铜价大涨空调却集体降价",
-      "onboard_time": 1718519417,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 142164,
@@ -1259,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124200,
-      "num": 124200,
-      "word": "艾米睫毛好长",
-      "onboard_time": 1718519657,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123710,
       "num": 123710,
       "word": "女生爬山遇毒蛇竟凑上前合影",
@@ -1299,12 +1371,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115042,
+      "num": 115042,
+      "word": "中国女排今晚迎战波兰女排",
+      "onboard_time": 1718520617,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113988,
       "num": 113988,
       "word": "杨幂龚俊番外吻戏",
       "onboard_time": 1718515997,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113431,
+      "num": 113431,
+      "word": "我大学毕业典礼都没幼儿园的隆重",
+      "onboard_time": 1718519596,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 113216,
@@ -1315,20 +1403,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112127,
+      "num": 112127,
+      "word": "三丽鸥明星人气评选",
+      "onboard_time": 1718522237,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 112124,
       "num": 112124,
       "word": "赵露思现代剧穿搭",
       "onboard_time": 1718518997,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111870,
-      "num": 111870,
-      "word": "我大学毕业典礼都没幼儿园的隆重",
-      "onboard_time": 1718519596,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 110900,
@@ -1379,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102932,
+      "num": 102932,
+      "word": "微博电影之夜出图",
+      "onboard_time": 1718522118,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102055,
       "num": 102055,
       "word": "南方医科大学 希波克拉底誓言",
@@ -1417,6 +1513,14 @@
       "onboard_time": 1718444420,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 94852,
+      "num": 94852,
+      "word": "总觉得累真的建议去查一下甲状腺",
+      "onboard_time": 1718522176,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94733,
@@ -1777,6 +1881,14 @@
       "onboard_time": 1718516356,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 27401,
+      "num": 433617,
+      "word": "老太照料未婚伴侣多年获房屋居住权",
+      "onboard_time": 1718521876,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26232,

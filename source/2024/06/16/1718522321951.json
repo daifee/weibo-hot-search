@@ -1,0 +1,410 @@
+{
+  "runTime": 1718522321951,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1247653,
+        "num": 1247653,
+        "word": "微博电影之夜红毯",
+        "onboard_time": 1718519596,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 842382,
+        "num": 842382,
+        "word": "疑似外国人起飞时偷拍军民合用机场",
+        "onboard_time": 1718516177,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40257,
+        "num": 669195,
+        "word": "今天向这些父亲致敬",
+        "onboard_time": 1718505797,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592187,
+        "num": 592187,
+        "word": "猝死前的5分钟身体经历了什么",
+        "onboard_time": 1718503096,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 576910,
+        "num": 576910,
+        "word": "机场回应疑似外国人起飞时偷拍",
+        "onboard_time": 1718516538,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858344,
+        "num": 572209,
+        "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
+        "onboard_time": 1718512337,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518526,
+        "num": 518526,
+        "word": "铜价大涨空调却集体降价",
+        "onboard_time": 1718519417,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 494357,
+        "num": 494357,
+        "word": "南方医科大学情况说明",
+        "onboard_time": 1718513717,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472916,
+        "num": 472916,
+        "word": "爸宝女",
+        "onboard_time": 1718510598,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27401,
+        "num": 433617,
+        "word": "老太照料未婚伴侣多年获房屋居住权",
+        "onboard_time": 1718521876,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400806,
+        "num": 400806,
+        "word": "吴谨言又哭碎了",
+        "onboard_time": 1718518877,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379682,
+        "num": 379682,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1718516417,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376192,
+        "num": 376192,
+        "word": "南方医科大学回应教师因救人迟到受处分",
+        "onboard_time": 1718509757,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367163,
+        "num": 367163,
+        "word": "赵丽颖成都活动",
+        "onboard_time": 1718519536,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300106,
+        "num": 300106,
+        "word": "辛芷蕾遇到邓超也变i",
+        "onboard_time": 1718517317,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284232,
+        "num": 284232,
+        "word": "周杰伦ins发了张艺兴",
+        "onboard_time": 1718505558,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 283212,
+        "num": 283212,
+        "word": "南方医科大 教师因救人上课迟到被罚",
+        "onboard_time": 1718502317,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270289,
+        "num": 270289,
+        "word": "父亲节礼物",
+        "onboard_time": 1718515397,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303685,
+        "num": 266997,
+        "word": "赵丽颖霸总出街",
+        "onboard_time": 1718521818,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261267,
+        "num": 261267,
+        "word": "网易云坏",
+        "onboard_time": 1718514377,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 627807,
+        "num": 252906,
+        "word": "周也公关",
+        "onboard_time": 1718502796,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346691,
+        "num": 251233,
+        "word": "孙怡上岛了",
+        "onboard_time": 1718521637,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342426,
+        "num": 250100,
+        "word": "林允拒绝网红妆",
+        "onboard_time": 1718520496,
+        "rank": 22,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 235327,
+        "num": 235327,
+        "word": "赵丽颖工作室预告图",
+        "onboard_time": 1718521277,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208768,
+        "num": 208768,
+        "word": "南方医科大学称始终坚持救死扶伤优先",
+        "onboard_time": 1718514138,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404668,
+        "num": 206424,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228792,
+        "num": 205230,
+        "word": "这是我离王俊凯最近的一次",
+        "onboard_time": 1718522176,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221045,
+        "num": 202564,
+        "word": "苏新皓朱志鑫并列第一",
+        "onboard_time": 1718520557,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193964,
+        "num": 193964,
+        "word": "第一次去男友家他妈妈全点的外卖",
+        "onboard_time": 1718513357,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184845,
+        "num": 184845,
+        "word": "专家称不是大学选择姜萍是她选择大学",
+        "onboard_time": 1718520856,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168697,
+        "num": 168697,
+        "word": "王星越定风波出妆",
+        "onboard_time": 1718508378,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167259,
+        "num": 167259,
+        "word": "警方通报废弃楼发现男尸",
+        "onboard_time": 1718503038,
+        "rank": 31,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164746,
+        "num": 164746,
+        "word": "国际数学奥林匹克满分得主祝福高考生",
+        "onboard_time": 1718520738,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 158415,
+        "num": 158415,
+        "word": "艾米睫毛好长",
+        "onboard_time": 1718519657,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154867,
+        "num": 154867,
+        "word": "年轻人为什么不爱轻奢了",
+        "onboard_time": 1718511138,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147094,
+        "num": 147094,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146957,
+        "num": 146957,
+        "word": "你敢给我污名我让你痛失真情",
+        "onboard_time": 1718520557,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136588,
+        "num": 136588,
+        "word": "狐妖现代番外",
+        "onboard_time": 1718516957,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130255,
+        "num": 130255,
+        "word": "墨雨云间亲夫妻不算账",
+        "onboard_time": 1718512156,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120872,
+        "num": 120872,
+        "word": "为什么建议夏天多吃面",
+        "onboard_time": 1718506277,
+        "rank": 39,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 119296,
+        "num": 119296,
+        "word": "微博电影之夜",
+        "onboard_time": 1718510297,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118411,
+        "num": 118411,
+        "word": "墨雨云间27集满广",
+        "onboard_time": 1718518037,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117114,
+        "num": 117114,
+        "word": "父亲节快乐",
+        "onboard_time": 1718493733,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115042,
+        "num": 115042,
+        "word": "中国女排今晚迎战波兰女排",
+        "onboard_time": 1718520617,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113431,
+        "num": 113431,
+        "word": "我大学毕业典礼都没幼儿园的隆重",
+        "onboard_time": 1718519596,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112127,
+        "num": 112127,
+        "word": "三丽鸥明星人气评选",
+        "onboard_time": 1718522237,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 111935,
+        "num": 111935,
+        "word": "赵露思现代剧穿搭",
+        "onboard_time": 1718518997,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102932,
+        "num": 102932,
+        "word": "微博电影之夜出图",
+        "onboard_time": 1718522118,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101725,
+        "num": 101725,
+        "word": "刘昊然为新电影瘦到119斤",
+        "onboard_time": 1718519357,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94852,
+        "num": 94852,
+        "word": "总觉得累真的建议去查一下甲状腺",
+        "onboard_time": 1718522176,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}
