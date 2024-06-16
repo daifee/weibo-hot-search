@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718577404002,
+  "endTime": 1718580137338,
   "band_list": [
     {
       "raw_hot": 1714608,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 521135,
+      "num": 521135,
+      "word": "涟水中专党委书记回应",
+      "onboard_time": 1718553138,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 510872,
       "num": 128827,
       "word": "毕业月薪六七千我妈说我要求低",
@@ -75,6 +83,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 449462,
+      "num": 449462,
+      "word": "章子怡哽咽",
+      "onboard_time": 1718554638,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 443914,
       "num": 443914,
       "word": "12306回应网友建议实行男女分车厢",
@@ -89,6 +105,14 @@
       "onboard_time": 1718544859,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 401060,
+      "num": 401060,
+      "word": "小县城里最舒服的人",
+      "onboard_time": 1718556316,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 398285,
@@ -107,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388432,
+      "num": 388432,
+      "word": "一部被所有电影节拒收的电影",
+      "onboard_time": 1718560453,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 345501,
       "num": 309590,
       "word": "墨雨云间 减更",
       "onboard_time": 1718540658,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 344327,
-      "num": 344327,
-      "word": "章子怡哽咽",
-      "onboard_time": 1718554638,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 342023,
@@ -131,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314282,
+      "num": 110796,
+      "word": "为什么不建议你喝太多苏打水",
+      "onboard_time": 1718575931,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 307390,
       "num": 307390,
       "word": "smlz",
       "onboard_time": 1718550739,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 280368,
-      "num": 340053,
-      "word": "涟水中专党委书记回应",
-      "onboard_time": 1718553138,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 245179,
@@ -171,12 +195,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213680,
+      "num": 194316,
+      "word": "董力说我不能再这样忍受了我会爆炸的",
+      "onboard_time": 1718567532,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213588,
       "num": 213588,
       "word": "不结婚的年轻人重伤糖果业",
       "onboard_time": 1718534178,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 210500,
+      "num": 192309,
+      "word": "佟大为三连问刘亦菲",
+      "onboard_time": 1718576651,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202501,
+      "num": 202501,
+      "word": "塞尔维亚0比1英格兰",
+      "onboard_time": 1718579535,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 202202,
@@ -187,12 +235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200606,
-      "num": 200606,
-      "word": "小县城里最舒服的人",
-      "onboard_time": 1718556316,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 191362,
+      "num": 191362,
+      "word": "中方管制非法闯仁爱礁海域的菲船只",
+      "onboard_time": 1718579475,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 187648,
@@ -201,14 +249,6 @@
       "onboard_time": 1718546000,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187332,
-      "num": 187332,
-      "word": "一部被所有电影节拒收的电影",
-      "onboard_time": 1718560453,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 177775,
@@ -243,12 +283,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156292,
+      "num": 156292,
+      "word": "狗狗偷偷戴上了奶奶的假牙",
+      "onboard_time": 1718559732,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155485,
       "num": 126878,
       "word": "优酷 排播",
       "onboard_time": 1718543718,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155462,
+      "num": 155462,
+      "word": "斯洛文尼亚1比1丹麦",
+      "onboard_time": 1718579355,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134406,
+      "num": 134406,
+      "word": "欧洲杯",
+      "onboard_time": 1718543899,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 130576,
@@ -307,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121328,
-      "num": 62017,
-      "word": "董力说我不能再这样忍受了我会爆炸的",
-      "onboard_time": 1718567532,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120032,
       "num": 90331,
       "word": "孙燕姿 音乐节",
@@ -363,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103852,
+      "num": 103852,
+      "word": "乳胶枕头投诉量直线飙升",
+      "onboard_time": 1718571971,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102686,
       "num": 129464,
       "word": "中国女排4连胜",
@@ -371,12 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90884,
-      "num": 90884,
-      "word": "欧洲杯",
-      "onboard_time": 1718543899,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 92985,
+      "num": 92985,
+      "word": "出了国发现中国的文化输出太强了",
+      "onboard_time": 1718575452,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 90804,
@@ -387,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90132,
+      "num": 90132,
+      "word": "我国第一颗氢弹爆炸震撼瞬间",
+      "onboard_time": 1718579355,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 87322,
       "num": 87322,
       "word": "龚翔宇哭了",
@@ -395,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87009,
-      "num": 61163,
-      "word": "狗狗偷偷戴上了奶奶的假牙",
-      "onboard_time": 1718559732,
+      "raw_hot": 82581,
+      "num": 82581,
+      "word": "埃里克森破门",
+      "onboard_time": 1718579355,
       "rank": 32,
-      "category": "幽默"
+      "category": "体育"
     },
     {
       "raw_hot": 76092,
@@ -419,20 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65793,
-      "num": 47173,
-      "word": "为什么不建议你喝太多苏打水",
-      "onboard_time": 1718575931,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 65772,
       "num": 65772,
       "word": "sana好美",
       "onboard_time": 1718545157,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 65343,
+      "num": 65343,
+      "word": "贝林厄姆破门",
+      "onboard_time": 1718579475,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 64827,
@@ -443,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64092,
+      "num": 64092,
+      "word": "于正回应墨雨云间没有团综",
+      "onboard_time": 1718577794,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63535,
       "num": 85130,
       "word": "十二星座的反差感",
@@ -451,20 +531,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 57624,
-      "num": 47166,
-      "word": "出了国发现中国的文化输出太强了",
-      "onboard_time": 1718575452,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 55389,
-      "num": 46470,
+      "raw_hot": 56737,
+      "num": 56737,
       "word": "16周所有大学生都会失联",
       "onboard_time": 1718559013,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53507,
+      "num": 53507,
+      "word": "中国女排总决赛战日本女排",
+      "onboard_time": 1718579896,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 46474,
@@ -475,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42682,
-      "num": 42682,
-      "word": "乳胶枕头投诉量直线飙升",
-      "onboard_time": 1718571971,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 43863,
+      "num": 53494,
+      "word": "邓紫棋青岛现场",
+      "onboard_time": 1718579775,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 42163,
@@ -489,14 +569,6 @@
       "onboard_time": 1718558474,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 40084,
-      "num": 40084,
-      "word": "佟大为三连问刘亦菲",
-      "onboard_time": 1718576651,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 32855,
@@ -521,6 +593,14 @@
       "onboard_time": 1718551699,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23065,
+      "num": 409905,
+      "word": "交通互联互通带来发展机遇无限",
+      "onboard_time": 1718541857,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22616,
@@ -561,14 +641,6 @@
       "onboard_time": 1718564891,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 14584,
-      "num": 284294,
-      "word": "交通互联互通带来发展机遇无限",
-      "onboard_time": 1718541857,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13967,
