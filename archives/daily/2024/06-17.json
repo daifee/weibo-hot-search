@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718554931809,
+  "endTime": 1718555867487,
   "band_list": [
     {
       "raw_hot": 1714608,
@@ -51,20 +51,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 484832,
-      "num": 439115,
-      "word": "想去林更新微博说两句但我骂不过他",
-      "onboard_time": 1718550739,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 478938,
+      "raw_hot": 510872,
       "num": 128827,
       "word": "毕业月薪六七千我妈说我要求低",
       "onboard_time": 1718552658,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 484832,
+      "num": 444243,
+      "word": "想去林更新微博说两句但我骂不过他",
+      "onboard_time": 1718550739,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 468618,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 398285,
-      "num": 316456,
+      "num": 322349,
       "word": "刘浩存周也终于认识了",
       "onboard_time": 1718541678,
       "rank": 11,
@@ -179,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184738,
+      "num": 120180,
+      "word": "章子怡哽咽",
+      "onboard_time": 1718554638,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177775,
       "num": 177775,
       "word": "TheShy",
@@ -219,20 +227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130576,
+      "num": 130576,
+      "word": "TheShy诡术薇恩",
+      "onboard_time": 1718552598,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130565,
       "num": 126820,
       "word": "陈昊宇文咏珊合照",
       "onboard_time": 1718553618,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 130512,
-      "num": 130512,
-      "word": "TheShy诡术薇恩",
-      "onboard_time": 1718552598,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 129495,
@@ -243,12 +251,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127633,
+      "num": 94546,
+      "word": "墨雨云间团综没招到商",
+      "onboard_time": 1718554097,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126656,
       "num": 126656,
       "word": "薛之谦演唱会",
       "onboard_time": 1718550858,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126099,
+      "num": 92624,
+      "word": "庆余年 二皇子",
+      "onboard_time": 1718533637,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 121433,
@@ -259,14 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120180,
-      "num": 120180,
-      "word": "章子怡哽咽",
-      "onboard_time": 1718554638,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 120032,
       "num": 90331,
       "word": "孙燕姿 音乐节",
@@ -275,12 +291,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115662,
-      "num": 89747,
-      "word": "庆余年 二皇子",
-      "onboard_time": 1718533637,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 114204,
+      "num": 340053,
+      "word": "涟水中专党委书记回应",
+      "onboard_time": 1718553138,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 113755,
@@ -313,14 +329,6 @@
       "onboard_time": 1718542459,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107042,
-      "num": 87477,
-      "word": "墨雨云间团综没招到商",
-      "onboard_time": 1718554097,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 104756,
@@ -387,12 +395,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60159,
-      "num": 340053,
-      "word": "涟水中专党委书记回应",
-      "onboard_time": 1718553138,
+      "raw_hot": 51964,
+      "num": 80335,
+      "word": "斯洛文尼亚vs丹麦",
+      "onboard_time": 1718551399,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25143,
+      "num": 244488,
+      "word": "毕业典礼全场齐唱义勇军进行曲好澎湃",
+      "onboard_time": 1718555117,
       "rank": 9,
-      "category": "社会新闻,教育"
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25026,
+      "num": 80394,
+      "word": "女生硬控K艇30秒获世界冠军奖励2千",
+      "onboard_time": 1718551699,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 18545,

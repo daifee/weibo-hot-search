@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718554931809,
+  "endTime": 1718555867487,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -595,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 510872,
+      "num": 128827,
+      "word": "毕业月薪六七千我妈说我要求低",
+      "onboard_time": 1718552658,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 499629,
       "num": 173312,
       "word": "韩国人正在拒绝晋升",
@@ -641,14 +649,6 @@
       "onboard_time": 1718514557,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 478938,
-      "num": 128827,
-      "word": "毕业月薪六七千我妈说我要求低",
-      "onboard_time": 1718552658,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 478903,
@@ -1835,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184738,
+      "num": 120180,
+      "word": "章子怡哽咽",
+      "onboard_time": 1718554638,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182337,
       "num": 169839,
       "word": "只有山西人知道孙丞潇骂的很脏",
@@ -2435,20 +2443,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130576,
+      "num": 130576,
+      "word": "TheShy诡术薇恩",
+      "onboard_time": 1718552598,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 130565,
       "num": 126820,
       "word": "陈昊宇文咏珊合照",
       "onboard_time": 1718553618,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 130512,
-      "num": 130512,
-      "word": "TheShy诡术薇恩",
-      "onboard_time": 1718552598,
-      "rank": 17,
-      "category": "电竞"
     },
     {
       "raw_hot": 129963,
@@ -2505,6 +2513,14 @@
       "onboard_time": 1718514856,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 127633,
+      "num": 94546,
+      "word": "墨雨云间团综没招到商",
+      "onboard_time": 1718554097,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 127359,
@@ -2627,14 +2643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120180,
-      "num": 120180,
-      "word": "章子怡哽咽",
-      "onboard_time": 1718554638,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 119613,
       "num": 125743,
       "word": "RA对战LNG",
@@ -2697,6 +2705,14 @@
       "onboard_time": 1718520617,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114204,
+      "num": 340053,
+      "word": "涟水中专党委书记回应",
+      "onboard_time": 1718553138,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 113988,
@@ -2801,14 +2817,6 @@
       "onboard_time": 1718550321,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107042,
-      "num": 87477,
-      "word": "墨雨云间团综没招到商",
-      "onboard_time": 1718554097,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 105891,
@@ -3187,14 +3195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 60159,
-      "num": 340053,
-      "word": "涟水中专党委书记回应",
-      "onboard_time": 1718553138,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 60043,
       "num": 60043,
       "word": "西班牙3分钟2球",
@@ -3529,6 +3529,14 @@
       "onboard_time": 1718536038,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25143,
+      "num": 244488,
+      "word": "毕业典礼全场齐唱义勇军进行曲好澎湃",
+      "onboard_time": 1718555117,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25108,
