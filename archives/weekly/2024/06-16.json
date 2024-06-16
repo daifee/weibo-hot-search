@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718542155517,
+  "endTime": 1718544004431,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -75,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1300021,
-      "num": 622819,
+      "raw_hot": 1330709,
+      "num": 1197084,
       "word": "猝死前一个月身体就有症状",
       "onboard_time": 1718537597,
       "rank": 47,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1233618,
+      "num": 1233618,
+      "word": "12306回应网友建议实行男女分车厢",
+      "onboard_time": 1718538378,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1225106,
       "num": 931059,
       "word": "爸宝女",
@@ -107,12 +115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1187297,
+      "num": 1187297,
+      "word": "墨雨云间 减更",
+      "onboard_time": 1718540658,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1183211,
       "num": 1183211,
       "word": "杨和苏你歌呢",
       "onboard_time": 1718511738,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1150907,
+      "num": 676821,
+      "word": "刘浩存周也终于认识了",
+      "onboard_time": 1718541678,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 1139762,
@@ -139,14 +163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1055636,
-      "num": 622455,
-      "word": "墨雨云间 减更",
-      "onboard_time": 1718540658,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1024841,
       "num": 1024841,
       "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
@@ -163,11 +179,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 995084,
-      "num": 995084,
-      "word": "12306回应网友建议实行男女分车厢",
-      "onboard_time": 1718538378,
-      "rank": 1,
+      "raw_hot": 994263,
+      "num": 221847,
+      "word": "妻子出轨后要离婚被丈夫打伤身亡",
+      "onboard_time": 1718541379,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1718516177,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 773231,
+      "num": 773231,
+      "word": "龚翔宇哭了",
+      "onboard_time": 1718543240,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 752598,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 520563,
-      "num": 355163,
+      "num": 356278,
       "word": "不结婚的年轻人重伤糖果业",
       "onboard_time": 1718534178,
       "rank": 20,
@@ -699,19 +723,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396157,
+      "num": 396157,
+      "word": "中国女排vs波兰女排",
+      "onboard_time": 1718541678,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
       "onboard_time": 1718506517,
       "rank": 15,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 393713,
-      "num": 202763,
-      "word": "刘浩存周也终于认识了",
-      "onboard_time": 1718541678,
-      "rank": 20,
       "category": "电影"
     },
     {
@@ -777,6 +801,14 @@
       "onboard_time": 1718532018,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 367431,
+      "num": 367431,
+      "word": "佟大为回复刘亦菲",
+      "onboard_time": 1718539639,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 367163,
@@ -875,12 +907,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 311619,
-      "num": 217442,
-      "word": "佟大为回复刘亦菲",
-      "onboard_time": 1718539639,
-      "rank": 23,
+      "raw_hot": 316439,
+      "num": 248623,
+      "word": "墨雨云间",
+      "onboard_time": 1718514197,
+      "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 314036,
+      "num": 212566,
+      "word": "王一博不热因为脸够冷",
+      "onboard_time": 1718541978,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 309613,
@@ -915,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297289,
+      "num": 210072,
+      "word": "王俊凯刘昊然同框",
+      "onboard_time": 1718542459,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296666,
       "num": 296666,
       "word": "刘亦菲泳池戏",
@@ -928,6 +976,14 @@
       "word": "微博电影之夜直播",
       "onboard_time": 1718535978,
       "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 293377,
+      "num": 204920,
+      "word": "性感姬发 在线发牌",
+      "onboard_time": 1718542819,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -995,20 +1051,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272037,
-      "num": 248623,
-      "word": "墨雨云间",
-      "onboard_time": 1718514197,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269651,
       "num": 248607,
       "word": "第一次去男友家他妈妈全点的外卖",
       "onboard_time": 1718513357,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 267953,
+      "num": 190588,
+      "word": "易烊千玺刺绣连体裤",
+      "onboard_time": 1718542277,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 259989,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 252889,
+      "num": 252889,
+      "word": "波兰vs荷兰",
+      "onboard_time": 1718519237,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 250991,
@@ -1123,20 +1187,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 226761,
-      "num": 192244,
-      "word": "王一博不热因为脸够冷",
-      "onboard_time": 1718541978,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 224655,
       "num": 224655,
       "word": "林俊杰jj20世界巡回演唱会",
       "onboard_time": 1718462420,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223181,
+      "num": 223181,
+      "word": "太原理工晋级",
+      "onboard_time": 1718543659,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 221619,
@@ -1235,6 +1299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212344,
+      "num": 188433,
+      "word": "优酷 排播",
+      "onboard_time": 1718543718,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210942,
       "num": 210942,
       "word": "王源丁程鑫敖子逸同框",
@@ -1315,14 +1387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 203280,
-      "num": 201153,
-      "word": "妻子出轨后要离婚被丈夫打伤身亡",
-      "onboard_time": 1718541379,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203022,
       "num": 177643,
       "word": "热烈",
@@ -1377,6 +1441,14 @@
       "onboard_time": 1718536038,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197198,
+      "num": 197198,
+      "word": "中国女排1比0波兰女排",
+      "onboard_time": 1718543240,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 197085,
@@ -1451,12 +1523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192093,
-      "num": 192093,
-      "word": "中国女排vs波兰女排",
-      "onboard_time": 1718541678,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 191926,
+      "num": 165764,
+      "word": "于适拍掌俯卧撑",
+      "onboard_time": 1718542819,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 191900,
@@ -1851,6 +1923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 147319,
+      "num": 147319,
+      "word": "冒烤鸭店铺正在批量倒闭",
+      "onboard_time": 1718543599,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147088,
       "num": 147088,
       "word": "秦霄贤当着戚薇面唱7",
@@ -1881,6 +1961,14 @@
       "onboard_time": 1718539157,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144011,
+      "num": 144011,
+      "word": "AI和姜萍答同一份试卷最高仅34分",
+      "onboard_time": 1718541139,
+      "rank": 46,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 143888,
@@ -1963,14 +2051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134994,
-      "num": 134994,
-      "word": "AI和姜萍答同一份试卷最高仅34分",
-      "onboard_time": 1718541139,
-      "rank": 46,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 134625,
       "num": 302637,
       "word": "派出所备40多件衣服拍证件照",
@@ -2033,6 +2113,14 @@
       "onboard_time": 1718508556,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 131873,
+      "num": 131873,
+      "word": "TES战胜OMG",
+      "onboard_time": 1718542578,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 131497,
@@ -2203,20 +2291,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124725,
-      "num": 124725,
-      "word": "波兰vs荷兰",
-      "onboard_time": 1718519237,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123710,
       "num": 123710,
       "word": "女生爬山遇毒蛇竟凑上前合影",
       "onboard_time": 1718493073,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121832,
+      "num": 121832,
+      "word": "阴阳怪气的小猫",
+      "onboard_time": 1718542578,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 120792,
@@ -2635,6 +2723,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 77587,
+      "num": 410677,
+      "word": "倪妮微博电影之夜",
+      "onboard_time": 1718540239,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76695,
       "num": 124493,
       "word": "泰国大学生诱拐20名女性",
@@ -2779,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51145,
+      "num": 456662,
+      "word": "西安雨后彩虹太美了",
+      "onboard_time": 1718542819,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 50892,
       "num": 1052154,
       "word": "晒一晒你和爸爸的合影",
@@ -2833,14 +2937,6 @@
       "onboard_time": 1718528597,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43964,
-      "num": 368066,
-      "word": "倪妮微博电影之夜",
-      "onboard_time": 1718540239,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 42120,
@@ -2929,6 +3025,14 @@
       "onboard_time": 1718494453,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35674,
+      "num": 1197575,
+      "word": "中国式现代化的万千气象",
+      "onboard_time": 1718542277,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 35471,
