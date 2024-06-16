@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718555867487,
+  "endTime": 1718558177781,
   "band_list": [
     {
       "raw_hot": 1714608,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 184738,
-      "num": 120180,
+      "num": 131595,
       "word": "章子怡哽咽",
       "onboard_time": 1718554638,
       "rank": 36,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124635,
+      "num": 340053,
+      "word": "涟水中专党委书记回应",
+      "onboard_time": 1718553138,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 121433,
       "num": 121433,
       "word": "林更新彭冠英对峙戏",
@@ -291,12 +299,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114204,
-      "num": 340053,
-      "word": "涟水中专党委书记回应",
-      "onboard_time": 1718553138,
-      "rank": 9,
-      "category": "社会新闻,教育"
+      "raw_hot": 114961,
+      "num": 114961,
+      "word": "小县城里最舒服的人",
+      "onboard_time": 1718556316,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 113755,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65772,
+      "num": 65772,
+      "word": "sana好美",
+      "onboard_time": 1718545157,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 63535,
       "num": 85130,
       "word": "十二星座的反差感",
@@ -401,6 +417,14 @@
       "onboard_time": 1718551399,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46474,
+      "num": 60827,
+      "word": "墨雨云间",
+      "onboard_time": 1718543119,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 25143,
@@ -423,6 +447,22 @@
       "num": 539783,
       "word": "中国式现代化的万千气象",
       "onboard_time": 1718542277,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10485,
+      "num": 137350,
+      "word": "他从6米高的桥上跃下救起落水女子",
+      "onboard_time": 1718557275,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10225,
+      "num": 284294,
+      "word": "交通互联互通带来发展机遇无限",
+      "onboard_time": 1718541857,
       "rank": 2,
       "category": "社会新闻"
     }
