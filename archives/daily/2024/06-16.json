@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718544004431,
+  "endTime": 1718544846291,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -83,6 +83,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1317744,
+      "num": 334944,
+      "word": "妻子出轨后要离婚被丈夫打伤身亡",
+      "onboard_time": 1718541379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1291336,
+      "num": 1291336,
+      "word": "墨雨云间 减更",
+      "onboard_time": 1718540658,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1248796,
       "num": 1248796,
       "word": "南方医科大学",
@@ -96,6 +112,14 @@
       "word": "微博电影之夜红毯",
       "onboard_time": 1718519596,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1237781,
+      "num": 1010284,
+      "word": "刘浩存周也终于认识了",
+      "onboard_time": 1718541678,
+      "rank": 20,
       "category": "电影"
     },
     {
@@ -115,28 +139,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1187297,
-      "num": 1187297,
-      "word": "墨雨云间 减更",
-      "onboard_time": 1718540658,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1183211,
       "num": 1183211,
       "word": "杨和苏你歌呢",
       "onboard_time": 1718511738,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1150907,
-      "num": 676821,
-      "word": "刘浩存周也终于认识了",
-      "onboard_time": 1718541678,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 1139762,
@@ -179,12 +187,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 994263,
-      "num": 221847,
-      "word": "妻子出轨后要离婚被丈夫打伤身亡",
-      "onboard_time": 1718541379,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 1004666,
+      "num": 1004666,
+      "word": "龚翔宇哭了",
+      "onboard_time": 1718543240,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 992969,
@@ -225,14 +233,6 @@
       "onboard_time": 1718516177,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 773231,
-      "num": 773231,
-      "word": "龚翔宇哭了",
-      "onboard_time": 1718543240,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 752598,
@@ -281,6 +281,14 @@
       "onboard_time": 1718527877,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696171,
+      "num": 381700,
+      "word": "优酷 排播",
+      "onboard_time": 1718543718,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 692336,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 520563,
-      "num": 356278,
+      "num": 380876,
       "word": "不结婚的年轻人重伤糖果业",
       "onboard_time": 1718534178,
       "rank": 20,
@@ -667,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 415030,
+      "num": 381288,
+      "word": "性感姬发 在线发牌",
+      "onboard_time": 1718542819,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 412786,
       "num": 412786,
       "word": "中国女排3比2土耳其女排",
@@ -731,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396143,
+      "num": 380931,
+      "word": "佟大为回复刘亦菲",
+      "onboard_time": 1718539639,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
@@ -763,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 376215,
+      "num": 376215,
+      "word": "太原理工晋级",
+      "onboard_time": 1718543659,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375761,
       "num": 375761,
       "word": "律师称应褒扬南方医科大学救人教师",
@@ -787,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371444,
+      "num": 371444,
+      "word": "波兰vs荷兰",
+      "onboard_time": 1718519237,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371358,
       "num": 176215,
       "word": "向佐父亲节晒三代人父子合照",
@@ -801,14 +841,6 @@
       "onboard_time": 1718532018,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 367431,
-      "num": 367431,
-      "word": "佟大为回复刘亦菲",
-      "onboard_time": 1718539639,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 367163,
@@ -883,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334492,
+      "num": 334492,
+      "word": "王俊凯刘昊然同框",
+      "onboard_time": 1718542459,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 328626,
       "num": 328626,
       "word": "警方通报男子在车厢面对女乘客裸睡",
@@ -908,7 +948,7 @@
     },
     {
       "raw_hot": 316439,
-      "num": 248623,
+      "num": 287360,
       "word": "墨雨云间",
       "onboard_time": 1718514197,
       "rank": 27,
@@ -916,7 +956,7 @@
     },
     {
       "raw_hot": 314036,
-      "num": 212566,
+      "num": 310070,
       "word": "王一博不热因为脸够冷",
       "onboard_time": 1718541978,
       "rank": 32,
@@ -955,14 +995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 297289,
-      "num": 210072,
-      "word": "王俊凯刘昊然同框",
-      "onboard_time": 1718542459,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 296666,
       "num": 296666,
       "word": "刘亦菲泳池戏",
@@ -979,12 +1011,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293377,
-      "num": 204920,
-      "word": "性感姬发 在线发牌",
-      "onboard_time": 1718542819,
-      "rank": 27,
-      "category": "电影"
+      "raw_hot": 293534,
+      "num": 335266,
+      "word": "冒烤鸭店铺正在批量倒闭",
+      "onboard_time": 1718543599,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 292785,
@@ -1060,7 +1092,7 @@
     },
     {
       "raw_hot": 267953,
-      "num": 190588,
+      "num": 244131,
       "word": "易烊千玺刺绣连体裤",
       "onboard_time": 1718542277,
       "rank": 31,
@@ -1097,14 +1129,6 @@
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 252889,
-      "num": 252889,
-      "word": "波兰vs荷兰",
-      "onboard_time": 1718519237,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 250991,
@@ -1195,11 +1219,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 223181,
-      "num": 223181,
-      "word": "太原理工晋级",
-      "onboard_time": 1718543659,
-      "rank": 19,
+      "raw_hot": 222106,
+      "num": 222106,
+      "word": "中国女排真棒",
+      "onboard_time": 1718544500,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1299,14 +1323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 212344,
-      "num": 188433,
-      "word": "优酷 排播",
-      "onboard_time": 1718543718,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210942,
       "num": 210942,
       "word": "王源丁程鑫敖子逸同框",
@@ -1369,6 +1385,14 @@
       "onboard_time": 1718536818,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204311,
+      "num": 186090,
+      "word": "讨厌方协文",
+      "onboard_time": 1718544679,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 203584,
@@ -1875,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154265,
+      "num": 154265,
+      "word": "AI和姜萍答同一份试卷最高仅34分",
+      "onboard_time": 1718541139,
+      "rank": 46,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 152622,
       "num": 152622,
       "word": "世界杯",
@@ -1923,14 +1955,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 147319,
-      "num": 147319,
-      "word": "冒烤鸭店铺正在批量倒闭",
-      "onboard_time": 1718543599,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147088,
       "num": 147088,
       "word": "秦霄贤当着戚薇面唱7",
@@ -1961,14 +1985,6 @@
       "onboard_time": 1718539157,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144011,
-      "num": 144011,
-      "word": "AI和姜萍答同一份试卷最高仅34分",
-      "onboard_time": 1718541139,
-      "rank": 46,
-      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 143888,
@@ -2009,6 +2025,14 @@
       "onboard_time": 1718500517,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 139776,
+      "num": 139776,
+      "word": "莱万不上",
+      "onboard_time": 1718544318,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 139376,
@@ -2667,6 +2691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 84303,
+      "num": 410677,
+      "word": "倪妮微博电影之夜",
+      "onboard_time": 1718540239,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84283,
       "num": 124662,
       "word": "十个勤天二开",
@@ -2721,14 +2753,6 @@
       "onboard_time": 1718468477,
       "rank": 49,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 77587,
-      "num": 410677,
-      "word": "倪妮微博电影之夜",
-      "onboard_time": 1718540239,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 76695,
@@ -2875,7 +2899,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 51145,
+      "raw_hot": 54828,
       "num": 456662,
       "word": "西安雨后彩虹太美了",
       "onboard_time": 1718542819,
@@ -2971,6 +2995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40614,
+      "num": 1197575,
+      "word": "中国式现代化的万千气象",
+      "onboard_time": 1718542277,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40543,
       "num": 112328,
       "word": "我爸永远是我最大的依仗",
@@ -3027,14 +3059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 35674,
-      "num": 1197575,
-      "word": "中国式现代化的万千气象",
-      "onboard_time": 1718542277,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 35471,
       "num": 153949,
       "word": "父亲节前爸爸捐骨髓教儿子感恩",
@@ -3073,6 +3097,14 @@
       "onboard_time": 1718530457,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 28529,
+      "num": 319846,
+      "word": "爸爸穿上儿子的学士服满脸骄傲",
+      "onboard_time": 1718542398,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28411,
