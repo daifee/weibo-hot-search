@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718523266941,
+  "endTime": 1718526118080,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2329,6 +2329,14 @@
       "onboard_time": 1718267779,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1129098,
+      "num": 532637,
+      "word": "刘浩存工作室 审美",
+      "onboard_time": 1718524216,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1128299,
@@ -5571,6 +5579,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 670724,
+      "num": 229433,
+      "word": "没想到验孕棒里还有干燥剂",
+      "onboard_time": 1718523197,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 670179,
+      "num": 670179,
+      "word": "赵丽颖霸总出街",
+      "onboard_time": 1718521818,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 669344,
       "num": 385769,
       "word": "那英第二",
@@ -6659,14 +6683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 593854,
-      "num": 593854,
-      "word": "赵丽颖霸总出街",
-      "onboard_time": 1718521818,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 593599,
       "num": 593599,
       "word": "阿沁控诉詹雯婷抄袭",
@@ -7219,12 +7235,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562504,
+      "num": 228703,
+      "word": "手表帮我戒掉了手机依赖",
+      "onboard_time": 1718523136,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 562382,
       "num": 264470,
       "word": "人能活多久看头发就能知道吗",
       "onboard_time": 1718434157,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 561706,
+      "num": 435342,
+      "word": "赵华为抽中了王一博",
+      "onboard_time": 1718524097,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 560081,
@@ -7553,6 +7585,14 @@
       "onboard_time": 1717238356,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 541328,
+      "num": 377570,
+      "word": "张若昀全球首穿",
+      "onboard_time": 1718522657,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 540994,
@@ -9707,6 +9747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 452390,
+      "num": 452390,
+      "word": "对方撤回了一位帅哥数学老师",
+      "onboard_time": 1718523856,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 452068,
       "num": 452068,
       "word": "十个勤天二开",
@@ -11747,6 +11795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384593,
+      "num": 384593,
+      "word": "姜萍妈妈首发声",
+      "onboard_time": 1718525237,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383839,
       "num": 330475,
       "word": "张若昀回应有蛀牙",
@@ -12019,6 +12075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 375761,
+      "num": 375761,
+      "word": "律师称应褒扬南方医科大学救人教师",
+      "onboard_time": 1718523375,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 375619,
       "num": 375619,
       "word": "王星越发了11个萧蘅专属表情",
@@ -12201,6 +12265,14 @@
       "onboard_time": 1717219577,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370220,
+      "num": 370220,
+      "word": "美军对中国新冠疫苗发动认知作战",
+      "onboard_time": 1718524276,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 370092,
@@ -15251,6 +15323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292785,
+      "num": 292785,
+      "word": "张婧仪长沙",
+      "onboard_time": 1718523017,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 292685,
       "num": 195099,
       "word": "年级倒一和年级第一的友情",
@@ -17923,6 +18003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243922,
+      "num": 243922,
+      "word": "玫瑰的故事 女主和四个女人的故事",
+      "onboard_time": 1718525538,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243833,
       "num": 243833,
       "word": "范思辙名字",
@@ -18457,14 +18545,6 @@
       "onboard_time": 1717744878,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 236516,
-      "num": 236516,
-      "word": "张若昀全球首穿",
-      "onboard_time": 1718522657,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 236410,
@@ -20513,6 +20593,14 @@
       "onboard_time": 1717385297,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210953,
+      "num": 210953,
+      "word": "警方通报男子在车厢面对女乘客裸睡",
+      "onboard_time": 1718523617,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210799,
@@ -22595,6 +22683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198001,
+      "num": 198001,
+      "word": "林俊杰的弹跳力",
+      "onboard_time": 1718525956,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197981,
       "num": 197981,
       "word": "ChatGPT首次通过图灵测试",
@@ -24147,6 +24243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "谁懂王星越吴谨言这段一走一跑",
+      "onboard_time": 1718522476,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188335,
       "num": 188335,
       "word": "五哈",
@@ -24811,6 +24915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184207,
+      "num": 184207,
+      "word": "我发现一定要对钱有概念",
+      "onboard_time": 1718524877,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184122,
       "num": 184122,
       "word": "货车寻亲父亲找回失去23年的女儿",
@@ -24881,14 +24993,6 @@
       "onboard_time": 1717162645,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183815,
-      "num": 183815,
-      "word": "张婧仪长沙",
-      "onboard_time": 1718523017,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183790,
@@ -25457,14 +25561,6 @@
       "onboard_time": 1717730059,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 179039,
-      "num": 179039,
-      "word": "谁懂王星越吴谨言这段一走一跑",
-      "onboard_time": 1718522476,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 178972,
@@ -27443,6 +27539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166057,
+      "num": 166057,
+      "word": "柯南来微博电影之夜了",
+      "onboard_time": 1718525719,
+      "rank": 32,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 165959,
       "num": 165959,
       "word": "王者荣耀皮影戏联动",
@@ -29299,6 +29403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155416,
+      "num": 155416,
+      "word": "00后女枪王变身法学院研究生",
+      "onboard_time": 1718522717,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155401,
       "num": 155401,
       "word": "infp都是睡觉型选手",
@@ -30683,6 +30795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147795,
+      "num": 147795,
+      "word": "张佳宁挽着屈楚萧走红毯",
+      "onboard_time": 1718525897,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147622,
       "num": 147622,
       "word": "为什么和巧克力一起嚼口香糖会消失",
@@ -30921,6 +31041,14 @@
       "onboard_time": 1718272936,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 146584,
+      "num": 146584,
+      "word": "去相亲对象家吃饭发现是父亲节",
+      "onboard_time": 1718524636,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 146514,
@@ -32137,6 +32265,14 @@
       "onboard_time": 1717423938,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 139678,
+      "num": 139678,
+      "word": "季淑然剁父亲手臂有两版剧本",
+      "onboard_time": 1718526017,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 139627,
@@ -34907,14 +35043,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125416,
-      "num": 125416,
-      "word": "手表帮我戒掉了手机依赖",
-      "onboard_time": 1718523136,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125398,
       "num": 125398,
       "word": "张杰穿堂风",
@@ -34977,6 +35105,14 @@
       "onboard_time": 1717405579,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125046,
+      "num": 125046,
+      "word": "小落三连MVP",
+      "onboard_time": 1718525178,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 125030,
@@ -35699,6 +35835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120792,
+      "num": 120792,
+      "word": "南方医科大学处分通报疑下发次日删除",
+      "onboard_time": 1718523317,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120755,
       "num": 120755,
       "word": "全世界的人都在用一生治愈童年",
@@ -36161,6 +36305,14 @@
       "onboard_time": 1718325918,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117885,
+      "num": 117885,
+      "word": "肖战特种兵式游巴黎",
+      "onboard_time": 1718523617,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 117831,
@@ -37163,14 +37315,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 112684,
-      "num": 112684,
-      "word": "00后女枪王变身法学院研究生",
-      "onboard_time": 1718522717,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112666,
       "num": 112666,
       "word": "BW",
@@ -37545,14 +37689,6 @@
       "onboard_time": 1718493612,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110456,
-      "num": 110456,
-      "word": "没想到验孕棒里还有干燥剂",
-      "onboard_time": 1718523197,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 110429,
@@ -41571,6 +41707,14 @@
       "category": "体育,美食"
     },
     {
+      "raw_hot": 64766,
+      "num": 534020,
+      "word": "那些老爸没说出口的话",
+      "onboard_time": 1718523317,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64742,
       "num": 294041,
       "word": "现实版长嫂如母",
@@ -44179,6 +44323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35606,
+      "num": 377829,
+      "word": "新中式毕业服爆火",
+      "onboard_time": 1718521637,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35590,
       "num": 881944,
       "word": "航拍视角看三北工程",
@@ -45313,6 +45465,14 @@
       "onboard_time": 1717786452,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20759,
+      "num": 146741,
+      "word": "常华森下颌线",
+      "onboard_time": 1718525357,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 20566,

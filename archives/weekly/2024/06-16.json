@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718523266941,
+  "endTime": 1718526118080,
   "band_list": [
     {
       "raw_hot": 2122450,
@@ -83,6 +83,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1129098,
+      "num": 532637,
+      "word": "刘浩存工作室 审美",
+      "onboard_time": 1718524216,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1096341,
       "num": 888349,
       "word": "猝死前的5分钟身体经历了什么",
@@ -155,6 +163,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 670724,
+      "num": 229433,
+      "word": "没想到验孕棒里还有干燥剂",
+      "onboard_time": 1718523197,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 670179,
+      "num": 670179,
+      "word": "赵丽颖霸总出街",
+      "onboard_time": 1718521818,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 655907,
       "num": 655907,
       "word": "邓超终于上了影帝大号",
@@ -187,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 593854,
-      "num": 593854,
-      "word": "赵丽颖霸总出街",
-      "onboard_time": 1718521818,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 576910,
       "num": 576910,
       "word": "机场回应疑似外国人起飞时偷拍",
@@ -211,6 +227,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562504,
+      "num": 228703,
+      "word": "手表帮我戒掉了手机依赖",
+      "onboard_time": 1718523136,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 561706,
+      "num": 435342,
+      "word": "赵华为抽中了王一博",
+      "onboard_time": 1718524097,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 547701,
       "num": 547701,
       "word": "姜萍",
@@ -225,6 +257,14 @@
       "onboard_time": 1718494873,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 541328,
+      "num": 377570,
+      "word": "张若昀全球首穿",
+      "onboard_time": 1718522657,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 539486,
@@ -313,6 +353,14 @@
       "onboard_time": 1718466557,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 452390,
+      "num": 452390,
+      "word": "对方撤回了一位帅哥数学老师",
+      "onboard_time": 1718523856,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 451791,
@@ -411,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 384593,
+      "num": 384593,
+      "word": "姜萍妈妈首发声",
+      "onboard_time": 1718525237,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381417,
       "num": 381417,
       "word": "熬夜看球前建议先睡一觉",
@@ -424,6 +480,14 @@
       "word": "南方医科大学称始终坚持救死扶伤优先",
       "onboard_time": 1718514138,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375761,
+      "num": 375761,
+      "word": "律师称应褒扬南方医科大学救人教师",
+      "onboard_time": 1718523375,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -441,6 +505,14 @@
       "onboard_time": 1718499856,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370220,
+      "num": 370220,
+      "word": "美军对中国新冠疫苗发动认知作战",
+      "onboard_time": 1718524276,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 367163,
@@ -531,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 292785,
+      "num": 292785,
+      "word": "张婧仪长沙",
+      "onboard_time": 1718523017,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279186,
       "num": 272431,
       "word": "为什么建议夏天多吃面",
@@ -619,6 +699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 243922,
+      "num": 243922,
+      "word": "玫瑰的故事 女主和四个女人的故事",
+      "onboard_time": 1718525538,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240525,
       "num": 184516,
       "word": "Doinb谈Uzi停播",
@@ -641,14 +729,6 @@
       "onboard_time": 1718471475,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236516,
-      "num": 236516,
-      "word": "张若昀全球首穿",
-      "onboard_time": 1718522657,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235327,
@@ -747,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210953,
+      "num": 210953,
+      "word": "警方通报男子在车厢面对女乘客裸睡",
+      "onboard_time": 1718523617,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209597,
       "num": 150393,
       "word": "月经不规律其实是身体在求救",
@@ -793,6 +881,14 @@
       "onboard_time": 1718507358,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198001,
+      "num": 198001,
+      "word": "林俊杰的弹跳力",
+      "onboard_time": 1718525956,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 197085,
@@ -875,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188341,
+      "num": 188341,
+      "word": "谁懂王星越吴谨言这段一走一跑",
+      "onboard_time": 1718522476,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186989,
       "num": 186989,
       "word": "专家称不是大学选择姜萍是她选择大学",
@@ -883,12 +987,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183815,
-      "num": 183815,
-      "word": "张婧仪长沙",
-      "onboard_time": 1718523017,
-      "rank": 28,
-      "category": "作品衍生"
+      "raw_hot": 184207,
+      "num": 184207,
+      "word": "我发现一定要对钱有概念",
+      "onboard_time": 1718524877,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 181112,
@@ -913,14 +1017,6 @@
       "onboard_time": 1718506338,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 179039,
-      "num": 179039,
-      "word": "谁懂王星越吴谨言这段一走一跑",
-      "onboard_time": 1718522476,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 175244,
@@ -1011,6 +1107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 166057,
+      "num": 166057,
+      "word": "柯南来微博电影之夜了",
+      "onboard_time": 1718525719,
+      "rank": 32,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 165330,
       "num": 165330,
       "word": "姜萍火了不必过度强调其中专生身份",
@@ -1099,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155416,
+      "num": 155416,
+      "word": "00后女枪王变身法学院研究生",
+      "onboard_time": 1718522717,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152622,
       "num": 152622,
       "word": "世界杯",
@@ -1120,6 +1232,14 @@
       "word": "刘昊然为新电影瘦到119斤",
       "onboard_time": 1718519357,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 147795,
+      "num": 147795,
+      "word": "张佳宁挽着屈楚萧走红毯",
+      "onboard_time": 1718525897,
+      "rank": 35,
       "category": "电影"
     },
     {
@@ -1145,6 +1265,14 @@
       "onboard_time": 1718520557,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146584,
+      "num": 146584,
+      "word": "去相亲对象家吃饭发现是父亲节",
+      "onboard_time": 1718524636,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 146343,
@@ -1185,6 +1313,14 @@
       "onboard_time": 1718500517,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 139678,
+      "num": 139678,
+      "word": "季淑然剁父亲手臂有两版剧本",
+      "onboard_time": 1718526017,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 139376,
@@ -1355,14 +1491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 125416,
-      "num": 125416,
-      "word": "手表帮我戒掉了手机依赖",
-      "onboard_time": 1718523136,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 125388,
       "num": 125388,
       "word": "肖战续约青岛啤酒",
@@ -1379,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125046,
+      "num": 125046,
+      "word": "小落三连MVP",
+      "onboard_time": 1718525178,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124725,
       "num": 124725,
       "word": "波兰vs荷兰",
@@ -1393,6 +1529,22 @@
       "onboard_time": 1718493073,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120792,
+      "num": 120792,
+      "word": "南方医科大学处分通报疑下发次日删除",
+      "onboard_time": 1718523317,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117885,
+      "num": 117885,
+      "word": "肖战特种兵式游巴黎",
+      "onboard_time": 1718523617,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 117702,
@@ -1459,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112684,
-      "num": 112684,
-      "word": "00后女枪王变身法学院研究生",
-      "onboard_time": 1718522717,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110900,
       "num": 110900,
       "word": "沈腾跟马丽比心害羞了",
@@ -1481,14 +1625,6 @@
       "onboard_time": 1718493612,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110456,
-      "num": 110456,
-      "word": "没想到验孕棒里还有干燥剂",
-      "onboard_time": 1718523197,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 109405,
@@ -1771,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64766,
+      "num": 534020,
+      "word": "那些老爸没说出口的话",
+      "onboard_time": 1718523317,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64370,
       "num": 64370,
       "word": "沈腾说心中最好的女演员是马丽",
@@ -1931,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35606,
+      "num": 377829,
+      "word": "新中式毕业服爆火",
+      "onboard_time": 1718521637,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35471,
       "num": 153949,
       "word": "父亲节前爸爸捐骨髓教儿子感恩",
@@ -1993,6 +2145,14 @@
       "onboard_time": 1718519056,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20759,
+      "num": 146741,
+      "word": "常华森下颌线",
+      "onboard_time": 1718525357,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 20293,
