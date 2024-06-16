@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718570119121,
+  "endTime": 1718572857798,
   "band_list": [
     {
       "raw_hot": 1714608,
@@ -451,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45468,
+      "num": 38923,
+      "word": "董力说我不能再这样忍受了我会爆炸的",
+      "onboard_time": 1718567532,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42163,
       "num": 44195,
       "word": "张艺兴挑染绿发",
@@ -483,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22897,
-      "num": 20004,
-      "word": "董力说我不能再这样忍受了我会爆炸的",
-      "onboard_time": 1718567532,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 19557,
       "num": 19557,
       "word": "波兰vs荷兰",
@@ -504,6 +504,14 @@
       "word": "中国式现代化的万千气象",
       "onboard_time": 1718542277,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17717,
+      "num": 17717,
+      "word": "乳胶枕头投诉量直线飙升",
+      "onboard_time": 1718571971,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -521,6 +529,14 @@
       "onboard_time": 1718564891,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15471,
+      "num": 15471,
+      "word": "小猫真的会回来看主人",
+      "onboard_time": 1718570171,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 13967,
