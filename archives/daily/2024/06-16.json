@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718551210847,
+  "endTime": 1718552056383,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -41,6 +41,14 @@
       "onboard_time": 1718502796,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1476912,
+      "num": 1476912,
+      "word": "姜萍中考621分却上中专的原因",
+      "onboard_time": 1718550441,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1461412,
@@ -243,6 +251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 909842,
+      "num": 909842,
+      "word": "跳跳俏俏芽芽演唱会表白张杰",
+      "onboard_time": 1718549120,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 858145,
       "num": 858145,
       "word": "中国女排4连胜",
@@ -265,14 +281,6 @@
       "onboard_time": 1718516177,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 836390,
-      "num": 573285,
-      "word": "跳跳俏俏芽芽演唱会表白张杰",
-      "onboard_time": 1718549120,
-      "rank": 6,
-      "category": "演出"
     },
     {
       "raw_hot": 752598,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 557779,
-      "num": 443339,
+      "num": 449020,
       "word": "王一博 微博比我更热",
       "onboard_time": 1718548279,
       "rank": 36,
@@ -611,11 +619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 485758,
+      "num": 226615,
+      "word": "长期吃辣的人更容易得胃癌吗",
+      "onboard_time": 1718550560,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 480868,
       "num": 480868,
       "word": "桐儿下线",
       "onboard_time": 1718514557,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 479943,
+      "num": 479943,
+      "word": "想去林更新微博说两句但我骂不过他",
+      "onboard_time": 1718550739,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -891,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 379791,
-      "num": 379791,
-      "word": "姜萍中考621分却上中专的原因",
-      "onboard_time": 1718550441,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376215,
       "num": 376215,
       "word": "太原理工晋级",
@@ -1035,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 329876,
+      "num": 226521,
+      "word": "大学生最烧钱的八大爱好",
+      "onboard_time": 1718549780,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 328626,
       "num": 328626,
       "word": "警方通报男子在车厢面对女乘客裸睡",
@@ -1099,14 +1123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 303028,
-      "num": 226820,
-      "word": "想去林更新微博说两句但我骂不过他",
-      "onboard_time": 1718550739,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 297373,
       "num": 231940,
       "word": "张佳宁挽着屈楚萧走红毯",
@@ -1137,22 +1153,6 @@
       "onboard_time": 1718523017,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 288130,
-      "num": 226615,
-      "word": "长期吃辣的人更容易得胃癌吗",
-      "onboard_time": 1718550560,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 286750,
-      "num": 226521,
-      "word": "大学生最烧钱的八大爱好",
-      "onboard_time": 1718549780,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 286427,
@@ -1339,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236497,
+      "num": 236497,
+      "word": "smlz",
+      "onboard_time": 1718550739,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235327,
       "num": 235327,
       "word": "赵丽颖工作室预告图",
@@ -1460,7 +1468,7 @@
     },
     {
       "raw_hot": 215905,
-      "num": 167124,
+      "num": 197642,
       "word": "林更新彭冠英对峙戏",
       "onboard_time": 1718550019,
       "rank": 40,
@@ -1665,14 +1673,6 @@
       "onboard_time": 1718494095,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 195957,
-      "num": 195957,
-      "word": "smlz",
-      "onboard_time": 1718550739,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 195725,
@@ -2587,6 +2587,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 120373,
+      "num": 120373,
+      "word": "斯洛文尼亚vs丹麦",
+      "onboard_time": 1718551399,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119613,
       "num": 125743,
       "word": "RA对战LNG",
@@ -3179,6 +3187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 56384,
+      "num": 533611,
+      "word": "女生硬控K艇30秒获世界冠军奖励2千",
+      "onboard_time": 1718551699,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54828,
       "num": 456662,
       "word": "西安雨后彩虹太美了",
@@ -3331,6 +3347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39218,
+      "num": 488779,
+      "word": "父亲节当天西安现绝美彩虹",
+      "onboard_time": 1718549842,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37519,
       "num": 393722,
       "word": "台湾姑娘跳中国舞被小朋友夸特别美",
@@ -3401,14 +3425,6 @@
       "onboard_time": 1718535618,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 30676,
-      "num": 488779,
-      "word": "父亲节当天西安现绝美彩虹",
-      "onboard_time": 1718549842,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29309,
@@ -3577,6 +3593,14 @@
       "onboard_time": 1718523197,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7384,
+      "num": 120333,
+      "word": "马丽文咏珊隔空比心",
+      "onboard_time": 1718551940,
+      "rank": 46,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
