@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718527006668,
+  "endTime": 1718529674857,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3035,6 +3035,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 962042,
+      "num": 962042,
+      "word": "张若昀全球首穿",
+      "onboard_time": 1718522657,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 959650,
       "num": 959650,
       "word": "刘亦菲头像",
@@ -3683,6 +3691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 850331,
+      "num": 850331,
+      "word": "姜萍妈妈首发声",
+      "onboard_time": 1718525237,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 849705,
       "num": 757069,
       "word": "刘亦菲回复徐海乔",
@@ -3705,6 +3721,14 @@
       "onboard_time": 1717170739,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 848117,
+      "num": 848117,
+      "word": "王一博 不化妆",
+      "onboard_time": 1718529258,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 842382,
@@ -3777,14 +3801,6 @@
       "onboard_time": 1717222937,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 833689,
-      "num": 833689,
-      "word": "张若昀全球首穿",
-      "onboard_time": 1718522657,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 833167,
@@ -5003,14 +5019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 711713,
-      "num": 711713,
-      "word": "姜萍妈妈首发声",
-      "onboard_time": 1718525237,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 710520,
       "num": 544203,
       "word": "狐妖月红篇be大结局",
@@ -5596,11 +5604,19 @@
     },
     {
       "raw_hot": 670724,
-      "num": 229433,
+      "num": 232088,
       "word": "没想到验孕棒里还有干燥剂",
       "onboard_time": 1718523197,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 670284,
+      "num": 497817,
+      "word": "孙丞潇一个人卖了20只鸡",
+      "onboard_time": 1718527877,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 670179,
@@ -5828,7 +5844,7 @@
     },
     {
       "raw_hot": 656864,
-      "num": 228703,
+      "num": 233588,
       "word": "手表帮我戒掉了手机依赖",
       "onboard_time": 1718523136,
       "rank": 41,
@@ -6041,6 +6057,14 @@
       "onboard_time": 1717903576,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 642035,
+      "num": 550855,
+      "word": "娜扎 花仙子",
+      "onboard_time": 1718528357,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 641411,
@@ -6275,6 +6299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623372,
+      "num": 473194,
+      "word": "高叶是穿了床被子吗",
+      "onboard_time": 1718527158,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 622539,
       "num": 622539,
       "word": "印度男子在冰激凌中发现手指",
@@ -6345,6 +6377,14 @@
       "onboard_time": 1717336401,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 615637,
+      "num": 615637,
+      "word": "对方撤回了一位帅哥数学老师",
+      "onboard_time": 1718523856,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 615487,
@@ -6737,6 +6777,14 @@
       "onboard_time": 1717764860,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 593000,
+      "num": 593000,
+      "word": "美军对中国新冠疫苗发动认知作战",
+      "onboard_time": 1718524276,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 592642,
@@ -7715,14 +7763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 536394,
-      "num": 536394,
-      "word": "对方撤回了一位帅哥数学老师",
-      "onboard_time": 1718523856,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 535364,
       "num": 267804,
       "word": "江疏影baby肚",
@@ -8401,14 +8441,6 @@
       "onboard_time": 1718154078,
       "rank": 25,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 511233,
-      "num": 370220,
-      "word": "美军对中国新冠疫苗发动认知作战",
-      "onboard_time": 1718524276,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 510404,
@@ -9433,6 +9465,14 @@
       "onboard_time": 1718322257,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 466446,
+      "num": 466446,
+      "word": "王一博状态很好",
+      "onboard_time": 1718528058,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 466444,
@@ -10507,6 +10547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427829,
+      "num": 427829,
+      "word": "刘耀文要和关晓彤合照",
+      "onboard_time": 1718527278,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 427219,
       "num": 220032,
       "word": "SM将追究EXOCBX法律责任",
@@ -11323,6 +11371,14 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 398531,
+      "num": 309390,
+      "word": "玫瑰的故事 女主和四个女人的故事",
+      "onboard_time": 1718525538,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 398496,
       "num": 333898,
       "word": "男生考完理综准备找女友了",
@@ -11809,14 +11865,6 @@
       "onboard_time": 1717328240,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384749,
-      "num": 309390,
-      "word": "玫瑰的故事 女主和四个女人的故事",
-      "onboard_time": 1718525538,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 383839,
@@ -13827,6 +13875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328626,
+      "num": 328626,
+      "word": "警方通报男子在车厢面对女乘客裸睡",
+      "onboard_time": 1718523617,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327744,
       "num": 327744,
       "word": "墨雨云间二创",
@@ -15065,6 +15121,14 @@
       "onboard_time": 1717258458,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297373,
+      "num": 231940,
+      "word": "张佳宁挽着屈楚萧走红毯",
+      "onboard_time": 1718525897,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 297265,
@@ -16417,14 +16481,6 @@
       "onboard_time": 1717389802,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272446,
-      "num": 272446,
-      "word": "警方通报男子在车厢面对女乘客裸睡",
-      "onboard_time": 1718523617,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272283,
@@ -17899,6 +17955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246079,
+      "num": 246079,
+      "word": "上海通报女子地铁抢座位打人",
+      "onboard_time": 1718527758,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246058,
       "num": 231955,
       "word": "为什么有的药片上有刻痕",
@@ -17985,6 +18049,14 @@
       "onboard_time": 1718153718,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244751,
+      "num": 231242,
+      "word": "钟楚曦美的像回家一样轻松",
+      "onboard_time": 1718528719,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 244659,
@@ -18843,14 +18915,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 231940,
-      "num": 231940,
-      "word": "张佳宁挽着屈楚萧走红毯",
-      "onboard_time": 1718525897,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 231828,
       "num": 200078,
       "word": "陈赫录节目爆改光头强",
@@ -19315,6 +19379,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 225511,
+      "num": 225511,
+      "word": "沈月给王星越拍照",
+      "onboard_time": 1718529379,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225368,
       "num": 177435,
       "word": "胡歌把金靖带来了",
@@ -19697,6 +19769,14 @@
       "onboard_time": 1718267238,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220526,
+      "num": 220526,
+      "word": "刘浩存全靠脸撑着",
+      "onboard_time": 1718527998,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 220524,
@@ -20595,6 +20675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211535,
+      "num": 211535,
+      "word": "孙千裸背",
+      "onboard_time": 1718529617,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211371,
       "num": 211371,
       "word": "店家回应曾承诺5年后回收钻戒女子退货被拒",
@@ -20609,6 +20697,14 @@
       "onboard_time": 1717385297,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210942,
+      "num": 210942,
+      "word": "王源丁程鑫敖子逸同框",
+      "onboard_time": 1718527638,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 210799,
@@ -21803,6 +21899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203472,
+      "num": 138118,
+      "word": "文淇造型师 精神状态",
+      "onboard_time": 1718528898,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203368,
       "num": 249538,
       "word": "姜萍的祖师爷来微博了",
@@ -22113,6 +22217,14 @@
       "onboard_time": 1717411939,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200938,
+      "num": 200938,
+      "word": "突然就明白了什么是情绪价值",
+      "onboard_time": 1718526497,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 200931,
@@ -23169,6 +23281,14 @@
       "onboard_time": 1718171240,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 195442,
+      "num": 195442,
+      "word": "王俊凯怼脸镜头",
+      "onboard_time": 1718529258,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 195402,
@@ -25867,6 +25987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176993,
+      "num": 136685,
+      "word": "刘耀文露额头",
+      "onboard_time": 1718528357,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176968,
       "num": 263367,
       "word": "口腔出现3种异样警惕口腔癌",
@@ -26929,6 +27057,14 @@
       "onboard_time": 1718173699,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169736,
+      "num": 234482,
+      "word": "南医大被罚老师所授课为留学生项目",
+      "onboard_time": 1718529078,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169723,
@@ -31931,6 +32067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141290,
+      "num": 141290,
+      "word": "广州拟规定中小学禁止学生带手机",
+      "onboard_time": 1718526858,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141136,
       "num": 141136,
       "word": "kwave",
@@ -34915,14 +35059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126001,
-      "num": 126001,
-      "word": "突然就明白了什么是情绪价值",
-      "onboard_time": 1718526497,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125858,
       "num": 125858,
       "word": "东契奇防守",
@@ -35691,14 +35827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121794,
-      "num": 121794,
-      "word": "广州拟规定中小学禁止学生带手机",
-      "onboard_time": 1718526858,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121782,
       "num": 121782,
       "word": "猴中卡戴珊",
@@ -36329,6 +36457,14 @@
       "onboard_time": 1718325918,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117949,
+      "num": 117949,
+      "word": "巴黎奥运会女排12强确定",
+      "onboard_time": 1718526917,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 117885,
@@ -38251,14 +38387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 106950,
-      "num": 106950,
-      "word": "巴黎奥运会女排12强确定",
-      "onboard_time": 1718526917,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106929,
       "num": 448678,
       "word": "鸣潮吟霖上线",
@@ -39001,6 +39129,14 @@
       "onboard_time": 1717573878,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101275,
+      "num": 284099,
+      "word": "男子落水几十名路人沿河狂追营救",
+      "onboard_time": 1718526738,
+      "rank": 13,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 101049,
@@ -39977,6 +40113,14 @@
       "onboard_time": 1717473622,
       "rank": 9,
       "category": "社会新闻,社会议题"
+    },
+    {
+      "raw_hot": 89732,
+      "num": 101178,
+      "word": "睡莲盛花期一整个清爽感",
+      "onboard_time": 1718529617,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 89591,
@@ -41395,6 +41539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69988,
+      "num": 848915,
+      "word": "中国电影龙标上邮票了",
+      "onboard_time": 1718527758,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69849,
       "num": 182124,
       "word": "羲和号又有新发现",
@@ -42321,14 +42473,6 @@
       "onboard_time": 1718180240,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58852,
-      "num": 284099,
-      "word": "男子落水几十名路人沿河狂追营救",
-      "onboard_time": 1718526738,
-      "rank": 13,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 58761,
@@ -44195,6 +44339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37830,
+      "num": 515476,
+      "word": "北京一高校为15对研究生办集体婚礼",
+      "onboard_time": 1718528597,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37767,
       "num": 717411,
       "word": "一组数据看中国非遗有多火",
@@ -44691,6 +44843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31375,
+      "num": 195918,
+      "word": "常华森下颌线",
+      "onboard_time": 1718525357,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 31337,
       "num": 460939,
       "word": "众多大学校长为高考生送祝福",
@@ -44849,14 +45009,6 @@
       "onboard_time": 1717683920,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29689,
-      "num": 184088,
-      "word": "常华森下颌线",
-      "onboard_time": 1718525357,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 29527,

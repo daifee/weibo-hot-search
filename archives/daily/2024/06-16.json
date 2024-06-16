@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718527006668,
+  "endTime": 1718529674857,
   "band_list": [
     {
       "raw_hot": 2122450,
@@ -123,20 +123,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 962042,
+      "num": 962042,
+      "word": "张若昀全球首穿",
+      "onboard_time": 1718522657,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 850331,
+      "num": 850331,
+      "word": "姜萍妈妈首发声",
+      "onboard_time": 1718525237,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 848117,
+      "num": 848117,
+      "word": "王一博 不化妆",
+      "onboard_time": 1718529258,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 842382,
       "num": 842382,
       "word": "疑似外国人起飞时偷拍军民合用机场",
       "onboard_time": 1718516177,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 833689,
-      "num": 833689,
-      "word": "张若昀全球首穿",
-      "onboard_time": 1718522657,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 745434,
@@ -163,14 +179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 711713,
-      "num": 711713,
-      "word": "姜萍妈妈首发声",
-      "onboard_time": 1718525237,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 691788,
       "num": 274935,
       "word": "雌激素降低确实会催人老",
@@ -180,11 +188,19 @@
     },
     {
       "raw_hot": 670724,
-      "num": 229433,
+      "num": 232088,
       "word": "没想到验孕棒里还有干燥剂",
       "onboard_time": 1718523197,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 670284,
+      "num": 497817,
+      "word": "孙丞潇一个人卖了20只鸡",
+      "onboard_time": 1718527877,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 670179,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 656864,
-      "num": 228703,
+      "num": 233588,
       "word": "手表帮我戒掉了手机依赖",
       "onboard_time": 1718523136,
       "rank": 41,
@@ -211,12 +227,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 642035,
+      "num": 550855,
+      "word": "娜扎 花仙子",
+      "onboard_time": 1718528357,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 641375,
       "num": 343551,
       "word": "男朋友微信转账备注非自愿赠予",
       "onboard_time": 1718493733,
       "rank": 3,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 623372,
+      "num": 473194,
+      "word": "高叶是穿了床被子吗",
+      "onboard_time": 1718527158,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 615637,
+      "num": 615637,
+      "word": "对方撤回了一位帅哥数学老师",
+      "onboard_time": 1718523856,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 600790,
@@ -233,6 +273,14 @@
       "onboard_time": 1718505558,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 593000,
+      "num": 593000,
+      "word": "美军对中国新冠疫苗发动认知作战",
+      "onboard_time": 1718524276,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 576910,
@@ -283,14 +331,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 536394,
-      "num": 536394,
-      "word": "对方撤回了一位帅哥数学老师",
-      "onboard_time": 1718523856,
-      "rank": 5,
-      "category": "情感"
-    },
-    {
       "raw_hot": 518526,
       "num": 518526,
       "word": "铜价大涨空调却集体降价",
@@ -313,14 +353,6 @@
       "onboard_time": 1718502618,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 511233,
-      "num": 370220,
-      "word": "美军对中国新冠疫苗发动认知作战",
-      "onboard_time": 1718524276,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 499629,
@@ -371,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 466446,
+      "num": 466446,
+      "word": "王一博状态很好",
+      "onboard_time": 1718528058,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 462555,
       "num": 462555,
       "word": "谢可寅 我再也不相信你了李斯丹妮",
@@ -401,6 +441,14 @@
       "onboard_time": 1718512156,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427829,
+      "num": 427829,
+      "word": "刘耀文要和关晓彤合照",
+      "onboard_time": 1718527278,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 421947,
@@ -467,20 +515,20 @@
       "category": "综艺,美妆"
     },
     {
+      "raw_hot": 398531,
+      "num": 309390,
+      "word": "玫瑰的故事 女主和四个女人的故事",
+      "onboard_time": 1718525538,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
       "onboard_time": 1718506517,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 384749,
-      "num": 309390,
-      "word": "玫瑰的故事 女主和四个女人的故事",
-      "onboard_time": 1718525538,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 381417,
@@ -571,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328626,
+      "num": 328626,
+      "word": "警方通报男子在车厢面对女乘客裸睡",
+      "onboard_time": 1718523617,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323281,
       "num": 323281,
       "word": "专四答案",
@@ -601,6 +657,14 @@
       "onboard_time": 1718463259,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 297373,
+      "num": 231940,
+      "word": "张佳宁挽着屈楚萧走红毯",
+      "onboard_time": 1718525897,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 296666,
@@ -648,14 +712,6 @@
       "word": "地铁被诬偷拍案男子将直播带货",
       "onboard_time": 1718503456,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 272446,
-      "num": 272446,
-      "word": "警方通报男子在车厢面对女乘客裸睡",
-      "onboard_time": 1718523617,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -715,6 +771,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 246079,
+      "num": 246079,
+      "word": "上海通报女子地铁抢座位打人",
+      "onboard_time": 1718527758,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244751,
+      "num": 231242,
+      "word": "钟楚曦美的像回家一样轻松",
+      "onboard_time": 1718528719,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240525,
       "num": 184516,
       "word": "Doinb谈Uzi停播",
@@ -755,20 +827,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231940,
-      "num": 231940,
-      "word": "张佳宁挽着屈楚萧走红毯",
-      "onboard_time": 1718525897,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 229561,
       "num": 229561,
       "word": "荣梓杉成年了衬衫可以开大点",
       "onboard_time": 1718461759,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225511,
+      "num": 225511,
+      "word": "沈月给王星越拍照",
+      "onboard_time": 1718529379,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 224655,
@@ -801,6 +873,14 @@
       "onboard_time": 1718520557,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220526,
+      "num": 220526,
+      "word": "刘浩存全靠脸撑着",
+      "onboard_time": 1718527998,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 218986,
@@ -843,6 +923,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211535,
+      "num": 211535,
+      "word": "孙千裸背",
+      "onboard_time": 1718529617,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 210942,
+      "num": 210942,
+      "word": "王源丁程鑫敖子逸同框",
+      "onboard_time": 1718527638,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209597,
       "num": 150393,
       "word": "月经不规律其实是身体在求救",
@@ -883,12 +979,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 203472,
+      "num": 138118,
+      "word": "文淇造型师 精神状态",
+      "onboard_time": 1718528898,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201593,
       "num": 201593,
       "word": "陈丽君刘忻亚比囧囧囧直拍",
       "onboard_time": 1718507358,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200938,
+      "num": 200938,
+      "word": "突然就明白了什么是情绪价值",
+      "onboard_time": 1718526497,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 198001,
@@ -921,6 +1033,14 @@
       "onboard_time": 1718493495,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195442,
+      "num": 195442,
+      "word": "王俊凯怼脸镜头",
+      "onboard_time": 1718529258,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 195327,
@@ -1043,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176993,
+      "num": 136685,
+      "word": "刘耀文露额头",
+      "onboard_time": 1718528357,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175244,
       "num": 175244,
       "word": "汪苏泷音乐节",
@@ -1097,6 +1225,14 @@
       "onboard_time": 1718504717,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 169736,
+      "num": 234482,
+      "word": "南医大被罚老师所授课为留学生项目",
+      "onboard_time": 1718529078,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169495,
@@ -1323,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141290,
+      "num": 141290,
+      "word": "广州拟规定中小学禁止学生带手机",
+      "onboard_time": 1718526858,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140388,
       "num": 146996,
       "word": "加沙难民自称像行尸走肉一样",
@@ -1499,14 +1643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126001,
-      "num": 126001,
-      "word": "突然就明白了什么是情绪价值",
-      "onboard_time": 1718526497,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 125388,
       "num": 125388,
       "word": "肖战续约青岛啤酒",
@@ -1547,20 +1683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121794,
-      "num": 121794,
-      "word": "广州拟规定中小学禁止学生带手机",
-      "onboard_time": 1718526858,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120792,
       "num": 120792,
       "word": "南方医科大学处分通报疑下发次日删除",
       "onboard_time": 1718523317,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117949,
+      "num": 117949,
+      "word": "巴黎奥运会女排12强确定",
+      "onboard_time": 1718526917,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 117885,
@@ -1667,14 +1803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 106950,
-      "num": 106950,
-      "word": "巴黎奥运会女排12强确定",
-      "onboard_time": 1718526917,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105891,
       "num": 105891,
       "word": "理想称汕头追尾车辆未启用辅助驾驶",
@@ -1729,6 +1857,14 @@
       "onboard_time": 1718496136,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101275,
+      "num": 284099,
+      "word": "男子落水几十名路人沿河狂追营救",
+      "onboard_time": 1718526738,
+      "rank": 13,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 99612,
@@ -1801,6 +1937,14 @@
       "onboard_time": 1718449998,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89732,
+      "num": 101178,
+      "word": "睡莲盛花期一整个清爽感",
+      "onboard_time": 1718529617,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 88521,
@@ -1931,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69988,
+      "num": 848915,
+      "word": "中国电影龙标上邮票了",
+      "onboard_time": 1718527758,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68181,
       "num": 433617,
       "word": "老太照料未婚伴侣多年获房屋居住权",
@@ -2009,14 +2161,6 @@
       "onboard_time": 1718503818,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 58852,
-      "num": 284099,
-      "word": "男子落水几十名路人沿河狂追营救",
-      "onboard_time": 1718526738,
-      "rank": 13,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 57175,
@@ -2107,6 +2251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 37830,
+      "num": 515476,
+      "word": "北京一高校为15对研究生办集体婚礼",
+      "onboard_time": 1718528597,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37338,
       "num": 37338,
       "word": "爸爸的肩膀是童年最坚实的依靠",
@@ -2139,8 +2291,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29689,
-      "num": 184088,
+      "raw_hot": 31375,
+      "num": 195918,
       "word": "常华森下颌线",
       "onboard_time": 1718525357,
       "rank": 36,
