@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718580137338,
+  "endTime": 1718580867394,
   "band_list": [
     {
       "raw_hot": 1714608,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 908377,
-      "num": 129223,
+      "num": 136247,
       "word": "长期吃辣的人更容易得胃癌吗",
       "onboard_time": 1718550560,
       "rank": 20,
@@ -51,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 522809,
+      "num": 522809,
+      "word": "小县城里最舒服的人",
+      "onboard_time": 1718556316,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 521135,
       "num": 521135,
       "word": "涟水中专党委书记回应",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 510872,
-      "num": 128827,
+      "num": 135012,
       "word": "毕业月薪六七千我妈说我要求低",
       "onboard_time": 1718552658,
       "rank": 22,
@@ -107,12 +115,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 401060,
-      "num": 401060,
-      "word": "小县城里最舒服的人",
-      "onboard_time": 1718556316,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 424268,
+      "num": 424268,
+      "word": "一部被所有电影节拒收的电影",
+      "onboard_time": 1718560453,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 398285,
@@ -124,19 +132,27 @@
     },
     {
       "raw_hot": 397577,
-      "num": 128398,
+      "num": 135351,
       "word": "妻子出轨后要离婚被丈夫打伤身亡",
       "onboard_time": 1718541379,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 388432,
-      "num": 388432,
-      "word": "一部被所有电影节拒收的电影",
-      "onboard_time": 1718560453,
-      "rank": 30,
-      "category": "电影"
+      "raw_hot": 388254,
+      "num": 135681,
+      "word": "为什么不建议你喝太多苏打水",
+      "onboard_time": 1718575931,
+      "rank": 36,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 353348,
+      "num": 353348,
+      "word": "中方管制非法闯仁爱礁海域的菲船只",
+      "onboard_time": 1718579475,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 345501,
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 314282,
-      "num": 110796,
-      "word": "为什么不建议你喝太多苏打水",
-      "onboard_time": 1718575931,
-      "rank": 36,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 307390,
       "num": 307390,
       "word": "smlz",
@@ -171,12 +179,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 297753,
+      "num": 297753,
+      "word": "塞尔维亚0比1英格兰",
+      "onboard_time": 1718579535,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245179,
       "num": 245179,
       "word": "庄国栋 方协文",
       "onboard_time": 1718545219,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240686,
+      "num": 194316,
+      "word": "董力说我不能再这样忍受了我会爆炸的",
+      "onboard_time": 1718567532,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 240481,
@@ -195,14 +219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 213680,
-      "num": 194316,
-      "word": "董力说我不能再这样忍受了我会爆炸的",
-      "onboard_time": 1718567532,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213588,
       "num": 213588,
       "word": "不结婚的年轻人重伤糖果业",
@@ -219,28 +235,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202501,
-      "num": 202501,
-      "word": "塞尔维亚0比1英格兰",
-      "onboard_time": 1718579535,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 202202,
       "num": 127958,
       "word": "王一博 微博比我更热",
       "onboard_time": 1718548279,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191362,
-      "num": 191362,
-      "word": "中方管制非法闯仁爱礁海域的菲船只",
-      "onboard_time": 1718579475,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 187648,
@@ -275,20 +275,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168357,
+      "num": 168357,
+      "word": "狗狗偷偷戴上了奶奶的假牙",
+      "onboard_time": 1718559732,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160857,
       "num": 127247,
       "word": "胡歌质问腾讯视频",
       "onboard_time": 1718529798,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 156292,
-      "num": 156292,
-      "word": "狗狗偷偷戴上了奶奶的假牙",
-      "onboard_time": 1718559732,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 155485,
@@ -307,8 +307,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134406,
-      "num": 134406,
+      "raw_hot": 150379,
+      "num": 150379,
+      "word": "我国第一颗氢弹爆炸震撼瞬间",
+      "onboard_time": 1718579355,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 136293,
+      "num": 136293,
+      "word": "乳胶枕头投诉量直线飙升",
+      "onboard_time": 1718571971,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134857,
+      "num": 134857,
       "word": "欧洲杯",
       "onboard_time": 1718543899,
       "rank": 38,
@@ -387,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110545,
+      "num": 105290,
+      "word": "老师回应姜萍竞赛名次比自己高",
+      "onboard_time": 1718580315,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110305,
       "num": 88858,
       "word": "佟大为回复刘亦菲",
@@ -419,14 +443,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 103852,
-      "num": 103852,
-      "word": "乳胶枕头投诉量直线飙升",
-      "onboard_time": 1718571971,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 102686,
       "num": 129464,
       "word": "中国女排4连胜",
@@ -435,8 +451,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92985,
-      "num": 92985,
+      "raw_hot": 100453,
+      "num": 100453,
       "word": "出了国发现中国的文化输出太强了",
       "onboard_time": 1718575452,
       "rank": 28,
@@ -451,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90132,
-      "num": 90132,
-      "word": "我国第一颗氢弹爆炸震撼瞬间",
-      "onboard_time": 1718579355,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 87322,
       "num": 87322,
       "word": "龚翔宇哭了",
@@ -467,11 +475,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82581,
-      "num": 82581,
+      "raw_hot": 86222,
+      "num": 86222,
       "word": "埃里克森破门",
       "onboard_time": 1718579355,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83797,
+      "num": 83797,
+      "word": "于正回应墨雨云间没有团综",
+      "onboard_time": 1718577794,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77106,
+      "num": 77106,
+      "word": "中国女排总决赛战日本女排",
+      "onboard_time": 1718579896,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 65343,
-      "num": 65343,
+      "num": 76675,
       "word": "贝林厄姆破门",
       "onboard_time": 1718579475,
       "rank": 37,
@@ -515,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64092,
-      "num": 64092,
-      "word": "于正回应墨雨云间没有团综",
-      "onboard_time": 1718577794,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 63535,
       "num": 85130,
       "word": "十二星座的反差感",
@@ -532,19 +548,19 @@
     },
     {
       "raw_hot": 56737,
-      "num": 56737,
+      "num": 76604,
       "word": "16周所有大学生都会失联",
       "onboard_time": 1718559013,
       "rank": 26,
       "category": "情感"
     },
     {
-      "raw_hot": 53507,
-      "num": 53507,
-      "word": "中国女排总决赛战日本女排",
-      "onboard_time": 1718579896,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 54933,
+      "num": 213475,
+      "word": "20元乳胶枕加个枕套敢卖1000元",
+      "onboard_time": 1718580254,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 46474,
@@ -555,12 +571,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43863,
-      "num": 53494,
+      "raw_hot": 44467,
+      "num": 76550,
       "word": "邓紫棋青岛现场",
       "onboard_time": 1718579775,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42556,
+      "num": 76526,
+      "word": "中国女排3比0波兰女排",
+      "onboard_time": 1718580735,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 42163,
@@ -595,8 +619,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23065,
-      "num": 409905,
+      "raw_hot": 24829,
+      "num": 425434,
       "word": "交通互联互通带来发展机遇无限",
       "onboard_time": 1718541857,
       "rank": 2,
