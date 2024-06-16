@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718522321951,
+  "endTime": 1718523266941,
   "band_list": [
     {
       "raw_hot": 2122450,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593854,
+      "num": 593854,
+      "word": "赵丽颖霸总出街",
+      "onboard_time": 1718521818,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 576910,
       "num": 576910,
       "word": "机场回应疑似外国人起飞时偷拍",
@@ -281,6 +289,14 @@
       "onboard_time": 1718514557,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 478903,
+      "num": 251233,
+      "word": "孙怡上岛了",
+      "onboard_time": 1718521637,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 468373,
@@ -379,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 399071,
+      "num": 250100,
+      "word": "林允拒绝网红妆",
+      "onboard_time": 1718520496,
+      "rank": 22,
+      "category": "综艺,美妆"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
@@ -451,22 +475,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 346691,
-      "num": 251233,
-      "word": "孙怡上岛了",
-      "onboard_time": 1718521637,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 342426,
-      "num": 250100,
-      "word": "林允拒绝网红妆",
-      "onboard_time": 1718520496,
-      "rank": 22,
-      "category": "综艺,美妆"
-    },
-    {
       "raw_hot": 341258,
       "num": 341258,
       "word": "父亲节宜炫父",
@@ -515,14 +523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 303685,
-      "num": 266997,
-      "word": "赵丽颖霸总出街",
-      "onboard_time": 1718521818,
-      "rank": 18,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 296666,
       "num": 296666,
       "word": "刘亦菲泳池戏",
@@ -545,6 +545,14 @@
       "onboard_time": 1718512637,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276787,
+      "num": 276787,
+      "word": "这是我离王俊凯最近的一次",
+      "onboard_time": 1718522176,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 275135,
@@ -635,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236516,
+      "num": 236516,
+      "word": "张若昀全球首穿",
+      "onboard_time": 1718522657,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 235327,
       "num": 235327,
       "word": "赵丽颖工作室预告图",
@@ -656,14 +672,6 @@
       "word": "荣梓杉成年了衬衫可以开大点",
       "onboard_time": 1718461759,
       "rank": 14,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 228792,
-      "num": 205230,
-      "word": "这是我离王俊凯最近的一次",
-      "onboard_time": 1718522176,
-      "rank": 26,
       "category": "电影"
     },
     {
@@ -867,12 +875,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184845,
-      "num": 184845,
+      "raw_hot": 186989,
+      "num": 186989,
       "word": "专家称不是大学选择姜萍是她选择大学",
       "onboard_time": 1718520856,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183815,
+      "num": 183815,
+      "word": "张婧仪长沙",
+      "onboard_time": 1718523017,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181112,
@@ -897,6 +913,14 @@
       "onboard_time": 1718506338,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179039,
+      "num": 179039,
+      "word": "谁懂王星越吴谨言这段一走一跑",
+      "onboard_time": 1718522476,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 175244,
@@ -961,6 +985,14 @@
       "onboard_time": 1718494754,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169087,
+      "num": 169087,
+      "word": "三丽鸥明星人气评选",
+      "onboard_time": 1718522237,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 168744,
@@ -1243,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131231,
+      "num": 131231,
+      "word": "总觉得累真的建议去查一下甲状腺",
+      "onboard_time": 1718522176,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130722,
       "num": 130722,
       "word": "中式婚礼",
@@ -1313,6 +1353,14 @@
       "onboard_time": 1718503757,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125416,
+      "num": 125416,
+      "word": "手表帮我戒掉了手机依赖",
+      "onboard_time": 1718523136,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 125388,
@@ -1403,20 +1451,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112127,
-      "num": 112127,
-      "word": "三丽鸥明星人气评选",
-      "onboard_time": 1718522237,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 112124,
-      "num": 112124,
+      "raw_hot": 113108,
+      "num": 113108,
       "word": "赵露思现代剧穿搭",
       "onboard_time": 1718518997,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112684,
+      "num": 112684,
+      "word": "00后女枪王变身法学院研究生",
+      "onboard_time": 1718522717,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110900,
@@ -1433,6 +1481,22 @@
       "onboard_time": 1718493612,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110456,
+      "num": 110456,
+      "word": "没想到验孕棒里还有干燥剂",
+      "onboard_time": 1718523197,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 109405,
+      "num": 109405,
+      "word": "乐华男团闯完内娱创韩娱",
+      "onboard_time": 1718523077,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 108693,
@@ -1513,14 +1577,6 @@
       "onboard_time": 1718444420,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 94852,
-      "num": 94852,
-      "word": "总觉得累真的建议去查一下甲状腺",
-      "onboard_time": 1718522176,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 94733,
@@ -1696,6 +1752,14 @@
       "word": "河南降温降雨",
       "onboard_time": 1718505677,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68181,
+      "num": 433617,
+      "word": "老太照料未婚伴侣多年获房屋居住权",
+      "onboard_time": 1718521876,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1883,14 +1947,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 27401,
-      "num": 433617,
-      "word": "老太照料未婚伴侣多年获房屋居住权",
-      "onboard_time": 1718521876,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26232,
       "num": 281691,
       "word": "军校女学员笑着说要去戍边",
@@ -2001,6 +2057,14 @@
       "onboard_time": 1718513536,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 7419,
+      "num": 625706,
+      "word": "中欧班列单月运量创新高",
+      "onboard_time": 1718523197,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
