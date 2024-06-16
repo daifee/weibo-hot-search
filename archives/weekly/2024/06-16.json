@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718559270576,
+  "endTime": 1718562313520,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -3259,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55389,
+      "num": 46470,
+      "word": "16周所有大学生都会失联",
+      "onboard_time": 1718559013,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54828,
       "num": 456662,
       "word": "西安雨后彩虹太美了",
@@ -3299,6 +3307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47346,
+      "num": 46445,
+      "word": "一部被所有电影节拒收的电影",
+      "onboard_time": 1718560453,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46932,
       "num": 324202,
       "word": "大学毕业典礼的国风氛围感绝了",
@@ -3321,6 +3337,14 @@
       "onboard_time": 1718474653,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46280,
+      "num": 46280,
+      "word": "狗狗偷偷戴上了奶奶的假牙",
+      "onboard_time": 1718559732,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 44041,
@@ -3563,6 +3587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22950,
+      "num": 39864,
+      "word": "infp的爽文女主体质",
+      "onboard_time": 1718561472,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22893,
       "num": 27075,
       "word": "牛津Kate朱朱谈姜萍",
@@ -3697,6 +3729,14 @@
       "onboard_time": 1718551940,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 5284,
+      "num": 67240,
+      "word": "小车陷沟里村民齐力拉车",
+      "onboard_time": 1718560993,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
