@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718569153471,
+  "endTime": 1718570119121,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -3595,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22897,
+      "num": 20004,
+      "word": "董力说我不能再这样忍受了我会爆炸的",
+      "onboard_time": 1718567532,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22893,
       "num": 27075,
       "word": "牛津Kate朱朱谈姜萍",
@@ -3633,14 +3641,6 @@
       "onboard_time": 1718493432,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20004,
-      "num": 20004,
-      "word": "董力说我不能再这样忍受了我会爆炸的",
-      "onboard_time": 1718567532,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 17122,
