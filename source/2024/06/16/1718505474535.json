@@ -1,0 +1,410 @@
+{
+  "runTime": 1718505474535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1144016,
+        "num": 1144016,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142567,
+        "num": 1142567,
+        "word": "南方医科大学",
+        "onboard_time": 1718502317,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25721,
+        "num": 1052154,
+        "word": "晒一晒你和爸爸的合影",
+        "onboard_time": 1718505076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1214657,
+        "num": 1019571,
+        "word": "周也公关",
+        "onboard_time": 1718502796,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 969348,
+        "num": 969348,
+        "word": "赖冠霖说工作室没钱了",
+        "onboard_time": 1718501536,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 726039,
+        "num": 726039,
+        "word": "父亲节快乐",
+        "onboard_time": 1718493733,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 512412,
+        "num": 512412,
+        "word": "开空调嫌冷 不开空调嫌热",
+        "onboard_time": 1718502618,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 495719,
+        "num": 495719,
+        "word": "宝宝睡上了外公睡过的古董摇摇床",
+        "onboard_time": 1718499016,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901774,
+        "num": 486601,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41236,
+        "num": 423392,
+        "word": "一个词形容我的爸爸",
+        "onboard_time": 1718503818,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742349,
+        "num": 422244,
+        "word": "警方通报废弃楼发现男尸",
+        "onboard_time": 1718503038,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 419469,
+        "num": 419469,
+        "word": "凯特王妃",
+        "onboard_time": 1718499377,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 317876,
+        "num": 317876,
+        "word": "周深在成都吃了蚊子刺身",
+        "onboard_time": 1718494873,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296666,
+        "num": 296666,
+        "word": "刘亦菲泳池戏",
+        "onboard_time": 1718501777,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274858,
+        "num": 274858,
+        "word": "邓超终于上了影帝大号",
+        "onboard_time": 1718470335,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249156,
+        "num": 249156,
+        "word": "外媒镜头下的易烊千玺生图",
+        "onboard_time": 1718493733,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235639,
+        "num": 235639,
+        "word": "地铁被诬偷拍案男子将直播带货",
+        "onboard_time": 1718503456,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214958,
+        "num": 214958,
+        "word": "父亲节宜炫父",
+        "onboard_time": 1718496615,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190055,
+        "num": 190055,
+        "word": "女子长期乏力全家查出吸血鬼病基因",
+        "onboard_time": 1718459418,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157426,
+        "num": 180337,
+        "word": "倪妮工作室",
+        "onboard_time": 1718504717,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 569547,
+        "num": 179563,
+        "word": "猝死前的5分钟身体经历了什么",
+        "onboard_time": 1718503096,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233853,
+        "num": 179555,
+        "word": "大一男生39天减重20斤后猝死家属发声",
+        "onboard_time": 1718496255,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177585,
+        "num": 177585,
+        "word": "考上编制好朋友把我删了",
+        "onboard_time": 1718493973,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176215,
+        "num": 176215,
+        "word": "向佐父亲节晒三代人父子合照",
+        "onboard_time": 1718499856,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152779,
+        "num": 173894,
+        "word": "记者暗访广州假货市场",
+        "onboard_time": 1718500037,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173074,
+        "num": 173074,
+        "word": "韩国人正在拒绝晋升",
+        "onboard_time": 1718496915,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172271,
+        "num": 172271,
+        "word": "怎么让一个成年人九点半就睡觉",
+        "onboard_time": 1718496615,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153758,
+        "num": 153758,
+        "word": "王星越正是忍不住炫耀的年纪",
+        "onboard_time": 1718503997,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148007,
+        "num": 148007,
+        "word": "60岁正是耍帅的年纪",
+        "onboard_time": 1718504596,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 146712,
+        "word": "雌激素降低确实会催人老",
+        "onboard_time": 1718463019,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137836,
+        "num": 137836,
+        "word": "欧洲杯历史最快进球",
+        "onboard_time": 1718493495,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137683,
+        "num": 137683,
+        "word": "邓紫棋哭得差点唱不下去",
+        "onboard_time": 1718494754,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136556,
+        "num": 136556,
+        "word": "当金毛收到一只小狗后",
+        "onboard_time": 1718504839,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130916,
+        "num": 130916,
+        "word": "汪苏泷音乐节",
+        "onboard_time": 1718499977,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126187,
+        "num": 126187,
+        "word": "人类这一百年走得太快了",
+        "onboard_time": 1718503757,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122049,
+        "num": 122049,
+        "word": "吴谨言上了郝蕾表演课后逆袭",
+        "onboard_time": 1718471475,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120119,
+        "num": 120119,
+        "word": "当事人回应在高考后订婚",
+        "onboard_time": 1718480771,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73769,
+        "num": 118388,
+        "word": "一句话表白老爸",
+        "onboard_time": 1718458938,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116767,
+        "num": 116767,
+        "word": "欧洲杯意大利",
+        "onboard_time": 1718493252,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116248,
+        "num": 116248,
+        "word": "天天戴隐形眼镜的人后来怎么样了",
+        "onboard_time": 1718495834,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111235,
+        "num": 111235,
+        "word": "秦霄贤当着戚薇面唱7",
+        "onboard_time": 1718501716,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110800,
+        "num": 110800,
+        "word": "莫德里奇老了",
+        "onboard_time": 1718497216,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110127,
+        "num": 110127,
+        "word": "加沙难民自称像行尸走肉一样",
+        "onboard_time": 1718500517,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 106137,
+        "num": 106137,
+        "word": "男孩的儿童节愿望在父亲节前实现了",
+        "onboard_time": 1718493612,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105313,
+        "num": 105313,
+        "word": "今天是糖丸爷爷顾方舟的诞辰",
+        "onboard_time": 1718504839,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105265,
+        "num": 105265,
+        "word": "你好星期六下周有丁程鑫敖子逸",
+        "onboard_time": 1718498475,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104238,
+        "num": 104238,
+        "word": "王星越 想谈系",
+        "onboard_time": 1718460379,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101764,
+        "num": 101764,
+        "word": "张艺兴看急诊",
+        "onboard_time": 1718497034,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101136,
+        "num": 101136,
+        "word": "父亲节文案",
+        "onboard_time": 1718494095,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93839,
+        "num": 93839,
+        "word": "文学作品中的父亲",
+        "onboard_time": 1718505258,
+        "rank": 49,
+        "category": "读书作家,情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺拉马福萨当选连任南非总统#"
+    }
+  }
+}
