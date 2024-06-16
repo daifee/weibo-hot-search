@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718516165277,
+  "endTime": 1718519138123,
   "band_list": [
     {
       "raw_hot": 2122450,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705560,
+      "num": 705560,
+      "word": "疑似外国人起飞时偷拍军民合用机场",
+      "onboard_time": 1718516177,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 691788,
       "num": 274935,
       "word": "雌激素降低确实会催人老",
@@ -195,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 539486,
+      "num": 539486,
+      "word": "网易云坏",
+      "onboard_time": 1718514377,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 513343,
       "num": 513343,
       "word": "杨和苏理想国",
@@ -235,14 +251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 492650,
-      "num": 492650,
-      "word": "网易云坏",
-      "onboard_time": 1718514377,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 480868,
       "num": 480868,
       "word": "桐儿下线",
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433583,
+      "num": 433583,
+      "word": "机场回应疑似外国人起飞时偷拍",
+      "onboard_time": 1718516538,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428190,
       "num": 428190,
       "word": "孙卓祝孙海洋父亲节快乐",
@@ -305,6 +321,14 @@
       "onboard_time": 1718462900,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 410414,
+      "num": 410414,
+      "word": "本周桃花运最旺的星座",
+      "onboard_time": 1718516417,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 409229,
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363601,
+      "num": 363601,
+      "word": "南方医科大学称始终坚持救死扶伤优先",
+      "onboard_time": 1718514138,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 362813,
       "num": 177585,
       "word": "考上编制好朋友把我删了",
@@ -403,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 336181,
-      "num": 336181,
-      "word": "南方医科大学称始终坚持救死扶伤优先",
-      "onboard_time": 1718514138,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 323281,
       "num": 323281,
       "word": "专四答案",
@@ -425,6 +449,14 @@
       "onboard_time": 1718506156,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309613,
+      "num": 309613,
+      "word": "辛芷蕾遇到邓超也变i",
+      "onboard_time": 1718517317,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 304875,
@@ -483,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269651,
+      "num": 248607,
+      "word": "第一次去男友家他妈妈全点的外卖",
+      "onboard_time": 1718513357,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 259989,
+      "num": 259989,
+      "word": "狐妖现代番外",
+      "onboard_time": 1718516957,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259745,
       "num": 259745,
       "word": "易烊千玺奢牌待遇",
@@ -505,14 +553,6 @@
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 248607,
-      "num": 248607,
-      "word": "第一次去男友家他妈妈全点的外卖",
-      "onboard_time": 1718513357,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 240525,
@@ -657,6 +697,14 @@
       "onboard_time": 1718467577,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 202529,
+      "num": 202529,
+      "word": "吴谨言又哭碎了",
+      "onboard_time": 1718518877,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 201593,
@@ -907,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157791,
+      "num": 157791,
+      "word": "墨雨云间27集满广",
+      "onboard_time": 1718518037,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156749,
       "num": 271746,
       "word": "记者暗访广州假货市场",
@@ -1099,6 +1155,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 128182,
+      "num": 410268,
+      "word": "姜萍能报考的江苏本科院校不止三所",
+      "onboard_time": 1718514618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127891,
       "num": 127891,
       "word": "卡琳娜cos铠",
@@ -1251,12 +1315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102055,
+      "num": 102055,
+      "word": "南方医科大学 希波克拉底誓言",
+      "onboard_time": 1718517556,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101994,
       "num": 101994,
       "word": "亚马尔干啥都是欧洲杯纪录",
       "onboard_time": 1718496136,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99612,
+      "num": 99612,
+      "word": "小狗硬控上班族20多秒",
+      "onboard_time": 1718518337,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 98190,
@@ -1273,6 +1353,14 @@
       "onboard_time": 1718444420,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96498,
+      "num": 96498,
+      "word": "赵露思现代剧穿搭",
+      "onboard_time": 1718518997,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94733,
@@ -1451,14 +1539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 70898,
-      "num": 410268,
-      "word": "姜萍能报考的江苏本科院校不止三所",
-      "onboard_time": 1718514618,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 64883,
       "num": 124413,
       "word": "今晚朱婷不首发",
@@ -1571,6 +1651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 42093,
+      "num": 226031,
+      "word": "爸爸真的会把表情包当作我",
+      "onboard_time": 1718515337,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41901,
       "num": 464103,
       "word": "来自嫦娥六号神秘包裹请注意查收",
@@ -1627,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28411,
+      "num": 119038,
+      "word": "21国好礼京东一次送你",
+      "onboard_time": 1718516356,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 26232,
       "num": 281691,
       "word": "军校女学员笑着说要去戍边",
@@ -1681,6 +1777,14 @@
       "onboard_time": 1718506697,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15157,
+      "num": 203193,
+      "word": "哪儿凉快去哪儿呆着",
+      "onboard_time": 1718519056,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15148,

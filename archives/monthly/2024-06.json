@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718516165277,
+  "endTime": 1718519138123,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -5051,6 +5051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705560,
+      "num": 705560,
+      "word": "疑似外国人起飞时偷拍军民合用机场",
+      "onboard_time": 1718516177,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 702944,
       "num": 702944,
       "word": "谭晶 九儿",
@@ -7587,6 +7595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 539486,
+      "num": 539486,
+      "word": "网易云坏",
+      "onboard_time": 1718514377,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 539121,
       "num": 539121,
       "word": "李玟遗作将公开",
@@ -8697,14 +8713,6 @@
       "onboard_time": 1717589779,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 492650,
-      "num": 492650,
-      "word": "网易云坏",
-      "onboard_time": 1718514377,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 491417,
@@ -10233,6 +10241,14 @@
       "onboard_time": 1717730420,
       "rank": 47,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 433583,
+      "num": 433583,
+      "word": "机场回应疑似外国人起飞时偷拍",
+      "onboard_time": 1718516538,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433318,
@@ -12307,6 +12323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 363601,
+      "num": 363601,
+      "word": "南方医科大学称始终坚持救死扶伤优先",
+      "onboard_time": 1718514138,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363236,
       "num": 268682,
       "word": "iPhone新增防晕车功能",
@@ -13347,14 +13371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336181,
-      "num": 336181,
-      "word": "南方医科大学称始终坚持救死扶伤优先",
-      "onboard_time": 1718514138,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 336062,
       "num": 3137278,
       "word": "直击多地高考第一现场",
@@ -14377,6 +14393,14 @@
       "onboard_time": 1717250780,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 309613,
+      "num": 309613,
+      "word": "辛芷蕾遇到邓超也变i",
+      "onboard_time": 1718517317,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 309380,
@@ -16435,6 +16459,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269651,
+      "num": 248607,
+      "word": "第一次去男友家他妈妈全点的外卖",
+      "onboard_time": 1718513357,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269497,
       "num": 269497,
       "word": "高考作文 申论",
@@ -16921,6 +16953,14 @@
       "onboard_time": 1717720877,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 259989,
+      "num": 259989,
+      "word": "狐妖现代番外",
+      "onboard_time": 1718516957,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 259926,
@@ -17537,14 +17577,6 @@
       "onboard_time": 1718177480,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248607,
-      "num": 248607,
-      "word": "第一次去男友家他妈妈全点的外卖",
-      "onboard_time": 1718513357,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 248415,
@@ -21681,6 +21713,14 @@
       "onboard_time": 1717805656,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202529,
+      "num": 202529,
+      "word": "吴谨言又哭碎了",
+      "onboard_time": 1718518877,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 202491,
@@ -28707,6 +28747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157791,
+      "num": 157791,
+      "word": "墨雨云间27集满广",
+      "onboard_time": 1718518037,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157789,
       "num": 157789,
       "word": "魔兽世界国服开启删档技术测试",
@@ -34027,6 +34075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128182,
+      "num": 410268,
+      "word": "姜萍能报考的江苏本科院校不止三所",
+      "onboard_time": 1718514618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128068,
       "num": 128068,
       "word": "易烊千玺到米兰",
@@ -38427,6 +38483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102055,
+      "num": 102055,
+      "word": "南方医科大学 希波克拉底誓言",
+      "onboard_time": 1718517556,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101994,
       "num": 101994,
       "word": "亚马尔干啥都是欧洲杯纪录",
@@ -38689,6 +38753,14 @@
       "onboard_time": 1717488018,
       "rank": 9,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 99612,
+      "num": 99612,
+      "word": "小狗硬控上班族20多秒",
+      "onboard_time": 1718518337,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 99495,
@@ -39041,6 +39113,14 @@
       "onboard_time": 1718358078,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96498,
+      "num": 96498,
+      "word": "赵露思现代剧穿搭",
+      "onboard_time": 1718518997,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 96146,
@@ -40865,14 +40945,6 @@
       "onboard_time": 1717696572,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 70898,
-      "num": 410268,
-      "word": "姜萍能报考的江苏本科院校不止三所",
-      "onboard_time": 1718514618,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70824,
@@ -43259,6 +43331,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 42093,
+      "num": 226031,
+      "word": "爸爸真的会把表情包当作我",
+      "onboard_time": 1718515337,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42011,
       "num": 151313,
       "word": "山东已经热到发烫了",
@@ -44443,6 +44523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28411,
+      "num": 119038,
+      "word": "21国好礼京东一次送你",
+      "onboard_time": 1718516356,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 28264,
       "num": 284459,
       "word": "一人一句夸夸咱河南老乡",
@@ -45345,6 +45433,14 @@
       "onboard_time": 1717616170,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 15157,
+      "num": 203193,
+      "word": "哪儿凉快去哪儿呆着",
+      "onboard_time": 1718519056,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15148,
