@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718512541414,
+  "endTime": 1718515179179,
   "band_list": [
     {
       "raw_hot": 2122450,
@@ -32,6 +32,14 @@
       "word": "父亲节",
       "onboard_time": 1718469016,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1416601,
+      "num": 1416601,
+      "word": "南方医科大学情况说明",
+      "onboard_time": 1718513717,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 931059,
+      "num": 931059,
+      "word": "爸宝女",
+      "onboard_time": 1718510598,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 745434,
       "num": 559370,
       "word": "警方通报废弃楼发现男尸",
@@ -97,6 +113,14 @@
       "onboard_time": 1718493733,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 742993,
+      "num": 742993,
+      "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
+      "onboard_time": 1718512337,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712449,
@@ -275,20 +299,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 399025,
+      "num": 399025,
+      "word": "墨雨云间亲夫妻不算账",
+      "onboard_time": 1718512156,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
       "onboard_time": 1718506517,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 394451,
-      "num": 394451,
-      "word": "爸宝女",
-      "onboard_time": 1718510598,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 381417,
@@ -387,12 +411,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295378,
+      "num": 295378,
+      "word": "南方医科大学称始终坚持救死扶伤优先",
+      "onboard_time": 1718514138,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294084,
+      "num": 294084,
+      "word": "桐儿下线",
+      "onboard_time": 1718514557,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279186,
       "num": 272431,
       "word": "为什么建议夏天多吃面",
       "onboard_time": 1718506277,
       "rank": 22,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 278662,
+      "num": 257593,
+      "word": "墨雨云间28",
+      "onboard_time": 1718512637,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 275135,
@@ -411,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272037,
+      "num": 248623,
+      "word": "墨雨云间",
+      "onboard_time": 1718514197,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259745,
       "num": 259745,
       "word": "易烊千玺奢牌待遇",
@@ -419,12 +475,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259253,
+      "num": 259253,
+      "word": "父亲用200块供出一个北京校长",
+      "onboard_time": 1718511377,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253658,
       "num": 253658,
       "word": "张踩玲的大胖媳妇社死名场面",
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 249592,
+      "num": 249592,
+      "word": "网易云坏",
+      "onboard_time": 1718514377,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 247851,
+      "num": 247851,
+      "word": "第一次去男友家他妈妈全点的外卖",
+      "onboard_time": 1718513357,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 240525,
@@ -467,20 +547,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 226884,
-      "num": 226884,
-      "word": "父亲用200块供出一个北京校长",
-      "onboard_time": 1718511377,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 224655,
       "num": 224655,
       "word": "林俊杰jj20世界巡回演唱会",
       "onboard_time": 1718462420,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221619,
+      "num": 221619,
+      "word": "年轻人为什么不爱轻奢了",
+      "onboard_time": 1718511138,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 221369,
@@ -595,14 +675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 195984,
-      "num": 195984,
-      "word": "年轻人为什么不爱轻奢了",
-      "onboard_time": 1718511138,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 195725,
       "num": 195725,
       "word": "欧洲杯历史最快进球",
@@ -683,11 +755,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178856,
-      "num": 178856,
-      "word": "墨雨云间亲夫妻不算账",
-      "onboard_time": 1718512156,
-      "rank": 34,
+      "raw_hot": 178561,
+      "num": 178561,
+      "word": "黄亦玫方协文女王训狗",
+      "onboard_time": 1718513896,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -779,8 +851,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164902,
+      "num": 164902,
+      "word": "去世254天狗狗的长明灯突然亮了",
+      "onboard_time": 1718513178,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163731,
-      "num": 163731,
+      "num": 263196,
       "word": "西瓜有味能切了表面继续吃吗",
       "onboard_time": 1718511857,
       "rank": 38,
@@ -891,14 +971,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 139937,
-      "num": 139937,
-      "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
-      "onboard_time": 1718512337,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139376,
       "num": 139376,
       "word": "刘些宁回应演恶女",
@@ -921,6 +993,14 @@
       "onboard_time": 1718464459,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135119,
+      "num": 135119,
+      "word": "第五人格游园会",
+      "onboard_time": 1718513597,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 134303,
@@ -1001,6 +1081,14 @@
       "onboard_time": 1718463139,
       "rank": 30,
       "category": "网红,游戏"
+    },
+    {
+      "raw_hot": 127815,
+      "num": 127815,
+      "word": "厄瓜多尔粉色的螽斯",
+      "onboard_time": 1718514856,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 126524,
@@ -1331,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70898,
+      "num": 410268,
+      "word": "姜萍能报考的江苏本科院校不止三所",
+      "onboard_time": 1718514618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 64883,
       "num": 124413,
       "word": "今晚朱婷不首发",
@@ -1380,7 +1476,7 @@
     },
     {
       "raw_hot": 59074,
-      "num": 894604,
+      "num": 1012607,
       "word": "今天向这些父亲致敬",
       "onboard_time": 1718505797,
       "rank": 2,
@@ -1523,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21899,
+      "num": 262230,
+      "word": "古罗马掌管气场的单品",
+      "onboard_time": 1718511138,
+      "rank": 21,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 20293,
       "num": 177998,
       "word": "2024祝福每一位父亲",
@@ -1537,14 +1641,6 @@
       "onboard_time": 1718503517,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16752,
-      "num": 262230,
-      "word": "古罗马掌管气场的单品",
-      "onboard_time": 1718511138,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 15387,
@@ -1585,6 +1681,14 @@
       "onboard_time": 1718470936,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10898,
+      "num": 123911,
+      "word": "音乐节的显眼包们",
+      "onboard_time": 1718513536,
+      "rank": 47,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

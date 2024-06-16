@@ -1,0 +1,410 @@
+{
+  "runTime": 1718515179179,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1416601,
+        "num": 1416601,
+        "word": "南方医科大学情况说明",
+        "onboard_time": 1718513717,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1332675,
+        "num": 1332675,
+        "word": "南方医科大学回应教师因救人迟到受处分",
+        "onboard_time": 1718509757,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57694,
+        "num": 1012607,
+        "word": "今天向这些父亲致敬",
+        "onboard_time": 1718505797,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 931059,
+        "num": 931059,
+        "word": "爸宝女",
+        "onboard_time": 1718510598,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 781267,
+        "num": 781267,
+        "word": "猝死前的5分钟身体经历了什么",
+        "onboard_time": 1718503096,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 742993,
+        "num": 742993,
+        "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
+        "onboard_time": 1718512337,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426449,
+        "num": 426449,
+        "word": "赵露思陈伟霆亲吻路透",
+        "onboard_time": 1718506997,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423756,
+        "num": 423756,
+        "word": "杨和苏你歌呢",
+        "onboard_time": 1718511738,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 415339,
+        "num": 415339,
+        "word": "周杰伦ins发了张艺兴",
+        "onboard_time": 1718505558,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 70898,
+        "num": 410268,
+        "word": "姜萍能报考的江苏本科院校不止三所",
+        "onboard_time": 1718514618,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967512,
+        "num": 410189,
+        "word": "南方医科大 教师因救人上课迟到被罚",
+        "onboard_time": 1718502317,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409907,
+        "num": 409907,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399025,
+        "num": 399025,
+        "word": "墨雨云间亲夫妻不算账",
+        "onboard_time": 1718512156,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 345946,
+        "num": 345946,
+        "word": "警方通报废弃楼发现男尸",
+        "onboard_time": 1718503038,
+        "rank": 13,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 311015,
+        "num": 311015,
+        "word": "孙卓祝孙海洋父亲节快乐",
+        "onboard_time": 1718510537,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301472,
+        "num": 301472,
+        "word": "父亲节快乐",
+        "onboard_time": 1718493733,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300903,
+        "num": 300903,
+        "word": "王星越定风波出妆",
+        "onboard_time": 1718508378,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295378,
+        "num": 295378,
+        "word": "南方医科大学称始终坚持救死扶伤优先",
+        "onboard_time": 1718514138,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294084,
+        "num": 294084,
+        "word": "桐儿下线",
+        "onboard_time": 1718514557,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148997,
+        "num": 263196,
+        "word": "西瓜有味能切了表面继续吃吗",
+        "onboard_time": 1718511857,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21899,
+        "num": 259369,
+        "word": "古罗马掌管气场的单品",
+        "onboard_time": 1718511138,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1018971,
+        "num": 259350,
+        "word": "周也公关",
+        "onboard_time": 1718502796,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259253,
+        "num": 259253,
+        "word": "父亲用200块供出一个北京校长",
+        "onboard_time": 1718511377,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 486480,
+        "num": 257884,
+        "word": "赖冠霖说工作室没钱了",
+        "onboard_time": 1718501536,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278662,
+        "num": 257593,
+        "word": "墨雨云间28",
+        "onboard_time": 1718512637,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249592,
+        "num": 249592,
+        "word": "网易云坏",
+        "onboard_time": 1718514377,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 672426,
+        "num": 248759,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272037,
+        "num": 248623,
+        "word": "墨雨云间",
+        "onboard_time": 1718514197,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247851,
+        "num": 247851,
+        "word": "第一次去男友家他妈妈全点的外卖",
+        "onboard_time": 1718513357,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221619,
+        "num": 221619,
+        "word": "年轻人为什么不爱轻奢了",
+        "onboard_time": 1718511138,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208758,
+        "num": 208758,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1718507837,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196505,
+        "num": 196505,
+        "word": "关晓彤白色古董裙",
+        "onboard_time": 1718510897,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178561,
+        "num": 178561,
+        "word": "黄亦玫方协文女王训狗",
+        "onboard_time": 1718513896,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176699,
+        "num": 176699,
+        "word": "杨和苏理想国",
+        "onboard_time": 1718511978,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 164902,
+        "num": 164902,
+        "word": "去世254天狗狗的长明灯突然亮了",
+        "onboard_time": 1718513178,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159893,
+        "num": 159893,
+        "word": "张踩玲的大胖媳妇社死名场面",
+        "onboard_time": 1718510178,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154585,
+        "num": 154585,
+        "word": "易烊千玺奢牌待遇",
+        "onboard_time": 1718508738,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148761,
+        "num": 148761,
+        "word": "看玫瑰的故事远离恋爱脑",
+        "onboard_time": 1718511197,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145622,
+        "num": 145622,
+        "word": "为什么建议夏天多吃面",
+        "onboard_time": 1718506277,
+        "rank": 38,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 145204,
+        "num": 145204,
+        "word": "宝宝睡上了外公睡过的古董摇摇床",
+        "onboard_time": 1718499016,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230010,
+        "num": 143944,
+        "word": "南方医科大学教师因救死扶伤受处分",
+        "onboard_time": 1718507057,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141358,
+        "num": 141358,
+        "word": "中国风还是吹到了欧洲杯",
+        "onboard_time": 1718511916,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135119,
+        "num": 135119,
+        "word": "第五人格游园会",
+        "onboard_time": 1718513597,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133788,
+        "num": 133788,
+        "word": "爸爸发了他人生中第一条朋友圈",
+        "onboard_time": 1718509217,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132456,
+        "num": 132456,
+        "word": "广东一货车当街与复兴号撞上了",
+        "onboard_time": 1718509697,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127815,
+        "num": 127815,
+        "word": "厄瓜多尔粉色的螽斯",
+        "onboard_time": 1718514856,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 127480,
+        "num": 127480,
+        "word": "张艺谋导演电影版三体",
+        "onboard_time": 1718506517,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 10898,
+        "num": 123911,
+        "word": "音乐节的显眼包们",
+        "onboard_time": 1718513536,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122676,
+        "num": 122676,
+        "word": "开空调嫌冷 不开空调嫌热",
+        "onboard_time": 1718502618,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112360,
+        "num": 112360,
+        "word": "姜萍",
+        "onboard_time": 1718505857,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}
