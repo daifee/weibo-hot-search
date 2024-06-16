@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718552056383,
+  "endTime": 1718554931809,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -16,6 +16,14 @@
       "word": "南方医科大 教师因救人上课迟到被罚",
       "onboard_time": 1718502317,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1714608,
+      "num": 1714608,
+      "word": "姜萍中考621分却上中专的原因",
+      "onboard_time": 1718550441,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -41,14 +49,6 @@
       "onboard_time": 1718502796,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1476912,
-      "num": 1476912,
-      "word": "姜萍中考621分却上中专的原因",
-      "onboard_time": 1718550441,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1461412,
@@ -257,6 +257,14 @@
       "onboard_time": 1718549120,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 908377,
+      "num": 226615,
+      "word": "长期吃辣的人更容易得胃癌吗",
+      "onboard_time": 1718550560,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 858145,
@@ -619,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 485758,
-      "num": 226615,
-      "word": "长期吃辣的人更容易得胃癌吗",
-      "onboard_time": 1718550560,
-      "rank": 28,
-      "category": "健康医疗"
+      "raw_hot": 484832,
+      "num": 479943,
+      "word": "想去林更新微博说两句但我骂不过他",
+      "onboard_time": 1718550739,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 480868,
@@ -635,12 +643,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 479943,
-      "num": 479943,
-      "word": "想去林更新微博说两句但我骂不过他",
-      "onboard_time": 1718550739,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 478938,
+      "num": 128827,
+      "word": "毕业月薪六七千我妈说我要求低",
+      "onboard_time": 1718552658,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 478903,
@@ -649,6 +657,14 @@
       "onboard_time": 1718521637,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 468618,
+      "num": 226521,
+      "word": "大学生最烧钱的八大爱好",
+      "onboard_time": 1718549780,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 468373,
@@ -1051,14 +1067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 329876,
-      "num": 226521,
-      "word": "大学生最烧钱的八大爱好",
-      "onboard_time": 1718549780,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 328626,
       "num": 328626,
       "word": "警方通报男子在车厢面对女乘客裸睡",
@@ -1105,6 +1113,14 @@
       "onboard_time": 1718517317,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307390,
+      "num": 307390,
+      "word": "smlz",
+      "onboard_time": 1718550739,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 304937,
@@ -1337,14 +1353,6 @@
       "onboard_time": 1718471475,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236497,
-      "num": 236497,
-      "word": "smlz",
-      "onboard_time": 1718550739,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 235327,
@@ -1915,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174130,
+      "num": 127639,
+      "word": "刘浩存文淇找惠英红合照",
+      "onboard_time": 1718553138,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172387,
       "num": 172387,
       "word": "爸爸发了他人生中第一条朋友圈",
@@ -2419,6 +2435,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130565,
+      "num": 126820,
+      "word": "陈昊宇文咏珊合照",
+      "onboard_time": 1718553618,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 130512,
+      "num": 130512,
+      "word": "TheShy诡术薇恩",
+      "onboard_time": 1718552598,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129963,
       "num": 226167,
       "word": "王一博刘伟强背靠背三连拍",
@@ -2595,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120180,
+      "num": 120180,
+      "word": "章子怡哽咽",
+      "onboard_time": 1718554638,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119613,
       "num": 125743,
       "word": "RA对战LNG",
@@ -2761,6 +2801,14 @@
       "onboard_time": 1718550321,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107042,
+      "num": 87477,
+      "word": "墨雨云间团综没招到商",
+      "onboard_time": 1718554097,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 105891,
@@ -3137,6 +3185,14 @@
       "onboard_time": 1718478020,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60159,
+      "num": 340053,
+      "word": "涟水中专党委书记回应",
+      "onboard_time": 1718553138,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 60043,
