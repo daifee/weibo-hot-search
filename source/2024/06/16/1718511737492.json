@@ -1,0 +1,410 @@
+{
+  "runTime": 1718511737492,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360637,
+        "num": 1360637,
+        "word": "南方医科大学回应教师因救人迟到受处分",
+        "onboard_time": 1718509757,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 717076,
+        "num": 717076,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54701,
+        "num": 654902,
+        "word": "今天向这些父亲致敬",
+        "onboard_time": 1718505797,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924853,
+        "num": 652836,
+        "word": "猝死前的5分钟身体经历了什么",
+        "onboard_time": 1718503096,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 640467,
+        "num": 640467,
+        "word": "赵露思陈伟霆亲吻路透",
+        "onboard_time": 1718506997,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 597412,
+        "num": 597412,
+        "word": "周杰伦ins发了张艺兴",
+        "onboard_time": 1718505558,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 483859,
+        "num": 483859,
+        "word": "父亲节快乐",
+        "onboard_time": 1718493733,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446472,
+        "num": 446472,
+        "word": "王星越定风波出妆",
+        "onboard_time": 1718508378,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407073,
+        "num": 407073,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1718507837,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16384,
+        "num": 401209,
+        "word": "不论何时我的爸爸都是最棒的",
+        "onboard_time": 1718511017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1843191,
+        "num": 398676,
+        "word": "南方医科大 教师因救人上课迟到被罚",
+        "onboard_time": 1718502317,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420421,
+        "num": 397668,
+        "word": "警方通报废弃楼发现男尸",
+        "onboard_time": 1718503038,
+        "rank": 11,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 395649,
+        "num": 395649,
+        "word": "姜萍",
+        "onboard_time": 1718505857,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390788,
+        "num": 390788,
+        "word": "关晓彤白色古董裙",
+        "onboard_time": 1718510897,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 364920,
+        "num": 364920,
+        "word": "南方医科大学教师因救死扶伤受处分",
+        "onboard_time": 1718507057,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342546,
+        "num": 342546,
+        "word": "宝宝睡上了外公睡过的古董摇摇床",
+        "onboard_time": 1718499016,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290844,
+        "num": 290844,
+        "word": "孙卓祝孙海洋父亲节快乐",
+        "onboard_time": 1718510537,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285988,
+        "num": 285988,
+        "word": "TF三代出道战导师",
+        "onboard_time": 1718506156,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259745,
+        "num": 259745,
+        "word": "易烊千玺奢牌待遇",
+        "onboard_time": 1718508738,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 259458,
+        "num": 259458,
+        "word": "爸宝女",
+        "onboard_time": 1718510598,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1285136,
+        "num": 259153,
+        "word": "周也公关",
+        "onboard_time": 1718502796,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16752,
+        "num": 257591,
+        "word": "古罗马掌管气场的单品",
+        "onboard_time": 1718511138,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 619775,
+        "num": 255570,
+        "word": "赖冠霖说工作室没钱了",
+        "onboard_time": 1718501536,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279186,
+        "num": 254130,
+        "word": "为什么建议夏天多吃面",
+        "onboard_time": 1718506277,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 253658,
+        "num": 253658,
+        "word": "张踩玲的大胖媳妇社死名场面",
+        "onboard_time": 1718510178,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1004214,
+        "num": 252120,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236756,
+        "num": 236756,
+        "word": "开空调嫌冷 不开空调嫌热",
+        "onboard_time": 1718502618,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229190,
+        "num": 229190,
+        "word": "张艺谋导演电影版三体",
+        "onboard_time": 1718506517,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197085,
+        "num": 197085,
+        "word": "广东一货车当街与复兴号撞上了",
+        "onboard_time": 1718509697,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184516,
+        "num": 184516,
+        "word": "Doinb谈Uzi停播",
+        "onboard_time": 1718507417,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 172387,
+        "num": 172387,
+        "word": "爸爸发了他人生中第一条朋友圈",
+        "onboard_time": 1718509217,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171630,
+        "num": 171630,
+        "word": "村民称姜萍选择涟水中专有2个原因",
+        "onboard_time": 1718507177,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167318,
+        "num": 167318,
+        "word": "专四",
+        "onboard_time": 1718506697,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160581,
+        "num": 160581,
+        "word": "邓超开场e得让人害怕",
+        "onboard_time": 1718511256,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160291,
+        "num": 160291,
+        "word": "长沙初三少年与姜萍一同入围数学决赛",
+        "onboard_time": 1718509637,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159917,
+        "num": 159917,
+        "word": "哈妮克孜人生镜头",
+        "onboard_time": 1718510838,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156443,
+        "num": 156443,
+        "word": "张杰配音想对爸爸说的话",
+        "onboard_time": 1718507897,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 154901,
+        "num": 154901,
+        "word": "看玫瑰的故事远离恋爱脑",
+        "onboard_time": 1718511197,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152747,
+        "num": 152747,
+        "word": "父亲用200块供出一个北京校长",
+        "onboard_time": 1718511377,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146772,
+        "num": 146772,
+        "word": "年轻人为什么不爱轻奢了",
+        "onboard_time": 1718511138,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146343,
+        "num": 146343,
+        "word": "微博电影之夜",
+        "onboard_time": 1718510297,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132980,
+        "num": 132980,
+        "word": "专四答案",
+        "onboard_time": 1718507537,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132917,
+        "num": 132917,
+        "word": "5岁儿子给快递员爸爸的第一份礼物",
+        "onboard_time": 1718509876,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131497,
+        "num": 131497,
+        "word": "2024上半年黑马剧",
+        "onboard_time": 1718509518,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125388,
+        "num": 125388,
+        "word": "肖战续约青岛啤酒",
+        "onboard_time": 1718509398,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117502,
+        "num": 117502,
+        "word": "刘亦菲泳池戏",
+        "onboard_time": 1718501777,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113538,
+        "num": 113538,
+        "word": "社工考试",
+        "onboard_time": 1718511618,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 113494,
+        "num": 113494,
+        "word": "邓紫棋哭得差点唱不下去",
+        "onboard_time": 1718494754,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110359,
+        "num": 110359,
+        "word": "父亲对女儿性格的影响",
+        "onboard_time": 1718505617,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88008,
+        "num": 109567,
+        "word": "欧洲杯意大利",
+        "onboard_time": 1718493252,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}
