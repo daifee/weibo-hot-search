@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718536582736,
+  "endTime": 1718537652751,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -4507,6 +4507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 752598,
+      "num": 337487,
+      "word": "庆余年 二皇子",
+      "onboard_time": 1718533637,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 751660,
       "num": 751660,
       "word": "蔡磊公布渐冻症诊断报告",
@@ -5299,6 +5307,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 692336,
+      "num": 692336,
+      "word": "店员以为狗狗没洗干净",
+      "onboard_time": 1718534178,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 691872,
       "num": 429389,
       "word": "周也拿了六公主手里的糖",
@@ -5393,14 +5409,6 @@
       "onboard_time": 1717821738,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 684141,
-      "num": 327557,
-      "word": "庆余年 二皇子",
-      "onboard_time": 1718533637,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 683141,
@@ -6868,7 +6876,7 @@
     },
     {
       "raw_hot": 592010,
-      "num": 294190,
+      "num": 311944,
       "word": "章子怡压轴",
       "onboard_time": 1718532498,
       "rank": 23,
@@ -7297,6 +7305,14 @@
       "onboard_time": 1718340619,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569437,
+      "num": 317608,
+      "word": "王星越切小号",
+      "onboard_time": 1718536218,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 566571,
@@ -8185,6 +8201,14 @@
       "onboard_time": 1717667418,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 520563,
+      "num": 236734,
+      "word": "不结婚的年轻人重伤糖果业",
+      "onboard_time": 1718534178,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 520432,
@@ -10419,14 +10443,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 436557,
-      "num": 436557,
-      "word": "店员以为狗狗没洗干净",
-      "onboard_time": 1718534178,
-      "rank": 4,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 435612,
       "num": 336058,
       "word": "汪苏泷不会真唱奢香夫人吧",
@@ -12595,6 +12611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364599,
+      "num": 307240,
+      "word": "JYP 方时赫",
+      "onboard_time": 1718536757,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364477,
       "num": 267845,
       "word": "言承旭自曝和仇人上节目",
@@ -13113,14 +13137,6 @@
       "onboard_time": 1717683981,
       "rank": 17,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 350578,
-      "num": 179098,
-      "word": "不结婚的年轻人重伤糖果业",
-      "onboard_time": 1718534178,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 350102,
@@ -14915,6 +14931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304937,
+      "num": 304937,
+      "word": "姜萍走红后有企业给姜父送钱",
+      "onboard_time": 1718531359,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304659,
       "num": 304659,
       "word": "今年又帮李华了",
@@ -15353,6 +15377,14 @@
       "onboard_time": 1718186178,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295677,
+      "num": 235516,
+      "word": "微博电影之夜直播",
+      "onboard_time": 1718535978,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 295586,
@@ -16323,6 +16355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 276793,
+      "num": 234202,
+      "word": "邓超被架走",
+      "onboard_time": 1718537419,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276787,
       "num": 276787,
       "word": "这是我离王俊凯最近的一次",
@@ -16553,14 +16593,6 @@
       "onboard_time": 1718353460,
       "rank": 29,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 273109,
-      "num": 172121,
-      "word": "王星越切小号",
-      "onboard_time": 1718536218,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 272894,
@@ -17123,6 +17155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264943,
+      "num": 264943,
+      "word": "啥是烟卡",
+      "onboard_time": 1718535858,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264449,
       "num": 482035,
       "word": "福宝探头探脑与大家见面",
@@ -17249,14 +17289,6 @@
       "onboard_time": 1717593558,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 261772,
-      "num": 261772,
-      "word": "姜萍走红后有企业给姜父送钱",
-      "onboard_time": 1718531359,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261586,
@@ -17643,6 +17675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254204,
+      "num": 233518,
+      "word": "沈小婷团里最讨厌的三个人",
+      "onboard_time": 1718537297,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254122,
       "num": 254122,
       "word": "张凌赫新郎造型",
@@ -17804,7 +17844,7 @@
     },
     {
       "raw_hot": 250991,
-      "num": 170611,
+      "num": 197648,
       "word": "金晨一只袖子上有30颗珍珠",
       "onboard_time": 1718535319,
       "rank": 26,
@@ -18097,14 +18137,6 @@
       "onboard_time": 1717304477,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246316,
-      "num": 164047,
-      "word": "微博电影之夜直播",
-      "onboard_time": 1718535978,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 246313,
@@ -18643,6 +18675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238179,
+      "num": 231448,
+      "word": "墨雨云间追剧日历更新",
+      "onboard_time": 1718537478,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238069,
       "num": 238069,
       "word": "夏天适合上班的5大理由",
@@ -19033,6 +19073,14 @@
       "onboard_time": 1717298718,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233113,
+      "num": 233113,
+      "word": "卧铺车上面对女乘客裸睡男子被拘5日",
+      "onboard_time": 1718536457,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233106,
@@ -20163,6 +20211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218325,
+      "num": 205796,
+      "word": "蔡徐坤舞美",
+      "onboard_time": 1718536518,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 218059,
       "num": 218059,
       "word": "程潇吊带背心",
@@ -20657,6 +20713,14 @@
       "onboard_time": 1718503997,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213342,
+      "num": 213342,
+      "word": "逼出体内湿气的方法",
+      "onboard_time": 1718536277,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213236,
@@ -21657,6 +21721,14 @@
       "onboard_time": 1717913719,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "滴滴6亿补贴鼓励司机开空调",
+      "onboard_time": 1718536818,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205694,
@@ -23697,14 +23769,6 @@
       "onboard_time": 1717936159,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193796,
-      "num": 133822,
-      "word": "蔡徐坤舞美",
-      "onboard_time": 1718536518,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 193786,
@@ -28611,14 +28675,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161572,
-      "num": 161572,
-      "word": "啥是烟卡",
-      "onboard_time": 1718535858,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161537,
       "num": 161537,
       "word": "拥抱金硕珍",
@@ -33019,6 +33075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137710,
+      "num": 137710,
+      "word": "GEN战胜T1",
+      "onboard_time": 1718536938,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137686,
       "num": 137686,
       "word": "俞飞鸿曾说无法接受当众求婚",
@@ -33569,6 +33633,14 @@
       "onboard_time": 1717574358,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134625,
+      "num": 302637,
+      "word": "派出所备40多件衣服拍证件照",
+      "onboard_time": 1718534957,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134606,
@@ -34601,6 +34673,14 @@
       "onboard_time": 1717981456,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129289,
+      "num": 129289,
+      "word": "我女朋友好像很会哄人开心",
+      "onboard_time": 1718537419,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 129278,
@@ -36889,6 +36969,14 @@
       "onboard_time": 1717551259,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117137,
+      "num": 117137,
+      "word": "猝死前一个月身体就有症状",
+      "onboard_time": 1718537597,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 117096,
@@ -40523,14 +40611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88470,
-      "num": 302637,
-      "word": "派出所备40多件衣服拍证件照",
-      "onboard_time": 1718534957,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88462,
       "num": 137733,
       "word": "小虞姬与cube聊天记录",
@@ -43595,6 +43675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50494,
+      "num": 237287,
+      "word": "微博电影之夜红毯生图",
+      "onboard_time": 1718533159,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50481,
       "num": 196434,
       "word": "记者调查货拉拉满帮等货车超载现象",
@@ -43899,6 +43987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46932,
+      "num": 324202,
+      "word": "大学毕业典礼的国风氛围感绝了",
+      "onboard_time": 1718536818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46743,
       "num": 46743,
       "word": "葡萄牙1比2克罗地亚",
@@ -43937,14 +44033,6 @@
       "onboard_time": 1718032100,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 46265,
-      "num": 193086,
-      "word": "微博电影之夜红毯生图",
-      "onboard_time": 1718533159,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 46222,
@@ -44931,6 +45019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35066,
+      "num": 321858,
+      "word": "被娜扎的妆容硬控了",
+      "onboard_time": 1718536277,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 35037,
       "num": 35037,
       "word": "长大后的次子和阿尼亚好甜",
@@ -45097,14 +45193,6 @@
       "onboard_time": 1717354271,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32139,
-      "num": 115055,
-      "word": "被娜扎的妆容硬控了",
-      "onboard_time": 1718536277,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 32136,
@@ -45281,6 +45369,14 @@
       "onboard_time": 1717900877,
       "rank": 14,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 30815,
+      "num": 308768,
+      "word": "微博电影之夜明星下车瞬间",
+      "onboard_time": 1718535618,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 30783,
@@ -45715,6 +45811,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 25395,
+      "num": 135658,
+      "word": "拜托我是第一个鸟巢开唱的流行女歌手",
+      "onboard_time": 1718536038,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25369,
       "num": 202401,
       "word": "邓超是懂如何宠粉的",
@@ -45889,14 +45993,6 @@
       "onboard_time": 1717189270,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22702,
-      "num": 279051,
-      "word": "微博电影之夜明星下车瞬间",
-      "onboard_time": 1718535618,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 22598,
@@ -46673,14 +46769,6 @@
       "onboard_time": 1718470936,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12629,
-      "num": 134473,
-      "word": "拜托我是第一个鸟巢开唱的流行女歌手",
-      "onboard_time": 1718536038,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 12587,

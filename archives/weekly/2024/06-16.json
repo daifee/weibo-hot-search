@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718536582736,
+  "endTime": 1718537652751,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -179,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752598,
+      "num": 337487,
+      "word": "庆余年 二皇子",
+      "onboard_time": 1718533637,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 745434,
       "num": 559370,
       "word": "警方通报废弃楼发现男尸",
@@ -219,20 +227,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 692336,
+      "num": 692336,
+      "word": "店员以为狗狗没洗干净",
+      "onboard_time": 1718534178,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 691788,
       "num": 274935,
       "word": "雌激素降低确实会催人老",
       "onboard_time": 1718463019,
       "rank": 20,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 684141,
-      "num": 327557,
-      "word": "庆余年 二皇子",
-      "onboard_time": 1718533637,
-      "rank": 48,
-      "category": "动漫"
     },
     {
       "raw_hot": 670724,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 592010,
-      "num": 294190,
+      "num": 311944,
       "word": "章子怡压轴",
       "onboard_time": 1718532498,
       "rank": 23,
@@ -353,6 +361,14 @@
       "onboard_time": 1718499016,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 569437,
+      "num": 317608,
+      "word": "王星越切小号",
+      "onboard_time": 1718536218,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 561706,
@@ -385,6 +401,14 @@
       "onboard_time": 1718514377,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 520563,
+      "num": 236734,
+      "word": "不结婚的年轻人重伤糖果业",
+      "onboard_time": 1718534178,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 518526,
@@ -497,14 +521,6 @@
       "onboard_time": 1718530939,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 436557,
-      "num": 436557,
-      "word": "店员以为狗狗没洗干净",
-      "onboard_time": 1718534178,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 428190,
@@ -683,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 364599,
+      "num": 307240,
+      "word": "JYP 方时赫",
+      "onboard_time": 1718536757,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 362813,
       "num": 177585,
       "word": "考上编制好朋友把我删了",
@@ -705,14 +729,6 @@
       "onboard_time": 1718493733,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 350578,
-      "num": 179098,
-      "word": "不结婚的年轻人重伤糖果业",
-      "onboard_time": 1718534178,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 343910,
@@ -779,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304937,
+      "num": 304937,
+      "word": "姜萍走红后有企业给姜父送钱",
+      "onboard_time": 1718531359,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304875,
       "num": 304875,
       "word": "许嵩 谢谢你在3650万首歌里听到我",
@@ -801,6 +825,14 @@
       "onboard_time": 1718501777,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 295677,
+      "num": 235516,
+      "word": "微博电影之夜直播",
+      "onboard_time": 1718535978,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 292785,
@@ -843,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276793,
+      "num": 234202,
+      "word": "邓超被架走",
+      "onboard_time": 1718537419,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 276787,
       "num": 276787,
       "word": "这是我离王俊凯最近的一次",
@@ -857,14 +897,6 @@
       "onboard_time": 1718503456,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273109,
-      "num": 172121,
-      "word": "王星越切小号",
-      "onboard_time": 1718536218,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 272156,
@@ -891,11 +923,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 261772,
-      "num": 261772,
-      "word": "姜萍走红后有企业给姜父送钱",
-      "onboard_time": 1718531359,
-      "rank": 36,
+      "raw_hot": 264943,
+      "num": 264943,
+      "word": "啥是烟卡",
+      "onboard_time": 1718535858,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -923,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 254204,
+      "num": 233518,
+      "word": "沈小婷团里最讨厌的三个人",
+      "onboard_time": 1718537297,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253658,
       "num": 253658,
       "word": "张踩玲的大胖媳妇社死名场面",
@@ -932,18 +972,10 @@
     },
     {
       "raw_hot": 250991,
-      "num": 170611,
+      "num": 197648,
       "word": "金晨一只袖子上有30颗珍珠",
       "onboard_time": 1718535319,
       "rank": 26,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 246316,
-      "num": 164047,
-      "word": "微博电影之夜直播",
-      "onboard_time": 1718535978,
-      "rank": 30,
       "category": "电影"
     },
     {
@@ -971,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238179,
+      "num": 231448,
+      "word": "墨雨云间追剧日历更新",
+      "onboard_time": 1718537478,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236922,
       "num": 157897,
       "word": "吴谨言上了郝蕾表演课后逆袭",
@@ -985,6 +1025,14 @@
       "onboard_time": 1718521277,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 233113,
+      "num": 233113,
+      "word": "卧铺车上面对女乘客裸睡男子被拘5日",
+      "onboard_time": 1718536457,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232051,
@@ -1059,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218325,
+      "num": 205796,
+      "word": "蔡徐坤舞美",
+      "onboard_time": 1718536518,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 216941,
       "num": 172271,
       "word": "怎么让一个成年人九点半就睡觉",
@@ -1081,6 +1137,14 @@
       "onboard_time": 1718503997,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213342,
+      "num": 213342,
+      "word": "逼出体内湿气的方法",
+      "onboard_time": 1718536277,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 213105,
@@ -1145,6 +1209,14 @@
       "onboard_time": 1718467577,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 205799,
+      "num": 205799,
+      "word": "滴滴6亿补贴鼓励司机开空调",
+      "onboard_time": 1718536818,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203472,
@@ -1257,14 +1329,6 @@
       "onboard_time": 1718459838,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193796,
-      "num": 133822,
-      "word": "蔡徐坤舞美",
-      "onboard_time": 1718536518,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 193785,
@@ -1523,14 +1587,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 161572,
-      "num": 161572,
-      "word": "啥是烟卡",
-      "onboard_time": 1718535858,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "长沙初三少年与姜萍一同入围数学决赛",
@@ -1739,12 +1795,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137710,
+      "num": 137710,
+      "word": "GEN战胜T1",
+      "onboard_time": 1718536938,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135119,
       "num": 135119,
       "word": "第五人格游园会",
       "onboard_time": 1718513597,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134625,
+      "num": 302637,
+      "word": "派出所备40多件衣服拍证件照",
+      "onboard_time": 1718534957,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134606,
@@ -1849,6 +1921,14 @@
       "onboard_time": 1718515876,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129289,
+      "num": 129289,
+      "word": "我女朋友好像很会哄人开心",
+      "onboard_time": 1718537419,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 128712,
@@ -2017,6 +2097,14 @@
       "onboard_time": 1718475972,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117137,
+      "num": 117137,
+      "word": "猝死前一个月身体就有症状",
+      "onboard_time": 1718537597,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115750,
@@ -2291,14 +2379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88470,
-      "num": 302637,
-      "word": "派出所备40多件衣服拍证件照",
-      "onboard_time": 1718534957,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87451,
       "num": 87451,
       "word": "师生十年后相聚歌手双双离场",
@@ -2539,11 +2619,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50494,
+      "num": 237287,
+      "word": "微博电影之夜红毯生图",
+      "onboard_time": 1718533159,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48156,
       "num": 48156,
       "word": "爸爸的爱总是藏在细微的行动里",
       "onboard_time": 1718493193,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46932,
+      "num": 324202,
+      "word": "大学毕业典礼的国风氛围感绝了",
+      "onboard_time": 1718536818,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2561,14 +2657,6 @@
       "onboard_time": 1718474653,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 46265,
-      "num": 193086,
-      "word": "微博电影之夜红毯生图",
-      "onboard_time": 1718533159,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 44041,
@@ -2659,8 +2747,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32139,
-      "num": 115055,
+      "raw_hot": 35066,
+      "num": 321858,
       "word": "被娜扎的妆容硬控了",
       "onboard_time": 1718536277,
       "rank": 44,
@@ -2672,6 +2760,14 @@
       "word": "常华森下颌线",
       "onboard_time": 1718525357,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 30815,
+      "num": 308768,
+      "word": "微博电影之夜明星下车瞬间",
+      "onboard_time": 1718535618,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -2699,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25395,
+      "num": 135658,
+      "word": "拜托我是第一个鸟巢开唱的流行女歌手",
+      "onboard_time": 1718536038,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 25108,
       "num": 472052,
       "word": "不论何时我的爸爸都是最棒的",
@@ -2713,14 +2817,6 @@
       "onboard_time": 1718478791,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22702,
-      "num": 279051,
-      "word": "微博电影之夜明星下车瞬间",
-      "onboard_time": 1718535618,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 21899,
@@ -2801,14 +2897,6 @@
       "onboard_time": 1718470936,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12629,
-      "num": 134473,
-      "word": "拜托我是第一个鸟巢开唱的流行女歌手",
-      "onboard_time": 1718536038,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 10898,
