@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718511737492,
+  "endTime": 1718512541414,
   "band_list": [
     {
       "raw_hot": 2122450,
@@ -51,8 +51,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1183211,
+      "num": 1183211,
+      "word": "杨和苏你歌呢",
+      "onboard_time": 1718511738,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1096341,
-      "num": 763375,
+      "num": 888349,
       "word": "猝死前的5分钟身体经历了什么",
       "onboard_time": 1718503096,
       "rank": 20,
@@ -163,6 +171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 513343,
+      "num": 513343,
+      "word": "杨和苏理想国",
+      "onboard_time": 1718511978,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 512412,
       "num": 512412,
       "word": "开空调嫌冷 不开空调嫌热",
@@ -175,6 +191,14 @@
       "num": 173312,
       "word": "韩国人正在拒绝晋升",
       "onboard_time": 1718496915,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 495445,
+      "num": 495445,
+      "word": "南方医科大学教师因救死扶伤受处分",
+      "onboard_time": 1718507057,
       "rank": 21,
       "category": "社会新闻"
     },
@@ -195,12 +219,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446472,
-      "num": 446472,
+      "raw_hot": 451791,
+      "num": 451791,
       "word": "王星越定风波出妆",
       "onboard_time": 1718508378,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 428190,
+      "num": 428190,
+      "word": "孙卓祝孙海洋父亲节快乐",
+      "onboard_time": 1718510537,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419469,
@@ -219,8 +251,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407073,
-      "num": 407073,
+      "raw_hot": 409229,
+      "num": 409229,
+      "word": "关晓彤白色古董裙",
+      "onboard_time": 1718510897,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 407843,
+      "num": 407843,
       "word": "鞠婧祎G社生图",
       "onboard_time": 1718507837,
       "rank": 23,
@@ -243,12 +283,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 390788,
-      "num": 390788,
-      "word": "关晓彤白色古董裙",
-      "onboard_time": 1718510897,
-      "rank": 13,
-      "category": "电影"
+      "raw_hot": 394451,
+      "num": 394451,
+      "word": "爸宝女",
+      "onboard_time": 1718510598,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 381417,
@@ -273,14 +313,6 @@
       "onboard_time": 1718499856,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364920,
-      "num": 364920,
-      "word": "南方医科大学教师因救死扶伤受处分",
-      "onboard_time": 1718507057,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 362813,
@@ -355,14 +387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290844,
-      "num": 290844,
-      "word": "孙卓祝孙海洋父亲节快乐",
-      "onboard_time": 1718510537,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 279186,
       "num": 272431,
       "word": "为什么建议夏天多吃面",
@@ -393,14 +417,6 @@
       "onboard_time": 1718508738,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259458,
-      "num": 259458,
-      "word": "爸宝女",
-      "onboard_time": 1718510598,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 253658,
@@ -451,12 +467,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226884,
+      "num": 226884,
+      "word": "父亲用200块供出一个北京校长",
+      "onboard_time": 1718511377,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224655,
       "num": 224655,
       "word": "林俊杰jj20世界巡回演唱会",
       "onboard_time": 1718462420,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221369,
+      "num": 221369,
+      "word": "中国风还是吹到了欧洲杯",
+      "onboard_time": 1718511916,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 218986,
@@ -563,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195984,
+      "num": 195984,
+      "word": "年轻人为什么不爱轻奢了",
+      "onboard_time": 1718511138,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195725,
       "num": 195725,
       "word": "欧洲杯历史最快进球",
@@ -603,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190946,
+      "num": 190946,
+      "word": "看玫瑰的故事远离恋爱脑",
+      "onboard_time": 1718511197,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190090,
       "num": 161114,
       "word": "种地吧",
@@ -633,6 +681,14 @@
       "onboard_time": 1718506338,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178856,
+      "num": 178856,
+      "word": "墨雨云间亲夫妻不算账",
+      "onboard_time": 1718512156,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 175244,
@@ -699,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168744,
+      "num": 168744,
+      "word": "邓超开场e得让人害怕",
+      "onboard_time": 1718511256,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166600,
       "num": 141160,
       "word": "天天戴隐形眼镜的人后来怎么样了",
@@ -715,20 +779,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163731,
+      "num": 163731,
+      "word": "西瓜有味能切了表面继续吃吗",
+      "onboard_time": 1718511857,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 162770,
       "num": 162770,
       "word": "张杰配音想对爸爸说的话",
       "onboard_time": 1718507897,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 160581,
-      "num": 160581,
-      "word": "邓超开场e得让人害怕",
-      "onboard_time": 1718511256,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 160291,
@@ -763,22 +827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154901,
-      "num": 154901,
-      "word": "看玫瑰的故事远离恋爱脑",
-      "onboard_time": 1718511197,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 152747,
-      "num": 152747,
-      "word": "父亲用200块供出一个北京校长",
-      "onboard_time": 1718511377,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152622,
       "num": 152622,
       "word": "世界杯",
@@ -795,20 +843,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147604,
+      "num": 147604,
+      "word": "社工考试",
+      "onboard_time": 1718511618,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147088,
       "num": 147088,
       "word": "秦霄贤当着戚薇面唱7",
       "onboard_time": 1718501716,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146772,
-      "num": 146772,
-      "word": "年轻人为什么不爱轻奢了",
-      "onboard_time": 1718511138,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 146343,
@@ -841,6 +889,14 @@
       "onboard_time": 1718500517,
       "rank": 44,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 139937,
+      "num": 139937,
+      "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
+      "onboard_time": 1718512337,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139376,
@@ -1017,14 +1073,6 @@
       "onboard_time": 1718456658,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 113538,
-      "num": 113538,
-      "word": "社工考试",
-      "onboard_time": 1718511618,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 113216,
@@ -1332,7 +1380,7 @@
     },
     {
       "raw_hot": 59074,
-      "num": 839646,
+      "num": 894604,
       "word": "今天向这些父亲致敬",
       "onboard_time": 1718505797,
       "rank": 2,
@@ -1459,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25108,
+      "num": 472052,
+      "word": "不论何时我的爸爸都是最棒的",
+      "onboard_time": 1718511017,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22893,
       "num": 27075,
       "word": "牛津Kate朱朱谈姜萍",
@@ -1484,19 +1540,11 @@
     },
     {
       "raw_hot": 16752,
-      "num": 257591,
+      "num": 262230,
       "word": "古罗马掌管气场的单品",
       "onboard_time": 1718511138,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 16384,
-      "num": 401209,
-      "word": "不论何时我的爸爸都是最棒的",
-      "onboard_time": 1718511017,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15387,

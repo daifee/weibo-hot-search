@@ -1,0 +1,410 @@
+{
+  "runTime": 1718512541414,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1243190,
+        "num": 1243190,
+        "word": "南方医科大学回应教师因救人迟到受处分",
+        "onboard_time": 1718509757,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1183211,
+        "num": 1183211,
+        "word": "杨和苏你歌呢",
+        "onboard_time": 1718511738,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54613,
+        "num": 894604,
+        "word": "今天向这些父亲致敬",
+        "onboard_time": 1718505797,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888349,
+        "num": 888349,
+        "word": "猝死前的5分钟身体经历了什么",
+        "onboard_time": 1718503096,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 609597,
+        "num": 609597,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569841,
+        "num": 569841,
+        "word": "赵露思陈伟霆亲吻路透",
+        "onboard_time": 1718506997,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536080,
+        "num": 536080,
+        "word": "周杰伦ins发了张艺兴",
+        "onboard_time": 1718505558,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 513343,
+        "num": 513343,
+        "word": "杨和苏理想国",
+        "onboard_time": 1718511978,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 495445,
+        "num": 495445,
+        "word": "南方医科大学教师因救死扶伤受处分",
+        "onboard_time": 1718507057,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25108,
+        "num": 472052,
+        "word": "不论何时我的爸爸都是最棒的",
+        "onboard_time": 1718511017,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1549075,
+        "num": 468745,
+        "word": "南方医科大 教师因救人上课迟到被罚",
+        "onboard_time": 1718502317,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451791,
+        "num": 451791,
+        "word": "王星越定风波出妆",
+        "onboard_time": 1718508378,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428190,
+        "num": 428190,
+        "word": "孙卓祝孙海洋父亲节快乐",
+        "onboard_time": 1718510537,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426019,
+        "num": 426019,
+        "word": "父亲节快乐",
+        "onboard_time": 1718493733,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414267,
+        "num": 414267,
+        "word": "警方通报废弃楼发现男尸",
+        "onboard_time": 1718503038,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 409229,
+        "num": 409229,
+        "word": "关晓彤白色古董裙",
+        "onboard_time": 1718510897,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 407843,
+        "num": 407843,
+        "word": "鞠婧祎G社生图",
+        "onboard_time": 1718507837,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394451,
+        "num": 394451,
+        "word": "爸宝女",
+        "onboard_time": 1718510598,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288313,
+        "num": 288313,
+        "word": "宝宝睡上了外公睡过的古董摇摇床",
+        "onboard_time": 1718499016,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277576,
+        "num": 277576,
+        "word": "姜萍",
+        "onboard_time": 1718505857,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14967,
+        "num": 262230,
+        "word": "古罗马掌管气场的单品",
+        "onboard_time": 1718511138,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1278128,
+        "num": 260885,
+        "word": "周也公关",
+        "onboard_time": 1718502796,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 638003,
+        "num": 258737,
+        "word": "赖冠霖说工作室没钱了",
+        "onboard_time": 1718501536,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254415,
+        "num": 254415,
+        "word": "易烊千玺奢牌待遇",
+        "onboard_time": 1718508738,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 250716,
+        "num": 250716,
+        "word": "为什么建议夏天多吃面",
+        "onboard_time": 1718506277,
+        "rank": 24,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 226884,
+        "num": 226884,
+        "word": "父亲用200块供出一个北京校长",
+        "onboard_time": 1718511377,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 995309,
+        "num": 226838,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225964,
+        "num": 225964,
+        "word": "张踩玲的大胖媳妇社死名场面",
+        "onboard_time": 1718510178,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 221369,
+        "num": 221369,
+        "word": "中国风还是吹到了欧洲杯",
+        "onboard_time": 1718511916,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217055,
+        "num": 217055,
+        "word": "TF三代出道战导师",
+        "onboard_time": 1718506156,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205509,
+        "num": 205509,
+        "word": "开空调嫌冷 不开空调嫌热",
+        "onboard_time": 1718502618,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195984,
+        "num": 195984,
+        "word": "年轻人为什么不爱轻奢了",
+        "onboard_time": 1718511138,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190946,
+        "num": 190946,
+        "word": "看玫瑰的故事远离恋爱脑",
+        "onboard_time": 1718511197,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188868,
+        "num": 188868,
+        "word": "张艺谋导演电影版三体",
+        "onboard_time": 1718506517,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178856,
+        "num": 178856,
+        "word": "墨雨云间亲夫妻不算账",
+        "onboard_time": 1718512156,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174199,
+        "num": 174199,
+        "word": "广东一货车当街与复兴号撞上了",
+        "onboard_time": 1718509697,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168744,
+        "num": 168744,
+        "word": "邓超开场e得让人害怕",
+        "onboard_time": 1718511256,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166713,
+        "num": 166713,
+        "word": "Doinb谈Uzi停播",
+        "onboard_time": 1718507417,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163731,
+        "num": 163731,
+        "word": "西瓜有味能切了表面继续吃吗",
+        "onboard_time": 1718511857,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 158569,
+        "num": 158569,
+        "word": "爸爸发了他人生中第一条朋友圈",
+        "onboard_time": 1718509217,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152606,
+        "num": 152606,
+        "word": "哈妮克孜人生镜头",
+        "onboard_time": 1718510838,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147604,
+        "num": 147604,
+        "word": "社工考试",
+        "onboard_time": 1718511618,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 147298,
+        "num": 147298,
+        "word": "长沙初三少年与姜萍一同入围数学决赛",
+        "onboard_time": 1718509637,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141636,
+        "num": 141636,
+        "word": "村民称姜萍选择涟水中专有2个原因",
+        "onboard_time": 1718507177,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140819,
+        "num": 140819,
+        "word": "专四",
+        "onboard_time": 1718506697,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 139937,
+        "num": 139937,
+        "word": "姜萍姐姐刚高考完趁着暑假连打3份工",
+        "onboard_time": 1718512337,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137342,
+        "num": 137342,
+        "word": "张杰配音想对爸爸说的话",
+        "onboard_time": 1718507897,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130524,
+        "num": 130524,
+        "word": "微博电影之夜",
+        "onboard_time": 1718510297,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124051,
+        "num": 124051,
+        "word": "2024上半年黑马剧",
+        "onboard_time": 1718509518,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118656,
+        "num": 118656,
+        "word": "专四答案",
+        "onboard_time": 1718507537,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}
