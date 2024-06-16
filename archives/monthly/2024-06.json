@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718547409690,
+  "endTime": 1718548458754,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1883,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1257993,
+      "num": 1257993,
+      "word": "冒烤鸭店铺正在批量倒闭",
+      "onboard_time": 1718543599,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1257034,
       "num": 424818,
       "word": "苹果 安卓味",
@@ -1980,7 +1988,7 @@
     },
     {
       "raw_hot": 1237781,
-      "num": 1010284,
+      "num": 1175524,
       "word": "刘浩存周也终于认识了",
       "onboard_time": 1718541678,
       "rank": 20,
@@ -2849,6 +2857,14 @@
       "onboard_time": 1718331318,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1025086,
+      "num": 1025086,
+      "word": "倪妮 说人话吗",
+      "onboard_time": 1718544859,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1025048,
@@ -3752,6 +3768,14 @@
       "word": "韩媒预计大批中国球迷赴韩助威",
       "onboard_time": 1718096959,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 858145,
+      "num": 858145,
+      "word": "中国女排4连胜",
+      "onboard_time": 1718546179,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -5300,7 +5324,7 @@
     },
     {
       "raw_hot": 696171,
-      "num": 381700,
+      "num": 494562,
       "word": "优酷 排播",
       "onboard_time": 1718543718,
       "rank": 32,
@@ -5865,6 +5889,14 @@
       "onboard_time": 1717283293,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660782,
+      "num": 660782,
+      "word": "庄国栋 方协文",
+      "onboard_time": 1718545219,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 660472,
@@ -7947,6 +7979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 534177,
+      "num": 534177,
+      "word": "惠若琪哭了",
+      "onboard_time": 1718547079,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534158,
       "num": 534158,
       "word": "月薪三千五一顿饭不超过五块",
@@ -8284,7 +8324,7 @@
     },
     {
       "raw_hot": 520563,
-      "num": 380876,
+      "num": 392673,
       "word": "不结婚的年轻人重伤糖果业",
       "onboard_time": 1718534178,
       "rank": 20,
@@ -9819,6 +9859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458442,
+      "num": 458442,
+      "word": "讨厌方协文",
+      "onboard_time": 1718544679,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 458340,
       "num": 379890,
       "word": "王媛媛神级发挥",
@@ -11083,12 +11131,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 417811,
+      "num": 274032,
+      "word": "张艺兴 过了12年你看谁屹立不倒",
+      "onboard_time": 1718546000,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 417543,
       "num": 222878,
       "word": "黄宣 好听",
       "onboard_time": 1718371403,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417254,
+      "num": 381288,
+      "word": "性感姬发 在线发牌",
+      "onboard_time": 1718542819,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 417159,
@@ -11169,14 +11233,6 @@
       "onboard_time": 1717251079,
       "rank": 37,
       "category": "科学科普,健康医疗"
-    },
-    {
-      "raw_hot": 415030,
-      "num": 381288,
-      "word": "性感姬发 在线发牌",
-      "onboard_time": 1718542819,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 414953,
@@ -15707,14 +15763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 293534,
-      "num": 335266,
-      "word": "冒烤鸭店铺正在批量倒闭",
-      "onboard_time": 1718543599,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293256,
       "num": 188228,
       "word": "网传杨紫将缺席白玉兰",
@@ -16123,6 +16171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286427,
+      "num": 271912,
+      "word": "孙燕姿 音乐节",
+      "onboard_time": 1718548100,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286134,
       "num": 286134,
       "word": "杨舒予太牛了",
@@ -16371,6 +16427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279693,
+      "num": 270814,
+      "word": "肖战一天逛了两个艺术馆",
+      "onboard_time": 1718547139,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279186,
       "num": 272431,
       "word": "为什么建议夏天多吃面",
@@ -16417,6 +16481,14 @@
       "onboard_time": 1717164626,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278400,
+      "num": 278400,
+      "word": "央视曝光乳胶床品造假乱象",
+      "onboard_time": 1718545880,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278283,
@@ -17001,6 +17073,14 @@
       "onboard_time": 1717837038,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270032,
+      "num": 270032,
+      "word": "sana好美",
+      "onboard_time": 1718545157,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269923,
@@ -18059,6 +18139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250306,
+      "num": 195074,
+      "word": "张碧晨 再见李可乐",
+      "onboard_time": 1718546300,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250267,
       "num": 250267,
       "word": "魔卡少女樱 小樱初设形象",
@@ -18153,6 +18241,14 @@
       "onboard_time": 1718177480,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248617,
+      "num": 190456,
+      "word": "王一博 微博比我更热",
+      "onboard_time": 1718548279,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 248415,
@@ -22179,14 +22275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 204311,
-      "num": 186090,
-      "word": "讨厌方协文",
-      "onboard_time": 1718544679,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 204303,
       "num": 204303,
       "word": "EDG对战JDG",
@@ -24427,6 +24515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191020,
+      "num": 191020,
+      "word": "勒芒",
+      "onboard_time": 1718547560,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190969,
       "num": 170118,
       "word": "惠若琪说香港站就能看出名单了",
@@ -24705,6 +24801,14 @@
       "onboard_time": 1717591158,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189337,
+      "num": 189337,
+      "word": "十二星座的反差感",
+      "onboard_time": 1718546659,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 189318,
@@ -26553,6 +26657,14 @@
       "onboard_time": 1717905198,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176841,
+      "num": 176841,
+      "word": "中国女排香港站全胜收官",
+      "onboard_time": 1718546841,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 176716,
@@ -34331,6 +34443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132269,
+      "num": 132269,
+      "word": "中国女排奥运分档",
+      "onboard_time": 1718545820,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132244,
       "num": 132244,
       "word": "武磊中韩战替补",
@@ -34625,6 +34745,14 @@
       "onboard_time": 1717478298,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 130716,
+      "num": 130716,
+      "word": "BL传奇杯夺冠",
+      "onboard_time": 1718548339,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 130655,
@@ -37403,6 +37531,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 116176,
+      "num": 130692,
+      "word": "半场荷兰1比1波兰",
+      "onboard_time": 1718547019,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116147,
       "num": 116147,
       "word": "薛姐这一刀",
@@ -38521,6 +38657,22 @@
       "onboard_time": 1718274977,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110331,
+      "num": 130675,
+      "word": "传奇杯",
+      "onboard_time": 1718548398,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110291,
+      "num": 130649,
+      "word": "狼队战胜DYG",
+      "onboard_time": 1718547379,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 110229,
@@ -43923,6 +44075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51306,
+      "num": 195622,
+      "word": "王一博镶钻胸针",
+      "onboard_time": 1718545700,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 50892,
       "num": 1052154,
       "word": "晒一晒你和爸爸的合影",
@@ -44619,6 +44779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 42291,
+      "num": 208299,
+      "word": "王俊凯大鹏三连拍",
+      "onboard_time": 1718547499,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42170,
       "num": 302430,
       "word": "兄妹俩高考后到工地帮妈妈安门窗",
@@ -44921,6 +45089,14 @@
       "onboard_time": 1718040073,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39595,
+      "num": 365156,
+      "word": "尼格买提的合拍搭子",
+      "onboard_time": 1718546598,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 39167,
@@ -45923,6 +46099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28193,
+      "num": 667401,
+      "word": "新手医生收获锦旗开心到手舞足蹈",
+      "onboard_time": 1718547979,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28140,
       "num": 39129,
       "word": "白敬亭上身肌肉线条",
@@ -45937,6 +46121,14 @@
       "onboard_time": 1717857019,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27887,
+      "num": 278077,
+      "word": "微博电影之夜追星神器",
+      "onboard_time": 1718546720,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 27777,

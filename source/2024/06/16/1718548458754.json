@@ -1,0 +1,410 @@
+{
+  "runTime": 1718548458754,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257993,
+        "num": 1257993,
+        "word": "冒烤鸭店铺正在批量倒闭",
+        "onboard_time": 1718543599,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1175524,
+        "num": 1175524,
+        "word": "刘浩存周也终于认识了",
+        "onboard_time": 1718541678,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32599,
+        "num": 1034722,
+        "word": "中国式现代化的万千气象",
+        "onboard_time": 1718542277,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025086,
+        "num": 1025086,
+        "word": "倪妮 说人话吗",
+        "onboard_time": 1718544859,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 926583,
+        "num": 926583,
+        "word": "猝死前一个月身体就有症状",
+        "onboard_time": 1718537597,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 858145,
+        "num": 858145,
+        "word": "中国女排4连胜",
+        "onboard_time": 1718546179,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 924036,
+        "num": 840198,
+        "word": "王一博 不化妆",
+        "onboard_time": 1718529258,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 896806,
+        "num": 832960,
+        "word": "墨雨云间 减更",
+        "onboard_time": 1718540658,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 716890,
+        "num": 716890,
+        "word": "12306回应网友建议实行男女分车厢",
+        "onboard_time": 1718538378,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28193,
+        "num": 667401,
+        "word": "新手医生收获锦旗开心到手舞足蹈",
+        "onboard_time": 1718547979,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 660782,
+        "num": 660782,
+        "word": "庄国栋 方协文",
+        "onboard_time": 1718545219,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581132,
+        "num": 581132,
+        "word": "邓超被架走",
+        "onboard_time": 1718537419,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 534177,
+        "num": 534177,
+        "word": "惠若琪哭了",
+        "onboard_time": 1718547079,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494562,
+        "num": 494562,
+        "word": "优酷 排播",
+        "onboard_time": 1718543718,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458442,
+        "num": 458442,
+        "word": "讨厌方协文",
+        "onboard_time": 1718544679,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405462,
+        "num": 405462,
+        "word": "龚翔宇哭了",
+        "onboard_time": 1718543240,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392673,
+        "num": 392673,
+        "word": "不结婚的年轻人重伤糖果业",
+        "onboard_time": 1718534178,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39595,
+        "num": 365156,
+        "word": "尼格买提的合拍搭子",
+        "onboard_time": 1718546598,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351584,
+        "num": 351584,
+        "word": "太原理工晋级",
+        "onboard_time": 1718543659,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278400,
+        "num": 278400,
+        "word": "央视曝光乳胶床品造假乱象",
+        "onboard_time": 1718545880,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27887,
+        "num": 278077,
+        "word": "微博电影之夜追星神器",
+        "onboard_time": 1718546720,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1093215,
+        "num": 276874,
+        "word": "妻子出轨后要离婚被丈夫打伤身亡",
+        "onboard_time": 1718541379,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487343,
+        "num": 275671,
+        "word": "丁真居然白了",
+        "onboard_time": 1718533399,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417811,
+        "num": 274032,
+        "word": "张艺兴 过了12年你看谁屹立不倒",
+        "onboard_time": 1718546000,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 417254,
+        "num": 272637,
+        "word": "性感姬发 在线发牌",
+        "onboard_time": 1718542819,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286427,
+        "num": 271912,
+        "word": "孙燕姿 音乐节",
+        "onboard_time": 1718548100,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 279693,
+        "num": 270814,
+        "word": "肖战一天逛了两个艺术馆",
+        "onboard_time": 1718547139,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270032,
+        "num": 270032,
+        "word": "sana好美",
+        "onboard_time": 1718545157,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237966,
+        "num": 237966,
+        "word": "波兰vs荷兰",
+        "onboard_time": 1718543060,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234941,
+        "num": 234941,
+        "word": "欧洲杯",
+        "onboard_time": 1718543899,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42291,
+        "num": 208299,
+        "word": "王俊凯大鹏三连拍",
+        "onboard_time": 1718547499,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51306,
+        "num": 195622,
+        "word": "王一博镶钻胸针",
+        "onboard_time": 1718545700,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250306,
+        "num": 195074,
+        "word": "张碧晨 再见李可乐",
+        "onboard_time": 1718546300,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192504,
+        "num": 192504,
+        "word": "中国女排vs波兰女排",
+        "onboard_time": 1718541678,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191020,
+        "num": 191020,
+        "word": "勒芒",
+        "onboard_time": 1718547560,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251916,
+        "num": 190893,
+        "word": "王俊凯刘昊然同框",
+        "onboard_time": 1718542459,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248617,
+        "num": 190456,
+        "word": "王一博 微博比我更热",
+        "onboard_time": 1718548279,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219592,
+        "num": 190034,
+        "word": "墨雨云间",
+        "onboard_time": 1718543119,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189337,
+        "num": 189337,
+        "word": "十二星座的反差感",
+        "onboard_time": 1718546659,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176841,
+        "num": 176841,
+        "word": "中国女排香港站全胜收官",
+        "onboard_time": 1718546841,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204719,
+        "num": 176267,
+        "word": "庆余年 二皇子",
+        "onboard_time": 1718533637,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174380,
+        "num": 174380,
+        "word": "姜萍数学老师王闰秋发声",
+        "onboard_time": 1718540118,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169051,
+        "num": 169051,
+        "word": "逼出体内湿气的方法",
+        "onboard_time": 1718536277,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147077,
+        "num": 147077,
+        "word": "中国女排真棒",
+        "onboard_time": 1718544500,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136258,
+        "num": 136258,
+        "word": "2岁女儿一直以为爸爸住在监控里",
+        "onboard_time": 1718530100,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132269,
+        "num": 132269,
+        "word": "中国女排奥运分档",
+        "onboard_time": 1718545820,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130716,
+        "num": 130716,
+        "word": "BL传奇杯夺冠",
+        "onboard_time": 1718548339,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116176,
+        "num": 130692,
+        "word": "半场荷兰1比1波兰",
+        "onboard_time": 1718547019,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110331,
+        "num": 130675,
+        "word": "传奇杯",
+        "onboard_time": 1718548398,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110291,
+        "num": 130649,
+        "word": "狼队战胜DYG",
+        "onboard_time": 1718547379,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#深深父子情拳拳公仆心#"
+    }
+  }
+}
