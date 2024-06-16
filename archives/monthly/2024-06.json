@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718530533490,
+  "endTime": 1718533184046,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2291,6 +2291,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1139762,
+      "num": 641826,
+      "word": "胡歌质问腾讯视频",
+      "onboard_time": 1718529798,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1138410,
       "num": 304288,
       "word": "千万别一边充电一边玩手机",
@@ -3073,6 +3081,14 @@
       "onboard_time": 1717422500,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 957737,
+      "num": 957737,
+      "word": "南医大被罚老师所授课为留学生项目",
+      "onboard_time": 1718529078,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 955590,
@@ -7163,6 +7179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 572714,
+      "num": 572714,
+      "word": "2岁女儿一直以为爸爸住在监控里",
+      "onboard_time": 1718530100,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 572322,
       "num": 572322,
       "word": "揭榜歌手疑似曾一鸣",
@@ -10307,6 +10331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438041,
+      "num": 264865,
+      "word": "王一博 我要戴手环吗",
+      "onboard_time": 1718530939,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 437834,
       "num": 274597,
       "word": "60块买的土狗越来越洋气了",
@@ -10971,6 +11003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415982,
+      "num": 211535,
+      "word": "孙千裸背",
+      "onboard_time": 1718529617,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415448,
       "num": 415448,
       "word": "原来腰突了还可以回去",
@@ -11009,14 +11049,6 @@
       "onboard_time": 1717465816,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 414168,
-      "num": 282459,
-      "word": "胡歌质问腾讯视频",
-      "onboard_time": 1718529798,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 413914,
@@ -12379,6 +12411,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 368896,
+      "num": 262825,
+      "word": "娜扎太瘦了",
+      "onboard_time": 1718532018,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 368667,
       "num": 317035,
       "word": "高考下一章 墨雨云间",
@@ -13331,6 +13371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342034,
+      "num": 262085,
+      "word": "赵丽颖出场哇声一片",
+      "onboard_time": 1718531777,
+      "rank": 13,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 341696,
       "num": 341696,
       "word": "于适新电影",
@@ -13649,6 +13697,14 @@
       "onboard_time": 1717334660,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334031,
+      "num": 202715,
+      "word": "章子怡压轴",
+      "onboard_time": 1718532498,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 333952,
@@ -14219,14 +14275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320440,
-      "num": 320440,
-      "word": "南医大被罚老师所授课为留学生项目",
-      "onboard_time": 1718529078,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320381,
       "num": 320381,
       "word": "汪苏泷王心凌甜妹合体",
@@ -14649,14 +14697,6 @@
       "onboard_time": 1717427599,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308887,
-      "num": 211535,
-      "word": "孙千裸背",
-      "onboard_time": 1718529617,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 308882,
@@ -21099,14 +21139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208553,
-      "num": 208553,
-      "word": "2岁女儿一直以为爸爸住在监控里",
-      "onboard_time": 1718530100,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208454,
       "num": 338386,
       "word": "被高考考场外的阿sir帅到了",
@@ -22755,6 +22787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198500,
+      "num": 198500,
+      "word": "林俊杰贵阳",
+      "onboard_time": 1718532258,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198496,
       "num": 169806,
       "word": "毕业歌会",
@@ -23265,6 +23305,14 @@
       "onboard_time": 1717806916,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195711,
+      "num": 195711,
+      "word": "安陵容之父安比槐",
+      "onboard_time": 1718532018,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 195690,
@@ -23896,6 +23944,14 @@
       "word": "黄亦玫方协文女王训狗",
       "onboard_time": 1718513896,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191880,
+      "num": 191880,
+      "word": "墨雨云间开虐",
+      "onboard_time": 1718530100,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -25435,6 +25491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180955,
+      "num": 180955,
+      "word": "刘昊然真的帅回来了",
+      "onboard_time": 1718532798,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 180822,
       "num": 180822,
       "word": "父亲节祝福",
@@ -26777,6 +26841,14 @@
       "onboard_time": 1718425939,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171949,
+      "num": 171949,
+      "word": "姜萍走红后有企业给姜父送钱",
+      "onboard_time": 1718531359,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171926,
@@ -28403,14 +28475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161830,
-      "num": 161830,
-      "word": "墨雨云间开虐",
-      "onboard_time": 1718530100,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161805,
       "num": 161805,
       "word": "粉丝不满金玟庭新综艺",
@@ -29185,6 +29249,14 @@
       "onboard_time": 1718160618,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157808,
+      "num": 157808,
+      "word": "考六级把准考证打印成去年的了",
+      "onboard_time": 1718531839,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 157794,
@@ -33451,6 +33523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134328,
+      "num": 134328,
+      "word": "GEN对战T1",
+      "onboard_time": 1718531718,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134303,
       "num": 134303,
       "word": "欧洲杯意大利",
@@ -34697,6 +34777,14 @@
       "onboard_time": 1717306757,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127274,
+      "num": 127274,
+      "word": "南方医科大学工作人员发声",
+      "onboard_time": 1718530698,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127248,
@@ -37091,6 +37179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115099,
+      "num": 115099,
+      "word": "RA对战LNG",
+      "onboard_time": 1718533159,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115064,
       "num": 115064,
       "word": "张远徐良近大远小",
@@ -38633,6 +38729,14 @@
       "onboard_time": 1718084358,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105783,
+      "num": 105783,
+      "word": "上海中考数学",
+      "onboard_time": 1718532558,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 105740,
@@ -40201,6 +40305,14 @@
       "onboard_time": 1717689317,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88763,
+      "num": 201801,
+      "word": "数学特别好的人大脑都有这些特点",
+      "onboard_time": 1718533098,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 88679,
@@ -44251,6 +44363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 39019,
+      "num": 206515,
+      "word": "黄曦彦腹肌",
+      "onboard_time": 1718530519,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38999,
       "num": 371245,
       "word": "姜萍老师说想尽自己所能做领路人",
@@ -44395,6 +44515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37802,
+      "num": 105475,
+      "word": "微博电影之夜红毯生图",
+      "onboard_time": 1718533159,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 37767,
       "num": 717411,
       "word": "一组数据看中国非遗有多火",
@@ -44417,6 +44545,14 @@
       "onboard_time": 1718493133,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37160,
+      "num": 205507,
+      "word": "今晚陪爸爸看场球",
+      "onboard_time": 1718532320,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 37131,
@@ -45089,6 +45225,14 @@
       "onboard_time": 1718418677,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29309,
+      "num": 204250,
+      "word": "167人多等29分钟却跑赢了生命接力",
+      "onboard_time": 1718530457,
+      "rank": 29,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 29294,
@@ -46073,14 +46217,6 @@
       "onboard_time": 1717531271,
       "rank": 43,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 15301,
-      "num": 204250,
-      "word": "167人多等29分钟却跑赢了生命接力",
-      "onboard_time": 1718530457,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 15187,
