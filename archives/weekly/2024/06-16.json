@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718563047177,
+  "endTime": 1718565435391,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -3227,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57567,
+      "num": 46445,
+      "word": "一部被所有电影节拒收的电影",
+      "onboard_time": 1718560453,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57175,
       "num": 59475,
       "word": "排球少年电影",
@@ -3289,14 +3297,6 @@
       "onboard_time": 1718505076,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50765,
-      "num": 46445,
-      "word": "一部被所有电影节拒收的电影",
-      "onboard_time": 1718560453,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 50494,
