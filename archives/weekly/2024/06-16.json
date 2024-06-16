@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718533184046,
+  "endTime": 1718534172511,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1139762,
-      "num": 641826,
+      "num": 656736,
       "word": "胡歌质问腾讯视频",
       "onboard_time": 1718529798,
       "rank": 13,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012730,
+      "num": 1012730,
+      "word": "南医大被罚老师所授课为留学生项目",
+      "onboard_time": 1718529078,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 992969,
       "num": 992969,
       "word": "女子长期乏力全家查出吸血鬼病基因",
@@ -147,14 +155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 957737,
-      "num": 957737,
-      "word": "南医大被罚老师所授课为留学生项目",
-      "onboard_time": 1718529078,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 850331,
       "num": 850331,
       "word": "姜萍妈妈首发声",
@@ -169,6 +169,14 @@
       "onboard_time": 1718516177,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 787474,
+      "num": 251281,
+      "word": "丁真居然白了",
+      "onboard_time": 1718533399,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 745434,
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 596873,
+      "num": 596873,
+      "word": "2岁女儿一直以为爸爸住在监控里",
+      "onboard_time": 1718530100,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 593000,
       "num": 593000,
       "word": "美军对中国新冠疫苗发动认知作战",
@@ -307,19 +323,19 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 592010,
+      "num": 290535,
+      "word": "章子怡压轴",
+      "onboard_time": 1718532498,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 576910,
       "num": 576910,
       "word": "机场回应疑似外国人起飞时偷拍",
       "onboard_time": 1718516538,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572714,
-      "num": 572714,
-      "word": "2岁女儿一直以为爸爸住在监控里",
-      "onboard_time": 1718530100,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -619,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371934,
+      "num": 262085,
+      "word": "赵丽颖出场哇声一片",
+      "onboard_time": 1718531777,
+      "rank": 13,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 371358,
       "num": 176215,
       "word": "向佐父亲节晒三代人父子合照",
@@ -667,14 +691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 342034,
-      "num": 262085,
-      "word": "赵丽颖出场哇声一片",
-      "onboard_time": 1718531777,
-      "rank": 13,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 341258,
       "num": 341258,
       "word": "父亲节宜炫父",
@@ -689,14 +705,6 @@
       "onboard_time": 1718480771,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334031,
-      "num": 202715,
-      "word": "章子怡压轴",
-      "onboard_time": 1718532498,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 328626,
@@ -1011,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209710,
+      "num": 183793,
+      "word": "刘昊然真的帅回来了",
+      "onboard_time": 1718532798,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209597,
       "num": 150393,
       "word": "月经不规律其实是身体在求救",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1718532258,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198226,
+      "num": 191880,
+      "word": "墨雨云间开虐",
+      "onboard_time": 1718530100,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 198001,
@@ -1171,14 +1195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191880,
-      "num": 191880,
-      "word": "墨雨云间开虐",
-      "onboard_time": 1718530100,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190946,
       "num": 190946,
       "word": "看玫瑰的故事远离恋爱脑",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1718495595,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180955,
-      "num": 180955,
-      "word": "刘昊然真的帅回来了",
-      "onboard_time": 1718532798,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 180822,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1718444840,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 169839,
+      "num": 169839,
+      "word": "只有山西人知道孙丞潇骂的很脏",
+      "onboard_time": 1718533818,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 169802,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1718509637,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160001,
+      "num": 128428,
+      "word": "倪妮工作室出图",
+      "onboard_time": 1718533098,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 159917,
@@ -1707,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128712,
+      "num": 128712,
+      "word": "南方医科大学工作人员发声",
+      "onboard_time": 1718530698,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128235,
       "num": 128235,
       "word": "会长是女仆大人 双强情侣",
@@ -1739,12 +1771,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 127274,
-      "num": 127274,
-      "word": "南方医科大学工作人员发声",
-      "onboard_time": 1718530698,
+      "raw_hot": 127359,
+      "num": 127359,
+      "word": "微博电影之夜 任务",
+      "onboard_time": 1718534119,
       "rank": 43,
-      "category": "社会新闻"
+      "category": "电影"
     },
     {
       "raw_hot": 126524,
@@ -1803,6 +1835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124779,
+      "num": 124779,
+      "word": "RW对战TTG",
+      "onboard_time": 1718533937,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124725,
       "num": 124725,
       "word": "波兰vs荷兰",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1718523317,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119613,
+      "num": 125743,
+      "word": "RA对战LNG",
+      "onboard_time": 1718533159,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 117949,
@@ -1867,14 +1915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115099,
-      "num": 115099,
-      "word": "RA对战LNG",
-      "onboard_time": 1718533159,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 115042,
       "num": 115042,
       "word": "中国女排今晚迎战波兰女排",
@@ -1913,6 +1953,14 @@
       "onboard_time": 1718518997,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111078,
+      "num": 111078,
+      "word": "庆余年 二皇子",
+      "onboard_time": 1718533637,
+      "rank": 48,
+      "category": "动漫"
     },
     {
       "raw_hot": 110900,
@@ -2035,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98060,
+      "num": 266802,
+      "word": "数学特别好的人大脑都有这些特点",
+      "onboard_time": 1718533098,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 97242,
       "num": 125015,
       "word": "六级答案",
@@ -2097,14 +2153,6 @@
       "onboard_time": 1718529617,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 88763,
-      "num": 201801,
-      "word": "数学特别好的人大脑都有这些特点",
-      "onboard_time": 1718533098,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 88521,
@@ -2363,12 +2411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46578,
+      "num": 206515,
+      "word": "黄曦彦腹肌",
+      "onboard_time": 1718530519,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46576,
       "num": 43978,
       "word": "张杰演唱会上集齐龙",
       "onboard_time": 1718474653,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 46265,
+      "num": 193086,
+      "word": "微博电影之夜红毯生图",
+      "onboard_time": 1718533159,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 44041,
@@ -2417,22 +2481,6 @@
       "onboard_time": 1718488030,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 39019,
-      "num": 206515,
-      "word": "黄曦彦腹肌",
-      "onboard_time": 1718530519,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 37802,
-      "num": 105475,
-      "word": "微博电影之夜红毯生图",
-      "onboard_time": 1718533159,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 37338,

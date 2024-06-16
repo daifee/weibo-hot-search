@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/16 18:19:44
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/16 18:36:12
 </p>
 </blockquote>
 <p>
@@ -2169,6 +2169,12 @@ iPhone有通话录音了（热度：1060619）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%BB%E5%A4%A7%E8%A2%AB%E7%BD%9A%E8%80%81%E5%B8%88%E6%89%80%E6%8E%88%E8%AF%BE%E4%B8%BA%E7%95%99%E5%AD%A6%E7%94%9F%E9%A1%B9%E7%9B%AE%23" target="weibo">
+南医大被罚老师所授课为留学生项目（热度：1012730）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%8D%B7%E8%8B%B1%E8%AF%AD%20%E9%9A%BE%23" target="weibo">
 新一卷英语 难（热度：1011013）
 </a>
@@ -2321,12 +2327,6 @@ iPhone有通话录音了（热度：1060619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%943%E6%88%98%E8%83%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 樊振东4比3战胜王楚钦（热度：959395）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%BB%E5%A4%A7%E8%A2%AB%E7%BD%9A%E8%80%81%E5%B8%88%E6%89%80%E6%8E%88%E8%AF%BE%E4%B8%BA%E7%95%99%E5%AD%A6%E7%94%9F%E9%A1%B9%E7%9B%AE%23" target="weibo">
-南医大被罚老师所授课为留学生项目（热度：957737）
 </a>
 </li>
 
@@ -3119,6 +3119,12 @@ canteen我恨你（热度：798300）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%23" target="weibo">
 中国女排3比0泰国女排（热度：788220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%9C%9F%E5%B1%85%E7%84%B6%E7%99%BD%E4%BA%86%23" target="weibo">
+丁真居然白了（热度：787474）
 </a>
 </li>
 
@@ -5049,6 +5055,12 @@ FPX小老虎不打了（热度：601555）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E7%88%B8%E7%88%B8%E4%BD%8F%E5%9C%A8%E7%9B%91%E6%8E%A7%E9%87%8C%23" target="weibo">
+2岁女儿一直以为爸爸住在监控里（热度：596873）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E6%97%A9%E9%A5%AD%E8%8A%B150%E6%99%9A%E9%A5%AD%E8%8A%B12000%23" target="weibo">
 谁家早饭花50晚饭花2000（热度：596764）
 </a>
@@ -5141,6 +5153,12 @@ TFBOYS十周年蛋糕塌的三四层（热度：593133）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E4%B8%8B%E8%A1%A3%E5%A4%B1%E8%B8%AA%23" target="weibo">
 金晨下衣失踪（热度：592113）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%8E%8B%E8%BD%B4%23" target="weibo">
+章子怡压轴（热度：592010）
 </a>
 </li>
 
@@ -5393,12 +5411,6 @@ TFBOYS十周年蛋糕塌的三四层（热度：593133）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9E%97%E6%9B%B4%E6%96%B0%E8%84%B8%E9%A2%8A%E5%90%BB%23" target="weibo">
 刘亦菲林更新脸颊吻（热度：573278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E7%88%B8%E7%88%B8%E4%BD%8F%E5%9C%A8%E7%9B%91%E6%8E%A7%E9%87%8C%23" target="weibo">
-2岁女儿一直以为爸爸住在监控里（热度：572714）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ NBA总决赛（热度：540563）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E5%81%87%E7%88%B9%E4%B9%9F%E6%9C%89%E7%9C%9F%E6%83%85%23" target="weibo">
 墨雨云间假爹也有真情（热度：526530）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%A2%AB%E6%9B%9D%E5%9C%A8%E5%A4%9A%E5%AE%B6%E5%84%BF%E7%AB%A5%E6%9C%BA%E6%9E%84%E6%80%A7%E4%BE%B5%E5%A5%B3%E7%AB%A5%23" target="weibo">
-日本男子被曝在多家儿童机构性侵女童（热度：526407）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E6%AD%A3%E5%9C%A8%E7%96%AF%E7%8B%82%E5%BB%BA%E5%A4%A7%E5%AD%A6%23" target="weibo">
-中国第一大省正在疯狂建大学（热度：525943）
 </a>
 </li>
 
