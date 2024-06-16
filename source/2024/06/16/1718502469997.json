@@ -1,0 +1,410 @@
+{
+  "runTime": 1718502469997,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360390,
+        "num": 1360390,
+        "word": "父亲节",
+        "onboard_time": 1718469016,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743006,
+        "num": 743006,
+        "word": "父亲节快乐",
+        "onboard_time": 1718493733,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94733,
+        "num": 547976,
+        "word": "一句话表白老爸",
+        "onboard_time": 1718458938,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541842,
+        "num": 541842,
+        "word": "周深在成都吃了蚊子刺身",
+        "onboard_time": 1718494873,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 373920,
+        "num": 373920,
+        "word": "凯特王妃",
+        "onboard_time": 1718499377,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 731191,
+        "num": 353894,
+        "word": "周也 已老实求放过",
+        "onboard_time": 1718454317,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470872,
+        "num": 349022,
+        "word": "邓超终于上了影帝大号",
+        "onboard_time": 1718470335,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330881,
+        "num": 330881,
+        "word": "外媒镜头下的易烊千玺生图",
+        "onboard_time": 1718493733,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311538,
+        "num": 311538,
+        "word": "女子长期乏力全家查出吸血鬼病基因",
+        "onboard_time": 1718459418,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156749,
+        "num": 271746,
+        "word": "记者暗访广州假货市场",
+        "onboard_time": 1718500037,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483120,
+        "num": 269593,
+        "word": "赖冠霖说工作室没钱了",
+        "onboard_time": 1718501536,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254501,
+        "num": 254501,
+        "word": "当事人回应在高考后订婚",
+        "onboard_time": 1718480771,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253773,
+        "num": 253773,
+        "word": "父亲节宜炫父",
+        "onboard_time": 1718496615,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252016,
+        "num": 252016,
+        "word": "宝宝睡上了外公睡过的古董摇摇床",
+        "onboard_time": 1718499016,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239476,
+        "num": 239476,
+        "word": "刘亦菲泳池戏",
+        "onboard_time": 1718501777,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236714,
+        "num": 236714,
+        "word": "雌激素降低确实会催人老",
+        "onboard_time": 1718463019,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 209576,
+        "num": 209576,
+        "word": "莫德里奇老了",
+        "onboard_time": 1718497216,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187179,
+        "num": 187179,
+        "word": "张艺兴看急诊",
+        "onboard_time": 1718497034,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175244,
+        "num": 175244,
+        "word": "汪苏泷音乐节",
+        "onboard_time": 1718499977,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175151,
+        "num": 175151,
+        "word": "父亲节文案",
+        "onboard_time": 1718494095,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 499629,
+        "num": 173312,
+        "word": "韩国人正在拒绝晋升",
+        "onboard_time": 1718496915,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395282,
+        "num": 169871,
+        "word": "大一男生39天减重20斤后猝死家属发声",
+        "onboard_time": 1718496255,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371358,
+        "num": 167499,
+        "word": "向佐父亲节晒三代人父子合照",
+        "onboard_time": 1718499856,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332376,
+        "num": 163407,
+        "word": "考上编制好朋友把我删了",
+        "onboard_time": 1718493973,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199744,
+        "num": 159526,
+        "word": "怎么让一个成年人九点半就睡觉",
+        "onboard_time": 1718496615,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158161,
+        "num": 158161,
+        "word": "欧洲杯历史最快进球",
+        "onboard_time": 1718493495,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157897,
+        "num": 157897,
+        "word": "吴谨言上了郝蕾表演课后逆袭",
+        "onboard_time": 1718471475,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157265,
+        "num": 157265,
+        "word": "内蒙古一停工写字楼内发现遗体",
+        "onboard_time": 1718495595,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147088,
+        "num": 147088,
+        "word": "秦霄贤当着戚薇面唱7",
+        "onboard_time": 1718501716,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140388,
+        "num": 146996,
+        "word": "加沙难民自称像行尸走肉一样",
+        "onboard_time": 1718500517,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 146928,
+        "num": 146928,
+        "word": "你好星期六下周有丁程鑫敖子逸",
+        "onboard_time": 1718498475,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145629,
+        "num": 145629,
+        "word": "月经不规律其实是身体在求救",
+        "onboard_time": 1718494934,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141160,
+        "num": 141160,
+        "word": "天天戴隐形眼镜的人后来怎么样了",
+        "onboard_time": 1718495834,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128956,
+        "num": 128956,
+        "word": "外卖小哥回应酷似易烊千玺",
+        "onboard_time": 1718479631,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127268,
+        "num": 127268,
+        "word": "邓紫棋哭得差点唱不下去",
+        "onboard_time": 1718494754,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126524,
+        "num": 126524,
+        "word": "爸爸最擅长的技能是爱我",
+        "onboard_time": 1718501956,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123504,
+        "num": 123504,
+        "word": "10元手冲咖啡阿姨回应不火了",
+        "onboard_time": 1718456418,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121714,
+        "num": 121714,
+        "word": "欧洲杯意大利",
+        "onboard_time": 1718493252,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118538,
+        "num": 118538,
+        "word": "欧洲杯",
+        "onboard_time": 1718453357,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116366,
+        "num": 116366,
+        "word": "刘些宁回应演恶女",
+        "onboard_time": 1718499496,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116298,
+        "num": 116298,
+        "word": "姜萍火了不必过度强调其中专生身份",
+        "onboard_time": 1718491992,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116174,
+        "num": 116174,
+        "word": "南方医科大学",
+        "onboard_time": 1718502317,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110465,
+        "num": 110465,
+        "word": "男孩的儿童节愿望在父亲节前实现了",
+        "onboard_time": 1718493612,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108356,
+        "num": 108356,
+        "word": "王星越 想谈系",
+        "onboard_time": 1718460379,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107970,
+        "num": 107970,
+        "word": "保持饥饿感有助于延缓衰老",
+        "onboard_time": 1718467577,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 103701,
+        "num": 103701,
+        "word": "一年一度的炫父大赛",
+        "onboard_time": 1718502256,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97928,
+        "num": 97928,
+        "word": "莫德里奇反驳姆巴佩",
+        "onboard_time": 1718495955,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90434,
+        "num": 90434,
+        "word": "给500块的公猫找了个2000块的老婆",
+        "onboard_time": 1718495114,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88522,
+        "num": 88522,
+        "word": "中国女排3比2土耳其女排",
+        "onboard_time": 1718462900,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86242,
+        "num": 86242,
+        "word": "亚马尔干啥都是欧洲杯纪录",
+        "onboard_time": 1718496136,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的赤子之心#"
+    }
+  }
+}
