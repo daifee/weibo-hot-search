@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718588707829,
+  "endTime": 1718591904532,
   "band_list": [
     {
       "raw_hot": 1714608,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1118593,
-      "num": 217648,
+      "num": 262473,
       "word": "有了微信小号才发现朋友圈的意义",
       "onboard_time": 1718583919,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 992976,
+      "num": 992976,
+      "word": "记者卧底鸭肠鹅肠工厂",
+      "onboard_time": 1718588596,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 978163,
@@ -51,8 +59,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 928416,
+      "num": 928416,
+      "word": "刘浩存周也 你快笑啊在拍了",
+      "onboard_time": 1718590097,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 908377,
-      "num": 215481,
+      "num": 261000,
       "word": "长期吃辣的人更容易得胃癌吗",
       "onboard_time": 1718550560,
       "rank": 20,
@@ -67,12 +83,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 782974,
+      "num": 782974,
+      "word": "东极岛",
+      "onboard_time": 1718589556,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 772846,
       "num": 539770,
       "word": "猝死前一个月身体就有症状",
       "onboard_time": 1718537597,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 737580,
+      "num": 737580,
+      "word": "韩国年轻人开始流行不看脸约会",
+      "onboard_time": 1718588297,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 688842,
@@ -107,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 533261,
+      "num": 533261,
+      "word": "巴勒斯坦儿童举弹药质问美国人",
+      "onboard_time": 1718588117,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 521135,
       "num": 521135,
       "word": "涟水中专党委书记回应",
@@ -116,7 +156,7 @@
     },
     {
       "raw_hot": 510872,
-      "num": 164986,
+      "num": 220656,
       "word": "毕业月薪六七千我妈说我要求低",
       "onboard_time": 1718552658,
       "rank": 22,
@@ -153,6 +193,14 @@
       "onboard_time": 1718586079,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459438,
+      "num": 362144,
+      "word": "张杰张若昀两个女儿奴",
+      "onboard_time": 1718590398,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 449462,
@@ -227,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369753,
+      "num": 369753,
+      "word": "中国海警发声",
+      "onboard_time": 1718580916,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 362994,
       "num": 362994,
       "word": "偶遇喜欢了九年的歌手是什么体验",
       "onboard_time": 1718583616,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358059,
+      "num": 358059,
+      "word": "俄客机在北极紧急迫降断成两截",
+      "onboard_time": 1718587637,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 353348,
@@ -257,6 +321,14 @@
       "onboard_time": 1718540658,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342221,
+      "num": 342221,
+      "word": "朴彩英签约Teddy厂牌",
+      "onboard_time": 1718589138,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 342023,
@@ -291,12 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281037,
-      "num": 281037,
-      "word": "俄客机在北极紧急迫降断成两截",
-      "onboard_time": 1718587637,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 290129,
+      "num": 290129,
+      "word": "张雨绮戴的戒指是会动的蝴蝶",
+      "onboard_time": 1718588238,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 272935,
@@ -305,6 +377,30 @@
       "onboard_time": 1718559732,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 253319,
+      "num": 253319,
+      "word": "老粉都没认出黄晓明",
+      "onboard_time": 1718590817,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247582,
+      "num": 247582,
+      "word": "枭起青壤首发剧照",
+      "onboard_time": 1718591117,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 245461,
+      "num": 245461,
+      "word": "中考生称姜萍的学校是最好的中专",
+      "onboard_time": 1718590217,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 245179,
@@ -339,12 +435,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 237670,
-      "num": 237670,
-      "word": "巴勒斯坦儿童举弹药质问美国人",
-      "onboard_time": 1718588117,
-      "rank": 18,
-      "category": "国外时政"
+      "raw_hot": 229019,
+      "num": 229019,
+      "word": "金莎夸陈乔恩恶毒后妈演得好",
+      "onboard_time": 1718591117,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 222393,
@@ -427,12 +523,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187050,
-      "num": 187050,
-      "word": "韩国年轻人开始流行不看脸约会",
-      "onboard_time": 1718588297,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 185087,
+      "num": 185087,
+      "word": "王星越看得出他是公主",
+      "onboard_time": 1718591177,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183123,
+      "num": 183123,
+      "word": "余秀华说没有离不了的婚",
+      "onboard_time": 1718591057,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 183085,
+      "num": 150313,
+      "word": "肖战晒与爸爸妈妈背影照",
+      "onboard_time": 1718589317,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 177775,
@@ -483,14 +595,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 158878,
-      "num": 158878,
-      "word": "张雨绮戴的戒指是会动的蝴蝶",
-      "onboard_time": 1718588238,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155485,
       "num": 126878,
       "word": "优酷 排播",
@@ -515,20 +619,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153522,
-      "num": 199931,
-      "word": "记者卧底鸭肠鹅肠工厂",
-      "onboard_time": 1718588596,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152007,
       "num": 152007,
       "word": "檀健次谈最爱的秀场单品",
       "onboard_time": 1718586616,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 151011,
+      "num": 151011,
+      "word": "惠英红宋佳马丽高叶 捡亮片套娃",
+      "onboard_time": 1718591537,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 150379,
@@ -547,12 +651,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136063,
+      "num": 136063,
+      "word": "边佑锡Prada",
+      "onboard_time": 1718589437,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134857,
       "num": 134857,
       "word": "欧洲杯",
       "onboard_time": 1718543899,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132336,
+      "num": 132336,
+      "word": "陈乔恩录制跑男",
+      "onboard_time": 1718591657,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 130576,
@@ -619,6 +739,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123840,
+      "num": 123840,
+      "word": "爱神回归",
+      "onboard_time": 1718591836,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122579,
+      "num": 122579,
+      "word": "大学学好数学需要多少热爱",
+      "onboard_time": 1718591537,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122515,
       "num": 122515,
       "word": "菲船只故意危险接近中方船只致擦碰",
@@ -641,6 +777,14 @@
       "onboard_time": 1718548100,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119449,
+      "num": 119449,
+      "word": "A股",
+      "onboard_time": 1718591717,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 113755,
@@ -705,6 +849,14 @@
       "onboard_time": 1718575452,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91016,
+      "num": 368581,
+      "word": "哪些专业误解让你哭笑不得",
+      "onboard_time": 1718591177,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90804,
@@ -819,8 +971,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47959,
-      "num": 217929,
+      "raw_hot": 48698,
+      "num": 268208,
       "word": "京东超级惊喜红包3800元",
       "onboard_time": 1718587637,
       "rank": 19,
@@ -884,7 +1036,7 @@
     },
     {
       "raw_hot": 24829,
-      "num": 730219,
+      "num": 931692,
       "word": "交通互联互通带来发展机遇无限",
       "onboard_time": 1718541857,
       "rank": 2,

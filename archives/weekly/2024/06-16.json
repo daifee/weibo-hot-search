@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718588707829,
+  "endTime": 1718591904532,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1118593,
-      "num": 217648,
+      "num": 262473,
       "word": "有了微信小号才发现朋友圈的意义",
       "onboard_time": 1718583919,
       "rank": 21,
@@ -241,6 +241,14 @@
       "onboard_time": 1718543240,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 992976,
+      "num": 992976,
+      "word": "记者卧底鸭肠鹅肠工厂",
+      "onboard_time": 1718588596,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 992969,
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 928416,
+      "num": 928416,
+      "word": "刘浩存周也 你快笑啊在拍了",
+      "onboard_time": 1718590097,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 909842,
       "num": 909842,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 908377,
-      "num": 226615,
+      "num": 261000,
       "word": "长期吃辣的人更容易得胃癌吗",
       "onboard_time": 1718550560,
       "rank": 28,
@@ -331,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 782974,
+      "num": 782974,
+      "word": "东极岛",
+      "onboard_time": 1718589556,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 752598,
       "num": 392060,
       "word": "庆余年 二皇子",
@@ -353,6 +377,14 @@
       "onboard_time": 1718493733,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 737580,
+      "num": 737580,
+      "word": "韩国年轻人开始流行不看脸约会",
+      "onboard_time": 1718588297,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712449,
@@ -619,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 533261,
+      "num": 533261,
+      "word": "巴勒斯坦儿童举弹药质问美国人",
+      "onboard_time": 1718588117,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 521135,
       "num": 521135,
       "word": "涟水中专党委书记回应",
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 510872,
-      "num": 164986,
+      "num": 220656,
       "word": "毕业月薪六七千我妈说我要求低",
       "onboard_time": 1718552658,
       "rank": 22,
@@ -769,6 +809,14 @@
       "onboard_time": 1718586079,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459438,
+      "num": 362144,
+      "word": "张杰张若昀两个女儿奴",
+      "onboard_time": 1718590398,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 458442,
@@ -1099,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369753,
+      "num": 369753,
+      "word": "中国海警发声",
+      "onboard_time": 1718580916,
+      "rank": 8,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 368896,
       "num": 262825,
       "word": "娜扎太瘦了",
@@ -1139,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 358059,
+      "num": 358059,
+      "word": "俄客机在北极紧急迫降断成两截",
+      "onboard_time": 1718587637,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 357415,
       "num": 357415,
       "word": "10元手冲咖啡阿姨回应不火了",
@@ -1177,6 +1241,14 @@
       "onboard_time": 1718534357,
       "rank": 5,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 342221,
+      "num": 342221,
+      "word": "朴彩英签约Teddy厂牌",
+      "onboard_time": 1718589138,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 341258,
@@ -1331,6 +1403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 290129,
+      "num": 290129,
+      "word": "张雨绮戴的戒指是会动的蝴蝶",
+      "onboard_time": 1718588238,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286427,
       "num": 271912,
       "word": "孙燕姿 音乐节",
@@ -1344,14 +1424,6 @@
       "word": "上海通报女子地铁抢座位打人",
       "onboard_time": 1718527758,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 281037,
-      "num": 281037,
-      "word": "俄客机在北极紧急迫降断成两截",
-      "onboard_time": 1718587637,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1475,6 +1547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 253319,
+      "num": 253319,
+      "word": "老粉都没认出黄晓明",
+      "onboard_time": 1718590817,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250991,
       "num": 197648,
       "word": "金晨一只袖子上有30颗珍珠",
@@ -1491,12 +1571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 247582,
+      "num": 247582,
+      "word": "枭起青壤首发剧照",
+      "onboard_time": 1718591117,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246581,
       "num": 246581,
       "word": "卧铺车上面对女乘客裸睡男子被拘5日",
       "onboard_time": 1718536457,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245461,
+      "num": 245461,
+      "word": "中考生称姜萍的学校是最好的中专",
+      "onboard_time": 1718590217,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 244751,
@@ -1539,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237670,
-      "num": 237670,
-      "word": "巴勒斯坦儿童举弹药质问美国人",
-      "onboard_time": 1718588117,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 236922,
       "num": 157897,
       "word": "吴谨言上了郝蕾表演课后逆袭",
@@ -1585,6 +1673,14 @@
       "onboard_time": 1718461759,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 229019,
+      "num": 229019,
+      "word": "金莎夸陈乔恩恶毒后妈演得好",
+      "onboard_time": 1718591117,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 228575,
@@ -2051,14 +2147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187050,
-      "num": 187050,
-      "word": "韩国年轻人开始流行不看脸约会",
-      "onboard_time": 1718588297,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 186989,
       "num": 186989,
       "word": "专家称不是大学选择姜萍是她选择大学",
@@ -2083,12 +2171,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 185087,
+      "num": 185087,
+      "word": "王星越看得出他是公主",
+      "onboard_time": 1718591177,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184859,
       "num": 184859,
       "word": "我发现一定要对钱有概念",
       "onboard_time": 1718524877,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183123,
+      "num": 183123,
+      "word": "余秀华说没有离不了的婚",
+      "onboard_time": 1718591057,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 183085,
+      "num": 150313,
+      "word": "肖战晒与爸爸妈妈背影照",
+      "onboard_time": 1718589317,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 182337,
@@ -2355,14 +2467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158878,
-      "num": 158878,
-      "word": "张雨绮戴的戒指是会动的蝴蝶",
-      "onboard_time": 1718588238,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158487,
       "num": 158487,
       "word": "墨雨云间27集满广",
@@ -2435,14 +2539,6 @@
       "category": "互联网,社会新闻"
     },
     {
-      "raw_hot": 153522,
-      "num": 199931,
-      "word": "记者卧底鸭肠鹅肠工厂",
-      "onboard_time": 1718588596,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152622,
       "num": 152622,
       "word": "世界杯",
@@ -2473,6 +2569,14 @@
       "onboard_time": 1718542039,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151011,
+      "num": 151011,
+      "word": "惠英红宋佳马丽高叶 捡亮片套娃",
+      "onboard_time": 1718591537,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 150379,
@@ -2635,6 +2739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136063,
+      "num": 136063,
+      "word": "边佑锡Prada",
+      "onboard_time": 1718589437,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135119,
       "num": 135119,
       "word": "第五人格游园会",
@@ -2689,6 +2801,14 @@
       "onboard_time": 1718509876,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132336,
+      "num": 132336,
+      "word": "陈乔恩录制跑男",
+      "onboard_time": 1718591657,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 132269,
@@ -2939,12 +3059,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123840,
+      "num": 123840,
+      "word": "爱神回归",
+      "onboard_time": 1718591836,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123710,
       "num": 123710,
       "word": "女生爬山遇毒蛇竟凑上前合影",
       "onboard_time": 1718493073,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122579,
+      "num": 122579,
+      "word": "大学学好数学需要多少热爱",
+      "onboard_time": 1718591537,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 122515,
@@ -2993,6 +3129,14 @@
       "onboard_time": 1718533159,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119449,
+      "num": 119449,
+      "word": "A股",
+      "onboard_time": 1718591717,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 117949,
@@ -3313,6 +3457,14 @@
       "onboard_time": 1718462299,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91016,
+      "num": 368581,
+      "word": "哪些专业误解让你哭笑不得",
+      "onboard_time": 1718591177,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90559,
@@ -3691,20 +3843,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48698,
+      "num": 268208,
+      "word": "京东超级惊喜红包3800元",
+      "onboard_time": 1718587637,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48156,
       "num": 48156,
       "word": "爸爸的爱总是藏在细微的行动里",
       "onboard_time": 1718493193,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47959,
-      "num": 217929,
-      "word": "京东超级惊喜红包3800元",
-      "onboard_time": 1718587637,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 46932,
@@ -3996,7 +4148,7 @@
     },
     {
       "raw_hot": 24829,
-      "num": 730219,
+      "num": 931692,
       "word": "交通互联互通带来发展机遇无限",
       "onboard_time": 1718541857,
       "rank": 2,
