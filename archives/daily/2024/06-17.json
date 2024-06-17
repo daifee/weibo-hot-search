@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718602702081,
+  "endTime": 1718605676231,
   "band_list": [
     {
       "raw_hot": 1842501,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 986726,
+      "num": 986726,
+      "word": "传宁德时代施行896工作制",
+      "onboard_time": 1718598559,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 978163,
       "num": 978163,
       "word": "菲律宾",
@@ -91,14 +99,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 944180,
-      "num": 944180,
-      "word": "传宁德时代施行896工作制",
-      "onboard_time": 1718598559,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 908377,
       "num": 285728,
       "word": "长期吃辣的人更容易得胃癌吗",
@@ -121,6 +121,14 @@
       "onboard_time": 1718590398,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 804098,
+      "num": 369905,
+      "word": "男子离婚前贷款45万并转给母亲35万",
+      "onboard_time": 1718603238,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784054,
@@ -153,6 +161,14 @@
       "onboard_time": 1718599338,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 734383,
+      "num": 734383,
+      "word": "玫瑰的亲事倒数第一竞争激烈",
+      "onboard_time": 1718601437,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 720653,
@@ -235,6 +251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 515456,
+      "num": 515456,
+      "word": "日本文科生就业率达到97.1%",
+      "onboard_time": 1718600779,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514419,
       "num": 514419,
       "word": "中考生称姜萍的学校是最好的中专",
@@ -267,12 +291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 470428,
-      "num": 470428,
-      "word": "日本文科生就业率达到97.1%",
-      "onboard_time": 1718600779,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 470767,
+      "num": 470767,
+      "word": "北京高考已有满分作文备选",
+      "onboard_time": 1718600837,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 468618,
@@ -281,6 +305,14 @@
       "onboard_time": 1718549780,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 466747,
+      "num": 201294,
+      "word": "救人迟到儿科医师已停诊",
+      "onboard_time": 1718602937,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 462289,
@@ -361,14 +393,6 @@
       "onboard_time": 1718592736,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 412850,
-      "num": 412850,
-      "word": "玫瑰的亲事倒数第一竞争激烈",
-      "onboard_time": 1718601437,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 404354,
@@ -467,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345542,
+      "num": 345542,
+      "word": "以后骂人不能骂她是梅超风了",
+      "onboard_time": 1718602337,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345501,
       "num": 309590,
       "word": "墨雨云间 减更",
@@ -504,6 +536,14 @@
       "word": "丁真不吃番茄但吃番茄炒蛋",
       "onboard_time": 1718595617,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 330974,
+      "num": 330974,
+      "word": "汪峰参与那英我是歌手选歌",
+      "onboard_time": 1718601379,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -587,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268086,
+      "num": 268086,
+      "word": "埃及国家博物馆感觉要被搬空了",
+      "onboard_time": 1718602580,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264237,
       "num": 264237,
       "word": "金俊勉不知情CBX打官司的事情",
@@ -651,20 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237428,
-      "num": 237428,
-      "word": "北京高考已有满分作文备选",
-      "onboard_time": 1718600837,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 230398,
-      "num": 197583,
-      "word": "汪峰参与那英我是歌手选歌",
-      "onboard_time": 1718601379,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 233703,
+      "num": 233703,
+      "word": "宁德时代",
+      "onboard_time": 1718604918,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230057,
@@ -729,6 +769,22 @@
       "onboard_time": 1718534178,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 213491,
+      "num": 172093,
+      "word": "林更新说演研究生压力很大",
+      "onboard_time": 1718604318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212963,
+      "num": 200161,
+      "word": "SUHO向粉丝道歉",
+      "onboard_time": 1718605397,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 212368,
@@ -835,14 +891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186882,
-      "num": 186882,
-      "word": "以后骂人不能骂她是梅超风了",
-      "onboard_time": 1718602337,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185349,
       "num": 185349,
       "word": "黄文秀牺牲前给家人发的信息",
@@ -931,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172346,
+      "num": 172346,
+      "word": "菲律宾一运补船非法闯入仁爱礁海域",
+      "onboard_time": 1718604078,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 171739,
       "num": 171739,
       "word": "A股",
@@ -944,6 +1000,14 @@
       "word": "小米扫地机器人自燃引发火灾",
       "onboard_time": 1718592856,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170489,
+      "num": 170489,
+      "word": "日媒称罕见细菌在日本蔓延",
+      "onboard_time": 1718602998,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -1091,12 +1155,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 148343,
+      "num": 148343,
+      "word": "老人被骗79万元崩溃哭泣",
+      "onboard_time": 1718605157,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146157,
+      "num": 146157,
+      "word": "福建武平暴雨已致4死亡2失踪",
+      "onboard_time": 1718603416,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140061,
       "num": 140061,
       "word": "乳胶枕头投诉量直线飙升",
       "onboard_time": 1718571971,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138746,
+      "num": 138746,
+      "word": "边伯贤首尔安可",
+      "onboard_time": 1718604736,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 137334,
@@ -1129,6 +1217,14 @@
       "onboard_time": 1718543899,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134730,
+      "num": 134730,
+      "word": "焉栩嘉腹肌",
+      "onboard_time": 1718605099,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 133270,
@@ -1168,6 +1264,22 @@
       "word": "央视曝光乳胶床品造假乱象",
       "onboard_time": 1718545880,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128849,
+      "num": 128849,
+      "word": "电影红楼梦定档",
+      "onboard_time": 1718603123,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 128120,
+      "num": 128120,
+      "word": "韩国200多年前的诸葛亮画像被盗",
+      "onboard_time": 1718604018,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1251,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121204,
-      "num": 121204,
-      "word": "埃及国家博物馆感觉要被搬空了",
-      "onboard_time": 1718602580,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 120120,
       "num": 368581,
       "word": "哪些专业误解让你哭笑不得",
@@ -1289,6 +1393,14 @@
       "onboard_time": 1718592377,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114179,
+      "num": 114179,
+      "word": "孙阳 谁的奖杯丢了",
+      "onboard_time": 1718604078,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 113755,
@@ -1427,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66412,
+      "num": 373718,
+      "word": "市监局回应工人脚踩鹅肠",
+      "onboard_time": 1718604018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65772,
       "num": 65772,
       "word": "sana好美",
@@ -1523,6 +1643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 37272,
+      "num": 236845,
+      "word": "怪不得你是上届宫斗冠军",
+      "onboard_time": 1718603357,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35589,
       "num": 282166,
       "word": "宝藏河南字游奇旅",
@@ -1572,7 +1700,7 @@
     },
     {
       "raw_hot": 24145,
-      "num": 112087,
+      "num": 128149,
       "word": "倪妮镜头里的黄渤",
       "onboard_time": 1718602580,
       "rank": 49,
@@ -1633,6 +1761,14 @@
       "onboard_time": 1718564891,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 15409,
+      "num": 129922,
+      "word": "全网都在接紫定红好运",
+      "onboard_time": 1718604018,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 13967,
