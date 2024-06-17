@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718598246770,
+  "endTime": 1718599106580,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -41,6 +41,14 @@
       "onboard_time": 1718537419,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1618584,
+      "num": 1618584,
+      "word": "姜萍4月份总成绩年级第一",
+      "onboard_time": 1718595617,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1499239,
@@ -105,14 +113,6 @@
       "onboard_time": 1718537597,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1330236,
-      "num": 1330236,
-      "word": "姜萍4月份总成绩年级第一",
-      "onboard_time": 1718595617,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1317744,
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 996887,
+      "num": 996887,
+      "word": "墨雨云间 爽剧不爽了",
+      "onboard_time": 1718594898,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 992969,
       "num": 992969,
       "word": "女子长期乏力全家查出吸血鬼病基因",
@@ -321,14 +329,6 @@
       "onboard_time": 1718556316,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 911719,
-      "num": 911719,
-      "word": "墨雨云间 爽剧不爽了",
-      "onboard_time": 1718594898,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 909842,
@@ -417,6 +417,14 @@
       "onboard_time": 1718493733,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 720653,
+      "num": 720653,
+      "word": "玫瑰的故事看生气了",
+      "onboard_time": 1718595257,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 712449,
@@ -545,14 +553,6 @@
       "onboard_time": 1718523856,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 610544,
-      "num": 610544,
-      "word": "玫瑰的故事看生气了",
-      "onboard_time": 1718595257,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 610172,
@@ -1131,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 394018,
+      "num": 394018,
+      "word": "赵丽颖栗子妆",
+      "onboard_time": 1718595138,
+      "rank": 30,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 388254,
       "num": 211592,
       "word": "为什么不建议你喝太多苏打水",
@@ -1161,14 +1169,6 @@
       "onboard_time": 1718514138,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 379760,
-      "num": 379760,
-      "word": "赵丽颖栗子妆",
-      "onboard_time": 1718595138,
-      "rank": 30,
-      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 376215,
@@ -1459,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304107,
+      "num": 304107,
+      "word": "丁真不吃番茄但吃番茄炒蛋",
+      "onboard_time": 1718595617,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 300250,
       "num": 300250,
       "word": "20至40岁男性人口比女性多1752万人",
@@ -1515,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 292129,
+      "num": 292129,
+      "word": "姐妹俩一起开小饭馆同时确诊肺癌",
+      "onboard_time": 1718597538,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290129,
       "num": 290129,
       "word": "张雨绮戴的戒指是会动的蝴蝶",
@@ -1547,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281736,
+      "num": 281736,
+      "word": "传宁德时代施行896工作制",
+      "onboard_time": 1718598559,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 279693,
       "num": 270814,
       "word": "肖战一天逛了两个艺术馆",
@@ -1561,14 +1585,6 @@
       "onboard_time": 1718506277,
       "rank": 22,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 279157,
-      "num": 279157,
-      "word": "丁真不吃番茄但吃番茄炒蛋",
-      "onboard_time": 1718595617,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 278662,
@@ -1651,6 +1667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264237,
+      "num": 264237,
+      "word": "金俊勉不知情CBX打官司的事情",
+      "onboard_time": 1718598378,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259989,
       "num": 259989,
       "word": "狐妖现代番外",
@@ -1675,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255389,
+      "num": 255389,
+      "word": "玫瑰的故事 祛魅",
+      "onboard_time": 1718598079,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253658,
       "num": 253658,
       "word": "张踩玲的大胖媳妇社死名场面",
@@ -1696,6 +1728,14 @@
       "word": "张碧晨 再见李可乐",
       "onboard_time": 1718546300,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 247398,
+      "num": 247398,
+      "word": "暑期档唯一灾难大片来了",
+      "onboard_time": 1718598618,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1752,6 +1792,14 @@
       "word": "还是低估了墨雨云间的爽",
       "onboard_time": 1718454377,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238138,
+      "num": 238138,
+      "word": "女帝来了也得加班",
+      "onboard_time": 1718597900,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -2040,14 +2088,6 @@
       "word": "滴滴6亿补贴鼓励司机开空调",
       "onboard_time": 1718536818,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 205611,
-      "num": 204510,
-      "word": "姐妹俩一起开小饭馆同时确诊肺癌",
-      "onboard_time": 1718597538,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -2355,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183744,
+      "num": 183744,
+      "word": "东极岛 朱一龙吴磊",
+      "onboard_time": 1718596938,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 183085,
       "num": 155858,
       "word": "肖战晒与爸爸妈妈背影照",
@@ -2459,19 +2507,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175074,
+      "num": 175074,
+      "word": "中考",
+      "onboard_time": 1718598500,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 174130,
       "num": 127639,
       "word": "刘浩存文淇找惠英红合照",
       "onboard_time": 1718553138,
       "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 173783,
-      "num": 173783,
-      "word": "东极岛 朱一龙吴磊",
-      "onboard_time": 1718596938,
-      "rank": 35,
       "category": "电影"
     },
     {
@@ -2497,14 +2545,6 @@
       "onboard_time": 1718493073,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171336,
-      "num": 171336,
-      "word": "女帝来了也得加班",
-      "onboard_time": 1718597900,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 170585,
@@ -2659,6 +2699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161200,
+      "num": 161200,
+      "word": "短剧已经开始新的剧情赛道",
+      "onboard_time": 1718598500,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160291,
       "num": 160291,
       "word": "长沙初三少年与姜萍一同入围数学决赛",
@@ -2793,14 +2841,6 @@
       "onboard_time": 1718470755,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152151,
-      "num": 152151,
-      "word": "玫瑰的故事 祛魅",
-      "onboard_time": 1718598079,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 152007,
@@ -3089,6 +3129,14 @@
       "onboard_time": 1718508556,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 131876,
+      "num": 917702,
+      "word": "2000年前的简历怎么写",
+      "onboard_time": 1718596817,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131873,
@@ -3731,14 +3779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92819,
-      "num": 917702,
-      "word": "2000年前的简历怎么写",
-      "onboard_time": 1718596817,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 92301,
       "num": 124871,
       "word": "范丞丞说我看得很爽",
@@ -4035,6 +4075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 58991,
+      "num": 465013,
+      "word": "檀健次米兰秀场穿搭",
+      "onboard_time": 1718594058,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 58942,
       "num": 423392,
       "word": "一个词形容我的爸爸",
@@ -4121,14 +4169,6 @@
       "onboard_time": 1718533159,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49961,
-      "num": 465013,
-      "word": "檀健次米兰秀场穿搭",
-      "onboard_time": 1718594058,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 48698,
@@ -4331,6 +4371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35589,
+      "num": 282166,
+      "word": "宝藏河南字游奇旅",
+      "onboard_time": 1718598919,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 35471,
       "num": 153949,
       "word": "父亲节前爸爸捐骨髓教儿子感恩",
@@ -4467,6 +4515,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 21724,
+      "num": 249730,
+      "word": "微博电影之夜电影感大片",
+      "onboard_time": 1718597599,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 21593,
+      "num": 183591,
+      "word": "女孩被困火场警方合力破窗救援",
+      "onboard_time": 1718598740,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21578,
       "num": 115472,
       "word": "从未对爸爸说出口的话",
@@ -4513,14 +4577,6 @@
       "onboard_time": 1718564891,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15541,
-      "num": 153578,
-      "word": "微博电影之夜电影感大片",
-      "onboard_time": 1718597599,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 15387,
