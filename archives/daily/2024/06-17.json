@@ -1,21 +1,21 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718594577534,
+  "endTime": 1718595424519,
   "band_list": [
+    {
+      "raw_hot": 1842501,
+      "num": 858541,
+      "word": "工人排水口小便后捞出死鸭送车间",
+      "onboard_time": 1718592137,
+      "rank": 38,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1714608,
       "num": 1714608,
       "word": "姜萍中考621分却上中专的原因",
       "onboard_time": 1718550441,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1562747,
-      "num": 808880,
-      "word": "工人排水口小便后捞出死鸭送车间",
-      "onboard_time": 1718592137,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828309,
+      "num": 828309,
+      "word": "张杰张若昀两个女儿奴",
+      "onboard_time": 1718590398,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784054,
       "num": 327098,
       "word": "王一博 不化妆",
@@ -113,14 +121,6 @@
       "onboard_time": 1718537597,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 758858,
-      "num": 758858,
-      "word": "张杰张若昀两个女儿奴",
-      "onboard_time": 1718590398,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 688842,
@@ -171,6 +171,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 514419,
+      "num": 514419,
+      "word": "中考生称姜萍的学校是最好的中专",
+      "onboard_time": 1718590217,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 510872,
       "num": 223968,
       "word": "毕业月薪六七千我妈说我要求低",
@@ -193,14 +201,6 @@
       "onboard_time": 1718550739,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 473441,
-      "num": 473441,
-      "word": "中考生称姜萍的学校是最好的中专",
-      "onboard_time": 1718590217,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 468618,
@@ -251,8 +251,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 410107,
-      "num": 410107,
+      "raw_hot": 413853,
+      "num": 413853,
       "word": "倪妮 高叶你好烦呐",
       "onboard_time": 1718592736,
       "rank": 11,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350477,
+      "num": 350477,
+      "word": "墨雨云间 爽剧不爽了",
+      "onboard_time": 1718594898,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345501,
       "num": 309590,
       "word": "墨雨云间 减更",
@@ -369,6 +377,14 @@
       "onboard_time": 1718591117,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322910,
+      "num": 197497,
+      "word": "狗不嫌家贫但嫌家热",
+      "onboard_time": 1718592617,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 307390,
@@ -419,20 +435,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 259790,
-      "num": 259790,
+      "raw_hot": 272049,
+      "num": 272049,
       "word": "金莎夸陈乔恩恶毒后妈演得好",
       "onboard_time": 1718591117,
       "rank": 26,
       "category": "剧集"
     },
     {
-      "raw_hot": 259468,
-      "num": 197497,
-      "word": "狗不嫌家贫但嫌家热",
-      "onboard_time": 1718592617,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 262328,
+      "num": 262328,
+      "word": "初级会计查成绩",
+      "onboard_time": 1718594417,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 246061,
@@ -481,6 +497,14 @@
       "onboard_time": 1718548521,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220786,
+      "num": 187895,
+      "word": "这个颜色的染发剂最危险",
+      "onboard_time": 1718594417,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 220375,
@@ -571,12 +595,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 187895,
-      "num": 187895,
-      "word": "这个颜色的染发剂最危险",
-      "onboard_time": 1718594417,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
+      "raw_hot": 189723,
+      "num": 170466,
+      "word": "enhypen专辑配置有成员衣服碎片",
+      "onboard_time": 1718594777,
+      "rank": 29,
+      "category": "音乐"
     },
     {
       "raw_hot": 187648,
@@ -585,6 +609,14 @@
       "onboard_time": 1718546000,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183667,
+      "num": 170249,
+      "word": "赵丽颖栗子妆",
+      "onboard_time": 1718595138,
+      "rank": 30,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 183085,
@@ -635,6 +667,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169716,
+      "num": 169716,
+      "word": "刘诗诗掌心杀青逆应援",
+      "onboard_time": 1718594657,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168464,
       "num": 168464,
       "word": "死侍与金刚狼定档",
@@ -663,6 +703,14 @@
       "num": 166574,
       "word": "小米扫地机器人自燃引发火灾",
       "onboard_time": 1718592856,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163829,
+      "num": 163829,
+      "word": "B太曝光司机拉客去西湖龙井产区乱象",
+      "onboard_time": 1718594957,
       "rank": 34,
       "category": "社会新闻"
     },
@@ -731,6 +779,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 145439,
+      "num": 145439,
+      "word": "玫瑰的故事看生气了",
+      "onboard_time": 1718595257,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142488,
+      "num": 142488,
+      "word": "中国跑酷元老心脏病去世年仅39岁",
+      "onboard_time": 1718594597,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140061,
       "num": 140061,
       "word": "乳胶枕头投诉量直线飙升",
@@ -747,20 +811,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135745,
+      "num": 415301,
+      "word": "年轻人双标消费行为大赏",
+      "onboard_time": 1718593158,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134857,
       "num": 134857,
       "word": "欧洲杯",
       "onboard_time": 1718543899,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132143,
-      "num": 132143,
-      "word": "初级会计查成绩",
-      "onboard_time": 1718594417,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 130576,
@@ -892,7 +956,7 @@
     },
     {
       "raw_hot": 117217,
-      "num": 117217,
+      "num": 508843,
       "word": "跨越时空的6月17日",
       "onboard_time": 1718592377,
       "rank": 45,
@@ -937,14 +1001,6 @@
       "onboard_time": 1718542459,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105546,
-      "num": 415301,
-      "word": "年轻人双标消费行为大赏",
-      "onboard_time": 1718593158,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 104756,
@@ -1123,20 +1179,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 33556,
+      "num": 171412,
+      "word": "檀健次米兰秀场穿搭",
+      "onboard_time": 1718594058,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 32855,
       "num": 39864,
       "word": "infp的爽文女主体质",
       "onboard_time": 1718561472,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 26862,
-      "num": 128242,
-      "word": "檀健次米兰秀场穿搭",
-      "onboard_time": 1718594058,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25143,
@@ -1219,20 +1275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11431,
+      "num": 145668,
+      "word": "燕子你知道多少人在等你演唱会吗",
+      "onboard_time": 1718594477,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 10485,
       "num": 137350,
       "word": "他从6米高的桥上跃下救起落水女子",
       "onboard_time": 1718557275,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 6343,
-      "num": 103684,
-      "word": "燕子你知道多少人在等你演唱会吗",
-      "onboard_time": 1718594477,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 5774,

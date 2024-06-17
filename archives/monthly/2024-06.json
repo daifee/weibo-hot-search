@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718594577534,
+  "endTime": 1718595424519,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -651,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1842501,
+      "num": 858541,
+      "word": "工人排水口小便后捞出死鸭送车间",
+      "onboard_time": 1718592137,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1838639,
       "num": 1838639,
       "word": "国足扳平泰国",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1718374524,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1562747,
-      "num": 808880,
-      "word": "工人排水口小便后捞出死鸭送车间",
-      "onboard_time": 1718592137,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1562114,
@@ -4067,6 +4067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 828309,
+      "num": 828309,
+      "word": "张杰张若昀两个女儿奴",
+      "onboard_time": 1718590398,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 828240,
       "num": 332360,
       "word": "亲戚把订婚蛋糕整个拿走了",
@@ -4649,14 +4657,6 @@
       "onboard_time": 1717254799,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 758858,
-      "num": 758858,
-      "word": "张杰张若昀两个女儿奴",
-      "onboard_time": 1718590398,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 757625,
@@ -8651,6 +8651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 514419,
+      "num": 514419,
+      "word": "中考生称姜萍的学校是最好的中专",
+      "onboard_time": 1718590217,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 514366,
       "num": 514366,
       "word": "Uzi 抗韩",
@@ -9665,14 +9673,6 @@
       "onboard_time": 1717308318,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473441,
-      "num": 473441,
-      "word": "中考生称姜萍的学校是最好的中专",
-      "onboard_time": 1718590217,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 473114,
@@ -11523,6 +11523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413853,
+      "num": 413853,
+      "word": "倪妮 高叶你好烦呐",
+      "onboard_time": 1718592736,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 413545,
       "num": 413545,
       "word": "朱婷无缘首发",
@@ -11609,14 +11617,6 @@
       "onboard_time": 1717757418,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 410107,
-      "num": 410107,
-      "word": "倪妮 高叶你好烦呐",
-      "onboard_time": 1718592736,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 410047,
@@ -13667,6 +13667,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 350477,
+      "num": 350477,
+      "word": "墨雨云间 爽剧不爽了",
+      "onboard_time": 1718594898,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350102,
       "num": 350102,
       "word": "苹果市值一夜蒸发4213亿元",
@@ -14745,6 +14753,14 @@
       "onboard_time": 1717999337,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322910,
+      "num": 197497,
+      "word": "狗不嫌家贫但嫌家热",
+      "onboard_time": 1718592617,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 322829,
@@ -17307,6 +17323,14 @@
       "category": "财经,国外时政"
     },
     {
+      "raw_hot": 272049,
+      "num": 272049,
+      "word": "金莎夸陈乔恩恶毒后妈演得好",
+      "onboard_time": 1718591117,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272024,
       "num": 272024,
       "word": "主播怒斥黄牛组团扫货加价售卖",
@@ -17875,6 +17899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262328,
+      "num": 262328,
+      "word": "初级会计查成绩",
+      "onboard_time": 1718594417,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262076,
       "num": 262076,
       "word": "狐妖一脉全部带蓝牙",
@@ -17995,28 +18027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259790,
-      "num": 259790,
-      "word": "金莎夸陈乔恩恶毒后妈演得好",
-      "onboard_time": 1718591117,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259745,
       "num": 259745,
       "word": "易烊千玺奢牌待遇",
       "onboard_time": 1718508738,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259468,
-      "num": 197497,
-      "word": "狗不嫌家贫但嫌家热",
-      "onboard_time": 1718592617,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 259449,
@@ -20641,6 +20657,14 @@
       "onboard_time": 1717260736,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220786,
+      "num": 187895,
+      "word": "这个颜色的染发剂最危险",
+      "onboard_time": 1718594417,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 220757,
@@ -25227,6 +25251,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 189723,
+      "num": 170466,
+      "word": "enhypen专辑配置有成员衣服碎片",
+      "onboard_time": 1718594777,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189632,
       "num": 189632,
       "word": "紫外线会惩罚每一个不防晒的人",
@@ -25521,14 +25553,6 @@
       "onboard_time": 1717830379,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187895,
-      "num": 187895,
-      "word": "这个颜色的染发剂最危险",
-      "onboard_time": 1718594417,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 187876,
@@ -26241,6 +26265,14 @@
       "onboard_time": 1717723157,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183667,
+      "num": 170249,
+      "word": "赵丽颖栗子妆",
+      "onboard_time": 1718595138,
+      "rank": 30,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 183662,
@@ -28211,6 +28243,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 169716,
+      "num": 169716,
+      "word": "刘诗诗掌心杀青逆应援",
+      "onboard_time": 1718594657,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169699,
       "num": 169699,
       "word": "网友偶遇欧阳娜娜CU",
@@ -29201,6 +29241,14 @@
       "onboard_time": 1717386558,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163829,
+      "num": 163829,
+      "word": "B太曝光司机拉客去西湖龙井产区乱象",
+      "onboard_time": 1718594957,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163794,
@@ -32611,6 +32659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145439,
+      "num": 145439,
+      "word": "玫瑰的故事看生气了",
+      "onboard_time": 1718595257,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145427,
       "num": 574455,
       "word": "YG糟糕的公关",
@@ -33105,6 +33161,14 @@
       "onboard_time": 1717295058,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142488,
+      "num": 142488,
+      "word": "中国跑酷元老心脏病去世年仅39岁",
+      "onboard_time": 1718594597,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142484,
@@ -34435,6 +34499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135745,
+      "num": 415301,
+      "word": "年轻人双标消费行为大赏",
+      "onboard_time": 1718593158,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135719,
       "num": 135719,
       "word": "中国电影导演之夜",
@@ -35105,14 +35177,6 @@
       "onboard_time": 1718282178,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 132143,
-      "num": 132143,
-      "word": "初级会计查成绩",
-      "onboard_time": 1718594417,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 132138,
@@ -38108,7 +38172,7 @@
     },
     {
       "raw_hot": 117217,
-      "num": 117217,
+      "num": 508843,
       "word": "跨越时空的6月17日",
       "onboard_time": 1718592377,
       "rank": 45,
@@ -40201,14 +40265,6 @@
       "onboard_time": 1718027599,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 105546,
-      "num": 415301,
-      "word": "年轻人双标消费行为大赏",
-      "onboard_time": 1718593158,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 105414,
@@ -46499,6 +46555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33556,
+      "num": 171412,
+      "word": "檀健次米兰秀场穿搭",
+      "onboard_time": 1718594058,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 33504,
       "num": 733213,
       "word": "龙年端午看划龙舟名场面",
@@ -47097,14 +47161,6 @@
       "onboard_time": 1717351333,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 26862,
-      "num": 128242,
-      "word": "檀健次米兰秀场穿搭",
-      "onboard_time": 1718594058,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 26837,
@@ -48339,6 +48395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11431,
+      "num": 145668,
+      "word": "燕子你知道多少人在等你演唱会吗",
+      "onboard_time": 1718594477,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 11384,
       "num": 124202,
       "word": "师娘带全班学生激情宣誓助力高考",
@@ -48609,14 +48673,6 @@
       "onboard_time": 1717178233,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 6343,
-      "num": 103684,
-      "word": "燕子你知道多少人在等你演唱会吗",
-      "onboard_time": 1718594477,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 6194,

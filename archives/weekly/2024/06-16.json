@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718594577534,
+  "endTime": 1718595424519,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1842501,
+      "num": 858541,
+      "word": "工人排水口小便后捞出死鸭送车间",
+      "onboard_time": 1718592137,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1714608,
       "num": 1714608,
       "word": "姜萍中考621分却上中专的原因",
@@ -33,14 +41,6 @@
       "onboard_time": 1718537419,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1562747,
-      "num": 808880,
-      "word": "工人排水口小便后捞出死鸭送车间",
-      "onboard_time": 1718592137,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1499239,
@@ -363,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 828309,
+      "num": 828309,
+      "word": "张杰张若昀两个女儿奴",
+      "onboard_time": 1718590398,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 782974,
       "num": 782974,
       "word": "东极岛",
       "onboard_time": 1718589556,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 758858,
-      "num": 758858,
-      "word": "张杰张若昀两个女儿奴",
-      "onboard_time": 1718590398,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 752598,
@@ -699,6 +699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 514419,
+      "num": 514419,
+      "word": "中考生称姜萍的学校是最好的中专",
+      "onboard_time": 1718590217,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 513343,
       "num": 513343,
       "word": "杨和苏理想国",
@@ -785,14 +793,6 @@
       "onboard_time": 1718521637,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473441,
-      "num": 473441,
-      "word": "中考生称姜萍的学校是最好的中专",
-      "onboard_time": 1718590217,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 468618,
@@ -987,20 +987,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 413853,
+      "num": 413853,
+      "word": "倪妮 高叶你好烦呐",
+      "onboard_time": 1718592736,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 412786,
       "num": 412786,
       "word": "中国女排3比2土耳其女排",
       "onboard_time": 1718462900,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 410107,
-      "num": 410107,
-      "word": "倪妮 高叶你好烦呐",
-      "onboard_time": 1718592736,
-      "rank": 11,
-      "category": "电影"
     },
     {
       "raw_hot": 409229,
@@ -1259,6 +1259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 350477,
+      "num": 350477,
+      "word": "墨雨云间 爽剧不爽了",
+      "onboard_time": 1718594898,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343910,
       "num": 343910,
       "word": "花城 血雨探花",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1718507537,
       "rank": 16,
       "category": "教育"
+    },
+    {
+      "raw_hot": 322910,
+      "num": 197497,
+      "word": "狗不嫌家贫但嫌家热",
+      "onboard_time": 1718592617,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 321394,
@@ -1531,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272049,
+      "num": 272049,
+      "word": "金莎夸陈乔恩恶毒后妈演得好",
+      "onboard_time": 1718591117,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270032,
       "num": 270032,
       "word": "sana好美",
@@ -1555,19 +1579,19 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 262328,
+      "num": 262328,
+      "word": "初级会计查成绩",
+      "onboard_time": 1718594417,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 259989,
       "num": 259989,
       "word": "狐妖现代番外",
       "onboard_time": 1718516957,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 259790,
-      "num": 259790,
-      "word": "金莎夸陈乔恩恶毒后妈演得好",
-      "onboard_time": 1718591117,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1577,14 +1601,6 @@
       "onboard_time": 1718508738,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259468,
-      "num": 197497,
-      "word": "狗不嫌家贫但嫌家热",
-      "onboard_time": 1718592617,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 259253,
@@ -1769,6 +1785,14 @@
       "onboard_time": 1718520557,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220786,
+      "num": 187895,
+      "word": "这个颜色的染发剂最危险",
+      "onboard_time": 1718594417,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 220526,
@@ -2187,6 +2211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189723,
+      "num": 170466,
+      "word": "enhypen专辑配置有成员衣服碎片",
+      "onboard_time": 1718594777,
+      "rank": 29,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189337,
       "num": 189337,
       "word": "十二星座的反差感",
@@ -2201,14 +2233,6 @@
       "onboard_time": 1718522476,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187895,
-      "num": 187895,
-      "word": "这个颜色的染发剂最危险",
-      "onboard_time": 1718594417,
-      "rank": 30,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 186989,
@@ -2241,6 +2265,14 @@
       "onboard_time": 1718524877,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 183667,
+      "num": 170249,
+      "word": "赵丽颖栗子妆",
+      "onboard_time": 1718595138,
+      "rank": 30,
+      "category": "作品衍生,艺人"
     },
     {
       "raw_hot": 183085,
@@ -2395,6 +2427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169716,
+      "num": 169716,
+      "word": "刘诗诗掌心杀青逆应援",
+      "onboard_time": 1718594657,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169495,
       "num": 154889,
       "word": "邓紫棋哭得差点唱不下去",
@@ -2489,6 +2529,14 @@
       "onboard_time": 1718520738,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 163829,
+      "num": 163829,
+      "word": "B太曝光司机拉客去西湖龙井产区乱象",
+      "onboard_time": 1718594957,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163731,
@@ -2731,6 +2779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145439,
+      "num": 145439,
+      "word": "玫瑰的故事看生气了",
+      "onboard_time": 1718595257,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144619,
       "num": 144619,
       "word": "老师希望姜萍少被贴天才少女标签",
@@ -2753,6 +2809,14 @@
       "onboard_time": 1718515397,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142488,
+      "num": 142488,
+      "word": "中国跑酷元老心脏病去世年仅39岁",
+      "onboard_time": 1718594597,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142164,
@@ -2835,6 +2899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135745,
+      "num": 415301,
+      "word": "年轻人双标消费行为大赏",
+      "onboard_time": 1718593158,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135119,
       "num": 135119,
       "word": "第五人格游园会",
@@ -2897,14 +2969,6 @@
       "onboard_time": 1718545820,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132143,
-      "num": 132143,
-      "word": "初级会计查成绩",
-      "onboard_time": 1718594417,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 131953,
@@ -3268,7 +3332,7 @@
     },
     {
       "raw_hot": 117217,
-      "num": 117217,
+      "num": 508843,
       "word": "跨越时空的6月17日",
       "onboard_time": 1718592377,
       "rank": 45,
@@ -3433,14 +3497,6 @@
       "onboard_time": 1718532558,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 105546,
-      "num": 415301,
-      "word": "年轻人双标消费行为大赏",
-      "onboard_time": 1718593158,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 105313,
@@ -4171,6 +4227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33556,
+      "num": 171412,
+      "word": "檀健次米兰秀场穿搭",
+      "onboard_time": 1718594058,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 32855,
       "num": 39864,
       "word": "infp的爽文女主体质",
@@ -4225,14 +4289,6 @@
       "onboard_time": 1718547979,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26862,
-      "num": 128242,
-      "word": "檀健次米兰秀场穿搭",
-      "onboard_time": 1718594058,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 26232,
@@ -4403,6 +4459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11431,
+      "num": 145668,
+      "word": "燕子你知道多少人在等你演唱会吗",
+      "onboard_time": 1718594477,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 10898,
       "num": 123911,
       "word": "音乐节的显眼包们",
@@ -4433,14 +4497,6 @@
       "onboard_time": 1718551940,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 6343,
-      "num": 103684,
-      "word": "燕子你知道多少人在等你演唱会吗",
-      "onboard_time": 1718594477,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 5774,
