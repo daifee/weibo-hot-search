@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718613491898,
+  "endTime": 1718616100116,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -56,6 +56,14 @@
       "word": "896工作制",
       "onboard_time": 1718610017,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1517972,
+      "num": 1517972,
+      "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+      "onboard_time": 1718611457,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -371,14 +379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 935555,
-      "num": 935555,
-      "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
-      "onboard_time": 1718611457,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 909842,
       "num": 909842,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -451,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 807290,
+      "num": 807290,
+      "word": "宁德时代回应网传896工作制",
+      "onboard_time": 1718610017,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782974,
       "num": 782974,
       "word": "东极岛",
       "onboard_time": 1718589556,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 770419,
+      "num": 770419,
+      "word": "邓超 歌手现在真缺我",
+      "onboard_time": 1718613377,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 752598,
@@ -513,6 +529,14 @@
       "onboard_time": 1718506997,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 711662,
+      "num": 711662,
+      "word": "南方医科大最新回应",
+      "onboard_time": 1718613438,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 705878,
@@ -705,6 +729,22 @@
       "onboard_time": 1718532498,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 583206,
+      "num": 214153,
+      "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
+      "onboard_time": 1718612178,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 577605,
+      "num": 577605,
+      "word": "男子连续5年点同一粤菜馆2101次",
+      "onboard_time": 1718613377,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576910,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1718527278,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 425053,
+      "num": 425053,
+      "word": "辛芷蕾的10套香奶奶",
+      "onboard_time": 1718614699,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 421947,
@@ -1587,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 328046,
+      "num": 328046,
+      "word": "吴谨言王星越将合体",
+      "onboard_time": 1718613197,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324463,
       "num": 324463,
       "word": "林更新说演研究生压力很大",
@@ -1899,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 258659,
+      "num": 258659,
+      "word": "退休人员基本养老金水平提高3%",
+      "onboard_time": 1718615417,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 255389,
       "num": 255389,
       "word": "玫瑰的故事 祛魅",
@@ -2028,7 +2092,7 @@
     },
     {
       "raw_hot": 233197,
-      "num": 204301,
+      "num": 209774,
       "word": "男生兼职攒一千给家里厨房装空调",
       "onboard_time": 1718609838,
       "rank": 23,
@@ -2097,14 +2161,6 @@
       "onboard_time": 1718605397,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223231,
-      "num": 150793,
-      "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
-      "onboard_time": 1718612178,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222106,
@@ -2305,6 +2361,14 @@
       "onboard_time": 1718497216,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207499,
+      "num": 207499,
+      "word": "养老金",
+      "onboard_time": 1718615898,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207300,
@@ -2521,6 +2585,14 @@
       "onboard_time": 1718479631,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193391,
+      "num": 193391,
+      "word": "月经期能下水游泳吗",
+      "onboard_time": 1718613618,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 193318,
@@ -3419,14 +3491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142693,
-      "num": 142693,
-      "word": "南方医科大最新回应",
-      "onboard_time": 1718613438,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142164,
       "num": 142164,
       "word": "赖冠霖 退圈信",
@@ -3449,6 +3513,14 @@
       "onboard_time": 1718608277,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140518,
+      "num": 140518,
+      "word": "谢娜说哈林邓超长得像",
+      "onboard_time": 1718615597,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140388,
@@ -3739,14 +3811,6 @@
       "category": "电影,时尚"
     },
     {
-      "raw_hot": 129760,
-      "num": 129760,
-      "word": "吴谨言王星越将合体",
-      "onboard_time": 1718613197,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129330,
       "num": 129330,
       "word": "黄牡丹 out",
@@ -3971,6 +4035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 122184,
+      "num": 122184,
+      "word": "林俊杰谈理想型",
+      "onboard_time": 1718614878,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "阴阳怪气的小猫",
@@ -4163,6 +4235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111836,
+      "num": 111836,
+      "word": "以色列解散战时内阁",
+      "onboard_time": 1718615958,
+      "rank": 38,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 110935,
       "num": 110935,
       "word": "火锅 舌头变黑",
@@ -4177,6 +4257,14 @@
       "onboard_time": 1718497636,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110732,
+      "num": 110732,
+      "word": "亚硝酸盐中毒",
+      "onboard_time": 1718615238,
+      "rank": 39,
+      "category": "科学科普"
     },
     {
       "raw_hot": 110678,
@@ -4267,14 +4355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 105261,
-      "num": 105261,
-      "word": "邓超 歌手现在真缺我",
-      "onboard_time": 1718613377,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104250,
       "num": 125141,
       "word": "考研上岸后亲戚发朋友圈阴阳我",
@@ -4353,14 +4433,6 @@
       "onboard_time": 1718518337,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99184,
-      "num": 150696,
-      "word": "男子连续5年点同一粤菜馆2101次",
-      "onboard_time": 1718613377,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98368,
@@ -4659,6 +4731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72023,
+      "num": 812150,
+      "word": "遭遇暴雨雷电天气如何保证自身安全",
+      "onboard_time": 1718615118,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70601,
       "num": 373895,
       "word": "有掼蛋礼盒单价超千元",
@@ -4731,12 +4811,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 62088,
+      "num": 443310,
+      "word": "厦大教授说平凡人的努力最动人",
+      "onboard_time": 1718614098,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60848,
       "num": 60848,
       "word": "张若昀许凯目黑莲方灿同排看秀",
       "onboard_time": 1718478020,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60693,
+      "num": 174329,
+      "word": "省的是钱攒的是快乐",
+      "onboard_time": 1718611819,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 60043,
@@ -5273,14 +5369,6 @@
       "onboard_time": 1718493432,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19942,
-      "num": 174329,
-      "word": "省的是钱攒的是快乐",
-      "onboard_time": 1718611819,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 18329,
