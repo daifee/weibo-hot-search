@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718580867394,
+  "endTime": 1718587382800,
   "band_list": [
     {
       "raw_hot": 1714608,
@@ -11,12 +11,52 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1099249,
+      "num": 208948,
+      "word": "有了微信小号才发现朋友圈的意义",
+      "onboard_time": 1718583919,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 978163,
+      "num": 978163,
+      "word": "菲律宾",
+      "onboard_time": 1718580916,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 973431,
+      "num": 708468,
+      "word": "老师回应姜萍竞赛名次比自己高",
+      "onboard_time": 1718580315,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 953791,
+      "num": 522809,
+      "word": "小县城里最舒服的人",
+      "onboard_time": 1718556316,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 908377,
-      "num": 136247,
+      "num": 208777,
       "word": "长期吃辣的人更容易得胃癌吗",
       "onboard_time": 1718550560,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 898445,
+      "num": 898445,
+      "word": "男生洗澡有了自己第一篇SCI",
+      "onboard_time": 1718584698,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 784054,
@@ -35,6 +75,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 688842,
+      "num": 366740,
+      "word": "iPhone17系列或迎来更薄机型",
+      "onboard_time": 1718583258,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 565271,
       "num": 565271,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -43,20 +91,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 563556,
+      "num": 563556,
+      "word": "冷藏货车违规乘人致8死司机被控制",
+      "onboard_time": 1718581996,
+      "rank": 4,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 535667,
       "num": 535667,
       "word": "章子怡 微博你们真会",
       "onboard_time": 1718548880,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 522809,
-      "num": 522809,
-      "word": "小县城里最舒服的人",
-      "onboard_time": 1718556316,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 521135,
@@ -68,7 +116,7 @@
     },
     {
       "raw_hot": 510872,
-      "num": 135012,
+      "num": 164986,
       "word": "毕业月薪六七千我妈说我要求低",
       "onboard_time": 1718552658,
       "rank": 22,
@@ -89,6 +137,14 @@
       "onboard_time": 1718549780,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 462289,
+      "num": 462289,
+      "word": "上海七号线",
+      "onboard_time": 1718586079,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449462,
@@ -115,12 +171,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 424268,
-      "num": 424268,
+      "raw_hot": 429815,
+      "num": 429815,
       "word": "一部被所有电影节拒收的电影",
       "onboard_time": 1718560453,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 418484,
+      "num": 364461,
+      "word": "孙丞潇压力大给金莎打视频",
+      "onboard_time": 1718585897,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 404354,
+      "num": 404354,
+      "word": "肖战家庭氛围",
+      "onboard_time": 1718582776,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 398285,
@@ -140,11 +212,27 @@
     },
     {
       "raw_hot": 388254,
-      "num": 135681,
+      "num": 207283,
       "word": "为什么不建议你喝太多苏打水",
       "onboard_time": 1718575931,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 371393,
+      "num": 371393,
+      "word": "20元乳胶枕加个枕套敢卖1000元",
+      "onboard_time": 1718580254,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362994,
+      "num": 362994,
+      "word": "偶遇喜欢了九年的歌手是什么体验",
+      "onboard_time": 1718583616,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 353348,
@@ -153,6 +241,14 @@
       "onboard_time": 1718579475,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 352118,
+      "num": 207722,
+      "word": "姜萍老师希望大家不要苛责决赛成绩",
+      "onboard_time": 1718582776,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345501,
@@ -187,12 +283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272935,
+      "num": 272935,
+      "word": "狗狗偷偷戴上了奶奶的假牙",
+      "onboard_time": 1718559732,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245179,
       "num": 245179,
       "word": "庄国栋 方协文",
       "onboard_time": 1718545219,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241196,
+      "num": 206531,
+      "word": "刚高考完的弟弟发了张列表给我",
+      "onboard_time": 1718583438,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 240686,
@@ -219,12 +331,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 214981,
+      "num": 214981,
+      "word": "胡歌晒小时候和父亲合照",
+      "onboard_time": 1718581937,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213588,
       "num": 213588,
       "word": "不结婚的年轻人重伤糖果业",
       "onboard_time": 1718534178,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 211400,
+      "num": 205944,
+      "word": "薛芳菲勇敢飞萧蘅永相随",
+      "onboard_time": 1718585777,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 210500,
@@ -235,12 +363,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210183,
+      "num": 210183,
+      "word": "20至40岁男性人口比女性多1752万人",
+      "onboard_time": 1718584518,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205413,
+      "num": 205413,
+      "word": "大量出汗后不能只喝白开水",
+      "onboard_time": 1718584217,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202202,
       "num": 127958,
       "word": "王一博 微博比我更热",
       "onboard_time": 1718548279,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191872,
+      "num": 191872,
+      "word": "麦当劳叫停自动点餐测试项目",
+      "onboard_time": 1718584338,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 189912,
+      "num": 189912,
+      "word": "提了离职没走的人怎么样了",
+      "onboard_time": 1718585298,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 187648,
@@ -275,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168357,
-      "num": 168357,
-      "word": "狗狗偷偷戴上了奶奶的假牙",
-      "onboard_time": 1718559732,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 160857,
       "num": 127247,
       "word": "胡歌质问腾讯视频",
@@ -307,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154801,
+      "num": 154801,
+      "word": "胡歌易烊千玺背影同框",
+      "onboard_time": 1718583678,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152007,
+      "num": 152007,
+      "word": "檀健次谈最爱的秀场单品",
+      "onboard_time": 1718586616,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 150379,
       "num": 150379,
       "word": "我国第一颗氢弹爆炸震撼瞬间",
@@ -315,8 +483,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 136293,
-      "num": 136293,
+      "raw_hot": 140061,
+      "num": 140061,
       "word": "乳胶枕头投诉量直线飙升",
       "onboard_time": 1718571971,
       "rank": 34,
@@ -355,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127805,
+      "num": 127805,
+      "word": "newjeans新歌",
+      "onboard_time": 1718585239,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 127633,
       "num": 94546,
       "word": "墨雨云间团综没招到商",
@@ -379,6 +555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125366,
+      "num": 125366,
+      "word": "结婚后为啥朋友都疏远了",
+      "onboard_time": 1718581456,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 122515,
+      "num": 122515,
+      "word": "菲船只故意危险接近中方船只致擦碰",
+      "onboard_time": 1718585179,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121433,
       "num": 121433,
       "word": "林更新彭冠英对峙戏",
@@ -395,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118040,
+      "num": 118040,
+      "word": "古尔邦节",
+      "onboard_time": 1718587156,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 113755,
       "num": 89416,
       "word": "肖战一天逛了两个艺术馆",
@@ -403,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 110545,
-      "num": 105290,
-      "word": "老师回应姜萍竞赛名次比自己高",
-      "onboard_time": 1718580315,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 110678,
+      "num": 110678,
+      "word": "欧洲杯比分",
+      "onboard_time": 1718585658,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 110305,
@@ -515,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72167,
+      "num": 210128,
+      "word": "浙江宣传谈姜萍",
+      "onboard_time": 1718584698,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65772,
       "num": 65772,
       "word": "sana好美",
@@ -553,14 +761,6 @@
       "onboard_time": 1718559013,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 54933,
-      "num": 213475,
-      "word": "20元乳胶枕加个枕套敢卖1000元",
-      "onboard_time": 1718580254,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46474,
@@ -620,7 +820,7 @@
     },
     {
       "raw_hot": 24829,
-      "num": 425434,
+      "num": 730219,
       "word": "交通互联互通带来发展机遇无限",
       "onboard_time": 1718541857,
       "rank": 2,
