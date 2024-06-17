@@ -1,0 +1,410 @@
+{
+  "runTime": 1718628732791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1331131,
+        "num": 1331131,
+        "word": "知情人称遇难8人非首次坐冷藏车",
+        "onboard_time": 1718624417,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1004645,
+        "num": 1004645,
+        "word": "火鸡面",
+        "onboard_time": 1718625498,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86308,
+        "num": 850973,
+        "word": "教育部首次上线高考志愿信息系统",
+        "onboard_time": 1718618298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769565,
+        "num": 769565,
+        "word": "iPhone15多次降价重回销量榜第一",
+        "onboard_time": 1718626157,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 712499,
+        "num": 712499,
+        "word": "邓超体检身体年龄仅27岁",
+        "onboard_time": 1718618417,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593118,
+        "num": 593118,
+        "word": "朱一龙吴磊 平番",
+        "onboard_time": 1718622258,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 575835,
+        "num": 575835,
+        "word": "林更新演技",
+        "onboard_time": 1718628257,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542391,
+        "num": 542391,
+        "word": "姜萍初中数学教师发声",
+        "onboard_time": 1718625258,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 445802,
+        "num": 445802,
+        "word": "男子误机花6000从天津打车到西安",
+        "onboard_time": 1718617158,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55160,
+        "num": 365029,
+        "word": "维E乳公司创始人辟谣是假协和",
+        "onboard_time": 1718625258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 880809,
+        "num": 362677,
+        "word": "苏敏 离婚",
+        "onboard_time": 1718625438,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 353432,
+        "num": 353432,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347194,
+        "num": 347194,
+        "word": "玫瑰的故事 绝症哥",
+        "onboard_time": 1718619618,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 342608,
+        "num": 342608,
+        "word": "林更新怼黑粉 一战成名",
+        "onboard_time": 1718624476,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70216,
+        "num": 299661,
+        "word": "多多不想让您受委屈",
+        "onboard_time": 1718622797,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 296728,
+        "num": 296728,
+        "word": "黑神话 抢到了",
+        "onboard_time": 1718626938,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293642,
+        "num": 293642,
+        "word": "庄国栋碎了",
+        "onboard_time": 1718620937,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254072,
+        "num": 254072,
+        "word": "丈夫替怀孕妻子辞职合理吗",
+        "onboard_time": 1718617396,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239336,
+        "num": 239336,
+        "word": "王皓带娃主打一个舒适",
+        "onboard_time": 1718628018,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211465,
+        "num": 211465,
+        "word": "D组好乱",
+        "onboard_time": 1718624177,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2001,
+        "num": 210130,
+        "word": "微博电影之夜神图",
+        "onboard_time": 1718627477,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 422220,
+        "num": 206709,
+        "word": "瘦了20斤才敢说的实话",
+        "onboard_time": 1718622018,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 360686,
+        "num": 201192,
+        "word": "越来越多年轻人患上结婚羞耻症",
+        "onboard_time": 1718623396,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302550,
+        "num": 200164,
+        "word": "一中国公民在印度被扣押期间死亡",
+        "onboard_time": 1718623157,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214788,
+        "num": 194395,
+        "word": "苗苗在乘风兼职",
+        "onboard_time": 1718626397,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194199,
+        "num": 194199,
+        "word": "秀出你的王者S35段位",
+        "onboard_time": 1718627898,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178302,
+        "num": 178302,
+        "word": "单依纯大学生什么都敢说",
+        "onboard_time": 1718625137,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178115,
+        "num": 178115,
+        "word": "王一博 伪素颜",
+        "onboard_time": 1718626818,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174819,
+        "num": 174819,
+        "word": "王者荣耀 鸡爪流",
+        "onboard_time": 1718620217,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171276,
+        "num": 171276,
+        "word": "抓特务",
+        "onboard_time": 1718626518,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228447,
+        "num": 166327,
+        "word": "GUCCI大秀",
+        "onboard_time": 1718628257,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 160990,
+        "num": 160990,
+        "word": "湖南卫视开心夜节目单",
+        "onboard_time": 1718618898,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156127,
+        "num": 156127,
+        "word": "雷佳音胡歌出演冯小刚新片",
+        "onboard_time": 1718624298,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150836,
+        "num": 150836,
+        "word": "王星越吴谨言这大手这小腰",
+        "onboard_time": 1718628018,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140873,
+        "num": 140873,
+        "word": "叶童赵雅芝牵手梦回许仙白娘子",
+        "onboard_time": 1718628078,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128955,
+        "num": 128955,
+        "word": "南方医科大最新回应",
+        "onboard_time": 1718613438,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124853,
+        "num": 124853,
+        "word": "记者暗访鸭鹅肠工厂电话被李主任泄漏",
+        "onboard_time": 1718623396,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120032,
+        "num": 120032,
+        "word": "罗云熙美依礼芽极乐净土",
+        "onboard_time": 1718619017,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134340,
+        "num": 120013,
+        "word": "王星越叼玉佩镜头加一",
+        "onboard_time": 1718619497,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119766,
+        "num": 119766,
+        "word": "养老金",
+        "onboard_time": 1718615898,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118989,
+        "num": 118989,
+        "word": "普京将访问朝鲜和越南",
+        "onboard_time": 1718628437,
+        "rank": 40,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 113685,
+        "num": 113685,
+        "word": "楠火锅发布舌头变黑事件说明",
+        "onboard_time": 1718619978,
+        "rank": 41,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 110750,
+        "num": 110750,
+        "word": "那英 死也死不了活着被烤",
+        "onboard_time": 1718606958,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106953,
+        "num": 106953,
+        "word": "罗马尼亚vs乌克兰",
+        "onboard_time": 1718626877,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103367,
+        "num": 103367,
+        "word": "面个试把隐私都问完了",
+        "onboard_time": 1718622258,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99232,
+        "num": 99232,
+        "word": "佟大为和刘亦菲演兄妹是按父女演的",
+        "onboard_time": 1718624057,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95692,
+        "num": 95692,
+        "word": "吴谨言王星越将合体",
+        "onboard_time": 1718613197,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92942,
+        "num": 92942,
+        "word": "杭州市场监督管理局情况通报",
+        "onboard_time": 1718628498,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87609,
+        "num": 87609,
+        "word": "老人被骗79万元崩溃哭泣",
+        "onboard_time": 1718605157,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87260,
+        "num": 87260,
+        "word": "你能赢黄蓉算我输",
+        "onboard_time": 1718628676,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺黄埔军校建校100周年#"
+    }
+  }
+}
