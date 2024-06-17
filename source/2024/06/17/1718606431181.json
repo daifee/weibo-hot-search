@@ -1,0 +1,410 @@
+{
+  "runTime": 1718606431181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 941023,
+        "num": 941023,
+        "word": "传宁德时代施行896工作制",
+        "onboard_time": 1718598559,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709673,
+        "num": 709673,
+        "word": "玫瑰的亲事倒数第一竞争激烈",
+        "onboard_time": 1718601437,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88428,
+        "num": 572220,
+        "word": "2000年前的简历怎么写",
+        "onboard_time": 1718596817,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500946,
+        "num": 500946,
+        "word": "姜萍4月份总成绩年级第一",
+        "onboard_time": 1718595617,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465892,
+        "num": 465892,
+        "word": "墨雨云间 爽剧不爽了",
+        "onboard_time": 1718594898,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458800,
+        "num": 458800,
+        "word": "日本文科生就业率达到97.1%",
+        "onboard_time": 1718600779,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452820,
+        "num": 452820,
+        "word": "工人排水口小便后捞出死鸭送车间",
+        "onboard_time": 1718592137,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447284,
+        "num": 447284,
+        "word": "北京高考已有满分作文备选",
+        "onboard_time": 1718600837,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 402644,
+        "num": 402644,
+        "word": "宁德时代",
+        "onboard_time": 1718604918,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83526,
+        "num": 376949,
+        "word": "中专数学老师课堂上播姜萍",
+        "onboard_time": 1718605877,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 845348,
+        "num": 372613,
+        "word": "男子离婚前贷款45万并转给母亲35万",
+        "onboard_time": 1718603238,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361210,
+        "num": 361210,
+        "word": "中国对澳大利亚单方面免签",
+        "onboard_time": 1718599338,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341622,
+        "num": 341622,
+        "word": "日本人把西瓜皮都拿出来卖了",
+        "onboard_time": 1718599699,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303562,
+        "num": 303562,
+        "word": "刘浩存周也 你快笑啊在拍了",
+        "onboard_time": 1718590097,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271952,
+        "num": 271952,
+        "word": "埃及国家博物馆感觉要被搬空了",
+        "onboard_time": 1718602580,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268361,
+        "num": 268361,
+        "word": "汪峰参与那英我是歌手选歌",
+        "onboard_time": 1718601379,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46271,
+        "num": 265874,
+        "word": "怪不得你是上届宫斗冠军",
+        "onboard_time": 1718603357,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265587,
+        "num": 265587,
+        "word": "暑期档唯一灾难大片来了",
+        "onboard_time": 1718598618,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264570,
+        "num": 264570,
+        "word": "以后骂人不能骂她是梅超风了",
+        "onboard_time": 1718602337,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256889,
+        "num": 256889,
+        "word": "林更新说演研究生压力很大",
+        "onboard_time": 1718604318,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51,
+        "num": 254765,
+        "word": "倪妮镜头里的黄渤",
+        "onboard_time": 1718602580,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 552847,
+        "num": 254587,
+        "word": "救人迟到儿科医师已停诊",
+        "onboard_time": 1718602937,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321596,
+        "num": 254558,
+        "word": "有了微信小号才发现朋友圈的意义",
+        "onboard_time": 1718583919,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253816,
+        "num": 253816,
+        "word": "老人被骗79万元崩溃哭泣",
+        "onboard_time": 1718605157,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231694,
+        "num": 231694,
+        "word": "长期吃辣的人更容易得胃癌吗",
+        "onboard_time": 1718550560,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 223981,
+        "num": 223981,
+        "word": "SUHO向粉丝道歉",
+        "onboard_time": 1718605397,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195721,
+        "num": 195721,
+        "word": "惠英红看刘亦菲的眼神",
+        "onboard_time": 1718599460,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182543,
+        "num": 182543,
+        "word": "谋女郎和谋男郎坐一起了",
+        "onboard_time": 1718599760,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175159,
+        "num": 175159,
+        "word": "日媒称罕见细菌在日本蔓延",
+        "onboard_time": 1718602998,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171799,
+        "num": 171799,
+        "word": "优酷客服回应墨雨云间减更",
+        "onboard_time": 1718600837,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170127,
+        "num": 170127,
+        "word": "楠火锅回应顾客就餐后舌头变黑",
+        "onboard_time": 1718606057,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164168,
+        "num": 164168,
+        "word": "姐妹俩一起开小饭馆同时确诊肺癌",
+        "onboard_time": 1718597538,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160101,
+        "num": 160101,
+        "word": "张杰张若昀两个女儿奴",
+        "onboard_time": 1718590398,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158660,
+        "num": 158660,
+        "word": "初级会计查成绩",
+        "onboard_time": 1718594417,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149690,
+        "num": 149690,
+        "word": "大家好像都不被允许休息",
+        "onboard_time": 1718601738,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146792,
+        "num": 146792,
+        "word": "梅西拒绝吉达联合14亿报价系谣言",
+        "onboard_time": 1718605877,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132187,
+        "num": 132187,
+        "word": "记者卧底鸭肠鹅肠工厂",
+        "onboard_time": 1718588596,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131697,
+        "num": 131697,
+        "word": "菲律宾一运补船非法闯入仁爱礁海域",
+        "onboard_time": 1718604078,
+        "rank": 37,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 123148,
+        "num": 123148,
+        "word": "韩国200多年前的诸葛亮画像被盗",
+        "onboard_time": 1718604018,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18329,
+        "num": 121844,
+        "word": "全网都在接紫定红好运",
+        "onboard_time": 1718604018,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 121589,
+        "num": 121589,
+        "word": "焉栩嘉腹肌",
+        "onboard_time": 1718605099,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120500,
+        "num": 120500,
+        "word": "刘些宁哭戏共情力",
+        "onboard_time": 1718606238,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118832,
+        "num": 118832,
+        "word": "市监局回应工人脚踩鹅肠",
+        "onboard_time": 1718604018,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118489,
+        "num": 118489,
+        "word": "电影红楼梦定档",
+        "onboard_time": 1718603123,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116535,
+        "num": 116535,
+        "word": "福建武平暴雨已致4死亡2失踪",
+        "onboard_time": 1718603416,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113088,
+        "num": 113088,
+        "word": "男生洗澡有了自己第一篇SCI",
+        "onboard_time": 1718584698,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112512,
+        "num": 112512,
+        "word": "孙阳 谁的奖杯丢了",
+        "onboard_time": 1718604078,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100789,
+        "num": 100789,
+        "word": "玫瑰的故事看生气了",
+        "onboard_time": 1718595257,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99578,
+        "num": 99578,
+        "word": "孙丞潇真能做53天饭不重样",
+        "onboard_time": 1718600119,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98368,
+        "num": 98368,
+        "word": "福建一地山体滑坡有房屋被掩埋",
+        "onboard_time": 1718606297,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强荒漠化治理和湿地保护#"
+    }
+  }
+}

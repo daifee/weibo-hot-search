@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718605676231,
+  "endTime": 1718606431181,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845348,
+      "num": 372613,
+      "word": "男子离婚前贷款45万并转给母亲35万",
+      "onboard_time": 1718603238,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 842382,
       "num": 842382,
       "word": "疑似外国人起飞时偷拍军民合用机场",
@@ -393,14 +401,6 @@
       "onboard_time": 1718590398,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 804098,
-      "num": 369905,
-      "word": "男子离婚前贷款45万并转给母亲35万",
-      "onboard_time": 1718603238,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 782974,
@@ -692,7 +692,7 @@
     },
     {
       "raw_hot": 561083,
-      "num": 243960,
+      "num": 341622,
       "word": "日本人把西瓜皮都拿出来卖了",
       "onboard_time": 1718599699,
       "rank": 21,
@@ -712,6 +712,14 @@
       "word": "B太曝光司机拉客去西湖龙井产区乱象",
       "onboard_time": 1718594957,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552847,
+      "num": 254587,
+      "word": "救人迟到儿科医师已停诊",
+      "onboard_time": 1718602937,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -905,14 +913,6 @@
       "onboard_time": 1718515397,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 466747,
-      "num": 201294,
-      "word": "救人迟到儿科医师已停诊",
-      "onboard_time": 1718602937,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466446,
@@ -1169,6 +1169,14 @@
       "onboard_time": 1718582776,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402644,
+      "num": 402644,
+      "word": "宁德时代",
+      "onboard_time": 1718604918,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400806,
@@ -1739,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271952,
+      "num": 271952,
+      "word": "埃及国家博物馆感觉要被搬空了",
+      "onboard_time": 1718602580,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270032,
       "num": 270032,
       "word": "sana好美",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1718513357,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 268086,
-      "num": 268086,
-      "word": "埃及国家博物馆感觉要被搬空了",
-      "onboard_time": 1718602580,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 267953,
@@ -1803,12 +1811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256889,
+      "num": 256889,
+      "word": "林更新说演研究生压力很大",
+      "onboard_time": 1718604318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255389,
       "num": 255389,
       "word": "玫瑰的故事 祛魅",
       "onboard_time": 1718598079,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253816,
+      "num": 253816,
+      "word": "老人被骗79万元崩溃哭泣",
+      "onboard_time": 1718605157,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253658,
@@ -1915,14 +1939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 233703,
-      "num": 233703,
-      "word": "宁德时代",
-      "onboard_time": 1718604918,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232051,
       "num": 232051,
       "word": "周深回应孙楠唱人是",
@@ -1977,6 +1993,14 @@
       "onboard_time": 1718462420,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 223981,
+      "num": 223981,
+      "word": "SUHO向粉丝道歉",
+      "onboard_time": 1718605397,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 222106,
@@ -2099,14 +2123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 213491,
-      "num": 172093,
-      "word": "林更新说演研究生压力很大",
-      "onboard_time": 1718604318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213388,
       "num": 213388,
       "word": "王星越正是忍不住炫耀的年纪",
@@ -2129,14 +2145,6 @@
       "onboard_time": 1718532798,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212963,
-      "num": 200161,
-      "word": "SUHO向粉丝道歉",
-      "onboard_time": 1718605397,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 212613,
@@ -2667,6 +2675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175159,
+      "num": 175159,
+      "word": "日媒称罕见细菌在日本蔓延",
+      "onboard_time": 1718602998,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175139,
       "num": 175139,
       "word": "教师因治病救人迟到该不该受处分",
@@ -2747,11 +2763,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170489,
-      "num": 170489,
-      "word": "日媒称罕见细菌在日本蔓延",
-      "onboard_time": 1718602998,
-      "rank": 31,
+      "raw_hot": 170127,
+      "num": 170127,
+      "word": "楠火锅回应顾客就餐后舌头变黑",
+      "onboard_time": 1718606057,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3115,14 +3131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148343,
-      "num": 148343,
-      "word": "老人被骗79万元崩溃哭泣",
-      "onboard_time": 1718605157,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 147604,
       "num": 147604,
       "word": "社工考试",
@@ -3153,6 +3161,14 @@
       "onboard_time": 1718520557,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146792,
+      "num": 146792,
+      "word": "梅西拒绝吉达联合14亿报价系谣言",
+      "onboard_time": 1718605877,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 146343,
@@ -3699,6 +3715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120500,
+      "num": 120500,
+      "word": "刘些宁哭戏共情力",
+      "onboard_time": 1718606238,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120387,
       "num": 120387,
       "word": "复旦数院教授谈姜萍",
@@ -3729,6 +3753,14 @@
       "onboard_time": 1718533159,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118832,
+      "num": 373718,
+      "word": "市监局回应工人脚踩鹅肠",
+      "onboard_time": 1718604018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118144,
@@ -4019,6 +4051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98368,
+      "num": 98368,
+      "word": "福建一地山体滑坡有房屋被掩埋",
+      "onboard_time": 1718606297,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98190,
       "num": 125077,
       "word": "翔霖",
@@ -4179,6 +4219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83526,
+      "num": 376949,
+      "word": "中专数学老师课堂上播姜萍",
+      "onboard_time": 1718605877,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 82269,
       "num": 124968,
       "word": "摩羯座真正的追求",
@@ -4295,14 +4343,6 @@
       "num": 433617,
       "word": "老太照料未婚伴侣多年获房屋居住权",
       "onboard_time": 1718521876,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66412,
-      "num": 373718,
-      "word": "市监局回应工人脚踩鹅肠",
-      "onboard_time": 1718604018,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -4515,6 +4555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46271,
+      "num": 265874,
+      "word": "怪不得你是上届宫斗冠军",
+      "onboard_time": 1718603357,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44467,
       "num": 76550,
       "word": "邓紫棋青岛现场",
@@ -4649,14 +4697,6 @@
       "onboard_time": 1718493193,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37272,
-      "num": 236845,
-      "word": "怪不得你是上届宫斗冠军",
-      "onboard_time": 1718603357,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 37241,
@@ -4812,7 +4852,7 @@
     },
     {
       "raw_hot": 24145,
-      "num": 128149,
+      "num": 254765,
       "word": "倪妮镜头里的黄渤",
       "onboard_time": 1718602580,
       "rank": 49,
@@ -4883,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18329,
+      "num": 129922,
+      "word": "全网都在接紫定红好运",
+      "onboard_time": 1718604018,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 17122,
       "num": 580255,
       "word": "爸爸撑起了我的全世界",
@@ -4905,14 +4953,6 @@
       "onboard_time": 1718564891,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 15409,
-      "num": 129922,
-      "word": "全网都在接紫定红好运",
-      "onboard_time": 1718604018,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 15387,
