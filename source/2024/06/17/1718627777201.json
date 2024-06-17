@@ -1,0 +1,410 @@
+{
+  "runTime": 1718627777201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1234839,
+        "num": 1234839,
+        "word": "知情人称遇难8人非首次坐冷藏车",
+        "onboard_time": 1718624417,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 805753,
+        "num": 805753,
+        "word": "邓超体检身体年龄仅27岁",
+        "onboard_time": 1718618417,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45981,
+        "num": 783949,
+        "word": "教育部首次上线高考志愿信息系统",
+        "onboard_time": 1718618298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778075,
+        "num": 778075,
+        "word": "火鸡面",
+        "onboard_time": 1718625498,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 703950,
+        "num": 703950,
+        "word": "朱一龙吴磊 平番",
+        "onboard_time": 1718622258,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 696986,
+        "num": 696986,
+        "word": "iPhone15多次降价重回销量榜第一",
+        "onboard_time": 1718626157,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 543193,
+        "num": 543193,
+        "word": "男子误机花6000从天津打车到西安",
+        "onboard_time": 1718617158,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538375,
+        "num": 538375,
+        "word": "姜萍初中数学教师发声",
+        "onboard_time": 1718625258,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 398331,
+        "num": 398331,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44692,
+        "num": 395206,
+        "word": "维E乳公司创始人辟谣是假协和",
+        "onboard_time": 1718625258,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608342,
+        "num": 395081,
+        "word": "苏敏 离婚",
+        "onboard_time": 1718625438,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 541761,
+        "num": 394318,
+        "word": "D组好乱",
+        "onboard_time": 1718624177,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 393056,
+        "num": 393056,
+        "word": "林更新怼黑粉 一战成名",
+        "onboard_time": 1718624476,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291664,
+        "num": 291664,
+        "word": "庄国栋碎了",
+        "onboard_time": 1718620937,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34963,
+        "num": 290538,
+        "word": "多多不想让您受委屈",
+        "onboard_time": 1718622797,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290508,
+        "num": 290508,
+        "word": "玫瑰的故事 绝症哥",
+        "onboard_time": 1718619618,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264115,
+        "num": 264115,
+        "word": "丈夫替怀孕妻子辞职合理吗",
+        "onboard_time": 1718617396,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228731,
+        "num": 228731,
+        "word": "苗苗在乘风兼职",
+        "onboard_time": 1718626397,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228357,
+        "num": 228357,
+        "word": "黑神话 抢到了",
+        "onboard_time": 1718626938,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 213041,
+        "num": 213041,
+        "word": "王者荣耀 鸡爪流",
+        "onboard_time": 1718620217,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 557322,
+        "num": 210086,
+        "word": "瘦了20斤才敢说的实话",
+        "onboard_time": 1718622018,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 335803,
+        "num": 210022,
+        "word": "越来越多年轻人患上结婚羞耻症",
+        "onboard_time": 1718623396,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305868,
+        "num": 209201,
+        "word": "一中国公民在印度被扣押期间死亡",
+        "onboard_time": 1718623157,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197831,
+        "num": 197831,
+        "word": "雷佳音胡歌出演冯小刚新片",
+        "onboard_time": 1718624298,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196191,
+        "num": 196191,
+        "word": "抓特务",
+        "onboard_time": 1718626518,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194077,
+        "num": 194077,
+        "word": "罗马尼亚vs乌克兰",
+        "onboard_time": 1718626877,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32830,
+        "num": 192672,
+        "word": "万千气象看甘肃",
+        "onboard_time": 1718613858,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192065,
+        "num": 192065,
+        "word": "朱一龙管虎二搭",
+        "onboard_time": 1718626637,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183258,
+        "num": 183258,
+        "word": "单依纯大学生什么都敢说",
+        "onboard_time": 1718625137,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170743,
+        "num": 170743,
+        "word": "南方医科大最新回应",
+        "onboard_time": 1718613438,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166656,
+        "num": 166656,
+        "word": "楠火锅发布舌头变黑事件说明",
+        "onboard_time": 1718619978,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 154725,
+        "num": 154725,
+        "word": "湖南卫视开心夜节目单",
+        "onboard_time": 1718618898,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151550,
+        "num": 151550,
+        "word": "王一博 伪素颜",
+        "onboard_time": 1718626818,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145623,
+        "num": 145623,
+        "word": "王星越叼玉佩镜头加一",
+        "onboard_time": 1718619497,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139777,
+        "num": 139777,
+        "word": "记者暗访鸭鹅肠工厂电话被李主任泄漏",
+        "onboard_time": 1718623396,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133477,
+        "num": 133477,
+        "word": "那英 死也死不了活着被烤",
+        "onboard_time": 1718606958,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122476,
+        "num": 122476,
+        "word": "养老金",
+        "onboard_time": 1718615898,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116488,
+        "num": 116488,
+        "word": "罗云熙美依礼芽极乐净土",
+        "onboard_time": 1718619017,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115978,
+        "num": 115978,
+        "word": "面个试把隐私都问完了",
+        "onboard_time": 1718622258,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111141,
+        "num": 111141,
+        "word": "秦昊问金靖什么时候生",
+        "onboard_time": 1718618178,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105992,
+        "num": 105992,
+        "word": "佟大为和刘亦菲演兄妹是按父女演的",
+        "onboard_time": 1718624057,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9001,
+        "num": 104891,
+        "word": "微博电影之夜神图",
+        "onboard_time": 1718627477,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72859,
+        "num": 104877,
+        "word": "红柳烤串教给我的科学知识",
+        "onboard_time": 1718625498,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 104876,
+        "num": 104876,
+        "word": "吴谨言王星越将合体",
+        "onboard_time": 1718613197,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104787,
+        "num": 104787,
+        "word": "救人迟到儿科医师已停诊",
+        "onboard_time": 1718602937,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101574,
+        "num": 101574,
+        "word": "朱一龙吴磊为新片做了闭气训练",
+        "onboard_time": 1718626217,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97630,
+        "num": 97630,
+        "word": "齐司礼 拥吻",
+        "onboard_time": 1718624897,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94372,
+        "num": 94372,
+        "word": "老人被骗79万元崩溃哭泣",
+        "onboard_time": 1718605157,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93835,
+        "num": 93835,
+        "word": "邓超 歌手现在真缺我",
+        "onboard_time": 1718613377,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92695,
+        "num": 92695,
+        "word": "姜若瑶碎了",
+        "onboard_time": 1718611278,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}

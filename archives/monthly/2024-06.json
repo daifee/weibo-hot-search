@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718624075501,
+  "endTime": 1718627777201,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2067,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1234839,
+      "num": 1234839,
+      "word": "知情人称遇难8人非首次坐冷藏车",
+      "onboard_time": 1718624417,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1233618,
       "num": 1233618,
       "word": "12306回应网友建议实行男女分车厢",
@@ -2900,7 +2908,7 @@
     },
     {
       "raw_hot": 1046139,
-      "num": 606675,
+      "num": 703950,
       "word": "朱一龙吴磊 平番",
       "onboard_time": 1718622258,
       "rank": 4,
@@ -4347,6 +4355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 805753,
+      "num": 805753,
+      "word": "邓超体检身体年龄仅27岁",
+      "onboard_time": 1718618417,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 803272,
       "num": 803272,
       "word": "樊振东 安踏",
@@ -4553,6 +4569,14 @@
       "onboard_time": 1717323977,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 778075,
+      "num": 778075,
+      "word": "火鸡面",
+      "onboard_time": 1718625498,
+      "rank": 3,
+      "category": "美食"
     },
     {
       "raw_hot": 777310,
@@ -5601,6 +5625,14 @@
       "onboard_time": 1717650498,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696986,
+      "num": 696986,
+      "word": "iPhone15多次降价重回销量榜第一",
+      "onboard_time": 1718626157,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 696718,
@@ -6963,6 +6995,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 608342,
+      "num": 395081,
+      "word": "苏敏 离婚",
+      "onboard_time": 1718625438,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
       "raw_hot": 607067,
       "num": 234861,
       "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
@@ -7017,14 +7057,6 @@
       "onboard_time": 1717248738,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 604647,
-      "num": 604647,
-      "word": "邓超体检身体年龄仅27岁",
-      "onboard_time": 1718618417,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 604499,
@@ -7955,6 +7987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 557322,
+      "num": 235318,
+      "word": "瘦了20斤才敢说的实话",
+      "onboard_time": 1718622018,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 556649,
       "num": 556649,
       "word": "帅气高考生出考场喊话王鹤棣",
@@ -8219,6 +8259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541761,
+      "num": 394318,
+      "word": "D组好乱",
+      "onboard_time": 1718624177,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 541510,
       "num": 541510,
       "word": "Citywalk后年轻人又爱上了Wildeat",
@@ -8313,6 +8361,14 @@
       "onboard_time": 1717652539,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 538375,
+      "num": 538375,
+      "word": "姜萍初中数学教师发声",
+      "onboard_time": 1718625258,
+      "rank": 7,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 537692,
@@ -8433,14 +8489,6 @@
       "onboard_time": 1717507758,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 532586,
-      "num": 235318,
-      "word": "瘦了20斤才敢说的实话",
-      "onboard_time": 1718622018,
-      "rank": 21,
-      "category": "运动健身"
     },
     {
       "raw_hot": 532107,
@@ -12475,6 +12523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 393056,
+      "num": 393056,
+      "word": "林更新怼黑粉 一战成名",
+      "onboard_time": 1718624476,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 392817,
       "num": 235552,
       "word": "Cube回应解约",
@@ -14627,6 +14683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335803,
+      "num": 234601,
+      "word": "越来越多年轻人患上结婚羞耻症",
+      "onboard_time": 1718623396,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 335624,
       "num": 218433,
       "word": "汪苏泷加场",
@@ -15899,6 +15963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305868,
+      "num": 210233,
+      "word": "一中国公民在印度被扣押期间死亡",
+      "onboard_time": 1718623157,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 305776,
       "num": 305776,
       "word": "以为是更年期结果是怀孕了",
@@ -16641,6 +16713,14 @@
       "onboard_time": 1717564698,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 291664,
+      "num": 291664,
+      "word": "庄国栋碎了",
+      "onboard_time": 1718620937,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 291553,
@@ -20155,14 +20235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234601,
-      "num": 234601,
-      "word": "越来越多年轻人患上结婚羞耻症",
-      "onboard_time": 1718623396,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234450,
       "num": 234450,
       "word": "女子去朋友家做客被浙江农村惊到了",
@@ -20531,6 +20603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228731,
+      "num": 228731,
+      "word": "苗苗在乘风兼职",
+      "onboard_time": 1718626397,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228713,
       "num": 199892,
       "word": "为何大家丧失了原倍速看剧的能力",
@@ -20577,6 +20657,14 @@
       "onboard_time": 1717654698,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 228357,
+      "num": 228357,
+      "word": "黑神话 抢到了",
+      "onboard_time": 1718626938,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 228283,
@@ -21444,7 +21532,7 @@
     },
     {
       "raw_hot": 218429,
-      "num": 218429,
+      "num": 783949,
       "word": "教育部首次上线高考志愿信息系统",
       "onboard_time": 1718618298,
       "rank": 31,
@@ -21681,14 +21769,6 @@
       "onboard_time": 1717741700,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216433,
-      "num": 216433,
-      "word": "庄国栋碎了",
-      "onboard_time": 1718620937,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 216425,
@@ -22369,14 +22449,6 @@
       "onboard_time": 1717736181,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210233,
-      "num": 210233,
-      "word": "一中国公民在印度被扣押期间死亡",
-      "onboard_time": 1718623157,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 210229,
@@ -24451,6 +24523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 197831,
+      "num": 197831,
+      "word": "雷佳音胡歌出演冯小刚新片",
+      "onboard_time": 1718624298,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197820,
       "num": 197820,
       "word": "为什么总有人觉得女生不适合学理科",
@@ -24721,6 +24801,14 @@
       "onboard_time": 1717405339,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 196191,
+      "num": 196191,
+      "word": "抓特务",
+      "onboard_time": 1718626518,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 196162,
@@ -25107,6 +25195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194077,
+      "num": 194077,
+      "word": "罗马尼亚vs乌克兰",
+      "onboard_time": 1718626877,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194027,
       "num": 194027,
       "word": "王星越看得出他是公主",
@@ -25441,6 +25537,14 @@
       "onboard_time": 1717823957,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 192065,
+      "num": 192065,
+      "word": "朱一龙管虎二搭",
+      "onboard_time": 1718626637,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 192058,
@@ -26977,6 +27081,14 @@
       "onboard_time": 1718615958,
       "rank": 38,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 183258,
+      "num": 183258,
+      "word": "单依纯大学生什么都敢说",
+      "onboard_time": 1718625137,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 183151,
@@ -32491,6 +32603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151550,
+      "num": 151550,
+      "word": "王一博 伪素颜",
+      "onboard_time": 1718626818,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151472,
       "num": 151472,
       "word": "四川阿坝4.2级地震",
@@ -34721,6 +34841,14 @@
       "onboard_time": 1717286295,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139777,
+      "num": 312626,
+      "word": "记者暗访鸭鹅肠工厂电话被李主任泄漏",
+      "onboard_time": 1718623396,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139776,
@@ -41955,6 +42083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 101574,
+      "num": 101574,
+      "word": "朱一龙吴磊为新片做了闭气训练",
+      "onboard_time": 1718626217,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101529,
       "num": 101529,
       "word": "恋爱兄妹线下",
@@ -42441,6 +42577,14 @@
       "onboard_time": 1717895477,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97630,
+      "num": 97630,
+      "word": "齐司礼 拥吻",
+      "onboard_time": 1718624897,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 97474,
@@ -44297,6 +44441,14 @@
       "onboard_time": 1717202297,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 72859,
+      "num": 104877,
+      "word": "红柳烤串教给我的科学知识",
+      "onboard_time": 1718625498,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 72727,
@@ -46412,7 +46564,7 @@
     },
     {
       "raw_hot": 49818,
-      "num": 270083,
+      "num": 290538,
       "word": "多多不想让您受委屈",
       "onboard_time": 1718622797,
       "rank": 39,
@@ -46455,14 +46607,6 @@
       "num": 429499,
       "word": "能当旅游搭子的爸爸有多可爱",
       "onboard_time": 1718112260,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49215,
-      "num": 312626,
-      "word": "记者暗访鸭鹅肠工厂电话被李主任泄漏",
-      "onboard_time": 1718623396,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -46889,6 +47033,14 @@
       "onboard_time": 1717864696,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44692,
+      "num": 395206,
+      "word": "维E乳公司创始人辟谣是假协和",
+      "onboard_time": 1718625258,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44467,
@@ -48025,6 +48177,14 @@
       "onboard_time": 1718561472,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 32830,
+      "num": 192672,
+      "word": "万千气象看甘肃",
+      "onboard_time": 1718613858,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32730,
@@ -50001,6 +50161,14 @@
       "onboard_time": 1717247238,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9001,
+      "num": 104891,
+      "word": "微博电影之夜神图",
+      "onboard_time": 1718627477,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 8952,
