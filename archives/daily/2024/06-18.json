@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718656488241,
+  "endTime": 1718659132496,
   "band_list": [
     {
       "raw_hot": 780562,
@@ -195,6 +195,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 155338,
+      "num": 155338,
+      "word": "奥地利vs法国",
+      "onboard_time": 1718637258,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150998,
       "num": 150998,
       "word": "瘦了20斤才敢说的实话",
@@ -289,14 +297,6 @@
       "onboard_time": 1718630417,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98082,
-      "num": 98082,
-      "word": "奥地利vs法国",
-      "onboard_time": 1718637258,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 97608,
@@ -475,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26696,
+      "num": 22433,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 26627,
       "num": 26627,
       "word": "刘德华白宇莫文蔚新片焚城",
       "onboard_time": 1718648593,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24565,
+      "num": 18802,
+      "word": "黄宣女装",
+      "onboard_time": 1718656450,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 24081,
@@ -515,12 +531,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 21681,
-      "num": 21681,
-      "word": "果然生女儿就是用来打扮的",
-      "onboard_time": 1718654650,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 20310,
+      "num": 20310,
+      "word": "冷藏车",
+      "onboard_time": 1718657170,
+      "rank": 23,
+      "category": "社会负面"
     },
     {
       "raw_hot": 16973,
@@ -531,28 +547,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16854,
+      "num": 18797,
+      "word": "红豆薏米水真的可以祛湿吗",
+      "onboard_time": 1718656270,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 15890,
+      "num": 16465,
+      "word": "王珞丹包臀花瓶裙",
+      "onboard_time": 1718658370,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 14264,
       "num": 177811,
       "word": "华西专家教你冰箱的正确使用方式",
       "onboard_time": 1718644873,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 12392,
-      "num": 18802,
-      "word": "黄宣女装",
-      "onboard_time": 1718656450,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 12228,
-      "num": 18797,
-      "word": "红豆薏米水真的可以祛湿吗",
-      "onboard_time": 1718656270,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 11899,
