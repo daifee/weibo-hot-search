@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718630545032,
+  "endTime": 1718631270197,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1450670,
+      "num": 1450670,
+      "word": "火鸡面",
+      "onboard_time": 1718625498,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1438087,
       "num": 1438087,
       "word": "男子误机花6000从天津打车到西安",
@@ -161,14 +169,6 @@
       "onboard_time": 1718541379,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1298442,
-      "num": 1298442,
-      "word": "火鸡面",
-      "onboard_time": 1718625498,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 1291336,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915943,
+      "num": 915943,
+      "word": "iPhone15多次降价重回销量榜第一",
+      "onboard_time": 1718626157,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 909842,
       "num": 909842,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -441,14 +449,6 @@
       "onboard_time": 1718550560,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 901854,
-      "num": 901854,
-      "word": "iPhone15多次降价重回销量榜第一",
-      "onboard_time": 1718626157,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 880809,
@@ -499,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 833198,
+      "num": 833198,
+      "word": "林更新演技",
+      "onboard_time": 1718628257,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 830697,
       "num": 830697,
       "word": "楠火锅回应顾客就餐后舌头变黑",
@@ -521,14 +529,6 @@
       "onboard_time": 1718613377,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 816300,
-      "num": 816300,
-      "word": "林更新演技",
-      "onboard_time": 1718628257,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 807290,
@@ -715,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 645958,
+      "num": 395205,
+      "word": "林更新怼黑粉 一战成名",
+      "onboard_time": 1718624476,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641375,
       "num": 343551,
       "word": "男朋友微信转账备注非自愿赠予",
@@ -811,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 597826,
-      "num": 393056,
-      "word": "林更新怼黑粉 一战成名",
-      "onboard_time": 1718624476,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 597412,
       "num": 597412,
       "word": "周杰伦ins发了张艺兴",
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 557322,
-      "num": 235318,
+      "num": 256079,
       "word": "瘦了20斤才敢说的实话",
       "onboard_time": 1718622018,
       "rank": 21,
@@ -1347,6 +1347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 419879,
+      "num": 419879,
+      "word": "广东梅州暴雨致5死15失联",
+      "onboard_time": 1718630118,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 419469,
       "num": 419469,
       "word": "凯特王妃",
@@ -1644,7 +1652,7 @@
     },
     {
       "raw_hot": 360686,
-      "num": 234601,
+      "num": 253378,
       "word": "越来越多年轻人患上结婚羞耻症",
       "onboard_time": 1718623396,
       "rank": 23,
@@ -1705,6 +1713,14 @@
       "onboard_time": 1718493733,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 348902,
+      "num": 348902,
+      "word": "关晓彤回应被推荐去歌手",
+      "onboard_time": 1718630237,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 345542,
@@ -1939,6 +1955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297068,
+      "num": 269044,
+      "word": "王星越吴谨言这大手这小腰",
+      "onboard_time": 1718628018,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296728,
       "num": 296728,
       "word": "黑神话 抢到了",
@@ -2131,14 +2155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 269044,
-      "num": 269044,
-      "word": "王星越吴谨言这大手这小腰",
-      "onboard_time": 1718628018,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268051,
       "num": 268051,
       "word": "罗马尼亚vs乌克兰",
@@ -2209,6 +2225,14 @@
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 252340,
+      "num": 252340,
+      "word": "雷佳音胡歌 平番",
+      "onboard_time": 1718630178,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 250991,
@@ -2387,6 +2411,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 227605,
+      "num": 227605,
+      "word": "方协文气死我",
+      "onboard_time": 1718629098,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 226097,
+      "num": 226097,
+      "word": "陈哲远憋笑",
+      "onboard_time": 1718630899,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224831,
       "num": 224831,
       "word": "优酷客服回应墨雨云间减更",
@@ -2411,28 +2451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223833,
-      "num": 223833,
-      "word": "方协文气死我",
-      "onboard_time": 1718629098,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222106,
       "num": 222106,
       "word": "中国女排真棒",
       "onboard_time": 1718544500,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 221964,
-      "num": 221964,
-      "word": "关晓彤回应被推荐去歌手",
-      "onboard_time": 1718630237,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 221922,
@@ -2627,12 +2651,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210473,
-      "num": 210473,
-      "word": "广东梅州暴雨致5死15失联",
-      "onboard_time": 1718630118,
-      "rank": 29,
-      "category": "社会负面"
+      "raw_hot": 210114,
+      "num": 210114,
+      "word": "玫瑰的故事",
+      "onboard_time": 1718630417,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 209597,
@@ -2699,6 +2723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204953,
+      "num": 204953,
+      "word": "罗云熙爱豆版",
+      "onboard_time": 1718630958,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203584,
       "num": 203584,
       "word": "腾讯视频回应胡歌",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1718507358,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201303,
+      "num": 201303,
+      "word": "四个男女主凑不出一副爹娘",
+      "onboard_time": 1718630537,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 200938,
@@ -3555,6 +3595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165254,
+      "num": 165254,
+      "word": "烟草局回应凌晨上门伪造证据",
+      "onboard_time": 1718630838,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164902,
       "num": 164902,
       "word": "去世254天狗狗的长明灯突然亮了",
@@ -3649,14 +3697,6 @@
       "onboard_time": 1718616917,
       "rank": 36,
       "category": "互联网,数码"
-    },
-    {
-      "raw_hot": 160651,
-      "num": 160651,
-      "word": "玫瑰的故事",
-      "onboard_time": 1718630417,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 160291,
@@ -3771,6 +3811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156159,
+      "num": 156159,
+      "word": "于文文Amber刘忻 拽姐秀",
+      "onboard_time": 1718630299,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155462,
       "num": 155462,
       "word": "斯洛文尼亚1比1丹麦",
@@ -3793,14 +3841,6 @@
       "onboard_time": 1718595857,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155096,
-      "num": 155096,
-      "word": "雷佳音胡歌 平番",
-      "onboard_time": 1718630178,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 154801,
@@ -3865,14 +3905,6 @@
       "onboard_time": 1718536218,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151826,
-      "num": 151826,
-      "word": "于文文Amber刘忻 拽姐秀",
-      "onboard_time": 1718630299,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 151415,
@@ -4803,20 +4835,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116116,
+      "num": 116116,
+      "word": "猫界大犟种",
+      "onboard_time": 1718629877,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115750,
       "num": 115750,
       "word": "莫德里奇反驳姆巴佩",
       "onboard_time": 1718495955,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115299,
-      "num": 115299,
-      "word": "猫界大犟种",
-      "onboard_time": 1718629877,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 115172,
@@ -4995,12 +5027,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 105810,
+      "num": 351949,
+      "word": "天猫618惊喜红包真的好大",
+      "onboard_time": 1718629218,
+      "rank": 14,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 105783,
       "num": 105783,
       "word": "上海中考数学",
       "onboard_time": 1718532558,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 105695,
+      "num": 105695,
+      "word": "黑神话悟空",
+      "onboard_time": 1718630718,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 105313,
@@ -5243,14 +5291,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 88692,
-      "num": 286857,
-      "word": "天猫618惊喜红包真的好大",
-      "onboard_time": 1718629218,
-      "rank": 14,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 88521,
       "num": 396972,
       "word": "代购花7元就能伪造海外快递信息",
@@ -5467,6 +5507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70682,
+      "num": 948085,
+      "word": "卫星视角见证中国治沙奇迹",
+      "onboard_time": 1718628859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70601,
       "num": 373895,
       "word": "有掼蛋礼盒单价超千元",
@@ -5521,14 +5569,6 @@
       "onboard_time": 1718454678,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 64824,
-      "num": 948085,
-      "word": "卫星视角见证中国治沙奇迹",
-      "onboard_time": 1718628859,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64766,
@@ -5593,6 +5633,14 @@
       "onboard_time": 1718494095,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59653,
+      "num": 362192,
+      "word": "国际奥数满分得主谈数学专业",
+      "onboard_time": 1718629157,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 59074,
@@ -5729,14 +5777,6 @@
       "onboard_time": 1718536818,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46852,
-      "num": 362192,
-      "word": "国际奥数满分得主谈数学专业",
-      "onboard_time": 1718629157,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 46578,
@@ -6003,6 +6043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32802,
+      "num": 360054,
+      "word": "京东618晚会送出阿勒泰别墅",
+      "onboard_time": 1718629098,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 32456,
       "num": 148967,
       "word": "15国非遗珍品亮相经贸洽谈会",
@@ -6043,6 +6091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28452,
+      "num": 257914,
+      "word": "倪妮拍了拍黄渤",
+      "onboard_time": 1718629038,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28411,
       "num": 125664,
       "word": "21国好礼京东一次送你",
@@ -6059,12 +6115,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26290,
-      "num": 225076,
-      "word": "京东618晚会送出阿勒泰别墅",
-      "onboard_time": 1718629098,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 26321,
+      "num": 265837,
+      "word": "黄文秀的心愿在一个个实现",
+      "onboard_time": 1718628978,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26232,
@@ -6073,14 +6129,6 @@
       "onboard_time": 1718467338,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26140,
-      "num": 227152,
-      "word": "倪妮拍了拍黄渤",
-      "onboard_time": 1718629038,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 25395,
@@ -6316,7 +6364,7 @@
     },
     {
       "raw_hot": 9001,
-      "num": 226880,
+      "num": 259934,
       "word": "微博电影之夜神图",
       "onboard_time": 1718627477,
       "rank": 41,

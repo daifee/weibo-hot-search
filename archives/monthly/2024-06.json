@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718630545032,
+  "endTime": 1718631270197,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1387,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1450670,
+      "num": 1450670,
+      "word": "火鸡面",
+      "onboard_time": 1718625498,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1449875,
       "num": 1449875,
       "word": "王楚钦vs樊振东",
@@ -1785,14 +1793,6 @@
       "onboard_time": 1717311978,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1298442,
-      "num": 1298442,
-      "word": "火鸡面",
-      "onboard_time": 1718625498,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 1293666,
@@ -3651,6 +3651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 915943,
+      "num": 915943,
+      "word": "iPhone15多次降价重回销量榜第一",
+      "onboard_time": 1718626157,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 912837,
       "num": 912837,
       "word": "双方都对这个吻感到恶心",
@@ -3705,14 +3713,6 @@
       "onboard_time": 1718429779,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 901854,
-      "num": 901854,
-      "word": "iPhone15多次降价重回销量榜第一",
-      "onboard_time": 1718626157,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 901446,
@@ -4147,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 833198,
+      "num": 833198,
+      "word": "林更新演技",
+      "onboard_time": 1718413939,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 833167,
       "num": 794697,
       "word": "女子把隐翅虫当蚊子拍死差点毁容",
@@ -4305,14 +4313,6 @@
       "onboard_time": 1718081359,
       "rank": 4,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 816300,
-      "num": 816300,
-      "word": "林更新演技",
-      "onboard_time": 1718413939,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 815887,
@@ -6499,6 +6499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 645958,
+      "num": 395205,
+      "word": "林更新怼黑粉 一战成名",
+      "onboard_time": 1718624476,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644956,
       "num": 644956,
       "word": "高考生物",
@@ -7201,14 +7209,6 @@
       "onboard_time": 1718354119,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 597826,
-      "num": 393056,
-      "word": "林更新怼黑粉 一战成名",
-      "onboard_time": 1718624476,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 597457,
@@ -8004,7 +8004,7 @@
     },
     {
       "raw_hot": 557322,
-      "num": 235318,
+      "num": 256079,
       "word": "瘦了20斤才敢说的实话",
       "onboard_time": 1718622018,
       "rank": 21,
@@ -11683,6 +11683,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 419879,
+      "num": 419879,
+      "word": "广东梅州暴雨致5死15失联",
+      "onboard_time": 1718630118,
+      "rank": 29,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 419519,
       "num": 419519,
       "word": "玫瑰的故事主题曲",
@@ -13660,7 +13668,7 @@
     },
     {
       "raw_hot": 360686,
-      "num": 234601,
+      "num": 253378,
       "word": "越来越多年轻人患上结婚羞耻症",
       "onboard_time": 1718623396,
       "rank": 23,
@@ -14153,6 +14161,14 @@
       "onboard_time": 1718143692,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 348902,
+      "num": 348902,
+      "word": "关晓彤回应被推荐去歌手",
+      "onboard_time": 1718630237,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 348864,
@@ -16427,6 +16443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 297068,
+      "num": 269044,
+      "word": "王星越吴谨言这大手这小腰",
+      "onboard_time": 1718628018,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296728,
       "num": 296728,
       "word": "黑神话 抢到了",
@@ -18083,14 +18107,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 269044,
-      "num": 269044,
-      "word": "王星越吴谨言这大手这小腰",
-      "onboard_time": 1718628018,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 268955,
       "num": 241649,
       "word": "女孩骑车被卷入大车车底不幸身亡",
@@ -19017,6 +19033,14 @@
       "onboard_time": 1717230858,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252340,
+      "num": 252340,
+      "word": "雷佳音胡歌 平番",
+      "onboard_time": 1718630178,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 252068,
@@ -20739,6 +20763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227605,
+      "num": 227605,
+      "word": "方协文气死我",
+      "onboard_time": 1718629098,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227523,
       "num": 227523,
       "word": "奔跑吧",
@@ -20865,6 +20897,14 @@
       "onboard_time": 1718343799,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 226097,
+      "num": 226097,
+      "word": "陈哲远憋笑",
+      "onboard_time": 1718630899,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 225831,
@@ -21059,14 +21099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223833,
-      "num": 223833,
-      "word": "方协文气死我",
-      "onboard_time": 1718629098,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223544,
       "num": 261038,
       "word": "靠锅气来分辨预制菜已经没用了",
@@ -21201,14 +21233,6 @@
       "onboard_time": 1717568357,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221964,
-      "num": 221964,
-      "word": "关晓彤回应被推荐去歌手",
-      "onboard_time": 1718630237,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 221922,
@@ -22451,14 +22475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210473,
-      "num": 210473,
-      "word": "广东梅州暴雨致5死15失联",
-      "onboard_time": 1718630118,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 210468,
       "num": 210468,
       "word": "原来父母是能帮孩子隐瞒成绩的",
@@ -23323,6 +23339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204953,
+      "num": 204953,
+      "word": "罗云熙爱豆版",
+      "onboard_time": 1718630958,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204950,
       "num": 204950,
       "word": "剑网3凤凰",
@@ -23881,6 +23905,14 @@
       "onboard_time": 1717384938,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 201303,
+      "num": 201303,
+      "word": "四个男女主凑不出一副爹娘",
+      "onboard_time": 1718630537,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 201289,
@@ -30019,6 +30051,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165254,
+      "num": 165254,
+      "word": "烟草局回应凌晨上门伪造证据",
+      "onboard_time": 1718630838,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165227,
       "num": 165227,
       "word": "别给我一种清华很好考上的感觉",
@@ -31763,6 +31803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156159,
+      "num": 156159,
+      "word": "于文文Amber刘忻 拽姐秀",
+      "onboard_time": 1718630299,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156145,
       "num": 146753,
       "word": "时团战至巅峰总决赛嘉宾",
@@ -31977,14 +32025,6 @@
       "onboard_time": 1718595857,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155096,
-      "num": 155096,
-      "word": "雷佳音胡歌 平番",
-      "onboard_time": 1718630178,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 155052,
@@ -32617,14 +32657,6 @@
       "onboard_time": 1718536218,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151826,
-      "num": 151826,
-      "word": "于文文Amber刘忻 拽姐秀",
-      "onboard_time": 1718630299,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 151820,
@@ -39763,6 +39795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116116,
+      "num": 116116,
+      "word": "猫界大犟种",
+      "onboard_time": 1718629877,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116085,
       "num": 116085,
       "word": "葡萄牙航空展两飞机相撞致1死1伤",
@@ -40009,14 +40049,6 @@
       "onboard_time": 1717902196,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115299,
-      "num": 115299,
-      "word": "猫界大犟种",
-      "onboard_time": 1718629877,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 115257,
@@ -41681,6 +41713,14 @@
       "onboard_time": 1718084358,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105810,
+      "num": 351949,
+      "word": "天猫618惊喜红包真的好大",
+      "onboard_time": 1718629218,
+      "rank": 14,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 105783,
@@ -43363,14 +43403,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 88692,
-      "num": 286857,
-      "word": "天猫618惊喜红包真的好大",
-      "onboard_time": 1718629218,
-      "rank": 14,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 88679,
       "num": 88679,
       "word": "500块现在能买到什么手机",
@@ -44795,6 +44827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70682,
+      "num": 948085,
+      "word": "卫星视角见证中国治沙奇迹",
+      "onboard_time": 1718628859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70601,
       "num": 373895,
       "word": "有掼蛋礼盒单价超千元",
@@ -45225,14 +45265,6 @@
       "onboard_time": 1717504217,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 64824,
-      "num": 948085,
-      "word": "卫星视角见证中国治沙奇迹",
-      "onboard_time": 1718628859,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64809,
@@ -45729,6 +45761,14 @@
       "onboard_time": 1717644739,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 59653,
+      "num": 362192,
+      "word": "国际奥数满分得主谈数学专业",
+      "onboard_time": 1718629157,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 59595,
@@ -47001,14 +47041,6 @@
       "onboard_time": 1718536818,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46852,
-      "num": 362192,
-      "word": "国际奥数满分得主谈数学专业",
-      "onboard_time": 1718629157,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 46743,
@@ -48347,6 +48379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32802,
+      "num": 360054,
+      "word": "京东618晚会送出阿勒泰别墅",
+      "onboard_time": 1718629098,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 32730,
       "num": 443537,
       "word": "派出所民警上门表扬保洁阿姨拾金不昧",
@@ -48763,6 +48803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28452,
+      "num": 257914,
+      "word": "倪妮拍了拍黄渤",
+      "onboard_time": 1718629038,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28411,
       "num": 125664,
       "word": "21国好礼京东一次送你",
@@ -48923,12 +48971,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 26290,
-      "num": 225076,
-      "word": "京东618晚会送出阿勒泰别墅",
-      "onboard_time": 1718629098,
-      "rank": 24,
-      "category": "互联网"
+      "raw_hot": 26321,
+      "num": 265837,
+      "word": "黄文秀的心愿在一个个实现",
+      "onboard_time": 1718628978,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26232,
@@ -48937,14 +48985,6 @@
       "onboard_time": 1718467338,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26140,
-      "num": 227152,
-      "word": "倪妮拍了拍黄渤",
-      "onboard_time": 1718629038,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 26103,
@@ -50340,7 +50380,7 @@
     },
     {
       "raw_hot": 9001,
-      "num": 226880,
+      "num": 259934,
       "word": "微博电影之夜神图",
       "onboard_time": 1718627477,
       "rank": 41,

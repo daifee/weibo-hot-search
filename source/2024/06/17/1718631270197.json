@@ -1,0 +1,410 @@
+{
+  "runTime": 1718631270197,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1450670,
+        "num": 1450670,
+        "word": "火鸡面",
+        "onboard_time": 1718625498,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 915943,
+        "num": 915943,
+        "word": "iPhone15多次降价重回销量榜第一",
+        "onboard_time": 1718626157,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 70682,
+        "num": 837241,
+        "word": "卫星视角见证中国治沙奇迹",
+        "onboard_time": 1718628859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833198,
+        "num": 833198,
+        "word": "林更新演技",
+        "onboard_time": 1718628257,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1283408,
+        "num": 798950,
+        "word": "知情人称遇难8人非首次坐冷藏车",
+        "onboard_time": 1718624417,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419879,
+        "num": 419879,
+        "word": "广东梅州暴雨致5死15失联",
+        "onboard_time": 1718630118,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 638389,
+        "num": 402793,
+        "word": "邓超体检身体年龄仅27岁",
+        "onboard_time": 1718618417,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475259,
+        "num": 396979,
+        "word": "朱一龙吴磊 平番",
+        "onboard_time": 1718622258,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 645958,
+        "num": 395205,
+        "word": "林更新怼黑粉 一战成名",
+        "onboard_time": 1718624476,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384220,
+        "num": 384220,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438194,
+        "num": 370073,
+        "word": "姜萍初中数学教师发声",
+        "onboard_time": 1718625258,
+        "rank": 10,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 715594,
+        "num": 368156,
+        "word": "苏敏 离婚",
+        "onboard_time": 1718625438,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32802,
+        "num": 360054,
+        "word": "京东618晚会送出阿勒泰别墅",
+        "onboard_time": 1718629098,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 355774,
+        "num": 355774,
+        "word": "玫瑰的故事 绝症哥",
+        "onboard_time": 1718619618,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105810,
+        "num": 351949,
+        "word": "天猫618惊喜红包真的好大",
+        "onboard_time": 1718629218,
+        "rank": 14,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 348902,
+        "num": 348902,
+        "word": "关晓彤回应被推荐去歌手",
+        "onboard_time": 1718630237,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276473,
+        "num": 276473,
+        "word": "男子误机花6000从天津打车到西安",
+        "onboard_time": 1718617158,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26321,
+        "num": 265837,
+        "word": "黄文秀的心愿在一个个实现",
+        "onboard_time": 1718628978,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261249,
+        "num": 261249,
+        "word": "罗马尼亚vs乌克兰",
+        "onboard_time": 1718626877,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297068,
+        "num": 260219,
+        "word": "王星越吴谨言这大手这小腰",
+        "onboard_time": 1718628018,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42,
+        "num": 259934,
+        "word": "微博电影之夜神图",
+        "onboard_time": 1718627477,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28452,
+        "num": 257914,
+        "word": "倪妮拍了拍黄渤",
+        "onboard_time": 1718629038,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292786,
+        "num": 256737,
+        "word": "庄国栋碎了",
+        "onboard_time": 1718620937,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373939,
+        "num": 256079,
+        "word": "瘦了20斤才敢说的实话",
+        "onboard_time": 1718622018,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 219946,
+        "num": 254531,
+        "word": "D组好乱",
+        "onboard_time": 1718624177,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 343139,
+        "num": 253378,
+        "word": "越来越多年轻人患上结婚羞耻症",
+        "onboard_time": 1718623396,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252340,
+        "num": 252340,
+        "word": "雷佳音胡歌 平番",
+        "onboard_time": 1718630178,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242419,
+        "num": 242419,
+        "word": "丈夫替怀孕妻子辞职合理吗",
+        "onboard_time": 1718617396,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227605,
+        "num": 227605,
+        "word": "方协文气死我",
+        "onboard_time": 1718629098,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181943,
+        "num": 226376,
+        "word": "王皓带娃主打一个舒适",
+        "onboard_time": 1718628018,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226097,
+        "num": 226097,
+        "word": "陈哲远憋笑",
+        "onboard_time": 1718630899,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59653,
+        "num": 220702,
+        "word": "国际奥数满分得主谈数学专业",
+        "onboard_time": 1718629157,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215538,
+        "num": 215538,
+        "word": "黑神话 抢到了",
+        "onboard_time": 1718626938,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210114,
+        "num": 210114,
+        "word": "玫瑰的故事",
+        "onboard_time": 1718630417,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167813,
+        "num": 206623,
+        "word": "一中国公民在印度被扣押期间死亡",
+        "onboard_time": 1718623157,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204953,
+        "num": 204953,
+        "word": "罗云熙爱豆版",
+        "onboard_time": 1718630958,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201303,
+        "num": 201303,
+        "word": "四个男女主凑不出一副爹娘",
+        "onboard_time": 1718630537,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194986,
+        "num": 194986,
+        "word": "苗苗在乘风兼职",
+        "onboard_time": 1718626397,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174506,
+        "num": 174506,
+        "word": "刘宇宁现场好稳",
+        "onboard_time": 1718629818,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165254,
+        "num": 165254,
+        "word": "烟草局回应凌晨上门伪造证据",
+        "onboard_time": 1718630838,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163238,
+        "num": 163238,
+        "word": "GUCCI大秀",
+        "onboard_time": 1718628257,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158497,
+        "num": 158497,
+        "word": "普京将访问朝鲜和越南",
+        "onboard_time": 1718628437,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 156637,
+        "num": 156637,
+        "word": "王一博 伪素颜",
+        "onboard_time": 1718626818,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156388,
+        "num": 156388,
+        "word": "欧洲杯",
+        "onboard_time": 1718630237,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156159,
+        "num": 156159,
+        "word": "于文文Amber刘忻 拽姐秀",
+        "onboard_time": 1718630299,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142000,
+        "num": 142000,
+        "word": "叶童赵雅芝牵手梦回许仙白娘子",
+        "onboard_time": 1718628078,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116569,
+        "num": 116569,
+        "word": "教育部首次上线高考志愿信息系统",
+        "onboard_time": 1718618298,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116116,
+        "num": 116116,
+        "word": "猫界大犟种",
+        "onboard_time": 1718629877,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105695,
+        "num": 105695,
+        "word": "黑神话悟空",
+        "onboard_time": 1718630718,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105494,
+        "num": 105494,
+        "word": "南方医科大最新回应",
+        "onboard_time": 1718613438,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}
