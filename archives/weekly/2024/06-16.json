@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718637717343,
+  "endTime": 1718638505471,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1209092,
+      "num": 1209092,
+      "word": "林更新演技",
+      "onboard_time": 1718628257,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1187510,
       "num": 1187510,
       "word": "男生洗澡有了自己第一篇SCI",
@@ -297,14 +305,6 @@
       "onboard_time": 1718503096,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1064864,
-      "num": 1064864,
-      "word": "林更新演技",
-      "onboard_time": 1718628257,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 1046139,
@@ -1019,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 535944,
+      "num": 535944,
+      "word": "新加坡门将以为自己火不过两天",
+      "onboard_time": 1718634559,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534177,
       "num": 534177,
       "word": "惠若琪哭了",
@@ -1075,20 +1083,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 519854,
+      "num": 245154,
+      "word": "外国人被中国夜市硬控了",
+      "onboard_time": 1718634559,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 518526,
       "num": 518526,
       "word": "铜价大涨空调却集体降价",
       "onboard_time": 1718519417,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 518041,
-      "num": 245154,
-      "word": "外国人被中国夜市硬控了",
-      "onboard_time": 1718634559,
-      "rank": 37,
-      "category": "美食"
     },
     {
       "raw_hot": 515456,
@@ -1137,14 +1145,6 @@
       "onboard_time": 1718585897,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 503427,
-      "num": 503427,
-      "word": "新加坡门将以为自己火不过两天",
-      "onboard_time": 1718634559,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 499629,
@@ -1595,6 +1595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 384179,
+      "num": 384179,
+      "word": "鞠婧祎开心夜舞台",
+      "onboard_time": 1718637558,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 383787,
       "num": 287478,
       "word": "赵丽颖出场哇声一片",
@@ -1705,6 +1713,14 @@
       "onboard_time": 1718536757,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 363859,
+      "num": 363859,
+      "word": "方协文发疯请勿上升林更新",
+      "onboard_time": 1718636237,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 362994,
@@ -2097,14 +2113,6 @@
       "onboard_time": 1718523017,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 290597,
-      "num": 290597,
-      "word": "方协文发疯请勿上升林更新",
-      "onboard_time": 1718636237,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 290129,
@@ -2627,6 +2635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217860,
+      "num": 217860,
+      "word": "订书钉才是上班摸鱼神器",
+      "onboard_time": 1718634619,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216941,
       "num": 172271,
       "word": "怎么让一个成年人九点半就睡觉",
@@ -2891,6 +2907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 200438,
+      "num": 200438,
+      "word": "单依纯唱王菲的天空",
+      "onboard_time": 1718636779,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199840,
       "num": 199840,
       "word": "被养的很好的孩子是什么样",
@@ -2953,14 +2977,6 @@
       "onboard_time": 1718536038,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 197259,
-      "num": 197259,
-      "word": "单依纯唱王菲的天空",
-      "onboard_time": 1718636779,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 197198,
@@ -3033,14 +3049,6 @@
       "onboard_time": 1718633480,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194423,
-      "num": 194423,
-      "word": "订书钉才是上班摸鱼神器",
-      "onboard_time": 1718634619,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 194199,
@@ -3384,6 +3392,14 @@
       "word": "只有山西人知道孙丞潇骂的很脏",
       "onboard_time": 1718533818,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 181692,
+      "num": 181692,
+      "word": "陈哲远转发说他假唱微博",
+      "onboard_time": 1718637558,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -3867,14 +3883,6 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 160892,
-      "num": 160892,
-      "word": "鞠婧祎开心夜舞台",
-      "onboard_time": 1718637558,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160400,
       "num": 160400,
       "word": "米二称异人之下给乌尔善很放心",
@@ -3889,6 +3897,14 @@
       "onboard_time": 1718509637,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160263,
+      "num": 160263,
+      "word": "长寿的人多半有4慢3长特点",
+      "onboard_time": 1718637319,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160001,
@@ -3969,6 +3985,14 @@
       "onboard_time": 1718504596,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157948,
+      "num": 157948,
+      "word": "谢霆锋怒火重案后消失三年原因",
+      "onboard_time": 1718637739,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 157808,
@@ -4153,6 +4177,14 @@
       "onboard_time": 1718519357,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147842,
+      "num": 147842,
+      "word": "奥地利vs法国",
+      "onboard_time": 1718637258,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 147604,
@@ -4547,14 +4579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132124,
-      "num": 132124,
-      "word": "陈哲远转发说他假唱微博",
-      "onboard_time": 1718637558,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131953,
       "num": 131953,
       "word": "沈马",
@@ -4681,14 +4705,6 @@
       "onboard_time": 1718616437,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130059,
-      "num": 130059,
-      "word": "奥地利vs法国",
-      "onboard_time": 1718637258,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 129963,
@@ -5035,14 +5051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118580,
-      "num": 118580,
-      "word": "长寿的人多半有4慢3长特点",
-      "onboard_time": 1718637319,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 118531,
       "num": 118531,
       "word": "前中超外援欧洲杯破门",
@@ -5323,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104848,
+      "num": 392813,
+      "word": "村干部连夜吼街串巷发大水了快撤",
+      "onboard_time": 1718634559,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104250,
       "num": 125141,
       "word": "考研上岸后亲戚发朋友圈阴阳我",
@@ -5425,6 +5441,14 @@
       "onboard_time": 1718518337,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98647,
+      "num": 98647,
+      "word": "夏天怕热可以扎这四款发型",
+      "onboard_time": 1718637139,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 98368,
@@ -5752,14 +5776,6 @@
       "word": "学校回应男生39天减重斤20斤后猝死",
       "onboard_time": 1718472494,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74078,
-      "num": 392813,
-      "word": "村干部连夜吼街串巷发大水了快撤",
-      "onboard_time": 1718634559,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -6348,7 +6364,7 @@
     },
     {
       "raw_hot": 30929,
-      "num": 185098,
+      "num": 394312,
       "word": "有光的地方就有人读书",
       "onboard_time": 1718634858,
       "rank": 34,
