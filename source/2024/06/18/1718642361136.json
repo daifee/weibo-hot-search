@@ -1,0 +1,410 @@
+{
+  "runTime": 1718642361136,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 675687,
+        "num": 675687,
+        "word": "林更新演技",
+        "onboard_time": 1718628257,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 611884,
+        "num": 611884,
+        "word": "姜萍",
+        "onboard_time": 1718636600,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34968,
+        "num": 553315,
+        "word": "卫星视角见证中国治沙奇迹",
+        "onboard_time": 1718628859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543146,
+        "num": 543146,
+        "word": "北京男子或将错失10万元大奖",
+        "onboard_time": 1718639417,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349694,
+        "num": 349694,
+        "word": "iPhone15多次降价重回销量榜第一",
+        "onboard_time": 1718626157,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 452024,
+        "num": 334438,
+        "word": "林更新怼黑粉 一战成名",
+        "onboard_time": 1718624476,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443317,
+        "num": 317407,
+        "word": "段嘉许回来了",
+        "onboard_time": 1718633839,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413439,
+        "num": 312132,
+        "word": "方协文 玫瑰换条裤子",
+        "onboard_time": 1718638757,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297612,
+        "num": 297612,
+        "word": "订书钉才是上班摸鱼神器",
+        "onboard_time": 1718634619,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16708,
+        "num": 296414,
+        "word": "平常心对待姜萍不要过度造神",
+        "onboard_time": 1718640917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295522,
+        "num": 295522,
+        "word": "知情人称遇难8人非首次坐冷藏车",
+        "onboard_time": 1718624417,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245640,
+        "num": 245640,
+        "word": "新加坡门将以为自己火不过两天",
+        "onboard_time": 1718634559,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245521,
+        "num": 245521,
+        "word": "陈哲远转发说他假唱微博",
+        "onboard_time": 1718637558,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234175,
+        "num": 234175,
+        "word": "烟草局回应凌晨上门伪造证据",
+        "onboard_time": 1718630838,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227762,
+        "num": 227762,
+        "word": "苏敏 离婚",
+        "onboard_time": 1718625438,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 227226,
+        "num": 227226,
+        "word": "方协文发疯请勿上升林更新",
+        "onboard_time": 1718636237,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221367,
+        "num": 221367,
+        "word": "鞠婧祎开心夜舞台",
+        "onboard_time": 1718637558,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171295,
+        "num": 171295,
+        "word": "比利时vs斯洛伐克",
+        "onboard_time": 1718636659,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169255,
+        "num": 169255,
+        "word": "火鸡面",
+        "onboard_time": 1718625498,
+        "rank": 18,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 134596,
+        "num": 134596,
+        "word": "广东梅州暴雨致5死15失联",
+        "onboard_time": 1718630118,
+        "rank": 19,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 187426,
+        "num": 134323,
+        "word": "玫瑰的故事 绝症哥",
+        "onboard_time": 1718619618,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176786,
+        "num": 133762,
+        "word": "玫瑰的故事告诉我们",
+        "onboard_time": 1718639778,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173248,
+        "num": 132492,
+        "word": "长寿的人多半有4慢3长特点",
+        "onboard_time": 1718637319,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156249,
+        "num": 131763,
+        "word": "张真源到达匈牙利录制跑男",
+        "onboard_time": 1718639057,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131606,
+        "num": 131606,
+        "word": "瘦了20斤才敢说的实话",
+        "onboard_time": 1718622018,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 128629,
+        "num": 128629,
+        "word": "外国人被中国夜市硬控了",
+        "onboard_time": 1718634559,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110315,
+        "num": 110315,
+        "word": "四个男女主凑不出一副爹娘",
+        "onboard_time": 1718630537,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102201,
+        "num": 102201,
+        "word": "罗马尼亚vs乌克兰",
+        "onboard_time": 1718626877,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98519,
+        "num": 98519,
+        "word": "单依纯唱王菲的天空",
+        "onboard_time": 1718636779,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94768,
+        "num": 94768,
+        "word": "谢霆锋怒火重案后消失三年原因",
+        "onboard_time": 1718637739,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93807,
+        "num": 93807,
+        "word": "数学专业就业后的收入",
+        "onboard_time": 1718634139,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92311,
+        "num": 92311,
+        "word": "云南一女子吃野生菌看到机器人小偷",
+        "onboard_time": 1718635160,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92068,
+        "num": 92068,
+        "word": "李耕耘陈少熙一起走红毯",
+        "onboard_time": 1718639598,
+        "rank": 32,
+        "category": "电影,时尚"
+      },
+      {
+        "raw_hot": 86923,
+        "num": 86923,
+        "word": "city不city",
+        "onboard_time": 1718632819,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86395,
+        "num": 86395,
+        "word": "越来越多年轻人患上结婚羞耻症",
+        "onboard_time": 1718623396,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83965,
+        "num": 83965,
+        "word": "玫瑰的故事",
+        "onboard_time": 1718630417,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81536,
+        "num": 81536,
+        "word": "丈夫替怀孕妻子辞职合理吗",
+        "onboard_time": 1718617396,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80376,
+        "num": 80376,
+        "word": "夏天怕热可以扎这四款发型",
+        "onboard_time": 1718637139,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 77009,
+        "num": 77009,
+        "word": "乃万 从livehouse到体育馆",
+        "onboard_time": 1718640917,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76232,
+        "num": 76232,
+        "word": "欧洲杯",
+        "onboard_time": 1718630237,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75496,
+        "num": 75496,
+        "word": "庄国栋碎了",
+        "onboard_time": 1718620937,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74960,
+        "num": 74960,
+        "word": "关晓彤回应被推荐去歌手",
+        "onboard_time": 1718630237,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73642,
+        "num": 73642,
+        "word": "王星越吴谨言这大手这小腰",
+        "onboard_time": 1718628018,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73508,
+        "num": 73508,
+        "word": "Giselle中国首封",
+        "onboard_time": 1718633059,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 67856,
+        "num": 73507,
+        "word": "罗马尼亚3比0乌克兰",
+        "onboard_time": 1718636120,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66081,
+        "num": 73499,
+        "word": "华晨宇声线有日出的温暖",
+        "onboard_time": 1718635339,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64002,
+        "num": 73498,
+        "word": "男子误机花6000从天津打车到西安",
+        "onboard_time": 1718617158,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63175,
+        "num": 73490,
+        "word": "于文文Amber刘忻 拽姐秀",
+        "onboard_time": 1718630299,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61726,
+        "num": 73486,
+        "word": "人民日报夜读",
+        "onboard_time": 1718639778,
+        "rank": 48,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 58147,
+        "num": 73485,
+        "word": "玫瑰的故事朱珠精神灯塔",
+        "onboard_time": 1718642296,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}

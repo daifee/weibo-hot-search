@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718641477220,
+  "endTime": 1718642361136,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -1467,6 +1467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 413439,
+      "num": 365150,
+      "word": "方协文 玫瑰换条裤子",
+      "onboard_time": 1718638757,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 412786,
       "num": 412786,
       "word": "中国女排3比2土耳其女排",
@@ -1536,14 +1544,6 @@
       "word": "玫瑰的故事 女主和四个女人的故事",
       "onboard_time": 1718525538,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 398034,
-      "num": 365150,
-      "word": "方协文 玫瑰换条裤子",
-      "onboard_time": 1718638757,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -2403,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245521,
+      "num": 245521,
+      "word": "陈哲远转发说他假唱微博",
+      "onboard_time": 1718637558,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244751,
       "num": 231242,
       "word": "钟楚曦美的像回家一样轻松",
@@ -2697,14 +2705,6 @@
       "onboard_time": 1718454619,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 213527,
-      "num": 181692,
-      "word": "陈哲远转发说他假唱微博",
-      "onboard_time": 1718637558,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 213388,
@@ -3643,6 +3643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171295,
+      "num": 171295,
+      "word": "比利时vs斯洛伐克",
+      "onboard_time": 1718636659,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171107,
       "num": 171107,
       "word": "周深影视音乐盛典年度歌手",
@@ -3737,14 +3745,6 @@
       "onboard_time": 1718618476,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167603,
-      "num": 167603,
-      "word": "比利时vs斯洛伐克",
-      "onboard_time": 1718636659,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 167431,
@@ -6025,6 +6025,14 @@
       "onboard_time": 1718503818,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58147,
+      "num": 73485,
+      "word": "玫瑰的故事朱珠精神灯塔",
+      "onboard_time": 1718642296,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 57175,

@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718641477220,
+  "endTime": 1718642361136,
   "band_list": [
     {
       "raw_hot": 780562,
@@ -43,7 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398034,
+      "raw_hot": 413439,
       "num": 365150,
       "word": "方协文 玫瑰换条裤子",
       "onboard_time": 1718638757,
@@ -115,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 245521,
+      "num": 245521,
+      "word": "陈哲远转发说他假唱微博",
+      "onboard_time": 1718637558,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222626,
       "num": 222626,
       "word": "火鸡面",
@@ -129,14 +137,6 @@
       "onboard_time": 1718619618,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213527,
-      "num": 159660,
-      "word": "陈哲远转发说他假唱微博",
-      "onboard_time": 1718637558,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 191382,
@@ -163,20 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171295,
+      "num": 171295,
+      "word": "比利时vs斯洛伐克",
+      "onboard_time": 1718636659,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170646,
       "num": 152209,
       "word": "张真源到达匈牙利录制跑男",
       "onboard_time": 1718639057,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 167603,
-      "num": 167603,
-      "word": "比利时vs斯洛伐克",
-      "onboard_time": 1718636659,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 160634,
@@ -385,6 +385,14 @@
       "onboard_time": 1718635339,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58147,
+      "num": 73485,
+      "word": "玫瑰的故事朱珠精神灯塔",
+      "onboard_time": 1718642296,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 37706,

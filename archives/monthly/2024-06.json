@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718641477220,
+  "endTime": 1718642361136,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -12011,6 +12011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 413439,
+      "num": 365150,
+      "word": "方协文 玫瑰换条裤子",
+      "onboard_time": 1718638757,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413386,
       "num": 413386,
       "word": "小米SU7已交付20000台",
@@ -12401,14 +12409,6 @@
       "onboard_time": 1717555938,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 398034,
-      "num": 365150,
-      "word": "方协文 玫瑰换条裤子",
-      "onboard_time": 1718638757,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 398017,
@@ -19611,6 +19611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245521,
+      "num": 245521,
+      "word": "陈哲远转发说他假唱微博",
+      "onboard_time": 1718637558,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245340,
       "num": 245340,
       "word": "张杰看谢娜的眼睛里有光",
@@ -22241,14 +22249,6 @@
       "onboard_time": 1718278998,
       "rank": 23,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 213527,
-      "num": 181692,
-      "word": "陈哲远转发说他假唱微博",
-      "onboard_time": 1718637558,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 213416,
@@ -29187,6 +29187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 171295,
+      "num": 171295,
+      "word": "比利时vs斯洛伐克",
+      "onboard_time": 1718636659,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171215,
       "num": 157441,
       "word": "菜刀上的孔是干嘛用的",
@@ -29825,14 +29833,6 @@
       "onboard_time": 1718274799,
       "rank": 39,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 167603,
-      "num": 167603,
-      "word": "比利时vs斯洛伐克",
-      "onboard_time": 1718636659,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 167538,
@@ -46289,6 +46289,14 @@
       "onboard_time": 1718097858,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 58147,
+      "num": 73485,
+      "word": "玫瑰的故事朱珠精神灯塔",
+      "onboard_time": 1718642296,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 58131,
