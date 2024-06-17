@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718601748966,
+  "endTime": 1718602702081,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -331,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 944180,
+      "num": 944180,
+      "word": "传宁德时代施行896工作制",
+      "onboard_time": 1718598559,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 909842,
       "num": 909842,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -424,14 +432,6 @@
       "word": "中国对澳大利亚单方面免签",
       "onboard_time": 1718599338,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 736886,
-      "num": 736886,
-      "word": "传宁德时代施行896工作制",
-      "onboard_time": 1718598559,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -675,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 561083,
+      "num": 243960,
+      "word": "日本人把西瓜皮都拿出来卖了",
+      "onboard_time": 1718599699,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557779,
       "num": 449020,
       "word": "王一博 微博比我更热",
@@ -851,11 +859,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472575,
-      "num": 243960,
-      "word": "日本人把西瓜皮都拿出来卖了",
-      "onboard_time": 1718599699,
-      "rank": 21,
+      "raw_hot": 470428,
+      "num": 470428,
+      "word": "日本文科生就业率达到97.1%",
+      "onboard_time": 1718600779,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1089,6 +1097,14 @@
       "onboard_time": 1718592736,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 412850,
+      "num": 412850,
+      "word": "玫瑰的亲事倒数第一竞争激烈",
+      "onboard_time": 1718601437,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 412786,
@@ -1403,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338931,
+      "num": 338931,
+      "word": "谋女郎和谋男郎坐一起了",
+      "onboard_time": 1718599760,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 335105,
       "num": 283946,
       "word": "十个勤天短袖",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1718463259,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 304489,
-      "num": 304489,
-      "word": "谋女郎和谋男郎坐一起了",
-      "onboard_time": 1718599760,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 300250,
@@ -1707,22 +1723,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 267817,
-      "num": 234357,
-      "word": "玫瑰的亲事倒数第一竞争激烈",
-      "onboard_time": 1718601437,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 266584,
-      "num": 266584,
-      "word": "日本文科生就业率达到97.1%",
-      "onboard_time": 1718600779,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264237,
       "num": 264237,
       "word": "金俊勉不知情CBX打官司的事情",
@@ -1851,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237428,
+      "num": 237428,
+      "word": "北京高考已有满分作文备选",
+      "onboard_time": 1718600837,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 236922,
       "num": 157897,
       "word": "吴谨言上了郝蕾表演课后逆袭",
@@ -1873,6 +1881,14 @@
       "onboard_time": 1718462720,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230398,
+      "num": 197583,
+      "word": "汪峰参与那英我是歌手选歌",
+      "onboard_time": 1718601379,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 230057,
@@ -2243,14 +2259,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197583,
-      "num": 197583,
-      "word": "汪峰参与那英我是歌手选歌",
-      "onboard_time": 1718601379,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197198,
       "num": 197198,
       "word": "中国女排1比0波兰女排",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1718479631,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193318,
+      "num": 173964,
+      "word": "大家好像都不被允许休息",
+      "onboard_time": 1718601738,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 192460,
@@ -2449,6 +2465,14 @@
       "onboard_time": 1718520856,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186882,
+      "num": 186882,
+      "word": "以后骂人不能骂她是梅超风了",
+      "onboard_time": 1718602337,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 185806,
@@ -3075,14 +3099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144535,
-      "num": 144535,
-      "word": "北京高考已有满分作文备选",
-      "onboard_time": 1718600837,
-      "rank": 44,
-      "category": "教育"
-    },
-    {
       "raw_hot": 143888,
       "num": 143888,
       "word": "无聊的大人",
@@ -3241,6 +3257,14 @@
       "onboard_time": 1718536337,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133270,
+      "num": 133270,
+      "word": "外国网友总结的中国最佳旅游胜地",
+      "onboard_time": 1718602158,
+      "rank": 43,
+      "category": "旅游"
     },
     {
       "raw_hot": 132917,
@@ -3553,6 +3577,14 @@
       "onboard_time": 1718542578,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121204,
+      "num": 121204,
+      "word": "埃及国家博物馆感觉要被搬空了",
+      "onboard_time": 1718602580,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120792,
@@ -4531,6 +4563,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 35473,
+      "num": 432132,
+      "word": "120秒回顾姜萍逆袭之路",
+      "onboard_time": 1718599939,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35471,
       "num": 153949,
       "word": "父亲节前爸爸捐骨髓教儿子感恩",
@@ -4553,14 +4593,6 @@
       "onboard_time": 1718561472,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31388,
-      "num": 305792,
-      "word": "120秒回顾姜萍逆袭之路",
-      "onboard_time": 1718599939,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 31375,
@@ -4649,6 +4681,14 @@
       "onboard_time": 1718541857,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24145,
+      "num": 112087,
+      "word": "倪妮镜头里的黄渤",
+      "onboard_time": 1718602580,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 22893,

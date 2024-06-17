@@ -1,0 +1,410 @@
+{
+  "runTime": 1718602702081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1143026,
+        "num": 1143026,
+        "word": "姜萍4月份总成绩年级第一",
+        "onboard_time": 1718595617,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944180,
+        "num": 944180,
+        "word": "传宁德时代施行896工作制",
+        "onboard_time": 1718598559,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105050,
+        "num": 888604,
+        "word": "2000年前的简历怎么写",
+        "onboard_time": 1718596817,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865078,
+        "num": 865078,
+        "word": "工人排水口小便后捞出死鸭送车间",
+        "onboard_time": 1718592137,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697689,
+        "num": 697689,
+        "word": "中国对澳大利亚单方面免签",
+        "onboard_time": 1718599338,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 659021,
+        "num": 659021,
+        "word": "墨雨云间 爽剧不爽了",
+        "onboard_time": 1718594898,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 579582,
+        "num": 579582,
+        "word": "暑期档唯一灾难大片来了",
+        "onboard_time": 1718598618,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 470428,
+        "num": 470428,
+        "word": "日本文科生就业率达到97.1%",
+        "onboard_time": 1718600779,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444772,
+        "num": 444772,
+        "word": "刘浩存周也 你快笑啊在拍了",
+        "onboard_time": 1718590097,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35473,
+        "num": 432132,
+        "word": "120秒回顾姜萍逆袭之路",
+        "onboard_time": 1718599939,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429954,
+        "num": 429954,
+        "word": "惠英红看刘亦菲的眼神",
+        "onboard_time": 1718599460,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 412850,
+        "num": 412850,
+        "word": "玫瑰的亲事倒数第一竞争激烈",
+        "onboard_time": 1718601437,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400781,
+        "num": 400781,
+        "word": "姐妹俩一起开小饭馆同时确诊肺癌",
+        "onboard_time": 1718597538,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348904,
+        "num": 348904,
+        "word": "玫瑰的故事看生气了",
+        "onboard_time": 1718595257,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338931,
+        "num": 338931,
+        "word": "谋女郎和谋男郎坐一起了",
+        "onboard_time": 1718599760,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303129,
+        "num": 303129,
+        "word": "张杰张若昀两个女儿奴",
+        "onboard_time": 1718590398,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275784,
+        "num": 275784,
+        "word": "男生洗澡有了自己第一篇SCI",
+        "onboard_time": 1718584698,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274272,
+        "num": 274272,
+        "word": "记者卧底鸭肠鹅肠工厂",
+        "onboard_time": 1718588596,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237428,
+        "num": 237428,
+        "word": "北京高考已有满分作文备选",
+        "onboard_time": 1718600837,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209762,
+        "num": 209762,
+        "word": "姜萍中考621分却上中专的原因",
+        "onboard_time": 1718550441,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 561083,
+        "num": 209760,
+        "word": "日本人把西瓜皮都拿出来卖了",
+        "onboard_time": 1718599699,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474489,
+        "num": 209754,
+        "word": "有了微信小号才发现朋友圈的意义",
+        "onboard_time": 1718583919,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 389891,
+        "num": 209748,
+        "word": "长期吃辣的人更容易得胃癌吗",
+        "onboard_time": 1718550560,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250507,
+        "num": 209743,
+        "word": "丁真不吃番茄但吃番茄炒蛋",
+        "onboard_time": 1718595617,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229101,
+        "num": 209738,
+        "word": "林更新回应和网友互怼",
+        "onboard_time": 1718599099,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209736,
+        "num": 209736,
+        "word": "优酷客服回应墨雨云间减更",
+        "onboard_time": 1718600837,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205122,
+        "num": 205122,
+        "word": "韩国年轻人开始流行不看脸约会",
+        "onboard_time": 1718588297,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192745,
+        "num": 192745,
+        "word": "赵丽颖栗子妆",
+        "onboard_time": 1718595138,
+        "rank": 27,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 186882,
+        "num": 186882,
+        "word": "以后骂人不能骂她是梅超风了",
+        "onboard_time": 1718602337,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177794,
+        "num": 177794,
+        "word": "刘亦菲万茜朱珠 亦万头朱",
+        "onboard_time": 1718600419,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230398,
+        "num": 175352,
+        "word": "汪峰参与那英我是歌手选歌",
+        "onboard_time": 1718601379,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193318,
+        "num": 173964,
+        "word": "大家好像都不被允许休息",
+        "onboard_time": 1718601738,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172267,
+        "num": 172267,
+        "word": "初级会计查成绩",
+        "onboard_time": 1718594417,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162301,
+        "num": 162301,
+        "word": "陈奕迅演唱会佛山站延期",
+        "onboard_time": 1718599279,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161963,
+        "num": 161963,
+        "word": "吓倪妮的是惠英红",
+        "onboard_time": 1718596458,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157703,
+        "num": 157703,
+        "word": "孙丞潇真能做53天饭不重样",
+        "onboard_time": 1718600119,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156778,
+        "num": 156778,
+        "word": "Jennie开通TikTok",
+        "onboard_time": 1718599219,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152087,
+        "num": 152087,
+        "word": "Doinb回应冰岛事件",
+        "onboard_time": 1718596817,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137096,
+        "num": 149366,
+        "word": "像极了我刚旅游回来的样子",
+        "onboard_time": 1718600958,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154896,
+        "num": 148261,
+        "word": "倪妮 高叶你好烦呐",
+        "onboard_time": 1718592736,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146998,
+        "num": 146998,
+        "word": "马嘉祺 蜉蝣",
+        "onboard_time": 1718599639,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139819,
+        "num": 139819,
+        "word": "玫瑰的故事 祛魅",
+        "onboard_time": 1718598079,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60678,
+        "num": 135206,
+        "word": "姜萍挑战自我的精神是当代青年榜样",
+        "onboard_time": 1718601679,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 133270,
+        "num": 133270,
+        "word": "外国网友总结的中国最佳旅游胜地",
+        "onboard_time": 1718602158,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132927,
+        "num": 132927,
+        "word": "金俊勉不知情CBX打官司的事情",
+        "onboard_time": 1718598378,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124047,
+        "num": 124047,
+        "word": "这个颜色的染发剂最危险",
+        "onboard_time": 1718594417,
+        "rank": 45,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 121204,
+        "num": 121204,
+        "word": "埃及国家博物馆感觉要被搬空了",
+        "onboard_time": 1718602580,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115271,
+        "num": 115271,
+        "word": "巴勒斯坦儿童举弹药质问美国人",
+        "onboard_time": 1718588117,
+        "rank": 47,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 112949,
+        "num": 112949,
+        "word": "恋与深空",
+        "onboard_time": 1718600539,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24145,
+        "num": 112087,
+        "word": "倪妮镜头里的黄渤",
+        "onboard_time": 1718602580,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强荒漠化治理和湿地保护#"
+    }
+  }
+}
