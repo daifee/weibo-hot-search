@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718623006065,
+  "endTime": 1718624075501,
   "band_list": [
     {
       "raw_hot": 1842501,
@@ -97,6 +97,14 @@
       "onboard_time": 1718583919,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1046139,
+      "num": 606675,
+      "word": "朱一龙吴磊 平番",
+      "onboard_time": 1718622258,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 1004640,
@@ -323,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604647,
+      "num": 604647,
+      "word": "邓超体检身体年龄仅27岁",
+      "onboard_time": 1718618417,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 601988,
       "num": 601988,
       "word": "男子连续5年点同一粤菜馆2101次",
       "onboard_time": 1718613377,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 572537,
-      "num": 572537,
-      "word": "朱一龙吴磊 平番",
-      "onboard_time": 1718622258,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 565271,
@@ -371,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 547277,
+      "num": 342871,
+      "word": "优酷回应开了VIP还要开SVIP",
+      "onboard_time": 1718621657,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541955,
       "num": 541955,
       "word": "黄亦玫下嫁方协文 绝对愚蠢",
@@ -401,6 +417,14 @@
       "onboard_time": 1718588117,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 532586,
+      "num": 235318,
+      "word": "瘦了20斤才敢说的实话",
+      "onboard_time": 1718622018,
+      "rank": 21,
+      "category": "运动健身"
     },
     {
       "raw_hot": 521979,
@@ -483,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 459560,
+      "num": 325707,
+      "word": "楠火锅发布舌头变黑事件说明",
+      "onboard_time": 1718619978,
+      "rank": 26,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 454339,
       "num": 454339,
       "word": "姐妹俩一起开小饭馆同时确诊肺癌",
@@ -563,14 +595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 408352,
-      "num": 325707,
-      "word": "楠火锅发布舌头变黑事件说明",
-      "onboard_time": 1718619978,
-      "rank": 26,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 404354,
       "num": 404354,
       "word": "肖战家庭氛围",
@@ -603,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394288,
-      "num": 394288,
-      "word": "邓超体检身体年龄仅27岁",
-      "onboard_time": 1718618417,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 394018,
       "num": 394018,
       "word": "赵丽颖栗子妆",
@@ -625,6 +641,14 @@
       "onboard_time": 1718575931,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 384149,
+      "num": 324762,
+      "word": "玫瑰的故事 绝症哥",
+      "onboard_time": 1718619618,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 371393,
@@ -657,14 +681,6 @@
       "onboard_time": 1718587637,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 357931,
-      "num": 324762,
-      "word": "玫瑰的故事 绝症哥",
-      "onboard_time": 1718619618,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 357741,
@@ -739,14 +755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 336427,
-      "num": 195281,
-      "word": "瘦了20斤才敢说的实话",
-      "onboard_time": 1718622018,
-      "rank": 21,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 331657,
       "num": 331657,
       "word": "丁真不吃番茄但吃番茄炒蛋",
@@ -760,6 +768,14 @@
       "word": "汪峰参与那英我是歌手选歌",
       "onboard_time": 1718601379,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 330941,
+      "num": 314700,
+      "word": "罗云熙美依礼芽极乐净土",
+      "onboard_time": 1718619017,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -793,22 +809,6 @@
       "onboard_time": 1718594417,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 314700,
-      "num": 314700,
-      "word": "罗云熙美依礼芽极乐净土",
-      "onboard_time": 1718619017,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 314623,
-      "num": 314623,
-      "word": "优酷回应开了VIP还要开SVIP",
-      "onboard_time": 1718621657,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 307390,
@@ -857,6 +857,14 @@
       "onboard_time": 1718590817,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280412,
+      "num": 280412,
+      "word": "王者荣耀 鸡爪流",
+      "onboard_time": 1718620217,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 276078,
@@ -979,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234601,
+      "num": 234601,
+      "word": "越来越多年轻人患上结婚羞耻症",
+      "onboard_time": 1718623396,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 233197,
       "num": 209774,
       "word": "男生兼职攒一千给家里厨房装空调",
@@ -1051,6 +1067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216433,
+      "num": 216433,
+      "word": "庄国栋碎了",
+      "onboard_time": 1718620937,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214981,
       "num": 214981,
       "word": "胡歌晒小时候和父亲合照",
@@ -1099,12 +1123,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210463,
-      "num": 185000,
-      "word": "庄国栋碎了",
-      "onboard_time": 1718620937,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 210233,
+      "num": 210233,
+      "word": "一中国公民在印度被扣押期间死亡",
+      "onboard_time": 1718623157,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 205413,
@@ -1129,14 +1153,6 @@
       "onboard_time": 1718548279,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199977,
-      "num": 199977,
-      "word": "王者荣耀 鸡爪流",
-      "onboard_time": 1718620217,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 199840,
@@ -1483,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166664,
+      "num": 166664,
+      "word": "逆水寒周年国风联动企划",
+      "onboard_time": 1718623456,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166118,
       "num": 166118,
       "word": "给小猫烫成小马了",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1718608338,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162607,
+      "num": 162607,
+      "word": "618开心夜",
+      "onboard_time": 1718623636,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 162289,
@@ -1681,6 +1713,14 @@
       "onboard_time": 1718608037,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150580,
+      "num": 150580,
+      "word": "面个试把隐私都问完了",
+      "onboard_time": 1718622258,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 150379,
@@ -1859,6 +1899,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 132874,
+      "num": 325894,
+      "word": "捡废品考清华的庞众望正读博",
+      "onboard_time": 1718621538,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131876,
       "num": 1072820,
       "word": "2000年前的简历怎么写",
@@ -2027,14 +2075,6 @@
       "category": "读书作家,互联网"
     },
     {
-      "raw_hot": 123990,
-      "num": 123990,
-      "word": "面个试把隐私都问完了",
-      "onboard_time": 1718622258,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 123757,
       "num": 123757,
       "word": "黄健翔说穿蓝色球衣指定不会错",
@@ -2163,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 110684,
+      "num": 110684,
+      "word": "佟大为和刘亦菲演兄妹是按父女演的",
+      "onboard_time": 1718624057,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110678,
       "num": 110678,
       "word": "欧洲杯比分",
@@ -2211,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103333,
+      "num": 103333,
+      "word": "张博恒奥运首秀",
+      "onboard_time": 1718621238,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102686,
       "num": 129464,
       "word": "中国女排4连胜",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1718607677,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 94437,
+      "num": 314652,
+      "word": "天猫618再加码100亿惊喜红包",
+      "onboard_time": 1718622018,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 90804,
@@ -2331,14 +2395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75668,
-      "num": 314652,
-      "word": "天猫618再加码100亿惊喜红包",
-      "onboard_time": 1718622018,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 74154,
       "num": 86481,
       "word": "朱婷",
@@ -2359,14 +2415,6 @@
       "num": 373895,
       "word": "有掼蛋礼盒单价超千元",
       "onboard_time": 1718607617,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69499,
-      "num": 325894,
-      "word": "捡废品考清华的庞众望正读博",
-      "onboard_time": 1718621538,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -2451,6 +2499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49818,
+      "num": 270083,
+      "word": "多多不想让您受委屈",
+      "onboard_time": 1718622797,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 49215,
+      "num": 312626,
+      "word": "记者暗访鸭鹅肠工厂电话被李主任泄漏",
+      "onboard_time": 1718623396,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48698,
       "num": 268208,
       "word": "京东超级惊喜红包3800元",
@@ -2507,14 +2571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35792,
-      "num": 140884,
-      "word": "多多不想让您受委屈",
-      "onboard_time": 1718622797,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 35589,
       "num": 282166,
       "word": "宝藏河南字游奇旅",
@@ -2564,7 +2620,7 @@
     },
     {
       "raw_hot": 32456,
-      "num": 141268,
+      "num": 148967,
       "word": "15国非遗珍品亮相经贸洽谈会",
       "onboard_time": 1718620818,
       "rank": 38,
@@ -2675,6 +2731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 14034,
+      "num": 235339,
+      "word": "墨雨发的红包比肃国公还疯",
+      "onboard_time": 1718622737,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 13967,
       "num": 16487,
       "word": "老头杯决赛",
@@ -2705,14 +2769,6 @@
       "onboard_time": 1718557275,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 7496,
-      "num": 156469,
-      "word": "墨雨发的红包比肃国公还疯",
-      "onboard_time": 1718622737,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 5774,

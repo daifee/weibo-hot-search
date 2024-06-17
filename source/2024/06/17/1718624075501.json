@@ -1,0 +1,410 @@
+{
+  "runTime": 1718624075501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212293,
+        "num": 1212293,
+        "word": "男子误机花6000从天津打车到西安",
+        "onboard_time": 1718617158,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627569,
+        "num": 627569,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47098,
+        "num": 608470,
+        "word": "遭遇暴雨雷电天气如何保证自身安全",
+        "onboard_time": 1718615118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046139,
+        "num": 606675,
+        "word": "朱一龙吴磊 平番",
+        "onboard_time": 1718622258,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 604647,
+        "num": 604647,
+        "word": "邓超体检身体年龄仅27岁",
+        "onboard_time": 1718618417,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362626,
+        "num": 362626,
+        "word": "王者荣耀安琪拉",
+        "onboard_time": 1718616558,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 581274,
+        "num": 344933,
+        "word": "丈夫替怀孕妻子辞职合理吗",
+        "onboard_time": 1718617396,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547277,
+        "num": 342871,
+        "word": "优酷回应开了VIP还要开SVIP",
+        "onboard_time": 1718621657,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315022,
+        "num": 315022,
+        "word": "南方医科大最新回应",
+        "onboard_time": 1718613438,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49215,
+        "num": 312626,
+        "word": "记者暗访鸭鹅肠工厂电话被李主任泄漏",
+        "onboard_time": 1718623396,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459560,
+        "num": 309257,
+        "word": "楠火锅发布舌头变黑事件说明",
+        "onboard_time": 1718619978,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 384149,
+        "num": 303867,
+        "word": "玫瑰的故事 绝症哥",
+        "onboard_time": 1718619618,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330941,
+        "num": 298874,
+        "word": "罗云熙美依礼芽极乐净土",
+        "onboard_time": 1718619017,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297358,
+        "num": 297358,
+        "word": "秦昊问金靖什么时候生",
+        "onboard_time": 1718618178,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94437,
+        "num": 293502,
+        "word": "天猫618再加码100亿惊喜红包",
+        "onboard_time": 1718622018,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 291596,
+        "num": 291596,
+        "word": "邓超 歌手现在真缺我",
+        "onboard_time": 1718613377,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280412,
+        "num": 280412,
+        "word": "王者荣耀 鸡爪流",
+        "onboard_time": 1718620217,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 49818,
+        "num": 270083,
+        "word": "多多不想让您受委屈",
+        "onboard_time": 1718622797,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266228,
+        "num": 266228,
+        "word": "养老金",
+        "onboard_time": 1718615898,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238729,
+        "num": 238729,
+        "word": "救人迟到儿科医师已停诊",
+        "onboard_time": 1718602937,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14034,
+        "num": 235339,
+        "word": "墨雨发的红包比肃国公还疯",
+        "onboard_time": 1718622737,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532586,
+        "num": 235318,
+        "word": "瘦了20斤才敢说的实话",
+        "onboard_time": 1718622018,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 271105,
+        "num": 235289,
+        "word": "那英 死也死不了活着被烤",
+        "onboard_time": 1718606958,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234601,
+        "num": 234601,
+        "word": "越来越多年轻人患上结婚羞耻症",
+        "onboard_time": 1718623396,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221058,
+        "num": 221058,
+        "word": "王星越叼玉佩镜头加一",
+        "onboard_time": 1718619497,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216433,
+        "num": 216433,
+        "word": "庄国栋碎了",
+        "onboard_time": 1718620937,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210233,
+        "num": 210233,
+        "word": "一中国公民在印度被扣押期间死亡",
+        "onboard_time": 1718623157,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200210,
+        "num": 200210,
+        "word": "九岁外国小朋友被中国网友教育了",
+        "onboard_time": 1718607077,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166664,
+        "num": 166664,
+        "word": "逆水寒周年国风联动企划",
+        "onboard_time": 1718623456,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162607,
+        "num": 162607,
+        "word": "618开心夜",
+        "onboard_time": 1718623636,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158106,
+        "num": 158106,
+        "word": "姜若瑶碎了",
+        "onboard_time": 1718611278,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159061,
+        "num": 157805,
+        "word": "湖南卫视开心夜节目单",
+        "onboard_time": 1718618898,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155008,
+        "num": 155008,
+        "word": "墨雨云间成王是吴谨言台词老师",
+        "onboard_time": 1718621238,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162275,
+        "num": 153197,
+        "word": "肖战TODS早春大秀",
+        "onboard_time": 1718621598,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150580,
+        "num": 150580,
+        "word": "面个试把隐私都问完了",
+        "onboard_time": 1718622258,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257835,
+        "num": 150269,
+        "word": "辛芷蕾的10套香奶奶",
+        "onboard_time": 1718614699,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20570,
+        "num": 148967,
+        "word": "15国非遗珍品亮相经贸洽谈会",
+        "onboard_time": 1718620818,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147918,
+        "num": 147918,
+        "word": "电影东极岛",
+        "onboard_time": 1718621117,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134824,
+        "num": 134824,
+        "word": "墨雨云间 爽剧不爽了",
+        "onboard_time": 1718594898,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132874,
+        "num": 132874,
+        "word": "捡废品考清华的庞众望正读博",
+        "onboard_time": 1718621538,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128929,
+        "num": 128929,
+        "word": "王者荣耀策划回应鸡爪流争议",
+        "onboard_time": 1718622617,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127313,
+        "num": 127313,
+        "word": "UP战胜WBG",
+        "onboard_time": 1718622617,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122789,
+        "num": 122789,
+        "word": "老人被骗79万元崩溃哭泣",
+        "onboard_time": 1718605157,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122119,
+        "num": 122119,
+        "word": "退休人员基本养老金水平提高3%",
+        "onboard_time": 1718615417,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113817,
+        "num": 113817,
+        "word": "宁德时代回应网传896工作制",
+        "onboard_time": 1718610017,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113192,
+        "num": 113192,
+        "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
+        "onboard_time": 1718612178,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111096,
+        "num": 111096,
+        "word": "教育部首次上线高考志愿信息系统",
+        "onboard_time": 1718618298,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110684,
+        "num": 110684,
+        "word": "佟大为和刘亦菲演兄妹是按父女演的",
+        "onboard_time": 1718624057,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106590,
+        "num": 106590,
+        "word": "吴谨言王星越将合体",
+        "onboard_time": 1718613197,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103333,
+        "num": 103333,
+        "word": "张博恒奥运首秀",
+        "onboard_time": 1718621238,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强荒漠化治理和湿地保护#"
+    }
+  }
+}
