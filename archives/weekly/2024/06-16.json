@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718666415551,
+  "endTime": 1718667361662,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -387,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 986040,
+      "num": 986040,
+      "word": "医生提醒尽量不要生吃海鲜和肉",
+      "onboard_time": 1718643434,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 980180,
       "num": 980180,
       "word": "丈夫替怀孕妻子辞职合理吗",
@@ -515,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 848930,
-      "num": 848930,
-      "word": "医生提醒尽量不要生吃海鲜和肉",
-      "onboard_time": 1718643434,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 845348,
       "num": 373046,
       "word": "男子离婚前贷款45万并转给母亲35万",
@@ -601,6 +601,14 @@
       "onboard_time": 1718533637,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 747939,
+      "num": 747939,
+      "word": "红豆薏米水真的可以祛湿吗",
+      "onboard_time": 1718656270,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 745434,
@@ -769,14 +777,6 @@
       "onboard_time": 1718470335,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 650858,
-      "num": 650858,
-      "word": "红豆薏米水真的可以祛湿吗",
-      "onboard_time": 1718656270,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 641375,
@@ -2155,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 290332,
+      "num": 125524,
+      "word": "刘亦菲同一件衣服不同状态",
+      "onboard_time": 1718665334,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290129,
       "num": 290129,
       "word": "张雨绮戴的戒指是会动的蝴蝶",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1718548100,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 286289,
+      "num": 286289,
+      "word": "姆巴佩鼻梁骨折",
+      "onboard_time": 1718666236,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 282304,
@@ -2371,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254029,
+      "num": 202682,
+      "word": "林更新不觉得方协文的付出伟大",
+      "onboard_time": 1718665394,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253750,
       "num": 253750,
       "word": "专家称A股4000点之前应避免做空",
@@ -2513,14 +2537,6 @@
       "onboard_time": 1718609838,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232979,
-      "num": 112880,
-      "word": "刘亦菲同一件衣服不同状态",
-      "onboard_time": 1718665334,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 232051,
@@ -2947,6 +2963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202857,
+      "num": 160263,
+      "word": "长寿的人多半有4慢3长特点",
+      "onboard_time": 1718637319,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202573,
       "num": 202573,
       "word": "影视音乐盛典投票",
@@ -3219,28 +3243,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191793,
-      "num": 169567,
-      "word": "林更新不觉得方协文的付出伟大",
-      "onboard_time": 1718665394,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 191595,
       "num": 203644,
       "word": "没有一个爸爸逃得了小棉袄的化妆术",
       "onboard_time": 1718540239,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 191128,
-      "num": 160263,
-      "word": "长寿的人多半有4慢3长特点",
-      "onboard_time": 1718637319,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 191020,
@@ -3273,6 +3281,14 @@
       "onboard_time": 1718591657,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190600,
+      "num": 190600,
+      "word": "奥地利0比1法国",
+      "onboard_time": 1718666475,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 190090,
@@ -5099,6 +5115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119750,
+      "num": 119750,
+      "word": "比利时半场0比1斯洛伐克",
+      "onboard_time": 1718666596,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119613,
       "num": 125743,
       "word": "RA对战LNG",
@@ -5331,6 +5355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109523,
+      "num": 109523,
+      "word": "坐高铁捡到了刚高考完妹妹的信",
+      "onboard_time": 1718666355,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109405,
       "num": 109405,
       "word": "乐华男团闯完内娱创韩娱",
@@ -5425,6 +5457,14 @@
       "onboard_time": 1718607738,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104078,
+      "num": 104078,
+      "word": "姆巴佩造乌龙",
+      "onboard_time": 1718666535,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 104044,
@@ -5643,6 +5683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91464,
+      "num": 91464,
+      "word": "独行侠vs凯尔特人",
+      "onboard_time": 1718667015,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90559,
       "num": 90559,
       "word": "给500块的公猫找了个2000块的老婆",
@@ -5683,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 88432,
+      "num": 88432,
+      "word": "离职风工位说明无安全感",
+      "onboard_time": 1718662272,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87451,
       "num": 87451,
       "word": "师生十年后相聚歌手双双离场",
@@ -5705,14 +5761,6 @@
       "onboard_time": 1718579355,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85822,
-      "num": 85822,
-      "word": "离职风工位说明无安全感",
-      "onboard_time": 1718662272,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 85640,
@@ -5883,6 +5931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76165,
+      "num": 76165,
+      "word": "胡歌片寄凉太土屋太凤同框",
+      "onboard_time": 1718645893,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 75942,
       "num": 75942,
       "word": "学校回应男生39天减重斤20斤后猝死",
@@ -5971,6 +6027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66775,
+      "num": 66775,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65343,
       "num": 76675,
       "word": "贝林厄姆破门",
@@ -5984,6 +6048,14 @@
       "word": "今晚朱婷不首发",
       "onboard_time": 1718454678,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64835,
+      "num": 64835,
+      "word": "欧洲杯直播",
+      "onboard_time": 1718667317,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -6011,12 +6083,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 63980,
-      "num": 63980,
-      "word": "姆巴佩鼻梁骨折",
-      "onboard_time": 1718666236,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 63908,
+      "num": 63908,
+      "word": "王珞丹包臀花瓶裙",
+      "onboard_time": 1718658370,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 63671,
@@ -6025,6 +6097,14 @@
       "onboard_time": 1718505977,
       "rank": 29,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 63423,
+      "num": 63423,
+      "word": "姆巴佩好拼",
+      "onboard_time": 1718666175,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 63084,
@@ -6073,6 +6153,14 @@
       "onboard_time": 1718494095,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59903,
+      "num": 59903,
+      "word": "黄晓明为新电影增重30斤",
+      "onboard_time": 1718664553,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 59653,
@@ -6155,14 +6243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55948,
-      "num": 55948,
-      "word": "胡歌片寄凉太土屋太凤同框",
-      "onboard_time": 1718645893,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 55800,
       "num": 290105,
       "word": "市民帮寻回丢失无人机收到夜空感谢信",
@@ -6211,22 +6291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49301,
-      "num": 49301,
-      "word": "黄晓明为新电影增重30斤",
-      "onboard_time": 1718664553,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 49246,
-      "num": 49246,
-      "word": "王珞丹包臀花瓶裙",
-      "onboard_time": 1718658370,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 48698,
       "num": 268208,
       "word": "京东超级惊喜红包3800元",
@@ -6241,6 +6305,14 @@
       "onboard_time": 1718493193,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48111,
+      "num": 48111,
+      "word": "法国队连续6届大赛开门红",
+      "onboard_time": 1718667256,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 46932,
@@ -6361,14 +6433,6 @@
       "onboard_time": 1718538737,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41179,
-      "num": 48009,
-      "word": "果然生女儿就是用来打扮的",
-      "onboard_time": 1718654650,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 40614,
@@ -6507,14 +6571,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 34587,
-      "num": 47869,
-      "word": "姆巴佩好拼",
-      "onboard_time": 1718666175,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34033,
       "num": 238999,
       "word": "今晚8点京东百亿补贴力度翻倍",
@@ -6523,12 +6579,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 33666,
-      "num": 47844,
-      "word": "坐高铁捡到了刚高考完妹妹的信",
-      "onboard_time": 1718666355,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 33831,
+      "num": 203762,
+      "word": "福宝甩杆钓鱼",
+      "onboard_time": 1718665394,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32900,
@@ -6657,14 +6713,6 @@
       "onboard_time": 1718649971,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27731,
-      "num": 169636,
-      "word": "福宝甩杆钓鱼",
-      "onboard_time": 1718665394,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26627,
@@ -7004,7 +7052,7 @@
     },
     {
       "raw_hot": 6034,
-      "num": 154150,
+      "num": 179133,
       "word": "口腔专业真的很好就业吗",
       "onboard_time": 1718665634,
       "rank": 14,

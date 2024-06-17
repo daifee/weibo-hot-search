@@ -1,10 +1,10 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718666415551,
+  "endTime": 1718667361662,
   "band_list": [
     {
-      "raw_hot": 848930,
-      "num": 848930,
+      "raw_hot": 986040,
+      "num": 986040,
       "word": "医生提醒尽量不要生吃海鲜和肉",
       "onboard_time": 1718643434,
       "rank": 17,
@@ -19,20 +19,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 747939,
+      "num": 747939,
+      "word": "红豆薏米水真的可以祛湿吗",
+      "onboard_time": 1718656270,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 659153,
       "num": 659153,
       "word": "姜萍",
       "onboard_time": 1718636600,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 650858,
-      "num": 650858,
-      "word": "红豆薏米水真的可以祛湿吗",
-      "onboard_time": 1718656270,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 608850,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 400649,
+      "num": 400649,
+      "word": "烟草局回应凌晨上门伪造证据",
+      "onboard_time": 1718630838,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384584,
       "num": 384584,
       "word": "iPhone15多次降价重回销量榜第一",
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328504,
-      "num": 328504,
-      "word": "烟草局回应凌晨上门伪造证据",
-      "onboard_time": 1718630838,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 317182,
       "num": 317182,
       "word": "订书钉才是上班摸鱼神器",
@@ -104,6 +104,22 @@
       "word": "新加坡门将以为自己火不过两天",
       "onboard_time": 1718634559,
       "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 290332,
+      "num": 125524,
+      "word": "刘亦菲同一件衣服不同状态",
+      "onboard_time": 1718665334,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286289,
+      "num": 286289,
+      "word": "姆巴佩鼻梁骨折",
+      "onboard_time": 1718666236,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -131,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254029,
+      "num": 202682,
+      "word": "林更新不觉得方协文的付出伟大",
+      "onboard_time": 1718665394,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247783,
       "num": 247783,
       "word": "苏敏 离婚",
@@ -145,14 +169,6 @@
       "onboard_time": 1718637558,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232979,
-      "num": 112880,
-      "word": "刘亦菲同一件衣服不同状态",
-      "onboard_time": 1718665334,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 222626,
@@ -179,12 +195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191793,
-      "num": 169567,
-      "word": "林更新不觉得方协文的付出伟大",
-      "onboard_time": 1718665394,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 202857,
+      "num": 155836,
+      "word": "长寿的人多半有4慢3长特点",
+      "onboard_time": 1718637319,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191382,
@@ -195,12 +211,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 191128,
-      "num": 155836,
-      "word": "长寿的人多半有4慢3长特点",
-      "onboard_time": 1718637319,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 190600,
+      "num": 190600,
+      "word": "奥地利0比1法国",
+      "onboard_time": 1718666475,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 183037,
@@ -208,6 +224,14 @@
       "word": "玫瑰的故事告诉我们",
       "onboard_time": 1718639778,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173579,
+      "num": 173579,
+      "word": "四个男女主凑不出一副爹娘",
+      "onboard_time": 1718630537,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -243,14 +267,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 150837,
-      "num": 150837,
-      "word": "四个男女主凑不出一副爹娘",
-      "onboard_time": 1718630537,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136052,
       "num": 136052,
       "word": "数学专业就业后的收入",
@@ -267,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122707,
+      "num": 122707,
+      "word": "云南一女子吃野生菌看到机器人小偷",
+      "onboard_time": 1718635160,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120656,
       "num": 120656,
       "word": "罗马尼亚vs乌克兰",
@@ -275,12 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120424,
-      "num": 120424,
-      "word": "云南一女子吃野生菌看到机器人小偷",
-      "onboard_time": 1718635160,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 119750,
+      "num": 119750,
+      "word": "比利时半场0比1斯洛伐克",
+      "onboard_time": 1718666596,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 112323,
@@ -289,6 +313,14 @@
       "onboard_time": 1718637739,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109523,
+      "num": 109523,
+      "word": "坐高铁捡到了刚高考完妹妹的信",
+      "onboard_time": 1718666355,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 108932,
@@ -307,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104078,
+      "num": 104078,
+      "word": "姆巴佩造乌龙",
+      "onboard_time": 1718666535,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102721,
       "num": 101337,
       "word": "玫瑰的故事朱珠精神灯塔",
@@ -321,6 +361,14 @@
       "onboard_time": 1718639598,
       "rank": 34,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 99918,
+      "num": 99918,
+      "word": "欧洲杯",
+      "onboard_time": 1718630237,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 98953,
@@ -355,11 +403,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93417,
-      "num": 93417,
-      "word": "欧洲杯",
-      "onboard_time": 1718630237,
-      "rank": 43,
+      "raw_hot": 91464,
+      "num": 91464,
+      "word": "独行侠vs凯尔特人",
+      "onboard_time": 1718667015,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -371,8 +419,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85822,
-      "num": 85822,
+      "raw_hot": 88432,
+      "num": 88432,
       "word": "离职风工位说明无安全感",
       "onboard_time": 1718662272,
       "rank": 42,
@@ -435,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76165,
+      "num": 76165,
+      "word": "胡歌片寄凉太土屋太凤同框",
+      "onboard_time": 1718645893,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 73532,
       "num": 76373,
       "word": "刚收到的录取通知书被撤回了",
@@ -459,11 +515,35 @@
       "category": "情感"
     },
     {
-      "raw_hot": 63980,
-      "num": 63980,
-      "word": "姆巴佩鼻梁骨折",
-      "onboard_time": 1718666236,
-      "rank": 30,
+      "raw_hot": 66775,
+      "num": 66775,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 64835,
+      "num": 64835,
+      "word": "欧洲杯直播",
+      "onboard_time": 1718667317,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63908,
+      "num": 63908,
+      "word": "王珞丹包臀花瓶裙",
+      "onboard_time": 1718658370,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 63423,
+      "num": 63423,
+      "word": "姆巴佩好拼",
+      "onboard_time": 1718666175,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -475,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 59903,
+      "num": 59903,
+      "word": "黄晓明为新电影增重30斤",
+      "onboard_time": 1718664553,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 57201,
       "num": 57201,
       "word": "黄宣女装",
@@ -483,44 +571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55948,
-      "num": 55948,
-      "word": "胡歌片寄凉太土屋太凤同框",
-      "onboard_time": 1718645893,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 51130,
-      "num": 462218,
+      "raw_hot": 54715,
+      "num": 560020,
       "word": "教育部首次上线高考志愿信息系统",
       "onboard_time": 1718618298,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49301,
-      "num": 49301,
-      "word": "黄晓明为新电影增重30斤",
-      "onboard_time": 1718664553,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 49246,
-      "num": 49246,
-      "word": "王珞丹包臀花瓶裙",
-      "onboard_time": 1718658370,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 41179,
-      "num": 48009,
-      "word": "果然生女儿就是用来打扮的",
-      "onboard_time": 1718654650,
-      "rank": 29,
-      "category": "情感"
+      "raw_hot": 48111,
+      "num": 48111,
+      "word": "法国队连续6届大赛开门红",
+      "onboard_time": 1718667256,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 38686,
@@ -547,20 +611,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 34587,
-      "num": 47869,
-      "word": "姆巴佩好拼",
-      "onboard_time": 1718666175,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 33666,
-      "num": 47844,
-      "word": "坐高铁捡到了刚高考完妹妹的信",
-      "onboard_time": 1718666355,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 33831,
+      "num": 203762,
+      "word": "福宝甩杆钓鱼",
+      "onboard_time": 1718665394,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32744,
@@ -601,14 +657,6 @@
       "onboard_time": 1718649971,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27731,
-      "num": 169636,
-      "word": "福宝甩杆钓鱼",
-      "onboard_time": 1718665394,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26627,
@@ -676,7 +724,7 @@
     },
     {
       "raw_hot": 6034,
-      "num": 154150,
+      "num": 179133,
       "word": "口腔专业真的很好就业吗",
       "onboard_time": 1718665634,
       "rank": 14,
