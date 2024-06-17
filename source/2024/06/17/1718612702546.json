@@ -1,0 +1,410 @@
+{
+  "runTime": 1718612702546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1398666,
+        "num": 1398666,
+        "word": "896工作制",
+        "onboard_time": 1718610017,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1358382,
+        "num": 1358382,
+        "word": "优酷 开了VIP还要开SVIP",
+        "onboard_time": 1718608998,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111188,
+        "num": 1072820,
+        "word": "2000年前的简历怎么写",
+        "onboard_time": 1718596817,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893180,
+        "num": 893180,
+        "word": "那英 死也死不了活着被烤",
+        "onboard_time": 1718606958,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868441,
+        "num": 868441,
+        "word": "老人被骗79万元崩溃哭泣",
+        "onboard_time": 1718605157,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 637241,
+        "num": 637241,
+        "word": "楠火锅回应顾客就餐后舌头变黑",
+        "onboard_time": 1718606057,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601720,
+        "num": 601720,
+        "word": "救人迟到儿科医师已停诊",
+        "onboard_time": 1718602937,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521979,
+        "num": 521979,
+        "word": "姜若瑶碎了",
+        "onboard_time": 1718611278,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504787,
+        "num": 504787,
+        "word": "黄亦玫下嫁方协文 绝对愚蠢",
+        "onboard_time": 1718610317,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91289,
+        "num": 406348,
+        "word": "哪些专业有身高限制",
+        "onboard_time": 1718608938,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 404225,
+        "num": 404225,
+        "word": "日本人把西瓜皮都拿出来卖了",
+        "onboard_time": 1718599699,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359842,
+        "num": 359842,
+        "word": "男子离婚前贷款45万并转给母亲35万",
+        "onboard_time": 1718603238,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354847,
+        "num": 354847,
+        "word": "九岁外国小朋友被中国网友教育了",
+        "onboard_time": 1718607077,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277410,
+        "num": 277410,
+        "word": "日本文科生就业率达到97.1%",
+        "onboard_time": 1718600779,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275551,
+        "num": 275551,
+        "word": "墨雨云间 爽剧不爽了",
+        "onboard_time": 1718594898,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253750,
+        "num": 253750,
+        "word": "专家称A股4000点之前应避免做空",
+        "onboard_time": 1718608037,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242886,
+        "num": 242886,
+        "word": "易烊千玺对比图",
+        "onboard_time": 1718611098,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28857,
+        "num": 238999,
+        "word": "今晚8点京东百亿补贴力度翻倍",
+        "onboard_time": 1718608097,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 238707,
+        "num": 238707,
+        "word": "我的恒 那个蘅",
+        "onboard_time": 1718609117,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232863,
+        "num": 232863,
+        "word": "林更新说演研究生压力很大",
+        "onboard_time": 1718604318,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610958,
+        "num": 226979,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352025,
+        "num": 219133,
+        "word": "姜萍4月份总成绩年级第一",
+        "onboard_time": 1718595617,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266440,
+        "num": 218914,
+        "word": "有了微信小号才发现朋友圈的意义",
+        "onboard_time": 1718583919,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204301,
+        "num": 204301,
+        "word": "男生兼职攒一千给家里厨房装空调",
+        "onboard_time": 1718609838,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199840,
+        "num": 199840,
+        "word": "被养的很好的孩子是什么样",
+        "onboard_time": 1718610197,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191799,
+        "num": 191799,
+        "word": "塞尔维亚球员被5亿欧元包围",
+        "onboard_time": 1718609538,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191099,
+        "num": 191099,
+        "word": "传宁德时代施行896工作制",
+        "onboard_time": 1718598559,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187548,
+        "num": 187548,
+        "word": "运动番最怕的结局是毕业",
+        "onboard_time": 1718611577,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 174745,
+        "num": 174745,
+        "word": "刘浩存周也 你快笑啊在拍了",
+        "onboard_time": 1718590097,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13387,
+        "num": 174329,
+        "word": "省的是钱攒的是快乐",
+        "onboard_time": 1718611819,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174064,
+        "num": 174064,
+        "word": "玫瑰的亲事倒数第一竞争激烈",
+        "onboard_time": 1718601437,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166118,
+        "num": 166118,
+        "word": "给小猫烫成小马了",
+        "onboard_time": 1718609297,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159503,
+        "num": 159503,
+        "word": "工人排水口小便后捞出死鸭送车间",
+        "onboard_time": 1718592137,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144667,
+        "num": 144667,
+        "word": "宁德时代",
+        "onboard_time": 1718604918,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133503,
+        "num": 133503,
+        "word": "令人动容的父子传承",
+        "onboard_time": 1718611938,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130398,
+        "num": 130398,
+        "word": "对原产于欧盟的猪肉反倾销立案调查",
+        "onboard_time": 1718611457,
+        "rank": 35,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 127487,
+        "num": 127487,
+        "word": "刘宇宁开心夜彩排路透",
+        "onboard_time": 1718612418,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124498,
+        "num": 124498,
+        "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
+        "onboard_time": 1718612178,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29584,
+        "num": 120280,
+        "word": "京东618最后一波一元秒杀",
+        "onboard_time": 1718610437,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119886,
+        "num": 119886,
+        "word": "SUHO向粉丝道歉",
+        "onboard_time": 1718605397,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118834,
+        "num": 118834,
+        "word": "成毅亮钻大衣",
+        "onboard_time": 1718611098,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115882,
+        "num": 115882,
+        "word": "玫瑰的故事 苏苏妈妈",
+        "onboard_time": 1718612478,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114691,
+        "num": 114691,
+        "word": "初级会计查成绩",
+        "onboard_time": 1718594417,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114646,
+        "num": 114646,
+        "word": "以后骂人不能骂她是梅超风了",
+        "onboard_time": 1718602337,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110935,
+        "num": 110935,
+        "word": "火锅 舌头变黑",
+        "onboard_time": 1718610197,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109920,
+        "num": 109920,
+        "word": "胡歌 米兰时装周",
+        "onboard_time": 1718612657,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106050,
+        "num": 106050,
+        "word": "林更新被问到跟刘亦菲感情戏时",
+        "onboard_time": 1718608277,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105783,
+        "num": 105783,
+        "word": "邓超 和我的偶像合照了",
+        "onboard_time": 1718608338,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105361,
+        "num": 105361,
+        "word": "北京高考已有满分作文备选",
+        "onboard_time": 1718600837,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 99968,
+        "num": 99968,
+        "word": "中国对澳大利亚单方面免签",
+        "onboard_time": 1718599338,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强荒漠化治理和湿地保护#"
+    }
+  }
+}
