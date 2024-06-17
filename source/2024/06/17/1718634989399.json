@@ -1,0 +1,410 @@
+{
+  "runTime": 1718634989399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1263777,
+        "num": 1263777,
+        "word": "火鸡面",
+        "onboard_time": 1718625498,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 981052,
+        "num": 981052,
+        "word": "林更新演技",
+        "onboard_time": 1718628257,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74813,
+        "num": 895039,
+        "word": "卫星视角见证中国治沙奇迹",
+        "onboard_time": 1718628859,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857287,
+        "num": 857287,
+        "word": "烟草局回应凌晨上门伪造证据",
+        "onboard_time": 1718630838,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 854263,
+        "num": 854263,
+        "word": "泽连斯基称希望中国帮助乌克兰",
+        "onboard_time": 1718631679,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 559521,
+        "num": 559521,
+        "word": "广东梅州暴雨致5死15失联",
+        "onboard_time": 1718630118,
+        "rank": 5,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 743471,
+        "num": 550529,
+        "word": "林更新怼黑粉 一战成名",
+        "onboard_time": 1718624476,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524925,
+        "num": 524925,
+        "word": "罗马尼亚vs乌克兰",
+        "onboard_time": 1718626877,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510081,
+        "num": 510081,
+        "word": "iPhone15多次降价重回销量榜第一",
+        "onboard_time": 1718626157,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 490506,
+        "num": 490506,
+        "word": "关晓彤回应被推荐去歌手",
+        "onboard_time": 1718630237,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1100320,
+        "num": 459322,
+        "word": "知情人称遇难8人非首次坐冷藏车",
+        "onboard_time": 1718624417,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564810,
+        "num": 456281,
+        "word": "苏敏 离婚",
+        "onboard_time": 1718625438,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 388899,
+        "num": 388899,
+        "word": "玫瑰的故事 绝症哥",
+        "onboard_time": 1718619618,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386542,
+        "num": 386542,
+        "word": "city不city",
+        "onboard_time": 1718632819,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64293,
+        "num": 363222,
+        "word": "AI会让外语专业消失吗",
+        "onboard_time": 1718632819,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34443,
+        "num": 354786,
+        "word": "村干部连夜吼街串巷发大水了快撤",
+        "onboard_time": 1718634559,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347297,
+        "num": 347297,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341491,
+        "num": 341491,
+        "word": "邓超体检身体年龄仅27岁",
+        "onboard_time": 1718618417,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313521,
+        "num": 313521,
+        "word": "四个男女主凑不出一副爹娘",
+        "onboard_time": 1718630537,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277981,
+        "num": 277981,
+        "word": "陈哲远憋笑",
+        "onboard_time": 1718630899,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363286,
+        "num": 277361,
+        "word": "瘦了20斤才敢说的实话",
+        "onboard_time": 1718622018,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 274820,
+        "num": 274820,
+        "word": "清华数学系博士称赞姜萍",
+        "onboard_time": 1718633360,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 258663,
+        "num": 258663,
+        "word": "姜萍初中数学教师发声",
+        "onboard_time": 1718625258,
+        "rank": 22,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 239735,
+        "num": 239735,
+        "word": "丈夫替怀孕妻子辞职合理吗",
+        "onboard_time": 1718617396,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 524038,
+        "num": 237399,
+        "word": "段嘉许回来了",
+        "onboard_time": 1718633839,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226261,
+        "num": 226261,
+        "word": "数学专业就业后的收入",
+        "onboard_time": 1718634139,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 202573,
+        "num": 202573,
+        "word": "影视音乐盛典投票",
+        "onboard_time": 1718634619,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201481,
+        "num": 201481,
+        "word": "新加坡门将以为自己火不过两天",
+        "onboard_time": 1718634559,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197478,
+        "num": 197478,
+        "word": "方协文气死我",
+        "onboard_time": 1718629098,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197264,
+        "num": 197264,
+        "word": "庄国栋碎了",
+        "onboard_time": 1718620937,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196738,
+        "num": 196738,
+        "word": "王星越吴谨言这大手这小腰",
+        "onboard_time": 1718628018,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389245,
+        "num": 191564,
+        "word": "朱一龙吴磊 平番",
+        "onboard_time": 1718622258,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186180,
+        "num": 186180,
+        "word": "于文文Amber刘忻 拽姐秀",
+        "onboard_time": 1718630299,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185767,
+        "num": 185767,
+        "word": "玫瑰的故事",
+        "onboard_time": 1718630417,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30929,
+        "num": 185098,
+        "word": "有光的地方就有人读书",
+        "onboard_time": 1718634858,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 195013,
+        "num": 184994,
+        "word": "王星越你是真不怕以后碰到纪凌尘",
+        "onboard_time": 1718633480,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184701,
+        "num": 184701,
+        "word": "越来越多年轻人患上结婚羞耻症",
+        "onboard_time": 1718623396,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182579,
+        "num": 182579,
+        "word": "外国人被中国夜市硬控了",
+        "onboard_time": 1718634559,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 264008,
+        "num": 181614,
+        "word": "雷佳音胡歌 平番",
+        "onboard_time": 1718630178,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174652,
+        "num": 174652,
+        "word": "男子误机花6000从天津打车到西安",
+        "onboard_time": 1718617158,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164082,
+        "num": 164082,
+        "word": "订书钉才是上班摸鱼神器",
+        "onboard_time": 1718634619,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 67537,
+        "num": 162273,
+        "word": "黄文秀离开5年故事仍在继续",
+        "onboard_time": 1718632698,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162147,
+        "num": 162147,
+        "word": "Giselle中国首封",
+        "onboard_time": 1718633059,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161492,
+        "num": 161492,
+        "word": "斯坦丘世界波",
+        "onboard_time": 1718634380,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207065,
+        "num": 159769,
+        "word": "荔枝价格一周内上涨17%",
+        "onboard_time": 1718632879,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154774,
+        "num": 154774,
+        "word": "周深影视音乐盛典年度歌手",
+        "onboard_time": 1718631919,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144945,
+        "num": 144945,
+        "word": "魔兽世界",
+        "onboard_time": 1718632819,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128444,
+        "num": 128444,
+        "word": "亲爱的章鱼哥 我终于理解你",
+        "onboard_time": 1718631618,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121692,
+        "num": 121692,
+        "word": "刚收到的录取通知书被撤回了",
+        "onboard_time": 1718634200,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119342,
+        "num": 119342,
+        "word": "欧洲杯",
+        "onboard_time": 1718630237,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}

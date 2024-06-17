@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718633953758,
+  "endTime": 1718634989399,
   "band_list": [
     {
       "raw_hot": 1842501,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981052,
+      "num": 981052,
+      "word": "林更新演技",
+      "onboard_time": 1718628257,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 980180,
       "num": 980180,
       "word": "丈夫替怀孕妻子辞职合理吗",
@@ -161,14 +169,6 @@
       "onboard_time": 1718580916,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 973717,
-      "num": 973717,
-      "word": "林更新演技",
-      "onboard_time": 1718628257,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 973431,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 880809,
-      "num": 403379,
+      "num": 456281,
       "word": "苏敏 离婚",
       "onboard_time": 1718625438,
       "rank": 10,
@@ -225,6 +225,22 @@
       "onboard_time": 1718588297,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857287,
+      "num": 857287,
+      "word": "烟草局回应凌晨上门伪造证据",
+      "onboard_time": 1718630838,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854263,
+      "num": 854263,
+      "word": "泽连斯基称希望中国帮助乌克兰",
+      "onboard_time": 1718631679,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 845348,
@@ -307,14 +323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 765638,
-      "num": 765638,
-      "word": "烟草局回应凌晨上门伪造证据",
-      "onboard_time": 1718630838,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 742487,
       "num": 742487,
       "word": "广东梅州暴雨致5死15失联",
@@ -369,14 +377,6 @@
       "onboard_time": 1718583258,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 654871,
-      "num": 419223,
-      "word": "泽连斯基称希望中国帮助乌克兰",
-      "onboard_time": 1718631679,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 636449,
@@ -521,6 +521,22 @@
       "onboard_time": 1718588117,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 524925,
+      "num": 524925,
+      "word": "罗马尼亚vs乌克兰",
+      "onboard_time": 1718626877,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 524038,
+      "num": 237399,
+      "word": "段嘉许回来了",
+      "onboard_time": 1718633839,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 521979,
@@ -723,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 395130,
-      "num": 395130,
-      "word": "罗马尼亚vs乌克兰",
-      "onboard_time": 1718626877,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395062,
       "num": 395062,
       "word": "玫瑰的故事 绝症哥",
@@ -753,6 +761,14 @@
       "onboard_time": 1718575931,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 386542,
+      "num": 386542,
+      "word": "city不city",
+      "onboard_time": 1718632819,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 371393,
@@ -1027,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281092,
-      "num": 281092,
-      "word": "city不city",
-      "onboard_time": 1718632819,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 280412,
       "num": 280412,
       "word": "王者荣耀 鸡爪流",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1718619497,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274820,
+      "num": 274820,
+      "word": "清华数学系博士称赞姜萍",
+      "onboard_time": 1718633360,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 272935,
@@ -1211,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226261,
+      "num": 226261,
+      "word": "数学专业就业后的收入",
+      "onboard_time": 1718634139,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 224831,
       "num": 224831,
       "word": "优酷客服回应墨雨云间减更",
@@ -1331,6 +1355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 207065,
+      "num": 189594,
+      "word": "荔枝价格一周内上涨17%",
+      "onboard_time": 1718632879,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205413,
       "num": 205413,
       "word": "大量出汗后不能只喝白开水",
@@ -1355,12 +1387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202573,
+      "num": 202573,
+      "word": "影视音乐盛典投票",
+      "onboard_time": 1718634619,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202202,
       "num": 127958,
       "word": "王一博 微博比我更热",
       "onboard_time": 1718548279,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 201481,
+      "num": 201481,
+      "word": "新加坡门将以为自己火不过两天",
+      "onboard_time": 1718634559,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 199840,
@@ -1401,6 +1449,14 @@
       "onboard_time": 1718626518,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195013,
+      "num": 184994,
+      "word": "王星越你是真不怕以后碰到纪凌尘",
+      "onboard_time": 1718633480,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 194199,
@@ -1499,14 +1555,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189594,
-      "num": 189594,
-      "word": "荔枝价格一周内上涨17%",
-      "onboard_time": 1718632879,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187648,
       "num": 127834,
       "word": "张艺兴 过了12年你看谁屹立不倒",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1718617337,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186180,
+      "num": 186180,
+      "word": "于文文Amber刘忻 拽姐秀",
+      "onboard_time": 1718630299,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185349,
@@ -1619,12 +1675,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181637,
-      "num": 181637,
-      "word": "清华数学系博士称赞姜萍",
-      "onboard_time": 1718633360,
-      "rank": 34,
-      "category": "社会新闻,教育"
+      "raw_hot": 182579,
+      "num": 182579,
+      "word": "外国人被中国夜市硬控了",
+      "onboard_time": 1718634559,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 180045,
@@ -1851,6 +1907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164082,
+      "num": 164082,
+      "word": "订书钉才是上班摸鱼神器",
+      "onboard_time": 1718634619,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163105,
       "num": 163105,
       "word": "邓超 和我的偶像合照了",
@@ -1889,6 +1953,14 @@
       "onboard_time": 1718619377,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161492,
+      "num": 161492,
+      "word": "斯坦丘世界波",
+      "onboard_time": 1718634380,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 161200,
@@ -1939,14 +2011,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158715,
-      "num": 158715,
-      "word": "王星越你是真不怕以后碰到纪凌尘",
-      "onboard_time": 1718633480,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158231,
       "num": 150434,
       "word": "玫瑰的故事 苏苏妈妈",
@@ -1961,14 +2025,6 @@
       "onboard_time": 1718600958,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156159,
-      "num": 156159,
-      "word": "于文文Amber刘忻 拽姐秀",
-      "onboard_time": 1718630299,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 155485,
@@ -2347,6 +2403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128444,
+      "num": 128444,
+      "word": "亲爱的章鱼哥 我终于理解你",
+      "onboard_time": 1718631618,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128120,
       "num": 128120,
       "word": "韩国200多年前的诸葛亮画像被盗",
@@ -2387,14 +2451,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 127066,
-      "num": 127066,
-      "word": "段嘉许回来了",
-      "onboard_time": 1718633839,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126656,
       "num": 126656,
       "word": "薛之谦演唱会",
@@ -2409,14 +2465,6 @@
       "onboard_time": 1718533637,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126009,
-      "num": 126009,
-      "word": "亲爱的章鱼哥 我终于理解你",
-      "onboard_time": 1718631618,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 125570,
@@ -2465,6 +2513,14 @@
       "onboard_time": 1718585179,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121692,
+      "num": 121692,
+      "word": "刚收到的录取通知书被撤回了",
+      "onboard_time": 1718634200,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 121433,
@@ -2899,6 +2955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 67537,
+      "num": 429554,
+      "word": "黄文秀离开5年故事仍在继续",
+      "onboard_time": 1718632698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65772,
       "num": 65772,
       "word": "sana好美",
@@ -2921,6 +2985,14 @@
       "onboard_time": 1718551399,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64293,
+      "num": 400083,
+      "word": "AI会让外语专业消失吗",
+      "onboard_time": 1718632819,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 63535,
@@ -2995,14 +3067,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 47644,
-      "num": 429554,
-      "word": "黄文秀离开5年故事仍在继续",
-      "onboard_time": 1718632698,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 46474,
       "num": 60827,
       "word": "墨雨云间",
@@ -3075,12 +3139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34219,
-      "num": 400083,
-      "word": "AI会让外语专业消失吗",
-      "onboard_time": 1718632819,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 34443,
+      "num": 354786,
+      "word": "村干部连夜吼街串巷发大水了快撤",
+      "onboard_time": 1718634559,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34033,
@@ -3121,6 +3185,14 @@
       "onboard_time": 1718620818,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30929,
+      "num": 185098,
+      "word": "有光的地方就有人读书",
+      "onboard_time": 1718634858,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 28452,

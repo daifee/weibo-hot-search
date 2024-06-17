@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718633953758,
+  "endTime": 1718634989399,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981052,
+      "num": 981052,
+      "word": "林更新演技",
+      "onboard_time": 1718628257,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 980180,
       "num": 980180,
       "word": "丈夫替怀孕妻子辞职合理吗",
@@ -385,14 +393,6 @@
       "onboard_time": 1718580916,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 973717,
-      "num": 973717,
-      "word": "林更新演技",
-      "onboard_time": 1718628257,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 973431,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 880809,
-      "num": 403379,
+      "num": 456281,
       "word": "苏敏 离婚",
       "onboard_time": 1718625438,
       "rank": 10,
@@ -481,6 +481,22 @@
       "onboard_time": 1718546179,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 857287,
+      "num": 857287,
+      "word": "烟草局回应凌晨上门伪造证据",
+      "onboard_time": 1718630838,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854263,
+      "num": 854263,
+      "word": "泽连斯基称希望中国帮助乌克兰",
+      "onboard_time": 1718631679,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 850331,
@@ -561,14 +577,6 @@
       "onboard_time": 1718589556,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 765638,
-      "num": 765638,
-      "word": "烟草局回应凌晨上门伪造证据",
-      "onboard_time": 1718630838,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 752598,
@@ -737,14 +745,6 @@
       "onboard_time": 1718470335,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 654871,
-      "num": 419223,
-      "word": "泽连斯基称希望中国帮助乌克兰",
-      "onboard_time": 1718631679,
-      "rank": 11,
-      "category": "国外时政"
     },
     {
       "raw_hot": 641375,
@@ -1033,6 +1033,22 @@
       "onboard_time": 1718588117,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 524925,
+      "num": 524925,
+      "word": "罗马尼亚vs乌克兰",
+      "onboard_time": 1718626877,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 524038,
+      "num": 237399,
+      "word": "段嘉许回来了",
+      "onboard_time": 1718633839,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 521979,
@@ -1515,14 +1531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395130,
-      "num": 395130,
-      "word": "罗马尼亚vs乌克兰",
-      "onboard_time": 1718626877,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 395062,
       "num": 395062,
       "word": "玫瑰的故事 绝症哥",
@@ -1553,6 +1561,14 @@
       "onboard_time": 1718575931,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 386542,
+      "num": 386542,
+      "word": "city不city",
+      "onboard_time": 1718632819,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 383787,
@@ -2083,14 +2099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281092,
-      "num": 281092,
-      "word": "city不city",
-      "onboard_time": 1718632819,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 280412,
       "num": 280412,
       "word": "王者荣耀 鸡爪流",
@@ -2161,6 +2169,14 @@
       "onboard_time": 1718503456,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274820,
+      "num": 274820,
+      "word": "清华数学系博士称赞姜萍",
+      "onboard_time": 1718633360,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 272935,
@@ -2459,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226261,
+      "num": 226261,
+      "word": "数学专业就业后的收入",
+      "onboard_time": 1718634139,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 224831,
       "num": 224831,
       "word": "优酷客服回应墨雨云间减更",
@@ -2723,6 +2747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 207065,
+      "num": 189594,
+      "word": "荔枝价格一周内上涨17%",
+      "onboard_time": 1718632879,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206921,
       "num": 206921,
       "word": "王老师",
@@ -2803,12 +2835,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202573,
+      "num": 202573,
+      "word": "影视音乐盛典投票",
+      "onboard_time": 1718634619,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201593,
       "num": 201593,
       "word": "陈丽君刘忻亚比囧囧囧直拍",
       "onboard_time": 1718507358,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201481,
+      "num": 201481,
+      "word": "新加坡门将以为自己火不过两天",
+      "onboard_time": 1718634559,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 200938,
@@ -2945,6 +2993,14 @@
       "onboard_time": 1718497034,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195013,
+      "num": 184994,
+      "word": "王星越你是真不怕以后碰到纪凌尘",
+      "onboard_time": 1718633480,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 194199,
@@ -3115,14 +3171,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189594,
-      "num": 189594,
-      "word": "荔枝价格一周内上涨17%",
-      "onboard_time": 1718632879,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 189337,
       "num": 189337,
       "word": "十二星座的反差感",
@@ -3169,6 +3217,14 @@
       "onboard_time": 1718617337,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186180,
+      "num": 186180,
+      "word": "于文文Amber刘忻 拽姐秀",
+      "onboard_time": 1718630299,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185806,
@@ -3275,20 +3331,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182579,
+      "num": 182579,
+      "word": "外国人被中国夜市硬控了",
+      "onboard_time": 1718634559,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 182337,
       "num": 169839,
       "word": "只有山西人知道孙丞潇骂的很脏",
       "onboard_time": 1718533818,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181637,
-      "num": 181637,
-      "word": "清华数学系博士称赞姜萍",
-      "onboard_time": 1718633360,
-      "rank": 34,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 181112,
@@ -3667,6 +3723,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 164082,
+      "num": 164082,
+      "word": "订书钉才是上班摸鱼神器",
+      "onboard_time": 1718634619,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163731,
       "num": 263196,
       "word": "西瓜有味能切了表面继续吃吗",
@@ -3729,6 +3793,14 @@
       "onboard_time": 1718619377,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161492,
+      "num": 161492,
+      "word": "斯坦丘世界波",
+      "onboard_time": 1718634380,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 161200,
@@ -3803,14 +3875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 158715,
-      "num": 158715,
-      "word": "王星越你是真不怕以后碰到纪凌尘",
-      "onboard_time": 1718633480,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 158487,
       "num": 158487,
       "word": "墨雨云间27集满广",
@@ -3865,14 +3929,6 @@
       "onboard_time": 1718500037,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156159,
-      "num": 156159,
-      "word": "于文文Amber刘忻 拽姐秀",
-      "onboard_time": 1718630299,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 155462,
@@ -4571,6 +4627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128444,
+      "num": 128444,
+      "word": "亲爱的章鱼哥 我终于理解你",
+      "onboard_time": 1718631618,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128235,
       "num": 128235,
       "word": "会长是女仆大人 双强情侣",
@@ -4651,14 +4715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 127066,
-      "num": 127066,
-      "word": "段嘉许回来了",
-      "onboard_time": 1718633839,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126524,
       "num": 126524,
       "word": "爸爸最擅长的技能是爱我",
@@ -4680,14 +4736,6 @@
       "word": "人类这一百年走得太快了",
       "onboard_time": 1718503757,
       "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 126009,
-      "num": 126009,
-      "word": "亲爱的章鱼哥 我终于理解你",
-      "onboard_time": 1718631618,
-      "rank": 41,
       "category": "情感"
     },
     {
@@ -4801,6 +4849,14 @@
       "onboard_time": 1718542578,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121692,
+      "num": 121692,
+      "word": "刚收到的录取通知书被撤回了",
+      "onboard_time": 1718634200,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 120977,
@@ -5659,6 +5715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67537,
+      "num": 429554,
+      "word": "黄文秀离开5年故事仍在继续",
+      "onboard_time": 1718632698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65343,
       "num": 76675,
       "word": "贝林厄姆破门",
@@ -5689,6 +5753,14 @@
       "onboard_time": 1718484612,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 64293,
+      "num": 400083,
+      "word": "AI会让外语专业消失吗",
+      "onboard_time": 1718632819,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 63671,
@@ -5872,14 +5944,6 @@
       "word": "爸爸的爱总是藏在细微的行动里",
       "onboard_time": 1718493193,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47644,
-      "num": 429554,
-      "word": "黄文秀离开5年故事仍在继续",
-      "onboard_time": 1718632698,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -6123,12 +6187,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 34219,
-      "num": 400083,
-      "word": "AI会让外语专业消失吗",
-      "onboard_time": 1718632819,
-      "rank": 14,
-      "category": "教育"
+      "raw_hot": 34443,
+      "num": 354786,
+      "word": "村干部连夜吼街串巷发大水了快撤",
+      "onboard_time": 1718634559,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34033,
@@ -6177,6 +6241,14 @@
       "onboard_time": 1718525357,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30929,
+      "num": 185098,
+      "word": "有光的地方就有人读书",
+      "onboard_time": 1718634858,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 30815,
