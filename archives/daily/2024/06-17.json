@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718608719886,
+  "endTime": 1718609723117,
   "band_list": [
     {
       "raw_hot": 1842501,
@@ -27,12 +27,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1212927,
+      "num": 1212927,
+      "word": "老人被骗79万元崩溃哭泣",
+      "onboard_time": 1718605157,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1187510,
       "num": 1187510,
       "word": "男生洗澡有了自己第一篇SCI",
       "onboard_time": 1718584698,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1150402,
+      "num": 667615,
+      "word": "那英 死也死不了活着被烤",
+      "onboard_time": 1718606958,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1137130,
@@ -51,28 +67,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1092019,
-      "num": 547776,
-      "word": "那英 死也死不了活着被烤",
-      "onboard_time": 1718606958,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1004640,
       "num": 1004640,
       "word": "刘浩存周也 你快笑啊在拍了",
       "onboard_time": 1718590097,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1002888,
-      "num": 1002888,
-      "word": "老人被骗79万元崩溃哭泣",
-      "onboard_time": 1718605157,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 996887,
@@ -136,6 +136,14 @@
       "word": "男子离婚前贷款45万并转给母亲35万",
       "onboard_time": 1718603238,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 830697,
+      "num": 830697,
+      "word": "楠火锅回应顾客就餐后舌头变黑",
+      "onboard_time": 1718606057,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -203,20 +211,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 655841,
-      "num": 371414,
-      "word": "楠火锅回应顾客就餐后舌头变黑",
-      "onboard_time": 1718606057,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636449,
       "num": 636449,
       "word": "暑期档唯一灾难大片来了",
       "onboard_time": 1718598618,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 635353,
+      "num": 635353,
+      "word": "救人迟到儿科医师已停诊",
+      "onboard_time": 1718602937,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565271,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 561083,
-      "num": 395525,
+      "num": 420879,
       "word": "日本人把西瓜皮都拿出来卖了",
       "onboard_time": 1718599699,
       "rank": 21,
@@ -248,14 +256,6 @@
       "word": "B太曝光司机拉客去西湖龙井产区乱象",
       "onboard_time": 1718594957,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 552847,
-      "num": 537709,
-      "word": "救人迟到儿科医师已停诊",
-      "onboard_time": 1718602937,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -483,6 +483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 366240,
+      "num": 366240,
+      "word": "优酷 开了VIP还要开SVIP",
+      "onboard_time": 1718608998,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362994,
       "num": 362994,
       "word": "偶遇喜欢了九年的歌手是什么体验",
@@ -587,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324463,
+      "num": 324463,
+      "word": "林更新说演研究生压力很大",
+      "onboard_time": 1718604318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319169,
       "num": 319169,
       "word": "初级会计查成绩",
@@ -649,14 +665,6 @@
       "onboard_time": 1718559732,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 272860,
-      "num": 272860,
-      "word": "林更新说演研究生压力很大",
-      "onboard_time": 1718604318,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 272049,
@@ -755,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224356,
+      "num": 224356,
+      "word": "专家称A股4000点之前应避免做空",
+      "onboard_time": 1718608037,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 223981,
       "num": 223981,
       "word": "SUHO向粉丝道歉",
@@ -811,6 +827,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 213383,
+      "num": 213383,
+      "word": "九岁外国小朋友被中国网友教育了",
+      "onboard_time": 1718607077,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212368,
       "num": 212368,
       "word": "陈奕迅演唱会佛山站延期",
@@ -835,14 +859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210220,
-      "num": 210220,
-      "word": "九岁外国小朋友被中国网友教育了",
-      "onboard_time": 1718607077,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205413,
       "num": 205413,
       "word": "大量出汗后不能只喝白开水",
@@ -857,6 +873,14 @@
       "onboard_time": 1718548279,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198169,
+      "num": 158717,
+      "word": "员工回应宁德时代施行896工作制",
+      "onboard_time": 1718608938,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194027,
@@ -913,6 +937,14 @@
       "onboard_time": 1718594777,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 188304,
+      "num": 188304,
+      "word": "我的恒 那个蘅",
+      "onboard_time": 1718609117,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 187648,
@@ -1091,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163105,
+      "num": 163105,
+      "word": "邓超 和我的偶像合照了",
+      "onboard_time": 1718608338,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162101,
       "num": 162101,
       "word": "小女孩带德牧上门吵架",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1718587156,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 158772,
+      "num": 158772,
+      "word": "哪些专业有身高限制",
+      "onboard_time": 1718608938,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 157208,
@@ -1179,12 +1227,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153710,
-      "num": 153710,
-      "word": "专家称A股4000点之前应避免做空",
-      "onboard_time": 1718608037,
-      "rank": 30,
-      "category": "财经"
+      "raw_hot": 153193,
+      "num": 153193,
+      "word": "riize新歌",
+      "onboard_time": 1718608758,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 152910,
@@ -1225,14 +1273,6 @@
       "onboard_time": 1718605877,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146355,
-      "num": 146355,
-      "word": "邓超 和我的偶像合照了",
-      "onboard_time": 1718608338,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 146157,
@@ -1323,6 +1363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131674,
+      "num": 131674,
+      "word": "给小猫烫成小马了",
+      "onboard_time": 1718609297,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130946,
       "num": 102033,
       "word": "郑州一烧烤店女老板遭多名男子围殴",
@@ -1361,6 +1409,14 @@
       "onboard_time": 1718603123,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128805,
+      "num": 128805,
+      "word": "16周的大学生已老实求放过",
+      "onboard_time": 1718609058,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 128120,
@@ -1424,6 +1480,14 @@
       "word": "黄健翔说穿蓝色球衣指定不会错",
       "onboard_time": 1718594118,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 122834,
+      "num": 122834,
+      "word": "塞尔维亚球员被5亿欧元包围",
+      "onboard_time": 1718609538,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -1555,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 104107,
+      "num": 104107,
+      "word": "王星越单依纯在我笑点上蹦迪",
+      "onboard_time": 1718607738,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102686,
       "num": 129464,
       "word": "中国女排4连胜",
@@ -1577,14 +1649,6 @@
       "onboard_time": 1718606297,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97880,
-      "num": 97880,
-      "word": "王星越单依纯在我笑点上蹦迪",
-      "onboard_time": 1718607738,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 96681,
@@ -1675,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70601,
+      "num": 373895,
+      "word": "有掼蛋礼盒单价超千元",
+      "onboard_time": 1718607617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65772,
       "num": 65772,
       "word": "sana好美",
@@ -1728,14 +1800,6 @@
       "word": "市民帮寻回丢失无人机收到夜空感谢信",
       "onboard_time": 1718587875,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50208,
-      "num": 373895,
-      "word": "有掼蛋礼盒单价超千元",
-      "onboard_time": 1718607617,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1811,8 +1875,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 26398,
-      "num": 201812,
+      "raw_hot": 30809,
+      "num": 227159,
       "word": "今晚8点京东百亿补贴力度翻倍",
       "onboard_time": 1718608097,
       "rank": 24,
@@ -1899,6 +1963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 17501,
+      "num": 213431,
+      "word": "TOMFORD太会拍了",
+      "onboard_time": 1718607257,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 16640,
       "num": 18393,
       "word": "排球少年售后的神",
@@ -1921,14 +1993,6 @@
       "onboard_time": 1718568550,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 12779,
-      "num": 210268,
-      "word": "TOMFORD太会拍了",
-      "onboard_time": 1718607257,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 12255,
