@@ -1,0 +1,410 @@
+{
+  "runTime": 1718613491898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1548907,
+        "num": 1548907,
+        "word": "896工作制",
+        "onboard_time": 1718610017,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1399986,
+        "num": 1399986,
+        "word": "优酷 开了VIP还要开SVIP",
+        "onboard_time": 1718608998,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97812,
+        "num": 964307,
+        "word": "2000年前的简历怎么写",
+        "onboard_time": 1718596817,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 935555,
+        "num": 935555,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781937,
+        "num": 781937,
+        "word": "那英 死也死不了活着被烤",
+        "onboard_time": 1718606958,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689594,
+        "num": 689594,
+        "word": "老人被骗79万元崩溃哭泣",
+        "onboard_time": 1718605157,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552594,
+        "num": 552594,
+        "word": "救人迟到儿科医师已停诊",
+        "onboard_time": 1718602937,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541955,
+        "num": 541955,
+        "word": "黄亦玫下嫁方协文 绝对愚蠢",
+        "onboard_time": 1718610317,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520608,
+        "num": 520608,
+        "word": "姜若瑶碎了",
+        "onboard_time": 1718611278,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470760,
+        "num": 470760,
+        "word": "楠火锅回应顾客就餐后舌头变黑",
+        "onboard_time": 1718606057,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367240,
+        "num": 367240,
+        "word": "日本人把西瓜皮都拿出来卖了",
+        "onboard_time": 1718599699,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343809,
+        "num": 343809,
+        "word": "九岁外国小朋友被中国网友教育了",
+        "onboard_time": 1718607077,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 279132,
+        "num": 279132,
+        "word": "日本文科生就业率达到97.1%",
+        "onboard_time": 1718600779,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276078,
+        "num": 276078,
+        "word": "易烊千玺对比图",
+        "onboard_time": 1718611098,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253197,
+        "num": 253197,
+        "word": "墨雨云间 爽剧不爽了",
+        "onboard_time": 1718594898,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228676,
+        "num": 228676,
+        "word": "专家称A股4000点之前应避免做空",
+        "onboard_time": 1718608037,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249178,
+        "num": 225134,
+        "word": "我的恒 那个蘅",
+        "onboard_time": 1718609117,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215234,
+        "num": 215234,
+        "word": "林更新说演研究生压力很大",
+        "onboard_time": 1718604318,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90404,
+        "num": 154709,
+        "word": "法学学士保安欢迎大家报考厦大",
+        "onboard_time": 1718613017,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150930,
+        "num": 150930,
+        "word": "哪些专业有身高限制",
+        "onboard_time": 1718608938,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 446993,
+        "num": 150921,
+        "word": "姜萍4月份总成绩年级第一",
+        "onboard_time": 1718595617,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233197,
+        "num": 150855,
+        "word": "男生兼职攒一千给家里厨房装空调",
+        "onboard_time": 1718609838,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223231,
+        "num": 150793,
+        "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
+        "onboard_time": 1718612178,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208235,
+        "num": 150763,
+        "word": "有了微信小号才发现朋友圈的意义",
+        "onboard_time": 1718583919,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99184,
+        "num": 150696,
+        "word": "男子连续5年点同一粤菜馆2101次",
+        "onboard_time": 1718613377,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187806,
+        "num": 150649,
+        "word": "被养的很好的孩子是什么样",
+        "onboard_time": 1718610197,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176851,
+        "num": 150620,
+        "word": "胡歌 米兰时装周",
+        "onboard_time": 1718612657,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 176227,
+        "num": 150580,
+        "word": "塞尔维亚球员被5亿欧元包围",
+        "onboard_time": 1718609538,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137207,
+        "num": 150532,
+        "word": "传宁德时代施行896工作制",
+        "onboard_time": 1718598559,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19942,
+        "num": 150473,
+        "word": "省的是钱攒的是快乐",
+        "onboard_time": 1718611819,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158231,
+        "num": 150434,
+        "word": "玫瑰的故事 苏苏妈妈",
+        "onboard_time": 1718612478,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152163,
+        "num": 150347,
+        "word": "玫瑰的亲事倒数第一竞争激烈",
+        "onboard_time": 1718601437,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150347,
+        "num": 150346,
+        "word": "刘宇宁开心夜彩排路透",
+        "onboard_time": 1718612418,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142693,
+        "num": 142693,
+        "word": "南方医科大最新回应",
+        "onboard_time": 1718613438,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142603,
+        "num": 142603,
+        "word": "刘浩存周也 你快笑啊在拍了",
+        "onboard_time": 1718590097,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141952,
+        "num": 141952,
+        "word": "给小猫烫成小马了",
+        "onboard_time": 1718609297,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129760,
+        "num": 129760,
+        "word": "吴谨言王星越将合体",
+        "onboard_time": 1718613197,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125570,
+        "num": 125570,
+        "word": "C罗晒合影为迷你罗庆生",
+        "onboard_time": 1718612957,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32900,
+        "num": 124391,
+        "word": "京东618最后一波一元秒杀",
+        "onboard_time": 1718610437,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 124309,
+        "num": 124309,
+        "word": "工人排水口小便后捞出死鸭送车间",
+        "onboard_time": 1718592137,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123323,
+        "num": 123323,
+        "word": "宁德时代",
+        "onboard_time": 1718604918,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121233,
+        "num": 121233,
+        "word": "运动番最怕的结局是毕业",
+        "onboard_time": 1718611577,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109756,
+        "num": 109756,
+        "word": "初级会计查成绩",
+        "onboard_time": 1718594417,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105261,
+        "num": 105261,
+        "word": "邓超 歌手现在真缺我",
+        "onboard_time": 1718613377,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103532,
+        "num": 103532,
+        "word": "火锅 舌头变黑",
+        "onboard_time": 1718610197,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34033,
+        "num": 102923,
+        "word": "今晚8点京东百亿补贴力度翻倍",
+        "onboard_time": 1718608097,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102692,
+        "num": 102692,
+        "word": "SUHO向粉丝道歉",
+        "onboard_time": 1718605397,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97904,
+        "num": 97904,
+        "word": "北京高考已有满分作文备选",
+        "onboard_time": 1718600837,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 94528,
+        "num": 94528,
+        "word": "成毅亮钻大衣",
+        "onboard_time": 1718611098,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92236,
+        "num": 92236,
+        "word": "林更新被问到跟刘亦菲感情戏时",
+        "onboard_time": 1718608277,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强荒漠化治理和湿地保护#"
+    }
+  }
+}
