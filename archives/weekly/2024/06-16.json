@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718638505471,
+  "endTime": 1718641477220,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -739,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 659153,
+      "num": 659153,
+      "word": "姜萍",
+      "onboard_time": 1718444239,
+      "rank": 27,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 656864,
       "num": 233588,
       "word": "手表帮我戒掉了手机依赖",
@@ -816,6 +824,14 @@
       "word": "姜萍妈妈称女儿正在备考",
       "onboard_time": 1718525237,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 608850,
+      "num": 608850,
+      "word": "北京男子或将错失10万元大奖",
+      "onboard_time": 1718639417,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -961,14 +977,6 @@
       "onboard_time": 1718630237,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 547701,
-      "num": 547701,
-      "word": "姜萍",
-      "onboard_time": 1718444239,
-      "rank": 27,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 547277,
@@ -1531,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398034,
+      "num": 365150,
+      "word": "方协文 玫瑰换条裤子",
+      "onboard_time": 1718638757,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 396157,
       "num": 396157,
       "word": "中国女排vs波兰女排",
@@ -1969,6 +1985,14 @@
       "onboard_time": 1718594417,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 317182,
+      "num": 317182,
+      "word": "订书钉才是上班摸鱼神器",
+      "onboard_time": 1718634619,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 316439,
@@ -2635,14 +2659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 217860,
-      "num": 217860,
-      "word": "订书钉才是上班摸鱼神器",
-      "onboard_time": 1718634619,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 216941,
       "num": 172271,
       "word": "怎么让一个成年人九点半就睡觉",
@@ -2681,6 +2697,14 @@
       "onboard_time": 1718454619,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 213527,
+      "num": 181692,
+      "word": "陈哲远转发说他假唱微博",
+      "onboard_time": 1718637558,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 213388,
@@ -3163,6 +3187,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 191128,
+      "num": 160263,
+      "word": "长寿的人多半有4慢3长特点",
+      "onboard_time": 1718637319,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191020,
       "num": 191020,
       "word": "勒芒",
@@ -3379,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183037,
+      "num": 154758,
+      "word": "玫瑰的故事告诉我们",
+      "onboard_time": 1718639778,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182579,
       "num": 182579,
       "word": "墨雨云间成王是吴谨言台词老师",
@@ -3392,14 +3432,6 @@
       "word": "只有山西人知道孙丞潇骂的很脏",
       "onboard_time": 1718533818,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 181692,
-      "num": 181692,
-      "word": "陈哲远转发说他假唱微博",
-      "onboard_time": 1718637558,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -3619,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170646,
+      "num": 152209,
+      "word": "张真源到达匈牙利录制跑男",
+      "onboard_time": 1718639057,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170585,
       "num": 170585,
       "word": "小米扫地机器人自燃引发火灾",
@@ -3697,6 +3737,14 @@
       "onboard_time": 1718618476,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167603,
+      "num": 167603,
+      "word": "比利时vs斯洛伐克",
+      "onboard_time": 1718636659,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 167431,
@@ -3897,14 +3945,6 @@
       "onboard_time": 1718509637,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160263,
-      "num": 160263,
-      "word": "长寿的人多半有4慢3长特点",
-      "onboard_time": 1718637319,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 160001,
@@ -4305,14 +4345,6 @@
       "onboard_time": 1718433557,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141740,
-      "num": 141740,
-      "word": "比利时vs斯洛伐克",
-      "onboard_time": 1718636659,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 141290,
@@ -5387,6 +5419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102072,
+      "num": 102072,
+      "word": "李耕耘陈少熙一起走红毯",
+      "onboard_time": 1718639598,
+      "rank": 34,
+      "category": "电影,时尚"
+    },
+    {
       "raw_hot": 102055,
       "num": 102055,
       "word": "南方医科大学 希波克拉底誓言",
@@ -5513,6 +5553,14 @@
       "onboard_time": 1718622018,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94272,
+      "num": 94272,
+      "word": "乃万 从livehouse到体育馆",
+      "onboard_time": 1718640917,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 93839,
@@ -5721,6 +5769,14 @@
       "onboard_time": 1718451436,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78288,
+      "num": 78288,
+      "word": "人民日报夜读",
+      "onboard_time": 1718639778,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 77781,
@@ -6536,6 +6592,14 @@
       "word": "2024祝福每一位父亲",
       "onboard_time": 1718493432,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20178,
+      "num": 306397,
+      "word": "平常心对待姜萍不要过度造神",
+      "onboard_time": 1718640917,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
