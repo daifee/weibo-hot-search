@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718634989399,
+  "endTime": 1718637717343,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -299,6 +299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1064864,
+      "num": 1064864,
+      "word": "林更新演技",
+      "onboard_time": 1718628257,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1046139,
       "num": 703950,
       "word": "朱一龙吴磊 平番",
@@ -321,6 +329,14 @@
       "onboard_time": 1718512337,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1023027,
+      "num": 687941,
+      "word": "段嘉许回来了",
+      "onboard_time": 1718633839,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 1012730,
@@ -369,14 +385,6 @@
       "onboard_time": 1718598559,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 981052,
-      "num": 981052,
-      "word": "林更新演技",
-      "onboard_time": 1718628257,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 980180,
@@ -1043,14 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 524038,
-      "num": 237399,
-      "word": "段嘉许回来了",
-      "onboard_time": 1718633839,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 521979,
       "num": 521979,
       "word": "姜若瑶碎了",
@@ -1081,6 +1081,14 @@
       "onboard_time": 1718519417,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 518041,
+      "num": 245154,
+      "word": "外国人被中国夜市硬控了",
+      "onboard_time": 1718634559,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 515456,
@@ -1129,6 +1137,14 @@
       "onboard_time": 1718585897,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503427,
+      "num": 503427,
+      "word": "新加坡门将以为自己火不过两天",
+      "onboard_time": 1718634559,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 499629,
@@ -1539,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394675,
+      "num": 394675,
+      "word": "罗马尼亚3比0乌克兰",
+      "onboard_time": 1718636120,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
@@ -1555,20 +1579,20 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 392511,
+      "num": 392511,
+      "word": "city不city",
+      "onboard_time": 1718632819,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 388254,
       "num": 211592,
       "word": "为什么不建议你喝太多苏打水",
       "onboard_time": 1718575931,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 386542,
-      "num": 386542,
-      "word": "city不city",
-      "onboard_time": 1718632819,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 383787,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1718623396,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 359559,
+      "num": 359559,
+      "word": "数学专业就业后的收入",
+      "onboard_time": 1718634139,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 358059,
@@ -2065,6 +2097,14 @@
       "onboard_time": 1718523017,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 290597,
+      "num": 290597,
+      "word": "方协文发疯请勿上升林更新",
+      "onboard_time": 1718636237,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 290129,
@@ -2475,14 +2515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226261,
-      "num": 226261,
-      "word": "数学专业就业后的收入",
-      "onboard_time": 1718634139,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 224831,
       "num": 224831,
       "word": "优酷客服回应墨雨云间减更",
@@ -2851,14 +2883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 201481,
-      "num": 201481,
-      "word": "新加坡门将以为自己火不过两天",
-      "onboard_time": 1718634559,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200938,
       "num": 200938,
       "word": "突然就明白了什么是情绪价值",
@@ -2931,6 +2955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197259,
+      "num": 197259,
+      "word": "单依纯唱王菲的天空",
+      "onboard_time": 1718636779,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197198,
       "num": 197198,
       "word": "中国女排1比0波兰女排",
@@ -3001,6 +3033,14 @@
       "onboard_time": 1718633480,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194423,
+      "num": 194423,
+      "word": "订书钉才是上班摸鱼神器",
+      "onboard_time": 1718634619,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 194199,
@@ -3227,6 +3267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185867,
+      "num": 185867,
+      "word": "周深孙楠对唱",
+      "onboard_time": 1718636600,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185806,
       "num": 185806,
       "word": "去相亲对象家吃饭发现是父亲节",
@@ -3331,14 +3379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182579,
-      "num": 182579,
-      "word": "外国人被中国夜市硬控了",
-      "onboard_time": 1718634559,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 182337,
       "num": 169839,
       "word": "只有山西人知道孙丞潇骂的很脏",
@@ -3425,6 +3465,14 @@
       "onboard_time": 1718540958,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177105,
+      "num": 177105,
+      "word": "云南一女子吃野生菌看到机器人小偷",
+      "onboard_time": 1718635160,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176993,
@@ -3723,14 +3771,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 164082,
-      "num": 164082,
-      "word": "订书钉才是上班摸鱼神器",
-      "onboard_time": 1718634619,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163731,
       "num": 263196,
       "word": "西瓜有味能切了表面继续吃吗",
@@ -3753,6 +3793,14 @@
       "onboard_time": 1718507897,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162642,
+      "num": 162642,
+      "word": "华晨宇声线有日出的温暖",
+      "onboard_time": 1718635339,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 162607,
@@ -3817,6 +3865,22 @@
       "onboard_time": 1718616917,
       "rank": 36,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 160892,
+      "num": 160892,
+      "word": "鞠婧祎开心夜舞台",
+      "onboard_time": 1718637558,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160400,
+      "num": 160400,
+      "word": "米二称异人之下给乌尔善很放心",
+      "onboard_time": 1718637379,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 160291,
@@ -4035,6 +4099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150826,
+      "num": 150826,
+      "word": "刚收到的录取通知书被撤回了",
+      "onboard_time": 1718634200,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150580,
       "num": 150580,
       "word": "面个试把隐私都问完了",
@@ -4155,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144966,
+      "num": 144966,
+      "word": "成毅低V白衬衫",
+      "onboard_time": 1718636719,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 144619,
       "num": 144619,
       "word": "老师希望姜萍少被贴天才少女标签",
@@ -4193,6 +4273,14 @@
       "onboard_time": 1718433557,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141740,
+      "num": 141740,
+      "word": "比利时vs斯洛伐克",
+      "onboard_time": 1718636659,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 141290,
@@ -4459,6 +4547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132124,
+      "num": 132124,
+      "word": "陈哲远转发说他假唱微博",
+      "onboard_time": 1718637558,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131953,
       "num": 131953,
       "word": "沈马",
@@ -4585,6 +4681,14 @@
       "onboard_time": 1718616437,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130059,
+      "num": 130059,
+      "word": "奥地利vs法国",
+      "onboard_time": 1718637258,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 129963,
@@ -4851,14 +4955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121692,
-      "num": 121692,
-      "word": "刚收到的录取通知书被撤回了",
-      "onboard_time": 1718634200,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
       "raw_hot": 120977,
       "num": 412534,
       "word": "京东618晚会送出阿勒泰别墅",
@@ -4937,6 +5033,14 @@
       "onboard_time": 1718604018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118580,
+      "num": 118580,
+      "word": "长寿的人多半有4慢3长特点",
+      "onboard_time": 1718637319,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118531,
@@ -5651,6 +5755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74078,
+      "num": 392813,
+      "word": "村干部连夜吼街串巷发大水了快撤",
+      "onboard_time": 1718634559,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73281,
       "num": 322285,
       "word": "河南降温降雨",
@@ -6185,14 +6297,6 @@
       "onboard_time": 1718536277,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34443,
-      "num": 354786,
-      "word": "村干部连夜吼街串巷发大水了快撤",
-      "onboard_time": 1718634559,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 34033,
