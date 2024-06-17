@@ -1,0 +1,410 @@
+{
+  "runTime": 1718616877000,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1502192,
+        "num": 1502192,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883114,
+        "num": 883114,
+        "word": "优酷 开了VIP还要开SVIP",
+        "onboard_time": 1718608998,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76662,
+        "num": 827633,
+        "word": "遭遇暴雨雷电天气如何保证自身安全",
+        "onboard_time": 1718615118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 819003,
+        "num": 819003,
+        "word": "邓超 歌手现在真缺我",
+        "onboard_time": 1718613377,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658019,
+        "num": 658019,
+        "word": "宁德时代回应网传896工作制",
+        "onboard_time": 1718610017,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612172,
+        "num": 612172,
+        "word": "南方医科大最新回应",
+        "onboard_time": 1718613438,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628364,
+        "num": 610963,
+        "word": "辛芷蕾的10套香奶奶",
+        "onboard_time": 1718614699,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 601988,
+        "num": 601988,
+        "word": "男子连续5年点同一粤菜馆2101次",
+        "onboard_time": 1718613377,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533585,
+        "num": 533585,
+        "word": "退休人员基本养老金水平提高3%",
+        "onboard_time": 1718615417,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 524092,
+        "num": 524092,
+        "word": "那英 死也死不了活着被烤",
+        "onboard_time": 1718606958,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465071,
+        "num": 465071,
+        "word": "养老金",
+        "onboard_time": 1718615898,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396214,
+        "num": 396214,
+        "word": "救人迟到儿科医师已停诊",
+        "onboard_time": 1718602937,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387677,
+        "num": 387677,
+        "word": "姜若瑶碎了",
+        "onboard_time": 1718611278,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42343,
+        "num": 342251,
+        "word": "厦大教授说平凡人的努力最动人",
+        "onboard_time": 1718614098,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342084,
+        "num": 342084,
+        "word": "黄亦玫下嫁方协文 绝对愚蠢",
+        "onboard_time": 1718610317,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297145,
+        "num": 297145,
+        "word": "老人被骗79万元崩溃哭泣",
+        "onboard_time": 1718605157,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294138,
+        "num": 294138,
+        "word": "吴谨言王星越将合体",
+        "onboard_time": 1718613197,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269210,
+        "num": 269210,
+        "word": "九岁外国小朋友被中国网友教育了",
+        "onboard_time": 1718607077,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263641,
+        "num": 263641,
+        "word": "日本人把西瓜皮都拿出来卖了",
+        "onboard_time": 1718599699,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233685,
+        "num": 233685,
+        "word": "墨雨云间 爽剧不爽了",
+        "onboard_time": 1718594898,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607067,
+        "num": 228964,
+        "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
+        "onboard_time": 1718612178,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381498,
+        "num": 228231,
+        "word": "姜萍4月份总成绩年级第一",
+        "onboard_time": 1718595617,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220616,
+        "num": 220616,
+        "word": "王者荣耀安琪拉",
+        "onboard_time": 1718616558,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193853,
+        "num": 193853,
+        "word": "易烊千玺对比图",
+        "onboard_time": 1718611098,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191208,
+        "num": 191208,
+        "word": "日本文科生就业率达到97.1%",
+        "onboard_time": 1718600779,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183400,
+        "num": 183400,
+        "word": "以色列解散战时内阁",
+        "onboard_time": 1718615958,
+        "rank": 25,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 183123,
+        "num": 183123,
+        "word": "被养的很好的孩子是什么样",
+        "onboard_time": 1718610197,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179035,
+        "num": 179035,
+        "word": "男生兼职攒一千给家里厨房装空调",
+        "onboard_time": 1718609838,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178316,
+        "num": 178316,
+        "word": "亚硝酸盐中毒",
+        "onboard_time": 1718615238,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 35286,
+        "num": 178000,
+        "word": "平行志愿和顺序志愿的区别",
+        "onboard_time": 1718608277,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177894,
+        "num": 177894,
+        "word": "月经期能下水游泳吗",
+        "onboard_time": 1718613618,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175385,
+        "num": 175385,
+        "word": "林更新说演研究生压力很大",
+        "onboard_time": 1718604318,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147866,
+        "num": 147866,
+        "word": "西瓜价格为何一路走低",
+        "onboard_time": 1718616497,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 144399,
+        "num": 144399,
+        "word": "第一次感受到气候对发型的影响",
+        "onboard_time": 1718616378,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 137252,
+        "num": 137252,
+        "word": "谢娜说哈林邓超长得像",
+        "onboard_time": 1718615597,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137027,
+        "num": 137027,
+        "word": "楠火锅回应顾客就餐后舌头变黑",
+        "onboard_time": 1718606057,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136873,
+        "num": 136873,
+        "word": "林俊杰谈理想型",
+        "onboard_time": 1718614878,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130242,
+        "num": 130242,
+        "word": "玫瑰的故事 图书馆30秒",
+        "onboard_time": 1718616437,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127894,
+        "num": 127894,
+        "word": "胡歌 米兰时装周",
+        "onboard_time": 1718612657,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127640,
+        "num": 127640,
+        "word": "有了微信小号才发现朋友圈的意义",
+        "onboard_time": 1718583919,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125192,
+        "num": 125192,
+        "word": "riize新歌",
+        "onboard_time": 1718608758,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124891,
+        "num": 124891,
+        "word": "猫耳崩了",
+        "onboard_time": 1718616318,
+        "rank": 41,
+        "category": "读书作家,互联网"
+      },
+      {
+        "raw_hot": 120158,
+        "num": 120158,
+        "word": "湖南卫视618开心夜好多人",
+        "onboard_time": 1718616856,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114259,
+        "num": 114259,
+        "word": "玫瑰的故事 苏苏妈妈",
+        "onboard_time": 1718612478,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106659,
+        "num": 106659,
+        "word": "塞尔维亚球员被5亿欧元包围",
+        "onboard_time": 1718609538,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103558,
+        "num": 103558,
+        "word": "C罗晒合影为迷你罗庆生",
+        "onboard_time": 1718612957,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101288,
+        "num": 101288,
+        "word": "一个男人和一个女人",
+        "onboard_time": 1718616676,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96377,
+        "num": 96377,
+        "word": "专家称A股4000点之前应避免做空",
+        "onboard_time": 1718608037,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 94159,
+        "num": 94159,
+        "word": "我的恒 那个蘅",
+        "onboard_time": 1718609117,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93371,
+        "num": 93371,
+        "word": "给小猫烫成小马了",
+        "onboard_time": 1718609297,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}
