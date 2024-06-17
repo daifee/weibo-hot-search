@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/17 09:23:02
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/17 09:45:07
 </p>
 </blockquote>
 <p>
@@ -1653,6 +1653,12 @@ MIUMIU品牌大使刘浩存（热度：1250127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%B4%97%E6%BE%A1%E6%9C%89%E4%BA%86%E8%87%AA%E5%B7%B1%E7%AC%AC%E4%B8%80%E7%AF%87SCI%23" target="weibo">
+男生洗澡有了自己第一篇SCI（热度：1187510）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E4%B8%8A%E8%8A%82%E7%9B%AE%E8%A2%AB%E5%BC%80%E9%BB%84%E8%85%94%23" target="weibo">
 新女团成员上节目被开黄腔（热度：1185741）
 </a>
@@ -1881,6 +1887,12 @@ MIUMIU品牌大使刘浩存（热度：1250127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%86%E5%BE%AE%E4%BF%A1%E5%B0%8F%E5%8F%B7%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E6%84%8F%E4%B9%89%23" target="weibo">
+有了微信小号才发现朋友圈的意义（热度：1118593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%9B%B2%E5%A5%96%E5%8F%96%E6%B6%88%E8%87%B4%E6%95%AC%E6%9D%8E%E7%8E%9F%E8%A1%A8%E6%BC%94%23" target="weibo">
 金曲奖取消致敬李玟表演（热度：1118008）
 </a>
@@ -1961,12 +1973,6 @@ MIUMIU品牌大使刘浩存（热度：1250127）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%95%86%E7%9A%84%E4%BB%85%E9%80%80%E6%AC%BE%E6%94%BF%E7%AD%96%E7%9C%9F%E7%9A%84%E5%90%88%E7%90%86%E5%90%97%23" target="weibo">
 电商的仅退款政策真的合理吗（热度：1099410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%86%E5%BE%AE%E4%BF%A1%E5%B0%8F%E5%8F%B7%E6%89%8D%E5%8F%91%E7%8E%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E6%84%8F%E4%B9%89%23" target="weibo">
-有了微信小号才发现朋友圈的意义（热度：1099249）
 </a>
 </li>
 
@@ -2705,12 +2711,6 @@ iPhone有通话录音了（热度：1060619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%9D%A6%E5%8E%82%E4%B8%AD%E5%AD%A6%E4%B8%87%E4%BA%BA%E5%86%92%E9%9B%A8%E9%80%81%E8%80%83%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%8A%A0%E6%B2%B9%23" target="weibo">
 毛坦厂中学万人冒雨送考为孩子加油（热度：899183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%B4%97%E6%BE%A1%E6%9C%89%E4%BA%86%E8%87%AA%E5%B7%B1%E7%AC%AC%E4%B8%80%E7%AF%87SCI%23" target="weibo">
-男生洗澡有了自己第一篇SCI（热度：898445）
 </a>
 </li>
 
