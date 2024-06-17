@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718631270197,
+  "endTime": 1718633953758,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -387,6 +387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 973717,
+      "num": 973717,
+      "word": "林更新演技",
+      "onboard_time": 1718628257,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 973431,
       "num": 708468,
       "word": "老师回应姜萍竞赛名次比自己高",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 880809,
-      "num": 395081,
+      "num": 403379,
       "word": "苏敏 离婚",
       "onboard_time": 1718625438,
       "rank": 10,
@@ -499,14 +507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 833198,
-      "num": 833198,
-      "word": "林更新演技",
-      "onboard_time": 1718628257,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 830697,
       "num": 830697,
       "word": "楠火锅回应顾客就餐后舌头变黑",
@@ -529,6 +529,14 @@
       "onboard_time": 1718613377,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 816096,
+      "num": 594702,
+      "word": "林更新怼黑粉 一战成名",
+      "onboard_time": 1718624476,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 807290,
@@ -555,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 765638,
+      "num": 765638,
+      "word": "烟草局回应凌晨上门伪造证据",
+      "onboard_time": 1718630838,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 752598,
       "num": 392060,
       "word": "庆余年 二皇子",
@@ -577,6 +593,14 @@
       "onboard_time": 1718493733,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 742487,
+      "num": 742487,
+      "word": "广东梅州暴雨致5死15失联",
+      "onboard_time": 1718630118,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 740100,
@@ -715,12 +739,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 645958,
-      "num": 395205,
-      "word": "林更新怼黑粉 一战成名",
-      "onboard_time": 1718624476,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 654871,
+      "num": 419223,
+      "word": "泽连斯基称希望中国帮助乌克兰",
+      "onboard_time": 1718631679,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 641375,
@@ -908,7 +932,7 @@
     },
     {
       "raw_hot": 557322,
-      "num": 256079,
+      "num": 337397,
       "word": "瘦了20斤才敢说的实话",
       "onboard_time": 1718622018,
       "rank": 21,
@@ -921,6 +945,14 @@
       "onboard_time": 1718594957,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547970,
+      "num": 547970,
+      "word": "关晓彤回应被推荐去歌手",
+      "onboard_time": 1718630237,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 547701,
@@ -1347,14 +1379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 419879,
-      "num": 419879,
-      "word": "广东梅州暴雨致5死15失联",
-      "onboard_time": 1718630118,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 419469,
       "num": 419469,
       "word": "凯特王妃",
@@ -1491,6 +1515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395130,
+      "num": 395130,
+      "word": "罗马尼亚vs乌克兰",
+      "onboard_time": 1718626877,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 395062,
+      "num": 395062,
+      "word": "玫瑰的故事 绝症哥",
+      "onboard_time": 1718619618,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394547,
       "num": 394547,
       "word": "张艺谋导演电影版三体",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1718575931,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 384149,
-      "num": 359598,
-      "word": "玫瑰的故事 绝症哥",
-      "onboard_time": 1718619618,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 383787,
@@ -1715,14 +1747,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 348902,
-      "num": 348902,
-      "word": "关晓彤回应被推荐去歌手",
-      "onboard_time": 1718630237,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 345542,
       "num": 345542,
       "word": "以后骂人不能骂她是梅超风了",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1718496615,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339630,
+      "num": 339630,
+      "word": "陈哲远憋笑",
+      "onboard_time": 1718630899,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 339251,
@@ -1809,6 +1841,14 @@
       "onboard_time": 1718619017,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330720,
+      "num": 330720,
+      "word": "四个男女主凑不出一副爹娘",
+      "onboard_time": 1718630537,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 330169,
@@ -1880,6 +1920,14 @@
       "word": "王一博不热因为脸够冷",
       "onboard_time": 1718541978,
       "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 311919,
+      "num": 311919,
+      "word": "雷佳音胡歌 平番",
+      "onboard_time": 1718630178,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -2035,6 +2083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281092,
+      "num": 281092,
+      "word": "city不city",
+      "onboard_time": 1718632819,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280412,
       "num": 280412,
       "word": "王者荣耀 鸡爪流",
@@ -2155,14 +2211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268051,
-      "num": 268051,
-      "word": "罗马尼亚vs乌克兰",
-      "onboard_time": 1718626877,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 267953,
       "num": 244131,
       "word": "易烊千玺刺绣连体裤",
@@ -2225,14 +2273,6 @@
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 252340,
-      "num": 252340,
-      "word": "雷佳音胡歌 平番",
-      "onboard_time": 1718630178,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 250991,
@@ -2417,14 +2457,6 @@
       "onboard_time": 1718629098,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226097,
-      "num": 226097,
-      "word": "陈哲远憋笑",
-      "onboard_time": 1718630899,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 224831,
@@ -2659,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209959,
+      "num": 209959,
+      "word": "Giselle中国首封",
+      "onboard_time": 1718633059,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209597,
       "num": 150393,
       "word": "月经不规律其实是身体在求救",
@@ -2769,14 +2809,6 @@
       "onboard_time": 1718507358,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201303,
-      "num": 201303,
-      "word": "四个男女主凑不出一副爹娘",
-      "onboard_time": 1718630537,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 200938,
@@ -3083,6 +3115,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189594,
+      "num": 189594,
+      "word": "荔枝价格一周内上涨17%",
+      "onboard_time": 1718632879,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189337,
       "num": 189337,
       "word": "十二星座的反差感",
@@ -3241,6 +3281,14 @@
       "onboard_time": 1718533818,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181637,
+      "num": 181637,
+      "word": "清华数学系博士称赞姜萍",
+      "onboard_time": 1718633360,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 181112,
@@ -3443,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171107,
+      "num": 171107,
+      "word": "周深影视音乐盛典年度歌手",
+      "onboard_time": 1718631919,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170585,
       "num": 170585,
       "word": "小米扫地机器人自燃引发火灾",
@@ -3592,14 +3648,6 @@
       "word": "姜萍火了不必过度强调其中专生身份",
       "onboard_time": 1718491992,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165254,
-      "num": 165254,
-      "word": "烟草局回应凌晨上门伪造证据",
-      "onboard_time": 1718630838,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -3753,6 +3801,14 @@
       "onboard_time": 1718608938,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158715,
+      "num": 158715,
+      "word": "王星越你是真不怕以后碰到纪凌尘",
+      "onboard_time": 1718633480,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 158487,
@@ -4027,6 +4083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146195,
+      "num": 146195,
+      "word": "魔兽世界",
+      "onboard_time": 1718632819,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146157,
       "num": 146157,
       "word": "福建武平暴雨已致4死亡2失踪",
@@ -4225,6 +4289,14 @@
       "onboard_time": 1718593158,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 135386,
+      "num": 135386,
+      "word": "辞职后清理完手机多出100G内存",
+      "onboard_time": 1718631258,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 135119,
@@ -4579,6 +4651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127066,
+      "num": 127066,
+      "word": "段嘉许回来了",
+      "onboard_time": 1718633839,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126524,
       "num": 126524,
       "word": "爸爸最擅长的技能是爱我",
@@ -4600,6 +4680,14 @@
       "word": "人类这一百年走得太快了",
       "onboard_time": 1718503757,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "亲爱的章鱼哥 我终于理解你",
+      "onboard_time": 1718631618,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -4715,6 +4803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120977,
+      "num": 412534,
+      "word": "京东618晚会送出阿勒泰别墅",
+      "onboard_time": 1718629098,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120792,
       "num": 120792,
       "word": "南方医科大学处分通报疑下发次日删除",
@@ -4785,6 +4881,14 @@
       "onboard_time": 1718604018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118531,
+      "num": 118531,
+      "word": "前中超外援欧洲杯破门",
+      "onboard_time": 1718632519,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118144,
@@ -5443,6 +5547,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 77190,
+      "num": 948085,
+      "word": "卫星视角见证中国治沙奇迹",
+      "onboard_time": 1718628859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77106,
       "num": 77106,
       "word": "中国女排总决赛战日本女排",
@@ -5504,14 +5616,6 @@
       "word": "浙江宣传谈姜萍",
       "onboard_time": 1718584698,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 70682,
-      "num": 948085,
-      "word": "卫星视角见证中国治沙奇迹",
-      "onboard_time": 1718628859,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -5771,6 +5875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47644,
+      "num": 429554,
+      "word": "黄文秀离开5年故事仍在继续",
+      "onboard_time": 1718632698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46932,
       "num": 324202,
       "word": "大学毕业典礼的国风氛围感绝了",
@@ -6011,6 +6123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34219,
+      "num": 400083,
+      "word": "AI会让外语专业消失吗",
+      "onboard_time": 1718632819,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 34033,
       "num": 238999,
       "word": "今晚8点京东百亿补贴力度翻倍",
@@ -6041,14 +6161,6 @@
       "onboard_time": 1718613858,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32802,
-      "num": 360054,
-      "word": "京东618晚会送出阿勒泰别墅",
-      "onboard_time": 1718629098,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 32456,

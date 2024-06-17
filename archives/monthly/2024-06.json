@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718631270197,
+  "endTime": 1718633953758,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3235,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973717,
+      "num": 973717,
+      "word": "林更新演技",
+      "onboard_time": 1718413939,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 973431,
       "num": 708468,
       "word": "老师回应姜萍竞赛名次比自己高",
@@ -3828,7 +3836,7 @@
     },
     {
       "raw_hot": 880809,
-      "num": 395081,
+      "num": 403379,
       "word": "苏敏 离婚",
       "onboard_time": 1718625438,
       "rank": 10,
@@ -4147,14 +4155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 833198,
-      "num": 833198,
-      "word": "林更新演技",
-      "onboard_time": 1718413939,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 833167,
       "num": 794697,
       "word": "女子把隐翅虫当蚊子拍死差点毁容",
@@ -4313,6 +4313,14 @@
       "onboard_time": 1718081359,
       "rank": 4,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 816096,
+      "num": 594702,
+      "word": "林更新怼黑粉 一战成名",
+      "onboard_time": 1718624476,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 815887,
@@ -4739,6 +4747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 765638,
+      "num": 765638,
+      "word": "烟草局回应凌晨上门伪造证据",
+      "onboard_time": 1718630838,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764843,
       "num": 764843,
       "word": "齐思钧发视频报平安",
@@ -5073,6 +5089,14 @@
       "onboard_time": 1718030239,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 742487,
+      "num": 742487,
+      "word": "广东梅州暴雨致5死15失联",
+      "onboard_time": 1718630118,
+      "rank": 29,
+      "category": "社会负面"
     },
     {
       "raw_hot": 741905,
@@ -6363,6 +6387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 654871,
+      "num": 419223,
+      "word": "泽连斯基称希望中国帮助乌克兰",
+      "onboard_time": 1718631679,
+      "rank": 11,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 654717,
       "num": 263372,
       "word": "范玮琪正式复出",
@@ -6497,14 +6529,6 @@
       "onboard_time": 1717921818,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 645958,
-      "num": 395205,
-      "word": "林更新怼黑粉 一战成名",
-      "onboard_time": 1718624476,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 644956,
@@ -8004,7 +8028,7 @@
     },
     {
       "raw_hot": 557322,
-      "num": 256079,
+      "num": 337397,
       "word": "瘦了20斤才敢说的实话",
       "onboard_time": 1718622018,
       "rank": 21,
@@ -8128,6 +8152,14 @@
       "word": "高圆圆 我gap比上班多",
       "onboard_time": 1717405219,
       "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 547970,
+      "num": 547970,
+      "word": "关晓彤回应被推荐去歌手",
+      "onboard_time": 1718630237,
+      "rank": 27,
       "category": "电影"
     },
     {
@@ -11683,14 +11715,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 419879,
-      "num": 419879,
-      "word": "广东梅州暴雨致5死15失联",
-      "onboard_time": 1718630118,
-      "rank": 29,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 419519,
       "num": 419519,
       "word": "玫瑰的故事主题曲",
@@ -12475,6 +12499,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395130,
+      "num": 395130,
+      "word": "罗马尼亚vs乌克兰",
+      "onboard_time": 1718626877,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 395062,
+      "num": 395062,
+      "word": "玫瑰的故事 绝症哥",
+      "onboard_time": 1718619618,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394723,
       "num": 394723,
       "word": "中国女排3比0德国女排",
@@ -12841,14 +12881,6 @@
       "onboard_time": 1717328240,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384149,
-      "num": 359598,
-      "word": "玫瑰的故事 绝症哥",
-      "onboard_time": 1718619618,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 383839,
@@ -14163,14 +14195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348902,
-      "num": 348902,
-      "word": "关晓彤回应被推荐去歌手",
-      "onboard_time": 1718630237,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 348864,
       "num": 348864,
       "word": "王星越不舍得挂吴谨言电话",
@@ -14579,6 +14603,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 339630,
+      "num": 339630,
+      "word": "陈哲远憋笑",
+      "onboard_time": 1718630899,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 339577,
       "num": 339577,
       "word": "天官赐福",
@@ -14961,6 +14993,14 @@
       "onboard_time": 1718619017,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 330720,
+      "num": 330720,
+      "word": "四个男女主凑不出一副爹娘",
+      "onboard_time": 1718630537,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 330560,
@@ -15761,6 +15801,14 @@
       "onboard_time": 1718248097,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 311919,
+      "num": 311919,
+      "word": "雷佳音胡歌 平番",
+      "onboard_time": 1718630178,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 311587,
@@ -17315,6 +17363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281092,
+      "num": 281092,
+      "word": "city不city",
+      "onboard_time": 1718632819,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 280803,
       "num": 280803,
       "word": "逆水寒玄机CG",
@@ -18145,14 +18201,6 @@
       "onboard_time": 1717310837,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 268051,
-      "num": 268051,
-      "word": "罗马尼亚vs乌克兰",
-      "onboard_time": 1718626877,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 267953,
@@ -19033,14 +19081,6 @@
       "onboard_time": 1717230858,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252340,
-      "num": 252340,
-      "word": "雷佳音胡歌 平番",
-      "onboard_time": 1718630178,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 252068,
@@ -20899,14 +20939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 226097,
-      "num": 226097,
-      "word": "陈哲远憋笑",
-      "onboard_time": 1718630899,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 225831,
       "num": 198336,
       "word": "野孩子 端午和弟弟吃粽子去",
@@ -22571,6 +22603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 209959,
+      "num": 209959,
+      "word": "Giselle中国首封",
+      "onboard_time": 1718633059,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209849,
       "num": 209849,
       "word": "如果第一个出考场被采访的话",
@@ -23905,14 +23945,6 @@
       "onboard_time": 1717384938,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201303,
-      "num": 201303,
-      "word": "四个男女主凑不出一副爹娘",
-      "onboard_time": 1718630537,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 201289,
@@ -26107,6 +26139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189594,
+      "num": 189594,
+      "word": "荔枝价格一周内上涨17%",
+      "onboard_time": 1718632879,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189584,
       "num": 189584,
       "word": "TES战胜RA",
@@ -27393,6 +27433,14 @@
       "onboard_time": 1717915038,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181637,
+      "num": 181637,
+      "word": "清华数学系博士称赞姜萍",
+      "onboard_time": 1718633360,
+      "rank": 34,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 181601,
@@ -29003,6 +29051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171107,
+      "num": 171107,
+      "word": "周深影视音乐盛典年度歌手",
+      "onboard_time": 1718631919,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171011,
       "num": 171011,
       "word": "李白发博轻舟已过万重山",
@@ -30049,14 +30105,6 @@
       "onboard_time": 1718194698,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 165254,
-      "num": 165254,
-      "word": "烟草局回应凌晨上门伪造证据",
-      "onboard_time": 1718630838,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165227,
@@ -31289,6 +31337,14 @@
       "onboard_time": 1718608938,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 158715,
+      "num": 158715,
+      "word": "王星越你是真不怕以后碰到纪凌尘",
+      "onboard_time": 1718633480,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 158666,
@@ -35843,6 +35899,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135386,
+      "num": 135386,
+      "word": "辞职后清理完手机多出100G内存",
+      "onboard_time": 1718631258,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135250,
       "num": 135250,
       "word": "刘亦菲来演这段就很合理",
@@ -37627,6 +37691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127066,
+      "num": 127066,
+      "word": "段嘉许回来了",
+      "onboard_time": 1718633839,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127004,
       "num": 127004,
       "word": "林更新录综艺点到了赵丽颖",
@@ -37929,6 +38001,14 @@
       "onboard_time": 1718443279,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126009,
+      "num": 126009,
+      "word": "亲爱的章鱼哥 我终于理解你",
+      "onboard_time": 1718631618,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 125858,
@@ -38907,6 +38987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120977,
+      "num": 412534,
+      "word": "京东618晚会送出阿勒泰别墅",
+      "onboard_time": 1718629098,
+      "rank": 24,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120935,
       "num": 120935,
       "word": "马嘉祺说岛上太舒服了",
@@ -39393,6 +39481,14 @@
       "onboard_time": 1717198515,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118531,
+      "num": 118531,
+      "word": "前中超外援欧洲杯破门",
+      "onboard_time": 1718632519,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 118383,
@@ -44195,6 +44291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 77190,
+      "num": 948085,
+      "word": "卫星视角见证中国治沙奇迹",
+      "onboard_time": 1718628859,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77106,
       "num": 77106,
       "word": "中国女排总决赛战日本女排",
@@ -44825,14 +44929,6 @@
       "onboard_time": 1717264934,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70682,
-      "num": 948085,
-      "word": "卫星视角见证中国治沙奇迹",
-      "onboard_time": 1718628859,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70601,
@@ -46971,6 +47067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 47644,
+      "num": 429554,
+      "word": "黄文秀离开5年故事仍在继续",
+      "onboard_time": 1718632698,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47635,
       "num": 408040,
       "word": "今年端午我最想驱走这五毒",
@@ -48259,6 +48363,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 34219,
+      "num": 400083,
+      "word": "AI会让外语专业消失吗",
+      "onboard_time": 1718632819,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 34170,
       "num": 39792,
       "word": "新疆为什么像四个省份",
@@ -48377,14 +48489,6 @@
       "onboard_time": 1718613858,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32802,
-      "num": 360054,
-      "word": "京东618晚会送出阿勒泰别墅",
-      "onboard_time": 1718629098,
-      "rank": 24,
-      "category": "互联网"
     },
     {
       "raw_hot": 32730,
