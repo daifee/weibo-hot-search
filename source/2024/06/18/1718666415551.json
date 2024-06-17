@@ -1,0 +1,410 @@
+{
+  "runTime": 1718666415551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 848930,
+        "num": 848930,
+        "word": "医生提醒尽量不要生吃海鲜和肉",
+        "onboard_time": 1718643434,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 650858,
+        "num": 650858,
+        "word": "红豆薏米水真的可以祛湿吗",
+        "onboard_time": 1718656270,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51130,
+        "num": 462218,
+        "word": "教育部首次上线高考志愿信息系统",
+        "onboard_time": 1718618298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328504,
+        "num": 328504,
+        "word": "烟草局回应凌晨上门伪造证据",
+        "onboard_time": 1718630838,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327414,
+        "num": 327414,
+        "word": "北京男子或将错失10万元大奖",
+        "onboard_time": 1718639417,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229434,
+        "num": 229434,
+        "word": "林更新演技",
+        "onboard_time": 1718628257,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212674,
+        "num": 212674,
+        "word": "奥地利vs法国",
+        "onboard_time": 1718637258,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179166,
+        "num": 179166,
+        "word": "姜萍",
+        "onboard_time": 1718636600,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170391,
+        "num": 170391,
+        "word": "方协文 玫瑰换条裤子",
+        "onboard_time": 1718638757,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27731,
+        "num": 169636,
+        "word": "福宝甩杆钓鱼",
+        "onboard_time": 1718665394,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260919,
+        "num": 169619,
+        "word": "知情人称遇难8人非首次坐冷藏车",
+        "onboard_time": 1718624417,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191793,
+        "num": 169567,
+        "word": "林更新不觉得方协文的付出伟大",
+        "onboard_time": 1718665394,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169430,
+        "num": 169430,
+        "word": "姆巴佩鼻子歪了",
+        "onboard_time": 1718665814,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161104,
+        "num": 161104,
+        "word": "iPhone15多次降价重回销量榜第一",
+        "onboard_time": 1718626157,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 6034,
+        "num": 154150,
+        "word": "口腔专业真的很好就业吗",
+        "onboard_time": 1718665634,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150837,
+        "num": 150837,
+        "word": "四个男女主凑不出一副爹娘",
+        "onboard_time": 1718630537,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145379,
+        "num": 145379,
+        "word": "订书钉才是上班摸鱼神器",
+        "onboard_time": 1718634619,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120424,
+        "num": 120424,
+        "word": "云南一女子吃野生菌看到机器人小偷",
+        "onboard_time": 1718635160,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118164,
+        "num": 118164,
+        "word": "玫瑰的故事 绝症哥",
+        "onboard_time": 1718619618,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114008,
+        "num": 114008,
+        "word": "林更新怼黑粉 一战成名",
+        "onboard_time": 1718624476,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232979,
+        "num": 112880,
+        "word": "刘亦菲同一件衣服不同状态",
+        "onboard_time": 1718665334,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186376,
+        "num": 108960,
+        "word": "长寿的人多半有4慢3长特点",
+        "onboard_time": 1718637319,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99154,
+        "num": 99154,
+        "word": "比利时vs斯洛伐克",
+        "onboard_time": 1718636659,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85822,
+        "num": 85822,
+        "word": "离职风工位说明无安全感",
+        "onboard_time": 1718662272,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83426,
+        "num": 83426,
+        "word": "苏敏 离婚",
+        "onboard_time": 1718625438,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 77421,
+        "num": 77421,
+        "word": "欧洲杯",
+        "onboard_time": 1718630237,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76997,
+        "num": 76997,
+        "word": "段嘉许回来了",
+        "onboard_time": 1718633839,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73969,
+        "num": 73969,
+        "word": "越来越多年轻人患上结婚羞耻症",
+        "onboard_time": 1718623396,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66705,
+        "num": 66705,
+        "word": "外国人被中国夜市硬控了",
+        "onboard_time": 1718634559,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 66205,
+        "num": 66205,
+        "word": "瘦了20斤才敢说的实话",
+        "onboard_time": 1718622018,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 63980,
+        "num": 63980,
+        "word": "姆巴佩鼻梁骨折",
+        "onboard_time": 1718666236,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62387,
+        "num": 62387,
+        "word": "我好像有旅游发朋友圈羞耻症",
+        "onboard_time": 1718661972,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56834,
+        "num": 56834,
+        "word": "黄宣女装",
+        "onboard_time": 1718656450,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55948,
+        "num": 55948,
+        "word": "胡歌片寄凉太土屋太凤同框",
+        "onboard_time": 1718645893,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 53366,
+        "num": 53366,
+        "word": "关晓彤回应被推荐去歌手",
+        "onboard_time": 1718630237,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53235,
+        "num": 53235,
+        "word": "谢霆锋怒火重案后消失三年原因",
+        "onboard_time": 1718637739,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 51571,
+        "num": 51571,
+        "word": "张真源到达匈牙利录制跑男",
+        "onboard_time": 1718639057,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51172,
+        "num": 51172,
+        "word": "新加坡门将以为自己火不过两天",
+        "onboard_time": 1718634559,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49301,
+        "num": 49301,
+        "word": "黄晓明为新电影增重30斤",
+        "onboard_time": 1718664553,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49246,
+        "num": 49246,
+        "word": "王珞丹包臀花瓶裙",
+        "onboard_time": 1718658370,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48037,
+        "num": 48037,
+        "word": "广东梅州暴雨致5死15失联",
+        "onboard_time": 1718630118,
+        "rank": 40,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 44499,
+        "num": 48013,
+        "word": "鞠婧祎开心夜舞台",
+        "onboard_time": 1718637558,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41179,
+        "num": 48009,
+        "word": "果然生女儿就是用来打扮的",
+        "onboard_time": 1718654650,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40356,
+        "num": 47977,
+        "word": "水象星座真的是恋爱脑吗",
+        "onboard_time": 1718644033,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 39807,
+        "num": 47965,
+        "word": "罗马尼亚vs乌克兰",
+        "onboard_time": 1718626877,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39276,
+        "num": 47936,
+        "word": "玫瑰的故事朱珠精神灯塔",
+        "onboard_time": 1718642296,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36318,
+        "num": 47902,
+        "word": "牛津朱朱 自学数学的可行性",
+        "onboard_time": 1718653391,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36249,
+        "num": 47880,
+        "word": "于文文Amber刘忻 拽姐秀",
+        "onboard_time": 1718630299,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34587,
+        "num": 47869,
+        "word": "姆巴佩好拼",
+        "onboard_time": 1718666175,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33666,
+        "num": 47844,
+        "word": "坐高铁捡到了刚高考完妹妹的信",
+        "onboard_time": 1718666355,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}

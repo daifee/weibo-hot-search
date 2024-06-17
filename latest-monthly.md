@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/18 06:35:12
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/18 07:20:15
 </p>
 </blockquote>
 <p>
@@ -3081,6 +3081,12 @@ iPhone15有五种充电上限了（热度：864883）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E7%94%9F%E5%90%83%E6%B5%B7%E9%B2%9C%E5%92%8C%E8%82%89%23" target="weibo">
+医生提醒尽量不要生吃海鲜和肉（热度：848930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%A5%A0%E5%87%BA%E5%9C%BA%E6%AD%8C%E6%89%8B%E7%A0%B41%23" target="weibo">
 孙楠出场歌手破1（热度：848721）
 </a>
@@ -4875,6 +4881,12 @@ lululemon在美国卖不动了（热度：650950）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%B1%86%E8%96%8F%E7%B1%B3%E6%B0%B4%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%A5%9B%E6%B9%BF%E5%90%97%23" target="weibo">
+红豆薏米水真的可以祛湿吗（热度：650858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E5%B0%BD%E5%BF%AB%E5%AD%A6%E4%BC%9A%E6%89%93%E6%89%AE%23" target="weibo">
 大学生要尽快学会打扮（热度：650723）
 </a>
@@ -5999,18 +6011,6 @@ Nobody好看（热度：564914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9A%84%E4%B8%96%E7%95%8C%E8%A7%82%E9%9C%87%E6%83%8A%E5%88%B0%E6%88%91%E4%BA%86%23" target="weibo">
 女朋友的世界观震惊到我了（热度：559258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E5%A4%A9%E4%B9%90%E8%A2%AB%E8%BF%BD%E5%80%BA830%E4%B8%87%E6%B8%AF%E5%B8%81%23" target="weibo">
-古天乐被追债830万港币（热度：559029）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%94%B7%E6%80%A7HPV%E6%84%9F%E6%9F%93%E7%8E%87%E9%AB%98%E4%BA%8E%E5%A5%B3%E6%80%A7%23" target="weibo">
-全球男性HPV感染率高于女性（热度：558529）
 </a>
 </li>
 
