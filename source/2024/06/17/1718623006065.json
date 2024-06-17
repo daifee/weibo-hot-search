@@ -1,0 +1,410 @@
+{
+  "runTime": 1718623006065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1438087,
+        "num": 1438087,
+        "word": "男子误机花6000从天津打车到西安",
+        "onboard_time": 1718617158,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699179,
+        "num": 699179,
+        "word": "丈夫替怀孕妻子辞职合理吗",
+        "onboard_time": 1718617396,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52638,
+        "num": 682559,
+        "word": "遭遇暴雨雷电天气如何保证自身安全",
+        "onboard_time": 1718615118,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681705,
+        "num": 681705,
+        "word": "女子被猥亵后以为抓流氓的民警是诈骗团伙",
+        "onboard_time": 1718611457,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572537,
+        "num": 572537,
+        "word": "朱一龙吴磊 平番",
+        "onboard_time": 1718622258,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441155,
+        "num": 441155,
+        "word": "王者荣耀安琪拉",
+        "onboard_time": 1718616558,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 394288,
+        "num": 394288,
+        "word": "邓超体检身体年龄仅27岁",
+        "onboard_time": 1718618417,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 374048,
+        "num": 374048,
+        "word": "邓超 歌手现在真缺我",
+        "onboard_time": 1718613377,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330359,
+        "num": 330359,
+        "word": "养老金",
+        "onboard_time": 1718615898,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69499,
+        "num": 325894,
+        "word": "捡废品考清华的庞众望正读博",
+        "onboard_time": 1718621538,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408352,
+        "num": 325707,
+        "word": "楠火锅发布舌头变黑事件说明",
+        "onboard_time": 1718619978,
+        "rank": 10,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 357931,
+        "num": 324762,
+        "word": "玫瑰的故事 绝症哥",
+        "onboard_time": 1718619618,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322706,
+        "num": 322706,
+        "word": "那英 死也死不了活着被烤",
+        "onboard_time": 1718606958,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314700,
+        "num": 314700,
+        "word": "罗云熙美依礼芽极乐净土",
+        "onboard_time": 1718619017,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75668,
+        "num": 314652,
+        "word": "天猫618再加码100亿惊喜红包",
+        "onboard_time": 1718622018,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 314623,
+        "num": 314623,
+        "word": "优酷回应开了VIP还要开SVIP",
+        "onboard_time": 1718621657,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296728,
+        "num": 296728,
+        "word": "南方医科大最新回应",
+        "onboard_time": 1718613438,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272816,
+        "num": 272816,
+        "word": "救人迟到儿科医师已停诊",
+        "onboard_time": 1718602937,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242622,
+        "num": 242622,
+        "word": "九岁外国小朋友被中国网友教育了",
+        "onboard_time": 1718607077,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199977,
+        "num": 199977,
+        "word": "王者荣耀 鸡爪流",
+        "onboard_time": 1718620217,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 307726,
+        "num": 199972,
+        "word": "辛芷蕾的10套香奶奶",
+        "onboard_time": 1718614699,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 336427,
+        "num": 195281,
+        "word": "瘦了20斤才敢说的实话",
+        "onboard_time": 1718622018,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 286431,
+        "num": 193611,
+        "word": "秦昊问金靖什么时候生",
+        "onboard_time": 1718618178,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275329,
+        "num": 189582,
+        "word": "王星越叼玉佩镜头加一",
+        "onboard_time": 1718619497,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211375,
+        "num": 189010,
+        "word": "电影东极岛",
+        "onboard_time": 1718621117,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210463,
+        "num": 185000,
+        "word": "庄国栋碎了",
+        "onboard_time": 1718620937,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184174,
+        "num": 184174,
+        "word": "UP战胜WBG",
+        "onboard_time": 1718622617,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182579,
+        "num": 182579,
+        "word": "墨雨云间成王是吴谨言台词老师",
+        "onboard_time": 1718621238,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176221,
+        "num": 176221,
+        "word": "教育部首次上线高考志愿信息系统",
+        "onboard_time": 1718618298,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174965,
+        "num": 174965,
+        "word": "退休人员基本养老金水平提高3%",
+        "onboard_time": 1718615417,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69048,
+        "num": 173968,
+        "word": "618我大大方方省了很多钱",
+        "onboard_time": 1718618657,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173821,
+        "num": 173821,
+        "word": "肖战TODS早春大秀",
+        "onboard_time": 1718621598,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165921,
+        "num": 165921,
+        "word": "电影东极岛官宣演员阵容",
+        "onboard_time": 1718622437,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165115,
+        "num": 165115,
+        "word": "姜若瑶碎了",
+        "onboard_time": 1718611278,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7496,
+        "num": 156469,
+        "word": "墨雨发的红包比肃国公还疯",
+        "onboard_time": 1718622737,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151609,
+        "num": 151609,
+        "word": "宁德时代回应网传896工作制",
+        "onboard_time": 1718610017,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161080,
+        "num": 151407,
+        "word": "墨雨云间 爽剧不爽了",
+        "onboard_time": 1718594898,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150175,
+        "num": 150175,
+        "word": "湖南卫视开心夜节目单",
+        "onboard_time": 1718618898,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32456,
+        "num": 141268,
+        "word": "15国非遗珍品亮相经贸洽谈会",
+        "onboard_time": 1718620818,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35792,
+        "num": 140884,
+        "word": "多多不想让您受委屈",
+        "onboard_time": 1718622797,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 140841,
+        "num": 140841,
+        "word": "王者荣耀策划回应鸡爪流争议",
+        "onboard_time": 1718622617,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138653,
+        "num": 138653,
+        "word": "老人被骗79万元崩溃哭泣",
+        "onboard_time": 1718605157,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136967,
+        "num": 136967,
+        "word": "为什么企业家都喜欢跑步",
+        "onboard_time": 1718621717,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133336,
+        "num": 133336,
+        "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
+        "onboard_time": 1718612178,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123990,
+        "num": 123990,
+        "word": "面个试把隐私都问完了",
+        "onboard_time": 1718622258,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117428,
+        "num": 117428,
+        "word": "吴谨言王星越将合体",
+        "onboard_time": 1718613197,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115596,
+        "num": 115596,
+        "word": "RIIZE空降",
+        "onboard_time": 1718620517,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 115574,
+        "num": 115574,
+        "word": "黄亦玫下嫁方协文 绝对愚蠢",
+        "onboard_time": 1718610317,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114181,
+        "num": 114181,
+        "word": "UP双杀WBG",
+        "onboard_time": 1718622195,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111286,
+        "num": 111286,
+        "word": "日本人把西瓜皮都拿出来卖了",
+        "onboard_time": 1718599699,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的重大文化工程#"
+    }
+  }
+}

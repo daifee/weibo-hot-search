@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718620755637,
+  "endTime": 1718623006065,
   "band_list": [
     {
       "raw_hot": 1842501,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1438087,
+      "num": 1438087,
+      "word": "男子误机花6000从天津打车到西安",
+      "onboard_time": 1718617158,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1399986,
       "num": 1399986,
       "word": "优酷 开了VIP还要开SVIP",
@@ -73,14 +81,6 @@
       "onboard_time": 1718606958,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1148666,
-      "num": 1148666,
-      "word": "男子误机花6000从天津打车到西安",
-      "onboard_time": 1718617158,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1137130,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572537,
+      "num": 572537,
+      "word": "朱一龙吴磊 平番",
+      "onboard_time": 1718622258,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 565271,
       "num": 565271,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -555,6 +563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 408352,
+      "num": 325707,
+      "word": "楠火锅发布舌头变黑事件说明",
+      "onboard_time": 1718619978,
+      "rank": 26,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 404354,
       "num": 404354,
       "word": "肖战家庭氛围",
@@ -585,6 +601,14 @@
       "onboard_time": 1718541379,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394288,
+      "num": 394288,
+      "word": "邓超体检身体年龄仅27岁",
+      "onboard_time": 1718618417,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 394018,
@@ -633,6 +657,14 @@
       "onboard_time": 1718587637,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357931,
+      "num": 324762,
+      "word": "玫瑰的故事 绝症哥",
+      "onboard_time": 1718619618,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 357741,
@@ -707,12 +739,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 338470,
-      "num": 338470,
-      "word": "邓超体检身体年龄仅27岁",
-      "onboard_time": 1718618417,
+      "raw_hot": 336427,
+      "num": 195281,
+      "word": "瘦了20斤才敢说的实话",
+      "onboard_time": 1718622018,
       "rank": 21,
-      "category": "综艺"
+      "category": "运动健身"
     },
     {
       "raw_hot": 331657,
@@ -761,6 +793,22 @@
       "onboard_time": 1718594417,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 314700,
+      "num": 314700,
+      "word": "罗云熙美依礼芽极乐净土",
+      "onboard_time": 1718619017,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314623,
+      "num": 314623,
+      "word": "优酷回应开了VIP还要开SVIP",
+      "onboard_time": 1718621657,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 307390,
@@ -819,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275329,
+      "num": 251391,
+      "word": "王星越叼玉佩镜头加一",
+      "onboard_time": 1718619497,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272935,
       "num": 272935,
       "word": "狗狗偷偷戴上了奶奶的假牙",
@@ -867,14 +923,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 251391,
-      "num": 251391,
-      "word": "王星越叼玉佩镜头加一",
-      "onboard_time": 1718619497,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 249178,
       "num": 238707,
       "word": "我的恒 那个蘅",
@@ -905,14 +953,6 @@
       "onboard_time": 1718583438,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241110,
-      "num": 230166,
-      "word": "罗云熙美依礼芽极乐净土",
-      "onboard_time": 1718619017,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 240686,
@@ -1043,11 +1083,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211375,
+      "num": 189010,
+      "word": "电影东极岛",
+      "onboard_time": 1718621117,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210500,
       "num": 192309,
       "word": "佟大为三连问刘亦菲",
       "onboard_time": 1718576651,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 210463,
+      "num": 185000,
+      "word": "庄国栋碎了",
+      "onboard_time": 1718620937,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1073,6 +1129,14 @@
       "onboard_time": 1718548279,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199977,
+      "num": 199977,
+      "word": "王者荣耀 鸡爪流",
+      "onboard_time": 1718620217,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 199840,
@@ -1123,14 +1187,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 192334,
-      "num": 192334,
-      "word": "楠火锅发布舌头变黑事件说明",
-      "onboard_time": 1718619978,
-      "rank": 26,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 191872,
       "num": 191872,
       "word": "麦当劳叫停自动点餐测试项目",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1718594777,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188093,
-      "num": 188093,
-      "word": "玫瑰的故事 绝症哥",
-      "onboard_time": 1718619618,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 187648,
@@ -1243,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184174,
+      "num": 184174,
+      "word": "UP战胜WBG",
+      "onboard_time": 1718622617,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183744,
       "num": 183744,
       "word": "东极岛 朱一龙吴磊",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1718589317,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182579,
+      "num": 182579,
+      "word": "墨雨云间成王是吴谨言台词老师",
+      "onboard_time": 1718621238,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 180045,
@@ -1337,6 +1401,14 @@
       "onboard_time": 1718553138,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173821,
+      "num": 173821,
+      "word": "肖战TODS早春大秀",
+      "onboard_time": 1718621598,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172793,
@@ -1433,6 +1505,14 @@
       "onboard_time": 1718606477,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165921,
+      "num": 165921,
+      "word": "电影东极岛官宣演员阵容",
+      "onboard_time": 1718622437,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 163105,
@@ -1587,14 +1667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152568,
-      "num": 152568,
-      "word": "王者荣耀 鸡爪流",
-      "onboard_time": 1718620217,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 152007,
       "num": 152007,
       "word": "檀健次谈最爱的秀场单品",
@@ -1659,6 +1731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 140841,
+      "num": 140841,
+      "word": "王者荣耀策划回应鸡爪流争议",
+      "onboard_time": 1718622617,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140774,
       "num": 140774,
       "word": "林更新被问到跟刘亦菲感情戏时",
@@ -1705,6 +1785,14 @@
       "onboard_time": 1718595557,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136967,
+      "num": 136967,
+      "word": "为什么企业家都喜欢跑步",
+      "onboard_time": 1718621717,
+      "rank": 42,
+      "category": "运动健身"
     },
     {
       "raw_hot": 136873,
@@ -1939,6 +2027,14 @@
       "category": "读书作家,互联网"
     },
     {
+      "raw_hot": 123990,
+      "num": 123990,
+      "word": "面个试把隐私都问完了",
+      "onboard_time": 1718622258,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123757,
       "num": 123757,
       "word": "黄健翔说穿蓝色球衣指定不会错",
@@ -2033,6 +2129,14 @@
       "onboard_time": 1718592377,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 114181,
+      "num": 114181,
+      "word": "UP双杀WBG",
+      "onboard_time": 1718622195,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 114179,
@@ -2227,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75668,
+      "num": 314652,
+      "word": "天猫618再加码100亿惊喜红包",
+      "onboard_time": 1718622018,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74154,
       "num": 86481,
       "word": "朱婷",
@@ -2249,6 +2361,22 @@
       "onboard_time": 1718607617,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69499,
+      "num": 325894,
+      "word": "捡废品考清华的庞众望正读博",
+      "onboard_time": 1718621538,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69048,
+      "num": 194589,
+      "word": "618我大大方方省了很多钱",
+      "onboard_time": 1718618657,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 65772,
@@ -2323,14 +2451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 50891,
-      "num": 194589,
-      "word": "618我大大方方省了很多钱",
-      "onboard_time": 1718618657,
-      "rank": 27,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 48698,
       "num": 268208,
       "word": "京东超级惊喜红包3800元",
@@ -2387,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35792,
+      "num": 140884,
+      "word": "多多不想让您受委屈",
+      "onboard_time": 1718622797,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 35589,
       "num": 282166,
       "word": "宝藏河南字游奇旅",
@@ -2433,6 +2561,14 @@
       "onboard_time": 1718561472,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 32456,
+      "num": 141268,
+      "word": "15国非遗珍品亮相经贸洽谈会",
+      "onboard_time": 1718620818,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25143,
@@ -2569,6 +2705,14 @@
       "onboard_time": 1718557275,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7496,
+      "num": 156469,
+      "word": "墨雨发的红包比肃国公还疯",
+      "onboard_time": 1718622737,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 5774,
