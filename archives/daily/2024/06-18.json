@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718649468214,
+  "endTime": 1718651727595,
   "band_list": [
     {
       "raw_hot": 780562,
@@ -475,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24738,
+      "num": 24738,
+      "word": "陈乔恩告别墨雨云间",
+      "onboard_time": 1718649971,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24081,
       "num": 25506,
       "word": "德国地铁站广告",
@@ -528,6 +536,14 @@
       "word": "钓鱼大哥抛出鱼竿救回轻生男子",
       "onboard_time": 1718648593,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5426,
+      "num": 58764,
+      "word": "坠桥男子漂流8公里被鱼竿拉上岸",
+      "onboard_time": 1718650451,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],

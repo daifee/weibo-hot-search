@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/18 00:24:37 ~ 2024/06/18 02:37:48
+本榜单时间：2024/06/18 00:24:37 ~ 2024/06/18 03:15:27
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ Giselle中国首封（热度：83176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%91%8A%E5%88%AB%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23" target="weibo">
+陈乔恩告别墨雨云间（热度：24738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%9C%B0%E9%93%81%E7%AB%99%E5%B9%BF%E5%91%8A%23" target="weibo">
 德国地铁站广告（热度：24081）
 </a>
@@ -407,6 +413,12 @@ NBA（热度：23418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%93%E9%B1%BC%E5%A4%A7%E5%93%A5%E6%8A%9B%E5%87%BA%E9%B1%BC%E7%AB%BF%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%23" target="weibo">
 钓鱼大哥抛出鱼竿救回轻生男子（热度：11322）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%A0%E6%A1%A5%E7%94%B7%E5%AD%90%E6%BC%82%E6%B5%818%E5%85%AC%E9%87%8C%E8%A2%AB%E9%B1%BC%E7%AB%BF%E6%8B%89%E4%B8%8A%E5%B2%B8%23" target="weibo">
+坠桥男子漂流8公里被鱼竿拉上岸（热度：5426）
 </a>
 </li>
 
