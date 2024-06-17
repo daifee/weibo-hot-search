@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718652880321,
+  "endTime": 1718655492305,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -6643,6 +6643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 21730,
+      "num": 17453,
+      "word": "牛津朱朱 自学数学的可行性",
+      "onboard_time": 1718653391,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21724,
       "num": 249730,
       "word": "微博电影之夜电影感大片",
@@ -6697,6 +6705,14 @@
       "onboard_time": 1718607257,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17453,
+      "num": 17453,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 17122,

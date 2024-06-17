@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718652880321,
+  "endTime": 1718655492305,
   "band_list": [
     {
       "raw_hot": 780562,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98082,
+      "num": 98082,
+      "word": "奥地利vs法国",
+      "onboard_time": 1718637258,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97608,
       "num": 97608,
       "word": "丈夫替怀孕妻子辞职合理吗",
@@ -395,14 +403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72247,
-      "num": 72247,
-      "word": "奥地利vs法国",
-      "onboard_time": 1718637258,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71519,
       "num": 76337,
       "word": "华晨宇声线有日出的温暖",
@@ -505,6 +505,22 @@
       "onboard_time": 1718649132,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21730,
+      "num": 17453,
+      "word": "牛津朱朱 自学数学的可行性",
+      "onboard_time": 1718653391,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 17453,
+      "num": 17453,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 16973,
