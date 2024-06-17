@@ -1,6 +1,6 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718599106580,
+  "endTime": 1718601748966,
   "band_list": [
     {
       "raw_hot": 1842501,
@@ -139,6 +139,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 740100,
+      "num": 740100,
+      "word": "中国对澳大利亚单方面免签",
+      "onboard_time": 1718599338,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736886,
+      "num": 736886,
+      "word": "传宁德时代施行896工作制",
+      "onboard_time": 1718598559,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720653,
       "num": 720653,
       "word": "玫瑰的故事看生气了",
@@ -153,6 +169,14 @@
       "onboard_time": 1718583258,
       "rank": 12,
       "category": "数码"
+    },
+    {
+      "raw_hot": 636449,
+      "num": 636449,
+      "word": "暑期档唯一灾难大片来了",
+      "onboard_time": 1718598618,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 565271,
@@ -235,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472575,
+      "num": 243960,
+      "word": "日本人把西瓜皮都拿出来卖了",
+      "onboard_time": 1718599699,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 468618,
       "num": 128520,
       "word": "大学生最烧钱的八大爱好",
@@ -248,6 +280,14 @@
       "word": "上海七号线",
       "onboard_time": 1718586079,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 454339,
+      "num": 454339,
+      "word": "姐妹俩一起开小饭馆同时确诊肺癌",
+      "onboard_time": 1718597538,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -265,6 +305,14 @@
       "onboard_time": 1718538378,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440565,
+      "num": 440565,
+      "word": "惠英红看刘亦菲的眼神",
+      "onboard_time": 1718599460,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 436131,
@@ -427,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331657,
+      "num": 331657,
+      "word": "丁真不吃番茄但吃番茄炒蛋",
+      "onboard_time": 1718595617,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 330169,
       "num": 330169,
       "word": "枭起青壤首发剧照",
@@ -451,12 +507,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 304107,
-      "num": 304107,
-      "word": "丁真不吃番茄但吃番茄炒蛋",
-      "onboard_time": 1718595617,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 304489,
+      "num": 304489,
+      "word": "谋女郎和谋男郎坐一起了",
+      "onboard_time": 1718599760,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 300250,
@@ -483,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 292129,
-      "num": 292129,
-      "word": "姐妹俩一起开小饭馆同时确诊肺癌",
-      "onboard_time": 1718597538,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290129,
       "num": 290129,
       "word": "张雨绮戴的戒指是会动的蝴蝶",
@@ -505,14 +553,6 @@
       "onboard_time": 1718590817,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281736,
-      "num": 281736,
-      "word": "传宁德时代施行896工作制",
-      "onboard_time": 1718598559,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 272935,
@@ -531,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267817,
+      "num": 234357,
+      "word": "玫瑰的亲事倒数第一竞争激烈",
+      "onboard_time": 1718601437,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 266584,
+      "num": 266584,
+      "word": "日本文科生就业率达到97.1%",
+      "onboard_time": 1718600779,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264237,
       "num": 264237,
       "word": "金俊勉不知情CBX打官司的事情",
@@ -545,14 +601,6 @@
       "onboard_time": 1718598079,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 247398,
-      "num": 247398,
-      "word": "暑期档唯一灾难大片来了",
-      "onboard_time": 1718598618,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 246061,
@@ -600,6 +648,22 @@
       "word": "女帝来了也得加班",
       "onboard_time": 1718597900,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230057,
+      "num": 230057,
+      "word": "林更新回应和网友互怼",
+      "onboard_time": 1718599099,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224831,
+      "num": 224831,
+      "word": "优酷客服回应墨雨云间减更",
+      "onboard_time": 1718600837,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -651,6 +715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 212368,
+      "num": 212368,
+      "word": "陈奕迅演唱会佛山站延期",
+      "onboard_time": 1718599279,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211400,
       "num": 209136,
       "word": "薛芳菲勇敢飞萧蘅永相随",
@@ -683,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197583,
+      "num": 197583,
+      "word": "汪峰参与那英我是歌手选歌",
+      "onboard_time": 1718601379,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194027,
       "num": 194027,
       "word": "王星越看得出他是公主",
@@ -697,6 +777,14 @@
       "onboard_time": 1718584338,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 190705,
+      "num": 190705,
+      "word": "刘亦菲万茜朱珠 亦万头朱",
+      "onboard_time": 1718600419,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 190606,
@@ -739,6 +827,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185026,
+      "num": 185026,
+      "word": "马嘉祺 蜉蝣",
+      "onboard_time": 1718599639,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 184336,
+      "num": 184336,
+      "word": "Jennie开通TikTok",
+      "onboard_time": 1718599219,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183744,
       "num": 183744,
       "word": "东极岛 朱一龙吴磊",
@@ -777,6 +881,14 @@
       "onboard_time": 1718598500,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 174227,
+      "num": 174227,
+      "word": "孙丞潇真能做53天饭不重样",
+      "onboard_time": 1718600119,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 174130,
@@ -883,6 +995,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 157208,
+      "num": 169403,
+      "word": "像极了我刚旅游回来的样子",
+      "onboard_time": 1718600958,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 155485,
       "num": 126878,
       "word": "优酷 排播",
@@ -915,6 +1035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154469,
+      "num": 154469,
+      "word": "恋与深空",
+      "onboard_time": 1718600539,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 152910,
+      "num": 152910,
+      "word": "逼疯季淑然只要一个薛芳菲",
+      "onboard_time": 1718600539,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152007,
       "num": 152007,
       "word": "檀健次谈最爱的秀场单品",
@@ -929,6 +1065,14 @@
       "onboard_time": 1718579355,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144535,
+      "num": 144535,
+      "word": "北京高考已有满分作文备选",
+      "onboard_time": 1718600837,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 140061,
@@ -1211,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80113,
+      "num": 214681,
+      "word": "姜萍挑战自我的精神是当代青年榜样",
+      "onboard_time": 1718601679,
+      "rank": 29,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 77106,
       "num": 77106,
       "word": "中国女排总决赛战日本女排",
@@ -1353,6 +1505,14 @@
       "onboard_time": 1718561472,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31388,
+      "num": 305792,
+      "word": "120秒回顾姜萍逆袭之路",
+      "onboard_time": 1718599939,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25143,
