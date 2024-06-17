@@ -1,10 +1,10 @@
 {
   "startTime": 1718554931809,
-  "endTime": 1718595424519,
+  "endTime": 1718598246770,
   "band_list": [
     {
       "raw_hot": 1842501,
-      "num": 858541,
+      "num": 915912,
       "word": "工人排水口小便后捞出死鸭送车间",
       "onboard_time": 1718592137,
       "rank": 38,
@@ -15,6 +15,14 @@
       "num": 1714608,
       "word": "姜萍中考621分却上中专的原因",
       "onboard_time": 1718550441,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1330236,
+      "num": 1330236,
+      "word": "姜萍4月份总成绩年级第一",
+      "onboard_time": 1718595617,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1118593,
-      "num": 262473,
+      "num": 285864,
       "word": "有了微信小号才发现朋友圈的意义",
       "onboard_time": 1718583919,
       "rank": 21,
@@ -75,8 +83,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 911719,
+      "num": 911719,
+      "word": "墨雨云间 爽剧不爽了",
+      "onboard_time": 1718594898,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 908377,
-      "num": 261000,
+      "num": 285728,
       "word": "长期吃辣的人更容易得胃癌吗",
       "onboard_time": 1718550560,
       "rank": 20,
@@ -131,6 +147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 610544,
+      "num": 610544,
+      "word": "玫瑰的故事看生气了",
+      "onboard_time": 1718595257,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565271,
       "num": 565271,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -145,6 +169,14 @@
       "onboard_time": 1718581996,
       "rank": 4,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 554157,
+      "num": 554157,
+      "word": "B太曝光司机拉客去西湖龙井产区乱象",
+      "onboard_time": 1718594957,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 535667,
@@ -180,7 +212,7 @@
     },
     {
       "raw_hot": 510872,
-      "num": 223968,
+      "num": 254517,
       "word": "毕业月薪六七千我妈说我要求低",
       "onboard_time": 1718552658,
       "rank": 22,
@@ -235,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436131,
+      "num": 436131,
+      "word": "吓倪妮的是惠英红",
+      "onboard_time": 1718596458,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 432070,
       "num": 432070,
       "word": "倪妮 说人话吗",
@@ -249,6 +289,14 @@
       "onboard_time": 1718560453,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 420516,
+      "num": 420516,
+      "word": "Doinb回应冰岛事件",
+      "onboard_time": 1718596817,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 413853,
@@ -291,6 +339,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 379760,
+      "num": 379760,
+      "word": "赵丽颖栗子妆",
+      "onboard_time": 1718595138,
+      "rank": 30,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 371393,
       "num": 371393,
       "word": "20元乳胶枕加个枕套敢卖1000元",
@@ -323,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357741,
+      "num": 285601,
+      "word": "狗不嫌家贫但嫌家热",
+      "onboard_time": 1718592617,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 353348,
       "num": 353348,
       "word": "中方管制非法闯仁爱礁海域的菲船只",
@@ -337,14 +401,6 @@
       "onboard_time": 1718582776,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350477,
-      "num": 350477,
-      "word": "墨雨云间 爽剧不爽了",
-      "onboard_time": 1718594898,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 345501,
@@ -379,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322910,
-      "num": 197497,
-      "word": "狗不嫌家贫但嫌家热",
-      "onboard_time": 1718592617,
-      "rank": 23,
-      "category": "幽默"
+      "raw_hot": 319169,
+      "num": 319169,
+      "word": "初级会计查成绩",
+      "onboard_time": 1718594417,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 307390,
@@ -401,6 +457,14 @@
       "onboard_time": 1718584518,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298235,
+      "num": 298235,
+      "word": "闪耀暖暖红楼梦",
+      "onboard_time": 1718597178,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 297753,
@@ -427,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279157,
+      "num": 279157,
+      "word": "丁真不吃番茄但吃番茄炒蛋",
+      "onboard_time": 1718595617,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272935,
       "num": 272935,
       "word": "狗狗偷偷戴上了奶奶的假牙",
@@ -441,14 +513,6 @@
       "onboard_time": 1718591117,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 262328,
-      "num": 262328,
-      "word": "初级会计查成绩",
-      "onboard_time": 1718594417,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 246061,
@@ -500,7 +564,7 @@
     },
     {
       "raw_hot": 220786,
-      "num": 187895,
+      "num": 197826,
       "word": "这个颜色的染发剂最危险",
       "onboard_time": 1718594417,
       "rank": 30,
@@ -513,6 +577,14 @@
       "onboard_time": 1718591057,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 216660,
+      "num": 216660,
+      "word": "闪耀暖暖",
+      "onboard_time": 1718596878,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 214981,
@@ -545,6 +617,14 @@
       "onboard_time": 1718576651,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205611,
+      "num": 204510,
+      "word": "姐妹俩一起开小饭馆同时确诊肺癌",
+      "onboard_time": 1718597538,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205413,
@@ -611,12 +691,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 183667,
-      "num": 170249,
-      "word": "赵丽颖栗子妆",
-      "onboard_time": 1718595138,
-      "rank": 30,
-      "category": "作品衍生,艺人"
+      "raw_hot": 185349,
+      "num": 185349,
+      "word": "黄文秀牺牲前给家人发的信息",
+      "onboard_time": 1718595557,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183085,
@@ -651,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173783,
+      "num": 173783,
+      "word": "东极岛 朱一龙吴磊",
+      "onboard_time": 1718596938,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172793,
       "num": 127436,
       "word": "丁真居然白了",
@@ -665,6 +753,22 @@
       "onboard_time": 1718591717,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 171336,
+      "num": 171336,
+      "word": "女帝来了也得加班",
+      "onboard_time": 1718597900,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170585,
+      "num": 170585,
+      "word": "小米扫地机器人自燃引发火灾",
+      "onboard_time": 1718592856,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 169716,
@@ -699,22 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166574,
-      "num": 166574,
-      "word": "小米扫地机器人自燃引发火灾",
-      "onboard_time": 1718592856,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 163829,
-      "num": 163829,
-      "word": "B太曝光司机拉客去西湖龙井产区乱象",
-      "onboard_time": 1718594957,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162101,
       "num": 162101,
       "word": "小女孩带德牧上门吵架",
@@ -729,6 +817,14 @@
       "onboard_time": 1718529798,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159875,
+      "num": 159875,
+      "word": "中国跑酷元老心脏病去世年仅39岁",
+      "onboard_time": 1718594597,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159825,
@@ -755,12 +851,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155100,
+      "num": 155100,
+      "word": "薛芳菲报仇位轮到前夫哥了",
+      "onboard_time": 1718595857,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154801,
       "num": 154801,
       "word": "胡歌易烊千玺背影同框",
       "onboard_time": 1718583678,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152151,
+      "num": 152151,
+      "word": "玫瑰的故事 祛魅",
+      "onboard_time": 1718598079,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 152007,
@@ -779,28 +891,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 145439,
-      "num": 145439,
-      "word": "玫瑰的故事看生气了",
-      "onboard_time": 1718595257,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 142488,
-      "num": 142488,
-      "word": "中国跑酷元老心脏病去世年仅39岁",
-      "onboard_time": 1718594597,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140061,
       "num": 140061,
       "word": "乳胶枕头投诉量直线飙升",
       "onboard_time": 1718571971,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137334,
+      "num": 137334,
+      "word": "超级存存 认真微笑",
+      "onboard_time": 1718595557,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 136063,
@@ -1027,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 92819,
+      "num": 917702,
+      "word": "2000年前的简历怎么写",
+      "onboard_time": 1718596817,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90804,
       "num": 90804,
       "word": "波兰1比2荷兰",
@@ -1139,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49961,
+      "num": 465013,
+      "word": "檀健次米兰秀场穿搭",
+      "onboard_time": 1718594058,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 48698,
       "num": 268208,
       "word": "京东超级惊喜红包3800元",
@@ -1177,14 +1297,6 @@
       "onboard_time": 1718558474,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 33556,
-      "num": 171412,
-      "word": "檀健次米兰秀场穿搭",
-      "onboard_time": 1718594058,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 32855,
@@ -1259,6 +1371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 15541,
+      "num": 153578,
+      "word": "微博电影之夜电影感大片",
+      "onboard_time": 1718597599,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 13967,
       "num": 16487,
       "word": "老头杯决赛",
@@ -1302,6 +1422,9 @@
   "hotgov_list": [
     {
       "word": "#深深父子情拳拳公仆心#"
+    },
+    {
+      "word": "#加强荒漠化治理和湿地保护#"
     }
   ]
 }

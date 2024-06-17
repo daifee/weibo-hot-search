@@ -1,0 +1,410 @@
+{
+  "runTime": 1718598246770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1330236,
+        "num": 1330236,
+        "word": "姜萍4月份总成绩年级第一",
+        "onboard_time": 1718595617,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924384,
+        "num": 924384,
+        "word": "记者卧底鸭肠鹅肠工厂",
+        "onboard_time": 1718588596,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92819,
+        "num": 917702,
+        "word": "2000年前的简历怎么写",
+        "onboard_time": 1718596817,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1617873,
+        "num": 915912,
+        "word": "工人排水口小便后捞出死鸭送车间",
+        "onboard_time": 1718592137,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911719,
+        "num": 911719,
+        "word": "墨雨云间 爽剧不爽了",
+        "onboard_time": 1718594898,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 733811,
+        "num": 733811,
+        "word": "刘浩存周也 你快笑啊在拍了",
+        "onboard_time": 1718590097,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 619276,
+        "num": 619276,
+        "word": "张杰张若昀两个女儿奴",
+        "onboard_time": 1718590398,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 610544,
+        "num": 610544,
+        "word": "玫瑰的故事看生气了",
+        "onboard_time": 1718595257,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554157,
+        "num": 554157,
+        "word": "B太曝光司机拉客去西湖龙井产区乱象",
+        "onboard_time": 1718594957,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40756,
+        "num": 506959,
+        "word": "跨越时空的6月17日",
+        "onboard_time": 1718592377,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49961,
+        "num": 465013,
+        "word": "檀健次米兰秀场穿搭",
+        "onboard_time": 1718594058,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 459988,
+        "num": 459988,
+        "word": "姜萍中考621分却上中专的原因",
+        "onboard_time": 1718550441,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436131,
+        "num": 436131,
+        "word": "吓倪妮的是惠英红",
+        "onboard_time": 1718596458,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 420516,
+        "num": 420516,
+        "word": "Doinb回应冰岛事件",
+        "onboard_time": 1718596817,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 406939,
+        "num": 406939,
+        "word": "男生洗澡有了自己第一篇SCI",
+        "onboard_time": 1718584698,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379760,
+        "num": 379760,
+        "word": "赵丽颖栗子妆",
+        "onboard_time": 1718595138,
+        "rank": 15,
+        "category": "作品衍生,艺人"
+      },
+      {
+        "raw_hot": 346764,
+        "num": 346764,
+        "word": "韩国年轻人开始流行不看脸约会",
+        "onboard_time": 1718588297,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319169,
+        "num": 319169,
+        "word": "初级会计查成绩",
+        "onboard_time": 1718594417,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298235,
+        "num": 298235,
+        "word": "闪耀暖暖红楼梦",
+        "onboard_time": 1718597178,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 286250,
+        "num": 286250,
+        "word": "倪妮 高叶你好烦呐",
+        "onboard_time": 1718592736,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 518714,
+        "num": 285864,
+        "word": "有了微信小号才发现朋友圈的意义",
+        "onboard_time": 1718583919,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 515727,
+        "num": 285728,
+        "word": "长期吃辣的人更容易得胃癌吗",
+        "onboard_time": 1718550560,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 357741,
+        "num": 285601,
+        "word": "狗不嫌家贫但嫌家热",
+        "onboard_time": 1718592617,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285210,
+        "num": 285210,
+        "word": "中考生称姜萍的学校是最好的中专",
+        "onboard_time": 1718590217,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279157,
+        "num": 279157,
+        "word": "丁真不吃番茄但吃番茄炒蛋",
+        "onboard_time": 1718595617,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254517,
+        "num": 254517,
+        "word": "毕业月薪六七千我妈说我要求低",
+        "onboard_time": 1718552658,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242650,
+        "num": 242650,
+        "word": "东极岛",
+        "onboard_time": 1718589556,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216660,
+        "num": 216660,
+        "word": "闪耀暖暖",
+        "onboard_time": 1718596878,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210731,
+        "num": 210731,
+        "word": "巴勒斯坦儿童举弹药质问美国人",
+        "onboard_time": 1718588117,
+        "rank": 28,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 205330,
+        "num": 205330,
+        "word": "老粉都没认出黄晓明",
+        "onboard_time": 1718590817,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205611,
+        "num": 204510,
+        "word": "姐妹俩一起开小饭馆同时确诊肺癌",
+        "onboard_time": 1718597538,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198679,
+        "num": 198679,
+        "word": "金莎夸陈乔恩恶毒后妈演得好",
+        "onboard_time": 1718591117,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197826,
+        "num": 197826,
+        "word": "这个颜色的染发剂最危险",
+        "onboard_time": 1718594417,
+        "rank": 32,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 185349,
+        "num": 185349,
+        "word": "黄文秀牺牲前给家人发的信息",
+        "onboard_time": 1718595557,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183169,
+        "num": 183169,
+        "word": "铁血丹心开播",
+        "onboard_time": 1718593877,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173783,
+        "num": 173783,
+        "word": "东极岛 朱一龙吴磊",
+        "onboard_time": 1718596938,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171336,
+        "num": 171336,
+        "word": "女帝来了也得加班",
+        "onboard_time": 1718597900,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170585,
+        "num": 170585,
+        "word": "小米扫地机器人自燃引发火灾",
+        "onboard_time": 1718592856,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159875,
+        "num": 159875,
+        "word": "中国跑酷元老心脏病去世年仅39岁",
+        "onboard_time": 1718594597,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155100,
+        "num": 155100,
+        "word": "薛芳菲报仇位轮到前夫哥了",
+        "onboard_time": 1718595857,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15541,
+        "num": 153578,
+        "word": "微博电影之夜电影感大片",
+        "onboard_time": 1718597599,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152151,
+        "num": 152151,
+        "word": "玫瑰的故事 祛魅",
+        "onboard_time": 1718598079,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149280,
+        "num": 149280,
+        "word": "中国海警发声",
+        "onboard_time": 1718580916,
+        "rank": 42,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 145071,
+        "num": 145071,
+        "word": "枭起青壤首发剧照",
+        "onboard_time": 1718591117,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139750,
+        "num": 139750,
+        "word": "刘诗诗掌心杀青逆应援",
+        "onboard_time": 1718594657,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137334,
+        "num": 137334,
+        "word": "超级存存 认真微笑",
+        "onboard_time": 1718595557,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135609,
+        "num": 135609,
+        "word": "老师回应姜萍竞赛名次比自己高",
+        "onboard_time": 1718580315,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131063,
+        "num": 131063,
+        "word": "朴彩英签约Teddy厂牌",
+        "onboard_time": 1718589138,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124890,
+        "num": 124890,
+        "word": "20至40岁男性人口比女性多1752万人",
+        "onboard_time": 1718584518,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124613,
+        "num": 124613,
+        "word": "想去林更新微博说两句但我骂不过他",
+        "onboard_time": 1718550739,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加强荒漠化治理和湿地保护#"
+    }
+  }
+}
