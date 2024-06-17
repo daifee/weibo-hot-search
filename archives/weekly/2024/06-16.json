@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718655492305,
+  "endTime": 1718656488241,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -6644,7 +6644,7 @@
     },
     {
       "raw_hot": 21730,
-      "num": 17453,
+      "num": 18846,
       "word": "牛津朱朱 自学数学的可行性",
       "onboard_time": 1718653391,
       "rank": 30,
@@ -6657,6 +6657,14 @@
       "onboard_time": 1718597599,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21681,
+      "num": 21681,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 21593,
@@ -6705,14 +6713,6 @@
       "onboard_time": 1718607257,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17453,
-      "num": 17453,
-      "word": "果然生女儿就是用来打扮的",
-      "onboard_time": 1718654650,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 17122,
@@ -6811,12 +6811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 12392,
+      "num": 18802,
+      "word": "黄宣女装",
+      "onboard_time": 1718656450,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12255,
       "num": 78349,
       "word": "校书记走下主席台为残疾毕业生拨穗",
       "onboard_time": 1718559132,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12228,
+      "num": 18797,
+      "word": "红豆薏米水真的可以祛湿吗",
+      "onboard_time": 1718656270,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 11899,
