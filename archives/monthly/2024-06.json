@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718592473948,
+  "endTime": 1718594577534,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1089,6 +1089,14 @@
       "onboard_time": 1718374524,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1562747,
+      "num": 808880,
+      "word": "工人排水口小便后捞出死鸭送车间",
+      "onboard_time": 1718592137,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1562114,
@@ -3035,8 +3043,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1002099,
-      "num": 1002099,
+      "raw_hot": 1004640,
+      "num": 1004640,
       "word": "刘浩存周也 你快笑啊在拍了",
       "onboard_time": 1718590097,
       "rank": 3,
@@ -4641,6 +4649,14 @@
       "onboard_time": 1717254799,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 758858,
+      "num": 758858,
+      "word": "张杰张若昀两个女儿奴",
+      "onboard_time": 1718590398,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 757625,
@@ -6249,14 +6265,6 @@
       "onboard_time": 1718371403,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 646533,
-      "num": 362144,
-      "word": "张杰张若昀两个女儿奴",
-      "onboard_time": 1718590398,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 646407,
@@ -9659,6 +9667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473441,
+      "num": 473441,
+      "word": "中考生称姜萍的学校是最好的中专",
+      "onboard_time": 1718590217,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 473114,
       "num": 473114,
       "word": "奔驰宝马大众表态",
@@ -11593,6 +11609,14 @@
       "onboard_time": 1717757418,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410107,
+      "num": 410107,
+      "word": "倪妮 高叶你好烦呐",
+      "onboard_time": 1718592736,
+      "rank": 11,
+      "category": "电影"
     },
     {
       "raw_hot": 410047,
@@ -14459,6 +14483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330169,
+      "num": 330169,
+      "word": "枭起青壤首发剧照",
+      "onboard_time": 1718591117,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 330138,
       "num": 330138,
       "word": "战至巅峰",
@@ -14736,14 +14768,6 @@
       "word": "杨幂工作室抠图",
       "onboard_time": 1717977676,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 322444,
-      "num": 322444,
-      "word": "枭起青壤首发剧照",
-      "onboard_time": 1718591117,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -17971,12 +17995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259790,
+      "num": 259790,
+      "word": "金莎夸陈乔恩恶毒后妈演得好",
+      "onboard_time": 1718591117,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259745,
       "num": 259745,
       "word": "易烊千玺奢牌待遇",
       "onboard_time": 1718508738,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259468,
+      "num": 197497,
+      "word": "狗不嫌家贫但嫌家热",
+      "onboard_time": 1718592617,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 259449,
@@ -18763,6 +18803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246061,
+      "num": 197325,
+      "word": "铁血丹心开播",
+      "onboard_time": 1718593877,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246058,
       "num": 231955,
       "word": "为什么有的药片上有刻痕",
@@ -18809,14 +18857,6 @@
       "onboard_time": 1717374979,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 245461,
-      "num": 245461,
-      "word": "中考生称姜萍的学校是最好的中专",
-      "onboard_time": 1718590217,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 245340,
@@ -19081,14 +19121,6 @@
       "onboard_time": 1718583438,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241110,
-      "num": 229019,
-      "word": "金莎夸陈乔恩恶毒后妈演得好",
-      "onboard_time": 1718591117,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 241044,
@@ -25035,6 +25067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190606,
+      "num": 190606,
+      "word": "陈乔恩录制跑男",
+      "onboard_time": 1718591657,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190528,
       "num": 190528,
       "word": "肖战工作室新注册商标",
@@ -25481,6 +25521,14 @@
       "onboard_time": 1717830379,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187895,
+      "num": 187895,
+      "word": "这个颜色的染发剂最危险",
+      "onboard_time": 1718594417,
+      "rank": 30,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 187876,
@@ -26228,7 +26276,7 @@
     },
     {
       "raw_hot": 183085,
-      "num": 154637,
+      "num": 155858,
       "word": "肖战晒与爸爸妈妈背影照",
       "onboard_time": 1718589317,
       "rank": 33,
@@ -28387,6 +28435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168464,
+      "num": 168464,
+      "word": "死侍与金刚狼定档",
+      "onboard_time": 1718593218,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168461,
       "num": 168461,
       "word": "鹿晗泼水节欧豪欧豪的喊",
@@ -28571,6 +28627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167296,
+      "num": 167296,
+      "word": "枭起青壤",
+      "onboard_time": 1718592317,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167282,
       "num": 167282,
       "word": "林娜琏签了370张拍立得送给粉丝",
@@ -28721,6 +28785,14 @@
       "onboard_time": 1718162658,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166574,
+      "num": 166574,
+      "word": "小米扫地机器人自燃引发火灾",
+      "onboard_time": 1718592856,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166569,
@@ -29200,14 +29272,6 @@
       "word": "张钰琪是胡海泉的学生",
       "onboard_time": 1717807877,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 163471,
-      "num": 163471,
-      "word": "陈乔恩录制跑男",
-      "onboard_time": 1718591657,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -30995,14 +31059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154054,
-      "num": 154054,
-      "word": "枭起青壤",
-      "onboard_time": 1718592317,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153962,
       "num": 153962,
       "word": "万茜的伤疤",
@@ -31257,14 +31313,6 @@
       "onboard_time": 1717237037,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152330,
-      "num": 152330,
-      "word": "工人排水口小便后捞出死鸭送车间",
-      "onboard_time": 1718592137,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152280,
@@ -35059,6 +35107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132143,
+      "num": 132143,
+      "word": "初级会计查成绩",
+      "onboard_time": 1718594417,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 132138,
       "num": 132138,
       "word": "孟子义血泪镜头",
@@ -36891,6 +36947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123757,
+      "num": 123757,
+      "word": "黄健翔说穿蓝色球衣指定不会错",
+      "onboard_time": 1718594118,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123735,
       "num": 123735,
       "word": "吴镇宇和陈楚生唱了两遍友情岁月",
@@ -37537,6 +37601,14 @@
       "onboard_time": 1718028438,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 120120,
+      "num": 368581,
+      "word": "哪些专业误解让你哭笑不得",
+      "onboard_time": 1718591177,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119940,
@@ -40131,6 +40203,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 105546,
+      "num": 415301,
+      "word": "年轻人双标消费行为大赏",
+      "onboard_time": 1718593158,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105414,
       "num": 105414,
       "word": "小猫咪也很讨厌下雨",
@@ -41577,14 +41657,6 @@
       "onboard_time": 1718276120,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91016,
-      "num": 368581,
-      "word": "哪些专业误解让你哭笑不得",
-      "onboard_time": 1718591177,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 90955,
@@ -47027,6 +47099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26862,
+      "num": 128242,
+      "word": "檀健次米兰秀场穿搭",
+      "onboard_time": 1718594058,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 26837,
       "num": 464598,
       "word": "姜萍不放弃的精神比成绩更可贵",
@@ -48529,6 +48609,14 @@
       "onboard_time": 1717178233,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 6343,
+      "num": 103684,
+      "word": "燕子你知道多少人在等你演唱会吗",
+      "onboard_time": 1718594477,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 6194,
