@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718616877000,
+  "endTime": 1718619734305,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -379,6 +379,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 949872,
+      "num": 949872,
+      "word": "养老金",
+      "onboard_time": 1718615898,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 936054,
+      "num": 936054,
+      "word": "丈夫替怀孕妻子辞职合理吗",
+      "onboard_time": 1718617396,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 909842,
       "num": 909842,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -431,6 +447,14 @@
       "num": 842382,
       "word": "疑似外国人起飞时偷拍军民合用机场",
       "onboard_time": 1718516177,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 836478,
+      "num": 836478,
+      "word": "男子误机花6000从天津打车到西安",
+      "onboard_time": 1718617158,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -513,6 +537,14 @@
       "onboard_time": 1718601437,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 734023,
+      "num": 734023,
+      "word": "王者荣耀安琪拉",
+      "onboard_time": 1718616558,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 720653,
@@ -692,7 +724,7 @@
     },
     {
       "raw_hot": 607067,
-      "num": 228964,
+      "num": 234861,
       "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
       "onboard_time": 1718612178,
       "rank": 37,
@@ -1041,14 +1073,6 @@
       "onboard_time": 1718528058,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 465071,
-      "num": 465071,
-      "word": "养老金",
-      "onboard_time": 1718615898,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462555,
@@ -1603,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336988,
+      "num": 336988,
+      "word": "秦昊问金靖什么时候生",
+      "onboard_time": 1718618178,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335105,
       "num": 283946,
       "word": "十个勤天短袖",
@@ -2083,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238082,
+      "num": 233818,
+      "word": "邓超体检身体年龄仅27岁",
+      "onboard_time": 1718618417,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236922,
       "num": 157897,
       "word": "吴谨言上了郝蕾表演课后逆袭",
@@ -2113,6 +2153,14 @@
       "onboard_time": 1718462720,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230166,
+      "num": 230166,
+      "word": "罗云熙美依礼芽极乐净土",
+      "onboard_time": 1718619017,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 230057,
@@ -2217,14 +2265,6 @@
       "onboard_time": 1718594417,
       "rank": 30,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 220616,
-      "num": 220616,
-      "word": "王者荣耀安琪拉",
-      "onboard_time": 1718616558,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 220526,
@@ -2451,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202764,
+      "num": 202764,
+      "word": "湖南卫视开心夜节目单",
+      "onboard_time": 1718618898,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201593,
       "num": 201593,
       "word": "陈丽君刘忻亚比囧囧囧直拍",
@@ -2611,6 +2659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 193106,
+      "num": 193106,
+      "word": "易烊千玺晚宴侧拍",
+      "onboard_time": 1718619557,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 192460,
       "num": 192460,
       "word": "少年白马醉春风预约人数破百万",
@@ -2755,6 +2811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186276,
+      "num": 186276,
+      "word": "东极岛再不官宣粉丝快宣完了",
+      "onboard_time": 1718617337,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185806,
       "num": 185806,
       "word": "去相亲对象家吃饭发现是父亲节",
@@ -2833,6 +2897,14 @@
       "onboard_time": 1718533818,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182028,
+      "num": 182028,
+      "word": "教育部首次上线高考志愿信息系统",
+      "onboard_time": 1718618298,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 181112,
@@ -3075,6 +3147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167987,
+      "num": 167987,
+      "word": "大学生养4年猪后当上实习熊猫饲养员",
+      "onboard_time": 1718618476,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167431,
       "num": 167431,
       "word": "惠英红宋佳马丽高叶 捡亮片套娃",
@@ -3105,6 +3185,14 @@
       "onboard_time": 1718609297,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166085,
+      "num": 166085,
+      "word": "华晨宇开心夜彩排路透",
+      "onboard_time": 1718618657,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 165929,
@@ -3171,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162289,
+      "num": 162289,
+      "word": "西瓜价格为何一路走低",
+      "onboard_time": 1718616497,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 162101,
       "num": 162101,
       "word": "小女孩带德牧上门吵架",
@@ -3179,12 +3275,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161690,
+      "num": 273569,
+      "word": "金庸笔下绝世飞瀑8年后再次泄洪",
+      "onboard_time": 1718619377,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161200,
       "num": 161200,
       "word": "短剧已经开始新的剧情赛道",
       "onboard_time": 1718598500,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161157,
+      "num": 161157,
+      "word": "马斯克称未来将不再需要手机",
+      "onboard_time": 1718616917,
+      "rank": 36,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 160291,
@@ -3232,6 +3344,14 @@
       "word": "季淑然剁父亲手臂有两版剧本",
       "onboard_time": 1718526017,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158891,
+      "num": 158891,
+      "word": "王星越叼玉佩镜头加一",
+      "onboard_time": 1718619497,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -3435,14 +3555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147866,
-      "num": 147866,
-      "word": "西瓜价格为何一路走低",
-      "onboard_time": 1718616497,
-      "rank": 32,
-      "category": "财经"
-    },
-    {
       "raw_hot": 147604,
       "num": 147604,
       "word": "社工考试",
@@ -3545,6 +3657,14 @@
       "onboard_time": 1718526858,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141073,
+      "num": 132835,
+      "word": "王星越开始用袋子收信了",
+      "onboard_time": 1718619138,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 140774,
@@ -3827,6 +3947,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 130713,
+      "num": 130713,
+      "word": "王一博黑白侧拍",
+      "onboard_time": 1718618956,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130576,
       "num": 130576,
       "word": "TheShy诡术薇恩",
@@ -3969,6 +4097,14 @@
       "onboard_time": 1718534119,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127341,
+      "num": 127341,
+      "word": "尹净汉全圆佑新歌thisman",
+      "onboard_time": 1718618118,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 126524,
@@ -4161,6 +4297,14 @@
       "onboard_time": 1718533159,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119521,
+      "num": 119521,
+      "word": "玫瑰的故事 绝症哥",
+      "onboard_time": 1718619618,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 118834,
@@ -4756,7 +4900,7 @@
     },
     {
       "raw_hot": 76662,
-      "num": 827633,
+      "num": 936701,
       "word": "遭遇暴雨雷电天气如何保证自身安全",
       "onboard_time": 1718615118,
       "rank": 2,
@@ -5091,6 +5235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 42125,
+      "num": 133291,
+      "word": "重庆背篓专线将延长30分钟运营时间",
+      "onboard_time": 1718619138,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42120,
       "num": 46423,
       "word": "aespa被清票两万",
@@ -5329,6 +5481,14 @@
       "onboard_time": 1718467338,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26140,
+      "num": 194589,
+      "word": "618我大大方方省了很多钱",
+      "onboard_time": 1718618657,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 25395,
