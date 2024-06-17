@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718651727595,
+  "endTime": 1718652880321,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -49259,6 +49259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28092,
+      "num": 28092,
+      "word": "陈乔恩告别墨雨云间",
+      "onboard_time": 1718649971,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27777,
       "num": 201394,
       "word": "刘雨昕蜻蜓刺绣V领西装",
@@ -49553,14 +49561,6 @@
       "onboard_time": 1717711752,
       "rank": 46,
       "category": "教育"
-    },
-    {
-      "raw_hot": 24738,
-      "num": 24738,
-      "word": "陈乔恩告别墨雨云间",
-      "onboard_time": 1718649971,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 24568,

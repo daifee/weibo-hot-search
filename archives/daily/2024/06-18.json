@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718651727595,
+  "endTime": 1718652880321,
   "band_list": [
     {
       "raw_hot": 780562,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28092,
+      "num": 28092,
+      "word": "陈乔恩告别墨雨云间",
+      "onboard_time": 1718649971,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27378,
       "num": 389303,
       "word": "教育部首次上线高考志愿信息系统",
@@ -473,14 +481,6 @@
       "onboard_time": 1718648593,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24738,
-      "num": 24738,
-      "word": "陈乔恩告别墨雨云间",
-      "onboard_time": 1718649971,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 24081,
