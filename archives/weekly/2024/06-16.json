@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718662665520,
+  "endTime": 1718663712701,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -1499,6 +1499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 407608,
+      "num": 407608,
+      "word": "医生提醒尽量不要生吃海鲜和肉",
+      "onboard_time": 1718643434,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 404663,
       "num": 404663,
       "word": "周也和六公主碰拳",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1718507537,
       "rank": 16,
       "category": "教育"
-    },
-    {
-      "raw_hot": 322647,
-      "num": 322647,
-      "word": "医生提醒尽量不要生吃海鲜和肉",
-      "onboard_time": 1718643434,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 321394,
@@ -2809,6 +2809,14 @@
       "onboard_time": 1718633059,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209938,
+      "num": 209938,
+      "word": "红豆薏米水真的可以祛湿吗",
+      "onboard_time": 1718656270,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 209597,
@@ -5651,14 +5659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 88399,
-      "num": 88399,
-      "word": "红豆薏米水真的可以祛湿吗",
-      "onboard_time": 1718656270,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 87451,
       "num": 87451,
       "word": "师生十年后相聚歌手双双离场",
@@ -6059,6 +6059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57201,
+      "num": 57201,
+      "word": "黄宣女装",
+      "onboard_time": 1718656450,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57175,
       "num": 59475,
       "word": "排球少年电影",
@@ -6195,6 +6203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45641,
+      "num": 45641,
+      "word": "王珞丹包臀花瓶裙",
+      "onboard_time": 1718658370,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 44467,
       "num": 76550,
       "word": "邓紫棋青岛现场",
@@ -6281,14 +6297,6 @@
       "onboard_time": 1718538737,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41439,
-      "num": 41439,
-      "word": "黄宣女装",
-      "onboard_time": 1718656450,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 40614,
@@ -6435,12 +6443,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 33369,
-      "num": 33369,
-      "word": "王珞丹包臀花瓶裙",
-      "onboard_time": 1718658370,
-      "rank": 38,
-      "category": "作品衍生,时尚"
+      "raw_hot": 32992,
+      "num": 32992,
+      "word": "离职风工位说明无安全感",
+      "onboard_time": 1718662272,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 32900,
@@ -6515,6 +6523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30675,
+      "num": 30675,
+      "word": "我好像有旅游发朋友圈羞耻症",
+      "onboard_time": 1718661972,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 29893,
       "num": 306397,
       "word": "平常心对待姜萍不要过度造神",
@@ -6553,6 +6569,14 @@
       "onboard_time": 1718516356,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28202,
+      "num": 28202,
+      "word": "无能领导的10个特征",
+      "onboard_time": 1718661552,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 28193,
@@ -6651,6 +6675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22950,
+      "num": 27285,
+      "word": "牛津朱朱 自学数学的可行性",
+      "onboard_time": 1718653391,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 22893,
       "num": 27075,
       "word": "牛津Kate朱朱谈姜萍",
@@ -6667,8 +6699,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22466,
-      "num": 27149,
+      "raw_hot": 22545,
+      "num": 27285,
       "word": "东极岛官宣没有倪妮",
       "onboard_time": 1718649132,
       "rank": 46,
@@ -6681,22 +6713,6 @@
       "onboard_time": 1718511138,
       "rank": 21,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 21896,
-      "num": 27171,
-      "word": "无能领导的10个特征",
-      "onboard_time": 1718661552,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 21730,
-      "num": 27164,
-      "word": "牛津朱朱 自学数学的可行性",
-      "onboard_time": 1718653391,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 21724,
@@ -6729,22 +6745,6 @@
       "onboard_time": 1718519056,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20665,
-      "num": 27165,
-      "word": "我好像有旅游发朋友圈羞耻症",
-      "onboard_time": 1718661972,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 20296,
-      "num": 27159,
-      "word": "离职风工位说明无安全感",
-      "onboard_time": 1718662272,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 20293,
