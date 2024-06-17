@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718619734305,
+  "endTime": 1718620755637,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -235,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1148666,
+      "num": 1148666,
+      "word": "男子误机花6000从天津打车到西安",
+      "onboard_time": 1718617158,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1139762,
       "num": 656736,
       "word": "胡歌质问腾讯视频",
@@ -339,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 980180,
+      "num": 980180,
+      "word": "丈夫替怀孕妻子辞职合理吗",
+      "onboard_time": 1718617396,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 978163,
       "num": 978163,
       "word": "菲律宾",
@@ -385,14 +401,6 @@
       "onboard_time": 1718615898,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 936054,
-      "num": 936054,
-      "word": "丈夫替怀孕妻子辞职合理吗",
-      "onboard_time": 1718617396,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 909842,
@@ -447,14 +455,6 @@
       "num": 842382,
       "word": "疑似外国人起飞时偷拍军民合用机场",
       "onboard_time": 1718516177,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 836478,
-      "num": 836478,
-      "word": "男子误机花6000从天津打车到西安",
-      "onboard_time": 1718617158,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -1203,6 +1203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428018,
+      "num": 428018,
+      "word": "秦昊问金靖什么时候生",
+      "onboard_time": 1718618178,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 427934,
       "num": 427934,
       "word": "墨雨云间亲夫妻不算账",
@@ -1627,11 +1635,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 336988,
-      "num": 336988,
-      "word": "秦昊问金靖什么时候生",
-      "onboard_time": 1718618178,
-      "rank": 12,
+      "raw_hot": 338470,
+      "num": 338470,
+      "word": "邓超体检身体年龄仅27岁",
+      "onboard_time": 1718618417,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -2027,6 +2035,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 251391,
+      "num": 251391,
+      "word": "王星越叼玉佩镜头加一",
+      "onboard_time": 1718619497,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250991,
       "num": 197648,
       "word": "金晨一只袖子上有30颗珍珠",
@@ -2083,6 +2099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241110,
+      "num": 230166,
+      "word": "罗云熙美依礼芽极乐净土",
+      "onboard_time": 1718619017,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240686,
       "num": 194316,
       "word": "董力说我不能再这样忍受了我会爆炸的",
@@ -2115,14 +2139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238082,
-      "num": 233818,
-      "word": "邓超体检身体年龄仅27岁",
-      "onboard_time": 1718618417,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236922,
       "num": 157897,
       "word": "吴谨言上了郝蕾表演课后逆袭",
@@ -2153,14 +2169,6 @@
       "onboard_time": 1718462720,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230166,
-      "num": 230166,
-      "word": "罗云熙美依礼芽极乐净土",
-      "onboard_time": 1718619017,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 230057,
@@ -2289,6 +2297,14 @@
       "onboard_time": 1718464219,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218429,
+      "num": 218429,
+      "word": "教育部首次上线高考志愿信息系统",
+      "onboard_time": 1718618298,
+      "rank": 31,
+      "category": "教育"
     },
     {
       "raw_hot": 218325,
@@ -2483,20 +2499,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203367,
+      "num": 203367,
+      "word": "湖南卫视开心夜节目单",
+      "onboard_time": 1718618898,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203022,
       "num": 177643,
       "word": "热烈",
       "onboard_time": 1718541199,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202764,
-      "num": 202764,
-      "word": "湖南卫视开心夜节目单",
-      "onboard_time": 1718618898,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 201593,
@@ -2675,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192334,
+      "num": 192334,
+      "word": "楠火锅发布舌头变黑事件说明",
+      "onboard_time": 1718619978,
+      "rank": 26,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 191926,
       "num": 165764,
       "word": "于适拍掌俯卧撑",
@@ -2784,6 +2808,14 @@
       "word": "谁懂王星越吴谨言这段一走一跑",
       "onboard_time": 1718522476,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188093,
+      "num": 188093,
+      "word": "玫瑰的故事 绝症哥",
+      "onboard_time": 1718619618,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2899,14 +2931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182028,
-      "num": 182028,
-      "word": "教育部首次上线高考志愿信息系统",
-      "onboard_time": 1718618298,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 181112,
       "num": 157265,
       "word": "内蒙古一停工写字楼内发现遗体",
@@ -2945,6 +2969,14 @@
       "onboard_time": 1718591836,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178514,
+      "num": 178514,
+      "word": "RIIZE空降",
+      "onboard_time": 1718620517,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 178316,
@@ -3276,7 +3308,7 @@
     },
     {
       "raw_hot": 161690,
-      "num": 273569,
+      "num": 428511,
       "word": "金庸笔下绝世飞瀑8年后再次泄洪",
       "onboard_time": 1718619377,
       "rank": 16,
@@ -3344,14 +3376,6 @@
       "word": "季淑然剁父亲手臂有两版剧本",
       "onboard_time": 1718526017,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 158891,
-      "num": 158891,
-      "word": "王星越叼玉佩镜头加一",
-      "onboard_time": 1718619497,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -3491,6 +3515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152568,
+      "num": 152568,
+      "word": "王者荣耀 鸡爪流",
+      "onboard_time": 1718620217,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 152007,
       "num": 152007,
       "word": "檀健次谈最爱的秀场单品",
@@ -3595,6 +3627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146675,
+      "num": 146675,
+      "word": "王星越开始用袋子收信了",
+      "onboard_time": 1718619138,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146343,
       "num": 146343,
       "word": "微博电影之夜",
@@ -3659,20 +3699,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141073,
-      "num": 132835,
-      "word": "王星越开始用袋子收信了",
-      "onboard_time": 1718619138,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 140774,
       "num": 140774,
       "word": "林更新被问到跟刘亦菲感情戏时",
       "onboard_time": 1718608277,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140615,
+      "num": 140615,
+      "word": "快乐老友记 音综",
+      "onboard_time": 1718619857,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 140518,
@@ -3835,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133435,
+      "num": 133435,
+      "word": "真的建议报考北航计算机专业",
+      "onboard_time": 1718620336,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133407,
       "num": 133407,
       "word": "男朋友手滑把消息发到了宿舍群里",
@@ -3896,6 +3944,14 @@
       "word": "TES战胜OMG",
       "onboard_time": 1718542578,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 131717,
+      "num": 131717,
+      "word": "WBG对战UP",
+      "onboard_time": 1718620459,
+      "rank": 44,
       "category": "电竞"
     },
     {
@@ -4297,14 +4353,6 @@
       "onboard_time": 1718533159,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119521,
-      "num": 119521,
-      "word": "玫瑰的故事 绝症哥",
-      "onboard_time": 1718619618,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 118834,
@@ -4900,7 +4948,7 @@
     },
     {
       "raw_hot": 76662,
-      "num": 936701,
+      "num": 983485,
       "word": "遭遇暴雨雷电天气如何保证自身安全",
       "onboard_time": 1718615118,
       "rank": 2,
@@ -5137,6 +5185,14 @@
       "onboard_time": 1718505076,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50891,
+      "num": 194589,
+      "word": "618我大大方方省了很多钱",
+      "onboard_time": 1718618657,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 50494,
@@ -5481,14 +5537,6 @@
       "onboard_time": 1718467338,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26140,
-      "num": 194589,
-      "word": "618我大大方方省了很多钱",
-      "onboard_time": 1718618657,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 25395,
