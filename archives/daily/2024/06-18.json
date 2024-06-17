@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718644693888,
+  "endTime": 1718645653738,
   "band_list": [
     {
       "raw_hot": 780562,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277487,
+      "num": 277487,
+      "word": "医生提醒尽量不要生吃海鲜和肉",
+      "onboard_time": 1718643434,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 276025,
       "num": 276025,
       "word": "方协文发疯请勿上升林更新",
@@ -163,8 +171,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171295,
-      "num": 171295,
+      "raw_hot": 177473,
+      "num": 177473,
       "word": "比利时vs斯洛伐克",
       "onboard_time": 1718636659,
       "rank": 18,
@@ -209,14 +217,6 @@
       "onboard_time": 1718632819,
       "rank": 27,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126218,
-      "num": 126218,
-      "word": "医生提醒尽量不要生吃海鲜和肉",
-      "onboard_time": 1718643434,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 120656,
@@ -403,12 +403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 57852,
-      "num": 57852,
+      "raw_hot": 68800,
+      "num": 68800,
       "word": "水象星座真的是恋爱脑吗",
       "onboard_time": 1718644033,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 38686,
+      "num": 56261,
+      "word": "金庸武侠世界",
+      "onboard_time": 1718645233,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 37706,
@@ -419,19 +427,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 26649,
-      "num": 389303,
-      "word": "教育部首次上线高考志愿信息系统",
-      "onboard_time": 1718618298,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 36412,
+      "num": 56257,
+      "word": "奥地利vs法国",
+      "onboard_time": 1718637258,
+      "rank": 46,
+      "category": "体育"
     },
     {
-      "raw_hot": 20178,
+      "raw_hot": 29893,
       "num": 306397,
       "word": "平常心对待姜萍不要过度造神",
       "onboard_time": 1718640917,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27378,
+      "num": 389303,
+      "word": "教育部首次上线高考志愿信息系统",
+      "onboard_time": 1718618298,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -441,11 +457,22 @@
       "onboard_time": 1718643015,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14264,
+      "num": 177811,
+      "word": "华西专家教你冰箱的正确使用方式",
+      "onboard_time": 1718644873,
+      "rank": 9,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记关心的重大文化工程#"
+    },
+    {
+      "word": "#习近平致信祝贺黄埔军校建校100周年#"
     }
   ]
 }
