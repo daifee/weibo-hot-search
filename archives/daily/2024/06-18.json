@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718648739753,
+  "endTime": 1718649468214,
   "band_list": [
     {
       "raw_hot": 780562,
@@ -395,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72247,
+      "num": 72247,
+      "word": "奥地利vs法国",
+      "onboard_time": 1718637258,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71519,
       "num": 76337,
       "word": "华晨宇声线有日出的温暖",
@@ -403,20 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 70869,
+      "raw_hot": 70884,
       "num": 68800,
       "word": "水象星座真的是恋爱脑吗",
       "onboard_time": 1718644033,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65528,
-      "num": 65528,
-      "word": "奥地利vs法国",
-      "onboard_time": 1718637258,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 39278,
@@ -491,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22466,
+      "num": 23184,
+      "word": "东极岛官宣没有倪妮",
+      "onboard_time": 1718649132,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16973,
       "num": 159910,
       "word": "一份班主任准备了6年的礼物",
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 11322,
-      "num": 47790,
+      "num": 78528,
       "word": "钓鱼大哥抛出鱼竿救回轻生男子",
       "onboard_time": 1718648593,
       "rank": 19,
