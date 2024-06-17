@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718591904532,
+  "endTime": 1718592473948,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -187,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1137130,
+      "num": 1137130,
+      "word": "记者卧底鸭肠鹅肠工厂",
+      "onboard_time": 1718588596,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1129098,
       "num": 688473,
       "word": "刘浩存工作室 审美",
@@ -243,12 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 992976,
-      "num": 992976,
-      "word": "记者卧底鸭肠鹅肠工厂",
-      "onboard_time": 1718588596,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 1002099,
+      "num": 1002099,
+      "word": "刘浩存周也 你快笑啊在拍了",
+      "onboard_time": 1718590097,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 992969,
@@ -299,14 +307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 928416,
-      "num": 928416,
-      "word": "刘浩存周也 你快笑啊在拍了",
-      "onboard_time": 1718590097,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 909842,
       "num": 909842,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -321,6 +321,14 @@
       "onboard_time": 1718550560,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 860481,
+      "num": 860481,
+      "word": "韩国年轻人开始流行不看脸约会",
+      "onboard_time": 1718588297,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 858145,
@@ -377,14 +385,6 @@
       "onboard_time": 1718493733,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 737580,
-      "num": 737580,
-      "word": "韩国年轻人开始流行不看脸约会",
-      "onboard_time": 1718588297,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 712449,
@@ -481,6 +481,14 @@
       "onboard_time": 1718470335,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 646533,
+      "num": 362144,
+      "word": "张杰张若昀两个女儿奴",
+      "onboard_time": 1718590398,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 641375,
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 510872,
-      "num": 220656,
+      "num": 223968,
       "word": "毕业月薪六七千我妈说我要求低",
       "onboard_time": 1718552658,
       "rank": 22,
@@ -809,14 +817,6 @@
       "onboard_time": 1718586079,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459438,
-      "num": 362144,
-      "word": "张杰张若昀两个女儿奴",
-      "onboard_time": 1718590398,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 458442,
@@ -1299,6 +1299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 322444,
+      "num": 322444,
+      "word": "枭起青壤首发剧照",
+      "onboard_time": 1718591117,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321394,
       "num": 321394,
       "word": "TF三代出道战导师",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1718588238,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288012,
+      "num": 288012,
+      "word": "老粉都没认出黄晓明",
+      "onboard_time": 1718590817,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 286427,
@@ -1547,14 +1563,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 253319,
-      "num": 253319,
-      "word": "老粉都没认出黄晓明",
-      "onboard_time": 1718590817,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 250991,
       "num": 197648,
       "word": "金晨一只袖子上有30颗珍珠",
@@ -1569,14 +1577,6 @@
       "onboard_time": 1718546300,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 247582,
-      "num": 247582,
-      "word": "枭起青壤首发剧照",
-      "onboard_time": 1718591117,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 246581,
@@ -1609,6 +1609,14 @@
       "onboard_time": 1718583438,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241110,
+      "num": 229019,
+      "word": "金莎夸陈乔恩恶毒后妈演得好",
+      "onboard_time": 1718591117,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 240686,
@@ -1675,14 +1683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 229019,
-      "num": 229019,
-      "word": "金莎夸陈乔恩恶毒后妈演得好",
-      "onboard_time": 1718591117,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228575,
       "num": 228575,
       "word": "波兰1比2荷兰",
@@ -1745,6 +1745,14 @@
       "onboard_time": 1718527998,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 220375,
+      "num": 220375,
+      "word": "余秀华说没有离不了的婚",
+      "onboard_time": 1718591057,
+      "rank": 30,
+      "category": "读书作家"
     },
     {
       "raw_hot": 218986,
@@ -2051,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194027,
+      "num": 194027,
+      "word": "王星越看得出他是公主",
+      "onboard_time": 1718591177,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193785,
       "num": 193785,
       "word": "外卖小哥回应酷似易烊千玺",
@@ -2171,14 +2187,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 185087,
-      "num": 185087,
-      "word": "王星越看得出他是公主",
-      "onboard_time": 1718591177,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184859,
       "num": 184859,
       "word": "我发现一定要对钱有概念",
@@ -2187,16 +2195,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 183123,
-      "num": 183123,
-      "word": "余秀华说没有离不了的婚",
-      "onboard_time": 1718591057,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 183085,
-      "num": 150313,
+      "num": 154637,
       "word": "肖战晒与爸爸妈妈背影照",
       "onboard_time": 1718589317,
       "rank": 33,
@@ -2241,6 +2241,14 @@
       "onboard_time": 1718506338,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 180045,
+      "num": 180045,
+      "word": "爱神回归",
+      "onboard_time": 1718591836,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 177879,
@@ -2307,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 171739,
+      "num": 171739,
+      "word": "A股",
+      "onboard_time": 1718591717,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 171571,
       "num": 171571,
       "word": "西班牙3比0克罗地亚",
@@ -2363,6 +2379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 167431,
+      "num": 167431,
+      "word": "惠英红宋佳马丽高叶 捡亮片套娃",
+      "onboard_time": 1718591537,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 166600,
       "num": 141160,
       "word": "天天戴隐形眼镜的人后来怎么样了",
@@ -2401,6 +2425,14 @@
       "onboard_time": 1718511857,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 163471,
+      "num": 163471,
+      "word": "陈乔恩录制跑男",
+      "onboard_time": 1718591657,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 162770,
@@ -2539,12 +2571,28 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 154054,
+      "num": 154054,
+      "word": "枭起青壤",
+      "onboard_time": 1718592317,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152622,
       "num": 152622,
       "word": "世界杯",
       "onboard_time": 1718470755,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152330,
+      "num": 152330,
+      "word": "工人排水口小便后捞出死鸭送车间",
+      "onboard_time": 1718592137,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152007,
@@ -2569,14 +2617,6 @@
       "onboard_time": 1718542039,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151011,
-      "num": 151011,
-      "word": "惠英红宋佳马丽高叶 捡亮片套娃",
-      "onboard_time": 1718591537,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 150379,
@@ -2803,14 +2843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132336,
-      "num": 132336,
-      "word": "陈乔恩录制跑男",
-      "onboard_time": 1718591657,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132269,
       "num": 132269,
       "word": "中国女排奥运分档",
@@ -2971,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127500,
+      "num": 127500,
+      "word": "专业报考指南",
+      "onboard_time": 1718592016,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 127359,
       "num": 127359,
       "word": "微博电影之夜 任务",
@@ -3059,14 +3099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 123840,
-      "num": 123840,
-      "word": "爱神回归",
-      "onboard_time": 1718591836,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 123710,
       "num": 123710,
       "word": "女生爬山遇毒蛇竟凑上前合影",
@@ -3131,12 +3163,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119449,
-      "num": 119449,
-      "word": "A股",
-      "onboard_time": 1718591717,
-      "rank": 43,
-      "category": "财经"
+      "raw_hot": 118144,
+      "num": 118144,
+      "word": "白客你戴着老花镜问黄轩什么",
+      "onboard_time": 1718592257,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 117949,
@@ -3161,6 +3193,14 @@
       "onboard_time": 1718475972,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117217,
+      "num": 117217,
+      "word": "跨越时空的6月17日",
+      "onboard_time": 1718592377,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116176,
@@ -4148,7 +4188,7 @@
     },
     {
       "raw_hot": 24829,
-      "num": 931692,
+      "num": 982674,
       "word": "交通互联互通带来发展机遇无限",
       "onboard_time": 1718541857,
       "rank": 2,
