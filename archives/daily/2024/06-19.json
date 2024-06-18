@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718742035276,
+  "endTime": 1718742873712,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119535,
+      "num": 161808,
+      "word": "C罗比赛",
+      "onboard_time": 1718716579,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119024,
       "num": 119024,
       "word": "带男朋友回家后发现家人很冷漠",
@@ -241,14 +249,6 @@
       "onboard_time": 1718722219,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 111763,
-      "num": 161808,
-      "word": "C罗比赛",
-      "onboard_time": 1718716579,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 98065,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57054,
+      "num": 57054,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 53453,
       "num": 66754,
       "word": "玫瑰的故事预告",
@@ -475,14 +483,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 34146,
-      "num": 34146,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 34092,
       "num": 34092,
       "word": "于正 我承认我错了",
@@ -499,20 +499,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25708,
+      "num": 25708,
+      "word": "墨雨云间 胡萝卜套苦瓜",
+      "onboard_time": 1718738772,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 23509,
       "num": 157153,
       "word": "税务部门没有倒查20年30年的安排",
       "onboard_time": 1718705837,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22447,
-      "num": 22447,
-      "word": "墨雨云间 胡萝卜套苦瓜",
-      "onboard_time": 1718738772,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 22429,
@@ -545,6 +545,22 @@
       "onboard_time": 1718740570,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 12691,
+      "num": 15043,
+      "word": "菲称对非法坐滩军舰补给失败",
+      "onboard_time": 1718742730,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 12522,
+      "num": 15043,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10768,
