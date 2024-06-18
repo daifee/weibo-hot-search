@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718750110083,
+  "endTime": 1718752788599,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -15947,6 +15947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331510,
+      "num": 331510,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331472,
       "num": 331472,
       "word": "法学学士为什么继续做保安",
@@ -17099,6 +17107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 305899,
+      "num": 305899,
+      "word": "葡萄牙2比1捷克",
+      "onboard_time": 1718752454,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305868,
       "num": 211477,
       "word": "一中国公民在印度被扣押期间死亡",
@@ -17433,6 +17449,14 @@
       "onboard_time": 1717227677,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 299281,
+      "num": 299281,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
     },
     {
       "raw_hot": 298994,
@@ -18569,6 +18593,14 @@
       "onboard_time": 1717824138,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 280094,
+      "num": 280094,
+      "word": "刘亦菲把初为人母的感觉演出来了",
+      "onboard_time": 1718749691,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 279693,
@@ -33099,14 +33131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159794,
-      "num": 159794,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 159760,
       "num": 159760,
       "word": "广汽丰田致歉",
@@ -35625,14 +35649,6 @@
       "onboard_time": 1717313899,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147992,
-      "num": 94066,
-      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
-      "onboard_time": 1718742671,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147955,
@@ -46235,6 +46251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90981,
+      "num": 90981,
+      "word": "日本疯传的食人菌是什么",
+      "onboard_time": 1718734633,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90955,
       "num": 99644,
       "word": "莱巴金娜状态",
@@ -47083,6 +47107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 79852,
+      "num": 92269,
+      "word": "孔塞桑绝杀",
+      "onboard_time": 1718752454,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79660,
       "num": 211438,
       "word": "港风少女提了第十万台smart",
@@ -47137,6 +47169,14 @@
       "onboard_time": 1717283474,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78759,
+      "num": 77789,
+      "word": "墨雨云间 胡萝卜套苦瓜",
+      "onboard_time": 1718738772,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 78742,
@@ -47201,6 +47241,14 @@
       "onboard_time": 1717583118,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 77832,
+      "num": 77832,
+      "word": "日系合资车集体骨折价促销",
+      "onboard_time": 1718749453,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 77811,
@@ -47513,6 +47561,14 @@
       "onboard_time": 1718019258,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75198,
+      "num": 75198,
+      "word": "鞠婧祎对接再发文",
+      "onboard_time": 1718751434,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 75194,
@@ -48988,7 +49044,7 @@
     },
     {
       "raw_hot": 59304,
-      "num": 59304,
+      "num": 68110,
       "word": "李一桐包上恩版黄蓉出场对比",
       "onboard_time": 1718729473,
       "rank": 27,
@@ -49531,14 +49587,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 54439,
-      "num": 54439,
-      "word": "刘亦菲把初为人母的感觉演出来了",
-      "onboard_time": 1718749691,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54388,
       "num": 54388,
       "word": "张雪峰一门课卖近两万元",
@@ -49979,6 +50027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50356,
+      "num": 68085,
+      "word": "见证C罗职业生涯900球",
+      "onboard_time": 1718748913,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50225,
       "num": 167155,
       "word": "京东给大家发小白T啦",
@@ -50044,7 +50100,7 @@
     },
     {
       "raw_hot": 49119,
-      "num": 49119,
+      "num": 68071,
       "word": "双鱼座跟哪个星座更合拍",
       "onboard_time": 1718732294,
       "rank": 22,
@@ -50291,20 +50347,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46828,
+      "num": 68078,
+      "word": "室友竟然在宿舍里装了个监控",
+      "onboard_time": 1718735352,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46743,
       "num": 46743,
       "word": "葡萄牙1比2克罗地亚",
       "onboard_time": 1717889595,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46741,
-      "num": 38291,
-      "word": "日本疯传的食人菌是什么",
-      "onboard_time": 1718734633,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46615,
@@ -50537,14 +50593,6 @@
       "onboard_time": 1718272577,
       "rank": 19,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 43833,
-      "num": 37199,
-      "word": "墨雨云间 胡萝卜套苦瓜",
-      "onboard_time": 1718738772,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 43639,
@@ -50859,6 +50907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41338,
+      "num": 68068,
+      "word": "菲承认对非法坐滩军舰补给失败",
+      "onboard_time": 1718731154,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 41246,
       "num": 269743,
       "word": "遇事不决选大众",
@@ -51139,6 +51195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38631,
+      "num": 68067,
+      "word": "新疆阿勒泰梦幻繁星",
+      "onboard_time": 1718751372,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 38607,
       "num": 31591,
       "word": "方便面为什么越卖越贵",
@@ -51225,14 +51289,6 @@
       "onboard_time": 1717849218,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38085,
-      "num": 28726,
-      "word": "室友竟然在宿舍里装了个监控",
-      "onboard_time": 1718735352,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 37905,
@@ -51523,20 +51579,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35264,
-      "num": 44316,
-      "word": "菲承认对非法坐滩军舰补给失败",
-      "onboard_time": 1718731154,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 35146,
       "num": 35146,
       "word": "红领巾",
       "onboard_time": 1717786271,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35097,
+      "num": 68051,
+      "word": "菲称对非法坐滩军舰补给失败",
+      "onboard_time": 1718742730,
+      "rank": 47,
+      "category": "国外时政"
     },
     {
       "raw_hot": 35066,
@@ -52091,14 +52147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29569,
-      "num": 29569,
-      "word": "见证C罗职业生涯900球",
-      "onboard_time": 1718748913,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 29527,
       "num": 157125,
       "word": "华西医生分析为啥有人吃轻食越吃越胖",
@@ -52289,14 +52337,6 @@
       "onboard_time": 1718455938,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 27749,
-      "num": 28732,
-      "word": "日系合资车集体骨折价促销",
-      "onboard_time": 1718749453,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 27654,
@@ -52753,14 +52793,6 @@
       "onboard_time": 1718187981,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22752,
-      "num": 28716,
-      "word": "菲称对非法坐滩军舰补给失败",
-      "onboard_time": 1718742730,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 22749,

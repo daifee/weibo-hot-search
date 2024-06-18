@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718750110083,
+  "endTime": 1718752788599,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -91,12 +91,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331510,
+      "num": 331510,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309571,
       "num": 309571,
       "word": "高铁晚点 补偿",
       "onboard_time": 1718715498,
       "rank": 14,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 305899,
+      "num": 305899,
+      "word": "葡萄牙2比1捷克",
+      "onboard_time": 1718752454,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 301159,
@@ -107,12 +123,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299281,
+      "num": 299281,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 297707,
       "num": 157609,
       "word": "存了8万后变成了病态省钱",
       "onboard_time": 1718710996,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 280094,
+      "num": 280094,
+      "word": "刘亦菲把初为人母的感觉演出来了",
+      "onboard_time": 1718749691,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 242702,
@@ -131,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219307,
+      "num": 219307,
+      "word": "C罗比赛",
+      "onboard_time": 1718716579,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197979,
       "num": 415914,
       "word": "瑞幸回应喝西梅美式腹泻",
@@ -145,14 +185,6 @@
       "onboard_time": 1718701218,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178056,
-      "num": 178056,
-      "word": "C罗比赛",
-      "onboard_time": 1718716579,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 165680,
@@ -179,28 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159794,
-      "num": 159794,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 150184,
       "num": 150184,
       "word": "发现了掉秤最快的方法",
       "onboard_time": 1718719459,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 147992,
-      "num": 94066,
-      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
-      "onboard_time": 1718742671,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140400,
@@ -307,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90981,
+      "num": 90981,
+      "word": "日本疯传的食人菌是什么",
+      "onboard_time": 1718734633,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 90072,
       "num": 119245,
       "word": "宝鸡地震",
@@ -347,6 +371,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79852,
+      "num": 92269,
+      "word": "孔塞桑绝杀",
+      "onboard_time": 1718752454,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78759,
+      "num": 77789,
+      "word": "墨雨云间 胡萝卜套苦瓜",
+      "onboard_time": 1718738772,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78230,
       "num": 86193,
       "word": "上班搭子离职等于断崖式分手",
@@ -355,12 +395,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77832,
+      "num": 77832,
+      "word": "日系合资车集体骨折价促销",
+      "onboard_time": 1718749453,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 77283,
       "num": 77283,
       "word": "周深新专下篇先行曲嗨",
       "onboard_time": 1718727977,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 75198,
+      "num": 75198,
+      "word": "鞠婧祎对接再发文",
+      "onboard_time": 1718751434,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 74238,
@@ -420,18 +476,10 @@
     },
     {
       "raw_hot": 59304,
-      "num": 59304,
+      "num": 68110,
       "word": "李一桐包上恩版黄蓉出场对比",
       "onboard_time": 1718729473,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 54439,
-      "num": 54439,
-      "word": "刘亦菲把初为人母的感觉演出来了",
-      "onboard_time": 1718749691,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -451,8 +499,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50356,
+      "num": 68085,
+      "word": "见证C罗职业生涯900球",
+      "onboard_time": 1718748913,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49119,
-      "num": 49119,
+      "num": 68071,
       "word": "双鱼座跟哪个星座更合拍",
       "onboard_time": 1718732294,
       "rank": 22,
@@ -467,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46741,
-      "num": 38291,
-      "word": "日本疯传的食人菌是什么",
-      "onboard_time": 1718734633,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 46828,
+      "num": 68078,
+      "word": "室友竟然在宿舍里装了个监控",
+      "onboard_time": 1718735352,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 45597,
@@ -483,27 +539,27 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 43833,
-      "num": 37199,
-      "word": "墨雨云间 胡萝卜套苦瓜",
-      "onboard_time": 1718738772,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 38085,
-      "num": 28726,
-      "word": "室友竟然在宿舍里装了个监控",
-      "onboard_time": 1718735352,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 35264,
-      "num": 44316,
+      "raw_hot": 41338,
+      "num": 68068,
       "word": "菲承认对非法坐滩军舰补给失败",
       "onboard_time": 1718731154,
       "rank": 49,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 38631,
+      "num": 68067,
+      "word": "新疆阿勒泰梦幻繁星",
+      "onboard_time": 1718751372,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 35097,
+      "num": 68051,
+      "word": "菲称对非法坐滩军舰补给失败",
+      "onboard_time": 1718742730,
+      "rank": 47,
       "category": "国外时政"
     },
     {
@@ -523,22 +579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29569,
-      "num": 29569,
-      "word": "见证C罗职业生涯900球",
-      "onboard_time": 1718748913,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27749,
-      "num": 28732,
-      "word": "日系合资车集体骨折价促销",
-      "onboard_time": 1718749453,
-      "rank": 41,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 26996,
       "num": 26996,
       "word": "姆巴佩无缘对阵荷兰",
@@ -553,14 +593,6 @@
       "onboard_time": 1718705837,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22752,
-      "num": 28716,
-      "word": "菲称对非法坐滩军舰补给失败",
-      "onboard_time": 1718742730,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 22429,
@@ -611,7 +643,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 6880,
+      "raw_hot": 7484,
       "num": 676626,
       "word": "国之重器更是国之底气",
       "onboard_time": 1718669237,
