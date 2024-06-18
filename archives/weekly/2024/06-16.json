@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718752788599,
+  "endTime": 1718753690859,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -2051,6 +2051,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 428215,
+      "num": 428215,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428190,
       "num": 428190,
       "word": "孙卓祝孙海洋父亲节快乐",
@@ -2257,6 +2265,14 @@
       "onboard_time": 1718518877,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 399979,
+      "num": 399979,
+      "word": "葡萄牙2比1捷克",
+      "onboard_time": 1718752454,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 399071,
@@ -2627,6 +2643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 355401,
+      "num": 355401,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 354847,
       "num": 354847,
       "word": "九岁外国小朋友被中国网友教育了",
@@ -2739,6 +2763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 340590,
+      "num": 340590,
+      "word": "刘亦菲把初为人母的感觉演出来了",
+      "onboard_time": 1718749691,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339630,
       "num": 339630,
       "word": "陈哲远憋笑",
@@ -2825,14 +2857,6 @@
       "onboard_time": 1718595617,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 331510,
-      "num": 331510,
-      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
-      "onboard_time": 1718742671,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 331472,
@@ -3027,14 +3051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 305899,
-      "num": 305899,
-      "word": "葡萄牙2比1捷克",
-      "onboard_time": 1718752454,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 305868,
       "num": 211477,
       "word": "一中国公民在印度被扣押期间死亡",
@@ -3073,14 +3089,6 @@
       "onboard_time": 1718679136,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 299281,
-      "num": 299281,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 298235,
@@ -3273,14 +3281,6 @@
       "onboard_time": 1718620217,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 280094,
-      "num": 280094,
-      "word": "刘亦菲把初为人母的感觉演出来了",
-      "onboard_time": 1718749691,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 279693,
@@ -6491,6 +6491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 140207,
+      "num": 140207,
+      "word": "土耳其3比1格鲁吉亚",
+      "onboard_time": 1718752814,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140061,
       "num": 140061,
       "word": "乳胶枕头投诉量直线飙升",
@@ -7755,6 +7763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110481,
+      "num": 110481,
+      "word": "日本疯传的食人菌是什么",
+      "onboard_time": 1718734633,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110465,
       "num": 110465,
       "word": "男孩的儿童节愿望在父亲节前实现了",
@@ -8099,12 +8115,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101722,
+      "num": 119748,
+      "word": "孔塞桑绝杀",
+      "onboard_time": 1718752454,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101574,
       "num": 101574,
       "word": "朱一龙吴磊为新片做了闭气训练",
       "onboard_time": 1718626217,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101552,
+      "num": 101552,
+      "word": "C罗39岁状态",
+      "onboard_time": 1718752875,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 101330,
@@ -8235,12 +8267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95269,
+      "num": 95269,
+      "word": "鞠婧祎对接再发文",
+      "onboard_time": 1718751434,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94733,
       "num": 547976,
       "word": "一句话表白老爸",
       "onboard_time": 1718458938,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94439,
+      "num": 94439,
+      "word": "英伟达成全球市值最高股票",
+      "onboard_time": 1718753595,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 94437,
@@ -8339,14 +8387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 90981,
-      "num": 90981,
-      "word": "日本疯传的食人菌是什么",
-      "onboard_time": 1718734633,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90559,
       "num": 90559,
       "word": "给500块的公猫找了个2000块的老婆",
@@ -8377,6 +8417,14 @@
       "onboard_time": 1718529617,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 89468,
+      "num": 89468,
+      "word": "日系合资车集体骨折价促销",
+      "onboard_time": 1718749453,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 89014,
@@ -8579,14 +8627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 79852,
-      "num": 92269,
-      "word": "孔塞桑绝杀",
-      "onboard_time": 1718752454,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 78982,
       "num": 124534,
       "word": "女排积分",
@@ -8633,14 +8673,6 @@
       "onboard_time": 1718725397,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 77832,
-      "num": 77832,
-      "word": "日系合资车集体骨折价促销",
-      "onboard_time": 1718749453,
-      "rank": 41,
-      "category": "汽车"
     },
     {
       "raw_hot": 77781,
@@ -8715,14 +8747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 75198,
-      "num": 75198,
-      "word": "鞠婧祎对接再发文",
-      "onboard_time": 1718751434,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 74238,
       "num": 86169,
       "word": "欧洲杯预测",
@@ -8753,6 +8777,14 @@
       "onboard_time": 1718584698,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70917,
+      "num": 70917,
+      "word": "李一桐包上恩版黄蓉出场对比",
+      "onboard_time": 1718729473,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 70884,
@@ -8825,6 +8857,14 @@
       "onboard_time": 1718683579,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 65507,
+      "num": 65507,
+      "word": "苹果将推出全新AI培训课程",
+      "onboard_time": 1718752994,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 65343,
@@ -8947,6 +8987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60198,
+      "num": 60198,
+      "word": "原来韩国人追剧是不看字幕的",
+      "onboard_time": 1718753595,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 60043,
       "num": 60043,
       "word": "西班牙3分钟2球",
@@ -8969,14 +9017,6 @@
       "onboard_time": 1718629157,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 59304,
-      "num": 68110,
-      "word": "李一桐包上恩版黄蓉出场对比",
-      "onboard_time": 1718729473,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 59074,
@@ -9009,6 +9049,14 @@
       "onboard_time": 1718704158,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57397,
+      "num": 68078,
+      "word": "室友竟然在宿舍里装了个监控",
+      "onboard_time": 1718735352,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 57201,
@@ -9107,6 +9155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51832,
+      "num": 55364,
+      "word": "土耳其凌空世界波",
+      "onboard_time": 1718753295,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51410,
       "num": 51410,
       "word": "有多少人今晚等C罗",
@@ -9144,6 +9200,14 @@
       "word": "见证C罗职业生涯900球",
       "onboard_time": 1718748913,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49479,
+      "num": 55364,
+      "word": "居莱尔小孩哥",
+      "onboard_time": 1718753415,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -9195,14 +9259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46828,
-      "num": 68078,
-      "word": "室友竟然在宿舍里装了个监控",
-      "onboard_time": 1718735352,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 46578,
       "num": 206515,
       "word": "黄曦彦腹肌",
@@ -9241,6 +9297,14 @@
       "onboard_time": 1718528597,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42909,
+      "num": 68068,
+      "word": "菲承认对非法坐滩军舰补给失败",
+      "onboard_time": 1718731154,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 42556,
@@ -9331,14 +9395,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41338,
-      "num": 68068,
-      "word": "菲承认对非法坐滩军舰补给失败",
-      "onboard_time": 1718731154,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 40758,
       "num": 141189,
       "word": "俩男孩暖心帮脊髓损伤女孩推轮椅",
@@ -9361,6 +9417,14 @@
       "onboard_time": 1718500876,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40207,
+      "num": 278984,
+      "word": "8名学者入驻微博祝金榜题名",
+      "onboard_time": 1718752814,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 39705,
