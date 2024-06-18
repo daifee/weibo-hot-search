@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718707046578,
+  "endTime": 1718709436651,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -184,6 +184,14 @@
       "word": "南方医科大学回应教师因救人迟到受处分",
       "onboard_time": 1718509757,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1360575,
+      "num": 420236,
+      "word": "姜萍遭质疑",
+      "onboard_time": 1718705358,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -531,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973370,
+      "num": 567037,
+      "word": "黄亦玫生孩子婆婆不让打无痛",
+      "onboard_time": 1718703497,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 973232,
       "num": 973232,
       "word": "杨紫将担任巴黎奥运火炬手",
@@ -641,14 +657,6 @@
       "onboard_time": 1718588297,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 859008,
-      "num": 567037,
-      "word": "黄亦玫生孩子婆婆不让打无痛",
-      "onboard_time": 1718703497,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 858145,
@@ -880,6 +888,14 @@
       "word": "南方医科大最新回应",
       "onboard_time": 1718613438,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707396,
+      "num": 707396,
+      "word": "税务部门没有倒查20年30年的安排",
+      "onboard_time": 1718705837,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1160,14 +1176,6 @@
       "word": "2岁女儿一直以为爸爸住在监控里",
       "onboard_time": 1718530100,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 594658,
-      "num": 594658,
-      "word": "税务部门没有倒查20年30年的安排",
-      "onboard_time": 1718705837,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1499,6 +1507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 518426,
+      "num": 518426,
+      "word": "十个勤天帆布包",
+      "onboard_time": 1718706558,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516352,
       "num": 516352,
       "word": "中国跳水队游泳队巴黎奥运名单公示",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1718511978,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 512674,
+      "num": 370981,
+      "word": "国家税务总局答记者问",
+      "onboard_time": 1718704578,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 512412,
@@ -1611,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489876,
+      "num": 489876,
+      "word": "男子为快速入睡吃了40多片安眠药",
+      "onboard_time": 1718702719,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484832,
       "num": 479943,
       "word": "想去林更新微博说两句但我骂不过他",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1718521637,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 478276,
-      "num": 370981,
-      "word": "国家税务总局答记者问",
-      "onboard_time": 1718704578,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 477221,
@@ -1923,14 +1947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 420236,
-      "num": 420236,
-      "word": "姜萍遭质疑",
-      "onboard_time": 1718705358,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 419469,
       "num": 419469,
       "word": "凯特王妃",
@@ -2049,6 +2065,14 @@
       "onboard_time": 1718604918,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401704,
+      "num": 365423,
+      "word": "鞠婧祎 到期不续",
+      "onboard_time": 1718709137,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 400806,
@@ -2315,6 +2339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 363643,
+      "num": 212847,
+      "word": "现在看林更新感觉面相都变了",
+      "onboard_time": 1718707578,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362994,
       "num": 362994,
       "word": "偶遇喜欢了九年的歌手是什么体验",
@@ -2411,20 +2443,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 353328,
+      "num": 353328,
+      "word": "方协文当着黄亦玫的面和妈妈说方言",
+      "onboard_time": 1718705178,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353237,
       "num": 353237,
       "word": "去新疆的朋友圈要这样发",
       "onboard_time": 1718683878,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 352819,
-      "num": 352819,
-      "word": "十个勤天帆布包",
-      "onboard_time": 1718706558,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 352118,
@@ -2537,6 +2569,14 @@
       "onboard_time": 1718684719,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333007,
+      "num": 295154,
+      "word": "王阳夸林更新",
+      "onboard_time": 1718708477,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 332613,
@@ -2832,6 +2872,14 @@
       "word": "庄国栋碎了",
       "onboard_time": 1718620937,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 293241,
+      "num": 239496,
+      "word": "林更新承认方协文是PUA男",
+      "onboard_time": 1718708597,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -3171,14 +3219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253851,
-      "num": 253851,
-      "word": "方协文当着黄亦玫的面和妈妈说方言",
-      "onboard_time": 1718705178,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 253750,
       "num": 253750,
       "word": "专家称A股4000点之前应避免做空",
@@ -3209,6 +3249,14 @@
       "onboard_time": 1718700318,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250648,
+      "num": 250648,
+      "word": "RNG",
+      "onboard_time": 1718708117,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 250306,
@@ -3347,14 +3395,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 234765,
-      "num": 234765,
-      "word": "男子为快速入睡吃了40多片安眠药",
-      "onboard_time": 1718702719,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233197,
       "num": 209774,
       "word": "男生兼职攒一千给家里厨房装空调",
@@ -3377,6 +3417,14 @@
       "onboard_time": 1718687600,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230842,
+      "num": 230842,
+      "word": "严浩翔几乎成名",
+      "onboard_time": 1718709197,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 230057,
@@ -3563,6 +3611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220401,
+      "num": 220401,
+      "word": "拜登",
+      "onboard_time": 1718707338,
+      "rank": 24,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 220375,
       "num": 220375,
       "word": "余秀华说没有离不了的婚",
@@ -3665,6 +3721,14 @@
       "onboard_time": 1718532798,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 212688,
+      "num": 212688,
+      "word": "法国驻华大使馆发杨紫",
+      "onboard_time": 1718708358,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 212674,
@@ -4323,6 +4387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190114,
+      "num": 190114,
+      "word": "以色列总理住处遭冲击",
+      "onboard_time": 1718707217,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 190090,
       "num": 161114,
       "word": "种地吧",
@@ -4657,6 +4729,14 @@
       "onboard_time": 1718695097,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177981,
+      "num": 177981,
+      "word": "猫猫 开庭记得带上你那个破门",
+      "onboard_time": 1718707937,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 177879,
@@ -5779,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142492,
+      "num": 142492,
+      "word": "十二星座里谁最抠门",
+      "onboard_time": 1718706558,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 142280,
       "num": 142280,
       "word": "怦然心动20岁",
@@ -6193,14 +6281,6 @@
       "onboard_time": 1718698520,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131327,
-      "num": 131327,
-      "word": "十二星座里谁最抠门",
-      "onboard_time": 1718706558,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 131241,
@@ -6747,6 +6827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120113,
+      "num": 120113,
+      "word": "突然发现双鱼精神世界边界感好强",
+      "onboard_time": 1718706077,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119962,
       "num": 119962,
       "word": "狗狗我觉得我们有点暧昧了",
@@ -6891,6 +6979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114753,
+      "num": 114753,
+      "word": "网传科大讯飞有员工因加班猝死",
+      "onboard_time": 1718708777,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114181,
       "num": 114181,
       "word": "UP双杀WBG",
@@ -6955,6 +7051,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112197,
+      "num": 112197,
+      "word": "还好不是刘亦菲",
+      "onboard_time": 1718709258,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111538,
+      "num": 371021,
+      "word": "对姜萍最好的关心是不打扰",
+      "onboard_time": 1718706258,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110935,
       "num": 110935,
       "word": "火锅 舌头变黑",
@@ -6969,6 +7081,14 @@
       "onboard_time": 1718497636,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110726,
+      "num": 110726,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1718709317,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 110684,
@@ -7057,14 +7177,6 @@
       "onboard_time": 1718550321,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108146,
-      "num": 108146,
-      "word": "突然发现双鱼精神世界边界感好强",
-      "onboard_time": 1718706077,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 108084,
@@ -7547,6 +7659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87780,
+      "num": 303340,
+      "word": "今年618是天猫的硬控区",
+      "onboard_time": 1718708416,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87451,
       "num": 87451,
       "word": "师生十年后相聚歌手双双离场",
@@ -7832,14 +7952,6 @@
       "word": "中国电影龙标上邮票了",
       "onboard_time": 1718527758,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69274,
-      "num": 371021,
-      "word": "对姜萍最好的关心是不打扰",
-      "onboard_time": 1718706258,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -8219,6 +8331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44464,
+      "num": 240313,
+      "word": "我和沙特王子打电竞",
+      "onboard_time": 1718706916,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44041,
       "num": 515476,
       "word": "北京一高校为15对研究生办集体婚礼",
@@ -8500,7 +8620,7 @@
     },
     {
       "raw_hot": 32830,
-      "num": 568160,
+      "num": 595743,
       "word": "万千气象看甘肃",
       "onboard_time": 1718613858,
       "rank": 26,
@@ -8529,14 +8649,6 @@
       "onboard_time": 1718620818,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31520,
-      "num": 101823,
-      "word": "我和沙特王子打电竞",
-      "onboard_time": 1718706916,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 31375,
@@ -8865,6 +8977,14 @@
       "onboard_time": 1718607257,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17164,
+      "num": 358517,
+      "word": "跟着高中课本上的坐标去旅行",
+      "onboard_time": 1718708117,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 17122,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1718709436651,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 998531,
+        "num": 998531,
+        "word": "中餐厅 虞书欣",
+        "onboard_time": 1718701218,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 707396,
+        "num": 707396,
+        "word": "税务部门没有倒查20年30年的安排",
+        "onboard_time": 1718705837,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11734,
+        "num": 595743,
+        "word": "万千气象看甘肃",
+        "onboard_time": 1718613858,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518426,
+        "num": 518426,
+        "word": "十个勤天帆布包",
+        "onboard_time": 1718706558,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489876,
+        "num": 489876,
+        "word": "男子为快速入睡吃了40多片安眠药",
+        "onboard_time": 1718702719,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369134,
+        "num": 369134,
+        "word": "酒店标错价40元一晚被订上千单",
+        "onboard_time": 1718694317,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442382,
+        "num": 366200,
+        "word": "于正 我承认我错了",
+        "onboard_time": 1718696418,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401704,
+        "num": 365423,
+        "word": "鞠婧祎 到期不续",
+        "onboard_time": 1718709137,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125697,
+        "num": 362332,
+        "word": "中国跳水队游泳队巴黎奥运名单公示",
+        "onboard_time": 1718701578,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17164,
+        "num": 358517,
+        "word": "跟着高中课本上的坐标去旅行",
+        "onboard_time": 1718708117,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 973370,
+        "num": 355383,
+        "word": "黄亦玫生孩子婆婆不让打无痛",
+        "onboard_time": 1718703497,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353328,
+        "num": 353328,
+        "word": "方协文当着黄亦玫的面和妈妈说方言",
+        "onboard_time": 1718705178,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 512674,
+        "num": 334127,
+        "word": "国家税务总局答记者问",
+        "onboard_time": 1718704578,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311388,
+        "num": 311388,
+        "word": "好看的裙子 无袖",
+        "onboard_time": 1718689278,
+        "rank": 13,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 87780,
+        "num": 303340,
+        "word": "今年618是天猫的硬控区",
+        "onboard_time": 1718708416,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 299123,
+        "num": 299123,
+        "word": "爷爷去世后带走了奶奶的色彩",
+        "onboard_time": 1718700499,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 333007,
+        "num": 295154,
+        "word": "王阳夸林更新",
+        "onboard_time": 1718708477,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272222,
+        "num": 272222,
+        "word": "日本食人菌大爆发感染超千例",
+        "onboard_time": 1718692277,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250648,
+        "num": 250648,
+        "word": "RNG",
+        "onboard_time": 1718708117,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44464,
+        "num": 240313,
+        "word": "我和沙特王子打电竞",
+        "onboard_time": 1718706916,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13496,
+        "num": 239498,
+        "word": "韩东君话痨式vlog",
+        "onboard_time": 1718705059,
+        "rank": 20,
+        "category": "综艺,汽车"
+      },
+      {
+        "raw_hot": 293241,
+        "num": 239496,
+        "word": "林更新承认方协文是PUA男",
+        "onboard_time": 1718708597,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239494,
+        "num": 239494,
+        "word": "周深曾说等了张杰8年",
+        "onboard_time": 1718697619,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230842,
+        "num": 230842,
+        "word": "严浩翔几乎成名",
+        "onboard_time": 1718709197,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 220401,
+        "num": 220401,
+        "word": "拜登",
+        "onboard_time": 1718707338,
+        "rank": 24,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 212926,
+        "num": 212926,
+        "word": "中餐厅",
+        "onboard_time": 1718701458,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1360575,
+        "num": 212902,
+        "word": "姜萍遭质疑",
+        "onboard_time": 1718705358,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363643,
+        "num": 212847,
+        "word": "现在看林更新感觉面相都变了",
+        "onboard_time": 1718707578,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212688,
+        "num": 212688,
+        "word": "法国驻华大使馆发杨紫",
+        "onboard_time": 1718708358,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190114,
+        "num": 190114,
+        "word": "以色列总理住处遭冲击",
+        "onboard_time": 1718707217,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 177981,
+        "num": 177981,
+        "word": "猫猫 开庭记得带上你那个破门",
+        "onboard_time": 1718707937,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169313,
+        "num": 169313,
+        "word": "逆水寒JK",
+        "onboard_time": 1718705777,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 160243,
+        "num": 160243,
+        "word": "腋下管理",
+        "onboard_time": 1718695158,
+        "rank": 32,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 208512,
+        "num": 156032,
+        "word": "于正打假墨雨云间原定女主杨紫",
+        "onboard_time": 1718704158,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149020,
+        "num": 149020,
+        "word": "晨尿发黄是肾有问题吗",
+        "onboard_time": 1718697677,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142492,
+        "num": 142492,
+        "word": "十二星座里谁最抠门",
+        "onboard_time": 1718706558,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129840,
+        "num": 129840,
+        "word": "小边牧学猫咪走路被发现",
+        "onboard_time": 1718705898,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127040,
+        "num": 127040,
+        "word": "鞠婧祎 续约",
+        "onboard_time": 1718679558,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126274,
+        "num": 126274,
+        "word": "秦岚的床有多少女生睡过",
+        "onboard_time": 1718700377,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124486,
+        "num": 124486,
+        "word": "偶像组合成员被公司代表殴打报警",
+        "onboard_time": 1718706558,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120113,
+        "num": 120113,
+        "word": "突然发现双鱼精神世界边界感好强",
+        "onboard_time": 1718706077,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115819,
+        "num": 115819,
+        "word": "再次感受到为什么要化妆",
+        "onboard_time": 1718703138,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 114753,
+        "num": 114753,
+        "word": "网传科大讯飞有员工因加班猝死",
+        "onboard_time": 1718708777,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113731,
+        "num": 113731,
+        "word": "体检发现多了一个器官",
+        "onboard_time": 1718692878,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113440,
+        "num": 113440,
+        "word": "牛津数学女博士评姜萍",
+        "onboard_time": 1718695039,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112197,
+        "num": 112197,
+        "word": "还好不是刘亦菲",
+        "onboard_time": 1718709258,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111538,
+        "num": 111538,
+        "word": "对姜萍最好的关心是不打扰",
+        "onboard_time": 1718706258,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110726,
+        "num": 110726,
+        "word": "嘘国王在冬眠",
+        "onboard_time": 1718709317,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110533,
+        "num": 110533,
+        "word": "北约威胁中国若再援俄或付出经济代价",
+        "onboard_time": 1718694138,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106566,
+        "num": 106566,
+        "word": "女子晾晒过的裙子爬满蓝色虫子",
+        "onboard_time": 1718691617,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为同心共圆中国梦广泛凝心聚力#"
+    }
+  }
+}
