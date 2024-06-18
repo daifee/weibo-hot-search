@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718716931288,
+  "endTime": 1718717649025,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1507,6 +1507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1417668,
+      "num": 606011,
+      "word": "张杰谢娜临时公开恋情的原因",
+      "onboard_time": 1718713997,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1416945,
       "num": 1416945,
       "word": "何炅缺席",
@@ -1761,14 +1769,6 @@
       "onboard_time": 1718624417,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1351259,
-      "num": 606011,
-      "word": "张杰谢娜临时公开恋情的原因",
-      "onboard_time": 1718713997,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 1344883,
@@ -3769,6 +3769,14 @@
       "onboard_time": 1718427738,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 925441,
+      "num": 925441,
+      "word": "高铁晚点 补偿",
+      "onboard_time": 1718715498,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 924387,
@@ -7217,14 +7225,6 @@
       "onboard_time": 1718147235,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 618734,
-      "num": 618734,
-      "word": "高铁晚点 补偿",
-      "onboard_time": 1718715498,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 617227,
@@ -10907,6 +10907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 465532,
+      "num": 354903,
+      "word": "养了6年的兔子给我做了个窝",
+      "onboard_time": 1718715318,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 464471,
       "num": 464471,
       "word": "顶配iPhone16售价或破2万",
@@ -12832,6 +12840,14 @@
       "word": "玫瑰的故事直播",
       "onboard_time": 1718277977,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 403689,
+      "num": 403689,
+      "word": "张云龙曾舜晞曾拒演墨雨云间",
+      "onboard_time": 1718715379,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -14891,14 +14907,6 @@
       "category": "财经,科学科普"
     },
     {
-      "raw_hot": 352331,
-      "num": 345795,
-      "word": "养了6年的兔子给我做了个窝",
-      "onboard_time": 1718715318,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 352204,
       "num": 352204,
       "word": "樊振东vs向鹏",
@@ -14953,14 +14961,6 @@
       "onboard_time": 1717683981,
       "rank": 17,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 350651,
-      "num": 350651,
-      "word": "张云龙曾舜晞曾拒演墨雨云间",
-      "onboard_time": 1718715379,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 350102,
@@ -15217,6 +15217,14 @@
       "onboard_time": 1717809557,
       "rank": 15,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 344689,
+      "num": 344689,
+      "word": "鞠婧祎工作室回复粉丝",
+      "onboard_time": 1718714958,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 343943,
@@ -15641,6 +15649,14 @@
       "onboard_time": 1717308617,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334174,
+      "num": 187535,
+      "word": "霍建华上桌了",
+      "onboard_time": 1718716338,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 334109,
@@ -18145,14 +18161,6 @@
       "onboard_time": 1717732824,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 286003,
-      "num": 286003,
-      "word": "鞠婧祎工作室回复粉丝",
-      "onboard_time": 1718714958,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 286000,
@@ -20827,6 +20835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242173,
+      "num": 242173,
+      "word": "C罗比赛",
+      "onboard_time": 1718716579,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242052,
       "num": 242052,
       "word": "朱珠 高智姐感",
@@ -21361,6 +21377,14 @@
       "onboard_time": 1717380076,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 235870,
+      "num": 186433,
+      "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
+      "onboard_time": 1718716699,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235820,
@@ -22307,14 +22331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223726,
-      "num": 187274,
-      "word": "霍建华上桌了",
-      "onboard_time": 1718716338,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223544,
       "num": 261038,
       "word": "靠锅气来分辨预制菜已经没用了",
@@ -22401,6 +22417,14 @@
       "onboard_time": 1718075898,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 222794,
+      "num": 222794,
+      "word": "碧梨Jennie同框",
+      "onboard_time": 1718717359,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 222596,
@@ -24963,6 +24987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203473,
+      "num": 184338,
+      "word": "鞠婧祎三十而立又可以出发了",
+      "onboard_time": 1718716880,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203472,
       "num": 184884,
       "word": "文淇造型师 精神状态",
@@ -26827,6 +26859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193648,
+      "num": 186532,
+      "word": "华为考虑在鸿蒙应用商店收取20%佣金",
+      "onboard_time": 1718715318,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 193586,
       "num": 193586,
       "word": "王鹤棣范丞丞跳戚薇bangbang",
@@ -27065,14 +27105,6 @@
       "onboard_time": 1718203520,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192082,
-      "num": 192082,
-      "word": "C罗比赛",
-      "onboard_time": 1718716579,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 192072,
@@ -28145,14 +28177,6 @@
       "onboard_time": 1717730661,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 186532,
-      "num": 186532,
-      "word": "华为考虑在鸿蒙应用商店收取20%佣金",
-      "onboard_time": 1718715318,
-      "rank": 25,
-      "category": "互联网"
     },
     {
       "raw_hot": 186501,
@@ -30065,6 +30089,14 @@
       "onboard_time": 1717845917,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174819,
+      "num": 174819,
+      "word": "杨康自杀的爸尾随的妈活该的他",
+      "onboard_time": 1718716278,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 174784,
@@ -32955,14 +32987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159272,
-      "num": 159272,
-      "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
-      "onboard_time": 1718716699,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159266,
       "num": 159266,
       "word": "戴簪花的萨摩耶",
@@ -33985,14 +34009,6 @@
       "onboard_time": 1718335758,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154396,
-      "num": 154396,
-      "word": "杨康自杀的爸尾随的妈活该的他",
-      "onboard_time": 1718716278,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 154394,
@@ -37267,6 +37283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138397,
+      "num": 138397,
+      "word": "BLG战胜WE",
+      "onboard_time": 1718288421,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138327,
       "num": 138327,
       "word": "海拔3000米的万亩杜鹃",
@@ -38328,6 +38352,14 @@
       "word": "张颂文 壮壮妈",
       "onboard_time": 1718343438,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133148,
+      "num": 133148,
+      "word": "一个眼神判定萧蘅家庭地位",
+      "onboard_time": 1718716818,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -40752,14 +40784,6 @@
       "word": "用高脚杯喝螺蛳粉",
       "onboard_time": 1718186538,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 123153,
-      "num": 123153,
-      "word": "鞠婧祎三十而立又可以出发了",
-      "onboard_time": 1718716880,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -43595,6 +43619,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 108775,
+      "num": 108775,
+      "word": "梅州客家vs上海海港",
+      "onboard_time": 1718717479,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108753,
       "num": 108753,
       "word": "德约科维奇vs穆塞蒂",
@@ -44835,6 +44867,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 101153,
+      "num": 181960,
+      "word": "关注广东梅州暴雨",
+      "onboard_time": 1718716398,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101049,
       "num": 531170,
       "word": "聪明药真的能提高成绩吗",
@@ -45729,14 +45769,6 @@
       "onboard_time": 1717492098,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 93145,
-      "num": 93145,
-      "word": "BLG战胜WE",
-      "onboard_time": 1718288421,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 93095,
@@ -47099,14 +47131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75234,
-      "num": 153445,
-      "word": "关注广东梅州暴雨",
-      "onboard_time": 1718716398,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 75194,
       "num": 75194,
       "word": "刘亦菲19岁时的采访",
@@ -47457,6 +47481,14 @@
       "onboard_time": 1717491679,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71294,
+      "num": 356954,
+      "word": "斯坦福博士当乡镇公务员不必夸大解读",
+      "onboard_time": 1718716217,
+      "rank": 30,
+      "category": "社会议题"
     },
     {
       "raw_hot": 71198,
@@ -48697,14 +48729,6 @@
       "onboard_time": 1717436353,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 57978,
-      "num": 152697,
-      "word": "斯坦福博士当乡镇公务员不必夸大解读",
-      "onboard_time": 1718716217,
-      "rank": 30,
-      "category": "社会议题"
     },
     {
       "raw_hot": 57911,
@@ -50308,7 +50332,7 @@
     },
     {
       "raw_hot": 41607,
-      "num": 140404,
+      "num": 149725,
       "word": "京东618最后4小时",
       "onboard_time": 1718713697,
       "rank": 37,
@@ -50785,6 +50809,14 @@
       "onboard_time": 1718540538,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37410,
+      "num": 194832,
+      "word": "彭昱畅想考驾照的心达到了顶峰",
+      "onboard_time": 1718713277,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 37338,
@@ -51553,14 +51585,6 @@
       "onboard_time": 1717554198,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 30186,
-      "num": 194832,
-      "word": "彭昱畅想考驾照的心达到了顶峰",
-      "onboard_time": 1718713277,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 30044,
@@ -53595,7 +53619,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3566,
+      "raw_hot": 5261,
       "num": 607071,
       "word": "国之重器更是国之底气",
       "onboard_time": 1718669237,
