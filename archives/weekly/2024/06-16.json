@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718687968854,
+  "endTime": 1718688952730,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -539,6 +539,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 912731,
+      "num": 400420,
+      "word": "东方卫视称未取消任何艺人获奖资格",
+      "onboard_time": 1718687359,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 909842,
       "num": 909842,
       "word": "跳跳俏俏芽芽演唱会表白张杰",
@@ -699,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789884,
+      "num": 244509,
+      "word": "天水麻辣烫倒闭成网络流量密码",
+      "onboard_time": 1718685078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782974,
       "num": 782974,
       "word": "东极岛",
@@ -785,14 +801,6 @@
       "onboard_time": 1718595257,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 720253,
-      "num": 244509,
-      "word": "天水麻辣烫倒闭成网络流量密码",
-      "onboard_time": 1718685078,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 712449,
@@ -995,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 607713,
+      "num": 398766,
+      "word": "朱朱蔡蔡be",
+      "onboard_time": 1718686880,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607067,
       "num": 234861,
       "word": "男子与涉黄老板冲突后被暴打从6楼扔下",
@@ -1123,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 564314,
+      "num": 438473,
+      "word": "BLACKPINK成员各自的公司",
+      "onboard_time": 1718685619,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 563556,
       "num": 563556,
       "word": "冷藏货车违规乘人致8死司机被控制",
@@ -1153,14 +1177,6 @@
       "onboard_time": 1718548279,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 557614,
-      "num": 438473,
-      "word": "BLACKPINK成员各自的公司",
-      "onboard_time": 1718685619,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 557322,
@@ -1379,19 +1395,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 510830,
+      "num": 361121,
+      "word": "鞠婧祎假唱",
+      "onboard_time": 1718687659,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 504498,
       "num": 504498,
       "word": "孙丞潇压力大给金莎打视频",
       "onboard_time": 1718585897,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 503436,
-      "num": 400420,
-      "word": "东方卫视称未取消任何艺人获奖资格",
-      "onboard_time": 1718687359,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -1593,14 +1609,6 @@
       "onboard_time": 1718508378,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 451058,
-      "num": 398766,
-      "word": "朱朱蔡蔡be",
-      "onboard_time": 1718686880,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 449462,
@@ -1921,6 +1929,14 @@
       "onboard_time": 1718575931,
       "rank": 36,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 384423,
+      "num": 384423,
+      "word": "为什么女生老觉得办公室空调太冷",
+      "onboard_time": 1718686219,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 384179,
@@ -2337,14 +2353,6 @@
       "onboard_time": 1718604318,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 323552,
-      "num": 234363,
-      "word": "鞠婧祎假唱",
-      "onboard_time": 1718687659,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 323281,
@@ -2859,14 +2867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249066,
-      "num": 249066,
-      "word": "为什么女生老觉得办公室空调太冷",
-      "onboard_time": 1718686219,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 246581,
       "num": 246581,
       "word": "卧铺车上面对女乘客裸睡男子被拘5日",
@@ -2985,6 +2985,14 @@
       "onboard_time": 1718462720,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230891,
+      "num": 198857,
+      "word": "txt票价",
+      "onboard_time": 1718687600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 230057,
@@ -3411,6 +3419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204462,
+      "num": 204462,
+      "word": "可以当吸管的贵州非遗面条有多绝",
+      "onboard_time": 1718687119,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 203584,
       "num": 203584,
       "word": "腾讯视频回应胡歌",
@@ -3460,7 +3476,7 @@
     },
     {
       "raw_hot": 202466,
-      "num": 175397,
+      "num": 191571,
       "word": "林更新评论区",
       "onboard_time": 1718687659,
       "rank": 30,
@@ -3513,6 +3529,14 @@
       "onboard_time": 1718629818,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198715,
+      "num": 198715,
+      "word": "丝芭传媒",
+      "onboard_time": 1718688918,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 198500,
@@ -4195,12 +4219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175408,
-      "num": 175408,
-      "word": "可以当吸管的贵州非遗面条有多绝",
-      "onboard_time": 1718687119,
-      "rank": 29,
-      "category": "美食"
+      "raw_hot": 176226,
+      "num": 176226,
+      "word": "小狗掉的小乳牙",
+      "onboard_time": 1718687478,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 175244,
@@ -4297,14 +4321,6 @@
       "onboard_time": 1718493073,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171312,
-      "num": 171312,
-      "word": "txt票价",
-      "onboard_time": 1718687600,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 171107,
@@ -4723,6 +4739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 158732,
+      "num": 158732,
+      "word": "猫是回来了但扫地机器人丢了",
+      "onboard_time": 1718688258,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158487,
       "num": 158487,
       "word": "墨雨云间27集满广",
@@ -4779,6 +4803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157385,
+      "num": 157385,
+      "word": "发现前任同事留下的隐藏文件",
+      "onboard_time": 1718688258,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 157208,
       "num": 169403,
       "word": "像极了我刚旅游回来的样子",
@@ -4793,6 +4825,14 @@
       "onboard_time": 1718500037,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156555,
+      "num": 156555,
+      "word": "B站第200亿条弹幕是哈哈哈哈哈",
+      "onboard_time": 1718688438,
+      "rank": 35,
+      "category": "互联网"
     },
     {
       "raw_hot": 155462,
@@ -4873,14 +4913,6 @@
       "onboard_time": 1718600539,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152812,
-      "num": 152812,
-      "word": "小狗掉的小乳牙",
-      "onboard_time": 1718687478,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 152622,
@@ -5265,6 +5297,14 @@
       "onboard_time": 1718464459,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138756,
+      "num": 138756,
+      "word": "世界之外",
+      "onboard_time": 1718688498,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 138746,
@@ -5923,20 +5963,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123058,
+      "num": 123058,
+      "word": "怦然心动20岁第四季",
+      "onboard_time": 1718687899,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123046,
       "num": 123046,
       "word": "王楚钦北体毕业祝福",
       "onboard_time": 1718673797,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122739,
-      "num": 122739,
-      "word": "怦然心动20岁第四季",
-      "onboard_time": 1718687899,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 122579,
@@ -6843,6 +6883,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 83364,
+      "num": 402385,
+      "word": "快递单广告中奖率只有十万分之一",
+      "onboard_time": 1718686819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82269,
       "num": 124968,
       "word": "摩羯座真正的追求",
@@ -7323,18 +7371,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 46932,
-      "num": 324202,
-      "word": "大学毕业典礼的国风氛围感绝了",
-      "onboard_time": 1718536818,
+      "raw_hot": 47558,
+      "num": 378022,
+      "word": "相关单位谈斯坦福博士拟被录用",
+      "onboard_time": 1718688618,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46757,
-      "num": 402385,
-      "word": "快递单广告中奖率只有十万分之一",
-      "onboard_time": 1718686819,
+      "raw_hot": 46932,
+      "num": 324202,
+      "word": "大学毕业典礼的国风氛围感绝了",
+      "onboard_time": 1718536818,
       "rank": 9,
       "category": "社会新闻"
     },
