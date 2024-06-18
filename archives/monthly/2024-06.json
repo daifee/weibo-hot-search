@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718674947271,
+  "endTime": 1718678150620,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1668,7 +1668,7 @@
     },
     {
       "raw_hot": 1361504,
-      "num": 809721,
+      "num": 909831,
       "word": "假唱",
       "onboard_time": 1718667976,
       "rank": 3,
@@ -1897,6 +1897,14 @@
       "onboard_time": 1717462339,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1278811,
+      "num": 1146249,
+      "word": "姜萍答数学题 完整复盘",
+      "onboard_time": 1718674096,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1278494,
@@ -2385,6 +2393,14 @@
       "onboard_time": 1717297338,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1155041,
+      "num": 1155041,
+      "word": "林更新评论区 骂骂咧咧来支支吾吾走",
+      "onboard_time": 1718677036,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1152390,
@@ -3753,6 +3769,14 @@
       "onboard_time": 1718429779,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 904300,
+      "num": 696246,
+      "word": "林更新 你好像把脑子给颠坏了",
+      "onboard_time": 1718675297,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 902628,
@@ -6507,6 +6531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 652197,
+      "num": 401995,
+      "word": "福宝是第一个把笋笋剥净了吃的",
+      "onboard_time": 1718676977,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651369,
       "num": 422900,
       "word": "魏大勋好S",
@@ -7281,6 +7313,14 @@
       "onboard_time": 1717373418,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598676,
+      "num": 218513,
+      "word": "1周饿2天就能解决脂肪肝吗",
+      "onboard_time": 1718674577,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 598319,
@@ -8636,7 +8676,7 @@
     },
     {
       "raw_hot": 531561,
-      "num": 209408,
+      "num": 217176,
       "word": "17岁小伙体重207斤每天狂喝6升水",
       "onboard_time": 1718672417,
       "rank": 20,
@@ -9249,6 +9289,14 @@
       "onboard_time": 1718118321,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 512001,
+      "num": 401270,
+      "word": "张杰唱歌前没有话筒的反应",
+      "onboard_time": 1718675658,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 511978,
@@ -10057,6 +10105,14 @@
       "onboard_time": 1718002098,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477221,
+      "num": 477221,
+      "word": "iPhone16Pro或加大不加厚",
+      "onboard_time": 1718673198,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 477155,
@@ -17243,14 +17299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288562,
-      "num": 288562,
-      "word": "iPhone16Pro或加大不加厚",
-      "onboard_time": 1718673198,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 288483,
       "num": 202060,
       "word": "张靓颖嘉宾 王力宏",
@@ -21107,6 +21155,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227306,
+      "num": 227306,
+      "word": "舍不得食物语",
+      "onboard_time": 1718677576,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 227275,
+      "num": 148964,
+      "word": "苹果停止先买后付服务",
+      "onboard_time": 1718676737,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 227260,
       "num": 203491,
       "word": "墨雨云间张雨绮出场",
@@ -21900,7 +21964,7 @@
     },
     {
       "raw_hot": 218429,
-      "num": 850973,
+      "num": 912002,
       "word": "教育部首次上线高考志愿信息系统",
       "onboard_time": 1718618298,
       "rank": 31,
@@ -22153,14 +22217,6 @@
       "onboard_time": 1717474279,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216197,
-      "num": 216197,
-      "word": "姜萍答数学题 完整复盘",
-      "onboard_time": 1718674096,
-      "rank": 18,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 216192,
@@ -24137,6 +24193,14 @@
       "onboard_time": 1718028979,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202190,
+      "num": 146889,
+      "word": "4种异常提示该查妇科了",
+      "onboard_time": 1718676796,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 202089,
@@ -26875,6 +26939,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 187378,
+      "num": 187378,
+      "word": "反季羽绒服不到百元值得买吗",
+      "onboard_time": 1718677458,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 187295,
       "num": 187295,
       "word": "内娱有自己的全在俊",
@@ -27041,6 +27113,14 @@
       "onboard_time": 1717654938,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186410,
+      "num": 186410,
+      "word": "玫瑰向方协文提出离婚",
+      "onboard_time": 1718672778,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 186401,
@@ -28265,6 +28345,14 @@
       "onboard_time": 1718620517,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178479,
+      "num": 178479,
+      "word": "郭靖黄蓉选角",
+      "onboard_time": 1718675596,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 178405,
@@ -30011,6 +30099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167962,
+      "num": 167962,
+      "word": "于正说对墨雨云间全部亲力亲为",
+      "onboard_time": 1718676437,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167961,
       "num": 190510,
       "word": "57岁考王梁实直播复习",
@@ -31313,14 +31409,6 @@
       "onboard_time": 1718091618,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160920,
-      "num": 160920,
-      "word": "玫瑰向方协文提出离婚",
-      "onboard_time": 1718672778,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 160902,
@@ -32969,6 +33057,14 @@
       "onboard_time": 1718282837,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152434,
+      "num": 152434,
+      "word": "村民拔萝卜式拉车好可爱",
+      "onboard_time": 1718675596,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152373,
@@ -36811,14 +36907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133008,
-      "num": 133008,
-      "word": "1周饿2天就能解决脂肪肝吗",
-      "onboard_time": 1718674577,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132988,
       "num": 132988,
       "word": "把单位发的粽香红茶当粽子煮了",
@@ -36939,6 +37027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132466,
+      "num": 132466,
+      "word": "张杰好奇曾比特的爆炸头",
+      "onboard_time": 1718676136,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132453,
       "num": 132453,
       "word": "精卫舞台",
@@ -37041,6 +37137,14 @@
       "onboard_time": 1717537090,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 132094,
+      "num": 132094,
+      "word": "张若昀许凯檀健次偷感好重",
+      "onboard_time": 1718675897,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 132002,
@@ -39041,6 +39145,14 @@
       "onboard_time": 1717543936,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123409,
+      "num": 123409,
+      "word": "看似撞脸实则不同的专业",
+      "onboard_time": 1718676917,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123355,
@@ -41899,6 +42011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108595,
+      "num": 108595,
+      "word": "吴谨言王星越贴贴不是P的",
+      "onboard_time": 1718674757,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108573,
       "num": 436699,
       "word": "一体育老师用28年照顾276个孩子",
@@ -42521,14 +42641,6 @@
       "onboard_time": 1718634559,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104593,
-      "num": 104593,
-      "word": "吴谨言王星越贴贴不是P的",
-      "onboard_time": 1718674757,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 104572,
@@ -43507,6 +43619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97400,
+      "num": 97400,
+      "word": "以后家里办事就靠狗子的关系了",
+      "onboard_time": 1718678057,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97299,
       "num": 521260,
       "word": "经济学者建议大幅调高农民养老金",
@@ -43985,6 +44105,14 @@
       "onboard_time": 1717290796,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91342,
+      "num": 402547,
+      "word": "温州乳胶床垫造假企业被立案调查",
+      "onboard_time": 1718677458,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91333,
@@ -46017,6 +46145,14 @@
       "onboard_time": 1718320995,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65071,
+      "num": 132274,
+      "word": "美国每周往巴拿马扔1500万只苍蝇",
+      "onboard_time": 1718677338,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64985,
