@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718696108573,
+  "endTime": 1718699097957,
   "band_list": [
     {
       "raw_hot": 2128409,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1052383,
+      "num": 1052383,
+      "word": "于正 我承认我错了",
+      "onboard_time": 1718696418,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 986040,
       "num": 986040,
       "word": "医生提醒尽量不要生吃海鲜和肉",
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 736403,
+      "num": 335558,
+      "word": "酒店标错价40元一晚被订上千单",
+      "onboard_time": 1718694317,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 730757,
       "num": 724396,
       "word": "体检发现多了一个器官",
@@ -211,19 +227,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 629055,
-      "num": 629055,
+      "raw_hot": 649534,
+      "num": 649534,
       "word": "日本食人菌大爆发感染超千例",
       "onboard_time": 1718692277,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 611555,
-      "num": 335558,
-      "word": "酒店标错价40元一晚被订上千单",
-      "onboard_time": 1718694317,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575759,
+      "num": 330870,
+      "word": "腋下管理",
+      "onboard_time": 1718695158,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 574794,
       "num": 574794,
       "word": "男子用AI伪造学生同事近7000张裸照",
@@ -313,6 +329,14 @@
       "onboard_time": 1718692096,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 544921,
+      "num": 323405,
+      "word": "北约威胁中国若再援俄或付出经济代价",
+      "onboard_time": 1718694138,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 537207,
@@ -411,12 +435,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 460988,
+      "num": 422668,
+      "word": "周深曾说等了张杰8年",
+      "onboard_time": 1718697619,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459396,
       "num": 459396,
       "word": "教育部提醒切勿轻信高价志愿填报指导",
       "onboard_time": 1718672479,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 446242,
+      "num": 312201,
+      "word": "林更新提到刘亦菲连说三个美",
+      "onboard_time": 1718698218,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 442626,
@@ -427,20 +467,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 438483,
-      "num": 330870,
-      "word": "腋下管理",
-      "onboard_time": 1718695158,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 427153,
-      "num": 323405,
-      "word": "北约威胁中国若再援俄或付出经济代价",
-      "onboard_time": 1718694138,
-      "rank": 18,
-      "category": "国内时政"
+      "raw_hot": 428426,
+      "num": 428426,
+      "word": "韩国首尔大学医院529人无限期停诊",
+      "onboard_time": 1718694920,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 424274,
@@ -555,6 +587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 352180,
+      "num": 216788,
+      "word": "晨尿发黄是肾有问题吗",
+      "onboard_time": 1718697677,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 344922,
       "num": 344922,
       "word": "150人在缅北冒充军人搞诈骗被抓",
@@ -625,14 +665,6 @@
       "onboard_time": 1718679136,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 299270,
-      "num": 299270,
-      "word": "韩国首尔大学医院529人无限期停诊",
-      "onboard_time": 1718694920,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 295836,
@@ -713,6 +745,14 @@
       "onboard_time": 1718693418,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268872,
+      "num": 268872,
+      "word": "专家回应为何高校不破格录取姜萍",
+      "onboard_time": 1718696898,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263354,
@@ -867,6 +907,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207459,
+      "num": 207459,
+      "word": "研一差点被导师移出师门群",
+      "onboard_time": 1718697498,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 206374,
+      "num": 206374,
+      "word": "林更新被删哭戏",
+      "onboard_time": 1718698278,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206215,
       "num": 206215,
       "word": "夏季赛第一周最佳阵容",
@@ -929,6 +985,14 @@
       "onboard_time": 1718684899,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 195322,
+      "num": 169816,
+      "word": "林更新战绩可查",
+      "onboard_time": 1718698218,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 191919,
@@ -1435,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131397,
+      "num": 131397,
+      "word": "千万别让领导知道你的其他技能",
+      "onboard_time": 1718698520,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130117,
       "num": 130117,
       "word": "网友写的薛芳菲萧蘅婚后日常",
@@ -1451,6 +1523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129656,
+      "num": 129656,
+      "word": "李奕臻给鞠婧祎发声",
+      "onboard_time": 1718697619,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129454,
       "num": 198804,
       "word": "巴西航天局将俄罗斯女航天员描绘成黑人",
@@ -1465,6 +1545,14 @@
       "onboard_time": 1718693779,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128573,
+      "num": 128573,
+      "word": "终于知道为什么工作党考研上岸率高了",
+      "onboard_time": 1718698159,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 128569,
@@ -1689,6 +1777,14 @@
       "onboard_time": 1718666535,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103738,
+      "num": 103738,
+      "word": "未写在书本上的女性冷知识",
+      "onboard_time": 1718698879,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 102721,
@@ -1985,6 +2081,14 @@
       "onboard_time": 1718667256,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44791,
+      "num": 334626,
+      "word": "小姑娘失手摔烂西瓜诚实告知老板",
+      "onboard_time": 1718698458,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41838,
