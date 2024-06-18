@@ -1,7 +1,15 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718709436651,
+  "endTime": 1718710527018,
   "band_list": [
+    {
+      "raw_hot": 2554433,
+      "num": 2554433,
+      "word": "鞠婧祎 到期不续",
+      "onboard_time": 1718709137,
+      "rank": 7,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2128409,
       "num": 1091314,
@@ -475,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 506750,
+      "num": 506750,
+      "word": "科大讯飞内部通报员工去世",
+      "onboard_time": 1718709557,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501473,
       "num": 376975,
       "word": "林更新怼黑粉 一战成名",
@@ -483,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496589,
+      "num": 496589,
+      "word": "男子为快速入睡吃了40多片安眠药",
+      "onboard_time": 1718702719,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492879,
       "num": 492879,
       "word": "郭麒麟回应瘦了",
       "onboard_time": 1718693479,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 489876,
-      "num": 489876,
-      "word": "男子为快速入睡吃了40多片安眠药",
-      "onboard_time": 1718702719,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 484300,
@@ -600,14 +616,6 @@
       "word": "丝芭传媒已注册鞠婧祎商标",
       "onboard_time": 1718691018,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 401704,
-      "num": 365423,
-      "word": "鞠婧祎 到期不续",
-      "onboard_time": 1718709137,
-      "rank": 7,
       "category": "艺人"
     },
     {
@@ -785,6 +793,14 @@
       "onboard_time": 1718634619,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 320199,
+      "num": 320199,
+      "word": "严浩翔几乎成名",
+      "onboard_time": 1718709197,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 318651,
@@ -1051,12 +1067,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230842,
-      "num": 230842,
-      "word": "严浩翔几乎成名",
-      "onboard_time": 1718709197,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 229301,
+      "num": 229301,
+      "word": "还好不是刘亦菲",
+      "onboard_time": 1718709258,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 229262,
+      "num": 229262,
+      "word": "看中医 不要化妆",
+      "onboard_time": 1718709737,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227894,
@@ -1155,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209713,
+      "num": 209713,
+      "word": "科大讯飞",
+      "onboard_time": 1718709858,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207968,
       "num": 207968,
       "word": "那英吃香肠偷感好重",
@@ -1235,12 +1267,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200182,
+      "num": 200182,
+      "word": "网传科大讯飞有员工因加班猝死",
+      "onboard_time": 1718708777,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198715,
       "num": 198715,
       "word": "丝芭传媒",
       "onboard_time": 1718688918,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198447,
+      "num": 198447,
+      "word": "嘘国王在冬眠",
+      "onboard_time": 1718709317,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 196604,
@@ -1843,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131763,
+      "num": 131763,
+      "word": "张杰歌迷会公益",
+      "onboard_time": 1718709676,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131397,
       "num": 131397,
       "word": "千万别让领导知道你的其他技能",
@@ -1889,6 +1945,14 @@
       "onboard_time": 1718681117,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129329,
+      "num": 129329,
+      "word": "突然发现双鱼精神世界边界感好强",
+      "onboard_time": 1718706077,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 128992,
@@ -1987,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123250,
+      "num": 323058,
+      "word": "今年618是天猫的硬控区",
+      "onboard_time": 1718708416,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123058,
       "num": 123058,
       "word": "怦然心动20岁第四季",
@@ -2017,14 +2089,6 @@
       "onboard_time": 1718626877,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 120113,
-      "num": 120113,
-      "word": "突然发现双鱼精神世界边界感好强",
-      "onboard_time": 1718706077,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 119962,
@@ -2059,14 +2123,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 114753,
-      "num": 114753,
-      "word": "网传科大讯飞有员工因加班猝死",
-      "onboard_time": 1718708777,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113130,
       "num": 113130,
       "word": "发现个大学生拿快递的小妙招",
@@ -2083,28 +2139,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112197,
-      "num": 112197,
-      "word": "还好不是刘亦菲",
-      "onboard_time": 1718709258,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111538,
       "num": 371021,
       "word": "对姜萍最好的关心是不打扰",
       "onboard_time": 1718706258,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110726,
-      "num": 110726,
-      "word": "嘘国王在冬眠",
-      "onboard_time": 1718709317,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 109523,
@@ -2323,6 +2363,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 93780,
+      "num": 358519,
+      "word": "考公斯坦福博士本科为中科大",
+      "onboard_time": 1718709436,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 91342,
       "num": 449760,
       "word": "温州乳胶床垫造假企业被立案调查",
@@ -2353,14 +2401,6 @@
       "onboard_time": 1718662272,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87780,
-      "num": 303340,
-      "word": "今年618是天猫的硬控区",
-      "onboard_time": 1718708416,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 86245,
@@ -2411,6 +2451,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81062,
+      "num": 241019,
+      "word": "我和沙特王子打电竞",
+      "onboard_time": 1718706916,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 79987,
+      "num": 79987,
+      "word": "500万彩票大奖无人领",
+      "onboard_time": 1718710397,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79346,
       "num": 79346,
       "word": "王星越吴谨言这大手这小腰",
@@ -2427,6 +2483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79133,
+      "num": 79133,
+      "word": "原来不用剧烈运动也能瘦",
+      "onboard_time": 1718709737,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 78505,
       "num": 302626,
       "word": "姜萍与王闰秋可谓知音难寻",
@@ -2441,6 +2505,14 @@
       "onboard_time": 1718639778,
       "rank": 46,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 76815,
+      "num": 76815,
+      "word": "鞠婧祎honey好甜",
+      "onboard_time": 1718710457,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76379,
@@ -2569,14 +2641,6 @@
       "onboard_time": 1718667256,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44464,
-      "num": 240313,
-      "word": "我和沙特王子打电竞",
-      "onboard_time": 1718706916,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 41838,
