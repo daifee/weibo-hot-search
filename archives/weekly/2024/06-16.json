@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718735928183,
+  "endTime": 1718738148996,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -9315,6 +9315,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38085,
+      "num": 27432,
+      "word": "室友竟然在宿舍里装了个监控",
+      "onboard_time": 1718735352,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 37608,
+      "num": 36089,
+      "word": "日本疯传的食人菌是什么",
+      "onboard_time": 1718734633,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37519,
       "num": 393722,
       "word": "台湾姑娘跳中国舞被小朋友夸特别美",
@@ -9440,14 +9456,6 @@
       "word": "福宝甩杆钓鱼",
       "onboard_time": 1718665394,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33443,
-      "num": 36089,
-      "word": "日本疯传的食人菌是什么",
-      "onboard_time": 1718734633,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -9603,14 +9611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 27432,
-      "num": 27432,
-      "word": "室友竟然在宿舍里装了个监控",
-      "onboard_time": 1718735352,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 27133,
       "num": 263053,
       "word": "杭州这场街头田径赛燃爆了",
@@ -9649,6 +9649,14 @@
       "onboard_time": 1718467338,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25429,
+      "num": 25429,
+      "word": "C罗落幕首战会给葡萄牙带来什么表现",
+      "onboard_time": 1718736491,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 25395,

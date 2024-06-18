@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718735928183,
+  "endTime": 1718738148996,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -451,6 +451,22 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 38085,
+      "num": 27432,
+      "word": "室友竟然在宿舍里装了个监控",
+      "onboard_time": 1718735352,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 37608,
+      "num": 36089,
+      "word": "日本疯传的食人菌是什么",
+      "onboard_time": 1718734633,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35264,
       "num": 44316,
       "word": "菲承认对非法坐滩军舰补给失败",
@@ -467,20 +483,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33443,
-      "num": 36089,
-      "word": "日本疯传的食人菌是什么",
-      "onboard_time": 1718734633,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27432,
-      "num": 27432,
-      "word": "室友竟然在宿舍里装了个监控",
-      "onboard_time": 1718735352,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 25429,
+      "num": 25429,
+      "word": "C罗落幕首战会给葡萄牙带来什么表现",
+      "onboard_time": 1718736491,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 23509,
@@ -489,6 +497,14 @@
       "onboard_time": 1718705837,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22429,
+      "num": 22429,
+      "word": "618",
+      "onboard_time": 1718719581,
+      "rank": 36,
+      "category": "互联网"
     },
     {
       "raw_hot": 15134,
