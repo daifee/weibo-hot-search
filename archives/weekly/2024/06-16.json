@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718746489744,
+  "endTime": 1718749135614,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -7139,6 +7139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126838,
+      "num": 126838,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 126524,
       "num": 126524,
       "word": "爸爸最擅长的技能是爱我",
@@ -7297,6 +7305,14 @@
       "onboard_time": 1718700078,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123570,
+      "num": 78778,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123409,
@@ -8483,14 +8499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82701,
-      "num": 82701,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 82269,
       "num": 124968,
       "word": "摩羯座真正的追求",
@@ -9331,7 +9339,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37608,
+      "raw_hot": 38041,
       "num": 36089,
       "word": "日本疯传的食人菌是什么",
       "onboard_time": 1718734633,
@@ -9451,8 +9459,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 34418,
-      "num": 34418,
+      "raw_hot": 34569,
+      "num": 34569,
       "word": "墨雨云间 胡萝卜套苦瓜",
       "onboard_time": 1718738772,
       "rank": 38,
@@ -9553,14 +9561,6 @@
       "onboard_time": 1718535618,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 30799,
-      "num": 30799,
-      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
-      "onboard_time": 1718742671,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30563,
@@ -9771,6 +9771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22752,
+      "num": 22752,
+      "word": "菲称对非法坐滩军舰补给失败",
+      "onboard_time": 1718742730,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 22749,
       "num": 390782,
       "word": "福建上杭强降雨致内涝消防紧急救援",
@@ -9867,20 +9875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19112,
+      "num": 21264,
+      "word": "见证C罗职业生涯900球",
+      "onboard_time": 1718748913,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18329,
       "num": 129922,
       "word": "全网都在接紫定红好运",
       "onboard_time": 1718604018,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 18293,
-      "num": 18293,
-      "word": "菲称对非法坐滩军舰补给失败",
-      "onboard_time": 1718742730,
-      "rank": 47,
-      "category": "国外时政"
     },
     {
       "raw_hot": 18088,
@@ -9929,6 +9937,14 @@
       "onboard_time": 1718643015,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16836,
+      "num": 21223,
+      "word": "什么事会让你觉得这个人不讲卫生",
+      "onboard_time": 1718749091,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 16640,

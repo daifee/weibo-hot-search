@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718746489744,
+  "endTime": 1718749135614,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -211,12 +211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126838,
+      "num": 126838,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 123984,
       "num": 123984,
       "word": "丝芭曾与多位SNH48原成员存在纠纷",
       "onboard_time": 1718731753,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123570,
+      "num": 78778,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122084,
@@ -321,14 +337,6 @@
       "onboard_time": 1718719698,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82701,
-      "num": 82701,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 81690,
@@ -467,7 +475,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37608,
+      "raw_hot": 38041,
       "num": 36089,
       "word": "日本疯传的食人菌是什么",
       "onboard_time": 1718734633,
@@ -483,8 +491,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 34418,
-      "num": 34418,
+      "raw_hot": 34569,
+      "num": 34569,
       "word": "墨雨云间 胡萝卜套苦瓜",
       "onboard_time": 1718738772,
       "rank": 38,
@@ -507,14 +515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30799,
-      "num": 30799,
-      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
-      "onboard_time": 1718742671,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26996,
       "num": 26996,
       "word": "姆巴佩无缘对阵荷兰",
@@ -531,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22752,
+      "num": 22752,
+      "word": "菲称对非法坐滩军舰补给失败",
+      "onboard_time": 1718742730,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 22429,
       "num": 22429,
       "word": "618",
@@ -539,12 +547,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 18293,
-      "num": 18293,
-      "word": "菲称对非法坐滩军舰补给失败",
-      "onboard_time": 1718742730,
-      "rank": 47,
-      "category": "国外时政"
+      "raw_hot": 19112,
+      "num": 21264,
+      "word": "见证C罗职业生涯900球",
+      "onboard_time": 1718748913,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 18088,
@@ -553,6 +561,14 @@
       "onboard_time": 1718740570,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 16836,
+      "num": 21223,
+      "word": "什么事会让你觉得这个人不讲卫生",
+      "onboard_time": 1718749091,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 15511,
