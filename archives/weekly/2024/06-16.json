@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718684563811,
+  "endTime": 1718685379597,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 973232,
+      "num": 973232,
+      "word": "杨紫将担任巴黎奥运火炬手",
+      "onboard_time": 1718681838,
+      "rank": 3,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 969348,
       "num": 969348,
       "word": "赖冠霖说工作室没钱了",
@@ -507,14 +515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 953577,
-      "num": 953577,
-      "word": "杨紫将担任巴黎奥运火炬手",
-      "onboard_time": 1718681838,
-      "rank": 3,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 949872,
       "num": 949872,
       "word": "养老金",
@@ -529,6 +529,14 @@
       "onboard_time": 1718626157,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 914895,
+      "num": 552685,
+      "word": "米卡 黄亦玫的第五个男生",
+      "onboard_time": 1718683579,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 909842,
@@ -979,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603047,
+      "num": 441368,
+      "word": "黄亦玫孕期看到爸妈的反应",
+      "onboard_time": 1718684240,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 601988,
       "num": 601988,
       "word": "男子连续5年点同一粤菜馆2101次",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1718581996,
       "rank": 4,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 562964,
-      "num": 451503,
-      "word": "米卡 黄亦玫的第五个男生",
-      "onboard_time": 1718683579,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 561706,
@@ -1323,12 +1331,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 513145,
+      "num": 248737,
+      "word": "新加坡门将向中国游客道歉",
+      "onboard_time": 1718682498,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 512412,
       "num": 512412,
       "word": "开空调嫌冷 不开空调嫌热",
       "onboard_time": 1718502618,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 511281,
+      "num": 511281,
+      "word": "花怜 国宴",
+      "onboard_time": 1718683338,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 510872,
@@ -1473,14 +1497,6 @@
       "onboard_time": 1718586079,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461189,
-      "num": 248737,
-      "word": "新加坡门将向中国游客道歉",
-      "onboard_time": 1718682498,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 459560,
@@ -2115,6 +2131,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 345889,
+      "num": 228298,
+      "word": "凤凰传奇 抢票",
+      "onboard_time": 1718684779,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 345542,
       "num": 345542,
       "word": "以后骂人不能骂她是梅超风了",
@@ -2259,14 +2283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 324992,
-      "num": 324992,
-      "word": "花怜 国宴",
-      "onboard_time": 1718683338,
-      "rank": 16,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 324463,
       "num": 324463,
       "word": "林更新说演研究生压力很大",
@@ -2304,6 +2320,14 @@
       "word": "墨雨云间",
       "onboard_time": 1718514197,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 316415,
+      "num": 247663,
+      "word": "佟大为觉得庄国栋更适合黄亦玫",
+      "onboard_time": 1718683759,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -2747,14 +2771,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 251066,
-      "num": 247663,
-      "word": "佟大为觉得庄国栋更适合黄亦玫",
-      "onboard_time": 1718683759,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250991,
       "num": 197648,
       "word": "金晨一只袖子上有30颗珍珠",
@@ -2883,14 +2899,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233663,
-      "num": 207826,
-      "word": "黄亦玫孕期看到爸妈的反应",
-      "onboard_time": 1718684240,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 233197,
       "num": 209774,
       "word": "男生兼职攒一千给家里厨房装空调",
@@ -2905,6 +2913,14 @@
       "onboard_time": 1718462720,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230651,
+      "num": 230651,
+      "word": "Shopee内部通知一员工猝死",
+      "onboard_time": 1718684719,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230057,
@@ -2995,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223621,
+      "num": 223621,
+      "word": "天水麻辣烫倒闭成网络流量密码",
+      "onboard_time": 1718685078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222935,
       "num": 222935,
       "word": "独行侠vs凯尔特人",
@@ -3065,6 +3089,14 @@
       "onboard_time": 1718591057,
       "rank": 30,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 220049,
+      "num": 220049,
+      "word": "王星越买不断根本买不断",
+      "onboard_time": 1718684539,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 218986,
@@ -3283,6 +3315,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 206215,
+      "num": 206215,
+      "word": "夏季赛第一周最佳阵容",
+      "onboard_time": 1718685198,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205799,
       "num": 205799,
       "word": "滴滴6亿补贴鼓励司机开空调",
@@ -3467,6 +3507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196604,
+      "num": 196604,
+      "word": "杨紫宣传奥林匹克精神",
+      "onboard_time": 1718684899,
+      "rank": 35,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 196191,
       "num": 196191,
       "word": "抓特务",
@@ -3633,6 +3681,14 @@
       "onboard_time": 1718540239,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 191335,
+      "num": 191335,
+      "word": "朱一龙有潜水证",
+      "onboard_time": 1718684298,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 191105,
@@ -4451,14 +4507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161621,
-      "num": 161621,
-      "word": "朱一龙有潜水证",
-      "onboard_time": 1718684298,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 161492,
       "num": 161492,
       "word": "斯坦丘世界波",
@@ -4545,6 +4593,14 @@
       "onboard_time": 1718526017,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158881,
+      "num": 158881,
+      "word": "东契奇赛后采访",
+      "onboard_time": 1718683279,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 158772,
@@ -4883,6 +4939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146215,
+      "num": 451969,
+      "word": "大学生毕业租房踩过多少雷",
+      "onboard_time": 1718683218,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146195,
       "num": 146195,
       "word": "魔兽世界",
@@ -5081,14 +5145,6 @@
       "onboard_time": 1718595557,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137334,
-      "num": 137334,
-      "word": "东契奇赛后采访",
-      "onboard_time": 1718683279,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 136967,
@@ -5315,6 +5371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131501,
+      "num": 131501,
+      "word": "去新疆的朋友圈要这样发",
+      "onboard_time": 1718683878,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 131497,
       "num": 131497,
       "word": "2024上半年黑马剧",
@@ -5353,14 +5417,6 @@
       "onboard_time": 1718608576,
       "rank": 45,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 130778,
-      "num": 130778,
-      "word": "王星越买不断根本买不断",
-      "onboard_time": 1718684539,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 130722,
@@ -6124,7 +6180,7 @@
     },
     {
       "raw_hot": 106573,
-      "num": 106573,
+      "num": 1143120,
       "word": "文化中国行听不腻的传统音乐",
       "onboard_time": 1718672778,
       "rank": 42,
@@ -6361,14 +6417,6 @@
       "onboard_time": 1718518337,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99555,
-      "num": 451969,
-      "word": "大学生毕业租房踩过多少雷",
-      "onboard_time": 1718683218,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98647,
@@ -7084,7 +7132,7 @@
     },
     {
       "raw_hot": 48918,
-      "num": 208066,
+      "num": 234914,
       "word": "京东周年庆生日免单",
       "onboard_time": 1718683579,
       "rank": 30,
@@ -7625,6 +7673,14 @@
       "onboard_time": 1718647092,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23280,
+      "num": 225241,
+      "word": "脑瘫小伙登上健美比赛舞台全场欢呼",
+      "onboard_time": 1718682738,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22893,

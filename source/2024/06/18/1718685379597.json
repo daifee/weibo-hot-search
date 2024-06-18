@@ -1,0 +1,410 @@
+{
+  "runTime": 1718685379597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1999903,
+        "num": 1999903,
+        "word": "林更新评论区 骂骂咧咧来支支吾吾走",
+        "onboard_time": 1718677036,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1424008,
+        "num": 1424008,
+        "word": "中国女游客被韩国酒店员工性侵",
+        "onboard_time": 1718680216,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20192,
+        "num": 1143120,
+        "word": "文化中国行听不腻的传统音乐",
+        "onboard_time": 1718672778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973232,
+        "num": 973232,
+        "word": "杨紫将担任巴黎奥运火炬手",
+        "onboard_time": 1718681838,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 633423,
+        "num": 633423,
+        "word": "杰伦布朗FMVP",
+        "onboard_time": 1718681117,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 572054,
+        "num": 572054,
+        "word": "福宝是第一个把笋笋剥净了吃的",
+        "onboard_time": 1718676977,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914895,
+        "num": 552685,
+        "word": "米卡 黄亦玫的第五个男生",
+        "onboard_time": 1718683579,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 800238,
+        "num": 544813,
+        "word": "鞠婧祎 续约",
+        "onboard_time": 1718679558,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511281,
+        "num": 511281,
+        "word": "花怜 国宴",
+        "onboard_time": 1718683338,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 446417,
+        "num": 446417,
+        "word": "斯坦福大学博士拟被录用乡镇公务员",
+        "onboard_time": 1718670437,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603047,
+        "num": 441368,
+        "word": "黄亦玫孕期看到爸妈的反应",
+        "onboard_time": 1718684240,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491687,
+        "num": 437618,
+        "word": "林更新 你好像把脑子给颠坏了",
+        "onboard_time": 1718675297,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431603,
+        "num": 431603,
+        "word": "假唱",
+        "onboard_time": 1718667976,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313094,
+        "num": 313094,
+        "word": "150人在缅北冒充军人搞诈骗被抓",
+        "onboard_time": 1718682438,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257623,
+        "num": 257623,
+        "word": "凯尔特人总冠军",
+        "onboard_time": 1718679858,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39204,
+        "num": 234914,
+        "word": "京东周年庆生日免单",
+        "onboard_time": 1718683579,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23739,
+        "num": 232725,
+        "word": "今年618还是在天猫省最多",
+        "onboard_time": 1718683459,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 475361,
+        "num": 232034,
+        "word": "林更新演技",
+        "onboard_time": 1718628257,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230651,
+        "num": 230651,
+        "word": "Shopee内部通知一员工猝死",
+        "onboard_time": 1718684719,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69896,
+        "num": 230080,
+        "word": "看似撞脸实则不同的专业",
+        "onboard_time": 1718676917,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513145,
+        "num": 229831,
+        "word": "新加坡门将向中国游客道歉",
+        "onboard_time": 1718682498,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462957,
+        "num": 228886,
+        "word": "贾乃亮赚翻了背后MCN亏惨了",
+        "onboard_time": 1718678477,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345889,
+        "num": 228298,
+        "word": "凤凰传奇 抢票",
+        "onboard_time": 1718684779,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 343286,
+        "num": 227355,
+        "word": "鞠婧祎不是女团了",
+        "onboard_time": 1718679497,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316415,
+        "num": 227025,
+        "word": "佟大为觉得庄国栋更适合黄亦玫",
+        "onboard_time": 1718683759,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218271,
+        "num": 226397,
+        "word": "食物语正式关服",
+        "onboard_time": 1718680278,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23280,
+        "num": 225241,
+        "word": "脑瘫小伙登上健美比赛舞台全场欢呼",
+        "onboard_time": 1718682738,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280044,
+        "num": 224614,
+        "word": "范闲庆帝骨子里的相似",
+        "onboard_time": 1718680098,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231516,
+        "num": 223766,
+        "word": "鞠婧祎发两个问号",
+        "onboard_time": 1718683338,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223621,
+        "num": 223621,
+        "word": "天水麻辣烫倒闭成网络流量密码",
+        "onboard_time": 1718685078,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220049,
+        "num": 220049,
+        "word": "王星越买不断根本买不断",
+        "onboard_time": 1718684539,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206411,
+        "num": 206411,
+        "word": "张杰唱歌前没有话筒的反应",
+        "onboard_time": 1718675658,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37954,
+        "num": 206292,
+        "word": "焦大银等4人拟被认定见义勇为",
+        "onboard_time": 1718681178,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206215,
+        "num": 206215,
+        "word": "夏季赛第一周最佳阵容",
+        "onboard_time": 1718685198,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197732,
+        "num": 197732,
+        "word": "1周饿2天就能解决脂肪肝吗",
+        "onboard_time": 1718674577,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196604,
+        "num": 196604,
+        "word": "杨紫宣传奥林匹克精神",
+        "onboard_time": 1718684899,
+        "rank": 35,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 146215,
+        "num": 195001,
+        "word": "大学生毕业租房踩过多少雷",
+        "onboard_time": 1718683218,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194167,
+        "num": 194167,
+        "word": "人人都爱玫瑰其实是假象",
+        "onboard_time": 1718669958,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192613,
+        "num": 192613,
+        "word": "17岁小伙体重207斤每天狂喝6升水",
+        "onboard_time": 1718672417,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191335,
+        "num": 191335,
+        "word": "朱一龙有潜水证",
+        "onboard_time": 1718684298,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187642,
+        "num": 187642,
+        "word": "反季羽绒服不到百元值得买吗",
+        "onboard_time": 1718677458,
+        "rank": 40,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 184775,
+        "num": 184775,
+        "word": "高考623分的脑瘫少年毕业了",
+        "onboard_time": 1718679136,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 164445,
+        "num": 164445,
+        "word": "电影倒仓定档",
+        "onboard_time": 1718682438,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162155,
+        "num": 162155,
+        "word": "欧文命中率",
+        "onboard_time": 1718679377,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158881,
+        "num": 158881,
+        "word": "东契奇赛后采访",
+        "onboard_time": 1718683279,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144280,
+        "num": 144280,
+        "word": "新能源汽车人才缺口103万",
+        "onboard_time": 1718680999,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143394,
+        "num": 143394,
+        "word": "张杰唱日语歌",
+        "onboard_time": 1718684000,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136465,
+        "num": 136465,
+        "word": "医生提醒尽量不要生吃海鲜和肉",
+        "onboard_time": 1718643434,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131501,
+        "num": 131501,
+        "word": "去新疆的朋友圈要这样发",
+        "onboard_time": 1718683878,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131310,
+        "num": 131310,
+        "word": "玫瑰向方协文提出离婚",
+        "onboard_time": 1718672778,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为同心共圆中国梦广泛凝心聚力#"
+    }
+  }
+}
