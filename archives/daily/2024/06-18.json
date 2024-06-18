@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718706051220,
+  "endTime": 1718707046578,
   "band_list": [
     {
       "raw_hot": 2128409,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 859008,
+      "num": 567037,
+      "word": "黄亦玫生孩子婆婆不让打无痛",
+      "onboard_time": 1718703497,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 805462,
       "num": 805462,
       "word": "福宝是第一个把笋笋剥净了吃的",
@@ -185,14 +193,6 @@
       "onboard_time": 1718656270,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 745962,
-      "num": 479803,
-      "word": "黄亦玫生孩子婆婆不让打无痛",
-      "onboard_time": 1718703497,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 738387,
@@ -305,6 +305,14 @@
       "onboard_time": 1718674577,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 594658,
+      "num": 594658,
+      "word": "税务部门没有倒查20年30年的安排",
+      "onboard_time": 1718705837,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 586407,
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 478276,
+      "num": 370981,
+      "word": "国家税务总局答记者问",
+      "onboard_time": 1718704578,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 477221,
       "num": 477221,
       "word": "iPhone16Pro或加大不加厚",
@@ -537,6 +553,14 @@
       "onboard_time": 1718676737,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 420236,
+      "num": 420236,
+      "word": "姜萍遭质疑",
+      "onboard_time": 1718705358,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 414384,
@@ -603,14 +627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 377189,
-      "num": 348717,
-      "word": "国家税务总局答记者问",
-      "onboard_time": 1718704578,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 372688,
       "num": 372688,
       "word": "周深 事在人为",
@@ -651,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355670,
+      "num": 254467,
+      "word": "东极岛 朱一龙粉丝",
+      "onboard_time": 1718704938,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353237,
       "num": 353237,
       "word": "去新疆的朋友圈要这样发",
       "onboard_time": 1718683878,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 352819,
+      "num": 352819,
+      "word": "十个勤天帆布包",
+      "onboard_time": 1718706558,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 344922,
@@ -731,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 311377,
-      "num": 357271,
-      "word": "税务部门没有倒查20年30年的安排",
-      "onboard_time": 1718705837,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306500,
       "num": 306500,
       "word": "逆水寒手游",
@@ -811,20 +835,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286000,
+      "num": 286000,
+      "word": "逆水寒JK",
+      "onboard_time": 1718705777,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283702,
       "num": 251096,
       "word": "女子晾晒过的裙子爬满蓝色虫子",
       "onboard_time": 1718691617,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 276349,
-      "num": 276349,
-      "word": "逆水寒JK",
-      "onboard_time": 1718705777,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 276025,
@@ -907,19 +931,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 254467,
-      "num": 254467,
-      "word": "东极岛 朱一龙粉丝",
-      "onboard_time": 1718704938,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 254029,
       "num": 202682,
       "word": "林更新不觉得方协文的付出伟大",
       "onboard_time": 1718665394,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 253851,
+      "num": 253851,
+      "word": "方协文当着黄亦玫的面和妈妈说方言",
+      "onboard_time": 1718705178,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -971,12 +995,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233154,
-      "num": 233154,
-      "word": "方协文当着黄亦玫的面和妈妈说方言",
-      "onboard_time": 1718705178,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 234765,
+      "num": 234765,
+      "word": "男子为快速入睡吃了40多片安眠药",
+      "onboard_time": 1718702719,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230891,
@@ -1059,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 213887,
-      "num": 213887,
-      "word": "男子为快速入睡吃了40多片安眠药",
-      "onboard_time": 1718702719,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212674,
       "num": 212674,
       "word": "奥地利vs法国",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1718685198,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 204756,
-      "num": 204756,
-      "word": "姜萍遭质疑",
-      "onboard_time": 1718705358,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204722,
@@ -1283,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179455,
+      "num": 179455,
+      "word": "再次感受到为什么要化妆",
+      "onboard_time": 1718703138,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 179266,
       "num": 179266,
       "word": "新能源汽车人才缺口103万",
@@ -1337,14 +1353,6 @@
       "onboard_time": 1718639057,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170169,
-      "num": 170169,
-      "word": "再次感受到为什么要化妆",
-      "onboard_time": 1718703138,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 169430,
@@ -1451,6 +1459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 158415,
+      "num": 148009,
+      "word": "小边牧学猫咪走路被发现",
+      "onboard_time": 1718705898,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158319,
       "num": 158319,
       "word": "朴秀荣发了问号",
@@ -1529,6 +1545,14 @@
       "onboard_time": 1718675596,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152003,
+      "num": 152003,
+      "word": "偶像组合成员被公司代表殴打报警",
+      "onboard_time": 1718706558,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 151702,
@@ -1737,6 +1761,14 @@
       "onboard_time": 1718698520,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131327,
+      "num": 131327,
+      "word": "十二星座里谁最抠门",
+      "onboard_time": 1718706558,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 130117,
@@ -1979,12 +2011,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 108124,
-      "num": 108124,
-      "word": "小边牧学猫咪走路被发现",
-      "onboard_time": 1718705898,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 108146,
+      "num": 108146,
+      "word": "突然发现双鱼精神世界边界感好强",
+      "onboard_time": 1718706077,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 107678,
@@ -2097,6 +2129,14 @@
       "onboard_time": 1718639598,
       "rank": 34,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 101995,
+      "num": 101995,
+      "word": "傅园慧北体大毕业",
+      "onboard_time": 1718706977,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 101727,
@@ -2244,7 +2284,7 @@
     },
     {
       "raw_hot": 81127,
-      "num": 333822,
+      "num": 354130,
       "word": "哪些文科专业可以进车企",
       "onboard_time": 1718704818,
       "rank": 14,
@@ -2313,6 +2353,14 @@
       "onboard_time": 1718644033,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 69274,
+      "num": 371021,
+      "word": "对姜萍最好的关心是不打扰",
+      "onboard_time": 1718706258,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66224,
@@ -2491,6 +2539,14 @@
       "category": "社会新闻,时尚"
     },
     {
+      "raw_hot": 31520,
+      "num": 101823,
+      "word": "我和沙特王子打电竞",
+      "onboard_time": 1718706916,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 30563,
       "num": 117521,
       "word": "球迷为庆祝比分领先醉驾出门被抓",
@@ -2620,7 +2676,7 @@
     },
     {
       "raw_hot": 18019,
-      "num": 209013,
+      "num": 243631,
       "word": "韩东君话痨式vlog",
       "onboard_time": 1718705059,
       "rank": 25,
@@ -2659,8 +2715,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 7971,
-      "num": 536220,
+      "raw_hot": 8368,
+      "num": 568160,
       "word": "万千气象看甘肃",
       "onboard_time": 1718613858,
       "rank": 2,
