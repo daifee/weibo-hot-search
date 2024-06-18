@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718688952730,
+  "endTime": 1718692009552,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -305,6 +305,14 @@
       "onboard_time": 1718511738,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1177392,
+      "num": 1177392,
+      "word": "天水麻辣烫倒闭成网络流量密码",
+      "onboard_time": 1718685078,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1150402,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 847782,
+      "num": 847782,
+      "word": "好看的裙子 无袖",
+      "onboard_time": 1718689278,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 845348,
       "num": 373046,
       "word": "男子离婚前贷款45万并转给母亲35万",
@@ -704,14 +720,6 @@
       "word": "福宝是第一个把笋笋剥净了吃的",
       "onboard_time": 1718676977,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789884,
-      "num": 244509,
-      "word": "天水麻辣烫倒闭成网络流量密码",
-      "onboard_time": 1718685078,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 586407,
+      "num": 586407,
+      "word": "为什么女生老觉得办公室空调太冷",
+      "onboard_time": 1718686219,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 584404,
       "num": 497903,
       "word": "魏大勋 从前的玩笑成了现实",
@@ -1396,7 +1412,7 @@
     },
     {
       "raw_hot": 510830,
-      "num": 361121,
+      "num": 500436,
       "word": "鞠婧祎假唱",
       "onboard_time": 1718687659,
       "rank": 23,
@@ -1707,6 +1723,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 423829,
+      "num": 423829,
+      "word": "B站第200亿条弹幕是哈哈哈哈哈",
+      "onboard_time": 1718688438,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 421947,
       "num": 421947,
       "word": "本周桃花运最旺的星座",
@@ -1929,14 +1953,6 @@
       "onboard_time": 1718575931,
       "rank": 36,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 384423,
-      "num": 384423,
-      "word": "为什么女生老觉得办公室空调太冷",
-      "onboard_time": 1718686219,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 384179,
@@ -2347,6 +2363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 325320,
+      "num": 325320,
+      "word": "张杰 靠的是真材实料",
+      "onboard_time": 1718689996,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324463,
       "num": 324463,
       "word": "林更新说演研究生压力很大",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1718506156,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 320351,
+      "num": 197696,
+      "word": "丝芭传媒已注册鞠婧祎商标",
+      "onboard_time": 1718691018,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 319169,
@@ -2491,6 +2523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 297349,
+      "num": 185717,
+      "word": "周深 事在人为",
+      "onboard_time": 1718690479,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297068,
       "num": 269044,
       "word": "王星越吴谨言这大手这小腰",
@@ -2569,6 +2609,14 @@
       "onboard_time": 1718590817,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287752,
+      "num": 287752,
+      "word": "图图山我罩的 懂",
+      "onboard_time": 1718689638,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 286556,
@@ -2745,6 +2793,14 @@
       "onboard_time": 1718542277,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 264951,
+      "num": 165014,
+      "word": "刘诗诗窦骁杀青图",
+      "onboard_time": 1718690898,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 264237,
@@ -4331,6 +4387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170866,
+      "num": 170866,
+      "word": "女子晾晒过的裙子爬满蓝色虫子",
+      "onboard_time": 1718691617,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170646,
       "num": 152209,
       "word": "张真源到达匈牙利录制跑男",
@@ -4779,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158023,
+      "num": 158023,
+      "word": "怎么委婉的提醒客户金额看错了",
+      "onboard_time": 1718689397,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157949,
       "num": 157949,
       "word": "60岁正是耍帅的年纪",
@@ -4825,14 +4897,6 @@
       "onboard_time": 1718500037,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156555,
-      "num": 156555,
-      "word": "B站第200亿条弹幕是哈哈哈哈哈",
-      "onboard_time": 1718688438,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 155462,
@@ -4899,6 +4963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153281,
+      "num": 153281,
+      "word": "方协文妈妈",
+      "onboard_time": 1718689458,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153193,
       "num": 153193,
       "word": "riize新歌",
@@ -4912,6 +4984,22 @@
       "word": "逼疯季淑然只要一个薛芳菲",
       "onboard_time": 1718600539,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152698,
+      "num": 152698,
+      "word": "花儿与少年好友记",
+      "onboard_time": 1718689697,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152668,
+      "num": 149149,
+      "word": "佟大为说三个妹夫综合一下最理想",
+      "onboard_time": 1718690178,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -5041,6 +5129,14 @@
       "onboard_time": 1718519357,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149230,
+      "num": 149230,
+      "word": "TF三代登陆日",
+      "onboard_time": 1718690538,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 148089,
@@ -5243,6 +5339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 140457,
+      "num": 378022,
+      "word": "相关单位谈斯坦福博士拟被录用",
+      "onboard_time": 1718688618,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140388,
       "num": 146996,
       "word": "加沙难民自称像行尸走肉一样",
@@ -5353,6 +5457,14 @@
       "onboard_time": 1718614878,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136299,
+      "num": 136299,
+      "word": "墨雨云间全靠司徒九月在救",
+      "onboard_time": 1718691857,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 136063,
@@ -5721,6 +5833,14 @@
       "onboard_time": 1718631618,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128376,
+      "num": 128376,
+      "word": "走路瘦小腿",
+      "onboard_time": 1718689937,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 128235,
@@ -7099,6 +7219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64989,
+      "num": 402327,
+      "word": "只有阶段性友谊是我的错吗",
+      "onboard_time": 1718690418,
+      "rank": 9,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 64883,
       "num": 124413,
       "word": "今晚朱婷不首发",
@@ -7369,14 +7497,6 @@
       "onboard_time": 1718667256,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47558,
-      "num": 378022,
-      "word": "相关单位谈斯坦福博士拟被录用",
-      "onboard_time": 1718688618,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 46932,
@@ -7809,6 +7929,14 @@
       "onboard_time": 1718648593,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26498,
+      "num": 152951,
+      "word": "新加坡30亿洗钱案最新进展",
+      "onboard_time": 1718691317,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26321,

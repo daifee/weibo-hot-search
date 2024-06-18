@@ -1,0 +1,410 @@
+{
+  "runTime": 1718692009552,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1177392,
+        "num": 1177392,
+        "word": "天水麻辣烫倒闭成网络流量密码",
+        "onboard_time": 1718685078,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847782,
+        "num": 847782,
+        "word": "好看的裙子 无袖",
+        "onboard_time": 1718689278,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35226,
+        "num": 705514,
+        "word": "文化中国行听不腻的传统音乐",
+        "onboard_time": 1718672778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669971,
+        "num": 669971,
+        "word": "米卡 黄亦玫的第五个男生",
+        "onboard_time": 1718683579,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 599683,
+        "num": 599683,
+        "word": "中国女游客被韩国酒店员工性侵",
+        "onboard_time": 1718680216,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586407,
+        "num": 586407,
+        "word": "为什么女生老觉得办公室空调太冷",
+        "onboard_time": 1718686219,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 500436,
+        "num": 500436,
+        "word": "鞠婧祎假唱",
+        "onboard_time": 1718687659,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481734,
+        "num": 481734,
+        "word": "黄亦玫孕期看到爸妈的反应",
+        "onboard_time": 1718684240,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 423829,
+        "num": 423829,
+        "word": "B站第200亿条弹幕是哈哈哈哈哈",
+        "onboard_time": 1718688438,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 64989,
+        "num": 402327,
+        "word": "只有阶段性友谊是我的错吗",
+        "onboard_time": 1718690418,
+        "rank": 9,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 390385,
+        "num": 390385,
+        "word": "菲律宾",
+        "onboard_time": 1718689217,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 383633,
+        "num": 383633,
+        "word": "鞠婧祎 续约",
+        "onboard_time": 1718679558,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375322,
+        "num": 375322,
+        "word": "朱朱蔡蔡be",
+        "onboard_time": 1718686880,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333672,
+        "num": 333672,
+        "word": "杨紫将担任巴黎奥运火炬手",
+        "onboard_time": 1718681838,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 325320,
+        "num": 325320,
+        "word": "张杰 靠的是真材实料",
+        "onboard_time": 1718689996,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321597,
+        "num": 321597,
+        "word": "BLACKPINK成员各自的公司",
+        "onboard_time": 1718685619,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287752,
+        "num": 287752,
+        "word": "图图山我罩的 懂",
+        "onboard_time": 1718689638,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241582,
+        "num": 241582,
+        "word": "新加坡门将向中国游客道歉",
+        "onboard_time": 1718682498,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205984,
+        "num": 205984,
+        "word": "福宝是第一个把笋笋剥净了吃的",
+        "onboard_time": 1718676977,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199755,
+        "num": 199755,
+        "word": "斯坦福大学博士拟被录用乡镇公务员",
+        "onboard_time": 1718670437,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320351,
+        "num": 197696,
+        "word": "丝芭传媒已注册鞠婧祎商标",
+        "onboard_time": 1718691018,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297349,
+        "num": 185717,
+        "word": "周深 事在人为",
+        "onboard_time": 1718690479,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290797,
+        "num": 183991,
+        "word": "贾乃亮赚翻了背后MCN亏惨了",
+        "onboard_time": 1718678477,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171446,
+        "num": 171446,
+        "word": "花怜 国宴",
+        "onboard_time": 1718683338,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170866,
+        "num": 170866,
+        "word": "女子晾晒过的裙子爬满蓝色虫子",
+        "onboard_time": 1718691617,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281228,
+        "num": 165158,
+        "word": "假唱",
+        "onboard_time": 1718667976,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264951,
+        "num": 165014,
+        "word": "刘诗诗窦骁杀青图",
+        "onboard_time": 1718690898,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193559,
+        "num": 164130,
+        "word": "凤凰传奇 抢票",
+        "onboard_time": 1718684779,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158237,
+        "num": 158237,
+        "word": "小狗掉的小乳牙",
+        "onboard_time": 1718687478,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158023,
+        "num": 158023,
+        "word": "怎么委婉的提醒客户金额看错了",
+        "onboard_time": 1718689397,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164545,
+        "num": 157454,
+        "word": "txt票价",
+        "onboard_time": 1718687600,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161080,
+        "num": 156353,
+        "word": "佟大为觉得庄国栋更适合黄亦玫",
+        "onboard_time": 1718683759,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153299,
+        "num": 153299,
+        "word": "男朋友说做实验结果在工厂上班",
+        "onboard_time": 1718686819,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153281,
+        "num": 153281,
+        "word": "方协文妈妈",
+        "onboard_time": 1718689458,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26498,
+        "num": 152951,
+        "word": "新加坡30亿洗钱案最新进展",
+        "onboard_time": 1718691317,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152698,
+        "num": 152698,
+        "word": "花儿与少年好友记",
+        "onboard_time": 1718689697,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149230,
+        "num": 149230,
+        "word": "TF三代登陆日",
+        "onboard_time": 1718690538,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152668,
+        "num": 149149,
+        "word": "佟大为说三个妹夫综合一下最理想",
+        "onboard_time": 1718690178,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147036,
+        "num": 147036,
+        "word": "去新疆的朋友圈要这样发",
+        "onboard_time": 1718683878,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140457,
+        "num": 140457,
+        "word": "相关单位谈斯坦福博士拟被录用",
+        "onboard_time": 1718688618,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138179,
+        "num": 138179,
+        "word": "年度歌手 年度卓越歌手",
+        "onboard_time": 1718685439,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136299,
+        "num": 136299,
+        "word": "墨雨云间全靠司徒九月在救",
+        "onboard_time": 1718691857,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133756,
+        "num": 133756,
+        "word": "捐出1500万元说要报恩的老人走了",
+        "onboard_time": 1718685500,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128376,
+        "num": 128376,
+        "word": "走路瘦小腿",
+        "onboard_time": 1718689937,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 124798,
+        "num": 124798,
+        "word": "1周饿2天就能解决脂肪肝吗",
+        "onboard_time": 1718674577,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123392,
+        "num": 123392,
+        "word": "张杰唱歌前没有话筒的反应",
+        "onboard_time": 1718675658,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119824,
+        "num": 119824,
+        "word": "Shopee内部通知一员工猝死",
+        "onboard_time": 1718684719,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116356,
+        "num": 116356,
+        "word": "丝芭传媒",
+        "onboard_time": 1718688918,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110772,
+        "num": 110772,
+        "word": "17岁小伙体重207斤每天狂喝6升水",
+        "onboard_time": 1718672417,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106187,
+        "num": 106187,
+        "word": "发现前任同事留下的隐藏文件",
+        "onboard_time": 1718688258,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#为同心共圆中国梦广泛凝心聚力#"
+    }
+  }
+}
