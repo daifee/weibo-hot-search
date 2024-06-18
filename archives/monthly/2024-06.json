@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718703310406,
+  "endTime": 1718706051220,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1718157138,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1507284,
+      "num": 1507284,
+      "word": "中餐厅 虞书欣",
+      "onboard_time": 1718701218,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1502394,
@@ -3563,14 +3571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 949670,
-      "num": 560220,
-      "word": "中餐厅 虞书欣",
-      "onboard_time": 1718701218,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 947964,
       "num": 753789,
       "word": "中以混血女孩被以色列救出",
@@ -5187,6 +5187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 745962,
+      "num": 479803,
+      "word": "黄亦玫生孩子婆婆不让打无痛",
+      "onboard_time": 1718703497,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 745434,
       "num": 559370,
       "word": "警方通报废弃楼发现男尸",
@@ -5441,6 +5449,14 @@
       "onboard_time": 1718096779,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 732590,
+      "num": 732590,
+      "word": "爷爷去世后带走了奶奶的色彩",
+      "onboard_time": 1718700499,
+      "rank": 4,
+      "category": "情感"
     },
     {
       "raw_hot": 732575,
@@ -6920,14 +6936,6 @@
       "word": "原来6月既是开始又是结束",
       "onboard_time": 1718334259,
       "rank": 15,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 635689,
-      "num": 635689,
-      "word": "爷爷去世后带走了奶奶的色彩",
-      "onboard_time": 1718700499,
-      "rank": 4,
       "category": "情感"
     },
     {
@@ -13675,6 +13683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 377189,
+      "num": 348717,
+      "word": "国家税务总局答记者问",
+      "onboard_time": 1718704578,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 377144,
       "num": 377144,
       "word": "砍60岁网红迎客松涉事人已找到",
@@ -16531,6 +16547,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 311377,
+      "num": 357271,
+      "word": "税务部门没有倒查20年30年的安排",
+      "onboard_time": 1718705837,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310794,
       "num": 214450,
       "word": "JOY表达对SM不满",
@@ -16720,6 +16744,14 @@
       "word": "第五人格心跳特辑",
       "onboard_time": 1718362219,
       "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 306500,
+      "num": 306500,
+      "word": "逆水寒手游",
+      "onboard_time": 1718703919,
+      "rank": 17,
       "category": "游戏"
     },
     {
@@ -17417,6 +17449,14 @@
       "onboard_time": 1717629375,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 294109,
+      "num": 294109,
+      "word": "于正打假墨雨云间原定女主杨紫",
+      "onboard_time": 1718704158,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 293963,
@@ -18391,6 +18431,14 @@
       "num": 276408,
       "word": "6月进口网络游戏版号审批公布",
       "onboard_time": 1717577719,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 276349,
+      "num": 276349,
+      "word": "逆水寒JK",
+      "onboard_time": 1718705777,
       "rank": 19,
       "category": "游戏"
     },
@@ -19777,6 +19825,14 @@
       "onboard_time": 1717735582,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 254467,
+      "num": 254467,
+      "word": "东极岛 朱一龙粉丝",
+      "onboard_time": 1718704938,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 254327,
@@ -21296,6 +21352,14 @@
       "word": "藏海传好多人啊",
       "onboard_time": 1717298718,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233154,
+      "num": 233154,
+      "word": "方协文当着黄亦玫的面和妈妈说方言",
+      "onboard_time": 1718705178,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -23075,6 +23139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213887,
+      "num": 213887,
+      "word": "男子为快速入睡吃了40多片安眠药",
+      "onboard_time": 1718702719,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213830,
       "num": 213830,
       "word": "徐海乔用的是刘亦菲的图",
@@ -24433,6 +24505,14 @@
       "onboard_time": 1718080280,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204756,
+      "num": 204756,
+      "word": "姜萍遭质疑",
+      "onboard_time": 1718705358,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204722,
@@ -30427,6 +30507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170169,
+      "num": 170169,
+      "word": "再次感受到为什么要化妆",
+      "onboard_time": 1718703138,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 170167,
       "num": 170167,
       "word": "重庆农商行回应女职员拍视频表白行长",
@@ -33475,6 +33563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154927,
+      "num": 154927,
+      "word": "食物语",
+      "onboard_time": 1718705418,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 154836,
       "num": 154836,
       "word": "龙舟",
@@ -33537,6 +33633,14 @@
       "onboard_time": 1717247359,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 154565,
+      "num": 154565,
+      "word": "黄轩二搭杨幂想演对手",
+      "onboard_time": 1718703138,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 154560,
@@ -37307,14 +37411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135821,
-      "num": 135821,
-      "word": "男子为快速入睡吃了40多片安眠药",
-      "onboard_time": 1718702719,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135792,
       "num": 135792,
       "word": "江苏物理 简单也不会",
@@ -38337,14 +38433,6 @@
       "onboard_time": 1718349741,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131121,
-      "num": 131121,
-      "word": "黄轩二搭杨幂想演对手",
-      "onboard_time": 1718703138,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 131091,
@@ -39481,14 +39569,6 @@
       "onboard_time": 1717945819,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126586,
-      "num": 126586,
-      "word": "再次感受到为什么要化妆",
-      "onboard_time": 1718703138,
-      "rank": 46,
-      "category": "美妆"
     },
     {
       "raw_hot": 126541,
@@ -41635,6 +41715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116116,
+      "num": 116116,
+      "word": "近乎完美的腰腹训练",
+      "onboard_time": 1718704037,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 116085,
       "num": 116085,
       "word": "葡萄牙航空展两飞机相撞致1死1伤",
@@ -43219,6 +43307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108124,
+      "num": 108124,
+      "word": "小边牧学猫咪走路被发现",
+      "onboard_time": 1718705898,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108084,
       "num": 108084,
       "word": "尼康发布会",
@@ -43329,6 +43425,14 @@
       "onboard_time": 1717812318,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 107218,
+      "num": 107218,
+      "word": "当我只是想画个淡妆出门",
+      "onboard_time": 1718704639,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 107112,
@@ -43761,6 +43865,14 @@
       "onboard_time": 1717854738,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104949,
+      "num": 104949,
+      "word": "鞠婧祎两位摄影师出图",
+      "onboard_time": 1718703558,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 104848,
@@ -45971,6 +46083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81127,
+      "num": 333822,
+      "word": "哪些文科专业可以进车企",
+      "onboard_time": 1718704818,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81106,
       "num": 326090,
       "word": "上海的花钱方式已经进化成这样了",
@@ -48113,6 +48233,14 @@
       "onboard_time": 1717509319,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 57794,
+      "num": 205664,
+      "word": "阿伯不要怕消防员来救你走",
+      "onboard_time": 1718704158,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57610,
@@ -50588,7 +50716,7 @@
     },
     {
       "raw_hot": 32830,
-      "num": 192672,
+      "num": 536220,
       "word": "万千气象看甘肃",
       "onboard_time": 1718613858,
       "rank": 26,
@@ -51715,6 +51843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 21511,
+      "num": 104539,
+      "word": "发现一个在大学超有用的人设",
+      "onboard_time": 1718704217,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21474,
       "num": 321765,
       "word": "哪儿凉快去哪儿呆着",
@@ -51961,6 +52097,14 @@
       "onboard_time": 1717969212,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18019,
+      "num": 209013,
+      "word": "韩东君话痨式vlog",
+      "onboard_time": 1718705059,
+      "rank": 25,
+      "category": "综艺,汽车"
     },
     {
       "raw_hot": 17803,
