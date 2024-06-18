@@ -1,0 +1,410 @@
+{
+  "runTime": 1718687968854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1080377,
+        "num": 1080377,
+        "word": "米卡 黄亦玫的第五个男生",
+        "onboard_time": 1718683579,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1057072,
+        "num": 1057072,
+        "word": "中国女游客被韩国酒店员工性侵",
+        "onboard_time": 1718680216,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38776,
+        "num": 828008,
+        "word": "文化中国行听不腻的传统音乐",
+        "onboard_time": 1718672778,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738387,
+        "num": 738387,
+        "word": "黄亦玫孕期看到爸妈的反应",
+        "onboard_time": 1718684240,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 537207,
+        "num": 537207,
+        "word": "新加坡门将向中国游客道歉",
+        "onboard_time": 1718682498,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478880,
+        "num": 478880,
+        "word": "花怜 国宴",
+        "onboard_time": 1718683338,
+        "rank": 5,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 664013,
+        "num": 463590,
+        "word": "杨紫将担任巴黎奥运火炬手",
+        "onboard_time": 1718681838,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 557614,
+        "num": 438473,
+        "word": "BLACKPINK成员各自的公司",
+        "onboard_time": 1718685619,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402722,
+        "num": 402722,
+        "word": "福宝是第一个把笋笋剥净了吃的",
+        "onboard_time": 1718676977,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46757,
+        "num": 402385,
+        "word": "快递单广告中奖率只有十万分之一",
+        "onboard_time": 1718686819,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475179,
+        "num": 401187,
+        "word": "凤凰传奇 抢票",
+        "onboard_time": 1718684779,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 503436,
+        "num": 400420,
+        "word": "东方卫视称未取消任何艺人获奖资格",
+        "onboard_time": 1718687359,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500417,
+        "num": 399141,
+        "word": "鞠婧祎 续约",
+        "onboard_time": 1718679558,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451058,
+        "num": 398766,
+        "word": "朱朱蔡蔡be",
+        "onboard_time": 1718686880,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398155,
+        "num": 398155,
+        "word": "斯坦福大学博士拟被录用乡镇公务员",
+        "onboard_time": 1718670437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21115,
+        "num": 359433,
+        "word": "今年618还是在天猫省最多",
+        "onboard_time": 1718683459,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 66135,
+        "num": 355945,
+        "word": "京东周年庆生日免单",
+        "onboard_time": 1718683579,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353237,
+        "num": 353237,
+        "word": "去新疆的朋友圈要这样发",
+        "onboard_time": 1718683878,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 333137,
+        "num": 333137,
+        "word": "Shopee内部通知一员工猝死",
+        "onboard_time": 1718684719,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249066,
+        "num": 249066,
+        "word": "为什么女生老觉得办公室空调太冷",
+        "onboard_time": 1718686219,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 720253,
+        "num": 244509,
+        "word": "天水麻辣烫倒闭成网络流量密码",
+        "onboard_time": 1718685078,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425916,
+        "num": 242889,
+        "word": "假唱",
+        "onboard_time": 1718667976,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360661,
+        "num": 239621,
+        "word": "贾乃亮赚翻了背后MCN亏惨了",
+        "onboard_time": 1718678477,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323552,
+        "num": 234363,
+        "word": "鞠婧祎假唱",
+        "onboard_time": 1718687659,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294325,
+        "num": 229271,
+        "word": "佟大为觉得庄国栋更适合黄亦玫",
+        "onboard_time": 1718683759,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274624,
+        "num": 225086,
+        "word": "年度歌手 年度卓越歌手",
+        "onboard_time": 1718685439,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221297,
+        "num": 221297,
+        "word": "杰伦布朗FMVP",
+        "onboard_time": 1718681117,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203365,
+        "num": 203365,
+        "word": "掌心杀青",
+        "onboard_time": 1718687299,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227894,
+        "num": 198025,
+        "word": "湖南卫视给鞠婧祎过生日",
+        "onboard_time": 1718686880,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175408,
+        "num": 175408,
+        "word": "可以当吸管的贵州非遗面条有多绝",
+        "onboard_time": 1718687119,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 202466,
+        "num": 175397,
+        "word": "林更新评论区",
+        "onboard_time": 1718687659,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181615,
+        "num": 174478,
+        "word": "佟大为说生育权要掌握在女人身上",
+        "onboard_time": 1718686339,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171312,
+        "num": 171312,
+        "word": "txt票价",
+        "onboard_time": 1718687600,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170984,
+        "num": 170984,
+        "word": "150人在缅北冒充军人搞诈骗被抓",
+        "onboard_time": 1718682438,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168111,
+        "num": 168111,
+        "word": "17岁小伙体重207斤每天狂喝6升水",
+        "onboard_time": 1718672417,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167454,
+        "num": 167454,
+        "word": "男朋友说做实验结果在工厂上班",
+        "onboard_time": 1718686819,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164881,
+        "num": 164881,
+        "word": "王星越买不断根本买不断",
+        "onboard_time": 1718684539,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157816,
+        "num": 157816,
+        "word": "1周饿2天就能解决脂肪肝吗",
+        "onboard_time": 1718674577,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156376,
+        "num": 156376,
+        "word": "范闲庆帝骨子里的相似",
+        "onboard_time": 1718680098,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153373,
+        "num": 153373,
+        "word": "捐出1500万元说要报恩的老人走了",
+        "onboard_time": 1718685500,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152812,
+        "num": 152812,
+        "word": "小狗掉的小乳牙",
+        "onboard_time": 1718687478,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152437,
+        "num": 152437,
+        "word": "张杰唱歌前没有话筒的反应",
+        "onboard_time": 1718675658,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150911,
+        "num": 150911,
+        "word": "想做360元纹眉最后花5千撞脸小新",
+        "onboard_time": 1718687478,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142280,
+        "num": 142280,
+        "word": "怦然心动20岁",
+        "onboard_time": 1718685739,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137117,
+        "num": 137117,
+        "word": "星穹铁道流萤PV",
+        "onboard_time": 1718686579,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131929,
+        "num": 131929,
+        "word": "高考623分的脑瘫少年毕业了",
+        "onboard_time": 1718679136,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 128569,
+        "num": 128569,
+        "word": "阴阳师",
+        "onboard_time": 1718685739,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122968,
+        "num": 122968,
+        "word": "新能源汽车人才缺口103万",
+        "onboard_time": 1718680999,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 122739,
+        "num": 122739,
+        "word": "怦然心动20岁第四季",
+        "onboard_time": 1718687899,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122152,
+        "num": 122152,
+        "word": "凯尔特人总冠军",
+        "onboard_time": 1718679858,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺黄埔军校建校100周年#"
+    }
+  }
+}

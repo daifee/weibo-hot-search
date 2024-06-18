@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718685379597,
+  "endTime": 1718687968854,
   "band_list": [
     {
       "raw_hot": 2037367,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1080377,
+      "num": 1080377,
+      "word": "米卡 黄亦玫的第五个男生",
+      "onboard_time": 1718683579,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 986040,
       "num": 986040,
       "word": "医生提醒尽量不要生吃海鲜和肉",
@@ -81,14 +89,6 @@
       "onboard_time": 1718681838,
       "rank": 3,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 914895,
-      "num": 552685,
-      "word": "米卡 黄亦玫的第五个男生",
-      "onboard_time": 1718683579,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 904300,
@@ -139,6 +139,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 738387,
+      "num": 738387,
+      "word": "黄亦玫孕期看到爸妈的反应",
+      "onboard_time": 1718684240,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 720253,
+      "num": 244509,
+      "word": "天水麻辣烫倒闭成网络流量密码",
+      "onboard_time": 1718685078,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 672100,
       "num": 320384,
       "word": "贾乃亮赚翻了背后MCN亏惨了",
@@ -169,14 +185,6 @@
       "onboard_time": 1718639417,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 603047,
-      "num": 441368,
-      "word": "黄亦玫孕期看到爸妈的反应",
-      "onboard_time": 1718684240,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 598676,
@@ -219,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557614,
+      "num": 438473,
+      "word": "BLACKPINK成员各自的公司",
+      "onboard_time": 1718685619,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 537207,
+      "num": 537207,
+      "word": "新加坡门将向中国游客道歉",
+      "onboard_time": 1718682498,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 531561,
       "num": 217176,
       "word": "17岁小伙体重207斤每天狂喝6升水",
@@ -235,20 +259,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 513145,
-      "num": 248737,
-      "word": "新加坡门将向中国游客道歉",
-      "onboard_time": 1718682498,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 511281,
       "num": 511281,
       "word": "花怜 国宴",
       "onboard_time": 1718683338,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 503436,
+      "num": 400420,
+      "word": "东方卫视称未取消任何艺人获奖资格",
+      "onboard_time": 1718687359,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 501473,
@@ -275,6 +299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 475179,
+      "num": 401187,
+      "word": "凤凰传奇 抢票",
+      "onboard_time": 1718684779,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 464471,
       "num": 464471,
       "word": "顶配iPhone16售价或破2万",
@@ -289,6 +321,14 @@
       "onboard_time": 1718672479,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 451058,
+      "num": 398766,
+      "word": "朱朱蔡蔡be",
+      "onboard_time": 1718686880,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 424274,
@@ -371,12 +411,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 345889,
-      "num": 228298,
-      "word": "凤凰传奇 抢票",
-      "onboard_time": 1718684779,
-      "rank": 22,
-      "category": "演出"
+      "raw_hot": 353237,
+      "num": 353237,
+      "word": "去新疆的朋友圈要这样发",
+      "onboard_time": 1718683878,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 344922,
@@ -395,12 +435,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333137,
+      "num": 333137,
+      "word": "Shopee内部通知一员工猝死",
+      "onboard_time": 1718684719,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326141,
       "num": 326141,
       "word": "订书钉才是上班摸鱼神器",
       "onboard_time": 1718634619,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 323552,
+      "num": 234363,
+      "word": "鞠婧祎假唱",
+      "onboard_time": 1718687659,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 316415,
@@ -467,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274624,
+      "num": 225086,
+      "word": "年度歌手 年度卓越歌手",
+      "onboard_time": 1718685439,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263354,
       "num": 263354,
       "word": "欧洲杯首个爆冷",
@@ -515,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249066,
+      "num": 249066,
+      "word": "为什么女生老觉得办公室空调太冷",
+      "onboard_time": 1718686219,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247783,
       "num": 247783,
       "word": "苏敏 离婚",
@@ -539,12 +611,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 230651,
-      "num": 230651,
-      "word": "Shopee内部通知一员工猝死",
-      "onboard_time": 1718684719,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 227894,
+      "num": 198025,
+      "word": "湖南卫视给鞠婧祎过生日",
+      "onboard_time": 1718686880,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 224171,
@@ -553,14 +625,6 @@
       "onboard_time": 1718681297,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 223621,
-      "num": 223621,
-      "word": "天水麻辣烫倒闭成网络流量密码",
-      "onboard_time": 1718685078,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222935,
@@ -609,6 +673,22 @@
       "onboard_time": 1718685198,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203365,
+      "num": 203365,
+      "word": "掌心杀青",
+      "onboard_time": 1718687299,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202466,
+      "num": 175397,
+      "word": "林更新评论区",
+      "onboard_time": 1718687659,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 202190,
@@ -699,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181615,
+      "num": 174478,
+      "word": "佟大为说生育权要掌握在女人身上",
+      "onboard_time": 1718686339,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179266,
       "num": 179266,
       "word": "新能源汽车人才缺口103万",
@@ -723,12 +811,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 175408,
+      "num": 175408,
+      "word": "可以当吸管的贵州非遗面条有多绝",
+      "onboard_time": 1718687119,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 173579,
       "num": 173579,
       "word": "四个男女主凑不出一副爹娘",
       "onboard_time": 1718630537,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171312,
+      "num": 171312,
+      "word": "txt票价",
+      "onboard_time": 1718687600,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 170646,
@@ -761,6 +865,14 @@
       "onboard_time": 1718676437,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167454,
+      "num": 167454,
+      "word": "男朋友说做实验结果在工厂上班",
+      "onboard_time": 1718686819,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 165215,
@@ -827,6 +939,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153373,
+      "num": 153373,
+      "word": "捐出1500万元说要报恩的老人走了",
+      "onboard_time": 1718685500,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152812,
+      "num": 152812,
+      "word": "小狗掉的小乳牙",
+      "onboard_time": 1718687478,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 152434,
       "num": 152434,
       "word": "村民拔萝卜式拉车好可爱",
@@ -849,6 +977,14 @@
       "onboard_time": 1718622018,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 150911,
+      "num": 150911,
+      "word": "想做360元纹眉最后花5千撞脸小新",
+      "onboard_time": 1718687478,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 149707,
@@ -899,6 +1035,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142280,
+      "num": 142280,
+      "word": "怦然心动20岁",
+      "onboard_time": 1718685739,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 137117,
+      "num": 137117,
+      "word": "星穹铁道流萤PV",
+      "onboard_time": 1718686579,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136052,
       "num": 136052,
       "word": "数学专业就业后的收入",
@@ -947,14 +1099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131501,
-      "num": 131501,
-      "word": "去新疆的朋友圈要这样发",
-      "onboard_time": 1718683878,
-      "rank": 48,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 130117,
       "num": 130117,
       "word": "网友写的薛芳菲萧蘅婚后日常",
@@ -977,6 +1121,14 @@
       "onboard_time": 1718681117,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128569,
+      "num": 128569,
+      "word": "阴阳师",
+      "onboard_time": 1718685739,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 127966,
@@ -1033,6 +1185,14 @@
       "onboard_time": 1718673797,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122739,
+      "num": 122739,
+      "word": "怦然心动20岁第四季",
+      "onboard_time": 1718687899,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 120656,
@@ -1363,6 +1523,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66135,
+      "num": 355945,
+      "word": "京东周年庆生日免单",
+      "onboard_time": 1718683579,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 64835,
       "num": 64835,
       "word": "欧洲杯直播",
@@ -1419,14 +1587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 48918,
-      "num": 234914,
-      "word": "京东周年庆生日免单",
-      "onboard_time": 1718683579,
-      "rank": 30,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 48111,
       "num": 48111,
       "word": "法国队连续6届大赛开门红",
@@ -1435,8 +1595,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46757,
+      "num": 402385,
+      "word": "快递单广告中奖率只有十万分之一",
+      "onboard_time": 1718686819,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41838,
-      "num": 325897,
+      "num": 359433,
       "word": "今年618还是在天猫省最多",
       "onboard_time": 1718683459,
       "rank": 15,
