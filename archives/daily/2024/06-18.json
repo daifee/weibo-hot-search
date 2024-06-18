@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718710527018,
+  "endTime": 1718714167835,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -97,6 +97,14 @@
       "onboard_time": 1718696418,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1131607,
+      "num": 1131607,
+      "word": "科大讯飞内部通报员工去世",
+      "onboard_time": 1718709557,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1129464,
@@ -211,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 745275,
+      "num": 745275,
+      "word": "瑞幸回应喝西梅美式腹泻",
+      "onboard_time": 1718711058,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738387,
       "num": 738387,
       "word": "黄亦玫孕期看到爸妈的反应",
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 608873,
+      "num": 608873,
+      "word": "霍建华 偷偷哭",
+      "onboard_time": 1718711058,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 608850,
       "num": 608850,
       "word": "北京男子或将错失10万元大奖",
@@ -361,6 +385,14 @@
       "onboard_time": 1718667676,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570043,
+      "num": 196175,
+      "word": "存了8万后变成了病态省钱",
+      "onboard_time": 1718710996,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 568473,
@@ -467,6 +499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 511282,
+      "num": 338641,
+      "word": "徐娇回应不敢搂刘诗诗",
+      "onboard_time": 1718710697,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 511281,
       "num": 511281,
       "word": "花怜 国宴",
@@ -481,14 +521,6 @@
       "onboard_time": 1718687659,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 506750,
-      "num": 506750,
-      "word": "科大讯飞内部通报员工去世",
-      "onboard_time": 1718709557,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 501473,
@@ -659,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372959,
+      "num": 192828,
+      "word": "张新成做了近视眼手术",
+      "onboard_time": 1718712798,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372688,
       "num": 372688,
       "word": "周深 事在人为",
@@ -713,6 +753,14 @@
       "onboard_time": 1718704938,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 355635,
+      "num": 355635,
+      "word": "看中医 不要化妆",
+      "onboard_time": 1718709737,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 353328,
@@ -955,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265248,
+      "num": 265248,
+      "word": "还好不是刘亦菲",
+      "onboard_time": 1718709258,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263354,
       "num": 263354,
       "word": "欧洲杯首个爆冷",
@@ -1035,6 +1091,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 243746,
+      "num": 243746,
+      "word": "土耳其 格鲁吉亚",
+      "onboard_time": 1718712137,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242237,
       "num": 242237,
       "word": "林更新考研了口才更好了",
@@ -1065,22 +1129,6 @@
       "onboard_time": 1718687600,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229301,
-      "num": 229301,
-      "word": "还好不是刘亦菲",
-      "onboard_time": 1718709258,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 229262,
-      "num": 229262,
-      "word": "看中医 不要化妆",
-      "onboard_time": 1718709737,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 227894,
@@ -1161,6 +1209,14 @@
       "onboard_time": 1718619618,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214195,
+      "num": 358519,
+      "word": "考公斯坦福博士本科为中科大",
+      "onboard_time": 1718709436,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 212688,
@@ -1259,6 +1315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200688,
+      "num": 200688,
+      "word": "男子净身出户15年反悔追讨房产",
+      "onboard_time": 1718712858,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200427,
       "num": 200427,
       "word": "赵丽颖ins认证",
@@ -1289,6 +1353,14 @@
       "onboard_time": 1718709317,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198352,
+      "num": 183683,
+      "word": "鞠婧祎的时间参照物是什么",
+      "onboard_time": 1718713217,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 196604,
@@ -1435,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178281,
+      "num": 163601,
+      "word": "张杰谢娜临时公开恋情的原因",
+      "onboard_time": 1718713997,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178105,
       "num": 178105,
       "word": "中国女排总决赛12人名单",
@@ -1491,12 +1571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169341,
+      "num": 169341,
+      "word": "两架波音747飞机将被打折拍卖",
+      "onboard_time": 1718711477,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168741,
       "num": 168741,
       "word": "以为护肤其实很伤脸的行为",
       "onboard_time": 1718668877,
       "rank": 26,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 168659,
+      "num": 168659,
+      "word": "500万彩票大奖无人领",
+      "onboard_time": 1718710397,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167962,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1718694559,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161892,
+      "num": 161892,
+      "word": "奔跑吧下期最强社团争霸赛",
+      "onboard_time": 1718710697,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 160887,
@@ -1785,6 +1889,14 @@
       "onboard_time": 1718698159,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 143189,
+      "num": 143189,
+      "word": "梅州一干部疏散转移群众中因公殉职",
+      "onboard_time": 1718713037,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142492,
@@ -2115,6 +2227,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118675,
+      "num": 118675,
+      "word": "欧洲杯赛程",
+      "onboard_time": 1718713697,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 117912,
+      "num": 117912,
+      "word": "袁娅维说自己是小众歌手",
+      "onboard_time": 1718713758,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116116,
       "num": 116116,
       "word": "近乎完美的腰腹训练",
@@ -2201,6 +2329,14 @@
       "onboard_time": 1718704639,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 106967,
+      "num": 106967,
+      "word": "原来不用剧烈运动也能瘦",
+      "onboard_time": 1718709737,
+      "rank": 47,
+      "category": "运动健身"
     },
     {
       "raw_hot": 106573,
@@ -2331,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96621,
+      "num": 96621,
+      "word": "胡先煦 肤白貌美还有大长腿",
+      "onboard_time": 1718712557,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 95939,
       "num": 95939,
       "word": "黄子弘凡舞台",
@@ -2363,12 +2507,20 @@
       "category": "社会新闻,健康医疗"
     },
     {
-      "raw_hot": 93780,
-      "num": 358519,
-      "word": "考公斯坦福博士本科为中科大",
-      "onboard_time": 1718709436,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 92945,
+      "num": 92945,
+      "word": "郑钦文战胜大坂直美",
+      "onboard_time": 1718710697,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92586,
+      "num": 92586,
+      "word": "BLG对战WE",
+      "onboard_time": 1718713578,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 91342,
@@ -2459,14 +2611,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79987,
-      "num": 79987,
-      "word": "500万彩票大奖无人领",
-      "onboard_time": 1718710397,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 79346,
       "num": 79346,
       "word": "王星越吴谨言这大手这小腰",
@@ -2481,14 +2625,6 @@
       "onboard_time": 1718630299,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79133,
-      "num": 79133,
-      "word": "原来不用剧烈运动也能瘦",
-      "onboard_time": 1718709737,
-      "rank": 47,
-      "category": "运动健身"
     },
     {
       "raw_hot": 78505,
@@ -2635,6 +2771,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53852,
+      "num": 266202,
+      "word": "厨师下班后冒高温为小伙重新炒菜",
+      "onboard_time": 1718711838,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49138,
+      "num": 205692,
+      "word": "618挑战100元能买多少好东西",
+      "onboard_time": 1718711657,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48111,
       "num": 48111,
       "word": "法国队连续6届大赛开门红",
@@ -2648,6 +2800,14 @@
       "word": "今年618还是在天猫省最多",
       "onboard_time": 1718683459,
       "rank": 15,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 41607,
+      "num": 129161,
+      "word": "京东618最后4小时",
+      "onboard_time": 1718713697,
+      "rank": 37,
       "category": "互联网"
     },
     {
@@ -2872,6 +3032,22 @@
       "word": "一份班主任准备了6年的礼物",
       "onboard_time": 1718643015,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16242,
+      "num": 194832,
+      "word": "彭昱畅想考驾照的心达到了顶峰",
+      "onboard_time": 1718713277,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 15081,
+      "num": 646131,
+      "word": "治沙尖子生的解题新思路",
+      "onboard_time": 1718713697,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
