@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718695182691,
+  "endTime": 1718696108573,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -11,7 +11,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 2123417,
+      "raw_hot": 2128409,
       "num": 1091314,
       "word": "丈夫出轨要妻子净身出户后被杀",
       "onboard_time": 1718692337,
@@ -811,7 +811,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 724396,
+      "raw_hot": 730757,
       "num": 724396,
       "word": "体检发现多了一个器官",
       "onboard_time": 1718692878,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 629055,
+      "num": 629055,
+      "word": "日本食人菌大爆发感染超千例",
+      "onboard_time": 1718692277,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 628364,
       "num": 610963,
       "word": "辛芷蕾的10套香奶奶",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1718523856,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611555,
+      "num": 335558,
+      "word": "酒店标错价40元一晚被订上千单",
+      "onboard_time": 1718694317,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610172,
@@ -1172,7 +1188,7 @@
     },
     {
       "raw_hot": 567297,
-      "num": 260040,
+      "num": 289198,
       "word": "建议这几个月别轻易辞职",
       "onboard_time": 1718692096,
       "rank": 21,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1718621657,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 545819,
+      "num": 545819,
+      "word": "达摩院否认曾要求姜萍再次答题",
+      "onboard_time": 1718692096,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 542391,
@@ -1451,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 502109,
-      "num": 502109,
-      "word": "达摩院否认曾要求姜萍再次答题",
-      "onboard_time": 1718692096,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 499629,
       "num": 173312,
       "word": "韩国人正在拒绝晋升",
@@ -1491,8 +1507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489641,
-      "num": 489641,
+      "raw_hot": 492879,
+      "num": 492879,
       "word": "郭麒麟回应瘦了",
       "onboard_time": 1718693479,
       "rank": 6,
@@ -1505,14 +1521,6 @@
       "onboard_time": 1718550739,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 483686,
-      "num": 483686,
-      "word": "日本食人菌大爆发感染超千例",
-      "onboard_time": 1718692277,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 483223,
@@ -1715,6 +1723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 438483,
+      "num": 330870,
+      "word": "腋下管理",
+      "onboard_time": 1718695158,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438041,
       "num": 264865,
       "word": "王一博 我要戴手环吗",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1718527278,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 427153,
+      "num": 323405,
+      "word": "北约威胁中国若再援俄或付出经济代价",
+      "onboard_time": 1718694138,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 424274,
@@ -1883,6 +1907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 406854,
+      "num": 406854,
+      "word": "丝芭传媒已注册鞠婧祎商标",
+      "onboard_time": 1718691018,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404663,
       "num": 404663,
       "word": "周也和六公主碰拳",
@@ -1897,14 +1929,6 @@
       "onboard_time": 1718582776,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403850,
-      "num": 403850,
-      "word": "丝芭传媒已注册鞠婧祎商标",
-      "onboard_time": 1718691018,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 402644,
@@ -2091,12 +2115,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 372668,
-      "num": 197280,
-      "word": "酒店标错价40元一晚被订上千单",
-      "onboard_time": 1718694317,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 371941,
+      "num": 288338,
+      "word": "为什么熬夜后身体这些部位巨臭",
+      "onboard_time": 1718694018,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 371444,
@@ -2531,14 +2555,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 307282,
-      "num": 255265,
-      "word": "为什么熬夜后身体这些部位巨臭",
-      "onboard_time": 1718694018,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 305868,
       "num": 211477,
       "word": "一中国公民在印度被扣押期间死亡",
@@ -2577,6 +2593,14 @@
       "onboard_time": 1718679136,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 299270,
+      "num": 299270,
+      "word": "韩国首尔大学医院529人无限期停诊",
+      "onboard_time": 1718694920,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 298235,
@@ -2716,7 +2740,7 @@
     },
     {
       "raw_hot": 283702,
-      "num": 241752,
+      "num": 251096,
       "word": "女子晾晒过的裙子爬满蓝色虫子",
       "onboard_time": 1718691617,
       "rank": 24,
@@ -2753,14 +2777,6 @@
       "onboard_time": 1718506277,
       "rank": 22,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 278945,
-      "num": 278945,
-      "word": "北约威胁中国若再援俄或付出经济代价",
-      "onboard_time": 1718694138,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 278662,
@@ -3123,6 +3139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233418,
+      "num": 233418,
+      "word": "牛津数学女博士评姜萍",
+      "onboard_time": 1718695039,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233197,
       "num": 209774,
       "word": "男生兼职攒一千给家里厨房装空调",
@@ -3209,6 +3233,14 @@
       "onboard_time": 1718629098,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226661,
+      "num": 226661,
+      "word": "梅州",
+      "onboard_time": 1718694619,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224831,
@@ -3449,14 +3481,6 @@
       "onboard_time": 1718621117,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 210971,
-      "num": 210971,
-      "word": "梅州",
-      "onboard_time": 1718694619,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210942,
@@ -4355,6 +4379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178105,
+      "num": 178105,
+      "word": "中国女排总决赛12人名单",
+      "onboard_time": 1718695097,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177879,
       "num": 177879,
       "word": "TTG战胜RW",
@@ -4401,14 +4433,6 @@
       "onboard_time": 1718546841,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176378,
-      "num": 176378,
-      "word": "韩国首尔大学医院529人无限期停诊",
-      "onboard_time": 1718694920,
-      "rank": 34,
-      "category": "国外时政"
     },
     {
       "raw_hot": 176226,
@@ -4771,6 +4795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162997,
+      "num": 162997,
+      "word": "赵露思V领无袖",
+      "onboard_time": 1718694559,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162770,
       "num": 162770,
       "word": "张杰配音想对爸爸说的话",
@@ -4849,6 +4881,14 @@
       "onboard_time": 1718616917,
       "rank": 36,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 160887,
+      "num": 160887,
+      "word": "猫咪掉的毛毛可以做成小辫子",
+      "onboard_time": 1718695578,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 160400,
@@ -5275,14 +5315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 148209,
-      "num": 148209,
-      "word": "赵露思V领无袖",
-      "onboard_time": 1718694559,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148089,
       "num": 148089,
       "word": "许嵩青岛抢票",
@@ -5465,14 +5497,6 @@
       "onboard_time": 1718608277,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140703,
-      "num": 140703,
-      "word": "牛津数学女博士评姜萍",
-      "onboard_time": 1718695039,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140615,
@@ -5955,14 +5979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128907,
-      "num": 128907,
-      "word": "中国女排总决赛12人名单",
-      "onboard_time": 1718695097,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128849,
       "num": 128849,
       "word": "电影红楼梦定档",
@@ -6105,6 +6121,14 @@
       "onboard_time": 1718618118,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127261,
+      "num": 127261,
+      "word": "金莎替男友感谢网友喜欢",
+      "onboard_time": 1718695578,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 126524,
@@ -6257,14 +6281,6 @@
       "onboard_time": 1718673797,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122620,
-      "num": 122620,
-      "word": "腋下管理",
-      "onboard_time": 1718695158,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 122579,
@@ -7003,6 +7019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94165,
+      "num": 415825,
+      "word": "高价防晒产品真能避免晒黑吗",
+      "onboard_time": 1718694018,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 93839,
       "num": 93839,
       "word": "文学作品中的父亲",
@@ -7105,6 +7129,14 @@
       "onboard_time": 1718628676,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86245,
+      "num": 324896,
+      "word": "知识分子的松弛感穿搭",
+      "onboard_time": 1718692457,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 86222,
@@ -7228,7 +7260,7 @@
     },
     {
       "raw_hot": 78505,
-      "num": 118523,
+      "num": 302626,
       "word": "姜萍与王闰秋可谓知音难寻",
       "onboard_time": 1718690959,
       "rank": 43,
@@ -7305,14 +7337,6 @@
       "onboard_time": 1718472494,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 75134,
-      "num": 316724,
-      "word": "知识分子的松弛感穿搭",
-      "onboard_time": 1718692457,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 73281,
@@ -7561,14 +7585,6 @@
       "onboard_time": 1718503818,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 57682,
-      "num": 415825,
-      "word": "高价防晒产品真能避免晒黑吗",
-      "onboard_time": 1718694018,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 57201,
