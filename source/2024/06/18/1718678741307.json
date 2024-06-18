@@ -1,0 +1,410 @@
+{
+  "runTime": 1718678741307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1707864,
+        "num": 1707864,
+        "word": "林更新评论区 骂骂咧咧来支支吾吾走",
+        "onboard_time": 1718677036,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 796562,
+        "num": 796562,
+        "word": "福宝是第一个把笋笋剥净了吃的",
+        "onboard_time": 1718676977,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23585,
+        "num": 697643,
+        "word": "教育部首次上线高考志愿信息系统",
+        "onboard_time": 1718618298,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1294781,
+        "num": 691131,
+        "word": "姜萍答数学题 完整复盘",
+        "onboard_time": 1718674096,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 832071,
+        "num": 676312,
+        "word": "假唱",
+        "onboard_time": 1718667976,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627702,
+        "num": 627702,
+        "word": "斯坦福大学博士拟被录用乡镇公务员",
+        "onboard_time": 1718670437,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 823319,
+        "num": 621894,
+        "word": "林更新 你好像把脑子给颠坏了",
+        "onboard_time": 1718675297,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570798,
+        "num": 570798,
+        "word": "人人都爱玫瑰其实是假象",
+        "onboard_time": 1718669958,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451319,
+        "num": 451319,
+        "word": "iPhone16Pro或加大不加厚",
+        "onboard_time": 1718673198,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73904,
+        "num": 449760,
+        "word": "温州乳胶床垫造假企业被立案调查",
+        "onboard_time": 1718677458,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568473,
+        "num": 449678,
+        "word": "张杰唱歌前没有话筒的反应",
+        "onboard_time": 1718675658,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449031,
+        "num": 449031,
+        "word": "医生提醒尽量不要生吃海鲜和肉",
+        "onboard_time": 1718643434,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 443664,
+        "num": 443664,
+        "word": "林更新演技",
+        "onboard_time": 1718628257,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325945,
+        "num": 325945,
+        "word": "男子用AI伪造学生同事近7000张裸照",
+        "onboard_time": 1718667676,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322276,
+        "num": 322276,
+        "word": "魏大勋 从前的玩笑成了现实",
+        "onboard_time": 1718670798,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 312737,
+        "num": 312737,
+        "word": "NBA总决赛",
+        "onboard_time": 1718675237,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271939,
+        "num": 271939,
+        "word": "红豆薏米水真的可以祛湿吗",
+        "onboard_time": 1718656270,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259072,
+        "num": 259072,
+        "word": "舍不得食物语",
+        "onboard_time": 1718677576,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240407,
+        "num": 240407,
+        "word": "教育部提醒切勿轻信高价志愿填报指导",
+        "onboard_time": 1718672479,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203238,
+        "num": 203238,
+        "word": "久坐久躺容易气血不足",
+        "onboard_time": 1718667856,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 548528,
+        "num": 203128,
+        "word": "1周饿2天就能解决脂肪肝吗",
+        "onboard_time": 1718674577,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 354603,
+        "num": 202566,
+        "word": "17岁小伙体重207斤每天狂喝6升水",
+        "onboard_time": 1718672417,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281206,
+        "num": 201759,
+        "word": "贾乃亮赚翻了背后MCN亏惨了",
+        "onboard_time": 1718678477,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274825,
+        "num": 201593,
+        "word": "反季羽绒服不到百元值得买吗",
+        "onboard_time": 1718677458,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 201262,
+        "num": 201262,
+        "word": "苹果停止先买后付服务",
+        "onboard_time": 1718676737,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183670,
+        "num": 183670,
+        "word": "4种异常提示该查妇科了",
+        "onboard_time": 1718676796,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178655,
+        "num": 178655,
+        "word": "玫瑰向方协文提出离婚",
+        "onboard_time": 1718672778,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165560,
+        "num": 165560,
+        "word": "人民日报评姜萍",
+        "onboard_time": 1718670078,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156433,
+        "num": 156433,
+        "word": "被彭冠英这个笑刀到了",
+        "onboard_time": 1718668096,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154361,
+        "num": 154361,
+        "word": "于正说对墨雨云间全部亲力亲为",
+        "onboard_time": 1718676437,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145533,
+        "num": 145533,
+        "word": "陈哲远转发说他假唱微博",
+        "onboard_time": 1718637558,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145336,
+        "num": 145336,
+        "word": "郭靖黄蓉选角",
+        "onboard_time": 1718675596,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132531,
+        "num": 132531,
+        "word": "夏天怎么科学穿衣更凉快",
+        "onboard_time": 1718673857,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 127966,
+        "num": 127966,
+        "word": "以后家里办事就靠狗子的关系了",
+        "onboard_time": 1718678057,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126756,
+        "num": 126756,
+        "word": "姆巴佩向网友征集面具",
+        "onboard_time": 1718670738,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122703,
+        "num": 122703,
+        "word": "独行侠vs凯尔特人",
+        "onboard_time": 1718667015,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116154,
+        "num": 116154,
+        "word": "村民拔萝卜式拉车好可爱",
+        "onboard_time": 1718675596,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115946,
+        "num": 115946,
+        "word": "张杰好奇曾比特的爆炸头",
+        "onboard_time": 1718676136,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115890,
+        "num": 115890,
+        "word": "管虎说东极岛主演已经能闭气4分半",
+        "onboard_time": 1718673258,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112560,
+        "num": 112560,
+        "word": "张若昀许凯檀健次偷感好重",
+        "onboard_time": 1718675897,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100526,
+        "num": 100526,
+        "word": "姆巴佩鼻梁骨折",
+        "onboard_time": 1718666236,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99903,
+        "num": 99903,
+        "word": "吴谨言王星越贴贴不是P的",
+        "onboard_time": 1718674757,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98014,
+        "num": 98014,
+        "word": "刘亦菲同一件衣服不同状态",
+        "onboard_time": 1718665334,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97704,
+        "num": 97704,
+        "word": "王楚钦北体毕业祝福",
+        "onboard_time": 1718673797,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96856,
+        "num": 96856,
+        "word": "订书钉才是上班摸鱼神器",
+        "onboard_time": 1718634619,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90335,
+        "num": 90335,
+        "word": "顶配iPhone16售价或破2万",
+        "onboard_time": 1718667615,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89465,
+        "num": 89465,
+        "word": "英伟达股价一个月累计上涨42%",
+        "onboard_time": 1718673857,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 88478,
+        "num": 88478,
+        "word": "欧洲杯首个爆冷",
+        "onboard_time": 1718669719,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87950,
+        "num": 87950,
+        "word": "云南一女子吃野生菌看到机器人小偷",
+        "onboard_time": 1718635160,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87937,
+        "num": 87937,
+        "word": "美国每周往巴拿马扔1500万只苍蝇",
+        "onboard_time": 1718677338,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致信祝贺黄埔军校建校100周年#"
+    }
+  }
+}

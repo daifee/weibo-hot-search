@@ -1,7 +1,15 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718678150620,
+  "endTime": 1718678741307,
   "band_list": [
+    {
+      "raw_hot": 1707864,
+      "num": 1707864,
+      "word": "林更新评论区 骂骂咧咧来支支吾吾走",
+      "onboard_time": 1718677036,
+      "rank": 0,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1379955,
       "num": 1379955,
@@ -19,20 +27,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1278811,
+      "raw_hot": 1294781,
       "num": 1146249,
       "word": "姜萍答数学题 完整复盘",
       "onboard_time": 1718674096,
       "rank": 18,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1155041,
-      "num": 1155041,
-      "word": "林更新评论区 骂骂咧咧来支支吾吾走",
-      "onboard_time": 1718677036,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 986040,
@@ -57,6 +57,14 @@
       "onboard_time": 1718669958,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 796562,
+      "num": 796562,
+      "word": "福宝是第一个把笋笋剥净了吃的",
+      "onboard_time": 1718676977,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 780562,
@@ -88,14 +96,6 @@
       "word": "姜萍",
       "onboard_time": 1718636600,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 652197,
-      "num": 401995,
-      "word": "福宝是第一个把笋笋剥净了吃的",
-      "onboard_time": 1718676977,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568473,
+      "num": 449678,
+      "word": "张杰唱歌前没有话筒的反应",
+      "onboard_time": 1718675658,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531561,
       "num": 217176,
       "word": "17岁小伙体重207斤每天狂喝6升水",
@@ -144,14 +152,6 @@
       "word": "段嘉许回来了",
       "onboard_time": 1718633839,
       "rank": 4,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 512001,
-      "num": 401270,
-      "word": "张杰唱歌前没有话筒的反应",
-      "onboard_time": 1718675658,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312737,
+      "num": 312737,
+      "word": "NBA总决赛",
+      "onboard_time": 1718675237,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301582,
       "num": 301582,
       "word": "新加坡门将以为自己火不过两天",
@@ -257,14 +265,6 @@
       "onboard_time": 1718665334,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 289532,
-      "num": 289532,
-      "word": "NBA总决赛",
-      "onboard_time": 1718675237,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 286556,
@@ -283,12 +283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281206,
+      "num": 201759,
+      "word": "贾乃亮赚翻了背后MCN亏惨了",
+      "onboard_time": 1718678477,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276025,
       "num": 276025,
       "word": "方协文发疯请勿上升林更新",
       "onboard_time": 1718636237,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274825,
+      "num": 201593,
+      "word": "反季羽绒服不到百元值得买吗",
+      "onboard_time": 1718677458,
+      "rank": 22,
+      "category": "时尚"
     },
     {
       "raw_hot": 263354,
@@ -305,6 +321,14 @@
       "onboard_time": 1718637558,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259072,
+      "num": 259072,
+      "word": "舍不得食物语",
+      "onboard_time": 1718677576,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 257430,
@@ -347,16 +371,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227306,
-      "num": 227306,
-      "word": "舍不得食物语",
-      "onboard_time": 1718677576,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 227275,
-      "num": 148964,
+      "num": 201262,
       "word": "苹果停止先买后付服务",
       "onboard_time": 1718676737,
       "rank": 30,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 202190,
-      "num": 146889,
+      "num": 183670,
       "word": "4种异常提示该查妇科了",
       "onboard_time": 1718676796,
       "rank": 31,
@@ -417,14 +433,6 @@
       "onboard_time": 1718666475,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 187378,
-      "num": 187378,
-      "word": "反季羽绒服不到百元值得买吗",
-      "onboard_time": 1718677458,
-      "rank": 22,
-      "category": "时尚"
     },
     {
       "raw_hot": 186410,
@@ -619,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127966,
+      "num": 127966,
+      "word": "以后家里办事就靠狗子的关系了",
+      "onboard_time": 1718678057,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127770,
       "num": 127770,
       "word": "陈瑶直拍",
@@ -651,8 +667,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122663,
-      "num": 122663,
+      "raw_hot": 122703,
+      "num": 122703,
       "word": "独行侠vs凯尔特人",
       "onboard_time": 1718667015,
       "rank": 29,
@@ -835,14 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97400,
-      "num": 97400,
-      "word": "以后家里办事就靠狗子的关系了",
-      "onboard_time": 1718678057,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95939,
       "num": 95939,
       "word": "黄子弘凡舞台",
@@ -868,7 +876,7 @@
     },
     {
       "raw_hot": 91342,
-      "num": 402547,
+      "num": 449760,
       "word": "温州乳胶床垫造假企业被立案调查",
       "onboard_time": 1718677458,
       "rank": 9,
@@ -889,6 +897,14 @@
       "onboard_time": 1718662272,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87937,
+      "num": 132274,
+      "word": "美国每周往巴拿马扔1500万只苍蝇",
+      "onboard_time": 1718677338,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 85040,
@@ -969,14 +985,6 @@
       "onboard_time": 1718644033,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65071,
-      "num": 132274,
-      "word": "美国每周往巴拿马扔1500万只苍蝇",
-      "onboard_time": 1718677338,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64835,
