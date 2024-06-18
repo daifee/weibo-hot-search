@@ -1,0 +1,410 @@
+{
+  "runTime": 1718702453503,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1160740,
+        "num": 1160740,
+        "word": "于正 我承认我错了",
+        "onboard_time": 1718696418,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646544,
+        "num": 646544,
+        "word": "好看的裙子 无袖",
+        "onboard_time": 1718689278,
+        "rank": 1,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 88577,
+        "num": 548772,
+        "word": "这6个防暑降温误区要避开",
+        "onboard_time": 1718699658,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799552,
+        "num": 545252,
+        "word": "中餐厅 虞书欣",
+        "onboard_time": 1718701218,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 539141,
+        "num": 539141,
+        "word": "爷爷去世后带走了奶奶的色彩",
+        "onboard_time": 1718700499,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 439481,
+        "num": 439481,
+        "word": "中国跳水队游泳队巴黎奥运名单公示",
+        "onboard_time": 1718701578,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420492,
+        "num": 420492,
+        "word": "秦岚的床有多少女生睡过",
+        "onboard_time": 1718700377,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411934,
+        "num": 411934,
+        "word": "中餐厅",
+        "onboard_time": 1718701458,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409518,
+        "num": 409518,
+        "word": "日本食人菌大爆发感染超千例",
+        "onboard_time": 1718692277,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380953,
+        "num": 380953,
+        "word": "北约威胁中国若再援俄或付出经济代价",
+        "onboard_time": 1718694138,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 917297,
+        "num": 377938,
+        "word": "丈夫出轨要妻子净身出户后被杀",
+        "onboard_time": 1718692337,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683855,
+        "num": 371859,
+        "word": "周深曾说等了张杰8年",
+        "onboard_time": 1718697619,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 452913,
+        "num": 360091,
+        "word": "酒店标错价40元一晚被订上千单",
+        "onboard_time": 1718694317,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22749,
+        "num": 347984,
+        "word": "福建上杭强降雨致内涝消防紧急救援",
+        "onboard_time": 1718702177,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52520,
+        "num": 344259,
+        "word": "什么专业适合考公",
+        "onboard_time": 1718701398,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 384618,
+        "num": 330583,
+        "word": "夺人妻赛道",
+        "onboard_time": 1718700018,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329281,
+        "num": 329281,
+        "word": "天水麻辣烫倒闭成网络流量密码",
+        "onboard_time": 1718685078,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382446,
+        "num": 308882,
+        "word": "腋下管理",
+        "onboard_time": 1718695158,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250811,
+        "num": 250811,
+        "word": "白鹿平安落地",
+        "onboard_time": 1718700318,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248548,
+        "num": 248548,
+        "word": "牛津数学女博士评姜萍",
+        "onboard_time": 1718695039,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 658850,
+        "num": 244273,
+        "word": "晨尿发黄是肾有问题吗",
+        "onboard_time": 1718697677,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224007,
+        "num": 224007,
+        "word": "体检发现多了一个器官",
+        "onboard_time": 1718692878,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 221871,
+        "num": 221871,
+        "word": "韩国首尔大学医院529人无限期停诊",
+        "onboard_time": 1718694920,
+        "rank": 22,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 207968,
+        "num": 207968,
+        "word": "那英吃香肠偷感好重",
+        "onboard_time": 1718700858,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207357,
+        "num": 207357,
+        "word": "建议这几个月别轻易辞职",
+        "onboard_time": 1718692096,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 206437,
+        "num": 206437,
+        "word": "刺痛出门18天发现空调没关",
+        "onboard_time": 1718699118,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205630,
+        "num": 205630,
+        "word": "达摩院否认曾要求姜萍再次答题",
+        "onboard_time": 1718692096,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204722,
+        "num": 204722,
+        "word": "巴黎奥运会开幕式彩排",
+        "onboard_time": 1718700979,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197886,
+        "num": 197886,
+        "word": "研一差点被导师移出师门群",
+        "onboard_time": 1718697498,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185102,
+        "num": 185102,
+        "word": "杨紫将担任巴黎奥运火炬手",
+        "onboard_time": 1718681838,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 182494,
+        "num": 182494,
+        "word": "专家回应为何高校不破格录取姜萍",
+        "onboard_time": 1718696898,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173148,
+        "num": 173148,
+        "word": "黄亦玫孕期看到爸妈的反应",
+        "onboard_time": 1718684240,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168071,
+        "num": 168071,
+        "word": "多名奥运冠军入选巴黎奥运名单",
+        "onboard_time": 1718702119,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164699,
+        "num": 164699,
+        "word": "为什么熬夜后身体这些部位巨臭",
+        "onboard_time": 1718694018,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151940,
+        "num": 151940,
+        "word": "女子晾晒过的裙子爬满蓝色虫子",
+        "onboard_time": 1718691617,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143376,
+        "num": 143376,
+        "word": "终于知道为什么工作党考研上岸率高了",
+        "onboard_time": 1718698159,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40758,
+        "num": 141189,
+        "word": "俩男孩暖心帮脊髓损伤女孩推轮椅",
+        "onboard_time": 1718700318,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141026,
+        "num": 141026,
+        "word": "米卡 黄亦玫的第五个男生",
+        "onboard_time": 1718683579,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129639,
+        "num": 129639,
+        "word": "复旦教授揭秘法学专业报考",
+        "onboard_time": 1718700617,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128464,
+        "num": 128464,
+        "word": "于正说成毅人品很好",
+        "onboard_time": 1718700198,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126067,
+        "num": 126067,
+        "word": "丝芭传媒已注册鞠婧祎商标",
+        "onboard_time": 1718691018,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125635,
+        "num": 125635,
+        "word": "为什么女生老觉得办公室空调太冷",
+        "onboard_time": 1718686219,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125193,
+        "num": 125193,
+        "word": "因为100全勤肠胃炎2天还坚持上班",
+        "onboard_time": 1718701699,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123628,
+        "num": 123628,
+        "word": "再也不想看恋综了",
+        "onboard_time": 1718700078,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122412,
+        "num": 122412,
+        "word": "和大学室友确定关系后买房定居了",
+        "onboard_time": 1718702418,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121329,
+        "num": 121329,
+        "word": "刘昊然说瘦到119斤是工作",
+        "onboard_time": 1718693418,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116968,
+        "num": 116968,
+        "word": "法学学士为什么继续做保安",
+        "onboard_time": 1718700858,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113790,
+        "num": 113790,
+        "word": "张杰 靠的是真材实料",
+        "onboard_time": 1718689996,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112473,
+        "num": 112473,
+        "word": "菲律宾",
+        "onboard_time": 1718689217,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 110398,
+        "num": 110398,
+        "word": "鞠婧祎 续约",
+        "onboard_time": 1718679558,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#为同心共圆中国梦广泛凝心聚力#"
+    }
+  }
+}

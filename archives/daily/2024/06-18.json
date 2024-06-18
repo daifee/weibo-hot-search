@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718699876568,
+  "endTime": 1718702453503,
   "band_list": [
     {
       "raw_hot": 2128409,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1160740,
+      "num": 1160740,
+      "word": "于正 我承认我错了",
+      "onboard_time": 1718696418,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1129464,
       "num": 1129464,
       "word": "塔图姆FMVP",
@@ -89,14 +97,6 @@
       "onboard_time": 1718689278,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1113912,
-      "num": 1113912,
-      "word": "于正 我承认我错了",
-      "onboard_time": 1718696418,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1080377,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 799552,
+      "num": 545252,
+      "word": "中餐厅 虞书欣",
+      "onboard_time": 1718701218,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 780562,
       "num": 780562,
       "word": "林更新演技",
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 736403,
-      "num": 335558,
+      "num": 360091,
       "word": "酒店标错价40元一晚被订上千单",
       "onboard_time": 1718694317,
       "rank": 30,
@@ -201,6 +209,14 @@
       "onboard_time": 1718692878,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 683855,
+      "num": 566047,
+      "word": "周深曾说等了张杰8年",
+      "onboard_time": 1718697619,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 672100,
@@ -225,6 +241,14 @@
       "onboard_time": 1718636600,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 658850,
+      "num": 244273,
+      "word": "晨尿发黄是肾有问题吗",
+      "onboard_time": 1718697677,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 649534,
@@ -315,14 +339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 566047,
-      "num": 566047,
-      "word": "周深曾说等了张杰8年",
-      "onboard_time": 1718697619,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 564314,
       "num": 438473,
       "word": "BLACKPINK成员各自的公司",
@@ -347,6 +363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 539141,
+      "num": 539141,
+      "word": "爷爷去世后带走了奶奶的色彩",
+      "onboard_time": 1718700499,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 537207,
       "num": 537207,
       "word": "新加坡门将向中国游客道歉",
@@ -361,14 +385,6 @@
       "onboard_time": 1718672417,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521201,
-      "num": 216788,
-      "word": "晨尿发黄是肾有问题吗",
-      "onboard_time": 1718697677,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 519781,
@@ -475,6 +491,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 439481,
+      "num": 439481,
+      "word": "中国跳水队游泳队巴黎奥运名单公示",
+      "onboard_time": 1718701578,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428426,
       "num": 428426,
       "word": "韩国首尔大学医院529人无限期停诊",
@@ -491,6 +515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 420492,
+      "num": 420492,
+      "word": "秦岚的床有多少女生睡过",
+      "onboard_time": 1718700377,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414384,
       "num": 414384,
       "word": "被彭冠英这个笑刀到了",
@@ -505,6 +537,14 @@
       "onboard_time": 1718638757,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411934,
+      "num": 411934,
+      "word": "中餐厅",
+      "onboard_time": 1718701458,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 406854,
@@ -529,6 +569,14 @@
       "onboard_time": 1718670078,
       "rank": 11,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 384618,
+      "num": 330583,
+      "word": "夺人妻赛道",
+      "onboard_time": 1718700018,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 384584,
@@ -803,8 +851,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247878,
-      "num": 247878,
+      "raw_hot": 250811,
+      "num": 250811,
+      "word": "白鹿平安落地",
+      "onboard_time": 1718700318,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 248548,
+      "num": 248548,
       "word": "牛津数学女博士评姜萍",
       "onboard_time": 1718695039,
       "rank": 41,
@@ -915,6 +971,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207968,
+      "num": 207968,
+      "word": "那英吃香肠偷感好重",
+      "onboard_time": 1718700858,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206437,
+      "num": 206437,
+      "word": "刺痛出门18天发现空调没关",
+      "onboard_time": 1718699118,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206374,
       "num": 206374,
       "word": "林更新被删哭戏",
@@ -929,6 +1001,14 @@
       "onboard_time": 1718685198,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204722,
+      "num": 204722,
+      "word": "巴黎奥运会开幕式彩排",
+      "onboard_time": 1718700979,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 204462,
@@ -1163,6 +1243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 168071,
+      "num": 168071,
+      "word": "多名奥运冠军入选巴黎奥运名单",
+      "onboard_time": 1718702119,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167962,
       "num": 167962,
       "word": "于正说对墨雨云间全部亲力亲为",
@@ -1272,14 +1360,6 @@
       "word": "gala拒绝谈tarzan表现",
       "onboard_time": 1718680637,
       "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 153823,
-      "num": 153823,
-      "word": "刺痛出门18天发现空调没关",
-      "onboard_time": 1718699118,
-      "rank": 34,
       "category": "电竞"
     },
     {
@@ -1411,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143376,
+      "num": 143376,
+      "word": "终于知道为什么工作党考研上岸率高了",
+      "onboard_time": 1718698159,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142330,
       "num": 142330,
       "word": "云南一女子吃野生菌看到机器人小偷",
@@ -1433,14 +1521,6 @@
       "onboard_time": 1718688618,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139412,
-      "num": 139412,
-      "word": "终于知道为什么工作党考研上岸率高了",
-      "onboard_time": 1718698159,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 138756,
@@ -1547,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129639,
+      "num": 129639,
+      "word": "复旦教授揭秘法学专业报考",
+      "onboard_time": 1718700617,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129454,
       "num": 198804,
       "word": "巴西航天局将俄罗斯女航天员描绘成黑人",
@@ -1569,6 +1657,14 @@
       "onboard_time": 1718685739,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128464,
+      "num": 128464,
+      "word": "于正说成毅人品很好",
+      "onboard_time": 1718700198,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 127966,
@@ -1611,12 +1707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125193,
+      "num": 125193,
+      "word": "因为100全勤肠胃炎2天还坚持上班",
+      "onboard_time": 1718701699,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124044,
       "num": 124044,
       "word": "英伟达股价一个月累计上涨42%",
       "onboard_time": 1718673857,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 123628,
+      "num": 123628,
+      "word": "再也不想看恋综了",
+      "onboard_time": 1718700078,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 123409,
@@ -1641,6 +1753,14 @@
       "onboard_time": 1718673797,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122412,
+      "num": 122412,
+      "word": "和大学室友确定关系后买房定居了",
+      "onboard_time": 1718702418,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 121129,
@@ -1681,6 +1801,14 @@
       "onboard_time": 1718698879,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116968,
+      "num": 116968,
+      "word": "法学学士为什么继续做保安",
+      "onboard_time": 1718700858,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113130,
@@ -1907,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88577,
+      "num": 570313,
+      "word": "这6个防暑降温误区要避开",
+      "onboard_time": 1718699658,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88432,
       "num": 88432,
       "word": "离职风工位说明无安全感",
@@ -2091,6 +2227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52520,
+      "num": 344259,
+      "word": "什么专业适合考公",
+      "onboard_time": 1718701398,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 48111,
       "num": 48111,
       "word": "法国队连续6届大赛开门红",
@@ -2105,6 +2249,14 @@
       "onboard_time": 1718683459,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 40758,
+      "num": 141189,
+      "word": "俩男孩暖心帮脊髓损伤女孩推轮椅",
+      "onboard_time": 1718700318,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 39416,
@@ -2251,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22749,
+      "num": 347984,
+      "word": "福建上杭强降雨致内涝消防紧急救援",
+      "onboard_time": 1718702177,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22545,
       "num": 27285,
       "word": "东极岛官宣没有倪妮",
@@ -2264,14 +2424,6 @@
       "word": "一份班主任准备了6年的礼物",
       "onboard_time": 1718643015,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16899,
-      "num": 570313,
-      "word": "这6个防暑降温误区要避开",
-      "onboard_time": 1718699658,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
