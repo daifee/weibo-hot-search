@@ -1,7 +1,15 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718692770292,
+  "endTime": 1718695182691,
   "band_list": [
+    {
+      "raw_hot": 2123417,
+      "num": 1091314,
+      "word": "丈夫出轨要妻子净身出户后被杀",
+      "onboard_time": 1718692337,
+      "rank": 14,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2037367,
       "num": 2037367,
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 724396,
+      "num": 724396,
+      "word": "体检发现多了一个器官",
+      "onboard_time": 1718692878,
+      "rank": 4,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 672100,
       "num": 320384,
       "word": "贾乃亮赚翻了背后MCN亏惨了",
@@ -259,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567297,
+      "num": 260040,
+      "word": "建议这几个月别轻易辞职",
+      "onboard_time": 1718692096,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 564314,
       "num": 438473,
       "word": "BLACKPINK成员各自的公司",
@@ -307,12 +331,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 502109,
+      "num": 502109,
+      "word": "达摩院否认曾要求姜萍再次答题",
+      "onboard_time": 1718692096,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 501473,
       "num": 376975,
       "word": "林更新怼黑粉 一战成名",
       "onboard_time": 1718624476,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489641,
+      "num": 489641,
+      "word": "郭麒麟回应瘦了",
+      "onboard_time": 1718693479,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 483686,
+      "num": 483686,
+      "word": "日本食人菌大爆发感染超千例",
+      "onboard_time": 1718692277,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 483223,
@@ -395,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403850,
+      "num": 403850,
+      "word": "丝芭传媒已注册鞠婧祎商标",
+      "onboard_time": 1718691018,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400649,
       "num": 400649,
       "word": "烟草局回应凌晨上门伪造证据",
@@ -409,14 +465,6 @@
       "onboard_time": 1718670078,
       "rank": 11,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 389147,
-      "num": 367338,
-      "word": "丝芭传媒已注册鞠婧祎商标",
-      "onboard_time": 1718691018,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 384584,
@@ -443,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372668,
+      "num": 197280,
+      "word": "酒店标错价40元一晚被订上千单",
+      "onboard_time": 1718694317,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 363858,
       "num": 363858,
       "word": "食物语正式关服",
@@ -467,28 +523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 354586,
-      "num": 196679,
-      "word": "建议这几个月别轻易辞职",
-      "onboard_time": 1718692096,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 353237,
       "num": 353237,
       "word": "去新疆的朋友圈要这样发",
       "onboard_time": 1718683878,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 345258,
-      "num": 345258,
-      "word": "丈夫出轨要妻子净身出户后被杀",
-      "onboard_time": 1718692337,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 344922,
@@ -523,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 332613,
+      "num": 332613,
+      "word": "墨雨云间全靠司徒九月在救",
+      "onboard_time": 1718691857,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 326141,
       "num": 326141,
       "word": "订书钉才是上班摸鱼神器",
@@ -537,6 +585,14 @@
       "onboard_time": 1718683759,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 307282,
+      "num": 255265,
+      "word": "为什么熬夜后身体这些部位巨臭",
+      "onboard_time": 1718694018,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 301582,
@@ -595,20 +651,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 283504,
-      "num": 193794,
+      "raw_hot": 283702,
+      "num": 241752,
       "word": "女子晾晒过的裙子爬满蓝色虫子",
       "onboard_time": 1718691617,
       "rank": 24,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281829,
-      "num": 193130,
-      "word": "墨雨云间全靠司徒九月在救",
-      "onboard_time": 1718691857,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 278945,
+      "num": 278945,
+      "word": "北约威胁中国若再援俄或付出经济代价",
+      "onboard_time": 1718694138,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 276025,
@@ -633,6 +689,14 @@
       "onboard_time": 1718685439,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270363,
+      "num": 231726,
+      "word": "刘昊然说瘦到119斤是工作",
+      "onboard_time": 1718693418,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 263354,
@@ -771,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210971,
+      "num": 210971,
+      "word": "梅州",
+      "onboard_time": 1718694619,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206215,
       "num": 206215,
       "word": "夏季赛第一周最佳阵容",
@@ -811,6 +883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 200427,
+      "num": 200427,
+      "word": "赵丽颖ins认证",
+      "onboard_time": 1718694199,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198715,
       "num": 198715,
       "word": "丝芭传媒",
@@ -841,6 +921,14 @@
       "onboard_time": 1718634559,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 191354,
+      "num": 191354,
+      "word": "这样夹头发好像真的有用",
+      "onboard_time": 1718694559,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 191335,
@@ -899,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183162,
-      "num": 183162,
-      "word": "达摩院否认曾要求姜萍再次答题",
-      "onboard_time": 1718692096,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183037,
       "num": 154758,
       "word": "玫瑰的故事告诉我们",
@@ -945,6 +1025,14 @@
       "onboard_time": 1718673857,
       "rank": 22,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 176378,
+      "num": 176378,
+      "word": "韩国首尔大学医院529人无限期停诊",
+      "onboard_time": 1718694920,
+      "rank": 34,
+      "category": "国外时政"
     },
     {
       "raw_hot": 176226,
@@ -1155,6 +1243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 150491,
+      "num": 150491,
+      "word": "彭昱畅爆料周也小名",
+      "onboard_time": 1718694437,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149707,
       "num": 149707,
       "word": "怎样的男生适合结婚",
@@ -1169,6 +1265,14 @@
       "onboard_time": 1718690538,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148209,
+      "num": 148209,
+      "word": "赵露思V领无袖",
+      "onboard_time": 1718694559,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 148089,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1718685739,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140703,
+      "num": 140703,
+      "word": "牛津数学女博士评姜萍",
+      "onboard_time": 1718695039,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140457,
@@ -1275,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132810,
+      "num": 132810,
+      "word": "为什么中年男人钟情路虎办公桌",
+      "onboard_time": 1718692818,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132466,
       "num": 132466,
       "word": "张杰好奇曾比特的爆炸头",
@@ -1313,6 +1433,22 @@
       "onboard_time": 1718681117,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128992,
+      "num": 128992,
+      "word": "杨康帅是真帅坏也是真坏",
+      "onboard_time": 1718693779,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128907,
+      "num": 128907,
+      "word": "中国女排总决赛12人名单",
+      "onboard_time": 1718695097,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 128569,
@@ -1385,6 +1521,14 @@
       "onboard_time": 1718673797,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122620,
+      "num": 122620,
+      "word": "腋下管理",
+      "onboard_time": 1718695158,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 121129,
@@ -1715,6 +1859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75134,
+      "num": 316724,
+      "word": "知识分子的松弛感穿搭",
+      "onboard_time": 1718692457,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 73532,
       "num": 76373,
       "word": "刚收到的录取通知书被撤回了",
@@ -1787,20 +1939,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 57682,
+      "num": 415825,
+      "word": "高价防晒产品真能避免晒黑吗",
+      "onboard_time": 1718694018,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 57201,
       "num": 57201,
       "word": "黄宣女装",
       "onboard_time": 1718656450,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54924,
-      "num": 189246,
-      "word": "日本食人菌大爆发感染超千例",
-      "onboard_time": 1718692277,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54715,
@@ -1881,14 +2033,6 @@
       "onboard_time": 1718673499,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30222,
-      "num": 119526,
-      "word": "知识分子的松弛感穿搭",
-      "onboard_time": 1718692457,
-      "rank": 42,
-      "category": "时尚"
     },
     {
       "raw_hot": 30033,
