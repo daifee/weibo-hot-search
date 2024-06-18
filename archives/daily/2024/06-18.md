@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/18 00:24:37 ~ 2024/06/18 09:21:11
+本榜单时间：2024/06/18 00:24:37 ~ 2024/06/18 09:42:27
 </p>
 </blockquote>
 <p>
@@ -15,14 +15,14 @@
 <ol>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%94%B1%23" target="weibo">
-假唱（热度：1361504）
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E6%8B%9F%E8%A2%AB%E5%BD%95%E7%94%A8%E4%B9%A1%E9%95%87%E5%85%AC%E5%8A%A1%E5%91%98%23" target="weibo">
+斯坦福大学博士拟被录用乡镇公务员（热度：1379955）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%A3%AB%E6%8B%9F%E8%A2%AB%E5%BD%95%E7%94%A8%E4%B9%A1%E9%95%87%E5%85%AC%E5%8A%A1%E5%91%98%23" target="weibo">
-斯坦福大学博士拟被录用乡镇公务员（热度：1338716）
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%94%B1%23" target="weibo">
+假唱（热度：1361504）
 </a>
 </li>
 
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E9%83%BD%E7%88%B1%E7%8E%AB%E7%91%B0%E5%85%B6%E5%AE%9E%E6%98%AF%E5%81%87%E8%B1%A1%23" target="weibo">
-人人都爱玫瑰其实是假象（热度：883163）
+人人都爱玫瑰其实是假象（热度：902628）
 </a>
 </li>
 
@@ -69,8 +69,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E4%BB%8E%E5%89%8D%E7%9A%84%E7%8E%A9%E7%AC%91%E6%88%90%E4%BA%86%E7%8E%B0%E5%AE%9E%23" target="weibo">
+魏大勋 从前的玩笑成了现实（热度：584404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%BC%AA%E9%80%A0%E5%AD%A6%E7%94%9F%E5%90%8C%E4%BA%8B%E8%BF%917000%E5%BC%A0%E8%A3%B8%E7%85%A7%23" target="weibo">
 男子用AI伪造学生同事近7000张裸照（热度：574794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%8F%E4%BC%99%E4%BD%93%E9%87%8D207%E6%96%A4%E6%AF%8F%E5%A4%A9%E7%8B%82%E5%96%9D6%E5%8D%87%E6%B0%B4%23" target="weibo">
+17岁小伙体重207斤每天狂喝6升水（热度：531561）
 </a>
 </li>
 
@@ -87,14 +99,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E4%BB%8E%E5%89%8D%E7%9A%84%E7%8E%A9%E7%AC%91%E6%88%90%E4%BA%86%E7%8E%B0%E5%AE%9E%23" target="weibo">
-魏大勋 从前的玩笑成了现实（热度：497903）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%B6%E9%85%8DiPhone16%E5%94%AE%E4%BB%B7%E6%88%96%E7%A0%B42%E4%B8%87%23" target="weibo">
+顶配iPhone16售价或破2万（热度：464471）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%B6%E9%85%8DiPhone16%E5%94%AE%E4%BB%B7%E6%88%96%E7%A0%B42%E4%B8%87%23" target="weibo">
-顶配iPhone16售价或破2万（热度：464471）
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%8F%90%E9%86%92%E5%88%87%E5%8B%BF%E8%BD%BB%E4%BF%A1%E9%AB%98%E4%BB%B7%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%8C%87%E5%AF%BC%23" target="weibo">
+教育部提醒切勿轻信高价志愿填报指导（热度：459396）
 </a>
 </li>
 
@@ -118,19 +130,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E5%A7%9C%E8%90%8D%23" target="weibo">
-人民日报评姜萍（热度：394174）
+人民日报评姜萍（热度：398010）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15%E5%A4%9A%E6%AC%A1%E9%99%8D%E4%BB%B7%E9%87%8D%E5%9B%9E%E9%94%80%E9%87%8F%E6%A6%9C%E7%AC%AC%E4%B8%80%23" target="weibo">
 iPhone15多次降价重回销量榜第一（热度：384584）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%8F%E4%BC%99%E4%BD%93%E9%87%8D207%E6%96%A4%E6%AF%8F%E5%A4%A9%E7%8B%82%E5%96%9D6%E5%8D%87%E6%B0%B4%23" target="weibo">
-17岁小伙体重207斤每天狂喝6升水（热度：373840）
 </a>
 </li>
 
@@ -155,6 +161,12 @@ iPhone15多次降价重回销量榜第一（热度：384584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%90%8C%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%E4%B8%8D%E5%90%8C%E7%8A%B6%E6%80%81%23" target="weibo">
 刘亦菲同一件衣服不同状态（热度：290332）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E5%8A%A0%E5%A4%A7%E4%B8%8D%E5%8A%A0%E5%8E%9A%23" target="weibo">
+iPhone16Pro或加大不加厚（热度：288562）
 </a>
 </li>
 
@@ -225,14 +237,14 @@ iPhone15多次降价重回销量榜第一（热度：384584）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E6%8F%90%E9%86%92%E5%88%87%E5%8B%BF%E8%BD%BB%E4%BF%A1%E9%AB%98%E4%BB%B7%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%8C%87%E5%AF%BC%23" target="weibo">
-教育部提醒切勿轻信高价志愿填报指导（热度：222390）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%20%E7%BB%9D%E7%97%87%E5%93%A5%23" target="weibo">
+玫瑰的故事 绝症哥（热度：217444）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%20%E7%BB%9D%E7%97%87%E5%93%A5%23" target="weibo">
-玫瑰的故事 绝症哥（热度：217444）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E7%AD%94%E6%95%B0%E5%AD%A6%E9%A2%98%20%E5%AE%8C%E6%95%B4%E5%A4%8D%E7%9B%98%23" target="weibo">
+姜萍答数学题 完整复盘（热度：216197）
 </a>
 </li>
 
@@ -263,6 +275,12 @@ iPhone15多次降价重回销量榜第一（热度：384584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E5%91%8A%E8%AF%89%E6%88%91%E4%BB%AC%23" target="weibo">
 玫瑰的故事告诉我们（热度：183037）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%80%8E%E4%B9%88%E7%A7%91%E5%AD%A6%E7%A9%BF%E8%A1%A3%E6%9B%B4%E5%87%89%E5%BF%AB%23" target="weibo">
+夏天怎么科学穿衣更凉快（热度：177277）
 </a>
 </li>
 
@@ -299,12 +317,6 @@ iPhone15多次降价重回销量榜第一（热度：384584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%90%91%E7%BD%91%E5%8F%8B%E5%BE%81%E9%9B%86%E9%9D%A2%E5%85%B7%23" target="weibo">
 姆巴佩向网友征集面具（热度：163779）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone16Pro%E6%88%96%E5%8A%A0%E5%A4%A7%E4%B8%8D%E5%8A%A0%E5%8E%9A%23" target="weibo">
-iPhone16Pro或加大不加厚（热度：162130）
 </a>
 </li>
 
@@ -357,6 +369,24 @@ iPhone16Pro或加大不加厚（热度：162130）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231%E5%91%A8%E9%A5%BF2%E5%A4%A9%E5%B0%B1%E8%83%BD%E8%A7%A3%E5%86%B3%E8%84%82%E8%82%AA%E8%82%9D%E5%90%97%23" target="weibo">
+1周饿2天就能解决脂肪肝吗（热度：133008）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E8%99%8E%E8%AF%B4%E4%B8%9C%E6%9E%81%E5%B2%9B%E4%B8%BB%E6%BC%94%E5%B7%B2%E7%BB%8F%E8%83%BD%E9%97%AD%E6%B0%944%E5%88%86%E5%8D%8A%23" target="weibo">
+管虎说东极岛主演已经能闭气4分半（热度：132981）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%86%99%E7%9A%84%E8%96%9B%E8%8A%B3%E8%8F%B2%E8%90%A7%E8%98%85%E5%A9%9A%E5%90%8E%E6%97%A5%E5%B8%B8%23" target="weibo">
+网友写的薛芳菲萧蘅婚后日常（热度：130117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23city%E4%B8%8Dcity%23" target="weibo">
 city不city（热度：130089）
 </a>
@@ -369,8 +399,20 @@ city不city（热度：130089）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E8%99%8E%E8%AF%B4%E4%B8%9C%E6%9E%81%E5%B2%9B%E4%B8%BB%E6%BC%94%E5%B7%B2%E7%BB%8F%E8%83%BD%E9%97%AD%E6%B0%944%E5%88%86%E5%8D%8A%23" target="weibo">
-管虎说东极岛主演已经能闭气4分半（热度：122007）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E4%B8%80%E4%B8%AA%E6%9C%88%E7%B4%AF%E8%AE%A1%E4%B8%8A%E6%B6%A842%25%23" target="weibo">
+英伟达股价一个月累计上涨42%（热度：124044）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8C%97%E4%BD%93%E6%AF%95%E4%B8%9A%E7%A5%9D%E7%A6%8F%23" target="weibo">
+王楚钦北体毕业祝福（热度：123046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%A1%8C%E4%BE%A0vs%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%23" target="weibo">
+独行侠vs凯尔特人（热度：122663）
 </a>
 </li>
 
@@ -383,12 +425,6 @@ city不city（热度：130089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6%E5%8D%8A%E5%9C%BA0%E6%AF%941%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%23" target="weibo">
 比利时半场0比1斯洛伐克（热度：119750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%A1%8C%E4%BE%A0vs%E5%87%AF%E5%B0%94%E7%89%B9%E4%BA%BA%23" target="weibo">
-独行侠vs凯尔特人（热度：114747）
 </a>
 </li>
 
@@ -417,6 +453,12 @@ city不city（热度：130089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%B7%9E%E6%B4%AA%E6%B6%9D1190%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E5%A2%9E%E6%8F%B4%E8%B5%B6%E8%B5%B4%23" target="weibo">
+梅州洪涝1190名消防员增援赶赴（热度：107678）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A3%E6%AF%940%E4%B9%8C%E5%85%8B%E5%85%B0%23" target="weibo">
 罗马尼亚3比0乌克兰（热度：107388）
 </a>
@@ -425,6 +467,12 @@ city不city（热度：130089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%90%AC%E4%B8%8D%E8%85%BB%E7%9A%84%E4%BC%A0%E7%BB%9F%E9%9F%B3%E4%B9%90%23" target="weibo">
 文化中国行听不腻的传统音乐（热度：106573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E7%94%9F%E5%A5%B3%E5%84%BF%E5%B0%B1%E6%98%AF%E7%94%A8%E6%9D%A5%E6%89%93%E6%89%AE%E7%9A%84%23" target="weibo">
+果然生女儿就是用来打扮的（热度：106439）
 </a>
 </li>
 
@@ -447,6 +495,12 @@ city不city（热度：130089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E8%B4%B4%E8%B4%B4%E4%B8%8D%E6%98%AFP%E7%9A%84%23" target="weibo">
+吴谨言王星越贴贴不是P的（热度：104593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%80%A0%E4%B9%8C%E9%BE%99%23" target="weibo">
 姆巴佩造乌龙（热度：104078）
 </a>
@@ -455,6 +509,12 @@ city不city（热度：130089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E6%9C%B1%E7%8F%A0%E7%B2%BE%E7%A5%9E%E7%81%AF%E5%A1%94%23" target="weibo">
 玫瑰的故事朱珠精神灯塔（热度：102721）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%BD%B1%E8%A7%86%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E5%B9%B4%E5%BA%A6%E5%8D%93%E8%B6%8A%E6%AD%8C%E6%89%8B%23" target="weibo">
+张杰影视音乐盛典年度卓越歌手（热度：102125）
 </a>
 </li>
 
@@ -479,12 +539,6 @@ city不city（热度：130089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
 玫瑰的故事（热度：98953）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E7%94%9F%E5%A5%B3%E5%84%BF%E5%B0%B1%E6%98%AF%E7%94%A8%E6%9D%A5%E6%89%93%E6%89%AE%E7%9A%84%23" target="weibo">
-果然生女儿就是用来打扮的（热度：98068）
 </a>
 </li>
 
@@ -575,12 +629,6 @@ Giselle中国首封（热度：83176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%A3%B0%E7%BA%BF%E6%9C%89%E6%97%A5%E5%87%BA%E7%9A%84%E6%B8%A9%E6%9A%96%23" target="weibo">
 华晨宇声线有日出的温暖（热度：71519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%B7%9E%E6%B4%AA%E6%B6%9D1190%E5%90%8D%E6%B6%88%E9%98%B2%E5%91%98%E5%A2%9E%E6%8F%B4%E8%B5%B6%E8%B5%B4%23" target="weibo">
-梅州洪涝1190名消防员增援赶赴（热度：70920）
 </a>
 </li>
 

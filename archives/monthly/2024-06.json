@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718673671919,
+  "endTime": 1718674947271,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1595,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1379955,
+      "num": 1379955,
+      "word": "斯坦福大学博士拟被录用乡镇公务员",
+      "onboard_time": 1718670437,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1376163,
       "num": 1376163,
       "word": "女员工因担心走光上班打伞遭开除",
@@ -1720,14 +1728,6 @@
       "word": "洞洞鞋鼻祖一年卖了200亿",
       "onboard_time": 1718355138,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1338716,
-      "num": 1338716,
-      "word": "斯坦福大学博士拟被录用乡镇公务员",
-      "onboard_time": 1718670437,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -3755,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 902628,
+      "num": 902628,
+      "word": "人人都爱玫瑰其实是假象",
+      "onboard_time": 1718669958,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 901446,
       "num": 444038,
       "word": "张杰谢娜关系不一般",
@@ -3841,14 +3849,6 @@
       "onboard_time": 1717716376,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 883163,
-      "num": 883163,
-      "word": "人人都爱玫瑰其实是假象",
-      "onboard_time": 1718669958,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 882405,
@@ -7619,6 +7619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584404,
+      "num": 497903,
+      "word": "魏大勋 从前的玩笑成了现实",
+      "onboard_time": 1718670798,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 584322,
       "num": 584322,
       "word": "我永远是张若昀的观众朋友",
@@ -8627,6 +8635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 531561,
+      "num": 209408,
+      "word": "17岁小伙体重207斤每天狂喝6升水",
+      "onboard_time": 1718672417,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 530889,
       "num": 530889,
       "word": "孙颖莎 正手",
@@ -9521,14 +9537,6 @@
       "onboard_time": 1717437193,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 497903,
-      "num": 497903,
-      "word": "魏大勋 从前的玩笑成了现实",
-      "onboard_time": 1718670798,
-      "rank": 7,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 497751,
@@ -10561,6 +10569,14 @@
       "onboard_time": 1718089097,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 459396,
+      "num": 459396,
+      "word": "教育部提醒切勿轻信高价志愿填报指导",
+      "onboard_time": 1718672479,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 458616,
@@ -12499,6 +12515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398010,
+      "num": 398010,
+      "word": "人民日报评姜萍",
+      "onboard_time": 1718670078,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 397905,
       "num": 572867,
       "word": "墨雨云间 已老实求加更",
@@ -12681,14 +12705,6 @@
       "onboard_time": 1717221557,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 394174,
-      "num": 394174,
-      "word": "人民日报评姜萍",
-      "onboard_time": 1718670078,
-      "rank": 11,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 394018,
@@ -13385,14 +13401,6 @@
       "onboard_time": 1718082918,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 373840,
-      "num": 209408,
-      "word": "17岁小伙体重207斤每天狂喝6升水",
-      "onboard_time": 1718672417,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 373741,
@@ -17233,6 +17241,14 @@
       "onboard_time": 1718441058,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288562,
+      "num": 288562,
+      "word": "iPhone16Pro或加大不加厚",
+      "onboard_time": 1718673198,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 288483,
@@ -21467,14 +21483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222390,
-      "num": 222390,
-      "word": "教育部提醒切勿轻信高价志愿填报指导",
-      "onboard_time": 1718672479,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 222234,
       "num": 222234,
       "word": "张艺兴戴腰链",
@@ -22145,6 +22153,14 @@
       "onboard_time": 1717474279,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216197,
+      "num": 216197,
+      "word": "姜萍答数学题 完整复盘",
+      "onboard_time": 1718674096,
+      "rank": 18,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 216192,
@@ -28451,6 +28467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 177277,
+      "num": 177277,
+      "word": "夏天怎么科学穿衣更凉快",
+      "onboard_time": 1718673857,
+      "rank": 22,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 177105,
       "num": 177105,
       "word": "云南一女子吃野生菌看到机器人小偷",
@@ -31041,14 +31065,6 @@
       "onboard_time": 1718119640,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162130,
-      "num": 162130,
-      "word": "iPhone16Pro或加大不加厚",
-      "onboard_time": 1718673198,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 162101,
@@ -36795,12 +36811,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133008,
+      "num": 133008,
+      "word": "1周饿2天就能解决脂肪肝吗",
+      "onboard_time": 1718674577,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132988,
       "num": 132988,
       "word": "把单位发的粽香红茶当粽子煮了",
       "onboard_time": 1717932798,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132981,
+      "num": 132981,
+      "word": "管虎说东极岛主演已经能闭气4分半",
+      "onboard_time": 1718673258,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 132970,
@@ -37489,6 +37521,14 @@
       "onboard_time": 1718415317,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130117,
+      "num": 130117,
+      "word": "网友写的薛芳菲萧蘅婚后日常",
+      "onboard_time": 1718674397,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 130079,
@@ -38891,6 +38931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 124044,
+      "num": 124044,
+      "word": "英伟达股价一个月累计上涨42%",
+      "onboard_time": 1718673857,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124035,
       "num": 124035,
       "word": "玫瑰的故事婚姻避坑指男",
@@ -39041,6 +39089,14 @@
       "onboard_time": 1717940899,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 123046,
+      "num": 123046,
+      "word": "王楚钦北体毕业祝福",
+      "onboard_time": 1718673797,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 122988,
@@ -39249,14 +39305,6 @@
       "onboard_time": 1717201697,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122007,
-      "num": 122007,
-      "word": "管虎说东极岛主演已经能闭气4分半",
-      "onboard_time": 1718673258,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 121976,
@@ -41979,6 +42027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107678,
+      "num": 174116,
+      "word": "梅州洪涝1190名消防员增援赶赴",
+      "onboard_time": 1718671639,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 107662,
       "num": 95977,
       "word": "正常吃饭还长胖说明代谢很弱",
@@ -42169,6 +42225,14 @@
       "onboard_time": 1717233556,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106439,
+      "num": 106439,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 106369,
@@ -42457,6 +42521,14 @@
       "onboard_time": 1718634559,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104593,
+      "num": 104593,
+      "word": "吴谨言王星越贴贴不是P的",
+      "onboard_time": 1718674757,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 104572,
@@ -42801,6 +42873,14 @@
       "onboard_time": 1717585757,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102125,
+      "num": 102125,
+      "word": "张杰影视音乐盛典年度卓越歌手",
+      "onboard_time": 1718673676,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 102072,
@@ -43361,14 +43441,6 @@
       "onboard_time": 1718406855,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98068,
-      "num": 98068,
-      "word": "果然生女儿就是用来打扮的",
-      "onboard_time": 1718654650,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 98060,
@@ -45513,14 +45585,6 @@
       "onboard_time": 1717696572,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 70920,
-      "num": 174116,
-      "word": "梅州洪涝1190名消防员增援赶赴",
-      "onboard_time": 1718671639,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70884,
