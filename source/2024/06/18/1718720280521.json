@@ -1,0 +1,410 @@
+{
+  "runTime": 1718720280521,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1846477,
+        "num": 1846477,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1185910,
+        "num": 1185910,
+        "word": "高铁晚点 补偿",
+        "onboard_time": 1718715498,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 9863,
+        "num": 1165061,
+        "word": "国之重器更是国之底气",
+        "onboard_time": 1718669237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1162377,
+        "num": 1162377,
+        "word": "张杰谢娜临时公开恋情的原因",
+        "onboard_time": 1718713997,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 609737,
+        "num": 609737,
+        "word": "养了6年的兔子给我做了个窝",
+        "onboard_time": 1718715318,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 385153,
+        "num": 385153,
+        "word": "瑞幸回应喝西梅美式腹泻",
+        "onboard_time": 1718711058,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806151,
+        "num": 378159,
+        "word": "丝芭回应鞠婧祎到期不续",
+        "onboard_time": 1718718198,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392340,
+        "num": 376144,
+        "word": "佟大为说刘诗诗的哭戏令人震撼",
+        "onboard_time": 1718719698,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357867,
+        "num": 357867,
+        "word": "科大讯飞内部通报员工去世",
+        "onboard_time": 1718709557,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326704,
+        "num": 326704,
+        "word": "西梅咖啡",
+        "onboard_time": 1718718017,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 371064,
+        "num": 326672,
+        "word": "中餐厅 虞书欣",
+        "onboard_time": 1718701218,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 367789,
+        "num": 326420,
+        "word": "张云龙曾舜晞曾拒演墨雨云间",
+        "onboard_time": 1718715379,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324365,
+        "num": 324365,
+        "word": "瑞幸 送纸巾",
+        "onboard_time": 1718717959,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321238,
+        "num": 321238,
+        "word": "霍建华 偷偷哭",
+        "onboard_time": 1718711058,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288567,
+        "num": 288567,
+        "word": "黄亦玫生孩子婆婆不让打无痛",
+        "onboard_time": 1718703497,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266593,
+        "num": 266593,
+        "word": "宝鸡地震",
+        "onboard_time": 1718715078,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264165,
+        "num": 264165,
+        "word": "男子为快速入睡吃了40多片安眠药",
+        "onboard_time": 1718702719,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27133,
+        "num": 263053,
+        "word": "杭州这场街头田径赛燃爆了",
+        "onboard_time": 1718719459,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262193,
+        "num": 262193,
+        "word": "C罗比赛",
+        "onboard_time": 1718716579,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257815,
+        "num": 257815,
+        "word": "性格内向的人看起来更显小",
+        "onboard_time": 1718719399,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1054771,
+        "num": 252637,
+        "word": "鞠婧祎 到期不续",
+        "onboard_time": 1718709137,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466770,
+        "num": 239846,
+        "word": "存了8万后变成了病态省钱",
+        "onboard_time": 1718710996,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301143,
+        "num": 224034,
+        "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
+        "onboard_time": 1718716699,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271726,
+        "num": 211962,
+        "word": "霍建华上桌了",
+        "onboard_time": 1718716338,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210246,
+        "num": 210246,
+        "word": "张杰周深击掌",
+        "onboard_time": 1718718140,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202308,
+        "num": 202308,
+        "word": "碧梨Jennie同框",
+        "onboard_time": 1718717359,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38980,
+        "num": 199860,
+        "word": "斯坦福博士考乡镇公务员是大材小用吗",
+        "onboard_time": 1718720178,
+        "rank": 26,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 199606,
+        "num": 199606,
+        "word": "张新成做了近视眼手术",
+        "onboard_time": 1718712798,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196377,
+        "num": 196377,
+        "word": "鞠婧祎陈丽君越剧舞台",
+        "onboard_time": 1718720120,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192189,
+        "num": 192189,
+        "word": "618",
+        "onboard_time": 1718719581,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 186419,
+        "num": 186419,
+        "word": "华为考虑在鸿蒙应用商店收取20%佣金",
+        "onboard_time": 1718715318,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 177942,
+        "num": 177942,
+        "word": "还好不是刘亦菲",
+        "onboard_time": 1718709258,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177926,
+        "num": 177926,
+        "word": "WTT球星挑战赛曼谷站2024",
+        "onboard_time": 1718719339,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150947,
+        "num": 150947,
+        "word": "刘诗诗掌心杀青发文",
+        "onboard_time": 1718720120,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148652,
+        "num": 148652,
+        "word": "税务部门没有倒查20年30年的安排",
+        "onboard_time": 1718705837,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147921,
+        "num": 147921,
+        "word": "谁有姆巴佩的联系方式",
+        "onboard_time": 1718719339,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126544,
+        "num": 126544,
+        "word": "考公斯坦福博士本科为中科大",
+        "onboard_time": 1718709436,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87149,
+        "num": 122576,
+        "word": "关注广东梅州暴雨",
+        "onboard_time": 1718716398,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138849,
+        "num": 122138,
+        "word": "徐娇回应不敢搂刘诗诗",
+        "onboard_time": 1718710697,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121035,
+        "num": 121035,
+        "word": "于正 我承认我错了",
+        "onboard_time": 1718696418,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118154,
+        "num": 118154,
+        "word": "十个勤天帆布包",
+        "onboard_time": 1718706558,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117472,
+        "num": 117472,
+        "word": "方协文当着黄亦玫的面和妈妈说方言",
+        "onboard_time": 1718705178,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117202,
+        "num": 117202,
+        "word": "王星越化妆师",
+        "onboard_time": 1718718017,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114050,
+        "num": 114050,
+        "word": "黄俊捷自拍",
+        "onboard_time": 1718718377,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110951,
+        "num": 110951,
+        "word": "看中医 不要化妆",
+        "onboard_time": 1718709737,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108854,
+        "num": 108854,
+        "word": "斯坦福博士当乡镇公务员不必夸大解读",
+        "onboard_time": 1718716217,
+        "rank": 45,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 105390,
+        "num": 105390,
+        "word": "严浩翔几乎成名",
+        "onboard_time": 1718709197,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104542,
+        "num": 104542,
+        "word": "玫瑰的故事25",
+        "onboard_time": 1718714658,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99388,
+        "num": 99388,
+        "word": "一汽丰田卡罗拉已不到8万",
+        "onboard_time": 1718715379,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 99148,
+        "num": 99148,
+        "word": "杨康自杀的爸尾随的妈活该的他",
+        "onboard_time": 1718716278,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛抗旱工作作出重要指示#"
+    }
+  }
+}

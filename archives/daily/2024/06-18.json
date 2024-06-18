@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718717649025,
+  "endTime": 1718720280521,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -27,6 +27,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1846477,
+      "num": 1846477,
+      "word": "霍建华一出场初恋和前夫弱爆了",
+      "onboard_time": 1718718259,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1595084,
       "num": 1595084,
       "word": "中国女游客被韩国酒店员工性侵",
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 1417668,
-      "num": 606011,
+      "num": 1162377,
       "word": "张杰谢娜临时公开恋情的原因",
       "onboard_time": 1718713997,
       "rank": 31,
@@ -96,6 +104,14 @@
       "word": "天水麻辣烫倒闭成网络流量密码",
       "onboard_time": 1718685078,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1185910,
+      "num": 1185910,
+      "word": "高铁晚点 补偿",
+      "onboard_time": 1718715498,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -171,14 +187,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 925441,
-      "num": 925441,
-      "word": "高铁晚点 补偿",
-      "onboard_time": 1718715498,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 924387,
       "num": 924387,
       "word": "瑞幸回应喝西梅美式腹泻",
@@ -216,6 +224,14 @@
       "word": "鞠婧祎 续约",
       "onboard_time": 1718679558,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 806151,
+      "num": 378159,
+      "word": "丝芭回应鞠婧祎到期不续",
+      "onboard_time": 1718718198,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 688332,
-      "num": 196175,
+      "num": 239846,
       "word": "存了8万后变成了病态省钱",
       "onboard_time": 1718710996,
       "rank": 20,
@@ -337,6 +353,14 @@
       "onboard_time": 1718692277,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609737,
+      "num": 609737,
+      "word": "养了6年的兔子给我做了个窝",
+      "onboard_time": 1718715318,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 608962,
@@ -603,14 +627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 465532,
-      "num": 354903,
-      "word": "养了6年的兔子给我做了个窝",
-      "onboard_time": 1718715318,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 464471,
       "num": 464471,
       "word": "顶配iPhone16售价或破2万",
@@ -707,6 +723,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 392340,
+      "num": 376144,
+      "word": "佟大为说刘诗诗的哭戏令人震撼",
+      "onboard_time": 1718719698,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384618,
       "num": 330583,
       "word": "夺人妻赛道",
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 372959,
-      "num": 192828,
+      "num": 199606,
       "word": "张新成做了近视眼手术",
       "onboard_time": 1718712798,
       "rank": 22,
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 334174,
-      "num": 187535,
+      "num": 211962,
       "word": "霍建华上桌了",
       "onboard_time": 1718716338,
       "rank": 23,
@@ -891,12 +915,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 326704,
+      "num": 326704,
+      "word": "西梅咖啡",
+      "onboard_time": 1718718017,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 326141,
       "num": 326141,
       "word": "订书钉才是上班摸鱼神器",
       "onboard_time": 1718634619,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 324365,
+      "num": 324365,
+      "word": "瑞幸 送纸巾",
+      "onboard_time": 1718717959,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 320199,
@@ -937,6 +977,14 @@
       "onboard_time": 1718634559,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301143,
+      "num": 224034,
+      "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
+      "onboard_time": 1718716699,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 299988,
@@ -1083,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262193,
+      "num": 262193,
+      "word": "C罗比赛",
+      "onboard_time": 1718716579,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261682,
       "num": 261682,
       "word": "鞠婧祎开心夜舞台",
@@ -1097,6 +1153,14 @@
       "onboard_time": 1718677576,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 257815,
+      "num": 257815,
+      "word": "性格内向的人看起来更显小",
+      "onboard_time": 1718719399,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 257430,
@@ -1169,22 +1233,6 @@
       "onboard_time": 1718702839,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242173,
-      "num": 242173,
-      "word": "C罗比赛",
-      "onboard_time": 1718716579,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 235870,
-      "num": 186433,
-      "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
-      "onboard_time": 1718716699,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235305,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1718637258,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210246,
+      "num": 210246,
+      "word": "张杰周深击掌",
+      "onboard_time": 1718718140,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 209713,
@@ -1467,6 +1523,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 196377,
+      "num": 196377,
+      "word": "鞠婧祎陈丽君越剧舞台",
+      "onboard_time": 1718720120,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195322,
       "num": 169816,
       "word": "林更新战绩可查",
@@ -1480,6 +1544,14 @@
       "word": "华为考虑在鸿蒙应用商店收取20%佣金",
       "onboard_time": 1718715318,
       "rank": 25,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 192189,
+      "num": 192189,
+      "word": "618",
+      "onboard_time": 1718719581,
+      "rank": 29,
       "category": "互联网"
     },
     {
@@ -1625,6 +1697,14 @@
       "onboard_time": 1718707937,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 177926,
+      "num": 177926,
+      "word": "WTT球星挑战赛曼谷站2024",
+      "onboard_time": 1718719339,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 177277,
@@ -1915,6 +1995,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 150947,
+      "num": 150947,
+      "word": "刘诗诗掌心杀青发文",
+      "onboard_time": 1718720120,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150911,
       "num": 150911,
       "word": "想做360元纹眉最后花5千撞脸小新",
@@ -1953,6 +2041,14 @@
       "onboard_time": 1718682197,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147921,
+      "num": 147921,
+      "word": "谁有姆巴佩的联系方式",
+      "onboard_time": 1718719339,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 146215,
@@ -2387,12 +2483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117202,
+      "num": 117202,
+      "word": "王星越化妆师",
+      "onboard_time": 1718718017,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116116,
       "num": 116116,
       "word": "近乎完美的腰腹训练",
       "onboard_time": 1718704037,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 114050,
+      "num": 114050,
+      "word": "黄俊捷自拍",
+      "onboard_time": 1718718377,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 113130,
@@ -2433,6 +2545,14 @@
       "onboard_time": 1718636779,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108854,
+      "num": 356954,
+      "word": "斯坦福博士当乡镇公务员不必夸大解读",
+      "onboard_time": 1718716217,
+      "rank": 30,
+      "category": "社会议题"
     },
     {
       "raw_hot": 108775,
@@ -2843,14 +2963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 71294,
-      "num": 356954,
-      "word": "斯坦福博士当乡镇公务员不必夸大解读",
-      "onboard_time": 1718716217,
-      "rank": 30,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 70884,
       "num": 68800,
       "word": "水象星座真的是恋爱脑吗",
@@ -3011,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 38980,
+      "num": 199860,
+      "word": "斯坦福博士考乡镇公务员是大材小用吗",
+      "onboard_time": 1718720178,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 38686,
       "num": 56261,
       "word": "金庸武侠世界",
@@ -3113,6 +3233,14 @@
       "onboard_time": 1718713697,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27133,
+      "num": 263053,
+      "word": "杭州这场街头田径赛燃爆了",
+      "onboard_time": 1718719459,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 26627,
@@ -3259,6 +3387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 9863,
+      "num": 1165061,
+      "word": "国之重器更是国之底气",
+      "onboard_time": 1718669237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 6034,
       "num": 179133,
       "word": "口腔专业真的很好就业吗",
@@ -3272,14 +3408,6 @@
       "word": "坠桥男子漂流8公里被鱼竿拉上岸",
       "onboard_time": 1718650451,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5261,
-      "num": 607071,
-      "word": "国之重器更是国之底气",
-      "onboard_time": 1718669237,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
