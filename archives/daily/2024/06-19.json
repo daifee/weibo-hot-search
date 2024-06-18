@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718735177070,
+  "endTime": 1718735928183,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -467,12 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23810,
+      "raw_hot": 33443,
       "num": 36089,
       "word": "日本疯传的食人菌是什么",
       "onboard_time": 1718734633,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27432,
+      "num": 27432,
+      "word": "室友竟然在宿舍里装了个监控",
+      "onboard_time": 1718735352,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 23509,
