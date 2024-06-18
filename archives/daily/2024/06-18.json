@@ -1,10 +1,10 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718678741307,
+  "endTime": 1718680945928,
   "band_list": [
     {
-      "raw_hot": 1707864,
-      "num": 1707864,
+      "raw_hot": 2037367,
+      "num": 2037367,
       "word": "林更新评论区 骂骂咧咧来支支吾吾走",
       "onboard_time": 1718677036,
       "rank": 0,
@@ -27,12 +27,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1328932,
+      "num": 1328932,
+      "word": "凯尔特人总冠军",
+      "onboard_time": 1718679858,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1294781,
       "num": 1146249,
       "word": "姜萍答数学题 完整复盘",
       "onboard_time": 1718674096,
       "rank": 18,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1129464,
+      "num": 1129464,
+      "word": "塔图姆FMVP",
+      "onboard_time": 1718680457,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 986040,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 904300,
-      "num": 696246,
+      "num": 701081,
       "word": "林更新 你好像把脑子给颠坏了",
       "onboard_time": 1718675297,
       "rank": 5,
@@ -59,8 +75,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 796562,
-      "num": 796562,
+      "raw_hot": 805462,
+      "num": 805462,
       "word": "福宝是第一个把笋笋剥净了吃的",
       "onboard_time": 1718676977,
       "rank": 10,
@@ -91,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 659182,
+      "num": 316331,
+      "word": "贾乃亮赚翻了背后MCN亏惨了",
+      "onboard_time": 1718678477,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 659153,
       "num": 659153,
       "word": "姜萍",
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 598676,
-      "num": 218513,
+      "num": 316174,
       "word": "1周饿2天就能解决脂肪肝吗",
       "onboard_time": 1718674577,
       "rank": 33,
@@ -139,12 +163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 541146,
+      "num": 541146,
+      "word": "鞠婧祎 续约",
+      "onboard_time": 1718679558,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 531561,
       "num": 217176,
       "word": "17岁小伙体重207斤每天狂喝6升水",
       "onboard_time": 1718672417,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521257,
+      "num": 458136,
+      "word": "鞠婧祎不是女团了",
+      "onboard_time": 1718679497,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 519781,
@@ -161,6 +201,14 @@
       "onboard_time": 1718624476,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 480943,
+      "num": 480943,
+      "word": "NBA总决赛",
+      "onboard_time": 1718675237,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 477221,
@@ -227,6 +275,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 377281,
+      "num": 377281,
+      "word": "苹果停止先买后付服务",
+      "onboard_time": 1718676737,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 362604,
+      "num": 362604,
+      "word": "反季羽绒服不到百元值得买吗",
+      "onboard_time": 1718677458,
+      "rank": 22,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 357864,
+      "num": 357864,
+      "word": "欧文命中率",
+      "onboard_time": 1718679377,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 342393,
       "num": 304024,
       "word": "知情人称遇难8人非首次坐冷藏车",
@@ -243,12 +315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312737,
-      "num": 312737,
-      "word": "NBA总决赛",
-      "onboard_time": 1718675237,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 316622,
+      "num": 316622,
+      "word": "中国女游客被韩国酒店员工性侵",
+      "onboard_time": 1718680216,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301582,
@@ -267,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 288457,
+      "num": 288457,
+      "word": "凯尔特人4比1独行侠",
+      "onboard_time": 1718680098,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286556,
       "num": 286556,
       "word": "陈哲远转发说他假唱微博",
@@ -283,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 281206,
-      "num": 201759,
-      "word": "贾乃亮赚翻了背后MCN亏惨了",
-      "onboard_time": 1718678477,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276025,
       "num": 276025,
       "word": "方协文发疯请勿上升林更新",
@@ -299,12 +371,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 274825,
-      "num": 201593,
-      "word": "反季羽绒服不到百元值得买吗",
-      "onboard_time": 1718677458,
-      "rank": 22,
-      "category": "时尚"
+      "raw_hot": 269861,
+      "num": 269861,
+      "word": "食物语正式关服",
+      "onboard_time": 1718680278,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 263354,
@@ -321,6 +393,14 @@
       "onboard_time": 1718637558,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259154,
+      "num": 259154,
+      "word": "范闲庆帝骨子里的相似",
+      "onboard_time": 1718680098,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 259072,
@@ -371,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 227275,
-      "num": 201262,
-      "word": "苹果停止先买后付服务",
-      "onboard_time": 1718676737,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 222935,
+      "num": 222935,
+      "word": "独行侠vs凯尔特人",
+      "onboard_time": 1718667015,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 222626,
@@ -417,6 +497,14 @@
       "onboard_time": 1718634559,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 191105,
+      "num": 191105,
+      "word": "凯尔特人18冠超湖人",
+      "onboard_time": 1718680337,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 190783,
@@ -547,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 151702,
+      "num": 151702,
+      "word": "张杰演唱会盛典连轴转",
+      "onboard_time": 1718680457,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150998,
       "num": 150998,
       "word": "瘦了20斤才敢说的实话",
@@ -555,12 +651,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 149916,
+      "num": 475537,
+      "word": "高考623分的脑瘫少年毕业了",
+      "onboard_time": 1718679136,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 149707,
       "num": 149707,
       "word": "怎样的男生适合结婚",
       "onboard_time": 1718671098,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146165,
+      "num": 146165,
+      "word": "美国每周往巴拿马扔1500万只苍蝇",
+      "onboard_time": 1718677338,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142330,
@@ -577,6 +689,22 @@
       "onboard_time": 1718634139,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 133816,
+      "num": 133816,
+      "word": "塔图姆得分纪录超过偶像科比",
+      "onboard_time": 1718680216,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 133776,
+      "num": 133776,
+      "word": "gala拒绝谈tarzan表现",
+      "onboard_time": 1718680637,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 133630,
@@ -635,12 +763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127851,
+      "num": 127851,
+      "word": "鞠婧祎破茧写真",
+      "onboard_time": 1718679136,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127770,
       "num": 127770,
       "word": "陈瑶直拍",
       "onboard_time": 1718672297,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125251,
+      "num": 133784,
+      "word": "独行侠1比3凯尔特人",
+      "onboard_time": 1718678778,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 124044,
@@ -667,20 +811,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122703,
-      "num": 122703,
-      "word": "独行侠vs凯尔特人",
-      "onboard_time": 1718667015,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120656,
       "num": 120656,
       "word": "罗马尼亚vs乌克兰",
       "onboard_time": 1718626877,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119962,
+      "num": 119962,
+      "word": "狗狗我觉得我们有点暧昧了",
+      "onboard_time": 1718679197,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 119750,
@@ -899,14 +1043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87937,
-      "num": 132274,
-      "word": "美国每周往巴拿马扔1500万只苍蝇",
-      "onboard_time": 1718677338,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 85040,
       "num": 85040,
       "word": "夏天怕热可以扎这四款发型",
@@ -1036,7 +1172,7 @@
     },
     {
       "raw_hot": 54715,
-      "num": 912002,
+      "num": 1213302,
       "word": "教育部首次上线高考志愿信息系统",
       "onboard_time": 1718618298,
       "rank": 2,
