@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718720280521,
+  "endTime": 1718721347615,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -43,8 +43,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1846477,
-      "num": 1846477,
+      "raw_hot": 1913244,
+      "num": 1913244,
       "word": "霍建华一出场初恋和前夫弱爆了",
       "onboard_time": 1718718259,
       "rank": 0,
@@ -796,7 +796,7 @@
     },
     {
       "raw_hot": 806151,
-      "num": 378159,
+      "num": 567373,
       "word": "丝芭回应鞠婧祎到期不续",
       "onboard_time": 1718718198,
       "rank": 6,
@@ -913,6 +913,14 @@
       "onboard_time": 1718700499,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 731970,
+      "num": 408543,
+      "word": "罗小黑 作者",
+      "onboard_time": 1718720359,
+      "rank": 10,
+      "category": "动漫"
     },
     {
       "raw_hot": 730757,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1718692096,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 564989,
+      "num": 564989,
+      "word": "庄国栋带孩子",
+      "onboard_time": 1718720300,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 564314,
@@ -1875,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458366,
+      "num": 458366,
+      "word": "性格内向的人看起来更显小",
+      "onboard_time": 1718719399,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 455600,
       "num": 381727,
       "word": "李宇春 面条裙",
@@ -2155,6 +2179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403822,
+      "num": 403822,
+      "word": "佟大为说刘诗诗的哭戏令人震撼",
+      "onboard_time": 1718719698,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403689,
       "num": 403689,
       "word": "张云龙曾舜晞曾拒演墨雨云间",
@@ -2257,14 +2289,6 @@
       "onboard_time": 1718632819,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 392340,
-      "num": 376144,
-      "word": "佟大为说刘诗诗的哭戏令人震撼",
-      "onboard_time": 1718719698,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 388254,
@@ -2595,6 +2619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 349685,
+      "num": 224034,
+      "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
+      "onboard_time": 1718716699,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345542,
       "num": 345542,
       "word": "以后骂人不能骂她是梅超风了",
@@ -2681,6 +2713,14 @@
       "onboard_time": 1718534417,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334670,
+      "num": 334670,
+      "word": "丝芭曾为鞠婧祎定制四部剧",
+      "onboard_time": 1718721020,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 334492,
@@ -2937,14 +2977,6 @@
       "onboard_time": 1718463259,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 301143,
-      "num": 224034,
-      "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
-      "onboard_time": 1718716699,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300250,
@@ -3347,6 +3379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260563,
+      "num": 189084,
+      "word": "发现了掉秤最快的方法",
+      "onboard_time": 1718719459,
+      "rank": 23,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 259989,
       "num": 259989,
       "word": "狐妖现代番外",
@@ -3377,14 +3417,6 @@
       "onboard_time": 1718677576,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 257815,
-      "num": 257815,
-      "word": "性格内向的人看起来更显小",
-      "onboard_time": 1718719399,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 257430,
@@ -4859,6 +4891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183700,
+      "num": 156520,
+      "word": "奇塔迪尼破门",
+      "onboard_time": 1718720420,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183400,
       "num": 183400,
       "word": "以色列解散战时内阁",
@@ -5699,6 +5739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158120,
+      "num": 158120,
+      "word": "谁有姆巴佩的联系方式",
+      "onboard_time": 1718719339,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157949,
       "num": 157949,
       "word": "60岁正是耍帅的年纪",
@@ -6041,14 +6089,6 @@
       "onboard_time": 1718682197,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147921,
-      "num": 147921,
-      "word": "谁有姆巴佩的联系方式",
-      "onboard_time": 1718719339,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 147604,
@@ -7339,6 +7379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117867,
+      "num": 117867,
+      "word": "王星越化妆师",
+      "onboard_time": 1718718017,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117702,
       "num": 60499,
       "word": "本科毕业四年寝室的情感变化",
@@ -7353,14 +7401,6 @@
       "onboard_time": 1718592377,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 117202,
-      "num": 117202,
-      "word": "王星越化妆师",
-      "onboard_time": 1718718017,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 116176,
@@ -7643,6 +7683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 106884,
+      "num": 106884,
+      "word": "一汽丰田卡罗拉已不到8万",
+      "onboard_time": 1718715379,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106573,
       "num": 1143120,
       "word": "文化中国行听不腻的传统音乐",
@@ -7801,14 +7849,6 @@
       "onboard_time": 1718642296,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102395,
-      "num": 102395,
-      "word": "一汽丰田卡罗拉已不到8万",
-      "onboard_time": 1718715379,
-      "rank": 49,
-      "category": "汽车"
     },
     {
       "raw_hot": 102125,
@@ -8115,6 +8155,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 89014,
+      "num": 89014,
+      "word": "分分钟硬控外国人的中文梗",
+      "onboard_time": 1718718140,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88577,
       "num": 570313,
       "word": "这6个防暑降温误区要避开",
@@ -8409,6 +8457,14 @@
       "onboard_time": 1718584698,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71577,
+      "num": 408743,
+      "word": "斯坦福博士考乡镇公务员是大材小用吗",
+      "onboard_time": 1718720178,
+      "rank": 26,
+      "category": "社会议题"
     },
     {
       "raw_hot": 70884,
@@ -8993,14 +9049,6 @@
       "onboard_time": 1718681178,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38980,
-      "num": 199860,
-      "word": "斯坦福博士考乡镇公务员是大材小用吗",
-      "onboard_time": 1718720178,
-      "rank": 26,
-      "category": "社会议题"
     },
     {
       "raw_hot": 38686,
@@ -9667,7 +9715,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 9863,
+      "raw_hot": 9881,
       "num": 1165061,
       "word": "国之重器更是国之底气",
       "onboard_time": 1718669237,
