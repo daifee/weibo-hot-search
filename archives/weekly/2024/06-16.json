@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718738148996,
+  "endTime": 1718739343950,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -9547,6 +9547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29505,
+      "num": 27563,
+      "word": "C罗落幕首战会给葡萄牙带来什么表现",
+      "onboard_time": 1718736491,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29309,
       "num": 204250,
       "word": "167人多等29分钟却跑赢了生命接力",
@@ -9649,14 +9657,6 @@
       "onboard_time": 1718467338,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25429,
-      "num": 25429,
-      "word": "C罗落幕首战会给葡萄牙带来什么表现",
-      "onboard_time": 1718736491,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 25395,
@@ -9833,6 +9833,14 @@
       "onboard_time": 1718702958,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19055,
+      "num": 19055,
+      "word": "墨雨云间 胡萝卜套苦瓜",
+      "onboard_time": 1718738772,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 18329,

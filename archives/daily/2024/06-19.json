@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718738148996,
+  "endTime": 1718739343950,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -483,8 +483,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25429,
-      "num": 25429,
+      "raw_hot": 29505,
+      "num": 27563,
       "word": "C罗落幕首战会给葡萄牙带来什么表现",
       "onboard_time": 1718736491,
       "rank": 31,
@@ -505,6 +505,14 @@
       "onboard_time": 1718719581,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 19055,
+      "num": 19055,
+      "word": "墨雨云间 胡萝卜套苦瓜",
+      "onboard_time": 1718738772,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 15134,
