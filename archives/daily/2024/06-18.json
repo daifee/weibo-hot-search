@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718680945928,
+  "endTime": 1718681827049,
   "band_list": [
     {
       "raw_hot": 2037367,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1127930,
+      "num": 1127930,
+      "word": "杰伦布朗FMVP",
+      "onboard_time": 1718681117,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 986040,
       "num": 986040,
       "word": "医生提醒尽量不要生吃海鲜和肉",
@@ -59,8 +67,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 975413,
+      "num": 975413,
+      "word": "中国女游客被韩国酒店员工性侵",
+      "onboard_time": 1718680216,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 904300,
-      "num": 701081,
+      "num": 744938,
       "word": "林更新 你好像把脑子给颠坏了",
       "onboard_time": 1718675297,
       "rank": 5,
@@ -73,6 +89,14 @@
       "onboard_time": 1718669958,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 820028,
+      "num": 820028,
+      "word": "鞠婧祎 续约",
+      "onboard_time": 1718679558,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 805462,
@@ -99,20 +123,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 672100,
+      "num": 320384,
+      "word": "贾乃亮赚翻了背后MCN亏惨了",
+      "onboard_time": 1718678477,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 669167,
       "num": 669167,
       "word": "久坐久躺容易气血不足",
       "onboard_time": 1718667856,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 659182,
-      "num": 316331,
-      "word": "贾乃亮赚翻了背后MCN亏惨了",
-      "onboard_time": 1718678477,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 659153,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 598676,
-      "num": 316174,
+      "num": 318193,
       "word": "1周饿2天就能解决脂肪肝吗",
       "onboard_time": 1718674577,
       "rank": 33,
@@ -145,6 +169,14 @@
       "onboard_time": 1718670798,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 575957,
+      "num": 504984,
+      "word": "鞠婧祎不是女团了",
+      "onboard_time": 1718679497,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 574794,
@@ -163,28 +195,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 541146,
-      "num": 541146,
-      "word": "鞠婧祎 续约",
-      "onboard_time": 1718679558,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 531561,
       "num": 217176,
       "word": "17岁小伙体重207斤每天狂喝6升水",
       "onboard_time": 1718672417,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 521257,
-      "num": 458136,
-      "word": "鞠婧祎不是女团了",
-      "onboard_time": 1718679497,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 519781,
@@ -235,6 +251,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 424274,
+      "num": 424274,
+      "word": "苹果停止先买后付服务",
+      "onboard_time": 1718676737,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 414384,
       "num": 414384,
       "word": "被彭冠英这个笑刀到了",
@@ -275,12 +299,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 377281,
-      "num": 377281,
-      "word": "苹果停止先买后付服务",
-      "onboard_time": 1718676737,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 383438,
+      "num": 383438,
+      "word": "范闲庆帝骨子里的相似",
+      "onboard_time": 1718680098,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 363858,
+      "num": 363858,
+      "word": "食物语正式关服",
+      "onboard_time": 1718680278,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 362604,
@@ -315,20 +347,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 316622,
-      "num": 316622,
-      "word": "中国女游客被韩国酒店员工性侵",
-      "onboard_time": 1718680216,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 301582,
       "num": 301582,
       "word": "新加坡门将以为自己火不过两天",
       "onboard_time": 1718634559,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299988,
+      "num": 475537,
+      "word": "高考623分的脑瘫少年毕业了",
+      "onboard_time": 1718679136,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 290332,
@@ -371,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269861,
-      "num": 269861,
-      "word": "食物语正式关服",
-      "onboard_time": 1718680278,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 263354,
       "num": 263354,
       "word": "欧洲杯首个爆冷",
@@ -393,14 +417,6 @@
       "onboard_time": 1718637558,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259154,
-      "num": 259154,
-      "word": "范闲庆帝骨子里的相似",
-      "onboard_time": 1718680098,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 259072,
@@ -451,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 224171,
+      "num": 224171,
+      "word": "食物语手游",
+      "onboard_time": 1718681297,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222935,
       "num": 222935,
       "word": "独行侠vs凯尔特人",
@@ -489,6 +513,14 @@
       "onboard_time": 1718676796,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191919,
+      "num": 191919,
+      "word": "鞠婧祎丝芭传媒合约公告",
+      "onboard_time": 1718681717,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 191382,
@@ -537,6 +569,14 @@
       "onboard_time": 1718639778,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179266,
+      "num": 179266,
+      "word": "新能源汽车人才缺口103万",
+      "onboard_time": 1718680999,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 178479,
@@ -627,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154162,
+      "num": 154162,
+      "word": "gala拒绝谈tarzan表现",
+      "onboard_time": 1718680637,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152434,
       "num": 152434,
       "word": "村民拔萝卜式拉车好可爱",
@@ -649,14 +697,6 @@
       "onboard_time": 1718622018,
       "rank": 25,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 149916,
-      "num": 475537,
-      "word": "高考623分的脑瘫少年毕业了",
-      "onboard_time": 1718679136,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 149707,
@@ -697,14 +737,6 @@
       "onboard_time": 1718680216,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133776,
-      "num": 133776,
-      "word": "gala拒绝谈tarzan表现",
-      "onboard_time": 1718680637,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 133630,
@@ -883,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107497,
+      "num": 107497,
+      "word": "肃国公被钓成翘嘴了",
+      "onboard_time": 1718681657,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107388,
       "num": 107388,
       "word": "罗马尼亚3比0乌克兰",
@@ -961,6 +1001,14 @@
       "onboard_time": 1718639598,
       "rank": 34,
       "category": "电影,时尚"
+    },
+    {
+      "raw_hot": 101727,
+      "num": 101727,
+      "word": "夸夸小精灵 我和谁最配",
+      "onboard_time": 1718681598,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 101330,
@@ -1187,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39155,
+      "num": 514118,
+      "word": "焦大银等4人拟被认定见义勇为",
+      "onboard_time": 1718681178,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38686,
       "num": 56261,
       "word": "金庸武侠世界",
@@ -1225,6 +1281,14 @@
       "onboard_time": 1718657170,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 31063,
+      "num": 198804,
+      "word": "巴西航天局将俄罗斯女航天员描绘成黑人",
+      "onboard_time": 1718681117,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30563,

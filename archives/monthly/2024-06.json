@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718680945928,
+  "endTime": 1718681827049,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2603,6 +2603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1127930,
+      "num": 1127930,
+      "word": "杰伦布朗FMVP",
+      "onboard_time": 1718681117,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1126585,
       "num": 1126585,
       "word": "韩国小学生连扇副校长5个耳光",
@@ -3307,6 +3315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 975413,
+      "num": 975413,
+      "word": "中国女游客被韩国酒店员工性侵",
+      "onboard_time": 1718680216,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 973431,
       "num": 708468,
       "word": "老师回应姜萍竞赛名次比自己高",
@@ -3788,7 +3804,7 @@
     },
     {
       "raw_hot": 904300,
-      "num": 701081,
+      "num": 744938,
       "word": "林更新 你好像把脑子给颠坏了",
       "onboard_time": 1718675297,
       "rank": 5,
@@ -4361,6 +4377,14 @@
       "onboard_time": 1717660638,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 820028,
+      "num": 820028,
+      "word": "鞠婧祎 续约",
+      "onboard_time": 1718679558,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 819003,
@@ -6195,6 +6219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 672100,
+      "num": 320384,
+      "word": "贾乃亮赚翻了背后MCN亏惨了",
+      "onboard_time": 1718678477,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 672083,
       "num": 209190,
       "word": "恋爱两年不到男朋友给我花了十万",
@@ -6409,14 +6441,6 @@
       "onboard_time": 1718023037,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 659182,
-      "num": 316331,
-      "word": "贾乃亮赚翻了背后MCN亏惨了",
-      "onboard_time": 1718678477,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 659087,
@@ -7340,7 +7364,7 @@
     },
     {
       "raw_hot": 598676,
-      "num": 316174,
+      "num": 318193,
       "word": "1周饿2天就能解决脂肪肝吗",
       "onboard_time": 1718674577,
       "rank": 33,
@@ -7792,6 +7816,14 @@
       "word": "刘亦菲杨幂早期互相撑伞照",
       "onboard_time": 1717658118,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 575957,
+      "num": 504984,
+      "word": "鞠婧祎不是女团了",
+      "onboard_time": 1718679497,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -8483,14 +8515,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 541146,
-      "num": 541146,
-      "word": "鞠婧祎 续约",
-      "onboard_time": 1718679558,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 540994,
       "num": 540994,
       "word": "TFBOYS发文为王俊凯新片打call",
@@ -9009,14 +9033,6 @@
       "onboard_time": 1717377858,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 521257,
-      "num": 458136,
-      "word": "鞠婧祎不是女团了",
-      "onboard_time": 1718679497,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 521135,
@@ -11771,6 +11787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 424274,
+      "num": 424274,
+      "word": "苹果停止先买后付服务",
+      "onboard_time": 1718676737,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 424192,
       "num": 402125,
       "word": "你好星期六下期有胡歌高圆圆",
@@ -13179,6 +13203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 383438,
+      "num": 383438,
+      "word": "范闲庆帝骨子里的相似",
+      "onboard_time": 1718680098,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383189,
       "num": 383189,
       "word": "刘亦菲来我家附近我却在睡觉",
@@ -13353,14 +13385,6 @@
       "onboard_time": 1717811596,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 377281,
-      "num": 377281,
-      "word": "苹果停止先买后付服务",
-      "onboard_time": 1718676737,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 377189,
@@ -13873,6 +13897,14 @@
       "onboard_time": 1718636237,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 363858,
+      "num": 363858,
+      "word": "食物语正式关服",
+      "onboard_time": 1718680278,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 363236,
@@ -15939,14 +15971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 316622,
-      "num": 316622,
-      "word": "中国女游客被韩国酒店员工性侵",
-      "onboard_time": 1718680216,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 316553,
       "num": 387798,
       "word": "Gala 幽梦",
@@ -16633,6 +16657,14 @@
       "onboard_time": 1717561459,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299988,
+      "num": 475537,
+      "word": "高考623分的脑瘫少年毕业了",
+      "onboard_time": 1718679136,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 299914,
@@ -18483,14 +18515,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 269861,
-      "num": 269861,
-      "word": "食物语正式关服",
-      "onboard_time": 1718680278,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 269651,
       "num": 248607,
       "word": "第一次去男友家他妈妈全点的外卖",
@@ -19056,14 +19080,6 @@
       "word": "刘亦菲能去浪姐吗",
       "onboard_time": 1718190379,
       "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 259154,
-      "num": 259154,
-      "word": "范闲庆帝骨子里的相似",
-      "onboard_time": 1718680098,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -21513,6 +21529,14 @@
       "onboard_time": 1718416758,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224171,
+      "num": 224171,
+      "word": "食物语手游",
+      "onboard_time": 1718681297,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 223981,
@@ -26211,6 +26235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191919,
+      "num": 191919,
+      "word": "鞠婧祎丝芭传媒合约公告",
+      "onboard_time": 1718681717,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191916,
       "num": 191916,
       "word": "iPad计算器",
@@ -28273,6 +28305,14 @@
       "onboard_time": 1717861217,
       "rank": 18,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 179266,
+      "num": 179266,
+      "word": "新能源汽车人才缺口103万",
+      "onboard_time": 1718680999,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 179242,
@@ -32875,6 +32915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154162,
+      "num": 154162,
+      "word": "gala拒绝谈tarzan表现",
+      "onboard_time": 1718680637,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154148,
       "num": 154148,
       "word": "男生冲出考场嘶吼要拿回自由",
@@ -33753,14 +33801,6 @@
       "onboard_time": 1718426479,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149916,
-      "num": 475537,
-      "word": "高考623分的脑瘫少年毕业了",
-      "onboard_time": 1718679136,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 149892,
@@ -36873,14 +36913,6 @@
       "onboard_time": 1718680216,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133776,
-      "num": 133776,
-      "word": "gala拒绝谈tarzan表现",
-      "onboard_time": 1718680637,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 133733,
@@ -42323,6 +42355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107497,
+      "num": 107497,
+      "word": "肃国公被钓成翘嘴了",
+      "onboard_time": 1718681657,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107398,
       "num": 518471,
       "word": "高考考场外的默契瞬间",
@@ -43201,6 +43241,14 @@
       "onboard_time": 1717844238,
       "rank": 46,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 101727,
+      "num": 101727,
+      "word": "夸夸小精灵 我和谁最配",
+      "onboard_time": 1718681598,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 101686,
@@ -48875,6 +48923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39155,
+      "num": 514118,
+      "word": "焦大银等4人拟被认定见义勇为",
+      "onboard_time": 1718681178,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39126,
       "num": 326972,
       "word": "妈妈拉横幅说高考完可以谈恋爱了",
@@ -49681,6 +49737,14 @@
       "onboard_time": 1717415658,
       "rank": 17,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 31063,
+      "num": 198804,
+      "word": "巴西航天局将俄罗斯女航天员描绘成黑人",
+      "onboard_time": 1718681117,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31014,
