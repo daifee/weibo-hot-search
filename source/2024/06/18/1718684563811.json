@@ -1,0 +1,410 @@
+{
+  "runTime": 1718684563811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2024372,
+        "num": 2024372,
+        "word": "林更新评论区 骂骂咧咧来支支吾吾走",
+        "onboard_time": 1718677036,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1595084,
+        "num": 1595084,
+        "word": "中国女游客被韩国酒店员工性侵",
+        "onboard_time": 1718680216,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31581,
+        "num": 1050333,
+        "word": "看似撞脸实则不同的专业",
+        "onboard_time": 1718676917,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953577,
+        "num": 953577,
+        "word": "杨紫将担任巴黎奥运火炬手",
+        "onboard_time": 1718681838,
+        "rank": 3,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 626506,
+        "num": 626506,
+        "word": "福宝是第一个把笋笋剥净了吃的",
+        "onboard_time": 1718676977,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600006,
+        "num": 600006,
+        "word": "杰伦布朗FMVP",
+        "onboard_time": 1718681117,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 890698,
+        "num": 596827,
+        "word": "鞠婧祎 续约",
+        "onboard_time": 1718679558,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578566,
+        "num": 578566,
+        "word": "林更新 你好像把脑子给颠坏了",
+        "onboard_time": 1718675297,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 462008,
+        "num": 462008,
+        "word": "斯坦福大学博士拟被录用乡镇公务员",
+        "onboard_time": 1718670437,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99555,
+        "num": 451969,
+        "word": "大学生毕业租房踩过多少雷",
+        "onboard_time": 1718683218,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562964,
+        "num": 451503,
+        "word": "米卡 黄亦玫的第五个男生",
+        "onboard_time": 1718683579,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 444086,
+        "num": 444086,
+        "word": "假唱",
+        "onboard_time": 1718667976,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 516153,
+        "num": 436735,
+        "word": "林更新演技",
+        "onboard_time": 1718628257,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412756,
+        "num": 412756,
+        "word": "鞠婧祎不是女团了",
+        "onboard_time": 1718679497,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344922,
+        "num": 344922,
+        "word": "150人在缅北冒充军人搞诈骗被抓",
+        "onboard_time": 1718682438,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41838,
+        "num": 325897,
+        "word": "今年618还是在天猫省最多",
+        "onboard_time": 1718683459,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324992,
+        "num": 324992,
+        "word": "花怜 国宴",
+        "onboard_time": 1718683338,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 295431,
+        "num": 295431,
+        "word": "凯尔特人总冠军",
+        "onboard_time": 1718679858,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21470,
+        "num": 249787,
+        "word": "教育部首次上线高考志愿信息系统",
+        "onboard_time": 1718618298,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249480,
+        "num": 249480,
+        "word": "食物语正式关服",
+        "onboard_time": 1718680278,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 507244,
+        "num": 248965,
+        "word": "贾乃亮赚翻了背后MCN亏惨了",
+        "onboard_time": 1718678477,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461189,
+        "num": 248737,
+        "word": "新加坡门将向中国游客道歉",
+        "onboard_time": 1718682498,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307857,
+        "num": 247970,
+        "word": "范闲庆帝骨子里的相似",
+        "onboard_time": 1718680098,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251066,
+        "num": 247663,
+        "word": "佟大为觉得庄国栋更适合黄亦玫",
+        "onboard_time": 1718683759,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247401,
+        "num": 247401,
+        "word": "反季羽绒服不到百元值得买吗",
+        "onboard_time": 1718677458,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 235305,
+        "num": 235305,
+        "word": "鞠婧祎发两个问号",
+        "onboard_time": 1718683338,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229837,
+        "num": 229837,
+        "word": "人人都爱玫瑰其实是假象",
+        "onboard_time": 1718669958,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217266,
+        "num": 217266,
+        "word": "张杰唱歌前没有话筒的反应",
+        "onboard_time": 1718675658,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212634,
+        "num": 212634,
+        "word": "高考623分的脑瘫少年毕业了",
+        "onboard_time": 1718679136,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 23915,
+        "num": 208980,
+        "word": "阿联酋官员鞭打印度司机",
+        "onboard_time": 1718684179,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48918,
+        "num": 208066,
+        "word": "京东周年庆生日免单",
+        "onboard_time": 1718683579,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 233663,
+        "num": 207826,
+        "word": "黄亦玫孕期看到爸妈的反应",
+        "onboard_time": 1718684240,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207571,
+        "num": 207571,
+        "word": "1周饿2天就能解决脂肪肝吗",
+        "onboard_time": 1718674577,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198502,
+        "num": 198502,
+        "word": "欧文命中率",
+        "onboard_time": 1718679377,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197838,
+        "num": 197838,
+        "word": "17岁小伙体重207斤每天狂喝6升水",
+        "onboard_time": 1718672417,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191093,
+        "num": 191093,
+        "word": "张艺兴传说主题曲MV",
+        "onboard_time": 1718683698,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165193,
+        "num": 165193,
+        "word": "电影倒仓定档",
+        "onboard_time": 1718682438,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161621,
+        "num": 161621,
+        "word": "朱一龙有潜水证",
+        "onboard_time": 1718684298,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160285,
+        "num": 160285,
+        "word": "桑尼推荐新加坡美食",
+        "onboard_time": 1718684480,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148258,
+        "num": 148258,
+        "word": "苹果停止先买后付服务",
+        "onboard_time": 1718676737,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148089,
+        "num": 148089,
+        "word": "许嵩青岛抢票",
+        "onboard_time": 1718682197,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146578,
+        "num": 146578,
+        "word": "玫瑰向方协文提出离婚",
+        "onboard_time": 1718672778,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145389,
+        "num": 145389,
+        "word": "张杰唱日语歌",
+        "onboard_time": 1718684000,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143810,
+        "num": 143810,
+        "word": "新能源汽车人才缺口103万",
+        "onboard_time": 1718680999,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143089,
+        "num": 143089,
+        "word": "医生提醒尽量不要生吃海鲜和肉",
+        "onboard_time": 1718643434,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142622,
+        "num": 142622,
+        "word": "iPhone16Pro或加大不加厚",
+        "onboard_time": 1718673198,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137334,
+        "num": 137334,
+        "word": "东契奇赛后采访",
+        "onboard_time": 1718683279,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133155,
+        "num": 133155,
+        "word": "男子用AI伪造学生同事近7000张裸照",
+        "onboard_time": 1718667676,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130778,
+        "num": 130778,
+        "word": "王星越买不断根本买不断",
+        "onboard_time": 1718684539,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129454,
+        "num": 129454,
+        "word": "巴西航天局将俄罗斯女航天员描绘成黑人",
+        "onboard_time": 1718681117,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为同心共圆中国梦广泛凝心聚力#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718681827049,
+  "endTime": 1718684563811,
   "band_list": [
     {
       "raw_hot": 2037367,
@@ -9,6 +9,14 @@
       "onboard_time": 1718677036,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1595084,
+      "num": 1595084,
+      "word": "中国女游客被韩国酒店员工性侵",
+      "onboard_time": 1718680216,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1379955,
@@ -67,12 +75,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 975413,
-      "num": 975413,
-      "word": "中国女游客被韩国酒店员工性侵",
-      "onboard_time": 1718680216,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 953577,
+      "num": 953577,
+      "word": "杨紫将担任巴黎奥运火炬手",
+      "onboard_time": 1718681838,
+      "rank": 3,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 904300,
@@ -91,7 +99,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 820028,
+      "raw_hot": 890698,
       "num": 820028,
       "word": "鞠婧祎 续约",
       "onboard_time": 1718679558,
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 562964,
+      "num": 451503,
+      "word": "米卡 黄亦玫的第五个男生",
+      "onboard_time": 1718683579,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531561,
       "num": 217176,
       "word": "17岁小伙体重207斤每天狂喝6升水",
@@ -241,6 +257,14 @@
       "onboard_time": 1718667615,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 461189,
+      "num": 248737,
+      "word": "新加坡门将向中国游客道歉",
+      "onboard_time": 1718682498,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 459396,
@@ -331,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344922,
+      "num": 344922,
+      "word": "150人在缅北冒充军人搞诈骗被抓",
+      "onboard_time": 1718682438,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342393,
       "num": 304024,
       "word": "知情人称遇难8人非首次坐冷藏车",
@@ -345,6 +377,14 @@
       "onboard_time": 1718634619,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 324992,
+      "num": 324992,
+      "word": "花怜 国宴",
+      "onboard_time": 1718683338,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 301582,
@@ -451,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 251066,
+      "num": 247663,
+      "word": "佟大为觉得庄国栋更适合黄亦玫",
+      "onboard_time": 1718683759,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247783,
       "num": 247783,
       "word": "苏敏 离婚",
@@ -459,12 +507,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 235305,
+      "num": 235305,
+      "word": "鞠婧祎发两个问号",
+      "onboard_time": 1718683338,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235098,
       "num": 235098,
       "word": "曾经的到大陆发展变成了回家上班",
       "onboard_time": 1718667736,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 233663,
+      "num": 207826,
+      "word": "黄亦玫孕期看到爸妈的反应",
+      "onboard_time": 1718684240,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 224171,
@@ -537,6 +601,14 @@
       "onboard_time": 1718680337,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191093,
+      "num": 191093,
+      "word": "张艺兴传说主题曲MV",
+      "onboard_time": 1718683698,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 190783,
@@ -643,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165193,
+      "num": 165193,
+      "word": "电影倒仓定档",
+      "onboard_time": 1718682438,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163779,
       "num": 163779,
       "word": "姆巴佩向网友征集面具",
@@ -651,12 +731,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161621,
+      "num": 161621,
+      "word": "朱一龙有潜水证",
+      "onboard_time": 1718684298,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "广东梅州暴雨致5死15失联",
       "onboard_time": 1718630118,
       "rank": 19,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 160285,
+      "num": 160285,
+      "word": "桑尼推荐新加坡美食",
+      "onboard_time": 1718684480,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 158319,
@@ -707,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148089,
+      "num": 148089,
+      "word": "许嵩青岛抢票",
+      "onboard_time": 1718682197,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 146165,
       "num": 146165,
       "word": "美国每周往巴拿马扔1500万只苍蝇",
@@ -715,12 +819,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145389,
+      "num": 145389,
+      "word": "张杰唱日语歌",
+      "onboard_time": 1718684000,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142330,
       "num": 142330,
       "word": "云南一女子吃野生菌看到机器人小偷",
       "onboard_time": 1718635160,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137334,
+      "num": 137334,
+      "word": "东契奇赛后采访",
+      "onboard_time": 1718683279,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 136052,
@@ -771,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130778,
+      "num": 130778,
+      "word": "王星越买不断根本买不断",
+      "onboard_time": 1718684539,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130117,
       "num": 130117,
       "word": "网友写的薛芳菲萧蘅婚后日常",
@@ -785,6 +913,14 @@
       "onboard_time": 1718632819,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129454,
+      "num": 198804,
+      "word": "巴西航天局将俄罗斯女航天员描绘成黑人",
+      "onboard_time": 1718681117,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127966,
@@ -828,7 +964,7 @@
     },
     {
       "raw_hot": 123409,
-      "num": 123409,
+      "num": 1050333,
       "word": "看似撞脸实则不同的专业",
       "onboard_time": 1718676917,
       "rank": 36,
@@ -1025,6 +1161,14 @@
       "onboard_time": 1718630237,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99555,
+      "num": 451969,
+      "word": "大学生毕业租房踩过多少雷",
+      "onboard_time": 1718683218,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98953,
@@ -1227,12 +1371,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48918,
+      "num": 208066,
+      "word": "京东周年庆生日免单",
+      "onboard_time": 1718683579,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 48111,
       "num": 48111,
       "word": "法国队连续6届大赛开门红",
       "onboard_time": 1718667256,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41838,
+      "num": 325897,
+      "word": "今年618还是在天猫省最多",
+      "onboard_time": 1718683459,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 39155,
@@ -1281,14 +1441,6 @@
       "onboard_time": 1718657170,
       "rank": 23,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 31063,
-      "num": 198804,
-      "word": "巴西航天局将俄罗斯女航天员描绘成黑人",
-      "onboard_time": 1718681117,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30563,
@@ -1345,6 +1497,14 @@
       "onboard_time": 1718647753,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23915,
+      "num": 208980,
+      "word": "阿联酋官员鞭打印度司机",
+      "onboard_time": 1718684179,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23418,
@@ -1417,6 +1577,9 @@
     },
     {
       "word": "#习近平致信祝贺黄埔军校建校100周年#"
+    },
+    {
+      "word": "#为同心共圆中国梦广泛凝心聚力#"
     }
   ]
 }
