@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718721347615,
+  "endTime": 1718724062362,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -249,6 +249,14 @@
       "onboard_time": 1718679858,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1327152,
+      "num": 408543,
+      "word": "罗小黑 作者",
+      "onboard_time": 1718720359,
+      "rank": 10,
+      "category": "动漫"
     },
     {
       "raw_hot": 1317744,
@@ -915,20 +923,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 731970,
-      "num": 408543,
-      "word": "罗小黑 作者",
-      "onboard_time": 1718720359,
-      "rank": 10,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 730757,
       "num": 724396,
       "word": "体检发现多了一个器官",
       "onboard_time": 1718692878,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 727446,
+      "num": 564989,
+      "word": "庄国栋带孩子",
+      "onboard_time": 1718720300,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 720653,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 688332,
-      "num": 239846,
+      "num": 289052,
       "word": "存了8万后变成了病态省钱",
       "onboard_time": 1718710996,
       "rank": 20,
@@ -1121,6 +1129,14 @@
       "onboard_time": 1718598618,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 635712,
+      "num": 635712,
+      "word": "性格内向的人看起来更显小",
+      "onboard_time": 1718719399,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 635353,
@@ -1355,14 +1371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 564989,
-      "num": 564989,
-      "word": "庄国栋带孩子",
-      "onboard_time": 1718720300,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 564314,
       "num": 438473,
       "word": "BLACKPINK成员各自的公司",
@@ -1545,6 +1553,14 @@
       "onboard_time": 1718672417,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 528121,
+      "num": 323952,
+      "word": "开始推理吧 何炅",
+      "onboard_time": 1718721559,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 527077,
@@ -1891,14 +1907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 458366,
-      "num": 458366,
-      "word": "性格内向的人看起来更显小",
-      "onboard_time": 1718719399,
-      "rank": 19,
-      "category": "情感"
-    },
-    {
       "raw_hot": 455600,
       "num": 381727,
       "word": "李宇春 面条裙",
@@ -1961,6 +1969,14 @@
       "onboard_time": 1718528657,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 445064,
+      "num": 334670,
+      "word": "丝芭曾为鞠婧祎定制四部剧",
+      "onboard_time": 1718721020,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 440565,
@@ -2523,6 +2539,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 359338,
+      "num": 314403,
+      "word": "做得好啊任天堂",
+      "onboard_time": 1718722219,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 358059,
       "num": 358059,
       "word": "俄客机在北极紧急迫降断成两截",
@@ -2620,11 +2644,19 @@
     },
     {
       "raw_hot": 349685,
-      "num": 224034,
+      "num": 286084,
       "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
       "onboard_time": 1718716699,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347707,
+      "num": 312185,
+      "word": "荣梓杉想演张若昀赵丽颖的儿子",
+      "onboard_time": 1718721500,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 345542,
@@ -2707,20 +2739,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335127,
+      "num": 307685,
+      "word": "南拳妈妈内斗",
+      "onboard_time": 1718723240,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335105,
       "num": 283946,
       "word": "十个勤天短袖",
       "onboard_time": 1718534417,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334670,
-      "num": 334670,
-      "word": "丝芭曾为鞠婧祎定制四部剧",
-      "onboard_time": 1718721020,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 334492,
@@ -2955,6 +2987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 306031,
+      "num": 306031,
+      "word": "塞尔达新作",
+      "onboard_time": 1718722219,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 305868,
       "num": 211477,
       "word": "一中国公民在印度被扣押期间死亡",
@@ -3001,6 +3041,14 @@
       "onboard_time": 1718597178,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 298231,
+      "num": 298231,
+      "word": "翻白眼两周后视力恢复正常状态",
+      "onboard_time": 1718722278,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 297753,
@@ -3153,6 +3201,14 @@
       "onboard_time": 1718705777,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284574,
+      "num": 284574,
+      "word": "发现了掉秤最快的方法",
+      "onboard_time": 1718719459,
+      "rank": 23,
+      "category": "运动健身"
     },
     {
       "raw_hot": 283702,
@@ -3379,12 +3435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 260563,
-      "num": 189084,
-      "word": "发现了掉秤最快的方法",
-      "onboard_time": 1718719459,
-      "rank": 23,
-      "category": "运动健身"
+      "raw_hot": 261321,
+      "num": 198000,
+      "word": "渺念萤草典藏皮肤",
+      "onboard_time": 1718723480,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 259989,
@@ -3899,6 +3955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 217920,
+      "num": 217920,
+      "word": "王传君想看易烊千玺王一博演杀手",
+      "onboard_time": 1718721980,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216941,
       "num": 172271,
       "word": "怎么让一个成年人九点半就睡觉",
@@ -4339,6 +4403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198584,
+      "num": 198584,
+      "word": "胡歌 我可能是第一个被告",
+      "onboard_time": 1718722940,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198500,
       "num": 198500,
       "word": "林俊杰贵阳",
@@ -4385,6 +4457,14 @@
       "onboard_time": 1718525956,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197871,
+      "num": 197871,
+      "word": "跳跳俏俏对张杰谢娜签名照的区别",
+      "onboard_time": 1718723779,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 197831,
@@ -6891,6 +6971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128439,
+      "num": 408743,
+      "word": "斯坦福博士考乡镇公务员是大材小用吗",
+      "onboard_time": 1718720178,
+      "rank": 26,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 128235,
       "num": 128235,
       "word": "会长是女仆大人 双强情侣",
@@ -7001,6 +7089,14 @@
       "onboard_time": 1718695578,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127026,
+      "num": 127026,
+      "word": "带男朋友回家后发现家人很冷漠",
+      "onboard_time": 1718723660,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 126524,
@@ -7121,6 +7217,14 @@
       "onboard_time": 1718533937,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124287,
+      "num": 124287,
+      "word": "冷藏车事故遇难者儿子发声",
+      "onboard_time": 1718723897,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124044,
@@ -7347,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118437,
+      "num": 118437,
+      "word": "读书依旧是对抗焦虑最好的方式",
+      "onboard_time": 1718723600,
+      "rank": 40,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 118144,
       "num": 118144,
       "word": "白客你戴着老花镜问黄轩什么",
@@ -7531,6 +7643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111350,
+      "num": 111350,
+      "word": "逆水寒",
+      "onboard_time": 1718721739,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110935,
       "num": 110935,
       "word": "火锅 舌头变黑",
@@ -7641,6 +7761,14 @@
       "onboard_time": 1718674757,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108543,
+      "num": 108543,
+      "word": "晨起七忌会偷走你的寿命",
+      "onboard_time": 1718722460,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108492,
@@ -8001,6 +8129,14 @@
       "onboard_time": 1718444420,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96730,
+      "num": 96730,
+      "word": "6个方法培养秒睡技能",
+      "onboard_time": 1718723119,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96681,
@@ -8459,14 +8595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 71577,
-      "num": 408743,
-      "word": "斯坦福博士考乡镇公务员是大材小用吗",
-      "onboard_time": 1718720178,
-      "rank": 26,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 70884,
       "num": 68800,
       "word": "水象星座真的是恋爱脑吗",
@@ -8545,6 +8673,14 @@
       "onboard_time": 1718579475,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65324,
+      "num": 329784,
+      "word": "没有水果可以逃过医学生的手和嘴",
+      "onboard_time": 1718722819,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64883,
