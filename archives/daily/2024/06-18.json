@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718699097957,
+  "endTime": 1718699876568,
   "band_list": [
     {
       "raw_hot": 2128409,
@@ -91,19 +91,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1113912,
+      "num": 1113912,
+      "word": "于正 我承认我错了",
+      "onboard_time": 1718696418,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1080377,
       "num": 1080377,
       "word": "米卡 黄亦玫的第五个男生",
       "onboard_time": 1718683579,
       "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1052383,
-      "num": 1052383,
-      "word": "于正 我承认我错了",
-      "onboard_time": 1718696418,
-      "rank": 0,
       "category": "剧集"
     },
     {
@@ -235,6 +235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608962,
+      "num": 330870,
+      "word": "腋下管理",
+      "onboard_time": 1718695158,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 608850,
       "num": 608850,
       "word": "北京男子或将错失10万元大奖",
@@ -283,14 +291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 575759,
-      "num": 330870,
-      "word": "腋下管理",
-      "onboard_time": 1718695158,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 574794,
       "num": 574794,
       "word": "男子用AI伪造学生同事近7000张裸照",
@@ -315,6 +315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 566047,
+      "num": 566047,
+      "word": "周深曾说等了张杰8年",
+      "onboard_time": 1718697619,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564314,
       "num": 438473,
       "word": "BLACKPINK成员各自的公司",
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 544921,
-      "num": 323405,
+      "num": 474551,
       "word": "北约威胁中国若再援俄或付出经济代价",
       "onboard_time": 1718694138,
       "rank": 18,
@@ -353,6 +361,14 @@
       "onboard_time": 1718672417,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521201,
+      "num": 216788,
+      "word": "晨尿发黄是肾有问题吗",
+      "onboard_time": 1718697677,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 519781,
@@ -395,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484300,
+      "num": 312201,
+      "word": "林更新提到刘亦菲连说三个美",
+      "onboard_time": 1718698218,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483223,
       "num": 483223,
       "word": "B站第200亿条弹幕是哈哈哈哈哈",
@@ -435,28 +459,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 460988,
-      "num": 422668,
-      "word": "周深曾说等了张杰8年",
-      "onboard_time": 1718697619,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 459396,
       "num": 459396,
       "word": "教育部提醒切勿轻信高价志愿填报指导",
       "onboard_time": 1718672479,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 446242,
-      "num": 312201,
-      "word": "林更新提到刘亦菲连说三个美",
-      "onboard_time": 1718698218,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 442626,
@@ -585,14 +593,6 @@
       "onboard_time": 1718683878,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 352180,
-      "num": 216788,
-      "word": "晨尿发黄是肾有问题吗",
-      "onboard_time": 1718697677,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 344922,
@@ -803,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247878,
+      "num": 247878,
+      "word": "牛津数学女博士评姜萍",
+      "onboard_time": 1718695039,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247783,
       "num": 247783,
       "word": "苏敏 离婚",
@@ -827,14 +835,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 233418,
-      "num": 233418,
-      "word": "牛津数学女博士评姜萍",
-      "onboard_time": 1718695039,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 230891,
       "num": 198857,
       "word": "txt票价",
@@ -857,6 +857,14 @@
       "onboard_time": 1718694619,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225749,
+      "num": 207459,
+      "word": "研一差点被导师移出师门群",
+      "onboard_time": 1718697498,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 224171,
@@ -905,14 +913,6 @@
       "onboard_time": 1718637258,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 207459,
-      "num": 207459,
-      "word": "研一差点被导师移出师门群",
-      "onboard_time": 1718697498,
-      "rank": 25,
-      "category": "幽默"
     },
     {
       "raw_hot": 206374,
@@ -1275,6 +1275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153823,
+      "num": 153823,
+      "word": "刺痛出门18天发现空调没关",
+      "onboard_time": 1718699118,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153373,
       "num": 447959,
       "word": "捐出1500万元说要报恩的老人走了",
@@ -1427,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139412,
+      "num": 139412,
+      "word": "终于知道为什么工作党考研上岸率高了",
+      "onboard_time": 1718698159,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138756,
       "num": 138756,
       "word": "世界之外",
@@ -1523,8 +1539,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129656,
-      "num": 129656,
+      "raw_hot": 129872,
+      "num": 129872,
       "word": "李奕臻给鞠婧祎发声",
       "onboard_time": 1718697619,
       "rank": 39,
@@ -1545,14 +1561,6 @@
       "onboard_time": 1718693779,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128573,
-      "num": 128573,
-      "word": "终于知道为什么工作党考研上岸率高了",
-      "onboard_time": 1718698159,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 128569,
@@ -1667,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119440,
+      "num": 119440,
+      "word": "未写在书本上的女性冷知识",
+      "onboard_time": 1718698879,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113130,
       "num": 113130,
       "word": "发现个大学生拿快递的小妙招",
@@ -1777,14 +1793,6 @@
       "onboard_time": 1718666535,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 103738,
-      "num": 103738,
-      "word": "未写在书本上的女性冷知识",
-      "onboard_time": 1718698879,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 102721,
@@ -2067,6 +2075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57196,
+      "num": 337592,
+      "word": "小姑娘失手摔烂西瓜诚实告知老板",
+      "onboard_time": 1718698458,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54715,
       "num": 1213302,
       "word": "教育部首次上线高考志愿信息系统",
@@ -2083,20 +2099,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44791,
-      "num": 334626,
-      "word": "小姑娘失手摔烂西瓜诚实告知老板",
-      "onboard_time": 1718698458,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41838,
       "num": 359433,
       "word": "今年618还是在天猫省最多",
       "onboard_time": 1718683459,
       "rank": 15,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 39416,
+      "num": 165470,
+      "word": "专家称日本食人菌有传染到国内的风险",
+      "onboard_time": 1718699778,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39155,
@@ -2248,6 +2264,14 @@
       "word": "一份班主任准备了6年的礼物",
       "onboard_time": 1718643015,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16899,
+      "num": 570313,
+      "word": "这6个防暑降温误区要避开",
+      "onboard_time": 1718699658,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
