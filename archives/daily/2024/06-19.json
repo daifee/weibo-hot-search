@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718742873712,
+  "endTime": 1718745488854,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171940,
+      "num": 171940,
+      "word": "C罗比赛",
+      "onboard_time": 1718716579,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165680,
       "num": 185153,
       "word": "土耳其vs格鲁吉亚",
@@ -217,14 +225,6 @@
       "onboard_time": 1718716699,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119535,
-      "num": 161808,
-      "word": "C罗比赛",
-      "onboard_time": 1718716579,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 119024,
@@ -339,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77430,
+      "num": 77430,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 77283,
       "num": 77283,
       "word": "周深新专下篇先行曲嗨",
@@ -411,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57054,
-      "num": 57054,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 53453,
       "num": 66754,
       "word": "玫瑰的故事预告",
@@ -483,6 +483,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 34418,
+      "num": 34418,
+      "word": "墨雨云间 胡萝卜套苦瓜",
+      "onboard_time": 1718738772,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34092,
       "num": 34092,
       "word": "于正 我承认我错了",
@@ -491,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31826,
+      "raw_hot": 32803,
       "num": 27563,
       "word": "C罗落幕首战会给葡萄牙带来什么表现",
       "onboard_time": 1718736491,
@@ -499,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25708,
-      "num": 25708,
-      "word": "墨雨云间 胡萝卜套苦瓜",
-      "onboard_time": 1718738772,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 24851,
+      "num": 24851,
+      "word": "姆巴佩无缘对阵荷兰",
+      "onboard_time": 1718740811,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 23509,
@@ -512,6 +520,14 @@
       "word": "税务部门没有倒查20年30年的安排",
       "onboard_time": 1718705837,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23258,
+      "num": 23258,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -523,11 +539,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 17044,
-      "num": 17044,
-      "word": "姆巴佩无缘对阵荷兰",
-      "onboard_time": 1718740811,
-      "rank": 37,
+      "raw_hot": 16830,
+      "num": 16830,
+      "word": "菲称对非法坐滩军舰补给失败",
+      "onboard_time": 1718742730,
+      "rank": 47,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 15511,
+      "num": 15511,
+      "word": "欧洲杯",
+      "onboard_time": 1718630237,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -539,28 +563,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14671,
+      "raw_hot": 14826,
       "num": 16475,
       "word": "你平时喝瑞幸吗",
       "onboard_time": 1718740570,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 12691,
-      "num": 15043,
-      "word": "菲称对非法坐滩军舰补给失败",
-      "onboard_time": 1718742730,
-      "rank": 47,
-      "category": "国外时政"
-    },
-    {
-      "raw_hot": 12522,
-      "num": 15043,
-      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
-      "onboard_time": 1718742671,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10768,
