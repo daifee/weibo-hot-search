@@ -1,6 +1,6 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718692009552,
+  "endTime": 1718692770292,
   "band_list": [
     {
       "raw_hot": 2037367,
@@ -51,8 +51,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 1177392,
-      "num": 1177392,
+      "raw_hot": 1285080,
+      "num": 1285080,
       "word": "天水麻辣烫倒闭成网络流量密码",
       "onboard_time": 1718685078,
       "rank": 29,
@@ -73,6 +73,14 @@
       "onboard_time": 1718681117,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1122571,
+      "num": 1122571,
+      "word": "好看的裙子 无袖",
+      "onboard_time": 1718689278,
+      "rank": 1,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1080377,
@@ -129,14 +137,6 @@
       "onboard_time": 1718679558,
       "rank": 7,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 847782,
-      "num": 847782,
-      "word": "好看的裙子 无袖",
-      "onboard_time": 1718689278,
-      "rank": 1,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 805462,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 483223,
+      "num": 483223,
+      "word": "B站第200亿条弹幕是哈哈哈哈哈",
+      "onboard_time": 1718688438,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 480943,
       "num": 480943,
       "word": "NBA总决赛",
@@ -355,20 +363,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 442626,
+      "num": 442626,
+      "word": "菲律宾",
+      "onboard_time": 1718689217,
+      "rank": 10,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 424274,
       "num": 424274,
       "word": "苹果停止先买后付服务",
       "onboard_time": 1718676737,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 423829,
-      "num": 423829,
-      "word": "B站第200亿条弹幕是哈哈哈哈哈",
-      "onboard_time": 1718688438,
-      "rank": 35,
-      "category": "互联网"
     },
     {
       "raw_hot": 414384,
@@ -403,12 +411,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 390385,
-      "num": 390385,
-      "word": "菲律宾",
-      "onboard_time": 1718689217,
-      "rank": 10,
-      "category": "国外时政"
+      "raw_hot": 389147,
+      "num": 367338,
+      "word": "丝芭传媒已注册鞠婧祎商标",
+      "onboard_time": 1718691018,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 384584,
@@ -425,6 +433,14 @@
       "onboard_time": 1718680098,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372688,
+      "num": 372688,
+      "word": "周深 事在人为",
+      "onboard_time": 1718690479,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 363858,
@@ -451,12 +467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354586,
+      "num": 196679,
+      "word": "建议这几个月别轻易辞职",
+      "onboard_time": 1718692096,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353237,
       "num": 353237,
       "word": "去新疆的朋友圈要这样发",
       "onboard_time": 1718683878,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 345258,
+      "num": 345258,
+      "word": "丈夫出轨要妻子净身出户后被杀",
+      "onboard_time": 1718692337,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344922,
@@ -475,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 338658,
+      "num": 325320,
+      "word": "张杰 靠的是真材实料",
+      "onboard_time": 1718689996,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333137,
       "num": 333137,
       "word": "Shopee内部通知一员工猝死",
@@ -489,22 +529,6 @@
       "onboard_time": 1718634619,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 325320,
-      "num": 325320,
-      "word": "张杰 靠的是真材实料",
-      "onboard_time": 1718689996,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 320351,
-      "num": 197696,
-      "word": "丝芭传媒已注册鞠婧祎商标",
-      "onboard_time": 1718691018,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 316415,
@@ -531,12 +555,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 297349,
-      "num": 185717,
-      "word": "周深 事在人为",
-      "onboard_time": 1718690479,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 295836,
+      "num": 295836,
+      "word": "图图山我罩的 懂",
+      "onboard_time": 1718689638,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 290332,
@@ -552,14 +576,6 @@
       "word": "凯尔特人4比1独行侠",
       "onboard_time": 1718680098,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 287752,
-      "num": 287752,
-      "word": "图图山我罩的 懂",
-      "onboard_time": 1718689638,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -579,11 +595,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283504,
+      "num": 193794,
+      "word": "女子晾晒过的裙子爬满蓝色虫子",
+      "onboard_time": 1718691617,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281829,
+      "num": 193130,
+      "word": "墨雨云间全靠司徒九月在救",
+      "onboard_time": 1718691857,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276025,
       "num": 276025,
       "word": "方协文发疯请勿上升林更新",
       "onboard_time": 1718636237,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 275157,
+      "num": 191722,
+      "word": "刘诗诗窦骁杀青图",
+      "onboard_time": 1718690898,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -593,14 +633,6 @@
       "onboard_time": 1718685439,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264951,
-      "num": 165014,
-      "word": "刘诗诗窦骁杀青图",
-      "onboard_time": 1718690898,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 263354,
@@ -851,12 +883,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187689,
+      "num": 187689,
+      "word": "怎么委婉的提醒客户金额看错了",
+      "onboard_time": 1718689397,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186410,
       "num": 186410,
       "word": "玫瑰向方协文提出离婚",
       "onboard_time": 1718672778,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183162,
+      "num": 183162,
+      "word": "达摩院否认曾要求姜萍再次答题",
+      "onboard_time": 1718692096,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183037,
@@ -913,14 +961,6 @@
       "onboard_time": 1718630537,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170866,
-      "num": 170866,
-      "word": "女子晾晒过的裙子爬满蓝色虫子",
-      "onboard_time": 1718691617,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 170646,
@@ -1027,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158023,
-      "num": 158023,
-      "word": "怎么委婉的提醒客户金额看错了",
-      "onboard_time": 1718689397,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157385,
       "num": 157385,
       "word": "发现前任同事留下的隐藏文件",
@@ -1052,7 +1084,7 @@
     },
     {
       "raw_hot": 153373,
-      "num": 153373,
+      "num": 447959,
       "word": "捐出1500万元说要报恩的老人走了",
       "onboard_time": 1718685500,
       "rank": 39,
@@ -1104,6 +1136,14 @@
       "word": "瘦了20斤才敢说的实话",
       "onboard_time": 1718622018,
       "rank": 25,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 150974,
+      "num": 150974,
+      "word": "走路瘦小腿",
+      "onboard_time": 1718689937,
+      "rank": 43,
       "category": "运动健身"
     },
     {
@@ -1203,14 +1243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 136299,
-      "num": 136299,
-      "word": "墨雨云间全靠司徒九月在救",
-      "onboard_time": 1718691857,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136052,
       "num": 136052,
       "word": "数学专业就业后的收入",
@@ -1291,14 +1323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128376,
-      "num": 128376,
-      "word": "走路瘦小腿",
-      "onboard_time": 1718689937,
-      "rank": 43,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 127966,
       "num": 127966,
       "word": "以后家里办事就靠狗子的关系了",
@@ -1361,6 +1385,14 @@
       "onboard_time": 1718673797,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121129,
+      "num": 402327,
+      "word": "只有阶段性友谊是我的错吗",
+      "onboard_time": 1718690418,
+      "rank": 9,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 120656,
@@ -1659,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78505,
+      "num": 118523,
+      "word": "姜萍与王闰秋可谓知音难寻",
+      "onboard_time": 1718690959,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78288,
       "num": 78288,
       "word": "人民日报夜读",
@@ -1707,14 +1747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 64989,
-      "num": 402327,
-      "word": "只有阶段性友谊是我的错吗",
-      "onboard_time": 1718690418,
-      "rank": 9,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 64835,
       "num": 64835,
       "word": "欧洲杯直播",
@@ -1761,6 +1793,14 @@
       "onboard_time": 1718656450,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54924,
+      "num": 189246,
+      "word": "日本食人菌大爆发感染超千例",
+      "onboard_time": 1718692277,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54715,
@@ -1841,6 +1881,14 @@
       "onboard_time": 1718673499,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30222,
+      "num": 119526,
+      "word": "知识分子的松弛感穿搭",
+      "onboard_time": 1718692457,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 30033,
