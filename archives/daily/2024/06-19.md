@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/19 00:24:45 ~ 2024/06/19 06:18:55
+本榜单时间：2024/06/19 00:24:45 ~ 2024/06/19 06:35:10
 </p>
 </blockquote>
 <p>
@@ -124,7 +124,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%AF%94%E8%B5%9B%23" target="weibo">
-C罗比赛（热度：171940）
+C罗比赛（热度：178056）
 </a>
 </li>
 
@@ -147,8 +147,20 @@ C罗比赛（热度：171940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E5%8C%BB%E7%94%9F%E5%81%9C%E8%AF%8A%E8%A1%8C%E4%B8%BA%23" target="weibo">
+韩总统称将严肃处理医生停诊行为（热度：159794）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E6%8E%89%E7%A7%A4%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 发现了掉秤最快的方法（热度：150184）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E6%83%B3%E6%94%BE%E5%80%92%E5%BA%A7%E6%A4%85%E9%81%AD%E5%90%8E%E6%8E%92%E4%B8%80%E8%84%9A%E6%8A%B5%E4%BD%8F%23" target="weibo">
+高铁乘客想放倒座椅遭后排一脚抵住（热度：147992）
 </a>
 </li>
 
@@ -171,20 +183,8 @@ C罗比赛（热度：171940）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E5%8C%BB%E7%94%9F%E5%81%9C%E8%AF%8A%E8%A1%8C%E4%B8%BA%23" target="weibo">
-韩总统称将严肃处理医生停诊行为（热度：126838）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%9B%BE%E4%B8%8E%E5%A4%9A%E4%BD%8DSNH48%E5%8E%9F%E6%88%90%E5%91%98%E5%AD%98%E5%9C%A8%E7%BA%A0%E7%BA%B7%23" target="weibo">
 丝芭曾与多位SNH48原成员存在纠纷（热度：123984）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E6%83%B3%E6%94%BE%E5%80%92%E5%BA%A7%E6%A4%85%E9%81%AD%E5%90%8E%E6%8E%92%E4%B8%80%E8%84%9A%E6%8A%B5%E4%BD%8F%23" target="weibo">
-高铁乘客想放倒座椅遭后排一脚抵住（热度：123570）
 </a>
 </li>
 
@@ -333,6 +333,12 @@ C罗比赛（热度：171940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8A%8A%E5%88%9D%E4%B8%BA%E4%BA%BA%E6%AF%8D%E7%9A%84%E6%84%9F%E8%A7%89%E6%BC%94%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+刘亦菲把初为人母的感觉演出来了（热度：54439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E9%A2%84%E5%91%8A%23" target="weibo">
 玫瑰的故事预告（热度：53453）
 </a>
@@ -357,8 +363,20 @@ C罗比赛（热度：171940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%96%AF%E4%BC%A0%E7%9A%84%E9%A3%9F%E4%BA%BA%E8%8F%8C%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
+日本疯传的食人菌是什么（热度：46741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%8D%9A%E5%A3%AB%E8%80%83%E4%B9%A1%E9%95%87%E5%85%AC%E5%8A%A1%E5%91%98%E6%98%AF%E5%A4%A7%E6%9D%90%E5%B0%8F%E7%94%A8%E5%90%97%23" target="weibo">
 斯坦福博士考乡镇公务员是大材小用吗（热度：45597）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E8%83%A1%E8%90%9D%E5%8D%9C%E5%A5%97%E8%8B%A6%E7%93%9C%23" target="weibo">
+墨雨云间 胡萝卜套苦瓜（热度：43833）
 </a>
 </li>
 
@@ -369,20 +387,8 @@ C罗比赛（热度：171940）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%96%AF%E4%BC%A0%E7%9A%84%E9%A3%9F%E4%BA%BA%E8%8F%8C%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
-日本疯传的食人菌是什么（热度：38041）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E6%89%BF%E8%AE%A4%E5%AF%B9%E9%9D%9E%E6%B3%95%E5%9D%90%E6%BB%A9%E5%86%9B%E8%88%B0%E8%A1%A5%E7%BB%99%E5%A4%B1%E8%B4%A5%23" target="weibo">
 菲承认对非法坐滩军舰补给失败（热度：35264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E8%83%A1%E8%90%9D%E5%8D%9C%E5%A5%97%E8%8B%A6%E7%93%9C%23" target="weibo">
-墨雨云间 胡萝卜套苦瓜（热度：34569）
 </a>
 </li>
 
@@ -395,6 +401,18 @@ C罗比赛（热度：171940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%90%BD%E5%B9%95%E9%A6%96%E6%88%98%E4%BC%9A%E7%BB%99%E8%91%A1%E8%90%84%E7%89%99%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E8%A1%A8%E7%8E%B0%23" target="weibo">
 C罗落幕首战会给葡萄牙带来什么表现（热度：32803）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF900%E7%90%83%23" target="weibo">
+见证C罗职业生涯900球（热度：29569）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E7%B3%BB%E5%90%88%E8%B5%84%E8%BD%A6%E9%9B%86%E4%BD%93%E9%AA%A8%E6%8A%98%E4%BB%B7%E4%BF%83%E9%94%80%23" target="weibo">
+日系合资车集体骨折价促销（热度：27749）
 </a>
 </li>
 
@@ -419,12 +437,6 @@ C罗落幕首战会给葡萄牙带来什么表现（热度：32803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23618%23" target="weibo">
 618（热度：22429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF900%E7%90%83%23" target="weibo">
-见证C罗职业生涯900球（热度：19112）
 </a>
 </li>
 

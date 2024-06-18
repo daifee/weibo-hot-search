@@ -1,0 +1,410 @@
+{
+  "runTime": 1718750110083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 249971,
+        "num": 249971,
+        "word": "直播工作 每月2万保底工资",
+        "onboard_time": 1718724201,
+        "rank": 0,
+        "category": "科学科普,网红"
+      },
+      {
+        "raw_hot": 201164,
+        "num": 201164,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3396,
+        "num": 184844,
+        "word": "国之重器更是国之底气",
+        "onboard_time": 1718669237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178056,
+        "num": 178056,
+        "word": "C罗比赛",
+        "onboard_time": 1718716579,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159794,
+        "num": 159794,
+        "word": "韩总统称将严肃处理医生停诊行为",
+        "onboard_time": 1718739850,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 147351,
+        "num": 147351,
+        "word": "庄国栋带孩子",
+        "onboard_time": 1718720300,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136919,
+        "num": 136919,
+        "word": "南拳妈妈内斗",
+        "onboard_time": 1718723240,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136011,
+        "num": 136011,
+        "word": "丝芭回应鞠婧祎到期不续",
+        "onboard_time": 1718718198,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118948,
+        "num": 118948,
+        "word": "翻白眼两周后视力恢复正常状态",
+        "onboard_time": 1718722278,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2539,
+        "num": 94116,
+        "word": "暴雨涨水4人被困消防员搭生命桥",
+        "onboard_time": 1718726717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147992,
+        "num": 94066,
+        "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+        "onboard_time": 1718742671,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93000,
+        "num": 93000,
+        "word": "高铁晚点 补偿",
+        "onboard_time": 1718715498,
+        "rank": 11,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 72700,
+        "num": 72700,
+        "word": "性格内向的人看起来更显小",
+        "onboard_time": 1718719399,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65245,
+        "num": 65245,
+        "word": "罗小黑 作者",
+        "onboard_time": 1718720359,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 63805,
+        "num": 63805,
+        "word": "开始推理吧 何炅",
+        "onboard_time": 1718721559,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60814,
+        "num": 60814,
+        "word": "张杰谢娜临时公开恋情的原因",
+        "onboard_time": 1718713997,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54439,
+        "num": 54439,
+        "word": "刘亦菲把初为人母的感觉演出来了",
+        "onboard_time": 1718749691,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53601,
+        "num": 53601,
+        "word": "丝芭曾与多位SNH48原成员存在纠纷",
+        "onboard_time": 1718731753,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41815,
+        "num": 41815,
+        "word": "科大讯飞内部通报员工去世",
+        "onboard_time": 1718709557,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40090,
+        "num": 40090,
+        "word": "土耳其vs格鲁吉亚",
+        "onboard_time": 1718724438,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64260,
+        "num": 39880,
+        "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
+        "onboard_time": 1718716699,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59346,
+        "num": 39524,
+        "word": "鞠婧祎 到期不续",
+        "onboard_time": 1718709137,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50414,
+        "num": 38965,
+        "word": "胡歌 我可能是第一个被告",
+        "onboard_time": 1718722940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46741,
+        "num": 38291,
+        "word": "日本疯传的食人菌是什么",
+        "onboard_time": 1718734633,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44700,
+        "num": 37478,
+        "word": "发现了掉秤最快的方法",
+        "onboard_time": 1718719459,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 43833,
+        "num": 37199,
+        "word": "墨雨云间 胡萝卜套苦瓜",
+        "onboard_time": 1718738772,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36750,
+        "num": 36750,
+        "word": "欧洲杯预测",
+        "onboard_time": 1718726658,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42700,
+        "num": 36739,
+        "word": "张云龙曾舜晞曾拒演墨雨云间",
+        "onboard_time": 1718715379,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36712,
+        "num": 36712,
+        "word": "中餐厅 虞书欣",
+        "onboard_time": 1718701218,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35216,
+        "num": 35216,
+        "word": "带男朋友回家后发现家人很冷漠",
+        "onboard_time": 1718723660,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33578,
+        "num": 33578,
+        "word": "张新成做了近视眼手术",
+        "onboard_time": 1718712798,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33003,
+        "num": 33003,
+        "word": "存了8万后变成了病态省钱",
+        "onboard_time": 1718710996,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31725,
+        "num": 31725,
+        "word": "塞尔达新作",
+        "onboard_time": 1718722219,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 31541,
+        "num": 31541,
+        "word": "荣梓杉想演张若昀赵丽颖的儿子",
+        "onboard_time": 1718721500,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29569,
+        "num": 29569,
+        "word": "见证C罗职业生涯900球",
+        "onboard_time": 1718748913,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29315,
+        "num": 29315,
+        "word": "C罗落幕首战会给葡萄牙带来什么表现",
+        "onboard_time": 1718736491,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28944,
+        "num": 28944,
+        "word": "瑞幸回应喝西梅美式腹泻",
+        "onboard_time": 1718711058,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28807,
+        "num": 28807,
+        "word": "霍建华 偷偷哭",
+        "onboard_time": 1718711058,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28785,
+        "num": 28785,
+        "word": "养了6年的兔子给我做了个窝",
+        "onboard_time": 1718715318,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28747,
+        "num": 28747,
+        "word": "做得好啊任天堂",
+        "onboard_time": 1718722219,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28736,
+        "num": 28736,
+        "word": "王传君想看易烊千玺王一博演杀手",
+        "onboard_time": 1718721980,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27749,
+        "num": 28732,
+        "word": "日系合资车集体骨折价促销",
+        "onboard_time": 1718749453,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 27042,
+        "num": 28730,
+        "word": "丝芭曾为鞠婧祎定制四部剧",
+        "onboard_time": 1718721020,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26875,
+        "num": 28726,
+        "word": "室友竟然在宿舍里装了个监控",
+        "onboard_time": 1718735352,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26041,
+        "num": 28721,
+        "word": "周深新专下篇先行曲嗨",
+        "onboard_time": 1718727977,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25098,
+        "num": 28719,
+        "word": "双鱼座跟哪个星座更合拍",
+        "onboard_time": 1718732294,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22671,
+        "num": 28716,
+        "word": "菲称对非法坐滩军舰补给失败",
+        "onboard_time": 1718742730,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 22219,
+        "num": 28712,
+        "word": "宝鸡地震",
+        "onboard_time": 1718715078,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21341,
+        "num": 28707,
+        "word": "李一桐包上恩版黄蓉出场对比",
+        "onboard_time": 1718729473,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20657,
+        "num": 28705,
+        "word": "菲承认对非法坐滩军舰补给失败",
+        "onboard_time": 1718731154,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛抗旱工作作出重要指示#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718749135614,
+  "endTime": 1718750110083,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -147,8 +147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171940,
-      "num": 171940,
+      "raw_hot": 178056,
+      "num": 178056,
       "word": "C罗比赛",
       "onboard_time": 1718716579,
       "rank": 19,
@@ -179,12 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159794,
+      "num": 159794,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 150184,
       "num": 150184,
       "word": "发现了掉秤最快的方法",
       "onboard_time": 1718719459,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 147992,
+      "num": 94066,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140400,
@@ -211,28 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126838,
-      "num": 126838,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 123984,
       "num": 123984,
       "word": "丝芭曾与多位SNH48原成员存在纠纷",
       "onboard_time": 1718731753,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123570,
-      "num": 78778,
-      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
-      "onboard_time": 1718742671,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122084,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54439,
+      "num": 54439,
+      "word": "刘亦菲把初为人母的感觉演出来了",
+      "onboard_time": 1718749691,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53453,
       "num": 66754,
       "word": "玫瑰的故事预告",
@@ -459,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46741,
+      "num": 38291,
+      "word": "日本疯传的食人菌是什么",
+      "onboard_time": 1718734633,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45597,
       "num": 119115,
       "word": "斯坦福博士考乡镇公务员是大材小用吗",
@@ -467,20 +483,20 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 43833,
+      "num": 37199,
+      "word": "墨雨云间 胡萝卜套苦瓜",
+      "onboard_time": 1718738772,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 38085,
-      "num": 27432,
+      "num": 28726,
       "word": "室友竟然在宿舍里装了个监控",
       "onboard_time": 1718735352,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 38041,
-      "num": 36089,
-      "word": "日本疯传的食人菌是什么",
-      "onboard_time": 1718734633,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35264,
@@ -489,14 +505,6 @@
       "onboard_time": 1718731154,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 34569,
-      "num": 34569,
-      "word": "墨雨云间 胡萝卜套苦瓜",
-      "onboard_time": 1718738772,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 34092,
@@ -508,11 +516,27 @@
     },
     {
       "raw_hot": 32803,
-      "num": 27563,
+      "num": 29315,
       "word": "C罗落幕首战会给葡萄牙带来什么表现",
       "onboard_time": 1718736491,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29569,
+      "num": 29569,
+      "word": "见证C罗职业生涯900球",
+      "onboard_time": 1718748913,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27749,
+      "num": 28732,
+      "word": "日系合资车集体骨折价促销",
+      "onboard_time": 1718749453,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 26996,
@@ -532,7 +556,7 @@
     },
     {
       "raw_hot": 22752,
-      "num": 22752,
+      "num": 28716,
       "word": "菲称对非法坐滩军舰补给失败",
       "onboard_time": 1718742730,
       "rank": 47,
@@ -545,14 +569,6 @@
       "onboard_time": 1718719581,
       "rank": 36,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 19112,
-      "num": 21264,
-      "word": "见证C罗职业生涯900球",
-      "onboard_time": 1718748913,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 18088,

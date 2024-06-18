@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/16 00:23:47 ~ 2024/06/19 06:18:55
+本榜单时间：2024/06/16 00:23:47 ~ 2024/06/19 06:35:10
 </p>
 </blockquote>
 <p>
@@ -4347,6 +4347,12 @@ A股（热度：171739）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E5%8C%BB%E7%94%9F%E5%81%9C%E8%AF%8A%E8%A1%8C%E4%B8%BA%23" target="weibo">
+韩总统称将严肃处理医生停诊行为（热度：159794）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A3%E6%B7%91%E7%84%B6%E5%89%81%E7%88%B6%E4%BA%B2%E6%89%8B%E8%87%82%E6%9C%89%E4%B8%A4%E7%89%88%E5%89%A7%E6%9C%AC%23" target="weibo">
 季淑然剁父亲手臂有两版剧本（热度：159581）
 </a>
@@ -4667,6 +4673,12 @@ TF三代登陆日（热度：149230）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E9%9D%92%E5%B2%9B%E6%8A%A2%E7%A5%A8%23" target="weibo">
 许嵩青岛抢票（热度：148089）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E6%83%B3%E6%94%BE%E5%80%92%E5%BA%A7%E6%A4%85%E9%81%AD%E5%90%8E%E6%8E%92%E4%B8%80%E8%84%9A%E6%8A%B5%E4%BD%8F%23" target="weibo">
+高铁乘客想放倒座椅遭后排一脚抵住（热度：147992）
 </a>
 </li>
 
@@ -5367,12 +5379,6 @@ newjeans新歌（热度：127805）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%B0%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E5%8C%BB%E7%94%9F%E5%81%9C%E8%AF%8A%E8%A1%8C%E4%B8%BA%23" target="weibo">
-韩总统称将严肃处理医生停诊行为（热度：126838）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%9C%80%E6%93%85%E9%95%BF%E7%9A%84%E6%8A%80%E8%83%BD%E6%98%AF%E7%88%B1%E6%88%91%23" target="weibo">
 爸爸最擅长的技能是爱我（热度：126524）
 </a>
@@ -5489,12 +5495,6 @@ RW对战TTG（热度：124779）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%83%B3%E7%9C%8B%E6%81%8B%E7%BB%BC%E4%BA%86%23" target="weibo">
 再也不想看恋综了（热度：123628）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E6%83%B3%E6%94%BE%E5%80%92%E5%BA%A7%E6%A4%85%E9%81%AD%E5%90%8E%E6%8E%92%E4%B8%80%E8%84%9A%E6%8A%B5%E4%BD%8F%23" target="weibo">
-高铁乘客想放倒座椅遭后排一脚抵住（热度：123570）
 </a>
 </li>
 
@@ -6789,6 +6789,12 @@ AI会让外语专业消失吗（热度：64293）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8A%8A%E5%88%9D%E4%B8%BA%E4%BA%BA%E6%AF%8D%E7%9A%84%E6%84%9F%E8%A7%89%E6%BC%94%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+刘亦菲把初为人母的感觉演出来了（热度：54439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%A8%E5%B8%88%E4%B8%8B%E7%8F%AD%E5%90%8E%E5%86%92%E9%AB%98%E6%B8%A9%E4%B8%BA%E5%B0%8F%E4%BC%99%E9%87%8D%E6%96%B0%E7%82%92%E8%8F%9C%23" target="weibo">
 厨师下班后冒高温为小伙重新炒菜（热度：53852）
 </a>
@@ -6861,6 +6867,12 @@ AI会让外语专业消失吗（热度：64293）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%96%AF%E4%BC%A0%E7%9A%84%E9%A3%9F%E4%BA%BA%E8%8F%8C%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
+日本疯传的食人菌是什么（热度：46741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%9B%A6%E5%BD%A6%E8%85%B9%E8%82%8C%23" target="weibo">
 黄曦彦腹肌（热度：46578）
 </a>
@@ -6887,6 +6899,12 @@ AI会让外语专业消失吗（热度：64293）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E9%AB%98%E6%A0%A1%E4%B8%BA15%E5%AF%B9%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8A%9E%E9%9B%86%E4%BD%93%E5%A9%9A%E7%A4%BC%23" target="weibo">
 北京一高校为15对研究生办集体婚礼（热度：44041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E8%83%A1%E8%90%9D%E5%8D%9C%E5%A5%97%E8%8B%A6%E7%93%9C%23" target="weibo">
+墨雨云间 胡萝卜套苦瓜（热度：43833）
 </a>
 </li>
 
@@ -7017,12 +7035,6 @@ aespa被清票两万（热度：42120）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%96%AF%E4%BC%A0%E7%9A%84%E9%A3%9F%E4%BA%BA%E8%8F%8C%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
-日本疯传的食人菌是什么（热度：38041）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A7%91%E5%A8%98%E8%B7%B3%E4%B8%AD%E5%9B%BD%E8%88%9E%E8%A2%AB%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%A4%B8%E7%89%B9%E5%88%AB%E7%BE%8E%23" target="weibo">
 台湾姑娘跳中国舞被小朋友夸特别美（热度：37519）
 </a>
@@ -7103,12 +7115,6 @@ aespa被清票两万（热度：42120）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A8%9C%E6%89%8E%E7%9A%84%E5%A6%86%E5%AE%B9%E7%A1%AC%E6%8E%A7%E4%BA%86%23" target="weibo">
 被娜扎的妆容硬控了（热度：35066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E8%83%A1%E8%90%9D%E5%8D%9C%E5%A5%97%E8%8B%A6%E7%93%9C%23" target="weibo">
-墨雨云间 胡萝卜套苦瓜（热度：34569）
 </a>
 </li>
 
@@ -7197,6 +7203,12 @@ C罗落幕首战会给葡萄牙带来什么表现（热度：32803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF900%E7%90%83%23" target="weibo">
+见证C罗职业生涯900球（热度：29569）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23167%E4%BA%BA%E5%A4%9A%E7%AD%8929%E5%88%86%E9%92%9F%E5%8D%B4%E8%B7%91%E8%B5%A2%E4%BA%86%E7%94%9F%E5%91%BD%E6%8E%A5%E5%8A%9B%23" target="weibo">
 167人多等29分钟却跑赢了生命接力（热度：29309）
 </a>
@@ -7235,6 +7247,12 @@ C罗落幕首战会给葡萄牙带来什么表现（热度：32803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%91%8A%E5%88%AB%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23" target="weibo">
 陈乔恩告别墨雨云间（热度：28092）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E7%B3%BB%E5%90%88%E8%B5%84%E8%BD%A6%E9%9B%86%E4%BD%93%E9%AA%A8%E6%8A%98%E4%BB%B7%E4%BF%83%E9%94%80%23" target="weibo">
+日系合资车集体骨折价促销（热度：27749）
 </a>
 </li>
 
@@ -7415,12 +7433,6 @@ NBA（热度：23418）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%AB%E8%A7%81%E9%83%91%E5%B7%9E%E6%96%87%E6%97%85%E6%96%B0%E7%AF%87%E7%AB%A0%23" target="weibo">
 豫见郑州文旅新篇章（热度：19243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81C%E7%BD%97%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF900%E7%90%83%23" target="weibo">
-见证C罗职业生涯900球（热度：19112）
 </a>
 </li>
 
