@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718667361662,
+  "endTime": 1718673671919,
   "band_list": [
     {
       "raw_hot": 2505331,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1361504,
+      "num": 809721,
+      "word": "假唱",
+      "onboard_time": 1718667976,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1360637,
       "num": 1360637,
       "word": "南方医科大学回应教师因救人迟到受处分",
@@ -153,6 +161,14 @@
       "onboard_time": 1718548880,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1338716,
+      "num": 1338716,
+      "word": "斯坦福大学博士拟被录用乡镇公务员",
+      "onboard_time": 1718670437,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1330709,
@@ -475,6 +491,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 883163,
+      "num": 883163,
+      "word": "人人都爱玫瑰其实是假象",
+      "onboard_time": 1718669958,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 880809,
       "num": 456281,
       "word": "苏敏 离婚",
@@ -747,6 +771,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 669167,
+      "num": 669167,
+      "word": "久坐久躺容易气血不足",
+      "onboard_time": 1718667856,
+      "rank": 5,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 660782,
       "num": 660782,
       "word": "庄国栋 方协文",
@@ -920,6 +952,14 @@
       "word": "机场回应疑似外国人起飞时偷拍",
       "onboard_time": 1718516538,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 574794,
+      "num": 574794,
+      "word": "男子用AI伪造学生同事近7000张裸照",
+      "onboard_time": 1718667676,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1187,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497903,
+      "num": 497903,
+      "word": "魏大勋 从前的玩笑成了现实",
+      "onboard_time": 1718670798,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 495445,
       "num": 495445,
       "word": "南方医科大学教师因救死扶伤受处分",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1718528058,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 464471,
+      "num": 464471,
+      "word": "顶配iPhone16售价或破2万",
+      "onboard_time": 1718667615,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 462555,
@@ -1475,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 414384,
+      "num": 414384,
+      "word": "被彭冠英这个笑刀到了",
+      "onboard_time": 1718668096,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413853,
       "num": 413853,
       "word": "倪妮 高叶你好烦呐",
@@ -1603,6 +1667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 394174,
+      "num": 394174,
+      "word": "人民日报评姜萍",
+      "onboard_time": 1718670078,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 394018,
       "num": 394018,
       "word": "赵丽颖栗子妆",
@@ -1689,6 +1761,14 @@
       "onboard_time": 1718453357,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 373840,
+      "num": 209408,
+      "word": "17岁小伙体重207斤每天狂喝6升水",
+      "onboard_time": 1718672417,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371444,
@@ -1971,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326141,
+      "num": 326141,
+      "word": "订书钉才是上班摸鱼神器",
+      "onboard_time": 1718634619,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 324463,
       "num": 324463,
       "word": "林更新说演研究生压力很大",
@@ -2001,14 +2089,6 @@
       "onboard_time": 1718594417,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 317182,
-      "num": 317182,
-      "word": "订书钉才是上班摸鱼神器",
-      "onboard_time": 1718634619,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 316439,
@@ -2156,7 +2236,7 @@
     },
     {
       "raw_hot": 290332,
-      "num": 125524,
+      "num": 200626,
       "word": "刘亦菲同一件衣服不同状态",
       "onboard_time": 1718665334,
       "rank": 20,
@@ -2177,6 +2257,14 @@
       "onboard_time": 1718590817,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286556,
+      "num": 286556,
+      "word": "陈哲远转发说他假唱微博",
+      "onboard_time": 1718637558,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 286427,
@@ -2347,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263354,
+      "num": 263354,
+      "word": "欧洲杯首个爆冷",
+      "onboard_time": 1718669719,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259989,
       "num": 259989,
       "word": "狐妖现代番外",
@@ -2377,6 +2473,14 @@
       "onboard_time": 1718636659,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255776,
+      "num": 208814,
+      "word": "长寿的人多半有4慢3长特点",
+      "onboard_time": 1718637319,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 255389,
@@ -2451,14 +2555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245521,
-      "num": 245521,
-      "word": "陈哲远转发说他假唱微博",
-      "onboard_time": 1718637558,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244751,
       "num": 231242,
       "word": "钟楚曦美的像回家一样轻松",
@@ -2529,6 +2625,14 @@
       "onboard_time": 1718521277,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 235098,
+      "num": 235098,
+      "word": "曾经的到大陆发展变成了回家上班",
+      "onboard_time": 1718667736,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 233197,
@@ -2625,6 +2729,14 @@
       "onboard_time": 1718605397,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222390,
+      "num": 222390,
+      "word": "教育部提醒切勿轻信高价志愿填报指导",
+      "onboard_time": 1718672479,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 222106,
@@ -2963,14 +3075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 202857,
-      "num": 160263,
-      "word": "长寿的人多半有4慢3长特点",
-      "onboard_time": 1718637319,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 202573,
       "num": 202573,
       "word": "影视音乐盛典投票",
@@ -3265,6 +3369,14 @@
       "onboard_time": 1718511197,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190783,
+      "num": 190783,
+      "word": "赵菊英账号被封",
+      "onboard_time": 1718670679,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 190705,
@@ -3795,6 +3907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168741,
+      "num": 168741,
+      "word": "以为护肤其实很伤脸的行为",
+      "onboard_time": 1718668877,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 168464,
       "num": 168464,
       "word": "死侍与金刚狼定档",
@@ -3883,6 +4003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165215,
+      "num": 165215,
+      "word": "霍建华什么时候出场",
+      "onboard_time": 1718670199,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164902,
       "num": 164902,
       "word": "去世254天狗狗的长明灯突然亮了",
@@ -3897,6 +4025,14 @@
       "onboard_time": 1718520738,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 163779,
+      "num": 163779,
+      "word": "姆巴佩向网友征集面具",
+      "onboard_time": 1718670738,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 163731,
@@ -3955,6 +4091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 162130,
+      "num": 162130,
+      "word": "iPhone16Pro或加大不加厚",
+      "onboard_time": 1718673198,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 162101,
       "num": 162101,
       "word": "小女孩带德牧上门吵架",
@@ -3993,6 +4137,14 @@
       "onboard_time": 1718616917,
       "rank": 36,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 160920,
+      "num": 160920,
+      "word": "玫瑰向方协文提出离婚",
+      "onboard_time": 1718672778,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 160400,
@@ -4073,6 +4225,14 @@
       "onboard_time": 1718519657,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 158319,
+      "num": 158319,
+      "word": "朴秀荣发了问号",
+      "onboard_time": 1718670919,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 158231,
@@ -4273,6 +4433,14 @@
       "onboard_time": 1718628078,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149707,
+      "num": 149707,
+      "word": "怎样的男生适合结婚",
+      "onboard_time": 1718671098,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 149233,
@@ -4611,6 +4779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133630,
+      "num": 133630,
+      "word": "大学生真的扣扣搜搜花了好多钱",
+      "onboard_time": 1718670679,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133503,
       "num": 133503,
       "word": "令人动容的父子传承",
@@ -4891,6 +5067,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127770,
+      "num": 127770,
+      "word": "陈瑶直拍",
+      "onboard_time": 1718672297,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127633,
       "num": 94546,
       "word": "墨雨云间团综没招到商",
@@ -5049,6 +5233,14 @@
       "onboard_time": 1718585179,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122007,
+      "num": 122007,
+      "word": "管虎说东极岛主演已经能闭气4分半",
+      "onboard_time": 1718673258,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 121832,
@@ -5235,6 +5427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114747,
+      "num": 114747,
+      "word": "独行侠vs凯尔特人",
+      "onboard_time": 1718667015,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114181,
       "num": 114181,
       "word": "UP双杀WBG",
@@ -5273,6 +5473,14 @@
       "onboard_time": 1718461459,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113130,
+      "num": 113130,
+      "word": "发现个大学生拿快递的小妙招",
+      "onboard_time": 1718670497,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 113108,
@@ -5395,6 +5603,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 106573,
+      "num": 106573,
+      "word": "文化中国行听不腻的传统音乐",
+      "onboard_time": 1718672778,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106132,
+      "num": 106132,
+      "word": "世界上有2边形存在吗",
+      "onboard_time": 1718671338,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 105891,
       "num": 105891,
       "word": "理想称汕头追尾车辆未启用辅助驾驶",
@@ -5409,6 +5633,14 @@
       "onboard_time": 1718629218,
       "rank": 14,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 105786,
+      "num": 105786,
+      "word": "姆巴佩已前往医院手术",
+      "onboard_time": 1718668758,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 105783,
@@ -5433,6 +5665,14 @@
       "onboard_time": 1718504839,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104994,
+      "num": 104994,
+      "word": "李宇春开心夜舞台slay全场",
+      "onboard_time": 1718672417,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 104848,
@@ -5539,6 +5779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101330,
+      "num": 101330,
+      "word": "胡歌片寄凉太土屋太凤同框",
+      "onboard_time": 1718645893,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101288,
       "num": 101288,
       "word": "一个男人和一个女人",
@@ -5595,6 +5843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98068,
+      "num": 98068,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98060,
       "num": 266802,
       "word": "数学特别好的人大脑都有这些特点",
@@ -5625,6 +5881,14 @@
       "onboard_time": 1718607677,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 95939,
+      "num": 95939,
+      "word": "黄子弘凡舞台",
+      "onboard_time": 1718669297,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 94733,
@@ -5681,14 +5945,6 @@
       "onboard_time": 1718462299,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 91464,
-      "num": 91464,
-      "word": "独行侠vs凯尔特人",
-      "onboard_time": 1718667015,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 90559,
@@ -5931,14 +6187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76165,
-      "num": 76165,
-      "word": "胡歌片寄凉太土屋太凤同框",
-      "onboard_time": 1718645893,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 75942,
       "num": 75942,
       "word": "学校回应男生39天减重斤20斤后猝死",
@@ -5968,6 +6216,14 @@
       "word": "浙江宣传谈姜萍",
       "onboard_time": 1718584698,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70920,
+      "num": 174116,
+      "word": "梅州洪涝1190名消防员增援赶赴",
+      "onboard_time": 1718671639,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -6025,14 +6281,6 @@
       "onboard_time": 1718632698,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66775,
-      "num": 66775,
-      "word": "果然生女儿就是用来打扮的",
-      "onboard_time": 1718654650,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 65343,
@@ -6649,6 +6897,14 @@
       "onboard_time": 1718535618,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30563,
+      "num": 117521,
+      "word": "球迷为庆祝比分领先醉驾出门被抓",
+      "onboard_time": 1718673499,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 29893,

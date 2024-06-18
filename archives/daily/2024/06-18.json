@@ -1,7 +1,23 @@
 {
   "startTime": 1718641477220,
-  "endTime": 1718667361662,
+  "endTime": 1718673671919,
   "band_list": [
+    {
+      "raw_hot": 1361504,
+      "num": 809721,
+      "word": "假唱",
+      "onboard_time": 1718667976,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1338716,
+      "num": 1338716,
+      "word": "斯坦福大学博士拟被录用乡镇公务员",
+      "onboard_time": 1718670437,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 986040,
       "num": 986040,
@@ -9,6 +25,14 @@
       "onboard_time": 1718643434,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 883163,
+      "num": 883163,
+      "word": "人人都爱玫瑰其实是假象",
+      "onboard_time": 1718669958,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 780562,
@@ -24,6 +48,14 @@
       "word": "红豆薏米水真的可以祛湿吗",
       "onboard_time": 1718656270,
       "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 669167,
+      "num": 669167,
+      "word": "久坐久躺容易气血不足",
+      "onboard_time": 1718667856,
+      "rank": 5,
       "category": "健康医疗"
     },
     {
@@ -43,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 574794,
+      "num": 574794,
+      "word": "男子用AI伪造学生同事近7000张裸照",
+      "onboard_time": 1718667676,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 519781,
       "num": 519781,
       "word": "段嘉许回来了",
@@ -57,6 +97,30 @@
       "onboard_time": 1718624476,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497903,
+      "num": 497903,
+      "word": "魏大勋 从前的玩笑成了现实",
+      "onboard_time": 1718670798,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464471,
+      "num": 464471,
+      "word": "顶配iPhone16售价或破2万",
+      "onboard_time": 1718667615,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 414384,
+      "num": 414384,
+      "word": "被彭冠英这个笑刀到了",
+      "onboard_time": 1718668096,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 413439,
@@ -75,12 +139,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394174,
+      "num": 394174,
+      "word": "人民日报评姜萍",
+      "onboard_time": 1718670078,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 384584,
       "num": 384584,
       "word": "iPhone15多次降价重回销量榜第一",
       "onboard_time": 1718626157,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 373840,
+      "num": 209408,
+      "word": "17岁小伙体重207斤每天狂喝6升水",
+      "onboard_time": 1718672417,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342393,
@@ -91,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317182,
-      "num": 317182,
+      "raw_hot": 326141,
+      "num": 326141,
       "word": "订书钉才是上班摸鱼神器",
       "onboard_time": 1718634619,
       "rank": 8,
@@ -108,11 +188,19 @@
     },
     {
       "raw_hot": 290332,
-      "num": 125524,
+      "num": 200626,
       "word": "刘亦菲同一件衣服不同状态",
       "onboard_time": 1718665334,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286556,
+      "num": 286556,
+      "word": "陈哲远转发说他假唱微博",
+      "onboard_time": 1718637558,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 286289,
@@ -131,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263354,
+      "num": 263354,
+      "word": "欧洲杯首个爆冷",
+      "onboard_time": 1718669719,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261682,
       "num": 261682,
       "word": "鞠婧祎开心夜舞台",
@@ -145,6 +241,14 @@
       "onboard_time": 1718636659,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255776,
+      "num": 208814,
+      "word": "长寿的人多半有4慢3长特点",
+      "onboard_time": 1718637319,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254029,
@@ -163,12 +267,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 245521,
-      "num": 245521,
-      "word": "陈哲远转发说他假唱微博",
-      "onboard_time": 1718637558,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 235098,
+      "num": 235098,
+      "word": "曾经的到大陆发展变成了回家上班",
+      "onboard_time": 1718667736,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 222626,
@@ -177,6 +281,14 @@
       "onboard_time": 1718625498,
       "rank": 16,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 222390,
+      "num": 222390,
+      "word": "教育部提醒切勿轻信高价志愿填报指导",
+      "onboard_time": 1718672479,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 217444,
@@ -195,20 +307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202857,
-      "num": 155836,
-      "word": "长寿的人多半有4慢3长特点",
-      "onboard_time": 1718637319,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 191382,
       "num": 158474,
       "word": "外国人被中国夜市硬控了",
       "onboard_time": 1718634559,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 190783,
+      "num": 190783,
+      "word": "赵菊英账号被封",
+      "onboard_time": 1718670679,
+      "rank": 23,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 190600,
@@ -251,12 +363,60 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168741,
+      "num": 168741,
+      "word": "以为护肤其实很伤脸的行为",
+      "onboard_time": 1718668877,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 165215,
+      "num": 165215,
+      "word": "霍建华什么时候出场",
+      "onboard_time": 1718670199,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163779,
+      "num": 163779,
+      "word": "姆巴佩向网友征集面具",
+      "onboard_time": 1718670738,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162130,
+      "num": 162130,
+      "word": "iPhone16Pro或加大不加厚",
+      "onboard_time": 1718673198,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 160920,
+      "num": 160920,
+      "word": "玫瑰向方协文提出离婚",
+      "onboard_time": 1718672778,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160634,
       "num": 160634,
       "word": "广东梅州暴雨致5死15失联",
       "onboard_time": 1718630118,
       "rank": 19,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 158319,
+      "num": 158319,
+      "word": "朴秀荣发了问号",
+      "onboard_time": 1718670919,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 150998,
@@ -267,12 +427,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 149707,
+      "num": 149707,
+      "word": "怎样的男生适合结婚",
+      "onboard_time": 1718671098,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142330,
+      "num": 142330,
+      "word": "云南一女子吃野生菌看到机器人小偷",
+      "onboard_time": 1718635160,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136052,
       "num": 136052,
       "word": "数学专业就业后的收入",
       "onboard_time": 1718634139,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 133630,
+      "num": 133630,
+      "word": "大学生真的扣扣搜搜花了好多钱",
+      "onboard_time": 1718670679,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 130089,
@@ -283,12 +467,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122707,
-      "num": 122707,
-      "word": "云南一女子吃野生菌看到机器人小偷",
-      "onboard_time": 1718635160,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 127770,
+      "num": 127770,
+      "word": "陈瑶直拍",
+      "onboard_time": 1718672297,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 122007,
+      "num": 122007,
+      "word": "管虎说东极岛主演已经能闭气4分半",
+      "onboard_time": 1718673258,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 120656,
@@ -305,6 +497,22 @@
       "onboard_time": 1718666596,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114747,
+      "num": 114747,
+      "word": "独行侠vs凯尔特人",
+      "onboard_time": 1718667015,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113130,
+      "num": 113130,
+      "word": "发现个大学生拿快递的小妙招",
+      "onboard_time": 1718670497,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 112323,
@@ -339,6 +547,38 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106573,
+      "num": 106573,
+      "word": "文化中国行听不腻的传统音乐",
+      "onboard_time": 1718672778,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 106132,
+      "num": 106132,
+      "word": "世界上有2边形存在吗",
+      "onboard_time": 1718671338,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 105786,
+      "num": 105786,
+      "word": "姆巴佩已前往医院手术",
+      "onboard_time": 1718668758,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104994,
+      "num": 104994,
+      "word": "李宇春开心夜舞台slay全场",
+      "onboard_time": 1718672417,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104078,
       "num": 104078,
       "word": "姆巴佩造乌龙",
@@ -363,6 +603,14 @@
       "category": "电影,时尚"
     },
     {
+      "raw_hot": 101330,
+      "num": 101330,
+      "word": "胡歌片寄凉太土屋太凤同框",
+      "onboard_time": 1718645893,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 99918,
       "num": 99918,
       "word": "欧洲杯",
@@ -379,12 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98068,
+      "num": 98068,
+      "word": "果然生女儿就是用来打扮的",
+      "onboard_time": 1718654650,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97608,
       "num": 97608,
       "word": "丈夫替怀孕妻子辞职合理吗",
       "onboard_time": 1718617396,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95939,
+      "num": 95939,
+      "word": "黄子弘凡舞台",
+      "onboard_time": 1718669297,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 95608,
@@ -401,14 +665,6 @@
       "onboard_time": 1718640917,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 91464,
-      "num": 91464,
-      "word": "独行侠vs凯尔特人",
-      "onboard_time": 1718667015,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 88941,
@@ -483,14 +739,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 76165,
-      "num": 76165,
-      "word": "胡歌片寄凉太土屋太凤同框",
-      "onboard_time": 1718645893,
-      "rank": 27,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 73532,
       "num": 76373,
       "word": "刚收到的录取通知书被撤回了",
@@ -507,19 +755,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70920,
+      "num": 174116,
+      "word": "梅州洪涝1190名消防员增援赶赴",
+      "onboard_time": 1718671639,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70884,
       "num": 68800,
       "word": "水象星座真的是恋爱脑吗",
       "onboard_time": 1718644033,
       "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 66775,
-      "num": 66775,
-      "word": "果然生女儿就是用来打扮的",
-      "onboard_time": 1718654650,
-      "rank": 29,
       "category": "情感"
     },
     {
@@ -572,7 +820,7 @@
     },
     {
       "raw_hot": 54715,
-      "num": 560020,
+      "num": 810437,
       "word": "教育部首次上线高考志愿信息系统",
       "onboard_time": 1718618298,
       "rank": 2,
@@ -625,6 +873,14 @@
       "onboard_time": 1718657170,
       "rank": 23,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 30563,
+      "num": 117521,
+      "word": "球迷为庆祝比分领先醉驾出门被抓",
+      "onboard_time": 1718673499,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 30033,
