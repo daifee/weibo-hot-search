@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718731218868,
+  "endTime": 1718732174041,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -227,19 +227,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109871,
+      "num": 185153,
+      "word": "土耳其vs格鲁吉亚",
+      "onboard_time": 1718724438,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109298,
       "num": 161808,
       "word": "C罗比赛",
       "onboard_time": 1718716579,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 105621,
-      "num": 167935,
-      "word": "土耳其vs格鲁吉亚",
-      "onboard_time": 1718724438,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -395,8 +395,8 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 58969,
-      "num": 58969,
+      "raw_hot": 59304,
+      "num": 59304,
       "word": "李一桐包上恩版黄蓉出场对比",
       "onboard_time": 1718729473,
       "rank": 27,
@@ -409,6 +409,14 @@
       "onboard_time": 1718721438,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51333,
+      "num": 51333,
+      "word": "丝芭曾与多位SNH48原成员存在纠纷",
+      "onboard_time": 1718731753,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 47904,
@@ -427,7 +435,7 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 29024,
+      "raw_hot": 35264,
       "num": 44316,
       "word": "菲承认对非法坐滩军舰补给失败",
       "onboard_time": 1718731154,
