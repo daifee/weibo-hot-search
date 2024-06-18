@@ -1,0 +1,410 @@
+{
+  "runTime": 1718715106255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1021279,
+        "num": 1021279,
+        "word": "科大讯飞内部通报员工去世",
+        "onboard_time": 1718709557,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 924387,
+        "num": 924387,
+        "word": "瑞幸回应喝西梅美式腹泻",
+        "onboard_time": 1718711058,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27597,
+        "num": 518024,
+        "word": "治沙尖子生的解题新思路",
+        "onboard_time": 1718713697,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506907,
+        "num": 506907,
+        "word": "徐娇回应不敢搂刘诗诗",
+        "onboard_time": 1718710697,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477303,
+        "num": 477303,
+        "word": "霍建华 偷偷哭",
+        "onboard_time": 1718711058,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334128,
+        "num": 334128,
+        "word": "看中医 不要化妆",
+        "onboard_time": 1718709737,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 450383,
+        "num": 329574,
+        "word": "中餐厅 虞书欣",
+        "onboard_time": 1718701218,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305197,
+        "num": 305197,
+        "word": "税务部门没有倒查20年30年的安排",
+        "onboard_time": 1718705837,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226019,
+        "num": 226019,
+        "word": "还好不是刘亦菲",
+        "onboard_time": 1718709258,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128593,
+        "num": 225302,
+        "word": "考公斯坦福博士本科为中科大",
+        "onboard_time": 1718709436,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1871106,
+        "num": 225079,
+        "word": "鞠婧祎 到期不续",
+        "onboard_time": 1718709137,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851349,
+        "num": 224385,
+        "word": "张杰谢娜临时公开恋情的原因",
+        "onboard_time": 1718713997,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404295,
+        "num": 223502,
+        "word": "黄亦玫生孩子婆婆不让打无痛",
+        "onboard_time": 1718703497,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222988,
+        "num": 222988,
+        "word": "严浩翔几乎成名",
+        "onboard_time": 1718709197,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217320,
+        "num": 217320,
+        "word": "男子为快速入睡吃了40多片安眠药",
+        "onboard_time": 1718702719,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216355,
+        "num": 216355,
+        "word": "土耳其 格鲁吉亚",
+        "onboard_time": 1718712137,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195957,
+        "num": 195957,
+        "word": "两架波音747飞机将被打折拍卖",
+        "onboard_time": 1718711477,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61892,
+        "num": 194999,
+        "word": "618挑战100元能买多少好东西",
+        "onboard_time": 1718711657,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194405,
+        "num": 194405,
+        "word": "好看的裙子 无袖",
+        "onboard_time": 1718689278,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 139675,
+        "num": 192586,
+        "word": "梅州一干部疏散转移群众中因公殉职",
+        "onboard_time": 1718713037,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25058,
+        "num": 190895,
+        "word": "彭昱畅想考驾照的心达到了顶峰",
+        "onboard_time": 1718713277,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 688332,
+        "num": 186855,
+        "word": "存了8万后变成了病态省钱",
+        "onboard_time": 1718710996,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372665,
+        "num": 184240,
+        "word": "张新成做了近视眼手术",
+        "onboard_time": 1718712798,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215105,
+        "num": 179158,
+        "word": "于正 我承认我错了",
+        "onboard_time": 1718696418,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194426,
+        "num": 175170,
+        "word": "方协文当着黄亦玫的面和妈妈说方言",
+        "onboard_time": 1718705178,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174203,
+        "num": 174203,
+        "word": "十个勤天帆布包",
+        "onboard_time": 1718706558,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167065,
+        "num": 167065,
+        "word": "王星越他超爱",
+        "onboard_time": 1718714779,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157213,
+        "num": 157213,
+        "word": "500万彩票大奖无人领",
+        "onboard_time": 1718710397,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157125,
+        "num": 157125,
+        "word": "奔跑吧下期最强社团争霸赛",
+        "onboard_time": 1718710697,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74942,
+        "num": 156379,
+        "word": "中国跳水队游泳队巴黎奥运名单公示",
+        "onboard_time": 1718701578,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156352,
+        "num": 156352,
+        "word": "周深曾说等了张杰8年",
+        "onboard_time": 1718697619,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147424,
+        "num": 147424,
+        "word": "鞠婧祎工作室回复粉丝",
+        "onboard_time": 1718714958,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134982,
+        "num": 134982,
+        "word": "宝鸡地震",
+        "onboard_time": 1718715078,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126639,
+        "num": 126639,
+        "word": "拜登",
+        "onboard_time": 1718707338,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 125323,
+        "num": 125323,
+        "word": "如何看待餐厅公开产品身份证",
+        "onboard_time": 1718714897,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122050,
+        "num": 122050,
+        "word": "晨尿发黄是肾有问题吗",
+        "onboard_time": 1718697677,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145927,
+        "num": 121915,
+        "word": "鞠婧祎的时间参照物是什么",
+        "onboard_time": 1718713217,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121235,
+        "num": 121235,
+        "word": "日本食人菌大爆发感染超千例",
+        "onboard_time": 1718692277,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40504,
+        "num": 119661,
+        "word": "京东618最后4小时",
+        "onboard_time": 1718713697,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119351,
+        "num": 119351,
+        "word": "丝芭传媒",
+        "onboard_time": 1718688918,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115123,
+        "num": 115123,
+        "word": "中餐厅",
+        "onboard_time": 1718701458,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112767,
+        "num": 112767,
+        "word": "原来不用剧烈运动也能瘦",
+        "onboard_time": 1718709737,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 106949,
+        "num": 106949,
+        "word": "法国驻华大使馆发杨紫",
+        "onboard_time": 1718708358,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106425,
+        "num": 106425,
+        "word": "玫瑰的故事25",
+        "onboard_time": 1718714658,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104682,
+        "num": 104682,
+        "word": "袁娅维说自己是小众歌手",
+        "onboard_time": 1718713758,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98429,
+        "num": 98429,
+        "word": "腋下管理",
+        "onboard_time": 1718695158,
+        "rank": 45,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 95550,
+        "num": 95550,
+        "word": "胡先煦 肤白貌美还有大长腿",
+        "onboard_time": 1718712557,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94430,
+        "num": 94430,
+        "word": "洗完澡后转毛巾改善圆肩",
+        "onboard_time": 1718715078,
+        "rank": 47,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92402,
+        "num": 92402,
+        "word": "科大讯飞",
+        "onboard_time": 1718709858,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88692,
+        "num": 88692,
+        "word": "郑钦文战胜大坂直美",
+        "onboard_time": 1718710697,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好防汛抗旱抢险救灾各项工作#"
+    }
+  }
+}
