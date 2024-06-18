@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718739343950,
+  "endTime": 1718742035276,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -51587,6 +51587,14 @@
       "category": "旅游,科学科普"
     },
     {
+      "raw_hot": 34146,
+      "num": 34146,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 34033,
       "num": 238999,
       "word": "今晚8点京东百亿补贴力度翻倍",
@@ -51769,6 +51777,14 @@
       "onboard_time": 1717246099,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31826,
+      "num": 27563,
+      "word": "C罗落幕首战会给葡萄牙带来什么表现",
+      "onboard_time": 1718736491,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 31781,
@@ -52057,14 +52073,6 @@
       "onboard_time": 1718406735,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 29505,
-      "num": 27563,
-      "word": "C罗落幕首战会给葡萄牙带来什么表现",
-      "onboard_time": 1718736491,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 29418,
@@ -52755,6 +52763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22447,
+      "num": 22447,
+      "word": "墨雨云间 胡萝卜套苦瓜",
+      "onboard_time": 1718738772,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22303,
       "num": 801656,
       "word": "嫦娥六号宇宙级别的浪漫",
@@ -53027,14 +53043,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 19055,
-      "num": 19055,
-      "word": "墨雨云间 胡萝卜套苦瓜",
-      "onboard_time": 1718738772,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18995,
       "num": 323219,
       "word": "美妆博主出差都带什么",
@@ -53201,6 +53209,14 @@
       "onboard_time": 1718503517,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17044,
+      "num": 17044,
+      "word": "姆巴佩无缘对阵荷兰",
+      "onboard_time": 1718740811,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 16973,
@@ -53409,6 +53425,14 @@
       "onboard_time": 1717521672,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14671,
+      "num": 16475,
+      "word": "你平时喝瑞幸吗",
+      "onboard_time": 1718740570,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 14613,
