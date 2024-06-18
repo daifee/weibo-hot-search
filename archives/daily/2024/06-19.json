@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718727885640,
+  "endTime": 1718728787401,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 161894,
-      "num": 161894,
+      "num": 288678,
       "word": "科大讯飞内部通报员工去世",
       "onboard_time": 1718709557,
       "rank": 18,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105621,
+      "num": 167935,
+      "word": "土耳其vs格鲁吉亚",
+      "onboard_time": 1718724438,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98065,
       "num": 98065,
       "word": "王传君想看易烊千玺王一博演杀手",
@@ -307,15 +315,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 77242,
-      "num": 86193,
-      "word": "上班搭子离职等于断崖式分手",
-      "onboard_time": 1718725397,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 73495,
+      "raw_hot": 81690,
       "num": 86143,
       "word": "刘诗诗窦骁捧花合照",
       "onboard_time": 1718727797,
@@ -323,20 +323,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73138,
-      "num": 86180,
-      "word": "渺念萤草典藏皮肤",
-      "onboard_time": 1718723480,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 78230,
+      "num": 86193,
+      "word": "上班搭子离职等于断崖式分手",
+      "onboard_time": 1718725397,
+      "rank": 41,
+      "category": "情感"
     },
     {
-      "raw_hot": 72559,
+      "raw_hot": 77283,
+      "num": 77283,
+      "word": "周深新专下篇先行曲嗨",
+      "onboard_time": 1718727977,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 74238,
       "num": 86169,
       "word": "欧洲杯预测",
       "onboard_time": 1718726658,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73706,
+      "num": 86180,
+      "word": "渺念萤草典藏皮肤",
+      "onboard_time": 1718723480,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 71002,
@@ -379,6 +395,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 53453,
+      "num": 66754,
+      "word": "玫瑰的故事预告",
+      "onboard_time": 1718721438,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45597,
       "num": 119115,
       "word": "斯坦福博士考乡镇公务员是大材小用吗",
@@ -387,7 +411,15 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 12081,
+      "raw_hot": 23509,
+      "num": 157153,
+      "word": "税务部门没有倒查20年30年的安排",
+      "onboard_time": 1718705837,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15134,
       "num": 336517,
       "word": "暴雨涨水4人被困消防员搭生命桥",
       "onboard_time": 1718726717,
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#做好防汛抗旱抢险救灾各项工作#"
+    },
+    {
+      "word": "#习近平对防汛抗旱工作作出重要指示#"
     }
   ]
 }

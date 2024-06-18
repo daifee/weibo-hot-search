@@ -1,0 +1,410 @@
+{
+  "runTime": 1718728787401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 748911,
+        "num": 748911,
+        "word": "直播工作 每月2万保底工资",
+        "onboard_time": 1718724201,
+        "rank": 0,
+        "category": "科学科普,网红"
+      },
+      {
+        "raw_hot": 732481,
+        "num": 732481,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5718,
+        "num": 540610,
+        "word": "国之重器更是国之底气",
+        "onboard_time": 1718669237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535990,
+        "num": 535990,
+        "word": "丝芭回应鞠婧祎到期不续",
+        "onboard_time": 1718718198,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401956,
+        "num": 401956,
+        "word": "翻白眼两周后视力恢复正常状态",
+        "onboard_time": 1718722278,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188390,
+        "num": 374639,
+        "word": "瑞幸回应喝西梅美式腹泻",
+        "onboard_time": 1718711058,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351050,
+        "num": 351050,
+        "word": "开始推理吧 何炅",
+        "onboard_time": 1718721559,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332139,
+        "num": 332139,
+        "word": "庄国栋带孩子",
+        "onboard_time": 1718720300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289971,
+        "num": 289971,
+        "word": "高铁晚点 补偿",
+        "onboard_time": 1718715498,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 139904,
+        "num": 288678,
+        "word": "科大讯飞内部通报员工去世",
+        "onboard_time": 1718709557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478776,
+        "num": 288029,
+        "word": "罗小黑 作者",
+        "onboard_time": 1718720359,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 321189,
+        "num": 285547,
+        "word": "南拳妈妈内斗",
+        "onboard_time": 1718723240,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310142,
+        "num": 282913,
+        "word": "张杰谢娜临时公开恋情的原因",
+        "onboard_time": 1718713997,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282651,
+        "num": 282651,
+        "word": "性格内向的人看起来更显小",
+        "onboard_time": 1718719399,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218285,
+        "num": 218285,
+        "word": "丝芭曾为鞠婧祎定制四部剧",
+        "onboard_time": 1718721020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195804,
+        "num": 195804,
+        "word": "做得好啊任天堂",
+        "onboard_time": 1718722219,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 913253,
+        "num": 191946,
+        "word": "冷藏车事故遇难者儿子发声",
+        "onboard_time": 1718723897,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173703,
+        "num": 173703,
+        "word": "中餐厅 虞书欣",
+        "onboard_time": 1718701218,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105621,
+        "num": 167935,
+        "word": "土耳其vs格鲁吉亚",
+        "onboard_time": 1718724438,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102422,
+        "num": 159120,
+        "word": "C罗比赛",
+        "onboard_time": 1718716579,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23509,
+        "num": 157153,
+        "word": "税务部门没有倒查20年30年的安排",
+        "onboard_time": 1718705837,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271219,
+        "num": 143656,
+        "word": "存了8万后变成了病态省钱",
+        "onboard_time": 1718710996,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252310,
+        "num": 136327,
+        "word": "鞠婧祎 到期不续",
+        "onboard_time": 1718709137,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135534,
+        "num": 135534,
+        "word": "荣梓杉想演张若昀赵丽颖的儿子",
+        "onboard_time": 1718721500,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124577,
+        "num": 124577,
+        "word": "发现了掉秤最快的方法",
+        "onboard_time": 1718719459,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 123781,
+        "num": 123781,
+        "word": "2024任天堂直面会",
+        "onboard_time": 1718726418,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114669,
+        "num": 114669,
+        "word": "玫瑰的故事收视率新高",
+        "onboard_time": 1718724798,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105607,
+        "num": 105607,
+        "word": "跳跳俏俏对张杰谢娜签名照的区别",
+        "onboard_time": 1718723779,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104262,
+        "num": 104262,
+        "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
+        "onboard_time": 1718716699,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40019,
+        "num": 101280,
+        "word": "斯坦福博士考乡镇公务员是大材小用吗",
+        "onboard_time": 1718720178,
+        "rank": 29,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 104565,
+        "num": 100703,
+        "word": "带男朋友回家后发现家人很冷漠",
+        "onboard_time": 1718723660,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15134,
+        "num": 100115,
+        "word": "暴雨涨水4人被困消防员搭生命桥",
+        "onboard_time": 1718726717,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 100104,
+        "word": "张云龙曾舜晞曾拒演墨雨云间",
+        "onboard_time": 1718715379,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85225,
+        "num": 85225,
+        "word": "谢娜回复了好多心",
+        "onboard_time": 1718725517,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83688,
+        "num": 83688,
+        "word": "张新成做了近视眼手术",
+        "onboard_time": 1718712798,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82365,
+        "num": 82365,
+        "word": "胡歌 我可能是第一个被告",
+        "onboard_time": 1718722940,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82273,
+        "num": 82273,
+        "word": "塞尔达新作",
+        "onboard_time": 1718722219,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81690,
+        "num": 81690,
+        "word": "刘诗诗窦骁捧花合照",
+        "onboard_time": 1718727797,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81295,
+        "num": 81295,
+        "word": "还好不是刘亦菲",
+        "onboard_time": 1718709258,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74238,
+        "num": 79823,
+        "word": "欧洲杯预测",
+        "onboard_time": 1718726658,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78923,
+        "num": 78923,
+        "word": "王传君想看易烊千玺王一博演杀手",
+        "onboard_time": 1718721980,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78230,
+        "num": 78230,
+        "word": "上班搭子离职等于断崖式分手",
+        "onboard_time": 1718725397,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77283,
+        "num": 77283,
+        "word": "周深新专下篇先行曲嗨",
+        "onboard_time": 1718727977,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 73706,
+        "num": 73706,
+        "word": "渺念萤草典藏皮肤",
+        "onboard_time": 1718723480,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 71557,
+        "num": 71557,
+        "word": "碧梨Jennie同框",
+        "onboard_time": 1718717359,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 69084,
+        "num": 69084,
+        "word": "佟大为说刘诗诗的哭戏令人震撼",
+        "onboard_time": 1718719698,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67086,
+        "num": 67086,
+        "word": "养了6年的兔子给我做了个窝",
+        "onboard_time": 1718715318,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66756,
+        "num": 66756,
+        "word": "宝鸡地震",
+        "onboard_time": 1718715078,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54869,
+        "num": 66756,
+        "word": "没有水果可以逃过医学生的手和嘴",
+        "onboard_time": 1718722819,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53453,
+        "num": 66754,
+        "word": "玫瑰的故事预告",
+        "onboard_time": 1718721438,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛抗旱工作作出重要指示#"
+    }
+  }
+}
