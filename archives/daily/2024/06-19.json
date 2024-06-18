@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718745488854,
+  "endTime": 1718746489744,
   "band_list": [
     {
       "raw_hot": 1047398,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82701,
+      "num": 82701,
+      "word": "韩总统称将严肃处理医生停诊行为",
+      "onboard_time": 1718739850,
+      "rank": 13,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 81690,
       "num": 86143,
       "word": "刘诗诗窦骁捧花合照",
@@ -337,14 +345,6 @@
       "onboard_time": 1718725397,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 77430,
-      "num": 77430,
-      "word": "韩总统称将严肃处理医生停诊行为",
-      "onboard_time": 1718739850,
-      "rank": 13,
-      "category": "国外时政"
     },
     {
       "raw_hot": 77283,
@@ -507,8 +507,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24851,
-      "num": 24851,
+      "raw_hot": 30799,
+      "num": 30799,
+      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+      "onboard_time": 1718742671,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26996,
+      "num": 26996,
       "word": "姆巴佩无缘对阵荷兰",
       "onboard_time": 1718740811,
       "rank": 37,
@@ -523,14 +531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23258,
-      "num": 23258,
-      "word": "高铁乘客想放倒座椅遭后排一脚抵住",
-      "onboard_time": 1718742671,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22429,
       "num": 22429,
       "word": "618",
@@ -539,16 +539,24 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 16830,
-      "num": 16830,
+      "raw_hot": 18293,
+      "num": 18293,
       "word": "菲称对非法坐滩军舰补给失败",
       "onboard_time": 1718742730,
       "rank": 47,
       "category": "国外时政"
     },
     {
+      "raw_hot": 18088,
+      "num": 18088,
+      "word": "你平时喝瑞幸吗",
+      "onboard_time": 1718740570,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 15511,
-      "num": 15511,
+      "num": 15674,
       "word": "欧洲杯",
       "onboard_time": 1718630237,
       "rank": 42,
@@ -561,14 +569,6 @@
       "onboard_time": 1718726717,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14826,
-      "num": 16475,
-      "word": "你平时喝瑞幸吗",
-      "onboard_time": 1718740570,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 10768,
