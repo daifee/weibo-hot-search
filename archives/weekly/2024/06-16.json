@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718782486960,
+  "endTime": 1718785465809,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1005195,
+      "num": 312948,
+      "word": "歌手官宣张远冲榜",
+      "onboard_time": 1718782759,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1004666,
       "num": 1004666,
       "word": "龚翔宇哭了",
@@ -993,6 +1001,14 @@
       "onboard_time": 1718676977,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785604,
+      "num": 275928,
+      "word": "韩国网友问中国有登山的地方吗",
+      "onboard_time": 1718782221,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 782974,
@@ -2115,6 +2131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 474686,
+      "num": 182514,
+      "word": "武艺一天官宣了两部综艺",
+      "onboard_time": 1718782702,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 473800,
       "num": 473800,
       "word": "张馨予玫瑰的故事观后感",
@@ -3195,6 +3219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339320,
+      "num": 272495,
+      "word": "墨雨云间 原来表哥什么都知道",
+      "onboard_time": 1718781560,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339251,
       "num": 339251,
       "word": "当事人回应在高考后订婚",
@@ -3427,6 +3459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318166,
+      "num": 270096,
+      "word": "关芝芝活成了玫瑰曾经的样子",
+      "onboard_time": 1718784198,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316439,
       "num": 287360,
       "word": "墨雨云间",
@@ -3545,14 +3585,6 @@
       "onboard_time": 1718463259,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 304575,
-      "num": 182443,
-      "word": "韩国网友问中国有登山的地方吗",
-      "onboard_time": 1718782221,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 302524,
@@ -4017,6 +4049,14 @@
       "onboard_time": 1718542277,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 265885,
+      "num": 181882,
+      "word": "罗云熙一眼就能认出七仔",
+      "onboard_time": 1718784499,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 265248,
@@ -4531,11 +4571,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223382,
-      "num": 216422,
-      "word": "墨雨云间 原来表哥什么都知道",
-      "onboard_time": 1718781560,
-      "rank": 22,
+      "raw_hot": 223211,
+      "num": 181033,
+      "word": "与凤行行云小院拆除",
+      "onboard_time": 1718783721,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -6043,6 +6083,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 178611,
+      "num": 178611,
+      "word": "何炅 内娱活水印",
+      "onboard_time": 1718782580,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 178514,
       "num": 178514,
       "word": "RIIZE空降",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1718631919,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170889,
+      "num": 183290,
+      "word": "星穹铁道2.3",
+      "onboard_time": 1718784140,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 170646,
@@ -7579,6 +7635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139939,
+      "num": 139939,
+      "word": "初级会计成绩",
+      "onboard_time": 1718785342,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139777,
       "num": 312626,
       "word": "记者暗访鸭鹅肠工厂电话被李主任泄漏",
@@ -7609,6 +7673,14 @@
       "onboard_time": 1718504839,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138924,
+      "num": 138924,
+      "word": "黄景瑜这个歪头有点东西",
+      "onboard_time": 1718784560,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 138872,
@@ -7649,6 +7721,14 @@
       "onboard_time": 1718536938,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137379,
+      "num": 137379,
+      "word": "姜元柏七宗罪",
+      "onboard_time": 1718785100,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 137368,
@@ -7707,6 +7787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135596,
+      "num": 135596,
+      "word": "桂林的雨到底有多大",
+      "onboard_time": 1718782879,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 135400,
       "num": 135400,
       "word": "一艘潜艇的微短剧把我看哭了",
@@ -7761,6 +7849,14 @@
       "onboard_time": 1718535319,
       "rank": 38,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 134336,
+      "num": 117649,
+      "word": "助理称鞠婧祎未签署补充协议",
+      "onboard_time": 1718784020,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 134328,
@@ -8113,6 +8209,14 @@
       "onboard_time": 1718706077,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129042,
+      "num": 129042,
+      "word": "王嘉尔 没有感情的合照机器",
+      "onboard_time": 1718785281,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 128992,
@@ -9099,6 +9203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 107963,
+      "num": 107963,
+      "word": "并蒂莲花苞",
+      "onboard_time": 1718782759,
+      "rank": 45,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 107678,
       "num": 174116,
       "word": "梅州洪涝1190名消防员增援赶赴",
@@ -9265,6 +9377,14 @@
       "onboard_time": 1718502256,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103437,
+      "num": 103437,
+      "word": "建华和更新",
+      "onboard_time": 1718785401,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 103333,
@@ -10467,6 +10587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53778,
+      "num": 278184,
+      "word": "专属于成都人夏天的香味",
+      "onboard_time": 1718784679,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 53453,
       "num": 66754,
       "word": "玫瑰的故事预告",
@@ -11011,6 +11139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32330,
+      "num": 104950,
+      "word": "沙特麦加气温超50度550人热死",
+      "onboard_time": 1718784679,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32109,
       "num": 259604,
       "word": "永劫手游终测开启",
@@ -11033,6 +11169,14 @@
       "onboard_time": 1718634858,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 30896,
+      "num": 179335,
+      "word": "黄渤评价吴磊",
+      "onboard_time": 1718782341,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 30815,
@@ -11568,14 +11712,6 @@
       "word": "微博电影之夜神图",
       "onboard_time": 1718627477,
       "rank": 41,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 8957,
-      "num": 119459,
-      "word": "黄渤评价吴磊",
-      "onboard_time": 1718782341,
-      "rank": 42,
       "category": "电影"
     },
     {
