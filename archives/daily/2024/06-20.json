@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718818532394,
+  "endTime": 1718821549643,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -443,20 +443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11770,
+      "num": 157367,
+      "word": "中部崛起新动力",
+      "onboard_time": 1718803520,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10752,
       "num": 115618,
       "word": "白衣小伙教科书式救助误入高架老人",
       "onboard_time": 1718807301,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 8895,
-      "num": 157367,
-      "word": "中部崛起新动力",
-      "onboard_time": 1718803520,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
