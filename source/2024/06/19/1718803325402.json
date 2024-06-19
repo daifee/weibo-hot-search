@@ -1,0 +1,410 @@
+{
+  "runTime": 1718803325402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2292139,
+        "num": 2292139,
+        "word": "复旦",
+        "onboard_time": 1718798479,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904123,
+        "num": 904123,
+        "word": "黄亦玫离婚",
+        "onboard_time": 1718795959,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61179,
+        "num": 735362,
+        "word": "这些毕业祝福送到心里了",
+        "onboard_time": 1718788400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609040,
+        "num": 609040,
+        "word": "素媛案罪犯赵斗淳再出狱",
+        "onboard_time": 1718796499,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557787,
+        "num": 557787,
+        "word": "赵露思把耳机挂腰上",
+        "onboard_time": 1718801181,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 407399,
+        "num": 407399,
+        "word": "住持和女主播发生关系被敲诈案宣判",
+        "onboard_time": 1718797219,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449991,
+        "num": 392067,
+        "word": "SM英国男团颜值",
+        "onboard_time": 1718799018,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 374280,
+        "num": 374280,
+        "word": "林更新这句我骂不动他了",
+        "onboard_time": 1718776101,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359294,
+        "num": 359294,
+        "word": "韩国宣布进入人口危机紧急状态",
+        "onboard_time": 1718785642,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 312597,
+        "num": 312597,
+        "word": "74位计算机毕业生的薪资",
+        "onboard_time": 1718797998,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912505,
+        "num": 310813,
+        "word": "一家7口套现20亿",
+        "onboard_time": 1718791759,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 334591,
+        "num": 310073,
+        "word": "长公主初代爱疯",
+        "onboard_time": 1718800159,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295867,
+        "num": 295867,
+        "word": "田曦薇艺考素颜麻花辫照",
+        "onboard_time": 1718796078,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246721,
+        "num": 246721,
+        "word": "天蝎座突然冷淡的原因",
+        "onboard_time": 1718802440,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38406,
+        "num": 246641,
+        "word": "医生称学医不是困难家庭学子优选",
+        "onboard_time": 1718802019,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246584,
+        "num": 246584,
+        "word": "复旦回应学生毕业典礼挥拳打老师",
+        "onboard_time": 1718802798,
+        "rank": 15,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 243769,
+        "num": 243769,
+        "word": "恋综最好用的脑子出现了",
+        "onboard_time": 1718799620,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227204,
+        "num": 227204,
+        "word": "家境贫寒适合读法学吗",
+        "onboard_time": 1718801959,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 217680,
+        "num": 217680,
+        "word": "周深南京",
+        "onboard_time": 1718800879,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213413,
+        "num": 213413,
+        "word": "初级会计成绩",
+        "onboard_time": 1718785342,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 598170,
+        "num": 211722,
+        "word": "有车有房存款30万适合回县城吗",
+        "onboard_time": 1718798418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26217,
+        "num": 209782,
+        "word": "边防官兵一次巡逻穿越四季",
+        "onboard_time": 1718797638,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209188,
+        "num": 209188,
+        "word": "鞠婧祎小号发博",
+        "onboard_time": 1718780541,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194344,
+        "num": 194344,
+        "word": "吴谨言王星越 芭莎",
+        "onboard_time": 1718786780,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193316,
+        "num": 193316,
+        "word": "小伙刮到第13张喜中100万大奖",
+        "onboard_time": 1718802620,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30131,
+        "num": 187315,
+        "word": "福宝徒手掰竹溜到飞起",
+        "onboard_time": 1718803220,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185688,
+        "num": 185688,
+        "word": "潜意识爱上一个人的表现",
+        "onboard_time": 1718801059,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183771,
+        "num": 183771,
+        "word": "陈晓方未回应婚姻破裂传闻",
+        "onboard_time": 1718773463,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176353,
+        "num": 176353,
+        "word": "孩子吃华莱士汉堡吃出生肉",
+        "onboard_time": 1718793860,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139064,
+        "num": 173432,
+        "word": "一个听起来很香的本科专业",
+        "onboard_time": 1718800879,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172994,
+        "num": 172994,
+        "word": "短发的田曦薇",
+        "onboard_time": 1718802979,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170507,
+        "num": 170507,
+        "word": "退钱哥吐槽欧洲杯上厕所1欧元",
+        "onboard_time": 1718798660,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168514,
+        "num": 168514,
+        "word": "歌手官宣张远冲榜",
+        "onboard_time": 1718782759,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154983,
+        "num": 154983,
+        "word": "男朋友拿筋膜枪洗杨梅",
+        "onboard_time": 1718788700,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154927,
+        "num": 154927,
+        "word": "Jennie第一条TikTok",
+        "onboard_time": 1718789660,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146586,
+        "num": 146586,
+        "word": "黄霄雲再来歌手轻舟已过万重山",
+        "onboard_time": 1718801418,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144380,
+        "num": 144380,
+        "word": "性侵中国女游客的韩酒店员工已返岗",
+        "onboard_time": 1718775560,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121577,
+        "num": 121577,
+        "word": "潜艇兵看钟表才能知道日出日落",
+        "onboard_time": 1718802259,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 115667,
+        "num": 115667,
+        "word": "电影版开端",
+        "onboard_time": 1718791879,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29005,
+        "num": 114620,
+        "word": "特仑苏代言人靳东法国传递圣火",
+        "onboard_time": 1718803040,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114427,
+        "num": 114427,
+        "word": "李宇春厦门抢票",
+        "onboard_time": 1718803100,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111333,
+        "num": 111333,
+        "word": "王星越别看",
+        "onboard_time": 1718796018,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110234,
+        "num": 110234,
+        "word": "真的建议报考上海交通大学",
+        "onboard_time": 1718803220,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109640,
+        "num": 109640,
+        "word": "黄亦玫傅家明互怼开局",
+        "onboard_time": 1718803159,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104728,
+        "num": 104728,
+        "word": "博主称选专业不能只看红利要看擅长",
+        "onboard_time": 1718802738,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101602,
+        "num": 101602,
+        "word": "中央军委政治工作会议在延安召开",
+        "onboard_time": 1718793980,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101442,
+        "num": 101442,
+        "word": "王星越 不显老",
+        "onboard_time": 1718793679,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101267,
+        "num": 101267,
+        "word": "丝芭传媒持有鞠婧祎姓名域名",
+        "onboard_time": 1718790440,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97004,
+        "num": 99732,
+        "word": "巴黎奥运会女排分组抽签",
+        "onboard_time": 1718795478,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98893,
+        "num": 98893,
+        "word": "WB对战RNGM",
+        "onboard_time": 1718802559,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记嘱咐要让孩子们吃得营养健康#"
+    }
+  }
+}

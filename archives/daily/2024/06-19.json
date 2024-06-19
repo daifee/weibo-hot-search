@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718801520089,
+  "endTime": 1718803325402,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -16,6 +16,14 @@
       "word": "上海地铁发生持刀伤人案3人受伤",
       "onboard_time": 1718762598,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2292139,
+      "num": 2292139,
+      "word": "复旦",
+      "onboard_time": 1718798479,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1718773463,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1725154,
-      "num": 1725154,
-      "word": "复旦",
-      "onboard_time": 1718798479,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1716922,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 904123,
+      "num": 904123,
+      "word": "黄亦玫离婚",
+      "onboard_time": 1718795959,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 889769,
       "num": 500000,
       "word": "王嘉尔半裸出发图",
@@ -307,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 621810,
-      "num": 621810,
-      "word": "黄亦玫离婚",
-      "onboard_time": 1718795959,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 618273,
       "num": 176320,
       "word": "奔驰腰斩式降价",
@@ -329,6 +329,14 @@
       "onboard_time": 1718755758,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 598170,
+      "num": 225187,
+      "word": "有车有房存款30万适合回县城吗",
+      "onboard_time": 1718798418,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 581593,
@@ -361,6 +369,14 @@
       "onboard_time": 1718766919,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557787,
+      "num": 557787,
+      "word": "赵露思把耳机挂腰上",
+      "onboard_time": 1718801181,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 557332,
@@ -425,14 +441,6 @@
       "onboard_time": 1718791879,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 497260,
-      "num": 225187,
-      "word": "有车有房存款30万适合回县城吗",
-      "onboard_time": 1718798418,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 497061,
@@ -787,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334591,
+      "num": 310073,
+      "word": "长公主初代爱疯",
+      "onboard_time": 1718800159,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333071,
       "num": 333071,
       "word": "傅家明对黄亦玫不是一见钟情",
@@ -931,14 +947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 293640,
-      "num": 293640,
-      "word": "赵露思把耳机挂腰上",
-      "onboard_time": 1718801181,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 292943,
       "num": 271494,
       "word": "王星越 不显老",
@@ -1019,14 +1027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 271279,
-      "num": 191413,
-      "word": "长公主初代爱疯",
-      "onboard_time": 1718800159,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270938,
       "num": 248626,
       "word": "丝芭传媒持有鞠婧祎姓名域名",
@@ -1081,6 +1081,22 @@
       "onboard_time": 1718764937,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246721,
+      "num": 246721,
+      "word": "天蝎座突然冷淡的原因",
+      "onboard_time": 1718802440,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 246584,
+      "num": 246584,
+      "word": "复旦回应学生毕业典礼挥拳打老师",
+      "onboard_time": 1718802798,
+      "rank": 15,
+      "category": "社会负面"
     },
     {
       "raw_hot": 245189,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1718763798,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 227204,
+      "num": 227204,
+      "word": "家境贫寒适合读法学吗",
+      "onboard_time": 1718801959,
+      "rank": 17,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 223211,
@@ -1387,6 +1411,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 193316,
+      "num": 193316,
+      "word": "小伙刮到第13张喜中100万大奖",
+      "onboard_time": 1718802620,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188071,
       "num": 188071,
       "word": "美媒称贾斯汀汀布莱克被捕",
@@ -1433,6 +1465,14 @@
       "onboard_time": 1718755038,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185688,
+      "num": 185688,
+      "word": "潜意识爱上一个人的表现",
+      "onboard_time": 1718801059,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 185371,
@@ -1585,6 +1625,14 @@
       "onboard_time": 1718775619,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172994,
+      "num": 172994,
+      "word": "短发的田曦薇",
+      "onboard_time": 1718802979,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172639,
@@ -1843,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146586,
+      "num": 146586,
+      "word": "黄霄雲再来歌手轻舟已过万重山",
+      "onboard_time": 1718801418,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146346,
       "num": 146346,
       "word": "律师行贿法官妻子30万被认定金额小",
@@ -1881,14 +1937,6 @@
       "onboard_time": 1718781501,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 145022,
-      "num": 145022,
-      "word": "潜意识爱上一个人的表现",
-      "onboard_time": 1718801059,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 144950,
@@ -1953,6 +2001,14 @@
       "onboard_time": 1718734633,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139064,
+      "num": 317495,
+      "word": "一个听起来很香的本科专业",
+      "onboard_time": 1718800879,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 138659,
@@ -2163,6 +2219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121577,
+      "num": 121577,
+      "word": "潜艇兵看钟表才能知道日出日落",
+      "onboard_time": 1718802259,
+      "rank": 37,
+      "category": "军事"
+    },
+    {
       "raw_hot": 121090,
       "num": 121090,
       "word": "离职后第一件事",
@@ -2227,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114427,
+      "num": 114427,
+      "word": "李宇春厦门抢票",
+      "onboard_time": 1718803100,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114024,
       "num": 114024,
       "word": "阿Sa珍珠妆造",
@@ -2259,6 +2331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110234,
+      "num": 110234,
+      "word": "真的建议报考上海交通大学",
+      "onboard_time": 1718803220,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 109640,
+      "num": 109640,
+      "word": "黄亦玫傅家明互怼开局",
+      "onboard_time": 1718803159,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107963,
       "num": 107963,
       "word": "并蒂莲花苞",
@@ -2275,11 +2363,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105610,
-      "num": 317495,
-      "word": "一个听起来很香的本科专业",
-      "onboard_time": 1718800879,
-      "rank": 9,
+      "raw_hot": 104728,
+      "num": 104728,
+      "word": "博主称选专业不能只看红利要看擅长",
+      "onboard_time": 1718802738,
+      "rank": 44,
       "category": "教育"
     },
     {
@@ -2315,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98893,
+      "num": 98893,
+      "word": "WB对战RNGM",
+      "onboard_time": 1718802559,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98065,
       "num": 98065,
       "word": "王传君想看易烊千玺王一博演杀手",
@@ -2336,14 +2432,6 @@
       "word": "喜欢你我也是",
       "onboard_time": 1718780121,
       "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 96279,
-      "num": 96279,
-      "word": "黄霄雲再来歌手轻舟已过万重山",
-      "onboard_time": 1718801418,
-      "rank": 44,
       "category": "综艺"
     },
     {
@@ -2635,6 +2723,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 61179,
+      "num": 833507,
+      "word": "这些毕业祝福送到心里了",
+      "onboard_time": 1718788400,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59456,
       "num": 256184,
       "word": "农学生为了毕业总是痛并快乐着",
@@ -2657,14 +2753,6 @@
       "onboard_time": 1718735352,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55533,
-      "num": 833507,
-      "word": "这些毕业祝福送到心里了",
-      "onboard_time": 1718788400,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 53453,
@@ -2803,6 +2891,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 38406,
+      "num": 246641,
+      "word": "医生称学医不是困难家庭学子优选",
+      "onboard_time": 1718802019,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36137,
       "num": 378196,
       "word": "快递保鲜费引争议",
@@ -2857,6 +2953,22 @@
       "onboard_time": 1718776820,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30131,
+      "num": 187315,
+      "word": "福宝徒手掰竹溜到飞起",
+      "onboard_time": 1718803220,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29005,
+      "num": 114620,
+      "word": "特仑苏代言人靳东法国传递圣火",
+      "onboard_time": 1718803040,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 26996,
@@ -3002,6 +3114,9 @@
     },
     {
       "word": "#习近平在青海省考察调研#"
+    },
+    {
+      "word": "#总书记嘱咐要让孩子们吃得营养健康#"
     }
   ]
 }
