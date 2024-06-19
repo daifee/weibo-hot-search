@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718836498515,
+  "endTime": 1718839192423,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284087,
+      "num": 97325,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240178,
       "num": 240178,
       "word": "赵露思把耳机挂腰上",
@@ -123,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189428,
+      "num": 189428,
+      "word": "德国2比0匈牙利",
+      "onboard_time": 1718838975,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185076,
       "num": 185076,
       "word": "孟子义和徐志胜差点有吻戏",
@@ -155,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145712,
+      "num": 145712,
+      "word": "德国晋级欧洲杯16强",
+      "onboard_time": 1718838495,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145346,
       "num": 145346,
       "word": "黄亦玫离婚",
@@ -169,14 +193,6 @@
       "onboard_time": 1718807239,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126412,
-      "num": 50335,
-      "word": "逃离家暴的女网红想离婚被开价50万",
-      "onboard_time": 1718823612,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 122193,
@@ -291,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94994,
+      "num": 81469,
+      "word": "腹型肥胖健康隐患大",
+      "onboard_time": 1718836334,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 94865,
       "num": 94865,
       "word": "真的建议报考上海交通大学",
@@ -299,11 +323,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 90498,
+      "num": 90498,
+      "word": "苏格兰1比1瑞士",
+      "onboard_time": 1718838975,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87324,
       "num": 93955,
       "word": "经纪人拍马思纯",
       "onboard_time": 1718814197,
       "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86702,
+      "num": 86702,
+      "word": "腾讯视频回应行云小院拆除",
+      "onboard_time": 1718831890,
+      "rank": 49,
       "category": "作品衍生"
     },
     {
@@ -387,20 +427,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68455,
+      "num": 62200,
+      "word": "德国欧洲杯两连胜",
+      "onboard_time": 1718839096,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66774,
       "num": 94046,
       "word": "奇葩说辩手罗淼发长文力挺姜萍",
       "onboard_time": 1718807780,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65652,
-      "num": 47246,
-      "word": "腾讯视频回应行云小院拆除",
-      "onboard_time": 1718831890,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62513,
@@ -411,8 +451,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 58312,
-      "num": 58312,
+      "raw_hot": 62334,
+      "num": 62334,
       "word": "短发的田曦薇",
       "onboard_time": 1718802979,
       "rank": 30,
@@ -433,6 +473,38 @@
       "onboard_time": 1718780541,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33675,
+      "num": 44902,
+      "word": "碧梨jennie合照",
+      "onboard_time": 1718825110,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 32896,
+      "num": 44898,
+      "word": "外交部回应菲律宾侵闯仁爱礁",
+      "onboard_time": 1718824572,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31885,
+      "num": 44893,
+      "word": "2024年新增24个本科专业",
+      "onboard_time": 1718822591,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 28557,
+      "num": 367001,
+      "word": "中部崛起新动力",
+      "onboard_time": 1718803520,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25549,
@@ -465,46 +537,6 @@
       "onboard_time": 1718812518,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20915,
-      "num": 24672,
-      "word": "碧梨jennie合照",
-      "onboard_time": 1718825110,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 19932,
-      "num": 24774,
-      "word": "外交部回应菲律宾侵闯仁爱礁",
-      "onboard_time": 1718824572,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 16966,
-      "num": 16966,
-      "word": "2024年新增24个本科专业",
-      "onboard_time": 1718822591,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 15687,
-      "num": 179991,
-      "word": "中部崛起新动力",
-      "onboard_time": 1718803520,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15289,
-      "num": 24663,
-      "word": "腹型肥胖健康隐患大",
-      "onboard_time": 1718836334,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14955,
