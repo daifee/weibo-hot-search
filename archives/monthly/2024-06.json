@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718822320339,
+  "endTime": 1718824573601,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -55395,6 +55395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24218,
+      "num": 24218,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24145,
       "num": 254765,
       "word": "倪妮镜头里的黄渤",
@@ -56075,6 +56083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 16966,
+      "num": 16966,
+      "word": "2024年新增24个本科专业",
+      "onboard_time": 1718822591,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 16932,
       "num": 346118,
       "word": "微博电影之夜毕业季信箱",
@@ -56451,6 +56467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 13312,
+      "num": 16945,
+      "word": "straykids回归预告",
+      "onboard_time": 1718818633,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 13283,
       "num": 66803,
       "word": "独臂爸爸陪女儿玩石头剪刀布",
@@ -56473,6 +56497,14 @@
       "onboard_time": 1717608852,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 13101,
+      "num": 16944,
+      "word": "徐明浩巴黎路透",
+      "onboard_time": 1718823131,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 12959,

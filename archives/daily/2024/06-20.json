@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718822320339,
+  "endTime": 1718824573601,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -427,6 +427,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 24218,
+      "num": 24218,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23751,
       "num": 466685,
       "word": "中国式现代化的万千气象",
@@ -441,6 +449,30 @@
       "onboard_time": 1718812518,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16966,
+      "num": 16966,
+      "word": "2024年新增24个本科专业",
+      "onboard_time": 1718822591,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 13312,
+      "num": 16945,
+      "word": "straykids回归预告",
+      "onboard_time": 1718818633,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 13101,
+      "num": 16944,
+      "word": "徐明浩巴黎路透",
+      "onboard_time": 1718823131,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 11770,
