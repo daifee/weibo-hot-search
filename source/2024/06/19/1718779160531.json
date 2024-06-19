@@ -1,0 +1,410 @@
+{
+  "runTime": 1718779160531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052493,
+        "num": 1052493,
+        "word": "林更新这句我骂不动他了",
+        "onboard_time": 1718776101,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429439,
+        "num": 429439,
+        "word": "50岁卖鱼大叔身材管理堪比明星",
+        "onboard_time": 1718770763,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55394,
+        "num": 428709,
+        "word": "致敬暴雨中的守护力量",
+        "onboard_time": 1718766320,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1343601,
+        "num": 415281,
+        "word": "性侵中国女游客的韩酒店员工已返岗",
+        "onboard_time": 1718775560,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 925756,
+        "num": 409532,
+        "word": "张远 歌手",
+        "onboard_time": 1718778260,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357088,
+        "num": 395133,
+        "word": "台湾新冠重症及死亡病例大增",
+        "onboard_time": 1718768361,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392257,
+        "num": 392257,
+        "word": "墨雨云间这下是真出息了",
+        "onboard_time": 1718774242,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 391779,
+        "num": 391779,
+        "word": "黄霄雲冲榜歌手2024",
+        "onboard_time": 1718772562,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256313,
+        "num": 256313,
+        "word": "胖东来调改永辉超市重新开业",
+        "onboard_time": 1718765296,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59456,
+        "num": 256184,
+        "word": "农学生为了毕业总是痛并快乐着",
+        "onboard_time": 1718776221,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1303928,
+        "num": 255805,
+        "word": "陈晓方未回应婚姻破裂传闻",
+        "onboard_time": 1718773463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398193,
+        "num": 255496,
+        "word": "月经发黑有血块是怎么回事",
+        "onboard_time": 1718773463,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 356559,
+        "num": 255179,
+        "word": "呼和浩特一村5人遇害",
+        "onboard_time": 1718775021,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 319271,
+        "num": 255030,
+        "word": "鞠婧祎office",
+        "onboard_time": 1718776701,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32109,
+        "num": 254692,
+        "word": "永劫手游终测开启",
+        "onboard_time": 1718776820,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 311239,
+        "num": 254487,
+        "word": "罗小黑",
+        "onboard_time": 1718778079,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 285786,
+        "num": 254148,
+        "word": "王鹤棣用何炅洗发水卸妆",
+        "onboard_time": 1718778800,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281549,
+        "num": 253817,
+        "word": "上海地铁持刀伤人嫌犯被抓获",
+        "onboard_time": 1718762477,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314121,
+        "num": 253346,
+        "word": "鞠婧祎office发文",
+        "onboard_time": 1718777779,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253322,
+        "num": 253322,
+        "word": "桂林",
+        "onboard_time": 1718778020,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410146,
+        "num": 252838,
+        "word": "一旦离职这辈子你可能就定型了",
+        "onboard_time": 1718775981,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310149,
+        "num": 250786,
+        "word": "感染了HPV就一定是私生活混乱吗",
+        "onboard_time": 1718777120,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67786,
+        "num": 246818,
+        "word": "黄子韬奥斯卡",
+        "onboard_time": 1718775081,
+        "rank": 22,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 279718,
+        "num": 246041,
+        "word": "罗云熙向车主道歉",
+        "onboard_time": 1718754496,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278328,
+        "num": 242116,
+        "word": "全职考公考了三年都没上岸",
+        "onboard_time": 1718774002,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241192,
+        "num": 241192,
+        "word": "国际奥委会乒乓球女单未邀请陈梦",
+        "onboard_time": 1718778141,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271984,
+        "num": 239833,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224800,
+        "num": 224800,
+        "word": "原来长胖和减肥都是有滞后性的",
+        "onboard_time": 1718775921,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 183940,
+        "num": 183940,
+        "word": "北京警方通报夫妇开车违停挡路",
+        "onboard_time": 1718767518,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183925,
+        "num": 183925,
+        "word": "如何拥有一个没蚊子的夜晚",
+        "onboard_time": 1718776820,
+        "rank": 29,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 178400,
+        "num": 178400,
+        "word": "欢迎来到我身边",
+        "onboard_time": 1718778439,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 258282,
+        "num": 178130,
+        "word": "霍建华因被叫吃货而哭",
+        "onboard_time": 1718777060,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174418,
+        "num": 174418,
+        "word": "房租不超过工资的多少合适",
+        "onboard_time": 1718773403,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174240,
+        "num": 174240,
+        "word": "现在练车都在室内了吗",
+        "onboard_time": 1718773762,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171636,
+        "num": 171636,
+        "word": "歌手第七期冲榜赛海报",
+        "onboard_time": 1718770042,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171521,
+        "num": 171521,
+        "word": "Angelababy青衫琵琶",
+        "onboard_time": 1718766739,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170901,
+        "num": 170901,
+        "word": "王嘉尔半裸出发图",
+        "onboard_time": 1718759479,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161845,
+        "num": 161845,
+        "word": "原来练背真的能防脸垮",
+        "onboard_time": 1718777600,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 159615,
+        "num": 159615,
+        "word": "晚一天送到的荔枝质量断崖下跌",
+        "onboard_time": 1718773893,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149731,
+        "num": 149731,
+        "word": "爱出汗和出汗少的人谁更健康",
+        "onboard_time": 1718775981,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147588,
+        "num": 147588,
+        "word": "刘亦菲 她力量赛道",
+        "onboard_time": 1718775619,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133373,
+        "num": 133373,
+        "word": "胡歌吴磊同一航班回国",
+        "onboard_time": 1718775440,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127857,
+        "num": 127857,
+        "word": "这种饮料喝着不甜但升糖能力超高",
+        "onboard_time": 1718776820,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120685,
+        "num": 120685,
+        "word": "28省份公布高考出分时间",
+        "onboard_time": 1718777481,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119371,
+        "num": 119371,
+        "word": "周雨彤全身戴假发",
+        "onboard_time": 1718769383,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115904,
+        "num": 115904,
+        "word": "吴谨言演出了墨雨云间的虐感",
+        "onboard_time": 1718776461,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115827,
+        "num": 115827,
+        "word": "田曦薇你等等王安宇",
+        "onboard_time": 1718771962,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109452,
+        "num": 109452,
+        "word": "霍建华以为说明书是粉丝写的信",
+        "onboard_time": 1718767698,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108142,
+        "num": 108142,
+        "word": "颜心记",
+        "onboard_time": 1718779101,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102903,
+        "num": 102903,
+        "word": "胡彦斌现场观战C罗",
+        "onboard_time": 1718776888,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好防汛抗旱工作关键在于实#"
+    }
+  }
+}

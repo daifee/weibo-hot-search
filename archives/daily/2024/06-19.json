@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718778401818,
+  "endTime": 1718779160531,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1426896,
-      "num": 400822,
+      "num": 415281,
       "word": "性侵中国女游客的韩酒店员工已返岗",
       "onboard_time": 1718775560,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1718768361,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 925756,
+      "num": 409532,
+      "word": "张远 歌手",
+      "onboard_time": 1718778260,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 889769,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 457932,
-      "num": 218102,
+      "num": 252838,
       "word": "一旦离职这辈子你可能就定型了",
       "onboard_time": 1718775981,
       "rank": 20,
@@ -515,6 +523,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314121,
+      "num": 258091,
+      "word": "鞠婧祎office发文",
+      "onboard_time": 1718777779,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 311239,
+      "num": 254487,
+      "word": "罗小黑",
+      "onboard_time": 1718778079,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 310149,
+      "num": 250786,
+      "word": "感染了HPV就一定是私生活混乱吗",
+      "onboard_time": 1718777120,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 309571,
       "num": 309571,
       "word": "高铁晚点 补偿",
@@ -579,12 +611,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 286328,
-      "num": 210517,
-      "word": "感染了HPV就一定是私生活混乱吗",
-      "onboard_time": 1718777120,
-      "rank": 23,
-      "category": "健康医疗"
+      "raw_hot": 285786,
+      "num": 254148,
+      "word": "王鹤棣用何炅洗发水卸妆",
+      "onboard_time": 1718778800,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 283232,
@@ -617,14 +649,6 @@
       "onboard_time": 1718767338,
       "rank": 26,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 277974,
-      "num": 258091,
-      "word": "鞠婧祎office发文",
-      "onboard_time": 1718777779,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 274559,
@@ -667,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253322,
+      "num": 253322,
+      "word": "桂林",
+      "onboard_time": 1718778020,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248147,
       "num": 248147,
       "word": "鞠婧祎19岁至30岁颜值变化",
@@ -689,6 +721,14 @@
       "onboard_time": 1718721020,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241192,
+      "num": 241192,
+      "word": "国际奥委会乒乓球女单未邀请陈梦",
+      "onboard_time": 1718778141,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 239917,
@@ -731,12 +771,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 221102,
-      "num": 221102,
-      "word": "罗小黑",
-      "onboard_time": 1718778079,
-      "rank": 19,
-      "category": "动漫"
+      "raw_hot": 224800,
+      "num": 224800,
+      "word": "原来长胖和减肥都是有滞后性的",
+      "onboard_time": 1718775921,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 219307,
@@ -811,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203812,
-      "num": 203812,
-      "word": "原来长胖和减肥都是有滞后性的",
-      "onboard_time": 1718775921,
-      "rank": 26,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 203346,
       "num": 200227,
       "word": "你可能不知道的法律小常识",
@@ -849,14 +881,6 @@
       "onboard_time": 1718711058,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197838,
-      "num": 197838,
-      "word": "张远 歌手",
-      "onboard_time": 1718778260,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 197092,
@@ -947,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183925,
+      "num": 261773,
+      "word": "如何拥有一个没蚊子的夜晚",
+      "onboard_time": 1718776820,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 182330,
       "num": 182330,
       "word": "TheShy回应中分问题",
@@ -977,6 +1009,14 @@
       "onboard_time": 1718767759,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 178400,
+      "num": 178400,
+      "word": "欢迎来到我身边",
+      "onboard_time": 1718778439,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 177397,
@@ -1059,6 +1099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161845,
+      "num": 161845,
+      "word": "原来练背真的能防脸垮",
+      "onboard_time": 1718777600,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 156848,
       "num": 156848,
       "word": "胡歌吴磊同一航班回国",
@@ -1075,36 +1123,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 156463,
-      "num": 156463,
-      "word": "原来练背真的能防脸垮",
-      "onboard_time": 1718777600,
-      "rank": 36,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 156377,
-      "num": 156377,
-      "word": "国际奥委会乒乓球女单未邀请陈梦",
-      "onboard_time": 1718778141,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 156311,
       "num": 156311,
       "word": "翟潇闻出发录制中餐厅",
       "onboard_time": 1718769802,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155281,
-      "num": 155281,
-      "word": "桂林",
-      "onboard_time": 1718778020,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155129,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1718719459,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 149731,
+      "num": 149731,
+      "word": "爱出汗和出汗少的人谁更健康",
+      "onboard_time": 1718775981,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149558,
@@ -1219,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138875,
-      "num": 138875,
-      "word": "爱出汗和出汗少的人谁更健康",
-      "onboard_time": 1718775981,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 138659,
       "num": 138659,
       "word": "玫瑰的故事收视率新高",
@@ -1265,6 +1289,14 @@
       "onboard_time": 1718768660,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127857,
+      "num": 127857,
+      "word": "这种饮料喝着不甜但升糖能力超高",
+      "onboard_time": 1718776820,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 127242,
@@ -1323,14 +1355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 123778,
-      "num": 123778,
-      "word": "这种饮料喝着不甜但升糖能力超高",
-      "onboard_time": 1718776820,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 123732,
       "num": 123732,
       "word": "吴谨言演出了墨雨云间的虐感",
@@ -1363,6 +1387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 120685,
+      "num": 120685,
+      "word": "28省份公布高考出分时间",
+      "onboard_time": 1718777481,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119024,
       "num": 119024,
       "word": "带男朋友回家后发现家人很冷漠",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1718715379,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117939,
-      "num": 117939,
-      "word": "28省份公布高考出分时间",
-      "onboard_time": 1718777481,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 116116,
@@ -1411,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108142,
+      "num": 108142,
+      "word": "颜心记",
+      "onboard_time": 1718779101,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101722,
       "num": 119748,
       "word": "孔塞桑绝杀",
@@ -1425,14 +1457,6 @@
       "onboard_time": 1718752875,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99567,
-      "num": 261773,
-      "word": "如何拥有一个没蚊子的夜晚",
-      "onboard_time": 1718776820,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 98065,
@@ -1659,8 +1683,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 67306,
-      "num": 213410,
+      "raw_hot": 67786,
+      "num": 246818,
       "word": "黄子韬奥斯卡",
       "onboard_time": 1718775081,
       "rank": 40,
@@ -1697,6 +1721,14 @@
       "onboard_time": 1718723600,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 59456,
+      "num": 256184,
+      "word": "农学生为了毕业总是痛并快乐着",
+      "onboard_time": 1718776221,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58570,
@@ -1851,20 +1883,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32109,
+      "num": 259604,
+      "word": "永劫手游终测开启",
+      "onboard_time": 1718776820,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 26996,
       "num": 26996,
       "word": "姆巴佩无缘对阵荷兰",
       "onboard_time": 1718740811,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25419,
-      "num": 259604,
-      "word": "永劫手游终测开启",
-      "onboard_time": 1718776820,
-      "rank": 14,
-      "category": "游戏"
     },
     {
       "raw_hot": 23509,
