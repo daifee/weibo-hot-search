@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/19 19:17:26
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/19 19:34:45
 </p>
 </blockquote>
 <p>
@@ -2997,6 +2997,12 @@ iPhone有通话录音了（热度：1060619）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%BE%88%E5%B0%91%E6%8B%9B%E4%B8%AD%E5%8C%BB%E9%99%A2%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%23" target="weibo">
+医生称三甲医院很少招中医院校毕业生（热度：923932）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E8%84%91%E5%88%A0%E9%99%A4%E4%BA%863%E5%B2%81%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%23" target="weibo">
 为什么大脑删除了3岁前的记忆（热度：922632）
 </a>
@@ -4859,12 +4865,6 @@ iPhone17系列或迎来更薄机型（热度：688842）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B3%B0%E5%9B%BD%E9%81%AD%E5%81%87%E5%8F%B8%E6%9C%BA%E6%80%A7%E4%BE%B5%23" target="weibo">
 中国女游客在泰国遭假司机性侵（热度：683141）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%BE%88%E5%B0%91%E6%8B%9B%E4%B8%AD%E5%8C%BB%E9%99%A2%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%23" target="weibo">
-医生称三甲医院很少招中医院校毕业生（热度：682033）
 </a>
 </li>
 
