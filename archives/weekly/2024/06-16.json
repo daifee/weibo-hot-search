@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718829323381,
+  "endTime": 1718831976834,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -12811,6 +12811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17061,
+      "num": 17061,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 16973,
       "num": 159910,
       "word": "一份班主任准备了6年的礼物",
@@ -12931,12 +12939,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 13582,
-      "num": 13944,
-      "word": "学新闻不吃香了吗",
-      "onboard_time": 1718827691,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 13720,
+      "num": 13720,
+      "word": "丞磊自曝曾中度焦虑",
+      "onboard_time": 1718828651,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 13312,
@@ -12953,14 +12961,6 @@
       "onboard_time": 1718472794,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13203,
-      "num": 13693,
-      "word": "丞磊自曝曾中度焦虑",
-      "onboard_time": 1718828651,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 13101,
@@ -12993,6 +12993,14 @@
       "onboard_time": 1718646733,
       "rank": 25,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 11455,
+      "num": 13236,
+      "word": "腾讯视频回应行云小院拆除",
+      "onboard_time": 1718831890,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 11431,

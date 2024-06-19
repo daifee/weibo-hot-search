@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718829323381,
+  "endTime": 1718831976834,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -459,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17061,
+      "num": 17061,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 16966,
       "num": 16966,
       "word": "2024年新增24个本科专业",
@@ -475,12 +483,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 13582,
-      "num": 13944,
-      "word": "学新闻不吃香了吗",
-      "onboard_time": 1718827691,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 13720,
+      "num": 13720,
+      "word": "丞磊自曝曾中度焦虑",
+      "onboard_time": 1718828651,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 13312,
@@ -489,14 +497,6 @@
       "onboard_time": 1718818633,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 13203,
-      "num": 13693,
-      "word": "丞磊自曝曾中度焦虑",
-      "onboard_time": 1718828651,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 13101,
@@ -513,6 +513,14 @@
       "onboard_time": 1718803520,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11455,
+      "num": 13236,
+      "word": "腾讯视频回应行云小院拆除",
+      "onboard_time": 1718831890,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10752,
