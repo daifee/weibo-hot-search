@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718789769219,
+  "endTime": 1718792470099,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1552761,
-      "num": 637332,
+      "num": 783723,
       "word": "鞠婧祎小号发博",
       "onboard_time": 1718780541,
       "rank": 4,
@@ -1179,6 +1179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 721145,
+      "num": 253300,
+      "word": "男朋友拿筋膜枪洗杨梅",
+      "onboard_time": 1718788700,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 720653,
       "num": 720653,
       "word": "玫瑰的故事看生气了",
@@ -1691,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557332,
+      "num": 296486,
+      "word": "Jennie第一条TikTok",
+      "onboard_time": 1718789660,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557322,
       "num": 337397,
       "word": "瘦了20斤才敢说的实话",
@@ -2091,6 +2107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 489507,
+      "num": 277873,
+      "word": "一家7口套现20亿",
+      "onboard_time": 1718791759,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 484832,
       "num": 479943,
       "word": "想去林更新微博说两句但我骂不过他",
@@ -2276,7 +2300,7 @@
     },
     {
       "raw_hot": 457932,
-      "num": 252838,
+      "num": 284197,
       "word": "一旦离职这辈子你可能就定型了",
       "onboard_time": 1718775981,
       "rank": 20,
@@ -2417,6 +2441,14 @@
       "onboard_time": 1718767698,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433786,
+      "num": 275592,
+      "word": "巴黎奥运中国女排25人大名单",
+      "onboard_time": 1718790739,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 433153,
@@ -2689,14 +2721,6 @@
       "onboard_time": 1718752454,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399196,
-      "num": 296486,
-      "word": "Jennie第一条TikTok",
-      "onboard_time": 1718789660,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 399071,
@@ -3491,6 +3515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 323020,
+      "num": 273125,
+      "word": "奔跑吧匈牙利录制路透",
+      "onboard_time": 1718791340,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 321394,
       "num": 321394,
       "word": "TF三代出道战导师",
@@ -3739,6 +3771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296489,
+      "num": 252296,
+      "word": "乌尔善为什么拍异人之下",
+      "onboard_time": 1718790798,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 295836,
       "num": 295836,
       "word": "图图山我罩的 懂",
@@ -3801,6 +3841,14 @@
       "onboard_time": 1718588238,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289976,
+      "num": 251793,
+      "word": "薛芳菲还了前夫哥一滩污名",
+      "onboard_time": 1718791340,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 288457,
@@ -3963,14 +4011,6 @@
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 278230,
-      "num": 198857,
-      "word": "男朋友拿筋膜枪洗杨梅",
-      "onboard_time": 1718788700,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 277618,
       "num": 277618,
       "word": "恋与制作人",
@@ -4083,6 +4123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270938,
+      "num": 248626,
+      "word": "丝芭传媒持有鞠婧祎姓名域名",
+      "onboard_time": 1718790440,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270363,
       "num": 231726,
       "word": "刘昊然说瘦到119斤是工作",
@@ -4187,6 +4235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260038,
+      "num": 246098,
+      "word": "电影版开端",
+      "onboard_time": 1718791879,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259989,
       "num": 259989,
       "word": "狐妖现代番外",
@@ -4225,6 +4281,14 @@
       "onboard_time": 1718677576,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258699,
+      "num": 258699,
+      "word": "医生称三甲医院很少招中医院校毕业生",
+      "onboard_time": 1718791819,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257430,
@@ -4355,6 +4419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 245189,
+      "num": 245189,
+      "word": "重庆文旅发肖战打卡路线",
+      "onboard_time": 1718791099,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 244751,
       "num": 231242,
       "word": "钟楚曦美的像回家一样轻松",
@@ -4465,6 +4537,14 @@
       "onboard_time": 1718775921,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 235498,
+      "num": 235498,
+      "word": "网传歌手第七期歌单",
+      "onboard_time": 1718790559,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 235327,
@@ -5041,6 +5121,14 @@
       "onboard_time": 1718497216,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209460,
+      "num": 209460,
+      "word": "上海地铁持刀伤人发生在安检口外",
+      "onboard_time": 1718790559,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 209018,
@@ -6267,6 +6355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178052,
+      "num": 178052,
+      "word": "AI高考测试最高分303",
+      "onboard_time": 1718790739,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177981,
       "num": 177981,
       "word": "猫猫 开庭记得带上你那个破门",
@@ -7467,6 +7563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "法学首选五院四系",
+      "onboard_time": 1718791578,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148817,
       "num": 148817,
       "word": "王者S36新赛季元流之子",
@@ -7601,6 +7705,14 @@
       "onboard_time": 1718603416,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145782,
+      "num": 145782,
+      "word": "玫瑰的故事以爱之冥",
+      "onboard_time": 1718791399,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 145389,
@@ -8131,6 +8243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132590,
+      "num": 132590,
+      "word": "DNF手游应用商店合约到期",
+      "onboard_time": 1718791999,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132466,
       "num": 132466,
       "word": "张杰好奇曾比特的爆炸头",
@@ -8641,6 +8761,14 @@
       "onboard_time": 1718462840,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125335,
+      "num": 125335,
+      "word": "萧蘅登顶角色吸粉榜",
+      "onboard_time": 1718791520,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 125323,
@@ -10307,6 +10435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76509,
+      "num": 279142,
+      "word": "这条视频含荷量百分百",
+      "onboard_time": 1718791458,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 76175,
       "num": 76175,
       "word": "原来东北凌晨3点天就亮了",
@@ -11267,6 +11403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33156,
+      "num": 579312,
+      "word": "这些毕业祝福送到心里了",
+      "onboard_time": 1718788400,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32900,
       "num": 124391,
       "word": "京东618最后一波一元秒杀",
@@ -11345,14 +11489,6 @@
       "onboard_time": 1718525357,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 31236,
-      "num": 396204,
-      "word": "这些毕业祝福送到心里了",
-      "onboard_time": 1718788400,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 30929,
@@ -11480,6 +11616,14 @@
       "word": "新加坡30亿洗钱案最新进展",
       "onboard_time": 1718691317,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26492,
+      "num": 250394,
+      "word": "古人的27件文具个个有妙用",
+      "onboard_time": 1718791999,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -11905,6 +12049,14 @@
       "onboard_time": 1718557275,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10016,
+      "num": 272150,
+      "word": "魔力复兴代言人给你打视频了吗",
+      "onboard_time": 1718789899,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 9001,

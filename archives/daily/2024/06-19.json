@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718789769219,
+  "endTime": 1718792470099,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1552761,
-      "num": 637332,
+      "num": 783723,
       "word": "鞠婧祎小号发博",
       "onboard_time": 1718780541,
       "rank": 4,
@@ -251,6 +251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 721145,
+      "num": 253300,
+      "word": "男朋友拿筋膜枪洗杨梅",
+      "onboard_time": 1718788700,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 680368,
       "num": 182732,
       "word": "为什么牙缝里的黄色物质那么臭",
@@ -305,6 +313,14 @@
       "onboard_time": 1718766919,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 557332,
+      "num": 296486,
+      "word": "Jennie第一条TikTok",
+      "onboard_time": 1718789660,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 542419,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 489507,
+      "num": 277873,
+      "word": "一家7口套现20亿",
+      "onboard_time": 1718791759,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 482280,
       "num": 363997,
       "word": "赵露思卢昱晓早期合照",
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 457932,
-      "num": 252838,
+      "num": 284197,
       "word": "一旦离职这辈子你可能就定型了",
       "onboard_time": 1718775981,
       "rank": 20,
@@ -441,6 +465,14 @@
       "onboard_time": 1718767698,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433786,
+      "num": 275592,
+      "word": "巴黎奥运中国女排25人大名单",
+      "onboard_time": 1718790739,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 433153,
@@ -497,14 +529,6 @@
       "onboard_time": 1718752454,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399196,
-      "num": 296486,
-      "word": "Jennie第一条TikTok",
-      "onboard_time": 1718789660,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 398647,
@@ -667,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323020,
+      "num": 273125,
+      "word": "奔跑吧匈牙利录制路透",
+      "onboard_time": 1718791340,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 319165,
       "num": 319165,
       "word": "王鹤棣用何炅洗发水卸妆",
@@ -755,6 +787,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296489,
+      "num": 252296,
+      "word": "乌尔善为什么拍异人之下",
+      "onboard_time": 1718790798,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 289976,
+      "num": 251793,
+      "word": "薛芳菲还了前夫哥一滩污名",
+      "onboard_time": 1718791340,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285818,
       "num": 224032,
       "word": "奔跑吧",
@@ -803,14 +851,6 @@
       "category": "社会新闻,科学科普"
     },
     {
-      "raw_hot": 278230,
-      "num": 198857,
-      "word": "男朋友拿筋膜枪洗杨梅",
-      "onboard_time": 1718788700,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 274559,
       "num": 209973,
       "word": "霍建华因被叫吃货而哭",
@@ -825,6 +865,14 @@
       "onboard_time": 1718772922,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 270938,
+      "num": 248626,
+      "word": "丝芭传媒持有鞠婧祎姓名域名",
+      "onboard_time": 1718790440,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 269165,
@@ -851,12 +899,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260038,
+      "num": 246098,
+      "word": "电影版开端",
+      "onboard_time": 1718791879,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 259347,
       "num": 259347,
       "word": "房租不超过工资的多少合适",
       "onboard_time": 1718773403,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 258699,
+      "num": 258699,
+      "word": "医生称三甲医院很少招中医院校毕业生",
+      "onboard_time": 1718791819,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254852,
@@ -872,6 +936,14 @@
       "word": "鞠婧祎19岁至30岁颜值变化",
       "onboard_time": 1718764937,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 245189,
+      "num": 245189,
+      "word": "重庆文旅发肖战打卡路线",
+      "onboard_time": 1718791099,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -921,6 +993,14 @@
       "onboard_time": 1718775921,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 235498,
+      "num": 235498,
+      "word": "网传歌手第七期歌单",
+      "onboard_time": 1718790559,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 235277,
@@ -1017,6 +1097,14 @@
       "onboard_time": 1718765357,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 209460,
+      "num": 209460,
+      "word": "上海地铁持刀伤人发生在安检口外",
+      "onboard_time": 1718790559,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 209018,
@@ -1275,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178052,
+      "num": 178052,
+      "word": "AI高考测试最高分303",
+      "onboard_time": 1718790739,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177397,
       "num": 177397,
       "word": "歌手2024",
@@ -1491,6 +1587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "法学首选五院四系",
+      "onboard_time": 1718791578,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148817,
       "num": 148817,
       "word": "王者S36新赛季元流之子",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1718760799,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145782,
+      "num": 145782,
+      "word": "玫瑰的故事以爱之冥",
+      "onboard_time": 1718791399,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 145231,
@@ -1643,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132590,
+      "num": 132590,
+      "word": "DNF手游应用商店合约到期",
+      "onboard_time": 1718791999,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132249,
       "num": 132249,
       "word": "这种饮料喝着不甜但升糖能力超高",
@@ -1689,6 +1809,14 @@
       "onboard_time": 1718761337,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125335,
+      "num": 125335,
+      "word": "萧蘅登顶角色吸粉榜",
+      "onboard_time": 1718791520,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 124583,
@@ -2059,6 +2187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 76509,
+      "num": 279142,
+      "word": "这条视频含荷量百分百",
+      "onboard_time": 1718791458,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 74238,
       "num": 86169,
       "word": "欧洲杯预测",
@@ -2331,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33156,
+      "num": 579312,
+      "word": "这些毕业祝福送到心里了",
+      "onboard_time": 1718788400,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 32803,
       "num": 29315,
       "word": "C罗落幕首战会给葡萄牙带来什么表现",
@@ -2355,20 +2499,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 31236,
-      "num": 396204,
-      "word": "这些毕业祝福送到心里了",
-      "onboard_time": 1718788400,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 26996,
       "num": 26996,
       "word": "姆巴佩无缘对阵荷兰",
       "onboard_time": 1718740811,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26492,
+      "num": 250394,
+      "word": "古人的27件文具个个有妙用",
+      "onboard_time": 1718791999,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23509,
@@ -2449,6 +2593,14 @@
       "onboard_time": 1718722040,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10016,
+      "num": 272150,
+      "word": "魔力复兴代言人给你打视频了吗",
+      "onboard_time": 1718789899,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 8033,

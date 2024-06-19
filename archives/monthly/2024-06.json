@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718789769219,
+  "endTime": 1718792470099,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1252,7 +1252,7 @@
     },
     {
       "raw_hot": 1552761,
-      "num": 637332,
+      "num": 783723,
       "word": "鞠婧祎小号发博",
       "onboard_time": 1718780541,
       "rank": 4,
@@ -5907,6 +5907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 721145,
+      "num": 253300,
+      "word": "男朋友拿筋膜枪洗杨梅",
+      "onboard_time": 1718788700,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 721054,
       "num": 721054,
       "word": "会长是女仆大人 双强情侣",
@@ -8779,6 +8787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 557332,
+      "num": 296486,
+      "word": "Jennie第一条TikTok",
+      "onboard_time": 1718789660,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 557322,
       "num": 337397,
       "word": "瘦了20斤才敢说的实话",
@@ -10595,6 +10611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 489507,
+      "num": 277873,
+      "word": "一家7口套现20亿",
+      "onboard_time": 1718791759,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
       "raw_hot": 489087,
       "num": 489087,
       "word": "苗苗对郑恺一见钟情",
@@ -11516,7 +11540,7 @@
     },
     {
       "raw_hot": 457932,
-      "num": 252838,
+      "num": 284197,
       "word": "一旦离职这辈子你可能就定型了",
       "onboard_time": 1718775981,
       "rank": 20,
@@ -12369,6 +12393,14 @@
       "onboard_time": 1717730420,
       "rank": 47,
       "category": "艺人,教育"
+    },
+    {
+      "raw_hot": 433786,
+      "num": 275592,
+      "word": "巴黎奥运中国女排25人大名单",
+      "onboard_time": 1718790739,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 433318,
@@ -13521,14 +13553,6 @@
       "onboard_time": 1718419456,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 399196,
-      "num": 296486,
-      "word": "Jennie第一条TikTok",
-      "onboard_time": 1718789660,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 399184,
@@ -16883,6 +16907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323020,
+      "num": 273125,
+      "word": "奔跑吧匈牙利录制路透",
+      "onboard_time": 1718791340,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 322829,
       "num": 322829,
       "word": "荣梓杉高考",
@@ -18235,6 +18267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296489,
+      "num": 252296,
+      "word": "乌尔善为什么拍异人之下",
+      "onboard_time": 1718790798,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296397,
       "num": 296397,
       "word": "吴谨言用了薛芳菲微博表情",
@@ -18633,6 +18673,14 @@
       "onboard_time": 1718238679,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 289976,
+      "num": 251793,
+      "word": "薛芳菲还了前夫哥一滩污名",
+      "onboard_time": 1718791340,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 289957,
@@ -19315,14 +19363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 278230,
-      "num": 198857,
-      "word": "男朋友拿筋膜枪洗杨梅",
-      "onboard_time": 1718788700,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 278175,
       "num": 278175,
       "word": "mbti新题",
@@ -19921,6 +19961,14 @@
       "onboard_time": 1717566018,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270938,
+      "num": 248626,
+      "word": "丝芭传媒持有鞠婧祎姓名域名",
+      "onboard_time": 1718790440,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 270883,
@@ -20579,6 +20627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 260038,
+      "num": 246098,
+      "word": "电影版开端",
+      "onboard_time": 1718791879,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260036,
       "num": 260036,
       "word": "十个勤天演唱会",
@@ -20657,6 +20713,14 @@
       "onboard_time": 1718677576,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258699,
+      "num": 258699,
+      "word": "医生称三甲医院很少招中医院校毕业生",
+      "onboard_time": 1718791819,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258494,
@@ -21579,6 +21643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245189,
+      "num": 245189,
+      "word": "重庆文旅发肖战打卡路线",
+      "onboard_time": 1718791099,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245171,
       "num": 245171,
       "word": "范丞丞携爱女给Capper打call",
@@ -22329,6 +22401,14 @@
       "onboard_time": 1718248699,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235498,
+      "num": 235498,
+      "word": "网传歌手第七期歌单",
+      "onboard_time": 1718790559,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 235486,
@@ -24961,6 +25041,14 @@
       "onboard_time": 1717395558,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209460,
+      "num": 209460,
+      "word": "上海地铁持刀伤人发生在安检口外",
+      "onboard_time": 1718790559,
+      "rank": 30,
+      "category": "社会负面"
     },
     {
       "raw_hot": 209335,
@@ -30851,6 +30939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178052,
+      "num": 178052,
+      "word": "AI高考测试最高分303",
+      "onboard_time": 1718790739,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 177981,
       "num": 177981,
       "word": "猫猫 开庭记得带上你那个破门",
@@ -36723,6 +36819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "法学首选五院四系",
+      "onboard_time": 1718791578,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148835,
       "num": 148835,
       "word": "黄子弘凡说刘宪华和郎朗在商场表演",
@@ -37313,6 +37417,14 @@
       "onboard_time": 1718105418,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145782,
+      "num": 145782,
+      "word": "玫瑰的故事以爱之冥",
+      "onboard_time": 1718791399,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 145776,
@@ -40091,6 +40203,14 @@
       "category": "互联网,教育"
     },
     {
+      "raw_hot": 132590,
+      "num": 132590,
+      "word": "DNF手游应用商店合约到期",
+      "onboard_time": 1718791999,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132572,
       "num": 132572,
       "word": "当一个职场女性不背包可以有多自由",
@@ -42017,6 +42137,14 @@
       "onboard_time": 1718581456,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125335,
+      "num": 125335,
+      "word": "萧蘅登顶角色吸粉榜",
+      "onboard_time": 1718791520,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 125323,
@@ -49011,6 +49139,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 76509,
+      "num": 279142,
+      "word": "这条视频含荷量百分百",
+      "onboard_time": 1718791458,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 76470,
       "num": 234618,
       "word": "更适合普通人的高效护肤",
@@ -53419,6 +53555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 33156,
+      "num": 579312,
+      "word": "这些毕业祝福送到心里了",
+      "onboard_time": 1718788400,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 33104,
       "num": 33104,
       "word": "怪盗基德cos",
@@ -53665,14 +53809,6 @@
       "onboard_time": 1717206018,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31236,
-      "num": 396204,
-      "word": "这些毕业祝福送到心里了",
-      "onboard_time": 1718788400,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 31173,
@@ -54184,6 +54320,14 @@
       "word": "新加坡30亿洗钱案最新进展",
       "onboard_time": 1718691317,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26492,
+      "num": 250394,
+      "word": "古人的27件文具个个有妙用",
+      "onboard_time": 1718791999,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -55713,6 +55857,14 @@
       "onboard_time": 1717264694,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10016,
+      "num": 272150,
+      "word": "魔力复兴代言人给你打视频了吗",
+      "onboard_time": 1718789899,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 9560,
