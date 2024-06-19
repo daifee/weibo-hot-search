@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718839192423,
+  "endTime": 1718840079983,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510039,
+      "num": 252209,
+      "word": "外交部回应中国游泳运动员兴奋剂阳性",
+      "onboard_time": 1718807360,
+      "rank": 11,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 492755,
       "num": 342192,
       "word": "苏苏结过婚",
@@ -43,20 +51,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 453749,
-      "num": 252209,
-      "word": "外交部回应中国游泳运动员兴奋剂阳性",
-      "onboard_time": 1718807360,
-      "rank": 11,
-      "category": "国内时政,体育"
-    },
-    {
       "raw_hot": 438483,
       "num": 438483,
       "word": "央视与腾讯就巴黎奥运会达成合作",
       "onboard_time": 1718810181,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367380,
+      "num": 145303,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344697,
@@ -83,12 +91,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 284087,
-      "num": 97325,
-      "word": "逃离家暴的女网红想离婚被开价50万",
-      "onboard_time": 1718823612,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 270706,
+      "num": 270706,
+      "word": "德国2比0匈牙利",
+      "onboard_time": 1718838975,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 240178,
@@ -97,6 +105,14 @@
       "onboard_time": 1718801181,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222512,
+      "num": 222512,
+      "word": "住持和女主播发生关系被敲诈案宣判",
+      "onboard_time": 1718797219,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220079,
@@ -115,6 +131,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 209517,
+      "num": 209517,
+      "word": "玫瑰的故事",
+      "onboard_time": 1718839276,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196534,
       "num": 196534,
       "word": "黄亦玫的离婚诉讼书是自己写的",
@@ -131,11 +155,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189428,
-      "num": 189428,
-      "word": "德国2比0匈牙利",
-      "onboard_time": 1718838975,
-      "rank": 4,
+      "raw_hot": 190526,
+      "num": 190526,
+      "word": "德国晋级欧洲杯16强",
+      "onboard_time": 1718838495,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -145,14 +169,6 @@
       "onboard_time": 1718812222,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183867,
-      "num": 183867,
-      "word": "住持和女主播发生关系被敲诈案宣判",
-      "onboard_time": 1718797219,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 171187,
@@ -168,14 +184,6 @@
       "word": "德国vs匈牙利",
       "onboard_time": 1718809641,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 145712,
-      "num": 145712,
-      "word": "德国晋级欧洲杯16强",
-      "onboard_time": 1718838495,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -195,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124795,
+      "num": 90059,
+      "word": "腹型肥胖健康隐患大",
+      "onboard_time": 1718836334,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 122193,
       "num": 122193,
       "word": "天蝎座突然冷淡的原因",
@@ -209,6 +225,14 @@
       "onboard_time": 1718811799,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118819,
+      "num": 118819,
+      "word": "真的建议报考上海交通大学",
+      "onboard_time": 1718803220,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 117218,
@@ -241,6 +265,22 @@
       "onboard_time": 1718813119,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 109949,
+      "num": 78500,
+      "word": "德国欧洲杯两连胜",
+      "onboard_time": 1718839096,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106037,
+      "num": 106037,
+      "word": "苏格兰1比1瑞士",
+      "onboard_time": 1718838975,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 105179,
@@ -307,28 +347,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94994,
-      "num": 81469,
-      "word": "腹型肥胖健康隐患大",
-      "onboard_time": 1718836334,
-      "rank": 49,
+      "raw_hot": 91298,
+      "num": 91298,
+      "word": "星穹铁道流萤",
+      "onboard_time": 1718839335,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 89003,
+      "num": 89003,
+      "word": "贫血和气血不足是两个概念",
+      "onboard_time": 1718839876,
+      "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 94865,
-      "num": 94865,
-      "word": "真的建议报考上海交通大学",
-      "onboard_time": 1718803220,
-      "rank": 35,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 90498,
-      "num": 90498,
-      "word": "苏格兰1比1瑞士",
-      "onboard_time": 1718838975,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 87324,
@@ -379,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 76899,
+      "num": 76899,
+      "word": "财政部 半夜出成绩",
+      "onboard_time": 1718839876,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 73933,
       "num": 94344,
       "word": "欧洲杯",
@@ -393,6 +433,22 @@
       "onboard_time": 1718798660,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73007,
+      "num": 73007,
+      "word": "这套夏日壁纸看看就很解暑",
+      "onboard_time": 1718839937,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71925,
+      "num": 71925,
+      "word": "短发的田曦薇",
+      "onboard_time": 1718802979,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 71623,
@@ -411,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 70565,
+      "num": 70565,
+      "word": "尹净汉饭拍",
+      "onboard_time": 1718839517,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70498,
       "num": 94116,
       "word": "孩子吃华莱士汉堡吃出生肉",
@@ -427,20 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68455,
-      "num": 62200,
-      "word": "德国欧洲杯两连胜",
-      "onboard_time": 1718839096,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 66774,
+      "raw_hot": 68464,
       "num": 94046,
       "word": "奇葩说辩手罗淼发长文力挺姜萍",
       "onboard_time": 1718807780,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64032,
+      "num": 64032,
+      "word": "霍建华四集就下线了",
+      "onboard_time": 1718839937,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 62513,
@@ -451,12 +515,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 62334,
-      "num": 62334,
-      "word": "短发的田曦薇",
-      "onboard_time": 1718802979,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 57314,
+      "num": 57314,
+      "word": "医院抽出来的血最终会去哪里",
+      "onboard_time": 1718839996,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 50875,
@@ -473,6 +537,22 @@
       "onboard_time": 1718780541,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44925,
+      "num": 46090,
+      "word": "京多安传射",
+      "onboard_time": 1718840056,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34956,
+      "num": 441532,
+      "word": "中部崛起新动力",
+      "onboard_time": 1718803520,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33675,
@@ -497,14 +577,6 @@
       "onboard_time": 1718822591,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 28557,
-      "num": 367001,
-      "word": "中部崛起新动力",
-      "onboard_time": 1718803520,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25549,

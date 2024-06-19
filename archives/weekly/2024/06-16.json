@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718839192423,
+  "endTime": 1718840079983,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -3243,6 +3243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 367380,
+      "num": 145303,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367163,
       "num": 367163,
       "word": "赵丽颖成都活动",
@@ -4227,14 +4235,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 284087,
-      "num": 97325,
-      "word": "逃离家暴的女网红想离婚被开价50万",
-      "onboard_time": 1718823612,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283807,
       "num": 283807,
       "word": "陈泽直播",
@@ -4481,6 +4481,14 @@
       "onboard_time": 1718790440,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 270706,
+      "num": 270706,
+      "word": "德国2比0匈牙利",
+      "onboard_time": 1718838975,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 270363,
@@ -6251,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190526,
+      "num": 190526,
+      "word": "德国晋级欧洲杯16强",
+      "onboard_time": 1718838495,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190450,
       "num": 190450,
       "word": "阿尔巴尼亚 防线",
@@ -6289,14 +6305,6 @@
       "onboard_time": 1718594777,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 189428,
-      "num": 189428,
-      "word": "德国2比0匈牙利",
-      "onboard_time": 1718838975,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 189337,
@@ -8283,14 +8291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145712,
-      "num": 145712,
-      "word": "德国晋级欧洲杯16强",
-      "onboard_time": 1718838495,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145389,
       "num": 145389,
       "word": "张杰唱日语歌",
@@ -9467,6 +9467,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 124795,
+      "num": 90059,
+      "word": "腹型肥胖健康隐患大",
+      "onboard_time": 1718836334,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 124779,
       "num": 124779,
       "word": "RW对战TTG",
@@ -10155,6 +10163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 109949,
+      "num": 78500,
+      "word": "德国欧洲杯两连胜",
+      "onboard_time": 1718839096,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109543,
       "num": 109543,
       "word": "申花",
@@ -10313,6 +10329,14 @@
       "onboard_time": 1718671338,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 106037,
+      "num": 106037,
+      "word": "苏格兰1比1瑞士",
+      "onboard_time": 1718838975,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 105891,
@@ -10763,14 +10787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94994,
-      "num": 81469,
-      "word": "腹型肥胖健康隐患大",
-      "onboard_time": 1718836334,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 94733,
       "num": 547976,
       "word": "一句话表白老爸",
@@ -10899,20 +10915,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91298,
+      "num": 91298,
+      "word": "星穹铁道流萤",
+      "onboard_time": 1718839335,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90559,
       "num": 90559,
       "word": "给500块的公猫找了个2000块的老婆",
       "onboard_time": 1718495114,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90498,
-      "num": 90498,
-      "word": "苏格兰1比1瑞士",
-      "onboard_time": 1718838975,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 90404,
@@ -10953,6 +10969,14 @@
       "onboard_time": 1718718140,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89003,
+      "num": 89003,
+      "word": "贫血和气血不足是两个概念",
+      "onboard_time": 1718839876,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88577,
@@ -11251,6 +11275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76899,
+      "num": 76899,
+      "word": "财政部 半夜出成绩",
+      "onboard_time": 1718839876,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 76815,
       "num": 76815,
       "word": "鞠婧祎honey好甜",
@@ -11315,6 +11347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73007,
+      "num": 73007,
+      "word": "这套夏日壁纸看看就很解暑",
+      "onboard_time": 1718839937,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72859,
       "num": 104877,
       "word": "红柳烤串教给我的科学知识",
@@ -11371,6 +11411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70565,
+      "num": 70565,
+      "word": "尹净汉饭拍",
+      "onboard_time": 1718839517,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70216,
       "num": 299661,
       "word": "多多不想让您受委屈",
@@ -11409,14 +11457,6 @@
       "onboard_time": 1718806939,
       "rank": 9,
       "category": "军事"
-    },
-    {
-      "raw_hot": 68455,
-      "num": 62200,
-      "word": "德国欧洲杯两连胜",
-      "onboard_time": 1718839096,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 68181,
@@ -11521,6 +11561,14 @@
       "onboard_time": 1718632819,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 64032,
+      "num": 64032,
+      "word": "霍建华四集就下线了",
+      "onboard_time": 1718839937,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 63908,
@@ -11681,6 +11729,14 @@
       "onboard_time": 1718735352,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57314,
+      "num": 57314,
+      "word": "医院抽出来的血最终会去哪里",
+      "onboard_time": 1718839996,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 57201,
@@ -11945,6 +12001,14 @@
       "onboard_time": 1718603357,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44925,
+      "num": 46090,
+      "word": "京多安传射",
+      "onboard_time": 1718840056,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 44670,
@@ -12315,6 +12379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34956,
+      "num": 441532,
+      "word": "中部崛起新动力",
+      "onboard_time": 1718803520,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34033,
       "num": 238999,
       "word": "今晚8点京东百亿补贴力度翻倍",
@@ -12489,14 +12561,6 @@
       "onboard_time": 1718530457,
       "rank": 29,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 29150,
-      "num": 367001,
-      "word": "中部崛起新动力",
-      "onboard_time": 1718803520,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28529,
