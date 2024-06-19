@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/19 11:35:42
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/19 12:23:27
 </p>
 </blockquote>
 <p>
@@ -1463,6 +1463,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%83%85%E4%BE%A3%E7%BB%93%E5%A9%9A3%E5%A4%A9%E5%90%8E%E5%9C%A8%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%B8%A7%E7%94%9F%23" target="weibo">
 巴勒斯坦情侣结婚3天后在轰炸中丧生（热度：1312778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%86%B7%E8%97%8F%E8%BD%A6%E9%81%87%E9%9A%BE8%E4%BA%BA%E5%9D%87%E6%98%AF%E7%89%9B%E8%82%89%E5%8E%82%E4%B8%B4%E6%97%B6%E5%A5%B3%E5%B7%A5%23" target="weibo">
+坐冷藏车遇难8人均是牛肉厂临时女工（热度：1309936）
 </a>
 </li>
 
@@ -2967,6 +2973,12 @@ iPhone15多次降价重回销量榜第一（热度：915943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%96%B0%E5%86%A0%E9%87%8D%E7%97%87%E5%8F%8A%E6%AD%BB%E4%BA%A1%E7%97%85%E4%BE%8B%E5%A4%A7%E5%A2%9E%23" target="weibo">
+台湾新冠重症及死亡病例大增（热度：912900）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E6%96%B9%E9%83%BD%E5%AF%B9%E8%BF%99%E4%B8%AA%E5%90%BB%E6%84%9F%E5%88%B0%E6%81%B6%E5%BF%83%23" target="weibo">
 双方都对这个吻感到恶心（热度：912837）
 </a>
@@ -3311,6 +3323,12 @@ iPhone15有五种充电上限了（热度：864883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%A5%A0%E5%87%BA%E5%9C%BA%E6%AD%8C%E6%89%8B%E7%A0%B41%23" target="weibo">
 孙楠出场歌手破1（热度：848721）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%A7%9C%E8%90%8D%E8%83%BD%E4%B8%8D%E8%83%BD%E8%80%83%E6%B5%99%E5%A4%A7%23" target="weibo">
+教育部门回应姜萍能不能考浙大（热度：847701）
 </a>
 </li>
 
@@ -3767,6 +3785,12 @@ AppleID改名AppleAccount（热度：781128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%8615%E5%8F%AA%E5%A4%A7%E8%99%AB%E8%97%8F%E5%A5%B3%E7%AB%A5%E8%BA%AB%E5%90%8E%E8%BF%87%E5%85%B3%23" target="weibo">
 女子将15只大虫藏女童身后过关（热度：774000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%AB%E5%A6%87%E5%BC%80%E8%BD%A6%E8%BF%9D%E5%81%9C%E6%8C%A1%E8%B7%AF%23" target="weibo">
+北京警方通报夫妇开车违停挡路（热度：772112）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ TFBOYS十周年蛋糕塌的三四层（热度：593133）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E4%BD%A0%E6%98%AF%E5%A4%A7%E5%86%B0%E5%90%97%23" target="weibo">
 歌手你是大冰吗（热度：589400）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%AC%E5%88%B0%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AE%A9%E5%A5%B9%E4%B8%8A%E6%AD%8C%E6%89%8B%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-王心凌听到汪苏泷让她上歌手的反应（热度：589335）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%95%A2%E4%B9%B0%E5%BC%80%E5%8F%A3%E6%A6%B4%E8%8E%B2%E4%BA%86%23" target="weibo">
-再也不敢买开口榴莲了（热度：589199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E4%BD%95%E7%82%85%E6%9D%8E%E5%81%A5%20%E5%90%89%E7%A5%A5%E4%B8%89%E4%BF%9D%23" target="weibo">
-撒贝宁何炅李健 吉祥三保（热度：588928）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%A5%BF%E5%85%B0%E5%A5%B3%E5%AD%90%E6%90%BA%E5%B8%A6%E4%BA%BA%E7%B1%BB%E5%BF%83%E8%84%8F%E5%85%A5%E5%A2%83%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23" target="weibo">
-新西兰女子携带人类心脏入境澳大利亚（热度：588411）
 </a>
 </li>
 
