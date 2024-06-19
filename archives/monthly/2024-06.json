@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718831976834,
+  "endTime": 1718832868945,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -49500,7 +49500,7 @@
     },
     {
       "raw_hot": 80724,
-      "num": 33062,
+      "num": 33767,
       "word": "逃离家暴的女网红想离婚被开价50万",
       "onboard_time": 1718823612,
       "rank": 26,
@@ -55939,6 +55939,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 18387,
+      "num": 18387,
+      "word": "腾讯视频回应行云小院拆除",
+      "onboard_time": 1718831890,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 18329,
       "num": 129922,
       "word": "全网都在接紫定红好运",
@@ -56001,6 +56009,14 @@
       "onboard_time": 1718047451,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17784,
+      "num": 17784,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 17644,
@@ -56073,14 +56089,6 @@
       "onboard_time": 1718503517,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17061,
-      "num": 17061,
-      "word": "学新闻不吃香了吗",
-      "onboard_time": 1718827691,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 16973,
@@ -56323,6 +56331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14642,
+      "num": 16215,
+      "word": "外交部回应菲律宾侵闯仁爱礁",
+      "onboard_time": 1718824572,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14613,
       "num": 215328,
       "word": "学校六一演出全场被孤勇者硬控",
@@ -56337,14 +56353,6 @@
       "onboard_time": 1718124436,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14431,
-      "num": 16215,
-      "word": "外交部回应菲律宾侵闯仁爱礁",
-      "onboard_time": 1718824572,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14391,
@@ -56419,20 +56427,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13860,
+      "num": 13860,
+      "word": "丞磊自曝曾中度焦虑",
+      "onboard_time": 1718828651,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13728,
       "num": 135772,
       "word": "橘子摊老板街头请高考生吃橘子",
       "onboard_time": 1717865953,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13720,
-      "num": 13720,
-      "word": "丞磊自曝曾中度焦虑",
-      "onboard_time": 1718828651,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 13640,
@@ -56689,14 +56697,6 @@
       "onboard_time": 1718389331,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11455,
-      "num": 13236,
-      "word": "腾讯视频回应行云小院拆除",
-      "onboard_time": 1718831890,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 11431,
