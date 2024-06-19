@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718775486247,
+  "endTime": 1718778401818,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1426896,
+      "num": 400822,
+      "word": "性侵中国女游客的韩酒店员工已返岗",
+      "onboard_time": 1718775560,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1354237,
       "num": 1354237,
       "word": "楠火锅致歉",
@@ -73,6 +81,14 @@
       "onboard_time": 1718767879,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223498,
+      "num": 1223498,
+      "word": "林更新这句我骂不动他了",
+      "onboard_time": 1718776101,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1213698,
@@ -291,6 +307,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457932,
+      "num": 218102,
+      "word": "一旦离职这辈子你可能就定型了",
+      "onboard_time": 1718775981,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 444328,
       "num": 444328,
       "word": "易烊千玺代言LINDBERG",
@@ -347,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414573,
+      "num": 398887,
+      "word": "墨雨云间这下是真出息了",
+      "onboard_time": 1718774242,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409381,
       "num": 409381,
       "word": "庄国栋带孩子",
@@ -361,6 +393,14 @@
       "onboard_time": 1718752454,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398647,
+      "num": 398647,
+      "word": "鞠婧祎office",
+      "onboard_time": 1718776701,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 383624,
@@ -401,6 +441,14 @@
       "onboard_time": 1718766857,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360056,
+      "num": 260452,
+      "word": "呼和浩特一村5人遇害",
+      "onboard_time": 1718775021,
+      "rank": 26,
+      "category": "社会负面"
     },
     {
       "raw_hot": 355401,
@@ -456,14 +504,6 @@
       "word": "傅家明对黄亦玫不是一见钟情",
       "onboard_time": 1718769082,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 328687,
-      "num": 328687,
-      "word": "墨雨云间这下是真出息了",
-      "onboard_time": 1718774242,
-      "rank": 46,
       "category": "剧集"
     },
     {
@@ -539,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 286328,
+      "num": 210517,
+      "word": "感染了HPV就一定是私生活混乱吗",
+      "onboard_time": 1718777120,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 283232,
       "num": 283232,
       "word": "玫瑰的故事5个男主4个东北的",
@@ -569,6 +617,22 @@
       "onboard_time": 1718767338,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 277974,
+      "num": 258091,
+      "word": "鞠婧祎office发文",
+      "onboard_time": 1718777779,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 274559,
+      "num": 209973,
+      "word": "霍建华因被叫吃货而哭",
+      "onboard_time": 1718777060,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 271490,
@@ -667,12 +731,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220916,
-      "num": 220916,
-      "word": "呼和浩特一村5人遇害",
-      "onboard_time": 1718775021,
-      "rank": 26,
-      "category": "社会负面"
+      "raw_hot": 221102,
+      "num": 221102,
+      "word": "罗小黑",
+      "onboard_time": 1718778079,
+      "rank": 19,
+      "category": "动漫"
     },
     {
       "raw_hot": 219307,
@@ -747,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203812,
+      "num": 203812,
+      "word": "原来长胖和减肥都是有滞后性的",
+      "onboard_time": 1718775921,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 203346,
       "num": 200227,
       "word": "你可能不知道的法律小常识",
@@ -777,6 +849,14 @@
       "onboard_time": 1718711058,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197838,
+      "num": 197838,
+      "word": "张远 歌手",
+      "onboard_time": 1718778260,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 197092,
@@ -923,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173853,
+      "num": 173853,
+      "word": "刘亦菲 她力量赛道",
+      "onboard_time": 1718775619,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171936,
       "num": 171936,
       "word": "鞠婧祎工作室",
@@ -971,12 +1059,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156848,
+      "num": 156848,
+      "word": "胡歌吴磊同一航班回国",
+      "onboard_time": 1718775440,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156535,
       "num": 464304,
       "word": "我的毕业论文被谁偷吃了",
       "onboard_time": 1718773222,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 156463,
+      "num": 156463,
+      "word": "原来练背真的能防脸垮",
+      "onboard_time": 1718777600,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 156377,
+      "num": 156377,
+      "word": "国际奥委会乒乓球女单未邀请陈梦",
+      "onboard_time": 1718778141,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 156311,
@@ -987,12 +1099,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155281,
+      "num": 155281,
+      "word": "桂林",
+      "onboard_time": 1718778020,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155129,
       "num": 155129,
       "word": "肖战登上日本杂志",
       "onboard_time": 1718754077,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153388,
+      "num": 153388,
+      "word": "胡彦斌现场观战C罗",
+      "onboard_time": 1718776888,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 151275,
@@ -1091,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138875,
+      "num": 138875,
+      "word": "爱出汗和出汗少的人谁更健康",
+      "onboard_time": 1718775981,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138659,
       "num": 138659,
       "word": "玫瑰的故事收视率新高",
@@ -1129,14 +1265,6 @@
       "onboard_time": 1718768660,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127699,
-      "num": 127699,
-      "word": "胡歌吴磊同一航班回国",
-      "onboard_time": 1718775440,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 127242,
@@ -1195,6 +1323,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123778,
+      "num": 123778,
+      "word": "这种饮料喝着不甜但升糖能力超高",
+      "onboard_time": 1718776820,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 123732,
+      "num": 123732,
+      "word": "吴谨言演出了墨雨云间的虐感",
+      "onboard_time": 1718776461,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123455,
       "num": 123455,
       "word": "证监会将推出科创板八条",
@@ -1211,6 +1355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121090,
+      "num": 121090,
+      "word": "离职后第一件事",
+      "onboard_time": 1718777421,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119024,
       "num": 119024,
       "word": "带男朋友回家后发现家人很冷漠",
@@ -1225,6 +1377,14 @@
       "onboard_time": 1718715379,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117939,
+      "num": 117939,
+      "word": "28省份公布高考出分时间",
+      "onboard_time": 1718777481,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 116116,
@@ -1265,6 +1425,14 @@
       "onboard_time": 1718752875,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99567,
+      "num": 261773,
+      "word": "如何拥有一个没蚊子的夜晚",
+      "onboard_time": 1718776820,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 98065,
@@ -1491,6 +1659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67306,
+      "num": 213410,
+      "word": "黄子韬奥斯卡",
+      "onboard_time": 1718775081,
+      "rank": 40,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 67102,
       "num": 474075,
       "word": "捉刘亦菲同款宠物",
@@ -1651,14 +1827,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35781,
-      "num": 148976,
-      "word": "黄子韬奥斯卡",
-      "onboard_time": 1718775081,
-      "rank": 40,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 35097,
       "num": 68051,
       "word": "菲称对非法坐滩军舰补给失败",
@@ -1689,6 +1857,14 @@
       "onboard_time": 1718740811,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25419,
+      "num": 259604,
+      "word": "永劫手游终测开启",
+      "onboard_time": 1718776820,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 23509,
@@ -1744,6 +1920,14 @@
       "word": "太爷爷撑船带重孙女在荷塘摘莲子",
       "onboard_time": 1718722040,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8033,
+      "num": 192781,
+      "word": "日本多地发布手足口病预警",
+      "onboard_time": 1718778201,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],
