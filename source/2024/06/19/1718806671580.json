@@ -1,0 +1,410 @@
+{
+  "runTime": 1718806671580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2293959,
+        "num": 2293959,
+        "word": "复旦打老师男生被警方带走",
+        "onboard_time": 1718803520,
+        "rank": 0,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 1465220,
+        "num": 1465220,
+        "word": "苏苏结过婚",
+        "onboard_time": 1718805260,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42436,
+        "num": 1143509,
+        "word": "中国式现代化的万千气象",
+        "onboard_time": 1718803761,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838088,
+        "num": 838088,
+        "word": "复旦回应学生毕业典礼挥拳打老师",
+        "onboard_time": 1718802798,
+        "rank": 3,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 582996,
+        "num": 582996,
+        "word": "黄亦玫离婚",
+        "onboard_time": 1718795959,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1370628,
+        "num": 578227,
+        "word": "复旦",
+        "onboard_time": 1718798479,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522919,
+        "num": 522919,
+        "word": "真的建议报考上海交通大学",
+        "onboard_time": 1718803220,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 461416,
+        "num": 461416,
+        "word": "赵露思把耳机挂腰上",
+        "onboard_time": 1718801181,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 398464,
+        "num": 398464,
+        "word": "短发的田曦薇",
+        "onboard_time": 1718802979,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80705,
+        "num": 389630,
+        "word": "中考生打不到车女店主抓起钥匙就跑",
+        "onboard_time": 1718805080,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 818414,
+        "num": 388495,
+        "word": "一家7口套现20亿",
+        "onboard_time": 1718791759,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 404140,
+        "num": 388009,
+        "word": "天蝎座突然冷淡的原因",
+        "onboard_time": 1718802440,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 387059,
+        "num": 387059,
+        "word": "住持和女主播发生关系被敲诈案宣判",
+        "onboard_time": 1718797219,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384842,
+        "num": 384842,
+        "word": "黄亦玫的离婚诉讼书是自己写的",
+        "onboard_time": 1718804600,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327599,
+        "num": 327599,
+        "word": "初级会计成绩",
+        "onboard_time": 1718785342,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 276290,
+        "num": 276290,
+        "word": "SM英国男团颜值",
+        "onboard_time": 1718799018,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 273681,
+        "num": 273681,
+        "word": "霍建华出场",
+        "onboard_time": 1718803460,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250564,
+        "num": 250564,
+        "word": "素媛案罪犯赵斗淳再出狱",
+        "onboard_time": 1718796499,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38462,
+        "num": 249086,
+        "word": "特仑苏代言人靳东法国传递圣火",
+        "onboard_time": 1718803040,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248466,
+        "num": 248466,
+        "word": "韩国宣布进入人口危机紧急状态",
+        "onboard_time": 1718785642,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 379233,
+        "num": 241282,
+        "word": "有车有房存款30万适合回县城吗",
+        "onboard_time": 1718798418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271848,
+        "num": 236424,
+        "word": "小伙刮到第13张喜中100万大奖",
+        "onboard_time": 1718802620,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226950,
+        "num": 226950,
+        "word": "长公主初代爱疯",
+        "onboard_time": 1718800159,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204577,
+        "num": 204577,
+        "word": "厦大毕业生都去哪了",
+        "onboard_time": 1718806280,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203652,
+        "num": 203652,
+        "word": "2024高考成绩公布时间汇总",
+        "onboard_time": 1718806040,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185710,
+        "num": 185710,
+        "word": "被嫌弃的黄牙多数是正常牙齿颜色",
+        "onboard_time": 1718805501,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 175262,
+        "num": 175262,
+        "word": "吴谨言王星越 芭莎",
+        "onboard_time": 1718786780,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173402,
+        "num": 173402,
+        "word": "张远唱什么",
+        "onboard_time": 1718804060,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172136,
+        "num": 172136,
+        "word": "克罗地亚半场0比1阿尔巴尼亚",
+        "onboard_time": 1718806400,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169328,
+        "num": 169328,
+        "word": "克罗地亚vs阿尔巴尼亚",
+        "onboard_time": 1718806580,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232008,
+        "num": 169134,
+        "word": "孩子吃华莱士汉堡吃出生肉",
+        "onboard_time": 1718793860,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166129,
+        "num": 166129,
+        "word": "欧洲杯",
+        "onboard_time": 1718806400,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162586,
+        "num": 162586,
+        "word": "潜意识爱上一个人的表现",
+        "onboard_time": 1718801059,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157994,
+        "num": 157994,
+        "word": "家境贫寒适合读法学吗",
+        "onboard_time": 1718801959,
+        "rank": 33,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 157932,
+        "num": 157932,
+        "word": "黑帮的我成了高中生",
+        "onboard_time": 1718804180,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152581,
+        "num": 152581,
+        "word": "一个听起来很香的本科专业",
+        "onboard_time": 1718800879,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146636,
+        "num": 146636,
+        "word": "编剧回应庄国栋黄亦玫吻戏多",
+        "onboard_time": 1718805679,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146206,
+        "num": 146206,
+        "word": "鞠婧祎小号发博",
+        "onboard_time": 1718780541,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143253,
+        "num": 143253,
+        "word": "林更新微博评论",
+        "onboard_time": 1718715437,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139889,
+        "num": 139889,
+        "word": "余华当了高考反面教材二十年",
+        "onboard_time": 1718806580,
+        "rank": 39,
+        "category": "读书作家,教育"
+      },
+      {
+        "raw_hot": 133960,
+        "num": 133960,
+        "word": "周深布达佩斯跑男录制",
+        "onboard_time": 1718805200,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132177,
+        "num": 132177,
+        "word": "陈晓方未回应婚姻破裂传闻",
+        "onboard_time": 1718773463,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130047,
+        "num": 130047,
+        "word": "男朋友拿筋膜枪洗杨梅",
+        "onboard_time": 1718788700,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110875,
+        "num": 110875,
+        "word": "歌手官宣张远冲榜",
+        "onboard_time": 1718782759,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109090,
+        "num": 109090,
+        "word": "易烊千玺眼镜适配度",
+        "onboard_time": 1718805801,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108841,
+        "num": 108841,
+        "word": "性侵中国女游客的韩酒店员工已返岗",
+        "onboard_time": 1718775560,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106485,
+        "num": 106485,
+        "word": "Jennie第一条TikTok",
+        "onboard_time": 1718789660,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105170,
+        "num": 105170,
+        "word": "方协文离婚后爆哭",
+        "onboard_time": 1718806640,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103382,
+        "num": 103382,
+        "word": "黄霄雲再来歌手轻舟已过万重山",
+        "onboard_time": 1718801418,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101988,
+        "num": 101988,
+        "word": "文科考虑就业选城市",
+        "onboard_time": 1718804720,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委政治工作会议在延安召开#"
+    }
+  }
+}
