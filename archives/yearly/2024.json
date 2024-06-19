@@ -1,6 +1,6 @@
 {
   "startTime": 1704039665829,
-  "endTime": 1718761361655,
+  "endTime": 1718764562669,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2307,6 +2307,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 3207685,
+      "num": 3207685,
+      "word": "上海地铁持刀伤人嫌犯被抓获",
+      "onboard_time": 1718762477,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3207189,
       "num": 3207189,
       "word": "南京一小区火灾15人遇难44人受伤",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1713327258,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 3164787,
-      "num": 3164787,
-      "word": "调休",
-      "onboard_time": 1707010589,
-      "rank": 0,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
