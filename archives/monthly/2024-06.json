@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718767301653,
+  "endTime": 1718768142487,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -8884,7 +8884,7 @@
     },
     {
       "raw_hot": 542419,
-      "num": 264714,
+      "num": 289896,
       "word": "快订婚了才得知对方是二婚",
       "onboard_time": 1718756358,
       "rank": 20,
@@ -9457,6 +9457,14 @@
       "onboard_time": 1718269578,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522007,
+      "num": 373975,
+      "word": "Angelababy青衫琵琶",
+      "onboard_time": 1718766739,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 521980,
@@ -10409,6 +10417,14 @@
       "onboard_time": 1717375818,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 489805,
+      "num": 489805,
+      "word": "教育部门回应姜萍能不能考浙大",
+      "onboard_time": 1718763978,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489087,
@@ -11777,14 +11793,6 @@
       "onboard_time": 1717888273,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 444225,
-      "num": 444225,
-      "word": "教育部门回应姜萍能不能考浙大",
-      "onboard_time": 1718763978,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 443460,
@@ -14411,6 +14419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 370147,
+      "num": 289155,
+      "word": "刘亦菲粉发挑染",
+      "onboard_time": 1718766558,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 370092,
       "num": 250651,
       "word": "曝某节目制片人性骚扰",
@@ -15819,14 +15835,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 338783,
-      "num": 210646,
-      "word": "刘亦菲粉发挑染",
-      "onboard_time": 1718766558,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 338781,
       "num": 302772,
       "word": "汪俊 如懿传",
@@ -17057,6 +17065,14 @@
       "onboard_time": 1717721119,
       "rank": 15,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 313170,
+      "num": 313170,
+      "word": "胖东来调改永辉超市重新开业",
+      "onboard_time": 1718765296,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 312953,
@@ -18683,6 +18699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283232,
+      "num": 283232,
+      "word": "玫瑰的故事5个男主4个东北的",
+      "onboard_time": 1718765357,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283061,
       "num": 283061,
       "word": "打开了关闭三年的朋友圈",
@@ -18721,6 +18745,14 @@
       "onboard_time": 1717380379,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282505,
+      "num": 282505,
+      "word": "流萤 不歪",
+      "onboard_time": 1718767217,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 282492,
@@ -19595,14 +19627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269147,
-      "num": 269147,
-      "word": "玫瑰的故事5个男主4个东北的",
-      "onboard_time": 1718765357,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 269097,
       "num": 269097,
       "word": "迪丽热巴新歌DanceVideo",
@@ -20049,14 +20073,6 @@
       "onboard_time": 1718172018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261999,
-      "num": 261999,
-      "word": "Angelababy青衫琵琶",
-      "onboard_time": 1718766739,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 261884,
@@ -20651,6 +20667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251716,
+      "num": 251716,
+      "word": "罗小黑作者回应",
+      "onboard_time": 1718767338,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 251464,
       "num": 251464,
       "word": "南昌警方通报金店抢劫案",
@@ -20875,6 +20899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 248147,
+      "num": 248147,
+      "word": "鞠婧祎19岁至30岁颜值变化",
+      "onboard_time": 1718764937,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247881,
       "num": 232978,
       "word": "鞠婧祎初恋丸子头",
@@ -20969,14 +21001,6 @@
       "onboard_time": 1718248218,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246627,
-      "num": 246627,
-      "word": "胖东来调改永辉超市重新开业",
-      "onboard_time": 1718765296,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246581,
@@ -22081,14 +22105,6 @@
       "onboard_time": 1718757980,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 232205,
-      "num": 232205,
-      "word": "鞠婧祎19岁至30岁颜值变化",
-      "onboard_time": 1718764937,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 231828,
@@ -23497,6 +23513,14 @@
       "onboard_time": 1718270779,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217170,
+      "num": 217170,
+      "word": "霍建华以为说明书是粉丝写的信",
+      "onboard_time": 1718767698,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 217127,
@@ -24915,6 +24939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206407,
+      "num": 206407,
+      "word": "坐冷藏车遇难8人均是牛肉厂临时女工",
+      "onboard_time": 1718767879,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206395,
       "num": 206395,
       "word": "教资认定",
@@ -26185,6 +26217,14 @@
       "onboard_time": 1718610197,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199780,
+      "num": 199780,
+      "word": "北京警方通报夫妇开车违停挡路",
+      "onboard_time": 1718767518,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199618,
@@ -29523,6 +29563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182330,
+      "num": 182330,
+      "word": "TheShy回应中分问题",
+      "onboard_time": 1718767277,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182244,
       "num": 182244,
       "word": "威神V一位公约",
@@ -30137,6 +30185,14 @@
       "onboard_time": 1718675596,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178453,
+      "num": 178453,
+      "word": "微博毕业号地铁发车了",
+      "onboard_time": 1718767759,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 178405,
@@ -31217,6 +31273,14 @@
       "onboard_time": 1718425939,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171936,
+      "num": 171936,
+      "word": "鞠婧祎工作室",
+      "onboard_time": 1718767518,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 171926,
@@ -36251,14 +36315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147018,
-      "num": 147018,
-      "word": "流萤 不歪",
-      "onboard_time": 1718767217,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 146991,
       "num": 146991,
       "word": "BL传奇杯夺冠",
@@ -37377,6 +37433,14 @@
       "onboard_time": 1718526858,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141139,
+      "num": 141139,
+      "word": "梁永棋剧里淡淡剧外癫癫",
+      "onboard_time": 1718767817,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 141136,
@@ -41753,14 +41817,6 @@
       "onboard_time": 1717311017,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122594,
-      "num": 122594,
-      "word": "TheShy回应中分问题",
-      "onboard_time": 1718767277,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 122579,
@@ -46275,6 +46331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97384,
+      "num": 445567,
+      "word": "花钱咨询高考志愿填报靠谱吗",
+      "onboard_time": 1718766018,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 97299,
       "num": 521260,
       "word": "经济学者建议大幅调高农民养老金",
@@ -46761,6 +46825,14 @@
       "onboard_time": 1718628498,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92913,
+      "num": 1442024,
+      "word": "致敬暴雨中的守护力量",
+      "onboard_time": 1718766320,
+      "rank": 2,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 92751,
@@ -47513,14 +47585,6 @@
       "onboard_time": 1717218917,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 82142,
-      "num": 1442024,
-      "word": "致敬暴雨中的守护力量",
-      "onboard_time": 1718766320,
-      "rank": 2,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 82051,
@@ -48516,7 +48580,7 @@
     },
     {
       "raw_hot": 71224,
-      "num": 177898,
+      "num": 369250,
       "word": "中宣部追授徐利民同志时代楷模称号",
       "onboard_time": 1718764998,
       "rank": 23,
@@ -49529,14 +49593,6 @@
       "onboard_time": 1717845977,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 60302,
-      "num": 445567,
-      "word": "花钱咨询高考志愿填报靠谱吗",
-      "onboard_time": 1718766018,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 60092,
@@ -51220,7 +51276,7 @@
     },
     {
       "raw_hot": 43845,
-      "num": 247773,
+      "num": 380685,
       "word": "捉刘亦菲同款宠物",
       "onboard_time": 1718766320,
       "rank": 20,
@@ -55005,6 +55061,9 @@
     },
     {
       "word": "#习近平对防汛抗旱工作作出重要指示#"
+    },
+    {
+      "word": "#做好防汛抗旱工作关键在于实#"
     }
   ]
 }

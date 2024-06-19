@@ -1,0 +1,410 @@
+{
+  "runTime": 1718768142487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2415523,
+        "num": 2415523,
+        "word": "上海地铁发生持刀伤人案3人受伤",
+        "onboard_time": 1718762598,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987137,
+        "num": 987137,
+        "word": "上海地铁持刀伤人嫌犯被抓获",
+        "onboard_time": 1718762477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92913,
+        "num": 963643,
+        "word": "致敬暴雨中的守护力量",
+        "onboard_time": 1718766320,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 956289,
+        "num": 956289,
+        "word": "罗云熙向车主道歉",
+        "onboard_time": 1718754496,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 780299,
+        "num": 780299,
+        "word": "乌克兰打败俄罗斯才能加入北约",
+        "onboard_time": 1718757918,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 531574,
+        "num": 531574,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509996,
+        "num": 509996,
+        "word": "12张思维导图理清大学专业",
+        "onboard_time": 1718755758,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 489805,
+        "num": 489805,
+        "word": "教育部门回应姜萍能不能考浙大",
+        "onboard_time": 1718763978,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415152,
+        "num": 415152,
+        "word": "医院回应救人迟到被罚老师暂停诊",
+        "onboard_time": 1718761997,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384933,
+        "num": 384933,
+        "word": "鞠婧祎助理号改名",
+        "onboard_time": 1718763559,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580896,
+        "num": 384728,
+        "word": "王嘉尔半裸出发图",
+        "onboard_time": 1718759479,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41245,
+        "num": 380685,
+        "word": "捉刘亦菲同款宠物",
+        "onboard_time": 1718766320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 522007,
+        "num": 373975,
+        "word": "Angelababy青衫琵琶",
+        "onboard_time": 1718766739,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 469553,
+        "num": 373039,
+        "word": "合川路",
+        "onboard_time": 1718760496,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43444,
+        "num": 369250,
+        "word": "中宣部追授徐利民同志时代楷模称号",
+        "onboard_time": 1718764998,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365771,
+        "num": 365771,
+        "word": "歌手",
+        "onboard_time": 1718766857,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359281,
+        "num": 359281,
+        "word": "发现朋友圈一个很无语的bug",
+        "onboard_time": 1718756177,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 336722,
+        "num": 336722,
+        "word": "姜萍",
+        "onboard_time": 1718766919,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313170,
+        "num": 313170,
+        "word": "胖东来调改永辉超市重新开业",
+        "onboard_time": 1718765296,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292489,
+        "num": 292489,
+        "word": "楠火锅致歉",
+        "onboard_time": 1718756418,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 404630,
+        "num": 289896,
+        "word": "快订婚了才得知对方是二婚",
+        "onboard_time": 1718756358,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370147,
+        "num": 289155,
+        "word": "刘亦菲粉发挑染",
+        "onboard_time": 1718766558,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283232,
+        "num": 283232,
+        "word": "玫瑰的故事5个男主4个东北的",
+        "onboard_time": 1718765357,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282505,
+        "num": 282505,
+        "word": "流萤 不歪",
+        "onboard_time": 1718767217,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275358,
+        "num": 275358,
+        "word": "吴谨言 不知道王星越在爽些什么",
+        "onboard_time": 1718760196,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262425,
+        "num": 262425,
+        "word": "玫瑰离婚",
+        "onboard_time": 1718759598,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251716,
+        "num": 251716,
+        "word": "罗小黑作者回应",
+        "onboard_time": 1718767338,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 248147,
+        "num": 248147,
+        "word": "鞠婧祎19岁至30岁颜值变化",
+        "onboard_time": 1718764937,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217170,
+        "num": 217170,
+        "word": "霍建华以为说明书是粉丝写的信",
+        "onboard_time": 1718767698,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206407,
+        "num": 206407,
+        "word": "坐冷藏车遇难8人均是牛肉厂临时女工",
+        "onboard_time": 1718767879,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199780,
+        "num": 199780,
+        "word": "北京警方通报夫妇开车违停挡路",
+        "onboard_time": 1718767518,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97384,
+        "num": 183295,
+        "word": "花钱咨询高考志愿填报靠谱吗",
+        "onboard_time": 1718766018,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 182330,
+        "num": 182330,
+        "word": "TheShy回应中分问题",
+        "onboard_time": 1718767277,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178453,
+        "num": 178453,
+        "word": "微博毕业号地铁发车了",
+        "onboard_time": 1718767759,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174989,
+        "num": 174989,
+        "word": "沈学士 甜甜甜冰冰冰好喝好喝",
+        "onboard_time": 1718765477,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172784,
+        "num": 172784,
+        "word": "A股",
+        "onboard_time": 1718765357,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 171936,
+        "num": 171936,
+        "word": "鞠婧祎工作室",
+        "onboard_time": 1718767518,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169925,
+        "num": 169925,
+        "word": "地铁回应持刀伤人事件",
+        "onboard_time": 1718766137,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168956,
+        "num": 168956,
+        "word": "上海地铁",
+        "onboard_time": 1718760438,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167814,
+        "num": 167814,
+        "word": "霍建华爱哭而心如可以止水",
+        "onboard_time": 1718760858,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166223,
+        "num": 166223,
+        "word": "Letme谈Uzi停播",
+        "onboard_time": 1718763798,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147179,
+        "num": 147179,
+        "word": "脸上这3个变化说明脸开始垮了",
+        "onboard_time": 1718757198,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145843,
+        "num": 145843,
+        "word": "这种饮料对身体好建议你夏天多喝",
+        "onboard_time": 1718757499,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142440,
+        "num": 142440,
+        "word": "妈妈晒俩闺女房间差距有多大",
+        "onboard_time": 1718755817,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141139,
+        "num": 141139,
+        "word": "梁永棋剧里淡淡剧外癫癫",
+        "onboard_time": 1718767817,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138453,
+        "num": 138453,
+        "word": "轨交幺幺零",
+        "onboard_time": 1718767039,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137649,
+        "num": 137649,
+        "word": "大熊猫背上长出熊猫了",
+        "onboard_time": 1718761939,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135842,
+        "num": 135842,
+        "word": "闺蜜驯服了一只苍蝇做宠物",
+        "onboard_time": 1718764037,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135586,
+        "num": 135586,
+        "word": "MTJJ",
+        "onboard_time": 1718756899,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 133507,
+        "num": 133507,
+        "word": "普京抵达朝鲜",
+        "onboard_time": 1718753715,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好防汛抗旱工作关键在于实#"
+    }
+  }
+}
