@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718785465809,
+  "endTime": 1718786243772,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -235,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 680368,
+      "num": 182732,
+      "word": "为什么牙缝里的黄色物质那么臭",
+      "onboard_time": 1718786003,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 628180,
       "num": 628180,
       "word": "胖东来调改永辉超市重新开业",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 474686,
-      "num": 182514,
+      "num": 182669,
       "word": "武艺一天官宣了两部综艺",
       "onboard_time": 1718782702,
       "rank": 20,
@@ -393,6 +401,14 @@
       "onboard_time": 1718763559,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437055,
+      "num": 270096,
+      "word": "关芝芝活成了玫瑰曾经的样子",
+      "onboard_time": 1718784198,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 434427,
@@ -563,19 +579,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340892,
+      "num": 272495,
+      "word": "墨雨云间 原来表哥什么都知道",
+      "onboard_time": 1718781560,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340590,
       "num": 340590,
       "word": "刘亦菲把初为人母的感觉演出来了",
       "onboard_time": 1718749691,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 339320,
-      "num": 272495,
-      "word": "墨雨云间 原来表哥什么都知道",
-      "onboard_time": 1718781560,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -601,14 +617,6 @@
       "onboard_time": 1718778800,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 318166,
-      "num": 270096,
-      "word": "关芝芝活成了玫瑰曾经的样子",
-      "onboard_time": 1718784198,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 314121,
@@ -699,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282546,
+      "num": 282546,
+      "word": "初级会计成绩",
+      "onboard_time": 1718785342,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 282505,
       "num": 282505,
       "word": "流萤 不歪",
@@ -756,7 +772,7 @@
     },
     {
       "raw_hot": 265885,
-      "num": 181882,
+      "num": 182186,
       "word": "罗云熙一眼就能认出七仔",
       "onboard_time": 1718784499,
       "rank": 22,
@@ -835,6 +851,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 235277,
+      "num": 182501,
+      "word": "齐思钧积分第一",
+      "onboard_time": 1718785882,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232407,
       "num": 232407,
       "word": "现在练车都在室内了吗",
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 223211,
-      "num": 181033,
+      "num": 181940,
       "word": "与凤行行云小院拆除",
       "onboard_time": 1718783721,
       "rank": 24,
@@ -891,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216727,
+      "num": 214152,
+      "word": "刘亦菲吃汉堡镜头",
+      "onboard_time": 1718781620,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214695,
       "num": 214695,
       "word": "黄亦玫离婚庄国栋再回国",
@@ -899,12 +931,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214152,
-      "num": 214152,
-      "word": "刘亦菲吃汉堡镜头",
-      "onboard_time": 1718781620,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 211327,
+      "num": 182298,
+      "word": "赵露思卢昱晓早期合照",
+      "onboard_time": 1718785702,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210744,
@@ -1099,12 +1131,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 182820,
+      "num": 182820,
+      "word": "韩国宣布进入人口危机紧急状态",
+      "onboard_time": 1718785642,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 182330,
       "num": 182330,
       "word": "TheShy回应中分问题",
       "onboard_time": 1718767277,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181874,
+      "num": 181874,
+      "word": "何炅 内娱活水印",
+      "onboard_time": 1718782580,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 181742,
@@ -1129,14 +1177,6 @@
       "onboard_time": 1718762839,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 178611,
-      "num": 178611,
-      "word": "何炅 内娱活水印",
-      "onboard_time": 1718782580,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 178453,
@@ -1179,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174217,
+      "num": 174217,
+      "word": "王嘉尔 没有感情的合照机器",
+      "onboard_time": 1718785281,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 173853,
       "num": 173853,
       "word": "刘亦菲 她力量赛道",
@@ -1201,6 +1249,14 @@
       "onboard_time": 1718784140,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 169653,
+      "num": 169653,
+      "word": "建华和更新",
+      "onboard_time": 1718785401,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 166965,
@@ -1323,6 +1379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 148058,
+      "num": 148058,
+      "word": "桂林的雨到底有多大",
+      "onboard_time": 1718782879,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147628,
       "num": 147628,
       "word": "谢霆锋半裸悬空打拳",
@@ -1371,6 +1435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142082,
+      "num": 142082,
+      "word": "黄景瑜这个歪头有点东西",
+      "onboard_time": 1718784560,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141139,
       "num": 141139,
       "word": "梁永棋剧里淡淡剧外癫癫",
@@ -1403,22 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139939,
-      "num": 139939,
-      "word": "初级会计成绩",
-      "onboard_time": 1718785342,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 138924,
-      "num": 138924,
-      "word": "黄景瑜这个歪头有点东西",
-      "onboard_time": 1718784560,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138659,
       "num": 138659,
       "word": "玫瑰的故事收视率新高",
@@ -1427,8 +1483,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137379,
-      "num": 137379,
+      "raw_hot": 137597,
+      "num": 137597,
       "word": "姜元柏七宗罪",
       "onboard_time": 1718785100,
       "rank": 35,
@@ -1441,14 +1497,6 @@
       "onboard_time": 1718764037,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135596,
-      "num": 135596,
-      "word": "桂林的雨到底有多大",
-      "onboard_time": 1718782879,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 135400,
@@ -1489,14 +1537,6 @@
       "onboard_time": 1718768660,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129042,
-      "num": 129042,
-      "word": "王嘉尔 没有感情的合照机器",
-      "onboard_time": 1718785281,
-      "rank": 40,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 128592,
@@ -1673,14 +1713,6 @@
       "onboard_time": 1718782759,
       "rank": 45,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 103437,
-      "num": 103437,
-      "word": "建华和更新",
-      "onboard_time": 1718785401,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 103298,
@@ -1947,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 70197,
+      "num": 278184,
+      "word": "专属于成都人夏天的香味",
+      "onboard_time": 1718784679,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 67786,
       "num": 246818,
       "word": "黄子韬奥斯卡",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1718735352,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 53778,
-      "num": 278184,
-      "word": "专属于成都人夏天的香味",
-      "onboard_time": 1718784679,
-      "rank": 9,
-      "category": "旅游"
     },
     {
       "raw_hot": 53453,
@@ -2115,6 +2147,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 39465,
+      "num": 182390,
+      "word": "黄渤评价吴磊",
+      "onboard_time": 1718782341,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 38848,
+      "num": 278346,
+      "word": "南方强降雨多条道路通行受阻",
+      "onboard_time": 1718785822,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38631,
       "num": 68067,
       "word": "新疆阿勒泰梦幻繁星",
@@ -2171,14 +2219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 30896,
-      "num": 179335,
-      "word": "黄渤评价吴磊",
-      "onboard_time": 1718782341,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 26996,
       "num": 26996,
       "word": "姆巴佩无缘对阵荷兰",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1718719581,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 21916,
+      "num": 182099,
+      "word": "日本小学生的英语作业",
+      "onboard_time": 1718786003,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20529,
