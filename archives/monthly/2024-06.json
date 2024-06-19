@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718753690859,
+  "endTime": 1718760074724,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -979,6 +979,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 1647959,
+      "num": 1647959,
+      "word": "乌克兰打败俄罗斯才能加入北约",
+      "onboard_time": 1718757918,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1640927,
       "num": 1640927,
       "word": "李昊 磨洋工",
@@ -1289,6 +1297,14 @@
       "onboard_time": 1718701218,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1505360,
+      "num": 927625,
+      "word": "罗云熙向车主道歉",
+      "onboard_time": 1718754496,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1502394,
@@ -1777,6 +1793,14 @@
       "onboard_time": 1718624417,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1354237,
+      "num": 1354237,
+      "word": "楠火锅致歉",
+      "onboard_time": 1718756418,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 1344883,
@@ -6243,6 +6267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680884,
+      "num": 680884,
+      "word": "发现朋友圈一个很无语的bug",
+      "onboard_time": 1718756177,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 679973,
       "num": 679973,
       "word": "杭州保姆保住东家900多万养老钱",
@@ -8787,6 +8819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542419,
+      "num": 241815,
+      "word": "快订婚了才得知对方是二婚",
+      "onboard_time": 1718756358,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 542391,
       "num": 542391,
       "word": "姜萍初中数学教师发声",
@@ -9377,6 +9417,14 @@
       "onboard_time": 1717655718,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 521629,
+      "num": 521629,
+      "word": "普京抵达朝鲜",
+      "onboard_time": 1718753715,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 521342,
@@ -10713,6 +10761,14 @@
       "onboard_time": 1717308318,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473800,
+      "num": 473800,
+      "word": "张馨予玫瑰的故事观后感",
+      "onboard_time": 1718755758,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 473114,
@@ -13347,6 +13403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394368,
+      "num": 394368,
+      "word": "12张思维导图理清大学专业",
+      "onboard_time": 1718755758,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 394018,
       "num": 394018,
       "word": "赵丽颖栗子妆",
@@ -15131,6 +15195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 349127,
+      "num": 241174,
+      "word": "妈妈晒俩闺女房间差距有多大",
+      "onboard_time": 1718755817,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 349084,
       "num": 323236,
       "word": "苏新皓TF三代出道战主题曲C位",
@@ -15689,6 +15761,14 @@
       "onboard_time": 1717909879,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 337049,
+      "num": 337049,
+      "word": "MTJJ",
+      "onboard_time": 1718756899,
+      "rank": 10,
+      "category": "动漫"
     },
     {
       "raw_hot": 336939,
@@ -16875,6 +16955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312640,
+      "num": 312640,
+      "word": "唯一一个方协文洗白的视频",
+      "onboard_time": 1718758878,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312583,
       "num": 312583,
       "word": "光头新卡",
@@ -17425,6 +17513,14 @@
       "onboard_time": 1718356520,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299848,
+      "num": 299848,
+      "word": "直播工作 每月2万保底工资靠谱吗",
+      "onboard_time": 1718724201,
+      "rank": 12,
+      "category": "科学科普,网红"
     },
     {
       "raw_hot": 299608,
@@ -18083,6 +18179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 289750,
+      "num": 289750,
+      "word": "毕业论文查重机制不能误伤认真的学生",
+      "onboard_time": 1718757798,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 289510,
       "num": 282767,
       "word": "周杰伦 当年我也是歌火人不火",
@@ -18281,6 +18385,14 @@
       "onboard_time": 1717756578,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286772,
+      "num": 286772,
+      "word": "王嘉尔半裸出发图",
+      "onboard_time": 1718759479,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 286556,
@@ -20619,6 +20731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248493,
+      "num": 248493,
+      "word": "玫瑰离婚",
+      "onboard_time": 1718759598,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248415,
       "num": 248415,
       "word": "Uzi 剑网三",
@@ -20987,6 +21107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 243016,
+      "num": 243016,
+      "word": "朱朱 蔡蔡",
+      "onboard_time": 1718755937,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242623,
       "num": 242623,
       "word": "凯尔特人vs独行侠",
@@ -21209,6 +21337,14 @@
       "onboard_time": 1717370715,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239917,
+      "num": 239917,
+      "word": "中餐厅8出发路透",
+      "onboard_time": 1718755579,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 239784,
@@ -21809,6 +21945,14 @@
       "onboard_time": 1718346137,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 232249,
+      "num": 232249,
+      "word": "张馨予回应去巴黎找果冻",
+      "onboard_time": 1718757980,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 231828,
@@ -23507,6 +23651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 214695,
+      "num": 214695,
+      "word": "黄亦玫离婚庄国栋再回国",
+      "onboard_time": 1718758219,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214686,
       "num": 214686,
       "word": "斯瓦泰克大满贯第五冠",
@@ -24227,6 +24379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209018,
+      "num": 209018,
+      "word": "英伟达成全球市值最高股票",
+      "onboard_time": 1718753595,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 208926,
       "num": 309473,
       "word": "高考是你多少年前的回忆杀了",
@@ -24731,6 +24891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205821,
+      "num": 205821,
+      "word": "脸上这3个变化说明脸开始垮了",
+      "onboard_time": 1718757198,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 205810,
       "num": 205810,
       "word": "登陆计划",
@@ -24753,6 +24921,14 @@
       "onboard_time": 1718536818,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205752,
+      "num": 205752,
+      "word": "小杨哥东方甄选未进618销量前10",
+      "onboard_time": 1718756538,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 205694,
@@ -25497,6 +25673,14 @@
       "onboard_time": 1718507358,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201573,
+      "num": 201573,
+      "word": "原来韩国人追剧是不看字幕的",
+      "onboard_time": 1718753595,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 201510,
@@ -26875,12 +27059,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194820,
+      "num": 194820,
+      "word": "苹果或于2025年推出廉价头显",
+      "onboard_time": 1718759179,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194720,
       "num": 194720,
       "word": "WTT重庆冠军赛2024",
       "onboard_time": 1717247119,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194694,
+      "num": 194694,
+      "word": "开始推理吧",
+      "onboard_time": 1718758938,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 194686,
@@ -27603,6 +27803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191003,
+      "num": 191003,
+      "word": "大学生兼职没赚到钱反而负债上万",
+      "onboard_time": 1718759418,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190969,
       "num": 170118,
       "word": "惠若琪说香港站就能看出名单了",
@@ -28155,6 +28363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187984,
+      "num": 187984,
+      "word": "这种饮料对身体好建议你夏天多喝",
+      "onboard_time": 1718757499,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 187924,
       "num": 187924,
       "word": "高铁车窗发现求救信息",
@@ -28409,6 +28625,14 @@
       "onboard_time": 1717730661,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 186515,
+      "num": 186515,
+      "word": "于正回应被拒演",
+      "onboard_time": 1718755038,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 186501,
@@ -34107,6 +34331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155129,
+      "num": 155129,
+      "word": "肖战登上日本杂志",
+      "onboard_time": 1718754077,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155125,
       "num": 158323,
       "word": "爽文的风吹到了狗界",
@@ -34993,6 +35225,14 @@
       "onboard_time": 1717665200,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151275,
+      "num": 151275,
+      "word": "T人和F人真的很好分辨",
+      "onboard_time": 1718756000,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 151240,
@@ -36739,6 +36979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142183,
+      "num": 142183,
+      "word": "余琦就不当言行致歉",
+      "onboard_time": 1718758759,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142165,
       "num": 142165,
       "word": "墨雨云间男演员 脸盲",
@@ -37201,6 +37449,14 @@
       "onboard_time": 1718265860,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140147,
+      "num": 140147,
+      "word": "日本疯传的食人菌是什么",
+      "onboard_time": 1718734633,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140143,
@@ -40363,6 +40619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126390,
+      "num": 126390,
+      "word": "LV春夏25男装秀",
+      "onboard_time": 1718759298,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 126368,
       "num": 126368,
       "word": "张雪峰高考前直播 4条建议",
@@ -40819,6 +41083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124583,
+      "num": 124583,
+      "word": "郑州版胖东来即将开业",
+      "onboard_time": 1718754617,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124508,
       "num": 124508,
       "word": "小鬼魏大勋毛不易郭麒麟尹正合拍",
@@ -40929,6 +41201,14 @@
       "onboard_time": 1717912038,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124033,
+      "num": 124033,
+      "word": "我发现谈恋爱是在谈一种能力",
+      "onboard_time": 1718754917,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 123984,
@@ -41835,6 +42115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119340,
+      "num": 202168,
+      "word": "报志愿必备学科专业清单",
+      "onboard_time": 1718760018,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 119326,
       "num": 119326,
       "word": "蔡徐坤水星系造型",
@@ -42377,6 +42665,14 @@
       "onboard_time": 1717946180,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116601,
+      "num": 116601,
+      "word": "美媒称贾斯汀汀布莱克被捕",
+      "onboard_time": 1718760018,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116593,
@@ -43641,14 +43937,6 @@
       "onboard_time": 1717595300,
       "rank": 48,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 110481,
-      "num": 110481,
-      "word": "日本疯传的食人菌是什么",
-      "onboard_time": 1718734633,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110465,
@@ -45915,6 +46203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95614,
+      "num": 292763,
+      "word": "洪水中消防手挨手捧起吃手手奶娃",
+      "onboard_time": 1718759418,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95487,
       "num": 68546,
       "word": "徐璐下衣失踪",
@@ -46025,14 +46321,6 @@
       "onboard_time": 1718417897,
       "rank": 23,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 94439,
-      "num": 94439,
-      "word": "英伟达成全球市值最高股票",
-      "onboard_time": 1718753595,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 94437,
@@ -48953,14 +49241,6 @@
       "onboard_time": 1717845977,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 60198,
-      "num": 60198,
-      "word": "原来韩国人追剧是不看字幕的",
-      "onboard_time": 1718753595,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 60092,
@@ -53171,6 +53451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19449,
+      "num": 1165061,
+      "word": "国之重器更是国之底气",
+      "onboard_time": 1718669237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19243,
       "num": 167349,
       "word": "豫见郑州文旅新篇章",
@@ -54040,14 +54328,6 @@
       "word": "原来有种职业专门逗笑小朋友",
       "onboard_time": 1717264694,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9881,
-      "num": 1165061,
-      "word": "国之重器更是国之底气",
-      "onboard_time": 1718669237,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718753690859,
+  "endTime": 1718760074724,
   "band_list": [
     {
       "raw_hot": 2554433,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1647959,
+      "num": 1647959,
+      "word": "乌克兰打败俄罗斯才能加入北约",
+      "onboard_time": 1718757918,
+      "rank": 0,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1618584,
       "num": 1618584,
       "word": "姜萍4月份总成绩年级第一",
@@ -113,6 +121,14 @@
       "onboard_time": 1718701218,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1505360,
+      "num": 927625,
+      "word": "罗云熙向车主道歉",
+      "onboard_time": 1718754496,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1499239,
@@ -225,6 +241,14 @@
       "onboard_time": 1718624417,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1354237,
+      "num": 1354237,
+      "word": "楠火锅致歉",
+      "onboard_time": 1718756418,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 1344883,
@@ -1051,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 680884,
+      "num": 680884,
+      "word": "发现朋友圈一个很无语的bug",
+      "onboard_time": 1718756177,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 672100,
       "num": 320384,
       "word": "贾乃亮赚翻了背后MCN亏惨了",
@@ -1491,6 +1523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 542419,
+      "num": 241815,
+      "word": "快订婚了才得知对方是二婚",
+      "onboard_time": 1718756358,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 542391,
       "num": 542391,
       "word": "姜萍初中数学教师发声",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1718611278,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 521629,
+      "num": 521629,
+      "word": "普京抵达朝鲜",
+      "onboard_time": 1718753715,
+      "rank": 6,
+      "category": "国外时政"
     },
     {
       "raw_hot": 521135,
@@ -1841,6 +1889,14 @@
       "onboard_time": 1718684779,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 473800,
+      "num": 473800,
+      "word": "张馨予玫瑰的故事观后感",
+      "onboard_time": 1718755758,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 470767,
@@ -2339,6 +2395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 394368,
+      "num": 394368,
+      "word": "12张思维导图理清大学专业",
+      "onboard_time": 1718755758,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 394018,
       "num": 394018,
       "word": "赵丽颖栗子妆",
@@ -2707,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349127,
+      "num": 241174,
+      "word": "妈妈晒俩闺女房间差距有多大",
+      "onboard_time": 1718755817,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347707,
       "num": 343831,
       "word": "荣梓杉想演张若昀赵丽颖的儿子",
@@ -2801,6 +2873,14 @@
       "onboard_time": 1718689996,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337049,
+      "num": 337049,
+      "word": "MTJJ",
+      "onboard_time": 1718756899,
+      "rank": 10,
+      "category": "动漫"
     },
     {
       "raw_hot": 335105,
@@ -3011,6 +3091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312640,
+      "num": 312640,
+      "word": "唯一一个方协文洗白的视频",
+      "onboard_time": 1718758878,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311919,
       "num": 311919,
       "word": "雷佳音胡歌 平番",
@@ -3089,6 +3177,14 @@
       "onboard_time": 1718679136,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 299848,
+      "num": 299848,
+      "word": "直播工作 每月2万保底工资靠谱吗",
+      "onboard_time": 1718724201,
+      "rank": 12,
+      "category": "科学科普,网红"
     },
     {
       "raw_hot": 298235,
@@ -3203,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289750,
+      "num": 289750,
+      "word": "毕业论文查重机制不能误伤认真的学生",
+      "onboard_time": 1718757798,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 288457,
       "num": 288457,
       "word": "凯尔特人4比1独行侠",
@@ -3217,6 +3321,14 @@
       "onboard_time": 1718590817,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286772,
+      "num": 286772,
+      "word": "王嘉尔半裸出发图",
+      "onboard_time": 1718759479,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 286556,
@@ -3619,6 +3731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 248493,
+      "num": 248493,
+      "word": "玫瑰离婚",
+      "onboard_time": 1718759598,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246581,
       "num": 246581,
       "word": "卧铺车上面对女乘客裸睡男子被拘5日",
@@ -3651,6 +3771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243016,
+      "num": 243016,
+      "word": "朱朱 蔡蔡",
+      "onboard_time": 1718755937,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242237,
       "num": 242237,
       "word": "林更新考研了口才更好了",
@@ -3681,6 +3809,14 @@
       "onboard_time": 1718507417,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 239917,
+      "num": 239917,
+      "word": "中餐厅8出发路透",
+      "onboard_time": 1718755579,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 239336,
@@ -3745,6 +3881,14 @@
       "onboard_time": 1718609838,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232249,
+      "num": 232249,
+      "word": "张馨予回应去巴黎找果冻",
+      "onboard_time": 1718757980,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 232051,
@@ -4051,6 +4195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214695,
+      "num": 214695,
+      "word": "黄亦玫离婚庄国栋再回国",
+      "onboard_time": 1718758219,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214585,
       "num": 160477,
       "word": "彭昱畅瘦了好多",
@@ -4203,6 +4355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209018,
+      "num": 209018,
+      "word": "英伟达成全球市值最高股票",
+      "onboard_time": 1718753595,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 207968,
       "num": 207968,
       "word": "那英吃香肠偷感好重",
@@ -4275,12 +4435,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205821,
+      "num": 205821,
+      "word": "脸上这3个变化说明脸开始垮了",
+      "onboard_time": 1718757198,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 205799,
       "num": 205799,
       "word": "滴滴6亿补贴鼓励司机开空调",
       "onboard_time": 1718536818,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205752,
+      "num": 205752,
+      "word": "小杨哥东方甄选未进618销量前10",
+      "onboard_time": 1718756538,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 205413,
@@ -4393,6 +4569,14 @@
       "onboard_time": 1718507358,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201573,
+      "num": 201573,
+      "word": "原来韩国人追剧是不看字幕的",
+      "onboard_time": 1718753595,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 200938,
@@ -4627,6 +4811,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194820,
+      "num": 194820,
+      "word": "苹果或于2025年推出廉价头显",
+      "onboard_time": 1718759179,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 194694,
+      "num": 194694,
+      "word": "开始推理吧",
+      "onboard_time": 1718758938,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194199,
       "num": 194199,
       "word": "秀出你的王者S35段位",
@@ -4803,6 +5003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191003,
+      "num": 191003,
+      "word": "大学生兼职没赚到钱反而负债上万",
+      "onboard_time": 1718759418,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190946,
       "num": 190946,
       "word": "看玫瑰的故事远离恋爱脑",
@@ -4891,6 +5099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187984,
+      "num": 187984,
+      "word": "这种饮料对身体好建议你夏天多喝",
+      "onboard_time": 1718757499,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 187689,
       "num": 187689,
       "word": "怎么委婉的提醒客户金额看错了",
@@ -4921,6 +5137,14 @@
       "onboard_time": 1718520856,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186515,
+      "num": 186515,
+      "word": "于正回应被拒演",
+      "onboard_time": 1718755038,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 186410,
@@ -5955,6 +6179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155129,
+      "num": 155129,
+      "word": "肖战登上日本杂志",
+      "onboard_time": 1718754077,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155100,
       "num": 155100,
       "word": "薛芳菲报仇位轮到前夫哥了",
@@ -6121,6 +6353,14 @@
       "onboard_time": 1718608037,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151275,
+      "num": 151275,
+      "word": "T人和F人真的很好分辨",
+      "onboard_time": 1718756000,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 150974,
@@ -6419,6 +6659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142183,
+      "num": 142183,
+      "word": "余琦就不当言行致歉",
+      "onboard_time": 1718758759,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 142164,
       "num": 142164,
       "word": "赖冠霖 退圈信",
@@ -6497,6 +6745,14 @@
       "onboard_time": 1718752814,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140147,
+      "num": 140147,
+      "word": "日本疯传的食人菌是什么",
+      "onboard_time": 1718734633,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140061,
@@ -7195,6 +7451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126390,
+      "num": 126390,
+      "word": "LV春夏25男装秀",
+      "onboard_time": 1718759298,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 126187,
       "num": 126187,
       "word": "人类这一百年走得太快了",
@@ -7299,12 +7563,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124583,
+      "num": 124583,
+      "word": "郑州版胖东来即将开业",
+      "onboard_time": 1718754617,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124044,
       "num": 124044,
       "word": "英伟达股价一个月累计上涨42%",
       "onboard_time": 1718673857,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 124033,
+      "num": 124033,
+      "word": "我发现谈恋爱是在谈一种能力",
+      "onboard_time": 1718754917,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 123984,
@@ -7499,6 +7779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119340,
+      "num": 202168,
+      "word": "报志愿必备学科专业清单",
+      "onboard_time": 1718760018,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 118834,
       "num": 118834,
       "word": "成毅亮钻大衣",
@@ -7593,6 +7881,14 @@
       "onboard_time": 1718592377,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116601,
+      "num": 116601,
+      "word": "美媒称贾斯汀汀布莱克被捕",
+      "onboard_time": 1718760018,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 116176,
@@ -7761,14 +8057,6 @@
       "onboard_time": 1718585658,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110481,
-      "num": 110481,
-      "word": "日本疯传的食人菌是什么",
-      "onboard_time": 1718734633,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110465,
@@ -8267,6 +8555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95614,
+      "num": 292763,
+      "word": "洪水中消防手挨手捧起吃手手奶娃",
+      "onboard_time": 1718759418,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95269,
       "num": 95269,
       "word": "鞠婧祎对接再发文",
@@ -8281,14 +8577,6 @@
       "onboard_time": 1718458938,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94439,
-      "num": 94439,
-      "word": "英伟达成全球市值最高股票",
-      "onboard_time": 1718753595,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 94437,
@@ -8985,14 +9273,6 @@
       "onboard_time": 1718611819,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60198,
-      "num": 60198,
-      "word": "原来韩国人追剧是不看字幕的",
-      "onboard_time": 1718753595,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 60043,
@@ -9987,6 +10267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19449,
+      "num": 1165061,
+      "word": "国之重器更是国之底气",
+      "onboard_time": 1718669237,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19243,
       "num": 167349,
       "word": "豫见郑州文旅新篇章",
@@ -10192,14 +10480,6 @@
       "word": "他从6米高的桥上跃下救起落水女子",
       "onboard_time": 1718557275,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9881,
-      "num": 1165061,
-      "word": "国之重器更是国之底气",
-      "onboard_time": 1718669237,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

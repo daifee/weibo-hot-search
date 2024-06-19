@@ -1,0 +1,410 @@
+{
+  "runTime": 1718760074724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1647959,
+        "num": 1647959,
+        "word": "乌克兰打败俄罗斯才能加入北约",
+        "onboard_time": 1718757918,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1354237,
+        "num": 1354237,
+        "word": "楠火锅致歉",
+        "onboard_time": 1718756418,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19449,
+        "num": 960937,
+        "word": "国之重器更是国之底气",
+        "onboard_time": 1718669237,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1505360,
+        "num": 927625,
+        "word": "罗云熙向车主道歉",
+        "onboard_time": 1718754496,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 872812,
+        "num": 872812,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 680884,
+        "num": 680884,
+        "word": "发现朋友圈一个很无语的bug",
+        "onboard_time": 1718756177,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521629,
+        "num": 521629,
+        "word": "普京抵达朝鲜",
+        "onboard_time": 1718753715,
+        "rank": 6,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 473800,
+        "num": 473800,
+        "word": "张馨予玫瑰的故事观后感",
+        "onboard_time": 1718755758,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394368,
+        "num": 394368,
+        "word": "12张思维导图理清大学专业",
+        "onboard_time": 1718755758,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 349912,
+        "num": 349912,
+        "word": "高铁乘客想放倒座椅遭后排一脚抵住",
+        "onboard_time": 1718742671,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337049,
+        "num": 337049,
+        "word": "MTJJ",
+        "onboard_time": 1718756899,
+        "rank": 10,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 312640,
+        "num": 312640,
+        "word": "唯一一个方协文洗白的视频",
+        "onboard_time": 1718758878,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299848,
+        "num": 299848,
+        "word": "直播工作 每月2万保底工资靠谱吗",
+        "onboard_time": 1718724201,
+        "rank": 12,
+        "category": "科学科普,网红"
+      },
+      {
+        "raw_hot": 95614,
+        "num": 292763,
+        "word": "洪水中消防手挨手捧起吃手手奶娃",
+        "onboard_time": 1718759418,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292093,
+        "num": 292093,
+        "word": "翻白眼两周后视力恢复正常状态",
+        "onboard_time": 1718722278,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 289750,
+        "num": 289750,
+        "word": "毕业论文查重机制不能误伤认真的学生",
+        "onboard_time": 1718757798,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286772,
+        "num": 286772,
+        "word": "王嘉尔半裸出发图",
+        "onboard_time": 1718759479,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248493,
+        "num": 248493,
+        "word": "玫瑰离婚",
+        "onboard_time": 1718759598,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246012,
+        "num": 246012,
+        "word": "庄国栋带孩子",
+        "onboard_time": 1718720300,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243016,
+        "num": 243016,
+        "word": "朱朱 蔡蔡",
+        "onboard_time": 1718755937,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542419,
+        "num": 241815,
+        "word": "快订婚了才得知对方是二婚",
+        "onboard_time": 1718756358,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349127,
+        "num": 241174,
+        "word": "妈妈晒俩闺女房间差距有多大",
+        "onboard_time": 1718755817,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239917,
+        "num": 239917,
+        "word": "中餐厅8出发路透",
+        "onboard_time": 1718755579,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232249,
+        "num": 232249,
+        "word": "张馨予回应去巴黎找果冻",
+        "onboard_time": 1718757980,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214695,
+        "num": 214695,
+        "word": "黄亦玫离婚庄国栋再回国",
+        "onboard_time": 1718758219,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209018,
+        "num": 209018,
+        "word": "英伟达成全球市值最高股票",
+        "onboard_time": 1718753595,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 205821,
+        "num": 205821,
+        "word": "脸上这3个变化说明脸开始垮了",
+        "onboard_time": 1718757198,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205752,
+        "num": 205752,
+        "word": "小杨哥东方甄选未进618销量前10",
+        "onboard_time": 1718756538,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203177,
+        "num": 203177,
+        "word": "刘亦菲把初为人母的感觉演出来了",
+        "onboard_time": 1718749691,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119340,
+        "num": 202168,
+        "word": "报志愿必备学科专业清单",
+        "onboard_time": 1718760018,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201573,
+        "num": 201573,
+        "word": "原来韩国人追剧是不看字幕的",
+        "onboard_time": 1718753595,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194820,
+        "num": 194820,
+        "word": "苹果或于2025年推出廉价头显",
+        "onboard_time": 1718759179,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 194694,
+        "num": 194694,
+        "word": "开始推理吧",
+        "onboard_time": 1718758938,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191003,
+        "num": 191003,
+        "word": "大学生兼职没赚到钱反而负债上万",
+        "onboard_time": 1718759418,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187984,
+        "num": 187984,
+        "word": "这种饮料对身体好建议你夏天多喝",
+        "onboard_time": 1718757499,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186515,
+        "num": 186515,
+        "word": "于正回应被拒演",
+        "onboard_time": 1718755038,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179870,
+        "num": 179870,
+        "word": "鞠婧祎 到期不续",
+        "onboard_time": 1718709137,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163711,
+        "num": 163711,
+        "word": "葡萄牙2比1捷克",
+        "onboard_time": 1718752454,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159843,
+        "num": 159843,
+        "word": "高铁晚点 补偿",
+        "onboard_time": 1718715498,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 158049,
+        "num": 158049,
+        "word": "存了8万后变成了病态省钱",
+        "onboard_time": 1718710996,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155129,
+        "num": 155129,
+        "word": "肖战登上日本杂志",
+        "onboard_time": 1718754077,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152819,
+        "num": 152819,
+        "word": "开始推理吧 何炅",
+        "onboard_time": 1718721559,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151275,
+        "num": 151275,
+        "word": "T人和F人真的很好分辨",
+        "onboard_time": 1718756000,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142183,
+        "num": 142183,
+        "word": "余琦就不当言行致歉",
+        "onboard_time": 1718758759,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140147,
+        "num": 140147,
+        "word": "日本疯传的食人菌是什么",
+        "onboard_time": 1718734633,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139088,
+        "num": 139088,
+        "word": "南拳妈妈内斗",
+        "onboard_time": 1718723240,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126390,
+        "num": 126390,
+        "word": "LV春夏25男装秀",
+        "onboard_time": 1718759298,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 124583,
+        "num": 124583,
+        "word": "郑州版胖东来即将开业",
+        "onboard_time": 1718754617,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124033,
+        "num": 124033,
+        "word": "我发现谈恋爱是在谈一种能力",
+        "onboard_time": 1718754917,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116601,
+        "num": 116601,
+        "word": "美媒称贾斯汀汀布莱克被捕",
+        "onboard_time": 1718760018,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对防汛抗旱工作作出重要指示#"
+    }
+  }
+}
