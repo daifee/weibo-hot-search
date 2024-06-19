@@ -1,0 +1,410 @@
+{
+  "runTime": 1718810471154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1351190,
+        "num": 1351190,
+        "word": "玫瑰的故事最炸裂的台词出现了",
+        "onboard_time": 1718808321,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 828577,
+        "num": 828577,
+        "word": "克罗地亚vs阿尔巴尼亚",
+        "onboard_time": 1718806580,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34858,
+        "num": 799475,
+        "word": "中国式现代化的万千气象",
+        "onboard_time": 1718803761,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1283837,
+        "num": 799445,
+        "word": "苏苏结过婚",
+        "onboard_time": 1718805260,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 792311,
+        "num": 792311,
+        "word": "2024高考成绩公布时间汇总",
+        "onboard_time": 1718806040,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 530757,
+        "num": 530757,
+        "word": "克罗地亚2比2阿尔巴尼亚",
+        "onboard_time": 1718810359,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1136296,
+        "num": 499870,
+        "word": "将门毒后",
+        "onboard_time": 1718808859,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438753,
+        "num": 438753,
+        "word": "莫德里奇老了",
+        "onboard_time": 1718807239,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391340,
+        "num": 391340,
+        "word": "黄亦玫的离婚诉讼书是自己写的",
+        "onboard_time": 1718804600,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30769,
+        "num": 390609,
+        "word": "白衣小伙教科书式救助误入高架老人",
+        "onboard_time": 1718807301,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 656656,
+        "num": 384511,
+        "word": "一家7口套现20亿",
+        "onboard_time": 1718791759,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 573741,
+        "num": 380347,
+        "word": "外交部回应中国游泳运动员兴奋剂阳性",
+        "onboard_time": 1718807360,
+        "rank": 11,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 524262,
+        "num": 375971,
+        "word": "女孩秋千跌落身亡设备公司判赔107万",
+        "onboard_time": 1718809519,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371976,
+        "num": 371976,
+        "word": "初级会计成绩",
+        "onboard_time": 1718785342,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304605,
+        "num": 304605,
+        "word": "克罗地亚3分钟2球",
+        "onboard_time": 1718809460,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289852,
+        "num": 289852,
+        "word": "真的建议报考上海交通大学",
+        "onboard_time": 1718803220,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 283623,
+        "num": 283623,
+        "word": "韩国宣布进入人口危机紧急状态",
+        "onboard_time": 1718785642,
+        "rank": 16,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 274282,
+        "num": 274282,
+        "word": "住持和女主播发生关系被敲诈案宣判",
+        "onboard_time": 1718797219,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273455,
+        "num": 273455,
+        "word": "赵露思把耳机挂腰上",
+        "onboard_time": 1718801181,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255785,
+        "num": 255785,
+        "word": "黄亦玫离婚",
+        "onboard_time": 1718795959,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314854,
+        "num": 253543,
+        "word": "胖哪都不要胖肚子",
+        "onboard_time": 1718805740,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250657,
+        "num": 250657,
+        "word": "天蝎座突然冷淡的原因",
+        "onboard_time": 1718802440,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243377,
+        "num": 243377,
+        "word": "陈泽直播",
+        "onboard_time": 1718808080,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 234844,
+        "num": 234844,
+        "word": "欧洲杯",
+        "onboard_time": 1718806400,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229994,
+        "num": 229994,
+        "word": "霍建华出场",
+        "onboard_time": 1718803460,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212382,
+        "num": 212382,
+        "word": "有车有房存款30万适合回县城吗",
+        "onboard_time": 1718798418,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204799,
+        "num": 204799,
+        "word": "德国vs匈牙利",
+        "onboard_time": 1718809641,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180339,
+        "num": 180339,
+        "word": "余华当了高考反面教材二十年",
+        "onboard_time": 1718806580,
+        "rank": 27,
+        "category": "读书作家,教育"
+      },
+      {
+        "raw_hot": 176399,
+        "num": 176399,
+        "word": "小伙刮到第13张喜中100万大奖",
+        "onboard_time": 1718802620,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170977,
+        "num": 170977,
+        "word": "SM英国男团颜值",
+        "onboard_time": 1718799018,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168380,
+        "num": 168380,
+        "word": "墨雨云间34集预告",
+        "onboard_time": 1718808801,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166317,
+        "num": 166317,
+        "word": "被嫌弃的黄牙多数是正常牙齿颜色",
+        "onboard_time": 1718805501,
+        "rank": 31,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 160167,
+        "num": 160167,
+        "word": "素媛案罪犯赵斗淳再出狱",
+        "onboard_time": 1718796499,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157665,
+        "num": 157665,
+        "word": "短发的田曦薇",
+        "onboard_time": 1718802979,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139939,
+        "num": 139939,
+        "word": "这10件心脏最怕的事可能你每天在做",
+        "onboard_time": 1718808380,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139834,
+        "num": 139834,
+        "word": "编剧回应庄国栋黄亦玫吻戏多",
+        "onboard_time": 1718805679,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135391,
+        "num": 135391,
+        "word": "潜意识爱上一个人的表现",
+        "onboard_time": 1718801059,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133607,
+        "num": 133607,
+        "word": "央视与腾讯就巴黎奥运会达成合作",
+        "onboard_time": 1718810181,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132008,
+        "num": 132008,
+        "word": "孩子吃华莱士汉堡吃出生肉",
+        "onboard_time": 1718793860,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122507,
+        "num": 122507,
+        "word": "戚薇月光白裙",
+        "onboard_time": 1718808500,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118662,
+        "num": 118662,
+        "word": "奇葩说辩手罗淼发长文力挺姜萍",
+        "onboard_time": 1718807780,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117745,
+        "num": 117745,
+        "word": "2024暑期档的第一部电影",
+        "onboard_time": 1718808140,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113770,
+        "num": 113770,
+        "word": "张远唱什么",
+        "onboard_time": 1718804060,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111119,
+        "num": 111119,
+        "word": "吴谨言王星越 芭莎",
+        "onboard_time": 1718786780,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 109908,
+        "num": 109908,
+        "word": "长公主初代爱疯",
+        "onboard_time": 1718800159,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107875,
+        "num": 107875,
+        "word": "鞠婧祎小号发博",
+        "onboard_time": 1718780541,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107656,
+        "num": 107656,
+        "word": "周深布达佩斯跑男录制",
+        "onboard_time": 1718805200,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107473,
+        "num": 107473,
+        "word": "黑帮的我成了高中生",
+        "onboard_time": 1718804180,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101937,
+        "num": 101937,
+        "word": "原来王星越也是个小财迷",
+        "onboard_time": 1718810300,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101521,
+        "num": 101521,
+        "word": "阿尔巴尼亚 防线",
+        "onboard_time": 1718807478,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委政治工作会议在延安召开#"
+    }
+  }
+}

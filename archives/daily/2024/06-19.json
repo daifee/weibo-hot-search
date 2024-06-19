@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718807735549,
+  "endTime": 1718810471154,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -131,6 +131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1351190,
+      "num": 1351190,
+      "word": "玫瑰的故事最炸裂的台词出现了",
+      "onboard_time": 1718808321,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1309936,
       "num": 230303,
       "word": "坐冷藏车遇难8人均是牛肉厂临时女工",
@@ -176,6 +184,14 @@
       "word": "方协文离婚后爆哭",
       "onboard_time": 1718806640,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1136296,
+      "num": 499870,
+      "word": "将门毒后",
+      "onboard_time": 1718808859,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -259,12 +275,28 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 828577,
+      "num": 828577,
+      "word": "克罗地亚vs阿尔巴尼亚",
+      "onboard_time": 1718806580,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 808518,
       "num": 808518,
       "word": "50岁卖鱼大叔身材管理堪比明星",
       "onboard_time": 1718770763,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 792311,
+      "num": 792311,
+      "word": "2024高考成绩公布时间汇总",
+      "onboard_time": 1718806040,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 785604,
@@ -387,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 573741,
+      "num": 380347,
+      "word": "外交部回应中国游泳运动员兴奋剂阳性",
+      "onboard_time": 1718807360,
+      "rank": 34,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 563313,
       "num": 505643,
       "word": "张雪峰说今年高考报考形势一片大好",
@@ -441,6 +481,22 @@
       "onboard_time": 1718799018,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 530757,
+      "num": 530757,
+      "word": "克罗地亚2比2阿尔巴尼亚",
+      "onboard_time": 1718810359,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 524262,
+      "num": 375971,
+      "word": "女孩秋千跌落身亡设备公司判赔107万",
+      "onboard_time": 1718809519,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 522007,
@@ -587,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438753,
+      "num": 438753,
+      "word": "莫德里奇老了",
+      "onboard_time": 1718807239,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 437055,
       "num": 350933,
       "word": "关芝芝活成了玫瑰曾经的样子",
@@ -715,16 +779,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 390028,
-      "num": 390028,
-      "word": "2024高考成绩公布时间汇总",
-      "onboard_time": 1718806040,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 387092,
-      "num": 387092,
+      "raw_hot": 391340,
+      "num": 391340,
       "word": "黄亦玫的离婚诉讼书是自己写的",
       "onboard_time": 1718804600,
       "rank": 13,
@@ -737,14 +793,6 @@
       "onboard_time": 1718721559,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382804,
-      "num": 382804,
-      "word": "克罗地亚vs阿尔巴尼亚",
-      "onboard_time": 1718806580,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 381929,
@@ -763,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371976,
+      "num": 371976,
+      "word": "初级会计成绩",
+      "onboard_time": 1718785342,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 370147,
       "num": 289155,
       "word": "刘亦菲粉发挑染",
@@ -777,14 +833,6 @@
       "onboard_time": 1718766857,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 362195,
-      "num": 362195,
-      "word": "初级会计成绩",
-      "onboard_time": 1718785342,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 360056,
@@ -931,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314854,
+      "num": 253543,
+      "word": "胖哪都不要胖肚子",
+      "onboard_time": 1718805740,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 314121,
       "num": 269854,
       "word": "鞠婧祎office发文",
@@ -969,6 +1025,14 @@
       "onboard_time": 1718774002,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 304605,
+      "num": 304605,
+      "word": "克罗地亚3分钟2球",
+      "onboard_time": 1718809460,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 302524,
@@ -1195,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243377,
+      "num": 243377,
+      "word": "陈泽直播",
+      "onboard_time": 1718808080,
+      "rank": 22,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 242702,
       "num": 242702,
       "word": "做得好啊任天堂",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1718785882,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234844,
+      "num": 234844,
+      "word": "欧洲杯",
+      "onboard_time": 1718630237,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 232407,
@@ -1419,6 +1499,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 204799,
+      "num": 204799,
+      "word": "德国vs匈牙利",
+      "onboard_time": 1718809641,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204390,
       "num": 204390,
       "word": "忙忙碌碌寻宝藏",
@@ -1467,28 +1555,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 198920,
-      "num": 198920,
-      "word": "莫德里奇老了",
-      "onboard_time": 1718807239,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197979,
       "num": 415914,
       "word": "瑞幸回应喝西梅美式腹泻",
       "onboard_time": 1718711058,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197223,
-      "num": 197223,
-      "word": "胖哪都不要胖肚子",
-      "onboard_time": 1718805740,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197092,
@@ -1811,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168380,
+      "num": 168380,
+      "word": "墨雨云间34集预告",
+      "onboard_time": 1718808801,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168021,
       "num": 168021,
       "word": "TT对战JDG",
@@ -1825,14 +1905,6 @@
       "onboard_time": 1718761939,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166129,
-      "num": 166129,
-      "word": "欧洲杯",
-      "onboard_time": 1718630237,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 165680,
@@ -1977,14 +2049,6 @@
       "onboard_time": 1718776888,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153322,
-      "num": 153322,
-      "word": "外交部回应中国游泳运动员兴奋剂阳性",
-      "onboard_time": 1718807360,
-      "rank": 34,
-      "category": "国内时政,体育"
     },
     {
       "raw_hot": 152581,
@@ -2187,6 +2251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139939,
+      "num": 139939,
+      "word": "这10件心脏最怕的事可能你每天在做",
+      "onboard_time": 1718808380,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138659,
       "num": 138659,
       "word": "玫瑰的故事收视率新高",
@@ -2249,6 +2321,14 @@
       "onboard_time": 1718805200,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133607,
+      "num": 133607,
+      "word": "央视与腾讯就巴黎奥运会达成合作",
+      "onboard_time": 1718810181,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 132590,
@@ -2419,6 +2499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122507,
+      "num": 122507,
+      "word": "戚薇月光白裙",
+      "onboard_time": 1718808500,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122084,
       "num": 122084,
       "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
@@ -2475,12 +2563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118662,
+      "num": 118662,
+      "word": "奇葩说辩手罗淼发长文力挺姜萍",
+      "onboard_time": 1718807780,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118348,
       "num": 118348,
       "word": "张云龙曾舜晞曾拒演墨雨云间",
       "onboard_time": 1718715379,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117745,
+      "num": 117745,
+      "word": "2024暑期档的第一部电影",
+      "onboard_time": 1718808140,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 117401,
@@ -2593,6 +2697,14 @@
       "onboard_time": 1718804720,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 101937,
+      "num": 101937,
+      "word": "原来王星越也是个小财迷",
+      "onboard_time": 1718810300,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 101722,
@@ -3201,6 +3313,14 @@
       "onboard_time": 1718776820,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30769,
+      "num": 390609,
+      "word": "白衣小伙教科书式救助误入高架老人",
+      "onboard_time": 1718807301,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 29150,
