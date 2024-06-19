@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718806671580,
+  "endTime": 1718807735549,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -219,20 +219,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1487408,
+      "num": 1487408,
+      "word": "苏苏结过婚",
+      "onboard_time": 1718805260,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1478200,
       "num": 1019571,
       "word": "周也公关",
       "onboard_time": 1718502796,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1465220,
-      "num": 1465220,
-      "word": "苏苏结过婚",
-      "onboard_time": 1718805260,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1461412,
@@ -569,6 +569,14 @@
       "onboard_time": 1718529798,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1139112,
+      "num": 329016,
+      "word": "方协文离婚后爆哭",
+      "onboard_time": 1718806640,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 1137130,
@@ -1891,6 +1899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 539664,
+      "num": 539664,
+      "word": "真的建议报考上海交通大学",
+      "onboard_time": 1718803220,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 539486,
       "num": 539486,
       "word": "网易云坏",
@@ -1969,14 +1985,6 @@
       "onboard_time": 1718626877,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 522919,
-      "num": 522919,
-      "word": "真的建议报考上海交通大学",
-      "onboard_time": 1718803220,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 522007,
@@ -2659,6 +2667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 427613,
+      "num": 388009,
+      "word": "天蝎座突然冷淡的原因",
+      "onboard_time": 1718802440,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427077,
       "num": 427077,
       "word": "巴黎奥运会女排分组抽签",
@@ -2827,14 +2843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404140,
-      "num": 388009,
-      "word": "天蝎座突然冷淡的原因",
-      "onboard_time": 1718802440,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 403822,
       "num": 403822,
       "word": "佟大为说刘诗诗的哭戏令人震撼",
@@ -2979,6 +2987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 390028,
+      "num": 390028,
+      "word": "2024高考成绩公布时间汇总",
+      "onboard_time": 1718806040,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 388254,
       "num": 211592,
       "word": "为什么不建议你喝太多苏打水",
@@ -2987,8 +3003,8 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 384842,
-      "num": 384842,
+      "raw_hot": 387092,
+      "num": 387092,
       "word": "黄亦玫的离婚诉讼书是自己写的",
       "onboard_time": 1718804600,
       "rank": 13,
@@ -3025,6 +3041,14 @@
       "onboard_time": 1718680098,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382804,
+      "num": 382804,
+      "word": "克罗地亚vs阿尔巴尼亚",
+      "onboard_time": 1718806580,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 381929,
@@ -5379,6 +5403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208186,
+      "num": 208186,
+      "word": "厦大毕业生都去哪了",
+      "onboard_time": 1718806280,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207968,
       "num": 207968,
       "word": "那英吃香肠偷感好重",
@@ -5515,14 +5547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204577,
-      "num": 204577,
-      "word": "厦大毕业生都去哪了",
-      "onboard_time": 1718806280,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 204462,
       "num": 204462,
       "word": "可以当吸管的贵州非遗面条有多绝",
@@ -5537,14 +5561,6 @@
       "onboard_time": 1718771242,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203652,
-      "num": 203652,
-      "word": "2024高考成绩公布时间汇总",
-      "onboard_time": 1718806040,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 203584,
@@ -5633,6 +5649,14 @@
       "onboard_time": 1718774780,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201874,
+      "num": 201874,
+      "word": "被嫌弃的黄牙多数是正常牙齿颜色",
+      "onboard_time": 1718805501,
+      "rank": 25,
+      "category": "科学科普"
     },
     {
       "raw_hot": 201593,
@@ -5793,6 +5817,14 @@
       "onboard_time": 1718536038,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197223,
+      "num": 197223,
+      "word": "胖哪都不要胖肚子",
+      "onboard_time": 1718805740,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197198,
@@ -6131,6 +6163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190450,
+      "num": 190450,
+      "word": "阿尔巴尼亚 防线",
+      "onboard_time": 1718807478,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190114,
       "num": 190114,
       "word": "以色列总理住处遭冲击",
@@ -6299,14 +6339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 185710,
-      "num": 185710,
-      "word": "被嫌弃的黄牙多数是正常牙齿颜色",
-      "onboard_time": 1718805501,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 185700,
       "num": 174639,
       "word": "ENHYPEN回归",
@@ -6345,6 +6377,14 @@
       "onboard_time": 1718595557,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185093,
+      "num": 185093,
+      "word": "余华当了高考反面教材二十年",
+      "onboard_time": 1718806580,
+      "rank": 39,
+      "category": "读书作家,教育"
     },
     {
       "raw_hot": 185026,
@@ -6851,6 +6891,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172547,
+      "num": 143253,
+      "word": "林更新微博评论",
+      "onboard_time": 1718715437,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172387,
       "num": 172387,
       "word": "爸爸发了他人生中第一条朋友圈",
@@ -6976,14 +7024,6 @@
       "word": "姆巴佩鼻子歪了",
       "onboard_time": 1718665814,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 169328,
-      "num": 169328,
-      "word": "克罗地亚vs阿尔巴尼亚",
-      "onboard_time": 1718806580,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -7371,6 +7411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160012,
+      "num": 160012,
+      "word": "黑帮的我成了高中生",
+      "onboard_time": 1718804180,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160001,
       "num": 128428,
       "word": "倪妮工作室出图",
@@ -7505,14 +7553,6 @@
       "onboard_time": 1718637739,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 157932,
-      "num": 157932,
-      "word": "黑帮的我成了高中生",
-      "onboard_time": 1718804180,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 157808,
@@ -7699,6 +7739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153322,
+      "num": 153322,
+      "word": "外交部回应中国游泳运动员兴奋剂阳性",
+      "onboard_time": 1718807360,
+      "rank": 34,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 153281,
       "num": 153281,
       "word": "方协文妈妈",
@@ -7761,6 +7809,14 @@
       "onboard_time": 1718675596,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152216,
+      "num": 152216,
+      "word": "奉眠记忆探索信息量好大",
+      "onboard_time": 1718807542,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 152007,
@@ -8195,14 +8251,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 143253,
-      "num": 143253,
-      "word": "林更新微博评论",
-      "onboard_time": 1718715437,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143189,
       "num": 192586,
       "word": "梅州一干部疏散转移群众中因公殉职",
@@ -8361,14 +8409,6 @@
       "onboard_time": 1718571971,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139889,
-      "num": 139889,
-      "word": "余华当了高考反面教材二十年",
-      "onboard_time": 1718806580,
-      "rank": 39,
-      "category": "读书作家,教育"
     },
     {
       "raw_hot": 139777,
@@ -9259,6 +9299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125077,
+      "num": 125077,
+      "word": "活塞解雇蒙蒂",
+      "onboard_time": 1718806939,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125053,
       "num": 125053,
       "word": "有四类人不适合午睡",
@@ -9281,6 +9329,14 @@
       "onboard_time": 1718616318,
       "rank": 41,
       "category": "读书作家,互联网"
+    },
+    {
+      "raw_hot": 124827,
+      "num": 389630,
+      "word": "中考生打不到车女店主抓起钥匙就跑",
+      "onboard_time": 1718805080,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 124779,
@@ -9755,6 +9811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114955,
+      "num": 114955,
+      "word": "萌探4官宣周柯宇",
+      "onboard_time": 1718807661,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114181,
       "num": 114181,
       "word": "UP双杀WBG",
@@ -10137,14 +10201,6 @@
       "onboard_time": 1718504839,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 105170,
-      "num": 105170,
-      "word": "方协文离婚后爆哭",
-      "onboard_time": 1718806640,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 104994,
@@ -10883,14 +10939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80705,
-      "num": 389630,
-      "word": "中考生打不到车女店主抓起钥匙就跑",
-      "onboard_time": 1718805080,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 80113,
       "num": 214681,
       "word": "姜萍挑战自我的精神是当代青年榜样",
@@ -11137,6 +11185,14 @@
       "onboard_time": 1718618657,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 68688,
+      "num": 384167,
+      "word": "军人归队在安检口向妻女敬礼",
+      "onboard_time": 1718806939,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 68181,
@@ -11659,6 +11715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44483,
+      "num": 249086,
+      "word": "特仑苏代言人靳东法国传递圣火",
+      "onboard_time": 1718803040,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44467,
       "num": 76550,
       "word": "邓紫棋青岛现场",
@@ -11889,14 +11953,6 @@
       "onboard_time": 1718798358,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 38462,
-      "num": 249086,
-      "word": "特仑苏代言人靳东法国传递圣火",
-      "onboard_time": 1718803040,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 37519,

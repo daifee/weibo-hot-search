@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718806671580,
+  "endTime": 1718807735549,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -99,8 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1465220,
-      "num": 1465220,
+      "raw_hot": 1487408,
+      "num": 1487408,
       "word": "苏苏结过婚",
       "onboard_time": 1718805260,
       "rank": 1,
@@ -169,6 +169,14 @@
       "onboard_time": 1718796499,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1139112,
+      "num": 329016,
+      "word": "方协文离婚后爆哭",
+      "onboard_time": 1718806640,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 1047398,
@@ -419,20 +427,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 539664,
+      "num": 539664,
+      "word": "真的建议报考上海交通大学",
+      "onboard_time": 1718803220,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 537545,
       "num": 537545,
       "word": "SM英国男团颜值",
       "onboard_time": 1718799018,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 522919,
-      "num": 522919,
-      "word": "真的建议报考上海交通大学",
-      "onboard_time": 1718803220,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 522007,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 427613,
+      "num": 388009,
+      "word": "天蝎座突然冷淡的原因",
+      "onboard_time": 1718802440,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 427077,
       "num": 427077,
       "word": "巴黎奥运会女排分组抽签",
@@ -665,14 +681,6 @@
       "onboard_time": 1718720300,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 404140,
-      "num": 388009,
-      "word": "天蝎座突然冷淡的原因",
-      "onboard_time": 1718802440,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 399979,
@@ -707,8 +715,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 384842,
-      "num": 384842,
+      "raw_hot": 390028,
+      "num": 390028,
+      "word": "2024高考成绩公布时间汇总",
+      "onboard_time": 1718806040,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 387092,
+      "num": 387092,
       "word": "黄亦玫的离婚诉讼书是自己写的",
       "onboard_time": 1718804600,
       "rank": 13,
@@ -721,6 +737,14 @@
       "onboard_time": 1718721559,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 382804,
+      "num": 382804,
+      "word": "克罗地亚vs阿尔巴尼亚",
+      "onboard_time": 1718806580,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 381929,
@@ -1355,6 +1379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 208186,
+      "num": 208186,
+      "word": "厦大毕业生都去哪了",
+      "onboard_time": 1718806280,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 207757,
       "num": 207757,
       "word": "苹果或于2025年推出廉价头显",
@@ -1387,28 +1419,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 204577,
-      "num": 204577,
-      "word": "厦大毕业生都去哪了",
-      "onboard_time": 1718806280,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 204390,
       "num": 204390,
       "word": "忙忙碌碌寻宝藏",
       "onboard_time": 1718771242,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203652,
-      "num": 203652,
-      "word": "2024高考成绩公布时间汇总",
-      "onboard_time": 1718806040,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 203346,
@@ -1427,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201874,
+      "num": 201874,
+      "word": "被嫌弃的黄牙多数是正常牙齿颜色",
+      "onboard_time": 1718805501,
+      "rank": 25,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 201573,
       "num": 201573,
       "word": "原来韩国人追剧是不看字幕的",
@@ -1443,12 +1467,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198920,
+      "num": 198920,
+      "word": "莫德里奇老了",
+      "onboard_time": 1718807239,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197979,
       "num": 415914,
       "word": "瑞幸回应喝西梅美式腹泻",
       "onboard_time": 1718711058,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197223,
+      "num": 197223,
+      "word": "胖哪都不要胖肚子",
+      "onboard_time": 1718805740,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197092,
@@ -1481,6 +1521,14 @@
       "onboard_time": 1718770643,
       "rank": 37,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 190450,
+      "num": 190450,
+      "word": "阿尔巴尼亚 防线",
+      "onboard_time": 1718807478,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 188071,
@@ -1531,14 +1579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185710,
-      "num": 185710,
-      "word": "被嫌弃的黄牙多数是正常牙齿颜色",
-      "onboard_time": 1718805501,
-      "rank": 25,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 185688,
       "num": 185688,
       "word": "潜意识爱上一个人的表现",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1718780840,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185093,
+      "num": 185093,
+      "word": "余华当了高考反面教材二十年",
+      "onboard_time": 1718806580,
+      "rank": 39,
+      "category": "读书作家,教育"
     },
     {
       "raw_hot": 184783,
@@ -1715,6 +1763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 172547,
+      "num": 143253,
+      "word": "林更新微博评论",
+      "onboard_time": 1718715437,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172136,
       "num": 172136,
       "word": "克罗地亚半场0比1阿尔巴尼亚",
@@ -1753,14 +1809,6 @@
       "onboard_time": 1718785401,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169328,
-      "num": 169328,
-      "word": "克罗地亚vs阿尔巴尼亚",
-      "onboard_time": 1718806580,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 168021,
@@ -1835,20 +1883,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160012,
+      "num": 160012,
+      "word": "黑帮的我成了高中生",
+      "onboard_time": 1718804180,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158724,
       "num": 158724,
       "word": "秦海璐回应王安宇",
       "onboard_time": 1718792479,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157932,
-      "num": 157932,
-      "word": "黑帮的我成了高中生",
-      "onboard_time": 1718804180,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 156848,
@@ -1931,12 +1979,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153322,
+      "num": 153322,
+      "word": "外交部回应中国游泳运动员兴奋剂阳性",
+      "onboard_time": 1718807360,
+      "rank": 34,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 152581,
       "num": 317495,
       "word": "一个听起来很香的本科专业",
       "onboard_time": 1718800879,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152216,
+      "num": 152216,
+      "word": "奉眠记忆探索信息量好大",
+      "onboard_time": 1718807542,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 151275,
@@ -2067,14 +2131,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 143253,
-      "num": 143253,
-      "word": "林更新微博评论",
-      "onboard_time": 1718715437,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142183,
       "num": 142183,
       "word": "余琦就不当言行致歉",
@@ -2129,14 +2185,6 @@
       "onboard_time": 1718734633,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139889,
-      "num": 139889,
-      "word": "余华当了高考反面教材二十年",
-      "onboard_time": 1718806580,
-      "rank": 39,
-      "category": "读书作家,教育"
     },
     {
       "raw_hot": 138659,
@@ -2281,6 +2329,22 @@
       "onboard_time": 1718791520,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125077,
+      "num": 125077,
+      "word": "活塞解雇蒙蒂",
+      "onboard_time": 1718806939,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124827,
+      "num": 389630,
+      "word": "中考生打不到车女店主抓起钥匙就跑",
+      "onboard_time": 1718805080,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 124583,
@@ -2435,6 +2499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114955,
+      "num": 114955,
+      "word": "萌探4官宣周柯宇",
+      "onboard_time": 1718807661,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114024,
       "num": 114024,
       "word": "阿Sa珍珠妆造",
@@ -2497,14 +2569,6 @@
       "onboard_time": 1718797518,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105170,
-      "num": 105170,
-      "word": "方协文离婚后爆哭",
-      "onboard_time": 1718806640,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 104728,
@@ -2731,14 +2795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80705,
-      "num": 389630,
-      "word": "中考生打不到车女店主抓起钥匙就跑",
-      "onboard_time": 1718805080,
-      "rank": 9,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 78759,
       "num": 77789,
       "word": "墨雨云间 胡萝卜套苦瓜",
@@ -2841,6 +2897,14 @@
       "onboard_time": 1718784679,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 68688,
+      "num": 384167,
+      "word": "军人归队在安检口向妻女敬礼",
+      "onboard_time": 1718806939,
+      "rank": 9,
+      "category": "军事"
     },
     {
       "raw_hot": 67786,
@@ -3011,6 +3075,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 44483,
+      "num": 249086,
+      "word": "特仑苏代言人靳东法国传递圣火",
+      "onboard_time": 1718803040,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43249,
       "num": 358316,
       "word": "福宝徒手掰竹溜到飞起",
@@ -3073,14 +3145,6 @@
       "onboard_time": 1718798358,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 38462,
-      "num": 249086,
-      "word": "特仑苏代言人靳东法国传递圣火",
-      "onboard_time": 1718803040,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 36137,
