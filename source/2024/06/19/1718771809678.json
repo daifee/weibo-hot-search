@@ -1,0 +1,410 @@
+{
+  "runTime": 1718771809678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1540536,
+        "num": 1540536,
+        "word": "上海地铁发生持刀伤人案3人受伤",
+        "onboard_time": 1718762598,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876162,
+        "num": 876162,
+        "word": "北京警方通报夫妇开车违停挡路",
+        "onboard_time": 1718767518,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86133,
+        "num": 869365,
+        "word": "致敬暴雨中的守护力量",
+        "onboard_time": 1718766320,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 947902,
+        "num": 868722,
+        "word": "台湾新冠重症及死亡病例大增",
+        "onboard_time": 1718768361,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 867198,
+        "num": 867198,
+        "word": "罗云熙向车主道歉",
+        "onboard_time": 1718754496,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690181,
+        "num": 690181,
+        "word": "歌手第七期冲榜赛海报",
+        "onboard_time": 1718770042,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628180,
+        "num": 628180,
+        "word": "胖东来调改永辉超市重新开业",
+        "onboard_time": 1718765296,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584267,
+        "num": 584267,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499364,
+        "num": 499364,
+        "word": "50岁卖鱼大叔身材管理堪比明星",
+        "onboard_time": 1718770763,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41225,
+        "num": 475043,
+        "word": "老人路边晕倒路过白衣小伙暖心搀扶",
+        "onboard_time": 1718769140,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 518030,
+        "num": 471084,
+        "word": "Angelababy青衫琵琶",
+        "onboard_time": 1718766739,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458848,
+        "num": 458848,
+        "word": "乌克兰打败俄罗斯才能加入北约",
+        "onboard_time": 1718757918,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 448016,
+        "num": 448016,
+        "word": "王嘉尔半裸出发图",
+        "onboard_time": 1718759479,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 434427,
+        "num": 434427,
+        "word": "霍建华以为说明书是粉丝写的信",
+        "onboard_time": 1718767698,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433153,
+        "num": 433153,
+        "word": "田曦薇摇来了李一桐",
+        "onboard_time": 1718771184,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422204,
+        "num": 422204,
+        "word": "上海地铁持刀伤人嫌犯被抓获",
+        "onboard_time": 1718762477,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358396,
+        "num": 358396,
+        "word": "12张思维导图理清大学专业",
+        "onboard_time": 1718755758,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1207866,
+        "num": 356090,
+        "word": "教育部门回应姜萍能不能考浙大",
+        "onboard_time": 1718763978,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349873,
+        "num": 349873,
+        "word": "易烊千玺代言LINDBERG",
+        "onboard_time": 1718768720,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279238,
+        "num": 334425,
+        "word": "罗小黑作者回应",
+        "onboard_time": 1718767338,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 333071,
+        "num": 333071,
+        "word": "傅家明对黄亦玫不是一见钟情",
+        "onboard_time": 1718769082,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 561124,
+        "num": 326236,
+        "word": "姜萍",
+        "onboard_time": 1718766919,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302524,
+        "num": 302524,
+        "word": "曾经的英专生现在做什么",
+        "onboard_time": 1718771422,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284978,
+        "num": 284978,
+        "word": "周雨彤全身戴假发",
+        "onboard_time": 1718769383,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257064,
+        "num": 257064,
+        "word": "协和医生说无痛分娩不影响胎儿及哺乳",
+        "onboard_time": 1718769982,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248912,
+        "num": 248912,
+        "word": "快订婚了才得知对方是二婚",
+        "onboard_time": 1718756358,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71636,
+        "num": 245126,
+        "word": "萨顶顶回应登上摇猫榜第一名",
+        "onboard_time": 1718768779,
+        "rank": 26,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 243907,
+        "num": 243907,
+        "word": "玫瑰的故事5个男主4个东北的",
+        "onboard_time": 1718765357,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191453,
+        "num": 239035,
+        "word": "流萤 不歪",
+        "onboard_time": 1718767217,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238799,
+        "num": 238799,
+        "word": "歌手",
+        "onboard_time": 1718766857,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238042,
+        "num": 238042,
+        "word": "吴谨言 不知道王星越在爽些什么",
+        "onboard_time": 1718760196,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232467,
+        "num": 232467,
+        "word": "合川路",
+        "onboard_time": 1718760496,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230359,
+        "num": 230359,
+        "word": "发现朋友圈一个很无语的bug",
+        "onboard_time": 1718756177,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226366,
+        "num": 226366,
+        "word": "玫瑰离婚",
+        "onboard_time": 1718759598,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222331,
+        "num": 222331,
+        "word": "刘亦菲粉发挑染",
+        "onboard_time": 1718766558,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204390,
+        "num": 204390,
+        "word": "忙忙碌碌寻宝藏",
+        "onboard_time": 1718771242,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83119,
+        "num": 193755,
+        "word": "当前楼市以价换量后续走势如何",
+        "onboard_time": 1718769623,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42521,
+        "num": 193426,
+        "word": "阿勒泰成辞职旅游热门目的地",
+        "onboard_time": 1718771483,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 193409,
+        "num": 193409,
+        "word": "眷思量亲情线泪目了",
+        "onboard_time": 1718770643,
+        "rank": 38,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 187655,
+        "num": 187655,
+        "word": "鞠婧祎助理号改名",
+        "onboard_time": 1718763559,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187221,
+        "num": 187221,
+        "word": "魔方新世界",
+        "onboard_time": 1718771604,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180865,
+        "num": 180865,
+        "word": "医院回应救人迟到被罚老师暂停诊",
+        "onboard_time": 1718761997,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172594,
+        "num": 172594,
+        "word": "妈妈晒俩闺女房间差距有多大",
+        "onboard_time": 1718755817,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149964,
+        "num": 149964,
+        "word": "恋与深空",
+        "onboard_time": 1718771783,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180478,
+        "num": 149207,
+        "word": "鞠婧祎19岁至30岁颜值变化",
+        "onboard_time": 1718764937,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145659,
+        "num": 145659,
+        "word": "沈学士 甜甜甜冰冰冰好喝好喝",
+        "onboard_time": 1718765477,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134974,
+        "num": 134974,
+        "word": "楠火锅致歉",
+        "onboard_time": 1718756418,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132849,
+        "num": 132849,
+        "word": "脸上这3个变化说明脸开始垮了",
+        "onboard_time": 1718757198,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 130725,
+        "num": 130725,
+        "word": "韩国再发一起交往杀人案件",
+        "onboard_time": 1718768660,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13698,
+        "num": 129459,
+        "word": "现在去澳大利亚有多值",
+        "onboard_time": 1718771783,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好防汛抗旱抢险救灾各项工作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718771007365,
+  "endTime": 1718771809678,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1207866,
+      "num": 489805,
+      "word": "教育部门回应姜萍能不能考浙大",
+      "onboard_time": 1718763978,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1047398,
       "num": 329321,
       "word": "冷藏车事故遇难者儿子发声",
@@ -75,8 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 912900,
-      "num": 561842,
+      "raw_hot": 947902,
+      "num": 868722,
       "word": "台湾新冠重症及死亡病例大增",
       "onboard_time": 1718768361,
       "rank": 3,
@@ -91,6 +99,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 876162,
+      "num": 876162,
+      "word": "北京警方通报夫妇开车违停挡路",
+      "onboard_time": 1718767518,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 872812,
       "num": 872812,
       "word": "霍建华一出场初恋和前夫弱爆了",
@@ -99,28 +115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 847701,
-      "num": 489805,
-      "word": "教育部门回应姜萍能不能考浙大",
-      "onboard_time": 1718763978,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 777556,
       "num": 777556,
       "word": "直播工作 每月2万保底工资",
       "onboard_time": 1718724201,
       "rank": 1,
       "category": "科学科普,网红"
-    },
-    {
-      "raw_hot": 772112,
-      "num": 772112,
-      "word": "北京警方通报夫妇开车违停挡路",
-      "onboard_time": 1718767518,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 766495,
@@ -137,6 +137,22 @@
       "onboard_time": 1718756177,
       "rank": 5,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 690181,
+      "num": 690181,
+      "word": "歌手第七期冲榜赛海报",
+      "onboard_time": 1718770042,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 628180,
+      "num": 628180,
+      "word": "胖东来调改永辉超市重新开业",
+      "onboard_time": 1718765296,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 618273,
@@ -171,11 +187,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 553449,
-      "num": 553449,
-      "word": "胖东来调改永辉超市重新开业",
-      "onboard_time": 1718765296,
-      "rank": 22,
+      "raw_hot": 561124,
+      "num": 402443,
+      "word": "姜萍",
+      "onboard_time": 1718766919,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 522007,
-      "num": 468207,
+      "num": 471084,
       "word": "Angelababy青衫琵琶",
       "onboard_time": 1718766739,
       "rank": 19,
@@ -201,6 +217,14 @@
       "onboard_time": 1718753715,
       "rank": 6,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 499364,
+      "num": 499364,
+      "word": "50岁卖鱼大叔身材管理堪比明星",
+      "onboard_time": 1718770763,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497061,
@@ -217,14 +241,6 @@
       "onboard_time": 1718761997,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 480792,
-      "num": 480792,
-      "word": "歌手第七期冲榜赛海报",
-      "onboard_time": 1718770042,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 473800,
@@ -259,6 +275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434427,
+      "num": 434427,
+      "word": "霍建华以为说明书是粉丝写的信",
+      "onboard_time": 1718767698,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 433153,
+      "num": 433153,
+      "word": "田曦薇摇来了李一桐",
+      "onboard_time": 1718771184,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 431124,
       "num": 431124,
       "word": "玫瑰离婚",
@@ -288,22 +320,6 @@
       "word": "庄国栋带孩子",
       "onboard_time": 1718720300,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 402443,
-      "num": 402443,
-      "word": "姜萍",
-      "onboard_time": 1718766919,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401889,
-      "num": 401889,
-      "word": "霍建华以为说明书是粉丝写的信",
-      "onboard_time": 1718767698,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -403,8 +419,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332985,
-      "num": 332985,
+      "raw_hot": 333071,
+      "num": 333071,
       "word": "傅家明对黄亦玫不是一见钟情",
       "onboard_time": 1718769082,
       "rank": 19,
@@ -425,6 +441,14 @@
       "onboard_time": 1718769383,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302524,
+      "num": 302524,
+      "word": "曾经的英专生现在做什么",
+      "onboard_time": 1718771422,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 301159,
@@ -483,8 +507,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 263656,
-      "num": 263656,
+      "raw_hot": 279238,
+      "num": 334425,
       "word": "罗小黑作者回应",
       "onboard_time": 1718767338,
       "rank": 26,
@@ -499,8 +523,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249815,
-      "num": 249815,
+      "raw_hot": 257064,
+      "num": 257064,
       "word": "协和医生说无痛分娩不影响胎儿及哺乳",
       "onboard_time": 1718769982,
       "rank": 29,
@@ -545,14 +569,6 @@
       "onboard_time": 1718757980,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230495,
-      "num": 230495,
-      "word": "50岁卖鱼大叔身材管理堪比明星",
-      "onboard_time": 1718770763,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227912,
@@ -627,6 +643,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 204390,
+      "num": 204390,
+      "word": "忙忙碌碌寻宝藏",
+      "onboard_time": 1718771242,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201573,
       "num": 201573,
       "word": "原来韩国人追剧是不看字幕的",
@@ -667,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193409,
+      "num": 193409,
+      "word": "眷思量亲情线泪目了",
+      "onboard_time": 1718770643,
+      "rank": 37,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 188071,
       "num": 188071,
       "word": "美媒称贾斯汀汀布莱克被捕",
@@ -681,6 +713,14 @@
       "onboard_time": 1718757499,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187221,
+      "num": 187221,
+      "word": "魔方新世界",
+      "onboard_time": 1718771604,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 186734,
@@ -755,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167416,
-      "num": 167416,
-      "word": "眷思量亲情线泪目了",
-      "onboard_time": 1718770643,
-      "rank": 37,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 166965,
       "num": 166965,
       "word": "大熊猫背上长出熊猫了",
@@ -833,6 +865,14 @@
       "onboard_time": 1718719459,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 149964,
+      "num": 149964,
+      "word": "恋与深空",
+      "onboard_time": 1718771783,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 149558,
@@ -923,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130725,
+      "num": 130725,
+      "word": "韩国再发一起交往杀人案件",
+      "onboard_time": 1718768660,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127242,
       "num": 127242,
       "word": "跳跳俏俏对张杰谢娜签名照的区别",
@@ -992,14 +1040,6 @@
       "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
       "onboard_time": 1718716699,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121033,
-      "num": 121033,
-      "word": "韩国再发一起交往杀人案件",
-      "onboard_time": 1718768660,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -1171,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83119,
+      "num": 480521,
+      "word": "当前楼市以价换量后续走势如何",
+      "onboard_time": 1718769623,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81690,
       "num": 86143,
       "word": "刘诗诗窦骁捧花合照",
@@ -1219,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71636,
+      "num": 253012,
+      "word": "萨顶顶回应登上摇猫榜第一名",
+      "onboard_time": 1718768779,
+      "rank": 26,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 71224,
       "num": 369250,
       "word": "中宣部追授徐利民同志时代楷模称号",
@@ -1257,14 +1313,6 @@
       "onboard_time": 1718722819,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68627,
-      "num": 253012,
-      "word": "萨顶顶回应登上摇猫榜第一名",
-      "onboard_time": 1718768779,
-      "rank": 26,
-      "category": "幽默,艺人"
     },
     {
       "raw_hot": 67102,
@@ -1355,14 +1403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48569,
-      "num": 480521,
-      "word": "当前楼市以价换量后续走势如何",
-      "onboard_time": 1718769623,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 47904,
       "num": 47904,
       "word": "徐娇真的好会",
@@ -1385,6 +1425,22 @@
       "onboard_time": 1718731154,
       "rank": 49,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 42521,
+      "num": 193426,
+      "word": "阿勒泰成辞职旅游热门目的地",
+      "onboard_time": 1718771483,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 41225,
+      "num": 475043,
+      "word": "老人路边晕倒路过白衣小伙暖心搀扶",
+      "onboard_time": 1718769140,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 40207,
@@ -1489,6 +1545,14 @@
       "onboard_time": 1718726717,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13698,
+      "num": 129459,
+      "word": "现在去澳大利亚有多值",
+      "onboard_time": 1718771783,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 10768,
