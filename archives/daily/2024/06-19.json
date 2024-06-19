@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718810471154,
+  "endTime": 1718811277513,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1534680,
+      "num": 1534680,
+      "word": "玫瑰的故事最炸裂的台词出现了",
+      "onboard_time": 1718808321,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1505360,
       "num": 1216386,
       "word": "罗云熙向车主道歉",
@@ -131,14 +139,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1351190,
-      "num": 1351190,
-      "word": "玫瑰的故事最炸裂的台词出现了",
-      "onboard_time": 1718808321,
-      "rank": 0,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1309936,
       "num": 230303,
       "word": "坐冷藏车遇难8人均是牛肉厂临时女工",
@@ -171,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1207530,
+      "num": 815287,
+      "word": "将门毒后",
+      "onboard_time": 1718808859,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1142994,
       "num": 1142994,
       "word": "素媛案罪犯赵斗淳再出狱",
@@ -184,14 +192,6 @@
       "word": "方协文离婚后爆哭",
       "onboard_time": 1718806640,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1136296,
-      "num": 499870,
-      "word": "将门毒后",
-      "onboard_time": 1718808859,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 859148,
+      "num": 859148,
+      "word": "克罗地亚2比2阿尔巴尼亚",
+      "onboard_time": 1718810359,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 840230,
       "num": 359353,
       "word": "鞠婧祎工作室被改密码",
@@ -281,6 +289,14 @@
       "onboard_time": 1718806580,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 811282,
+      "num": 811282,
+      "word": "女孩秋千跌落身亡设备公司判赔107万",
+      "onboard_time": 1718809519,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808518,
@@ -379,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623943,
+      "num": 380347,
+      "word": "外交部回应中国游泳运动员兴奋剂阳性",
+      "onboard_time": 1718807360,
+      "rank": 34,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 618273,
       "num": 176320,
       "word": "奔驰腰斩式降价",
@@ -417,14 +441,6 @@
       "onboard_time": 1718718198,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 573741,
-      "num": 380347,
-      "word": "外交部回应中国游泳运动员兴奋剂阳性",
-      "onboard_time": 1718807360,
-      "rank": 34,
-      "category": "国内时政,体育"
     },
     {
       "raw_hot": 563313,
@@ -481,22 +497,6 @@
       "onboard_time": 1718799018,
       "rank": 3,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 530757,
-      "num": 530757,
-      "word": "克罗地亚2比2阿尔巴尼亚",
-      "onboard_time": 1718810359,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 524262,
-      "num": 375971,
-      "word": "女孩秋千跌落身亡设备公司判赔107万",
-      "onboard_time": 1718809519,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 522007,
@@ -747,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407174,
+      "num": 407174,
+      "word": "初级会计成绩",
+      "onboard_time": 1718785342,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 399979,
       "num": 399979,
       "word": "葡萄牙2比1捷克",
@@ -809,14 +817,6 @@
       "onboard_time": 1718713997,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 371976,
-      "num": 371976,
-      "word": "初级会计成绩",
-      "onboard_time": 1718785342,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 370147,
@@ -1115,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283807,
+      "num": 283807,
+      "word": "陈泽直播",
+      "onboard_time": 1718808080,
+      "rank": 22,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 283232,
       "num": 283232,
       "word": "玫瑰的故事5个男主4个东北的",
@@ -1235,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 257123,
+      "num": 257123,
+      "word": "央视与腾讯就巴黎奥运会达成合作",
+      "onboard_time": 1718810181,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254852,
       "num": 254852,
       "word": "田曦薇你等等王安宇",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1718791099,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 243377,
-      "num": 243377,
-      "word": "陈泽直播",
-      "onboard_time": 1718808080,
-      "rank": 22,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 242702,
@@ -2323,14 +2331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133607,
-      "num": 133607,
-      "word": "央视与腾讯就巴黎奥运会达成合作",
-      "onboard_time": 1718810181,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 132590,
       "num": 132590,
       "word": "DNF手游应用商店合约到期",
@@ -2353,6 +2353,14 @@
       "onboard_time": 1718794999,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130938,
+      "num": 130938,
+      "word": "原来王星越也是个小财迷",
+      "onboard_time": 1718810300,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130725,
@@ -2699,14 +2707,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 101937,
-      "num": 101937,
-      "word": "原来王星越也是个小财迷",
-      "onboard_time": 1718810300,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 101722,
       "num": 119748,
       "word": "孔塞桑绝杀",
@@ -2793,6 +2793,14 @@
       "onboard_time": 1718788700,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94061,
+      "num": 99480,
+      "word": "当狗勾发现主人在拍它时",
+      "onboard_time": 1718810600,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 93353,
@@ -3185,6 +3193,14 @@
       "onboard_time": 1718720178,
       "rank": 29,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 44670,
+      "num": 368964,
+      "word": "一碗粉一张饼暖心又暖胃",
+      "onboard_time": 1718810660,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 44483,
