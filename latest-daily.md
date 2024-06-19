@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/19 00:24:45 ~ 2024/06/19 10:45:49
+本榜单时间：2024/06/19 00:24:45 ~ 2024/06/19 11:21:41
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E6%A1%883%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
-上海地铁发生持刀伤人案3人受伤（热度：1858582）
+上海地铁发生持刀伤人案3人受伤（热度：2470629）
 </a>
 </li>
 
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E6%8C%91%E6%88%98%E5%A7%9C%E8%90%8D%E7%AB%9E%E8%B5%9B%E9%A2%987%E9%A2%98%E4%BB%85%E5%AF%B91%E9%81%93%23" target="weibo">
-北大博士挑战姜萍竞赛题7题仅对1道（热度：1604204）
+北大博士挑战姜萍竞赛题7题仅对1道（热度：1611742）
 </a>
 </li>
 
@@ -135,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%95%91%E4%BA%BA%E8%BF%9F%E5%88%B0%E8%A2%AB%E7%BD%9A%E8%80%81%E5%B8%88%E6%9A%82%E5%81%9C%E8%AF%8A%23" target="weibo">
+医院回应救人迟到被罚老师暂停诊（热度：493167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E8%A7%82%E5%90%8E%E6%84%9F%23" target="weibo">
 张馨予玫瑰的故事观后感（热度：473800）
 </a>
@@ -147,14 +153,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%A6%BB%E5%A9%9A%23" target="weibo">
-玫瑰离婚（热度：431124）
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%A7%9C%E8%90%8D%E8%83%BD%E4%B8%8D%E8%83%BD%E8%80%83%E6%B5%99%E5%A4%A7%23" target="weibo">
+教育部门回应姜萍能不能考浙大（热度：444225）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8A%A9%E7%90%86%E5%8F%B7%E6%94%B9%E5%90%8D%23" target="weibo">
-鞠婧祎助理号改名（热度：430309）
+鞠婧祎助理号改名（热度：440001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%A6%BB%E5%A9%9A%23" target="weibo">
+玫瑰离婚（热度：431124）
 </a>
 </li>
 
@@ -179,12 +191,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%992%E6%AF%941%E6%8D%B7%E5%85%8B%23" target="weibo">
 葡萄牙2比1捷克（热度：399979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%95%91%E4%BA%BA%E8%BF%9F%E5%88%B0%E8%A2%AB%E7%BD%9A%E8%80%81%E5%B8%88%E6%9A%82%E5%81%9C%E8%AF%8A%23" target="weibo">
-医院回应救人迟到被罚老师暂停诊（热度：388683）
 </a>
 </li>
 
@@ -243,6 +249,12 @@ MTJJ（热度：381929）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B2%89%E5%8F%91%E6%8C%91%E6%9F%93%23" target="weibo">
+刘亦菲粉发挑染（热度：338783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E6%99%9A%E7%82%B9%20%E8%A1%A5%E5%81%BF%23" target="weibo">
 高铁晚点 补偿（热度：309571）
 </a>
@@ -279,8 +291,26 @@ MTJJ（热度：381929）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B5%E4%B8%AA%E7%94%B7%E4%B8%BB4%E4%B8%AA%E4%B8%9C%E5%8C%97%E7%9A%84%23" target="weibo">
+玫瑰的故事5个男主4个东北的（热度：269147）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Angelababy%E9%9D%92%E8%A1%AB%E7%90%B5%E7%90%B6%23" target="weibo">
+Angelababy青衫琵琶（热度：261999）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E7%88%B1%E5%93%AD%E8%80%8C%E5%BF%83%E5%A6%82%E5%8F%AF%E4%BB%A5%E6%AD%A2%E6%B0%B4%23" target="weibo">
 霍建华爱哭而心如可以止水（热度：261735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%B0%83%E6%94%B9%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E9%87%8D%E6%96%B0%E5%BC%80%E4%B8%9A%23" target="weibo">
+胖东来调改永辉超市重新开业（热度：246627）
 </a>
 </li>
 
@@ -309,6 +339,12 @@ MTJJ（热度：381929）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E19%E5%B2%81%E8%87%B330%E5%B2%81%E9%A2%9C%E5%80%BC%E5%8F%98%E5%8C%96%23" target="weibo">
+鞠婧祎19岁至30岁颜值变化（热度：232205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Letme%E8%B0%88Uzi%E5%81%9C%E6%92%AD%23" target="weibo">
 Letme谈Uzi停播（热度：227912）
 </a>
@@ -327,8 +363,20 @@ C罗比赛（热度：219307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
+A股（热度：210744）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%88%90%E5%85%A8%E7%90%83%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E8%82%A1%E7%A5%A8%23" target="weibo">
 英伟达成全球市值最高股票（热度：209018）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%23" target="weibo">
+姜萍（热度：208134）
 </a>
 </li>
 
@@ -387,6 +435,12 @@ C罗比赛（热度：219307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%23" target="weibo">
+歌手（热度：190156）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E8%B4%BE%E6%96%AF%E6%B1%80%E6%B1%80%E5%B8%83%E8%8E%B1%E5%85%8B%E8%A2%AB%E6%8D%95%23" target="weibo">
 美媒称贾斯汀汀布莱克被捕（热度：188071）
 </a>
@@ -411,14 +465,14 @@ C罗比赛（热度：219307）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%A7%9C%E8%90%8D%E8%83%BD%E4%B8%8D%E8%83%BD%E8%80%83%E6%B5%99%E5%A4%A7%23" target="weibo">
-教育部门回应姜萍能不能考浙大（热度：185038）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%20%E8%99%9E%E4%B9%A6%E6%AC%A3%23" target="weibo">
+中餐厅 虞书欣（热度：184783）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%20%E8%99%9E%E4%B9%A6%E6%AC%A3%23" target="weibo">
-中餐厅 虞书欣（热度：184783）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%AD%A6%E5%A3%AB%20%E7%94%9C%E7%94%9C%E7%94%9C%E5%86%B0%E5%86%B0%E5%86%B0%E5%A5%BD%E5%96%9D%E5%A5%BD%E5%96%9D%23" target="weibo">
+沈学士 甜甜甜冰冰冰好喝好喝（热度：181742）
 </a>
 </li>
 
@@ -429,20 +483,32 @@ C罗比赛（热度：219307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%23" target="weibo">
+地铁回应持刀伤人事件（热度：175535）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%83%8C%E4%B8%8A%E9%95%BF%E5%87%BA%E7%86%8A%E7%8C%AB%E4%BA%86%23" target="weibo">
+大熊猫背上长出熊猫了（热度：166965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6vs%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A%23" target="weibo">
 土耳其vs格鲁吉亚（热度：165680）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E6%A2%93%E6%9D%89%E6%83%B3%E6%BC%94%E5%BC%A0%E8%8B%A5%E6%98%80%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
-荣梓杉想演张若昀赵丽颖的儿子（热度：163830）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A8%E4%BA%A4%E5%B9%BA%E5%B9%BA%E9%9B%B6%23" target="weibo">
+轨交幺幺零（热度：165679）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%83%8C%E4%B8%8A%E9%95%BF%E5%87%BA%E7%86%8A%E7%8C%AB%E4%BA%86%23" target="weibo">
-大熊猫背上长出熊猫了（热度：162600）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E6%A2%93%E6%9D%89%E6%83%B3%E6%BC%94%E5%BC%A0%E8%8B%A5%E6%98%80%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
+荣梓杉想演张若昀赵丽颖的儿子（热度：163830）
 </a>
 </li>
 
@@ -467,6 +533,12 @@ T人和F人真的很好分辨（热度：151275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E6%8E%89%E7%A7%A4%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 发现了掉秤最快的方法（热度：150184）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E8%90%A4%20%E4%B8%8D%E6%AD%AA%23" target="weibo">
+流萤 不歪（热度：147018）
 </a>
 </li>
 
@@ -513,6 +585,12 @@ T人和F人真的很好分辨（热度：151275）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%BA%E8%9C%9C%E9%A9%AF%E6%9C%8D%E4%BA%86%E4%B8%80%E5%8F%AA%E8%8B%8D%E8%9D%87%E5%81%9A%E5%AE%A0%E7%89%A9%23" target="weibo">
+闺蜜驯服了一只苍蝇做宠物（热度：137368）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%89%98%E6%BD%9C%E8%89%87%E7%9A%84%E5%BE%AE%E7%9F%AD%E5%89%A7%E6%8A%8A%E6%88%91%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
 一艘潜艇的微短剧把我看哭了（热度：135400）
 </a>
@@ -521,12 +599,6 @@ T人和F人真的很好分辨（热度：151275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E5%AF%B9%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E7%AD%BE%E5%90%8D%E7%85%A7%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
 跳跳俏俏对张杰谢娜签名照的区别（热度：127242）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E19%E5%B2%81%E8%87%B330%E5%B2%81%E9%A2%9C%E5%80%BC%E5%8F%98%E5%8C%96%23" target="weibo">
-鞠婧祎19岁至30岁颜值变化（热度：126440）
 </a>
 </li>
 
@@ -573,6 +645,12 @@ LV春夏25男装秀（热度：126390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%88%86%E9%97%AE%E9%A2%98%23" target="weibo">
+TheShy回应中分问题（热度：122594）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F15%E5%A4%A9%E5%A9%B4%E5%84%BF%E6%B7%B1%E5%A4%9C%E9%81%AD%E6%9C%88%E5%AB%82%E8%BF%9E%E6%89%873%E8%80%B3%E5%85%89%23" target="weibo">
 出生15天婴儿深夜遭月嫂连扇3耳光（热度：122084）
 </a>
@@ -591,14 +669,14 @@ LV春夏25男装秀（热度：126390）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E8%BE%BE%E6%96%B0%E4%BD%9C%23" target="weibo">
-塞尔达新作（热度：113688）
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%88%B7%E6%96%B0%E4%B8%A4%E9%A1%B9%E7%BA%AA%E5%BD%95%23" target="weibo">
+C罗刷新两项纪录（热度：116116）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%88%B7%E6%96%B0%E4%B8%A4%E9%A1%B9%E7%BA%AA%E5%BD%95%23" target="weibo">
-C罗刷新两项纪录（热度：113355）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E5%B0%94%E8%BE%BE%E6%96%B0%E4%BD%9C%23" target="weibo">
+塞尔达新作（热度：113688）
 </a>
 </li>
 
@@ -693,6 +771,12 @@ C罗39岁状态（热度：101552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E6%9A%B4%E9%9B%A8%E4%B8%AD%E7%9A%84%E5%AE%88%E6%8A%A4%E5%8A%9B%E9%87%8F%23" target="weibo">
+致敬暴雨中的守护力量（热度：82142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%AA%A6%E9%AA%81%E6%8D%A7%E8%8A%B1%E5%90%88%E7%85%A7%23" target="weibo">
 刘诗诗窦骁捧花合照（热度：81690）
 </a>
@@ -777,6 +861,12 @@ C罗39岁状态（热度：101552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%92%B1%E5%92%A8%E8%AF%A2%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E9%9D%A0%E8%B0%B1%E5%90%97%23" target="weibo">
+花钱咨询高考志愿填报靠谱吗（热度：60302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A4%E5%8F%8B%E7%AB%9F%E7%84%B6%E5%9C%A8%E5%AE%BF%E8%88%8D%E9%87%8C%E8%A3%85%E4%BA%86%E4%B8%AA%E7%9B%91%E6%8E%A7%23" target="weibo">
 室友竟然在宿舍里装了个监控（热度：57397）
 </a>
@@ -827,6 +917,12 @@ C罗39岁状态（热度：101552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AF%E5%9D%A6%E7%A6%8F%E5%8D%9A%E5%A3%AB%E8%80%83%E4%B9%A1%E9%95%87%E5%85%AC%E5%8A%A1%E5%91%98%E6%98%AF%E5%A4%A7%E6%9D%90%E5%B0%8F%E7%94%A8%E5%90%97%23" target="weibo">
 斯坦福博士考乡镇公务员是大材小用吗（热度：45597）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8D%89%E5%88%98%E4%BA%A6%E8%8F%B2%E5%90%8C%E6%AC%BE%E5%AE%A0%E7%89%A9%23" target="weibo">
+捉刘亦菲同款宠物（热度：43845）
 </a>
 </li>
 

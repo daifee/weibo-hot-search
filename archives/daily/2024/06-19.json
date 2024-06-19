@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718765149465,
+  "endTime": 1718767301653,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1858582,
-      "num": 1858582,
+      "raw_hot": 2470629,
+      "num": 2470629,
       "word": "上海地铁发生持刀伤人案3人受伤",
       "onboard_time": 1718762598,
       "rank": 1,
@@ -27,8 +27,8 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 1604204,
-      "num": 1604204,
+      "raw_hot": 1611742,
+      "num": 1611742,
       "word": "北大博士挑战姜萍竞赛题7题仅对1道",
       "onboard_time": 1718761638,
       "rank": 4,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493167,
+      "num": 493167,
+      "word": "医院回应救人迟到被罚老师暂停诊",
+      "onboard_time": 1718761997,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 473800,
       "num": 473800,
       "word": "张馨予玫瑰的故事观后感",
@@ -179,20 +187,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 444225,
+      "num": 444225,
+      "word": "教育部门回应姜萍能不能考浙大",
+      "onboard_time": 1718763978,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440001,
+      "num": 440001,
+      "word": "鞠婧祎助理号改名",
+      "onboard_time": 1718763559,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 431124,
       "num": 431124,
       "word": "玫瑰离婚",
       "onboard_time": 1718759598,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 430309,
-      "num": 430309,
-      "word": "鞠婧祎助理号改名",
-      "onboard_time": 1718763559,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 428215,
@@ -225,14 +241,6 @@
       "onboard_time": 1718752454,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 388683,
-      "num": 388683,
-      "word": "医院回应救人迟到被罚老师暂停诊",
-      "onboard_time": 1718761997,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 383624,
@@ -307,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 338783,
+      "num": 210646,
+      "word": "刘亦菲粉发挑染",
+      "onboard_time": 1718766558,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 309571,
       "num": 309571,
       "word": "高铁晚点 补偿",
@@ -355,12 +371,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 269147,
+      "num": 269147,
+      "word": "玫瑰的故事5个男主4个东北的",
+      "onboard_time": 1718765357,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 261999,
+      "num": 261999,
+      "word": "Angelababy青衫琵琶",
+      "onboard_time": 1718766739,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261735,
       "num": 257970,
       "word": "霍建华爱哭而心如可以止水",
       "onboard_time": 1718760858,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 246627,
+      "num": 246627,
+      "word": "胖东来调改永辉超市重新开业",
+      "onboard_time": 1718765296,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 242702,
@@ -395,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232205,
+      "num": 232205,
+      "word": "鞠婧祎19岁至30岁颜值变化",
+      "onboard_time": 1718764937,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227912,
       "num": 227912,
       "word": "Letme谈Uzi停播",
@@ -419,12 +467,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210744,
+      "num": 210744,
+      "word": "A股",
+      "onboard_time": 1718765357,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 209018,
       "num": 209018,
       "word": "英伟达成全球市值最高股票",
       "onboard_time": 1718753595,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 208134,
+      "num": 208134,
+      "word": "姜萍",
+      "onboard_time": 1718766919,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207757,
@@ -499,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190156,
+      "num": 190156,
+      "word": "歌手",
+      "onboard_time": 1718766857,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188071,
       "num": 188071,
       "word": "美媒称贾斯汀汀布莱克被捕",
@@ -531,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185038,
-      "num": 185038,
-      "word": "教育部门回应姜萍能不能考浙大",
-      "onboard_time": 1718763978,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184783,
       "num": 184783,
       "word": "中餐厅 虞书欣",
       "onboard_time": 1718701218,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181742,
+      "num": 181742,
+      "word": "沈学士 甜甜甜冰冰冰好喝好喝",
+      "onboard_time": 1718765477,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 179015,
@@ -555,6 +627,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 175535,
+      "num": 175535,
+      "word": "地铁回应持刀伤人事件",
+      "onboard_time": 1718766137,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166965,
+      "num": 166965,
+      "word": "大熊猫背上长出熊猫了",
+      "onboard_time": 1718761939,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165680,
       "num": 185153,
       "word": "土耳其vs格鲁吉亚",
@@ -563,20 +651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165679,
+      "num": 165679,
+      "word": "轨交幺幺零",
+      "onboard_time": 1718767039,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163830,
       "num": 150844,
       "word": "荣梓杉想演张若昀赵丽颖的儿子",
       "onboard_time": 1718721500,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 162600,
-      "num": 162600,
-      "word": "大熊猫背上长出熊猫了",
-      "onboard_time": 1718761939,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161894,
@@ -609,6 +697,14 @@
       "onboard_time": 1718719459,
       "rank": 23,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 147018,
+      "num": 147018,
+      "word": "流萤 不歪",
+      "onboard_time": 1718767217,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 146346,
@@ -667,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137368,
+      "num": 137368,
+      "word": "闺蜜驯服了一只苍蝇做宠物",
+      "onboard_time": 1718764037,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135400,
       "num": 135400,
       "word": "一艘潜艇的微短剧把我看哭了",
@@ -681,14 +785,6 @@
       "onboard_time": 1718723779,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126440,
-      "num": 126440,
-      "word": "鞠婧祎19岁至30岁颜值变化",
-      "onboard_time": 1718764937,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 126390,
@@ -747,6 +843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122594,
+      "num": 122594,
+      "word": "TheShy回应中分问题",
+      "onboard_time": 1718767277,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122084,
       "num": 122084,
       "word": "出生15天婴儿深夜遭月嫂连扇3耳光",
@@ -771,20 +875,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116116,
+      "num": 116116,
+      "word": "C罗刷新两项纪录",
+      "onboard_time": 1718762897,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113688,
       "num": 113688,
       "word": "塞尔达新作",
       "onboard_time": 1718722219,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113355,
-      "num": 113355,
-      "word": "C罗刷新两项纪录",
-      "onboard_time": 1718762897,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 110451,
@@ -907,6 +1011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82142,
+      "num": 1442024,
+      "word": "致敬暴雨中的守护力量",
+      "onboard_time": 1718766320,
+      "rank": 2,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 81690,
       "num": 86143,
       "word": "刘诗诗窦骁捧花合照",
@@ -1019,6 +1131,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 60302,
+      "num": 445567,
+      "word": "花钱咨询高考志愿填报靠谱吗",
+      "onboard_time": 1718766018,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 57397,
       "num": 68078,
       "word": "室友竟然在宿舍里装了个监控",
@@ -1089,6 +1209,14 @@
       "onboard_time": 1718720178,
       "rank": 29,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 43845,
+      "num": 247773,
+      "word": "捉刘亦菲同款宠物",
+      "onboard_time": 1718766320,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 42909,

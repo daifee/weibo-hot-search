@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718765149465,
+  "endTime": 1718767301653,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -355,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2470629,
+      "num": 2470629,
+      "word": "上海地铁发生持刀伤人案3人受伤",
+      "onboard_time": 1718762598,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2406389,
       "num": 2084442,
       "word": "那英不紧张了",
@@ -689,14 +697,6 @@
       "onboard_time": 1718450119,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1858582,
-      "num": 1858582,
-      "word": "上海地铁发生持刀伤人案3人受伤",
-      "onboard_time": 1718762598,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1842501,
@@ -1075,6 +1075,14 @@
       "category": "互联网,科学科普"
     },
     {
+      "raw_hot": 1611742,
+      "num": 1611742,
+      "word": "北大博士挑战姜萍竞赛题7题仅对1道",
+      "onboard_time": 1718761638,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1606792,
       "num": 1606792,
       "word": "汪文斌候任驻柬埔寨大使",
@@ -1089,14 +1097,6 @@
       "onboard_time": 1717929438,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1604204,
-      "num": 1604204,
-      "word": "北大博士挑战姜萍竞赛题7题仅对1道",
-      "onboard_time": 1718761638,
-      "rank": 4,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1602076,
@@ -10323,6 +10323,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 493167,
+      "num": 493167,
+      "word": "医院回应救人迟到被罚老师暂停诊",
+      "onboard_time": 1718761997,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493160,
       "num": 493160,
       "word": "周深回应孙楠唱人是",
@@ -11771,6 +11779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 444225,
+      "num": 444225,
+      "word": "教育部门回应姜萍能不能考浙大",
+      "onboard_time": 1718763978,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443460,
       "num": 443460,
       "word": "董宇辉称到今天都不享受直播工作",
@@ -11913,6 +11929,14 @@
       "onboard_time": 1717975093,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440001,
+      "num": 440001,
+      "word": "鞠婧祎助理号改名",
+      "onboard_time": 1718763559,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 439696,
@@ -12185,14 +12209,6 @@
       "onboard_time": 1717339699,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 430309,
-      "num": 430309,
-      "word": "鞠婧祎助理号改名",
-      "onboard_time": 1718763559,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 430221,
@@ -13648,14 +13664,6 @@
       "word": "工厂请千名工人吃1吨龙虾西瓜",
       "onboard_time": 1718277618,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388683,
-      "num": 388683,
-      "word": "医院回应救人迟到被罚老师暂停诊",
-      "onboard_time": 1718761997,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -15809,6 +15817,14 @@
       "onboard_time": 1718599760,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 338783,
+      "num": 210646,
+      "word": "刘亦菲粉发挑染",
+      "onboard_time": 1718766558,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 338781,
@@ -19579,6 +19595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269147,
+      "num": 269147,
+      "word": "玫瑰的故事5个男主4个东北的",
+      "onboard_time": 1718765357,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 269097,
       "num": 269097,
       "word": "迪丽热巴新歌DanceVideo",
@@ -20025,6 +20049,14 @@
       "onboard_time": 1718172018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261999,
+      "num": 261999,
+      "word": "Angelababy青衫琵琶",
+      "onboard_time": 1718766739,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 261884,
@@ -20937,6 +20969,14 @@
       "onboard_time": 1718248218,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246627,
+      "num": 246627,
+      "word": "胖东来调改永辉超市重新开业",
+      "onboard_time": 1718765296,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246581,
@@ -22041,6 +22081,14 @@
       "onboard_time": 1718757980,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 232205,
+      "num": 232205,
+      "word": "鞠婧祎19岁至30岁颜值变化",
+      "onboard_time": 1718764937,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 231828,
@@ -29099,14 +29147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 185038,
-      "num": 185038,
-      "word": "教育部门回应姜萍能不能考浙大",
-      "onboard_time": 1718763978,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185026,
       "num": 185026,
       "word": "马嘉祺 蜉蝣",
@@ -29553,6 +29593,14 @@
       "onboard_time": 1717335499,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181742,
+      "num": 181742,
+      "word": "沈学士 甜甜甜冰冰冰好喝好喝",
+      "onboard_time": 1718765477,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 181714,
@@ -30577,6 +30625,14 @@
       "onboard_time": 1718381597,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175535,
+      "num": 175535,
+      "word": "地铁回应持刀伤人事件",
+      "onboard_time": 1718766137,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175519,
@@ -32059,6 +32115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166965,
+      "num": 166965,
+      "word": "大熊猫背上长出熊猫了",
+      "onboard_time": 1718761939,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166953,
       "num": 153726,
       "word": "耳帝说那英唱搁浅小心翼翼",
@@ -32329,6 +32393,14 @@
       "onboard_time": 1718724438,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165679,
+      "num": 165679,
+      "word": "轨交幺幺零",
+      "onboard_time": 1718767039,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165596,
@@ -32881,14 +32953,6 @@
       "onboard_time": 1718623636,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162600,
-      "num": 162600,
-      "word": "大熊猫背上长出熊猫了",
-      "onboard_time": 1718761939,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162569,
@@ -36187,6 +36251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147018,
+      "num": 147018,
+      "word": "流萤 不歪",
+      "onboard_time": 1718767217,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146991,
       "num": 146991,
       "word": "BL传奇杯夺冠",
@@ -38177,6 +38249,14 @@
       "onboard_time": 1718174359,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137368,
+      "num": 137368,
+      "word": "闺蜜驯服了一只苍蝇做宠物",
+      "onboard_time": 1718764037,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 137334,
@@ -40763,14 +40843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126440,
-      "num": 126440,
-      "word": "鞠婧祎19岁至30岁颜值变化",
-      "onboard_time": 1718764937,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126430,
       "num": 126430,
       "word": "学校回应小学生吐槽食堂饭菜被教育",
@@ -41681,6 +41753,14 @@
       "onboard_time": 1717311017,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122594,
+      "num": 122594,
+      "word": "TheShy回应中分问题",
+      "onboard_time": 1718767277,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 122579,
@@ -42963,6 +43043,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 116116,
+      "num": 116116,
+      "word": "C罗刷新两项纪录",
+      "onboard_time": 1718762897,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116085,
       "num": 116085,
       "word": "葡萄牙航空展两飞机相撞致1死1伤",
@@ -43585,14 +43673,6 @@
       "onboard_time": 1718519596,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113355,
-      "num": 113355,
-      "word": "C罗刷新两项纪录",
-      "onboard_time": 1718762897,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 113296,
@@ -47435,6 +47515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82142,
+      "num": 1442024,
+      "word": "致敬暴雨中的守护力量",
+      "onboard_time": 1718766320,
+      "rank": 2,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 82051,
       "num": 88537,
       "word": "各种水果超长保鲜指南",
@@ -49443,6 +49531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 60302,
+      "num": 445567,
+      "word": "花钱咨询高考志愿填报靠谱吗",
+      "onboard_time": 1718766018,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 60092,
       "num": 102668,
       "word": "高三男孩右手献血左手复习",
@@ -51121,6 +51217,14 @@
       "onboard_time": 1717593979,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43845,
+      "num": 247773,
+      "word": "捉刘亦菲同款宠物",
+      "onboard_time": 1718766320,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 43836,
