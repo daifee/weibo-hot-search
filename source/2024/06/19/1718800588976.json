@@ -1,0 +1,410 @@
+{
+  "runTime": 1718800588976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1142994,
+        "num": 1142994,
+        "word": "素媛案罪犯赵斗淳再出狱",
+        "onboard_time": 1718796499,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569308,
+        "num": 569308,
+        "word": "黄亦玫离婚",
+        "onboard_time": 1718795959,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42154,
+        "num": 537442,
+        "word": "这些毕业祝福送到心里了",
+        "onboard_time": 1718788400,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527471,
+        "num": 527471,
+        "word": "SM英国男团颜值",
+        "onboard_time": 1718799018,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 514840,
+        "num": 514840,
+        "word": "韩国宣布进入人口危机紧急状态",
+        "onboard_time": 1718785642,
+        "rank": 4,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 563313,
+        "num": 505643,
+        "word": "张雪峰说今年高考报考形势一片大好",
+        "onboard_time": 1718794939,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 484827,
+        "num": 484827,
+        "word": "田曦薇艺考素颜麻花辫照",
+        "onboard_time": 1718796078,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465804,
+        "num": 465804,
+        "word": "住持和女主播发生关系被敲诈案宣判",
+        "onboard_time": 1718797219,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356981,
+        "num": 356981,
+        "word": "孩子吃华莱士汉堡吃出生肉",
+        "onboard_time": 1718793860,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32483,
+        "num": 335336,
+        "word": "边防官兵一次巡逻穿越四季",
+        "onboard_time": 1718797638,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1247332,
+        "num": 335200,
+        "word": "复旦",
+        "onboard_time": 1718798479,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1088767,
+        "num": 335184,
+        "word": "一家7口套现20亿",
+        "onboard_time": 1718791759,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 333099,
+        "num": 333099,
+        "word": "74位计算机毕业生的薪资",
+        "onboard_time": 1718797998,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311184,
+        "num": 311184,
+        "word": "林更新这句我骂不动他了",
+        "onboard_time": 1718776101,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35760,
+        "num": 252425,
+        "word": "汽车行业最缺什么人才",
+        "onboard_time": 1718798418,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 248842,
+        "num": 248842,
+        "word": "鞠婧祎小号发博",
+        "onboard_time": 1718780541,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244018,
+        "num": 244018,
+        "word": "巴黎奥运会女排分组抽签",
+        "onboard_time": 1718795478,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243781,
+        "num": 243781,
+        "word": "医生称三甲医院很少招中医院校毕业生",
+        "onboard_time": 1718791819,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242004,
+        "num": 242004,
+        "word": "陈晓方未回应婚姻破裂传闻",
+        "onboard_time": 1718773463,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226078,
+        "num": 226078,
+        "word": "吴谨言王星越 芭莎",
+        "onboard_time": 1718786780,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366189,
+        "num": 225187,
+        "word": "有车有房存款30万适合回县城吗",
+        "onboard_time": 1718798418,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12390,
+        "num": 224205,
+        "word": "微博电影之夜毕业季信箱",
+        "onboard_time": 1718795178,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223867,
+        "num": 223867,
+        "word": "中央军委政治工作会议在延安召开",
+        "onboard_time": 1718793980,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223835,
+        "num": 223835,
+        "word": "恋综最好用的脑子出现了",
+        "onboard_time": 1718799620,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216920,
+        "num": 216920,
+        "word": "歌手官宣张远冲榜",
+        "onboard_time": 1718782759,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209643,
+        "num": 209643,
+        "word": "电影版开端",
+        "onboard_time": 1718791879,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199352,
+        "num": 199352,
+        "word": "初级会计成绩",
+        "onboard_time": 1718785342,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195939,
+        "num": 195939,
+        "word": "Jennie第一条TikTok",
+        "onboard_time": 1718789660,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191413,
+        "num": 191413,
+        "word": "长公主初代爱疯",
+        "onboard_time": 1718800159,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184328,
+        "num": 184328,
+        "word": "性侵中国女游客的韩酒店员工已返岗",
+        "onboard_time": 1718775560,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176622,
+        "num": 176622,
+        "word": "退钱哥吐槽欧洲杯上厕所1欧元",
+        "onboard_time": 1718798660,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170225,
+        "num": 170225,
+        "word": "黄亦玫拒绝生二胎",
+        "onboard_time": 1718792779,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168021,
+        "num": 168021,
+        "word": "TT对战JDG",
+        "onboard_time": 1718800098,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157471,
+        "num": 157471,
+        "word": "王星越 不显老",
+        "onboard_time": 1718793679,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150369,
+        "num": 150369,
+        "word": "男朋友拿筋膜枪洗杨梅",
+        "onboard_time": 1718788700,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124275,
+        "num": 124275,
+        "word": "叶世杰情急之下叫了薛芳菲",
+        "onboard_time": 1718794999,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123355,
+        "num": 123355,
+        "word": "不知道学啥专业咋办",
+        "onboard_time": 1718799978,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121297,
+        "num": 121297,
+        "word": "薛芳菲还了前夫哥一滩污名",
+        "onboard_time": 1718791340,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128712,
+        "num": 119618,
+        "word": "王星越别看",
+        "onboard_time": 1718796018,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117401,
+        "num": 117401,
+        "word": "克罗地亚vs阿尔巴尼亚首发",
+        "onboard_time": 1718799918,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114556,
+        "num": 114556,
+        "word": "重庆的辣已经nextlevel",
+        "onboard_time": 1718795660,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 114028,
+        "num": 114028,
+        "word": "丝芭传媒持有鞠婧祎姓名域名",
+        "onboard_time": 1718790440,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109199,
+        "num": 109199,
+        "word": "张远 歌手",
+        "onboard_time": 1718778260,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108178,
+        "num": 108178,
+        "word": "王者荣耀",
+        "onboard_time": 1718795959,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108042,
+        "num": 108042,
+        "word": "韩国网友问中国有登山的地方吗",
+        "onboard_time": 1718782221,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38482,
+        "num": 106218,
+        "word": "暖心交警变身卖瓜大叔好帮手",
+        "onboard_time": 1718798358,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 105727,
+        "num": 105727,
+        "word": "中国女排奥运同组法美塞",
+        "onboard_time": 1718797518,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104529,
+        "num": 104529,
+        "word": "奔跑吧匈牙利录制路透",
+        "onboard_time": 1718791340,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104081,
+        "num": 104081,
+        "word": "上海地铁持刀伤人发生在安检口外",
+        "onboard_time": 1718790559,
+        "rank": 48,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 101609,
+        "num": 101609,
+        "word": "鞠婧祎工作室被改密码",
+        "onboard_time": 1718779161,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在青海考察调研#"
+    }
+  }
+}

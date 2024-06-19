@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718796885098,
+  "endTime": 1718800588976,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1247332,
+      "num": 335200,
+      "word": "复旦",
+      "onboard_time": 1718798479,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1223498,
       "num": 1223498,
       "word": "林更新这句我骂不动他了",
@@ -136,6 +144,14 @@
       "word": "教育部门回应姜萍能不能考浙大",
       "onboard_time": 1718763978,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1142994,
+      "num": 1142994,
+      "word": "素媛案罪犯赵斗淳再出狱",
+      "onboard_time": 1718796499,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -315,6 +331,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 569308,
+      "num": 569308,
+      "word": "黄亦玫离婚",
+      "onboard_time": 1718795959,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 563313,
+      "num": 505643,
+      "word": "张雪峰说今年高考报考形势一片大好",
+      "onboard_time": 1718794939,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 561252,
       "num": 324975,
       "word": "罗小黑 作者",
@@ -347,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 527471,
+      "num": 527471,
+      "word": "SM英国男团颜值",
+      "onboard_time": 1718799018,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 522007,
       "num": 471084,
       "word": "Angelababy青衫琵琶",
@@ -372,7 +412,7 @@
     },
     {
       "raw_hot": 516874,
-      "num": 345491,
+      "num": 356981,
       "word": "孩子吃华莱士汉堡吃出生肉",
       "onboard_time": 1718793860,
       "rank": 11,
@@ -411,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484827,
+      "num": 484827,
+      "word": "田曦薇艺考素颜麻花辫照",
+      "onboard_time": 1718796078,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482280,
       "num": 363997,
       "word": "赵露思卢昱晓早期合照",
@@ -433,6 +481,14 @@
       "onboard_time": 1718755758,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 465804,
+      "num": 465804,
+      "word": "住持和女主播发生关系被敲诈案宣判",
+      "onboard_time": 1718797219,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463458,
@@ -619,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366189,
+      "num": 225187,
+      "word": "有车有房存款30万适合回县城吗",
+      "onboard_time": 1718798418,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 365771,
       "num": 365771,
       "word": "歌手",
@@ -715,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333099,
+      "num": 333099,
+      "word": "74位计算机毕业生的薪资",
+      "onboard_time": 1718797998,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333071,
       "num": 333071,
       "word": "傅家明对黄亦玫不是一见钟情",
@@ -803,14 +875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 301489,
-      "num": 301489,
-      "word": "张雪峰说今年高考报考形势一片大好",
-      "onboard_time": 1718794939,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 301159,
       "num": 179870,
       "word": "鞠婧祎 到期不续",
@@ -857,14 +921,6 @@
       "onboard_time": 1718790798,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 293286,
-      "num": 293286,
-      "word": "黄亦玫离婚",
-      "onboard_time": 1718795959,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 292943,
@@ -963,14 +1019,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267263,
-      "num": 288835,
-      "word": "素媛案罪犯赵斗淳再出狱",
-      "onboard_time": 1718796499,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265885,
       "num": 182186,
       "word": "罗云熙一眼就能认出七仔",
@@ -985,14 +1033,6 @@
       "onboard_time": 1718760858,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 259620,
-      "num": 259620,
-      "word": "田曦薇艺考素颜麻花辫照",
-      "onboard_time": 1718796078,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 259347,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1718763798,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223835,
+      "num": 223835,
+      "word": "恋综最好用的脑子出现了",
+      "onboard_time": 1718799620,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 223211,
@@ -1315,6 +1363,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 191413,
+      "num": 191413,
+      "word": "长公主初代爱疯",
+      "onboard_time": 1718800159,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188071,
       "num": 188071,
       "word": "美媒称贾斯汀汀布莱克被捕",
@@ -1467,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176622,
+      "num": 176622,
+      "word": "退钱哥吐槽欧洲杯上厕所1欧元",
+      "onboard_time": 1718798660,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176046,
       "num": 176046,
       "word": "于正说墨雨云间定角太难了",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1718785401,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168021,
+      "num": 168021,
+      "word": "TT对战JDG",
+      "onboard_time": 1718800098,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 166965,
@@ -2027,6 +2099,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 123355,
+      "num": 123355,
+      "word": "不知道学啥专业咋办",
+      "onboard_time": 1718799978,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 123168,
       "num": 123168,
       "word": "其实大部分的岗位都可以居家办公",
@@ -2099,6 +2179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117401,
+      "num": 117401,
+      "word": "克罗地亚vs阿尔巴尼亚首发",
+      "onboard_time": 1718799918,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116116,
       "num": 116116,
       "word": "C罗刷新两项纪录",
@@ -2145,6 +2233,14 @@
       "onboard_time": 1718782759,
       "rank": 45,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 105727,
+      "num": 105727,
+      "word": "中国女排奥运同组法美塞",
+      "onboard_time": 1718797518,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103298,
@@ -2643,12 +2739,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 38482,
+      "num": 106218,
+      "word": "暖心交警变身卖瓜大叔好帮手",
+      "onboard_time": 1718798358,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 36137,
       "num": 378196,
       "word": "快递保鲜费引争议",
       "onboard_time": 1718773222,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35760,
+      "num": 252425,
+      "word": "汽车行业最缺什么人才",
+      "onboard_time": 1718798418,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 35097,
@@ -2673,6 +2785,14 @@
       "onboard_time": 1718736491,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 32483,
+      "num": 335336,
+      "word": "边防官兵一次巡逻穿越四季",
+      "onboard_time": 1718797638,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32330,
