@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/19 18:37:29
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/19 19:17:26
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23fine%E4%B9%90%E5%9B%A2%E8%83%BD%E4%B8%8D%E8%83%BD%E7%95%99%E4%B8%8B%23" target="weibo">
 fine乐团能不能留下（热度：2043691）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B67%E5%8F%A3%E5%A5%97%E7%8E%B020%E4%BA%BF%23" target="weibo">
+一家7口套现20亿（热度：2041269）
 </a>
 </li>
 
@@ -2673,12 +2679,6 @@ iPhone有通话录音了（热度：1060619）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B67%E5%8F%A3%E5%A5%97%E7%8E%B020%E4%BA%BF%23" target="weibo">
-一家7口套现20亿（热度：978864）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%B4%E8%B0%8D%E5%81%87%E8%A3%85%E8%87%AA%E6%9B%9D%E7%BB%93%E6%9E%9C%E7%9C%9F%E7%89%B5%E5%87%BA%E5%A4%A7%E6%A1%88%23" target="weibo">
 间谍假装自曝结果真牵出大案（热度：978837）
 </a>
@@ -4863,6 +4863,12 @@ iPhone17系列或迎来更薄机型（热度：688842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%A7%B0%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%E5%BE%88%E5%B0%91%E6%8B%9B%E4%B8%AD%E5%8C%BB%E9%99%A2%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%23" target="weibo">
+医生称三甲医院很少招中医院校毕业生（热度：682033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%96%9D%E9%86%89%E5%90%8E%E6%BB%A1%E4%B8%96%E7%95%8C%E6%89%BEWiFi%23" target="weibo">
 胡先煦喝醉后满世界找WiFi（热度：681546）
 </a>
@@ -6005,12 +6011,6 @@ FPX小老虎不打了（热度：601555）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E7%88%B9%23" target="weibo">
 手机爹（热度：596456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8D%B0%E8%B1%A1%E6%B7%B1%E5%88%BB%E7%9A%84%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%98%23" target="weibo">
-你印象深刻的高考作文题（热度：596083）
 </a>
 </li>
 
