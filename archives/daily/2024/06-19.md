@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/19 00:24:45 ~ 2024/06/19 10:36:02
+本榜单时间：2024/06/19 00:24:45 ~ 2024/06/19 10:45:49
 </p>
 </blockquote>
 <p>
@@ -33,6 +33,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E6%8C%91%E6%88%98%E5%A7%9C%E8%90%8D%E7%AB%9E%E8%B5%9B%E9%A2%987%E9%A2%98%E4%BB%85%E5%AF%B91%E9%81%93%23" target="weibo">
+北大博士挑战姜萍竞赛题7题仅对1道（热度：1604204）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%90%91%E8%BD%A6%E4%B8%BB%E9%81%93%E6%AD%89%23" target="weibo">
 罗云熙向车主道歉（热度：1505360）
 </a>
@@ -47,12 +53,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A5%A0%E7%81%AB%E9%94%85%E8%87%B4%E6%AD%89%23" target="weibo">
 楠火锅致歉（热度：1354237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%A3%AB%E6%8C%91%E6%88%98%E5%A7%9C%E8%90%8D%E7%AB%9E%E8%B5%9B%E9%A2%987%E9%A2%98%E4%BB%85%E5%AF%B91%E9%81%93%23" target="weibo">
-北大博士挑战姜萍竞赛题7题仅对1道（热度：1207538）
 </a>
 </li>
 
@@ -99,14 +99,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%88%B0%E6%9C%9F%E4%B8%8D%E7%BB%AD%23" target="weibo">
-丝芭回应鞠婧祎到期不续（热度：581593）
+<a href="https://s.weibo.com/weibo?q=%2312%E5%BC%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%90%86%E6%B8%85%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%23" target="weibo">
+12张思维导图理清大学专业（热度：616708）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%BC%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E7%90%86%E6%B8%85%E5%A4%A7%E5%AD%A6%E4%B8%93%E4%B8%9A%23" target="weibo">
-12张思维导图理清大学专业（热度：569023）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E5%9B%9E%E5%BA%94%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%88%B0%E6%9C%9F%E4%B8%8D%E7%BB%AD%23" target="weibo">
+丝芭回应鞠婧祎到期不续（热度：581593）
 </a>
 </li>
 
@@ -130,7 +130,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%20%E4%B8%8D%E7%9F%A5%E9%81%93%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%9C%A8%E7%88%BD%E4%BA%9B%E4%BB%80%E4%B9%88%23" target="weibo">
-吴谨言 不知道王星越在爽些什么（热度：489323）
+吴谨言 不知道王星越在爽些什么（热度：497061）
 </a>
 </li>
 
@@ -147,14 +147,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E6%83%B3%E6%94%BE%E5%80%92%E5%BA%A7%E6%A4%85%E9%81%AD%E5%90%8E%E6%8E%92%E4%B8%80%E8%84%9A%E6%8A%B5%E4%BD%8F%23" target="weibo">
-高铁乘客想放倒座椅遭后排一脚抵住（热度：428215）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%A6%BB%E5%A9%9A%23" target="weibo">
+玫瑰离婚（热度：431124）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%A6%BB%E5%A9%9A%23" target="weibo">
-玫瑰离婚（热度：417786）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8A%A9%E7%90%86%E5%8F%B7%E6%94%B9%E5%90%8D%23" target="weibo">
+鞠婧祎助理号改名（热度：430309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B9%98%E5%AE%A2%E6%83%B3%E6%94%BE%E5%80%92%E5%BA%A7%E6%A4%85%E9%81%AD%E5%90%8E%E6%8E%92%E4%B8%80%E8%84%9A%E6%8A%B5%E4%BD%8F%23" target="weibo">
+高铁乘客想放倒座椅遭后排一脚抵住（热度：428215）
 </a>
 </li>
 
@@ -233,12 +239,6 @@ MTJJ（热度：381929）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%8A%8A%E5%88%9D%E4%B8%BA%E4%BA%BA%E6%AF%8D%E7%9A%84%E6%84%9F%E8%A7%89%E6%BC%94%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 刘亦菲把初为人母的感觉演出来了（热度：340590）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8A%A9%E7%90%86%E5%8F%B7%E6%94%B9%E5%90%8D%23" target="weibo">
-鞠婧祎助理号改名（热度：325740）
 </a>
 </li>
 
@@ -351,6 +351,12 @@ C罗比赛（热度：219307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E6%A1%88%E4%BB%B6%23" target="weibo">
+官方通报上海地铁持刀伤人案件（热度：204801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%BD%E5%89%A7%E6%98%AF%E4%B8%8D%E7%9C%8B%E5%AD%97%E5%B9%95%E7%9A%84%23" target="weibo">
 原来韩国人追剧是不看字幕的（热度：201573）
 </a>
@@ -405,6 +411,12 @@ C罗比赛（热度：219307）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%A7%9C%E8%90%8D%E8%83%BD%E4%B8%8D%E8%83%BD%E8%80%83%E6%B5%99%E5%A4%A7%23" target="weibo">
+教育部门回应姜萍能不能考浙大（热度：185038）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%85%20%E8%99%9E%E4%B9%A6%E6%AC%A3%23" target="weibo">
 中餐厅 虞书欣（热度：184783）
 </a>
@@ -425,6 +437,12 @@ C罗比赛（热度：219307）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E6%A2%93%E6%9D%89%E6%83%B3%E6%BC%94%E5%BC%A0%E8%8B%A5%E6%98%80%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
 荣梓杉想演张若昀赵丽颖的儿子（热度：163830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%83%8C%E4%B8%8A%E9%95%BF%E5%87%BA%E7%86%8A%E7%8C%AB%E4%BA%86%23" target="weibo">
+大熊猫背上长出熊猫了（热度：162600）
 </a>
 </li>
 
@@ -453,12 +471,6 @@ T人和F人真的很好分辨（热度：151275）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%83%8C%E4%B8%8A%E9%95%BF%E5%87%BA%E7%86%8A%E7%8C%AB%E4%BA%86%23" target="weibo">
-大熊猫背上长出熊猫了（热度：149405）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A1%8C%E8%B4%BF%E6%B3%95%E5%AE%98%E5%A6%BB%E5%AD%9030%E4%B8%87%E8%A2%AB%E8%AE%A4%E5%AE%9A%E9%87%91%E9%A2%9D%E5%B0%8F%23" target="weibo">
 律师行贿法官妻子30万被认定金额小（热度：146346）
 </a>
@@ -473,12 +485,6 @@ T人和F人真的很好分辨（热度：151275）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%90%A6%E5%B0%B1%E4%B8%8D%E5%BD%93%E8%A8%80%E8%A1%8C%E8%87%B4%E6%AD%89%23" target="weibo">
 余琦就不当言行致歉（热度：142183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E5%A7%9C%E8%90%8D%E8%83%BD%E4%B8%8D%E8%83%BD%E8%80%83%E6%B5%99%E5%A4%A7%23" target="weibo">
-教育部门回应姜萍能不能考浙大（热度：140977）
 </a>
 </li>
 
@@ -513,14 +519,14 @@ T人和F人真的很好分辨（热度：151275）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E6%A1%88%E4%BB%B6%23" target="weibo">
-官方通报上海地铁持刀伤人案件（热度：133704）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E5%AF%B9%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E7%AD%BE%E5%90%8D%E7%85%A7%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
+跳跳俏俏对张杰谢娜签名照的区别（热度：127242）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E5%AF%B9%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E7%AD%BE%E5%90%8D%E7%85%A7%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
-跳跳俏俏对张杰谢娜签名照的区别（热度：127242）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E19%E5%B2%81%E8%87%B330%E5%B2%81%E9%A2%9C%E5%80%BC%E5%8F%98%E5%8C%96%23" target="weibo">
+鞠婧祎19岁至30岁颜值变化（热度：126440）
 </a>
 </li>
 
@@ -551,6 +557,12 @@ LV春夏25男装秀（热度：126390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E6%9B%BE%E4%B8%8E%E5%A4%9A%E4%BD%8DSNH48%E5%8E%9F%E6%88%90%E5%91%98%E5%AD%98%E5%9C%A8%E7%BA%A0%E7%BA%B7%23" target="weibo">
 丝芭曾与多位SNH48原成员存在纠纷（热度：123984）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%94%B5%E8%AF%9D%E6%91%87%E4%BA%BA%23" target="weibo">
+王嘉尔电话摇人（热度：123906）
 </a>
 </li>
 
@@ -713,6 +725,12 @@ C罗39岁状态（热度：101552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%BA%E5%BF%B5%E8%90%A4%E8%8D%89%E5%85%B8%E8%97%8F%E7%9A%AE%E8%82%A4%23" target="weibo">
 渺念萤草典藏皮肤（热度：73706）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AE%A3%E9%83%A8%E8%BF%BD%E6%8E%88%E5%BE%90%E5%88%A9%E6%B0%91%E5%90%8C%E5%BF%97%E6%97%B6%E4%BB%A3%E6%A5%B7%E6%A8%A1%E7%A7%B0%E5%8F%B7%23" target="weibo">
+中宣部追授徐利民同志时代楷模称号（热度：71224）
 </a>
 </li>
 
