@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718800588976,
+  "endTime": 1718801520089,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -881,6 +881,14 @@
       "onboard_time": 1718257218,
       "rank": 10,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1725154,
+      "num": 1725154,
+      "word": "复旦",
+      "onboard_time": 1718798479,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1719375,
@@ -2281,14 +2289,6 @@
       "onboard_time": 1718519596,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1247332,
-      "num": 335200,
-      "word": "复旦",
-      "onboard_time": 1718798479,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1244043,
@@ -7523,6 +7523,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 621810,
+      "num": 621810,
+      "word": "黄亦玫离婚",
+      "onboard_time": 1718795959,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 621509,
       "num": 234136,
       "word": "因为没去参加高考被爸爸骂了",
@@ -8603,14 +8611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 569308,
-      "num": 569308,
-      "word": "黄亦玫离婚",
-      "onboard_time": 1718795959,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 568473,
       "num": 449678,
       "word": "张杰唱歌前没有话筒的反应",
@@ -9275,6 +9275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 537545,
+      "num": 537545,
+      "word": "SM英国男团颜值",
+      "onboard_time": 1718799018,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 537207,
       "num": 537207,
       "word": "新加坡门将向中国游客道歉",
@@ -9497,14 +9505,6 @@
       "onboard_time": 1717755619,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 527471,
-      "num": 527471,
-      "word": "SM英国男团颜值",
-      "onboard_time": 1718799018,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 527366,
@@ -10427,6 +10427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 497260,
+      "num": 225187,
+      "word": "有车有房存款30万适合回县城吗",
+      "onboard_time": 1718798418,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 497061,
       "num": 497061,
       "word": "吴谨言 不知道王星越在爽些什么",
@@ -10643,6 +10651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492202,
+      "num": 492202,
+      "word": "住持和女主播发生关系被敲诈案宣判",
+      "onboard_time": 1718797219,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491417,
       "num": 208165,
       "word": "建议大家购买饮料别加冰",
@@ -10755,6 +10771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 485171,
+      "num": 485171,
+      "word": "田曦薇艺考素颜麻花辫照",
+      "onboard_time": 1718796078,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 485100,
       "num": 412556,
       "word": "Prada选对人了",
@@ -10769,14 +10793,6 @@
       "onboard_time": 1718550739,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 484827,
-      "num": 484827,
-      "word": "田曦薇艺考素颜麻花辫照",
-      "onboard_time": 1718796078,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 484542,
@@ -11385,14 +11401,6 @@
       "onboard_time": 1717736243,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 465804,
-      "num": 465804,
-      "word": "住持和女主播发生关系被敲诈案宣判",
-      "onboard_time": 1718797219,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 465784,
@@ -14931,14 +14939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 366189,
-      "num": 225187,
-      "word": "有车有房存款30万适合回县城吗",
-      "onboard_time": 1718798418,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 365990,
       "num": 354652,
       "word": "沈月接受了自己的身高",
@@ -16035,6 +16035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342938,
+      "num": 333099,
+      "word": "74位计算机毕业生的薪资",
+      "onboard_time": 1718797998,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342781,
       "num": 342781,
       "word": "丹麦首相遭一男子殴打",
@@ -16552,14 +16560,6 @@
       "word": "Shopee内部通知一员工猝死",
       "onboard_time": 1718684719,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333099,
-      "num": 333099,
-      "word": "74位计算机毕业生的薪资",
-      "onboard_time": 1718797998,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -18067,6 +18067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302092,
+      "num": 302092,
+      "word": "恋综最好用的脑子出现了",
+      "onboard_time": 1718799620,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301903,
       "num": 301903,
       "word": "剑网三",
@@ -18609,6 +18617,14 @@
       "onboard_time": 1718620937,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293640,
+      "num": 293640,
+      "word": "赵露思把耳机挂腰上",
+      "onboard_time": 1718801181,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293256,
@@ -20080,6 +20096,14 @@
       "word": "黄亦玫方协文亲上了",
       "onboard_time": 1718374884,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 271279,
+      "num": 191413,
+      "word": "长公主初代爱疯",
+      "onboard_time": 1718800159,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -22107,6 +22131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 240469,
+      "num": 240469,
+      "word": "周深南京",
+      "onboard_time": 1718800879,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 240452,
       "num": 192235,
       "word": "为什么夏天不敢穿黄色衣服出门",
@@ -23489,14 +23521,6 @@
       "onboard_time": 1717649061,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 223835,
-      "num": 223835,
-      "word": "恋综最好用的脑子出现了",
-      "onboard_time": 1718799620,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 223544,
@@ -28657,14 +28681,6 @@
       "onboard_time": 1718540239,
       "rank": 29,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 191413,
-      "num": 191413,
-      "word": "长公主初代爱疯",
-      "onboard_time": 1718800159,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 191354,
@@ -37811,6 +37827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145022,
+      "num": 145022,
+      "word": "潜意识爱上一个人的表现",
+      "onboard_time": 1718801059,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144991,
       "num": 144991,
       "word": "暴雪再注册一枚魔兽世界商标",
@@ -41521,6 +41545,14 @@
       "onboard_time": 1717348873,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128233,
+      "num": 128233,
+      "word": "过半高校没有数学与应用数学专业",
+      "onboard_time": 1718800938,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 128231,
@@ -46435,6 +46467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105610,
+      "num": 317495,
+      "word": "一个听起来很香的本科专业",
+      "onboard_time": 1718800879,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 105556,
       "num": 105556,
       "word": "第一次见包法这么复杂的粽子",
@@ -47713,6 +47753,14 @@
       "onboard_time": 1718712557,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96279,
+      "num": 96279,
+      "word": "黄霄雲再来歌手轻舟已过万重山",
+      "onboard_time": 1718801418,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 96146,
@@ -52467,6 +52515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 46473,
+      "num": 277194,
+      "word": "汽车行业最缺什么人才",
+      "onboard_time": 1718798418,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46271,
       "num": 265874,
       "word": "怪不得你是上届宫斗冠军",
@@ -53633,14 +53689,6 @@
       "onboard_time": 1717435213,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35760,
-      "num": 252425,
-      "word": "汽车行业最缺什么人才",
-      "onboard_time": 1718798418,
-      "rank": 14,
-      "category": "汽车"
     },
     {
       "raw_hot": 35590,
