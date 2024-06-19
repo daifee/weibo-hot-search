@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718815179463,
+  "endTime": 1718817566898,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -52545,6 +52545,14 @@
       "onboard_time": 1718505076,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 50875,
+      "num": 50875,
+      "word": "蓝色监狱 全员白衬衫西装",
+      "onboard_time": 1718816115,
+      "rank": 36,
+      "category": "动漫"
     },
     {
       "raw_hot": 50870,
