@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718825687330,
+  "endTime": 1718828363514,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -299,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 80724,
+      "num": 33062,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80473,
       "num": 94555,
       "word": "原来王星越也是个小财迷",
@@ -419,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 43340,
-      "num": 33062,
-      "word": "逃离家暴的女网红想离婚被开价50万",
-      "onboard_time": 1718823612,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25549,
       "num": 216985,
       "word": "一碗粉一张饼暖心又暖胃",
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20915,
+      "num": 20915,
+      "word": "碧梨jennie合照",
+      "onboard_time": 1718825110,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16966,
       "num": 16966,
       "word": "2024年新增24个本科专业",
@@ -459,15 +467,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 15568,
-      "num": 16260,
-      "word": "碧梨jennie合照",
-      "onboard_time": 1718825110,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14154,
+      "raw_hot": 14431,
       "num": 16215,
       "word": "外交部回应菲律宾侵闯仁爱礁",
       "onboard_time": 1718824572,
@@ -489,6 +489,14 @@
       "onboard_time": 1718823131,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12273,
+      "num": 13944,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 11770,

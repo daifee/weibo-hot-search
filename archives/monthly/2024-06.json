@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718825687330,
+  "endTime": 1718828363514,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -49499,6 +49499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80724,
+      "num": 33062,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80718,
       "num": 80718,
       "word": "窝囊废赛道挤满了男明星",
@@ -53251,14 +53259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43340,
-      "num": 33062,
-      "word": "逃离家暴的女网红想离婚被开价50万",
-      "onboard_time": 1718823612,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 43277,
       "num": 449447,
       "word": "2024高考加油曲",
@@ -55747,6 +55747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 20915,
+      "num": 20915,
+      "word": "碧梨jennie合照",
+      "onboard_time": 1718825110,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20910,
       "num": 21768,
       "word": "时代少年团做29块9的洗剪吹",
@@ -56227,14 +56235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15568,
-      "num": 16260,
-      "word": "碧梨jennie合照",
-      "onboard_time": 1718825110,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15387,
       "num": 128512,
       "word": "怎么有人看谁都深情啊",
@@ -56331,6 +56331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14431,
+      "num": 16215,
+      "word": "外交部回应菲律宾侵闯仁爱礁",
+      "onboard_time": 1718824572,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14391,
       "num": 21680,
       "word": "RIIZE新歌试听",
@@ -56361,14 +56369,6 @@
       "onboard_time": 1718083817,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14154,
-      "num": 16215,
-      "word": "外交部回应菲律宾侵闯仁爱礁",
-      "onboard_time": 1718824572,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14034,
@@ -56583,6 +56583,14 @@
       "num": 17540,
       "word": "老师考前不断叮嘱操碎了心",
       "onboard_time": 1717877771,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 12273,
+      "num": 13944,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
       "rank": 49,
       "category": "教育"
     },
