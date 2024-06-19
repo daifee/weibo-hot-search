@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718781481520,
+  "endTime": 1718782486960,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -19,20 +19,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1931764,
+      "num": 1931764,
+      "word": "张远 歌手",
+      "onboard_time": 1718778260,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1903200,
       "num": 464167,
       "word": "陈晓方未回应婚姻破裂传闻",
       "onboard_time": 1718773463,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1725706,
-      "num": 1725706,
-      "word": "张远 歌手",
-      "onboard_time": 1718778260,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 1716922,
@@ -49,6 +49,14 @@
       "onboard_time": 1718761638,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1552761,
+      "num": 451522,
+      "word": "鞠婧祎小号发博",
+      "onboard_time": 1718780541,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1505360,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1426896,
-      "num": 430405,
+      "num": 449712,
       "word": "性侵中国女游客的韩酒店员工已返岗",
       "onboard_time": 1718775560,
       "rank": 3,
@@ -145,14 +153,6 @@
       "onboard_time": 1718759479,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 879557,
-      "num": 430371,
-      "word": "鞠婧祎小号发博",
-      "onboard_time": 1718780541,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 872812,
@@ -291,12 +291,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 517340,
+      "num": 517340,
+      "word": "桂林",
+      "onboard_time": 1718778020,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497061,
       "num": 497061,
       "word": "吴谨言 不知道王星越在爽些什么",
       "onboard_time": 1718760196,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494559,
+      "num": 250786,
+      "word": "感染了HPV就一定是私生活混乱吗",
+      "onboard_time": 1718777120,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 493167,
@@ -337,14 +353,6 @@
       "onboard_time": 1718775981,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 448821,
-      "num": 250786,
-      "word": "感染了HPV就一定是私生活混乱吗",
-      "onboard_time": 1718777120,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 444328,
@@ -409,14 +417,6 @@
       "onboard_time": 1718774242,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411943,
-      "num": 411943,
-      "word": "桂林",
-      "onboard_time": 1718778020,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409381,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 311239,
-      "num": 266064,
+      "num": 271890,
       "word": "罗小黑",
       "onboard_time": 1718778079,
       "rank": 19,
@@ -609,6 +609,14 @@
       "onboard_time": 1718774002,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 304575,
+      "num": 182443,
+      "word": "韩国网友问中国有登山的地方吗",
+      "onboard_time": 1718782221,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 302524,
@@ -819,6 +827,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223382,
+      "num": 216422,
+      "word": "墨雨云间 原来表哥什么都知道",
+      "onboard_time": 1718781560,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219326,
+      "num": 219326,
+      "word": "恋与深空官宣古茗",
+      "onboard_time": 1718781861,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 219307,
       "num": 219307,
       "word": "C罗比赛",
@@ -831,6 +855,14 @@
       "num": 214695,
       "word": "黄亦玫离婚庄国栋再回国",
       "onboard_time": 1718758219,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 214152,
+      "num": 214152,
+      "word": "刘亦菲吃汉堡镜头",
+      "onboard_time": 1718781620,
       "rank": 24,
       "category": "剧集"
     },
@@ -1019,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183809,
+      "num": 183809,
+      "word": "原来练背真的能防脸垮",
+      "onboard_time": 1718777600,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 182330,
       "num": 182330,
       "word": "TheShy回应中分问题",
@@ -1089,14 +1129,6 @@
       "onboard_time": 1718766137,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174748,
-      "num": 174748,
-      "word": "原来练背真的能防脸垮",
-      "onboard_time": 1718777600,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 173853,
@@ -1203,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150447,
+      "num": 150447,
+      "word": "毕业仪式感是微博给的",
+      "onboard_time": 1718781261,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150184,
       "num": 150184,
       "word": "发现了掉秤最快的方法",
@@ -1227,14 +1267,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 149272,
-      "num": 149272,
-      "word": "毕业仪式感是微博给的",
-      "onboard_time": 1718781261,
-      "rank": 32,
-      "category": "教育"
-    },
-    {
       "raw_hot": 147628,
       "num": 147628,
       "word": "谢霆锋半裸悬空打拳",
@@ -1257,6 +1289,14 @@
       "onboard_time": 1718760799,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145231,
+      "num": 145231,
+      "word": "一组动作改善富贵包",
+      "onboard_time": 1718781501,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144950,
@@ -1355,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128592,
+      "num": 128592,
+      "word": "庄国栋都看顺眼了",
+      "onboard_time": 1718781981,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127242,
       "num": 127242,
       "word": "跳跳俏俏对张杰谢娜签名照的区别",
@@ -1451,12 +1499,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119685,
+      "num": 119685,
+      "word": "永辉超市午后冲击涨停",
+      "onboard_time": 1718782221,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119024,
       "num": 119024,
       "word": "带男朋友回家后发现家人很冷漠",
       "onboard_time": 1718723660,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118864,
+      "num": 343166,
+      "word": "帮老人桥上推车的姑娘找到了",
+      "onboard_time": 1718780600,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 118348,
@@ -1489,14 +1553,6 @@
       "onboard_time": 1718722219,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112184,
-      "num": 343166,
-      "word": "帮老人桥上推车的姑娘找到了",
-      "onboard_time": 1718780600,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 110451,
@@ -2011,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19149,
+      "num": 182552,
+      "word": "民警蒋壮收到奖状后能有多开心",
+      "onboard_time": 1718780481,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18088,
       "num": 18088,
       "word": "你平时喝瑞幸吗",
@@ -2041,6 +2105,14 @@
       "onboard_time": 1718722040,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8957,
+      "num": 119459,
+      "word": "黄渤评价吴磊",
+      "onboard_time": 1718782341,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 8033,

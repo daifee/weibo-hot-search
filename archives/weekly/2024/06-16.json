@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718781481520,
+  "endTime": 1718782486960,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1931764,
+      "num": 1931764,
+      "word": "张远 歌手",
+      "onboard_time": 1718778260,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1913244,
       "num": 1913244,
       "word": "霍建华一出场初恋和前夫弱爆了",
@@ -81,14 +89,6 @@
       "onboard_time": 1718592137,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1725706,
-      "num": 1725706,
-      "word": "张远 歌手",
-      "onboard_time": 1718778260,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 1716922,
@@ -137,6 +137,14 @@
       "onboard_time": 1718680216,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1552761,
+      "num": 451522,
+      "word": "鞠婧祎小号发博",
+      "onboard_time": 1718780541,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1548907,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 1426896,
-      "num": 430405,
+      "num": 449712,
       "word": "性侵中国女游客的韩酒店员工已返岗",
       "onboard_time": 1718775560,
       "rank": 3,
@@ -849,14 +857,6 @@
       "onboard_time": 1718625438,
       "rank": 10,
       "category": "网红"
-    },
-    {
-      "raw_hot": 879557,
-      "num": 430371,
-      "word": "鞠婧祎小号发博",
-      "onboard_time": 1718780541,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 860481,
@@ -1883,6 +1883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 517340,
+      "num": 517340,
+      "word": "桂林",
+      "onboard_time": 1718778020,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516352,
       "num": 516352,
       "word": "中国跳水队游泳队巴黎奥运名单公示",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1718496255,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494559,
+      "num": 250786,
+      "word": "感染了HPV就一定是私生活混乱吗",
+      "onboard_time": 1718777120,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 493167,
@@ -2257,14 +2273,6 @@
       "onboard_time": 1718554638,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 448821,
-      "num": 250786,
-      "word": "感染了HPV就一定是私生活混乱吗",
-      "onboard_time": 1718777120,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 446805,
@@ -2537,14 +2545,6 @@
       "onboard_time": 1718723240,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 411943,
-      "num": 411943,
-      "word": "桂林",
-      "onboard_time": 1718778020,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 409229,
@@ -3468,7 +3468,7 @@
     },
     {
       "raw_hot": 311239,
-      "num": 266064,
+      "num": 271890,
       "word": "罗小黑",
       "onboard_time": 1718778079,
       "rank": 19,
@@ -3545,6 +3545,14 @@
       "onboard_time": 1718463259,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 304575,
+      "num": 182443,
+      "word": "韩国网友问中国有登山的地方吗",
+      "onboard_time": 1718782221,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 302524,
@@ -4523,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223382,
+      "num": 216422,
+      "word": "墨雨云间 原来表哥什么都知道",
+      "onboard_time": 1718781560,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223157,
       "num": 223157,
       "word": "多名奥运冠军入选巴黎奥运名单",
@@ -4627,6 +4643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219326,
+      "num": 219326,
+      "word": "恋与深空官宣古茗",
+      "onboard_time": 1718781861,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218986,
       "num": 218986,
       "word": "王媛媛神级发挥",
@@ -4721,6 +4745,14 @@
       "onboard_time": 1718709436,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 214152,
+      "num": 214152,
+      "word": "刘亦菲吃汉堡镜头",
+      "onboard_time": 1718781620,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 213388,
@@ -5835,6 +5867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183809,
+      "num": 183809,
+      "word": "原来练背真的能防脸垮",
+      "onboard_time": 1718777600,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 183744,
       "num": 183744,
       "word": "东极岛 朱一龙吴磊",
@@ -6201,14 +6241,6 @@
       "onboard_time": 1718716278,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174748,
-      "num": 174748,
-      "word": "原来练背真的能防脸垮",
-      "onboard_time": 1718777600,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 174227,
@@ -7131,6 +7163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150447,
+      "num": 150447,
+      "word": "毕业仪式感是微博给的",
+      "onboard_time": 1718781261,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 150379,
       "num": 150379,
       "word": "我国第一颗氢弹爆炸震撼瞬间",
@@ -7185,14 +7225,6 @@
       "onboard_time": 1718769683,
       "rank": 42,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 149272,
-      "num": 149272,
-      "word": "毕业仪式感是微博给的",
-      "onboard_time": 1718781261,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 149233,
@@ -7345,6 +7377,14 @@
       "onboard_time": 1718702658,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145231,
+      "num": 145231,
+      "word": "一组动作改善富贵包",
+      "onboard_time": 1718781501,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144966,
@@ -8107,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128592,
+      "num": 128592,
+      "word": "庄国栋都看顺眼了",
+      "onboard_time": 1718781981,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128569,
       "num": 128569,
       "word": "阴阳师",
@@ -8619,6 +8667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119685,
+      "num": 119685,
+      "word": "永辉超市午后冲击涨停",
+      "onboard_time": 1718782221,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119613,
       "num": 125743,
       "word": "RA对战LNG",
@@ -8641,6 +8697,14 @@
       "onboard_time": 1718698879,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118864,
+      "num": 343166,
+      "word": "帮老人桥上推车的姑娘找到了",
+      "onboard_time": 1718780600,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 118834,
@@ -8873,14 +8937,6 @@
       "onboard_time": 1718535499,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112184,
-      "num": 343166,
-      "word": "帮老人桥上推车的姑娘找到了",
-      "onboard_time": 1718780600,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 111538,
@@ -11299,6 +11355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19149,
+      "num": 182552,
+      "word": "民警蒋壮收到奖状后能有多开心",
+      "onboard_time": 1718780481,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18329,
       "num": 129922,
       "word": "全网都在接紫定红好运",
@@ -11504,6 +11568,14 @@
       "word": "微博电影之夜神图",
       "onboard_time": 1718627477,
       "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 8957,
+      "num": 119459,
+      "word": "黄渤评价吴磊",
+      "onboard_time": 1718782341,
+      "rank": 42,
       "category": "电影"
     },
     {
