@@ -1,0 +1,410 @@
+{
+  "runTime": 1718829323381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 97487,
+        "num": 97487,
+        "word": "玫瑰的故事最炸裂的台词出现了",
+        "onboard_time": 1718808321,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58044,
+        "num": 58044,
+        "word": "女孩秋千跌落身亡设备公司判赔107万",
+        "onboard_time": 1718809519,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8676,
+        "num": 53464,
+        "word": "中部崛起新动力",
+        "onboard_time": 1718803520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48889,
+        "num": 48889,
+        "word": "将门毒后",
+        "onboard_time": 1718808859,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37950,
+        "num": 37950,
+        "word": "德国vs匈牙利",
+        "onboard_time": 1718809641,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34271,
+        "num": 34271,
+        "word": "韩国宣布进入人口危机紧急状态",
+        "onboard_time": 1718785642,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 30974,
+        "num": 30974,
+        "word": "退钱哥吐槽欧洲杯上厕所1欧元",
+        "onboard_time": 1718798660,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30698,
+        "num": 30698,
+        "word": "住持和女主播发生关系被敲诈案宣判",
+        "onboard_time": 1718797219,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26419,
+        "num": 26419,
+        "word": "克罗地亚2比2阿尔巴尼亚",
+        "onboard_time": 1718810359,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6701,
+        "num": 26365,
+        "word": "人总要给这片土地留下点东西",
+        "onboard_time": 1718812518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71581,
+        "num": 26109,
+        "word": "逃离家暴的女网红想离婚被开价50万",
+        "onboard_time": 1718823612,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63338,
+        "num": 26003,
+        "word": "外交部回应中国游泳运动员兴奋剂阳性",
+        "onboard_time": 1718807360,
+        "rank": 11,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 54862,
+        "num": 25765,
+        "word": "一家7口套现20亿",
+        "onboard_time": 1718791759,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 25675,
+        "word": "赵露思把耳机挂腰上",
+        "onboard_time": 1718801181,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22838,
+        "num": 22838,
+        "word": "素媛案罪犯赵斗淳再出狱",
+        "onboard_time": 1718796499,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20857,
+        "num": 20857,
+        "word": "黄亦玫离婚",
+        "onboard_time": 1718795959,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19984,
+        "num": 19984,
+        "word": "陈泽直播",
+        "onboard_time": 1718808080,
+        "rank": 16,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 19807,
+        "num": 19807,
+        "word": "莫德里奇老了",
+        "onboard_time": 1718807239,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18707,
+        "num": 18707,
+        "word": "碧梨jennie合照",
+        "onboard_time": 1718825110,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18574,
+        "num": 18574,
+        "word": "克罗地亚vs阿尔巴尼亚",
+        "onboard_time": 1718806580,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22998,
+        "num": 18304,
+        "word": "小伙刮到第13张喜中100万大奖",
+        "onboard_time": 1718802620,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20393,
+        "num": 18286,
+        "word": "胖哪都不要胖肚子",
+        "onboard_time": 1718805740,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17831,
+        "num": 17831,
+        "word": "初级会计成绩",
+        "onboard_time": 1718785342,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17626,
+        "num": 17626,
+        "word": "潜意识爱上一个人的表现",
+        "onboard_time": 1718801059,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17423,
+        "num": 17423,
+        "word": "天蝎座突然冷淡的原因",
+        "onboard_time": 1718802440,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17002,
+        "num": 17002,
+        "word": "欧洲杯",
+        "onboard_time": 1718806400,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16393,
+        "num": 16393,
+        "word": "SM英国男团颜值",
+        "onboard_time": 1718799018,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15877,
+        "num": 15877,
+        "word": "苏苏结过婚",
+        "onboard_time": 1718805260,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15853,
+        "num": 15853,
+        "word": "有车有房存款30万适合回县城吗",
+        "onboard_time": 1718798418,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15436,
+        "num": 15436,
+        "word": "短发的田曦薇",
+        "onboard_time": 1718802979,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14957,
+        "num": 14957,
+        "word": "奇葩说辩手罗淼发长文力挺姜萍",
+        "onboard_time": 1718807780,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14888,
+        "num": 14888,
+        "word": "孟子义和徐志胜差点有吻戏",
+        "onboard_time": 1718812222,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14839,
+        "num": 14839,
+        "word": "央视与腾讯就巴黎奥运会达成合作",
+        "onboard_time": 1718810181,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14512,
+        "num": 14512,
+        "word": "黄亦玫的离婚诉讼书是自己写的",
+        "onboard_time": 1718804600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14486,
+        "num": 14486,
+        "word": "经纪人拍马思纯",
+        "onboard_time": 1718814197,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14408,
+        "num": 14408,
+        "word": "2024高考成绩公布时间汇总",
+        "onboard_time": 1718806040,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 14324,
+        "num": 14324,
+        "word": "庄国栋是黄亦玫的劫难",
+        "onboard_time": 1718814318,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14295,
+        "num": 14295,
+        "word": "蓝色监狱 全员白衬衫西装",
+        "onboard_time": 1718816115,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 14250,
+        "num": 14250,
+        "word": "外交部回应菲律宾侵闯仁爱礁",
+        "onboard_time": 1718824572,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13938,
+        "num": 13938,
+        "word": "余华当了高考反面教材二十年",
+        "onboard_time": 1718806580,
+        "rank": 39,
+        "category": "读书作家,教育"
+      },
+      {
+        "raw_hot": 13757,
+        "num": 13757,
+        "word": "黄亦玫面试装",
+        "onboard_time": 1718811799,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13732,
+        "num": 13732,
+        "word": "2024年新增24个本科专业",
+        "onboard_time": 1718822591,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13697,
+        "num": 13697,
+        "word": "当狗勾发现主人在拍它时",
+        "onboard_time": 1718810600,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 13582,
+        "num": 13696,
+        "word": "学新闻不吃香了吗",
+        "onboard_time": 1718827691,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13503,
+        "num": 13696,
+        "word": "霍建华出场",
+        "onboard_time": 1718803460,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13480,
+        "num": 13696,
+        "word": "黑帮的我成了高中生",
+        "onboard_time": 1718804180,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13327,
+        "num": 13694,
+        "word": "真的建议报考上海交通大学",
+        "onboard_time": 1718803220,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13292,
+        "num": 13694,
+        "word": "刘雯井柏然时尚芭莎预告",
+        "onboard_time": 1718813119,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 13203,
+        "num": 13693,
+        "word": "丞磊自曝曾中度焦虑",
+        "onboard_time": 1718828651,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12272,
+        "num": 13693,
+        "word": "这10件心脏最怕的事可能你每天在做",
+        "onboard_time": 1718808380,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委政治工作会议在延安召开#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718828363514,
+  "endTime": 1718829323381,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -56435,6 +56435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13582,
+      "num": 13944,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 13530,
       "num": 15168,
       "word": "你们尽管全力以赴后方有我们保驾护航",
@@ -56505,6 +56513,14 @@
       "onboard_time": 1717619711,
       "rank": 47,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 13203,
+      "num": 13693,
+      "word": "丞磊自曝曾中度焦虑",
+      "onboard_time": 1718828651,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 13119,
@@ -56583,14 +56599,6 @@
       "num": 17540,
       "word": "老师考前不断叮嘱操碎了心",
       "onboard_time": 1717877771,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 12273,
-      "num": 13944,
-      "word": "学新闻不吃香了吗",
-      "onboard_time": 1718827691,
       "rank": 49,
       "category": "教育"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718828363514,
+  "endTime": 1718829323381,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -475,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13582,
+      "num": 13944,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 13312,
       "num": 16945,
       "word": "straykids回归预告",
@@ -483,20 +491,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 13203,
+      "num": 13693,
+      "word": "丞磊自曝曾中度焦虑",
+      "onboard_time": 1718828651,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 13101,
       "num": 16944,
       "word": "徐明浩巴黎路透",
       "onboard_time": 1718823131,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 12273,
-      "num": 13944,
-      "word": "学新闻不吃香了吗",
-      "onboard_time": 1718827691,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 11770,
