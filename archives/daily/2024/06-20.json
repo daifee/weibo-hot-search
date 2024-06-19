@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718832868945,
+  "endTime": 1718835502611,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -259,6 +259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97533,
+      "num": 39722,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96360,
       "num": 96360,
       "word": "墨雨云间34集预告",
@@ -297,14 +305,6 @@
       "onboard_time": 1718814197,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 80724,
-      "num": 33767,
-      "word": "逃离家暴的女网红想离婚被开价50万",
-      "onboard_time": 1718823612,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80473,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65652,
+      "num": 39549,
+      "word": "腾讯视频回应行云小院拆除",
+      "onboard_time": 1718831890,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 62513,
       "num": 93896,
       "word": "被嫌弃的黄牙多数是正常牙齿颜色",
@@ -443,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22464,
+      "num": 22464,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21962,
       "num": 257394,
       "word": "人总要给这片土地留下点东西",
@@ -452,27 +468,19 @@
     },
     {
       "raw_hot": 20915,
-      "num": 20915,
+      "num": 20941,
       "word": "碧梨jennie合照",
       "onboard_time": 1718825110,
       "rank": 42,
       "category": "艺人"
     },
     {
-      "raw_hot": 18387,
-      "num": 18387,
-      "word": "腾讯视频回应行云小院拆除",
-      "onboard_time": 1718831890,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17784,
-      "num": 17784,
-      "word": "学新闻不吃香了吗",
-      "onboard_time": 1718827691,
-      "rank": 49,
-      "category": "教育"
+      "raw_hot": 18312,
+      "num": 20995,
+      "word": "外交部回应菲律宾侵闯仁爱礁",
+      "onboard_time": 1718824572,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 16966,
@@ -483,16 +491,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 14642,
-      "num": 16215,
-      "word": "外交部回应菲律宾侵闯仁爱礁",
-      "onboard_time": 1718824572,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13860,
-      "num": 13860,
+      "raw_hot": 14955,
+      "num": 20953,
       "word": "丞磊自曝曾中度焦虑",
       "onboard_time": 1718828651,
       "rank": 48,
@@ -515,7 +515,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 11770,
+      "raw_hot": 11826,
       "num": 157367,
       "word": "中部崛起新动力",
       "onboard_time": 1718803520,

@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718832868945,
+  "endTime": 1718835502611,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -10651,6 +10651,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 97533,
+      "num": 39722,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97384,
       "num": 445567,
       "word": "花钱咨询高考志愿填报靠谱吗",
@@ -11107,14 +11115,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80724,
-      "num": 33767,
-      "word": "逃离家暴的女网红想离婚被开价50万",
-      "onboard_time": 1718823612,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80113,
       "num": 214681,
       "word": "姜萍挑战自我的精神是当代青年榜样",
@@ -11417,6 +11417,14 @@
       "onboard_time": 1718683579,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 65652,
+      "num": 39549,
+      "word": "腾讯视频回应行云小院拆除",
+      "onboard_time": 1718831890,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 65507,
@@ -12643,6 +12651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22464,
+      "num": 22464,
+      "word": "学新闻不吃香了吗",
+      "onboard_time": 1718827691,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21962,
       "num": 257394,
       "word": "人总要给这片土地留下点东西",
@@ -12708,7 +12724,7 @@
     },
     {
       "raw_hot": 20915,
-      "num": 20915,
+      "num": 20941,
       "word": "碧梨jennie合照",
       "onboard_time": 1718825110,
       "rank": 42,
@@ -12763,20 +12779,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18387,
-      "num": 18387,
-      "word": "腾讯视频回应行云小院拆除",
-      "onboard_time": 1718831890,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 18329,
       "num": 129922,
       "word": "全网都在接紫定红好运",
       "onboard_time": 1718604018,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 18312,
+      "num": 20995,
+      "word": "外交部回应菲律宾侵闯仁爱礁",
+      "onboard_time": 1718824572,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18088,
@@ -12793,14 +12809,6 @@
       "onboard_time": 1718705059,
       "rank": 25,
       "category": "综艺,汽车"
-    },
-    {
-      "raw_hot": 17784,
-      "num": 17784,
-      "word": "学新闻不吃香了吗",
-      "onboard_time": 1718827691,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 17501,
@@ -12915,12 +12923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14642,
-      "num": 16215,
-      "word": "外交部回应菲律宾侵闯仁爱礁",
-      "onboard_time": 1718824572,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 14955,
+      "num": 20953,
+      "word": "丞磊自曝曾中度焦虑",
+      "onboard_time": 1718828651,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 14264,
@@ -12945,14 +12953,6 @@
       "onboard_time": 1718568550,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 13860,
-      "num": 13860,
-      "word": "丞磊自曝曾中度焦虑",
-      "onboard_time": 1718828651,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 13312,
