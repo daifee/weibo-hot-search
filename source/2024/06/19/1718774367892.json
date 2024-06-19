@@ -1,0 +1,410 @@
+{
+  "runTime": 1718774367892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1213698,
+        "num": 1213698,
+        "word": "北京警方通报夫妇开车违停挡路",
+        "onboard_time": 1718767518,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037555,
+        "num": 1037555,
+        "word": "黄霄雲冲榜歌手2024",
+        "onboard_time": 1718772562,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64629,
+        "num": 979067,
+        "word": "致敬暴雨中的守护力量",
+        "onboard_time": 1718766320,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 932356,
+        "num": 932356,
+        "word": "台湾新冠重症及死亡病例大增",
+        "onboard_time": 1718768361,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 808518,
+        "num": 808518,
+        "word": "50岁卖鱼大叔身材管理堪比明星",
+        "onboard_time": 1718770763,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765444,
+        "num": 765444,
+        "word": "歌手第七期冲榜赛海报",
+        "onboard_time": 1718770042,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 659396,
+        "num": 659396,
+        "word": "罗云熙向车主道歉",
+        "onboard_time": 1718754496,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535940,
+        "num": 535940,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 468496,
+        "num": 468496,
+        "word": "胖东来调改永辉超市重新开业",
+        "onboard_time": 1718765296,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97927,
+        "num": 464304,
+        "word": "我的毕业论文被谁偷吃了",
+        "onboard_time": 1718773222,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1103580,
+        "num": 464167,
+        "word": "陈晓方未回应婚姻破裂传闻",
+        "onboard_time": 1718773463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573593,
+        "num": 463955,
+        "word": "月经发黑有血块是怎么回事",
+        "onboard_time": 1718773463,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 463458,
+        "num": 463458,
+        "word": "协和医生说无痛分娩不影响胎儿及哺乳",
+        "onboard_time": 1718769982,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 387242,
+        "num": 387242,
+        "word": "上海地铁持刀伤人嫌犯被抓获",
+        "onboard_time": 1718762477,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33583,
+        "num": 378196,
+        "word": "快递保鲜费引争议",
+        "onboard_time": 1718773222,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376194,
+        "num": 376194,
+        "word": "霍建华以为说明书是粉丝写的信",
+        "onboard_time": 1718767698,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360681,
+        "num": 360681,
+        "word": "王嘉尔半裸出发图",
+        "onboard_time": 1718759479,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71970,
+        "num": 349693,
+        "word": "现在去澳大利亚有多值",
+        "onboard_time": 1718771783,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 339175,
+        "num": 339175,
+        "word": "田曦薇摇来了李一桐",
+        "onboard_time": 1718771184,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300977,
+        "num": 300977,
+        "word": "乌克兰打败俄罗斯才能加入北约",
+        "onboard_time": 1718757918,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 310561,
+        "num": 299874,
+        "word": "Angelababy青衫琵琶",
+        "onboard_time": 1718766739,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271490,
+        "num": 271490,
+        "word": "瓜摊老板西瓜被砸倒赔500元",
+        "onboard_time": 1718772922,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256604,
+        "num": 256604,
+        "word": "易烊千玺代言LINDBERG",
+        "onboard_time": 1718768720,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254852,
+        "num": 254852,
+        "word": "田曦薇你等等王安宇",
+        "onboard_time": 1718771962,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229101,
+        "num": 229101,
+        "word": "恋与深空",
+        "onboard_time": 1718771783,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222214,
+        "num": 222214,
+        "word": "吴谨言 不知道王星越在爽些什么",
+        "onboard_time": 1718760196,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221701,
+        "num": 221701,
+        "word": "傅家明对黄亦玫不是一见钟情",
+        "onboard_time": 1718769082,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221116,
+        "num": 221116,
+        "word": "周雨彤全身戴假发",
+        "onboard_time": 1718769383,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218207,
+        "num": 218207,
+        "word": "玫瑰离婚",
+        "onboard_time": 1718759598,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207126,
+        "num": 207126,
+        "word": "快订婚了才得知对方是二婚",
+        "onboard_time": 1718756358,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214677,
+        "num": 206948,
+        "word": "全职考公考了三年都没上岸",
+        "onboard_time": 1718774002,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 206238,
+        "num": 206238,
+        "word": "现在练车都在室内了吗",
+        "onboard_time": 1718773762,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205210,
+        "num": 205210,
+        "word": "房租不超过工资的多少合适",
+        "onboard_time": 1718773403,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204399,
+        "num": 204399,
+        "word": "晚一天送到的荔枝质量断崖下跌",
+        "onboard_time": 1718773893,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58570,
+        "num": 201924,
+        "word": "阿勒泰成辞职旅游热门目的地",
+        "onboard_time": 1718771483,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 200661,
+        "num": 200661,
+        "word": "12张思维导图理清大学专业",
+        "onboard_time": 1718755758,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187760,
+        "num": 187760,
+        "word": "王俊凯新片海报故事感",
+        "onboard_time": 1718773822,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176046,
+        "num": 176046,
+        "word": "于正说墨雨云间定角太难了",
+        "onboard_time": 1718772623,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174568,
+        "num": 174568,
+        "word": "鞠婧祎19岁至30岁颜值变化",
+        "onboard_time": 1718764937,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172596,
+        "num": 172596,
+        "word": "刘亦菲粉发挑染",
+        "onboard_time": 1718766558,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169902,
+        "num": 169902,
+        "word": "罗小黑作者回应",
+        "onboard_time": 1718767338,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164916,
+        "num": 164916,
+        "word": "合川路",
+        "onboard_time": 1718760496,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159708,
+        "num": 159708,
+        "word": "曾经的英专生现在做什么",
+        "onboard_time": 1718771422,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148264,
+        "num": 148264,
+        "word": "发现朋友圈一个很无语的bug",
+        "onboard_time": 1718756177,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147628,
+        "num": 147628,
+        "word": "谢霆锋半裸悬空打拳",
+        "onboard_time": 1718772862,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142469,
+        "num": 142469,
+        "word": "玫瑰的故事5个男主4个东北的",
+        "onboard_time": 1718765357,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139234,
+        "num": 139234,
+        "word": "墨雨云间这下是真出息了",
+        "onboard_time": 1718774242,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135089,
+        "num": 135089,
+        "word": "妈妈晒俩闺女房间差距有多大",
+        "onboard_time": 1718755817,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134264,
+        "num": 134264,
+        "word": "歌手",
+        "onboard_time": 1718766857,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102928,
+        "num": 131498,
+        "word": "流萤 不歪",
+        "onboard_time": 1718767217,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#做好防汛抗旱抢险救灾各项工作#"
+    }
+  }
+}

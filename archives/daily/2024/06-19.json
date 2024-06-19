@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718771809678,
+  "endTime": 1718774367892,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1213698,
+      "num": 1213698,
+      "word": "北京警方通报夫妇开车违停挡路",
+      "onboard_time": 1718767518,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1207866,
       "num": 489805,
       "word": "教育部门回应姜萍能不能考浙大",
       "onboard_time": 1718763978,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1103580,
+      "num": 464167,
+      "word": "陈晓方未回应婚姻破裂传闻",
+      "onboard_time": 1718773463,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1047398,
@@ -83,8 +99,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1037555,
+      "num": 1037555,
+      "word": "黄霄雲冲榜歌手2024",
+      "onboard_time": 1718772562,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 947902,
-      "num": 868722,
+      "num": 932356,
       "word": "台湾新冠重症及死亡病例大增",
       "onboard_time": 1718768361,
       "rank": 3,
@@ -99,20 +123,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 876162,
-      "num": 876162,
-      "word": "北京警方通报夫妇开车违停挡路",
-      "onboard_time": 1718767518,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 872812,
       "num": 872812,
       "word": "霍建华一出场初恋和前夫弱爆了",
       "onboard_time": 1718718259,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 808518,
+      "num": 808518,
+      "word": "50岁卖鱼大叔身材管理堪比明星",
+      "onboard_time": 1718770763,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 777556,
@@ -131,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 765444,
+      "num": 765444,
+      "word": "歌手第七期冲榜赛海报",
+      "onboard_time": 1718770042,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 744402,
       "num": 744402,
       "word": "发现朋友圈一个很无语的bug",
       "onboard_time": 1718756177,
       "rank": 5,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 690181,
-      "num": 690181,
-      "word": "歌手第七期冲榜赛海报",
-      "onboard_time": 1718770042,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 628180,
@@ -177,6 +201,14 @@
       "onboard_time": 1718718198,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573593,
+      "num": 463955,
+      "word": "月经发黑有血块是怎么回事",
+      "onboard_time": 1718773463,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 561252,
@@ -219,14 +251,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 499364,
-      "num": 499364,
-      "word": "50岁卖鱼大叔身材管理堪比明星",
-      "onboard_time": 1718770763,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 497061,
       "num": 497061,
       "word": "吴谨言 不知道王星越在爽些什么",
@@ -249,6 +273,14 @@
       "onboard_time": 1718755758,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 463458,
+      "num": 463458,
+      "word": "协和医生说无痛分娩不影响胎儿及哺乳",
+      "onboard_time": 1718769982,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 461940,
@@ -515,6 +547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 271490,
+      "num": 271490,
+      "word": "瓜摊老板西瓜被砸倒赔500元",
+      "onboard_time": 1718772922,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261735,
       "num": 257970,
       "word": "霍建华爱哭而心如可以止水",
@@ -523,12 +563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257064,
-      "num": 257064,
-      "word": "协和医生说无痛分娩不影响胎儿及哺乳",
-      "onboard_time": 1718769982,
-      "rank": 29,
-      "category": "健康医疗"
+      "raw_hot": 254852,
+      "num": 254852,
+      "word": "田曦薇你等等王安宇",
+      "onboard_time": 1718771962,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 248147,
@@ -571,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229101,
+      "num": 229101,
+      "word": "恋与深空",
+      "onboard_time": 1718771783,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 227912,
       "num": 227912,
       "word": "Letme谈Uzi停播",
@@ -593,6 +641,14 @@
       "onboard_time": 1718758219,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214677,
+      "num": 206948,
+      "word": "全职考公考了三年都没上岸",
+      "onboard_time": 1718774002,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 210744,
@@ -619,6 +675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206238,
+      "num": 206238,
+      "word": "现在练车都在室内了吗",
+      "onboard_time": 1718773762,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205821,
       "num": 205821,
       "word": "脸上这3个变化说明脸开始垮了",
@@ -635,12 +699,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 205210,
+      "num": 205210,
+      "word": "房租不超过工资的多少合适",
+      "onboard_time": 1718773403,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204801,
       "num": 204801,
       "word": "官方通报上海地铁持刀伤人案件",
       "onboard_time": 1718764398,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 204399,
+      "num": 204399,
+      "word": "晚一天送到的荔枝质量断崖下跌",
+      "onboard_time": 1718773893,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204390,
@@ -715,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 187760,
+      "num": 187760,
+      "word": "王俊凯新片海报故事感",
+      "onboard_time": 1718773822,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187221,
       "num": 187221,
       "word": "魔方新世界",
@@ -777,6 +865,14 @@
       "onboard_time": 1718767759,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 176046,
+      "num": 176046,
+      "word": "于正说墨雨云间定角太难了",
+      "onboard_time": 1718772623,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 175535,
@@ -867,20 +963,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 149964,
-      "num": 149964,
-      "word": "恋与深空",
-      "onboard_time": 1718771783,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149558,
       "num": 149558,
       "word": "大笨狗 开始今天的伟大冒险吧",
       "onboard_time": 1718769683,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 147628,
+      "num": 147628,
+      "word": "谢霆锋半裸悬空打拳",
+      "onboard_time": 1718772862,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 146346,
@@ -937,6 +1033,14 @@
       "onboard_time": 1718734633,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139234,
+      "num": 139234,
+      "word": "墨雨云间这下是真出息了",
+      "onboard_time": 1718774242,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 138659,
@@ -1107,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97927,
+      "num": 464304,
+      "word": "我的毕业论文被谁偷吃了",
+      "onboard_time": 1718773222,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 97384,
       "num": 445567,
       "word": "花钱咨询高考志愿填报靠谱吗",
@@ -1267,6 +1379,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 71970,
+      "num": 349693,
+      "word": "现在去澳大利亚有多值",
+      "onboard_time": 1718771783,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 71636,
       "num": 253012,
       "word": "萨顶顶回应登上摇猫榜第一名",
@@ -1345,6 +1465,14 @@
       "onboard_time": 1718723600,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 58570,
+      "num": 201924,
+      "word": "阿勒泰成辞职旅游热门目的地",
+      "onboard_time": 1718771483,
+      "rank": 37,
+      "category": "旅游"
     },
     {
       "raw_hot": 57397,
@@ -1427,14 +1555,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 42521,
-      "num": 193426,
-      "word": "阿勒泰成辞职旅游热门目的地",
-      "onboard_time": 1718771483,
-      "rank": 37,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 41225,
       "num": 475043,
       "word": "老人路边晕倒路过白衣小伙暖心搀扶",
@@ -1473,6 +1593,14 @@
       "onboard_time": 1718696418,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33583,
+      "num": 378196,
+      "word": "快递保鲜费引争议",
+      "onboard_time": 1718773222,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32803,
@@ -1545,14 +1673,6 @@
       "onboard_time": 1718726717,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13698,
-      "num": 129459,
-      "word": "现在去澳大利亚有多值",
-      "onboard_time": 1718771783,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 10768,
