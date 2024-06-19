@@ -1,0 +1,410 @@
+{
+  "runTime": 1718781481520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1725706,
+        "num": 1725706,
+        "word": "张远 歌手",
+        "onboard_time": 1718778260,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476721,
+        "num": 476721,
+        "word": "50岁卖鱼大叔身材管理堪比明星",
+        "onboard_time": 1718770763,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55480,
+        "num": 430487,
+        "word": "致敬暴雨中的守护力量",
+        "onboard_time": 1718766320,
+        "rank": 2,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 966308,
+        "num": 430405,
+        "word": "性侵中国女游客的韩酒店员工已返岗",
+        "onboard_time": 1718775560,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879557,
+        "num": 430371,
+        "word": "鞠婧祎小号发博",
+        "onboard_time": 1718780541,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411943,
+        "num": 411943,
+        "word": "桂林",
+        "onboard_time": 1718778020,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769072,
+        "num": 403048,
+        "word": "林更新这句我骂不动他了",
+        "onboard_time": 1718776101,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359411,
+        "num": 359411,
+        "word": "颜心记",
+        "onboard_time": 1718779101,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 840230,
+        "num": 359353,
+        "word": "鞠婧祎工作室被改密码",
+        "onboard_time": 1718779161,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112184,
+        "num": 343166,
+        "word": "帮老人桥上推车的姑娘找到了",
+        "onboard_time": 1718780600,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 760780,
+        "num": 342152,
+        "word": "陈晓方未回应婚姻破裂传闻",
+        "onboard_time": 1718773463,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 337808,
+        "num": 337808,
+        "word": "台湾新冠重症及死亡病例大增",
+        "onboard_time": 1718768361,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278512,
+        "num": 321915,
+        "word": "如何拥有一个没蚊子的夜晚",
+        "onboard_time": 1718776820,
+        "rank": 12,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 319165,
+        "num": 319165,
+        "word": "王鹤棣用何炅洗发水卸妆",
+        "onboard_time": 1718778800,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302771,
+        "num": 302771,
+        "word": "呼和浩特一村5人遇害",
+        "onboard_time": 1718775021,
+        "rank": 14,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 269854,
+        "num": 269854,
+        "word": "鞠婧祎office发文",
+        "onboard_time": 1718777779,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266064,
+        "num": 266064,
+        "word": "罗小黑",
+        "onboard_time": 1718778079,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 231524,
+        "num": 231524,
+        "word": "胖东来调改永辉超市重新开业",
+        "onboard_time": 1718765296,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213775,
+        "num": 213775,
+        "word": "月经发黑有血块是怎么回事",
+        "onboard_time": 1718773463,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 170885,
+        "num": 211185,
+        "word": "现在练车都在室内了吗",
+        "onboard_time": 1718773762,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 448821,
+        "num": 208495,
+        "word": "感染了HPV就一定是私生活混乱吗",
+        "onboard_time": 1718777120,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 408992,
+        "num": 206637,
+        "word": "一旦离职这辈子你可能就定型了",
+        "onboard_time": 1718775981,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 269165,
+        "num": 199826,
+        "word": "何炅魏大勋耳背医师好入戏",
+        "onboard_time": 1718779400,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265038,
+        "num": 196694,
+        "word": "霍建华一出场初恋和前夫弱爆了",
+        "onboard_time": 1718718259,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241690,
+        "num": 193355,
+        "word": "墨雨云间这下是真出息了",
+        "onboard_time": 1718774242,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238153,
+        "num": 189004,
+        "word": "全职考公考了三年都没上岸",
+        "onboard_time": 1718774002,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236206,
+        "num": 186522,
+        "word": "原来长胖和减肥都是有滞后性的",
+        "onboard_time": 1718775921,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 185371,
+        "num": 185371,
+        "word": "韩国男在巴士性骚扰熟睡女子",
+        "onboard_time": 1718780840,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179607,
+        "num": 179607,
+        "word": "数学专业真是万金油吗",
+        "onboard_time": 1718780181,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174748,
+        "num": 174748,
+        "word": "原来练背真的能防脸垮",
+        "onboard_time": 1718777600,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 171913,
+        "num": 171913,
+        "word": "房租不超过工资的多少合适",
+        "onboard_time": 1718773403,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165509,
+        "num": 165509,
+        "word": "霍建华因被叫吃货而哭",
+        "onboard_time": 1718777060,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149272,
+        "num": 149272,
+        "word": "毕业仪式感是微博给的",
+        "onboard_time": 1718781261,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144970,
+        "num": 144970,
+        "word": "爱出汗和出汗少的人谁更健康",
+        "onboard_time": 1718775981,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142788,
+        "num": 142788,
+        "word": "罗云熙向车主道歉",
+        "onboard_time": 1718754496,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136207,
+        "num": 136207,
+        "word": "歌手",
+        "onboard_time": 1718766857,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133416,
+        "num": 133416,
+        "word": "刘亦菲 她力量赛道",
+        "onboard_time": 1718775619,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132249,
+        "num": 132249,
+        "word": "这种饮料喝着不甜但升糖能力超高",
+        "onboard_time": 1718776820,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 124316,
+        "num": 124316,
+        "word": "黄霄雲冲榜歌手2024",
+        "onboard_time": 1718772562,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122529,
+        "num": 122529,
+        "word": "28省份公布高考出分时间",
+        "onboard_time": 1718777481,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119410,
+        "num": 119410,
+        "word": "歌手第七期冲榜赛海报",
+        "onboard_time": 1718770042,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114024,
+        "num": 114024,
+        "word": "阿Sa珍珠妆造",
+        "onboard_time": 1718780240,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105895,
+        "num": 105895,
+        "word": "Angelababy青衫琵琶",
+        "onboard_time": 1718766739,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103897,
+        "num": 103897,
+        "word": "王嘉尔半裸出发图",
+        "onboard_time": 1718759479,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103298,
+        "num": 103298,
+        "word": "彭冠英片场花絮嘴角比AK难压",
+        "onboard_time": 1718780780,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102143,
+        "num": 102143,
+        "word": "周雨彤全身戴假发",
+        "onboard_time": 1718769383,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96638,
+        "num": 96638,
+        "word": "喜欢你我也是",
+        "onboard_time": 1718780121,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96355,
+        "num": 96355,
+        "word": "胡歌吴磊同一航班回国",
+        "onboard_time": 1718775440,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91300,
+        "num": 91300,
+        "word": "英国国宝级演员摔下舞台",
+        "onboard_time": 1718777241,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91023,
+        "num": 91023,
+        "word": "北京警方通报夫妇开车违停挡路",
+        "onboard_time": 1718767518,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在青海考察调研#"
+    }
+  }
+}

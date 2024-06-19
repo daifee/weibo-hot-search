@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718779160531,
+  "endTime": 1718781481520,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -81,6 +81,14 @@
       "onboard_time": 1718592137,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1725706,
+      "num": 1725706,
+      "word": "张远 歌手",
+      "onboard_time": 1718778260,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 1716922,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 1426896,
-      "num": 415281,
+      "num": 430405,
       "word": "性侵中国女游客的韩酒店员工已返岗",
       "onboard_time": 1718775560,
       "rank": 3,
@@ -763,14 +771,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 925756,
-      "num": 409532,
-      "word": "张远 歌手",
-      "onboard_time": 1718778260,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 924387,
       "num": 924387,
       "word": "瑞幸回应喝西梅美式腹泻",
@@ -851,6 +851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 879557,
+      "num": 430371,
+      "word": "鞠婧祎小号发博",
+      "onboard_time": 1718780541,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 860481,
       "num": 860481,
       "word": "韩国年轻人开始流行不看脸约会",
@@ -905,6 +913,14 @@
       "onboard_time": 1718516177,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 840230,
+      "num": 359353,
+      "word": "鞠婧祎工作室被改密码",
+      "onboard_time": 1718779161,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 830697,
@@ -2243,6 +2259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 448821,
+      "num": 250786,
+      "word": "感染了HPV就一定是私生活混乱吗",
+      "onboard_time": 1718777120,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 446805,
       "num": 374762,
       "word": "墨雨云间追剧日历更新",
@@ -2513,6 +2537,14 @@
       "onboard_time": 1718723240,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411943,
+      "num": 411943,
+      "word": "桂林",
+      "onboard_time": 1718778020,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 409229,
@@ -2932,7 +2964,7 @@
     },
     {
       "raw_hot": 360056,
-      "num": 260452,
+      "num": 302771,
       "word": "呼和浩特一村5人遇害",
       "onboard_time": 1718775021,
       "rank": 26,
@@ -2945,6 +2977,14 @@
       "onboard_time": 1718634139,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 359411,
+      "num": 359411,
+      "word": "颜心记",
+      "onboard_time": 1718779101,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 359338,
@@ -3371,6 +3411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 319165,
+      "num": 319165,
+      "word": "王鹤棣用何炅洗发水卸妆",
+      "onboard_time": 1718778800,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318651,
       "num": 237660,
       "word": "和大学室友确定关系后买房定居了",
@@ -3396,7 +3444,7 @@
     },
     {
       "raw_hot": 314121,
-      "num": 258091,
+      "num": 269854,
       "word": "鞠婧祎office发文",
       "onboard_time": 1718777779,
       "rank": 17,
@@ -3420,19 +3468,11 @@
     },
     {
       "raw_hot": 311239,
-      "num": 254487,
+      "num": 266064,
       "word": "罗小黑",
       "onboard_time": 1718778079,
       "rank": 19,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 310149,
-      "num": 250786,
-      "word": "感染了HPV就一定是私生活混乱吗",
-      "onboard_time": 1718777120,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 309613,
@@ -3707,14 +3747,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 285786,
-      "num": 254148,
-      "word": "王鹤棣用何炅洗发水卸妆",
-      "onboard_time": 1718778800,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 284574,
       "num": 284574,
       "word": "发现了掉秤最快的方法",
@@ -3809,6 +3841,14 @@
       "onboard_time": 1718512637,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278512,
+      "num": 321915,
+      "word": "如何拥有一个没蚊子的夜晚",
+      "onboard_time": 1718776820,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 277618,
@@ -3945,6 +3985,14 @@
       "onboard_time": 1718513357,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269165,
+      "num": 199826,
+      "word": "何炅魏大勋耳背医师好入戏",
+      "onboard_time": 1718779400,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 268872,
@@ -4105,14 +4153,6 @@
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
-    },
-    {
-      "raw_hot": 253322,
-      "num": 253322,
-      "word": "桂林",
-      "onboard_time": 1718778020,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250991,
@@ -4283,6 +4323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236206,
+      "num": 224800,
+      "word": "原来长胖和减肥都是有滞后性的",
+      "onboard_time": 1718775921,
+      "rank": 26,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 235327,
       "num": 235327,
       "word": "赵丽颖工作室预告图",
@@ -4449,14 +4497,6 @@
       "onboard_time": 1718600837,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224800,
-      "num": 224800,
-      "word": "原来长胖和减肥都是有滞后性的",
-      "onboard_time": 1718775921,
-      "rank": 26,
-      "category": "运动健身"
     },
     {
       "raw_hot": 224655,
@@ -5747,6 +5787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185371,
+      "num": 185371,
+      "word": "韩国男在巴士性骚扰熟睡女子",
+      "onboard_time": 1718780840,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185349,
       "num": 185349,
       "word": "黄文秀牺牲前给家人发的信息",
@@ -5785,14 +5833,6 @@
       "onboard_time": 1718622617,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183925,
-      "num": 261773,
-      "word": "如何拥有一个没蚊子的夜晚",
-      "onboard_time": 1718776820,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 183744,
@@ -5921,6 +5961,14 @@
       "onboard_time": 1718591836,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179607,
+      "num": 179607,
+      "word": "数学专业真是万金油吗",
+      "onboard_time": 1718780181,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 179455,
@@ -6153,6 +6201,14 @@
       "onboard_time": 1718716278,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174748,
+      "num": 174748,
+      "word": "原来练背真的能防脸垮",
+      "onboard_time": 1718777600,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 174227,
@@ -6577,14 +6633,6 @@
       "onboard_time": 1718710697,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 161845,
-      "num": 161845,
-      "word": "原来练背真的能防脸垮",
-      "onboard_time": 1718777600,
-      "rank": 36,
-      "category": "运动健身"
     },
     {
       "raw_hot": 161690,
@@ -7137,6 +7185,14 @@
       "onboard_time": 1718769683,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 149272,
+      "num": 149272,
+      "word": "毕业仪式感是微博给的",
+      "onboard_time": 1718781261,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 149233,
@@ -7795,6 +7851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132249,
+      "num": 132249,
+      "word": "这种饮料喝着不甜但升糖能力超高",
+      "onboard_time": 1718776820,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132094,
       "num": 132094,
       "word": "张若昀许凯檀健次偷感好重",
@@ -8113,14 +8177,6 @@
       "onboard_time": 1718463139,
       "rank": 30,
       "category": "网红,游戏"
-    },
-    {
-      "raw_hot": 127857,
-      "num": 127857,
-      "word": "这种饮料喝着不甜但升糖能力超高",
-      "onboard_time": 1718776820,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 127851,
@@ -8451,6 +8507,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122529,
+      "num": 122529,
+      "word": "28省份公布高考出分时间",
+      "onboard_time": 1718777481,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122515,
       "num": 122515,
       "word": "菲船只故意危险接近中方船只致擦碰",
@@ -8497,14 +8561,6 @@
       "onboard_time": 1718523317,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 120685,
-      "num": 120685,
-      "word": "28省份公布高考出分时间",
-      "onboard_time": 1718777481,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 120500,
@@ -8763,6 +8819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114024,
+      "num": 114024,
+      "word": "阿Sa珍珠妆造",
+      "onboard_time": 1718780240,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113988,
       "num": 113988,
       "word": "杨幂龚俊番外吻戏",
@@ -8809,6 +8873,14 @@
       "onboard_time": 1718535499,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112184,
+      "num": 343166,
+      "word": "帮老人桥上推车的姑娘找到了",
+      "onboard_time": 1718780600,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 111538,
@@ -8961,14 +9033,6 @@
       "onboard_time": 1718550321,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108142,
-      "num": 108142,
-      "word": "颜心记",
-      "onboard_time": 1718779101,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 108084,
@@ -9153,6 +9217,14 @@
       "onboard_time": 1718621238,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103298,
+      "num": 103298,
+      "word": "彭冠英片场花絮嘴角比AK难压",
+      "onboard_time": 1718780780,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 102932,
@@ -9363,6 +9435,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 96638,
+      "num": 96638,
+      "word": "喜欢你我也是",
+      "onboard_time": 1718780121,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96621,
       "num": 96621,
       "word": "胡先煦 肤白貌美还有大长腿",
@@ -9512,6 +9592,14 @@
       "word": "温州乳胶床垫造假企业被立案调查",
       "onboard_time": 1718677458,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91300,
+      "num": 91300,
+      "word": "英国国宝级演员摔下舞台",
+      "onboard_time": 1718777241,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -11503,6 +11591,9 @@
     },
     {
       "word": "#做好防汛抗旱工作关键在于实#"
+    },
+    {
+      "word": "#习近平在青海考察调研#"
     }
   ]
 }
