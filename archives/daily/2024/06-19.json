@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718789039679,
+  "endTime": 1718789769219,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1992563,
-      "num": 1992563,
+      "raw_hot": 2279154,
+      "num": 2279154,
       "word": "韩国宣布进入人口危机紧急状态",
       "onboard_time": 1718785642,
       "rank": 18,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1552761,
-      "num": 451522,
+      "num": 637332,
       "word": "鞠婧祎小号发博",
       "onboard_time": 1718780541,
       "rank": 4,
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399196,
+      "num": 296486,
+      "word": "Jennie第一条TikTok",
+      "onboard_time": 1718789660,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398647,
       "num": 398647,
       "word": "鞠婧祎office",
@@ -595,6 +603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344150,
+      "num": 309982,
+      "word": "中国海警首次登检菲律宾运补船只",
+      "onboard_time": 1718787501,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 343865,
       "num": 343865,
       "word": "毕业论文查重机制不能误伤认真的学生",
@@ -675,14 +691,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 309982,
-      "num": 309982,
-      "word": "中国海警首次登检菲律宾运补船只",
-      "onboard_time": 1718787501,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 309571,
       "num": 309571,
       "word": "高铁晚点 补偿",
@@ -747,6 +755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 285818,
+      "num": 224032,
+      "word": "奔跑吧",
+      "onboard_time": 1718787260,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283232,
       "num": 283232,
       "word": "玫瑰的故事5个男主4个东北的",
@@ -787,20 +803,20 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 278230,
+      "num": 198857,
+      "word": "男朋友拿筋膜枪洗杨梅",
+      "onboard_time": 1718788700,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274559,
       "num": 209973,
       "word": "霍建华因被叫吃货而哭",
       "onboard_time": 1718777060,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273151,
-      "num": 224032,
-      "word": "奔跑吧",
-      "onboard_time": 1718787260,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 271490,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1718753595,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201361,
+      "num": 201361,
+      "word": "TCG战胜TTG",
+      "onboard_time": 1718789240,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 197979,
@@ -1411,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153570,
+      "num": 153570,
+      "word": "今年报考金融专业算不算抄底",
+      "onboard_time": 1718787201,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153388,
       "num": 153388,
       "word": "胡彦斌现场观战C罗",
@@ -1457,6 +1489,14 @@
       "onboard_time": 1718769683,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 148817,
+      "num": 148817,
+      "word": "王者S36新赛季元流之子",
+      "onboard_time": 1718789419,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 148058,
@@ -1507,14 +1547,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 142633,
-      "num": 142633,
-      "word": "今年报考金融专业算不算抄底",
-      "onboard_time": 1718787201,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 142183,
       "num": 142183,
       "word": "余琦就不当言行致歉",
@@ -1561,14 +1593,6 @@
       "onboard_time": 1718734633,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139461,
-      "num": 139461,
-      "word": "男朋友拿筋膜枪洗杨梅",
-      "onboard_time": 1718788700,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 138659,
@@ -2379,6 +2403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19251,
+      "num": 148887,
+      "word": "黄明昊想演龚俊秦霄贤的爸爸",
+      "onboard_time": 1718786301,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19149,
       "num": 182552,
       "word": "民警蒋壮收到奖状后能有多开心",
@@ -2401,14 +2433,6 @@
       "onboard_time": 1718749091,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 16258,
-      "num": 142857,
-      "word": "黄明昊想演龚俊秦霄贤的爸爸",
-      "onboard_time": 1718786301,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 15134,

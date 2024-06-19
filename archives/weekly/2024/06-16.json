@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718789039679,
+  "endTime": 1718789769219,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2279154,
+      "num": 2279154,
+      "word": "韩国宣布进入人口危机紧急状态",
+      "onboard_time": 1718785642,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 2128409,
       "num": 1091314,
       "word": "丈夫出轨要妻子净身出户后被杀",
@@ -57,14 +65,6 @@
       "onboard_time": 1718677036,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1992563,
-      "num": 1992563,
-      "word": "韩国宣布进入人口危机紧急状态",
-      "onboard_time": 1718785642,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 1931764,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1552761,
-      "num": 451522,
+      "num": 637332,
       "word": "鞠婧祎小号发博",
       "onboard_time": 1718780541,
       "rank": 4,
@@ -2691,6 +2691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399196,
+      "num": 296486,
+      "word": "Jennie第一条TikTok",
+      "onboard_time": 1718789660,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399071,
       "num": 250100,
       "word": "林允拒绝网红妆",
@@ -3219,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344150,
+      "num": 309982,
+      "word": "中国海警首次登检菲律宾运补船只",
+      "onboard_time": 1718787501,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 343910,
       "num": 343910,
       "word": "花城 血雨探花",
@@ -3563,14 +3579,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 309982,
-      "num": 309982,
-      "word": "中国海警首次登检菲律宾运补船只",
-      "onboard_time": 1718787501,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 309613,
       "num": 309613,
       "word": "辛芷蕾遇到邓超也变i",
@@ -3843,6 +3851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285818,
+      "num": 224032,
+      "word": "奔跑吧",
+      "onboard_time": 1718787260,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284574,
       "num": 284574,
       "word": "发现了掉秤最快的方法",
@@ -3947,6 +3963,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 278230,
+      "num": 198857,
+      "word": "男朋友拿筋膜枪洗杨梅",
+      "onboard_time": 1718788700,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277618,
       "num": 277618,
       "word": "恋与制作人",
@@ -4017,14 +4041,6 @@
       "onboard_time": 1718777060,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273151,
-      "num": 224032,
-      "word": "奔跑吧",
-      "onboard_time": 1718787260,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 272935,
@@ -5289,6 +5305,14 @@
       "onboard_time": 1718753595,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 201361,
+      "num": 201361,
+      "word": "TCG战胜TTG",
+      "onboard_time": 1718789240,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 200938,
@@ -7179,6 +7203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153570,
+      "num": 153570,
+      "word": "今年报考金融专业算不算抄底",
+      "onboard_time": 1718787201,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153388,
       "num": 153388,
       "word": "胡彦斌现场观战C罗",
@@ -7435,6 +7467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148817,
+      "num": 148817,
+      "word": "王者S36新赛季元流之子",
+      "onboard_time": 1718789419,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148292,
       "num": 148292,
       "word": "带男朋友回家后发现家人很冷漠",
@@ -7651,14 +7691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142633,
-      "num": 142633,
-      "word": "今年报考金融专业算不算抄底",
-      "onboard_time": 1718787201,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 142492,
       "num": 142492,
       "word": "十二星座里谁最抠门",
@@ -7809,14 +7841,6 @@
       "onboard_time": 1718544318,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139461,
-      "num": 139461,
-      "word": "男朋友拿筋膜枪洗杨梅",
-      "onboard_time": 1718788700,
-      "rank": 39,
-      "category": "幽默"
     },
     {
       "raw_hot": 139376,
@@ -11659,6 +11683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19251,
+      "num": 148887,
+      "word": "黄明昊想演龚俊秦霄贤的爸爸",
+      "onboard_time": 1718786301,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 19243,
       "num": 167349,
       "word": "豫见郑州文旅新篇章",
@@ -11753,14 +11785,6 @@
       "onboard_time": 1718564891,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 16258,
-      "num": 142857,
-      "word": "黄明昊想演龚俊秦霄贤的爸爸",
-      "onboard_time": 1718786301,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 15387,

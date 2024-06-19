@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/19 17:23:59
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/19 17:36:09
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E4%BA%BA%E5%8F%A3%E5%8D%B1%E6%9C%BA%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23" target="weibo">
+韩国宣布进入人口危机紧急状态（热度：2279154）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%B8%93%E5%A5%B3%E7%94%9F%E7%88%86%E5%86%B7%E6%8B%BF%E4%B8%8B%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%85%A8%E7%90%8312%E5%90%8D%23" target="weibo">
 中专女生爆冷拿下数学竞赛全球12名（热度：2271702）
 </a>
@@ -437,12 +443,6 @@ fine乐团能不能留下（热度：2043691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%86%B3%E5%AE%9A%E7%A6%81%E6%AD%A2%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%AC%E6%B0%91%E5%85%A5%E5%A2%83%23" target="weibo">
 马尔代夫决定禁止以色列公民入境（热度：2002287）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%BF%9B%E5%85%A5%E4%BA%BA%E5%8F%A3%E5%8D%B1%E6%9C%BA%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23" target="weibo">
-韩国宣布进入人口危机紧急状态（热度：1992563）
 </a>
 </li>
 
