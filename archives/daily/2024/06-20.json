@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718824573601,
+  "endTime": 1718825687330,
   "band_list": [
     {
       "raw_hot": 1410929,
@@ -419,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43340,
+      "num": 33062,
+      "word": "逃离家暴的女网红想离婚被开价50万",
+      "onboard_time": 1718823612,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25549,
       "num": 216985,
       "word": "一碗粉一张饼暖心又暖胃",
       "onboard_time": 1718810660,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 24218,
-      "num": 24218,
-      "word": "逃离家暴的女网红想离婚被开价50万",
-      "onboard_time": 1718823612,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23751,
@@ -457,6 +457,22 @@
       "onboard_time": 1718822591,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 15568,
+      "num": 16260,
+      "word": "碧梨jennie合照",
+      "onboard_time": 1718825110,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14154,
+      "num": 16215,
+      "word": "外交部回应菲律宾侵闯仁爱礁",
+      "onboard_time": 1718824572,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13312,
