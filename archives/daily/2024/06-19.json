@@ -1,6 +1,6 @@
 {
   "startTime": 1718727885640,
-  "endTime": 1718774367892,
+  "endTime": 1718775486247,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -17,6 +17,14 @@
       "onboard_time": 1718762598,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1903200,
+      "num": 464167,
+      "word": "陈晓方未回应婚姻破裂传闻",
+      "onboard_time": 1718773463,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1716922,
@@ -81,14 +89,6 @@
       "onboard_time": 1718763978,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1103580,
-      "num": 464167,
-      "word": "陈晓方未回应婚姻破裂传闻",
-      "onboard_time": 1718773463,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1047398,
@@ -171,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 722706,
+      "num": 463955,
+      "word": "月经发黑有血块是怎么回事",
+      "onboard_time": 1718773463,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 628180,
       "num": 628180,
       "word": "胖东来调改永辉超市重新开业",
@@ -201,14 +209,6 @@
       "onboard_time": 1718718198,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 573593,
-      "num": 463955,
-      "word": "月经发黑有血块是怎么回事",
-      "onboard_time": 1718773463,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 561252,
@@ -459,6 +459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328687,
+      "num": 328687,
+      "word": "墨雨云间这下是真出息了",
+      "onboard_time": 1718774242,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 324565,
+      "num": 324565,
+      "word": "晚一天送到的荔枝质量断崖下跌",
+      "onboard_time": 1718773893,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 309571,
       "num": 309571,
       "word": "高铁晚点 补偿",
@@ -473,6 +489,14 @@
       "onboard_time": 1718769383,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308791,
+      "num": 284888,
+      "word": "全职考公考了三年都没上岸",
+      "onboard_time": 1718774002,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 302524,
@@ -563,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 259347,
+      "num": 259347,
+      "word": "房租不超过工资的多少合适",
+      "onboard_time": 1718773403,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 254852,
       "num": 254852,
       "word": "田曦薇你等等王安宇",
@@ -603,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232407,
+      "num": 232407,
+      "word": "现在练车都在室内了吗",
+      "onboard_time": 1718773762,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232249,
       "num": 232249,
       "word": "张馨予回应去巴黎找果冻",
@@ -627,6 +667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220916,
+      "num": 220916,
+      "word": "呼和浩特一村5人遇害",
+      "onboard_time": 1718775021,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 219307,
       "num": 219307,
       "word": "C罗比赛",
@@ -641,14 +689,6 @@
       "onboard_time": 1718758219,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214677,
-      "num": 206948,
-      "word": "全职考公考了三年都没上岸",
-      "onboard_time": 1718774002,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 210744,
@@ -675,14 +715,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 206238,
-      "num": 206238,
-      "word": "现在练车都在室内了吗",
-      "onboard_time": 1718773762,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 205821,
       "num": 205821,
       "word": "脸上这3个变化说明脸开始垮了",
@@ -699,14 +731,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 205210,
-      "num": 205210,
-      "word": "房租不超过工资的多少合适",
-      "onboard_time": 1718773403,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204801,
       "num": 204801,
       "word": "官方通报上海地铁持刀伤人案件",
@@ -715,20 +739,28 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 204399,
-      "num": 204399,
-      "word": "晚一天送到的荔枝质量断崖下跌",
-      "onboard_time": 1718773893,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 204390,
       "num": 204390,
       "word": "忙忙碌碌寻宝藏",
       "onboard_time": 1718771242,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203346,
+      "num": 200227,
+      "word": "你可能不知道的法律小常识",
+      "onboard_time": 1718774480,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 202158,
+      "num": 202158,
+      "word": "佟大为谈刘亦菲演第一场亲热戏",
+      "onboard_time": 1718774780,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 201573,
@@ -867,6 +899,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177397,
+      "num": 177397,
+      "word": "歌手2024",
+      "onboard_time": 1718774721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176046,
       "num": 176046,
       "word": "于正说墨雨云间定角太难了",
@@ -931,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156535,
+      "num": 464304,
+      "word": "我的毕业论文被谁偷吃了",
+      "onboard_time": 1718773222,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 156311,
       "num": 156311,
       "word": "翟潇闻出发录制中餐厅",
@@ -977,6 +1025,14 @@
       "onboard_time": 1718772862,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146793,
+      "num": 146793,
+      "word": "欧洲杯",
+      "onboard_time": 1718630237,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 146346,
@@ -1035,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 139234,
-      "num": 139234,
-      "word": "墨雨云间这下是真出息了",
-      "onboard_time": 1718774242,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138659,
       "num": 138659,
       "word": "玫瑰的故事收视率新高",
@@ -1067,12 +1115,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 135040,
+      "num": 135040,
+      "word": "苏打绿 抢票",
+      "onboard_time": 1718774961,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130725,
       "num": 130725,
       "word": "韩国再发一起交往杀人案件",
       "onboard_time": 1718768660,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127699,
+      "num": 127699,
+      "word": "胡歌吴磊同一航班回国",
+      "onboard_time": 1718775440,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 127242,
@@ -1211,14 +1275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 97927,
-      "num": 464304,
-      "word": "我的毕业论文被谁偷吃了",
-      "onboard_time": 1718773222,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 97384,
       "num": 445567,
       "word": "花钱咨询高考志愿填报靠谱吗",
@@ -1257,6 +1313,14 @@
       "onboard_time": 1718766320,
       "rank": 2,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 92256,
+      "num": 349693,
+      "word": "现在去澳大利亚有多值",
+      "onboard_time": 1718771783,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 91871,
@@ -1377,14 +1441,6 @@
       "onboard_time": 1718723480,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 71970,
-      "num": 349693,
-      "word": "现在去澳大利亚有多值",
-      "onboard_time": 1718771783,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 71636,
@@ -1539,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46792,
+      "num": 395953,
+      "word": "2024毕业生工作指南",
+      "onboard_time": 1718772442,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 45597,
       "num": 119115,
       "word": "斯坦福博士考乡镇公务员是大材小用吗",
@@ -1579,6 +1643,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 36137,
+      "num": 378196,
+      "word": "快递保鲜费引争议",
+      "onboard_time": 1718773222,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35781,
+      "num": 148976,
+      "word": "黄子韬奥斯卡",
+      "onboard_time": 1718775081,
+      "rank": 40,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 35097,
       "num": 68051,
       "word": "菲称对非法坐滩军舰补给失败",
@@ -1593,14 +1673,6 @@
       "onboard_time": 1718696418,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33583,
-      "num": 378196,
-      "word": "快递保鲜费引争议",
-      "onboard_time": 1718773222,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32803,
@@ -1657,14 +1729,6 @@
       "onboard_time": 1718749091,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 15511,
-      "num": 15674,
-      "word": "欧洲杯",
-      "onboard_time": 1718630237,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 15134,

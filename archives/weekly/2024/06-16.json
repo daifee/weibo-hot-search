@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718774367892,
+  "endTime": 1718775486247,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -65,6 +65,14 @@
       "onboard_time": 1718718259,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1903200,
+      "num": 464167,
+      "word": "陈晓方未回应婚姻破裂传闻",
+      "onboard_time": 1718773463,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1842501,
@@ -537,14 +545,6 @@
       "onboard_time": 1718583919,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1103580,
-      "num": 464167,
-      "word": "陈晓方未回应婚姻破裂传闻",
-      "onboard_time": 1718773463,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1096341,
@@ -1099,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 722706,
+      "num": 463955,
+      "word": "月经发黑有血块是怎么回事",
+      "onboard_time": 1718773463,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 720653,
       "num": 720653,
       "word": "玫瑰的故事看生气了",
@@ -1521,14 +1529,6 @@
       "onboard_time": 1718667676,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 573593,
-      "num": 463955,
-      "word": "月经发黑有血块是怎么回事",
-      "onboard_time": 1718773463,
-      "rank": 11,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 571005,
@@ -3227,6 +3227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328687,
+      "num": 328687,
+      "word": "墨雨云间这下是真出息了",
+      "onboard_time": 1718774242,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328626,
       "num": 328626,
       "word": "警方通报男子在车厢面对女乘客裸睡",
@@ -3257,6 +3265,14 @@
       "onboard_time": 1718634619,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 324565,
+      "num": 324565,
+      "word": "晚一天送到的荔枝质量断崖下跌",
+      "onboard_time": 1718773893,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324463,
@@ -3361,6 +3377,14 @@
       "onboard_time": 1718769383,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308791,
+      "num": 284888,
+      "word": "全职考公考了三年都没上岸",
+      "onboard_time": 1718774002,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 307390,
@@ -3915,6 +3939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259347,
+      "num": 259347,
+      "word": "房租不超过工资的多少合适",
+      "onboard_time": 1718773403,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 259253,
       "num": 259253,
       "word": "父亲用200块供出一个北京校长",
@@ -4179,6 +4211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232407,
+      "num": 232407,
+      "word": "现在练车都在室内了吗",
+      "onboard_time": 1718773762,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 232249,
       "num": 232249,
       "word": "张馨予回应去巴黎找果冻",
@@ -4395,6 +4435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220916,
+      "num": 220916,
+      "word": "呼和浩特一村5人遇害",
+      "onboard_time": 1718775021,
+      "rank": 26,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 220786,
       "num": 197826,
       "word": "这个颜色的染发剂最危险",
@@ -4513,14 +4561,6 @@
       "onboard_time": 1718758219,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214677,
-      "num": 206948,
-      "word": "全职考公考了三年都没上岸",
-      "onboard_time": 1718774002,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 214585,
@@ -4763,14 +4803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206238,
-      "num": 206238,
-      "word": "现在练车都在室内了吗",
-      "onboard_time": 1718773762,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 206215,
       "num": 206215,
       "word": "夏季赛第一周最佳阵容",
@@ -4811,14 +4843,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 205210,
-      "num": 205210,
-      "word": "房租不超过工资的多少合适",
-      "onboard_time": 1718773403,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 204953,
       "num": 204953,
       "word": "罗云熙爱豆版",
@@ -4849,14 +4873,6 @@
       "onboard_time": 1718687119,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 204399,
-      "num": 204399,
-      "word": "晚一天送到的荔枝质量断崖下跌",
-      "onboard_time": 1718773893,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204390,
@@ -4907,6 +4923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203346,
+      "num": 200227,
+      "word": "你可能不知道的法律小常识",
+      "onboard_time": 1718774480,
+      "rank": 30,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 203022,
       "num": 177643,
       "word": "热烈",
@@ -4937,6 +4961,14 @@
       "onboard_time": 1718676796,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 202158,
+      "num": 202158,
+      "word": "佟大为谈刘亦菲演第一场亲热戏",
+      "onboard_time": 1718774780,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 201593,
@@ -5883,6 +5915,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177397,
+      "num": 177397,
+      "word": "歌手2024",
+      "onboard_time": 1718774721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177277,
       "num": 177277,
       "word": "夏天怎么科学穿衣更凉快",
@@ -6635,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 156535,
+      "num": 464304,
+      "word": "我的毕业论文被谁偷吃了",
+      "onboard_time": 1718773222,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 156311,
       "num": 156311,
       "word": "翟潇闻出发录制中餐厅",
@@ -7299,14 +7347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139234,
-      "num": 139234,
-      "word": "墨雨云间这下是真出息了",
-      "onboard_time": 1718774242,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 139129,
       "num": 139129,
       "word": "当金毛收到一只小狗后",
@@ -7433,6 +7473,14 @@
       "onboard_time": 1718513597,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135040,
+      "num": 135040,
+      "word": "苏打绿 抢票",
+      "onboard_time": 1718774961,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 134730,
@@ -7937,6 +7985,14 @@
       "onboard_time": 1718672297,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127699,
+      "num": 127699,
+      "word": "胡歌吴磊同一航班回国",
+      "onboard_time": 1718775440,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 127633,
@@ -9075,14 +9131,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 97927,
-      "num": 464304,
-      "word": "我的毕业论文被谁偷吃了",
-      "onboard_time": 1718773222,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 97630,
       "num": 97630,
       "word": "齐司礼 拥吻",
@@ -9257,6 +9305,14 @@
       "onboard_time": 1718462299,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92256,
+      "num": 349693,
+      "word": "现在去澳大利亚有多值",
+      "onboard_time": 1718771783,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 91342,
@@ -9665,14 +9721,6 @@
       "onboard_time": 1718584698,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71970,
-      "num": 349693,
-      "word": "现在去澳大利亚有多值",
-      "onboard_time": 1718771783,
-      "rank": 49,
-      "category": "旅游"
     },
     {
       "raw_hot": 71636,
@@ -10179,6 +10227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46792,
+      "num": 395953,
+      "word": "2024毕业生工作指南",
+      "onboard_time": 1718772442,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 46578,
       "num": 206515,
       "word": "黄曦彦腹肌",
@@ -10475,6 +10531,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 36137,
+      "num": 378196,
+      "word": "快递保鲜费引争议",
+      "onboard_time": 1718773222,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35781,
+      "num": 148976,
+      "word": "黄子韬奥斯卡",
+      "onboard_time": 1718775081,
+      "rank": 40,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 35589,
       "num": 282166,
       "word": "宝藏河南字游奇旅",
@@ -10536,14 +10608,6 @@
       "word": "福宝甩杆钓鱼",
       "onboard_time": 1718665394,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33583,
-      "num": 378196,
-      "word": "快递保鲜费引争议",
-      "onboard_time": 1718773222,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
