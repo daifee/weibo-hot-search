@@ -1,0 +1,410 @@
+{
+  "runTime": 1718851471802,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2499389,
+        "num": 2499389,
+        "word": "桂林洪水",
+        "onboard_time": 1718848456,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 763438,
+        "num": 763438,
+        "word": "财政部 半夜出成绩",
+        "onboard_time": 1718839876,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32350,
+        "num": 739894,
+        "word": "中部崛起新动力",
+        "onboard_time": 1718803520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732887,
+        "num": 732887,
+        "word": "霍建华非要看霍建华老了的热搜",
+        "onboard_time": 1718849597,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682450,
+        "num": 682450,
+        "word": "黄亦玫到离婚都没穿上婚纱",
+        "onboard_time": 1718840356,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343148,
+        "num": 343148,
+        "word": "桂林市区漓江水倒灌",
+        "onboard_time": 1718847137,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463808,
+        "num": 332964,
+        "word": "玫瑰的故事最炸裂的台词出现了",
+        "onboard_time": 1718808321,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 463064,
+        "num": 327134,
+        "word": "刘亦菲狼尾造型",
+        "onboard_time": 1718845577,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292487,
+        "num": 292487,
+        "word": "官方通报公职人员开车顶人",
+        "onboard_time": 1718848219,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77094,
+        "num": 291918,
+        "word": "下雨天学生把伞送给执勤交警",
+        "onboard_time": 1718850797,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465546,
+        "num": 283830,
+        "word": "姜萍黑板题目的详细解析",
+        "onboard_time": 1718846299,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353109,
+        "num": 280084,
+        "word": "GAI劝rapper回去考研",
+        "onboard_time": 1718849896,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352412,
+        "num": 272806,
+        "word": "仅两款iPhone可使用苹果AI",
+        "onboard_time": 1718850199,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 349589,
+        "num": 270663,
+        "word": "周杰伦再现华流就是最棒的",
+        "onboard_time": 1718846479,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334931,
+        "num": 262897,
+        "word": "尹锡悦称再不生娃韩国会走向灭绝",
+        "onboard_time": 1718850378,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 261256,
+        "num": 261256,
+        "word": "凌晨2点百人打手电摘杨梅现场壮观",
+        "onboard_time": 1718847378,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224363,
+        "num": 224363,
+        "word": "吴谨言收到爽文女主第一名奖状",
+        "onboard_time": 1718847558,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223153,
+        "num": 223153,
+        "word": "周鸿祎990万元卖迈巴赫后续",
+        "onboard_time": 1718848398,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220908,
+        "num": 220908,
+        "word": "韩国女性为何不愿生孩子",
+        "onboard_time": 1718850857,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 216458,
+        "num": 216458,
+        "word": "将门毒后",
+        "onboard_time": 1718808859,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376635,
+        "num": 216126,
+        "word": "结婚和离婚的都变少了",
+        "onboard_time": 1718839817,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349080,
+        "num": 215222,
+        "word": "年轻人买黄金到底是在买什么",
+        "onboard_time": 1718848998,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263819,
+        "num": 214438,
+        "word": "医院抽出来的血最终会去哪里",
+        "onboard_time": 1718839996,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 248672,
+        "num": 213060,
+        "word": "结婚前一定要聊的10件事",
+        "onboard_time": 1718843480,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212986,
+        "num": 212986,
+        "word": "王星越穿戏服上班",
+        "onboard_time": 1718851219,
+        "rank": 24,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 212682,
+        "num": 212682,
+        "word": "小龙虾的虾黄为啥不能吃",
+        "onboard_time": 1718849297,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206658,
+        "num": 206658,
+        "word": "为什么职场年轻人想喝酒",
+        "onboard_time": 1718850378,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204490,
+        "num": 204490,
+        "word": "休个病假绩效没了年假扣了",
+        "onboard_time": 1718842098,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202803,
+        "num": 202803,
+        "word": "Uzi疑似复出",
+        "onboard_time": 1718850977,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29906,
+        "num": 199209,
+        "word": "印度一地区为骆驼装义肢",
+        "onboard_time": 1718850918,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196311,
+        "num": 196311,
+        "word": "为啥有人长得很好看但拍照一笑就崩",
+        "onboard_time": 1718846657,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 193161,
+        "num": 193161,
+        "word": "王鹤棣啾咪",
+        "onboard_time": 1718849658,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553857,
+        "num": 190935,
+        "word": "胡锡进 不信姜萍与老师共谋惊天骗局",
+        "onboard_time": 1718844739,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178601,
+        "num": 178601,
+        "word": "苏醒曾预言张远上歌手",
+        "onboard_time": 1718848277,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177535,
+        "num": 177535,
+        "word": "汉服女孩用东方神秘力量征服老外",
+        "onboard_time": 1718850257,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160943,
+        "num": 160943,
+        "word": "女孩秋千跌落身亡设备公司判赔107万",
+        "onboard_time": 1718809519,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160327,
+        "num": 160327,
+        "word": "黄亦玫是真的生气了",
+        "onboard_time": 1718841439,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150937,
+        "num": 150937,
+        "word": "英雄联盟新英雄阿萝拉",
+        "onboard_time": 1718846957,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149939,
+        "num": 149939,
+        "word": "国产新能源车卖78.9万贵不贵",
+        "onboard_time": 1718850676,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147928,
+        "num": 147928,
+        "word": "嘘国王在冬眠官宣杀青",
+        "onboard_time": 1718848998,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145248,
+        "num": 145248,
+        "word": "霍建华四集就下线了",
+        "onboard_time": 1718839937,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137205,
+        "num": 137205,
+        "word": "菲律宾",
+        "onboard_time": 1718840297,
+        "rank": 41,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 137157,
+        "num": 137157,
+        "word": "体验了坐轮椅出行的一天",
+        "onboard_time": 1718850857,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133680,
+        "num": 133680,
+        "word": "塑料手镯被奶奶当宝贝戴了17年",
+        "onboard_time": 1718840597,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133072,
+        "num": 133072,
+        "word": "泰国游客为什么不爱去韩国了",
+        "onboard_time": 1718846119,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 131099,
+        "num": 131099,
+        "word": "武汉大学2024年毕业典礼",
+        "onboard_time": 1718850497,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110793,
+        "num": 110793,
+        "word": "杨紫ins认证",
+        "onboard_time": 1718842939,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105712,
+        "num": 105712,
+        "word": "桂林火车站因积水内涝暂停客运业务",
+        "onboard_time": 1718846119,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103249,
+        "num": 103249,
+        "word": "执行法官定档央八",
+        "onboard_time": 1718849536,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98095,
+        "num": 98095,
+        "word": "巴黎奥运会或成为有史以来最热一届",
+        "onboard_time": 1718851458,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委政治工作会议在延安召开#"
+    }
+  }
+}
