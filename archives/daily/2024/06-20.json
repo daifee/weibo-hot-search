@@ -1,7 +1,15 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718847612149,
+  "endTime": 1718850849981,
   "band_list": [
+    {
+      "raw_hot": 2455878,
+      "num": 2455878,
+      "word": "桂林洪水",
+      "onboard_time": 1718848456,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1676473,
       "num": 1676473,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 609347,
-      "num": 366395,
+      "num": 527631,
       "word": "刘亦菲狼尾造型",
       "onboard_time": 1718845577,
       "rank": 10,
@@ -81,6 +89,14 @@
       "onboard_time": 1718843480,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 529530,
+      "num": 237834,
+      "word": "霍建华非要看霍建华老了的热搜",
+      "onboard_time": 1718849597,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 510039,
@@ -107,12 +123,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 483271,
+      "num": 237173,
+      "word": "姜萍黑板题目的详细解析",
+      "onboard_time": 1718846299,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438483,
       "num": 438483,
       "word": "央视与腾讯就巴黎奥运会达成合作",
       "onboard_time": 1718810181,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 433128,
+      "num": 433128,
+      "word": "桂林市区漓江水倒灌",
+      "onboard_time": 1718847137,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 425614,
@@ -123,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 411472,
+      "num": 411472,
+      "word": "周杰伦再现华流就是最棒的",
+      "onboard_time": 1718846479,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 406284,
       "num": 406284,
       "word": "霍建华四集就下线了",
@@ -131,12 +171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 398796,
-      "num": 318016,
-      "word": "周杰伦再现华流就是最棒的",
-      "onboard_time": 1718846479,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 395414,
+      "num": 188616,
+      "word": "结婚和离婚的都变少了",
+      "onboard_time": 1718839817,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 377711,
@@ -153,6 +193,14 @@
       "onboard_time": 1718823612,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 348264,
+      "num": 187603,
+      "word": "年轻人买黄金到底是在买什么",
+      "onboard_time": 1718848998,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 344697,
@@ -179,12 +227,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 327949,
+      "num": 235641,
+      "word": "GAI劝rapper回去考研",
+      "onboard_time": 1718849896,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 320059,
       "num": 94407,
       "word": "普京抵达越南",
       "onboard_time": 1718840538,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 311408,
+      "num": 311408,
+      "word": "官方通报公职人员开车顶人",
+      "onboard_time": 1718848219,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305576,
@@ -209,6 +273,14 @@
       "onboard_time": 1718806040,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 275370,
+      "num": 234462,
+      "word": "凌晨2点百人打手电摘杨梅现场壮观",
+      "onboard_time": 1718847378,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 270706,
@@ -251,14 +323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248954,
-      "num": 248954,
-      "word": "桂林市区漓江水倒灌",
-      "onboard_time": 1718847137,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 243245,
       "num": 200788,
       "word": "男子携带454只濒危乌龟入境被查",
@@ -291,12 +355,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 233887,
+      "num": 233887,
+      "word": "吴谨言收到爽文女主第一名奖状",
+      "onboard_time": 1718847558,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229699,
       "num": 205380,
       "word": "贫血和气血不足是两个概念",
       "onboard_time": 1718839876,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229632,
+      "num": 229632,
+      "word": "周鸿祎990万元卖迈巴赫后续",
+      "onboard_time": 1718848398,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 222512,
@@ -323,6 +403,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 217510,
+      "num": 185976,
+      "word": "小龙虾的虾黄为啥不能吃",
+      "onboard_time": 1718849297,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 209517,
       "num": 209517,
       "word": "玫瑰的故事",
@@ -331,12 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198118,
-      "num": 198118,
-      "word": "姜萍黑板题目的详细解析",
-      "onboard_time": 1718846299,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 198354,
+      "num": 194737,
+      "word": "为啥有人长得很好看但拍照一笑就崩",
+      "onboard_time": 1718846657,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 196838,
@@ -347,20 +435,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 196631,
+      "num": 196631,
+      "word": "仅两款iPhone可使用苹果AI",
+      "onboard_time": 1718850199,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196534,
       "num": 196534,
       "word": "黄亦玫的离婚诉讼书是自己写的",
       "onboard_time": 1718804600,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194737,
-      "num": 194737,
-      "word": "为啥有人长得很好看但拍照一笑就崩",
-      "onboard_time": 1718846657,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 193423,
@@ -387,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190464,
+      "num": 190464,
+      "word": "尹锡悦称再不生娃韩国会走向灭绝",
+      "onboard_time": 1718850378,
+      "rank": 19,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 186009,
       "num": 186009,
       "word": "泰国游客为什么不爱去韩国了",
@@ -403,6 +499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184879,
+      "num": 184879,
+      "word": "王鹤棣啾咪",
+      "onboard_time": 1718849658,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184795,
+      "num": 184795,
+      "word": "苏醒曾预言张远上歌手",
+      "onboard_time": 1718848277,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181144,
       "num": 223074,
       "word": "柯佳嬿回应前男友王柏杰酒驾",
@@ -411,12 +523,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160395,
-      "num": 160395,
+      "raw_hot": 164486,
+      "num": 164486,
       "word": "英雄联盟新英雄阿萝拉",
       "onboard_time": 1718846957,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162680,
+      "num": 162680,
+      "word": "汉服女孩用东方神秘力量征服老外",
+      "onboard_time": 1718850257,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159752,
+      "num": 159752,
+      "word": "执行法官定档央八",
+      "onboard_time": 1718849536,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 158579,
+      "num": 158579,
+      "word": "为什么职场年轻人想喝酒",
+      "onboard_time": 1718850378,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 156065,
@@ -425,6 +561,14 @@
       "onboard_time": 1718844620,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155746,
+      "num": 155746,
+      "word": "嘘国王在冬眠官宣杀青",
+      "onboard_time": 1718848998,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 153938,
@@ -451,12 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136310,
-      "num": 136310,
-      "word": "凌晨2点百人打手电摘杨梅现场壮观",
-      "onboard_time": 1718847378,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 130422,
+      "num": 130422,
+      "word": "这么小众的赛道也被小姐姐闯出来了",
+      "onboard_time": 1718847618,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 128443,
+      "num": 128443,
+      "word": "国产新能源车卖78.9万贵不贵",
+      "onboard_time": 1718850676,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 126219,
@@ -539,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113871,
+      "num": 113871,
+      "word": "武汉大学2024年毕业典礼",
+      "onboard_time": 1718850497,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
       "raw_hot": 113391,
       "num": 113391,
       "word": "乡干部为4名绕道考生挖通赶考路",
@@ -595,6 +755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 106641,
+      "num": 106641,
+      "word": "王鹤棣0.5倍速唱周杰伦的歌",
+      "onboard_time": 1718848097,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106037,
       "num": 106037,
       "word": "苏格兰1比1瑞士",
@@ -609,6 +777,14 @@
       "onboard_time": 1718799018,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104935,
+      "num": 184829,
+      "word": "下雨天学生把伞送给执勤交警",
+      "onboard_time": 1718850797,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101436,
@@ -700,19 +876,11 @@
     },
     {
       "raw_hot": 94502,
-      "num": 94502,
+      "num": 235074,
       "word": "福建暴雨武警消防徒步给村民送物资",
       "onboard_time": 1718842579,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91961,
-      "num": 91961,
-      "word": "吴谨言收到爽文女主第一名奖状",
-      "onboard_time": 1718847558,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 91298,

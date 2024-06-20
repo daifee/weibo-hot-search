@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/20 09:40:12
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/20 10:34:09
 </p>
 </blockquote>
 <p>
@@ -281,6 +281,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%8F%91%E7%94%9F%E6%8C%81%E5%88%80%E4%BC%A4%E4%BA%BA%E6%A1%883%E4%BA%BA%E5%8F%97%E4%BC%A4%23" target="weibo">
 上海地铁发生持刀伤人案3人受伤（热度：2470629）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E6%B4%AA%E6%B0%B4%23" target="weibo">
+桂林洪水（热度：2455878）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TypeC嘴（热度：614816）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%20%E7%9C%89%E5%BC%93%23" target="weibo">
 鞠婧祎 眉弓（热度：603121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%89%A7%E7%BB%84%E8%AE%A9%E6%82%A3%E8%80%85%E5%AE%B6%E5%B1%9E%E5%B0%8F%E5%A3%B0%E7%82%B9%E5%93%AD%23" target="weibo">
-医院回应剧组让患者家属小声点哭（热度：602305）
 </a>
 </li>
 
