@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718922929147,
+  "endTime": 1718925664668,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -43,8 +43,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 463728,
-      "num": 315067,
+      "raw_hot": 495080,
+      "num": 495080,
       "word": "桂林女店员遇难后有居民提醒关闸",
       "onboard_time": 1718899145,
       "rank": 15,
@@ -65,6 +65,14 @@
       "onboard_time": 1718895980,
       "rank": 10,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 382705,
+      "num": 188253,
+      "word": "霍建华曾一个人演一家子",
+      "onboard_time": 1718922493,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 375216,
@@ -121,6 +129,14 @@
       "onboard_time": 1718899217,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 287609,
+      "num": 287609,
+      "word": "夏至",
+      "onboard_time": 1718925014,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269173,
@@ -187,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200541,
+      "num": 112444,
+      "word": "人体3处淋巴没事常揉揉",
+      "onboard_time": 1718919191,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 169426,
       "num": 169426,
       "word": "发现我妈是天生留子圣体",
@@ -243,12 +267,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131697,
-      "num": 55775,
-      "word": "人体3处淋巴没事常揉揉",
-      "onboard_time": 1718919191,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 130061,
+      "num": 130061,
+      "word": "丹麦1比1英格兰",
+      "onboard_time": 1718925435,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127414,
+      "num": 127414,
+      "word": "西班牙vs意大利",
+      "onboard_time": 1718902575,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 119268,
@@ -339,14 +371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86236,
-      "num": 86236,
-      "word": "西班牙vs意大利",
-      "onboard_time": 1718902575,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 84554,
       "num": 88181,
       "word": "Lisa新歌ROCKSTAR预告照",
@@ -395,12 +419,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75085,
+      "num": 75085,
+      "word": "丞磊口误说双人床",
+      "onboard_time": 1718924715,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74150,
+      "num": 74150,
+      "word": "庄国栋睡了但彭冠英醒了",
+      "onboard_time": 1718884818,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73182,
       "num": 87128,
       "word": "马玉灵退团",
       "onboard_time": 1718891659,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72681,
+      "num": 72681,
+      "word": "女子4年间先后查出3种癌",
+      "onboard_time": 1718912531,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67724,
@@ -411,6 +459,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 65086,
+      "num": 65086,
+      "word": "分数刚到本科线怎么报考",
+      "onboard_time": 1718925135,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 60417,
       "num": 186454,
       "word": "熊猫宝宝的胖jiojio也太灵活了",
@@ -419,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59748,
-      "num": 59748,
-      "word": "庄国栋睡了但彭冠英醒了",
-      "onboard_time": 1718884818,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 55051,
+      "num": 55051,
+      "word": "住房条件影响健康",
+      "onboard_time": 1718917390,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 51879,
@@ -435,14 +491,6 @@
       "category": "财经,数码"
     },
     {
-      "raw_hot": 44667,
-      "num": 37524,
-      "word": "霍建华曾一个人演一家子",
-      "onboard_time": 1718922493,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41930,
       "num": 41930,
       "word": "黄山洪水",
@@ -451,20 +499,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41250,
-      "num": 41250,
-      "word": "女子4年间先后查出3种癌",
-      "onboard_time": 1718912531,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40066,
-      "num": 40066,
-      "word": "住房条件影响健康",
-      "onboard_time": 1718917390,
-      "rank": 43,
-      "category": "健康医疗"
+      "raw_hot": 41535,
+      "num": 44800,
+      "word": "周雨彤酒杯比脸大",
+      "onboard_time": 1718906652,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 35645,
@@ -481,14 +521,6 @@
       "onboard_time": 1718905214,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29372,
-      "num": 33962,
-      "word": "周雨彤酒杯比脸大",
-      "onboard_time": 1718906652,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 27753,
@@ -513,6 +545,14 @@
       "onboard_time": 1718915710,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16929,
+      "num": 195043,
+      "word": "老奶奶淋雨男生披外套跑去遮挡护送",
+      "onboard_time": 1718924715,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 16150,

@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718922929147,
+  "endTime": 1718925664668,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -2795,6 +2795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 495080,
+      "num": 495080,
+      "word": "桂林女店员遇难后有居民提醒关闸",
+      "onboard_time": 1718899145,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494632,
       "num": 179555,
       "word": "大一男生39天减重20斤后猝死家属发声",
@@ -3009,14 +3017,6 @@
       "onboard_time": 1718893880,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 463728,
-      "num": 315067,
-      "word": "桂林女店员遇难后有居民提醒关闸",
-      "onboard_time": 1718899145,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 463458,
@@ -3840,6 +3840,14 @@
       "word": "范闲庆帝骨子里的相似",
       "onboard_time": 1718680098,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 382705,
+      "num": 188253,
+      "word": "霍建华曾一个人演一家子",
+      "onboard_time": 1718922493,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -5129,6 +5137,14 @@
       "onboard_time": 1718887216,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287609,
+      "num": 287609,
+      "word": "夏至",
+      "onboard_time": 1718925014,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286942,
@@ -7185,6 +7201,14 @@
       "onboard_time": 1718712858,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200541,
+      "num": 112444,
+      "word": "人体3处淋巴没事常揉揉",
+      "onboard_time": 1718919191,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 200438,
@@ -11147,14 +11171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 131697,
-      "num": 55775,
-      "word": "人体3处淋巴没事常揉揉",
-      "onboard_time": 1718919191,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 131497,
       "num": 131497,
       "word": "2024上半年黑马剧",
@@ -11321,6 +11337,14 @@
       "onboard_time": 1718674397,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130061,
+      "num": 130061,
+      "word": "丹麦1比1英格兰",
+      "onboard_time": 1718925435,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 129963,
@@ -11561,6 +11585,14 @@
       "onboard_time": 1718854518,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127414,
+      "num": 127414,
+      "word": "西班牙vs意大利",
+      "onboard_time": 1718902575,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 127359,
@@ -13707,14 +13739,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 86236,
-      "num": 86236,
-      "word": "西班牙vs意大利",
-      "onboard_time": 1718902575,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86222,
       "num": 86222,
       "word": "埃里克森破门",
@@ -14011,6 +14035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75085,
+      "num": 75085,
+      "word": "丞磊口误说双人床",
+      "onboard_time": 1718924715,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74238,
       "num": 86169,
       "word": "欧洲杯预测",
@@ -14041,6 +14073,14 @@
       "onboard_time": 1718625498,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 72681,
+      "num": 72681,
+      "word": "女子4年间先后查出3种癌",
+      "onboard_time": 1718912531,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72616,
@@ -14241,6 +14281,14 @@
       "onboard_time": 1718579475,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65086,
+      "num": 65086,
+      "word": "分数刚到本科线怎么报考",
+      "onboard_time": 1718925135,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 65049,
@@ -14579,6 +14627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55051,
+      "num": 55051,
+      "word": "住房条件影响健康",
+      "onboard_time": 1718917390,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54828,
       "num": 456662,
       "word": "西安雨后彩虹太美了",
@@ -14851,14 +14907,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 44667,
-      "num": 37524,
-      "word": "霍建华曾一个人演一家子",
-      "onboard_time": 1718922493,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44483,
       "num": 249086,
       "word": "特仑苏代言人靳东法国传递圣火",
@@ -15003,20 +15051,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41535,
+      "num": 44800,
+      "word": "周雨彤酒杯比脸大",
+      "onboard_time": 1718906652,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41470,
       "num": 203606,
       "word": "孙千陈昊宇蓝调优雅大片",
       "onboard_time": 1718538737,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41250,
-      "num": 41250,
-      "word": "女子4年间先后查出3种癌",
-      "onboard_time": 1718912531,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41225,
@@ -15049,14 +15097,6 @@
       "onboard_time": 1718752814,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 40066,
-      "num": 40066,
-      "word": "住房条件影响健康",
-      "onboard_time": 1718917390,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 39705,
@@ -15497,14 +15537,6 @@
       "onboard_time": 1718640917,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29372,
-      "num": 33962,
-      "word": "周雨彤酒杯比脸大",
-      "onboard_time": 1718906652,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 29309,
@@ -16009,6 +16041,14 @@
       "onboard_time": 1718795178,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16929,
+      "num": 195043,
+      "word": "老奶奶淋雨男生披外套跑去遮挡护送",
+      "onboard_time": 1718924715,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 16836,
