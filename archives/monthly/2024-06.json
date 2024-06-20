@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718903805828,
+  "endTime": 1718904865762,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -59401,6 +59401,14 @@
       "onboard_time": 1718644873,
       "rank": 9,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 14206,
+      "num": 159661,
+      "word": "酒商称如今一箱赚几块就不错",
+      "onboard_time": 1718904314,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 14181,
