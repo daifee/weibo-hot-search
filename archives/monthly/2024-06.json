@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718853720054,
+  "endTime": 1718854531257,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3299,6 +3299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1053495,
+      "num": 929668,
+      "word": "女子因父母拒绝签字被困精神病院十年",
+      "onboard_time": 1718851638,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1053221,
       "num": 1053221,
       "word": "刘亦菲5集换了32套造型",
@@ -4019,14 +4027,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 929668,
-      "num": 929668,
-      "word": "女子因父母拒绝签字被困精神病院十年",
-      "onboard_time": 1718851638,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 929335,
       "num": 929335,
       "word": "乐华否认程潇吴宣仪耍大牌",
@@ -4065,6 +4065,14 @@
       "onboard_time": 1718427738,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 925959,
+      "num": 925959,
+      "word": "尹锡悦称再不生娃韩国会走向灭绝",
+      "onboard_time": 1718850378,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 924387,
@@ -4931,6 +4939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 812128,
+      "num": 465178,
+      "word": "仅两款iPhone可使用苹果AI",
+      "onboard_time": 1718850199,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 811282,
       "num": 811282,
       "word": "女孩秋千跌落身亡设备公司判赔107万",
@@ -5252,7 +5268,7 @@
     },
     {
       "raw_hot": 779118,
-      "num": 643688,
+      "num": 737583,
       "word": "菲常萧张的女儿",
       "onboard_time": 1718851577,
       "rank": 6,
@@ -5657,14 +5673,6 @@
       "onboard_time": 1717396397,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 746899,
-      "num": 465178,
-      "word": "仅两款iPhone可使用苹果AI",
-      "onboard_time": 1718850199,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 746531,
@@ -6243,14 +6251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 711052,
-      "num": 711052,
-      "word": "尹锡悦称再不生娃韩国会走向灭绝",
-      "onboard_time": 1718850378,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 710520,
       "num": 544203,
       "word": "狐妖月红篇be大结局",
@@ -6353,6 +6353,14 @@
       "onboard_time": 1718149757,
       "rank": 4,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 702937,
+      "num": 422819,
+      "word": "贾玲露腰T恤",
+      "onboard_time": 1718853379,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 702659,
@@ -7017,6 +7025,14 @@
       "onboard_time": 1717335019,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 663309,
+      "num": 463940,
+      "word": "墨雨云间番外",
+      "onboard_time": 1718852599,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 663280,
@@ -9907,6 +9923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 522192,
+      "num": 461534,
+      "word": "韩国女性为何不愿生孩子",
+      "onboard_time": 1718850857,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 522111,
       "num": 976338,
       "word": "南海沉船打捞出的文物惊艳了",
@@ -11091,14 +11115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 482769,
-      "num": 463940,
-      "word": "墨雨云间番外",
-      "onboard_time": 1718852599,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 482280,
       "num": 363997,
       "word": "赵露思卢昱晓早期合照",
@@ -11769,14 +11785,6 @@
       "onboard_time": 1718458158,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 461534,
-      "num": 461534,
-      "word": "韩国女性为何不愿生孩子",
-      "onboard_time": 1718850857,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 461302,
@@ -15267,6 +15275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366985,
+      "num": 366985,
+      "word": "Uzi WE",
+      "onboard_time": 1718852178,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 366692,
       "num": 326015,
       "word": "汪苏泷第六",
@@ -16177,14 +16193,6 @@
       "onboard_time": 1718168302,
       "rank": 21,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348230,
-      "num": 348230,
-      "word": "Uzi WE",
-      "onboard_time": 1718852178,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 347707,
@@ -19587,14 +19595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 285013,
-      "num": 285013,
-      "word": "贾玲露腰T恤",
-      "onboard_time": 1718853379,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284574,
       "num": 284574,
       "word": "发现了掉秤最快的方法",
@@ -21459,6 +21459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 257317,
+      "num": 244245,
+      "word": "王者荣耀国际服",
+      "onboard_time": 1718852898,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 257248,
       "num": 257248,
       "word": "马里亚纳海沟",
@@ -22331,14 +22339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 244245,
-      "num": 244245,
-      "word": "王者荣耀国际服",
-      "onboard_time": 1718852898,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 244225,
       "num": 244225,
       "word": "剑网3无界公测上线",
@@ -23097,6 +23097,14 @@
       "onboard_time": 1718248699,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 235515,
+      "num": 235515,
+      "word": "TF家族运动会 特权码",
+      "onboard_time": 1718853318,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 235502,
@@ -24081,6 +24089,14 @@
       "onboard_time": 1717649061,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223626,
+      "num": 223626,
+      "word": "所有人都露脸不告诉虞书欣",
+      "onboard_time": 1718854099,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 223544,
@@ -27331,14 +27347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200850,
-      "num": 200850,
-      "word": "TF家族运动会 特权码",
-      "onboard_time": 1718853318,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200799,
       "num": 200799,
       "word": "恋与深空黎深",
@@ -28265,6 +28273,14 @@
       "onboard_time": 1718684899,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 196526,
+      "num": 186417,
+      "word": "于正我不允许任何人忤逆你",
+      "onboard_time": 1718854278,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 196516,
@@ -30267,6 +30283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 186598,
+      "num": 186598,
+      "word": "惠若琪博士毕业",
+      "onboard_time": 1718853019,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186515,
       "num": 186515,
       "word": "于正回应被拒演",
@@ -31203,6 +31227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181366,
+      "num": 181366,
+      "word": "国产新能源车卖78.9万贵不贵",
+      "onboard_time": 1718850676,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 181244,
       "num": 181244,
       "word": "理想L9出事故司机质疑LCC",
@@ -31241,14 +31273,6 @@
       "onboard_time": 1718500816,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180655,
-      "num": 180655,
-      "word": "惠若琪博士毕业",
-      "onboard_time": 1718853019,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 180608,
@@ -31321,14 +31345,6 @@
       "onboard_time": 1718421498,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180148,
-      "num": 180148,
-      "word": "国产新能源车卖78.9万贵不贵",
-      "onboard_time": 1718850676,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 180137,
@@ -39843,6 +39859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 139533,
+      "num": 139533,
+      "word": "尤长靖帮粉丝捡鞋子",
+      "onboard_time": 1718854157,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139518,
       "num": 139518,
       "word": "为啥天天刷牙还有口臭",
@@ -42627,6 +42651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127427,
+      "num": 127427,
+      "word": "虞书欣原声台词",
+      "onboard_time": 1718854518,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127402,
       "num": 127402,
       "word": "JDG战胜FPX",
@@ -43787,6 +43819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123404,
+      "num": 123404,
+      "word": "导师版西游记后传",
+      "onboard_time": 1718853198,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123355,
       "num": 123355,
       "word": "陶喆毕业后两年没有工作",
@@ -44401,14 +44441,6 @@
       "onboard_time": 1718606238,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120498,
-      "num": 120498,
-      "word": "导师版西游记后传",
-      "onboard_time": 1718853198,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 120480,
@@ -50035,6 +50067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83309,
+      "num": 468336,
+      "word": "以歌之名祝福青春",
+      "onboard_time": 1718852719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 83298,
       "num": 83298,
       "word": "高考结束后的张桂梅老师",
@@ -50209,14 +50249,6 @@
       "onboard_time": 1717951816,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80698,
-      "num": 468336,
-      "word": "以歌之名祝福青春",
-      "onboard_time": 1718852719,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80499,
@@ -53423,6 +53455,14 @@
       "num": 429499,
       "word": "能当旅游搭子的爸爸有多可爱",
       "onboard_time": 1718112260,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49255,
+      "num": 451390,
+      "word": "漓江桂林市区段正缓慢退水",
+      "onboard_time": 1718854220,
       "rank": 9,
       "category": "社会新闻"
     },

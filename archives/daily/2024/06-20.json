@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718853720054,
+  "endTime": 1718854531257,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -35,6 +35,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1053495,
+      "num": 929668,
+      "word": "女子因父母拒绝签字被困精神病院十年",
+      "onboard_time": 1718851638,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021213,
       "num": 220145,
       "word": "胡锡进 不信姜萍与老师共谋惊天骗局",
@@ -51,12 +59,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 929668,
-      "num": 929668,
-      "word": "女子因父母拒绝签字被困精神病院十年",
-      "onboard_time": 1718851638,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 925959,
+      "num": 925959,
+      "word": "尹锡悦称再不生娃韩国会走向灭绝",
+      "onboard_time": 1718850378,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 876227,
@@ -75,20 +83,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 779118,
-      "num": 643688,
-      "word": "菲常萧张的女儿",
-      "onboard_time": 1718851577,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 746899,
+      "raw_hot": 812128,
       "num": 465178,
       "word": "仅两款iPhone可使用苹果AI",
       "onboard_time": 1718850199,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 779118,
+      "num": 737583,
+      "word": "菲常萧张的女儿",
+      "onboard_time": 1718851577,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 725189,
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 711052,
-      "num": 711052,
-      "word": "尹锡悦称再不生娃韩国会走向灭绝",
-      "onboard_time": 1718850378,
-      "rank": 19,
-      "category": "国外时政"
+      "raw_hot": 702937,
+      "num": 422819,
+      "word": "贾玲露腰T恤",
+      "onboard_time": 1718853379,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 676640,
@@ -113,6 +121,14 @@
       "onboard_time": 1718842098,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 663309,
+      "num": 463940,
+      "word": "墨雨云间番外",
+      "onboard_time": 1718852599,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 609347,
@@ -137,6 +153,14 @@
       "onboard_time": 1718843480,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 522192,
+      "num": 461534,
+      "word": "韩国女性为何不愿生孩子",
+      "onboard_time": 1718850857,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 510039,
@@ -169,22 +193,6 @@
       "onboard_time": 1718846299,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482769,
-      "num": 463940,
-      "word": "墨雨云间番外",
-      "onboard_time": 1718852599,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 461534,
-      "num": 461534,
-      "word": "韩国女性为何不愿生孩子",
-      "onboard_time": 1718850857,
-      "rank": 18,
-      "category": "国外时政"
     },
     {
       "raw_hot": 438483,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 366985,
+      "num": 366985,
+      "word": "Uzi WE",
+      "onboard_time": 1718852178,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 353109,
       "num": 280084,
       "word": "GAI劝rapper回去考研",
@@ -273,14 +289,6 @@
       "onboard_time": 1718848998,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 348230,
-      "num": 348230,
-      "word": "Uzi WE",
-      "onboard_time": 1718852178,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 344697,
@@ -347,14 +355,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 285013,
-      "num": 285013,
-      "word": "贾玲露腰T恤",
-      "onboard_time": 1718853379,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275370,
       "num": 261256,
       "word": "凌晨2点百人打手电摘杨梅现场壮观",
@@ -387,6 +387,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 257317,
+      "num": 244245,
+      "word": "王者荣耀国际服",
+      "onboard_time": 1718852898,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 253384,
       "num": 253384,
       "word": "王星越穿戏服上班",
@@ -417,14 +425,6 @@
       "onboard_time": 1718846119,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 244245,
-      "num": 244245,
-      "word": "王者荣耀国际服",
-      "onboard_time": 1718852898,
-      "rank": 23,
-      "category": "游戏"
     },
     {
       "raw_hot": 243810,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235515,
+      "num": 235515,
+      "word": "TF家族运动会 特权码",
+      "onboard_time": 1718853318,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235502,
       "num": 235502,
       "word": "被公交站台的手写信感动到了",
@@ -489,6 +497,14 @@
       "onboard_time": 1718839876,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 223626,
+      "num": 223626,
+      "word": "所有人都露脸不告诉虞书欣",
+      "onboard_time": 1718854099,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 222512,
@@ -547,14 +563,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 200850,
-      "num": 200850,
-      "word": "TF家族运动会 特权码",
-      "onboard_time": 1718853318,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198354,
       "num": 196311,
       "word": "为啥有人长得很好看但拍照一笑就崩",
@@ -576,6 +584,14 @@
       "word": "黄亦玫的离婚诉讼书是自己写的",
       "onboard_time": 1718804600,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196526,
+      "num": 186417,
+      "word": "于正我不允许任何人忤逆你",
+      "onboard_time": 1718854278,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -611,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186598,
+      "num": 186598,
+      "word": "惠若琪博士毕业",
+      "onboard_time": 1718853019,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186009,
       "num": 186009,
       "word": "泰国游客为什么不爱去韩国了",
@@ -635,28 +659,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181366,
+      "num": 181366,
+      "word": "国产新能源车卖78.9万贵不贵",
+      "onboard_time": 1718850676,
+      "rank": 43,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 181144,
       "num": 223074,
       "word": "柯佳嬿回应前男友王柏杰酒驾",
       "onboard_time": 1718840178,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 180655,
-      "num": 180655,
-      "word": "惠若琪博士毕业",
-      "onboard_time": 1718853019,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 180148,
-      "num": 180148,
-      "word": "国产新能源车卖78.9万贵不贵",
-      "onboard_time": 1718850676,
-      "rank": 43,
-      "category": "汽车"
     },
     {
       "raw_hot": 177535,
@@ -715,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139533,
+      "num": 139533,
+      "word": "尤长靖帮粉丝捡鞋子",
+      "onboard_time": 1718854157,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137157,
       "num": 137157,
       "word": "体验了坐轮椅出行的一天",
@@ -755,6 +779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127427,
+      "num": 127427,
+      "word": "虞书欣原声台词",
+      "onboard_time": 1718854518,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126219,
       "num": 126219,
       "word": "iOS18允许第三方APP录制空间视频",
@@ -787,20 +819,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123404,
+      "num": 123404,
+      "word": "导师版西游记后传",
+      "onboard_time": 1718853198,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122193,
       "num": 122193,
       "word": "天蝎座突然冷淡的原因",
       "onboard_time": 1718802440,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120498,
-      "num": 120498,
-      "word": "导师版西游记后传",
-      "onboard_time": 1718853198,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 119425,
@@ -1043,7 +1075,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 80698,
+      "raw_hot": 83309,
       "num": 468336,
       "word": "以歌之名祝福青春",
       "onboard_time": 1718852719,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1718816115,
       "rank": 36,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 49255,
+      "num": 451390,
+      "word": "漓江桂林市区段正缓慢退水",
+      "onboard_time": 1718854220,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48781,
