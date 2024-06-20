@@ -1,0 +1,410 @@
+{
+  "runTime": 1718893050710,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1130168,
+        "num": 1130168,
+        "word": "黄亦玫生娃摸鼻子是刘亦菲即兴发挥",
+        "onboard_time": 1718888178,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919096,
+        "num": 919096,
+        "word": "北大回应网传复旦打老师男生被录取",
+        "onboard_time": 1718889739,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27620,
+        "num": 774533,
+        "word": "万千气象看甘肃",
+        "onboard_time": 1718890098,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119059,
+        "num": 762567,
+        "word": "黄亦玫手撕恶婆婆",
+        "onboard_time": 1718889799,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 660580,
+        "num": 660580,
+        "word": "上海Manner一男店员殴打女顾客",
+        "onboard_time": 1718880138,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525600,
+        "num": 525600,
+        "word": "manner泼咖啡粉员工已被辞退",
+        "onboard_time": 1718882118,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740864,
+        "num": 521925,
+        "word": "长相思2 定档",
+        "onboard_time": 1718863939,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590255,
+        "num": 520172,
+        "word": "吴谨言今天请了三个剧组喝奶茶",
+        "onboard_time": 1718889799,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290287,
+        "num": 514446,
+        "word": "免收学费就业率贼高的神仙专业",
+        "onboard_time": 1718887216,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59044,
+        "num": 511413,
+        "word": "福宝会对暗号了",
+        "onboard_time": 1718889439,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509621,
+        "num": 509621,
+        "word": "刘亦菲裸背",
+        "onboard_time": 1718888178,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 466387,
+        "num": 466387,
+        "word": "颜心记 敢耍我",
+        "onboard_time": 1718890759,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449971,
+        "num": 449971,
+        "word": "薛之谦生日场",
+        "onboard_time": 1718888718,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352093,
+        "num": 352093,
+        "word": "Manner回应店员泼顾客咖啡粉",
+        "onboard_time": 1718870598,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20122,
+        "num": 341771,
+        "word": "想学工科怎么选学校",
+        "onboard_time": 1718892019,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 334738,
+        "num": 334738,
+        "word": "王一博 罗意威",
+        "onboard_time": 1718879657,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 310662,
+        "num": 310662,
+        "word": "邓亚萍与孙颖莎王楚钦对练",
+        "onboard_time": 1718887757,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290492,
+        "num": 290492,
+        "word": "发现我妈是天生留子圣体",
+        "onboard_time": 1718888299,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266734,
+        "num": 266734,
+        "word": "女性私处过度清洁反而更容易患病",
+        "onboard_time": 1718872098,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 260121,
+        "num": 260121,
+        "word": "manner",
+        "onboard_time": 1718865197,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331820,
+        "num": 253686,
+        "word": "巨蟹座生日",
+        "onboard_time": 1718888899,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315128,
+        "num": 250661,
+        "word": "男朋友竟然让我多要点彩礼",
+        "onboard_time": 1718881577,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276748,
+        "num": 248313,
+        "word": "庄国栋睡了但彭冠英醒了",
+        "onboard_time": 1718884818,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242982,
+        "num": 242982,
+        "word": "孙怡深V挂脖裙",
+        "onboard_time": 1718890998,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241650,
+        "num": 241650,
+        "word": "马玉灵退团",
+        "onboard_time": 1718891659,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11924,
+        "num": 230466,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228617,
+        "num": 228617,
+        "word": "刘亦菲发黄玫瑰微博表情",
+        "onboard_time": 1718889078,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209316,
+        "num": 209316,
+        "word": "薛之谦鸟巢开六场",
+        "onboard_time": 1718892260,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201032,
+        "num": 201032,
+        "word": "王星越回应和吴谨言二搭",
+        "onboard_time": 1718887216,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157904,
+        "num": 200619,
+        "word": "中国女排0比3日本女排",
+        "onboard_time": 1718883197,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200600,
+        "num": 200600,
+        "word": "Manner单店平均收入8000元一天",
+        "onboard_time": 1718876118,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194847,
+        "num": 194847,
+        "word": "张杰鸟巢场",
+        "onboard_time": 1718892320,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193924,
+        "num": 193924,
+        "word": "中国女排总决赛止步八强",
+        "onboard_time": 1718883197,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193278,
+        "num": 193278,
+        "word": "黄亦玫傅家明病床吻",
+        "onboard_time": 1718889618,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192715,
+        "num": 192715,
+        "word": "林俊杰贵阳",
+        "onboard_time": 1718891780,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181568,
+        "num": 181568,
+        "word": "墨雨云间同人",
+        "onboard_time": 1718882718,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176758,
+        "num": 176758,
+        "word": "Lisa新歌ROCKSTAR预告照",
+        "onboard_time": 1718887878,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175479,
+        "num": 175479,
+        "word": "为什么不建议左撇子考口腔医学",
+        "onboard_time": 1718890220,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172797,
+        "num": 172797,
+        "word": "黄亦玫带娃三年考了3本资格证",
+        "onboard_time": 1718878698,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160599,
+        "num": 160599,
+        "word": "manner有员工称8小时内要做500杯咖啡",
+        "onboard_time": 1718884278,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169423,
+        "num": 160486,
+        "word": "尹净汉亲话筒",
+        "onboard_time": 1718892500,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 159773,
+        "num": 159773,
+        "word": "胡锡进今天跌了7471元",
+        "onboard_time": 1718887579,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159678,
+        "num": 159678,
+        "word": "小钰谈和Rookie结婚",
+        "onboard_time": 1718885298,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155826,
+        "num": 155826,
+        "word": "这种小区没有一天我走不出来",
+        "onboard_time": 1718889139,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152632,
+        "num": 152632,
+        "word": "谢娜在女儿毕业典礼上哭了",
+        "onboard_time": 1718873838,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143029,
+        "num": 143029,
+        "word": "中国海警夺回菲方盗窃赃物",
+        "onboard_time": 1718886319,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128898,
+        "num": 128898,
+        "word": "周深秒猜魑魅魍魉",
+        "onboard_time": 1718890098,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128678,
+        "num": 128678,
+        "word": "为啥我总是肩胛骨缝疼",
+        "onboard_time": 1718892560,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106856,
+        "num": 106856,
+        "word": "王俊凯王源易烊千玺最新状态",
+        "onboard_time": 1718879480,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105547,
+        "num": 105547,
+        "word": "资深医生称医学生本科毕业还是小白",
+        "onboard_time": 1718890998,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}
