@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718921884667,
+  "endTime": 1718922929147,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -243,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131697,
+      "num": 55775,
+      "word": "人体3处淋巴没事常揉揉",
+      "onboard_time": 1718919191,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119268,
       "num": 119268,
       "word": "Jennie回归新歌试听",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 86236,
+      "num": 86236,
+      "word": "西班牙vs意大利",
+      "onboard_time": 1718902575,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84554,
       "num": 88181,
       "word": "Lisa新歌ROCKSTAR预告照",
@@ -345,14 +361,6 @@
       "onboard_time": 1718887216,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81068,
-      "num": 81068,
-      "word": "西班牙vs意大利",
-      "onboard_time": 1718902575,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 78807,
@@ -385,14 +393,6 @@
       "onboard_time": 1718900417,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 74379,
-      "num": 41790,
-      "word": "人体3处淋巴没事常揉揉",
-      "onboard_time": 1718919191,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 73182,
@@ -435,12 +435,36 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 44667,
+      "num": 37524,
+      "word": "霍建华曾一个人演一家子",
+      "onboard_time": 1718922493,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41930,
       "num": 41930,
       "word": "黄山洪水",
       "onboard_time": 1718905393,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41250,
+      "num": 41250,
+      "word": "女子4年间先后查出3种癌",
+      "onboard_time": 1718912531,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 40066,
+      "num": 40066,
+      "word": "住房条件影响健康",
+      "onboard_time": 1718917390,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 35645,
@@ -457,22 +481,6 @@
       "onboard_time": 1718905214,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 34247,
-      "num": 34247,
-      "word": "女子4年间先后查出3种癌",
-      "onboard_time": 1718912531,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31382,
-      "num": 31382,
-      "word": "住房条件影响健康",
-      "onboard_time": 1718917390,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 29372,
@@ -499,8 +507,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 19103,
-      "num": 20658,
+      "raw_hot": 22725,
+      "num": 26473,
       "word": "苗苗KTV状态演我",
       "onboard_time": 1718915710,
       "rank": 44,
@@ -508,7 +516,7 @@
     },
     {
       "raw_hot": 16150,
-      "num": 71832,
+      "num": 85650,
       "word": "免收学费就业率贼高的神仙专业",
       "onboard_time": 1718887216,
       "rank": 9,
