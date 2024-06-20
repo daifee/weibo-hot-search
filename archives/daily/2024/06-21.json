@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718918377096,
+  "endTime": 1718919323501,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -475,12 +475,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 23466,
-      "num": 23466,
+      "raw_hot": 24575,
+      "num": 24575,
       "word": "女子4年间先后查出3种癌",
       "onboard_time": 1718912531,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17482,
+      "num": 17482,
+      "word": "住房条件影响健康",
+      "onboard_time": 1718917390,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 16150,
@@ -491,16 +499,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 14809,
-      "num": 15915,
-      "word": "住房条件影响健康",
-      "onboard_time": 1718917390,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 14535,
-      "num": 15915,
+      "raw_hot": 14852,
+      "num": 17176,
       "word": "苗苗KTV状态演我",
       "onboard_time": 1718915710,
       "rank": 44,
@@ -513,6 +513,14 @@
       "onboard_time": 1718907912,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14320,
+      "num": 17164,
+      "word": "人体3处淋巴没事常揉揉",
+      "onboard_time": 1718919191,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13964,
