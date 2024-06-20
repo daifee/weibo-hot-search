@@ -1,0 +1,410 @@
+{
+  "runTime": 1718876079926,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1224367,
+        "num": 1224367,
+        "word": "叶海洋双胞胎",
+        "onboard_time": 1718869820,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 810007,
+        "num": 810007,
+        "word": "韩国麦当劳暂时停止销售炸薯条",
+        "onboard_time": 1718868079,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62756,
+        "num": 710162,
+        "word": "全国首个核能供汽投产",
+        "onboard_time": 1718871738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 908540,
+        "num": 703438,
+        "word": "长相思2 定档",
+        "onboard_time": 1718863939,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636554,
+        "num": 636554,
+        "word": "孙杨工作室发声",
+        "onboard_time": 1718873059,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584171,
+        "num": 584171,
+        "word": "Manner回应店员泼顾客咖啡粉",
+        "onboard_time": 1718870598,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533311,
+        "num": 533311,
+        "word": "刘亦菲送小演员芭比娃娃",
+        "onboard_time": 1718870539,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500185,
+        "num": 500185,
+        "word": "魏大勋韩国出发录制奔跑吧",
+        "onboard_time": 1718872878,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 474444,
+        "num": 474444,
+        "word": "因停机错过考编递补考生已考上公务员",
+        "onboard_time": 1718866697,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76909,
+        "num": 459217,
+        "word": "桂江发生超历史实测纪录洪水",
+        "onboard_time": 1718874557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 958601,
+        "num": 437041,
+        "word": "女性私处过度清洁反而更容易患病",
+        "onboard_time": 1718872098,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 824360,
+        "num": 415903,
+        "word": "谢娜在女儿毕业典礼上哭了",
+        "onboard_time": 1718873838,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476064,
+        "num": 377204,
+        "word": "哥哥太爱我了怎么办",
+        "onboard_time": 1718872218,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371326,
+        "num": 371326,
+        "word": "桂林暴雨一药店被淹女店员不幸遇难",
+        "onboard_time": 1718870240,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330796,
+        "num": 330796,
+        "word": "傅家明因病去世",
+        "onboard_time": 1718859919,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303461,
+        "num": 303461,
+        "word": "薛芳菲头发梳上去了",
+        "onboard_time": 1718869039,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282322,
+        "num": 282322,
+        "word": "manner",
+        "onboard_time": 1718865197,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252627,
+        "num": 252627,
+        "word": "直击南方多地暴雨现场",
+        "onboard_time": 1718865917,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207858,
+        "num": 207858,
+        "word": "停摆的桂林火车站现状",
+        "onboard_time": 1718872579,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200689,
+        "num": 200689,
+        "word": "官方辟谣发射3000枚增雨弹引发暴雨",
+        "onboard_time": 1718875039,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273977,
+        "num": 197881,
+        "word": "陈妍希新综艺或将近期播出",
+        "onboard_time": 1718875818,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243843,
+        "num": 188376,
+        "word": "小城焕日 刘亦菲",
+        "onboard_time": 1718875278,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237435,
+        "num": 184029,
+        "word": "黄亦玫离婚海报",
+        "onboard_time": 1718855959,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233052,
+        "num": 178438,
+        "word": "吴谨言翻红",
+        "onboard_time": 1718874439,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175736,
+        "num": 175736,
+        "word": "文科生 中医",
+        "onboard_time": 1718874198,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212034,
+        "num": 175733,
+        "word": "赵露思熟女千金风",
+        "onboard_time": 1718874319,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205792,
+        "num": 175645,
+        "word": "王星越上午肃国公下午萧北冥",
+        "onboard_time": 1718872697,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178434,
+        "num": 175639,
+        "word": "阳阳 15万让大家认识陈飞宇",
+        "onboard_time": 1718867239,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175534,
+        "num": 175534,
+        "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
+        "onboard_time": 1718875278,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10362,
+        "num": 174707,
+        "word": "印度医学高考曝大规模作弊",
+        "onboard_time": 1718875998,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173975,
+        "num": 173975,
+        "word": "颜心记 空降",
+        "onboard_time": 1718860998,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169621,
+        "num": 169621,
+        "word": "中马互相延长免签政策",
+        "onboard_time": 1718874918,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158672,
+        "num": 158672,
+        "word": "张杰曾说不敢在鸟巢开演唱会",
+        "onboard_time": 1718866639,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158116,
+        "num": 158116,
+        "word": "7个摄影师都追不上万茜",
+        "onboard_time": 1718873539,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156358,
+        "num": 156358,
+        "word": "艾尔登法环",
+        "onboard_time": 1718875519,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16071,
+        "num": 154206,
+        "word": "不止于世界第二",
+        "onboard_time": 1718870719,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152717,
+        "num": 152717,
+        "word": "陈鑫海演出了叶世杰暗恋感",
+        "onboard_time": 1718874378,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144820,
+        "num": 144820,
+        "word": "专业报考指南",
+        "onboard_time": 1718875580,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142683,
+        "num": 142683,
+        "word": "江西洪涝灾害已致67万人受灾",
+        "onboard_time": 1718873238,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142466,
+        "num": 142466,
+        "word": "歌手歌单",
+        "onboard_time": 1718855840,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141990,
+        "num": 141990,
+        "word": "孙杨未入选巴黎奥运会运动员名单",
+        "onboard_time": 1718860698,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139298,
+        "num": 139298,
+        "word": "学医后才知道人体有多脆弱",
+        "onboard_time": 1718872160,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137170,
+        "num": 137170,
+        "word": "墨雨云间吻戏呢",
+        "onboard_time": 1718873898,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "张真源被粉丝夸害羞了",
+        "onboard_time": 1718875099,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132044,
+        "num": 132044,
+        "word": "霉霉 抹鼻涕",
+        "onboard_time": 1718874557,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131087,
+        "num": 131087,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1718863998,
+        "rank": 45,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 131085,
+        "num": 131085,
+        "word": "婉宁这种疯女人就得薛芳菲来",
+        "onboard_time": 1718873660,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123099,
+        "num": 123099,
+        "word": "专家称鼓励农民投资A股够损的",
+        "onboard_time": 1718873417,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111367,
+        "num": 111367,
+        "word": "清华刑法学教授谈姜萍遭质疑",
+        "onboard_time": 1718868318,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108751,
+        "num": 108751,
+        "word": "吴谨言回应墨雨云间借位吻戏",
+        "onboard_time": 1718876059,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续推进青藏高原生态保护和高质量发展#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718875365594,
+  "endTime": 1718876079926,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1463259,
-      "num": 1197985,
+      "num": 1224367,
       "word": "叶海洋双胞胎",
       "onboard_time": 1718869820,
       "rank": 3,
@@ -123,7 +123,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 948392,
+      "raw_hot": 958601,
       "num": 451004,
       "word": "女性私处过度清洁反而更容易患病",
       "onboard_time": 1718872098,
@@ -153,6 +153,14 @@
       "onboard_time": 1718808859,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 824360,
+      "num": 450680,
+      "word": "谢娜在女儿毕业典礼上哭了",
+      "onboard_time": 1718873838,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 824143,
@@ -249,14 +257,6 @@
       "onboard_time": 1718866459,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 678068,
-      "num": 450680,
-      "word": "谢娜在女儿毕业典礼上哭了",
-      "onboard_time": 1718873838,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 677382,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500185,
+      "num": 500185,
+      "word": "魏大勋韩国出发录制奔跑吧",
+      "onboard_time": 1718872878,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496922,
       "num": 496922,
       "word": "桂林暴雨一药店被淹女店员不幸遇难",
@@ -411,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 475093,
-      "num": 475093,
-      "word": "魏大勋韩国出发录制奔跑吧",
-      "onboard_time": 1718872878,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 476064,
+      "num": 444795,
+      "word": "哥哥太爱我了怎么办",
+      "onboard_time": 1718872218,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 446484,
@@ -425,14 +433,6 @@
       "onboard_time": 1718871198,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 444795,
-      "num": 444795,
-      "word": "哥哥太爱我了怎么办",
-      "onboard_time": 1718872218,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 439189,
@@ -675,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273977,
+      "num": 197881,
+      "word": "陈妍希新综艺或将近期播出",
+      "onboard_time": 1718875818,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270706,
       "num": 270706,
       "word": "德国2比0匈牙利",
@@ -777,6 +785,14 @@
       "onboard_time": 1718865077,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243843,
+      "num": 188376,
+      "word": "小城焕日 刘亦菲",
+      "onboard_time": 1718875278,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 243245,
@@ -1017,6 +1033,14 @@
       "onboard_time": 1718856378,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200689,
+      "num": 200689,
+      "word": "官方辟谣发射3000枚增雨弹引发暴雨",
+      "onboard_time": 1718875039,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199713,
@@ -1267,12 +1291,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175736,
+      "num": 175736,
+      "word": "文科生 中医",
+      "onboard_time": 1718874198,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 175534,
+      "num": 175534,
+      "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
+      "onboard_time": 1718875278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170588,
       "num": 170588,
       "word": "7个摄影师都追不上万茜",
       "onboard_time": 1718873539,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169621,
+      "num": 169621,
+      "word": "中马互相延长免签政策",
+      "onboard_time": 1718874918,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 169121,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1718846957,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164338,
-      "num": 164338,
-      "word": "文科生 中医",
-      "onboard_time": 1718874198,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 164234,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1718865139,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 156358,
+      "num": 156358,
+      "word": "艾尔登法环",
+      "onboard_time": 1718875519,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 156065,
@@ -1491,12 +1539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143322,
-      "num": 143322,
-      "word": "中马互相延长免签政策",
-      "onboard_time": 1718874918,
+      "raw_hot": 144820,
+      "num": 144820,
+      "word": "专业报考指南",
+      "onboard_time": 1718875580,
       "rank": 37,
-      "category": "体育"
+      "category": "教育"
     },
     {
       "raw_hot": 143099,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1718864598,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133476,
+      "num": 133476,
+      "word": "张真源被粉丝夸害羞了",
+      "onboard_time": 1718875099,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 132326,
@@ -1667,14 +1723,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 125018,
-      "num": 125018,
-      "word": "张真源被粉丝夸害羞了",
-      "onboard_time": 1718875099,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124901,
       "num": 124901,
       "word": "梁静茹演唱会柱子票案一审宣判",
@@ -1723,20 +1771,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123199,
-      "num": 123199,
-      "word": "官方辟谣发射3000枚增雨弹引发暴雨",
-      "onboard_time": 1718875039,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122972,
-      "num": 122972,
-      "word": "小城焕日 刘亦菲",
-      "onboard_time": 1718875278,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 123099,
+      "num": 123099,
+      "word": "专家称鼓励农民投资A股够损的",
+      "onboard_time": 1718873417,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 122193,
@@ -1753,14 +1793,6 @@
       "onboard_time": 1718870059,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121228,
-      "num": 121228,
-      "word": "专家称鼓励农民投资A股够损的",
-      "onboard_time": 1718873417,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 119974,
@@ -1843,14 +1875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114327,
-      "num": 114327,
-      "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
-      "onboard_time": 1718875278,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113391,
       "num": 113391,
       "word": "乡干部为4名绕道考生挖通赶考路",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1718839096,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108751,
+      "num": 108751,
+      "word": "吴谨言回应墨雨云间借位吻戏",
+      "onboard_time": 1718876059,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107922,
@@ -2108,7 +2140,7 @@
     },
     {
       "raw_hot": 85688,
-      "num": 451818,
+      "num": 459217,
       "word": "桂江发生超历史实测纪录洪水",
       "onboard_time": 1718874557,
       "rank": 9,
@@ -2251,6 +2283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 62756,
+      "num": 992373,
+      "word": "全国首个核能供汽投产",
+      "onboard_time": 1718871738,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62513,
       "num": 93896,
       "word": "被嫌弃的黄牙多数是正常牙齿颜色",
@@ -2368,14 +2408,6 @@
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36422,
-      "num": 992373,
-      "word": "全国首个核能供汽投产",
-      "onboard_time": 1718871738,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2505,6 +2537,14 @@
       "onboard_time": 1718807301,
       "rank": 9,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 10362,
+      "num": 174707,
+      "word": "印度医学高考曝大规模作弊",
+      "onboard_time": 1718875998,
+      "rank": 29,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2522,6 +2562,9 @@
     },
     {
       "word": "#把青藏高原建设成为生态文明高地#"
+    },
+    {
+      "word": "#持续推进青藏高原生态保护和高质量发展#"
     }
   ]
 }
