@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718904865762,
+  "endTime": 1718907992341,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -419,10 +419,50 @@
       "category": "财经,数码"
     },
     {
-      "raw_hot": 14206,
+      "raw_hot": 41930,
+      "num": 41930,
+      "word": "黄山洪水",
+      "onboard_time": 1718905393,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35645,
+      "num": 35645,
+      "word": "能预知灾难是幸运还是不幸",
+      "onboard_time": 1718905032,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34947,
+      "num": 34947,
+      "word": "薛之谦巡回演唱会官宣北京站",
+      "onboard_time": 1718905214,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 29372,
+      "num": 33962,
+      "word": "周雨彤酒杯比脸大",
+      "onboard_time": 1718906652,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27753,
       "num": 159661,
       "word": "酒商称如今一箱赚几块就不错",
       "onboard_time": 1718904314,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 14471,
+      "num": 95673,
+      "word": "酒水批发市场怎么卖不动酒了",
+      "onboard_time": 1718906172,
       "rank": 9,
       "category": "财经"
     },

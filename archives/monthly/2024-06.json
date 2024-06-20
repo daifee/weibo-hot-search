@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718904865762,
+  "endTime": 1718907992341,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -56347,6 +56347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 41930,
+      "num": 41930,
+      "word": "黄山洪水",
+      "onboard_time": 1718905393,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41920,
       "num": 444379,
       "word": "原来大熊猫爱干净也是娘胎里带的",
@@ -57147,6 +57155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35645,
+      "num": 35645,
+      "word": "能预知灾难是幸运还是不幸",
+      "onboard_time": 1718905032,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35590,
       "num": 881944,
       "word": "航拍视角看三北工程",
@@ -57233,6 +57249,14 @@
       "onboard_time": 1717888153,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 34947,
+      "num": 34947,
+      "word": "薛之谦巡回演唱会官宣北京站",
+      "onboard_time": 1718905214,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 34706,
@@ -57883,6 +57907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29372,
+      "num": 33962,
+      "word": "周雨彤酒杯比脸大",
+      "onboard_time": 1718906652,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29309,
       "num": 204250,
       "word": "167人多等29分钟却跑赢了生命接力",
@@ -58065,6 +58097,14 @@
       "onboard_time": 1718455938,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 27753,
+      "num": 159661,
+      "word": "酒商称如今一箱赚几块就不错",
+      "onboard_time": 1718904314,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 27654,
@@ -59379,6 +59419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14471,
+      "num": 95673,
+      "word": "酒水批发市场怎么卖不动酒了",
+      "onboard_time": 1718906172,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 14391,
       "num": 21680,
       "word": "RIIZE新歌试听",
@@ -59401,14 +59449,6 @@
       "onboard_time": 1718644873,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 14206,
-      "num": 159661,
-      "word": "酒商称如今一箱赚几块就不错",
-      "onboard_time": 1718904314,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 14181,
