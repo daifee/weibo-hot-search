@@ -1,0 +1,410 @@
+{
+  "runTime": 1718847612149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1409930,
+        "num": 1409930,
+        "word": "财政部 半夜出成绩",
+        "onboard_time": 1718839876,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 938536,
+        "num": 938536,
+        "word": "黄亦玫到离婚都没穿上婚纱",
+        "onboard_time": 1718840356,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42192,
+        "num": 761461,
+        "word": "中部崛起新动力",
+        "onboard_time": 1718803520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712088,
+        "num": 712088,
+        "word": "玫瑰的故事最炸裂的台词出现了",
+        "onboard_time": 1718808321,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500840,
+        "num": 500840,
+        "word": "休个病假绩效没了年假扣了",
+        "onboard_time": 1718842098,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364538,
+        "num": 364538,
+        "word": "12306回应桂林火车站暂停客运业务",
+        "onboard_time": 1718842459,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609347,
+        "num": 359001,
+        "word": "刘亦菲狼尾造型",
+        "onboard_time": 1718845577,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 352330,
+        "num": 352330,
+        "word": "女孩秋千跌落身亡设备公司判赔107万",
+        "onboard_time": 1718809519,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323885,
+        "num": 323885,
+        "word": "霍建华四集就下线了",
+        "onboard_time": 1718839937,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155549,
+        "num": 318119,
+        "word": "桂林火车站因积水内涝暂停客运业务",
+        "onboard_time": 1718846119,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398796,
+        "num": 318016,
+        "word": "周杰伦再现华流就是最棒的",
+        "onboard_time": 1718846479,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329029,
+        "num": 317983,
+        "word": "外国人吃中餐一人一盘",
+        "onboard_time": 1718841857,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317803,
+        "num": 317803,
+        "word": "将门毒后",
+        "onboard_time": 1718808859,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314425,
+        "num": 314425,
+        "word": "黄亦玫是真的生气了",
+        "onboard_time": 1718841439,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274790,
+        "num": 274790,
+        "word": "军迷用无人机拍高清新型军舰获刑",
+        "onboard_time": 1718841977,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252272,
+        "num": 252272,
+        "word": "桂林",
+        "onboard_time": 1718846719,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248954,
+        "num": 248954,
+        "word": "桂林市区漓江水倒灌",
+        "onboard_time": 1718847137,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237339,
+        "num": 237339,
+        "word": "杨紫ins认证",
+        "onboard_time": 1718842939,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235502,
+        "num": 235502,
+        "word": "被公交站台的手写信感动到了",
+        "onboard_time": 1718846657,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226443,
+        "num": 226443,
+        "word": "一家7口套现20亿",
+        "onboard_time": 1718791759,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1021213,
+        "num": 220145,
+        "word": "胡锡进 不信姜萍与老师共谋惊天骗局",
+        "onboard_time": 1718844739,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549299,
+        "num": 214704,
+        "word": "结婚前一定要聊的10件事",
+        "onboard_time": 1718843480,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442060,
+        "num": 211299,
+        "word": "医院抽出来的血最终会去哪里",
+        "onboard_time": 1718839996,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 243245,
+        "num": 200788,
+        "word": "男子携带454只濒危乌龟入境被查",
+        "onboard_time": 1718845821,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199781,
+        "num": 199781,
+        "word": "塑料手镯被奶奶当宝贝戴了17年",
+        "onboard_time": 1718840597,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199608,
+        "num": 199608,
+        "word": "逃离家暴的女网红想离婚被开价50万",
+        "onboard_time": 1718823612,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199330,
+        "num": 199330,
+        "word": "菲律宾",
+        "onboard_time": 1718840297,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198118,
+        "num": 198118,
+        "word": "姜萍黑板题目的详细解析",
+        "onboard_time": 1718846299,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194737,
+        "num": 194737,
+        "word": "为啥有人长得很好看但拍照一笑就崩",
+        "onboard_time": 1718846657,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 186009,
+        "num": 186009,
+        "word": "泰国游客为什么不爱去韩国了",
+        "onboard_time": 1718846119,
+        "rank": 29,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 169653,
+        "num": 169653,
+        "word": "胖哪都不要胖肚子",
+        "onboard_time": 1718805740,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167524,
+        "num": 167524,
+        "word": "贫血和气血不足是两个概念",
+        "onboard_time": 1718839876,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160395,
+        "num": 160395,
+        "word": "英雄联盟新英雄阿萝拉",
+        "onboard_time": 1718846957,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151841,
+        "num": 151841,
+        "word": "风扇和空调一起开能省电",
+        "onboard_time": 1718843480,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144792,
+        "num": 144792,
+        "word": "外交部回应中国游泳运动员兴奋剂阳性",
+        "onboard_time": 1718807360,
+        "rank": 34,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 136310,
+        "num": 136310,
+        "word": "凌晨2点百人打手电摘杨梅现场壮观",
+        "onboard_time": 1718847378,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131307,
+        "num": 131307,
+        "word": "最帅升旗手放弃体制内工作扎根农业",
+        "onboard_time": 1718844620,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127640,
+        "num": 127640,
+        "word": "柯佳嬿回应前男友王柏杰酒驾",
+        "onboard_time": 1718840178,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126386,
+        "num": 126386,
+        "word": "德国2比0匈牙利",
+        "onboard_time": 1718838975,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126219,
+        "num": 126219,
+        "word": "iOS18允许第三方APP录制空间视频",
+        "onboard_time": 1718846359,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125349,
+        "num": 125349,
+        "word": "苏苏结过婚",
+        "onboard_time": 1718805260,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107922,
+        "num": 107922,
+        "word": "00后女大学生毕业在边境当工程师",
+        "onboard_time": 1718847439,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107750,
+        "num": 107750,
+        "word": "向广西紧急调拨3万件中央救灾物资",
+        "onboard_time": 1718846180,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107138,
+        "num": 107138,
+        "word": "黄亦玫 情绪稳定",
+        "onboard_time": 1718846180,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97170,
+        "num": 97170,
+        "word": "适量排汗有利于健康",
+        "onboard_time": 1718847018,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96040,
+        "num": 96040,
+        "word": "赵露思把耳机挂腰上",
+        "onboard_time": 1718801181,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94502,
+        "num": 94502,
+        "word": "福建暴雨武警消防徒步给村民送物资",
+        "onboard_time": 1718842579,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94005,
+        "num": 94005,
+        "word": "克罗地亚2比2阿尔巴尼亚",
+        "onboard_time": 1718810359,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91961,
+        "num": 91961,
+        "word": "吴谨言收到爽文女主第一名奖状",
+        "onboard_time": 1718847558,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91021,
+        "num": 91021,
+        "word": "桂林一级防汛应急响应",
+        "onboard_time": 1718841977,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委政治工作会议在延安召开#"
+    }
+  }
+}

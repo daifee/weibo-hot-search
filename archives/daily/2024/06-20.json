@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718846366499,
+  "endTime": 1718847612149,
   "band_list": [
     {
       "raw_hot": 1676473,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1021213,
+      "num": 220145,
+      "word": "胡锡进 不信姜萍与老师共谋惊天骗局",
+      "onboard_time": 1718844739,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1011294,
       "num": 1011294,
       "word": "黄亦玫到离婚都没穿上婚纱",
@@ -33,14 +41,6 @@
       "onboard_time": 1718808859,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 809657,
-      "num": 219588,
-      "word": "胡锡进 不信姜萍与老师共谋惊天骗局",
-      "onboard_time": 1718844739,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 725189,
@@ -59,12 +59,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 609347,
+      "num": 366395,
+      "word": "刘亦菲狼尾造型",
+      "onboard_time": 1718845577,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 564990,
       "num": 216007,
       "word": "医院抽出来的血最终会去哪里",
       "onboard_time": 1718839996,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 549299,
+      "num": 214704,
+      "word": "结婚前一定要聊的10件事",
+      "onboard_time": 1718843480,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 510039,
@@ -115,12 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 381296,
-      "num": 366395,
-      "word": "刘亦菲狼尾造型",
-      "onboard_time": 1718845577,
+      "raw_hot": 398796,
+      "num": 318016,
+      "word": "周杰伦再现华流就是最棒的",
+      "onboard_time": 1718846479,
       "rank": 10,
-      "category": "剧集"
+      "category": "综艺"
     },
     {
       "raw_hot": 377711,
@@ -139,14 +155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 366412,
-      "num": 213977,
-      "word": "结婚前一定要聊的10件事",
-      "onboard_time": 1718843480,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 344697,
       "num": 344697,
       "word": "克罗地亚2比2阿尔巴尼亚",
@@ -163,7 +171,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 327723,
+      "raw_hot": 329029,
       "num": 327723,
       "word": "外国人吃中餐一人一盘",
       "onboard_time": 1718841857,
@@ -219,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252272,
+      "num": 252272,
+      "word": "桂林",
+      "onboard_time": 1718846719,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251005,
       "num": 112306,
       "word": "湖南为什么是香港的菜篮子",
@@ -232,6 +248,22 @@
       "word": "桂林火车站因积水内涝暂停客运业务",
       "onboard_time": 1718846119,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 248954,
+      "num": 248954,
+      "word": "桂林市区漓江水倒灌",
+      "onboard_time": 1718847137,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243245,
+      "num": 200788,
+      "word": "男子携带454只濒危乌龟入境被查",
+      "onboard_time": 1718845821,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -249,6 +281,14 @@
       "onboard_time": 1718801181,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235502,
+      "num": 235502,
+      "word": "被公交站台的手写信感动到了",
+      "onboard_time": 1718846657,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 229699,
@@ -291,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198118,
+      "num": 198118,
+      "word": "姜萍黑板题目的详细解析",
+      "onboard_time": 1718846299,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196838,
       "num": 196838,
       "word": "风扇和空调一起开能省电",
@@ -305,6 +353,14 @@
       "onboard_time": 1718804600,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194737,
+      "num": 194737,
+      "word": "为啥有人长得很好看但拍照一笑就崩",
+      "onboard_time": 1718846657,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 193423,
@@ -331,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186009,
+      "num": 186009,
+      "word": "泰国游客为什么不爱去韩国了",
+      "onboard_time": 1718846119,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 185076,
       "num": 185076,
       "word": "孟子义和徐志胜差点有吻戏",
@@ -347,12 +411,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172500,
-      "num": 172500,
-      "word": "男子携带454只濒危乌龟入境被查",
-      "onboard_time": 1718845821,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 160395,
+      "num": 160395,
+      "word": "英雄联盟新英雄阿萝拉",
+      "onboard_time": 1718846957,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 156065,
@@ -379,20 +443,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137420,
-      "num": 137420,
-      "word": "泰国游客为什么不爱去韩国了",
-      "onboard_time": 1718846119,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 136425,
       "num": 136425,
       "word": "莫德里奇老了",
       "onboard_time": 1718807239,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136310,
+      "num": 136310,
+      "word": "凌晨2点百人打手电摘杨梅现场壮观",
+      "onboard_time": 1718847378,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126219,
+      "num": 126219,
+      "word": "iOS18允许第三方APP录制空间视频",
+      "onboard_time": 1718846359,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 124864,
@@ -491,6 +563,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107922,
+      "num": 107922,
+      "word": "00后女大学生毕业在边境当工程师",
+      "onboard_time": 1718847439,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107750,
+      "num": 107750,
+      "word": "向广西紧急调拨3万件中央救灾物资",
+      "onboard_time": 1718846180,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107138,
+      "num": 107138,
+      "word": "黄亦玫 情绪稳定",
+      "onboard_time": 1718846180,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106909,
       "num": 106909,
       "word": "初级会计终于出成绩了",
@@ -513,14 +609,6 @@
       "onboard_time": 1718799018,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 103699,
-      "num": 103699,
-      "word": "黄亦玫 情绪稳定",
-      "onboard_time": 1718846180,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 101436,
@@ -579,20 +667,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97170,
+      "num": 97170,
+      "word": "适量排汗有利于健康",
+      "onboard_time": 1718847018,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96360,
       "num": 96360,
       "word": "墨雨云间34集预告",
       "onboard_time": 1718808801,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95476,
-      "num": 95476,
-      "word": "向广西紧急调拨3万件中央救灾物资",
-      "onboard_time": 1718846180,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95365,
@@ -611,12 +699,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92313,
-      "num": 92313,
-      "word": "姜萍黑板题目的详细解析",
-      "onboard_time": 1718846299,
-      "rank": 49,
+      "raw_hot": 94502,
+      "num": 94502,
+      "word": "福建暴雨武警消防徒步给村民送物资",
+      "onboard_time": 1718842579,
+      "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91961,
+      "num": 91961,
+      "word": "吴谨言收到爽文女主第一名奖状",
+      "onboard_time": 1718847558,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 91298,
