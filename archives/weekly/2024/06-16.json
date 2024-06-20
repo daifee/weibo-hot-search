@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718889700915,
+  "endTime": 1718890503197,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -739,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1119188,
+      "num": 1119188,
+      "word": "黄亦玫生娃摸鼻子是刘亦菲即兴发挥",
+      "onboard_time": 1718888178,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1118593,
       "num": 285864,
       "word": "有了微信小号才发现朋友圈的意义",
@@ -1075,14 +1083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 903795,
-      "num": 319969,
-      "word": "黄亦玫生娃摸鼻子是刘亦菲即兴发挥",
-      "onboard_time": 1718888178,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 902628,
       "num": 902628,
       "word": "人人都爱玫瑰其实是假象",
@@ -1356,7 +1356,7 @@
     },
     {
       "raw_hot": 779108,
-      "num": 273777,
+      "num": 292638,
       "word": "男朋友竟然让我多要点彩礼",
       "onboard_time": 1718881577,
       "rank": 21,
@@ -1628,7 +1628,7 @@
     },
     {
       "raw_hot": 699531,
-      "num": 293585,
+      "num": 350281,
       "word": "刘亦菲裸背",
       "onboard_time": 1718888178,
       "rank": 16,
@@ -2017,6 +2017,14 @@
       "onboard_time": 1718540118,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 600164,
+      "num": 345099,
+      "word": "黄亦玫手撕恶婆婆",
+      "onboard_time": 1718889799,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 598676,
@@ -2657,6 +2665,14 @@
       "onboard_time": 1718791879,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 507729,
+      "num": 343051,
+      "word": "贵州男子砍老婆17刀",
+      "onboard_time": 1718889199,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 504498,
@@ -4731,6 +4747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304016,
+      "num": 290242,
+      "word": "刘亦菲发黄玫瑰微博表情",
+      "onboard_time": 1718889078,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302524,
       "num": 302524,
       "word": "曾经的英专生现在做什么",
@@ -4793,6 +4817,14 @@
       "onboard_time": 1718579535,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297489,
+      "num": 297489,
+      "word": "发现我妈是天生留子圣体",
+      "onboard_time": 1718888299,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 297373,
@@ -4899,14 +4931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 290442,
-      "num": 273550,
-      "word": "刘亦菲发黄玫瑰微博表情",
-      "onboard_time": 1718889078,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290332,
       "num": 200626,
       "word": "刘亦菲同一件衣服不同状态",
@@ -4937,6 +4961,14 @@
       "onboard_time": 1718590817,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 287693,
+      "num": 287693,
+      "word": "王星越回应和吴谨言二搭",
+      "onboard_time": 1718887216,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 286556,
@@ -5211,14 +5243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 273003,
-      "num": 273003,
-      "word": "王星越回应和吴谨言二搭",
-      "onboard_time": 1718887216,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 272935,
       "num": 272935,
       "word": "狗狗偷偷戴上了奶奶的假牙",
@@ -5379,6 +5403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264058,
+      "num": 324974,
+      "word": "免收学费就业率贼高的神仙专业",
+      "onboard_time": 1718887216,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 263855,
       "num": 172986,
       "word": "苏醒 牛粪事件受害者",
@@ -5401,14 +5433,6 @@
       "onboard_time": 1718669719,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262581,
-      "num": 262581,
-      "word": "发现我妈是天生留子圣体",
-      "onboard_time": 1718888299,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 262193,
@@ -5643,6 +5667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247763,
+      "num": 247763,
+      "word": "北大回应网传复旦打老师男生被录取",
+      "onboard_time": 1718889739,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247190,
       "num": 247190,
       "word": "桂林洪水现场情况",
@@ -5811,20 +5843,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238170,
+      "num": 238170,
+      "word": "吴谨言今天请了三个剧组喝奶茶",
+      "onboard_time": 1718889799,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238138,
       "num": 238138,
       "word": "女帝来了也得加班",
       "onboard_time": 1718597900,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237668,
-      "num": 237668,
-      "word": "贵州男子砍老婆17刀",
-      "onboard_time": 1718889199,
-      "rank": 27,
-      "category": "社会负面"
     },
     {
       "raw_hot": 237616,
@@ -7323,6 +7355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 193562,
+      "num": 193562,
+      "word": "胡锡进今天跌了7471元",
+      "onboard_time": 1718887579,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193423,
       "num": 193423,
       "word": "黄亦玫方协文哄娃36计",
@@ -7507,14 +7547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190608,
-      "num": 190608,
-      "word": "胡锡进今天跌了7471元",
-      "onboard_time": 1718887579,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 190606,
       "num": 190606,
       "word": "陈乔恩录制跑男",
@@ -7593,6 +7625,14 @@
       "onboard_time": 1718857761,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188880,
+      "num": 188880,
+      "word": "巨蟹座生日",
+      "onboard_time": 1718888899,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 188341,
@@ -8065,14 +8105,6 @@
       "onboard_time": 1718506338,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 180261,
-      "num": 324974,
-      "word": "免收学费就业率贼高的神仙专业",
-      "onboard_time": 1718887216,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 180045,
@@ -9571,6 +9603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152879,
+      "num": 152879,
+      "word": "周深秒猜魑魅魍魉",
+      "onboard_time": 1718890098,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152698,
       "num": 152698,
       "word": "花儿与少年好友记",
@@ -10475,20 +10515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136085,
+      "num": 136085,
+      "word": "DYG对战JDG",
+      "onboard_time": 1718888118,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136063,
       "num": 136063,
       "word": "边佑锡Prada",
       "onboard_time": 1718589437,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135919,
-      "num": 135919,
-      "word": "巨蟹座生日",
-      "onboard_time": 1718888899,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 135745,
@@ -11051,6 +11091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128876,
+      "num": 128876,
+      "word": "黄亦玫傅家明病床吻",
+      "onboard_time": 1718889618,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128849,
       "num": 128849,
       "word": "电影红楼梦定档",
@@ -11257,6 +11305,14 @@
       "onboard_time": 1718695578,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126925,
+      "num": 126925,
+      "word": "这种小区没有一天我走不出来",
+      "onboard_time": 1718889139,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 126524,
@@ -11657,14 +11713,6 @@
       "onboard_time": 1718808500,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122046,
-      "num": 122046,
-      "word": "这种小区没有一天我走不出来",
-      "onboard_time": 1718889139,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 121832,
@@ -12219,14 +12267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111486,
-      "num": 111486,
-      "word": "DYG对战JDG",
-      "onboard_time": 1718888118,
-      "rank": 47,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 111350,
       "num": 111350,
       "word": "逆水寒",
@@ -12473,14 +12513,6 @@
       "onboard_time": 1718671639,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107625,
-      "num": 107625,
-      "word": "黄亦玫傅家明病床吻",
-      "onboard_time": 1718889618,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 107497,
@@ -13009,6 +13041,14 @@
       "onboard_time": 1718847018,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96828,
+      "num": 301712,
+      "word": "福宝会对暗号了",
+      "onboard_time": 1718889439,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96730,
@@ -13843,6 +13883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67190,
+      "num": 353602,
+      "word": "为什么不建议左撇子考口腔医学",
+      "onboard_time": 1718890220,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 67102,
       "num": 474075,
       "word": "捉刘亦菲同款宠物",
@@ -14001,14 +14049,6 @@
       "onboard_time": 1718788400,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 61018,
-      "num": 301712,
-      "word": "福宝会对暗号了",
-      "onboard_time": 1718889439,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60848,
@@ -14723,6 +14763,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 37724,
+      "num": 333795,
+      "word": "法学专业除了当律师还能做什么",
+      "onboard_time": 1718888418,
+      "rank": 14,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 37519,
       "num": 393722,
       "word": "台湾姑娘跳中国舞被小朋友夸特别美",
@@ -15081,14 +15129,6 @@
       "onboard_time": 1718516356,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 28364,
-      "num": 314805,
-      "word": "法学专业除了当律师还能做什么",
-      "onboard_time": 1718888418,
-      "rank": 14,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 28202,
