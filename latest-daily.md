@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 03:34:12
+本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 04:20:04
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%904%E5%B9%B4%E9%97%B4%E5%85%88%E5%90%8E%E6%9F%A5%E5%87%BA3%E7%A7%8D%E7%99%8C%23" target="weibo">
+女子4年间先后查出3种癌（热度：21703）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E6%94%B6%E5%AD%A6%E8%B4%B9%E5%B0%B1%E4%B8%9A%E7%8E%87%E8%B4%BC%E9%AB%98%E7%9A%84%E7%A5%9E%E4%BB%99%E4%B8%93%E4%B8%9A%23" target="weibo">
 免收学费就业率贼高的神仙专业（热度：16150）
 </a>
@@ -383,6 +389,12 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E5%96%8A%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%8E%8B%E5%93%A5%23" target="weibo">
 吴谨言喊王星越王哥（热度：13964）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%98%E7%A7%80%E5%AD%A6%E9%95%BF%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
+优秀学长樊振东（热度：12894）
 </a>
 </li>
 
