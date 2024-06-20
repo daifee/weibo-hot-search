@@ -1,0 +1,410 @@
+{
+  "runTime": 1718853720054,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1849141,
+        "num": 1849141,
+        "word": "贾玲成为lululemon品牌大使",
+        "onboard_time": 1718851638,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1394417,
+        "num": 1394417,
+        "word": "桂林洪水",
+        "onboard_time": 1718848456,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22933,
+        "num": 1138233,
+        "word": "中部崛起新动力",
+        "onboard_time": 1718803520,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929668,
+        "num": 929668,
+        "word": "女子因父母拒绝签字被困精神病院十年",
+        "onboard_time": 1718851638,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876227,
+        "num": 876227,
+        "word": "霍建华非要看霍建华老了的热搜",
+        "onboard_time": 1718849597,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 711052,
+        "num": 711052,
+        "word": "尹锡悦称再不生娃韩国会走向灭绝",
+        "onboard_time": 1718850378,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 779118,
+        "num": 643688,
+        "word": "菲常萧张的女儿",
+        "onboard_time": 1718851577,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474997,
+        "num": 474997,
+        "word": "财政部 半夜出成绩",
+        "onboard_time": 1718839876,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 565448,
+        "num": 473698,
+        "word": "黄亦玫到离婚都没穿上婚纱",
+        "onboard_time": 1718840356,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80698,
+        "num": 468336,
+        "word": "以歌之名祝福青春",
+        "onboard_time": 1718852719,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746899,
+        "num": 465178,
+        "word": "仅两款iPhone可使用苹果AI",
+        "onboard_time": 1718850199,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 482769,
+        "num": 463940,
+        "word": "墨雨云间番外",
+        "onboard_time": 1718852599,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461534,
+        "num": 461534,
+        "word": "韩国女性为何不愿生孩子",
+        "onboard_time": 1718850857,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 426842,
+        "num": 426842,
+        "word": "玫瑰的故事最炸裂的台词出现了",
+        "onboard_time": 1718808321,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388146,
+        "num": 388146,
+        "word": "Uzi疑似复出",
+        "onboard_time": 1718850977,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 348230,
+        "num": 348230,
+        "word": "Uzi WE",
+        "onboard_time": 1718852178,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 334778,
+        "num": 334778,
+        "word": "官方通报公职人员开车顶人",
+        "onboard_time": 1718848219,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306978,
+        "num": 306978,
+        "word": "刘亦菲狼尾造型",
+        "onboard_time": 1718845577,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 285013,
+        "num": 285013,
+        "word": "贾玲露腰T恤",
+        "onboard_time": 1718853379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264457,
+        "num": 264457,
+        "word": "周鸿祎990万元卖迈巴赫后续",
+        "onboard_time": 1718848398,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266127,
+        "num": 260636,
+        "word": "年轻人买黄金到底是在买什么",
+        "onboard_time": 1718848998,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254416,
+        "num": 254416,
+        "word": "GAI劝rapper回去考研",
+        "onboard_time": 1718849896,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253384,
+        "num": 253384,
+        "word": "王星越穿戏服上班",
+        "onboard_time": 1718851219,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244245,
+        "num": 244245,
+        "word": "王者荣耀国际服",
+        "onboard_time": 1718852898,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243810,
+        "num": 243810,
+        "word": "巴黎奥运会或成为有史以来最热一届",
+        "onboard_time": 1718851458,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240136,
+        "num": 240136,
+        "word": "墨雨云间",
+        "onboard_time": 1718852356,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237332,
+        "num": 237332,
+        "word": "结婚和离婚的都变少了",
+        "onboard_time": 1718839817,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217366,
+        "num": 217366,
+        "word": "傅家明黄亦玫十年前就灵魂共鸣了",
+        "onboard_time": 1718851757,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211468,
+        "num": 211468,
+        "word": "小龙虾的虾黄为啥不能吃",
+        "onboard_time": 1718849297,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 200850,
+        "num": 200850,
+        "word": "TF家族运动会 特权码",
+        "onboard_time": 1718853318,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199107,
+        "num": 199107,
+        "word": "医院抽出来的血最终会去哪里",
+        "onboard_time": 1718839996,
+        "rank": 30,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 180711,
+        "num": 180711,
+        "word": "周杰伦再现华流就是最棒的",
+        "onboard_time": 1718846479,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180655,
+        "num": 180655,
+        "word": "惠若琪博士毕业",
+        "onboard_time": 1718853019,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180148,
+        "num": 180148,
+        "word": "国产新能源车卖78.9万贵不贵",
+        "onboard_time": 1718850676,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178425,
+        "num": 178425,
+        "word": "结婚前一定要聊的10件事",
+        "onboard_time": 1718843480,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170191,
+        "num": 170191,
+        "word": "将门毒后",
+        "onboard_time": 1718808859,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163018,
+        "num": 163018,
+        "word": "桂林市区漓江水倒灌",
+        "onboard_time": 1718847137,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155407,
+        "num": 155407,
+        "word": "吴谨言收到爽文女主第一名奖状",
+        "onboard_time": 1718847558,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148995,
+        "num": 148995,
+        "word": "为啥有人长得很好看但拍照一笑就崩",
+        "onboard_time": 1718846657,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 144525,
+        "num": 144525,
+        "word": "休个病假绩效没了年假扣了",
+        "onboard_time": 1718842098,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139126,
+        "num": 139126,
+        "word": "苏醒曾预言张远上歌手",
+        "onboard_time": 1718848277,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133413,
+        "num": 133413,
+        "word": "凌晨2点百人打手电摘杨梅现场壮观",
+        "onboard_time": 1718847378,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132326,
+        "num": 132326,
+        "word": "下雨天学生把伞送给执勤交警",
+        "onboard_time": 1718850797,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125479,
+        "num": 125479,
+        "word": "黄亦玫是真的生气了",
+        "onboard_time": 1718841439,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120498,
+        "num": 120498,
+        "word": "导师版西游记后传",
+        "onboard_time": 1718853198,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120382,
+        "num": 120382,
+        "word": "王鹤棣啾咪",
+        "onboard_time": 1718849658,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117794,
+        "num": 117794,
+        "word": "为什么职场年轻人想喝酒",
+        "onboard_time": 1718850378,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116685,
+        "num": 116685,
+        "word": "女孩秋千跌落身亡设备公司判赔107万",
+        "onboard_time": 1718809519,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116197,
+        "num": 116197,
+        "word": "菲律宾",
+        "onboard_time": 1718840297,
+        "rank": 48,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 107317,
+        "num": 107317,
+        "word": "英雄联盟新英雄阿萝拉",
+        "onboard_time": 1718846957,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#贯彻落实新时代政治建军方略#"
+    }
+  }
+}

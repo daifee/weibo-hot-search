@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718851471802,
+  "endTime": 1718853720054,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -753,6 +753,14 @@
       "onboard_time": 1718450119,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1849141,
+      "num": 1849141,
+      "word": "贾玲成为lululemon品牌大使",
+      "onboard_time": 1718851638,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1842501,
@@ -4011,6 +4019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 929668,
+      "num": 929668,
+      "word": "女子因父母拒绝签字被困精神病院十年",
+      "onboard_time": 1718851638,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 929335,
       "num": 929335,
       "word": "乐华否认程潇吴宣仪耍大牌",
@@ -4377,6 +4393,14 @@
       "onboard_time": 1718068518,
       "rank": 10,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 876227,
+      "num": 876227,
+      "word": "霍建华非要看霍建华老了的热搜",
+      "onboard_time": 1718849597,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 875910,
@@ -5227,6 +5251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 779118,
+      "num": 643688,
+      "word": "菲常萧张的女儿",
+      "onboard_time": 1718851577,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 777556,
       "num": 777556,
       "word": "直播工作 每月2万保底工资",
@@ -5627,6 +5659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 746899,
+      "num": 465178,
+      "word": "仅两款iPhone可使用苹果AI",
+      "onboard_time": 1718850199,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 746531,
       "num": 669609,
       "word": "庄国栋有未婚妻",
@@ -5889,14 +5929,6 @@
       "onboard_time": 1718320575,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 732887,
-      "num": 732887,
-      "word": "霍建华非要看霍建华老了的热搜",
-      "onboard_time": 1718849597,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 732655,
@@ -6209,6 +6241,14 @@
       "onboard_time": 1718613438,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711052,
+      "num": 711052,
+      "word": "尹锡悦称再不生娃韩国会走向灭绝",
+      "onboard_time": 1718850378,
+      "rank": 19,
+      "category": "国外时政"
     },
     {
       "raw_hot": 710520,
@@ -11051,6 +11091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482769,
+      "num": 463940,
+      "word": "墨雨云间番外",
+      "onboard_time": 1718852599,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482280,
       "num": 363997,
       "word": "赵露思卢昱晓早期合照",
@@ -11721,6 +11769,14 @@
       "onboard_time": 1718458158,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 461534,
+      "num": 461534,
+      "word": "韩国女性为何不愿生孩子",
+      "onboard_time": 1718850857,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 461302,
@@ -14116,7 +14172,7 @@
     },
     {
       "raw_hot": 395414,
-      "num": 216126,
+      "num": 237332,
       "word": "结婚和离婚的都变少了",
       "onboard_time": 1718839817,
       "rank": 21,
@@ -14377,6 +14433,14 @@
       "onboard_time": 1717222518,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388146,
+      "num": 388146,
+      "word": "Uzi疑似复出",
+      "onboard_time": 1718850977,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 388055,
@@ -15931,14 +15995,6 @@
       "category": "财经,科学科普"
     },
     {
-      "raw_hot": 352412,
-      "num": 272806,
-      "word": "仅两款iPhone可使用苹果AI",
-      "onboard_time": 1718850199,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 352204,
       "num": 352204,
       "word": "樊振东vs向鹏",
@@ -16052,7 +16108,7 @@
     },
     {
       "raw_hot": 349080,
-      "num": 215222,
+      "num": 260636,
       "word": "年轻人买黄金到底是在买什么",
       "onboard_time": 1718848998,
       "rank": 23,
@@ -16121,6 +16177,14 @@
       "onboard_time": 1718168302,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 348230,
+      "num": 348230,
+      "word": "Uzi WE",
+      "onboard_time": 1718852178,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 347707,
@@ -16731,20 +16795,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 334931,
-      "num": 262897,
-      "word": "尹锡悦称再不生娃韩国会走向灭绝",
-      "onboard_time": 1718850378,
-      "rank": 19,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 334873,
       "num": 334873,
       "word": "长公主初代爱疯",
       "onboard_time": 1718800159,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334778,
+      "num": 334778,
+      "word": "官方通报公职人员开车顶人",
+      "onboard_time": 1718848219,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334645,
@@ -17953,14 +18017,6 @@
       "onboard_time": 1717825757,
       "rank": 15,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 311408,
-      "num": 311408,
-      "word": "官方通报公职人员开车顶人",
-      "onboard_time": 1718848219,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 311239,
@@ -19531,6 +19587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 285013,
+      "num": 285013,
+      "word": "贾玲露腰T恤",
+      "onboard_time": 1718853379,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284574,
       "num": 284574,
       "word": "发现了掉秤最快的方法",
@@ -20971,6 +21035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264457,
+      "num": 264457,
+      "word": "周鸿祎990万元卖迈巴赫后续",
+      "onboard_time": 1718848398,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 264449,
       "num": 482035,
       "word": "福宝探头探脑与大家见面",
@@ -21627,6 +21699,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 253384,
+      "num": 253384,
+      "word": "王星越穿戏服上班",
+      "onboard_time": 1718851219,
+      "rank": 24,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 253078,
       "num": 343095,
       "word": "王楚钦vs林高远",
@@ -22251,6 +22331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244245,
+      "num": 244245,
+      "word": "王者荣耀国际服",
+      "onboard_time": 1718852898,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244225,
       "num": 244225,
       "word": "剑网3无界公测上线",
@@ -22273,6 +22361,14 @@
       "onboard_time": 1717254199,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243810,
+      "num": 243810,
+      "word": "巴黎奥运会或成为有史以来最热一届",
+      "onboard_time": 1718851458,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 243746,
@@ -23443,14 +23539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229632,
-      "num": 229632,
-      "word": "周鸿祎990万元卖迈巴赫后续",
-      "onboard_time": 1718848398,
-      "rank": 16,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 229503,
       "num": 180322,
       "word": "黄宣才第五",
@@ -24267,14 +24355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 220908,
-      "num": 220908,
-      "word": "韩国女性为何不愿生孩子",
-      "onboard_time": 1718850857,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 220849,
       "num": 220849,
       "word": "朱一龙 我会少说多做",
@@ -24689,6 +24769,14 @@
       "onboard_time": 1718339538,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217366,
+      "num": 217366,
+      "word": "傅家明黄亦玫十年前就灵魂共鸣了",
+      "onboard_time": 1718851757,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 217346,
@@ -25201,14 +25289,6 @@
       "onboard_time": 1718532798,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 212986,
-      "num": 212986,
-      "word": "王星越穿戏服上班",
-      "onboard_time": 1718851219,
-      "rank": 24,
-      "category": "艺人,综艺"
     },
     {
       "raw_hot": 212942,
@@ -26923,14 +27003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202803,
-      "num": 202803,
-      "word": "Uzi疑似复出",
-      "onboard_time": 1718850977,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 202731,
       "num": 202731,
       "word": "张杰给歌迷准备无人机惊喜",
@@ -27257,6 +27329,14 @@
       "onboard_time": 1718421197,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200850,
+      "num": 200850,
+      "word": "TF家族运动会 特权码",
+      "onboard_time": 1718853318,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 200799,
@@ -31163,6 +31243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 180655,
+      "num": 180655,
+      "word": "惠若琪博士毕业",
+      "onboard_time": 1718853019,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180608,
       "num": 180608,
       "word": "柯南来微博电影之夜了",
@@ -31233,6 +31321,14 @@
       "onboard_time": 1718421498,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180148,
+      "num": 180148,
+      "word": "国产新能源车卖78.9万贵不贵",
+      "onboard_time": 1718850676,
+      "rank": 43,
+      "category": "汽车"
     },
     {
       "raw_hot": 180137,
@@ -37515,14 +37611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149939,
-      "num": 149939,
-      "word": "国产新能源车卖78.9万贵不贵",
-      "onboard_time": 1718850676,
-      "rank": 43,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 149892,
       "num": 371068,
       "word": "骑手小哥头戴开字送高考祝福",
@@ -41299,6 +41387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132326,
+      "num": 291918,
+      "word": "下雨天学生把伞送给执勤交警",
+      "onboard_time": 1718850797,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132284,
       "num": 132284,
       "word": "公司端午节就发了一个咸鸭蛋",
@@ -44305,6 +44401,14 @@
       "onboard_time": 1718606238,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120498,
+      "num": 120498,
+      "word": "导师版西游记后传",
+      "onboard_time": 1718853198,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 120480,
@@ -47571,14 +47675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 104935,
-      "num": 291918,
-      "word": "下雨天学生把伞送给执勤交警",
-      "onboard_time": 1718850797,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 104848,
       "num": 392813,
       "word": "村干部连夜吼街串巷发大水了快撤",
@@ -48617,14 +48713,6 @@
       "onboard_time": 1718406855,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 98095,
-      "num": 98095,
-      "word": "巴黎奥运会或成为有史以来最热一届",
-      "onboard_time": 1718851458,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 98060,
@@ -50121,6 +50209,14 @@
       "onboard_time": 1717951816,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80698,
+      "num": 468336,
+      "word": "以歌之名祝福青春",
+      "onboard_time": 1718852719,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80499,
@@ -52884,7 +52980,7 @@
     },
     {
       "raw_hot": 53914,
-      "num": 922502,
+      "num": 1138233,
       "word": "中部崛起新动力",
       "onboard_time": 1718803520,
       "rank": 32,
