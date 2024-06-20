@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718864797183,
+  "endTime": 1718865549813,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -25,6 +25,14 @@
       "onboard_time": 1718855840,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1683492,
+      "num": 1683492,
+      "word": "长相思2 定档",
+      "onboard_time": 1718863939,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1676473,
@@ -57,14 +65,6 @@
       "onboard_time": 1718856621,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1108493,
-      "num": 496859,
-      "word": "长相思2 定档",
-      "onboard_time": 1718863939,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1100784,
@@ -203,20 +203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 646969,
+      "num": 433968,
+      "word": "香港顶流姜涛巴黎时装周",
+      "onboard_time": 1718861178,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 609347,
       "num": 527631,
       "word": "刘亦菲狼尾造型",
       "onboard_time": 1718845577,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 607925,
-      "num": 433968,
-      "word": "香港顶流姜涛巴黎时装周",
-      "onboard_time": 1718861178,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 576319,
@@ -267,6 +267,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 504171,
+      "num": 504171,
+      "word": "上海警方辟谣中山公园地铁站捅人",
+      "onboard_time": 1718860998,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 492755,
       "num": 342192,
       "word": "苏苏结过婚",
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 463681,
-      "num": 463681,
-      "word": "上海警方辟谣中山公园地铁站捅人",
-      "onboard_time": 1718860998,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 439189,
+      "num": 439189,
+      "word": "A股",
+      "onboard_time": 1718862319,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 438483,
@@ -337,14 +345,6 @@
       "onboard_time": 1718842459,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416746,
-      "num": 416746,
-      "word": "A股",
-      "onboard_time": 1718862319,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 411472,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 238390,
-      "num": 162112,
+      "num": 195548,
       "word": "迪丽热巴郭晓婷AI姐妹花",
       "onboard_time": 1718863877,
       "rank": 23,
@@ -763,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210427,
+      "num": 193257,
+      "word": "刘浩存逛公园",
+      "onboard_time": 1718863998,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209517,
       "num": 209517,
       "word": "玫瑰的故事",
@@ -777,6 +785,14 @@
       "onboard_time": 1718850378,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205310,
+      "num": 205310,
+      "word": "桂林洪水现场情况",
+      "onboard_time": 1718865077,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203445,
@@ -843,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190759,
+      "num": 190759,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1718863998,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 190526,
       "num": 190526,
       "word": "德国晋级欧洲杯16强",
@@ -857,14 +881,6 @@
       "onboard_time": 1718857761,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 187618,
-      "num": 155629,
-      "word": "刘浩存逛公园",
-      "onboard_time": 1718863998,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 186598,
@@ -907,11 +923,27 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 184347,
+      "num": 184347,
+      "word": "胡歌新综艺下周播",
+      "onboard_time": 1718864420,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183690,
       "num": 183690,
       "word": "陈飞宇告超能摄影阳阳案胜诉",
       "onboard_time": 1718855299,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182185,
+      "num": 182185,
+      "word": "董思成姜涛同框",
+      "onboard_time": 1718865139,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157385,
+      "num": 123096,
+      "word": "刘雯井柏然时尚芭莎情侣封面",
+      "onboard_time": 1718865139,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 156065,
       "num": 156065,
       "word": "最帅升旗手放弃体制内工作扎根农业",
@@ -1059,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143199,
-      "num": 143199,
-      "word": "胡歌新综艺下周播",
-      "onboard_time": 1718864420,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143099,
       "num": 134378,
       "word": "白鹿手持剧本",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1718807239,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136216,
-      "num": 136216,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1718863998,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 134913,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1718846359,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125505,
+      "num": 125505,
+      "word": "manner",
+      "onboard_time": 1718865197,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 124901,
@@ -1275,6 +1307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115807,
+      "num": 134572,
+      "word": "大学毕业最后一晚在想什么",
+      "onboard_time": 1718864119,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113391,
       "num": 113391,
       "word": "乡干部为4名绕道考生挖通赶考路",
@@ -1361,14 +1401,6 @@
       "onboard_time": 1718799018,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 102607,
-      "num": 134572,
-      "word": "大学毕业最后一晚在想什么",
-      "onboard_time": 1718864119,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 102293,
@@ -1467,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96048,
+      "num": 113680,
+      "word": "WE疑回应Uzi加入",
+      "onboard_time": 1718865197,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95365,
       "num": 95365,
       "word": "编剧回应庄国栋黄亦玫吻戏多",
@@ -1523,7 +1563,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 82336,
+      "raw_hot": 86376,
       "num": 132970,
       "word": "奋力谱写中国式现代化青海篇章",
       "onboard_time": 1718864658,
@@ -1537,6 +1577,14 @@
       "onboard_time": 1718810300,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 78878,
+      "num": 394022,
+      "word": "这是洪水中安全感爆棚的怀抱",
+      "onboard_time": 1718865018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78512,
@@ -1771,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26038,
+      "num": 203972,
+      "word": "金晨居家女友风",
+      "onboard_time": 1718864057,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25549,
       "num": 216985,
       "word": "一碗粉一张饼暖心又暖胃",
@@ -1809,14 +1865,6 @@
       "onboard_time": 1718856919,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17351,
-      "num": 194622,
-      "word": "金晨居家女友风",
-      "onboard_time": 1718864057,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14955,

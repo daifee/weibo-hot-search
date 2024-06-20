@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718864797183,
+  "endTime": 1718865549813,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -161,6 +161,14 @@
       "onboard_time": 1718550441,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1683492,
+      "num": 1683492,
+      "word": "长相思2 定档",
+      "onboard_time": 1718863939,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1676473,
@@ -697,14 +705,6 @@
       "onboard_time": 1718583919,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1108493,
-      "num": 496859,
-      "word": "长相思2 定档",
-      "onboard_time": 1718863939,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1100784,
@@ -1667,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646969,
+      "num": 433968,
+      "word": "香港顶流姜涛巴黎时装周",
+      "onboard_time": 1718861178,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 641375,
       "num": 343551,
       "word": "男朋友微信转账备注非自愿赠予",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1718639417,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 607925,
-      "num": 433968,
-      "word": "香港顶流姜涛巴黎时装周",
-      "onboard_time": 1718861178,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 607713,
@@ -2451,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504171,
+      "num": 504171,
+      "word": "上海警方辟谣中山公园地铁站捅人",
+      "onboard_time": 1718860998,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499629,
       "num": 173312,
       "word": "韩国人正在拒绝晋升",
@@ -2675,14 +2683,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 463681,
-      "num": 463681,
-      "word": "上海警方辟谣中山公园地铁站捅人",
-      "onboard_time": 1718860998,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 463458,
       "num": 463458,
       "word": "协和医生说无痛分娩不影响胎儿及哺乳",
@@ -2841,6 +2841,14 @@
       "onboard_time": 1718763559,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439189,
+      "num": 439189,
+      "word": "A股",
+      "onboard_time": 1718591717,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 438753,
@@ -3089,14 +3097,6 @@
       "onboard_time": 1718542819,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 416746,
-      "num": 416746,
-      "word": "A股",
-      "onboard_time": 1718591717,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 415982,
@@ -5372,7 +5372,7 @@
     },
     {
       "raw_hot": 238390,
-      "num": 162112,
+      "num": 195548,
       "word": "迪丽热巴郭晓婷AI姐妹花",
       "onboard_time": 1718863877,
       "rank": 23,
@@ -6043,6 +6043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210427,
+      "num": 193257,
+      "word": "刘浩存逛公园",
+      "onboard_time": 1718863998,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210246,
       "num": 210246,
       "word": "张杰周深击掌",
@@ -6217,6 +6225,14 @@
       "onboard_time": 1718584217,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205310,
+      "num": 205310,
+      "word": "桂林洪水现场情况",
+      "onboard_time": 1718865077,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204953,
@@ -6883,6 +6899,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 190759,
+      "num": 190759,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1718863998,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 190705,
       "num": 190705,
       "word": "刘亦菲万茜朱珠 亦万头朱",
@@ -7009,14 +7033,6 @@
       "onboard_time": 1718689397,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187618,
-      "num": 155629,
-      "word": "刘浩存逛公园",
-      "onboard_time": 1718863998,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 187548,
@@ -7211,6 +7227,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 184347,
+      "num": 184347,
+      "word": "胡歌新综艺下周播",
+      "onboard_time": 1718864420,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184336,
       "num": 184336,
       "word": "Jennie开通TikTok",
@@ -7321,6 +7345,14 @@
       "onboard_time": 1718767277,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182185,
+      "num": 182185,
+      "word": "董思成姜涛同框",
+      "onboard_time": 1718865139,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 181874,
@@ -8475,6 +8507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157385,
+      "num": 123096,
+      "word": "刘雯井柏然时尚芭莎情侣封面",
+      "onboard_time": 1718865139,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 157208,
       "num": 169403,
       "word": "像极了我刚旅游回来的样子",
@@ -9195,14 +9235,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 143199,
-      "num": 143199,
-      "word": "胡歌新综艺下周播",
-      "onboard_time": 1718864420,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143189,
       "num": 192586,
       "word": "梅州一干部疏散转移群众中因公殉职",
@@ -9521,14 +9553,6 @@
       "onboard_time": 1718803159,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136216,
-      "num": 136216,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1718863998,
-      "rank": 36,
-      "category": "国外时政"
     },
     {
       "raw_hot": 136063,
@@ -10291,6 +10315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125505,
+      "num": 125505,
+      "word": "manner",
+      "onboard_time": 1718865197,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125484,
       "num": 125484,
       "word": "黄明昊假发",
@@ -10939,6 +10971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115807,
+      "num": 134572,
+      "word": "大学毕业最后一晚在想什么",
+      "onboard_time": 1718864119,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115750,
       "num": 115750,
       "word": "莫德里奇反驳姆巴佩",
@@ -11539,14 +11579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102607,
-      "num": 134572,
-      "word": "大学毕业最后一晚在想什么",
-      "onboard_time": 1718864119,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 102293,
       "num": 125897,
       "word": "长安汽车总裁发文谈汽车院系选择",
@@ -11841,6 +11873,14 @@
       "onboard_time": 1718712557,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96048,
+      "num": 113680,
+      "word": "WE疑回应Uzi加入",
+      "onboard_time": 1718865197,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 96021,
@@ -12147,6 +12187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86376,
+      "num": 132970,
+      "word": "奋力谱写中国式现代化青海篇章",
+      "onboard_time": 1718864658,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86245,
       "num": 324896,
       "word": "知识分子的松弛感穿搭",
@@ -12243,14 +12291,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 82336,
-      "num": 132970,
-      "word": "奋力谱写中国式现代化青海篇章",
-      "onboard_time": 1718864658,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82269,
       "num": 124968,
       "word": "摩羯座真正的追求",
@@ -12313,6 +12353,14 @@
       "onboard_time": 1718464939,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78878,
+      "num": 394022,
+      "word": "这是洪水中安全感爆棚的怀抱",
+      "onboard_time": 1718865018,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78759,
@@ -13827,6 +13875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26038,
+      "num": 203972,
+      "word": "金晨居家女友风",
+      "onboard_time": 1718864057,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25395,
       "num": 135658,
       "word": "拜托我是第一个鸟巢开唱的流行女歌手",
@@ -14088,14 +14144,6 @@
       "word": "TOMFORD太会拍了",
       "onboard_time": 1718607257,
       "rank": 22,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17351,
-      "num": 194622,
-      "word": "金晨居家女友风",
-      "onboard_time": 1718864057,
-      "rank": 17,
       "category": "作品衍生"
     },
     {

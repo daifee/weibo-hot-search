@@ -1,0 +1,410 @@
+{
+  "runTime": 1718865549813,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1683492,
+        "num": 1683492,
+        "word": "长相思2 定档",
+        "onboard_time": 1718863939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 754785,
+        "num": 754785,
+        "word": "孙杨未入选巴黎奥运会运动员名单",
+        "onboard_time": 1718860698,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83751,
+        "num": 557103,
+        "word": "高考志愿填报该看兴趣还是就业前景",
+        "onboard_time": 1718857761,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1115991,
+        "num": 543894,
+        "word": "傅家明因病去世",
+        "onboard_time": 1718859919,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 504171,
+        "num": 504171,
+        "word": "上海警方辟谣中山公园地铁站捅人",
+        "onboard_time": 1718860998,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439189,
+        "num": 439189,
+        "word": "A股",
+        "onboard_time": 1718862319,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 687342,
+        "num": 436046,
+        "word": "颜心记 空降",
+        "onboard_time": 1718860998,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646969,
+        "num": 417331,
+        "word": "香港顶流姜涛巴黎时装周",
+        "onboard_time": 1718861178,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 397350,
+        "num": 397350,
+        "word": "尹锡悦称再不生娃韩国会走向灭绝",
+        "onboard_time": 1718850378,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 78878,
+        "num": 394022,
+        "word": "这是洪水中安全感爆棚的怀抱",
+        "onboard_time": 1718865018,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391707,
+        "num": 391707,
+        "word": "歌手歌单",
+        "onboard_time": 1718855840,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385425,
+        "num": 385425,
+        "word": "黄亦玫离婚海报",
+        "onboard_time": 1718855959,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310844,
+        "num": 310844,
+        "word": "仅两款iPhone可使用苹果AI",
+        "onboard_time": 1718850199,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271556,
+        "num": 271556,
+        "word": "我养你变成了我养的你",
+        "onboard_time": 1718855659,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267590,
+        "num": 267590,
+        "word": "赵丽颖 汇源",
+        "onboard_time": 1718859200,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259403,
+        "num": 259403,
+        "word": "复旦录取通知书采用非遗潞绸为封",
+        "onboard_time": 1718856019,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205310,
+        "num": 205310,
+        "word": "桂林洪水现场情况",
+        "onboard_time": 1718865077,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26038,
+        "num": 203972,
+        "word": "金晨居家女友风",
+        "onboard_time": 1718864057,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203215,
+        "num": 203215,
+        "word": "蟑螂开始对杀虫剂无感了",
+        "onboard_time": 1718856019,
+        "rank": 18,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 201084,
+        "num": 201084,
+        "word": "桂林洪水",
+        "onboard_time": 1718848456,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400832,
+        "num": 199939,
+        "word": "女子因父母拒绝签字被困精神病院十年",
+        "onboard_time": 1718851638,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216991,
+        "num": 198692,
+        "word": "超能摄影阳阳",
+        "onboard_time": 1718860578,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216486,
+        "num": 196532,
+        "word": "菲常萧张的女儿",
+        "onboard_time": 1718851577,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211500,
+        "num": 195548,
+        "word": "迪丽热巴郭晓婷AI姐妹花",
+        "onboard_time": 1718863877,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194833,
+        "num": 194833,
+        "word": "Uzi WE",
+        "onboard_time": 1718852178,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210427,
+        "num": 193257,
+        "word": "刘浩存逛公园",
+        "onboard_time": 1718863998,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190759,
+        "num": 190759,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1718863998,
+        "rank": 26,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 184347,
+        "num": 184347,
+        "word": "胡歌新综艺下周播",
+        "onboard_time": 1718864420,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182185,
+        "num": 182185,
+        "word": "董思成姜涛同框",
+        "onboard_time": 1718865139,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172586,
+        "num": 172586,
+        "word": "高考生暑假工 315",
+        "onboard_time": 1718857220,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167488,
+        "num": 167488,
+        "word": "墨雨云间番外",
+        "onboard_time": 1718852599,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165400,
+        "num": 165400,
+        "word": "于正我不允许任何人忤逆你",
+        "onboard_time": 1718854278,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158187,
+        "num": 158187,
+        "word": "周杰伦一出手就是七张演唱会门票",
+        "onboard_time": 1718856560,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125505,
+        "num": 125505,
+        "word": "manner",
+        "onboard_time": 1718865197,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124756,
+        "num": 124756,
+        "word": "情绪稳定的人 倒霉惯了",
+        "onboard_time": 1718857399,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157385,
+        "num": 123096,
+        "word": "刘雯井柏然时尚芭莎情侣封面",
+        "onboard_time": 1718865139,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146581,
+        "num": 123048,
+        "word": "将门毒后选角",
+        "onboard_time": 1718855058,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120215,
+        "num": 120215,
+        "word": "财政部 半夜出成绩",
+        "onboard_time": 1718839876,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115807,
+        "num": 115807,
+        "word": "大学毕业最后一晚在想什么",
+        "onboard_time": 1718864119,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113736,
+        "num": 113736,
+        "word": "选学校要看原始校名",
+        "onboard_time": 1718858960,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 144914,
+        "num": 113727,
+        "word": "黄亦玫到离婚都没穿上婚纱",
+        "onboard_time": 1718840356,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134046,
+        "num": 113726,
+        "word": "张杰鸟巢官宣六场",
+        "onboard_time": 1718858900,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130077,
+        "num": 113717,
+        "word": "汪苏泷武汉抢票",
+        "onboard_time": 1718864598,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124159,
+        "num": 113702,
+        "word": "白鹿手持剧本",
+        "onboard_time": 1718863221,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98260,
+        "num": 113695,
+        "word": "男子吐槽买鸡爪遇刺客两个27.4元",
+        "onboard_time": 1718855238,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96048,
+        "num": 113680,
+        "word": "WE疑回应Uzi加入",
+        "onboard_time": 1718865197,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95166,
+        "num": 113672,
+        "word": "谁唱说谎",
+        "onboard_time": 1718862020,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88125,
+        "num": 113667,
+        "word": "有些人三个月就够了",
+        "onboard_time": 1718864298,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86376,
+        "num": 113660,
+        "word": "奋力谱写中国式现代化青海篇章",
+        "onboard_time": 1718864658,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76064,
+        "num": 113651,
+        "word": "原来电脑能设置图片密码",
+        "onboard_time": 1718864658,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上如何推进政治建军#"
+    }
+  }
+}
