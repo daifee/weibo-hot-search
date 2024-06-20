@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718857317460,
+  "endTime": 1718858157927,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -139,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1773658,
+      "num": 1773658,
+      "word": "歌手歌单",
+      "onboard_time": 1718855840,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1716922,
       "num": 1716922,
       "word": "乌克兰打败俄罗斯才能加入北约",
@@ -185,14 +193,6 @@
       "onboard_time": 1718761638,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1609962,
-      "num": 1609962,
-      "word": "歌手歌单",
-      "onboard_time": 1718855840,
-      "rank": 0,
-      "category": "综艺"
     },
     {
       "raw_hot": 1595084,
@@ -585,6 +585,14 @@
       "onboard_time": 1718511738,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1165832,
+      "num": 561560,
+      "word": "肯德基锅包肉",
+      "onboard_time": 1718856621,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 1160740,
@@ -1283,6 +1291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 748298,
+      "num": 748298,
+      "word": "我养你变成了我养的你",
+      "onboard_time": 1718855659,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 747939,
       "num": 747939,
       "word": "红豆薏米水真的可以祛湿吗",
@@ -1392,6 +1408,14 @@
       "word": "庄国栋带孩子",
       "onboard_time": 1718720300,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 723842,
+      "num": 380360,
+      "word": "黄亦玫离婚海报",
+      "onboard_time": 1718855959,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1507,6 +1531,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 677382,
+      "num": 668118,
+      "word": "将门毒后选角",
+      "onboard_time": 1718855058,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 676640,
       "num": 676640,
       "word": "休个病假绩效没了年假扣了",
@@ -1545,14 +1577,6 @@
       "onboard_time": 1718667856,
       "rank": 5,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 668118,
-      "num": 668118,
-      "word": "将门毒后选角",
-      "onboard_time": 1718855058,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 663309,
@@ -2027,14 +2051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 550326,
-      "num": 550326,
-      "word": "我养你变成了我养的你",
-      "onboard_time": 1718855659,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 549299,
       "num": 214704,
       "word": "结婚前一定要聊的10件事",
@@ -2073,14 +2089,6 @@
       "onboard_time": 1718694138,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 544023,
-      "num": 561560,
-      "word": "肯德基锅包肉",
-      "onboard_time": 1718856621,
-      "rank": 13,
-      "category": "美食"
     },
     {
       "raw_hot": 542419,
@@ -2473,14 +2481,6 @@
       "onboard_time": 1718797219,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 487912,
-      "num": 354469,
-      "word": "黄亦玫离婚海报",
-      "onboard_time": 1718855959,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 485171,
@@ -3891,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335685,
+      "num": 255268,
+      "word": "复旦录取通知书采用非遗潞绸为封",
+      "onboard_time": 1718856019,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 335105,
       "num": 283946,
       "word": "十个勤天短袖",
@@ -4057,14 +4065,6 @@
       "onboard_time": 1718718017,
       "rank": 9,
       "category": "美食"
-    },
-    {
-      "raw_hot": 326665,
-      "num": 192522,
-      "word": "复旦录取通知书采用非遗潞绸为封",
-      "onboard_time": 1718856019,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 326141,
@@ -4608,6 +4608,14 @@
       "word": "小伙刮到第13张喜中100万大奖",
       "onboard_time": 1718802620,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281277,
+      "num": 281277,
+      "word": "高考生暑假工 315",
+      "onboard_time": 1718857220,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -5715,6 +5723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218231,
+      "num": 218231,
+      "word": "男子吐槽买鸡爪遇刺客两个27.4元",
+      "onboard_time": 1718855238,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217920,
       "num": 217920,
       "word": "王传君想看易烊千玺王一博演杀手",
@@ -5809,14 +5825,6 @@
       "onboard_time": 1718709436,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 213797,
-      "num": 213797,
-      "word": "男子吐槽买鸡爪遇刺客两个27.4元",
-      "onboard_time": 1718855238,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213388,
@@ -6201,6 +6209,14 @@
       "onboard_time": 1718541199,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202900,
+      "num": 202900,
+      "word": "情绪稳定的人 倒霉惯了",
+      "onboard_time": 1718857399,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 202573,
@@ -6835,6 +6851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188986,
+      "num": 188986,
+      "word": "TMEA全阵容",
+      "onboard_time": 1718857761,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188341,
       "num": 188341,
       "word": "谁懂王星越吴谨言这段一走一跑",
@@ -7003,6 +7027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185586,
+      "num": 614907,
+      "word": "蟑螂开始对杀虫剂无感了",
+      "onboard_time": 1718856019,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 185371,
       "num": 185371,
       "word": "韩国男在巴士性骚扰熟睡女子",
@@ -7057,6 +7089,14 @@
       "onboard_time": 1718848277,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184557,
+      "num": 184557,
+      "word": "俄方要求美国从欧洲撤出全部核武器",
+      "onboard_time": 1718855659,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 184336,
@@ -7289,14 +7329,6 @@
       "onboard_time": 1718762839,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 178729,
-      "num": 178729,
-      "word": "俄方要求美国从欧洲撤出全部核武器",
-      "onboard_time": 1718855659,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 178690,
@@ -9699,14 +9731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130627,
-      "num": 130627,
-      "word": "高考生暑假工 315",
-      "onboard_time": 1718857220,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130576,
       "num": 130576,
       "word": "TheShy诡术薇恩",
@@ -10153,6 +10177,14 @@
       "onboard_time": 1718525178,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124901,
+      "num": 124901,
+      "word": "梁静茹演唱会柱子票案一审宣判",
+      "onboard_time": 1718857940,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 124891,
@@ -10833,14 +10865,6 @@
       "onboard_time": 1718813119,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 111337,
-      "num": 614907,
-      "word": "蟑螂开始对杀虫剂无感了",
-      "onboard_time": 1718856019,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 110935,
@@ -11787,6 +11811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88737,
+      "num": 468336,
+      "word": "以歌之名祝福青春",
+      "onboard_time": 1718852719,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88577,
       "num": 570313,
       "word": "这6个防暑降温误区要避开",
@@ -11817,6 +11849,14 @@
       "onboard_time": 1718662272,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88405,
+      "num": 604032,
+      "word": "贾玲lululemon",
+      "onboard_time": 1718854698,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 87451,
@@ -11935,14 +11975,6 @@
       "num": 402385,
       "word": "快递单广告中奖率只有十万分之一",
       "onboard_time": 1718686819,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 83309,
-      "num": 468336,
-      "word": "以歌之名祝福青春",
-      "onboard_time": 1718852719,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -12763,14 +12795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47639,
-      "num": 604032,
-      "word": "贾玲lululemon",
-      "onboard_time": 1718854698,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46932,
       "num": 324202,
       "word": "大学毕业典礼的国风氛围感绝了",
@@ -12851,12 +12875,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44214,
+      "num": 773008,
+      "word": "高考志愿填报该看兴趣还是就业前景",
+      "onboard_time": 1718857761,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44041,
       "num": 515476,
       "word": "北京一高校为15对研究生办集体婚礼",
       "onboard_time": 1718528597,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 43777,
+      "num": 383192,
+      "word": "刘宇的猫也参加猫王大赛了",
+      "onboard_time": 1718856259,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 43249,
@@ -13425,14 +13465,6 @@
       "onboard_time": 1718649971,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28088,
-      "num": 383192,
-      "word": "刘宇的猫也参加猫王大赛了",
-      "onboard_time": 1718856259,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 27597,
@@ -14086,6 +14118,9 @@
     },
     {
       "word": "#贯彻落实新时代政治建军方略#"
+    },
+    {
+      "word": "#习近平向2024世界智能产业博览会致贺信#"
     }
   ]
 }
