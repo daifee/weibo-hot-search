@@ -1,0 +1,410 @@
+{
+  "runTime": 1718871875495,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1363584,
+        "num": 1363584,
+        "word": "长相思2 定档",
+        "onboard_time": 1718863939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1015889,
+        "num": 1015889,
+        "word": "manner",
+        "onboard_time": 1718865197,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15614,
+        "num": 992373,
+        "word": "全国首个核能供汽投产",
+        "onboard_time": 1718871738,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1463259,
+        "num": 990506,
+        "word": "叶海洋双胞胎",
+        "onboard_time": 1718869820,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 977796,
+        "num": 977796,
+        "word": "因停机错过考编递补考生已考上公务员",
+        "onboard_time": 1718866697,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807876,
+        "num": 807876,
+        "word": "韩国麦当劳暂时停止销售炸薯条",
+        "onboard_time": 1718868079,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714381,
+        "num": 714381,
+        "word": "Manner回应店员泼顾客咖啡粉",
+        "onboard_time": 1718870598,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537439,
+        "num": 537439,
+        "word": "傅家明因病去世",
+        "onboard_time": 1718859919,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362744,
+        "num": 499998,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1718863998,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 28321,
+        "num": 496804,
+        "word": "安徽黄山遇强降雨多地受灾",
+        "onboard_time": 1718871619,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 646894,
+        "num": 496366,
+        "word": "刘亦菲送小演员芭比娃娃",
+        "onboard_time": 1718870539,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494862,
+        "num": 494862,
+        "word": "桂林暴雨一药店被淹女店员不幸遇难",
+        "onboard_time": 1718870240,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457296,
+        "num": 457296,
+        "word": "阳阳 15万让大家认识陈飞宇",
+        "onboard_time": 1718867239,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403685,
+        "num": 403685,
+        "word": "薛芳菲头发梳上去了",
+        "onboard_time": 1718869039,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366259,
+        "num": 366259,
+        "word": "黄亦玫离婚海报",
+        "onboard_time": 1718855959,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319408,
+        "num": 319408,
+        "word": "一加",
+        "onboard_time": 1718867058,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44843,
+        "num": 309246,
+        "word": "不止于世界第二",
+        "onboard_time": 1718870719,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306546,
+        "num": 306546,
+        "word": "直击南方多地暴雨现场",
+        "onboard_time": 1718865917,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52074,
+        "num": 297640,
+        "word": "智行天下能动未来",
+        "onboard_time": 1718869639,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291220,
+        "num": 291220,
+        "word": "陈思诚 对短视频贴脸开大",
+        "onboard_time": 1718866459,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272550,
+        "num": 272550,
+        "word": "张杰曾说不敢在鸟巢开演唱会",
+        "onboard_time": 1718866639,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 232443,
+        "num": 232443,
+        "word": "孙杨未入选巴黎奥运会运动员名单",
+        "onboard_time": 1718860698,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215479,
+        "num": 215479,
+        "word": "颜心记 空降",
+        "onboard_time": 1718860998,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193374,
+        "num": 193374,
+        "word": "歌手歌单",
+        "onboard_time": 1718855840,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187613,
+        "num": 187613,
+        "word": "5538号小行星",
+        "onboard_time": 1718870059,
+        "rank": 24,
+        "category": "科学科普,社会新闻"
+      },
+      {
+        "raw_hot": 181052,
+        "num": 181052,
+        "word": "今年还将有10余只大熊猫回国",
+        "onboard_time": 1718871078,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178799,
+        "num": 178799,
+        "word": "他这个年纪不该这样",
+        "onboard_time": 1718871258,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177302,
+        "num": 177302,
+        "word": "易烊千玺摩登绅士",
+        "onboard_time": 1718871798,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177284,
+        "num": 177284,
+        "word": "A股",
+        "onboard_time": 1718862319,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172386,
+        "num": 172386,
+        "word": "苏醒 牛粪事件受害者",
+        "onboard_time": 1718868019,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446484,
+        "num": 170878,
+        "word": "韩红将参加歌手2024",
+        "onboard_time": 1718871198,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163465,
+        "num": 163465,
+        "word": "航拍洪峰过境漓江两岸连片被淹",
+        "onboard_time": 1718871379,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157897,
+        "num": 157897,
+        "word": "清华刑法学教授谈姜萍遭质疑",
+        "onboard_time": 1718868318,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157236,
+        "num": 157236,
+        "word": "王星越歪头这一下",
+        "onboard_time": 1718868499,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144476,
+        "num": 144476,
+        "word": "仅两款iPhone可使用苹果AI",
+        "onboard_time": 1718850199,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 139220,
+        "num": 139220,
+        "word": "长相思2",
+        "onboard_time": 1718868619,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65049,
+        "num": 138341,
+        "word": "2024四川高考成绩查询方式",
+        "onboard_time": 1718870838,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138298,
+        "num": 138298,
+        "word": "这不是恋综是蜜月吧",
+        "onboard_time": 1718869277,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136472,
+        "num": 136472,
+        "word": "女子因父母拒绝签字被困精神病院十年",
+        "onboard_time": 1718851638,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135393,
+        "num": 135393,
+        "word": "香港顶流姜涛巴黎时装周",
+        "onboard_time": 1718861178,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134948,
+        "num": 134948,
+        "word": "Uzi若复出最可能去哪个队",
+        "onboard_time": 1718869277,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125947,
+        "num": 125947,
+        "word": "Uzi WE",
+        "onboard_time": 1718852178,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125938,
+        "num": 125938,
+        "word": "我养你变成了我养的你",
+        "onboard_time": 1718855659,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125905,
+        "num": 125905,
+        "word": "片寄凉太土屋太凤 最强售后",
+        "onboard_time": 1718866039,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124764,
+        "num": 124764,
+        "word": "Selina说刘宇有点小心机",
+        "onboard_time": 1718869940,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116534,
+        "num": 116534,
+        "word": "中山公园地铁站发生捅人事件系谣传",
+        "onboard_time": 1718870479,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121293,
+        "num": 115211,
+        "word": "迪丽热巴学AI舞",
+        "onboard_time": 1718870059,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113426,
+        "num": 113426,
+        "word": "花花开出了高饱和度的夏天",
+        "onboard_time": 1718866697,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113399,
+        "num": 113399,
+        "word": "菲常萧张的女儿",
+        "onboard_time": 1718851577,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112562,
+        "num": 112562,
+        "word": "WE疑回应Uzi加入",
+        "onboard_time": 1718865197,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#把青藏高原建设成为生态文明高地#"
+    }
+  }
+}
