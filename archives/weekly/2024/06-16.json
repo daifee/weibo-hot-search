@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718897691223,
+  "endTime": 1718900720567,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -497,6 +497,14 @@
       "onboard_time": 1718685078,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1264120,
+      "num": 1264120,
+      "word": "人最好不要all in做任何事情",
+      "onboard_time": 1718896159,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 1257993,
@@ -1332,7 +1340,7 @@
     },
     {
       "raw_hot": 805667,
-      "num": 526553,
+      "num": 677742,
       "word": "刘亦菲第一次上快本旧照",
       "onboard_time": 1718895499,
       "rank": 10,
@@ -1937,14 +1945,6 @@
       "onboard_time": 1718527158,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 619599,
-      "num": 619599,
-      "word": "人最好不要all in做任何事情",
-      "onboard_time": 1718896159,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 618273,
@@ -3547,6 +3547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410175,
+      "num": 287832,
+      "word": "菲媒称中国万吨大驱驶过菲沿岸",
+      "onboard_time": 1718895980,
+      "rank": 30,
+      "category": "军事,国内时政"
+    },
+    {
       "raw_hot": 409229,
       "num": 409229,
       "word": "关晓彤白色古董裙",
@@ -4259,6 +4267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345561,
+      "num": 229051,
+      "word": "长相思2剧本",
+      "onboard_time": 1718898198,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345542,
       "num": 345542,
       "word": "以后骂人不能骂她是梅超风了",
@@ -4463,6 +4479,14 @@
       "num": 332613,
       "word": "墨雨云间全靠司徒九月在救",
       "onboard_time": 1718691857,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 332273,
+      "num": 228024,
+      "word": "黄亦玫吃菌子了吧",
+      "onboard_time": 1718897479,
       "rank": 41,
       "category": "剧集"
     },
@@ -5353,14 +5377,6 @@
       "onboard_time": 1718803460,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 272961,
-      "num": 287832,
-      "word": "菲媒称中国万吨大驱驶过菲沿岸",
-      "onboard_time": 1718895980,
-      "rank": 30,
-      "category": "军事,国内时政"
     },
     {
       "raw_hot": 272935,
@@ -6259,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226456,
+      "num": 226456,
+      "word": "桂林女店员遇难后有居民提醒关闸",
+      "onboard_time": 1718899145,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225749,
       "num": 207459,
       "word": "研一差点被导师移出师门群",
@@ -6587,6 +6611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214883,
+      "num": 214883,
+      "word": "南方暴雨",
+      "onboard_time": 1718899637,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214695,
       "num": 214695,
       "word": "黄亦玫离婚庄国栋再回国",
@@ -6673,6 +6705,14 @@
       "onboard_time": 1718460379,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 212405,
+      "num": 171405,
+      "word": "2类人不建议睡觉时把脚露外面",
+      "onboard_time": 1718899217,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 212368,
@@ -8609,6 +8649,14 @@
       "onboard_time": 1718553138,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173993,
+      "num": 173993,
+      "word": "武汉暴雨",
+      "onboard_time": 1718899517,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173992,
@@ -11395,14 +11443,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 128437,
-      "num": 128437,
-      "word": "黄亦玫吃菌子了吧",
-      "onboard_time": 1718897479,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128235,
       "num": 128235,
       "word": "会长是女仆大人 双强情侣",
@@ -12307,6 +12347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115817,
+      "num": 115817,
+      "word": "张雪峰说不要盲目报考计算机",
+      "onboard_time": 1718897839,
+      "rank": 34,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 115807,
       "num": 134572,
       "word": "大学毕业最后一晚在想什么",
@@ -13089,6 +13137,14 @@
       "onboard_time": 1718752875,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101428,
+      "num": 101428,
+      "word": "陈乔恩回应季淑然疯了",
+      "onboard_time": 1718897959,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 101330,
@@ -13921,6 +13977,14 @@
       "onboard_time": 1718472494,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74277,
+      "num": 84546,
+      "word": "汪苏泷2024十万伏特巡回演唱会",
+      "onboard_time": 1718900417,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 74238,
@@ -14948,7 +15012,7 @@
     },
     {
       "raw_hot": 39284,
-      "num": 739316,
+      "num": 749545,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,
@@ -15153,6 +15217,14 @@
       "onboard_time": 1718608097,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 33982,
+      "num": 186454,
+      "word": "熊猫宝宝的胖jiojio也太灵活了",
+      "onboard_time": 1718898737,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33831,
@@ -15929,6 +16001,14 @@
       "onboard_time": 1718823131,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12648,
+      "num": 160568,
+      "word": "安徽暴雨致灾消防员涉水扛起守护",
+      "onboard_time": 1718900595,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12630,

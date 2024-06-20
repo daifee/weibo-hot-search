@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/20 23:34:51
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/21 00:25:20
 </p>
 </blockquote>
 <p>
@@ -1697,6 +1697,12 @@ manner（热度：1307101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%9C%B0%E9%9C%87%23" target="weibo">
 福建地震（热度：1266303）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81all%20in%E5%81%9A%E4%BB%BB%E4%BD%95%E4%BA%8B%E6%83%85%23" target="weibo">
+人最好不要all in做任何事情（热度：1264120）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LV售后欧洲免费国内收2400（热度：627037）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E5%9C%A8%E5%86%B0%E6%BF%80%E5%87%8C%E4%B8%AD%E5%8F%91%E7%8E%B0%E6%89%8B%E6%8C%87%23" target="weibo">
 印度男子在冰激凌中发现手指（热度：622539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E9%98%BF%E5%8B%92%E6%B3%B0%E6%97%85%E6%B8%B8%E5%A4%AA%E8%B4%B5%E4%BA%86%23" target="weibo">
-游客吐槽阿勒泰旅游太贵了（热度：621976）
 </a>
 </li>
 
