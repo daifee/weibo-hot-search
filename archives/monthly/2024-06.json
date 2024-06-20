@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718876079926,
+  "endTime": 1718878824351,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -7811,6 +7811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 624437,
+      "num": 452403,
+      "word": "陈妍希新综艺或将近期播出",
+      "onboard_time": 1718875818,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 624240,
       "num": 493282,
       "word": "王霏霏突发哮喘",
@@ -12195,6 +12203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 456233,
+      "num": 456233,
+      "word": "官方辟谣发射3000枚增雨弹引发暴雨",
+      "onboard_time": 1718875039,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456113,
       "num": 369503,
       "word": "2025QS世界大学排名",
@@ -13777,6 +13793,14 @@
       "onboard_time": 1718668096,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 414165,
+      "num": 414165,
+      "word": "Manner单店平均收入8000元一天",
+      "onboard_time": 1718876118,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413914,
@@ -17891,6 +17915,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 319508,
+      "num": 319508,
+      "word": "文科生 中医",
+      "onboard_time": 1718874198,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 319408,
       "num": 319408,
       "word": "一加",
@@ -18737,6 +18769,14 @@
       "onboard_time": 1717289656,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 302732,
+      "num": 302732,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1718876718,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 302611,
@@ -20609,14 +20649,6 @@
       "onboard_time": 1717555098,
       "rank": 18,
       "category": "网红"
-    },
-    {
-      "raw_hot": 273977,
-      "num": 197881,
-      "word": "陈妍希新综艺或将近期播出",
-      "onboard_time": 1718875818,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 273922,
@@ -22700,7 +22732,7 @@
     },
     {
       "raw_hot": 243843,
-      "num": 188376,
+      "num": 195097,
       "word": "小城焕日 刘亦菲",
       "onboard_time": 1718875278,
       "rank": 44,
@@ -23537,6 +23569,14 @@
       "onboard_time": 1717596797,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235157,
+      "num": 235157,
+      "word": "吴谨言回应墨雨云间借位吻戏",
+      "onboard_time": 1718876059,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 235098,
@@ -25073,6 +25113,14 @@
       "onboard_time": 1717755079,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218669,
+      "num": 218669,
+      "word": "收到了黄亦玫的离婚请帖",
+      "onboard_time": 1718877918,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 218662,
@@ -26667,6 +26715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206619,
+      "num": 206619,
+      "word": "王俊凯让C位失败",
+      "onboard_time": 1718877079,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206601,
       "num": 212911,
       "word": "答错的是魏大勋受伤的是白鹿",
@@ -27825,14 +27881,6 @@
       "onboard_time": 1718366238,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200689,
-      "num": 200689,
-      "word": "官方辟谣发射3000枚增雨弹引发暴雨",
-      "onboard_time": 1718875039,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200688,
@@ -30091,6 +30139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190232,
+      "num": 190232,
+      "word": "黄亦玫带娃三年考了3本资格证",
+      "onboard_time": 1718878698,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190146,
       "num": 190146,
       "word": "姜元柏你要不看一下你老婆衣服颜色",
@@ -30873,6 +30929,14 @@
       "onboard_time": 1718460139,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186456,
+      "num": 186456,
+      "word": "刺猬",
+      "onboard_time": 1717734863,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 186434,
@@ -32515,6 +32579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177517,
+      "num": 177517,
+      "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
+      "onboard_time": 1718875278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177511,
       "num": 106751,
       "word": "京东因春晚超额大奖被罚5万元",
@@ -32867,27 +32939,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175736,
-      "num": 175736,
-      "word": "文科生 中医",
-      "onboard_time": 1718874198,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
       "raw_hot": 175535,
       "num": 175535,
       "word": "地铁回应持刀伤人事件",
       "onboard_time": 1718766137,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175534,
-      "num": 175534,
-      "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
-      "onboard_time": 1718875278,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -33425,6 +33481,14 @@
       "onboard_time": 1718786481,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 172618,
+      "num": 172618,
+      "word": "太初 太想念初恋",
+      "onboard_time": 1718878517,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 172553,
@@ -35787,14 +35851,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 160780,
-      "num": 183283,
-      "word": "刺猬",
-      "onboard_time": 1717734863,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 160740,
       "num": 160740,
       "word": "学医后才知道人体有多脆弱",
@@ -36579,6 +36635,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 157642,
+      "num": 157642,
+      "word": "陈妍希综艺",
+      "onboard_time": 1718877379,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157634,
       "num": 157634,
       "word": "星穹铁道椒丘",
@@ -36689,6 +36753,14 @@
       "onboard_time": 1718600958,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157186,
+      "num": 157186,
+      "word": "叶海洋 儿女双全",
+      "onboard_time": 1718877019,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 157141,
@@ -38481,6 +38553,14 @@
       "onboard_time": 1718332938,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149700,
+      "num": 149700,
+      "word": "证监会抓住一只蚊子",
+      "onboard_time": 1718877319,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 149694,
@@ -41747,6 +41827,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 134592,
+      "num": 143545,
+      "word": "梅州在外年轻人请假回乡清淤",
+      "onboard_time": 1718876418,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134569,
       "num": 134569,
       "word": "怎么会有人这么不适合打唇钉",
@@ -42073,6 +42161,14 @@
       "onboard_time": 1718716818,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133096,
+      "num": 133096,
+      "word": "新疆大盘鸡瀑布",
+      "onboard_time": 1718878578,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 132988,
@@ -45483,6 +45579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119961,
+      "num": 119961,
+      "word": "合肥地铁回应电子屏投放狗肉广告",
+      "onboard_time": 1718876118,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119940,
       "num": 119940,
       "word": "北京舞蹈学院教授的课",
@@ -47187,6 +47291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112261,
+      "num": 459217,
+      "word": "桂江发生超历史实测纪录洪水",
+      "onboard_time": 1718874557,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112259,
       "num": 419774,
       "word": "黑中介以高薪为诱饵骗取毕业生钱财",
@@ -47329,6 +47441,14 @@
       "onboard_time": 1718202320,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111625,
+      "num": 111625,
+      "word": "王者S36峡谷玩法调整",
+      "onboard_time": 1718877679,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 111588,
@@ -47905,14 +48025,6 @@
       "onboard_time": 1717292057,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108751,
-      "num": 108751,
-      "word": "吴谨言回应墨雨云间借位吻戏",
-      "onboard_time": 1718876059,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 108713,
@@ -50865,14 +50977,6 @@
       "onboard_time": 1718251459,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 85688,
-      "num": 459217,
-      "word": "桂江发生超历史实测纪录洪水",
-      "onboard_time": 1718874557,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85640,
@@ -54691,6 +54795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48105,
+      "num": 200839,
+      "word": "喝无糖茶也可以不吃苦了",
+      "onboard_time": 1718878038,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 48095,
       "num": 48095,
       "word": "迪丽热巴 TopGirl",
@@ -55179,6 +55291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42985,
+      "num": 426179,
+      "word": "梅州多位村民讲述洪水发生情况",
+      "onboard_time": 1718878279,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 42977,
       "num": 42977,
       "word": "高考第4天继续加油",
@@ -55385,6 +55505,14 @@
       "onboard_time": 1717440371,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 41498,
+      "num": 364697,
+      "word": "计算机专业毕业生薪资真相",
+      "onboard_time": 1718877618,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 41470,
@@ -56004,7 +56132,7 @@
     },
     {
       "raw_hot": 36487,
-      "num": 496779,
+      "num": 510633,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,

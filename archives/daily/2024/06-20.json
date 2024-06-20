@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718876079926,
+  "endTime": 1718878824351,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -291,6 +291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 624437,
+      "num": 452403,
+      "word": "陈妍希新综艺或将近期播出",
+      "onboard_time": 1718875818,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 609347,
       "num": 527631,
       "word": "刘亦菲狼尾造型",
@@ -427,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456233,
+      "num": 456233,
+      "word": "官方辟谣发射3000枚增雨弹引发暴雨",
+      "onboard_time": 1718875039,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446484,
       "num": 170878,
       "word": "韩红将参加歌手2024",
@@ -480,6 +496,14 @@
       "word": "12306回应桂林火车站暂停客运业务",
       "onboard_time": 1718842459,
       "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414165,
+      "num": 414165,
+      "word": "Manner单店平均收入8000元一天",
+      "onboard_time": 1718876118,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -611,6 +635,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 319508,
+      "num": 319508,
+      "word": "文科生 中医",
+      "onboard_time": 1718874198,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 319408,
       "num": 319408,
       "word": "一加",
@@ -643,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302732,
+      "num": 302732,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1718876718,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301057,
       "num": 301057,
       "word": "2024高考成绩公布时间汇总",
@@ -673,14 +713,6 @@
       "onboard_time": 1718857399,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 273977,
-      "num": 197881,
-      "word": "陈妍希新综艺或将近期播出",
-      "onboard_time": 1718875818,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 270706,
@@ -788,7 +820,7 @@
     },
     {
       "raw_hot": 243843,
-      "num": 188376,
+      "num": 195097,
       "word": "小城焕日 刘亦菲",
       "onboard_time": 1718875278,
       "rank": 44,
@@ -865,6 +897,14 @@
       "onboard_time": 1718846657,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 235157,
+      "num": 235157,
+      "word": "吴谨言回应墨雨云间借位吻戏",
+      "onboard_time": 1718876059,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 234613,
@@ -955,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218669,
+      "num": 218669,
+      "word": "收到了黄亦玫的离婚请帖",
+      "onboard_time": 1718877918,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218231,
       "num": 218231,
       "word": "男子吐槽买鸡爪遇刺客两个27.4元",
@@ -1027,20 +1075,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 206619,
+      "num": 206619,
+      "word": "王俊凯让C位失败",
+      "onboard_time": 1718877079,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203445,
       "num": 203445,
       "word": "夸夸小精灵 我和谁最配",
       "onboard_time": 1718856378,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 200689,
-      "num": 200689,
-      "word": "官方辟谣发射3000枚增雨弹引发暴雨",
-      "onboard_time": 1718875039,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199713,
@@ -1163,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190232,
+      "num": 190232,
+      "word": "黄亦玫带娃三年考了3本资格证",
+      "onboard_time": 1718878698,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188986,
       "num": 188986,
       "word": "TMEA全阵容",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1718865197,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186456,
+      "num": 186456,
+      "word": "刺猬",
+      "onboard_time": 1718878398,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 186009,
@@ -1283,6 +1347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177517,
+      "num": 177517,
+      "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
+      "onboard_time": 1718875278,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "易烊千玺摩登绅士",
@@ -1291,20 +1363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 175736,
-      "num": 175736,
-      "word": "文科生 中医",
-      "onboard_time": 1718874198,
-      "rank": 29,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 175534,
-      "num": 175534,
-      "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
-      "onboard_time": 1718875278,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 172618,
+      "num": 172618,
+      "word": "太初 太想念初恋",
+      "onboard_time": 1718878517,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 170588,
@@ -1419,12 +1483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157642,
+      "num": 157642,
+      "word": "陈妍希综艺",
+      "onboard_time": 1718877379,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157385,
       "num": 123096,
       "word": "刘雯井柏然时尚芭莎情侣封面",
       "onboard_time": 1718865139,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157186,
+      "num": 157186,
+      "word": "叶海洋 儿女双全",
+      "onboard_time": 1718877019,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 156358,
@@ -1513,6 +1593,14 @@
       "onboard_time": 1718873238,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149700,
+      "num": 149700,
+      "word": "证监会抓住一只蚊子",
+      "onboard_time": 1718877319,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 148544,
@@ -1611,12 +1699,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134592,
+      "num": 143545,
+      "word": "梅州在外年轻人请假回乡清淤",
+      "onboard_time": 1718876418,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133476,
       "num": 133476,
       "word": "张真源被粉丝夸害羞了",
       "onboard_time": 1718875099,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133096,
+      "num": 133096,
+      "word": "新疆大盘鸡瀑布",
+      "onboard_time": 1718878578,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 132326,
@@ -1803,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119961,
+      "num": 119961,
+      "word": "合肥地铁回应电子屏投放狗肉广告",
+      "onboard_time": 1718876118,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 119929,
       "num": 119929,
       "word": "徐明浩cos美男鱼",
@@ -1883,6 +1995,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112261,
+      "num": 459217,
+      "word": "桂江发生超历史实测纪录洪水",
+      "onboard_time": 1718874557,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111625,
+      "num": 111625,
+      "word": "王者S36峡谷玩法调整",
+      "onboard_time": 1718877679,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111348,
       "num": 111348,
       "word": "刘雯井柏然时尚芭莎预告",
@@ -1905,14 +2033,6 @@
       "onboard_time": 1718839096,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108751,
-      "num": 108751,
-      "word": "吴谨言回应墨雨云间借位吻戏",
-      "onboard_time": 1718876059,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 107922,
@@ -2136,14 +2256,6 @@
       "word": "奋力谱写中国式现代化青海篇章",
       "onboard_time": 1718864658,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 85688,
-      "num": 459217,
-      "word": "桂江发生超历史实测纪录洪水",
-      "onboard_time": 1718874557,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2379,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48105,
+      "num": 200839,
+      "word": "喝无糖茶也可以不吃苦了",
+      "onboard_time": 1718878038,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 44925,
       "num": 46090,
       "word": "京多安传射",
@@ -2395,6 +2515,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42985,
+      "num": 426179,
+      "word": "梅州多位村民讲述洪水发生情况",
+      "onboard_time": 1718878279,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41498,
+      "num": 364697,
+      "word": "计算机专业毕业生薪资真相",
+      "onboard_time": 1718877618,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 36849,
       "num": 172165,
       "word": "马来西亚杀警案5嫌犯被控",
@@ -2404,7 +2540,7 @@
     },
     {
       "raw_hot": 36487,
-      "num": 496779,
+      "num": 510633,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,
