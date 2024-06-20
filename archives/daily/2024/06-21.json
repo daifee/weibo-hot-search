@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718907992341,
+  "endTime": 1718908677555,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67724,
+      "num": 52933,
+      "word": "日向翔阳28岁生日",
+      "onboard_time": 1718908452,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 60417,
       "num": 186454,
       "word": "熊猫宝宝的胖jiojio也太灵活了",
@@ -459,7 +467,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 14471,
+      "raw_hot": 26185,
       "num": 95673,
       "word": "酒水批发市场怎么卖不动酒了",
       "onboard_time": 1718906172,
