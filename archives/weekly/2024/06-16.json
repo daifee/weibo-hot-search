@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718854531257,
+  "endTime": 1718857317460,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -185,6 +185,14 @@
       "onboard_time": 1718761638,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1609962,
+      "num": 1609962,
+      "word": "歌手歌单",
+      "onboard_time": 1718855840,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1595084,
@@ -675,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1100784,
+      "num": 929668,
+      "word": "女子因父母拒绝签字被困精神病院十年",
+      "onboard_time": 1718851638,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1096341,
       "num": 888349,
       "word": "猝死前的5分钟身体经历了什么",
@@ -689,14 +705,6 @@
       "onboard_time": 1718683579,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1053495,
-      "num": 929668,
-      "word": "女子因父母拒绝签字被困精神病院十年",
-      "onboard_time": 1718851638,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1047398,
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 812128,
-      "num": 465178,
+      "num": 599581,
       "word": "仅两款iPhone可使用苹果AI",
       "onboard_time": 1718850199,
       "rank": 18,
@@ -1241,6 +1249,14 @@
       "onboard_time": 1718786780,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 773747,
+      "num": 773747,
+      "word": "贾玲露腰T恤",
+      "onboard_time": 1718853379,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 766495,
@@ -1427,14 +1443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 702937,
-      "num": 422819,
-      "word": "贾玲露腰T恤",
-      "onboard_time": 1718853379,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 700071,
       "num": 497817,
       "word": "孙丞潇一个人卖了20只鸡",
@@ -1539,8 +1547,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 668118,
+      "num": 668118,
+      "word": "将门毒后选角",
+      "onboard_time": 1718855058,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 663309,
-      "num": 463940,
+      "num": 554309,
       "word": "墨雨云间番外",
       "onboard_time": 1718852599,
       "rank": 11,
@@ -1859,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 576319,
+      "num": 663773,
+      "word": "于正我不允许任何人忤逆你",
+      "onboard_time": 1718854278,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 575957,
       "num": 504984,
       "word": "鞠婧祎不是女团了",
@@ -2003,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 550326,
+      "num": 550326,
+      "word": "我养你变成了我养的你",
+      "onboard_time": 1718855659,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 549299,
       "num": 214704,
       "word": "结婚前一定要聊的10件事",
@@ -2041,6 +2073,14 @@
       "onboard_time": 1718694138,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 544023,
+      "num": 561560,
+      "word": "肯德基锅包肉",
+      "onboard_time": 1718856621,
+      "rank": 13,
+      "category": "美食"
     },
     {
       "raw_hot": 542419,
@@ -2172,7 +2212,7 @@
     },
     {
       "raw_hot": 522192,
-      "num": 461534,
+      "num": 516889,
       "word": "韩国女性为何不愿生孩子",
       "onboard_time": 1718850857,
       "rank": 18,
@@ -2433,6 +2473,14 @@
       "onboard_time": 1718797219,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487912,
+      "num": 354469,
+      "word": "黄亦玫离婚海报",
+      "onboard_time": 1718855959,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 485171,
@@ -2777,6 +2825,14 @@
       "onboard_time": 1718784198,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436428,
+      "num": 436428,
+      "word": "巴黎奥运会或成为有史以来最热一届",
+      "onboard_time": 1718851458,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 436131,
@@ -4003,6 +4059,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326665,
+      "num": 192522,
+      "word": "复旦录取通知书采用非遗潞绸为封",
+      "onboard_time": 1718856019,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 326141,
       "num": 326141,
       "word": "订书钉才是上班摸鱼神器",
@@ -4803,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268219,
+      "num": 268219,
+      "word": "周杰伦一出手就是七张演唱会门票",
+      "onboard_time": 1718856560,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267953,
       "num": 244131,
       "word": "易烊千玺刺绣连体裤",
@@ -5089,14 +5161,6 @@
       "onboard_time": 1718528719,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 243810,
-      "num": 243810,
-      "word": "巴黎奥运会或成为有史以来最热一届",
-      "onboard_time": 1718851458,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 243746,
@@ -5547,6 +5611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 221151,
+      "num": 221151,
+      "word": "王星越玉佩缠手上",
+      "onboard_time": 1718854698,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221045,
       "num": 202564,
       "word": "苏新皓朱志鑫并列第一",
@@ -5737,6 +5809,14 @@
       "onboard_time": 1718709436,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213797,
+      "num": 213797,
+      "word": "男子吐槽买鸡爪遇刺客两个27.4元",
+      "onboard_time": 1718855238,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213388,
@@ -6083,6 +6163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203445,
+      "num": 203445,
+      "word": "夸夸小精灵 我和谁最配",
+      "onboard_time": 1718681598,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 203367,
       "num": 203367,
       "word": "湖南卫视开心夜节目单",
@@ -6371,14 +6459,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 196526,
-      "num": 186417,
-      "word": "于正我不允许任何人忤逆你",
-      "onboard_time": 1718854278,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196377,
       "num": 196377,
       "word": "鞠婧祎陈丽君越剧舞台",
@@ -6449,6 +6529,14 @@
       "onboard_time": 1718758938,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194343,
+      "num": 194343,
+      "word": "虞书欣林一女A男O",
+      "onboard_time": 1718856199,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 194199,
@@ -7011,6 +7099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183690,
+      "num": 183690,
+      "word": "陈飞宇告超能摄影阳阳案胜诉",
+      "onboard_time": 1718855299,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183400,
       "num": 183400,
       "word": "以色列解散战时内阁",
@@ -7193,6 +7289,14 @@
       "onboard_time": 1718762839,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 178729,
+      "num": 178729,
+      "word": "俄方要求美国从欧洲撤出全部核武器",
+      "onboard_time": 1718855659,
+      "rank": 33,
+      "category": "国外时政"
     },
     {
       "raw_hot": 178690,
@@ -7801,6 +7905,14 @@
       "onboard_time": 1718767039,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165413,
+      "num": 165413,
+      "word": "周杰伦写这首歌是想整人吗",
+      "onboard_time": 1718855898,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 165330,
@@ -8528,6 +8640,14 @@
       "word": "刚收到的录取通知书被撤回了",
       "onboard_time": 1718634200,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 150803,
+      "num": 150803,
+      "word": "刚毕业的迷茫期到底该怎么度过",
+      "onboard_time": 1718856259,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -9579,6 +9699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130627,
+      "num": 130627,
+      "word": "高考生暑假工 315",
+      "onboard_time": 1718857220,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130576,
       "num": 130576,
       "word": "TheShy诡术薇恩",
@@ -9593,6 +9721,14 @@
       "onboard_time": 1718553618,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130462,
+      "num": 130462,
+      "word": "马嘉祺穿校服唱渐暖",
+      "onboard_time": 1718855599,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130422,
@@ -10699,6 +10835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111337,
+      "num": 614907,
+      "word": "蟑螂开始对杀虫剂无感了",
+      "onboard_time": 1718856019,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
+    },
+    {
       "raw_hot": 110935,
       "num": 110935,
       "word": "火锅 舌头变黑",
@@ -11185,14 +11329,6 @@
       "onboard_time": 1718804720,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 101727,
-      "num": 101727,
-      "word": "夸夸小精灵 我和谁最配",
-      "onboard_time": 1718681598,
-      "rank": 49,
-      "category": "互联网"
     },
     {
       "raw_hot": 101722,
@@ -12627,6 +12763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47639,
+      "num": 604032,
+      "word": "贾玲lululemon",
+      "onboard_time": 1718854698,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46932,
       "num": 324202,
       "word": "大学毕业典礼的国风氛围感绝了",
@@ -13283,6 +13427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28088,
+      "num": 383192,
+      "word": "刘宇的猫也参加猫王大赛了",
+      "onboard_time": 1718856259,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27597,
       "num": 646131,
       "word": "治沙尖子生的解题新思路",
@@ -13544,6 +13696,14 @@
       "word": "2024祝福每一位父亲",
       "onboard_time": 1718493432,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19556,
+      "num": 794497,
+      "word": "AI眼中的三夏画卷",
+      "onboard_time": 1718856919,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

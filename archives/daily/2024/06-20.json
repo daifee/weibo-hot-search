@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718854531257,
+  "endTime": 1718857317460,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -27,6 +27,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1609962,
+      "num": 1609962,
+      "word": "歌手歌单",
+      "onboard_time": 1718855840,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1410929,
       "num": 1410929,
       "word": "玫瑰的故事最炸裂的台词出现了",
@@ -35,7 +43,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1053495,
+      "raw_hot": 1100784,
       "num": 929668,
       "word": "女子因父母拒绝签字被困精神病院十年",
       "onboard_time": 1718851638,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 812128,
-      "num": 465178,
+      "num": 599581,
       "word": "仅两款iPhone可使用苹果AI",
       "onboard_time": 1718850199,
       "rank": 18,
@@ -99,20 +107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 773747,
+      "num": 773747,
+      "word": "贾玲露腰T恤",
+      "onboard_time": 1718853379,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 725189,
       "num": 725189,
       "word": "女孩秋千跌落身亡设备公司判赔107万",
       "onboard_time": 1718809519,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 702937,
-      "num": 422819,
-      "word": "贾玲露腰T恤",
-      "onboard_time": 1718853379,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 676640,
@@ -123,8 +131,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 668118,
+      "num": 668118,
+      "word": "将门毒后选角",
+      "onboard_time": 1718855058,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 663309,
-      "num": 463940,
+      "num": 554309,
       "word": "墨雨云间番外",
       "onboard_time": 1718852599,
       "rank": 11,
@@ -139,12 +155,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 576319,
+      "num": 663773,
+      "word": "于正我不允许任何人忤逆你",
+      "onboard_time": 1718854278,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 564990,
       "num": 216007,
       "word": "医院抽出来的血最终会去哪里",
       "onboard_time": 1718839996,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 550326,
+      "num": 550326,
+      "word": "我养你变成了我养的你",
+      "onboard_time": 1718855659,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 549299,
@@ -155,8 +187,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 544023,
+      "num": 561560,
+      "word": "肯德基锅包肉",
+      "onboard_time": 1718856621,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 522192,
-      "num": 461534,
+      "num": 516889,
       "word": "韩国女性为何不愿生孩子",
       "onboard_time": 1718850857,
       "rank": 18,
@@ -187,6 +227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 487912,
+      "num": 354469,
+      "word": "黄亦玫离婚海报",
+      "onboard_time": 1718855959,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 483271,
       "num": 283830,
       "word": "姜萍黑板题目的详细解析",
@@ -200,6 +248,14 @@
       "word": "央视与腾讯就巴黎奥运会达成合作",
       "onboard_time": 1718810181,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 436428,
+      "num": 436428,
+      "word": "巴黎奥运会或成为有史以来最热一届",
+      "onboard_time": 1718851458,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -323,6 +379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 326665,
+      "num": 192522,
+      "word": "复旦录取通知书采用非遗潞绸为封",
+      "onboard_time": 1718856019,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 320059,
       "num": 94407,
       "word": "普京抵达越南",
@@ -379,6 +443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 268219,
+      "num": 268219,
+      "word": "周杰伦一出手就是七张演唱会门票",
+      "onboard_time": 1718856560,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264457,
       "num": 264457,
       "word": "周鸿祎990万元卖迈巴赫后续",
@@ -425,14 +497,6 @@
       "onboard_time": 1718846119,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 243810,
-      "num": 243810,
-      "word": "巴黎奥运会或成为有史以来最热一届",
-      "onboard_time": 1718851458,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 243245,
@@ -515,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 221151,
+      "num": 221151,
+      "word": "王星越玉佩缠手上",
+      "onboard_time": 1718854698,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220079,
       "num": 220079,
       "word": "韩国宣布进入人口危机紧急状态",
@@ -547,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213797,
+      "num": 213797,
+      "word": "男子吐槽买鸡爪遇刺客两个27.4元",
+      "onboard_time": 1718855238,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209517,
       "num": 209517,
       "word": "玫瑰的故事",
@@ -560,6 +640,14 @@
       "word": "为什么职场年轻人想喝酒",
       "onboard_time": 1718850378,
       "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 203445,
+      "num": 203445,
+      "word": "夸夸小精灵 我和谁最配",
+      "onboard_time": 1718856378,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -587,11 +675,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196526,
-      "num": 186417,
-      "word": "于正我不允许任何人忤逆你",
-      "onboard_time": 1718854278,
-      "rank": 30,
+      "raw_hot": 194343,
+      "num": 194343,
+      "word": "虞书欣林一女A男O",
+      "onboard_time": 1718856199,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -659,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183690,
+      "num": 183690,
+      "word": "陈飞宇告超能摄影阳阳案胜诉",
+      "onboard_time": 1718855299,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181366,
       "num": 181366,
       "word": "国产新能源车卖78.9万贵不贵",
@@ -675,12 +771,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178729,
+      "num": 178729,
+      "word": "俄方要求美国从欧洲撤出全部核武器",
+      "onboard_time": 1718855659,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 177535,
       "num": 177535,
       "word": "汉服女孩用东方神秘力量征服老外",
       "onboard_time": 1718850257,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165413,
+      "num": 165413,
+      "word": "周杰伦写这首歌是想整人吗",
+      "onboard_time": 1718855898,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 164486,
@@ -721,6 +833,14 @@
       "onboard_time": 1718809641,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150803,
+      "num": 150803,
+      "word": "刚毕业的迷茫期到底该怎么度过",
+      "onboard_time": 1718856259,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 145346,
@@ -769,6 +889,22 @@
       "onboard_time": 1718850497,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130627,
+      "num": 130627,
+      "word": "高考生暑假工 315",
+      "onboard_time": 1718857220,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130462,
+      "num": 130462,
+      "word": "马嘉祺穿校服唱渐暖",
+      "onboard_time": 1718855599,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130422,
@@ -889,6 +1025,14 @@
       "onboard_time": 1718813119,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 111337,
+      "num": 614907,
+      "word": "蟑螂开始对杀虫剂无感了",
+      "onboard_time": 1718856019,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 109949,
@@ -1235,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47639,
+      "num": 604032,
+      "word": "贾玲lululemon",
+      "onboard_time": 1718854698,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44925,
       "num": 46090,
       "word": "京多安传射",
@@ -1275,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28088,
+      "num": 383192,
+      "word": "刘宇的猫也参加猫王大赛了",
+      "onboard_time": 1718856259,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25549,
       "num": 216985,
       "word": "一碗粉一张饼暖心又暖胃",
@@ -1304,6 +1464,14 @@
       "word": "人总要给这片土地留下点东西",
       "onboard_time": 1718812518,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19556,
+      "num": 794497,
+      "word": "AI眼中的三夏画卷",
+      "onboard_time": 1718856919,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
