@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718867899356,
+  "endTime": 1718868875275,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1307101,
+      "num": 1307101,
+      "word": "manner",
+      "onboard_time": 1718865197,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1294781,
       "num": 1146249,
       "word": "姜萍答数学题 完整复盘",
@@ -656,14 +664,6 @@
       "word": "记者卧底鸭肠鹅肠工厂",
       "onboard_time": 1718588596,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1136847,
-      "num": 1136847,
-      "word": "manner",
-      "onboard_time": 1718865197,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1475,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 713107,
+      "num": 237068,
+      "word": "因停机错过考编递补考生已考上公务员",
+      "onboard_time": 1718866697,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 712449,
       "num": 645119,
       "word": "赵露思陈伟霆亲吻路透",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1718527877,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696750,
+      "num": 391643,
+      "word": "陈思诚 对短视频贴脸开大",
+      "onboard_time": 1718866459,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 696171,
@@ -1939,14 +1955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 583173,
-      "num": 391643,
-      "word": "陈思诚 对短视频贴脸开大",
-      "onboard_time": 1718866459,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 576910,
       "num": 576910,
       "word": "机场回应疑似外国人起飞时偷拍",
@@ -2283,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 523877,
+      "num": 300297,
+      "word": "张杰曾说不敢在鸟巢开演唱会",
+      "onboard_time": 1718866639,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 522192,
       "num": 516889,
       "word": "韩国女性为何不愿生孩子",
@@ -2337,6 +2353,14 @@
       "onboard_time": 1718634559,
       "rank": 37,
       "category": "美食"
+    },
+    {
+      "raw_hot": 519660,
+      "num": 281362,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1718863998,
+      "rank": 36,
+      "category": "国外时政"
     },
     {
       "raw_hot": 518526,
@@ -2491,14 +2515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497499,
-      "num": 281362,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1718863998,
-      "rank": 36,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 497061,
       "num": 497061,
       "word": "吴谨言 不知道王星越在爽些什么",
@@ -2537,6 +2553,14 @@
       "onboard_time": 1718777120,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 494289,
+      "num": 231498,
+      "word": "阳阳 15万让大家认识陈飞宇",
+      "onboard_time": 1718867239,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 493167,
@@ -2675,14 +2699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 468749,
-      "num": 273095,
-      "word": "张杰曾说不敢在鸟巢开演唱会",
-      "onboard_time": 1718866639,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 468618,
       "num": 226521,
       "word": "大学生最烧钱的八大爱好",
@@ -2800,14 +2816,6 @@
       "word": "姐妹俩一起开小饭馆同时确诊肺癌",
       "onboard_time": 1718597538,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 452919,
-      "num": 237068,
-      "word": "因停机错过考编递补考生已考上公务员",
-      "onboard_time": 1718866697,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -4299,6 +4307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314473,
+      "num": 314473,
+      "word": "一加",
+      "onboard_time": 1718867058,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 314121,
       "num": 269854,
       "word": "鞠婧祎office发文",
@@ -4616,14 +4632,6 @@
       "word": "老粉都没认出黄晓明",
       "onboard_time": 1718590817,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 287481,
-      "num": 231498,
-      "word": "阳阳 15万让大家认识陈飞宇",
-      "onboard_time": 1718867239,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -5051,6 +5059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263855,
+      "num": 172986,
+      "word": "苏醒 牛粪事件受害者",
+      "onboard_time": 1718868019,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263354,
       "num": 263354,
       "word": "欧洲杯首个爆冷",
@@ -5201,14 +5217,6 @@
       "onboard_time": 1718851219,
       "rank": 24,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 251850,
-      "num": 251850,
-      "word": "一加",
-      "onboard_time": 1718867058,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 251005,
@@ -5835,6 +5843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220490,
+      "num": 171393,
+      "word": "王星越歪头这一下",
+      "onboard_time": 1718868499,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220401,
       "num": 220401,
       "word": "拜登",
@@ -5905,6 +5921,14 @@
       "onboard_time": 1718618298,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 218412,
+      "num": 241993,
+      "word": "直击南方多地暴雨现场",
+      "onboard_time": 1718865917,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218325,
@@ -6603,6 +6627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197840,
+      "num": 172676,
+      "word": "长相思2",
+      "onboard_time": 1718868619,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197831,
       "num": 197831,
       "word": "雷佳音胡歌出演冯小刚新片",
@@ -6721,6 +6753,14 @@
       "onboard_time": 1718529258,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195401,
+      "num": 191768,
+      "word": "片寄凉太土屋太凤 最强售后",
+      "onboard_time": 1718866039,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 195327,
@@ -6921,14 +6961,6 @@
       "onboard_time": 1718609538,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191768,
-      "num": 191768,
-      "word": "片寄凉太土屋太凤 最强售后",
-      "onboard_time": 1718866039,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 191595,
@@ -8763,6 +8795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154739,
+      "num": 154739,
+      "word": "花花开出了高饱和度的夏天",
+      "onboard_time": 1718866697,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 154565,
       "num": 154565,
       "word": "黄轩二搭杨幂想演对手",
@@ -9091,6 +9131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148544,
+      "num": 148544,
+      "word": "韩国5万人请愿加重交往暴力量刑",
+      "onboard_time": 1718866039,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148292,
       "num": 148292,
       "word": "带男朋友回家后发现家人很冷漠",
@@ -9337,14 +9385,6 @@
       "onboard_time": 1718698159,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 143359,
-      "num": 143359,
-      "word": "花花开出了高饱和度的夏天",
-      "onboard_time": 1718866697,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 143189,
@@ -9721,6 +9761,14 @@
       "onboard_time": 1718864598,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134896,
+      "num": 134896,
+      "word": "清华刑法学教授谈姜萍遭质疑",
+      "onboard_time": 1718868318,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 134730,
@@ -10771,14 +10819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122046,
-      "num": 241993,
-      "word": "直击南方多地暴雨现场",
-      "onboard_time": 1718865917,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "阴阳怪气的小猫",
@@ -11284,7 +11324,7 @@
     },
     {
       "raw_hot": 110756,
-      "num": 955687,
+      "num": 1036544,
       "word": "高考志愿填报该看兴趣还是就业前景",
       "onboard_time": 1718857761,
       "rank": 2,
@@ -13187,6 +13227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50974,
+      "num": 248487,
+      "word": "金晨居家女友风",
+      "onboard_time": 1718864057,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 50892,
       "num": 1052154,
       "word": "晒一晒你和爸爸的合影",
@@ -13329,14 +13377,6 @@
       "onboard_time": 1718603357,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45949,
-      "num": 248487,
-      "word": "金晨居家女友风",
-      "onboard_time": 1718864057,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 44925,
@@ -13651,6 +13691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36849,
+      "num": 172165,
+      "word": "马来西亚杀警案5嫌犯被控",
+      "onboard_time": 1718868798,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36318,
       "num": 47902,
       "word": "牛津朱朱 自学数学的可行性",
@@ -13905,6 +13953,14 @@
       "onboard_time": 1718530457,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 28887,
+      "num": 175582,
+      "word": "桂林新娘在洪水中坐消防车去结婚",
+      "onboard_time": 1718868738,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28529,

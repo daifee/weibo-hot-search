@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718867899356,
+  "endTime": 1718868875275,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -51,6 +51,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1307101,
+      "num": 1307101,
+      "word": "manner",
+      "onboard_time": 1718865197,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1231260,
       "num": 922283,
       "word": "傅家明因病去世",
@@ -65,14 +73,6 @@
       "onboard_time": 1718856621,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1136847,
-      "num": 1136847,
-      "word": "manner",
-      "onboard_time": 1718865197,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1100784,
@@ -187,6 +187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713107,
+      "num": 237068,
+      "word": "因停机错过考编递补考生已考上公务员",
+      "onboard_time": 1718866697,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 696750,
+      "num": 391643,
+      "word": "陈思诚 对短视频贴脸开大",
+      "onboard_time": 1718866459,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 677382,
       "num": 668118,
       "word": "将门毒后选角",
@@ -227,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 583173,
-      "num": 391643,
-      "word": "陈思诚 对短视频贴脸开大",
-      "onboard_time": 1718866459,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 576319,
       "num": 663773,
       "word": "于正我不允许任何人忤逆你",
@@ -267,11 +275,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 523877,
+      "num": 300297,
+      "word": "张杰曾说不敢在鸟巢开演唱会",
+      "onboard_time": 1718866639,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 522192,
       "num": 516889,
       "word": "韩国女性为何不愿生孩子",
       "onboard_time": 1718850857,
       "rank": 18,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 519660,
+      "num": 281362,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1718863998,
+      "rank": 36,
       "category": "国外时政"
     },
     {
@@ -291,12 +315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 497499,
-      "num": 281362,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1718863998,
-      "rank": 36,
-      "category": "国外时政"
+      "raw_hot": 494289,
+      "num": 231498,
+      "word": "阳阳 15万让大家认识陈飞宇",
+      "onboard_time": 1718867239,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 492755,
@@ -320,22 +344,6 @@
       "word": "姜萍黑板题目的详细解析",
       "onboard_time": 1718846299,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 468749,
-      "num": 273095,
-      "word": "张杰曾说不敢在鸟巢开演唱会",
-      "onboard_time": 1718866639,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 452919,
-      "num": 237068,
-      "word": "因停机错过考编递补考生已考上公务员",
-      "onboard_time": 1718866697,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -507,6 +515,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 314473,
+      "num": 314473,
+      "word": "一加",
+      "onboard_time": 1718867058,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 305576,
       "num": 305576,
       "word": "菲律宾",
@@ -529,14 +545,6 @@
       "onboard_time": 1718806040,
       "rank": 8,
       "category": "教育"
-    },
-    {
-      "raw_hot": 287481,
-      "num": 231498,
-      "word": "阳阳 15万让大家认识陈飞宇",
-      "onboard_time": 1718867239,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 283346,
@@ -595,6 +603,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 263855,
+      "num": 172986,
+      "word": "苏醒 牛粪事件受害者",
+      "onboard_time": 1718868019,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259317,
       "num": 259317,
       "word": "超能摄影阳阳",
@@ -625,14 +641,6 @@
       "onboard_time": 1718846719,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 251850,
-      "num": 251850,
-      "word": "一加",
-      "onboard_time": 1718867058,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 251005,
@@ -779,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220490,
+      "num": 171393,
+      "word": "王星越歪头这一下",
+      "onboard_time": 1718868499,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220079,
       "num": 220079,
       "word": "韩国宣布进入人口危机紧急状态",
@@ -793,6 +809,14 @@
       "onboard_time": 1718860519,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218412,
+      "num": 241993,
+      "word": "直击南方多地暴雨现场",
+      "onboard_time": 1718865917,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218231,
@@ -875,6 +899,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 197840,
+      "num": 172676,
+      "word": "长相思2",
+      "onboard_time": 1718868619,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196975,
       "num": 196975,
       "word": "萧蘅求婚薛芳菲",
@@ -905,6 +937,14 @@
       "onboard_time": 1718804600,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195401,
+      "num": 191768,
+      "word": "片寄凉太土屋太凤 最强售后",
+      "onboard_time": 1718866039,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 194343,
@@ -945,14 +985,6 @@
       "onboard_time": 1718849658,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191768,
-      "num": 191768,
-      "word": "片寄凉太土屋太凤 最强售后",
-      "onboard_time": 1718866039,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 190526,
@@ -1171,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154739,
+      "num": 154739,
+      "word": "花花开出了高饱和度的夏天",
+      "onboard_time": 1718866697,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 153938,
       "num": 153938,
       "word": "德国vs匈牙利",
@@ -1187,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148544,
+      "num": 148544,
+      "word": "韩国5万人请愿加重交往暴力量刑",
+      "onboard_time": 1718866039,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145346,
       "num": 145346,
       "word": "黄亦玫离婚",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1718863877,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143359,
-      "num": 143359,
-      "word": "花花开出了高饱和度的夏天",
-      "onboard_time": 1718866697,
-      "rank": 43,
-      "category": "旅游"
     },
     {
       "raw_hot": 143099,
@@ -1249,6 +1289,14 @@
       "onboard_time": 1718864598,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134896,
+      "num": 134896,
+      "word": "清华刑法学教授谈姜萍遭质疑",
+      "onboard_time": 1718868318,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132326,
@@ -1379,14 +1427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 122046,
-      "num": 241993,
-      "word": "直击南方多地暴雨现场",
-      "onboard_time": 1718865917,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 119974,
       "num": 119974,
       "word": "成语具象化",
@@ -1468,7 +1508,7 @@
     },
     {
       "raw_hot": 110756,
-      "num": 955687,
+      "num": 1036544,
       "word": "高考志愿填报该看兴趣还是就业前景",
       "onboard_time": 1718857761,
       "rank": 2,
@@ -1875,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50974,
+      "num": 248487,
+      "word": "金晨居家女友风",
+      "onboard_time": 1718864057,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 50875,
       "num": 50875,
       "word": "蓝色监狱 全员白衬衫西装",
@@ -1907,20 +1955,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45949,
-      "num": 248487,
-      "word": "金晨居家女友风",
-      "onboard_time": 1718864057,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 44925,
       "num": 46090,
       "word": "京多安传射",
       "onboard_time": 1718840056,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36849,
+      "num": 172165,
+      "word": "马来西亚杀警案5嫌犯被控",
+      "onboard_time": 1718868798,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33675,
@@ -1960,6 +2008,14 @@
       "word": "印度一地区为骆驼装义肢",
       "onboard_time": 1718850918,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28887,
+      "num": 175582,
+      "word": "桂林新娘在洪水中坐消防车去结婚",
+      "onboard_time": 1718868738,
+      "rank": 21,
       "category": "社会新闻"
     },
     {

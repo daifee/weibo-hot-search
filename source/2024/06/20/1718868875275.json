@@ -1,0 +1,410 @@
+{
+  "runTime": 1718868875275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1862208,
+        "num": 1862208,
+        "word": "长相思2 定档",
+        "onboard_time": 1718863939,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1307101,
+        "num": 1307101,
+        "word": "manner",
+        "onboard_time": 1718865197,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102848,
+        "num": 1036544,
+        "word": "高考志愿填报该看兴趣还是就业前景",
+        "onboard_time": 1718857761,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 785312,
+        "num": 785312,
+        "word": "傅家明因病去世",
+        "onboard_time": 1718859919,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347440,
+        "num": 347440,
+        "word": "孙杨未入选巴黎奥运会运动员名单",
+        "onboard_time": 1718860698,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314473,
+        "num": 314473,
+        "word": "一加",
+        "onboard_time": 1718867058,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 696750,
+        "num": 304811,
+        "word": "陈思诚 对短视频贴脸开大",
+        "onboard_time": 1718866459,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 523877,
+        "num": 300297,
+        "word": "张杰曾说不敢在鸟巢开演唱会",
+        "onboard_time": 1718866639,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292629,
+        "num": 292629,
+        "word": "A股",
+        "onboard_time": 1718862319,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218412,
+        "num": 218412,
+        "word": "直击南方多地暴雨现场",
+        "onboard_time": 1718865917,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519660,
+        "num": 217331,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1718863998,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 494289,
+        "num": 215321,
+        "word": "阳阳 15万让大家认识陈飞宇",
+        "onboard_time": 1718867239,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437090,
+        "num": 213031,
+        "word": "香港顶流姜涛巴黎时装周",
+        "onboard_time": 1718861178,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 390403,
+        "num": 210899,
+        "word": "黄亦玫离婚海报",
+        "onboard_time": 1718855959,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364894,
+        "num": 207740,
+        "word": "颜心记 空降",
+        "onboard_time": 1718860998,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200695,
+        "num": 205631,
+        "word": "上海警方辟谣中山公园地铁站捅人",
+        "onboard_time": 1718860998,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231655,
+        "num": 204482,
+        "word": "仅两款iPhone可使用苹果AI",
+        "onboard_time": 1718850199,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203309,
+        "num": 203309,
+        "word": "复旦录取通知书采用非遗潞绸为封",
+        "onboard_time": 1718856019,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195281,
+        "num": 195281,
+        "word": "尹锡悦称再不生娃韩国会走向灭绝",
+        "onboard_time": 1718850378,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 176459,
+        "num": 176459,
+        "word": "桂林洪水现场情况",
+        "onboard_time": 1718865077,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50610,
+        "num": 176026,
+        "word": "多家车企呼吁竞争要守住底线",
+        "onboard_time": 1718865559,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 28887,
+        "num": 175582,
+        "word": "桂林新娘在洪水中坐消防车去结婚",
+        "onboard_time": 1718868738,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50974,
+        "num": 175502,
+        "word": "金晨居家女友风",
+        "onboard_time": 1718864057,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 713107,
+        "num": 174781,
+        "word": "因停机错过考编递补考生已考上公务员",
+        "onboard_time": 1718866697,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100299,
+        "num": 174406,
+        "word": "这是洪水中安全感爆棚的怀抱",
+        "onboard_time": 1718865018,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271632,
+        "num": 173921,
+        "word": "女子因父母拒绝签字被困精神病院十年",
+        "onboard_time": 1718851638,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270031,
+        "num": 173195,
+        "word": "歌手歌单",
+        "onboard_time": 1718855840,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263855,
+        "num": 172986,
+        "word": "苏醒 牛粪事件受害者",
+        "onboard_time": 1718868019,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197840,
+        "num": 172676,
+        "word": "长相思2",
+        "onboard_time": 1718868619,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36849,
+        "num": 172165,
+        "word": "马来西亚杀警案5嫌犯被控",
+        "onboard_time": 1718868798,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220490,
+        "num": 171393,
+        "word": "王星越歪头这一下",
+        "onboard_time": 1718868499,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195401,
+        "num": 171099,
+        "word": "片寄凉太土屋太凤 最强售后",
+        "onboard_time": 1718866039,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191688,
+        "num": 170750,
+        "word": "我养你变成了我养的你",
+        "onboard_time": 1718855659,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183634,
+        "num": 170139,
+        "word": "蔡依林西安抢票",
+        "onboard_time": 1718867659,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169873,
+        "num": 169873,
+        "word": "菲常萧张的女儿",
+        "onboard_time": 1718851577,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167485,
+        "num": 167485,
+        "word": "WE疑回应Uzi加入",
+        "onboard_time": 1718865197,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165092,
+        "num": 165092,
+        "word": "赵丽颖 汇源",
+        "onboard_time": 1718859200,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161542,
+        "num": 161542,
+        "word": "萧蘅求婚薛芳菲",
+        "onboard_time": 1718866100,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160512,
+        "num": 160512,
+        "word": "蟑螂开始对杀虫剂无感了",
+        "onboard_time": 1718856019,
+        "rank": 38,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 154739,
+        "num": 154739,
+        "word": "花花开出了高饱和度的夏天",
+        "onboard_time": 1718866697,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 154621,
+        "num": 154621,
+        "word": "黄亦玫到离婚都没穿上婚纱",
+        "onboard_time": 1718840356,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153274,
+        "num": 153274,
+        "word": "于正我不允许任何人忤逆你",
+        "onboard_time": 1718854278,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152217,
+        "num": 152217,
+        "word": "王星越台词",
+        "onboard_time": 1718867537,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149461,
+        "num": 149461,
+        "word": "Uzi WE",
+        "onboard_time": 1718852178,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148544,
+        "num": 148544,
+        "word": "韩国5万人请愿加重交往暴力量刑",
+        "onboard_time": 1718866039,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140268,
+        "num": 140268,
+        "word": "张予曦录完浪姐想上班",
+        "onboard_time": 1718866219,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134896,
+        "num": 134896,
+        "word": "清华刑法学教授谈姜萍遭质疑",
+        "onboard_time": 1718868318,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134772,
+        "num": 134772,
+        "word": "刘浩存逛公园",
+        "onboard_time": 1718863998,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125126,
+        "num": 125126,
+        "word": "财政部 半夜出成绩",
+        "onboard_time": 1718839876,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120374,
+        "num": 120374,
+        "word": "迪丽热巴郭晓婷AI姐妹花",
+        "onboard_time": 1718863877,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中央军委政治工作会议在延安召开#"
+    }
+  }
+}
