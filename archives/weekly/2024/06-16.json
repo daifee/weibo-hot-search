@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718882189772,
+  "endTime": 1718883308855,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -619,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1170489,
+      "num": 1170489,
+      "word": "王一博 罗意威",
+      "onboard_time": 1718879657,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1165832,
       "num": 561560,
       "word": "肯德基锅包肉",
@@ -827,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1011895,
+      "num": 1011895,
+      "word": "上海Manner一男店员殴打女顾客",
+      "onboard_time": 1718880138,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1011294,
       "num": 1011294,
       "word": "黄亦玫到离婚都没穿上婚纱",
@@ -857,14 +873,6 @@
       "onboard_time": 1718590097,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1001335,
-      "num": 1001335,
-      "word": "王一博 罗意威",
-      "onboard_time": 1718879657,
-      "rank": 35,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 996887,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 958601,
-      "num": 451004,
+      "num": 484243,
       "word": "女性私处过度清洁反而更容易患病",
       "onboard_time": 1718872098,
       "rank": 30,
@@ -1331,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 779108,
+      "num": 253011,
+      "word": "男朋友竟然让我多要点彩礼",
+      "onboard_time": 1718881577,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 777556,
       "num": 777556,
       "word": "直播工作 每月2万保底工资",
@@ -1564,7 +1580,7 @@
     },
     {
       "raw_hot": 711606,
-      "num": 623678,
+      "num": 703632,
       "word": "太初 太想念初恋",
       "onboard_time": 1718878517,
       "rank": 34,
@@ -1843,14 +1859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 621400,
-      "num": 621400,
-      "word": "上海Manner一男店员殴打女顾客",
-      "onboard_time": 1718880138,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 618273,
       "num": 176320,
       "word": "奔驰腰斩式降价",
@@ -2033,6 +2041,14 @@
       "onboard_time": 1718686219,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 585411,
+      "num": 585411,
+      "word": "乐山炸串",
+      "onboard_time": 1718879898,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 584404,
@@ -2313,6 +2329,14 @@
       "onboard_time": 1718514377,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 539026,
+      "num": 539026,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1718876718,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 537545,
@@ -2987,14 +3011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446072,
-      "num": 233515,
-      "word": "男朋友竟然让我多要点彩礼",
-      "onboard_time": 1718881577,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 445631,
       "num": 298704,
       "word": "王一博你热不热",
@@ -3017,14 +3033,6 @@
       "onboard_time": 1718768720,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444156,
-      "num": 444156,
-      "word": "中国女排vs日本女排",
-      "onboard_time": 1718876718,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 440565,
@@ -3492,7 +3500,7 @@
     },
     {
       "raw_hot": 398690,
-      "num": 351480,
+      "num": 355711,
       "word": "王俊凯王源易烊千玺最新状态",
       "onboard_time": 1718879480,
       "rank": 21,
@@ -4427,6 +4435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321852,
+      "num": 321852,
+      "word": "manner泼咖啡粉员工已被辞退",
+      "onboard_time": 1718882118,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 321394,
       "num": 321394,
       "word": "TF三代出道战导师",
@@ -4483,14 +4499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 316748,
-      "num": 316748,
-      "word": "乐山炸串",
-      "onboard_time": 1718879898,
-      "rank": 17,
-      "category": "美食"
-    },
-    {
       "raw_hot": 316439,
       "num": 287360,
       "word": "墨雨云间",
@@ -4529,6 +4537,14 @@
       "onboard_time": 1718541978,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 313374,
+      "num": 313374,
+      "word": "中国女排0比2日本女排",
+      "onboard_time": 1718882298,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 311919,
@@ -5691,6 +5707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237616,
+      "num": 237616,
+      "word": "女排 拦网",
+      "onboard_time": 1718882778,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236922,
       "num": 157897,
       "word": "吴谨言上了郝蕾表演课后逆袭",
@@ -5921,6 +5945,14 @@
       "onboard_time": 1718856019,
       "rank": 9,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 228118,
+      "num": 228118,
+      "word": "女排 接应",
+      "onboard_time": 1718882177,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 227912,
@@ -6467,6 +6499,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208008,
+      "num": 208008,
+      "word": "墨雨云间同人",
+      "onboard_time": 1718882718,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207968,
       "num": 207968,
       "word": "那英吃香肠偷感好重",
@@ -6809,6 +6849,14 @@
       "onboard_time": 1718708777,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200176,
+      "num": 200176,
+      "word": "中国女排总决赛止步八强",
+      "onboard_time": 1718883197,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 199840,
@@ -7265,6 +7313,14 @@
       "onboard_time": 1718540239,
       "rank": 29,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 191427,
+      "num": 191427,
+      "word": "中国女排0比3日本女排",
+      "onboard_time": 1718883197,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 191354,
@@ -8172,7 +8228,7 @@
     },
     {
       "raw_hot": 174730,
-      "num": 174730,
+      "num": 203261,
       "word": "中方回应菲称我海警挥舞刀具",
       "onboard_time": 1718879359,
       "rank": 38,
@@ -8825,6 +8881,14 @@
       "onboard_time": 1718874557,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160892,
+      "num": 160892,
+      "word": "中方回应美方批准3.6亿美元对台军售",
+      "onboard_time": 1718882418,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 160887,
@@ -11179,6 +11243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124717,
+      "num": 124717,
+      "word": "霍建华都是素颜拍戏",
+      "onboard_time": 1718881939,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124583,
       "num": 124583,
       "word": "郑州版胖东来即将开业",
@@ -11611,14 +11683,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 118387,
-      "num": 118387,
-      "word": "霍建华都是素颜拍戏",
-      "onboard_time": 1718881939,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118144,
       "num": 118144,
       "word": "白客你戴着老花镜问黄轩什么",
@@ -11875,6 +11939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112704,
+      "num": 112704,
+      "word": "中国女排vs日本女排首发",
+      "onboard_time": 1718883137,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112556,
       "num": 112556,
       "word": "BL对战OP",
@@ -12003,6 +12075,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109720,
+      "num": 109720,
+      "word": "防晒服选购避坑指南",
+      "onboard_time": 1718883017,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 109636,
+      "num": 109636,
+      "word": "陈泽停播",
+      "onboard_time": 1718883258,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 109543,
       "num": 109543,
       "word": "申花",
@@ -12065,14 +12153,6 @@
       "onboard_time": 1718803879,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108606,
-      "num": 108606,
-      "word": "manner泼咖啡粉员工已被辞退",
-      "onboard_time": 1718882118,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 108595,
@@ -13131,6 +13211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80375,
+      "num": 392979,
+      "word": "喝无糖茶也可以不吃苦了",
+      "onboard_time": 1718878038,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 80113,
       "num": 214681,
       "word": "姜萍挑战自我的精神是当代青年榜样",
@@ -13403,6 +13491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69478,
+      "num": 718173,
+      "word": "起底热搜背后的产业链",
+      "onboard_time": 1718882536,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69048,
       "num": 194589,
       "word": "618我大大方方省了很多钱",
@@ -13593,14 +13689,6 @@
       "onboard_time": 1718661972,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62237,
-      "num": 392979,
-      "word": "喝无糖茶也可以不吃苦了",
-      "onboard_time": 1718878038,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 62088,
@@ -14379,6 +14467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36893,
+      "num": 488571,
+      "word": "桂林暴雨男子开皮划艇救20多人",
+      "onboard_time": 1718881997,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36849,
       "num": 172165,
       "word": "马来西亚杀警案5嫌犯被控",
@@ -14731,20 +14827,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26716,
+      "num": 349975,
+      "word": "除了记者新传专业还能做什么",
+      "onboard_time": 1718881217,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 26627,
       "num": 26627,
       "word": "刘德华白宇莫文蔚新片焚城",
       "onboard_time": 1718648593,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26550,
-      "num": 233714,
-      "word": "桂林暴雨男子开皮划艇救20多人",
-      "onboard_time": 1718881997,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26498,
@@ -15153,14 +15249,6 @@
       "onboard_time": 1718828651,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14934,
-      "num": 349975,
-      "word": "除了记者新传专业还能做什么",
-      "onboard_time": 1718881217,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 14264,
