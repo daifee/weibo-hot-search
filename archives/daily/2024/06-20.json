@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718896896679,
+  "endTime": 1718897691223,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -131,20 +131,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1120668,
+      "num": 1120668,
+      "word": "白晓荷有孩子了",
+      "onboard_time": 1718895620,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1100784,
       "num": 929668,
       "word": "女子因父母拒绝签字被困精神病院十年",
       "onboard_time": 1718851638,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1040153,
-      "num": 1040153,
-      "word": "白晓荷有孩子了",
-      "onboard_time": 1718895620,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 1024371,
@@ -235,6 +235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 805667,
+      "num": 526553,
+      "word": "刘亦菲第一次上快本旧照",
+      "onboard_time": 1718895499,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 803665,
       "num": 803665,
       "word": "孙杨未入选巴黎奥运会运动员名单",
@@ -281,14 +289,6 @@
       "onboard_time": 1718855959,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 751458,
-      "num": 341705,
-      "word": "刘亦菲第一次上快本旧照",
-      "onboard_time": 1718895499,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 748298,
@@ -409,6 +409,14 @@
       "onboard_time": 1718875818,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 619599,
+      "num": 619599,
+      "word": "人最好不要all in做任何事情",
+      "onboard_time": 1718896159,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 614668,
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463956,
+      "num": 305149,
+      "word": "中国快递员将参加巴黎奥运会比赛",
+      "onboard_time": 1718893880,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456233,
       "num": 456233,
       "word": "官方辟谣发射3000枚增雨弹引发暴雨",
@@ -619,20 +635,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 446606,
-      "num": 305149,
-      "word": "中国快递员将参加巴黎奥运会比赛",
-      "onboard_time": 1718893880,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 446484,
       "num": 170878,
       "word": "韩红将参加歌手2024",
       "onboard_time": 1718871198,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 439804,
+      "num": 381856,
+      "word": "张雪峰称文科生是能学好中医的",
+      "onboard_time": 1718893100,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 439189,
@@ -755,14 +771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 381856,
-      "num": 381856,
-      "word": "张雪峰称文科生是能学好中医的",
-      "onboard_time": 1718893100,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 377711,
       "num": 377711,
       "word": "黄亦玫是真的生气了",
@@ -873,14 +881,6 @@
       "onboard_time": 1718848219,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 330218,
-      "num": 330218,
-      "word": "人最好不要all in做任何事情",
-      "onboard_time": 1718896159,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 329029,
@@ -995,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286942,
+      "num": 286942,
+      "word": "傅家明 活两集",
+      "onboard_time": 1718895920,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283346,
       "num": 224002,
       "word": "有些人三个月就够了",
@@ -1017,6 +1025,14 @@
       "onboard_time": 1718857399,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 272961,
+      "num": 287832,
+      "word": "菲媒称中国万吨大驱驶过菲沿岸",
+      "onboard_time": 1718895980,
+      "rank": 30,
+      "category": "军事,国内时政"
     },
     {
       "raw_hot": 270706,
@@ -1089,14 +1105,6 @@
       "onboard_time": 1718860578,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 257898,
-      "num": 215276,
-      "word": "菲媒称中国万吨大驱驶过菲沿岸",
-      "onboard_time": 1718895980,
-      "rank": 30,
-      "category": "军事,国内时政"
     },
     {
       "raw_hot": 257317,
@@ -1328,14 +1336,6 @@
       "word": "所有人都露脸不告诉虞书欣",
       "onboard_time": 1718854099,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 222919,
-      "num": 222919,
-      "word": "傅家明 活两集",
-      "onboard_time": 1718895920,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1593,6 +1593,14 @@
       "onboard_time": 1718874378,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194413,
+      "num": 194413,
+      "word": "广东梅州两地强降雨致9人死亡",
+      "onboard_time": 1718895499,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194343,
@@ -2219,14 +2227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 146173,
-      "num": 146173,
-      "word": "广东梅州两地强降雨致9人死亡",
-      "onboard_time": 1718895499,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145346,
       "num": 145346,
       "word": "黄亦玫离婚",
@@ -2449,6 +2449,14 @@
       "onboard_time": 1718865018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128437,
+      "num": 128437,
+      "word": "黄亦玫吃菌子了吧",
+      "onboard_time": 1718897479,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 128196,
@@ -3339,6 +3347,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 36940,
+      "num": 338918,
+      "word": "雷军的问题周云杰的答案",
+      "onboard_time": 1718895319,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 36893,
       "num": 488571,
       "word": "桂林暴雨男子开皮划艇救20多人",
@@ -3401,14 +3417,6 @@
       "onboard_time": 1718822591,
       "rank": 42,
       "category": "教育"
-    },
-    {
-      "raw_hot": 30062,
-      "num": 338918,
-      "word": "雷军的问题周云杰的答案",
-      "onboard_time": 1718895319,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 29906,
@@ -3483,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23167,
+      "num": 493193,
+      "word": "父亲满身向上的勇气大抵来自于你",
+      "onboard_time": 1718896880,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22450,
       "num": 156727,
       "word": "日本警察偷窃衣物被捕",
@@ -3504,14 +3520,6 @@
       "word": "AI眼中的三夏画卷",
       "onboard_time": 1718856919,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16653,
-      "num": 216039,
-      "word": "父亲满身向上的勇气大抵来自于你",
-      "onboard_time": 1718896880,
-      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -3584,6 +3592,9 @@
     },
     {
       "word": "#习近平宁夏考察调研#"
+    },
+    {
+      "word": "#习近平在宁夏考察调研#"
     }
   ]
 }
