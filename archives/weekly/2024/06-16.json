@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718858157927,
+  "endTime": 1718860701642,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -1283,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 756304,
+      "num": 680146,
+      "word": "黄亦玫离婚海报",
+      "onboard_time": 1718855959,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 752598,
       "num": 392060,
       "word": "庆余年 二皇子",
@@ -1408,14 +1416,6 @@
       "word": "庄国栋带孩子",
       "onboard_time": 1718720300,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 723842,
-      "num": 380360,
-      "word": "黄亦玫离婚海报",
-      "onboard_time": 1718855959,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1867,6 +1867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 591692,
+      "num": 323610,
+      "word": "傅家明因病去世",
+      "onboard_time": 1718859919,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 588811,
       "num": 588811,
       "word": "赵露思把耳机挂腰上",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1718499016,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570101,
+      "num": 570101,
+      "word": "复旦录取通知书采用非遗潞绸为封",
+      "onboard_time": 1718856019,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 569437,
@@ -2955,6 +2971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 427455,
+      "num": 296483,
+      "word": "赵丽颖 汇源",
+      "onboard_time": 1718859200,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427077,
       "num": 427077,
       "word": "巴黎奥运会女排分组抽签",
@@ -3859,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339845,
+      "num": 339845,
+      "word": "高考生暑假工 315",
+      "onboard_time": 1718857220,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339630,
       "num": 339630,
       "word": "陈哲远憋笑",
@@ -3889,14 +3921,6 @@
       "onboard_time": 1718689996,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 335685,
-      "num": 255268,
-      "word": "复旦录取通知书采用非遗潞绸为封",
-      "onboard_time": 1718856019,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 335105,
@@ -4611,14 +4635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281277,
-      "num": 281277,
-      "word": "高考生暑假工 315",
-      "onboard_time": 1718857220,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280970,
       "num": 280970,
       "word": "崩坏星穹铁道",
@@ -5123,6 +5139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248552,
+      "num": 240687,
+      "word": "张杰鸟巢官宣六场",
+      "onboard_time": 1718858900,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 248548,
       "num": 248548,
       "word": "牛津数学女博士评姜萍",
@@ -5363,6 +5387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234613,
+      "num": 234613,
+      "word": "选学校要看原始校名",
+      "onboard_time": 1718858960,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
       "raw_hot": 233887,
       "num": 233887,
       "word": "吴谨言收到爽文女主第一名奖状",
@@ -5409,6 +5441,14 @@
       "onboard_time": 1718687600,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230209,
+      "num": 230209,
+      "word": "情绪稳定的人 倒霉惯了",
+      "onboard_time": 1718857399,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 230057,
@@ -5473,6 +5513,14 @@
       "onboard_time": 1718628257,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 228382,
+      "num": 614907,
+      "word": "蟑螂开始对杀虫剂无感了",
+      "onboard_time": 1718856019,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 227912,
@@ -5691,6 +5739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 219222,
+      "num": 219222,
+      "word": "迪丽热巴赛博银甲",
+      "onboard_time": 1718860519,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219129,
       "num": 219129,
       "word": "法学首选五院四系",
@@ -5801,6 +5857,14 @@
       "onboard_time": 1718581937,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214973,
+      "num": 214973,
+      "word": "黄霄雲 星辰大海",
+      "onboard_time": 1718858659,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 214695,
@@ -6209,14 +6273,6 @@
       "onboard_time": 1718541199,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202900,
-      "num": 202900,
-      "word": "情绪稳定的人 倒霉惯了",
-      "onboard_time": 1718857399,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 202573,
@@ -7025,14 +7081,6 @@
       "onboard_time": 1718724798,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185586,
-      "num": 614907,
-      "word": "蟑螂开始对杀虫剂无感了",
-      "onboard_time": 1718856019,
-      "rank": 9,
-      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 185371,
@@ -8003,6 +8051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164234,
+      "num": 164234,
+      "word": "杨幂登ZuhairMurad官网",
+      "onboard_time": 1718859681,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163779,
       "num": 163779,
       "word": "姆巴佩向网友征集面具",
@@ -8139,6 +8195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160431,
+      "num": 160431,
+      "word": "女子用Al编造地铁行凶视频被拘",
+      "onboard_time": 1718859800,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160400,
       "num": 160400,
       "word": "米二称异人之下给乌尔善很放心",
@@ -8217,6 +8281,14 @@
       "onboard_time": 1718526017,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159381,
+      "num": 604032,
+      "word": "贾玲lululemon",
+      "onboard_time": 1718854698,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 158881,
@@ -8377,6 +8449,14 @@
       "onboard_time": 1718844620,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155927,
+      "num": 155927,
+      "word": "旅行任意门",
+      "onboard_time": 1718859681,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 155746,
@@ -9531,6 +9611,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132643,
+      "num": 132643,
+      "word": "超能摄影阳阳",
+      "onboard_time": 1718860578,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132590,
       "num": 132590,
       "word": "DNF手游应用商店合约到期",
@@ -10041,6 +10129,14 @@
       "onboard_time": 1718501956,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126455,
+      "num": 126455,
+      "word": "护资",
+      "onboard_time": 1718859861,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 126419,
@@ -11307,6 +11403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102293,
+      "num": 125897,
+      "word": "长安汽车总裁发文谈汽车院系选择",
+      "onboard_time": 1718858539,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102125,
       "num": 102125,
       "word": "张杰影视音乐盛典年度卓越歌手",
@@ -11595,6 +11699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95830,
+      "num": 773008,
+      "word": "高考志愿填报该看兴趣还是就业前景",
+      "onboard_time": 1718857761,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95614,
       "num": 405568,
       "word": "洪水中消防手挨手捧起吃手手奶娃",
@@ -11849,14 +11961,6 @@
       "onboard_time": 1718662272,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 88405,
-      "num": 604032,
-      "word": "贾玲lululemon",
-      "onboard_time": 1718854698,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 87451,
@@ -12201,6 +12305,14 @@
       "onboard_time": 1718625498,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 72616,
+      "num": 383192,
+      "word": "刘宇的猫也参加猫王大赛了",
+      "onboard_time": 1718856259,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 72167,
@@ -12843,6 +12955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45610,
+      "num": 322625,
+      "word": "无法拒绝的旅行单品",
+      "onboard_time": 1718858659,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 44925,
       "num": 46090,
       "word": "京多安传射",
@@ -12875,28 +12995,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 44214,
-      "num": 773008,
-      "word": "高考志愿填报该看兴趣还是就业前景",
-      "onboard_time": 1718857761,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 44041,
       "num": 515476,
       "word": "北京一高校为15对研究生办集体婚礼",
       "onboard_time": 1718528597,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 43777,
-      "num": 383192,
-      "word": "刘宇的猫也参加猫王大赛了",
-      "onboard_time": 1718856259,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 43249,
@@ -13705,6 +13809,14 @@
       "onboard_time": 1718519056,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21336,
+      "num": 339373,
+      "word": "呼吁将创新人才选拔培养扩大到职校",
+      "onboard_time": 1718859622,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 20529,
