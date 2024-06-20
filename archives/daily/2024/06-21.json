@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718908677555,
+  "endTime": 1718910981917,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -473,6 +473,14 @@
       "onboard_time": 1718906172,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 16150,
+      "num": 59214,
+      "word": "免收学费就业率贼高的神仙专业",
+      "onboard_time": 1718887216,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 12648,

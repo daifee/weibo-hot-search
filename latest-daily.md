@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 02:37:57
+本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 03:16:21
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E6%B0%B4%E6%89%B9%E5%8F%91%E5%B8%82%E5%9C%BA%E6%80%8E%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E9%85%92%E4%BA%86%23" target="weibo">
 酒水批发市场怎么卖不动酒了（热度：26185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E6%94%B6%E5%AD%A6%E8%B4%B9%E5%B0%B1%E4%B8%9A%E7%8E%87%E8%B4%BC%E9%AB%98%E7%9A%84%E7%A5%9E%E4%BB%99%E4%B8%93%E4%B8%9A%23" target="weibo">
+免收学费就业率贼高的神仙专业（热度：16150）
 </a>
 </li>
 
