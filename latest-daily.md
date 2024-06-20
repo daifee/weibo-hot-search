@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 00:25:20
+本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 00:40:48
 </p>
 </blockquote>
 <p>
@@ -51,8 +51,20 @@ manner泼咖啡粉员工已被辞退（热度：458089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23" target="weibo">
+桂林女店员遇难后有居民提醒关闸（热度：449421）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E9%A9%B6%E8%BF%87%E8%8F%B2%E6%B2%BF%E5%B2%B8%23" target="weibo">
 菲媒称中国万吨大驱驶过菲沿岸（热度：410175）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%23" target="weibo">
+南方暴雨（热度：375216）
 </a>
 </li>
 
@@ -111,20 +123,14 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23" target="weibo">
-桂林女店员遇难后有居民提醒关闸（热度：226456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%23" target="weibo">
-南方暴雨（热度：214883）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8%23" target="weibo">
+武汉暴雨（热度：227201）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%9D%A1%E8%A7%89%E6%97%B6%E6%8A%8A%E8%84%9A%E9%9C%B2%E5%A4%96%E9%9D%A2%23" target="weibo">
-2类人不建议睡觉时把脚露外面（热度：212405）
+2类人不建议睡觉时把脚露外面（热度：220452）
 </a>
 </li>
 
@@ -137,12 +143,6 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E4%BB%8A%E5%A4%A9%E8%AF%B7%E4%BA%86%E4%B8%89%E4%B8%AA%E5%89%A7%E7%BB%84%E5%96%9D%E5%A5%B6%E8%8C%B6%23" target="weibo">
 吴谨言今天请了三个剧组喝奶茶（热度：208154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8%23" target="weibo">
-武汉暴雨（热度：173993）
 </a>
 </li>
 
@@ -185,6 +185,12 @@ manner（热度：152951）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E8%9F%B9%E5%BA%A7%E7%94%9F%E6%97%A5%23" target="weibo">
 巨蟹座生日（热度：145090）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%89%BA%E6%9C%AF%E7%94%9F%E5%92%8C%E7%90%86%E5%B7%A5%E7%94%B7%23" target="weibo">
+迪丽热巴张凌赫 艺术生和理工男（热度：132422）
 </a>
 </li>
 
@@ -286,7 +292,7 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B72024%E5%8D%81%E4%B8%87%E4%BC%8F%E7%89%B9%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-汪苏泷2024十万伏特巡回演唱会（热度：74277）
+汪苏泷2024十万伏特巡回演唱会（热度：77462）
 </a>
 </li>
 
@@ -298,7 +304,7 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E7%9A%84%E8%83%96jiojio%E4%B9%9F%E5%A4%AA%E7%81%B5%E6%B4%BB%E4%BA%86%23" target="weibo">
-熊猫宝宝的胖jiojio也太灵活了（热度：33982）
+熊猫宝宝的胖jiojio也太灵活了（热度：60417）
 </a>
 </li>
 
@@ -323,6 +329,12 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%AE%81%E5%A4%8F%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23%23" target="weibo">
 #习近平在宁夏考察调研#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%81%E5%A4%8F%E8%80%83%E5%AF%9F%E8%B0%83%E7%A0%94%23%23" target="weibo">
+#习近平宁夏考察调研#
 </a>
 </li>
 
