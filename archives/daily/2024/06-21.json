@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718925664668,
+  "endTime": 1718926556845,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 662117,
+      "num": 662117,
+      "word": "桂林女店员遇难后有居民提醒关闸",
+      "onboard_time": 1718899145,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 497047,
       "num": 417647,
       "word": "黄亦玫手撕恶婆婆",
@@ -43,12 +51,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 495080,
-      "num": 495080,
-      "word": "桂林女店员遇难后有居民提醒关闸",
-      "onboard_time": 1718899145,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 463862,
+      "num": 228969,
+      "word": "霍建华曾一个人演一家子",
+      "onboard_time": 1718922493,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 458089,
@@ -67,19 +75,19 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 382705,
-      "num": 188253,
-      "word": "霍建华曾一个人演一家子",
-      "onboard_time": 1718922493,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375216,
       "num": 375216,
       "word": "南方暴雨",
       "onboard_time": 1718899637,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367217,
+      "num": 367217,
+      "word": "夏至",
+      "onboard_time": 1718925014,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -131,14 +139,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 287609,
-      "num": 287609,
-      "word": "夏至",
-      "onboard_time": 1718925014,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269173,
       "num": 173071,
       "word": "中国快递员将参加巴黎奥运会比赛",
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210543,
+      "num": 155129,
+      "word": "人体3处淋巴没事常揉揉",
+      "onboard_time": 1718919191,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 209276,
       "num": 209276,
       "word": "女性私处过度清洁反而更容易患病",
@@ -203,12 +211,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200541,
-      "num": 112444,
-      "word": "人体3处淋巴没事常揉揉",
-      "onboard_time": 1718919191,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 206620,
+      "num": 206620,
+      "word": "意大利乌龙球",
+      "onboard_time": 1718925676,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198141,
+      "num": 198141,
+      "word": "西班牙1比0意大利",
+      "onboard_time": 1718925796,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192669,
+      "num": 192669,
+      "word": "丹麦1比1英格兰",
+      "onboard_time": 1718925435,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184445,
+      "num": 184445,
+      "word": "中考",
+      "onboard_time": 1718925676,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 169426,
@@ -267,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 130061,
-      "num": 130061,
-      "word": "丹麦1比1英格兰",
-      "onboard_time": 1718925435,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127414,
       "num": 127414,
       "word": "西班牙vs意大利",
@@ -289,6 +313,14 @@
       "onboard_time": 1718894419,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117986,
+      "num": 117986,
+      "word": "雷迪克成为湖人主教练",
+      "onboard_time": 1718926096,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 115817,
@@ -321,6 +353,14 @@
       "onboard_time": 1718896159,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104042,
+      "num": 104042,
+      "word": "丞磊口误说双人床",
+      "onboard_time": 1718924715,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 103753,
@@ -387,6 +427,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79337,
+      "num": 79337,
+      "word": "庄国栋睡了但彭冠英醒了",
+      "onboard_time": 1718884818,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78868,
+      "num": 78868,
+      "word": "分数刚到本科线怎么报考",
+      "onboard_time": 1718925135,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 78807,
       "num": 86778,
       "word": "白鹿春夏高定裙",
@@ -419,20 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75085,
-      "num": 75085,
-      "word": "丞磊口误说双人床",
-      "onboard_time": 1718924715,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 74150,
-      "num": 74150,
-      "word": "庄国栋睡了但彭冠英醒了",
-      "onboard_time": 1718884818,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 75301,
+      "num": 75301,
+      "word": "女子4年间先后查出3种癌",
+      "onboard_time": 1718912531,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73182,
@@ -443,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72681,
-      "num": 72681,
-      "word": "女子4年间先后查出3种癌",
-      "onboard_time": 1718912531,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 71905,
+      "num": 98604,
+      "word": "夏至吃哪种面",
+      "onboard_time": 1718925676,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 67724,
@@ -457,14 +505,6 @@
       "onboard_time": 1718908452,
       "rank": 21,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 65086,
-      "num": 65086,
-      "word": "分数刚到本科线怎么报考",
-      "onboard_time": 1718925135,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 60417,
@@ -489,6 +529,14 @@
       "onboard_time": 1718901975,
       "rank": 44,
       "category": "财经,数码"
+    },
+    {
+      "raw_hot": 51362,
+      "num": 51362,
+      "word": "吉迪卡鲁索互换东家",
+      "onboard_time": 1718925796,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 41930,
@@ -539,20 +587,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 23066,
+      "num": 230100,
+      "word": "老奶奶淋雨男生披外套跑去遮挡护送",
+      "onboard_time": 1718924715,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 22725,
       "num": 26473,
       "word": "苗苗KTV状态演我",
       "onboard_time": 1718915710,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16929,
-      "num": 195043,
-      "word": "老奶奶淋雨男生披外套跑去遮挡护送",
-      "onboard_time": 1718924715,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 16150,

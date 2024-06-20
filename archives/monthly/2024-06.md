@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/21 07:21:04
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/21 07:35:56
 </p>
 </blockquote>
 <p>
@@ -5499,6 +5499,12 @@ iPhone17系列或迎来更薄机型（热度：688842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23" target="weibo">
+桂林女店员遇难后有居民提醒关闸（热度：662117）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23manner%E6%B3%BC%E5%92%96%E5%95%A1%E7%B2%89%E5%91%98%E5%B7%A5%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
 manner泼咖啡粉员工已被辞退（热度：661935）
 </a>
@@ -6005,12 +6011,6 @@ LV售后欧洲免费国内收2400（热度：627037）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E6%98%AF%E7%A9%BF%E4%BA%86%E5%BA%8A%E8%A2%AB%E5%AD%90%E5%90%97%23" target="weibo">
 高叶是穿了床被子吗（热度：623372）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E5%9C%A8%E5%86%B0%E6%BF%80%E5%87%8C%E4%B8%AD%E5%8F%91%E7%8E%B0%E6%89%8B%E6%8C%87%23" target="weibo">
-印度男子在冰激凌中发现手指（热度：622539）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718925664668,
+  "endTime": 1718926556845,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -7315,6 +7315,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 662117,
+      "num": 662117,
+      "word": "桂林女店员遇难后有居民提醒关闸",
+      "onboard_time": 1718899145,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661935,
       "num": 661935,
       "word": "manner泼咖啡粉员工已被辞退",
@@ -11179,14 +11187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 495080,
-      "num": 495080,
-      "word": "桂林女店员遇难后有居民提醒关闸",
-      "onboard_time": 1718899145,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 494636,
       "num": 401947,
       "word": "宁艺卓在综艺上唱heya",
@@ -12137,6 +12137,14 @@
       "onboard_time": 1717742659,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463862,
+      "num": 228969,
+      "word": "霍建华曾一个人演一家子",
+      "onboard_time": 1718922493,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 463741,
@@ -15179,14 +15187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 382705,
-      "num": 188253,
-      "word": "霍建华曾一个人演一家子",
-      "onboard_time": 1718922493,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 382660,
       "num": 330476,
       "word": "康康 DRG",
@@ -15793,6 +15793,14 @@
       "onboard_time": 1718284578,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367217,
+      "num": 367217,
+      "word": "夏至",
+      "onboard_time": 1718925014,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367163,
@@ -20129,14 +20137,6 @@
       "onboard_time": 1718887216,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287609,
-      "num": 287609,
-      "word": "夏至",
-      "onboard_time": 1718925014,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 287597,
@@ -26523,6 +26523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210543,
+      "num": 155129,
+      "word": "人体3处淋巴没事常揉揉",
+      "onboard_time": 1718919191,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 210518,
       "num": 210518,
       "word": "黑莲花漫画吻戏",
@@ -27177,6 +27185,14 @@
       "onboard_time": 1718850378,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 206620,
+      "num": 206620,
+      "word": "意大利乌龙球",
+      "onboard_time": 1718925676,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 206619,
@@ -28403,14 +28419,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 200541,
-      "num": 112444,
-      "word": "人体3处淋巴没事常揉揉",
-      "onboard_time": 1718919191,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 200438,
       "num": 200438,
       "word": "单依纯唱王菲的天空",
@@ -28985,6 +28993,14 @@
       "onboard_time": 1718608938,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198141,
+      "num": 198141,
+      "word": "西班牙1比0意大利",
+      "onboard_time": 1718925796,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 198126,
@@ -30153,6 +30169,14 @@
       "onboard_time": 1717733423,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 192669,
+      "num": 192669,
+      "word": "丹麦1比1英格兰",
+      "onboard_time": 1718925435,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 192651,
@@ -43771,14 +43795,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 130061,
-      "num": 130061,
-      "word": "丹麦1比1英格兰",
-      "onboard_time": 1718925435,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129963,
       "num": 226167,
       "word": "王一博刘伟强背靠背三连拍",
@@ -46795,6 +46811,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 117986,
+      "num": 117986,
+      "word": "雷迪克成为湖人主教练",
+      "onboard_time": 1718926096,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117971,
       "num": 117971,
       "word": "端午安康图片",
@@ -49771,6 +49795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104042,
+      "num": 104042,
+      "word": "丞磊口误说双人床",
+      "onboard_time": 1718924715,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103935,
       "num": 101365,
       "word": "王星越在线辟谣表情管理失败",
@@ -52395,6 +52427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78868,
+      "num": 78868,
+      "word": "分数刚到本科线怎么报考",
+      "onboard_time": 1718925135,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 78759,
       "num": 77789,
       "word": "墨雨云间 胡萝卜套苦瓜",
@@ -52795,6 +52835,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 75301,
+      "num": 75301,
+      "word": "女子4年间先后查出3种癌",
+      "onboard_time": 1718912531,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75291,
       "num": 223495,
       "word": "院长嫉妒的新三大坊轮椅",
@@ -52825,14 +52873,6 @@
       "onboard_time": 1717896378,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 75085,
-      "num": 75085,
-      "word": "丞磊口误说双人床",
-      "onboard_time": 1718924715,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 75039,
@@ -53019,14 +53059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72681,
-      "num": 72681,
-      "word": "女子4年间先后查出3种癌",
-      "onboard_time": 1718912531,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72645,
       "num": 72645,
       "word": "我的阿勒泰央八黄金档开播",
@@ -53097,6 +53129,14 @@
       "onboard_time": 1718459779,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71905,
+      "num": 98604,
+      "word": "夏至吃哪种面",
+      "onboard_time": 1718925676,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 71880,
@@ -53753,14 +53793,6 @@
       "onboard_time": 1717252159,
       "rank": 40,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 65086,
-      "num": 65086,
-      "word": "分数刚到本科线怎么报考",
-      "onboard_time": 1718925135,
-      "rank": 35,
-      "category": "教育"
     },
     {
       "raw_hot": 65082,
@@ -55440,6 +55472,14 @@
       "word": "有多少人今晚等C罗",
       "onboard_time": 1718733192,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51362,
+      "num": 51362,
+      "word": "吉迪卡鲁索互换东家",
+      "onboard_time": 1718925796,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -58643,6 +58683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23066,
+      "num": 230100,
+      "word": "老奶奶淋雨男生披外套跑去遮挡护送",
+      "onboard_time": 1718924715,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 23030,
       "num": 1187744,
       "word": "你那里有哪些端午习俗",
@@ -59273,14 +59321,6 @@
       "onboard_time": 1718795178,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16929,
-      "num": 195043,
-      "word": "老奶奶淋雨男生披外套跑去遮挡护送",
-      "onboard_time": 1718924715,
-      "rank": 9,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 16920,
