@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718915697702,
+  "endTime": 1718918377096,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -58547,6 +58547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23466,
+      "num": 23466,
+      "word": "女子4年间先后查出3种癌",
+      "onboard_time": 1718912531,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23282,
       "num": 24912,
       "word": "人间失格音乐剧",
@@ -58728,14 +58736,6 @@
       "word": "日本小学生的英语作业",
       "onboard_time": 1718786003,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21901,
-      "num": 21901,
-      "word": "女子4年间先后查出3种癌",
-      "onboard_time": 1718912531,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -59427,12 +59427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14809,
+      "num": 15915,
+      "word": "住房条件影响健康",
+      "onboard_time": 1718917390,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 14613,
       "num": 215328,
       "word": "学校六一演出全场被孤勇者硬控",
       "onboard_time": 1717176374,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14535,
+      "num": 15915,
+      "word": "苗苗KTV状态演我",
+      "onboard_time": 1718915710,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 14532,

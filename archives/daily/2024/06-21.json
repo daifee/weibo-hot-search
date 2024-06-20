@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718915697702,
+  "endTime": 1718918377096,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -475,8 +475,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 21901,
-      "num": 21901,
+      "raw_hot": 23466,
+      "num": 23466,
       "word": "女子4年间先后查出3种癌",
       "onboard_time": 1718912531,
       "rank": 27,
@@ -489,6 +489,22 @@
       "onboard_time": 1718887216,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 14809,
+      "num": 15915,
+      "word": "住房条件影响健康",
+      "onboard_time": 1718917390,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 14535,
+      "num": 15915,
+      "word": "苗苗KTV状态演我",
+      "onboard_time": 1718915710,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 14382,
