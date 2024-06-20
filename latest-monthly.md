@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/20 20:35:41
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/20 20:50:40
 </p>
 </blockquote>
 <p>
@@ -5445,6 +5445,12 @@ iPhone17系列或迎来更薄机型（热度：688842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23manner%E6%B3%BC%E5%92%96%E5%95%A1%E7%B2%89%E5%91%98%E5%B7%A5%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+manner泼咖啡粉员工已被辞退（热度：661935）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E8%B7%91%E8%B0%83%23" target="weibo">
 那英 跑调（热度：661554）
 </a>
@@ -6005,12 +6011,6 @@ LV售后欧洲免费国内收2400（热度：627037）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%82%B1%E5%85%9A%23" target="weibo">
 王楚钦vs邱党（热度：616954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1Prada%23" target="weibo">
-檀健次Prada（热度：616920）
 </a>
 </li>
 

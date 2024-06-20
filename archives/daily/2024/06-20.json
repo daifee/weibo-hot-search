@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718886941332,
+  "endTime": 1718887840375,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -315,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 661935,
+      "num": 661935,
+      "word": "manner泼咖啡粉员工已被辞退",
+      "onboard_time": 1718882118,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649988,
       "num": 649988,
       "word": "中国女排0比3日本女排",
@@ -339,19 +347,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613265,
-      "num": 613265,
-      "word": "manner泼咖啡粉员工已被辞退",
-      "onboard_time": 1718882118,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 609347,
       "num": 527631,
       "word": "刘亦菲狼尾造型",
       "onboard_time": 1718845577,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 598293,
+      "num": 554906,
+      "word": "庄国栋睡了但彭冠英醒了",
+      "onboard_time": 1718884818,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 434911,
-      "num": 366306,
+      "num": 384198,
       "word": "黄亦玫带娃三年考了3本资格证",
       "onboard_time": 1718878698,
       "rank": 29,
@@ -643,14 +651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 382329,
-      "num": 382329,
-      "word": "庄国栋睡了但彭冠英醒了",
-      "onboard_time": 1718884818,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377711,
       "num": 377711,
       "word": "黄亦玫是真的生气了",
@@ -673,6 +673,14 @@
       "onboard_time": 1718852178,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 364629,
+      "num": 325464,
+      "word": "墨雨云间同人",
+      "onboard_time": 1718882718,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 353109,
@@ -744,14 +752,6 @@
       "word": "吴谨言回应墨雨云间借位吻戏",
       "onboard_time": 1718876059,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 325464,
-      "num": 325464,
-      "word": "墨雨云间同人",
-      "onboard_time": 1718882718,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -963,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 242749,
+      "num": 242749,
+      "word": "manner有员工称8小时内要做500杯咖啡",
+      "onboard_time": 1718884278,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241850,
       "num": 208409,
       "word": "塑料手镯被奶奶当宝贝戴了17年",
@@ -1035,14 +1043,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 234781,
-      "num": 234781,
-      "word": "manner有员工称8小时内要做500杯咖啡",
-      "onboard_time": 1718884278,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234613,
       "num": 234613,
       "word": "选学校要看原始校名",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1718797219,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 222438,
+      "num": 222438,
+      "word": "中国海警夺回菲方盗窃赃物",
+      "onboard_time": 1718886319,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 221151,
@@ -1219,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208358,
+      "num": 208358,
+      "word": "王星越回应和吴谨言二搭",
+      "onboard_time": 1718887216,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206658,
       "num": 206658,
       "word": "为什么职场年轻人想喝酒",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1718877079,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204057,
+      "num": 204057,
+      "word": "宋亚轩汇演",
+      "onboard_time": 1718886678,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 203445,
@@ -1257,14 +1281,6 @@
       "onboard_time": 1718871258,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199486,
-      "num": 199486,
-      "word": "宋亚轩汇演",
-      "onboard_time": 1718886678,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 198354,
@@ -1371,6 +1387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 193237,
+      "num": 163595,
+      "word": "邓亚萍与孙颖莎王楚钦对练",
+      "onboard_time": 1718887757,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193161,
       "num": 193161,
       "word": "王鹤棣啾咪",
@@ -1395,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187750,
+      "num": 187750,
+      "word": "黄亦玫知道傅家明患病的那一瞬间",
+      "onboard_time": 1718885237,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187613,
       "num": 187613,
       "word": "5538号小行星",
@@ -1403,12 +1435,12 @@
       "category": "科学科普,社会新闻"
     },
     {
-      "raw_hot": 187154,
-      "num": 187154,
-      "word": "黄亦玫知道傅家明患病的那一瞬间",
-      "onboard_time": 1718885237,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 186755,
+      "num": 186755,
+      "word": "胡锡进今天跌了7471元",
+      "onboard_time": 1718887579,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 186598,
@@ -1441,14 +1473,6 @@
       "onboard_time": 1718846119,
       "rank": 31,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 185855,
-      "num": 185855,
-      "word": "中国海警夺回菲方盗窃赃物",
-      "onboard_time": 1718886319,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 185076,
@@ -1547,12 +1571,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175168,
+      "num": 139799,
+      "word": "陈泽停播",
+      "onboard_time": 1718883258,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 174730,
       "num": 203261,
       "word": "中方回应菲称我海警挥舞刀具",
       "onboard_time": 1718879359,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 173992,
+      "num": 163580,
+      "word": "张常宁采访",
+      "onboard_time": 1718886558,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 170588,
@@ -1683,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158828,
-      "num": 158828,
-      "word": "张常宁采访",
-      "onboard_time": 1718886558,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158249,
       "num": 153606,
       "word": "王一博午后花絮",
@@ -1777,6 +1809,14 @@
       "onboard_time": 1718860820,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154818,
+      "num": 154818,
+      "word": "斯洛文尼亚vs塞尔维亚",
+      "onboard_time": 1718887039,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 154739,
@@ -1883,14 +1923,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 143536,
-      "num": 139799,
-      "word": "陈泽停播",
-      "onboard_time": 1718883258,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 143099,
       "num": 134378,
       "word": "白鹿手持剧本",
@@ -1921,6 +1953,14 @@
       "onboard_time": 1718873898,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138041,
+      "num": 324974,
+      "word": "免收学费就业率贼高的神仙专业",
+      "onboard_time": 1718887216,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 137157,
@@ -2427,6 +2467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104233,
+      "num": 104233,
+      "word": "是吻住不是稳住",
+      "onboard_time": 1718887757,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103935,
       "num": 101365,
       "word": "王星越在线辟谣表情管理失败",
@@ -2443,20 +2491,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101668,
+      "num": 101668,
+      "word": "手机影像卷到头了吗",
+      "onboard_time": 1718886858,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 101436,
       "num": 101436,
       "word": "余华当了高考反面教材二十年",
       "onboard_time": 1718806580,
       "rank": 30,
       "category": "读书作家,教育"
-    },
-    {
-      "raw_hot": 101434,
-      "num": 101434,
-      "word": "手机影像卷到头了吗",
-      "onboard_time": 1718886858,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 101288,
@@ -2595,6 +2643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 84574,
+      "num": 376363,
+      "word": "外国品牌想收购海尔最后被海尔收购",
+      "onboard_time": 1718884937,
+      "rank": 10,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 80473,
       "num": 94555,
       "word": "原来王星越也是个小财迷",
@@ -2691,6 +2747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71421,
+      "num": 378971,
+      "word": "今年南方为何持续强降雨",
+      "onboard_time": 1718883858,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 71319,
       "num": 94183,
       "word": "吴谨言王星越 芭莎",
@@ -2771,20 +2835,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 60942,
-      "num": 376363,
-      "word": "外国品牌想收购海尔最后被海尔收购",
-      "onboard_time": 1718884937,
-      "rank": 10,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 58230,
       "num": 327819,
       "word": "无法拒绝的旅行单品",
       "onboard_time": 1718858659,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 56233,
+      "num": 358450,
+      "word": "想当老师应该报什么专业",
+      "onboard_time": 1718884818,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 53914,
@@ -2859,14 +2923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46368,
-      "num": 378971,
-      "word": "今年南方为何持续强降雨",
-      "onboard_time": 1718883858,
-      "rank": 9,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 44925,
       "num": 46090,
       "word": "京多安传射",
@@ -2889,14 +2945,6 @@
       "onboard_time": 1718878279,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40983,
-      "num": 358450,
-      "word": "想当老师应该报什么专业",
-      "onboard_time": 1718884818,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 39284,
@@ -2969,6 +3017,14 @@
       "onboard_time": 1718868738,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27934,
+      "num": 163849,
+      "word": "俄媒发布普京表情包",
+      "onboard_time": 1718887279,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 26822,

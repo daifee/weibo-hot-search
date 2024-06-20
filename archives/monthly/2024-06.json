@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718886941332,
+  "endTime": 1718887840375,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -7243,6 +7243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 661935,
+      "num": 661935,
+      "word": "manner泼咖啡粉员工已被辞退",
+      "onboard_time": 1718882118,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 661554,
       "num": 304572,
       "word": "那英 跑调",
@@ -8067,14 +8075,6 @@
       "category": "幽默,科学科普"
     },
     {
-      "raw_hot": 613265,
-      "num": 613265,
-      "word": "manner泼咖啡粉员工已被辞退",
-      "onboard_time": 1718882118,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 612853,
       "num": 612853,
       "word": "猫眼 放票",
@@ -8377,6 +8377,14 @@
       "onboard_time": 1718267718,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 598293,
+      "num": 554906,
+      "word": "庄国栋睡了但彭冠英醒了",
+      "onboard_time": 1718884818,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 598273,
@@ -13060,7 +13068,7 @@
     },
     {
       "raw_hot": 434911,
-      "num": 366306,
+      "num": 384198,
       "word": "黄亦玫带娃三年考了3本资格证",
       "onboard_time": 1718878698,
       "rank": 29,
@@ -15043,14 +15051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 382329,
-      "num": 382329,
-      "word": "庄国栋睡了但彭冠英醒了",
-      "onboard_time": 1718884818,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 382125,
       "num": 382125,
       "word": "四级作文题目",
@@ -15729,6 +15729,14 @@
       "onboard_time": 1717276451,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 364629,
+      "num": 325464,
+      "word": "墨雨云间同人",
+      "onboard_time": 1718882718,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 364628,
@@ -17745,14 +17753,6 @@
       "onboard_time": 1717425499,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 325464,
-      "num": 325464,
-      "word": "墨雨云间同人",
-      "onboard_time": 1718882718,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 325265,
@@ -22947,6 +22947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 242749,
+      "num": 242749,
+      "word": "manner有员工称8小时内要做500杯咖啡",
+      "onboard_time": 1718884278,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242646,
       "num": 242646,
       "word": "张朝阳建议选专业不要随大流",
@@ -23745,14 +23753,6 @@
       "onboard_time": 1717340900,
       "rank": 34,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 234781,
-      "num": 234781,
-      "word": "manner有员工称8小时内要做500杯咖啡",
-      "onboard_time": 1718884278,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 234628,
@@ -24801,6 +24801,14 @@
       "onboard_time": 1717675759,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222438,
+      "num": 222438,
+      "word": "中国海警夺回菲方盗窃赃物",
+      "onboard_time": 1718886319,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 222234,
@@ -26587,6 +26595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208358,
+      "num": 208358,
+      "word": "王星越回应和吴谨言二搭",
+      "onboard_time": 1718887216,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208258,
       "num": 208258,
       "word": "王星越点赞菲常萧张cp粉",
@@ -27499,6 +27515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 204057,
+      "num": 204057,
+      "word": "宋亚轩汇演",
+      "onboard_time": 1718886678,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204047,
       "num": 204047,
       "word": "五月天深圳演唱会",
@@ -28321,14 +28345,6 @@
       "onboard_time": 1717917017,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 199486,
-      "num": 199486,
-      "word": "宋亚轩汇演",
-      "onboard_time": 1718886678,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 199472,
@@ -29707,6 +29723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193237,
+      "num": 163595,
+      "word": "邓亚萍与孙颖莎王楚钦对练",
+      "onboard_time": 1718887757,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193181,
       "num": 193181,
       "word": "你怎么看朋友圈点赞现象",
@@ -30803,6 +30827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187750,
+      "num": 187750,
+      "word": "黄亦玫知道傅家明患病的那一瞬间",
+      "onboard_time": 1718885237,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187736,
       "num": 155700,
       "word": "于正晒吴谨言",
@@ -30955,14 +30987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187154,
-      "num": 187154,
-      "word": "黄亦玫知道傅家明患病的那一瞬间",
-      "onboard_time": 1718885237,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187094,
       "num": 148576,
       "word": "迪丽热巴再跳女团舞",
@@ -31025,6 +31049,14 @@
       "onboard_time": 1717910057,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186755,
+      "num": 186755,
+      "word": "胡锡进今天跌了7471元",
+      "onboard_time": 1718887579,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 186734,
@@ -31241,14 +31273,6 @@
       "onboard_time": 1717909698,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 185855,
-      "num": 185855,
-      "word": "中国海警夺回菲方盗窃赃物",
-      "onboard_time": 1718886319,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 185806,
@@ -33195,6 +33219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175168,
+      "num": 139799,
+      "word": "陈泽停播",
+      "onboard_time": 1718883258,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 175159,
       "num": 175159,
       "word": "阿兰因伤缺席中韩之战",
@@ -33409,6 +33441,14 @@
       "onboard_time": 1718553138,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173992,
+      "num": 163580,
+      "word": "张常宁采访",
+      "onboard_time": 1718886558,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 173980,
@@ -36515,14 +36555,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 158828,
-      "num": 158828,
-      "word": "张常宁采访",
-      "onboard_time": 1718886558,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158788,
       "num": 212816,
       "word": "光与夜之恋 炫迈",
@@ -37513,6 +37545,14 @@
       "onboard_time": 1718014339,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154818,
+      "num": 154818,
+      "word": "斯洛文尼亚vs塞尔维亚",
+      "onboard_time": 1718887039,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 154807,
@@ -40067,14 +40107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143536,
-      "num": 139799,
-      "word": "陈泽停播",
-      "onboard_time": 1718883258,
-      "rank": 49,
-      "category": "网红"
-    },
-    {
       "raw_hot": 143476,
       "num": 143476,
       "word": "25岁好像是人生的分水岭",
@@ -41289,6 +41321,14 @@
       "onboard_time": 1717665980,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138041,
+      "num": 324974,
+      "word": "免收学费就业率贼高的神仙专业",
+      "onboard_time": 1718887216,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 138023,
@@ -49203,6 +49243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104233,
+      "num": 104233,
+      "word": "是吻住不是稳住",
+      "onboard_time": 1718887757,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104178,
       "num": 104178,
       "word": "庄达菲身边的陈昊宇 撒娇妈咪",
@@ -49619,6 +49667,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 101668,
+      "num": 101668,
+      "word": "手机影像卷到头了吗",
+      "onboard_time": 1718886858,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 101592,
       "num": 101592,
       "word": "aespa7月回归预告照",
@@ -49657,14 +49713,6 @@
       "onboard_time": 1717416318,
       "rank": 49,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 101434,
-      "num": 101434,
-      "word": "手机影像卷到头了吗",
-      "onboard_time": 1718886858,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 101413,
@@ -51403,6 +51451,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 84574,
+      "num": 376363,
+      "word": "外国品牌想收购海尔最后被海尔收购",
+      "onboard_time": 1718884937,
+      "rank": 10,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 84514,
       "num": 84514,
       "word": "薛之谦西宁",
@@ -52627,6 +52683,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71421,
+      "num": 378971,
+      "word": "今年南方为何持续强降雨",
+      "onboard_time": 1718883858,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 71361,
       "num": 212263,
       "word": "葡萄牙队开启欧洲杯征程",
@@ -53651,14 +53715,6 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 60942,
-      "num": 376363,
-      "word": "外国品牌想收购海尔最后被海尔收购",
-      "onboard_time": 1718884937,
-      "rank": 10,
-      "category": "数码,互联网"
-    },
-    {
       "raw_hot": 60934,
       "num": 1072556,
       "word": "请查收你的预防中暑小贴士",
@@ -54321,6 +54377,14 @@
       "onboard_time": 1718297235,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 56233,
+      "num": 358450,
+      "word": "想当老师应该报什么专业",
+      "onboard_time": 1718884818,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 56146,
@@ -55355,14 +55419,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 46368,
-      "num": 378971,
-      "word": "今年南方为何持续强降雨",
-      "onboard_time": 1718883858,
-      "rank": 9,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 46271,
       "num": 265874,
       "word": "怪不得你是上届宫斗冠军",
@@ -55961,14 +56017,6 @@
       "onboard_time": 1718358918,
       "rank": 25,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 40983,
-      "num": 358450,
-      "word": "想当老师应该报什么专业",
-      "onboard_time": 1718884818,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 40932,
@@ -57497,6 +57545,14 @@
       "onboard_time": 1718649971,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27934,
+      "num": 163849,
+      "word": "俄媒发布普京表情包",
+      "onboard_time": 1718887279,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 27777,
