@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718860701642,
+  "endTime": 1718861671028,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -40,6 +40,14 @@
       "word": "玫瑰的故事最炸裂的台词出现了",
       "onboard_time": 1718808321,
       "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1231260,
+      "num": 609481,
+      "word": "傅家明因病去世",
+      "onboard_time": 1718859919,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 591692,
-      "num": 323610,
-      "word": "傅家明因病去世",
-      "onboard_time": 1718859919,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 576319,
       "num": 663773,
       "word": "于正我不允许任何人忤逆你",
@@ -267,12 +267,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 437656,
+      "num": 325369,
+      "word": "孙杨未入选巴黎奥运会运动员名单",
+      "onboard_time": 1718860698,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 436428,
       "num": 436428,
       "word": "巴黎奥运会或成为有史以来最热一届",
       "onboard_time": 1718851458,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 435839,
+      "num": 322446,
+      "word": "颜心记 空降",
+      "onboard_time": 1718860998,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 433128,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 427455,
-      "num": 296483,
+      "num": 320992,
       "word": "赵丽颖 汇源",
       "onboard_time": 1718859200,
       "rank": 14,
@@ -451,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274443,
+      "num": 274443,
+      "word": "情绪稳定的人 倒霉惯了",
+      "onboard_time": 1718857399,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 270706,
       "num": 270706,
       "word": "德国2比0匈牙利",
@@ -481,6 +505,22 @@
       "onboard_time": 1718848398,
       "rank": 16,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 262050,
+      "num": 262050,
+      "word": "香港顶流姜涛巴黎时装周",
+      "onboard_time": 1718861178,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 259317,
+      "num": 259317,
+      "word": "超能摄影阳阳",
+      "onboard_time": 1718860578,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 257317,
@@ -593,14 +633,6 @@
       "onboard_time": 1718847558,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230209,
-      "num": 230209,
-      "word": "情绪稳定的人 倒霉惯了",
-      "onboard_time": 1718857399,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 229699,
@@ -867,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169121,
+      "num": 169121,
+      "word": "女子用Al编造地铁行凶视频被拘",
+      "onboard_time": 1718859800,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165413,
       "num": 165413,
       "word": "周杰伦写这首歌是想整人吗",
@@ -891,11 +931,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 160431,
-      "num": 160431,
-      "word": "女子用Al编造地铁行凶视频被拘",
-      "onboard_time": 1718859800,
-      "rank": 34,
+      "raw_hot": 163521,
+      "num": 209017,
+      "word": "上海警方辟谣中山公园地铁站捅人",
+      "onboard_time": 1718860998,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -937,6 +977,14 @@
       "onboard_time": 1718848998,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155636,
+      "num": 155636,
+      "word": "TF夏日运动会官宣",
+      "onboard_time": 1718860820,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 153938,
@@ -985,14 +1033,6 @@
       "onboard_time": 1718807239,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132643,
-      "num": 132643,
-      "word": "超能摄影阳阳",
-      "onboard_time": 1718860578,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 132326,
@@ -1097,6 +1137,22 @@
       "onboard_time": 1718802440,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119974,
+      "num": 119974,
+      "word": "成语具象化",
+      "onboard_time": 1718861478,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 119929,
+      "num": 119929,
+      "word": "徐明浩cos美男鱼",
+      "onboard_time": 1718861598,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 119425,
@@ -1283,6 +1339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97300,
+      "num": 773008,
+      "word": "高考志愿填报该看兴趣还是就业前景",
+      "onboard_time": 1718857761,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97170,
       "num": 97170,
       "word": "适量排汗有利于健康",
@@ -1297,14 +1361,6 @@
       "onboard_time": 1718808801,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 95830,
-      "num": 773008,
-      "word": "高考志愿填报该看兴趣还是就业前景",
-      "onboard_time": 1718857761,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 95365,
@@ -1491,6 +1547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 58230,
+      "num": 327819,
+      "word": "无法拒绝的旅行单品",
+      "onboard_time": 1718858659,
+      "rank": 11,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 53914,
       "num": 1138233,
       "word": "中部崛起新动力",
@@ -1523,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45610,
-      "num": 322625,
-      "word": "无法拒绝的旅行单品",
-      "onboard_time": 1718858659,
-      "rank": 11,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 44925,
       "num": 46090,
       "word": "京多安传射",
@@ -1555,12 +1611,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 32487,
+      "num": 339373,
+      "word": "呼吁将创新人才选拔培养扩大到职校",
+      "onboard_time": 1718859622,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 31885,
       "num": 44893,
       "word": "2024年新增24个本科专业",
       "onboard_time": 1718822591,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 31007,
+      "num": 326972,
+      "word": "砸窗搭人链救人关键一环找到了",
+      "onboard_time": 1718859439,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29906,
@@ -1601,14 +1673,6 @@
       "onboard_time": 1718812518,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21336,
-      "num": 339373,
-      "word": "呼吁将创新人才选拔培养扩大到职校",
-      "onboard_time": 1718859622,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 19556,
@@ -1660,6 +1724,9 @@
     },
     {
       "word": "#习近平向2024世界智能产业博览会致贺信#"
+    },
+    {
+      "word": "#新征程上如何推进政治建军#"
     }
   ]
 }

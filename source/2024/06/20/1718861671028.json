@@ -1,0 +1,410 @@
+{
+  "runTime": 1718861671028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 638679,
+        "num": 638679,
+        "word": "尹锡悦称再不生娃韩国会走向灭绝",
+        "onboard_time": 1718850378,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1231260,
+        "num": 609481,
+        "word": "傅家明因病去世",
+        "onboard_time": 1718859919,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97300,
+        "num": 574762,
+        "word": "高考志愿填报该看兴趣还是就业前景",
+        "onboard_time": 1718857761,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 821940,
+        "num": 574532,
+        "word": "歌手歌单",
+        "onboard_time": 1718855840,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574298,
+        "num": 574298,
+        "word": "女子因父母拒绝签字被困精神病院十年",
+        "onboard_time": 1718851638,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552592,
+        "num": 552592,
+        "word": "复旦录取通知书采用非遗潞绸为封",
+        "onboard_time": 1718856019,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 680857,
+        "num": 536126,
+        "word": "黄亦玫离婚海报",
+        "onboard_time": 1718855959,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493080,
+        "num": 493080,
+        "word": "我养你变成了我养的你",
+        "onboard_time": 1718855659,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330926,
+        "num": 330926,
+        "word": "高考生暑假工 315",
+        "onboard_time": 1718857220,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232615,
+        "num": 329533,
+        "word": "财政部 半夜出成绩",
+        "onboard_time": 1718839876,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 58230,
+        "num": 327819,
+        "word": "无法拒绝的旅行单品",
+        "onboard_time": 1718858659,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 31007,
+        "num": 326972,
+        "word": "砸窗搭人链救人关键一环找到了",
+        "onboard_time": 1718859439,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437656,
+        "num": 325369,
+        "word": "孙杨未入选巴黎奥运会运动员名单",
+        "onboard_time": 1718860698,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 435839,
+        "num": 322446,
+        "word": "颜心记 空降",
+        "onboard_time": 1718860998,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420841,
+        "num": 320992,
+        "word": "赵丽颖 汇源",
+        "onboard_time": 1718859200,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410670,
+        "num": 319918,
+        "word": "桂林洪水",
+        "onboard_time": 1718848456,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373539,
+        "num": 317856,
+        "word": "仅两款iPhone可使用苹果AI",
+        "onboard_time": 1718850199,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 357435,
+        "num": 315961,
+        "word": "韩国女性为何不愿生孩子",
+        "onboard_time": 1718850857,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 352595,
+        "num": 312856,
+        "word": "将门毒后选角",
+        "onboard_time": 1718855058,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312654,
+        "num": 312654,
+        "word": "菲常萧张的女儿",
+        "onboard_time": 1718851577,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278121,
+        "num": 278121,
+        "word": "于正我不允许任何人忤逆你",
+        "onboard_time": 1718854278,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305099,
+        "num": 276322,
+        "word": "墨雨云间番外",
+        "onboard_time": 1718852599,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274443,
+        "num": 274443,
+        "word": "情绪稳定的人 倒霉惯了",
+        "onboard_time": 1718857399,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262050,
+        "num": 262050,
+        "word": "香港顶流姜涛巴黎时装周",
+        "onboard_time": 1718861178,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259317,
+        "num": 259317,
+        "word": "超能摄影阳阳",
+        "onboard_time": 1718860578,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232358,
+        "num": 232358,
+        "word": "选学校要看原始校名",
+        "onboard_time": 1718858960,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 227213,
+        "num": 227213,
+        "word": "玫瑰的故事最炸裂的台词出现了",
+        "onboard_time": 1718808321,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222531,
+        "num": 222531,
+        "word": "张杰鸟巢官宣六场",
+        "onboard_time": 1718858900,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213937,
+        "num": 213937,
+        "word": "迪丽热巴赛博银甲",
+        "onboard_time": 1718860519,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163521,
+        "num": 209017,
+        "word": "上海警方辟谣中山公园地铁站捅人",
+        "onboard_time": 1718860998,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206306,
+        "num": 206306,
+        "word": "蟑螂开始对杀虫剂无感了",
+        "onboard_time": 1718856019,
+        "rank": 30,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 32487,
+        "num": 203051,
+        "word": "呼吁将创新人才选拔培养扩大到职校",
+        "onboard_time": 1718859622,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 200359,
+        "num": 200359,
+        "word": "黄亦玫到离婚都没穿上婚纱",
+        "onboard_time": 1718840356,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196273,
+        "num": 196273,
+        "word": "周杰伦一出手就是七张演唱会门票",
+        "onboard_time": 1718856560,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180593,
+        "num": 180593,
+        "word": "巴黎奥运会或成为有史以来最热一届",
+        "onboard_time": 1718851458,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179585,
+        "num": 179585,
+        "word": "霍建华非要看霍建华老了的热搜",
+        "onboard_time": 1718849597,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178351,
+        "num": 178351,
+        "word": "黄霄雲 星辰大海",
+        "onboard_time": 1718858659,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169121,
+        "num": 169121,
+        "word": "女子用Al编造地铁行凶视频被拘",
+        "onboard_time": 1718859800,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168012,
+        "num": 168012,
+        "word": "Uzi WE",
+        "onboard_time": 1718852178,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155636,
+        "num": 155636,
+        "word": "TF夏日运动会官宣",
+        "onboard_time": 1718860820,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139037,
+        "num": 139037,
+        "word": "王星越玉佩缠手上",
+        "onboard_time": 1718854698,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138520,
+        "num": 138520,
+        "word": "刘亦菲狼尾造型",
+        "onboard_time": 1718845577,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 132341,
+        "word": "医院抽出来的血最终会去哪里",
+        "onboard_time": 1718839996,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131471,
+        "num": 131471,
+        "word": "杨幂登ZuhairMurad官网",
+        "onboard_time": 1718859681,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128978,
+        "num": 128978,
+        "word": "结婚前一定要聊的10件事",
+        "onboard_time": 1718843480,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125268,
+        "num": 125268,
+        "word": "男子吐槽买鸡爪遇刺客两个27.4元",
+        "onboard_time": 1718855238,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120254,
+        "num": 120254,
+        "word": "俄方要求美国从欧洲撤出全部核武器",
+        "onboard_time": 1718855659,
+        "rank": 46,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 119974,
+        "num": 119974,
+        "word": "成语具象化",
+        "onboard_time": 1718861478,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119929,
+        "num": 119929,
+        "word": "徐明浩cos美男鱼",
+        "onboard_time": 1718861598,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104714,
+        "num": 104714,
+        "word": "护资",
+        "onboard_time": 1718859861,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上如何推进政治建军#"
+    }
+  }
+}
