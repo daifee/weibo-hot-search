@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718893050710,
+  "endTime": 1718894096615,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -75,12 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1235215,
+      "num": 1235215,
+      "word": "黄亦玫手撕恶婆婆",
+      "onboard_time": 1718889799,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1231260,
       "num": 922283,
       "word": "傅家明因病去世",
       "onboard_time": 1718859919,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1171593,
+      "num": 1171593,
+      "word": "北大回应网传复旦打老师男生被录取",
+      "onboard_time": 1718889739,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1170489,
@@ -111,14 +127,6 @@
       "num": 1130168,
       "word": "黄亦玫生娃摸鼻子是刘亦菲即兴发挥",
       "onboard_time": 1718888178,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1119059,
-      "num": 762567,
-      "word": "黄亦玫手撕恶婆婆",
-      "onboard_time": 1718889799,
       "rank": 11,
       "category": "剧集"
     },
@@ -177,14 +185,6 @@
       "onboard_time": 1718850378,
       "rank": 19,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 919096,
-      "num": 919096,
-      "word": "北大回应网传复旦打老师男生被录取",
-      "onboard_time": 1718889739,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 876227,
@@ -387,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 614668,
+      "num": 520172,
+      "word": "吴谨言今天请了三个剧组喝奶茶",
+      "onboard_time": 1718889799,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 609347,
       "num": 527631,
       "word": "刘亦菲狼尾造型",
@@ -400,14 +408,6 @@
       "word": "庄国栋睡了但彭冠英醒了",
       "onboard_time": 1718884818,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 590255,
-      "num": 520172,
-      "word": "吴谨言今天请了三个剧组喝奶茶",
-      "onboard_time": 1718889799,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 441192,
+      "num": 441192,
+      "word": "汪苏泷回应体重140斤的原因",
+      "onboard_time": 1718893640,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 439189,
       "num": 439189,
       "word": "A股",
@@ -755,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356706,
+      "num": 356706,
+      "word": "巨蟹座生日",
+      "onboard_time": 1718888899,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 353109,
       "num": 280084,
       "word": "GAI劝rapper回去考研",
@@ -811,12 +827,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331820,
-      "num": 253686,
-      "word": "巨蟹座生日",
-      "onboard_time": 1718888899,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 331377,
+      "num": 331377,
+      "word": "发现我妈是天生留子圣体",
+      "onboard_time": 1718888299,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 329029,
@@ -899,14 +915,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 297489,
-      "num": 297489,
-      "word": "发现我妈是天生留子圣体",
-      "onboard_time": 1718888299,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 290287,
       "num": 514446,
       "word": "免收学费就业率贼高的神仙专业",
@@ -961,6 +969,14 @@
       "onboard_time": 1718877918,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269890,
+      "num": 248700,
+      "word": "毕业生还没毕业就在资产管理了",
+      "onboard_time": 1718893219,
+      "rank": 22,
+      "category": "教育"
     },
     {
       "raw_hot": 269038,
@@ -1387,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205102,
+      "num": 205102,
+      "word": "宋亚轩饰演麦克白",
+      "onboard_time": 1718893699,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204057,
       "num": 204057,
       "word": "宋亚轩汇演",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1718879237,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193584,
+      "num": 193584,
+      "word": "张雪峰称文科生是能学好中医的",
+      "onboard_time": 1718893100,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 193562,
@@ -1811,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164562,
+      "num": 164562,
+      "word": "北大称思想品德不合格者不予录取",
+      "onboard_time": 1718893219,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164486,
       "num": 164486,
       "word": "英雄联盟新英雄阿萝拉",
@@ -1841,6 +1881,14 @@
       "onboard_time": 1718880736,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161233,
+      "num": 161233,
+      "word": "大鹏说王俊凯已经是非常成熟的演员了",
+      "onboard_time": 1718894060,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 160952,
@@ -2051,6 +2099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151500,
+      "num": 151500,
+      "word": "白鹿春夏高定裙",
+      "onboard_time": 1718893760,
+      "rank": 41,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 150803,
       "num": 150803,
       "word": "刚毕业的迷茫期到底该怎么度过",
@@ -2171,6 +2227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136424,
+      "num": 136424,
+      "word": "中国快递员将参加巴黎奥运会比赛",
+      "onboard_time": 1718893880,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 136403,
+      "num": 136403,
+      "word": "为啥我总是肩胛骨缝疼",
+      "onboard_time": 1718892560,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136085,
       "num": 136085,
       "word": "DYG对战JDG",
@@ -2289,14 +2361,6 @@
       "onboard_time": 1718865018,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 128678,
-      "num": 128678,
-      "word": "为啥我总是肩胛骨缝疼",
-      "onboard_time": 1718892560,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128196,
@@ -3067,6 +3131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 55982,
+      "num": 458081,
+      "word": "女生毕业时送老师束脩之礼",
+      "onboard_time": 1718893159,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 53914,
       "num": 1138233,
       "word": "中部崛起新动力",
@@ -3195,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33797,
+      "num": 358915,
+      "word": "想学工科怎么选学校",
+      "onboard_time": 1718892019,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 33675,
       "num": 44902,
       "word": "碧梨jennie合照",
@@ -3209,6 +3289,14 @@
       "onboard_time": 1718824572,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32812,
+      "num": 901365,
+      "word": "万千气象看甘肃",
+      "onboard_time": 1718890098,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32487,
@@ -3249,14 +3337,6 @@
       "onboard_time": 1718887279,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 27620,
-      "num": 774533,
-      "word": "万千气象看甘肃",
-      "onboard_time": 1718890098,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26822,
@@ -3313,14 +3393,6 @@
       "onboard_time": 1718812518,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20122,
-      "num": 341771,
-      "word": "想学工科怎么选学校",
-      "onboard_time": 1718892019,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 19556,
