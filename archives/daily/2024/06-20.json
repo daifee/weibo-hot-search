@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718872636061,
+  "endTime": 1718875365594,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1463259,
-      "num": 990506,
+      "num": 1197985,
       "word": "叶海洋双胞胎",
       "onboard_time": 1718869820,
       "rank": 3,
@@ -121,6 +121,14 @@
       "onboard_time": 1718840356,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 948392,
+      "num": 451004,
+      "word": "女性私处过度清洁反而更容易患病",
+      "onboard_time": 1718872098,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 925959,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 729395,
-      "num": 496366,
+      "num": 581731,
       "word": "刘亦菲送小演员芭比娃娃",
       "onboard_time": 1718870539,
       "rank": 10,
@@ -227,12 +235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 720437,
+      "num": 720437,
+      "word": "孙杨工作室发声",
+      "onboard_time": 1718873059,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 696750,
       "num": 391643,
       "word": "陈思诚 对短视频贴脸开大",
       "onboard_time": 1718866459,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 678068,
+      "num": 450680,
+      "word": "谢娜在女儿毕业典礼上哭了",
+      "onboard_time": 1718873838,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 677382,
@@ -387,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 475093,
+      "num": 475093,
+      "word": "魏大勋韩国出发录制奔跑吧",
+      "onboard_time": 1718872878,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446484,
       "num": 170878,
       "word": "韩红将参加歌手2024",
       "onboard_time": 1718871198,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444795,
+      "num": 444795,
+      "word": "哥哥太爱我了怎么办",
+      "onboard_time": 1718872218,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 439189,
@@ -779,6 +819,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236886,
+      "num": 236886,
+      "word": "停摆的桂林火车站现状",
+      "onboard_time": 1718872579,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236513,
+      "num": 236513,
+      "word": "赵露思熟女千金风",
+      "onboard_time": 1718874319,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235515,
       "num": 235515,
       "word": "TF家族运动会 特权码",
@@ -811,12 +867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232421,
-      "num": 156720,
-      "word": "女性私处过度清洁反而更容易患病",
-      "onboard_time": 1718872098,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 233303,
+      "num": 233303,
+      "word": "吴谨言翻红",
+      "onboard_time": 1718874439,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 229699,
@@ -923,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214633,
+      "num": 177077,
+      "word": "王星越上午肃国公下午萧北冥",
+      "onboard_time": 1718872697,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210427,
       "num": 193257,
       "word": "刘浩存逛公园",
@@ -1019,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194624,
+      "num": 170577,
+      "word": "陈鑫海演出了叶世杰暗恋感",
+      "onboard_time": 1718874378,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194343,
       "num": 194343,
       "word": "虞书欣林一女A男O",
@@ -1049,14 +1121,6 @@
       "onboard_time": 1718805740,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 193229,
-      "num": 193229,
-      "word": "哥哥太爱我了怎么办",
-      "onboard_time": 1718872218,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 193161,
@@ -1203,6 +1267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 170588,
+      "num": 170588,
+      "word": "7个摄影师都追不上万茜",
+      "onboard_time": 1718873539,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169121,
       "num": 169121,
       "word": "女子用Al编造地铁行凶视频被拘",
@@ -1227,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164338,
+      "num": 164338,
+      "word": "文科生 中医",
+      "onboard_time": 1718874198,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164234,
       "num": 164234,
       "word": "杨幂登ZuhairMurad官网",
@@ -1243,20 +1323,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 161251,
-      "num": 161251,
-      "word": "停摆的桂林火车站现状",
-      "onboard_time": 1718872579,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160952,
       "num": 153656,
       "word": "张予曦录完浪姐想上班",
       "onboard_time": 1718866219,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160931,
+      "num": 160931,
+      "word": "霉霉 抹鼻涕",
+      "onboard_time": 1718874557,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160740,
+      "num": 160740,
+      "word": "学医后才知道人体有多脆弱",
+      "onboard_time": 1718872160,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159752,
@@ -1355,12 +1443,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 152161,
+      "num": 152161,
+      "word": "婉宁这种疯女人就得薛芳菲来",
+      "onboard_time": 1718873660,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150803,
       "num": 150803,
       "word": "刚毕业的迷茫期到底该怎么度过",
       "onboard_time": 1718856259,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149784,
+      "num": 149784,
+      "word": "江西洪涝灾害已致67万人受灾",
+      "onboard_time": 1718873238,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148544,
@@ -1387,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143322,
+      "num": 143322,
+      "word": "中马互相延长免签政策",
+      "onboard_time": 1718874918,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143099,
       "num": 134378,
       "word": "白鹿手持剧本",
@@ -1409,6 +1521,14 @@
       "onboard_time": 1718869277,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138273,
+      "num": 138273,
+      "word": "墨雨云间吻戏呢",
+      "onboard_time": 1718873898,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 137157,
@@ -1443,14 +1563,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 133507,
-      "num": 133507,
-      "word": "学医后才知道人体有多脆弱",
-      "onboard_time": 1718872160,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132326,
       "num": 291918,
       "word": "下雨天学生把伞送给执勤交警",
@@ -1473,6 +1585,14 @@
       "onboard_time": 1718872279,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130628,
+      "num": 496804,
+      "word": "安徽黄山遇强降雨多地受灾",
+      "onboard_time": 1718871619,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130462,
@@ -1515,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128196,
+      "num": 128196,
+      "word": "manner涉事门店仍正常营业",
+      "onboard_time": 1718873779,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127427,
       "num": 127427,
       "word": "虞书欣原声台词",
@@ -1537,6 +1665,14 @@
       "onboard_time": 1718846359,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125018,
+      "num": 125018,
+      "word": "张真源被粉丝夸害羞了",
+      "onboard_time": 1718875099,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 124901,
@@ -1587,6 +1723,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123199,
+      "num": 123199,
+      "word": "官方辟谣发射3000枚增雨弹引发暴雨",
+      "onboard_time": 1718875039,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122972,
+      "num": 122972,
+      "word": "小城焕日 刘亦菲",
+      "onboard_time": 1718875278,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122193,
       "num": 122193,
       "word": "天蝎座突然冷淡的原因",
@@ -1601,6 +1753,14 @@
       "onboard_time": 1718870059,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121228,
+      "num": 121228,
+      "word": "专家称鼓励农民投资A股够损的",
+      "onboard_time": 1718873417,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 119974,
@@ -1633,6 +1793,14 @@
       "onboard_time": 1718803220,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 118069,
+      "num": 118069,
+      "word": "明日方舟",
+      "onboard_time": 1718874739,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 117218,
@@ -1673,6 +1841,14 @@
       "onboard_time": 1718864119,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114327,
+      "num": 114327,
+      "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
+      "onboard_time": 1718875278,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113391,
@@ -1931,6 +2107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85688,
+      "num": 451818,
+      "word": "桂江发生超历史实测纪录洪水",
+      "onboard_time": 1718874557,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80473,
       "num": 94555,
       "word": "原来王星越也是个小财迷",
@@ -2083,14 +2267,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 58216,
-      "num": 496804,
-      "word": "安徽黄山遇强降雨多地受灾",
-      "onboard_time": 1718871619,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 53914,
       "num": 1138233,
       "word": "中部崛起新动力",
@@ -2116,7 +2292,7 @@
     },
     {
       "raw_hot": 52074,
-      "num": 297640,
+      "num": 788878,
       "word": "智行天下能动未来",
       "onboard_time": 1718869639,
       "rank": 18,
@@ -2172,7 +2348,7 @@
     },
     {
       "raw_hot": 44843,
-      "num": 309246,
+      "num": 330809,
       "word": "不止于世界第二",
       "onboard_time": 1718870719,
       "rank": 16,
