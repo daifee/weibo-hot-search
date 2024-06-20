@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718887840375,
+  "endTime": 1718889700915,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -99,6 +99,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1156218,
+      "num": 1156218,
+      "word": "薛之谦生日场",
+      "onboard_time": 1718888718,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1100784,
       "num": 929668,
       "word": "女子因父母拒绝签字被困精神病院十年",
@@ -153,6 +161,14 @@
       "onboard_time": 1718850378,
       "rank": 19,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 903795,
+      "num": 319969,
+      "word": "黄亦玫生娃摸鼻子是刘亦菲即兴发挥",
+      "onboard_time": 1718888178,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 876227,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 779108,
-      "num": 270033,
+      "num": 273777,
       "word": "男朋友竟然让我多要点彩礼",
       "onboard_time": 1718881577,
       "rank": 21,
@@ -280,6 +296,14 @@
       "word": "太初 太想念初恋",
       "onboard_time": 1718878517,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 699531,
+      "num": 293585,
+      "word": "刘亦菲裸背",
+      "onboard_time": 1718888178,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -643,6 +667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 393120,
+      "num": 393120,
+      "word": "邓亚萍与孙颖莎王楚钦对练",
+      "onboard_time": 1718887757,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 388146,
       "num": 388146,
       "word": "Uzi疑似复出",
@@ -811,6 +843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 290442,
+      "num": 273550,
+      "word": "刘亦菲发黄玫瑰微博表情",
+      "onboard_time": 1718889078,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283346,
       "num": 224002,
       "word": "有些人三个月就够了",
@@ -833,6 +873,14 @@
       "onboard_time": 1718857399,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273003,
+      "num": 273003,
+      "word": "王星越回应和吴谨言二搭",
+      "onboard_time": 1718887216,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 270706,
@@ -883,6 +931,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263817,
+      "num": 263817,
+      "word": "manner有员工称8小时内要做500杯咖啡",
+      "onboard_time": 1718884278,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262581,
+      "num": 262581,
+      "word": "发现我妈是天生留子圣体",
+      "onboard_time": 1718888299,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259317,
       "num": 259317,
       "word": "超能摄影阳阳",
@@ -913,6 +977,14 @@
       "onboard_time": 1718846719,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251391,
+      "num": 251391,
+      "word": "Lisa新歌ROCKSTAR预告照",
+      "onboard_time": 1718887878,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 251005,
@@ -963,14 +1035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 242749,
-      "num": 242749,
-      "word": "manner有员工称8小时内要做500杯咖啡",
-      "onboard_time": 1718884278,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241850,
       "num": 208409,
       "word": "塑料手镯被奶奶当宝贝戴了17年",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1718863877,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237668,
+      "num": 237668,
+      "word": "贵州男子砍老婆17刀",
+      "onboard_time": 1718889199,
+      "rank": 27,
+      "category": "社会负面"
     },
     {
       "raw_hot": 237616,
@@ -1227,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208358,
-      "num": 208358,
-      "word": "王星越回应和吴谨言二搭",
-      "onboard_time": 1718887216,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206658,
       "num": 206658,
       "word": "为什么职场年轻人想喝酒",
@@ -1387,20 +1451,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 193237,
-      "num": 163595,
-      "word": "邓亚萍与孙颖莎王楚钦对练",
-      "onboard_time": 1718887757,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 193161,
       "num": 193161,
       "word": "王鹤棣啾咪",
       "onboard_time": 1718849658,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190608,
+      "num": 190608,
+      "word": "胡锡进今天跌了7471元",
+      "onboard_time": 1718887579,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 190526,
@@ -1433,14 +1497,6 @@
       "onboard_time": 1718870059,
       "rank": 24,
       "category": "科学科普,社会新闻"
-    },
-    {
-      "raw_hot": 186755,
-      "num": 186755,
-      "word": "胡锡进今天跌了7471元",
-      "onboard_time": 1718887579,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 186598,
@@ -1545,6 +1601,14 @@
       "onboard_time": 1718871078,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180261,
+      "num": 324974,
+      "word": "免收学费就业率贼高的神仙专业",
+      "onboard_time": 1718887216,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 177535,
@@ -1779,6 +1843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156128,
+      "num": 156128,
+      "word": "是吻住不是稳住",
+      "onboard_time": 1718887757,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156065,
       "num": 156065,
       "word": "最帅升旗手放弃体制内工作扎根农业",
@@ -1955,12 +2027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 138041,
-      "num": 324974,
-      "word": "免收学费就业率贼高的神仙专业",
-      "onboard_time": 1718887216,
-      "rank": 13,
-      "category": "教育"
+      "raw_hot": 137717,
+      "num": 137717,
+      "word": "菲常萧张恋爱进度到截婚了",
+      "onboard_time": 1718888057,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 137157,
@@ -1977,6 +2049,14 @@
       "onboard_time": 1718807239,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135919,
+      "num": 135919,
+      "word": "巨蟹座生日",
+      "onboard_time": 1718888899,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 135530,
@@ -2195,6 +2275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122046,
+      "num": 122046,
+      "word": "这种小区没有一天我走不出来",
+      "onboard_time": 1718889139,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121293,
       "num": 115211,
       "word": "迪丽热巴学AI舞",
@@ -2347,6 +2435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 111486,
+      "num": 111486,
+      "word": "DYG对战JDG",
+      "onboard_time": 1718888118,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111348,
       "num": 111348,
       "word": "刘雯井柏然时尚芭莎预告",
@@ -2411,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107625,
+      "num": 107625,
+      "word": "黄亦玫傅家明病床吻",
+      "onboard_time": 1718889618,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107311,
       "num": 133788,
       "word": "谁唱说谎",
@@ -2465,14 +2569,6 @@
       "onboard_time": 1718866639,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104233,
-      "num": 104233,
-      "word": "是吻住不是稳住",
-      "onboard_time": 1718887757,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 103935,
@@ -2603,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92578,
+      "num": 376363,
+      "word": "外国品牌想收购海尔最后被海尔收购",
+      "onboard_time": 1718884937,
+      "rank": 10,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 91298,
       "num": 91298,
       "word": "星穹铁道流萤",
@@ -2641,14 +2745,6 @@
       "onboard_time": 1718864658,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84574,
-      "num": 376363,
-      "word": "外国品牌想收购海尔最后被海尔收购",
-      "onboard_time": 1718884937,
-      "rank": 10,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 80473,
@@ -2780,7 +2876,7 @@
     },
     {
       "raw_hot": 69478,
-      "num": 718173,
+      "num": 786263,
       "word": "起底热搜背后的产业链",
       "onboard_time": 1718871918,
       "rank": 2,
@@ -2833,6 +2929,14 @@
       "onboard_time": 1718805501,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 61018,
+      "num": 301712,
+      "word": "福宝会对暗号了",
+      "onboard_time": 1718889439,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58230,
@@ -3017,6 +3121,14 @@
       "onboard_time": 1718868738,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28364,
+      "num": 314805,
+      "word": "法学专业除了当律师还能做什么",
+      "onboard_time": 1718888418,
+      "rank": 14,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 27934,
