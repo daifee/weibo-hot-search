@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/20 18:36:51
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/20 19:16:29
 </p>
 </blockquote>
 <p>
@@ -2751,6 +2751,12 @@ iPhone有通话录音了（热度：1060619）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E7%BD%97%E6%84%8F%E5%A8%81%23" target="weibo">
+王一博 罗意威（热度：1001335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%A1%B6%E6%B5%81%E5%A7%9C%E6%B6%9B%E8%B7%B3%E6%99%9A%E5%AE%89%E5%A4%A7%E5%B0%8F%E5%A7%90%23" target="weibo">
 香港顶流姜涛跳晚安大小姐（热度：998937）
 </a>
@@ -4809,6 +4815,12 @@ Jennie走秀（热度：742682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%88%9D%20%E5%A4%AA%E6%83%B3%E5%BF%B5%E5%88%9D%E6%81%8B%23" target="weibo">
+太初 太想念初恋（热度：711606）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E6%9C%88%E7%BA%A2%E7%AF%87be%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
 狐妖月红篇be大结局（热度：710520）
 </a>
@@ -5937,6 +5949,12 @@ LV售后欧洲免费国内收2400（热度：627037）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7Manner%E4%B8%80%E7%94%B7%E5%BA%97%E5%91%98%E6%AE%B4%E6%89%93%E5%A5%B3%E9%A1%BE%E5%AE%A2%23" target="weibo">
+上海Manner一男店员殴打女顾客（热度：621400）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%87%E6%96%B9%E6%8A%A5%E5%A5%96%E7%99%BD%E7%8E%89%E5%85%B0%E4%B8%8D%E4%BC%9A%E6%8C%89%E7%95%AA%E4%BD%8D%E9%80%89%23" target="weibo">
 片方报奖白玉兰不会按番位选（热度：620512）
 </a>
@@ -5993,24 +6011,6 @@ LV售后欧洲免费国内收2400（热度：627037）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%96%B9%E6%92%A4%E5%9B%9E%E4%BA%86%E4%B8%80%E4%BD%8D%E5%B8%85%E5%93%A5%E6%95%B0%E5%AD%A6%E8%80%81%E5%B8%88%23" target="weibo">
 对方撤回了一位帅哥数学老师（热度：615637）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%E4%B8%8A%E7%94%B5%E8%A7%86%E4%BA%86%23" target="weibo">
-耳帝上电视了（热度：615487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%20%E4%B8%80%E7%94%9F%E4%B9%8B%E6%95%8C%23" target="weibo">
-数学 一生之敌（热度：615302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TypeC%E5%98%B4%23" target="weibo">
-TypeC嘴（热度：614816）
 </a>
 </li>
 
