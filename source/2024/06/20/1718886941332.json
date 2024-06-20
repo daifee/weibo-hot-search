@@ -1,0 +1,410 @@
+{
+  "runTime": 1718886941332,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1633638,
+        "num": 1633638,
+        "word": "上海Manner一男店员殴打女顾客",
+        "onboard_time": 1718880138,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766244,
+        "num": 766244,
+        "word": "王一博 罗意威",
+        "onboard_time": 1718879657,
+        "rank": 1,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 16675,
+        "num": 698544,
+        "word": "起底热搜背后的产业链",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649988,
+        "num": 649988,
+        "word": "中国女排0比3日本女排",
+        "onboard_time": 1718883197,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613265,
+        "num": 613265,
+        "word": "manner泼咖啡粉员工已被辞退",
+        "onboard_time": 1718882118,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571490,
+        "num": 571490,
+        "word": "长相思2 定档",
+        "onboard_time": 1718863939,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558336,
+        "num": 558336,
+        "word": "中国女排总决赛止步八强",
+        "onboard_time": 1718883197,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387002,
+        "num": 387002,
+        "word": "Manner回应店员泼顾客咖啡粉",
+        "onboard_time": 1718870598,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382329,
+        "num": 382329,
+        "word": "庄国栋睡了但彭冠英醒了",
+        "onboard_time": 1718884818,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46368,
+        "num": 378971,
+        "word": "今年南方为何持续强降雨",
+        "onboard_time": 1718883858,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 60942,
+        "num": 376363,
+        "word": "外国品牌想收购海尔最后被海尔收购",
+        "onboard_time": 1718884937,
+        "rank": 10,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 430442,
+        "num": 373331,
+        "word": "小钰谈和Rookie结婚",
+        "onboard_time": 1718885298,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 395213,
+        "num": 369579,
+        "word": "女性私处过度清洁反而更容易患病",
+        "onboard_time": 1718872098,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 366306,
+        "num": 366306,
+        "word": "黄亦玫带娃三年考了3本资格证",
+        "onboard_time": 1718878698,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40983,
+        "num": 358450,
+        "word": "想当老师应该报什么专业",
+        "onboard_time": 1718884818,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 352654,
+        "num": 352654,
+        "word": "太初 太想念初恋",
+        "onboard_time": 1718878517,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328564,
+        "num": 328564,
+        "word": "乐山炸串",
+        "onboard_time": 1718879898,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 325464,
+        "num": 325464,
+        "word": "墨雨云间同人",
+        "onboard_time": 1718882718,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278688,
+        "num": 278688,
+        "word": "Manner单店平均收入8000元一天",
+        "onboard_time": 1718876118,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273971,
+        "num": 273971,
+        "word": "manner",
+        "onboard_time": 1718865197,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 685815,
+        "num": 270033,
+        "word": "男朋友竟然让我多要点彩礼",
+        "onboard_time": 1718881577,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252529,
+        "num": 252529,
+        "word": "谢娜在女儿毕业典礼上哭了",
+        "onboard_time": 1718873838,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234781,
+        "num": 234781,
+        "word": "manner有员工称8小时内要做500杯咖啡",
+        "onboard_time": 1718884278,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200746,
+        "num": 200746,
+        "word": "丁霞状态",
+        "onboard_time": 1718885657,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199486,
+        "num": 199486,
+        "word": "宋亚轩汇演",
+        "onboard_time": 1718886678,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187154,
+        "num": 187154,
+        "word": "黄亦玫知道傅家明患病的那一瞬间",
+        "onboard_time": 1718885237,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185855,
+        "num": 185855,
+        "word": "中国海警夺回菲方盗窃赃物",
+        "onboard_time": 1718886319,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185782,
+        "num": 185782,
+        "word": "吴谨言回应墨雨云间借位吻戏",
+        "onboard_time": 1718876059,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184339,
+        "num": 184339,
+        "word": "陈妍希新综艺或将近期播出",
+        "onboard_time": 1718875818,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165162,
+        "num": 165162,
+        "word": "王俊凯王源易烊千玺最新状态",
+        "onboard_time": 1718879480,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161331,
+        "num": 161331,
+        "word": "傅家明因病去世",
+        "onboard_time": 1718859919,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158828,
+        "num": 158828,
+        "word": "张常宁采访",
+        "onboard_time": 1718886558,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151730,
+        "num": 151730,
+        "word": "黄霄雲歌手彩排状态",
+        "onboard_time": 1718883918,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150645,
+        "num": 150645,
+        "word": "韩国麦当劳暂时停止销售炸薯条",
+        "onboard_time": 1718868079,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149354,
+        "num": 149354,
+        "word": "papi毛不易分享宅家好物",
+        "onboard_time": 1718886079,
+        "rank": 34,
+        "category": "艺人,网红"
+      },
+      {
+        "raw_hot": 141578,
+        "num": 141578,
+        "word": "中方回应美方批准3.6亿美元对台军售",
+        "onboard_time": 1718882418,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143536,
+        "num": 139799,
+        "word": "陈泽停播",
+        "onboard_time": 1718883258,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 133685,
+        "num": 133685,
+        "word": "新疆阿图什市4.8级地震",
+        "onboard_time": 1718885477,
+        "rank": 37,
+        "category": "自然,社会新闻"
+      },
+      {
+        "raw_hot": 127394,
+        "num": 127394,
+        "word": "颜心记 空降",
+        "onboard_time": 1718860998,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124281,
+        "num": 124281,
+        "word": "王俊凯让C位失败",
+        "onboard_time": 1718877079,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123190,
+        "num": 123190,
+        "word": "魏大勋韩国出发录制奔跑吧",
+        "onboard_time": 1718872878,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121207,
+        "num": 121207,
+        "word": "GQ拍的胡歌易烊千玺",
+        "onboard_time": 1718885899,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 114242,
+        "num": 114242,
+        "word": "梁祯元 Lemon",
+        "onboard_time": 1718884099,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 111722,
+        "num": 111722,
+        "word": "哥哥太爱我了怎么办",
+        "onboard_time": 1718872218,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109579,
+        "num": 109579,
+        "word": "吴谨言王星越耳朵都红了",
+        "onboard_time": 1718884578,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108447,
+        "num": 108447,
+        "word": "霍建华都是素颜拍戏",
+        "onboard_time": 1718881939,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108419,
+        "num": 108419,
+        "word": "60秒打卡最美国道G331",
+        "onboard_time": 1718884218,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104914,
+        "num": 104914,
+        "word": "因停机错过考编递补考生已考上公务员",
+        "onboard_time": 1718866697,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101434,
+        "num": 101434,
+        "word": "手机影像卷到头了吗",
+        "onboard_time": 1718886858,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103935,
+        "num": 101365,
+        "word": "王星越在线辟谣表情管理失败",
+        "onboard_time": 1718886917,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续推进青藏高原生态保护和高质量发展#"
+    }
+  }
+}
