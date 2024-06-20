@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718910981917,
+  "endTime": 1718912052512,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -481,6 +481,22 @@
       "onboard_time": 1718887216,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 14382,
+      "num": 19588,
+      "word": "关注广东梅州暴雨抢险救灾进展",
+      "onboard_time": 1718907912,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13964,
+      "num": 19587,
+      "word": "吴谨言喊王星越王哥",
+      "onboard_time": 1718911151,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 12648,
