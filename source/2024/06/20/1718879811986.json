@@ -1,0 +1,410 @@
+{
+  "runTime": 1718879811986,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1058953,
+        "num": 1058953,
+        "word": "叶海洋双胞胎",
+        "onboard_time": 1718869820,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 593614,
+        "num": 593614,
+        "word": "Manner回应店员泼顾客咖啡粉",
+        "onboard_time": 1718870598,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39284,
+        "num": 575685,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719793,
+        "num": 573217,
+        "word": "长相思2 定档",
+        "onboard_time": 1718863939,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 568971,
+        "num": 568971,
+        "word": "韩国麦当劳暂时停止销售炸薯条",
+        "onboard_time": 1718868079,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560111,
+        "num": 560111,
+        "word": "Manner单店平均收入8000元一天",
+        "onboard_time": 1718876118,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605967,
+        "num": 548679,
+        "word": "陈妍希新综艺或将近期播出",
+        "onboard_time": 1718875818,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444156,
+        "num": 444156,
+        "word": "中国女排vs日本女排",
+        "onboard_time": 1718876718,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 439106,
+        "num": 439106,
+        "word": "官方辟谣发射3000枚增雨弹引发暴雨",
+        "onboard_time": 1718875039,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36408,
+        "num": 426031,
+        "word": "梅州多位村民讲述洪水发生情况",
+        "onboard_time": 1718878279,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 734633,
+        "num": 423771,
+        "word": "谢娜在女儿毕业典礼上哭了",
+        "onboard_time": 1718873838,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538877,
+        "num": 423304,
+        "word": "女性私处过度清洁反而更容易患病",
+        "onboard_time": 1718872098,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419046,
+        "num": 419046,
+        "word": "太初 太想念初恋",
+        "onboard_time": 1718878517,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402269,
+        "num": 402269,
+        "word": "哥哥太爱我了怎么办",
+        "onboard_time": 1718872218,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68042,
+        "num": 395900,
+        "word": "计算机专业毕业生薪资真相",
+        "onboard_time": 1718877618,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49664,
+        "num": 392979,
+        "word": "喝无糖茶也可以不吃苦了",
+        "onboard_time": 1718878038,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390134,
+        "num": 390134,
+        "word": "因停机错过考编递补考生已考上公务员",
+        "onboard_time": 1718866697,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352154,
+        "num": 352154,
+        "word": "文科生 中医",
+        "onboard_time": 1718874198,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299290,
+        "num": 299290,
+        "word": "孙杨工作室发声",
+        "onboard_time": 1718873059,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291863,
+        "num": 291863,
+        "word": "manner",
+        "onboard_time": 1718865197,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307767,
+        "num": 289480,
+        "word": "黄亦玫带娃三年考了3本资格证",
+        "onboard_time": 1718878698,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284533,
+        "num": 284533,
+        "word": "王俊凯王源易烊千玺最新状态",
+        "onboard_time": 1718879480,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281165,
+        "num": 281165,
+        "word": "魏大勋韩国出发录制奔跑吧",
+        "onboard_time": 1718872878,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270119,
+        "num": 270119,
+        "word": "收到了黄亦玫的离婚请帖",
+        "onboard_time": 1718877918,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266162,
+        "num": 266162,
+        "word": "刘亦菲送小演员芭比娃娃",
+        "onboard_time": 1718870539,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265565,
+        "num": 265565,
+        "word": "傅家明因病去世",
+        "onboard_time": 1718859919,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252396,
+        "num": 252396,
+        "word": "吴谨言回应墨雨云间借位吻戏",
+        "onboard_time": 1718876059,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179968,
+        "num": 179968,
+        "word": "桂林暴雨一药店被淹女店员不幸遇难",
+        "onboard_time": 1718870240,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172399,
+        "num": 172399,
+        "word": "直击南方多地暴雨现场",
+        "onboard_time": 1718865917,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10767,
+        "num": 171779,
+        "word": "印度假酒中毒死亡人数升至29人",
+        "onboard_time": 1718879599,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232987,
+        "num": 171067,
+        "word": "新疆大盘鸡瀑布",
+        "onboard_time": 1718878578,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197797,
+        "num": 170391,
+        "word": "吴谨言翻红",
+        "onboard_time": 1718874439,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194110,
+        "num": 169733,
+        "word": "电动车因配饰豪华好看4天被盗3次",
+        "onboard_time": 1718879237,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169428,
+        "num": 169428,
+        "word": "小狸猫哭花了就不可爱了",
+        "onboard_time": 1718879119,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168884,
+        "num": 168884,
+        "word": "警方通报夫妇卖西瓜时与旁边商贩冲突",
+        "onboard_time": 1718875278,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167827,
+        "num": 167827,
+        "word": "王一博 罗意威",
+        "onboard_time": 1718879657,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 181658,
+        "num": 164420,
+        "word": "薛芳菲头发梳上去了",
+        "onboard_time": 1718869039,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160671,
+        "num": 160671,
+        "word": "王俊凯让C位失败",
+        "onboard_time": 1718877079,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153897,
+        "num": 153897,
+        "word": "中方回应菲称我海警挥舞刀具",
+        "onboard_time": 1718879359,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152341,
+        "num": 152341,
+        "word": "小城焕日 刘亦菲",
+        "onboard_time": 1718875278,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147119,
+        "num": 147119,
+        "word": "梅州在外年轻人请假回乡清淤",
+        "onboard_time": 1718876418,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143193,
+        "num": 143193,
+        "word": "叶海洋 儿女双全",
+        "onboard_time": 1718877019,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141481,
+        "num": 142905,
+        "word": "刺猬",
+        "onboard_time": 1718878398,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142822,
+        "num": 142822,
+        "word": "证监会抓住一只蚊子",
+        "onboard_time": 1718877319,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134907,
+        "num": 134907,
+        "word": "黄亦玫离婚海报",
+        "onboard_time": 1718855959,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134686,
+        "num": 134686,
+        "word": "颜心记 空降",
+        "onboard_time": 1718860998,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118121,
+        "num": 118121,
+        "word": "合肥地铁回应电子屏投放狗肉广告",
+        "onboard_time": 1718876118,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117234,
+        "num": 117234,
+        "word": "歌手歌单",
+        "onboard_time": 1718855840,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115006,
+        "num": 115006,
+        "word": "王星越上午肃国公下午萧北冥",
+        "onboard_time": 1718872697,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114148,
+        "num": 114148,
+        "word": "赵露思熟女千金风",
+        "onboard_time": 1718874319,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续推进青藏高原生态保护和高质量发展#"
+    }
+  }
+}
