@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718865549813,
+  "endTime": 1718867899356,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -9,6 +9,14 @@
       "onboard_time": 1718848456,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2064085,
+      "num": 2064085,
+      "word": "长相思2 定档",
+      "onboard_time": 1718863939,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1849141,
@@ -25,14 +33,6 @@
       "onboard_time": 1718855840,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1683492,
-      "num": 1683492,
-      "word": "长相思2 定档",
-      "onboard_time": 1718863939,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1676473,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1231260,
-      "num": 650531,
+      "num": 922283,
       "word": "傅家明因病去世",
       "onboard_time": 1718859919,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1718856621,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1136847,
+      "num": 1136847,
+      "word": "manner",
+      "onboard_time": 1718865197,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1100784,
@@ -219,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583173,
+      "num": 391643,
+      "word": "陈思诚 对短视频贴脸开大",
+      "onboard_time": 1718866459,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 576319,
       "num": 663773,
       "word": "于正我不允许任何人忤逆你",
@@ -275,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 497499,
+      "num": 281362,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1718863998,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 492755,
       "num": 342192,
       "word": "苏苏结过婚",
@@ -296,6 +320,22 @@
       "word": "姜萍黑板题目的详细解析",
       "onboard_time": 1718846299,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468749,
+      "num": 273095,
+      "word": "张杰曾说不敢在鸟巢开演唱会",
+      "onboard_time": 1718866639,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 452919,
+      "num": 237068,
+      "word": "因停机错过考编递补考生已考上公务员",
+      "onboard_time": 1718866697,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -491,6 +531,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 287481,
+      "num": 231498,
+      "word": "阳阳 15万让大家认识陈飞宇",
+      "onboard_time": 1718867239,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283346,
+      "num": 224002,
+      "word": "有些人三个月就够了",
+      "onboard_time": 1718864298,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 275370,
       "num": 261256,
       "word": "凌晨2点百人打手电摘杨梅现场壮观",
@@ -571,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251850,
+      "num": 251850,
+      "word": "一加",
+      "onboard_time": 1718867058,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 251005,
       "num": 112306,
       "word": "湖南为什么是香港的菜篮子",
@@ -593,6 +657,14 @@
       "onboard_time": 1718858900,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247190,
+      "num": 247190,
+      "word": "桂林洪水现场情况",
+      "onboard_time": 1718865077,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243245,
@@ -787,14 +859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 205310,
-      "num": 205310,
-      "word": "桂林洪水现场情况",
-      "onboard_time": 1718865077,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 203445,
       "num": 203445,
       "word": "夸夸小精灵 我和谁最配",
@@ -811,12 +875,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 196975,
+      "num": 196975,
+      "word": "萧蘅求婚薛芳菲",
+      "onboard_time": 1718866100,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196838,
       "num": 196838,
       "word": "风扇和空调一起开能省电",
       "onboard_time": 1718843480,
       "rank": 26,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 196702,
+      "num": 195264,
+      "word": "王星越台词",
+      "onboard_time": 1718867537,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 196534,
@@ -833,6 +913,14 @@
       "onboard_time": 1718856199,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194246,
+      "num": 194246,
+      "word": "蔡依林西安抢票",
+      "onboard_time": 1718867659,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 193423,
@@ -859,12 +947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190759,
-      "num": 190759,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1718863998,
-      "rank": 36,
-      "category": "国外时政"
+      "raw_hot": 191768,
+      "num": 191768,
+      "word": "片寄凉太土屋太凤 最强售后",
+      "onboard_time": 1718866039,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 190526,
@@ -889,6 +977,14 @@
       "onboard_time": 1718853019,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186500,
+      "num": 197499,
+      "word": "WE疑回应Uzi加入",
+      "onboard_time": 1718865197,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 186009,
@@ -971,14 +1067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173078,
-      "num": 154838,
-      "word": "有些人三个月就够了",
-      "onboard_time": 1718864298,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 169121,
       "num": 169121,
       "word": "女子用Al编造地铁行凶视频被拘",
@@ -1011,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160952,
+      "num": 153656,
+      "word": "张予曦录完浪姐想上班",
+      "onboard_time": 1718866219,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159752,
       "num": 159752,
       "word": "执行法官定档央八",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1718854698,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158249,
+      "num": 153606,
+      "word": "王一博午后花絮",
+      "onboard_time": 1718866517,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 157385,
@@ -1099,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143359,
+      "num": 143359,
+      "word": "花花开出了高饱和度的夏天",
+      "onboard_time": 1718866697,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 143099,
       "num": 134378,
       "word": "白鹿手持剧本",
@@ -1171,6 +1283,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130383,
+      "num": 130383,
+      "word": "南方防汛一线最新情况",
+      "onboard_time": 1718848456,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128711,
+      "num": 394022,
+      "word": "这是洪水中安全感爆棚的怀抱",
+      "onboard_time": 1718865018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127427,
       "num": 127427,
       "word": "虞书欣原声台词",
@@ -1193,14 +1321,6 @@
       "onboard_time": 1718846359,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 125505,
-      "num": 125505,
-      "word": "manner",
-      "onboard_time": 1718865197,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124901,
@@ -1227,6 +1347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124196,
+      "num": 124196,
+      "word": "这一看就是不会跑路的工位",
+      "onboard_time": 1718867298,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123938,
       "num": 123938,
       "word": "桂林一级防汛应急响应",
@@ -1249,6 +1377,14 @@
       "onboard_time": 1718802440,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122046,
+      "num": 241993,
+      "word": "直击南方多地暴雨现场",
+      "onboard_time": 1718865917,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119974,
@@ -1331,6 +1467,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 110756,
+      "num": 955687,
+      "word": "高考志愿填报该看兴趣还是就业前景",
+      "onboard_time": 1718857761,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109949,
       "num": 78500,
       "word": "德国欧洲杯两连胜",
@@ -1401,6 +1545,14 @@
       "onboard_time": 1718799018,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 104377,
+      "num": 108541,
+      "word": "WE对战EDGM",
+      "onboard_time": 1718866639,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 102293,
@@ -1475,14 +1627,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97300,
-      "num": 773008,
-      "word": "高考志愿填报该看兴趣还是就业前景",
-      "onboard_time": 1718857761,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97170,
       "num": 97170,
       "word": "适量排汗有利于健康",
@@ -1497,14 +1641,6 @@
       "onboard_time": 1718808801,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96048,
-      "num": 113680,
-      "word": "WE疑回应Uzi加入",
-      "onboard_time": 1718865197,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 95365,
@@ -1577,14 +1713,6 @@
       "onboard_time": 1718810300,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 78878,
-      "num": 394022,
-      "word": "这是洪水中安全感爆棚的怀抱",
-      "onboard_time": 1718865018,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 78512,
@@ -1755,6 +1883,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 50710,
+      "num": 243488,
+      "word": "多家车企呼吁竞争要守住底线",
+      "onboard_time": 1718865559,
+      "rank": 20,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49255,
       "num": 451390,
       "word": "漓江桂林市区段正缓慢退水",
@@ -1769,6 +1905,14 @@
       "onboard_time": 1718780541,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 45949,
+      "num": 248487,
+      "word": "金晨居家女友风",
+      "onboard_time": 1718864057,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 44925,
@@ -1817,14 +1961,6 @@
       "onboard_time": 1718850918,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26038,
-      "num": 203972,
-      "word": "金晨居家女友风",
-      "onboard_time": 1718864057,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 25549,
