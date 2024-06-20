@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718871875495,
+  "endTime": 1718872636061,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -91,11 +91,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024371,
+      "num": 1024371,
+      "word": "韩国麦当劳暂时停止销售炸薯条",
+      "onboard_time": 1718868079,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1021213,
       "num": 220145,
       "word": "胡锡进 不信姜萍与老师共谋惊天骗局",
       "onboard_time": 1718844739,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014095,
+      "num": 1014095,
+      "word": "因停机错过考编递补考生已考上公务员",
+      "onboard_time": 1718866697,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -105,14 +121,6 @@
       "onboard_time": 1718840356,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 977796,
-      "num": 977796,
-      "word": "因停机错过考编递补考生已考上公务员",
-      "onboard_time": 1718866697,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 925959,
@@ -139,20 +147,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 824143,
+      "num": 824143,
+      "word": "Manner回应店员泼顾客咖啡粉",
+      "onboard_time": 1718870598,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812128,
       "num": 599581,
       "word": "仅两款iPhone可使用苹果AI",
       "onboard_time": 1718850199,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 807876,
-      "num": 807876,
-      "word": "韩国麦当劳暂时停止销售炸薯条",
-      "onboard_time": 1718868079,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 803665,
@@ -203,19 +211,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729395,
+      "num": 496366,
+      "word": "刘亦菲送小演员芭比娃娃",
+      "onboard_time": 1718870539,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 725189,
       "num": 725189,
       "word": "女孩秋千跌落身亡设备公司判赔107万",
       "onboard_time": 1718809519,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 714381,
-      "num": 714381,
-      "word": "Manner回应店员泼顾客咖啡粉",
-      "onboard_time": 1718870598,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -257,14 +265,6 @@
       "onboard_time": 1718861178,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 646894,
-      "num": 496366,
-      "word": "刘亦菲送小演员芭比娃娃",
-      "onboard_time": 1718870539,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 609347,
@@ -347,8 +347,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494862,
-      "num": 494862,
+      "raw_hot": 496922,
+      "num": 496922,
       "word": "桂林暴雨一药店被淹女店员不幸遇难",
       "onboard_time": 1718870240,
       "rank": 11,
@@ -451,20 +451,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410521,
+      "num": 410521,
+      "word": "薛芳菲头发梳上去了",
+      "onboard_time": 1718869039,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 406284,
       "num": 406284,
       "word": "霍建华四集就下线了",
       "onboard_time": 1718839937,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 403685,
-      "num": 403685,
-      "word": "薛芳菲头发梳上去了",
-      "onboard_time": 1718869039,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 395414,
@@ -811,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232421,
+      "num": 156720,
+      "word": "女性私处过度清洁反而更容易患病",
+      "onboard_time": 1718872098,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 229699,
       "num": 205380,
       "word": "贫血和气血不足是两个概念",
@@ -947,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 199713,
+      "num": 199713,
+      "word": "他这个年纪不该这样",
+      "onboard_time": 1718871258,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198354,
       "num": 196311,
       "word": "为啥有人长得很好看但拍照一笑就崩",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1718805740,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 193229,
+      "num": 193229,
+      "word": "哥哥太爱我了怎么办",
+      "onboard_time": 1718872218,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 193161,
@@ -1163,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178799,
-      "num": 178799,
-      "word": "他这个年纪不该这样",
-      "onboard_time": 1718871258,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177535,
       "num": 177535,
       "word": "汉服女孩用东方神秘力量征服老外",
@@ -1224,6 +1240,14 @@
       "word": "航拍洪峰过境漓江两岸连片被淹",
       "onboard_time": 1718871379,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161251,
+      "num": 161251,
+      "word": "停摆的桂林火车站现状",
+      "onboard_time": 1718872579,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1323,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152421,
+      "num": 152421,
+      "word": "她听到了600个孩子叫的第一声妈妈",
+      "onboard_time": 1718872098,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150803,
       "num": 150803,
       "word": "刚毕业的迷茫期到底该怎么度过",
@@ -1395,8 +1427,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134948,
-      "num": 134948,
+      "raw_hot": 135530,
+      "num": 135530,
       "word": "Uzi若复出最可能去哪个队",
       "onboard_time": 1718869277,
       "rank": 40,
@@ -1409,6 +1441,14 @@
       "onboard_time": 1718864598,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133507,
+      "num": 133507,
+      "word": "学医后才知道人体有多脆弱",
+      "onboard_time": 1718872160,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132326,
@@ -1425,6 +1465,14 @@
       "onboard_time": 1718850497,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130914,
+      "num": 130914,
+      "word": "执行法官里的啃老新境界",
+      "onboard_time": 1718872279,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 130462,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1718848456,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128777,
+      "num": 128777,
+      "word": "Selina说刘宇有点小心机",
+      "onboard_time": 1718869940,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 128711,
@@ -1505,14 +1561,6 @@
       "onboard_time": 1718836334,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 124764,
-      "num": 124764,
-      "word": "Selina说刘宇有点小心机",
-      "onboard_time": 1718869940,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 124196,
@@ -2035,6 +2083,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 58216,
+      "num": 496804,
+      "word": "安徽黄山遇强降雨多地受灾",
+      "onboard_time": 1718871619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53914,
       "num": 1138233,
       "word": "中部崛起新动力",
@@ -2131,6 +2187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36487,
+      "num": 496779,
+      "word": "何以中国运载千秋",
+      "onboard_time": 1718871918,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36422,
+      "num": 992373,
+      "word": "全国首个核能供汽投产",
+      "onboard_time": 1718871738,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33675,
       "num": 44902,
       "word": "碧梨jennie合照",
@@ -2179,14 +2251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28321,
-      "num": 496804,
-      "word": "安徽黄山遇强降雨多地受灾",
-      "onboard_time": 1718871619,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25549,
       "num": 216985,
       "word": "一碗粉一张饼暖心又暖胃",
@@ -2211,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22450,
+      "num": 156727,
+      "word": "日本警察偷窃衣物被捕",
+      "onboard_time": 1718872339,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21962,
       "num": 257394,
       "word": "人总要给这片土地留下点东西",
@@ -2223,14 +2295,6 @@
       "num": 794497,
       "word": "AI眼中的三夏画卷",
       "onboard_time": 1718856919,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15614,
-      "num": 992373,
-      "word": "全国首个核能供汽投产",
-      "onboard_time": 1718871738,
       "rank": 2,
       "category": "社会新闻"
     },

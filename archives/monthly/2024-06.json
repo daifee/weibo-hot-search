@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718871875495,
+  "endTime": 1718872636061,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3491,6 +3491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024371,
+      "num": 1024371,
+      "word": "韩国麦当劳暂时停止销售炸薯条",
+      "onboard_time": 1718868079,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1023027,
       "num": 687941,
       "word": "段嘉许回来了",
@@ -3536,6 +3544,14 @@
       "word": "养了6年的巨骨舌鱼把自己摔死了",
       "onboard_time": 1717602196,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1014095,
+      "num": 1014095,
+      "word": "因停机错过考编递补考生已考上公务员",
+      "onboard_time": 1718866697,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3721,14 +3737,6 @@
       "onboard_time": 1718580916,
       "rank": 0,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 977796,
-      "num": 977796,
-      "word": "因停机错过考编递补考生已考上公务员",
-      "onboard_time": 1718866697,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 977445,
@@ -4915,6 +4923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824143,
+      "num": 824143,
+      "word": "Manner回应店员泼顾客咖啡粉",
+      "onboard_time": 1718870598,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 821729,
       "num": 795603,
       "word": "孟子义已经退出华语乐坛三个月",
@@ -5032,14 +5048,6 @@
       "word": "夫妻辞教职在英国摆摊年挣180万",
       "onboard_time": 1717682599,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 807876,
-      "num": 807876,
-      "word": "韩国麦当劳暂时停止销售炸薯条",
-      "onboard_time": 1718868079,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -6099,6 +6107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 729395,
+      "num": 496366,
+      "word": "刘亦菲送小演员芭比娃娃",
+      "onboard_time": 1718870539,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 729085,
       "num": 729085,
       "word": "王星越壁纸",
@@ -6321,14 +6337,6 @@
       "onboard_time": 1717990757,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 714381,
-      "num": 714381,
-      "word": "Manner回应店员泼顾客咖啡粉",
-      "onboard_time": 1718870598,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 713569,
@@ -7481,14 +7489,6 @@
       "onboard_time": 1718861178,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 646894,
-      "num": 496366,
-      "word": "刘亦菲送小演员芭比娃娃",
-      "onboard_time": 1718870539,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 646407,
@@ -10867,6 +10867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496922,
+      "num": 496922,
+      "word": "桂林暴雨一药店被淹女店员不幸遇难",
+      "onboard_time": 1718870240,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 496589,
       "num": 496589,
       "word": "男子为快速入睡吃了40多片安眠药",
@@ -10953,14 +10961,6 @@
       "onboard_time": 1717393638,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 494862,
-      "num": 494862,
-      "word": "桂林暴雨一药店被淹女店员不幸遇难",
-      "onboard_time": 1718870240,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 494636,
@@ -13859,6 +13859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410521,
+      "num": 410521,
+      "word": "薛芳菲头发梳上去了",
+      "onboard_time": 1718869039,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410479,
       "num": 410479,
       "word": "张学友感染呼吸道合胞病毒",
@@ -14033,14 +14041,6 @@
       "onboard_time": 1718715379,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 403685,
-      "num": 403685,
-      "word": "薛芳菲头发梳上去了",
-      "onboard_time": 1718869039,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 403600,
@@ -23659,6 +23659,14 @@
       "category": "财经,国外时政"
     },
     {
+      "raw_hot": 232421,
+      "num": 156720,
+      "word": "女性私处过度清洁反而更容易患病",
+      "onboard_time": 1718872098,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232407,
       "num": 232407,
       "word": "现在练车都在室内了吗",
@@ -27963,6 +27971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199713,
+      "num": 199713,
+      "word": "他这个年纪不该这样",
+      "onboard_time": 1718871258,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199618,
       "num": 198152,
       "word": "傅首尔 带资都没能进组",
@@ -29369,6 +29385,14 @@
       "onboard_time": 1717398979,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193229,
+      "num": 193229,
+      "word": "哥哥太爱我了怎么办",
+      "onboard_time": 1718872218,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 193181,
@@ -32137,14 +32161,6 @@
       "onboard_time": 1717301958,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178799,
-      "num": 178799,
-      "word": "他这个年纪不该这样",
-      "onboard_time": 1718871258,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 178762,
@@ -35523,6 +35539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161251,
+      "num": 161251,
+      "word": "停摆的桂林火车站现状",
+      "onboard_time": 1718872579,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161200,
       "num": 161200,
       "word": "短剧已经开始新的剧情赛道",
@@ -37545,6 +37569,14 @@
       "onboard_time": 1718675596,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152421,
+      "num": 152421,
+      "word": "她听到了600个孩子叫的第一声妈妈",
+      "onboard_time": 1718872098,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 152373,
@@ -41299,6 +41331,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 135530,
+      "num": 135530,
+      "word": "Uzi若复出最可能去哪个队",
+      "onboard_time": 1718869277,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135496,
       "num": 135496,
       "word": "户外过河警惕死亡V字",
@@ -41417,14 +41457,6 @@
       "onboard_time": 1718774961,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134948,
-      "num": 134948,
-      "word": "Uzi若复出最可能去哪个队",
-      "onboard_time": 1718869277,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 134935,
@@ -41753,6 +41785,14 @@
       "onboard_time": 1717470857,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 133507,
+      "num": 133507,
+      "word": "学医后才知道人体有多脆弱",
+      "onboard_time": 1718872160,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 133503,
@@ -42435,6 +42475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130914,
+      "num": 130914,
+      "word": "执行法官里的啃老新境界",
+      "onboard_time": 1718872279,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130846,
       "num": 130846,
       "word": "墨雨云间纯爱变祸害",
@@ -42985,6 +43033,14 @@
       "onboard_time": 1717397357,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128777,
+      "num": 128777,
+      "word": "Selina说刘宇有点小心机",
+      "onboard_time": 1718869940,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 128712,
@@ -44169,14 +44225,6 @@
       "onboard_time": 1718533937,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124764,
-      "num": 124764,
-      "word": "Selina说刘宇有点小心机",
-      "onboard_time": 1718869940,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 124729,
@@ -53283,6 +53331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 58216,
+      "num": 496804,
+      "word": "安徽黄山遇强降雨多地受灾",
+      "onboard_time": 1718871619,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58185,
       "num": 188342,
       "word": "电子风还是吹到了时尚圈",
@@ -55747,6 +55803,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36487,
+      "num": 496779,
+      "word": "何以中国运载千秋",
+      "onboard_time": 1718871918,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36422,
+      "num": 992373,
+      "word": "全国首个核能供汽投产",
+      "onboard_time": 1718871738,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36356,
       "num": 504194,
       "word": "张颂文录综艺主打真实",
@@ -56675,14 +56747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 28321,
-      "num": 496804,
-      "word": "安徽黄山遇强降雨多地受灾",
-      "onboard_time": 1718871619,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28264,
       "num": 284459,
       "word": "一人一句夸夸咱河南老乡",
@@ -57273,6 +57337,14 @@
       "onboard_time": 1717426400,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22450,
+      "num": 156727,
+      "word": "日本警察偷窃衣物被捕",
+      "onboard_time": 1718872339,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22303,
@@ -57913,14 +57985,6 @@
       "onboard_time": 1717444990,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15614,
-      "num": 992373,
-      "word": "全国首个核能供汽投产",
-      "onboard_time": 1718871738,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15574,
