@@ -1,6 +1,6 @@
 {
   "startTime": 1718814238295,
-  "endTime": 1718861671028,
+  "endTime": 1718864797183,
   "band_list": [
     {
       "raw_hot": 2499389,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1231260,
-      "num": 609481,
+      "num": 650531,
       "word": "傅家明因病去世",
       "onboard_time": 1718859919,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1718856621,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1108493,
+      "num": 496859,
+      "word": "长相思2 定档",
+      "onboard_time": 1718863939,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1100784,
@@ -115,6 +123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 803665,
+      "num": 803665,
+      "word": "孙杨未入选巴黎奥运会运动员名单",
+      "onboard_time": 1718860698,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 779118,
       "num": 737583,
       "word": "菲常萧张的女儿",
@@ -129,6 +145,14 @@
       "onboard_time": 1718853379,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 768366,
+      "num": 439273,
+      "word": "颜心记 空降",
+      "onboard_time": 1718860998,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 756304,
@@ -185,6 +209,14 @@
       "onboard_time": 1718845577,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 607925,
+      "num": 433968,
+      "word": "香港顶流姜涛巴黎时装周",
+      "onboard_time": 1718861178,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 576319,
@@ -259,19 +291,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 463681,
+      "num": 463681,
+      "word": "上海警方辟谣中山公园地铁站捅人",
+      "onboard_time": 1718860998,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 438483,
       "num": 438483,
       "word": "央视与腾讯就巴黎奥运会达成合作",
       "onboard_time": 1718810181,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 437656,
-      "num": 325369,
-      "word": "孙杨未入选巴黎奥运会运动员名单",
-      "onboard_time": 1718860698,
-      "rank": 12,
       "category": "体育"
     },
     {
@@ -281,14 +313,6 @@
       "onboard_time": 1718851458,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 435839,
-      "num": 322446,
-      "word": "颜心记 空降",
-      "onboard_time": 1718860998,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 433128,
@@ -313,6 +337,14 @@
       "onboard_time": 1718842459,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 416746,
+      "num": 416746,
+      "word": "A股",
+      "onboard_time": 1718862319,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 411472,
@@ -507,14 +539,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 262050,
-      "num": 262050,
-      "word": "香港顶流姜涛巴黎时装周",
-      "onboard_time": 1718861178,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 259317,
       "num": 259317,
       "word": "超能摄影阳阳",
@@ -601,6 +625,14 @@
       "onboard_time": 1718852356,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238390,
+      "num": 162112,
+      "word": "迪丽热巴郭晓婷AI姐妹花",
+      "onboard_time": 1718863877,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 235515,
@@ -827,6 +859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187618,
+      "num": 155629,
+      "word": "刘浩存逛公园",
+      "onboard_time": 1718863998,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186598,
       "num": 186598,
       "word": "惠若琪博士毕业",
@@ -899,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173078,
+      "num": 154838,
+      "word": "有些人三个月就够了",
+      "onboard_time": 1718864298,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169121,
       "num": 169121,
       "word": "女子用Al编造地铁行凶视频被拘",
@@ -929,14 +977,6 @@
       "onboard_time": 1718859681,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163521,
-      "num": 209017,
-      "word": "上海警方辟谣中山公园地铁站捅人",
-      "onboard_time": 1718860998,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159752,
@@ -1011,6 +1051,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144973,
+      "num": 144973,
+      "word": "灿烂的花园",
+      "onboard_time": 1718863877,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143199,
+      "num": 143199,
+      "word": "胡歌新综艺下周播",
+      "onboard_time": 1718864420,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143099,
+      "num": 134378,
+      "word": "白鹿手持剧本",
+      "onboard_time": 1718863221,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139533,
       "num": 139533,
       "word": "尤长靖帮粉丝捡鞋子",
@@ -1033,6 +1097,22 @@
       "onboard_time": 1718807239,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136216,
+      "num": 136216,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1718863998,
+      "rank": 36,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 134913,
+      "num": 133842,
+      "word": "汪苏泷武汉抢票",
+      "onboard_time": 1718864598,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 132326,
@@ -1235,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107311,
+      "num": 133788,
+      "word": "谁唱说谎",
+      "onboard_time": 1718862020,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107138,
       "num": 107138,
       "word": "黄亦玫 情绪稳定",
@@ -1273,6 +1361,14 @@
       "onboard_time": 1718799018,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102607,
+      "num": 134572,
+      "word": "大学毕业最后一晚在想什么",
+      "onboard_time": 1718864119,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 102293,
@@ -1329,6 +1425,14 @@
       "onboard_time": 1718842699,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98514,
+      "num": 133331,
+      "word": "王星越被粉丝要求喊姐姐",
+      "onboard_time": 1718862499,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 98383,
@@ -1419,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82336,
+      "num": 132970,
+      "word": "奋力谱写中国式现代化青海篇章",
+      "onboard_time": 1718864658,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80473,
       "num": 94555,
       "word": "原来王星越也是个小财迷",
@@ -1433,6 +1545,14 @@
       "onboard_time": 1718804180,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77561,
+      "num": 132921,
+      "word": "原来电脑能设置图片密码",
+      "onboard_time": 1718864658,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 77505,
@@ -1563,6 +1683,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53196,
+      "num": 398999,
+      "word": "湘江洪峰预计过境长沙",
+      "onboard_time": 1718861840,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52524,
+      "num": 326972,
+      "word": "砸窗搭人链救人关键一环找到了",
+      "onboard_time": 1718859439,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50875,
       "num": 50875,
       "word": "蓝色监狱 全员白衬衫西装",
@@ -1627,14 +1763,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 31007,
-      "num": 326972,
-      "word": "砸窗搭人链救人关键一环找到了",
-      "onboard_time": 1718859439,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29906,
       "num": 199209,
       "word": "印度一地区为骆驼装义肢",
@@ -1681,6 +1809,14 @@
       "onboard_time": 1718856919,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17351,
+      "num": 194622,
+      "word": "金晨居家女友风",
+      "onboard_time": 1718864057,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14955,
