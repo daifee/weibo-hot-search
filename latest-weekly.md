@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/16 00:23:47 ~ 2024/06/21 00:40:48
+本榜单时间：2024/06/16 00:23:47 ~ 2024/06/21 01:16:45
 </p>
 </blockquote>
 <p>
@@ -2271,6 +2271,12 @@ iPhone16Pro或加大不加厚（热度：477221）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23" target="weibo">
+桂林女店员遇难后有居民提醒关闸（热度：463728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8F%E5%92%8C%E5%8C%BB%E7%94%9F%E8%AF%B4%E6%97%A0%E7%97%9B%E5%88%86%E5%A8%A9%E4%B8%8D%E5%BD%B1%E5%93%8D%E8%83%8E%E5%84%BF%E5%8F%8A%E5%93%BA%E4%B9%B3%23" target="weibo">
 协和医生说无痛分娩不影响胎儿及哺乳（热度：463458）
 </a>
@@ -2357,12 +2363,6 @@ iPhone16Pro或加大不加厚（热度：477221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%93%BD%E5%92%BD%23" target="weibo">
 章子怡哽咽（热度：449462）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23" target="weibo">
-桂林女店员遇难后有居民提醒关闸（热度：449421）
 </a>
 </li>
 
@@ -3315,6 +3315,12 @@ GAI劝rapper回去考研（热度：353109）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%89%BA%E6%9C%AF%E7%94%9F%E5%92%8C%E7%90%86%E5%B7%A5%E7%94%B7%23" target="weibo">
+迪丽热巴张凌赫 艺术生和理工男（热度：339097）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%8B%E5%A5%B3%E9%83%8E%E5%92%8C%E8%B0%8B%E7%94%B7%E9%83%8E%E5%9D%90%E4%B8%80%E8%B5%B7%E4%BA%86%23" target="weibo">
 谋女郎和谋男郎坐一起了（热度：338931）
 </a>
@@ -3809,6 +3815,12 @@ smlz（热度：307390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E9%95%BF%E6%B2%99%23" target="weibo">
 张婧仪长沙（热度：292785）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%9D%A1%E8%A7%89%E6%97%B6%E6%8A%8A%E8%84%9A%E9%9C%B2%E5%A4%96%E9%9D%A2%23" target="weibo">
+2类人不建议睡觉时把脚露外面（热度：291988）
 </a>
 </li>
 
@@ -4853,12 +4865,6 @@ SUHO向粉丝道歉（热度：223981）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E6%AD%AA%E5%A4%B4%E8%BF%99%E4%B8%80%E4%B8%8B%23" target="weibo">
 王星越歪头这一下（热度：220490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%9D%A1%E8%A7%89%E6%97%B6%E6%8A%8A%E8%84%9A%E9%9C%B2%E5%A4%96%E9%9D%A2%23" target="weibo">
-2类人不建议睡觉时把脚露外面（热度：220452）
 </a>
 </li>
 
@@ -8289,12 +8295,6 @@ DNF手游应用商店合约到期（热度：132590）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%89%BA%E6%9C%AF%E7%94%9F%E5%92%8C%E7%90%86%E5%B7%A5%E7%94%B7%23" target="weibo">
-迪丽热巴张凌赫 艺术生和理工男（热度：132422）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%9B%A8%E5%A4%A9%E5%AD%A6%E7%94%9F%E6%8A%8A%E4%BC%9E%E9%80%81%E7%BB%99%E6%89%A7%E5%8B%A4%E4%BA%A4%E8%AD%A6%23" target="weibo">
 下雨天学生把伞送给执勤交警（热度：132326）
 </a>
@@ -10371,6 +10371,12 @@ BLG对战WE（热度：92586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
+西班牙vs意大利（热度：81068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%92%8C%E6%B2%99%E7%89%B9%E7%8E%8B%E5%AD%90%E6%89%93%E7%94%B5%E7%AB%9E%23" target="weibo">
 我和沙特王子打电竞（热度：81062）
 </a>
@@ -10967,6 +10973,12 @@ AI会让外语专业消失吗（热度：64293）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%A1%8C%E5%A4%A9%E4%B8%8B%E8%83%BD%E5%8A%A8%E6%9C%AA%E6%9D%A5%23" target="weibo">
 智行天下能动未来（热度：52074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%90%88%E8%AE%A1%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B410%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+美股三巨头合计市值突破10万亿美元（热度：51879）
 </a>
 </li>
 
@@ -12053,6 +12065,12 @@ straykids回归预告（热度：13312）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%93%E9%B1%BC%E5%A4%A7%E5%93%A5%E6%8A%9B%E5%87%BA%E9%B1%BC%E7%AB%BF%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%23" target="weibo">
 钓鱼大哥抛出鱼竿救回轻生男子（热度：11322）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E5%A4%A7%E6%88%98%E6%98%BE%E7%9C%BC%E5%8C%85%23" target="weibo">
+校长毕业典礼上大战显眼包（热度：10993）
 </a>
 </li>
 

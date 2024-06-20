@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718901648984,
+  "endTime": 1718903805828,
   "band_list": [
     {
       "raw_hot": 1264120,
@@ -43,19 +43,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463728,
+      "num": 315067,
+      "word": "桂林女店员遇难后有居民提醒关闸",
+      "onboard_time": 1718899145,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458089,
       "num": 458089,
       "word": "manner泼咖啡粉员工已被辞退",
       "onboard_time": 1718882118,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 449421,
-      "num": 315067,
-      "word": "桂林女店员遇难后有居民提醒关闸",
-      "onboard_time": 1718899145,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -99,12 +99,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339097,
+      "num": 304861,
+      "word": "迪丽热巴张凌赫 艺术生和理工男",
+      "onboard_time": 1718901136,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332273,
       "num": 300032,
       "word": "黄亦玫吃菌子了吧",
       "onboard_time": 1718897479,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291988,
+      "num": 171969,
+      "word": "2类人不建议睡觉时把脚露外面",
+      "onboard_time": 1718899217,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 269173,
@@ -153,14 +169,6 @@
       "onboard_time": 1718899517,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 220452,
-      "num": 171969,
-      "word": "2类人不建议睡觉时把脚露外面",
-      "onboard_time": 1718899217,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 209276,
@@ -235,14 +243,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132422,
-      "num": 132422,
-      "word": "迪丽热巴张凌赫 艺术生和理工男",
-      "onboard_time": 1718901136,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 119268,
       "num": 119268,
       "word": "Jennie回归新歌试听",
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107934,
+      "num": 107934,
+      "word": "欧洲杯",
+      "onboard_time": 1718896159,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103753,
       "num": 103753,
       "word": "manner有员工称8小时内要做500杯咖啡",
@@ -296,14 +304,6 @@
       "word": "中国女排0比3日本女排",
       "onboard_time": 1718883197,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 98826,
-      "num": 98826,
-      "word": "欧洲杯",
-      "onboard_time": 1718896159,
-      "rank": 39,
       "category": "体育"
     },
     {
@@ -345,6 +345,14 @@
       "onboard_time": 1718887216,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81068,
+      "num": 81068,
+      "word": "西班牙vs意大利",
+      "onboard_time": 1718902575,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 78807,
@@ -395,11 +403,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51879,
+      "num": 61401,
+      "word": "美股三巨头合计市值突破10万亿美元",
+      "onboard_time": 1718901975,
+      "rank": 44,
+      "category": "财经,数码"
+    },
+    {
       "raw_hot": 12648,
       "num": 315082,
       "word": "安徽暴雨致灾消防员涉水扛起守护",
       "onboard_time": 1718900595,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10993,
+      "num": 213522,
+      "word": "校长毕业典礼上大战显眼包",
+      "onboard_time": 1718902454,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

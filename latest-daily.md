@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 00:40:48
+本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 01:16:45
 </p>
 </blockquote>
 <p>
@@ -45,14 +45,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23manner%E6%B3%BC%E5%92%96%E5%95%A1%E7%B2%89%E5%91%98%E5%B7%A5%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
-manner泼咖啡粉员工已被辞退（热度：458089）
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23" target="weibo">
+桂林女店员遇难后有居民提醒关闸（热度：463728）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23" target="weibo">
-桂林女店员遇难后有居民提醒关闸（热度：449421）
+<a href="https://s.weibo.com/weibo?q=%23manner%E6%B3%BC%E5%92%96%E5%95%A1%E7%B2%89%E5%91%98%E5%B7%A5%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+manner泼咖啡粉员工已被辞退（热度：458089）
 </a>
 </li>
 
@@ -87,8 +87,20 @@ manner泼咖啡粉员工已被辞退（热度：458089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%89%BA%E6%9C%AF%E7%94%9F%E5%92%8C%E7%90%86%E5%B7%A5%E7%94%B7%23" target="weibo">
+迪丽热巴张凌赫 艺术生和理工男（热度：339097）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB%E5%90%83%E8%8F%8C%E5%AD%90%E4%BA%86%E5%90%A7%23" target="weibo">
 黄亦玫吃菌子了吧（热度：332273）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%9D%A1%E8%A7%89%E6%97%B6%E6%8A%8A%E8%84%9A%E9%9C%B2%E5%A4%96%E9%9D%A2%23" target="weibo">
+2类人不建议睡觉时把脚露外面（热度：291988）
 </a>
 </li>
 
@@ -125,12 +137,6 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8%23" target="weibo">
 武汉暴雨（热度：227201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%9D%A1%E8%A7%89%E6%97%B6%E6%8A%8A%E8%84%9A%E9%9C%B2%E5%A4%96%E9%9D%A2%23" target="weibo">
-2类人不建议睡觉时把脚露外面（热度：220452）
 </a>
 </li>
 
@@ -189,12 +195,6 @@ manner（热度：152951）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%89%BA%E6%9C%AF%E7%94%9F%E5%92%8C%E7%90%86%E5%B7%A5%E7%94%B7%23" target="weibo">
-迪丽热巴张凌赫 艺术生和理工男（热度：132422）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E5%9B%9E%E5%BD%92%E6%96%B0%E6%AD%8C%E8%AF%95%E5%90%AC%23" target="weibo">
 Jennie回归新歌试听（热度：119268）
 </a>
@@ -219,6 +219,12 @@ Manner单店平均收入8000元一天（热度：115351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%23" target="weibo">
+欧洲杯（热度：107934）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23manner%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B08%E5%B0%8F%E6%97%B6%E5%86%85%E8%A6%81%E5%81%9A500%E6%9D%AF%E5%92%96%E5%95%A1%23" target="weibo">
 manner有员工称8小时内要做500杯咖啡（热度：103753）
 </a>
@@ -233,12 +239,6 @@ manner有员工称8小时内要做500杯咖啡（热度：103753）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%23" target="weibo">
 中国女排0比3日本女排（热度：100278）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%23" target="weibo">
-欧洲杯（热度：98826）
 </a>
 </li>
 
@@ -269,6 +269,12 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%9B%9E%E5%BA%94%E5%92%8C%E5%90%B4%E8%B0%A8%E8%A8%80%E4%BA%8C%E6%90%AD%23" target="weibo">
 王星越回应和吴谨言二搭（热度：82749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
+西班牙vs意大利（热度：81068）
 </a>
 </li>
 
@@ -309,8 +315,20 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%90%88%E8%AE%A1%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B410%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+美股三巨头合计市值突破10万亿美元（热度：51879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%9A%B4%E9%9B%A8%E8%87%B4%E7%81%BE%E6%B6%88%E9%98%B2%E5%91%98%E6%B6%89%E6%B0%B4%E6%89%9B%E8%B5%B7%E5%AE%88%E6%8A%A4%23" target="weibo">
 安徽暴雨致灾消防员涉水扛起守护（热度：12648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E5%A4%A7%E6%88%98%E6%98%BE%E7%9C%BC%E5%8C%85%23" target="weibo">
+校长毕业典礼上大战显眼包（热度：10993）
 </a>
 </li>
 
