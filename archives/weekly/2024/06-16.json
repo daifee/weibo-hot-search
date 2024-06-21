@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718926556845,
+  "endTime": 1718932790819,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -763,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1123825,
+      "num": 1123825,
+      "word": "傅家明死在了黄亦玫最爱他的那一年",
+      "onboard_time": 1718926937,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1122571,
       "num": 1122571,
       "word": "好看的裙子 无袖",
@@ -897,6 +905,14 @@
       "onboard_time": 1718840356,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1005974,
+      "num": 849092,
+      "word": "Manner男店员掌掴女顾客附近商家发声",
+      "onboard_time": 1718927236,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1005195,
@@ -1203,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 848567,
+      "num": 848567,
+      "word": "成都地铁",
+      "onboard_time": 1718931138,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 845348,
       "num": 373046,
       "word": "男子离婚前贷款45万并转给母亲35万",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1718802798,
       "rank": 15,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 836087,
+      "num": 836087,
+      "word": "王菲问王一博这么晚还不到",
+      "onboard_time": 1718928017,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 830697,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1718700499,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 732454,
+      "num": 732454,
+      "word": "灵儿不能这么跟外公讲话",
+      "onboard_time": 1718930298,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 730757,
@@ -1915,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632344,
+      "num": 225336,
+      "word": "主人故意把手放在小狗的嘴边",
+      "onboard_time": 1718928738,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 628364,
       "num": 610963,
       "word": "辛芷蕾的10套香奶奶",
@@ -2233,6 +2281,14 @@
       "onboard_time": 1718675658,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568249,
+      "num": 222123,
+      "word": "经常缺觉的人全身都处于炎症状态",
+      "onboard_time": 1718930537,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 567297,
@@ -3020,7 +3076,7 @@
     },
     {
       "raw_hot": 463862,
-      "num": 228969,
+      "num": 308733,
       "word": "霍建华曾一个人演一家子",
       "onboard_time": 1718922493,
       "rank": 30,
@@ -3169,6 +3225,14 @@
       "onboard_time": 1718528657,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 445575,
+      "num": 445575,
+      "word": "Manner",
+      "onboard_time": 1718931199,
+      "rank": 8,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 445064,
@@ -4291,6 +4355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 348898,
+      "num": 303736,
+      "word": "徐海乔披哥打call亲友团是刘亦菲",
+      "onboard_time": 1718929038,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347707,
       "num": 343831,
       "word": "荣梓杉想演张若昀赵丽颖的儿子",
@@ -4441,6 +4513,14 @@
       "onboard_time": 1718689996,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338653,
+      "num": 338653,
+      "word": "这可能是妈妈保护你的最后一次",
+      "onboard_time": 1718927297,
+      "rank": 12,
+      "category": "情感"
     },
     {
       "raw_hot": 337419,
@@ -4675,6 +4755,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 323974,
+      "num": 221104,
+      "word": "2类人不建议睡觉时把脚露外面",
+      "onboard_time": 1718899217,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 323281,
       "num": 323281,
       "word": "专四答案",
@@ -4689,6 +4777,14 @@
       "onboard_time": 1718791340,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321517,
+      "num": 321517,
+      "word": "6月21日4时51分迎来夏至",
+      "onboard_time": 1718928860,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321394,
@@ -4979,6 +5075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 297829,
+      "num": 297829,
+      "word": "姆巴佩面具来了",
+      "onboard_time": 1718926637,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297753,
       "num": 297753,
       "word": "塞尔维亚0比1英格兰",
@@ -5091,14 +5195,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291988,
-      "num": 171969,
-      "word": "2类人不建议睡觉时把脚露外面",
-      "onboard_time": 1718899217,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 290332,
       "num": 200626,
       "word": "刘亦菲同一件衣服不同状态",
@@ -5161,6 +5257,14 @@
       "onboard_time": 1718637558,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286512,
+      "num": 286512,
+      "word": "Manner员工月薪约5000元",
+      "onboard_time": 1718930478,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286427,
@@ -5233,6 +5337,14 @@
       "onboard_time": 1718765357,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282878,
+      "num": 220599,
+      "word": "跑网约车16小时净收入300元",
+      "onboard_time": 1718930778,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282505,
@@ -5723,6 +5835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255223,
+      "num": 218289,
+      "word": "Cube被处罚",
+      "onboard_time": 1718928437,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254852,
       "num": 254852,
       "word": "田曦薇你等等王安宇",
@@ -5737,6 +5857,14 @@
       "onboard_time": 1718665394,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253811,
+      "num": 253811,
+      "word": "金晨生图",
+      "onboard_time": 1718931858,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 253750,
@@ -6331,6 +6459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225871,
+      "num": 225871,
+      "word": "航拍桂林洪水",
+      "onboard_time": 1718929938,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225749,
       "num": 207459,
       "word": "研一差点被导师移出师门群",
@@ -6617,6 +6753,14 @@
       "onboard_time": 1718496615,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 216859,
+      "num": 216859,
+      "word": "王一博 巴黎时装周",
+      "onboard_time": 1718930898,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216727,
@@ -7257,6 +7401,14 @@
       "onboard_time": 1718871258,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199260,
+      "num": 199260,
+      "word": "玫瑰的故事越来越癫了",
+      "onboard_time": 1718926997,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 199073,
@@ -8931,6 +9083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169428,
+      "num": 169428,
+      "word": "Manner回应1天2起店员顾客冲突",
+      "onboard_time": 1718930719,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169423,
       "num": 160486,
       "word": "尹净汉亲话筒",
@@ -9001,6 +9161,14 @@
       "onboard_time": 1718808801,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168363,
+      "num": 168363,
+      "word": "阿根廷vs加拿大",
+      "onboard_time": 1718927118,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 168021,
@@ -9081,6 +9249,14 @@
       "onboard_time": 1718495834,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 166327,
+      "num": 166327,
+      "word": "世界之外肯德基联名",
+      "onboard_time": 1718932218,
+      "rank": 35,
+      "category": "游戏,美食"
     },
     {
       "raw_hot": 166118,
@@ -9256,6 +9432,14 @@
       "word": "赵露思V领无袖",
       "onboard_time": 1718694559,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162875,
+      "num": 162875,
+      "word": "唐纳德萨瑟兰去世",
+      "onboard_time": 1718931679,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -9739,6 +9923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155516,
+      "num": 155516,
+      "word": "赵一博新歌",
+      "onboard_time": 1718932098,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 155462,
       "num": 155462,
       "word": "斯洛文尼亚1比1丹麦",
@@ -9889,6 +10081,14 @@
       "onboard_time": 1718608758,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 152980,
+      "num": 152980,
+      "word": "鹭卓出道七周年",
+      "onboard_time": 1718931798,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 152910,
@@ -10128,6 +10328,14 @@
       "word": "父亲对女儿性格的影响",
       "onboard_time": 1718505617,
       "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 150096,
+      "num": 150096,
+      "word": "十二星座最难追的星座",
+      "onboard_time": 1718926637,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -10457,6 +10665,14 @@
       "onboard_time": 1718616378,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 143937,
+      "num": 143937,
+      "word": "查完账单发现钱真是自己花掉",
+      "onboard_time": 1718929879,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 143888,
@@ -11851,6 +12067,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 124359,
+      "num": 124359,
+      "word": "我们看到的每一面五星红旗都是中国",
+      "onboard_time": 1718931438,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 124196,
       "num": 124196,
       "word": "这一看就是不会跑路的工位",
@@ -12267,6 +12491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118657,
+      "num": 118657,
+      "word": "鲁豫我54有什么不敢说的",
+      "onboard_time": 1718928197,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118531,
       "num": 118531,
       "word": "前中超外援欧洲杯破门",
@@ -12384,6 +12616,14 @@
       "word": "中山公园地铁站发生捅人事件系谣传",
       "onboard_time": 1718870479,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116361,
+      "num": 116361,
+      "word": "桂林遭26年来最大洪水",
+      "onboard_time": 1718928258,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -13115,6 +13355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103182,
+      "num": 223601,
+      "word": "今天为渐冻人传递这条微博",
+      "onboard_time": 1718932518,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102932,
       "num": 102932,
       "word": "微博电影之夜出图",
@@ -13721,6 +13969,14 @@
       "onboard_time": 1718662272,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88222,
+      "num": 176846,
+      "word": "古诗词中的夏天氛围感拉满",
+      "onboard_time": 1718927896,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 87451,
@@ -14547,6 +14803,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 57869,
+      "num": 168782,
+      "word": "将来的生活能过得越来越好",
+      "onboard_time": 1718928678,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57794,
       "num": 205664,
       "word": "阿伯不要怕消防员来救你走",
@@ -15172,7 +15436,7 @@
     },
     {
       "raw_hot": 39284,
-      "num": 749545,
+      "num": 849422,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,

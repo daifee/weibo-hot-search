@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 07:35:56
+本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 09:19:50
 </p>
 </blockquote>
 <p>
@@ -21,8 +21,38 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E5%AE%B6%E6%98%8E%E6%AD%BB%E5%9C%A8%E4%BA%86%E9%BB%84%E4%BA%A6%E7%8E%AB%E6%9C%80%E7%88%B1%E4%BB%96%E7%9A%84%E9%82%A3%E4%B8%80%E5%B9%B4%23" target="weibo">
+傅家明死在了黄亦玫最爱他的那一年（热度：1123825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Manner%E7%94%B7%E5%BA%97%E5%91%98%E6%8E%8C%E6%8E%B4%E5%A5%B3%E9%A1%BE%E5%AE%A2%E9%99%84%E8%BF%91%E5%95%86%E5%AE%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
+Manner男店员掌掴女顾客附近商家发声（热度：1005974）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%23" target="weibo">
+成都地铁（热度：848567）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E9%97%AE%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%99%E4%B9%88%E6%99%9A%E8%BF%98%E4%B8%8D%E5%88%B0%23" target="weibo">
+王菲问王一博这么晚还不到（热度：836087）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%99%93%E8%8D%B7%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86%23" target="weibo">
 白晓荷有孩子了（热度：827091）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%81%B5%E5%84%BF%E4%B8%8D%E8%83%BD%E8%BF%99%E4%B9%88%E8%B7%9F%E5%A4%96%E5%85%AC%E8%AE%B2%E8%AF%9D%23" target="weibo">
+灵儿不能这么跟外公讲话（热度：732454）
 </a>
 </li>
 
@@ -45,6 +75,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%95%85%E6%84%8F%E6%8A%8A%E6%89%8B%E6%94%BE%E5%9C%A8%E5%B0%8F%E7%8B%97%E7%9A%84%E5%98%B4%E8%BE%B9%23" target="weibo">
+主人故意把手放在小狗的嘴边（热度：632344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%BC%BA%E8%A7%89%E7%9A%84%E4%BA%BA%E5%85%A8%E8%BA%AB%E9%83%BD%E5%A4%84%E4%BA%8E%E7%82%8E%E7%97%87%E7%8A%B6%E6%80%81%23" target="weibo">
+经常缺觉的人全身都处于炎症状态（热度：568249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB%E6%89%8B%E6%92%95%E6%81%B6%E5%A9%86%E5%A9%86%23" target="weibo">
 黄亦玫手撕恶婆婆（热度：497047）
 </a>
@@ -59,6 +101,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23manner%E6%B3%BC%E5%92%96%E5%95%A1%E7%B2%89%E5%91%98%E5%B7%A5%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
 manner泼咖啡粉员工已被辞退（热度：458089）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Manner%23" target="weibo">
+Manner（热度：445575）
 </a>
 </li>
 
@@ -93,6 +141,12 @@ manner泼咖啡粉员工已被辞退（热度：458089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B5%B7%E4%B9%94%E6%8A%AB%E5%93%A5%E6%89%93call%E4%BA%B2%E5%8F%8B%E5%9B%A2%E6%98%AF%E5%88%98%E4%BA%A6%E8%8F%B2%23" target="weibo">
+徐海乔披哥打call亲友团是刘亦菲（热度：348898）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D2%E5%89%A7%E6%9C%AC%23" target="weibo">
 长相思2剧本（热度：345561）
 </a>
@@ -105,6 +159,12 @@ manner泼咖啡粉员工已被辞退（热度：458089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8F%AF%E8%83%BD%E6%98%AF%E5%A6%88%E5%A6%88%E4%BF%9D%E6%8A%A4%E4%BD%A0%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%23" target="weibo">
+这可能是妈妈保护你的最后一次（热度：338653）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB%E5%90%83%E8%8F%8C%E5%AD%90%E4%BA%86%E5%90%A7%23" target="weibo">
 黄亦玫吃菌子了吧（热度：332273）
 </a>
@@ -112,7 +172,31 @@ manner泼咖啡粉员工已被辞退（热度：458089）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E7%B1%BB%E4%BA%BA%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%9D%A1%E8%A7%89%E6%97%B6%E6%8A%8A%E8%84%9A%E9%9C%B2%E5%A4%96%E9%9D%A2%23" target="weibo">
-2类人不建议睡觉时把脚露外面（热度：291988）
+2类人不建议睡觉时把脚露外面（热度：323974）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%236%E6%9C%8821%E6%97%A54%E6%97%B651%E5%88%86%E8%BF%8E%E6%9D%A5%E5%A4%8F%E8%87%B3%23" target="weibo">
+6月21日4时51分迎来夏至（热度：321517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%9D%A2%E5%85%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
+姆巴佩面具来了（热度：297829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Manner%E5%91%98%E5%B7%A5%E6%9C%88%E8%96%AA%E7%BA%A65000%E5%85%83%23" target="weibo">
+Manner员工月薪约5000元（热度：286512）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%BD%91%E7%BA%A6%E8%BD%A616%E5%B0%8F%E6%97%B6%E5%87%80%E6%94%B6%E5%85%A5300%E5%85%83%23" target="weibo">
+跑网约车16小时净收入300元（热度：282878）
 </a>
 </li>
 
@@ -125,6 +209,18 @@ manner泼咖啡粉员工已被辞退（热度：458089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D2%20%E5%AE%9A%E6%A1%A3%23" target="weibo">
 长相思2 定档（热度：264128）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Cube%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
+Cube被处罚（热度：255223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%94%9F%E5%9B%BE%23" target="weibo">
+金晨生图（热度：253811）
 </a>
 </li>
 
@@ -153,6 +249,18 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E6%A1%82%E6%9E%97%E6%B4%AA%E6%B0%B4%23" target="weibo">
+航拍桂林洪水（热度：225871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
+王一博 巴黎时装周（热度：216859）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%933%E5%A4%84%E6%B7%8B%E5%B7%B4%E6%B2%A1%E4%BA%8B%E5%B8%B8%E6%8F%89%E6%8F%89%23" target="weibo">
 人体3处淋巴没事常揉揉（热度：210543）
 </a>
@@ -177,6 +285,12 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%99%AB%E4%BA%86%23" target="weibo">
+玫瑰的故事越来越癫了（热度：199260）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%991%E6%AF%940%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
 西班牙1比0意大利（热度：198141）
 </a>
@@ -195,8 +309,32 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Manner%E5%9B%9E%E5%BA%941%E5%A4%A92%E8%B5%B7%E5%BA%97%E5%91%98%E9%A1%BE%E5%AE%A2%E5%86%B2%E7%AA%81%23" target="weibo">
+Manner回应1天2起店员顾客冲突（热度：169428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E6%88%91%E5%A6%88%E6%98%AF%E5%A4%A9%E7%94%9F%E7%95%99%E5%AD%90%E5%9C%A3%E4%BD%93%23" target="weibo">
 发现我妈是天生留子圣体（热度：169426）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%8A%A0%E6%8B%BF%E5%A4%A7%23" target="weibo">
+阿根廷vs加拿大（热度：168363）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%96%E8%82%AF%E5%BE%B7%E5%9F%BA%E8%81%94%E5%90%8D%23" target="weibo">
+世界之外肯德基联名（热度：166327）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E7%BA%B3%E5%BE%B7%E8%90%A8%E7%91%9F%E5%85%B0%E5%8E%BB%E4%B8%96%23" target="weibo">
+唐纳德萨瑟兰去世（热度：162875）
 </a>
 </li>
 
@@ -207,8 +345,26 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%80%E5%8D%9A%E6%96%B0%E6%AD%8C%23" target="weibo">
+赵一博新歌（热度：155516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E5%87%BA%E9%81%93%E4%B8%83%E5%91%A8%E5%B9%B4%23" target="weibo">
+鹭卓出道七周年（热度：152980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23manner%23" target="weibo">
 manner（热度：152951）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%E6%9C%80%E9%9A%BE%E8%BF%BD%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
+十二星座最难追的星座（热度：150096）
 </a>
 </li>
 
@@ -237,8 +393,20 @@ manner（热度：152951）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%AE%8C%E8%B4%A6%E5%8D%95%E5%8F%91%E7%8E%B0%E9%92%B1%E7%9C%9F%E6%98%AF%E8%87%AA%E5%B7%B1%E8%8A%B1%E6%8E%89%23" target="weibo">
+查完账单发现钱真是自己花掉（热度：143937）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%84%8F%E5%A4%A7%E5%88%A9%23" target="weibo">
 西班牙vs意大利（热度：127414）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9C%8B%E5%88%B0%E7%9A%84%E6%AF%8F%E4%B8%80%E9%9D%A2%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%23" target="weibo">
+我们看到的每一面五星红旗都是中国（热度：124359）
 </a>
 </li>
 
@@ -249,8 +417,20 @@ Jennie回归新歌试听（热度：119268）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E6%88%9154%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E6%95%A2%E8%AF%B4%E7%9A%84%23" target="weibo">
+鲁豫我54有什么不敢说的（热度：118657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E8%BF%AA%E5%85%8B%E6%88%90%E4%B8%BA%E6%B9%96%E4%BA%BA%E4%B8%BB%E6%95%99%E7%BB%83%23" target="weibo">
 雷迪克成为湖人主教练（热度：117986）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E9%81%AD26%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E6%B4%AA%E6%B0%B4%23" target="weibo">
+桂林遭26年来最大洪水（热度：116361）
 </a>
 </li>
 
@@ -291,6 +471,12 @@ manner有员工称8小时内要做500杯咖啡（热度：103753）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E4%B8%BA%E6%B8%90%E5%86%BB%E4%BA%BA%E4%BC%A0%E9%80%92%E8%BF%99%E6%9D%A1%E5%BE%AE%E5%8D%9A%23" target="weibo">
+今天为渐冻人传递这条微博（热度：103182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%9B%9E%E5%BA%94%E5%AD%A3%E6%B7%91%E7%84%B6%E7%96%AF%E4%BA%86%23" target="weibo">
 陈乔恩回应季淑然疯了（热度：101428）
 </a>
@@ -317,6 +503,12 @@ manner有员工称8小时内要做500杯咖啡（热度：103753）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A2%85%E5%B7%9E%E4%B8%A4%E5%9C%B0%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%87%B49%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 广东梅州两地强降雨致9人死亡（热度：88709）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%AF%97%E8%AF%8D%E4%B8%AD%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23" target="weibo">
+古诗词中的夏天氛围感拉满（热度：88222）
 </a>
 </li>
 
@@ -395,6 +587,12 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E7%9A%84%E8%83%96jiojio%E4%B9%9F%E5%A4%AA%E7%81%B5%E6%B4%BB%E4%BA%86%23" target="weibo">
 熊猫宝宝的胖jiojio也太灵活了（热度：60417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E6%9D%A5%E7%9A%84%E7%94%9F%E6%B4%BB%E8%83%BD%E8%BF%87%E5%BE%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A5%BD%23" target="weibo">
+将来的生活能过得越来越好（热度：57869）
 </a>
 </li>
 
@@ -502,7 +700,7 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23" target="weibo">
-何以中国运载千秋（热度：6717）
+何以中国运载千秋（热度：10037）
 </a>
 </li>
 
