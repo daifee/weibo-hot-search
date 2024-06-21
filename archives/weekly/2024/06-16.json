@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718976117954,
+  "endTime": 1718976846493,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2516521,
+      "num": 2516521,
+      "word": "黄霄雲冲榜凡希亚",
+      "onboard_time": 1718976621,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2505331,
       "num": 2505331,
       "word": "王一博 不化妆",
@@ -57,6 +65,14 @@
       "onboard_time": 1718848456,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2475904,
+      "num": 2475904,
+      "word": "袁娅维 炫技",
+      "onboard_time": 1718975541,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 2470629,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 2301409,
-      "num": 326708,
+      "num": 333271,
       "word": "张远冲榜失败",
       "onboard_time": 1718974521,
       "rank": 10,
@@ -217,14 +233,6 @@
       "onboard_time": 1718970918,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1737027,
-      "num": 1737027,
-      "word": "袁娅维 炫技",
-      "onboard_time": 1718975541,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 1716922,
@@ -369,6 +377,14 @@
       "onboard_time": 1718513717,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1487704,
+      "num": 304446,
+      "word": "黄宣太好听了",
+      "onboard_time": 1718976322,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 1487408,
@@ -1451,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 872645,
+      "num": 227905,
+      "word": "汪苏泷把歌手总结完了",
+      "onboard_time": 1718973618,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 860481,
       "num": 860481,
       "word": "韩国年轻人开始流行不看脸约会",
@@ -1584,6 +1608,14 @@
       "word": "邓超 歌手现在真缺我",
       "onboard_time": 1718613377,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 816296,
+      "num": 203519,
+      "word": "袁娅维感觉好累",
+      "onboard_time": 1718975962,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -1971,14 +2003,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 728636,
-      "num": 227905,
-      "word": "汪苏泷把歌手总结完了",
-      "onboard_time": 1718973618,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 727446,
       "num": 564989,
       "word": "庄国栋带孩子",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1718602937,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 631419,
+      "num": 196730,
+      "word": "苏醒 观赛愉快",
+      "onboard_time": 1718975722,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 628364,
@@ -4939,14 +4971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 357603,
-      "num": 196730,
-      "word": "苏醒 观赛愉快",
-      "onboard_time": 1718975722,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 357415,
       "num": 357415,
       "word": "10元手冲咖啡阿姨回应不火了",
@@ -5265,6 +5289,14 @@
       "onboard_time": 1718927297,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 338510,
+      "num": 203165,
+      "word": "歌手冲榜赛彩排直击",
+      "onboard_time": 1718972659,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 337419,
@@ -5979,6 +6011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290448,
+      "num": 160615,
+      "word": "黄宣请焊死在椅子上",
+      "onboard_time": 1718976743,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290332,
       "num": 200626,
       "word": "刘亦菲同一件衣服不同状态",
@@ -6443,14 +6483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 270514,
-      "num": 203165,
-      "word": "歌手冲榜赛彩排直击",
-      "onboard_time": 1718972659,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270453,
       "num": 270453,
       "word": "黄亦玫跟女儿解释离婚",
@@ -6761,14 +6793,6 @@
       "onboard_time": 1718851219,
       "rank": 24,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 252244,
-      "num": 191215,
-      "word": "袁娅维感觉好累",
-      "onboard_time": 1718975962,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 251912,
@@ -7395,6 +7419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228082,
+      "num": 377512,
+      "word": "章昊 老实人",
+      "onboard_time": 1718975662,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227912,
       "num": 227912,
       "word": "Letme谈Uzi停播",
@@ -7579,14 +7611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221777,
-      "num": 221777,
-      "word": "章昊 老实人",
-      "onboard_time": 1718975662,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 221619,
       "num": 221619,
       "word": "年轻人为什么不爱轻奢了",
@@ -7720,6 +7744,14 @@
       "word": "王媛媛神级发挥",
       "onboard_time": 1718464219,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218976,
+      "num": 218976,
+      "word": "斯洛伐克vs乌克兰",
+      "onboard_time": 1718975600,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -8049,6 +8081,14 @@
       "onboard_time": 1718633059,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 209766,
+      "num": 209766,
+      "word": "熊猫妈妈 怎么老有个盖子跟着我",
+      "onboard_time": 1718971517,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 209741,
@@ -8763,14 +8803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197356,
-      "num": 197356,
-      "word": "熊猫妈妈 怎么老有个盖子跟着我",
-      "onboard_time": 1718971517,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197198,
       "num": 197198,
       "word": "中国女排1比0波兰女排",
@@ -9433,14 +9465,6 @@
       "onboard_time": 1718689397,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 187677,
-      "num": 187677,
-      "word": "斯洛伐克vs乌克兰",
-      "onboard_time": 1718975600,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 187613,
@@ -10169,6 +10193,14 @@
       "onboard_time": 1718772623,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175604,
+      "num": 175604,
+      "word": "欧洲杯赛程",
+      "onboard_time": 1718713697,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 175535,
@@ -11539,6 +11571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155017,
+      "num": 155017,
+      "word": "妇产科男医生能共情女患者吗",
+      "onboard_time": 1718972179,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154927,
       "num": 154927,
       "word": "食物语",
@@ -12265,14 +12305,6 @@
       "onboard_time": 1718791399,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145656,
-      "num": 145656,
-      "word": "妇产科男医生能共情女患者吗",
-      "onboard_time": 1718972179,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 145389,
@@ -13907,6 +13939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123633,
+      "num": 123633,
+      "word": "专家称社会缺分手文化",
+      "onboard_time": 1718976261,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123628,
       "num": 123628,
       "word": "再也不想看恋综了",
@@ -14249,14 +14289,6 @@
       "onboard_time": 1718788640,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118675,
-      "num": 118675,
-      "word": "欧洲杯赛程",
-      "onboard_time": 1718713697,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 118662,
@@ -15907,6 +15939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85844,
+      "num": 355802,
+      "word": "Manner店员火气如此大是偶然吗",
+      "onboard_time": 1718975420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85640,
       "num": 85640,
       "word": "2024高考志愿填报技巧",
@@ -16611,6 +16651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61298,
+      "num": 199517,
+      "word": "傅家明吃的什么药",
+      "onboard_time": 1718973559,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61179,
       "num": 833507,
       "word": "这些毕业祝福送到心里了",
@@ -16843,14 +16891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55180,
-      "num": 333122,
-      "word": "Manner店员火气如此大是偶然吗",
-      "onboard_time": 1718975420,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55160,
       "num": 395206,
       "word": "维E乳公司创始人辟谣是假协和",
@@ -16873,14 +16913,6 @@
       "onboard_time": 1718542819,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 54608,
-      "num": 197347,
-      "word": "傅家明吃的什么药",
-      "onboard_time": 1718973559,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 53914,
@@ -17523,6 +17555,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 37652,
+      "num": 2483254,
+      "word": "全天候直播解读2024高考招生",
+      "onboard_time": 1718975061,
+      "rank": 2,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 37519,
       "num": 393722,
       "word": "台湾姑娘跳中国舞被小朋友夸特别美",
@@ -17897,14 +17937,6 @@
       "onboard_time": 1718640917,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29677,
-      "num": 2014466,
-      "word": "全天候直播解读2024高考招生",
-      "onboard_time": 1718975061,
-      "rank": 2,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 29592,
