@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1718997369341,
+  "endTime": 1718998504878,
   "band_list": [
     {
       "raw_hot": 1606589,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40823,
+      "num": 40823,
+      "word": "河南女儿离婚后被爸妈拒认",
+      "onboard_time": 1718996231,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36826,
       "num": 62812,
       "word": "Manner咖啡将优化门店运营安排",
@@ -491,14 +499,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 32412,
-      "num": 32412,
-      "word": "河南女儿离婚后被爸妈拒认",
-      "onboard_time": 1718996231,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
       "raw_hot": 28780,
       "num": 47699,
       "word": "王者新赛季回忆系统送史诗皮",
@@ -513,6 +513,14 @@
       "onboard_time": 1718986577,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 20071,
+      "num": 26709,
+      "word": "never enough",
+      "onboard_time": 1718998271,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 13486,
