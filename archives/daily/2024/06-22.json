@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719011894389,
+  "endTime": 1719012887521,
   "band_list": [
     {
       "raw_hot": 1606589,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406015,
+      "num": 406015,
+      "word": "女生买2份饭拿6双筷子被怒斥盗窃",
+      "onboard_time": 1718988975,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 401337,
       "num": 401337,
       "word": "歌手排名",
@@ -139,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336416,
-      "num": 336416,
-      "word": "女生买2份饭拿6双筷子被怒斥盗窃",
-      "onboard_time": 1718988975,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315956,
       "num": 315956,
       "word": "美国一护士用水给患者输液致16死",
@@ -163,8 +163,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277313,
-      "num": 168614,
+      "raw_hot": 284523,
+      "num": 181106,
       "word": "妻子称蔡磊越来越艰难还想护自己周全",
       "onboard_time": 1719005230,
       "rank": 45,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238726,
+      "num": 238726,
+      "word": "山寨周杰伦票价贵过本人",
+      "onboard_time": 1718981002,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237435,
       "num": 189338,
       "word": "张远冲榜失败",
@@ -219,12 +227,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233453,
+      "num": 233453,
+      "word": "李梦和长公主精神状态逐渐一致",
+      "onboard_time": 1719005710,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 229294,
       "num": 229294,
       "word": "Manner咖啡",
       "onboard_time": 1718961379,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226536,
+      "num": 180404,
+      "word": "法国0比0战平荷兰",
+      "onboard_time": 1719011472,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 213756,
@@ -241,14 +265,6 @@
       "onboard_time": 1718966777,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207397,
-      "num": 207397,
-      "word": "山寨周杰伦票价贵过本人",
-      "onboard_time": 1718981002,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 202440,
@@ -283,28 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190249,
-      "num": 58241,
-      "word": "法国0比0战平荷兰",
-      "onboard_time": 1719011472,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186311,
       "num": 201407,
       "word": "祖国必须统一也必然统一",
       "onboard_time": 1718964977,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 178745,
-      "num": 178745,
-      "word": "李梦和长公主精神状态逐渐一致",
-      "onboard_time": 1719005710,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 177420,
@@ -323,12 +323,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176552,
+      "num": 186097,
+      "word": "经常吃馒头和经常吃面包哪个更健康",
+      "onboard_time": 1718978544,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172511,
+      "num": 172511,
+      "word": "秦彻 预制菜",
+      "onboard_time": 1719011714,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169751,
       "num": 169751,
       "word": "黄宣太好听了",
       "onboard_time": 1718976322,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161100,
+      "num": 161100,
+      "word": "颜心记剧情",
+      "onboard_time": 1719011952,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 159717,
@@ -345,14 +369,6 @@
       "onboard_time": 1718987657,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147506,
-      "num": 186097,
-      "word": "经常吃馒头和经常吃面包哪个更健康",
-      "onboard_time": 1718978544,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 140481,
@@ -379,12 +395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93707,
+      "num": 93707,
+      "word": "老师们即将开启两月带薪休假",
+      "onboard_time": 1719007751,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93630,
       "num": 180142,
       "word": "男子强奸未遂监视居住期间杀害堂妹",
       "onboard_time": 1718946558,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 92623,
+      "num": 92623,
+      "word": "河南女儿离婚后被爸妈拒认",
+      "onboard_time": 1718996231,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 91261,
@@ -403,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87733,
+      "num": 87733,
+      "word": "波兰1比3奥地利",
+      "onboard_time": 1719012015,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87528,
       "num": 168352,
       "word": "Manner被曝第3起店员与顾客冲突",
@@ -419,28 +459,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 81837,
-      "num": 74425,
-      "word": "河南女儿离婚后被爸妈拒认",
-      "onboard_time": 1718996231,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 81679,
-      "num": 73883,
-      "word": "老师们即将开启两月带薪休假",
-      "onboard_time": 1719007751,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80799,
       "num": 80799,
       "word": "赵露思瘦了好多",
       "onboard_time": 1718969778,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79102,
+      "num": 79102,
+      "word": "李梦演技",
+      "onboard_time": 1719012614,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 77686,
+      "num": 77686,
+      "word": "法医秦明划重点了",
+      "onboard_time": 1719011233,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 72146,
@@ -467,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65685,
+      "num": 65685,
+      "word": "业内专家推荐3个前景好的专业",
+      "onboard_time": 1719011114,
+      "rank": 43,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 60574,
       "num": 168143,
       "word": "土耳其女排vs波兰女排",
@@ -483,36 +531,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52743,
-      "num": 52743,
-      "word": "秦彻 预制菜",
-      "onboard_time": 1719011714,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 46456,
-      "num": 46456,
-      "word": "再晚两秒萧蘅就说服自己当后爹了",
-      "onboard_time": 1719004391,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 45253,
-      "num": 45253,
-      "word": "法医秦明划重点了",
-      "onboard_time": 1719011233,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 43913,
-      "num": 43913,
+      "raw_hot": 56206,
+      "num": 56206,
       "word": "郭碧婷羊毛卷双马尾",
       "onboard_time": 1719010452,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50430,
+      "num": 79120,
+      "word": "松弛感配色9图唤醒周末",
+      "onboard_time": 1719012854,
+      "rank": 29,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 50165,
+      "num": 50165,
+      "word": "欧洲杯",
+      "onboard_time": 1719011893,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47488,
+      "num": 47488,
+      "word": "王源客厅狂欢巡演",
+      "onboard_time": 1719012854,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 47330,
+      "num": 47330,
+      "word": "再晚两秒萧蘅就说服自己当后爹了",
+      "onboard_time": 1719004391,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 43898,
@@ -529,14 +585,6 @@
       "onboard_time": 1718989694,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 42922,
-      "num": 42922,
-      "word": "业内专家推荐3个前景好的专业",
-      "onboard_time": 1719011114,
-      "rank": 43,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 41443,
@@ -659,7 +707,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3314,
+      "raw_hot": 4146,
       "num": 505331,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
