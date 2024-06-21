@@ -1,0 +1,410 @@
+{
+  "runTime": 1718941012859,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217515,
+        "num": 1217515,
+        "word": "Manner员工月薪约5000元",
+        "onboard_time": 1718930478,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 907803,
+        "num": 907803,
+        "word": "陈妍希周柯宇新剧开机路透",
+        "onboard_time": 1718938157,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3455,
+        "num": 629976,
+        "word": "智行天下能动未来",
+        "onboard_time": 1718869639,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1323114,
+        "num": 622669,
+        "word": "26岁考编8次终于上岸异地县城",
+        "onboard_time": 1718939719,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 558317,
+        "num": 558317,
+        "word": "Manner男店员掌掴女顾客附近商家发声",
+        "onboard_time": 1718927236,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528650,
+        "num": 528650,
+        "word": "玫瑰的故事韩国宣传视频",
+        "onboard_time": 1718932999,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526559,
+        "num": 526559,
+        "word": "傅家明死在了黄亦玫最爱他的那一年",
+        "onboard_time": 1718926937,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525257,
+        "num": 525257,
+        "word": "梅西状态",
+        "onboard_time": 1718935639,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 523160,
+        "num": 523160,
+        "word": "咖啡师平均月薪4236元",
+        "onboard_time": 1718936837,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89411,
+        "num": 481864,
+        "word": "暴雨天气实用防御指南",
+        "onboard_time": 1718939839,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481191,
+        "num": 481191,
+        "word": "留给林一的集数不多了",
+        "onboard_time": 1718937677,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452581,
+        "num": 452581,
+        "word": "一款艾滋病预防药物取得惊人实验结果",
+        "onboard_time": 1718938098,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 382231,
+        "num": 382231,
+        "word": "人最好不要all in做任何事情",
+        "onboard_time": 1718896159,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 379691,
+        "num": 379691,
+        "word": "王菲问王一博这么晚还不到",
+        "onboard_time": 1718928017,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367882,
+        "num": 367882,
+        "word": "刘亦菲霍建华早干嘛去了",
+        "onboard_time": 1718935338,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357900,
+        "num": 357900,
+        "word": "夏天过去一半了",
+        "onboard_time": 1718937978,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322116,
+        "num": 322116,
+        "word": "灵儿不能这么跟外公讲话",
+        "onboard_time": 1718930298,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308981,
+        "num": 308981,
+        "word": "不是爽剧但还是爆了",
+        "onboard_time": 1718940198,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308907,
+        "num": 308907,
+        "word": "Manner回应1天2起店员顾客冲突",
+        "onboard_time": 1718930719,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308904,
+        "num": 308904,
+        "word": "成都地铁13号线一在建站点坍塌",
+        "onboard_time": 1718933118,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346789,
+        "num": 308331,
+        "word": "经常缺觉的人全身都处于炎症状态",
+        "onboard_time": 1718930537,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297238,
+        "num": 297238,
+        "word": "网红刘庸复更",
+        "onboard_time": 1718940618,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 281105,
+        "num": 281105,
+        "word": "傅家明一开始就暗示自己有病了",
+        "onboard_time": 1718933418,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277705,
+        "num": 277705,
+        "word": "性侵中国女游客的韩酒店员工已被捕",
+        "onboard_time": 1718940678,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264013,
+        "num": 264013,
+        "word": "恋与深空古茗联名",
+        "onboard_time": 1718940798,
+        "rank": 24,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 248458,
+        "num": 248458,
+        "word": "韩国政府出招提升生育率引韩网民争议",
+        "onboard_time": 1718935878,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230735,
+        "num": 230735,
+        "word": "恋与深空亲亲卡",
+        "onboard_time": 1718940618,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225525,
+        "num": 225525,
+        "word": "科学家发现补觉无法完全恢复大脑功能",
+        "onboard_time": 1718937858,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215425,
+        "num": 215425,
+        "word": "刘亦菲一家女娲严选",
+        "onboard_time": 1718938878,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205011,
+        "num": 205011,
+        "word": "一条微博记录夏至",
+        "onboard_time": 1718940378,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197655,
+        "num": 197655,
+        "word": "乘风2024五公歌单",
+        "onboard_time": 1718938338,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194600,
+        "num": 194600,
+        "word": "王星越你快从肃国公身上下来",
+        "onboard_time": 1718939658,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183601,
+        "num": 183601,
+        "word": "电影默杀定档",
+        "onboard_time": 1718937918,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174266,
+        "num": 174266,
+        "word": "白晓荷有孩子了",
+        "onboard_time": 1718895620,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169636,
+        "num": 169636,
+        "word": "北京有张杰薛之谦在",
+        "onboard_time": 1718935039,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167011,
+        "num": 167011,
+        "word": "会恋爱和不会恋爱的人的区别",
+        "onboard_time": 1718940258,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38877,
+        "num": 162779,
+        "word": "一口酸汤开启夏天",
+        "onboard_time": 1718940738,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158889,
+        "num": 158889,
+        "word": "跑网约车16小时净收入300元",
+        "onboard_time": 1718930778,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152464,
+        "num": 152464,
+        "word": "成都地铁",
+        "onboard_time": 1718931138,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146616,
+        "num": 146616,
+        "word": "北京到底有谁在啊转场",
+        "onboard_time": 1718937438,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144731,
+        "num": 144731,
+        "word": "毛晓彤水母伞",
+        "onboard_time": 1718933179,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141080,
+        "num": 141080,
+        "word": "主人故意把手放在小狗的嘴边",
+        "onboard_time": 1718928738,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140307,
+        "num": 140307,
+        "word": "夏至",
+        "onboard_time": 1718925014,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137035,
+        "num": 137035,
+        "word": "这可能是妈妈保护你的最后一次",
+        "onboard_time": 1718927297,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135148,
+        "num": 135148,
+        "word": "王一博机场同款包包",
+        "onboard_time": 1718937079,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134840,
+        "num": 134840,
+        "word": "姆巴佩面具来了",
+        "onboard_time": 1718926637,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126335,
+        "num": 126335,
+        "word": "狙击蝴蝶开机",
+        "onboard_time": 1718938696,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118401,
+        "num": 118401,
+        "word": "阿根廷2比0加拿大",
+        "onboard_time": 1718936057,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117023,
+        "num": 117023,
+        "word": "gidle预告",
+        "onboard_time": 1718933717,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116804,
+        "num": 116804,
+        "word": "金晨生图",
+        "onboard_time": 1718931858,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}

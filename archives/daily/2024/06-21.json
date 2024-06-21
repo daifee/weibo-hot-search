@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718940156638,
+  "endTime": 1718941012859,
   "band_list": [
     {
       "raw_hot": 1360716,
@@ -11,6 +11,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1323114,
+      "num": 965406,
+      "word": "26岁考编8次终于上岸异地县城",
+      "onboard_time": 1718939719,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1264120,
       "num": 1264120,
       "word": "人最好不要all in做任何事情",
@@ -19,19 +27,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1217515,
+      "num": 1217515,
+      "word": "Manner员工月薪约5000元",
+      "onboard_time": 1718930478,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1179832,
       "num": 1179832,
       "word": "成都地铁13号线一在建站点坍塌",
       "onboard_time": 1718933118,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1137600,
-      "num": 1137600,
-      "word": "Manner员工月薪约5000元",
-      "onboard_time": 1718930478,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1718938157,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 965406,
-      "num": 965406,
-      "word": "26岁考编8次终于上岸异地县城",
-      "onboard_time": 1718939719,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 946129,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 663290,
-      "num": 269066,
+      "num": 308331,
       "word": "经常缺觉的人全身都处于炎症状态",
       "onboard_time": 1718930537,
       "rank": 22,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 452581,
+      "num": 452581,
+      "word": "一款艾滋病预防药物取得惊人实验结果",
+      "onboard_time": 1718938098,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 445575,
       "num": 445575,
       "word": "Manner",
@@ -259,20 +267,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357900,
+      "num": 357900,
+      "word": "夏天过去一半了",
+      "onboard_time": 1718937978,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351931,
       "num": 314971,
       "word": "黄亦玫生娃摸鼻子是刘亦菲即兴发挥",
       "onboard_time": 1718888178,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 350949,
-      "num": 350949,
-      "word": "一款艾滋病预防药物取得惊人实验结果",
-      "onboard_time": 1718938098,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 348898,
@@ -339,12 +347,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 308981,
+      "num": 308981,
+      "word": "不是爽剧但还是爆了",
+      "onboard_time": 1718940198,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297829,
       "num": 297829,
       "word": "姆巴佩面具来了",
       "onboard_time": 1718926637,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297238,
+      "num": 297238,
+      "word": "网红刘庸复更",
+      "onboard_time": 1718940618,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 292612,
@@ -368,6 +392,14 @@
       "word": "跑网约车16小时净收入300元",
       "onboard_time": 1718930778,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277705,
+      "num": 277705,
+      "word": "性侵中国女游客的韩酒店员工已被捕",
+      "onboard_time": 1718940678,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -395,20 +427,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264013,
+      "num": 264013,
+      "word": "恋与深空古茗联名",
+      "onboard_time": 1718940798,
+      "rank": 24,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 255223,
       "num": 218289,
       "word": "Cube被处罚",
       "onboard_time": 1718928437,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 242945,
-      "num": 242945,
-      "word": "夏天过去一半了",
-      "onboard_time": 1718937978,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239262,
@@ -435,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230735,
+      "num": 230735,
+      "word": "恋与深空亲亲卡",
+      "onboard_time": 1718940618,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230461,
       "num": 172391,
       "word": "傅家明 活两集",
@@ -459,8 +499,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217351,
-      "num": 217351,
+      "raw_hot": 225525,
+      "num": 225525,
       "word": "科学家发现补觉无法完全恢复大脑功能",
       "onboard_time": 1718937858,
       "rank": 46,
@@ -483,20 +523,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 215425,
+      "num": 215425,
+      "word": "刘亦菲一家女娲严选",
+      "onboard_time": 1718938878,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210543,
       "num": 155129,
       "word": "人体3处淋巴没事常揉揉",
       "onboard_time": 1718919191,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 209557,
-      "num": 209557,
-      "word": "刘亦菲一家女娲严选",
-      "onboard_time": 1718938878,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 209276,
@@ -539,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205011,
+      "num": 205011,
+      "word": "一条微博记录夏至",
+      "onboard_time": 1718940378,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199260,
       "num": 199260,
       "word": "玫瑰的故事越来越癫了",
@@ -569,6 +617,14 @@
       "onboard_time": 1718937619,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194600,
+      "num": 194600,
+      "word": "王星越你快从肃国公身上下来",
+      "onboard_time": 1718939658,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 192669,
@@ -625,6 +681,14 @@
       "onboard_time": 1718937079,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167011,
+      "num": 167011,
+      "word": "会恋爱和不会恋爱的人的区别",
+      "onboard_time": 1718940258,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 166327,
@@ -691,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149585,
-      "num": 149585,
-      "word": "王星越你快从肃国公身上下来",
-      "onboard_time": 1718939658,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148749,
       "num": 148749,
       "word": "王一博 罗意威",
@@ -731,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 146616,
+      "num": 146616,
+      "word": "北京到底有谁在啊转场",
+      "onboard_time": 1718937438,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145090,
       "num": 145090,
       "word": "巨蟹座生日",
@@ -745,14 +809,6 @@
       "onboard_time": 1718929879,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136854,
-      "num": 136854,
-      "word": "北京到底有谁在啊转场",
-      "onboard_time": 1718937438,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 129724,
@@ -955,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89411,
+      "num": 528550,
+      "word": "暴雨天气实用防御指南",
+      "onboard_time": 1718939839,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88709,
       "num": 88709,
       "word": "广东梅州两地强降雨致9人死亡",
@@ -977,14 +1041,6 @@
       "onboard_time": 1718887216,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81192,
-      "num": 528550,
-      "word": "暴雨天气实用防御指南",
-      "onboard_time": 1718939839,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 79337,
@@ -1131,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38877,
+      "num": 162779,
+      "word": "一口酸汤开启夏天",
+      "onboard_time": 1718940738,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 35645,
       "num": 35645,
       "word": "能预知灾难是幸运还是不幸",
@@ -1231,6 +1295,14 @@
       "num": 1029917,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3455,
+      "num": 629976,
+      "word": "智行天下能动未来",
+      "onboard_time": 1718869639,
       "rank": 2,
       "category": "社会新闻"
     }
