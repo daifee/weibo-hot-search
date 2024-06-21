@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718943803200,
+  "endTime": 1718944628854,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -217,6 +217,14 @@
       "onboard_time": 1718680216,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1560182,
+      "num": 1560182,
+      "word": "不是爽剧但还是爆了",
+      "onboard_time": 1718940198,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 1552761,
@@ -465,14 +473,6 @@
       "onboard_time": 1718720359,
       "rank": 10,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 1326943,
-      "num": 1326943,
-      "word": "不是爽剧但还是爆了",
-      "onboard_time": 1718940198,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 1317744,
@@ -1379,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 812649,
+      "num": 386298,
+      "word": "美国Manner事件",
+      "onboard_time": 1718941458,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 812128,
       "num": 599581,
       "word": "仅两款iPhone可使用苹果AI",
@@ -1908,7 +1916,7 @@
     },
     {
       "raw_hot": 663290,
-      "num": 403620,
+      "num": 455384,
       "word": "经常缺觉的人全身都处于炎症状态",
       "onboard_time": 1718930537,
       "rank": 22,
@@ -1971,6 +1979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 651715,
+      "num": 651715,
+      "word": "网红刘庸复更",
+      "onboard_time": 1718940618,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 649988,
       "num": 649988,
       "word": "中国女排0比3日本女排",
@@ -1993,6 +2009,14 @@
       "onboard_time": 1718861178,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 645675,
+      "num": 645675,
+      "word": "陈妍希周柯宇 体型差",
+      "onboard_time": 1718942838,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 641375,
@@ -2195,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 599570,
-      "num": 599570,
-      "word": "网红刘庸复更",
-      "onboard_time": 1718940618,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 598676,
       "num": 318193,
       "word": "1周饿2天就能解决脂肪肝吗",
@@ -2243,12 +2259,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 596022,
-      "num": 386298,
-      "word": "美国Manner事件",
-      "onboard_time": 1718941458,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 593169,
+      "num": 282201,
+      "word": "建议大家有事没事就去面试",
+      "onboard_time": 1718942419,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 593000,
@@ -2729,6 +2745,14 @@
       "onboard_time": 1718553138,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 520892,
+      "num": 351106,
+      "word": "刘亦菲喝酒戏是真喝",
+      "onboard_time": 1718942659,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 520563,
@@ -3675,14 +3699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 416628,
-      "num": 282201,
-      "word": "建议大家有事没事就去面试",
-      "onboard_time": 1718942419,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 415982,
       "num": 211535,
       "word": "孙千裸背",
@@ -3856,14 +3872,6 @@
       "word": "吴谨言又哭碎了",
       "onboard_time": 1718518877,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 400023,
-      "num": 379561,
-      "word": "陈妍希周柯宇 体型差",
-      "onboard_time": 1718942838,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -4497,14 +4505,6 @@
       "onboard_time": 1718493733,
       "rank": 15,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 351106,
-      "num": 351106,
-      "word": "刘亦菲喝酒戏是真喝",
-      "onboard_time": 1718942659,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 349685,
@@ -5491,6 +5491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284793,
+      "num": 284793,
+      "word": "恋与深空男主吻技",
+      "onboard_time": 1718942119,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 284574,
       "num": 284574,
       "word": "发现了掉秤最快的方法",
@@ -5531,6 +5539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283153,
+      "num": 268088,
+      "word": "吴谨言说爆剧很吓人的",
+      "onboard_time": 1718944521,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282878,
       "num": 237429,
       "word": "跑网约车16小时净收入300元",
@@ -5553,14 +5569,6 @@
       "onboard_time": 1718790559,
       "rank": 30,
       "category": "社会负面"
-    },
-    {
-      "raw_hot": 282363,
-      "num": 282363,
-      "word": "恋与深空男主吻技",
-      "onboard_time": 1718942119,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 282304,
@@ -5617,6 +5625,14 @@
       "onboard_time": 1718506277,
       "rank": 22,
       "category": "健康医疗,科学科普"
+    },
+    {
+      "raw_hot": 278928,
+      "num": 267760,
+      "word": "冬至吃饺子那夏至吃什么",
+      "onboard_time": 1718943918,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 278697,
@@ -5896,6 +5912,14 @@
       "word": "罗云熙一眼就能认出七仔",
       "onboard_time": 1718784499,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 265476,
+      "num": 265476,
+      "word": "沈学士毁了自己恶心了别人",
+      "onboard_time": 1718943918,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -6395,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237288,
+      "num": 237288,
+      "word": "会恋爱和不会恋爱的人的区别",
+      "onboard_time": 1718940258,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236922,
       "num": 157897,
       "word": "吴谨言上了郝蕾表演课后逆袭",
@@ -6625,14 +6657,6 @@
       "onboard_time": 1718856019,
       "rank": 9,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 228153,
-      "num": 228153,
-      "word": "会恋爱和不会恋爱的人的区别",
-      "onboard_time": 1718940258,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 228118,
@@ -7009,6 +7033,14 @@
       "onboard_time": 1718596878,
       "rank": 27,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 216338,
+      "num": 216338,
+      "word": "导演说刘亦菲美而不自知",
+      "onboard_time": 1718944281,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 216048,
@@ -7673,6 +7705,14 @@
       "onboard_time": 1718871258,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 199318,
+      "num": 199318,
+      "word": "迪丽热巴玫瑰wink",
+      "onboard_time": 1718943560,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 199260,
@@ -9115,6 +9155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 175282,
+      "num": 175282,
+      "word": "登陆计划投票",
+      "onboard_time": 1718944160,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175244,
       "num": 175244,
       "word": "汪苏泷音乐节",
@@ -9643,6 +9691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165446,
+      "num": 165446,
+      "word": "Manner营业额5000元以下门店只派1员工",
+      "onboard_time": 1718943259,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165413,
       "num": 165413,
       "word": "周杰伦写这首歌是想整人吗",
@@ -9963,6 +10019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159944,
+      "num": 159944,
+      "word": "自制假茅台被打假办鉴定为真",
+      "onboard_time": 1718944340,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159917,
       "num": 159917,
       "word": "哈妮克孜人生镜头",
@@ -10009,14 +10073,6 @@
       "onboard_time": 1718854698,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159182,
-      "num": 159182,
-      "word": "迪丽热巴玫瑰wink",
-      "onboard_time": 1718943560,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 158881,
@@ -12025,14 +12081,6 @@
       "onboard_time": 1718706077,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129184,
-      "num": 129184,
-      "word": "Manner营业额5000元以下门店只派1员工",
-      "onboard_time": 1718943259,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128992,
@@ -14691,6 +14739,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 78257,
+      "num": 388324,
+      "word": "2024中国大学临床医学哪家强",
+      "onboard_time": 1718942419,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 78230,
       "num": 86193,
       "word": "上班搭子离职等于断崖式分手",
@@ -14841,6 +14897,14 @@
       "onboard_time": 1718856259,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72370,
+      "num": 358743,
+      "word": "一口酸汤开启夏天",
+      "onboard_time": 1718940738,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 72167,
@@ -15259,14 +15323,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 58264,
-      "num": 358743,
-      "word": "一口酸汤开启夏天",
-      "onboard_time": 1718940738,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 58230,
       "num": 327819,
       "word": "无法拒绝的旅行单品",
@@ -15443,14 +15499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52930,
-      "num": 388324,
-      "word": "2024中国大学临床医学哪家强",
-      "onboard_time": 1718942419,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 52524,
       "num": 326972,
       "word": "砸窗搭人链救人关键一环找到了",
@@ -15553,6 +15601,14 @@
       "onboard_time": 1718533159,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 50375,
+      "num": 345387,
+      "word": "男生免费送废纸盒老人以杏回赠",
+      "onboard_time": 1718941698,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50356,
@@ -16145,6 +16201,14 @@
       "onboard_time": 1718608097,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 33943,
+      "num": 200456,
+      "word": "如何正确地浪费时间",
+      "onboard_time": 1718943980,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 33831,
@@ -16971,6 +17035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 13072,
+      "num": 217040,
+      "word": "印度试运行世界最高铁路桥",
+      "onboard_time": 1718944399,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12894,
       "num": 19924,
       "word": "优秀学长樊振东",
@@ -17200,6 +17272,9 @@
     },
     {
       "word": "#习近平在宁夏考察调研#"
+    },
+    {
+      "word": "#五十六个民族凝聚在一起就是中华民族共同体#"
     }
   ]
 }

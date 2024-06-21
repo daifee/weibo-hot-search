@@ -1,0 +1,410 @@
+{
+  "runTime": 1718944628854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1560182,
+        "num": 1560182,
+        "word": "不是爽剧但还是爆了",
+        "onboard_time": 1718940198,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1074506,
+        "num": 1074506,
+        "word": "Manner员工月薪约5000元",
+        "onboard_time": 1718930478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5899,
+        "num": 1040165,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1222969,
+        "num": 1030827,
+        "word": "26岁考编8次终于上岸异地县城",
+        "onboard_time": 1718939719,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1013209,
+        "num": 1013209,
+        "word": "性侵中国女游客的韩酒店员工已被捕",
+        "onboard_time": 1718940678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651715,
+        "num": 651715,
+        "word": "网红刘庸复更",
+        "onboard_time": 1718940618,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 645675,
+        "num": 645675,
+        "word": "陈妍希周柯宇 体型差",
+        "onboard_time": 1718942838,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513058,
+        "num": 513058,
+        "word": "Manner男店员掌掴女顾客附近商家发声",
+        "onboard_time": 1718927236,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455384,
+        "num": 455384,
+        "word": "经常缺觉的人全身都处于炎症状态",
+        "onboard_time": 1718930537,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351009,
+        "num": 351009,
+        "word": "恋与深空亲亲卡",
+        "onboard_time": 1718940618,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 812649,
+        "num": 347136,
+        "word": "美国Manner事件",
+        "onboard_time": 1718941458,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50375,
+        "num": 345387,
+        "word": "男生免费送废纸盒老人以杏回赠",
+        "onboard_time": 1718941698,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520892,
+        "num": 341192,
+        "word": "刘亦菲喝酒戏是真喝",
+        "onboard_time": 1718942659,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407942,
+        "num": 334303,
+        "word": "陈妍希周柯宇新剧开机路透",
+        "onboard_time": 1718938157,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352692,
+        "num": 329511,
+        "word": "傅家明死在了黄亦玫最爱他的那一年",
+        "onboard_time": 1718926937,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351869,
+        "num": 324826,
+        "word": "王菲问王一博这么晚还不到",
+        "onboard_time": 1718928017,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72370,
+        "num": 319802,
+        "word": "一口酸汤开启夏天",
+        "onboard_time": 1718940738,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 316883,
+        "num": 316883,
+        "word": "留给林一的集数不多了",
+        "onboard_time": 1718937677,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284793,
+        "num": 284793,
+        "word": "恋与深空男主吻技",
+        "onboard_time": 1718942119,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270050,
+        "num": 270050,
+        "word": "一款艾滋病预防药物取得惊人实验结果",
+        "onboard_time": 1718938098,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 593169,
+        "num": 269845,
+        "word": "建议大家有事没事就去面试",
+        "onboard_time": 1718942419,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283153,
+        "num": 268088,
+        "word": "吴谨言说爆剧很吓人的",
+        "onboard_time": 1718944521,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278928,
+        "num": 267760,
+        "word": "冬至吃饺子那夏至吃什么",
+        "onboard_time": 1718943918,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 265476,
+        "num": 265476,
+        "word": "沈学士毁了自己恶心了别人",
+        "onboard_time": 1718943918,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260758,
+        "num": 260758,
+        "word": "梅西状态",
+        "onboard_time": 1718935639,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238431,
+        "num": 238431,
+        "word": "夏天过去一半了",
+        "onboard_time": 1718937978,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237288,
+        "num": 237288,
+        "word": "会恋爱和不会恋爱的人的区别",
+        "onboard_time": 1718940258,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232395,
+        "num": 232395,
+        "word": "成都地铁13号线一在建站点坍塌",
+        "onboard_time": 1718933118,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230751,
+        "num": 230751,
+        "word": "傅家明一开始就暗示自己有病了",
+        "onboard_time": 1718933418,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13072,
+        "num": 217040,
+        "word": "印度试运行世界最高铁路桥",
+        "onboard_time": 1718944399,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216338,
+        "num": 216338,
+        "word": "导演说刘亦菲美而不自知",
+        "onboard_time": 1718944281,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208318,
+        "num": 208318,
+        "word": "歌手",
+        "onboard_time": 1718944040,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205486,
+        "num": 205486,
+        "word": "恋与深空古茗联名",
+        "onboard_time": 1718940798,
+        "rank": 32,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 6,
+        "num": 200922,
+        "word": "大学自曝隐藏实力",
+        "onboard_time": 1718935397,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78257,
+        "num": 200463,
+        "word": "2024中国大学临床医学哪家强",
+        "onboard_time": 1718942419,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 33943,
+        "num": 200456,
+        "word": "如何正确地浪费时间",
+        "onboard_time": 1718943980,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200453,
+        "num": 200453,
+        "word": "乘风2024五公歌单",
+        "onboard_time": 1718938338,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199318,
+        "num": 199318,
+        "word": "迪丽热巴玫瑰wink",
+        "onboard_time": 1718943560,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193481,
+        "num": 193481,
+        "word": "玫瑰的故事韩国宣传视频",
+        "onboard_time": 1718932999,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177917,
+        "num": 177917,
+        "word": "淘宝回应虚拟猫晋级102强",
+        "onboard_time": 1718942360,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175841,
+        "num": 175841,
+        "word": "灵儿不能这么跟外公讲话",
+        "onboard_time": 1718930298,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175282,
+        "num": 175282,
+        "word": "登陆计划投票",
+        "onboard_time": 1718944160,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169330,
+        "num": 169330,
+        "word": "咖啡师平均月薪4236元",
+        "onboard_time": 1718936837,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165793,
+        "num": 165793,
+        "word": "成都地铁",
+        "onboard_time": 1718931138,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165446,
+        "num": 165446,
+        "word": "Manner营业额5000元以下门店只派1员工",
+        "onboard_time": 1718943259,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164460,
+        "num": 164460,
+        "word": "王星越你快从肃国公身上下来",
+        "onboard_time": 1718939658,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164112,
+        "num": 164112,
+        "word": "刘亦菲霍建华早干嘛去了",
+        "onboard_time": 1718935338,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160981,
+        "num": 160981,
+        "word": "人最好不要all in做任何事情",
+        "onboard_time": 1718896159,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159944,
+        "num": 159944,
+        "word": "自制假茅台被打假办鉴定为真",
+        "onboard_time": 1718944340,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152861,
+        "num": 152861,
+        "word": "Manner回应1天2起店员顾客冲突",
+        "onboard_time": 1718930719,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#五十六个民族凝聚在一起就是中华民族共同体#"
+    }
+  }
+}
