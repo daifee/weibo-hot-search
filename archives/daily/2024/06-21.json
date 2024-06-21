@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718965245804,
+  "endTime": 1718966241642,
   "band_list": [
     {
       "raw_hot": 1666400,
@@ -83,19 +83,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1202482,
+      "num": 1202482,
+      "word": "Manner咖啡",
+      "onboard_time": 1718961379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1179832,
       "num": 1179832,
       "word": "成都地铁13号线一在建站点坍塌",
       "onboard_time": 1718933118,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1158353,
-      "num": 1158353,
-      "word": "Manner咖啡",
-      "onboard_time": 1718961379,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -227,6 +227,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 758594,
+      "num": 758594,
+      "word": "专家建议本科读基础学科",
+      "onboard_time": 1718962159,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 751569,
       "num": 694520,
       "word": "黄亦玫离婚美甲",
@@ -265,14 +273,6 @@
       "onboard_time": 1718947819,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 722807,
-      "num": 722807,
-      "word": "专家建议本科读基础学科",
-      "onboard_time": 1718962159,
-      "rank": 24,
-      "category": "教育"
     },
     {
       "raw_hot": 700208,
@@ -361,6 +361,14 @@
       "onboard_time": 1718948597,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616100,
+      "num": 287599,
+      "word": "100斤减到120斤的秘诀",
+      "onboard_time": 1718962998,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 602303,
@@ -579,12 +587,12 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 407638,
-      "num": 236630,
-      "word": "100斤减到120斤的秘诀",
-      "onboard_time": 1718962998,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 403990,
+      "num": 347884,
+      "word": "疑Manner店员与顾客互扇耳光",
+      "onboard_time": 1718964079,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 399879,
@@ -683,6 +691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 348402,
+      "num": 348402,
+      "word": "祖国必须统一也必然统一",
+      "onboard_time": 1718964977,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 345561,
       "num": 320214,
       "word": "长相思2剧本",
@@ -713,6 +729,14 @@
       "onboard_time": 1718933179,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332610,
+      "num": 332610,
+      "word": "杨迪 五竹",
+      "onboard_time": 1718964617,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 332273,
@@ -883,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250401,
+      "num": 250401,
+      "word": "黄亦玫一回家就谈上了",
+      "onboard_time": 1718964318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 250088,
       "num": 250088,
       "word": "娜扎居然能解锁杨迪手机",
@@ -897,14 +929,6 @@
       "onboard_time": 1718960898,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245862,
-      "num": 245862,
-      "word": "疑Manner店员与顾客互扇耳光",
-      "onboard_time": 1718964079,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244560,
@@ -1163,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207121,
+      "num": 207121,
+      "word": "奔跑吧",
+      "onboard_time": 1718965818,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206620,
       "num": 206620,
       "word": "意大利乌龙球",
@@ -1235,14 +1267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 201509,
-      "num": 201509,
-      "word": "杨迪 五竹",
-      "onboard_time": 1718964617,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 200622,
       "num": 200622,
       "word": "日向翔阳运动番最好的男主",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1718935097,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198143,
+      "num": 186881,
+      "word": "被黄仁俊公开号码的素人回应",
+      "onboard_time": 1718965338,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 198141,
@@ -1363,19 +1395,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187431,
+      "num": 187431,
+      "word": "沈月露肩球衣",
+      "onboard_time": 1718965098,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187031,
       "num": 187031,
       "word": "婉宁可怜",
       "onboard_time": 1718949438,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 185171,
-      "num": 184580,
-      "word": "黄亦玫一回家就谈上了",
-      "onboard_time": 1718964318,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1427,12 +1459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178236,
+      "num": 178236,
+      "word": "王星越的哥哥比我以为的更超过",
+      "onboard_time": 1718965098,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174207,
       "num": 174207,
       "word": "猫 这个破玩具我都不想说了",
       "onboard_time": 1718945119,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173923,
+      "num": 173923,
+      "word": "人社局回应manner辞退泼咖啡粉员工",
+      "onboard_time": 1718965458,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173246,
@@ -1579,14 +1627,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158955,
-      "num": 158955,
-      "word": "祖国必须统一也必然统一",
-      "onboard_time": 1718964977,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 158421,
       "num": 158421,
       "word": "狙击蝴蝶开机",
@@ -1723,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145199,
+      "num": 145199,
+      "word": "李晨晒跑男布达佩斯合照",
+      "onboard_time": 1718965219,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145090,
       "num": 145090,
       "word": "巨蟹座生日",
@@ -1747,12 +1795,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 141626,
-      "num": 141626,
-      "word": "沈月露肩球衣",
-      "onboard_time": 1718965098,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 138455,
+      "num": 138455,
+      "word": "嘘国王在冬眠 抬上来",
+      "onboard_time": 1718965998,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 137357,
@@ -1771,14 +1819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132904,
-      "num": 132904,
-      "word": "王星越的哥哥比我以为的更超过",
-      "onboard_time": 1718965098,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131843,
       "num": 131843,
       "word": "塔瑞斯国际服31国登顶",
@@ -1787,20 +1827,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 130879,
-      "num": 130879,
-      "word": "李晨晒跑男布达佩斯合照",
-      "onboard_time": 1718965219,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129724,
       "num": 176846,
       "word": "古诗词中的夏天氛围感拉满",
       "onboard_time": 1718927896,
       "rank": 31,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 129178,
+      "num": 507490,
+      "word": "美国小伙说在中国到处被安利美食",
+      "onboard_time": 1718964256,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127414,
@@ -1961,14 +2001,6 @@
       "onboard_time": 1718935397,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 101751,
-      "num": 507490,
-      "word": "美国小伙说在中国到处被安利美食",
-      "onboard_time": 1718964256,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101428,
@@ -2291,6 +2323,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 42091,
+      "num": 236404,
+      "word": "法医秦明解读法医专业",
+      "onboard_time": 1718963417,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 41930,
       "num": 41930,
       "word": "黄山洪水",
@@ -2308,7 +2348,7 @@
     },
     {
       "raw_hot": 40171,
-      "num": 279900,
+      "num": 319483,
       "word": "华为云重磅发布盘古大模型5.0",
       "onboard_time": 1718963957,
       "rank": 18,
@@ -2379,6 +2419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28042,
+      "num": 372928,
+      "word": "秦明解读法医专业怎么报考",
+      "onboard_time": 1718964018,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 27753,
       "num": 159661,
       "word": "酒商称如今一箱赚几块就不错",
@@ -2393,6 +2441,14 @@
       "onboard_time": 1718906172,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 25916,
+      "num": 157943,
+      "word": "E人更适合当老师吗",
+      "onboard_time": 1718964018,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 25743,
@@ -2427,14 +2483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21761,
-      "num": 372928,
-      "word": "秦明解读法医专业怎么报考",
-      "onboard_time": 1718964018,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 20200,
       "num": 168371,
       "word": "54位法学毕业生的薪资",
@@ -2449,14 +2497,6 @@
       "onboard_time": 1718956818,
       "rank": 43,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 17458,
-      "num": 154714,
-      "word": "E人更适合当老师吗",
-      "onboard_time": 1718964018,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 16150,
