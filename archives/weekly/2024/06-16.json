@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718961621963,
+  "endTime": 1718962475459,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -1979,6 +1979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 679504,
+      "num": 679504,
+      "word": "Manner咖啡",
+      "onboard_time": 1718961379,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 677382,
       "num": 668118,
       "word": "将门毒后选角",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1718930537,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 663116,
+      "num": 359397,
+      "word": "终于明白老员工为什么不愿意带新人",
+      "onboard_time": 1718957598,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 662117,
@@ -2347,6 +2363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 602303,
+      "num": 602303,
+      "word": "玫瑰的故事 开放式结局",
+      "onboard_time": 1718956578,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 601988,
       "num": 601988,
       "word": "男子连续5年点同一粤菜馆2101次",
@@ -2465,14 +2489,6 @@
       "onboard_time": 1718932999,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 583938,
-      "num": 359397,
-      "word": "终于明白老员工为什么不愿意带新人",
-      "onboard_time": 1718957598,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 576910,
@@ -2953,14 +2969,6 @@
       "onboard_time": 1718534178,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 520333,
-      "num": 520333,
-      "word": "玫瑰的故事 开放式结局",
-      "onboard_time": 1718956578,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 519854,
@@ -3867,6 +3875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426839,
+      "num": 426839,
+      "word": "刘诗诗穿ES",
+      "onboard_time": 1718959880,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 425614,
       "num": 425614,
       "word": "12306回应桂林火车站暂停客运业务",
@@ -3945,14 +3961,6 @@
       "onboard_time": 1718542819,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 417000,
-      "num": 417000,
-      "word": "刘诗诗穿ES",
-      "onboard_time": 1718959880,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 415982,
@@ -4203,6 +4211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396220,
+      "num": 396220,
+      "word": "王星越换叼玉佩头像",
+      "onboard_time": 1718957898,
+      "rank": 37,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 396157,
       "num": 396157,
       "word": "中国女排vs波兰女排",
@@ -4305,14 +4321,6 @@
       "onboard_time": 1718959278,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 385539,
-      "num": 385539,
-      "word": "王星越换叼玉佩头像",
-      "onboard_time": 1718957898,
-      "rank": 37,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 384618,
@@ -5227,6 +5235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 323989,
+      "num": 323989,
+      "word": "何洁红毯滑倒",
+      "onboard_time": 1718961858,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323974,
       "num": 236654,
       "word": "2类人不建议睡觉时把脚露外面",
@@ -5321,6 +5337,14 @@
       "onboard_time": 1718702418,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 317178,
+      "num": 242135,
+      "word": "张雪峰建议北京文科女生不要出京",
+      "onboard_time": 1718958018,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316439,
@@ -5683,12 +5707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292208,
-      "num": 292208,
-      "word": "Manner咖啡",
-      "onboard_time": 1718961379,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 291111,
+      "num": 291111,
+      "word": "专家建议本科读基础学科",
+      "onboard_time": 1718962159,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 290332,
@@ -6043,6 +6067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274307,
+      "num": 274307,
+      "word": "第五人格 三丽鸥",
+      "onboard_time": 1718961919,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 273681,
       "num": 273681,
       "word": "霍建华出场",
@@ -6161,6 +6193,14 @@
       "onboard_time": 1718513357,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269290,
+      "num": 231838,
+      "word": "张雪峰称会计专业与数学好坏无关",
+      "onboard_time": 1718957358,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 269165,
@@ -6507,6 +6547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248938,
+      "num": 248938,
+      "word": "赵一博直播",
+      "onboard_time": 1718960898,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248552,
       "num": 240687,
       "word": "张杰鸟巢官宣六场",
@@ -6528,14 +6576,6 @@
       "word": "鞠婧祎19岁至30岁颜值变化",
       "onboard_time": 1718764937,
       "rank": 37,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 247356,
-      "num": 247356,
-      "word": "赵一博直播",
-      "onboard_time": 1718960898,
-      "rank": 26,
       "category": "艺人"
     },
     {
@@ -6585,6 +6625,14 @@
       "onboard_time": 1718951178,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243939,
+      "num": 243939,
+      "word": "陈楚生给张远打call",
+      "onboard_time": 1718960780,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 243843,
@@ -6737,14 +6785,6 @@
       "onboard_time": 1718863877,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 238247,
-      "num": 238247,
-      "word": "张雪峰建议北京文科女生不要出京",
-      "onboard_time": 1718958018,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238138,
@@ -6931,6 +6971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231550,
+      "num": 231550,
+      "word": "长相思2 玱玹主场",
+      "onboard_time": 1718961919,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230891,
       "num": 198857,
       "word": "txt票价",
@@ -7017,14 +7065,6 @@
       "onboard_time": 1718628257,
       "rank": 30,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 228442,
-      "num": 228442,
-      "word": "张雪峰称会计专业与数学好坏无关",
-      "onboard_time": 1718957358,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 228382,
@@ -7459,6 +7499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 216320,
+      "num": 216320,
+      "word": "恋爱脑已老实梅超风求放过",
+      "onboard_time": 1718959639,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216048,
       "num": 216048,
       "word": "电影默杀定档",
@@ -7561,14 +7609,6 @@
       "onboard_time": 1718881457,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212907,
-      "num": 212907,
-      "word": "恋爱脑已老实梅超风求放过",
-      "onboard_time": 1718959639,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 212688,
@@ -7729,14 +7769,6 @@
       "onboard_time": 1718935039,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208758,
-      "num": 208758,
-      "word": "陈楚生给张远打call",
-      "onboard_time": 1718960780,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 208186,
@@ -10945,6 +10977,14 @@
       "onboard_time": 1718848998,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155684,
+      "num": 155684,
+      "word": "DigiGhetto 杨和苏",
+      "onboard_time": 1718962337,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 155636,
@@ -15059,6 +15099,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91247,
+      "num": 478716,
+      "word": "医学生毕业后去哪了",
+      "onboard_time": 1718960417,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 90764,
       "num": 475238,
       "word": "如何正确地浪费时间",
@@ -16035,14 +16083,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 58045,
-      "num": 478716,
-      "word": "医学生毕业后去哪了",
-      "onboard_time": 1718960417,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 57869,
       "num": 412143,
       "word": "将来的生活能过得越来越好",
@@ -16443,6 +16483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46490,
+      "num": 379599,
+      "word": "退伍大学生毕业典礼齐唱军歌太燃了",
+      "onboard_time": 1718959698,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46473,
       "num": 277194,
       "word": "汽车行业最缺什么人才",
@@ -16465,6 +16513,14 @@
       "onboard_time": 1718937858,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44961,
+      "num": 384824,
+      "word": "纯血鸿蒙将设备性能提升30%",
+      "onboard_time": 1718960538,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 44925,
@@ -16963,11 +17019,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34046,
-      "num": 384824,
-      "word": "纯血鸿蒙将设备性能提升30%",
-      "onboard_time": 1718960538,
-      "rank": 17,
+      "raw_hot": 34147,
+      "num": 384797,
+      "word": "纯血鸿蒙将重构操作系统安全体系",
+      "onboard_time": 1718959099,
+      "rank": 18,
       "category": "数码"
     },
     {
@@ -17001,14 +17057,6 @@
       "onboard_time": 1718825110,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33392,
-      "num": 384797,
-      "word": "纯血鸿蒙将重构操作系统安全体系",
-      "onboard_time": 1718959099,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 32900,
@@ -17611,6 +17659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20200,
+      "num": 168371,
+      "word": "54位法学毕业生的薪资",
+      "onboard_time": 1718961258,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19556,
       "num": 794497,
       "word": "AI眼中的三夏画卷",
@@ -17944,14 +18000,6 @@
       "word": "印度假酒中毒死亡人数升至29人",
       "onboard_time": 1718879599,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 10578,
-      "num": 167797,
-      "word": "54位法学毕业生的薪资",
-      "onboard_time": 1718961258,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
