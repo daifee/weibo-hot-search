@@ -1,0 +1,410 @@
+{
+  "runTime": 1718954315557,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1600957,
+        "num": 1600957,
+        "word": "六公主发了7条吴谨言",
+        "onboard_time": 1718950697,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 747115,
+        "num": 747115,
+        "word": "初高中生为什么迷上买谷子",
+        "onboard_time": 1718946020,
+        "rank": 1,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 9479,
+        "num": 541615,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751569,
+        "num": 521696,
+        "word": "黄亦玫离婚美甲",
+        "onboard_time": 1718950337,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486527,
+        "num": 486527,
+        "word": "建议大家有事没事就去面试",
+        "onboard_time": 1718942419,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474408,
+        "num": 474408,
+        "word": "恋与深空秦彻",
+        "onboard_time": 1718949499,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 571669,
+        "num": 474403,
+        "word": "于正 汪俊",
+        "onboard_time": 1718952437,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464930,
+        "num": 464930,
+        "word": "Manner员工可能被情绪劳动绑架了",
+        "onboard_time": 1718948597,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570153,
+        "num": 460339,
+        "word": "于正 墨雨云间花了两个多亿",
+        "onboard_time": 1718951418,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53038,
+        "num": 458068,
+        "word": "电竞解说专业值不值得报考",
+        "onboard_time": 1718953218,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 819590,
+        "num": 452636,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 480739,
+        "num": 444515,
+        "word": "14岁学生继承超25亿市值股票",
+        "onboard_time": 1718953098,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442178,
+        "num": 442178,
+        "word": "崛起吧涂山璟",
+        "onboard_time": 1718950278,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379129,
+        "num": 379129,
+        "word": "秦彻偷跑",
+        "onboard_time": 1718950518,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81792,
+        "num": 375018,
+        "word": "塞尔维亚绝平饿了么为一万人免单",
+        "onboard_time": 1718953218,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373729,
+        "num": 373729,
+        "word": "吴谨言说爆剧很吓人的",
+        "onboard_time": 1718944521,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365785,
+        "num": 365785,
+        "word": "适合邓超的工作出现了",
+        "onboard_time": 1718952738,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 336692,
+        "num": 336692,
+        "word": "男童拿糖后说谎店主无奈下跪认错",
+        "onboard_time": 1718950938,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24129,
+        "num": 328826,
+        "word": "临空乐园落地上海",
+        "onboard_time": 1718953338,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325415,
+        "num": 325415,
+        "word": "陈妍希周柯宇 体型差",
+        "onboard_time": 1718942838,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 908372,
+        "num": 315025,
+        "word": "00后女孩离职删软件被公司威胁起诉",
+        "onboard_time": 1718951118,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747756,
+        "num": 308946,
+        "word": "古茗员工碎了",
+        "onboard_time": 1718950880,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 508862,
+        "num": 303116,
+        "word": "26岁考编8次终于上岸异地县城",
+        "onboard_time": 1718939719,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 291882,
+        "num": 291882,
+        "word": "LOEWE全球品牌代言人王一博",
+        "onboard_time": 1718947819,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 285094,
+        "num": 285094,
+        "word": "恋与深空亲亲卡",
+        "onboard_time": 1718940618,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265016,
+        "num": 265016,
+        "word": "恋与深空古茗联名",
+        "onboard_time": 1718940798,
+        "rank": 25,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 262462,
+        "num": 262462,
+        "word": "性侵中国女游客的韩酒店员工已被捕",
+        "onboard_time": 1718940678,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232142,
+        "num": 232142,
+        "word": "不是爽剧但还是爆了",
+        "onboard_time": 1718940198,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230697,
+        "num": 230697,
+        "word": "刘亦菲用六公主镜头当镜子",
+        "onboard_time": 1718951178,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225828,
+        "num": 225828,
+        "word": "南京暴雨",
+        "onboard_time": 1718951958,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209011,
+        "num": 209011,
+        "word": "乃万 北京到底有谁在你还不知道吗",
+        "onboard_time": 1718953579,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205664,
+        "num": 205664,
+        "word": "还好十个勤天熬过来了",
+        "onboard_time": 1718952918,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205073,
+        "num": 205073,
+        "word": "You are my superstar girl",
+        "onboard_time": 1718952378,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203924,
+        "num": 203924,
+        "word": "六公主吴谨言冰释前嫌",
+        "onboard_time": 1718953938,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180995,
+        "num": 180995,
+        "word": "桂林此次严重内涝有3个原因",
+        "onboard_time": 1718951298,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180186,
+        "num": 180186,
+        "word": "赵露思夏至证件照",
+        "onboard_time": 1718953638,
+        "rank": 35,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 172184,
+        "num": 172184,
+        "word": "歌手歌单",
+        "onboard_time": 1718950880,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166983,
+        "num": 166983,
+        "word": "登陆计划投票",
+        "onboard_time": 1718944160,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164973,
+        "num": 164973,
+        "word": "一只猫梳出了另一只猫",
+        "onboard_time": 1718952079,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18947,
+        "num": 161790,
+        "word": "学外语更容易进外企吗",
+        "onboard_time": 1718953218,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158722,
+        "num": 158722,
+        "word": "茅台1935批价跌破800元",
+        "onboard_time": 1718953999,
+        "rank": 40,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 154003,
+        "num": 154003,
+        "word": "女子下班后在车里刷剧续命",
+        "onboard_time": 1718945659,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149259,
+        "num": 149259,
+        "word": "恋与深空回应秦彻泄密",
+        "onboard_time": 1718952319,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140968,
+        "num": 140968,
+        "word": "戚薇手被割伤",
+        "onboard_time": 1718949078,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134617,
+        "num": 134617,
+        "word": "沈学士毁了自己恶心了别人",
+        "onboard_time": 1718943918,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130059,
+        "num": 130059,
+        "word": "娜扎居然能解锁杨迪手机",
+        "onboard_time": 1718948299,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128414,
+        "num": 128414,
+        "word": "专家称医生35岁是收入门槛",
+        "onboard_time": 1718945300,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123226,
+        "num": 123226,
+        "word": "冬至吃饺子那夏至吃什么",
+        "onboard_time": 1718943918,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 119319,
+        "num": 119319,
+        "word": "沈月cos黄昏",
+        "onboard_time": 1718945840,
+        "rank": 48,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 113301,
+        "num": 119275,
+        "word": "章子怡对儿子飞吻",
+        "onboard_time": 1718950157,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}

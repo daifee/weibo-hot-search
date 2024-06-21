@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718951985476,
+  "endTime": 1718954315557,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1717665497,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1600957,
+      "num": 1600957,
+      "word": "六公主发了7条吴谨言",
+      "onboard_time": 1718950697,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 1597628,
@@ -2801,14 +2809,6 @@
       "onboard_time": 1718889739,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1171587,
-      "num": 1171587,
-      "word": "六公主发了7条吴谨言",
-      "onboard_time": 1718950697,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 1170489,
@@ -4475,6 +4475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 908372,
+      "num": 325467,
+      "word": "00后女孩离职删软件被公司威胁起诉",
+      "onboard_time": 1718951118,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 906569,
       "num": 906569,
       "word": "苏更生被继父侵犯",
@@ -5947,6 +5955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751569,
+      "num": 673404,
+      "word": "黄亦玫离婚美甲",
+      "onboard_time": 1718950337,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 751314,
       "num": 585642,
       "word": "魔兽世界技术测试定档",
@@ -6017,6 +6033,14 @@
       "onboard_time": 1718656270,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 747756,
+      "num": 357318,
+      "word": "古茗员工碎了",
+      "onboard_time": 1718950880,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 747629,
@@ -7315,16 +7339,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 673404,
-      "num": 673404,
-      "word": "黄亦玫离婚美甲",
-      "onboard_time": 1718950337,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 673338,
-      "num": 438544,
+      "num": 486527,
       "word": "建议大家有事没事就去面试",
       "onboard_time": 1718942419,
       "rank": 20,
@@ -9307,6 +9323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571669,
+      "num": 474403,
+      "word": "于正 汪俊",
+      "onboard_time": 1718952437,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 571643,
       "num": 456995,
       "word": "刘亦菲发疯戏是即兴发挥",
@@ -9369,6 +9393,14 @@
       "onboard_time": 1717511539,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 570153,
+      "num": 460339,
+      "word": "于正 墨雨云间花了两个多亿",
+      "onboard_time": 1718951418,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 570147,
@@ -11843,6 +11875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 480739,
+      "num": 444515,
+      "word": "14岁学生继承超25亿市值股票",
+      "onboard_time": 1718953098,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480468,
       "num": 578551,
       "word": "黄景瑜中国人民警察大学招生简章",
@@ -13193,6 +13233,14 @@
       "onboard_time": 1717726337,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 442178,
+      "num": 442178,
+      "word": "崛起吧涂山璟",
+      "onboard_time": 1718950278,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 441747,
@@ -15851,14 +15899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373924,
-      "num": 373924,
-      "word": "崛起吧涂山璟",
-      "onboard_time": 1718950278,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 373741,
       "num": 373741,
       "word": "于正 选角",
@@ -16083,14 +16123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 368783,
-      "num": 368783,
-      "word": "于正 墨雨云间花了两个多亿",
-      "onboard_time": 1718951418,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 368667,
       "num": 317035,
       "word": "高考下一章 墨雨云间",
@@ -16201,6 +16233,14 @@
       "onboard_time": 1718092037,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365785,
+      "num": 365785,
+      "word": "适合邓超的工作出现了",
+      "onboard_time": 1718952738,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 365177,
@@ -16625,14 +16665,6 @@
       "onboard_time": 1718023339,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 357318,
-      "num": 357318,
-      "word": "古茗员工碎了",
-      "onboard_time": 1718950880,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 357187,
@@ -17739,6 +17771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336692,
+      "num": 336692,
+      "word": "男童拿糖后说谎店主无奈下跪认错",
+      "onboard_time": 1718950938,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 336062,
       "num": 3137278,
       "word": "直击多地高考第一现场",
@@ -18353,14 +18393,6 @@
       "onboard_time": 1717425499,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 325467,
-      "num": 325467,
-      "word": "00后女孩离职删软件被公司威胁起诉",
-      "onboard_time": 1718951118,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325265,
@@ -22731,14 +22763,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257065,
-      "num": 207748,
-      "word": "男童拿糖后说谎店主无奈下跪认错",
-      "onboard_time": 1718950938,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256911,
       "num": 249579,
       "word": "13位男嘉宾在节目里吵架16分钟",
@@ -25331,6 +25355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225828,
+      "num": 225828,
+      "word": "南京暴雨",
+      "onboard_time": 1718951958,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225768,
       "num": 225768,
       "word": "天天喊累的人建议查一下甲状腺",
@@ -27467,6 +27499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 209011,
+      "num": 209011,
+      "word": "乃万 北京到底有谁在你还不知道吗",
+      "onboard_time": 1718953579,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208926,
       "num": 309473,
       "word": "高考是你多少年前的回忆杀了",
@@ -28083,6 +28123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205664,
+      "num": 205664,
+      "word": "还好十个勤天熬过来了",
+      "onboard_time": 1718952918,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205545,
       "num": 205545,
       "word": "刘亦菲玫瑰的故事怼脸海报",
@@ -28177,6 +28225,14 @@
       "onboard_time": 1718893699,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205073,
+      "num": 205073,
+      "word": "You are my superstar girl",
+      "onboard_time": 1718952378,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 205053,
@@ -28505,6 +28561,14 @@
       "onboard_time": 1717563740,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203924,
+      "num": 203924,
+      "word": "六公主吴谨言冰释前嫌",
+      "onboard_time": 1718953938,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 203834,
@@ -33307,6 +33371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180186,
+      "num": 180186,
+      "word": "赵露思夏至证件照",
+      "onboard_time": 1718953638,
+      "rank": 35,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 180152,
       "num": 180152,
       "word": "电影蛟龙行动",
@@ -36387,6 +36459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 164973,
+      "num": 164973,
+      "word": "一只猫梳出了另一只猫",
+      "onboard_time": 1718952079,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164945,
       "num": 143948,
       "word": "余秀华完颜慧德 北大食堂",
@@ -37801,6 +37881,14 @@
       "onboard_time": 1718792479,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158722,
+      "num": 158722,
+      "word": "茅台1935批价跌破800元",
+      "onboard_time": 1718953999,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 158666,
@@ -40217,6 +40305,14 @@
       "onboard_time": 1717326437,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 149259,
+      "num": 149259,
+      "word": "恋与深空回应秦彻泄密",
+      "onboard_time": 1718952319,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 149233,
@@ -48395,14 +48491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115494,
-      "num": 115494,
-      "word": "南京暴雨",
-      "onboard_time": 1718951958,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 115492,
       "num": 115492,
       "word": "赵丽颖新片虎狼之路是公路爽片",
@@ -53219,6 +53307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81792,
+      "num": 375018,
+      "word": "塞尔维亚绝平饿了么为一万人免单",
+      "onboard_time": 1718953218,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81690,
       "num": 86143,
       "word": "刘诗诗窦骁捧花合照",
@@ -56353,6 +56449,14 @@
       "onboard_time": 1718188218,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 53038,
+      "num": 458068,
+      "word": "电竞解说专业值不值得报考",
+      "onboard_time": 1718953218,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 52690,
@@ -59731,6 +59835,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 24129,
+      "num": 328826,
+      "word": "临空乐园落地上海",
+      "onboard_time": 1718953338,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 24081,
       "num": 25506,
       "word": "德国地铁站广告",
@@ -60257,6 +60369,14 @@
       "onboard_time": 1717664180,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 18947,
+      "num": 161790,
+      "word": "学外语更容易进外企吗",
+      "onboard_time": 1718953218,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 18886,
