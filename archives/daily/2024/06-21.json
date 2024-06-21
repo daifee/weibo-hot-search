@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718948144160,
+  "endTime": 1718951243436,
   "band_list": [
     {
       "raw_hot": 1560182,
@@ -9,6 +9,14 @@
       "onboard_time": 1718940198,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1467292,
+      "num": 573601,
+      "word": "男子强奸未遂监视居住期间杀害堂妹",
+      "onboard_time": 1718946558,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1443555,
@@ -51,14 +59,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1223419,
-      "num": 475505,
-      "word": "男子强奸未遂监视居住期间杀害堂妹",
-      "onboard_time": 1718946558,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 1179832,
       "num": 1179832,
       "word": "成都地铁13号线一在建站点坍塌",
@@ -75,8 +75,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1073875,
+      "num": 1073875,
+      "word": "恋与深空秦彻",
+      "onboard_time": 1718949499,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 1062729,
-      "num": 645675,
+      "num": 647932,
       "word": "陈妍希周柯宇 体型差",
       "onboard_time": 1718942838,
       "rank": 12,
@@ -115,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 921226,
+      "num": 921226,
+      "word": "初高中生为什么迷上买谷子",
+      "onboard_time": 1718946020,
+      "rank": 9,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 836087,
       "num": 836087,
       "word": "王菲问王一博这么晚还不到",
@@ -147,6 +163,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 729341,
+      "num": 729341,
+      "word": "LOEWE全球品牌代言人王一博",
+      "onboard_time": 1718947819,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 724736,
+      "num": 724736,
+      "word": "秦彻偷跑",
+      "onboard_time": 1718950518,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 700208,
       "num": 700208,
       "word": "上海Manner一男店员殴打女顾客",
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 673338,
-      "num": 291247,
+      "num": 438544,
       "word": "建议大家有事没事就去面试",
       "onboard_time": 1718942419,
       "rank": 20,
@@ -203,6 +235,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 636388,
+      "num": 636388,
+      "word": "恋与深空亲亲卡",
+      "onboard_time": 1718940618,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 624893,
+      "num": 624893,
+      "word": "Manner员工可能被情绪劳动绑架了",
+      "onboard_time": 1718948597,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584288,
       "num": 584288,
       "word": "玫瑰的故事韩国宣传视频",
@@ -217,6 +265,22 @@
       "onboard_time": 1718936837,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 552504,
+      "num": 552504,
+      "word": "恋与深空古茗联名",
+      "onboard_time": 1718940798,
+      "rank": 24,
+      "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 549190,
+      "num": 549190,
+      "word": "六公主发了7条吴谨言",
+      "onboard_time": 1718950697,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 540270,
@@ -256,6 +320,14 @@
       "word": "黄亦玫手撕恶婆婆",
       "onboard_time": 1718889799,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 483283,
+      "num": 483283,
+      "word": "黄亦玫离婚美甲",
+      "onboard_time": 1718950337,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -307,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 433995,
-      "num": 433995,
-      "word": "LOEWE全球品牌代言人王一博",
-      "onboard_time": 1718947819,
-      "rank": 13,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 418119,
       "num": 413688,
       "word": "Manner回应1天2起店员顾客冲突",
@@ -337,14 +401,6 @@
       "onboard_time": 1718931858,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 384140,
-      "num": 384140,
-      "word": "恋与深空亲亲卡",
-      "onboard_time": 1718940618,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 375216,
@@ -475,12 +531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 300766,
-      "num": 475653,
-      "word": "初高中生为什么迷上买谷子",
-      "onboard_time": 1718946020,
-      "rank": 9,
-      "category": "社会新闻,动漫"
+      "raw_hot": 309164,
+      "num": 309164,
+      "word": "崛起吧涂山璟",
+      "onboard_time": 1718950278,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 297829,
@@ -547,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268320,
-      "num": 268320,
-      "word": "恋与深空古茗联名",
-      "onboard_time": 1718940798,
-      "rank": 24,
-      "category": "游戏,美食"
-    },
-    {
       "raw_hot": 264128,
       "num": 226798,
       "word": "长相思2 定档",
@@ -585,6 +633,14 @@
       "onboard_time": 1718945659,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250088,
+      "num": 250088,
+      "word": "娜扎居然能解锁杨迪手机",
+      "onboard_time": 1718948299,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 243725,
@@ -659,6 +715,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224005,
+      "num": 224005,
+      "word": "戚薇手被割伤",
+      "onboard_time": 1718949078,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 223939,
+      "num": 223939,
+      "word": "导演说刘亦菲美而不自知",
+      "onboard_time": 1718944281,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220348,
       "num": 220348,
       "word": "登陆计划投票",
@@ -673,14 +745,6 @@
       "onboard_time": 1718930898,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 216338,
-      "num": 216338,
-      "word": "导演说刘亦菲美而不自知",
-      "onboard_time": 1718944281,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 216048,
@@ -737,6 +801,14 @@
       "onboard_time": 1718889799,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207205,
+      "num": 207205,
+      "word": "章子怡对儿子飞吻",
+      "onboard_time": 1718950157,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 206620,
@@ -851,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191654,
+      "num": 191654,
+      "word": "古茗员工碎了",
+      "onboard_time": 1718950880,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 191214,
       "num": 191214,
       "word": "烟花少年 停拍",
@@ -865,6 +945,14 @@
       "onboard_time": 1718943020,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187031,
+      "num": 187031,
+      "word": "婉宁可怜",
+      "onboard_time": 1718949438,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 184445,
@@ -883,6 +971,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183179,
+      "num": 183179,
+      "word": "男童拿糖后说谎店主无奈下跪认错",
+      "onboard_time": 1718950938,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182971,
+      "num": 182971,
+      "word": "00后女孩离职删软件被公司威胁起诉",
+      "onboard_time": 1718951118,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178356,
       "num": 178356,
       "word": "裸辞了我妈撺掇的",
@@ -897,6 +1001,14 @@
       "onboard_time": 1718945119,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170567,
+      "num": 170567,
+      "word": "快乐老友记",
+      "onboard_time": 1718949139,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 169426,
@@ -939,6 +1051,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 166193,
+      "num": 166193,
+      "word": "歌手歌单",
+      "onboard_time": 1718950880,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165605,
       "num": 165605,
       "word": "种地吧",
@@ -963,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159288,
+      "num": 159288,
+      "word": "黎深亲亲卡",
+      "onboard_time": 1718950037,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158421,
       "num": 158421,
       "word": "狙击蝴蝶开机",
@@ -985,6 +1113,14 @@
       "onboard_time": 1718932098,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 155305,
+      "num": 155305,
+      "word": "破风妆造",
+      "onboard_time": 1718949858,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 153764,
@@ -1089,6 +1225,14 @@
       "onboard_time": 1718942479,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 133997,
+      "num": 133997,
+      "word": "刘亦菲用六公主镜头当镜子",
+      "onboard_time": 1718951178,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 131843,
@@ -1435,6 +1579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 60427,
+      "num": 450094,
+      "word": "为什么明星营业照都是自拍",
+      "onboard_time": 1718948059,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60417,
       "num": 186454,
       "word": "熊猫宝宝的胖jiojio也太灵活了",
@@ -1449,6 +1601,14 @@
       "onboard_time": 1718928678,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57456,
+      "num": 576622,
+      "word": "攻读咖啡专业能天天喝咖啡吗",
+      "onboard_time": 1718949378,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 55051,
@@ -1555,6 +1715,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 25938,
+      "num": 490857,
+      "word": "临床医学报考指南",
+      "onboard_time": 1718949619,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 23066,
       "num": 230100,
       "word": "老奶奶淋雨男生披外套跑去遮挡护送",
@@ -1569,6 +1737,14 @@
       "onboard_time": 1718915710,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20531,
+      "num": 171196,
+      "word": "成为医生前医学生走了很长的路",
+      "onboard_time": 1718949619,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16150,
@@ -1601,14 +1777,6 @@
       "onboard_time": 1718911151,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13079,
-      "num": 133992,
-      "word": "为什么明星营业照都是自拍",
-      "onboard_time": 1718948059,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 13072,
