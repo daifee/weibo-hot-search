@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718966241642,
+  "endTime": 1718968603797,
   "band_list": [
     {
       "raw_hot": 1666400,
@@ -145,6 +145,22 @@
       "onboard_time": 1718961858,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1012233,
+      "num": 695410,
+      "word": "Jennie陈冠希合照",
+      "onboard_time": 1718966777,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1009052,
+      "num": 1009052,
+      "word": "祖国必须统一也必然统一",
+      "onboard_time": 1718964977,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1006483,
@@ -363,8 +379,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616538,
+      "num": 616538,
+      "word": "疑Manner店员与顾客互扇耳光",
+      "onboard_time": 1718964079,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616100,
-      "num": 287599,
+      "num": 289660,
       "word": "100斤减到120斤的秘诀",
       "onboard_time": 1718962998,
       "rank": 21,
@@ -475,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494610,
+      "num": 494610,
+      "word": "强降雨致广东平远38死2失联",
+      "onboard_time": 1718966957,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491573,
       "num": 491573,
       "word": "余承东官宣纯血鸿蒙正式开启beta测试",
@@ -499,11 +531,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 474590,
+      "num": 474590,
+      "word": "杨迪 五竹",
+      "onboard_time": 1718964617,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 463862,
       "num": 308733,
       "word": "霍建华曾一个人演一家子",
       "onboard_time": 1718922493,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 462180,
+      "num": 462180,
+      "word": "都暻秀亲了李泳知",
+      "onboard_time": 1718967438,
+      "rank": 11,
       "category": "剧集"
     },
     {
@@ -585,14 +633,6 @@
       "onboard_time": 1718895980,
       "rank": 10,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 403990,
-      "num": 347884,
-      "word": "疑Manner店员与顾客互扇耳光",
-      "onboard_time": 1718964079,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 399879,
@@ -691,14 +731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348402,
-      "num": 348402,
-      "word": "祖国必须统一也必然统一",
-      "onboard_time": 1718964977,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 345561,
       "num": 320214,
       "word": "长相思2剧本",
@@ -723,20 +755,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 338571,
+      "num": 338571,
+      "word": "黄亦玫一回家就谈上了",
+      "onboard_time": 1718964318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 335714,
+      "num": 335714,
+      "word": "虞书欣杀青哭花妆了",
+      "onboard_time": 1718966478,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333904,
       "num": 333904,
       "word": "官方回应成都地铁在建13号线坍塌",
       "onboard_time": 1718933179,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 332610,
-      "num": 332610,
-      "word": "杨迪 五竹",
-      "onboard_time": 1718964617,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 332273,
@@ -776,6 +816,14 @@
       "word": "张雪峰建议北京文科女生不要出京",
       "onboard_time": 1718958018,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 300655,
+      "num": 300655,
+      "word": "Manner被曝第3起店员与顾客冲突",
+      "onboard_time": 1718967438,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -905,14 +953,6 @@
       "onboard_time": 1718945659,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 250401,
-      "num": 250401,
-      "word": "黄亦玫一回家就谈上了",
-      "onboard_time": 1718964318,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 250088,
@@ -1067,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220962,
+      "num": 220962,
+      "word": "徐明浩杭州活动",
+      "onboard_time": 1718967797,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220348,
       "num": 220348,
       "word": "登陆计划投票",
@@ -1123,6 +1171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215088,
+      "num": 475200,
+      "word": "俄罗斯美女留学生被中国簪花美哭",
+      "onboard_time": 1718966896,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210543,
       "num": 155129,
       "word": "人体3处淋巴没事常揉揉",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1718889799,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207703,
+      "num": 207703,
+      "word": "逆水寒手游",
+      "onboard_time": 1718967797,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 207205,
@@ -1731,6 +1795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148543,
+      "num": 507490,
+      "word": "美国小伙说在中国到处被安利美食",
+      "onboard_time": 1718964256,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148425,
       "num": 148425,
       "word": "薛之谦生日场",
@@ -1761,6 +1833,14 @@
       "onboard_time": 1718937438,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146071,
+      "num": 146071,
+      "word": "新兰only",
+      "onboard_time": 1718967198,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 145199,
@@ -1795,6 +1875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 139869,
+      "num": 139869,
+      "word": "Manner咖啡监控",
+      "onboard_time": 1718965697,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138455,
       "num": 138455,
       "word": "嘘国王在冬眠 抬上来",
@@ -1819,6 +1907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134278,
+      "num": 134278,
+      "word": "爱老师",
+      "onboard_time": 1718967498,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131843,
       "num": 131843,
       "word": "塔瑞斯国际服31国登顶",
@@ -1827,20 +1923,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131048,
+      "num": 131048,
+      "word": "校园流浪猫被送去参赛成顶流",
+      "onboard_time": 1718966237,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130202,
+      "num": 130202,
+      "word": "华为称操作系统软件不再被欧美垄断",
+      "onboard_time": 1718968218,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129724,
       "num": 176846,
       "word": "古诗词中的夏天氛围感拉满",
       "onboard_time": 1718927896,
       "rank": 31,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 129178,
-      "num": 507490,
-      "word": "美国小伙说在中国到处被安利美食",
-      "onboard_time": 1718964256,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127414,
@@ -1857,6 +1961,14 @@
       "onboard_time": 1718931438,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121151,
+      "num": 121151,
+      "word": "塞尔维亚老铁在线摇人",
+      "onboard_time": 1718968577,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 119268,
@@ -2283,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49060,
+      "num": 319483,
+      "word": "华为云重磅发布盘古大模型5.0",
+      "onboard_time": 1718963957,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48919,
       "num": 436309,
       "word": "2人激流中搭梯救狗被摇尾感谢",
@@ -2345,14 +2465,6 @@
       "onboard_time": 1718906652,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40171,
-      "num": 319483,
-      "word": "华为云重磅发布盘古大模型5.0",
-      "onboard_time": 1718963957,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 39491,
@@ -2423,6 +2535,14 @@
       "num": 372928,
       "word": "秦明解读法医专业怎么报考",
       "onboard_time": 1718964018,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 27812,
+      "num": 347265,
+      "word": "上大学到底意味着什么",
+      "onboard_time": 1718967616,
       "rank": 14,
       "category": "教育"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718966241642,
+  "endTime": 1718968603797,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -1027,12 +1027,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012233,
+      "num": 695410,
+      "word": "Jennie陈冠希合照",
+      "onboard_time": 1718966777,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1011294,
       "num": 1011294,
       "word": "黄亦玫到离婚都没穿上婚纱",
       "onboard_time": 1718840356,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1009052,
+      "num": 1009052,
+      "word": "祖国必须统一也必然统一",
+      "onboard_time": 1718964977,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1006483,
@@ -2299,8 +2315,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 616538,
+      "num": 616538,
+      "word": "疑Manner店员与顾客互扇耳光",
+      "onboard_time": 1718964079,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616100,
-      "num": 287599,
+      "num": 289660,
       "word": "100斤减到120斤的秘诀",
       "onboard_time": 1718962998,
       "rank": 21,
@@ -3235,6 +3259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494610,
+      "num": 494610,
+      "word": "强降雨致广东平远38死2失联",
+      "onboard_time": 1718966957,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 494559,
       "num": 250786,
       "word": "感染了HPV就一定是私生活混乱吗",
@@ -3403,6 +3435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 474590,
+      "num": 474590,
+      "word": "杨迪 五竹",
+      "onboard_time": 1718964617,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 473800,
       "num": 473800,
       "word": "张馨予玫瑰的故事观后感",
@@ -3497,6 +3537,14 @@
       "onboard_time": 1718586079,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462180,
+      "num": 462180,
+      "word": "都暻秀亲了李泳知",
+      "onboard_time": 1718967438,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 461940,
@@ -4137,14 +4185,6 @@
       "onboard_time": 1718582776,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 403990,
-      "num": 347884,
-      "word": "疑Manner店员与顾客互扇耳光",
-      "onboard_time": 1718964079,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 403822,
@@ -4875,14 +4915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 348402,
-      "num": 348402,
-      "word": "祖国必须统一也必然统一",
-      "onboard_time": 1718964977,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 347707,
       "num": 343831,
       "word": "荣梓杉想演张若昀赵丽颖的儿子",
@@ -5043,12 +5075,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 338571,
+      "num": 338571,
+      "word": "黄亦玫一回家就谈上了",
+      "onboard_time": 1718964318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 337419,
       "num": 337419,
       "word": "发现我妈是天生留子圣体",
       "onboard_time": 1718888299,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 335714,
+      "num": 335714,
+      "word": "虞书欣杀青哭花妆了",
+      "onboard_time": 1718966478,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 335105,
@@ -5129,14 +5177,6 @@
       "onboard_time": 1718691857,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332610,
-      "num": 332610,
-      "word": "杨迪 五竹",
-      "onboard_time": 1718964617,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 332273,
@@ -5585,6 +5625,14 @@
       "onboard_time": 1718799620,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300655,
+      "num": 300655,
+      "word": "Manner被曝第3起店员与顾客冲突",
+      "onboard_time": 1718967438,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300250,
@@ -6555,14 +6603,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 250401,
-      "num": 250401,
-      "word": "黄亦玫一回家就谈上了",
-      "onboard_time": 1718964318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 250306,
       "num": 195074,
       "word": "张碧晨 再见李可乐",
@@ -7339,6 +7379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220962,
+      "num": 220962,
+      "word": "徐明浩杭州活动",
+      "onboard_time": 1718967797,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220786,
       "num": 197826,
       "word": "这个颜色的染发剂最危险",
@@ -7569,6 +7617,14 @@
       "onboard_time": 1718938878,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215088,
+      "num": 475200,
+      "word": "俄罗斯美女留学生被中国簪花美哭",
+      "onboard_time": 1718966896,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214981,
@@ -11627,6 +11683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148543,
+      "num": 507490,
+      "word": "美国小伙说在中国到处被安利美食",
+      "onboard_time": 1718964256,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148292,
       "num": 148292,
       "word": "带男朋友回家后发现家人很冷漠",
@@ -11793,6 +11857,14 @@
       "onboard_time": 1718603416,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146071,
+      "num": 146071,
+      "word": "新兰only",
+      "onboard_time": 1718967198,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 145825,
@@ -12113,6 +12185,14 @@
       "onboard_time": 1718808380,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139869,
+      "num": 139869,
+      "word": "Manner咖啡监控",
+      "onboard_time": 1718965697,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139777,
@@ -12443,6 +12523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134278,
+      "num": 134278,
+      "word": "爱老师",
+      "onboard_time": 1718967498,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 133960,
       "num": 133960,
       "word": "周深布达佩斯跑男录制",
@@ -12731,6 +12819,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131048,
+      "num": 131048,
+      "word": "校园流浪猫被送去参赛成顶流",
+      "onboard_time": 1718966237,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130946,
       "num": 102033,
       "word": "郑州一烧烤店女老板遭多名男子围殴",
@@ -12843,6 +12939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130202,
+      "num": 130202,
+      "word": "华为称操作系统软件不再被欧美垄断",
+      "onboard_time": 1718968218,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 130117,
       "num": 130117,
       "word": "网友写的薛芳菲萧蘅婚后日常",
@@ -12905,14 +13009,6 @@
       "onboard_time": 1718706077,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 129178,
-      "num": 507490,
-      "word": "美国小伙说在中国到处被安利美食",
-      "onboard_time": 1718964256,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128992,
@@ -13577,6 +13673,14 @@
       "onboard_time": 1718885899,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 121151,
+      "num": 121151,
+      "word": "塞尔维亚老铁在线摇人",
+      "onboard_time": 1718968577,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 121129,
@@ -16547,6 +16651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49060,
+      "num": 319483,
+      "word": "华为云重磅发布盘古大模型5.0",
+      "onboard_time": 1718963957,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48919,
       "num": 436309,
       "word": "2人激流中搭梯救狗被摇尾感谢",
@@ -16889,14 +17001,6 @@
       "onboard_time": 1718752814,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 40171,
-      "num": 319483,
-      "word": "华为云重磅发布盘古大模型5.0",
-      "onboard_time": 1718963957,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 39705,
@@ -17465,6 +17569,14 @@
       "onboard_time": 1718887279,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 27812,
+      "num": 347265,
+      "word": "上大学到底意味着什么",
+      "onboard_time": 1718967616,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 27780,
