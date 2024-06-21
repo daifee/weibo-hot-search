@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/16 00:23:47 ~ 2024/06/22 01:19:13
+本榜单时间：2024/06/16 00:23:47 ~ 2024/06/22 01:35:11
 </p>
 </blockquote>
 <p>
@@ -9639,6 +9639,12 @@ TES夏季赛首胜（热度：140924）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B9%B02%E4%BB%BD%E9%A5%AD%E6%8B%BF6%E5%8F%8C%E7%AD%B7%E5%AD%90%E8%A2%AB%E6%80%92%E6%96%A5%E7%9B%97%E7%AA%83%23" target="weibo">
+女生买2份饭拿6双筷子被怒斥盗窃（热度：140658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%20%E9%9F%B3%E7%BB%BC%23" target="weibo">
 快乐老友记 音综（热度：140615）
 </a>
@@ -11657,12 +11663,6 @@ WE对战EDGM（热度：104377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E4%B8%BA%E6%B8%90%E5%86%BB%E4%BA%BA%E4%BC%A0%E9%80%92%E8%BF%99%E6%9D%A1%E5%BE%AE%E5%8D%9A%23" target="weibo">
 今天为渐冻人传递这条微博（热度：103182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B9%B02%E4%BB%BD%E9%A5%AD%E6%8B%BF6%E5%8F%8C%E7%AD%B7%E5%AD%90%E8%A2%AB%E6%80%92%E6%96%A5%E7%9B%97%E7%AA%83%23" target="weibo">
-女生买2份饭拿6双筷子被怒斥盗窃（热度：103136）
 </a>
 </li>
 
