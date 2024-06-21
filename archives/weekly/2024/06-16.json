@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718951243436,
+  "endTime": 1718951985476,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 1467292,
-      "num": 573601,
+      "num": 573883,
       "word": "男子强奸未遂监视居住期间杀害堂妹",
       "onboard_time": 1718946558,
       "rank": 10,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171587,
+      "num": 1171587,
+      "word": "六公主发了7条吴谨言",
+      "onboard_time": 1718950697,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1170489,
       "num": 1170489,
       "word": "王一博 罗意威",
@@ -987,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1006483,
+      "num": 1006483,
+      "word": "初高中生为什么迷上买谷子",
+      "onboard_time": 1718946020,
+      "rank": 9,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 1005974,
       "num": 849092,
       "word": "Manner男店员掌掴女顾客附近商家发声",
@@ -1177,14 +1193,6 @@
       "onboard_time": 1718791819,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 921226,
-      "num": 921226,
-      "word": "初高中生为什么迷上买谷子",
-      "onboard_time": 1718946020,
-      "rank": 9,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 915943,
@@ -1619,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 745461,
+      "num": 745461,
+      "word": "秦彻偷跑",
+      "onboard_time": 1718950518,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 745434,
       "num": 559370,
       "word": "警方通报废弃楼发现男尸",
@@ -1753,14 +1769,6 @@
       "onboard_time": 1718720300,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 724736,
-      "num": 724736,
-      "word": "秦彻偷跑",
-      "onboard_time": 1718950518,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 722706,
@@ -1929,6 +1937,14 @@
       "onboard_time": 1718928738,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 673404,
+      "num": 673404,
+      "word": "黄亦玫离婚美甲",
+      "onboard_time": 1718950337,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 673338,
@@ -2595,14 +2611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 549190,
-      "num": 549190,
-      "word": "六公主发了7条吴谨言",
-      "onboard_time": 1718950697,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 547970,
       "num": 547970,
       "word": "关晓彤回应被推荐去歌手",
@@ -3144,14 +3152,6 @@
       "word": "林更新提到刘亦菲连说三个美",
       "onboard_time": 1718698218,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 483283,
-      "num": 483283,
-      "word": "黄亦玫离婚美甲",
-      "onboard_time": 1718950337,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -4243,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373924,
+      "num": 373924,
+      "word": "崛起吧涂山璟",
+      "onboard_time": 1718950278,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 373897,
       "num": 373897,
       "word": "欧洲杯",
@@ -4321,6 +4329,14 @@
       "onboard_time": 1718532018,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 368783,
+      "num": 368783,
+      "word": "于正 墨雨云间花了两个多亿",
+      "onboard_time": 1718951418,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 367380,
@@ -4513,6 +4529,14 @@
       "onboard_time": 1718456418,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357318,
+      "num": 357318,
+      "word": "古茗员工碎了",
+      "onboard_time": 1718950880,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 356706,
@@ -5019,6 +5043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325467,
+      "num": 325467,
+      "word": "00后女孩离职删软件被公司威胁起诉",
+      "onboard_time": 1718951118,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324565,
       "num": 324565,
       "word": "晚一天送到的荔枝质量断崖下跌",
@@ -5233,14 +5265,6 @@
       "onboard_time": 1718769383,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 309164,
-      "num": 309164,
-      "word": "崛起吧涂山璟",
-      "onboard_time": 1718950278,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 308791,
@@ -6163,6 +6187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257065,
+      "num": 207748,
+      "word": "男童拿糖后说谎店主无奈下跪认错",
+      "onboard_time": 1718950938,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255776,
       "num": 208814,
       "word": "长寿的人多半有4慢3长特点",
@@ -6377,6 +6409,14 @@
       "onboard_time": 1718528719,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 244560,
+      "num": 244560,
+      "word": "刘亦菲用六公主镜头当镜子",
+      "onboard_time": 1718951178,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 243843,
@@ -7105,6 +7145,14 @@
       "onboard_time": 1718464219,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218934,
+      "num": 218934,
+      "word": "桂林此次严重内涝有3个原因",
+      "onboard_time": 1718951298,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218429,
@@ -8427,14 +8475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191654,
-      "num": 191654,
-      "word": "古茗员工碎了",
-      "onboard_time": 1718950880,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 191595,
       "num": 203644,
       "word": "没有一个爸爸逃得了小棉袄的化妆术",
@@ -8963,14 +9003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183179,
-      "num": 183179,
-      "word": "男童拿糖后说谎店主无奈下跪认错",
-      "onboard_time": 1718950938,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183085,
       "num": 155858,
       "word": "肖战晒与爸爸妈妈背影照",
@@ -8985,14 +9017,6 @@
       "onboard_time": 1718639778,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182971,
-      "num": 182971,
-      "word": "00后女孩离职删软件被公司威胁起诉",
-      "onboard_time": 1718951118,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182749,
@@ -11867,14 +11891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133997,
-      "num": 133997,
-      "word": "刘亦菲用六公主镜头当镜子",
-      "onboard_time": 1718951178,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133960,
       "num": 133960,
       "word": "周深布达佩斯跑男录制",
@@ -13403,6 +13419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115494,
+      "num": 115494,
+      "word": "南京暴雨",
+      "onboard_time": 1718951958,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115172,
       "num": 125325,
       "word": "沈腾说我穿什么都配不上马丽",
@@ -14851,6 +14875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84230,
+      "num": 574883,
+      "word": "延时欣赏各色夏花优雅绽放",
+      "onboard_time": 1718951418,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 83797,
       "num": 83797,
       "word": "于正回应墨雨云间没有团综",
@@ -15113,6 +15145,14 @@
       "onboard_time": 1718472494,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 75601,
+      "num": 450094,
+      "word": "为什么明星营业照都是自拍",
+      "onboard_time": 1718948059,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 75301,
@@ -15505,14 +15545,6 @@
       "onboard_time": 1718611819,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 60427,
-      "num": 450094,
-      "word": "为什么明星营业照都是自拍",
-      "onboard_time": 1718948059,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 60417,
@@ -16251,6 +16283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39491,
+      "num": 490857,
+      "word": "临床医学报考指南",
+      "onboard_time": 1718949619,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 39465,
       "num": 182390,
       "word": "黄渤评价吴磊",
@@ -16859,20 +16899,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 25938,
-      "num": 490857,
-      "word": "临床医学报考指南",
-      "onboard_time": 1718949619,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 25395,
       "num": 135658,
       "word": "拜托我是第一个鸟巢开唱的流行女歌手",
       "onboard_time": 1718536038,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25331,
+      "num": 171196,
+      "word": "成为医生前医学生走了很长的路",
+      "onboard_time": 1718949619,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 25143,
@@ -17072,14 +17112,6 @@
       "word": "哪儿凉快去哪儿呆着",
       "onboard_time": 1718519056,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20531,
-      "num": 171196,
-      "word": "成为医生前医学生走了很长的路",
-      "onboard_time": 1718949619,
-      "rank": 39,
       "category": "社会新闻"
     },
     {

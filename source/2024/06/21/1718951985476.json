@@ -1,0 +1,410 @@
+{
+  "runTime": 1718951985476,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1171587,
+        "num": 1171587,
+        "word": "六公主发了7条吴谨言",
+        "onboard_time": 1718950697,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1006483,
+        "num": 1006483,
+        "word": "初高中生为什么迷上买谷子",
+        "onboard_time": 1718946020,
+        "rank": 1,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 7994,
+        "num": 970710,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963864,
+        "num": 963864,
+        "word": "恋与深空秦彻",
+        "onboard_time": 1718949499,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 745461,
+        "num": 745461,
+        "word": "秦彻偷跑",
+        "onboard_time": 1718950518,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 808958,
+        "num": 729294,
+        "word": "吴谨言说爆剧很吓人的",
+        "onboard_time": 1718944521,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673404,
+        "num": 673404,
+        "word": "黄亦玫离婚美甲",
+        "onboard_time": 1718950337,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 590955,
+        "num": 590955,
+        "word": "LOEWE全球品牌代言人王一博",
+        "onboard_time": 1718947819,
+        "rank": 7,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 533620,
+        "num": 579578,
+        "word": "Manner员工可能被情绪劳动绑架了",
+        "onboard_time": 1718948597,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84230,
+        "num": 574883,
+        "word": "延时欣赏各色夏花优雅绽放",
+        "onboard_time": 1718951418,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1259425,
+        "num": 573883,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 572694,
+        "num": 572694,
+        "word": "陈妍希周柯宇 体型差",
+        "onboard_time": 1718942838,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545932,
+        "num": 545932,
+        "word": "恋与深空亲亲卡",
+        "onboard_time": 1718940618,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 486468,
+        "num": 486468,
+        "word": "恋与深空古茗联名",
+        "onboard_time": 1718940798,
+        "rank": 13,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 39491,
+        "num": 466790,
+        "word": "临床医学报考指南",
+        "onboard_time": 1718949619,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 461070,
+        "num": 461070,
+        "word": "性侵中国女游客的韩酒店员工已被捕",
+        "onboard_time": 1718940678,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416793,
+        "num": 416793,
+        "word": "建议大家有事没事就去面试",
+        "onboard_time": 1718942419,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75601,
+        "num": 386240,
+        "word": "为什么明星营业照都是自拍",
+        "onboard_time": 1718948059,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449593,
+        "num": 385035,
+        "word": "26岁考编8次终于上岸异地县城",
+        "onboard_time": 1718939719,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 382618,
+        "num": 382618,
+        "word": "专家称医生35岁是收入门槛",
+        "onboard_time": 1718945300,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373924,
+        "num": 373924,
+        "word": "崛起吧涂山璟",
+        "onboard_time": 1718950278,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368783,
+        "num": 368783,
+        "word": "于正 墨雨云间花了两个多亿",
+        "onboard_time": 1718951418,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357318,
+        "num": 357318,
+        "word": "古茗员工碎了",
+        "onboard_time": 1718950880,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 325467,
+        "num": 325467,
+        "word": "00后女孩离职删软件被公司威胁起诉",
+        "onboard_time": 1718951118,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323897,
+        "num": 323897,
+        "word": "不是爽剧但还是爆了",
+        "onboard_time": 1718940198,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265908,
+        "num": 265908,
+        "word": "沈学士毁了自己恶心了别人",
+        "onboard_time": 1718943918,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244560,
+        "num": 244560,
+        "word": "刘亦菲用六公主镜头当镜子",
+        "onboard_time": 1718951178,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236804,
+        "num": 236804,
+        "word": "沈月cos黄昏",
+        "onboard_time": 1718945840,
+        "rank": 27,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 218934,
+        "num": 218934,
+        "word": "桂林此次严重内涝有3个原因",
+        "onboard_time": 1718951298,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209151,
+        "num": 209151,
+        "word": "娜扎居然能解锁杨迪手机",
+        "onboard_time": 1718948299,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257065,
+        "num": 207748,
+        "word": "男童拿糖后说谎店主无奈下跪认错",
+        "onboard_time": 1718950938,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206032,
+        "num": 206032,
+        "word": "女子下班后在车里刷剧续命",
+        "onboard_time": 1718945659,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189781,
+        "num": 189781,
+        "word": "章子怡对儿子飞吻",
+        "onboard_time": 1718950157,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183393,
+        "num": 183393,
+        "word": "姜萍明日决赛",
+        "onboard_time": 1718945538,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173387,
+        "num": 173387,
+        "word": "戚薇手被割伤",
+        "onboard_time": 1718949078,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172127,
+        "num": 172127,
+        "word": "登陆计划投票",
+        "onboard_time": 1718944160,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170008,
+        "num": 170008,
+        "word": "刘亦菲喝酒戏是真喝",
+        "onboard_time": 1718942659,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168379,
+        "num": 168379,
+        "word": "歌手歌单",
+        "onboard_time": 1718950880,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167506,
+        "num": 167506,
+        "word": "婉宁可怜",
+        "onboard_time": 1718949438,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25331,
+        "num": 155393,
+        "word": "成为医生前医学生走了很长的路",
+        "onboard_time": 1718949619,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154064,
+        "num": 154064,
+        "word": "野孩子 你千万别变成我",
+        "onboard_time": 1718946558,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158910,
+        "num": 152330,
+        "word": "导演说刘亦菲美而不自知",
+        "onboard_time": 1718944281,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147498,
+        "num": 147498,
+        "word": "冬至吃饺子那夏至吃什么",
+        "onboard_time": 1718943918,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146306,
+        "num": 146306,
+        "word": "经常缺觉的人全身都处于炎症状态",
+        "onboard_time": 1718930537,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137168,
+        "num": 137168,
+        "word": "快乐老友记",
+        "onboard_time": 1718949139,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128310,
+        "num": 128310,
+        "word": "王菲问王一博这么晚还不到",
+        "onboard_time": 1718928017,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123988,
+        "num": 123988,
+        "word": "破风妆造",
+        "onboard_time": 1718949858,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119048,
+        "num": 119048,
+        "word": "自制假茅台被打假办鉴定为真",
+        "onboard_time": 1718944340,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "黎深亲亲卡",
+        "onboard_time": 1718950037,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115494,
+        "num": 115494,
+        "word": "南京暴雨",
+        "onboard_time": 1718951958,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}

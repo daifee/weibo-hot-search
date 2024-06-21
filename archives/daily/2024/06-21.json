@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718951243436,
+  "endTime": 1718951985476,
   "band_list": [
     {
       "raw_hot": 1560182,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1467292,
-      "num": 573601,
+      "num": 573883,
       "word": "男子强奸未遂监视居住期间杀害堂妹",
       "onboard_time": 1718946558,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1171587,
+      "num": 1171587,
+      "word": "六公主发了7条吴谨言",
+      "onboard_time": 1718950697,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1123825,
       "num": 1123825,
       "word": "傅家明死在了黄亦玫最爱他的那一年",
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1006483,
+      "num": 1006483,
+      "word": "初高中生为什么迷上买谷子",
+      "onboard_time": 1718946020,
+      "rank": 9,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 1005974,
       "num": 849092,
       "word": "Manner男店员掌掴女顾客附近商家发声",
@@ -121,14 +137,6 @@
       "onboard_time": 1718935639,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 921226,
-      "num": 921226,
-      "word": "初高中生为什么迷上买谷子",
-      "onboard_time": 1718946020,
-      "rank": 9,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 836087,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 745461,
+      "num": 745461,
+      "word": "秦彻偷跑",
+      "onboard_time": 1718950518,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 732454,
       "num": 732454,
       "word": "灵儿不能这么跟外公讲话",
@@ -169,14 +185,6 @@
       "onboard_time": 1718947819,
       "rank": 13,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 724736,
-      "num": 724736,
-      "word": "秦彻偷跑",
-      "onboard_time": 1718950518,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 700208,
@@ -201,6 +209,14 @@
       "onboard_time": 1718928738,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 673404,
+      "num": 673404,
+      "word": "黄亦玫离婚美甲",
+      "onboard_time": 1718950337,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 673338,
@@ -275,14 +291,6 @@
       "category": "游戏,美食"
     },
     {
-      "raw_hot": 549190,
-      "num": 549190,
-      "word": "六公主发了7条吴谨言",
-      "onboard_time": 1718950697,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 540270,
       "num": 540270,
       "word": "专家称医生35岁是收入门槛",
@@ -320,14 +328,6 @@
       "word": "黄亦玫手撕恶婆婆",
       "onboard_time": 1718889799,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 483283,
-      "num": 483283,
-      "word": "黄亦玫离婚美甲",
-      "onboard_time": 1718950337,
-      "rank": 16,
       "category": "剧集"
     },
     {
@@ -411,6 +411,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373924,
+      "num": 373924,
+      "word": "崛起吧涂山璟",
+      "onboard_time": 1718950278,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 368783,
+      "num": 368783,
+      "word": "于正 墨雨云间花了两个多亿",
+      "onboard_time": 1718951418,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 367217,
       "num": 367217,
       "word": "夏至",
@@ -441,6 +457,14 @@
       "onboard_time": 1718937978,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357318,
+      "num": 357318,
+      "word": "古茗员工碎了",
+      "onboard_time": 1718950880,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 356385,
@@ -507,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325467,
+      "num": 325467,
+      "word": "00后女孩离职删软件被公司威胁起诉",
+      "onboard_time": 1718951118,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323974,
       "num": 236654,
       "word": "2类人不建议睡觉时把脚露外面",
@@ -529,14 +561,6 @@
       "onboard_time": 1718928860,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 309164,
-      "num": 309164,
-      "word": "崛起吧涂山璟",
-      "onboard_time": 1718950278,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 297829,
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257065,
+      "num": 207748,
+      "word": "男童拿糖后说谎店主无奈下跪认错",
+      "onboard_time": 1718950938,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255223,
       "num": 218289,
       "word": "Cube被处罚",
@@ -641,6 +673,14 @@
       "onboard_time": 1718948299,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 244560,
+      "num": 244560,
+      "word": "刘亦菲用六公主镜头当镜子",
+      "onboard_time": 1718951178,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 243725,
@@ -737,6 +777,14 @@
       "onboard_time": 1718944160,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218934,
+      "num": 218934,
+      "word": "桂林此次严重内涝有3个原因",
+      "onboard_time": 1718951298,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216859,
@@ -923,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191654,
-      "num": 191654,
-      "word": "古茗员工碎了",
-      "onboard_time": 1718950880,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 191214,
       "num": 191214,
       "word": "烟花少年 停拍",
@@ -971,22 +1011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 183179,
-      "num": 183179,
-      "word": "男童拿糖后说谎店主无奈下跪认错",
-      "onboard_time": 1718950938,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182971,
-      "num": 182971,
-      "word": "00后女孩离职删软件被公司威胁起诉",
-      "onboard_time": 1718951118,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178356,
       "num": 178356,
       "word": "裸辞了我妈撺掇的",
@@ -1019,6 +1043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168379,
+      "num": 168379,
+      "word": "歌手歌单",
+      "onboard_time": 1718950880,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168363,
       "num": 168363,
       "word": "阿根廷vs加拿大",
@@ -1049,14 +1081,6 @@
       "onboard_time": 1718932218,
       "rank": 35,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 166193,
-      "num": 166193,
-      "word": "歌手歌单",
-      "onboard_time": 1718950880,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 165605,
@@ -1227,14 +1251,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 133997,
-      "num": 133997,
-      "word": "刘亦菲用六公主镜头当镜子",
-      "onboard_time": 1718951178,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131843,
       "num": 131843,
       "word": "塔瑞斯国际服31国登顶",
@@ -1313,6 +1329,14 @@
       "onboard_time": 1718897839,
       "rank": 34,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 115494,
+      "num": 115494,
+      "word": "南京暴雨",
+      "onboard_time": 1718951958,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115351,
@@ -1475,6 +1499,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 84230,
+      "num": 574883,
+      "word": "延时欣赏各色夏花优雅绽放",
+      "onboard_time": 1718951418,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 82749,
       "num": 87459,
       "word": "王星越回应和吴谨言二搭",
@@ -1539,6 +1571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75601,
+      "num": 450094,
+      "word": "为什么明星营业照都是自拍",
+      "onboard_time": 1718948059,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75301,
       "num": 75301,
       "word": "女子4年间先后查出3种癌",
@@ -1577,14 +1617,6 @@
       "onboard_time": 1718908452,
       "rank": 21,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 60427,
-      "num": 450094,
-      "word": "为什么明星营业照都是自拍",
-      "onboard_time": 1718948059,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 60417,
@@ -1675,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39491,
+      "num": 490857,
+      "word": "临床医学报考指南",
+      "onboard_time": 1718949619,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 35645,
       "num": 35645,
       "word": "能预知灾难是幸运还是不幸",
@@ -1715,12 +1755,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 25938,
-      "num": 490857,
-      "word": "临床医学报考指南",
+      "raw_hot": 25331,
+      "num": 171196,
+      "word": "成为医生前医学生走了很长的路",
       "onboard_time": 1718949619,
-      "rank": 14,
-      "category": "教育"
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23066,
@@ -1737,14 +1777,6 @@
       "onboard_time": 1718915710,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20531,
-      "num": 171196,
-      "word": "成为医生前医学生走了很长的路",
-      "onboard_time": 1718949619,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 16150,
