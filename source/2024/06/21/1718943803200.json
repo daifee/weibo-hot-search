@@ -1,0 +1,410 @@
+{
+  "runTime": 1718943803200,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1326943,
+        "num": 1326943,
+        "word": "不是爽剧但还是爆了",
+        "onboard_time": 1718940198,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1268775,
+        "num": 1268775,
+        "word": "Manner员工月薪约5000元",
+        "onboard_time": 1718930478,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6213,
+        "num": 1077312,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1443555,
+        "num": 1073717,
+        "word": "26岁考编8次终于上岸异地县城",
+        "onboard_time": 1718939719,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1053923,
+        "num": 1053923,
+        "word": "性侵中国女游客的韩酒店员工已被捕",
+        "onboard_time": 1718940678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599570,
+        "num": 599570,
+        "word": "网红刘庸复更",
+        "onboard_time": 1718940618,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 560445,
+        "num": 560445,
+        "word": "Manner男店员掌掴女顾客附近商家发声",
+        "onboard_time": 1718927236,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519719,
+        "num": 519719,
+        "word": "陈妍希周柯宇新剧开机路透",
+        "onboard_time": 1718938157,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403620,
+        "num": 403620,
+        "word": "经常缺觉的人全身都处于炎症状态",
+        "onboard_time": 1718930537,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 52930,
+        "num": 388324,
+        "word": "2024中国大学临床医学哪家强",
+        "onboard_time": 1718942419,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 596022,
+        "num": 386298,
+        "word": "美国Manner事件",
+        "onboard_time": 1718941458,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384140,
+        "num": 384140,
+        "word": "恋与深空亲亲卡",
+        "onboard_time": 1718940618,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 400023,
+        "num": 379561,
+        "word": "陈妍希周柯宇 体型差",
+        "onboard_time": 1718942838,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373276,
+        "num": 373276,
+        "word": "留给林一的集数不多了",
+        "onboard_time": 1718937677,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 372625,
+        "num": 372625,
+        "word": "傅家明死在了黄亦玫最爱他的那一年",
+        "onboard_time": 1718926937,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368322,
+        "num": 368322,
+        "word": "王菲问王一博这么晚还不到",
+        "onboard_time": 1718928017,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58264,
+        "num": 358743,
+        "word": "一口酸汤开启夏天",
+        "onboard_time": 1718940738,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 352121,
+        "num": 352121,
+        "word": "一款艾滋病预防药物取得惊人实验结果",
+        "onboard_time": 1718938098,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 351106,
+        "num": 351106,
+        "word": "刘亦菲喝酒戏是真喝",
+        "onboard_time": 1718942659,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282363,
+        "num": 282363,
+        "word": "恋与深空男主吻技",
+        "onboard_time": 1718942119,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 416628,
+        "num": 282201,
+        "word": "建议大家有事没事就去面试",
+        "onboard_time": 1718942419,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281568,
+        "num": 281568,
+        "word": "梅西状态",
+        "onboard_time": 1718935639,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278431,
+        "num": 278431,
+        "word": "夏天过去一半了",
+        "onboard_time": 1718937978,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268320,
+        "num": 268320,
+        "word": "恋与深空古茗联名",
+        "onboard_time": 1718940798,
+        "rank": 23,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 267033,
+        "num": 267033,
+        "word": "咖啡师平均月薪4236元",
+        "onboard_time": 1718936837,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243725,
+        "num": 243725,
+        "word": "乘风2024五公歌单",
+        "onboard_time": 1718938338,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239887,
+        "num": 239887,
+        "word": "傅家明一开始就暗示自己有病了",
+        "onboard_time": 1718933418,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237742,
+        "num": 237742,
+        "word": "人最好不要all in做任何事情",
+        "onboard_time": 1718896159,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228823,
+        "num": 228823,
+        "word": "玫瑰的故事韩国宣传视频",
+        "onboard_time": 1718932999,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228153,
+        "num": 228153,
+        "word": "会恋爱和不会恋爱的人的区别",
+        "onboard_time": 1718940258,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26,
+        "num": 228102,
+        "word": "大学自曝隐藏实力",
+        "onboard_time": 1718935397,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 228061,
+        "num": 228061,
+        "word": "成都地铁13号线一在建站点坍塌",
+        "onboard_time": 1718933118,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198642,
+        "num": 198642,
+        "word": "王星越你快从肃国公身上下来",
+        "onboard_time": 1718939658,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195025,
+        "num": 195025,
+        "word": "灵儿不能这么跟外公讲话",
+        "onboard_time": 1718930298,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194907,
+        "num": 194907,
+        "word": "淘宝回应虚拟猫晋级102强",
+        "onboard_time": 1718942360,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 188670,
+        "num": 188670,
+        "word": "章昊小声蛐蛐",
+        "onboard_time": 1718943020,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185683,
+        "num": 185683,
+        "word": "刘亦菲霍建华早干嘛去了",
+        "onboard_time": 1718935338,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183939,
+        "num": 183939,
+        "word": "重返未来2.0版本",
+        "onboard_time": 1718943138,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176849,
+        "num": 176849,
+        "word": "Manner回应1天2起店员顾客冲突",
+        "onboard_time": 1718930719,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167887,
+        "num": 167887,
+        "word": "成都地铁",
+        "onboard_time": 1718931138,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163412,
+        "num": 163412,
+        "word": "干净又卫生",
+        "onboard_time": 1718942299,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159598,
+        "num": 159598,
+        "word": "刘亦菲一家女娲严选",
+        "onboard_time": 1718938878,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159182,
+        "num": 159182,
+        "word": "迪丽热巴玫瑰wink",
+        "onboard_time": 1718943560,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144707,
+        "num": 144707,
+        "word": "科学家发现补觉无法完全恢复大脑功能",
+        "onboard_time": 1718937858,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143559,
+        "num": 143559,
+        "word": "跑网约车16小时净收入300元",
+        "onboard_time": 1718930778,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142005,
+        "num": 142005,
+        "word": "张朝阳将直播解高考物理题",
+        "onboard_time": 1718942479,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131843,
+        "num": 131843,
+        "word": "塔瑞斯国际服31国登顶",
+        "onboard_time": 1718943499,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129184,
+        "num": 129184,
+        "word": "Manner营业额5000元以下门店只派1员工",
+        "onboard_time": 1718943259,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127641,
+        "num": 127641,
+        "word": "北京有张杰薛之谦在",
+        "onboard_time": 1718935039,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125997,
+        "num": 125997,
+        "word": "电影默杀定档",
+        "onboard_time": 1718937918,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}

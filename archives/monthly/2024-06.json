@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718941012859,
+  "endTime": 1718943803200,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1619,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1443555,
+      "num": 1073717,
+      "word": "26岁考编8次终于上岸异地县城",
+      "onboard_time": 1718939719,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1443344,
       "num": 501895,
       "word": "合川路",
@@ -2027,20 +2035,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 1326943,
+      "num": 1326943,
+      "word": "不是爽剧但还是爆了",
+      "onboard_time": 1718940198,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1326868,
       "num": 857673,
       "word": "奔跑吧 姚PD",
       "onboard_time": 1718340199,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1323114,
-      "num": 965406,
-      "word": "26岁考编8次终于上岸异地县城",
-      "onboard_time": 1718939719,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 1321399,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1717216277,
       "rank": 42,
       "category": "健康医疗,母婴育儿"
+    },
+    {
+      "raw_hot": 1268775,
+      "num": 1268775,
+      "word": "Manner员工月薪约5000元",
+      "onboard_time": 1718930478,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1266678,
@@ -2529,14 +2545,6 @@
       "onboard_time": 1717484957,
       "rank": 26,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1217515,
-      "num": 1217515,
-      "word": "Manner员工月薪约5000元",
-      "onboard_time": 1718930478,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1213698,
@@ -3457,6 +3465,14 @@
       "onboard_time": 1718030180,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1053923,
+      "num": 1053923,
+      "word": "性侵中国女游客的韩酒店员工已被捕",
+      "onboard_time": 1718940678,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1053221,
@@ -7380,7 +7396,7 @@
     },
     {
       "raw_hot": 663290,
-      "num": 308331,
+      "num": 403620,
       "word": "经常缺觉的人全身都处于炎症状态",
       "onboard_time": 1718930537,
       "rank": 22,
@@ -8547,6 +8563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 599570,
+      "num": 599570,
+      "word": "网红刘庸复更",
+      "onboard_time": 1718940618,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 598676,
       "num": 318193,
       "word": "1周饿2天就能解决脂肪肝吗",
@@ -8649,6 +8673,14 @@
       "onboard_time": 1717734204,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 596022,
+      "num": 386298,
+      "word": "美国Manner事件",
+      "onboard_time": 1718941458,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 595296,
@@ -14083,6 +14115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 416628,
+      "num": 282201,
+      "word": "建议大家有事没事就去面试",
+      "onboard_time": 1718942419,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 416421,
       "num": 523966,
       "word": "中国女排vs泰国女排",
@@ -14633,6 +14673,14 @@
       "onboard_time": 1717994118,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 400023,
+      "num": 379561,
+      "word": "陈妍希周柯宇 体型差",
+      "onboard_time": 1718942838,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 399979,
@@ -15305,6 +15353,14 @@
       "onboard_time": 1718637558,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384140,
+      "num": 384140,
+      "word": "恋与深空亲亲卡",
+      "onboard_time": 1718940618,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 383839,
@@ -16801,6 +16857,14 @@
       "onboard_time": 1717918037,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 351106,
+      "num": 351106,
+      "word": "刘亦菲喝酒戏是真喝",
+      "onboard_time": 1718942659,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 351005,
@@ -18971,14 +19035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308981,
-      "num": 308981,
-      "word": "不是爽剧但还是爆了",
-      "onboard_time": 1718940198,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 308882,
       "num": 308882,
       "word": "田曦薇上下班反差",
@@ -19657,14 +19713,6 @@
       "onboard_time": 1717655599,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 297238,
-      "num": 297238,
-      "word": "网红刘庸复更",
-      "onboard_time": 1718940618,
-      "rank": 21,
-      "category": "网红"
     },
     {
       "raw_hot": 297232,
@@ -20739,6 +20787,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 282363,
+      "num": 282363,
+      "word": "恋与深空男主吻技",
+      "onboard_time": 1718942119,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 282304,
       "num": 282304,
       "word": "上海通报女子地铁抢座位打人",
@@ -20945,14 +21001,6 @@
       "onboard_time": 1717680139,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277705,
-      "num": 277705,
-      "word": "性侵中国女游客的韩酒店员工已被捕",
-      "onboard_time": 1718940678,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 277618,
@@ -21763,6 +21811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268320,
+      "num": 268320,
+      "word": "恋与深空古茗联名",
+      "onboard_time": 1718940798,
+      "rank": 24,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 268312,
       "num": 268312,
       "word": "离开易建联谁还把邓超当小孩",
@@ -22065,14 +22121,6 @@
       "onboard_time": 1718598378,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 264013,
-      "num": 264013,
-      "word": "恋与深空古茗联名",
-      "onboard_time": 1718940798,
-      "rank": 24,
-      "category": "游戏,美食"
     },
     {
       "raw_hot": 263999,
@@ -23459,6 +23507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 243725,
+      "num": 243725,
+      "word": "乘风2024五公歌单",
+      "onboard_time": 1718938338,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243651,
       "num": 243651,
       "word": "高考后就是吃饭睡觉墨雨云间",
@@ -24139,14 +24195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236337,
-      "num": 236337,
-      "word": "乘风2024五公歌单",
-      "onboard_time": 1718938338,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236315,
       "num": 236315,
       "word": "墨雨云间 乾坤都没你能扭",
@@ -24611,14 +24659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 230735,
-      "num": 230735,
-      "word": "恋与深空亲亲卡",
-      "onboard_time": 1718940618,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230610,
       "num": 253495,
       "word": "李沁像极了美人鱼",
@@ -24865,6 +24905,14 @@
       "onboard_time": 1717596560,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228153,
+      "num": 228153,
+      "word": "会恋爱和不会恋爱的人的区别",
+      "onboard_time": 1718940258,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 228146,
@@ -29251,6 +29299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198642,
+      "num": 198642,
+      "word": "王星越你快从肃国公身上下来",
+      "onboard_time": 1718939658,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198587,
       "num": 198587,
       "word": "Fine乐团揭榜失败",
@@ -30107,6 +30163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194907,
+      "num": 194907,
+      "word": "淘宝回应虚拟猫晋级102强",
+      "onboard_time": 1718942360,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 194847,
       "num": 194847,
       "word": "张杰鸟巢场",
@@ -30144,14 +30208,6 @@
       "word": "陈鑫海演出了叶世杰暗恋感",
       "onboard_time": 1718874378,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194600,
-      "num": 194600,
-      "word": "王星越你快从肃国公身上下来",
-      "onboard_time": 1718939658,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -31419,6 +31475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 188670,
+      "num": 188670,
+      "word": "章昊小声蛐蛐",
+      "onboard_time": 1718943020,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188616,
       "num": 188616,
       "word": "王星越对女星姐姐的称呼",
@@ -32425,6 +32489,14 @@
       "onboard_time": 1717724119,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 183939,
+      "num": 183939,
+      "word": "重返未来2.0版本",
+      "onboard_time": 1718943138,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 183933,
@@ -35587,14 +35659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167011,
-      "num": 167011,
-      "word": "会恋爱和不会恋爱的人的区别",
-      "onboard_time": 1718940258,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 166992,
       "num": 166992,
       "word": "上班的胖真的很难减",
@@ -36353,6 +36417,14 @@
       "onboard_time": 1718871379,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163412,
+      "num": 163412,
+      "word": "干净又卫生",
+      "onboard_time": 1718942299,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 163402,
@@ -37321,6 +37393,14 @@
       "onboard_time": 1718185939,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159182,
+      "num": 159182,
+      "word": "迪丽热巴玫瑰wink",
+      "onboard_time": 1718943560,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 159165,
@@ -41355,6 +41435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142005,
+      "num": 142005,
+      "word": "张朝阳将直播解高考物理题",
+      "onboard_time": 1718942479,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 141897,
       "num": 141897,
       "word": "乌尔比安 难抽",
@@ -43763,6 +43851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 131843,
+      "num": 131843,
+      "word": "塔瑞斯国际服31国登顶",
+      "onboard_time": 1718943499,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 131806,
       "num": 130605,
       "word": "暗河传",
@@ -44488,6 +44584,14 @@
       "word": "粽子节快乐",
       "onboard_time": 1718001197,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129184,
+      "num": 129184,
+      "word": "Manner营业额5000元以下门店只派1员工",
+      "onboard_time": 1718943259,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -55219,6 +55323,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 58264,
+      "num": 358743,
+      "word": "一口酸汤开启夏天",
+      "onboard_time": 1718940738,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 58230,
       "num": 327819,
       "word": "无法拒绝的旅行单品",
@@ -55889,6 +56001,14 @@
       "onboard_time": 1718188218,
       "rank": 38,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 52930,
+      "num": 388324,
+      "word": "2024中国大学临床医学哪家强",
+      "onboard_time": 1718942419,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 52690,
@@ -57420,7 +57540,7 @@
     },
     {
       "raw_hot": 39284,
-      "num": 1029917,
+      "num": 1077312,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,
@@ -57489,14 +57609,6 @@
       "onboard_time": 1718112739,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38877,
-      "num": 162779,
-      "word": "一口酸汤开启夏天",
-      "onboard_time": 1718940738,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 38843,
