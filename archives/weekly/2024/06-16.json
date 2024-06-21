@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718994355529,
+  "endTime": 1718995109609,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -17827,20 +17827,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41443,
+      "num": 48559,
+      "word": "Digi大战活死人",
+      "onboard_time": 1718991493,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41225,
       "num": 475043,
       "word": "老人路边晕倒路过白衣小伙暖心搀扶",
       "onboard_time": 1718769140,
       "rank": 9,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 41018,
-      "num": 48559,
-      "word": "Digi大战活死人",
-      "onboard_time": 1718991493,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 40758,
@@ -18081,6 +18081,14 @@
       "onboard_time": 1718773222,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35722,
+      "num": 47732,
+      "word": "汪苏泷 傻瓜",
+      "onboard_time": 1718995092,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 35645,
@@ -18385,6 +18393,14 @@
       "onboard_time": 1718868738,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28780,
+      "num": 47699,
+      "word": "王者新赛季回忆系统送史诗皮",
+      "onboard_time": 1718991375,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 28529,
