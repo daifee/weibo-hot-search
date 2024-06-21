@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718969763630,
+  "endTime": 1718973320233,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -49,6 +49,14 @@
       "onboard_time": 1718798479,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2320384,
+      "num": 2320384,
+      "word": "歌手直播",
+      "onboard_time": 1718970438,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2293959,
@@ -241,6 +249,14 @@
       "onboard_time": 1718940198,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1557014,
+      "num": 1280783,
+      "word": "杨幂发表C刊",
+      "onboard_time": 1718970918,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1552761,
@@ -483,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1343622,
+      "num": 1343622,
+      "word": "那英 松弛",
+      "onboard_time": 1718972898,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1330709,
       "num": 1197084,
       "word": "猝死前一个月身体就有症状",
@@ -569,6 +593,14 @@
       "onboard_time": 1718896159,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1261657,
+      "num": 1261657,
+      "word": "颜心记开播",
+      "onboard_time": 1718970077,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1260478,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1718580916,
       "rank": 0,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 974074,
+      "num": 302785,
+      "word": "张远 紧张",
+      "onboard_time": 1718972659,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 973431,
@@ -2283,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 624046,
+      "num": 298259,
+      "word": "赵露思瘦了好多",
+      "onboard_time": 1718969778,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 623943,
       "num": 380347,
       "word": "外交部回应中国游泳运动员兴奋剂阳性",
@@ -3297,6 +3345,14 @@
       "onboard_time": 1718867239,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 493359,
+      "num": 493359,
+      "word": "Manner被曝第3起店员与顾客冲突",
+      "onboard_time": 1718967438,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493167,
@@ -4715,14 +4771,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 360212,
-      "num": 360212,
-      "word": "Manner被曝第3起店员与顾客冲突",
-      "onboard_time": 1718967438,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 360056,
       "num": 302771,
       "word": "呼和浩特一村5人遇害",
@@ -5555,6 +5603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 306689,
+      "num": 306689,
+      "word": "俄军首次对乌投放三吨级炸弹",
+      "onboard_time": 1718966777,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 306546,
       "num": 306546,
       "word": "直击南方多地暴雨现场",
@@ -5875,6 +5931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287166,
+      "num": 249553,
+      "word": "赵丽颖台湾知名度",
+      "onboard_time": 1718972058,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286942,
       "num": 286942,
       "word": "傅家明 活两集",
@@ -6001,6 +6065,14 @@
       "onboard_time": 1718527758,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282133,
+      "num": 282133,
+      "word": "秦彻 dom感",
+      "onboard_time": 1718972598,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 281332,
@@ -6561,6 +6633,14 @@
       "onboard_time": 1718851219,
       "rank": 24,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 252429,
+      "num": 252429,
+      "word": "海棠升级",
+      "onboard_time": 1718970918,
+      "rank": 19,
+      "category": "读书作家"
     },
     {
       "raw_hot": 251912,
@@ -7747,6 +7827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211987,
+      "num": 211987,
+      "word": "汪苏泷唱傻瓜是对话也是独白",
+      "onboard_time": 1718970018,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211400,
       "num": 209136,
       "word": "薛芳菲勇敢飞萧蘅永相随",
@@ -8019,6 +8107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205753,
+      "num": 205753,
+      "word": "中央宣传部副部长张建春被查",
+      "onboard_time": 1718973198,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205752,
       "num": 205752,
       "word": "小杨哥东方甄选未进618销量前10",
@@ -8233,6 +8329,14 @@
       "onboard_time": 1718687659,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202349,
+      "num": 202349,
+      "word": "歌手2024",
+      "onboard_time": 1718774721,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 202190,
@@ -9099,6 +9203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188391,
+      "num": 188391,
+      "word": "熊猫妈妈 怎么老有个盖子跟着我",
+      "onboard_time": 1718971517,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188341,
       "num": 188341,
       "word": "谁懂王星越吴谨言这段一走一跑",
@@ -9483,6 +9595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182936,
+      "num": 182936,
+      "word": "墨雨云间 能不能超点",
+      "onboard_time": 1718972419,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182749,
       "num": 182749,
       "word": "AI高考测试最高分303",
@@ -9795,14 +9915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177397,
-      "num": 177397,
-      "word": "歌手2024",
-      "onboard_time": 1718774721,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 177302,
       "num": 177302,
       "word": "易烊千玺摩登绅士",
@@ -9833,6 +9945,14 @@
       "onboard_time": 1718528357,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176864,
+      "num": 168824,
+      "word": "吴谨言拍完尚食质疑过自己",
+      "onboard_time": 1718971998,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 176851,
@@ -10155,6 +10275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170108,
+      "num": 170108,
+      "word": "恋爱兄妹",
+      "onboard_time": 1718970617,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170033,
       "num": 170033,
       "word": "凯特公开露面",
@@ -10411,6 +10539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166647,
+      "num": 166647,
+      "word": "歌手冲榜赛彩排直击",
+      "onboard_time": 1718972659,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166600,
       "num": 141160,
       "word": "天天戴隐形眼镜的人后来怎么样了",
@@ -10561,6 +10697,14 @@
       "onboard_time": 1718846957,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164301,
+      "num": 156714,
+      "word": "那英在哪 广告就在哪",
+      "onboard_time": 1718973198,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 164234,
@@ -11155,6 +11299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155565,
+      "num": 155565,
+      "word": "师父我就是您的眼睛",
+      "onboard_time": 1718972838,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155516,
       "num": 155516,
       "word": "赵一博新歌",
@@ -11385,14 +11537,6 @@
       "onboard_time": 1718800879,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152448,
-      "num": 152448,
-      "word": "俄军首次对乌投放三吨级炸弹",
-      "onboard_time": 1718966777,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 152434,
@@ -11753,6 +11897,22 @@
       "onboard_time": 1718782879,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147669,
+      "num": 147669,
+      "word": "面具姆巴佩来了",
+      "onboard_time": 1718972238,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147651,
+      "num": 495198,
+      "word": "医学专业还香不香",
+      "onboard_time": 1718968818,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 147628,
@@ -12137,6 +12297,14 @@
       "onboard_time": 1718767817,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140924,
+      "num": 140924,
+      "word": "TES夏季赛首胜",
+      "onboard_time": 1718971698,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 140841,
@@ -15203,6 +15371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95127,
+      "num": 285921,
+      "word": "在职院里读本科是怎样的体验",
+      "onboard_time": 1718972539,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 95106,
       "num": 111545,
       "word": "2023年中国毒情形势报告",
@@ -15307,6 +15483,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 92693,
+      "num": 199431,
+      "word": "刘国梁寄语国乒",
+      "onboard_time": 1718973259,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92586,
       "num": 92586,
       "word": "BLG对战WE",
@@ -15400,14 +15584,6 @@
       "word": "法学学士保安欢迎大家报考厦大",
       "onboard_time": 1718613017,
       "rank": 18,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 90142,
-      "num": 495198,
-      "word": "医学专业还香不香",
-      "onboard_time": 1718968818,
-      "rank": 9,
       "category": "教育"
     },
     {
@@ -17092,7 +17268,7 @@
     },
     {
       "raw_hot": 39284,
-      "num": 1088617,
+      "num": 1288174,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,

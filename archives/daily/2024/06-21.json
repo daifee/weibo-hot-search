@@ -1,7 +1,15 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718969763630,
+  "endTime": 1718973320233,
   "band_list": [
+    {
+      "raw_hot": 2320384,
+      "num": 2320384,
+      "word": "歌手直播",
+      "onboard_time": 1718970438,
+      "rank": 0,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1666400,
       "num": 1666400,
@@ -25,6 +33,14 @@
       "onboard_time": 1718940198,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1557014,
+      "num": 1280783,
+      "word": "杨幂发表C刊",
+      "onboard_time": 1718970918,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1467292,
@@ -59,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1343622,
+      "num": 1343622,
+      "word": "那英 松弛",
+      "onboard_time": 1718972898,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1268775,
       "num": 1268775,
       "word": "Manner员工月薪约5000元",
@@ -73,6 +97,14 @@
       "onboard_time": 1718896159,
       "rank": 0,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1261657,
+      "num": 1261657,
+      "word": "颜心记开播",
+      "onboard_time": 1718970077,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1260478,
@@ -177,6 +209,14 @@
       "onboard_time": 1718927236,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 974074,
+      "num": 302785,
+      "word": "张远 紧张",
+      "onboard_time": 1718972659,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 969354,
@@ -387,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 624046,
+      "num": 298259,
+      "word": "赵露思瘦了好多",
+      "onboard_time": 1718969778,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 616538,
       "num": 616538,
       "word": "疑Manner店员与顾客互扇耳光",
@@ -521,6 +569,14 @@
       "onboard_time": 1718889799,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 493359,
+      "num": 493359,
+      "word": "Manner被曝第3起店员与顾客冲突",
+      "onboard_time": 1718967438,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 491573,
@@ -699,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 360212,
-      "num": 360212,
-      "word": "Manner被曝第3起店员与顾客冲突",
-      "onboard_time": 1718967438,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358349,
       "num": 358349,
       "word": "汪苏泷回应体重140斤的原因",
@@ -835,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 306689,
+      "num": 306689,
+      "word": "俄军首次对乌投放三吨级炸弹",
+      "onboard_time": 1718966777,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 297829,
       "num": 297829,
       "word": "姆巴佩面具来了",
@@ -867,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287166,
+      "num": 249553,
+      "word": "赵丽颖台湾知名度",
+      "onboard_time": 1718972058,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284793,
       "num": 284793,
       "word": "恋与深空男主吻技",
@@ -881,6 +945,14 @@
       "onboard_time": 1718930778,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282133,
+      "num": 282133,
+      "word": "秦彻 dom感",
+      "onboard_time": 1718972598,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 278928,
@@ -953,6 +1025,14 @@
       "onboard_time": 1718928437,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 252429,
+      "num": 252429,
+      "word": "海棠升级",
+      "onboard_time": 1718970918,
+      "rank": 19,
+      "category": "读书作家"
     },
     {
       "raw_hot": 251912,
@@ -1195,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211987,
+      "num": 211987,
+      "word": "汪苏泷唱傻瓜是对话也是独白",
+      "onboard_time": 1718970018,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210543,
       "num": 155129,
       "word": "人体3处淋巴没事常揉揉",
@@ -1283,6 +1371,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 205753,
+      "num": 205753,
+      "word": "中央宣传部副部长张建春被查",
+      "onboard_time": 1718973198,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205664,
       "num": 205664,
       "word": "还好十个勤天熬过来了",
@@ -1337,6 +1433,14 @@
       "onboard_time": 1718954479,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202349,
+      "num": 202349,
+      "word": "歌手2024",
+      "onboard_time": 1718972358,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 200622,
@@ -1467,6 +1571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188391,
+      "num": 188391,
+      "word": "熊猫妈妈 怎么老有个盖子跟着我",
+      "onboard_time": 1718971517,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187431,
       "num": 187431,
       "word": "沈月露肩球衣",
@@ -1497,6 +1609,14 @@
       "onboard_time": 1718943138,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182936,
+      "num": 182936,
+      "word": "墨雨云间 能不能超点",
+      "onboard_time": 1718972419,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 181077,
@@ -1539,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176864,
+      "num": 168824,
+      "word": "吴谨言拍完尚食质疑过自己",
+      "onboard_time": 1718971998,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174207,
       "num": 174207,
       "word": "猫 这个破玩具我都不想说了",
@@ -1576,6 +1704,14 @@
       "word": "快乐老友记",
       "onboard_time": 1718949139,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 170108,
+      "num": 170108,
+      "word": "恋爱兄妹",
+      "onboard_time": 1718970617,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -1627,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166647,
+      "num": 166647,
+      "word": "歌手冲榜赛彩排直击",
+      "onboard_time": 1718972659,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 166327,
       "num": 166327,
       "word": "世界之外肯德基联名",
@@ -1657,6 +1801,14 @@
       "onboard_time": 1718954419,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164301,
+      "num": 156714,
+      "word": "那英在哪 广告就在哪",
+      "onboard_time": 1718973198,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 163412,
@@ -1723,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155565,
+      "num": 155565,
+      "word": "师父我就是您的眼睛",
+      "onboard_time": 1718972838,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155516,
       "num": 155516,
       "word": "赵一博新歌",
@@ -1761,14 +1921,6 @@
       "onboard_time": 1718865197,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152448,
-      "num": 152448,
-      "word": "俄军首次对乌投放三吨级炸弹",
-      "onboard_time": 1718966777,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 152000,
@@ -1859,6 +2011,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147669,
+      "num": 147669,
+      "word": "面具姆巴佩来了",
+      "onboard_time": 1718972238,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147651,
+      "num": 495198,
+      "word": "医学专业还香不香",
+      "onboard_time": 1718968818,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147576,
       "num": 147576,
       "word": "成都在建地铁路面坍塌暂无人员伤亡",
@@ -1921,6 +2089,14 @@
       "onboard_time": 1718942479,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 140924,
+      "num": 140924,
+      "word": "TES夏季赛首胜",
+      "onboard_time": 1718971698,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 138455,
@@ -2179,6 +2355,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95127,
+      "num": 285921,
+      "word": "在职院里读本科是怎样的体验",
+      "onboard_time": 1718972539,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 92693,
+      "num": 199431,
+      "word": "刘国梁寄语国乒",
+      "onboard_time": 1718973259,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92258,
       "num": 458068,
       "word": "电竞解说专业值不值得报考",
@@ -2201,14 +2393,6 @@
       "onboard_time": 1718943980,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90142,
-      "num": 495198,
-      "word": "医学专业还香不香",
-      "onboard_time": 1718968818,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 89411,
@@ -2724,7 +2908,7 @@
     },
     {
       "raw_hot": 10662,
-      "num": 1088617,
+      "num": 1288174,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 2,
