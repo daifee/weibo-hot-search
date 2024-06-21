@@ -1,0 +1,410 @@
+{
+  "runTime": 1718983587227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3707313,
+        "num": 3707313,
+        "word": "那英竟然第七",
+        "onboard_time": 1718979802,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1626983,
+        "num": 1626983,
+        "word": "汪苏泷又好听了",
+        "onboard_time": 1718977822,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38514,
+        "num": 1448194,
+        "word": "全天候直播解读2024高考招生",
+        "onboard_time": 1718975061,
+        "rank": 2,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1352854,
+        "num": 1352854,
+        "word": "Manner发表声明",
+        "onboard_time": 1718979684,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1121188,
+        "num": 1121188,
+        "word": "赵露思甜品店 泡芙36一个",
+        "onboard_time": 1718981720,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585053,
+        "num": 1040013,
+        "word": "4小孩故意砸车家长拒不赔偿",
+        "onboard_time": 1718979984,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1017673,
+        "num": 1017673,
+        "word": "歌手排名",
+        "onboard_time": 1718979201,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 482360,
+        "num": 957299,
+        "word": "美国一护士用水给患者输液致16死",
+        "onboard_time": 1718976863,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52781,
+        "num": 956816,
+        "word": "张真源速度有了颜色错了",
+        "onboard_time": 1718974943,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32953,
+        "num": 956760,
+        "word": "小哥身绑消防水带从天而降救人",
+        "onboard_time": 1718982860,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 956736,
+        "num": 956736,
+        "word": "黄霄雲冲榜凡希亚",
+        "onboard_time": 1718976621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 894068,
+        "num": 894068,
+        "word": "耳帝 歌手最差的一期吧",
+        "onboard_time": 1718982080,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418115,
+        "num": 418115,
+        "word": "00后女孩离职删软件被公司威胁起诉",
+        "onboard_time": 1718951118,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376101,
+        "num": 376101,
+        "word": "中央财政紧急下达1.05亿元抢修公路",
+        "onboard_time": 1718973859,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323962,
+        "num": 323962,
+        "word": "Manner咖啡",
+        "onboard_time": 1718961379,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831567,
+        "num": 320000,
+        "word": "黄霄雲冲榜失败",
+        "onboard_time": 1718980225,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 769666,
+        "num": 318245,
+        "word": "张远 紧张",
+        "onboard_time": 1718972659,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302684,
+        "num": 302684,
+        "word": "祖国必须统一也必然统一",
+        "onboard_time": 1718964977,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300520,
+        "num": 300520,
+        "word": "福宝用上了晾衣杆",
+        "onboard_time": 1718980942,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 296716,
+        "num": 296716,
+        "word": "斯洛伐克vs乌克兰",
+        "onboard_time": 1718975600,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 770383,
+        "num": 294142,
+        "word": "杨幂发表C刊",
+        "onboard_time": 1718970918,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740793,
+        "num": 291660,
+        "word": "胡海泉 淘汰",
+        "onboard_time": 1718978245,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 681361,
+        "num": 285404,
+        "word": "歌手排名 谁写的剧本",
+        "onboard_time": 1718981181,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311460,
+        "num": 282012,
+        "word": "经常吃馒头和经常吃面包哪个更健康",
+        "onboard_time": 1718978544,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280823,
+        "num": 280823,
+        "word": "Manner门店数飞速扩张",
+        "onboard_time": 1718982922,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595298,
+        "num": 258899,
+        "word": "黄霄雲哭了",
+        "onboard_time": 1718980701,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531368,
+        "num": 234426,
+        "word": "张远 几乎清唱",
+        "onboard_time": 1718974340,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509640,
+        "num": 208268,
+        "word": "汪苏泷又走不了了",
+        "onboard_time": 1718979984,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476865,
+        "num": 185974,
+        "word": "歌手直播",
+        "onboard_time": 1718970438,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180690,
+        "num": 180690,
+        "word": "秦彻 dom感",
+        "onboard_time": 1718972598,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 383057,
+        "num": 176299,
+        "word": "黄宣太好听了",
+        "onboard_time": 1718976322,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353770,
+        "num": 175364,
+        "word": "张远冲榜失败",
+        "onboard_time": 1718974521,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171314,
+        "num": 171314,
+        "word": "2024高考成绩公布时间汇总",
+        "onboard_time": 1718982320,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161765,
+        "num": 161765,
+        "word": "100斤减到120斤的秘诀",
+        "onboard_time": 1718962998,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137473,
+        "num": 161607,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 342462,
+        "num": 161092,
+        "word": "袁娅维 炫技",
+        "onboard_time": 1718975541,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275619,
+        "num": 160934,
+        "word": "玫瑰的故事 各平台现状",
+        "onboard_time": 1718982381,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135351,
+        "num": 160401,
+        "word": "专家称社会缺分手文化",
+        "onboard_time": 1718976261,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127252,
+        "num": 160163,
+        "word": "海棠升级",
+        "onboard_time": 1718970918,
+        "rank": 38,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 120201,
+        "num": 159778,
+        "word": "疑Manner店员与顾客互扇耳光",
+        "onboard_time": 1718964079,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258269,
+        "num": 159186,
+        "word": "颜心记开播",
+        "onboard_time": 1718970077,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225878,
+        "num": 158921,
+        "word": "Jennie陈冠希合照",
+        "onboard_time": 1718966777,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208398,
+        "num": 158544,
+        "word": "有本事把那英淘汰了",
+        "onboard_time": 1718983160,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204318,
+        "num": 158300,
+        "word": "山寨周杰伦票价贵过本人",
+        "onboard_time": 1718981002,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174861,
+        "num": 157728,
+        "word": "鞠婧祎 丝芭",
+        "onboard_time": 1718983520,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115655,
+        "num": 157581,
+        "word": "Manner店员火气如此大是偶然吗",
+        "onboard_time": 1718975420,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112299,
+        "num": 157182,
+        "word": "动物医学学姐说毕业不愁找工作",
+        "onboard_time": 1718983399,
+        "rank": 46,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 107842,
+        "num": 156563,
+        "word": "刘国梁寄语国乒",
+        "onboard_time": 1718973259,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104690,
+        "num": 156178,
+        "word": "Manner被曝第3起店员与顾客冲突",
+        "onboard_time": 1718967438,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94168,
+        "num": 156155,
+        "word": "Manner咖啡将优化门店运营安排",
+        "onboard_time": 1718979923,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设黄河流域生态保护和高质量发展先行区#"
+    }
+  }
+}

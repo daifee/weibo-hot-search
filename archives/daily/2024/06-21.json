@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718980533278,
+  "endTime": 1718983587227,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1121188,
+      "num": 1121188,
+      "word": "赵露思甜品店 泡芙36一个",
+      "onboard_time": 1718981720,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1073875,
       "num": 1073875,
       "word": "恋与深空秦彻",
@@ -379,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 894068,
+      "num": 894068,
+      "word": "耳帝 歌手最差的一期吧",
+      "onboard_time": 1718982080,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 872645,
       "num": 227905,
       "word": "汪苏泷把歌手总结完了",
@@ -497,6 +513,14 @@
       "onboard_time": 1718880138,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 681361,
+      "num": 285404,
+      "word": "歌手排名 谁写的剧本",
+      "onboard_time": 1718981181,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 677742,
@@ -627,6 +651,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595298,
+      "num": 258899,
+      "word": "黄霄雲哭了",
+      "onboard_time": 1718980701,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 585053,
+      "num": 1052926,
+      "word": "4小孩故意砸车家长拒不赔偿",
+      "onboard_time": 1718979984,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584288,
       "num": 584288,
       "word": "玫瑰的故事韩国宣传视频",
@@ -729,6 +769,14 @@
       "onboard_time": 1718966957,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509640,
+      "num": 401430,
+      "word": "汪苏泷又走不了了",
+      "onboard_time": 1718979984,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 507371,
@@ -921,14 +969,6 @@
       "onboard_time": 1718895980,
       "rank": 10,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 401430,
-      "num": 401430,
-      "word": "汪苏泷又走不了了",
-      "onboard_time": 1718979984,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 399879,
@@ -1155,11 +1195,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 300520,
+      "num": 300520,
+      "word": "福宝用上了晾衣杆",
+      "onboard_time": 1718980942,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 297829,
       "num": 297829,
       "word": "姆巴佩面具来了",
       "onboard_time": 1718926637,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 296716,
+      "num": 1146068,
+      "word": "斯洛伐克vs乌克兰",
+      "onboard_time": 1718975600,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1219,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280823,
+      "num": 280823,
+      "word": "Manner门店数飞速扩张",
+      "onboard_time": 1718982922,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280681,
       "num": 219097,
       "word": "那英在哪 广告就在哪",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1718943918,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 275619,
+      "num": 160934,
+      "word": "玫瑰的故事 各平台现状",
+      "onboard_time": 1718982381,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 274307,
@@ -1305,14 +1377,6 @@
       "onboard_time": 1718975420,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261740,
-      "num": 1146068,
-      "word": "斯洛伐克vs乌克兰",
-      "onboard_time": 1718975600,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 255223,
@@ -1523,14 +1587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222600,
-      "num": 1052926,
-      "word": "4小孩故意砸车家长拒不赔偿",
-      "onboard_time": 1718979984,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220962,
       "num": 220962,
       "word": "徐明浩杭州活动",
@@ -1659,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208398,
+      "num": 158544,
+      "word": "有本事把那英淘汰了",
+      "onboard_time": 1718983160,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208318,
       "num": 208318,
       "word": "歌手",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1718962337,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204318,
+      "num": 158300,
+      "word": "山寨周杰伦票价贵过本人",
+      "onboard_time": 1718981002,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 203313,
@@ -1948,7 +2020,7 @@
     },
     {
       "raw_hot": 188165,
-      "num": 196595,
+      "num": 956816,
       "word": "张真源速度有了颜色错了",
       "onboard_time": 1718974943,
       "rank": 32,
@@ -2043,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174861,
+      "num": 157728,
+      "word": "鞠婧祎 丝芭",
+      "onboard_time": 1718983520,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174207,
       "num": 174207,
       "word": "猫 这个破玩具我都不想说了",
@@ -2073,6 +2153,14 @@
       "onboard_time": 1718950880,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171314,
+      "num": 171314,
+      "word": "2024高考成绩公布时间汇总",
+      "onboard_time": 1718982320,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 170567,
@@ -2659,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112299,
+      "num": 157182,
+      "word": "动物医学学姐说毕业不愁找工作",
+      "onboard_time": 1718983399,
+      "rank": 46,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 108972,
       "num": 108972,
       "word": "多地试点地铁闸门常开模式",
@@ -3195,6 +3291,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 32953,
+      "num": 956760,
+      "word": "小哥身绑消防水带从天而降救人",
+      "onboard_time": 1718982860,
+      "rank": 9,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 31171,
       "num": 328826,
       "word": "临空乐园落地上海",
@@ -3389,6 +3493,9 @@
     },
     {
       "word": "#习近平谈民族团结进步#"
+    },
+    {
+      "word": "#建设黄河流域生态保护和高质量发展先行区#"
     }
   ]
 }
