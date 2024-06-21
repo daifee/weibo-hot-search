@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718983587227,
+  "endTime": 1718984268113,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1579,6 +1579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1501735,
+      "num": 1501735,
+      "word": "耳帝 歌手最差的一期吧",
+      "onboard_time": 1718982080,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1499480,
       "num": 1459124,
       "word": "张钰琪声音有点闷",
@@ -2979,6 +2987,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1167943,
+      "num": 1167943,
+      "word": "赵露思甜品店 泡芙36一个",
+      "onboard_time": 1718981720,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1165832,
       "num": 561560,
       "word": "肯德基锅包肉",
@@ -3305,14 +3321,6 @@
       "onboard_time": 1718689278,
       "rank": 1,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1121188,
-      "num": 1121188,
-      "word": "赵露思甜品店 泡芙36一个",
-      "onboard_time": 1718981720,
-      "rank": 4,
-      "category": "艺人"
     },
     {
       "raw_hot": 1120668,
@@ -4785,14 +4793,6 @@
       "onboard_time": 1717838658,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 894068,
-      "num": 894068,
-      "word": "耳帝 歌手最差的一期吧",
-      "onboard_time": 1718982080,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 891895,
@@ -8643,6 +8643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 617168,
+      "num": 1052926,
+      "word": "4小孩故意砸车家长拒不赔偿",
+      "onboard_time": 1718979984,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616954,
       "num": 616954,
       "word": "王楚钦vs邱党",
@@ -9425,14 +9433,6 @@
       "onboard_time": 1718113819,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 585053,
-      "num": 1052926,
-      "word": "4小孩故意砸车家长拒不赔偿",
-      "onboard_time": 1718979984,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 584984,
@@ -10523,6 +10523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 539333,
+      "num": 401430,
+      "word": "汪苏泷又走不了了",
+      "onboard_time": 1718979984,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 539121,
       "num": 539121,
       "word": "李玟遗作将公开",
@@ -11537,14 +11545,6 @@
       "onboard_time": 1718001377,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 509640,
-      "num": 401430,
-      "word": "汪苏泷又走不了了",
-      "onboard_time": 1718979984,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 509435,
@@ -17907,6 +17907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344468,
+      "num": 344468,
+      "word": "Manner门店数飞速扩张",
+      "onboard_time": 1718982922,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 344150,
       "num": 309982,
       "word": "中国海警首次登检菲律宾运补船只",
@@ -21643,14 +21651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 280823,
-      "num": 280823,
-      "word": "Manner门店数飞速扩张",
-      "onboard_time": 1718982922,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 280803,
       "num": 280803,
       "word": "逆水寒玄机CG",
@@ -22028,7 +22028,7 @@
     },
     {
       "raw_hot": 275619,
-      "num": 160934,
+      "num": 217568,
       "word": "玫瑰的故事 各平台现状",
       "onboard_time": 1718982381,
       "rank": 36,
@@ -28131,6 +28131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 210008,
+      "num": 210008,
+      "word": "鞠婧祎 丝芭",
+      "onboard_time": 1718983520,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209959,
       "num": 209959,
       "word": "Giselle中国首封",
@@ -29316,7 +29324,7 @@
     },
     {
       "raw_hot": 204318,
-      "num": 158300,
+      "num": 208731,
       "word": "山寨周杰伦票价贵过本人",
       "onboard_time": 1718981002,
       "rank": 43,
@@ -35457,14 +35465,6 @@
       "onboard_time": 1717845917,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 174861,
-      "num": 157728,
-      "word": "鞠婧祎 丝芭",
-      "onboard_time": 1718983520,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 174819,
@@ -41753,6 +41753,14 @@
       "onboard_time": 1717252339,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147512,
+      "num": 218888,
+      "word": "动物医学学姐说毕业不愁找工作",
+      "onboard_time": 1718983399,
+      "rank": 46,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 147500,
@@ -50379,14 +50387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112299,
-      "num": 157182,
-      "word": "动物医学学姐说毕业不愁找工作",
-      "onboard_time": 1718983399,
-      "rank": 46,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 112261,
       "num": 459217,
       "word": "桂江发生超历史实测纪录洪水",
@@ -53577,6 +53577,14 @@
       "onboard_time": 1718033958,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94149,
+      "num": 205130,
+      "word": "土耳其女排vs波兰女排",
+      "onboard_time": 1718981002,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94082,
@@ -59289,6 +59297,14 @@
       "onboard_time": 1717214118,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 39940,
+      "num": 418067,
+      "word": "RICKY漫画体育生照进现实",
+      "onboard_time": 1718977642,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 39830,
