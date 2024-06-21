@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719004774755,
+  "endTime": 1719005693598,
   "band_list": [
     {
       "raw_hot": 1606589,
@@ -515,6 +515,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 22097,
+      "num": 22097,
+      "word": "再晚两秒萧蘅就说服自己当后爹了",
+      "onboard_time": 1719004391,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20071,
       "num": 26709,
       "word": "never enough",
@@ -531,12 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15788,
-      "num": 18128,
-      "word": "再晚两秒萧蘅就说服自己当后爹了",
-      "onboard_time": 1719004391,
+      "raw_hot": 16675,
+      "num": 19930,
+      "word": "妻子称蔡磊越来越艰难还想护自己周全",
+      "onboard_time": 1719005230,
       "rank": 45,
-      "category": "剧集"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13486,
