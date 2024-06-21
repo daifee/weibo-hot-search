@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/21 23:37:48
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 00:23:14
 </p>
 </blockquote>
 <p>
@@ -987,6 +987,12 @@ doc和docx有什么区别（热度：1718023）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%20%E6%AD%8C%E6%89%8B%E6%9C%80%E5%B7%AE%E7%9A%84%E4%B8%80%E6%9C%9F%E5%90%A7%23" target="weibo">
+耳帝 歌手最差的一期吧（热度：1606589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E4%BB%A5%E4%B8%BA%E6%9C%89%E6%95%99%E8%B5%84%E5%B0%B1%E8%83%BD%E5%8E%BB%E5%AD%A6%E6%A0%A1%E5%BD%93%E8%80%81%E5%B8%88%23" target="weibo">
 我爸以为有教资就能去学校当老师（热度：1605492）
 </a>
@@ -1193,12 +1199,6 @@ doc和docx有什么区别（热度：1718023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E6%9C%B5%E6%80%BB%E7%97%92%E5%8F%AF%E8%83%BD%E6%9A%97%E7%A4%BA%E8%BF%995%E7%A7%8D%E9%97%AE%E9%A2%98%23" target="weibo">
 耳朵总痒可能暗示这5种问题（热度：1502394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%20%E6%AD%8C%E6%89%8B%E6%9C%80%E5%B7%AE%E7%9A%84%E4%B8%80%E6%9C%9F%E5%90%A7%23" target="weibo">
-耳帝 歌手最差的一期吧（热度：1501735）
 </a>
 </li>
 
