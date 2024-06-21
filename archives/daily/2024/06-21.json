@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718947162520,
+  "endTime": 1718948144160,
   "band_list": [
     {
       "raw_hot": 1560182,
@@ -43,6 +43,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1260478,
+      "num": 1260478,
+      "word": "吴谨言说爆剧很吓人的",
+      "onboard_time": 1718944521,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1223419,
+      "num": 475505,
+      "word": "男子强奸未遂监视居住期间杀害堂妹",
+      "onboard_time": 1718946558,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1179832,
       "num": 1179832,
       "word": "成都地铁13号线一在建站点坍塌",
@@ -56,14 +72,6 @@
       "word": "傅家明死在了黄亦玫最爱他的那一年",
       "onboard_time": 1718926937,
       "rank": 0,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1077957,
-      "num": 586963,
-      "word": "吴谨言说爆剧很吓人的",
-      "onboard_time": 1718944521,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 673338,
-      "num": 282201,
+      "num": 291247,
       "word": "建议大家有事没事就去面试",
       "onboard_time": 1718942419,
       "rank": 20,
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540270,
+      "num": 540270,
+      "word": "专家称医生35岁是收入门槛",
+      "onboard_time": 1718945300,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537687,
       "num": 537687,
       "word": "留给林一的集数不多了",
@@ -241,22 +257,6 @@
       "onboard_time": 1718889799,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 492464,
-      "num": 475505,
-      "word": "男子强奸未遂监视居住期间杀害堂妹",
-      "onboard_time": 1718946558,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
-      "raw_hot": 476824,
-      "num": 476824,
-      "word": "专家称医生35岁是收入门槛",
-      "onboard_time": 1718945300,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 475231,
@@ -305,6 +305,14 @@
       "onboard_time": 1718935338,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433995,
+      "num": 433995,
+      "word": "LOEWE全球品牌代言人王一博",
+      "onboard_time": 1718947819,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 418119,
@@ -363,12 +371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358228,
+      "num": 358228,
+      "word": "沈月cos黄昏",
+      "onboard_time": 1718945840,
+      "rank": 18,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 357900,
       "num": 357900,
       "word": "夏天过去一半了",
       "onboard_time": 1718937978,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 356385,
+      "num": 356385,
+      "word": "supernatural",
+      "onboard_time": 1718946440,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 351931,
@@ -451,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 304245,
-      "num": 304245,
-      "word": "沈月cos黄昏",
-      "onboard_time": 1718945840,
-      "rank": 18,
-      "category": "艺人,动漫"
+      "raw_hot": 300766,
+      "num": 475653,
+      "word": "初高中生为什么迷上买谷子",
+      "onboard_time": 1718946020,
+      "rank": 9,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 297829,
@@ -487,14 +511,6 @@
       "num": 284793,
       "word": "恋与深空男主吻技",
       "onboard_time": 1718942119,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 283968,
-      "num": 283968,
-      "word": "supernatural",
-      "onboard_time": 1718946440,
       "rank": 19,
       "category": "游戏"
     },
@@ -555,6 +571,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 251912,
+      "num": 251912,
+      "word": "野孩子 你千万别变成我",
+      "onboard_time": 1718946558,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 251357,
+      "num": 251357,
+      "word": "女子下班后在车里刷剧续命",
+      "onboard_time": 1718945659,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243725,
       "num": 243725,
       "word": "乘风2024五公歌单",
@@ -600,14 +632,6 @@
       "word": "Manner营业额5000元以下门店只派1员工",
       "onboard_time": 1718943259,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227754,
-      "num": 227754,
-      "word": "女子下班后在车里刷剧续命",
-      "onboard_time": 1718945659,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -787,12 +811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198127,
-      "num": 198127,
-      "word": "野孩子 你千万别变成我",
-      "onboard_time": 1718946558,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 197192,
+      "num": 197192,
+      "word": "乘风",
+      "onboard_time": 1718947338,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 196372,
@@ -801,6 +825,14 @@
       "onboard_time": 1718937619,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196333,
+      "num": 196333,
+      "word": "姜萍明日决赛",
+      "onboard_time": 1718945538,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 194907,
@@ -819,12 +851,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190258,
-      "num": 190258,
-      "word": "姜萍明日决赛",
-      "onboard_time": 1718945538,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 191214,
+      "num": 191214,
+      "word": "烟花少年 停拍",
+      "onboard_time": 1718946979,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 188670,
@@ -859,8 +891,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 173579,
-      "num": 173579,
+      "raw_hot": 174207,
+      "num": 174207,
       "word": "猫 这个破玩具我都不想说了",
       "onboard_time": 1718945119,
       "rank": 38,
@@ -881,14 +913,6 @@
       "onboard_time": 1718927118,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167788,
-      "num": 475653,
-      "word": "初高中生为什么迷上买谷子",
-      "onboard_time": 1718946020,
-      "rank": 9,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 167431,
@@ -915,6 +939,14 @@
       "category": "游戏,美食"
     },
     {
+      "raw_hot": 165605,
+      "num": 165605,
+      "word": "种地吧",
+      "onboard_time": 1718947159,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163412,
       "num": 163412,
       "word": "干净又卫生",
@@ -929,14 +961,6 @@
       "onboard_time": 1718931679,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 159508,
-      "num": 159508,
-      "word": "烟花少年 停拍",
-      "onboard_time": 1718946979,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 158421,
@@ -1275,6 +1299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90764,
+      "num": 475238,
+      "word": "如何正确地浪费时间",
+      "onboard_time": 1718943980,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89411,
       "num": 528550,
       "word": "暴雨天气实用防御指南",
@@ -1403,14 +1435,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 62789,
-      "num": 475238,
-      "word": "如何正确地浪费时间",
-      "onboard_time": 1718943980,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 60417,
       "num": 186454,
       "word": "熊猫宝宝的胖jiojio也太灵活了",
@@ -1459,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47717,
+      "num": 288974,
+      "word": "奥迪A8L与时间同行",
+      "onboard_time": 1718944640,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46093,
       "num": 187670,
       "word": "34岁妈妈走出家4年跑17000公里",
@@ -1483,14 +1515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39381,
-      "num": 267141,
-      "word": "奥迪A8L与时间同行",
-      "onboard_time": 1718944640,
-      "rank": 21,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 35645,
       "num": 35645,
       "word": "能预知灾难是幸运还是不幸",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1718905214,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29592,
+      "num": 479247,
+      "word": "雨夜杭州街头抬车救人太暖了",
+      "onboard_time": 1718945420,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 27753,
@@ -1571,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13079,
+      "num": 133992,
+      "word": "为什么明星营业照都是自拍",
+      "onboard_time": 1718948059,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13072,
       "num": 217040,
       "word": "印度试运行世界最高铁路桥",
@@ -1628,6 +1668,9 @@
     },
     {
       "word": "#五十六个民族凝聚在一起就是中华民族共同体#"
+    },
+    {
+      "word": "#五十六个民族要像石榴籽一样紧紧抱在一起#"
     }
   ]
 }

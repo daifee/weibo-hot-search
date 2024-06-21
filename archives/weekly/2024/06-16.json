@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718947162520,
+  "endTime": 1718948144160,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -539,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1260478,
+      "num": 1260478,
+      "word": "吴谨言说爆剧很吓人的",
+      "onboard_time": 1718944521,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1257993,
       "num": 1257993,
       "word": "冒烤鸭店铺正在批量倒闭",
@@ -609,6 +617,14 @@
       "onboard_time": 1718776101,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1223419,
+      "num": 475505,
+      "word": "男子强奸未遂监视居住期间杀害堂妹",
+      "onboard_time": 1718946558,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 1213698,
@@ -856,14 +872,6 @@
       "word": "米卡 黄亦玫的第五个男生",
       "onboard_time": 1718683579,
       "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1077957,
-      "num": 586963,
-      "word": "吴谨言说爆剧很吓人的",
-      "onboard_time": 1718944521,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -1892,7 +1900,7 @@
     },
     {
       "raw_hot": 673338,
-      "num": 282201,
+      "num": 291247,
       "word": "建议大家有事没事就去面试",
       "onboard_time": 1718942419,
       "rank": 20,
@@ -2603,6 +2611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 540270,
+      "num": 540270,
+      "word": "专家称医生35岁是收入门槛",
+      "onboard_time": 1718945300,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 539664,
       "num": 539664,
       "word": "真的建议报考上海交通大学",
@@ -3035,14 +3051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 492464,
-      "num": 475505,
-      "word": "男子强奸未遂监视居住期间杀害堂妹",
-      "onboard_time": 1718946558,
-      "rank": 10,
-      "category": "社会负面"
-    },
-    {
       "raw_hot": 492202,
       "num": 492202,
       "word": "住持和女主播发生关系被敲诈案宣判",
@@ -3129,14 +3137,6 @@
       "onboard_time": 1718673198,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 476824,
-      "num": 476824,
-      "word": "专家称医生35岁是收入门槛",
-      "onboard_time": 1718945300,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 476064,
@@ -3537,6 +3537,14 @@
       "onboard_time": 1718767698,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433995,
+      "num": 433995,
+      "word": "LOEWE全球品牌代言人王一博",
+      "onboard_time": 1718947819,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 433786,
@@ -4403,6 +4411,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 358228,
+      "num": 358228,
+      "word": "沈月cos黄昏",
+      "onboard_time": 1718945840,
+      "rank": 18,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 358059,
       "num": 358059,
       "word": "俄客机在北极紧急迫降断成两截",
@@ -4449,6 +4465,14 @@
       "onboard_time": 1718888899,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 356385,
+      "num": 356385,
+      "word": "supernatural",
+      "onboard_time": 1718946440,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 355670,
@@ -5235,14 +5259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304245,
-      "num": 304245,
-      "word": "沈月cos黄昏",
-      "onboard_time": 1718945840,
-      "rank": 18,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 304016,
       "num": 290242,
       "word": "刘亦菲发黄玫瑰微博表情",
@@ -5265,6 +5281,14 @@
       "onboard_time": 1718799620,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300766,
+      "num": 475653,
+      "word": "初高中生为什么迷上买谷子",
+      "onboard_time": 1718946020,
+      "rank": 9,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 300250,
@@ -5553,14 +5577,6 @@
       "onboard_time": 1718719459,
       "rank": 23,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 283968,
-      "num": 283968,
-      "word": "supernatural",
-      "onboard_time": 1718946440,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 283807,
@@ -6163,12 +6179,28 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 251912,
+      "num": 251912,
+      "word": "野孩子 你千万别变成我",
+      "onboard_time": 1718946558,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251391,
       "num": 251391,
       "word": "Lisa新歌ROCKSTAR预告照",
       "onboard_time": 1718887878,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 251357,
+      "num": 251357,
+      "word": "女子下班后在车里刷剧续命",
+      "onboard_time": 1718945659,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251005,
@@ -6729,14 +6761,6 @@
       "onboard_time": 1718686880,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227754,
-      "num": 227754,
-      "word": "女子下班后在车里刷剧续命",
-      "onboard_time": 1718945659,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 227605,
@@ -7891,14 +7915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198127,
-      "num": 198127,
-      "word": "野孩子 你千万别变成我",
-      "onboard_time": 1718946558,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 198001,
       "num": 198001,
       "word": "林俊杰的弹跳力",
@@ -7937,6 +7953,14 @@
       "onboard_time": 1718543240,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197192,
+      "num": 197192,
+      "word": "乘风",
+      "onboard_time": 1718947338,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 197092,
@@ -8009,6 +8033,14 @@
       "onboard_time": 1718937619,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196333,
+      "num": 196333,
+      "word": "姜萍明日决赛",
+      "onboard_time": 1718945538,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196191,
@@ -8347,6 +8379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191214,
+      "num": 191214,
+      "word": "烟花少年 停拍",
+      "onboard_time": 1718946979,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191105,
       "num": 191105,
       "word": "凯尔特人18冠超湖人",
@@ -8427,14 +8467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190258,
-      "num": 190258,
-      "word": "姜萍明日决赛",
-      "onboard_time": 1718945538,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190114,
       "num": 190114,
       "word": "以色列总理住处遭冲击",
@@ -8444,7 +8476,7 @@
     },
     {
       "raw_hot": 190090,
-      "num": 161114,
+      "num": 165605,
       "word": "种地吧",
       "onboard_time": 1718467879,
       "rank": 23,
@@ -9315,6 +9347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 174207,
+      "num": 174207,
+      "word": "猫 这个破玩具我都不想说了",
+      "onboard_time": 1718945119,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174130,
       "num": 127639,
       "word": "刘浩存文淇找惠英红合照",
@@ -9345,14 +9385,6 @@
       "onboard_time": 1718621598,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 173579,
-      "num": 173579,
-      "word": "猫 这个破玩具我都不想说了",
-      "onboard_time": 1718945119,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 173402,
@@ -9649,14 +9681,6 @@
       "onboard_time": 1718676437,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167788,
-      "num": 475653,
-      "word": "初高中生为什么迷上买谷子",
-      "onboard_time": 1718946020,
-      "rank": 9,
-      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 167454,
@@ -10144,14 +10168,6 @@
       "word": "季淑然剁父亲手臂有两版剧本",
       "onboard_time": 1718526017,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 159508,
-      "num": 159508,
-      "word": "烟花少年 停拍",
-      "onboard_time": 1718946979,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -14499,6 +14515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90764,
+      "num": 475238,
+      "word": "如何正确地浪费时间",
+      "onboard_time": 1718943980,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90559,
       "num": 90559,
       "word": "给500块的公猫找了个2000块的老婆",
@@ -15299,14 +15323,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 62789,
-      "num": 475238,
-      "word": "如何正确地浪费时间",
-      "onboard_time": 1718943980,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62756,
       "num": 992373,
       "word": "全国首个核能供汽投产",
@@ -15787,6 +15803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47717,
+      "num": 288974,
+      "word": "奥迪A8L与时间同行",
+      "onboard_time": 1718944640,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46932,
       "num": 324202,
       "word": "大学毕业典礼的国风氛围感绝了",
@@ -16089,14 +16113,6 @@
       "onboard_time": 1718699778,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39381,
-      "num": 267141,
-      "word": "奥迪A8L与时间同行",
-      "onboard_time": 1718944640,
-      "rank": 21,
-      "category": "汽车"
     },
     {
       "raw_hot": 39284,
@@ -16503,6 +16519,14 @@
       "num": 306397,
       "word": "平常心对待姜萍不要过度造神",
       "onboard_time": 1718640917,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 29592,
+      "num": 479247,
+      "word": "雨夜杭州街头抬车救人太暖了",
+      "onboard_time": 1718945420,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -17155,6 +17179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 13079,
+      "num": 133992,
+      "word": "为什么明星营业照都是自拍",
+      "onboard_time": 1718948059,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13072,
       "num": 217040,
       "word": "印度试运行世界最高铁路桥",
@@ -17395,6 +17427,9 @@
     },
     {
       "word": "#五十六个民族凝聚在一起就是中华民族共同体#"
+    },
+    {
+      "word": "#五十六个民族要像石榴籽一样紧紧抱在一起#"
     }
   ]
 }

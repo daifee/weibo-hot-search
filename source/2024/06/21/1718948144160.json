@@ -1,0 +1,410 @@
+{
+  "runTime": 1718948144160,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260478,
+        "num": 1260478,
+        "word": "吴谨言说爆剧很吓人的",
+        "onboard_time": 1718944521,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540270,
+        "num": 540270,
+        "word": "专家称医生35岁是收入门槛",
+        "onboard_time": 1718945300,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7372,
+        "num": 536185,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 960065,
+        "num": 529597,
+        "word": "陈妍希周柯宇 体型差",
+        "onboard_time": 1718942838,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 693046,
+        "num": 523264,
+        "word": "性侵中国女游客的韩酒店员工已被捕",
+        "onboard_time": 1718940678,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634259,
+        "num": 512394,
+        "word": "26岁考编8次终于上岸异地县城",
+        "onboard_time": 1718939719,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 810399,
+        "num": 504986,
+        "word": "不是爽剧但还是爆了",
+        "onboard_time": 1718940198,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577261,
+        "num": 496282,
+        "word": "美国Manner事件",
+        "onboard_time": 1718941458,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545946,
+        "num": 486712,
+        "word": "Manner员工月薪约5000元",
+        "onboard_time": 1718930478,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29592,
+        "num": 479247,
+        "word": "雨夜杭州街头抬车救人太暖了",
+        "onboard_time": 1718945420,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223419,
+        "num": 470257,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 10,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 90764,
+        "num": 459453,
+        "word": "如何正确地浪费时间",
+        "onboard_time": 1718943980,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 459323,
+        "num": 459323,
+        "word": "沈学士毁了自己恶心了别人",
+        "onboard_time": 1718943918,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433995,
+        "num": 433995,
+        "word": "LOEWE全球品牌代言人王一博",
+        "onboard_time": 1718947819,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 358228,
+        "num": 358228,
+        "word": "沈月cos黄昏",
+        "onboard_time": 1718945840,
+        "rank": 14,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 356385,
+        "num": 356385,
+        "word": "supernatural",
+        "onboard_time": 1718946440,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 345295,
+        "num": 345295,
+        "word": "刘亦菲喝酒戏是真喝",
+        "onboard_time": 1718942659,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314435,
+        "num": 314435,
+        "word": "经常缺觉的人全身都处于炎症状态",
+        "onboard_time": 1718930537,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300766,
+        "num": 300766,
+        "word": "初高中生为什么迷上买谷子",
+        "onboard_time": 1718946020,
+        "rank": 18,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 293044,
+        "num": 293044,
+        "word": "自制假茅台被打假办鉴定为真",
+        "onboard_time": 1718944340,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568281,
+        "num": 291247,
+        "word": "建议大家有事没事就去面试",
+        "onboard_time": 1718942419,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332284,
+        "num": 291139,
+        "word": "王菲问王一博这么晚还不到",
+        "onboard_time": 1718928017,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47717,
+        "num": 288974,
+        "word": "奥迪A8L与时间同行",
+        "onboard_time": 1718944640,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288857,
+        "num": 288857,
+        "word": "Manner男店员掌掴女顾客附近商家发声",
+        "onboard_time": 1718927236,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255758,
+        "num": 255758,
+        "word": "傅家明死在了黄亦玫最爱他的那一年",
+        "onboard_time": 1718926937,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251912,
+        "num": 251912,
+        "word": "野孩子 你千万别变成我",
+        "onboard_time": 1718946558,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 251357,
+        "num": 251357,
+        "word": "女子下班后在车里刷剧续命",
+        "onboard_time": 1718945659,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224497,
+        "num": 224497,
+        "word": "冬至吃饺子那夏至吃什么",
+        "onboard_time": 1718943918,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206800,
+        "num": 206800,
+        "word": "登陆计划投票",
+        "onboard_time": 1718944160,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206792,
+        "num": 206792,
+        "word": "导演说刘亦菲美而不自知",
+        "onboard_time": 1718944281,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204249,
+        "num": 204249,
+        "word": "Manner营业额5000元以下门店只派1员工",
+        "onboard_time": 1718943259,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203792,
+        "num": 203792,
+        "word": "网红刘庸复更",
+        "onboard_time": 1718940618,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197192,
+        "num": 197192,
+        "word": "乘风",
+        "onboard_time": 1718947338,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196333,
+        "num": 196333,
+        "word": "姜萍明日决赛",
+        "onboard_time": 1718945538,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191214,
+        "num": 191214,
+        "word": "烟花少年 停拍",
+        "onboard_time": 1718946979,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187674,
+        "num": 187674,
+        "word": "恋与深空男主吻技",
+        "onboard_time": 1718942119,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181548,
+        "num": 181548,
+        "word": "墨雨云间35",
+        "onboard_time": 1718944880,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178334,
+        "num": 178334,
+        "word": "恋与深空亲亲卡",
+        "onboard_time": 1718940618,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 174207,
+        "num": 174207,
+        "word": "猫 这个破玩具我都不想说了",
+        "onboard_time": 1718945119,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131859,
+        "num": 167648,
+        "word": "夏天过去一半了",
+        "onboard_time": 1718937978,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165605,
+        "num": 165605,
+        "word": "种地吧",
+        "onboard_time": 1718947159,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153620,
+        "num": 153620,
+        "word": "傅家明一开始就暗示自己有病了",
+        "onboard_time": 1718933418,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151533,
+        "num": 151533,
+        "word": "梅西状态",
+        "onboard_time": 1718935639,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144875,
+        "num": 144875,
+        "word": "成都地铁13号线一在建站点坍塌",
+        "onboard_time": 1718933118,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136836,
+        "num": 136836,
+        "word": "歌手",
+        "onboard_time": 1718944040,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135891,
+        "num": 135891,
+        "word": "留给林一的集数不多了",
+        "onboard_time": 1718937677,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13079,
+        "num": 133992,
+        "word": "为什么明星营业照都是自拍",
+        "onboard_time": 1718948059,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133473,
+        "num": 133473,
+        "word": "乘风五公",
+        "onboard_time": 1718945600,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129964,
+        "num": 129964,
+        "word": "恋与深空古茗联名",
+        "onboard_time": 1718940798,
+        "rank": 48,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 127139,
+        "num": 127139,
+        "word": "会恋爱和不会恋爱的人的区别",
+        "onboard_time": 1718940258,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#五十六个民族要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
