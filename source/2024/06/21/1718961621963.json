@@ -1,0 +1,410 @@
+{
+  "runTime": 1718961621963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1334257,
+        "num": 1334257,
+        "word": "00后女孩离职删软件被公司威胁起诉",
+        "onboard_time": 1718951118,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1208175,
+        "num": 1208175,
+        "word": "西安银行副行长狄浩坠楼身亡",
+        "onboard_time": 1718957417,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8476,
+        "num": 1088617,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1064000,
+        "num": 1064000,
+        "word": "阮经天 妈妈变成蝴蝶了",
+        "onboard_time": 1718958858,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 940319,
+        "num": 940319,
+        "word": "六公主发了7条吴谨言",
+        "onboard_time": 1718950697,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 802891,
+        "num": 802891,
+        "word": "45岁的二胎妈妈融不进家长群",
+        "onboard_time": 1718957718,
+        "rank": 5,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 641281,
+        "num": 641281,
+        "word": "黄仁俊ins道歉",
+        "onboard_time": 1718958978,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542854,
+        "num": 542854,
+        "word": "对台独分裂行径有了具体定罪量刑标准",
+        "onboard_time": 1718955739,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 520333,
+        "num": 520333,
+        "word": "玫瑰的故事 开放式结局",
+        "onboard_time": 1718956578,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58045,
+        "num": 478716,
+        "word": "医学生毕业后去哪了",
+        "onboard_time": 1718960417,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 545746,
+        "num": 476069,
+        "word": "14岁学生继承超25亿市值股票",
+        "onboard_time": 1718953098,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454796,
+        "num": 454796,
+        "word": "余承东官宣纯血鸿蒙正式开启beta测试",
+        "onboard_time": 1718955858,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 454577,
+        "num": 454577,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 417000,
+        "num": 417000,
+        "word": "刘诗诗穿ES",
+        "onboard_time": 1718959880,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 4499,
+        "num": 398117,
+        "word": "学医只能做医生吗",
+        "onboard_time": 1718960417,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 385796,
+        "num": 385796,
+        "word": "恋与深空律师声明",
+        "onboard_time": 1718959278,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385539,
+        "num": 385539,
+        "word": "王星越换叼玉佩头像",
+        "onboard_time": 1718957898,
+        "rank": 16,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 34046,
+        "num": 384824,
+        "word": "纯血鸿蒙将设备性能提升30%",
+        "onboard_time": 1718960538,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33392,
+        "num": 384797,
+        "word": "纯血鸿蒙将重构操作系统安全体系",
+        "onboard_time": 1718959099,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 384772,
+        "num": 384772,
+        "word": "黄亦玫离婚美甲",
+        "onboard_time": 1718950337,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 583938,
+        "num": 359397,
+        "word": "终于明白老员工为什么不愿意带新人",
+        "onboard_time": 1718957598,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424102,
+        "num": 341335,
+        "word": "INFJ是个情绪稳定的疯子",
+        "onboard_time": 1718956518,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320505,
+        "num": 320505,
+        "word": "初高中生为什么迷上买谷子",
+        "onboard_time": 1718946020,
+        "rank": 22,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 292208,
+        "num": 292208,
+        "word": "Manner咖啡",
+        "onboard_time": 1718961379,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288350,
+        "num": 288350,
+        "word": "于正 墨雨云间花了两个多亿",
+        "onboard_time": 1718951418,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270453,
+        "num": 270453,
+        "word": "黄亦玫跟女儿解释离婚",
+        "onboard_time": 1718959458,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247356,
+        "num": 247356,
+        "word": "赵一博直播",
+        "onboard_time": 1718960898,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241034,
+        "num": 241034,
+        "word": "古茗员工碎了",
+        "onboard_time": 1718950880,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238247,
+        "num": 238247,
+        "word": "张雪峰建议北京文科女生不要出京",
+        "onboard_time": 1718958018,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230364,
+        "num": 230364,
+        "word": "白玉兰奖提名VCR",
+        "onboard_time": 1718960417,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213470,
+        "num": 213470,
+        "word": "张雪峰称会计专业与数学好坏无关",
+        "onboard_time": 1718957358,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 212907,
+        "num": 212907,
+        "word": "恋爱脑已老实梅超风求放过",
+        "onboard_time": 1718959639,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208758,
+        "num": 208758,
+        "word": "陈楚生给张远打call",
+        "onboard_time": 1718960780,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206281,
+        "num": 206281,
+        "word": "男童拿糖后说谎店主无奈下跪认错",
+        "onboard_time": 1718950938,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192446,
+        "num": 192446,
+        "word": "崛起吧涂山璟",
+        "onboard_time": 1718950278,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182635,
+        "num": 182635,
+        "word": "看见工资的那一刻弯着的腰终于断了",
+        "onboard_time": 1718957297,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181077,
+        "num": 181077,
+        "word": "于正他来真的",
+        "onboard_time": 1718961078,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170524,
+        "num": 170524,
+        "word": "SM称黄仁俊正在反省",
+        "onboard_time": 1718957778,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167940,
+        "num": 167940,
+        "word": "登陆计划投票",
+        "onboard_time": 1718944160,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10578,
+        "num": 167797,
+        "word": "54位法学毕业生的薪资",
+        "onboard_time": 1718961258,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167662,
+        "num": 167662,
+        "word": "恋与深空秦彻",
+        "onboard_time": 1718949499,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 163294,
+        "num": 163294,
+        "word": "建议大家有事没事就去面试",
+        "onboard_time": 1718942419,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162409,
+        "num": 162409,
+        "word": "夏以昼呢",
+        "onboard_time": 1718960298,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119363,
+        "num": 158549,
+        "word": "刘诗诗Qeelin活动",
+        "onboard_time": 1718956398,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156712,
+        "num": 156712,
+        "word": "不是爽剧但还是爆了",
+        "onboard_time": 1718940198,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150257,
+        "num": 150257,
+        "word": "秦彻偷跑",
+        "onboard_time": 1718950518,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149975,
+        "num": 149975,
+        "word": "于正 汪俊",
+        "onboard_time": 1718952437,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145712,
+        "num": 145712,
+        "word": "适合邓超的工作出现了",
+        "onboard_time": 1718952738,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142488,
+        "num": 142488,
+        "word": "六公主吴谨言冰释前嫌",
+        "onboard_time": 1718953938,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142132,
+        "num": 142132,
+        "word": "陈妍希周柯宇 体型差",
+        "onboard_time": 1718942838,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#五十六个民族要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
