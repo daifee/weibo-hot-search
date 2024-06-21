@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718995109609,
+  "endTime": 1718997369341,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -18281,6 +18281,14 @@
       "onboard_time": 1718620818,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32412,
+      "num": 32412,
+      "word": "河南女儿离婚后被爸妈拒认",
+      "onboard_time": 1718996231,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 32330,
