@@ -1,0 +1,410 @@
+{
+  "runTime": 1718965245804,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1158353,
+        "num": 1158353,
+        "word": "Manner咖啡",
+        "onboard_time": 1718961379,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1034707,
+        "num": 1034707,
+        "word": "何洁红毯滑倒",
+        "onboard_time": 1718961858,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8643,
+        "num": 849573,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 749757,
+        "num": 749757,
+        "word": "六公主发了7条吴谨言",
+        "onboard_time": 1718950697,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 722807,
+        "num": 722807,
+        "word": "专家建议本科读基础学科",
+        "onboard_time": 1718962159,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 714146,
+        "num": 714146,
+        "word": "00后女孩离职删软件被公司威胁起诉",
+        "onboard_time": 1718951118,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709972,
+        "num": 709972,
+        "word": "阮经天 妈妈变成蝴蝶了",
+        "onboard_time": 1718958858,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508198,
+        "num": 508198,
+        "word": "玫瑰的故事 开放式结局",
+        "onboard_time": 1718956578,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445868,
+        "num": 507618,
+        "word": "45岁的二胎妈妈融不进家长群",
+        "onboard_time": 1718957718,
+        "rank": 8,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 101751,
+        "num": 507490,
+        "word": "美国小伙说在中国到处被安利美食",
+        "onboard_time": 1718964256,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507371,
+        "num": 507371,
+        "word": "长相思2 玱玹主场",
+        "onboard_time": 1718961919,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456013,
+        "num": 456013,
+        "word": "刘诗诗穿ES",
+        "onboard_time": 1718959880,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419525,
+        "num": 419525,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 387730,
+        "num": 387730,
+        "word": "14岁学生继承超25亿市值股票",
+        "onboard_time": 1718953098,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21761,
+        "num": 372928,
+        "word": "秦明解读法医专业怎么报考",
+        "onboard_time": 1718964018,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76225,
+        "num": 367307,
+        "word": "纯血鸿蒙将设备性能提升30%",
+        "onboard_time": 1718960538,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 365481,
+        "num": 365481,
+        "word": "对台独分裂行径有了具体定罪量刑标准",
+        "onboard_time": 1718955739,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 336136,
+        "num": 336136,
+        "word": "黄仁俊ins道歉",
+        "onboard_time": 1718958978,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40171,
+        "num": 279900,
+        "word": "华为云重磅发布盘古大模型5.0",
+        "onboard_time": 1718963957,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245862,
+        "num": 245862,
+        "word": "疑Manner店员与顾客互扇耳光",
+        "onboard_time": 1718964079,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997767,
+        "num": 240310,
+        "word": "西安银行副行长狄浩坠楼身亡",
+        "onboard_time": 1718957417,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407638,
+        "num": 236630,
+        "word": "100斤减到120斤的秘诀",
+        "onboard_time": 1718962998,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360993,
+        "num": 236364,
+        "word": "终于明白老员工为什么不愿意带新人",
+        "onboard_time": 1718957598,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230215,
+        "num": 230215,
+        "word": "恋与深空",
+        "onboard_time": 1718962637,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225068,
+        "num": 225068,
+        "word": "于正 墨雨云间花了两个多亿",
+        "onboard_time": 1718951418,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212272,
+        "num": 212272,
+        "word": "INFJ是个情绪稳定的疯子",
+        "onboard_time": 1718956518,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224172,
+        "num": 209357,
+        "word": "王星越换叼玉佩头像",
+        "onboard_time": 1718957898,
+        "rank": 26,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 204439,
+        "num": 204439,
+        "word": "DigiGhetto 杨和苏",
+        "onboard_time": 1718962337,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201509,
+        "num": 201509,
+        "word": "杨迪 五竹",
+        "onboard_time": 1718964617,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184940,
+        "num": 184940,
+        "word": "黄亦玫跟女儿解释离婚",
+        "onboard_time": 1718959458,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185171,
+        "num": 184580,
+        "word": "黄亦玫一回家就谈上了",
+        "onboard_time": 1718964318,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183822,
+        "num": 183822,
+        "word": "黄亦玫离婚美甲",
+        "onboard_time": 1718950337,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180023,
+        "num": 180023,
+        "word": "华为称鸿蒙内核已超越Linux内核",
+        "onboard_time": 1718963717,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173107,
+        "num": 173107,
+        "word": "登陆计划投票",
+        "onboard_time": 1718944160,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172047,
+        "num": 172047,
+        "word": "第五人格 三丽鸥",
+        "onboard_time": 1718961919,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166931,
+        "num": 166931,
+        "word": "副教授水库游泳被阻称亮身份吓死你",
+        "onboard_time": 1718964436,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166384,
+        "num": 166384,
+        "word": "陈楚生给张远打call",
+        "onboard_time": 1718960780,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158955,
+        "num": 158955,
+        "word": "祖国必须统一也必然统一",
+        "onboard_time": 1718964977,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 158012,
+        "num": 158012,
+        "word": "恋与深空律师声明",
+        "onboard_time": 1718959278,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 17458,
+        "num": 154714,
+        "word": "E人更适合当老师吗",
+        "onboard_time": 1718964018,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152908,
+        "num": 152908,
+        "word": "男童拿糖后说谎店主无奈下跪认错",
+        "onboard_time": 1718950938,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148711,
+        "num": 148711,
+        "word": "eStar对战TES",
+        "onboard_time": 1718964798,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144585,
+        "num": 144585,
+        "word": "白玉兰奖提名VCR",
+        "onboard_time": 1718960417,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141626,
+        "num": 141626,
+        "word": "沈月露肩球衣",
+        "onboard_time": 1718965098,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141495,
+        "num": 141495,
+        "word": "恋与深空秦彻",
+        "onboard_time": 1718949499,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137357,
+        "num": 137357,
+        "word": "广州一楼房外墙施工脚架坍塌",
+        "onboard_time": 1718962697,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134371,
+        "num": 134371,
+        "word": "2024IVL夏季赛",
+        "onboard_time": 1718964558,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132904,
+        "num": 132904,
+        "word": "王星越的哥哥比我以为的更超过",
+        "onboard_time": 1718965098,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131016,
+        "num": 131016,
+        "word": "赵一博直播",
+        "onboard_time": 1718960898,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130879,
+        "num": 130879,
+        "word": "李晨晒跑男布达佩斯合照",
+        "onboard_time": 1718965219,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#五十六个民族要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
