@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718934034087,
+  "endTime": 1718937284493,
   "band_list": [
     {
       "raw_hot": 1360716,
@@ -19,6 +19,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1179832,
+      "num": 1179832,
+      "word": "成都地铁13号线一在建站点坍塌",
+      "onboard_time": 1718933118,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133255,
+      "num": 1133255,
+      "word": "Manner员工月薪约5000元",
+      "onboard_time": 1718930478,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1123825,
       "num": 1123825,
       "word": "傅家明死在了黄亦玫最爱他的那一年",
@@ -27,20 +43,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1027466,
-      "num": 1027466,
-      "word": "成都地铁13号线一在建站点坍塌",
-      "onboard_time": 1718933118,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1005974,
       "num": 849092,
       "word": "Manner男店员掌掴女顾客附近商家发声",
       "onboard_time": 1718927236,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946129,
+      "num": 946129,
+      "word": "梅西状态",
+      "onboard_time": 1718935639,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 836087,
@@ -107,12 +123,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 638069,
-      "num": 638069,
-      "word": "Manner员工月薪约5000元",
-      "onboard_time": 1718930478,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 505796,
+      "num": 213801,
+      "word": "傅家明一开始就暗示自己有病了",
+      "onboard_time": 1718933418,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 497047,
@@ -139,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457408,
+      "num": 365647,
+      "word": "玫瑰的故事韩国宣传视频",
+      "onboard_time": 1718932999,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445575,
       "num": 445575,
       "word": "Manner",
@@ -147,8 +171,16 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 439894,
+      "num": 439894,
+      "word": "刘亦菲霍建华早干嘛去了",
+      "onboard_time": 1718935338,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418119,
-      "num": 239184,
+      "num": 413688,
       "word": "Manner回应1天2起店员顾客冲突",
       "onboard_time": 1718930719,
       "rank": 32,
@@ -275,12 +307,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289482,
-      "num": 193374,
-      "word": "傅家明一开始就暗示自己有病了",
-      "onboard_time": 1718933418,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 292612,
+      "num": 292612,
+      "word": "毛晓彤水母伞",
+      "onboard_time": 1718933179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287567,
+      "num": 287567,
+      "word": "阿根廷2比0加拿大",
+      "onboard_time": 1718936057,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 282878,
@@ -304,14 +344,6 @@
       "word": "长相思2 定档",
       "onboard_time": 1718863939,
       "rank": 14,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 256619,
-      "num": 238531,
-      "word": "玫瑰的故事韩国宣传视频",
-      "onboard_time": 1718932999,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -347,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227928,
-      "num": 227928,
-      "word": "毛晓彤水母伞",
-      "onboard_time": 1718933179,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227201,
       "num": 227201,
       "word": "武汉暴雨",
@@ -377,6 +401,14 @@
       "onboard_time": 1718930898,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 212274,
+      "num": 212274,
+      "word": "韩国政府出招提升生育率引韩网民争议",
+      "onboard_time": 1718935878,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210543,
@@ -411,6 +443,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206389,
+      "num": 206389,
+      "word": "gidle预告",
+      "onboard_time": 1718933717,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 205052,
+      "num": 205052,
+      "word": "北京有张杰薛之谦在",
+      "onboard_time": 1718935039,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199260,
       "num": 199260,
       "word": "玫瑰的故事越来越癫了",
@@ -443,6 +491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 170969,
+      "num": 170969,
+      "word": "裸辞了我妈撺掇的",
+      "onboard_time": 1718934439,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169426,
       "num": 169426,
       "word": "发现我妈是天生留子圣体",
@@ -459,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167431,
+      "num": 167431,
+      "word": "刘亦菲能长红的原因",
+      "onboard_time": 1718936118,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166327,
       "num": 166327,
       "word": "世界之外肯德基联名",
@@ -473,6 +537,14 @@
       "onboard_time": 1718931679,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158292,
+      "num": 165342,
+      "word": "黄河之水天上来画面有了",
+      "onboard_time": 1718935097,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157295,
@@ -531,12 +603,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148124,
+      "num": 148124,
+      "word": "咖啡师平均月薪4236元",
+      "onboard_time": 1718936837,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147732,
       "num": 147732,
       "word": "男朋友竟然让我多要点彩礼",
       "onboard_time": 1718881577,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 147576,
+      "num": 147576,
+      "word": "成都在建地铁路面坍塌暂无人员伤亡",
+      "onboard_time": 1718934558,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145090,
@@ -555,20 +643,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142843,
-      "num": 142843,
-      "word": "gidle预告",
-      "onboard_time": 1718933717,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 129724,
       "num": 176846,
       "word": "古诗词中的夏天氛围感拉满",
       "onboard_time": 1718927896,
       "rank": 31,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 129540,
+      "num": 129540,
+      "word": "王一博机场同款包包",
+      "onboard_time": 1718937079,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 127414,
@@ -611,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117348,
+      "num": 117348,
+      "word": "登陆计划",
+      "onboard_time": 1718936178,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116361,
       "num": 116361,
       "word": "桂林遭26年来最大洪水",
@@ -632,6 +728,14 @@
       "word": "Manner单店平均收入8000元一天",
       "onboard_time": 1718876118,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108972,
+      "num": 108972,
+      "word": "多地试点地铁闸门常开模式",
+      "onboard_time": 1718934738,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -672,6 +776,22 @@
       "word": "今天为渐冻人传递这条微博",
       "onboard_time": 1718932518,
       "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102872,
+      "num": 102872,
+      "word": "山坡找网女孩毕业后投身家乡教育",
+      "onboard_time": 1718936418,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102195,
+      "num": 102195,
+      "word": "学医只能做医生吗",
+      "onboard_time": 1718937258,
+      "rank": 48,
       "category": "健康医疗"
     },
     {
@@ -721,6 +841,14 @@
       "onboard_time": 1718887878,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 83843,
+      "num": 412372,
+      "word": "大学自曝隐藏实力",
+      "onboard_time": 1718935397,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 82749,
@@ -820,7 +948,7 @@
     },
     {
       "raw_hot": 57869,
-      "num": 168782,
+      "num": 412143,
       "word": "将来的生活能过得越来越好",
       "onboard_time": 1718928678,
       "rank": 33,

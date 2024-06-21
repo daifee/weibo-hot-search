@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718934034087,
+  "endTime": 1718937284493,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -651,6 +651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1179832,
+      "num": 1179832,
+      "word": "成都地铁13号线一在建站点坍塌",
+      "onboard_time": 1718933118,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1171593,
       "num": 1171593,
       "word": "北大回应网传复旦打老师男生被录取",
@@ -728,6 +736,14 @@
       "word": "记者卧底鸭肠鹅肠工厂",
       "onboard_time": 1718588596,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1133255,
+      "num": 1133255,
+      "word": "Manner员工月薪约5000元",
+      "onboard_time": 1718930478,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -849,14 +865,6 @@
       "onboard_time": 1718772562,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1027466,
-      "num": 1027466,
-      "word": "成都地铁13号线一在建站点坍塌",
-      "onboard_time": 1718933118,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1025086,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1718768361,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946129,
+      "num": 946129,
+      "word": "梅西状态",
+      "onboard_time": 1718935639,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 925959,
@@ -1955,14 +1971,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 638069,
-      "num": 638069,
-      "word": "Manner员工月薪约5000元",
-      "onboard_time": 1718930478,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 636449,
       "num": 636449,
       "word": "暑期档唯一灾难大片来了",
@@ -2803,6 +2811,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 505796,
+      "num": 213801,
+      "word": "傅家明一开始就暗示自己有病了",
+      "onboard_time": 1718933418,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 504498,
       "num": 504498,
       "word": "孙丞潇压力大给金莎打视频",
@@ -3163,6 +3179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457408,
+      "num": 365647,
+      "word": "玫瑰的故事韩国宣传视频",
+      "onboard_time": 1718932999,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 456233,
       "num": 456233,
       "word": "官方辟谣发射3000枚增雨弹引发暴雨",
@@ -3281,6 +3305,14 @@
       "onboard_time": 1718763559,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439894,
+      "num": 439894,
+      "word": "刘亦菲霍建华早干嘛去了",
+      "onboard_time": 1718935338,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 439804,
@@ -3548,7 +3580,7 @@
     },
     {
       "raw_hot": 418119,
-      "num": 239184,
+      "num": 413688,
       "word": "Manner回应1天2起店员顾客冲突",
       "onboard_time": 1718930719,
       "rank": 32,
@@ -5235,6 +5267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 292612,
+      "num": 292612,
+      "word": "毛晓彤水母伞",
+      "onboard_time": 1718933179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 290332,
       "num": 200626,
       "word": "刘亦菲同一件衣服不同状态",
@@ -5259,14 +5299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289482,
-      "num": 193374,
-      "word": "傅家明一开始就暗示自己有病了",
-      "onboard_time": 1718933418,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 288457,
       "num": 288457,
       "word": "凯尔特人4比1独行侠",
@@ -5289,6 +5321,14 @@
       "onboard_time": 1718887216,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287567,
+      "num": 287567,
+      "word": "阿根廷2比0加拿大",
+      "onboard_time": 1718936057,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 286942,
@@ -5857,14 +5897,6 @@
       "onboard_time": 1718852898,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 256619,
-      "num": 238531,
-      "word": "玫瑰的故事韩国宣传视频",
-      "onboard_time": 1718932999,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 255776,
@@ -6459,14 +6491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227928,
-      "num": 227928,
-      "word": "毛晓彤水母伞",
-      "onboard_time": 1718933179,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227912,
       "num": 227912,
       "word": "Letme谈Uzi停播",
@@ -6947,6 +6971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 212274,
+      "num": 212274,
+      "word": "韩国政府出招提升生育率引韩网民争议",
+      "onboard_time": 1718935878,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211400,
       "num": 209136,
       "word": "薛芳菲勇敢飞萧蘅永相随",
@@ -7147,6 +7179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 206389,
+      "num": 206389,
+      "word": "gidle预告",
+      "onboard_time": 1718933717,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206374,
       "num": 206374,
       "word": "林更新被删哭戏",
@@ -7201,6 +7241,14 @@
       "onboard_time": 1718893699,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205052,
+      "num": 205052,
+      "word": "北京有张杰薛之谦在",
+      "onboard_time": 1718935039,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 204953,
@@ -9027,6 +9075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170969,
+      "num": 170969,
+      "word": "裸辞了我妈撺掇的",
+      "onboard_time": 1718934439,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170889,
       "num": 183290,
       "word": "星穹铁道2.3",
@@ -9249,6 +9305,14 @@
       "onboard_time": 1718591537,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167431,
+      "num": 167431,
+      "word": "刘亦菲能长红的原因",
+      "onboard_time": 1718936118,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 167296,
@@ -9769,6 +9833,14 @@
       "onboard_time": 1718670919,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158292,
+      "num": 165342,
+      "word": "黄河之水天上来画面有了",
+      "onboard_time": 1718935097,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158249,
@@ -10467,6 +10539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148124,
+      "num": 148124,
+      "word": "咖啡师平均月薪4236元",
+      "onboard_time": 1718936837,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148089,
       "num": 148089,
       "word": "许嵩青岛抢票",
@@ -10497,6 +10577,14 @@
       "onboard_time": 1718511618,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147576,
+      "num": 147576,
+      "word": "成都在建地铁路面坍塌暂无人员伤亡",
+      "onboard_time": 1718934558,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147119,
@@ -10745,14 +10833,6 @@
       "onboard_time": 1718863221,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142843,
-      "num": 142843,
-      "word": "gidle预告",
-      "onboard_time": 1718933717,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 142751,
@@ -11657,6 +11737,14 @@
       "onboard_time": 1718700617,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129540,
+      "num": 129540,
+      "word": "王一博机场同款包包",
+      "onboard_time": 1718937079,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129454,
@@ -12651,6 +12739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117348,
+      "num": 117348,
+      "word": "登陆计划",
+      "onboard_time": 1718936178,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117217,
       "num": 508843,
       "word": "跨越时空的6月17日",
@@ -13043,6 +13139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108972,
+      "num": 108972,
+      "word": "多地试点地铁闸门常开模式",
+      "onboard_time": 1718934738,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108854,
       "num": 356954,
       "word": "斯坦福博士当乡镇公务员不必夸大解读",
@@ -13427,6 +13531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102872,
+      "num": 102872,
+      "word": "山坡找网女孩毕业后投身家乡教育",
+      "onboard_time": 1718936418,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102721,
       "num": 101337,
       "word": "玫瑰的故事朱珠精神灯塔",
@@ -13441,6 +13553,14 @@
       "onboard_time": 1718858539,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 102195,
+      "num": 102195,
+      "word": "学医只能做医生吗",
+      "onboard_time": 1718937258,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102125,
@@ -14121,6 +14241,14 @@
       "onboard_time": 1718448017,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83843,
+      "num": 412372,
+      "word": "大学自曝隐藏实力",
+      "onboard_time": 1718935397,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 83797,
@@ -14852,7 +14980,7 @@
     },
     {
       "raw_hot": 57869,
-      "num": 168782,
+      "num": 412143,
       "word": "将来的生活能过得越来越好",
       "onboard_time": 1718928678,
       "rank": 33,

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718934034087,
+  "endTime": 1718937284493,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2731,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1179832,
+      "num": 1179832,
+      "word": "成都地铁13号线一在建站点坍塌",
+      "onboard_time": 1718933118,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1179445,
       "num": 1179445,
       "word": "婚后与公婆同住小两口7天吵5架离婚",
@@ -2953,6 +2961,14 @@
       "onboard_time": 1718285719,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1133255,
+      "num": 1133255,
+      "word": "Manner员工月薪约5000元",
+      "onboard_time": 1718930478,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1133246,
@@ -3523,14 +3539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1027466,
-      "num": 1027466,
-      "word": "成都地铁13号线一在建站点坍塌",
-      "onboard_time": 1718933118,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1025331,
       "num": 1025331,
       "word": "张百乔发文回应",
@@ -4089,6 +4097,14 @@
       "onboard_time": 1718370442,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 946129,
+      "num": 946129,
+      "word": "梅西状态",
+      "onboard_time": 1718935639,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 944279,
@@ -7843,14 +7859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 638069,
-      "num": 638069,
-      "word": "Manner员工月薪约5000元",
-      "onboard_time": 1718930478,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637450,
       "num": 637450,
       "word": "人民文娱评大批艺人涌入带货直播间",
@@ -10963,6 +10971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 505796,
+      "num": 213801,
+      "word": "傅家明一开始就暗示自己有病了",
+      "onboard_time": 1718933418,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 505685,
       "num": 298188,
       "word": "那些晚婚晚育的人现在怎么样了",
@@ -12427,6 +12443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457408,
+      "num": 365647,
+      "word": "玫瑰的故事韩国宣传视频",
+      "onboard_time": 1718932999,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457140,
       "num": 457140,
       "word": "墨雨云间加更",
@@ -13057,6 +13081,14 @@
       "onboard_time": 1718763559,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439894,
+      "num": 439894,
+      "word": "刘亦菲霍建华早干嘛去了",
+      "onboard_time": 1718935338,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 439804,
@@ -13908,7 +13940,7 @@
     },
     {
       "raw_hot": 418119,
-      "num": 239184,
+      "num": 413688,
       "word": "Manner回应1天2起店员顾客冲突",
       "onboard_time": 1718930719,
       "rank": 32,
@@ -19915,6 +19947,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 292612,
+      "num": 292612,
+      "word": "毛晓彤水母伞",
+      "onboard_time": 1718933179,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292587,
       "num": 319559,
       "word": "台湾人也是堂堂正正的中国人",
@@ -20123,14 +20163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 289482,
-      "num": 193374,
-      "word": "傅家明一开始就暗示自己有病了",
-      "onboard_time": 1718933418,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289469,
       "num": 289469,
       "word": "闪耀暖暖",
@@ -20289,6 +20321,14 @@
       "onboard_time": 1718365698,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 287567,
+      "num": 287567,
+      "word": "阿根廷2比0加拿大",
+      "onboard_time": 1718936057,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 287262,
@@ -22417,14 +22457,6 @@
       "onboard_time": 1717515977,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256619,
-      "num": 238531,
-      "word": "玫瑰的故事韩国宣传视频",
-      "onboard_time": 1718932999,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 256588,
@@ -24755,14 +24787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 227928,
-      "num": 227928,
-      "word": "毛晓彤水母伞",
-      "onboard_time": 1718933179,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227912,
       "num": 227912,
       "word": "Letme谈Uzi停播",
@@ -26531,6 +26555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212274,
+      "num": 212274,
+      "word": "韩国政府出招提升生育率引韩网民争议",
+      "onboard_time": 1718935878,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212149,
       "num": 212149,
       "word": "买二手房和买一手房区别",
@@ -27459,6 +27491,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206389,
+      "num": 206389,
+      "word": "gidle预告",
+      "onboard_time": 1718933717,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 206385,
       "num": 198045,
       "word": "SM不给EXOCBX续约金",
@@ -27728,6 +27768,14 @@
       "word": "凤凰传奇抢票",
       "onboard_time": 1718254398,
       "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 205052,
+      "num": 205052,
+      "word": "北京有张杰薛之谦在",
+      "onboard_time": 1718935039,
+      "rank": 27,
       "category": "演出"
     },
     {
@@ -34539,6 +34587,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 170969,
+      "num": 170969,
+      "word": "裸辞了我妈撺掇的",
+      "onboard_time": 1718934439,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170961,
       "num": 170961,
       "word": "自贡地震",
@@ -35297,6 +35353,14 @@
       "onboard_time": 1718591537,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167431,
+      "num": 167431,
+      "word": "刘亦菲能长红的原因",
+      "onboard_time": 1718936118,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 167367,
@@ -37313,6 +37377,14 @@
       "onboard_time": 1718670919,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158292,
+      "num": 165342,
+      "word": "黄河之水天上来画面有了",
+      "onboard_time": 1718935097,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158289,
@@ -39811,6 +39883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148124,
+      "num": 148124,
+      "word": "咖啡师平均月薪4236元",
+      "onboard_time": 1718936837,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148089,
       "num": 148089,
       "word": "许嵩青岛抢票",
@@ -39897,6 +39977,14 @@
       "onboard_time": 1717219158,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 147576,
+      "num": 147576,
+      "word": "成都在建地铁路面坍塌暂无人员伤亡",
+      "onboard_time": 1718934558,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147567,
@@ -40881,14 +40969,6 @@
       "onboard_time": 1718002278,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142843,
-      "num": 142843,
-      "word": "gidle预告",
-      "onboard_time": 1718933717,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 142812,
@@ -44185,6 +44265,14 @@
       "onboard_time": 1717394898,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129540,
+      "num": 129540,
+      "word": "王一博机场同款包包",
+      "onboard_time": 1718937079,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 129454,
@@ -49099,6 +49187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108972,
+      "num": 108972,
+      "word": "多地试点地铁闸门常开模式",
+      "onboard_time": 1718934738,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108968,
       "num": 108968,
       "word": "文俊辉limbo",
@@ -50251,6 +50347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102872,
+      "num": 102872,
+      "word": "山坡找网女孩毕业后投身家乡教育",
+      "onboard_time": 1718936418,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102833,
       "num": 102833,
       "word": "TF三代登陆计划主题曲等你的回答",
@@ -50337,6 +50441,14 @@
       "onboard_time": 1717639097,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 102195,
+      "num": 102195,
+      "word": "学医只能做医生吗",
+      "onboard_time": 1718937258,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102162,
@@ -52361,6 +52473,14 @@
       "onboard_time": 1717943179,
       "rank": 9,
       "category": "体育,教育"
+    },
+    {
+      "raw_hot": 83843,
+      "num": 412372,
+      "word": "大学自曝隐藏实力",
+      "onboard_time": 1718935397,
+      "rank": 11,
+      "category": "教育"
     },
     {
       "raw_hot": 83797,
@@ -54948,7 +55068,7 @@
     },
     {
       "raw_hot": 57869,
-      "num": 168782,
+      "num": 412143,
       "word": "将来的生活能过得越来越好",
       "onboard_time": 1718928678,
       "rank": 33,
