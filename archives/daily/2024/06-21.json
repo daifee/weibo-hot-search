@@ -1,7 +1,15 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718955344002,
+  "endTime": 1718958241412,
   "band_list": [
+    {
+      "raw_hot": 1611972,
+      "num": 1611972,
+      "word": "00后女孩离职删软件被公司威胁起诉",
+      "onboard_time": 1718951118,
+      "rank": 36,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1600957,
       "num": 1600957,
@@ -123,11 +131,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1000776,
-      "num": 325467,
-      "word": "00后女孩离职删软件被公司威胁起诉",
-      "onboard_time": 1718951118,
-      "rank": 36,
+      "raw_hot": 969354,
+      "num": 448036,
+      "word": "14岁学生继承超25亿市值股票",
+      "onboard_time": 1718953098,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -145,6 +153,14 @@
       "onboard_time": 1718935639,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 900263,
+      "num": 900263,
+      "word": "5部门发布意见严惩台独分裂犯罪",
+      "onboard_time": 1718954539,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 836087,
@@ -185,14 +201,6 @@
       "onboard_time": 1718950880,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 747736,
-      "num": 444515,
-      "word": "14岁学生继承超25亿市值股票",
-      "onboard_time": 1718953098,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 745461,
@@ -265,14 +273,6 @@
       "onboard_time": 1718899145,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 657533,
-      "num": 657533,
-      "word": "5部门发布意见严惩台独分裂犯罪",
-      "onboard_time": 1718954539,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 651715,
@@ -379,12 +379,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 491573,
+      "num": 491573,
+      "word": "余承东官宣纯血鸿蒙正式开启beta测试",
+      "onboard_time": 1718955858,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 482005,
+      "num": 482005,
+      "word": "男童拿糖后说谎店主无奈下跪认错",
+      "onboard_time": 1718950938,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 475231,
       "num": 475231,
       "word": "沈学士毁了自己恶心了别人",
       "onboard_time": 1718943918,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466323,
+      "num": 466323,
+      "word": "西安银行副行长狄浩坠楼身亡",
+      "onboard_time": 1718957417,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 463862,
@@ -451,20 +475,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413351,
-      "num": 413351,
-      "word": "男童拿糖后说谎店主无奈下跪认错",
-      "onboard_time": 1718950938,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 410175,
       "num": 315034,
       "word": "菲媒称中国万吨大驱驶过菲沿岸",
       "onboard_time": 1718895980,
       "rank": 10,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 406736,
+      "num": 406736,
+      "word": "对台独分裂行径有了具体定罪量刑标准",
+      "onboard_time": 1718955739,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 399879,
@@ -555,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342111,
+      "num": 342111,
+      "word": "45岁的二胎妈妈融不进家长群",
+      "onboard_time": 1718957718,
+      "rank": 17,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 339097,
       "num": 304861,
       "word": "迪丽热巴张凌赫 艺术生和理工男",
@@ -609,6 +641,14 @@
       "onboard_time": 1718928860,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 319349,
+      "num": 319349,
+      "word": "玫瑰的故事 开放式结局",
+      "onboard_time": 1718956578,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 297829,
@@ -675,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265471,
+      "num": 265471,
+      "word": "刘诗诗Qeelin活动",
+      "onboard_time": 1718956398,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264128,
       "num": 226798,
       "word": "长相思2 定档",
@@ -713,6 +761,14 @@
       "onboard_time": 1718948299,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245315,
+      "num": 245315,
+      "word": "INFJ是个情绪稳定的疯子",
+      "onboard_time": 1718956518,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 244560,
@@ -1003,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199020,
+      "num": 199020,
+      "word": "SM称黄仁俊正在反省",
+      "onboard_time": 1718957778,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198642,
       "num": 198642,
       "word": "王星越你快从肃国公身上下来",
@@ -1059,6 +1123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 193459,
+      "num": 193459,
+      "word": "秦彻 白毛红瞳",
+      "onboard_time": 1718955319,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192669,
       "num": 192669,
       "word": "丹麦1比1英格兰",
@@ -1067,12 +1139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192326,
+      "num": 192326,
+      "word": "张雪峰称会计专业与数学好坏无关",
+      "onboard_time": 1718957358,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191214,
       "num": 191214,
       "word": "烟花少年 停拍",
       "onboard_time": 1718946979,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189896,
+      "num": 189896,
+      "word": "看见工资的那一刻弯着的腰终于断了",
+      "onboard_time": 1718957297,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 188670,
@@ -1089,6 +1177,22 @@
       "onboard_time": 1718949438,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186155,
+      "num": 186155,
+      "word": "终于明白老员工为什么不愿意带新人",
+      "onboard_time": 1718957598,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 185391,
+      "num": 185391,
+      "word": "王星越换叼玉佩头像",
+      "onboard_time": 1718957898,
+      "rank": 37,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 184445,
@@ -1137,6 +1241,14 @@
       "onboard_time": 1718953999,
       "rank": 40,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 173203,
+      "num": 173203,
+      "word": "白玉兰 颁奖日程",
+      "onboard_time": 1718957898,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 172184,
@@ -1227,12 +1339,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163029,
+      "num": 163029,
+      "word": "张雪峰建议北京文科女生不要出京",
+      "onboard_time": 1718958018,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162875,
       "num": 162875,
       "word": "唐纳德萨瑟兰去世",
       "onboard_time": 1718931679,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159771,
+      "num": 159771,
+      "word": "聪明人是如何提离职的",
+      "onboard_time": 1718955378,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 159288,
@@ -1297,6 +1425,14 @@
       "onboard_time": 1718865197,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 152000,
+      "num": 152000,
+      "word": "Top5000应用全部启动原生鸿蒙开发",
+      "onboard_time": 1718957238,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 150557,
@@ -1385,14 +1521,6 @@
       "onboard_time": 1718942479,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 132080,
-      "num": 132080,
-      "word": "秦彻 白毛红瞳",
-      "onboard_time": 1718955319,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 131843,
@@ -1819,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51343,
+      "num": 449302,
+      "word": "当医生后你会劝别人学医吗",
+      "onboard_time": 1718956818,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 50375,
       "num": 345387,
       "word": "男生免费送废纸盒老人以杏回赠",
@@ -1844,7 +1980,7 @@
     },
     {
       "raw_hot": 43944,
-      "num": 136106,
+      "num": 311592,
       "word": "32万里程极氪001一拆究竟",
       "onboard_time": 1718955197,
       "rank": 46,
@@ -1939,6 +2075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25575,
+      "num": 386453,
+      "word": "汽车专业的女性好就业吗",
+      "onboard_time": 1718956818,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25331,
       "num": 171196,
       "word": "成为医生前医学生走了很长的路",
@@ -1961,6 +2105,14 @@
       "onboard_time": 1718915710,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 18392,
+      "num": 163104,
+      "word": "如何让男朋友拍出好看的照片",
+      "onboard_time": 1718956818,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 16150,

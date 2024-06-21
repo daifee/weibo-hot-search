@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718955344002,
+  "endTime": 1718958241412,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -200,6 +200,14 @@
       "word": "姜萍4月份总成绩年级第一",
       "onboard_time": 1718595617,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1611972,
+      "num": 1611972,
+      "word": "00后女孩离职删软件被公司威胁起诉",
+      "onboard_time": 1718951118,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1035,14 +1043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1000776,
-      "num": 325467,
-      "word": "00后女孩离职删软件被公司威胁起诉",
-      "onboard_time": 1718951118,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 996887,
       "num": 996887,
       "word": "墨雨云间 爽剧不爽了",
@@ -1113,6 +1113,14 @@
       "onboard_time": 1718681838,
       "rank": 3,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 969354,
+      "num": 448036,
+      "word": "14岁学生继承超25亿市值股票",
+      "onboard_time": 1718953098,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 969348,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1718669958,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 900263,
+      "num": 900263,
+      "word": "5部门发布意见严惩台独分裂犯罪",
+      "onboard_time": 1718954539,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 890698,
@@ -1649,14 +1665,6 @@
       "onboard_time": 1718950880,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 747736,
-      "num": 444515,
-      "word": "14岁学生继承超25亿市值股票",
-      "onboard_time": 1718953098,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 745461,
@@ -2065,14 +2073,6 @@
       "onboard_time": 1718697677,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 657533,
-      "num": 657533,
-      "word": "5部门发布意见严惩台独分裂犯罪",
-      "onboard_time": 1718954539,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 656864,
@@ -3179,6 +3179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491573,
+      "num": 491573,
+      "word": "余承东官宣纯血鸿蒙正式开启beta测试",
+      "onboard_time": 1718955858,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 485171,
       "num": 485171,
       "word": "田曦薇艺考素颜麻花辫照",
@@ -3225,6 +3233,14 @@
       "onboard_time": 1718785702,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 482005,
+      "num": 482005,
+      "word": "男童拿糖后说谎店主无奈下跪认错",
+      "onboard_time": 1718950938,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480943,
@@ -3337,6 +3353,14 @@
       "onboard_time": 1718890759,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466323,
+      "num": 466323,
+      "word": "西安银行副行长狄浩坠楼身亡",
+      "onboard_time": 1718957417,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 464471,
@@ -3915,14 +3939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413351,
-      "num": 413351,
-      "word": "男童拿糖后说谎店主无奈下跪认错",
-      "onboard_time": 1718950938,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 412786,
       "num": 412786,
       "word": "中国女排3比2土耳其女排",
@@ -3993,6 +4009,14 @@
       "onboard_time": 1718691018,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406736,
+      "num": 406736,
+      "word": "对台独分裂行径有了具体定罪量刑标准",
+      "onboard_time": 1718955739,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 406284,
@@ -4811,6 +4835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342111,
+      "num": 342111,
+      "word": "45岁的二胎妈妈融不进家长群",
+      "onboard_time": 1718957718,
+      "rank": 17,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 341258,
       "num": 341258,
       "word": "父亲节宜炫父",
@@ -5201,6 +5233,14 @@
       "onboard_time": 1718867058,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 319349,
+      "num": 319349,
+      "word": "玫瑰的故事 开放式结局",
+      "onboard_time": 1718956578,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 319169,
@@ -6099,6 +6139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265471,
+      "num": 265471,
+      "word": "刘诗诗Qeelin活动",
+      "onboard_time": 1718956398,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265248,
       "num": 265248,
       "word": "还好不是刘亦菲",
@@ -6433,6 +6481,14 @@
       "onboard_time": 1718593877,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245315,
+      "num": 245315,
+      "word": "INFJ是个情绪稳定的疯子",
+      "onboard_time": 1718956518,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 245189,
@@ -8043,6 +8099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199020,
+      "num": 199020,
+      "word": "SM称黄仁俊正在反省",
+      "onboard_time": 1718957778,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198715,
       "num": 198715,
       "word": "丝芭传媒",
@@ -8435,6 +8499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 193459,
+      "num": 193459,
+      "word": "秦彻 白毛红瞳",
+      "onboard_time": 1718955319,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193423,
       "num": 193423,
       "word": "黄亦玫方协文哄娃36计",
@@ -8513,6 +8585,14 @@
       "onboard_time": 1718507598,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192326,
+      "num": 192326,
+      "word": "张雪峰称会计专业与数学好坏无关",
+      "onboard_time": 1718957358,
+      "rank": 34,
+      "category": "教育"
     },
     {
       "raw_hot": 192189,
@@ -8704,6 +8784,14 @@
       "word": "提了离职没走的人怎么样了",
       "onboard_time": 1718585298,
       "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 189896,
+      "num": 189896,
+      "word": "看见工资的那一刻弯着的腰终于断了",
+      "onboard_time": 1718957297,
+      "rank": 35,
       "category": "情感"
     },
     {
@@ -8899,6 +8987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186155,
+      "num": 186155,
+      "word": "终于明白老员工为什么不愿意带新人",
+      "onboard_time": 1718957598,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 186009,
       "num": 186009,
       "word": "泰国游客为什么不爱去韩国了",
@@ -8945,6 +9041,14 @@
       "onboard_time": 1718724798,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185391,
+      "num": 185391,
+      "word": "王星越换叼玉佩头像",
+      "onboard_time": 1718957898,
+      "rank": 37,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 185371,
@@ -9635,6 +9739,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 173203,
+      "num": 173203,
+      "word": "白玉兰 颁奖日程",
+      "onboard_time": 1718957898,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172639,
       "num": 172639,
       "word": "中方将继续依法坚决维护自身主权权益",
@@ -10203,6 +10315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 163029,
+      "num": 163029,
+      "word": "张雪峰建议北京文科女生不要出京",
+      "onboard_time": 1718958018,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162997,
       "num": 162997,
       "word": "赵露思V领无袖",
@@ -10417,6 +10537,14 @@
       "onboard_time": 1718587156,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 159771,
+      "num": 159771,
+      "word": "聪明人是如何提离职的",
+      "onboard_time": 1718955378,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 159752,
@@ -10993,6 +11121,14 @@
       "onboard_time": 1718706558,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152000,
+      "num": 152000,
+      "word": "Top5000应用全部启动原生鸿蒙开发",
+      "onboard_time": 1718957238,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 151836,
@@ -12193,14 +12329,6 @@
       "onboard_time": 1718675897,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132080,
-      "num": 132080,
-      "word": "秦彻 白毛红瞳",
-      "onboard_time": 1718955319,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 131953,
@@ -16011,6 +16139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51343,
+      "num": 449302,
+      "word": "当医生后你会劝别人学医吗",
+      "onboard_time": 1718956818,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 51306,
       "num": 195622,
       "word": "王一博镶钻胸针",
@@ -16252,7 +16388,7 @@
     },
     {
       "raw_hot": 43944,
-      "num": 136106,
+      "num": 311592,
       "word": "32万里程极氪001一拆究竟",
       "onboard_time": 1718955197,
       "rank": 46,
@@ -17083,6 +17219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 25575,
+      "num": 386453,
+      "word": "汽车专业的女性好就业吗",
+      "onboard_time": 1718956818,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 25395,
       "num": 135658,
       "word": "拜托我是第一个鸟巢开唱的流行女歌手",
@@ -17353,6 +17497,14 @@
       "onboard_time": 1718780481,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18392,
+      "num": 163104,
+      "word": "如何让男朋友拍出好看的照片",
+      "onboard_time": 1718956818,
+      "rank": 43,
+      "category": "休闲"
     },
     {
       "raw_hot": 18329,
