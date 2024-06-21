@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1718991311125,
+  "endTime": 1718994355529,
   "band_list": [
     {
       "raw_hot": 1606589,
@@ -153,6 +153,14 @@
       "onboard_time": 1718982381,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282766,
+      "num": 282766,
+      "word": "女生买2份饭拿6双筷子被怒斥盗窃",
+      "onboard_time": 1718988975,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264867,
@@ -323,14 +331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 140658,
-      "num": 140658,
-      "word": "女生买2份饭拿6双筷子被怒斥盗窃",
-      "onboard_time": 1718988975,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 140481,
       "num": 94155,
       "word": "张信哲夸张远",
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72146,
+      "num": 58350,
+      "word": "陈伟霆开大G",
+      "onboard_time": 1718991433,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 68222,
       "num": 168262,
       "word": "刘国梁寄语国乒",
@@ -435,12 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43898,
+      "num": 48606,
+      "word": "那英突然想念舞台",
+      "onboard_time": 1718993773,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43883,
       "num": 80752,
       "word": "夏至标志着盛夏来临",
       "onboard_time": 1718989694,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41018,
+      "num": 48559,
+      "word": "Digi大战活死人",
+      "onboard_time": 1718991493,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 36826,
@@ -481,6 +505,22 @@
       "onboard_time": 1718990294,
       "rank": 29,
       "category": "汽车,教育"
+    },
+    {
+      "raw_hot": 11007,
+      "num": 49654,
+      "word": "柳州消防员连夜清淤冲洗路面",
+      "onboard_time": 1718992153,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10341,
+      "num": 139146,
+      "word": "毕业典礼团支书向班长成功求婚",
+      "onboard_time": 1718994013,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3061,
