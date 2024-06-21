@@ -1,13 +1,21 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718974223048,
+  "endTime": 1718976117954,
   "band_list": [
     {
-      "raw_hot": 4114302,
-      "num": 4114302,
+      "raw_hot": 7290900,
+      "num": 7290900,
       "word": "张远 紧张",
       "onboard_time": 1718972659,
       "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3286125,
+      "num": 1527296,
+      "word": "张远 几乎清唱",
+      "onboard_time": 1718974340,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -72,6 +80,14 @@
       "word": "张远挑战孙楠",
       "onboard_time": 1718973741,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2301409,
+      "num": 326708,
+      "word": "张远冲榜失败",
+      "onboard_time": 1718974521,
+      "rank": 10,
       "category": "综艺"
     },
     {
@@ -201,6 +217,14 @@
       "onboard_time": 1718970918,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1737027,
+      "num": 1737027,
+      "word": "袁娅维 炫技",
+      "onboard_time": 1718975541,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1716922,
@@ -531,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1331650,
+      "num": 390904,
+      "word": "孙楠 柯以敏附体",
+      "onboard_time": 1718973680,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1330709,
       "num": 1197084,
       "word": "猝死前一个月身体就有症状",
@@ -756,7 +788,7 @@
     },
     {
       "raw_hot": 1202482,
-      "num": 1202482,
+      "num": 2438149,
       "word": "Manner咖啡",
       "onboard_time": 1718961379,
       "rank": 23,
@@ -825,14 +857,6 @@
       "onboard_time": 1718696418,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1158728,
-      "num": 390904,
-      "word": "孙楠 柯以敏附体",
-      "onboard_time": 1718973680,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 1156218,
@@ -1369,6 +1393,14 @@
       "onboard_time": 1718795959,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 902860,
+      "num": 375727,
+      "word": "中央宣传部副部长张建春被查",
+      "onboard_time": 1718973198,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 902628,
@@ -1939,6 +1971,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 728636,
+      "num": 227905,
+      "word": "汪苏泷把歌手总结完了",
+      "onboard_time": 1718973618,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 727446,
       "num": 564989,
       "word": "庄国栋带孩子",
@@ -2299,6 +2339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 635743,
+      "num": 208888,
+      "word": "有一种悲伤改编 难听",
+      "onboard_time": 1718974280,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 635712,
       "num": 635712,
       "word": "性格内向的人看起来更显小",
@@ -2563,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 593643,
-      "num": 375727,
-      "word": "中央宣传部副部长张建春被查",
-      "onboard_time": 1718973198,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 593000,
       "num": 593000,
       "word": "美军对中国新冠疫苗发动认知作战",
@@ -2625,6 +2665,14 @@
       "onboard_time": 1718932999,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 578833,
+      "num": 578833,
+      "word": "中央财政紧急下达1.05亿元抢修公路",
+      "onboard_time": 1718973859,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 576910,
@@ -3915,6 +3963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 436083,
+      "num": 204181,
+      "word": "那英 好美哦",
+      "onboard_time": 1718975061,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434911,
       "num": 384198,
       "word": "黄亦玫带娃三年考了3本资格证",
@@ -4883,6 +4939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 357603,
+      "num": 196730,
+      "word": "苏醒 观赛愉快",
+      "onboard_time": 1718975722,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 357415,
       "num": 357415,
       "word": "10元手冲咖啡阿姨回应不火了",
@@ -5033,6 +5097,14 @@
       "onboard_time": 1718721500,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347280,
+      "num": 202734,
+      "word": "Dior大秀",
+      "onboard_time": 1718973500,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 345561,
@@ -5369,14 +5441,6 @@
       "onboard_time": 1718841857,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 328644,
-      "num": 227905,
-      "word": "汪苏泷把歌手总结完了",
-      "onboard_time": 1718973618,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 328626,
@@ -6379,6 +6443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270514,
+      "num": 203165,
+      "word": "歌手冲榜赛彩排直击",
+      "onboard_time": 1718972659,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 270453,
       "num": 270453,
       "word": "黄亦玫跟女儿解释离婚",
@@ -6689,6 +6761,14 @@
       "onboard_time": 1718851219,
       "rank": 24,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 252244,
+      "num": 191215,
+      "word": "袁娅维感觉好累",
+      "onboard_time": 1718975962,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 251912,
@@ -7139,12 +7219,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 234589,
-      "num": 203165,
-      "word": "歌手冲榜赛彩排直击",
-      "onboard_time": 1718972659,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 234324,
+      "num": 426499,
+      "word": "刘国梁寄语国乒",
+      "onboard_time": 1718973259,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 233887,
@@ -7491,20 +7571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221983,
-      "num": 202734,
-      "word": "Dior大秀",
-      "onboard_time": 1718973500,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 221922,
       "num": 221922,
       "word": "薛之谦演唱会",
       "onboard_time": 1718550858,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221777,
+      "num": 221777,
+      "word": "章昊 老实人",
+      "onboard_time": 1718975662,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 221619,
@@ -8443,6 +8523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201540,
+      "num": 196080,
+      "word": "NIP零封WBG",
+      "onboard_time": 1718975482,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201361,
       "num": 201361,
       "word": "TCG战胜TTG",
@@ -8545,14 +8633,6 @@
       "onboard_time": 1718629818,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199020,
-      "num": 199020,
-      "word": "中央财政紧急下达1.05亿元抢修公路",
-      "onboard_time": 1718973859,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198715,
@@ -8681,6 +8761,14 @@
       "onboard_time": 1718536038,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197356,
+      "num": 197356,
+      "word": "熊猫妈妈 怎么老有个盖子跟着我",
+      "onboard_time": 1718971517,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 197198,
@@ -8841,6 +8929,14 @@
       "onboard_time": 1718698218,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195091,
+      "num": 195091,
+      "word": "张雪峰回应学基础学科适合高分数段",
+      "onboard_time": 1718975303,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 195013,
@@ -9283,20 +9379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188391,
-      "num": 188391,
-      "word": "熊猫妈妈 怎么老有个盖子跟着我",
-      "onboard_time": 1718971517,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188341,
       "num": 188341,
       "word": "谁懂王星越吴谨言这段一走一跑",
       "onboard_time": 1718522476,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188165,
+      "num": 196595,
+      "word": "张真源速度有了颜色错了",
+      "onboard_time": 1718974943,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 188071,
@@ -9337,6 +9433,14 @@
       "onboard_time": 1718689397,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187677,
+      "num": 187677,
+      "word": "斯洛伐克vs乌克兰",
+      "onboard_time": 1718975600,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 187613,
@@ -12163,6 +12267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145656,
+      "num": 145656,
+      "word": "妇产科男医生能共情女患者吗",
+      "onboard_time": 1718972179,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 145389,
       "num": 145389,
       "word": "张杰唱日语歌",
@@ -14352,14 +14464,6 @@
       "word": "莫德里奇反驳姆巴佩",
       "onboard_time": 1718495955,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 115287,
-      "num": 426499,
-      "word": "刘国梁寄语国乒",
-      "onboard_time": 1718973259,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -16739,6 +16843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55180,
+      "num": 333122,
+      "word": "Manner店员火气如此大是偶然吗",
+      "onboard_time": 1718975420,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 55160,
       "num": 395206,
       "word": "维E乳公司创始人辟谣是假协和",
@@ -16761,6 +16873,14 @@
       "onboard_time": 1718542819,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 54608,
+      "num": 197347,
+      "word": "傅家明吃的什么药",
+      "onboard_time": 1718973559,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 53914,
@@ -17779,6 +17899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29677,
+      "num": 2014466,
+      "word": "全天候直播解读2024高考招生",
+      "onboard_time": 1718975061,
+      "rank": 2,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 29592,
       "num": 479247,
       "word": "雨夜杭州街头抬车救人太暖了",
@@ -18201,14 +18329,6 @@
       "onboard_time": 1718519056,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21172,
-      "num": 182094,
-      "word": "傅家明吃的什么药",
-      "onboard_time": 1718973559,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 20529,
