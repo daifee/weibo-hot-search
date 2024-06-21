@@ -1,0 +1,410 @@
+{
+  "runTime": 1718959033424,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1666400,
+        "num": 1666400,
+        "word": "00后女孩离职删软件被公司威胁起诉",
+        "onboard_time": 1718951118,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1112032,
+        "num": 1112032,
+        "word": "六公主发了7条吴谨言",
+        "onboard_time": 1718950697,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9782,
+        "num": 981141,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901278,
+        "num": 901278,
+        "word": "西安银行副行长狄浩坠楼身亡",
+        "onboard_time": 1718957417,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579450,
+        "num": 579450,
+        "word": "黄亦玫离婚美甲",
+        "onboard_time": 1718950337,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569252,
+        "num": 569252,
+        "word": "5部门发布意见严惩台独分裂犯罪",
+        "onboard_time": 1718954539,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 508608,
+        "num": 508608,
+        "word": "初高中生为什么迷上买谷子",
+        "onboard_time": 1718946020,
+        "rank": 6,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 458383,
+        "num": 458383,
+        "word": "余承东官宣纯血鸿蒙正式开启beta测试",
+        "onboard_time": 1718955858,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 438539,
+        "num": 438539,
+        "word": "对台独分裂行径有了具体定罪量刑标准",
+        "onboard_time": 1718955739,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48919,
+        "num": 436309,
+        "word": "2人激流中搭梯救狗被摇尾感谢",
+        "onboard_time": 1718955979,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 889872,
+        "num": 426736,
+        "word": "14岁学生继承超25亿市值股票",
+        "onboard_time": 1718953098,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547405,
+        "num": 423186,
+        "word": "45岁的二胎妈妈融不进家长群",
+        "onboard_time": 1718957718,
+        "rank": 11,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 508709,
+        "num": 415773,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 12,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 413426,
+        "num": 413426,
+        "word": "于正 墨雨云间花了两个多亿",
+        "onboard_time": 1718951418,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38098,
+        "num": 405640,
+        "word": "汽车专业的女性好就业吗",
+        "onboard_time": 1718956818,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 404784,
+        "num": 404784,
+        "word": "男童拿糖后说谎店主无奈下跪认错",
+        "onboard_time": 1718950938,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401917,
+        "num": 401917,
+        "word": "玫瑰的故事 开放式结局",
+        "onboard_time": 1718956578,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331255,
+        "num": 331255,
+        "word": "六公主吴谨言冰释前嫌",
+        "onboard_time": 1718953938,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315219,
+        "num": 315219,
+        "word": "建议大家有事没事就去面试",
+        "onboard_time": 1718942419,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300253,
+        "num": 300253,
+        "word": "王星越换叼玉佩头像",
+        "onboard_time": 1718957898,
+        "rank": 19,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 375469,
+        "num": 294659,
+        "word": "古茗员工碎了",
+        "onboard_time": 1718950880,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 40557,
+        "num": 287455,
+        "word": "32万里程极氪001一拆究竟",
+        "onboard_time": 1718955197,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 286066,
+        "num": 286066,
+        "word": "终于明白老员工为什么不愿意带新人",
+        "onboard_time": 1718957598,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 285438,
+        "num": 285438,
+        "word": "于正 汪俊",
+        "onboard_time": 1718952437,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281621,
+        "num": 281621,
+        "word": "INFJ是个情绪稳定的疯子",
+        "onboard_time": 1718956518,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241583,
+        "num": 241583,
+        "word": "Manner员工可能被情绪劳动绑架了",
+        "onboard_time": 1718948597,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229330,
+        "num": 229330,
+        "word": "崛起吧涂山璟",
+        "onboard_time": 1718950278,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228442,
+        "num": 228442,
+        "word": "张雪峰称会计专业与数学好坏无关",
+        "onboard_time": 1718957358,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225518,
+        "num": 225518,
+        "word": "张雪峰建议北京文科女生不要出京",
+        "onboard_time": 1718958018,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222613,
+        "num": 222613,
+        "word": "恋与深空秦彻",
+        "onboard_time": 1718949499,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 222476,
+        "num": 222476,
+        "word": "刘诗诗Qeelin活动",
+        "onboard_time": 1718956398,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217881,
+        "num": 217881,
+        "word": "SM称黄仁俊正在反省",
+        "onboard_time": 1718957778,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215300,
+        "num": 215300,
+        "word": "不是爽剧但还是爆了",
+        "onboard_time": 1718940198,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209741,
+        "num": 209741,
+        "word": "看见工资的那一刻弯着的腰终于断了",
+        "onboard_time": 1718957297,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203251,
+        "num": 203251,
+        "word": "于正想给吴谨言王星越写民国戏",
+        "onboard_time": 1718958738,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198037,
+        "num": 198037,
+        "word": "适合邓超的工作出现了",
+        "onboard_time": 1718952738,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192582,
+        "num": 192582,
+        "word": "白玉兰 颁奖日程",
+        "onboard_time": 1718957898,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191955,
+        "num": 191955,
+        "word": "秦彻偷跑",
+        "onboard_time": 1718950518,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189650,
+        "num": 189650,
+        "word": "秦彻 白毛红瞳",
+        "onboard_time": 1718955319,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178776,
+        "num": 178776,
+        "word": "阮经天 妈妈变成蝴蝶了",
+        "onboard_time": 1718958858,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168625,
+        "num": 168625,
+        "word": "临床医学是个典型的大后期专业",
+        "onboard_time": 1718958440,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165219,
+        "num": 165219,
+        "word": "张远真唱说谎",
+        "onboard_time": 1718955139,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164452,
+        "num": 164452,
+        "word": "恋与深空亲亲卡",
+        "onboard_time": 1718940618,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161820,
+        "num": 161820,
+        "word": "恋与深空古茗联名",
+        "onboard_time": 1718940798,
+        "rank": 43,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 87399,
+        "num": 161253,
+        "word": "当医生后你会劝别人学医吗",
+        "onboard_time": 1718956818,
+        "rank": 44,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 161156,
+        "num": 161156,
+        "word": "登陆计划投票",
+        "onboard_time": 1718944160,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156986,
+        "num": 156986,
+        "word": "26岁考编8次终于上岸异地县城",
+        "onboard_time": 1718939719,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156088,
+        "num": 156088,
+        "word": "LOEWE全球品牌代言人王一博",
+        "onboard_time": 1718947819,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 147466,
+        "num": 147466,
+        "word": "黄仁俊ins道歉",
+        "onboard_time": 1718958978,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136506,
+        "num": 136506,
+        "word": "聪明人是如何提离职的",
+        "onboard_time": 1718955378,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#民族团结进步之花常开长盛#"
+    }
+  }
+}
