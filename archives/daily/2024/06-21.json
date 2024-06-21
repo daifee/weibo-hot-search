@@ -1,14 +1,54 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718973320233,
+  "endTime": 1718974223048,
   "band_list": [
     {
-      "raw_hot": 2320384,
-      "num": 2320384,
+      "raw_hot": 4114302,
+      "num": 4114302,
+      "word": "张远 紧张",
+      "onboard_time": 1718972659,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 3073789,
+      "num": 3073789,
       "word": "歌手直播",
       "onboard_time": 1718970438,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2331328,
+      "num": 630764,
+      "word": "张远挑战孙楠",
+      "onboard_time": 1718973741,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1976817,
+      "num": 1976817,
+      "word": "那英 松弛",
+      "onboard_time": 1718972898,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1870880,
+      "num": 420277,
+      "word": "那英忘词",
+      "onboard_time": 1718973319,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1756495,
+      "num": 1280783,
+      "word": "杨幂发表C刊",
+      "onboard_time": 1718970918,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1666400,
@@ -33,14 +73,6 @@
       "onboard_time": 1718940198,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1557014,
-      "num": 1280783,
-      "word": "杨幂发表C刊",
-      "onboard_time": 1718970918,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1467292,
@@ -73,14 +105,6 @@
       "onboard_time": 1718931138,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1343622,
-      "num": 1343622,
-      "word": "那英 松弛",
-      "onboard_time": 1718972898,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1268775,
@@ -137,6 +161,14 @@
       "onboard_time": 1718933118,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1158728,
+      "num": 390904,
+      "word": "孙楠 柯以敏附体",
+      "onboard_time": 1718973680,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1123825,
@@ -209,14 +241,6 @@
       "onboard_time": 1718927236,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 974074,
-      "num": 302785,
-      "word": "张远 紧张",
-      "onboard_time": 1718972659,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 969354,
@@ -459,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 593643,
+      "num": 375727,
+      "word": "中央宣传部副部长张建春被查",
+      "onboard_time": 1718973198,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 584288,
       "num": 584288,
       "word": "玫瑰的故事韩国宣传视频",
@@ -683,6 +715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 422218,
+      "num": 405006,
+      "word": "黄亦玫一回家就谈上了",
+      "onboard_time": 1718964318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418119,
       "num": 413688,
       "word": "Manner回应1天2起店员顾客冲突",
@@ -697,14 +737,6 @@
       "onboard_time": 1718895980,
       "rank": 10,
       "category": "军事,国内时政"
-    },
-    {
-      "raw_hot": 405006,
-      "num": 405006,
-      "word": "黄亦玫一回家就谈上了",
-      "onboard_time": 1718964318,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 399879,
@@ -753,6 +785,14 @@
       "onboard_time": 1718925014,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364372,
+      "num": 364372,
+      "word": "秦彻 dom感",
+      "onboard_time": 1718972598,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 358349,
@@ -811,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340571,
+      "num": 340571,
+      "word": "俄军首次对乌投放三吨级炸弹",
+      "onboard_time": 1718966777,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 339097,
       "num": 304861,
       "word": "迪丽热巴张凌赫 艺术生和理工男",
@@ -851,6 +899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328644,
+      "num": 227905,
+      "word": "汪苏泷把歌手总结完了",
+      "onboard_time": 1718973618,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323974,
       "num": 236654,
       "word": "2类人不建议睡觉时把脚露外面",
@@ -881,14 +937,6 @@
       "onboard_time": 1718958018,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306689,
-      "num": 306689,
-      "word": "俄军首次对乌投放三吨级炸弹",
-      "onboard_time": 1718966777,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 297829,
@@ -947,12 +995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282133,
-      "num": 282133,
-      "word": "秦彻 dom感",
-      "onboard_time": 1718972598,
-      "rank": 16,
-      "category": "游戏"
+      "raw_hot": 280681,
+      "num": 219097,
+      "word": "那英在哪 广告就在哪",
+      "onboard_time": 1718973198,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 278928,
@@ -969,6 +1017,14 @@
       "onboard_time": 1718961919,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273078,
+      "num": 273078,
+      "word": "海棠升级",
+      "onboard_time": 1718970918,
+      "rank": 19,
+      "category": "读书作家"
     },
     {
       "raw_hot": 270545,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1718928437,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 252429,
-      "num": 252429,
-      "word": "海棠升级",
-      "onboard_time": 1718970918,
-      "rank": 19,
-      "category": "读书作家"
     },
     {
       "raw_hot": 251912,
@@ -1105,6 +1153,14 @@
       "onboard_time": 1718940258,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234589,
+      "num": 203165,
+      "word": "歌手冲榜赛彩排直击",
+      "onboard_time": 1718972659,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 232000,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1718944281,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221983,
+      "num": 202734,
+      "word": "Dior大秀",
+      "onboard_time": 1718973500,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 220962,
@@ -1371,20 +1435,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 205753,
-      "num": 205753,
-      "word": "中央宣传部副部长张建春被查",
-      "onboard_time": 1718973198,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205664,
       "num": 205664,
       "word": "还好十个勤天熬过来了",
       "onboard_time": 1718952918,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205413,
+      "num": 154034,
+      "word": "宋轶颜心记粉裙",
+      "onboard_time": 1718973799,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 205073,
@@ -1467,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199020,
+      "num": 199020,
+      "word": "中央财政紧急下达1.05亿元抢修公路",
+      "onboard_time": 1718973859,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198642,
       "num": 198642,
       "word": "王星越你快从肃国公身上下来",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1718947338,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196381,
+      "num": 182936,
+      "word": "墨雨云间 能不能超点",
+      "onboard_time": 1718972419,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 196372,
@@ -1609,14 +1689,6 @@
       "onboard_time": 1718943138,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182936,
-      "num": 182936,
-      "word": "墨雨云间 能不能超点",
-      "onboard_time": 1718972419,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 181077,
@@ -1763,14 +1835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166647,
-      "num": 166647,
-      "word": "歌手冲榜赛彩排直击",
-      "onboard_time": 1718972659,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166327,
       "num": 166327,
       "word": "世界之外肯德基联名",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1718954419,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 164301,
-      "num": 156714,
-      "word": "那英在哪 广告就在哪",
-      "onboard_time": 1718973198,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 163412,
@@ -1899,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154889,
+      "num": 154889,
+      "word": "AG对战WB",
+      "onboard_time": 1718973920,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153764,
       "num": 153764,
       "word": "乘风五公",
@@ -1937,6 +2001,14 @@
       "onboard_time": 1718968218,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150970,
+      "num": 150970,
+      "word": "面具姆巴佩来了",
+      "onboard_time": 1718972238,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 150668,
@@ -2009,14 +2081,6 @@
       "onboard_time": 1718881577,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 147669,
-      "num": 147669,
-      "word": "面具姆巴佩来了",
-      "onboard_time": 1718972238,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 147651,
@@ -2113,6 +2177,14 @@
       "onboard_time": 1718962697,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134562,
+      "num": 134562,
+      "word": "成都GG对战WBG",
+      "onboard_time": 1718971398,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 134371,
@@ -2233,6 +2305,14 @@
       "onboard_time": 1718876118,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 115287,
+      "num": 426499,
+      "word": "刘国梁寄语国乒",
+      "onboard_time": 1718973259,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 108972,
@@ -2361,14 +2441,6 @@
       "onboard_time": 1718972539,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 92693,
-      "num": 199431,
-      "word": "刘国梁寄语国乒",
-      "onboard_time": 1718973259,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 92258,
@@ -2827,6 +2899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21172,
+      "num": 182094,
+      "word": "傅家明吃的什么药",
+      "onboard_time": 1718973559,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20200,
       "num": 168371,
       "word": "54位法学毕业生的薪资",
@@ -2908,7 +2988,7 @@
     },
     {
       "raw_hot": 10662,
-      "num": 1288174,
+      "num": 2506959,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 2,

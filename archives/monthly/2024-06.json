@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1718973320233,
+  "endTime": 1718974223048,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -145,6 +145,14 @@
       "onboard_time": 1718454317,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 4114302,
+      "num": 4114302,
+      "word": "张远 紧张",
+      "onboard_time": 1718972659,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 4046722,
@@ -419,6 +427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2331328,
+      "num": 630764,
+      "word": "张远挑战孙楠",
+      "onboard_time": 1718973741,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2330224,
       "num": 1198597,
       "word": "追风者声明",
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1976817,
+      "num": 1976817,
+      "word": "那英 松弛",
+      "onboard_time": 1718972898,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1976283,
       "num": 1976283,
       "word": "李晋晔 被换",
@@ -763,6 +787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1870880,
+      "num": 420277,
+      "word": "那英忘词",
+      "onboard_time": 1718973319,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1849141,
       "num": 1849141,
       "word": "贾玲成为lululemon品牌大使",
@@ -881,6 +913,14 @@
       "onboard_time": 1717318278,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1756495,
+      "num": 1280783,
+      "word": "杨幂发表C刊",
+      "onboard_time": 1718970918,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1751436,
@@ -1329,14 +1369,6 @@
       "onboard_time": 1717642757,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1557014,
-      "num": 1280783,
-      "word": "杨幂发表C刊",
-      "onboard_time": 1718970918,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1556636,
@@ -2041,14 +2073,6 @@
       "onboard_time": 1718548880,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1343622,
-      "num": 1343622,
-      "word": "那英 松弛",
-      "onboard_time": 1718972898,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1342674,
@@ -2897,6 +2921,14 @@
       "onboard_time": 1718696418,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1158728,
+      "num": 390904,
+      "word": "孙楠 柯以敏附体",
+      "onboard_time": 1718973680,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 1156218,
@@ -4009,14 +4041,6 @@
       "onboard_time": 1718364438,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 974074,
-      "num": 302785,
-      "word": "张远 紧张",
-      "onboard_time": 1718972659,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 973431,
@@ -8993,6 +9017,14 @@
       "onboard_time": 1718110219,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 593643,
+      "num": 375727,
+      "word": "中央宣传部副部长张建春被查",
+      "onboard_time": 1718973198,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593599,
@@ -14267,6 +14299,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 422218,
+      "num": 405006,
+      "word": "黄亦玫一回家就谈上了",
+      "onboard_time": 1718964318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421885,
       "num": 380605,
       "word": "北大说数学院的志愿代码是001号",
@@ -14913,14 +14953,6 @@
       "onboard_time": 1717828637,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 405006,
-      "num": 405006,
-      "word": "黄亦玫一回家就谈上了",
-      "onboard_time": 1718964318,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 404844,
@@ -16595,6 +16627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 364372,
+      "num": 364372,
+      "word": "秦彻 dom感",
+      "onboard_time": 1718972598,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 364016,
       "num": 306830,
       "word": "姜家是得罪月老了吗",
@@ -17835,6 +17875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 340571,
+      "num": 340571,
+      "word": "俄军首次对乌投放三吨级炸弹",
+      "onboard_time": 1718966777,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 340568,
       "num": 340568,
       "word": "电影乔妍的心事官宣海报",
@@ -18521,6 +18569,14 @@
       "onboard_time": 1718841857,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 328644,
+      "num": 227905,
+      "word": "汪苏泷把歌手总结完了",
+      "onboard_time": 1718973618,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 328627,
@@ -19633,14 +19689,6 @@
       "onboard_time": 1718362219,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 306689,
-      "num": 306689,
-      "word": "俄军首次对乌投放三吨级炸弹",
-      "onboard_time": 1718966777,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 306546,
@@ -21299,14 +21347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282133,
-      "num": 282133,
-      "word": "秦彻 dom感",
-      "onboard_time": 1718972598,
-      "rank": 16,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 281778,
       "num": 281778,
       "word": "点球",
@@ -21337,6 +21377,14 @@
       "onboard_time": 1718180059,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 280681,
+      "num": 219097,
+      "word": "那英在哪 广告就在哪",
+      "onboard_time": 1718973198,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 280513,
@@ -21897,6 +21945,14 @@
       "onboard_time": 1718803460,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273078,
+      "num": 273078,
+      "word": "海棠升级",
+      "onboard_time": 1718970918,
+      "rank": 19,
+      "category": "读书作家"
     },
     {
       "raw_hot": 272935,
@@ -23401,14 +23457,6 @@
       "onboard_time": 1717230858,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252429,
-      "num": 252429,
-      "word": "海棠升级",
-      "onboard_time": 1718970918,
-      "rank": 19,
-      "category": "读书作家"
     },
     {
       "raw_hot": 252068,
@@ -24995,6 +25043,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 234589,
+      "num": 203165,
+      "word": "歌手冲榜赛彩排直击",
+      "onboard_time": 1718972659,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234450,
       "num": 234450,
       "word": "女子去朋友家做客被浙江农村惊到了",
@@ -26153,6 +26209,14 @@
       "onboard_time": 1717568357,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221983,
+      "num": 202734,
+      "word": "Dior大秀",
+      "onboard_time": 1718973500,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221922,
@@ -28531,14 +28595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205753,
-      "num": 205753,
-      "word": "中央宣传部副部长张建春被查",
-      "onboard_time": 1718973198,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205752,
       "num": 205752,
       "word": "小杨哥东方甄选未进618销量前10",
@@ -28585,6 +28641,14 @@
       "onboard_time": 1718584217,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 205413,
+      "num": 154034,
+      "word": "宋轶颜心记粉裙",
+      "onboard_time": 1718973799,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 205395,
@@ -29939,6 +30003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199020,
+      "num": 199020,
+      "word": "中央财政紧急下达1.05亿元抢修公路",
+      "onboard_time": 1718973859,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198980,
       "num": 198980,
       "word": "王鹤棣晒桃花坞合照",
@@ -30577,6 +30649,14 @@
       "onboard_time": 1717650859,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196381,
+      "num": 182936,
+      "word": "墨雨云间 能不能超点",
+      "onboard_time": 1718972419,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 196377,
@@ -33505,14 +33585,6 @@
       "onboard_time": 1718133970,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 182936,
-      "num": 182936,
-      "word": "墨雨云间 能不能超点",
-      "onboard_time": 1718972419,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 182856,
@@ -36699,14 +36771,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 166647,
-      "num": 166647,
-      "word": "歌手冲榜赛彩排直击",
-      "onboard_time": 1718972659,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166633,
       "num": 166633,
       "word": "宇露君沾",
@@ -37225,14 +37289,6 @@
       "onboard_time": 1717811776,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164301,
-      "num": 156714,
-      "word": "那英在哪 广告就在哪",
-      "onboard_time": 1718973198,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 164234,
@@ -39499,6 +39555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154889,
+      "num": 154889,
+      "word": "AG对战WB",
+      "onboard_time": 1718973920,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154836,
       "num": 154836,
       "word": "龙舟",
@@ -40515,6 +40579,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 150970,
+      "num": 150970,
+      "word": "面具姆巴佩来了",
+      "onboard_time": 1718972238,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150953,
       "num": 575107,
       "word": "毛不易现场",
@@ -41249,14 +41321,6 @@
       "onboard_time": 1718408836,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147669,
-      "num": 147669,
-      "word": "面具姆巴佩来了",
-      "onboard_time": 1718972238,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 147651,
@@ -44305,6 +44369,14 @@
       "onboard_time": 1717556478,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 134562,
+      "num": 134562,
+      "word": "成都GG对战WBG",
+      "onboard_time": 1718971398,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 134519,
@@ -49283,6 +49355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115287,
+      "num": 426499,
+      "word": "刘国梁寄语国乒",
+      "onboard_time": 1718973259,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115257,
       "num": 115257,
       "word": "阿根廷4比1危地马拉",
@@ -53217,14 +53297,6 @@
       "onboard_time": 1718086400,
       "rank": 31,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 92693,
-      "num": 199431,
-      "word": "刘国梁寄语国乒",
-      "onboard_time": 1718973259,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 92637,
@@ -58844,7 +58916,7 @@
     },
     {
       "raw_hot": 39284,
-      "num": 1288174,
+      "num": 2506959,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,
@@ -61065,6 +61137,14 @@
       "onboard_time": 1717610712,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 21172,
+      "num": 182094,
+      "word": "傅家明吃的什么药",
+      "onboard_time": 1718973559,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 21152,

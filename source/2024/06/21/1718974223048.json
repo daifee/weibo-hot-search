@@ -1,0 +1,410 @@
+{
+  "runTime": 1718974223048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4114302,
+        "num": 4114302,
+        "word": "张远 紧张",
+        "onboard_time": 1718972659,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3073789,
+        "num": 3073789,
+        "word": "歌手直播",
+        "onboard_time": 1718970438,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9572,
+        "num": 2506959,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1976817,
+        "num": 1976817,
+        "word": "那英 松弛",
+        "onboard_time": 1718972898,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658561,
+        "num": 658561,
+        "word": "祖国必须统一也必然统一",
+        "onboard_time": 1718964977,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2331328,
+        "num": 630764,
+        "word": "张远挑战孙楠",
+        "onboard_time": 1718973741,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575308,
+        "num": 575308,
+        "word": "Manner咖啡",
+        "onboard_time": 1718961379,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449385,
+        "num": 449385,
+        "word": "Manner被曝第3起店员与顾客冲突",
+        "onboard_time": 1718967438,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435421,
+        "num": 435421,
+        "word": "00后女孩离职删软件被公司威胁起诉",
+        "onboard_time": 1718951118,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115287,
+        "num": 426499,
+        "word": "刘国梁寄语国乒",
+        "onboard_time": 1718973259,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1870880,
+        "num": 420277,
+        "word": "那英忘词",
+        "onboard_time": 1718973319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1756495,
+        "num": 406904,
+        "word": "杨幂发表C刊",
+        "onboard_time": 1718970918,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1158728,
+        "num": 390904,
+        "word": "孙楠 柯以敏附体",
+        "onboard_time": 1718973680,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 972538,
+        "num": 386840,
+        "word": "颜心记开播",
+        "onboard_time": 1718970077,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593643,
+        "num": 375727,
+        "word": "中央宣传部副部长张建春被查",
+        "onboard_time": 1718973198,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364372,
+        "num": 364372,
+        "word": "秦彻 dom感",
+        "onboard_time": 1718972598,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 357274,
+        "num": 357274,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 340571,
+        "num": 340571,
+        "word": "俄军首次对乌投放三吨级炸弹",
+        "onboard_time": 1718966777,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 273078,
+        "num": 273078,
+        "word": "海棠升级",
+        "onboard_time": 1718970918,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 260365,
+        "num": 260365,
+        "word": "45岁的二胎妈妈融不进家长群",
+        "onboard_time": 1718957718,
+        "rank": 19,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 589818,
+        "num": 255605,
+        "word": "赵露思瘦了好多",
+        "onboard_time": 1718969778,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 566861,
+        "num": 254704,
+        "word": "Jennie陈冠希合照",
+        "onboard_time": 1718966777,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448344,
+        "num": 248027,
+        "word": "都暻秀亲了李泳知",
+        "onboard_time": 1718967438,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422218,
+        "num": 239326,
+        "word": "黄亦玫一回家就谈上了",
+        "onboard_time": 1718964318,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308369,
+        "num": 234466,
+        "word": "西安银行副行长狄浩坠楼身亡",
+        "onboard_time": 1718957417,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389777,
+        "num": 228906,
+        "word": "杨迪 五竹",
+        "onboard_time": 1718964617,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 328644,
+        "num": 227905,
+        "word": "汪苏泷把歌手总结完了",
+        "onboard_time": 1718973618,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280681,
+        "num": 219097,
+        "word": "那英在哪 广告就在哪",
+        "onboard_time": 1718973198,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217353,
+        "num": 217353,
+        "word": "疑Manner店员与顾客互扇耳光",
+        "onboard_time": 1718964079,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214483,
+        "num": 214483,
+        "word": "100斤减到120斤的秘诀",
+        "onboard_time": 1718962998,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269500,
+        "num": 214383,
+        "word": "赵丽颖台湾知名度",
+        "onboard_time": 1718972058,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267443,
+        "num": 209303,
+        "word": "六公主发了7条吴谨言",
+        "onboard_time": 1718950697,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234589,
+        "num": 203165,
+        "word": "歌手冲榜赛彩排直击",
+        "onboard_time": 1718972659,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221983,
+        "num": 202734,
+        "word": "Dior大秀",
+        "onboard_time": 1718973500,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199020,
+        "num": 199020,
+        "word": "中央财政紧急下达1.05亿元抢修公路",
+        "onboard_time": 1718973859,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185462,
+        "num": 185462,
+        "word": "终于明白老员工为什么不愿意带新人",
+        "onboard_time": 1718957598,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21172,
+        "num": 182094,
+        "word": "傅家明吃的什么药",
+        "onboard_time": 1718973559,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179661,
+        "num": 179661,
+        "word": "熊猫妈妈 怎么老有个盖子跟着我",
+        "onboard_time": 1718971517,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162253,
+        "num": 162253,
+        "word": "俄罗斯美女留学生被中国簪花美哭",
+        "onboard_time": 1718966896,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154889,
+        "num": 154889,
+        "word": "AG对战WB",
+        "onboard_time": 1718973920,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205413,
+        "num": 154034,
+        "word": "宋轶颜心记粉裙",
+        "onboard_time": 1718973799,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196381,
+        "num": 153184,
+        "word": "墨雨云间 能不能超点",
+        "onboard_time": 1718972419,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172072,
+        "num": 152358,
+        "word": "汪苏泷唱傻瓜是对话也是独白",
+        "onboard_time": 1718970018,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163868,
+        "num": 151729,
+        "word": "吴谨言拍完尚食质疑过自己",
+        "onboard_time": 1718971998,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150970,
+        "num": 150970,
+        "word": "面具姆巴佩来了",
+        "onboard_time": 1718972238,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144447,
+        "num": 144447,
+        "word": "Manner咖啡监控",
+        "onboard_time": 1718965697,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134995,
+        "num": 134995,
+        "word": "5部门发布意见严惩台独分裂犯罪",
+        "onboard_time": 1718954539,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134562,
+        "num": 134562,
+        "word": "成都GG对战WBG",
+        "onboard_time": 1718971398,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127062,
+        "num": 127062,
+        "word": "14岁学生继承超25亿市值股票",
+        "onboard_time": 1718953098,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122329,
+        "num": 122329,
+        "word": "医学专业还香不香",
+        "onboard_time": 1718968818,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#五十六个民族要像石榴籽一样紧紧抱在一起#"
+    }
+  }
+}
