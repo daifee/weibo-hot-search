@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718968603797,
+  "endTime": 1718969763630,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -385,6 +385,14 @@
       "onboard_time": 1718617158,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1435242,
+      "num": 1435242,
+      "word": "祖国必须统一也必然统一",
+      "onboard_time": 1718964977,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1426896,
@@ -1043,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1009052,
-      "num": 1009052,
-      "word": "祖国必须统一也必然统一",
-      "onboard_time": 1718964977,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 1006483,
       "num": 1006483,
       "word": "初高中生为什么迷上买谷子",
@@ -1521,6 +1521,14 @@
       "onboard_time": 1718809519,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810862,
+      "num": 810862,
+      "word": "都暻秀亲了李泳知",
+      "onboard_time": 1718967438,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 808518,
@@ -2963,6 +2971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 522710,
+      "num": 522710,
+      "word": "杨迪 五竹",
+      "onboard_time": 1718964617,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 522192,
       "num": 516889,
       "word": "韩国女性为何不愿生孩子",
@@ -3017,6 +3033,14 @@
       "onboard_time": 1718534178,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 520167,
+      "num": 520167,
+      "word": "强降雨致广东平远38死2失联",
+      "onboard_time": 1718966957,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 519854,
@@ -3259,14 +3283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 494610,
-      "num": 494610,
-      "word": "强降雨致广东平远38死2失联",
-      "onboard_time": 1718966957,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 494559,
       "num": 250786,
       "word": "感染了HPV就一定是私生活混乱吗",
@@ -3435,14 +3451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 474590,
-      "num": 474590,
-      "word": "杨迪 五竹",
-      "onboard_time": 1718964617,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 473800,
       "num": 473800,
       "word": "张馨予玫瑰的故事观后感",
@@ -3537,14 +3545,6 @@
       "onboard_time": 1718586079,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462180,
-      "num": 462180,
-      "word": "都暻秀亲了李泳知",
-      "onboard_time": 1718967438,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 461940,
@@ -3664,6 +3664,14 @@
       "word": "墨雨云间追剧日历更新",
       "onboard_time": 1718537478,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 446795,
+      "num": 446795,
+      "word": "颜心记 上不上",
+      "onboard_time": 1718968757,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -4168,6 +4176,14 @@
       "word": "霍建华四集就下线了",
       "onboard_time": 1718839937,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 405006,
+      "num": 405006,
+      "word": "黄亦玫一回家就谈上了",
+      "onboard_time": 1718964318,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -4699,6 +4715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 360212,
+      "num": 360212,
+      "word": "Manner被曝第3起店员与顾客冲突",
+      "onboard_time": 1718967438,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360056,
       "num": 302771,
       "word": "呼和浩特一村5人遇害",
@@ -5073,14 +5097,6 @@
       "onboard_time": 1718927297,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 338571,
-      "num": 338571,
-      "word": "黄亦玫一回家就谈上了",
-      "onboard_time": 1718964318,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 337419,
@@ -5627,14 +5643,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300655,
-      "num": 300655,
-      "word": "Manner被曝第3起店员与顾客冲突",
-      "onboard_time": 1718967438,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 300250,
       "num": 300250,
       "word": "20至40岁男性人口比女性多1752万人",
@@ -5849,6 +5857,14 @@
       "onboard_time": 1718887216,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287580,
+      "num": 475200,
+      "word": "俄罗斯美女留学生被中国簪花美哭",
+      "onboard_time": 1718966896,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287567,
@@ -7617,14 +7633,6 @@
       "onboard_time": 1718938878,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215088,
-      "num": 475200,
-      "word": "俄罗斯美女留学生被中国簪花美哭",
-      "onboard_time": 1718966896,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214981,
@@ -10635,6 +10643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162671,
+      "num": 162671,
+      "word": "都暻秀李泳知新歌",
+      "onboard_time": 1718969417,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 162642,
       "num": 162642,
       "word": "华晨宇声线有日出的温暖",
@@ -11371,6 +11387,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 152448,
+      "num": 152448,
+      "word": "俄军首次对乌投放三吨级炸弹",
+      "onboard_time": 1718966777,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 152434,
       "num": 152434,
       "word": "村民拔萝卜式拉车好可爱",
@@ -11451,6 +11475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151554,
+      "num": 151554,
+      "word": "华为称操作系统软件不再被欧美垄断",
+      "onboard_time": 1718968218,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 151500,
       "num": 151500,
       "word": "白鹿春夏高定裙",
@@ -11521,6 +11553,14 @@
       "onboard_time": 1718856259,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150668,
+      "num": 150668,
+      "word": "校园流浪猫被送去参赛成顶流",
+      "onboard_time": 1718966237,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150580,
@@ -11739,6 +11779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147166,
+      "num": 147166,
+      "word": "新兰only",
+      "onboard_time": 1718967198,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 147119,
       "num": 147119,
       "word": "梅州在外年轻人请假回乡清淤",
@@ -11827,6 +11875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146260,
+      "num": 146260,
+      "word": "Manner咖啡监控",
+      "onboard_time": 1718965697,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146215,
       "num": 451969,
       "word": "大学生毕业租房踩过多少雷",
@@ -11857,14 +11913,6 @@
       "onboard_time": 1718603416,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146071,
-      "num": 146071,
-      "word": "新兰only",
-      "onboard_time": 1718967198,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 145825,
@@ -12185,14 +12233,6 @@
       "onboard_time": 1718808380,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 139869,
-      "num": 139869,
-      "word": "Manner咖啡监控",
-      "onboard_time": 1718965697,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139777,
@@ -12819,14 +12859,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 131048,
-      "num": 131048,
-      "word": "校园流浪猫被送去参赛成顶流",
-      "onboard_time": 1718966237,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130946,
       "num": 102033,
       "word": "郑州一烧烤店女老板遭多名男子围殴",
@@ -12937,14 +12969,6 @@
       "onboard_time": 1718616437,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130202,
-      "num": 130202,
-      "word": "华为称操作系统软件不再被欧美垄断",
-      "onboard_time": 1718968218,
-      "rank": 45,
-      "category": "数码"
     },
     {
       "raw_hot": 130117,
@@ -13609,6 +13633,14 @@
       "onboard_time": 1718673797,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123020,
+      "num": 123020,
+      "word": "薛之谦深圳",
+      "onboard_time": 1718969238,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 122579,
@@ -15371,6 +15403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 90142,
+      "num": 495198,
+      "word": "医学专业还香不香",
+      "onboard_time": 1718968818,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 90112,
       "num": 124840,
       "word": "凡尔赛宫偶遇肖战",
@@ -16699,6 +16739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47841,
+      "num": 367053,
+      "word": "上大学到底意味着什么",
+      "onboard_time": 1718967616,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 47717,
       "num": 288974,
       "word": "奥迪A8L与时间同行",
@@ -17569,14 +17617,6 @@
       "onboard_time": 1718887279,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 27812,
-      "num": 347265,
-      "word": "上大学到底意味着什么",
-      "onboard_time": 1718967616,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 27780,

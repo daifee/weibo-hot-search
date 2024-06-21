@@ -1,0 +1,410 @@
+{
+  "runTime": 1718969763630,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1435242,
+        "num": 1435242,
+        "word": "祖国必须统一也必然统一",
+        "onboard_time": 1718964977,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 810862,
+        "num": 810862,
+        "word": "都暻秀亲了李泳知",
+        "onboard_time": 1718967438,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6999,
+        "num": 663065,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 981543,
+        "num": 645263,
+        "word": "Jennie陈冠希合照",
+        "onboard_time": 1718966777,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589577,
+        "num": 589577,
+        "word": "Manner咖啡",
+        "onboard_time": 1718961379,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555281,
+        "num": 555281,
+        "word": "疑Manner店员与顾客互扇耳光",
+        "onboard_time": 1718964079,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560727,
+        "num": 546388,
+        "word": "何洁红毯滑倒",
+        "onboard_time": 1718961858,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 522710,
+        "num": 522710,
+        "word": "杨迪 五竹",
+        "onboard_time": 1718964617,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 520167,
+        "num": 520167,
+        "word": "强降雨致广东平远38死2失联",
+        "onboard_time": 1718966957,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90142,
+        "num": 495198,
+        "word": "医学专业还香不香",
+        "onboard_time": 1718968818,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 488848,
+        "num": 488848,
+        "word": "六公主发了7条吴谨言",
+        "onboard_time": 1718950697,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450919,
+        "num": 450919,
+        "word": "00后女孩离职删软件被公司威胁起诉",
+        "onboard_time": 1718951118,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446795,
+        "num": 446795,
+        "word": "颜心记 上不上",
+        "onboard_time": 1718968757,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 405006,
+        "num": 405006,
+        "word": "黄亦玫一回家就谈上了",
+        "onboard_time": 1718964318,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47841,
+        "num": 367053,
+        "word": "上大学到底意味着什么",
+        "onboard_time": 1718967616,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 360212,
+        "num": 360212,
+        "word": "Manner被曝第3起店员与顾客冲突",
+        "onboard_time": 1718967438,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348314,
+        "num": 348314,
+        "word": "男子强奸未遂监视居住期间杀害堂妹",
+        "onboard_time": 1718946558,
+        "rank": 16,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 325578,
+        "num": 325578,
+        "word": "专家建议本科读基础学科",
+        "onboard_time": 1718962159,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 287580,
+        "num": 287580,
+        "word": "俄罗斯美女留学生被中国簪花美哭",
+        "onboard_time": 1718966896,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280372,
+        "num": 280372,
+        "word": "45岁的二胎妈妈融不进家长群",
+        "onboard_time": 1718957718,
+        "rank": 19,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 432557,
+        "num": 278752,
+        "word": "100斤减到120斤的秘诀",
+        "onboard_time": 1718962998,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 406707,
+        "num": 278427,
+        "word": "西安银行副行长狄浩坠楼身亡",
+        "onboard_time": 1718957417,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276584,
+        "num": 276584,
+        "word": "虞书欣杀青哭花妆了",
+        "onboard_time": 1718966478,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272244,
+        "num": 272244,
+        "word": "长相思2 玱玹主场",
+        "onboard_time": 1718961919,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265023,
+        "num": 265023,
+        "word": "玫瑰的故事 开放式结局",
+        "onboard_time": 1718956578,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248556,
+        "num": 248556,
+        "word": "终于明白老员工为什么不愿意带新人",
+        "onboard_time": 1718957598,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220082,
+        "num": 220082,
+        "word": "刘诗诗穿ES",
+        "onboard_time": 1718959880,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 219474,
+        "num": 219474,
+        "word": "逆水寒手游",
+        "onboard_time": 1718967797,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198501,
+        "num": 198501,
+        "word": "14岁学生继承超25亿市值股票",
+        "onboard_time": 1718953098,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192287,
+        "num": 192287,
+        "word": "阮经天 妈妈变成蝴蝶了",
+        "onboard_time": 1718958858,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166387,
+        "num": 166387,
+        "word": "被黄仁俊公开号码的素人回应",
+        "onboard_time": 1718965338,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162671,
+        "num": 162671,
+        "word": "都暻秀李泳知新歌",
+        "onboard_time": 1718969417,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 157665,
+        "num": 157665,
+        "word": "王星越的哥哥比我以为的更超过",
+        "onboard_time": 1718965098,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152448,
+        "num": 152448,
+        "word": "俄军首次对乌投放三吨级炸弹",
+        "onboard_time": 1718966777,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 151554,
+        "num": 151554,
+        "word": "华为称操作系统软件不再被欧美垄断",
+        "onboard_time": 1718968218,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150668,
+        "num": 150668,
+        "word": "校园流浪猫被送去参赛成顶流",
+        "onboard_time": 1718966237,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147166,
+        "num": 147166,
+        "word": "新兰only",
+        "onboard_time": 1718967198,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 146260,
+        "num": 146260,
+        "word": "Manner咖啡监控",
+        "onboard_time": 1718965697,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144427,
+        "num": 144427,
+        "word": "恋与深空",
+        "onboard_time": 1718962637,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138209,
+        "num": 138209,
+        "word": "奔跑吧",
+        "onboard_time": 1718965818,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136974,
+        "num": 136974,
+        "word": "于正 墨雨云间花了两个多亿",
+        "onboard_time": 1718951418,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "副教授水库游泳被阻称亮身份吓死你",
+        "onboard_time": 1718964436,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128269,
+        "num": 128269,
+        "word": "5部门发布意见严惩台独分裂犯罪",
+        "onboard_time": 1718954539,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 123191,
+        "num": 123191,
+        "word": "爱老师",
+        "onboard_time": 1718967498,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123048,
+        "num": 123048,
+        "word": "恋与深空律师声明",
+        "onboard_time": 1718959278,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123020,
+        "num": 123020,
+        "word": "薛之谦深圳",
+        "onboard_time": 1718969238,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118659,
+        "num": 118659,
+        "word": "恋与深空秦彻",
+        "onboard_time": 1718949499,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 116720,
+        "num": 116720,
+        "word": "登陆计划投票",
+        "onboard_time": 1718944160,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111625,
+        "num": 111625,
+        "word": "DigiGhetto 杨和苏",
+        "onboard_time": 1718962337,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110161,
+        "num": 110161,
+        "word": "古茗员工碎了",
+        "onboard_time": 1718950880,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#民族团结进步之花常开长盛#"
+    }
+  }
+}
