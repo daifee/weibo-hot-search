@@ -1,0 +1,410 @@
+{
+  "runTime": 1718934034087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1360716,
+        "num": 1360716,
+        "word": "成都地铁",
+        "onboard_time": 1718931138,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1072717,
+        "num": 1072717,
+        "word": "傅家明死在了黄亦玫最爱他的那一年",
+        "onboard_time": 1718926937,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10436,
+        "num": 1029917,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1027466,
+        "num": 1027466,
+        "word": "成都地铁13号线一在建站点坍塌",
+        "onboard_time": 1718933118,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813340,
+        "num": 813340,
+        "word": "Manner男店员掌掴女顾客附近商家发声",
+        "onboard_time": 1718927236,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751517,
+        "num": 751517,
+        "word": "人最好不要all in做任何事情",
+        "onboard_time": 1718896159,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 727388,
+        "num": 727388,
+        "word": "王菲问王一博这么晚还不到",
+        "onboard_time": 1718928017,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 714946,
+        "num": 714946,
+        "word": "灵儿不能这么跟外公讲话",
+        "onboard_time": 1718930298,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 638069,
+        "num": 638069,
+        "word": "Manner员工月薪约5000元",
+        "onboard_time": 1718930478,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56547,
+        "num": 515158,
+        "word": "今天为渐冻人传递这条微博",
+        "onboard_time": 1718932518,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 399879,
+        "num": 399879,
+        "word": "金晨生图",
+        "onboard_time": 1718931858,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378666,
+        "num": 378666,
+        "word": "白晓荷有孩子了",
+        "onboard_time": 1718895620,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336968,
+        "num": 336968,
+        "word": "刘亦菲第一次上快本旧照",
+        "onboard_time": 1718895499,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333904,
+        "num": 333904,
+        "word": "官方回应成都地铁在建13号线坍塌",
+        "onboard_time": 1718933179,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323326,
+        "num": 323326,
+        "word": "夏至",
+        "onboard_time": 1718925014,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290821,
+        "num": 290821,
+        "word": "Manner",
+        "onboard_time": 1718931199,
+        "rank": 15,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 276375,
+        "num": 276375,
+        "word": "这可能是妈妈保护你的最后一次",
+        "onboard_time": 1718927297,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292600,
+        "num": 274126,
+        "word": "徐海乔披哥打call亲友团是刘亦菲",
+        "onboard_time": 1718929038,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262881,
+        "num": 262881,
+        "word": "桂林女店员遇难后有居民提醒关闸",
+        "onboard_time": 1718899145,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241239,
+        "num": 241239,
+        "word": "6月21日4时51分迎来夏至",
+        "onboard_time": 1718928860,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675396,
+        "num": 240602,
+        "word": "主人故意把手放在小狗的嘴边",
+        "onboard_time": 1718928738,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 663290,
+        "num": 240400,
+        "word": "经常缺觉的人全身都处于炎症状态",
+        "onboard_time": 1718930537,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 418119,
+        "num": 239184,
+        "word": "Manner回应1天2起店员顾客冲突",
+        "onboard_time": 1718930719,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256619,
+        "num": 238531,
+        "word": "玫瑰的故事韩国宣传视频",
+        "onboard_time": 1718932999,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254151,
+        "num": 237429,
+        "word": "跑网约车16小时净收入300元",
+        "onboard_time": 1718930778,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253222,
+        "num": 237412,
+        "word": "霍建华曾一个人演一家子",
+        "onboard_time": 1718922493,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236654,
+        "num": 236654,
+        "word": "2类人不建议睡觉时把脚露外面",
+        "onboard_time": 1718899217,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227928,
+        "num": 227928,
+        "word": "毛晓彤水母伞",
+        "onboard_time": 1718933179,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206321,
+        "num": 206321,
+        "word": "姆巴佩面具来了",
+        "onboard_time": 1718926637,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197278,
+        "num": 197278,
+        "word": "黄亦玫生娃摸鼻子是刘亦菲即兴发挥",
+        "onboard_time": 1718888178,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289482,
+        "num": 193374,
+        "word": "傅家明一开始就暗示自己有病了",
+        "onboard_time": 1718933418,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184130,
+        "num": 184130,
+        "word": "Cube被处罚",
+        "onboard_time": 1718928437,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160621,
+        "num": 160621,
+        "word": "王一博 巴黎时装周",
+        "onboard_time": 1718930898,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149449,
+        "num": 149449,
+        "word": "唐纳德萨瑟兰去世",
+        "onboard_time": 1718931679,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149021,
+        "num": 149021,
+        "word": "菲媒称中国万吨大驱驶过菲沿岸",
+        "onboard_time": 1718895980,
+        "rank": 34,
+        "category": "军事,国内时政"
+      },
+      {
+        "raw_hot": 142843,
+        "num": 142843,
+        "word": "gidle预告",
+        "onboard_time": 1718933717,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 138606,
+        "num": 138606,
+        "word": "迪丽热巴张凌赫 艺术生和理工男",
+        "onboard_time": 1718901136,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138192,
+        "num": 138192,
+        "word": "黄亦玫吃菌子了吧",
+        "onboard_time": 1718897479,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136499,
+        "num": 136499,
+        "word": "航拍桂林洪水",
+        "onboard_time": 1718929938,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135994,
+        "num": 135994,
+        "word": "世界之外肯德基联名",
+        "onboard_time": 1718932218,
+        "rank": 39,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 133015,
+        "num": 133015,
+        "word": "阿根廷vs加拿大",
+        "onboard_time": 1718927118,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129724,
+        "num": 129724,
+        "word": "古诗词中的夏天氛围感拉满",
+        "onboard_time": 1718927896,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 129650,
+        "num": 129650,
+        "word": "玫瑰的故事越来越癫了",
+        "onboard_time": 1718926997,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127452,
+        "num": 127452,
+        "word": "查完账单发现钱真是自己花掉",
+        "onboard_time": 1718929879,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124717,
+        "num": 124717,
+        "word": "十二星座最难追的星座",
+        "onboard_time": 1718926637,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124221,
+        "num": 124221,
+        "word": "人体3处淋巴没事常揉揉",
+        "onboard_time": 1718919191,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116903,
+        "num": 116903,
+        "word": "鹭卓出道七周年",
+        "onboard_time": 1718931798,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111717,
+        "num": 111717,
+        "word": "黄亦玫手撕恶婆婆",
+        "onboard_time": 1718889799,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110332,
+        "num": 110332,
+        "word": "manner泼咖啡粉员工已被辞退",
+        "onboard_time": 1718882118,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93626,
+        "num": 93626,
+        "word": "南方暴雨",
+        "onboard_time": 1718899637,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在宁夏考察调研#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718932790819,
+  "endTime": 1718934034087,
   "band_list": [
+    {
+      "raw_hot": 1360716,
+      "num": 1360716,
+      "word": "成都地铁",
+      "onboard_time": 1718931138,
+      "rank": 4,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1264120,
       "num": 1264120,
@@ -19,19 +27,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1027466,
+      "num": 1027466,
+      "word": "成都地铁13号线一在建站点坍塌",
+      "onboard_time": 1718933118,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1005974,
       "num": 849092,
       "word": "Manner男店员掌掴女顾客附近商家发声",
       "onboard_time": 1718927236,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 848567,
-      "num": 848567,
-      "word": "成都地铁",
-      "onboard_time": 1718931138,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -75,6 +83,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 675396,
+      "num": 240602,
+      "word": "主人故意把手放在小狗的嘴边",
+      "onboard_time": 1718928738,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 663290,
+      "num": 240400,
+      "word": "经常缺觉的人全身都处于炎症状态",
+      "onboard_time": 1718930537,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 662117,
       "num": 662117,
       "word": "桂林女店员遇难后有居民提醒关闸",
@@ -83,20 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 632344,
-      "num": 225336,
-      "word": "主人故意把手放在小狗的嘴边",
-      "onboard_time": 1718928738,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 568249,
-      "num": 222123,
-      "word": "经常缺觉的人全身都处于炎症状态",
-      "onboard_time": 1718930537,
-      "rank": 22,
-      "category": "健康医疗"
+      "raw_hot": 638069,
+      "num": 638069,
+      "word": "Manner员工月薪约5000元",
+      "onboard_time": 1718930478,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 497047,
@@ -131,12 +147,28 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 418119,
+      "num": 239184,
+      "word": "Manner回应1天2起店员顾客冲突",
+      "onboard_time": 1718930719,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410175,
       "num": 315034,
       "word": "菲媒称中国万吨大驱驶过菲沿岸",
       "onboard_time": 1718895980,
       "rank": 10,
       "category": "军事,国内时政"
+    },
+    {
+      "raw_hot": 399879,
+      "num": 399879,
+      "word": "金晨生图",
+      "onboard_time": 1718931858,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 375216,
@@ -203,6 +235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 333904,
+      "num": 333904,
+      "word": "官方回应成都地铁在建13号线坍塌",
+      "onboard_time": 1718933179,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332273,
       "num": 300032,
       "word": "黄亦玫吃菌子了吧",
@@ -212,7 +252,7 @@
     },
     {
       "raw_hot": 323974,
-      "num": 221104,
+      "num": 236654,
       "word": "2类人不建议睡觉时把脚露外面",
       "onboard_time": 1718899217,
       "rank": 22,
@@ -235,16 +275,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 286512,
-      "num": 286512,
-      "word": "Manner员工月薪约5000元",
-      "onboard_time": 1718930478,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 289482,
+      "num": 193374,
+      "word": "傅家明一开始就暗示自己有病了",
+      "onboard_time": 1718933418,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 282878,
-      "num": 220599,
+      "num": 237429,
       "word": "跑网约车16小时净收入300元",
       "onboard_time": 1718930778,
       "rank": 24,
@@ -267,20 +307,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256619,
+      "num": 238531,
+      "word": "玫瑰的故事韩国宣传视频",
+      "onboard_time": 1718932999,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255223,
       "num": 218289,
       "word": "Cube被处罚",
       "onboard_time": 1718928437,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 253811,
-      "num": 253811,
-      "word": "金晨生图",
-      "onboard_time": 1718931858,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 239262,
@@ -305,6 +345,14 @@
       "onboard_time": 1718895920,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227928,
+      "num": 227928,
+      "word": "毛晓彤水母伞",
+      "onboard_time": 1718933179,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 227201,
@@ -393,14 +441,6 @@
       "onboard_time": 1718925676,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 169428,
-      "num": 169428,
-      "word": "Manner回应1天2起店员顾客冲突",
-      "onboard_time": 1718930719,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 169426,
@@ -515,6 +555,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142843,
+      "num": 142843,
+      "word": "gidle预告",
+      "onboard_time": 1718933717,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 129724,
+      "num": 176846,
+      "word": "古诗词中的夏天氛围感拉满",
+      "onboard_time": 1718927896,
+      "rank": 31,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 127414,
       "num": 127414,
       "word": "西班牙vs意大利",
@@ -612,7 +668,7 @@
     },
     {
       "raw_hot": 103182,
-      "num": 223601,
+      "num": 515158,
       "word": "今天为渐冻人传递这条微博",
       "onboard_time": 1718932518,
       "rank": 21,
@@ -657,14 +713,6 @@
       "onboard_time": 1718895499,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88222,
-      "num": 176846,
-      "word": "古诗词中的夏天氛围感拉满",
-      "onboard_time": 1718927896,
-      "rank": 31,
-      "category": "读书作家"
     },
     {
       "raw_hot": 84554,
@@ -915,8 +963,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10037,
-      "num": 849422,
+      "raw_hot": 10436,
+      "num": 1029917,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 2,

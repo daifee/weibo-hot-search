@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 09:19:50
+本榜单时间：2024/06/21 00:25:20 ~ 2024/06/21 09:40:34
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%23" target="weibo">
+成都地铁（热度：1360716）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81all%20in%E5%81%9A%E4%BB%BB%E4%BD%95%E4%BA%8B%E6%83%85%23" target="weibo">
@@ -27,14 +33,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Manner%E7%94%B7%E5%BA%97%E5%91%98%E6%8E%8C%E6%8E%B4%E5%A5%B3%E9%A1%BE%E5%AE%A2%E9%99%84%E8%BF%91%E5%95%86%E5%AE%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
-Manner男店员掌掴女顾客附近商家发声（热度：1005974）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%8113%E5%8F%B7%E7%BA%BF%E4%B8%80%E5%9C%A8%E5%BB%BA%E7%AB%99%E7%82%B9%E5%9D%8D%E5%A1%8C%23" target="weibo">
+成都地铁13号线一在建站点坍塌（热度：1027466）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%23" target="weibo">
-成都地铁（热度：848567）
+<a href="https://s.weibo.com/weibo?q=%23Manner%E7%94%B7%E5%BA%97%E5%91%98%E6%8E%8C%E6%8E%B4%E5%A5%B3%E9%A1%BE%E5%AE%A2%E9%99%84%E8%BF%91%E5%95%86%E5%AE%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
+Manner男店员掌掴女顾客附近商家发声（热度：1005974）
 </a>
 </li>
 
@@ -69,20 +75,26 @@ Manner男店员掌掴女顾客附近商家发声（热度：1005974）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%95%85%E6%84%8F%E6%8A%8A%E6%89%8B%E6%94%BE%E5%9C%A8%E5%B0%8F%E7%8B%97%E7%9A%84%E5%98%B4%E8%BE%B9%23" target="weibo">
+主人故意把手放在小狗的嘴边（热度：675396）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%BC%BA%E8%A7%89%E7%9A%84%E4%BA%BA%E5%85%A8%E8%BA%AB%E9%83%BD%E5%A4%84%E4%BA%8E%E7%82%8E%E7%97%87%E7%8A%B6%E6%80%81%23" target="weibo">
+经常缺觉的人全身都处于炎症状态（热度：663290）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23" target="weibo">
 桂林女店员遇难后有居民提醒关闸（热度：662117）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%95%85%E6%84%8F%E6%8A%8A%E6%89%8B%E6%94%BE%E5%9C%A8%E5%B0%8F%E7%8B%97%E7%9A%84%E5%98%B4%E8%BE%B9%23" target="weibo">
-主人故意把手放在小狗的嘴边（热度：632344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%BC%BA%E8%A7%89%E7%9A%84%E4%BA%BA%E5%85%A8%E8%BA%AB%E9%83%BD%E5%A4%84%E4%BA%8E%E7%82%8E%E7%97%87%E7%8A%B6%E6%80%81%23" target="weibo">
-经常缺觉的人全身都处于炎症状态（热度：568249）
+<a href="https://s.weibo.com/weibo?q=%23Manner%E5%91%98%E5%B7%A5%E6%9C%88%E8%96%AA%E7%BA%A65000%E5%85%83%23" target="weibo">
+Manner员工月薪约5000元（热度：638069）
 </a>
 </li>
 
@@ -111,8 +123,20 @@ Manner（热度：445575）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Manner%E5%9B%9E%E5%BA%941%E5%A4%A92%E8%B5%B7%E5%BA%97%E5%91%98%E9%A1%BE%E5%AE%A2%E5%86%B2%E7%AA%81%23" target="weibo">
+Manner回应1天2起店员顾客冲突（热度：418119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E9%A9%B6%E8%BF%87%E8%8F%B2%E6%B2%BF%E5%B2%B8%23" target="weibo">
 菲媒称中国万吨大驱驶过菲沿岸（热度：410175）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%94%9F%E5%9B%BE%23" target="weibo">
+金晨生图（热度：399879）
 </a>
 </li>
 
@@ -165,6 +189,12 @@ Manner（热度：445575）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E5%9C%B0%E9%93%81%E5%9C%A8%E5%BB%BA13%E5%8F%B7%E7%BA%BF%E5%9D%8D%E5%A1%8C%23" target="weibo">
+官方回应成都地铁在建13号线坍塌（热度：333904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB%E5%90%83%E8%8F%8C%E5%AD%90%E4%BA%86%E5%90%A7%23" target="weibo">
 黄亦玫吃菌子了吧（热度：332273）
 </a>
@@ -189,8 +219,8 @@ Manner（热度：445575）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Manner%E5%91%98%E5%B7%A5%E6%9C%88%E8%96%AA%E7%BA%A65000%E5%85%83%23" target="weibo">
-Manner员工月薪约5000元（热度：286512）
+<a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E5%AE%B6%E6%98%8E%E4%B8%80%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%9A%97%E7%A4%BA%E8%87%AA%E5%B7%B1%E6%9C%89%E7%97%85%E4%BA%86%23" target="weibo">
+傅家明一开始就暗示自己有病了（热度：289482）
 </a>
 </li>
 
@@ -213,14 +243,14 @@ Manner员工月薪约5000元（热度：286512）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Cube%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
-Cube被处罚（热度：255223）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E9%9F%A9%E5%9B%BD%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91%23" target="weibo">
+玫瑰的故事韩国宣传视频（热度：256619）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%94%9F%E5%9B%BE%23" target="weibo">
-金晨生图（热度：253811）
+<a href="https://s.weibo.com/weibo?q=%23Cube%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
+Cube被处罚（热度：255223）
 </a>
 </li>
 
@@ -239,6 +269,12 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%82%85%E5%AE%B6%E6%98%8E%20%E6%B4%BB%E4%B8%A4%E9%9B%86%23" target="weibo">
 傅家明 活两集（热度：230461）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E6%B0%B4%E6%AF%8D%E4%BC%9E%23" target="weibo">
+毛晓彤水母伞（热度：227928）
 </a>
 </li>
 
@@ -305,12 +341,6 @@ Manner回应店员泼顾客咖啡粉（热度：230846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%80%83%23" target="weibo">
 中考（热度：184445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Manner%E5%9B%9E%E5%BA%941%E5%A4%A92%E8%B5%B7%E5%BA%97%E5%91%98%E9%A1%BE%E5%AE%A2%E5%86%B2%E7%AA%81%23" target="weibo">
-Manner回应1天2起店员顾客冲突（热度：169428）
 </a>
 </li>
 
@@ -395,6 +425,18 @@ manner（热度：152951）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%AE%8C%E8%B4%A6%E5%8D%95%E5%8F%91%E7%8E%B0%E9%92%B1%E7%9C%9F%E6%98%AF%E8%87%AA%E5%B7%B1%E8%8A%B1%E6%8E%89%23" target="weibo">
 查完账单发现钱真是自己花掉（热度：143937）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23gidle%E9%A2%84%E5%91%8A%23" target="weibo">
+gidle预告（热度：142843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%AF%97%E8%AF%8D%E4%B8%AD%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23" target="weibo">
+古诗词中的夏天氛围感拉满（热度：129724）
 </a>
 </li>
 
@@ -503,12 +545,6 @@ manner有员工称8小时内要做500杯咖啡（热度：103753）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A2%85%E5%B7%9E%E4%B8%A4%E5%9C%B0%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%87%B49%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 广东梅州两地强降雨致9人死亡（热度：88709）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%AF%97%E8%AF%8D%E4%B8%AD%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23" target="weibo">
-古诗词中的夏天氛围感拉满（热度：88222）
 </a>
 </li>
 
@@ -700,7 +736,7 @@ Lisa新歌ROCKSTAR预告照（热度：84554）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23" target="weibo">
-何以中国运载千秋（热度：10037）
+何以中国运载千秋（热度：10436）
 </a>
 </li>
 

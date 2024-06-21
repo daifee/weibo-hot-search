@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1718932790819,
+  "endTime": 1718934034087,
   "band_list": [
     {
       "raw_hot": 3207685,
@@ -385,6 +385,14 @@
       "onboard_time": 1718667976,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1360716,
+      "num": 1360716,
+      "word": "成都地铁",
+      "onboard_time": 1718931138,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1360637,
@@ -843,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1027466,
+      "num": 1027466,
+      "word": "成都地铁13号线一在建站点坍塌",
+      "onboard_time": 1718933118,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1025086,
       "num": 1025086,
       "word": "倪妮 说人话吗",
@@ -1216,14 +1232,6 @@
       "word": "姜萍妈妈首发声",
       "onboard_time": 1718525237,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 848567,
-      "num": 848567,
-      "word": "成都地铁",
-      "onboard_time": 1718931138,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -1803,6 +1811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 675396,
+      "num": 240602,
+      "word": "主人故意把手放在小狗的嘴边",
+      "onboard_time": 1718928738,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 672100,
       "num": 320384,
       "word": "贾乃亮赚翻了背后MCN亏惨了",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1718852599,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 663290,
+      "num": 240400,
+      "word": "经常缺觉的人全身都处于炎症状态",
+      "onboard_time": 1718930537,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 662117,
@@ -1931,6 +1955,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 638069,
+      "num": 638069,
+      "word": "Manner员工月薪约5000元",
+      "onboard_time": 1718930478,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 636449,
       "num": 636449,
       "word": "暑期档唯一灾难大片来了",
@@ -1953,14 +1985,6 @@
       "onboard_time": 1718602937,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 632344,
-      "num": 225336,
-      "word": "主人故意把手放在小狗的嘴边",
-      "onboard_time": 1718928738,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 628364,
@@ -2281,14 +2305,6 @@
       "onboard_time": 1718675658,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 568249,
-      "num": 222123,
-      "word": "经常缺觉的人全身都处于炎症状态",
-      "onboard_time": 1718930537,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 567297,
@@ -3531,6 +3547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 418119,
+      "num": 239184,
+      "word": "Manner回应1天2起店员顾客冲突",
+      "onboard_time": 1718930719,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417811,
       "num": 274032,
       "word": "张艺兴 过了12年你看谁屹立不倒",
@@ -3729,6 +3753,14 @@
       "onboard_time": 1718752454,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399879,
+      "num": 399879,
+      "word": "金晨生图",
+      "onboard_time": 1718931858,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 399071,
@@ -4571,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 333904,
+      "num": 333904,
+      "word": "官方回应成都地铁在建13号线坍塌",
+      "onboard_time": 1718933179,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333137,
       "num": 333137,
       "word": "Shopee内部通知一员工猝死",
@@ -4756,7 +4796,7 @@
     },
     {
       "raw_hot": 323974,
-      "num": 221104,
+      "num": 236654,
       "word": "2类人不建议睡觉时把脚露外面",
       "onboard_time": 1718899217,
       "rank": 22,
@@ -5219,6 +5259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 289482,
+      "num": 193374,
+      "word": "傅家明一开始就暗示自己有病了",
+      "onboard_time": 1718933418,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288457,
       "num": 288457,
       "word": "凯尔特人4比1独行侠",
@@ -5257,14 +5305,6 @@
       "onboard_time": 1718637558,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286512,
-      "num": 286512,
-      "word": "Manner员工月薪约5000元",
-      "onboard_time": 1718930478,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286427,
@@ -5340,7 +5380,7 @@
     },
     {
       "raw_hot": 282878,
-      "num": 220599,
+      "num": 237429,
       "word": "跑网约车16小时净收入300元",
       "onboard_time": 1718930778,
       "rank": 24,
@@ -5819,6 +5859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 256619,
+      "num": 238531,
+      "word": "玫瑰的故事韩国宣传视频",
+      "onboard_time": 1718932999,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255776,
       "num": 208814,
       "word": "长寿的人多半有4慢3长特点",
@@ -5857,14 +5905,6 @@
       "onboard_time": 1718665394,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253811,
-      "num": 253811,
-      "word": "金晨生图",
-      "onboard_time": 1718931858,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 253750,
@@ -6417,6 +6457,14 @@
       "onboard_time": 1718882177,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227928,
+      "num": 227928,
+      "word": "毛晓彤水母伞",
+      "onboard_time": 1718933179,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 227912,
@@ -9083,14 +9131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169428,
-      "num": 169428,
-      "word": "Manner回应1天2起店员顾客冲突",
-      "onboard_time": 1718930719,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169423,
       "num": 160486,
       "word": "尹净汉亲话筒",
@@ -10707,6 +10747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142843,
+      "num": 142843,
+      "word": "gidle预告",
+      "onboard_time": 1718933717,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 142751,
       "num": 142751,
       "word": "张雨绮绿皮裙好A",
@@ -11593,6 +11641,14 @@
       "onboard_time": 1718697619,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129724,
+      "num": 176846,
+      "word": "古诗词中的夏天氛围感拉满",
+      "onboard_time": 1718927896,
+      "rank": 31,
+      "category": "读书作家"
     },
     {
       "raw_hot": 129639,
@@ -13356,7 +13412,7 @@
     },
     {
       "raw_hot": 103182,
-      "num": 223601,
+      "num": 515158,
       "word": "今天为渐冻人传递这条微博",
       "onboard_time": 1718932518,
       "rank": 21,
@@ -13969,14 +14025,6 @@
       "onboard_time": 1718662272,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 88222,
-      "num": 176846,
-      "word": "古诗词中的夏天氛围感拉满",
-      "onboard_time": 1718927896,
-      "rank": 31,
-      "category": "读书作家"
     },
     {
       "raw_hot": 87451,
@@ -15436,7 +15484,7 @@
     },
     {
       "raw_hot": 39284,
-      "num": 849422,
+      "num": 1029917,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 7,
