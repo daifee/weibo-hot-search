@@ -1,6 +1,6 @@
 {
   "startTime": 1718900720567,
-  "endTime": 1718937890751,
+  "endTime": 1718940156638,
   "band_list": [
     {
       "raw_hot": 1360716,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1133255,
-      "num": 1133255,
+      "raw_hot": 1137600,
+      "num": 1137600,
       "word": "Manner员工月薪约5000元",
       "onboard_time": 1718930478,
       "rank": 17,
@@ -49,6 +49,22 @@
       "onboard_time": 1718927236,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 967696,
+      "num": 967696,
+      "word": "陈妍希周柯宇新剧开机路透",
+      "onboard_time": 1718938157,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 965406,
+      "num": 965406,
+      "word": "26岁考编8次终于上岸异地县城",
+      "onboard_time": 1718939719,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 946129,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 663290,
-      "num": 240400,
+      "num": 269066,
       "word": "经常缺觉的人全身都处于炎症状态",
       "onboard_time": 1718930537,
       "rank": 22,
@@ -123,8 +139,32 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 584288,
+      "num": 584288,
+      "word": "玫瑰的故事韩国宣传视频",
+      "onboard_time": 1718932999,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 562469,
+      "num": 562469,
+      "word": "咖啡师平均月薪4236元",
+      "onboard_time": 1718936837,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 537687,
+      "num": 537687,
+      "word": "留给林一的集数不多了",
+      "onboard_time": 1718937677,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 505796,
-      "num": 213801,
+      "num": 297149,
       "word": "傅家明一开始就暗示自己有病了",
       "onboard_time": 1718933418,
       "rank": 30,
@@ -136,14 +176,6 @@
       "word": "黄亦玫手撕恶婆婆",
       "onboard_time": 1718889799,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 473099,
-      "num": 473099,
-      "word": "玫瑰的故事韩国宣传视频",
-      "onboard_time": 1718932999,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -233,6 +265,14 @@
       "onboard_time": 1718888178,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350949,
+      "num": 350949,
+      "word": "一款艾滋病预防药物取得惊人实验结果",
+      "onboard_time": 1718938098,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 348898,
@@ -331,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270545,
+      "num": 270545,
+      "word": "韩国政府出招提升生育率引韩网民争议",
+      "onboard_time": 1718935878,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 269173,
       "num": 173071,
       "word": "中国快递员将参加巴黎奥运会比赛",
@@ -355,11 +403,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 253688,
-      "num": 205591,
-      "word": "咖啡师平均月薪4236元",
-      "onboard_time": 1718936837,
-      "rank": 36,
+      "raw_hot": 242945,
+      "num": 242945,
+      "word": "夏天过去一半了",
+      "onboard_time": 1718937978,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -369,6 +417,14 @@
       "onboard_time": 1718889739,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236337,
+      "num": 236337,
+      "word": "乘风2024五公歌单",
+      "onboard_time": 1718938338,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 230846,
@@ -403,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217351,
+      "num": 217351,
+      "word": "科学家发现补觉无法完全恢复大脑功能",
+      "onboard_time": 1718937858,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 216859,
       "num": 216859,
       "word": "王一博 巴黎时装周",
@@ -411,12 +475,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 212274,
-      "num": 212274,
-      "word": "韩国政府出招提升生育率引韩网民争议",
-      "onboard_time": 1718935878,
-      "rank": 24,
-      "category": "社会新闻"
+      "raw_hot": 216048,
+      "num": 216048,
+      "word": "电影默杀定档",
+      "onboard_time": 1718937918,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 210543,
@@ -425,6 +489,14 @@
       "onboard_time": 1718919191,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 209557,
+      "num": 209557,
+      "word": "刘亦菲一家女娲严选",
+      "onboard_time": 1718938878,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 209276,
@@ -571,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158421,
+      "num": 158421,
+      "word": "狙击蝴蝶开机",
+      "onboard_time": 1718938696,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157295,
       "num": 157295,
       "word": "刘亦菲裸背",
@@ -609,6 +689,14 @@
       "onboard_time": 1718926637,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149585,
+      "num": 149585,
+      "word": "王星越你快从肃国公身上下来",
+      "onboard_time": 1718939658,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 148749,
@@ -659,16 +747,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135346,
-      "num": 135346,
-      "word": "留给林一的集数不多了",
-      "onboard_time": 1718937677,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 131662,
-      "num": 131662,
+      "raw_hot": 136854,
+      "num": 136854,
       "word": "北京到底有谁在啊转场",
       "onboard_time": 1718937438,
       "rank": 43,
@@ -721,14 +801,6 @@
       "onboard_time": 1718926096,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117402,
-      "num": 117402,
-      "word": "科学家发现补觉无法完全恢复大脑功能",
-      "onboard_time": 1718937858,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 117348,
@@ -787,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105511,
+      "num": 105511,
+      "word": "小金毛我长大嘴筒子也这么长吗",
+      "onboard_time": 1718939899,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104042,
       "num": 104042,
       "word": "丞磊口误说双人床",
@@ -825,6 +905,14 @@
       "onboard_time": 1718937258,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102071,
+      "num": 102071,
+      "word": "王俊凯新片角色独白",
+      "onboard_time": 1718938458,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 101751,
@@ -889,6 +977,14 @@
       "onboard_time": 1718887216,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81192,
+      "num": 528550,
+      "word": "暴雨天气实用防御指南",
+      "onboard_time": 1718939839,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79337,

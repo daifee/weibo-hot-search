@@ -1,0 +1,410 @@
+{
+  "runTime": 1718940156638,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1137600,
+        "num": 1137600,
+        "word": "Manner员工月薪约5000元",
+        "onboard_time": 1718930478,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 967696,
+        "num": 967696,
+        "word": "陈妍希周柯宇新剧开机路透",
+        "onboard_time": 1718938157,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7894,
+        "num": 965992,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965406,
+        "num": 965406,
+        "word": "26岁考编8次终于上岸异地县城",
+        "onboard_time": 1718939719,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 636378,
+        "num": 636378,
+        "word": "傅家明死在了黄亦玫最爱他的那一年",
+        "onboard_time": 1718926937,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 592564,
+        "num": 592564,
+        "word": "梅西状态",
+        "onboard_time": 1718935639,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584288,
+        "num": 584288,
+        "word": "玫瑰的故事韩国宣传视频",
+        "onboard_time": 1718932999,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 562469,
+        "num": 562469,
+        "word": "咖啡师平均月薪4236元",
+        "onboard_time": 1718936837,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537687,
+        "num": 537687,
+        "word": "留给林一的集数不多了",
+        "onboard_time": 1718937677,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81192,
+        "num": 528550,
+        "word": "暴雨天气实用防御指南",
+        "onboard_time": 1718939839,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521767,
+        "num": 521767,
+        "word": "Manner男店员掌掴女顾客附近商家发声",
+        "onboard_time": 1718927236,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465138,
+        "num": 465138,
+        "word": "人最好不要all in做任何事情",
+        "onboard_time": 1718896159,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418961,
+        "num": 418961,
+        "word": "刘亦菲霍建华早干嘛去了",
+        "onboard_time": 1718935338,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403634,
+        "num": 403634,
+        "word": "王菲问王一博这么晚还不到",
+        "onboard_time": 1718928017,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373464,
+        "num": 373464,
+        "word": "成都地铁13号线一在建站点坍塌",
+        "onboard_time": 1718933118,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350949,
+        "num": 350949,
+        "word": "一款艾滋病预防药物取得惊人实验结果",
+        "onboard_time": 1718938098,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 341559,
+        "num": 341559,
+        "word": "灵儿不能这么跟外公讲话",
+        "onboard_time": 1718930298,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316708,
+        "num": 316708,
+        "word": "Manner回应1天2起店员顾客冲突",
+        "onboard_time": 1718930719,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297149,
+        "num": 297149,
+        "word": "傅家明一开始就暗示自己有病了",
+        "onboard_time": 1718933418,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270545,
+        "num": 270545,
+        "word": "韩国政府出招提升生育率引韩网民争议",
+        "onboard_time": 1718935878,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366740,
+        "num": 269066,
+        "word": "经常缺觉的人全身都处于炎症状态",
+        "onboard_time": 1718930537,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242945,
+        "num": 242945,
+        "word": "夏天过去一半了",
+        "onboard_time": 1718937978,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236337,
+        "num": 236337,
+        "word": "乘风2024五公歌单",
+        "onboard_time": 1718938338,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218072,
+        "num": 218072,
+        "word": "白晓荷有孩子了",
+        "onboard_time": 1718895620,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217351,
+        "num": 217351,
+        "word": "科学家发现补觉无法完全恢复大脑功能",
+        "onboard_time": 1718937858,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216048,
+        "num": 216048,
+        "word": "电影默杀定档",
+        "onboard_time": 1718937918,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209557,
+        "num": 209557,
+        "word": "刘亦菲一家女娲严选",
+        "onboard_time": 1718938878,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192519,
+        "num": 192519,
+        "word": "毛晓彤水母伞",
+        "onboard_time": 1718933179,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186550,
+        "num": 186550,
+        "word": "北京有张杰薛之谦在",
+        "onboard_time": 1718935039,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175662,
+        "num": 175662,
+        "word": "跑网约车16小时净收入300元",
+        "onboard_time": 1718930778,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166803,
+        "num": 166803,
+        "word": "王一博机场同款包包",
+        "onboard_time": 1718937079,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164318,
+        "num": 164318,
+        "word": "夏至",
+        "onboard_time": 1718925014,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163399,
+        "num": 163399,
+        "word": "阿根廷2比0加拿大",
+        "onboard_time": 1718936057,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160213,
+        "num": 160213,
+        "word": "成都地铁",
+        "onboard_time": 1718931138,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158421,
+        "num": 158421,
+        "word": "狙击蝴蝶开机",
+        "onboard_time": 1718938696,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150001,
+        "num": 150001,
+        "word": "这可能是妈妈保护你的最后一次",
+        "onboard_time": 1718927297,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149585,
+        "num": 149585,
+        "word": "王星越你快从肃国公身上下来",
+        "onboard_time": 1718939658,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143468,
+        "num": 143468,
+        "word": "主人故意把手放在小狗的嘴边",
+        "onboard_time": 1718928738,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137155,
+        "num": 137155,
+        "word": "裸辞了我妈撺掇的",
+        "onboard_time": 1718934439,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136854,
+        "num": 136854,
+        "word": "北京到底有谁在啊转场",
+        "onboard_time": 1718937438,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136756,
+        "num": 136756,
+        "word": "姆巴佩面具来了",
+        "onboard_time": 1718926637,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132848,
+        "num": 132848,
+        "word": "6月21日4时51分迎来夏至",
+        "onboard_time": 1718928860,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132230,
+        "num": 132230,
+        "word": "金晨生图",
+        "onboard_time": 1718931858,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130715,
+        "num": 130715,
+        "word": "gidle预告",
+        "onboard_time": 1718933717,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128534,
+        "num": 128534,
+        "word": "2类人不建议睡觉时把脚露外面",
+        "onboard_time": 1718899217,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124841,
+        "num": 124841,
+        "word": "华晨宇演唱会 青春盛会",
+        "onboard_time": 1718937619,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118218,
+        "num": 118218,
+        "word": "Cube被处罚",
+        "onboard_time": 1718928437,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109086,
+        "num": 109086,
+        "word": "刘亦菲能长红的原因",
+        "onboard_time": 1718936118,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105511,
+        "num": 105511,
+        "word": "小金毛我长大嘴筒子也这么长吗",
+        "onboard_time": 1718939899,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102071,
+        "num": 102071,
+        "word": "王俊凯新片角色独白",
+        "onboard_time": 1718938458,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在宁夏考察调研#"
+    }
+  }
+}
