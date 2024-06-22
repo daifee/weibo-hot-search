@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 12:21:45
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 12:35:06
 </p>
 </blockquote>
 <p>
@@ -5337,6 +5337,12 @@ LOEWE全球品牌代言人王一博（热度：729341）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Manner%E5%92%96%E5%95%A1%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%A4%AB%E5%A6%87%E8%BA%AB%E5%AE%B672%E4%BA%BF%23" target="weibo">
+Manner咖啡创始人夫妇身家72亿（热度：703140）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%99%B6%20%E4%B9%9D%E5%84%BF%23" target="weibo">
 谭晶 九儿（热度：702944）
 </a>
@@ -6005,12 +6011,6 @@ Angelababy汉服少女（热度：660188）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%A8%E5%B0%BF%E5%8F%91%E9%BB%84%E6%98%AF%E8%82%BE%E6%9C%89%E9%97%AE%E9%A2%98%E5%90%97%23" target="weibo">
 晨尿发黄是肾有问题吗（热度：658850）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%92%E6%B6%B23%E7%9B%B4%E5%88%B0%E6%AD%BB%E4%BA%A1%E5%B0%86%E4%BB%96%E4%BB%AC%E5%88%86%E5%BC%80%23" target="weibo">
-毒液3直到死亡将他们分开（热度：658568）
 </a>
 </li>
 

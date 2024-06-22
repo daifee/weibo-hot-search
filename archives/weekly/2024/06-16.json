@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719030105580,
+  "endTime": 1719030906050,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -2195,6 +2195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 703140,
+      "num": 703140,
+      "word": "Manner咖啡创始人夫妇身家72亿",
+      "onboard_time": 1719026656,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 700071,
       "num": 497817,
       "word": "孙丞潇一个人卖了20只鸡",
@@ -2451,6 +2459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 654269,
+      "num": 654269,
+      "word": "官方回应2只鸡爪27元",
+      "onboard_time": 1719026597,
+      "rank": 30,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 651715,
       "num": 651715,
       "word": "网红刘庸复更",
@@ -2481,22 +2497,6 @@
       "onboard_time": 1718861178,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 642742,
-      "num": 642742,
-      "word": "Manner咖啡创始人夫妇身家72亿",
-      "onboard_time": 1719026656,
-      "rank": 14,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 642134,
-      "num": 642134,
-      "word": "官方回应2只鸡爪27元",
-      "onboard_time": 1719026597,
-      "rank": 30,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 641375,
@@ -2691,6 +2691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 613465,
+      "num": 613465,
+      "word": "段晓薇回应与白鹿撞造型",
+      "onboard_time": 1719027076,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 610172,
       "num": 610172,
       "word": "姜萍妈妈称女儿正在备考",
@@ -2744,6 +2752,14 @@
       "word": "朱朱蔡蔡be",
       "onboard_time": 1718686880,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 607639,
+      "num": 607639,
+      "word": "跑男三年最猛撕名牌",
+      "onboard_time": 1719027918,
+      "rank": 7,
       "category": "综艺"
     },
     {
@@ -2833,14 +2849,6 @@
       "onboard_time": 1718530100,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 596818,
-      "num": 596818,
-      "word": "段晓薇回应与白鹿撞造型",
-      "onboard_time": 1719027076,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 595298,
@@ -3449,14 +3457,6 @@
       "onboard_time": 1718863998,
       "rank": 36,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 519342,
-      "num": 519342,
-      "word": "跑男三年最猛撕名牌",
-      "onboard_time": 1719027918,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 518526,
@@ -4249,6 +4249,14 @@
       "onboard_time": 1718530939,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 437933,
+      "num": 398851,
+      "word": "女子实名举报寺庙住持骗色",
+      "onboard_time": 1719028037,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437128,
@@ -6003,6 +6011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320941,
+      "num": 320941,
+      "word": "福建上杭6名因暴雨失联人员已遇难",
+      "onboard_time": 1719030017,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320808,
       "num": 811688,
       "word": "经常吃馒头和经常吃面包哪个更健康",
@@ -6835,6 +6851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275540,
+      "num": 275540,
+      "word": "法国餐厅偶遇王一博",
+      "onboard_time": 1719027138,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275370,
       "num": 261256,
       "word": "凌晨2点百人打手电摘杨梅现场壮观",
@@ -6929,14 +6953,6 @@
       "onboard_time": 1718559732,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 272730,
-      "num": 272730,
-      "word": "法国餐厅偶遇王一博",
-      "onboard_time": 1719027138,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 272156,
@@ -7089,6 +7105,14 @@
       "onboard_time": 1718542277,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 265963,
+      "num": 174225,
+      "word": "丁太升说那英最后一名有点扯",
+      "onboard_time": 1719029837,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 265885,
@@ -7539,6 +7563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243569,
+      "num": 173065,
+      "word": "樊振东说可能与马龙一起退役",
+      "onboard_time": 1719030077,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243245,
       "num": 200788,
       "word": "男子携带454只濒危乌龟入境被查",
@@ -7592,14 +7624,6 @@
       "word": "塑料手镯被奶奶当宝贝戴了17年",
       "onboard_time": 1718840597,
       "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 241803,
-      "num": 241803,
-      "word": "女子实名举报寺庙住持骗色",
-      "onboard_time": 1719028037,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -8625,6 +8649,14 @@
       "onboard_time": 1718970018,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211888,
+      "num": 172933,
+      "word": "留置针导管在婴儿血管里漂移5年",
+      "onboard_time": 1719030557,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211400,
@@ -9688,6 +9720,14 @@
       "word": "开始推理吧",
       "onboard_time": 1718758938,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194627,
+      "num": 173506,
+      "word": "白鹿奔跑吧杀青",
+      "onboard_time": 1719030318,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -11011,6 +11051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174826,
+      "num": 174826,
+      "word": "六点下班我都觉得好晚",
+      "onboard_time": 1719027379,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 174819,
       "num": 174819,
       "word": "杨康自杀的爸尾随的妈活该的他",
@@ -11105,6 +11153,14 @@
       "onboard_time": 1718953999,
       "rank": 40,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 172785,
+      "num": 172785,
+      "word": "人的智力在学科间的差距很小",
+      "onboard_time": 1719030497,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 172639,
@@ -11395,6 +11451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168340,
+      "num": 168340,
+      "word": "东风破",
+      "onboard_time": 1719030679,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168021,
       "num": 168021,
       "word": "TT对战JDG",
@@ -11505,6 +11569,14 @@
       "onboard_time": 1718932218,
       "rank": 35,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 166291,
+      "num": 166291,
+      "word": "刘宪华于适车银优G社生图",
+      "onboard_time": 1719029478,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166118,
@@ -11641,14 +11713,6 @@
       "onboard_time": 1718846957,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164368,
-      "num": 164368,
-      "word": "六点下班我都觉得好晚",
-      "onboard_time": 1719027379,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 164234,
@@ -12169,6 +12233,14 @@
       "onboard_time": 1718877319,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156886,
+      "num": 156886,
+      "word": "墨雨云间36集",
+      "onboard_time": 1719030738,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 156848,
@@ -13315,6 +13387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140881,
+      "num": 140881,
+      "word": "刘亦菲跳舞直拍",
+      "onboard_time": 1719029657,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140841,
       "num": 140841,
       "word": "王者荣耀策划回应鸡爪流争议",
@@ -13531,14 +13611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138298,
-      "num": 138298,
-      "word": "丁太升说那英最后一名有点扯",
-      "onboard_time": 1719029837,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138273,
       "num": 138273,
       "word": "墨雨云间吻戏呢",
@@ -13667,14 +13739,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 136354,
-      "num": 136354,
-      "word": "刘宪华于适车银优G社生图",
-      "onboard_time": 1719029478,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 136085,
       "num": 136085,
       "word": "DYG对战JDG",
@@ -13753,6 +13817,14 @@
       "onboard_time": 1718864598,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134876,
+      "num": 134876,
+      "word": "Faker说自己没有用皮肤的习惯",
+      "onboard_time": 1719028339,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 134730,
@@ -13907,14 +13979,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 133161,
-      "num": 133161,
-      "word": "Faker说自己没有用皮肤的习惯",
-      "onboard_time": 1719028339,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133148,
       "num": 133148,
       "word": "一个眼神判定萧蘅家庭地位",
@@ -13937,6 +14001,14 @@
       "onboard_time": 1718509876,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132895,
+      "num": 132895,
+      "word": "等活死人diss back",
+      "onboard_time": 1719029717,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 132874,
@@ -14289,14 +14361,6 @@
       "onboard_time": 1718700617,
       "rank": 38,
       "category": "教育"
-    },
-    {
-      "raw_hot": 129623,
-      "num": 129623,
-      "word": "刘亦菲跳舞直拍",
-      "onboard_time": 1719029657,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 129520,
@@ -15019,14 +15083,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122009,
-      "num": 122009,
-      "word": "等活死人diss back",
-      "onboard_time": 1719029717,
-      "rank": 41,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "阴阳怪气的小猫",
@@ -15563,14 +15619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113977,
-      "num": 113977,
-      "word": "樊振东说可能与马龙一起退役",
-      "onboard_time": 1719030077,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113950,
       "num": 113950,
       "word": "耳帝说袁娅维嗓音听得让人心疼",
@@ -15723,6 +15771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110623,
+      "num": 110623,
+      "word": "考了教资就能当老师吗",
+      "onboard_time": 1719030858,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110465,
       "num": 110465,
       "word": "男孩的儿童节愿望在父亲节前实现了",
@@ -15753,14 +15809,6 @@
       "onboard_time": 1718547379,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 110217,
-      "num": 110217,
-      "word": "福建上杭6名因暴雨失联人员已遇难",
-      "onboard_time": 1719030017,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 109949,
@@ -16529,6 +16577,14 @@
       "onboard_time": 1718533098,
       "rank": 24,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 97898,
+      "num": 513079,
+      "word": "100多名学生毕业论文致谢同一人",
+      "onboard_time": 1719029597,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97630,
@@ -17475,6 +17531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72544,
+      "num": 884169,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1719026177,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72370,
       "num": 358743,
       "word": "一口酸汤开启夏天",
@@ -17505,14 +17569,6 @@
       "onboard_time": 1718925676,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 71808,
-      "num": 884169,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1719026177,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71636,
@@ -17592,14 +17648,6 @@
       "word": "中国电影龙标上邮票了",
       "onboard_time": 1718527758,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69661,
-      "num": 513079,
-      "word": "100多名学生毕业论文致谢同一人",
-      "onboard_time": 1719029597,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -18659,6 +18707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41627,
+      "num": 211957,
+      "word": "一眼crush穿搭公式",
+      "onboard_time": 1719029057,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41607,
       "num": 149725,
       "word": "京东618最后4小时",
@@ -18873,14 +18929,6 @@
       "onboard_time": 1718493193,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 37273,
-      "num": 211957,
-      "word": "一眼crush穿搭公式",
-      "onboard_time": 1719029057,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 37241,
@@ -19673,6 +19721,14 @@
       "onboard_time": 1718511138,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 21844,
+      "num": 167652,
+      "word": "美国冻卵行业贩卖生育焦虑",
+      "onboard_time": 1719030257,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21724,
