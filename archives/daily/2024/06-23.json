@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719091082563,
+  "endTime": 1719092080715,
   "band_list": [
     {
       "raw_hot": 1152737,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42931,
+      "num": 21991,
+      "word": "歌手 大众评审系统",
+      "onboard_time": 1719089051,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36640,
       "num": 43289,
       "word": "王莺莺长命百岁",
@@ -499,15 +507,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28541,
-      "num": 21991,
-      "word": "歌手 大众评审系统",
-      "onboard_time": 1719089051,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 20374,
+      "raw_hot": 22419,
       "num": 21986,
       "word": "歌手 音频传输折损现象",
       "onboard_time": 1719090071,
@@ -515,7 +515,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20057,
+      "raw_hot": 21840,
       "num": 21973,
       "word": "黄晓明感谢吴优",
       "onboard_time": 1719088571,
@@ -523,7 +523,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 17626,
+      "raw_hot": 18208,
       "num": 28815,
       "word": "养成松弛感的9个方法",
       "onboard_time": 1719084851,
@@ -531,20 +531,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16681,
-      "num": 21959,
-      "word": "何西好帅",
-      "onboard_time": 1719087012,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15176,
+      "raw_hot": 17680,
       "num": 21948,
       "word": "李钟硕秀场造型",
       "onboard_time": 1719090431,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17029,
+      "num": 21959,
+      "word": "何西好帅",
+      "onboard_time": 1719087012,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 14930,
@@ -561,6 +561,14 @@
       "onboard_time": 1719076395,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 12525,
+      "num": 21431,
+      "word": "全国眼视光医师人才缺口约30万",
+      "onboard_time": 1719091091,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 8968,

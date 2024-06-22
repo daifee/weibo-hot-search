@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719091082563,
+  "endTime": 1719092080715,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -61827,6 +61827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42931,
+      "num": 21991,
+      "word": "歌手 大众评审系统",
+      "onboard_time": 1719089051,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42909,
       "num": 68068,
       "word": "菲承认对非法坐滩军舰补给失败",
@@ -63819,14 +63827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 28541,
-      "num": 21991,
-      "word": "歌手 大众评审系统",
-      "onboard_time": 1719089051,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 28529,
       "num": 319846,
       "word": "爸爸穿上儿子的学士服满脸骄傲",
@@ -64603,6 +64603,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22419,
+      "num": 21986,
+      "word": "歌手 音频传输折损现象",
+      "onboard_time": 1719090071,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22303,
       "num": 801656,
       "word": "嫦娥六号宇宙级别的浪漫",
@@ -64681,6 +64689,14 @@
       "onboard_time": 1719030257,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21840,
+      "num": 21973,
+      "word": "黄晓明感谢吴优",
+      "onboard_time": 1719088571,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 21823,
@@ -64819,14 +64835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20374,
-      "num": 21986,
-      "word": "歌手 音频传输折损现象",
-      "onboard_time": 1719090071,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 20352,
       "num": 35605,
       "word": "一份善意真的可以改变一小片世界",
@@ -64873,14 +64881,6 @@
       "onboard_time": 1718998271,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 20057,
-      "num": 21973,
-      "word": "黄晓明感谢吴优",
-      "onboard_time": 1719088571,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 19931,
@@ -65035,6 +65035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18208,
+      "num": 28815,
+      "word": "养成松弛感的9个方法",
+      "onboard_time": 1719084851,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18194,
       "num": 273527,
       "word": "跟着甘孜文旅局长刘洪打卡G318",
@@ -65075,20 +65083,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 17680,
+      "num": 21948,
+      "word": "李钟硕秀场造型",
+      "onboard_time": 1719090431,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 17644,
       "num": 34183,
       "word": "节假日切忌暴饮暴食小心急性胰腺炎",
       "onboard_time": 1717879571,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 17626,
-      "num": 28815,
-      "word": "养成松弛感的9个方法",
-      "onboard_time": 1719084851,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17572,
@@ -65163,6 +65171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 17029,
+      "num": 21959,
+      "word": "何西好帅",
+      "onboard_time": 1719087012,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16973,
       "num": 159910,
       "word": "一份班主任准备了6年的礼物",
@@ -65209,14 +65225,6 @@
       "onboard_time": 1717517956,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 16681,
-      "num": 21959,
-      "word": "何西好帅",
-      "onboard_time": 1719087012,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 16640,
@@ -65353,14 +65361,6 @@
       "onboard_time": 1717616170,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15176,
-      "num": 21948,
-      "word": "李钟硕秀场造型",
-      "onboard_time": 1719090431,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 15148,
@@ -65745,6 +65745,14 @@
       "onboard_time": 1717533430,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12525,
+      "num": 21431,
+      "word": "全国眼视光医师人才缺口约30万",
+      "onboard_time": 1719091091,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 12283,
