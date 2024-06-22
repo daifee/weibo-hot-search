@@ -1,0 +1,410 @@
+{
+  "runTime": 1719030105580,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1684391,
+        "num": 1684391,
+        "word": "村医吸毒成瘾3年开2846支杜冷丁",
+        "onboard_time": 1719025816,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706488,
+        "num": 706488,
+        "word": "日本婚活火了",
+        "onboard_time": 1719019698,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71808,
+        "num": 686998,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1719026177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681598,
+        "num": 681598,
+        "word": "Manner道歉",
+        "onboard_time": 1719024977,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642742,
+        "num": 642742,
+        "word": "Manner咖啡创始人夫妇身家72亿",
+        "onboard_time": 1719026656,
+        "rank": 4,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 642134,
+        "num": 642134,
+        "word": "官方回应2只鸡爪27元",
+        "onboard_time": 1719026597,
+        "rank": 5,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 596818,
+        "num": 596818,
+        "word": "段晓薇回应与白鹿撞造型",
+        "onboard_time": 1719027076,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 519342,
+        "num": 519342,
+        "word": "跑男三年最猛撕名牌",
+        "onboard_time": 1719027918,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513943,
+        "num": 513943,
+        "word": "汪苏泷抽签又抽到了大众金曲",
+        "onboard_time": 1719023417,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69661,
+        "num": 513079,
+        "word": "100多名学生毕业论文致谢同一人",
+        "onboard_time": 1719029597,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512440,
+        "num": 512440,
+        "word": "吴谨言回应郝蕾表演课",
+        "onboard_time": 1719027017,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 418971,
+        "num": 418971,
+        "word": "马斯克第12个孩子曝光",
+        "onboard_time": 1719023719,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382969,
+        "num": 382969,
+        "word": "韩国集体性侵事件嫌疑人时隔20年道歉",
+        "onboard_time": 1719016456,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310170,
+        "num": 310170,
+        "word": "以闪亮之名",
+        "onboard_time": 1719028698,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 294950,
+        "num": 294950,
+        "word": "王嘉尔给LV创意总监穿唐装",
+        "onboard_time": 1719024557,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277778,
+        "num": 277778,
+        "word": "听到那英第七的张远",
+        "onboard_time": 1719022878,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272730,
+        "num": 272730,
+        "word": "法国餐厅偶遇王一博",
+        "onboard_time": 1719027138,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271558,
+        "num": 271558,
+        "word": "赵露思甜品店 泡芙36一个",
+        "onboard_time": 1718981720,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241803,
+        "num": 241803,
+        "word": "女子实名举报寺庙住持骗色",
+        "onboard_time": 1719028037,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215367,
+        "num": 215367,
+        "word": "明起高考就要出分了",
+        "onboard_time": 1719024557,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 693365,
+        "num": 215069,
+        "word": "杨幂发的是C扩",
+        "onboard_time": 1719026837,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37273,
+        "num": 211957,
+        "word": "一眼crush穿搭公式",
+        "onboard_time": 1719029057,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264960,
+        "num": 207843,
+        "word": "萧蘅抱上孩子了",
+        "onboard_time": 1719022038,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271772,
+        "num": 204544,
+        "word": "医生提醒晚点睡也要在23点前入睡",
+        "onboard_time": 1719013635,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224337,
+        "num": 201864,
+        "word": "刘亦菲演技好自然",
+        "onboard_time": 1719014115,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201310,
+        "num": 201310,
+        "word": "TF三代二公repo",
+        "onboard_time": 1719029357,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200830,
+        "num": 200830,
+        "word": "关闭朋友圈后一年的变化",
+        "onboard_time": 1719015077,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 192081,
+        "num": 192081,
+        "word": "奶奶100岁了我要停业去祝寿",
+        "onboard_time": 1719016096,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190162,
+        "num": 190162,
+        "word": "这饭量请假都得向食堂报备",
+        "onboard_time": 1719026656,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179612,
+        "num": 179612,
+        "word": "检察官与少年官宣",
+        "onboard_time": 1719026057,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174604,
+        "num": 174604,
+        "word": "秦彻 预制菜",
+        "onboard_time": 1719011714,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164368,
+        "num": 164368,
+        "word": "六点下班我都觉得好晚",
+        "onboard_time": 1719027379,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159225,
+        "num": 159225,
+        "word": "你好星期六全员躲猫猫",
+        "onboard_time": 1719025878,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153482,
+        "num": 153482,
+        "word": "TF三公分组",
+        "onboard_time": 1719028698,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153250,
+        "num": 153250,
+        "word": "耳帝 歌手最差的一期吧",
+        "onboard_time": 1718982080,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149913,
+        "num": 149913,
+        "word": "Manner发表声明",
+        "onboard_time": 1718979684,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138298,
+        "num": 138298,
+        "word": "丁太升说那英最后一名有点扯",
+        "onboard_time": 1719029837,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136354,
+        "num": 136354,
+        "word": "刘宪华于适车银优G社生图",
+        "onboard_time": 1719029478,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133161,
+        "num": 133161,
+        "word": "Faker说自己没有用皮肤的习惯",
+        "onboard_time": 1719028339,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129623,
+        "num": 129623,
+        "word": "刘亦菲跳舞直拍",
+        "onboard_time": 1719029657,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125977,
+        "num": 125977,
+        "word": "一句姐夫把肃国公钓成翘嘴了",
+        "onboard_time": 1719020597,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122009,
+        "num": 122009,
+        "word": "等活死人diss back",
+        "onboard_time": 1719029717,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121897,
+        "num": 121897,
+        "word": "小女儿见爸爸特警朋友一杯水就醉了",
+        "onboard_time": 1719020297,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120704,
+        "num": 120704,
+        "word": "iOS18将推出iPhone镜像功能",
+        "onboard_time": 1719020837,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113977,
+        "num": 113977,
+        "word": "樊振东说可能与马龙一起退役",
+        "onboard_time": 1719030077,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110718,
+        "num": 110718,
+        "word": "成毅后援会辞职信",
+        "onboard_time": 1719014955,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110217,
+        "num": 110217,
+        "word": "福建上杭6名因暴雨失联人员已遇难",
+        "onboard_time": 1719030017,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106955,
+        "num": 106955,
+        "word": "浙江中考",
+        "onboard_time": 1719028938,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106159,
+        "num": 106159,
+        "word": "丁程鑫敖子逸一队",
+        "onboard_time": 1719026837,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104885,
+        "num": 104885,
+        "word": "Manner咖啡师称底薪高于同行",
+        "onboard_time": 1719024857,
+        "rank": 49,
+        "category": "社会新闻,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}
