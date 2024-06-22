@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719060599934,
+  "endTime": 1719062520989,
   "band_list": [
     {
       "raw_hot": 1722891,
@@ -91,20 +91,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1231651,
+      "num": 424164,
+      "word": "黄亦玫穿着丧服跳舞",
+      "onboard_time": 1719057258,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1229629,
       "num": 1229629,
       "word": "留置针导管在婴儿血管里漂移5年",
       "onboard_time": 1719030557,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1150551,
-      "num": 408448,
-      "word": "黄亦玫穿着丧服跳舞",
-      "onboard_time": 1719057258,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1107324,
@@ -179,6 +179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 872139,
+      "num": 306885,
+      "word": "傅家明离世庄国栋再回国追玫瑰",
+      "onboard_time": 1719060258,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 796149,
       "num": 796149,
       "word": "汪苏泷抽签又抽到了大众金曲",
@@ -249,6 +257,14 @@
       "onboard_time": 1719026837,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 692998,
+      "num": 692998,
+      "word": "Manner事件 不要为难服务人员",
+      "onboard_time": 1719058037,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 683804,
@@ -347,6 +363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 588766,
+      "num": 276561,
+      "word": "张靓颖演唱会",
+      "onboard_time": 1719061278,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 583658,
       "num": 503971,
       "word": "张远 几乎清唱",
@@ -369,6 +393,14 @@
       "onboard_time": 1719032596,
       "rank": 30,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 561084,
+      "num": 269333,
+      "word": "林一结局才出来",
+      "onboard_time": 1719060679,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 553520,
@@ -409,6 +441,14 @@
       "onboard_time": 1719039318,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 527227,
+      "num": 200176,
+      "word": "刘亦菲汪俊互关了",
+      "onboard_time": 1719059538,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 522562,
@@ -611,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409948,
+      "num": 198199,
+      "word": "黄晓明金爵奖影帝",
+      "onboard_time": 1719061639,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 406015,
       "num": 406015,
       "word": "女生买2份饭拿6双筷子被怒斥盗窃",
@@ -633,6 +681,14 @@
       "onboard_time": 1719034757,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403504,
+      "num": 335657,
+      "word": "张峻豪回应负面新闻",
+      "onboard_time": 1719059538,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 401337,
@@ -675,12 +731,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 385097,
-      "num": 335657,
-      "word": "张峻豪回应负面新闻",
-      "onboard_time": 1719059538,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 380030,
+      "num": 196170,
+      "word": "张艺兴唱EXO的约定",
+      "onboard_time": 1719059897,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 379538,
@@ -795,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342283,
+      "num": 192364,
+      "word": "张靓颖王力宏合唱另一个天堂",
+      "onboard_time": 1719061459,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 341173,
       "num": 177405,
       "word": "十个勤天的蜂蜜",
@@ -809,14 +873,6 @@
       "onboard_time": 1719014115,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 340143,
-      "num": 340143,
-      "word": "Manner事件 不要为难服务人员",
-      "onboard_time": 1719058037,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339603,
@@ -849,22 +905,6 @@
       "onboard_time": 1719056358,
       "rank": 14,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 327760,
-      "num": 187770,
-      "word": "张艺兴唱EXO的约定",
-      "onboard_time": 1719059897,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 319799,
-      "num": 187603,
-      "word": "刘亦菲汪俊互关了",
-      "onboard_time": 1719059538,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 318081,
@@ -920,6 +960,14 @@
       "word": "以闪亮之名",
       "onboard_time": 1719028698,
       "rank": 13,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 306693,
+      "num": 306693,
+      "word": "光与夜之恋 蓝星上楼了",
+      "onboard_time": 1719061158,
+      "rank": 8,
       "category": "游戏"
     },
     {
@@ -1003,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 286329,
+      "num": 184605,
+      "word": "白晓荷孩子",
+      "onboard_time": 1719060498,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284523,
       "num": 181106,
       "word": "妻子称蔡磊越来越艰难还想护自己周全",
@@ -1033,14 +1089,6 @@
       "onboard_time": 1719054558,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 280603,
-      "num": 187518,
-      "word": "傅家明离世庄国栋再回国追玫瑰",
-      "onboard_time": 1719060258,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 275540,
@@ -1323,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212042,
+      "num": 161669,
+      "word": "庄国栋回国彻底放下黄亦玫",
+      "onboard_time": 1719061158,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211848,
       "num": 211848,
       "word": "来中国旅游的老外已经这么卷了",
@@ -1345,6 +1401,14 @@
       "onboard_time": 1719041717,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209219,
+      "num": 141590,
+      "word": "金爵奖",
+      "onboard_time": 1719061578,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 206303,
@@ -1393,6 +1457,14 @@
       "onboard_time": 1719055218,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202768,
+      "num": 136889,
+      "word": "王源演唱会直拍",
+      "onboard_time": 1719061459,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 202615,
@@ -1617,14 +1689,6 @@
       "onboard_time": 1719049817,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181444,
-      "num": 181444,
-      "word": "白晓荷孩子",
-      "onboard_time": 1719060498,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 181130,
@@ -1899,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152374,
+      "num": 204111,
+      "word": "格鲁吉亚vs捷克",
+      "onboard_time": 1719062299,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152174,
       "num": 152174,
       "word": "伊能静带女儿米粒探班秦昊",
@@ -1971,12 +2043,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144416,
+      "num": 144416,
+      "word": "办公室空调开26度还是24度好",
+      "onboard_time": 1719061158,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 143730,
       "num": 143730,
       "word": "KPL",
       "onboard_time": 1719046998,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143308,
+      "num": 143308,
+      "word": "燕云十六声中式美学",
+      "onboard_time": 1719061158,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 141505,
@@ -2049,6 +2137,14 @@
       "onboard_time": 1719020957,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134984,
+      "num": 194459,
+      "word": "狼队对战JDG",
+      "onboard_time": 1719061099,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 134876,
@@ -2275,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111822,
+      "num": 338765,
+      "word": "清洁袋上密密麻麻全是她的认真",
+      "onboard_time": 1719059658,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109669,
       "num": 109669,
       "word": "萧蘅已是菲门男主人",
@@ -2435,6 +2539,14 @@
       "category": "国内时政,科学科普"
     },
     {
+      "raw_hot": 97802,
+      "num": 107338,
+      "word": "以色列会在黎巴嫩开辟第二战场吗",
+      "onboard_time": 1719057918,
+      "rank": 49,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 96806,
       "num": 96806,
       "word": "高考志愿填报市场乱象",
@@ -2531,6 +2643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88710,
+      "num": 286521,
+      "word": "鸿蒙工程师平均月薪超1.8万",
+      "onboard_time": 1719059538,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87733,
       "num": 87733,
       "word": "波兰1比3奥地利",
@@ -2569,14 +2689,6 @@
       "onboard_time": 1718969778,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79778,
-      "num": 338765,
-      "word": "清洁袋上密密麻麻全是她的认真",
-      "onboard_time": 1719059658,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77840,
@@ -2675,14 +2787,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 64083,
-      "num": 188921,
-      "word": "鸿蒙工程师平均月薪超1.8万",
-      "onboard_time": 1719059538,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60574,
       "num": 168143,
       "word": "土耳其女排vs波兰女排",
@@ -2705,6 +2809,14 @@
       "onboard_time": 1718976441,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58744,
+      "num": 302789,
+      "word": "抢险前线的战士雨靴中倒出泥水",
+      "onboard_time": 1719061518,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 58283,
@@ -3053,6 +3165,9 @@
     },
     {
       "word": "#习近平对全面深化改革的重要论述#"
+    },
+    {
+      "word": "#习近平引领新时代改革开放#"
     }
   ]
 }
