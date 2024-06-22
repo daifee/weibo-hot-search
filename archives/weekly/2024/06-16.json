@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719023526529,
+  "endTime": 1719024158810,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -363,6 +363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1566798,
+      "num": 1566798,
+      "word": "日本婚活火了",
+      "onboard_time": 1719019698,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1560182,
       "num": 1560182,
       "word": "不是爽剧但还是爆了",
@@ -384,14 +392,6 @@
       "word": "896工作制",
       "onboard_time": 1718610017,
       "rank": 0,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1543034,
-      "num": 1543034,
-      "word": "日本婚活火了",
-      "onboard_time": 1719019698,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -668,7 +668,7 @@
     },
     {
       "raw_hot": 1312184,
-      "num": 451863,
+      "num": 460149,
       "word": "韩国集体性侵事件嫌疑人时隔20年道歉",
       "onboard_time": 1719016456,
       "rank": 3,
@@ -4011,6 +4011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449782,
+      "num": 449782,
+      "word": "上汽MG回应被欧盟征48.1%关税",
+      "onboard_time": 1719023837,
+      "rank": 4,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 449462,
       "num": 449462,
       "word": "章子怡哽咽",
@@ -4459,6 +4467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 417190,
+      "num": 417190,
+      "word": "听到那英第七的张远",
+      "onboard_time": 1719022878,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415982,
       "num": 211535,
       "word": "孙千裸背",
@@ -4497,6 +4513,14 @@
       "onboard_time": 1718592736,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 413472,
+      "num": 413472,
+      "word": "萧蘅抱上孩子了",
+      "onboard_time": 1719022038,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 413439,
@@ -4899,6 +4923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 376620,
+      "num": 376620,
+      "word": "奶奶100岁了我要停业去祝寿",
+      "onboard_time": 1719016096,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376215,
       "num": 376215,
       "word": "太原理工晋级",
@@ -4969,14 +5001,6 @@
       "onboard_time": 1718694018,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 371834,
-      "num": 371834,
-      "word": "奶奶100岁了我要停业去祝寿",
-      "onboard_time": 1719016096,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371444,
@@ -5139,6 +5163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 362136,
+      "num": 362136,
+      "word": "iOS18将推出iPhone镜像功能",
+      "onboard_time": 1719020837,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 360686,
       "num": 253378,
       "word": "越来越多年轻人患上结婚羞耻症",
@@ -5177,6 +5209,14 @@
       "onboard_time": 1718722219,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 358949,
+      "num": 358949,
+      "word": "一句姐夫把肃国公钓成翘嘴了",
+      "onboard_time": 1719020597,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 358228,
@@ -5249,14 +5289,6 @@
       "onboard_time": 1718946440,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 355940,
-      "num": 355940,
-      "word": "iOS18将推出iPhone镜像功能",
-      "onboard_time": 1719020837,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 355670,
@@ -5393,14 +5425,6 @@
       "onboard_time": 1718973500,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 346071,
-      "num": 322480,
-      "word": "萧蘅抱上孩子了",
-      "onboard_time": 1719022038,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 345561,
@@ -6027,6 +6051,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 311091,
+      "num": 197525,
+      "word": "汪苏泷抽签又抽到了大众金曲",
+      "onboard_time": 1719023417,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311008,
       "num": 311008,
       "word": "柳智敏被衣服磨得皮肤通红",
@@ -6073,14 +6105,6 @@
       "onboard_time": 1718550739,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 307376,
-      "num": 307376,
-      "word": "一句姐夫把肃国公钓成翘嘴了",
-      "onboard_time": 1719020597,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 306546,
@@ -6153,6 +6177,14 @@
       "onboard_time": 1718809460,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304350,
+      "num": 304350,
+      "word": "北京全市旅游景区全面取消预约",
+      "onboard_time": 1719020777,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 304016,
@@ -6401,14 +6433,6 @@
       "onboard_time": 1718588238,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 288680,
-      "num": 288680,
-      "word": "北京全市旅游景区全面取消预约",
-      "onboard_time": 1719020777,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 288457,
@@ -6697,14 +6721,6 @@
       "onboard_time": 1718534718,
       "rank": 15,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 277533,
-      "num": 277533,
-      "word": "听到那英第七的张远",
-      "onboard_time": 1719022878,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 276787,
@@ -7739,6 +7755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232176,
+      "num": 232176,
+      "word": "马斯克第12个孩子曝光",
+      "onboard_time": 1719023719,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232051,
       "num": 232051,
       "word": "周深回应孙楠唱人是",
@@ -8451,6 +8475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212652,
+      "num": 187846,
+      "word": "余宇涵 分组",
+      "onboard_time": 1719023357,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212613,
       "num": 181188,
       "word": "王星越 想谈系",
@@ -8883,6 +8915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204331,
+      "num": 185467,
+      "word": "原来徐冬冬才是卡戴珊style的鼻祖",
+      "onboard_time": 1719023357,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204071,
       "num": 204071,
       "word": "老板啤酒杯里发现女子留下金镯子",
@@ -9179,6 +9219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199222,
+      "num": 205735,
+      "word": "小女儿见爸爸特警朋友一杯水就醉了",
+      "onboard_time": 1719020297,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199073,
       "num": 199073,
       "word": "刘宇宁现场好稳",
@@ -9425,14 +9473,6 @@
       "onboard_time": 1718626518,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 195908,
-      "num": 205735,
-      "word": "小女儿见爸爸特警朋友一杯水就醉了",
-      "onboard_time": 1719020297,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195725,
@@ -10723,14 +10763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176324,
-      "num": 146097,
-      "word": "汪苏泷抽签又抽到了大众金曲",
-      "onboard_time": 1719023417,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176226,
       "num": 176226,
       "word": "小狗掉的小乳牙",
@@ -11265,14 +11297,6 @@
       "onboard_time": 1718937079,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 167081,
-      "num": 167081,
-      "word": "原来徐冬冬才是卡戴珊style的鼻祖",
-      "onboard_time": 1719023357,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 167065,
@@ -12003,6 +12027,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 156373,
+      "num": 156373,
+      "word": "女子刺伤家暴的丈夫被认定正当防卫",
+      "onboard_time": 1719020359,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156358,
       "num": 156358,
       "word": "艾尔登法环",
@@ -12129,6 +12161,14 @@
       "onboard_time": 1718795238,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155135,
+      "num": 155135,
+      "word": "狗狗为什么有时会找草吃",
+      "onboard_time": 1719023537,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 155129,
@@ -12265,14 +12305,6 @@
       "onboard_time": 1718608758,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 153042,
-      "num": 153042,
-      "word": "余宇涵 分组",
-      "onboard_time": 1719023357,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 152980,
@@ -12995,14 +13027,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 143328,
-      "num": 143328,
-      "word": "女子刺伤家暴的丈夫被认定正当防卫",
-      "onboard_time": 1719020359,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143189,
       "num": 192586,
       "word": "梅州一干部疏散转移群众中因公殉职",
@@ -13137,6 +13161,14 @@
       "onboard_time": 1718619857,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140584,
+      "num": 140584,
+      "word": "万茜拍摄母女对峙戏恨得牙痒痒",
+      "onboard_time": 1719021017,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 140518,
@@ -13432,14 +13464,6 @@
       "word": "黄亦玫傅家明互怼开局",
       "onboard_time": 1718803159,
       "rank": 43,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 136513,
-      "num": 136513,
-      "word": "万茜拍摄母女对峙戏恨得牙痒痒",
-      "onboard_time": 1719021017,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -15291,6 +15315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113950,
+      "num": 113950,
+      "word": "耳帝说袁娅维嗓音听得让人心疼",
+      "onboard_time": 1719022637,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113431,
       "num": 113431,
       "word": "我大学毕业典礼都没幼儿园的隆重",
@@ -15657,14 +15689,6 @@
       "onboard_time": 1718704639,
       "rank": 43,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 107218,
-      "num": 107218,
-      "word": "耳帝说袁娅维嗓音听得让人心疼",
-      "onboard_time": 1719022637,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 107138,
@@ -16153,6 +16177,14 @@
       "onboard_time": 1718518337,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99572,
+      "num": 99572,
+      "word": "苏打绿北京场",
+      "onboard_time": 1719023897,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 99424,
@@ -17939,6 +17971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50223,
+      "num": 322896,
+      "word": "武大老师雨中静止不动等毕业生合影",
+      "onboard_time": 1719022158,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49479,
       "num": 55364,
       "word": "居莱尔小孩哥",
@@ -18187,6 +18227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43029,
+      "num": 131802,
+      "word": "一根皮带用20年的他默默捐款1500万",
+      "onboard_time": 1719024017,
+      "rank": 37,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 42985,
       "num": 426179,
       "word": "梅州多位村民讲述洪水发生情况",
@@ -18423,14 +18471,6 @@
       "num": 488779,
       "word": "父亲节当天西安现绝美彩虹",
       "onboard_time": 1718549842,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39162,
-      "num": 322896,
-      "word": "武大老师雨中静止不动等毕业生合影",
-      "onboard_time": 1719022158,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -18673,6 +18713,14 @@
       "onboard_time": 1719006671,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34346,
+      "num": 192751,
+      "word": "85岁奶奶暖心叮嘱刚高考完的孙子",
+      "onboard_time": 1719024076,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34147,

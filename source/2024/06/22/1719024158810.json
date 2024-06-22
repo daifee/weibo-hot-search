@@ -1,0 +1,410 @@
+{
+  "runTime": 1719024158810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1566798,
+        "num": 1566798,
+        "word": "日本婚活火了",
+        "onboard_time": 1719019698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523763,
+        "num": 523763,
+        "word": "耳帝 歌手最差的一期吧",
+        "onboard_time": 1718982080,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12318,
+        "num": 466532,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 710996,
+        "num": 460149,
+        "word": "韩国集体性侵事件嫌疑人时隔20年道歉",
+        "onboard_time": 1719016456,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449782,
+        "num": 449782,
+        "word": "上汽MG回应被欧盟征48.1%关税",
+        "onboard_time": 1719023837,
+        "rank": 4,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 431751,
+        "num": 431751,
+        "word": "赵露思甜品店 泡芙36一个",
+        "onboard_time": 1718981720,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421860,
+        "num": 421860,
+        "word": "成毅后援会辞职信",
+        "onboard_time": 1719014955,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417190,
+        "num": 417190,
+        "word": "听到那英第七的张远",
+        "onboard_time": 1719022878,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413472,
+        "num": 413472,
+        "word": "萧蘅抱上孩子了",
+        "onboard_time": 1719022038,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376620,
+        "num": 376620,
+        "word": "奶奶100岁了我要停业去祝寿",
+        "onboard_time": 1719016096,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378285,
+        "num": 372877,
+        "word": "华少 主持",
+        "onboard_time": 1719016696,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362136,
+        "num": 362136,
+        "word": "iOS18将推出iPhone镜像功能",
+        "onboard_time": 1719020837,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 358949,
+        "num": 358949,
+        "word": "一句姐夫把肃国公钓成翘嘴了",
+        "onboard_time": 1719020597,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319184,
+        "num": 319184,
+        "word": "Manner清空账号",
+        "onboard_time": 1719014236,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307814,
+        "num": 307814,
+        "word": "Manner发表声明",
+        "onboard_time": 1718979684,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304350,
+        "num": 304350,
+        "word": "北京全市旅游景区全面取消预约",
+        "onboard_time": 1719020777,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303873,
+        "num": 303873,
+        "word": "刘亦菲演技好自然",
+        "onboard_time": 1719014115,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232176,
+        "num": 232176,
+        "word": "马斯克第12个孩子曝光",
+        "onboard_time": 1719023719,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228037,
+        "num": 228037,
+        "word": "云南绿色蝴蝶大爆发",
+        "onboard_time": 1719015077,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 199222,
+        "num": 199222,
+        "word": "小女儿见爸爸特警朋友一杯水就醉了",
+        "onboard_time": 1719020297,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381003,
+        "num": 198301,
+        "word": "医生提醒晚点睡也要在23点前入睡",
+        "onboard_time": 1719013635,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311091,
+        "num": 197525,
+        "word": "汪苏泷抽签又抽到了大众金曲",
+        "onboard_time": 1719023417,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50223,
+        "num": 195333,
+        "word": "武大老师雨中静止不动等毕业生合影",
+        "onboard_time": 1719022158,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254017,
+        "num": 193491,
+        "word": "柳智敏被衣服磨得皮肤通红",
+        "onboard_time": 1719015496,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34346,
+        "num": 192751,
+        "word": "85岁奶奶暖心叮嘱刚高考完的孙子",
+        "onboard_time": 1719024076,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244171,
+        "num": 190256,
+        "word": "为啥每晚睡够7小时还是疲惫不堪",
+        "onboard_time": 1719014655,
+        "rank": 25,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 233799,
+        "num": 189345,
+        "word": "关闭朋友圈后一年的变化",
+        "onboard_time": 1719015077,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212652,
+        "num": 187846,
+        "word": "余宇涵 分组",
+        "onboard_time": 1719023357,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206735,
+        "num": 186389,
+        "word": "李梦演技",
+        "onboard_time": 1719012614,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204331,
+        "num": 185467,
+        "word": "原来徐冬冬才是卡戴珊style的鼻祖",
+        "onboard_time": 1719023357,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184048,
+        "num": 184048,
+        "word": "秦彻 预制菜",
+        "onboard_time": 1719011714,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 168862,
+        "num": 168862,
+        "word": "女生买2份饭拿6双筷子被怒斥盗窃",
+        "onboard_time": 1718988975,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158146,
+        "num": 158146,
+        "word": "汪苏泷第一句出来就知道不简单",
+        "onboard_time": 1719019277,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156373,
+        "num": 156373,
+        "word": "女子刺伤家暴的丈夫被认定正当防卫",
+        "onboard_time": 1719020359,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155135,
+        "num": 155135,
+        "word": "狗狗为什么有时会找草吃",
+        "onboard_time": 1719023537,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 140584,
+        "num": 140584,
+        "word": "万茜拍摄母女对峙戏恨得牙痒痒",
+        "onboard_time": 1719021017,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135134,
+        "num": 135134,
+        "word": "表演艺术家王铁成去世",
+        "onboard_time": 1719020957,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43029,
+        "num": 131802,
+        "word": "一根皮带用20年的他默默捐款1500万",
+        "onboard_time": 1719024017,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 130098,
+        "num": 130098,
+        "word": "老板啤酒杯里发现女子留下金镯子",
+        "onboard_time": 1719018077,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123476,
+        "num": 123476,
+        "word": "墨雨云间 表哥上大分",
+        "onboard_time": 1719014355,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116834,
+        "num": 116834,
+        "word": "华为Mate70将首发搭载纯血鸿蒙",
+        "onboard_time": 1719014715,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116803,
+        "num": 116803,
+        "word": "德国球迷认为中国是对手",
+        "onboard_time": 1719014896,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116543,
+        "num": 116543,
+        "word": "黄亦玫同款盘发",
+        "onboard_time": 1719019156,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116247,
+        "num": 116247,
+        "word": "男子洪水中救母遇难",
+        "onboard_time": 1719018738,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113950,
+        "num": 113950,
+        "word": "耳帝说袁娅维嗓音听得让人心疼",
+        "onboard_time": 1719022637,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108549,
+        "num": 108549,
+        "word": "法国0比0战平荷兰",
+        "onboard_time": 1719011472,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106873,
+        "num": 106873,
+        "word": "杨幂发表C刊",
+        "onboard_time": 1718970918,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103713,
+        "num": 103713,
+        "word": "那英竟然第七",
+        "onboard_time": 1718979802,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99572,
+        "num": 99572,
+        "word": "苏打绿北京场",
+        "onboard_time": 1719023897,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91082,
+        "num": 91082,
+        "word": "玫瑰的故事 各平台现状",
+        "onboard_time": 1718982381,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设黄河流域生态保护和高质量发展先行区#"
+    }
+  }
+}
