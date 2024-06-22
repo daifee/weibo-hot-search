@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/23 00:24:11 ~ 2024/06/23 06:34:37
+本榜单时间：2024/06/23 00:24:11 ~ 2024/06/23 07:17:58
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,18 @@ Manner事件 不要为难服务人员（热度：246122）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%20%E5%A4%A7%E4%BC%97%E8%AF%84%E5%AE%A1%E7%B3%BB%E7%BB%9F%23" target="weibo">
+歌手 大众评审系统（热度：150805）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%9D%90%E5%8D%A7%E9%93%BA%E8%A2%AB%E5%BC%BA%E8%A1%8C%E5%B8%A6%E7%A6%BB%23" target="weibo">
+女子买无座票坐卧铺被强行带离（热度：149588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%BC%94%E6%8A%80%23" target="weibo">
 刘亦菲演技（热度：147104）
 </a>
@@ -249,8 +261,14 @@ Manner事件 不要为难服务人员（热度：246122）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E6%97%A0%E5%BA%A7%E7%A5%A8%E5%9D%90%E5%8D%A7%E9%93%BA%E8%A2%AB%E5%BC%BA%E8%A1%8C%E5%B8%A6%E7%A6%BB%23" target="weibo">
-女子买无座票坐卧铺被强行带离（热度：95154）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E6%B2%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B1%95%E8%A7%88%E4%BA%86%E9%9A%8B%E7%82%80%E5%B8%9D%E7%9A%84%E8%9B%80%E7%89%99%23" target="weibo">
+大运河博物馆展览了隋炀帝的蛀牙（热度：96508）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B62%E6%AF%940%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%23" target="weibo">
+比利时2比0罗马尼亚（热度：93289）
 </a>
 </li>
 
@@ -261,14 +279,14 @@ Manner事件 不要为难服务人员（热度：246122）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E4%B8%AA%E6%BE%A1%E5%B7%AE%E7%82%B9%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%B4%97%E6%8E%89%E4%B8%8B%E5%8E%BB%23" target="weibo">
-洗个澡差点把自己洗掉下去（热度：83778）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E9%97%AD%E4%BF%84%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%92%8C%E7%BA%BD%E7%BA%A6%E7%9A%84%E7%AD%BE%E8%AF%81%E4%B8%AD%E5%BF%83%23" target="weibo">
+美国关闭俄在华盛顿和纽约的签证中心（热度：84189）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%20%E5%A4%A7%E4%BC%97%E8%AF%84%E5%AE%A1%E7%B3%BB%E7%BB%9F%23" target="weibo">
-歌手 大众评审系统（热度：82738）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E4%B8%AA%E6%BE%A1%E5%B7%AE%E7%82%B9%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%B4%97%E6%8E%89%E4%B8%8B%E5%8E%BB%23" target="weibo">
+洗个澡差点把自己洗掉下去（热度：83778）
 </a>
 </li>
 
@@ -285,8 +303,14 @@ Manner事件 不要为难服务人员（热度：246122）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E6%B2%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%B1%95%E8%A7%88%E4%BA%86%E9%9A%8B%E7%82%80%E5%B8%9D%E7%9A%84%E8%9B%80%E7%89%99%23" target="weibo">
-大运河博物馆展览了隋炀帝的蛀牙（热度：76774）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B60%E6%AF%943%E8%91%A1%E8%90%84%E7%89%99%23" target="weibo">
+土耳其0比3葡萄牙（热度：78133）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%97%A0%E7%A7%81%E5%8A%A9%E6%94%BB%23" target="weibo">
+C罗无私助攻（热度：77741）
 </a>
 </li>
 
@@ -315,8 +339,14 @@ F1（热度：67819）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%85%B3%E9%97%AD%E4%BF%84%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%92%8C%E7%BA%BD%E7%BA%A6%E7%9A%84%E7%AD%BE%E8%AF%81%E4%B8%AD%E5%BF%83%23" target="weibo">
-美国关闭俄在华盛顿和纽约的签证中心（热度：65854）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%995%E7%A7%8D%E7%97%85%E6%A0%B9%E6%9C%AC%E6%97%A0%E6%B3%95%E6%A0%B9%E6%B2%BB%23" target="weibo">
+这5种病根本无法根治（热度：67298）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%A3%9E%E8%AF%B4TFBOYS%E6%88%90%E5%91%98%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95%E6%9C%89%E7%82%B9%E6%97%A9%23" target="weibo">
+李飞说TFBOYS成员个人发展有点早（热度：65892）
 </a>
 </li>
 
@@ -327,8 +357,20 @@ F1（热度：67819）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232024%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E4%BB%8A%E6%97%A5%E5%8F%AF%E6%9F%A5%23" target="weibo">
+2024多地高考成绩今日可查（热度：62253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E7%BD%AE%E9%92%88%E5%AF%BC%E7%AE%A1%E5%9C%A8%E5%A9%B4%E5%84%BF%E8%A1%80%E7%AE%A1%E9%87%8C%E6%BC%82%E7%A7%BB5%E5%B9%B4%23" target="weibo">
 留置针导管在婴儿血管里漂移5年（热度：56694）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E8%83%96%E5%BE%97%E8%B5%B7%E4%B9%9F%E7%98%A6%E5%BE%97%E4%B8%8B%23" target="weibo">
+秦海璐胖得起也瘦得下（热度：54834）
 </a>
 </li>
 
@@ -345,14 +387,8 @@ F1（热度：67819）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%A3%9E%E8%AF%B4TFBOYS%E6%88%90%E5%91%98%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95%E6%9C%89%E7%82%B9%E6%97%A9%23" target="weibo">
-李飞说TFBOYS成员个人发展有点早（热度：50985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%995%E7%A7%8D%E7%97%85%E6%A0%B9%E6%9C%AC%E6%97%A0%E6%B3%95%E6%A0%B9%E6%B2%BB%23" target="weibo">
-这5种病根本无法根治（热度：46266）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%B4%A0%E9%A2%9C%E8%8B%B1%E6%96%87%E8%AF%95%E9%95%9C%23" target="weibo">
+刘亦菲素颜英文试镜（热度：49198）
 </a>
 </li>
 
@@ -363,8 +399,32 @@ F1（热度：67819）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%B5%B7%E7%92%90%E8%83%96%E5%BE%97%E8%B5%B7%E4%B9%9F%E7%98%A6%E5%BE%97%E4%B8%8B%23" target="weibo">
-秦海璐胖得起也瘦得下（热度：36756）
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E6%99%8B%E7%BA%A7%E6%AC%A7%E6%B4%B2%E6%9D%AF16%E5%BC%BA%23" target="weibo">
+葡萄牙晋级欧洲杯16强（热度：40729）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B9%8C%E9%BE%99%E7%90%83%23" target="weibo">
+土耳其乌龙球（热度：38294）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E4%BC%98%E9%82%80%E7%BA%A6%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8B%E9%83%A8%E6%88%8F%23" target="weibo">
+葛优邀约王俊凯下部戏（热度：38287）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E7%A7%80%E5%9C%BA%E9%80%A0%E5%9E%8B%23" target="weibo">
+李钟硕秀场造型（热度：37778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E6%88%90%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%849%E4%B8%AA%E6%96%B9%E6%B3%95%23" target="weibo">
+养成松弛感的9个方法（热度：37097）
 </a>
 </li>
 
@@ -399,8 +459,8 @@ C罗和羊驼自拍（热度：36006）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%92%9F%E7%A1%95%E7%A7%80%E5%9C%BA%E9%80%A0%E5%9E%8B%23" target="weibo">
-李钟硕秀场造型（热度：29047）
+<a href="https://s.weibo.com/weibo?q=%23B%E8%B4%B9%E7%A0%B4%E9%97%A8%23" target="weibo">
+B费破门（热度：31960）
 </a>
 </li>
 
@@ -413,18 +473,6 @@ C罗和羊驼自拍（热度：36006）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%84%9F%E8%B0%A2%E5%90%B4%E4%BC%98%23" target="weibo">
 黄晓明感谢吴优（热度：24891）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E4%BC%98%E9%82%80%E7%BA%A6%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8B%E9%83%A8%E6%88%8F%23" target="weibo">
-葛优邀约王俊凯下部戏（热度：23866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E6%88%90%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%849%E4%B8%AA%E6%96%B9%E6%B3%95%23" target="weibo">
-养成松弛感的9个方法（热度：22383）
 </a>
 </li>
 
