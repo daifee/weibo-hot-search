@@ -1,0 +1,410 @@
+{
+  "runTime": 1719026570876,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211745,
+        "num": 1211745,
+        "word": "日本婚活火了",
+        "onboard_time": 1719019698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 747721,
+        "num": 747721,
+        "word": "汪苏泷抽签又抽到了大众金曲",
+        "onboard_time": 1719023417,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40185,
+        "num": 664295,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1719026177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 641907,
+        "num": 641907,
+        "word": "韩国集体性侵事件嫌疑人时隔20年道歉",
+        "onboard_time": 1719016456,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638988,
+        "num": 638988,
+        "word": "马斯克第12个孩子曝光",
+        "onboard_time": 1719023719,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 486687,
+        "num": 486687,
+        "word": "听到那英第七的张远",
+        "onboard_time": 1719022878,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427391,
+        "num": 427391,
+        "word": "王嘉尔给LV创意总监穿唐装",
+        "onboard_time": 1719024557,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415819,
+        "num": 415819,
+        "word": "萧蘅抱上孩子了",
+        "onboard_time": 1719022038,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333163,
+        "num": 333163,
+        "word": "奶奶100岁了我要停业去祝寿",
+        "onboard_time": 1719016096,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313663,
+        "num": 313663,
+        "word": "明起高考就要出分了",
+        "onboard_time": 1719024557,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 871690,
+        "num": 311291,
+        "word": "村医吸毒成瘾3年开2846支杜冷丁",
+        "onboard_time": 1719025816,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383244,
+        "num": 308953,
+        "word": "耳帝 歌手最差的一期吧",
+        "onboard_time": 1718982080,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353906,
+        "num": 306365,
+        "word": "赵露思甜品店 泡芙36一个",
+        "onboard_time": 1718981720,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302907,
+        "num": 302907,
+        "word": "Manner道歉",
+        "onboard_time": 1719024977,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290097,
+        "num": 290097,
+        "word": "刘亦菲演技好自然",
+        "onboard_time": 1719014115,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285713,
+        "num": 285713,
+        "word": "iOS18将推出iPhone镜像功能",
+        "onboard_time": 1719020837,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274658,
+        "num": 274658,
+        "word": "Manner发表声明",
+        "onboard_time": 1718979684,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260870,
+        "num": 260870,
+        "word": "成毅后援会辞职信",
+        "onboard_time": 1719014955,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231990,
+        "num": 231990,
+        "word": "Manner清空账号",
+        "onboard_time": 1719014236,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210836,
+        "num": 210836,
+        "word": "上汽MG回应被欧盟征48.1%关税",
+        "onboard_time": 1719023837,
+        "rank": 19,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 301082,
+        "num": 210190,
+        "word": "医生提醒晚点睡也要在23点前入睡",
+        "onboard_time": 1719013635,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256841,
+        "num": 206876,
+        "word": "关闭朋友圈后一年的变化",
+        "onboard_time": 1719015077,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247630,
+        "num": 202544,
+        "word": "一句姐夫把肃国公钓成翘嘴了",
+        "onboard_time": 1719020597,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214416,
+        "num": 201905,
+        "word": "华少 主持",
+        "onboard_time": 1719016696,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65447,
+        "num": 199265,
+        "word": "大运河申遗用了3111天",
+        "onboard_time": 1719025578,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196957,
+        "num": 196957,
+        "word": "你好星期六全员躲猫猫",
+        "onboard_time": 1719025878,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195496,
+        "num": 195496,
+        "word": "检察官与少年官宣",
+        "onboard_time": 1719026057,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193067,
+        "num": 193067,
+        "word": "秦彻 预制菜",
+        "onboard_time": 1719011714,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181507,
+        "num": 181507,
+        "word": "原来徐冬冬才是卡戴珊style的鼻祖",
+        "onboard_time": 1719023357,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178005,
+        "num": 178005,
+        "word": "左邓一组",
+        "onboard_time": 1719025997,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176719,
+        "num": 176719,
+        "word": "王源演唱会应援声明",
+        "onboard_time": 1719025216,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176025,
+        "num": 176025,
+        "word": "柳智敏被衣服磨得皮肤通红",
+        "onboard_time": 1719015496,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170047,
+        "num": 170047,
+        "word": "云南绿色蝴蝶大爆发",
+        "onboard_time": 1719015077,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 156654,
+        "num": 156654,
+        "word": "余宇涵 分组",
+        "onboard_time": 1719023357,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152772,
+        "num": 152772,
+        "word": "狗狗为什么有时会找草吃",
+        "onboard_time": 1719023537,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 60310,
+        "num": 145981,
+        "word": "85岁奶奶暖心叮嘱刚高考完的孙子",
+        "onboard_time": 1719024076,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145228,
+        "num": 145228,
+        "word": "为啥每晚睡够7小时还是疲惫不堪",
+        "onboard_time": 1719014655,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 139430,
+        "num": 139430,
+        "word": "小女儿见爸爸特警朋友一杯水就醉了",
+        "onboard_time": 1719020297,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138718,
+        "num": 138718,
+        "word": "Manner咖啡师称底薪高于同行",
+        "onboard_time": 1719024857,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 58283,
+        "num": 138315,
+        "word": "白象与辉同行中国山河中国面",
+        "onboard_time": 1719025216,
+        "rank": 39,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 138022,
+        "num": 138022,
+        "word": "李梦演技",
+        "onboard_time": 1719012614,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30097,
+        "num": 128983,
+        "word": "走大运行好运",
+        "onboard_time": 1719025578,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120361,
+        "num": 120361,
+        "word": "吴谨言回应和王星越年龄差距",
+        "onboard_time": 1719026057,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116453,
+        "num": 116453,
+        "word": "耳帝你看张学友行吗",
+        "onboard_time": 1719026357,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112231,
+        "num": 112231,
+        "word": "女子刺伤家暴的丈夫被认定正当防卫",
+        "onboard_time": 1719020359,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107783,
+        "num": 107783,
+        "word": "表演艺术家王铁成去世",
+        "onboard_time": 1719020957,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105717,
+        "num": 105717,
+        "word": "万茜拍摄母女对峙戏恨得牙痒痒",
+        "onboard_time": 1719021017,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104179,
+        "num": 104179,
+        "word": "女生买2份饭拿6双筷子被怒斥盗窃",
+        "onboard_time": 1718988975,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99681,
+        "num": 99681,
+        "word": "华为Mate70将首发搭载纯血鸿蒙",
+        "onboard_time": 1719014715,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96502,
+        "num": 96502,
+        "word": "魏建军称选择专业需要热爱",
+        "onboard_time": 1719024438,
+        "rank": 49,
+        "category": "汽车,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}
