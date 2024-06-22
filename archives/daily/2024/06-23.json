@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719074287698,
+  "endTime": 1719076556970,
   "band_list": [
     {
       "raw_hot": 1152737,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 543371,
-      "num": 342275,
+      "num": 447281,
       "word": "玫瑰的故事大结局",
       "onboard_time": 1719056417,
       "rank": 7,
@@ -75,6 +75,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 388524,
+      "num": 353491,
+      "word": "婉宁下线这段真是震撼",
+      "onboard_time": 1719072019,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 374994,
+      "num": 374994,
+      "word": "Manner 倒计时",
+      "onboard_time": 1719073277,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366679,
       "num": 251304,
       "word": "薛芳菲为婉宁流泪",
@@ -83,8 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 349346,
-      "num": 349346,
+      "raw_hot": 362271,
+      "num": 362271,
       "word": "土耳其vs葡萄牙",
       "onboard_time": 1719068539,
       "rank": 15,
@@ -137,14 +153,6 @@
       "onboard_time": 1719057557,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 233781,
-      "num": 196752,
-      "word": "婉宁下线这段真是震撼",
-      "onboard_time": 1719072019,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 204699,
@@ -299,7 +307,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 97975,
+      "raw_hot": 98901,
       "num": 200060,
       "word": "王者荣耀",
       "onboard_time": 1719058757,
@@ -347,12 +355,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72442,
-      "num": 191558,
-      "word": "Manner 倒计时",
-      "onboard_time": 1719073277,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 72767,
+      "num": 102950,
+      "word": "张峻豪回应负面新闻",
+      "onboard_time": 1719059538,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 69516,
@@ -387,12 +395,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 22897,
+      "raw_hot": 36544,
       "num": 287791,
       "word": "大熊猫要颜值有智商",
       "onboard_time": 1719072678,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14930,
+      "num": 117534,
+      "word": "警犬赛道原来这么卷",
+      "onboard_time": 1719074536,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12763,
+      "num": 119315,
+      "word": "祝福2024河南中考生",
+      "onboard_time": 1719076395,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 8968,
@@ -409,6 +433,9 @@
     },
     {
       "word": "#把各族人民的心紧紧连在一起#"
+    },
+    {
+      "word": "#习近平对全面深化改革的重要论述#"
     }
   ]
 }

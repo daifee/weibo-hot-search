@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719074287698,
+  "endTime": 1719076556970,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -16563,6 +16563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388524,
+      "num": 353491,
+      "word": "婉宁下线这段真是震撼",
+      "onboard_time": 1719072019,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388512,
       "num": 388512,
       "word": "国足 防守",
@@ -17155,6 +17163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 374994,
+      "num": 374994,
+      "word": "Manner 倒计时",
+      "onboard_time": 1719073277,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374783,
       "num": 374783,
       "word": "专家说杨梅是减肥人士的福音",
@@ -17721,6 +17737,14 @@
       "onboard_time": 1717254139,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 362271,
+      "num": 362271,
+      "word": "土耳其vs葡萄牙",
+      "onboard_time": 1719068539,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 362136,
@@ -18441,14 +18465,6 @@
       "onboard_time": 1718716699,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 349346,
-      "num": 349346,
-      "word": "土耳其vs葡萄牙",
-      "onboard_time": 1719068539,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 349229,
@@ -26584,14 +26600,6 @@
       "word": "吴谨言收到爽文女主第一名奖状",
       "onboard_time": 1718847558,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 233781,
-      "num": 196752,
-      "word": "婉宁下线这段真是震撼",
-      "onboard_time": 1719072019,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -58259,14 +58267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72442,
-      "num": 191558,
-      "word": "Manner 倒计时",
-      "onboard_time": 1719073277,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72370,
       "num": 358743,
       "word": "一口酸汤开启夏天",
@@ -62699,6 +62699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36544,
+      "num": 287791,
+      "word": "大熊猫要颜值有智商",
+      "onboard_time": 1719072678,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36524,
       "num": 290951,
       "word": "爸爸的手机该换了",
@@ -64419,14 +64427,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 22897,
-      "num": 287791,
-      "word": "大熊猫要颜值有智商",
-      "onboard_time": 1719072678,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22894,
       "num": 29236,
       "word": "加沙的孩子没有儿童节",
@@ -65299,6 +65299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14930,
+      "num": 117534,
+      "word": "警犬赛道原来这么卷",
+      "onboard_time": 1719074536,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14852,
       "num": 82609,
       "word": "第一批住进青荷驿站的年轻人怎样了",
@@ -65569,6 +65577,14 @@
       "onboard_time": 1717359490,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12763,
+      "num": 119315,
+      "word": "祝福2024河南中考生",
+      "onboard_time": 1719076395,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 12648,
