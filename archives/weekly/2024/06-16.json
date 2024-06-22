@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719047985350,
+  "endTime": 1719048909752,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -515,20 +515,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1456970,
+      "num": 1456970,
+      "word": "赵露思甜品店回应",
+      "onboard_time": 1719044717,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1450670,
       "num": 1450670,
       "word": "火鸡面",
       "onboard_time": 1718625498,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1444653,
-      "num": 1444653,
-      "word": "赵露思甜品店回应",
-      "onboard_time": 1719044717,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1443555,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 1441220,
-      "num": 213562,
+      "num": 226150,
       "word": "建议尽量在晚9点前洗澡",
       "onboard_time": 1719040158,
       "rank": 23,
@@ -739,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1288485,
+      "num": 451227,
+      "word": "宋丹丹退休",
+      "onboard_time": 1719046576,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1285080,
       "num": 1285080,
       "word": "天水麻辣烫倒闭成网络流量密码",
@@ -817,14 +825,6 @@
       "onboard_time": 1718889799,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1234816,
-      "num": 451227,
-      "word": "宋丹丹退休",
-      "onboard_time": 1719046576,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1233618,
@@ -1219,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1031173,
+      "num": 1031173,
+      "word": "近视手术后并不能一劳永逸",
+      "onboard_time": 1719043218,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
       "raw_hot": 1025086,
       "num": 1025086,
       "word": "倪妮 说人话吗",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1718598559,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 986134,
-      "num": 986134,
-      "word": "近视手术后并不能一劳永逸",
-      "onboard_time": 1719043218,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 986040,
@@ -2651,6 +2651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 629820,
+      "num": 341480,
+      "word": "易烊千玺送王源花篮",
+      "onboard_time": 1719046757,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 628364,
       "num": 610963,
       "word": "辛芷蕾的10套香奶奶",
@@ -3105,14 +3113,6 @@
       "onboard_time": 1718692096,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 566222,
-      "num": 335445,
-      "word": "易烊千玺送王源花篮",
-      "onboard_time": 1719046757,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 564990,
@@ -3601,6 +3601,14 @@
       "onboard_time": 1718863998,
       "rank": 36,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 519370,
+      "num": 326271,
+      "word": "金智媛跳2pm我们家",
+      "onboard_time": 1719046817,
+      "rank": 11,
+      "category": "音乐"
     },
     {
       "raw_hot": 518526,
@@ -4931,14 +4939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 400870,
-      "num": 282185,
-      "word": "金智媛跳2pm我们家",
-      "onboard_time": 1719046817,
-      "rank": 11,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 400806,
       "num": 400806,
       "word": "吴谨言又哭碎了",
@@ -5129,6 +5129,14 @@
       "onboard_time": 1718850977,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 386718,
+      "num": 324743,
+      "word": "郑妮可倒一",
+      "onboard_time": 1719046576,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 385796,
@@ -5385,14 +5393,6 @@
       "onboard_time": 1718882718,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 364605,
-      "num": 279451,
-      "word": "郑妮可倒一",
-      "onboard_time": 1719046576,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 364599,
@@ -5820,7 +5820,7 @@
     },
     {
       "raw_hot": 342608,
-      "num": 189795,
+      "num": 315658,
       "word": "佟大为窝囊废赛道鼻祖",
       "onboard_time": 1719045798,
       "rank": 21,
@@ -6153,6 +6153,14 @@
       "onboard_time": 1718613197,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327949,
+      "num": 327949,
+      "word": "俄称对乌发起大规模打击",
+      "onboard_time": 1719046998,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 326704,
@@ -6561,6 +6569,14 @@
       "onboard_time": 1718889078,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302753,
+      "num": 220231,
+      "word": "你觉得36元一个泡芙贵吗",
+      "onboard_time": 1719047117,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 302524,
@@ -7329,6 +7345,14 @@
       "onboard_time": 1718893219,
       "rank": 22,
       "category": "教育"
+    },
+    {
+      "raw_hot": 269765,
+      "num": 269765,
+      "word": "杭州暴雨",
+      "onboard_time": 1719045498,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269651,
@@ -8563,14 +8587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220880,
-      "num": 220880,
-      "word": "杭州暴雨",
-      "onboard_time": 1719045498,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 220786,
       "num": 197826,
       "word": "这个颜色的染发剂最危险",
@@ -8673,14 +8689,6 @@
       "onboard_time": 1718860519,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219194,
-      "num": 180917,
-      "word": "你觉得36元一个泡芙贵吗",
-      "onboard_time": 1719047117,
-      "rank": 26,
-      "category": "美食"
     },
     {
       "raw_hot": 219129,
@@ -9523,6 +9531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202615,
+      "num": 202615,
+      "word": "鞠婧祎微博小尾巴",
+      "onboard_time": 1719048077,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202573,
       "num": 202573,
       "word": "影视音乐盛典投票",
@@ -9771,14 +9787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198818,
-      "num": 198818,
-      "word": "俄称对乌发起大规模打击",
-      "onboard_time": 1719046998,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 198715,
       "num": 198715,
       "word": "丝芭传媒",
@@ -10017,6 +10025,14 @@
       "onboard_time": 1718626518,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 196047,
+      "num": 196047,
+      "word": "关晓彤白旗袍",
+      "onboard_time": 1719048557,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 195725,
@@ -11139,6 +11155,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 179449,
+      "num": 179449,
+      "word": "外国语专业顶级大学",
+      "onboard_time": 1719046878,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179266,
       "num": 179266,
       "word": "新能源汽车人才缺口103万",
@@ -11377,14 +11401,6 @@
       "onboard_time": 1718798660,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176308,
-      "num": 176308,
-      "word": "外国语专业顶级大学",
-      "onboard_time": 1719046878,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 176226,
@@ -13195,6 +13211,14 @@
       "category": "作品衍生,艺人"
     },
     {
+      "raw_hot": 151425,
+      "num": 151425,
+      "word": "墨雨云间可以一口气看完了",
+      "onboard_time": 1719048498,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151415,
       "num": 151415,
       "word": "Ning和Baolan谁更神",
@@ -14115,6 +14139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138860,
+      "num": 138860,
+      "word": "干了我在奶茶店想干不敢干的事",
+      "onboard_time": 1719047478,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138756,
       "num": 138756,
       "word": "世界之外",
@@ -14721,6 +14753,14 @@
       "onboard_time": 1718509518,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131463,
+      "num": 131463,
+      "word": "金银首饰有辐射是真是假",
+      "onboard_time": 1719046878,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 131442,
@@ -15691,6 +15731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122101,
+      "num": 122101,
+      "word": "山西通报中考英语听力事故",
+      "onboard_time": 1719048737,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "阴阳怪气的小猫",
@@ -15857,6 +15905,14 @@
       "onboard_time": 1718861598,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119842,
+      "num": 119842,
+      "word": "思诺思是毒品吗",
+      "onboard_time": 1719047778,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119750,
@@ -16555,6 +16611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108372,
+      "num": 108372,
+      "word": "退钱哥见证前中超球员在欧洲杯进球",
+      "onboard_time": 1719048618,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108084,
       "num": 108084,
       "word": "尼康发布会",
@@ -16649,14 +16713,6 @@
       "onboard_time": 1719045077,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106969,
-      "num": 106969,
-      "word": "干了我在奶茶店想干不敢干的事",
-      "onboard_time": 1719047478,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 106955,
@@ -16779,14 +16835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 105660,
-      "num": 105660,
-      "word": "金银首饰有辐射是真是假",
-      "onboard_time": 1719046878,
-      "rank": 43,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 105547,
       "num": 105547,
       "word": "资深医生称医学生本科毕业还是小白",
@@ -16841,6 +16889,14 @@
       "onboard_time": 1718802738,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104575,
+      "num": 104575,
+      "word": "八贼Diss",
+      "onboard_time": 1719048737,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 104377,
@@ -17187,14 +17243,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99260,
-      "num": 99260,
-      "word": "思诺思是毒品吗",
-      "onboard_time": 1719047778,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 99257,
       "num": 278346,
       "word": "南方强降雨多条道路通行受阻",
@@ -17217,6 +17265,14 @@
       "onboard_time": 1718802559,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98807,
+      "num": 98807,
+      "word": "拿6双筷子被指偷窃女生要求公开道歉",
+      "onboard_time": 1719048257,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98647,
@@ -18844,7 +18900,7 @@
     },
     {
       "raw_hot": 56280,
-      "num": 198294,
+      "num": 326705,
       "word": "中国首位竹笛女博士吹奏陈情令",
       "onboard_time": 1719047837,
       "rank": 19,
@@ -19379,6 +19435,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 42585,
+      "num": 272165,
+      "word": "余承东带微博CEO打卡松山湖",
+      "onboard_time": 1719045197,
+      "rank": 44,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 42556,
       "num": 76526,
       "word": "中国女排3比0波兰女排",
@@ -19531,20 +19595,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40216,
+      "num": 198419,
+      "word": "带你去找郑州夜生活",
+      "onboard_time": 1719045617,
+      "rank": 25,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 40207,
       "num": 278984,
       "word": "8名学者入驻微博祝金榜题名",
       "onboard_time": 1718752814,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 40206,
-      "num": 272165,
-      "word": "余承东带微博CEO打卡松山湖",
-      "onboard_time": 1719045197,
-      "rank": 44,
-      "category": "数码,互联网"
     },
     {
       "raw_hot": 39940,
@@ -19963,14 +20027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32671,
-      "num": 183715,
-      "word": "带你去找郑州夜生活",
-      "onboard_time": 1719045617,
-      "rank": 25,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 32587,
       "num": 141020,
       "word": "夏季羽绒服皮草现断崖式降价",
@@ -20379,6 +20435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24347,
+      "num": 454343,
+      "word": "文化中国行看穿越千年的大运河",
+      "onboard_time": 1719043218,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24145,
       "num": 254765,
       "word": "倪妮镜头里的黄渤",
@@ -20560,14 +20624,6 @@
       "word": "哪儿凉快去哪儿呆着",
       "onboard_time": 1718519056,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21303,
-      "num": 451598,
-      "word": "文化中国行看穿越千年的大运河",
-      "onboard_time": 1719043218,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719048909752,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1456970,
+        "num": 1456970,
+        "word": "赵露思甜品店回应",
+        "onboard_time": 1719044717,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1031173,
+        "num": 1031173,
+        "word": "近视手术后并不能一劳永逸",
+        "onboard_time": 1719043218,
+        "rank": 1,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 24347,
+        "num": 454343,
+        "word": "文化中国行看穿越千年的大运河",
+        "onboard_time": 1719043218,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288485,
+        "num": 444040,
+        "word": "宋丹丹退休",
+        "onboard_time": 1719046576,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410597,
+        "num": 410597,
+        "word": "留置针导管在婴儿血管里漂移5年",
+        "onboard_time": 1719030557,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343585,
+        "num": 343585,
+        "word": "罗小黑作者道歉",
+        "onboard_time": 1719033198,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 629820,
+        "num": 341480,
+        "word": "易烊千玺送王源花篮",
+        "onboard_time": 1719046757,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 569183,
+        "num": 337355,
+        "word": "吉克隽逸演出事故",
+        "onboard_time": 1719036557,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327949,
+        "num": 327949,
+        "word": "俄称对乌发起大规模打击",
+        "onboard_time": 1719046998,
+        "rank": 8,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 52175,
+        "num": 326705,
+        "word": "中国首位竹笛女博士吹奏陈情令",
+        "onboard_time": 1719047837,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519370,
+        "num": 326271,
+        "word": "金智媛跳2pm我们家",
+        "onboard_time": 1719046817,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 386718,
+        "num": 324743,
+        "word": "郑妮可倒一",
+        "onboard_time": 1719046576,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370202,
+        "num": 322502,
+        "word": "赵丽颖温柔白裙",
+        "onboard_time": 1719042437,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 322052,
+        "num": 322052,
+        "word": "一家六口失联家属山中呐喊找人",
+        "onboard_time": 1719040697,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315658,
+        "num": 315658,
+        "word": "佟大为窝囊废赛道鼻祖",
+        "onboard_time": 1719045798,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296063,
+        "num": 296063,
+        "word": "村医吸毒成瘾3年开2846支杜冷丁",
+        "onboard_time": 1719025816,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42585,
+        "num": 270898,
+        "word": "余承东带微博CEO打卡松山湖",
+        "onboard_time": 1719045197,
+        "rank": 16,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 269765,
+        "num": 269765,
+        "word": "杭州暴雨",
+        "onboard_time": 1719045498,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243911,
+        "num": 243911,
+        "word": "英雄联盟崩了",
+        "onboard_time": 1719043399,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 236519,
+        "num": 236519,
+        "word": "美媒称一只蟑螂打断美国务院发布会",
+        "onboard_time": 1719037579,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 935228,
+        "num": 226150,
+        "word": "建议尽量在晚9点前洗澡",
+        "onboard_time": 1719040158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 302753,
+        "num": 220231,
+        "word": "你觉得36元一个泡芙贵吗",
+        "onboard_time": 1719047117,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 266667,
+        "num": 217579,
+        "word": "陈好是王星越的中戏班主任",
+        "onboard_time": 1719039318,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202615,
+        "num": 202615,
+        "word": "鞠婧祎微博小尾巴",
+        "onboard_time": 1719048077,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202112,
+        "num": 202112,
+        "word": "陈昊宇第一",
+        "onboard_time": 1719033318,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40216,
+        "num": 198419,
+        "word": "带你去找郑州夜生活",
+        "onboard_time": 1719045617,
+        "rank": 25,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 196047,
+        "num": 196047,
+        "word": "关晓彤白旗袍",
+        "onboard_time": 1719048557,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179449,
+        "num": 179449,
+        "word": "外国语专业顶级大学",
+        "onboard_time": 1719046878,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162516,
+        "num": 162516,
+        "word": "不吃主食会加速衰老和患癌",
+        "onboard_time": 1719046039,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159096,
+        "num": 159096,
+        "word": "日本婚活火了",
+        "onboard_time": 1719019698,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151425,
+        "num": 151425,
+        "word": "墨雨云间可以一口气看完了",
+        "onboard_time": 1719048498,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142925,
+        "num": 142925,
+        "word": "古巴宣布加入起诉以色列行列",
+        "onboard_time": 1719045077,
+        "rank": 31,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 138860,
+        "num": 138860,
+        "word": "干了我在奶茶店想干不敢干的事",
+        "onboard_time": 1719047478,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131463,
+        "num": 131463,
+        "word": "金银首饰有辐射是真是假",
+        "onboard_time": 1719046878,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129913,
+        "num": 129913,
+        "word": "宋丹丹 桃花坞是我最后一份工作",
+        "onboard_time": 1719040038,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127260,
+        "num": 127260,
+        "word": "为什么讨厌县城文学",
+        "onboard_time": 1719041717,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126913,
+        "num": 126913,
+        "word": "婚前说好的丁克老公却反悔了",
+        "onboard_time": 1719032596,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122101,
+        "num": 122101,
+        "word": "山西通报中考英语听力事故",
+        "onboard_time": 1719048737,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121568,
+        "num": 121568,
+        "word": "Manner咖啡创始人夫妇身家72亿",
+        "onboard_time": 1719026656,
+        "rank": 38,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 119842,
+        "num": 119842,
+        "word": "思诺思是毒品吗",
+        "onboard_time": 1719047778,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118849,
+        "num": 118849,
+        "word": "时代少年团运动会抢票",
+        "onboard_time": 1719037579,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115015,
+        "num": 115015,
+        "word": "赵雅芝叶童 白头偕老",
+        "onboard_time": 1719044657,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108372,
+        "num": 108372,
+        "word": "退钱哥见证前中超球员在欧洲杯进球",
+        "onboard_time": 1719048618,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107627,
+        "num": 107627,
+        "word": "余承东的第一条原生鸿蒙微博",
+        "onboard_time": 1719046278,
+        "rank": 43,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 104575,
+        "num": 104575,
+        "word": "八贼Diss",
+        "onboard_time": 1719048737,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102242,
+        "num": 102242,
+        "word": "KPL",
+        "onboard_time": 1719046998,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101502,
+        "num": 101502,
+        "word": "黄霄雲是中央音乐学院专业第一",
+        "onboard_time": 1719040636,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98807,
+        "num": 98807,
+        "word": "拿6双筷子被指偷窃女生要求公开道歉",
+        "onboard_time": 1719048257,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94858,
+        "num": 94858,
+        "word": "英雄联盟",
+        "onboard_time": 1719042378,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91764,
+        "num": 91764,
+        "word": "跑男三年最猛撕名牌",
+        "onboard_time": 1719027918,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在这里感叹古今沧桑#"
+    }
+  }
+}
