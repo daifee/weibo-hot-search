@@ -1,0 +1,410 @@
+{
+  "runTime": 1719038280632,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 895958,
+        "num": 895958,
+        "word": "留置针导管在婴儿血管里漂移5年",
+        "onboard_time": 1719030557,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 757966,
+        "num": 757966,
+        "word": "陈昊宇第一",
+        "onboard_time": 1719033318,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45219,
+        "num": 749840,
+        "word": "盛世中华何以中国",
+        "onboard_time": 1719026177,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745027,
+        "num": 745027,
+        "word": "村医吸毒成瘾3年开2846支杜冷丁",
+        "onboard_time": 1719025816,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 548172,
+        "num": 548172,
+        "word": "罗小黑作者道歉",
+        "onboard_time": 1719033198,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 539445,
+        "num": 539445,
+        "word": "TikTok首度曝光与美秘密谈判细节",
+        "onboard_time": 1719032596,
+        "rank": 5,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 490408,
+        "num": 490408,
+        "word": "金靖怀孕后解锁综艺新乐趣",
+        "onboard_time": 1719033378,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385150,
+        "num": 385150,
+        "word": "段晓薇回应与白鹿撞造型",
+        "onboard_time": 1719027076,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361289,
+        "num": 361289,
+        "word": "日本婚活火了",
+        "onboard_time": 1719019698,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69276,
+        "num": 352228,
+        "word": "ChinaTravel火爆国外",
+        "onboard_time": 1719037218,
+        "rank": 9,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 766635,
+        "num": 351065,
+        "word": "吉克隽逸演出事故",
+        "onboard_time": 1719036557,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 349494,
+        "num": 349494,
+        "word": "Manner咖啡创始人夫妇身家72亿",
+        "onboard_time": 1719026656,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 340525,
+        "num": 340525,
+        "word": "分手吧爱情的苦长公主别吃了",
+        "onboard_time": 1719034757,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231057,
+        "num": 231057,
+        "word": "时代少年团运动会抢票",
+        "onboard_time": 1719037579,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227335,
+        "num": 227335,
+        "word": "跑男三年最猛撕名牌",
+        "onboard_time": 1719027918,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217205,
+        "num": 217205,
+        "word": "樊振东说可能与马龙一起退役",
+        "onboard_time": 1719030077,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210025,
+        "num": 210025,
+        "word": "吴谨言回应郝蕾表演课",
+        "onboard_time": 1719027017,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206470,
+        "num": 206470,
+        "word": "女子实名举报寺庙住持骗色",
+        "onboard_time": 1719028037,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197640,
+        "num": 197640,
+        "word": "Manner道歉",
+        "onboard_time": 1719024977,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194841,
+        "num": 194841,
+        "word": "官方回应2只鸡爪27元",
+        "onboard_time": 1719026597,
+        "rank": 19,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 496604,
+        "num": 194091,
+        "word": "张凌赫被赵今麦床榻吻戏",
+        "onboard_time": 1719034998,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404350,
+        "num": 192942,
+        "word": "婚前说好的丁克老公却反悔了",
+        "onboard_time": 1719032596,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221910,
+        "num": 192459,
+        "word": "杨幂发的是C扩",
+        "onboard_time": 1719026837,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199897,
+        "num": 191253,
+        "word": "丁太升说那英最后一名有点扯",
+        "onboard_time": 1719029837,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199740,
+        "num": 189315,
+        "word": "墨雨云间超点",
+        "onboard_time": 1719033497,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20988,
+        "num": 188880,
+        "word": "徐明浩8连拍教程",
+        "onboard_time": 1719036138,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187729,
+        "num": 187729,
+        "word": "特权码",
+        "onboard_time": 1719037579,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177568,
+        "num": 177568,
+        "word": "陈丽君好帅",
+        "onboard_time": 1719034517,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176307,
+        "num": 176307,
+        "word": "白敬亭章若楠难哄杀青",
+        "onboard_time": 1719030917,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173385,
+        "num": 173385,
+        "word": "黑龙江一小学女生被霸凌吃辣椒扇耳光",
+        "onboard_time": 1719033678,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162492,
+        "num": 162492,
+        "word": "云边有个小卖部今日上映",
+        "onboard_time": 1719037816,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160436,
+        "num": 160436,
+        "word": "苏更生一眼看出黄亦玫恋爱了",
+        "onboard_time": 1719036677,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159335,
+        "num": 159335,
+        "word": "100多名学生毕业论文致谢同一人",
+        "onboard_time": 1719029597,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155992,
+        "num": 155992,
+        "word": "为什么日本年轻人不恋爱也不结婚",
+        "onboard_time": 1719036076,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150421,
+        "num": 150421,
+        "word": "考了教资就能当老师吗",
+        "onboard_time": 1719030858,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148112,
+        "num": 148112,
+        "word": "刘亦菲演技好自然",
+        "onboard_time": 1719014115,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142753,
+        "num": 142753,
+        "word": "东风破",
+        "onboard_time": 1719030679,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141505,
+        "num": 141505,
+        "word": "川沙黄亦玫",
+        "onboard_time": 1719035058,
+        "rank": 37,
+        "category": "作品衍生,动漫"
+      },
+      {
+        "raw_hot": 139543,
+        "num": 139543,
+        "word": "5名上海小孩哥已过中科大校测",
+        "onboard_time": 1719037036,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32624,
+        "num": 126372,
+        "word": "美媒称一只蟑螂打断美国务院发布会",
+        "onboard_time": 1719037579,
+        "rank": 39,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 126219,
+        "num": 126219,
+        "word": "时团 谁抢到了",
+        "onboard_time": 1719038238,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125319,
+        "num": 125319,
+        "word": "长公主 恋爱脑",
+        "onboard_time": 1719036257,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124673,
+        "num": 124673,
+        "word": "度华年 公主下跪驸马下狱",
+        "onboard_time": 1719037516,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116761,
+        "num": 116761,
+        "word": "彭昱畅回应张子枫",
+        "onboard_time": 1719032477,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116738,
+        "num": 116738,
+        "word": "苏州大学毕业典礼老师吹奏陈情令",
+        "onboard_time": 1719037637,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106375,
+        "num": 106375,
+        "word": "国内首个漫画live2d",
+        "onboard_time": 1719036377,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104836,
+        "num": 104836,
+        "word": "油车真的会比电车省钱吗",
+        "onboard_time": 1719037757,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 100929,
+        "num": 100929,
+        "word": "马斯克第12个孩子曝光",
+        "onboard_time": 1719023719,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90340,
+        "num": 100824,
+        "word": "考教师资格证好在哪里",
+        "onboard_time": 1719034578,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 86897,
+        "num": 100172,
+        "word": "医生提醒晚点睡也要在23点前入睡",
+        "onboard_time": 1719013635,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平谈民族团结进步#"
+    }
+  }
+}

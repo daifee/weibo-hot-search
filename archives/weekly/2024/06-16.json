@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719037546917,
+  "endTime": 1719038280632,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -1915,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 766635,
+      "num": 398344,
+      "word": "吉克隽逸演出事故",
+      "onboard_time": 1719036557,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 766495,
       "num": 491498,
       "word": "上海地铁",
@@ -3187,6 +3195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 548172,
+      "num": 548172,
+      "word": "罗小黑作者道歉",
+      "onboard_time": 1719033198,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 547970,
       "num": 547970,
       "word": "关晓彤回应被推荐去歌手",
@@ -3659,14 +3675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 505726,
-      "num": 505726,
-      "word": "罗小黑作者道歉",
-      "onboard_time": 1719033198,
-      "rank": 26,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 504498,
       "num": 504498,
       "word": "孙丞潇压力大给金莎打视频",
@@ -3729,6 +3737,14 @@
       "onboard_time": 1718870240,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 496604,
+      "num": 196623,
+      "word": "张凌赫被赵今麦床榻吻戏",
+      "onboard_time": 1719034998,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 496589,
@@ -4097,14 +4113,6 @@
       "onboard_time": 1718775981,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 456526,
-      "num": 196623,
-      "word": "张凌赫被赵今麦床榻吻戏",
-      "onboard_time": 1719034998,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 456233,
@@ -4795,6 +4803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404350,
+      "num": 272514,
+      "word": "婚前说好的丁克老公却反悔了",
+      "onboard_time": 1719032596,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 403822,
       "num": 403822,
       "word": "佟大为说刘诗诗的哭戏令人震撼",
@@ -4817,14 +4833,6 @@
       "onboard_time": 1719034757,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 403338,
-      "num": 272514,
-      "word": "婚前说好的丁克老公却反悔了",
-      "onboard_time": 1719032596,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 402644,
@@ -4897,14 +4905,6 @@
       "onboard_time": 1718802979,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 398344,
-      "num": 398344,
-      "word": "吉克隽逸演出事故",
-      "onboard_time": 1719036557,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 398010,
@@ -8027,6 +8027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231057,
+      "num": 231057,
+      "word": "时代少年团运动会抢票",
+      "onboard_time": 1719037579,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230891,
       "num": 198857,
       "word": "txt票价",
@@ -9499,6 +9507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199740,
+      "num": 195258,
+      "word": "墨雨云间超点",
+      "onboard_time": 1719033497,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199722,
       "num": 275724,
       "word": "章昊RICKY打歌",
@@ -9832,14 +9848,6 @@
       "word": "林更新战绩可查",
       "onboard_time": 1718698218,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 195258,
-      "num": 195258,
-      "word": "墨雨云间超点",
-      "onboard_time": 1719033497,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -10369,6 +10377,14 @@
       "onboard_time": 1718885237,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187729,
+      "num": 187729,
+      "word": "特权码",
+      "onboard_time": 1719037579,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 187689,
@@ -11307,6 +11323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173385,
+      "num": 173385,
+      "word": "黑龙江一小学女生被霸凌吃辣椒扇耳光",
+      "onboard_time": 1719033678,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173246,
       "num": 173246,
       "word": "茅台1935批价跌破800元",
@@ -11683,14 +11707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167061,
-      "num": 167061,
-      "word": "黑龙江一小学女生被霸凌吃辣椒扇耳光",
-      "onboard_time": 1719033678,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 166965,
       "num": 166965,
       "word": "大熊猫背上长出熊猫了",
@@ -11979,6 +11995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162492,
+      "num": 162492,
+      "word": "云边有个小卖部今日上映",
+      "onboard_time": 1719037816,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 162409,
       "num": 162409,
       "word": "夏以昼呢",
@@ -12113,6 +12137,14 @@
       "onboard_time": 1718872160,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 160436,
+      "num": 160436,
+      "word": "苏更生一眼看出黄亦玫恋爱了",
+      "onboard_time": 1719036677,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 160400,
@@ -12465,6 +12497,14 @@
       "onboard_time": 1718844620,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155992,
+      "num": 155992,
+      "word": "为什么日本年轻人不恋爱也不结婚",
+      "onboard_time": 1719036076,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 155927,
@@ -12897,14 +12937,6 @@
       "onboard_time": 1718756000,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151230,
-      "num": 151230,
-      "word": "苏更生一眼看出黄亦玫恋爱了",
-      "onboard_time": 1719036677,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 150974,
@@ -13531,20 +13563,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 142001,
-      "num": 142001,
-      "word": "为什么日本年轻人不恋爱也不结婚",
-      "onboard_time": 1719036076,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 141708,
       "num": 141708,
       "word": "一加手机李杰谈手机行业所需专业",
       "onboard_time": 1718795719,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 141505,
+      "num": 141505,
+      "word": "川沙黄亦玫",
+      "onboard_time": 1719035058,
+      "rank": 36,
+      "category": "作品衍生,动漫"
     },
     {
       "raw_hot": 141290,
@@ -13721,6 +13753,14 @@
       "onboard_time": 1718544318,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139543,
+      "num": 139543,
+      "word": "5名上海小孩哥已过中科大校测",
+      "onboard_time": 1719037036,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139533,
@@ -14161,14 +14201,6 @@
       "onboard_time": 1718602158,
       "rank": 43,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 133205,
-      "num": 133205,
-      "word": "川沙黄亦玫",
-      "onboard_time": 1719035058,
-      "rank": 36,
-      "category": "作品衍生,动漫"
     },
     {
       "raw_hot": 133201,
@@ -14883,6 +14915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126219,
+      "num": 126219,
+      "word": "时团 谁抢到了",
+      "onboard_time": 1719038238,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126187,
       "num": 126187,
       "word": "人类这一百年走得太快了",
@@ -15064,6 +15104,14 @@
       "word": "霍建华都是素颜拍戏",
       "onboard_time": 1718881939,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124673,
+      "num": 124673,
+      "word": "度华年 公主下跪驸马下狱",
+      "onboard_time": 1719037516,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -15665,6 +15713,14 @@
       "onboard_time": 1718881397,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116738,
+      "num": 116738,
+      "word": "苏州大学毕业典礼老师吹奏陈情令",
+      "onboard_time": 1719037637,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116534,
@@ -16275,14 +16331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105950,
-      "num": 105950,
-      "word": "度华年 公主下跪驸马下狱",
-      "onboard_time": 1719037516,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105891,
       "num": 105891,
       "word": "理想称汕头追尾车辆未启用辅助驾驶",
@@ -16377,6 +16425,14 @@
       "onboard_time": 1718634559,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104836,
+      "num": 104836,
+      "word": "油车真的会比电车省钱吗",
+      "onboard_time": 1719037757,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 104728,
@@ -16496,14 +16552,6 @@
       "word": "山坡找网女孩毕业后投身家乡教育",
       "onboard_time": 1718936418,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102830,
-      "num": 112757,
-      "word": "5名上海小孩哥已过中科大校测",
-      "onboard_time": 1719037036,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -17160,6 +17208,14 @@
       "word": "法学学士保安欢迎大家报考厦大",
       "onboard_time": 1718613017,
       "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 90340,
+      "num": 100824,
+      "word": "考教师资格证好在哪里",
+      "onboard_time": 1719034578,
+      "rank": 48,
       "category": "教育"
     },
     {
@@ -17899,6 +17955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 69276,
+      "num": 399983,
+      "word": "ChinaTravel火爆国外",
+      "onboard_time": 1719037218,
+      "rank": 9,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 69048,
       "num": 194589,
       "word": "618我大大方方省了很多钱",
@@ -18385,14 +18449,6 @@
       "onboard_time": 1718802019,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55433,
-      "num": 399983,
-      "word": "ChinaTravel火爆国外",
-      "onboard_time": 1719037218,
-      "rank": 9,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 55160,
@@ -19441,6 +19497,14 @@
       "onboard_time": 1719033318,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32624,
+      "num": 126372,
+      "word": "美媒称一只蟑螂打断美国务院发布会",
+      "onboard_time": 1719037579,
+      "rank": 39,
+      "category": "国外时政"
     },
     {
       "raw_hot": 32587,
