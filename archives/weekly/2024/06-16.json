@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719048909752,
+  "endTime": 1719051672821,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -740,7 +740,7 @@
     },
     {
       "raw_hot": 1288485,
-      "num": 451227,
+      "num": 565340,
       "word": "宋丹丹退休",
       "onboard_time": 1719046576,
       "rank": 3,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1718503096,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1095667,
+      "num": 220231,
+      "word": "你觉得36元一个泡芙贵吗",
+      "onboard_time": 1719047117,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 1080377,
@@ -2147,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 731733,
+      "num": 731733,
+      "word": "山西通报中考英语听力事故",
+      "onboard_time": 1719048737,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 730757,
       "num": 724396,
       "word": "体检发现多了一个器官",
@@ -2652,7 +2668,7 @@
     },
     {
       "raw_hot": 629820,
-      "num": 341480,
+      "num": 473492,
       "word": "易烊千玺送王源花篮",
       "onboard_time": 1719046757,
       "rank": 7,
@@ -3235,6 +3251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 553808,
+      "num": 553808,
+      "word": "拿6双筷子被指偷窃女生要求公开道歉",
+      "onboard_time": 1719048257,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553520,
       "num": 553520,
       "word": "赵丽颖温柔白裙",
@@ -3432,6 +3456,14 @@
       "word": "吴谨言回应郝蕾表演课",
       "onboard_time": 1719027017,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 534455,
+      "num": 519293,
+      "word": "杨幂以哈尔滨一九四四为例发表论文",
+      "onboard_time": 1719050117,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -3803,6 +3835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 498294,
+      "num": 498294,
+      "word": "墨雨云间可以一口气看完了",
+      "onboard_time": 1719048498,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498190,
       "num": 498190,
       "word": "央视曝光乳胶床品造假乱象",
@@ -3849,6 +3889,14 @@
       "onboard_time": 1718507057,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494695,
+      "num": 475404,
+      "word": "王一博罗意威大秀造型",
+      "onboard_time": 1719050177,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 494632,
@@ -3969,6 +4017,14 @@
       "onboard_time": 1718785702,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 482189,
+      "num": 482189,
+      "word": "俄称对乌发起大规模打击",
+      "onboard_time": 1719046998,
+      "rank": 18,
+      "category": "国外时政"
     },
     {
       "raw_hot": 482005,
@@ -4283,6 +4339,14 @@
       "category": "汽车,财经"
     },
     {
+      "raw_hot": 449535,
+      "num": 449535,
+      "word": "八贼Diss",
+      "onboard_time": 1719048737,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 449462,
       "num": 449462,
       "word": "章子怡哽咽",
@@ -4451,6 +4515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436231,
+      "num": 436231,
+      "word": "法老 头像",
+      "onboard_time": 1719049817,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 436131,
       "num": 436131,
       "word": "吓倪妮的是惠英红",
@@ -4600,6 +4672,14 @@
       "word": "墨雨云间亲夫妻不算账",
       "onboard_time": 1718512156,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 427934,
+      "num": 427934,
+      "word": "墨雨云间",
+      "onboard_time": 1718514197,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -6155,14 +6235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327949,
-      "num": 327949,
-      "word": "俄称对乌发起大规模打击",
-      "onboard_time": 1719046998,
-      "rank": 18,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 326704,
       "num": 326704,
       "word": "西梅咖啡",
@@ -6345,14 +6417,6 @@
       "onboard_time": 1718958018,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 316439,
-      "num": 287360,
-      "word": "墨雨云间",
-      "onboard_time": 1718514197,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 316415,
@@ -6571,14 +6635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302753,
-      "num": 220231,
-      "word": "你觉得36元一个泡芙贵吗",
-      "onboard_time": 1719047117,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 302524,
       "num": 302524,
       "word": "曾经的英专生现在做什么",
@@ -6793,6 +6849,14 @@
       "onboard_time": 1718933179,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291812,
+      "num": 195258,
+      "word": "墨雨云间超点",
+      "onboard_time": 1719033497,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 290448,
@@ -7225,6 +7289,14 @@
       "onboard_time": 1718961919,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273690,
+      "num": 273690,
+      "word": "山西将重新组织一次英语听力考试",
+      "onboard_time": 1719049697,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 273681,
@@ -7801,6 +7873,14 @@
       "onboard_time": 1718593877,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245662,
+      "num": 188742,
+      "word": "罗意威大秀",
+      "onboard_time": 1719050298,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 245189,
@@ -9331,6 +9411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205273,
+      "num": 205273,
+      "word": "微博CEO说余承东的照片很哇塞",
+      "onboard_time": 1719050597,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 205102,
       "num": 205102,
       "word": "宋亚轩饰演麦克白",
@@ -9729,14 +9817,6 @@
       "onboard_time": 1718610197,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 199740,
-      "num": 195258,
-      "word": "墨雨云间超点",
-      "onboard_time": 1719033497,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 199722,
@@ -10699,6 +10779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186597,
+      "num": 144207,
+      "word": "赵丽颖活动尖叫声",
+      "onboard_time": 1719051619,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186515,
       "num": 186515,
       "word": "于正回应被拒演",
@@ -11016,6 +11104,14 @@
       "word": "董思成姜涛同框",
       "onboard_time": 1718865139,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 182165,
+      "num": 152759,
+      "word": "时代少年团捧花奔跑",
+      "onboard_time": 1719049817,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -11627,6 +11723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172388,
+      "num": 172388,
+      "word": "干了我在奶茶店想干不敢干的事",
+      "onboard_time": 1719047478,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172387,
       "num": 172387,
       "word": "爸爸发了他人生中第一条朋友圈",
@@ -12089,6 +12193,14 @@
       "onboard_time": 1718796259,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165263,
+      "num": 165263,
+      "word": "金银首饰有辐射是真是假",
+      "onboard_time": 1719046878,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 165215,
@@ -13211,14 +13323,6 @@
       "category": "作品衍生,艺人"
     },
     {
-      "raw_hot": 151425,
-      "num": 151425,
-      "word": "墨雨云间可以一口气看完了",
-      "onboard_time": 1719048498,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151415,
       "num": 151415,
       "word": "Ning和Baolan谁更神",
@@ -13875,6 +13979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142361,
+      "num": 142361,
+      "word": "吴谨言王星越叼玉佩花絮",
+      "onboard_time": 1719051377,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142280,
       "num": 142280,
       "word": "怦然心动20岁",
@@ -14139,14 +14251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138860,
-      "num": 138860,
-      "word": "干了我在奶茶店想干不敢干的事",
-      "onboard_time": 1719047478,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 138756,
       "num": 138756,
       "word": "世界之外",
@@ -14217,6 +14321,14 @@
       "onboard_time": 1719018738,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137968,
+      "num": 159736,
+      "word": "来中国旅游的老外已经这么卷了",
+      "onboard_time": 1719050117,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 137951,
@@ -14515,6 +14627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133595,
+      "num": 133595,
+      "word": "汪苏泷武汉演唱会预告",
+      "onboard_time": 1719050656,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133503,
       "num": 133503,
       "word": "令人动容的父子传承",
@@ -14753,14 +14873,6 @@
       "onboard_time": 1718509518,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131463,
-      "num": 131463,
-      "word": "金银首饰有辐射是真是假",
-      "onboard_time": 1719046878,
-      "rank": 43,
-      "category": "科学科普"
     },
     {
       "raw_hot": 131442,
@@ -15731,14 +15843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122101,
-      "num": 122101,
-      "word": "山西通报中考英语听力事故",
-      "onboard_time": 1719048737,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 121832,
       "num": 121832,
       "word": "阴阳怪气的小猫",
@@ -15761,6 +15865,14 @@
       "onboard_time": 1718802259,
       "rank": 37,
       "category": "军事"
+    },
+    {
+      "raw_hot": 121544,
+      "num": 121544,
+      "word": "思诺思是毒品吗",
+      "onboard_time": 1719047778,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121501,
@@ -15905,14 +16017,6 @@
       "onboard_time": 1718861598,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119842,
-      "num": 119842,
-      "word": "思诺思是毒品吗",
-      "onboard_time": 1719047778,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 119750,
@@ -16859,6 +16963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105008,
+      "num": 105008,
+      "word": "余承东乘享界S9现身华为HDC",
+      "onboard_time": 1719050837,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104994,
       "num": 104994,
       "word": "李宇春开心夜舞台slay全场",
@@ -16889,14 +17001,6 @@
       "onboard_time": 1718802738,
       "rank": 44,
       "category": "教育"
-    },
-    {
-      "raw_hot": 104575,
-      "num": 104575,
-      "word": "八贼Diss",
-      "onboard_time": 1719048737,
-      "rank": 44,
-      "category": "音乐"
     },
     {
       "raw_hot": 104377,
@@ -17265,14 +17369,6 @@
       "onboard_time": 1718802559,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98807,
-      "num": 98807,
-      "word": "拿6双筷子被指偷窃女生要求公开道歉",
-      "onboard_time": 1719048257,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 98647,
@@ -17665,6 +17761,14 @@
       "onboard_time": 1719032118,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90801,
+      "num": 90801,
+      "word": "微信正与华为开发原生鸿蒙适配",
+      "onboard_time": 1719051557,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 90764,
@@ -18737,6 +18841,14 @@
       "onboard_time": 1718664553,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 59711,
+      "num": 475873,
+      "word": "益生菌宣称每日40滴能让孩子长高",
+      "onboard_time": 1719050478,
+      "rank": 9,
+      "category": "社会新闻,科学科普"
     },
     {
       "raw_hot": 59653,
@@ -19963,6 +20075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33287,
+      "num": 156281,
+      "word": "赵丽颖与全棉舒适生活",
+      "onboard_time": 1719051317,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32953,
       "num": 956760,
       "word": "小哥身绑消防水带从天而降救人",
@@ -20169,6 +20289,14 @@
       "onboard_time": 1718530457,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 29020,
+      "num": 567693,
+      "word": "文化中国行看穿越千年的大运河",
+      "onboard_time": 1719043218,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28887,
@@ -20431,14 +20559,6 @@
       "num": 982674,
       "word": "交通互联互通带来发展机遇无限",
       "onboard_time": 1718541857,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24347,
-      "num": 454343,
-      "word": "文化中国行看穿越千年的大运河",
-      "onboard_time": 1719043218,
       "rank": 2,
       "category": "社会新闻"
     },

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 17:35:09
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 18:21:12
 </p>
 </blockquote>
 <p>
@@ -2679,6 +2679,12 @@ Manner咖啡（热度：1202482）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%9736%E5%85%83%E4%B8%80%E4%B8%AA%E6%B3%A1%E8%8A%99%E8%B4%B5%E5%90%97%23" target="weibo">
+你觉得36元一个泡芙贵吗（热度：1095667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%23" target="weibo">
 凯特王妃（热度：1095522）
 </a>
@@ -5073,6 +5079,12 @@ Jennie走秀（热度：742682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E9%80%9A%E6%8A%A5%E4%B8%AD%E8%80%83%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B%E4%BA%8B%E6%95%85%23" target="weibo">
+山西通报中考英语听力事故（热度：731733）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E5%8F%91%E7%8E%B0%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%99%A8%E5%AE%98%23" target="weibo">
 体检发现多了一个器官（热度：730757）
 </a>
@@ -5999,18 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23manner%E6%B3%BC%E5%92%96%E5%95%A1%E7%B2%89%E5%91%98%E5%B7%A5%E5%B7%B2%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
 manner泼咖啡粉员工已被辞退（热度：661935）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E8%B7%91%E8%B0%83%23" target="weibo">
-那英 跑调（热度：661554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E4%BA%94%E5%88%86%E9%92%9F%E4%B8%A4%E6%AC%A1%E4%BA%94%E6%9D%80%23" target="weibo">
-徐娇五分钟两次五杀（热度：661276）
 </a>
 </li>
 
