@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719033550792,
+  "endTime": 1719034505899,
   "band_list": [
     {
       "raw_hot": 1684391,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1098798,
-      "num": 1098798,
+      "raw_hot": 1229629,
+      "num": 1229629,
       "word": "留置针导管在婴儿血管里漂移5年",
       "onboard_time": 1719030557,
       "rank": 31,
@@ -89,6 +89,14 @@
       "onboard_time": 1718979684,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 741669,
+      "num": 741669,
+      "word": "陈昊宇第一",
+      "onboard_time": 1719033318,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 703140,
@@ -219,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508819,
+      "num": 437775,
+      "word": "金靖怀孕后解锁综艺新乐趣",
+      "onboard_time": 1719033378,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 486687,
       "num": 486687,
       "word": "听到那英第七的张远",
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 473383,
-      "num": 457698,
+      "num": 460257,
       "word": "丁太升说那英最后一名有点扯",
       "onboard_time": 1719029837,
       "rank": 36,
@@ -265,6 +281,14 @@
       "onboard_time": 1718981181,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 437520,
+      "num": 437520,
+      "word": "TikTok首度曝光与美秘密谈判细节",
+      "onboard_time": 1719032596,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 431909,
@@ -331,8 +355,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391163,
-      "num": 391163,
+      "raw_hot": 394629,
+      "num": 394629,
       "word": "樊振东说可能与马龙一起退役",
       "onboard_time": 1719030077,
       "rank": 44,
@@ -427,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319384,
+      "num": 272514,
+      "word": "婚前说好的丁克老公却反悔了",
+      "onboard_time": 1719032596,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 317893,
+      "num": 317893,
+      "word": "考了教资就能当老师吗",
+      "onboard_time": 1719030858,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 315956,
       "num": 315956,
       "word": "美国一护士用水给患者输液致16死",
@@ -515,14 +555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 282386,
-      "num": 218573,
-      "word": "TikTok首度曝光与美秘密谈判细节",
-      "onboard_time": 1719032596,
-      "rank": 30,
-      "category": "互联网,社会新闻"
-    },
-    {
       "raw_hot": 275540,
       "num": 275540,
       "word": "法国餐厅偶遇王一博",
@@ -563,12 +595,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 247340,
-      "num": 239779,
-      "word": "金靖怀孕后解锁综艺新乐趣",
-      "onboard_time": 1719033378,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 254962,
+      "num": 254962,
+      "word": "罗小黑作者道歉",
+      "onboard_time": 1719033198,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 247036,
@@ -577,14 +609,6 @@
       "onboard_time": 1718970438,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246859,
-      "num": 246859,
-      "word": "考了教资就能当老师吗",
-      "onboard_time": 1719030858,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 242394,
@@ -617,14 +641,6 @@
       "onboard_time": 1718974521,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236343,
-      "num": 236343,
-      "word": "罗小黑作者道歉",
-      "onboard_time": 1719033198,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 235012,
@@ -681,14 +697,6 @@
       "onboard_time": 1719025878,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 218309,
-      "num": 218309,
-      "word": "婚前说好的丁克老公却反悔了",
-      "onboard_time": 1719032596,
-      "rank": 32,
-      "category": "情感"
     },
     {
       "raw_hot": 218243,
@@ -787,6 +795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195258,
+      "num": 195258,
+      "word": "墨雨云间超点",
+      "onboard_time": 1719033497,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194627,
       "num": 173506,
       "word": "白鹿奔跑吧杀青",
@@ -849,14 +865,6 @@
       "onboard_time": 1718964977,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 185031,
-      "num": 185031,
-      "word": "陈昊宇第一",
-      "onboard_time": 1719033318,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 183232,
@@ -939,6 +947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161911,
+      "num": 161911,
+      "word": "张远要赶下一场婚庆了",
+      "onboard_time": 1719031878,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161100,
       "num": 161100,
       "word": "颜心记剧情",
@@ -953,14 +969,6 @@
       "onboard_time": 1718970918,
       "rank": 36,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 159431,
-      "num": 159431,
-      "word": "张远要赶下一场婚庆了",
-      "onboard_time": 1719031878,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 158912,
@@ -1009,6 +1017,14 @@
       "onboard_time": 1719016516,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148287,
+      "num": 148287,
+      "word": "黑龙江一小学女生被霸凌吃辣椒扇耳光",
+      "onboard_time": 1719033678,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140881,
@@ -1107,6 +1123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129789,
+      "num": 129789,
+      "word": "赵今麦青春女大爆改中年女帝",
+      "onboard_time": 1719034397,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129520,
       "num": 129520,
       "word": "有Manner员工被父母劝说辞职",
@@ -1145,14 +1169,6 @@
       "onboard_time": 1719015796,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119443,
-      "num": 119443,
-      "word": "墨雨云间超点",
-      "onboard_time": 1719033497,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 116047,
@@ -1281,6 +1297,14 @@
       "onboard_time": 1718964079,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90924,
+      "num": 111697,
+      "word": "罗翔嘴里的张三好忙啊",
+      "onboard_time": 1719032118,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89082,
@@ -1427,6 +1451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55715,
+      "num": 437995,
+      "word": "绵阳一中考生6科满分想考北大",
+      "onboard_time": 1719033497,
+      "rank": 29,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 55081,
       "num": 240715,
       "word": "一眼crush穿搭公式",
@@ -1505,14 +1537,6 @@
       "onboard_time": 1719024017,
       "rank": 37,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 42102,
-      "num": 218591,
-      "word": "绵阳一中考生6科满分想考北大",
-      "onboard_time": 1719033497,
-      "rank": 29,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 41443,
