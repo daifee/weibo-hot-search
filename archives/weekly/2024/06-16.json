@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719056066740,
+  "endTime": 1719059614873,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -265,6 +265,14 @@
       "onboard_time": 1718970918,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1722891,
+      "num": 1722891,
+      "word": "玫瑰的故事大结局",
+      "onboard_time": 1719056417,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1716922,
@@ -1163,6 +1171,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1095510,
+      "num": 273519,
+      "word": "黄亦玫穿着丧服跳舞",
+      "onboard_time": 1719057258,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1080377,
       "num": 1080377,
       "word": "米卡 黄亦玫的第五个男生",
@@ -1443,6 +1459,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 972837,
+      "num": 252235,
+      "word": "李飞谈TFBOYS的遗憾",
+      "onboard_time": 1719057557,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 969354,
       "num": 476069,
       "word": "14岁学生继承超25亿市值股票",
@@ -1484,7 +1508,7 @@
     },
     {
       "raw_hot": 955520,
-      "num": 185939,
+      "num": 206251,
       "word": "小孩哥 我大专稳了",
       "onboard_time": 1719052037,
       "rank": 30,
@@ -5212,7 +5236,7 @@
     },
     {
       "raw_hot": 394266,
-      "num": 129038,
+      "num": 204999,
       "word": "刘亦菲发黄亦玫开飞机",
       "onboard_time": 1719055277,
       "rank": 22,
@@ -5265,6 +5289,14 @@
       "onboard_time": 1718850977,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 387584,
+      "num": 217716,
+      "word": "云边有个小卖部 he",
+      "onboard_time": 1719056178,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 386718,
@@ -6707,6 +6739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 302231,
+      "num": 203812,
+      "word": "江浙沪独女配套马杆汉子",
+      "onboard_time": 1719058399,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302092,
       "num": 302092,
       "word": "恋综最好用的脑子出现了",
@@ -6769,6 +6809,14 @@
       "onboard_time": 1718755937,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 298368,
+      "num": 201855,
+      "word": "赵丽颖发型师",
+      "onboard_time": 1719057678,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 298356,
@@ -6977,6 +7025,14 @@
       "onboard_time": 1719029478,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288473,
+      "num": 200400,
+      "word": "王源演唱会",
+      "onboard_time": 1719056897,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 288457,
@@ -7371,6 +7427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 274369,
+      "num": 216372,
+      "word": "菲高官称欢迎中国投资",
+      "onboard_time": 1719056358,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 274307,
       "num": 274307,
       "word": "第五人格 三丽鸥",
@@ -7433,6 +7497,14 @@
       "onboard_time": 1718602580,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271778,
+      "num": 213490,
+      "word": "扬州大学是硕博点最多的双非院校",
+      "onboard_time": 1719056238,
+      "rank": 16,
+      "category": "教育"
     },
     {
       "raw_hot": 271490,
@@ -8955,6 +9027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217911,
+      "num": 169744,
+      "word": "TFBOYS祝王源巡演一切顺利",
+      "onboard_time": 1719059179,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217881,
       "num": 217881,
       "word": "SM称黄仁俊正在反省",
@@ -9195,6 +9275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211848,
+      "num": 211848,
+      "word": "来中国旅游的老外已经这么卷了",
+      "onboard_time": 1719050117,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 211400,
       "num": 209136,
       "word": "薛芳菲勇敢飞萧蘅永相随",
@@ -9321,6 +9409,14 @@
       "onboard_time": 1718892260,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 209166,
+      "num": 209166,
+      "word": "王者荣耀",
+      "onboard_time": 1718795959,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 209018,
@@ -9947,6 +10043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199757,
+      "num": 139972,
+      "word": "TFBOYS的遗憾是什么",
+      "onboard_time": 1719058878,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199722,
       "num": 275724,
       "word": "章昊RICKY打歌",
@@ -10115,6 +10219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197737,
+      "num": 140072,
+      "word": "Ricky沈泉锐 美术生",
+      "onboard_time": 1719058159,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197704,
       "num": 134209,
       "word": "王一博工作室放饭啦",
@@ -10152,6 +10264,14 @@
       "word": "广东一货车当街与复兴号撞上了",
       "onboard_time": 1718509697,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197013,
+      "num": 197013,
+      "word": "Manner事件 不要为难服务人员",
+      "onboard_time": 1719058037,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -10779,6 +10899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 189298,
+      "num": 139453,
+      "word": "薛之谦抢票",
+      "onboard_time": 1719057618,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 188986,
       "num": 188986,
       "word": "TMEA全阵容",
@@ -11299,6 +11427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181130,
+      "num": 134803,
+      "word": "笙笙拍的王俊凯",
+      "onboard_time": 1719056778,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 181112,
       "num": 157265,
       "word": "内蒙古一停工写字楼内发现遗体",
@@ -11337,6 +11473,14 @@
       "onboard_time": 1718525719,
       "rank": 32,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 180604,
+      "num": 131377,
+      "word": "张峻豪回应负面新闻",
+      "onboard_time": 1719059538,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 180590,
@@ -11947,14 +12091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170624,
-      "num": 170624,
-      "word": "来中国旅游的老外已经这么卷了",
-      "onboard_time": 1719050117,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 170588,
       "num": 170588,
       "word": "7个摄影师都追不上万茜",
@@ -12169,6 +12305,14 @@
       "onboard_time": 1718676437,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167944,
+      "num": 167944,
+      "word": "双子座其实还蛮老实的",
+      "onboard_time": 1719056957,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 167454,
@@ -13129,14 +13273,6 @@
       "onboard_time": 1718788040,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155432,
-      "num": 155432,
-      "word": "王者荣耀",
-      "onboard_time": 1718795959,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 155416,
@@ -14401,6 +14537,14 @@
       "onboard_time": 1718854157,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139450,
+      "num": 139450,
+      "word": "为什么成年人普遍有体检焦虑",
+      "onboard_time": 1719057017,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139376,
@@ -16443,6 +16587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116565,
+      "num": 302711,
+      "word": "消防员救人中毒智力退回三岁",
+      "onboard_time": 1719053897,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116534,
       "num": 116534,
       "word": "中山公园地铁站发生捅人事件系谣传",
@@ -17515,6 +17667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101083,
+      "num": 105573,
+      "word": "张雪峰再谈新闻学",
+      "onboard_time": 1719058518,
+      "rank": 48,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 101028,
       "num": 101028,
       "word": "于适时尚排面",
@@ -18063,14 +18223,6 @@
       "num": 528550,
       "word": "暴雨天气实用防御指南",
       "onboard_time": 1718939839,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89096,
-      "num": 302711,
-      "word": "消防员救人中毒智力退回三岁",
-      "onboard_time": 1719053897,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -18939,6 +19091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 64403,
+      "num": 116843,
+      "word": "被中国人民公安大学毕业宣誓燃到了",
+      "onboard_time": 1719057377,
+      "rank": 44,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 64370,
       "num": 64370,
       "word": "沈腾说心中最好的女演员是马丽",
@@ -19369,6 +19529,14 @@
       "onboard_time": 1719044297,
       "rank": 29,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 52917,
+      "num": 223132,
+      "word": "小学生写科幻小说2天写近万字",
+      "onboard_time": 1719055938,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 52524,
@@ -20219,6 +20387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35325,
+      "num": 105498,
+      "word": "鸿蒙工程师平均月薪超1.8万",
+      "onboard_time": 1719059538,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 35286,
       "num": 178000,
       "word": "平行志愿和顺序志愿的区别",
@@ -20449,14 +20625,6 @@
       "onboard_time": 1718953338,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 31061,
-      "num": 128736,
-      "word": "小学生写科幻小说2天写近万字",
-      "onboard_time": 1719055938,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 30929,
