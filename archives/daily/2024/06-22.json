@@ -1,7 +1,15 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719063262525,
+  "endTime": 1719065886840,
   "band_list": [
+    {
+      "raw_hot": 1834295,
+      "num": 1834295,
+      "word": "林俊杰 冻结",
+      "onboard_time": 1719063317,
+      "rank": 0,
+      "category": "演出"
+    },
     {
       "raw_hot": 1722891,
       "num": 1722891,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 1231651,
-      "num": 445640,
+      "num": 668309,
       "word": "黄亦玫穿着丧服跳舞",
       "onboard_time": 1719057258,
       "rank": 3,
@@ -123,6 +131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1077418,
+      "num": 1077418,
+      "word": "月亮",
+      "onboard_time": 1719063739,
+      "rank": 1,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1031173,
       "num": 1031173,
       "word": "近视手术后并不能一劳永逸",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 996053,
-      "num": 306885,
+      "num": 413645,
       "word": "傅家明离世庄国栋再回国追玫瑰",
       "onboard_time": 1719060258,
       "rank": 29,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 579774,
-      "num": 269333,
+      "num": 313396,
       "word": "林一结局才出来",
       "onboard_time": 1719060679,
       "rank": 14,
@@ -515,6 +531,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 488273,
+      "num": 192361,
+      "word": "办公室空调开26度还是24度好",
+      "onboard_time": 1719061158,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 486687,
       "num": 486687,
       "word": "听到那英第七的张远",
@@ -593,6 +617,14 @@
       "onboard_time": 1719048737,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 443818,
+      "num": 443818,
+      "word": "Manner事件",
+      "onboard_time": 1719065179,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438862,
@@ -699,6 +731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 402128,
+      "num": 192346,
+      "word": "杨迪猜中TFBOYS大梦想家",
+      "onboard_time": 1719063739,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401337,
       "num": 401337,
       "word": "歌手排名",
@@ -720,6 +760,14 @@
       "word": "刘亦菲发黄亦玫开飞机",
       "onboard_time": 1719055277,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 394256,
+      "num": 192304,
+      "word": "方协文 可怕",
+      "onboard_time": 1719064820,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -899,6 +947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 333538,
+      "num": 192229,
+      "word": "白晓荷孩子",
+      "onboard_time": 1719060498,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331422,
       "num": 331422,
       "word": "菲高官称欢迎中国投资",
@@ -1051,14 +1107,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 286329,
-      "num": 184605,
-      "word": "白晓荷孩子",
-      "onboard_time": 1719060498,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 284523,
       "num": 181106,
       "word": "妻子称蔡磊越来越艰难还想护自己周全",
@@ -1115,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268579,
+      "num": 192105,
+      "word": "王俊凯王源易烊千玺各自的领域",
+      "onboard_time": 1719065239,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265250,
       "num": 180128,
       "word": "墨雨云间番外有吻戏",
@@ -1148,7 +1204,7 @@
     },
     {
       "raw_hot": 257449,
-      "num": 186954,
+      "num": 191961,
       "word": "行李超重4斤女子将20件衣服穿身上",
       "onboard_time": 1719052518,
       "rank": 26,
@@ -1201,6 +1257,14 @@
       "onboard_time": 1719037036,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239942,
+      "num": 191935,
+      "word": "阿狸是这儿吗",
+      "onboard_time": 1719062777,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 238737,
@@ -1323,6 +1387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219351,
+      "num": 191923,
+      "word": "王星越人没到嘴先到了",
+      "onboard_time": 1719064580,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219268,
+      "num": 219268,
+      "word": "格鲁吉亚vs捷克",
+      "onboard_time": 1719062299,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218243,
       "num": 218243,
       "word": "墨雨云间 表哥上大分",
@@ -1395,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210779,
+      "num": 191805,
+      "word": "奔跑吧12收官录制大合影",
+      "onboard_time": 1719063859,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209394,
       "num": 209394,
       "word": "为什么讨厌县城文学",
@@ -1409,14 +1497,6 @@
       "onboard_time": 1719061578,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206604,
-      "num": 174984,
-      "word": "办公室空调开26度还是24度好",
-      "onboard_time": 1719061158,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 206303,
@@ -1523,14 +1603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 201935,
-      "num": 146335,
-      "word": "阿狸是这儿吗",
-      "onboard_time": 1719062777,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201828,
       "num": 146064,
       "word": "EXO团魂",
@@ -1587,12 +1659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196233,
+      "num": 196233,
+      "word": "排球少年研磨第一视角",
+      "onboard_time": 1719062719,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 196047,
       "num": 196047,
       "word": "关晓彤白旗袍",
       "onboard_time": 1719048557,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195610,
+      "num": 191737,
+      "word": "苏新皓主题曲C位状态",
+      "onboard_time": 1719065540,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 195195,
@@ -1633,6 +1721,14 @@
       "onboard_time": 1719026656,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192917,
+      "num": 191708,
+      "word": "于正你是懂番外的",
+      "onboard_time": 1719065840,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 192173,
@@ -1684,7 +1780,7 @@
     },
     {
       "raw_hot": 187123,
-      "num": 187123,
+      "num": 191514,
       "word": "双子座其实还蛮老实的",
       "onboard_time": 1719056957,
       "rank": 32,
@@ -1737,14 +1833,6 @@
       "onboard_time": 1719046878,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 179314,
-      "num": 204111,
-      "word": "格鲁吉亚vs捷克",
-      "onboard_time": 1719062299,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 178918,
@@ -1801,14 +1889,6 @@
       "onboard_time": 1718978544,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 173659,
-      "num": 173659,
-      "word": "排球少年研磨第一视角",
-      "onboard_time": 1719062719,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 173385,
@@ -2083,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145797,
+      "num": 191844,
+      "word": "重庆铜梁龙3比6山东泰山",
+      "onboard_time": 1719064758,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143730,
       "num": 143730,
       "word": "KPL",
@@ -2219,6 +2307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132268,
+      "num": 191829,
+      "word": "狼队战胜JDG",
+      "onboard_time": 1719065059,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132240,
       "num": 125421,
       "word": "秦霄贤好6团里录制100期的第一人",
@@ -2233,6 +2329,14 @@
       "onboard_time": 1719019156,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131191,
+      "num": 191634,
+      "word": "格鲁吉亚半场1比0捷克",
+      "onboard_time": 1719065840,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 129867,
@@ -2339,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125189,
+      "num": 191604,
+      "word": "山东泰山足协杯晋级",
+      "onboard_time": 1719065719,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124673,
       "num": 124673,
       "word": "度华年 公主下跪驸马下狱",
@@ -2361,6 +2473,14 @@
       "onboard_time": 1719043999,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122443,
+      "num": 191572,
+      "word": "河南冷藏车八人窒息遇难背后",
+      "onboard_time": 1719065598,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121706,
@@ -2441,6 +2561,14 @@
       "onboard_time": 1719042560,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109529,
+      "num": 191540,
+      "word": "凉虾其实没有虾",
+      "onboard_time": 1719065059,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 109257,
@@ -2963,6 +3091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45127,
+      "num": 350909,
+      "word": "95后尿毒症小伙卖冰粉赚医药费",
+      "onboard_time": 1719065239,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43898,
       "num": 48606,
       "word": "那英突然想念舞台",
@@ -3043,12 +3179,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 34821,
+      "num": 267842,
+      "word": "高考志愿要不要报经济学",
+      "onboard_time": 1719064820,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 34775,
       "num": 42651,
       "word": "唐嫣给云边有个小卖部打call",
       "onboard_time": 1719006671,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 33427,
+      "num": 192197,
+      "word": "零跑CEO直播去理想汽车充电",
+      "onboard_time": 1719063498,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 33287,
@@ -3131,6 +3283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 23854,
+      "num": 674729,
+      "word": "何以中国运载千秋",
+      "onboard_time": 1718871918,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 21844,
       "num": 167652,
       "word": "美国冻卵行业贩卖生育焦虑",
@@ -3153,14 +3313,6 @@
       "onboard_time": 1718995152,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 13583,
-      "num": 602032,
-      "word": "何以中国运载千秋",
-      "onboard_time": 1718871918,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 13486,
