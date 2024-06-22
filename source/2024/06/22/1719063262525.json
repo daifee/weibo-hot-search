@@ -1,0 +1,410 @@
+{
+  "runTime": 1719063262525,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1217237,
+        "num": 1217237,
+        "word": "玫瑰的故事大结局",
+        "onboard_time": 1719056417,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 723939,
+        "num": 723939,
+        "word": "Manner事件 不要为难服务人员",
+        "onboard_time": 1719058037,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12679,
+        "num": 450603,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1118765,
+        "num": 445640,
+        "word": "黄亦玫穿着丧服跳舞",
+        "onboard_time": 1719057258,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363654,
+        "num": 363654,
+        "word": "拿6双筷子被指偷窃女生要求公开道歉",
+        "onboard_time": 1719048257,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306504,
+        "num": 306504,
+        "word": "光与夜之恋 蓝星上楼了",
+        "onboard_time": 1719061158,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 996053,
+        "num": 290717,
+        "word": "傅家明离世庄国栋再回国追玫瑰",
+        "onboard_time": 1719060258,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 828431,
+        "num": 289520,
+        "word": "墨雨云间大结局",
+        "onboard_time": 1719052159,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272213,
+        "num": 272213,
+        "word": "近视手术后并不能一劳永逸",
+        "onboard_time": 1719043218,
+        "rank": 8,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 58807,
+        "num": 266964,
+        "word": "抢险前线的战士雨靴中倒出泥水",
+        "onboard_time": 1719061518,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 598847,
+        "num": 260624,
+        "word": "李飞谈TFBOYS的遗憾",
+        "onboard_time": 1719057557,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118380,
+        "num": 255452,
+        "word": "鸿蒙工程师平均月薪超1.8万",
+        "onboard_time": 1719059538,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592669,
+        "num": 251508,
+        "word": "吴世勋去张艺兴演唱会",
+        "onboard_time": 1719054256,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 579774,
+        "num": 240967,
+        "word": "林一结局才出来",
+        "onboard_time": 1719060679,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565561,
+        "num": 235358,
+        "word": "黄晓明金爵奖影帝",
+        "onboard_time": 1719061639,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230851,
+        "num": 230851,
+        "word": "留置针导管在婴儿血管里漂移5年",
+        "onboard_time": 1719030557,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227972,
+        "num": 227972,
+        "word": "王者荣耀",
+        "onboard_time": 1719058757,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227700,
+        "num": 227700,
+        "word": "扬州大学是硕博点最多的双非院校",
+        "onboard_time": 1719056238,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193585,
+        "num": 193585,
+        "word": "菲高官称欢迎中国投资",
+        "onboard_time": 1719056358,
+        "rank": 18,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 179314,
+        "num": 179314,
+        "word": "格鲁吉亚vs捷克",
+        "onboard_time": 1719062299,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 679994,
+        "num": 179037,
+        "word": "建议尽量在晚9点前洗澡",
+        "onboard_time": 1719040158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 511623,
+        "num": 178667,
+        "word": "刘亦菲汪俊互关了",
+        "onboard_time": 1719059538,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 402742,
+        "num": 178328,
+        "word": "张靓颖王力宏合唱另一个天堂",
+        "onboard_time": 1719061459,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395354,
+        "num": 177718,
+        "word": "张峻豪回应负面新闻",
+        "onboard_time": 1719059538,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368871,
+        "num": 177503,
+        "word": "张艺兴唱EXO的约定",
+        "onboard_time": 1719059897,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314326,
+        "num": 176826,
+        "word": "赵丽颖发型师",
+        "onboard_time": 1719057678,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 291834,
+        "num": 176413,
+        "word": "云边有个小卖部 he",
+        "onboard_time": 1719056178,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318602,
+        "num": 176013,
+        "word": "张靓颖演唱会",
+        "onboard_time": 1719061278,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208098,
+        "num": 175788,
+        "word": "你觉得36元一个泡芙贵吗",
+        "onboard_time": 1719047117,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206604,
+        "num": 174984,
+        "word": "办公室空调开26度还是24度好",
+        "onboard_time": 1719061158,
+        "rank": 29,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 270526,
+        "num": 174891,
+        "word": "白晓荷孩子",
+        "onboard_time": 1719060498,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234342,
+        "num": 174434,
+        "word": "江浙沪独女配套马杆汉子",
+        "onboard_time": 1719058399,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202011,
+        "num": 173801,
+        "word": "张艺兴演唱会唱传说主题曲",
+        "onboard_time": 1719063018,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173659,
+        "num": 173659,
+        "word": "排球少年研磨第一视角",
+        "onboard_time": 1719062719,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150240,
+        "num": 150240,
+        "word": "双子座其实还蛮老实的",
+        "onboard_time": 1719056957,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201935,
+        "num": 146335,
+        "word": "阿狸是这儿吗",
+        "onboard_time": 1719062777,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201828,
+        "num": 146064,
+        "word": "EXO团魂",
+        "onboard_time": 1719062838,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 193906,
+        "num": 144346,
+        "word": "杨幂以哈尔滨一九四四为例发表论文",
+        "onboard_time": 1719050117,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138982,
+        "num": 138982,
+        "word": "为什么成年人普遍有体检焦虑",
+        "onboard_time": 1719057017,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136635,
+        "num": 136635,
+        "word": "小孩哥 我大专稳了",
+        "onboard_time": 1719052037,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187205,
+        "num": 136628,
+        "word": "赵露思甜品店回应",
+        "onboard_time": 1719044717,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186645,
+        "num": 136575,
+        "word": "墨雨云间",
+        "onboard_time": 1719051077,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183352,
+        "num": 136498,
+        "word": "庄国栋回国彻底放下黄亦玫",
+        "onboard_time": 1719061158,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178748,
+        "num": 136433,
+        "word": "金爵奖",
+        "onboard_time": 1719061578,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175918,
+        "num": 136402,
+        "word": "云边有个小卖部",
+        "onboard_time": 1719059719,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136352,
+        "num": 136352,
+        "word": "行李超重4斤女子将20件衣服穿身上",
+        "onboard_time": 1719052518,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124317,
+        "num": 124317,
+        "word": "WBG获胜",
+        "onboard_time": 1719062898,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116780,
+        "num": 116780,
+        "word": "来中国旅游的老外已经这么卷了",
+        "onboard_time": 1719050117,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 114098,
+        "num": 116778,
+        "word": "总要去一趟青海吧",
+        "onboard_time": 1719062658,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 109257,
+        "num": 116742,
+        "word": "以色列会在黎巴嫩开辟第二战场吗",
+        "onboard_time": 1719057918,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对全面深化改革的重要论述#"
+    }
+  }
+}

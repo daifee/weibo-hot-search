@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719062520989,
+  "endTime": 1719063262525,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -860,7 +860,7 @@
     },
     {
       "raw_hot": 1231651,
-      "num": 424164,
+      "num": 445640,
       "word": "黄亦玫穿着丧服跳舞",
       "onboard_time": 1719057258,
       "rank": 3,
@@ -1395,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 996053,
+      "num": 306885,
+      "word": "傅家明离世庄国栋再回国追玫瑰",
+      "onboard_time": 1719060258,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 992969,
       "num": 992969,
       "word": "女子长期乏力全家查出吸血鬼病基因",
@@ -1697,14 +1705,6 @@
       "onboard_time": 1718973618,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 872139,
-      "num": 306885,
-      "word": "傅家明离世庄国栋再回国追玫瑰",
-      "onboard_time": 1719060258,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 860481,
@@ -2267,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 723939,
+      "num": 723939,
+      "word": "Manner事件 不要为难服务人员",
+      "onboard_time": 1719058037,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722706,
       "num": 463955,
       "word": "月经发黑有血块是怎么回事",
@@ -2401,14 +2409,6 @@
       "onboard_time": 1719026837,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 692998,
-      "num": 692998,
-      "word": "Manner事件 不要为难服务人员",
-      "onboard_time": 1719058037,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 692336,
@@ -3139,6 +3139,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 579774,
+      "num": 269333,
+      "word": "林一结局才出来",
+      "onboard_time": 1719060679,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 578833,
       "num": 1799478,
       "word": "中央财政紧急下达1.05亿元抢修公路",
@@ -3235,6 +3243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 565561,
+      "num": 235358,
+      "word": "黄晓明金爵奖影帝",
+      "onboard_time": 1719061639,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 564990,
       "num": 216007,
       "word": "医院抽出来的血最终会去哪里",
@@ -3281,14 +3297,6 @@
       "onboard_time": 1718524097,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 561084,
-      "num": 269333,
-      "word": "林一结局才出来",
-      "onboard_time": 1719060679,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 561083,
@@ -5027,14 +5035,6 @@
       "category": "军事,国内时政"
     },
     {
-      "raw_hot": 409948,
-      "num": 198199,
-      "word": "黄晓明金爵奖影帝",
-      "onboard_time": 1719061639,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 409229,
       "num": 409229,
       "word": "关晓彤白色古董裙",
@@ -5137,6 +5137,14 @@
       "onboard_time": 1719059538,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402742,
+      "num": 192364,
+      "word": "张靓颖王力宏合唱另一个天堂",
+      "onboard_time": 1719061459,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 402644,
@@ -6081,14 +6089,6 @@
       "onboard_time": 1719045798,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 342283,
-      "num": 192364,
-      "word": "张靓颖王力宏合唱另一个天堂",
-      "onboard_time": 1719061459,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 342221,
@@ -9651,6 +9651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206604,
+      "num": 174984,
+      "word": "办公室空调开26度还是24度好",
+      "onboard_time": 1719061158,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 206598,
       "num": 154375,
       "word": "保持饥饿感有助于延缓衰老",
@@ -10051,12 +10059,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202011,
+      "num": 173801,
+      "word": "张艺兴演唱会唱传说主题曲",
+      "onboard_time": 1719063018,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 201935,
+      "num": 146335,
+      "word": "阿狸是这儿吗",
+      "onboard_time": 1719062777,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201874,
       "num": 201874,
       "word": "被嫌弃的黄牙多数是正常牙齿颜色",
       "onboard_time": 1718805501,
       "rank": 25,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 201828,
+      "num": 146064,
+      "word": "EXO团魂",
+      "onboard_time": 1719062838,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 201593,
@@ -11675,6 +11707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 179314,
+      "num": 204111,
+      "word": "格鲁吉亚vs捷克",
+      "onboard_time": 1719062299,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179266,
       "num": 179266,
       "word": "新能源汽车人才缺口103万",
@@ -12081,6 +12121,14 @@
       "onboard_time": 1718621598,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173659,
+      "num": 173659,
+      "word": "排球少年研磨第一视角",
+      "onboard_time": 1719062719,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 173402,
@@ -13675,14 +13723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 152374,
-      "num": 204111,
-      "word": "格鲁吉亚vs捷克",
-      "onboard_time": 1719062299,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152216,
       "num": 152216,
       "word": "奉眠记忆探索信息量好大",
@@ -14361,14 +14401,6 @@
       "onboard_time": 1718539157,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144416,
-      "num": 144416,
-      "word": "办公室空调开26度还是24度好",
-      "onboard_time": 1719061158,
-      "rank": 38,
-      "category": "科学科普"
     },
     {
       "raw_hot": 144399,
@@ -16147,6 +16179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124317,
+      "num": 124317,
+      "word": "WBG获胜",
+      "onboard_time": 1719062898,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124196,
       "num": 124196,
       "word": "这一看就是不会跑路的工位",
@@ -16635,6 +16675,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 118380,
+      "num": 286521,
+      "word": "鸿蒙工程师平均月薪超1.8万",
+      "onboard_time": 1719059538,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118144,
       "num": 118144,
       "word": "白客你戴着老花镜问黄轩什么",
@@ -16881,6 +16929,14 @@
       "onboard_time": 1718604078,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114098,
+      "num": 116778,
+      "word": "总要去一趟青海吧",
+      "onboard_time": 1719062658,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 114050,
@@ -17153,6 +17209,14 @@
       "onboard_time": 1718523077,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109257,
+      "num": 116742,
+      "word": "以色列会在黎巴嫩开辟第二战场吗",
+      "onboard_time": 1719057918,
+      "rank": 49,
+      "category": "国外时政"
     },
     {
       "raw_hot": 109090,
@@ -17979,14 +18043,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 97802,
-      "num": 107338,
-      "word": "以色列会在黎巴嫩开辟第二战场吗",
-      "onboard_time": 1719057918,
-      "rank": 49,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 97630,
       "num": 97630,
       "word": "齐司礼 拥吻",
@@ -18424,14 +18480,6 @@
       "word": "以歌之名祝福青春",
       "onboard_time": 1718852719,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 88710,
-      "num": 286521,
-      "word": "鸿蒙工程师平均月薪超1.8万",
-      "onboard_time": 1719059538,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -19475,7 +19523,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 58744,
+      "raw_hot": 58807,
       "num": 302789,
       "word": "抢险前线的战士雨靴中倒出泥水",
       "onboard_time": 1719061518,
