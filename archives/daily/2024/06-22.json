@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719026570876,
+  "endTime": 1719027414473,
   "band_list": [
     {
       "raw_hot": 1606589,
@@ -15,6 +15,14 @@
       "num": 1566798,
       "word": "日本婚活火了",
       "onboard_time": 1719019698,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1540039,
+      "num": 1540039,
+      "word": "村医吸毒成瘾3年开2846支杜冷丁",
+      "onboard_time": 1719025816,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -43,12 +51,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 871690,
-      "num": 311291,
-      "word": "村医吸毒成瘾3年开2846支杜冷丁",
-      "onboard_time": 1719025816,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 796149,
+      "num": 796149,
+      "word": "汪苏泷抽签又抽到了大众金曲",
+      "onboard_time": 1719023417,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 761206,
@@ -75,16 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 747721,
-      "num": 747721,
-      "word": "汪苏泷抽签又抽到了大众金曲",
-      "onboard_time": 1719023417,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 697149,
-      "num": 221409,
+      "num": 221501,
       "word": "医生提醒晚点睡也要在23点前入睡",
       "onboard_time": 1719013635,
       "rank": 20,
@@ -128,6 +128,14 @@
       "word": "Manner清空账号",
       "onboard_time": 1719014236,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530374,
+      "num": 530374,
+      "word": "Manner道歉",
+      "onboard_time": 1719024977,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 381460,
+      "num": 381460,
+      "word": "杨幂发的是C扩",
+      "onboard_time": 1719026837,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 379538,
       "num": 379538,
       "word": "00后女孩离职删软件被公司威胁起诉",
@@ -315,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317816,
+      "num": 317816,
+      "word": "Manner咖啡创始人夫妇身家72亿",
+      "onboard_time": 1719026656,
+      "rank": 14,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 315956,
       "num": 315956,
       "word": "美国一护士用水给患者输液致16死",
@@ -363,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 302907,
-      "num": 302907,
-      "word": "Manner道歉",
-      "onboard_time": 1719024977,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293100,
       "num": 220283,
       "word": "为啥每晚睡够7小时还是疲惫不堪",
@@ -403,12 +419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262978,
+      "num": 220783,
+      "word": "检察官与少年官宣",
+      "onboard_time": 1719026057,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262844,
       "num": 262844,
       "word": "朱丹感谢张远",
       "onboard_time": 1719014414,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257769,
+      "num": 184540,
+      "word": "官方回应2只鸡爪27元",
+      "onboard_time": 1719026597,
+      "rank": 30,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 255473,
@@ -467,6 +499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 230638,
+      "num": 219941,
+      "word": "法国餐厅偶遇王一博",
+      "onboard_time": 1719027138,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229294,
       "num": 229294,
       "word": "Manner咖啡",
@@ -488,6 +528,14 @@
       "word": "耳帝说孙楠实在是不好听",
       "onboard_time": 1719015916,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 219375,
+      "num": 219375,
+      "word": "你好星期六全员躲猫猫",
+      "onboard_time": 1719025878,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -555,22 +603,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 196957,
-      "num": 196957,
-      "word": "你好星期六全员躲猫猫",
-      "onboard_time": 1719025878,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 195496,
-      "num": 195496,
-      "word": "检察官与少年官宣",
-      "onboard_time": 1719026057,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194403,
       "num": 181777,
       "word": "黄霄雲冲榜失败",
@@ -585,6 +617,14 @@
       "onboard_time": 1719014715,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193282,
+      "num": 182575,
+      "word": "这饭量请假都得向食堂报备",
+      "onboard_time": 1719026656,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 192173,
@@ -603,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189742,
+      "num": 189742,
+      "word": "丁程鑫敖子逸一队",
+      "onboard_time": 1719026837,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186311,
       "num": 201407,
       "word": "祖国必须统一也必然统一",
@@ -617,6 +665,14 @@
       "onboard_time": 1719019277,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178748,
+      "num": 178748,
+      "word": "吴谨言回应郝蕾表演课",
+      "onboard_time": 1719027017,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 178005,
@@ -731,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139837,
+      "num": 139837,
+      "word": "段晓薇回应与白鹿撞造型",
+      "onboard_time": 1719027076,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139777,
       "num": 139777,
       "word": "浙江人的刘海都成条形码了",
@@ -771,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133201,
+      "num": 133201,
+      "word": "第三方配件连iPhone也能弹窗了",
+      "onboard_time": 1719026656,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132067,
       "num": 132067,
       "word": "黄亦玫同款盘发",
@@ -787,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129177,
+      "num": 129177,
+      "word": "吴谨言回应和王星越年龄差距",
+      "onboard_time": 1719026057,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126157,
       "num": 126157,
       "word": "称呼小加姓真的好吗",
@@ -795,12 +875,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 120361,
-      "num": 120361,
-      "word": "吴谨言回应和王星越年龄差距",
-      "onboard_time": 1719026057,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 125692,
+      "num": 125692,
+      "word": "耳帝你看张学友行吗",
+      "onboard_time": 1719026357,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124712,
+      "num": 124712,
+      "word": "六点下班我都觉得好晚",
+      "onboard_time": 1719027379,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 120034,
@@ -809,14 +897,6 @@
       "onboard_time": 1719015796,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116453,
-      "num": 116453,
-      "word": "耳帝你看张学友行吗",
-      "onboard_time": 1719026357,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 116047,
@@ -979,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77840,
+      "num": 386297,
+      "word": "大运河申遗用了3111天",
+      "onboard_time": 1719025578,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77686,
       "num": 77686,
       "word": "法医秦明划重点了",
@@ -1019,14 +1107,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 65447,
-      "num": 199265,
-      "word": "大运河申遗用了3111天",
-      "onboard_time": 1719025578,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 60574,
       "num": 168143,
       "word": "土耳其女排vs波兰女排",
@@ -1057,6 +1137,14 @@
       "onboard_time": 1719025216,
       "rank": 39,
       "category": "财经,美食"
+    },
+    {
+      "raw_hot": 56573,
+      "num": 884169,
+      "word": "盛世中华何以中国",
+      "onboard_time": 1719026177,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56206,
@@ -1145,14 +1233,6 @@
       "onboard_time": 1718991493,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 40185,
-      "num": 664295,
-      "word": "盛世中华何以中国",
-      "onboard_time": 1719026177,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36826,
