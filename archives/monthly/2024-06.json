@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719045356536,
+  "endTime": 1719047985350,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1795,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1444653,
+      "num": 1444653,
+      "word": "赵露思甜品店回应",
+      "onboard_time": 1719044717,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1443555,
       "num": 1073717,
       "word": "26岁考编8次终于上岸异地县城",
@@ -2665,6 +2673,14 @@
       "onboard_time": 1718889799,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1234816,
+      "num": 451227,
+      "word": "宋丹丹退休",
+      "onboard_time": 1719046576,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1233618,
@@ -4137,6 +4153,14 @@
       "onboard_time": 1718598559,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 986134,
+      "num": 986134,
+      "word": "近视手术后并不能一劳永逸",
+      "onboard_time": 1719043218,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 986040,
@@ -10011,6 +10035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 566222,
+      "num": 335445,
+      "word": "易烊千玺送王源花篮",
+      "onboard_time": 1719046757,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 566024,
       "num": 566024,
       "word": "孙颖莎vs陈梦",
@@ -15675,6 +15707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 400870,
+      "num": 282185,
+      "word": "金智媛跳2pm我们家",
+      "onboard_time": 1719046817,
+      "rank": 11,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 400862,
       "num": 400862,
       "word": "王楚钦3比2松岛辉空",
@@ -16065,14 +16105,6 @@
       "onboard_time": 1718887757,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 392893,
-      "num": 392893,
-      "word": "赵露思甜品店回应",
-      "onboard_time": 1719044717,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 392817,
@@ -17209,6 +17241,14 @@
       "onboard_time": 1717217298,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 364605,
+      "num": 279451,
+      "word": "郑妮可倒一",
+      "onboard_time": 1719046576,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 364599,
@@ -18401,6 +18441,14 @@
       "onboard_time": 1717806137,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 342608,
+      "num": 189795,
+      "word": "佟大为窝囊废赛道鼻祖",
+      "onboard_time": 1719045798,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 342578,
@@ -27291,6 +27339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 220880,
+      "num": 220880,
+      "word": "杭州暴雨",
+      "onboard_time": 1719045498,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220849,
       "num": 220849,
       "word": "朱一龙 我会少说多做",
@@ -27569,6 +27625,14 @@
       "onboard_time": 1718860519,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219194,
+      "num": 180917,
+      "word": "你觉得36元一个泡芙贵吗",
+      "onboard_time": 1719047117,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 219129,
@@ -31219,6 +31283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198818,
+      "num": 198818,
+      "word": "俄称对乌发起大规模打击",
+      "onboard_time": 1719046998,
+      "rank": 18,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 198815,
       "num": 198815,
       "word": "奶奶将毕生厨艺用在了孙子高考这天",
@@ -33513,6 +33585,14 @@
       "onboard_time": 1718857761,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 188941,
+      "num": 177190,
+      "word": "鞠婧祎公园plog",
+      "onboard_time": 1719046698,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 188818,
@@ -36043,6 +36123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176308,
+      "num": 176308,
+      "word": "外国语专业顶级大学",
+      "onboard_time": 1719046878,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 176290,
       "num": 176290,
       "word": "迪丽热巴比耶撞脸表情包",
@@ -37009,14 +37097,6 @@
       "onboard_time": 1718091918,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 171223,
-      "num": 333494,
-      "word": "近视手术后并不能一劳永逸",
-      "onboard_time": 1719043218,
-      "rank": 9,
-      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 171215,
@@ -38361,6 +38441,14 @@
       "onboard_time": 1717249641,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165100,
+      "num": 165100,
+      "word": "不吃主食会加速衰老和患癌",
+      "onboard_time": 1719046039,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165038,
@@ -40841,6 +40929,14 @@
       "onboard_time": 1718063117,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155107,
+      "num": 155107,
+      "word": "古巴宣布加入起诉以色列行列",
+      "onboard_time": 1719045077,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 155100,
@@ -47259,6 +47355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129666,
+      "num": 129666,
+      "word": "余承东的第一条原生鸿蒙微博",
+      "onboard_time": 1719046278,
+      "rank": 38,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 129639,
       "num": 129639,
       "word": "复旦教授揭秘法学专业报考",
@@ -52795,6 +52899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 106969,
+      "num": 106969,
+      "word": "干了我在奶茶店想干不敢干的事",
+      "onboard_time": 1719047478,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106968,
       "num": 836341,
       "word": "赛龙舟为什么能火出圈",
@@ -53121,6 +53233,14 @@
       "onboard_time": 1718797518,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105660,
+      "num": 105660,
+      "word": "金银首饰有辐射是真是假",
+      "onboard_time": 1719046878,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 105647,
@@ -54201,6 +54321,14 @@
       "onboard_time": 1718061495,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 99260,
+      "num": 99260,
+      "word": "思诺思是毒品吗",
+      "onboard_time": 1719047778,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99257,
@@ -56473,6 +56601,14 @@
       "onboard_time": 1718628859,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 77140,
+      "num": 186323,
+      "word": "高校为毕业生准备巨型花束",
+      "onboard_time": 1719045977,
+      "rank": 24,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 77106,
@@ -58939,6 +59075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 56280,
+      "num": 198294,
+      "word": "中国首位竹笛女博士吹奏陈情令",
+      "onboard_time": 1719047837,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56233,
       "num": 56233,
       "word": "装在套子里的人 冒犯的人",
@@ -59713,14 +59857,6 @@
       "onboard_time": 1717209377,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49824,
-      "num": 149125,
-      "word": "古巴宣布加入起诉以色列行列",
-      "onboard_time": 1719045077,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 49801,
@@ -60900,7 +61036,7 @@
     },
     {
       "raw_hot": 40206,
-      "num": 104604,
+      "num": 272165,
       "word": "余承东带微博CEO打卡松山湖",
       "onboard_time": 1719045197,
       "rank": 44,
@@ -61897,6 +62033,14 @@
       "onboard_time": 1719033318,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32671,
+      "num": 183715,
+      "word": "带你去找郑州夜生活",
+      "onboard_time": 1719045617,
+      "rank": 25,
+      "category": "读书作家"
     },
     {
       "raw_hot": 32650,
@@ -63329,6 +63473,14 @@
       "onboard_time": 1717610712,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 21303,
+      "num": 451598,
+      "word": "文化中国行看穿越千年的大运河",
+      "onboard_time": 1719043218,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 21152,
@@ -64982,6 +65134,9 @@
     },
     {
       "word": "#习近平在这里感叹古今沧桑#"
+    },
+    {
+      "word": "#习近平对全面深化改革的重要论述#"
     }
   ]
 }
