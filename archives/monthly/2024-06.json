@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719038280632,
+  "endTime": 1719040735641,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1718155997,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1500725,
+      "num": 1500725,
+      "word": "吉克隽逸演出事故",
+      "onboard_time": 1719036557,
+      "rank": 10,
+      "category": "演出"
     },
     {
       "raw_hot": 1499480,
@@ -3633,6 +3641,14 @@
       "onboard_time": 1718949499,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1073820,
+      "num": 337790,
+      "word": "宋丹丹 桃花坞是我最后一份工作",
+      "onboard_time": 1719040038,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1072066,
@@ -6073,14 +6089,6 @@
       "onboard_time": 1717248019,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 766635,
-      "num": 398344,
-      "word": "吉克隽逸演出事故",
-      "onboard_time": 1719036557,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 766495,
@@ -9147,6 +9155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 601203,
+      "num": 601203,
+      "word": "特权码",
+      "onboard_time": 1719037579,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 600790,
       "num": 600790,
       "word": "专四",
@@ -12036,7 +12052,7 @@
     },
     {
       "raw_hot": 496604,
-      "num": 196623,
+      "num": 203415,
       "word": "张凌赫被赵今麦床榻吻戏",
       "onboard_time": 1719034998,
       "rank": 20,
@@ -18715,6 +18731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336276,
+      "num": 336276,
+      "word": "豆瓣又崩了",
+      "onboard_time": 1719039798,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 336098,
+      "num": 336098,
+      "word": "陈好是王星越的中戏班主任",
+      "onboard_time": 1719039318,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336062,
       "num": 3137278,
       "word": "直击多地高考第一现场",
@@ -20193,6 +20225,14 @@
       "onboard_time": 1718769383,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309455,
+      "num": 202576,
+      "word": "建议尽量在晚9点前洗澡",
+      "onboard_time": 1719040158,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 309380,
@@ -22033,6 +22073,14 @@
       "onboard_time": 1717380379,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282604,
+      "num": 200223,
+      "word": "油车真的会比电车省钱吗",
+      "onboard_time": 1719037757,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 282505,
@@ -27099,6 +27147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221377,
+      "num": 196876,
+      "word": "赵丽颖重庆活动",
+      "onboard_time": 1719039918,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221369,
       "num": 221369,
       "word": "中国风还是吹到了欧洲杯",
@@ -31619,6 +31675,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 196597,
+      "num": 196597,
+      "word": "5名上海小孩哥已过中科大校测",
+      "onboard_time": 1719037036,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196516,
       "num": 196516,
       "word": "墨雨云间逃不开的原生家庭",
@@ -33611,14 +33675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187729,
-      "num": 187729,
-      "word": "特权码",
-      "onboard_time": 1719037579,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 187697,
       "num": 187697,
       "word": "陈丽君唱rap",
@@ -34129,6 +34185,14 @@
       "onboard_time": 1717641557,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185614,
+      "num": 185614,
+      "word": "刘亦菲白玉兰行程",
+      "onboard_time": 1719040517,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 185588,
@@ -38451,6 +38515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163784,
+      "num": 163784,
+      "word": "苏州大学毕业典礼老师吹奏陈情令",
+      "onboard_time": 1719037637,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163779,
       "num": 163779,
       "word": "姆巴佩向网友征集面具",
@@ -38809,6 +38881,14 @@
       "onboard_time": 1717423820,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162354,
+      "num": 162354,
+      "word": "为什么日本年轻人不恋爱也不结婚",
+      "onboard_time": 1719036076,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 162329,
@@ -40387,14 +40467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155992,
-      "num": 155992,
-      "word": "为什么日本年轻人不恋爱也不结婚",
-      "onboard_time": 1719036076,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155990,
       "num": 155990,
       "word": "月红篇从你的全世界路过",
@@ -41747,6 +41819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151031,
+      "num": 151031,
+      "word": "林俊杰哈尔滨",
+      "onboard_time": 1719039858,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151024,
       "num": 151024,
       "word": "三家日本车企高管开记者会道歉",
@@ -41961,6 +42041,14 @@
       "onboard_time": 1718612418,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150338,
+      "num": 150338,
+      "word": "李梦流的不是眼泪是刀子",
+      "onboard_time": 1719039018,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 150304,
@@ -42337,6 +42425,14 @@
       "onboard_time": 1718085799,
       "rank": 9,
       "category": "美食,财经"
+    },
+    {
+      "raw_hot": 148725,
+      "num": 399983,
+      "word": "ChinaTravel火爆国外",
+      "onboard_time": 1719037218,
+      "rank": 9,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 148717,
@@ -43401,6 +43497,14 @@
       "onboard_time": 1718187199,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 144117,
+      "num": 144117,
+      "word": "伊能静带女儿米粒探班秦昊",
+      "onboard_time": 1719040697,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 144088,
@@ -44481,14 +44585,6 @@
       "onboard_time": 1717227077,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139543,
-      "num": 139543,
-      "word": "5名上海小孩哥已过中科大校测",
-      "onboard_time": 1719037036,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139533,
@@ -45747,6 +45843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134360,
+      "num": 134360,
+      "word": "美媒称一只蟑螂打断美国务院发布会",
+      "onboard_time": 1719037579,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 134336,
       "num": 117649,
       "word": "助理称鞠婧祎未签署补充协议",
@@ -46531,6 +46635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131262,
+      "num": 131262,
+      "word": "黄霄雲是中央音乐学院专业第一",
+      "onboard_time": 1719040636,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131241,
       "num": 131241,
       "word": "墨雨云间前夫哥破万福利",
@@ -46987,6 +47099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129867,
+      "num": 129867,
+      "word": "RW对战TCG",
+      "onboard_time": 1719039978,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129814,
       "num": 1893253,
       "word": "嫦娥六号祝福考生高中",
@@ -47105,6 +47225,14 @@
       "onboard_time": 1717470317,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129345,
+      "num": 129345,
+      "word": "狗狗淋着雨确信主人会来接它",
+      "onboard_time": 1719038656,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 129330,
@@ -49179,6 +49307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121926,
+      "num": 121926,
+      "word": "一家六口失联家属山中呐喊找人",
+      "onboard_time": 1719040697,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121865,
       "num": 121865,
       "word": "夏天常做但伤身的行为",
@@ -49233,6 +49369,14 @@
       "onboard_time": 1718005277,
       "rank": 45,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 121706,
+      "num": 183451,
+      "word": "资深律师谈法学专业报考前景",
+      "onboard_time": 1719040457,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 121662,
@@ -50337,14 +50481,6 @@
       "onboard_time": 1718159298,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116738,
-      "num": 116738,
-      "word": "苏州大学毕业典礼老师吹奏陈情令",
-      "onboard_time": 1719037637,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116689,
@@ -52993,14 +53129,6 @@
       "onboard_time": 1718634559,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 104836,
-      "num": 104836,
-      "word": "油车真的会比电车省钱吗",
-      "onboard_time": 1719037757,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 104728,
@@ -57097,14 +57225,6 @@
       "onboard_time": 1717790170,
       "rank": 15,
       "category": "互联网,网红"
-    },
-    {
-      "raw_hot": 69276,
-      "num": 399983,
-      "word": "ChinaTravel火爆国外",
-      "onboard_time": 1719037218,
-      "rank": 9,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 69196,
@@ -61587,14 +61707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32624,
-      "num": 126372,
-      "word": "美媒称一只蟑螂打断美国务院发布会",
-      "onboard_time": 1719037579,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 32587,
       "num": 141020,
       "word": "夏季羽绒服皮草现断崖式降价",
@@ -61697,6 +61809,14 @@
       "onboard_time": 1718213834,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31651,
+      "num": 337924,
+      "word": "CBD上班族在便利店吃午餐",
+      "onboard_time": 1719040217,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31569,
@@ -61940,7 +62060,7 @@
     },
     {
       "raw_hot": 30097,
-      "num": 128983,
+      "num": 675756,
       "word": "走大运行好运",
       "onboard_time": 1719025578,
       "rank": 41,
@@ -62355,6 +62475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 26682,
+      "num": 189114,
+      "word": "徐明浩8连拍教程",
+      "onboard_time": 1719036138,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26670,
       "num": 253127,
       "word": "张若昀疯狂演绎真五折",
@@ -62497,14 +62625,6 @@
       "onboard_time": 1717741400,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 25748,
-      "num": 189114,
-      "word": "徐明浩8连拍教程",
-      "onboard_time": 1719036138,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 25743,
