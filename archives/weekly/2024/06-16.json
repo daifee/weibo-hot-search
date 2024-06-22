@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719065886840,
+  "endTime": 1719066866573,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -203,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1924819,
+      "num": 1924819,
+      "word": "林俊杰 冻结",
+      "onboard_time": 1719063317,
+      "rank": 0,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1913244,
       "num": 1913244,
       "word": "霍建华一出场初恋和前夫弱爆了",
@@ -249,14 +257,6 @@
       "onboard_time": 1718592137,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1834295,
-      "num": 1834295,
-      "word": "林俊杰 冻结",
-      "onboard_time": 1719063317,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 1773658,
@@ -868,7 +868,7 @@
     },
     {
       "raw_hot": 1231651,
-      "num": 668309,
+      "num": 1108823,
       "word": "黄亦玫穿着丧服跳舞",
       "onboard_time": 1719057258,
       "rank": 3,
@@ -1123,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1127488,
+      "num": 1127488,
+      "word": "月亮",
+      "onboard_time": 1719063739,
+      "rank": 1,
+      "category": "自然"
+    },
+    {
       "raw_hot": 1123825,
       "num": 1123825,
       "word": "傅家明死在了黄亦玫最爱他的那一年",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1718683579,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1077418,
-      "num": 1077418,
-      "word": "月亮",
-      "onboard_time": 1719063739,
-      "rank": 1,
-      "category": "自然"
     },
     {
       "raw_hot": 1073875,
@@ -2715,6 +2715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637014,
+      "num": 293231,
+      "word": "方协文 可怕",
+      "onboard_time": 1719064820,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 636449,
       "num": 636449,
       "word": "暑期档唯一灾难大片来了",
@@ -3203,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573254,
+      "num": 573254,
+      "word": "Manner事件",
+      "onboard_time": 1719065179,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571669,
       "num": 474403,
       "word": "于正 汪俊",
@@ -3257,6 +3273,14 @@
       "onboard_time": 1718692096,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 566192,
+      "num": 192361,
+      "word": "办公室空调开26度还是24度好",
+      "onboard_time": 1719061158,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 565561,
@@ -4091,14 +4115,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 488273,
-      "num": 192361,
-      "word": "办公室空调开26度还是24度好",
-      "onboard_time": 1719061158,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 486687,
       "num": 486687,
       "word": "听到那英第七的张远",
@@ -4561,14 +4577,6 @@
       "onboard_time": 1718768720,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 443818,
-      "num": 443818,
-      "word": "Manner事件",
-      "onboard_time": 1719065179,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 442804,
@@ -5067,6 +5075,14 @@
       "category": "军事,国内时政"
     },
     {
+      "raw_hot": 409501,
+      "num": 215914,
+      "word": "杨迪猜中TFBOYS大梦想家",
+      "onboard_time": 1719063739,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409229,
       "num": 409229,
       "word": "关晓彤白色古董裙",
@@ -5187,14 +5203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402128,
-      "num": 192346,
-      "word": "杨迪猜中TFBOYS大梦想家",
-      "onboard_time": 1719063739,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400806,
       "num": 400806,
       "word": "吴谨言又哭碎了",
@@ -5257,6 +5265,14 @@
       "onboard_time": 1718802979,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398106,
+      "num": 191708,
+      "word": "于正你是懂番外的",
+      "onboard_time": 1719065840,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 398010,
@@ -5344,14 +5360,6 @@
       "word": "刘亦菲发黄亦玫开飞机",
       "onboard_time": 1719055277,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 394256,
-      "num": 192304,
-      "word": "方协文 可怕",
-      "onboard_time": 1719064820,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -6907,6 +6915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303115,
+      "num": 167107,
+      "word": "婉宁下线",
+      "onboard_time": 1719065959,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302524,
       "num": 302524,
       "word": "曾经的英专生现在做什么",
@@ -7137,6 +7153,14 @@
       "onboard_time": 1718933179,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 292419,
+      "num": 292419,
+      "word": "河南冷藏车八人窒息遇难背后",
+      "onboard_time": 1719065598,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291812,
@@ -7793,6 +7817,14 @@
       "onboard_time": 1718542277,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 266872,
+      "num": 144861,
+      "word": "刘亦菲演技",
+      "onboard_time": 1719066019,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 265885,
@@ -8667,6 +8699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230318,
+      "num": 144713,
+      "word": "吴宣仪选了101",
+      "onboard_time": 1719065900,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230215,
       "num": 230215,
       "word": "恋与深空",
@@ -8987,6 +9027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221652,
+      "num": 144552,
+      "word": "薛芳菲为婉宁流泪",
+      "onboard_time": 1719066500,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221619,
       "num": 221619,
       "word": "年轻人为什么不爱轻奢了",
@@ -9225,6 +9273,14 @@
       "onboard_time": 1718957778,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217785,
+      "num": 144454,
+      "word": "蔡依林演唱会",
+      "onboard_time": 1719066440,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 217532,
@@ -10897,14 +10953,6 @@
       "onboard_time": 1718619557,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 192917,
-      "num": 191708,
-      "word": "于正你是懂番外的",
-      "onboard_time": 1719065840,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 192669,
@@ -16051,6 +16099,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 126256,
+      "num": 191604,
+      "word": "山东泰山足协杯晋级",
+      "onboard_time": 1719065719,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126219,
       "num": 126219,
       "word": "iOS18允许第三方APP录制空间视频",
@@ -16169,14 +16225,6 @@
       "onboard_time": 1718701699,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 125189,
-      "num": 191604,
-      "word": "山东泰山足协杯晋级",
-      "onboard_time": 1719065719,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 125077,
@@ -16505,14 +16553,6 @@
       "onboard_time": 1718808500,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 122443,
-      "num": 191572,
-      "word": "河南冷藏车八人窒息遇难背后",
-      "onboard_time": 1719065598,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121832,
@@ -17241,6 +17281,14 @@
       "onboard_time": 1718585658,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110575,
+      "num": 143072,
+      "word": "防晒衣究竟是不是智商税",
+      "onboard_time": 1719065779,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 110465,
@@ -18041,6 +18089,14 @@
       "onboard_time": 1719059778,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100860,
+      "num": 142848,
+      "word": "波兰总统抵达北京",
+      "onboard_time": 1719066559,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100612,
@@ -19915,6 +19971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52873,
+      "num": 267842,
+      "word": "高考志愿要不要报经济学",
+      "onboard_time": 1719064820,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 52524,
       "num": 326972,
       "word": "砸窗搭人链救人关键一环找到了",
@@ -19945,6 +20009,14 @@
       "onboard_time": 1718753295,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51513,
+      "num": 350909,
+      "word": "95后尿毒症小伙卖冰粉赚医药费",
+      "onboard_time": 1719065239,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51410,
@@ -20216,14 +20288,6 @@
       "word": "34岁妈妈走出家4年跑17000公里",
       "onboard_time": 1718937858,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 45127,
-      "num": 350909,
-      "word": "95后尿毒症小伙卖冰粉赚医药费",
-      "onboard_time": 1719065239,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -20513,6 +20577,14 @@
       "onboard_time": 1718977642,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39782,
+      "num": 192197,
+      "word": "零跑CEO直播去理想汽车充电",
+      "onboard_time": 1719063498,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 39705,
@@ -20811,14 +20883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34821,
-      "num": 267842,
-      "word": "高考志愿要不要报经济学",
-      "onboard_time": 1719064820,
-      "rank": 14,
-      "category": "教育"
-    },
-    {
       "raw_hot": 34775,
       "num": 42651,
       "word": "唐嫣给云边有个小卖部打call",
@@ -20865,14 +20929,6 @@
       "onboard_time": 1718825110,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33427,
-      "num": 192197,
-      "word": "零跑CEO直播去理想汽车充电",
-      "onboard_time": 1719063498,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 33287,

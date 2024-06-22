@@ -1,0 +1,410 @@
+{
+  "runTime": 1719066866573,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1924819,
+        "num": 1924819,
+        "word": "林俊杰 冻结",
+        "onboard_time": 1719063317,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1127488,
+        "num": 1127488,
+        "word": "月亮",
+        "onboard_time": 1719063739,
+        "rank": 1,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 18567,
+        "num": 1113851,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108823,
+        "num": 1108823,
+        "word": "黄亦玫穿着丧服跳舞",
+        "onboard_time": 1719057258,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 573254,
+        "num": 573254,
+        "word": "Manner事件",
+        "onboard_time": 1719065179,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469070,
+        "num": 469070,
+        "word": "Manner事件 不要为难服务人员",
+        "onboard_time": 1719058037,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 828001,
+        "num": 463861,
+        "word": "墨雨云间大结局",
+        "onboard_time": 1719052159,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 805626,
+        "num": 396381,
+        "word": "傅家明离世庄国栋再回国追玫瑰",
+        "onboard_time": 1719060258,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294594,
+        "num": 294594,
+        "word": "拿6双筷子被指偷窃女生要求公开道歉",
+        "onboard_time": 1719048257,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51513,
+        "num": 294064,
+        "word": "95后尿毒症小伙卖冰粉赚医药费",
+        "onboard_time": 1719065239,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650327,
+        "num": 293772,
+        "word": "玫瑰的故事大结局",
+        "onboard_time": 1719056417,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 637014,
+        "num": 293231,
+        "word": "方协文 可怕",
+        "onboard_time": 1719064820,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419057,
+        "num": 292931,
+        "word": "李飞谈TFBOYS的遗憾",
+        "onboard_time": 1719057557,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292419,
+        "num": 292419,
+        "word": "河南冷藏车八人窒息遇难背后",
+        "onboard_time": 1719065598,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52873,
+        "num": 228696,
+        "word": "高考志愿要不要报经济学",
+        "onboard_time": 1719064820,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216620,
+        "num": 216620,
+        "word": "欧洲杯",
+        "onboard_time": 1719066199,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409501,
+        "num": 215914,
+        "word": "杨迪猜中TFBOYS大梦想家",
+        "onboard_time": 1719063739,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212773,
+        "num": 212773,
+        "word": "留置针导管在婴儿血管里漂移5年",
+        "onboard_time": 1719030557,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188968,
+        "num": 188968,
+        "word": "格鲁吉亚vs捷克",
+        "onboard_time": 1719062299,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174870,
+        "num": 174870,
+        "word": "排球少年研磨第一视角",
+        "onboard_time": 1719062719,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 667009,
+        "num": 174680,
+        "word": "建议尽量在晚9点前洗澡",
+        "onboard_time": 1719040158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 566192,
+        "num": 172889,
+        "word": "办公室空调开26度还是24度好",
+        "onboard_time": 1719061158,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 398106,
+        "num": 171797,
+        "word": "于正你是懂番外的",
+        "onboard_time": 1719065840,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382086,
+        "num": 170766,
+        "word": "林一结局才出来",
+        "onboard_time": 1719060679,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370878,
+        "num": 169147,
+        "word": "吴世勋去张艺兴演唱会",
+        "onboard_time": 1719054256,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306687,
+        "num": 168207,
+        "word": "白晓荷孩子",
+        "onboard_time": 1719060498,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303115,
+        "num": 167107,
+        "word": "婉宁下线",
+        "onboard_time": 1719065959,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39782,
+        "num": 164935,
+        "word": "零跑CEO直播去理想汽车充电",
+        "onboard_time": 1719063498,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 301683,
+        "num": 163974,
+        "word": "黄晓明金爵奖影帝",
+        "onboard_time": 1719061639,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136136,
+        "num": 162968,
+        "word": "近视手术后并不能一劳永逸",
+        "onboard_time": 1719043218,
+        "rank": 29,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 299411,
+        "num": 162159,
+        "word": "刘亦菲汪俊互关了",
+        "onboard_time": 1719059538,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285911,
+        "num": 160831,
+        "word": "云边有个小卖部 he",
+        "onboard_time": 1719056178,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269634,
+        "num": 158618,
+        "word": "张靓颖王力宏合唱另一个天堂",
+        "onboard_time": 1719061459,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158484,
+        "num": 158484,
+        "word": "行李超重4斤女子将20件衣服穿身上",
+        "onboard_time": 1719052518,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144932,
+        "num": 144932,
+        "word": "你觉得36元一个泡芙贵吗",
+        "onboard_time": 1719047117,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 266872,
+        "num": 144861,
+        "word": "刘亦菲演技",
+        "onboard_time": 1719066019,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259558,
+        "num": 144730,
+        "word": "王俊凯王源易烊千玺各自的领域",
+        "onboard_time": 1719065239,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 230318,
+        "num": 144713,
+        "word": "吴宣仪选了101",
+        "onboard_time": 1719065900,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221652,
+        "num": 144552,
+        "word": "薛芳菲为婉宁流泪",
+        "onboard_time": 1719066500,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144505,
+        "num": 144505,
+        "word": "王者荣耀",
+        "onboard_time": 1719058757,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 217785,
+        "num": 144454,
+        "word": "蔡依林演唱会",
+        "onboard_time": 1719066440,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208831,
+        "num": 144240,
+        "word": "王星越人没到嘴先到了",
+        "onboard_time": 1719064580,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197281,
+        "num": 144119,
+        "word": "杨幂以哈尔滨一九四四为例发表论文",
+        "onboard_time": 1719050117,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126256,
+        "num": 143909,
+        "word": "山东泰山足协杯晋级",
+        "onboard_time": 1719065719,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195916,
+        "num": 143598,
+        "word": "张艺兴唱EXO的约定",
+        "onboard_time": 1719059897,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121716,
+        "num": 143509,
+        "word": "双子座其实还蛮老实的",
+        "onboard_time": 1719056957,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114213,
+        "num": 143254,
+        "word": "格鲁吉亚半场1比0捷克",
+        "onboard_time": 1719065840,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110575,
+        "num": 143072,
+        "word": "防晒衣究竟是不是智商税",
+        "onboard_time": 1719065779,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100860,
+        "num": 142848,
+        "word": "波兰总统抵达北京",
+        "onboard_time": 1719066559,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86111,
+        "num": 142663,
+        "word": "狼队战胜JDG",
+        "onboard_time": 1719065059,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对全面深化改革的重要论述#"
+    }
+  }
+}
