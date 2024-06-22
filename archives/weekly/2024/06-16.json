@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719012887521,
+  "endTime": 1719019158556,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -672,6 +672,14 @@
       "word": "manner",
       "onboard_time": 1718865197,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1302951,
+      "num": 428631,
+      "word": "韩国集体性侵事件嫌疑人时隔20年道歉",
+      "onboard_time": 1719016456,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1883,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 761206,
+      "num": 422502,
+      "word": "成毅后援会辞职信",
+      "onboard_time": 1719014955,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 758594,
       "num": 758594,
       "word": "专家建议本科读基础学科",
@@ -2169,6 +2185,14 @@
       "onboard_time": 1718888178,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 697149,
+      "num": 220858,
+      "word": "医生提醒晚点睡也要在23点前入睡",
+      "onboard_time": 1719013635,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 696750,
@@ -2665,6 +2689,14 @@
       "onboard_time": 1718612178,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 606697,
+      "num": 408068,
+      "word": "华少 主持",
+      "onboard_time": 1719016696,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 602303,
@@ -3433,6 +3465,14 @@
       "onboard_time": 1718683338,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 510934,
+      "num": 510934,
+      "word": "Manner清空账号",
+      "onboard_time": 1719014236,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510872,
@@ -4491,6 +4531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 408866,
+      "num": 408866,
+      "word": "云南绿色蝴蝶大爆发",
+      "onboard_time": 1719015077,
+      "rank": 5,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 407843,
       "num": 407843,
       "word": "鞠婧祎G社生图",
@@ -5403,6 +5451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340705,
+      "num": 340705,
+      "word": "刘亦菲演技好自然",
+      "onboard_time": 1719014115,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 340590,
       "num": 340590,
       "word": "刘亦菲把初为人母的感觉演出来了",
@@ -5435,12 +5491,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339603,
+      "num": 339603,
+      "word": "德国球迷认为中国是对手",
+      "onboard_time": 1719014896,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 339251,
       "num": 339251,
       "word": "当事人回应在高考后订婚",
       "onboard_time": 1718480771,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339245,
+      "num": 339245,
+      "word": "李梦演技",
+      "onboard_time": 1719012614,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 339097,
@@ -5867,6 +5939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314324,
+      "num": 220755,
+      "word": "30岁和最好的朋友结婚了",
+      "onboard_time": 1719014655,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314121,
       "num": 269854,
       "word": "鞠婧祎office发文",
@@ -5905,6 +5985,14 @@
       "onboard_time": 1718778079,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 311008,
+      "num": 311008,
+      "word": "柳智敏被衣服磨得皮肤通红",
+      "onboard_time": 1719015496,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 310436,
@@ -6379,6 +6467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284493,
+      "num": 284493,
+      "word": "秦彻 预制菜",
+      "onboard_time": 1719011714,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 283807,
       "num": 283807,
       "word": "陈泽直播",
@@ -6529,6 +6625,14 @@
       "onboard_time": 1718776820,
       "rank": 9,
       "category": "社会新闻,科学科普"
+    },
+    {
+      "raw_hot": 277677,
+      "num": 277677,
+      "word": "奶奶100岁了我要停业去祝寿",
+      "onboard_time": 1719016096,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 277618,
@@ -6747,6 +6851,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269721,
+      "num": 220619,
+      "word": "关闭朋友圈后一年的变化",
+      "onboard_time": 1719015077,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 269651,
       "num": 248607,
       "word": "第一次去男友家他妈妈全点的外卖",
@@ -6873,6 +6985,14 @@
       "onboard_time": 1718669719,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262844,
+      "num": 262844,
+      "word": "朱丹感谢张远",
+      "onboard_time": 1719014414,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 262193,
@@ -7393,6 +7513,14 @@
       "onboard_time": 1718882778,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237612,
+      "num": 220283,
+      "word": "为啥每晚睡够7小时还是疲惫不堪",
+      "onboard_time": 1719014655,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 237288,
@@ -7987,6 +8115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220023,
+      "num": 220023,
+      "word": "耳帝说孙楠实在是不好听",
+      "onboard_time": 1719015916,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219658,
       "num": 219658,
       "word": "黄亦玫婆婆 方言蛐蛐",
@@ -8049,6 +8185,14 @@
       "onboard_time": 1718536518,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 218243,
+      "num": 218243,
+      "word": "墨雨云间 表哥上大分",
+      "onboard_time": 1719014355,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 218231,
@@ -8689,6 +8833,14 @@
       "onboard_time": 1718771242,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204071,
+      "num": 204071,
+      "word": "老板啤酒杯里发现女子留下金镯子",
+      "onboard_time": 1719018077,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204057,
@@ -9353,6 +9505,14 @@
       "onboard_time": 1718627898,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194160,
+      "num": 194160,
+      "word": "华为Mate70将首发搭载纯血鸿蒙",
+      "onboard_time": 1719014715,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 194110,
@@ -10697,14 +10857,6 @@
       "onboard_time": 1718715437,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172511,
-      "num": 172511,
-      "word": "秦彻 预制菜",
-      "onboard_time": 1719011714,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 172405,
@@ -12979,6 +13131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139777,
+      "num": 139777,
+      "word": "浙江人的刘海都成条形码了",
+      "onboard_time": 1719016756,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139776,
       "num": 139776,
       "word": "莱万不上",
@@ -13064,6 +13224,14 @@
       "word": "墨雨云间吻戏呢",
       "onboard_time": 1718873898,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 138262,
+      "num": 138262,
+      "word": "黄亦玫傅家明关系确认",
+      "onboard_time": 1719015377,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -13755,6 +13923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129520,
+      "num": 129520,
+      "word": "有Manner员工被父母劝说辞职",
+      "onboard_time": 1719015136,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129454,
       "num": 198804,
       "word": "巴西航天局将俄罗斯女航天员描绘成黑人",
@@ -14056,6 +14232,14 @@
       "word": "人类这一百年走得太快了",
       "onboard_time": 1718503757,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 126157,
+      "num": 126157,
+      "word": "称呼小加姓真的好吗",
+      "onboard_time": 1719014715,
+      "rank": 39,
       "category": "情感"
     },
     {
@@ -14563,6 +14747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120034,
+      "num": 120034,
+      "word": "什么家庭才会有infj啊",
+      "onboard_time": 1719015796,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 119974,
       "num": 119974,
       "word": "成语具象化",
@@ -14857,6 +15049,14 @@
       "onboard_time": 1718762897,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116047,
+      "num": 116047,
+      "word": "有关TFBOYS的非虚构青春",
+      "onboard_time": 1719017477,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 115817,
@@ -15499,6 +15699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104337,
+      "num": 104337,
+      "word": "格列兹曼空门不进",
+      "onboard_time": 1719018317,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104250,
       "num": 125141,
       "word": "考研上岸后亲戚发朋友圈阴阳我",
@@ -15771,12 +15979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100612,
+      "num": 100612,
+      "word": "特斯拉今年已经裁员14%",
+      "onboard_time": 1719018977,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 100453,
       "num": 100453,
       "word": "出了国发现中国的文化输出太强了",
       "onboard_time": 1718575452,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100187,
+      "num": 100187,
+      "word": "男子洪水中救母遇难",
+      "onboard_time": 1719018738,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99962,
@@ -16073,6 +16297,14 @@
       "onboard_time": 1718725517,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93162,
+      "num": 93162,
+      "word": "世界之外肯德基",
+      "onboard_time": 1719017056,
+      "rank": 49,
+      "category": "美食,游戏"
     },
     {
       "raw_hot": 92945,
@@ -16537,14 +16769,6 @@
       "onboard_time": 1718549780,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 79102,
-      "num": 79102,
-      "word": "李梦演技",
-      "onboard_time": 1719012614,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 78982,
@@ -17465,6 +17689,14 @@
       "onboard_time": 1718753295,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51466,
+      "num": 385161,
+      "word": "水果谐音高考查分祝福",
+      "onboard_time": 1719018437,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51410,
