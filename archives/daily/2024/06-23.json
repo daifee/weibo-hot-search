@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719073451919,
+  "endTime": 1719074287698,
   "band_list": [
     {
       "raw_hot": 1152737,
@@ -27,6 +27,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 543371,
+      "num": 342275,
+      "word": "玫瑰的故事大结局",
+      "onboard_time": 1719056417,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 538213,
       "num": 347535,
       "word": "黄亦玫穿着丧服跳舞",
@@ -35,16 +43,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 516324,
-      "num": 342275,
-      "word": "玫瑰的故事大结局",
-      "onboard_time": 1719056417,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 483696,
-      "num": 265674,
+      "num": 267898,
       "word": "墨雨云间大结局",
       "onboard_time": 1719052159,
       "rank": 10,
@@ -83,6 +83,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 349346,
+      "num": 349346,
+      "word": "土耳其vs葡萄牙",
+      "onboard_time": 1719068539,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331605,
+      "num": 198417,
+      "word": "于正墨雨云间收官文",
+      "onboard_time": 1719070878,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328416,
       "num": 232172,
       "word": "于正你是懂番外的",
@@ -96,14 +112,6 @@
       "word": "方协文 可怕",
       "onboard_time": 1719064820,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 284418,
-      "num": 198417,
-      "word": "于正墨雨云间收官文",
-      "onboard_time": 1719070878,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -131,20 +139,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 219111,
+      "raw_hot": 233781,
       "num": 196752,
       "word": "婉宁下线这段真是震撼",
       "onboard_time": 1719072019,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 218055,
-      "num": 218055,
-      "word": "土耳其vs葡萄牙",
-      "onboard_time": 1719068539,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 204699,
@@ -169,6 +169,14 @@
       "onboard_time": 1719054256,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182742,
+      "num": 200923,
+      "word": "欧洲杯",
+      "onboard_time": 1719066199,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 170080,
@@ -283,14 +291,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 103294,
-      "num": 200923,
-      "word": "欧洲杯",
-      "onboard_time": 1719066199,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101093,
       "num": 192143,
       "word": "云边有个小卖部",
@@ -307,7 +307,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 86656,
+      "raw_hot": 89171,
       "num": 193278,
       "word": "格鲁吉亚vs捷克",
       "onboard_time": 1719062299,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76774,
+      "num": 192669,
+      "word": "大运河博物馆展览了隋炀帝的蛀牙",
+      "onboard_time": 1719070578,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75263,
       "num": 192769,
       "word": "双子座其实还蛮老实的",
@@ -339,11 +347,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71535,
-      "num": 192669,
-      "word": "大运河博物馆展览了隋炀帝的蛀牙",
-      "onboard_time": 1719070578,
-      "rank": 39,
+      "raw_hot": 72442,
+      "num": 191558,
+      "word": "Manner 倒计时",
+      "onboard_time": 1719073277,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -353,6 +361,14 @@
       "onboard_time": 1719066559,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 67819,
+      "num": 191624,
+      "word": "F1",
+      "onboard_time": 1719073277,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 56694,
@@ -371,24 +387,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 38650,
-      "num": 191624,
-      "word": "F1",
-      "onboard_time": 1719073277,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 37722,
-      "num": 191558,
-      "word": "Manner 倒计时",
-      "onboard_time": 1719073277,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 21517,
-      "num": 269399,
+      "raw_hot": 22897,
+      "num": 287791,
       "word": "大熊猫要颜值有智商",
       "onboard_time": 1719072678,
       "rank": 9,
@@ -406,6 +406,9 @@
   "hotgov_list": [
     {
       "word": "#习近平引领新时代改革开放#"
+    },
+    {
+      "word": "#把各族人民的心紧紧连在一起#"
     }
   ]
 }

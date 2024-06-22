@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719073451919,
+  "endTime": 1719074287698,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -18443,6 +18443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 349346,
+      "num": 349346,
+      "word": "土耳其vs葡萄牙",
+      "onboard_time": 1719068539,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349229,
       "num": 349229,
       "word": "咸鱼 逆水寒",
@@ -19513,6 +19521,14 @@
       "onboard_time": 1718595617,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331605,
+      "num": 198417,
+      "word": "于正墨雨云间收官文",
+      "onboard_time": 1719070878,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 331571,
@@ -22465,14 +22481,6 @@
       "onboard_time": 1719011714,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 284418,
-      "num": 198417,
-      "word": "于正墨雨云间收官文",
-      "onboard_time": 1719070878,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 284408,
@@ -26579,6 +26587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233781,
+      "num": 196752,
+      "word": "婉宁下线这段真是震撼",
+      "onboard_time": 1719072019,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233764,
       "num": 233764,
       "word": "原来狗狗老了面相真的很明显",
@@ -27225,14 +27241,6 @@
       "onboard_time": 1718899517,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227014,
-      "num": 227014,
-      "word": "土耳其vs葡萄牙",
-      "onboard_time": 1719068539,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 226835,
@@ -28209,14 +28217,6 @@
       "onboard_time": 1718239580,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219111,
-      "num": 196752,
-      "word": "婉宁下线这段真是震撼",
-      "onboard_time": 1719072019,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 219025,
@@ -57763,6 +57763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76774,
+      "num": 192669,
+      "word": "大运河博物馆展览了隋炀帝的蛀牙",
+      "onboard_time": 1719070578,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76763,
       "num": 179112,
       "word": "记者揭秘酒店代订生意如何赚钱",
@@ -58251,6 +58259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72442,
+      "num": 191558,
+      "word": "Manner 倒计时",
+      "onboard_time": 1719073277,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72370,
       "num": 358743,
       "word": "一口酸汤开启夏天",
@@ -58369,14 +58385,6 @@
       "onboard_time": 1718407395,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71535,
-      "num": 192669,
-      "word": "大运河博物馆展览了隋炀帝的蛀牙",
-      "onboard_time": 1719070578,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71530,
@@ -58721,6 +58729,14 @@
       "onboard_time": 1717456636,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67819,
+      "num": 191624,
+      "word": "F1",
+      "onboard_time": 1719073277,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 67800,
@@ -62403,14 +62419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38650,
-      "num": 191624,
-      "word": "F1",
-      "onboard_time": 1719073277,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 38631,
       "num": 68067,
       "word": "新疆阿勒泰梦幻繁星",
@@ -62545,14 +62553,6 @@
       "onboard_time": 1718888418,
       "rank": 14,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 37722,
-      "num": 191558,
-      "word": "Manner 倒计时",
-      "onboard_time": 1719073277,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 37519,
@@ -64419,6 +64419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 22897,
+      "num": 287791,
+      "word": "大熊猫要颜值有智商",
+      "onboard_time": 1719072678,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 22894,
       "num": 29236,
       "word": "加沙的孩子没有儿童节",
@@ -64633,14 +64641,6 @@
       "onboard_time": 1718519237,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 21517,
-      "num": 269399,
-      "word": "大熊猫要颜值有智商",
-      "onboard_time": 1719072678,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21511,
