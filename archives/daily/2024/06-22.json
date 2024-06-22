@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719059614873,
+  "endTime": 1719060599934,
   "band_list": [
     {
       "raw_hot": 1722891,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1150551,
+      "num": 408448,
+      "word": "黄亦玫穿着丧服跳舞",
+      "onboard_time": 1719057258,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1107324,
       "num": 613830,
       "word": "宋丹丹 桃花坞是我最后一份工作",
@@ -113,14 +121,6 @@
       "onboard_time": 1719047117,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1095510,
-      "num": 273519,
-      "word": "黄亦玫穿着丧服跳舞",
-      "onboard_time": 1719057258,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1031173,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 972837,
-      "num": 252235,
+      "num": 353884,
       "word": "李飞谈TFBOYS的遗憾",
       "onboard_time": 1719057557,
       "rank": 6,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 898821,
-      "num": 326495,
+      "num": 336949,
       "word": "时代峰峻历史上最像男团的团体",
       "onboard_time": 1719054256,
       "rank": 11,
@@ -580,7 +580,7 @@
     },
     {
       "raw_hot": 426063,
-      "num": 301153,
+      "num": 333535,
       "word": "乌克兰急售国企筹集军费",
       "onboard_time": 1719052398,
       "rank": 14,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 387584,
-      "num": 217716,
+      "num": 331930,
       "word": "云边有个小卖部 he",
       "onboard_time": 1719056178,
       "rank": 13,
@@ -673,6 +673,14 @@
       "onboard_time": 1719046576,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 385097,
+      "num": 335657,
+      "word": "张峻豪回应负面新闻",
+      "onboard_time": 1719059538,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 379538,
@@ -705,6 +713,22 @@
       "onboard_time": 1718980701,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 364174,
+      "num": 364174,
+      "word": "王者荣耀",
+      "onboard_time": 1719058757,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 362725,
+      "num": 201855,
+      "word": "赵丽颖发型师",
+      "onboard_time": 1719057678,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 362136,
@@ -755,6 +779,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 347158,
+      "num": 203812,
+      "word": "江浙沪独女配套马杆汉子",
+      "onboard_time": 1719058399,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342608,
       "num": 315658,
       "word": "佟大为窝囊废赛道鼻祖",
@@ -779,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340143,
+      "num": 340143,
+      "word": "Manner事件 不要为难服务人员",
+      "onboard_time": 1719058037,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339603,
       "num": 339603,
       "word": "德国球迷认为中国是对手",
@@ -801,6 +841,30 @@
       "onboard_time": 1719039798,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 331422,
+      "num": 331422,
+      "word": "菲高官称欢迎中国投资",
+      "onboard_time": 1719056358,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 327760,
+      "num": 187770,
+      "word": "张艺兴唱EXO的约定",
+      "onboard_time": 1719059897,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 319799,
+      "num": 187603,
+      "word": "刘亦菲汪俊互关了",
+      "onboard_time": 1719059538,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 318081,
@@ -867,20 +931,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304672,
+      "num": 304672,
+      "word": "扬州大学是硕博点最多的双非院校",
+      "onboard_time": 1719056238,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 304350,
       "num": 304350,
       "word": "北京全市旅游景区全面取消预约",
       "onboard_time": 1719020777,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302231,
-      "num": 203812,
-      "word": "江浙沪独女配套马杆汉子",
-      "onboard_time": 1719058399,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 301076,
@@ -897,14 +961,6 @@
       "onboard_time": 1719043399,
       "rank": 17,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298368,
-      "num": 201855,
-      "word": "赵丽颖发型师",
-      "onboard_time": 1719057678,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 298356,
@@ -979,6 +1035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 280603,
+      "num": 187518,
+      "word": "傅家明离世庄国栋再回国追玫瑰",
+      "onboard_time": 1719060258,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 275540,
       "num": 275540,
       "word": "法国餐厅偶遇王一博",
@@ -987,26 +1051,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 274369,
-      "num": 216372,
-      "word": "菲高官称欢迎中国投资",
-      "onboard_time": 1719056358,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 273690,
       "num": 273690,
       "word": "山西将重新组织一次英语听力考试",
       "onboard_time": 1719049697,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 271778,
-      "num": 213490,
-      "word": "扬州大学是硕博点最多的双非院校",
-      "onboard_time": 1719056238,
       "rank": 16,
       "category": "教育"
     },
@@ -1052,7 +1100,7 @@
     },
     {
       "raw_hot": 257449,
-      "num": 180026,
+      "num": 186954,
       "word": "行李超重4斤女子将20件衣服穿身上",
       "onboard_time": 1719052518,
       "rank": 26,
@@ -1187,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224599,
+      "num": 187345,
+      "word": "你好星期六",
+      "onboard_time": 1719060197,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223888,
       "num": 173447,
       "word": "墨雨云间番外",
@@ -1291,20 +1347,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209166,
-      "num": 209166,
-      "word": "王者荣耀",
-      "onboard_time": 1719058757,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 206303,
       "num": 177053,
       "word": "赵丽颖活动尖叫声",
       "onboard_time": 1719051619,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205937,
+      "num": 187040,
+      "word": "云边有个小卖部",
+      "onboard_time": 1719059719,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 204563,
@@ -1411,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197013,
-      "num": 197013,
-      "word": "Manner事件 不要为难服务人员",
-      "onboard_time": 1719058037,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196858,
       "num": 173483,
       "word": "赵丽颖单手插兜出场",
@@ -1491,6 +1539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191239,
+      "num": 187021,
+      "word": "王源演唱会舞美升级",
+      "onboard_time": 1719060377,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191064,
       "num": 181447,
       "word": "鞠婧祎 丝芭",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1719046698,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187123,
+      "num": 187123,
+      "word": "双子座其实还蛮老实的",
+      "onboard_time": 1719056957,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 186311,
@@ -1555,20 +1619,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181444,
+      "num": 181444,
+      "word": "白晓荷孩子",
+      "onboard_time": 1719060498,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181130,
       "num": 134803,
       "word": "笙笙拍的王俊凯",
       "onboard_time": 1719056778,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180604,
-      "num": 131377,
-      "word": "张峻豪回应负面新闻",
-      "onboard_time": 1719059538,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 179449,
@@ -1667,14 +1731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167944,
-      "num": 167944,
-      "word": "双子座其实还蛮老实的",
-      "onboard_time": 1719056957,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 165925,
       "num": 158987,
       "word": "王星越沈月偷学",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1719037816,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162432,
+      "num": 187000,
+      "word": "为什么成年人普遍有体检焦虑",
+      "onboard_time": 1719057017,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162354,
@@ -1955,14 +2019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139450,
-      "num": 139450,
-      "word": "为什么成年人普遍有体检焦虑",
-      "onboard_time": 1719057017,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 138718,
       "num": 138718,
       "word": "Manner咖啡师称底薪高于同行",
@@ -2124,7 +2180,7 @@
     },
     {
       "raw_hot": 126909,
-      "num": 126909,
+      "num": 169835,
       "word": "花怜 开盅",
       "onboard_time": 1719054438,
       "rank": 46,
@@ -2331,6 +2387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100881,
+      "num": 172315,
+      "word": "TTG战胜DYG",
+      "onboard_time": 1719059778,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100634,
       "num": 142728,
       "word": "有本事把那英淘汰了",
@@ -2409,6 +2473,14 @@
       "onboard_time": 1718946558,
       "rank": 37,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 93446,
+      "num": 170517,
+      "word": "王者新赛季前瞻直播",
+      "onboard_time": 1719059958,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 93162,
@@ -2497,6 +2569,14 @@
       "onboard_time": 1718969778,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79778,
+      "num": 338765,
+      "word": "清洁袋上密密麻麻全是她的认真",
+      "onboard_time": 1719059658,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77840,
@@ -2593,6 +2673,14 @@
       "onboard_time": 1719057377,
       "rank": 44,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 64083,
+      "num": 188921,
+      "word": "鸿蒙工程师平均月薪超1.8万",
+      "onboard_time": 1719059538,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60574,
@@ -2785,14 +2873,6 @@
       "onboard_time": 1718995092,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35325,
-      "num": 105498,
-      "word": "鸿蒙工程师平均月薪超1.8万",
-      "onboard_time": 1719059538,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35251,

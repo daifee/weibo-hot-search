@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719059614873,
+  "endTime": 1719060599934,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -1027,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1150551,
+      "num": 408448,
+      "word": "黄亦玫穿着丧服跳舞",
+      "onboard_time": 1719057258,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1150402,
       "num": 893180,
       "word": "那英 死也死不了活着被烤",
@@ -1169,14 +1177,6 @@
       "onboard_time": 1719047117,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1095510,
-      "num": 273519,
-      "word": "黄亦玫穿着丧服跳舞",
-      "onboard_time": 1719057258,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1080377,
@@ -1460,7 +1460,7 @@
     },
     {
       "raw_hot": 972837,
-      "num": 252235,
+      "num": 353884,
       "word": "李飞谈TFBOYS的遗憾",
       "onboard_time": 1719057557,
       "rank": 6,
@@ -1644,7 +1644,7 @@
     },
     {
       "raw_hot": 898821,
-      "num": 326495,
+      "num": 336949,
       "word": "时代峰峻历史上最像男团的团体",
       "onboard_time": 1719054256,
       "rank": 11,
@@ -4788,7 +4788,7 @@
     },
     {
       "raw_hot": 426063,
-      "num": 301153,
+      "num": 333535,
       "word": "乌克兰急售国企筹集军费",
       "onboard_time": 1719052398,
       "rank": 14,
@@ -5292,7 +5292,7 @@
     },
     {
       "raw_hot": 387584,
-      "num": 217716,
+      "num": 331930,
       "word": "云边有个小卖部 he",
       "onboard_time": 1719056178,
       "rank": 13,
@@ -5313,6 +5313,14 @@
       "onboard_time": 1718959278,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 385097,
+      "num": 335657,
+      "word": "张峻豪回应负面新闻",
+      "onboard_time": 1719059538,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 384618,
@@ -5579,6 +5587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 364174,
+      "num": 364174,
+      "word": "王者荣耀",
+      "onboard_time": 1718795959,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363859,
       "num": 363859,
       "word": "方协文发疯请勿上升林更新",
@@ -5617,6 +5633,14 @@
       "onboard_time": 1718493973,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 362725,
+      "num": 201855,
+      "word": "赵丽颖发型师",
+      "onboard_time": 1719057678,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 362604,
@@ -5923,6 +5947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 347158,
+      "num": 203812,
+      "word": "江浙沪独女配套马杆汉子",
+      "onboard_time": 1719058399,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345561,
       "num": 320214,
       "word": "长相思2剧本",
@@ -6049,6 +6081,14 @@
       "onboard_time": 1718966777,
       "rank": 33,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 340143,
+      "num": 340143,
+      "word": "Manner事件 不要为难服务人员",
+      "onboard_time": 1719058037,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339845,
@@ -6267,6 +6307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331422,
+      "num": 331422,
+      "word": "菲高官称欢迎中国投资",
+      "onboard_time": 1719056358,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 330974,
       "num": 330974,
       "word": "汪峰参与那英我是歌手选歌",
@@ -6329,6 +6377,14 @@
       "onboard_time": 1718613197,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327760,
+      "num": 187770,
+      "word": "张艺兴唱EXO的约定",
+      "onboard_time": 1719059897,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 326704,
@@ -6457,6 +6513,14 @@
       "onboard_time": 1718840538,
       "rank": 47,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 319799,
+      "num": 187603,
+      "word": "刘亦菲汪俊互关了",
+      "onboard_time": 1719059538,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 319408,
@@ -6707,6 +6771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304672,
+      "num": 304672,
+      "word": "扬州大学是硕博点最多的双非院校",
+      "onboard_time": 1719056238,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 304605,
       "num": 304605,
       "word": "克罗地亚3分钟2球",
@@ -6737,14 +6809,6 @@
       "onboard_time": 1718771422,
       "rank": 22,
       "category": "教育"
-    },
-    {
-      "raw_hot": 302231,
-      "num": 203812,
-      "word": "江浙沪独女配套马杆汉子",
-      "onboard_time": 1719058399,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 302092,
@@ -6809,14 +6873,6 @@
       "onboard_time": 1718755937,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 298368,
-      "num": 201855,
-      "word": "赵丽颖发型师",
-      "onboard_time": 1719057678,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 298356,
@@ -7267,6 +7323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280603,
+      "num": 187518,
+      "word": "傅家明离世庄国栋再回国追玫瑰",
+      "onboard_time": 1719060258,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280412,
       "num": 280412,
       "word": "王者荣耀 鸡爪流",
@@ -7427,14 +7491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 274369,
-      "num": 216372,
-      "word": "菲高官称欢迎中国投资",
-      "onboard_time": 1719056358,
-      "rank": 14,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 274307,
       "num": 274307,
       "word": "第五人格 三丽鸥",
@@ -7497,14 +7553,6 @@
       "onboard_time": 1718602580,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271778,
-      "num": 213490,
-      "word": "扬州大学是硕博点最多的双非院校",
-      "onboard_time": 1719056238,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 271490,
@@ -7820,7 +7868,7 @@
     },
     {
       "raw_hot": 257449,
-      "num": 180026,
+      "num": 186954,
       "word": "行李超重4斤女子将20件衣服穿身上",
       "onboard_time": 1719052518,
       "rank": 26,
@@ -8723,6 +8771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 224599,
+      "num": 187345,
+      "word": "你好星期六",
+      "onboard_time": 1719060197,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224171,
       "num": 224171,
       "word": "食物语手游",
@@ -9411,14 +9467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 209166,
-      "num": 209166,
-      "word": "王者荣耀",
-      "onboard_time": 1718795959,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 209018,
       "num": 209018,
       "word": "英伟达成全球市值最高股票",
@@ -9585,6 +9633,14 @@
       "onboard_time": 1718685198,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205937,
+      "num": 187040,
+      "word": "云边有个小卖部",
+      "onboard_time": 1719059719,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 205821,
@@ -10267,14 +10323,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197013,
-      "num": 197013,
-      "word": "Manner事件 不要为难服务人员",
-      "onboard_time": 1719058037,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196975,
       "num": 196975,
       "word": "萧蘅求婚薛芳菲",
@@ -10763,6 +10811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191239,
+      "num": 187021,
+      "word": "王源演唱会舞美升级",
+      "onboard_time": 1719060377,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191214,
       "num": 191214,
       "word": "烟花少年 停拍",
@@ -11025,6 +11081,14 @@
       "onboard_time": 1718771604,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187123,
+      "num": 187123,
+      "word": "双子座其实还蛮老实的",
+      "onboard_time": 1719056957,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 187031,
@@ -11411,6 +11475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181444,
+      "num": 181444,
+      "word": "白晓荷孩子",
+      "onboard_time": 1719060498,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181366,
       "num": 181366,
       "word": "国产新能源车卖78.9万贵不贵",
@@ -11473,14 +11545,6 @@
       "onboard_time": 1718525719,
       "rank": 32,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 180604,
-      "num": 131377,
-      "word": "张峻豪回应负面新闻",
-      "onboard_time": 1719059538,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 180590,
@@ -12307,14 +12371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 167944,
-      "num": 167944,
-      "word": "双子座其实还蛮老实的",
-      "onboard_time": 1719056957,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167454,
       "num": 167454,
       "word": "男朋友说做实验结果在工厂上班",
@@ -12697,6 +12753,14 @@
       "onboard_time": 1719037816,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 162432,
+      "num": 187000,
+      "word": "为什么成年人普遍有体检焦虑",
+      "onboard_time": 1719057017,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 162409,
@@ -14539,14 +14603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139450,
-      "num": 139450,
-      "word": "为什么成年人普遍有体检焦虑",
-      "onboard_time": 1719057017,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 139376,
       "num": 139376,
       "word": "刘些宁回应演恶女",
@@ -15724,7 +15780,7 @@
     },
     {
       "raw_hot": 126909,
-      "num": 126909,
+      "num": 169835,
       "word": "花怜 开盅",
       "onboard_time": 1719054438,
       "rank": 46,
@@ -17683,6 +17739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100881,
+      "num": 172315,
+      "word": "TTG战胜DYG",
+      "onboard_time": 1719059778,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100612,
       "num": 100612,
       "word": "特斯拉今年已经裁员14%",
@@ -18033,6 +18097,14 @@
       "onboard_time": 1718500097,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93446,
+      "num": 170517,
+      "word": "王者新赛季前瞻直播",
+      "onboard_time": 1719059958,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 93353,
@@ -18537,6 +18609,14 @@
       "onboard_time": 1718549780,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 79778,
+      "num": 338765,
+      "word": "清洁袋上密密麻麻全是她的认真",
+      "onboard_time": 1719059658,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 78982,
@@ -19113,6 +19193,14 @@
       "onboard_time": 1718632819,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 64083,
+      "num": 188921,
+      "word": "鸿蒙工程师平均月薪超1.8万",
+      "onboard_time": 1719059538,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 63908,
@@ -20384,14 +20472,6 @@
       "word": "父亲节前爸爸捐骨髓教儿子感恩",
       "onboard_time": 1718500996,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35325,
-      "num": 105498,
-      "word": "鸿蒙工程师平均月薪超1.8万",
-      "onboard_time": 1719059538,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
