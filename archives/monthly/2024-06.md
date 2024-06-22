@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 22:34:26
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 23:19:33
 </p>
 </blockquote>
 <p>
@@ -971,6 +971,12 @@ doc和docx有什么区别（热度：1718023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E5%8F%91%E5%B8%83%E6%AD%8C%E5%8D%95%23" target="weibo">
 歌手发布歌单（热度：1620995）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%86%B7%E8%97%8F%E8%BD%A6%E5%85%AB%E4%BA%BA%E7%AA%92%E6%81%AF%E9%81%87%E9%9A%BE%E8%83%8C%E5%90%8E%23" target="weibo">
+河南冷藏车八人窒息遇难背后（热度：1620092）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%84%91%E6%AD%BB%E4%BA%A1%E8%BF%87%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%85%AD%E4%B8%80%23" target="weibo">
 8岁女孩脑死亡过最后一个六一（热度：668525）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E8%BF%9B%E7%90%83%E4%BA%86%23" target="weibo">
-新加坡进球了（热度：667973）
 </a>
 </li>
 

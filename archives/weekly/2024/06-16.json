@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719066866573,
+  "endTime": 1719069573854,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -344,6 +344,14 @@
       "word": "上海Manner一男店员殴打女顾客",
       "onboard_time": 1718880138,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1620092,
+      "num": 292419,
+      "word": "河南冷藏车八人窒息遇难背后",
+      "onboard_time": 1719065598,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -3307,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 563817,
+      "num": 253877,
+      "word": "于正你是懂番外的",
+      "onboard_time": 1719065840,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563556,
       "num": 563556,
       "word": "冷藏货车违规乘人致8死司机被控制",
@@ -3969,6 +3985,14 @@
       "onboard_time": 1718860998,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 503048,
+      "num": 241642,
+      "word": "你好星期六下期有乘风姐姐",
+      "onboard_time": 1719067459,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 501710,
@@ -4875,6 +4899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427069,
+      "num": 190618,
+      "word": "薛芳菲为婉宁流泪",
+      "onboard_time": 1719066500,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 426063,
       "num": 333535,
       "word": "乌克兰急售国企筹集军费",
@@ -5049,6 +5081,14 @@
       "onboard_time": 1718723240,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411819,
+      "num": 189859,
+      "word": "吴磊贵公子",
+      "onboard_time": 1719066859,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 411472,
@@ -5267,14 +5307,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 398106,
-      "num": 191708,
-      "word": "于正你是懂番外的",
-      "onboard_time": 1719065840,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398010,
       "num": 398010,
       "word": "人民日报评姜萍",
@@ -5392,6 +5424,14 @@
       "word": "黄亦玫的离婚诉讼书是自己写的",
       "onboard_time": 1718804600,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 389824,
+      "num": 188656,
+      "word": "婉宁下线",
+      "onboard_time": 1719065959,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -6915,14 +6955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303115,
-      "num": 167107,
-      "word": "婉宁下线",
-      "onboard_time": 1719065959,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 302524,
       "num": 302524,
       "word": "曾经的英专生现在做什么",
@@ -7153,14 +7185,6 @@
       "onboard_time": 1718933179,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 292419,
-      "num": 292419,
-      "word": "河南冷藏车八人窒息遇难背后",
-      "onboard_time": 1719065598,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291812,
@@ -7820,7 +7844,7 @@
     },
     {
       "raw_hot": 266872,
-      "num": 144861,
+      "num": 180129,
       "word": "刘亦菲演技",
       "onboard_time": 1719066019,
       "rank": 35,
@@ -8081,6 +8105,14 @@
       "onboard_time": 1718510178,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 253530,
+      "num": 183665,
+      "word": "李晨上体综第一个被淘汰",
+      "onboard_time": 1719067760,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 253384,
@@ -8369,6 +8401,14 @@
       "onboard_time": 1718891659,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241585,
+      "num": 241585,
+      "word": "格鲁吉亚vs捷克",
+      "onboard_time": 1719062299,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 241196,
@@ -8700,7 +8740,7 @@
     },
     {
       "raw_hot": 230318,
-      "num": 144713,
+      "num": 171857,
       "word": "吴宣仪选了101",
       "onboard_time": 1719065900,
       "rank": 37,
@@ -9027,14 +9067,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221652,
-      "num": 144552,
-      "word": "薛芳菲为婉宁流泪",
-      "onboard_time": 1719066500,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 221619,
       "num": 221619,
       "word": "年轻人为什么不爱轻奢了",
@@ -9179,14 +9211,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 219268,
-      "num": 219268,
-      "word": "格鲁吉亚vs捷克",
-      "onboard_time": 1719062299,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 219222,
       "num": 219222,
       "word": "迪丽热巴赛博银甲",
@@ -9320,6 +9344,14 @@
       "word": "100多名学生毕业论文致谢同一人",
       "onboard_time": 1719029597,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216861,
+      "num": 216861,
+      "word": "医院职工遭电诈后被卫健局处罚",
+      "onboard_time": 1719067879,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -9883,6 +9915,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205565,
+      "num": 176075,
+      "word": "文淇银色吊带裙",
+      "onboard_time": 1719067939,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 205472,
+      "num": 172218,
+      "word": "中传教授认为朱一龙适合演罗辑",
+      "onboard_time": 1719067939,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205413,
       "num": 205413,
       "word": "大量出汗后不能只喝白开水",
@@ -10321,6 +10369,14 @@
       "onboard_time": 1718708777,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200074,
+      "num": 200074,
+      "word": "土耳其vs葡萄牙",
+      "onboard_time": 1719068539,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 199840,
@@ -14099,6 +14155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150132,
+      "num": 178833,
+      "word": "波兰总统抵达北京",
+      "onboard_time": 1719066559,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150100,
       "num": 150100,
       "word": "父亲对女儿性格的影响",
@@ -14377,6 +14441,14 @@
       "onboard_time": 1718801418,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146569,
+      "num": 175422,
+      "word": "防晒衣究竟是不是智商税",
+      "onboard_time": 1719065779,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 146346,
@@ -17283,14 +17355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110575,
-      "num": 143072,
-      "word": "防晒衣究竟是不是智商税",
-      "onboard_time": 1719065779,
-      "rank": 47,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 110465,
       "num": 110465,
       "word": "男孩的儿童节愿望在父亲节前实现了",
@@ -18091,14 +18155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 100860,
-      "num": 142848,
-      "word": "波兰总统抵达北京",
-      "onboard_time": 1719066559,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 100612,
       "num": 100612,
       "word": "特斯拉今年已经裁员14%",
@@ -18547,6 +18603,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 92169,
+      "num": 183215,
+      "word": "90岁台湾老兵最大愿望是看到统一",
+      "onboard_time": 1719068479,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91342,
       "num": 449760,
       "word": "温州乳胶床垫造假企业被立案调查",
@@ -18633,6 +18697,14 @@
       "onboard_time": 1718529617,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 89564,
+      "num": 350909,
+      "word": "95后尿毒症小伙卖冰粉赚医药费",
+      "onboard_time": 1719065239,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89468,
@@ -18801,6 +18873,14 @@
       "onboard_time": 1718493252,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84597,
+      "num": 163944,
+      "word": "睡前凉快一下更容易睡得香",
+      "onboard_time": 1719069199,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84440,
@@ -19179,6 +19259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74888,
+      "num": 163055,
+      "word": "洗个澡差点把自己洗掉下去",
+      "onboard_time": 1719068960,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74238,
       "num": 86169,
       "word": "欧洲杯预测",
@@ -19385,6 +19473,14 @@
       "onboard_time": 1718521876,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68047,
+      "num": 162021,
+      "word": "C罗和羊驼自拍",
+      "onboard_time": 1719069439,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68042,
@@ -20009,14 +20105,6 @@
       "onboard_time": 1718753295,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51513,
-      "num": 350909,
-      "word": "95后尿毒症小伙卖冰粉赚医药费",
-      "onboard_time": 1719065239,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 51410,
@@ -21265,6 +21353,14 @@
       "onboard_time": 1718713697,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27298,
+      "num": 267885,
+      "word": "媒体人称若想发财别报新闻",
+      "onboard_time": 1719067100,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 27133,
