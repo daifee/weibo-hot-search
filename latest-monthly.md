@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 19:15:18
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 19:34:26
 </p>
 </blockquote>
 <p>
@@ -1397,6 +1397,12 @@ doc和docx有什么区别（热度：1718023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%BD%E9%87%8F%E5%9C%A8%E6%99%9A9%E7%82%B9%E5%89%8D%E6%B4%97%E6%BE%A1%23" target="weibo">
 建议尽量在晚9点前洗澡（热度：1441220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E5%8E%BB%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+吴世勋去张艺兴演唱会（热度：1438530）
 </a>
 </li>
 
@@ -3681,6 +3687,12 @@ iPhone15多次降价重回销量榜第一（热度：915943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%83%8F%E7%94%B7%E5%9B%A2%E7%9A%84%E5%9B%A2%E4%BD%93%23" target="weibo">
+时代峰峻历史上最像男团的团体（热度：898821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AF%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%AF%B9%E8%89%BA%E8%80%83%E5%BE%88%E5%AF%8C%E4%BD%99%23" target="weibo">
 张若昀说高考分数对艺考很富余（热度：894996）
 </a>
@@ -5529,12 +5541,6 @@ Selina谈到男友哭了（热度：697166）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E5%8E%BB%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-吴世勋去张艺兴演唱会（热度：695504）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E8%80%83%E7%94%9F%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E5%87%BA%E8%AF%BE%E6%9C%AC%E6%B2%A1%E6%95%99%E8%BF%87%E7%9F%A5%E8%AF%86%23" target="weibo">
 三亚考生建议不要出课本没教过知识（热度：695206）
 </a>
@@ -6005,12 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%BC%BA%E8%A7%89%E7%9A%84%E4%BA%BA%E5%85%A8%E8%BA%AB%E9%83%BD%E5%A4%84%E4%BA%8E%E7%82%8E%E7%97%87%E7%8A%B6%E6%80%81%23" target="weibo">
 经常缺觉的人全身都处于炎症状态（热度：663290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%23" target="weibo">
-歌手（热度：663280）
 </a>
 </li>
 

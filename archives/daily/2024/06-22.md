@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/22 00:23:14 ~ 2024/06/22 19:15:18
+本榜单时间：2024/06/22 00:23:14 ~ 2024/06/22 19:34:26
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%BD%E9%87%8F%E5%9C%A8%E6%99%9A9%E7%82%B9%E5%89%8D%E6%B4%97%E6%BE%A1%23" target="weibo">
 建议尽量在晚9点前洗澡（热度：1441220）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E5%8E%BB%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+吴世勋去张艺兴演唱会（热度：1438530）
 </a>
 </li>
 
@@ -105,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%83%8F%E7%94%B7%E5%9B%A2%E7%9A%84%E5%9B%A2%E4%BD%93%23" target="weibo">
+时代峰峻历史上最像男团的团体（热度：898821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%94%9C%E5%93%81%E5%BA%97%20%E6%B3%A1%E8%8A%9936%E4%B8%80%E4%B8%AA%23" target="weibo">
 赵露思甜品店 泡芙36一个（热度：891081）
 </a>
@@ -155,12 +167,6 @@ Manner咖啡创始人夫妇身家72亿（热度：703140）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E6%99%9A%E7%82%B9%E7%9D%A1%E4%B9%9F%E8%A6%81%E5%9C%A823%E7%82%B9%E5%89%8D%E5%85%A5%E7%9D%A1%23" target="weibo">
 医生提醒晚点睡也要在23点前入睡（热度：697149）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E5%8E%BB%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-吴世勋去张艺兴演唱会（热度：695504）
 </a>
 </li>
 
@@ -279,12 +285,6 @@ TikTok首度曝光与美秘密谈判细节（热度：579904）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%83%8F%E7%94%B7%E5%9B%A2%E7%9A%84%E5%9B%A2%E4%BD%93%23" target="weibo">
-时代峰峻历史上最像男团的团体（热度：537925）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E5%9B%9E%E5%BA%94%E9%83%9D%E8%95%BE%E8%A1%A8%E6%BC%94%E8%AF%BE%23" target="weibo">
 吴谨言回应郝蕾表演课（热度：535504）
 </a>
@@ -369,6 +369,12 @@ Manner清空账号（热度：531125）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E7%9C%8B%E5%88%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
+路人看到赵丽颖的表情（热度：478074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E5%A4%B1%E8%81%94%E5%AE%B6%E5%B1%9E%E5%B1%B1%E4%B8%AD%E5%91%90%E5%96%8A%E6%89%BE%E4%BA%BA%23" target="weibo">
 一家六口失联家属山中呐喊找人（热度：476239）
 </a>
@@ -383,12 +389,6 @@ Manner清空账号（热度：531125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E9%97%AD%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%8E%E4%B8%80%E5%B9%B4%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
 关闭朋友圈后一年的变化（热度：470288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E7%9C%8B%E5%88%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
-路人看到赵丽颖的表情（热度：457657）
 </a>
 </li>
 
@@ -425,6 +425,12 @@ Manner清空账号（热度：531125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%BB%99LV%E5%88%9B%E6%84%8F%E6%80%BB%E7%9B%91%E7%A9%BF%E5%94%90%E8%A3%85%23" target="weibo">
 王嘉尔给LV创意总监穿唐装（热度：427391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%A5%E5%94%AE%E5%9B%BD%E4%BC%81%E7%AD%B9%E9%9B%86%E5%86%9B%E8%B4%B9%23" target="weibo">
+乌克兰急售国企筹集军费（热度：426063）
 </a>
 </li>
 
@@ -477,6 +483,12 @@ Manner门店数飞速扩张（热度：418993）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8F%91%E9%BB%84%E4%BA%A6%E7%8E%AB%E5%BC%80%E9%A3%9E%E6%9C%BA%23" target="weibo">
+刘亦菲发黄亦玫开飞机（热度：394266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%A6%AE%E5%8F%AF%E5%80%92%E4%B8%80%23" target="weibo">
 郑妮可倒一（热度：386718）
 </a>
@@ -485,12 +497,6 @@ Manner门店数飞速扩张（热度：418993）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%A6%BB%E8%81%8C%E5%88%A0%E8%BD%AF%E4%BB%B6%E8%A2%AB%E5%85%AC%E5%8F%B8%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89%23" target="weibo">
 00后女孩离职删软件被公司威胁起诉（热度：379538）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%A5%E5%94%AE%E5%9B%BD%E4%BC%81%E7%AD%B9%E9%9B%86%E5%86%9B%E8%B4%B9%23" target="weibo">
-乌克兰急售国企筹集军费（热度：377410）
 </a>
 </li>
 
@@ -551,6 +557,12 @@ iOS18将推出iPhone镜像功能（热度：362136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%9F%E5%A4%A7%E4%B8%BA%E7%AA%9D%E5%9B%8A%E5%BA%9F%E8%B5%9B%E9%81%93%E9%BC%BB%E7%A5%96%23" target="weibo">
 佟大为窝囊废赛道鼻祖（热度：342608）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%9A%84%E8%9C%82%E8%9C%9C%23" target="weibo">
+十个勤天的蜂蜜（热度：341173）
 </a>
 </li>
 
@@ -687,6 +699,12 @@ iOS18将推出iPhone镜像功能（热度：362136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%A6%96%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+张艺兴首尔演唱会（热度：282211）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%A4%90%E5%8E%85%E5%81%B6%E9%81%87%E7%8E%8B%E4%B8%80%E5%8D%9A%23" target="weibo">
 法国餐厅偶遇王一博（热度：275540）
 </a>
@@ -729,8 +747,20 @@ iOS18将推出iPhone镜像功能（热度：362136）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D4%E6%96%A4%E5%A5%B3%E5%AD%90%E5%B0%8620%E4%BB%B6%E8%A1%A3%E6%9C%8D%E7%A9%BF%E8%BA%AB%E4%B8%8A%23" target="weibo">
+行李超重4斤女子将20件衣服穿身上（热度：257449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%B5%B7%E6%B3%89%20%E6%B7%98%E6%B1%B0%23" target="weibo">
 胡海泉 淘汰（热度：255473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%96%E5%B7%A1200%E5%9C%BA%E6%98%AF%E7%8E%A9%E7%AC%91%E8%AF%9D%23" target="weibo">
+林俊杰世巡200场是玩笑话（热度：251695）
 </a>
 </li>
 
@@ -743,12 +773,6 @@ iOS18将推出iPhone镜像功能（热度：362136）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%84%8F%E5%A8%81%E5%A4%A7%E7%A7%80%23" target="weibo">
 罗意威大秀（热度：245662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E6%9D%8E%E8%B6%85%E9%87%8D4%E6%96%A4%E5%A5%B3%E5%AD%90%E5%B0%8620%E4%BB%B6%E8%A1%A3%E6%9C%8D%E7%A9%BF%E8%BA%AB%E4%B8%8A%23" target="weibo">
-行李超重4斤女子将20件衣服穿身上（热度：244133）
 </a>
 </li>
 
@@ -783,12 +807,6 @@ iOS18将推出iPhone镜像功能（热度：362136）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E7%9A%84%E8%9C%82%E8%9C%9C%23" target="weibo">
-十个勤天的蜂蜜（热度：235608）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%20%E7%B4%A7%E5%BC%A0%23" target="weibo">
 张远 紧张（热度：235012）
 </a>
@@ -813,6 +831,12 @@ Manner咖啡（热度：229294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8B%8B%E5%85%B4%23" target="weibo">
+勋兴（热度：227974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B436%E9%9B%86%23" target="weibo">
 墨雨云间36集（热度：227376）
 </a>
@@ -827,12 +851,6 @@ Manner咖啡（热度：229294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E7%95%AA%E5%A4%96%23" target="weibo">
 墨雨云间番外（热度：223888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%A6%96%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-张艺兴首尔演唱会（热度：220820）
 </a>
 </li>
 
@@ -917,6 +935,12 @@ Jennie陈冠希合照（热度：210979）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%95%A4%E9%85%92%E6%9D%AF%E9%87%8C%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%AD%90%E7%95%99%E4%B8%8B%E9%87%91%E9%95%AF%E5%AD%90%23" target="weibo">
 老板啤酒杯里发现女子留下金镯子（热度：204071）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E7%9B%AE%E6%A0%87%E7%AC%AC%E4%B8%80%23" target="weibo">
+朱志鑫目标第一（热度：203826）
 </a>
 </li>
 
@@ -1151,6 +1175,12 @@ TF三代二公repo（热度：201310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%83%E4%B8%BB%E9%A3%9F%E4%BC%9A%E5%8A%A0%E9%80%9F%E8%A1%B0%E8%80%81%E5%92%8C%E6%82%A3%E7%99%8C%23" target="weibo">
 不吃主食会加速衰老和患癌（热度：165100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E7%9C%8B%E9%99%88%E5%A6%8D%E5%B8%8C%E7%9A%84%E7%9C%BC%E7%A5%9E%23" target="weibo">
+周柯宇看陈妍希的眼神（热度：164494）
 </a>
 </li>
 
@@ -1456,7 +1486,13 @@ WE对战LGD（热度：127538）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%AD%A3%E4%B8%8E%E5%8D%8E%E4%B8%BA%E5%BC%80%E5%8F%91%E5%8E%9F%E7%94%9F%E9%B8%BF%E8%92%99%E9%80%82%E9%85%8D%23" target="weibo">
-微信正与华为开发原生鸿蒙适配（热度：126743）
+微信正与华为开发原生鸿蒙适配（热度：127097）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%80%9C%20%E5%BC%80%E7%9B%85%23" target="weibo">
+花怜 开盅（热度：126909）
 </a>
 </li>
 
@@ -1575,12 +1611,6 @@ TTG对战DYG（热度：108064）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%80%9C%20%E5%BC%80%E7%9B%85%23" target="weibo">
-花怜 开盅（热度：106008）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%8C%91%E6%88%98%E5%86%99%E9%B8%BF%E8%92%99%E4%BB%A3%E7%A0%81%23" target="weibo">
 余承东挑战写鸿蒙代码（热度：105908）
 </a>
@@ -1619,6 +1649,12 @@ TTG对战DYG（热度：108064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%89%93%E7%BB%BF%E5%8C%97%E4%BA%AC%E5%9C%BA%23" target="weibo">
 苏打绿北京场（热度：99572）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E5%88%B0%E6%B7%B1%E5%9C%B31%E5%A4%A9%E6%94%B6%E5%88%B0%E8%B6%85%E9%95%BF%E7%BD%9A%E5%8D%95%23" target="weibo">
+女子开车到深圳1天收到超长罚单（热度：99484）
 </a>
 </li>
 
@@ -1685,6 +1721,12 @@ TTG对战DYG（热度：108064）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E5%A5%BD%E5%9C%A8%E5%93%AA%E9%87%8C%23" target="weibo">
 考教师资格证好在哪里（热度：90340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%95%91%E4%BA%BA%E4%B8%AD%E6%AF%92%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E%E4%B8%89%E5%B2%81%23" target="weibo">
+消防员救人中毒智力退回三岁（热度：89096）
 </a>
 </li>
 
@@ -1781,12 +1823,6 @@ Manner咖啡后续（热度：85459）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23CBD%E4%B8%8A%E7%8F%AD%E6%97%8F%E5%9C%A8%E4%BE%BF%E5%88%A9%E5%BA%97%E5%90%83%E5%8D%88%E9%A4%90%23" target="weibo">
 CBD上班族在便利店吃午餐（热度：66815）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E6%95%91%E4%BA%BA%E4%B8%AD%E6%AF%92%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E%E4%B8%89%E5%B2%81%23" target="weibo">
-消防员救人中毒智力退回三岁（热度：65951）
 </a>
 </li>
 
@@ -1961,6 +1997,12 @@ Manner咖啡将优化门店运营安排（热度：36826）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%95%9940%E5%B9%B4%E8%80%81%E5%B8%88%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE%E4%B8%88%E5%A4%AB%E6%8D%A7%E8%8A%B1%E7%8E%B0%E8%BA%AB%23" target="weibo">
 从教40年老师最后一课丈夫捧花现身（热度：32721）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%86%99%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B42%E5%A4%A9%E5%86%99%E8%BF%91%E4%B8%87%E5%AD%97%23" target="weibo">
+小学生写科幻小说2天写近万字（热度：31061）
 </a>
 </li>
 

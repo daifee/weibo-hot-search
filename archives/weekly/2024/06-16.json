@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719054918570,
+  "endTime": 1719056066740,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -553,6 +553,14 @@
       "onboard_time": 1719040158,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1438530,
+      "num": 1438530,
+      "word": "吴世勋去张艺兴演唱会",
+      "onboard_time": 1719054256,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 1438087,
@@ -1611,6 +1619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 898821,
+      "num": 326495,
+      "word": "时代峰峻历史上最像男团的团体",
+      "onboard_time": 1719054256,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 890698,
       "num": 820028,
       "word": "鞠婧祎 续约",
@@ -2337,14 +2353,6 @@
       "onboard_time": 1718543718,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 695504,
-      "num": 318403,
-      "word": "吴世勋去张艺兴演唱会",
-      "onboard_time": 1719054256,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 694987,
@@ -3459,14 +3467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 537925,
-      "num": 302149,
-      "word": "时代峰峻历史上最像男团的团体",
-      "onboard_time": 1719054256,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 537687,
       "num": 537687,
       "word": "留给林一的集数不多了",
@@ -4107,6 +4107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478074,
+      "num": 301547,
+      "word": "路人看到赵丽颖的表情",
+      "onboard_time": 1719052518,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 477221,
       "num": 477221,
       "word": "iPhone16Pro或加大不加厚",
@@ -4313,14 +4321,6 @@
       "onboard_time": 1718775981,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 457657,
-      "num": 301547,
-      "word": "路人看到赵丽颖的表情",
-      "onboard_time": 1719052518,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 456233,
@@ -4763,6 +4763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 426063,
+      "num": 301153,
+      "word": "乌克兰急售国企筹集军费",
+      "onboard_time": 1719052398,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 425614,
       "num": 425614,
       "word": "12306回应桂林火车站暂停客运业务",
@@ -5203,6 +5211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 394266,
+      "num": 129038,
+      "word": "刘亦菲发黄亦玫开飞机",
+      "onboard_time": 1719055277,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 394018,
       "num": 394018,
       "word": "赵丽颖栗子妆",
@@ -5337,14 +5353,6 @@
       "onboard_time": 1718952738,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 377410,
-      "num": 301153,
-      "word": "乌克兰急售国企筹集军费",
-      "onboard_time": 1719052398,
-      "rank": 14,
-      "category": "国外时政"
     },
     {
       "raw_hot": 376620,
@@ -5969,6 +5977,14 @@
       "onboard_time": 1718496615,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 341173,
+      "num": 177405,
+      "word": "十个勤天的蜂蜜",
+      "onboard_time": 1719054256,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 340892,
@@ -7163,6 +7179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282211,
+      "num": 172230,
+      "word": "张艺兴首尔演唱会",
+      "onboard_time": 1719054558,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 281332,
       "num": 236424,
       "word": "小伙刮到第13张喜中100万大奖",
@@ -7723,6 +7747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257449,
+      "num": 180026,
+      "word": "行李超重4斤女子将20件衣服穿身上",
+      "onboard_time": 1719052518,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257430,
       "num": 257430,
       "word": "比利时vs斯洛伐克",
@@ -7809,6 +7841,14 @@
       "onboard_time": 1718946558,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 251695,
+      "num": 127981,
+      "word": "林俊杰世巡200场是玩笑话",
+      "onboard_time": 1719055158,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 251391,
@@ -7977,14 +8017,6 @@
       "onboard_time": 1718951178,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244133,
-      "num": 180026,
-      "word": "行李超重4斤女子将20件衣服穿身上",
-      "onboard_time": 1719052518,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243939,
@@ -8233,14 +8265,6 @@
       "onboard_time": 1718775921,
       "rank": 26,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 235608,
-      "num": 177405,
-      "word": "十个勤天的蜂蜜",
-      "onboard_time": 1719054256,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 235515,
@@ -8507,6 +8531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227974,
+      "num": 127852,
+      "word": "勋兴",
+      "onboard_time": 1719055398,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227912,
       "num": 227912,
       "word": "Letme谈Uzi停播",
@@ -8753,14 +8785,6 @@
       "onboard_time": 1718967797,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 220820,
-      "num": 172230,
-      "word": "张艺兴首尔演唱会",
-      "onboard_time": 1719054558,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 220786,
@@ -9625,6 +9649,14 @@
       "onboard_time": 1718886678,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203826,
+      "num": 127510,
+      "word": "朱志鑫目标第一",
+      "onboard_time": 1719055218,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 203584,
@@ -12377,6 +12409,14 @@
       "onboard_time": 1718954419,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 164494,
+      "num": 119927,
+      "word": "周柯宇看陈妍希的眼神",
+      "onboard_time": 1719055878,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 164486,
@@ -15484,7 +15524,7 @@
     },
     {
       "raw_hot": 127538,
-      "num": 127538,
+      "num": 128181,
       "word": "WE对战LGD",
       "onboard_time": 1719054679,
       "rank": 39,
@@ -15531,12 +15571,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126743,
-      "num": 126743,
+      "raw_hot": 127097,
+      "num": 127097,
       "word": "微信正与华为开发原生鸿蒙适配",
       "onboard_time": 1719051557,
       "rank": 48,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 126909,
+      "num": 126909,
+      "word": "花怜 开盅",
+      "onboard_time": 1719054438,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 126524,
@@ -16892,7 +16940,7 @@
     },
     {
       "raw_hot": 108064,
-      "num": 108064,
+      "num": 112186,
       "word": "TTG对战DYG",
       "onboard_time": 1719052578,
       "rank": 49,
@@ -17036,7 +17084,7 @@
     },
     {
       "raw_hot": 106179,
-      "num": 106179,
+      "num": 111999,
       "word": "学游泳的第一步",
       "onboard_time": 1719054679,
       "rank": 45,
@@ -17057,14 +17105,6 @@
       "onboard_time": 1718838975,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106008,
-      "num": 106008,
-      "word": "花怜 开盅",
-      "onboard_time": 1719054438,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 105908,
@@ -17521,6 +17561,14 @@
       "onboard_time": 1719023897,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99484,
+      "num": 112396,
+      "word": "女子开车到深圳1天收到超长罚单",
+      "onboard_time": 1719054318,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 99424,
@@ -18015,6 +18063,14 @@
       "num": 528550,
       "word": "暴雨天气实用防御指南",
       "onboard_time": 1718939839,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89096,
+      "num": 302711,
+      "word": "消防员救人中毒智力退回三岁",
+      "onboard_time": 1719053897,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -18825,14 +18881,6 @@
       "onboard_time": 1718683579,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 65951,
-      "num": 302711,
-      "word": "消防员救人中毒智力退回三岁",
-      "onboard_time": 1719053897,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 65685,
@@ -20401,6 +20449,14 @@
       "onboard_time": 1718953338,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 31061,
+      "num": 128736,
+      "word": "小学生写科幻小说2天写近万字",
+      "onboard_time": 1719055938,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30929,
