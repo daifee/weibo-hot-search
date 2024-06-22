@@ -1,0 +1,410 @@
+{
+  "runTime": 1719052636677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212223,
+        "num": 1212223,
+        "word": "赵露思甜品店回应",
+        "onboard_time": 1719044717,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693567,
+        "num": 693567,
+        "word": "山西通报中考英语听力事故",
+        "onboard_time": 1719048737,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28843,
+        "num": 535271,
+        "word": "文化中国行看穿越千年的大运河",
+        "onboard_time": 1719043218,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 947609,
+        "num": 519832,
+        "word": "宋丹丹退休",
+        "onboard_time": 1719046576,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 694987,
+        "num": 495255,
+        "word": "拿6双筷子被指偷窃女生要求公开道歉",
+        "onboard_time": 1719048257,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433551,
+        "num": 433551,
+        "word": "俄称对乌发起大规模打击",
+        "onboard_time": 1719046998,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 685480,
+        "num": 429931,
+        "word": "墨雨云间大结局",
+        "onboard_time": 1719052159,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 683804,
+        "num": 425014,
+        "word": "杨幂以哈尔滨一九四四为例发表论文",
+        "onboard_time": 1719050117,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 414084,
+        "num": 414084,
+        "word": "近视手术后并不能一劳永逸",
+        "onboard_time": 1719043218,
+        "rank": 8,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 298356,
+        "num": 298356,
+        "word": "微博CEO说余承东的照片很哇塞",
+        "onboard_time": 1719050597,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 602028,
+        "num": 293499,
+        "word": "墨雨云间可以一口气看完了",
+        "onboard_time": 1719048498,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454007,
+        "num": 289247,
+        "word": "王一博罗意威大秀造型",
+        "onboard_time": 1719050177,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 482543,
+        "num": 276139,
+        "word": "墨雨云间",
+        "onboard_time": 1719051077,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426882,
+        "num": 270042,
+        "word": "法老 头像",
+        "onboard_time": 1719049817,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266900,
+        "num": 266900,
+        "word": "山西将重新组织一次英语听力考试",
+        "onboard_time": 1719049697,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28529,
+        "num": 264375,
+        "word": "苏州大学学术天团出场氛围感拉满",
+        "onboard_time": 1719049998,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400058,
+        "num": 264255,
+        "word": "易烊千玺送王源花篮",
+        "onboard_time": 1719046757,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 264077,
+        "num": 264077,
+        "word": "留置针导管在婴儿血管里漂移5年",
+        "onboard_time": 1719030557,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239065,
+        "num": 239065,
+        "word": "罗小黑作者道歉",
+        "onboard_time": 1719033198,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193460,
+        "num": 193460,
+        "word": "村医吸毒成瘾3年开2846支杜冷丁",
+        "onboard_time": 1719025816,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046158,
+        "num": 193088,
+        "word": "你觉得36元一个泡芙贵吗",
+        "onboard_time": 1719047117,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 721353,
+        "num": 188792,
+        "word": "建议尽量在晚9点前洗澡",
+        "onboard_time": 1719040158,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 359989,
+        "num": 185987,
+        "word": "吉克隽逸演出事故",
+        "onboard_time": 1719036557,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338290,
+        "num": 184312,
+        "word": "金智媛跳2pm我们家",
+        "onboard_time": 1719046817,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331937,
+        "num": 182451,
+        "word": "八贼Diss",
+        "onboard_time": 1719048737,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270848,
+        "num": 179925,
+        "word": "墨雨云间超点",
+        "onboard_time": 1719033497,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206303,
+        "num": 177053,
+        "word": "赵丽颖活动尖叫声",
+        "onboard_time": 1719051619,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175793,
+        "num": 175793,
+        "word": "杭州暴雨",
+        "onboard_time": 1719045498,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262478,
+        "num": 175390,
+        "word": "墨雨云间番外有吻戏",
+        "onboard_time": 1719051678,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128772,
+        "num": 174497,
+        "word": "外国语专业顶级大学",
+        "onboard_time": 1719046878,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 374824,
+        "num": 173579,
+        "word": "小孩哥 我大专稳了",
+        "onboard_time": 1719052037,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196858,
+        "num": 173483,
+        "word": "赵丽颖单手插兜出场",
+        "onboard_time": 1719052037,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195309,
+        "num": 172404,
+        "word": "罗意威大秀",
+        "onboard_time": 1719050298,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95036,
+        "num": 171370,
+        "word": "益生菌宣称每日40滴能让孩子长高",
+        "onboard_time": 1719050478,
+        "rank": 33,
+        "category": "社会新闻,科学科普"
+      },
+      {
+        "raw_hot": 195195,
+        "num": 170831,
+        "word": "登陆日",
+        "onboard_time": 1719051917,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 183797,
+        "num": 170433,
+        "word": "郑妮可倒一",
+        "onboard_time": 1719046576,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188061,
+        "num": 169270,
+        "word": "路人看到赵丽颖的表情",
+        "onboard_time": 1719052518,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168975,
+        "num": 168975,
+        "word": "干了我在奶茶店想干不敢干的事",
+        "onboard_time": 1719047478,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147008,
+        "num": 167936,
+        "word": "金银首饰有辐射是真是假",
+        "onboard_time": 1719046878,
+        "rank": 38,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137709,
+        "num": 167925,
+        "word": "来中国旅游的老外已经这么卷了",
+        "onboard_time": 1719050117,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 179451,
+        "num": 167922,
+        "word": "墨雨云间番外",
+        "onboard_time": 1719052578,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167919,
+        "num": 167919,
+        "word": "佟大为窝囊废赛道鼻祖",
+        "onboard_time": 1719045798,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163768,
+        "num": 163768,
+        "word": "鞠婧祎微博小尾巴",
+        "onboard_time": 1719048077,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156772,
+        "num": 156772,
+        "word": "时代少年团捧花奔跑",
+        "onboard_time": 1719049817,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154424,
+        "num": 154424,
+        "word": "吴谨言王星越叼玉佩花絮",
+        "onboard_time": 1719051377,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137057,
+        "num": 137057,
+        "word": "关晓彤白旗袍",
+        "onboard_time": 1719048557,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128821,
+        "num": 128821,
+        "word": "思诺思是毒品吗",
+        "onboard_time": 1719047778,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123228,
+        "num": 123228,
+        "word": "不吃主食会加速衰老和患癌",
+        "onboard_time": 1719046039,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108827,
+        "num": 108827,
+        "word": "微信正与华为开发原生鸿蒙适配",
+        "onboard_time": 1719051557,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108064,
+        "num": 108064,
+        "word": "TTG对战DYG",
+        "onboard_time": 1719052578,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}
