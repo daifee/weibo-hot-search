@@ -1,0 +1,410 @@
+{
+  "runTime": 1719084900102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 258577,
+        "num": 258577,
+        "word": "月亮",
+        "onboard_time": 1719063739,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 170144,
+        "num": 170144,
+        "word": "林俊杰 冻结",
+        "onboard_time": 1719063317,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2645,
+        "num": 137857,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122498,
+        "num": 122498,
+        "word": "玫瑰的故事大结局",
+        "onboard_time": 1719056417,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60417,
+        "num": 60417,
+        "word": "土耳其vs葡萄牙",
+        "onboard_time": 1719068539,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60158,
+        "num": 60158,
+        "word": "Manner 倒计时",
+        "onboard_time": 1719073277,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122107,
+        "num": 57778,
+        "word": "婉宁下线这段真是震撼",
+        "onboard_time": 1719072019,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43374,
+        "num": 43374,
+        "word": "Manner事件",
+        "onboard_time": 1719065179,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89339,
+        "num": 43374,
+        "word": "墨雨云间大结局",
+        "onboard_time": 1719052159,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6444,
+        "num": 43365,
+        "word": "警犬赛道原来这么卷",
+        "onboard_time": 1719074536,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80002,
+        "num": 43358,
+        "word": "少女时期的李梦",
+        "onboard_time": 1719079634,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75423,
+        "num": 43349,
+        "word": "于正你是懂番外的",
+        "onboard_time": 1719065840,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67336,
+        "num": 43342,
+        "word": "黄亦玫穿着丧服跳舞",
+        "onboard_time": 1719057258,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43338,
+        "num": 43338,
+        "word": "王者荣耀",
+        "onboard_time": 1719058757,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61217,
+        "num": 41823,
+        "word": "美国关闭俄在华盛顿和纽约的签证中心",
+        "onboard_time": 1719078373,
+        "rank": 14,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 53908,
+        "num": 41174,
+        "word": "傅家明离世庄国栋再回国追玫瑰",
+        "onboard_time": 1719060258,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39518,
+        "num": 39518,
+        "word": "欧洲杯",
+        "onboard_time": 1719066199,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36079,
+        "num": 36079,
+        "word": "Manner事件 不要为难服务人员",
+        "onboard_time": 1719058037,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30911,
+        "num": 36063,
+        "word": "医院职工遭电诈后被卫健局处罚",
+        "onboard_time": 1719067879,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30593,
+        "num": 36019,
+        "word": "格鲁吉亚vs捷克",
+        "onboard_time": 1719062299,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47437,
+        "num": 35937,
+        "word": "刘亦菲演技",
+        "onboard_time": 1719066019,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46266,
+        "num": 35864,
+        "word": "这5种病根本无法根治",
+        "onboard_time": 1719080593,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45391,
+        "num": 35846,
+        "word": "方协文 可怕",
+        "onboard_time": 1719064820,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41994,
+        "num": 35766,
+        "word": "墨雨云间",
+        "onboard_time": 1719051077,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25527,
+        "num": 35697,
+        "word": "睡前凉快一下更容易睡得香",
+        "onboard_time": 1719069199,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 41239,
+        "num": 35654,
+        "word": "于正墨雨云间收官文",
+        "onboard_time": 1719070878,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40203,
+        "num": 35606,
+        "word": "吴世勋去张艺兴演唱会",
+        "onboard_time": 1719054256,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35580,
+        "num": 35580,
+        "word": "菲常萧张已he求放过",
+        "onboard_time": 1719079333,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33962,
+        "num": 33962,
+        "word": "云边有个小卖部",
+        "onboard_time": 1719059719,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24177,
+        "num": 33522,
+        "word": "大运河博物馆展览了隋炀帝的蛀牙",
+        "onboard_time": 1719070578,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33395,
+        "num": 33395,
+        "word": "你好星期六下期有乘风姐姐",
+        "onboard_time": 1719067459,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31190,
+        "num": 31190,
+        "word": "云边有个小卖部 he",
+        "onboard_time": 1719056178,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29234,
+        "num": 29234,
+        "word": "林一结局才出来",
+        "onboard_time": 1719060679,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22724,
+        "num": 29022,
+        "word": "洗个澡差点把自己洗掉下去",
+        "onboard_time": 1719068960,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21951,
+        "num": 28894,
+        "word": "办公室空调开26度还是24度好",
+        "onboard_time": 1719061158,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 28867,
+        "num": 28867,
+        "word": "李飞谈TFBOYS的遗憾",
+        "onboard_time": 1719057557,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27758,
+        "num": 28867,
+        "word": "薛之谦徐州演唱会赶上人工降雨",
+        "onboard_time": 1719082692,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19852,
+        "num": 28860,
+        "word": "行李超重4斤女子将20件衣服穿身上",
+        "onboard_time": 1719052518,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19787,
+        "num": 28858,
+        "word": "豆瓣崩了",
+        "onboard_time": 1719070158,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 19357,
+        "num": 28852,
+        "word": "双子座其实还蛮老实的",
+        "onboard_time": 1719056957,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28446,
+        "num": 28850,
+        "word": "李飞说TFBOYS成员个人发展有点早",
+        "onboard_time": 1719083951,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26912,
+        "num": 28843,
+        "word": "刘亦菲汪俊互关了",
+        "onboard_time": 1719059538,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26216,
+        "num": 28840,
+        "word": "李晨上体综第一个被淘汰",
+        "onboard_time": 1719067760,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26185,
+        "num": 28839,
+        "word": "杨幂以哈尔滨一九四四为例发表论文",
+        "onboard_time": 1719050117,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23819,
+        "num": 28834,
+        "word": "吴磊贵公子",
+        "onboard_time": 1719066859,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18828,
+        "num": 28830,
+        "word": "法国3支特种部队将参与奥运安保",
+        "onboard_time": 1719078734,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17901,
+        "num": 28823,
+        "word": "90岁台湾老兵最大愿望是看到统一",
+        "onboard_time": 1719068479,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 17216,
+        "num": 28823,
+        "word": "防晒衣究竟是不是智商税",
+        "onboard_time": 1719065779,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 16707,
+        "num": 28819,
+        "word": "波兰总统抵达北京",
+        "onboard_time": 1719066559,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13314,
+        "num": 28815,
+        "word": "养成松弛感的9个方法",
+        "onboard_time": 1719084851,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把各族人民的心紧紧连在一起#"
+    }
+  }
+}
