@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719087509931,
+  "endTime": 1719088482882,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -60907,6 +60907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50711,
+      "num": 40913,
+      "word": "李飞说TFBOYS成员个人发展有点早",
+      "onboard_time": 1719083951,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50710,
       "num": 243488,
       "word": "多家车企呼吁竞争要守住底线",
@@ -61057,14 +61065,6 @@
       "onboard_time": 1718753415,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 49332,
-      "num": 31268,
-      "word": "李飞说TFBOYS成员个人发展有点早",
-      "onboard_time": 1719083951,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 49322,
@@ -62619,6 +62619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37348,
+      "num": 27072,
+      "word": "女子买无座票坐卧铺被强行带离",
+      "onboard_time": 1719085931,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37338,
       "num": 37338,
       "word": "爸爸的肩膀是童年最坚实的依靠",
@@ -63664,14 +63672,6 @@
       "word": "平常心对待姜萍不要过度造神",
       "onboard_time": 1718640917,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29796,
-      "num": 27072,
-      "word": "女子买无座票坐卧铺被强行带离",
-      "onboard_time": 1719085931,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -65179,6 +65179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 16681,
+      "num": 19612,
+      "word": "何西好帅",
+      "onboard_time": 1719087012,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16640,
       "num": 18393,
       "word": "排球少年售后的神",
@@ -65233,6 +65241,14 @@
       "onboard_time": 1718136611,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 16026,
+      "num": 28815,
+      "word": "养成松弛感的9个方法",
+      "onboard_time": 1719084851,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16013,
@@ -65377,14 +65393,6 @@
       "onboard_time": 1719074536,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14911,
-      "num": 28815,
-      "word": "养成松弛感的9个方法",
-      "onboard_time": 1719084851,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 14852,

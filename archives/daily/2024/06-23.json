@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719087509931,
+  "endTime": 1719088482882,
   "band_list": [
     {
       "raw_hot": 1152737,
@@ -427,8 +427,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 49332,
-      "num": 31268,
+      "raw_hot": 50711,
+      "num": 40913,
       "word": "李飞说TFBOYS成员个人发展有点早",
       "onboard_time": 1719083951,
       "rank": 40,
@@ -449,6 +449,14 @@
       "onboard_time": 1719079333,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37348,
+      "num": 27072,
+      "word": "女子买无座票坐卧铺被强行带离",
+      "onboard_time": 1719085931,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36640,
@@ -491,11 +499,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29796,
-      "num": 27072,
-      "word": "女子买无座票坐卧铺被强行带离",
-      "onboard_time": 1719085931,
-      "rank": 23,
+      "raw_hot": 16681,
+      "num": 19612,
+      "word": "何西好帅",
+      "onboard_time": 1719087012,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16026,
+      "num": 28815,
+      "word": "养成松弛感的9个方法",
+      "onboard_time": 1719084851,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -505,14 +521,6 @@
       "onboard_time": 1719074536,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14911,
-      "num": 28815,
-      "word": "养成松弛感的9个方法",
-      "onboard_time": 1719084851,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 12763,
