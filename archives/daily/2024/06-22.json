@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719019158556,
+  "endTime": 1719020377432,
   "band_list": [
     {
       "raw_hot": 1606589,
@@ -11,8 +11,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1302951,
-      "num": 428631,
+      "raw_hot": 1312184,
+      "num": 445773,
       "word": "韩国集体性侵事件嫌疑人时隔20年道歉",
       "onboard_time": 1719016456,
       "rank": 3,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 761206,
-      "num": 422502,
+      "num": 441056,
       "word": "成毅后援会辞职信",
       "onboard_time": 1719014955,
       "rank": 4,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 697149,
-      "num": 220858,
+      "num": 221409,
       "word": "医生提醒晚点睡也要在23点前入睡",
       "onboard_time": 1719013635,
       "rank": 20,
@@ -73,6 +73,14 @@
       "onboard_time": 1718977822,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 650472,
+      "num": 319481,
+      "word": "日本婚活火了",
+      "onboard_time": 1719019698,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 606697,
@@ -91,19 +99,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 531125,
+      "num": 531125,
+      "word": "Manner清空账号",
+      "onboard_time": 1719014236,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513359,
       "num": 513359,
       "word": "中央财政紧急下达1.05亿元抢修公路",
       "onboard_time": 1718973859,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 510934,
-      "num": 510934,
-      "word": "Manner清空账号",
-      "onboard_time": 1719014236,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -113,6 +121,14 @@
       "onboard_time": 1718982320,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 470288,
+      "num": 220619,
+      "word": "关闭朋友圈后一年的变化",
+      "onboard_time": 1719015077,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 438862,
@@ -131,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 428645,
+      "num": 428645,
+      "word": "云南绿色蝴蝶大爆发",
+      "onboard_time": 1719015077,
+      "rank": 5,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 418993,
       "num": 418993,
       "word": "Manner门店数飞速扩张",
@@ -145,14 +169,6 @@
       "onboard_time": 1718979984,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 408866,
-      "num": 408866,
-      "word": "云南绿色蝴蝶大爆发",
-      "onboard_time": 1719015077,
-      "rank": 5,
-      "category": "旅游"
     },
     {
       "raw_hot": 406015,
@@ -185,6 +201,14 @@
       "onboard_time": 1718986398,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371834,
+      "num": 371834,
+      "word": "奶奶100岁了我要停业去祝寿",
+      "onboard_time": 1719016096,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 371559,
@@ -267,20 +291,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 277677,
-      "num": 277677,
-      "word": "奶奶100岁了我要停业去祝寿",
-      "onboard_time": 1719016096,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 269721,
-      "num": 220619,
-      "word": "关闭朋友圈后一年的变化",
-      "onboard_time": 1719015077,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 266244,
+      "num": 220283,
+      "word": "为啥每晚睡够7小时还是疲惫不堪",
+      "onboard_time": 1719014655,
+      "rank": 24,
+      "category": "科学科普"
     },
     {
       "raw_hot": 264867,
@@ -329,14 +345,6 @@
       "onboard_time": 1718981002,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 237612,
-      "num": 220283,
-      "word": "为啥每晚睡够7小时还是疲惫不堪",
-      "onboard_time": 1719014655,
-      "rank": 24,
-      "category": "科学科普"
     },
     {
       "raw_hot": 237435,
@@ -467,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183232,
+      "num": 183232,
+      "word": "汪苏泷第一句出来就知道不简单",
+      "onboard_time": 1719019277,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177420,
       "num": 177420,
       "word": "汪苏泷又走不了了",
@@ -555,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138153,
+      "num": 138153,
+      "word": "男子洪水中救母遇难",
+      "onboard_time": 1719018738,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132067,
+      "num": 132067,
+      "word": "黄亦玫同款盘发",
+      "onboard_time": 1719019156,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129520,
       "num": 129520,
       "word": "有Manner员工被父母劝说辞职",
@@ -587,6 +619,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 115332,
+      "num": 115332,
+      "word": "Manner扩张与劝退入职的店员们",
+      "onboard_time": 1719019397,
+      "rank": 44,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 111238,
+      "num": 111238,
+      "word": "女子刺伤家暴的丈夫被认定正当防卫",
+      "onboard_time": 1719020359,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108321,
       "num": 185038,
       "word": "斯洛伐克vs乌克兰",
@@ -617,14 +665,6 @@
       "onboard_time": 1719018977,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 100187,
-      "num": 100187,
-      "word": "男子洪水中救母遇难",
-      "onboard_time": 1719018738,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93707,
@@ -723,6 +763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 69477,
+      "num": 205735,
+      "word": "小女儿见爸爸特警朋友一杯水就醉了",
+      "onboard_time": 1719020297,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68222,
       "num": 168262,
       "word": "刘国梁寄语国乒",
@@ -771,7 +819,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51466,
+      "raw_hot": 54781,
       "num": 385161,
       "word": "水果谐音高考查分祝福",
       "onboard_time": 1719018437,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719020377432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 655292,
+        "num": 655292,
+        "word": "耳帝 歌手最差的一期吧",
+        "onboard_time": 1718982080,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531125,
+        "num": 531125,
+        "word": "Manner清空账号",
+        "onboard_time": 1719014236,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10895,
+        "num": 459083,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1312184,
+        "num": 445773,
+        "word": "韩国集体性侵事件嫌疑人时隔20年道歉",
+        "onboard_time": 1719016456,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701066,
+        "num": 441056,
+        "word": "成毅后援会辞职信",
+        "onboard_time": 1719014955,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428645,
+        "num": 428645,
+        "word": "云南绿色蝴蝶大爆发",
+        "onboard_time": 1719015077,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 613280,
+        "num": 412281,
+        "word": "赵露思甜品店 泡芙36一个",
+        "onboard_time": 1718981720,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529409,
+        "num": 395103,
+        "word": "华少 主持",
+        "onboard_time": 1719016696,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371834,
+        "num": 371834,
+        "word": "奶奶100岁了我要停业去祝寿",
+        "onboard_time": 1719016096,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321440,
+        "num": 321440,
+        "word": "Manner发表声明",
+        "onboard_time": 1718979684,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650472,
+        "num": 319481,
+        "word": "日本婚活火了",
+        "onboard_time": 1719019698,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321719,
+        "num": 319374,
+        "word": "刘亦菲演技好自然",
+        "onboard_time": 1719014115,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312984,
+        "num": 312984,
+        "word": "女生买2份饭拿6双筷子被怒斥盗窃",
+        "onboard_time": 1718988975,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306211,
+        "num": 306211,
+        "word": "李梦演技",
+        "onboard_time": 1719012614,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292418,
+        "num": 292418,
+        "word": "德国球迷认为中国是对手",
+        "onboard_time": 1719014896,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245085,
+        "num": 245085,
+        "word": "秦彻 预制菜",
+        "onboard_time": 1719011714,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243156,
+        "num": 243156,
+        "word": "柳智敏被衣服磨得皮肤通红",
+        "onboard_time": 1719015496,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223850,
+        "num": 223850,
+        "word": "朱丹感谢张远",
+        "onboard_time": 1719014414,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54781,
+        "num": 223708,
+        "word": "水果谐音高考查分祝福",
+        "onboard_time": 1719018437,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182371,
+        "num": 221939,
+        "word": "美国一护士用水给患者输液致16死",
+        "onboard_time": 1718976863,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605700,
+        "num": 221409,
+        "word": "医生提醒晚点睡也要在23点前入睡",
+        "onboard_time": 1719013635,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 470288,
+        "num": 219221,
+        "word": "关闭朋友圈后一年的变化",
+        "onboard_time": 1719015077,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266244,
+        "num": 218395,
+        "word": "为啥每晚睡够7小时还是疲惫不堪",
+        "onboard_time": 1719014655,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 218030,
+        "num": 218030,
+        "word": "30岁和最好的朋友结婚了",
+        "onboard_time": 1719014655,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217443,
+        "num": 217443,
+        "word": "墨雨云间 表哥上大分",
+        "onboard_time": 1719014355,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214801,
+        "num": 214801,
+        "word": "4小孩故意砸车家长拒不赔偿",
+        "onboard_time": 1718979984,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69477,
+        "num": 205735,
+        "word": "小女儿见爸爸特警朋友一杯水就醉了",
+        "onboard_time": 1719020297,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204846,
+        "num": 204846,
+        "word": "杨幂发表C刊",
+        "onboard_time": 1718970918,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191639,
+        "num": 191639,
+        "word": "耳帝说孙楠实在是不好听",
+        "onboard_time": 1719015916,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188789,
+        "num": 188789,
+        "word": "老板啤酒杯里发现女子留下金镯子",
+        "onboard_time": 1719018077,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183232,
+        "num": 183232,
+        "word": "汪苏泷第一句出来就知道不简单",
+        "onboard_time": 1719019277,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176667,
+        "num": 176667,
+        "word": "华为Mate70将首发搭载纯血鸿蒙",
+        "onboard_time": 1719014715,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142905,
+        "num": 142905,
+        "word": "中央财政紧急下达1.05亿元抢修公路",
+        "onboard_time": 1718973859,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139890,
+        "num": 139890,
+        "word": "张远冲榜失败",
+        "onboard_time": 1718974521,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138909,
+        "num": 138909,
+        "word": "法国0比0战平荷兰",
+        "onboard_time": 1719011472,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138153,
+        "num": 138153,
+        "word": "男子洪水中救母遇难",
+        "onboard_time": 1719018738,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132067,
+        "num": 132067,
+        "word": "黄亦玫同款盘发",
+        "onboard_time": 1719019156,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130138,
+        "num": 130138,
+        "word": "李梦和长公主精神状态逐渐一致",
+        "onboard_time": 1719005710,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129604,
+        "num": 129604,
+        "word": "玫瑰的故事 各平台现状",
+        "onboard_time": 1718982381,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127660,
+        "num": 127660,
+        "word": "黄亦玫傅家明关系确认",
+        "onboard_time": 1719015377,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124971,
+        "num": 124971,
+        "word": "有Manner员工被父母劝说辞职",
+        "onboard_time": 1719015136,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123256,
+        "num": 123256,
+        "word": "2024高考成绩公布时间汇总",
+        "onboard_time": 1718982320,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119505,
+        "num": 119505,
+        "word": "浙江人的刘海都成条形码了",
+        "onboard_time": 1719016756,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116708,
+        "num": 116708,
+        "word": "那英竟然第七",
+        "onboard_time": 1718979802,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115332,
+        "num": 115332,
+        "word": "Manner扩张与劝退入职的店员们",
+        "onboard_time": 1719019397,
+        "rank": 44,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 114605,
+        "num": 114605,
+        "word": "有关TFBOYS的非虚构青春",
+        "onboard_time": 1719017477,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114409,
+        "num": 114409,
+        "word": "什么家庭才会有infj啊",
+        "onboard_time": 1719015796,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112897,
+        "num": 112897,
+        "word": "胡海泉 淘汰",
+        "onboard_time": 1718978245,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111342,
+        "num": 111342,
+        "word": "称呼小加姓真的好吗",
+        "onboard_time": 1719014715,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111238,
+        "num": 111238,
+        "word": "女子刺伤家暴的丈夫被认定正当防卫",
+        "onboard_time": 1719020359,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#建设黄河流域生态保护和高质量发展先行区#"
+    }
+  }
+}
