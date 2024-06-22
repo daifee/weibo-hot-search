@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719094666466,
+  "endTime": 1719095677611,
   "band_list": [
     {
       "raw_hot": 1152737,
@@ -315,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95154,
+      "num": 38718,
+      "word": "女子买无座票坐卧铺被强行带离",
+      "onboard_time": 1719085931,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89171,
       "num": 193278,
       "word": "格鲁吉亚vs捷克",
@@ -331,12 +339,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83613,
-      "num": 36047,
-      "word": "女子买无座票坐卧铺被强行带离",
-      "onboard_time": 1719085931,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 82738,
+      "num": 82738,
+      "word": "歌手 大众评审系统",
+      "onboard_time": 1719089051,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 80002,
@@ -377,14 +385,6 @@
       "onboard_time": 1719059538,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72352,
-      "num": 49348,
-      "word": "歌手 大众评审系统",
-      "onboard_time": 1719089051,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 69516,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36756,
+      "num": 36756,
+      "word": "秦海璐胖得起也瘦得下",
+      "onboard_time": 1719093850,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36640,
       "num": 43289,
       "word": "王莺莺长命百岁",
@@ -507,8 +515,16 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25063,
-      "num": 25063,
+      "raw_hot": 29047,
+      "num": 28306,
+      "word": "李钟硕秀场造型",
+      "onboard_time": 1719090431,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 28236,
+      "num": 28236,
       "word": "歌手 音频传输折损现象",
       "onboard_time": 1719090071,
       "rank": 32,
@@ -516,43 +532,27 @@
     },
     {
       "raw_hot": 24891,
-      "num": 24891,
+      "num": 27878,
       "word": "黄晓明感谢吴优",
       "onboard_time": 1719088571,
       "rank": 36,
       "category": "电影"
     },
     {
-      "raw_hot": 24808,
-      "num": 24808,
-      "word": "李钟硕秀场造型",
-      "onboard_time": 1719090431,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 23866,
+      "num": 27878,
+      "word": "葛优邀约王俊凯下部戏",
+      "onboard_time": 1719093491,
+      "rank": 44,
+      "category": "电影"
     },
     {
-      "raw_hot": 21080,
+      "raw_hot": 22383,
       "num": 28815,
       "word": "养成松弛感的9个方法",
       "onboard_time": 1719084851,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20305,
-      "num": 20305,
-      "word": "秦海璐胖得起也瘦得下",
-      "onboard_time": 1719093850,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 20067,
-      "num": 20067,
-      "word": "葛优邀约王俊凯下部戏",
-      "onboard_time": 1719093491,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 17029,
@@ -561,6 +561,14 @@
       "onboard_time": 1719087012,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15618,
+      "num": 27874,
+      "word": "全国眼视光医师人才缺口约30万",
+      "onboard_time": 1719091091,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 14930,
@@ -577,14 +585,6 @@
       "onboard_time": 1719092290,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13457,
-      "num": 21431,
-      "word": "全国眼视光医师人才缺口约30万",
-      "onboard_time": 1719091091,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 12763,
