@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719030906050,
+  "endTime": 1719033550792,
   "band_list": [
     {
       "raw_hot": 1684391,
@@ -32,6 +32,14 @@
       "word": "韩国集体性侵事件嫌疑人时隔20年道歉",
       "onboard_time": 1719016456,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1098798,
+      "num": 1098798,
+      "word": "留置针导管在婴儿血管里漂移5年",
+      "onboard_time": 1719030557,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -139,8 +147,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 613465,
-      "num": 613465,
+      "raw_hot": 633746,
+      "num": 633746,
       "word": "段晓薇回应与白鹿撞造型",
       "onboard_time": 1719027076,
       "rank": 36,
@@ -171,6 +179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 583469,
+      "num": 583469,
+      "word": "女子实名举报寺庙住持骗色",
+      "onboard_time": 1719028037,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535504,
+      "num": 535504,
+      "word": "吴谨言回应郝蕾表演课",
+      "onboard_time": 1719027017,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531125,
       "num": 531125,
       "word": "Manner清空账号",
@@ -187,12 +211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 512440,
-      "num": 512440,
-      "word": "吴谨言回应郝蕾表演课",
-      "onboard_time": 1719027017,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 511945,
+      "num": 511945,
+      "word": "东风破",
+      "onboard_time": 1719030679,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 486687,
@@ -209,6 +233,14 @@
       "onboard_time": 1718982320,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 473383,
+      "num": 457698,
+      "word": "丁太升说那英最后一名有点扯",
+      "onboard_time": 1719029837,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 470288,
@@ -233,14 +265,6 @@
       "onboard_time": 1718981181,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 437933,
-      "num": 398851,
-      "word": "女子实名举报寺庙住持骗色",
-      "onboard_time": 1719028037,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431909,
@@ -307,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391163,
+      "num": 391163,
+      "word": "樊振东说可能与马龙一起退役",
+      "onboard_time": 1719030077,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379538,
       "num": 379538,
       "word": "00后女孩离职删软件被公司威胁起诉",
@@ -347,12 +379,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 359114,
+      "num": 359114,
+      "word": "白敬亭章若楠难哄杀青",
+      "onboard_time": 1719030917,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358949,
       "num": 358949,
       "word": "一句姐夫把肃国公钓成翘嘴了",
       "onboard_time": 1719020597,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 357500,
+      "num": 357500,
+      "word": "福建上杭6名因暴雨失联人员已遇难",
+      "onboard_time": 1719030017,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340705,
@@ -377,14 +425,6 @@
       "onboard_time": 1719012614,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 320941,
-      "num": 320941,
-      "word": "福建上杭6名因暴雨失联人员已遇难",
-      "onboard_time": 1719030017,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315956,
@@ -451,6 +491,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 290013,
+      "num": 290013,
+      "word": "刘宪华于适车银优G社生图",
+      "onboard_time": 1719029478,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 284523,
       "num": 181106,
       "word": "妻子称蔡磊越来越艰难还想护自己周全",
@@ -467,20 +515,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282386,
+      "num": 218573,
+      "word": "TikTok首度曝光与美秘密谈判细节",
+      "onboard_time": 1719032596,
+      "rank": 30,
+      "category": "互联网,社会新闻"
+    },
+    {
       "raw_hot": 275540,
       "num": 275540,
       "word": "法国餐厅偶遇王一博",
       "onboard_time": 1719027138,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 265963,
-      "num": 174225,
-      "word": "丁太升说那英最后一名有点扯",
-      "onboard_time": 1719029837,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 264867,
@@ -515,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247340,
+      "num": 239779,
+      "word": "金靖怀孕后解锁综艺新乐趣",
+      "onboard_time": 1719033378,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247036,
       "num": 187310,
       "word": "歌手直播",
@@ -523,12 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243569,
-      "num": 173065,
-      "word": "樊振东说可能与马龙一起退役",
-      "onboard_time": 1719030077,
-      "rank": 44,
-      "category": "体育"
+      "raw_hot": 246859,
+      "num": 246859,
+      "word": "考了教资就能当老师吗",
+      "onboard_time": 1719030858,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 242394,
@@ -536,6 +592,14 @@
       "word": "黄霄雲冲榜凡希亚",
       "onboard_time": 1718976621,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 238737,
+      "num": 238737,
+      "word": "彭昱畅回应张子枫",
+      "onboard_time": 1719032477,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -553,6 +617,14 @@
       "onboard_time": 1718974521,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236343,
+      "num": 236343,
+      "word": "罗小黑作者道歉",
+      "onboard_time": 1719033198,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 235012,
@@ -579,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227376,
+      "num": 227376,
+      "word": "墨雨云间36集",
+      "onboard_time": 1719030738,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226536,
       "num": 180404,
       "word": "法国0比0战平荷兰",
@@ -603,12 +683,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218309,
+      "num": 218309,
+      "word": "婚前说好的丁克老公却反悔了",
+      "onboard_time": 1719032596,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218243,
       "num": 218243,
       "word": "墨雨云间 表哥上大分",
       "onboard_time": 1719014355,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216900,
+      "num": 513079,
+      "word": "100多名学生毕业论文致谢同一人",
+      "onboard_time": 1719029597,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213756,
@@ -627,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211888,
-      "num": 172933,
-      "word": "留置针导管在婴儿血管里漂移5年",
-      "onboard_time": 1719030557,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 212516,
+      "num": 212516,
+      "word": "罗云熙是怎么忍住不笑场的",
+      "onboard_time": 1719031878,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 210979,
@@ -641,6 +737,14 @@
       "onboard_time": 1718966777,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204563,
+      "num": 204563,
+      "word": "戚薇五公第二",
+      "onboard_time": 1719032657,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 204331,
@@ -747,12 +851,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 185031,
+      "num": 185031,
+      "word": "陈昊宇第一",
+      "onboard_time": 1719033318,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183232,
       "num": 183232,
       "word": "汪苏泷第一句出来就知道不简单",
       "onboard_time": 1719019277,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178918,
+      "num": 178918,
+      "word": "六点下班我都觉得好晚",
+      "onboard_time": 1719027379,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 178005,
@@ -795,14 +915,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 174826,
-      "num": 174826,
-      "word": "六点下班我都觉得好晚",
-      "onboard_time": 1719027379,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172785,
       "num": 172785,
       "word": "人的智力在学科间的差距很小",
@@ -819,20 +931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168340,
-      "num": 168340,
-      "word": "东风破",
-      "onboard_time": 1719030679,
-      "rank": 33,
+      "raw_hot": 165925,
+      "num": 158987,
+      "word": "王星越沈月偷学",
+      "onboard_time": 1719032778,
+      "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166291,
-      "num": 166291,
-      "word": "刘宪华于适车银优G社生图",
-      "onboard_time": 1719029478,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161100,
@@ -851,6 +955,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 159431,
+      "num": 159431,
+      "word": "张远要赶下一场婚庆了",
+      "onboard_time": 1719031878,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158912,
       "num": 143319,
       "word": "黄霄雲回应冲榜失败",
@@ -859,20 +971,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156886,
-      "num": 156886,
-      "word": "墨雨云间36集",
-      "onboard_time": 1719030738,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156373,
       "num": 156373,
       "word": "女子刺伤家暴的丈夫被认定正当防卫",
       "onboard_time": 1719020359,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155375,
+      "num": 155375,
+      "word": "煽风点火",
+      "onboard_time": 1719030978,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 155135,
@@ -1035,6 +1147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119443,
+      "num": 119443,
+      "word": "墨雨云间超点",
+      "onboard_time": 1719033497,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116047,
       "num": 116047,
       "word": "有关TFBOYS的非虚构青春",
@@ -1057,14 +1177,6 @@
       "onboard_time": 1719022637,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110623,
-      "num": 110623,
-      "word": "考了教资就能当老师吗",
-      "onboard_time": 1719030858,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 108321,
@@ -1113,14 +1225,6 @@
       "onboard_time": 1719023897,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97898,
-      "num": 513079,
-      "word": "100多名学生毕业论文致谢同一人",
-      "onboard_time": 1719029597,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 96806,
@@ -1235,6 +1339,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 72733,
+      "num": 218426,
+      "word": "高考只是过程不是终点",
+      "onboard_time": 1719031458,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 72544,
       "num": 884169,
       "word": "盛世中华何以中国",
@@ -1315,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55081,
+      "num": 240715,
+      "word": "一眼crush穿搭公式",
+      "onboard_time": 1719029057,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 54781,
       "num": 385161,
       "word": "水果谐音高考查分祝福",
@@ -1387,12 +1507,12 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 41627,
-      "num": 211957,
-      "word": "一眼crush穿搭公式",
-      "onboard_time": 1719029057,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 42102,
+      "num": 218591,
+      "word": "绵阳一中考生6科满分想考北大",
+      "onboard_time": 1719033497,
+      "rank": 29,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 41443,
@@ -1441,6 +1561,14 @@
       "onboard_time": 1718975061,
       "rank": 2,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 32721,
+      "num": 236960,
+      "word": "从教40年老师最后一课丈夫捧花现身",
+      "onboard_time": 1719033318,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30097,
