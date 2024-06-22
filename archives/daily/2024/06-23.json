@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719092080715,
+  "endTime": 1719094666466,
   "band_list": [
     {
       "raw_hot": 1152737,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 83613,
-      "num": 27072,
+      "num": 36047,
       "word": "女子买无座票坐卧铺被强行带离",
       "onboard_time": 1719085931,
       "rank": 23,
@@ -377,6 +377,14 @@
       "onboard_time": 1719059538,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72352,
+      "num": 49348,
+      "word": "歌手 大众评审系统",
+      "onboard_time": 1719089051,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 69516,
@@ -459,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42931,
-      "num": 21991,
-      "word": "歌手 大众评审系统",
-      "onboard_time": 1719089051,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36640,
       "num": 43289,
       "word": "王莺莺长命百岁",
@@ -507,23 +507,31 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22419,
-      "num": 21986,
+      "raw_hot": 25063,
+      "num": 25063,
       "word": "歌手 音频传输折损现象",
       "onboard_time": 1719090071,
       "rank": 32,
       "category": "综艺"
     },
     {
-      "raw_hot": 21840,
-      "num": 21973,
+      "raw_hot": 24891,
+      "num": 24891,
       "word": "黄晓明感谢吴优",
       "onboard_time": 1719088571,
       "rank": 36,
       "category": "电影"
     },
     {
-      "raw_hot": 18208,
+      "raw_hot": 24808,
+      "num": 24808,
+      "word": "李钟硕秀场造型",
+      "onboard_time": 1719090431,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21080,
       "num": 28815,
       "word": "养成松弛感的9个方法",
       "onboard_time": 1719084851,
@@ -531,12 +539,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17680,
-      "num": 21948,
-      "word": "李钟硕秀场造型",
-      "onboard_time": 1719090431,
-      "rank": 46,
-      "category": "作品衍生"
+      "raw_hot": 20305,
+      "num": 20305,
+      "word": "秦海璐胖得起也瘦得下",
+      "onboard_time": 1719093850,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 20067,
+      "num": 20067,
+      "word": "葛优邀约王俊凯下部戏",
+      "onboard_time": 1719093491,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 17029,
@@ -555,20 +571,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 13629,
+      "num": 19843,
+      "word": "厄瓜多尔vs委内瑞拉",
+      "onboard_time": 1719092290,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13457,
+      "num": 21431,
+      "word": "全国眼视光医师人才缺口约30万",
+      "onboard_time": 1719091091,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 12763,
       "num": 133071,
       "word": "祝福2024河南中考生",
       "onboard_time": 1719076395,
       "rank": 20,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 12525,
-      "num": 21431,
-      "word": "全国眼视光医师人才缺口约30万",
-      "onboard_time": 1719091091,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 8968,
