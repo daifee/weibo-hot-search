@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719084900102,
+  "endTime": 1719087509931,
   "band_list": [
     {
       "raw_hot": 1152737,
@@ -427,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 49332,
+      "num": 31268,
+      "word": "李飞说TFBOYS成员个人发展有点早",
+      "onboard_time": 1719083951,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46266,
       "num": 47372,
       "word": "这5种病根本无法根治",
@@ -483,12 +491,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28446,
-      "num": 28850,
-      "word": "李飞说TFBOYS成员个人发展有点早",
-      "onboard_time": 1719083951,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 29796,
+      "num": 27072,
+      "word": "女子买无座票坐卧铺被强行带离",
+      "onboard_time": 1719085931,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14930,
@@ -499,7 +507,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 13314,
+      "raw_hot": 14911,
       "num": 28815,
       "word": "养成松弛感的9个方法",
       "onboard_time": 1719084851,
