@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719041679056,
+  "endTime": 1719044577863,
   "band_list": [
     {
       "raw_hot": 1684391,
@@ -33,6 +33,14 @@
       "onboard_time": 1719036557,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1421218,
+      "num": 204442,
+      "word": "建议尽量在晚9点前洗澡",
+      "onboard_time": 1719040158,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1312184,
@@ -89,14 +97,6 @@
       "onboard_time": 1719023417,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 785932,
-      "num": 202576,
-      "word": "建议尽量在晚9点前洗澡",
-      "onboard_time": 1719040158,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 761206,
@@ -235,6 +235,14 @@
       "category": "互联网,社会新闻"
     },
     {
+      "raw_hot": 553520,
+      "num": 553520,
+      "word": "赵丽颖温柔白裙",
+      "onboard_time": 1719042437,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 548172,
       "num": 548172,
       "word": "罗小黑作者道歉",
@@ -291,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 489993,
+      "num": 378586,
+      "word": "陈好是王星越的中戏班主任",
+      "onboard_time": 1719039318,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486687,
       "num": 486687,
       "word": "听到那英第七的张远",
@@ -305,6 +321,14 @@
       "onboard_time": 1718982320,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 475544,
+      "num": 329471,
+      "word": "派出所所长举报公安局长涉多项违法",
+      "onboard_time": 1719042437,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473383,
@@ -329,6 +353,14 @@
       "onboard_time": 1719023837,
       "rank": 4,
       "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 443826,
+      "num": 323893,
+      "word": "一家六口失联家属山中呐喊找人",
+      "onboard_time": 1719040697,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438862,
@@ -361,14 +393,6 @@
       "onboard_time": 1719024557,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 421755,
-      "num": 372494,
-      "word": "陈好是王星越的中戏班主任",
-      "onboard_time": 1719039318,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 418993,
@@ -507,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356870,
+      "num": 319992,
+      "word": "美媒称一只蟑螂打断美国务院发布会",
+      "onboard_time": 1719037579,
+      "rank": 39,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 340705,
       "num": 340705,
       "word": "刘亦菲演技好自然",
@@ -537,6 +569,14 @@
       "onboard_time": 1719039798,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 318081,
+      "num": 318081,
+      "word": "英雄联盟",
+      "onboard_time": 1719042378,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 317893,
@@ -636,7 +676,7 @@
     },
     {
       "raw_hot": 282604,
-      "num": 200223,
+      "num": 203741,
       "word": "油车真的会比电车省钱吗",
       "onboard_time": 1719037757,
       "rank": 46,
@@ -731,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237293,
+      "num": 237293,
+      "word": "英雄联盟崩了",
+      "onboard_time": 1719043399,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 235012,
       "num": 183779,
       "word": "张远 紧张",
@@ -780,7 +828,7 @@
     },
     {
       "raw_hot": 220116,
-      "num": 192962,
+      "num": 197880,
       "word": "黄霄雲是中央音乐学院专业第一",
       "onboard_time": 1719040636,
       "rank": 44,
@@ -875,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202611,
+      "num": 202611,
+      "word": "为什么讨厌县城文学",
+      "onboard_time": 1719041717,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 202547,
       "num": 192750,
       "word": "刘亦菲白玉兰行程",
@@ -913,14 +969,6 @@
       "onboard_time": 1719029357,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 200646,
-      "num": 161531,
-      "word": "一家六口失联家属山中呐喊找人",
-      "onboard_time": 1719040697,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199740,
@@ -987,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189916,
-      "num": 189916,
-      "word": "美媒称一只蟑螂打断美国务院发布会",
-      "onboard_time": 1719037579,
-      "rank": 39,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 189742,
       "num": 189742,
       "word": "丁程鑫敖子逸一队",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1718979984,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176863,
+      "num": 176863,
+      "word": "20国青年挑战了半个咏春蹲",
+      "onboard_time": 1719043038,
+      "rank": 26,
+      "category": "运动健身"
     },
     {
       "raw_hot": 176789,
@@ -1347,6 +1395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 132344,
+      "num": 132344,
+      "word": "金庸笔下的燃冬文学好超前",
+      "onboard_time": 1719044297,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 132067,
       "num": 132067,
       "word": "黄亦玫同款盘发",
@@ -1427,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122596,
+      "num": 122596,
+      "word": "Uzi传奇杯一阵AD",
+      "onboard_time": 1719043999,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121706,
       "num": 183451,
       "word": "资深律师谈法学专业报考前景",
@@ -1467,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109669,
+      "num": 109669,
+      "word": "萧蘅已是菲门男主人",
+      "onboard_time": 1719042560,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108321,
       "num": 185038,
       "word": "斯洛伐克vs乌克兰",
@@ -1505,6 +1577,22 @@
       "onboard_time": 1719018317,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103348,
+      "num": 333494,
+      "word": "近视手术后并不能一劳永逸",
+      "onboard_time": 1719043218,
+      "rank": 9,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 101028,
+      "num": 101028,
+      "word": "于适时尚排面",
+      "onboard_time": 1719043818,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 100634,
@@ -1787,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 53139,
+      "num": 137648,
+      "word": "美不断增加对乌武器供应有何用意",
+      "onboard_time": 1719044297,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 50430,
       "num": 79120,
       "word": "松弛感配色9图唤醒周末",
@@ -1864,6 +1960,14 @@
       "word": "Manner咖啡将优化门店运营安排",
       "onboard_time": 1718979923,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36034,
+      "num": 128578,
+      "word": "文物里的国潮",
+      "onboard_time": 1719043639,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1972,7 +2076,7 @@
     },
     {
       "raw_hot": 13583,
-      "num": 505331,
+      "num": 564229,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 2,

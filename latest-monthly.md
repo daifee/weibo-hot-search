@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 15:34:39
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/22 16:22:57
 </p>
 </blockquote>
 <p>
@@ -1427,6 +1427,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E6%AF%85%E5%BC%A0%E7%85%9C%E4%B8%9C%E7%BB%93%E5%A9%9A%23" target="weibo">
 张凯毅张煜东结婚（热度：1424386）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%BD%E9%87%8F%E5%9C%A8%E6%99%9A9%E7%82%B9%E5%89%8D%E6%B4%97%E6%BE%A1%23" target="weibo">
+建议尽量在晚9点前洗澡（热度：1421218）
 </a>
 </li>
 
@@ -4397,12 +4403,6 @@ canteen我恨你（热度：798300）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%80%E4%B8%AA%E7%B2%BD%E5%AD%90%E8%A6%81%E6%B6%88%E5%8C%96%E5%A4%9A%E4%B9%85%23" target="weibo">
 吃一个粽子要消化多久（热度：786297）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%BD%E9%87%8F%E5%9C%A8%E6%99%9A9%E7%82%B9%E5%89%8D%E6%B4%97%E6%BE%A1%23" target="weibo">
-建议尽量在晚9点前洗澡（热度：785932）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719044577863,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1091778,
+        "num": 1091778,
+        "word": "吉克隽逸演出事故",
+        "onboard_time": 1719036557,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 584976,
+        "num": 584976,
+        "word": "村医吸毒成瘾3年开2846支杜冷丁",
+        "onboard_time": 1719025816,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6181,
+        "num": 564229,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553520,
+        "num": 553520,
+        "word": "赵丽颖温柔白裙",
+        "onboard_time": 1719042437,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 468508,
+        "num": 468508,
+        "word": "留置针导管在婴儿血管里漂移5年",
+        "onboard_time": 1719030557,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394291,
+        "num": 394291,
+        "word": "罗小黑作者道歉",
+        "onboard_time": 1719033198,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 489993,
+        "num": 378586,
+        "word": "陈好是王星越的中戏班主任",
+        "onboard_time": 1719039318,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 479868,
+        "num": 365962,
+        "word": "宋丹丹 桃花坞是我最后一份工作",
+        "onboard_time": 1719040038,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336579,
+        "num": 336579,
+        "word": "日本婚活火了",
+        "onboard_time": 1719019698,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103348,
+        "num": 333494,
+        "word": "近视手术后并不能一劳永逸",
+        "onboard_time": 1719043218,
+        "rank": 9,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 475544,
+        "num": 329471,
+        "word": "派出所所长举报公安局长涉多项违法",
+        "onboard_time": 1719042437,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443826,
+        "num": 323893,
+        "word": "一家六口失联家属山中呐喊找人",
+        "onboard_time": 1719040697,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356870,
+        "num": 319992,
+        "word": "美媒称一只蟑螂打断美国务院发布会",
+        "onboard_time": 1719037579,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 318081,
+        "num": 318081,
+        "word": "英雄联盟",
+        "onboard_time": 1719042378,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 308198,
+        "num": 308198,
+        "word": "陈昊宇第一",
+        "onboard_time": 1719033318,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281140,
+        "num": 281140,
+        "word": "特权码",
+        "onboard_time": 1719037579,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239883,
+        "num": 239883,
+        "word": "5名上海小孩哥已过中科大校测",
+        "onboard_time": 1719037036,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237293,
+        "num": 237293,
+        "word": "英雄联盟崩了",
+        "onboard_time": 1719043399,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227422,
+        "num": 227422,
+        "word": "Manner咖啡创始人夫妇身家72亿",
+        "onboard_time": 1719026656,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 204457,
+        "num": 204457,
+        "word": "赵丽颖重庆活动",
+        "onboard_time": 1719039918,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1421218,
+        "num": 204442,
+        "word": "建议尽量在晚9点前洗澡",
+        "onboard_time": 1719040158,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216427,
+        "num": 203741,
+        "word": "油车真的会比电车省钱吗",
+        "onboard_time": 1719037757,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 202611,
+        "num": 202611,
+        "word": "为什么讨厌县城文学",
+        "onboard_time": 1719041717,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201041,
+        "num": 201041,
+        "word": "婚前说好的丁克老公却反悔了",
+        "onboard_time": 1719032596,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197880,
+        "num": 197880,
+        "word": "黄霄雲是中央音乐学院专业第一",
+        "onboard_time": 1719040636,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182000,
+        "num": 182000,
+        "word": "段晓薇回应与白鹿撞造型",
+        "onboard_time": 1719027076,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176863,
+        "num": 176863,
+        "word": "20国青年挑战了半个咏春蹲",
+        "onboard_time": 1719043038,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158695,
+        "num": 158695,
+        "word": "官方回应2只鸡爪27元",
+        "onboard_time": 1719026597,
+        "rank": 27,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 138927,
+        "num": 138927,
+        "word": "TikTok首度曝光与美秘密谈判细节",
+        "onboard_time": 1719032596,
+        "rank": 28,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 53139,
+        "num": 137648,
+        "word": "美不断增加对乌武器供应有何用意",
+        "onboard_time": 1719044297,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 136674,
+        "num": 136674,
+        "word": "袁娅维是临时换歌",
+        "onboard_time": 1719040937,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135955,
+        "num": 135955,
+        "word": "张凌赫被赵今麦床榻吻戏",
+        "onboard_time": 1719034998,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133702,
+        "num": 133702,
+        "word": "刘亦菲白玉兰行程",
+        "onboard_time": 1719040517,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132344,
+        "num": 132344,
+        "word": "金庸笔下的燃冬文学好超前",
+        "onboard_time": 1719044297,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 131687,
+        "num": 131687,
+        "word": "跑男三年最猛撕名牌",
+        "onboard_time": 1719027918,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130527,
+        "num": 130527,
+        "word": "林俊杰哈尔滨",
+        "onboard_time": 1719039858,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36034,
+        "num": 128578,
+        "word": "文物里的国潮",
+        "onboard_time": 1719043639,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128524,
+        "num": 128524,
+        "word": "分手吧爱情的苦长公主别吃了",
+        "onboard_time": 1719034757,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123703,
+        "num": 123703,
+        "word": "伊能静带女儿米粒探班秦昊",
+        "onboard_time": 1719040697,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122596,
+        "num": 122596,
+        "word": "Uzi传奇杯一阵AD",
+        "onboard_time": 1719043999,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122006,
+        "num": 122006,
+        "word": "杨幂发的是C扩",
+        "onboard_time": 1719026837,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115682,
+        "num": 115682,
+        "word": "Manner道歉",
+        "onboard_time": 1719024977,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109669,
+        "num": 109669,
+        "word": "萧蘅已是菲门男主人",
+        "onboard_time": 1719042560,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109211,
+        "num": 109211,
+        "word": "金靖怀孕后解锁综艺新乐趣",
+        "onboard_time": 1719033378,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104189,
+        "num": 104189,
+        "word": "吴谨言回应郝蕾表演课",
+        "onboard_time": 1719027017,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103588,
+        "num": 103588,
+        "word": "李梦流的不是眼泪是刀子",
+        "onboard_time": 1719039018,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102459,
+        "num": 102459,
+        "word": "丁太升说那英最后一名有点扯",
+        "onboard_time": 1719029837,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101994,
+        "num": 101994,
+        "word": "小学教育和学前教育冷门吗",
+        "onboard_time": 1719041177,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101028,
+        "num": 101028,
+        "word": "于适时尚排面",
+        "onboard_time": 1719043818,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 98525,
+        "num": 98525,
+        "word": "墨雨云间超点",
+        "onboard_time": 1719033497,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平宁夏考察调研#"
+    }
+  }
+}
