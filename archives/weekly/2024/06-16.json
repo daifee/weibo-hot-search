@@ -1,6 +1,6 @@
 {
   "startTime": 1718468627278,
-  "endTime": 1719052636677,
+  "endTime": 1719054918570,
   "band_list": [
     {
       "raw_hot": 7290900,
@@ -592,6 +592,14 @@
       "word": "优酷 开了VIP还要开SVIP",
       "onboard_time": 1718608998,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1382366,
+      "num": 1382366,
+      "word": "墨雨云间大结局",
+      "onboard_time": 1719052159,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1467,6 +1475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 955520,
+      "num": 185939,
+      "word": "小孩哥 我大专稳了",
+      "onboard_time": 1719052037,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 953791,
       "num": 522809,
       "word": "小县城里最舒服的人",
@@ -2323,6 +2339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 695504,
+      "num": 318403,
+      "word": "吴世勋去张艺兴演唱会",
+      "onboard_time": 1719054256,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 694987,
       "num": 553808,
       "word": "拿6双筷子被指偷窃女生要求公开道歉",
@@ -2369,14 +2393,6 @@
       "onboard_time": 1718710996,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 685480,
-      "num": 429931,
-      "word": "墨雨云间大结局",
-      "onboard_time": 1719052159,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 683855,
@@ -3443,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 537925,
+      "num": 302149,
+      "word": "时代峰峻历史上最像男团的团体",
+      "onboard_time": 1719054256,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537687,
       "num": 537687,
       "word": "留给林一的集数不多了",
@@ -3721,6 +3745,14 @@
       "onboard_time": 1718511978,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 512720,
+      "num": 436231,
+      "word": "法老 头像",
+      "onboard_time": 1719049817,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 512674,
@@ -4283,6 +4315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 457657,
+      "num": 301547,
+      "word": "路人看到赵丽颖的表情",
+      "onboard_time": 1719052518,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 456233,
       "num": 456233,
       "word": "官方辟谣发射3000枚增雨弹引发暴雨",
@@ -4529,14 +4569,6 @@
       "onboard_time": 1718851458,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 436231,
-      "num": 436231,
-      "word": "法老 头像",
-      "onboard_time": 1719049817,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 436131,
@@ -5307,6 +5339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 377410,
+      "num": 301153,
+      "word": "乌克兰急售国企筹集军费",
+      "onboard_time": 1719052398,
+      "rank": 14,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 376620,
       "num": 376620,
       "word": "奶奶100岁了我要停业去祝寿",
@@ -5345,14 +5385,6 @@
       "onboard_time": 1718535858,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 374824,
-      "num": 173579,
-      "word": "小孩哥 我大专稳了",
-      "onboard_time": 1719052037,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 373897,
@@ -6667,6 +6699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301076,
+      "num": 301076,
+      "word": "安室透声优换人",
+      "onboard_time": 1719053477,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 300526,
       "num": 300526,
       "word": "英雄联盟崩了",
@@ -7523,6 +7563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 265250,
+      "num": 180128,
+      "word": "墨雨云间番外有吻戏",
+      "onboard_time": 1719051678,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265248,
       "num": 265248,
       "word": "还好不是刘亦菲",
@@ -7593,14 +7641,6 @@
       "onboard_time": 1719014414,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 262478,
-      "num": 175390,
-      "word": "墨雨云间番外有吻戏",
-      "onboard_time": 1719051678,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 262193,
@@ -7939,6 +7979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244133,
+      "num": 180026,
+      "word": "行李超重4斤女子将20件衣服穿身上",
+      "onboard_time": 1719052518,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243939,
       "num": 243939,
       "word": "陈楚生给张远打call",
@@ -8185,6 +8233,14 @@
       "onboard_time": 1718775921,
       "rank": 26,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 235608,
+      "num": 177405,
+      "word": "十个勤天的蜂蜜",
+      "onboard_time": 1719054256,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 235515,
@@ -8697,6 +8753,14 @@
       "onboard_time": 1718967797,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220820,
+      "num": 172230,
+      "word": "张艺兴首尔演唱会",
+      "onboard_time": 1719054558,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 220786,
@@ -10083,6 +10147,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 196794,
+      "num": 171309,
+      "word": "鞠婧祎7天涨粉11万",
+      "onboard_time": 1719053658,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196753,
       "num": 196753,
       "word": "父亲节文案",
@@ -10721,14 +10793,6 @@
       "onboard_time": 1718760018,
       "rank": 49,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 188061,
-      "num": 169270,
-      "word": "路人看到赵丽颖的表情",
-      "onboard_time": 1719052518,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 187984,
@@ -11851,6 +11915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170624,
+      "num": 170624,
+      "word": "来中国旅游的老外已经这么卷了",
+      "onboard_time": 1719050117,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 170588,
       "num": 170588,
       "word": "7个摄影师都追不上万茜",
@@ -12353,6 +12425,14 @@
       "onboard_time": 1718511857,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 163552,
+      "num": 127471,
+      "word": "成毅 粉色小咪",
+      "onboard_time": 1719052457,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163465,
@@ -13443,6 +13523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150917,
+      "num": 127293,
+      "word": "赵丽颖说重庆话",
+      "onboard_time": 1719054679,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150911,
       "num": 150911,
       "word": "想做360元纹眉最后花5千撞脸小新",
@@ -14371,14 +14459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137968,
-      "num": 167925,
-      "word": "来中国旅游的老外已经这么卷了",
-      "onboard_time": 1719050117,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 137951,
       "num": 137951,
       "word": "表演艺术家王铁成去世",
@@ -14643,6 +14723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134276,
+      "num": 127163,
+      "word": "一起被孤立就不算被孤立",
+      "onboard_time": 1719053057,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 133960,
       "num": 133960,
       "word": "周深布达佩斯跑男录制",
@@ -14825,6 +14913,14 @@
       "onboard_time": 1718776820,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 132240,
+      "num": 125421,
+      "word": "秦霄贤好6团里录制100期的第一人",
+      "onboard_time": 1719053417,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 132094,
@@ -15387,6 +15483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127538,
+      "num": 127538,
+      "word": "WE对战LGD",
+      "onboard_time": 1719054679,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127427,
       "num": 127427,
       "word": "虞书欣原声台词",
@@ -15425,6 +15529,14 @@
       "onboard_time": 1718695578,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126743,
+      "num": 126743,
+      "word": "微信正与华为开发原生鸿蒙适配",
+      "onboard_time": 1719051557,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 126524,
@@ -16707,14 +16819,6 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 108827,
-      "num": 108827,
-      "word": "微信正与华为开发原生鸿蒙适配",
-      "onboard_time": 1719051557,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 108775,
       "num": 108775,
       "word": "梅州客家vs上海海港",
@@ -16931,6 +17035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106179,
+      "num": 106179,
+      "word": "学游泳的第一步",
+      "onboard_time": 1719054679,
+      "rank": 45,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 106132,
       "num": 106132,
       "word": "世界上有2边形存在吗",
@@ -16945,6 +17057,14 @@
       "onboard_time": 1718838975,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106008,
+      "num": 106008,
+      "word": "花怜 开盅",
+      "onboard_time": 1719054438,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 105908,
@@ -18705,6 +18825,14 @@
       "onboard_time": 1718683579,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 65951,
+      "num": 302711,
+      "word": "消防员救人中毒智力退回三岁",
+      "onboard_time": 1719053897,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65685,
