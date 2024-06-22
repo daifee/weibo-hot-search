@@ -1,6 +1,6 @@
 {
   "startTime": 1718986994993,
-  "endTime": 1719069573854,
+  "endTime": 1719070459845,
   "band_list": [
     {
       "raw_hot": 1924819,
@@ -9,6 +9,14 @@
       "onboard_time": 1719063317,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1826767,
+      "num": 292419,
+      "word": "河南冷藏车八人窒息遇难背后",
+      "onboard_time": 1719065598,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1722891,
@@ -24,14 +32,6 @@
       "word": "村医吸毒成瘾3年开2846支杜冷丁",
       "onboard_time": 1719025816,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1620092,
-      "num": 292419,
-      "word": "河南冷藏车八人窒息遇难背后",
-      "onboard_time": 1719065598,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 563817,
-      "num": 253877,
+      "num": 257947,
       "word": "于正你是懂番外的",
       "onboard_time": 1719065840,
       "rank": 43,
@@ -523,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519789,
+      "num": 282108,
+      "word": "你好星期六下期有乘风姐姐",
+      "onboard_time": 1719067459,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519370,
       "num": 326271,
       "word": "金智媛跳2pm我们家",
@@ -552,14 +560,6 @@
       "word": "东风破",
       "onboard_time": 1719030679,
       "rank": 33,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 503048,
-      "num": 241642,
-      "word": "你好星期六下期有乘风姐姐",
-      "onboard_time": 1719067459,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -659,6 +659,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 449154,
+      "num": 190618,
+      "word": "薛芳菲为婉宁流泪",
+      "onboard_time": 1719066500,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438862,
       "num": 413907,
       "word": "歌手排名 谁写的剧本",
@@ -689,14 +697,6 @@
       "onboard_time": 1719024557,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 427069,
-      "num": 190618,
-      "word": "薛芳菲为婉宁流泪",
-      "onboard_time": 1719066500,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 426063,
@@ -993,6 +993,14 @@
       "onboard_time": 1719039798,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 335393,
+      "num": 335393,
+      "word": "医院职工遭电诈后被卫健局处罚",
+      "onboard_time": 1719067879,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333538,
@@ -1419,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227014,
+      "num": 227014,
+      "word": "土耳其vs葡萄牙",
+      "onboard_time": 1719068539,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226536,
       "num": 180404,
       "word": "法国0比0战平荷兰",
@@ -1441,6 +1457,14 @@
       "onboard_time": 1719052578,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222836,
+      "num": 168769,
+      "word": "李帝努又脱了",
+      "onboard_time": 1719069679,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 220116,
@@ -1504,14 +1528,6 @@
       "word": "100多名学生毕业论文致谢同一人",
       "onboard_time": 1719029597,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216861,
-      "num": 216861,
-      "word": "医院职工遭电诈后被卫健局处罚",
-      "onboard_time": 1719067879,
-      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -1731,14 +1747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 200074,
-      "num": 200074,
-      "word": "土耳其vs葡萄牙",
-      "onboard_time": 1719068539,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199757,
       "num": 139972,
       "word": "TFBOYS的遗憾是什么",
@@ -1875,12 +1883,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189341,
+      "num": 189341,
+      "word": "豆瓣崩了",
+      "onboard_time": 1719070158,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 189298,
       "num": 139453,
       "word": "薛之谦抢票",
       "onboard_time": 1719057618,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189176,
+      "num": 168665,
+      "word": "菲常萧张",
+      "onboard_time": 1719069557,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 188941,
@@ -2033,6 +2057,14 @@
       "onboard_time": 1718976322,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168628,
+      "num": 175422,
+      "word": "防晒衣究竟是不是智商税",
+      "onboard_time": 1719065779,
+      "rank": 47,
+      "category": "科学科普"
     },
     {
       "raw_hot": 165925,
@@ -2267,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148757,
+      "num": 165620,
+      "word": "睡前凉快一下更容易睡得香",
+      "onboard_time": 1719069199,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148725,
       "num": 399983,
       "word": "ChinaTravel火爆国外",
@@ -2281,14 +2321,6 @@
       "onboard_time": 1719036257,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146569,
-      "num": 175422,
-      "word": "防晒衣究竟是不是智商税",
-      "onboard_time": 1719065779,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 145797,
@@ -2499,6 +2531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129367,
+      "num": 183215,
+      "word": "90岁台湾老兵最大愿望是看到统一",
+      "onboard_time": 1719068479,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129345,
       "num": 129345,
       "word": "狗狗淋着雨确信主人会来接它",
@@ -2577,6 +2617,14 @@
       "onboard_time": 1719026357,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124925,
+      "num": 163055,
+      "word": "洗个澡差点把自己洗掉下去",
+      "onboard_time": 1719068960,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 124673,
@@ -2915,14 +2963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 92169,
-      "num": 183215,
-      "word": "90岁台湾老兵最大愿望是看到统一",
-      "onboard_time": 1719068479,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 91261,
       "num": 179098,
       "word": "疑Manner店员与顾客互扇耳光",
@@ -2987,20 +3027,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84597,
-      "num": 163944,
-      "word": "睡前凉快一下更容易睡得香",
-      "onboard_time": 1719069199,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 84041,
       "num": 84041,
       "word": "大运河里的古人智慧有多绝",
       "onboard_time": 1719034818,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80954,
+      "num": 148115,
+      "word": "光的折射一下就具象化了",
+      "onboard_time": 1719069557,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 80799,
@@ -3041,14 +3081,6 @@
       "onboard_time": 1719033497,
       "rank": 29,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 74888,
-      "num": 163055,
-      "word": "洗个澡差点把自己洗掉下去",
-      "onboard_time": 1719068960,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 72733,
@@ -3404,7 +3436,7 @@
     },
     {
       "raw_hot": 27298,
-      "num": 267885,
+      "num": 322755,
       "word": "媒体人称若想发财别报新闻",
       "onboard_time": 1719067100,
       "rank": 9,
