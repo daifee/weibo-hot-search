@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719167755803,
+  "endTime": 1719170216241,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -3275,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29160,
+      "num": 26836,
+      "word": "我发现射手座很难被PUA",
+      "onboard_time": 1719167339,
+      "rank": 47,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 28871,
       "num": 28871,
       "word": "周笔畅唱跳电影组曲",
@@ -3323,12 +3331,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23197,
-      "num": 26836,
-      "word": "我发现射手座很难被PUA",
-      "onboard_time": 1719167339,
-      "rank": 47,
-      "category": "情感,网红"
+      "raw_hot": 23850,
+      "num": 23850,
+      "word": "夫妻自驾运毒34.8公斤被抓",
+      "onboard_time": 1719169151,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22750,
@@ -3459,7 +3467,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1946,
+      "raw_hot": 2190,
       "num": 841136,
       "word": "走大运行好运",
       "onboard_time": 1719025578,
