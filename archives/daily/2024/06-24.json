@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719160611374,
+  "endTime": 1719162997826,
   "band_list": [
     {
       "raw_hot": 1031912,
@@ -171,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203109,
+      "num": 203109,
+      "word": "一份没有985211的宝藏大学名单",
+      "onboard_time": 1719152420,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 191423,
       "num": 191423,
       "word": "杭州灵隐寺发大水",
@@ -211,20 +219,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157820,
+      "num": 85241,
+      "word": "汪苏泷终于唱巴赫旧约了",
+      "onboard_time": 1719162075,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 157419,
       "num": 157419,
       "word": "年轻人为什么爱上德训鞋",
       "onboard_time": 1719148159,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 155754,
-      "num": 155754,
-      "word": "一份没有985211的宝藏大学名单",
-      "onboard_time": 1719152420,
-      "rank": 29,
-      "category": "教育"
     },
     {
       "raw_hot": 151206,
@@ -395,6 +403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53530,
+      "num": 53530,
+      "word": "瑞士vs德国",
+      "onboard_time": 1719161175,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 45278,
+      "num": 51423,
+      "word": "RNG夏季赛五连败",
+      "onboard_time": 1719162674,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 31635,
       "num": 568249,
       "word": "千年运河从历史流向未来",
@@ -409,11 +433,30 @@
       "onboard_time": 1719158897,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12780,
+      "num": 51463,
+      "word": "2500岁大运河依然在造福当代",
+      "onboard_time": 1719160756,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12336,
+      "num": 197567,
+      "word": "妈妈在女儿学士帽上簪满手作花朵",
+      "onboard_time": 1719162615,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#青海宁夏之行总书记关注这条主线#"
+    },
+    {
+      "word": "#加快建设美丽新宁夏#"
     }
   ]
 }
