@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719182057889,
+  "endTime": 1719184734188,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -755,6 +755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 399925,
+      "num": 399925,
+      "word": "高考弟弟考了588分想复读",
+      "onboard_time": 1719184275,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 399910,
       "num": 399910,
       "word": "东京食尸鬼重大发表",
@@ -801,6 +809,14 @@
       "onboard_time": 1719104236,
       "rank": 18,
       "category": "科学科普,运动健身"
+    },
+    {
+      "raw_hot": 386761,
+      "num": 386761,
+      "word": "黄晓明拿奖激动到手抖",
+      "onboard_time": 1719180431,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 383862,
@@ -1075,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291306,
+      "num": 291306,
+      "word": "韩国的白菜是从山东引进的",
+      "onboard_time": 1719178812,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 285924,
       "num": 285924,
       "word": "小伙吐槽360全家桶被投诉后秒认怂",
@@ -1145,6 +1169,14 @@
       "onboard_time": 1719131000,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 256084,
+      "num": 256084,
+      "word": "于正说以后他所有的剧全部明确HE",
+      "onboard_time": 1719171552,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 249047,
@@ -1393,6 +1425,14 @@
       "onboard_time": 1719112159,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210298,
+      "num": 183806,
+      "word": "央视曝光农村生活污水治理假工程",
+      "onboard_time": 1719183734,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207979,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1719134718,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175973,
+      "num": 84590,
+      "word": "夫妻自驾运毒34.8公斤被抓",
+      "onboard_time": 1719169151,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173855,
@@ -2475,6 +2523,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 116050,
+      "num": 80365,
+      "word": "男生查分被屏蔽淡定向家人报喜",
+      "onboard_time": 1719172270,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115847,
       "num": 115847,
       "word": "八贼",
@@ -2568,14 +2624,6 @@
       "word": "鹅剧派对全阵容",
       "onboard_time": 1719129318,
       "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 111587,
-      "num": 111587,
-      "word": "于正说以后他所有的剧全部明确HE",
-      "onboard_time": 1719171552,
-      "rank": 11,
       "category": "剧集"
     },
     {
@@ -2795,6 +2843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98675,
+      "num": 98675,
+      "word": "瑞士vs德国",
+      "onboard_time": 1719161175,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98120,
       "num": 98120,
       "word": "阿Sa直播徐明浩换衣服",
@@ -2899,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88433,
+      "num": 88433,
+      "word": "相柳白月光回归",
+      "onboard_time": 1719184514,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88097,
       "num": 88097,
       "word": "到底每天掉多少根头发才算脱发",
@@ -2907,12 +2971,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 87577,
-      "num": 87577,
-      "word": "瑞士vs德国",
-      "onboard_time": 1719161175,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 84754,
+      "num": 77923,
+      "word": "这3类首饰暗藏健康风险别再戴了",
+      "onboard_time": 1719184334,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 83778,
@@ -2929,6 +2993,14 @@
       "onboard_time": 1719098173,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82449,
+      "num": 82449,
+      "word": "菲律宾蓄意闹海",
+      "onboard_time": 1719174491,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 80697,
@@ -2979,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76626,
+      "num": 76626,
+      "word": "德国1比1瑞士",
+      "onboard_time": 1719184275,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76287,
       "num": 583291,
       "word": "毕业歌会一曲离别开出花唱嗨全场",
@@ -2995,36 +3075,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75210,
-      "num": 39976,
-      "word": "男生查分被屏蔽淡定向家人报喜",
-      "onboard_time": 1719172270,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 74885,
-      "num": 54184,
-      "word": "菲律宾蓄意闹海",
-      "onboard_time": 1719174491,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 72767,
       "num": 102950,
       "word": "张峻豪回应负面新闻",
       "onboard_time": 1719059538,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72381,
-      "num": 39872,
-      "word": "夫妻自驾运毒34.8公斤被抓",
-      "onboard_time": 1719169151,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71168,
@@ -3049,6 +3105,14 @@
       "onboard_time": 1719073277,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66586,
+      "num": 66586,
+      "word": "49岁的林志玲状态",
+      "onboard_time": 1719177790,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 66334,
@@ -3091,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63341,
+      "num": 63341,
+      "word": "匈牙利绝杀苏格兰",
+      "onboard_time": 1719184275,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62208,
       "num": 62208,
       "word": "刘亦菲素颜英文试镜",
@@ -3099,12 +3171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59869,
-      "num": 59869,
-      "word": "韩国的白菜是从山东引进的",
-      "onboard_time": 1719178812,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 59364,
+      "num": 59364,
+      "word": "高考成绩被屏蔽为什么",
+      "onboard_time": 1719177011,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 58812,
@@ -3113,6 +3185,14 @@
       "onboard_time": 1719126018,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57752,
+      "num": 57752,
+      "word": "能驯服巨蟹的星座都有谁",
+      "onboard_time": 1719184334,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 56694,
@@ -3137,6 +3217,14 @@
       "onboard_time": 1719060498,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54102,
+      "num": 54102,
+      "word": "涵艺爆料WBG更换辅助",
+      "onboard_time": 1719184275,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 53248,
@@ -3171,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50784,
+      "num": 50784,
+      "word": "火锅界开始卷酸的赛道了",
+      "onboard_time": 1719180372,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 49606,
       "num": 49606,
       "word": "苏格兰vs匈牙利",
@@ -3195,14 +3291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45018,
-      "num": 45018,
-      "word": "黄晓明拿奖激动到手抖",
-      "onboard_time": 1719180431,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 42858,
       "num": 1322427,
       "word": "申遗十年看运河",
@@ -3225,22 +3313,6 @@
       "onboard_time": 1719153500,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40519,
-      "num": 40166,
-      "word": "49岁的林志玲状态",
-      "onboard_time": 1719177790,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38671,
-      "num": 38671,
-      "word": "高考成绩被屏蔽为什么",
-      "onboard_time": 1719177011,
-      "rank": 46,
-      "category": "教育"
     },
     {
       "raw_hot": 38287,
@@ -3289,6 +3361,14 @@
       "onboard_time": 1719115877,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34847,
+      "num": 471381,
+      "word": "为什么说宁夏是一个宝藏",
+      "onboard_time": 1719152959,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 34706,
@@ -3419,6 +3499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 20967,
+      "num": 99688,
+      "word": "四喜丸子围坐狂炫生日餐仪式感满满",
+      "onboard_time": 1719157039,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20641,
       "num": 27331,
       "word": "不翻车的小短甲",
@@ -3467,14 +3555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 18051,
-      "num": 198926,
-      "word": "为什么说宁夏是一个宝藏",
-      "onboard_time": 1719152959,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 17613,
       "num": 1615974,
       "word": "何以中国运载千秋",
@@ -3515,6 +3595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 14405,
+      "num": 182131,
+      "word": "这个同框简直把安全感拉到了极致",
+      "onboard_time": 1719184394,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 13629,
       "num": 19843,
       "word": "厄瓜多尔vs委内瑞拉",
@@ -3551,14 +3639,6 @@
       "num": 197567,
       "word": "妈妈在女儿学士帽上簪满手作花朵",
       "onboard_time": 1719162615,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 11738,
-      "num": 99688,
-      "word": "四喜丸子围坐狂炫生日餐仪式感满满",
-      "onboard_time": 1719157039,
       "rank": 9,
       "category": "社会新闻"
     },
