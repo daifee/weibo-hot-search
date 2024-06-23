@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719146050163,
+  "endTime": 1719146915342,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -83,20 +83,28 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1271578,
+      "num": 1271578,
+      "word": "杭州灵隐寺发大水",
+      "onboard_time": 1719143177,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1271383,
+      "num": 1271383,
+      "word": "韩国警告俄罗斯",
+      "onboard_time": 1719145517,
+      "rank": 5,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 1246215,
       "num": 1246215,
       "word": "李一桐 将门毒后",
       "onboard_time": 1719141378,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1195652,
-      "num": 1195652,
-      "word": "杭州灵隐寺发大水",
-      "onboard_time": 1719143177,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1152737,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 911323,
+      "num": 911323,
+      "word": "魏无羡 AG",
+      "onboard_time": 1719145698,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 894800,
       "num": 894800,
       "word": "女儿零点查分竟和妈妈梦的一模一样",
@@ -179,8 +195,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 855466,
-      "num": 457309,
+      "raw_hot": 877212,
+      "num": 877212,
       "word": "云边有个小卖部 难看",
       "onboard_time": 1719141918,
       "rank": 25,
@@ -217,6 +233,14 @@
       "onboard_time": 1719109157,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 736886,
+      "num": 736886,
+      "word": "白日提灯 平番",
+      "onboard_time": 1719145758,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 732889,
@@ -307,20 +331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 605369,
+      "num": 261041,
+      "word": "2点睡觉10点起床算熬夜吗",
+      "onboard_time": 1719142338,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 601494,
       "num": 601494,
       "word": "吴谨言没想到叼玉佩成名场面",
       "onboard_time": 1719116358,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 568364,
-      "num": 248445,
-      "word": "2点睡觉10点起床算熬夜吗",
-      "onboard_time": 1719142338,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 557553,
@@ -475,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 467663,
-      "num": 467663,
-      "word": "韩国警告俄罗斯",
-      "onboard_time": 1719145517,
-      "rank": 5,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 461900,
       "num": 461900,
       "word": "周也演技",
@@ -593,6 +609,14 @@
       "onboard_time": 1719128597,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 411488,
+      "num": 246524,
+      "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+      "onboard_time": 1719145758,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407494,
@@ -827,12 +851,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 321631,
-      "num": 321631,
-      "word": "魏无羡 AG",
-      "onboard_time": 1719145698,
-      "rank": 16,
-      "category": "电竞"
+      "raw_hot": 321298,
+      "num": 321298,
+      "word": "湖南新晃山体滑坡失联8人已遇难",
+      "onboard_time": 1719145398,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 316949,
@@ -889,6 +913,14 @@
       "onboard_time": 1719098893,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276907,
+      "num": 244996,
+      "word": "猪身上这三个部位很脏尽量少吃",
+      "onboard_time": 1719145698,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 276660,
@@ -955,14 +987,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 248750,
-      "num": 248750,
-      "word": "湖南新晃山体滑坡失联8人已遇难",
-      "onboard_time": 1719145398,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246122,
       "num": 246122,
       "word": "Manner事件 不要为难服务人员",
@@ -977,22 +1001,6 @@
       "onboard_time": 1719122777,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244996,
-      "num": 244996,
-      "word": "猪身上这三个部位很脏尽量少吃",
-      "onboard_time": 1719145698,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 243895,
-      "num": 243895,
-      "word": "白日提灯 平番",
-      "onboard_time": 1719145758,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 243128,
@@ -1035,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232802,
+      "num": 232802,
+      "word": "汪苏泷开场就大合唱",
+      "onboard_time": 1719146779,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1719110298,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 229436,
-      "num": 196635,
-      "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
-      "onboard_time": 1719145758,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 228689,
@@ -1244,7 +1252,7 @@
     },
     {
       "raw_hot": 194656,
-      "num": 189017,
+      "num": 194254,
       "word": "吴谨言紫色薄纱襦裙",
       "onboard_time": 1719145097,
       "rank": 33,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1719114018,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 185487,
+      "num": 185487,
+      "word": "KSG 吒宝",
+      "onboard_time": 1719145937,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 185001,
@@ -1425,6 +1441,22 @@
       "onboard_time": 1719104897,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172642,
+      "num": 172642,
+      "word": "苏苏把继父告上法庭",
+      "onboard_time": 1719144858,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 172363,
+      "num": 172363,
+      "word": "张艺兴金珉锡一起下班",
+      "onboard_time": 1719145339,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 172174,
@@ -1563,14 +1595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 154696,
-      "num": 154696,
-      "word": "KSG 吒宝",
-      "onboard_time": 1719145937,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 154157,
       "num": 195937,
       "word": "睡前凉快一下更容易睡得香",
@@ -1585,14 +1609,6 @@
       "onboard_time": 1719125599,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152510,
-      "num": 152510,
-      "word": "张艺兴金珉锡一起下班",
-      "onboard_time": 1719145339,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 152135,
@@ -1625,6 +1641,14 @@
       "onboard_time": 1719120018,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147767,
+      "num": 147767,
+      "word": "汪苏泷说好多人啊",
+      "onboard_time": 1719146058,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 147158,
@@ -1723,14 +1747,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141609,
-      "num": 141609,
-      "word": "苏苏把继父告上法庭",
-      "onboard_time": 1719144858,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141541,
       "num": 459092,
       "word": "谈钱羞耻是一种什么感受",
@@ -1811,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133159,
+      "num": 196659,
+      "word": "Manner事件让人感叹打工人比咖啡苦",
+      "onboard_time": 1719144019,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "金毛的鱼被猫猫弄出鱼缸",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1719136339,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127233,
+      "num": 127233,
+      "word": "没有一根折耳根逃得出贵州",
+      "onboard_time": 1719146058,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 126882,
@@ -1995,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119401,
+      "num": 119401,
+      "word": "女排",
+      "onboard_time": 1719144979,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118565,
       "num": 192239,
       "word": "李晨上体综第一个被淘汰",
@@ -2033,6 +2073,14 @@
       "onboard_time": 1719119598,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116382,
+      "num": 116382,
+      "word": "眼袋消失按摩手法",
+      "onboard_time": 1719146300,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 115847,
@@ -2088,6 +2136,14 @@
       "word": "C罗发文庆祝葡萄牙小组第一",
       "onboard_time": 1719102555,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113674,
+      "num": 113674,
+      "word": "中国女排U18亚锦赛夺冠",
+      "onboard_time": 1719146657,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2425,14 +2481,6 @@
       "onboard_time": 1719098173,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82198,
-      "num": 196659,
-      "word": "Manner事件让人感叹打工人比咖啡苦",
-      "onboard_time": 1719144019,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80496,
