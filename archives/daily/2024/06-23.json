@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719138035518,
+  "endTime": 1719138961505,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1129382,
-      "num": 216721,
+      "num": 234963,
       "word": "高考成绩被亲戚擅自发到家人群",
       "onboard_time": 1719132799,
       "rank": 20,
@@ -171,8 +171,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 727445,
-      "num": 727445,
+      "raw_hot": 735097,
+      "num": 735097,
+      "word": "女儿零点查分竟和妈妈梦的一模一样",
+      "onboard_time": 1719132737,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 732889,
+      "num": 732889,
       "word": "董璇女儿cos姜梨",
       "onboard_time": 1719133158,
       "rank": 12,
@@ -195,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 707514,
+      "num": 323961,
+      "word": "赵兆 不署名",
+      "onboard_time": 1719136037,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 701947,
       "num": 701947,
       "word": "丁真骂人真高级",
@@ -209,22 +225,6 @@
       "onboard_time": 1719118576,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 685766,
-      "num": 323961,
-      "word": "赵兆 不署名",
-      "onboard_time": 1719136037,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 680208,
-      "num": 680208,
-      "word": "女儿零点查分竟和妈妈梦的一模一样",
-      "onboard_time": 1719132737,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 656833,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 458706,
+      "num": 458706,
+      "word": "王涛自己发吻戏给前夫哥看",
+      "onboard_time": 1719133218,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453612,
       "num": 453612,
       "word": "迪丽热巴方发维权声明",
@@ -491,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 413818,
-      "num": 413818,
-      "word": "王涛自己发吻戏给前夫哥看",
-      "onboard_time": 1719133218,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 413287,
       "num": 257873,
       "word": "傅家明离世庄国栋再回国追玫瑰",
@@ -523,12 +523,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 399402,
+      "num": 232565,
+      "word": "MANNER道歉了但没人买账",
+      "onboard_time": 1719134598,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 389975,
       "num": 389975,
       "word": "豆瓣崩了",
       "onboard_time": 1719070158,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 389338,
+      "num": 389338,
+      "word": "镇雄一考生查分被屏蔽老师激动呐喊",
+      "onboard_time": 1719135199,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386788,
@@ -577,14 +593,6 @@
       "onboard_time": 1719110177,
       "rank": 23,
       "category": "美食"
-    },
-    {
-      "raw_hot": 370697,
-      "num": 214459,
-      "word": "MANNER道歉了但没人买账",
-      "onboard_time": 1719134598,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 366679,
@@ -745,14 +753,6 @@
       "onboard_time": 1719099134,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 289512,
-      "num": 289512,
-      "word": "镇雄一考生查分被屏蔽老师激动呐喊",
-      "onboard_time": 1719135199,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285924,
@@ -1035,6 +1035,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 194729,
+      "num": 144046,
+      "word": "王源演唱会嘉宾 容祖儿",
+      "onboard_time": 1719138738,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193986,
       "num": 193986,
       "word": "吴世勋去张艺兴演唱会",
@@ -1139,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178795,
+      "num": 178795,
+      "word": "男生高考查分710比预估还高30多分",
+      "onboard_time": 1719137298,
+      "rank": 33,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 178262,
       "num": 649019,
       "word": "女生网上报名支教变成交钱旅游",
@@ -1147,12 +1163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177896,
+      "num": 177896,
+      "word": "XG加盟百分百出品",
+      "onboard_time": 1719138137,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176808,
       "num": 176808,
       "word": "林更新 东北口音",
       "onboard_time": 1719134718,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174195,
+      "num": 174195,
+      "word": "陈丽君 东风破",
+      "onboard_time": 1719138738,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 173855,
@@ -1491,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132785,
+      "num": 132785,
+      "word": "东京食尸鬼重大发表",
+      "onboard_time": 1719138078,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "金毛的鱼被猫猫弄出鱼缸",
@@ -1515,12 +1555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130482,
-      "num": 130482,
-      "word": "男生高考查分710比预估还高30多分",
-      "onboard_time": 1719137298,
-      "rank": 33,
-      "category": "教育,社会新闻"
+      "raw_hot": 130093,
+      "num": 130093,
+      "word": "35位新闻专业毕业生的薪资",
+      "onboard_time": 1719138198,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129760,
@@ -1539,11 +1579,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129718,
+      "num": 129718,
+      "word": "中国航油董事长周强被查",
+      "onboard_time": 1719137358,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127809,
       "num": 127809,
       "word": "吴谨言原声台词",
       "onboard_time": 1719129497,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127326,
+      "num": 127326,
+      "word": "罗云熙丞磊随地大小打",
+      "onboard_time": 1719136339,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1619,14 +1675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 121188,
-      "num": 121188,
-      "word": "罗云熙丞磊随地大小打",
-      "onboard_time": 1719136339,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120546,
       "num": 332575,
       "word": "云南一宿舍5人高考平均分超600",
@@ -1649,6 +1697,14 @@
       "onboard_time": 1719116659,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119632,
+      "num": 119632,
+      "word": "刘忻赵兆编曲分歧",
+      "onboard_time": 1719136938,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 119556,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1719122118,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115163,
+      "num": 115163,
+      "word": "我国重复使用运载火箭新突破",
+      "onboard_time": 1719138738,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115001,
@@ -1769,6 +1833,22 @@
       "onboard_time": 1719129318,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110245,
+      "num": 110245,
+      "word": "妈妈陪女儿高考查分做满满2页攻略",
+      "onboard_time": 1719138917,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110178,
+      "num": 110178,
+      "word": "小狗在被爱之后会变得很漂亮",
+      "onboard_time": 1719137838,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 110015,
@@ -1939,14 +2019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 98719,
-      "num": 98719,
-      "word": "中国航油董事长周强被查",
-      "onboard_time": 1719137358,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98120,
       "num": 98120,
       "word": "阿Sa直播徐明浩换衣服",
@@ -1960,6 +2032,14 @@
       "word": "梅州20多个村民从泥里挖出被困司机",
       "onboard_time": 1719106818,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97810,
+      "num": 144585,
+      "word": "当熊猫饲养员这一刻值了",
+      "onboard_time": 1719138917,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1995,14 +2075,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 96891,
-      "num": 96891,
-      "word": "刘忻赵兆编曲分歧",
-      "onboard_time": 1719136938,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 92580,
       "num": 134090,
       "word": "王源骄傲大合唱太好哭了",
@@ -2033,14 +2105,6 @@
       "onboard_time": 1719133818,
       "rank": 49,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 86461,
-      "num": 86461,
-      "word": "小狗在被爱之后会变得很漂亮",
-      "onboard_time": 1719137838,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 83778,
@@ -2433,6 +2497,14 @@
       "onboard_time": 1719092290,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13086,
+      "num": 292971,
+      "word": "资深医生解析哪些医学专业缺人",
+      "onboard_time": 1719138439,
+      "rank": 14,
+      "category": "社会新闻,健康医疗"
     },
     {
       "raw_hot": 12763,
