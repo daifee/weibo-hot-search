@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 07:34:43
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 09:25:29
 </p>
 </blockquote>
 <p>
@@ -899,6 +899,12 @@ doc和docx有什么区别（热度：1718023）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%A6%BB%E8%81%8C%E5%88%A0%E8%BD%AF%E4%BB%B6%E8%A2%AB%E5%85%AC%E5%8F%B8%E5%A8%81%E8%83%81%E8%B5%B7%E8%AF%89%23" target="weibo">
 00后女孩离职删软件被公司威胁起诉（热度：1666400）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23" target="weibo">
+高考查分（热度：1665515）
 </a>
 </li>
 
@@ -2553,6 +2559,12 @@ Manner咖啡（热度：1202482）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%E8%80%81%E5%85%AC%E5%AD%A6%E5%8E%86%E9%AA%97%E4%BA%86%E6%88%91%23" target="weibo">
+婚后才发现老公学历骗了我（热度：1127123）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%9E%E6%89%87%E5%89%AF%E6%A0%A1%E9%95%BF5%E4%B8%AA%E8%80%B3%E5%85%89%23" target="weibo">
 韩国小学生连扇副校长5个耳光（热度：1126585）
 </a>
@@ -2813,6 +2825,12 @@ Jennie 晚奶（热度：1084973）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%A7%A6%E5%BD%BB%23" target="weibo">
 恋与深空秦彻（热度：1073875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A196%E6%96%A4%23" target="weibo">
+孙怡96斤（热度：1073001）
 </a>
 </li>
 
@@ -3497,6 +3515,12 @@ Manner男店员掌掴女顾客附近商家发声（热度：1005974）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%8B%E5%85%AC%E4%BA%A4%E8%A2%AB%E5%A4%B9%E6%8B%96%E8%A1%8C%E8%BA%AB%E4%BA%A1%23" target="weibo">
 老人下公交被夹拖行身亡（热度：934000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%20%E6%AC%A2%E7%91%9E%23" target="weibo">
+任嘉伦 欢瑞（热度：933631）
 </a>
 </li>
 
@@ -5727,6 +5751,12 @@ iPhone17系列或迎来更薄机型（热度：688842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E8%BE%B9%E6%9C%89%E4%B8%AA%E5%B0%8F%E5%8D%96%E9%83%A8%20%E8%B5%B5%E9%9C%B2%E6%80%9D%23" target="weibo">
+云边有个小卖部 赵露思（热度：684625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%9B%BE%E8%AF%B4%E7%AD%89%E4%BA%86%E5%BC%A0%E6%9D%B08%E5%B9%B4%23" target="weibo">
 周深曾说等了张杰8年（热度：683855）
 </a>
@@ -5981,36 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%AA%8C%E5%AD%95%E6%A3%92%E9%87%8C%E8%BF%98%E6%9C%89%E5%B9%B2%E7%87%A5%E5%89%82%23" target="weibo">
 没想到验孕棒里还有干燥剂（热度：670724）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E9%9C%B8%E6%80%BB%E5%87%BA%E8%A1%97%23" target="weibo">
-赵丽颖霸总出街（热度：670179）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%AC%AC%E4%BA%8C%23" target="weibo">
-那英第二（热度：669344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%9D%90%E4%B9%85%E8%BA%BA%E5%AE%B9%E6%98%93%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%23" target="weibo">
-久坐久躺容易气血不足（热度：669167）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%86%B2%E5%87%BA%E8%80%83%E5%9C%BA%E5%A4%AA%E6%BF%80%E5%8A%A8%E6%8B%A5%E6%8A%B1%E5%AE%B6%E4%BA%BA%E9%81%AD%E9%87%8D%E6%91%94%23" target="weibo">
-考生冲出考场太激动拥抱家人遭重摔（热度：668783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%84%91%E6%AD%BB%E4%BA%A1%E8%BF%87%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%85%AD%E4%B8%80%23" target="weibo">
-8岁女孩脑死亡过最后一个六一（热度：668525）
 </a>
 </li>
 

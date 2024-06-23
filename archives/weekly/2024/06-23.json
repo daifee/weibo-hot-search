@@ -1,7 +1,15 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719099283027,
+  "endTime": 1719105929347,
   "band_list": [
+    {
+      "raw_hot": 1665515,
+      "num": 1665515,
+      "word": "高考查分",
+      "onboard_time": 1719100094,
+      "rank": 0,
+      "category": "教育"
+    },
     {
       "raw_hot": 1152737,
       "num": 1152737,
@@ -9,6 +17,38 @@
       "onboard_time": 1719063317,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1127123,
+      "num": 365934,
+      "word": "婚后才发现老公学历骗了我",
+      "onboard_time": 1719099494,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 1073001,
+      "num": 1073001,
+      "word": "孙怡96斤",
+      "onboard_time": 1719104236,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 933631,
+      "num": 933631,
+      "word": "任嘉伦 欢瑞",
+      "onboard_time": 1719098893,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 684625,
+      "num": 423487,
+      "word": "云边有个小卖部 赵露思",
+      "onboard_time": 1719102256,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 655630,
@@ -43,12 +83,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 493993,
+      "num": 423469,
+      "word": "张杰回应被小骨头卡住做手术",
+      "onboard_time": 1719103338,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 483696,
       "num": 267898,
       "word": "墨雨云间大结局",
       "onboard_time": 1719052159,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 449940,
+      "num": 449940,
+      "word": "带着饥饿感入睡是脾胃恢复的开端",
+      "onboard_time": 1719098893,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 440358,
@@ -59,12 +115,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430633,
+      "num": 173818,
+      "word": "学校临时通知禁用彩色书签",
+      "onboard_time": 1719099013,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 426671,
       "num": 426671,
       "word": "婉宁下线这段真是震撼",
       "onboard_time": 1719072019,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424235,
+      "num": 424235,
+      "word": "男生为健身每天吃20个鸡蛋",
+      "onboard_time": 1719099554,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421611,
+      "num": 421611,
+      "word": "一家七口毕业于同所大学",
+      "onboard_time": 1719098953,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 413287,
@@ -107,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358977,
+      "num": 358977,
+      "word": "杨幂发论文的期刊不收版面费",
+      "onboard_time": 1719099855,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 331605,
       "num": 198417,
       "word": "于正墨雨云间收官文",
@@ -131,12 +219,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 286927,
-      "num": 77102,
-      "word": "带着饥饿感入睡是脾胃恢复的开端",
+      "raw_hot": 316949,
+      "num": 316949,
+      "word": "张远情商",
+      "onboard_time": 1719101296,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 292741,
+      "num": 292741,
+      "word": "权志龙说BIGBANG现在只有三个人",
+      "onboard_time": 1719099134,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 287034,
+      "num": 287034,
+      "word": "萧蘅成亲爽成了王星越",
+      "onboard_time": 1719103876,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285924,
+      "num": 285924,
+      "word": "小伙吐槽360全家桶被投诉后秒认怂",
       "onboard_time": 1719098893,
-      "rank": 20,
-      "category": "健康医疗"
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276660,
@@ -163,6 +275,62 @@
       "category": "演出"
     },
     {
+      "raw_hot": 241952,
+      "num": 173543,
+      "word": "什么东西已经贵到不值得再买了",
+      "onboard_time": 1719099494,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 238122,
+      "num": 173465,
+      "word": "黄晓明两部戏差了50斤",
+      "onboard_time": 1719100574,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 232709,
+      "num": 232709,
+      "word": "加沙约39000名学生无法参加高考",
+      "onboard_time": 1719101896,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228363,
+      "num": 228363,
+      "word": "佩佩 越老越妖",
+      "onboard_time": 1719099314,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 221340,
+      "num": 221340,
+      "word": "穿什么颜色的泳衣更安全",
+      "onboard_time": 1719104236,
+      "rank": 18,
+      "category": "科学科普,运动健身"
+    },
+    {
+      "raw_hot": 217661,
+      "num": 173332,
+      "word": "丽妃 真爱",
+      "onboard_time": 1719103516,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216307,
+      "num": 173233,
+      "word": "薛芳菲求你收了叶世杰吧",
+      "onboard_time": 1719099193,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204699,
       "num": 194722,
       "word": "吴磊贵公子",
@@ -187,20 +355,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189838,
+      "num": 172926,
+      "word": "小喜吾妻一出来我瞬间哭了",
+      "onboard_time": 1719104897,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 187295,
+      "num": 172808,
+      "word": "Gemini红温",
+      "onboard_time": 1719104357,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 187025,
+      "num": 173001,
+      "word": "于正说曾看不起一手炮制的爽剧",
+      "onboard_time": 1719104477,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186380,
+      "num": 173257,
+      "word": "原来大雨真的会让整座城市颠倒",
+      "onboard_time": 1719101234,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185001,
       "num": 91574,
       "word": "歌手 大众评审系统",
       "onboard_time": 1719089051,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 182770,
-      "num": 89903,
-      "word": "任嘉伦 欢瑞",
-      "onboard_time": 1719098893,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 182742,
@@ -217,6 +409,30 @@
       "onboard_time": 1719085931,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178262,
+      "num": 173126,
+      "word": "女生网上报名支教变成交钱旅游",
+      "onboard_time": 1719105677,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173855,
+      "num": 173855,
+      "word": "C罗成欧洲杯历史助攻王",
+      "onboard_time": 1719098592,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172807,
+      "num": 172807,
+      "word": "31省份高考查分时间汇总",
+      "onboard_time": 1719104897,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 170080,
@@ -251,12 +467,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160196,
-      "num": 87401,
-      "word": "权志龙说BIGBANG现在只有三个人",
-      "onboard_time": 1719099134,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 157673,
+      "num": 157673,
+      "word": "母亲欲取过世儿子存款被拒起诉银行",
+      "onboard_time": 1719105497,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157047,
+      "num": 157047,
+      "word": "男子至尊精油开背后心肌梗塞死亡",
+      "onboard_time": 1719105437,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 154157,
@@ -267,12 +491,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 149537,
+      "num": 149537,
+      "word": "和妻子结婚后有了一群不扫兴的家人",
+      "onboard_time": 1719105557,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148549,
+      "num": 148549,
+      "word": "茅台发布自制假茅台鉴定为真核实说明",
+      "onboard_time": 1719105317,
+      "rank": 38,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 147104,
       "num": 193094,
       "word": "刘亦菲演技",
       "onboard_time": 1719066019,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146948,
+      "num": 146948,
+      "word": "单休和双休差的不止是一天",
+      "onboard_time": 1719101115,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 146839,
@@ -291,12 +539,36 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135785,
+      "num": 135785,
+      "word": "王一博登上世趋第一",
+      "onboard_time": 1719099134,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134266,
       "num": 192950,
       "word": "中传教授认为朱一龙适合演罗辑",
       "onboard_time": 1719067939,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134212,
+      "num": 134212,
+      "word": "家里出现小霉点身体可能要遭殃",
+      "onboard_time": 1719105617,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131100,
+      "num": 131100,
+      "word": "孟美岐美式女高造型",
+      "onboard_time": 1719104597,
+      "rank": 42,
+      "category": "演出,时尚"
     },
     {
       "raw_hot": 129756,
@@ -339,12 +611,60 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119338,
+      "num": 119338,
+      "word": "有父母托举的人生",
+      "onboard_time": 1719105378,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118565,
       "num": 192239,
       "word": "李晨上体综第一个被淘汰",
       "onboard_time": 1719067760,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118323,
+      "num": 118323,
+      "word": "卢卡库",
+      "onboard_time": 1719104477,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114708,
+      "num": 367738,
+      "word": "在奥运会见证运动健儿一路逆袭",
+      "onboard_time": 1719104897,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 114674,
+      "num": 114674,
+      "word": "这4个部位出汗多暗示身体有问题",
+      "onboard_time": 1719098893,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112385,
+      "num": 112385,
+      "word": "Letme说BLG虐泉没必要",
+      "onboard_time": 1719098953,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 111755,
+      "num": 111755,
+      "word": "C罗发文庆祝葡萄牙小组第一",
+      "onboard_time": 1719102555,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 108579,
@@ -361,6 +681,14 @@
       "onboard_time": 1719065779,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 106676,
+      "num": 106676,
+      "word": "有个情绪稳定的父母真的很重要",
+      "onboard_time": 1719101896,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 104384,
@@ -451,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76328,
-      "num": 76328,
-      "word": "王一博登上世趋第一",
-      "onboard_time": 1719099134,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 75263,
       "num": 192769,
       "word": "双子座其实还蛮老实的",
@@ -475,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72758,
-      "num": 66379,
-      "word": "小伙吐槽360全家桶被投诉后秒认怂",
-      "onboard_time": 1719098893,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 69516,
       "num": 192030,
       "word": "波兰总统抵达北京",
@@ -497,14 +809,6 @@
       "onboard_time": 1719073277,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66416,
-      "num": 66416,
-      "word": "Letme说BLG虐泉没必要",
-      "onboard_time": 1719098953,
-      "rank": 29,
-      "category": "电竞"
     },
     {
       "raw_hot": 66334,
@@ -547,22 +851,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61983,
-      "num": 61983,
-      "word": "学校临时通知禁用彩色书签",
-      "onboard_time": 1719099013,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 60627,
-      "num": 60627,
-      "word": "C罗成欧洲杯历史助攻王",
-      "onboard_time": 1719098592,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 56694,
       "num": 191833,
       "word": "留置针导管在婴儿血管里漂移5年",
@@ -571,28 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54440,
-      "num": 54440,
-      "word": "薛芳菲求你收了叶世杰吧",
-      "onboard_time": 1719099193,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54374,
       "num": 91850,
       "word": "白晓荷孩子",
       "onboard_time": 1719060498,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 52328,
-      "num": 52328,
-      "word": "这4个部位出汗多暗示身体有问题",
-      "onboard_time": 1719098893,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 51918,
@@ -683,14 +955,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31488,
-      "num": 90082,
-      "word": "一家七口毕业于同所大学",
-      "onboard_time": 1719098953,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 28236,
       "num": 28236,
       "word": "歌手 音频传输折损现象",
@@ -712,6 +976,14 @@
       "word": "小乘客高烧惊厥公交就地变救护车",
       "onboard_time": 1719098653,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17613,
+      "num": 936870,
+      "word": "何以中国运载千秋",
+      "onboard_time": 1718871918,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -753,14 +1025,6 @@
       "onboard_time": 1719076395,
       "rank": 20,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 8968,
-      "num": 520003,
-      "word": "何以中国运载千秋",
-      "onboard_time": 1718871918,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
