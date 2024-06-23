@@ -1,0 +1,410 @@
+{
+  "runTime": 1719149676823,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2280959,
+        "num": 2280959,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 1113447,
+        "num": 1113447,
+        "word": "魏无羡 AG",
+        "onboard_time": 1719145698,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 7863,
+        "num": 938644,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879880,
+        "num": 879880,
+        "word": "杭州灵隐寺发大水",
+        "onboard_time": 1719143177,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 803057,
+        "num": 803057,
+        "word": "李一桐 将门毒后",
+        "onboard_time": 1719141378,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 797874,
+        "num": 797874,
+        "word": "白日提灯 平番",
+        "onboard_time": 1719145758,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 752058,
+        "num": 752058,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 704369,
+        "num": 704369,
+        "word": "云边有个小卖部 难看",
+        "onboard_time": 1719141918,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 681066,
+        "num": 681066,
+        "word": "将门毒后 男主",
+        "onboard_time": 1719143297,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608131,
+        "num": 608131,
+        "word": "女儿零点查分竟和妈妈梦的一模一样",
+        "onboard_time": 1719132737,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 586728,
+        "num": 586728,
+        "word": "高考后他们3小时进帐上亿",
+        "onboard_time": 1719140778,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 503958,
+        "num": 503958,
+        "word": "张艺兴朴灿烈合照",
+        "onboard_time": 1719148879,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451100,
+        "num": 451100,
+        "word": "汪苏泷开场就大合唱",
+        "onboard_time": 1719146779,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 426498,
+        "num": 426498,
+        "word": "Manner事件让人感叹打工人比咖啡苦",
+        "onboard_time": 1719144019,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96301,
+        "num": 355175,
+        "word": "刘宇绝美国风舞台",
+        "onboard_time": 1719147619,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325214,
+        "num": 325214,
+        "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+        "onboard_time": 1719118997,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303895,
+        "num": 303895,
+        "word": "王源演唱会嘉宾 容祖儿",
+        "onboard_time": 1719138738,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276989,
+        "num": 276989,
+        "word": "女生高考查分669激动掩面哭泣",
+        "onboard_time": 1719109218,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 182445,
+        "num": 182445,
+        "word": "湖南新晃山体滑坡失联8人已遇难",
+        "onboard_time": 1719145398,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181877,
+        "num": 181877,
+        "word": "四川文科一本529理科一本539",
+        "onboard_time": 1719139818,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762220,
+        "num": 181544,
+        "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+        "onboard_time": 1719145758,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97641,
+        "num": 180948,
+        "word": "男生查完分烧烤店继续淡定穿串儿",
+        "onboard_time": 1719145818,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474144,
+        "num": 180243,
+        "word": "2点睡觉10点起床算熬夜吗",
+        "onboard_time": 1719142338,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331922,
+        "num": 179742,
+        "word": "高考成绩被亲戚擅自发到家人群",
+        "onboard_time": 1719132799,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318811,
+        "num": 179397,
+        "word": "猪身上这三个部位很脏尽量少吃",
+        "onboard_time": 1719145698,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29606,
+        "num": 178865,
+        "word": "学霸成绩比预估高30分打乱报考计划",
+        "onboard_time": 1719149600,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291617,
+        "num": 178076,
+        "word": "陈瑶白晓荷有姐感了",
+        "onboard_time": 1719148937,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271947,
+        "num": 177318,
+        "word": "妈妈有钱和爸爸有钱的区别",
+        "onboard_time": 1719140717,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263835,
+        "num": 176583,
+        "word": "赵兆 不署名",
+        "onboard_time": 1719136037,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253984,
+        "num": 176292,
+        "word": "宋雨琦去SuperJunior演唱会",
+        "onboard_time": 1719144257,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230915,
+        "num": 175408,
+        "word": "吴谨言紫色薄纱襦裙",
+        "onboard_time": 1719145097,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214846,
+        "num": 175095,
+        "word": "汪苏泷回应上歌手碎了",
+        "onboard_time": 1719149659,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222674,
+        "num": 174684,
+        "word": "董璇女儿cos姜梨",
+        "onboard_time": 1719133158,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207874,
+        "num": 173774,
+        "word": "年轻人为什么爱上德训鞋",
+        "onboard_time": 1719148159,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 207680,
+        "num": 173236,
+        "word": "EXO感情真好",
+        "onboard_time": 1719149057,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198111,
+        "num": 172563,
+        "word": "张艺兴金珉锡一起下班",
+        "onboard_time": 1719145339,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187410,
+        "num": 172333,
+        "word": "赵兆回应编曲分歧",
+        "onboard_time": 1719147979,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171752,
+        "num": 171752,
+        "word": "虞书欣给路人拍照片",
+        "onboard_time": 1719148818,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168772,
+        "num": 168772,
+        "word": "说多喝水可能真不是在敷衍你",
+        "onboard_time": 1719147918,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 7235,
+        "num": 163529,
+        "word": "下次换个手机来演唱会吧",
+        "onboard_time": 1719149238,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159289,
+        "num": 159289,
+        "word": "高考626分男生刚查完分就去跑兼职",
+        "onboard_time": 1719140778,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152183,
+        "num": 152183,
+        "word": "苏苏把继父告上法庭",
+        "onboard_time": 1719144858,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147725,
+        "num": 147725,
+        "word": "马立奥 一直很幸福的小宝贝",
+        "onboard_time": 1719149360,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144561,
+        "num": 144561,
+        "word": "5名网红涉嫌诈骗被抓",
+        "onboard_time": 1719140838,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136348,
+        "num": 136348,
+        "word": "秦彻 沈星回",
+        "onboard_time": 1719139158,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136265,
+        "num": 136265,
+        "word": "夏季穿3种衣服让你更热",
+        "onboard_time": 1719141617,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124049,
+        "num": 124049,
+        "word": "东京食尸鬼重大发表",
+        "onboard_time": 1719138078,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118772,
+        "num": 118772,
+        "word": "王一博回国到达北京",
+        "onboard_time": 1719144618,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116266,
+        "num": 116266,
+        "word": "睡眠不足正悄悄破坏你的记忆力",
+        "onboard_time": 1719149298,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116025,
+        "num": 116025,
+        "word": "肖战北京机场图",
+        "onboard_time": 1719140117,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设美丽新宁夏#"
+    }
+  }
+}

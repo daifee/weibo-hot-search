@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719148757284,
+  "endTime": 1719149676823,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -11,8 +11,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 2186939,
-      "num": 2186939,
+      "raw_hot": 2280959,
+      "num": 2280959,
       "word": "韩国警告俄罗斯",
       "onboard_time": 1719145517,
       "rank": 5,
@@ -227,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 762220,
+      "num": 297414,
+      "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+      "onboard_time": 1719145758,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 761910,
       "num": 761910,
       "word": "教师还是铁饭碗吗",
@@ -289,14 +297,6 @@
       "onboard_time": 1719118576,
       "rank": 13,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 665465,
-      "num": 297414,
-      "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
-      "onboard_time": 1719145758,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 656833,
@@ -443,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503958,
+      "num": 503958,
+      "word": "张艺兴朴灿烈合照",
+      "onboard_time": 1719148879,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502201,
       "num": 502201,
       "word": "王星越谈被校园霸凌哭了",
@@ -531,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451100,
+      "num": 451100,
+      "word": "汪苏泷开场就大合唱",
+      "onboard_time": 1719146779,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 449215,
       "num": 449215,
       "word": "刘亦菲彭冠英出租车吻戏",
@@ -577,6 +593,14 @@
       "onboard_time": 1719072019,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426498,
+      "num": 426498,
+      "word": "Manner事件让人感叹打工人比咖啡苦",
+      "onboard_time": 1719144019,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 424235,
@@ -787,14 +811,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 350246,
-      "num": 350246,
-      "word": "汪苏泷开场就大合唱",
-      "onboard_time": 1719146779,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 347736,
       "num": 347736,
       "word": "5名网红涉嫌诈骗被抓",
@@ -851,14 +867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 322291,
-      "num": 322291,
-      "word": "Manner事件让人感叹打工人比咖啡苦",
-      "onboard_time": 1719144019,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 321861,
       "num": 199271,
       "word": "方协文 可怕",
@@ -873,6 +881,14 @@
       "onboard_time": 1719145398,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318811,
+      "num": 279685,
+      "word": "猪身上这三个部位很脏尽量少吃",
+      "onboard_time": 1719145698,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 316949,
@@ -923,20 +939,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291617,
+      "num": 178076,
+      "word": "陈瑶白晓荷有姐感了",
+      "onboard_time": 1719148937,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285924,
       "num": 285924,
       "word": "小伙吐槽360全家桶被投诉后秒认怂",
       "onboard_time": 1719098893,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 279685,
-      "num": 279685,
-      "word": "猪身上这三个部位很脏尽量少吃",
-      "onboard_time": 1719145698,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 276660,
@@ -1075,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230915,
+      "num": 226197,
+      "word": "吴谨言紫色薄纱襦裙",
+      "onboard_time": 1719145097,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228689,
       "num": 246971,
       "word": "为何有些女性怀孕后还会规律来月经",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1719114978,
       "rank": 25,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 226197,
-      "num": 226197,
-      "word": "吴谨言紫色薄纱襦裙",
-      "onboard_time": 1719145097,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 224872,
@@ -1147,6 +1163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214846,
+      "num": 175095,
+      "word": "汪苏泷回应上歌手碎了",
+      "onboard_time": 1719149659,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214145,
       "num": 214145,
       "word": "你还喜欢我就好啦",
@@ -1177,6 +1201,22 @@
       "onboard_time": 1719104477,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207874,
+      "num": 173774,
+      "word": "年轻人为什么爱上德训鞋",
+      "onboard_time": 1719148159,
+      "rank": 37,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 207680,
+      "num": 173236,
+      "word": "EXO感情真好",
+      "onboard_time": 1719149057,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 204784,
@@ -1267,7 +1307,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196840,
+      "raw_hot": 198111,
       "num": 196840,
       "word": "张艺兴金珉锡一起下班",
       "onboard_time": 1719145339,
@@ -1499,12 +1539,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171752,
+      "num": 171752,
+      "word": "虞书欣给路人拍照片",
+      "onboard_time": 1719148818,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170080,
       "num": 193970,
       "word": "云边有个小卖部 he",
       "onboard_time": 1719056178,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 168772,
+      "num": 168772,
+      "word": "说多喝水可能真不是在敷衍你",
+      "onboard_time": 1719147918,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 168385,
@@ -1683,6 +1739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 147725,
+      "num": 147725,
+      "word": "马立奥 一直很幸福的小宝贝",
+      "onboard_time": 1719149360,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147158,
       "num": 147158,
       "word": "大陆小伙闯台湾农村",
@@ -1729,14 +1793,6 @@
       "onboard_time": 1719136637,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144992,
-      "num": 144992,
-      "word": "年轻人为什么爱上德训鞋",
-      "onboard_time": 1719148159,
-      "rank": 37,
-      "category": "时尚"
     },
     {
       "raw_hot": 144719,
@@ -1955,14 +2011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126882,
-      "num": 126882,
-      "word": "说多喝水可能真不是在敷衍你",
-      "onboard_time": 1719147918,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 126655,
       "num": 126655,
       "word": "汪苏泷演唱会温馨提示",
@@ -2121,6 +2169,14 @@
       "onboard_time": 1719146300,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 116266,
+      "num": 116266,
+      "word": "睡眠不足正悄悄破坏你的记忆力",
+      "onboard_time": 1719149298,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 115847,
@@ -2451,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97641,
+      "num": 499455,
+      "word": "男生查完分烧烤店继续淡定穿串儿",
+      "onboard_time": 1719145818,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97416,
       "num": 516144,
       "word": "7天支教团竟被安排4天观光",
@@ -2481,6 +2545,14 @@
       "onboard_time": 1719134298,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 96301,
+      "num": 355175,
+      "word": "刘宇绝美国风舞台",
+      "onboard_time": 1719147619,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 92580,
@@ -2531,14 +2603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80496,
-      "num": 499455,
-      "word": "男生查完分烧烤店继续淡定穿串儿",
-      "onboard_time": 1719145818,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 80002,
       "num": 68337,
       "word": "少女时期的李梦",
@@ -2569,14 +2633,6 @@
       "onboard_time": 1719097751,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77859,
-      "num": 320309,
-      "word": "刘宇绝美国风舞台",
-      "onboard_time": 1719147619,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 76287,
@@ -2827,6 +2883,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 29606,
+      "num": 178865,
+      "word": "学霸成绩比预估高30分打乱报考计划",
+      "onboard_time": 1719149600,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28327,
       "num": 535043,
       "word": "五彩缤纷的绿",
@@ -2945,6 +3009,14 @@
       "onboard_time": 1719076395,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 7235,
+      "num": 163529,
+      "word": "下次换个手机来演唱会吧",
+      "onboard_time": 1719149238,
+      "rank": 39,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
