@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719141301789,
+  "endTime": 1719142446294,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1718272037,
       "rank": 10,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1707973,
+      "num": 1707973,
+      "word": "高考后他们3小时进帐上亿",
+      "onboard_time": 1719140778,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1705170,
@@ -3420,7 +3428,7 @@
     },
     {
       "raw_hot": 1129382,
-      "num": 258946,
+      "num": 260131,
       "word": "高考成绩被亲戚擅自发到家人群",
       "onboard_time": 1719132799,
       "rank": 20,
@@ -6091,14 +6099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 790440,
-      "num": 790440,
-      "word": "高考后他们3小时进帐上亿",
-      "onboard_time": 1719140778,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 789946,
       "num": 789946,
       "word": "刘亦菲彭冠英2集亲了15次",
@@ -7417,6 +7417,14 @@
       "onboard_time": 1717685059,
       "rank": 5,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 709106,
+      "num": 709106,
+      "word": "李一桐 将门毒后",
+      "onboard_time": 1719141378,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 708752,
@@ -13587,6 +13595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 471350,
+      "num": 259890,
+      "word": "妈妈有钱和爸爸有钱的区别",
+      "onboard_time": 1719140717,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 471199,
       "num": 428530,
       "word": "沈腾说我穿什么都配不上马丽",
@@ -14841,6 +14857,14 @@
       "onboard_time": 1717460598,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 439491,
+      "num": 439491,
+      "word": "秦彻 沈星回",
+      "onboard_time": 1719139158,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 439405,
@@ -16211,6 +16235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 407494,
+      "num": 407494,
+      "word": "四川文科一本529理科一本539",
+      "onboard_time": 1719139818,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407492,
       "num": 407492,
       "word": "李莎旻子送给凡希亚马面裙",
@@ -16521,6 +16553,14 @@
       "onboard_time": 1718752454,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399910,
+      "num": 399910,
+      "word": "东京食尸鬼重大发表",
+      "onboard_time": 1719138078,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 399879,
@@ -17105,14 +17145,6 @@
       "onboard_time": 1718197400,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387861,
-      "num": 387861,
-      "word": "秦彻 沈星回",
-      "onboard_time": 1719139158,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 387732,
@@ -21475,14 +21507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 308060,
-      "num": 255803,
-      "word": "妈妈有钱和爸爸有钱的区别",
-      "onboard_time": 1719140717,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 308028,
       "num": 308028,
       "word": "鹿晗8G冲浪",
@@ -22097,14 +22121,6 @@
       "onboard_time": 1718597178,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 297838,
-      "num": 253156,
-      "word": "四川文科一本529理科一本539",
-      "onboard_time": 1719139818,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297829,
@@ -23025,14 +23041,6 @@
       "onboard_time": 1718637558,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 286511,
-      "num": 286511,
-      "word": "东京食尸鬼重大发表",
-      "onboard_time": 1719138078,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 286505,
@@ -24499,6 +24507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 268022,
+      "num": 268022,
+      "word": "肖战北京机场图",
+      "onboard_time": 1719140117,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267978,
       "num": 267978,
       "word": "梨形身材越练腿越细",
@@ -24825,14 +24841,6 @@
       "onboard_time": 1718255360,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 263933,
-      "num": 263933,
-      "word": "肖战北京机场图",
-      "onboard_time": 1719140117,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 263855,
@@ -27089,6 +27097,14 @@
       "onboard_time": 1718874319,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236502,
+      "num": 236502,
+      "word": "5名网红涉嫌诈骗被抓",
+      "onboard_time": 1719140838,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236410,
@@ -29433,6 +29449,14 @@
       "onboard_time": 1717481359,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216572,
+      "num": 216572,
+      "word": "云边有个小卖部 难看",
+      "onboard_time": 1719141918,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 216555,
@@ -33033,6 +33057,14 @@
       "onboard_time": 1718713217,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198333,
+      "num": 198333,
+      "word": "分数线",
+      "onboard_time": 1719141438,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 198292,
@@ -36969,6 +37001,14 @@
       "onboard_time": 1718076078,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180364,
+      "num": 180364,
+      "word": "度华年 先婚后爱",
+      "onboard_time": 1719141378,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 180345,
@@ -43827,6 +43867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151732,
+      "num": 151732,
+      "word": "夏季穿3种衣服让你更热",
+      "onboard_time": 1719141617,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151730,
       "num": 151730,
       "word": "黄霄雲歌手彩排状态",
@@ -44555,6 +44603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 149305,
+      "num": 149305,
+      "word": "第一次用外酥里嫩形容房子",
+      "onboard_time": 1719141977,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149259,
       "num": 149259,
       "word": "恋与深空回应秦彻泄密",
@@ -45017,6 +45073,14 @@
       "onboard_time": 1718274197,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147158,
+      "num": 147158,
+      "word": "大陆小伙闯台湾农村",
+      "onboard_time": 1719140838,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 147130,
@@ -47795,14 +47859,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135952,
-      "num": 135952,
-      "word": "5名网红涉嫌诈骗被抓",
-      "onboard_time": 1719140838,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135903,
       "num": 135903,
       "word": "训练了三遍才知道扔鞋子",
@@ -48865,6 +48921,14 @@
       "onboard_time": 1717537090,
       "rank": 12,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 132096,
+      "num": 132096,
+      "word": "2点睡觉10点起床算熬夜吗",
+      "onboard_time": 1719142338,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132094,
@@ -54163,6 +54227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113200,
+      "num": 113200,
+      "word": "牛瘪汤",
+      "onboard_time": 1719142277,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 113169,
       "num": 113169,
       "word": "狗狗装过头差点变成流浪狗",
@@ -54611,14 +54683,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 111212,
-      "num": 111212,
-      "word": "大陆小伙闯台湾农村",
-      "onboard_time": 1719140838,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111187,
       "num": 111187,
       "word": "余宇涵出道战路透",
@@ -54729,6 +54793,14 @@
       "onboard_time": 1718585658,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110648,
+      "num": 110648,
+      "word": "男生查分母亲准备戴金牌仪式庆祝",
+      "onboard_time": 1719142218,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110629,
@@ -59739,6 +59811,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 76236,
+      "num": 449621,
+      "word": "高考626分男生刚查完分就去跑兼职",
+      "onboard_time": 1719140778,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76225,
       "num": 384824,
       "word": "纯血鸿蒙将设备性能提升30%",
@@ -61585,14 +61665,6 @@
       "onboard_time": 1718264600,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 59852,
-      "num": 449621,
-      "word": "高考626分男生刚查完分就去跑兼职",
-      "onboard_time": 1719140778,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 59667,
@@ -66812,7 +66884,7 @@
     },
     {
       "raw_hot": 20481,
-      "num": 261386,
+      "num": 261441,
       "word": "乘风同款演唱会神器",
       "onboard_time": 1719138977,
       "rank": 19,

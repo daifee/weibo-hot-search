@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719141301789,
+  "endTime": 1719142446294,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -41,6 +41,14 @@
       "onboard_time": 1719109218,
       "rank": 3,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1707973,
+      "num": 1707973,
+      "word": "高考后他们3小时进帐上亿",
+      "onboard_time": 1719140778,
+      "rank": 3,
+      "category": "财经"
     },
     {
       "raw_hot": 1658551,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1129382,
-      "num": 258946,
+      "num": 260131,
       "word": "高考成绩被亲戚擅自发到家人群",
       "onboard_time": 1719132799,
       "rank": 20,
@@ -163,14 +171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 790440,
-      "num": 790440,
-      "word": "高考后他们3小时进帐上亿",
-      "onboard_time": 1719140778,
-      "rank": 3,
-      "category": "财经"
-    },
-    {
       "raw_hot": 761910,
       "num": 761910,
       "word": "教师还是铁饭碗吗",
@@ -209,6 +209,14 @@
       "onboard_time": 1719121458,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 709106,
+      "num": 709106,
+      "word": "李一桐 将门毒后",
+      "onboard_time": 1719141378,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 707514,
@@ -427,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 471350,
+      "num": 259890,
+      "word": "妈妈有钱和爸爸有钱的区别",
+      "onboard_time": 1719140717,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 461900,
       "num": 461900,
       "word": "周也演技",
@@ -473,6 +489,14 @@
       "onboard_time": 1719067879,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 439491,
+      "num": 439491,
+      "word": "秦彻 沈星回",
+      "onboard_time": 1719139158,
+      "rank": 12,
+      "category": "游戏"
     },
     {
       "raw_hot": 430633,
@@ -531,12 +555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407494,
+      "num": 407494,
+      "word": "四川文科一本529理科一本539",
+      "onboard_time": 1719139818,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403654,
       "num": 352516,
       "word": "家里出现小霉点身体可能要遭殃",
       "onboard_time": 1719105617,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 399910,
+      "num": 399910,
+      "word": "东京食尸鬼重大发表",
+      "onboard_time": 1719138078,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 399402,
@@ -561,14 +601,6 @@
       "onboard_time": 1719135199,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 387861,
-      "num": 387861,
-      "word": "秦彻 沈星回",
-      "onboard_time": 1719139158,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 386788,
@@ -763,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308060,
-      "num": 255803,
-      "word": "妈妈有钱和爸爸有钱的区别",
-      "onboard_time": 1719140717,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 307285,
       "num": 307285,
       "word": "萧蘅成亲爽成了王星越",
@@ -787,28 +811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 297838,
-      "num": 253156,
-      "word": "四川文科一本529理科一本539",
-      "onboard_time": 1719139818,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292741,
       "num": 292741,
       "word": "权志龙说BIGBANG现在只有三个人",
       "onboard_time": 1719099134,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286511,
-      "num": 286511,
-      "word": "东京食尸鬼重大发表",
-      "onboard_time": 1719138078,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 285924,
@@ -835,6 +843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 268022,
+      "num": 268022,
+      "word": "肖战北京机场图",
+      "onboard_time": 1719140117,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267978,
       "num": 267978,
       "word": "梨形身材越练腿越细",
@@ -849,14 +865,6 @@
       "onboard_time": 1719105317,
       "rank": 38,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 263933,
-      "num": 263933,
-      "word": "肖战北京机场图",
-      "onboard_time": 1719140117,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 261449,
@@ -931,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236502,
+      "num": 236502,
+      "word": "5名网红涉嫌诈骗被抓",
+      "onboard_time": 1719140838,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -993,6 +1009,14 @@
       "onboard_time": 1719103516,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216572,
+      "num": 216572,
+      "word": "云边有个小卖部 难看",
+      "onboard_time": 1719141918,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 216307,
@@ -1099,6 +1123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198333,
+      "num": 198333,
+      "word": "分数线",
+      "onboard_time": 1719141438,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 194738,
       "num": 194738,
       "word": "一所小学40年从300个人到30个人",
@@ -1193,6 +1225,14 @@
       "onboard_time": 1719066199,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180364,
+      "num": 180364,
+      "word": "度华年 先婚后爱",
+      "onboard_time": 1719141378,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 180165,
@@ -1403,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151732,
+      "num": 151732,
+      "word": "夏季穿3种衣服让你更热",
+      "onboard_time": 1719141617,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151725,
       "num": 151725,
       "word": "男生高考658妈妈质疑问有没有看错",
@@ -1411,12 +1459,28 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 149305,
+      "num": 149305,
+      "word": "第一次用外酥里嫩形容房子",
+      "onboard_time": 1719141977,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147808,
       "num": 147808,
       "word": "绵阳中考一班6人超850分",
       "onboard_time": 1719120018,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147158,
+      "num": 147158,
+      "word": "大陆小伙闯台湾农村",
+      "onboard_time": 1719140838,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 147104,
@@ -1547,14 +1611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 135952,
-      "num": 135952,
-      "word": "5名网红涉嫌诈骗被抓",
-      "onboard_time": 1719140838,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 135903,
       "num": 135903,
       "word": "训练了三遍才知道扔鞋子",
@@ -1593,6 +1649,14 @@
       "onboard_time": 1719122417,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132096,
+      "num": 132096,
+      "word": "2点睡觉10点起床算熬夜吗",
+      "onboard_time": 1719142338,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132049,
@@ -1883,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113200,
+      "num": 113200,
+      "word": "牛瘪汤",
+      "onboard_time": 1719142277,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112385,
       "num": 112385,
       "word": "Letme说BLG虐泉没必要",
@@ -1899,12 +1971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111212,
-      "num": 111212,
-      "word": "大陆小伙闯台湾农村",
-      "onboard_time": 1719140838,
-      "rank": 45,
-      "category": "情感"
+      "raw_hot": 110648,
+      "num": 110648,
+      "word": "男生查分母亲准备戴金牌仪式庆祝",
+      "onboard_time": 1719142218,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110245,
@@ -2243,6 +2315,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 76236,
+      "num": 449621,
+      "word": "高考626分男生刚查完分就去跑兼职",
+      "onboard_time": 1719140778,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75263,
       "num": 192769,
       "word": "双子座其实还蛮老实的",
@@ -2329,14 +2409,6 @@
       "onboard_time": 1719096311,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59852,
-      "num": 449621,
-      "word": "高考626分男生刚查完分就去跑兼职",
-      "onboard_time": 1719140778,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58812,
@@ -2540,7 +2612,7 @@
     },
     {
       "raw_hot": 20481,
-      "num": 261386,
+      "num": 261441,
       "word": "乘风同款演唱会神器",
       "onboard_time": 1719138977,
       "rank": 19,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719142446294,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1707973,
+        "num": 1707973,
+        "word": "高考后他们3小时进帐上亿",
+        "onboard_time": 1719140778,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1197333,
+        "num": 1197333,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 7081,
+        "num": 923781,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 751981,
+        "num": 751981,
+        "word": "女儿零点查分竟和妈妈梦的一模一样",
+        "onboard_time": 1719132737,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 709106,
+        "num": 709106,
+        "word": "李一桐 将门毒后",
+        "onboard_time": 1719141378,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 551504,
+        "num": 551504,
+        "word": "赵兆 不署名",
+        "onboard_time": 1719136037,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548942,
+        "num": 548942,
+        "word": "董璇女儿cos姜梨",
+        "onboard_time": 1719133158,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459569,
+        "num": 459569,
+        "word": "女生高考查分669激动掩面哭泣",
+        "onboard_time": 1719109218,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 443682,
+        "num": 443682,
+        "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+        "onboard_time": 1719118997,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76236,
+        "num": 441028,
+        "word": "高考626分男生刚查完分就去跑兼职",
+        "onboard_time": 1719140778,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 439491,
+        "num": 439491,
+        "word": "秦彻 沈星回",
+        "onboard_time": 1719139158,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 426880,
+        "num": 426880,
+        "word": "王源演唱会嘉宾 容祖儿",
+        "onboard_time": 1719138738,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407494,
+        "num": 407494,
+        "word": "四川文科一本529理科一本539",
+        "onboard_time": 1719139818,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400463,
+        "num": 400463,
+        "word": "王涛自己发吻戏给前夫哥看",
+        "onboard_time": 1719133218,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399910,
+        "num": 399910,
+        "word": "东京食尸鬼重大发表",
+        "onboard_time": 1719138078,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 370736,
+        "num": 370736,
+        "word": "韩国航班空中骤降6000米13人送医",
+        "onboard_time": 1719136098,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282632,
+        "num": 282632,
+        "word": "镇雄一考生查分被屏蔽老师激动呐喊",
+        "onboard_time": 1719135199,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281914,
+        "num": 281914,
+        "word": "女生高考查分701后质疑自己",
+        "onboard_time": 1719117498,
+        "rank": 17,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 268022,
+        "num": 268022,
+        "word": "肖战北京机场图",
+        "onboard_time": 1719140117,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18281,
+        "num": 261441,
+        "word": "乘风同款演唱会神器",
+        "onboard_time": 1719138977,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 644803,
+        "num": 260131,
+        "word": "高考成绩被亲戚擅自发到家人群",
+        "onboard_time": 1719132799,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471350,
+        "num": 259890,
+        "word": "妈妈有钱和爸爸有钱的区别",
+        "onboard_time": 1719140717,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257992,
+        "num": 257992,
+        "word": "陈丽君 东风破",
+        "onboard_time": 1719138738,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245328,
+        "num": 245328,
+        "word": "MANNER道歉了但没人买账",
+        "onboard_time": 1719134598,
+        "rank": 23,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 236502,
+        "num": 236502,
+        "word": "5名网红涉嫌诈骗被抓",
+        "onboard_time": 1719140838,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216572,
+        "num": 216572,
+        "word": "云边有个小卖部 难看",
+        "onboard_time": 1719141918,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210383,
+        "num": 210383,
+        "word": "二维码真有用光那一天吗",
+        "onboard_time": 1719128058,
+        "rank": 26,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 203027,
+        "num": 203027,
+        "word": "林志玲开球",
+        "onboard_time": 1719131238,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 198333,
+        "num": 198333,
+        "word": "分数线",
+        "onboard_time": 1719141438,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191584,
+        "num": 191584,
+        "word": "董力前女友",
+        "onboard_time": 1719130279,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180364,
+        "num": 180364,
+        "word": "度华年 先婚后爱",
+        "onboard_time": 1719141378,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172996,
+        "num": 172996,
+        "word": "孙怡曾喝多了睡在草丛里",
+        "onboard_time": 1719122897,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172239,
+        "num": 172239,
+        "word": "男生高考查分710比预估还高30多分",
+        "onboard_time": 1719137298,
+        "rank": 32,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 158257,
+        "num": 158257,
+        "word": "赵兆 编曲",
+        "onboard_time": 1719128597,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151732,
+        "num": 151732,
+        "word": "夏季穿3种衣服让你更热",
+        "onboard_time": 1719141617,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149305,
+        "num": 149305,
+        "word": "第一次用外酥里嫩形容房子",
+        "onboard_time": 1719141977,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148956,
+        "num": 148956,
+        "word": "黄振华苏苏有一个儿子",
+        "onboard_time": 1719131957,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147158,
+        "num": 147158,
+        "word": "大陆小伙闯台湾农村",
+        "onboard_time": 1719140838,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143719,
+        "num": 143719,
+        "word": "中医建议身弱之人多出去玩",
+        "onboard_time": 1719126617,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133316,
+        "num": 133316,
+        "word": "赵丽颖曾帮陈晓袁姗姗解围",
+        "onboard_time": 1719126199,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132096,
+        "num": 132096,
+        "word": "2点睡觉10点起床算熬夜吗",
+        "onboard_time": 1719142338,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129071,
+        "num": 129071,
+        "word": "刘忻赵兆编曲分歧",
+        "onboard_time": 1719136938,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122661,
+        "num": 122661,
+        "word": "一眨眼中国运动员就夺冠了",
+        "onboard_time": 1719140178,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117613,
+        "num": 117613,
+        "word": "金珉锡去了张艺兴演唱会",
+        "onboard_time": 1719130578,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116586,
+        "num": 116586,
+        "word": "迪丽热巴大波浪白衬衫",
+        "onboard_time": 1719127037,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113200,
+        "num": 113200,
+        "word": "牛瘪汤",
+        "onboard_time": 1719142277,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111526,
+        "num": 111526,
+        "word": "乌尔善五十岁迷上了国漫",
+        "onboard_time": 1719131000,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110648,
+        "num": 110648,
+        "word": "男生查分母亲准备戴金牌仪式庆祝",
+        "onboard_time": 1719142218,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108905,
+        "num": 108905,
+        "word": "长相思男团要合体了",
+        "onboard_time": 1719130578,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107753,
+        "num": 107753,
+        "word": "周也演技",
+        "onboard_time": 1719121098,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#青海宁夏之行总书记关注这条主线#"
+    }
+  }
+}
