@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 12:36:39
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 13:18:01
 </p>
 </blockquote>
 <p>
@@ -641,6 +641,12 @@ fine乐团能不能留下（热度：2043691）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E6%9C%80%E5%85%88%E8%A1%B0%E8%80%81%E7%9A%84%E5%99%A8%E5%AE%98%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
 人体最先衰老的器官是什么（热度：1890222）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86701%E5%90%8E%E8%B4%A8%E7%96%91%E8%87%AA%E5%B7%B1%23" target="weibo">
+女生高考查分701后质疑自己（热度：1879069）
 </a>
 </li>
 
@@ -1317,6 +1323,12 @@ doc和docx有什么区别（热度：1718023）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E6%9F%A5%E5%88%86%E7%9A%84%E9%AB%98%E8%80%83%E7%94%9F%E5%B7%B2%E5%BC%80%E5%A7%8B%E5%B0%96%E5%8F%AB%23" target="weibo">
+第一批查分的高考生已开始尖叫（热度：1482062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%85%AC%E5%85%B3%23" target="weibo">
 周也公关（热度：1478200）
 </a>
@@ -1907,6 +1919,12 @@ manner（热度：1307101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E7%BC%87%E8%8E%AB%E5%94%B1hello%23" target="weibo">
 香缇莫唱hello（热度：1278494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%86%92%E5%85%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%AA%97%E5%90%83%E9%AA%97%E5%96%9D%23" target="weibo">
+日本人冒充中国人在巴基斯坦骗吃骗喝（热度：1275579）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%90%86%E7%BB%BC%23" target="weibo">
 高考理综（热度：673890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231342%E4%B8%87%E4%BA%BA%E4%BB%8A%E5%A4%A9%E9%AB%98%E8%80%83%23" target="weibo">
-1342万人今天高考（热度：673644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%BC%80%E6%9C%BA%E7%85%A7%23" target="weibo">
-赵露思开机照（热度：673444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%9C%89%E4%BA%8B%E6%B2%A1%E4%BA%8B%E5%B0%B1%E5%8E%BB%E9%9D%A2%E8%AF%95%23" target="weibo">
-建议大家有事没事就去面试（热度：673338）
 </a>
 </li>
 

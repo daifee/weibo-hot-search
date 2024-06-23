@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719117399652,
+  "endTime": 1719119881305,
   "band_list": [
     {
       "raw_hot": 1934203,
@@ -19,6 +19,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1879069,
+      "num": 1879069,
+      "word": "女生高考查分701后质疑自己",
+      "onboard_time": 1719117498,
+      "rank": 0,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1830190,
       "num": 1830190,
       "word": "女生高考查分669激动掩面哭泣",
@@ -35,12 +43,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1482062,
+      "num": 1482062,
+      "word": "第一批查分的高考生已开始尖叫",
+      "onboard_time": 1719117078,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1432129,
       "num": 1432129,
       "word": "高考分数线",
       "onboard_time": 1719111318,
       "rank": 5,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1275579,
+      "num": 1275579,
+      "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+      "onboard_time": 1719118997,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1152737,
@@ -123,14 +147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 647284,
-      "num": 647284,
-      "word": "第一批查分的高考生已开始尖叫",
-      "onboard_time": 1719117078,
-      "rank": 6,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 639843,
       "num": 639843,
       "word": "李海仁",
@@ -145,6 +161,22 @@
       "onboard_time": 1719063739,
       "rank": 1,
       "category": "自然"
+    },
+    {
+      "raw_hot": 601494,
+      "num": 601494,
+      "word": "吴谨言没想到叼玉佩成名场面",
+      "onboard_time": 1719116358,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 590828,
+      "num": 343307,
+      "word": "丁真骂人真高级",
+      "onboard_time": 1719117917,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 557553,
@@ -187,11 +219,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496304,
+      "num": 496304,
+      "word": "阿里巴巴全球数学竞赛决赛试题公布",
+      "onboard_time": 1719118576,
+      "rank": 13,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 493993,
       "num": 423469,
       "word": "张杰回应被小骨头卡住做手术",
       "onboard_time": 1719103338,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 491232,
+      "num": 491232,
+      "word": "王星越谈被校园霸凌哭了",
+      "onboard_time": 1719118398,
+      "rank": 14,
       "category": "综艺"
     },
     {
@@ -217,6 +265,14 @@
       "onboard_time": 1719111618,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449215,
+      "num": 449215,
+      "word": "刘亦菲彭冠英出租车吻戏",
+      "onboard_time": 1719117198,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 440358,
@@ -304,14 +360,6 @@
       "word": "吴谨言王星越P图告别墨雨云间",
       "onboard_time": 1719110056,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 383343,
-      "num": 383343,
-      "word": "吴谨言没想到叼玉佩成名场面",
-      "onboard_time": 1719116358,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -603,14 +651,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211032,
-      "num": 211032,
-      "word": "刘亦菲彭冠英出租车吻戏",
-      "onboard_time": 1719117198,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207979,
       "num": 207979,
       "word": "于正说曾看不起一手炮制的爽剧",
@@ -843,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160292,
+      "num": 160292,
+      "word": "孙怡跳了TFBOYS的歌",
+      "onboard_time": 1719119419,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158140,
       "num": 158140,
       "word": "赵丽颖杨单合作",
@@ -1027,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119256,
+      "num": 119256,
+      "word": "原来医生眼中的辛辣食物不仅仅是辣椒",
+      "onboard_time": 1719119657,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 118565,
       "num": 192239,
       "word": "李晨上体综第一个被淘汰",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1719114919,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116685,
+      "num": 116685,
+      "word": "林允说好久没亲孟佳了",
+      "onboard_time": 1719119598,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 114708,
@@ -1115,12 +1179,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104307,
+      "num": 104307,
+      "word": "刘亦菲 温柔刀",
+      "onboard_time": 1719117437,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102848,
+      "num": 102848,
+      "word": "沈月卡通白裙",
+      "onboard_time": 1719118698,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 101093,
       "num": 192143,
       "word": "云边有个小卖部",
       "onboard_time": 1719059719,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99694,
+      "num": 99694,
+      "word": "时间或是量子纠缠产生的幻觉",
+      "onboard_time": 1719118157,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 99018,
@@ -1153,6 +1241,14 @@
       "onboard_time": 1719109038,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92052,
+      "num": 92052,
+      "word": "为何有些女性怀孕后还会规律来月经",
+      "onboard_time": 1719119839,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 89171,
@@ -1340,7 +1436,7 @@
     },
     {
       "raw_hot": 42858,
-      "num": 1233491,
+      "num": 1322427,
       "word": "申遗十年看运河",
       "onboard_time": 1719112818,
       "rank": 2,
@@ -1451,12 +1547,28 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 27274,
+      "num": 640479,
+      "word": "扬州含诗量有多高",
+      "onboard_time": 1719118818,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24891,
       "num": 27878,
       "word": "黄晓明感谢吴优",
       "onboard_time": 1719088571,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21072,
+      "num": 514139,
+      "word": "五彩缤纷的绿",
+      "onboard_time": 1719117858,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18457,
