@@ -1,0 +1,410 @@
+{
+  "runTime": 1719174870826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 101798,
+        "num": 101798,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 72008,
+        "num": 72008,
+        "word": "海蓝之谜柜姐被顾客泼水羞辱",
+        "onboard_time": 1719152179,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1861,
+        "num": 59246,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57732,
+        "num": 57732,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 48784,
+        "num": 48784,
+        "word": "瑞士vs德国",
+        "onboard_time": 1719161175,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47006,
+        "num": 47006,
+        "word": "iPhone16全系尺寸曝光",
+        "onboard_time": 1719152301,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1956,
+        "num": 40494,
+        "word": "走大运行好运",
+        "onboard_time": 1719025578,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39629,
+        "num": 39629,
+        "word": "于正说以后他所有的剧全部明确HE",
+        "onboard_time": 1719171552,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39532,
+        "num": 39532,
+        "word": "李一桐 将门毒后",
+        "onboard_time": 1719141378,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6273,
+        "num": 35759,
+        "word": "妈妈捧着一束肉串接中考儿子回家",
+        "onboard_time": 1719158897,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35609,
+        "num": 35609,
+        "word": "林允发际线",
+        "onboard_time": 1719156200,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34841,
+        "num": 34841,
+        "word": "女儿零点查分竟和妈妈梦的一模一样",
+        "onboard_time": 1719132737,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30641,
+        "num": 30641,
+        "word": "魏无羡 AG",
+        "onboard_time": 1719145698,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27944,
+        "num": 27944,
+        "word": "苏格兰vs匈牙利",
+        "onboard_time": 1719163994,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25377,
+        "num": 25377,
+        "word": "将门毒后 男主",
+        "onboard_time": 1719143297,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25327,
+        "num": 25327,
+        "word": "高考成绩",
+        "onboard_time": 1719150079,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 25013,
+        "num": 25013,
+        "word": "庆余年 晕墨",
+        "onboard_time": 1719155899,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24367,
+        "num": 24367,
+        "word": "一份没有985211的宝藏大学名单",
+        "onboard_time": 1719152420,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22982,
+        "num": 22982,
+        "word": "陈都灵买过刘诗诗步步惊心周边",
+        "onboard_time": 1719173470,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22581,
+        "num": 22581,
+        "word": "白日提灯 平番",
+        "onboard_time": 1719145758,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60213,
+        "num": 22543,
+        "word": "夫妻自驾运毒34.8公斤被抓",
+        "onboard_time": 1719169151,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42907,
+        "num": 22390,
+        "word": "汪苏泷终于唱巴赫旧约了",
+        "onboard_time": 1719162075,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41729,
+        "num": 22345,
+        "word": "男子带96岁母亲酒店养老遭集体拉黑",
+        "onboard_time": 1719154279,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22184,
+        "num": 22184,
+        "word": "Wei不打了",
+        "onboard_time": 1719152301,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37979,
+        "num": 22098,
+        "word": "2点睡觉10点起床算熬夜吗",
+        "onboard_time": 1719142338,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33757,
+        "num": 21958,
+        "word": "梁实第28次高考成绩出炉",
+        "onboard_time": 1719152959,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32132,
+        "num": 21857,
+        "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+        "onboard_time": 1719145758,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29470,
+        "num": 21729,
+        "word": "男生查分被屏蔽淡定向家人报喜",
+        "onboard_time": 1719172270,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28102,
+        "num": 21630,
+        "word": "猪身上这三个部位很脏尽量少吃",
+        "onboard_time": 1719145698,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 22480,
+        "num": 21456,
+        "word": "霍建华朱珠演情侣",
+        "onboard_time": 1719152058,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21409,
+        "num": 21409,
+        "word": "张艺兴朴灿烈合照",
+        "onboard_time": 1719148879,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20850,
+        "num": 20850,
+        "word": "王源听到结婚的反应",
+        "onboard_time": 1719150019,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20631,
+        "num": 20631,
+        "word": "年轻人为什么爱上德训鞋",
+        "onboard_time": 1719148159,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 19086,
+        "num": 19086,
+        "word": "汪苏泷回应上歌手碎了",
+        "onboard_time": 1719149659,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18603,
+        "num": 18603,
+        "word": "高考成绩被亲戚擅自发到家人群",
+        "onboard_time": 1719132799,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18357,
+        "num": 18357,
+        "word": "减肥误食了6个蛋挞",
+        "onboard_time": 1719152001,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18293,
+        "num": 18293,
+        "word": "杭州灵隐寺发大水",
+        "onboard_time": 1719143177,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17351,
+        "num": 17351,
+        "word": "RNG夏季赛五连败",
+        "onboard_time": 1719162674,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17298,
+        "num": 17298,
+        "word": "妈妈有钱和爸爸有钱的区别",
+        "onboard_time": 1719140717,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16993,
+        "num": 16993,
+        "word": "陈瑶白晓荷有姐感了",
+        "onboard_time": 1719148937,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15944,
+        "num": 15944,
+        "word": "青岛大学 奢香夫人",
+        "onboard_time": 1719155239,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15813,
+        "num": 15813,
+        "word": "赵兆 不署名",
+        "onboard_time": 1719136037,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15715,
+        "num": 15715,
+        "word": "艾尔登法环",
+        "onboard_time": 1719170651,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15629,
+        "num": 15629,
+        "word": "青春有你北京面试",
+        "onboard_time": 1719150800,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15282,
+        "num": 15628,
+        "word": "我发现射手座很难被PUA",
+        "onboard_time": 1719167339,
+        "rank": 44,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 14586,
+        "num": 15627,
+        "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+        "onboard_time": 1719118997,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14577,
+        "num": 15626,
+        "word": "意大利女排3比1日本女排",
+        "onboard_time": 1719157758,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14234,
+        "num": 15625,
+        "word": "花莲海域4.9级地震",
+        "onboard_time": 1719155002,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14126,
+        "num": 15624,
+        "word": "不翻车的小短甲",
+        "onboard_time": 1719174311,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14008,
+        "num": 15623,
+        "word": "王源演唱会嘉宾 容祖儿",
+        "onboard_time": 1719138738,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设美丽新宁夏#"
+    }
+  }
+}
