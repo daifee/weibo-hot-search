@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 22:34:18
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 23:19:05
 </p>
 </blockquote>
 <p>
@@ -1731,6 +1731,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC28%E6%AC%A1%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%87%BA%E7%82%89%23" target="weibo">
+梁实第28次高考成绩出炉（热度：1357503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%A8%E5%B0%84400%E6%94%AF%E7%8E%BB%E5%B0%BF%E9%85%B8%E4%B8%B0%E8%87%80%E8%87%B4%E8%87%80%E9%83%A8%E6%84%9F%E6%9F%93%23" target="weibo">
 女子注射400支玻尿酸丰臀致臀部感染（热度：1356617）
 </a>
@@ -3413,6 +3419,12 @@ Manner男店员掌掴女顾客附近商家发声（热度：1005974）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E7%BA%A2%E8%8C%B6%E7%9B%B4%E6%92%AD%23" target="weibo">
 冰红茶直播（热度：968702）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone16%E5%85%A8%E7%B3%BB%E5%B0%BA%E5%AF%B8%E6%9B%9D%E5%85%89%23" target="weibo">
+iPhone16全系尺寸曝光（热度：968426）
 </a>
 </li>
 
@@ -5631,6 +5643,12 @@ Manner事件 不要为难服务人员（热度：723939）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%93%9D%E4%B9%8B%E8%B0%9C%E6%9F%9C%E5%A7%90%E8%A2%AB%E9%A1%BE%E5%AE%A2%E6%B3%BC%E6%B0%B4%E7%BE%9E%E8%BE%B1%23" target="weibo">
+海蓝之谜柜姐被顾客泼水羞辱（热度：709639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%20%E4%BB%A5%E4%B8%BA%E5%9B%BD%E8%B6%B3%E5%9C%A8%E8%B8%A2%E7%9A%87%E9%A9%AC%23" target="weibo">
 苏醒 以为国足在踢皇马（热度：709241）
 </a>
@@ -5993,24 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%20%E8%B0%81%E5%86%99%E7%9A%84%E5%89%A7%E6%9C%AC%23" target="weibo">
 歌手排名 谁写的剧本（热度：681361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%89%99%E7%BC%9D%E9%87%8C%E7%9A%84%E9%BB%84%E8%89%B2%E7%89%A9%E8%B4%A8%E9%82%A3%E4%B9%88%E8%87%AD%23" target="weibo">
-为什么牙缝里的黄色物质那么臭（热度：680368）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BF%9D%E5%A7%86%E4%BF%9D%E4%BD%8F%E4%B8%9C%E5%AE%B6900%E5%A4%9A%E4%B8%87%E5%85%BB%E8%80%81%E9%92%B1%23" target="weibo">
-杭州保姆保住东家900多万养老钱（热度：679973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%93%E5%A6%88%E5%A6%88%E6%84%9F%E8%B0%A2%E5%AD%A6%E6%A0%A1%E4%BF%9D%E6%8A%A4%E5%AD%A9%E5%AD%90%E9%9A%90%E7%A7%81%23" target="weibo">
-孙卓妈妈感谢学校保护孩子隐私（热度：679701）
 </a>
 </li>
 

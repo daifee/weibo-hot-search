@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719153258122,
+  "endTime": 1719155945438,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -91,6 +91,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1357503,
+      "num": 1357503,
+      "word": "梁实第28次高考成绩出炉",
+      "onboard_time": 1719152959,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1276172,
       "num": 1276172,
       "word": "魏无羡 AG",
@@ -177,6 +185,14 @@
       "onboard_time": 1719143297,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 968426,
+      "num": 968426,
+      "word": "iPhone16全系尺寸曝光",
+      "onboard_time": 1719152301,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 956000,
@@ -291,6 +307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 709639,
+      "num": 709639,
+      "word": "海蓝之谜柜姐被顾客泼水羞辱",
+      "onboard_time": 1719152179,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707514,
       "num": 691298,
       "word": "赵兆 不署名",
@@ -377,14 +401,6 @@
       "onboard_time": 1719116358,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 590818,
-      "num": 590818,
-      "word": "iPhone16全系尺寸曝光",
-      "onboard_time": 1719152301,
-      "rank": 12,
-      "category": "数码"
     },
     {
       "raw_hot": 557553,
@@ -481,6 +497,14 @@
       "onboard_time": 1719118398,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499544,
+      "num": 310936,
+      "word": "霍建华朱珠演情侣",
+      "onboard_time": 1719152058,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 498738,
@@ -601,14 +625,6 @@
       "onboard_time": 1719124698,
       "rank": 11,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 441397,
-      "num": 310936,
-      "word": "霍建华朱珠演情侣",
-      "onboard_time": 1719152058,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 440358,
@@ -827,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362144,
+      "num": 262871,
+      "word": "男子带96岁母亲酒店养老遭集体拉黑",
+      "onboard_time": 1719154279,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358977,
       "num": 358977,
       "word": "杨幂发论文的期刊不收版面费",
@@ -1003,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 304013,
+      "num": 304013,
+      "word": "鹿晗演唱会背影图",
+      "onboard_time": 1719153080,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 301479,
       "num": 262843,
       "word": "傅家明也住进了方协文心里",
@@ -1033,14 +1065,6 @@
       "onboard_time": 1719065179,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273702,
-      "num": 273702,
-      "word": "鹿晗演唱会背影图",
-      "onboard_time": 1719153080,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 272860,
@@ -1099,14 +1123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 255354,
-      "num": 255354,
-      "word": "海蓝之谜柜姐被顾客泼水羞辱",
-      "onboard_time": 1719152179,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249047,
       "num": 249047,
       "word": "2024内蒙古高考分数线",
@@ -1155,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241119,
+      "num": 241119,
+      "word": "李宇春 苏打绿嘉宾",
+      "onboard_time": 1719152600,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238122,
       "num": 179793,
       "word": "黄晓明两部戏差了50斤",
@@ -1193,6 +1217,14 @@
       "onboard_time": 1719110298,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231512,
+      "num": 231512,
+      "word": "青岛大学 奢香夫人",
+      "onboard_time": 1719155239,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 230915,
@@ -1267,12 +1299,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218636,
+      "num": 218636,
+      "word": "陈洁仪 心动",
+      "onboard_time": 1719154699,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 217661,
       "num": 187996,
       "word": "丽妃 真爱",
       "onboard_time": 1719103516,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216715,
+      "num": 216715,
+      "word": "一份没有985211的宝藏大学名单",
+      "onboard_time": 1719152420,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 216307,
@@ -1299,14 +1347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211949,
-      "num": 211949,
-      "word": "李宇春 苏打绿嘉宾",
-      "onboard_time": 1719152600,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 211525,
       "num": 211525,
       "word": "阿汤哥女儿去掉父亲姓氏",
@@ -1323,14 +1363,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 209849,
-      "num": 209849,
-      "word": "梁实第28次高考成绩出炉",
-      "onboard_time": 1719152959,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207979,
       "num": 207979,
       "word": "于正说曾看不起一手炮制的爽剧",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1719148818,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206643,
+      "num": 206643,
+      "word": "林俊杰我的刘海还好吗",
+      "onboard_time": 1719155058,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 206530,
@@ -1603,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183637,
+      "num": 183637,
+      "word": "花莲海域4.9级地震",
+      "onboard_time": 1719155002,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182742,
       "num": 200923,
       "word": "欧洲杯",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1719138137,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177264,
+      "num": 177264,
+      "word": "汪苏泷综艺爆曲八连唱",
+      "onboard_time": 1719155780,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 176808,
@@ -1731,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168250,
+      "num": 168250,
+      "word": "RW诚C连接成功",
+      "onboard_time": 1719154640,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 167935,
       "num": 167935,
       "word": "怎么会有小猫被骗三次",
@@ -1747,20 +1811,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 167225,
+      "num": 167225,
+      "word": "王源容祖儿合唱舞台",
+      "onboard_time": 1719154520,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167130,
       "num": 167130,
       "word": "唐嫣新戏",
       "onboard_time": 1719126317,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165257,
-      "num": 165257,
-      "word": "一份没有985211的宝藏大学名单",
-      "onboard_time": 1719152420,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 164330,
@@ -1899,6 +1963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 147838,
+      "num": 147838,
+      "word": "庆余年 晕墨",
+      "onboard_time": 1719155899,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147808,
       "num": 147808,
       "word": "绵阳中考一班6人超850分",
@@ -1913,6 +1985,14 @@
       "onboard_time": 1719146058,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147744,
+      "num": 147744,
+      "word": "张雪峰建议报考选城市标准",
+      "onboard_time": 1719154161,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 147158,
@@ -2987,6 +3067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40973,
+      "num": 1032890,
+      "word": "千年运河从历史流向未来",
+      "onboard_time": 1719153500,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38287,
       "num": 37936,
       "word": "葛优邀约王俊凯下部戏",
@@ -3059,6 +3147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31954,
+      "num": 530597,
+      "word": "3招教你挑报恩榴莲",
+      "onboard_time": 1719155178,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 31418,
       "num": 583320,
       "word": "成都绝美朝霞如彩练当空",
@@ -3129,6 +3225,14 @@
       "onboard_time": 1719098653,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18362,
+      "num": 416257,
+      "word": "微博文化之夜年度荣誉",
+      "onboard_time": 1719154819,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 18051,
