@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719124673312,
+  "endTime": 1719127110648,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -3873,6 +3873,14 @@
       "onboard_time": 1718958858,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1063968,
+      "num": 856348,
+      "word": "孙怡曾喝多了睡在草丛里",
+      "onboard_time": 1719122897,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1063774,
@@ -8027,14 +8035,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 673784,
-      "num": 271135,
-      "word": "孙怡曾喝多了睡在草丛里",
-      "onboard_time": 1719122897,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 673644,
       "num": 673644,
       "word": "1342万人今天高考",
@@ -9001,6 +9001,14 @@
       "onboard_time": 1717829178,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 624167,
+      "num": 624167,
+      "word": "蔡磊进ICU妻子20天暴瘦十斤",
+      "onboard_time": 1719118639,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 624157,
@@ -11391,14 +11399,6 @@
       "num": 530531,
       "word": "今年高考最好笑的一个",
       "onboard_time": 1717835058,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 530407,
-      "num": 530407,
-      "word": "蔡磊进ICU妻子20天暴瘦十斤",
-      "onboard_time": 1719118639,
       "rank": 16,
       "category": "社会新闻"
     },
@@ -15987,6 +15987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410648,
+      "num": 410648,
+      "word": "印度知名演员涉嫌杀人被捕",
+      "onboard_time": 1719124759,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410521,
       "num": 410521,
       "word": "薛芳菲头发梳上去了",
@@ -16097,6 +16105,14 @@
       "onboard_time": 1718691018,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 406722,
+      "num": 406722,
+      "word": "赵丽颖曾帮陈晓袁姗姗解围",
+      "onboard_time": 1719126199,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 406309,
@@ -18515,6 +18531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 356189,
+      "num": 356189,
+      "word": "李梦太美了",
+      "onboard_time": 1719122897,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356176,
       "num": 288120,
       "word": "刘亦菲佟大为早期合照",
@@ -20848,14 +20872,6 @@
       "word": "佟大为觉得庄国栋更适合黄亦玫",
       "onboard_time": 1718683759,
       "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 316239,
-      "num": 316239,
-      "word": "李梦太美了",
-      "onboard_time": 1719122897,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -25299,6 +25315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 253549,
+      "num": 253549,
+      "word": "首个高考成绩被屏蔽的人出现了",
+      "onboard_time": 1719126498,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 253530,
       "num": 192239,
       "word": "李晨上体综第一个被淘汰",
@@ -28025,6 +28049,14 @@
       "onboard_time": 1717903517,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224872,
+      "num": 188451,
+      "word": "窦骁何超莲街边吃早茶",
+      "onboard_time": 1719126439,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 224831,
@@ -31499,6 +31531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203481,
+      "num": 203481,
+      "word": "迪丽热巴大波浪白衬衫",
+      "onboard_time": 1719127037,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203473,
       "num": 184338,
       "word": "鞠婧祎三十而立又可以出发了",
@@ -31641,6 +31681,14 @@
       "onboard_time": 1718954479,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202832,
+      "num": 202832,
+      "word": "章昊扛过内娱镜头没扛过自己的",
+      "onboard_time": 1719124518,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 202773,
@@ -35497,6 +35545,14 @@
       "onboard_time": 1718853019,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186560,
+      "num": 186560,
+      "word": "看完周京泽想去考飞行员了",
+      "onboard_time": 1719126558,
+      "rank": 31,
+      "category": "动漫"
     },
     {
       "raw_hot": 186515,
@@ -39515,6 +39571,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 167130,
+      "num": 167130,
+      "word": "唐嫣新戏",
+      "onboard_time": 1719126317,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167110,
       "num": 167110,
       "word": "GQ工作人员夸赞时代少年团",
@@ -41460,7 +41524,7 @@
     },
     {
       "raw_hot": 159232,
-      "num": 146103,
+      "num": 154067,
       "word": "爷爷去世前的早上还在出海打渔",
       "onboard_time": 1719123438,
       "rank": 41,
@@ -44763,6 +44827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 146847,
+      "num": 146847,
+      "word": "男生高考687分假装淡定让家人猜",
+      "onboard_time": 1719126738,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 146813,
       "num": 146813,
       "word": "中国企业回应被斯坦福大学抄袭",
@@ -45073,6 +45145,14 @@
       "onboard_time": 1717409058,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145484,
+      "num": 145484,
+      "word": "中医建议身弱之人多出去玩",
+      "onboard_time": 1719126617,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145427,
@@ -45856,6 +45936,14 @@
       "word": "王星越吻技",
       "onboard_time": 1718165060,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142040,
+      "num": 142040,
+      "word": "你还喜欢我就好啦",
+      "onboard_time": 1719127037,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -46889,6 +46977,14 @@
       "onboard_time": 1718448079,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 137962,
+      "num": 459092,
+      "word": "谈钱羞耻是一种什么感受",
+      "onboard_time": 1719122417,
+      "rank": 9,
+      "category": "社会议题"
     },
     {
       "raw_hot": 137955,
@@ -48033,14 +48129,6 @@
       "onboard_time": 1718611938,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133492,
-      "num": 133492,
-      "word": "章昊扛过内娱镜头没扛过自己的",
-      "onboard_time": 1719124518,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 133476,
@@ -49193,6 +49281,14 @@
       "onboard_time": 1719034397,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129760,
+      "num": 129760,
+      "word": "沈月问王星越到底多小",
+      "onboard_time": 1719126558,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 129724,
@@ -50609,14 +50705,6 @@
       "onboard_time": 1717405579,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 125205,
-      "num": 459092,
-      "word": "谈钱羞耻是一种什么感受",
-      "onboard_time": 1719122417,
-      "rank": 9,
-      "category": "社会议题"
     },
     {
       "raw_hot": 125193,
@@ -54131,6 +54219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111063,
+      "num": 111063,
+      "word": "安徽谢桥煤矿瓦斯爆炸9死15伤",
+      "onboard_time": 1719126979,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111056,
       "num": 111056,
       "word": "于适草原骑马vlog",
@@ -55763,6 +55859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103609,
+      "num": 103609,
+      "word": "上海2024高考分数线",
+      "onboard_time": 1719126257,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 103447,
       "num": 103447,
       "word": "FPX对战EDG",
@@ -57089,6 +57193,14 @@
       "onboard_time": 1717860079,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 95752,
+      "num": 95752,
+      "word": "2024年四川高考分数线",
+      "onboard_time": 1719125599,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 95723,
@@ -64419,6 +64531,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 33335,
+      "num": 453116,
+      "word": "一句话形容你高考查分心情",
+      "onboard_time": 1719126018,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33287,
       "num": 156281,
       "word": "赵丽颖与全棉舒适生活",
@@ -66297,6 +66417,14 @@
       "onboard_time": 1719098653,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18438,
+      "num": 188999,
+      "word": "电竞选手遇到少林功夫",
+      "onboard_time": 1719126498,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 18392,
