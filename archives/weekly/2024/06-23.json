@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719164064387,
+  "endTime": 1719167024521,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -1211,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238791,
+      "num": 85241,
+      "word": "汪苏泷终于唱巴赫旧约了",
+      "onboard_time": 1719162075,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238122,
       "num": 179793,
       "word": "黄晓明两部戏差了50斤",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1719109876,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236828,
-      "num": 85241,
-      "word": "汪苏泷终于唱巴赫旧约了",
-      "onboard_time": 1719162075,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 235199,
@@ -3051,20 +3051,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63468,
+      "num": 63468,
+      "word": "瑞士vs德国",
+      "onboard_time": 1719161175,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62208,
       "num": 62208,
       "word": "刘亦菲素颜英文试镜",
       "onboard_time": 1719096311,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61940,
-      "num": 61940,
-      "word": "瑞士vs德国",
-      "onboard_time": 1719161175,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 58812,
@@ -3227,6 +3227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32672,
+      "num": 32672,
+      "word": "Enhypen MV",
+      "onboard_time": 1719166152,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 32310,
       "num": 36464,
       "word": "薛之谦徐州演唱会赶上人工降雨",
@@ -3265,6 +3273,14 @@
       "onboard_time": 1719158897,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 28871,
+      "num": 28871,
+      "word": "周笔畅唱跳电影组曲",
+      "onboard_time": 1719166152,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 28327,
@@ -3419,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 11738,
+      "num": 99688,
+      "word": "四喜丸子围坐狂炫生日餐仪式感满满",
+      "onboard_time": 1719157039,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 7235,
       "num": 163529,
       "word": "下次换个手机来演唱会吧",
@@ -3453,6 +3477,9 @@
     },
     {
       "word": "#青海宁夏之行总书记关注这条主线#"
+    },
+    {
+      "word": "#总书记一次次走进科技创新最活跃的地方#"
     }
   ]
 }

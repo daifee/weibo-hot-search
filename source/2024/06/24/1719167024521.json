@@ -1,0 +1,410 @@
+{
+  "runTime": 1719167024521,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 270368,
+        "num": 270368,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 186802,
+        "num": 186802,
+        "word": "海蓝之谜柜姐被顾客泼水羞辱",
+        "onboard_time": 1719152179,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13802,
+        "num": 173946,
+        "word": "千年运河从历史流向未来",
+        "onboard_time": 1719153500,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165636,
+        "num": 165636,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156332,
+        "num": 156332,
+        "word": "iPhone16全系尺寸曝光",
+        "onboard_time": 1719152301,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130057,
+        "num": 130057,
+        "word": "女儿零点查分竟和妈妈梦的一模一样",
+        "onboard_time": 1719132737,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127981,
+        "num": 127981,
+        "word": "一份没有985211的宝藏大学名单",
+        "onboard_time": 1719152420,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116468,
+        "num": 116468,
+        "word": "林允发际线",
+        "onboard_time": 1719156200,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99918,
+        "num": 99918,
+        "word": "李一桐 将门毒后",
+        "onboard_time": 1719141378,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11738,
+        "num": 99688,
+        "word": "四喜丸子围坐狂炫生日餐仪式感满满",
+        "onboard_time": 1719157039,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99590,
+        "num": 99590,
+        "word": "汪苏泷回应上歌手碎了",
+        "onboard_time": 1719149659,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94720,
+        "num": 94720,
+        "word": "魏无羡 AG",
+        "onboard_time": 1719145698,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75085,
+        "num": 75085,
+        "word": "张艺兴朴灿烈合照",
+        "onboard_time": 1719148879,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73804,
+        "num": 73804,
+        "word": "将门毒后 男主",
+        "onboard_time": 1719143297,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63468,
+        "num": 63468,
+        "word": "瑞士vs德国",
+        "onboard_time": 1719161175,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57799,
+        "num": 57799,
+        "word": "Wei不打了",
+        "onboard_time": 1719152301,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 57659,
+        "num": 57659,
+        "word": "王源听到结婚的反应",
+        "onboard_time": 1719150019,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55204,
+        "num": 55204,
+        "word": "白日提灯 平番",
+        "onboard_time": 1719145758,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54053,
+        "num": 54053,
+        "word": "庆余年 晕墨",
+        "onboard_time": 1719155899,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40925,
+        "num": 40925,
+        "word": "青岛大学 奢香夫人",
+        "onboard_time": 1719155239,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238791,
+        "num": 40672,
+        "word": "汪苏泷终于唱巴赫旧约了",
+        "onboard_time": 1719162075,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150461,
+        "num": 40332,
+        "word": "2点睡觉10点起床算熬夜吗",
+        "onboard_time": 1719142338,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111287,
+        "num": 40197,
+        "word": "梁实第28次高考成绩出炉",
+        "onboard_time": 1719152959,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93623,
+        "num": 39846,
+        "word": "男子带96岁母亲酒店养老遭集体拉黑",
+        "onboard_time": 1719154279,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62049,
+        "num": 39591,
+        "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+        "onboard_time": 1719145758,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54928,
+        "num": 39239,
+        "word": "猪身上这三个部位很脏尽量少吃",
+        "onboard_time": 1719145698,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46555,
+        "num": 38869,
+        "word": "年轻人为什么爱上德训鞋",
+        "onboard_time": 1719148159,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 42292,
+        "num": 38451,
+        "word": "王源演唱会嘉宾 容祖儿",
+        "onboard_time": 1719138738,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41994,
+        "num": 38265,
+        "word": "高考成绩被亲戚擅自发到家人群",
+        "onboard_time": 1719132799,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41908,
+        "num": 37958,
+        "word": "青春有你北京面试",
+        "onboard_time": 1719150800,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40953,
+        "num": 37535,
+        "word": "赵兆 不署名",
+        "onboard_time": 1719136037,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37492,
+        "num": 37492,
+        "word": "RNG夏季赛五连败",
+        "onboard_time": 1719162674,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36403,
+        "num": 36403,
+        "word": "妈妈有钱和爸爸有钱的区别",
+        "onboard_time": 1719140717,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 35676,
+        "num": 35676,
+        "word": "虞书欣给路人拍照片",
+        "onboard_time": 1719148818,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35589,
+        "num": 35589,
+        "word": "汪苏泷综艺爆曲八连唱",
+        "onboard_time": 1719155780,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35374,
+        "num": 35374,
+        "word": "EXO感情真好",
+        "onboard_time": 1719149057,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33731,
+        "num": 33731,
+        "word": "陈洁仪 心动",
+        "onboard_time": 1719154699,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33117,
+        "num": 33117,
+        "word": "宋雨琦去SuperJunior演唱会",
+        "onboard_time": 1719144257,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32972,
+        "num": 32972,
+        "word": "杭州灵隐寺发大水",
+        "onboard_time": 1719143177,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32672,
+        "num": 32672,
+        "word": "Enhypen MV",
+        "onboard_time": 1719166152,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 32110,
+        "num": 32110,
+        "word": "减肥误食了6个蛋挞",
+        "onboard_time": 1719152001,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30944,
+        "num": 30944,
+        "word": "林俊杰我的刘海还好吗",
+        "onboard_time": 1719155058,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30284,
+        "num": 30284,
+        "word": "霍建华朱珠演情侣",
+        "onboard_time": 1719152058,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29005,
+        "num": 29005,
+        "word": "高考成绩",
+        "onboard_time": 1719150079,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28871,
+        "num": 28871,
+        "word": "周笔畅唱跳电影组曲",
+        "onboard_time": 1719166152,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28642,
+        "num": 28642,
+        "word": "陈瑶白晓荷有姐感了",
+        "onboard_time": 1719148937,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28454,
+        "num": 28454,
+        "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+        "onboard_time": 1719118997,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26208,
+        "num": 28452,
+        "word": "李宇春 苏打绿嘉宾",
+        "onboard_time": 1719152600,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26166,
+        "num": 28448,
+        "word": "意大利女排3比1日本女排",
+        "onboard_time": 1719157758,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25955,
+        "num": 28440,
+        "word": "花莲海域4.9级地震",
+        "onboard_time": 1719155002,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一次次走进科技创新最活跃的地方#"
+    }
+  }
+}

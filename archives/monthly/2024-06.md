@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 01:34:24
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 02:23:44
 </p>
 </blockquote>
 <p>
@@ -6479,6 +6479,12 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E9%9D%92%E6%B5%B7%E5%AE%81%E5%A4%8F%E4%B9%8B%E8%A1%8C%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E6%B3%A8%E8%BF%99%E6%9D%A1%E4%B8%BB%E7%BA%BF%23%23" target="weibo">
 #青海宁夏之行总书记关注这条主线#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%80%E6%AC%A1%E6%AC%A1%E8%B5%B0%E8%BF%9B%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E6%9C%80%E6%B4%BB%E8%B7%83%E7%9A%84%E5%9C%B0%E6%96%B9%23%23" target="weibo">
+#总书记一次次走进科技创新最活跃的地方#
 </a>
 </li>
 

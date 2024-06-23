@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719164064387,
+  "endTime": 1719167024521,
   "band_list": [
     {
       "raw_hot": 1031912,
@@ -163,7 +163,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236828,
+      "raw_hot": 238791,
       "num": 85241,
       "word": "汪苏泷终于唱巴赫旧约了",
       "onboard_time": 1719162075,
@@ -403,8 +403,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61940,
-      "num": 61940,
+      "raw_hot": 63468,
+      "num": 63468,
       "word": "瑞士vs德国",
       "onboard_time": 1719161175,
       "rank": 40,
@@ -425,6 +425,14 @@
       "onboard_time": 1719150079,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 32672,
+      "num": 32672,
+      "word": "Enhypen MV",
+      "onboard_time": 1719166152,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 32290,
@@ -451,6 +459,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28871,
+      "num": 28871,
+      "word": "周笔畅唱跳电影组曲",
+      "onboard_time": 1719166152,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 25955,
+      "num": 28440,
+      "word": "花莲海域4.9级地震",
+      "onboard_time": 1719155002,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12780,
       "num": 51463,
       "word": "2500岁大运河依然在造福当代",
@@ -465,6 +489,14 @@
       "onboard_time": 1719162615,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11738,
+      "num": 99688,
+      "word": "四喜丸子围坐狂炫生日餐仪式感满满",
+      "onboard_time": 1719157039,
+      "rank": 9,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -473,6 +505,9 @@
     },
     {
       "word": "#加快建设美丽新宁夏#"
+    },
+    {
+      "word": "#总书记一次次走进科技创新最活跃的地方#"
     }
   ]
 }
