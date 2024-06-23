@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 17:20:21
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 17:34:24
 </p>
 </blockquote>
 <p>
@@ -3819,6 +3819,12 @@ iPhone15多次降价重回销量榜第一（热度：915943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E4%BA%B2%E6%88%9A%E6%93%85%E8%87%AA%E5%8F%91%E5%88%B0%E5%AE%B6%E4%BA%BA%E7%BE%A4%23" target="weibo">
+高考成绩被亲戚擅自发到家人群（热度：896103）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AF%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%AF%B9%E8%89%BA%E8%80%83%E5%BE%88%E5%AF%8C%E4%BD%99%23" target="weibo">
 张若昀说高考分数对艺考很富余（热度：894996）
 </a>
@@ -4157,6 +4163,12 @@ iPhone15有五种充电上限了（热度：864883）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%B0%8F%E5%A8%9F%E6%9A%82%E5%81%9C%E6%B4%BB%E5%8A%A8%23" target="weibo">
 田小娟暂停活动（热度：839545）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E5%BC%80%E7%90%83%23" target="weibo">
+林志玲开球（热度：839090）
 </a>
 </li>
 
@@ -4751,12 +4763,6 @@ Xiaolaohu删博（热度：771190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%8F%B8%E4%BB%A4%E6%89%AC%E8%A8%80%E8%AE%A9%E5%8F%B0%E6%B5%B7%E5%8F%98%E5%9C%B0%E7%8B%B1%23" target="weibo">
 美军司令扬言让台海变地狱（热度：768238）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E4%BA%B2%E6%88%9A%E6%93%85%E8%87%AA%E5%8F%91%E5%88%B0%E5%AE%B6%E4%BA%BA%E7%BE%A4%23" target="weibo">
-高考成绩被亲戚擅自发到家人群（热度：767969）
 </a>
 </li>
 
@@ -5441,12 +5447,6 @@ Manner事件 不要为难服务人员（热度：723939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%84%89%E6%A0%A9%E5%98%89%E4%B8%8A%E5%B2%B8%E4%BA%86%23" target="weibo">
 焉栩嘉上岸了（热度：717002）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E5%BC%80%E7%90%83%23" target="weibo">
-林志玲开球（热度：716717）
 </a>
 </li>
 

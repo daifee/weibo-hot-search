@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719134421053,
+  "endTime": 1719135264721,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -5075,6 +5075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 896103,
+      "num": 190863,
+      "word": "高考成绩被亲戚擅自发到家人群",
+      "onboard_time": 1719132799,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 894996,
       "num": 894996,
       "word": "张若昀说高考分数对艺考很富余",
@@ -5529,6 +5537,14 @@
       "onboard_time": 1717239076,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 839090,
+      "num": 839090,
+      "word": "林志玲开球",
+      "onboard_time": 1719131238,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 839032,
@@ -6321,14 +6337,6 @@
       "onboard_time": 1718156716,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 767969,
-      "num": 190863,
-      "word": "高考成绩被亲戚擅自发到家人群",
-      "onboard_time": 1719132799,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 767733,
@@ -7241,14 +7249,6 @@
       "onboard_time": 1718406735,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 716717,
-      "num": 716717,
-      "word": "林志玲开球",
-      "onboard_time": 1719131238,
-      "rank": 24,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 716598,
@@ -8977,6 +8977,14 @@
       "onboard_time": 1718765296,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 627734,
+      "num": 627734,
+      "word": "董璇女儿cos姜梨",
+      "onboard_time": 1719133158,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 627037,
@@ -17331,14 +17339,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 380834,
-      "num": 380834,
-      "word": "董璇女儿cos姜梨",
-      "onboard_time": 1719133158,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 380817,
       "num": 380817,
       "word": "愿与愁",
@@ -21833,6 +21833,14 @@
       "onboard_time": 1718363598,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300605,
+      "num": 300605,
+      "word": "王涛自己发吻戏给前夫哥看",
+      "onboard_time": 1719133218,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 300526,
@@ -26881,14 +26889,6 @@
       "onboard_time": 1717421059,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237349,
-      "num": 186872,
-      "word": "王涛自己发吻戏给前夫哥看",
-      "onboard_time": 1719133218,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 237307,
@@ -32227,6 +32227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 201008,
+      "num": 184977,
+      "word": "孙怡跟不上小孩姐的city",
+      "onboard_time": 1719133337,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200938,
       "num": 200938,
       "word": "突然就明白了什么是情绪价值",
@@ -34545,14 +34553,6 @@
       "onboard_time": 1717240638,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191850,
-      "num": 184977,
-      "word": "孙怡跟不上小孩姐的city",
-      "onboard_time": 1719133337,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 191801,
@@ -37761,6 +37761,14 @@
       "onboard_time": 1718546841,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176808,
+      "num": 176808,
+      "word": "林更新 东北口音",
+      "onboard_time": 1719134718,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 176789,
@@ -47275,6 +47283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137429,
+      "num": 137429,
+      "word": "MANNER道歉了但没人买账",
+      "onboard_time": 1719134598,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 137390,
       "num": 57036,
       "word": "姆巴佩未入选奥运名单",
@@ -53907,6 +53923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113368,
+      "num": 113368,
+      "word": "2024年四川高考分数线",
+      "onboard_time": 1719125599,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 113296,
       "num": 113296,
       "word": "向佐路过陈丽君应援区",
@@ -56779,6 +56803,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99846,
+      "num": 99846,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1719134237,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99719,
       "num": 99719,
       "word": "云南人是会吃花的",
@@ -57251,6 +57283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97024,
+      "num": 747291,
+      "word": "扬州是个好地方",
+      "onboard_time": 1719130519,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96969,
       "num": 96969,
       "word": "德约科维奇大满贯第370胜",
@@ -57379,6 +57419,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 96054,
+      "num": 96054,
+      "word": "女生连续4年第一获奖30余项",
+      "onboard_time": 1719134898,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96021,
       "num": 96021,
       "word": "王星越在粉丝的夸奖中迷失了自己",
@@ -57449,14 +57497,6 @@
       "onboard_time": 1717860079,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 95752,
-      "num": 95752,
-      "word": "2024年四川高考分数线",
-      "onboard_time": 1719125599,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 95723,
@@ -57593,14 +57633,6 @@
       "onboard_time": 1717301058,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94589,
-      "num": 94589,
-      "word": "Wolves对战MRC",
-      "onboard_time": 1719134237,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 94502,
@@ -57816,14 +57848,6 @@
       "word": "看福宝的最佳时间",
       "onboard_time": 1718146935,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93060,
-      "num": 747291,
-      "word": "扬州是个好地方",
-      "onboard_time": 1719130519,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -59833,6 +59857,14 @@
       "onboard_time": 1718288118,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72650,
+      "num": 178248,
+      "word": "镇雄一考生查分被屏蔽老师激动呐喊",
+      "onboard_time": 1719135199,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 72645,
@@ -66249,6 +66281,14 @@
       "onboard_time": 1718187981,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22750,
+      "num": 176941,
+      "word": "小川粉见到特朗普喜极而泣",
+      "onboard_time": 1719135199,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 22749,
