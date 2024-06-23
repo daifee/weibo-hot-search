@@ -1,7 +1,15 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719128057647,
+  "endTime": 1719130908490,
   "band_list": [
+    {
+      "raw_hot": 2639996,
+      "num": 2639996,
+      "word": "首个高考成绩被屏蔽的人出现了",
+      "onboard_time": 1719126498,
+      "rank": 19,
+      "category": "社会新闻,教育"
+    },
     {
       "raw_hot": 1961268,
       "num": 1961268,
@@ -65,14 +73,6 @@
       "onboard_time": 1719111318,
       "rank": 5,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1159215,
-      "num": 1159215,
-      "word": "首个高考成绩被屏蔽的人出现了",
-      "onboard_time": 1719126498,
-      "rank": 19,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1152737,
@@ -179,6 +179,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 656833,
+      "num": 656833,
+      "word": "赵丽颖曾帮陈晓袁姗姗解围",
+      "onboard_time": 1719126199,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 655630,
       "num": 495867,
       "word": "你好星期六下期有乘风姐姐",
@@ -193,14 +201,6 @@
       "onboard_time": 1719113239,
       "rank": 28,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 630180,
-      "num": 630180,
-      "word": "赵丽颖曾帮陈晓袁姗姗解围",
-      "onboard_time": 1719126199,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 624296,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 535086,
+      "num": 535086,
+      "word": "迪丽热巴大波浪白衬衫",
+      "onboard_time": 1719127037,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 528876,
       "num": 528876,
       "word": "女子称怀孕后公司让她选降薪或辞职",
@@ -267,12 +275,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516837,
+      "num": 516837,
+      "word": "赵兆 编曲",
+      "onboard_time": 1719128597,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 516453,
       "num": 516453,
       "word": "哈利波特本人见了都要愣几秒",
       "onboard_time": 1719121578,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 515838,
+      "num": 515838,
+      "word": "董力前女友",
+      "onboard_time": 1719130279,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 502201,
@@ -299,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492962,
+      "num": 492962,
+      "word": "印度知名演员涉嫌杀人被捕",
+      "onboard_time": 1719124759,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483696,
       "num": 267898,
       "word": "墨雨云间大结局",
@@ -313,14 +345,6 @@
       "onboard_time": 1719098893,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 461976,
-      "num": 461976,
-      "word": "印度知名演员涉嫌杀人被捕",
-      "onboard_time": 1719124759,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 461900,
@@ -355,20 +379,20 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 447566,
-      "num": 447566,
-      "word": "迪丽热巴大波浪白衬衫",
-      "onboard_time": 1719127037,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 440358,
       "num": 440358,
       "word": "医院职工遭电诈后被卫健局处罚",
       "onboard_time": 1719067879,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432728,
+      "num": 432728,
+      "word": "二维码真有用光那一天吗",
+      "onboard_time": 1719128058,
+      "rank": 12,
+      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 430633,
@@ -417,6 +441,14 @@
       "onboard_time": 1719060258,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412917,
+      "num": 412917,
+      "word": "马赛机场偶遇肖战",
+      "onboard_time": 1719128597,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 403654,
@@ -627,6 +659,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 274889,
+      "num": 274889,
+      "word": "男生高考687分假装淡定让家人猜",
+      "onboard_time": 1719126738,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 270103,
+      "num": 270103,
+      "word": "中医建议身弱之人多出去玩",
+      "onboard_time": 1719126617,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 269151,
       "num": 269151,
       "word": "张雪峰回应外语类专业能不能报",
@@ -649,6 +697,14 @@
       "onboard_time": 1719105317,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 264038,
+      "num": 264038,
+      "word": "金珉锡去了张艺兴演唱会",
+      "onboard_time": 1719130578,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 261449,
@@ -713,6 +769,14 @@
       "onboard_time": 1719109876,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 232808,
+      "num": 232808,
+      "word": "长相思男团要合体了",
+      "onboard_time": 1719130578,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 232709,
@@ -851,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200747,
-      "num": 200747,
-      "word": "男生高考687分假装淡定让家人猜",
-      "onboard_time": 1719126738,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 200526,
       "num": 200526,
       "word": "TheShy说BLG虐泉的习惯不好",
@@ -987,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178756,
-      "num": 178756,
-      "word": "中医建议身弱之人多出去玩",
-      "onboard_time": 1719126617,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 178262,
       "num": 649019,
       "word": "女生网上报名支教变成交钱旅游",
@@ -1075,6 +1123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 163604,
+      "num": 163604,
+      "word": "度华年 点燃你温暖我",
+      "onboard_time": 1719129257,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163172,
       "num": 193563,
       "word": "刘亦菲汪俊互关了",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1719121278,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150934,
+      "num": 150934,
+      "word": "男生高考658妈妈质疑问有没有看错",
+      "onboard_time": 1719130157,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 147808,
@@ -1323,6 +1387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127809,
+      "num": 127809,
+      "word": "吴谨言原声台词",
+      "onboard_time": 1719129497,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126655,
       "num": 126655,
       "word": "汪苏泷演唱会温馨提示",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1719114018,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122823,
+      "num": 122823,
+      "word": "安徽煤矿爆炸事故37人被处理",
+      "onboard_time": 1719129858,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122474,
@@ -1459,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115001,
+      "num": 115001,
+      "word": "乐言说JackeyLove是LPL的排面",
+      "onboard_time": 1719130336,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114708,
       "num": 367738,
       "word": "在奥运会见证运动健儿一路逆袭",
@@ -1473,6 +1561,14 @@
       "onboard_time": 1719098893,
       "rank": 42,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114574,
+      "num": 114574,
+      "word": "张远歌手黑白西装花絮",
+      "onboard_time": 1719130039,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 114170,
@@ -1497,6 +1593,14 @@
       "onboard_time": 1719098953,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112015,
+      "num": 112015,
+      "word": "鹅剧派对全阵容",
+      "onboard_time": 1719129318,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 110015,
@@ -1537,6 +1641,14 @@
       "onboard_time": 1719101896,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105327,
+      "num": 105327,
+      "word": "唢呐一响压力给到其他高校",
+      "onboard_time": 1719130698,
+      "rank": 49,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 104384,
@@ -1795,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61551,
+      "num": 516144,
+      "word": "7天支教团竟被安排4天观光",
+      "onboard_time": 1719129617,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58812,
       "num": 453116,
       "word": "一句话形容你高考查分心情",
@@ -1931,6 +2051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32709,
+      "num": 747291,
+      "word": "扬州是个好地方",
+      "onboard_time": 1719130519,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32310,
       "num": 36464,
       "word": "薛之谦徐州演唱会赶上人工降雨",
@@ -2058,6 +2186,9 @@
     },
     {
       "word": "#加快建设美丽新宁夏#"
+    },
+    {
+      "word": "#青海宁夏之行总书记关注这条主线#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 15:34:17
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 16:21:48
 </p>
 </blockquote>
 <p>
@@ -269,6 +269,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%20%E7%BA%BF%E4%B8%8B%E5%85%8D%E8%B4%B9%E7%BA%BF%E4%B8%8A%E6%94%B6%E8%B4%B9%23" target="weibo">
 爱奇艺 线下免费线上收费（热度：2659994）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+首个高考成绩被屏蔽的人出现了（热度：2639996）
 </a>
 </li>
 
@@ -2405,12 +2411,6 @@ Manner咖啡（热度：1202482）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%20%E6%88%91%E6%89%BF%E8%AE%A4%E6%88%91%E9%94%99%E4%BA%86%23" target="weibo">
 于正 我承认我错了（热度：1160740）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
-首个高考成绩被屏蔽的人出现了（热度：1159215）
 </a>
 </li>
 
@@ -6473,6 +6473,12 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E7%BE%8E%E4%B8%BD%E6%96%B0%E5%AE%81%E5%A4%8F%23%23" target="weibo">
 #加快建设美丽新宁夏#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E9%9D%92%E6%B5%B7%E5%AE%81%E5%A4%8F%E4%B9%8B%E8%A1%8C%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%85%B3%E6%B3%A8%E8%BF%99%E6%9D%A1%E4%B8%BB%E7%BA%BF%23%23" target="weibo">
+#青海宁夏之行总书记关注这条主线#
 </a>
 </li>
 
