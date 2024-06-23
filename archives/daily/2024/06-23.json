@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719123942629,
+  "endTime": 1719124673312,
   "band_list": [
     {
       "raw_hot": 1961268,
@@ -139,6 +139,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 712554,
+      "num": 534645,
+      "word": "菲自曝被中国海警缴枪的是顶级特种部队",
+      "onboard_time": 1719121458,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 701947,
+      "num": 701947,
+      "word": "丁真骂人真高级",
+      "onboard_time": 1719117917,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 700655,
       "num": 700655,
       "word": "阿里巴巴全球数学竞赛决赛试题公布",
@@ -147,12 +163,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 693505,
-      "num": 458323,
-      "word": "菲自曝被中国海警缴枪的是顶级特种部队",
-      "onboard_time": 1719121458,
-      "rank": 10,
-      "category": "国内时政"
+      "raw_hot": 673784,
+      "num": 271135,
+      "word": "孙怡曾喝多了睡在草丛里",
+      "onboard_time": 1719122897,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 655630,
@@ -187,14 +203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 590828,
-      "num": 588651,
-      "word": "丁真骂人真高级",
-      "onboard_time": 1719117917,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 557553,
       "num": 557553,
       "word": "腾讯大会",
@@ -227,12 +235,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 530407,
+      "num": 530407,
+      "word": "蔡磊进ICU妻子20天暴瘦十斤",
+      "onboard_time": 1719118639,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 528876,
       "num": 528876,
       "word": "女子称怀孕后公司让她选降薪或辞职",
       "onboard_time": 1719113057,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 507977,
+      "num": 507977,
+      "word": "哈利波特本人见了都要愣几秒",
+      "onboard_time": 1719121578,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 502201,
@@ -259,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 488020,
-      "num": 271135,
-      "word": "孙怡曾喝多了睡在草丛里",
-      "onboard_time": 1719122897,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 483696,
       "num": 267898,
       "word": "墨雨云间大结局",
@@ -281,6 +297,14 @@
       "onboard_time": 1719098893,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 461900,
+      "num": 461900,
+      "word": "周也演技",
+      "onboard_time": 1719121098,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 453612,
@@ -299,28 +323,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 441042,
-      "num": 441042,
-      "word": "周也演技",
-      "onboard_time": 1719121098,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 440358,
       "num": 440358,
       "word": "医院职工遭电诈后被卫健局处罚",
       "onboard_time": 1719067879,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440227,
-      "num": 164054,
-      "word": "哈利波特本人见了都要愣几秒",
-      "onboard_time": 1719121578,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 430633,
@@ -409,14 +417,6 @@
       "onboard_time": 1719110838,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 378739,
-      "num": 378739,
-      "word": "蔡磊进ICU妻子20天暴瘦十斤",
-      "onboard_time": 1719118639,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 374994,
@@ -539,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316239,
+      "num": 316239,
+      "word": "李梦太美了",
+      "onboard_time": 1719122897,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307285,
       "num": 307285,
       "word": "萧蘅成亲爽成了王星越",
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245841,
+      "num": 245841,
+      "word": "霉霉家中写歌时厨房起火",
+      "onboard_time": 1719122777,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243104,
       "num": 197645,
       "word": "李飞谈TFBOYS的遗憾",
@@ -667,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228689,
+      "num": 246971,
+      "word": "为何有些女性怀孕后还会规律来月经",
+      "onboard_time": 1719119839,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 228363,
       "num": 228363,
       "word": "佩佩 越老越妖",
@@ -683,36 +707,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 224378,
-      "num": 224378,
-      "word": "霉霉家中写歌时厨房起火",
-      "onboard_time": 1719122777,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 222406,
       "num": 222406,
       "word": "Gemini红温",
       "onboard_time": 1719104357,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 220412,
-      "num": 246971,
-      "word": "为何有些女性怀孕后还会规律来月经",
-      "onboard_time": 1719119839,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 219164,
-      "num": 219164,
-      "word": "李梦太美了",
-      "onboard_time": 1719122897,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 217661,
@@ -761,6 +761,14 @@
       "onboard_time": 1719068479,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 202574,
+      "num": 190510,
+      "word": "鹅剧派对",
+      "onboard_time": 1719123618,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 200526,
@@ -817,14 +825,6 @@
       "onboard_time": 1719119419,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190510,
-      "num": 190510,
-      "word": "鹅剧派对",
-      "onboard_time": 1719123618,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 189838,
@@ -995,6 +995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159232,
+      "num": 146103,
+      "word": "爷爷去世前的早上还在出海打渔",
+      "onboard_time": 1719123438,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158140,
       "num": 158140,
       "word": "赵丽颖杨单合作",
@@ -1059,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146243,
+      "num": 146243,
+      "word": "上海高考查分",
+      "onboard_time": 1719123018,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 144719,
       "num": 144719,
       "word": "墨雨云间超前点映被吐槽太贵",
@@ -1115,6 +1131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 135903,
+      "num": 135903,
+      "word": "训练了三遍才知道扔鞋子",
+      "onboard_time": 1719122297,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135393,
       "num": 135393,
       "word": "墨雨云间你这样变装王星越知道吗",
@@ -1139,20 +1163,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134169,
-      "num": 134169,
-      "word": "上海高考查分",
-      "onboard_time": 1719123018,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 133542,
       "num": 133542,
       "word": "南烟斋笔录 额头吻",
       "onboard_time": 1719122417,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133492,
+      "num": 133492,
+      "word": "章昊扛过内娱镜头没扛过自己的",
+      "onboard_time": 1719124518,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 132049,
@@ -1163,12 +1187,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 131972,
-      "num": 131972,
-      "word": "训练了三遍才知道扔鞋子",
-      "onboard_time": 1719122297,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 131672,
+      "num": 131672,
+      "word": "张雪峰给高考查分同学的一封信",
+      "onboard_time": 1719121758,
+      "rank": 38,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 129756,
@@ -1177,14 +1201,6 @@
       "onboard_time": 1719069679,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 128901,
-      "num": 128901,
-      "word": "爷爷去世前的早上还在出海打渔",
-      "onboard_time": 1719123438,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 126655,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1719121278,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125205,
+      "num": 459092,
+      "word": "谈钱羞耻是一种什么感受",
+      "onboard_time": 1719122417,
+      "rank": 9,
+      "category": "社会议题"
     },
     {
       "raw_hot": 123636,
@@ -1355,6 +1379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110015,
+      "num": 110015,
+      "word": "泼水男模特让周扬青失去表情管理",
+      "onboard_time": 1719123978,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108579,
       "num": 192669,
       "word": "大运河博物馆展览了隋炀帝的蛀牙",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1719065779,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 107426,
+      "num": 107426,
+      "word": "吴谨言我漂亮吧嗓子换的",
+      "onboard_time": 1719124579,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 106676,
@@ -1537,14 +1577,6 @@
       "onboard_time": 1719056957,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73768,
-      "num": 459092,
-      "word": "谈钱羞耻是一种什么感受",
-      "onboard_time": 1719122417,
-      "rank": 9,
-      "category": "社会议题"
     },
     {
       "raw_hot": 72767,
