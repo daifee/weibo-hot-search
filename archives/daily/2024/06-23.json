@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719110184418,
+  "endTime": 1719110737421,
   "band_list": [
     {
       "raw_hot": 1934203,
@@ -19,20 +19,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1720066,
+      "num": 1720066,
+      "word": "女生高考查分669激动掩面哭泣",
+      "onboard_time": 1719109218,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1658551,
       "num": 1658551,
       "word": "母亲欲取过世儿子存款被拒起诉银行",
       "onboard_time": 1719105497,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1477033,
-      "num": 1477033,
-      "word": "女生高考查分669激动掩面哭泣",
-      "onboard_time": 1719109218,
-      "rank": 3,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1152737,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 692737,
+      "num": 692737,
+      "word": "庄国栋也找到了黄亦玫的秘密基地",
+      "onboard_time": 1719109578,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655630,
       "num": 495867,
       "word": "你好星期六下期有乘风姐姐",
@@ -105,6 +113,14 @@
       "onboard_time": 1719057258,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 511179,
+      "num": 226398,
+      "word": "韩国花滑丑闻",
+      "onboard_time": 1719109157,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 493993,
@@ -179,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403654,
+      "num": 227239,
+      "word": "家里出现小霉点身体可能要遭殃",
+      "onboard_time": 1719105617,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 389975,
       "num": 389975,
       "word": "豆瓣崩了",
@@ -193,14 +217,6 @@
       "onboard_time": 1719104236,
       "rank": 18,
       "category": "科学科普,运动健身"
-    },
-    {
-      "raw_hot": 382815,
-      "num": 227239,
-      "word": "家里出现小霉点身体可能要遭殃",
-      "onboard_time": 1719105617,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 374994,
@@ -243,8 +259,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 335286,
-      "num": 335286,
+      "raw_hot": 353392,
+      "num": 353392,
       "word": "Manner去年仅1225人缴纳五险",
       "onboard_time": 1719107956,
       "rank": 11,
@@ -256,22 +272,6 @@
       "word": "于正墨雨云间收官文",
       "onboard_time": 1719070878,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 329940,
-      "num": 226398,
-      "word": "韩国花滑丑闻",
-      "onboard_time": 1719109157,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 329712,
-      "num": 329712,
-      "word": "庄国栋也找到了黄亦玫的秘密基地",
-      "onboard_time": 1719109578,
-      "rank": 12,
       "category": "剧集"
     },
     {
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316730,
+      "num": 316730,
+      "word": "男子至尊精油开背后心肌梗塞死亡",
+      "onboard_time": 1719105437,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 307285,
       "num": 307285,
       "word": "萧蘅成亲爽成了王星越",
@@ -323,12 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 290823,
-      "num": 290823,
-      "word": "男子至尊精油开背后心肌梗塞死亡",
-      "onboard_time": 1719105437,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 286649,
+      "num": 286649,
+      "word": "刘亦菲下部戏是南烟斋笔录",
+      "onboard_time": 1719110417,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 285924,
@@ -337,6 +345,14 @@
       "onboard_time": 1719098893,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284923,
+      "num": 199552,
+      "word": "茶百道",
+      "onboard_time": 1719110177,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 276660,
@@ -353,6 +369,14 @@
       "onboard_time": 1719105317,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 249047,
+      "num": 249047,
+      "word": "2024内蒙古高考分数线",
+      "onboard_time": 1719109157,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 246122,
@@ -387,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 237750,
+      "num": 199536,
+      "word": "香缇莫穿新中式汉服",
+      "onboard_time": 1719109876,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -403,12 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228350,
-      "num": 228350,
-      "word": "2024内蒙古高考分数线",
-      "onboard_time": 1719109157,
-      "rank": 19,
-      "category": "教育,社会新闻"
+      "raw_hot": 224874,
+      "num": 224874,
+      "word": "张雪峰回应外语类专业能不能报",
+      "onboard_time": 1719109218,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 222406,
@@ -465,6 +497,14 @@
       "onboard_time": 1719109218,
       "rank": 30,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 197080,
+      "num": 197080,
+      "word": "吴谨言王星越P图告别墨雨云间",
+      "onboard_time": 1719110056,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 193986,
@@ -547,28 +587,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 171263,
-      "num": 143750,
-      "word": "吴谨言王星越P图告别墨雨云间",
-      "onboard_time": 1719110056,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170080,
       "num": 193970,
       "word": "云边有个小卖部 he",
       "onboard_time": 1719056178,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169064,
-      "num": 169064,
-      "word": "张雪峰回应外语类专业能不能报",
-      "onboard_time": 1719109218,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 164330,
@@ -595,12 +619,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161067,
+      "num": 161067,
+      "word": "宁夏文科一本分数线496理科432",
+      "onboard_time": 1719110177,
+      "rank": 36,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 160782,
       "num": 193511,
       "word": "凤凰传奇演唱会",
       "onboard_time": 1719070878,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156145,
+      "num": 156145,
+      "word": "丁真一个人锯了所有木头",
+      "onboard_time": 1719110298,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 154157,
@@ -659,14 +699,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142444,
-      "num": 142444,
-      "word": "香缇莫穿新中式汉服",
-      "onboard_time": 1719109876,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134266,
       "num": 192950,
       "word": "中传教授认为朱一龙适合演罗辑",
@@ -697,6 +729,14 @@
       "onboard_time": 1719097692,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125721,
+      "num": 125721,
+      "word": "湖南新晃山体滑坡致8人失联",
+      "onboard_time": 1719110539,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 123636,
@@ -843,7 +883,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92480,
+      "raw_hot": 92580,
       "num": 134090,
       "word": "王源骄傲大合唱太好哭了",
       "onboard_time": 1719109038,
@@ -923,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71168,
+      "num": 337099,
+      "word": "小哥接到女子代买敌敌畏订单立马报警",
+      "onboard_time": 1719104537,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 69516,
       "num": 192030,
       "word": "波兰总统抵达北京",
@@ -984,14 +1032,6 @@
       "word": "留置针导管在婴儿血管里漂移5年",
       "onboard_time": 1719030557,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55028,
-      "num": 337099,
-      "word": "小哥接到女子代买敌敌畏订单立马报警",
-      "onboard_time": 1719104537,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1083,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33234,
+      "num": 337509,
+      "word": "轿车落水黑衣男子一路飞奔跳水救人",
+      "onboard_time": 1719109278,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32310,
       "num": 36464,
       "word": "薛之谦徐州演唱会赶上人工降雨",
@@ -1116,7 +1164,7 @@
     },
     {
       "raw_hot": 17613,
-      "num": 1483301,
+      "num": 1615974,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 2,
