@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719174870826,
+  "endTime": 1719177425744,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -59683,6 +59683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83730,
+      "num": 83730,
+      "word": "瑞士vs德国",
+      "onboard_time": 1719161175,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83526,
       "num": 376949,
       "word": "中专数学老师课堂上播姜萍",
@@ -61915,14 +61923,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63468,
-      "num": 63468,
-      "word": "瑞士vs德国",
-      "onboard_time": 1719161175,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63423,
       "num": 63423,
       "word": "姆巴佩好拼",
@@ -62747,6 +62747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57127,
+      "num": 57127,
+      "word": "于正说以后他所有的剧全部明确HE",
+      "onboard_time": 1719171552,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57097,
       "num": 57097,
       "word": "c1ubab詹詹",
@@ -62960,6 +62968,14 @@
       "word": "大学生的愿望清单",
       "onboard_time": 1717838178,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55810,
+      "num": 22376,
+      "word": "男生查分被屏蔽淡定向家人报喜",
+      "onboard_time": 1719172270,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -63729,6 +63745,14 @@
       "onboard_time": 1717298238,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49606,
+      "num": 49606,
+      "word": "苏格兰vs匈牙利",
+      "onboard_time": 1719163994,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 49479,
@@ -65011,14 +65035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39629,
-      "num": 39629,
-      "word": "于正说以后他所有的剧全部明确HE",
-      "onboard_time": 1719171552,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39627,
       "num": 39627,
       "word": "粽子cos",
@@ -66075,14 +66091,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32290,
-      "num": 46379,
-      "word": "苏格兰vs匈牙利",
-      "onboard_time": 1719163994,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32136,
       "num": 304600,
       "word": "萌兰端午喜提降噪神器",
@@ -66465,14 +66473,6 @@
       "onboard_time": 1718406735,
       "rank": 9,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 29470,
-      "num": 21960,
-      "word": "男生查分被屏蔽淡定向家人报喜",
-      "onboard_time": 1719172270,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29418,
@@ -66955,6 +66955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26478,
+      "num": 26478,
+      "word": "陈都灵买过刘诗诗步步惊心周边",
+      "onboard_time": 1719173470,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26321,
       "num": 265837,
       "word": "黄文秀的心愿在一个个实现",
@@ -67323,14 +67331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22982,
-      "num": 22982,
-      "word": "陈都灵买过刘诗诗步步惊心周边",
-      "onboard_time": 1719173470,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22906,
       "num": 194880,
       "word": "今天为35.55万重庆中考学子加油",
@@ -67657,6 +67657,14 @@
       "onboard_time": 1719138977,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20439,
+      "num": 20439,
+      "word": "菲律宾蓄意闹海",
+      "onboard_time": 1719174491,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 20394,
@@ -68283,6 +68291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 14723,
+      "num": 16023,
+      "word": "不翻车的小短甲",
+      "onboard_time": 1719174311,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 14613,
       "num": 215328,
       "word": "学校六一演出全场被孤勇者硬控",
@@ -68339,12 +68355,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14126,
-      "num": 15624,
-      "word": "不翻车的小短甲",
-      "onboard_time": 1719174311,
-      "rank": 48,
-      "category": "美妆"
+      "raw_hot": 14140,
+      "num": 16020,
+      "word": "小锅米线",
+      "onboard_time": 1719172691,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 14034,
@@ -68353,6 +68369,14 @@
       "onboard_time": 1718622737,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13982,
+      "num": 16012,
+      "word": "美国vs玻利维亚",
+      "onboard_time": 1719175929,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 13967,

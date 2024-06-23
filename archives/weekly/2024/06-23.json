@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719174870826,
+  "endTime": 1719177425744,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -2907,6 +2907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83730,
+      "num": 83730,
+      "word": "瑞士vs德国",
+      "onboard_time": 1719161175,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83113,
       "num": 83113,
       "word": "土耳其乌龙球",
@@ -3051,14 +3059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63468,
-      "num": 63468,
-      "word": "瑞士vs德国",
-      "onboard_time": 1719161175,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62208,
       "num": 62208,
       "word": "刘亦菲素颜英文试镜",
@@ -3083,6 +3083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57127,
+      "num": 57127,
+      "word": "于正说以后他所有的剧全部明确HE",
+      "onboard_time": 1719171552,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56694,
       "num": 191833,
       "word": "留置针导管在婴儿血管里漂移5年",
@@ -3096,6 +3104,14 @@
       "word": "抗美援朝经典电影演员真的上过战场",
       "onboard_time": 1719151459,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 55810,
+      "num": 22376,
+      "word": "男生查分被屏蔽淡定向家人报喜",
+      "onboard_time": 1719172270,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3128,6 +3144,14 @@
       "word": "葡萄牙晋级欧洲杯16强",
       "onboard_time": 1719097751,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49606,
+      "num": 49606,
+      "word": "苏格兰vs匈牙利",
+      "onboard_time": 1719163994,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3169,14 +3193,6 @@
       "onboard_time": 1719153500,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39629,
-      "num": 39629,
-      "word": "于正说以后他所有的剧全部明确HE",
-      "onboard_time": 1719171552,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 38287,
@@ -3259,14 +3275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 32290,
-      "num": 46379,
-      "word": "苏格兰vs匈牙利",
-      "onboard_time": 1719163994,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 31954,
       "num": 530597,
       "word": "3招教你挑报恩榴莲",
@@ -3281,14 +3289,6 @@
       "onboard_time": 1719112038,
       "rank": 9,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 29470,
-      "num": 21960,
-      "word": "男生查分被屏蔽淡定向家人报喜",
-      "onboard_time": 1719172270,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29292,
@@ -3339,6 +3339,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 26478,
+      "num": 26478,
+      "word": "陈都灵买过刘诗诗步步惊心周边",
+      "onboard_time": 1719173470,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25372,
       "num": 416257,
       "word": "微博文化之夜年度荣誉",
@@ -3353,14 +3361,6 @@
       "onboard_time": 1719088571,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22982,
-      "num": 22982,
-      "word": "陈都灵买过刘诗诗步步惊心周边",
-      "onboard_time": 1719173470,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 22750,
@@ -3385,6 +3385,14 @@
       "onboard_time": 1719138977,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20439,
+      "num": 20439,
+      "word": "菲律宾蓄意闹海",
+      "onboard_time": 1719174491,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 18457,
@@ -3443,12 +3451,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14126,
-      "num": 15624,
+      "raw_hot": 14723,
+      "num": 16023,
       "word": "不翻车的小短甲",
       "onboard_time": 1719174311,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 14140,
+      "num": 16020,
+      "word": "小锅米线",
+      "onboard_time": 1719172691,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 13982,
+      "num": 16012,
+      "word": "美国vs玻利维亚",
+      "onboard_time": 1719175929,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 13629,
