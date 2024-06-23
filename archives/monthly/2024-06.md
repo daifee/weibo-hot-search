@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 18:36:01
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 19:15:01
 </p>
 </blockquote>
 <p>
@@ -3831,6 +3831,12 @@ iPhone15多次降价重回销量榜第一（热度：915943）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%9B%B6%E7%82%B9%E6%9F%A5%E5%88%86%E7%AB%9F%E5%92%8C%E5%A6%88%E5%A6%88%E6%A2%A6%E7%9A%84%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23" target="weibo">
+女儿零点查分竟和妈妈梦的一模一样（热度：894800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E7%BA%BF%E4%B8%8B%E7%94%9F%E5%9B%BE%E7%8A%B6%E6%80%81%23" target="weibo">
 Angelababy线下生图状态（热度：891895）
 </a>
@@ -4575,6 +4581,12 @@ canteen我恨你（热度：798300）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E4%BB%96%E4%BB%AC3%E5%B0%8F%E6%97%B6%E8%BF%9B%E5%B8%90%E4%B8%8A%E4%BA%BF%23" target="weibo">
+高考后他们3小时进帐上亿（热度：790440）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BD%AD%E5%86%A0%E8%8B%B12%E9%9B%86%E4%BA%B2%E4%BA%8615%E6%AC%A1%23" target="weibo">
 刘亦菲彭冠英2集亲了15次（热度：789946）
 </a>
@@ -5195,12 +5207,6 @@ Jennie走秀（热度：742682）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%23" target="weibo">
 多地高考结束（热度：735893）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%9B%B6%E7%82%B9%E6%9F%A5%E5%88%86%E7%AB%9F%E5%92%8C%E5%A6%88%E5%A6%88%E6%A2%A6%E7%9A%84%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23" target="weibo">
-女儿零点查分竟和妈妈梦的一模一样（热度：735097）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E8%BD%B0%E7%82%B8%E5%8A%A0%E6%B2%99%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%87%B4%E8%87%B3%E5%B0%9130%E6%AD%BB%23" target="weibo">
 以军轰炸加沙一学校致至少30死（热度：677332）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%E5%A5%BD%E7%89%9B%23" target="weibo">
-朱婷好牛（热度：677065）
 </a>
 </li>
 
