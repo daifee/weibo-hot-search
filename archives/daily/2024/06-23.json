@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719131664383,
+  "endTime": 1719134421053,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 767969,
+      "num": 190863,
+      "word": "高考成绩被亲戚擅自发到家人群",
+      "onboard_time": 1719132799,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 761910,
       "num": 761910,
       "word": "教师还是铁饭碗吗",
@@ -161,6 +169,14 @@
       "onboard_time": 1719102256,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 716717,
+      "num": 716717,
+      "word": "林志玲开球",
+      "onboard_time": 1719131238,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 712554,
@@ -243,6 +259,14 @@
       "category": "互联网,剧集"
     },
     {
+      "raw_hot": 555452,
+      "num": 555452,
+      "word": "二维码真有用光那一天吗",
+      "onboard_time": 1719128058,
+      "rank": 12,
+      "category": "互联网,科学科普"
+    },
+    {
       "raw_hot": 550102,
       "num": 550102,
       "word": "迪丽热巴大波浪白衬衫",
@@ -275,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 534009,
-      "num": 432728,
-      "word": "二维码真有用光那一天吗",
-      "onboard_time": 1719128058,
-      "rank": 12,
-      "category": "互联网,科学科普"
-    },
-    {
       "raw_hot": 528876,
       "num": 528876,
       "word": "女子称怀孕后公司让她选降薪或辞职",
@@ -305,6 +321,14 @@
       "onboard_time": 1719121578,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 515545,
+      "num": 515545,
+      "word": "黄振华苏苏有一个儿子",
+      "onboard_time": 1719131957,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 502201,
@@ -483,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380834,
+      "num": 380834,
+      "word": "董璇女儿cos姜梨",
+      "onboard_time": 1719133158,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379997,
       "num": 379997,
       "word": "金珉锡去了张艺兴演唱会",
@@ -547,12 +579,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357701,
+      "num": 357701,
+      "word": "长相思男团要合体了",
+      "onboard_time": 1719130578,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357524,
       "num": 226687,
       "word": "和妻子结婚后有了一群不扫兴的家人",
       "onboard_time": 1719105557,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 357402,
+      "num": 357402,
+      "word": "男生高考687分假装淡定让家人猜",
+      "onboard_time": 1719126738,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 356189,
@@ -571,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 340013,
-      "num": 340013,
-      "word": "男生高考687分假装淡定让家人猜",
-      "onboard_time": 1719126738,
-      "rank": 38,
-      "category": "社会新闻,教育"
+      "raw_hot": 339799,
+      "num": 339799,
+      "word": "中医建议身弱之人多出去玩",
+      "onboard_time": 1719126617,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 337423,
@@ -635,14 +683,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309829,
-      "num": 309829,
-      "word": "中医建议身弱之人多出去玩",
-      "onboard_time": 1719126617,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 307285,
       "num": 307285,
       "word": "萧蘅成亲爽成了王星越",
@@ -673,14 +713,6 @@
       "onboard_time": 1719098893,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 285424,
-      "num": 266148,
-      "word": "长相思男团要合体了",
-      "onboard_time": 1719130578,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 276660,
@@ -723,12 +755,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 255038,
-      "num": 255038,
-      "word": "林志玲开球",
-      "onboard_time": 1719131238,
-      "rank": 24,
-      "category": "体育,艺人"
+      "raw_hot": 260054,
+      "num": 202674,
+      "word": "乌尔善五十岁迷上了国漫",
+      "onboard_time": 1719131000,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 249047,
@@ -785,6 +817,14 @@
       "onboard_time": 1719109876,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237349,
+      "num": 186872,
+      "word": "王涛自己发吻戏给前夫哥看",
+      "onboard_time": 1719133218,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 232709,
@@ -899,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203673,
+      "num": 515618,
+      "word": "女儿零点查分竟和妈妈梦的一模一样",
+      "onboard_time": 1719132737,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202832,
       "num": 202832,
       "word": "章昊扛过内娱镜头没扛过自己的",
@@ -913,14 +961,6 @@
       "onboard_time": 1719068479,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 202674,
-      "num": 202674,
-      "word": "乌尔善五十岁迷上了国漫",
-      "onboard_time": 1719131000,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 202574,
@@ -969,6 +1009,14 @@
       "onboard_time": 1719115999,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191850,
+      "num": 184977,
+      "word": "孙怡跟不上小孩姐的city",
+      "onboard_time": 1719133337,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191771,
@@ -1395,6 +1443,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 130776,
+      "num": 130776,
+      "word": "墨雨云间云合播放量TOP1",
+      "onboard_time": 1719133158,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129760,
       "num": 129760,
       "word": "沈月问王星越到底多小",
@@ -1564,7 +1620,7 @@
     },
     {
       "raw_hot": 115001,
-      "num": 115001,
+      "num": 115865,
       "word": "乐言说JackeyLove是LPL的排面",
       "onboard_time": 1719130336,
       "rank": 46,
@@ -1649,6 +1705,14 @@
       "onboard_time": 1719131177,
       "rank": 44,
       "category": "游戏,美食"
+    },
+    {
+      "raw_hot": 108794,
+      "num": 108794,
+      "word": "王星越赵昭仪陈鑫海同框唱歌",
+      "onboard_time": 1719133218,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 108579,
@@ -1795,12 +1859,36 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 96920,
+      "num": 96920,
+      "word": "张雪峰建议学人工智能一定要读研",
+      "onboard_time": 1719134298,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 95752,
       "num": 95752,
       "word": "2024年四川高考分数线",
       "onboard_time": 1719125599,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 94589,
+      "num": 94589,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1719134237,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 93060,
+      "num": 747291,
+      "word": "扬州是个好地方",
+      "onboard_time": 1719130519,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92580,
@@ -1811,12 +1899,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91695,
+      "num": 91695,
+      "word": "珠峰的日照金山",
+      "onboard_time": 1719132799,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 89171,
       "num": 193278,
       "word": "格鲁吉亚vs捷克",
       "onboard_time": 1719062299,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88097,
+      "num": 88097,
+      "word": "到底每天掉多少根头发才算脱发",
+      "onboard_time": 1719133818,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83778,
@@ -1881,14 +1985,6 @@
       "onboard_time": 1719056957,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 73290,
-      "num": 747291,
-      "word": "扬州是个好地方",
-      "onboard_time": 1719130519,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 72767,

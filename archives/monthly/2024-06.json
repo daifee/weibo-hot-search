@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719131664383,
+  "endTime": 1719134421053,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -6323,6 +6323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 767969,
+      "num": 190863,
+      "word": "高考成绩被亲戚擅自发到家人群",
+      "onboard_time": 1719132799,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 767733,
       "num": 767733,
       "word": "早睡真能解决生活中大部分的问题",
@@ -7233,6 +7241,14 @@
       "onboard_time": 1718406735,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 716717,
+      "num": 716717,
+      "word": "林志玲开球",
+      "onboard_time": 1719131238,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 716598,
@@ -10739,6 +10755,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 555452,
+      "num": 555452,
+      "word": "二维码真有用光那一天吗",
+      "onboard_time": 1719128058,
+      "rank": 12,
+      "category": "互联网,科学科普"
+    },
+    {
       "raw_hot": 555388,
       "num": 555388,
       "word": "JDG进军KPL",
@@ -11329,14 +11353,6 @@
       "onboard_time": 1718023999,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 534009,
-      "num": 432728,
-      "word": "二维码真有用光那一天吗",
-      "onboard_time": 1719128058,
-      "rank": 12,
-      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 533641,
@@ -12017,6 +12033,14 @@
       "onboard_time": 1717959731,
       "rank": 13,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 515545,
+      "num": 515545,
+      "word": "黄振华苏苏有一个儿子",
+      "onboard_time": 1719131957,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 515490,
@@ -17307,6 +17331,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 380834,
+      "num": 380834,
+      "word": "董璇女儿cos姜梨",
+      "onboard_time": 1719133158,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380817,
       "num": 380817,
       "word": "愿与愁",
@@ -18475,6 +18507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 357701,
+      "num": 357701,
+      "word": "长相思男团要合体了",
+      "onboard_time": 1719130578,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357587,
       "num": 211940,
       "word": "杨紫李现国色芳华没有停拍",
@@ -18497,6 +18537,14 @@
       "onboard_time": 1719030017,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 357402,
+      "num": 357402,
+      "word": "男生高考687分假装淡定让家人猜",
+      "onboard_time": 1719126738,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 357187,
@@ -19483,14 +19531,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 340013,
-      "num": 340013,
-      "word": "男生高考687分假装淡定让家人猜",
-      "onboard_time": 1719126738,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 339968,
       "num": 339968,
       "word": "甲卷英语 简单",
@@ -19505,6 +19545,14 @@
       "onboard_time": 1718857220,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 339799,
+      "num": 339799,
+      "word": "中医建议身弱之人多出去玩",
+      "onboard_time": 1719126617,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 339764,
@@ -21225,14 +21273,6 @@
       "onboard_time": 1717250780,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 309829,
-      "num": 309829,
-      "word": "中医建议身弱之人多出去玩",
-      "onboard_time": 1719126617,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 309613,
@@ -22977,14 +23017,6 @@
       "onboard_time": 1717382537,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 285424,
-      "num": 266148,
-      "word": "长相思男团要合体了",
-      "onboard_time": 1719130578,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 285422,
@@ -24931,6 +24963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260054,
+      "num": 202674,
+      "word": "乌尔善五十岁迷上了国漫",
+      "onboard_time": 1719131000,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 260042,
       "num": 207678,
       "word": "张艺兴24岁时街头运动风妆造",
@@ -25281,14 +25321,6 @@
       "onboard_time": 1717394058,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255038,
-      "num": 255038,
-      "word": "林志玲开球",
-      "onboard_time": 1719131238,
-      "rank": 24,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 255018,
@@ -26849,6 +26881,14 @@
       "onboard_time": 1717421059,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237349,
+      "num": 186872,
+      "word": "王涛自己发吻戏给前夫哥看",
+      "onboard_time": 1719133218,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 237307,
@@ -31603,6 +31643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203673,
+      "num": 515618,
+      "word": "女儿零点查分竟和妈妈梦的一模一样",
+      "onboard_time": 1719132737,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203584,
       "num": 203584,
       "word": "腾讯视频回应胡歌",
@@ -31817,14 +31865,6 @@
       "onboard_time": 1718071637,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202674,
-      "num": 202674,
-      "word": "乌尔善五十岁迷上了国漫",
-      "onboard_time": 1719131000,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 202625,
@@ -34505,6 +34545,14 @@
       "onboard_time": 1717240638,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191850,
+      "num": 184977,
+      "word": "孙怡跟不上小孩姐的city",
+      "onboard_time": 1719133337,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 191801,
@@ -49027,6 +49075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130776,
+      "num": 130776,
+      "word": "墨雨云间云合播放量TOP1",
+      "onboard_time": 1719133158,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130744,
       "num": 130744,
       "word": "为啥绿豆汤有红有绿",
@@ -53444,7 +53500,7 @@
     },
     {
       "raw_hot": 115001,
-      "num": 115001,
+      "num": 115865,
       "word": "乐言说JackeyLove是LPL的排面",
       "onboard_time": 1719130336,
       "rank": 46,
@@ -54873,6 +54929,14 @@
       "onboard_time": 1717477219,
       "rank": 9,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 108794,
+      "num": 108794,
+      "word": "王星越赵昭仪陈鑫海同框唱歌",
+      "onboard_time": 1719133218,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 108775,
@@ -57195,6 +57259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96920,
+      "num": 96920,
+      "word": "张雪峰建议学人工智能一定要读研",
+      "onboard_time": 1719134298,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 96916,
       "num": 234863,
       "word": "麦门的风还是吹到了时尚圈",
@@ -57523,6 +57595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 94589,
+      "num": 94589,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1719134237,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94502,
       "num": 235074,
       "word": "福建暴雨武警消防徒步给村民送物资",
@@ -57739,6 +57819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93060,
+      "num": 747291,
+      "word": "扬州是个好地方",
+      "onboard_time": 1719130519,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92945,
       "num": 92945,
       "word": "郑钦文战胜大坂直美",
@@ -57832,6 +57920,14 @@
       "word": "现在去澳大利亚有多值",
       "onboard_time": 1718771783,
       "rank": 49,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 91695,
+      "num": 91695,
+      "word": "珠峰的日照金山",
+      "onboard_time": 1719132799,
+      "rank": 48,
       "category": "旅游"
     },
     {
@@ -58177,6 +58273,14 @@
       "onboard_time": 1718662272,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88097,
+      "num": 88097,
+      "word": "到底每天掉多少根头发才算脱发",
+      "onboard_time": 1719133818,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87914,
@@ -59673,14 +59777,6 @@
       "onboard_time": 1718251399,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 73290,
-      "num": 747291,
-      "word": "扬州是个好地方",
-      "onboard_time": 1719130519,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 73281,

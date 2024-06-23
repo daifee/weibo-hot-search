@@ -1,0 +1,410 @@
+{
+  "runTime": 1719134421053,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1888543,
+        "num": 1888543,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 716717,
+        "num": 716717,
+        "word": "林志玲开球",
+        "onboard_time": 1719131238,
+        "rank": 1,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 93060,
+        "num": 660106,
+        "word": "扬州是个好地方",
+        "onboard_time": 1719130519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656851,
+        "num": 656851,
+        "word": "女生高考查分701后质疑自己",
+        "onboard_time": 1719117498,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 566615,
+        "num": 566615,
+        "word": "孙怡曾喝多了睡在草丛里",
+        "onboard_time": 1719122897,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555452,
+        "num": 555452,
+        "word": "二维码真有用光那一天吗",
+        "onboard_time": 1719128058,
+        "rank": 5,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 553155,
+        "num": 553155,
+        "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+        "onboard_time": 1719118997,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 543950,
+        "num": 543950,
+        "word": "女生高考查分669激动掩面哭泣",
+        "onboard_time": 1719109218,
+        "rank": 7,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 480929,
+        "num": 517778,
+        "word": "赵丽颖曾帮陈晓袁姗姗解围",
+        "onboard_time": 1719126199,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203673,
+        "num": 515618,
+        "word": "女儿零点查分竟和妈妈梦的一模一样",
+        "onboard_time": 1719132737,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515545,
+        "num": 515545,
+        "word": "黄振华苏苏有一个儿子",
+        "onboard_time": 1719131957,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485602,
+        "num": 485602,
+        "word": "董力前女友",
+        "onboard_time": 1719130279,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380834,
+        "num": 380834,
+        "word": "董璇女儿cos姜梨",
+        "onboard_time": 1719133158,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357701,
+        "num": 357701,
+        "word": "长相思男团要合体了",
+        "onboard_time": 1719130578,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357402,
+        "num": 357402,
+        "word": "男生高考687分假装淡定让家人猜",
+        "onboard_time": 1719126738,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 339799,
+        "num": 339799,
+        "word": "中医建议身弱之人多出去玩",
+        "onboard_time": 1719126617,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 325936,
+        "num": 325936,
+        "word": "迪丽热巴大波浪白衬衫",
+        "onboard_time": 1719127037,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311041,
+        "num": 311041,
+        "word": "金珉锡去了张艺兴演唱会",
+        "onboard_time": 1719130578,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212876,
+        "num": 212876,
+        "word": "印度知名演员涉嫌杀人被捕",
+        "onboard_time": 1719124759,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191687,
+        "num": 191687,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1719124698,
+        "rank": 19,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 767969,
+        "num": 190863,
+        "word": "高考成绩被亲戚擅自发到家人群",
+        "onboard_time": 1719132799,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295774,
+        "num": 189815,
+        "word": "赵兆 编曲",
+        "onboard_time": 1719128597,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289266,
+        "num": 189714,
+        "word": "马赛机场偶遇肖战",
+        "onboard_time": 1719128597,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260054,
+        "num": 188494,
+        "word": "乌尔善五十岁迷上了国漫",
+        "onboard_time": 1719131000,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237349,
+        "num": 186872,
+        "word": "王涛自己发吻戏给前夫哥看",
+        "onboard_time": 1719133218,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215083,
+        "num": 186699,
+        "word": "哈利波特本人见了都要愣几秒",
+        "onboard_time": 1719121578,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191850,
+        "num": 184977,
+        "word": "孙怡跟不上小孩姐的city",
+        "onboard_time": 1719133337,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184810,
+        "num": 184810,
+        "word": "刘亦菲下部戏是南烟斋笔录",
+        "onboard_time": 1719110417,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147299,
+        "num": 147299,
+        "word": "高考分数线",
+        "onboard_time": 1719111318,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 134443,
+        "num": 134443,
+        "word": "第一批查分的高考生已开始尖叫",
+        "onboard_time": 1719117078,
+        "rank": 29,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 168885,
+        "num": 134196,
+        "word": "李梦太美了",
+        "onboard_time": 1719122897,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132124,
+        "num": 132124,
+        "word": "任嘉伦官宣离开欢瑞世纪",
+        "onboard_time": 1719106157,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130776,
+        "num": 130776,
+        "word": "墨雨云间云合播放量TOP1",
+        "onboard_time": 1719133158,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130651,
+        "num": 130651,
+        "word": "山东不愧是考公大省",
+        "onboard_time": 1719131417,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128692,
+        "num": 128692,
+        "word": "蔡磊进ICU妻子20天暴瘦十斤",
+        "onboard_time": 1719118639,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129001,
+        "num": 126503,
+        "word": "周也演技",
+        "onboard_time": 1719121098,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123282,
+        "num": 123282,
+        "word": "菲自曝被中国海警缴枪的是顶级特种部队",
+        "onboard_time": 1719121458,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118451,
+        "num": 118451,
+        "word": "王俊凯送王源花篮",
+        "onboard_time": 1719120544,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106494,
+        "num": 116029,
+        "word": "男生高考658妈妈质疑问有没有看错",
+        "onboard_time": 1719130157,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 97398,
+        "num": 115865,
+        "word": "乐言说JackeyLove是LPL的排面",
+        "onboard_time": 1719130336,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115862,
+        "num": 115862,
+        "word": "傅家明也住进了方协文心里",
+        "onboard_time": 1719120318,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108794,
+        "num": 108794,
+        "word": "王星越赵昭仪陈鑫海同框唱歌",
+        "onboard_time": 1719133218,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107564,
+        "num": 107564,
+        "word": "度华年 点燃你温暖我",
+        "onboard_time": 1719129257,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96920,
+        "num": 96920,
+        "word": "张雪峰建议学人工智能一定要读研",
+        "onboard_time": 1719134298,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 106749,
+        "num": 96916,
+        "word": "丁真骂人真高级",
+        "onboard_time": 1719117917,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96905,
+        "num": 96905,
+        "word": "7天支教团竟被安排4天观光",
+        "onboard_time": 1719129617,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107265,
+        "num": 96894,
+        "word": "王星越谈被校园霸凌哭了",
+        "onboard_time": 1719118398,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94589,
+        "num": 94589,
+        "word": "Wolves对战MRC",
+        "onboard_time": 1719134237,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91695,
+        "num": 91695,
+        "word": "珠峰的日照金山",
+        "onboard_time": 1719132799,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 88097,
+        "num": 88097,
+        "word": "到底每天掉多少根头发才算脱发",
+        "onboard_time": 1719133818,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#青海宁夏之行总书记关注这条主线#"
+    }
+  }
+}
