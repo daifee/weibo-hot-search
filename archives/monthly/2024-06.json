@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719110737421,
+  "endTime": 1719112856110,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -907,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1830190,
+      "num": 1830190,
+      "word": "女生高考查分669激动掩面哭泣",
+      "onboard_time": 1719109218,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1826767,
       "num": 292419,
       "word": "河南冷藏车八人窒息遇难背后",
@@ -1065,14 +1073,6 @@
       "onboard_time": 1719056417,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1720066,
-      "num": 1720066,
-      "word": "女生高考查分669激动掩面哭泣",
-      "onboard_time": 1719109218,
-      "rank": 3,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1719375,
@@ -3420,7 +3420,7 @@
     },
     {
       "raw_hot": 1127123,
-      "num": 365934,
+      "num": 456967,
       "word": "婚后才发现老公学历骗了我",
       "onboard_time": 1719099494,
       "rank": 10,
@@ -3505,6 +3505,14 @@
       "onboard_time": 1718409616,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1117795,
+      "num": 1117795,
+      "word": "刘亦菲下部戏是南烟斋笔录",
+      "onboard_time": 1719110417,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1117609,
@@ -5131,6 +5139,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 880687,
+      "num": 817316,
+      "word": "庄国栋也找到了黄亦玫的秘密基地",
+      "onboard_time": 1719109578,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 880066,
       "num": 861453,
       "word": "恋爱兄妹最终情侣",
@@ -5185,6 +5201,14 @@
       "onboard_time": 1717377438,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 869784,
+      "num": 869784,
+      "word": "高考分数线",
+      "onboard_time": 1719111318,
+      "rank": 5,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 869342,
@@ -6723,6 +6747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 740679,
+      "num": 296057,
+      "word": "韩国花滑丑闻",
+      "onboard_time": 1719109157,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 740657,
       "num": 740657,
       "word": "结婚离婚都是为了幸福",
@@ -7561,14 +7593,6 @@
       "onboard_time": 1718353819,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 692737,
-      "num": 692737,
-      "word": "庄国栋也找到了黄亦玫的秘密基地",
-      "onboard_time": 1719109578,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 692336,
@@ -12075,14 +12099,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 511179,
-      "num": 226398,
-      "word": "韩国花滑丑闻",
-      "onboard_time": 1719109157,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 510872,
       "num": 254517,
       "word": "毕业月薪六七千我妈说我要求低",
@@ -15131,6 +15147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426447,
+      "num": 426447,
+      "word": "迪丽热巴方发维权声明",
+      "onboard_time": 1719111618,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426119,
       "num": 426119,
       "word": "刘亦菲没待播剧了",
@@ -15521,6 +15545,14 @@
       "onboard_time": 1718371403,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 417409,
+      "num": 417409,
+      "word": "Manner去年仅1225人缴纳五险",
+      "onboard_time": 1719107956,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417254,
@@ -16020,7 +16052,7 @@
     },
     {
       "raw_hot": 403654,
-      "num": 227239,
+      "num": 295924,
       "word": "家里出现小霉点身体可能要遭殃",
       "onboard_time": 1719105617,
       "rank": 41,
@@ -16065,6 +16097,14 @@
       "onboard_time": 1717321758,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403373,
+      "num": 403373,
+      "word": "教师还是铁饭碗吗",
+      "onboard_time": 1719111318,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 402984,
@@ -17123,6 +17163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379141,
+      "num": 379141,
+      "word": "傅家明留给玫瑰的遗书是食谱",
+      "onboard_time": 1719110838,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379006,
       "num": 379006,
       "word": "霸刀山庄 大门",
@@ -17425,6 +17473,14 @@
       "onboard_time": 1717593619,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372017,
+      "num": 372017,
+      "word": "茶百道",
+      "onboard_time": 1719110177,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 371984,
@@ -18459,14 +18515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353392,
-      "num": 353392,
-      "word": "Manner去年仅1225人缴纳五险",
-      "onboard_time": 1719107956,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353348,
       "num": 353348,
       "word": "中方管制非法闯仁爱礁海域的菲船只",
@@ -18745,6 +18793,14 @@
       "onboard_time": 1718025198,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347322,
+      "num": 347322,
+      "word": "吴谨言王星越P图告别墨雨云间",
+      "onboard_time": 1719110056,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 347312,
@@ -22555,14 +22611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286649,
-      "num": 286649,
-      "word": "刘亦菲下部戏是南烟斋笔录",
-      "onboard_time": 1719110417,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286556,
       "num": 286556,
       "word": "陈哲远转发说他假唱微博",
@@ -22665,14 +22713,6 @@
       "onboard_time": 1717483578,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 284923,
-      "num": 199552,
-      "word": "茶百道",
-      "onboard_time": 1719110177,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 284793,
@@ -23955,6 +23995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269151,
+      "num": 269151,
+      "word": "张雪峰回应外语类专业能不能报",
+      "onboard_time": 1719109218,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 269097,
       "num": 269097,
       "word": "迪丽热巴新歌DanceVideo",
@@ -24033,6 +24081,14 @@
       "onboard_time": 1717310837,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 267978,
+      "num": 267978,
+      "word": "梨形身材越练腿越细",
+      "onboard_time": 1719109218,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 267953,
@@ -24321,6 +24377,14 @@
       "onboard_time": 1718985858,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264698,
+      "num": 264698,
+      "word": "贵女",
+      "onboard_time": 1719111977,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 264457,
@@ -27003,6 +27067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 232383,
+      "num": 232383,
+      "word": "丁真一个人锯了所有木头",
+      "onboard_time": 1719110298,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232249,
       "num": 232249,
       "word": "张馨予回应去巴黎找果冻",
@@ -27153,6 +27225,14 @@
       "onboard_time": 1719065900,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230220,
+      "num": 230220,
+      "word": "薛芳菲替姜梨原谅父亲",
+      "onboard_time": 1719112457,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 230191,
@@ -27753,14 +27833,6 @@
       "onboard_time": 1717903517,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 224874,
-      "num": 224874,
-      "word": "张雪峰回应外语类专业能不能报",
-      "onboard_time": 1719109218,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 224831,
@@ -31859,6 +31931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 200526,
+      "num": 200526,
+      "word": "TheShy说BLG虐泉的习惯不好",
+      "onboard_time": 1719111198,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 200495,
       "num": 440933,
       "word": "Manner咖啡将优化门店运营安排",
@@ -32195,6 +32275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199119,
+      "num": 199119,
+      "word": "云南高考查分",
+      "onboard_time": 1719111618,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 199110,
       "num": 199110,
       "word": "广东地理 考化学",
@@ -32441,14 +32529,6 @@
       "onboard_time": 1718112800,
       "rank": 49,
       "category": "美食,财经"
-    },
-    {
-      "raw_hot": 198290,
-      "num": 198290,
-      "word": "梨形身材越练腿越细",
-      "onboard_time": 1719109218,
-      "rank": 30,
-      "category": "运动健身"
     },
     {
       "raw_hot": 198283,
@@ -32737,14 +32817,6 @@
       "onboard_time": 1718509697,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197080,
-      "num": 197080,
-      "word": "吴谨言王星越P图告别墨雨云间",
-      "onboard_time": 1719110056,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 197062,
@@ -35897,6 +35969,14 @@
       "onboard_time": 1718109438,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183458,
+      "num": 183458,
+      "word": "越来越明白了什么是无效社交",
+      "onboard_time": 1719112159,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 183400,
@@ -41379,6 +41459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158140,
+      "num": 158140,
+      "word": "赵丽颖杨单合作",
+      "onboard_time": 1719111857,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158120,
       "num": 158120,
       "word": "谁有姆巴佩的联系方式",
@@ -41481,6 +41569,14 @@
       "onboard_time": 1718160618,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157815,
+      "num": 157815,
+      "word": "分手后收到了前任寄来的快递",
+      "onboard_time": 1719112159,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 157808,
@@ -41881,14 +41977,6 @@
       "onboard_time": 1718108117,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 156145,
-      "num": 156145,
-      "word": "丁真一个人锯了所有木头",
-      "onboard_time": 1719110298,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 156128,
@@ -47099,6 +47187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135393,
+      "num": 135393,
+      "word": "墨雨云间你这样变装王星越知道吗",
+      "onboard_time": 1719111737,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135386,
       "num": 135386,
       "word": "辞职后清理完手机多出100G内存",
@@ -51849,6 +51945,14 @@
       "onboard_time": 1719059538,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118367,
+      "num": 118367,
+      "word": "张颂文 小韩炸鸡店",
+      "onboard_time": 1719112696,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118326,
@@ -64083,6 +64187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31418,
+      "num": 583320,
+      "word": "成都绝美朝霞如彩练当空",
+      "onboard_time": 1719112038,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 31415,
       "num": 195486,
       "word": "我们仨绿豆汤南北之争",
@@ -66809,6 +66921,14 @@
       "onboard_time": 1718551940,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 7227,
+      "num": 1233491,
+      "word": "申遗十年看运河",
+      "onboard_time": 1719112818,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 6964,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719110737421,
+  "endTime": 1719112856110,
   "band_list": [
     {
       "raw_hot": 1934203,
@@ -19,8 +19,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1720066,
-      "num": 1720066,
+      "raw_hot": 1830190,
+      "num": 1830190,
       "word": "女生高考查分669激动掩面哭泣",
       "onboard_time": 1719109218,
       "rank": 3,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 1127123,
-      "num": 365934,
+      "num": 456967,
       "word": "婚后才发现老公学历骗了我",
       "onboard_time": 1719099494,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1117795,
+      "num": 1117795,
+      "word": "刘亦菲下部戏是南烟斋笔录",
+      "onboard_time": 1719110417,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 1073001,
@@ -67,20 +75,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 880687,
+      "num": 817316,
+      "word": "庄国栋也找到了黄亦玫的秘密基地",
+      "onboard_time": 1719109578,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 869784,
+      "num": 869784,
+      "word": "高考分数线",
+      "onboard_time": 1719111318,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 740679,
+      "num": 296057,
+      "word": "韩国花滑丑闻",
+      "onboard_time": 1719109157,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 725930,
       "num": 725930,
       "word": "云边有个小卖部 赵露思",
       "onboard_time": 1719102256,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 692737,
-      "num": 692737,
-      "word": "庄国栋也找到了黄亦玫的秘密基地",
-      "onboard_time": 1719109578,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 655630,
@@ -113,14 +137,6 @@
       "onboard_time": 1719057258,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 511179,
-      "num": 226398,
-      "word": "韩国花滑丑闻",
-      "onboard_time": 1719109157,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 493993,
@@ -171,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 426447,
+      "num": 426447,
+      "word": "迪丽热巴方发维权声明",
+      "onboard_time": 1719111618,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424235,
       "num": 424235,
       "word": "男生为健身每天吃20个鸡蛋",
@@ -187,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417409,
+      "num": 417409,
+      "word": "Manner去年仅1225人缴纳五险",
+      "onboard_time": 1719107956,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413287,
       "num": 257873,
       "word": "傅家明离世庄国栋再回国追玫瑰",
@@ -196,11 +228,19 @@
     },
     {
       "raw_hot": 403654,
-      "num": 227239,
+      "num": 295924,
       "word": "家里出现小霉点身体可能要遭殃",
       "onboard_time": 1719105617,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 403373,
+      "num": 403373,
+      "word": "教师还是铁饭碗吗",
+      "onboard_time": 1719111318,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 389975,
@@ -219,12 +259,28 @@
       "category": "科学科普,运动健身"
     },
     {
+      "raw_hot": 379141,
+      "num": 379141,
+      "word": "傅家明留给玫瑰的遗书是食谱",
+      "onboard_time": 1719110838,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374994,
       "num": 374994,
       "word": "Manner 倒计时",
       "onboard_time": 1719073277,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 372017,
+      "num": 372017,
+      "word": "茶百道",
+      "onboard_time": 1719110177,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 366679,
@@ -259,12 +315,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 353392,
-      "num": 353392,
-      "word": "Manner去年仅1225人缴纳五险",
-      "onboard_time": 1719107956,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 347322,
+      "num": 347322,
+      "word": "吴谨言王星越P图告别墨雨云间",
+      "onboard_time": 1719110056,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 331605,
@@ -331,28 +387,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286649,
-      "num": 286649,
-      "word": "刘亦菲下部戏是南烟斋笔录",
-      "onboard_time": 1719110417,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 285924,
       "num": 285924,
       "word": "小伙吐槽360全家桶被投诉后秒认怂",
       "onboard_time": 1719098893,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284923,
-      "num": 199552,
-      "word": "茶百道",
-      "onboard_time": 1719110177,
-      "rank": 23,
-      "category": "美食"
     },
     {
       "raw_hot": 276660,
@@ -363,12 +403,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269151,
+      "num": 269151,
+      "word": "张雪峰回应外语类专业能不能报",
+      "onboard_time": 1719109218,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 267978,
+      "num": 267978,
+      "word": "梨形身材越练腿越细",
+      "onboard_time": 1719109218,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 264969,
       "num": 264969,
       "word": "茅台发布自制假茅台鉴定为真核实说明",
       "onboard_time": 1719105317,
       "rank": 38,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 264698,
+      "num": 264698,
+      "word": "贵女",
+      "onboard_time": 1719111977,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 249047,
@@ -427,20 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232383,
+      "num": 232383,
+      "word": "丁真一个人锯了所有木头",
+      "onboard_time": 1719110298,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 230220,
+      "num": 230220,
+      "word": "薛芳菲替姜梨原谅父亲",
+      "onboard_time": 1719112457,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 228363,
       "num": 228363,
       "word": "佩佩 越老越妖",
       "onboard_time": 1719099314,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224874,
-      "num": 224874,
-      "word": "张雪峰回应外语类专业能不能报",
-      "onboard_time": 1719109218,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 222406,
@@ -491,20 +563,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 198290,
-      "num": 198290,
-      "word": "梨形身材越练腿越细",
-      "onboard_time": 1719109218,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 200526,
+      "num": 200526,
+      "word": "TheShy说BLG虐泉的习惯不好",
+      "onboard_time": 1719111198,
+      "rank": 28,
+      "category": "电竞"
     },
     {
-      "raw_hot": 197080,
-      "num": 197080,
-      "word": "吴谨言王星越P图告别墨雨云间",
-      "onboard_time": 1719110056,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 199119,
+      "num": 199119,
+      "word": "云南高考查分",
+      "onboard_time": 1719111618,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 193986,
@@ -537,6 +609,14 @@
       "onboard_time": 1719089051,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183458,
+      "num": 183458,
+      "word": "越来越明白了什么是无效社交",
+      "onboard_time": 1719112159,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 182742,
@@ -635,12 +715,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 156145,
-      "num": 156145,
-      "word": "丁真一个人锯了所有木头",
-      "onboard_time": 1719110298,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 158140,
+      "num": 158140,
+      "word": "赵丽颖杨单合作",
+      "onboard_time": 1719111857,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157815,
+      "num": 157815,
+      "word": "分手后收到了前任寄来的快递",
+      "onboard_time": 1719112159,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 154157,
@@ -697,6 +785,14 @@
       "onboard_time": 1719099134,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 135393,
+      "num": 135393,
+      "word": "墨雨云间你这样变装王星越知道吗",
+      "onboard_time": 1719111737,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 134266,
@@ -776,6 +872,14 @@
       "word": "李晨上体综第一个被淘汰",
       "onboard_time": 1719067760,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118367,
+      "num": 118367,
+      "word": "张颂文 小韩炸鸡店",
+      "onboard_time": 1719112696,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1139,6 +1243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31418,
+      "num": 583320,
+      "word": "成都绝美朝霞如彩练当空",
+      "onboard_time": 1719112038,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 28236,
       "num": 28236,
       "word": "歌手 音频传输折损现象",
@@ -1209,6 +1321,14 @@
       "onboard_time": 1719076395,
       "rank": 20,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 7227,
+      "num": 1233491,
+      "word": "申遗十年看运河",
+      "onboard_time": 1719112818,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
