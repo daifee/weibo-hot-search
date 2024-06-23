@@ -1,0 +1,410 @@
+{
+  "runTime": 1719131664383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2450527,
+        "num": 2450527,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 729022,
+        "num": 729022,
+        "word": "女生高考查分701后质疑自己",
+        "onboard_time": 1719117498,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 73290,
+        "num": 666754,
+        "word": "扬州是个好地方",
+        "onboard_time": 1719130519,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 735087,
+        "num": 664621,
+        "word": "孙怡曾喝多了睡在草丛里",
+        "onboard_time": 1719122897,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 625986,
+        "num": 625986,
+        "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+        "onboard_time": 1719118997,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625951,
+        "num": 625951,
+        "word": "赵丽颖曾帮陈晓袁姗姗解围",
+        "onboard_time": 1719126199,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 600676,
+        "num": 600676,
+        "word": "女生高考查分669激动掩面哭泣",
+        "onboard_time": 1719109218,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 550102,
+        "num": 550102,
+        "word": "迪丽热巴大波浪白衬衫",
+        "onboard_time": 1719127037,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487607,
+        "num": 487607,
+        "word": "赵兆 编曲",
+        "onboard_time": 1719128597,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451816,
+        "num": 451816,
+        "word": "印度知名演员涉嫌杀人被捕",
+        "onboard_time": 1719124759,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 831839,
+        "num": 439184,
+        "word": "董力前女友",
+        "onboard_time": 1719130279,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 534009,
+        "num": 429902,
+        "word": "二维码真有用光那一天吗",
+        "onboard_time": 1719128058,
+        "rank": 11,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 406774,
+        "num": 406774,
+        "word": "马赛机场偶遇肖战",
+        "onboard_time": 1719128597,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379997,
+        "num": 379997,
+        "word": "金珉锡去了张艺兴演唱会",
+        "onboard_time": 1719130578,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 354209,
+        "num": 354209,
+        "word": "哈利波特本人见了都要愣几秒",
+        "onboard_time": 1719121578,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340013,
+        "num": 340013,
+        "word": "男生高考687分假装淡定让家人猜",
+        "onboard_time": 1719126738,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 309829,
+        "num": 309829,
+        "word": "中医建议身弱之人多出去玩",
+        "onboard_time": 1719126617,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306786,
+        "num": 306786,
+        "word": "阿里巴巴全球数学竞赛决赛试题公布",
+        "onboard_time": 1719118576,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 278367,
+        "num": 278367,
+        "word": "本周桃花运最旺的星座",
+        "onboard_time": 1719124698,
+        "rank": 18,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 271756,
+        "num": 271756,
+        "word": "蔡磊进ICU妻子20天暴瘦十斤",
+        "onboard_time": 1719118639,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109389,
+        "num": 267699,
+        "word": "唢呐一响压力给到其他高校",
+        "onboard_time": 1719130698,
+        "rank": 20,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 285424,
+        "num": 266148,
+        "word": "长相思男团要合体了",
+        "onboard_time": 1719130578,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275724,
+        "num": 261532,
+        "word": "刘亦菲下部戏是南烟斋笔录",
+        "onboard_time": 1719110417,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97416,
+        "num": 256809,
+        "word": "7天支教团竟被安排4天观光",
+        "onboard_time": 1719129617,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255038,
+        "num": 255038,
+        "word": "林志玲开球",
+        "onboard_time": 1719131238,
+        "rank": 24,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 226755,
+        "num": 226755,
+        "word": "李梦太美了",
+        "onboard_time": 1719122897,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206270,
+        "num": 206270,
+        "word": "第一批查分的高考生已开始尖叫",
+        "onboard_time": 1719117078,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202674,
+        "num": 202674,
+        "word": "乌尔善五十岁迷上了国漫",
+        "onboard_time": 1719131000,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176394,
+        "num": 176394,
+        "word": "高考分数线",
+        "onboard_time": 1719111318,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 175234,
+        "num": 175234,
+        "word": "任嘉伦官宣离开欢瑞世纪",
+        "onboard_time": 1719106157,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160843,
+        "num": 160843,
+        "word": "丁真骂人真高级",
+        "onboard_time": 1719117917,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160418,
+        "num": 160418,
+        "word": "傅家明也住进了方协文心里",
+        "onboard_time": 1719120318,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158423,
+        "num": 158423,
+        "word": "菲自曝被中国海警缴枪的是顶级特种部队",
+        "onboard_time": 1719121458,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151725,
+        "num": 151725,
+        "word": "男生高考658妈妈质疑问有没有看错",
+        "onboard_time": 1719130157,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 151644,
+        "num": 151644,
+        "word": "度华年 点燃你温暖我",
+        "onboard_time": 1719129257,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147560,
+        "num": 147560,
+        "word": "周也演技",
+        "onboard_time": 1719121098,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144820,
+        "num": 144820,
+        "word": "王星越谈被校园霸凌哭了",
+        "onboard_time": 1719118398,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141215,
+        "num": 141215,
+        "word": "安徽谢桥煤矿瓦斯爆炸9死15伤",
+        "onboard_time": 1719126979,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140412,
+        "num": 140412,
+        "word": "山东不愧是考公大省",
+        "onboard_time": 1719131417,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125801,
+        "num": 125801,
+        "word": "云边有个小卖部 赵露思",
+        "onboard_time": 1719102256,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121534,
+        "num": 121534,
+        "word": "王俊凯送王源花篮",
+        "onboard_time": 1719120544,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120079,
+        "num": 120079,
+        "word": "母亲欲取过世儿子存款被拒起诉银行",
+        "onboard_time": 1719105497,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114136,
+        "num": 114136,
+        "word": "为何有些女性怀孕后还会规律来月经",
+        "onboard_time": 1719119839,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 112575,
+        "num": 112575,
+        "word": "乐言说JackeyLove是LPL的排面",
+        "onboard_time": 1719130336,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109273,
+        "num": 109273,
+        "word": "古茗恋与深空快闪",
+        "onboard_time": 1719131177,
+        "rank": 44,
+        "category": "游戏,美食"
+      },
+      {
+        "raw_hot": 108837,
+        "num": 108837,
+        "word": "章昊扛过内娱镜头没扛过自己的",
+        "onboard_time": 1719124518,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105788,
+        "num": 105788,
+        "word": "窦骁何超莲街边吃早茶",
+        "onboard_time": 1719126439,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103702,
+        "num": 103702,
+        "word": "你还喜欢我就好啦",
+        "onboard_time": 1719127037,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101956,
+        "num": 101956,
+        "word": "沈月晒桃花坞合照",
+        "onboard_time": 1719131177,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101006,
+        "num": 101006,
+        "word": "王星越这个必须买断",
+        "onboard_time": 1719131417,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设美丽新宁夏#"
+    }
+  }
+}

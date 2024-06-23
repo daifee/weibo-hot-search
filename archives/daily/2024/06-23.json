@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719130908490,
+  "endTime": 1719131664383,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -131,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 831839,
+      "num": 515838,
+      "word": "董力前女友",
+      "onboard_time": 1719130279,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 761910,
       "num": 761910,
       "word": "教师还是铁饭碗吗",
@@ -235,6 +243,14 @@
       "category": "互联网,剧集"
     },
     {
+      "raw_hot": 550102,
+      "num": 550102,
+      "word": "迪丽热巴大波浪白衬衫",
+      "onboard_time": 1719127037,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 545517,
       "num": 545517,
       "word": "张颂文 小韩炸鸡店",
@@ -259,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 535086,
-      "num": 535086,
-      "word": "迪丽热巴大波浪白衬衫",
-      "onboard_time": 1719127037,
-      "rank": 26,
-      "category": "作品衍生"
+      "raw_hot": 534009,
+      "num": 432728,
+      "word": "二维码真有用光那一天吗",
+      "onboard_time": 1719128058,
+      "rank": 12,
+      "category": "互联网,科学科普"
     },
     {
       "raw_hot": 528876,
@@ -289,14 +305,6 @@
       "onboard_time": 1719121578,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 515838,
-      "num": 515838,
-      "word": "董力前女友",
-      "onboard_time": 1719130279,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 502201,
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 432728,
-      "num": 432728,
-      "word": "二维码真有用光那一天吗",
-      "onboard_time": 1719128058,
-      "rank": 12,
-      "category": "互联网,科学科普"
-    },
-    {
       "raw_hot": 430633,
       "num": 222263,
       "word": "学校临时通知禁用彩色书签",
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379997,
+      "num": 379997,
+      "word": "金珉锡去了张艺兴演唱会",
+      "onboard_time": 1719130578,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 379141,
       "num": 379141,
       "word": "傅家明留给玫瑰的遗书是食谱",
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 340013,
+      "num": 340013,
+      "word": "男生高考687分假装淡定让家人猜",
+      "onboard_time": 1719126738,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 337423,
       "num": 337423,
       "word": "具荷拉失窃相关内容被公开",
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 309829,
+      "num": 309829,
+      "word": "中医建议身弱之人多出去玩",
+      "onboard_time": 1719126617,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 307285,
       "num": 307285,
       "word": "萧蘅成亲爽成了王星越",
@@ -651,28 +675,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285424,
+      "num": 266148,
+      "word": "长相思男团要合体了",
+      "onboard_time": 1719130578,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276660,
       "num": 276660,
       "word": "Manner事件",
       "onboard_time": 1719065179,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274889,
-      "num": 274889,
-      "word": "男生高考687分假装淡定让家人猜",
-      "onboard_time": 1719126738,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 270103,
-      "num": 270103,
-      "word": "中医建议身弱之人多出去玩",
-      "onboard_time": 1719126617,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 269151,
@@ -699,20 +715,20 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 264038,
-      "num": 264038,
-      "word": "金珉锡去了张艺兴演唱会",
-      "onboard_time": 1719130578,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 261449,
       "num": 261449,
       "word": "安徽谢桥煤矿瓦斯爆炸9死15伤",
       "onboard_time": 1719126979,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255038,
+      "num": 255038,
+      "word": "林志玲开球",
+      "onboard_time": 1719131238,
+      "rank": 24,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 249047,
@@ -769,14 +785,6 @@
       "onboard_time": 1719109876,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232808,
-      "num": 232808,
-      "word": "长相思男团要合体了",
-      "onboard_time": 1719130578,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 232709,
@@ -905,6 +913,14 @@
       "onboard_time": 1719068479,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 202674,
+      "num": 202674,
+      "word": "乌尔善五十岁迷上了国漫",
+      "onboard_time": 1719131000,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 202574,
@@ -1203,8 +1219,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150934,
-      "num": 150934,
+      "raw_hot": 151725,
+      "num": 151725,
       "word": "男生高考658妈妈质疑问有没有看错",
       "onboard_time": 1719130157,
       "rank": 33,
@@ -1305,6 +1321,14 @@
       "onboard_time": 1719120679,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 140412,
+      "num": 140412,
+      "word": "山东不愧是考公大省",
+      "onboard_time": 1719131417,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 137559,
@@ -1611,6 +1635,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109389,
+      "num": 267699,
+      "word": "唢呐一响压力给到其他高校",
+      "onboard_time": 1719130698,
+      "rank": 49,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 109273,
+      "num": 109273,
+      "word": "古茗恋与深空快闪",
+      "onboard_time": 1719131177,
+      "rank": 44,
+      "category": "游戏,美食"
+    },
+    {
       "raw_hot": 108579,
       "num": 192669,
       "word": "大运河博物馆展览了隋炀帝的蛀牙",
@@ -1641,14 +1681,6 @@
       "onboard_time": 1719101896,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105327,
-      "num": 105327,
-      "word": "唢呐一响压力给到其他高校",
-      "onboard_time": 1719130698,
-      "rank": 49,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 104384,
@@ -1683,12 +1715,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 101956,
+      "num": 101956,
+      "word": "沈月晒桃花坞合照",
+      "onboard_time": 1719131177,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101093,
       "num": 192143,
       "word": "云边有个小卖部",
       "onboard_time": 1719059719,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101006,
+      "num": 101006,
+      "word": "王星越这个必须买断",
+      "onboard_time": 1719131417,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 99694,
@@ -1728,6 +1776,14 @@
       "word": "梅州20多个村民从泥里挖出被困司机",
       "onboard_time": 1719106818,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97416,
+      "num": 516144,
+      "word": "7天支教团竟被安排4天观光",
+      "onboard_time": 1719129617,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1827,6 +1883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73290,
+      "num": 747291,
+      "word": "扬州是个好地方",
+      "onboard_time": 1719130519,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 72767,
       "num": 102950,
       "word": "张峻豪回应负面新闻",
@@ -1905,14 +1969,6 @@
       "onboard_time": 1719096311,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61551,
-      "num": 516144,
-      "word": "7天支教团竟被安排4天观光",
-      "onboard_time": 1719129617,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58812,
@@ -2048,14 +2104,6 @@
       "word": "轿车落水黑衣男子一路飞奔跳水救人",
       "onboard_time": 1719109278,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32709,
-      "num": 747291,
-      "word": "扬州是个好地方",
-      "onboard_time": 1719130519,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
