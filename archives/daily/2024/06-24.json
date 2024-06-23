@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719159736182,
+  "endTime": 1719160611374,
   "band_list": [
     {
       "raw_hot": 1031912,
@@ -384,6 +384,14 @@
       "word": "章若楠深V白T恤",
       "onboard_time": 1719154580,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 67185,
+      "num": 67185,
+      "word": "虞书欣给路人拍照片",
+      "onboard_time": 1719148818,
+      "rank": 48,
       "category": "艺人"
     },
     {

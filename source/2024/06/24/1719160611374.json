@@ -1,0 +1,410 @@
+{
+  "runTime": 1719160611374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 684504,
+        "num": 684504,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 0,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 561162,
+        "num": 561162,
+        "word": "iPhone16全系尺寸曝光",
+        "onboard_time": 1719152301,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 25682,
+        "num": 528635,
+        "word": "千年运河从历史流向未来",
+        "onboard_time": 1719153500,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497056,
+        "num": 497056,
+        "word": "海蓝之谜柜姐被顾客泼水羞辱",
+        "onboard_time": 1719152179,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407475,
+        "num": 407475,
+        "word": "林允发际线",
+        "onboard_time": 1719156200,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394280,
+        "num": 394280,
+        "word": "女儿零点查分竟和妈妈梦的一模一样",
+        "onboard_time": 1719132737,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381286,
+        "num": 381286,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 352059,
+        "num": 352059,
+        "word": "青岛大学 奢香夫人",
+        "onboard_time": 1719155239,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345066,
+        "num": 345066,
+        "word": "汪苏泷回应上歌手碎了",
+        "onboard_time": 1719149659,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28385,
+        "num": 319283,
+        "word": "妈妈捧着一束肉串接中考儿子回家",
+        "onboard_time": 1719158897,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313526,
+        "num": 313526,
+        "word": "庆余年 晕墨",
+        "onboard_time": 1719155899,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305448,
+        "num": 305448,
+        "word": "李一桐 将门毒后",
+        "onboard_time": 1719141378,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253366,
+        "num": 253366,
+        "word": "魏无羡 AG",
+        "onboard_time": 1719145698,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237458,
+        "num": 237458,
+        "word": "张艺兴朴灿烈合照",
+        "onboard_time": 1719148879,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232466,
+        "num": 232466,
+        "word": "将门毒后 男主",
+        "onboard_time": 1719143297,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231897,
+        "num": 231897,
+        "word": "白日提灯 平番",
+        "onboard_time": 1719145758,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231523,
+        "num": 231523,
+        "word": "陈洁仪 心动",
+        "onboard_time": 1719154699,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158200,
+        "num": 158200,
+        "word": "意大利女排3比1日本女排",
+        "onboard_time": 1719157758,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151414,
+        "num": 151414,
+        "word": "杭州灵隐寺发大水",
+        "onboard_time": 1719143177,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721493,
+        "num": 150992,
+        "word": "高考后他们3小时进帐上亿",
+        "onboard_time": 1719140778,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 878818,
+        "num": 150645,
+        "word": "梁实第28次高考成绩出炉",
+        "onboard_time": 1719152959,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370347,
+        "num": 150100,
+        "word": "男子带96岁母亲酒店养老遭集体拉黑",
+        "onboard_time": 1719154279,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368648,
+        "num": 149701,
+        "word": "2点睡觉10点起床算熬夜吗",
+        "onboard_time": 1719142338,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210037,
+        "num": 149494,
+        "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+        "onboard_time": 1719145758,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172175,
+        "num": 149164,
+        "word": "猪身上这三个部位很脏尽量少吃",
+        "onboard_time": 1719145698,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159299,
+        "num": 148279,
+        "word": "汪苏泷综艺爆曲八连唱",
+        "onboard_time": 1719155780,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148277,
+        "num": 148277,
+        "word": "年轻人为什么爱上德训鞋",
+        "onboard_time": 1719148159,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 144211,
+        "num": 144211,
+        "word": "王源听到结婚的反应",
+        "onboard_time": 1719150019,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140900,
+        "num": 140900,
+        "word": "霍建华朱珠演情侣",
+        "onboard_time": 1719152058,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137918,
+        "num": 137918,
+        "word": "林俊杰我的刘海还好吗",
+        "onboard_time": 1719155058,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129321,
+        "num": 129321,
+        "word": "一份没有985211的宝藏大学名单",
+        "onboard_time": 1719152420,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122998,
+        "num": 122998,
+        "word": "鹿晗演唱会背影图",
+        "onboard_time": 1719153080,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117689,
+        "num": 117689,
+        "word": "青春有你北京面试",
+        "onboard_time": 1719150800,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115562,
+        "num": 115562,
+        "word": "Wei不打了",
+        "onboard_time": 1719152301,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110865,
+        "num": 110865,
+        "word": "高考成绩被亲戚擅自发到家人群",
+        "onboard_time": 1719132799,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109586,
+        "num": 109586,
+        "word": "大奉打更人预告repo",
+        "onboard_time": 1719156438,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101671,
+        "num": 101671,
+        "word": "王源演唱会嘉宾 容祖儿",
+        "onboard_time": 1719138738,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93099,
+        "num": 93099,
+        "word": "陈瑶白晓荷有姐感了",
+        "onboard_time": 1719148937,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87367,
+        "num": 87367,
+        "word": "赵兆 不署名",
+        "onboard_time": 1719136037,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85928,
+        "num": 85928,
+        "word": "宋雨琦去SuperJunior演唱会",
+        "onboard_time": 1719144257,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84407,
+        "num": 84407,
+        "word": "减肥误食了6个蛋挞",
+        "onboard_time": 1719152001,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80214,
+        "num": 80214,
+        "word": "李宇春 苏打绿嘉宾",
+        "onboard_time": 1719152600,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80147,
+        "num": 80147,
+        "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+        "onboard_time": 1719118997,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79240,
+        "num": 79240,
+        "word": "妈妈有钱和爸爸有钱的区别",
+        "onboard_time": 1719140717,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77802,
+        "num": 77802,
+        "word": "EXO感情真好",
+        "onboard_time": 1719149057,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75047,
+        "num": 75047,
+        "word": "陈鑫海王星越好会扭",
+        "onboard_time": 1719159557,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71936,
+        "num": 71936,
+        "word": "章若楠深V白T恤",
+        "onboard_time": 1719154580,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68902,
+        "num": 68902,
+        "word": "阿汤哥女儿去掉父亲姓氏",
+        "onboard_time": 1719151099,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67185,
+        "num": 67185,
+        "word": "虞书欣给路人拍照片",
+        "onboard_time": 1719148818,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52756,
+        "num": 67185,
+        "word": "高考失意不是失败",
+        "onboard_time": 1719158656,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#青海宁夏之行总书记关注这条主线#"
+    }
+  }
+}
