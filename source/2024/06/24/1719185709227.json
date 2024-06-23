@@ -1,0 +1,410 @@
+{
+  "runTime": 1719185709227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804827,
+        "num": 804827,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 557153,
+        "num": 557153,
+        "word": "海蓝之谜柜姐被顾客泼水羞辱",
+        "onboard_time": 1719152179,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41361,
+        "num": 531110,
+        "word": "为什么说宁夏是一个宝藏",
+        "onboard_time": 1719152959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528844,
+        "num": 528844,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 3,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 527689,
+        "num": 527689,
+        "word": "央视曝光农村生活污水治理假工程",
+        "onboard_time": 1719183734,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518940,
+        "num": 518940,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 470399,
+        "num": 470399,
+        "word": "黄晓明拿奖激动到手抖",
+        "onboard_time": 1719180431,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307821,
+        "num": 307821,
+        "word": "于正说以后他所有的剧全部明确HE",
+        "onboard_time": 1719171552,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299878,
+        "num": 299878,
+        "word": "韩国的白菜是从山东引进的",
+        "onboard_time": 1719178812,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 39851,
+        "num": 290277,
+        "word": "西安交大毕业生这段演讲火了",
+        "onboard_time": 1719184814,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 285248,
+        "num": 285248,
+        "word": "相柳白月光回归",
+        "onboard_time": 1719184514,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246476,
+        "num": 246476,
+        "word": "林允发际线",
+        "onboard_time": 1719156200,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202334,
+        "num": 202334,
+        "word": "这3类首饰暗藏健康风险别再戴了",
+        "onboard_time": 1719184334,
+        "rank": 12,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 200652,
+        "num": 200652,
+        "word": "李一桐 将门毒后",
+        "onboard_time": 1719141378,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192582,
+        "num": 192582,
+        "word": "iPhone16全系尺寸曝光",
+        "onboard_time": 1719152301,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 136669,
+        "num": 136669,
+        "word": "匈牙利绝杀苏格兰",
+        "onboard_time": 1719184275,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136054,
+        "num": 136054,
+        "word": "德国1比1瑞士",
+        "onboard_time": 1719184275,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131344,
+        "num": 131344,
+        "word": "杭州灵隐寺发大水",
+        "onboard_time": 1719143177,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117267,
+        "num": 117267,
+        "word": "张艺兴朴灿烈合照",
+        "onboard_time": 1719148879,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111284,
+        "num": 111284,
+        "word": "将门毒后 男主",
+        "onboard_time": 1719143297,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338731,
+        "num": 111185,
+        "word": "梁实第28次高考成绩出炉",
+        "onboard_time": 1719152959,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266803,
+        "num": 110872,
+        "word": "男子带96岁母亲酒店养老遭集体拉黑",
+        "onboard_time": 1719154279,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185416,
+        "num": 110848,
+        "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+        "onboard_time": 1719145758,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179134,
+        "num": 110498,
+        "word": "夫妻自驾运毒34.8公斤被抓",
+        "onboard_time": 1719169151,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142036,
+        "num": 110268,
+        "word": "猪身上这三个部位很脏尽量少吃",
+        "onboard_time": 1719145698,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110208,
+        "num": 110208,
+        "word": "梁实第28次高考未达二本线",
+        "onboard_time": 1719185055,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109768,
+        "num": 109768,
+        "word": "男生查分被屏蔽淡定向家人报喜",
+        "onboard_time": 1719172270,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106636,
+        "num": 106636,
+        "word": "白日提灯 平番",
+        "onboard_time": 1719145758,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100691,
+        "num": 100691,
+        "word": "2点睡觉10点起床算熬夜吗",
+        "onboard_time": 1719142338,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98612,
+        "num": 98612,
+        "word": "魏无羡 AG",
+        "onboard_time": 1719145698,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177953,
+        "num": 96104,
+        "word": "1个校区就发现76例学生脊柱侧弯",
+        "onboard_time": 1719184875,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87508,
+        "num": 87508,
+        "word": "年轻人为什么爱上德训鞋",
+        "onboard_time": 1719148159,
+        "rank": 31,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 87469,
+        "num": 87469,
+        "word": "瑞士vs德国",
+        "onboard_time": 1719161175,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84831,
+        "num": 84831,
+        "word": "飞天茅台单价低至2100元",
+        "onboard_time": 1719185418,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 84494,
+        "num": 84494,
+        "word": "菲律宾蓄意闹海",
+        "onboard_time": 1719174491,
+        "rank": 34,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 82912,
+        "num": 82912,
+        "word": "霍建华朱珠演情侣",
+        "onboard_time": 1719152058,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82009,
+        "num": 82009,
+        "word": "陈瑶白晓荷有姐感了",
+        "onboard_time": 1719148937,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78838,
+        "num": 78838,
+        "word": "Wei不打了",
+        "onboard_time": 1719152301,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76869,
+        "num": 76869,
+        "word": "能驯服巨蟹的星座都有谁",
+        "onboard_time": 1719184334,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76409,
+        "num": 76409,
+        "word": "妈妈有钱和爸爸有钱的区别",
+        "onboard_time": 1719140717,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 72113,
+        "num": 72113,
+        "word": "一份没有985211的宝藏大学名单",
+        "onboard_time": 1719152420,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71644,
+        "num": 71644,
+        "word": "女儿零点查分竟和妈妈梦的一模一样",
+        "onboard_time": 1719132737,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70897,
+        "num": 70897,
+        "word": "高考成绩被亲戚擅自发到家人群",
+        "onboard_time": 1719132799,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70446,
+        "num": 70446,
+        "word": "涵艺爆料WBG更换辅助",
+        "onboard_time": 1719184275,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64722,
+        "num": 64722,
+        "word": "庆余年 晕墨",
+        "onboard_time": 1719155899,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60449,
+        "num": 60449,
+        "word": "火锅界开始卷酸的赛道了",
+        "onboard_time": 1719180372,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 58544,
+        "num": 58544,
+        "word": "高考成绩被屏蔽为什么",
+        "onboard_time": 1719177011,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54260,
+        "num": 54260,
+        "word": "格局通过RNG试训",
+        "onboard_time": 1719185475,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53412,
+        "num": 53412,
+        "word": "49岁的林志玲状态",
+        "onboard_time": 1719177790,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52344,
+        "num": 52344,
+        "word": "青岛大学 奢香夫人",
+        "onboard_time": 1719155239,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一次次走进科技创新最活跃的地方#"
+    }
+  }
+}

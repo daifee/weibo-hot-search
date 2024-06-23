@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 07:18:54
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 07:35:09
 </p>
 </blockquote>
 <p>
@@ -4545,6 +4545,12 @@ aespa放送0分（热度：809810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86588%E5%88%86%E6%83%B3%E5%A4%8D%E8%AF%BB%23" target="weibo">
+高考弟弟考了588分想复读（热度：804827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E6%9C%AA%E5%85%A5%E9%80%89%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E8%BF%90%E5%8A%A8%E5%91%98%E5%90%8D%E5%8D%95%23" target="weibo">
 孙杨未入选巴黎奥运会运动员名单（热度：803665）
 </a>
@@ -6005,12 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E6%9B%BE%E4%B8%80%E4%B8%AA%E6%9C%88%E7%98%A620%E6%96%A4%23" target="weibo">
 徐艺洋曾一个月瘦20斤（热度：681384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D%20%E8%B0%81%E5%86%99%E7%9A%84%E5%89%A7%E6%9C%AC%23" target="weibo">
-歌手排名 谁写的剧本（热度：681361）
 </a>
 </li>
 
