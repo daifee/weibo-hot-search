@@ -1,0 +1,410 @@
+{
+  "runTime": 1719113656383,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1773060,
+        "num": 1773060,
+        "word": "女生高考查分669激动掩面哭泣",
+        "onboard_time": 1719109218,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1294228,
+        "num": 1294228,
+        "word": "任嘉伦官宣离开欢瑞世纪",
+        "onboard_time": 1719106157,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27174,
+        "num": 1191662,
+        "word": "申遗十年看运河",
+        "onboard_time": 1719112818,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1097801,
+        "num": 1097801,
+        "word": "刘亦菲下部戏是南烟斋笔录",
+        "onboard_time": 1719110417,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1071430,
+        "num": 1071430,
+        "word": "母亲欲取过世儿子存款被拒起诉银行",
+        "onboard_time": 1719105497,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1046459,
+        "num": 1046459,
+        "word": "高考分数线",
+        "onboard_time": 1719111318,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 823798,
+        "num": 823798,
+        "word": "庄国栋也找到了黄亦玫的秘密基地",
+        "onboard_time": 1719109578,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 761910,
+        "num": 761910,
+        "word": "教师还是铁饭碗吗",
+        "onboard_time": 1719111318,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119264,
+        "num": 649019,
+        "word": "女生网上报名支教变成交钱旅游",
+        "onboard_time": 1719105677,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76287,
+        "num": 583291,
+        "word": "毕业歌会一曲离别开出花唱嗨全场",
+        "onboard_time": 1719113177,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 564313,
+        "num": 564313,
+        "word": "高考查分",
+        "onboard_time": 1719100094,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 529936,
+        "num": 529936,
+        "word": "云边有个小卖部 赵露思",
+        "onboard_time": 1719102256,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463217,
+        "num": 463217,
+        "word": "孙怡96斤",
+        "onboard_time": 1719104236,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453612,
+        "num": 453612,
+        "word": "迪丽热巴方发维权声明",
+        "onboard_time": 1719111618,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401378,
+        "num": 401378,
+        "word": "婚后才发现老公学历骗了我",
+        "onboard_time": 1719099494,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383862,
+        "num": 383862,
+        "word": "吴谨言王星越P图告别墨雨云间",
+        "onboard_time": 1719110056,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376170,
+        "num": 376170,
+        "word": "Manner去年仅1225人缴纳五险",
+        "onboard_time": 1719107956,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359038,
+        "num": 359038,
+        "word": "傅家明留给玫瑰的遗书是食谱",
+        "onboard_time": 1719110838,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353649,
+        "num": 353649,
+        "word": "茶百道",
+        "onboard_time": 1719110177,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 291723,
+        "num": 352822,
+        "word": "男子至尊精油开背后心肌梗塞死亡",
+        "onboard_time": 1719105437,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739733,
+        "num": 352605,
+        "word": "韩国花滑丑闻",
+        "onboard_time": 1719109157,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373199,
+        "num": 352516,
+        "word": "家里出现小霉点身体可能要遭殃",
+        "onboard_time": 1719105617,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 352283,
+        "num": 352283,
+        "word": "贵女",
+        "onboard_time": 1719111977,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293773,
+        "num": 293773,
+        "word": "张颂文 小韩炸鸡店",
+        "onboard_time": 1719112696,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255138,
+        "num": 255138,
+        "word": "薛芳菲替姜梨原谅父亲",
+        "onboard_time": 1719112457,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253855,
+        "num": 253855,
+        "word": "梨形身材越练腿越细",
+        "onboard_time": 1719109218,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 222712,
+        "num": 222712,
+        "word": "张雪峰回应外语类专业能不能报",
+        "onboard_time": 1719109218,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216133,
+        "num": 216133,
+        "word": "丁真一个人锯了所有木头",
+        "onboard_time": 1719110298,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206075,
+        "num": 206075,
+        "word": "李海仁",
+        "onboard_time": 1719113239,
+        "rank": 28,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 28202,
+        "num": 199504,
+        "word": "近4万名加沙学生缺席高考",
+        "onboard_time": 1719113118,
+        "rank": 29,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 198145,
+        "num": 198145,
+        "word": "分手后收到了前任寄来的快递",
+        "onboard_time": 1719112159,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196396,
+        "num": 196396,
+        "word": "TheShy说BLG虐泉的习惯不好",
+        "onboard_time": 1719111198,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191771,
+        "num": 191771,
+        "word": "云南高考分数线",
+        "onboard_time": 1719113298,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184436,
+        "num": 184436,
+        "word": "越来越明白了什么是无效社交",
+        "onboard_time": 1719112159,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172174,
+        "num": 172174,
+        "word": "TF三代出道演唱会安排",
+        "onboard_time": 1719112696,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170193,
+        "num": 170193,
+        "word": "女子称怀孕后公司让她选降薪或辞职",
+        "onboard_time": 1719113057,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168285,
+        "num": 168285,
+        "word": "张颂文经纪人",
+        "onboard_time": 1719113298,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164058,
+        "num": 164058,
+        "word": "香缇莫穿新中式汉服",
+        "onboard_time": 1719109876,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160894,
+        "num": 160894,
+        "word": "带着饥饿感入睡是脾胃恢复的开端",
+        "onboard_time": 1719098893,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160845,
+        "num": 160845,
+        "word": "和妻子结婚后有了一群不扫兴的家人",
+        "onboard_time": 1719105557,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151938,
+        "num": 151938,
+        "word": "穿什么颜色的泳衣更安全",
+        "onboard_time": 1719104236,
+        "rank": 40,
+        "category": "科学科普,运动健身"
+      },
+      {
+        "raw_hot": 148800,
+        "num": 148800,
+        "word": "2024内蒙古高考分数线",
+        "onboard_time": 1719109157,
+        "rank": 41,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 148119,
+        "word": "萧蘅成亲爽成了王星越",
+        "onboard_time": 1719103876,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146477,
+        "num": 146477,
+        "word": "赵丽颖杨单合作",
+        "onboard_time": 1719111857,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145770,
+        "num": 145770,
+        "word": "怎么会有小猫被骗三次",
+        "onboard_time": 1719113177,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144171,
+        "num": 144171,
+        "word": "于正说曾看不起一手炮制的爽剧",
+        "onboard_time": 1719104477,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144044,
+        "num": 144044,
+        "word": "杨幂发论文的期刊不收版面费",
+        "onboard_time": 1719099855,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130790,
+        "num": 130790,
+        "word": "张远情商",
+        "onboard_time": 1719101296,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120482,
+        "num": 120482,
+        "word": "Gemini红温",
+        "onboard_time": 1719104357,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52827,
+        "num": 116491,
+        "word": "31省份高考查分时间汇总",
+        "onboard_time": 1719104897,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设美丽新宁夏#"
+    }
+  }
+}
