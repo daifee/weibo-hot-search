@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719170216241,
+  "endTime": 1719171269998,
   "band_list": [
     {
       "raw_hot": 1031912,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29776,
+      "num": 26294,
+      "word": "夫妻自驾运毒34.8公斤被抓",
+      "onboard_time": 1719169151,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29292,
       "num": 405453,
       "word": "妈妈捧着一束肉串接中考儿子回家",
@@ -483,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23850,
-      "num": 23850,
-      "word": "夫妻自驾运毒34.8公斤被抓",
-      "onboard_time": 1719169151,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 17627,
+      "num": 18636,
+      "word": "艾尔登法环",
+      "onboard_time": 1719170651,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 12780,
