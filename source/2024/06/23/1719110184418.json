@@ -1,0 +1,410 @@
+{
+  "runTime": 1719110184418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1934203,
+        "num": 1934203,
+        "word": "任嘉伦官宣离开欢瑞世纪",
+        "onboard_time": 1719106157,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1658551,
+        "num": 1658551,
+        "word": "母亲欲取过世儿子存款被拒起诉银行",
+        "onboard_time": 1719105497,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10886,
+        "num": 1483301,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1477033,
+        "num": 1477033,
+        "word": "女生高考查分669激动掩面哭泣",
+        "onboard_time": 1719109218,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1255187,
+        "num": 1255187,
+        "word": "高考查分",
+        "onboard_time": 1719100094,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 725930,
+        "num": 725930,
+        "word": "云边有个小卖部 赵露思",
+        "onboard_time": 1719102256,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 507112,
+        "num": 507112,
+        "word": "孙怡96斤",
+        "onboard_time": 1719104236,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386788,
+        "num": 386788,
+        "word": "穿什么颜色的泳衣更安全",
+        "onboard_time": 1719104236,
+        "rank": 7,
+        "category": "科学科普,运动健身"
+      },
+      {
+        "raw_hot": 348132,
+        "num": 348132,
+        "word": "带着饥饿感入睡是脾胃恢复的开端",
+        "onboard_time": 1719098893,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55028,
+        "num": 337099,
+        "word": "小哥接到女子代买敌敌畏订单立马报警",
+        "onboard_time": 1719104537,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643632,
+        "num": 336495,
+        "word": "婚后才发现老公学历骗了我",
+        "onboard_time": 1719099494,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335286,
+        "num": 335286,
+        "word": "Manner去年仅1225人缴纳五险",
+        "onboard_time": 1719107956,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329712,
+        "num": 329712,
+        "word": "庄国栋也找到了黄亦玫的秘密基地",
+        "onboard_time": 1719109578,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327577,
+        "num": 327577,
+        "word": "林更新演技",
+        "onboard_time": 1719108618,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290823,
+        "num": 290823,
+        "word": "男子至尊精油开背后心肌梗塞死亡",
+        "onboard_time": 1719105437,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271018,
+        "num": 271018,
+        "word": "萧蘅成亲爽成了王星越",
+        "onboard_time": 1719103876,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264969,
+        "num": 264969,
+        "word": "茅台发布自制假茅台鉴定为真核实说明",
+        "onboard_time": 1719105317,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 234258,
+        "num": 234258,
+        "word": "张杰回应被小骨头卡住做手术",
+        "onboard_time": 1719103338,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232764,
+        "num": 232764,
+        "word": "一家七口毕业于同所大学",
+        "onboard_time": 1719098953,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228350,
+        "num": 228350,
+        "word": "2024内蒙古高考分数线",
+        "onboard_time": 1719109157,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 382815,
+        "num": 227239,
+        "word": "家里出现小霉点身体可能要遭殃",
+        "onboard_time": 1719105617,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 357524,
+        "num": 226687,
+        "word": "和妻子结婚后有了一群不扫兴的家人",
+        "onboard_time": 1719105557,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329940,
+        "num": 226398,
+        "word": "韩国花滑丑闻",
+        "onboard_time": 1719109157,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222406,
+        "num": 222406,
+        "word": "Gemini红温",
+        "onboard_time": 1719104357,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232795,
+        "num": 222263,
+        "word": "学校临时通知禁用彩色书签",
+        "onboard_time": 1719099013,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226767,
+        "num": 221316,
+        "word": "权志龙说BIGBANG现在只有三个人",
+        "onboard_time": 1719099134,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219382,
+        "num": 219382,
+        "word": "杨幂发论文的期刊不收版面费",
+        "onboard_time": 1719099855,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207979,
+        "num": 207979,
+        "word": "于正说曾看不起一手炮制的爽剧",
+        "onboard_time": 1719104477,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204773,
+        "num": 204773,
+        "word": "张远情商",
+        "onboard_time": 1719101296,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153330,
+        "num": 199770,
+        "word": "女生网上报名支教变成交钱旅游",
+        "onboard_time": 1719105677,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198290,
+        "num": 198290,
+        "word": "梨形身材越练腿越细",
+        "onboard_time": 1719109218,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 180165,
+        "num": 180165,
+        "word": "吴谨言 第一次看考古女演员",
+        "onboard_time": 1719106037,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169064,
+        "num": 169064,
+        "word": "张雪峰回应外语类专业能不能报",
+        "onboard_time": 1719109218,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162193,
+        "num": 162193,
+        "word": "有这么惜命的女主进入内娱",
+        "onboard_time": 1719106699,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150683,
+        "num": 150683,
+        "word": "男生为健身每天吃20个鸡蛋",
+        "onboard_time": 1719099554,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143912,
+        "num": 143912,
+        "word": "孟美岐美式女高造型",
+        "onboard_time": 1719104597,
+        "rank": 35,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 171263,
+        "num": 143750,
+        "word": "吴谨言王星越P图告别墨雨云间",
+        "onboard_time": 1719110056,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142515,
+        "num": 142515,
+        "word": "王一博登上世趋第一",
+        "onboard_time": 1719099134,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 142444,
+        "num": 142444,
+        "word": "香缇莫穿新中式汉服",
+        "onboard_time": 1719109876,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141079,
+        "num": 141079,
+        "word": "什么东西已经贵到不值得再买了",
+        "onboard_time": 1719099494,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92480,
+        "num": 134090,
+        "word": "王源骄傲大合唱太好哭了",
+        "onboard_time": 1719109038,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133993,
+        "num": 133993,
+        "word": "林俊杰 冻结",
+        "onboard_time": 1719063317,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133002,
+        "num": 133002,
+        "word": "小伙吐槽360全家桶被投诉后秒认怂",
+        "onboard_time": 1719098893,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132049,
+        "num": 132049,
+        "word": "金毛的鱼被猫猫弄出鱼缸",
+        "onboard_time": 1719109757,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129893,
+        "num": 129893,
+        "word": "丽妃 真爱",
+        "onboard_time": 1719103516,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128761,
+        "num": 128761,
+        "word": "黄晓明两部戏差了50斤",
+        "onboard_time": 1719100574,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119729,
+        "num": 119729,
+        "word": "小喜吾妻一出来我瞬间哭了",
+        "onboard_time": 1719104897,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119165,
+        "num": 119165,
+        "word": "任嘉伦 欢瑞",
+        "onboard_time": 1719098893,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116073,
+        "num": 116073,
+        "word": "佩佩 越老越妖",
+        "onboard_time": 1719099314,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115527,
+        "num": 115527,
+        "word": "薛芳菲求你收了叶世杰吧",
+        "onboard_time": 1719099193,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对全面深化改革的重要论述#"
+    }
+  }
+}

@@ -1,7 +1,15 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719107179154,
+  "endTime": 1719110184418,
   "band_list": [
+    {
+      "raw_hot": 1934203,
+      "num": 1934203,
+      "word": "任嘉伦官宣离开欢瑞世纪",
+      "onboard_time": 1719106157,
+      "rank": 1,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1929137,
       "num": 1929137,
@@ -11,12 +19,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1432549,
-      "num": 1432549,
-      "word": "任嘉伦官宣离开欢瑞世纪",
-      "onboard_time": 1719106157,
-      "rank": 1,
-      "category": "艺人"
+      "raw_hot": 1658551,
+      "num": 1658551,
+      "word": "母亲欲取过世儿子存款被拒起诉银行",
+      "onboard_time": 1719105497,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1477033,
+      "num": 1477033,
+      "word": "女生高考查分669激动掩面哭泣",
+      "onboard_time": 1719109218,
+      "rank": 3,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1152737,
@@ -51,16 +67,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 791227,
-      "num": 188312,
-      "word": "母亲欲取过世儿子存款被拒起诉银行",
-      "onboard_time": 1719105497,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 697557,
-      "num": 423487,
+      "raw_hot": 725930,
+      "num": 725930,
       "word": "云边有个小卖部 赵露思",
       "onboard_time": 1719102256,
       "rank": 6,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 430633,
-      "num": 188290,
+      "num": 222263,
       "word": "学校临时通知禁用彩色书签",
       "onboard_time": 1719099013,
       "rank": 34,
@@ -179,6 +187,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 386788,
+      "num": 386788,
+      "word": "穿什么颜色的泳衣更安全",
+      "onboard_time": 1719104236,
+      "rank": 18,
+      "category": "科学科普,运动健身"
+    },
+    {
+      "raw_hot": 382815,
+      "num": 227239,
+      "word": "家里出现小霉点身体可能要遭殃",
+      "onboard_time": 1719105617,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 374994,
       "num": 374994,
       "word": "Manner 倒计时",
@@ -211,12 +235,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 336402,
-      "num": 188248,
+      "raw_hot": 357524,
+      "num": 226687,
       "word": "和妻子结婚后有了一群不扫兴的家人",
       "onboard_time": 1719105557,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 335286,
+      "num": 335286,
+      "word": "Manner去年仅1225人缴纳五险",
+      "onboard_time": 1719107956,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331605,
@@ -224,6 +256,22 @@
       "word": "于正墨雨云间收官文",
       "onboard_time": 1719070878,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 329940,
+      "num": 226398,
+      "word": "韩国花滑丑闻",
+      "onboard_time": 1719109157,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 329712,
+      "num": 329712,
+      "word": "庄国栋也找到了黄亦玫的秘密基地",
+      "onboard_time": 1719109578,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -235,20 +283,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327577,
+      "num": 327577,
+      "word": "林更新演技",
+      "onboard_time": 1719108618,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321861,
       "num": 199271,
       "word": "方协文 可怕",
       "onboard_time": 1719064820,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 317938,
-      "num": 317938,
-      "word": "穿什么颜色的泳衣更安全",
-      "onboard_time": 1719104236,
-      "rank": 18,
-      "category": "科学科普,运动健身"
     },
     {
       "raw_hot": 316949,
@@ -275,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290823,
+      "num": 290823,
+      "word": "男子至尊精油开背后心肌梗塞死亡",
+      "onboard_time": 1719105437,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285924,
       "num": 285924,
       "word": "小伙吐槽360全家桶被投诉后秒认怂",
@@ -289,6 +345,14 @@
       "onboard_time": 1719065179,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264969,
+      "num": 264969,
+      "word": "茅台发布自制假茅台鉴定为真核实说明",
+      "onboard_time": 1719105317,
+      "rank": 38,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 246122,
@@ -315,14 +379,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 240282,
-      "num": 188151,
-      "word": "男子至尊精油开背后心肌梗塞死亡",
-      "onboard_time": 1719105437,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 238122,
       "num": 179793,
       "word": "黄晓明两部戏差了50斤",
@@ -347,20 +403,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219722,
-      "num": 188100,
-      "word": "家里出现小霉点身体可能要遭殃",
-      "onboard_time": 1719105617,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 228350,
+      "num": 228350,
+      "word": "2024内蒙古高考分数线",
+      "onboard_time": 1719109157,
+      "rank": 19,
+      "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 218285,
-      "num": 218285,
-      "word": "茅台发布自制假茅台鉴定为真核实说明",
-      "onboard_time": 1719105317,
-      "rank": 38,
-      "category": "财经,社会新闻"
+      "raw_hot": 222406,
+      "num": 222406,
+      "word": "Gemini红温",
+      "onboard_time": 1719104357,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 217661,
@@ -376,6 +432,14 @@
       "word": "薛芳菲求你收了叶世杰吧",
       "onboard_time": 1719099193,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207979,
+      "num": 207979,
+      "word": "于正说曾看不起一手炮制的爽剧",
+      "onboard_time": 1719104477,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -395,6 +459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 198290,
+      "num": 198290,
+      "word": "梨形身材越练腿越细",
+      "onboard_time": 1719109218,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 193986,
       "num": 193986,
       "word": "吴世勋去张艺兴演唱会",
@@ -409,22 +481,6 @@
       "onboard_time": 1719104897,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 188313,
-      "num": 188313,
-      "word": "Gemini红温",
-      "onboard_time": 1719104357,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 187025,
-      "num": 178161,
-      "word": "于正说曾看不起一手炮制的爽剧",
-      "onboard_time": 1719104477,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 186380,
@@ -451,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180165,
+      "num": 180165,
+      "word": "吴谨言 第一次看考古女演员",
+      "onboard_time": 1719106037,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179359,
       "num": 63500,
       "word": "女子买无座票坐卧铺被强行带离",
@@ -460,7 +524,7 @@
     },
     {
       "raw_hot": 178262,
-      "num": 173126,
+      "num": 199770,
       "word": "女生网上报名支教变成交钱旅游",
       "onboard_time": 1719105677,
       "rank": 28,
@@ -483,12 +547,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 171263,
+      "num": 143750,
+      "word": "吴谨言王星越P图告别墨雨云间",
+      "onboard_time": 1719110056,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170080,
       "num": 193970,
       "word": "云边有个小卖部 he",
       "onboard_time": 1719056178,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169064,
+      "num": 169064,
+      "word": "张雪峰回应外语类专业能不能报",
+      "onboard_time": 1719109218,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 164330,
@@ -507,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162193,
+      "num": 162193,
+      "word": "有这么惜命的女主进入内娱",
+      "onboard_time": 1719106699,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160782,
       "num": 193511,
       "word": "凤凰传奇演唱会",
@@ -521,14 +609,6 @@
       "onboard_time": 1719069199,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 148236,
-      "num": 148236,
-      "word": "吴谨言 第一次看考古女演员",
-      "onboard_time": 1719106037,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 147104,
@@ -555,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143912,
+      "num": 143912,
+      "word": "孟美岐美式女高造型",
+      "onboard_time": 1719104597,
+      "rank": 42,
+      "category": "演出,时尚"
+    },
+    {
       "raw_hot": 143828,
       "num": 193876,
       "word": "办公室空调开26度还是24度好",
@@ -563,12 +651,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 139291,
-      "num": 135785,
+      "raw_hot": 142515,
+      "num": 142515,
       "word": "王一博登上世趋第一",
       "onboard_time": 1719099134,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142444,
+      "num": 142444,
+      "word": "香缇莫穿新中式汉服",
+      "onboard_time": 1719109876,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 134266,
@@ -579,12 +675,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 131478,
-      "num": 131478,
-      "word": "孟美岐美式女高造型",
-      "onboard_time": 1719104597,
-      "rank": 42,
-      "category": "演出,时尚"
+      "raw_hot": 132049,
+      "num": 132049,
+      "word": "金毛的鱼被猫猫弄出鱼缸",
+      "onboard_time": 1719109757,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 129756,
@@ -667,14 +763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 114431,
-      "num": 114431,
-      "word": "有这么惜命的女主进入内娱",
-      "onboard_time": 1719106699,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114170,
       "num": 114170,
       "word": "C罗发文庆祝葡萄牙小组第一",
@@ -753,6 +841,14 @@
       "onboard_time": 1719106818,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 92480,
+      "num": 134090,
+      "word": "王源骄傲大合唱太好哭了",
+      "onboard_time": 1719109038,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 89171,
@@ -891,6 +987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 55028,
+      "num": 337099,
+      "word": "小哥接到女子代买敌敌畏订单立马报警",
+      "onboard_time": 1719104537,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54374,
       "num": 91850,
       "word": "白晓荷孩子",
@@ -1012,7 +1116,7 @@
     },
     {
       "raw_hot": 17613,
-      "num": 1166500,
+      "num": 1483301,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 2,
