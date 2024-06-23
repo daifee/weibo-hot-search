@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719120868752,
+  "endTime": 1719123942629,
   "band_list": [
     {
       "raw_hot": 1961268,
@@ -147,6 +147,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 693505,
+      "num": 458323,
+      "word": "菲自曝被中国海警缴枪的是顶级特种部队",
+      "onboard_time": 1719121458,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 655630,
       "num": 495867,
       "word": "你好星期六下期有乘风姐姐",
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 590828,
-      "num": 343307,
+      "num": 588651,
       "word": "丁真骂人真高级",
       "onboard_time": 1719117917,
       "rank": 20,
@@ -235,11 +243,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498738,
+      "num": 498738,
+      "word": "王俊凯送王源花篮",
+      "onboard_time": 1719120544,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 493993,
       "num": 423469,
       "word": "张杰回应被小骨头卡住做手术",
       "onboard_time": 1719103338,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 488020,
+      "num": 271135,
+      "word": "孙怡曾喝多了睡在草丛里",
+      "onboard_time": 1719122897,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -275,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441042,
+      "num": 441042,
+      "word": "周也演技",
+      "onboard_time": 1719121098,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 440358,
       "num": 440358,
       "word": "医院职工遭电诈后被卫健局处罚",
       "onboard_time": 1719067879,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 440227,
+      "num": 164054,
+      "word": "哈利波特本人见了都要愣几秒",
+      "onboard_time": 1719121578,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 430633,
@@ -371,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 378739,
+      "num": 378739,
+      "word": "蔡磊进ICU妻子20天暴瘦十斤",
+      "onboard_time": 1719118639,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 374994,
       "num": 374994,
       "word": "Manner 倒计时",
@@ -435,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337423,
+      "num": 337423,
+      "word": "具荷拉失窃相关内容被公开",
+      "onboard_time": 1719120438,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331605,
       "num": 198417,
       "word": "于正墨雨云间收官文",
@@ -488,6 +544,14 @@
       "word": "萧蘅成亲爽成了王星越",
       "onboard_time": 1719103876,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 301479,
+      "num": 262843,
+      "word": "傅家明也住进了方协文心里",
+      "onboard_time": 1719120318,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -603,14 +667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229970,
-      "num": 229970,
-      "word": "王俊凯送王源花篮",
-      "onboard_time": 1719120544,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 228363,
       "num": 228363,
       "word": "佩佩 越老越妖",
@@ -627,12 +683,36 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 224378,
+      "num": 224378,
+      "word": "霉霉家中写歌时厨房起火",
+      "onboard_time": 1719122777,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222406,
       "num": 222406,
       "word": "Gemini红温",
       "onboard_time": 1719104357,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220412,
+      "num": 246971,
+      "word": "为何有些女性怀孕后还会规律来月经",
+      "onboard_time": 1719119839,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 219164,
+      "num": 219164,
+      "word": "李梦太美了",
+      "onboard_time": 1719122897,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 217661,
@@ -739,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190510,
+      "num": 190510,
+      "word": "鹅剧派对",
+      "onboard_time": 1719123618,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189838,
       "num": 175009,
       "word": "小喜吾妻一出来我瞬间哭了",
@@ -811,14 +899,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176216,
-      "num": 168428,
-      "word": "傅家明也住进了方协文心里",
-      "onboard_time": 1719120318,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173855,
       "num": 173855,
       "word": "C罗成欧洲杯历史助攻王",
@@ -873,14 +953,6 @@
       "onboard_time": 1719113177,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166811,
-      "num": 166811,
-      "word": "具荷拉失窃相关内容被公开",
-      "onboard_time": 1719120438,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 164330,
@@ -945,6 +1017,14 @@
       "onboard_time": 1719069199,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152135,
+      "num": 152135,
+      "word": "大奉打更人明天发预告",
+      "onboard_time": 1719121278,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 147808,
@@ -1019,12 +1099,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142145,
-      "num": 142145,
-      "word": "为何有些女性怀孕后还会规律来月经",
-      "onboard_time": 1719119839,
-      "rank": 49,
-      "category": "科学科普"
+      "raw_hot": 141056,
+      "num": 141056,
+      "word": "小鬼 不无聊的内娱舞台",
+      "onboard_time": 1719120679,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 137559,
@@ -1059,6 +1139,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134169,
+      "num": 134169,
+      "word": "上海高考查分",
+      "onboard_time": 1719123018,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 133542,
+      "num": 133542,
+      "word": "南烟斋笔录 额头吻",
+      "onboard_time": 1719122417,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "金毛的鱼被猫猫弄出鱼缸",
@@ -1067,12 +1163,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131972,
+      "num": 131972,
+      "word": "训练了三遍才知道扔鞋子",
+      "onboard_time": 1719122297,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129756,
       "num": 192540,
       "word": "李帝努又脱了",
       "onboard_time": 1719069679,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128901,
+      "num": 128901,
+      "word": "爷爷去世前的早上还在出海打渔",
+      "onboard_time": 1719123438,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 126655,
@@ -1097,6 +1209,14 @@
       "onboard_time": 1719110539,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125546,
+      "num": 125546,
+      "word": "梁永棋回应演前夫哥",
+      "onboard_time": 1719121278,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 123636,
@@ -1187,12 +1307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116278,
-      "num": 116278,
-      "word": "小鬼 不无聊的内娱舞台",
-      "onboard_time": 1719120679,
-      "rank": 47,
-      "category": "音乐"
+      "raw_hot": 115847,
+      "num": 115847,
+      "word": "八贼",
+      "onboard_time": 1719122118,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 114708,
@@ -1315,12 +1435,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98120,
+      "num": 98120,
+      "word": "阿Sa直播徐明浩换衣服",
+      "onboard_time": 1719119180,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97915,
       "num": 309818,
       "word": "梅州20多个村民从泥里挖出被困司机",
       "onboard_time": 1719106818,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97157,
+      "num": 97157,
+      "word": "飞天茅台散瓶批发参考价下跌至2140元",
+      "onboard_time": 1719123917,
+      "rank": 49,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 92580,
@@ -1403,6 +1539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73768,
+      "num": 459092,
+      "word": "谈钱羞耻是一种什么感受",
+      "onboard_time": 1719122417,
+      "rank": 9,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 72767,
       "num": 102950,
       "word": "张峻豪回应负面新闻",
@@ -1425,14 +1569,6 @@
       "onboard_time": 1719066559,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 67969,
-      "num": 346103,
-      "word": "蔡磊进ICU妻子20天暴瘦十斤",
-      "onboard_time": 1719118639,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 67819,

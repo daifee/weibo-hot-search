@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 13:34:28
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 14:25:42
 </p>
 </blockquote>
 <p>
@@ -5727,6 +5727,12 @@ Selina谈到男友哭了（热度：697166）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E7%BC%B4%E6%9E%AA%E7%9A%84%E6%98%AF%E9%A1%B6%E7%BA%A7%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%23" target="weibo">
+菲自曝被中国海警缴枪的是顶级特种部队（热度：693505）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8F%91%E7%9A%84%E6%98%AFC%E6%89%A9%23" target="weibo">
 杨幂发的是C扩（热度：693365）
 </a>
@@ -6005,12 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%87%BA%E7%BA%BF%23" target="weibo">
 国足出线（热度：673988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8010%E5%B1%82%E5%85%AC%E5%AF%93%E5%9B%A0%E9%81%AE%E6%8C%A1%E5%AF%8C%E5%A3%AB%E5%B1%B1%E7%B4%A7%E6%80%A5%E6%8B%86%E9%99%A4%23" target="weibo">
-日本一10层公寓因遮挡富士山紧急拆除（热度：673913）
 </a>
 </li>
 
