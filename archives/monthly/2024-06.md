@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 23:19:05
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 23:34:33
 </p>
 </blockquote>
 <p>
@@ -1671,6 +1671,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC28%E6%AC%A1%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%87%BA%E7%82%89%23" target="weibo">
+梁实第28次高考成绩出炉（热度：1367903）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%85%A8%E5%BC%80%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%23" target="weibo">
 朋友圈全开的是什么样的人（热度：1366267）
 </a>
@@ -1727,12 +1733,6 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E9%81%AD%E8%B4%A8%E7%96%91%23" target="weibo">
 姜萍遭质疑（热度：1360575）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC28%E6%AC%A1%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%87%BA%E7%82%89%23" target="weibo">
-梁实第28次高考成绩出炉（热度：1357503）
 </a>
 </li>
 
@@ -5205,6 +5205,12 @@ Jennie走秀（热度：742682）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%93%9D%E4%B9%8B%E8%B0%9C%E6%9F%9C%E5%A7%90%E8%A2%AB%E9%A1%BE%E5%AE%A2%E6%B3%BC%E6%B0%B4%E7%BE%9E%E8%BE%B1%23" target="weibo">
+海蓝之谜柜姐被顾客泼水羞辱（热度：742402）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%BD%BB%E7%9C%89%20%E5%A4%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
 叶轻眉 大女主（热度：741905）
 </a>
@@ -5639,12 +5645,6 @@ Manner事件 不要为难服务人员（热度：723939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E7%BB%99%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E5%86%99%E5%B0%8F%E4%BD%9C%E6%96%87%23" target="weibo">
 伊能静给墨雨云间写小作文（热度：709748）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E8%93%9D%E4%B9%8B%E8%B0%9C%E6%9F%9C%E5%A7%90%E8%A2%AB%E9%A1%BE%E5%AE%A2%E6%B3%BC%E6%B0%B4%E7%BE%9E%E8%BE%B1%23" target="weibo">
-海蓝之谜柜姐被顾客泼水羞辱（热度：709639）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719155945438,
+  "endTime": 1719156873097,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2211,6 +2211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1367903,
+      "num": 1367903,
+      "word": "梁实第28次高考成绩出炉",
+      "onboard_time": 1719152959,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1366267,
       "num": 853436,
       "word": "朋友圈全开的是什么样的人",
@@ -2288,14 +2296,6 @@
       "word": "姜萍遭质疑",
       "onboard_time": 1718705358,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1357503,
-      "num": 1357503,
-      "word": "梁实第28次高考成绩出炉",
-      "onboard_time": 1719152959,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -6923,6 +6923,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 742402,
+      "num": 742402,
+      "word": "海蓝之谜柜姐被顾客泼水羞辱",
+      "onboard_time": 1719152179,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741905,
       "num": 741905,
       "word": "叶轻眉 大女主",
@@ -7505,14 +7513,6 @@
       "onboard_time": 1718253620,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 709639,
-      "num": 709639,
-      "word": "海蓝之谜柜姐被顾客泼水羞辱",
-      "onboard_time": 1719152179,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 709241,
@@ -14755,6 +14755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 445385,
+      "num": 300591,
+      "word": "男子带96岁母亲酒店养老遭集体拉黑",
+      "onboard_time": 1719154279,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445064,
       "num": 393388,
       "word": "丝芭曾为鞠婧祎定制四部剧",
@@ -18475,14 +18483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 362144,
-      "num": 262871,
-      "word": "男子带96岁母亲酒店养老遭集体拉黑",
-      "onboard_time": 1719154279,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 362136,
       "num": 362136,
       "word": "iOS18将推出iPhone镜像功能",
@@ -19123,6 +19123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 352880,
+      "num": 352880,
+      "word": "庆余年 晕墨",
+      "onboard_time": 1719155899,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352771,
       "num": 352771,
       "word": "孙俪晒邓超与孩子们母亲节对话",
@@ -19617,6 +19625,14 @@
       "onboard_time": 1717806137,
       "rank": 5,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 342751,
+      "num": 342751,
+      "word": "青岛大学 奢香夫人",
+      "onboard_time": 1719155239,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342608,
@@ -27827,14 +27843,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231512,
-      "num": 231512,
-      "word": "青岛大学 奢香夫人",
-      "onboard_time": 1719155239,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231406,
       "num": 231406,
       "word": "小老虎发聊天记录",
@@ -28017,6 +28025,14 @@
       "onboard_time": 1718375242,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229413,
+      "num": 229413,
+      "word": "林允发际线",
+      "onboard_time": 1719156200,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 229377,
@@ -28305,6 +28321,14 @@
       "onboard_time": 1718339179,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227437,
+      "num": 227437,
+      "word": "一份没有985211的宝藏大学名单",
+      "onboard_time": 1719152420,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 227376,
@@ -29291,6 +29315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219354,
+      "num": 219354,
+      "word": "汪苏泷综艺爆曲八连唱",
+      "onboard_time": 1719155780,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219351,
       "num": 191923,
       "word": "王星越人没到嘴先到了",
@@ -29721,14 +29753,6 @@
       "onboard_time": 1718781620,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216715,
-      "num": 216715,
-      "word": "一份没有985211的宝藏大学名单",
-      "onboard_time": 1719152420,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 216713,
@@ -38243,14 +38267,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 177264,
-      "num": 177264,
-      "word": "汪苏泷综艺爆曲八连唱",
-      "onboard_time": 1719155780,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 177105,
       "num": 177105,
       "word": "云南一女子吃野生菌看到机器人小偷",
@@ -40489,6 +40505,14 @@
       "onboard_time": 1718172498,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166709,
+      "num": 166709,
+      "word": "大奉打更人预告repo",
+      "onboard_time": 1719156438,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 166664,
@@ -45417,14 +45441,6 @@
       "onboard_time": 1718364619,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147838,
-      "num": 147838,
-      "word": "庆余年 晕墨",
-      "onboard_time": 1719155899,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 147808,
@@ -50384,6 +50400,14 @@
       "word": "吴谨言回应和王星越年龄差距",
       "onboard_time": 1719026057,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129138,
+      "num": 129138,
+      "word": "罗云熙是有和飞禽拍戏的KPI吗",
+      "onboard_time": 1719156678,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -66939,6 +66963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25372,
+      "num": 416257,
+      "word": "微博文化之夜年度荣誉",
+      "onboard_time": 1719154819,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25369,
       "num": 202401,
       "word": "邓超是懂如何宠粉的",
@@ -67689,14 +67721,6 @@
       "onboard_time": 1718956818,
       "rank": 43,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 18362,
-      "num": 416257,
-      "word": "微博文化之夜年度荣誉",
-      "onboard_time": 1719154819,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 18329,
