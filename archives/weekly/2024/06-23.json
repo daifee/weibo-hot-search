@@ -1,7 +1,15 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719119881305,
+  "endTime": 1719120868752,
   "band_list": [
+    {
+      "raw_hot": 1961268,
+      "num": 1961268,
+      "word": "女生高考查分701后质疑自己",
+      "onboard_time": 1719117498,
+      "rank": 0,
+      "category": "教育,社会新闻"
+    },
     {
       "raw_hot": 1934203,
       "num": 1934203,
@@ -17,14 +25,6 @@
       "onboard_time": 1719100094,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1879069,
-      "num": 1879069,
-      "word": "女生高考查分701后质疑自己",
-      "onboard_time": 1719117498,
-      "rank": 0,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1830190,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1586313,
+      "num": 1586313,
+      "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+      "onboard_time": 1719118997,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1482062,
       "num": 1482062,
       "word": "第一批查分的高考生已开始尖叫",
@@ -57,14 +65,6 @@
       "onboard_time": 1719111318,
       "rank": 5,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 1275579,
-      "num": 1275579,
-      "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
-      "onboard_time": 1719118997,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1152737,
@@ -137,6 +137,14 @@
       "onboard_time": 1719102256,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 700655,
+      "num": 700655,
+      "word": "阿里巴巴全球数学竞赛决赛试题公布",
+      "onboard_time": 1719118576,
+      "rank": 13,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 655630,
@@ -219,12 +227,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 496304,
-      "num": 496304,
-      "word": "阿里巴巴全球数学竞赛决赛试题公布",
-      "onboard_time": 1719118576,
-      "rank": 13,
-      "category": "社会新闻,教育"
+      "raw_hot": 502201,
+      "num": 502201,
+      "word": "王星越谈被校园霸凌哭了",
+      "onboard_time": 1719118398,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 493993,
@@ -232,14 +240,6 @@
       "word": "张杰回应被小骨头卡住做手术",
       "onboard_time": 1719103338,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 491232,
-      "num": 491232,
-      "word": "王星越谈被校园霸凌哭了",
-      "onboard_time": 1719118398,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -603,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229970,
+      "num": 229970,
+      "word": "王俊凯送王源花篮",
+      "onboard_time": 1719120544,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228363,
       "num": 228363,
       "word": "佩佩 越老越妖",
@@ -691,6 +699,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 194738,
+      "num": 194738,
+      "word": "一所小学40年从300个人到30个人",
+      "onboard_time": 1719120139,
+      "rank": 25,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 193986,
       "num": 193986,
       "word": "吴世勋去张艺兴演唱会",
@@ -713,6 +729,14 @@
       "onboard_time": 1719113298,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191172,
+      "num": 191172,
+      "word": "孙怡跳了TFBOYS的歌",
+      "onboard_time": 1719119419,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 189838,
@@ -787,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176216,
+      "num": 168428,
+      "word": "傅家明也住进了方协文心里",
+      "onboard_time": 1719120318,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173855,
       "num": 173855,
       "word": "C罗成欧洲杯历史助攻王",
@@ -843,6 +875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166811,
+      "num": 166811,
+      "word": "具荷拉失窃相关内容被公开",
+      "onboard_time": 1719120438,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164330,
       "num": 91883,
       "word": "2024多地高考成绩今日可查",
@@ -883,14 +923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160292,
-      "num": 160292,
-      "word": "孙怡跳了TFBOYS的歌",
-      "onboard_time": 1719119419,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158140,
       "num": 158140,
       "word": "赵丽颖杨单合作",
@@ -899,12 +931,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158109,
+      "num": 158109,
+      "word": "印尼女子下跑步机时摔倒从窗户坠亡",
+      "onboard_time": 1719120438,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154157,
       "num": 195937,
       "word": "睡前凉快一下更容易睡得香",
       "onboard_time": 1719069199,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 147808,
+      "num": 147808,
+      "word": "绵阳中考一班6人超850分",
+      "onboard_time": 1719120018,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 147104,
@@ -939,6 +987,14 @@
       "category": "剧集,社会新闻"
     },
     {
+      "raw_hot": 144626,
+      "num": 144626,
+      "word": "杰伦布朗戒指丢了",
+      "onboard_time": 1719120198,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143912,
       "num": 143912,
       "word": "孟美岐美式女高造型",
@@ -961,6 +1017,22 @@
       "onboard_time": 1719099134,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 142145,
+      "num": 142145,
+      "word": "为何有些女性怀孕后还会规律来月经",
+      "onboard_time": 1719119839,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 137559,
+      "num": 137559,
+      "word": "原来医生眼中的辛辣食物不仅仅是辣椒",
+      "onboard_time": 1719119657,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135393,
@@ -1075,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119256,
-      "num": 119256,
-      "word": "原来医生眼中的辛辣食物不仅仅是辣椒",
-      "onboard_time": 1719119657,
-      "rank": 39,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 118565,
       "num": 192239,
       "word": "李晨上体综第一个被淘汰",
@@ -1107,12 +1171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118204,
+      "num": 118204,
+      "word": "Blokecore到底为什么这么火",
+      "onboard_time": 1719120139,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 116685,
       "num": 116685,
       "word": "林允说好久没亲孟佳了",
       "onboard_time": 1719119598,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116278,
+      "num": 116278,
+      "word": "小鬼 不无聊的内娱舞台",
+      "onboard_time": 1719120679,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 114708,
@@ -1137,6 +1217,14 @@
       "onboard_time": 1719102555,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113219,
+      "num": 113219,
+      "word": "这版欧阳锋变帅了",
+      "onboard_time": 1719120679,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112385,
@@ -1243,14 +1331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 92052,
-      "num": 92052,
-      "word": "为何有些女性怀孕后还会规律来月经",
-      "onboard_time": 1719119839,
-      "rank": 49,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 89171,
       "num": 193278,
       "word": "格鲁吉亚vs捷克",
@@ -1347,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67969,
+      "num": 346103,
+      "word": "蔡磊进ICU妻子20天暴瘦十斤",
+      "onboard_time": 1719118639,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67819,
       "num": 191624,
       "word": "F1",
@@ -1417,6 +1505,14 @@
       "onboard_time": 1719047117,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 51275,
+      "num": 640479,
+      "word": "扬州含诗量有多高",
+      "onboard_time": 1719118818,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51058,
@@ -1531,6 +1627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 28327,
+      "num": 535043,
+      "word": "五彩缤纷的绿",
+      "onboard_time": 1719117858,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 28236,
       "num": 28236,
       "word": "歌手 音频传输折损现象",
@@ -1547,28 +1651,12 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 27274,
-      "num": 640479,
-      "word": "扬州含诗量有多高",
-      "onboard_time": 1719118818,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24891,
       "num": 27878,
       "word": "黄晓明感谢吴优",
       "onboard_time": 1719088571,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21072,
-      "num": 514139,
-      "word": "五彩缤纷的绿",
-      "onboard_time": 1719117858,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 18457,
