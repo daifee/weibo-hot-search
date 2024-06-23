@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719171269998,
+  "endTime": 1719173976006,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -63699,6 +63699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 49810,
+      "num": 26294,
+      "word": "夫妻自驾运毒34.8公斤被抓",
+      "onboard_time": 1719169151,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49801,
       "num": 49801,
       "word": "Mark问Uzi去不去WE",
@@ -66427,14 +66435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29776,
-      "num": 26294,
-      "word": "夫妻自驾运毒34.8公斤被抓",
-      "onboard_time": 1719169151,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29766,
       "num": 182788,
       "word": "刘诗诗高考祝福都在图里",
@@ -66899,6 +66899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26639,
+      "num": 26639,
+      "word": "于正说以后他所有的剧全部明确HE",
+      "onboard_time": 1719171552,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26638,
       "num": 263608,
       "word": "定格在郑州落日下的浪漫",
@@ -67193,6 +67201,14 @@
       "onboard_time": 1717583476,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24216,
+      "num": 21960,
+      "word": "男生查分被屏蔽淡定向家人报喜",
+      "onboard_time": 1719172270,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24145,
@@ -67841,6 +67857,14 @@
       "onboard_time": 1718604018,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 18283,
+      "num": 18283,
+      "word": "陈都灵买过刘诗诗步步惊心周边",
+      "onboard_time": 1719173470,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 18257,

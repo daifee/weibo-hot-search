@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719171269998,
+  "endTime": 1719173976006,
   "band_list": [
     {
       "raw_hot": 1031912,
@@ -411,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49810,
+      "num": 26294,
+      "word": "夫妻自驾运毒34.8公斤被抓",
+      "onboard_time": 1719169151,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48089,
       "num": 51423,
       "word": "RNG夏季赛五连败",
@@ -451,14 +459,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29776,
-      "num": 26294,
-      "word": "夫妻自驾运毒34.8公斤被抓",
-      "onboard_time": 1719169151,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 29292,
       "num": 405453,
       "word": "妈妈捧着一束肉串接中考儿子回家",
@@ -483,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26639,
+      "num": 26639,
+      "word": "于正说以后他所有的剧全部明确HE",
+      "onboard_time": 1719171552,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25955,
       "num": 28440,
       "word": "花莲海域4.9级地震",
@@ -491,12 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17627,
+      "raw_hot": 24216,
+      "num": 21960,
+      "word": "男生查分被屏蔽淡定向家人报喜",
+      "onboard_time": 1719172270,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18419,
       "num": 18636,
       "word": "艾尔登法环",
       "onboard_time": 1719170651,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18283,
+      "num": 18283,
+      "word": "陈都灵买过刘诗诗步步惊心周边",
+      "onboard_time": 1719173470,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 12780,
