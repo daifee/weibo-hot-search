@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 12:22:02
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 12:36:39
 </p>
 </blockquote>
 <p>
@@ -1473,6 +1473,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+高考分数线（热度：1432129）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8F%88%E5%B9%B8%E7%A6%8F%E4%BA%86%23" target="weibo">
 王俊凯又幸福了（热度：1427896）
 </a>
@@ -1481,12 +1487,6 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%A7%E4%BE%B5%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E7%9A%84%E9%9F%A9%E9%85%92%E5%BA%97%E5%91%98%E5%B7%A5%E5%B7%B2%E8%BF%94%E5%B2%97%23" target="weibo">
 性侵中国女游客的韩酒店员工已返岗（热度：1426896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
-高考分数线（热度：1425154）
 </a>
 </li>
 

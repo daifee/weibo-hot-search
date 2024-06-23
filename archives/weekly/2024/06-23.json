@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719116522081,
+  "endTime": 1719117399652,
   "band_list": [
     {
       "raw_hot": 1934203,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1425154,
-      "num": 1425154,
+      "raw_hot": 1432129,
+      "num": 1432129,
       "word": "高考分数线",
       "onboard_time": 1719111318,
       "rank": 5,
@@ -123,6 +123,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 647284,
+      "num": 647284,
+      "word": "第一批查分的高考生已开始尖叫",
+      "onboard_time": 1719117078,
+      "rank": 6,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 639843,
+      "num": 639843,
+      "word": "李海仁",
+      "onboard_time": 1719113239,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 624296,
       "num": 624296,
       "word": "月亮",
@@ -131,12 +147,20 @@
       "category": "自然"
     },
     {
-      "raw_hot": 582779,
-      "num": 582779,
-      "word": "李海仁",
-      "onboard_time": 1719113239,
-      "rank": 28,
-      "category": "体育,社会新闻"
+      "raw_hot": 557553,
+      "num": 557553,
+      "word": "腾讯大会",
+      "onboard_time": 1719114857,
+      "rank": 17,
+      "category": "互联网,剧集"
+    },
+    {
+      "raw_hot": 545517,
+      "num": 545517,
+      "word": "张颂文 小韩炸鸡店",
+      "onboard_time": 1719112696,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 543371,
@@ -155,12 +179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 501943,
-      "num": 450146,
-      "word": "张颂文 小韩炸鸡店",
-      "onboard_time": 1719112696,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 528876,
+      "num": 528876,
+      "word": "女子称怀孕后公司让她选降薪或辞职",
+      "onboard_time": 1719113057,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 493993,
@@ -283,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 383343,
+      "num": 383343,
+      "word": "吴谨言没想到叼玉佩成名场面",
+      "onboard_time": 1719116358,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 379141,
       "num": 379141,
       "word": "傅家明留给玫瑰的遗书是食谱",
@@ -296,14 +328,6 @@
       "word": "Manner 倒计时",
       "onboard_time": 1719073277,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 372574,
-      "num": 372574,
-      "word": "女子称怀孕后公司让她选降薪或辞职",
-      "onboard_time": 1719113057,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -361,14 +385,6 @@
       "onboard_time": 1719111977,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 345209,
-      "num": 345209,
-      "word": "腾讯大会",
-      "onboard_time": 1719114857,
-      "rank": 17,
-      "category": "互联网,剧集"
     },
     {
       "raw_hot": 331605,
@@ -587,6 +603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 211032,
+      "num": 211032,
+      "word": "刘亦菲彭冠英出租车吻戏",
+      "onboard_time": 1719117198,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207979,
       "num": 207979,
       "word": "于正说曾看不起一手炮制的爽剧",
@@ -627,20 +651,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 196680,
-      "num": 196680,
-      "word": "吴谨言没想到叼玉佩成名场面",
-      "onboard_time": 1719116358,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193986,
       "num": 193986,
       "word": "吴世勋去张艺兴演唱会",
       "onboard_time": 1719054256,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192416,
+      "num": 192416,
+      "word": "光与夜之恋",
+      "onboard_time": 1719115999,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 191771,
@@ -667,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185691,
+      "num": 185691,
+      "word": "孕期通勤我记录了被让座的经历",
+      "onboard_time": 1719114018,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 185001,
       "num": 91574,
       "word": "歌手 大众评审系统",
@@ -691,14 +723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180444,
-      "num": 180444,
-      "word": "光与夜之恋",
-      "onboard_time": 1719115999,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 180165,
       "num": 180165,
       "word": "吴谨言 第一次看考古女演员",
@@ -721,14 +745,6 @@
       "onboard_time": 1719105677,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176769,
-      "num": 176769,
-      "word": "孕期通勤我记录了被让座的经历",
-      "onboard_time": 1719114018,
-      "rank": 31,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 173855,
@@ -779,8 +795,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165427,
-      "num": 165427,
+      "raw_hot": 167935,
+      "num": 167935,
       "word": "怎么会有小猫被骗三次",
       "onboard_time": 1719113177,
       "rank": 44,
@@ -867,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144719,
+      "num": 144719,
+      "word": "墨雨云间超前点映被吐槽太贵",
+      "onboard_time": 1719115097,
+      "rank": 41,
+      "category": "剧集,社会新闻"
+    },
+    {
       "raw_hot": 143912,
       "num": 143912,
       "word": "孟美岐美式女高造型",
@@ -889,14 +913,6 @@
       "onboard_time": 1719099134,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 138201,
-      "num": 138201,
-      "word": "墨雨云间超前点映被吐槽太贵",
-      "onboard_time": 1719115097,
-      "rank": 41,
-      "category": "剧集,社会新闻"
     },
     {
       "raw_hot": 135393,
@@ -936,6 +952,14 @@
       "word": "李帝努又脱了",
       "onboard_time": 1719069679,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 126655,
+      "num": 126655,
+      "word": "汪苏泷演唱会温馨提示",
+      "onboard_time": 1719116478,
+      "rank": 49,
       "category": "演出"
     },
     {
@@ -985,6 +1009,14 @@
       "onboard_time": 1719065239,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120217,
+      "num": 120217,
+      "word": "吴谨言回应和王星越二搭",
+      "onboard_time": 1719116659,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 119556,
@@ -1089,14 +1121,6 @@
       "onboard_time": 1719059719,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 100287,
-      "num": 100287,
-      "word": "汪苏泷演唱会温馨提示",
-      "onboard_time": 1719116478,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 99018,
@@ -1315,7 +1339,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 42582,
+      "raw_hot": 42858,
       "num": 1233491,
       "word": "申遗十年看运河",
       "onboard_time": 1719112818,
@@ -1371,20 +1395,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35582,
+      "num": 590760,
+      "word": "陈丽君何青青合唱天上掉下个林妹妹",
+      "onboard_time": 1719115877,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 34706,
       "num": 47713,
       "word": "法国3支特种部队将参与奥运安保",
       "onboard_time": 1719078734,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33631,
-      "num": 482229,
-      "word": "陈丽君何青青合唱天上掉下个林妹妹",
-      "onboard_time": 1719115877,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 33234,
