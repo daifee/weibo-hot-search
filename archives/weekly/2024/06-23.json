@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719113656383,
+  "endTime": 1719116522081,
   "band_list": [
     {
       "raw_hot": 1934203,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1425154,
+      "num": 1425154,
+      "word": "高考分数线",
+      "onboard_time": 1719111318,
+      "rank": 5,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1152737,
       "num": 1152737,
       "word": "林俊杰 冻结",
@@ -67,14 +75,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1046459,
-      "num": 1046459,
-      "word": "高考分数线",
-      "onboard_time": 1719111318,
-      "rank": 5,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 933631,
       "num": 933631,
       "word": "任嘉伦 欢瑞",
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 740679,
-      "num": 352605,
+      "num": 484963,
       "word": "韩国花滑丑闻",
       "onboard_time": 1719109157,
       "rank": 22,
@@ -131,6 +131,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 582779,
+      "num": 582779,
+      "word": "李海仁",
+      "onboard_time": 1719113239,
+      "rank": 28,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 543371,
       "num": 447281,
       "word": "玫瑰的故事大结局",
@@ -145,6 +153,14 @@
       "onboard_time": 1719057258,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 501943,
+      "num": 450146,
+      "word": "张颂文 小韩炸鸡店",
+      "onboard_time": 1719112696,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 493993,
@@ -283,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 372574,
+      "num": 372574,
+      "word": "女子称怀孕后公司让她选降薪或辞职",
+      "onboard_time": 1719113057,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 372017,
       "num": 372017,
       "word": "茶百道",
@@ -296,6 +320,14 @@
       "word": "薛芳菲为婉宁流泪",
       "onboard_time": 1719066500,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 365281,
+      "num": 365281,
+      "word": "薛芳菲替姜梨原谅父亲",
+      "onboard_time": 1719112457,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -329,6 +361,14 @@
       "onboard_time": 1719111977,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 345209,
+      "num": 345209,
+      "word": "腾讯大会",
+      "onboard_time": 1719114857,
+      "rank": 17,
+      "category": "互联网,剧集"
     },
     {
       "raw_hot": 331605,
@@ -387,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293773,
-      "num": 293773,
-      "word": "张颂文 小韩炸鸡店",
-      "onboard_time": 1719112696,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292741,
       "num": 292741,
       "word": "权志龙说BIGBANG现在只有三个人",
@@ -441,14 +473,6 @@
       "onboard_time": 1719105317,
       "rank": 38,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 255138,
-      "num": 255138,
-      "word": "薛芳菲替姜梨原谅父亲",
-      "onboard_time": 1719112457,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 249047,
@@ -523,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227921,
+      "num": 227921,
+      "word": "云南文科一本550理科一本505",
+      "onboard_time": 1719114978,
+      "rank": 25,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 222406,
       "num": 222406,
       "word": "Gemini红温",
@@ -547,20 +579,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211142,
+      "num": 211142,
+      "word": "分手后收到了前任寄来的快递",
+      "onboard_time": 1719112159,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207979,
       "num": 207979,
       "word": "于正说曾看不起一手炮制的爽剧",
       "onboard_time": 1719104477,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206075,
-      "num": 206075,
-      "word": "李海仁",
-      "onboard_time": 1719113239,
-      "rank": 28,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 204699,
@@ -595,12 +627,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 198145,
-      "num": 198145,
-      "word": "分手后收到了前任寄来的快递",
-      "onboard_time": 1719112159,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 196680,
+      "num": 196680,
+      "word": "吴谨言没想到叼玉佩成名场面",
+      "onboard_time": 1719116358,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 193986,
@@ -659,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180444,
+      "num": 180444,
+      "word": "光与夜之恋",
+      "onboard_time": 1719115999,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 180165,
       "num": 180165,
       "word": "吴谨言 第一次看考古女演员",
@@ -683,12 +723,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176769,
+      "num": 176769,
+      "word": "孕期通勤我记录了被让座的经历",
+      "onboard_time": 1719114018,
+      "rank": 31,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 173855,
       "num": 173855,
       "word": "C罗成欧洲杯历史助攻王",
       "onboard_time": 1719098592,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173516,
+      "num": 173516,
+      "word": "以防你没见过刚出生的泰迪",
+      "onboard_time": 1719114978,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 172807,
@@ -707,14 +763,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 170193,
-      "num": 170193,
-      "word": "女子称怀孕后公司让她选降薪或辞职",
-      "onboard_time": 1719113057,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170080,
       "num": 193970,
       "word": "云边有个小卖部 he",
@@ -729,6 +777,14 @@
       "onboard_time": 1719113298,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165427,
+      "num": 165427,
+      "word": "怎么会有小猫被骗三次",
+      "onboard_time": 1719113177,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 164330,
@@ -811,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145770,
-      "num": 145770,
-      "word": "怎么会有小猫被骗三次",
-      "onboard_time": 1719113177,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143912,
       "num": 143912,
       "word": "孟美岐美式女高造型",
@@ -843,12 +891,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138201,
+      "num": 138201,
+      "word": "墨雨云间超前点映被吐槽太贵",
+      "onboard_time": 1719115097,
+      "rank": 41,
+      "category": "剧集,社会新闻"
+    },
+    {
       "raw_hot": 135393,
       "num": 135393,
       "word": "墨雨云间你这样变装王星越知道吗",
       "onboard_time": 1719111737,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135244,
+      "num": 135244,
+      "word": "香缇莫回应排名第一",
+      "onboard_time": 1719115697,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 134266,
@@ -899,6 +963,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123234,
+      "num": 123234,
+      "word": "Ning教唆TheShy",
+      "onboard_time": 1719114018,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122474,
       "num": 202222,
       "word": "拿6双筷子被指偷窃女生要求公开道歉",
@@ -937,6 +1009,14 @@
       "onboard_time": 1719104477,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118304,
+      "num": 118304,
+      "word": "朱珠 艺术让我感觉活着",
+      "onboard_time": 1719114919,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 114708,
@@ -1009,6 +1089,14 @@
       "onboard_time": 1719059719,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100287,
+      "num": 100287,
+      "word": "汪苏泷演唱会温馨提示",
+      "onboard_time": 1719116478,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 99018,
@@ -1227,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42582,
+      "num": 1233491,
+      "word": "申遗十年看运河",
+      "onboard_time": 1719112818,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41145,
       "num": 49829,
       "word": "养成松弛感的9个方法",
@@ -1283,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33631,
+      "num": 482229,
+      "word": "陈丽君何青青合唱天上掉下个林妹妹",
+      "onboard_time": 1719115877,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33234,
       "num": 337509,
       "word": "轿车落水黑衣男子一路飞奔跳水救人",
@@ -1321,14 +1425,6 @@
       "onboard_time": 1719113118,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 27174,
-      "num": 1233491,
-      "word": "申遗十年看运河",
-      "onboard_time": 1719112818,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24891,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 11:34:16
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 12:22:02
 </p>
 </blockquote>
 <p>
@@ -1485,6 +1485,12 @@ iPhone16将砍掉实体键改为电容式（热度：1438100）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+高考分数线（热度：1425154）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E6%AF%85%E5%BC%A0%E7%85%9C%E4%B8%9C%E7%BB%93%E5%A9%9A%23" target="weibo">
 张凯毅张煜东结婚（热度：1424386）
 </a>
@@ -2945,12 +2951,6 @@ iPhone有通话录音了（热度：1060619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E8%97%8F%E8%BD%A6%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E5%84%BF%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 冷藏车事故遇难者儿子发声（热度：1047398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
-高考分数线（热度：1046459）
 </a>
 </li>
 

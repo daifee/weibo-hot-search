@@ -1,0 +1,410 @@
+{
+  "runTime": 1719116522081,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1695994,
+        "num": 1695994,
+        "word": "女生高考查分669激动掩面哭泣",
+        "onboard_time": 1719109218,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1425154,
+        "num": 1425154,
+        "word": "高考分数线",
+        "onboard_time": 1719111318,
+        "rank": 1,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 42582,
+        "num": 1095473,
+        "word": "申遗十年看运河",
+        "onboard_time": 1719112818,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081536,
+        "num": 1081536,
+        "word": "任嘉伦官宣离开欢瑞世纪",
+        "onboard_time": 1719106157,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 924509,
+        "num": 924509,
+        "word": "母亲欲取过世儿子存款被拒起诉银行",
+        "onboard_time": 1719105497,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 876228,
+        "num": 876228,
+        "word": "刘亦菲下部戏是南烟斋笔录",
+        "onboard_time": 1719110417,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 668836,
+        "num": 668836,
+        "word": "庄国栋也找到了黄亦玫的秘密基地",
+        "onboard_time": 1719109578,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 582779,
+        "num": 582779,
+        "word": "李海仁",
+        "onboard_time": 1719113239,
+        "rank": 7,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 484963,
+        "num": 484963,
+        "word": "韩国花滑丑闻",
+        "onboard_time": 1719109157,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33631,
+        "num": 482229,
+        "word": "陈丽君何青青合唱天上掉下个林妹妹",
+        "onboard_time": 1719115877,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 503771,
+        "num": 466741,
+        "word": "云边有个小卖部 赵露思",
+        "onboard_time": 1719102256,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 501943,
+        "num": 450146,
+        "word": "张颂文 小韩炸鸡店",
+        "onboard_time": 1719112696,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488039,
+        "num": 439175,
+        "word": "教师还是铁饭碗吗",
+        "onboard_time": 1719111318,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 424893,
+        "num": 424893,
+        "word": "婚后才发现老公学历骗了我",
+        "onboard_time": 1719099494,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372574,
+        "num": 372574,
+        "word": "女子称怀孕后公司让她选降薪或辞职",
+        "onboard_time": 1719113057,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365281,
+        "num": 365281,
+        "word": "薛芳菲替姜梨原谅父亲",
+        "onboard_time": 1719112457,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357748,
+        "num": 357748,
+        "word": "Manner去年仅1225人缴纳五险",
+        "onboard_time": 1719107956,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345209,
+        "num": 345209,
+        "word": "腾讯大会",
+        "onboard_time": 1719114857,
+        "rank": 17,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 344067,
+        "num": 344067,
+        "word": "迪丽热巴方发维权声明",
+        "onboard_time": 1719111618,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262602,
+        "num": 262602,
+        "word": "高考查分",
+        "onboard_time": 1719100094,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 358086,
+        "num": 262578,
+        "word": "家里出现小霉点身体可能要遭殃",
+        "onboard_time": 1719105617,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291778,
+        "num": 262545,
+        "word": "吴谨言王星越P图告别墨雨云间",
+        "onboard_time": 1719110056,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270051,
+        "num": 262519,
+        "word": "贵女",
+        "onboard_time": 1719111977,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263142,
+        "num": 262494,
+        "word": "孙怡96斤",
+        "onboard_time": 1719104236,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262481,
+        "num": 262481,
+        "word": "傅家明留给玫瑰的遗书是食谱",
+        "onboard_time": 1719110838,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227921,
+        "num": 227921,
+        "word": "云南文科一本550理科一本505",
+        "onboard_time": 1719114978,
+        "rank": 25,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 211142,
+        "num": 211142,
+        "word": "分手后收到了前任寄来的快递",
+        "onboard_time": 1719112159,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196680,
+        "num": 196680,
+        "word": "吴谨言没想到叼玉佩成名场面",
+        "onboard_time": 1719116358,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183510,
+        "num": 183510,
+        "word": "男子至尊精油开背后心肌梗塞死亡",
+        "onboard_time": 1719105437,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180444,
+        "num": 180444,
+        "word": "光与夜之恋",
+        "onboard_time": 1719115999,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 262585,
+        "num": 179114,
+        "word": "茶百道",
+        "onboard_time": 1719110177,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176769,
+        "num": 176769,
+        "word": "孕期通勤我记录了被让座的经历",
+        "onboard_time": 1719114018,
+        "rank": 31,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 173933,
+        "num": 173933,
+        "word": "越来越明白了什么是无效社交",
+        "onboard_time": 1719112159,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173516,
+        "num": 173516,
+        "word": "以防你没见过刚出生的泰迪",
+        "onboard_time": 1719114978,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 165427,
+        "num": 165427,
+        "word": "怎么会有小猫被骗三次",
+        "onboard_time": 1719113177,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162524,
+        "num": 162524,
+        "word": "TheShy说BLG虐泉的习惯不好",
+        "onboard_time": 1719111198,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159211,
+        "num": 159211,
+        "word": "梨形身材越练腿越细",
+        "onboard_time": 1719109218,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150975,
+        "num": 150975,
+        "word": "2024内蒙古高考分数线",
+        "onboard_time": 1719109157,
+        "rank": 37,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 148414,
+        "word": "带着饥饿感入睡是脾胃恢复的开端",
+        "onboard_time": 1719098893,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143858,
+        "num": 143858,
+        "word": "丁真一个人锯了所有木头",
+        "onboard_time": 1719110298,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143069,
+        "num": 143069,
+        "word": "女生网上报名支教变成交钱旅游",
+        "onboard_time": 1719105677,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138201,
+        "num": 138201,
+        "word": "墨雨云间超前点映被吐槽太贵",
+        "onboard_time": 1719115097,
+        "rank": 41,
+        "category": "剧集,社会新闻"
+      },
+      {
+        "raw_hot": 136162,
+        "num": 136162,
+        "word": "张颂文经纪人",
+        "onboard_time": 1719113298,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135244,
+        "num": 135244,
+        "word": "香缇莫回应排名第一",
+        "onboard_time": 1719115697,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129098,
+        "num": 129098,
+        "word": "杨幂发论文的期刊不收版面费",
+        "onboard_time": 1719099855,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123234,
+        "num": 123234,
+        "word": "Ning教唆TheShy",
+        "onboard_time": 1719114018,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119442,
+        "num": 119442,
+        "word": "和妻子结婚后有了一群不扫兴的家人",
+        "onboard_time": 1719105557,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118304,
+        "num": 118304,
+        "word": "朱珠 艺术让我感觉活着",
+        "onboard_time": 1719114919,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107041,
+        "num": 107041,
+        "word": "赵丽颖杨单合作",
+        "onboard_time": 1719111857,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100287,
+        "num": 100287,
+        "word": "汪苏泷演唱会温馨提示",
+        "onboard_time": 1719116478,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设美丽新宁夏#"
+    }
+  }
+}
