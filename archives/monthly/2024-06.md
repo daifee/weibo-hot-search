@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 15:18:30
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/23 15:34:17
 </p>
 </blockquote>
 <p>
@@ -2405,6 +2405,12 @@ Manner咖啡（热度：1202482）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%20%E6%88%91%E6%89%BF%E8%AE%A4%E6%88%91%E9%94%99%E4%BA%86%23" target="weibo">
 于正 我承认我错了（热度：1160740）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+首个高考成绩被屏蔽的人出现了（热度：1159215）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Manner道歉（热度：681598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%E6%8C%96%E5%88%B0%E6%9C%88%E7%90%83%E5%9C%9F%E7%89%B9%E4%BA%A7%E4%BA%86%23" target="weibo">
 嫦娥六号挖到月球土特产了（热度：675520）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E6%95%85%E6%84%8F%E6%8A%8A%E6%89%8B%E6%94%BE%E5%9C%A8%E5%B0%8F%E7%8B%97%E7%9A%84%E5%98%B4%E8%BE%B9%23" target="weibo">
-主人故意把手放在小狗的嘴边（热度：675396）
 </a>
 </li>
 
