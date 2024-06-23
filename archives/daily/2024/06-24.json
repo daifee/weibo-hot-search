@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719181032769,
+  "endTime": 1719182057889,
   "band_list": [
     {
       "raw_hot": 1031912,
@@ -283,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111587,
+      "num": 111587,
+      "word": "于正说以后他所有的剧全部明确HE",
+      "onboard_time": 1719171552,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107408,
       "num": 107408,
       "word": "汪苏泷用徐志胜声音打碟",
@@ -329,14 +337,6 @@
       "onboard_time": 1719136037,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95756,
-      "num": 95756,
-      "word": "于正说以后他所有的剧全部明确HE",
-      "onboard_time": 1719171552,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 94320,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75210,
+      "num": 39976,
+      "word": "男生查分被屏蔽淡定向家人报喜",
+      "onboard_time": 1719172270,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74885,
       "num": 54184,
       "word": "菲律宾蓄意闹海",
@@ -419,11 +427,11 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 71023,
-      "num": 32326,
-      "word": "男生查分被屏蔽淡定向家人报喜",
-      "onboard_time": 1719172270,
-      "rank": 27,
+      "raw_hot": 72381,
+      "num": 39872,
+      "word": "夫妻自驾运毒34.8公斤被抓",
+      "onboard_time": 1719169151,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -435,12 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61241,
-      "num": 32277,
-      "word": "夫妻自驾运毒34.8公斤被抓",
-      "onboard_time": 1719169151,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 59869,
+      "num": 59869,
+      "word": "韩国的白菜是从山东引进的",
+      "onboard_time": 1719178812,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 53248,
+      "num": 53248,
+      "word": "陈都灵买过刘诗诗步步惊心周边",
+      "onboard_time": 1719173470,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 49606,
@@ -451,14 +467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48206,
-      "num": 48122,
-      "word": "陈都灵买过刘诗诗步步惊心周边",
-      "onboard_time": 1719173470,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48089,
       "num": 51423,
       "word": "RNG夏季赛五连败",
@@ -467,20 +475,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 34508,
+      "raw_hot": 45018,
+      "num": 45018,
+      "word": "黄晓明拿奖激动到手抖",
+      "onboard_time": 1719180431,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 40519,
+      "num": 40166,
+      "word": "49岁的林志玲状态",
+      "onboard_time": 1719177790,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 38671,
+      "num": 38671,
+      "word": "高考成绩被屏蔽为什么",
+      "onboard_time": 1719177011,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 35210,
       "num": 46386,
       "word": "高考成绩",
       "onboard_time": 1719150079,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 33523,
-      "num": 31191,
-      "word": "49岁的林志玲状态",
-      "onboard_time": 1719177790,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 32672,
@@ -499,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 29493,
-      "num": 29493,
-      "word": "韩国的白菜是从山东引进的",
-      "onboard_time": 1719178812,
-      "rank": 33,
-      "category": "美食"
-    },
-    {
       "raw_hot": 29292,
       "num": 405453,
       "word": "妈妈捧着一束肉串接中考儿子回家",
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 29160,
-      "num": 26836,
+      "num": 27340,
       "word": "我发现射手座很难被PUA",
       "onboard_time": 1719167339,
       "rank": 47,
@@ -531,14 +547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27144,
-      "num": 27144,
-      "word": "高考成绩被屏蔽为什么",
-      "onboard_time": 1719177011,
-      "rank": 46,
-      "category": "教育"
-    },
-    {
       "raw_hot": 25955,
       "num": 28440,
       "word": "花莲海域4.9级地震",
@@ -547,20 +555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20415,
-      "num": 22743,
-      "word": "黄晓明拿奖激动到手抖",
-      "onboard_time": 1719180431,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 19143,
-      "num": 22737,
+      "raw_hot": 20641,
+      "num": 27331,
       "word": "不翻车的小短甲",
       "onboard_time": 1719174311,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 20062,
+      "num": 27329,
+      "word": "风油精的隐藏妙用",
+      "onboard_time": 1719180191,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 18756,
@@ -577,14 +585,6 @@
       "onboard_time": 1719170651,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 17895,
-      "num": 22730,
-      "word": "风油精的隐藏妙用",
-      "onboard_time": 1719180191,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 17174,
@@ -619,8 +619,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2556,
-      "num": 151564,
+      "raw_hot": 2733,
+      "num": 206988,
       "word": "何以中国运载千秋",
       "onboard_time": 1718871918,
       "rank": 2,
