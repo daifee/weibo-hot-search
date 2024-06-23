@@ -1,0 +1,410 @@
+{
+  "runTime": 1719146050163,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1246215,
+        "num": 1246215,
+        "word": "李一桐 将门毒后",
+        "onboard_time": 1719141378,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1195652,
+        "num": 1195652,
+        "word": "杭州灵隐寺发大水",
+        "onboard_time": 1719143177,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6426,
+        "num": 1078881,
+        "word": "何以中国运载千秋",
+        "onboard_time": 1718871918,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 993975,
+        "num": 993975,
+        "word": "将门毒后 男主",
+        "onboard_time": 1719143297,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 774115,
+        "num": 774115,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 467663,
+        "num": 467663,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 855466,
+        "num": 457309,
+        "word": "云边有个小卖部 难看",
+        "onboard_time": 1719141918,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 430322,
+        "num": 430322,
+        "word": "女儿零点查分竟和妈妈梦的一模一样",
+        "onboard_time": 1719132737,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380267,
+        "num": 380267,
+        "word": "日本人冒充中国人在巴基斯坦骗吃骗喝",
+        "onboard_time": 1719118997,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340237,
+        "num": 361202,
+        "word": "女生高考查分669激动掩面哭泣",
+        "onboard_time": 1719109218,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 1576191,
+        "num": 360511,
+        "word": "高考后他们3小时进帐上亿",
+        "onboard_time": 1719140778,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 351267,
+        "num": 351267,
+        "word": "四川文科一本529理科一本539",
+        "onboard_time": 1719139818,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347736,
+        "num": 347736,
+        "word": "5名网红涉嫌诈骗被抓",
+        "onboard_time": 1719140838,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341346,
+        "num": 341346,
+        "word": "王源演唱会嘉宾 容祖儿",
+        "onboard_time": 1719138738,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 337952,
+        "num": 337952,
+        "word": "赵兆 不署名",
+        "onboard_time": 1719136037,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325778,
+        "num": 325778,
+        "word": "宋雨琦去SuperJunior演唱会",
+        "onboard_time": 1719144257,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321631,
+        "num": 321631,
+        "word": "魏无羡 AG",
+        "onboard_time": 1719145698,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 301650,
+        "num": 301650,
+        "word": "董璇女儿cos姜梨",
+        "onboard_time": 1719133158,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268815,
+        "num": 268815,
+        "word": "东京食尸鬼重大发表",
+        "onboard_time": 1719138078,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 248750,
+        "num": 248750,
+        "word": "湖南新晃山体滑坡失联8人已遇难",
+        "onboard_time": 1719145398,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568364,
+        "num": 248445,
+        "word": "2点睡觉10点起床算熬夜吗",
+        "onboard_time": 1719142338,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 451800,
+        "num": 248331,
+        "word": "妈妈有钱和爸爸有钱的区别",
+        "onboard_time": 1719140717,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 393961,
+        "num": 248277,
+        "word": "高考成绩被亲戚擅自发到家人群",
+        "onboard_time": 1719132799,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248141,
+        "num": 248141,
+        "word": "秦彻 沈星回",
+        "onboard_time": 1719139158,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244996,
+        "num": 244996,
+        "word": "猪身上这三个部位很脏尽量少吃",
+        "onboard_time": 1719145698,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243895,
+        "num": 243895,
+        "word": "白日提灯 平番",
+        "onboard_time": 1719145758,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243128,
+        "num": 243128,
+        "word": "高考626分男生刚查完分就去跑兼职",
+        "onboard_time": 1719140778,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198673,
+        "num": 198673,
+        "word": "林志玲开球",
+        "onboard_time": 1719131238,
+        "rank": 27,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 198142,
+        "num": 198142,
+        "word": "王一博回国到达北京",
+        "onboard_time": 1719144618,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82198,
+        "num": 196659,
+        "word": "Manner事件让人感叹打工人比咖啡苦",
+        "onboard_time": 1719144019,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229436,
+        "num": 196635,
+        "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+        "onboard_time": 1719145758,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196562,
+        "num": 196562,
+        "word": "RW 诚c",
+        "onboard_time": 1719145577,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190188,
+        "num": 190188,
+        "word": "TES对战LNG",
+        "onboard_time": 1719145038,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194656,
+        "num": 189017,
+        "word": "吴谨言紫色薄纱襦裙",
+        "onboard_time": 1719145097,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187798,
+        "num": 187798,
+        "word": "肖战北京机场图",
+        "onboard_time": 1719140117,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192177,
+        "num": 185482,
+        "word": "王涛自己发吻戏给前夫哥看",
+        "onboard_time": 1719133218,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168385,
+        "num": 168385,
+        "word": "嫦娥六号 想念地球的蓝天白云",
+        "onboard_time": 1719145638,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 167580,
+        "num": 167580,
+        "word": "优酷给墨雨云间的排面",
+        "onboard_time": 1719143057,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155497,
+        "num": 155497,
+        "word": "夏季穿3种衣服让你更热",
+        "onboard_time": 1719141617,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154696,
+        "num": 154696,
+        "word": "KSG 吒宝",
+        "onboard_time": 1719145937,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152510,
+        "num": 152510,
+        "word": "张艺兴金珉锡一起下班",
+        "onboard_time": 1719145339,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146467,
+        "num": 146467,
+        "word": "陈丽君 东风破",
+        "onboard_time": 1719138738,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143507,
+        "num": 143507,
+        "word": "第一次用外酥里嫩形容房子",
+        "onboard_time": 1719141977,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141609,
+        "num": 141609,
+        "word": "苏苏把继父告上法庭",
+        "onboard_time": 1719144858,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80496,
+        "num": 134407,
+        "word": "男生查完分烧烤店继续淡定穿串儿",
+        "onboard_time": 1719145818,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133994,
+        "num": 133994,
+        "word": "女生高考查分701后质疑自己",
+        "onboard_time": 1719117498,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 129286,
+        "num": 129286,
+        "word": "黄振华苏苏有一个儿子",
+        "onboard_time": 1719131957,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128377,
+        "num": 128377,
+        "word": "韩国航班空中骤降6000米13人送医",
+        "onboard_time": 1719136098,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122130,
+        "num": 122130,
+        "word": "二维码真有用光那一天吗",
+        "onboard_time": 1719128058,
+        "rank": 48,
+        "category": "互联网,科学科普"
+      },
+      {
+        "raw_hot": 121999,
+        "num": 121999,
+        "word": "镇雄一考生查分被屏蔽老师激动呐喊",
+        "onboard_time": 1719135199,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#加快建设美丽新宁夏#"
+    }
+  }
+}

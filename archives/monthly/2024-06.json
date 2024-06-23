@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719142446294,
+  "endTime": 1719146050163,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -2771,6 +2771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1246215,
+      "num": 1246215,
+      "word": "李一桐 将门毒后",
+      "onboard_time": 1719141378,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1244043,
       "num": 221422,
       "word": "高铁上拒绝了宝妈的换座要求",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1718441477,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1195652,
+      "num": 1195652,
+      "word": "杭州灵隐寺发大水",
+      "onboard_time": 1719143177,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1194445,
@@ -4339,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 993975,
+      "num": 993975,
+      "word": "将门毒后 男主",
+      "onboard_time": 1719143297,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 993812,
       "num": 743574,
       "word": "男子用私密视频威胁前女友被刑拘",
@@ -5425,6 +5449,14 @@
       "onboard_time": 1718630838,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 855466,
+      "num": 457309,
+      "word": "云边有个小卖部 难看",
+      "onboard_time": 1719141918,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 854263,
@@ -7417,14 +7449,6 @@
       "onboard_time": 1717685059,
       "rank": 5,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 709106,
-      "num": 709106,
-      "word": "李一桐 将门毒后",
-      "onboard_time": 1719141378,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 708752,
@@ -10465,6 +10489,14 @@
       "onboard_time": 1718675658,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568364,
+      "num": 248445,
+      "word": "2点睡觉10点起床算熬夜吗",
+      "onboard_time": 1719142338,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 567297,
@@ -13753,6 +13785,14 @@
       "onboard_time": 1717573218,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 467663,
+      "num": 467663,
+      "word": "韩国警告俄罗斯",
+      "onboard_time": 1719145517,
+      "rank": 5,
+      "category": "国外时政"
     },
     {
       "raw_hot": 467485,
@@ -19179,6 +19219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 347736,
+      "num": 347736,
+      "word": "5名网红涉嫌诈骗被抓",
+      "onboard_time": 1719140838,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 347707,
       "num": 343831,
       "word": "荣梓杉想演张若昀赵丽颖的儿子",
@@ -20507,6 +20555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 325778,
+      "num": 325778,
+      "word": "宋雨琦去SuperJunior演唱会",
+      "onboard_time": 1719144257,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 325523,
       "num": 325523,
       "word": "伯克希尔哈撒韦",
@@ -20697,6 +20753,14 @@
       "onboard_time": 1718378182,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321631,
+      "num": 321631,
+      "word": "魏无羡 AG",
+      "onboard_time": 1719145698,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 321524,
@@ -25939,6 +26003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248750,
+      "num": 248750,
+      "word": "湖南新晃山体滑坡失联8人已遇难",
+      "onboard_time": 1719145398,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248749,
       "num": 248749,
       "word": "你好星期六浪姐限时摇人",
@@ -26259,6 +26331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244996,
+      "num": 244996,
+      "word": "猪身上这三个部位很脏尽量少吃",
+      "onboard_time": 1719145698,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 244751,
       "num": 231242,
       "word": "钟楚曦美的像回家一样轻松",
@@ -26313,6 +26393,14 @@
       "onboard_time": 1718960780,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243895,
+      "num": 243895,
+      "word": "白日提灯 平番",
+      "onboard_time": 1719145758,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 243843,
@@ -26401,6 +26489,14 @@
       "onboard_time": 1717744158,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243128,
+      "num": 449621,
+      "word": "高考626分男生刚查完分就去跑兼职",
+      "onboard_time": 1719140778,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243056,
@@ -27099,14 +27195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236502,
-      "num": 236502,
-      "word": "5名网红涉嫌诈骗被抓",
-      "onboard_time": 1719140838,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236410,
       "num": 186742,
       "word": "吴谨言新剧摇人摇来了浪姐团",
@@ -27745,6 +27833,14 @@
       "onboard_time": 1718375242,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229436,
+      "num": 196635,
+      "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+      "onboard_time": 1719145758,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229377,
@@ -29449,14 +29545,6 @@
       "onboard_time": 1717481359,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216572,
-      "num": 216572,
-      "word": "云边有个小卖部 难看",
-      "onboard_time": 1719141918,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 216555,
@@ -33131,6 +33219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198142,
+      "num": 198142,
+      "word": "王一博回国到达北京",
+      "onboard_time": 1719144618,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198141,
       "num": 198141,
       "word": "西班牙1比0意大利",
@@ -33489,6 +33585,14 @@
       "onboard_time": 1718684899,
       "rank": 35,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 196562,
+      "num": 196562,
+      "word": "RW 诚c",
+      "onboard_time": 1719145577,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 196516,
@@ -33977,6 +34081,14 @@
       "onboard_time": 1718169080,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194656,
+      "num": 189017,
+      "word": "吴谨言紫色薄纱襦裙",
+      "onboard_time": 1719145097,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 194627,
@@ -35009,6 +35121,14 @@
       "onboard_time": 1718369001,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190188,
+      "num": 190188,
+      "word": "TES对战LNG",
+      "onboard_time": 1719145038,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 190146,
@@ -39619,6 +39739,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 168385,
+      "num": 168385,
+      "word": "嫦娥六号 想念地球的蓝天白云",
+      "onboard_time": 1719145638,
+      "rank": 36,
+      "category": "军事"
+    },
+    {
       "raw_hot": 168380,
       "num": 168380,
       "word": "墨雨云间34集预告",
@@ -39785,6 +39913,14 @@
       "onboard_time": 1718274799,
       "rank": 39,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 167580,
+      "num": 167580,
+      "word": "优酷给墨雨云间的排面",
+      "onboard_time": 1719143057,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 167538,
@@ -42827,6 +42963,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 155497,
+      "num": 155497,
+      "word": "夏季穿3种衣服让你更热",
+      "onboard_time": 1719141617,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155462,
       "num": 155462,
       "word": "斯洛文尼亚1比1丹麦",
@@ -43081,6 +43225,14 @@
       "onboard_time": 1718866697,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 154696,
+      "num": 154696,
+      "word": "KSG 吒宝",
+      "onboard_time": 1719145937,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 154675,
@@ -43595,6 +43747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152510,
+      "num": 152510,
+      "word": "张艺兴金珉锡一起下班",
+      "onboard_time": 1719145339,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152434,
       "num": 152434,
       "word": "村民拔萝卜式拉车好可爱",
@@ -43865,14 +44025,6 @@
       "onboard_time": 1718170759,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151732,
-      "num": 151732,
-      "word": "夏季穿3种衣服让你更热",
-      "onboard_time": 1719141617,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151730,
@@ -46393,6 +46545,14 @@
       "onboard_time": 1718081421,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141609,
+      "num": 141609,
+      "word": "苏苏把继父告上法庭",
+      "onboard_time": 1719144858,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 141603,
@@ -48921,14 +49081,6 @@
       "onboard_time": 1717537090,
       "rank": 12,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 132096,
-      "num": 132096,
-      "word": "2点睡觉10点起床算熬夜吗",
-      "onboard_time": 1719142338,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 132094,
@@ -59115,6 +59267,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 82198,
+      "num": 196659,
+      "word": "Manner事件让人感叹打工人比咖啡苦",
+      "onboard_time": 1719144019,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 82186,
       "num": 264243,
       "word": "京东巨物展成外滩新网红",
@@ -59281,6 +59441,14 @@
       "onboard_time": 1717261695,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80496,
+      "num": 134407,
+      "word": "男生查完分烧烤店继续淡定穿串儿",
+      "onboard_time": 1719145818,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80375,
@@ -59809,14 +59977,6 @@
       "onboard_time": 1719113177,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 76236,
-      "num": 449621,
-      "word": "高考626分男生刚查完分就去跑兼职",
-      "onboard_time": 1719140778,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76225,
