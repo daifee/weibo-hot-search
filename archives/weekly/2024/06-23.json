@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719162997826,
+  "endTime": 1719164064387,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -1227,6 +1227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236828,
+      "num": 85241,
+      "word": "汪苏泷终于唱巴赫旧约了",
+      "onboard_time": 1719162075,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 235199,
+      "num": 235199,
+      "word": "一份没有985211的宝藏大学名单",
+      "onboard_time": 1719152420,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234237,
       "num": 234237,
       "word": "AG战胜TKL",
@@ -1297,14 +1313,6 @@
       "onboard_time": 1719114978,
       "rank": 25,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 227437,
-      "num": 227437,
-      "word": "一份没有985211的宝藏大学名单",
-      "onboard_time": 1719152420,
-      "rank": 47,
-      "category": "教育"
     },
     {
       "raw_hot": 224872,
@@ -1937,14 +1945,6 @@
       "onboard_time": 1719120438,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157820,
-      "num": 85241,
-      "word": "汪苏泷终于唱巴赫旧约了",
-      "onboard_time": 1719162075,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 155497,
@@ -3059,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61940,
+      "num": 61940,
+      "word": "瑞士vs德国",
+      "onboard_time": 1719161175,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58812,
       "num": 453116,
       "word": "一句话形容你高考查分心情",
@@ -3091,14 +3099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53530,
-      "num": 53530,
-      "word": "瑞士vs德国",
-      "onboard_time": 1719161175,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 51918,
       "num": 191796,
       "word": "你觉得36元一个泡芙贵吗",
@@ -3123,20 +3123,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48089,
+      "num": 51423,
+      "word": "RNG夏季赛五连败",
+      "onboard_time": 1719162674,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 46189,
       "num": 47532,
       "word": "菲常萧张已he求放过",
       "onboard_time": 1719079333,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45278,
-      "num": 51423,
-      "word": "RNG夏季赛五连败",
-      "onboard_time": 1719162674,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 42858,
@@ -3233,6 +3233,14 @@
       "onboard_time": 1719082692,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32290,
+      "num": 46379,
+      "word": "苏格兰vs匈牙利",
+      "onboard_time": 1719163994,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 31954,
@@ -3403,7 +3411,7 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 12336,
+      "raw_hot": 12540,
       "num": 197567,
       "word": "妈妈在女儿学士帽上簪满手作花朵",
       "onboard_time": 1719162615,
