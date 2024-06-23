@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719177425744,
+  "endTime": 1719178505270,
   "band_list": [
     {
       "raw_hot": 1031912,
@@ -355,8 +355,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83730,
-      "num": 83730,
+      "raw_hot": 87577,
+      "num": 87577,
       "word": "瑞士vs德国",
       "onboard_time": 1719161175,
       "rank": 40,
@@ -403,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71023,
+      "num": 23875,
+      "word": "男生查分被屏蔽淡定向家人报喜",
+      "onboard_time": 1719172270,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67185,
       "num": 67185,
       "word": "虞书欣给路人拍照片",
@@ -419,20 +427,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 57127,
-      "num": 57127,
+      "raw_hot": 59106,
+      "num": 59106,
       "word": "于正说以后他所有的剧全部明确HE",
       "onboard_time": 1719171552,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 55810,
-      "num": 22376,
-      "word": "男生查分被屏蔽淡定向家人报喜",
-      "onboard_time": 1719172270,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49606,
@@ -441,6 +441,14 @@
       "onboard_time": 1719163994,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48206,
+      "num": 37963,
+      "word": "陈都灵买过刘诗诗步步惊心周边",
+      "onboard_time": 1719173470,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 48089,
@@ -499,12 +507,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26478,
-      "num": 26478,
-      "word": "陈都灵买过刘诗诗步步惊心周边",
-      "onboard_time": 1719173470,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 27650,
+      "num": 27650,
+      "word": "菲律宾蓄意闹海",
+      "onboard_time": 1719174491,
+      "rank": 32,
+      "category": "国外时政"
     },
     {
       "raw_hot": 25955,
@@ -515,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20439,
-      "num": 20439,
-      "word": "菲律宾蓄意闹海",
-      "onboard_time": 1719174491,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 18419,
       "num": 18636,
       "word": "艾尔登法环",
@@ -531,24 +531,32 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 14723,
-      "num": 16023,
-      "word": "不翻车的小短甲",
-      "onboard_time": 1719174311,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 14140,
-      "num": 16020,
+      "raw_hot": 17174,
+      "num": 17174,
       "word": "小锅米线",
       "onboard_time": 1719172691,
       "rank": 46,
       "category": "美食"
     },
     {
-      "raw_hot": 13982,
-      "num": 16012,
+      "raw_hot": 15236,
+      "num": 16666,
+      "word": "不翻车的小短甲",
+      "onboard_time": 1719174311,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 15122,
+      "num": 16641,
+      "word": "高考成绩被屏蔽为什么",
+      "onboard_time": 1719177011,
+      "rank": 46,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 14745,
+      "num": 16622,
       "word": "美国vs玻利维亚",
       "onboard_time": 1719175929,
       "rank": 48,
@@ -579,18 +587,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2190,
-      "num": 145596,
-      "word": "走大运行好运",
-      "onboard_time": 1719025578,
+      "raw_hot": 2268,
+      "num": 79701,
+      "word": "何以中国运载千秋",
+      "onboard_time": 1718871918,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1986,
-      "num": 76436,
-      "word": "何以中国运载千秋",
-      "onboard_time": 1718871918,
+      "raw_hot": 2190,
+      "num": 145596,
+      "word": "走大运行好运",
+      "onboard_time": 1719025578,
       "rank": 2,
       "category": "社会新闻"
     }

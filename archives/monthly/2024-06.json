@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719177425744,
+  "endTime": 1719178505270,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -59299,6 +59299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 87577,
+      "num": 87577,
+      "word": "瑞士vs德国",
+      "onboard_time": 1719161175,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87451,
       "num": 87451,
       "word": "师生十年后相聚歌手双双离场",
@@ -59681,14 +59689,6 @@
       "onboard_time": 1718577794,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83730,
-      "num": 83730,
-      "word": "瑞士vs德国",
-      "onboard_time": 1719161175,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 83526,
@@ -61091,6 +61091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 71023,
+      "num": 23875,
+      "word": "男生查分被屏蔽淡定向家人报喜",
+      "onboard_time": 1719172270,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70917,
       "num": 70917,
       "word": "李一桐包上恩版黄蓉出场对比",
@@ -62427,6 +62435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59106,
+      "num": 59106,
+      "word": "于正说以后他所有的剧全部明确HE",
+      "onboard_time": 1719171552,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59074,
       "num": 1012607,
       "word": "今天向这些父亲致敬",
@@ -62747,14 +62763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57127,
-      "num": 57127,
-      "word": "于正说以后他所有的剧全部明确HE",
-      "onboard_time": 1719171552,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 57097,
       "num": 57097,
       "word": "c1ubab詹詹",
@@ -62968,14 +62976,6 @@
       "word": "大学生的愿望清单",
       "onboard_time": 1717838178,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 55810,
-      "num": 22376,
-      "word": "男生查分被屏蔽淡定向家人报喜",
-      "onboard_time": 1719172270,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -63873,6 +63873,14 @@
       "onboard_time": 1717337239,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 48206,
+      "num": 37963,
+      "word": "陈都灵买过刘诗诗步步惊心周边",
+      "onboard_time": 1719173470,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 48193,
@@ -66779,6 +66787,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 27650,
+      "num": 27650,
+      "word": "菲律宾蓄意闹海",
+      "onboard_time": 1719174491,
+      "rank": 32,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 27597,
       "num": 646131,
       "word": "治沙尖子生的解题新思路",
@@ -66953,14 +66969,6 @@
       "onboard_time": 1718791999,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26478,
-      "num": 26478,
-      "word": "陈都灵买过刘诗诗步步惊心周边",
-      "onboard_time": 1719173470,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 26321,
@@ -67659,14 +67667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20439,
-      "num": 20439,
-      "word": "菲律宾蓄意闹海",
-      "onboard_time": 1719174491,
-      "rank": 32,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 20394,
       "num": 184252,
       "word": "韩警方紧急逮捕性侵中国游客员工",
@@ -67987,6 +67987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 17174,
+      "num": 17174,
+      "word": "小锅米线",
+      "onboard_time": 1719172691,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 17167,
       "num": 34094,
       "word": "田曦薇晚上吃铁锅炖",
@@ -68211,6 +68219,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 15236,
+      "num": 16666,
+      "word": "不翻车的小短甲",
+      "onboard_time": 1719174311,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 15187,
       "num": 19578,
       "word": "一不小心又被爸妈幽默到了",
@@ -68241,6 +68257,14 @@
       "onboard_time": 1718726717,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15122,
+      "num": 16641,
+      "word": "高考成绩被屏蔽为什么",
+      "onboard_time": 1719177011,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 15115,
@@ -68291,12 +68315,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14723,
-      "num": 16023,
-      "word": "不翻车的小短甲",
-      "onboard_time": 1719174311,
+      "raw_hot": 14745,
+      "num": 16622,
+      "word": "美国vs玻利维亚",
+      "onboard_time": 1719175929,
       "rank": 48,
-      "category": "美妆"
+      "category": "体育"
     },
     {
       "raw_hot": 14613,
@@ -68355,28 +68379,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14140,
-      "num": 16020,
-      "word": "小锅米线",
-      "onboard_time": 1719172691,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 14034,
       "num": 235339,
       "word": "墨雨发的红包比肃国公还疯",
       "onboard_time": 1718622737,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13982,
-      "num": 16012,
-      "word": "美国vs玻利维亚",
-      "onboard_time": 1719175929,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 13967,
