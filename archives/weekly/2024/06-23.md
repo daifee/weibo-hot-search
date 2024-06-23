@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/23 00:24:11 ~ 2024/06/24 02:23:44
+本榜单时间：2024/06/23 00:24:11 ~ 2024/06/24 02:35:55
 </p>
 </blockquote>
 <p>
@@ -2505,6 +2505,12 @@ Enhypen MV（热度：32672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E5%B0%84%E6%89%8B%E5%BA%A7%E5%BE%88%E9%9A%BE%E8%A2%ABPUA%23" target="weibo">
+我发现射手座很难被PUA（热度：23197）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B7%9D%E7%B2%89%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%23" target="weibo">
 小川粉见到特朗普喜极而泣（热度：22750）
 </a>
@@ -2602,7 +2608,7 @@ Enhypen MV（热度：32672）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B0%E5%A4%A7%E8%BF%90%E8%A1%8C%E5%A5%BD%E8%BF%90%23" target="weibo">
-走大运行好运（热度：1547）
+走大运行好运（热度：1946）
 </a>
 </li>
 

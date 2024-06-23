@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719167024521,
+  "endTime": 1719167755803,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -3323,6 +3323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23197,
+      "num": 26836,
+      "word": "我发现射手座很难被PUA",
+      "onboard_time": 1719167339,
+      "rank": 47,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 22750,
       "num": 176941,
       "word": "小川粉见到特朗普喜极而泣",
@@ -3451,7 +3459,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1547,
+      "raw_hot": 1946,
       "num": 841136,
       "word": "走大运行好运",
       "onboard_time": 1719025578,

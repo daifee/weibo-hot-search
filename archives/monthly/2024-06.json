@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719167024521,
+  "endTime": 1719167755803,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -67257,6 +67257,14 @@
       "onboard_time": 1718682738,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23197,
+      "num": 26836,
+      "word": "我发现射手座很难被PUA",
+      "onboard_time": 1719167339,
+      "rank": 47,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 23169,
