@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719152214661,
+  "endTime": 1719153258122,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 998801,
+      "num": 998801,
+      "word": "汪苏泷回应上歌手碎了",
+      "onboard_time": 1719149659,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 993975,
       "num": 993975,
       "word": "将门毒后 男主",
@@ -193,14 +201,6 @@
       "onboard_time": 1719132737,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 888194,
-      "num": 888194,
-      "word": "汪苏泷回应上歌手碎了",
-      "onboard_time": 1719149659,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 880687,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 762220,
-      "num": 297414,
+      "num": 311902,
       "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
       "onboard_time": 1719145758,
       "rank": 30,
@@ -339,8 +339,8 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 632556,
-      "num": 632556,
+      "raw_hot": 639505,
+      "num": 639505,
       "word": "王源听到结婚的反应",
       "onboard_time": 1719150019,
       "rank": 11,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 605369,
-      "num": 292951,
+      "num": 310691,
       "word": "2点睡觉10点起床算熬夜吗",
       "onboard_time": 1719142338,
       "rank": 40,
@@ -377,6 +377,14 @@
       "onboard_time": 1719116358,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 590818,
+      "num": 590818,
+      "word": "iPhone16全系尺寸曝光",
+      "onboard_time": 1719152301,
+      "rank": 12,
+      "category": "数码"
     },
     {
       "raw_hot": 557553,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 469228,
-      "num": 279685,
+      "num": 309683,
       "word": "猪身上这三个部位很脏尽量少吃",
       "onboard_time": 1719145698,
       "rank": 24,
@@ -593,6 +601,14 @@
       "onboard_time": 1719124698,
       "rank": 11,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 441397,
+      "num": 310936,
+      "word": "霍建华朱珠演情侣",
+      "onboard_time": 1719152058,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 440358,
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 387626,
+      "num": 387626,
+      "word": "说多喝水可能真不是在敷衍你",
+      "onboard_time": 1719147918,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 386788,
       "num": 386788,
       "word": "穿什么颜色的泳衣更安全",
@@ -769,6 +793,14 @@
       "onboard_time": 1719110177,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 370334,
+      "num": 370334,
+      "word": "Wei不打了",
+      "onboard_time": 1719152301,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 366679,
@@ -947,6 +979,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312438,
+      "num": 312438,
+      "word": "青春有你北京面试",
+      "onboard_time": 1719150800,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 308945,
+      "num": 308945,
+      "word": "减肥误食了6个蛋挞",
+      "onboard_time": 1719152001,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 307285,
       "num": 307285,
       "word": "萧蘅成亲爽成了王星越",
@@ -985,6 +1033,22 @@
       "onboard_time": 1719065179,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273702,
+      "num": 273702,
+      "word": "鹿晗演唱会背影图",
+      "onboard_time": 1719153080,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 272860,
+      "num": 272860,
+      "word": "年轻人为什么爱上德训鞋",
+      "onboard_time": 1719148159,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 269151,
@@ -1035,12 +1099,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 259092,
-      "num": 228767,
-      "word": "年轻人为什么爱上德训鞋",
-      "onboard_time": 1719148159,
-      "rank": 37,
-      "category": "时尚"
+      "raw_hot": 255354,
+      "num": 255354,
+      "word": "海蓝之谜柜姐被顾客泼水羞辱",
+      "onboard_time": 1719152179,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249047,
@@ -1195,22 +1259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223301,
-      "num": 223301,
-      "word": "青春有你北京面试",
-      "onboard_time": 1719150800,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 223229,
-      "num": 231166,
-      "word": "说多喝水可能真不是在敷衍你",
-      "onboard_time": 1719147918,
-      "rank": 43,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 222406,
       "num": 222406,
       "word": "Gemini红温",
@@ -1235,14 +1283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214502,
-      "num": 214502,
-      "word": "霍建华朱珠演情侣",
-      "onboard_time": 1719152058,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214145,
       "num": 214145,
       "word": "你还喜欢我就好啦",
@@ -1259,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211949,
+      "num": 211949,
+      "word": "李宇春 苏打绿嘉宾",
+      "onboard_time": 1719152600,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211525,
       "num": 211525,
       "word": "阿汤哥女儿去掉父亲姓氏",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1719112159,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209849,
+      "num": 209849,
+      "word": "梁实第28次高考成绩出炉",
+      "onboard_time": 1719152959,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207979,
@@ -1699,6 +1755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165257,
+      "num": 165257,
+      "word": "一份没有985211的宝藏大学名单",
+      "onboard_time": 1719152420,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 164330,
       "num": 91883,
       "word": "2024多地高考成绩今日可查",
@@ -1947,14 +2011,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141994,
-      "num": 141994,
-      "word": "减肥误食了6个蛋挞",
-      "onboard_time": 1719152001,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 141541,
       "num": 459092,
       "word": "谈钱羞耻是一种什么感受",
@@ -2161,14 +2217,6 @@
       "onboard_time": 1719121278,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125000,
-      "num": 125000,
-      "word": "海蓝之谜柜姐被顾客泼水羞辱",
-      "onboard_time": 1719152179,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 124886,
@@ -3083,6 +3131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 18051,
+      "num": 198926,
+      "word": "为什么说宁夏是一个宝藏",
+      "onboard_time": 1719152959,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 17613,
       "num": 1615974,
       "word": "何以中国运载千秋",
@@ -3145,6 +3201,14 @@
       "onboard_time": 1719149238,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1547,
+      "num": 841136,
+      "word": "走大运行好运",
+      "onboard_time": 1719025578,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
