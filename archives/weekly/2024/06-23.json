@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719214488911,
+  "endTime": 1719217490916,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2456680,
+      "num": 2171408,
+      "word": "弟弟被清华关在酒店怕被北大抢走",
+      "onboard_time": 1719212598,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2396856,
       "num": 2396856,
       "word": "多地出台鼓励退出农村宅基地",
@@ -33,14 +41,6 @@
       "onboard_time": 1719145517,
       "rank": 5,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 2171408,
-      "num": 2171408,
-      "word": "弟弟被清华关在酒店怕被北大抢走",
-      "onboard_time": 1719212598,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1961268,
@@ -145,6 +145,14 @@
       "onboard_time": 1719118997,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1483879,
+      "num": 434219,
+      "word": "李梦 情商",
+      "onboard_time": 1719214159,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1482062,
@@ -435,6 +443,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 761470,
+      "num": 761470,
+      "word": "御赐小仵作2原班人马回归",
+      "onboard_time": 1719215180,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 742402,
       "num": 742402,
       "word": "海蓝之谜柜姐被顾客泼水羞辱",
@@ -651,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 564626,
+      "num": 274616,
+      "word": "客人不要的榴莲壳我开出了榴莲",
+      "onboard_time": 1719212718,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 559900,
       "num": 559900,
       "word": "鹅厂2024大剧片单",
@@ -851,12 +875,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 477517,
+      "num": 361403,
+      "word": "邓为红毯生图",
+      "onboard_time": 1719216739,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477485,
       "num": 477485,
       "word": "王源演唱会嘉宾 容祖儿",
       "onboard_time": 1719138738,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 477279,
+      "num": 260530,
+      "word": "我妹高考683分想复读",
+      "onboard_time": 1719216499,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 477084,
@@ -1019,12 +1059,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436197,
+      "num": 378585,
+      "word": "哑舍",
+      "onboard_time": 1719212838,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434692,
       "num": 284980,
       "word": "将门毒后谁演",
       "onboard_time": 1719209119,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 432877,
+      "num": 432877,
+      "word": "河北分数线",
+      "onboard_time": 1719216199,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 432632,
@@ -1187,6 +1243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 403109,
+      "num": 403109,
+      "word": "高铁立硬币又双叒震惊外国人了",
+      "onboard_time": 1719216440,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 399910,
       "num": 399910,
       "word": "东京食尸鬼重大发表",
@@ -1272,14 +1336,6 @@
       "word": "傅家明留给玫瑰的遗书是食谱",
       "onboard_time": 1719110838,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 378585,
-      "num": 378585,
-      "word": "哑舍",
-      "onboard_time": 1719212838,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1499,14 +1555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322985,
-      "num": 274616,
-      "word": "客人不要的榴莲壳我开出了榴莲",
-      "onboard_time": 1719212718,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 321861,
       "num": 199271,
       "word": "方协文 可怕",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1719148937,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 317649,
+      "num": 317649,
+      "word": "TFBOYS天下第一好",
+      "onboard_time": 1719213499,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 316949,
@@ -1608,14 +1664,6 @@
       "word": "鹿晗演唱会背影图",
       "onboard_time": 1719153080,
       "rank": 26,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 302887,
-      "num": 266949,
-      "word": "TFBOYS天下第一好",
-      "onboard_time": 1719213499,
-      "rank": 45,
       "category": "演出"
     },
     {
@@ -1731,6 +1779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269490,
+      "num": 269490,
+      "word": "12366回应个税APP新增5项个人所得",
+      "onboard_time": 1719215960,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 269151,
       "num": 269151,
       "word": "张雪峰回应外语类专业能不能报",
@@ -1795,12 +1851,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258822,
+      "num": 258822,
+      "word": "迪丽热巴清丽玫瑰",
+      "onboard_time": 1719216920,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 258087,
       "num": 258087,
       "word": "李梦说吴谨言是个潮妹",
       "onboard_time": 1719203480,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256546,
+      "num": 256546,
+      "word": "长相思2还没来",
+      "onboard_time": 1719211158,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250171,
+      "num": 250171,
+      "word": "临近下班十分庆幸自己未婚",
+      "onboard_time": 1719215180,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 249047,
@@ -1881,14 +1961,6 @@
       "onboard_time": 1719207437,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241665,
-      "num": 241665,
-      "word": "李梦 情商",
-      "onboard_time": 1719214159,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 241119,
@@ -2057,6 +2129,14 @@
       "onboard_time": 1719208458,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220758,
+      "num": 220758,
+      "word": "高圆圆喊老公",
+      "onboard_time": 1719215840,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 219354,
@@ -2259,6 +2339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204673,
+      "num": 204673,
+      "word": "迪丽热巴工作室发图",
+      "onboard_time": 1719217459,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202832,
       "num": 202832,
       "word": "章昊扛过内娱镜头没扛过自己的",
@@ -2369,6 +2457,14 @@
       "onboard_time": 1719145339,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196658,
+      "num": 196658,
+      "word": "辽宁今日出高考成绩",
+      "onboard_time": 1719216440,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 196562,
@@ -2595,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183257,
+      "num": 183257,
+      "word": "菲常萧张",
+      "onboard_time": 1719214758,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182742,
       "num": 200923,
       "word": "欧洲杯",
@@ -2616,6 +2720,14 @@
       "word": "度华年 先婚后爱",
       "onboard_time": 1719141378,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180331,
+      "num": 180331,
+      "word": "猎罪图鉴",
+      "onboard_time": 1719216079,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -2721,6 +2833,14 @@
       "onboard_time": 1719114978,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 173412,
+      "num": 234916,
+      "word": "乌克兰空袭克里米亚致5死逾百伤",
+      "onboard_time": 1719213018,
+      "rank": 29,
+      "category": "国外时政"
     },
     {
       "raw_hot": 172807,
@@ -2832,6 +2952,14 @@
       "word": "大奉打更人预告repo",
       "onboard_time": 1719156438,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165285,
+      "num": 165285,
+      "word": "陈都灵美得像国画",
+      "onboard_time": 1719215598,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -2953,14 +3081,6 @@
       "onboard_time": 1719212418,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156800,
-      "num": 156800,
-      "word": "长相思2还没来",
-      "onboard_time": 1719211158,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 156584,
@@ -3297,6 +3417,14 @@
       "onboard_time": 1719136938,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138503,
+      "num": 138503,
+      "word": "睡过头没赶上飞机被爸妈说哭了",
+      "onboard_time": 1719216679,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 137559,
@@ -4307,6 +4435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78324,
+      "num": 380418,
+      "word": "长沙打工人开船上班",
+      "onboard_time": 1719216020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78133,
       "num": 87531,
       "word": "土耳其0比3葡萄牙",
@@ -4443,6 +4579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64045,
+      "num": 250574,
+      "word": "法国女子只拿工资不干活怒告公司",
+      "onboard_time": 1719217280,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62208,
       "num": 62208,
       "word": "刘亦菲素颜英文试镜",
@@ -4507,6 +4651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53640,
+      "num": 379469,
+      "word": "贵州村超少年圆梦欧洲杯",
+      "onboard_time": 1719213138,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53248,
       "num": 53248,
       "word": "陈都灵买过刘诗诗步步惊心周边",
@@ -4569,14 +4721,6 @@
       "onboard_time": 1719206718,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47273,
-      "num": 379469,
-      "word": "贵州村超少年圆梦欧洲杯",
-      "onboard_time": 1719213138,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 46189,
@@ -4673,14 +4817,6 @@
       "onboard_time": 1719069439,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35793,
-      "num": 234916,
-      "word": "乌克兰空袭克里米亚致5死逾百伤",
-      "onboard_time": 1719213018,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 35582,
@@ -4843,6 +4979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21706,
+      "num": 334604,
+      "word": "汽车高管花式推荐大学专业",
+      "onboard_time": 1719216020,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21453,
       "num": 514553,
       "word": "没有栀子花的夏天是不完整的",
@@ -4924,7 +5068,7 @@
     },
     {
       "raw_hot": 17567,
-      "num": 248040,
+      "num": 258833,
       "word": "于和伟开外挂",
       "onboard_time": 1719213919,
       "rank": 32,
@@ -5051,6 +5195,9 @@
     },
     {
       "word": "#我国自主创新事业是大有可为的#"
+    },
+    {
+      "word": "#习近平为国家最高科学技术奖获得者颁奖#"
     }
   ]
 }

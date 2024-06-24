@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719214488911,
+  "endTime": 1719217490916,
   "band_list": [
     {
       "raw_hot": 2468997,
@@ -11,20 +11,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2456680,
+      "num": 2171408,
+      "word": "弟弟被清华关在酒店怕被北大抢走",
+      "onboard_time": 1719212598,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2396856,
       "num": 2396856,
       "word": "多地出台鼓励退出农村宅基地",
       "onboard_time": 1719187938,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2171408,
-      "num": 2171408,
-      "word": "弟弟被清华关在酒店怕被北大抢走",
-      "onboard_time": 1719212598,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1908080,
@@ -73,6 +73,14 @@
       "onboard_time": 1719193576,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1483879,
+      "num": 434219,
+      "word": "李梦 情商",
+      "onboard_time": 1719214159,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1288792,
@@ -187,6 +195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 761470,
+      "num": 761470,
+      "word": "御赐小仵作2原班人马回归",
+      "onboard_time": 1719215180,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 759292,
       "num": 404215,
       "word": "高考后他们3小时进帐上亿",
@@ -291,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 564626,
+      "num": 274616,
+      "word": "客人不要的榴莲壳我开出了榴莲",
+      "onboard_time": 1719212718,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 559900,
       "num": 559900,
       "word": "鹅厂2024大剧片单",
@@ -361,6 +385,22 @@
       "onboard_time": 1719132737,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477517,
+      "num": 361403,
+      "word": "邓为红毯生图",
+      "onboard_time": 1719216739,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 477279,
+      "num": 260530,
+      "word": "我妹高考683分想复读",
+      "onboard_time": 1719216499,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 477084,
@@ -443,12 +483,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 436197,
+      "num": 378585,
+      "word": "哑舍",
+      "onboard_time": 1719212838,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434692,
       "num": 284980,
       "word": "将门毒后谁演",
       "onboard_time": 1719209119,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 432877,
+      "num": 432877,
+      "word": "河北分数线",
+      "onboard_time": 1719216199,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 432632,
@@ -539,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 403109,
+      "num": 403109,
+      "word": "高铁立硬币又双叒震惊外国人了",
+      "onboard_time": 1719216440,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 402579,
       "num": 402579,
       "word": "汪苏泷回应上歌手碎了",
@@ -561,14 +625,6 @@
       "onboard_time": 1719206718,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 378585,
-      "num": 378585,
-      "word": "哑舍",
-      "onboard_time": 1719212838,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 377439,
@@ -643,12 +699,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 322985,
-      "num": 274616,
-      "word": "客人不要的榴莲壳我开出了榴莲",
-      "onboard_time": 1719212718,
-      "rank": 34,
-      "category": "美食"
+      "raw_hot": 317649,
+      "num": 317649,
+      "word": "TFBOYS天下第一好",
+      "onboard_time": 1719213499,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 315117,
@@ -673,14 +729,6 @@
       "onboard_time": 1719171552,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 302887,
-      "num": 266949,
-      "word": "TFBOYS天下第一好",
-      "onboard_time": 1719213499,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 300662,
@@ -795,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269490,
+      "num": 269490,
+      "word": "12366回应个税APP新增5项个人所得",
+      "onboard_time": 1719215960,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 261545,
       "num": 222079,
       "word": "慕胥辞阵容官宣",
@@ -811,12 +867,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 258822,
+      "num": 258822,
+      "word": "迪丽热巴清丽玫瑰",
+      "onboard_time": 1719216920,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 258087,
       "num": 258087,
       "word": "李梦说吴谨言是个潮妹",
       "onboard_time": 1719203480,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 256546,
+      "num": 256546,
+      "word": "长相思2还没来",
+      "onboard_time": 1719211158,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 250171,
+      "num": 250171,
+      "word": "临近下班十分庆幸自己未婚",
+      "onboard_time": 1719215180,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 244041,
@@ -857,14 +937,6 @@
       "onboard_time": 1719207437,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241665,
-      "num": 241665,
-      "word": "李梦 情商",
-      "onboard_time": 1719214159,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 238791,
@@ -913,6 +985,14 @@
       "onboard_time": 1719208458,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 220758,
+      "num": 220758,
+      "word": "高圆圆喊老公",
+      "onboard_time": 1719215840,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 214124,
@@ -1019,6 +1099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204673,
+      "num": 204673,
+      "word": "迪丽热巴工作室发图",
+      "onboard_time": 1719217459,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202371,
       "num": 202371,
       "word": "殷世航 傲娇美",
@@ -1057,6 +1145,14 @@
       "onboard_time": 1719212960,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 196658,
+      "num": 196658,
+      "word": "辽宁今日出高考成绩",
+      "onboard_time": 1719216440,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 195527,
@@ -1139,12 +1235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183257,
+      "num": 183257,
+      "word": "菲常萧张",
+      "onboard_time": 1719214758,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182160,
       "num": 182160,
       "word": "光与夜之恋电话",
       "onboard_time": 1719202640,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 180331,
+      "num": 180331,
+      "word": "猎罪图鉴",
+      "onboard_time": 1719216079,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 179724,
@@ -1187,6 +1299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173412,
+      "num": 234916,
+      "word": "乌克兰空袭克里米亚致5死逾百伤",
+      "onboard_time": 1719213018,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 172828,
       "num": 172828,
       "word": "王源听到结婚的反应",
@@ -1207,6 +1327,14 @@
       "num": 168382,
       "word": "山河枕",
       "onboard_time": 1719212297,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165285,
+      "num": 165285,
+      "word": "陈都灵美得像国画",
+      "onboard_time": 1719215598,
       "rank": 46,
       "category": "剧集"
     },
@@ -1265,14 +1393,6 @@
       "onboard_time": 1719148159,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 156800,
-      "num": 156800,
-      "word": "长相思2还没来",
-      "onboard_time": 1719211158,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 156584,
@@ -1409,6 +1529,14 @@
       "onboard_time": 1719207919,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138503,
+      "num": 138503,
+      "word": "睡过头没赶上飞机被爸妈说哭了",
+      "onboard_time": 1719216679,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 137094,
@@ -1771,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78324,
+      "num": 380418,
+      "word": "长沙打工人开船上班",
+      "onboard_time": 1719216020,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76869,
       "num": 76869,
       "word": "能驯服巨蟹的星座都有谁",
@@ -1819,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64045,
+      "num": 250574,
+      "word": "法国女子只拿工资不干活怒告公司",
+      "onboard_time": 1719217280,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60449,
       "num": 60449,
       "word": "火锅界开始卷酸的赛道了",
@@ -1841,6 +1985,14 @@
       "onboard_time": 1719185475,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53640,
+      "num": 379469,
+      "word": "贵州村超少年圆梦欧洲杯",
+      "onboard_time": 1719213138,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 53248,
@@ -1883,14 +2035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 47273,
-      "num": 379469,
-      "word": "贵州村超少年圆梦欧洲杯",
-      "onboard_time": 1719213138,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 41617,
       "num": 1045907,
       "word": "铸牢共同体中华一家亲",
@@ -1913,14 +2057,6 @@
       "onboard_time": 1719200898,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35793,
-      "num": 234916,
-      "word": "乌克兰空袭克里米亚致5死逾百伤",
-      "onboard_time": 1719213018,
-      "rank": 29,
-      "category": "国外时政"
     },
     {
       "raw_hot": 35258,
@@ -2003,6 +2139,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 21706,
+      "num": 334604,
+      "word": "汽车高管花式推荐大学专业",
+      "onboard_time": 1719216020,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 21453,
       "num": 514553,
       "word": "没有栀子花的夏天是不完整的",
@@ -2060,7 +2204,7 @@
     },
     {
       "raw_hot": 17567,
-      "num": 248040,
+      "num": 258833,
       "word": "于和伟开外挂",
       "onboard_time": 1719213919,
       "rank": 32,
@@ -2127,6 +2271,9 @@
     },
     {
       "word": "#我国自主创新事业是大有可为的#"
+    },
+    {
+      "word": "#习近平为国家最高科学技术奖获得者颁奖#"
     }
   ]
 }

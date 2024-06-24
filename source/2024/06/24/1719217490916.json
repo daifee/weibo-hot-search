@@ -1,0 +1,410 @@
+{
+  "runTime": 1719217490916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1107728,
+        "num": 1107728,
+        "word": "孙海洋父亲去世",
+        "onboard_time": 1719210798,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 761470,
+        "num": 761470,
+        "word": "御赐小仵作2原班人马回归",
+        "onboard_time": 1719215180,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434242,
+        "num": 434242,
+        "word": "女生复读一年高考涨了150分",
+        "onboard_time": 1719205879,
+        "rank": 2,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1483879,
+        "num": 434219,
+        "word": "李梦 情商",
+        "onboard_time": 1719214159,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 432877,
+        "num": 432877,
+        "word": "河北分数线",
+        "onboard_time": 1719216199,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 403109,
+        "num": 403109,
+        "word": "高铁立硬币又双叒震惊外国人了",
+        "onboard_time": 1719216440,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536711,
+        "num": 396867,
+        "word": "腾讯今天官宣好多剧",
+        "onboard_time": 1719198378,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388321,
+        "num": 388321,
+        "word": "高考分数线",
+        "onboard_time": 1719200659,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 604111,
+        "num": 384173,
+        "word": "李梦评论玫瑰的故事相关微博",
+        "onboard_time": 1719208458,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78324,
+        "num": 380418,
+        "word": "长沙打工人开船上班",
+        "onboard_time": 1719216020,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2456680,
+        "num": 369622,
+        "word": "弟弟被清华关在酒店怕被北大抢走",
+        "onboard_time": 1719212598,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 477517,
+        "num": 361403,
+        "word": "邓为红毯生图",
+        "onboard_time": 1719216739,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53640,
+        "num": 352233,
+        "word": "贵州村超少年圆梦欧洲杯",
+        "onboard_time": 1719213138,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38522,
+        "num": 348316,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1719210197,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21706,
+        "num": 334604,
+        "word": "汽车高管花式推荐大学专业",
+        "onboard_time": 1719216020,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 461326,
+        "num": 326195,
+        "word": "迪丽热巴搭陈飞宇",
+        "onboard_time": 1719207739,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436197,
+        "num": 319805,
+        "word": "哑舍",
+        "onboard_time": 1719212838,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317649,
+        "num": 317649,
+        "word": "TFBOYS天下第一好",
+        "onboard_time": 1719213499,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269490,
+        "num": 269490,
+        "word": "12366回应个税APP新增5项个人所得",
+        "onboard_time": 1719215960,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 261071,
+        "num": 261071,
+        "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+        "onboard_time": 1719201921,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 564626,
+        "num": 260973,
+        "word": "客人不要的榴莲壳我开出了榴莲",
+        "onboard_time": 1719212718,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 477279,
+        "num": 260530,
+        "word": "我妹高考683分想复读",
+        "onboard_time": 1719216499,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314602,
+        "num": 259953,
+        "word": "迪丽热巴亮片高定",
+        "onboard_time": 1719206358,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281476,
+        "num": 259591,
+        "word": "张小斐 MiuMiu",
+        "onboard_time": 1719209418,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267026,
+        "num": 259311,
+        "word": "郭碧婷米饭过敏",
+        "onboard_time": 1719201319,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6874,
+        "num": 258833,
+        "word": "于和伟开外挂",
+        "onboard_time": 1719213919,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258822,
+        "num": 258822,
+        "word": "迪丽热巴清丽玫瑰",
+        "onboard_time": 1719216920,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256546,
+        "num": 256546,
+        "word": "长相思2还没来",
+        "onboard_time": 1719211158,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251642,
+        "num": 251642,
+        "word": "湖南高考分数线",
+        "onboard_time": 1719211819,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 64045,
+        "num": 250574,
+        "word": "法国女子只拿工资不干活怒告公司",
+        "onboard_time": 1719217280,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250171,
+        "num": 250171,
+        "word": "临近下班十分庆幸自己未婚",
+        "onboard_time": 1719215180,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249682,
+        "num": 249682,
+        "word": "霍建华这是找到自己的赛道了",
+        "onboard_time": 1719213018,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224203,
+        "num": 224203,
+        "word": "田曦薇纯白茉莉花",
+        "onboard_time": 1719210679,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220758,
+        "num": 220758,
+        "word": "高圆圆喊老公",
+        "onboard_time": 1719215840,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212917,
+        "num": 212917,
+        "word": "司机不知情下备胎内被藏毒92斤",
+        "onboard_time": 1719195077,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204673,
+        "num": 204673,
+        "word": "迪丽热巴工作室发图",
+        "onboard_time": 1719217459,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204168,
+        "num": 204168,
+        "word": "张婧仪高定绿裙",
+        "onboard_time": 1719210978,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196658,
+        "num": 196658,
+        "word": "辽宁今日出高考成绩",
+        "onboard_time": 1719216440,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 196271,
+        "num": 196271,
+        "word": "长沙暴雨",
+        "onboard_time": 1719196037,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189327,
+        "num": 189327,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183257,
+        "num": 183257,
+        "word": "菲常萧张",
+        "onboard_time": 1719214758,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180331,
+        "num": 180331,
+        "word": "猎罪图鉴",
+        "onboard_time": 1719216079,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179198,
+        "num": 179198,
+        "word": "月经不规律或是身体发出的求救信号",
+        "onboard_time": 1719207260,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 174931,
+        "num": 174931,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173412,
+        "num": 173412,
+        "word": "乌克兰空袭克里米亚致5死逾百伤",
+        "onboard_time": 1719213018,
+        "rank": 44,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 165641,
+        "num": 165641,
+        "word": "宋茜粉色挂脖裙",
+        "onboard_time": 1719211518,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165285,
+        "num": 165285,
+        "word": "陈都灵美得像国画",
+        "onboard_time": 1719215598,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153368,
+        "num": 153368,
+        "word": "别欺负猫了 猫都快碎了",
+        "onboard_time": 1719210497,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138503,
+        "num": 138503,
+        "word": "睡过头没赶上飞机被爸妈说哭了",
+        "onboard_time": 1719216679,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131973,
+        "num": 131973,
+        "word": "印度男子用拖拉机拔河导致死亡",
+        "onboard_time": 1719211819,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为国家最高科学技术奖获得者颁奖#"
+    }
+  }
+}
