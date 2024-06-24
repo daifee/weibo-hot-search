@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719228968783,
+  "endTime": 1719232612305,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -601,6 +601,14 @@
       "onboard_time": 1718462900,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2151774,
+      "num": 2151774,
+      "word": "一名网红遭杀害后抛尸浙江湖州",
+      "onboard_time": 1719227839,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 2132831,
@@ -1497,6 +1505,14 @@
       "onboard_time": 1717929438,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1604230,
+      "num": 915580,
+      "word": "韩雪 难听",
+      "onboard_time": 1719231500,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1602076,
@@ -2497,6 +2513,14 @@
       "onboard_time": 1718340199,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1323352,
+      "num": 1323352,
+      "word": "韩方通报遇难中国公民增至19人",
+      "onboard_time": 1719230598,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1321399,
@@ -5779,6 +5803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 847297,
+      "num": 847297,
+      "word": "李晋晔哽咽回应歌手争议",
+      "onboard_time": 1719228918,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 845348,
       "num": 373046,
       "word": "男子离婚前贷款45万并转给母亲35万",
@@ -6507,6 +6539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 782683,
+      "num": 477049,
+      "word": "女子与男友发生关系后诬告对方强奸",
+      "onboard_time": 1719231140,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 781128,
       "num": 357359,
       "word": "AppleID改名AppleAccount",
@@ -6865,14 +6905,6 @@
       "onboard_time": 1718962159,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 758463,
-      "num": 514337,
-      "word": "一名网红遭杀害后抛尸浙江湖州",
-      "onboard_time": 1719227839,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 757625,
@@ -8195,6 +8227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 688231,
+      "num": 594025,
+      "word": "都投了尚雯婕",
+      "onboard_time": 1719230240,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 688022,
       "num": 382178,
       "word": "毕业两年室友做美甲挣了八十万",
@@ -9497,6 +9537,14 @@
       "onboard_time": 1718765296,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 628121,
+      "num": 563565,
+      "word": "陈丽君 投票",
+      "onboard_time": 1717405699,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 627037,
@@ -12689,14 +12737,6 @@
       "onboard_time": 1718600779,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 515244,
-      "num": 515244,
-      "word": "陈丽君 投票",
-      "onboard_time": 1717405699,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 515029,
@@ -24331,6 +24371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284556,
+      "num": 284556,
+      "word": "江苏高考查分",
+      "onboard_time": 1719221421,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 284523,
       "num": 181106,
       "word": "妻子称蔡磊越来越艰难还想护自己周全",
@@ -24841,14 +24889,6 @@
       "onboard_time": 1717659497,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 277063,
-      "num": 277063,
-      "word": "李晋晔哽咽回应歌手争议",
-      "onboard_time": 1719228918,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 277013,
@@ -27507,6 +27547,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 245305,
+      "num": 245305,
+      "word": "萨顶顶 去歌手吧",
+      "onboard_time": 1719232579,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245278,
       "num": 245278,
       "word": "福建地理",
@@ -29475,6 +29523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 227108,
+      "num": 227108,
+      "word": "王鹤棣田曦薇同框镜头",
+      "onboard_time": 1719230959,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226835,
       "num": 226835,
       "word": "皮肤变好带给我的变化有多大",
@@ -30385,6 +30441,14 @@
       "onboard_time": 1718787020,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219636,
+      "num": 219636,
+      "word": "月薪四千开始从孩子身上降本增效",
+      "onboard_time": 1719232101,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219583,
@@ -31473,6 +31537,14 @@
       "onboard_time": 1718007259,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 212261,
+      "num": 212261,
+      "word": "女性一生中月经的次数变化",
+      "onboard_time": 1719232039,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 212149,
@@ -34683,6 +34755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198606,
+      "num": 198606,
+      "word": "保时捷降价了",
+      "onboard_time": 1719231559,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 198587,
       "num": 198587,
       "word": "Fine乐团揭榜失败",
@@ -35289,6 +35369,14 @@
       "onboard_time": 1718118561,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196276,
+      "num": 196276,
+      "word": "隔夜西瓜吃前需切掉1厘米",
+      "onboard_time": 1719229219,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196261,
@@ -40713,6 +40801,14 @@
       "onboard_time": 1717368853,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172736,
+      "num": 172736,
+      "word": "HYBE被现场调查",
+      "onboard_time": 1719231800,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 172639,
@@ -46947,14 +47043,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 148799,
-      "num": 148799,
-      "word": "江苏高考查分",
-      "onboard_time": 1719221421,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 148792,
       "num": 275014,
       "word": "茅台批价持续下跌",
@@ -47352,6 +47440,14 @@
       "word": "秦霄贤当着戚薇面唱7",
       "onboard_time": 1718501716,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147081,
+      "num": 147081,
+      "word": "李兰迪今天好漂亮",
+      "onboard_time": 1719232219,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -53539,6 +53635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125185,
+      "num": 125185,
+      "word": "桐岛爱",
+      "onboard_time": 1719232579,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125077,
       "num": 125077,
       "word": "活塞解雇蒙蒂",
@@ -55465,6 +55569,14 @@
       "onboard_time": 1718526917,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117941,
+      "num": 117941,
+      "word": "余华谈人生不是轨道而是旷野",
+      "onboard_time": 1719232519,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 117912,
@@ -62489,6 +62601,14 @@
       "onboard_time": 1717795691,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76070,
+      "num": 477724,
+      "word": "轮椅少年妈妈回应高考343分很满意",
+      "onboard_time": 1719231021,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 76064,
