@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719211206426,
+  "endTime": 1719213580397,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -987,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1823330,
+      "num": 1823330,
+      "word": "孙海洋父亲去世",
+      "onboard_time": 1719210798,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1815800,
       "num": 863336,
       "word": "补习花了近70万发现老师无初中教资证",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1717822637,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1453103,
+      "num": 245804,
+      "word": "弟弟被清华关在酒店怕被北大抢走",
+      "onboard_time": 1719212598,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1450670,
@@ -5171,6 +5187,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 907714,
+      "num": 907714,
+      "word": "李梦评论玫瑰的故事相关微博",
+      "onboard_time": 1719208458,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 906569,
       "num": 906569,
       "word": "苏更生被继父侵犯",
@@ -5233,14 +5257,6 @@
       "onboard_time": 1717475959,
       "rank": 3,
       "category": "社会新闻,科学科普"
-    },
-    {
-      "raw_hot": 900335,
-      "num": 900335,
-      "word": "李梦评论玫瑰的故事相关微博",
-      "onboard_time": 1719208458,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 900263,
@@ -8748,7 +8764,7 @@
     },
     {
       "raw_hot": 657379,
-      "num": 427794,
+      "num": 483468,
       "word": "张小斐 MiuMiu",
       "onboard_time": 1719209418,
       "rank": 15,
@@ -15667,6 +15683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 432547,
+      "num": 432547,
+      "word": "田曦薇纯白茉莉花",
+      "onboard_time": 1719210679,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 432009,
       "num": 432009,
       "word": "吴刚说会陪陈萍萍走到终点",
@@ -16177,6 +16201,14 @@
       "onboard_time": 1719098953,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421561,
+      "num": 244580,
+      "word": "月经不规律或是身体发出的求救信号",
+      "onboard_time": 1719207260,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 421219,
@@ -17515,14 +17547,6 @@
       "category": "国外时政"
     },
     {
-      "raw_hot": 392357,
-      "num": 143536,
-      "word": "孙海洋父亲去世",
-      "onboard_time": 1719210798,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392171,
       "num": 392171,
       "word": "U19国足vs韩国U19",
@@ -18691,6 +18715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 366409,
+      "num": 345428,
+      "word": "张婧仪高定绿裙",
+      "onboard_time": 1719210978,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 366394,
       "num": 276860,
       "word": "陈雨浓董力",
@@ -18961,6 +18993,14 @@
       "onboard_time": 1718113640,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361006,
+      "num": 344517,
+      "word": "枭起青壤",
+      "onboard_time": 1718592317,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 360971,
@@ -19555,14 +19595,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 353053,
-      "num": 162562,
-      "word": "月经不规律或是身体发出的求救信号",
-      "onboard_time": 1719207260,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 352771,
       "num": 352771,
       "word": "孙俪晒邓超与孩子们母亲节对话",
@@ -20107,12 +20139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341780,
+      "num": 242572,
+      "word": "霍建华这是找到自己的赛道了",
+      "onboard_time": 1719213018,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341696,
       "num": 341696,
       "word": "于适新电影",
       "onboard_time": 1717992138,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 341411,
+      "num": 341411,
+      "word": "湖南高考分数线",
+      "onboard_time": 1719211819,
+      "rank": 15,
+      "category": "教育"
     },
     {
       "raw_hot": 341372,
@@ -20721,6 +20769,14 @@
       "onboard_time": 1718100017,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 333174,
+      "num": 241295,
+      "word": "陈妍希仍戴着婚戒",
+      "onboard_time": 1719210919,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 333137,
@@ -24339,6 +24395,14 @@
       "category": "社会新闻,科学科普"
     },
     {
+      "raw_hot": 278326,
+      "num": 237946,
+      "word": "宋茜粉色挂脖裙",
+      "onboard_time": 1719211518,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 278283,
       "num": 278283,
       "word": "禁止神仙参加综艺",
@@ -25673,6 +25737,14 @@
       "onboard_time": 1718460799,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263371,
+      "num": 237006,
+      "word": "哑舍",
+      "onboard_time": 1719212838,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 263354,
@@ -27196,7 +27268,7 @@
     },
     {
       "raw_hot": 243370,
-      "num": 161080,
+      "num": 210116,
       "word": "猎罪图鉴2张局还是秦海璐",
       "onboard_time": 1719208938,
       "rank": 27,
@@ -28667,6 +28739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229251,
+      "num": 229251,
+      "word": "黄子弘凡 扎男",
+      "onboard_time": 1719212778,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229096,
       "num": 229096,
       "word": "中国女排澳门站2胜2负",
@@ -30025,6 +30105,14 @@
       "onboard_time": 1718951298,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218922,
+      "num": 218922,
+      "word": "客人不要的榴莲壳我开出了榴莲",
+      "onboard_time": 1719212718,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 218800,
@@ -33203,6 +33291,14 @@
       "category": "科学科普,教育"
     },
     {
+      "raw_hot": 202076,
+      "num": 202076,
+      "word": "李兰迪台词",
+      "onboard_time": 1719212718,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202052,
       "num": 193694,
       "word": "陈丽君好帅",
@@ -34059,6 +34155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198624,
+      "num": 198624,
+      "word": "赴山海",
+      "onboard_time": 1718010498,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198587,
       "num": 198587,
       "word": "Fine乐团揭榜失败",
@@ -34531,14 +34635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196711,
-      "num": 182860,
-      "word": "赴山海",
-      "onboard_time": 1718010498,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196708,
       "num": 196708,
       "word": "成毅端午营业照",
@@ -34907,6 +35003,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 195527,
+      "num": 195527,
+      "word": "李一桐又演仙侠剧了",
+      "onboard_time": 1719213018,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195442,
       "num": 195442,
       "word": "王俊凯怼脸镜头",
@@ -35025,6 +35129,14 @@
       "onboard_time": 1718942360,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 194863,
+      "num": 194863,
+      "word": "别欺负猫了 猫都快碎了",
+      "onboard_time": 1719210497,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 194847,
@@ -35731,14 +35843,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 191960,
-      "num": 142753,
-      "word": "田曦薇纯白茉莉花",
-      "onboard_time": 1719210679,
-      "rank": 31,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 191953,
       "num": 191953,
       "word": "猎罪图鉴2小分队全员回归",
@@ -36377,6 +36481,14 @@
       "onboard_time": 1719057618,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189264,
+      "num": 189264,
+      "word": "高考要不要服从调剂",
+      "onboard_time": 1719212418,
+      "rank": 44,
+      "category": "教育"
     },
     {
       "raw_hot": 189222,
@@ -37097,14 +37209,6 @@
       "onboard_time": 1719101234,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 186333,
-      "num": 140787,
-      "word": "张婧仪高定绿裙",
-      "onboard_time": 1719210978,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 186311,
@@ -38105,6 +38209,14 @@
       "onboard_time": 1717324998,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181435,
+      "num": 181435,
+      "word": "TFBOYS天下第一好",
+      "onboard_time": 1719213499,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 181389,
@@ -39995,14 +40107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 172793,
-      "num": 137403,
-      "word": "陈妍希仍戴着婚戒",
-      "onboard_time": 1719210919,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172785,
       "num": 172785,
       "word": "人的智力在学科间的差距很小",
@@ -40907,6 +41011,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 168382,
+      "num": 168382,
+      "word": "山河枕",
+      "onboard_time": 1719212297,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168380,
       "num": 168380,
       "word": "墨雨云间34集预告",
@@ -41161,14 +41273,6 @@
       "onboard_time": 1718369360,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 167296,
-      "num": 167296,
-      "word": "枭起青壤",
-      "onboard_time": 1718592317,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 167282,
@@ -43843,6 +43947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156800,
+      "num": 156800,
+      "word": "长相思2还没来",
+      "onboard_time": 1719211158,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156789,
       "num": 156789,
       "word": "王源伪装差点被路人认出",
@@ -44225,6 +44337,14 @@
       "onboard_time": 1718788040,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155444,
+      "num": 155444,
+      "word": "山西高考分数线",
+      "onboard_time": 1719212358,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155427,
@@ -49867,14 +49987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 134210,
-      "num": 134210,
-      "word": "长相思2还没来",
-      "onboard_time": 1719211158,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134138,
       "num": 134138,
       "word": "黄健翔说的女歌手是蔡依林吗",
@@ -55355,14 +55467,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 115310,
-      "num": 115310,
-      "word": "别欺负猫了 猫都快碎了",
-      "onboard_time": 1719210497,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 115257,
       "num": 115257,
       "word": "阿根廷4比1危地马拉",
@@ -60265,6 +60369,14 @@
       "onboard_time": 1717888273,
       "rank": 37,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 89122,
+      "num": 351709,
+      "word": "实探暴雨中的长沙火车站",
+      "onboard_time": 1719212418,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89071,
@@ -65923,6 +66035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 41617,
+      "num": 1045907,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1719210197,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41607,
       "num": 149725,
       "word": "京东618最后4小时",
@@ -66161,6 +66281,14 @@
       "onboard_time": 1718752814,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 40187,
+      "num": 204829,
+      "word": "贵州村超少年圆梦欧洲杯",
+      "onboard_time": 1719213138,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 40068,
@@ -66835,6 +66963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35793,
+      "num": 234916,
+      "word": "乌克兰空袭克里米亚致5死逾百伤",
+      "onboard_time": 1719213018,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 35722,
       "num": 47732,
       "word": "汪苏泷 傻瓜",
@@ -67353,6 +67489,14 @@
       "onboard_time": 1717246099,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31889,
+      "num": 198766,
+      "word": "复旦教授谈学新闻不吃香了吗",
+      "onboard_time": 1719212718,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 31885,
@@ -68291,14 +68435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 25657,
-      "num": 1045907,
-      "word": "铸牢共同体中华一家亲",
-      "onboard_time": 1719210197,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25523,
       "num": 152446,
       "word": "极越SIMO押中高考作文",
@@ -69009,6 +69145,14 @@
       "onboard_time": 1717174517,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19563,
+      "num": 341419,
+      "word": "极氪朱凌称汽车行业永不过时",
+      "onboard_time": 1719212778,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 19556,
