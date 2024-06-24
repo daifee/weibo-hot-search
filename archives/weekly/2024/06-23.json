@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719227920699,
+  "endTime": 1719228968783,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -323,6 +323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1030937,
+      "num": 298030,
+      "word": "轻断食五天瘦了11斤",
+      "onboard_time": 1719225439,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 998801,
       "num": 998801,
       "word": "汪苏泷回应上歌手碎了",
@@ -353,14 +361,6 @@
       "onboard_time": 1719152301,
       "rank": 12,
       "category": "数码"
-    },
-    {
-      "raw_hot": 961448,
-      "num": 235204,
-      "word": "轻断食五天瘦了11斤",
-      "onboard_time": 1719225439,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 957227,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 758463,
+      "num": 514337,
+      "word": "一名网红遭杀害后抛尸浙江湖州",
+      "onboard_time": 1719227839,
+      "rank": 34,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 742402,
       "num": 742402,
       "word": "海蓝之谜柜姐被顾客泼水羞辱",
@@ -537,6 +545,14 @@
       "onboard_time": 1719109157,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 737970,
+      "num": 737970,
+      "word": "警方通报女子遭2次辗轧身亡",
+      "onboard_time": 1719226760,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 732889,
@@ -619,6 +635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 687412,
+      "num": 687412,
+      "word": "终于有了一部全女主的剧",
+      "onboard_time": 1719218899,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 684804,
       "num": 274280,
       "word": "我妹高考683分想复读",
@@ -649,6 +673,14 @@
       "onboard_time": 1719192136,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 661904,
+      "num": 661904,
+      "word": "豆瓣又崩了",
+      "onboard_time": 1719227899,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 657379,
@@ -713,14 +745,6 @@
       "onboard_time": 1719150019,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 626210,
-      "num": 527532,
-      "word": "终于有了一部全女主的剧",
-      "onboard_time": 1719218899,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 624296,
@@ -801,14 +825,6 @@
       "onboard_time": 1719188177,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 565634,
-      "num": 481178,
-      "word": "警方通报女子遭2次辗轧身亡",
-      "onboard_time": 1719226760,
-      "rank": 10,
-      "category": "社会负面"
     },
     {
       "raw_hot": 564626,
@@ -947,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 513991,
+      "num": 513991,
+      "word": "B太夜爬泰山7000多级台阶2次",
+      "onboard_time": 1719226938,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506765,
       "num": 449480,
       "word": "韩国航班空中骤降6000米13人送医",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1719124759,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485367,
+      "num": 485367,
+      "word": "小夭涂山璟额头吻",
+      "onboard_time": 1719225140,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 483696,
@@ -1163,14 +1195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 452471,
-      "num": 408909,
-      "word": "小夭涂山璟额头吻",
-      "onboard_time": 1719225140,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 451100,
       "num": 451100,
       "word": "汪苏泷开场就大合唱",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1719139158,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 439061,
+      "num": 439061,
+      "word": "韩国电池厂火灾致18名中国公民遇难",
+      "onboard_time": 1719228019,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437821,
@@ -1739,6 +1771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328664,
+      "num": 328664,
+      "word": "王者荣耀 匹配机制",
+      "onboard_time": 1719227359,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 328416,
       "num": 232172,
       "word": "于正你是懂番外的",
@@ -1995,6 +2035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 277063,
+      "num": 277063,
+      "word": "李晋晔哽咽回应歌手争议",
+      "onboard_time": 1719228918,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276660,
       "num": 276660,
       "word": "Manner事件",
@@ -2009,6 +2057,14 @@
       "onboard_time": 1719217280,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273473,
+      "num": 273473,
+      "word": "魏大勋首部都市剧男主",
+      "onboard_time": 1719226881,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 272860,
@@ -2041,14 +2097,6 @@
       "onboard_time": 1719140117,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268014,
-      "num": 213874,
-      "word": "魏大勋首部都市剧男主",
-      "onboard_time": 1719226881,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 267978,
@@ -2148,7 +2196,7 @@
     },
     {
       "raw_hot": 245957,
-      "num": 210923,
+      "num": 237241,
       "word": "谁家女主男主开局就互相杀啊",
       "onboard_time": 1719225980,
       "rank": 25,
@@ -2203,14 +2251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 242472,
-      "num": 242472,
-      "word": "B太夜爬泰山7000多级台阶2次",
-      "onboard_time": 1719226938,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 241952,
       "num": 188058,
       "word": "什么东西已经贵到不值得再买了",
@@ -2241,14 +2281,6 @@
       "onboard_time": 1719152600,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 239420,
-      "num": 239420,
-      "word": "豆瓣又崩了",
-      "onboard_time": 1719227899,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 238791,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1719193276,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228906,
+      "num": 228906,
+      "word": "乘风直播",
+      "onboard_time": 1719227718,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 228689,
@@ -2529,14 +2569,6 @@
       "onboard_time": 1719112159,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 210989,
-      "num": 210989,
-      "word": "王者荣耀 匹配机制",
-      "onboard_time": 1719227359,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 210646,
@@ -2859,6 +2891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 195944,
+      "num": 195944,
+      "word": "贵女大事很妙",
+      "onboard_time": 1719227899,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195527,
       "num": 195527,
       "word": "李一桐又演仙侠剧了",
@@ -2937,6 +2977,14 @@
       "onboard_time": 1719119419,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190354,
+      "num": 139122,
+      "word": "杨紫情绪共情力",
+      "onboard_time": 1719228319,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 190188,
@@ -3185,14 +3233,6 @@
       "onboard_time": 1719204020,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178695,
-      "num": 178695,
-      "word": "一名网红遭杀害后抛尸浙江湖州",
-      "onboard_time": 1719227839,
-      "rank": 34,
-      "category": "社会负面"
     },
     {
       "raw_hot": 178605,
@@ -3611,6 +3651,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154993,
+      "num": 129738,
+      "word": "王鹤棣原声台词",
+      "onboard_time": 1719228859,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154157,
       "num": 195937,
       "word": "睡前凉快一下更容易睡得香",
@@ -3625,14 +3673,6 @@
       "onboard_time": 1719125599,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152585,
-      "num": 133599,
-      "word": "乘风直播",
-      "onboard_time": 1719227718,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 152181,
@@ -3939,14 +3979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137058,
-      "num": 128624,
-      "word": "贵女大事很妙",
-      "onboard_time": 1719227899,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136669,
       "num": 136669,
       "word": "匈牙利绝杀苏格兰",
@@ -4003,20 +4035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133684,
+      "num": 584535,
+      "word": "你的高考成绩一定会惊艳整个盛夏",
+      "onboard_time": 1719220160,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 133542,
       "num": 133542,
       "word": "南烟斋笔录 额头吻",
       "onboard_time": 1719122417,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132608,
-      "num": 584535,
-      "word": "你的高考成绩一定会惊艳整个盛夏",
-      "onboard_time": 1719220160,
-      "rank": 9,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 132049,
@@ -4161,6 +4193,14 @@
       "onboard_time": 1719116478,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126269,
+      "num": 483101,
+      "word": "小徐帮表弟查分激动尖叫",
+      "onboard_time": 1719226580,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125921,
@@ -4929,14 +4969,6 @@
       "onboard_time": 1719098173,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81620,
-      "num": 483101,
-      "word": "小徐帮表弟查分激动尖叫",
-      "onboard_time": 1719226580,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80697,
