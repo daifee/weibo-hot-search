@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719213580397,
+  "endTime": 1719214488911,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -593,6 +593,14 @@
       "onboard_time": 1718462900,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2171408,
+      "num": 2171408,
+      "word": "弟弟被清华关在酒店怕被北大抢走",
+      "onboard_time": 1719212598,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 2132831,
@@ -1953,14 +1961,6 @@
       "onboard_time": 1717822637,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1453103,
-      "num": 245804,
-      "word": "弟弟被清华关在酒店怕被北大抢走",
-      "onboard_time": 1719212598,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 1450670,
@@ -8764,7 +8764,7 @@
     },
     {
       "raw_hot": 657379,
-      "num": 483468,
+      "num": 521892,
       "word": "张小斐 MiuMiu",
       "onboard_time": 1719209418,
       "rank": 15,
@@ -14019,6 +14019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471420,
+      "num": 471420,
+      "word": "霍建华这是找到自己的赛道了",
+      "onboard_time": 1719213018,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 471409,
       "num": 471409,
       "word": "中国女排vs意大利女排",
@@ -15683,7 +15691,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 432547,
+      "raw_hot": 432632,
       "num": 432547,
       "word": "田曦薇纯白茉莉花",
       "onboard_time": 1719210679,
@@ -16067,6 +16075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 424838,
+      "num": 424838,
+      "word": "湖南高考分数线",
+      "onboard_time": 1719211819,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 424541,
       "num": 424541,
       "word": "刘亦菲说喜欢黄亦玫的不同色彩",
@@ -16204,7 +16220,7 @@
     },
     {
       "raw_hot": 421561,
-      "num": 244580,
+      "num": 277768,
       "word": "月经不规律或是身体发出的求救信号",
       "onboard_time": 1719207260,
       "rank": 48,
@@ -18155,6 +18171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 378585,
+      "num": 378585,
+      "word": "哑舍",
+      "onboard_time": 1719212838,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 378523,
       "num": 361371,
       "word": "吴谨言背好薄",
@@ -18193,6 +18217,14 @@
       "onboard_time": 1717811596,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 377439,
+      "num": 377439,
+      "word": "张婧仪高定绿裙",
+      "onboard_time": 1719210978,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 377189,
@@ -18713,14 +18745,6 @@
       "onboard_time": 1717213816,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 366409,
-      "num": 345428,
-      "word": "张婧仪高定绿裙",
-      "onboard_time": 1719210978,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 366394,
@@ -20139,28 +20163,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341780,
-      "num": 242572,
-      "word": "霍建华这是找到自己的赛道了",
-      "onboard_time": 1719213018,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 341696,
       "num": 341696,
       "word": "于适新电影",
       "onboard_time": 1717992138,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 341411,
-      "num": 341411,
-      "word": "湖南高考分数线",
-      "onboard_time": 1719211819,
-      "rank": 15,
-      "category": "教育"
     },
     {
       "raw_hot": 341372,
@@ -20772,7 +20780,7 @@
     },
     {
       "raw_hot": 333174,
-      "num": 241295,
+      "num": 271348,
       "word": "陈妍希仍戴着婚戒",
       "onboard_time": 1719210919,
       "rank": 40,
@@ -21345,6 +21353,14 @@
       "onboard_time": 1718791340,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 322985,
+      "num": 274616,
+      "word": "客人不要的榴莲壳我开出了榴莲",
+      "onboard_time": 1719212718,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 322829,
@@ -22609,6 +22625,14 @@
       "onboard_time": 1717289656,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 302887,
+      "num": 266949,
+      "word": "TFBOYS天下第一好",
+      "onboard_time": 1719213499,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 302611,
@@ -25739,14 +25763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 263371,
-      "num": 237006,
-      "word": "哑舍",
-      "onboard_time": 1719212838,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 263354,
       "num": 263354,
       "word": "欧洲杯首个爆冷",
@@ -27227,6 +27243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243823,
+      "num": 243823,
+      "word": "黄子弘凡 扎男",
+      "onboard_time": 1719212778,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243746,
       "num": 243746,
       "word": "土耳其 格鲁吉亚",
@@ -27449,6 +27473,14 @@
       "onboard_time": 1719207437,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 241665,
+      "num": 241665,
+      "word": "李梦 情商",
+      "onboard_time": 1719214159,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 241650,
@@ -28737,14 +28769,6 @@
       "onboard_time": 1717992138,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229251,
-      "num": 229251,
-      "word": "黄子弘凡 扎男",
-      "onboard_time": 1719212778,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 229096,
@@ -30107,14 +30131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218922,
-      "num": 218922,
-      "word": "客人不要的榴莲壳我开出了榴莲",
-      "onboard_time": 1719212718,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 218800,
       "num": 218800,
       "word": "985硕士农民说高考并非人生全部",
@@ -30817,6 +30833,14 @@
       "onboard_time": 1717739959,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214124,
+      "num": 214124,
+      "word": "别欺负猫了 猫都快碎了",
+      "onboard_time": 1719210497,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 214078,
@@ -31657,6 +31681,14 @@
       "onboard_time": 1718953579,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208972,
+      "num": 208972,
+      "word": "成毅赴山海眼神故事感",
+      "onboard_time": 1719213619,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 208926,
@@ -35131,14 +35163,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 194863,
-      "num": 194863,
-      "word": "别欺负猫了 猫都快碎了",
-      "onboard_time": 1719210497,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194847,
       "num": 194847,
       "word": "张杰鸟巢场",
@@ -38211,14 +38235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181435,
-      "num": 181435,
-      "word": "TFBOYS天下第一好",
-      "onboard_time": 1719213499,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 181389,
       "num": 181389,
       "word": "王源已读乱回",
@@ -39641,6 +39657,14 @@
       "onboard_time": 1717845917,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 174972,
+      "num": 174972,
+      "word": "网红陈娴鼓励网友尝试心中所想",
+      "onboard_time": 1719214459,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174819,
@@ -43795,6 +43819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157584,
+      "num": 351709,
+      "word": "实探暴雨中的长沙火车站",
+      "onboard_time": 1719212418,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157566,
       "num": 157566,
       "word": "不发不看朋友圈一年多的感受",
@@ -45745,6 +45777,14 @@
       "onboard_time": 1718634200,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 150822,
+      "num": 150822,
+      "word": "印度男子用拖拉机拔河导致死亡",
+      "onboard_time": 1719211819,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150803,
@@ -60371,14 +60411,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 89122,
-      "num": 351709,
-      "word": "实探暴雨中的长沙火车站",
-      "onboard_time": 1719212418,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 89071,
       "num": 89071,
       "word": "一眨眼就高考了",
@@ -62617,6 +62649,14 @@
       "onboard_time": 1717716315,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 67987,
+      "num": 377481,
+      "word": "39岁快递小哥双腿绑10斤沙袋送货",
+      "onboard_time": 1719210858,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 67918,
@@ -65379,6 +65419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47273,
+      "num": 379469,
+      "word": "贵州村超少年圆梦欧洲杯",
+      "onboard_time": 1719213138,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47081,
       "num": 47081,
       "word": "黄亦玫徐海乔cp 玫进海选",
@@ -66283,14 +66331,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 40187,
-      "num": 204829,
-      "word": "贵州村超少年圆梦欧洲杯",
-      "onboard_time": 1719213138,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 40068,
       "num": 200124,
       "word": "大葱成社交时尚单品让人没了偷感",
@@ -66632,14 +66672,6 @@
       "word": "考生感谢陪他熬过低谷期的那个女生",
       "onboard_time": 1717849218,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 38139,
-      "num": 307210,
-      "word": "39岁快递小哥双腿绑10斤沙袋送货",
-      "onboard_time": 1719210858,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -67049,6 +67081,14 @@
       "onboard_time": 1718608277,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35258,
+      "num": 198766,
+      "word": "复旦教授谈学新闻不吃香了吗",
+      "onboard_time": 1719212718,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 35251,
@@ -67489,14 +67529,6 @@
       "onboard_time": 1717246099,
       "rank": 9,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31889,
-      "num": 198766,
-      "word": "复旦教授谈学新闻不吃香了吗",
-      "onboard_time": 1719212718,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 31885,
@@ -68819,6 +68851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 22365,
+      "num": 377759,
+      "word": "极氪朱凌称汽车行业永不过时",
+      "onboard_time": 1719212778,
+      "rank": 14,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 22303,
       "num": 801656,
       "word": "嫦娥六号宇宙级别的浪漫",
@@ -69147,14 +69187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19563,
-      "num": 341419,
-      "word": "极氪朱凌称汽车行业永不过时",
-      "onboard_time": 1719212778,
-      "rank": 14,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 19556,
       "num": 794497,
       "word": "AI眼中的三夏画卷",
@@ -69224,6 +69256,14 @@
       "word": "一颗穿越4000年的稻米独白",
       "onboard_time": 1717315637,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18836,
+      "num": 256606,
+      "word": "韩国劳动者年平均工作1901小时",
+      "onboard_time": 1719213979,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -69361,6 +69401,14 @@
       "onboard_time": 1718995152,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17567,
+      "num": 248040,
+      "word": "于和伟开外挂",
+      "onboard_time": 1719213919,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 17501,

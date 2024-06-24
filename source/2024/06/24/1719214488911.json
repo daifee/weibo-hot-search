@@ -1,0 +1,410 @@
+{
+  "runTime": 1719214488911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2171408,
+        "num": 2171408,
+        "word": "弟弟被清华关在酒店怕被北大抢走",
+        "onboard_time": 1719212598,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1763420,
+        "num": 1763420,
+        "word": "孙海洋父亲去世",
+        "onboard_time": 1719210798,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41128,
+        "num": 913201,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1719210197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888631,
+        "num": 888631,
+        "word": "腾讯今天官宣好多剧",
+        "onboard_time": 1719198378,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 724682,
+        "num": 724682,
+        "word": "李梦评论玫瑰的故事相关微博",
+        "onboard_time": 1719208458,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526056,
+        "num": 526056,
+        "word": "女生复读一年高考涨了150分",
+        "onboard_time": 1719205879,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 578232,
+        "num": 521892,
+        "word": "张小斐 MiuMiu",
+        "onboard_time": 1719209418,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471420,
+        "num": 471420,
+        "word": "霍建华这是找到自己的赛道了",
+        "onboard_time": 1719213018,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 424838,
+        "num": 424838,
+        "word": "湖南高考分数线",
+        "onboard_time": 1719211819,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 407183,
+        "num": 407183,
+        "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+        "onboard_time": 1719201921,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476151,
+        "num": 397457,
+        "word": "郭碧婷米饭过敏",
+        "onboard_time": 1719201319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432632,
+        "num": 389065,
+        "word": "田曦薇纯白茉莉花",
+        "onboard_time": 1719210679,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47273,
+        "num": 379469,
+        "word": "贵州村超少年圆梦欧洲杯",
+        "onboard_time": 1719213138,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378585,
+        "num": 378585,
+        "word": "哑舍",
+        "onboard_time": 1719212838,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22365,
+        "num": 377759,
+        "word": "极氪朱凌称汽车行业永不过时",
+        "onboard_time": 1719212778,
+        "rank": 14,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 67987,
+        "num": 377481,
+        "word": "39岁快递小哥双腿绑10斤沙袋送货",
+        "onboard_time": 1719210858,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377439,
+        "num": 377439,
+        "word": "张婧仪高定绿裙",
+        "onboard_time": 1719210978,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319042,
+        "num": 319042,
+        "word": "司机不知情下备胎内被藏毒92斤",
+        "onboard_time": 1719195077,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293388,
+        "num": 293388,
+        "word": "高考分数线",
+        "onboard_time": 1719200659,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279122,
+        "num": 279122,
+        "word": "长沙暴雨",
+        "onboard_time": 1719196037,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336174,
+        "num": 277768,
+        "word": "月经不规律或是身体发出的求救信号",
+        "onboard_time": 1719207260,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 322985,
+        "num": 274616,
+        "word": "客人不要的榴莲壳我开出了榴莲",
+        "onboard_time": 1719212718,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 310968,
+        "num": 271348,
+        "word": "陈妍希仍戴着婚戒",
+        "onboard_time": 1719210919,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303891,
+        "num": 269406,
+        "word": "枭起青壤",
+        "onboard_time": 1719211219,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302887,
+        "num": 266949,
+        "word": "TFBOYS天下第一好",
+        "onboard_time": 1719213499,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299320,
+        "num": 264399,
+        "word": "张雪峰说分数低就不要既要又要了",
+        "onboard_time": 1719199098,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298168,
+        "num": 260338,
+        "word": "迪丽热巴搭陈飞宇",
+        "onboard_time": 1719207739,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284499,
+        "num": 257680,
+        "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+        "onboard_time": 1719197058,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257537,
+        "num": 257537,
+        "word": "中央气象台今年首个暴雨红色预警",
+        "onboard_time": 1719201380,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18836,
+        "num": 256606,
+        "word": "韩国劳动者年平均工作1901小时",
+        "onboard_time": 1719213979,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157584,
+        "num": 256568,
+        "word": "实探暴雨中的长沙火车站",
+        "onboard_time": 1719212418,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256543,
+        "num": 256543,
+        "word": "将门毒后谁演",
+        "onboard_time": 1719209119,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17567,
+        "num": 248040,
+        "word": "于和伟开外挂",
+        "onboard_time": 1719213919,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243823,
+        "num": 243823,
+        "word": "黄子弘凡 扎男",
+        "onboard_time": 1719212778,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241665,
+        "num": 241665,
+        "word": "李梦 情商",
+        "onboard_time": 1719214159,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236245,
+        "num": 236245,
+        "word": "宋茜粉色挂脖裙",
+        "onboard_time": 1719211518,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214124,
+        "num": 214124,
+        "word": "别欺负猫了 猫都快碎了",
+        "onboard_time": 1719210497,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208972,
+        "num": 208972,
+        "word": "成毅赴山海眼神故事感",
+        "onboard_time": 1719213619,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200175,
+        "num": 200175,
+        "word": "迪丽热巴亮片高定",
+        "onboard_time": 1719206358,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35258,
+        "num": 192317,
+        "word": "复旦教授谈学新闻不吃香了吗",
+        "onboard_time": 1719212718,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191060,
+        "num": 191060,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189056,
+        "num": 189056,
+        "word": "李一桐又演仙侠剧了",
+        "onboard_time": 1719213018,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188978,
+        "num": 188978,
+        "word": "猎罪图鉴2张局还是秦海璐",
+        "onboard_time": 1719208938,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178539,
+        "num": 178539,
+        "word": "没认出来这居然是娜扎",
+        "onboard_time": 1719205400,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176764,
+        "num": 176764,
+        "word": "毕业两年室友做美甲挣了八十万",
+        "onboard_time": 1719196396,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174972,
+        "num": 174972,
+        "word": "网红陈娴鼓励网友尝试心中所想",
+        "onboard_time": 1719214459,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161584,
+        "num": 161584,
+        "word": "长沙地铁",
+        "onboard_time": 1719202400,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155388,
+        "num": 155388,
+        "word": "王者新赛季",
+        "onboard_time": 1719207437,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153632,
+        "num": 153632,
+        "word": "山西高考分数线",
+        "onboard_time": 1719212358,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150822,
+        "num": 150822,
+        "word": "印度男子用拖拉机拔河导致死亡",
+        "onboard_time": 1719211819,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一次次走进科技创新最活跃的地方#"
+    }
+  }
+}
