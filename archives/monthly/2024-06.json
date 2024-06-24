@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719239779038,
+  "endTime": 1719242483088,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -803,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1937266,
+      "num": 855690,
+      "word": "杜江霍思燕收养实验犬",
+      "onboard_time": 1719238520,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1934203,
       "num": 1934203,
       "word": "任嘉伦官宣离开欢瑞世纪",
@@ -1345,6 +1353,14 @@
       "onboard_time": 1718951118,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1665245,
+      "num": 1665245,
+      "word": "尚雯婕冠军",
+      "onboard_time": 1719241520,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1664271,
@@ -3377,14 +3393,6 @@
       "onboard_time": 1718879657,
       "rank": 35,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1170088,
-      "num": 855690,
-      "word": "杜江霍思燕收养实验犬",
-      "onboard_time": 1719238520,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1167943,
@@ -5852,7 +5860,7 @@
     },
     {
       "raw_hot": 845711,
-      "num": 270957,
+      "num": 287199,
       "word": "月薪四千开始从孩子身上降本增效",
       "onboard_time": 1719232101,
       "rank": 26,
@@ -6129,6 +6137,14 @@
       "onboard_time": 1717660638,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 820571,
+      "num": 820571,
+      "word": "到底啥是city不city啊",
+      "onboard_time": 1719240620,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 819003,
@@ -12243,6 +12259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 528684,
+      "num": 528684,
+      "word": "靳梦佳救场",
+      "onboard_time": 1719239420,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 528307,
       "num": 233769,
       "word": "月薪六千的闺蜜一个月能存三千",
@@ -13708,7 +13732,7 @@
     },
     {
       "raw_hot": 491461,
-      "num": 265621,
+      "num": 290802,
       "word": "榴莲的叶酸含量是苹果的30倍",
       "onboard_time": 1719236360,
       "rank": 23,
@@ -14041,6 +14065,14 @@
       "onboard_time": 1718330777,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 479576,
+      "num": 405468,
+      "word": "林一回应和刘亦菲合作",
+      "onboard_time": 1719241280,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 479151,
@@ -15489,6 +15521,14 @@
       "onboard_time": 1717928117,
       "rank": 42,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 444924,
+      "num": 444924,
+      "word": "韩方向中方表示哀悼",
+      "onboard_time": 1719238760,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 444833,
@@ -17859,6 +17899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394905,
+      "num": 394905,
+      "word": "酒桌上发出5.2万红包后悔了能要回吗",
+      "onboard_time": 1719238760,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 394723,
       "num": 394723,
       "word": "中国女排3比0德国女排",
@@ -19465,6 +19513,14 @@
       "onboard_time": 1718592317,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360996,
+      "num": 360996,
+      "word": "A股大跌",
+      "onboard_time": 1719240321,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 360971,
@@ -21201,14 +21257,6 @@
       "onboard_time": 1718283919,
       "rank": 19,
       "category": "财经"
-    },
-    {
-      "raw_hot": 333459,
-      "num": 333459,
-      "word": "韩方向中方表示哀悼",
-      "onboard_time": 1719238760,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 333303,
@@ -24643,6 +24691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 282971,
+      "num": 282971,
+      "word": "唐治平疑似精神失常",
+      "onboard_time": 1719240921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282938,
       "num": 282938,
       "word": "沈小婷奔跑吧预告",
@@ -25289,6 +25345,14 @@
       "onboard_time": 1718291839,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274571,
+      "num": 274571,
+      "word": "金智秀巴黎大秀造型",
+      "onboard_time": 1719239420,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 274559,
@@ -29131,6 +29195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231700,
+      "num": 231700,
+      "word": "刘亦菲喝了黄玫瑰拿铁",
+      "onboard_time": 1719242121,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231406,
       "num": 231406,
       "word": "小老虎发聊天记录",
@@ -29337,14 +29409,6 @@
       "onboard_time": 1718943259,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 229292,
-      "num": 206941,
-      "word": "靳梦佳救场",
-      "onboard_time": 1719239420,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 229289,
@@ -30267,6 +30331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 221858,
+      "num": 221858,
+      "word": "辉子失误",
+      "onboard_time": 1719242240,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221750,
       "num": 221750,
       "word": "墨雨云间 上头",
@@ -31033,14 +31105,6 @@
       "onboard_time": 1718002397,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 216901,
-      "num": 216901,
-      "word": "金智秀巴黎大秀造型",
-      "onboard_time": 1719239420,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216900,
@@ -34651,14 +34715,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 199513,
-      "num": 199513,
-      "word": "酒桌上发出5.2万红包后悔了能要回吗",
-      "onboard_time": 1719238760,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199472,
       "num": 199472,
       "word": "中国零食饮料逐渐征服外国人",
@@ -35249,6 +35305,14 @@
       "onboard_time": 1717392198,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197400,
+      "num": 197400,
+      "word": "王星越一把抱起了前夫哥",
+      "onboard_time": 1719242180,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 197365,
@@ -37041,6 +37105,14 @@
       "onboard_time": 1718369001,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190240,
+      "num": 190240,
+      "word": "白夜追凶2过审了",
+      "onboard_time": 1719239842,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 190188,
@@ -45115,6 +45187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156174,
+      "num": 156174,
+      "word": "痛经越来越疼要小心巧克力囊肿",
+      "onboard_time": 1719241520,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 156145,
       "num": 146753,
       "word": "时团战至巅峰总决赛嘉宾",
@@ -48545,6 +48625,14 @@
       "onboard_time": 1717770862,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143631,
+      "num": 140047,
+      "word": "何洁听尚雯婕哭了",
+      "onboard_time": 1719242001,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143476,
@@ -56107,6 +56195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116635,
+      "num": 127604,
+      "word": "为何前列腺癌一发现就是晚期",
+      "onboard_time": 1719241520,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 116616,
       "num": 116616,
       "word": "姿态冒充Uzi",
@@ -57505,6 +57601,14 @@
       "onboard_time": 1718170579,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111409,
+      "num": 127085,
+      "word": "韩国起火电池厂员工多来自东北朝鲜族",
+      "onboard_time": 1719242359,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111369,
@@ -69811,6 +69915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23561,
+      "num": 419895,
+      "word": "浙江女孩锁定巴黎奥运会霹雳舞资格",
+      "onboard_time": 1719240741,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23282,
       "num": 24912,
       "word": "人间失格音乐剧",
@@ -70873,6 +70985,14 @@
       "onboard_time": 1717521672,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14845,
+      "num": 385003,
+      "word": "刘震云微观说河南人",
+      "onboard_time": 1719241280,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14613,

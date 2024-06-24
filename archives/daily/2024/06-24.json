@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719239779038,
+  "endTime": 1719242483088,
   "band_list": [
     {
       "raw_hot": 2468997,
@@ -33,6 +33,14 @@
       "onboard_time": 1719227839,
       "rank": 34,
       "category": "社会负面"
+    },
+    {
+      "raw_hot": 1937266,
+      "num": 855690,
+      "word": "杜江霍思燕收养实验犬",
+      "onboard_time": 1719238520,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 1908080,
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1665245,
+      "num": 1665245,
+      "word": "尚雯婕冠军",
+      "onboard_time": 1719241520,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1609804,
       "num": 1609804,
       "word": "猎罪图鉴2首宣",
@@ -161,14 +177,6 @@
       "onboard_time": 1719190158,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1170088,
-      "num": 855690,
-      "word": "杜江霍思燕收养实验犬",
-      "onboard_time": 1719238520,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 1124198,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 845711,
-      "num": 270957,
+      "num": 287199,
       "word": "月薪四千开始从孩子身上降本增效",
       "onboard_time": 1719232101,
       "rank": 26,
@@ -313,6 +321,14 @@
       "onboard_time": 1719222379,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820571,
+      "num": 820571,
+      "word": "到底啥是city不city啊",
+      "onboard_time": 1719240620,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 804568,
@@ -635,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 528684,
+      "num": 528684,
+      "word": "靳梦佳救场",
+      "onboard_time": 1719239420,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527689,
       "num": 527689,
       "word": "央视曝光农村生活污水治理假工程",
@@ -692,7 +716,7 @@
     },
     {
       "raw_hot": 491461,
-      "num": 265621,
+      "num": 290802,
       "word": "榴莲的叶酸含量是苹果的30倍",
       "onboard_time": 1719236360,
       "rank": 23,
@@ -713,6 +737,14 @@
       "onboard_time": 1719132737,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479576,
+      "num": 405468,
+      "word": "林一回应和刘亦菲合作",
+      "onboard_time": 1719241280,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 479025,
@@ -801,6 +833,14 @@
       "onboard_time": 1719218240,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 444924,
+      "num": 444924,
+      "word": "韩方向中方表示哀悼",
+      "onboard_time": 1719238760,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 439282,
@@ -987,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 394905,
+      "num": 394905,
+      "word": "酒桌上发出5.2万红包后悔了能要回吗",
+      "onboard_time": 1719238760,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393361,
       "num": 393361,
       "word": "火箭少女聚会合照",
@@ -1043,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360996,
+      "num": 360996,
+      "word": "A股大跌",
+      "onboard_time": 1719240321,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 358897,
       "num": 358897,
       "word": "李一桐 将门毒后",
@@ -1081,14 +1137,6 @@
       "onboard_time": 1719223159,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 333459,
-      "num": 333459,
-      "word": "韩方向中方表示哀悼",
-      "onboard_time": 1719238760,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 333174,
@@ -1275,6 +1323,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 282971,
+      "num": 282971,
+      "word": "唐治平疑似精神失常",
+      "onboard_time": 1719240921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281756,
       "num": 245209,
       "word": "女性一生中月经的次数变化",
@@ -1321,6 +1377,14 @@
       "onboard_time": 1719143297,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274571,
+      "num": 274571,
+      "word": "金智秀巴黎大秀造型",
+      "onboard_time": 1719239420,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 273473,
@@ -1483,6 +1547,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 231700,
+      "num": 231700,
+      "word": "刘亦菲喝了黄玫瑰拿铁",
+      "onboard_time": 1719242121,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231337,
       "num": 191777,
       "word": "檀健次李兰迪滤镜海报",
@@ -1499,20 +1571,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229292,
-      "num": 206941,
-      "word": "靳梦佳救场",
-      "onboard_time": 1719239420,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227108,
       "num": 227108,
       "word": "王鹤棣田曦薇同框镜头",
       "onboard_time": 1719230959,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221858,
+      "num": 221858,
+      "word": "辉子失误",
+      "onboard_time": 1719242240,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 221151,
@@ -1537,14 +1609,6 @@
       "onboard_time": 1719222800,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 216901,
-      "num": 216901,
-      "word": "金智秀巴黎大秀造型",
-      "onboard_time": 1719239420,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216876,
@@ -1779,14 +1843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199513,
-      "num": 199513,
-      "word": "酒桌上发出5.2万红包后悔了能要回吗",
-      "onboard_time": 1719238760,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 199469,
       "num": 216042,
       "word": "TT翻盘EDG",
@@ -1817,6 +1873,14 @@
       "onboard_time": 1719222499,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197400,
+      "num": 197400,
+      "word": "王星越一把抱起了前夫哥",
+      "onboard_time": 1719242180,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 196658,
@@ -1896,6 +1960,14 @@
       "word": "杨紫情绪共情力",
       "onboard_time": 1719228319,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190240,
+      "num": 190240,
+      "word": "白夜追凶2过审了",
+      "onboard_time": 1719239842,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -2291,6 +2363,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 156174,
+      "num": 156174,
+      "word": "痛经越来越疼要小心巧克力囊肿",
+      "onboard_time": 1719241520,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 155424,
       "num": 155424,
       "word": "丁禹兮配音",
@@ -2377,6 +2457,14 @@
       "onboard_time": 1719217880,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143631,
+      "num": 140047,
+      "word": "何洁听尚雯婕哭了",
+      "onboard_time": 1719242001,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 141107,
@@ -2643,6 +2731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116635,
+      "num": 127604,
+      "word": "为何前列腺癌一发现就是晚期",
+      "onboard_time": 1719241520,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 116050,
       "num": 109768,
       "word": "男生查分被屏蔽淡定向家人报喜",
@@ -2672,6 +2768,14 @@
       "word": "李德仁薛其坤获国家最高科学技术奖",
       "onboard_time": 1719198258,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111409,
+      "num": 127085,
+      "word": "韩国起火电池厂员工多来自东北朝鲜族",
+      "onboard_time": 1719242359,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -3171,6 +3275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23561,
+      "num": 419895,
+      "word": "浙江女孩锁定巴黎奥运会霹雳舞资格",
+      "onboard_time": 1719240741,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22365,
       "num": 377759,
       "word": "极氪朱凌称汽车行业永不过时",
@@ -3249,6 +3361,14 @@
       "onboard_time": 1719172691,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 14845,
+      "num": 385003,
+      "word": "刘震云微观说河南人",
+      "onboard_time": 1719241280,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14405,
