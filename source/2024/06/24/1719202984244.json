@@ -1,0 +1,410 @@
+{
+  "runTime": 1719202984244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2468997,
+        "num": 2468997,
+        "word": "腾讯今天官宣好多剧",
+        "onboard_time": 1719198378,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1208118,
+        "num": 1208118,
+        "word": "司机不知情下备胎内被藏毒92斤",
+        "onboard_time": 1719195077,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32696,
+        "num": 1051474,
+        "word": "为什么说宁夏是一个宝藏",
+        "onboard_time": 1719152959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1573548,
+        "num": 1051096,
+        "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+        "onboard_time": 1719197058,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1046775,
+        "num": 1046775,
+        "word": "高考分数线",
+        "onboard_time": 1719200659,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 622269,
+        "num": 622269,
+        "word": "学生高考710分老师瞬间沸腾",
+        "onboard_time": 1719190698,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 632073,
+        "num": 601679,
+        "word": "猎罪图鉴2首宣",
+        "onboard_time": 1719193576,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 580186,
+        "num": 580186,
+        "word": "长沙暴雨",
+        "onboard_time": 1719196037,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527863,
+        "num": 527863,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95792,
+        "num": 525351,
+        "word": "有些商家打广告的方式越来越隐蔽了",
+        "onboard_time": 1719201620,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633852,
+        "num": 522443,
+        "word": "郭碧婷米饭过敏",
+        "onboard_time": 1719201319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19032,
+        "num": 514553,
+        "word": "没有栀子花的夏天是不完整的",
+        "onboard_time": 1719199398,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 797201,
+        "num": 513701,
+        "word": "张雪峰说分数低就不要既要又要了",
+        "onboard_time": 1719199098,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 598960,
+        "num": 508736,
+        "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+        "onboard_time": 1719201921,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504977,
+        "num": 504977,
+        "word": "于正说临江仙必爆",
+        "onboard_time": 1719199697,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501146,
+        "num": 501146,
+        "word": "独身女人官宣唐嫣赵又廷",
+        "onboard_time": 1719201200,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416935,
+        "num": 416935,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373066,
+        "num": 373066,
+        "word": "ZICO",
+        "onboard_time": 1719192136,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361229,
+        "num": 361229,
+        "word": "长沙地铁",
+        "onboard_time": 1719202400,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277999,
+        "num": 277999,
+        "word": "余承东和微博CEO聊了什么",
+        "onboard_time": 1719199937,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 512878,
+        "num": 277066,
+        "word": "毕业两年室友做美甲挣了八十万",
+        "onboard_time": 1719196396,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349263,
+        "num": 274306,
+        "word": "王启年二皇子仇敌变兄弟",
+        "onboard_time": 1719199697,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359294,
+        "num": 271835,
+        "word": "ZICO否认传闻",
+        "onboard_time": 1719202219,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322873,
+        "num": 268012,
+        "word": "牵羊礼",
+        "onboard_time": 1719200539,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267403,
+        "num": 267403,
+        "word": "中央气象台今年首个暴雨红色预警",
+        "onboard_time": 1719201380,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256770,
+        "num": 256770,
+        "word": "陈娴否认月入千万",
+        "onboard_time": 1719202160,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254319,
+        "num": 254319,
+        "word": "一毕业就有3年工作经验的应届生",
+        "onboard_time": 1719193816,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242137,
+        "num": 242137,
+        "word": "我用19年证明高考不能决定人生",
+        "onboard_time": 1719190158,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 238580,
+        "num": 238580,
+        "word": "永夜星河好大一个虞书欣",
+        "onboard_time": 1719197958,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233458,
+        "num": 233458,
+        "word": "睡前不刷牙会发生什么",
+        "onboard_time": 1719189257,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217414,
+        "num": 217414,
+        "word": "白日提灯改名",
+        "onboard_time": 1719193938,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211999,
+        "num": 211999,
+        "word": "陕西分数线",
+        "onboard_time": 1719202640,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209968,
+        "num": 209968,
+        "word": "学生高考695分老师笑称考得有点多",
+        "onboard_time": 1719200659,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204896,
+        "num": 204896,
+        "word": "A股",
+        "onboard_time": 1719193756,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201575,
+        "num": 201575,
+        "word": "九重紫",
+        "onboard_time": 1719199579,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199792,
+        "num": 199792,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199718,
+        "num": 199718,
+        "word": "墨雨云间 OE",
+        "onboard_time": 1719188177,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186708,
+        "num": 186708,
+        "word": "困在职场的35岁女性决定去考公",
+        "onboard_time": 1719197597,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182160,
+        "num": 182160,
+        "word": "光与夜之恋电话",
+        "onboard_time": 1719202640,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180802,
+        "num": 180802,
+        "word": "张晚意 背德赛道",
+        "onboard_time": 1719202099,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179558,
+        "num": 179558,
+        "word": "韩国又发生一起酒店性犯罪案",
+        "onboard_time": 1719202339,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178501,
+        "num": 178501,
+        "word": "长安的荔枝全阵容官宣",
+        "onboard_time": 1719195619,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177026,
+        "num": 177026,
+        "word": "火箭少女聚会合照",
+        "onboard_time": 1719194778,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169348,
+        "num": 169348,
+        "word": "眉姐姐赛道",
+        "onboard_time": 1719201259,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158136,
+        "num": 158136,
+        "word": "鹅厂2024大剧片单",
+        "onboard_time": 1719193337,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155424,
+        "num": 155424,
+        "word": "丁禹兮配音",
+        "onboard_time": 1719200718,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145881,
+        "num": 145881,
+        "word": "人鱼 杀青",
+        "onboard_time": 1719186616,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140940,
+        "num": 140940,
+        "word": "TheShy问Ning王LNG走后门事件",
+        "onboard_time": 1719199278,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139115,
+        "num": 139115,
+        "word": "鹅剧派对",
+        "onboard_time": 1719196696,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131244,
+        "num": 131244,
+        "word": "猎罪图鉴2小分队全员回归",
+        "onboard_time": 1719196696,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#青海宁夏之行总书记关注这条主线#"
+    }
+  }
+}

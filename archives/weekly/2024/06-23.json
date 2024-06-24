@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719200138796,
+  "endTime": 1719202984244,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -9,6 +9,14 @@
       "onboard_time": 1719126498,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2468997,
+      "num": 2468997,
+      "word": "腾讯今天官宣好多剧",
+      "onboard_time": 1719198378,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 2396856,
@@ -91,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1633852,
+      "num": 522443,
+      "word": "郭碧婷米饭过敏",
+      "onboard_time": 1719201319,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1609804,
       "num": 1609804,
       "word": "猎罪图鉴2首宣",
@@ -153,14 +169,6 @@
       "onboard_time": 1719143177,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1267349,
-      "num": 1267349,
-      "word": "腾讯今天官宣好多剧",
-      "onboard_time": 1719198378,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 1246215,
@@ -347,6 +355,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 797201,
+      "num": 513701,
+      "word": "张雪峰说分数低就不要既要又要了",
+      "onboard_time": 1719199098,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 766564,
       "num": 766564,
       "word": "A股",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 688022,
-      "num": 272438,
+      "num": 277066,
       "word": "毕业两年室友做美甲挣了八十万",
       "onboard_time": 1719196396,
       "rank": 28,
@@ -545,6 +561,14 @@
       "onboard_time": 1719116358,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 598960,
+      "num": 508736,
+      "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+      "onboard_time": 1719201921,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565976,
@@ -675,12 +699,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 504977,
+      "num": 504977,
+      "word": "于正说临江仙必爆",
+      "onboard_time": 1719199697,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502201,
       "num": 502201,
       "word": "王星越谈被校园霸凌哭了",
       "onboard_time": 1719118398,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 501146,
+      "num": 501146,
+      "word": "独身女人官宣唐嫣赵又廷",
+      "onboard_time": 1719201200,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 499544,
@@ -1139,6 +1179,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361229,
+      "num": 361229,
+      "word": "长沙地铁",
+      "onboard_time": 1719202400,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359294,
+      "num": 271835,
+      "word": "ZICO否认传闻",
+      "onboard_time": 1719202219,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358977,
       "num": 358977,
       "word": "杨幂发论文的期刊不收版面费",
@@ -1251,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 322873,
+      "num": 268012,
+      "word": "牵羊礼",
+      "onboard_time": 1719200539,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 321861,
       "num": 199271,
       "word": "方协文 可怕",
@@ -1291,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 316130,
-      "num": 198615,
-      "word": "于正说临江仙必爆",
-      "onboard_time": 1719199697,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 315117,
       "num": 230020,
       "word": "刘亦菲机长造型",
@@ -1324,7 +1380,7 @@
     },
     {
       "raw_hot": 309491,
-      "num": 196647,
+      "num": 238580,
       "word": "永夜星河好大一个虞书欣",
       "onboard_time": 1719197958,
       "rank": 24,
@@ -1411,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277999,
+      "num": 277999,
+      "word": "余承东和微博CEO聊了什么",
+      "onboard_time": 1719199937,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 276660,
       "num": 276660,
       "word": "Manner事件",
@@ -1451,6 +1515,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 267403,
+      "num": 267403,
+      "word": "中央气象台今年首个暴雨红色预警",
+      "onboard_time": 1719201380,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264969,
       "num": 264969,
       "word": "茅台发布自制假茅台鉴定为真核实说明",
@@ -1489,6 +1561,14 @@
       "onboard_time": 1719131000,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 256770,
+      "num": 256770,
+      "word": "陈娴否认月入千万",
+      "onboard_time": 1719202160,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249047,
@@ -1699,14 +1779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223281,
-      "num": 223281,
-      "word": "余承东和微博CEO聊了什么",
-      "onboard_time": 1719199937,
-      "rank": 17,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 222406,
       "num": 222406,
       "word": "Gemini红温",
@@ -1755,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211999,
+      "num": 211999,
+      "word": "陕西分数线",
+      "onboard_time": 1719202640,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211525,
       "num": 211525,
       "word": "阿汤哥女儿去掉父亲姓氏",
@@ -1769,6 +1849,14 @@
       "onboard_time": 1719112159,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209968,
+      "num": 209968,
+      "word": "学生高考695分老师笑称考得有点多",
+      "onboard_time": 1719200659,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 207979,
@@ -1820,7 +1908,7 @@
     },
     {
       "raw_hot": 204975,
-      "num": 194197,
+      "num": 201575,
       "word": "九重紫",
       "onboard_time": 1719199579,
       "rank": 30,
@@ -1849,14 +1937,6 @@
       "onboard_time": 1719066859,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202851,
-      "num": 202851,
-      "word": "张雪峰说分数低就不要既要又要了",
-      "onboard_time": 1719199098,
-      "rank": 45,
-      "category": "教育"
     },
     {
       "raw_hot": 202832,
@@ -2051,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186708,
+      "num": 186708,
+      "word": "困在职场的35岁女性决定去考公",
+      "onboard_time": 1719197597,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 186560,
       "num": 186560,
       "word": "看完周京泽想去考飞行员了",
@@ -2139,6 +2227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182160,
+      "num": 182160,
+      "word": "光与夜之恋电话",
+      "onboard_time": 1719202640,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 180802,
+      "num": 180802,
+      "word": "张晚意 背德赛道",
+      "onboard_time": 1719202099,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180364,
       "num": 180364,
       "word": "度华年 先婚后爱",
@@ -2153,6 +2257,14 @@
       "onboard_time": 1719106037,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179558,
+      "num": 179558,
+      "word": "韩国又发生一起酒店性犯罪案",
+      "onboard_time": 1719202339,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179359,
@@ -2259,12 +2371,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 170047,
-      "num": 170047,
-      "word": "困在职场的35岁女性决定去考公",
-      "onboard_time": 1719197597,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 169348,
+      "num": 169348,
+      "word": "眉姐姐赛道",
+      "onboard_time": 1719201259,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 168385,
@@ -2441,6 +2553,14 @@
       "onboard_time": 1719141617,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155424,
+      "num": 155424,
+      "word": "丁禹兮配音",
+      "onboard_time": 1719200718,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 155010,
@@ -3515,6 +3635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95792,
+      "num": 525351,
+      "word": "有些商家打广告的方式越来越隐蔽了",
+      "onboard_time": 1719201620,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94237,
       "num": 422061,
       "word": "56个民族同唱一首歌再听依然感动",
@@ -4147,6 +4275,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 19032,
+      "num": 514553,
+      "word": "没有栀子花的夏天是不完整的",
+      "onboard_time": 1719199398,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 18756,
       "num": 22733,
       "word": "美国vs玻利维亚",
@@ -4169,14 +4305,6 @@
       "onboard_time": 1719170651,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18199,
-      "num": 170118,
-      "word": "没有栀子花的夏天是不完整的",
-      "onboard_time": 1719199398,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 17613,
