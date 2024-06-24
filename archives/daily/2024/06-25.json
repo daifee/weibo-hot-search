@@ -1,10 +1,10 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719268544042,
+  "endTime": 1719271302200,
   "band_list": [
     {
       "raw_hot": 1186042,
-      "num": 387623,
+      "num": 424153,
       "word": "杜江霍思燕收养实验犬",
       "onboard_time": 1719238520,
       "rank": 3,
@@ -17,6 +17,14 @@
       "onboard_time": 1719241520,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 739894,
+      "num": 739894,
+      "word": "浙大百万网红陈娴已有多家公司",
+      "onboard_time": 1719247695,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 700550,
@@ -67,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 424240,
-      "num": 424240,
-      "word": "浙大百万网红陈娴已有多家公司",
-      "onboard_time": 1719247695,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369122,
       "num": 248748,
       "word": "林一回应和刘亦菲合作",
@@ -88,6 +88,14 @@
       "word": "韩雪 难听",
       "onboard_time": 1719231500,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 302030,
+      "num": 172939,
+      "word": "大碗宽面组团魂4年后居然还在",
+      "onboard_time": 1719246077,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -163,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206140,
+      "num": 157514,
+      "word": "某韩国男星性侵18岁女学生",
+      "onboard_time": 1719217519,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198389,
       "num": 198389,
       "word": "唐尚珺高考成绩",
@@ -203,6 +219,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 169333,
+      "num": 169333,
+      "word": "克罗地亚1比1意大利",
+      "onboard_time": 1719270915,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168000,
       "num": 168000,
       "word": "山东卫视发了肖战",
@@ -211,12 +235,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165957,
-      "num": 157807,
-      "word": "大碗宽面组团魂4年后居然还在",
-      "onboard_time": 1719246077,
-      "rank": 34,
-      "category": "综艺"
+      "raw_hot": 164422,
+      "num": 144953,
+      "word": "月薪四千开始从孩子身上降本增效",
+      "onboard_time": 1719232101,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156299,
+      "num": 156299,
+      "word": "克罗地亚vs意大利",
+      "onboard_time": 1719246616,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 153529,
@@ -235,12 +267,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144953,
-      "num": 144953,
-      "word": "月薪四千开始从孩子身上降本增效",
-      "onboard_time": 1719232101,
-      "rank": 29,
-      "category": "社会新闻"
+      "raw_hot": 150612,
+      "num": 109551,
+      "word": "得知旁边同事居然有3份收入",
+      "onboard_time": 1719270915,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 139620,
@@ -259,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136341,
+      "num": 136341,
+      "word": "长相思男团穿西装不告诉邓为",
+      "onboard_time": 1719258791,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134640,
       "num": 134640,
       "word": "EXO成员去了张艺兴演唱会",
@@ -273,14 +313,6 @@
       "onboard_time": 1719218899,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128381,
-      "num": 128381,
-      "word": "克罗地亚vs意大利",
-      "onboard_time": 1719246616,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 126687,
@@ -299,12 +331,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 121734,
-      "num": 119488,
-      "word": "某韩国男星性侵18岁女学生",
-      "onboard_time": 1719217519,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 120210,
+      "num": 109289,
+      "word": "杭州西湖泄洪了",
+      "onboard_time": 1719270854,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118324,
@@ -355,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98410,
+      "num": 98410,
+      "word": "刘亦菲自拍水平二十年如一日",
+      "onboard_time": 1719270854,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95160,
       "num": 118332,
       "word": "女性一生中月经的次数变化",
@@ -403,6 +443,30 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 78522,
+      "num": 78522,
+      "word": "河南高考查分",
+      "onboard_time": 1719271094,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 72390,
+      "num": 72390,
+      "word": "天蝎座不愧是纯爱战士",
+      "onboard_time": 1719270854,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 71858,
+      "num": 71858,
+      "word": "阿尔巴尼亚0比1西班牙",
+      "onboard_time": 1719270975,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71650,
       "num": 87922,
       "word": "大四女生退学后复读5个月考641分",
@@ -427,12 +491,44 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 59344,
-      "num": 59344,
-      "word": "长相思男团穿西装不告诉邓为",
-      "onboard_time": 1719258791,
-      "rank": 45,
-      "category": "作品衍生"
+      "raw_hot": 64280,
+      "num": 64280,
+      "word": "李晋晔哽咽回应歌手争议",
+      "onboard_time": 1719228918,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 62057,
+      "num": 62057,
+      "word": "留学最害怕的事还是发生了",
+      "onboard_time": 1719270854,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 58629,
+      "num": 58629,
+      "word": "小狗在小猪崽中混吃混喝",
+      "onboard_time": 1719264371,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58218,
+      "num": 58218,
+      "word": "射手才是火象星座里最难搞的",
+      "onboard_time": 1719270915,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 54117,
+      "num": 424465,
+      "word": "高铁火箭飞机的发展都与这门专业相关",
+      "onboard_time": 1719236360,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 53946,
@@ -467,22 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31813,
-      "num": 31813,
-      "word": "小狗在小猪崽中混吃混喝",
-      "onboard_time": 1719264371,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 29132,
-      "num": 34474,
-      "word": "李晋晔哽咽回应歌手争议",
-      "onboard_time": 1719228918,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27182,
       "num": 34470,
       "word": "快速对一个人祛魅的方式",
@@ -497,6 +577,14 @@
       "onboard_time": 1719261850,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 26017,
+      "num": 168266,
+      "word": "奶奶数落走失老伴却把民警甜到了",
+      "onboard_time": 1719270194,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24700,
@@ -520,14 +608,6 @@
       "word": "长沙暴雨多地被淹",
       "onboard_time": 1719248175,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20233,
-      "num": 150487,
-      "word": "高铁火箭飞机的发展都与这门专业相关",
-      "onboard_time": 1719236360,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
