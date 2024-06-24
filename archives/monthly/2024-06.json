@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719257673930,
+  "endTime": 1719260400822,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -67603,6 +67603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 40608,
+      "num": 28852,
+      "word": "我不是小太阳啊",
+      "onboard_time": 1719256392,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 40543,
       "num": 112328,
       "word": "我爸永远是我最大的依仗",
@@ -69995,14 +70003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24501,
-      "num": 24501,
-      "word": "我不是小太阳啊",
-      "onboard_time": 1719256392,
-      "rank": 48,
-      "category": "网红"
-    },
-    {
       "raw_hot": 24357,
       "num": 29322,
       "word": "toyoki的diss",
@@ -71009,6 +71009,14 @@
       "onboard_time": 1717864097,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 16009,
+      "num": 16009,
+      "word": "长相思男团穿西装不告诉邓为",
+      "onboard_time": 1719258791,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15949,
