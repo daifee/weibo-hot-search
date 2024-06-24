@@ -1,0 +1,410 @@
+{
+  "runTime": 1719196579076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1609804,
+        "num": 1609804,
+        "word": "猎罪图鉴2首宣",
+        "onboard_time": 1719193576,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1105115,
+        "num": 1105115,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 56972,
+        "num": 1049442,
+        "word": "为什么说宁夏是一个宝藏",
+        "onboard_time": 1719152959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1044741,
+        "num": 1044741,
+        "word": "黄玫瑰拿铁",
+        "onboard_time": 1719192018,
+        "rank": 3,
+        "category": "美食,作品衍生"
+      },
+      {
+        "raw_hot": 799602,
+        "num": 799602,
+        "word": "学生高考710分老师瞬间沸腾",
+        "onboard_time": 1719190698,
+        "rank": 4,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 738595,
+        "num": 738595,
+        "word": "司机不知情下备胎内被藏毒92斤",
+        "onboard_time": 1719195077,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698003,
+        "num": 698003,
+        "word": "A股",
+        "onboard_time": 1719193756,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 678299,
+        "num": 678299,
+        "word": "我用19年证明高考不能决定人生",
+        "onboard_time": 1719190158,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 664926,
+        "num": 664926,
+        "word": "ZICO",
+        "onboard_time": 1719192136,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47706,
+        "num": 650436,
+        "word": "毕业前夕浙大竺可桢雕像前摆满鲜花",
+        "onboard_time": 1719195977,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 644384,
+        "num": 644384,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633307,
+        "num": 633307,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532294,
+        "num": 532294,
+        "word": "鹅厂2024大剧片单",
+        "onboard_time": 1719193337,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 522047,
+        "num": 522047,
+        "word": "白日提灯改名",
+        "onboard_time": 1719193938,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 435905,
+        "num": 435905,
+        "word": "长安的荔枝全阵容官宣",
+        "onboard_time": 1719195619,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428235,
+        "num": 428235,
+        "word": "理科生高考713分物理化学均满分",
+        "onboard_time": 1719192077,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 393361,
+        "num": 393361,
+        "word": "火箭少女聚会合照",
+        "onboard_time": 1719194778,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327144,
+        "num": 327144,
+        "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
+        "onboard_time": 1719189917,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 254233,
+        "num": 254233,
+        "word": "一毕业就有3年工作经验的应届生",
+        "onboard_time": 1719193816,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191401,
+        "num": 191401,
+        "word": "长沙暴雨",
+        "onboard_time": 1719196037,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716401,
+        "num": 191314,
+        "word": "睡前不刷牙会发生什么",
+        "onboard_time": 1719189257,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 463511,
+        "num": 191154,
+        "word": "男朋友给我转账写出借",
+        "onboard_time": 1719194658,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 386609,
+        "num": 190915,
+        "word": "1个校区就发现76例学生脊柱侧弯",
+        "onboard_time": 1719184875,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309035,
+        "num": 190829,
+        "word": "准大一生活费决定给1500",
+        "onboard_time": 1719187817,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273876,
+        "num": 190749,
+        "word": "墨雨云间 OE",
+        "onboard_time": 1719188177,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261545,
+        "num": 190511,
+        "word": "慕胥辞阵容官宣",
+        "onboard_time": 1719193938,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259958,
+        "num": 190409,
+        "word": "弟弟高考失利还要把礼物给他吗",
+        "onboard_time": 1719194658,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230724,
+        "num": 190251,
+        "word": "肖战饭制互动游戏正式上线",
+        "onboard_time": 1719193276,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220633,
+        "num": 189955,
+        "word": "毕业两年室友做美甲挣了八十万",
+        "onboard_time": 1719196396,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 220475,
+        "num": 189825,
+        "word": "人鱼 杀青",
+        "onboard_time": 1719186616,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200071,
+        "num": 189729,
+        "word": "电影出入平安定档",
+        "onboard_time": 1719196037,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189607,
+        "num": 189607,
+        "word": "恋爱一定要抛开羞耻大胆谈",
+        "onboard_time": 1719191238,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171770,
+        "num": 171770,
+        "word": "高考查分",
+        "onboard_time": 1719191838,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 162370,
+        "num": 162370,
+        "word": "在男朋友28岁生日那天被求婚了",
+        "onboard_time": 1719186977,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140751,
+        "num": 140751,
+        "word": "锦绣安宁首支预告",
+        "onboard_time": 1719193699,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131031,
+        "num": 131031,
+        "word": "男子带96岁母亲酒店养老遭集体拉黑",
+        "onboard_time": 1719154279,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127425,
+        "num": 127425,
+        "word": "黄晓明拿奖激动到手抖",
+        "onboard_time": 1719180431,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123451,
+        "num": 123451,
+        "word": "iPhone16全系尺寸曝光",
+        "onboard_time": 1719152301,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116996,
+        "num": 116996,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 38,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 115377,
+        "num": 115377,
+        "word": "这么爽的班到底是谁在上",
+        "onboard_time": 1719189078,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113780,
+        "num": 113780,
+        "word": "相柳白月光回归",
+        "onboard_time": 1719184514,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112883,
+        "num": 112883,
+        "word": "央视曝光农村生活污水治理假工程",
+        "onboard_time": 1719183734,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110505,
+        "num": 110505,
+        "word": "汪苏泷内娱麦当娜连蹲",
+        "onboard_time": 1719192377,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105970,
+        "num": 105970,
+        "word": "刘亦菲机长造型",
+        "onboard_time": 1719187517,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103343,
+        "num": 103343,
+        "word": "夫妻自驾运毒34.8公斤被抓",
+        "onboard_time": 1719169151,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101814,
+        "num": 101814,
+        "word": "王星越出发hi6",
+        "onboard_time": 1719192737,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97798,
+        "num": 97798,
+        "word": "慕胥辞",
+        "onboard_time": 1719188298,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94237,
+        "num": 94237,
+        "word": "56个民族同唱一首歌再听依然感动",
+        "onboard_time": 1719190399,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86797,
+        "num": 86797,
+        "word": "海蓝之谜柜姐被顾客泼水羞辱",
+        "onboard_time": 1719152179,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86702,
+        "num": 86702,
+        "word": "苏打绿演唱会",
+        "onboard_time": 1719196517,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#青海宁夏之行总书记关注这条主线#"
+    }
+  }
+}

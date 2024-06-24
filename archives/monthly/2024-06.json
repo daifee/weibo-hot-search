@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719193444447,
+  "endTime": 1719196579076,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1718761638,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1609804,
+      "num": 1609804,
+      "word": "猎罪图鉴2首宣",
+      "onboard_time": 1719193576,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1606792,
@@ -4059,6 +4067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1044741,
+      "num": 1044741,
+      "word": "黄玫瑰拿铁",
+      "onboard_time": 1719192018,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1042858,
       "num": 1042858,
       "word": "那英快哭了",
@@ -6131,6 +6147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 799602,
+      "num": 799602,
+      "word": "学生高考710分老师瞬间沸腾",
+      "onboard_time": 1719190698,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 799417,
       "num": 746500,
       "word": "网传章子怡赵丽颖新综艺接档歌手",
@@ -7027,6 +7051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 738595,
+      "num": 738595,
+      "word": "司机不知情下备胎内被藏毒92斤",
+      "onboard_time": 1719195077,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738387,
       "num": 738387,
       "word": "黄亦玫孕期看到爸妈的反应",
@@ -7747,6 +7779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 698003,
+      "num": 698003,
+      "word": "A股",
+      "onboard_time": 1717381458,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 697979,
       "num": 389743,
       "word": "刘亦菲彭冠英踮脚吻",
@@ -8411,6 +8451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664926,
+      "num": 664926,
+      "word": "ZICO",
+      "onboard_time": 1719192136,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 664591,
       "num": 664591,
       "word": "同济大学发博祝贺姜萍",
@@ -8873,6 +8921,14 @@
       "onboard_time": 1718348598,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 644384,
+      "num": 644384,
+      "word": "李梦穿搭",
+      "onboard_time": 1719192917,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 644289,
@@ -9929,14 +9985,6 @@
       "onboard_time": 1717734204,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 595672,
-      "num": 595672,
-      "word": "ZICO",
-      "onboard_time": 1719192136,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 595298,
@@ -11091,14 +11139,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 548983,
-      "num": 548983,
-      "word": "黄玫瑰拿铁",
-      "onboard_time": 1719192018,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 548762,
       "num": 548762,
       "word": "发条微博祝自己六一快乐",
@@ -11627,6 +11667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 532294,
+      "num": 532294,
+      "word": "鹅厂2024大剧片单",
+      "onboard_time": 1719193337,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 532107,
       "num": 532107,
       "word": "查理苏秒了",
@@ -11977,6 +12025,14 @@
       "onboard_time": 1718269578,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 522047,
+      "num": 522047,
+      "word": "白日提灯改名",
+      "onboard_time": 1719193938,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 522007,
@@ -14131,6 +14187,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 463511,
+      "num": 191154,
+      "word": "男朋友给我转账写出借",
+      "onboard_time": 1719194658,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 463498,
       "num": 300591,
       "word": "男子带96岁母亲酒店养老遭集体拉黑",
@@ -14577,14 +14641,6 @@
       "onboard_time": 1717750577,
       "rank": 8,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 451570,
-      "num": 451570,
-      "word": "A股",
-      "onboard_time": 1717381458,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 451372,
@@ -15315,6 +15371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435905,
+      "num": 435905,
+      "word": "长安的荔枝全阵容官宣",
+      "onboard_time": 1719195619,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435612,
       "num": 336058,
       "word": "汪苏泷不会真唱奢香夫人吧",
@@ -15617,6 +15681,14 @@
       "onboard_time": 1718694920,
       "rank": 34,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 428235,
+      "num": 428235,
+      "word": "理科生高考713分物理化学均满分",
+      "onboard_time": 1719192077,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 428215,
@@ -17219,6 +17291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393361,
+      "num": 393361,
+      "word": "火箭少女聚会合照",
+      "onboard_time": 1719194778,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393289,
       "num": 376223,
       "word": "王一博巴黎街边吃冰淇淋",
@@ -17473,14 +17553,6 @@
       "onboard_time": 1719056178,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 386975,
-      "num": 386975,
-      "word": "学生高考710分老师瞬间沸腾",
-      "onboard_time": 1719190698,
-      "rank": 9,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 386868,
@@ -25475,6 +25547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 261545,
+      "num": 190511,
+      "word": "慕胥辞阵容官宣",
+      "onboard_time": 1719193938,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261449,
       "num": 261449,
       "word": "安徽谢桥煤矿瓦斯爆炸9死15伤",
@@ -25553,6 +25633,14 @@
       "onboard_time": 1718516957,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 259958,
+      "num": 190409,
+      "word": "弟弟高考失利还要把礼物给他吗",
+      "onboard_time": 1719194658,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 259926,
@@ -25945,6 +26033,14 @@
       "onboard_time": 1717164685,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 254233,
+      "num": 254233,
+      "word": "一毕业就有3年工作经验的应届生",
+      "onboard_time": 1719193816,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254122,
@@ -26697,14 +26793,6 @@
       "onboard_time": 1718153718,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245054,
-      "num": 245054,
-      "word": "理科生高考713分物理化学均满分",
-      "onboard_time": 1719192077,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 244751,
@@ -28139,6 +28227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 230724,
+      "num": 190251,
+      "word": "肖战饭制互动游戏正式上线",
+      "onboard_time": 1719193276,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230610,
       "num": 253495,
       "word": "李沁像极了美人鱼",
@@ -29304,6 +29400,14 @@
       "word": "大大方方结束一段不真诚的关系",
       "onboard_time": 1717543275,
       "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 220633,
+      "num": 189955,
+      "word": "毕业两年室友做美甲挣了八十万",
+      "onboard_time": 1719196396,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -31331,14 +31435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207572,
-      "num": 207572,
-      "word": "李梦穿搭",
-      "onboard_time": 1719192917,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207512,
       "num": 207512,
       "word": "屈原列传",
@@ -33201,6 +33297,14 @@
       "onboard_time": 1717830978,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200071,
+      "num": 189729,
+      "word": "电影出入平安定档",
+      "onboard_time": 1719196037,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 200030,
@@ -35371,6 +35475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 191401,
+      "num": 191401,
+      "word": "长沙暴雨",
+      "onboard_time": 1719196037,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191354,
       "num": 191354,
       "word": "这样夹头发好像真的有用",
@@ -35536,14 +35648,6 @@
       "word": "刘亦菲万茜朱珠 亦万头朱",
       "onboard_time": 1718600419,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 190697,
-      "num": 190697,
-      "word": "鹅厂2024大剧片单",
-      "onboard_time": 1719193337,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -47411,6 +47515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140751,
+      "num": 140751,
+      "word": "锦绣安宁首支预告",
+      "onboard_time": 1719193699,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140727,
       "num": 140727,
       "word": "死对头也可以是救命恩人",
@@ -52905,14 +53017,6 @@
       "onboard_time": 1717201697,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121985,
-      "num": 121985,
-      "word": "肖战饭制互动游戏正式上线",
-      "onboard_time": 1719193276,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 121976,
@@ -59019,6 +59123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94237,
+      "num": 422061,
+      "word": "56个民族同唱一首歌再听依然感动",
+      "onboard_time": 1719190399,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94165,
       "num": 415825,
       "word": "高价防晒产品真能避免晒黑吗",
@@ -59745,6 +59857,14 @@
       "onboard_time": 1718831890,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86702,
+      "num": 86702,
+      "word": "苏打绿演唱会",
+      "onboard_time": 1719196517,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 86484,
@@ -61943,14 +62063,6 @@
       "num": 270822,
       "word": "大学里志趣变成稀缺品了吗",
       "onboard_time": 1718171539,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66064,
-      "num": 422061,
-      "word": "56个民族同唱一首歌再听依然感动",
-      "onboard_time": 1719190399,
       "rank": 9,
       "category": "社会新闻"
     },
@@ -64409,6 +64521,14 @@
       "onboard_time": 1718944640,
       "rank": 21,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47706,
+      "num": 650436,
+      "word": "毕业前夕浙大竺可桢雕像前摆满鲜花",
+      "onboard_time": 1719195977,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47635,
