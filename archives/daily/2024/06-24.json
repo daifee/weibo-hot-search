@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719218270947,
+  "endTime": 1719220967557,
   "band_list": [
     {
       "raw_hot": 2468997,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1483879,
-      "num": 505628,
+      "num": 986535,
       "word": "李梦 情商",
       "onboard_time": 1719214159,
       "rank": 34,
@@ -104,6 +104,14 @@
       "word": "我用19年证明高考不能决定人生",
       "onboard_time": 1719190158,
       "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1066917,
+      "num": 1066917,
+      "word": "学生699分老师说没上700有点瑕疵",
+      "onboard_time": 1719218419,
+      "rank": 1,
       "category": "教育"
     },
     {
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 720595,
-      "num": 397365,
+      "num": 620624,
       "word": "邓为红毯生图",
       "onboard_time": 1719216739,
       "rank": 11,
@@ -248,6 +256,14 @@
       "word": "毕业两年室友做美甲挣了八十万",
       "onboard_time": 1719196396,
       "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 684804,
+      "num": 260530,
+      "word": "我妹高考683分想复读",
+      "onboard_time": 1719216499,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -283,12 +299,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653581,
+      "num": 653581,
+      "word": "江苏分数线",
+      "onboard_time": 1719218419,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 640402,
       "num": 640402,
       "word": "iPhone16全系尺寸曝光",
       "onboard_time": 1719152301,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 639813,
+      "num": 639813,
+      "word": "程潇 不出图",
+      "onboard_time": 1719218839,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 615042,
@@ -299,12 +331,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 605582,
-      "num": 260530,
-      "word": "我妹高考683分想复读",
-      "onboard_time": 1719216499,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 611963,
+      "num": 611963,
+      "word": "12366回应个税APP新增5项个人所得",
+      "onboard_time": 1719215960,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 604891,
@@ -313,6 +345,14 @@
       "onboard_time": 1719196037,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584356,
+      "num": 584356,
+      "word": "网传荣梓杉高考成绩417分",
+      "onboard_time": 1719220520,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 575823,
@@ -345,6 +385,14 @@
       "onboard_time": 1719193337,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 559400,
+      "num": 559400,
+      "word": "杨紫没来小夭立牌来了",
+      "onboard_time": 1719219199,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 557153,
@@ -491,6 +539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 445038,
+      "num": 445038,
+      "word": "湖南卫视直播",
+      "onboard_time": 1719218240,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437821,
       "num": 437821,
       "word": "一毕业就有3年工作经验的应届生",
@@ -619,20 +675,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 397436,
-      "num": 397436,
-      "word": "12366回应个税APP新增5项个人所得",
-      "onboard_time": 1719215960,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 393361,
       "num": 393361,
       "word": "火箭少女聚会合照",
       "onboard_time": 1719194778,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 388534,
+      "num": 258822,
+      "word": "迪丽热巴清丽玫瑰",
+      "onboard_time": 1719216920,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 382703,
@@ -683,11 +739,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348256,
+      "num": 249874,
+      "word": "Red Velvet",
+      "onboard_time": 1719220640,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 342928,
       "num": 342928,
       "word": "慕胥辞",
       "onboard_time": 1719188298,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 340640,
+      "num": 256546,
+      "word": "长相思2还没来",
+      "onboard_time": 1719211158,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -699,20 +771,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332108,
+      "num": 332108,
+      "word": "辽宁高考分数线",
+      "onboard_time": 1719217580,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 328139,
       "num": 314210,
       "word": "长沙地铁2号3号线因暴雨停运",
       "onboard_time": 1719203181,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 327008,
-      "num": 258822,
-      "word": "迪丽热巴清丽玫瑰",
-      "onboard_time": 1719216920,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 325305,
@@ -723,12 +795,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321971,
-      "num": 256546,
-      "word": "长相思2还没来",
-      "onboard_time": 1719211158,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 318547,
+      "num": 248485,
+      "word": "迪丽热巴提灯三连拍",
+      "onboard_time": 1719219619,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 317649,
@@ -752,6 +824,14 @@
       "word": "永夜星河好大一个虞书欣",
       "onboard_time": 1719197958,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 308946,
+      "num": 248685,
+      "word": "终于有了一部全女主的剧",
+      "onboard_time": 1719218899,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -875,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265760,
+      "num": 247335,
+      "word": "赵一博 支教",
+      "onboard_time": 1719219978,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261545,
       "num": 222079,
       "word": "慕胥辞阵容官宣",
@@ -905,6 +993,14 @@
       "onboard_time": 1719215180,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 246943,
+      "num": 246943,
+      "word": "长沙1小时下了54个西湖",
+      "onboard_time": 1719220640,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244041,
@@ -947,12 +1043,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241316,
+      "num": 241316,
+      "word": "直击长沙暴雨救援",
+      "onboard_time": 1719219079,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239939,
+      "num": 239939,
+      "word": "胡锡进总亏损扩大到7.75万",
+      "onboard_time": 1719220460,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 238791,
       "num": 85241,
       "word": "汪苏泷终于唱巴赫旧约了",
       "onboard_time": 1719162075,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 238097,
+      "num": 250574,
+      "word": "法国女子只拿工资不干活怒告公司",
+      "onboard_time": 1719217280,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235199,
@@ -969,14 +1089,6 @@
       "onboard_time": 1719184334,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 233427,
-      "num": 233427,
-      "word": "辽宁高考分数线",
-      "onboard_time": 1719217580,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 231337,
@@ -1227,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187452,
+      "num": 187452,
+      "word": "福建分数线公布",
+      "onboard_time": 1719219920,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 186708,
       "num": 186708,
       "word": "困在职场的35岁女性决定去考公",
@@ -1315,14 +1435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 175014,
-      "num": 175014,
-      "word": "湖南卫视直播",
-      "onboard_time": 1719218240,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 174972,
       "num": 174972,
       "word": "网红陈娴鼓励网友尝试心中所想",
@@ -1363,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166977,
+      "num": 166977,
+      "word": "张若昀马思纯二搭",
+      "onboard_time": 1719219799,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165285,
       "num": 165285,
       "word": "陈都灵美得像国画",
@@ -1395,6 +1515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 161887,
+      "num": 161887,
+      "word": "全圆佑 红发",
+      "onboard_time": 1719219920,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 161697,
       "num": 161697,
       "word": "意大利女排3比1日本女排",
@@ -1408,6 +1536,14 @@
       "word": "长沙防汛应急响应提升至三级",
       "onboard_time": 1719203781,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158904,
+      "num": 380418,
+      "word": "长沙打工人开船上班",
+      "onboard_time": 1719216020,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -1481,6 +1617,14 @@
       "onboard_time": 1719204319,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 152087,
+      "num": 152087,
+      "word": "张晚意王楚然当上主持人了",
+      "onboard_time": 1719220579,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 151682,
@@ -1587,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137049,
+      "num": 137049,
+      "word": "萧逸电话",
+      "onboard_time": 1719220938,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 136669,
       "num": 136669,
       "word": "匈牙利绝杀苏格兰",
@@ -1633,14 +1785,6 @@
       "onboard_time": 1719156438,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130023,
-      "num": 380418,
-      "word": "长沙打工人开船上班",
-      "onboard_time": 1719216020,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 128728,
@@ -1835,6 +1979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95723,
+      "num": 584535,
+      "word": "你的高考成绩一定会惊艳整个盛夏",
+      "onboard_time": 1719220160,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 94320,
       "num": 94320,
       "word": "陈瑶白晓荷有姐感了",
@@ -1995,11 +2147,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64045,
-      "num": 250574,
-      "word": "法国女子只拿工资不干活怒告公司",
-      "onboard_time": 1719217280,
+      "raw_hot": 64806,
+      "num": 247801,
+      "word": "韩国一电池厂火灾20多人死亡",
+      "onboard_time": 1719220520,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64549,
+      "num": 994962,
+      "word": "致敬暴雨中的守护力量",
+      "onboard_time": 1719217759,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2072,14 +2232,6 @@
       "word": "暴雨防范科普手卡",
       "onboard_time": 1719206718,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 46386,
-      "num": 520587,
-      "word": "致敬暴雨中的守护力量",
-      "onboard_time": 1719217759,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2185,6 +2337,14 @@
       "onboard_time": 1719155002,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25924,
+      "num": 487171,
+      "word": "AI时代学翻译还有什么用",
+      "onboard_time": 1719219619,
+      "rank": 14,
+      "category": "教育"
     },
     {
       "raw_hot": 22365,

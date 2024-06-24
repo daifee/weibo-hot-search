@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 16:37:50
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 17:22:47
 </p>
 </blockquote>
 <p>
@@ -3039,6 +3039,12 @@ Jennie 晚奶（热度：1084973）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F699%E5%88%86%E8%80%81%E5%B8%88%E8%AF%B4%E6%B2%A1%E4%B8%8A700%E6%9C%89%E7%82%B9%E7%91%95%E7%96%B5%23" target="weibo">
+学生699分老师说没上700有点瑕疵（热度：1066917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A9%20%E5%A6%88%E5%A6%88%E5%8F%98%E6%88%90%E8%9D%B4%E8%9D%B6%E4%BA%86%23" target="weibo">
 阮经天 妈妈变成蝴蝶了（热度：1064000）
 </a>
@@ -6005,12 +6011,6 @@ Selina谈到男友哭了（热度：697166）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%23" target="weibo">
 姆巴佩（热度：694866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E8%80%81%E5%B8%88%E6%95%B0%E5%AD%A6%E7%AB%9E%E8%B5%9B%E5%85%A8%E7%90%83125%E5%90%8D%23" target="weibo">
-姜萍老师数学竞赛全球125名（热度：694856）
 </a>
 </li>
 
