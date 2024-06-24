@@ -1,0 +1,410 @@
+{
+  "runTime": 1719211206426,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1317802,
+        "num": 1317802,
+        "word": "腾讯今天官宣好多剧",
+        "onboard_time": 1719198378,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1056324,
+        "num": 1056324,
+        "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+        "onboard_time": 1719201921,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25657,
+        "num": 916534,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1719210197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900335,
+        "num": 900335,
+        "word": "李梦评论玫瑰的故事相关微博",
+        "onboard_time": 1719208458,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 886970,
+        "num": 886970,
+        "word": "女生复读一年高考涨了150分",
+        "onboard_time": 1719205879,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 428671,
+        "num": 428671,
+        "word": "司机不知情下备胎内被藏毒92斤",
+        "onboard_time": 1719195077,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657379,
+        "num": 427794,
+        "word": "张小斐 MiuMiu",
+        "onboard_time": 1719209418,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538672,
+        "num": 425499,
+        "word": "迪丽热巴搭陈飞宇",
+        "onboard_time": 1719207739,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422608,
+        "num": 422608,
+        "word": "长沙暴雨",
+        "onboard_time": 1719196037,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315074,
+        "num": 315074,
+        "word": "高考分数线",
+        "onboard_time": 1719200659,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38139,
+        "num": 307210,
+        "word": "39岁快递小哥双腿绑10斤沙袋送货",
+        "onboard_time": 1719210858,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758484,
+        "num": 301753,
+        "word": "郭碧婷米饭过敏",
+        "onboard_time": 1719201319,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 511609,
+        "num": 284932,
+        "word": "迪丽热巴亮片高定",
+        "onboard_time": 1719206358,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 461810,
+        "num": 279093,
+        "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+        "onboard_time": 1719197058,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433136,
+        "num": 259633,
+        "word": "将门毒后谁演",
+        "onboard_time": 1719209119,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259066,
+        "num": 259066,
+        "word": "长沙地铁",
+        "onboard_time": 1719202400,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241723,
+        "num": 241723,
+        "word": "王者新赛季",
+        "onboard_time": 1719207437,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 204958,
+        "num": 204958,
+        "word": "福建高考查分",
+        "onboard_time": 1719206718,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166412,
+        "num": 166412,
+        "word": "学生高考710分老师瞬间沸腾",
+        "onboard_time": 1719190698,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 151373,
+        "num": 151373,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 460808,
+        "num": 151224,
+        "word": "张雪峰说分数低就不要既要又要了",
+        "onboard_time": 1719199098,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 415027,
+        "num": 150126,
+        "word": "没认出来这居然是娜扎",
+        "onboard_time": 1719205400,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353053,
+        "num": 149658,
+        "word": "月经不规律或是身体发出的求救信号",
+        "onboard_time": 1719207260,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 333462,
+        "num": 148798,
+        "word": "易烊千玺成为奥林匹克之友",
+        "onboard_time": 1719204801,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 317291,
+        "num": 148227,
+        "word": "毕业两年室友做美甲挣了八十万",
+        "onboard_time": 1719196396,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272708,
+        "num": 146758,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266568,
+        "num": 146021,
+        "word": "查分后怒发了一个朋友圈",
+        "onboard_time": 1719206539,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243370,
+        "num": 145250,
+        "word": "猎罪图鉴2张局还是秦海璐",
+        "onboard_time": 1719208938,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221151,
+        "num": 144985,
+        "word": "威廉王子一家成功追星霉霉",
+        "onboard_time": 1719208458,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201254,
+        "num": 144124,
+        "word": "流水迢迢预告",
+        "onboard_time": 1719210197,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392357,
+        "num": 143536,
+        "word": "孙海洋父亲去世",
+        "onboard_time": 1719210798,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191960,
+        "num": 142753,
+        "word": "田曦薇纯白茉莉花",
+        "onboard_time": 1719210679,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191596,
+        "num": 141616,
+        "word": "独身女人官宣唐嫣赵又廷",
+        "onboard_time": 1719201200,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186333,
+        "num": 140787,
+        "word": "张婧仪高定绿裙",
+        "onboard_time": 1719210978,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186253,
+        "num": 140174,
+        "word": "许凯田曦薇对视海报",
+        "onboard_time": 1719210497,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175708,
+        "num": 139029,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174051,
+        "num": 138236,
+        "word": "猎罪图鉴2首宣",
+        "onboard_time": 1719193576,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138219,
+        "num": 138219,
+        "word": "中央气象台今年首个暴雨红色预警",
+        "onboard_time": 1719201380,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130429,
+        "num": 138003,
+        "word": "聊天是一种假性亲密",
+        "onboard_time": 1719205640,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100303,
+        "num": 137936,
+        "word": "浙江杨梅太卷了",
+        "onboard_time": 1719208997,
+        "rank": 39,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 172793,
+        "num": 137403,
+        "word": "陈妍希仍戴着婚戒",
+        "onboard_time": 1719210919,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164747,
+        "num": 137361,
+        "word": "山寨周杰伦开演唱会引发歌迷抵制",
+        "onboard_time": 1719203661,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156271,
+        "num": 136994,
+        "word": "汪苏泷三个半小时唱41首歌",
+        "onboard_time": 1719207499,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136816,
+        "num": 136816,
+        "word": "原来这些歌都是于正写的",
+        "onboard_time": 1719207919,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134800,
+        "num": 134800,
+        "word": "ZICO否认传闻",
+        "onboard_time": 1719202219,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134210,
+        "num": 134210,
+        "word": "长相思2还没来",
+        "onboard_time": 1719211158,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121705,
+        "num": 121705,
+        "word": "韩国又发生一起酒店性犯罪案",
+        "onboard_time": 1719202339,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120884,
+        "num": 120884,
+        "word": "新疆尉犁县4.9级地震",
+        "onboard_time": 1719210679,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118197,
+        "num": 118197,
+        "word": "在一线城市合租打工最怕家人来探望",
+        "onboard_time": 1719205221,
+        "rank": 48,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 115310,
+        "num": 115310,
+        "word": "别欺负猫了 猫都快碎了",
+        "onboard_time": 1719210497,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国自主创新事业是大有可为的#"
+    }
+  }
+}

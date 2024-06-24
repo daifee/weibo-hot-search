@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719210418967,
+  "endTime": 1719211206426,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 900335,
+      "num": 900335,
+      "word": "李梦评论玫瑰的故事相关微博",
+      "onboard_time": 1719208458,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 894800,
       "num": 894800,
       "word": "女儿零点查分竟和妈妈梦的一模一样",
@@ -499,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 676025,
-      "num": 676025,
-      "word": "李梦评论玫瑰的故事相关微博",
-      "onboard_time": 1719208458,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 667299,
       "num": 667299,
       "word": "李梦穿搭",
@@ -529,6 +529,14 @@
       "onboard_time": 1719192136,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 657379,
+      "num": 427794,
+      "word": "张小斐 MiuMiu",
+      "onboard_time": 1719209418,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 656833,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 575823,
-      "num": 290855,
+      "num": 425499,
       "word": "迪丽热巴搭陈飞宇",
       "onboard_time": 1719207739,
       "rank": 11,
@@ -1123,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 404602,
-      "num": 283549,
-      "word": "张小斐 MiuMiu",
-      "onboard_time": 1719209418,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 403654,
       "num": 352516,
       "word": "家里出现小霉点身体可能要遭殃",
@@ -1161,6 +1161,14 @@
       "onboard_time": 1719194778,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392357,
+      "num": 143536,
+      "word": "孙海洋父亲去世",
+      "onboard_time": 1719210798,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 389975,
@@ -1329,6 +1337,14 @@
       "onboard_time": 1719122897,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 353053,
+      "num": 162562,
+      "word": "月经不规律或是身体发出的求救信号",
+      "onboard_time": 1719207260,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 352283,
@@ -1731,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243370,
+      "num": 161080,
+      "word": "猎罪图鉴2张局还是秦海璐",
+      "onboard_time": 1719208938,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243128,
       "num": 449621,
       "word": "高考626分男生刚查完分就去跑兼职",
@@ -1753,6 +1777,14 @@
       "onboard_time": 1719099494,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 241723,
+      "num": 241723,
+      "word": "王者新赛季",
+      "onboard_time": 1719207437,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 241119,
@@ -1785,14 +1817,6 @@
       "onboard_time": 1719109876,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236398,
-      "num": 162562,
-      "word": "月经不规律或是身体发出的求救信号",
-      "onboard_time": 1719207260,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 235199,
@@ -1867,14 +1891,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 228531,
-      "num": 161080,
-      "word": "猎罪图鉴2张局还是秦海璐",
-      "onboard_time": 1719208938,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 228363,
       "num": 228363,
       "word": "佩佩 越老越妖",
@@ -1929,6 +1945,14 @@
       "onboard_time": 1719104357,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221151,
+      "num": 157547,
+      "word": "威廉王子一家成功追星霉霉",
+      "onboard_time": 1719208458,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 219354,
@@ -2009,14 +2033,6 @@
       "onboard_time": 1719202099,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 209562,
-      "num": 157547,
-      "word": "威廉王子一家成功追星霉霉",
-      "onboard_time": 1719208458,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 209069,
@@ -2147,6 +2163,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 201254,
+      "num": 154373,
+      "word": "流水迢迢预告",
+      "onboard_time": 1719210197,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201008,
       "num": 184977,
       "word": "孙怡跟不上小孩姐的city",
@@ -2185,14 +2209,6 @@
       "onboard_time": 1719111618,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 198643,
-      "num": 198643,
-      "word": "王者新赛季",
-      "onboard_time": 1719207437,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 198333,
@@ -2265,6 +2281,14 @@
       "onboard_time": 1719115999,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191960,
+      "num": 142753,
+      "word": "田曦薇纯白茉莉花",
+      "onboard_time": 1719210679,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 191953,
@@ -2353,6 +2377,22 @@
       "onboard_time": 1719101234,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186333,
+      "num": 140787,
+      "word": "张婧仪高定绿裙",
+      "onboard_time": 1719210978,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186253,
+      "num": 140174,
+      "word": "许凯田曦薇对视海报",
+      "onboard_time": 1719210497,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 185730,
@@ -2539,20 +2579,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 172968,
-      "num": 154373,
-      "word": "流水迢迢预告",
-      "onboard_time": 1719210197,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172807,
       "num": 172807,
       "word": "31省份高考查分时间汇总",
       "onboard_time": 1719104897,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 172793,
+      "num": 137403,
+      "word": "陈妍希仍戴着婚戒",
+      "onboard_time": 1719210919,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 172174,
@@ -2771,6 +2811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156271,
+      "num": 152829,
+      "word": "汪苏泷三个半小时唱41首歌",
+      "onboard_time": 1719207499,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156258,
       "num": 156258,
       "word": "重庆高考分数线公布",
@@ -2809,14 +2857,6 @@
       "onboard_time": 1719069199,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 152829,
-      "num": 152829,
-      "word": "汪苏泷三个半小时唱41首歌",
-      "onboard_time": 1719207499,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 152644,
@@ -3139,6 +3179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134210,
+      "num": 134210,
+      "word": "长相思2还没来",
+      "onboard_time": 1719211158,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133742,
       "num": 133742,
       "word": "王星越出发hi6",
@@ -3387,6 +3435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 120884,
+      "num": 120884,
+      "word": "新疆尉犁县4.9级地震",
+      "onboard_time": 1719210679,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120806,
       "num": 120806,
       "word": "张小斐帅上瘾了",
@@ -3513,6 +3569,14 @@
       "onboard_time": 1719122118,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115310,
+      "num": 115310,
+      "word": "别欺负猫了 猫都快碎了",
+      "onboard_time": 1719210497,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 115163,
@@ -3809,6 +3873,14 @@
       "onboard_time": 1719131417,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100303,
+      "num": 293160,
+      "word": "浙江杨梅太卷了",
+      "onboard_time": 1719208997,
+      "rank": 9,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 99846,
@@ -4123,14 +4195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71846,
-      "num": 293160,
-      "word": "浙江杨梅太卷了",
-      "onboard_time": 1719208997,
-      "rank": 9,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 71168,
       "num": 337099,
       "word": "小哥接到女子代买敌敌畏订单立马报警",
@@ -4395,6 +4459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38139,
+      "num": 307210,
+      "word": "39岁快递小哥双腿绑10斤沙袋送货",
+      "onboard_time": 1719210858,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37778,
       "num": 37778,
       "word": "李钟硕秀场造型",
@@ -4539,6 +4611,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 25657,
+      "num": 1045907,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1719210197,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25372,
       "num": 416257,
       "word": "微博文化之夜年度荣誉",
@@ -4657,14 +4737,6 @@
       "onboard_time": 1719087012,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16443,
-      "num": 1045907,
-      "word": "铸牢共同体中华一家亲",
-      "onboard_time": 1719210197,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15618,
