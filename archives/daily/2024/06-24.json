@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719238739454,
+  "endTime": 1719239779038,
   "band_list": [
     {
       "raw_hot": 2468997,
@@ -163,12 +163,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1170088,
+      "num": 855690,
+      "word": "杜江霍思燕收养实验犬",
+      "onboard_time": 1719238520,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1124198,
       "num": 1124198,
       "word": "陈丽君 投票",
       "onboard_time": 1719229698,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1104974,
+      "num": 1104974,
+      "word": "唐尚珺高考成绩",
+      "onboard_time": 1719236720,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1103975,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 845711,
-      "num": 266233,
+      "num": 270957,
       "word": "月薪四千开始从孩子身上降本增效",
       "onboard_time": 1719232101,
       "rank": 26,
@@ -321,14 +337,6 @@
       "onboard_time": 1719199098,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 799028,
-      "num": 799028,
-      "word": "唐尚珺高考成绩",
-      "onboard_time": 1719236720,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 766978,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 586105,
+      "num": 586105,
+      "word": "江苏高考689分及以上107人",
+      "onboard_time": 1719236000,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 584957,
       "num": 533248,
       "word": "陈昊宇发言",
@@ -611,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 532982,
-      "num": 532982,
-      "word": "江苏高考689分及以上107人",
-      "onboard_time": 1719236000,
-      "rank": 49,
-      "category": "教育"
-    },
-    {
       "raw_hot": 530025,
       "num": 530025,
       "word": "长安的荔枝全阵容官宣",
@@ -673,6 +681,22 @@
       "onboard_time": 1719201200,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 498305,
+      "num": 498305,
+      "word": "杀害女网红抛尸湖州凶手已被抓",
+      "onboard_time": 1719236600,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491461,
+      "num": 265621,
+      "word": "榴莲的叶酸含量是苹果的30倍",
+      "onboard_time": 1719236360,
+      "rank": 23,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 485367,
@@ -752,14 +776,6 @@
       "word": "1个校区就发现76例学生脊柱侧弯",
       "onboard_time": 1719184875,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461493,
-      "num": 461493,
-      "word": "杀害女网红抛尸湖州凶手已被抓",
-      "onboard_time": 1719236600,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -1019,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367793,
-      "num": 265621,
-      "word": "榴莲的叶酸含量是苹果的30倍",
-      "onboard_time": 1719236360,
-      "rank": 23,
-      "category": "健康医疗,美食"
-    },
-    {
       "raw_hot": 361006,
       "num": 344517,
       "word": "枭起青壤",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1719223159,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333459,
+      "num": 333459,
+      "word": "韩方向中方表示哀悼",
+      "onboard_time": 1719238760,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 333174,
@@ -1483,20 +1499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229292,
+      "num": 206941,
+      "word": "靳梦佳救场",
+      "onboard_time": 1719239420,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227108,
       "num": 227108,
       "word": "王鹤棣田曦薇同框镜头",
       "onboard_time": 1719230959,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226738,
-      "num": 226738,
-      "word": "杜江霍思燕收养实验犬",
-      "onboard_time": 1719238520,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 221151,
@@ -1521,6 +1537,14 @@
       "onboard_time": 1719222800,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216901,
+      "num": 216901,
+      "word": "金智秀巴黎大秀造型",
+      "onboard_time": 1719239420,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216876,
@@ -1755,6 +1779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199513,
+      "num": 199513,
+      "word": "酒桌上发出5.2万红包后悔了能要回吗",
+      "onboard_time": 1719238760,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199469,
       "num": 216042,
       "word": "TT翻盘EDG",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1719235160,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189489,
+      "num": 189489,
+      "word": "萨顶顶回应去歌手",
+      "onboard_time": 1719238520,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 189264,
@@ -2084,7 +2124,7 @@
     },
     {
       "raw_hot": 168331,
-      "num": 152217,
+      "num": 166513,
       "word": "ZB1签售",
       "onboard_time": 1719238279,
       "rank": 40,
@@ -2145,6 +2185,14 @@
       "onboard_time": 1719203601,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162152,
+      "num": 162152,
+      "word": "李梦衣品",
+      "onboard_time": 1719238821,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 161887,
@@ -2323,20 +2371,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 145408,
-      "num": 145408,
-      "word": "萨顶顶回应去歌手",
-      "onboard_time": 1719238520,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143870,
       "num": 396746,
       "word": "高考生查完分一家三口蹦成一团",
       "onboard_time": 1719217880,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141107,
+      "num": 141107,
+      "word": "被沙漠里的烟花浪漫到了",
+      "onboard_time": 1719239600,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 140751,
@@ -2771,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85514,
+      "num": 878670,
+      "word": "收下这份暴雨天避险自救指南",
+      "onboard_time": 1719237441,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84494,
       "num": 84494,
       "word": "菲律宾蓄意闹海",
@@ -2857,14 +2913,6 @@
       "onboard_time": 1719206838,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 70635,
-      "num": 779484,
-      "word": "收下这份暴雨天避险自救指南",
-      "onboard_time": 1719237441,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 70446,
@@ -3099,6 +3147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26831,
+      "num": 464714,
+      "word": "长沙暴雨消防员往返幼儿园接出娃娃们",
+      "onboard_time": 1719238880,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26171,
       "num": 177043,
       "word": "达吉斯坦在哪里",
@@ -3253,6 +3309,9 @@
     },
     {
       "word": "#科技向新#"
+    },
+    {
+      "word": "#习近平同波兰总统杜达会谈#"
     }
   ]
 }
