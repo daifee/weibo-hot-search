@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719217490916,
+  "endTime": 1719218270947,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1483879,
-      "num": 434219,
+      "num": 505628,
       "word": "李梦 情商",
       "onboard_time": 1719214159,
       "rank": 34,
@@ -161,6 +161,14 @@
       "onboard_time": 1719117078,
       "rank": 6,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 1471747,
+      "num": 1471747,
+      "word": "某韩国男星性侵18岁女学生",
+      "onboard_time": 1719217519,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 1432129,
@@ -483,6 +491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 720595,
+      "num": 397365,
+      "word": "邓为红毯生图",
+      "onboard_time": 1719216739,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 712554,
       "num": 534645,
       "word": "菲自曝被中国海警缴枪的是顶级特种部队",
@@ -625,6 +641,14 @@
       "onboard_time": 1719204801,
       "rank": 20,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 605582,
+      "num": 260530,
+      "word": "我妹高考683分想复读",
+      "onboard_time": 1719216499,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 605369,
@@ -875,12 +899,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 477517,
-      "num": 361403,
-      "word": "邓为红毯生图",
-      "onboard_time": 1719216739,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 479025,
+      "num": 479025,
+      "word": "河北分数线",
+      "onboard_time": 1719216199,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 477485,
@@ -889,14 +913,6 @@
       "onboard_time": 1719138738,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 477279,
-      "num": 260530,
-      "word": "我妹高考683分想复读",
-      "onboard_time": 1719216499,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 477084,
@@ -1073,14 +1089,6 @@
       "onboard_time": 1719209119,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 432877,
-      "num": 432877,
-      "word": "河北分数线",
-      "onboard_time": 1719216199,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 432632,
@@ -1265,6 +1273,14 @@
       "onboard_time": 1719134598,
       "rank": 34,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 397436,
+      "num": 397436,
+      "word": "12366回应个税APP新增5项个人所得",
+      "onboard_time": 1719215960,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 393361,
@@ -1539,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327008,
+      "num": 258822,
+      "word": "迪丽热巴清丽玫瑰",
+      "onboard_time": 1719216920,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 325778,
       "num": 325778,
       "word": "宋雨琦去SuperJunior演唱会",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1719202160,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 321971,
+      "num": 256546,
+      "word": "长相思2还没来",
+      "onboard_time": 1719211158,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 321861,
@@ -1779,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269490,
-      "num": 269490,
-      "word": "12366回应个税APP新增5项个人所得",
-      "onboard_time": 1719215960,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 269151,
       "num": 269151,
       "word": "张雪峰回应外语类专业能不能报",
@@ -1851,26 +1875,10 @@
       "category": "电影"
     },
     {
-      "raw_hot": 258822,
-      "num": 258822,
-      "word": "迪丽热巴清丽玫瑰",
-      "onboard_time": 1719216920,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 258087,
       "num": 258087,
       "word": "李梦说吴谨言是个潮妹",
       "onboard_time": 1719203480,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 256546,
-      "num": 256546,
-      "word": "长相思2还没来",
-      "onboard_time": 1719211158,
       "rank": 45,
       "category": "剧集"
     },
@@ -2017,6 +2025,14 @@
       "onboard_time": 1719184334,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 233427,
+      "num": 233427,
+      "word": "辽宁高考分数线",
+      "onboard_time": 1719217580,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 232709,
@@ -2211,6 +2227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211261,
+      "num": 208684,
+      "word": "迪丽热巴工作室发图",
+      "onboard_time": 1719217459,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211142,
       "num": 211142,
       "word": "分手后收到了前任寄来的快递",
@@ -2337,14 +2361,6 @@
       "onboard_time": 1719066859,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204673,
-      "num": 204673,
-      "word": "迪丽热巴工作室发图",
-      "onboard_time": 1719217459,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 202832,
@@ -2707,6 +2723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182535,
+      "num": 182535,
+      "word": "你好星期六上班直播",
+      "onboard_time": 1719217880,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182160,
       "num": 182160,
       "word": "光与夜之恋电话",
@@ -2809,6 +2833,14 @@
       "onboard_time": 1719134718,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175014,
+      "num": 175014,
+      "word": "湖南卫视直播",
+      "onboard_time": 1719218240,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 174972,
@@ -3323,6 +3355,14 @@
       "category": "演出,时尚"
     },
     {
+      "raw_hot": 143870,
+      "num": 396746,
+      "word": "高考生查完分一家三口蹦成一团",
+      "onboard_time": 1719217880,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143828,
       "num": 193876,
       "word": "办公室空调开26度还是24度好",
@@ -3536,6 +3576,14 @@
       "word": "35位新闻专业毕业生的薪资",
       "onboard_time": 1719138198,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130023,
+      "num": 380418,
+      "word": "长沙打工人开船上班",
+      "onboard_time": 1719216020,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -4435,14 +4483,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78324,
-      "num": 380418,
-      "word": "长沙打工人开船上班",
-      "onboard_time": 1719216020,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 78133,
       "num": 87531,
       "word": "土耳其0比3葡萄牙",
@@ -4723,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46386,
+      "num": 520587,
+      "word": "致敬暴雨中的守护力量",
+      "onboard_time": 1719217759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46189,
       "num": 47532,
       "word": "菲常萧张已he求放过",
@@ -4883,6 +4931,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 29686,
+      "num": 395432,
+      "word": "汽车高管花式推荐大学专业",
+      "onboard_time": 1719216020,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
       "raw_hot": 29292,
       "num": 405453,
       "word": "妈妈捧着一束肉串接中考儿子回家",
@@ -4977,14 +5033,6 @@
       "onboard_time": 1719212778,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 21706,
-      "num": 334604,
-      "word": "汽车高管花式推荐大学专业",
-      "onboard_time": 1719216020,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 21453,
@@ -5198,6 +5246,9 @@
     },
     {
       "word": "#习近平为国家最高科学技术奖获得者颁奖#"
+    },
+    {
+      "word": "#科技向新#"
     }
   ]
 }
