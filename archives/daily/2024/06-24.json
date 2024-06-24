@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719236065156,
+  "endTime": 1719238739454,
   "band_list": [
     {
       "raw_hot": 2468997,
@@ -283,6 +283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 845711,
+      "num": 266233,
+      "word": "月薪四千开始从孩子身上降本增效",
+      "onboard_time": 1719232101,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 827911,
       "num": 827911,
       "word": "橘子洲",
@@ -313,6 +321,14 @@
       "onboard_time": 1719199098,
       "rank": 45,
       "category": "教育"
+    },
+    {
+      "raw_hot": 799028,
+      "num": 799028,
+      "word": "唐尚珺高考成绩",
+      "onboard_time": 1719236720,
+      "rank": 1,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 766978,
@@ -369,14 +385,6 @@
       "onboard_time": 1719186977,
       "rank": 10,
       "category": "情感"
-    },
-    {
-      "raw_hot": 702172,
-      "num": 254183,
-      "word": "月薪四千开始从孩子身上降本增效",
-      "onboard_time": 1719232101,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 693149,
@@ -515,6 +523,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 590585,
+      "num": 533425,
+      "word": "刘烨主持",
+      "onboard_time": 1719234860,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 584957,
+      "num": 533248,
+      "word": "陈昊宇发言",
+      "onboard_time": 1719235819,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 575823,
       "num": 425499,
       "word": "迪丽热巴搭陈飞宇",
@@ -579,6 +603,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 533814,
+      "num": 533814,
+      "word": "橘子洲被淹一半是假的",
+      "onboard_time": 1719233422,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 532982,
+      "num": 532982,
+      "word": "江苏高考689分及以上107人",
+      "onboard_time": 1719236000,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 530025,
       "num": 530025,
       "word": "长安的荔枝全阵容官宣",
@@ -641,14 +681,6 @@
       "onboard_time": 1719225140,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 482372,
-      "num": 395663,
-      "word": "刘烨主持",
-      "onboard_time": 1719234860,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 480759,
@@ -720,6 +752,14 @@
       "word": "1个校区就发现76例学生脊柱侧弯",
       "onboard_time": 1719184875,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461493,
+      "num": 461493,
+      "word": "杀害女网红抛尸湖州凶手已被抓",
+      "onboard_time": 1719236600,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -867,6 +907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 415055,
+      "num": 415055,
+      "word": "中方对波兰公民实施15日单方面免签",
+      "onboard_time": 1719235103,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 413204,
       "num": 413204,
       "word": "青岛大学 奢香夫人",
@@ -969,6 +1017,14 @@
       "onboard_time": 1719200539,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367793,
+      "num": 265621,
+      "word": "榴莲的叶酸含量是苹果的30倍",
+      "onboard_time": 1719236360,
+      "rank": 23,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 361006,
@@ -1161,14 +1217,6 @@
       "onboard_time": 1719145758,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290741,
-      "num": 290741,
-      "word": "橘子洲被淹一半是假的",
-      "onboard_time": 1719233422,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 286916,
@@ -1443,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226738,
+      "num": 226738,
+      "word": "杜江霍思燕收养实验犬",
+      "onboard_time": 1719238520,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221151,
       "num": 157547,
       "word": "威廉王子一家成功追星霉霉",
@@ -1521,14 +1577,6 @@
       "onboard_time": 1719217459,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211116,
-      "num": 211116,
-      "word": "陈昊宇发言",
-      "onboard_time": 1719235819,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 210646,
@@ -1688,6 +1736,14 @@
       "word": "唐嫣红毯压轴",
       "onboard_time": 1719221959,
       "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199561,
+      "num": 199561,
+      "word": "张若昀 我真从片场来的",
+      "onboard_time": 1719234740,
+      "rank": 38,
       "category": "作品衍生"
     },
     {
@@ -1955,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177021,
+      "num": 177021,
+      "word": "尚雯婕直播唱莫文蔚的爱",
+      "onboard_time": 1719237080,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174972,
       "num": 174972,
       "word": "网红陈娴鼓励网友尝试心中所想",
@@ -1987,14 +2051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170269,
-      "num": 170269,
-      "word": "中方对波兰公民实施15日单方面免签",
-      "onboard_time": 1719235103,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 170193,
       "num": 168557,
       "word": "奇萌抑郁症",
@@ -2011,12 +2067,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169126,
+      "num": 169126,
+      "word": "谢金燕舞台",
+      "onboard_time": 1719236180,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168382,
       "num": 168382,
       "word": "山河枕",
       "onboard_time": 1719212297,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168331,
+      "num": 152217,
+      "word": "ZB1签售",
+      "onboard_time": 1719238279,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 166977,
@@ -2089,14 +2161,6 @@
       "onboard_time": 1719157758,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161605,
-      "num": 161605,
-      "word": "张若昀 我真从片场来的",
-      "onboard_time": 1719234740,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161216,
@@ -2257,6 +2321,14 @@
       "onboard_time": 1719188597,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145408,
+      "num": 145408,
+      "word": "萨顶顶回应去歌手",
+      "onboard_time": 1719238520,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143870,
@@ -2513,14 +2585,6 @@
       "onboard_time": 1719197717,
       "rank": 42,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 117410,
-      "num": 117410,
-      "word": "江苏高考689分及以上107人",
-      "onboard_time": 1719236000,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 117127,
@@ -2795,6 +2859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70635,
+      "num": 779484,
+      "word": "收下这份暴雨天避险自救指南",
+      "onboard_time": 1719237441,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70446,
       "num": 70446,
       "word": "涵艺爆料WBG更换辅助",
@@ -2969,6 +3041,14 @@
       "onboard_time": 1719219619,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 34396,
+      "num": 474577,
+      "word": "物理满分考生冷静分析弱项学科",
+      "onboard_time": 1719237020,
+      "rank": 9,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 32672,
