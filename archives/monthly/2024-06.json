@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719256627499,
+  "endTime": 1719257673930,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -69995,6 +69995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24501,
+      "num": 24501,
+      "word": "我不是小太阳啊",
+      "onboard_time": 1719256392,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 24357,
       "num": 29322,
       "word": "toyoki的diss",
@@ -70577,14 +70585,6 @@
       "onboard_time": 1718370563,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19890,
-      "num": 22720,
-      "word": "我不是小太阳啊",
-      "onboard_time": 1719256392,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 19838,
