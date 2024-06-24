@@ -1,0 +1,410 @@
+{
+  "runTime": 1719225478830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1864676,
+        "num": 1864676,
+        "word": "长沙1小时下了54个西湖",
+        "onboard_time": 1719220640,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1551613,
+        "num": 1551613,
+        "word": "长相思2定档",
+        "onboard_time": 1719221421,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67847,
+        "num": 1149907,
+        "word": "致敬暴雨中的守护力量",
+        "onboard_time": 1719217759,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1037446,
+        "num": 1037446,
+        "word": "网传荣梓杉高考成绩417分",
+        "onboard_time": 1719220520,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 827911,
+        "num": 827911,
+        "word": "橘子洲",
+        "onboard_time": 1719222379,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645324,
+        "num": 645324,
+        "word": "学生699分老师说没上700有点瑕疵",
+        "onboard_time": 1719218419,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 633726,
+        "num": 633726,
+        "word": "某韩国男星性侵18岁女学生",
+        "onboard_time": 1719217519,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623010,
+        "num": 623010,
+        "word": "大四女生退学后复读5个月考641分",
+        "onboard_time": 1719223520,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 546616,
+        "num": 546616,
+        "word": "河南分数线",
+        "onboard_time": 1719221717,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 62662,
+        "num": 539822,
+        "word": "1米6青岛大姨海浪中背出1米8老人",
+        "onboard_time": 1719222260,
+        "rank": 9,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 1404912,
+        "num": 539704,
+        "word": "弟弟被清华关在酒店怕被北大抢走",
+        "onboard_time": 1719212598,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 537587,
+        "num": 537587,
+        "word": "杨紫凤冠造型",
+        "onboard_time": 1719224300,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 525511,
+        "num": 525511,
+        "word": "李梦 情商",
+        "onboard_time": 1719214159,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 493625,
+        "num": 493625,
+        "word": "终于有了一部全女主的剧",
+        "onboard_time": 1719218899,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417160,
+        "num": 417160,
+        "word": "孙海洋父亲去世",
+        "onboard_time": 1719210798,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407929,
+        "num": 407929,
+        "word": "张若昀唐嫣首次合作",
+        "onboard_time": 1719221479,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 355505,
+        "num": 355505,
+        "word": "Red Velvet",
+        "onboard_time": 1719220640,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 334169,
+        "num": 334169,
+        "word": "薛其坤想让量子物理把世界变得更美好",
+        "onboard_time": 1719223159,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216138,
+        "num": 216138,
+        "word": "12366回应个税APP新增5项个人所得",
+        "onboard_time": 1719215960,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199469,
+        "num": 216042,
+        "word": "TT翻盘EDG",
+        "onboard_time": 1719224660,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 353005,
+        "num": 215487,
+        "word": "王宝强十二年后回归剧圈",
+        "onboard_time": 1719224419,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307008,
+        "num": 214847,
+        "word": "程潇 不出图",
+        "onboard_time": 1719218839,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 306602,
+        "num": 213854,
+        "word": "这哪里是追星 是找了个助理",
+        "onboard_time": 1719222440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285302,
+        "num": 213563,
+        "word": "黄子弘凡 高考成绩UP",
+        "onboard_time": 1719222379,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187662,
+        "num": 212704,
+        "word": "高考分数线",
+        "onboard_time": 1719200659,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 272490,
+        "num": 212036,
+        "word": "我妹高考683分想复读",
+        "onboard_time": 1719216499,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251368,
+        "num": 211430,
+        "word": "迪丽热巴搭陈飞宇",
+        "onboard_time": 1719207739,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217239,
+        "num": 211223,
+        "word": "御赐小仵作2原班人马回归",
+        "onboard_time": 1719215180,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210803,
+        "num": 210803,
+        "word": "湖南卫视直播",
+        "onboard_time": 1719218240,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200855,
+        "num": 200855,
+        "word": "轻断食五天瘦了11斤",
+        "onboard_time": 1719225439,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 204135,
+        "num": 200305,
+        "word": "邓为红毯生图",
+        "onboard_time": 1719216739,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198973,
+        "num": 198973,
+        "word": "度华年",
+        "onboard_time": 1719224300,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197904,
+        "num": 197904,
+        "word": "庄国栋总被人举报是杀猪盘",
+        "onboard_time": 1719222499,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177722,
+        "num": 196088,
+        "word": "恋与深空亲亲卡",
+        "onboard_time": 1719224359,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 173972,
+        "num": 195416,
+        "word": "江苏分数线",
+        "onboard_time": 1719218419,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194905,
+        "num": 194905,
+        "word": "小夭涂山璟额头吻",
+        "onboard_time": 1719225140,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190410,
+        "num": 190410,
+        "word": "唐嫣红毯压轴",
+        "onboard_time": 1719221959,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186673,
+        "num": 186673,
+        "word": "心疼相柳",
+        "onboard_time": 1719225320,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167493,
+        "num": 167493,
+        "word": "客人不要的榴莲壳我开出了榴莲",
+        "onboard_time": 1719212718,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165464,
+        "num": 166981,
+        "word": "法国女子只拿工资不干活怒告公司",
+        "onboard_time": 1719217280,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170452,
+        "num": 166825,
+        "word": "吴谨言王星越到底亲了多久",
+        "onboard_time": 1719225079,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166664,
+        "num": 166664,
+        "word": "长相思2预告好虐",
+        "onboard_time": 1719222200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166436,
+        "num": 166436,
+        "word": "上一次被送到澹州还是范闲",
+        "onboard_time": 1719222800,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160892,
+        "num": 160892,
+        "word": "枭起青壤首发预告",
+        "onboard_time": 1719223099,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160597,
+        "num": 160597,
+        "word": "山西高考分数线",
+        "onboard_time": 1719212358,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140755,
+        "num": 140755,
+        "word": "临近下班十分庆幸自己未婚",
+        "onboard_time": 1719215180,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130575,
+        "num": 130575,
+        "word": "Wei回应不打了",
+        "onboard_time": 1719221180,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124728,
+        "num": 124728,
+        "word": "当边牧误入耶总会后",
+        "onboard_time": 1719225439,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121215,
+        "num": 121215,
+        "word": "你的高考成绩一定会惊艳整个盛夏",
+        "onboard_time": 1719220160,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 116940,
+        "num": 116940,
+        "word": "张雪峰三连提醒高考查分看位次",
+        "onboard_time": 1719223400,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平为国家最高科学技术奖获得者颁奖#"
+    }
+  }
+}

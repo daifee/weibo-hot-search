@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719224501130,
+  "endTime": 1719225478830,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 827911,
+      "num": 827911,
+      "word": "橘子洲",
+      "onboard_time": 1719222379,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 804568,
       "num": 804568,
       "word": "学生高考710分老师瞬间沸腾",
@@ -489,14 +497,6 @@
       "onboard_time": 1719215180,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 756608,
-      "num": 756608,
-      "word": "橘子洲",
-      "onboard_time": 1719222379,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 742402,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623010,
+      "num": 623010,
+      "word": "大四女生退学后复读5个月考641分",
+      "onboard_time": 1719223520,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615042,
       "num": 449588,
       "word": "易烊千玺成为奥林匹克之友",
@@ -843,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 537587,
+      "num": 537587,
+      "word": "杨紫凤冠造型",
+      "onboard_time": 1719224300,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 530025,
       "num": 530025,
       "word": "长安的荔枝全阵容官宣",
@@ -961,6 +977,14 @@
       "onboard_time": 1719103338,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 493625,
+      "num": 493625,
+      "word": "终于有了一部全女主的剧",
+      "onboard_time": 1719218899,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 492962,
@@ -1483,14 +1507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374444,
-      "num": 374444,
-      "word": "终于有了一部全女主的剧",
-      "onboard_time": 1719218899,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 372017,
       "num": 372017,
       "word": "茶百道",
@@ -1595,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 353005,
+      "num": 215487,
+      "word": "王宝强十二年后回归剧圈",
+      "onboard_time": 1719224419,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352283,
       "num": 352283,
       "word": "贵女",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1719120438,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334169,
+      "num": 470045,
+      "word": "薛其坤想让量子物理把世界变得更美好",
+      "onboard_time": 1719223159,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333174,
@@ -1819,6 +1851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306602,
+      "num": 213854,
+      "word": "这哪里是追星 是找了个助理",
+      "onboard_time": 1719222440,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304013,
       "num": 304013,
       "word": "鹿晗演唱会背影图",
@@ -1891,20 +1931,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285302,
+      "num": 213563,
+      "word": "黄子弘凡 高考成绩UP",
+      "onboard_time": 1719222379,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285248,
       "num": 285248,
       "word": "相柳白月光回归",
       "onboard_time": 1719184514,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 279483,
-      "num": 209548,
-      "word": "这哪里是追星 是找了个助理",
-      "onboard_time": 1719222440,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 278326,
@@ -2025,22 +2065,6 @@
       "onboard_time": 1719131000,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 259450,
-      "num": 202922,
-      "word": "杨紫凤冠造型",
-      "onboard_time": 1719224300,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 258421,
-      "num": 201671,
-      "word": "黄子弘凡 高考成绩UP",
-      "onboard_time": 1719222379,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 258087,
@@ -2251,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229543,
-      "num": 470045,
-      "word": "薛其坤想让量子物理把世界变得更美好",
-      "onboard_time": 1719223159,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228689,
       "num": 246971,
       "word": "为何有些女性怀孕后还会规律来月经",
@@ -2305,14 +2321,6 @@
       "onboard_time": 1719126439,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224538,
-      "num": 169613,
-      "word": "王宝强十二年后回归剧圈",
-      "onboard_time": 1719224419,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 224133,
@@ -2385,14 +2393,6 @@
       "onboard_time": 1719099193,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214997,
-      "num": 214997,
-      "word": "大四女生退学后复读5个月考641分",
-      "onboard_time": 1719223520,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 214145,
@@ -2540,7 +2540,7 @@
     },
     {
       "raw_hot": 205213,
-      "num": 138030,
+      "num": 160892,
       "word": "枭起青壤首发预告",
       "onboard_time": 1719223099,
       "rank": 40,
@@ -2643,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200855,
+      "num": 200855,
+      "word": "轻断食五天瘦了11斤",
+      "onboard_time": 1719225439,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 200813,
       "num": 200813,
       "word": "男生高考查分710比预估还高30多分",
@@ -2668,7 +2676,7 @@
     },
     {
       "raw_hot": 200068,
-      "num": 137777,
+      "num": 190410,
       "word": "唐嫣红毯压轴",
       "onboard_time": 1719221959,
       "rank": 41,
@@ -2683,12 +2691,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199469,
+      "num": 216042,
+      "word": "TT翻盘EDG",
+      "onboard_time": 1719224660,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199119,
       "num": 199119,
       "word": "云南高考查分",
       "onboard_time": 1719111618,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198973,
+      "num": 198973,
+      "word": "度华年",
+      "onboard_time": 1719224300,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 198624,
@@ -2723,6 +2747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197904,
+      "num": 197904,
+      "word": "庄国栋总被人举报是杀猪盘",
+      "onboard_time": 1719222499,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196658,
       "num": 196658,
       "word": "辽宁今日出高考成绩",
@@ -2747,11 +2779,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195313,
-      "num": 137490,
-      "word": "庄国栋总被人举报是杀猪盘",
-      "onboard_time": 1719222499,
-      "rank": 42,
+      "raw_hot": 194905,
+      "num": 194905,
+      "word": "小夭涂山璟额头吻",
+      "onboard_time": 1719225140,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2891,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186673,
+      "num": 186673,
+      "word": "心疼相柳",
+      "onboard_time": 1719225320,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186560,
       "num": 186560,
       "word": "看完周京泽想去考飞行员了",
@@ -2984,14 +3024,6 @@
       "word": "菲常萧张",
       "onboard_time": 1719214758,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 182777,
-      "num": 137138,
-      "word": "度华年",
-      "onboard_time": 1719224300,
-      "rank": 44,
       "category": "剧集"
     },
     {
@@ -3099,6 +3131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177722,
+      "num": 196088,
+      "word": "恋与深空亲亲卡",
+      "onboard_time": 1719224359,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 177311,
       "num": 177311,
       "word": "第一次见把小猫当闹钟用的",
@@ -3169,6 +3209,14 @@
       "onboard_time": 1719149360,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170452,
+      "num": 166825,
+      "word": "吴谨言王星越到底亲了多久",
+      "onboard_time": 1719225079,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 170080,
@@ -3691,14 +3739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142665,
-      "num": 142665,
-      "word": "恋与深空亲亲卡",
-      "onboard_time": 1719224359,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 142515,
       "num": 142515,
       "word": "王一博登上世趋第一",
@@ -4065,6 +4105,14 @@
       "onboard_time": 1719199819,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124728,
+      "num": 124728,
+      "word": "当边牧误入耶总会后",
+      "onboard_time": 1719225439,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 124073,
@@ -4961,6 +5009,14 @@
       "onboard_time": 1719220520,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62662,
+      "num": 539822,
+      "word": "1米6青岛大姨海浪中背出1米8老人",
+      "onboard_time": 1719222260,
+      "rank": 9,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 62208,
