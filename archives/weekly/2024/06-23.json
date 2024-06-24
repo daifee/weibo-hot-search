@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719203813075,
+  "endTime": 1719206334966,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -91,6 +91,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1700705,
+      "num": 1700705,
+      "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+      "onboard_time": 1719201921,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1666872,
       "num": 522443,
       "word": "郭碧婷米饭过敏",
@@ -144,14 +152,6 @@
       "word": "梁实第28次高考成绩出炉",
       "onboard_time": 1719152959,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1302381,
-      "num": 508736,
-      "word": "浙大百万网红陈娴称曾遭遇同学质疑",
-      "onboard_time": 1719201921,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -635,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 541329,
+      "num": 313774,
+      "word": "易烊千玺成为奥林匹克之友",
+      "onboard_time": 1719204801,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 538213,
       "num": 347535,
       "word": "黄亦玫穿着丧服跳舞",
@@ -905,6 +913,14 @@
       "onboard_time": 1719124698,
       "rank": 11,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 445547,
+      "num": 445547,
+      "word": "利剑玫瑰",
+      "onboard_time": 1719205100,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 440358,
@@ -1308,7 +1324,7 @@
     },
     {
       "raw_hot": 328139,
-      "num": 227055,
+      "num": 314210,
       "word": "长沙地铁2号3号线因暴雨停运",
       "onboard_time": 1719203181,
       "rank": 30,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1719202160,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 323008,
+      "num": 311623,
+      "word": "没认出来这居然是娜扎",
+      "onboard_time": 1719205400,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 321861,
@@ -1449,6 +1473,14 @@
       "onboard_time": 1719120318,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300662,
+      "num": 300662,
+      "word": "山寨周杰伦开演唱会引发歌迷抵制",
+      "onboard_time": 1719203661,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 299878,
@@ -1595,6 +1627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258087,
+      "num": 258087,
+      "word": "李梦说吴谨言是个潮妹",
+      "onboard_time": 1719203480,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249047,
       "num": 249047,
       "word": "2024内蒙古高考分数线",
@@ -1617,14 +1657,6 @@
       "onboard_time": 1719122777,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245082,
-      "num": 245082,
-      "word": "山寨周杰伦开演唱会引发歌迷抵制",
-      "onboard_time": 1719203661,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 244041,
@@ -1899,6 +1931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209069,
+      "num": 209069,
+      "word": "许凯换发型了",
+      "onboard_time": 1719204201,
+      "rank": 29,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 207979,
       "num": 207979,
       "word": "于正说曾看不起一手炮制的爽剧",
@@ -1921,6 +1961,14 @@
       "onboard_time": 1719187456,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207091,
+      "num": 207091,
+      "word": "姜元柏墨雨云间最有破碎感的人",
+      "onboard_time": 1719205640,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 206643,
@@ -1952,6 +2000,14 @@
       "word": "九重紫",
       "onboard_time": 1719199579,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204864,
+      "num": 204864,
+      "word": "利剑玫瑰预告",
+      "onboard_time": 1719205879,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1995,6 +2051,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202371,
+      "num": 202371,
+      "word": "殷世航 傲娇美",
+      "onboard_time": 1719203060,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 201008,
       "num": 184977,
       "word": "孙怡跟不上小孩姐的city",
@@ -2035,19 +2099,19 @@
       "category": "教育"
     },
     {
-      "raw_hot": 198689,
-      "num": 198689,
-      "word": "殷世航 傲娇美",
-      "onboard_time": 1719203060,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 198333,
       "num": 198333,
       "word": "分数线",
       "onboard_time": 1719141438,
       "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 198308,
+      "num": 198308,
+      "word": "女生复读一年高考涨了150分",
+      "onboard_time": 1719205879,
+      "rank": 34,
       "category": "教育"
     },
     {
@@ -2299,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179724,
+      "num": 179724,
+      "word": "聊天是一种假性亲密",
+      "onboard_time": 1719205640,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179359,
       "num": 63500,
       "word": "女子买无座票坐卧铺被强行带离",
@@ -2313,6 +2385,14 @@
       "onboard_time": 1719169151,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179060,
+      "num": 179060,
+      "word": "张婧仪周翊然CP感",
+      "onboard_time": 1719204020,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 178605,
@@ -2475,14 +2555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164918,
-      "num": 164918,
-      "word": "李梦说吴谨言是个潮妹",
-      "onboard_time": 1719203480,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164330,
       "num": 91883,
       "word": "2024多地高考成绩今日可查",
@@ -2564,7 +2636,7 @@
     },
     {
       "raw_hot": 159717,
-      "num": 159717,
+      "num": 179261,
       "word": "长沙防汛应急响应提升至三级",
       "onboard_time": 1719203781,
       "rank": 47,
@@ -2601,6 +2673,14 @@
       "onboard_time": 1719199278,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "重庆高考分数线公布",
+      "onboard_time": 1719204740,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 155497,
@@ -2641,6 +2721,14 @@
       "onboard_time": 1719125599,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152181,
+      "num": 152181,
+      "word": "光与夜之恋三周年",
+      "onboard_time": 1719204319,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 152135,
@@ -3547,6 +3635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102320,
+      "num": 1325631,
+      "word": "2023年度国家科学技术奖揭晓",
+      "onboard_time": 1719205760,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101956,
       "num": 101956,
       "word": "沈月晒桃花坞合照",
@@ -3617,6 +3713,14 @@
       "onboard_time": 1719161175,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98121,
+      "num": 464935,
+      "word": "在一线城市合租打工最怕家人来探望",
+      "onboard_time": 1719205221,
+      "rank": 9,
+      "category": "社会议题"
     },
     {
       "raw_hot": 98120,

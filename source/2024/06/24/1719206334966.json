@@ -1,0 +1,410 @@
+{
+  "runTime": 1719206334966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1980296,
+        "num": 1980296,
+        "word": "腾讯今天官宣好多剧",
+        "onboard_time": 1719198378,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1700705,
+        "num": 1700705,
+        "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+        "onboard_time": 1719201921,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102320,
+        "num": 1325631,
+        "word": "2023年度国家科学技术奖揭晓",
+        "onboard_time": 1719205760,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 997224,
+        "num": 997224,
+        "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+        "onboard_time": 1719197058,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 713654,
+        "num": 713654,
+        "word": "司机不知情下备胎内被藏毒92斤",
+        "onboard_time": 1719195077,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692226,
+        "num": 692226,
+        "word": "长沙地铁",
+        "onboard_time": 1719202400,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579694,
+        "num": 579694,
+        "word": "猎罪图鉴2首宣",
+        "onboard_time": 1719193576,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539033,
+        "num": 539033,
+        "word": "高考分数线",
+        "onboard_time": 1719200659,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 526129,
+        "num": 526129,
+        "word": "长沙暴雨",
+        "onboard_time": 1719196037,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98121,
+        "num": 464935,
+        "word": "在一线城市合租打工最怕家人来探望",
+        "onboard_time": 1719205221,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 1407853,
+        "num": 460262,
+        "word": "郭碧婷米饭过敏",
+        "onboard_time": 1719201319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 567091,
+        "num": 453967,
+        "word": "张雪峰说分数低就不要既要又要了",
+        "onboard_time": 1719199098,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 445547,
+        "num": 445547,
+        "word": "利剑玫瑰",
+        "onboard_time": 1719205100,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406102,
+        "num": 406102,
+        "word": "学生高考710分老师瞬间沸腾",
+        "onboard_time": 1719190698,
+        "rank": 13,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 393327,
+        "num": 393327,
+        "word": "独身女人官宣唐嫣赵又廷",
+        "onboard_time": 1719201200,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385040,
+        "num": 385040,
+        "word": "我用19年证明高考不能决定人生",
+        "onboard_time": 1719190158,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 367945,
+        "num": 367945,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 362389,
+        "num": 362389,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352485,
+        "num": 352485,
+        "word": "于正说临江仙必爆",
+        "onboard_time": 1719199697,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314210,
+        "num": 314210,
+        "word": "长沙地铁2号3号线因暴雨停运",
+        "onboard_time": 1719203181,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 541329,
+        "num": 313774,
+        "word": "易烊千玺成为奥林匹克之友",
+        "onboard_time": 1719204801,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 449740,
+        "num": 313074,
+        "word": "毕业两年室友做美甲挣了八十万",
+        "onboard_time": 1719196396,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341447,
+        "num": 312675,
+        "word": "韩国又发生一起酒店性犯罪案",
+        "onboard_time": 1719202339,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323008,
+        "num": 311623,
+        "word": "没认出来这居然是娜扎",
+        "onboard_time": 1719205400,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317101,
+        "num": 311345,
+        "word": "ZICO否认传闻",
+        "onboard_time": 1719202219,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310665,
+        "num": 310665,
+        "word": "牵羊礼",
+        "onboard_time": 1719200539,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300662,
+        "num": 300662,
+        "word": "山寨周杰伦开演唱会引发歌迷抵制",
+        "onboard_time": 1719203661,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 258087,
+        "num": 258087,
+        "word": "李梦说吴谨言是个潮妹",
+        "onboard_time": 1719203480,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229121,
+        "num": 229121,
+        "word": "睡前不刷牙会发生什么",
+        "onboard_time": 1719189257,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209069,
+        "num": 209069,
+        "word": "许凯换发型了",
+        "onboard_time": 1719204201,
+        "rank": 29,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 207091,
+        "num": 207091,
+        "word": "姜元柏墨雨云间最有破碎感的人",
+        "onboard_time": 1719205640,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204864,
+        "num": 204864,
+        "word": "利剑玫瑰预告",
+        "onboard_time": 1719205879,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204356,
+        "num": 204356,
+        "word": "中央气象台今年首个暴雨红色预警",
+        "onboard_time": 1719201380,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202371,
+        "num": 202371,
+        "word": "殷世航 傲娇美",
+        "onboard_time": 1719203060,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 198308,
+        "num": 198308,
+        "word": "女生复读一年高考涨了150分",
+        "onboard_time": 1719205879,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 195484,
+        "num": 195484,
+        "word": "王启年二皇子仇敌变兄弟",
+        "onboard_time": 1719199697,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193518,
+        "num": 193518,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183756,
+        "num": 183756,
+        "word": "学生高考695分老师笑称考得有点多",
+        "onboard_time": 1719200659,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179724,
+        "num": 179724,
+        "word": "聊天是一种假性亲密",
+        "onboard_time": 1719205640,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157477,
+        "num": 179261,
+        "word": "长沙防汛应急响应提升至三级",
+        "onboard_time": 1719203781,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179060,
+        "num": 179060,
+        "word": "张婧仪周翊然CP感",
+        "onboard_time": 1719204020,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162705,
+        "num": 162705,
+        "word": "鹅剧派对",
+        "onboard_time": 1719196696,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160814,
+        "num": 160814,
+        "word": "ZICO",
+        "onboard_time": 1719192136,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156258,
+        "num": 156258,
+        "word": "重庆高考分数线公布",
+        "onboard_time": 1719204740,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 152181,
+        "num": 152181,
+        "word": "光与夜之恋三周年",
+        "onboard_time": 1719204319,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151854,
+        "num": 151854,
+        "word": "白日提灯改名",
+        "onboard_time": 1719193938,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151002,
+        "num": 151002,
+        "word": "困在职场的35岁女性决定去考公",
+        "onboard_time": 1719197597,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149787,
+        "num": 149787,
+        "word": "陈娴否认月入千万",
+        "onboard_time": 1719202160,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146394,
+        "num": 146394,
+        "word": "陕西分数线",
+        "onboard_time": 1719202640,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116242,
+        "num": 139548,
+        "word": "光与夜之恋又被宠了",
+        "onboard_time": 1719203601,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一次次走进科技创新最活跃的地方#"
+    }
+  }
+}

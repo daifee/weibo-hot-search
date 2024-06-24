@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719203813075,
+  "endTime": 1719206334966,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1718357120,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1700705,
+      "num": 1700705,
+      "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+      "onboard_time": 1719201921,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1691557,
@@ -2513,14 +2521,6 @@
       "onboard_time": 1717311978,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1302381,
-      "num": 508736,
-      "word": "浙大百万网红陈娴称曾遭遇同学质疑",
-      "onboard_time": 1719201921,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1294781,
@@ -11467,6 +11467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 541329,
+      "num": 313774,
+      "word": "易烊千玺成为奥林匹克之友",
+      "onboard_time": 1719204801,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 540994,
       "num": 540994,
       "word": "TFBOYS发文为王俊凯新片打call",
@@ -15017,6 +15025,14 @@
       "onboard_time": 1718931199,
       "rank": 8,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 445547,
+      "num": 445547,
+      "word": "利剑玫瑰",
+      "onboard_time": 1719205100,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 445428,
@@ -20924,7 +20940,7 @@
     },
     {
       "raw_hot": 328139,
-      "num": 227055,
+      "num": 314210,
       "word": "长沙地铁2号3号线因暴雨停运",
       "onboard_time": 1719203181,
       "rank": 30,
@@ -21193,6 +21209,14 @@
       "onboard_time": 1718791340,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323008,
+      "num": 311623,
+      "word": "没认出来这居然是娜扎",
+      "onboard_time": 1719205400,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 322829,
@@ -22569,6 +22593,14 @@
       "onboard_time": 1718363598,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300662,
+      "num": 300662,
+      "word": "山寨周杰伦开演唱会引发歌迷抵制",
+      "onboard_time": 1719203661,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 300526,
@@ -25915,6 +25947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258087,
+      "num": 258087,
+      "word": "李梦说吴谨言是个潮妹",
+      "onboard_time": 1719203480,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258064,
       "num": 207452,
       "word": "墨雨云间时长",
@@ -26953,14 +26993,6 @@
       "onboard_time": 1718153718,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245082,
-      "num": 245082,
-      "word": "山寨周杰伦开演唱会引发歌迷抵制",
-      "onboard_time": 1719203661,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 244751,
@@ -31395,6 +31427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209069,
+      "num": 209069,
+      "word": "许凯换发型了",
+      "onboard_time": 1719204201,
+      "rank": 29,
+      "category": "剧集,艺人"
+    },
+    {
       "raw_hot": 209061,
       "num": 153070,
       "word": "归途有风",
@@ -31729,6 +31769,14 @@
       "onboard_time": 1719187456,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207091,
+      "num": 207091,
+      "word": "姜元柏墨雨云间最有破碎感的人",
+      "onboard_time": 1719205640,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 207082,
@@ -32355,6 +32403,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 204864,
+      "num": 204864,
+      "word": "利剑玫瑰预告",
+      "onboard_time": 1719205879,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204833,
       "num": 204833,
       "word": "中泰战主裁曾吹过2场国足输球比赛",
@@ -32969,6 +33025,14 @@
       "onboard_time": 1717559598,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 202371,
+      "num": 202371,
+      "word": "殷世航 傲娇美",
+      "onboard_time": 1719203060,
+      "rank": 36,
+      "category": "网红"
     },
     {
       "raw_hot": 202303,
@@ -33867,14 +33931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198689,
-      "num": 198689,
-      "word": "殷世航 傲娇美",
-      "onboard_time": 1719203060,
-      "rank": 36,
-      "category": "网红"
-    },
-    {
       "raw_hot": 198682,
       "num": 198682,
       "word": "高三班主任花36天给每位学生写信",
@@ -33968,6 +34024,14 @@
       "word": "分数线",
       "onboard_time": 1719141438,
       "rank": 28,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 198308,
+      "num": 198308,
+      "word": "女生复读一年高考涨了150分",
+      "onboard_time": 1719205879,
+      "rank": 34,
       "category": "教育"
     },
     {
@@ -38195,6 +38259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179724,
+      "num": 179724,
+      "word": "聊天是一种假性亲密",
+      "onboard_time": 1719205640,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179712,
       "num": 179712,
       "word": "方协文婚前自卑婚后偏执",
@@ -38393,6 +38465,14 @@
       "onboard_time": 1717730059,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 179060,
+      "num": 179060,
+      "word": "张婧仪周翊然CP感",
+      "onboard_time": 1719204020,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 179015,
@@ -41507,14 +41587,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 164918,
-      "num": 164918,
-      "word": "李梦说吴谨言是个潮妹",
-      "onboard_time": 1719203480,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164902,
       "num": 164902,
       "word": "去世254天狗狗的长明灯突然亮了",
@@ -42876,7 +42948,7 @@
     },
     {
       "raw_hot": 159717,
-      "num": 159717,
+      "num": 179261,
       "word": "长沙防汛应急响应提升至三级",
       "onboard_time": 1719203781,
       "rank": 47,
@@ -43785,6 +43857,14 @@
       "onboard_time": 1718769802,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156258,
+      "num": 156258,
+      "word": "重庆高考分数线公布",
+      "onboard_time": 1719204740,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 156145,
@@ -44865,6 +44945,14 @@
       "onboard_time": 1718012959,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152181,
+      "num": 152181,
+      "word": "光与夜之恋三周年",
+      "onboard_time": 1719204319,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 152174,
@@ -58003,6 +58091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102320,
+      "num": 1325631,
+      "word": "2023年度国家科学技术奖揭晓",
+      "onboard_time": 1719205760,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102301,
       "num": 102301,
       "word": "TCG首秀首胜",
@@ -58865,6 +58961,14 @@
       "onboard_time": 1718406855,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98121,
+      "num": 464935,
+      "word": "在一线城市合租打工最怕家人来探望",
+      "onboard_time": 1719205221,
+      "rank": 9,
+      "category": "社会议题"
     },
     {
       "raw_hot": 98120,
