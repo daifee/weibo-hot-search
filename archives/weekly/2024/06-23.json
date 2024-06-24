@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719185709227,
+  "endTime": 1719192122413,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -9,6 +9,14 @@
       "onboard_time": 1719126498,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2396856,
+      "num": 2396856,
+      "word": "多地出台鼓励退出农村宅基地",
+      "onboard_time": 1719187938,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2280959,
@@ -99,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1288792,
+      "num": 1288792,
+      "word": "高考弟弟考了588分想复读",
+      "onboard_time": 1719184275,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1276172,
       "num": 1276172,
       "word": "魏无羡 AG",
@@ -171,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1045338,
+      "num": 1045338,
+      "word": "我用19年证明高考不能决定人生",
+      "onboard_time": 1719190158,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 998801,
       "num": 998801,
       "word": "汪苏泷回应上歌手碎了",
@@ -201,6 +225,14 @@
       "onboard_time": 1719148879,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 949822,
+      "num": 232836,
+      "word": "睡前不刷牙会发生什么",
+      "onboard_time": 1719189257,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 933631,
@@ -235,6 +267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 851525,
+      "num": 851525,
+      "word": "长相思2",
+      "onboard_time": 1719186497,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 844855,
       "num": 844855,
       "word": "白日提灯 平番",
@@ -257,14 +297,6 @@
       "onboard_time": 1719130279,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 804827,
-      "num": 804827,
-      "word": "高考弟弟考了588分想复读",
-      "onboard_time": 1719184275,
-      "rank": 4,
-      "category": "教育"
     },
     {
       "raw_hot": 762220,
@@ -329,6 +361,14 @@
       "onboard_time": 1719136037,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 703723,
+      "num": 359124,
+      "word": "在男朋友28岁生日那天被求婚了",
+      "onboard_time": 1719186977,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 701947,
@@ -408,6 +448,14 @@
       "word": "吴谨言没想到叼玉佩成名场面",
       "onboard_time": 1719116358,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 565976,
+      "num": 565976,
+      "word": "墨雨云间 OE",
+      "onboard_time": 1719188177,
+      "rank": 5,
       "category": "剧集"
     },
     {
@@ -603,11 +651,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466211,
+      "num": 466211,
+      "word": "人鱼 杀青",
+      "onboard_time": 1719186616,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 463498,
       "num": 300591,
       "word": "男子带96岁母亲酒店养老遭集体拉黑",
       "onboard_time": 1719154279,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 462053,
+      "num": 231667,
+      "word": "1个校区就发现76例学生脊柱侧弯",
+      "onboard_time": 1719184875,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -633,6 +697,14 @@
       "onboard_time": 1719111618,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 452772,
+      "num": 230498,
+      "word": "准大一生活费决定给1500",
+      "onboard_time": 1719187817,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 451100,
@@ -673,6 +745,14 @@
       "onboard_time": 1719139158,
       "rank": 12,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 431442,
+      "num": 343282,
+      "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
+      "onboard_time": 1719189917,
+      "rank": 11,
+      "category": "国外时政"
     },
     {
       "raw_hot": 430633,
@@ -720,6 +800,14 @@
       "word": "一家七口毕业于同所大学",
       "onboard_time": 1719098953,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419958,
+      "num": 419958,
+      "word": "上海地铁",
+      "onboard_time": 1719189619,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315117,
+      "num": 230020,
+      "word": "刘亦菲机长造型",
+      "onboard_time": 1719187517,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313081,
       "num": 313081,
       "word": "陈丽君 东风破",
@@ -1105,6 +1201,14 @@
       "onboard_time": 1719178812,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 299527,
+      "num": 299527,
+      "word": "飞天茅台单价低至2100元",
+      "onboard_time": 1719185418,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 292741,
@@ -1299,6 +1403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 234132,
+      "num": 234132,
+      "word": "这3类首饰暗藏健康风险别再戴了",
+      "onboard_time": 1719184334,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 232709,
       "num": 232709,
       "word": "加沙约39000名学生无法参加高考",
@@ -1320,6 +1432,14 @@
       "word": "吴谨言紫色薄纱襦裙",
       "onboard_time": 1719145097,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 228724,
+      "num": 228724,
+      "word": "慕胥辞",
+      "onboard_time": 1719188298,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1459,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207167,
+      "num": 207167,
+      "word": "匈牙利球员被撞休克",
+      "onboard_time": 1719187456,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206643,
       "num": 206643,
       "word": "林俊杰我的刘海还好吗",
@@ -1513,14 +1641,6 @@
       "onboard_time": 1719123618,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202334,
-      "num": 202334,
-      "word": "这3类首饰暗藏健康风险别再戴了",
-      "onboard_time": 1719184334,
-      "rank": 28,
-      "category": "科学科普"
     },
     {
       "raw_hot": 201008,
@@ -1635,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190370,
+      "num": 190370,
+      "word": "恋爱一定要抛开羞耻大胆谈",
+      "onboard_time": 1719191238,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190188,
       "num": 190188,
       "word": "TES对战LNG",
@@ -1723,6 +1851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 184733,
+      "num": 184733,
+      "word": "梁实第28次高考未达二本线",
+      "onboard_time": 1719185055,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184436,
       "num": 184436,
       "word": "越来越明白了什么是无效社交",
@@ -1772,7 +1908,7 @@
     },
     {
       "raw_hot": 179134,
-      "num": 110498,
+      "num": 176820,
       "word": "夫妻自驾运毒34.8公斤被抓",
       "onboard_time": 1719169151,
       "rank": 39,
@@ -1795,14 +1931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177953,
-      "num": 96104,
-      "word": "1个校区就发现76例学生脊柱侧弯",
-      "onboard_time": 1719184875,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177896,
       "num": 177896,
       "word": "XG加盟百分百出品",
@@ -1811,12 +1939,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177311,
+      "num": 177311,
+      "word": "第一次见把小猫当闹钟用的",
+      "onboard_time": 1719187157,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176808,
       "num": 176808,
       "word": "林更新 东北口音",
       "onboard_time": 1719134718,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174523,
+      "num": 174523,
+      "word": "这么爽的班到底是谁在上",
+      "onboard_time": 1719189078,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 173855,
@@ -2075,6 +2219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148554,
+      "num": 148554,
+      "word": "高考完后爸爸就变了",
+      "onboard_time": 1719188597,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147808,
       "num": 147808,
       "word": "绵阳中考一班6人超850分",
@@ -2129,6 +2281,14 @@
       "onboard_time": 1719060679,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146556,
+      "num": 366790,
+      "word": "学生高考710分老师瞬间沸腾",
+      "onboard_time": 1719190698,
+      "rank": 9,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 146243,
@@ -2355,6 +2515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129365,
+      "num": 129365,
+      "word": "理科生高考713分物理化学均满分",
+      "onboard_time": 1719192077,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129138,
       "num": 129138,
       "word": "罗云熙是有和飞禽拍戏的KPI吗",
@@ -2369,6 +2537,14 @@
       "onboard_time": 1719129497,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127695,
+      "num": 127695,
+      "word": "毕业礼是男大女大的最后一节早八",
+      "onboard_time": 1719189978,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127326,
@@ -2427,12 +2603,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125373,
+      "num": 125373,
+      "word": "女生请校长给她的小熊也拔穗",
+      "onboard_time": 1719190999,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 125336,
+      "num": 125336,
+      "word": "薛之谦粉丝拿着老年机打开闪光灯",
+      "onboard_time": 1719186076,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124886,
       "num": 124886,
       "word": "张新成陷入沈月单依纯夸夸团",
       "onboard_time": 1719125778,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124073,
+      "num": 124073,
+      "word": "C罗一脚单车拉回了20年前",
+      "onboard_time": 1719190518,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 123636,
@@ -2513,6 +2713,14 @@
       "onboard_time": 1719144979,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118934,
+      "num": 118934,
+      "word": "常吃这4类食物肚子最容易长肉",
+      "onboard_time": 1719186977,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118565,
@@ -2619,6 +2827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114257,
+      "num": 114257,
+      "word": "黄玫瑰拿铁",
+      "onboard_time": 1719192018,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114170,
       "num": 114170,
       "word": "C罗发文庆祝葡萄牙小组第一",
@@ -2683,20 +2899,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110208,
-      "num": 110208,
-      "word": "梁实第28次高考未达二本线",
-      "onboard_time": 1719185055,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 110178,
       "num": 110178,
       "word": "小狗在被爱之后会变得很漂亮",
       "onboard_time": 1719137838,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110120,
+      "num": 110120,
+      "word": "暴雨积水男孩背女同学上厕所",
+      "onboard_time": 1719188539,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110015,
@@ -3011,14 +3227,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 84831,
-      "num": 84831,
-      "word": "飞天茅台单价低至2100元",
-      "onboard_time": 1719185418,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 84494,
       "num": 84494,
       "word": "菲律宾蓄意闹海",
@@ -3065,6 +3273,14 @@
       "onboard_time": 1719079634,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79613,
+      "num": 1126441,
+      "word": "为什么说宁夏是一个宝藏",
+      "onboard_time": 1719152959,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79382,
@@ -3328,14 +3544,6 @@
       "word": "申遗十年看运河",
       "onboard_time": 1719112818,
       "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 41361,
-      "num": 531110,
-      "word": "为什么说宁夏是一个宝藏",
-      "onboard_time": 1719152959,
-      "rank": 36,
       "category": "社会新闻"
     },
     {

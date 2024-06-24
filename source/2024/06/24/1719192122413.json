@@ -1,0 +1,410 @@
+{
+  "runTime": 1719192122413,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2396856,
+        "num": 2396856,
+        "word": "多地出台鼓励退出农村宅基地",
+        "onboard_time": 1719187938,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1288792,
+        "num": 1288792,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 79613,
+        "num": 1126441,
+        "word": "为什么说宁夏是一个宝藏",
+        "onboard_time": 1719152959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045338,
+        "num": 1045338,
+        "word": "我用19年证明高考不能决定人生",
+        "onboard_time": 1719190158,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 851525,
+        "num": 851525,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565976,
+        "num": 565976,
+        "word": "墨雨云间 OE",
+        "onboard_time": 1719188177,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482940,
+        "num": 482940,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 466211,
+        "num": 466211,
+        "word": "人鱼 杀青",
+        "onboard_time": 1719186616,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 419958,
+        "num": 419958,
+        "word": "上海地铁",
+        "onboard_time": 1719189619,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146556,
+        "num": 366790,
+        "word": "学生高考710分老师瞬间沸腾",
+        "onboard_time": 1719190698,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 703723,
+        "num": 359124,
+        "word": "在男朋友28岁生日那天被求婚了",
+        "onboard_time": 1719186977,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431442,
+        "num": 343282,
+        "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
+        "onboard_time": 1719189917,
+        "rank": 11,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 320309,
+        "num": 320309,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 306769,
+        "num": 306769,
+        "word": "海蓝之谜柜姐被顾客泼水羞辱",
+        "onboard_time": 1719152179,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303670,
+        "num": 303670,
+        "word": "黄晓明拿奖激动到手抖",
+        "onboard_time": 1719180431,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299527,
+        "num": 299527,
+        "word": "飞天茅台单价低至2100元",
+        "onboard_time": 1719185418,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 264470,
+        "num": 264470,
+        "word": "央视曝光农村生活污水治理假工程",
+        "onboard_time": 1719183734,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247928,
+        "num": 247928,
+        "word": "相柳白月光回归",
+        "onboard_time": 1719184514,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240278,
+        "num": 240278,
+        "word": "于正说以后他所有的剧全部明确HE",
+        "onboard_time": 1719171552,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234132,
+        "num": 234132,
+        "word": "这3类首饰暗藏健康风险别再戴了",
+        "onboard_time": 1719184334,
+        "rank": 19,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 949822,
+        "num": 232836,
+        "word": "睡前不刷牙会发生什么",
+        "onboard_time": 1719189257,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 462053,
+        "num": 231667,
+        "word": "1个校区就发现76例学生脊柱侧弯",
+        "onboard_time": 1719184875,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452772,
+        "num": 230498,
+        "word": "准大一生活费决定给1500",
+        "onboard_time": 1719187817,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 315117,
+        "num": 230020,
+        "word": "刘亦菲机长造型",
+        "onboard_time": 1719187517,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228724,
+        "num": 228724,
+        "word": "慕胥辞",
+        "onboard_time": 1719188298,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216325,
+        "num": 216325,
+        "word": "男子带96岁母亲酒店养老遭集体拉黑",
+        "onboard_time": 1719154279,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216191,
+        "num": 216191,
+        "word": "高考查分",
+        "onboard_time": 1719191838,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 207167,
+        "num": 207167,
+        "word": "匈牙利球员被撞休克",
+        "onboard_time": 1719187456,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190370,
+        "num": 190370,
+        "word": "恋爱一定要抛开羞耻大胆谈",
+        "onboard_time": 1719191238,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184733,
+        "num": 184733,
+        "word": "梁实第28次高考未达二本线",
+        "onboard_time": 1719185055,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177311,
+        "num": 177311,
+        "word": "第一次见把小猫当闹钟用的",
+        "onboard_time": 1719187157,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 176820,
+        "num": 176820,
+        "word": "夫妻自驾运毒34.8公斤被抓",
+        "onboard_time": 1719169151,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174523,
+        "num": 174523,
+        "word": "这么爽的班到底是谁在上",
+        "onboard_time": 1719189078,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174414,
+        "num": 174414,
+        "word": "iPhone16全系尺寸曝光",
+        "onboard_time": 1719152301,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171345,
+        "num": 171345,
+        "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+        "onboard_time": 1719145758,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148554,
+        "num": 148554,
+        "word": "高考完后爸爸就变了",
+        "onboard_time": 1719188597,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140626,
+        "num": 140626,
+        "word": "张艺兴朴灿烈合照",
+        "onboard_time": 1719148879,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134395,
+        "num": 134395,
+        "word": "汪苏泷回应上歌手碎了",
+        "onboard_time": 1719149659,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129365,
+        "num": 129365,
+        "word": "理科生高考713分物理化学均满分",
+        "onboard_time": 1719192077,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127701,
+        "num": 127701,
+        "word": "林允发际线",
+        "onboard_time": 1719156200,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127695,
+        "num": 127695,
+        "word": "毕业礼是男大女大的最后一节早八",
+        "onboard_time": 1719189978,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125373,
+        "num": 125373,
+        "word": "女生请校长给她的小熊也拔穗",
+        "onboard_time": 1719190999,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125336,
+        "num": 125336,
+        "word": "薛之谦粉丝拿着老年机打开闪光灯",
+        "onboard_time": 1719186076,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124073,
+        "num": 124073,
+        "word": "C罗一脚单车拉回了20年前",
+        "onboard_time": 1719190518,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118934,
+        "num": 118934,
+        "word": "常吃这4类食物肚子最容易长肉",
+        "onboard_time": 1719186977,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 118683,
+        "num": 118683,
+        "word": "白日提灯 平番",
+        "onboard_time": 1719145758,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114498,
+        "num": 114498,
+        "word": "李一桐 将门毒后",
+        "onboard_time": 1719141378,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114257,
+        "num": 114257,
+        "word": "黄玫瑰拿铁",
+        "onboard_time": 1719192018,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 110120,
+        "num": 110120,
+        "word": "暴雨积水男孩背女同学上厕所",
+        "onboard_time": 1719188539,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110061,
+        "num": 110061,
+        "word": "2点睡觉10点起床算熬夜吗",
+        "onboard_time": 1719142338,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一次次走进科技创新最活跃的地方#"
+    }
+  }
+}
