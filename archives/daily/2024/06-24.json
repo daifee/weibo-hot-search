@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719232612305,
+  "endTime": 1719233527291,
   "band_list": [
     {
       "raw_hot": 2468997,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1810005,
+      "num": 1236334,
+      "word": "韩雪 难听",
+      "onboard_time": 1719231500,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1700705,
       "num": 1700705,
       "word": "浙大百万网红陈娴称曾遭遇同学质疑",
@@ -99,12 +107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1604230,
-      "num": 915580,
-      "word": "韩雪 难听",
-      "onboard_time": 1719231500,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 1491607,
+      "num": 1491607,
+      "word": "韩方通报遇难中国公民增至19人",
+      "onboard_time": 1719230598,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1483879,
@@ -131,14 +139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1323352,
-      "num": 1323352,
-      "word": "韩方通报遇难中国公民增至19人",
-      "onboard_time": 1719230598,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1288792,
       "num": 1288792,
       "word": "高考弟弟考了588分想复读",
@@ -147,12 +147,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1234617,
+      "num": 477049,
+      "word": "女子与男友发生关系后诬告对方强奸",
+      "onboard_time": 1719231140,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1232044,
       "num": 1232044,
       "word": "我用19年证明高考不能决定人生",
       "onboard_time": 1719190158,
       "rank": 3,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1124198,
+      "num": 1124198,
+      "word": "陈丽君 投票",
+      "onboard_time": 1719229698,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1103975,
@@ -291,12 +307,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 782683,
-      "num": 477049,
-      "word": "女子与男友发生关系后诬告对方强奸",
-      "onboard_time": 1719231140,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 766978,
+      "num": 521672,
+      "word": "萨顶顶 去歌手吧",
+      "onboard_time": 1719232579,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 766564,
@@ -457,14 +473,6 @@
       "onboard_time": 1719218839,
       "rank": 6,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 628121,
-      "num": 563565,
-      "word": "陈丽君 投票",
-      "onboard_time": 1719229698,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 615042,
@@ -1083,6 +1091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 299370,
+      "num": 257299,
+      "word": "萨顶顶悟空",
+      "onboard_time": 1719232760,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294623,
       "num": 213875,
       "word": "查分后怒发了一个朋友圈",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1719148879,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284595,
+      "num": 284595,
+      "word": "保时捷降价了",
+      "onboard_time": 1719231559,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 284556,
@@ -1243,6 +1267,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247899,
+      "num": 247899,
+      "word": "乘风直播",
+      "onboard_time": 1719227718,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247076,
+      "num": 247076,
+      "word": "月薪四千开始从孩子身上降本增效",
+      "onboard_time": 1719232101,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245957,
       "num": 237241,
       "word": "谁家女主男主开局就互相杀啊",
@@ -1251,12 +1291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 245305,
-      "num": 245305,
-      "word": "萨顶顶 去歌手吧",
-      "onboard_time": 1719232579,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 245209,
+      "num": 245209,
+      "word": "女性一生中月经的次数变化",
+      "onboard_time": 1719232039,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 244041,
@@ -1347,14 +1387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228906,
-      "num": 228906,
-      "word": "乘风直播",
-      "onboard_time": 1719227718,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227108,
       "num": 227108,
       "word": "王鹤棣田曦薇同框镜头",
@@ -1377,14 +1409,6 @@
       "onboard_time": 1719215840,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219636,
-      "num": 219636,
-      "word": "月薪四千开始从孩子身上降本增效",
-      "onboard_time": 1719232101,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218601,
@@ -1427,11 +1451,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 212261,
-      "num": 212261,
-      "word": "女性一生中月经的次数变化",
-      "onboard_time": 1719232039,
-      "rank": 27,
+      "raw_hot": 212892,
+      "num": 212892,
+      "word": "隔夜西瓜吃前需切掉1厘米",
+      "onboard_time": 1719229219,
+      "rank": 30,
       "category": "健康医疗"
     },
     {
@@ -1441,6 +1465,14 @@
       "onboard_time": 1719202640,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211849,
+      "num": 211849,
+      "word": "萨顶顶太牛了",
+      "onboard_time": 1719233000,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 211261,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1719205640,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206177,
+      "num": 206177,
+      "word": "桐岛爱",
+      "onboard_time": 1719232579,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206051,
@@ -1635,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198606,
-      "num": 198606,
-      "word": "保时捷降价了",
-      "onboard_time": 1719231559,
-      "rank": 29,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 197904,
       "num": 197904,
       "word": "庄国栋总被人举报是杀猪盘",
@@ -1657,14 +1689,6 @@
       "onboard_time": 1719216440,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 196276,
-      "num": 196276,
-      "word": "隔夜西瓜吃前需切掉1厘米",
-      "onboard_time": 1719229219,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 195944,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1719196696,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191868,
+      "num": 191868,
+      "word": "HYBE被现场调查",
+      "onboard_time": 1719231800,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 191423,
@@ -1881,14 +1913,6 @@
       "onboard_time": 1719150019,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172736,
-      "num": 172736,
-      "word": "HYBE被现场调查",
-      "onboard_time": 1719231800,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 170452,
@@ -2107,6 +2131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150614,
+      "num": 150614,
+      "word": "李兰迪今天好漂亮",
+      "onboard_time": 1719232219,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150164,
       "num": 525351,
       "word": "有些商家打广告的方式越来越隐蔽了",
@@ -2123,19 +2155,19 @@
       "category": "情感"
     },
     {
-      "raw_hot": 147081,
-      "num": 147081,
-      "word": "李兰迪今天好漂亮",
-      "onboard_time": 1719232219,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143870,
       "num": 396746,
       "word": "高考生查完分一家三口蹦成一团",
       "onboard_time": 1719217880,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141808,
+      "num": 141808,
+      "word": "女子雨后捡大鱼拖回家做剁椒鱼头",
+      "onboard_time": 1719231438,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2153,6 +2185,14 @@
       "onboard_time": 1719198378,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139740,
+      "num": 139740,
+      "word": "改写玫瑰的故事大结局",
+      "onboard_time": 1719233301,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 139583,
@@ -2225,6 +2265,14 @@
       "onboard_time": 1719220160,
       "rank": 9,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 133338,
+      "num": 133338,
+      "word": "贵州分数线",
+      "onboard_time": 1719233121,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 133106,
@@ -2315,14 +2363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125185,
-      "num": 125185,
-      "word": "桐岛爱",
-      "onboard_time": 1719232579,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 124746,
       "num": 124746,
       "word": "执行法官预告有股电视购物味",
@@ -2345,6 +2385,14 @@
       "onboard_time": 1719190518,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121570,
+      "num": 121570,
+      "word": "橘子洲被淹一半是假的",
+      "onboard_time": 1719233422,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120884,
@@ -2497,6 +2545,14 @@
       "onboard_time": 1719136037,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94982,
+      "num": 282685,
+      "word": "获奖院士800万元奖金全部捐给武大",
+      "onboard_time": 1719233301,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 94320,
@@ -2675,6 +2731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66161,
+      "num": 211890,
+      "word": "轮椅上的他高考343分让妈妈哽咽",
+      "onboard_time": 1719232882,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 62662,
       "num": 539822,
       "word": "1米6青岛大姨海浪中背出1米8老人",
@@ -2756,7 +2820,7 @@
     },
     {
       "raw_hot": 41617,
-      "num": 1045907,
+      "num": 1278563,
       "word": "铸牢共同体中华一家亲",
       "onboard_time": 1719210197,
       "rank": 2,
