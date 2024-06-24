@@ -1,0 +1,410 @@
+{
+  "runTime": 1719263918373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 128381,
+        "num": 128381,
+        "word": "克罗地亚vs意大利",
+        "onboard_time": 1719246616,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108755,
+        "num": 108755,
+        "word": "浙大百万网红陈娴已有多家公司",
+        "onboard_time": 1719247695,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 12480,
+        "num": 104087,
+        "word": "高铁火箭飞机的发展都与这门专业相关",
+        "onboard_time": 1719236360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102655,
+        "num": 102655,
+        "word": "杜江霍思燕收养实验犬",
+        "onboard_time": 1719238520,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71514,
+        "num": 71514,
+        "word": "欧洲杯",
+        "onboard_time": 1719257291,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70184,
+        "num": 70184,
+        "word": "尚雯婕冠军",
+        "onboard_time": 1719241520,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53470,
+        "num": 53470,
+        "word": "到底啥是city不city啊",
+        "onboard_time": 1719240620,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44594,
+        "num": 44594,
+        "word": "某韩国男星性侵18岁女学生",
+        "onboard_time": 1719217519,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37238,
+        "num": 37238,
+        "word": "辉子失误",
+        "onboard_time": 1719242240,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8513,
+        "num": 35200,
+        "word": "小伙患心肌炎拒治疗医生紧急救回一命",
+        "onboard_time": 1719250034,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75334,
+        "num": 34601,
+        "word": "韩方通报遇难中国公民增至19人",
+        "onboard_time": 1719230598,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73422,
+        "num": 34192,
+        "word": "女子与男友发生关系后诬告对方强奸",
+        "onboard_time": 1719231140,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33701,
+        "num": 33701,
+        "word": "刘亦菲喝了黄玫瑰拿铁",
+        "onboard_time": 1719242121,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32350,
+        "num": 32350,
+        "word": "我不是小太阳啊",
+        "onboard_time": 1719256392,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 30218,
+        "num": 30218,
+        "word": "酒桌上发出5.2万红包后悔了能要回吗",
+        "onboard_time": 1719238760,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29671,
+        "num": 29671,
+        "word": "山东卫视发了肖战",
+        "onboard_time": 1719244099,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26084,
+        "num": 26084,
+        "word": "韩雪 难听",
+        "onboard_time": 1719231500,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25999,
+        "num": 25999,
+        "word": "韩方向中方表示哀悼",
+        "onboard_time": 1719238760,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24579,
+        "num": 24579,
+        "word": "唐尚珺高考成绩",
+        "onboard_time": 1719236720,
+        "rank": 18,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 23836,
+        "num": 23836,
+        "word": "桐岛爱",
+        "onboard_time": 1719232579,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 44981,
+        "num": 23819,
+        "word": "易猝死的人有4个共同点",
+        "onboard_time": 1719243559,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43488,
+        "num": 23759,
+        "word": "发现导师朋友圈只屏蔽了我",
+        "onboard_time": 1719243859,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26876,
+        "num": 23636,
+        "word": "月薪四千开始从孩子身上降本增效",
+        "onboard_time": 1719232101,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26558,
+        "num": 23569,
+        "word": "大碗宽面组团魂4年后居然还在",
+        "onboard_time": 1719246077,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25346,
+        "num": 23488,
+        "word": "长相思男团穿西装不告诉邓为",
+        "onboard_time": 1719258791,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24209,
+        "num": 23467,
+        "word": "唐治平疑似精神失常",
+        "onboard_time": 1719240921,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23407,
+        "num": 23407,
+        "word": "轻断食五天瘦了11斤",
+        "onboard_time": 1719225439,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 22815,
+        "num": 22815,
+        "word": "终于有了一部全女主的剧",
+        "onboard_time": 1719218899,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22475,
+        "num": 22475,
+        "word": "方可给迪丽热巴做的盘发",
+        "onboard_time": 1719247755,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 19042,
+        "num": 22342,
+        "word": "长沙1小时下了54个西湖",
+        "onboard_time": 1719220640,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26553,
+        "num": 22296,
+        "word": "外国博主打卡北京带火city不city",
+        "onboard_time": 1719244398,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22238,
+        "num": 22238,
+        "word": "陈丽君 投票",
+        "onboard_time": 1719229698,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21669,
+        "num": 21669,
+        "word": "A股大跌",
+        "onboard_time": 1719240321,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21534,
+        "num": 21534,
+        "word": "向佐发16个问号问黄子韬",
+        "onboard_time": 1719243499,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19756,
+        "num": 19756,
+        "word": "狗狗临走前被摸后果断离去",
+        "onboard_time": 1719249554,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19506,
+        "num": 19506,
+        "word": "韩国起火电池厂员工多来自东北朝鲜族",
+        "onboard_time": 1719242359,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19441,
+        "num": 19441,
+        "word": "女性一生中月经的次数变化",
+        "onboard_time": 1719232039,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19359,
+        "num": 19359,
+        "word": "江苏高考689分及以上107人",
+        "onboard_time": 1719236000,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 18726,
+        "num": 18726,
+        "word": "王星越一把抱起了前夫哥",
+        "onboard_time": 1719242180,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18356,
+        "num": 18356,
+        "word": "新说唱",
+        "onboard_time": 1719242659,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17871,
+        "num": 17871,
+        "word": "靳梦佳救场",
+        "onboard_time": 1719239420,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17808,
+        "num": 17808,
+        "word": "榴莲的叶酸含量是苹果的30倍",
+        "onboard_time": 1719236360,
+        "rank": 41,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 17285,
+        "num": 17807,
+        "word": "网传荣梓杉高考成绩417分",
+        "onboard_time": 1719220520,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16658,
+        "num": 17800,
+        "word": "EXO成员去了张艺兴演唱会",
+        "onboard_time": 1719234620,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16615,
+        "num": 17799,
+        "word": "萨顶顶 去歌手吧",
+        "onboard_time": 1719232579,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16308,
+        "num": 17795,
+        "word": "注射药物的时候看下药物名",
+        "onboard_time": 1719261850,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 15539,
+        "num": 17790,
+        "word": "林一回应和刘亦菲合作",
+        "onboard_time": 1719241280,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15110,
+        "num": 17785,
+        "word": "李晋晔哽咽回应歌手争议",
+        "onboard_time": 1719228918,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14029,
+        "num": 17783,
+        "word": "长相思2定档",
+        "onboard_time": 1719221421,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13766,
+        "num": 17777,
+        "word": "快速对一个人祛魅的方式",
+        "onboard_time": 1719251713,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同波兰总统杜达会谈#"
+    }
+  }
+}
