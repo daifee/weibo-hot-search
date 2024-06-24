@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719225478830,
+  "endTime": 1719227920699,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1103975,
+      "num": 1103975,
+      "word": "大奉打更人",
+      "onboard_time": 1719225559,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1073001,
       "num": 1073001,
       "word": "孙怡96斤",
@@ -347,6 +355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 961448,
+      "num": 235204,
+      "word": "轻断食五天瘦了11斤",
+      "onboard_time": 1719225439,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 957227,
       "num": 641639,
       "word": "迪丽热巴亮片高定",
@@ -392,6 +408,14 @@
       "word": "女儿零点查分竟和妈妈梦的一模一样",
       "onboard_time": 1719132737,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 882974,
+      "num": 882974,
+      "word": "大四女生退学后复读5个月考641分",
+      "onboard_time": 1719223520,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -691,6 +715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 626210,
+      "num": 527532,
+      "word": "终于有了一部全女主的剧",
+      "onboard_time": 1719218899,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 624296,
       "num": 624296,
       "word": "月亮",
@@ -704,14 +736,6 @@
       "word": "蔡磊进ICU妻子20天暴瘦十斤",
       "onboard_time": 1719118639,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 623010,
-      "num": 623010,
-      "word": "大四女生退学后复读5个月考641分",
-      "onboard_time": 1719223520,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -777,6 +801,14 @@
       "onboard_time": 1719188177,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 565634,
+      "num": 481178,
+      "word": "警方通报女子遭2次辗轧身亡",
+      "onboard_time": 1719226760,
+      "rank": 10,
+      "category": "社会负面"
     },
     {
       "raw_hot": 564626,
@@ -979,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 493625,
-      "num": 493625,
-      "word": "终于有了一部全女主的剧",
-      "onboard_time": 1719218899,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 492962,
       "num": 492962,
       "word": "印度知名演员涉嫌杀人被捕",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1719187817,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 452471,
+      "num": 408909,
+      "word": "小夭涂山璟额头吻",
+      "onboard_time": 1719225140,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 451100,
@@ -1363,12 +1395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409967,
+      "num": 409967,
+      "word": "黄子弘凡 高考成绩UP",
+      "onboard_time": 1719222379,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407494,
       "num": 407494,
       "word": "四川文科一本529理科一本539",
       "onboard_time": 1719139818,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405582,
+      "num": 405582,
+      "word": "王宝强十二年后回归剧圈",
+      "onboard_time": 1719224419,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 403654,
@@ -1608,14 +1656,6 @@
       "word": "李梦太美了",
       "onboard_time": 1719122897,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 353005,
-      "num": 215487,
-      "word": "王宝强十二年后回归剧圈",
-      "onboard_time": 1719224419,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1931,14 +1971,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285302,
-      "num": 213563,
-      "word": "黄子弘凡 高考成绩UP",
-      "onboard_time": 1719222379,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 285248,
       "num": 285248,
       "word": "相柳白月光回归",
@@ -2009,6 +2041,14 @@
       "onboard_time": 1719140117,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268014,
+      "num": 213874,
+      "word": "魏大勋首部都市剧男主",
+      "onboard_time": 1719226881,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 267978,
@@ -2107,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245957,
+      "num": 210923,
+      "word": "谁家女主男主开局就互相杀啊",
+      "onboard_time": 1719225980,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 245841,
       "num": 245841,
       "word": "霉霉家中写歌时厨房起火",
@@ -2155,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 242472,
+      "num": 242472,
+      "word": "B太夜爬泰山7000多级台阶2次",
+      "onboard_time": 1719226938,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 241952,
       "num": 188058,
       "word": "什么东西已经贵到不值得再买了",
@@ -2185,6 +2241,14 @@
       "onboard_time": 1719152600,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 239420,
+      "num": 239420,
+      "word": "豆瓣又崩了",
+      "onboard_time": 1719227899,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 238791,
@@ -2467,11 +2531,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 210989,
+      "num": 210989,
+      "word": "王者荣耀 匹配机制",
+      "onboard_time": 1719227359,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210646,
       "num": 210646,
       "word": "张晚意 背德赛道",
       "onboard_time": 1719202099,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209729,
+      "num": 209729,
+      "word": "心疼相柳",
+      "onboard_time": 1719225320,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -2539,6 +2619,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 206051,
+      "num": 206051,
+      "word": "杨紫小夭变装",
+      "onboard_time": 1719227120,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205213,
       "num": 160892,
       "word": "枭起青壤首发预告",
@@ -2595,6 +2683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203830,
+      "num": 203830,
+      "word": "唐嫣状态",
+      "onboard_time": 1719226458,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 202832,
       "num": 202832,
       "word": "章昊扛过内娱镜头没扛过自己的",
@@ -2641,14 +2737,6 @@
       "onboard_time": 1719133337,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200855,
-      "num": 200855,
-      "word": "轻断食五天瘦了11斤",
-      "onboard_time": 1719225439,
-      "rank": 29,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 200813,
@@ -2776,14 +2864,6 @@
       "word": "李一桐又演仙侠剧了",
       "onboard_time": 1719213018,
       "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 194905,
-      "num": 194905,
-      "word": "小夭涂山璟额头吻",
-      "onboard_time": 1719225140,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -2923,20 +3003,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 186673,
-      "num": 186673,
-      "word": "心疼相柳",
-      "onboard_time": 1719225320,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186560,
       "num": 186560,
       "word": "看完周京泽想去考飞行员了",
       "onboard_time": 1719126558,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 186423,
+      "num": 186423,
+      "word": "山西分数线",
+      "onboard_time": 1719227062,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 186380,
@@ -3105,6 +3185,14 @@
       "onboard_time": 1719204020,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178695,
+      "num": 178695,
+      "word": "一名网红遭杀害后抛尸浙江湖州",
+      "onboard_time": 1719227839,
+      "rank": 34,
+      "category": "社会负面"
     },
     {
       "raw_hot": 178605,
@@ -3483,6 +3571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156260,
+      "num": 137768,
+      "word": "迪丽热巴枭起青壤状态",
+      "onboard_time": 1719225678,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156258,
       "num": 156258,
       "word": "重庆高考分数线公布",
@@ -3529,6 +3625,14 @@
       "onboard_time": 1719125599,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152585,
+      "num": 133599,
+      "word": "乘风直播",
+      "onboard_time": 1719227718,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 152181,
@@ -3833,6 +3937,14 @@
       "onboard_time": 1719119657,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137058,
+      "num": 128624,
+      "word": "贵女大事很妙",
+      "onboard_time": 1719227899,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 136669,
@@ -4257,6 +4369,14 @@
       "onboard_time": 1719197717,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 117127,
+      "num": 247801,
+      "word": "韩国一电池厂火灾20多人死亡",
+      "onboard_time": 1719220520,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116685,
@@ -4811,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81620,
+      "num": 483101,
+      "word": "小徐帮表弟查分激动尖叫",
+      "onboard_time": 1719226580,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 80697,
       "num": 80697,
       "word": "陈鑫海王星越好会扭",
@@ -5001,14 +5129,6 @@
       "onboard_time": 1719051077,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64806,
-      "num": 247801,
-      "word": "韩国一电池厂火灾20多人死亡",
-      "onboard_time": 1719220520,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62662,
