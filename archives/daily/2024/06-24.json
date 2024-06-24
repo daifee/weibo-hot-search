@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719199300453,
+  "endTime": 1719200138796,
   "band_list": [
     {
       "raw_hot": 2396856,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1765198,
-      "num": 1765198,
+      "raw_hot": 1856093,
+      "num": 1856093,
       "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
       "onboard_time": 1719197058,
       "rank": 40,
@@ -41,6 +41,14 @@
       "onboard_time": 1719184275,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1267349,
+      "num": 1267349,
+      "word": "腾讯今天官宣好多剧",
+      "onboard_time": 1719198378,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1232044,
@@ -123,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 688022,
+      "num": 272438,
+      "word": "毕业两年室友做美甲挣了八十万",
+      "onboard_time": 1719196396,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 667299,
       "num": 667299,
       "word": "李梦穿搭",
@@ -147,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 643621,
-      "num": 272438,
-      "word": "毕业两年室友做美甲挣了八十万",
-      "onboard_time": 1719196396,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 640402,
       "num": 640402,
       "word": "iPhone16全系尺寸曝光",
@@ -169,14 +177,6 @@
       "onboard_time": 1719196037,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584358,
-      "num": 584358,
-      "word": "腾讯今天官宣好多剧",
-      "onboard_time": 1719198378,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 565976,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431966,
+      "num": 431966,
+      "word": "王启年二皇子仇敌变兄弟",
+      "onboard_time": 1719199697,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431442,
       "num": 421367,
       "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
@@ -376,6 +384,14 @@
       "word": "慕胥辞",
       "onboard_time": 1719188298,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 316130,
+      "num": 198615,
+      "word": "于正说临江仙必爆",
+      "onboard_time": 1719199697,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223281,
+      "num": 223281,
+      "word": "余承东和微博CEO聊了什么",
+      "onboard_time": 1719199937,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 207167,
       "num": 207167,
       "word": "匈牙利球员被撞休克",
@@ -563,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204975,
+      "num": 194197,
+      "word": "九重紫",
+      "onboard_time": 1719199579,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204796,
       "num": 204796,
       "word": "恋爱一定要抛开羞耻大胆谈",
@@ -571,12 +603,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202851,
+      "num": 202851,
+      "word": "张雪峰说分数低就不要既要又要了",
+      "onboard_time": 1719199098,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 200071,
       "num": 189729,
       "word": "电影出入平安定档",
       "onboard_time": 1719196037,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194100,
+      "num": 194100,
+      "word": "这么爽的班到底是谁在上",
+      "onboard_time": 1719189078,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 191953,
@@ -619,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182491,
-      "num": 182491,
-      "word": "这么爽的班到底是谁在上",
-      "onboard_time": 1719189078,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179134,
       "num": 176820,
       "word": "夫妻自驾运毒34.8公斤被抓",
@@ -651,12 +691,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165657,
-      "num": 165657,
+      "raw_hot": 170047,
+      "num": 170047,
       "word": "困在职场的35岁女性决定去考公",
       "onboard_time": 1719197597,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163764,
+      "num": 208985,
+      "word": "剑网三",
+      "onboard_time": 1719197237,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 163630,
@@ -683,12 +731,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 152876,
-      "num": 208985,
-      "word": "剑网三",
-      "onboard_time": 1719197237,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 156584,
+      "num": 156584,
+      "word": "TheShy问Ning王LNG走后门事件",
+      "onboard_time": 1719199278,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 155010,
+      "num": 155010,
+      "word": "专业报考指南",
+      "onboard_time": 1719199579,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 151206,
@@ -811,14 +867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 125660,
-      "num": 125660,
-      "word": "TheShy问Ning王LNG走后门事件",
-      "onboard_time": 1719199278,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 125373,
       "num": 125373,
       "word": "女生请校长给她的小熊也拔穗",
@@ -833,6 +881,14 @@
       "onboard_time": 1719186076,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124746,
+      "num": 124746,
+      "word": "执行法官预告有股电视购物味",
+      "onboard_time": 1719199819,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 124073,
@@ -915,14 +971,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 101914,
-      "num": 116129,
-      "word": "张雪峰说分数低就不要既要又要了",
-      "onboard_time": 1719199098,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 98675,
       "num": 98675,
       "word": "瑞士vs德国",
@@ -977,6 +1025,14 @@
       "onboard_time": 1719149057,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87316,
+      "num": 564250,
+      "word": "直播间叫卖古董为何让老人深信不疑",
+      "onboard_time": 1719198378,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86702,
@@ -1044,7 +1100,7 @@
     },
     {
       "raw_hot": 79613,
-      "num": 1136045,
+      "num": 1325047,
       "word": "为什么说宁夏是一个宝藏",
       "onboard_time": 1719152959,
       "rank": 2,
@@ -1081,14 +1137,6 @@
       "onboard_time": 1719177790,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62488,
-      "num": 564250,
-      "word": "直播间叫卖古董为何让老人深信不疑",
-      "onboard_time": 1719198378,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 60449,
@@ -1203,6 +1251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26171,
+      "num": 177043,
+      "word": "达吉斯坦在哪里",
+      "onboard_time": 1719199518,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 25955,
       "num": 28440,
       "word": "花莲海域4.9级地震",
@@ -1249,6 +1305,14 @@
       "onboard_time": 1719170651,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18199,
+      "num": 170118,
+      "word": "没有栀子花的夏天是不完整的",
+      "onboard_time": 1719199398,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 17174,

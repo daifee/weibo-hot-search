@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719199300453,
+  "endTime": 1719200138796,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -915,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1856093,
+      "num": 1856093,
+      "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+      "onboard_time": 1719197058,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1849141,
       "num": 1849141,
       "word": "贾玲成为lululemon品牌大使",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1718106979,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1765198,
-      "num": 1765198,
-      "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
-      "onboard_time": 1719197058,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 1756676,
@@ -2673,6 +2673,14 @@
       "onboard_time": 1718930478,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1267349,
+      "num": 1267349,
+      "word": "腾讯今天官宣好多剧",
+      "onboard_time": 1719198378,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1266678,
@@ -8003,6 +8011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 688022,
+      "num": 272438,
+      "word": "毕业两年室友做美甲挣了八十万",
+      "onboard_time": 1719196396,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 687510,
       "num": 687510,
       "word": "刘亦菲霍建华香港文艺片氛围感",
@@ -8961,14 +8977,6 @@
       "onboard_time": 1717898416,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643621,
-      "num": 272438,
-      "word": "毕业两年室友做美甲挣了八十万",
-      "onboard_time": 1719196396,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 642761,
@@ -10321,14 +10329,6 @@
       "onboard_time": 1718670798,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 584358,
-      "num": 584358,
-      "word": "腾讯今天官宣好多剧",
-      "onboard_time": 1719198378,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 584322,
@@ -15544,6 +15544,14 @@
       "word": "吴刚说会陪陈萍萍走到终点",
       "onboard_time": 1717329979,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 431966,
+      "num": 431966,
+      "word": "王启年二皇子仇敌变兄弟",
+      "onboard_time": 1719199697,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -21567,6 +21575,14 @@
       "num": 247663,
       "word": "佟大为觉得庄国栋更适合黄亦玫",
       "onboard_time": 1718683759,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 316130,
+      "num": 198615,
+      "word": "于正说临江仙必爆",
+      "onboard_time": 1719199697,
       "rank": 23,
       "category": "剧集"
     },
@@ -29139,6 +29155,14 @@
       "category": "教育,互联网"
     },
     {
+      "raw_hot": 223281,
+      "num": 223281,
+      "word": "余承东和微博CEO聊了什么",
+      "onboard_time": 1719199937,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 223262,
       "num": 223262,
       "word": "张志磊KO维尔德",
@@ -32147,6 +32171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204975,
+      "num": 194197,
+      "word": "九重紫",
+      "onboard_time": 1719199579,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204963,
       "num": 204963,
       "word": "韩国或将全主力出战国足",
@@ -32681,6 +32713,14 @@
       "onboard_time": 1718954479,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 202851,
+      "num": 202851,
+      "word": "张雪峰说分数低就不要既要又要了",
+      "onboard_time": 1719199098,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 202832,
@@ -34881,6 +34921,14 @@
       "onboard_time": 1718879237,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194100,
+      "num": 194100,
+      "word": "这么爽的班到底是谁在上",
+      "onboard_time": 1719189078,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 194080,
@@ -37555,14 +37603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 182491,
-      "num": 182491,
-      "word": "这么爽的班到底是谁在上",
-      "onboard_time": 1719189078,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182337,
       "num": 169839,
       "word": "只有山西人知道孙丞潇骂的很脏",
@@ -40091,6 +40131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 170047,
+      "num": 170047,
+      "word": "困在职场的35岁女性决定去考公",
+      "onboard_time": 1719197597,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169905,
       "num": 169905,
       "word": "关晓彤唱跳午夜恰恰",
@@ -41167,14 +41215,6 @@
       "num": 165679,
       "word": "轨交幺幺零",
       "onboard_time": 1718767039,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165657,
-      "num": 165657,
-      "word": "困在职场的35岁女性决定去考公",
-      "onboard_time": 1719197597,
       "rank": 35,
       "category": "社会新闻"
     },
@@ -43475,6 +43515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156584,
+      "num": 156584,
+      "word": "TheShy问Ning王LNG走后门事件",
+      "onboard_time": 1719199278,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156561,
       "num": 156561,
       "word": "杨迪说谢娜是我最好的朋友",
@@ -43945,6 +43993,14 @@
       "onboard_time": 1718033238,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155010,
+      "num": 155010,
+      "word": "专业报考指南",
+      "onboard_time": 1718592016,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 154997,
@@ -46697,14 +46753,6 @@
       "onboard_time": 1718364738,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 144820,
-      "num": 144820,
-      "word": "专业报考指南",
-      "onboard_time": 1718592016,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 144789,
@@ -52011,14 +52059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125660,
-      "num": 125660,
-      "word": "TheShy问Ning王LNG走后门事件",
-      "onboard_time": 1719199278,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 125658,
       "num": 543880,
       "word": "姜萍并不偏科",
@@ -52345,6 +52385,14 @@
       "onboard_time": 1718533937,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124746,
+      "num": 124746,
+      "word": "执行法官预告有股电视购物味",
+      "onboard_time": 1719199819,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 124729,
@@ -57899,14 +57947,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 101914,
-      "num": 116129,
-      "word": "张雪峰说分数低就不要既要又要了",
-      "onboard_time": 1719199098,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 101865,
       "num": 383429,
       "word": "你还是那个闪闪发光的小孩",
@@ -59907,6 +59947,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 87316,
+      "num": 564250,
+      "word": "直播间叫卖古董为何让老人深信不疑",
+      "onboard_time": 1719198378,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87289,
       "num": 87289,
       "word": "那英 我不是大家想象中那么优秀",
@@ -60652,7 +60700,7 @@
     },
     {
       "raw_hot": 79613,
-      "num": 1136045,
+      "num": 1325047,
       "word": "为什么说宁夏是一个宝藏",
       "onboard_time": 1719152959,
       "rank": 36,
@@ -62633,14 +62681,6 @@
       "onboard_time": 1717794311,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 62488,
-      "num": 564250,
-      "word": "直播间叫卖古董为何让老人深信不疑",
-      "onboard_time": 1719198378,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62387,
@@ -67643,6 +67683,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 26171,
+      "num": 177043,
+      "word": "达吉斯坦在哪里",
+      "onboard_time": 1719199518,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 26103,
       "num": 26103,
       "word": "千金府直播",
@@ -68561,6 +68609,14 @@
       "onboard_time": 1718122578,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18199,
+      "num": 170118,
+      "word": "没有栀子花的夏天是不完整的",
+      "onboard_time": 1719199398,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 18194,

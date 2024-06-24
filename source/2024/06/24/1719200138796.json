@@ -1,0 +1,410 @@
+{
+  "runTime": 1719200138796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1856093,
+        "num": 1856093,
+        "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+        "onboard_time": 1719197058,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1722859,
+        "num": 1722859,
+        "word": "司机不知情下备胎内被藏毒92斤",
+        "onboard_time": 1719195077,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42421,
+        "num": 1325047,
+        "word": "为什么说宁夏是一个宝藏",
+        "onboard_time": 1719152959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1267349,
+        "num": 1267349,
+        "word": "腾讯今天官宣好多剧",
+        "onboard_time": 1719198378,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 648621,
+        "num": 648621,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 599410,
+        "num": 599410,
+        "word": "长沙暴雨",
+        "onboard_time": 1719196037,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939586,
+        "num": 597773,
+        "word": "猎罪图鉴2首宣",
+        "onboard_time": 1719193576,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606275,
+        "num": 594778,
+        "word": "ZICO",
+        "onboard_time": 1719192136,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591581,
+        "num": 591581,
+        "word": "学生高考710分老师瞬间沸腾",
+        "onboard_time": 1719190698,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 87316,
+        "num": 491386,
+        "word": "直播间叫卖古董为何让老人深信不疑",
+        "onboard_time": 1719198378,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431966,
+        "num": 431966,
+        "word": "王启年二皇子仇敌变兄弟",
+        "onboard_time": 1719199697,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431004,
+        "num": 431004,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 427095,
+        "num": 427095,
+        "word": "A股",
+        "onboard_time": 1719193756,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 421879,
+        "num": 421879,
+        "word": "鹅厂2024大剧片单",
+        "onboard_time": 1719193337,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370417,
+        "num": 370417,
+        "word": "一毕业就有3年工作经验的应届生",
+        "onboard_time": 1719193816,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 355887,
+        "num": 355887,
+        "word": "长安的荔枝全阵容官宣",
+        "onboard_time": 1719195619,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330922,
+        "num": 330922,
+        "word": "我用19年证明高考不能决定人生",
+        "onboard_time": 1719190158,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223281,
+        "num": 223281,
+        "word": "余承东和微博CEO聊了什么",
+        "onboard_time": 1719199937,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202851,
+        "num": 202851,
+        "word": "张雪峰说分数低就不要既要又要了",
+        "onboard_time": 1719199098,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 200877,
+        "num": 200877,
+        "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
+        "onboard_time": 1719189917,
+        "rank": 19,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 688022,
+        "num": 200642,
+        "word": "毕业两年室友做美甲挣了八十万",
+        "onboard_time": 1719196396,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199719,
+        "num": 199719,
+        "word": "理科生高考713分物理化学均满分",
+        "onboard_time": 1719192077,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 332473,
+        "num": 199467,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316130,
+        "num": 198615,
+        "word": "于正说临江仙必爆",
+        "onboard_time": 1719199697,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311728,
+        "num": 198095,
+        "word": "睡前不刷牙会发生什么",
+        "onboard_time": 1719189257,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 306945,
+        "num": 197782,
+        "word": "火箭少女聚会合照",
+        "onboard_time": 1719194778,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301187,
+        "num": 196647,
+        "word": "永夜星河好大一个虞书欣",
+        "onboard_time": 1719197958,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 264079,
+        "num": 196134,
+        "word": "白日提灯改名",
+        "onboard_time": 1719193938,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226742,
+        "num": 195891,
+        "word": "弟弟高考失利还要把礼物给他吗",
+        "onboard_time": 1719194658,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216463,
+        "num": 194902,
+        "word": "墨雨云间 OE",
+        "onboard_time": 1719188177,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204975,
+        "num": 194197,
+        "word": "九重紫",
+        "onboard_time": 1719199579,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194100,
+        "num": 194100,
+        "word": "这么爽的班到底是谁在上",
+        "onboard_time": 1719189078,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183884,
+        "num": 183884,
+        "word": "檀健次李兰迪滤镜海报",
+        "onboard_time": 1719197898,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26171,
+        "num": 177043,
+        "word": "达吉斯坦在哪里",
+        "onboard_time": 1719199518,
+        "rank": 33,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 173707,
+        "num": 173707,
+        "word": "1个校区就发现76例学生脊柱侧弯",
+        "onboard_time": 1719184875,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170501,
+        "num": 170501,
+        "word": "鹅剧派对",
+        "onboard_time": 1719196696,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18199,
+        "num": 170118,
+        "word": "没有栀子花的夏天是不完整的",
+        "onboard_time": 1719199398,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170047,
+        "num": 170047,
+        "word": "困在职场的35岁女性决定去考公",
+        "onboard_time": 1719197597,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163764,
+        "num": 163764,
+        "word": "剑网三",
+        "onboard_time": 1719197237,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159362,
+        "num": 159362,
+        "word": "锦绣安宁",
+        "onboard_time": 1719198739,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157254,
+        "num": 157254,
+        "word": "人鱼 杀青",
+        "onboard_time": 1719186616,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156943,
+        "num": 156943,
+        "word": "准大一生活费决定给1500",
+        "onboard_time": 1719187817,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156584,
+        "num": 156584,
+        "word": "TheShy问Ning王LNG走后门事件",
+        "onboard_time": 1719199278,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155010,
+        "num": 155010,
+        "word": "专业报考指南",
+        "onboard_time": 1719199579,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 149808,
+        "num": 149808,
+        "word": "肖战饭制互动游戏正式上线",
+        "onboard_time": 1719193276,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149756,
+        "num": 149756,
+        "word": "猎罪图鉴2小分队全员回归",
+        "onboard_time": 1719196696,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134125,
+        "num": 134125,
+        "word": "黄亦玫永远自由永远热烈",
+        "onboard_time": 1719196577,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129077,
+        "num": 129077,
+        "word": "长沙发布暴雨红色预警",
+        "onboard_time": 1719198378,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124746,
+        "num": 124746,
+        "word": "执行法官预告有股电视购物味",
+        "onboard_time": 1719199819,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116868,
+        "num": 116868,
+        "word": "慕胥辞阵容官宣",
+        "onboard_time": 1719193938,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记一次次走进科技创新最活跃的地方#"
+    }
+  }
+}
