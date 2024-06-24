@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719192122413,
+  "endTime": 1719193444447,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1232044,
+      "num": 1232044,
+      "word": "我用19年证明高考不能决定人生",
+      "onboard_time": 1719190158,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1152737,
       "num": 1152737,
       "word": "林俊杰 冻结",
@@ -187,14 +195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1045338,
-      "num": 1045338,
-      "word": "我用19年证明高考不能决定人生",
-      "onboard_time": 1719190158,
-      "rank": 3,
-      "category": "教育"
-    },
-    {
       "raw_hot": 998801,
       "num": 998801,
       "word": "汪苏泷回应上歌手碎了",
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 982074,
+      "num": 240287,
+      "word": "睡前不刷牙会发生什么",
+      "onboard_time": 1719189257,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 968426,
       "num": 968426,
       "word": "iPhone16全系尺寸曝光",
@@ -225,14 +233,6 @@
       "onboard_time": 1719148879,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 949822,
-      "num": 232836,
-      "word": "睡前不刷牙会发生什么",
-      "onboard_time": 1719189257,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 933631,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 703723,
-      "num": 359124,
+      "num": 614638,
       "word": "在男朋友28岁生日那天被求婚了",
       "onboard_time": 1719186977,
       "rank": 10,
@@ -451,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595672,
+      "num": 595672,
+      "word": "ZICO",
+      "onboard_time": 1719192136,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565976,
       "num": 565976,
       "word": "墨雨云间 OE",
@@ -481,6 +489,14 @@
       "onboard_time": 1719127037,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 548983,
+      "num": 548983,
+      "word": "黄玫瑰拿铁",
+      "onboard_time": 1719192018,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 545517,
@@ -700,7 +716,7 @@
     },
     {
       "raw_hot": 452772,
-      "num": 230498,
+      "num": 233376,
       "word": "准大一生活费决定给1500",
       "onboard_time": 1719187817,
       "rank": 22,
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 431442,
-      "num": 343282,
+      "num": 421367,
       "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
       "onboard_time": 1719189917,
       "rank": 11,
@@ -907,6 +923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 386975,
+      "num": 386975,
+      "word": "学生高考710分老师瞬间沸腾",
+      "onboard_time": 1719190698,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 386788,
       "num": 386788,
       "word": "穿什么颜色的泳衣更安全",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1719140838,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 342928,
+      "num": 342928,
+      "word": "慕胥辞",
+      "onboard_time": 1719188298,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 339799,
@@ -1323,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245054,
+      "num": 245054,
+      "word": "理科生高考713分物理化学均满分",
+      "onboard_time": 1719192077,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244041,
       "num": 244041,
       "word": "陈洁仪 心动",
@@ -1432,14 +1472,6 @@
       "word": "吴谨言紫色薄纱襦裙",
       "onboard_time": 1719145097,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 228724,
-      "num": 228724,
-      "word": "慕胥辞",
-      "onboard_time": 1719188298,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1579,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207572,
+      "num": 207572,
+      "word": "李梦穿搭",
+      "onboard_time": 1719192917,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207167,
       "num": 207167,
       "word": "匈牙利球员被撞休克",
@@ -1601,6 +1641,14 @@
       "onboard_time": 1719152001,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 204796,
+      "num": 204796,
+      "word": "恋爱一定要抛开羞耻大胆谈",
+      "onboard_time": 1719191238,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 204784,
@@ -1755,12 +1803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190370,
-      "num": 190370,
-      "word": "恋爱一定要抛开羞耻大胆谈",
-      "onboard_time": 1719191238,
+      "raw_hot": 190697,
+      "num": 190697,
+      "word": "鹅厂2024大剧片单",
+      "onboard_time": 1719193337,
       "rank": 28,
-      "category": "情感"
+      "category": "剧集"
     },
     {
       "raw_hot": 190188,
@@ -2283,14 +2331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146556,
-      "num": 366790,
-      "word": "学生高考710分老师瞬间沸腾",
-      "onboard_time": 1719190698,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 146243,
       "num": 146243,
       "word": "上海高考查分",
@@ -2451,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 133742,
+      "num": 133742,
+      "word": "王星越出发hi6",
+      "onboard_time": 1719192737,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133542,
       "num": 133542,
       "word": "南烟斋笔录 额头吻",
@@ -2515,14 +2563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129365,
-      "num": 129365,
-      "word": "理科生高考713分物理化学均满分",
-      "onboard_time": 1719192077,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 129138,
       "num": 129138,
       "word": "罗云熙是有和飞禽拍戏的KPI吗",
@@ -2553,6 +2593,14 @@
       "onboard_time": 1719136339,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127289,
+      "num": 127289,
+      "word": "汪苏泷内娱麦当娜连蹲",
+      "onboard_time": 1719192377,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 127233,
@@ -2665,6 +2713,14 @@
       "onboard_time": 1719048257,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121985,
+      "num": 121985,
+      "word": "肖战饭制互动游戏正式上线",
+      "onboard_time": 1719193276,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 120806,
@@ -2825,14 +2881,6 @@
       "onboard_time": 1719130039,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114257,
-      "num": 114257,
-      "word": "黄玫瑰拿铁",
-      "onboard_time": 1719192018,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 114170,
@@ -3385,6 +3433,14 @@
       "onboard_time": 1719093850,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66064,
+      "num": 422061,
+      "word": "56个民族同唱一首歌再听依然感动",
+      "onboard_time": 1719190399,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 65892,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 09:22:02
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 09:44:04
 </p>
 </blockquote>
 <p>
@@ -2163,6 +2163,12 @@ MIUMIU品牌大使刘浩存（热度：1250127）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%94%A819%E5%B9%B4%E8%AF%81%E6%98%8E%E9%AB%98%E8%80%83%E4%B8%8D%E8%83%BD%E5%86%B3%E5%AE%9A%E4%BA%BA%E7%94%9F%23" target="weibo">
+我用19年证明高考不能决定人生（热度：1232044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB%E7%A9%BF%E7%9D%80%E4%B8%A7%E6%9C%8D%E8%B7%B3%E8%88%9E%23" target="weibo">
 黄亦玫穿着丧服跳舞（热度：1231651）
 </a>
@@ -3051,12 +3057,6 @@ iPhone有通话录音了（热度：1060619）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%94%A819%E5%B9%B4%E8%AF%81%E6%98%8E%E9%AB%98%E8%80%83%E4%B8%8D%E8%83%BD%E5%86%B3%E5%AE%9A%E4%BA%BA%E7%94%9F%23" target="weibo">
-我用19年证明高考不能决定人生（热度：1045338）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%BF%AB%E5%93%AD%E4%BA%86%23" target="weibo">
 那英快哭了（热度：1042858）
 </a>
@@ -3345,6 +3345,12 @@ Manner男店员掌掴女顾客附近商家发声（热度：1005974）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E4%B8%8D%E5%88%B7%E7%89%99%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23" target="weibo">
+睡前不刷牙会发生什么（热度：982074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E7%AC%AC1%E6%89%B9%E5%BC%84%E4%B8%A2%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%9A%84%E8%80%83%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 2024第1批弄丢身份证的考生出现了（热度：981229）
 </a>
@@ -3581,12 +3587,6 @@ iPhone16全系尺寸曝光（热度：968426）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E8%80%81%E9%87%91%23" target="weibo">
 养老金（热度：949872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E4%B8%8D%E5%88%B7%E7%89%99%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%23" target="weibo">
-睡前不刷牙会发生什么（热度：949822）
 </a>
 </li>
 

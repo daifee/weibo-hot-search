@@ -1,0 +1,410 @@
+{
+  "runTime": 1719193444447,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1249082,
+        "num": 1249082,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1232044,
+        "num": 1232044,
+        "word": "我用19年证明高考不能决定人生",
+        "onboard_time": 1719190158,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 66358,
+        "num": 839806,
+        "word": "为什么说宁夏是一个宝藏",
+        "onboard_time": 1719152959,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 774801,
+        "num": 774801,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 614638,
+        "num": 614638,
+        "word": "在男朋友28岁生日那天被求婚了",
+        "onboard_time": 1719186977,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 595672,
+        "num": 595672,
+        "word": "ZICO",
+        "onboard_time": 1719192136,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 548983,
+        "num": 548983,
+        "word": "黄玫瑰拿铁",
+        "onboard_time": 1719192018,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 540576,
+        "num": 540576,
+        "word": "墨雨云间 OE",
+        "onboard_time": 1719188177,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443546,
+        "num": 443546,
+        "word": "人鱼 杀青",
+        "onboard_time": 1719186616,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66064,
+        "num": 422061,
+        "word": "56个民族同唱一首歌再听依然感动",
+        "onboard_time": 1719190399,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421367,
+        "num": 421367,
+        "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
+        "onboard_time": 1719189917,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 386975,
+        "num": 386975,
+        "word": "学生高考710分老师瞬间沸腾",
+        "onboard_time": 1719190698,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 386753,
+        "num": 386753,
+        "word": "首个高考成绩被屏蔽的人出现了",
+        "onboard_time": 1719126498,
+        "rank": 12,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 377948,
+        "num": 377948,
+        "word": "上海地铁",
+        "onboard_time": 1719189619,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342928,
+        "num": 342928,
+        "word": "慕胥辞",
+        "onboard_time": 1719188298,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275306,
+        "num": 275306,
+        "word": "高考查分",
+        "onboard_time": 1719191838,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 2337991,
+        "num": 274722,
+        "word": "多地出台鼓励退出农村宅基地",
+        "onboard_time": 1719187938,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268277,
+        "num": 268277,
+        "word": "韩国警告俄罗斯",
+        "onboard_time": 1719145517,
+        "rank": 17,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 245054,
+        "num": 245054,
+        "word": "理科生高考713分物理化学均满分",
+        "onboard_time": 1719192077,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241177,
+        "num": 241177,
+        "word": "黄晓明拿奖激动到手抖",
+        "onboard_time": 1719180431,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 982074,
+        "num": 240287,
+        "word": "睡前不刷牙会发生什么",
+        "onboard_time": 1719189257,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 434669,
+        "num": 233376,
+        "word": "准大一生活费决定给1500",
+        "onboard_time": 1719187817,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398282,
+        "num": 228226,
+        "word": "1个校区就发现76例学生脊柱侧弯",
+        "onboard_time": 1719184875,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250158,
+        "num": 224566,
+        "word": "刘亦菲机长造型",
+        "onboard_time": 1719187517,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220464,
+        "num": 220464,
+        "word": "海蓝之谜柜姐被顾客泼水羞辱",
+        "onboard_time": 1719152179,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207572,
+        "num": 207572,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204796,
+        "num": 204796,
+        "word": "恋爱一定要抛开羞耻大胆谈",
+        "onboard_time": 1719191238,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190997,
+        "num": 190997,
+        "word": "相柳白月光回归",
+        "onboard_time": 1719184514,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190697,
+        "num": 190697,
+        "word": "鹅厂2024大剧片单",
+        "onboard_time": 1719193337,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184572,
+        "num": 184572,
+        "word": "飞天茅台单价低至2100元",
+        "onboard_time": 1719185418,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 184126,
+        "num": 184126,
+        "word": "央视曝光农村生活污水治理假工程",
+        "onboard_time": 1719183734,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178027,
+        "num": 178027,
+        "word": "男子带96岁母亲酒店养老遭集体拉黑",
+        "onboard_time": 1719154279,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150763,
+        "num": 150763,
+        "word": "这么爽的班到底是谁在上",
+        "onboard_time": 1719189078,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141828,
+        "num": 141828,
+        "word": "iPhone16全系尺寸曝光",
+        "onboard_time": 1719152301,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138285,
+        "num": 138285,
+        "word": "于正说以后他所有的剧全部明确HE",
+        "onboard_time": 1719171552,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138047,
+        "num": 138047,
+        "word": "这3类首饰暗藏健康风险别再戴了",
+        "onboard_time": 1719184334,
+        "rank": 35,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136758,
+        "num": 136758,
+        "word": "白日提灯 平番",
+        "onboard_time": 1719145758,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136421,
+        "num": 136421,
+        "word": "夫妻自驾运毒34.8公斤被抓",
+        "onboard_time": 1719169151,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133742,
+        "num": 133742,
+        "word": "王星越出发hi6",
+        "onboard_time": 1719192737,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132762,
+        "num": 132762,
+        "word": "张艺兴朴灿烈合照",
+        "onboard_time": 1719148879,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132465,
+        "num": 132465,
+        "word": "第一次见把小猫当闹钟用的",
+        "onboard_time": 1719187157,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132221,
+        "num": 132221,
+        "word": "匈牙利球员被撞休克",
+        "onboard_time": 1719187456,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131227,
+        "num": 131227,
+        "word": "梁实第28次高考未达二本线",
+        "onboard_time": 1719185055,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127289,
+        "num": 127289,
+        "word": "汪苏泷内娱麦当娜连蹲",
+        "onboard_time": 1719192377,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121985,
+        "num": 121985,
+        "word": "肖战饭制互动游戏正式上线",
+        "onboard_time": 1719193276,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121259,
+        "num": 121259,
+        "word": "女子等红绿灯被撞飞后遭碾压当场身亡",
+        "onboard_time": 1719145758,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118852,
+        "num": 118852,
+        "word": "高考完后爸爸就变了",
+        "onboard_time": 1719188597,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111002,
+        "num": 111002,
+        "word": "女生请校长给她的小熊也拔穗",
+        "onboard_time": 1719190999,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 110465,
+        "num": 110465,
+        "word": "C罗一脚单车拉回了20年前",
+        "onboard_time": 1719190518,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107926,
+        "num": 107926,
+        "word": "林允发际线",
+        "onboard_time": 1719156200,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#青海宁夏之行总书记关注这条主线#"
+    }
+  }
+}

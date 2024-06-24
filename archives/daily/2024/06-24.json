@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719192122413,
+  "endTime": 1719193444447,
   "band_list": [
     {
       "raw_hot": 2396856,
@@ -19,8 +19,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1045338,
-      "num": 1045338,
+      "raw_hot": 1232044,
+      "num": 1232044,
       "word": "我用19年证明高考不能决定人生",
       "onboard_time": 1719190158,
       "rank": 3,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 949822,
-      "num": 232836,
+      "raw_hot": 982074,
+      "num": 240287,
       "word": "睡前不刷牙会发生什么",
       "onboard_time": 1719189257,
       "rank": 20,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 703723,
-      "num": 359124,
+      "num": 614638,
       "word": "在男朋友28岁生日那天被求婚了",
       "onboard_time": 1719186977,
       "rank": 10,
@@ -81,6 +81,14 @@
       "onboard_time": 1719152301,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 595672,
+      "num": 595672,
+      "word": "ZICO",
+      "onboard_time": 1719192136,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 565976,
@@ -97,6 +105,14 @@
       "onboard_time": 1719152179,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548983,
+      "num": 548983,
+      "word": "黄玫瑰拿铁",
+      "onboard_time": 1719192018,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 527689,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 452772,
-      "num": 230498,
+      "num": 233376,
       "word": "准大一生活费决定给1500",
       "onboard_time": 1719187817,
       "rank": 22,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 431442,
-      "num": 343282,
+      "num": 421367,
       "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
       "onboard_time": 1719189917,
       "rank": 11,
@@ -219,11 +235,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 386975,
+      "num": 386975,
+      "word": "学生高考710分老师瞬间沸腾",
+      "onboard_time": 1719190698,
+      "rank": 9,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 358897,
       "num": 358897,
       "word": "李一桐 将门毒后",
       "onboard_time": 1719141378,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342928,
+      "num": 342928,
+      "word": "慕胥辞",
+      "onboard_time": 1719188298,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -291,12 +323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 275306,
+      "num": 275306,
+      "word": "高考查分",
+      "onboard_time": 1719191838,
+      "rank": 26,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 274998,
       "num": 274998,
       "word": "将门毒后 男主",
       "onboard_time": 1719143297,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 245054,
+      "num": 245054,
+      "word": "理科生高考713分物理化学均满分",
+      "onboard_time": 1719192077,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 244041,
@@ -339,20 +387,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 228724,
-      "num": 228724,
-      "word": "慕胥辞",
-      "onboard_time": 1719188298,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 216191,
-      "num": 216191,
-      "word": "高考查分",
-      "onboard_time": 1719191838,
-      "rank": 26,
-      "category": "社会新闻,教育"
+      "raw_hot": 207572,
+      "num": 207572,
+      "word": "李梦穿搭",
+      "onboard_time": 1719192917,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 207167,
@@ -371,6 +411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 204796,
+      "num": 204796,
+      "word": "恋爱一定要抛开羞耻大胆谈",
+      "onboard_time": 1719191238,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191423,
       "num": 191423,
       "word": "杭州灵隐寺发大水",
@@ -387,12 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190370,
-      "num": 190370,
-      "word": "恋爱一定要抛开羞耻大胆谈",
-      "onboard_time": 1719191238,
+      "raw_hot": 190697,
+      "num": 190697,
+      "word": "鹅厂2024大剧片单",
+      "onboard_time": 1719193337,
       "rank": 28,
-      "category": "情感"
+      "category": "剧集"
     },
     {
       "raw_hot": 184733,
@@ -475,14 +523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 146556,
-      "num": 366790,
-      "word": "学生高考710分老师瞬间沸腾",
-      "onboard_time": 1719190698,
-      "rank": 9,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 139583,
       "num": 139583,
       "word": "鹿晗演唱会背影图",
@@ -515,6 +555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133742,
+      "num": 133742,
+      "word": "王星越出发hi6",
+      "onboard_time": 1719192737,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133106,
       "num": 133106,
       "word": "Wei不打了",
@@ -531,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129365,
-      "num": 129365,
-      "word": "理科生高考713分物理化学均满分",
-      "onboard_time": 1719192077,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 128137,
       "num": 128137,
       "word": "高考成绩被亲戚擅自发到家人群",
@@ -553,6 +593,14 @@
       "onboard_time": 1719189978,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127289,
+      "num": 127289,
+      "word": "汪苏泷内娱麦当娜连蹲",
+      "onboard_time": 1719192377,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 125373,
@@ -579,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121985,
+      "num": 121985,
+      "word": "肖战饭制互动游戏正式上线",
+      "onboard_time": 1719193276,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118934,
       "num": 118934,
       "word": "常吃这4类食物肚子最容易长肉",
@@ -593,14 +649,6 @@
       "onboard_time": 1719172270,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 114257,
-      "num": 114257,
-      "word": "黄玫瑰拿铁",
-      "onboard_time": 1719192018,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 110120,
@@ -777,6 +825,14 @@
       "onboard_time": 1719177790,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66064,
+      "num": 422061,
+      "word": "56个民族同唱一首歌再听依然感动",
+      "onboard_time": 1719190399,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60449,
