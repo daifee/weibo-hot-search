@@ -1,0 +1,410 @@
+{
+  "runTime": 1719250477015,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 424240,
+        "num": 424240,
+        "word": "浙大百万网红陈娴已有多家公司",
+        "onboard_time": 1719247695,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354399,
+        "num": 354399,
+        "word": "尚雯婕冠军",
+        "onboard_time": 1719241520,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4143,
+        "num": 241706,
+        "word": "收下这份暴雨天避险自救指南",
+        "onboard_time": 1719237441,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379828,
+        "num": 241700,
+        "word": "杜江霍思燕收养实验犬",
+        "onboard_time": 1719238520,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240337,
+        "num": 240337,
+        "word": "到底啥是city不city啊",
+        "onboard_time": 1719240620,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94159,
+        "num": 94159,
+        "word": "韩国起火电池厂员工多来自东北朝鲜族",
+        "onboard_time": 1719242359,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248087,
+        "num": 93880,
+        "word": "辉子失误",
+        "onboard_time": 1719242240,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198338,
+        "num": 93554,
+        "word": "刘亦菲喝了黄玫瑰拿铁",
+        "onboard_time": 1719242121,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92843,
+        "num": 92843,
+        "word": "酒桌上发出5.2万红包后悔了能要回吗",
+        "onboard_time": 1719238760,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13676,
+        "num": 92220,
+        "word": "小伙患心肌炎拒治疗医生紧急救回一命",
+        "onboard_time": 1719250034,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264288,
+        "num": 91225,
+        "word": "女子与男友发生关系后诬告对方强奸",
+        "onboard_time": 1719231140,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202564,
+        "num": 90131,
+        "word": "韩方通报遇难中国公民增至19人",
+        "onboard_time": 1719230598,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142411,
+        "num": 88495,
+        "word": "韩雪 难听",
+        "onboard_time": 1719231500,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 87600,
+        "word": "方可给迪丽热巴做的盘发",
+        "onboard_time": 1719247755,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113931,
+        "num": 85745,
+        "word": "新说唱",
+        "onboard_time": 1719242659,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111131,
+        "num": 85405,
+        "word": "唐治平疑似精神失常",
+        "onboard_time": 1719240921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94458,
+        "num": 83498,
+        "word": "韩方向中方表示哀悼",
+        "onboard_time": 1719238760,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82993,
+        "num": 82993,
+        "word": "唐尚珺高考成绩",
+        "onboard_time": 1719236720,
+        "rank": 17,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 77749,
+        "num": 77749,
+        "word": "A股大跌",
+        "onboard_time": 1719240321,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70177,
+        "num": 70177,
+        "word": "长沙1小时下了54个西湖",
+        "onboard_time": 1719220640,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326646,
+        "num": 70135,
+        "word": "发现导师朋友圈只屏蔽了我",
+        "onboard_time": 1719243859,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209535,
+        "num": 69925,
+        "word": "易猝死的人有4个共同点",
+        "onboard_time": 1719243559,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 95167,
+        "num": 69787,
+        "word": "大碗宽面组团魂4年后居然还在",
+        "onboard_time": 1719246077,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76390,
+        "num": 69620,
+        "word": "靳梦佳救场",
+        "onboard_time": 1719239420,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74559,
+        "num": 69448,
+        "word": "林一回应和刘亦菲合作",
+        "onboard_time": 1719241280,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69429,
+        "num": 69429,
+        "word": "轻断食五天瘦了11斤",
+        "onboard_time": 1719225439,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 68312,
+        "num": 68312,
+        "word": "陈丽君 投票",
+        "onboard_time": 1719229698,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67868,
+        "num": 67868,
+        "word": "某韩国男星性侵18岁女学生",
+        "onboard_time": 1719217519,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67525,
+        "num": 67525,
+        "word": "克罗地亚vs意大利",
+        "onboard_time": 1719246616,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63849,
+        "num": 63849,
+        "word": "桐岛爱",
+        "onboard_time": 1719232579,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61240,
+        "num": 61240,
+        "word": "萨顶顶 去歌手吧",
+        "onboard_time": 1719232579,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60577,
+        "num": 60577,
+        "word": "月薪四千开始从孩子身上降本增效",
+        "onboard_time": 1719232101,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59487,
+        "num": 59487,
+        "word": "EXO成员去了张艺兴演唱会",
+        "onboard_time": 1719234620,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58022,
+        "num": 58022,
+        "word": "山东卫视发了肖战",
+        "onboard_time": 1719244099,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57897,
+        "num": 57897,
+        "word": "向佐发16个问号问黄子韬",
+        "onboard_time": 1719243499,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57606,
+        "num": 57606,
+        "word": "江苏高考689分及以上107人",
+        "onboard_time": 1719236000,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57155,
+        "num": 57155,
+        "word": "长相思2定档",
+        "onboard_time": 1719221421,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56706,
+        "num": 56706,
+        "word": "陈昊宇发言",
+        "onboard_time": 1719235819,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55894,
+        "num": 55894,
+        "word": "终于有了一部全女主的剧",
+        "onboard_time": 1719218899,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53497,
+        "num": 53497,
+        "word": "狗狗临走前被摸后果断离去",
+        "onboard_time": 1719249554,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 52383,
+        "num": 53494,
+        "word": "网传荣梓杉高考成绩417分",
+        "onboard_time": 1719220520,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50165,
+        "num": 53485,
+        "word": "金智秀巴黎大秀造型",
+        "onboard_time": 1719239420,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 48833,
+        "num": 53479,
+        "word": "AI陶喆 泪桥",
+        "onboard_time": 1719247575,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 48507,
+        "num": 53475,
+        "word": "女性一生中月经的次数变化",
+        "onboard_time": 1719232039,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45003,
+        "num": 53469,
+        "word": "保时捷降价了",
+        "onboard_time": 1719231559,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44078,
+        "num": 53458,
+        "word": "沈泉锐直播",
+        "onboard_time": 1719242960,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39406,
+        "num": 53451,
+        "word": "尚雯婕浪姐内投第一",
+        "onboard_time": 1719250454,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37733,
+        "num": 53450,
+        "word": "榴莲的叶酸含量是苹果的30倍",
+        "onboard_time": 1719236360,
+        "rank": 47,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 20912,
+        "num": 53439,
+        "word": "长沙暴雨多地被淹",
+        "onboard_time": 1719248175,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35280,
+        "num": 53437,
+        "word": "女生复读1年高考涨133分激动爆哭",
+        "onboard_time": 1719244459,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国自主创新事业是大有可为的#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719249450828,
+  "endTime": 1719250477015,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -1563,6 +1563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 424240,
+      "num": 424240,
+      "word": "浙大百万网红陈娴已有多家公司",
+      "onboard_time": 1719247695,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424235,
       "num": 424235,
       "word": "男生为健身每天吃20个鸡蛋",
@@ -2793,14 +2801,6 @@
       "onboard_time": 1719215840,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219887,
-      "num": 219887,
-      "word": "浙大百万网红陈娴已有多家公司",
-      "onboard_time": 1719247695,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219354,
@@ -4707,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126687,
+      "num": 87600,
+      "word": "方可给迪丽热巴做的盘发",
+      "onboard_time": 1719247755,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 126655,
       "num": 126655,
       "word": "汪苏泷演唱会温馨提示",
@@ -4993,14 +5001,6 @@
       "onboard_time": 1719122118,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115346,
-      "num": 85696,
-      "word": "方可给迪丽热巴做的盘发",
-      "onboard_time": 1719247755,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 115163,
@@ -5867,6 +5867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53497,
+      "num": 53497,
+      "word": "狗狗临走前被摸后果断离去",
+      "onboard_time": 1719249554,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 53248,
       "num": 53248,
       "word": "陈都灵买过刘诗诗步步惊心周边",
@@ -5907,6 +5915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48833,
+      "num": 53479,
+      "word": "AI陶喆 泪桥",
+      "onboard_time": 1719247575,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 48089,
       "num": 51423,
       "word": "RNG夏季赛五连败",
@@ -5937,14 +5953,6 @@
       "onboard_time": 1719079333,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46119,
-      "num": 46119,
-      "word": "AI陶喆 泪桥",
-      "onboard_time": 1719247575,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 42858,
@@ -5993,6 +6001,14 @@
       "onboard_time": 1719221479,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39406,
+      "num": 53451,
+      "word": "尚雯婕浪姐内投第一",
+      "onboard_time": 1719250454,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 39056,
@@ -6275,6 +6291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 20912,
+      "num": 121804,
+      "word": "长沙暴雨多地被淹",
+      "onboard_time": 1719248175,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20641,
       "num": 27331,
       "word": "不翻车的小短甲",
@@ -6387,19 +6411,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14549,
-      "num": 121804,
-      "word": "长沙暴雨多地被淹",
-      "onboard_time": 1719248175,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 14405,
       "num": 182131,
       "word": "这个同框简直把安全感拉到了极致",
       "onboard_time": 1719184394,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13676,
+      "num": 92220,
+      "word": "小伙患心肌炎拒治疗医生紧急救回一命",
+      "onboard_time": 1719250034,
+      "rank": 9,
       "category": "社会新闻"
     },
     {

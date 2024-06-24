@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719249450828,
+  "endTime": 1719250477015,
   "band_list": [
     {
       "raw_hot": 1186042,
@@ -65,6 +65,14 @@
       "onboard_time": 1719242121,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424240,
+      "num": 424240,
+      "word": "浙大百万网红陈娴已有多家公司",
+      "onboard_time": 1719247695,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 369122,
@@ -145,14 +153,6 @@
       "onboard_time": 1719242659,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 219887,
-      "num": 219887,
-      "word": "浙大百万网红陈娴已有多家公司",
-      "onboard_time": 1719247695,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 217409,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126687,
+      "num": 87600,
+      "word": "方可给迪丽热巴做的盘发",
+      "onboard_time": 1719247755,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 125097,
       "num": 125097,
       "word": "金智秀巴黎大秀造型",
@@ -297,14 +305,6 @@
       "onboard_time": 1719221421,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115346,
-      "num": 85696,
-      "word": "方可给迪丽热巴做的盘发",
-      "onboard_time": 1719247755,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 113701,
@@ -419,12 +419,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46119,
-      "num": 46119,
+      "raw_hot": 53497,
+      "num": 53497,
+      "word": "狗狗临走前被摸后果断离去",
+      "onboard_time": 1719249554,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 48833,
+      "num": 53479,
       "word": "AI陶喆 泪桥",
       "onboard_time": 1719247575,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 39406,
+      "num": 53451,
+      "word": "尚雯婕浪姐内投第一",
+      "onboard_time": 1719250454,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 24700,
@@ -432,6 +448,14 @@
       "word": "收下这份暴雨天避险自救指南",
       "onboard_time": 1719237441,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20912,
+      "num": 121804,
+      "word": "长沙暴雨多地被淹",
+      "onboard_time": 1719248175,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -443,10 +467,10 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 14549,
-      "num": 121804,
-      "word": "长沙暴雨多地被淹",
-      "onboard_time": 1719248175,
+      "raw_hot": 13676,
+      "num": 92220,
+      "word": "小伙患心肌炎拒治疗医生紧急救回一命",
+      "onboard_time": 1719250034,
       "rank": 9,
       "category": "社会新闻"
     }
