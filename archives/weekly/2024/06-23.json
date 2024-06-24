@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719242483088,
+  "endTime": 1719243336174,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -507,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 853106,
+      "num": 853106,
+      "word": "到底啥是city不city啊",
+      "onboard_time": 1719240620,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 851525,
       "num": 851525,
       "word": "长相思2",
@@ -561,14 +569,6 @@
       "onboard_time": 1719222379,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 820571,
-      "num": 820571,
-      "word": "到底啥是city不city啊",
-      "onboard_time": 1719240620,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 804568,
@@ -1203,6 +1203,14 @@
       "category": "健康医疗,美食"
     },
     {
+      "raw_hot": 487920,
+      "num": 405468,
+      "word": "林一回应和刘亦菲合作",
+      "onboard_time": 1719241280,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485367,
       "num": 485367,
       "word": "小夭涂山璟额头吻",
@@ -1227,12 +1235,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 479576,
-      "num": 405468,
-      "word": "林一回应和刘亦菲合作",
-      "onboard_time": 1719241280,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 482509,
+      "num": 397206,
+      "word": "辉子失误",
+      "onboard_time": 1719242240,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 479025,
@@ -1507,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427098,
+      "num": 427098,
+      "word": "酒桌上发出5.2万红包后悔了能要回吗",
+      "onboard_time": 1719238760,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426671,
       "num": 426671,
       "word": "婉宁下线这段真是震撼",
@@ -1683,20 +1699,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 394905,
-      "num": 394905,
-      "word": "酒桌上发出5.2万红包后悔了能要回吗",
-      "onboard_time": 1719238760,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 393361,
       "num": 393361,
       "word": "火箭少女聚会合照",
       "onboard_time": 1719194778,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 392739,
+      "num": 392739,
+      "word": "A股大跌",
+      "onboard_time": 1719240321,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 389975,
@@ -1768,6 +1784,14 @@
       "word": "傅家明留给玫瑰的遗书是食谱",
       "onboard_time": 1719110838,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 378855,
+      "num": 358000,
+      "word": "刘亦菲喝了黄玫瑰拿铁",
+      "onboard_time": 1719242121,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1849,14 +1873,6 @@
       "onboard_time": 1719211219,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 360996,
-      "num": 360996,
-      "word": "A股大跌",
-      "onboard_time": 1719240321,
-      "rank": 16,
-      "category": "财经"
     },
     {
       "raw_hot": 358977,
@@ -2227,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292159,
+      "num": 282971,
+      "word": "唐治平疑似精神失常",
+      "onboard_time": 1719240921,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 285924,
       "num": 285924,
       "word": "小伙吐槽360全家桶被投诉后秒认怂",
@@ -2257,14 +2281,6 @@
       "onboard_time": 1719221421,
       "rank": 48,
       "category": "教育"
-    },
-    {
-      "raw_hot": 282971,
-      "num": 282971,
-      "word": "唐治平疑似精神失常",
-      "onboard_time": 1719240921,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 281756,
@@ -2401,6 +2417,14 @@
       "onboard_time": 1719194658,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 260076,
+      "num": 240052,
+      "word": "王星越一把抱起了前夫哥",
+      "onboard_time": 1719242180,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 260054,
@@ -2547,6 +2571,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240187,
+      "num": 240187,
+      "word": "韩国起火电池厂员工多来自东北朝鲜族",
+      "onboard_time": 1719242359,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240046,
+      "num": 240046,
+      "word": "痛经越来越疼要小心巧克力囊肿",
+      "onboard_time": 1719241520,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 238791,
       "num": 85241,
       "word": "汪苏泷终于唱巴赫旧约了",
@@ -2617,14 +2657,6 @@
       "onboard_time": 1719110298,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231700,
-      "num": 231700,
-      "word": "刘亦菲喝了黄玫瑰拿铁",
-      "onboard_time": 1719242121,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 231337,
@@ -2721,14 +2753,6 @@
       "onboard_time": 1719104357,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 221858,
-      "num": 221858,
-      "word": "辉子失误",
-      "onboard_time": 1719242240,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 221151,
@@ -3187,14 +3211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197400,
-      "num": 197400,
-      "word": "王星越一把抱起了前夫哥",
-      "onboard_time": 1719242180,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196658,
       "num": 196658,
       "word": "辽宁今日出高考成绩",
@@ -3499,6 +3515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183280,
+      "num": 183280,
+      "word": "沈泉锐直播",
+      "onboard_time": 1719242960,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183257,
       "num": 183257,
       "word": "菲常萧张",
@@ -3747,6 +3771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168907,
+      "num": 141393,
+      "word": "新说唱",
+      "onboard_time": 1719242659,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168385,
       "num": 168385,
       "word": "嫦娥六号 想念地球的蓝天白云",
@@ -3971,6 +4003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160022,
+      "num": 140047,
+      "word": "何洁听尚雯婕哭了",
+      "onboard_time": 1719242001,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159717,
       "num": 179261,
       "word": "长沙防汛应急响应提升至三级",
@@ -4049,14 +4089,6 @@
       "onboard_time": 1719204740,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 156174,
-      "num": 156174,
-      "word": "痛经越来越疼要小心巧克力囊肿",
-      "onboard_time": 1719241520,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 155497,
@@ -4297,14 +4329,6 @@
       "onboard_time": 1719061158,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 143631,
-      "num": 140047,
-      "word": "何洁听尚雯婕哭了",
-      "onboard_time": 1719242001,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 142720,
@@ -4892,7 +4916,7 @@
     },
     {
       "raw_hot": 116635,
-      "num": 127604,
+      "num": 127779,
       "word": "为何前列腺癌一发现就是晚期",
       "onboard_time": 1719241520,
       "rank": 48,
@@ -5033,14 +5057,6 @@
       "onboard_time": 1719129318,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111409,
-      "num": 127085,
-      "word": "韩国起火电池厂员工多来自东北朝鲜族",
-      "onboard_time": 1719242359,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110648,
@@ -5297,6 +5313,14 @@
       "onboard_time": 1719161175,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98671,
+      "num": 127679,
+      "word": "江苏2024年高考一分一段表",
+      "onboard_time": 1719240020,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 98120,
@@ -5947,6 +5971,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34820,
+      "num": 423580,
+      "word": "他扎进冰凉的河水半小时保住1200亩农田",
+      "onboard_time": 1719242600,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34725,
       "num": 509045,
       "word": "AI时代学翻译还有什么用",
@@ -6139,6 +6171,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 21032,
+      "num": 385003,
+      "word": "刘震云微观说河南人",
+      "onboard_time": 1719241280,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 20967,
       "num": 99688,
       "word": "四喜丸子围坐狂炫生日餐仪式感满满",
@@ -6249,14 +6289,6 @@
       "onboard_time": 1719074536,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 14845,
-      "num": 385003,
-      "word": "刘震云微观说河南人",
-      "onboard_time": 1719241280,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14405,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1719243336174,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555779,
+        "num": 1555779,
+        "word": "尚雯婕冠军",
+        "onboard_time": 1719241520,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 853106,
+        "num": 853106,
+        "word": "到底啥是city不city啊",
+        "onboard_time": 1719240620,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57822,
+        "num": 805310,
+        "word": "收下这份暴雨天避险自救指南",
+        "onboard_time": 1719237441,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1554942,
+        "num": 800324,
+        "word": "杜江霍思燕收养实验犬",
+        "onboard_time": 1719238520,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776860,
+        "num": 776860,
+        "word": "韩方通报遇难中国公民增至19人",
+        "onboard_time": 1719230598,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574474,
+        "num": 574474,
+        "word": "唐尚珺高考成绩",
+        "onboard_time": 1719236720,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 568381,
+        "num": 568381,
+        "word": "韩雪 难听",
+        "onboard_time": 1719231500,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 498984,
+        "num": 498984,
+        "word": "靳梦佳救场",
+        "onboard_time": 1719239420,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 427098,
+        "num": 427098,
+        "word": "酒桌上发出5.2万红包后悔了能要回吗",
+        "onboard_time": 1719238760,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34820,
+        "num": 423580,
+        "word": "他扎进冰凉的河水半小时保住1200亩农田",
+        "onboard_time": 1719242600,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 894504,
+        "num": 417769,
+        "word": "女子与男友发生关系后诬告对方强奸",
+        "onboard_time": 1719231140,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487920,
+        "num": 403167,
+        "word": "林一回应和刘亦菲合作",
+        "onboard_time": 1719241280,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482509,
+        "num": 397206,
+        "word": "辉子失误",
+        "onboard_time": 1719242240,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392739,
+        "num": 392739,
+        "word": "A股大跌",
+        "onboard_time": 1719240321,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 21032,
+        "num": 374311,
+        "word": "刘震云微观说河南人",
+        "onboard_time": 1719241280,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 366831,
+        "num": 366831,
+        "word": "韩方向中方表示哀悼",
+        "onboard_time": 1719238760,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378855,
+        "num": 358000,
+        "word": "刘亦菲喝了黄玫瑰拿铁",
+        "onboard_time": 1719242121,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343031,
+        "num": 343031,
+        "word": "长沙1小时下了54个西湖",
+        "onboard_time": 1719220640,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319968,
+        "num": 319968,
+        "word": "江苏高考689分及以上107人",
+        "onboard_time": 1719236000,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240187,
+        "num": 240187,
+        "word": "韩国起火电池厂员工多来自东北朝鲜族",
+        "onboard_time": 1719242359,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364974,
+        "num": 240165,
+        "word": "轻断食五天瘦了11斤",
+        "onboard_time": 1719225439,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 296006,
+        "num": 240148,
+        "word": "榴莲的叶酸含量是苹果的30倍",
+        "onboard_time": 1719236360,
+        "rank": 21,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 292159,
+        "num": 240134,
+        "word": "唐治平疑似精神失常",
+        "onboard_time": 1719240921,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266267,
+        "num": 240102,
+        "word": "终于有了一部全女主的剧",
+        "onboard_time": 1719218899,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260951,
+        "num": 240089,
+        "word": "陈昊宇发言",
+        "onboard_time": 1719235819,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260076,
+        "num": 240052,
+        "word": "王星越一把抱起了前夫哥",
+        "onboard_time": 1719242180,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240046,
+        "num": 240046,
+        "word": "痛经越来越疼要小心巧克力囊肿",
+        "onboard_time": 1719241520,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224893,
+        "num": 224893,
+        "word": "月薪四千开始从孩子身上降本增效",
+        "onboard_time": 1719232101,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204308,
+        "num": 204308,
+        "word": "金智秀巴黎大秀造型",
+        "onboard_time": 1719239420,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187650,
+        "num": 187650,
+        "word": "长相思2定档",
+        "onboard_time": 1719221421,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183280,
+        "num": 183280,
+        "word": "沈泉锐直播",
+        "onboard_time": 1719242960,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182768,
+        "num": 182768,
+        "word": "陈丽君 投票",
+        "onboard_time": 1719229698,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176862,
+        "num": 176862,
+        "word": "EXO成员去了张艺兴演唱会",
+        "onboard_time": 1719234620,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175508,
+        "num": 175508,
+        "word": "网传荣梓杉高考成绩417分",
+        "onboard_time": 1719220520,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143073,
+        "num": 143073,
+        "word": "中方对波兰公民实施15日单方面免签",
+        "onboard_time": 1719235103,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168907,
+        "num": 141393,
+        "word": "新说唱",
+        "onboard_time": 1719242659,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165058,
+        "num": 140438,
+        "word": "某韩国男星性侵18岁女学生",
+        "onboard_time": 1719217519,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137122,
+        "num": 137122,
+        "word": "女性一生中月经的次数变化",
+        "onboard_time": 1719232039,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131674,
+        "num": 131674,
+        "word": "保时捷降价了",
+        "onboard_time": 1719231559,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128756,
+        "num": 128756,
+        "word": "大四女生退学后复读5个月考641分",
+        "onboard_time": 1719223520,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163961,
+        "num": 128700,
+        "word": "白夜追凶2过审了",
+        "onboard_time": 1719239842,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162143,
+        "num": 128531,
+        "word": "大奉打更人",
+        "onboard_time": 1719225559,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160022,
+        "num": 128520,
+        "word": "何洁听尚雯婕哭了",
+        "onboard_time": 1719242001,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142540,
+        "num": 128352,
+        "word": "刘烨主持",
+        "onboard_time": 1719234860,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134407,
+        "num": 128214,
+        "word": "李晋晔哽咽回应歌手争议",
+        "onboard_time": 1719228918,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107543,
+        "num": 128056,
+        "word": "橘子洲被淹一半是假的",
+        "onboard_time": 1719233422,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103427,
+        "num": 128028,
+        "word": "隔夜西瓜吃前需切掉1厘米",
+        "onboard_time": 1719229219,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 141823,
+        "num": 127911,
+        "word": "都投了尚雯婕",
+        "onboard_time": 1719230240,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101727,
+        "num": 127779,
+        "word": "为何前列腺癌一发现就是晚期",
+        "onboard_time": 1719241520,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 98671,
+        "num": 127679,
+        "word": "江苏2024年高考一分一段表",
+        "onboard_time": 1719240020,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
