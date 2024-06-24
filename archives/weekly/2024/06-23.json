@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719207319556,
+  "endTime": 1719210418967,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 934212,
+      "num": 934212,
+      "word": "女生复读一年高考涨了150分",
+      "onboard_time": 1719205879,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 933631,
       "num": 933631,
       "word": "任嘉伦 欢瑞",
@@ -491,6 +499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 676025,
+      "num": 676025,
+      "word": "李梦评论玫瑰的故事相关微博",
+      "onboard_time": 1719208458,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 667299,
       "num": 667299,
       "word": "李梦穿搭",
@@ -593,6 +609,14 @@
       "onboard_time": 1719116358,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 575823,
+      "num": 290855,
+      "word": "迪丽热巴搭陈飞宇",
+      "onboard_time": 1719207739,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 565976,
@@ -811,6 +835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 477084,
+      "num": 311623,
+      "word": "没认出来这居然是娜扎",
+      "onboard_time": 1719205400,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 471350,
       "num": 279785,
       "word": "妈妈有钱和爸爸有钱的区别",
@@ -907,14 +939,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 451214,
-      "num": 311623,
-      "word": "没认出来这居然是娜扎",
-      "onboard_time": 1719205400,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 451100,
       "num": 451100,
       "word": "汪苏泷开场就大合唱",
@@ -961,6 +985,14 @@
       "onboard_time": 1719193816,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434692,
+      "num": 284980,
+      "word": "将门毒后谁演",
+      "onboard_time": 1719209119,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 431966,
@@ -1089,6 +1121,14 @@
       "onboard_time": 1719139818,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404602,
+      "num": 283549,
+      "word": "张小斐 MiuMiu",
+      "onboard_time": 1719209418,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 403654,
@@ -1515,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294623,
+      "num": 213875,
+      "word": "查分后怒发了一个朋友圈",
+      "onboard_time": 1719206539,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292741,
       "num": 292741,
       "word": "权志龙说BIGBANG现在只有三个人",
@@ -1545,14 +1593,6 @@
       "onboard_time": 1719184514,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285167,
-      "num": 285167,
-      "word": "女生复读一年高考涨了150分",
-      "onboard_time": 1719205879,
-      "rank": 34,
-      "category": "教育"
     },
     {
       "raw_hot": 277999,
@@ -1723,14 +1763,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 238799,
-      "num": 213875,
-      "word": "查分后怒发了一个朋友圈",
-      "onboard_time": 1719206539,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 238791,
       "num": 85241,
       "word": "汪苏泷终于唱巴赫旧约了",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1719109876,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236398,
+      "num": 162562,
+      "word": "月经不规律或是身体发出的求救信号",
+      "onboard_time": 1719207260,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 235199,
@@ -1825,6 +1865,14 @@
       "onboard_time": 1719119839,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 228531,
+      "num": 161080,
+      "word": "猎罪图鉴2张局还是秦海璐",
+      "onboard_time": 1719208938,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 228363,
@@ -1961,6 +2009,14 @@
       "onboard_time": 1719202099,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209562,
+      "num": 157547,
+      "word": "威廉王子一家成功追星霉霉",
+      "onboard_time": 1719208458,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 209069,
@@ -2129,6 +2185,14 @@
       "onboard_time": 1719111618,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 198643,
+      "num": 198643,
+      "word": "王者新赛季",
+      "onboard_time": 1719207437,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 198333,
@@ -2475,6 +2539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 172968,
+      "num": 154373,
+      "word": "流水迢迢预告",
+      "onboard_time": 1719210197,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172807,
       "num": 172807,
       "word": "31省份高考查分时间汇总",
@@ -2739,6 +2811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152829,
+      "num": 152829,
+      "word": "汪苏泷三个半小时唱41首歌",
+      "onboard_time": 1719207499,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 152644,
       "num": 152644,
       "word": "2024年四川高考分数线",
@@ -2987,6 +3067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138809,
+      "num": 138809,
+      "word": "原来这些歌都是于正写的",
+      "onboard_time": 1719207919,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138670,
       "num": 138670,
       "word": "刘忻赵兆编曲分歧",
@@ -3136,6 +3224,14 @@
       "word": "罗云熙是有和飞禽拍戏的KPI吗",
       "onboard_time": 1719156678,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128728,
+      "num": 128728,
+      "word": "于正回应王星越吴谨言二搭",
+      "onboard_time": 1719209897,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -3691,6 +3787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101574,
+      "num": 228058,
+      "word": "85岁院士留学时创的纪录至今无人超越",
+      "onboard_time": 1719207139,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101093,
       "num": 192143,
       "word": "云边有个小卖部",
@@ -3979,14 +4083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77702,
-      "num": 131750,
-      "word": "月经不规律或是身体发出的求救信号",
-      "onboard_time": 1719207260,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 76869,
       "num": 76869,
       "word": "能驯服巨蟹的星座都有谁",
@@ -4027,6 +4123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71846,
+      "num": 293160,
+      "word": "浙江杨梅太卷了",
+      "onboard_time": 1719208997,
+      "rank": 9,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 71168,
       "num": 337099,
       "word": "小哥接到女子代买敌敌畏订单立马报警",
@@ -4057,14 +4161,6 @@
       "onboard_time": 1719073277,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67448,
-      "num": 228058,
-      "word": "85岁院士留学时创的纪录至今无人超越",
-      "onboard_time": 1719207139,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 66586,
@@ -4235,20 +4331,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47425,
+      "num": 206822,
+      "word": "暴雨防范科普手卡",
+      "onboard_time": 1719206718,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46189,
       "num": 47532,
       "word": "菲常萧张已he求放过",
       "onboard_time": 1719079333,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43093,
-      "num": 206822,
-      "word": "暴雨防范科普手卡",
-      "onboard_time": 1719206718,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42858,
@@ -4561,6 +4657,14 @@
       "onboard_time": 1719087012,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16443,
+      "num": 1045907,
+      "word": "铸牢共同体中华一家亲",
+      "onboard_time": 1719210197,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15618,

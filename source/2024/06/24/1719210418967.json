@@ -1,0 +1,410 @@
+{
+  "runTime": 1719210418967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1393231,
+        "num": 1393231,
+        "word": "腾讯今天官宣好多剧",
+        "onboard_time": 1719198378,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1167327,
+        "num": 1167327,
+        "word": "浙大百万网红陈娴称曾遭遇同学质疑",
+        "onboard_time": 1719201921,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16443,
+        "num": 1045907,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1719210197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934212,
+        "num": 934212,
+        "word": "女生复读一年高考涨了150分",
+        "onboard_time": 1719205879,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 676025,
+        "num": 676025,
+        "word": "李梦评论玫瑰的故事相关微博",
+        "onboard_time": 1719208458,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446893,
+        "num": 446893,
+        "word": "司机不知情下备胎内被藏毒92斤",
+        "onboard_time": 1719195077,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630719,
+        "num": 443727,
+        "word": "迪丽热巴亮片高定",
+        "onboard_time": 1719206358,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 439757,
+        "num": 439757,
+        "word": "长沙暴雨",
+        "onboard_time": 1719196037,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294433,
+        "num": 294433,
+        "word": "长沙地铁",
+        "onboard_time": 1719202400,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71846,
+        "num": 293160,
+        "word": "浙江杨梅太卷了",
+        "onboard_time": 1719208997,
+        "rank": 9,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 811371,
+        "num": 291904,
+        "word": "郭碧婷米饭过敏",
+        "onboard_time": 1719201319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 575823,
+        "num": 290855,
+        "word": "迪丽热巴搭陈飞宇",
+        "onboard_time": 1719207739,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560381,
+        "num": 287788,
+        "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+        "onboard_time": 1719197058,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445897,
+        "num": 286694,
+        "word": "易烊千玺成为奥林匹克之友",
+        "onboard_time": 1719204801,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 434692,
+        "num": 284980,
+        "word": "将门毒后谁演",
+        "onboard_time": 1719209119,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404602,
+        "num": 283549,
+        "word": "张小斐 MiuMiu",
+        "onboard_time": 1719209418,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282089,
+        "num": 282089,
+        "word": "高考分数线",
+        "onboard_time": 1719200659,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 223357,
+        "num": 223357,
+        "word": "福建高考查分",
+        "onboard_time": 1719206718,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198643,
+        "num": 198643,
+        "word": "王者新赛季",
+        "onboard_time": 1719207437,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170250,
+        "num": 170250,
+        "word": "学生高考710分老师瞬间沸腾",
+        "onboard_time": 1719190698,
+        "rank": 19,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 47425,
+        "num": 169067,
+        "word": "暴雨防范科普手卡",
+        "onboard_time": 1719206718,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477084,
+        "num": 168016,
+        "word": "没认出来这居然是娜扎",
+        "onboard_time": 1719205400,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 439367,
+        "num": 167316,
+        "word": "张雪峰说分数低就不要既要又要了",
+        "onboard_time": 1719199098,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 300788,
+        "num": 165781,
+        "word": "毕业两年室友做美甲挣了八十万",
+        "onboard_time": 1719196396,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 294623,
+        "num": 164990,
+        "word": "查分后怒发了一个朋友圈",
+        "onboard_time": 1719206539,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242352,
+        "num": 163976,
+        "word": "李梦穿搭",
+        "onboard_time": 1719192917,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236398,
+        "num": 162562,
+        "word": "月经不规律或是身体发出的求救信号",
+        "onboard_time": 1719207260,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 228531,
+        "num": 161080,
+        "word": "猎罪图鉴2张局还是秦海璐",
+        "onboard_time": 1719208938,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218169,
+        "num": 160537,
+        "word": "独身女人官宣唐嫣赵又廷",
+        "onboard_time": 1719201200,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228058,
+        "num": 158747,
+        "word": "猎罪图鉴2首宣",
+        "onboard_time": 1719193576,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209562,
+        "num": 157547,
+        "word": "威廉王子一家成功追星霉霉",
+        "onboard_time": 1719208458,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192843,
+        "num": 156191,
+        "word": "山寨周杰伦开演唱会引发歌迷抵制",
+        "onboard_time": 1719203661,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191499,
+        "num": 155256,
+        "word": "长相思2",
+        "onboard_time": 1719186497,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172968,
+        "num": 154373,
+        "word": "流水迢迢预告",
+        "onboard_time": 1719210197,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153407,
+        "num": 153407,
+        "word": "高考弟弟考了588分想复读",
+        "onboard_time": 1719184275,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 162058,
+        "num": 153214,
+        "word": "利剑玫瑰",
+        "onboard_time": 1719205100,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152829,
+        "num": 152829,
+        "word": "汪苏泷三个半小时唱41首歌",
+        "onboard_time": 1719207499,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138809,
+        "num": 138809,
+        "word": "原来这些歌都是于正写的",
+        "onboard_time": 1719207919,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138005,
+        "num": 138005,
+        "word": "韩国又发生一起酒店性犯罪案",
+        "onboard_time": 1719202339,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137560,
+        "num": 137560,
+        "word": "中央气象台今年首个暴雨红色预警",
+        "onboard_time": 1719201380,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138021,
+        "num": 137298,
+        "word": "ZICO否认传闻",
+        "onboard_time": 1719202219,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134223,
+        "num": 134223,
+        "word": "聊天是一种假性亲密",
+        "onboard_time": 1719205640,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131795,
+        "num": 131795,
+        "word": "鹅剧派对",
+        "onboard_time": 1719196696,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128728,
+        "num": 128728,
+        "word": "于正回应王星越吴谨言二搭",
+        "onboard_time": 1719209897,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127359,
+        "num": 127359,
+        "word": "在一线城市合租打工最怕家人来探望",
+        "onboard_time": 1719205221,
+        "rank": 44,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 104566,
+        "num": 104566,
+        "word": "长沙地铁2号3号线因暴雨停运",
+        "onboard_time": 1719203181,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104190,
+        "num": 104190,
+        "word": "我用19年证明高考不能决定人生",
+        "onboard_time": 1719190158,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101574,
+        "num": 101574,
+        "word": "85岁院士留学时创的纪录至今无人超越",
+        "onboard_time": 1719207139,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124328,
+        "num": 101441,
+        "word": "李梦说吴谨言是个潮妹",
+        "onboard_time": 1719203480,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97995,
+        "num": 101248,
+        "word": "长沙防汛应急响应提升至三级",
+        "onboard_time": 1719203781,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#青海宁夏之行总书记关注这条主线#"
+    }
+  }
+}

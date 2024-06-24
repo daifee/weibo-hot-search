@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 13:35:19
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/24 14:26:58
 </p>
 </blockquote>
 <p>
@@ -3711,6 +3711,12 @@ iPhone16全系尺寸曝光（热度：968426）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%A4%8D%E8%AF%BB%E4%B8%80%E5%B9%B4%E9%AB%98%E8%80%83%E6%B6%A8%E4%BA%86150%E5%88%86%23" target="weibo">
+女生复读一年高考涨了150分（热度：934212）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%8B%E5%85%AC%E4%BA%A4%E8%A2%AB%E5%A4%B9%E6%8B%96%E8%A1%8C%E8%BA%AB%E4%BA%A1%23" target="weibo">
 老人下公交被夹拖行身亡（热度：934000）
 </a>
@@ -6005,12 +6011,6 @@ Selina谈到男友哭了（热度：697166）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%8C%E6%BF%80%E7%B4%A0%E9%99%8D%E4%BD%8E%E7%A1%AE%E5%AE%9E%E4%BC%9A%E5%82%AC%E4%BA%BA%E8%80%81%23" target="weibo">
 雌激素降低确实会催人老（热度：691788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E5%BD%93%E4%BC%B4%E9%83%8E%23" target="weibo">
-张翰当伴郎（热度：690029）
 </a>
 </li>
 
