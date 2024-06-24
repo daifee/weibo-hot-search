@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719264885580,
+  "endTime": 1719267569323,
   "band_list": [
     {
       "raw_hot": 1186042,
@@ -443,6 +443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 41911,
+      "num": 38830,
+      "word": "长相思男团穿西装不告诉邓为",
+      "onboard_time": 1719258791,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 40608,
       "num": 32350,
       "word": "我不是小太阳啊",
@@ -459,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31285,
-      "num": 31285,
-      "word": "长相思男团穿西装不告诉邓为",
-      "onboard_time": 1719258791,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 29132,
       "num": 34474,
       "word": "李晋晔哽咽回应歌手争议",
@@ -481,6 +481,22 @@
       "onboard_time": 1719251713,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 25043,
+      "num": 25043,
+      "word": "小狗在小猪崽中混吃混喝",
+      "onboard_time": 1719264371,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25042,
+      "num": 25042,
+      "word": "注射药物的时候看下药物名",
+      "onboard_time": 1719261850,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 24700,
@@ -507,12 +523,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18604,
-      "num": 18604,
-      "word": "注射药物的时候看下药物名",
-      "onboard_time": 1719261850,
-      "rank": 45,
-      "category": "健康医疗"
+      "raw_hot": 17982,
+      "num": 150487,
+      "word": "高铁火箭飞机的发展都与这门专业相关",
+      "onboard_time": 1719236360,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15902,
@@ -528,14 +544,6 @@
       "word": "复读女生获理想分数父亲激动落泪",
       "onboard_time": 1719246316,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15197,
-      "num": 150487,
-      "word": "高铁火箭飞机的发展都与这门专业相关",
-      "onboard_time": 1719236360,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
