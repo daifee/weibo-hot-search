@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719197160801,
+  "endTime": 1719199300453,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -51,12 +51,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1908080,
+      "num": 1908080,
+      "word": "司机不知情下备胎内被藏毒92斤",
+      "onboard_time": 1719195077,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1830190,
       "num": 1830190,
       "word": "女生高考查分669激动掩面哭泣",
       "onboard_time": 1719109218,
       "rank": 3,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1765198,
+      "num": 1765198,
+      "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+      "onboard_time": 1719197058,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 1707973,
@@ -153,14 +169,6 @@
       "onboard_time": 1719190158,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1166848,
-      "num": 1166848,
-      "word": "司机不知情下备胎内被藏毒92斤",
-      "onboard_time": 1719195077,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1152737,
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643621,
+      "num": 272438,
+      "word": "毕业两年室友做美甲挣了八十万",
+      "onboard_time": 1719196396,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 639843,
       "num": 639843,
       "word": "李海仁",
@@ -507,11 +523,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 604891,
+      "num": 604891,
+      "word": "长沙暴雨",
+      "onboard_time": 1719196037,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601494,
       "num": 601494,
       "word": "吴谨言没想到叼玉佩成名场面",
       "onboard_time": 1719116358,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 584358,
+      "num": 584358,
+      "word": "腾讯今天官宣好多剧",
+      "onboard_time": 1719198378,
+      "rank": 8,
       "category": "剧集"
     },
     {
@@ -835,6 +867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 437821,
+      "num": 437821,
+      "word": "一毕业就有3年工作经验的应届生",
+      "onboard_time": 1719193816,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431442,
       "num": 421367,
       "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
@@ -953,14 +993,6 @@
       "onboard_time": 1719139818,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 407172,
-      "num": 272438,
-      "word": "毕业两年室友做美甲挣了八十万",
-      "onboard_time": 1719196396,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 403654,
@@ -1187,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330283,
-      "num": 330283,
-      "word": "一毕业就有3年工作经验的应届生",
-      "onboard_time": 1719193816,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 328416,
       "num": 232172,
       "word": "于正你是懂番外的",
@@ -1283,20 +1307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309491,
+      "num": 196647,
+      "word": "永夜星河好大一个虞书欣",
+      "onboard_time": 1719197958,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308945,
       "num": 308945,
       "word": "减肥误食了6个蛋挞",
       "onboard_time": 1719152001,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 308094,
-      "num": 308094,
-      "word": "长沙暴雨",
-      "onboard_time": 1719196037,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 307821,
@@ -1577,6 +1601,14 @@
       "onboard_time": 1719110298,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231337,
+      "num": 191777,
+      "word": "檀健次李兰迪滤镜海报",
+      "onboard_time": 1719197898,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 230915,
@@ -1947,6 +1979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 188304,
+      "num": 188304,
+      "word": "锦绣安宁",
+      "onboard_time": 1719198739,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187437,
       "num": 187437,
       "word": "白鹿新剧路透",
@@ -2051,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182491,
+      "num": 182491,
+      "word": "这么爽的班到底是谁在上",
+      "onboard_time": 1719189078,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 180364,
       "num": 180364,
       "word": "度华年 先婚后爱",
@@ -2121,14 +2169,6 @@
       "onboard_time": 1719134718,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174523,
-      "num": 174523,
-      "word": "这么爽的班到底是谁在上",
-      "onboard_time": 1719189078,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 173855,
@@ -2243,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165657,
+      "num": 165657,
+      "word": "困在职场的35岁女性决定去考公",
+      "onboard_time": 1719197597,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164330,
       "num": 91883,
       "word": "2024多地高考成绩今日可查",
@@ -2345,6 +2393,14 @@
       "onboard_time": 1719069199,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 152876,
+      "num": 208985,
+      "word": "剑网三",
+      "onboard_time": 1719197237,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 152644,
@@ -2553,6 +2609,22 @@
       "onboard_time": 1719131417,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 140282,
+      "num": 140282,
+      "word": "长沙发布暴雨红色预警",
+      "onboard_time": 1719198378,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138842,
+      "num": 138842,
+      "word": "黄亦玫永远自由永远热烈",
+      "onboard_time": 1719196577,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 138670,
@@ -2771,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125660,
+      "num": 125660,
+      "word": "TheShy问Ning王LNG走后门事件",
+      "onboard_time": 1719199278,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125546,
       "num": 125546,
       "word": "梁永棋回应演前夫哥",
@@ -2841,14 +2921,6 @@
       "onboard_time": 1719048257,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121467,
-      "num": 121467,
-      "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
-      "onboard_time": 1719197058,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 120806,
@@ -2937,6 +3009,14 @@
       "onboard_time": 1719120139,
       "rank": 45,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 117870,
+      "num": 117870,
+      "word": "成为老师必经的几个步骤",
+      "onboard_time": 1719197717,
+      "rank": 42,
+      "category": "科学科普"
     },
     {
       "raw_hot": 116685,
@@ -3041,6 +3121,14 @@
       "onboard_time": 1719142277,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112632,
+      "num": 116135,
+      "word": "李德仁薛其坤获国家最高科学技术奖",
+      "onboard_time": 1719198258,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112385,
@@ -3171,14 +3259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104870,
-      "num": 104870,
-      "word": "黄亦玫永远自由永远热烈",
-      "onboard_time": 1719196577,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104853,
       "num": 101408,
       "word": "成毅白背心",
@@ -3233,6 +3313,14 @@
       "onboard_time": 1719131177,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101914,
+      "num": 116129,
+      "word": "张雪峰说分数低就不要既要又要了",
+      "onboard_time": 1719199098,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 101093,
@@ -3427,6 +3515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86503,
+      "num": 116115,
+      "word": "4名钓友路亚江鱼卖给饭店均获刑",
+      "onboard_time": 1719199157,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84494,
       "num": 84494,
       "word": "菲律宾蓄意闹海",
@@ -3476,7 +3572,7 @@
     },
     {
       "raw_hot": 79613,
-      "num": 1126441,
+      "num": 1136045,
       "word": "为什么说宁夏是一个宝藏",
       "onboard_time": 1719152959,
       "rank": 36,
@@ -3617,6 +3713,14 @@
       "onboard_time": 1719051077,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 62488,
+      "num": 564250,
+      "word": "直播间叫卖古董为何让老人深信不疑",
+      "onboard_time": 1719198378,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62208,

@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719197160801,
+  "endTime": 1719199300453,
   "band_list": [
     {
       "raw_hot": 2396856,
@@ -9,6 +9,22 @@
       "onboard_time": 1719187938,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1908080,
+      "num": 1908080,
+      "word": "司机不知情下备胎内被藏毒92斤",
+      "onboard_time": 1719195077,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1765198,
+      "num": 1765198,
+      "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+      "onboard_time": 1719197058,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 1609804,
@@ -33,14 +49,6 @@
       "onboard_time": 1719190158,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1166848,
-      "num": 1166848,
-      "word": "司机不知情下备胎内被藏毒92斤",
-      "onboard_time": 1719195077,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1045788,
@@ -139,12 +147,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 643621,
+      "num": 272438,
+      "word": "毕业两年室友做美甲挣了八十万",
+      "onboard_time": 1719196396,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 640402,
       "num": 640402,
       "word": "iPhone16全系尺寸曝光",
       "onboard_time": 1719152301,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 604891,
+      "num": 604891,
+      "word": "长沙暴雨",
+      "onboard_time": 1719196037,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 584358,
+      "num": 584358,
+      "word": "腾讯今天官宣好多剧",
+      "onboard_time": 1719198378,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 565976,
@@ -251,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 437821,
+      "num": 437821,
+      "word": "一毕业就有3年工作经验的应届生",
+      "onboard_time": 1719193816,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 431442,
       "num": 421367,
       "word": "俄罗斯达吉斯坦恐袭事件致9死25伤",
@@ -307,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 407172,
-      "num": 272438,
-      "word": "毕业两年室友做美甲挣了八十万",
-      "onboard_time": 1719196396,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 402579,
       "num": 402579,
       "word": "汪苏泷回应上歌手碎了",
@@ -347,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 330283,
-      "num": 330283,
-      "word": "一毕业就有3年工作经验的应届生",
-      "onboard_time": 1719193816,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 315117,
       "num": 230020,
       "word": "刘亦菲机长造型",
@@ -363,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 308094,
-      "num": 308094,
-      "word": "长沙暴雨",
-      "onboard_time": 1719196037,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 309491,
+      "num": 196647,
+      "word": "永夜星河好大一个虞书欣",
+      "onboard_time": 1719197958,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 307821,
@@ -499,6 +523,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 231337,
+      "num": 191777,
+      "word": "檀健次李兰迪滤镜海报",
+      "onboard_time": 1719197898,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230724,
       "num": 220370,
       "word": "肖战饭制互动游戏正式上线",
@@ -571,12 +603,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188304,
+      "num": 188304,
+      "word": "锦绣安宁",
+      "onboard_time": 1719198739,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184733,
       "num": 184733,
       "word": "梁实第28次高考未达二本线",
       "onboard_time": 1719185055,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182491,
+      "num": 182491,
+      "word": "这么爽的班到底是谁在上",
+      "onboard_time": 1719189078,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 179134,
@@ -595,20 +643,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 174523,
-      "num": 174523,
-      "word": "这么爽的班到底是谁在上",
-      "onboard_time": 1719189078,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 172828,
       "num": 172828,
       "word": "王源听到结婚的反应",
       "onboard_time": 1719150019,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165657,
+      "num": 165657,
+      "word": "困在职场的35岁女性决定去考公",
+      "onboard_time": 1719197597,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163630,
@@ -635,6 +683,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 152876,
+      "num": 208985,
+      "word": "剑网三",
+      "onboard_time": 1719197237,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151206,
       "num": 151206,
       "word": "林俊杰我的刘海还好吗",
@@ -659,12 +715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140282,
+      "num": 140282,
+      "word": "长沙发布暴雨红色预警",
+      "onboard_time": 1719198378,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139583,
       "num": 139583,
       "word": "鹿晗演唱会背影图",
       "onboard_time": 1719153080,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138842,
+      "num": 138842,
+      "word": "黄亦玫永远自由永远热烈",
+      "onboard_time": 1719196577,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 137094,
@@ -739,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 125660,
+      "num": 125660,
+      "word": "TheShy问Ning王LNG走后门事件",
+      "onboard_time": 1719199278,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125373,
       "num": 125373,
       "word": "女生请校长给她的小熊也拔穗",
@@ -763,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121467,
-      "num": 121467,
-      "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
-      "onboard_time": 1719197058,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118934,
       "num": 118934,
       "word": "常吃这4类食物肚子最容易长肉",
@@ -779,11 +851,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 117870,
+      "num": 117870,
+      "word": "成为老师必经的几个步骤",
+      "onboard_time": 1719197717,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 116050,
       "num": 109768,
       "word": "男生查分被屏蔽淡定向家人报喜",
       "onboard_time": 1719172270,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112632,
+      "num": 116135,
+      "word": "李德仁薛其坤获国家最高科学技术奖",
+      "onboard_time": 1719198258,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -811,14 +899,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 104870,
-      "num": 104870,
-      "word": "黄亦玫永远自由永远热烈",
-      "onboard_time": 1719196577,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104696,
       "num": 104696,
       "word": "宋雨琦去SuperJunior演唱会",
@@ -833,6 +913,14 @@
       "onboard_time": 1719152001,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101914,
+      "num": 116129,
+      "word": "张雪峰说分数低就不要既要又要了",
+      "onboard_time": 1719199098,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 98675,
@@ -899,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86503,
+      "num": 116115,
+      "word": "4名钓友路亚江鱼卖给饭店均获刑",
+      "onboard_time": 1719199157,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84494,
       "num": 84494,
       "word": "菲律宾蓄意闹海",
@@ -948,7 +1044,7 @@
     },
     {
       "raw_hot": 79613,
-      "num": 1126441,
+      "num": 1136045,
       "word": "为什么说宁夏是一个宝藏",
       "onboard_time": 1719152959,
       "rank": 2,
@@ -985,6 +1081,14 @@
       "onboard_time": 1719177790,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62488,
+      "num": 564250,
+      "word": "直播间叫卖古董为何让老人深信不疑",
+      "onboard_time": 1719198378,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 60449,
