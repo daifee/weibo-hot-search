@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719243336174,
+  "endTime": 1719246220348,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -811,6 +811,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 654572,
+      "num": 397206,
+      "word": "辉子失误",
+      "onboard_time": 1719242240,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 653581,
       "num": 653581,
       "word": "江苏分数线",
@@ -1235,14 +1243,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 482509,
-      "num": 397206,
-      "word": "辉子失误",
-      "onboard_time": 1719242240,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 479025,
       "num": 479025,
       "word": "河北分数线",
@@ -1393,6 +1393,14 @@
       "onboard_time": 1719124698,
       "rank": 11,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 447428,
+      "num": 358000,
+      "word": "刘亦菲喝了黄玫瑰拿铁",
+      "onboard_time": 1719242121,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 445038,
@@ -1787,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 378855,
-      "num": 358000,
-      "word": "刘亦菲喝了黄玫瑰拿铁",
-      "onboard_time": 1719242121,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 377439,
       "num": 377439,
       "word": "张婧仪高定绿裙",
@@ -1961,6 +1961,14 @@
       "onboard_time": 1719126617,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 337620,
+      "num": 173506,
+      "word": "发现导师朋友圈只屏蔽了我",
+      "onboard_time": 1719243859,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 337423,
@@ -2283,6 +2291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 283320,
+      "num": 283320,
+      "word": "韩国起火电池厂员工多来自东北朝鲜族",
+      "onboard_time": 1719242359,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281756,
       "num": 245209,
       "word": "女性一生中月经的次数变化",
@@ -2571,14 +2587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 240187,
-      "num": 240187,
-      "word": "韩国起火电池厂员工多来自东北朝鲜族",
-      "onboard_time": 1719242359,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 240046,
       "num": 240046,
       "word": "痛经越来越疼要小心巧克力囊肿",
@@ -2681,6 +2689,14 @@
       "onboard_time": 1719193276,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229287,
+      "num": 172452,
+      "word": "新说唱",
+      "onboard_time": 1719242659,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 228689,
@@ -3379,6 +3395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 189122,
+      "num": 170685,
+      "word": "易猝死的人有4个共同点",
+      "onboard_time": 1719243559,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 188304,
       "num": 188304,
       "word": "锦绣安宁",
@@ -3771,14 +3795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168907,
-      "num": 141393,
-      "word": "新说唱",
-      "onboard_time": 1719242659,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168385,
       "num": 168385,
       "word": "嫦娥六号 想念地球的蓝天白云",
@@ -3817,6 +3833,14 @@
       "onboard_time": 1719154640,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 168000,
+      "num": 168000,
+      "word": "山东卫视发了肖战",
+      "onboard_time": 1719244099,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 167935,
@@ -4193,6 +4217,14 @@
       "onboard_time": 1719211819,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150683,
+      "num": 150683,
+      "word": "向佐发16个问号问黄子韬",
+      "onboard_time": 1719243499,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 150164,
@@ -4625,6 +4657,14 @@
       "onboard_time": 1719189978,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127396,
+      "num": 127396,
+      "word": "大碗宽面组团魂4年后居然还在",
+      "onboard_time": 1719246077,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 127326,
@@ -5635,6 +5675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68852,
+      "num": 87915,
+      "word": "外国博主打卡北京带火city不city",
+      "onboard_time": 1719244398,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 67987,
       "num": 377481,
       "word": "39岁快递小哥双腿绑10斤沙袋送货",
@@ -5857,6 +5905,14 @@
       "onboard_time": 1719079333,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46011,
+      "num": 255652,
+      "word": "女生复读1年高考涨133分激动爆哭",
+      "onboard_time": 1719244459,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 42858,
