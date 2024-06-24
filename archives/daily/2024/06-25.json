@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719263918373,
+  "endTime": 1719264885580,
   "band_list": [
     {
       "raw_hot": 1186042,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31285,
+      "num": 31285,
+      "word": "长相思男团穿西装不告诉邓为",
+      "onboard_time": 1719258791,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 29132,
       "num": 34474,
       "word": "李晋晔哽咽回应歌手争议",
@@ -473,14 +481,6 @@
       "onboard_time": 1719251713,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 25346,
-      "num": 23488,
-      "word": "长相思男团穿西装不告诉邓为",
-      "onboard_time": 1719258791,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 24700,
@@ -507,8 +507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 16308,
-      "num": 17795,
+      "raw_hot": 18604,
+      "num": 18604,
       "word": "注射药物的时候看下药物名",
       "onboard_time": 1719261850,
       "rank": 45,
