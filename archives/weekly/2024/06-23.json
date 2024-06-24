@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719221695234,
+  "endTime": 1719224501130,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1871971,
+      "num": 1871971,
+      "word": "长沙1小时下了54个西湖",
+      "onboard_time": 1719220640,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1856093,
       "num": 1856093,
       "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
@@ -113,6 +121,14 @@
       "onboard_time": 1719201921,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1692690,
+      "num": 1692690,
+      "word": "长相思2定档",
+      "onboard_time": 1719221421,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1666872,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 1357065,
-      "num": 759448,
+      "num": 1060006,
       "word": "网传荣梓杉高考成绩417分",
       "onboard_time": 1719220520,
       "rank": 11,
@@ -475,19 +491,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 756608,
+      "num": 756608,
+      "word": "橘子洲",
+      "onboard_time": 1719222379,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 742402,
       "num": 742402,
       "word": "海蓝之谜柜姐被顾客泼水羞辱",
       "onboard_time": 1719152179,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 742206,
-      "num": 742206,
-      "word": "长沙1小时下了54个西湖",
-      "onboard_time": 1719220640,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -723,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604270,
+      "num": 604270,
+      "word": "河南分数线",
+      "onboard_time": 1719221717,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 601494,
       "num": 601494,
       "word": "吴谨言没想到叼玉佩成名场面",
@@ -945,14 +969,6 @@
       "onboard_time": 1719124759,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 491807,
-      "num": 491807,
-      "word": "长相思2定档",
-      "onboard_time": 1719221421,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 483696,
@@ -1315,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411853,
+      "num": 411853,
+      "word": "张若昀唐嫣首次合作",
+      "onboard_time": 1719221479,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407494,
       "num": 407494,
       "word": "四川文科一本529理科一本539",
@@ -1443,12 +1467,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375815,
+      "num": 291286,
+      "word": "胡锡进总亏损扩大到7.75万",
+      "onboard_time": 1719220460,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 374994,
       "num": 374994,
       "word": "Manner 倒计时",
       "onboard_time": 1719073277,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 374444,
+      "num": 374444,
+      "word": "终于有了一部全女主的剧",
+      "onboard_time": 1719218899,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 372017,
@@ -1601,14 +1641,6 @@
       "onboard_time": 1719120438,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337312,
-      "num": 266083,
-      "word": "终于有了一部全女主的剧",
-      "onboard_time": 1719218899,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 333174,
@@ -1843,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291286,
-      "num": 291286,
-      "word": "胡锡进总亏损扩大到7.75万",
-      "onboard_time": 1719220460,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 285924,
       "num": 285924,
       "word": "小伙吐槽360全家桶被投诉后秒认怂",
@@ -1873,6 +1897,14 @@
       "onboard_time": 1719184514,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 279483,
+      "num": 209548,
+      "word": "这哪里是追星 是找了个助理",
+      "onboard_time": 1719222440,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 278326,
@@ -1993,6 +2025,22 @@
       "onboard_time": 1719131000,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 259450,
+      "num": 202922,
+      "word": "杨紫凤冠造型",
+      "onboard_time": 1719224300,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 258421,
+      "num": 201671,
+      "word": "黄子弘凡 高考成绩UP",
+      "onboard_time": 1719222379,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 258087,
@@ -2203,6 +2251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229543,
+      "num": 470045,
+      "word": "薛其坤想让量子物理把世界变得更美好",
+      "onboard_time": 1719223159,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228689,
       "num": 246971,
       "word": "为何有些女性怀孕后还会规律来月经",
@@ -2251,6 +2307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224538,
+      "num": 169613,
+      "word": "王宝强十二年后回归剧圈",
+      "onboard_time": 1719224419,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224133,
       "num": 224133,
       "word": "EXO感情真好",
@@ -2291,11 +2355,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218601,
+      "num": 167036,
+      "word": "上一次被送到澹州还是范闲",
+      "onboard_time": 1719222800,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217661,
       "num": 187996,
       "word": "丽妃 真爱",
       "onboard_time": 1719103516,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216876,
+      "num": 166814,
+      "word": "长相思2预告好虐",
+      "onboard_time": 1719222200,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -2305,6 +2385,14 @@
       "onboard_time": 1719099193,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214997,
+      "num": 214997,
+      "word": "大四女生退学后复读5个月考641分",
+      "onboard_time": 1719223520,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 214145,
@@ -2321,6 +2409,14 @@
       "onboard_time": 1719210497,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214115,
+      "num": 147981,
+      "word": "小夭立牌",
+      "onboard_time": 1719223700,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 213746,
@@ -2443,6 +2539,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205213,
+      "num": 138030,
+      "word": "枭起青壤首发预告",
+      "onboard_time": 1719223099,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205055,
       "num": 205055,
       "word": "鹅剧派对",
@@ -2563,6 +2667,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200068,
+      "num": 137777,
+      "word": "唐嫣红毯压轴",
+      "onboard_time": 1719221959,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199552,
       "num": 199552,
       "word": "Wei回应不打了",
@@ -2631,6 +2743,14 @@
       "num": 195527,
       "word": "李一桐又演仙侠剧了",
       "onboard_time": 1719213018,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195313,
+      "num": 137490,
+      "word": "庄国栋总被人举报是杀猪盘",
+      "onboard_time": 1719222499,
       "rank": 42,
       "category": "剧集"
     },
@@ -2851,14 +2971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 183653,
-      "num": 183653,
-      "word": "张若昀唐嫣首次合作",
-      "onboard_time": 1719221479,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183637,
       "num": 183637,
       "word": "花莲海域4.9级地震",
@@ -2872,6 +2984,14 @@
       "word": "菲常萧张",
       "onboard_time": 1719214758,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182777,
+      "num": 137138,
+      "word": "度华年",
+      "onboard_time": 1719224300,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -3227,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161216,
+      "num": 161216,
+      "word": "山西高考分数线",
+      "onboard_time": 1719212358,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 161067,
       "num": 161067,
       "word": "宁夏文科一本分数线496理科432",
@@ -3320,14 +3448,6 @@
       "word": "夏季穿3种衣服让你更热",
       "onboard_time": 1719141617,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155444,
-      "num": 155444,
-      "word": "山西高考分数线",
-      "onboard_time": 1719212358,
-      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3571,6 +3691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142665,
+      "num": 142665,
+      "word": "恋与深空亲亲卡",
+      "onboard_time": 1719224359,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142515,
       "num": 142515,
       "word": "王一博登上世趋第一",
@@ -3731,6 +3859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132608,
+      "num": 584535,
+      "word": "你的高考成绩一定会惊艳整个盛夏",
+      "onboard_time": 1719220160,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 132049,
       "num": 132049,
       "word": "金毛的鱼被猫猫弄出鱼缸",
@@ -3753,6 +3889,14 @@
       "onboard_time": 1719121758,
       "rank": 38,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 130973,
+      "num": 130973,
+      "word": "张雪峰三连提醒高考查分看位次",
+      "onboard_time": 1719223400,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 130776,
@@ -4531,14 +4675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 95723,
-      "num": 584535,
-      "word": "你的高考成绩一定会惊艳整个盛夏",
-      "onboard_time": 1719220160,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 94237,
       "num": 422061,
       "word": "56个民族同唱一首歌再听依然感动",
@@ -4707,6 +4843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74568,
+      "num": 1272840,
+      "word": "致敬暴雨中的守护力量",
+      "onboard_time": 1719217759,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73644,
       "num": 131704,
       "word": "贵州茅台回应下跌",
@@ -4816,14 +4960,6 @@
       "word": "韩国一电池厂火灾20多人死亡",
       "onboard_time": 1719220520,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 64549,
-      "num": 994962,
-      "word": "致敬暴雨中的守护力量",
-      "onboard_time": 1719217759,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
