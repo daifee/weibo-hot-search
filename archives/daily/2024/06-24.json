@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719220967557,
+  "endTime": 1719221695234,
   "band_list": [
     {
       "raw_hot": 2468997,
@@ -88,6 +88,14 @@
       "word": "某韩国男星性侵18岁女学生",
       "onboard_time": 1719217519,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1357065,
+      "num": 759448,
+      "word": "网传荣梓杉高考成绩417分",
+      "onboard_time": 1719220520,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -227,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 742206,
+      "num": 742206,
+      "word": "长沙1小时下了54个西湖",
+      "onboard_time": 1719220640,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 720595,
       "num": 620624,
       "word": "邓为红毯生图",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 684804,
-      "num": 260530,
+      "num": 274280,
       "word": "我妹高考683分想复读",
       "onboard_time": 1719216499,
       "rank": 21,
@@ -297,6 +313,14 @@
       "onboard_time": 1719209418,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 655229,
+      "num": 601482,
+      "word": "Red Velvet",
+      "onboard_time": 1719220640,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 653581,
@@ -345,14 +369,6 @@
       "onboard_time": 1719196037,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 584356,
-      "num": 584356,
-      "word": "网传荣梓杉高考成绩417分",
-      "onboard_time": 1719220520,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 575823,
@@ -448,6 +464,14 @@
       "word": "独身女人官宣唐嫣赵又廷",
       "onboard_time": 1719201200,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 491807,
+      "num": 491807,
+      "word": "长相思2定档",
+      "onboard_time": 1719221421,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 388534,
-      "num": 258822,
+      "num": 265616,
       "word": "迪丽热巴清丽玫瑰",
       "onboard_time": 1719216920,
       "rank": 26,
@@ -739,14 +763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 348256,
-      "num": 249874,
-      "word": "Red Velvet",
-      "onboard_time": 1719220640,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 342928,
       "num": 342928,
       "word": "慕胥辞",
@@ -756,10 +772,18 @@
     },
     {
       "raw_hot": 340640,
-      "num": 256546,
+      "num": 265350,
       "word": "长相思2还没来",
       "onboard_time": 1719211158,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337312,
+      "num": 266083,
+      "word": "终于有了一部全女主的剧",
+      "onboard_time": 1719218899,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -796,7 +820,7 @@
     },
     {
       "raw_hot": 318547,
-      "num": 248485,
+      "num": 264573,
       "word": "迪丽热巴提灯三连拍",
       "onboard_time": 1719219619,
       "rank": 27,
@@ -824,14 +848,6 @@
       "word": "永夜星河好大一个虞书欣",
       "onboard_time": 1719197958,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 308946,
-      "num": 248685,
-      "word": "终于有了一部全女主的剧",
-      "onboard_time": 1719218899,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -873,6 +889,14 @@
       "onboard_time": 1719206539,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 291286,
+      "num": 291286,
+      "word": "胡锡进总亏损扩大到7.75万",
+      "onboard_time": 1719220460,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 290843,
@@ -931,6 +955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 275337,
+      "num": 275337,
+      "word": "法国女子只拿工资不干活怒告公司",
+      "onboard_time": 1719217280,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275306,
       "num": 275306,
       "word": "高考查分",
@@ -956,7 +988,7 @@
     },
     {
       "raw_hot": 265760,
-      "num": 247335,
+      "num": 256548,
       "word": "赵一博 支教",
       "onboard_time": 1719219978,
       "rank": 30,
@@ -987,20 +1019,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252816,
+      "num": 252816,
+      "word": "萧逸电话",
+      "onboard_time": 1719220938,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 250171,
       "num": 250171,
       "word": "临近下班十分庆幸自己未婚",
       "onboard_time": 1719215180,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 246943,
-      "num": 246943,
-      "word": "长沙1小时下了54个西湖",
-      "onboard_time": 1719220640,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244041,
@@ -1051,28 +1083,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 239939,
-      "num": 239939,
-      "word": "胡锡进总亏损扩大到7.75万",
-      "onboard_time": 1719220460,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 238791,
       "num": 85241,
       "word": "汪苏泷终于唱巴赫旧约了",
       "onboard_time": 1719162075,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 238097,
-      "num": 250574,
-      "word": "法国女子只拿工资不干活怒告公司",
-      "onboard_time": 1719217280,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 235199,
@@ -1267,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199552,
+      "num": 199552,
+      "word": "Wei回应不打了",
+      "onboard_time": 1719221180,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198624,
       "num": 198624,
       "word": "赴山海",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1719213018,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194869,
+      "num": 194869,
+      "word": "RedVelvet新歌CosmicMV",
+      "onboard_time": 1719221540,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 194100,
@@ -1369,6 +1401,14 @@
       "onboard_time": 1719185055,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183653,
+      "num": 183653,
+      "word": "张若昀唐嫣首次合作",
+      "onboard_time": 1719221479,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 183257,
@@ -1659,6 +1699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148799,
+      "num": 148799,
+      "word": "江苏高考查分",
+      "onboard_time": 1719221421,
+      "rank": 48,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148554,
       "num": 148554,
       "word": "高考完后爸爸就变了",
@@ -1729,14 +1777,6 @@
       "onboard_time": 1719150800,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 137049,
-      "num": 137049,
-      "word": "萧逸电话",
-      "onboard_time": 1719220938,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 136669,
@@ -2251,6 +2291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 39587,
+      "num": 265072,
+      "word": "爬富士山的日本男子下落不明",
+      "onboard_time": 1719221479,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 39056,
       "num": 496151,
       "word": "58岁村干部潜入水渠徒手清淤",
@@ -2272,6 +2320,14 @@
       "word": "高考成绩",
       "onboard_time": 1719150079,
       "rank": 48,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 34725,
+      "num": 509045,
+      "word": "AI时代学翻译还有什么用",
+      "onboard_time": 1719219619,
+      "rank": 14,
       "category": "教育"
     },
     {
@@ -2337,14 +2393,6 @@
       "onboard_time": 1719155002,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25924,
-      "num": 487171,
-      "word": "AI时代学翻译还有什么用",
-      "onboard_time": 1719219619,
-      "rank": 14,
-      "category": "教育"
     },
     {
       "raw_hot": 22365,

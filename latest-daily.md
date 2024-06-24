@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/24 00:22:16 ~ 2024/06/24 17:22:47
+本榜单时间：2024/06/24 00:22:16 ~ 2024/06/24 17:34:55
 </p>
 </blockquote>
 <p>
@@ -77,6 +77,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%90%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E6%80%A7%E4%BE%B518%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%23" target="weibo">
 某韩国男星性侵18岁女学生（热度：1471747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%8D%A3%E6%A2%93%E6%9D%89%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9417%E5%88%86%23" target="weibo">
+网传荣梓杉高考成绩417分（热度：1357065）
 </a>
 </li>
 
@@ -183,6 +189,12 @@ A股（热度：766564）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%991%E5%B0%8F%E6%97%B6%E4%B8%8B%E4%BA%8654%E4%B8%AA%E8%A5%BF%E6%B9%96%23" target="weibo">
+长沙1小时下了54个西湖（热度：742206）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E7%BA%A2%E6%AF%AF%E7%94%9F%E5%9B%BE%23" target="weibo">
 邓为红毯生图（热度：720595）
 </a>
@@ -237,6 +249,12 @@ ZICO（热度：664926）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Red%20Velvet%23" target="weibo">
+Red Velvet（热度：655229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
 江苏分数线（热度：653581）
 </a>
@@ -269,12 +287,6 @@ iPhone16全系尺寸曝光（热度：640402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8%23" target="weibo">
 长沙暴雨（热度：604891）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%8D%A3%E6%A2%93%E6%9D%89%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9417%E5%88%86%23" target="weibo">
-网传荣梓杉高考成绩417分（热度：584356）
 </a>
 </li>
 
@@ -347,6 +359,12 @@ iPhone16全系尺寸曝光（热度：640402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%BA%AB%E5%A5%B3%E4%BA%BA%E5%AE%98%E5%AE%A3%E5%94%90%E5%AB%A3%E8%B5%B5%E5%8F%88%E5%BB%B7%23" target="weibo">
 独身女人官宣唐嫣赵又廷（热度：501146）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D2%E5%AE%9A%E6%A1%A3%23" target="weibo">
+长相思2定档（热度：491807）
 </a>
 </li>
 
@@ -567,12 +585,6 @@ ZICO否认传闻（热度：454612）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Red%20Velvet%23" target="weibo">
-Red Velvet（热度：348256）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%85%95%E8%83%A5%E8%BE%9E%23" target="weibo">
 慕胥辞（热度：342928）
 </a>
@@ -581,6 +593,12 @@ Red Velvet（热度：348256）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D2%E8%BF%98%E6%B2%A1%E6%9D%A5%23" target="weibo">
 长相思2还没来（热度：340640）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%86%E4%B8%80%E9%83%A8%E5%85%A8%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%89%A7%23" target="weibo">
+终于有了一部全女主的剧（热度：337312）
 </a>
 </li>
 
@@ -633,12 +651,6 @@ TFBOYS天下第一好（热度：317649）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%86%E4%B8%80%E9%83%A8%E5%85%A8%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%89%A7%23" target="weibo">
-终于有了一部全女主的剧（热度：308946）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BB%96%E6%89%80%E6%9C%89%E7%9A%84%E5%89%A7%E5%85%A8%E9%83%A8%E6%98%8E%E7%A1%AEHE%23" target="weibo">
 于正说以后他所有的剧全部明确HE（热度：307821）
 </a>
@@ -665,6 +677,12 @@ TFBOYS天下第一好（热度：317649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%88%86%E5%90%8E%E6%80%92%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 查分后怒发了一个朋友圈（热度：294623）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E6%80%BB%E4%BA%8F%E6%8D%9F%E6%89%A9%E5%A4%A7%E5%88%B07.75%E4%B8%87%23" target="weibo">
+胡锡进总亏损扩大到7.75万（热度：291286）
 </a>
 </li>
 
@@ -711,6 +729,12 @@ TFBOYS天下第一好（热度：317649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%8B%BF%E5%B7%A5%E8%B5%84%E4%B8%8D%E5%B9%B2%E6%B4%BB%E6%80%92%E5%91%8A%E5%85%AC%E5%8F%B8%23" target="weibo">
+法国女子只拿工资不干活怒告公司（热度：275337）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23" target="weibo">
 高考查分（热度：275306）
 </a>
@@ -753,14 +777,14 @@ TFBOYS天下第一好（热度：317649）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E8%BF%91%E4%B8%8B%E7%8F%AD%E5%8D%81%E5%88%86%E5%BA%86%E5%B9%B8%E8%87%AA%E5%B7%B1%E6%9C%AA%E5%A9%9A%23" target="weibo">
-临近下班十分庆幸自己未婚（热度：250171）
+<a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E9%80%B8%E7%94%B5%E8%AF%9D%23" target="weibo">
+萧逸电话（热度：252816）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%991%E5%B0%8F%E6%97%B6%E4%B8%8B%E4%BA%8654%E4%B8%AA%E8%A5%BF%E6%B9%96%23" target="weibo">
-长沙1小时下了54个西湖（热度：246943）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B4%E8%BF%91%E4%B8%8B%E7%8F%AD%E5%8D%81%E5%88%86%E5%BA%86%E5%B9%B8%E8%87%AA%E5%B7%B1%E6%9C%AA%E5%A9%9A%23" target="weibo">
+临近下班十分庆幸自己未婚（热度：250171）
 </a>
 </li>
 
@@ -801,20 +825,8 @@ TFBOYS天下第一好（热度：317649）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E6%80%BB%E4%BA%8F%E6%8D%9F%E6%89%A9%E5%A4%A7%E5%88%B07.75%E4%B8%87%23" target="weibo">
-胡锡进总亏损扩大到7.75万（热度：239939）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BB%88%E4%BA%8E%E5%94%B1%E5%B7%B4%E8%B5%AB%E6%97%A7%E7%BA%A6%E4%BA%86%23" target="weibo">
 汪苏泷终于唱巴赫旧约了（热度：238791）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%8F%AA%E6%8B%BF%E5%B7%A5%E8%B5%84%E4%B8%8D%E5%B9%B2%E6%B4%BB%E6%80%92%E5%91%8A%E5%85%AC%E5%8F%B8%23" target="weibo">
-法国女子只拿工资不干活怒告公司（热度：238097）
 </a>
 </li>
 
@@ -963,6 +975,12 @@ TFBOYS天下第一好（热度：317649）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Wei%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%89%93%E4%BA%86%23" target="weibo">
+Wei回应不打了（热度：199552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%23" target="weibo">
 赴山海（热度：198624）
 </a>
@@ -977,6 +995,12 @@ TFBOYS天下第一好（热度：317649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E5%8F%88%E6%BC%94%E4%BB%99%E4%BE%A0%E5%89%A7%E4%BA%86%23" target="weibo">
 李一桐又演仙侠剧了（热度：195527）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RedVelvet%E6%96%B0%E6%AD%8CCosmicMV%23" target="weibo">
+RedVelvet新歌CosmicMV（热度：194869）
 </a>
 </li>
 
@@ -1037,6 +1061,12 @@ TFBOYS天下第一好（热度：317649）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC28%E6%AC%A1%E9%AB%98%E8%80%83%E6%9C%AA%E8%BE%BE%E4%BA%8C%E6%9C%AC%E7%BA%BF%23" target="weibo">
 梁实第28次高考未达二本线（热度：184733）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%90%E5%AB%A3%E9%A6%96%E6%AC%A1%E5%90%88%E4%BD%9C%23" target="weibo">
+张若昀唐嫣首次合作（热度：183653）
 </a>
 </li>
 
@@ -1257,6 +1287,12 @@ TheShy问Ning王LNG走后门事件（热度：156584）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%23" target="weibo">
+江苏高考查分（热度：148799）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%AE%8C%E5%90%8E%E7%88%B8%E7%88%B8%E5%B0%B1%E5%8F%98%E4%BA%86%23" target="weibo">
 高考完后爸爸就变了（热度：148554）
 </a>
@@ -1307,12 +1343,6 @@ TheShy问Ning王LNG走后门事件（热度：156584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A0%E5%8C%97%E4%BA%AC%E9%9D%A2%E8%AF%95%23" target="weibo">
 青春有你北京面试（热度：137094）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%90%A7%E9%80%B8%E7%94%B5%E8%AF%9D%23" target="weibo">
-萧逸电话（热度：137049）
 </a>
 </li>
 
@@ -1701,6 +1731,12 @@ RNG夏季赛五连败（热度：48089）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%AC%E5%AF%8C%E5%A3%AB%E5%B1%B1%E7%9A%84%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E%23" target="weibo">
+爬富士山的日本男子下落不明（热度：39587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2358%E5%B2%81%E6%9D%91%E5%B9%B2%E9%83%A8%E6%BD%9C%E5%85%A5%E6%B0%B4%E6%B8%A0%E5%BE%92%E6%89%8B%E6%B8%85%E6%B7%A4%23" target="weibo">
 58岁村干部潜入水渠徒手清淤（热度：39056）
 </a>
@@ -1715,6 +1751,12 @@ RNG夏季赛五连败（热度：48089）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
 高考成绩（热度：35210）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E5%AD%A6%E7%BF%BB%E8%AF%91%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%23" target="weibo">
+AI时代学翻译还有什么用（热度：34725）
 </a>
 </li>
 
@@ -1763,12 +1805,6 @@ Enhypen MV（热度：32672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8E%B2%E6%B5%B7%E5%9F%9F4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 花莲海域4.9级地震（热度：25955）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E5%AD%A6%E7%BF%BB%E8%AF%91%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%23" target="weibo">
-AI时代学翻译还有什么用（热度：25924）
 </a>
 </li>
 
