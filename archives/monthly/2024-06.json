@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719235243778,
+  "endTime": 1719236065156,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -1067,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1781840,
+      "num": 1781840,
+      "word": "韩方通报遇难中国公民增至19人",
+      "onboard_time": 1719230598,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1777360,
       "num": 1777360,
       "word": "大学生全款拿下28平小公寓",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1718106979,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1766284,
-      "num": 1766284,
-      "word": "韩方通报遇难中国公民增至19人",
-      "onboard_time": 1719230598,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1756676,
@@ -1620,7 +1620,7 @@
     },
     {
       "raw_hot": 1564868,
-      "num": 477049,
+      "num": 599037,
       "word": "女子与男友发生关系后诬告对方强奸",
       "onboard_time": 1719231140,
       "rank": 10,
@@ -4539,6 +4539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1001175,
+      "num": 1001175,
+      "word": "都投了尚雯婕",
+      "onboard_time": 1719230240,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1000588,
       "num": 722331,
       "word": "黄霄雲海豚音",
@@ -6081,14 +6089,6 @@
       "onboard_time": 1718873838,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 824350,
-      "num": 594025,
-      "word": "都投了尚雯婕",
-      "onboard_time": 1719230240,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 824143,
@@ -7945,6 +7945,14 @@
       "onboard_time": 1718065399,
       "rank": 11,
       "category": "国外时政"
+    },
+    {
+      "raw_hot": 702172,
+      "num": 254183,
+      "word": "月薪四千开始从孩子身上降本增效",
+      "onboard_time": 1719232101,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 701947,
@@ -11979,6 +11987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 535037,
+      "num": 535037,
+      "word": "保时捷降价了",
+      "onboard_time": 1719231559,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 534924,
       "num": 534924,
       "word": "逆水寒",
@@ -12361,14 +12377,6 @@
       "onboard_time": 1717638738,
       "rank": 21,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 522885,
-      "num": 522885,
-      "word": "保时捷降价了",
-      "onboard_time": 1719231559,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 522711,
@@ -13883,6 +13891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 482372,
+      "num": 395663,
+      "word": "刘烨主持",
+      "onboard_time": 1719234860,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 482280,
       "num": 363997,
       "word": "赵露思卢昱晓早期合照",
@@ -15385,14 +15401,6 @@
       "onboard_time": 1718931199,
       "rank": 8,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 445547,
-      "num": 247076,
-      "word": "月薪四千开始从孩子身上降本增效",
-      "onboard_time": 1719232101,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445428,
@@ -17041,6 +17049,14 @@
       "onboard_time": 1718723240,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412080,
+      "num": 388060,
+      "word": "EXO成员去了张艺兴演唱会",
+      "onboard_time": 1719234620,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 411981,
@@ -20531,14 +20547,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 341689,
-      "num": 208575,
-      "word": "EXO成员去了张艺兴演唱会",
-      "onboard_time": 1719234620,
-      "rank": 23,
-      "category": "演出"
-    },
-    {
       "raw_hot": 341372,
       "num": 341372,
       "word": "25年前故意考0分考生重新高考",
@@ -23651,6 +23659,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294620,
+      "num": 294620,
+      "word": "隔夜西瓜吃前需切掉1厘米",
+      "onboard_time": 1719229219,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 294601,
       "num": 294601,
       "word": "谢娜许昕友情",
@@ -23905,6 +23921,14 @@
       "onboard_time": 1717649659,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290741,
+      "num": 290741,
+      "word": "橘子洲被淹一半是假的",
+      "onboard_time": 1719233422,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290708,
@@ -24665,6 +24689,14 @@
       "onboard_time": 1717680260,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281756,
+      "num": 245209,
+      "word": "女性一生中月经的次数变化",
+      "onboard_time": 1719232039,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 281332,
@@ -26131,14 +26163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 264615,
-      "num": 245209,
-      "word": "女性一生中月经的次数变化",
-      "onboard_time": 1719232039,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 264457,
       "num": 264457,
       "word": "周鸿祎990万元卖迈巴赫后续",
@@ -26393,14 +26417,6 @@
       "onboard_time": 1717890254,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260954,
-      "num": 260954,
-      "word": "隔夜西瓜吃前需切掉1厘米",
-      "onboard_time": 1719229219,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 260911,
@@ -26937,14 +26953,6 @@
       "onboard_time": 1718851219,
       "rank": 24,
       "category": "艺人,综艺"
-    },
-    {
-      "raw_hot": 253301,
-      "num": 201066,
-      "word": "刘烨主持",
-      "onboard_time": 1719234860,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 253078,
@@ -28377,6 +28385,14 @@
       "onboard_time": 1719100574,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 238105,
+      "num": 238105,
+      "word": "林一沈月出电梯偷感很重",
+      "onboard_time": 1719235039,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 238069,
@@ -31347,14 +31363,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 214150,
-      "num": 214150,
-      "word": "橘子洲被淹一半是假的",
-      "onboard_time": 1719233422,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214145,
       "num": 214145,
       "word": "你还喜欢我就好啦",
@@ -31785,6 +31793,14 @@
       "onboard_time": 1719112159,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211116,
+      "num": 211116,
+      "word": "陈昊宇发言",
+      "onboard_time": 1719235819,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 210942,
@@ -32265,6 +32281,14 @@
       "onboard_time": 1717640838,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208896,
+      "num": 208896,
+      "word": "陈丽君新龙门客栈电影主题曲首唱",
+      "onboard_time": 1719235701,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 208857,
@@ -36939,6 +36963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190148,
+      "num": 190148,
+      "word": "周深贵阳二开",
+      "onboard_time": 1719235160,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 190146,
       "num": 190146,
       "word": "姜元柏你要不看一下你老婆衣服颜色",
@@ -41323,6 +41355,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170269,
+      "num": 170269,
+      "word": "中方对波兰公民实施15日单方面免签",
+      "onboard_time": 1719235103,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 170193,
+      "num": 168557,
+      "word": "奇萌抑郁症",
+      "onboard_time": 1719233539,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170167,
       "num": 170167,
       "word": "重庆农商行回应女职员拍视频表白行长",
@@ -41713,14 +41761,6 @@
       "onboard_time": 1718139731,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168557,
-      "num": 168557,
-      "word": "奇萌抑郁症",
-      "onboard_time": 1719233539,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 168501,
@@ -42657,6 +42697,14 @@
       "onboard_time": 1717585158,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164786,
+      "num": 164786,
+      "word": "女子雨后捡大鱼拖回家做剁椒鱼头",
+      "onboard_time": 1719231438,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164756,
@@ -44025,14 +44073,6 @@
       "onboard_time": 1718526017,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159568,
-      "num": 159568,
-      "word": "林一沈月出电梯偷感很重",
-      "onboard_time": 1719235039,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 159536,
@@ -45561,14 +45601,6 @@
       "onboard_time": 1718326577,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 154242,
-      "num": 154242,
-      "word": "女子雨后捡大鱼拖回家做剁椒鱼头",
-      "onboard_time": 1719231438,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 154226,
@@ -48697,14 +48729,6 @@
       "onboard_time": 1717488797,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142129,
-      "num": 142129,
-      "word": "周深贵阳二开",
-      "onboard_time": 1719235160,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 142124,
@@ -55801,6 +55825,14 @@
       "onboard_time": 1717637479,
       "rank": 41,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 117410,
+      "num": 117410,
+      "word": "江苏高考689分及以上107人",
+      "onboard_time": 1719236000,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 117401,

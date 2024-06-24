@@ -1,0 +1,410 @@
+{
+  "runTime": 1719236065156,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1781840,
+        "num": 1781840,
+        "word": "韩方通报遇难中国公民增至19人",
+        "onboard_time": 1719230598,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001175,
+        "num": 1001175,
+        "word": "都投了尚雯婕",
+        "onboard_time": 1719230240,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11620,
+        "num": 626483,
+        "word": "铸牢共同体中华一家亲",
+        "onboard_time": 1719210197,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213567,
+        "num": 601911,
+        "word": "韩雪 难听",
+        "onboard_time": 1719231500,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1542486,
+        "num": 599037,
+        "word": "女子与男友发生关系后诬告对方强奸",
+        "onboard_time": 1719231140,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 535037,
+        "num": 535037,
+        "word": "保时捷降价了",
+        "onboard_time": 1719231559,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 636221,
+        "num": 491050,
+        "word": "陈丽君 投票",
+        "onboard_time": 1719229698,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536914,
+        "num": 487086,
+        "word": "萨顶顶 去歌手吧",
+        "onboard_time": 1719232579,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407808,
+        "num": 407808,
+        "word": "长沙1小时下了54个西湖",
+        "onboard_time": 1719220640,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70628,
+        "num": 404315,
+        "word": "高考成绩公布前唐尚珺弹唱海阔天空",
+        "onboard_time": 1719234319,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 580131,
+        "num": 401210,
+        "word": "终于有了一部全女主的剧",
+        "onboard_time": 1719218899,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482372,
+        "num": 395663,
+        "word": "刘烨主持",
+        "onboard_time": 1719234860,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 412080,
+        "num": 388060,
+        "word": "EXO成员去了张艺兴演唱会",
+        "onboard_time": 1719234620,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 386338,
+        "num": 386338,
+        "word": "桐岛爱",
+        "onboard_time": 1719232579,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363404,
+        "num": 363404,
+        "word": "李晋晔哽咽回应歌手争议",
+        "onboard_time": 1719228918,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 358437,
+        "num": 358437,
+        "word": "长相思2定档",
+        "onboard_time": 1719221421,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315864,
+        "num": 315864,
+        "word": "大四女生退学后复读5个月考641分",
+        "onboard_time": 1719223520,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294620,
+        "num": 294620,
+        "word": "隔夜西瓜吃前需切掉1厘米",
+        "onboard_time": 1719229219,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290741,
+        "num": 290741,
+        "word": "橘子洲被淹一半是假的",
+        "onboard_time": 1719233422,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260030,
+        "num": 260030,
+        "word": "B太夜爬泰山7000多级台阶2次",
+        "onboard_time": 1719226938,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1430715,
+        "num": 259970,
+        "word": "一名网红遭杀害后抛尸浙江湖州",
+        "onboard_time": 1719227839,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 702172,
+        "num": 254183,
+        "word": "月薪四千开始从孩子身上降本增效",
+        "onboard_time": 1719232101,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482414,
+        "num": 252677,
+        "word": "轻断食五天瘦了11斤",
+        "onboard_time": 1719225439,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 321024,
+        "num": 247112,
+        "word": "大奉打更人",
+        "onboard_time": 1719225559,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281756,
+        "num": 243406,
+        "word": "女性一生中月经的次数变化",
+        "onboard_time": 1719232039,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 266212,
+        "num": 239896,
+        "word": "网传荣梓杉高考成绩417分",
+        "onboard_time": 1719220520,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238563,
+        "num": 238563,
+        "word": "学生699分老师说没上700有点瑕疵",
+        "onboard_time": 1719218419,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 238105,
+        "num": 238105,
+        "word": "林一沈月出电梯偷感很重",
+        "onboard_time": 1719235039,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235436,
+        "num": 235436,
+        "word": "萨顶顶悟空",
+        "onboard_time": 1719232760,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211116,
+        "num": 211116,
+        "word": "陈昊宇发言",
+        "onboard_time": 1719235819,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208896,
+        "num": 208896,
+        "word": "陈丽君新龙门客栈电影主题曲首唱",
+        "onboard_time": 1719235701,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202784,
+        "num": 202784,
+        "word": "乘风直播",
+        "onboard_time": 1719227718,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190148,
+        "num": 190148,
+        "word": "周深贵阳二开",
+        "onboard_time": 1719235160,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184171,
+        "num": 184171,
+        "word": "小夭涂山璟额头吻",
+        "onboard_time": 1719225140,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174934,
+        "num": 174934,
+        "word": "警方通报女子遭2次辗轧身亡",
+        "onboard_time": 1719226760,
+        "rank": 34,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 176208,
+        "num": 174053,
+        "word": "李梦 情商",
+        "onboard_time": 1719214159,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172386,
+        "num": 172386,
+        "word": "江苏高考查分",
+        "onboard_time": 1719221421,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172099,
+        "num": 172099,
+        "word": "改写玫瑰的故事大结局",
+        "onboard_time": 1719233301,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170269,
+        "num": 170269,
+        "word": "中方对波兰公民实施15日单方面免签",
+        "onboard_time": 1719235103,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168114,
+        "num": 168114,
+        "word": "孙海洋父亲去世",
+        "onboard_time": 1719210798,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170193,
+        "num": 166864,
+        "word": "奇萌抑郁症",
+        "onboard_time": 1719233539,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164786,
+        "num": 164786,
+        "word": "女子雨后捡大鱼拖回家做剁椒鱼头",
+        "onboard_time": 1719231438,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160958,
+        "num": 160958,
+        "word": "张若昀 我真从片场来的",
+        "onboard_time": 1719234740,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160490,
+        "num": 160490,
+        "word": "某韩国男星性侵18岁女学生",
+        "onboard_time": 1719217519,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159528,
+        "num": 159528,
+        "word": "萨顶顶太牛了",
+        "onboard_time": 1719233000,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156709,
+        "num": 156709,
+        "word": "李兰迪今天好漂亮",
+        "onboard_time": 1719232219,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146299,
+        "num": 146299,
+        "word": "王者荣耀 匹配机制",
+        "onboard_time": 1719227359,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133349,
+        "num": 133349,
+        "word": "韩国电池厂火灾",
+        "onboard_time": 1719233959,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129259,
+        "num": 129259,
+        "word": "江苏分数线",
+        "onboard_time": 1719218419,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 117410,
+        "num": 117410,
+        "word": "江苏高考689分及以上107人",
+        "onboard_time": 1719236000,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}

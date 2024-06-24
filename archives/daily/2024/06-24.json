@@ -1,6 +1,6 @@
 {
   "startTime": 1719159736182,
-  "endTime": 1719235243778,
+  "endTime": 1719236065156,
   "band_list": [
     {
       "raw_hot": 2468997,
@@ -75,8 +75,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1766284,
-      "num": 1766284,
+      "raw_hot": 1781840,
+      "num": 1781840,
       "word": "韩方通报遇难中国公民增至19人",
       "onboard_time": 1719230598,
       "rank": 1,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1564868,
-      "num": 477049,
+      "num": 599037,
       "word": "女子与男友发生关系后诬告对方强奸",
       "onboard_time": 1719231140,
       "rank": 10,
@@ -219,6 +219,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1001175,
+      "num": 1001175,
+      "word": "都投了尚雯婕",
+      "onboard_time": 1719230240,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 982074,
       "num": 280983,
       "word": "睡前不刷牙会发生什么",
@@ -281,14 +289,6 @@
       "onboard_time": 1719222379,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 824350,
-      "num": 594025,
-      "word": "都投了尚雯婕",
-      "onboard_time": 1719230240,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 804568,
@@ -369,6 +369,14 @@
       "onboard_time": 1719186977,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 702172,
+      "num": 254183,
+      "word": "月薪四千开始从孩子身上降本增效",
+      "onboard_time": 1719232101,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 693149,
@@ -563,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 535037,
+      "num": 535037,
+      "word": "保时捷降价了",
+      "onboard_time": 1719231559,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 530025,
       "num": 530025,
       "word": "长安的荔枝全阵容官宣",
@@ -577,14 +593,6 @@
       "onboard_time": 1719183734,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 522885,
-      "num": 522885,
-      "word": "保时捷降价了",
-      "onboard_time": 1719231559,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 522047,
@@ -633,6 +641,14 @@
       "onboard_time": 1719225140,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 482372,
+      "num": 395663,
+      "word": "刘烨主持",
+      "onboard_time": 1719234860,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 480759,
@@ -721,14 +737,6 @@
       "onboard_time": 1719187817,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 445547,
-      "num": 247076,
-      "word": "月薪四千开始从孩子身上降本增效",
-      "onboard_time": 1719232101,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 445038,
@@ -867,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 412080,
+      "num": 388060,
+      "word": "EXO成员去了张艺兴演唱会",
+      "onboard_time": 1719234620,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 411853,
       "num": 411853,
       "word": "张若昀唐嫣首次合作",
@@ -985,14 +1001,6 @@
       "onboard_time": 1719188298,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 341689,
-      "num": 208575,
-      "word": "EXO成员去了张艺兴演唱会",
-      "onboard_time": 1719234620,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 340640,
@@ -1139,12 +1147,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 294620,
+      "num": 294620,
+      "word": "隔夜西瓜吃前需切掉1厘米",
+      "onboard_time": 1719229219,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 290843,
       "num": 290843,
       "word": "白日提灯 平番",
       "onboard_time": 1719145758,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290741,
+      "num": 290741,
+      "word": "橘子洲被淹一半是假的",
+      "onboard_time": 1719233422,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286916,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1719221421,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 281756,
+      "num": 245209,
+      "word": "女性一生中月经的次数变化",
+      "onboard_time": 1719232039,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 278326,
@@ -1251,28 +1283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 264615,
-      "num": 245209,
-      "word": "女性一生中月经的次数变化",
-      "onboard_time": 1719232039,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 261545,
       "num": 222079,
       "word": "慕胥辞阵容官宣",
       "onboard_time": 1719193938,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 260954,
-      "num": 260954,
-      "word": "隔夜西瓜吃前需切掉1厘米",
-      "onboard_time": 1719229219,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 260494,
@@ -1289,14 +1305,6 @@
       "onboard_time": 1719203480,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253301,
-      "num": 201066,
-      "word": "刘烨主持",
-      "onboard_time": 1719234860,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 252816,
@@ -1387,6 +1395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 238105,
+      "num": 238105,
+      "word": "林一沈月出电梯偷感很重",
+      "onboard_time": 1719235039,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235199,
       "num": 235199,
       "word": "一份没有985211的宝藏大学名单",
@@ -1459,14 +1475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214150,
-      "num": 214150,
-      "word": "橘子洲被淹一半是假的",
-      "onboard_time": 1719233422,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214124,
       "num": 214124,
       "word": "别欺负猫了 猫都快碎了",
@@ -1515,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211116,
+      "num": 211116,
+      "word": "陈昊宇发言",
+      "onboard_time": 1719235819,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210646,
       "num": 210646,
       "word": "张晚意 背德赛道",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1719213619,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208896,
+      "num": 208896,
+      "word": "陈丽君新龙门客栈电影主题曲首唱",
+      "onboard_time": 1719235701,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 207167,
@@ -1787,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190148,
+      "num": 190148,
+      "word": "周深贵阳二开",
+      "onboard_time": 1719235160,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189264,
       "num": 189264,
       "word": "高考要不要服从调剂",
@@ -1955,19 +1987,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170269,
+      "num": 170269,
+      "word": "中方对波兰公民实施15日单方面免签",
+      "onboard_time": 1719235103,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 170193,
+      "num": 168557,
+      "word": "奇萌抑郁症",
+      "onboard_time": 1719233539,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169348,
       "num": 169348,
       "word": "眉姐姐赛道",
       "onboard_time": 1719201259,
       "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 168557,
-      "num": 168557,
-      "word": "奇萌抑郁症",
-      "onboard_time": 1719233539,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -2000,6 +2040,14 @@
       "word": "韩国电池厂火灾",
       "onboard_time": 1719233959,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164786,
+      "num": 164786,
+      "word": "女子雨后捡大鱼拖回家做剁椒鱼头",
+      "onboard_time": 1719231438,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2073,14 +2121,6 @@
       "onboard_time": 1719203781,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 159568,
-      "num": 159568,
-      "word": "林一沈月出电梯偷感很重",
-      "onboard_time": 1719235039,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 158904,
@@ -2163,14 +2203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154242,
-      "num": 154242,
-      "word": "女子雨后捡大鱼拖回家做剁椒鱼头",
-      "onboard_time": 1719231438,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152181,
       "num": 152181,
       "word": "光与夜之恋三周年",
@@ -2233,14 +2265,6 @@
       "onboard_time": 1719217880,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 142129,
-      "num": 142129,
-      "word": "周深贵阳二开",
-      "onboard_time": 1719235160,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 140751,
@@ -2489,6 +2513,14 @@
       "onboard_time": 1719197717,
       "rank": 42,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 117410,
+      "num": 117410,
+      "word": "江苏高考689分及以上107人",
+      "onboard_time": 1719236000,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 117127,
