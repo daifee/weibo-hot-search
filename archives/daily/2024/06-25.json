@@ -1,10 +1,10 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719246220348,
+  "endTime": 1719247126797,
   "band_list": [
     {
       "raw_hot": 1186042,
-      "num": 290696,
+      "num": 387623,
       "word": "杜江霍思燕收养实验犬",
       "onboard_time": 1719238520,
       "rank": 3,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 545688,
+      "num": 173506,
+      "word": "发现导师朋友圈只屏蔽了我",
+      "onboard_time": 1719243859,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 499081,
       "num": 250379,
       "word": "韩方通报遇难中国公民增至19人",
@@ -67,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337620,
-      "num": 173506,
-      "word": "发现导师朋友圈只屏蔽了我",
-      "onboard_time": 1719243859,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 308653,
       "num": 246145,
       "word": "韩雪 难听",
@@ -83,20 +83,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288887,
+      "num": 243186,
+      "word": "韩方向中方表示哀悼",
+      "onboard_time": 1719238760,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 283320,
       "num": 283320,
       "word": "韩国起火电池厂员工多来自东北朝鲜族",
       "onboard_time": 1719242359,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 280296,
-      "num": 243186,
-      "word": "韩方向中方表示哀悼",
-      "onboard_time": 1719238760,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 276884,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 229287,
-      "num": 172452,
+      "num": 202179,
       "word": "新说唱",
       "onboard_time": 1719242659,
       "rank": 21,
@@ -163,7 +163,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189122,
+      "raw_hot": 194209,
       "num": 170685,
       "word": "易猝死的人有4个共同点",
       "onboard_time": 1719243559,
@@ -203,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165957,
+      "num": 157807,
+      "word": "大碗宽面组团魂4年后居然还在",
+      "onboard_time": 1719246077,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153529,
       "num": 153529,
       "word": "陈昊宇发言",
@@ -227,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139620,
+      "num": 139620,
+      "word": "网传荣梓杉高考成绩417分",
+      "onboard_time": 1719220520,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139075,
       "num": 139075,
       "word": "陈丽君 投票",
       "onboard_time": 1719229698,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134737,
-      "num": 134737,
-      "word": "网传荣梓杉高考成绩417分",
-      "onboard_time": 1719220520,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 134640,
@@ -251,20 +259,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130909,
-      "num": 130909,
+      "raw_hot": 131918,
+      "num": 131918,
       "word": "终于有了一部全女主的剧",
       "onboard_time": 1719218899,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127396,
-      "num": 127396,
-      "word": "大碗宽面组团魂4年后居然还在",
-      "onboard_time": 1719246077,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 125097,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99594,
+      "num": 99594,
+      "word": "桐岛爱",
+      "onboard_time": 1719232579,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95160,
       "num": 118332,
       "word": "女性一生中月经的次数变化",
@@ -339,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92112,
+      "num": 255652,
+      "word": "女生复读1年高考涨133分激动爆哭",
+      "onboard_time": 1719244459,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91160,
       "num": 118328,
       "word": "为何前列腺癌一发现就是晚期",
@@ -347,28 +363,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 90894,
+      "num": 90894,
+      "word": "萨顶顶 去歌手吧",
+      "onboard_time": 1719232579,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 89906,
+      "num": 90932,
+      "word": "克罗地亚vs意大利",
+      "onboard_time": 1719246616,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89515,
       "num": 89515,
       "word": "保时捷降价了",
       "onboard_time": 1719231559,
       "rank": 45,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 87929,
-      "num": 87929,
-      "word": "桐岛爱",
-      "onboard_time": 1719232579,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 86772,
-      "num": 87923,
-      "word": "萨顶顶 去歌手吧",
-      "onboard_time": 1719232579,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 71650,
@@ -387,25 +403,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 46011,
-      "num": 255652,
-      "word": "女生复读1年高考涨133分激动爆哭",
-      "onboard_time": 1719244459,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 24700,
-      "num": 295924,
+      "num": 389751,
       "word": "收下这份暴雨天避险自救指南",
       "onboard_time": 1719237441,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15538,
+      "num": 205494,
+      "word": "复读女生获理想分数父亲激动落泪",
+      "onboard_time": 1719246316,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#我国自主创新事业是大有可为的#"
+    },
+    {
+      "word": "#习近平为国家最高科学技术奖获得者颁奖#"
     }
   ]
 }
