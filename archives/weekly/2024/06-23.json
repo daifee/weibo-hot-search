@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719196579076,
+  "endTime": 1719197160801,
   "band_list": [
     {
       "raw_hot": 2639996,
@@ -155,6 +155,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1166848,
+      "num": 1166848,
+      "word": "司机不知情下备胎内被藏毒92斤",
+      "onboard_time": 1719195077,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1152737,
       "num": 1152737,
       "word": "林俊杰 冻结",
@@ -203,8 +211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1044741,
-      "num": 1044741,
+      "raw_hot": 1045788,
+      "num": 1045788,
       "word": "黄玫瑰拿铁",
       "onboard_time": 1719192018,
       "rank": 47,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 982074,
-      "num": 240287,
+      "num": 280983,
       "word": "睡前不刷牙会发生什么",
       "onboard_time": 1719189257,
       "rank": 20,
@@ -315,12 +323,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 799602,
-      "num": 799602,
+      "raw_hot": 804568,
+      "num": 804568,
       "word": "学生高考710分老师瞬间沸腾",
       "onboard_time": 1719190698,
       "rank": 9,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 766564,
+      "num": 766564,
+      "word": "A股",
+      "onboard_time": 1719193756,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 762220,
@@ -353,14 +369,6 @@
       "onboard_time": 1719109157,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 738595,
-      "num": 738595,
-      "word": "司机不知情下备胎内被藏毒92斤",
-      "onboard_time": 1719195077,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 732889,
@@ -419,12 +427,20 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 698003,
-      "num": 698003,
-      "word": "A股",
-      "onboard_time": 1719193756,
-      "rank": 6,
-      "category": "财经"
+      "raw_hot": 667299,
+      "num": 667299,
+      "word": "李梦穿搭",
+      "onboard_time": 1719192917,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 666008,
+      "num": 279040,
+      "word": "男朋友给我转账写出借",
+      "onboard_time": 1719194658,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 664926,
@@ -449,14 +465,6 @@
       "onboard_time": 1719067459,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 644384,
-      "num": 644384,
-      "word": "李梦穿搭",
-      "onboard_time": 1719192917,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 639843,
@@ -515,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 559900,
+      "num": 559900,
+      "word": "鹅厂2024大剧片单",
+      "onboard_time": 1719193337,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 557553,
       "num": 557553,
       "word": "腾讯大会",
@@ -563,11 +579,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 532294,
-      "num": 532294,
-      "word": "鹅厂2024大剧片单",
-      "onboard_time": 1719193337,
-      "rank": 28,
+      "raw_hot": 530025,
+      "num": 530025,
+      "word": "长安的荔枝全阵容官宣",
+      "onboard_time": 1719195619,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -731,14 +747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 463511,
-      "num": 191154,
-      "word": "男朋友给我转账写出借",
-      "onboard_time": 1719194658,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 463498,
       "num": 300591,
       "word": "男子带96岁母亲酒店养老遭集体拉黑",
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 462053,
-      "num": 231667,
+      "num": 266676,
       "word": "1个校区就发现76例学生脊柱侧弯",
       "onboard_time": 1719184875,
       "rank": 30,
@@ -780,7 +788,7 @@
     },
     {
       "raw_hot": 452772,
-      "num": 233376,
+      "num": 265551,
       "word": "准大一生活费决定给1500",
       "onboard_time": 1719187817,
       "rank": 22,
@@ -825,14 +833,6 @@
       "onboard_time": 1719139158,
       "rank": 12,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 435905,
-      "num": 435905,
-      "word": "长安的荔枝全阵容官宣",
-      "onboard_time": 1719195619,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 431442,
@@ -953,6 +953,14 @@
       "onboard_time": 1719139818,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 407172,
+      "num": 272438,
+      "word": "毕业两年室友做美甲挣了八十万",
+      "onboard_time": 1719196396,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 403654,
@@ -1179,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330283,
+      "num": 330283,
+      "word": "一毕业就有3年工作经验的应届生",
+      "onboard_time": 1719193816,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328416,
       "num": 232172,
       "word": "于正你是懂番外的",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1719152001,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 308094,
+      "num": 308094,
+      "word": "长沙暴雨",
+      "onboard_time": 1719196037,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 307821,
@@ -1396,7 +1420,7 @@
     },
     {
       "raw_hot": 261545,
-      "num": 190511,
+      "num": 222079,
       "word": "慕胥辞阵容官宣",
       "onboard_time": 1719193938,
       "rank": 25,
@@ -1411,28 +1435,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 260054,
-      "num": 202674,
-      "word": "乌尔善五十岁迷上了国漫",
-      "onboard_time": 1719131000,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 259958,
-      "num": 190409,
+      "raw_hot": 260494,
+      "num": 260494,
       "word": "弟弟高考失利还要把礼物给他吗",
       "onboard_time": 1719194658,
       "rank": 26,
       "category": "情感"
     },
     {
-      "raw_hot": 254233,
-      "num": 254233,
-      "word": "一毕业就有3年工作经验的应届生",
-      "onboard_time": 1719193816,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 260054,
+      "num": 202674,
+      "word": "乌尔善五十岁迷上了国漫",
+      "onboard_time": 1719131000,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 249047,
@@ -1572,7 +1588,7 @@
     },
     {
       "raw_hot": 230724,
-      "num": 190251,
+      "num": 220370,
       "word": "肖战饭制互动游戏正式上线",
       "onboard_time": 1719193276,
       "rank": 44,
@@ -1641,14 +1657,6 @@
       "onboard_time": 1719104357,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 220633,
-      "num": 189955,
-      "word": "毕业两年室友做美甲挣了八十万",
-      "onboard_time": 1719196396,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 219354,
@@ -1747,6 +1755,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 205055,
+      "num": 205055,
+      "word": "鹅剧派对",
+      "onboard_time": 1719123618,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204796,
       "num": 204796,
       "word": "恋爱一定要抛开羞耻大胆谈",
@@ -1785,14 +1801,6 @@
       "onboard_time": 1719068479,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 202574,
-      "num": 190510,
-      "word": "鹅剧派对",
-      "onboard_time": 1719123618,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 201008,
@@ -1899,20 +1907,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191953,
+      "num": 191953,
+      "word": "猎罪图鉴2小分队全员回归",
+      "onboard_time": 1719196696,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191771,
       "num": 191771,
       "word": "云南高考分数线",
       "onboard_time": 1719113298,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 191401,
-      "num": 191401,
-      "word": "长沙暴雨",
-      "onboard_time": 1719196037,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191172,
@@ -2835,6 +2843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121467,
+      "num": 121467,
+      "word": "韩网扒出具荷拉保险柜盗窃者疑是ZICO",
+      "onboard_time": 1719197058,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120806,
       "num": 120806,
       "word": "张小斐帅上瘾了",
@@ -3153,6 +3169,14 @@
       "onboard_time": 1719101896,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104870,
+      "num": 104870,
+      "word": "黄亦玫永远自由永远热烈",
+      "onboard_time": 1719196577,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 104853,
