@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719293717722,
+  "endTime": 1719296828499,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -17,6 +17,14 @@
       "onboard_time": 1719287299,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1909740,
+      "num": 1909740,
+      "word": "故意考0分考生语文101英语95分",
+      "onboard_time": 1719292459,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 1418626,
@@ -179,14 +187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 736579,
-      "num": 223444,
-      "word": "故意考0分考生语文101英语95分",
-      "onboard_time": 1719292459,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 734070,
       "num": 734070,
       "word": "光遇复刻",
@@ -201,6 +201,14 @@
       "onboard_time": 1719240620,
       "rank": 1,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 685384,
+      "num": 685384,
+      "word": "苟姓准爸爸不想孩子再姓苟",
+      "onboard_time": 1719292339,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 665536,
@@ -267,14 +275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 527725,
-      "num": 318207,
-      "word": "苟姓准爸爸不想孩子再姓苟",
-      "onboard_time": 1719292339,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 515688,
       "num": 515688,
       "word": "广东分数线",
@@ -305,6 +305,22 @@
       "onboard_time": 1719281480,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 487246,
+      "num": 350369,
+      "word": "美国会称无法接受解放军装备武装机器狗",
+      "onboard_time": 1719291081,
+      "rank": 33,
+      "category": "国外时政"
+    },
+    {
+      "raw_hot": 486305,
+      "num": 486305,
+      "word": "主办方回应杨幂论文查重率争议",
+      "onboard_time": 1719294258,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 462346,
@@ -387,6 +403,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 390275,
+      "num": 390275,
+      "word": "浙江高考分数线",
+      "onboard_time": 1719284780,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 383092,
       "num": 383092,
       "word": "北京地铁",
@@ -403,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364500,
+      "num": 340627,
+      "word": "王艳儿子 北大",
+      "onboard_time": 1719296298,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 360055,
       "num": 360055,
       "word": "北京高考分数线",
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 355889,
-      "num": 316539,
+      "num": 323995,
       "word": "17年前考上985如今在工厂拧螺丝",
       "onboard_time": 1719289520,
       "rank": 33,
@@ -427,20 +459,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 351690,
+      "num": 351690,
+      "word": "集体降价的豪车为啥不香了",
+      "onboard_time": 1719294678,
+      "rank": 9,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 346930,
       "num": 281808,
       "word": "男朋友上班太困发错消息给领导了",
       "onboard_time": 1719281119,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 321945,
-      "num": 321945,
-      "word": "浙江高考分数线",
-      "onboard_time": 1719284780,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 319454,
@@ -547,6 +579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275734,
+      "num": 275734,
+      "word": "嫦娥六号带回月背土特产",
+      "onboard_time": 1719296480,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 275401,
       "num": 146319,
       "word": "得知旁边同事居然有3份收入",
@@ -619,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 247305,
+      "num": 247305,
+      "word": "男生复读一年涨220分直呼不敢信",
+      "onboard_time": 1719293539,
+      "rank": 22,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 246613,
       "num": 246613,
       "word": "六点钟下班真的太晚了",
@@ -649,14 +697,6 @@
       "onboard_time": 1719284299,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 222901,
-      "num": 222901,
-      "word": "美国会称无法接受解放军装备武装机器狗",
-      "onboard_time": 1719291081,
-      "rank": 33,
-      "category": "国外时政"
     },
     {
       "raw_hot": 222641,
@@ -835,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184854,
+      "num": 184854,
+      "word": "黄仁勋已套现6.9亿元",
+      "onboard_time": 1719294378,
+      "rank": 30,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 182206,
       "num": 182206,
       "word": "珠玉在侧定档",
@@ -891,12 +939,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174170,
+      "num": 174170,
+      "word": "联想发布会",
+      "onboard_time": 1719296659,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 173831,
       "num": 173831,
       "word": "江苏高考689分及以上107人",
       "onboard_time": 1719236000,
       "rank": 19,
       "category": "教育"
+    },
+    {
+      "raw_hot": 170949,
+      "num": 170949,
+      "word": "艺考生 本科线",
+      "onboard_time": 1719295878,
+      "rank": 33,
+      "category": "教育,艺人"
     },
     {
       "raw_hot": 169991,
@@ -923,6 +987,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166775,
+      "num": 166775,
+      "word": "王楠助力国乒备战奥运",
+      "onboard_time": 1719295939,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165780,
+      "num": 165780,
+      "word": "A股",
+      "onboard_time": 1719296778,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165611,
       "num": 165611,
       "word": "云南一副县长回应被举报出轨",
@@ -937,6 +1017,22 @@
       "onboard_time": 1719288440,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164767,
+      "num": 164767,
+      "word": "嫦娥六号欢迎回家",
+      "onboard_time": 1719296539,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 164506,
+      "num": 164506,
+      "word": "长相思第一季名场面回顾",
+      "onboard_time": 1719295218,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 162816,
@@ -1091,6 +1187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 143854,
+      "num": 143854,
+      "word": "真想念内马尔",
+      "onboard_time": 1719295819,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142786,
       "num": 142786,
       "word": "狗狗好像给我生了个孩子",
@@ -1131,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138181,
+      "num": 131598,
+      "word": "刘亦菲还没跳呢就咔了",
+      "onboard_time": 1719296238,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138138,
       "num": 138138,
       "word": "我不成仙",
@@ -1145,6 +1257,22 @@
       "onboard_time": 1719271875,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136073,
+      "num": 136073,
+      "word": "狼都怕的大缅因洗澡",
+      "onboard_time": 1719294739,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 135762,
+      "num": 196665,
+      "word": "嫦娥六号月球快递今天送达",
+      "onboard_time": 1719295400,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135250,
@@ -1259,6 +1387,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 120888,
+      "num": 120888,
+      "word": "黄振华和黄亦玫的年龄差有多大",
+      "onboard_time": 1719294019,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118324,
       "num": 118324,
       "word": "长相思2定档",
@@ -1339,12 +1475,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107276,
+      "num": 912682,
+      "word": "嫦娥六号发博提醒接收月球快递",
+      "onboard_time": 1719291020,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104697,
       "num": 104697,
       "word": "大奉打更人",
       "onboard_time": 1719225559,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102471,
+      "num": 208702,
+      "word": "神仙同桌高考一个650分一个700分",
+      "onboard_time": 1719295519,
+      "rank": 20,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 99594,
@@ -1377,14 +1529,6 @@
       "onboard_time": 1719239842,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92362,
-      "num": 218456,
-      "word": "男生复读一年涨220分直呼不敢信",
-      "onboard_time": 1719293539,
-      "rank": 22,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 92112,
@@ -1433,14 +1577,6 @@
       "onboard_time": 1719291620,
       "rank": 9,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 79403,
-      "num": 912682,
-      "word": "嫦娥六号发博提醒接收月球快递",
-      "onboard_time": 1719291020,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 75577,
@@ -1664,6 +1800,14 @@
       "word": "小伙患心肌炎拒治疗医生紧急救回一命",
       "onboard_time": 1719250034,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7747,
+      "num": 185079,
+      "word": "莫斯科州一研究所发生火灾",
+      "onboard_time": 1719296719,
+      "rank": 29,
       "category": "社会新闻"
     }
   ],
