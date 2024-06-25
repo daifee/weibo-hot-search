@@ -1,0 +1,410 @@
+{
+  "runTime": 1719278453992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1030924,
+        "num": 1030924,
+        "word": "老人用了20多年的锤子竟是手榴弹",
+        "onboard_time": 1719272057,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 955441,
+        "num": 955441,
+        "word": "清华北大为了抢人有多拼",
+        "onboard_time": 1719274938,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96438,
+        "num": 809066,
+        "word": "高铁火箭飞机的发展都与这门专业相关",
+        "onboard_time": 1719236360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1070112,
+        "num": 801873,
+        "word": "谢霆锋回应和王菲打扮越来越像",
+        "onboard_time": 1719273799,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 784978,
+        "num": 784978,
+        "word": "杜江霍思燕收养实验犬",
+        "onboard_time": 1719238520,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661523,
+        "num": 661523,
+        "word": "加沙有婴儿出生7个月只长0.6斤",
+        "onboard_time": 1719276439,
+        "rank": 5,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 663882,
+        "num": 642442,
+        "word": "一个个提到刘亦菲都笑得合不拢嘴",
+        "onboard_time": 1719275599,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593708,
+        "num": 593708,
+        "word": "浙大百万网红陈娴已有多家公司",
+        "onboard_time": 1719247695,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484447,
+        "num": 484447,
+        "word": "到底啥是city不city啊",
+        "onboard_time": 1719240620,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 293359,
+        "num": 443143,
+        "word": "河南一本上线155883人",
+        "onboard_time": 1719277698,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 547794,
+        "num": 443060,
+        "word": "普京称没人会军援俄能自给自足",
+        "onboard_time": 1719274639,
+        "rank": 10,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 442440,
+        "num": 442440,
+        "word": "新说唱总冠军 隼",
+        "onboard_time": 1719271395,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 389388,
+        "num": 389388,
+        "word": "尚雯婕冠军",
+        "onboard_time": 1719241520,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383092,
+        "num": 383092,
+        "word": "北京地铁",
+        "onboard_time": 1719275959,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372237,
+        "num": 372237,
+        "word": "女子与男友发生关系后诬告对方强奸",
+        "onboard_time": 1719231140,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338176,
+        "num": 338176,
+        "word": "安徽高考分数线",
+        "onboard_time": 1719277939,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 319454,
+        "num": 319454,
+        "word": "刘亦菲自拍水平二十年如一日",
+        "onboard_time": 1719270854,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318471,
+        "num": 318471,
+        "word": "各方回应七岁女孩吃面包噎住不幸离世",
+        "onboard_time": 1719276020,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303378,
+        "num": 303378,
+        "word": "女孩幼儿园噎住身亡家长索赔数百万",
+        "onboard_time": 1719272355,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295675,
+        "num": 295675,
+        "word": "莫德里奇破纪录",
+        "onboard_time": 1719272537,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 877154,
+        "num": 290200,
+        "word": "对方拒绝了你的自我感动",
+        "onboard_time": 1719271695,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347198,
+        "num": 281402,
+        "word": "我的家政阿姨想当我妹的婆婆",
+        "onboard_time": 1719276140,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 344035,
+        "num": 279288,
+        "word": "黄子韬首次担任综艺出品人",
+        "onboard_time": 1719278119,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308809,
+        "num": 264429,
+        "word": "常喝牛奶和不常喝奶的人真的差很多",
+        "onboard_time": 1719278058,
+        "rank": 23,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 263934,
+        "num": 263934,
+        "word": "河南一分一段",
+        "onboard_time": 1719271755,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 215141,
+        "num": 215141,
+        "word": "杭州西湖泄洪了",
+        "onboard_time": 1719270854,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213996,
+        "num": 213996,
+        "word": "刘亦菲喝了黄玫瑰拿铁",
+        "onboard_time": 1719242121,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208143,
+        "num": 208143,
+        "word": "发现导师朋友圈只屏蔽了我",
+        "onboard_time": 1719243859,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203746,
+        "num": 203746,
+        "word": "北大教授建议年轻人不要躺平继续卷",
+        "onboard_time": 1719278058,
+        "rank": 28,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 122883,
+        "num": 190456,
+        "word": "长沙1小时下了54个西湖",
+        "onboard_time": 1719220640,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190155,
+        "num": 190155,
+        "word": "裸辞后的第一件事学会给自己交社保",
+        "onboard_time": 1719272417,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 181770,
+        "num": 181770,
+        "word": "无意识却能攒钱的习惯",
+        "onboard_time": 1719277878,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179595,
+        "num": 179595,
+        "word": "为啥不是新秀",
+        "onboard_time": 1719276618,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177138,
+        "num": 177138,
+        "word": "王星越拒绝小孩哥标签",
+        "onboard_time": 1719273137,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165611,
+        "num": 165611,
+        "word": "云南一副县长回应被举报出轨",
+        "onboard_time": 1719276560,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162816,
+        "num": 162816,
+        "word": "起火电池厂员工工资为韩国最低时薪",
+        "onboard_time": 1719275540,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160875,
+        "num": 160875,
+        "word": "辉子失误",
+        "onboard_time": 1719242240,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159972,
+        "num": 159972,
+        "word": "韩方通报遇难中国公民增至19人",
+        "onboard_time": 1719230598,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145709,
+        "num": 145709,
+        "word": "A股大跌",
+        "onboard_time": 1719240321,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140345,
+        "num": 140345,
+        "word": "恋与深空快开门",
+        "onboard_time": 1719274639,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138138,
+        "num": 138138,
+        "word": "我不成仙",
+        "onboard_time": 1719274038,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137332,
+        "num": 137332,
+        "word": "心疼辉子",
+        "onboard_time": 1719271875,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134666,
+        "num": 134666,
+        "word": "韩国工厂为何有这么多外籍人员",
+        "onboard_time": 1719278178,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133983,
+        "num": 133983,
+        "word": "长相思男团穿西装不告诉邓为",
+        "onboard_time": 1719258791,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131629,
+        "num": 131629,
+        "word": "榴莲的叶酸含量是苹果的30倍",
+        "onboard_time": 1719236360,
+        "rank": 44,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 129840,
+        "num": 129840,
+        "word": "湖北高考成绩",
+        "onboard_time": 1719271815,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122434,
+        "num": 122434,
+        "word": "湖北分数线",
+        "onboard_time": 1719277760,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115612,
+        "num": 115612,
+        "word": "陈娴回应",
+        "onboard_time": 1719278417,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113521,
+        "num": 113521,
+        "word": "天蝎座不愧是纯爱战士",
+        "onboard_time": 1719270854,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113013,
+        "num": 113013,
+        "word": "阿桑奇或将认罪",
+        "onboard_time": 1719277698,
+        "rank": 49,
+        "category": "国外时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
