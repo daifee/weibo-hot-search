@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719285704158,
+  "endTime": 1719286551748,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -427,6 +427,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1034818,
+      "num": 1034818,
+      "word": "广东高考分数线",
+      "onboard_time": 1719284780,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1030937,
       "num": 298030,
       "word": "轻断食五天瘦了11斤",
@@ -636,7 +644,7 @@
     },
     {
       "raw_hot": 837462,
-      "num": 289833,
+      "num": 331758,
       "word": "常喝牛奶和不常喝奶的人真的差很多",
       "onboard_time": 1719278058,
       "rank": 23,
@@ -801,14 +809,6 @@
       "onboard_time": 1719136037,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 706693,
-      "num": 706693,
-      "word": "广东高考分数线",
-      "onboard_time": 1719284780,
-      "rank": 6,
-      "category": "教育"
     },
     {
       "raw_hot": 703723,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1719121578,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 515688,
+      "num": 515688,
+      "word": "广东分数线",
+      "onboard_time": 1719285978,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 515545,
@@ -1747,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 422262,
+      "num": 422262,
+      "word": "你比星光美丽定档",
+      "onboard_time": 1719283398,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421611,
       "num": 421611,
       "word": "一家七口毕业于同所大学",
@@ -1763,20 +1779,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 420880,
+      "num": 327457,
+      "word": "婚礼上取消了我不喜欢的环节",
+      "onboard_time": 1719285140,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 419958,
       "num": 419958,
       "word": "上海地铁",
       "onboard_time": 1719189619,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 419454,
-      "num": 419454,
-      "word": "你比星光美丽定档",
-      "onboard_time": 1719283398,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 417813,
@@ -2169,14 +2185,6 @@
       "onboard_time": 1719281119,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 344135,
-      "num": 289669,
-      "word": "婚礼上取消了我不喜欢的环节",
-      "onboard_time": 1719285140,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 342928,
@@ -2675,6 +2683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 268298,
+      "num": 268298,
+      "word": "山东高考查分",
+      "onboard_time": 1719285559,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 268022,
       "num": 268022,
       "word": "肖战北京机场图",
@@ -2760,6 +2776,14 @@
       "word": "李梦说吴谨言是个潮妹",
       "onboard_time": 1719203480,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 254598,
+      "num": 254598,
+      "word": "度华年定档",
+      "onboard_time": 1719286038,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -3571,6 +3595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 198155,
+      "num": 185050,
+      "word": "刘亦菲喊的傅家明霍建华都听到了",
+      "onboard_time": 1719285440,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198142,
       "num": 198142,
       "word": "王一博回国到达北京",
@@ -3851,6 +3883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185859,
+      "num": 185859,
+      "word": "一人一句为耕地发声",
+      "onboard_time": 1719286338,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185730,
       "num": 185730,
       "word": "TES战胜LNG",
@@ -3953,14 +3993,6 @@
       "onboard_time": 1719202640,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 181917,
-      "num": 181917,
-      "word": "山东高考查分",
-      "onboard_time": 1719285559,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 180364,
@@ -4313,6 +4345,14 @@
       "onboard_time": 1719215598,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165051,
+      "num": 165051,
+      "word": "浙江高考分数线",
+      "onboard_time": 1719284780,
+      "rank": 40,
+      "category": "教育"
     },
     {
       "raw_hot": 164822,
@@ -4683,14 +4723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150384,
-      "num": 150384,
-      "word": "刘亦菲喊的傅家明霍建华都听到了",
-      "onboard_time": 1719285440,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150164,
       "num": 525351,
       "word": "有些商家打广告的方式越来越隐蔽了",
@@ -4723,6 +4755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148017,
+      "num": 148017,
+      "word": "巴西0比0哥斯达黎加",
+      "onboard_time": 1719286038,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147808,
       "num": 147808,
       "word": "绵阳中考一班6人超850分",
@@ -4745,6 +4785,14 @@
       "onboard_time": 1719154161,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 147449,
+      "num": 147449,
+      "word": "英硕毕业我妈让我去当收银员",
+      "onboard_time": 1719286160,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 147158,
@@ -4841,14 +4889,6 @@
       "onboard_time": 1719061158,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 143122,
-      "num": 143122,
-      "word": "浙江高考分数线",
-      "onboard_time": 1719284780,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 142720,
@@ -5025,6 +5065,14 @@
       "onboard_time": 1719111737,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135250,
+      "num": 135250,
+      "word": "嫦娥六号",
+      "onboard_time": 1719286459,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135244,
@@ -5691,6 +5739,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112754,
+      "num": 479921,
+      "word": "人社局执法大队上门调查Manner",
+      "onboard_time": 1719284419,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112632,
       "num": 116135,
       "word": "李德仁薛其坤获国家最高科学技术奖",
@@ -5712,6 +5768,14 @@
       "word": "鹅剧派对全阵容",
       "onboard_time": 1719129318,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111070,
+      "num": 111070,
+      "word": "丞磊商别离偷感好重",
+      "onboard_time": 1719286519,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -6283,14 +6347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 74490,
-      "num": 479921,
-      "word": "人社局执法大队上门调查Manner",
-      "onboard_time": 1719284419,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73644,
       "num": 131704,
       "word": "贵州茅台回应下跌",
@@ -6603,6 +6659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41189,
+      "num": 350400,
+      "word": "抗洪消防员撤走前被老乡疯狂投喂",
+      "onboard_time": 1719276140,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41145,
       "num": 49829,
       "word": "养成松弛感的9个方法",
@@ -6803,6 +6867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 31332,
+      "num": 344030,
+      "word": "高考后的内心对话",
+      "onboard_time": 1719283698,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 29686,
       "num": 395432,
       "word": "汽车高管花式推荐大学专业",
@@ -6881,14 +6953,6 @@
       "onboard_time": 1719282918,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26352,
-      "num": 297941,
-      "word": "高考后的内心对话",
-      "onboard_time": 1719283698,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 26171,
