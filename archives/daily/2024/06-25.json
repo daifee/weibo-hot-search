@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719318968641,
+  "endTime": 1719319869664,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -56,6 +56,14 @@
       "word": "教育局回应女生拿6双筷子被斥盗窃",
       "onboard_time": 1719302960,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1579978,
+      "num": 1579978,
+      "word": "男生查分后默默去做饭妈妈秒懂",
+      "onboard_time": 1719317478,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -179,14 +187,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 963958,
-      "num": 292055,
-      "word": "男生查分后默默去做饭妈妈秒懂",
-      "onboard_time": 1719317478,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 957218,
       "num": 957218,
       "word": "一高中全班57人最低分608分",
@@ -307,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 704945,
+      "num": 704945,
+      "word": "刘亦菲发文感谢所有人",
+      "onboard_time": 1719317538,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 700550,
       "num": 700550,
       "word": "到底啥是city不city啊",
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 611884,
-      "num": 276769,
+      "num": 291962,
       "word": "长期不吃晚饭的人最终怎么了",
       "onboard_time": 1719303079,
       "rank": 41,
@@ -401,14 +409,6 @@
       "onboard_time": 1719231140,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 603309,
-      "num": 603309,
-      "word": "刘亦菲发文感谢所有人",
-      "onboard_time": 1719317538,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 598160,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 447943,
-      "num": 311508,
+      "num": 315671,
       "word": "刘亦菲认出朱珠唇印",
       "onboard_time": 1719307998,
       "rank": 48,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 379792,
+      "num": 302285,
+      "word": "古茗logo",
+      "onboard_time": 1719317899,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 369122,
       "num": 248748,
       "word": "林一回应和刘亦菲合作",
@@ -763,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 329950,
+      "num": 295000,
+      "word": "腾讯视频回复刘亦菲",
+      "onboard_time": 1719318439,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329562,
       "num": 329562,
       "word": "薛之谦 二开什么时候",
@@ -785,6 +801,14 @@
       "onboard_time": 1719301521,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 321499,
+      "num": 321499,
+      "word": "安踏奥运领奖服",
+      "onboard_time": 1719317358,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 320583,
@@ -833,14 +857,6 @@
       "onboard_time": 1719246077,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 300043,
-      "num": 300043,
-      "word": "安踏奥运领奖服",
-      "onboard_time": 1719317358,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 297096,
@@ -939,6 +955,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 270805,
+      "num": 270805,
+      "word": "金智媛台北活动",
+      "onboard_time": 1719318559,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270459,
       "num": 270459,
       "word": "A股大跌",
@@ -1019,12 +1043,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 248646,
-      "num": 248646,
-      "word": "古茗logo",
-      "onboard_time": 1719317899,
-      "rank": 18,
-      "category": "美食"
+      "raw_hot": 248276,
+      "num": 248276,
+      "word": "杜海涛向金靖讨教孕妇知识",
+      "onboard_time": 1719318259,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 246613,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1719311239,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232602,
+      "num": 232602,
+      "word": "日本卖的西瓜皮是谁啃的",
+      "onboard_time": 1719316158,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 231640,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1719297739,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225521,
+      "num": 293268,
+      "word": "要说鉴茶还得看00后",
+      "onboard_time": 1719317298,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 225254,
@@ -1179,22 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218481,
-      "num": 218481,
-      "word": "杜海涛向金靖讨教孕妇知识",
-      "onboard_time": 1719318259,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 217940,
-      "num": 217940,
-      "word": "日本卖的西瓜皮是谁啃的",
-      "onboard_time": 1719316158,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217553,
       "num": 175190,
       "word": "某韩国男星性侵18岁女学生",
@@ -1211,12 +1235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215526,
-      "num": 215526,
-      "word": "金智媛台北活动",
-      "onboard_time": 1719318559,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 215247,
+      "num": 215247,
+      "word": "没有人比大学生更懂报志愿",
+      "onboard_time": 1719318679,
+      "rank": 28,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 215158,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1719307578,
       "rank": 19,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214428,
+      "num": 214428,
+      "word": "林俊杰太原抢票",
+      "onboard_time": 1719318498,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 208677,
@@ -1283,30 +1315,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 205683,
-      "num": 205683,
-      "word": "腾讯视频回复刘亦菲",
-      "onboard_time": 1719318439,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205663,
-      "num": 205663,
-      "word": "没有人比大学生更懂报志愿",
-      "onboard_time": 1719318679,
-      "rank": 28,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 205273,
-      "num": 205273,
-      "word": "要说鉴茶还得看00后",
-      "onboard_time": 1719317298,
-      "rank": 29,
-      "category": "美食"
-    },
-    {
       "raw_hot": 204150,
       "num": 204150,
       "word": "刘亦菲同款冲锋衣卖断货",
@@ -1331,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203206,
+      "num": 203206,
+      "word": "喜茶新品名小奶栀被指擦边",
+      "onboard_time": 1719318859,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203146,
       "num": 203146,
       "word": "成龙夸张艺兴全能",
@@ -1353,14 +1369,6 @@
       "onboard_time": 1719277878,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199844,
-      "num": 199844,
-      "word": "林俊杰太原抢票",
-      "onboard_time": 1719318498,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 199268,
@@ -1425,6 +1433,14 @@
       "onboard_time": 1719291381,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 194959,
+      "num": 194959,
+      "word": "谭松韵有自己的职场赛道",
+      "onboard_time": 1719319398,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 194602,
@@ -1673,6 +1689,14 @@
       "onboard_time": 1719282620,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169707,
+      "num": 169707,
+      "word": "张常宁进入拟退役运动员公示名单",
+      "onboard_time": 1719319098,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 168846,
@@ -1931,6 +1955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150144,
+      "num": 150144,
+      "word": "日本爸爸活",
+      "onboard_time": 1719316398,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149616,
       "num": 149616,
       "word": "职高生超一本线43分圆大学梦",
@@ -1987,14 +2019,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 144534,
-      "num": 144534,
-      "word": "日本爸爸活",
-      "onboard_time": 1719316398,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144054,
       "num": 144054,
       "word": "时代少年团将录hi6",
@@ -2011,12 +2035,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143644,
-      "num": 143644,
-      "word": "喜茶新品名小奶栀被指擦边",
-      "onboard_time": 1719318859,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 143457,
+      "num": 143457,
+      "word": "克拉岛抢票",
+      "onboard_time": 1719315436,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 142786,
@@ -2097,14 +2121,6 @@
       "onboard_time": 1719295519,
       "rank": 20,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 137433,
-      "num": 137433,
-      "word": "克拉岛抢票",
-      "onboard_time": 1719315436,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 137332,
@@ -2195,12 +2211,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 129983,
+      "num": 194530,
+      "word": "塞尔维亚武器是如何转移到乌军手中",
+      "onboard_time": 1719314747,
+      "rank": 29,
+      "category": "国外时政"
+    },
+    {
       "raw_hot": 129840,
       "num": 129840,
       "word": "湖北高考成绩",
       "onboard_time": 1719271815,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 129514,
+      "num": 129514,
+      "word": "颜心记 嫂子文学",
+      "onboard_time": 1719319637,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128636,
+      "num": 128636,
+      "word": "足协杯抽签",
+      "onboard_time": 1719319218,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 128436,
@@ -2307,14 +2347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 120588,
-      "num": 194530,
-      "word": "塞尔维亚武器是如何转移到乌军手中",
-      "onboard_time": 1719314747,
-      "rank": 29,
-      "category": "国外时政"
-    },
-    {
       "raw_hot": 119598,
       "num": 119598,
       "word": "没有人比张艺兴更怀念当年",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1719315258,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114649,
+      "num": 114649,
+      "word": "MTJJ 弃养",
+      "onboard_time": 1719319819,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 114039,
@@ -2523,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 91477,
+      "num": 317939,
+      "word": "张艺谋新作灵龙",
+      "onboard_time": 1719316158,
+      "rank": 16,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 91160,
       "num": 118328,
       "word": "为何前列腺癌一发现就是晚期",
@@ -2571,6 +2619,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74013,
+      "num": 158952,
+      "word": "我考了696分我同桌考了703分",
+      "onboard_time": 1719319759,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71650,
       "num": 87922,
       "word": "大四女生退学后复读5个月考641分",
@@ -2611,14 +2667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 64332,
-      "num": 258515,
-      "word": "张艺谋新作灵龙",
-      "onboard_time": 1719316158,
-      "rank": 16,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 60650,
       "num": 885964,
       "word": "只此青绿版青海湖有多美",
@@ -2649,6 +2697,14 @@
       "onboard_time": 1719288020,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 56175,
+      "num": 310502,
+      "word": "新郎看到新娘画的全家福感动泪奔",
+      "onboard_time": 1719319279,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54871,
@@ -2787,6 +2843,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 29497,
+      "num": 304092,
+      "word": "刘震云给黄磊送火烧",
+      "onboard_time": 1719316818,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 28422,
       "num": 185870,
       "word": "医学类大学和学院差距大吗",
@@ -2857,14 +2921,6 @@
       "onboard_time": 1719251773,
       "rank": 49,
       "category": "综艺,音乐"
-    },
-    {
-      "raw_hot": 22841,
-      "num": 269523,
-      "word": "刘震云给黄磊送火烧",
-      "onboard_time": 1719316818,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 20912,
