@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719333593374,
+  "endTime": 1719335903702,
   "band_list": [
     {
       "raw_hot": 826246,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295987,
+      "num": 181318,
+      "word": "朋友圈可以屏蔽一个群的人",
+      "onboard_time": 1719331037,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 285660,
       "num": 285660,
       "word": "MTJJ 弃养",
@@ -145,14 +153,6 @@
       "onboard_time": 1719321079,
       "rank": 17,
       "category": "美食"
-    },
-    {
-      "raw_hot": 195509,
-      "num": 181318,
-      "word": "朋友圈可以屏蔽一个群的人",
-      "onboard_time": 1719331037,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 189425,
@@ -257,6 +257,14 @@
       "onboard_time": 1719323540,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 91292,
+      "num": 390437,
+      "word": "凡尔赛男孩称考得不好全省排名一千多",
+      "onboard_time": 1719332177,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90735,
@@ -395,14 +403,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53501,
-      "num": 390437,
-      "word": "凡尔赛男孩称考得不好全省排名一千多",
-      "onboard_time": 1719332177,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48549,
       "num": 76863,
       "word": "WBG更换首发辅助",
@@ -411,11 +411,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35934,
+      "num": 45321,
+      "word": "刘雅瑟 你是男的还是我是男的",
+      "onboard_time": 1719319880,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 24351,
       "num": 644123,
       "word": "高质量发展中国行",
       "onboard_time": 1719322939,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15537,
+      "num": 201949,
+      "word": "送给1170万毕业生的纪念歌曲",
+      "onboard_time": 1719334035,
+      "rank": 9,
       "category": "社会新闻"
     }
   ],
