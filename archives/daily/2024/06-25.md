@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/25 00:23:40 ~ 2024/06/25 12:22:23
+本榜单时间：2024/06/25 00:23:40 ~ 2024/06/25 12:36:54
 </p>
 </blockquote>
 <p>
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%BC%80%E5%BF%83%E6%99%92%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83438%E5%88%86%23" target="weibo">
+妈妈开心晒女儿高考438分（热度：1034292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%94%A8%E4%BA%8620%E5%A4%9A%E5%B9%B4%E7%9A%84%E9%94%A4%E5%AD%90%E7%AB%9F%E6%98%AF%E6%89%8B%E6%A6%B4%E5%BC%B9%23" target="weibo">
 老人用了20多年的锤子竟是手榴弹（热度：1030924）
 </a>
@@ -82,13 +88,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%8F%96%E6%B6%88%E4%BA%86%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E7%8E%AF%E8%8A%82%23" target="weibo">
-婚礼上取消了我不喜欢的环节（热度：986587）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%BC%80%E5%BF%83%E6%99%92%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83438%E5%88%86%23" target="weibo">
-妈妈开心晒女儿高考438分（热度：962040）
+婚礼上取消了我不喜欢的环节（热度：989510）
 </a>
 </li>
 
@@ -237,6 +237,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A2%E5%8D%81%E5%B9%B4%E7%9A%84%E4%BD%9C%E5%93%81%E5%87%BA%E7%8E%B0%E5%9C%A8%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
+丢十年的作品出现在玫瑰的故事（热度：433878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E9%A6%96%E6%AC%A1%E6%8B%85%E4%BB%BB%E7%BB%BC%E8%89%BA%E5%87%BA%E5%93%81%E4%BA%BA%23" target="weibo">
 黄子韬首次担任综艺出品人（热度：433540）
 </a>
@@ -255,14 +261,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%23" target="weibo">
-北京地铁（热度：383092）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%B0%B4%E6%9E%9C%E5%BE%88%E8%B4%B5%E4%BD%86%E8%90%A5%E5%85%BB%E4%BB%B7%E5%80%BC%E4%B8%80%E8%88%AC%23" target="weibo">
+这种水果很贵但营养价值一般（热度：393264）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E6%B0%B4%E6%9E%9C%E5%BE%88%E8%B4%B5%E4%BD%86%E8%90%A5%E5%85%BB%E4%BB%B7%E5%80%BC%E4%B8%80%E8%88%AC%23" target="weibo">
-这种水果很贵但营养价值一般（热度：382822）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%23" target="weibo">
+北京地铁（热度：383092）
 </a>
 </li>
 
@@ -315,12 +321,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A2%E5%8D%81%E5%B9%B4%E7%9A%84%E4%BD%9C%E5%93%81%E5%87%BA%E7%8E%B0%E5%9C%A8%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%23" target="weibo">
-丢十年的作品出现在玫瑰的故事（热度：302735）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%A2%97%E5%AE%BD%E9%9D%A2%E7%BB%84%E5%9B%A2%E9%AD%824%E5%B9%B4%E5%90%8E%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%23" target="weibo">
 大碗宽面组团魂4年后居然还在（热度：302582）
 </a>
@@ -363,8 +363,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8%E9%A2%84%E8%AD%A6%E5%86%8D%E5%8D%87%E7%BA%A7%23" target="weibo">
+长沙暴雨预警再升级（热度：276418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E7%9F%A5%E6%97%81%E8%BE%B9%E5%90%8C%E4%BA%8B%E5%B1%85%E7%84%B6%E6%9C%893%E4%BB%BD%E6%94%B6%E5%85%A5%23" target="weibo">
 得知旁边同事居然有3份收入（热度：275401）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83619%E5%88%86%E7%88%B8%E7%88%B8%E5%8D%8A%E5%A4%9C%E6%8A%8A%E5%84%BF%E5%AD%90%E5%96%8A%E9%86%92%23" target="weibo">
+女儿高考619分爸爸半夜把儿子喊醒（热度：275356）
 </a>
 </li>
 
@@ -405,8 +417,20 @@ A股大跌（热度：270459）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%96%9D%E8%8C%B6%E4%B8%8E%E7%BB%8F%E5%B8%B8%E5%96%9D%E5%92%96%E5%95%A1%E7%9A%84%E4%BA%BA%E8%B0%81%E6%9B%B4%E5%B9%B4%E8%BD%BB%23" target="weibo">
+经常喝茶与经常喝咖啡的人谁更年轻（热度：241657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%B3%E6%A2%A6%E4%BD%B3%E6%95%91%E5%9C%BA%23" target="weibo">
 靳梦佳救场（热度：239865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A7%91%E7%9B%AE%E4%BA%8C%E8%A2%AB%E6%89%A3%E4%BA%86%E4%B8%80%E5%8D%83%E5%A4%9A%E5%88%86%23" target="weibo">
+考科目二被扣了一千多分（热度：234698）
 </a>
 </li>
 
@@ -417,14 +441,14 @@ A股大跌（热度：270459）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%96%9D%E8%8C%B6%E4%B8%8E%E7%BB%8F%E5%B8%B8%E5%96%9D%E5%92%96%E5%95%A1%E7%9A%84%E4%BA%BA%E8%B0%81%E6%9B%B4%E5%B9%B4%E8%BD%BB%23" target="weibo">
-经常喝茶与经常喝咖啡的人谁更年轻（热度：225935）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%9C%AC%E7%A7%91%E5%8E%86%E5%8F%B2%E7%B1%BB462%E7%89%A9%E7%90%86%E7%B1%BB465%23" target="weibo">
+安徽本科历史类462物理类465（热度：225254）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%9C%AC%E7%A7%91%E5%8E%86%E5%8F%B2%E7%B1%BB462%E7%89%A9%E7%90%86%E7%B1%BB465%23" target="weibo">
-安徽本科历史类462物理类465（热度：225254）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%95%A5%E4%B8%8D%E6%83%B3%E5%8E%BB%E9%9F%A9%E5%9B%BD%E6%97%85%E6%B8%B8%E4%BA%86%23" target="weibo">
+中国游客为啥不想去韩国旅游了（热度：222641）
 </a>
 </li>
 
@@ -459,6 +483,12 @@ A股大跌（热度：270459）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2317%E5%B9%B4%E5%89%8D%E8%80%83%E4%B8%8A985%E5%A6%82%E4%BB%8A%E5%9C%A8%E5%B7%A5%E5%8E%82%E6%8B%A7%E8%9E%BA%E4%B8%9D%23" target="weibo">
+17年前考上985如今在工厂拧螺丝（热度：205268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9E%E9%AA%8C%E7%8A%AC%23" target="weibo">
 实验犬（热度：203711）
 </a>
@@ -477,20 +507,26 @@ A股大跌（热度：270459）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B9%90%E8%92%82%E8%A3%85%E6%89%AE%23" target="weibo">
+美乐蒂装扮（热度：198806）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B0%9A%E7%8F%BA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23" target="weibo">
 唐尚珺高考成绩（热度：198389）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E4%B8%80%E6%8A%8A%E6%8A%B1%E8%B5%B7%E4%BA%86%E5%89%8D%E5%A4%AB%E5%93%A5%23" target="weibo">
-王星越一把抱起了前夫哥（热度：197217）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
+浙江高考分数线（热度：197537）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8%E9%A2%84%E8%AD%A6%E5%86%8D%E5%8D%87%E7%BA%A7%23" target="weibo">
-长沙暴雨预警再升级（热度：194842）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E4%B8%80%E6%8A%8A%E6%8A%B1%E8%B5%B7%E4%BA%86%E5%89%8D%E5%A4%AB%E5%93%A5%23" target="weibo">
+王星越一把抱起了前夫哥（热度：197217）
 </a>
 </li>
 
@@ -513,6 +549,12 @@ A股大跌（热度：270459）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%23" target="weibo">
+刘德华演唱会抢票（热度：187739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9B%E7%BB%8F%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%96%BC%E8%A6%81%E5%B0%8F%E5%BF%83%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%9B%8A%E8%82%BF%23" target="weibo">
 痛经越来越疼要小心巧克力囊肿（热度：187237）
 </a>
@@ -531,8 +573,20 @@ A股大跌（热度：270459）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E6%83%B3%E5%92%8C%E9%AB%98%E5%9C%86%E5%9C%86%E4%B8%8A%E6%81%8B%E7%BB%BC%E7%A7%A6%E9%9C%84%E8%B4%A4%E6%9B%B4%E6%83%B3%23" target="weibo">
+郭麒麟想和高圆圆上恋综秦霄贤更想（热度：185247）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E7%8E%89%E5%9C%A8%E4%BE%A7%E5%AE%9A%E6%A1%A3%23" target="weibo">
 珠玉在侧定档（热度：182206）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%90%E7%BB%A9%E7%BB%99%E4%BA%86%E9%AB%98%E8%80%83%23" target="weibo">
+高中最好的成绩给了高考（热度：180687）
 </a>
 </li>
 
@@ -543,20 +597,8 @@ A股大跌（热度：270459）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%95%A5%E4%B8%8D%E6%83%B3%E5%8E%BB%E9%9F%A9%E5%9B%BD%E6%97%85%E6%B8%B8%E4%BA%86%23" target="weibo">
-中国游客为啥不想去韩国旅游了（热度：178521）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%BB%BA%E7%AB%A0%E7%A7%B0%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E4%B8%8D%E5%BF%85%E8%BF%87%E6%97%A9%E9%94%81%E5%AE%9A%E4%B8%93%E4%B8%9A%23" target="weibo">
 梁建章称大学本科不必过早锁定专业（热度：178496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%BA%92%E9%BA%9F%E6%83%B3%E5%92%8C%E9%AB%98%E5%9C%86%E5%9C%86%E4%B8%8A%E6%81%8B%E7%BB%BC%E7%A7%A6%E9%9C%84%E8%B4%A4%E6%9B%B4%E6%83%B3%23" target="weibo">
-郭麒麟想和高圆圆上恋综秦霄贤更想（热度：177555）
 </a>
 </li>
 
@@ -575,12 +617,6 @@ A股大跌（热度：270459）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83689%E5%88%86%E5%8F%8A%E4%BB%A5%E4%B8%8A107%E4%BA%BA%23" target="weibo">
 江苏高考689分及以上107人（热度：173831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23" target="weibo">
-浙江高考分数线（热度：170346）
 </a>
 </li>
 
@@ -611,6 +647,12 @@ A股大跌（热度：270459）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E7%81%AB%E7%94%B5%E6%B1%A0%E5%8E%82%E5%91%98%E5%B7%A5%E5%B7%A5%E8%B5%84%E4%B8%BA%E9%9F%A9%E5%9B%BD%E6%9C%80%E4%BD%8E%E6%97%B6%E8%96%AA%23" target="weibo">
 起火电池厂员工工资为韩国最低时薪（热度：162816）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%96%B0%E5%89%A7%E5%BC%80%E5%A4%A7G%23" target="weibo">
+许凯新剧开大G（热度：160522）
 </a>
 </li>
 
@@ -669,6 +711,12 @@ A股大跌（热度：270459）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86690%E4%B8%8A%E6%BC%94%E8%B6%85%E9%95%BF%E5%8F%8D%E5%B0%84%E5%BC%A7%23" target="weibo">
+女生高考查分690上演超长反射弧（热度：148560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF0%E6%AF%940%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%23" target="weibo">
 巴西0比0哥斯达黎加（热度：148017）
 </a>
@@ -719,12 +767,6 @@ iOS18能下载更大应用了（热度：142046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%23" target="weibo">
 嫦娥六号（热度：135250）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B9%90%E8%92%82%E8%A3%85%E6%89%AE%23" target="weibo">
-美乐蒂装扮（热度：134984）
 </a>
 </li>
 
@@ -849,12 +891,6 @@ EXO成员去了张艺兴演唱会（热度：134640）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E6%96%B0%E5%89%A7%E5%BC%80%E5%A4%A7G%23" target="weibo">
-许凯新剧开大G（热度：113493）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%A4%BE%E5%B1%80%E6%89%A7%E6%B3%95%E5%A4%A7%E9%98%9F%E4%B8%8A%E9%97%A8%E8%B0%83%E6%9F%A5Manner%23" target="weibo">
 人社局执法大队上门调查Manner（热度：112754）
 </a>
@@ -969,8 +1005,20 @@ EXO成员去了张艺兴演唱会（热度：134640）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E6%9C%9F%E9%97%B4%E5%85%AB%E5%A4%A7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23" target="weibo">
+高考录取期间八大注意事项（热度：56481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E4%B8%B4%E8%B5%B0%E5%89%8D%E8%A2%AB%E6%91%B8%E5%90%8E%E6%9E%9C%E6%96%AD%E7%A6%BB%E5%8E%BB%23" target="weibo">
 狗狗临走前被摸后果断离去（热度：53946）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B0%E6%9C%9BU8%E6%8E%A2%E8%B7%AF%E6%B7%B1%E4%B8%AD%E9%80%9A%E9%81%93%23" target="weibo">
+仰望U8探路深中通道（热度：51248）
 </a>
 </li>
 
@@ -1001,18 +1049,6 @@ AI陶喆 泪桥（热度：48833）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%AD%E8%80%83874%E5%88%86%E6%9C%AC%E4%BA%BA%E8%B6%85%E6%B7%A1%E5%AE%9A%E5%A6%88%E5%A6%88%E8%B6%85%E6%BF%80%E5%8A%A8%23" target="weibo">
 女孩中考874分本人超淡定妈妈超激动（热度：38317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B0%E6%9C%9BU8%E6%8E%A2%E8%B7%AF%E6%B7%B1%E4%B8%AD%E9%80%9A%E9%81%93%23" target="weibo">
-仰望U8探路深中通道（热度：36258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E6%9C%9F%E9%97%B4%E5%85%AB%E5%A4%A7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9%23" target="weibo">
-高考录取期间八大注意事项（热度：35631）
 </a>
 </li>
 
@@ -1085,6 +1121,12 @@ toyoki的diss（热度：24357）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%82%A3%E5%BF%83%E8%82%8C%E7%82%8E%E6%8B%92%E6%B2%BB%E7%96%97%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD%23" target="weibo">
 小伙患心肌炎拒治疗医生紧急救回一命（热度：13676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%BD%93%E4%B8%80%E5%9B%9E%E8%B4%BE%E7%8E%B2%E7%9A%84%E8%BF%90%E5%8A%A8%E6%90%AD%E5%AD%90%23" target="weibo">
+想当一回贾玲的运动搭子（热度：13275）
 </a>
 </li>
 

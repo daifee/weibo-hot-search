@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 12:22:23
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 12:36:54
 </p>
 </blockquote>
 <p>
@@ -3279,6 +3279,12 @@ iPhone有通话录音了（热度：1060619）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%BC%80%E5%BF%83%E6%99%92%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83438%E5%88%86%23" target="weibo">
+妈妈开心晒女儿高考438分（热度：1034292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%90%A6%E8%AE%A4%E5%A7%9C%E8%90%8D%E5%9B%A0%E5%AE%B6%E8%B4%AB%E6%94%BE%E5%BC%83%E8%AF%BB%E9%AB%98%E4%B8%AD%23" target="weibo">
 村支书否认姜萍因家贫放弃读高中（热度：1032137）
 </a>
@@ -3543,14 +3549,14 @@ Manner男店员掌掴女顾客附近商家发声（热度：1005974）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%A0%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E6%96%BD%E8%A1%8C896%E5%B7%A5%E4%BD%9C%E5%88%B6%23" target="weibo">
-传宁德时代施行896工作制（热度：986726）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%8F%96%E6%B6%88%E4%BA%86%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E7%8E%AF%E8%8A%82%23" target="weibo">
+婚礼上取消了我不喜欢的环节（热度：989510）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%8F%96%E6%B6%88%E4%BA%86%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E7%8E%AF%E8%8A%82%23" target="weibo">
-婚礼上取消了我不喜欢的环节（热度：986587）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%A0%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E6%96%BD%E8%A1%8C896%E5%B7%A5%E4%BD%9C%E5%88%B6%23" target="weibo">
+传宁德时代施行896工作制（热度：986726）
 </a>
 </li>
 
@@ -3707,12 +3713,6 @@ iPhone16全系尺寸曝光（热度：968426）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%85%A8%E7%90%83%E9%A6%96%E7%A9%BF%23" target="weibo">
 张若昀全球首穿（热度：962042）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%BC%80%E5%BF%83%E6%99%92%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83438%E5%88%86%23" target="weibo">
-妈妈开心晒女儿高考438分（热度：962040）
 </a>
 </li>
 
