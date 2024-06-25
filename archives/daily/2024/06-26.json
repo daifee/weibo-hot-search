@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719353874610,
+  "endTime": 1719354891850,
   "band_list": [
     {
       "raw_hot": 826246,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 77982,
-      "num": 40091,
+      "num": 42072,
       "word": "晚上睡不着和熬夜的区别有多大",
       "onboard_time": 1719339252,
       "rank": 36,
@@ -345,6 +345,14 @@
       "onboard_time": 1719328698,
       "rank": 40,
       "category": "教育"
+    },
+    {
+      "raw_hot": 73741,
+      "num": 67004,
+      "word": "梁永棋抱着喝醉的王星越",
+      "onboard_time": 1719342551,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 73522,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 60295,
+      "num": 44695,
+      "word": "环卫工双胞胎儿子考了639和592",
+      "onboard_time": 1719351971,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59858,
       "num": 76895,
       "word": "迪丽热巴今年第13套高定",
@@ -419,28 +435,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 50264,
-      "num": 50264,
-      "word": "梁永棋抱着喝醉的王星越",
-      "onboard_time": 1719342551,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48549,
       "num": 76863,
       "word": "WBG更换首发辅助",
       "onboard_time": 1719316098,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 41289,
-      "num": 34322,
-      "word": "环卫工双胞胎儿子考了639和592",
-      "onboard_time": 1719351971,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 35934,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 26701,
-      "num": 26701,
+      "num": 36826,
       "word": "杜海涛想要个女儿",
       "onboard_time": 1719338532,
       "rank": 41,
@@ -476,19 +476,27 @@
     },
     {
       "raw_hot": 23786,
-      "num": 25979,
+      "num": 36786,
       "word": "i人甚至都不敢看完",
       "onboard_time": 1719341951,
       "rank": 35,
       "category": "幽默"
     },
     {
-      "raw_hot": 16251,
-      "num": 25967,
+      "raw_hot": 18159,
+      "num": 36774,
       "word": "当代年轻人逛商场流程",
       "onboard_time": 1719352151,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17527,
+      "num": 188136,
+      "word": "嫦娥六号返回器安全着陆",
+      "onboard_time": 1719320658,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15537,
@@ -496,14 +504,6 @@
       "word": "送给1170万毕业生的纪念歌曲",
       "onboard_time": 1719334035,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 14013,
-      "num": 160441,
-      "word": "嫦娥六号返回器安全着陆",
-      "onboard_time": 1719320658,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
