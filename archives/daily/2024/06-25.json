@@ -1,6 +1,6 @@
 {
   "startTime": 1719246220348,
-  "endTime": 1719321755443,
+  "endTime": 1719322441825,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -27,8 +27,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2092533,
-      "num": 2092533,
+      "raw_hot": 2178090,
+      "num": 2178090,
       "word": "男生查分后默默去做饭妈妈秒懂",
       "onboard_time": 1719317478,
       "rank": 10,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 514408,
-      "num": 428442,
+      "num": 460974,
       "word": "刘雅瑟 你是男的还是我是男的",
       "onboard_time": 1719319880,
       "rank": 6,
@@ -539,6 +539,14 @@
       "category": "国外时政"
     },
     {
+      "raw_hot": 476930,
+      "num": 476930,
+      "word": "喜茶新品名小奶栀被指擦边",
+      "onboard_time": 1719318859,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462346,
       "num": 462346,
       "word": "度华年定档",
@@ -547,12 +555,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456467,
+      "num": 456467,
+      "word": "MTJJ 弃养",
+      "onboard_time": 1719319819,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 456065,
       "num": 456065,
       "word": "于正在给吴谨言挑下一个剧本",
       "onboard_time": 1719290242,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 448006,
+      "num": 448006,
+      "word": "喜茶 小奶栀",
+      "onboard_time": 1719321079,
+      "rank": 22,
+      "category": "美食"
     },
     {
       "raw_hot": 447943,
@@ -636,7 +660,7 @@
     },
     {
       "raw_hot": 424222,
-      "num": 352402,
+      "num": 422710,
       "word": "腾讯视频回复刘亦菲",
       "onboard_time": 1719318439,
       "rank": 27,
@@ -787,20 +811,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330860,
-      "num": 411495,
-      "word": "喜茶新品名小奶栀被指擦边",
-      "onboard_time": 1719318859,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 334063,
+      "num": 334063,
+      "word": "宝石老舅已老实求放过",
+      "onboard_time": 1719321620,
+      "rank": 25,
+      "category": "综艺"
     },
     {
-      "raw_hot": 330608,
-      "num": 330608,
-      "word": "MTJJ 弃养",
-      "onboard_time": 1719319819,
-      "rank": 49,
-      "category": "动漫"
+      "raw_hot": 331765,
+      "num": 315443,
+      "word": "金智媛台北活动",
+      "onboard_time": 1719318559,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 329562,
@@ -915,14 +939,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 287962,
-      "num": 287962,
-      "word": "金智媛台北活动",
-      "onboard_time": 1719318559,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287705,
       "num": 279244,
       "word": "李泽锋 实在不行找站姐借图吧",
@@ -932,7 +948,7 @@
     },
     {
       "raw_hot": 285702,
-      "num": 397352,
+      "num": 428847,
       "word": "我考了696分我同桌考了703分",
       "onboard_time": 1719319759,
       "rank": 35,
@@ -1051,6 +1067,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262907,
+      "num": 262907,
+      "word": "涂山璟还是熟悉的那味儿",
+      "onboard_time": 1719320600,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261383,
       "num": 261383,
       "word": "杨幂论文字数",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1719318259,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248114,
-      "num": 248114,
-      "word": "喜茶 小奶栀",
-      "onboard_time": 1719321079,
-      "rank": 22,
-      "category": "美食"
     },
     {
       "raw_hot": 246613,
@@ -1203,14 +1219,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 223628,
-      "num": 223628,
-      "word": "宝石老舅已老实求放过",
-      "onboard_time": 1719321620,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 223002,
       "num": 223002,
       "word": "OpenAI宣布终止对中国提供API服务",
@@ -1315,6 +1323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 210650,
+      "num": 210650,
+      "word": "韩国流行的半扎发方法",
+      "onboard_time": 1719320600,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 208677,
       "num": 208677,
       "word": "河南高考600分及以上25623人",
@@ -1355,14 +1371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 207390,
-      "num": 196553,
-      "word": "韩国流行的半扎发方法",
-      "onboard_time": 1719320600,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 206082,
       "num": 206082,
       "word": "山东高考分数线",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1719284360,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203282,
-      "num": 203282,
-      "word": "涂山璟还是熟悉的那味儿",
-      "onboard_time": 1719320600,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 203146,
@@ -1851,6 +1851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161318,
+      "num": 161318,
+      "word": "双鱼座讨厌一个人全写在脸上",
+      "onboard_time": 1719320479,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 161031,
       "num": 161031,
       "word": "怎么选一个可以奋斗终生的专业",
@@ -1873,14 +1881,6 @@
       "onboard_time": 1719299419,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160160,
-      "num": 160160,
-      "word": "双鱼座讨厌一个人全写在脸上",
-      "onboard_time": 1719320479,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 159182,
@@ -2155,6 +2155,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 141122,
+      "num": 141122,
+      "word": "WBG对战AL",
+      "onboard_time": 1719321859,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140345,
       "num": 140345,
       "word": "恋与深空快开门",
@@ -2216,6 +2224,14 @@
       "word": "神仙同桌高考一个650分一个700分",
       "onboard_time": 1719295519,
       "rank": 20,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 137669,
+      "num": 137669,
+      "word": "暨南大学教授谈新闻学就业",
+      "onboard_time": 1719321500,
+      "rank": 47,
       "category": "教育,社会新闻"
     },
     {
@@ -2507,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113683,
+      "num": 113683,
+      "word": "赵露思旗袍",
+      "onboard_time": 1719322400,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113521,
       "num": 113521,
       "word": "天蝎座不愧是纯爱战士",
@@ -2561,14 +2585,6 @@
       "onboard_time": 1719315737,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107373,
-      "num": 107373,
-      "word": "暨南大学教授谈新闻学就业",
-      "onboard_time": 1719321500,
-      "rank": 47,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 107276,
@@ -2819,6 +2835,14 @@
       "category": "汽车,社会新闻"
     },
     {
+      "raw_hot": 50966,
+      "num": 732811,
+      "word": "嫦娥六号返回器安全着陆",
+      "onboard_time": 1719320658,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48833,
       "num": 53479,
       "word": "AI陶喆 泪桥",
@@ -2828,7 +2852,7 @@
     },
     {
       "raw_hot": 44895,
-      "num": 149976,
+      "num": 339537,
       "word": "张艺谋龙年龙服助力奥运",
       "onboard_time": 1719321259,
       "rank": 40,
@@ -2912,14 +2936,6 @@
       "word": "男生高考696班主任嘴角上扬压不住",
       "onboard_time": 1719307518,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36853,
-      "num": 732811,
-      "word": "嫦娥六号返回器安全着陆",
-      "onboard_time": 1719320658,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -3043,6 +3059,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 16749,
+      "num": 371846,
+      "word": "姜铁红院长文化之夜现场跳奔腾",
+      "onboard_time": 1719320419,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 15902,
       "num": 51724,
       "word": "直击湖南暴雨现场",
@@ -3065,14 +3089,6 @@
       "onboard_time": 1719285619,
       "rank": 29,
       "category": "国外时政"
-    },
-    {
-      "raw_hot": 14357,
-      "num": 336922,
-      "word": "姜铁红院长文化之夜现场跳奔腾",
-      "onboard_time": 1719320419,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 13676,

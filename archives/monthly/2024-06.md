@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 21:22:35
+本榜单时间：2024/06/01 00:22:56 ~ 2024/06/25 21:34:01
 </p>
 </blockquote>
 <p>
@@ -483,6 +483,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9F%A5%E5%88%86%E5%90%8E%E9%BB%98%E9%BB%98%E5%8E%BB%E5%81%9A%E9%A5%AD%E5%A6%88%E5%A6%88%E7%A7%92%E6%87%82%23" target="weibo">
+男生查分后默默去做饭妈妈秒懂（热度：2178090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E7%BD%91%E7%BA%A2%E9%81%AD%E6%9D%80%E5%AE%B3%E5%90%8E%E6%8A%9B%E5%B0%B8%E6%B5%99%E6%B1%9F%E6%B9%96%E5%B7%9E%23" target="weibo">
 一名网红遭杀害后抛尸浙江湖州（热度：2151774）
 </a>
@@ -521,12 +527,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%8F%AB%E9%86%92%E5%AD%A9%E5%AD%90%E9%94%99%E8%BF%87%E9%AB%98%E8%80%83%23" target="weibo">
 没叫醒孩子错过高考（热度：2101583）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9F%A5%E5%88%86%E5%90%8E%E9%BB%98%E9%BB%98%E5%8E%BB%E5%81%9A%E9%A5%AD%E5%A6%88%E5%A6%88%E7%A7%92%E6%87%82%23" target="weibo">
-男生查分后默默去做饭妈妈秒懂（热度：2092533）
 </a>
 </li>
 
