@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719332692855,
+  "endTime": 1719333593374,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -1675,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 502237,
+      "num": 481503,
+      "word": "刘亦菲回复林一",
+      "onboard_time": 1719330677,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502201,
       "num": 502201,
       "word": "王星越谈被校园霸凌哭了",
@@ -1992,14 +2000,6 @@
       "word": "刘亦菲喝了黄玫瑰拿铁",
       "onboard_time": 1719242121,
       "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 447410,
-      "num": 447410,
-      "word": "刘亦菲回复林一",
-      "onboard_time": 1719330677,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -4691,6 +4691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195509,
+      "num": 181318,
+      "word": "朋友圈可以屏蔽一个群的人",
+      "onboard_time": 1719331037,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195262,
       "num": 195262,
       "word": "周杰伦 DIOR活动",
@@ -5161,14 +5169,6 @@
       "onboard_time": 1719319637,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181318,
-      "num": 181318,
-      "word": "朋友圈可以屏蔽一个群的人",
-      "onboard_time": 1719331037,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 180687,
@@ -8403,6 +8403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 59858,
+      "num": 76895,
+      "word": "迪丽热巴今年第13套高定",
+      "onboard_time": 1719331818,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 59364,
       "num": 59364,
       "word": "高考成绩被屏蔽为什么",
@@ -8499,6 +8507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53501,
+      "num": 390437,
+      "word": "凡尔赛男孩称考得不好全省排名一千多",
+      "onboard_time": 1719332177,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53248,
       "num": 53248,
       "word": "陈都灵买过刘诗诗步步惊心周边",
@@ -8561,14 +8577,6 @@
       "onboard_time": 1719247575,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 48523,
-      "num": 390437,
-      "word": "凡尔赛男孩称考得不好全省排名一千多",
-      "onboard_time": 1719332177,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 48089,

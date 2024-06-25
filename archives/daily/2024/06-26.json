@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719332692855,
+  "endTime": 1719333593374,
   "band_list": [
     {
       "raw_hot": 826246,
@@ -35,20 +35,20 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 502237,
+      "num": 481503,
+      "word": "刘亦菲回复林一",
+      "onboard_time": 1719330677,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449528,
       "num": 449528,
       "word": "腾讯四连爆",
       "onboard_time": 1719311539,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 447410,
-      "num": 447410,
-      "word": "刘亦菲回复林一",
-      "onboard_time": 1719330677,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 417729,
@@ -147,6 +147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 195509,
+      "num": 181318,
+      "word": "朋友圈可以屏蔽一个群的人",
+      "onboard_time": 1719331037,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189425,
       "num": 189425,
       "word": "双鱼座讨厌一个人全写在脸上",
@@ -161,14 +169,6 @@
       "onboard_time": 1719303557,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181318,
-      "num": 181318,
-      "word": "朋友圈可以屏蔽一个群的人",
-      "onboard_time": 1719331037,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 150751,
@@ -259,6 +259,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 90735,
+      "num": 90735,
+      "word": "韩国流行的半扎发方法",
+      "onboard_time": 1719320600,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 88851,
       "num": 88851,
       "word": "庄国栋等了黄亦玫20年",
@@ -299,7 +307,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75764,
+      "raw_hot": 77719,
       "num": 86318,
       "word": "古茗logo",
       "onboard_time": 1719317899,
@@ -331,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69974,
-      "num": 86311,
-      "word": "韩国流行的半扎发方法",
-      "onboard_time": 1719320600,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 69382,
       "num": 86310,
       "word": "林沐然艺考过本科线",
@@ -353,6 +353,22 @@
       "onboard_time": 1719316158,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 63317,
+      "num": 86302,
+      "word": "宝石老舅已老实求放过",
+      "onboard_time": 1719321620,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 59858,
+      "num": 76895,
+      "word": "迪丽热巴今年第13套高定",
+      "onboard_time": 1719331818,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 58218,
@@ -379,20 +395,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56663,
-      "num": 86302,
-      "word": "宝石老舅已老实求放过",
-      "onboard_time": 1719321620,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 48523,
+      "raw_hot": 53501,
       "num": 390437,
       "word": "凡尔赛男孩称考得不好全省排名一千多",
       "onboard_time": 1719332177,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48549,
+      "num": 76863,
+      "word": "WBG更换首发辅助",
+      "onboard_time": 1719316098,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 24351,
