@@ -1,6 +1,6 @@
 {
   "startTime": 1719073451919,
-  "endTime": 1719304655722,
+  "endTime": 1719307243078,
   "band_list": [
     {
       "raw_hot": 2836264,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2189917,
-      "num": 411096,
+      "num": 438862,
       "word": "王艳儿子 北大",
       "onboard_time": 1719296298,
       "rank": 12,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1526102,
+      "num": 1526102,
+      "word": "教育局回应女生拿6双筷子被斥盗窃",
+      "onboard_time": 1719302960,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483879,
       "num": 986535,
       "word": "李梦 情商",
@@ -449,6 +457,14 @@
       "onboard_time": 1719104236,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1072879,
+      "num": 830117,
+      "word": "迪丽热巴这发际线",
+      "onboard_time": 1719303557,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1070112,
@@ -747,14 +763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 830117,
-      "num": 830117,
-      "word": "迪丽热巴这发际线",
-      "onboard_time": 1719303557,
-      "rank": 16,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 827911,
       "num": 827911,
       "word": "橘子洲",
@@ -875,6 +883,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 734680,
+      "num": 235866,
+      "word": "男子用麻精药品迷奸多名女性被判无期",
+      "onboard_time": 1719305179,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 734070,
       "num": 734070,
       "word": "光遇复刻",
@@ -913,6 +929,14 @@
       "onboard_time": 1719121458,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 710293,
+      "num": 710293,
+      "word": "警方通报苏州持刀伤人案件",
+      "onboard_time": 1719304099,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 707514,
@@ -1243,6 +1267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 564625,
+      "num": 502778,
+      "word": "被斥盗窃女生食堂外发1万双筷子",
+      "onboard_time": 1719301460,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 559900,
       "num": 559900,
       "word": "鹅厂2024大剧片单",
@@ -1459,14 +1491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 502778,
-      "num": 502778,
-      "word": "被斥盗窃女生食堂外发1万双筷子",
-      "onboard_time": 1719301460,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502201,
       "num": 502201,
       "word": "王星越谈被校园霸凌哭了",
@@ -1641,6 +1665,14 @@
       "onboard_time": 1719145698,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 468912,
+      "num": 232760,
+      "word": "长期不吃晚饭的人最终怎么了",
+      "onboard_time": 1719303079,
+      "rank": 41,
+      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 466211,
@@ -1841,6 +1873,14 @@
       "onboard_time": 1719212838,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 434821,
+      "num": 434821,
+      "word": "张婧仪把微博当朋友圈",
+      "onboard_time": 1719301579,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 434692,
@@ -2081,14 +2121,6 @@
       "onboard_time": 1719139818,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405633,
-      "num": 398585,
-      "word": "张婧仪把微博当朋友圈",
-      "onboard_time": 1719301579,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 405582,
@@ -2571,6 +2603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 322956,
+      "num": 322956,
+      "word": "筷子女王",
+      "onboard_time": 1719304638,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 321861,
       "num": 199271,
       "word": "方协文 可怕",
@@ -2811,14 +2851,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 293875,
-      "num": 293875,
-      "word": "教育局回应女生拿6双筷子被斥盗窃",
-      "onboard_time": 1719302960,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292741,
       "num": 292741,
       "word": "权志龙说BIGBANG现在只有三个人",
@@ -3043,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263940,
+      "num": 263940,
+      "word": "外交部回应日本公民在苏州遇袭",
+      "onboard_time": 1719303557,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263934,
       "num": 263934,
       "word": "河南一分一段",
@@ -3227,6 +3267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 241950,
+      "num": 241950,
+      "word": "杨幂论文字数",
+      "onboard_time": 1719305359,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 241723,
       "num": 241723,
       "word": "王者新赛季",
@@ -3347,28 +3395,12 @@
       "category": "社会负面"
     },
     {
-      "raw_hot": 231491,
-      "num": 231491,
-      "word": "外交部回应日本公民在苏州遇袭",
-      "onboard_time": 1719303557,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231337,
       "num": 191777,
       "word": "檀健次李兰迪滤镜海报",
       "onboard_time": 1719197898,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230982,
-      "num": 230982,
-      "word": "长期不吃晚饭的人最终怎么了",
-      "onboard_time": 1719303079,
-      "rank": 41,
-      "category": "健康医疗,科学科普"
     },
     {
       "raw_hot": 230915,
@@ -3505,6 +3537,14 @@
       "onboard_time": 1719104357,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222286,
+      "num": 222286,
+      "word": "小夭头发都白了",
+      "onboard_time": 1719303977,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 221151,
@@ -3667,6 +3707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209077,
+      "num": 209077,
+      "word": "当代年轻人戴手串现状",
+      "onboard_time": 1719306198,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 209069,
       "num": 209069,
       "word": "许凯换发型了",
@@ -3697,6 +3745,14 @@
       "onboard_time": 1719279258,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 208491,
+      "num": 208491,
+      "word": "彭冠英告别玫瑰的故事",
+      "onboard_time": 1719304999,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 208420,
@@ -4115,14 +4171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195155,
-      "num": 195155,
-      "word": "警方通报苏州持刀伤人案件",
-      "onboard_time": 1719304099,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194869,
       "num": 194869,
       "word": "RedVelvet新歌CosmicMV",
@@ -4531,6 +4579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183010,
+      "num": 183010,
+      "word": "清华老师招生宣传华科老师望眼欲穿",
+      "onboard_time": 1719305538,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 182742,
       "num": 200923,
       "word": "欧洲杯",
@@ -4561,14 +4617,6 @@
       "onboard_time": 1719202640,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182110,
-      "num": 182110,
-      "word": "小夭头发都白了",
-      "onboard_time": 1719303977,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 180687,
@@ -5080,6 +5128,14 @@
       "word": "李梦衣品",
       "onboard_time": 1719238821,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162086,
+      "num": 162086,
+      "word": "破坏黄家驹墓碑者7月份判刑",
+      "onboard_time": 1719305478,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -5723,6 +5779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 140406,
+      "num": 140406,
+      "word": "袭击日本母子凶手已被抓",
+      "onboard_time": 1719306499,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140345,
       "num": 140345,
       "word": "恋与深空快开门",
@@ -5777,6 +5841,14 @@
       "onboard_time": 1719216679,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138483,
+      "num": 138483,
+      "word": "宋慧乔裴秀智林智妍同框照",
+      "onboard_time": 1719307039,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138375,
@@ -5953,6 +6025,14 @@
       "onboard_time": 1719223400,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 130949,
+      "num": 449070,
+      "word": "男生高考708分笔记工整似印刷",
+      "onboard_time": 1719306258,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130776,
@@ -6227,6 +6307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123765,
+      "num": 113017,
+      "word": "胡歌刘亦菲青春洋溢的合照",
+      "onboard_time": 1719304818,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123636,
       "num": 123636,
       "word": "有父母托举的人生",
@@ -6257,14 +6345,6 @@
       "onboard_time": 1719048257,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121621,
-      "num": 121621,
-      "word": "筷子女王",
-      "onboard_time": 1719304638,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 121256,
@@ -6555,6 +6635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113298,
+      "num": 113298,
+      "word": "体测800m跑5分20秒经验分享",
+      "onboard_time": 1719305898,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113219,
       "num": 113219,
       "word": "这版欧阳锋变帅了",
@@ -6609,6 +6697,14 @@
       "onboard_time": 1719286519,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110996,
+      "num": 110996,
+      "word": "高考708分考生计划假期做家教",
+      "onboard_time": 1719306138,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110648,
@@ -6729,6 +6825,22 @@
       "onboard_time": 1719101896,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106179,
+      "num": 110435,
+      "word": "没有人比张艺兴更怀念当年",
+      "onboard_time": 1719305719,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 105234,
+      "num": 713317,
+      "word": "嫦娥六号月背挖宝回来了",
+      "onboard_time": 1719304938,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104853,
@@ -7404,7 +7516,7 @@
     },
     {
       "raw_hot": 54871,
-      "num": 384160,
+      "num": 442473,
       "word": "moto小折叠的大外屏有多惊艳",
       "onboard_time": 1719302658,
       "rank": 21,
@@ -8115,6 +8227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 15511,
+      "num": 138655,
+      "word": "外语类专业考研难吗",
+      "onboard_time": 1719306021,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 15112,
       "num": 207645,
       "word": "俄不会就乌克兰问题与任何一方私下谈判",
@@ -8255,6 +8375,9 @@
     },
     {
       "word": "#中国式现代化要靠科技现代化作支撑#"
+    },
+    {
+      "word": "#习近平致电祝贺嫦娥六号任务圆满成功#"
     }
   ]
 }
