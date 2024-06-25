@@ -1,0 +1,410 @@
+{
+  "runTime": 1719283536745,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1077125,
+        "num": 1077125,
+        "word": "安徽高考分数线",
+        "onboard_time": 1719277939,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 918174,
+        "num": 918174,
+        "word": "河南一本上线155883人",
+        "onboard_time": 1719277698,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 55538,
+        "num": 854981,
+        "word": "高铁火箭飞机的发展都与这门专业相关",
+        "onboard_time": 1719236360,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1418626,
+        "num": 848157,
+        "word": "北大教授建议年轻人不要躺平继续卷",
+        "onboard_time": 1719278058,
+        "rank": 3,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 836516,
+        "num": 836516,
+        "word": "去年牵手跑出高考考场情侣后续",
+        "onboard_time": 1719281179,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 765690,
+        "num": 765690,
+        "word": "杨幂论文查重率",
+        "onboard_time": 1719282980,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699247,
+        "num": 699247,
+        "word": "妈妈开心晒女儿高考438分",
+        "onboard_time": 1719281719,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 627513,
+        "num": 627513,
+        "word": "清华北大为了抢人有多拼",
+        "onboard_time": 1719274938,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 549449,
+        "num": 549449,
+        "word": "谢霆锋回应和王菲打扮越来越像",
+        "onboard_time": 1719273799,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530238,
+        "num": 530238,
+        "word": "杜江霍思燕收养实验犬",
+        "onboard_time": 1719238520,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742926,
+        "num": 527856,
+        "word": "改试卷改到一张有答案的试卷",
+        "onboard_time": 1719281059,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480120,
+        "num": 480120,
+        "word": "江西分数线",
+        "onboard_time": 1719279019,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 455310,
+        "num": 455310,
+        "word": "加沙有婴儿出生7个月只长0.6斤",
+        "onboard_time": 1719276439,
+        "rank": 12,
+        "category": "国外时政"
+      },
+      {
+        "raw_hot": 418851,
+        "num": 418851,
+        "word": "高考成绩",
+        "onboard_time": 1719281480,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 359203,
+        "num": 359203,
+        "word": "外国人在大连旅行感叹看到了全世界",
+        "onboard_time": 1719281059,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 350447,
+        "num": 350447,
+        "word": "老人用了20多年的锤子竟是手榴弹",
+        "onboard_time": 1719272057,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212466,
+        "num": 350136,
+        "word": "邓稼先曾为核事业隐姓埋名28年",
+        "onboard_time": 1719279978,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350085,
+        "num": 350085,
+        "word": "北京高考分数线",
+        "onboard_time": 1719281299,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 343091,
+        "num": 343091,
+        "word": "一个个提到刘亦菲都笑得合不拢嘴",
+        "onboard_time": 1719275599,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271255,
+        "num": 271255,
+        "word": "陈娴回应",
+        "onboard_time": 1719278417,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 769328,
+        "num": 270958,
+        "word": "常喝牛奶和不常喝奶的人真的差很多",
+        "onboard_time": 1719278058,
+        "rank": 20,
+        "category": "健康医疗,科学科普"
+      },
+      {
+        "raw_hot": 470138,
+        "num": 268143,
+        "word": "对方拒绝了你的自我感动",
+        "onboard_time": 1719271695,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287196,
+        "num": 263823,
+        "word": "男朋友上班太困发错消息给领导了",
+        "onboard_time": 1719281119,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320306,
+        "num": 262633,
+        "word": "当伴娘的刘亦菲",
+        "onboard_time": 1719282918,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261317,
+        "num": 261317,
+        "word": "分数线降降降",
+        "onboard_time": 1719281418,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 241248,
+        "num": 241248,
+        "word": "浙大百万网红陈娴已有多家公司",
+        "onboard_time": 1719247695,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240569,
+        "num": 240569,
+        "word": "新说唱总冠军 隼",
+        "onboard_time": 1719271395,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236506,
+        "num": 236506,
+        "word": "六点钟下班真的太晚了",
+        "onboard_time": 1719279797,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 231609,
+        "num": 231609,
+        "word": "尚雯婕冠军",
+        "onboard_time": 1719241520,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26584,
+        "num": 199773,
+        "word": "美国阿拉斯加大火已经烧了三周",
+        "onboard_time": 1719282918,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193512,
+        "num": 193512,
+        "word": "到底啥是city不city啊",
+        "onboard_time": 1719240620,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191195,
+        "num": 191195,
+        "word": "河南高考600分及以上25623人",
+        "onboard_time": 1719279258,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186803,
+        "num": 186803,
+        "word": "黄子韬首次担任综艺出品人",
+        "onboard_time": 1719278119,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169991,
+        "num": 169991,
+        "word": "霍拉拉",
+        "onboard_time": 1719282620,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166808,
+        "num": 166808,
+        "word": "各方回应七岁女孩吃面包噎住不幸离世",
+        "onboard_time": 1719276020,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151051,
+        "num": 151051,
+        "word": "无意识却能攒钱的习惯",
+        "onboard_time": 1719277878,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 143547,
+        "num": 143547,
+        "word": "你比星光美丽定档",
+        "onboard_time": 1719283398,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131552,
+        "num": 131552,
+        "word": "苹果拒绝与meta的AI合作",
+        "onboard_time": 1719279857,
+        "rank": 37,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 131080,
+        "num": 131080,
+        "word": "iOS18能下载更大应用了",
+        "onboard_time": 1719278960,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130778,
+        "num": 130778,
+        "word": "我的家政阿姨想当我妹的婆婆",
+        "onboard_time": 1719276140,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127448,
+        "num": 127448,
+        "word": "湖北分数线",
+        "onboard_time": 1719277760,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126635,
+        "num": 126635,
+        "word": "刘亦菲自拍水平二十年如一日",
+        "onboard_time": 1719270854,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124623,
+        "num": 124623,
+        "word": "发现导师朋友圈只屏蔽了我",
+        "onboard_time": 1719243859,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122996,
+        "num": 122996,
+        "word": "辉子失误",
+        "onboard_time": 1719242240,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117122,
+        "num": 117122,
+        "word": "吉林高考分数线",
+        "onboard_time": 1719281359,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116647,
+        "num": 116647,
+        "word": "沙特杯官宣LOL项目赛程",
+        "onboard_time": 1719279438,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108664,
+        "num": 108664,
+        "word": "冠军留在五人组",
+        "onboard_time": 1719279619,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102595,
+        "num": 102595,
+        "word": "A股大跌",
+        "onboard_time": 1719240321,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99338,
+        "num": 99338,
+        "word": "这些奥运老将即将出征巴黎",
+        "onboard_time": 1719282198,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97991,
+        "num": 97991,
+        "word": "可许魔笛再少年",
+        "onboard_time": 1719281179,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#科技向新#"
+    }
+  }
+}
