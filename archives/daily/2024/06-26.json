@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719350323776,
+  "endTime": 1719351322968,
   "band_list": [
     {
       "raw_hot": 826246,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 37183,
-      "num": 30643,
+      "num": 31345,
       "word": "梁永棋抱着喝醉的王星越",
       "onboard_time": 1719342551,
       "rank": 42,
@@ -443,20 +443,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33014,
+      "num": 33014,
+      "word": "美洲杯",
+      "onboard_time": 1719348071,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26701,
       "num": 26701,
       "word": "杜海涛想要个女儿",
       "onboard_time": 1719338532,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25938,
-      "num": 25938,
-      "word": "美洲杯",
-      "onboard_time": 1719348071,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 24351,
@@ -505,6 +505,14 @@
       "onboard_time": 1719349812,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 12352,
+      "num": 17926,
+      "word": "张子宇太强了",
+      "onboard_time": 1719347711,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 12078,
