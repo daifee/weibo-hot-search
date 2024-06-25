@@ -1,6 +1,6 @@
 {
   "startTime": 1719332692855,
-  "endTime": 1719340743427,
+  "endTime": 1719343016852,
   "band_list": [
     {
       "raw_hot": 826246,
@@ -411,20 +411,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 50936,
+      "num": 40091,
+      "word": "晚上睡不着和熬夜的区别有多大",
+      "onboard_time": 1719339252,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 48549,
       "num": 76863,
       "word": "WBG更换首发辅助",
       "onboard_time": 1719316098,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 40091,
-      "num": 40091,
-      "word": "晚上睡不着和熬夜的区别有多大",
-      "onboard_time": 1719339252,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 35934,
@@ -449,6 +449,22 @@
       "onboard_time": 1719322939,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21296,
+      "num": 21296,
+      "word": "i人甚至都不敢看完",
+      "onboard_time": 1719341951,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 18460,
+      "num": 18460,
+      "word": "梁永棋抱着喝醉的王星越",
+      "onboard_time": 1719342551,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 15537,
@@ -500,6 +516,9 @@
     },
     {
       "word": "#习近平致电祝贺嫦娥六号任务圆满成功#"
+    },
+    {
+      "word": "#总书记这样谈科学家精神#"
     }
   ]
 }

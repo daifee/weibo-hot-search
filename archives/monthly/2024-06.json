@@ -1,6 +1,6 @@
 {
   "startTime": 1717172576225,
-  "endTime": 1719340743427,
+  "endTime": 1719343016852,
   "band_list": [
     {
       "raw_hot": 25424223,
@@ -68867,6 +68867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50936,
+      "num": 40091,
+      "word": "晚上睡不着和熬夜的区别有多大",
+      "onboard_time": 1719339252,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50892,
       "num": 1052154,
       "word": "晒一晒你和爸爸的合影",
@@ -70369,14 +70377,6 @@
       "onboard_time": 1718752814,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 40091,
-      "num": 40091,
-      "word": "晚上睡不着和熬夜的区别有多大",
-      "onboard_time": 1719339252,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 40068,
@@ -73243,6 +73243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 21296,
+      "num": 21296,
+      "word": "i人甚至都不敢看完",
+      "onboard_time": 1719341951,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21152,
       "num": 134676,
       "word": "田雨余皑磊直播",
@@ -73545,6 +73553,14 @@
       "onboard_time": 1718226370,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 18460,
+      "num": 18460,
+      "word": "梁永棋抱着喝醉的王星越",
+      "onboard_time": 1719342551,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 18457,
