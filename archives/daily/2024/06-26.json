@@ -1,0 +1,411 @@
+{
+  "startTime": 1719332692855,
+  "endTime": 1719332692855,
+  "band_list": [
+    {
+      "raw_hot": 826246,
+      "num": 826246,
+      "word": "林一晒与刘亦菲合照",
+      "onboard_time": 1719325580,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 705277,
+      "num": 705277,
+      "word": "男生查分后默默去做饭妈妈秒懂",
+      "onboard_time": 1719317478,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 595614,
+      "num": 595614,
+      "word": "我考了696分我同桌考了703分",
+      "onboard_time": 1719319759,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587328,
+      "num": 587328,
+      "word": "清华告诉你北京到底有谁在",
+      "onboard_time": 1719328880,
+      "rank": 4,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 449528,
+      "num": 449528,
+      "word": "腾讯四连爆",
+      "onboard_time": 1719311539,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 447410,
+      "num": 447410,
+      "word": "刘亦菲回复林一",
+      "onboard_time": 1719330677,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 417729,
+      "num": 417729,
+      "word": "裘德 歌手",
+      "onboard_time": 1719324439,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 387467,
+      "num": 387467,
+      "word": "金靖刘胜瑛真的一起怀孕",
+      "onboard_time": 1719323240,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 367268,
+      "num": 181665,
+      "word": "长期不爱说话或说话少的后果",
+      "onboard_time": 1719324140,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 361806,
+      "num": 361806,
+      "word": "只有川渝人才知道他演的有多像",
+      "onboard_time": 1719327020,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 337213,
+      "num": 181548,
+      "word": "不想腹部长赘肉8种食物少吃",
+      "onboard_time": 1719326899,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 299790,
+      "num": 299790,
+      "word": "江西卫视发了王一博哭戏",
+      "onboard_time": 1719328160,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285660,
+      "num": 285660,
+      "word": "MTJJ 弃养",
+      "onboard_time": 1719319819,
+      "rank": 13,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 281825,
+      "num": 394151,
+      "word": "男子用麻精药品迷奸多名女性被判无期",
+      "onboard_time": 1719305179,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244442,
+      "num": 244442,
+      "word": "刘亦菲发文感谢所有人",
+      "onboard_time": 1719317538,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233445,
+      "num": 233445,
+      "word": "被境外毒枭悬赏人头的缉毒警有话要说",
+      "onboard_time": 1719323660,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233259,
+      "num": 233259,
+      "word": "赵露思旗袍",
+      "onboard_time": 1719322400,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207093,
+      "num": 207093,
+      "word": "喜茶 小奶栀",
+      "onboard_time": 1719321079,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 189425,
+      "num": 189425,
+      "word": "双鱼座讨厌一个人全写在脸上",
+      "onboard_time": 1719320479,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 181419,
+      "num": 181419,
+      "word": "迪丽热巴这发际线",
+      "onboard_time": 1719303557,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 181318,
+      "num": 181318,
+      "word": "朋友圈可以屏蔽一个群的人",
+      "onboard_time": 1719331037,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 150751,
+      "num": 181905,
+      "word": "北京警方通报65岁男子捂女孩嘴",
+      "onboard_time": 1719313998,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145781,
+      "num": 145781,
+      "word": "罗小黑原型",
+      "onboard_time": 1719310457,
+      "rank": 24,
+      "category": "动漫,网红"
+    },
+    {
+      "raw_hot": 134353,
+      "num": 134353,
+      "word": "吴奇隆晒照",
+      "onboard_time": 1719331397,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127556,
+      "num": 127556,
+      "word": "美术馆就玫瑰的故事丢失作品致歉",
+      "onboard_time": 1719329539,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122408,
+      "num": 122408,
+      "word": "涂山璟还是熟悉的那味儿",
+      "onboard_time": 1719320600,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113520,
+      "num": 113520,
+      "word": "万茜怎么把编织袋穿身上了",
+      "onboard_time": 1719329119,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113210,
+      "num": 113210,
+      "word": "喜茶新品名小奶栀被指擦边",
+      "onboard_time": 1719318859,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112178,
+      "num": 112178,
+      "word": "法国vs波兰",
+      "onboard_time": 1719326300,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106423,
+      "num": 106423,
+      "word": "孙阳和网友吵起来了",
+      "onboard_time": 1719311239,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95251,
+      "num": 95251,
+      "word": "金智媛台北活动",
+      "onboard_time": 1719318559,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91945,
+      "num": 91945,
+      "word": "正确改善驼背",
+      "onboard_time": 1719323540,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 88851,
+      "num": 88851,
+      "word": "庄国栋等了黄亦玫20年",
+      "onboard_time": 1719308839,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86388,
+      "num": 86388,
+      "word": "周杰伦 DIOR活动",
+      "onboard_time": 1719322460,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86322,
+      "num": 86322,
+      "word": "张杰将直播",
+      "onboard_time": 1719327440,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 83003,
+      "num": 86322,
+      "word": "虞书欣 中餐厅ootd",
+      "onboard_time": 1719307878,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77982,
+      "num": 86319,
+      "word": "丁当 揭榜",
+      "onboard_time": 1719323240,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 75764,
+      "num": 86318,
+      "word": "古茗logo",
+      "onboard_time": 1719317899,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 75445,
+      "num": 86318,
+      "word": "黑龙江高考分数线",
+      "onboard_time": 1719328698,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 73522,
+      "num": 86314,
+      "word": "唐尚珺称被录取前不会公布分数",
+      "onboard_time": 1719325519,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71580,
+      "num": 86314,
+      "word": "广西文旅欢迎王一博",
+      "onboard_time": 1719326120,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69974,
+      "num": 86311,
+      "word": "韩国流行的半扎发方法",
+      "onboard_time": 1719320600,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 69382,
+      "num": 86310,
+      "word": "林沐然艺考过本科线",
+      "onboard_time": 1719327979,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68965,
+      "num": 86309,
+      "word": "日本卖的西瓜皮是谁啃的",
+      "onboard_time": 1719316158,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 58218,
+      "num": 86308,
+      "word": "除了买菜数学还有什么用",
+      "onboard_time": 1719325819,
+      "rank": 46,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 56805,
+      "num": 86305,
+      "word": "别成为那个不愿被让座的人",
+      "onboard_time": 1719322819,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56792,
+      "num": 86303,
+      "word": "耳帝说王力宏解锁F6哨音技能",
+      "onboard_time": 1719325519,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 56663,
+      "num": 86302,
+      "word": "宝石老舅已老实求放过",
+      "onboard_time": 1719321620,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48523,
+      "num": 390437,
+      "word": "凡尔赛男孩称考得不好全省排名一千多",
+      "onboard_time": 1719332177,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24351,
+      "num": 644123,
+      "word": "高质量发展中国行",
+      "onboard_time": 1719322939,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中国式现代化要靠科技现代化作支撑#"
+    }
+  ]
+}
